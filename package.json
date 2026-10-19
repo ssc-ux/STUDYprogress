@@ -1,0 +1,12 @@
+{
+  "name": "studyprogress",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
+    "zod": "^4.6.7"
+  }
+}
