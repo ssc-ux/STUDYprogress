@@ -10,7 +10,7 @@ const Fiche = z.object({
   question: z.string().describe("La question posée par l'étude, en une phrase"),
   contexte: z.string().describe("Contexte détaillé du projet, 6 à 9 phrases en un ou deux paragraphes séparés par une ligne vide"),
   interet: z.string().describe("Ce que l'étude pourrait changer en pratique, 2 à 4 phrases"),
-  profil: z.string().describe("Le patient à proposer, en une phrase commençant par un article (« Un adulte… »)"),
+  profil: z.string().describe("La population étudiée, en une phrase (« Des adultes… »)"),
   inclusion: z.array(z.string()).describe("4 à 7 critères d'inclusion clés, courts"),
   exclusion: z.array(z.string()).describe("4 à 7 critères d'exclusion clés, courts"),
   bras: z.array(z.object({ nom: z.string(), traitement: z.string() })).describe("Bras ou groupes de l'étude (1 à 4)"),
@@ -18,7 +18,7 @@ const Fiche = z.object({
   critere: z.string().describe("Critère de jugement principal reformulé simplement, avec son délai")
 });
 
-const SYSTEM = `Tu rédiges des fiches d'études cliniques pour des internistes français. Ils veulent comprendre en une minute pourquoi l'étude existe, ce qu'elle teste et quel patient lui adresser.
+const SYSTEM = `Tu rédiges des fiches d'études cliniques pour des internistes français. Ils veulent s'informer en une minute : pourquoi l'étude existe, ce qu'elle teste, sur quelle population. Le site informe, il ne sert pas à orienter des patients.
 
 Règles :
 - Français médical clair, phrases courtes, sans jargon administratif. Noms de molécules en DCI, abréviations usuelles en médecine interne (GPA, PAM, ACG, PTI…).

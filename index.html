@@ -4,159 +4,175 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>STUDYprogress</title>
-<meta name="description" content="Où en sont les études cliniques en médecine interne ? Répertoire lisible, études françaises en avant.">
+<meta name="description" content="L'actualité des études cliniques en médecine interne : nouvelles études, études en cours et terminées, avec un accent sur la recherche française.">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap">
 <style>
-:root{color-scheme:light;--bg:#f5f6fa;--card:#fff;--fg:#1c1d1f;--muted:#6d6f73;--line:#e4e7ee;--accent:#1f5fbf;--chip:#eceef3;--ok:#17794a;--warn:#a0570a;--stop:#9b2c2c;--fr:#1f5fbf;--c1s:#e8f0fb;--k2:#ea580c;--star:#d49a00;--sh:0 1px 2px rgba(16,24,40,.05),0 2px 8px rgba(16,24,40,.06)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111318;--card:#1b1d21;--fg:#e9e8e4;--muted:#9b9ea4;--line:#2b2e33;--accent:#7aa7ff;--chip:#202329;--ok:#5cc68e;--warn:#eaa452;--stop:#f08a8a;--fr:#7aa7ff;--c1s:#1c2740;--k2:#fb923c;--star:#f2c443;--sh:0 1px 2px rgba(0,0,0,.4);color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#111318;--card:#1b1d21;--fg:#e9e8e4;--muted:#9b9ea4;--line:#2b2e33;--accent:#7aa7ff;--chip:#202329;--ok:#5cc68e;--warn:#eaa452;--stop:#f08a8a;--fr:#7aa7ff;--c1s:#1c2740;--k2:#fb923c;--star:#f2c443;--sh:0 1px 2px rgba(0,0,0,.4);color-scheme:dark}
+/* Direction « Labo » : vert d'eau, cartes blanches très arrondies, Lexend ; le calendrier (frise des dates) est le motif récurrent. */
+:root{color-scheme:light;--bg:#e9f6f3;--card:#fff;--fg:#12372f;--muted:#5b7a72;--line:#d2e7e1;--acc:#20a387;--ink:#137a63;--chip:#dbefe9;--soft:#f3faf8;--warn:#8a4b00;--warnb:#ffe6c7;--ok:#137a63;--okb:#d4f1e7;--fol:#3b55b8;--folb:#e2e8fb;--stop:#a33a3a;--stopb:#fbe1e1;--fr:#2a4fb5;--frb:#e6ecfb;--now:#e4572e;--star:#d49a00;--sh:0 1px 2px rgba(18,55,47,.04),0 6px 18px rgba(18,55,47,.06)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e1d1a;--card:#162925;--fg:#e2f2ee;--muted:#93b0a8;--line:#24403a;--acc:#33c09e;--ink:#5fd8b9;--chip:#1c3530;--soft:#12231f;--warn:#f3b874;--warnb:#3a2a17;--ok:#5fd8b9;--okb:#173a31;--fol:#a5b6ff;--folb:#222c4a;--stop:#f29a9a;--stopb:#3d2020;--fr:#9db2ff;--frb:#1f2a48;--now:#ff7a52;--star:#f2c443;--sh:0 1px 2px rgba(0,0,0,.3);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0e1d1a;--card:#162925;--fg:#e2f2ee;--muted:#93b0a8;--line:#24403a;--acc:#33c09e;--ink:#5fd8b9;--chip:#1c3530;--soft:#12231f;--warn:#f3b874;--warnb:#3a2a17;--ok:#5fd8b9;--okb:#173a31;--fol:#a5b6ff;--folb:#222c4a;--stop:#f29a9a;--stopb:#3d2020;--fr:#9db2ff;--frb:#1f2a48;--now:#ff7a52;--star:#f2c443;--sh:0 1px 2px rgba(0,0,0,.3);color-scheme:dark}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 "Plus Jakarta Sans",system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
-a{color:var(--accent)}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 "Lexend",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;font-weight:300}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+b,strong{font-weight:600}
+a{color:var(--ink)}
 button,select,input{font:inherit;color:inherit}
-:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.wrap{max-width:1040px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-right,0px)) 48px max(16px,env(safe-area-inset-left,0px))}
-h1,h2,h3{text-wrap:balance;letter-spacing:-.01em}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-right,0px)) 56px max(16px,env(safe-area-inset-left,0px))}
+h1,h2,h3{text-wrap:balance;font-weight:600;letter-spacing:-.01em}
 /* En-tête */
-.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);margin:0 -16px;padding:14px 16px 10px;box-shadow:0 1px 0 var(--line)}
-.bar1{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-h1{margin:0;font-size:1.2rem;font-weight:800}
-h1 a{display:inline-flex;align-items:center;gap:9px;color:inherit;text-decoration:none}
-.logo{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:9px;background:#1f5fbf;color:#fff;font-weight:800}
-#q{flex:1;min-width:200px;padding:10px 16px;border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:var(--sh)}
-.tabs{display:flex;gap:4px;margin-top:10px;padding:4px;background:var(--chip);border-radius:12px;overflow-x:auto;scrollbar-width:none}
-.tabs button{flex:1;padding:8px 10px;border:0;border-radius:9px;background:none;color:var(--muted);font-weight:500;cursor:pointer;white-space:nowrap}
-.tabs button[aria-selected=true]{background:var(--card);color:var(--fg);box-shadow:var(--sh)}
-.accroche,.quick,.stats{display:none}
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:14px 0 12px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:600;font-size:1.08rem;color:inherit;text-decoration:none}
+.leaf{display:grid;place-items:center;width:34px;height:34px;border-radius:50% 50% 50% 12%;background:var(--acc);color:#fff;font-weight:700}
+.nav{display:flex;gap:4px;margin-left:auto;flex-wrap:wrap}
+.nav button{border:0;background:none;padding:7px 14px;border-radius:999px;cursor:pointer;color:var(--muted);font-weight:400}
+.nav button:hover{color:var(--fg)}
+.nav button[aria-selected=true]{background:var(--card);color:var(--fg);font-weight:500;box-shadow:var(--sh)}
+.search{display:flex;gap:8px;flex-wrap:wrap;flex-basis:100%}
+#q{flex:1;min-width:200px;padding:11px 18px;border:0;border-radius:999px;background:var(--card);box-shadow:var(--sh)}
+#q::placeholder{color:var(--muted)}
+.home .search{display:none}
 /* Accueil */
-.home::before{content:"";position:fixed;inset:0;z-index:-1;background:radial-gradient(60% 45% at 20% 18%,color-mix(in srgb,var(--accent) 14%,transparent),transparent 70%),radial-gradient(55% 40% at 85% 30%,color-mix(in srgb,var(--ok) 12%,transparent),transparent 70%)}
-.home .top{position:static;background:none;box-shadow:none;display:flex;flex-direction:column;align-items:center;text-align:center;padding-top:10px}
-.home .bar1{flex-direction:column;width:100%;max-width:620px;gap:0}
-.home .tabs{order:-1;align-self:flex-end;background:none;padding:0;gap:16px;margin:0 0 clamp(40px,11vh,100px)}
-.home .tabs button{flex:none;padding:6px 0;font-size:.9rem;box-shadow:none;background:none}
-.home .tabs button:hover{color:var(--fg)}
-.home h1{margin:0 0 14px;font-size:clamp(2.1rem,8vw,3.2rem);font-weight:700;letter-spacing:-.03em}
-.home h1 a{gap:12px}
-.home .logo{width:clamp(40px,10vw,50px);height:clamp(40px,10vw,50px);border-radius:12px;font-size:1.5rem}
-.home .nm{background:linear-gradient(90deg,var(--accent),var(--ok));-webkit-background-clip:text;background-clip:text;color:transparent;padding-bottom:.08em}
-.home .accroche{display:block;margin:0 0 16px;color:var(--muted)}
-.home .accroche b{color:var(--accent)}
-.home #q{width:100%;padding:13px 18px;font-size:1rem}
-.home .quick{display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin:14px 0 0;max-width:680px}
-.quick button{padding:4px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);cursor:pointer;font-size:.85rem}
-.quick button:hover{border-color:var(--accent);color:var(--accent)}
-.home .stats{display:flex;justify-content:center;flex-wrap:wrap;gap:6px 22px;margin:16px 0 0;font-size:.87rem;color:var(--muted)}
-.stats b{color:var(--fg);font-variant-numeric:tabular-nums}
-.sec{margin-top:34px}
-.sec h2{font-size:1.1rem;margin:0 0 4px;display:flex;align-items:center;gap:8px}
-.sec .hint{color:var(--muted);font-size:.88rem;margin:0 0 12px}
-.more{margin-top:12px;background:none;border:0;color:var(--accent);font-weight:600;cursor:pointer;padding:0}
+.hero{padding:clamp(20px,6vw,56px) 0 8px}
+.hero h1{margin:0;font-size:clamp(1.9rem,5vw,2.9rem);line-height:1.12;max-width:20ch}
+.hero p{color:var(--muted);max-width:58ch;margin:12px 0 18px}
+.hsearch{display:flex;gap:8px;flex-wrap:wrap;max-width:640px}
+.hsearch input{flex:1;min-width:200px;padding:13px 20px;border:0;border-radius:999px;background:var(--card);box-shadow:var(--sh)}
+.hsearch button{border:0;border-radius:999px;padding:13px 22px;background:var(--fg);color:var(--bg);font-weight:500;cursor:pointer}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+.chips button{border:0;background:var(--chip);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:.86rem}
+.chips button:hover,.chips button[aria-pressed=true]{background:var(--fg);color:var(--bg)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:26px}
+.stat{background:var(--card);border-radius:20px;padding:14px 16px;box-shadow:var(--sh)}
+.stat b{display:block;font-size:1.7rem;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.2}
+.stat span{font-size:.82rem;color:var(--muted)}
+.stat.frs b{color:var(--fr)}
+.sec{margin-top:40px}
+.sech{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+.sech h2{margin:0;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.sech p{margin:2px 0 0;color:var(--muted);font-size:.88rem;flex-basis:100%}
+.link{background:none;border:0;padding:0;color:var(--ink);font-weight:500;cursor:pointer}
 /* Pastilles */
-.pill{--cc:var(--muted);display:inline-flex;align-items:center;gap:4px;padding:2px 10px;border-radius:999px;font-size:.75rem;font-weight:600;color:var(--cc);background:color-mix(in srgb,var(--cc) 13%,transparent);white-space:nowrap}
-.p-ok{--cc:var(--ok)}.p-warn{--cc:var(--warn)}.p-stop{--cc:var(--stop)}.p-acc{--cc:var(--accent)}.p-new{--cc:var(--k2)}
-.fr{display:inline-flex;align-items:center;gap:5px;padding:2px 10px 2px 6px;border-radius:999px;font-size:.75rem;font-weight:700;color:var(--fr);background:color-mix(in srgb,var(--fr) 12%,transparent);white-space:nowrap}
-.fr.lite{font-weight:600;background:none;border:1px solid color-mix(in srgb,var(--fr) 30%,transparent)}
+.tag{display:inline-flex;align-items:center;gap:5px;padding:2px 10px;border-radius:999px;font-size:.74rem;font-weight:500;white-space:nowrap;background:var(--chip);color:var(--muted)}
+.t-soon{background:var(--warnb);color:var(--warn)}.t-rec{background:var(--okb);color:var(--ok)}.t-fol{background:var(--folb);color:var(--fol)}.t-stop{background:var(--stopb);color:var(--stop)}.t-res{background:var(--fg);color:var(--bg)}
+.t-new{background:var(--now);color:#fff}
+.frt{background:var(--frb);color:var(--fr);font-weight:600;padding-left:7px}
+.frl{background:none;color:var(--fr);border:1px solid color-mix(in srgb,var(--fr) 35%,transparent)}
 .flag{display:inline-flex;width:14px;height:10px;border-radius:2px;overflow:hidden;flex:none;box-shadow:0 0 0 .5px rgba(0,0,0,.2)}
 .flag i{flex:1}.flag i:nth-child(1){background:#1f4fb5}.flag i:nth-child(2){background:#fff}.flag i:nth-child(3){background:#d62b3a}
-/* Liste */
-.cats{display:flex;gap:6px;margin:14px 0 0;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
-.cats button{flex:none;padding:5px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);cursor:pointer;font-size:.88rem;white-space:nowrap}
-.cats button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
-.filters{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
-.filters select{padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);font-size:.85rem;max-width:100%}
-.count{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;color:var(--muted);font-size:.85rem;margin:12px 0 0}
-.disf{display:inline-flex;align-items:center;gap:6px;padding:2px 4px 2px 10px;border-radius:999px;background:var(--c1s);color:var(--accent);font-weight:600}
-.disf button{border:0;background:none;color:inherit;cursor:pointer;padding:0 6px;font-size:1rem;line-height:1}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;margin-top:10px}
-.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--sh);padding:14px 16px;display:flex;flex-direction:column;gap:8px;min-width:0;transition:transform .15s,box-shadow .15s}
-.card:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(16,24,40,.09)}
-.card.frc{border-color:color-mix(in srgb,var(--fr) 45%,var(--line))}
-.card .hd{display:flex;gap:6px;flex-wrap:wrap;align-items:center;padding-right:26px}
-.card .ac{font-weight:800;font-size:1.02rem;line-height:1.3;overflow-wrap:anywhere}
+/* Cartes */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.card{position:relative;background:var(--card);border-radius:22px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0;box-shadow:var(--sh);transition:transform .15s}
+.card:hover{transform:translateY(-2px)}
+.card.frc{box-shadow:var(--sh),inset 0 0 0 1.5px color-mix(in srgb,var(--fr) 35%,transparent)}
+.card .hd{display:flex;gap:5px;flex-wrap:wrap;padding-right:26px}
+.card .ac{font-weight:600;font-size:1.05rem;line-height:1.3;overflow-wrap:anywhere}
 .card .ac a{color:inherit;text-decoration:none}
-.card .ac a::after{content:"";position:absolute;inset:0;border-radius:14px}
-.card:hover .ac a{color:var(--accent)}
-.card .ti{font-size:.86rem;color:var(--muted);margin-top:-6px;overflow-wrap:anywhere}
+.card .ac a::after{content:"";position:absolute;inset:0;border-radius:22px}
+.card:hover .ac a{color:var(--ink)}
+.card .ti{font-size:.88rem;color:var(--muted);margin-top:-6px;overflow-wrap:anywhere}
 .card .why{font-size:.9rem}
-.card .incl{font-size:.83rem;padding:8px 10px;background:var(--bg);border-radius:8px}
-.card .incl b{color:var(--muted);font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;display:block}
 .card .ft{display:flex;flex-wrap:wrap;gap:2px 12px;font-size:.78rem;color:var(--muted);margin-top:auto}
-.fav{position:absolute;z-index:1;top:10px;right:10px;background:none;border:0;cursor:pointer;color:var(--muted);font-size:1.15rem;line-height:1;padding:4px 6px;border-radius:6px}
+.mini{position:relative;height:6px;border-radius:999px;background:var(--chip);margin:2px 0 0}
+.mini i{position:absolute;top:0;bottom:0;border-radius:999px;background:var(--acc)}
+.mini i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 4px,color-mix(in srgb,var(--acc) 20%,transparent) 4px 8px)}
+.mini s{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--now);border-radius:1px}
+.minil{display:flex;justify-content:space-between;font-size:.7rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.fav{position:absolute;z-index:1;top:12px;right:12px;background:none;border:0;cursor:pointer;color:var(--muted);font-size:1.1rem;line-height:1;padding:4px 6px;border-radius:999px}
 .fav[aria-pressed=true]{color:var(--star)}
 .fav:hover{background:var(--chip)}
+/* Liste */
+.cats{display:flex;gap:6px;margin:6px 0 0;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.cats button{flex:none;border:0;background:var(--chip);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:.86rem;white-space:nowrap}
+.cats button[aria-pressed=true]{background:var(--fg);color:var(--bg)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.filters select{padding:7px 12px;border:0;border-radius:999px;background:var(--card);box-shadow:var(--sh);font-size:.85rem;max-width:100%}
+.count{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;color:var(--muted);font-size:.86rem;margin:14px 0 10px}
+.disf{display:inline-flex;align-items:center;gap:4px;padding:2px 4px 2px 12px;border-radius:999px;background:var(--fg);color:var(--bg)}
+.disf button{border:0;background:none;color:inherit;cursor:pointer;padding:0 6px;font-size:1rem;line-height:1}
+.more{display:block;margin:16px auto 0;border:0;border-radius:999px;padding:10px 22px;background:var(--card);box-shadow:var(--sh);cursor:pointer;font-weight:500}
 #empty{color:var(--muted);padding:24px 0}
 /* Par maladie */
-.mh{margin:24px 0 8px;font-size:.95rem;color:var(--muted)}
-.mtiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
-.mtile{display:flex;flex-direction:column;gap:6px;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;box-shadow:var(--sh);cursor:pointer}
-.mtile:hover{border-color:var(--accent)}
+.mh{margin:28px 0 10px;font-size:1rem;color:var(--muted);font-weight:500}
+.mtiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.mtile{display:flex;flex-direction:column;gap:8px;text-align:left;background:var(--card);border:0;border-radius:20px;padding:14px 16px;box-shadow:var(--sh);cursor:pointer}
+.mtile:hover{box-shadow:var(--sh),inset 0 0 0 1.5px var(--acc)}
 .mtile b{font-size:.98rem}
-.mtile span{display:flex;gap:6px;flex-wrap:wrap}
+.mtile span{display:flex;gap:5px;flex-wrap:wrap}
 /* Fiche */
-.back{background:none;border:0;padding:0;margin:16px 0 10px;color:var(--accent);cursor:pointer;font-weight:600}
-.fiche{display:grid;grid-template-columns:minmax(0,1fr) 290px;gap:18px;align-items:start}
-@media (max-width:780px){.fiche{grid-template-columns:minmax(0,1fr)}}
-.fh{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
-.fiche h2{margin:0;font-size:clamp(1.4rem,4vw,1.8rem);font-weight:800;overflow-wrap:anywhere}
-.fiche .sub{color:var(--muted);margin:4px 0 14px;font-size:.92rem}
-.blk{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:12px;min-width:0}
-.blk h3{margin:0 0 8px;font-size:1rem;display:flex;align-items:center;gap:8px}
-.blk h3 .n{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:7px;background:var(--c1s);color:var(--accent);font-size:.75rem;flex:none}
-.blk p{margin:0 0 8px;font-size:.93rem}
+.back{background:none;border:0;padding:0;margin:8px 0 14px;color:var(--ink);cursor:pointer;font-weight:500}
+.fiche{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:18px;align-items:start}
+@media (max-width:820px){.fiche{grid-template-columns:minmax(0,1fr)}}
+.fh{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.fiche h1{margin:0;font-size:clamp(1.6rem,4.5vw,2.2rem);overflow-wrap:anywhere;line-height:1.15}
+.fiche .sub{color:var(--muted);margin:6px 0 16px;font-size:.95rem}
+.fiche .sub small{display:block;font-size:.82rem;margin-top:2px}
+.blk{background:var(--card);border-radius:22px;padding:16px 20px;margin-bottom:12px;min-width:0;box-shadow:var(--sh)}
+.blk h2{margin:0 0 10px;font-size:1.02rem;display:flex;align-items:center;gap:8px}
+.blk p{margin:0 0 8px;font-size:.95rem}
 .blk p:last-child{margin-bottom:0}
-.blk ul{margin:0;padding-left:20px;font-size:.9rem}
+.blk ul{margin:0;padding-left:20px;font-size:.92rem}
 .blk li{margin:3px 0}
-.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 @media (max-width:560px){.two{grid-template-columns:1fr}}
-.ok li::marker{content:"✓  ";color:var(--ok)}
-.ko li::marker{content:"✕  ";color:var(--stop)}
-.raw{white-space:pre-wrap;font-size:.85rem;color:var(--muted);max-height:420px;overflow:auto;background:var(--bg);border-radius:8px;padding:10px 12px;margin-top:6px}
-details summary{cursor:pointer;color:var(--accent);font-weight:600;font-size:.9rem}
-.autonote{font-size:.78rem;color:var(--muted);margin:-4px 0 12px}
-/* Où en est l'étude */
-.steps{display:flex;gap:4px;margin:4px 0 12px;overflow-x:auto}
-.steps span{flex:1;min-width:80px;text-align:center;font-size:.75rem;padding:6px 4px;border-radius:8px;background:var(--chip);color:var(--muted)}
-.steps span.done{background:color-mix(in srgb,var(--ok) 14%,transparent);color:var(--ok);font-weight:600}
-.steps span.cur{background:var(--ok);color:#fff;font-weight:700}
-.steps span.stop{background:var(--stop);color:#fff;font-weight:700}
-.tbar{position:relative;height:8px;border-radius:999px;background:var(--chip);margin:22px 0 6px}
-.tbar i{position:absolute;left:0;top:0;bottom:0;border-radius:999px;background:var(--ok)}
-.tbar b{position:absolute;top:-20px;transform:translateX(-50%);font-size:.7rem;color:var(--fg);white-space:nowrap}
-.tbar b::after{content:"";position:absolute;left:50%;top:16px;width:2px;height:12px;background:var(--fg)}
-.tlab{display:flex;justify-content:space-between;font-size:.75rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.two h3{font-size:.85rem;margin:0 0 4px;color:var(--muted);font-weight:500}
+.raw{white-space:pre-wrap;font-size:.85rem;color:var(--muted);max-height:420px;overflow:auto;background:var(--soft);border-radius:14px;padding:12px 14px;margin-top:8px}
+details summary{cursor:pointer;color:var(--ink);font-weight:500;font-size:.9rem}
+.autonote{font-size:.8rem;color:var(--muted);margin:-2px 4px 12px}
+/* Calendrier de l'étude */
+.steps{display:flex;gap:4px;margin:0 0 18px;overflow-x:auto}
+.steps span{flex:1;min-width:84px;text-align:center;font-size:.76rem;padding:6px 4px;border-radius:999px;background:var(--chip);color:var(--muted)}
+.steps span.done{background:var(--okb);color:var(--ok)}
+.steps span.cur{background:var(--acc);color:#fff;font-weight:600}
+.steps span.stop{background:var(--stop);color:#fff;font-weight:600}
+.cal{overflow-x:auto}
+.calg{display:grid;grid-template-columns:130px minmax(260px,1fr);gap:10px 12px;align-items:center;font-size:.82rem}
+.yrs{position:relative;height:18px;border-bottom:1px solid var(--line)}
+.yrs span{position:absolute;transform:translateX(-50%);font-size:.72rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.trk{position:relative;height:18px;border-radius:6px;background:var(--soft)}
+.trk i{position:absolute;top:0;bottom:0;border-radius:6px;background:var(--acc)}
+.trk i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 6px,color-mix(in srgb,var(--acc) 22%,transparent) 6px 12px)}
+.trk i.p{background:var(--fol)}
+.trk i.p.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--fol) 45%,transparent) 0 6px,color-mix(in srgb,var(--fol) 22%,transparent) 6px 12px)}
+.today{position:absolute;top:-6px;bottom:-6px;width:2px;background:var(--now);border-radius:1px}
+@media (max-width:560px){.calg{grid-template-columns:minmax(0,1fr);gap:4px}.calg>span:first-child{display:none}.trk{margin-bottom:8px}.nav{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-left:0;flex-basis:100%}.nav button{white-space:nowrap}}
+.calk{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.75rem;color:var(--muted);margin-top:14px}
+.calk i{display:inline-block;width:18px;height:8px;border-radius:3px;vertical-align:middle;margin-right:5px;background:var(--acc)}
+.calk i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 4px,color-mix(in srgb,var(--acc) 22%,transparent) 4px 8px)}
+.calk i.n{width:2px;height:12px;background:var(--now)}
 /* Schéma */
 .design{overflow-x:auto;padding:4px 0}
-.dz{display:grid;grid-template-columns:auto 26px auto 26px minmax(200px,1fr) 26px minmax(120px,auto);align-items:center;min-width:600px;font-size:.82rem}
-.dz.nr{grid-template-columns:auto 26px minmax(200px,1fr) 26px minmax(120px,auto)}
-.box{border:1px solid var(--line);background:var(--bg);border-radius:10px;padding:8px 10px;text-align:center}
+.dz{display:grid;grid-template-columns:auto 24px auto 24px minmax(200px,1fr) 24px minmax(130px,auto);align-items:center;min-width:600px;font-size:.84rem}
+.dz.nr{grid-template-columns:auto 24px minmax(200px,1fr) 24px minmax(130px,auto)}
+.box{background:var(--soft);border-radius:16px;padding:9px 12px;text-align:center}
 .box b{display:block}
 .ar{height:2px;background:var(--muted);position:relative}
 .ar::after{content:"";position:absolute;right:-1px;top:-4px;border:5px solid transparent;border-left-color:var(--muted)}
-.rz{display:inline-grid;place-items:center;width:40px;height:40px;border-radius:50%;background:var(--accent);color:#fff;font-weight:800}
+.rz{display:inline-grid;place-items:center;width:42px;height:42px;border-radius:50%;background:var(--fg);color:var(--bg);font-weight:600}
 .arms{display:flex;flex-direction:column;gap:8px}
-.arm{--ac:var(--accent);border-radius:10px;padding:8px 10px;border:1px solid color-mix(in srgb,var(--ac) 40%,transparent);background:color-mix(in srgb,var(--ac) 8%,transparent)}
-.arm:nth-child(2){--ac:var(--k2)}.arm:nth-child(3){--ac:var(--ok)}.arm:nth-child(4){--ac:var(--warn)}
+.arm{--ac:var(--acc);border-radius:16px;padding:9px 12px;background:color-mix(in srgb,var(--ac) 14%,transparent)}
+.arm:nth-child(2){--ac:var(--now)}.arm:nth-child(3){--ac:var(--fol)}.arm:nth-child(4){--ac:var(--warn)}
 .arm b{display:block}
-.end{border:1.5px solid var(--ok);border-radius:10px;padding:8px 10px;text-align:center;color:var(--ok);font-weight:600}
-.dmeta{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.82rem;color:var(--muted);margin-top:10px}
+.end{border:1.5px solid var(--acc);border-radius:16px;padding:9px 12px;text-align:center}
+.end b{display:block;color:var(--ink)}
+.dmeta{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.82rem;color:var(--muted);margin-top:12px}
 /* Colonne latérale */
-.side dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:6px 10px;font-size:.86rem}
+.side dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:7px 12px;font-size:.87rem}
 .side dt{color:var(--muted)}
-.side dd{margin:0;font-weight:600;min-width:0;overflow-wrap:anywhere}
+.side dd{margin:0;font-weight:500;min-width:0;overflow-wrap:anywhere}
 .cities{display:flex;flex-wrap:wrap;gap:4px}
-.cities span{font-size:.78rem;padding:2px 8px;border-radius:999px;background:var(--chip)}
-.cities span.on{background:color-mix(in srgb,var(--ok) 14%,transparent);color:var(--ok)}
-.btn{display:block;text-align:center;padding:9px 12px;border-radius:10px;background:var(--accent);color:#fff;font-weight:600;font-size:.88rem;margin-top:10px;text-decoration:none}
-.btn.sec{background:none;color:var(--accent);border:1px solid var(--line)}
-.verif{font-size:.75rem;color:var(--muted);padding:0 4px}
-/* Aide */
-.guide{max-width:72ch;padding-top:12px;line-height:1.65}
-.guide h2{font-size:1.4rem;margin:8px 0 10px}
-.guide h3{font-size:1.02rem;margin:24px 0 6px}
+.cities span{font-size:.78rem;padding:2px 10px;border-radius:999px;background:var(--chip)}
+.btn{display:block;text-align:center;padding:10px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font-weight:500;font-size:.88rem;margin-top:12px;text-decoration:none}
+.btn.sec{background:var(--chip);color:var(--fg)}
+/* À propos */
+.guide{max-width:70ch;padding-top:12px}
+.guide h1{font-size:1.6rem;margin:8px 0 10px}
+.guide h2{font-size:1.05rem;margin:26px 0 6px}
 .guide ul{padding-left:20px}
-footer{margin-top:48px;color:var(--muted);font-size:.8rem;line-height:1.6}
+.guide li{margin:6px 0}
+footer{margin-top:56px;color:var(--muted);font-size:.8rem;line-height:1.6}
 footer a{color:var(--muted)}
 @media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
 </style>
@@ -164,75 +180,76 @@ footer a{color:var(--muted)}
 <body>
 <div class="wrap">
   <header class="top">
-    <div class="bar1">
-      <h1><a href="#" id="homeLink" title="Accueil"><span class="logo" aria-hidden="true">S</span><span class="nm">STUDYprogress</span></a></h1>
-      <p class="accroche">Où en sont les études en <b>médecine interne</b>, et où inclure vos patients</p>
-      <input id="q" type="search" placeholder="Rechercher : lupus, Horton, ANCA, Still, rituximab, NCT…" autocomplete="off" aria-label="Rechercher une étude">
-      <div class="quick" id="quick"></div>
-      <p class="stats" id="stats"></p>
-    </div>
-    <nav class="tabs" role="tablist" id="tabs">
-      <button role="tab" data-tab="etudes" aria-selected="false">Études</button>
+    <a class="brand" href="#" id="homeLink"><span class="leaf" aria-hidden="true">S</span>STUDYprogress</a>
+    <nav class="nav" role="tablist" id="tabs">
+      <button role="tab" data-tab="home" aria-selected="true">Actualité</button>
+      <button role="tab" data-tab="etudes" aria-selected="false">Toutes les études</button>
       <button role="tab" data-tab="maladies" aria-selected="false">Par maladie</button>
-      <button role="tab" data-tab="aide" aria-selected="false">Aide</button>
+      <button role="tab" data-tab="apropos" aria-selected="false">À propos</button>
     </nav>
+    <div class="search"><input id="q" type="search" placeholder="Maladie, molécule, acronyme, promoteur…" autocomplete="off" aria-label="Rechercher une étude"></div>
   </header>
 
   <main id="vHome">
+    <section class="hero">
+      <h1>L'actualité des études en médecine interne.</h1>
+      <p>Nouvelles études, études en cours et études terminées, présentées simplement, avec un accent sur la recherche française.</p>
+      <form class="hsearch" id="hform"><input id="hq" type="search" placeholder="Maladie, molécule, acronyme…" autocomplete="off" aria-label="Rechercher une étude"><button type="submit">Chercher</button></form>
+      <div class="chips" id="quick"></div>
+      <div class="stats" id="stats"></div>
+    </section>
     <section class="sec">
-      <h2><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>Nouvelles études françaises qui démarrent</h2>
-      <p class="hint">Promotion française, ouvertes ou sur le point d'ouvrir, démarrées depuis moins d'un an.</p>
-      <div class="grid" id="newFr"></div>
-      <button class="more" id="moreFr">Voir toutes les études françaises ouvertes →</button>
+      <div class="sech"><h2><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>Nouvelles études françaises</h2><button class="link" data-go="new">Tout voir →</button><p>Études à promotion française qui viennent de démarrer ou vont démarrer.</p></div>
+      <div class="grid" id="hNew"></div>
+    </section>
+    <section class="sec">
+      <div class="sech"><h2>Études françaises en cours</h2><button class="link" data-go="run">Tout voir →</button><p>Inclusions en cours ou suivi des patients, les plus récemment lancées d'abord.</p></div>
+      <div class="grid" id="hRun"></div>
+    </section>
+    <section class="sec">
+      <div class="sech"><h2>Récemment terminées</h2><button class="link" data-go="done">Tout voir →</button><p>Fin du recueil depuis moins d'un an. Les études françaises et celles avec résultats publiés d'abord.</p></div>
+      <div class="grid" id="hDone"></div>
     </section>
     <section class="sec" id="chgSec">
-      <h2>Changements de statut récents</h2>
-      <p class="hint">Études dont le statut a changé ces 30 derniers jours (ouverture, fin des inclusions, arrêt…).</p>
-      <div class="grid" id="chg"></div>
+      <div class="sech"><h2>Changements de statut</h2><p>Ouvertures, fins d'inclusion et arrêts des 30 derniers jours.</p></div>
+      <div class="grid" id="hChg"></div>
     </section>
   </main>
 
   <main id="vList" hidden>
     <div class="cats" id="cats"></div>
     <div class="filters">
-      <select id="fStatus" aria-label="Statut"><option value="open">Ouvertes aux inclusions</option><option value="soon">Bientôt ouvertes</option><option value="follow">Inclusions closes, suivi en cours</option><option value="done">Terminées ou arrêtées</option><option value="all">Tous les statuts</option></select>
+      <select id="fStatus" aria-label="Avancement"><option value="all">Tous les stades</option><option value="soon">Nouvelles (pas encore ouvertes)</option><option value="run">En cours</option><option value="rec">En cours : inclusions</option><option value="fol">En cours : suivi</option><option value="done">Terminées ou arrêtées</option></select>
       <select id="fOrig" aria-label="Origine"><option value="all">Toutes origines</option><option value="promo">Promotion française</option><option value="fr">Avec centres en France</option></select>
       <select id="fType" aria-label="Type"><option value="all">Tous types</option><option value="INTERVENTIONAL">Essais thérapeutiques</option><option value="OBSERVATIONAL">Observationnelles, cohortes</option></select>
       <select id="fPhase" aria-label="Phase"><option value="all">Toutes phases</option><option>Phase 1</option><option>Phase 2</option><option>Phase 3</option><option>Phase 4</option></select>
-      <select id="fSort" aria-label="Tri"><option value="fr">Tri : françaises d'abord</option><option value="new">Tri : plus récentes</option><option value="end">Tri : fin prévue la plus proche</option></select>
+      <select id="fSort" aria-label="Tri"><option value="fr">Françaises d'abord</option><option value="new">Plus récentes</option><option value="end">Fin prévue la plus proche</option></select>
     </div>
     <div class="count"><span id="count"></span><span id="disF"></span></div>
     <div class="grid" id="list"></div>
-    <p id="empty" hidden>Aucune étude ne correspond. Essayez « Tous les statuts » ou une autre recherche.</p>
+    <p id="empty" hidden>Aucune étude ne correspond. Essayez « Tous les stades » ou une autre recherche.</p>
     <button class="more" id="moreList" hidden>Afficher plus</button>
   </main>
 
   <main id="vDis" hidden></main>
   <main id="vStudy" hidden></main>
 
-  <main id="vAide" hidden class="guide">
-    <h2>Comment lire ce site ?</h2>
-    <p>STUDYprogress rassemble les études cliniques en cours en médecine interne, enregistrées sur ClinicalTrials.gov, et les présente de façon lisible : pourquoi l'étude existe, ce qu'elle teste, quel patient lui proposer et où elle en est. Les études <b>à promotion française</b> sont mises en avant.</p>
-    <h3>Les badges</h3>
+  <main id="vAbout" hidden class="guide">
+    <h1>À propos</h1>
+    <p>STUDYprogress informe les médecins sur la recherche clinique en médecine interne : quelles études démarrent, lesquelles sont en cours et lesquelles se terminent, avec un accent sur les études françaises. Le site présente chaque étude de façon lisible : son contexte, son intérêt, son schéma et son calendrier.</p>
+    <h2>Les repères</h2>
     <ul>
-      <li><span class="fr"><span class="flag"><i></i><i></i><i></i></span>Promotion française</span> : promoteur ou investigateur coordinateur français (CHU, AP-HP, Inserm, groupes coopérateurs…).</li>
-      <li><span class="fr lite">Centres en France</span> : étude internationale ou étrangère avec au moins un centre français.</li>
-      <li><span class="pill p-warn">Bientôt ouverte</span> <span class="pill p-ok">Recrute</span> <span class="pill p-acc">Suivi en cours</span> <span class="pill">Terminée</span> <span class="pill p-stop">Arrêtée</span> : statut déclaré dans le registre.</li>
-      <li><span class="pill p-new">Nouvelle</span> : apparue sur le site depuis moins de 30 jours. <span class="pill p-new">Statut modifié</span> : le statut a changé depuis moins de 30 jours.</li>
+      <li><span class="tag frt"><span class="flag"><i></i><i></i><i></i></span>Promotion française</span> promoteur ou coordination française (CHU, AP-HP, Inserm, groupes coopérateurs…). <span class="tag frl">Centres en France</span> étude étrangère avec au moins un centre français.</li>
+      <li><span class="tag t-soon">Bientôt</span> pas encore ouverte · <span class="tag t-rec">Inclusions</span> recrute · <span class="tag t-fol">Suivi</span> inclusions closes, patients suivis · <span class="tag">Terminée</span> · <span class="tag t-res">Résultats</span> résultats publiés · <span class="tag t-stop">Arrêtée</span></li>
+      <li><span class="tag t-new">Nouveau</span> apparue sur le site ou statut modifié depuis moins de 30 jours.</li>
     </ul>
-    <h3>La fiche d'une étude</h3>
-    <ul>
-      <li><b>Où en est l'étude</b> : étape actuelle, et position d'aujourd'hui entre le début de l'étude et la fin prévue du recueil du critère principal.</li>
-      <li><b>Contexte, intérêt, schéma, critères</b> : rédigés automatiquement en français par une IA (Claude) à partir du texte du registre. Ils peuvent contenir des erreurs : vérifiez toujours sur ClinicalTrials.gov et auprès de l'équipe investigatrice avant d'adresser un patient.</li>
-      <li><b>Centres en France</b> : villes participantes ; en vert, les centres qui recrutent.</li>
-    </ul>
-    <h3>Mise à jour</h3>
-    <p>Les données sont récupérées automatiquement chaque lundi depuis ClinicalTrials.gov. Les études terminées restent visibles deux ans après la fin du recueil, pour suivre l'arrivée des résultats.</p>
-    <h3>Favoris</h3>
-    <p>☆ suit une étude : elle apparaît dans « ★ Suivies ». Les favoris sont enregistrés uniquement dans votre navigateur.</p>
+    <h2>Le calendrier</h2>
+    <p>Chaque étude a une frise : période d'inclusions et de traitement jusqu'au recueil du critère principal, puis période de suivi, avec un trait orange pour aujourd'hui. Les hachures signalent les dates prévues, pas encore atteintes.</p>
+    <h2>Sources et limites</h2>
+    <p>Les données viennent de ClinicalTrials.gov et sont mises à jour chaque lundi. Les études terminées restent visibles deux ans. Les fiches en français (contexte, intérêt, schéma) sont rédigées automatiquement par une IA (Claude) à partir du registre : elles peuvent contenir des erreurs, le registre fait foi. Le site est un outil d'information ; il ne remplace pas le contact avec les équipes investigatrices.</p>
   </main>
 
-  <footer>Données : <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a> (NLM), mises à jour le <span id="upd"></span>. Résumés en français générés automatiquement, à vérifier sur le registre. Voir aussi la <a href="https://ssc-ux.github.io/PNDStheque/" target="_blank" rel="noopener">PNDSthèque</a>.</footer>
+  <footer>Données <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a>, mises à jour le <span id="upd"></span>. Fiches en français générées automatiquement, le registre fait foi.</footer>
 </div>
 <script>
 const $ = id => document.getElementById(id);
@@ -240,45 +257,53 @@ const norm = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 const FLAG = `<span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>`;
 const ST = {
-  NOT_YET_RECRUITING: ["Bientôt ouverte", "p-warn"], RECRUITING: ["Recrute", "p-ok"], ENROLLING_BY_INVITATION: ["Sur invitation", "p-ok"],
-  ACTIVE_NOT_RECRUITING: ["Suivi en cours", "p-acc"], COMPLETED: ["Terminée", ""], TERMINATED: ["Arrêtée", "p-stop"]
+  NOT_YET_RECRUITING: ["Bientôt", "t-soon"], RECRUITING: ["Inclusions", "t-rec"], ENROLLING_BY_INVITATION: ["Inclusions", "t-rec"],
+  ACTIVE_NOT_RECRUITING: ["Suivi", "t-fol"], COMPLETED: ["Terminée", ""], TERMINATED: ["Arrêtée", "t-stop"]
 };
-const GROUP = { open: ["RECRUITING", "ENROLLING_BY_INVITATION", "NOT_YET_RECRUITING"], soon: ["NOT_YET_RECRUITING"], follow: ["ACTIVE_NOT_RECRUITING"], done: ["COMPLETED", "TERMINATED"] };
+const GROUP = { soon: ["NOT_YET_RECRUITING"], rec: ["RECRUITING", "ENROLLING_BY_INVITATION"], fol: ["ACTIVE_NOT_RECRUITING"], done: ["COMPLETED", "TERMINATED"] };
+GROUP.run = [...GROUP.rec, ...GROUP.fol];
 const MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
 const fdate = d => d ? `${MOIS[+d.slice(5, 7) - 1]} ${d.slice(0, 4)}` : "non précisée";
 const age = a => a ? a.replace(/Years?/, "ans").replace(/Months?/, "mois").replace(/Weeks?/, "semaines").replace(/Days?/, "jours") : "—";
-const days = (a, b) => (new Date(b) - new Date(a)) / 864e5;
+const ms = d => new Date(d.length === 7 ? d + "-15" : d).getTime();
+const days = (a, b) => (ms(b) - ms(a)) / 864e5;
 let DATA, DIS = {}, CATS = [], updated = "";
 let favs = new Set();
 try { favs = new Set(JSON.parse(localStorage.getItem("sp-favs") || "[]")); } catch {}
 const saveFavs = () => { try { localStorage.setItem("sp-favs", JSON.stringify([...favs])); } catch {} };
 
-const stPill = s => { const [l, c] = ST[s.status] || [s.status, ""]; return `<span class="pill ${c}">${s.status === "COMPLETED" && s.res ? "Résultats disponibles" : l}</span>`; };
-const frPill = s => s.fr === "promo" ? `<span class="fr">${FLAG}Promotion française</span>` : s.fr ? `<span class="fr lite">${s.frN} centre${s.frN > 1 ? "s" : ""} en France</span>` : "";
+const stTag = s => s.status === "COMPLETED" && s.res ? `<span class="tag t-res">Résultats</span>` : (([l, c]) => `<span class="tag ${c}">${l}</span>`)(ST[s.status] || [s.status, ""]);
+const frTag = s => s.fr === "promo" ? `<span class="tag frt">${FLAG}Promotion française</span>` : s.fr ? `<span class="tag frl">${s.frN} centre${s.frN > 1 ? "s" : ""} en France</span>` : "";
 const recent = d => d && days(d, updated) <= 30;
 const typeTxt = s => s.type === "OBSERVATIONAL" ? "Observationnelle" : s.phase || (s.type === "INTERVENTIONAL" ? "Interventionnelle" : "");
 
+// Mini-calendrier d'une carte : début → fin du recueil principal, trait orange = aujourd'hui.
+function mini(s) {
+  if (!s.start || !s.pcd || s.pcd <= s.start) return "";
+  const a = ms(s.start), b = ms(s.pcd), t = ms(updated), lo = Math.min(a, t), hi = Math.max(b, t), W = hi - lo || 1;
+  const x = v => ((v - lo) / W * 100).toFixed(1), done = Math.min(Math.max(t, a), b);
+  return `<div><div class="mini"><i style="left:${x(a)}%;width:${x(done) - x(a)}%"></i><i class="f" style="left:${x(done)}%;width:${x(b) - x(done)}%"></i><s style="left:${x(t)}%"></s></div><div class="minil"><span>${fdate(s.start)}</span><span>${fdate(s.pcd)}</span></div></div>`;
+}
 function card(s) {
   const on = favs.has(s.id);
-  const when = s.status === "NOT_YET_RECRUITING" ? `Ouverture ${fdate(s.start)}` : /RECRUIT|ENROLL|ACTIVE/.test(s.status) ? `Fin prévue ${fdate(s.pcd)}` : `Fin ${fdate(s.pcd)}`;
   return `<article class="card${s.fr === "promo" ? " frc" : ""}">
     <button class="fav" data-f="${s.id}" aria-pressed="${on}" aria-label="Suivre cette étude" title="Suivre">${on ? "★" : "☆"}</button>
-    <div class="hd">${frPill(s)}${stPill(s)}${typeTxt(s) ? `<span class="pill">${typeTxt(s)}</span>` : ""}${recent(s.chg) ? `<span class="pill p-new">Statut modifié</span>` : recent(s.seen) ? `<span class="pill p-new">Nouvelle</span>` : ""}</div>
+    <div class="hd">${frTag(s)}${stTag(s)}${typeTxt(s) ? `<span class="tag">${typeTxt(s)}</span>` : ""}${recent(s.chg) || recent(s.seen) ? `<span class="tag t-new">Nouveau</span>` : ""}</div>
     <div class="ac"><a href="#${s.id}">${esc(s.acr || s.id)}</a></div>
     <div class="ti">${esc(s.t)}</div>
     ${s.q ? `<div class="why">${esc(s.q)}</div>` : ""}
-    ${s.p ? `<div class="incl"><b>Qui inclure</b>${esc(s.p)}</div>` : ""}
-    <div class="ft"><span>${esc(s.dis.map(d => DIS[d]?.fr).join(", "))}</span>${s.n ? `<span>${s.n} patients</span>` : ""}<span>${when}</span><span>${esc(s.sponsor)}</span></div>
+    ${mini(s)}
+    <div class="ft"><span>${esc(s.dis.map(d => DIS[d]?.fr).join(", "))}</span>${s.n ? `<span>${s.n} patients</span>` : ""}<span>${esc(s.sponsor)}</span></div>
   </article>`;
 }
 
 // ——— Liste ———
 let cat = "Toutes", dis = null, shown = 40;
 function filtered() {
-  const q = norm($("q").value.trim()), terms = q.split(/\s+/).filter(Boolean);
+  const terms = norm($("q").value.trim()).split(/\s+/).filter(Boolean);
   const st = $("fStatus").value, or = $("fOrig").value, ty = $("fType").value, ph = $("fPhase").value;
   return DATA.filter(s =>
-    (cat === "Toutes" || cat === "★ Suivies" ? cat === "Toutes" || favs.has(s.id) : s.dis.some(d => DIS[d].cat === cat)) &&
+    (cat === "Toutes" || (cat === "★ Suivies" ? favs.has(s.id) : s.dis.some(d => DIS[d].cat === cat))) &&
     (!dis || s.dis.includes(dis)) &&
     (st === "all" || GROUP[st].includes(s.status)) &&
     (or === "all" || (or === "promo" ? s.fr === "promo" : !!s.fr)) &&
@@ -293,7 +318,7 @@ function sorted(a) {
 }
 function renderList() {
   const r = sorted(filtered()), nfr = r.filter(s => s.fr === "promo").length;
-  $("count").textContent = `${r.length} étude${r.length > 1 ? "s" : ""} · ${nfr} à promotion française`;
+  $("count").textContent = `${r.length} étude${r.length > 1 ? "s" : ""}, dont ${nfr} à promotion française`;
   $("disF").innerHTML = dis ? `<span class="disf">${esc(DIS[dis].fr)}<button id="clrDis" aria-label="Retirer le filtre maladie">×</button></span>` : "";
   $("list").innerHTML = r.slice(0, shown).map(card).join("");
   $("empty").hidden = r.length > 0;
@@ -306,88 +331,102 @@ function renderCats() {
 
 // ——— Par maladie ———
 function renderDis() {
-  const open = s => GROUP.open.includes(s.status);
   $("vDis").innerHTML = CATS.map(c => `<h2 class="mh">${esc(c)}</h2><div class="mtiles">${Object.values(DIS).filter(d => d.cat === c).map(d => {
-    const a = DATA.filter(s => s.dis.includes(d.id)), o = a.filter(open), f = o.filter(s => s.fr === "promo");
-    return `<button class="mtile" data-d="${d.id}"><b>${esc(d.fr)}</b><span><span class="pill p-ok">${o.length} ouverte${o.length > 1 ? "s" : ""}</span>${f.length ? `<span class="fr">${FLAG}${f.length} française${f.length > 1 ? "s" : ""}</span>` : ""}<span class="pill">${a.length} au total</span></span></button>`;
+    const a = DATA.filter(s => s.dis.includes(d.id)), n = k => a.filter(s => GROUP[k].includes(s.status)).length, f = a.filter(s => s.fr === "promo").length;
+    return `<button class="mtile" data-d="${d.id}"><b>${esc(d.fr)}</b><span><span class="tag t-soon">${n("soon")} nouvelles</span><span class="tag t-rec">${n("run")} en cours</span><span class="tag">${n("done")} terminées</span>${f ? `<span class="tag frt">${FLAG}${f}</span>` : ""}</span></button>`;
   }).join("")}</div>`).join("");
 }
 
-// ——— Accueil ———
+// ——— Actualité ———
 function renderHome() {
   const y = new Date(updated); y.setFullYear(y.getFullYear() - 1);
-  const ys = y.toISOString().slice(0, 10);
-  const nf = DATA.filter(s => s.fr === "promo" && GROUP.open.includes(s.status) && (s.start >= ys || recent(s.seen))).sort((a, b) => (b.start || "").localeCompare(a.start || ""));
-  $("newFr").innerHTML = nf.slice(0, 12).map(card).join("") || `<p class="hint">Aucune nouvelle étude française cette année.</p>`;
+  const ys = y.toISOString().slice(0, 10), byStart = (a, b) => (b.start || "").localeCompare(a.start || "");
+  const fr = DATA.filter(s => s.fr === "promo");
+  const nw = fr.filter(s => GROUP.soon.includes(s.status) || GROUP.rec.includes(s.status) && s.start >= ys || recent(s.seen)).sort((a, b) => Math.abs(days(a.start || "2100-01", updated)) - Math.abs(days(b.start || "2100-01", updated)));
+  const run = fr.filter(s => GROUP.run.includes(s.status) && !nw.includes(s)).sort(byStart);
+  const done = DATA.filter(s => GROUP.done.includes(s.status) && s.pcd >= ys).sort((a, b) => (a.fr === "promo" ? 0 : a.fr ? 1 : 2) - (b.fr === "promo" ? 0 : b.fr ? 1 : 2) || b.res - a.res || (b.pcd || "").localeCompare(a.pcd || ""));
+  $("hNew").innerHTML = nw.slice(0, 6).map(card).join("");
+  $("hRun").innerHTML = run.slice(0, 6).map(card).join("");
+  $("hDone").innerHTML = done.slice(0, 6).map(card).join("");
   const ch = DATA.filter(s => recent(s.chg)).sort((a, b) => (a.fr ? 0 : 1) - (b.fr ? 0 : 1));
   $("chgSec").hidden = !ch.length;
-  $("chg").innerHTML = ch.slice(0, 9).map(card).join("");
-  const o = DATA.filter(s => GROUP.open.includes(s.status));
-  $("stats").innerHTML = `<span><b>${o.length}</b> études ouvertes</span><span><b>${o.filter(s => s.fr === "promo").length}</b> à promotion française</span><span><b>${o.filter(s => s.fr).length}</b> avec centres en France</span><span>Mis à jour le <b>${updated.split("-").reverse().join("/")}</b></span>`;
+  $("hChg").innerHTML = ch.slice(0, 6).map(card).join("");
+  const c = k => DATA.filter(s => GROUP[k].includes(s.status));
+  $("stats").innerHTML = [[c("soon").length, "nouvelles études annoncées"], [c("run").length, "études en cours"], [c("done").length, "terminées depuis 2 ans"], [fr.length, "à promotion française", "frs"]]
+    .map(([n, l, k]) => `<div class="stat ${k || ""}"><b>${n.toLocaleString("fr-FR")}</b><span>${l}</span></div>`).join("");
   $("quick").innerHTML = CATS.map(c => `<button data-c="${esc(c)}">${esc(c)}</button>`).join("");
 }
 
 // ——— Fiche étude ———
-const STEPS = ["Prévue", "Recrute", "Suivi en cours", "Terminée", "Résultats"];
+const STEPS = ["Annoncée", "Inclusions", "Suivi", "Terminée", "Résultats"];
 const stepOf = s => ({ NOT_YET_RECRUITING: 0, RECRUITING: 1, ENROLLING_BY_INVITATION: 1, ACTIVE_NOT_RECRUITING: 2, COMPLETED: s.hasResults || s.pubs.length ? 4 : 3, TERMINATED: 3 })[s.status] ?? 1;
 const paras = t => esc(t).split(/\n\s*\n/).map(p => `<p>${p}</p>`).join("");
 const ALLOC = { RANDOMIZED: "randomisée", NON_RANDOMIZED: "non randomisée", NA: "" };
 const MASK = { NONE: "sans insu", SINGLE: "simple aveugle", DOUBLE: "double aveugle", TRIPLE: "triple aveugle", QUADRUPLE: "quadruple aveugle" };
 
-function timeline(s) {
+function calendar(s) {
   const k = stepOf(s), stopped = s.status === "TERMINATED";
-  let bar = "";
-  if (s.start && s.pcd && s.pcd > s.start) {
-    const p = Math.max(0, Math.min(100, days(s.start, updated) / days(s.start, s.pcd) * 100));
-    bar = `<div class="tbar"><i style="width:${p}%"></i><b style="left:${Math.min(Math.max(p, 8), 92)}%">Aujourd'hui</b></div><div class="tlab"><span>Début ${fdate(s.start)}</span><span>Fin du recueil principal ${fdate(s.pcd)}</span></div>`;
-  }
-  return `<div class="steps">${STEPS.map((l, i) => `<span class="${i < k ? "done" : i === k ? (stopped ? "stop" : "cur") : ""}">${i === 3 && stopped ? "Arrêtée" : l}</span>`).join("")}</div>${bar}`;
+  const steps = `<div class="steps">${STEPS.map((l, i) => `<span class="${i < k ? "done" : i === k ? (stopped ? "stop" : "cur") : ""}">${i === 3 && stopped ? "Arrêtée" : l}</span>`).join("")}</div>`;
+  if (!s.start) return steps;
+  const end = s.end && s.end > (s.pcd || s.start) ? s.end : s.pcd;
+  const y0 = Math.min(+s.start.slice(0, 4), +updated.slice(0, 4)), y1 = Math.max(+(end || s.start).slice(0, 4), +updated.slice(0, 4)) + 1;
+  const lo = ms(`${y0}-01-01`), W = ms(`${y1}-01-01`) - lo, x = d => ((ms(d) - lo) / W * 100).toFixed(2), t = x(updated);
+  const bar = (a, b, cls) => {
+    if (!a || !b || b <= a) return "";
+    const past = updated > a ? (updated < b ? updated : b) : a;
+    return `<i class="${cls}" style="left:${x(a)}%;width:${x(past) - x(a)}%"></i><i class="${cls} f" style="left:${x(past)}%;width:${x(b) - x(past)}%"></i>`;
+  };
+  const years = Array.from({ length: y1 - y0 + 1 }, (_, i) => y0 + i).slice(0, -1).filter((y, i, a) => a.length <= 8 || i % 2 === 0);
+  const row = (lab, html) => `<span>${lab}</span><div class="trk">${html}<span class="today" style="left:${t}%"></span></div>`;
+  return `${steps}<div class="cal"><div class="calg"><span></span><div class="yrs">${years.map(y => `<span style="left:${x(`${y}-01-01`)}%">${y}</span>`).join("")}</div>
+    ${row(`Inclusions et traitement<br><small style="color:var(--muted)">${fdate(s.start)} → ${fdate(s.pcd)}</small>`, bar(s.start, s.pcd, ""))}
+    ${end && s.pcd && end > s.pcd ? row(`Suivi<br><small style="color:var(--muted)">jusqu'à ${fdate(end)}</small>`, bar(s.pcd, end, "p")) : ""}
+    ${s.pubs.length ? row("Résultats", `<i class="p" style="left:${t}%;width:1.2%"></i>`) : ""}
+  </div></div><div class="calk"><span><i></i>réalisé</span><span><i class="f"></i>prévu</span><span><i class="n"></i>aujourd'hui (${fdate(updated)})</span></div>`;
 }
 function schema(s, x) {
   const arms = x?.bras?.length ? x.bras.map(b => [b.nom, b.traitement]) : s.arms.map(a => [a.l, a.i.join(", ") || a.d]);
   if (!arms.length) return "";
-  const rnd = s.alloc === "RANDOMIZED";
-  const crit = x?.critere || s.primary[0]?.m || "";
+  const rnd = s.alloc === "RANDOMIZED", crit = x?.critere || s.primary[0]?.m || "";
   return `<div class="design"><div class="dz${rnd ? "" : " nr"}">
     <div class="box"><b>Inclusion</b>${s.n ? `${s.n} patients` : ""}</div><div class="ar"></div>
     ${rnd ? `<div class="rz" title="Randomisation">R</div><div class="ar"></div>` : ""}
     <div class="arms">${arms.slice(0, 4).map(([n, t]) => `<div class="arm"><b>${esc(n)}</b>${esc(t)}</div>`).join("")}</div><div class="ar"></div>
-    <div class="end">Critère principal<br><span style="font-weight:400">${esc(crit.length > 140 ? crit.slice(0, 137) + "…" : crit)}</span></div>
+    <div class="end"><b>Critère principal</b>${esc(crit.length > 140 ? crit.slice(0, 137) + "…" : crit)}</div>
   </div></div>
   <div class="dmeta">${s.type === "OBSERVATIONAL" ? "<span>Étude observationnelle</span>" : `<span>Étude ${[ALLOC[s.alloc], MASK[s.mask]].filter(Boolean).join(", ") || "interventionnelle"}</span>`}${x?.duree ? `<span>Durée : ${esc(x.duree)}</span>` : ""}${s.n ? `<span>${s.n} patients ${s.nType === "ACTUAL" ? "inclus" : "prévus"}</span>` : ""}</div>`;
 }
 async function renderStudy(id) {
   const v = $("vStudy");
-  v.innerHTML = `<p class="hint">Chargement…</p>`;
+  v.innerHTML = `<p style="color:var(--muted)">Chargement…</p>`;
   let s;
-  try { s = await (await fetch(`data/s/${id}.json`)).json(); } catch { v.innerHTML = `<button class="back" data-back>← Retour</button><p>Étude introuvable : elle a pu quitter le répertoire. <a href="https://clinicaltrials.gov/study/${esc(id)}" target="_blank" rel="noopener">Voir sur ClinicalTrials.gov ↗</a></p>`; return; }
+  try { s = await (await fetch(`data/s/${id}.json`)).json(); } catch { v.innerHTML = `<button class="back" data-back>← Retour</button><p>Cette étude n'est plus dans le répertoire. <a href="https://clinicaltrials.gov/study/${esc(id)}" target="_blank" rel="noopener">Voir sur ClinicalTrials.gov ↗</a></p>`; return; }
   const x = s.x, L = DATA.find(d => d.id === id) || { ...s, frN: s.frSites.length, res: s.hasResults };
-  const frPromo = s.fr === "promo";
-  const sites = s.frSites.slice().sort((a, b) => (a.s === "RECRUITING" ? 0 : 1) - (b.s === "RECRUITING" ? 0 : 1) || (a.c || "").localeCompare(b.c || ""));
+  const cities = [...new Set(s.frSites.map(c => c.c).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
   const pi = s.officials.find(o => /CHAIR|DIRECTOR/.test(o.r)) || s.officials[0];
+  let n = 0; const H = t => `<h2>${t}</h2>`;
   v.innerHTML = `<button class="back" data-back>← Retour</button>
   <div class="fiche"><div>
-    <div class="fh">${frPill(L)}${stPill(L)}${typeTxt(s) ? `<span class="pill">${typeTxt(s)}</span>` : ""}${s.dis.map(d => `<span class="pill p-acc">${esc(DIS[d]?.fr)}</span>`).join("")}</div>
-    <h2>${esc(s.acr || s.id)}</h2>
-    <p class="sub">${esc(x?.titre || s.title)}${x ? `<br><span style="font-size:.85em">${esc(s.title)}</span>` : ""}</p>
-    <div class="blk"><h3>Où en est l'étude ?</h3>${timeline(s)}</div>
-    ${x ? `<p class="autonote">Fiche rédigée automatiquement à partir du registre (${fdate(x.date)}). À vérifier sur ClinicalTrials.gov.</p>
-    <div class="blk"><h3><span class="n">1</span>Contexte</h3>${paras(x.contexte)}</div>
-    <div class="blk"><h3><span class="n">2</span>Intérêt pour la pratique</h3>${paras(x.interet)}</div>
-    <div class="blk"><h3><span class="n">3</span>Schéma de l'étude</h3><p><b>Question :</b> ${esc(x.question)}</p>${schema(s, x)}</div>
-    <div class="blk"><h3><span class="n">4</span>Qui inclure ?</h3><p><b>En une phrase :</b> ${esc(x.profil)}</p>
-      <div class="two"><div><p class="pill p-ok">Critères d'inclusion clés</p><ul class="ok">${x.inclusion.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>
-      <div><p class="pill p-stop">Critères d'exclusion clés</p><ul class="ko">${x.exclusion.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div></div>
-      <details style="margin-top:12px"><summary>Critères complets du registre (anglais)</summary><div class="raw">${esc(s.elig)}</div></details></div>`
+    <div class="fh">${frTag(L)}${stTag(L)}${typeTxt(s) ? `<span class="tag">${typeTxt(s)}</span>` : ""}${s.dis.map(d => `<span class="tag">${esc(DIS[d]?.fr)}</span>`).join("")}</div>
+    <h1>${esc(s.acr || s.id)}</h1>
+    <p class="sub">${esc(x?.titre || s.title)}${x ? `<small>${esc(s.title)}</small>` : ""}</p>
+    <div class="blk">${H("Calendrier de l'étude")}${calendar(s)}</div>
+    ${x ? `<p class="autonote">Fiche rédigée automatiquement à partir du registre (${fdate(x.date)}) ; le registre fait foi.</p>
+    <div class="blk">${H("Contexte")}${paras(x.contexte)}</div>
+    <div class="blk">${H("Intérêt")}${paras(x.interet)}</div>
+    <div class="blk">${H("Schéma de l'étude")}<p><b>Question :</b> ${esc(x.question)}</p>${schema(s, x)}</div>
+    <div class="blk">${H("Population étudiée")}<p>${esc(x.profil)}</p>
+      <div class="two"><div><h3>Principaux critères d'inclusion</h3><ul>${x.inclusion.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>
+      <div><h3>Principaux critères d'exclusion</h3><ul>${x.exclusion.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div></div></div>`
     : `<p class="autonote">La fiche en français n'est pas encore rédigée pour cette étude : voici le texte du registre (en anglais).</p>
-    <div class="blk"><h3><span class="n">1</span>Résumé du registre</h3>${paras(s.summary)}</div>
-    <div class="blk"><h3><span class="n">2</span>Schéma de l'étude</h3>${schema(s, null) || "<p>Non précisé.</p>"}</div>
-    <div class="blk"><h3><span class="n">3</span>Critères d'éligibilité</h3><div class="raw">${esc(s.elig)}</div></div>`}
-    ${s.pubs.length ? `<div class="blk"><h3>Résultats publiés</h3><ul>${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul></div>` : ""}
+    <div class="blk">${H("Résumé du registre")}${paras(s.summary)}</div>
+    <div class="blk">${H("Schéma de l'étude")}${schema(s, null) || "<p>Non précisé.</p>"}</div>
+    <div class="blk"><details><summary>Population étudiée (critères du registre)</summary><div class="raw">${esc(s.elig)}</div></details></div>`}
+    ${s.pubs.length ? `<div class="blk">${H("Résultats publiés")}<ul>${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul></div>` : ""}
   </div>
   <aside class="side">
-    <div class="blk"><h3>En bref</h3><dl>
-      <dt>Promoteur</dt><dd>${esc(s.sponsor)}${frPromo ? " 🇫🇷" : ""}</dd>
+    <div class="blk">${H("En bref")}<dl>
+      <dt>Promoteur</dt><dd>${esc(s.sponsor)}</dd>
       ${s.collabs.length ? `<dt>Partenaires</dt><dd>${esc(s.collabs.slice(0, 4).join(", "))}</dd>` : ""}
       ${pi ? `<dt>Coordination</dt><dd>${esc(pi.n || "")}${pi.a ? `, ${esc(pi.a)}` : ""}</dd>` : ""}
       <dt>Type</dt><dd>${s.type === "OBSERVATIONAL" ? "Observationnelle" : "Interventionnelle"}${s.phase ? `, ${s.phase}` : ""}</dd>
@@ -396,10 +435,8 @@ async function renderStudy(id) {
       <dt>Centres</dt><dd>${s.sites} dans ${s.countries} pays</dd>
       <dt>Registre</dt><dd>${s.id}</dd>
       <dt>Mise à jour</dt><dd>${fdate(s.upd)}</dd></dl></div>
-    <div class="blk"><h3>Centres en France · ${sites.length}</h3>${sites.length ? `<div class="cities">${sites.map(c => `<span class="${c.s === "RECRUITING" ? "on" : ""}" title="${esc(c.f)}">${esc(c.c)}</span>`).join("")}</div>` : `<p style="font-size:.88rem;color:var(--muted)">Aucun centre français déclaré.</p>`}
-      <a class="btn" href="https://clinicaltrials.gov/study/${s.id}" target="_blank" rel="noopener">Voir sur ClinicalTrials.gov ↗</a>
-      <a class="btn sec" href="https://ssc-ux.github.io/PNDStheque/" target="_blank" rel="noopener">PNDS de la maladie (PNDSthèque) ↗</a></div>
-    <p class="verif">Contacts des centres : voir la fiche ClinicalTrials.gov.</p>
+    <div class="blk">${H(`Villes françaises · ${cities.length}`)}${cities.length ? `<div class="cities">${cities.map(c => `<span>${esc(c)}</span>`).join("")}</div>` : `<p style="font-size:.88rem;color:var(--muted)">Aucun centre français déclaré.</p>`}
+      <a class="btn" href="https://clinicaltrials.gov/study/${s.id}" target="_blank" rel="noopener">Voir le registre ↗</a></div>
   </aside></div>`;
   scrollTo(0, 0);
 }
@@ -410,28 +447,34 @@ function show(v) {
   view = v;
   document.body.classList.toggle("home", v === "home");
   $("vHome").hidden = v !== "home"; $("vList").hidden = v !== "etudes"; $("vDis").hidden = v !== "maladies";
-  $("vAide").hidden = v !== "aide"; $("vStudy").hidden = v !== "study";
+  $("vAbout").hidden = v !== "apropos"; $("vStudy").hidden = v !== "study";
   for (const b of $("tabs").children) b.setAttribute("aria-selected", b.dataset.tab === v);
   if (v === "etudes" || v === "maladies") lastList = v;
 }
 function route() {
   const h = location.hash.slice(1);
   if (/^NCT\d{8}$/.test(h)) { show("study"); renderStudy(h); }
-  else if (h === "etudes" || h === "maladies" || h === "aide") { show(h); if (h === "etudes") renderList(); }
+  else if (["etudes", "maladies", "apropos"].includes(h)) { show(h); if (h === "etudes") renderList(); scrollTo(0, 0); }
   else show("home");
 }
 const go = h => { if (location.hash === "#" + h) route(); else location.hash = h; };
+const reset = () => { cat = "Toutes"; dis = null; shown = 40; for (const [id, v] of [["fStatus", "all"], ["fOrig", "all"], ["fType", "all"], ["fPhase", "all"], ["fSort", "fr"]]) $(id).value = v; };
 
 addEventListener("hashchange", route);
-$("tabs").onclick = e => { const b = e.target.closest("button"); if (b) go(b.dataset.tab); };
+$("tabs").onclick = e => { const b = e.target.closest("button"); if (!b) return; if (b.dataset.tab === "home") { history.pushState("", "", location.pathname); show("home"); } else go(b.dataset.tab); };
 $("homeLink").onclick = e => { e.preventDefault(); $("q").value = ""; history.pushState("", "", location.pathname); show("home"); };
-$("q").oninput = () => { shown = 40; if (view !== "etudes") { $("fStatus").value = "all"; go("etudes"); } else renderList(); };
-$("quick").onclick = e => { const b = e.target.closest("button"); if (!b) return; cat = b.dataset.c; dis = null; renderCats(); go("etudes"); };
-$("moreFr").onclick = () => { cat = "Toutes"; dis = null; $("fOrig").value = "promo"; $("fStatus").value = "open"; $("fSort").value = "new"; renderCats(); go("etudes"); };
+$("q").oninput = () => { shown = 40; if (view !== "etudes") go("etudes"); else renderList(); };
+$("hform").onsubmit = e => { e.preventDefault(); reset(); $("q").value = $("hq").value; renderCats(); go("etudes"); };
+$("quick").onclick = e => { const b = e.target.closest("button"); if (!b) return; reset(); cat = b.dataset.c; renderCats(); go("etudes"); };
+$("vHome").addEventListener("click", e => {
+  const b = e.target.closest("[data-go]"); if (!b) return;
+  reset(); $("fOrig").value = b.dataset.go === "done" ? "all" : "promo"; $("fStatus").value = b.dataset.go === "new" ? "soon" : b.dataset.go; $("fSort").value = b.dataset.go === "done" ? "fr" : "new";
+  renderCats(); go("etudes");
+});
 $("cats").onclick = e => { const b = e.target.closest("button"); if (!b) return; cat = b.dataset.c; dis = null; shown = 40; renderCats(); renderList(); };
 for (const id of ["fStatus", "fOrig", "fType", "fPhase", "fSort"]) $(id).onchange = () => { shown = 40; renderList(); };
 $("moreList").onclick = () => { shown += 40; renderList(); };
-$("vDis").onclick = e => { const b = e.target.closest(".mtile"); if (!b) return; dis = b.dataset.d; cat = "Toutes"; $("fStatus").value = "all"; renderCats(); go("etudes"); };
+$("vDis").onclick = e => { const b = e.target.closest(".mtile"); if (!b) return; reset(); dis = b.dataset.d; renderCats(); go("etudes"); };
 document.addEventListener("click", e => {
   const f = e.target.closest(".fav");
   if (f) { e.preventDefault(); const id = f.dataset.f; favs.has(id) ? favs.delete(id) : favs.add(id); saveFavs(); f.setAttribute("aria-pressed", favs.has(id)); f.textContent = favs.has(id) ? "★" : "☆"; return; }
@@ -446,7 +489,7 @@ fetch("data/studies.json").then(r => r.json()).then(j => {
   DATA = j.studies;
   for (const s of DATA) s._txt = norm([s.id, s.acr, s.t, s.q, s.p, s.sponsor, ...s.dis.map(d => DIS[d].fr + " " + DIS[d].cat)].join(" "));
   renderCats(); renderDis(); renderHome(); route();
-}).catch(() => { $("vHome").innerHTML = `<p class="hint">Impossible de charger les données. Rechargez la page.</p>`; });
+}).catch(() => { $("vHome").innerHTML = `<p style="color:var(--muted)">Impossible de charger les données. Rechargez la page.</p>`; });
 </script>
 </body>
 </html>

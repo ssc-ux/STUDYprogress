@@ -32,7 +32,7 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
  "question": "La question posée par l'étude, en une phrase",
  "contexte": "6 à 9 phrases, un ou deux paragraphes séparés par une ligne vide (\n\n)",
  "interet": "Ce que l'étude pourrait changer en pratique, 2 à 4 phrases",
- "profil": "Le patient à proposer, en une phrase (« Un adulte… »)",
+ "profil": "La population étudiée, en une phrase (« Des adultes… »)",
  "inclusion": ["4 à 7 critères d'inclusion clés, courts"],
  "exclusion": ["4 à 7 critères d'exclusion clés, courts"],
  "bras": [{ "nom": "Bras A ou groupe", "traitement": "Molécule, dose, rythme" }],
@@ -41,7 +41,7 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
 }
 ```
 
-Règles de rédaction (lecteurs : internistes français qui veulent comprendre en une minute) :
+Règles de rédaction (lecteurs : médecins français qui veulent s'informer en une minute ; le site informe sur la recherche, il ne sert pas à orienter des patients) :
 - Français médical clair, phrases courtes. DCI pour les molécules, abréviations usuelles (GPA, PAM, ACG, PTI…).
 - **Contexte détaillé** : la maladie et le besoin non couvert, ce que montrent les données et recommandations
   actuelles, le rationnel de l'intervention (mécanisme, résultats préliminaires), ce qu'apporte cette étude
