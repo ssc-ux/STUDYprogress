@@ -1,0 +1,34 @@
+{
+ "h": "60b852cab692",
+ "date": "2026-10-20",
+ "titre": "Imagerie du muscle par tomographie en cohérence optique plein champ dans les myosites",
+ "question": "La tomographie en cohérence optique plein champ (OCT) permet-elle de visualiser l'inflammation musculaire aussi bien que l'anatomopathologie conventionnelle sur des biopsies musculaires ?",
+ "contexte": "Les myosites sont des maladies inflammatoires du muscle squelettique, qui peuvent être d'origine infectieuse, auto-immune (dermatomyosite, polymyosite) ou médicamenteuse. Un diagnostic précoce est essentiel pour adapter le traitement.\n\nL'analyse de référence repose sur l'anatomopathologie de la biopsie musculaire, qui permet de visualiser l'infiltrat inflammatoire, la nécrose et la fibrose. Elle nécessite toutefois plusieurs semaines avant d'obtenir un résultat.\n\nL'OCT plein champ est une technique d'imagerie non invasive qui pourrait offrir un examen plus rapide, avec une résolution microscopique des structures musculaires. Elle pourrait permettre de visualiser l'infiltrat inflammatoire de façon quasi immédiate.\n\nCette étude prospective du Centre hospitalier de Mâcon compare l'OCT plein champ et l'histologie sur des biopsies de sujets sains (déchets chirurgicaux d'une chirurgie orthopédique) et de patients suspects de myosite (biopsies réalisées dans le soin). Elle vise d'abord à établir un référentiel OCT sur les biopsies contrôles, puis à comparer la détection de l'inflammation dans les myosites confirmées. Les avantages et limites de chaque méthode seront évalués, notamment en résolution spatiale, précision diagnostique, temps d'acquisition et facilité d'usage.",
+ "interet": "Si l'OCT plein champ détecte l'inflammation musculaire de façon fiable, elle pourrait compléter l'anatomopathologie et raccourcir le délai diagnostique des myosites. L'étude est exploratoire et de petite taille.",
+ "profil": "Des adultes dont une biopsie musculaire est réalisée dans le soin : sujets sains opérés en orthopédie et patients suspects de myosite.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Consentement oral donné",
+  "Biopsie musculaire réalisée dans le cadre des soins",
+  "Groupe sain : chirurgie orthopédique, sans antécédent musculaire, neurodégénératif ou inflammatoire",
+  "Groupe myosite : symptômes évocateurs et suspicion clinique confirmée par d'autres examens"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Femmes enceintes",
+  "Adultes incapables d'exprimer leur consentement",
+  "Personnes sous protection juridique"
+ ],
+ "bras": [
+  {
+   "nom": "Sujets sains",
+   "traitement": "Biopsies musculaires prélevées lors d'une chirurgie orthopédique, analysées par histologie et OCT plein champ"
+  },
+  {
+   "nom": "Patients avec myosite",
+   "traitement": "Biopsies musculaires prélevées pour le diagnostic, analysées par histologie et OCT plein champ"
+  }
+ ],
+ "duree": "Non précisé (analyse de biopsies, étude sur 2 ans)",
+ "critere": "Résolution spatiale et détection de l'inflammation par l'OCT plein champ comparées à l'histologie, sur 2 ans"
+}

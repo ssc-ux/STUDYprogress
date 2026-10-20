@@ -1,0 +1,36 @@
+{
+ "h": "373004496849",
+ "date": "2026-10-20",
+ "titre": "Arrêt de l'anticoagulation après disparition des anticorps antiphospholipides dans le SAPL thrombotique",
+ "question": "L'arrêt des anticoagulants est-il non inférieur à leur maintien pour prévenir une récidive thrombotique chez des patients avec SAPL thrombotique ayant perdu leurs anticorps antiphospholipides ?",
+ "contexte": "Les manifestations les plus fréquentes du syndrome des antiphospholipides (SAPL) sont les événements thrombotiques. Le traitement de référence repose sur une anticoagulation prolongée par antivitamine K (AVK), qui expose au risque hémorragique et dégrade la qualité de vie en raison de la surveillance fréquente de l'INR.\n\nLa spécificité, l'isotype et la multiplicité des anticorps antiphospholipides (aPL) sont associés à différents profils de risque thrombotique. Le risque d'événement thrombotique semble diminuer après la disparition des aPL. Aucun essai publié n'a toutefois évalué l'arrêt des anticoagulants dans cette situation. ADORA est un essai de phase 3 promu par l'AP-HP, randomisé, en ouvert avec évaluation en aveugle du critère (PROBE), de non-infériorité, à deux bras parallèles. Il compare l'arrêt des AVK au maintien du traitement (fluindione, warfarine ou acénocoumarol, INR cible 2 à 3). Le calcul du nombre de sujets repose sur un taux de récidive à 2 ans de 20 % dans le groupe arrêt et de 17 % dans le groupe maintien, avec une marge de non-infériorité de 10 %. Un total de 234 patients est prévu, avec une puissance de 80 %. Le suivi comporte des visites tous les 3 mois puis tous les 6 mois, et des prélèvements pour dosage centralisé des aPL.",
+ "interet": "Si la non-infériorité est démontrée, une partie des patients avec SAPL pourrait être dispensée d'une anticoagulation à vie. Cela réduirait le risque hémorragique et la contrainte de la surveillance de l'INR.",
+ "profil": "Des adultes avec un SAPL thrombotique, traités par AVK depuis plus de 12 mois, dont les anticorps antiphospholipides ont disparu.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "SAPL thrombotique primaire ou secondaire (critères ACR/EULAR 2023)",
+  "Disparition de l'anticoagulant lupique, des anticardiolipine et des anti-β2GPI (< 99e percentile) sur au moins deux mesures consécutives espacées d'au moins 12 mois",
+  "Une mesure négative dans les 3 mois précédant l'inclusion",
+  "Traitement par AVK depuis plus de 12 mois"
+ ],
+ "exclusion": [
+  "Antécédent de thrombose veineuse sévère (embolie pulmonaire massive, HTP thromboembolique chronique, thrombose hépatique, mésentérique, rénale ou cérébrale)",
+  "Antécédent de thrombose artérielle",
+  "Récidive de thrombose veineuse sous AVK",
+  "SAPL catastrophique ou triple positivité aPL",
+  "Valve cardiaque mécanique ou autre indication d'AVK",
+  "Néoplasie active, insuffisance hépatique sévère, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Arrêt de l'anticoagulation (expérimental)",
+   "traitement": "Arrêt des AVK à la randomisation ; reprise uniquement en cas de récidive thrombotique"
+  },
+  {
+   "nom": "Maintien de l'anticoagulation (comparateur)",
+   "traitement": "AVK poursuivis par voie orale (fluindione, warfarine ou acénocoumarol), INR cible 2 à 3, au moins 24 mois"
+  }
+ ],
+ "duree": "De 18 à 42 mois de suivi selon la date d'inclusion (visites jusqu'à M48)",
+ "critere": "Première récidive d'événement thrombotique, jusqu'à 48 mois"
+}

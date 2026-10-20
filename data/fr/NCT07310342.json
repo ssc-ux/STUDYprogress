@@ -1,0 +1,29 @@
+{
+ "h": "8a5b26f3914c",
+ "date": "2026-10-20",
+ "titre": "Condition physique des enfants et jeunes adultes avec un purpura thrombopénique immunologique",
+ "question": "La capacité aérobie (VO2max à l'épreuve d'effort) est-elle réduite chez les enfants, adolescents et jeunes adultes atteints de PTI chronique ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) chronique expose à un risque hémorragique imprévisible sur plusieurs mois ou années, source d'anxiété. La fatigue est rapportée comme l'un des symptômes invalidants les plus fréquents (48 %) et les plus sévères (73 %) selon la littérature citée dans le registre, et contribue à altérer la qualité de vie. Ses mécanismes sont mal connus : anomalies plaquettaires et immunologiques, ou facteurs psychocomportementaux.\n\nDans plusieurs maladies chroniques, la fatigue est associée à une baisse de la capacité aérobie, mesurée par la consommation maximale d'oxygène (VO2max) lors d'une épreuve d'effort cardiorespiratoire, avec un cercle vicieux de déconditionnement. À terme, ce déconditionnement augmente le risque cardiovasculaire et la fréquence de l'anxiété et de la dépression. L'équipe bordelaise a déjà montré une VO2max diminuée dans les cardiopathies congénitales, après cancer de l'enfance et dans l'asthme, et a publié des valeurs de référence pédiatriques. Un programme de réadaptation à l'effort (QUALIREHAB) a amélioré la VO2max et la qualité de vie dans les cardiopathies congénitales. Aucune étude prospective contrôlée n'a décrit la capacité aérobie des enfants et jeunes adultes avec PTI chronique. ITP-CPET est une étude multicentrique nationale (réseau CEREVANCE), promue par le CHU de Bordeaux, sur 53 patients de 8 à 25 ans.",
+ "interet": "Si une baisse de la VO2max est confirmée, la fatigue du PTI pourrait être en partie liée au déconditionnement. Un programme de réadaptation à l'effort pourrait alors être évalué dans cette maladie. L'étude est descriptive et ne teste pas d'intervention thérapeutique.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 8 à 25 ans suivis pour un PTI chronique et adressés pour une évaluation de la condition physique.",
+ "inclusion": [
+  "8 à 25 ans",
+  "PTI chronique",
+  "Adressé en routine par un médecin expert du réseau CEREVANCE à un laboratoire de physiologie de l'exercice"
+ ],
+ "exclusion": [
+  "Contre-indication à l'épreuve d'effort (anémie aiguë < 9 g ou mal tolérée, fièvre, asthme non contrôlé, insuffisance respiratoire, myocardite ou péricardite aiguë, arythmie symptomatique, insuffisance cardiaque non contrôlée, embolie pulmonaire aiguë)",
+  "Déficience mentale empêchant la coopération",
+  "Anomalie à l'examen clinique (souffle cardiaque, trouble du rythme)",
+  "Opposition du patient ou des parents",
+  "Absence de sécurité sociale"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe PTI (n = 53)",
+   "traitement": "Épreuve d'effort cardiorespiratoire avec mesure de la VO2max (ITP-CPET)"
+  }
+ ],
+ "duree": "Non précisé (critère évalué au jour 1)",
+ "critere": "VO2max mesurée à l'épreuve d'effort, au jour 1"
+}

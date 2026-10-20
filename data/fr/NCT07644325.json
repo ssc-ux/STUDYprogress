@@ -1,0 +1,30 @@
+{
+ "h": "faeb543cc97e",
+ "date": "2026-10-20",
+ "titre": "Concordance biopsie synoviale et biopsie du ligament annulaire dans l'amylose ATTR",
+ "question": "La biopsie du ligament annulaire antérieur du carpe est-elle concordante avec la biopsie synoviale, méthode de référence, pour détecter des dépôts amyloïdes lors d'une chirurgie endoscopique du canal carpien ?",
+ "contexte": "L'amylose à transthyrétine (ATTR) est une maladie sous-diagnostiquée dont la première manifestation peut être un syndrome du canal carpien, parfois plusieurs années avant l'atteinte cardiaque. L'arrivée de nouveaux traitements rend le diagnostic précoce d'autant plus important. Le syndrome du canal carpien est ainsi une porte d'entrée possible pour le dépistage de l'ATTR par les internistes, rhumatologues et chirurgiens de la main.\n\nLa biopsie synoviale réalisée lors d'une chirurgie à ciel ouvert est considérée comme la référence pour le dépistage local. Elle est cependant moins accessible, plus difficile et plus risquée en chirurgie endoscopique, technique mini-invasive devenue la norme dans ce centre et de plus en plus répandue. Le ligament annulaire antérieur du carpe est un tissu alternatif, facile d'accès par endoscopie, sûr et standardisable.\n\nDans cette étude de la Clinique Saint Jean (Montpellier), une biopsie du ligament annulaire est réalisée systématiquement avec une biopsie synoviale pendant la chirurgie endoscopique. La concordance diagnostique avec la méthode de référence est ainsi évaluée chez 500 patients. L'étude permettra aussi d'analyser la faisabilité d'un dépistage systématique de l'ATTR sur le ligament lors de ces interventions.",
+ "interet": "Si la concordance est bonne, la biopsie du ligament pourrait remplacer la biopsie synoviale en chirurgie endoscopique. Elle faciliterait un dépistage systématique de l'ATTR et l'identification précoce des patients à risque.",
+ "profil": "Des adultes opérés d'un syndrome du canal carpien par voie endoscopique.",
+ "inclusion": [
+  "Adulte avec assurance maladie",
+  "Diagnostic clinique et EMG de syndrome du canal carpien",
+  "Indication chirurgicale validée",
+  "Consentement signé",
+  "Patient à risque de complications postopératoires (canal carpien bilatéral, insuffisance cardiaque, fibrillation atriale, sujet âgé)"
+ ],
+ "exclusion": [
+  "Nécessité d'une chirurgie à ciel ouvert",
+  "Femmes enceintes",
+  "Adultes sous tutelle",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Biopsie du ligament annulaire et biopsie synoviale",
+   "traitement": "Biopsie systématique des deux tissus pendant la chirurgie endoscopique du canal carpien"
+  }
+ ],
+ "duree": "Jusqu'à 3 semaines",
+ "critere": "Concordance entre la méthode de référence et le diagnostic fondé sur l'examen du ligament annulaire antérieur du carpe pour la détection de dépôts amyloïdes, jusqu'à 3 semaines"
+}

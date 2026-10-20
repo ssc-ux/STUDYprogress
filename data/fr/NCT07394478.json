@@ -1,0 +1,30 @@
+{
+ "h": "3366cbf654b1",
+ "date": "2026-10-20",
+ "titre": "Association entre sacro-iliite ou spondyloarthrite axiale et ACG ou pseudo-polyarthrite rhizomélique",
+ "question": "Existe-t-il une association entre la spondyloarthrite axiale (ou sacro-iliite) et l'ACG ou la pseudo-polyarthrite rhizomélique (PPR) ?",
+ "contexte": "Les vascularites des gros vaisseaux comprennent principalement la maladie de Takayasu et l'artérite à cellules géantes (ACG). La littérature décrit des associations entre spondyloarthrite et vascularite des gros vaisseaux, surtout avec la maladie de Takayasu. Des cas rapportés ont montré des particularités chez ces patients, comme un âge plus avancé au diagnostic de spondyloarthrite et une CRP plus élevée.\n\nEn revanche, selon le registre, aucun cas de spondyloarthrite axiale associée à une ACG confirmée n'a été rapporté dans la littérature. Les investigateurs s'intéressent aussi à l'association entre spondyloarthrite et PPR, en raison du continuum entre PPR et ACG.\n\nCette étude observationnelle cas-témoins, issue de l'hôpital NOVO avec le GEFA (groupe français d'étude des artérites des gros vaisseaux) et le CRI, recrute des cas (ACG et/ou PPR associée à une spondyloarthrite) et des témoins (ACG ou PPR seule). L'objectif est de comparer leurs caractéristiques pour étudier une association éventuelle entre ces maladies. L'effectif prévu est faible (10 patients).",
+ "interet": "L'étude pourrait documenter une association encore peu décrite et ouvrir la voie à des travaux plus larges. Elle est descriptive et son effectif limité ne permettra pas de conclusion définitive.",
+ "profil": "Des adultes ayant une ACG ou une PPR, avec ou sans spondyloarthrite associée.",
+ "inclusion": [
+  "Adulte (≥ 18 ans)",
+  "Groupe cas : spondylarthrite associée à une ACG ou à une PPR",
+  "Groupe témoin : ACG ou PPR sans spondylarthrite"
+ ],
+ "exclusion": [
+  "Refus de participer",
+  "Anticorps anti-CCP positifs"
+ ],
+ "bras": [
+  {
+   "nom": "Cas : ACG et/ou PPR avec spondyloarthrite",
+   "traitement": "Description de la population, sans intervention thérapeutique"
+  },
+  {
+   "nom": "Témoins : ACG ou PPR seule",
+   "traitement": "Description de la population, sans intervention thérapeutique"
+  }
+ ],
+ "duree": "Non précisé (recueil au moment de l'inclusion)",
+ "critere": "Description comparée des patients ayant une spondyloarthrite associée à une ACG ou une PPR et des patients avec ACG ou PPR seule, à l'inclusion"
+}

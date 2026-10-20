@@ -1,0 +1,35 @@
+{
+ "h": "86a06ee09b8f",
+ "date": "2026-10-20",
+ "titre": "Obinutuzumab dans la vascularite cryoglobulinémique réfractaire ou intolérante au rituximab",
+ "question": "L'obinutuzumab permet-il d'obtenir une réponse clinique complète à 6 mois dans la vascularite cryoglobulinémique active, réfractaire ou intolérante au rituximab ?",
+ "contexte": "La vascularite cryoglobulinémique (VC) est un syndrome vascularitique rare, médié par des immuns complexes, pouvant engager le pronostic vital. Elle va de l'arthralgie et du purpura à des atteintes sévères : neuropathie périphérique, glomérulonéphrite, nécroses cutanées. Les complications infectieuses des immunosuppresseurs restent la première cause de décès.\n\nLa prise en charge des VC mixtes non infectieuses repose sur les corticoïdes et le rituximab (anti-CD20), efficace chez 65 à 70 % des patients contre environ 30 % avec d'autres immunosuppresseurs. Jusqu'à 40 % des patients rechutent, de quelques jours à 19 mois après la dernière perfusion. Après rituximab, le taux de BLyS augmente et pourrait favoriser la survie de clones B auto-réactifs, et une déplétion B incomplète est associée à une mauvaise réponse. Certains patients développent aussi une maladie sérique contre-indiquant le rituximab.\n\nL'obinutuzumab est un anti-CD20 de type II à Fc glycomodifié, approuvé en 2013 dans la leucémie lymphoïde chronique. In vitro, il induit une cytotoxicité B au moins deux fois supérieure au rituximab dans des sangs de patients atteints de polyarthrite rhumatoïde et de lupus, et il a augmenté les réponses rénales dans la néphrite lupique. Il est déjà utilisé hors AMM dans la VC avec des cas rapportés favorables. CRYOBI est le premier essai prospectif multicentrique de phase II à bras unique, promu par l'AP-HP, évaluant l'obinutuzumab dans cette situation.",
+ "interet": "En cas de résultat positif, l'obinutuzumab pourrait devenir une option pour les patients en impasse après le rituximab, situation aujourd'hui sans traitement validé. Il s'agit d'une preuve de concept à confirmer.",
+ "profil": "Des adultes ayant une vascularite cryoglobulinémique mixte active non infectieuse, réfractaire ou intolérante au rituximab.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "VC mixte active avec atteinte clinique (cutanée, articulaire, rénale, neurologique, digestive, pulmonaire et/ou cardiaque)",
+  "Cryoglobulinémie ou facteur rhumatoïde avec C4 bas, composant monoclonal IgM kappa et/ou preuve histologique",
+  "Réfractaire ou intolérant au rituximab",
+  "Sérologies VIH, VHC et AgHBs négatives dans les 3 mois",
+  "Consentement écrit et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Vascularite non liée à la cryoglobuline ou VC non active",
+  "Cyclophosphamide ou bélimumab dans les 3 mois précédents",
+  "Cancer < 5 ans (hors exceptions)",
+  "Infection active non contrôlée (tuberculose, pneumocystose, CMV…) ou leucoencéphalopathie multifocale progressive",
+  "Antécédent de réaction anaphylactique à l'obinutuzumab",
+  "Pathologie cardiaque instable ou à haut risque",
+  "Grossesse, allaitement ou désir de grossesse dans les 30 mois",
+  "Neutrophiles < 1 000/mm3 ou plaquettes < 50 000/mm3"
+ ],
+ "bras": [
+  {
+   "nom": "Obinutuzumab (bras unique)",
+   "traitement": "Obinutuzumab (posologie non précisée au registre)"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 6 mois)",
+ "critere": "Réponse clinique complète à 6 mois"
+}

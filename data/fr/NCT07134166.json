@@ -1,0 +1,27 @@
+{
+ "h": "5e1d004069ba",
+ "date": "2026-10-20",
+ "titre": "Registre ORACLES : imagerie cardiaque avancée dans le lupus et les maladies inflammatoires",
+ "question": "Quels sont la valeur diagnostique et la valeur pronostique de l'imagerie cardiaque multimodale chez des patients atteints de maladies auto-immunes ou systémiques ?",
+ "contexte": "Les maladies auto-immunes touchent 5 à 10 % de la population et s'accompagnent d'un risque accru de pathologies cardiovasculaires. Les outils modernes d'imagerie cardiaque pourraient mieux faire comprendre ces complications, permettre un diagnostic plus précoce et repérer les patients les plus à risque. La valeur diagnostique et pronostique de l'imagerie cardiaque multimodale reste pourtant peu étudiée dans ces maladies.\n\nORACLES est un registre prospectif observationnel monocentrique (Hôpital Pitié-Salpêtrière, AP-HP). Il inclut des patients ayant une maladie systémique, inflammatoire ou auto-immune, suspectée ou avérée, et bénéficiant d'une imagerie cardiaque en coupes : scanner cardiaque sans injection, coroscanner ou IRM cardiaque. L'étude n'est pas interventionnelle et utilise des données issues des soins courants. Les données cliniques, biologiques et d'imagerie sont recueillies à l'inclusion. L'objectif principal est de caractériser le phénotype cardiovasculaire de ces patients. Les objectifs secondaires sont de développer et valider des biomarqueurs pronostiques, d'identifier et quantifier des facteurs de risque spécifiques, et d'évaluer la tolérance et l'efficacité des traitements conventionnels et innovants. Le suivi est long, avec une durée moyenne de 10 ans pour le critère principal.",
+ "interet": "Le registre pourrait permettre une meilleure stratification du risque cardiovasculaire dans les maladies auto-immunes. Il pourrait aussi aider à définir la place de l'imagerie cardiaque avancée dans leur suivi.",
+ "profil": "Des adultes ayant une maladie auto-immune, inflammatoire ou systémique suspectée ou avérée, explorés par imagerie cardiaque en coupes.",
+ "inclusion": [
+  "Maladie auto-immune, inflammatoire et/ou systémique suspectée ou diagnostiquée",
+  "Scanner cardiaque sans injection, coroscanner ou IRM cardiaque réalisé"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Opposition à la participation à l'étude",
+  "Patient sous protection juridique",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique",
+   "traitement": "Étude observationnelle : recueil de données cliniques, biologiques et d'imagerie issues des soins courants"
+  }
+ ],
+ "duree": "Suivi long, en moyenne 10 ans",
+ "critere": "Événements cardiovasculaires majeurs (MACE) jusqu'à la fin de l'étude, en moyenne 10 ans"
+}

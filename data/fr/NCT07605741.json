@@ -1,0 +1,25 @@
+{
+ "h": "c39b570cee75",
+ "date": "2026-10-20",
+ "titre": "SPECT-CZT cardiaque rapide dans l'amylose cardiaque à transthyrétine",
+ "question": "Une acquisition SPECT-CZT cardiaque rapide permet-elle de reproduire la classification de Perugini ≥ 2 de la scintigraphie planaire pour le diagnostic d'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CA) est devenue une cause majeure de cardiomyopathie infiltrative, et un diagnostic précoce est associé à un meilleur pronostic. Elle est reconnue bien plus fréquemment qu'auparavant grâce à la sensibilisation clinique et aux progrès de l'imagerie non invasive. En l'absence de gammapathie monoclonale, un grade de Perugini ≥ 2 en scintigraphie osseuse planaire est un critère diagnostique très spécifique, qui dispense le plus souvent de biopsie endomyocardique. La scintigraphie planaire réalisée avec des gamma-caméras classiques est donc la méthode de référence.\n\nDepuis quelques années, des caméras SPECT corps entier à détecteurs au cadmium-zinc-tellure (CZT) en anneau complet se sont développées. Elles offrent une meilleure qualité d'image et une meilleure sensibilité, des acquisitions tridimensionnelles ultra-rapides et une quantification par valeurs de fixation standardisées (SUV). On ne sait toutefois pas si des acquisitions CZT-SPECT/CT rapides reproduisent fidèlement l'information diagnostique de l'imagerie planaire, ni si des paramètres basés sur le SUV sont des biomarqueurs reproductibles.\n\nCette étude rétrospective, promue par le CHRU de Nancy, porte sur des patients adressés pour scintigraphie osseuse (99mTc-HMDP) en cas de suspicion d'ATTR-CA entre avril 2024 et avril 2025. Elle compare le score de Perugini appliqué aux projections planaires du SPECT ou les paramètres quantitatifs au score planaire standard, et évalue leur reproductibilité.",
+ "interet": "Une acquisition plus rapide et quantitative améliorerait le confort des patients et le débit des services de médecine nucléaire. Elle pourrait aussi fournir des biomarqueurs reproductibles pour le diagnostic de l'ATTR-CA.",
+ "profil": "Des adultes adressés pour scintigraphie osseuse en raison d'une suspicion d'amylose cardiaque à transthyrétine entre avril 2024 et avril 2025.",
+ "inclusion": [
+  "Patients adressés en routine pour scintigraphie osseuse en cas de suspicion d'ATTR-CA entre avril 2024 et avril 2025",
+  "Âge de 18 à 95 ans"
+ ],
+ "exclusion": [
+  "Opposition à l'utilisation des données",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients adressés pour suspicion d'ATTR-CA",
+   "traitement": "SPECT-CZT cardiaque rapide, puis imagerie planaire corps entier 3 à 4 heures après injection de 99mTc-HMDP (données rétrospectives)"
+  }
+ ],
+ "duree": "Une journée d'imagerie (analyse rétrospective)",
+ "critere": "Capacité du SPECT-CZT rapide à reproduire le diagnostic d'ATTR-CA par score de Perugini planaire, par scoring des projections ou par paramètres quantitatifs"
+}

@@ -1,0 +1,36 @@
+{
+ "h": "8653c9b19719",
+ "date": "2026-10-20",
+ "titre": "Dérégulation du rythme circadien dans les syndromes périodiques associés à la cryopyrine (CAPS)",
+ "question": "Les patients atteints de CAPS présentent-ils une dérégulation de leur rythme circadien par rapport à des témoins sains ?",
+ "contexte": "Les rythmes circadiens correspondent à l'adaptation de la physiologie à l'alternance jour-nuit. Ils sont générés dans chaque cellule par une horloge moléculaire faite de boucles transcriptionnelles, où BMAL1 s'associe à CLOCK ou NPAS2 pour activer la transcription de per et cry, qui en retour répriment BMAL1/CLOCK.\n\nPlusieurs aspects de l'immunité innée semblent contrôlés par le rythme circadien, via l'inhibition de l'activation de l'inflammasome NLRP3. Cet inflammasome, plateforme moléculaire activant la caspase-1, assure la maturation de l'IL-1β et de l'IL-18. Cependant, la régulation de l'inflammasome NLRP3 par l'horloge circadienne reste à élucider.\n\nLes mutations de NLRP3 causent les CAPS (syndromes périodiques associés à la cryopyrine), maladies autoinflammatoires dominantes allant de l'urticaire familiale au froid au syndrome de Muckle-Wells puis au CINCA. Les patients avec un Muckle-Wells ont un profil circadien de symptômes, avec un pic fébrile surtout vespéral de quelques heures et une fatigue extrême quotidienne. Le lien moléculaire entre horloge circadienne et CAPS n'est pas établi.\n\nCette étude des Hospices Civils de Lyon compare des patients avec CAPS confirmé génétiquement à des témoins sains vivant dans le même foyer. Elle utilise des mesures du rythme circadien, des prélèvements salivaires et sanguins, des questionnaires et le score AIDAI, pour identifier les voies de régulation de l'horloge impliquées.",
+ "interet": "L'étude pourrait établir un lien entre horloge circadienne et CAPS et ouvrir des pistes physiopathologiques, voire un intérêt de la chronothérapie. Elle est exploratoire, sans retombée thérapeutique immédiate.",
+ "profil": "Des patients de 6 ans et plus avec un CAPS confirmé par analyse génétique de NLRP3, et des témoins sains du même foyer.",
+ "inclusion": [
+  "Groupe CAPS : âge ≥ 6 ans, poids ≥ 25 kg",
+  "CAPS confirmé par analyse génétique de NLRP3",
+  "Groupe témoin : âge ≥ 6 ans, poids ≥ 25 kg, vivant dans le même foyer qu'un patient CAPS inclus",
+  "Témoin sans CAPS a priori, acceptant l'analyse génétique de NLRP3",
+  "Consentement des parents ou tuteurs et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Troubles chroniques du sommeil (narcolepsie, hypersomnie) nécessitant un traitement ou syndrome d'apnées du sommeil (groupe CAPS)",
+  "Travail de nuit régulier ou en horaires alternés",
+  "Grossesse ou allaitement",
+  "Parents d'un nourrisson de moins de 6 mois",
+  "Participation à une autre étude médicamenteuse interventionnelle",
+  "Maladie chronique (ALD) pour les témoins"
+ ],
+ "bras": [
+  {
+   "nom": "Patients CAPS",
+   "traitement": "Analyse génétique de NLRP3, mesure du rythme circadien, prélèvements salivaires et sanguins, questionnaires, score AIDAI"
+  },
+  {
+   "nom": "Témoins sains du même foyer",
+   "traitement": "Analyse génétique de NLRP3, mesure du rythme circadien, prélèvements salivaires et sanguins, questionnaires"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Description de la dérégulation du rythme circadien chez les patients CAPS, à 6 et 12 mois après l'inclusion"
+}

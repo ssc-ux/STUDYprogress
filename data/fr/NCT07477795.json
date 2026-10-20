@@ -1,0 +1,38 @@
+{
+ "h": "f10e5159512b",
+ "date": "2026-10-20",
+ "titre": "Sécukinumab dans la maladie de Takayasu sévère et active",
+ "question": "Le sécukinumab, anti-IL-17A, ajouté au traitement standard permet-il d'obtenir une rémission à 6 mois dans la maladie de Takayasu active et sévère ?",
+ "contexte": "La maladie de Takayasu (TAK) est une vascularite des gros vaisseaux touchant l'aorte et ses branches, avec épaississement pariétal, fibrose, sténoses et occlusions. La morbidité est élevée : 50 % des patients rechutent et présentent une complication vasculaire dans les 10 ans suivant le diagnostic. Le traitement repose surtout sur les corticoïdes, dont les effets indésirables sont importants en cas d'utilisation prolongée.\n\nLes immunosuppresseurs classiques (méthotrexate, léflunomide) et les biothérapies sont utilisés plus précocement pour obtenir la rémission et épargner les corticoïdes. Les séries observationnelles rapportent une rémission dans 37 à 76 % des cas avec les anti-TNF et 68 % avec le tocilizumab, mais un essai contrôlé contre placebo n'a pas montré la supériorité du tocilizumab. Aucun traitement immunomodulateur n'est à ce jour approuvé dans la TAK.\n\nL'équipe promotrice a montré le rôle des réponses Th1 et Th17 : les corticoïdes freinent les cytokines Th1 mais épargnent les cytokines Th17. Le sécukinumab, anticorps anti-IL-17A, est approuvé dans le psoriasis, le rhumatisme psoriasique et les spondyloarthrites. Dans l'ACG, un essai de phase II a rapporté un taux de rémission soutenue plus élevé que sous placebo, et une phase 3 est en cours. Des données observationnelles suggèrent un intérêt dans les TAK sévères.\n\nCet essai de phase II de l'AP-HP, bayésien, randomisé et en ouvert, compare le sécukinumab au traitement standard chez 52 patients ayant une TAK active et sévère (réfractaire, en rechute ou avec atteinte artérielle sévère).",
+ "interet": "En cas de résultat positif, le sécukinumab pourrait devenir une option pour la TAK sévère, maladie rare sans traitement approuvé. Il s'agirait d'un essai de phase II, à confirmer ensuite.",
+ "profil": "Des patients de 15 ans et plus ayant une maladie de Takayasu active et sévère (réfractaire, en rechute ou avec atteinte artérielle sévère).",
+ "inclusion": [
+  "Âge ≥ 15 ans",
+  "TAK selon les critères ACR/EULAR 2022 et/ou d'Ishikawa modifiés (PRINTO/EULAR/PReS avant 18 ans)",
+  "TAK active (score NIH > 1 dans les 2 mois précédents)",
+  "TAK sévère : réfractaire/en rechute malgré corticoïdes et/ou immunosuppresseurs, ou atteinte artérielle sévère",
+  "Prednisone 10 à 50 mg/j à dose stable depuis au moins 2 semaines",
+  "Absence d'infection chronique active (tuberculose latente traitée avant randomisation)"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Immunosuppression sévère, VIH ou AgHBs positif",
+  "Infection nécessitant des antibiotiques IV dans les 2 semaines précédentes",
+  "Autre vascularite ou maladie auto-immune (GPA, Behçet, lupus, polyarthrite rhumatoïde…)",
+  "Cancer < 5 ans, insuffisance rénale sévère, atteinte hépatique significative",
+  "Sécukinumab ou agents alkylants dans les 3 mois précédents",
+  "Plaquettes < 50 000, neutropénie < 1 000, Hb < 8 g/dL"
+ ],
+ "bras": [
+  {
+   "nom": "Sécukinumab",
+   "traitement": "Sécukinumab (posologie non précisée au registre) avec corticoïdes"
+  },
+  {
+   "nom": "Traitement standard",
+   "traitement": "Soins courants selon le choix du clinicien (posologie non précisée)"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 6 mois)",
+ "critere": "Rémission de la maladie à 6 mois"
+}

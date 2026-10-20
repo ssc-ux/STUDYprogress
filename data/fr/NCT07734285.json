@@ -1,0 +1,32 @@
+{
+ "h": "49bfb5dc7d5e",
+ "date": "2026-10-20",
+ "titre": "Amplitude de détection ventriculaire droite pour dépister l'amylose cardiaque",
+ "question": "L'amplitude de détection ventriculaire droite mesurée lors de l'implantation d'un stimulateur ou défibrillateur permet-elle d'identifier une amylose cardiaque chez des patients ayant une hypertrophie ventriculaire gauche ?",
+ "contexte": "L'amylose cardiaque est sous-diagnostiquée chez les sujets âgés ayant une hypertrophie ventriculaire gauche (HVG) et des anomalies de conduction. Ces patients sont souvent adressés pour l'implantation d'un dispositif électronique cardiaque implantable (DEI), stimulateur ou défibrillateur. Les dépôts amyloïdes réduisent les potentiels électriques du myocarde, ce qui laisse penser que l'amplitude du signal ventriculaire droit détecté par la sonde pourrait être un marqueur simple de la maladie.\n\nL'étude, promue par l'AP-HP, est multicentrique, prospective et à groupe unique. Les patients de 65 ans ou plus, adressés pour un DEI en raison d'un bloc auriculo-ventriculaire, d'un bloc sino-atrial ou d'une fibrillation atriale lente, et ayant une HVG (septum ≥ 12 mm), sont inclus. Pendant l'implantation, les paramètres électrophysiologiques sont enregistrés. Des examens complémentaires sont ensuite réalisés : scintigraphie cardiaque, analyses biologiques et biopsie de tissu adipeux sous-cutané. Ils permettent de confirmer ou d'exclure l'amylose cardiaque, qui sert de référence.\n\nLa performance diagnostique sera évaluée par l'aire sous la courbe ROC (AUROC). D'autres paramètres échographiques, électrophysiologiques et histologiques sont également analysés. Aucun résultat préliminaire n'est précisé dans le registre.",
+ "interet": "Une amplitude de détection discriminante offrirait un outil de dépistage gratuit, disponible au moment même de l'implantation, dans une population à haut risque d'amylose. Elle pourrait permettre de repérer plus tôt des patients candidats aux traitements spécifiques.",
+ "profil": "Des adultes de 65 ans ou plus avec hypertrophie ventriculaire gauche, adressés pour implantation d'un stimulateur ou défibrillateur pour une anomalie de conduction.",
+ "inclusion": [
+  "Indication de DEI (stimulateur ou défibrillateur avec fonction stimulation) pour bloc AV, bloc sino-atrial ou FA à cadence lente",
+  "Hypertrophie ventriculaire gauche : septum interventriculaire télédiastolique ≥ 12 mm",
+  "Âge ≥ 65 ans",
+  "Consentement écrit",
+  "Affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Sténose aortique serrée (surface ≤ 1 cm²)",
+  "Amylose cardiaque connue",
+  "Indication de resynchronisation ou de stimulation physiologique de la branche gauche",
+  "FEVG < 45 % en échographie",
+  "Participation à une autre recherche interventionnelle ou période d'exclusion en cours",
+  "AME, protection juridique ou privation de liberté"
+ ],
+ "bras": [
+  {
+   "nom": "Évaluation diagnostique lors de l'implantation du DEI (groupe unique)",
+   "traitement": "Mesure de l'amplitude de détection VD, scintigraphie cardiaque, bilan biologique et biopsie du tissu adipeux sous-cutané"
+  }
+ ],
+ "duree": "Non précisé (mesure lors de l'implantation, examens complémentaires ensuite)",
+ "critere": "AUROC de l'amplitude de détection ventriculaire droite pour identifier une amylose cardiaque, lors de l'implantation"
+}

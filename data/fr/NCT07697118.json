@@ -1,0 +1,33 @@
+{
+ "h": "ea88ce88f3b8",
+ "date": "2026-10-20",
+ "titre": "Thérapie génique du syndrome IPEX par lymphocytes T CD4+ exprimant FOXP3",
+ "question": "Des lymphocytes T CD4+ autologues transduits pour exprimer FOXP3 (FOXP3-T4), seuls ou avec de l'IL-2 à faible dose, sont-ils sûrs et efficaces dans le syndrome IPEX ?",
+ "contexte": "Le syndrome IPEX est un déficit immunitaire primitif lié à l'X, causé par des mutations de FOXP3, facteur de transcription indispensable aux lymphocytes T régulateurs (Treg) pour maintenir la tolérance immunitaire. La présentation classique néonatale associe entéropathie, diabète de type 1 et eczéma, mais le spectre clinique est large, avec des degrés de sévérité variables.\n\nLe seul traitement curatif des formes sévères est l'allogreffe de cellules souches hématopoïétiques. Sa toxicité la limite aux formes les plus graves et elle nécessite un donneur HLA identique. Le pronostic après greffe dépend aussi de l'activité de la maladie et des défaillances d'organes antérieures. THERIPEX, étude de phase I/II promue par l'AP-HP, teste une stratégie différente : convertir les lymphocytes T CD4+ du patient en cellules de type Treg par transduction avec un vecteur lentiviral bidirectionnel exprimant FOXP3 et une forme tronquée du récepteur NGF (ΔLNGFR) permettant de sélectionner les cellules transduites. Pour favoriser leur greffe et leur expansion, la perfusion peut être suivie d'IL-2 sous-cutanée à faible dose (ILT-101). Les deux premiers patients reçoivent FOXP3-T4 seul, les suivants FOXP3-T4 puis IL-2 si nécessaire. L'étude est monocentrique, à bras unique, sur 5 patients de sexe masculin.",
+ "interet": "Si la sécurité et l'efficacité sont confirmées, cette approche pourrait stabiliser les manifestations auto-immunes et permettre l'arrêt des immunosuppresseurs. Elle serait une option pour les patients sans donneur compatible ou pour qui l'allogreffe n'est pas réalisable.",
+ "profil": "Des garçons et hommes de 1 à 45 ans atteints de syndrome IPEX avec mutation de FOXP3, sans option de greffe adaptée.",
+ "inclusion": [
+  "Sexe masculin, 1 à 45 ans (10 à 45 ans pour les trois premiers patients)",
+  "Syndrome IPEX avec mutation de FOXP3",
+  "Symptômes récurrents sous immunosuppresseurs, éligible dès la deuxième ligne",
+  "Greffe allogénique non réalisable ou absence de donneur compatible, ou échec de prise d'une greffe antérieure",
+  "Consentement signé et contraception efficace pendant au moins 12 mois après la perfusion"
+ ],
+ "exclusion": [
+  "Éligible et consentant à une greffe avec donneur HLA 10/10 apparenté ou non",
+  "Forme sévère nécessitant une allogreffe rapide dans les 3 mois",
+  "Infection active non contrôlée, VIH ou HTLV",
+  "Hypersensibilité connue à l'IL-2 ou à ses excipients",
+  "Espérance de vie courte",
+  "Refus du suivi (2 ans d'étude puis 15 ans de suivi à long terme)",
+  "Trouble psychiatrique significatif"
+ ],
+ "bras": [
+  {
+   "nom": "FOXP3-T4",
+   "traitement": "Lymphocytes T CD4+ autologues transduits (FOXP3-T4), suivis si besoin d'IL-2 à faible dose (ILT-101) : une dose par jour pendant 5 jours, puis hebdomadaire pendant 3 mois"
+  }
+ ],
+ "duree": "24 mois d'étude, puis suivi à long terme de 15 ans",
+ "critere": "Fréquence et sévérité des événements indésirables, lymphoprolifération ou dominance clonale anormale, lentivirus réplicatif jusqu'à 24 mois ; persistance des cellules LNGFR+ à 3 mois"
+}

@@ -1,0 +1,34 @@
+{
+ "h": "1236bb0b402b",
+ "date": "2026-10-20",
+ "titre": "Obinutuzumab dans la néphropathie lupique de classe V pure (OBLUMEN)",
+ "question": "L'obinutuzumab en monothérapie permet-il d'obtenir une réponse rénale complète à 52 semaines dans la néphropathie lupique de classe V pure ?",
+ "contexte": "La néphrite lupique est une complication fréquente et sévère du lupus systémique, source de morbidité et de mortalité importantes. La classe V pure, ou néphropathie extra-membraneuse lupique, reste difficile à traiter. Les recommandations internationales 2024 proposent le mycophénolate mofétil, le cyclophosphamide, les inhibiteurs de la calcineurine, le rituximab ou l'azathioprine en cas de protéinurie importante ou non contrôlée. Aucun de ces traitements n'a cependant été validé par un essai prospectif multicentrique spécifique, et aucun n'a d'autorisation pour cette indication.\n\nLes données observationnelles de centres français montrent des choix thérapeutiques hétérogènes et des taux de réponse variables. Des inquiétudes persistent sur l'infertilité, la tératogénicité, la myélotoxicité et l'exposition aux corticoïdes. L'obinutuzumab, anticorps anti-CD20 de seconde génération, déplète les lymphocytes B plus efficacement que le rituximab. Dans les formes prolifératives (essais NOBILITY et REGENCY), il a donné davantage de réponses rénales complètes que le placebo, avec une tolérance acceptable, alors que le rituximab (étude LUNAR) n'a pas amélioré la réponse. Cet essai de phase 2 promu par l'AP-HP, avec le soutien de Roche-Genentech, est à bras unique, ouvert, de type A'Hern. Il évalue l'obinutuzumab en monothérapie chez 65 adultes.",
+ "interet": "En cas de résultat favorable, l'obinutuzumab pourrait devenir une option étayée dans une forme de néphrite lupique sans traitement spécifiquement validé. Il pourrait aussi limiter l'exposition aux corticoïdes et aux immunosuppresseurs plus toxiques.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique avec néphrite lupique de classe V pure prouvée par biopsie.",
+ "inclusion": [
+  "Lupus systémique (critères EULAR/ACR 2019, score > 10)",
+  "18 à 75 ans",
+  "Néphrite lupique de classe V pure sur biopsie rénale (ISN/RPS 2003)",
+  "Protéinurie néphrotique (> 3 g/g) ou protéinurie non contrôlée (> 1 g/g) malgré 3 mois de traitement antiprotéinurique optimal",
+  "Biopsie datant de 12 mois ou moins",
+  "Affiliation à la sécurité sociale française"
+ ],
+ "exclusion": [
+  "Traitement en cours pour une néphrite lupique proliférative (classe III ou IV)",
+  "Anticorps antinucléaires négatifs (< 1/80)",
+  "Poussée extra-rénale sévère nécessitant des corticoïdes à forte dose (> 1 mg/kg/j)",
+  "Traitements exclus récents : anti-CD20, cyclophosphamide, anticalcineurines, mycophénolate, autres biothérapies, inhibiteurs de JAK/BTK/TYK2",
+  "Moins de 10 glomérules non scléreux analysables, ou plus de 60 % de glomérules scléreux ou de fibrose tubulo-interstitielle à la biopsie",
+  "DFG < 30 mL/min/1,73 m² (MRC stade 4 ou 5)",
+  "Néphropathie membraneuse primitive (anti-PLA2R positifs)"
+ ],
+ "bras": [
+  {
+   "nom": "Néphropathie lupique de classe V pure (bras unique)",
+   "traitement": "Obinutuzumab en monothérapie ; posologie non précisée dans le registre"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Réponse rénale complète selon les critères KDIGO 2024 (UPCR < 0,5 g/g, DFG ≥ 85 % de la valeur initiale, sans événement intercurrent) à la semaine 52 après la première perfusion"
+}

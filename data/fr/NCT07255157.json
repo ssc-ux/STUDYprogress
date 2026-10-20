@@ -1,0 +1,35 @@
+{
+ "h": "7dd2d295aa95",
+ "date": "2026-10-20",
+ "titre": "Lymphocytes T auxiliaires périphériques et complications non infectieuses du DICV",
+ "question": "Les lymphocytes T auxiliaires périphériques (Tph) favorisent-ils l'activation pathologique des lymphocytes B dans les complications non infectieuses du déficit immunitaire commun variable (DICV) ?",
+ "contexte": "Le déficit immunitaire commun variable (DICV) est le déficit immunitaire primitif symptomatique le plus fréquent chez l'adulte. Il associe des infections récurrentes à des complications non infectieuses parfois sévères, de nature auto-immune ou inflammatoire, qui relèvent souvent de la médecine interne. Il n'existe pas à ce jour de biomarqueur fiable permettant de prédire quel patient développera ces complications, et les mécanismes immunitaires en cause restent mal compris.\n\nLes données préliminaires de l'équipe bordelaise indiquent que les patients avec complications non infectieuses (DICVc) ont davantage de Tph circulants que les patients n'ayant que des infections (DICVi) et que les sujets sains. Les Tph, décrits récemment, expriment CXCR3, aident les lymphocytes B mémoires et se retrouvent dans les tissus inflammatoires des maladies auto-immunes. Les cellules CXCR3+ sont aussi augmentées dans la rate des patients DICVc, ce qui pourrait traduire une réaction extra-folliculaire et une perte de tolérance B. L'hypothèse est que les Tph aident des lymphocytes B pathologiques, notamment les lymphocytes B mémoires atypiques, eux aussi expansés dans le DICVc. L'étude, promue par le CHU de Bordeaux, est une étude de physiopathologie : à partir d'un prélèvement sanguin unique réalisé lors du suivi habituel, des co-cultures T-B testeront la capacité des Tph à induire la différenciation B et la production d'anticorps.",
+ "interet": "Il s'agit d'une étude mécanistique sans bénéfice individuel attendu. Elle pourrait identifier les Tph comme biomarqueur pronostique des complications non infectieuses du DICV et comme cible thérapeutique potentielle.",
+ "profil": "Des adultes atteints de DICV, avec ou sans complications non infectieuses, comparés à des témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "DICV selon les critères standards (IgG < 5 g/L, IgM et/ou IgA basses, réponse vaccinale ou infectieuse faible, exclusion des hypogammaglobulinémies secondaires)",
+  "Quelle que soit la durée de la maladie ou la substitution en immunoglobulines",
+  "Affiliation à l'assurance maladie",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Corticoïdes et/ou immunosuppresseurs en cours",
+  "Déficit immunitaire primitif génétiquement caractérisé (Bruton, hyper-IgM)",
+  "Infection chronique active",
+  "Grossesse ou allaitement",
+  "Personnes privées de liberté, mineurs ou sous protection juridique"
+ ],
+ "bras": [
+  {
+   "nom": "DICV",
+   "traitement": "Prélèvement sanguin unique lors du suivi (patients avec ou sans complications non infectieuses)"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvement sanguin unique"
+  }
+ ],
+ "duree": "Une journée (prélèvement unique)",
+ "critere": "Capacité des Tph à favoriser la différenciation et la production d'anticorps par les lymphocytes B mémoires (co-culture T-B), à l'inclusion"
+}

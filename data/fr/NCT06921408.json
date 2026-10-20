@@ -1,0 +1,27 @@
+{
+ "h": "2b3394926767",
+ "date": "2026-10-20",
+ "titre": "Fixation cardiaque fortuite en scintigraphie osseuse et amylose cardiaque à transthyrétine",
+ "question": "Quelle est la valeur prédictive positive d'une fixation cardiaque fortuite (Perugini ≥ 2) en scintigraphie osseuse pour le diagnostic d'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR) est une cardiomyopathie infiltrative longtemps sous-diagnostiquée, dont la prise en charge a été transformée par l'arrivée de traitements spécifiques. Le diagnostic non invasif repose sur la scintigraphie osseuse (HMDP, DPD ou PYP) avec un grade de Perugini ≥ 2, en l'absence de gammapathie monoclonale. En pratique, une fixation cardiaque est parfois observée de façon fortuite chez des patients adressés pour une tout autre indication, par exemple une recherche de métastases osseuses.\n\nLa signification de ces fixations incidentes reste mal connue : on ignore quelle proportion correspond réellement à une ATTR. Cette étude observationnelle, descriptive, multicentrique et nationale, promue par le CHU de Lille avec un soutien de Pfizer, repose sur des données rétrospectives de soins courants. Elle repère les patients ayant une fixation cardiaque fortuite de grade ≥ 2 confirmée par un médecin nucléaire, l'identification rétrospective s'appuyant sur un modèle d'apprentissage profond (d'après le titre officiel). Ces patients sont ensuite rappelés pour un bilan diagnostique complémentaire. La valeur prédictive positive de la fixation incidente est alors calculée.",
+ "interet": "Si la valeur prédictive positive est élevée, la fixation cardiaque fortuite devrait déclencher systématiquement un bilan d'amylose, permettant un diagnostic plus précoce. Ces résultats pourraient aussi justifier un dépistage rétrospectif ou assisté par intelligence artificielle des scintigraphies osseuses existantes.",
+ "profil": "Des adultes ayant eu une scintigraphie osseuse pour un motif quelconque et présentant une fixation cardiaque fortuite de grade Perugini ≥ 2.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Scintigraphie osseuse au 99mTc-HMDP/DPD/PYP pour toute indication",
+  "Fixation cardiaque fortuite de grade Perugini ≥ 2 confirmée par un médecin nucléaire"
+ ],
+ "exclusion": [
+  "Patients sous protection juridique",
+  "Refus de la réutilisation de leurs données après information individuelle",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients avec fixation cardiaque fortuite",
+   "traitement": "Données rétrospectives, puis rappel pour un bilan diagnostique complémentaire d'une journée"
+  }
+ ],
+ "duree": "Une journée d'évaluation lors du rappel",
+ "critere": "Diagnostic d'amylose cardiaque après la réévaluation (évaluation d'une journée)"
+}

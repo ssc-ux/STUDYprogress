@@ -1,0 +1,34 @@
+{
+ "h": "856b81c54321",
+ "date": "2026-10-20",
+ "titre": "Rôle de la ferroptose dans la physiopathologie du lupus systémique",
+ "question": "Quel est le niveau de peroxydation lipidique dans les lymphocytes T régulateurs de patients lupiques, et la ferroptose peut-elle être modulée par des composés du sélénium ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune complexe touchant de multiples organes. Les lymphocytes T régulateurs (Treg) et les plaquettes jouent un rôle clé dans sa physiopathologie, en régulant l'immunité et en favorisant l'inflammation. La ferroptose, forme de mort cellulaire régulée par le fer, émerge comme acteur de nombreuses maladies, dont le lupus.\n\nDes travaux récents ont identifié une baisse de la glutathion peroxydase 4 (GPx4) sous l'effet des complexes immuns et de l'interféron alpha dans les neutrophiles, conduisant à la ferroptose et aggravant le lupus. Certaines données suggèrent aussi son implication dans la néphrite lupique. L'équipe bordelaise a développé des composés à base de sélénium, mimétiques de la GPx4, capables d'inhiber la ferroptose dans les neutrophiles lupiques. Ils ont montré une efficacité prometteuse dans des modèles murins et des données préliminaires chez l'homme dans une autre maladie inflammatoire. Le projet FERROLUP vise à caractériser la peroxydation lipidique et l'expression de GPx4 chez les patients lupiques, et à tester l'effet de ces composés sur la ferroptose induite par la P-sélectine, impliquée dans le dysfonctionnement des Treg.",
+ "interet": "L'étude est physiopathologique et ne modifie pas la prise en charge à court terme. Elle pourrait identifier la ferroptose comme voie thérapeutique nouvelle dans le lupus.",
+ "profil": "Des adultes atteints de lupus systémique, comparés à des patients atteints de polyarthrite rhumatoïde ou de maladie inflammatoire chronique de l'intestin.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic de lupus systémique",
+  "Affiliation à l'assurance maladie",
+  "Volonté de participer et consentement signé",
+  "Groupe contrôle : polyarthrite rhumatoïde ou maladie inflammatoire chronique de l'intestin"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Personnes privées de liberté par décision judiciaire ou administrative",
+  "Mineurs",
+  "Majeurs sous protection juridique ou incapables d'exprimer leur consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus systémique",
+   "traitement": "Prélèvement sanguin"
+  },
+  {
+   "nom": "Polyarthrite rhumatoïde ou MICI (comparateur)",
+   "traitement": "Prélèvement sanguin"
+  }
+ ],
+ "duree": "Non précisé (mesure de référence au jour 0)",
+ "critere": "Niveau de peroxydation lipidique dans la population de lymphocytes T régulateurs chez les sujets lupiques, à l'inclusion (jour 0)"
+}

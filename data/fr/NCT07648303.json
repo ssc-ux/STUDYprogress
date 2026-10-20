@@ -1,0 +1,30 @@
+{
+ "h": "e8e8a55ec133",
+ "date": "2026-10-20",
+ "titre": "Prévalence des thrombus intracardiaques dans l'amylose cardiaque",
+ "question": "Quelle est la prévalence des thrombus intracardiaques, détectés par scanner cardiaque, chez les patients atteints d'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque est une maladie infiltrative liée au dépôt de protéines amyloïdes, génétiques ou acquises, qui provoque insuffisance cardiaque et troubles du rythme. Plus de 98 % des cas diagnostiqués sont dus à des fibrilles de chaînes légères d'immunoglobuline (AL) ou de transthyrétine (ATTR héréditaire ou sauvage). Sa prévalence augmente avec le vieillissement de la population et l'amélioration des techniques diagnostiques.\n\nLes patients ont un risque d'accident vasculaire cérébral nettement supérieur à la normale, dans un état procoagulant de l'oreillette gauche, y compris en l'absence de fibrillation atriale. Selon le registre, des thrombi intracardiaques sont présents chez 28 % des patients avec amylose cardiaque devant bénéficier d'une cardioversion, contre 2,5 % de ceux sans amylose, dont la moitié sous anticoagulant. Le score CHA2DS2-VASc prédit mal le risque thromboembolique dans cette population, et les anticoagulants oraux directs semblent aussi efficaces que les antivitamines K pour prévenir les embolies.\n\nLa prévalence et les facteurs associés aux thrombi intracardiaques restent inconnus, car les études rétrospectives disponibles ne portaient que sur des patients à haut risque sélectionnés. L'effet du tafamidis, désormais disponible, sur le risque thromboembolique est également inconnu. Cette étude du CHU de Dijon propose un scanner cardiaque avec injection à une cohorte de 200 patients suivis pour amylose cardiaque.",
+ "interet": "Une prévalence élevée de thrombi, même hors fibrillation atriale, pourrait conduire à rediscuter l'indication de l'anticoagulation dans l'amylose cardiaque. L'étude pourrait aussi identifier les facteurs associés aux thrombi pour mieux stratifier le risque.",
+ "profil": "Des adultes atteints d'amylose cardiaque AL ou ATTR, suivis au CHU de Dijon.",
+ "inclusion": [
+  "Amylose cardiaque AL (échographie et/ou IRM avec preuve histologique) ou ATTR (anomalies typiques en échographie et/ou IRM avec hyperfixation cardiaque)",
+  "Au moins une consultation pour amylose cardiaque au CHU de Dijon dans l'année précédant l'inclusion",
+  "Adulte"
+ ],
+ "exclusion": [
+  "DFG estimé < 30 mL/min/1,73 m²",
+  "Allergie connue aux produits de contraste iodés",
+  "Thyrotoxicose patente ou asthme non contrôlé",
+  "Antécédent connu de thrombus cardiaque",
+  "Antécédent de fermeture percutanée ou chirurgicale de l'auricule gauche",
+  "Grossesse ou allaitement, tutelle ou curatelle, absence de couverture sociale"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec amylose cardiaque",
+   "traitement": "Scanner cardiaque avec injection de produit de contraste dans les deux mois suivant l'inclusion"
+  }
+ ],
+ "duree": "Deux mois après l'inclusion pour l'examen (étude jusqu'en 2030)",
+ "critere": "Présence d'un thrombus intracardiaque (atrial ou ventriculaire) au scanner injecté, dans les deux mois suivant l'inclusion"
+}

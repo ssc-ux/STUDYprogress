@@ -1,0 +1,36 @@
+{
+ "h": "84cf869f7df7",
+ "date": "2026-10-20",
+ "titre": "Deux stratégies d'initiation de l'étoposide dans les LHH sévères en réanimation",
+ "question": "Une initiation précoce de l'étoposide (dans les 12 heures) réduit-elle les défaillances d'organes par rapport à une initiation différée (réévaluation à 48 heures) dans la LHH sévère en réanimation ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est un syndrome immunologique de dysrégulation avec hyperactivation du système immunitaire et orage cytokinique, responsable de défaillances d'organes. Les patients nécessitent souvent une prise en charge en réanimation, où le pronostic à court terme est sombre, avec une mortalité à un mois de 30 à 40 %.\n\nLa prise en charge est urgente : traiter les pathologies associées et recourir à un traitement immunomodulateur. Faute d'études de haut niveau de preuve, il n'existe pas de recommandation claire. Les experts conseillent les corticoïdes dans les formes modérées et l'étoposide dans les formes sévères, surtout avec défaillance d'organe. En pratique, l'étoposide n'est pas systématique en cas de défaillance multiviscérale, par crainte d'effets secondaires graves et en raison de l'incertitude sur la part d'un sepsis sévère dans le tableau, et son initiation est parfois retardée.\n\nL'hypothèse des investigateurs est qu'un traitement précoce par étoposide pourrait limiter les défaillances d'organes. Cet essai de phase 3 de l'AP-HP, randomisé en ouvert, compare 176 adultes en réanimation avec un premier épisode de LHH : étoposide 100 mg/m² dans les 12 heures, ou stratégie différée avec réévaluation à 48 heures et étoposide seulement si l'évolution est défavorable, avec une corticothérapie associée.",
+ "interet": "L'essai doit fournir une première preuve randomisée pour décider quand débuter l'étoposide dans les LHH sévères de l'adulte. Il pourrait uniformiser les pratiques en réanimation et préciser le rapport bénéfice-risque d'un traitement précoce.",
+ "profil": "Des adultes en réanimation pour un premier épisode de LHH confirmée avec au moins une défaillance d'organe.",
+ "inclusion": [
+  "Adulte",
+  "LHH confirmée (HScore ≥ 169 ou diagnostic posé par l'équipe pluridisciplinaire)",
+  "Premier épisode de LHH",
+  "Admission en réanimation",
+  "Au moins une défaillance d'organe (circulatoire, respiratoire, rénale KDIGO ≥ 2 ou neurologique avec Glasgow ≤ 13)"
+ ],
+ "exclusion": [
+  "Patient moribond en choc distributif réfractaire",
+  "Étoposide impossible dans les 12 heures ou déjà reçu avant l'admission en réanimation",
+  "Hypersensibilité ou contre-indication à l'étoposide ou à la dexaméthasone",
+  "Antécédent de CAR-T ou LHH dans les 15 jours après une chimiothérapie anticancéreuse",
+  "Grossesse ou allaitement, mineur, majeur protégé",
+  "Vaccin vivant atténué récent ou participation à une autre recherche interventionnelle"
+ ],
+ "bras": [
+  {
+   "nom": "Stratégie précoce",
+   "traitement": "Étoposide 100 mg/m² en perfusion lente de 30 à 60 minutes, dans les 12 heures suivant l'inclusion"
+  },
+  {
+   "nom": "Stratégie différée",
+   "traitement": "Réévaluation à 48 heures ; étoposide 100 mg/m² dans les 12 heures si défaillances persistantes ou aggravées (rattrapage possible avant 48 heures)"
+  }
+ ],
+ "duree": "14 jours de suivi",
+ "critere": "Survenue ou aggravation de défaillances d'organes (hausse d'au moins 1 point du SOFA modifié, hors composante hématologique, pour au moins deux organes) entre le jour 1 et le jour 14"
+}

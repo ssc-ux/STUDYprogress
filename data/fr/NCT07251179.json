@@ -1,0 +1,47 @@
+{
+ "h": "b216fcc62000",
+ "date": "2026-10-20",
+ "titre": "Lymphocytes B auto-réactifs dans les maladies auto-immunes et les déficits immunitaires",
+ "question": "Quelle est la proportion de lymphocytes B auto-réactifs, identifiés par tétramères, chez des patients atteints de lupus, de sclérodermie, de vascularite à ANCA, de syndrome des anticorps antiphospholipides ou de déficit immunitaire primitif ?",
+ "contexte": "Les maladies auto-immunes touchent environ une personne sur dix et leur prévalence augmente. Beaucoup d'entre elles reposent sur l'émergence de lymphocytes B auto-réactifs dirigés contre des constituants du soi. Chez le sujet sain, ces cellules sont éliminées ou régulées avant d'atteindre le compartiment des cellules sécrétrices d'anticorps. Chez les sujets prédisposés, une rupture de la tolérance B conduit à la production d'auto-anticorps, comme dans le lupus, la polyarthrite rhumatoïde ou les vascularites.\n\nLa déplétion B est souvent bénéfique mais pas toujours efficace. Les anti-CD20 et les CAR-T anti-CD19 déplètent l'ensemble du compartiment B, sans cibler spécifiquement les cellules responsables de la maladie. L'étude de ces lymphocytes B auto-réactifs chez l'humain se heurte à deux difficultés : les identifier parmi tous les lymphocytes B et démontrer leur pathogénicité. Cette étude monocentrique des Hôpitaux Universitaires de Strasbourg propose de quantifier et de phénotyper ces cellules par cytométrie en flux à haut débit dans plusieurs situations cliniques.",
+ "interet": "Mieux caractériser les lymphocytes B auto-réactifs pourrait aider à comprendre pourquoi les thérapies ciblant les cellules B échouent chez certains patients. À plus long terme, cela pourrait orienter vers des traitements plus spécifiques que la déplétion B globale.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, de sclérodermie systémique, de vascularite à ANCA, de syndrome des antiphospholipides ou de déficit immunitaire primitif.",
+ "inclusion": [
+  "18 à 70 ans",
+  "Lupus systémique (critères ACR/EULAR 2019), sclérodermie systémique (2013), vascularite à ANCA (2022), syndrome des antiphospholipides (2023) ou déficit immunitaire primitif (critères IUIS)",
+  "Capacité à comprendre les objectifs de la recherche",
+  "Affiliation à un régime de sécurité sociale",
+  "Consentement signé, y compris pour les tests génétiques non identifiants"
+ ],
+ "exclusion": [
+  "Refus de participer",
+  "Période d'exclusion liée à une autre étude",
+  "Impossibilité de donner son consentement",
+  "Patient sous protection juridique",
+  "Patient sous tutelle ou curatelle"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus systémique",
+   "traitement": "Prélèvement sanguin"
+  },
+  {
+   "nom": "Sclérodermie systémique",
+   "traitement": "Prélèvement sanguin"
+  },
+  {
+   "nom": "Vascularite à ANCA",
+   "traitement": "Prélèvement sanguin"
+  },
+  {
+   "nom": "Syndrome des antiphospholipides",
+   "traitement": "Prélèvement sanguin"
+  },
+  {
+   "nom": "Déficits immunitaires primitifs",
+   "traitement": "Prélèvement sanguin"
+  }
+ ],
+ "duree": "Une visite d'inclusion avec prélèvement sanguin",
+ "critere": "Pourcentage de lymphocytes B auto-réactifs (tétramère positifs) parmi les lymphocytes B, à la visite d'inclusion"
+}

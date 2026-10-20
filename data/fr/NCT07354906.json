@@ -1,0 +1,33 @@
+{
+ "h": "b990acfdbacd",
+ "date": "2026-10-20",
+ "titre": "Upadacitinib dans l'artérite à cellules géantes avec atteinte active des gros vaisseaux",
+ "question": "L'upadacitinib est-il efficace et bien toléré, en pratique courante, chez des patients ayant une artérite à cellules géantes avec aortite active ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente après 50 ans. Elle peut toucher l'aorte et ses branches, avec un risque de complications vasculaires, en plus du risque visuel. La corticothérapie prolongée reste la base du traitement, mais elle expose à des effets indésirables importants.\n\nLe tocilizumab, anti-IL-6, permet une épargne cortisonique, mais il n'est pas toujours efficace ni toléré. Les inhibiteurs de JAK bloquent la signalisation de plusieurs cytokines pro-inflammatoires et constituent une alternative dans cette situation. L'upadacitinib, inhibiteur de JAK1, a ainsi une indication dans l'ACG en cas d'échec, d'intolérance ou de contre-indication au tocilizumab.\n\nCette étude observationnelle prospective multicentrique, promue par un groupe français, s'intéresse spécifiquement aux patients avec aortite active documentée par imagerie. Elle ne modifie pas la prise en charge : l'upadacitinib 15 mg/j est débuté à l'inclusion dans le cadre du soin courant et maintenu 104 semaines, avec de la prednisone selon les recommandations. Les données d'efficacité clinique, biologique et radiologique, ainsi que de tolérance, sont recueillies dans le dossier médical.",
+ "interet": "L'étude documentera en vie réelle l'efficacité et la tolérance de l'upadacitinib dans l'ACG avec atteinte des gros vaisseaux, forme pour laquelle les données sont limitées. Elle pourrait aider à situer les inhibiteurs de JAK après échec du tocilizumab.",
+ "profil": "Des adultes ayant une ACG récente ou en rechute avec aortite active à l'imagerie, relevant d'un traitement par inhibiteur de JAK.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "ACG récente ou en rechute selon les critères ACR/EULAR 2022",
+  "Aortite active en lien avec l'ACG sur l'imagerie (angioscanner, angio-IRM et/ou TEP-TDM)",
+  "Indication d'un anti-JAK : échec, intolérance ou contre-indication au tocilizumab",
+  "Absence de contre-indication aux inhibiteurs de JAK",
+  "Non-opposition et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Immunosuppression sévère, VIH, VHC ou AgHBs positif",
+  "Échec ou intolérance à un anti-JAK antérieur",
+  "Test QuantiFERON positif indiquant une tuberculose active",
+  "Cancer < 5 ans, antécédent thromboembolique ou maladie cardiovasculaire sévère",
+  "Insuffisance rénale sévère, transaminases ≥ 5 N, cytopénies (plaquettes < 50 000, PNN < 1 000, Hb < 8 g/dL)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte upadacitinib",
+   "traitement": "Upadacitinib 15 mg/j per os pendant 104 semaines, avec prednisone selon les recommandations (soins courants)"
+  }
+ ],
+ "duree": "104 semaines",
+ "critere": "Proportion de patients en rémission de l'ACG à la semaine 24"
+}

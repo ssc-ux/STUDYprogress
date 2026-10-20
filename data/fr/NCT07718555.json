@@ -1,0 +1,30 @@
+{
+ "h": "d526e6099845",
+ "date": "2026-10-20",
+ "titre": "Interactions hôte-microbiote dans les maladies auto-inflammatoires",
+ "question": "Les métabolites dérivés du microbiote intestinal, dosés dans les selles et le sang, diffèrent-ils chez les patients atteints de maladie auto-inflammatoire ?",
+ "contexte": "Les maladies auto-inflammatoires (MAI) sont des affections le plus souvent génétiques, liées à une activation excessive de l'immunité innée, avec inflammation biologique et symptômes systémiques récurrents. Elles regroupent notamment la fièvre méditerranéenne familiale, les cryopyrinopathies, le déficit en mévalonate kinase, le déficit en ADA2 ou l'haploinsuffisance A20, ainsi que des formes sans mutation identifiée.\n\nLa plupart des patients ont une atteinte digestive qui peut ressembler à une maladie inflammatoire chronique de l'intestin. Plusieurs travaux ont décrit une dysbiose dans certaines MAI. Le microbiote communique avec l'hôte par des métabolites (acides gras, dérivés du tryptophane, acides biliaires) aux effets pro- ou anti-inflammatoires. Certains activent la voie du récepteur AhR, qui renforce la barrière intestinale, et un dysfonctionnement de cette barrière a déjà été associé aux MAI. L'hypothèse est qu'une dysbiose pourrait favoriser les atteintes digestives et inflammatoires chez des patients génétiquement prédisposés, via des perturbations de ces métabolites. Cette étude cas-témoins promue par l'AP-HP (service de médecine interne de Tenon, centre CEREMAIA) prévoit un recueil de selles, de sang et d'urines chez environ 300 patients, analysés au laboratoire « Microbiote, intestin et inflammation » de Saint-Antoine.",
+ "interet": "L'étude vise à mieux comprendre le rôle du microbiote et de ses métabolites dans l'inflammation des MAI. Elle pourrait identifier des biomarqueurs ou des pistes thérapeutiques ciblant l'axe intestin-inflammation. Il s'agit d'une étude physiopathologique, sans retombée thérapeutique immédiate.",
+ "profil": "Des patients de plus de 12 ans atteints d'une maladie auto-inflammatoire, suivis au centre CEREMAIA (médecine interne, Tenon).",
+ "inclusion": [
+  "Âge supérieur à 12 ans",
+  "Maladie auto-inflammatoire : FMF, CAPS ou déficit en mévalonate kinase (critères Eurofever/PRINTO), DADA2, HA20, maladie liée à JAK1, polyarthrite juvénile avec mutation LACC1",
+  "Ou MAI non classée : fièvre récurrente, CRP > 20 mg/L, absence de mutation identifiée",
+  "Consultation ou hôpital de jour de routine au centre CEREMAIA",
+  "Non-opposition (consentement spécifique pour la collection biologique) et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Antibiothérapie dans les 3 mois précédant l'inclusion",
+  "Infection en cours le jour de l'inclusion",
+  "Absence d'affiliation à la sécurité sociale",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec maladie auto-inflammatoire",
+   "traitement": "Aucun traitement de l'étude ; prélèvements de sang, d'urine (10 mL) et de selles (kit de recueil, dans les 3 mois) et auto-questionnaire"
+  }
+ ],
+ "duree": "Recueil dans les 3 mois suivant l'inclusion (étude globale jusqu'en 2029)",
+ "critere": "Métabolites dérivés du microbiote dans les selles et le sang, à 3 mois"
+}

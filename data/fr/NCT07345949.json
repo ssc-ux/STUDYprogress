@@ -1,0 +1,25 @@
+{
+ "h": "249533631c47",
+ "date": "2026-10-20",
+ "titre": "Panniculite au cours de la dermatomyosite : description clinique et histologique",
+ "question": "Quelles sont les caractéristiques cliniques et histologiques de la panniculite survenant au cours d'une dermatomyosite, et se distinguent-elles des autres panniculites, notamment lupique ?",
+ "contexte": "La dermatomyosite (DM) est une myopathie inflammatoire auto-immune avec atteinte cutanée caractéristique. L'atteinte du tissu adipeux y est rare. La lipodystrophie partielle ou diffuse est bien décrite mais peu fréquente, en particulier dans les formes juvéniles.\n\nLa panniculite, en revanche, est exceptionnelle au cours de la DM et n'est rapportée que dans quelques cas cliniques isolés. Il n'existe pas de critères diagnostiques validés ni de recommandations thérapeutiques pour cette situation.\n\nLa prise en charge repose actuellement sur l'analogie avec la panniculite lupique, à savoir des antipaludéens de synthèse associés à des corticoïdes et/ou à des immunosuppresseurs. Cette extrapolation n'a pas été validée dans la DM.\n\nCette étude observationnelle du CHU de Strasbourg, menée dans le service de dermatologie, vise à décrire les cas de panniculite chez des patients atteints de DM. Elle cherche à savoir s'il existe des caractéristiques cliniques ou histologiques qui permettent de les distinguer des autres causes de panniculite, en particulier de la panniculite associée au lupus érythémateux.",
+ "interet": "Une meilleure description de cette entité rare aiderait à la reconnaître et à la distinguer de la panniculite lupique. Elle pourrait servir de base à de futurs critères diagnostiques et à une prise en charge plus codifiée.",
+ "profil": "Des patients âgés d'au moins 1 an ayant à la fois une dermatomyosite et une panniculite confirmées.",
+ "inclusion": [
+  "Âge ≥ 1 an",
+  "Diagnostic confirmé de dermatomyosite",
+  "Diagnostic confirmé de panniculite"
+ ],
+ "exclusion": [
+  "Panniculite dont une autre cause est établie, en particulier infectieuse ou métabolique"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec dermatomyosite et panniculite",
+   "traitement": "Étude observationnelle, cohorte unique sans intervention spécifique (étude de cas)"
+  }
+ ],
+ "duree": "Non précisé (période d'étude d'environ 30 mois)",
+ "critere": "Caractéristiques cliniques et histologiques de la panniculite au cours de la dermatomyosite, sur une période allant jusqu'à 30 mois"
+}

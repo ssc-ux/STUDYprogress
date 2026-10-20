@@ -1,0 +1,33 @@
+{
+ "h": "6805b628f060",
+ "date": "2026-10-20",
+ "titre": "Facteurs cliniques, génétiques et immunologiques des infections bactériennes sévères de l'enfant",
+ "question": "Quels facteurs cliniques, immunologiques et génétiques (erreurs innées de l'immunité) favorisent la survenue d'infections bactériennes sévères chez l'enfant ?",
+ "contexte": "Les infections bactériennes sévères (IBS) de l'enfant sont une cause importante de morbi-mortalité pédiatrique. La susceptibilité individuelle varie beaucoup d'un enfant à l'autre, sans que les mécanismes en soient bien compris. Ils sont probablement multifactoriels et incluent des facteurs génétiques et immunologiques.\n\nCette étude du CHU de Nantes porte sur des enfants hospitalisés en réanimation pédiatrique en France entre 2015 et 2018 pour une IBS et inclus dans l'étude DIABACT IV (NCT02167802). Ils bénéficieront d'un phénotypage clinique détaillé (type d'infection) et d'un bilan immunologique complet. Chaque famille sera contactée pour rechercher d'autres épisodes d'IBS personnels ou familiaux ou des éléments évocateurs de déficit immunitaire (infections opportunistes, manifestations auto-immunes, atopie sévère). Les séquelles persistantes et la qualité de vie depuis l'épisode seront également évaluées.\n\nParallèlement, un séquençage de l'exome entier sera réalisé chez les patients et leurs parents, puis comparé à celui de deux populations témoins sans IBS (N = 70 et N = 116). L'objectif est d'identifier des variants favorisant les IBS en général, ou spécifiques de certaines bactéries ou présentations cliniques. L'étude s'inscrit dans une démarche globale de compréhension des mécanismes de ces infections, avec une pertinence pour les internistes et immunologistes qui explorent les déficits immunitaires de l'adulte comme de l'enfant.",
+ "interet": "Les résultats pourraient permettre d'identifier de nouvelles erreurs innées de l'immunité prédisposant aux infections bactériennes sévères. À terme, cela pourrait améliorer la recherche de déficit immunitaire et le conseil génétique après une IBS grave de l'enfant.",
+ "profil": "Des enfants (devenus adolescents ou adultes) hospitalisés en réanimation pédiatrique pour une infection bactérienne sévère entre 2015 et 2018, et leurs parents biologiques.",
+ "inclusion": [
+  "Patient inclus dans l'étude DIABACT IV entre 2015 et 2018 après hospitalisation en réanimation pédiatrique pour IBS",
+  "Patient vivant au moment de l'inclusion",
+  "Affiliation à un régime de sécurité sociale",
+  "Consentement écrit des représentants légaux (ou du patient s'il est majeur)",
+  "Parents : parents biologiques du patient avec consentement écrit"
+ ],
+ "exclusion": [
+  "Personnes sous protection judiciaire",
+  "Refus de participer à la recherche",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ayant eu une IBS pédiatrique",
+   "traitement": "Phénotypage étendu, prélèvements sanguins (exome, congélation de PBMC), score POPC, questionnaires"
+  },
+  {
+   "nom": "Parents biologiques",
+   "traitement": "Prélèvement sanguin pour séquençage de l'exome, questionnaires"
+  }
+ ],
+ "duree": "Une évaluation à l'inclusion (durée de participation par patient non précisée)",
+ "critere": "Identification d'erreurs innées de l'immunité impliquées dans la survenue des IBS pédiatriques, à l'inclusion"
+}

@@ -1,0 +1,41 @@
+{
+ "h": "3ab02852e821",
+ "date": "2026-10-20",
+ "titre": "Acupuncture ou stimulation vagale en plus de l'activité physique adaptée dans la fatigue du Sjögren",
+ "question": "Associer l'acupuncture ou la stimulation transcutanée du nerf vague à un programme d'activité physique adaptée réduit-il davantage la fatigue du syndrome de Sjögren que l'activité physique seule ?",
+ "contexte": "La fatigue inexpliquée touche 60 à 70 % des patients atteints de syndrome de Sjögren (SGS) et représente un besoin thérapeutique non couvert. Elle est souvent plus invalidante que la sécheresse elle-même et répond mal aux traitements de fond de la maladie.\n\nL'activité physique adaptée (APA) est recommandée et s'avère faisable et efficace, mais seulement dans une certaine mesure. D'autres approches non médicamenteuses, comme l'acupuncture ou la stimulation transcutanée du nerf vague (tVNS), ont été évaluées ces dernières années avec des résultats variables sur la fatigue. La tVNS vise à moduler les voies neuro-immunes et le système nerveux autonome, souvent perturbé dans le SGS.\n\nFESSONA est un essai randomisé monocentrique promu par le CHU de Saint-Étienne. Il compare trois programmes : APA seule, APA associée à l'acupuncture, APA associée à la tVNS. Des contrôles adaptés sont prévus (acupuncture simulée et stimulation simulée), ce qui permet d'isoler l'effet propre de chaque technique. La fatigue et plusieurs paramètres liés au SGS sont mesurés à l'inclusion, à 12 semaines, puis à 24 et 48 semaines pour apprécier l'effet à court et long terme. La tolérance et la faisabilité sont également évaluées.",
+ "interet": "Si l'une des associations réduit la fatigue plus que l'APA seule, elle pourrait devenir une option non médicamenteuse pour un symptôme aujourd'hui mal pris en charge dans le SGS. Les résultats préciseraient aussi la place relative de l'acupuncture et de la tVNS.",
+ "profil": "Des adultes atteints de syndrome de Sjögren avec une fatigue chronique inexpliquée d'au moins 6 mois.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Syndrome de Sjögren selon les critères ACR/EULAR 2016 ou AECG 2002, suivi régulier",
+  "Fatigue depuis au moins 6 mois, sans explication évidente (poussée, infection chronique)",
+  "Score FACIT-F actuel < 34",
+  "Consentement signé et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Fibrillation auriculaire ou trouble sévère de la conduction cardiaque",
+  "AVC ou infarctus du myocarde < 6 mois",
+  "FEVG < 40 % ou insuffisance cardiaque sévère (NYHA III-IV)",
+  "Syncopes vagales récurrentes ou antécédent de vagotomie",
+  "Problème dermatologique au site des électrodes",
+  "Thrombose veineuse ou artérielle en cours",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "APA + acupuncture simulée + tVNS",
+   "traitement": "Activité physique adaptée, stimulation transcutanée du nerf vague et acupuncture simulée"
+  },
+  {
+   "nom": "APA + acupuncture + tVNS simulée",
+   "traitement": "Activité physique adaptée, acupuncture et stimulation vagale simulée"
+  },
+  {
+   "nom": "APA + acupuncture simulée + tVNS simulée (contrôle)",
+   "traitement": "Activité physique adaptée seule, avec acupuncture et stimulation vagale simulées"
+  }
+ ],
+ "duree": "Programme de 12 semaines, suivi jusqu'à 48 semaines",
+ "critere": "Variation du score de fatigue entre l'inclusion et la semaine 12"
+}

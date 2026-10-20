@@ -1,0 +1,33 @@
+{
+ "h": "57ace8d976cd",
+ "date": "2026-10-20",
+ "titre": "Obinutuzumab dans la rechute de GPA avec anticorps anti-PR3",
+ "question": "L'obinutuzumab, anticorps anti-CD20, permet-il d'obtenir une rémission clinique et sérologique à 6 mois chez des patients en rechute d'une granulomatose avec polyangéite PR3-ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (VAA) sont des maladies rares et potentiellement mortelles, dont l'enjeu majeur est d'obtenir une rémission durable et de prévenir les rechutes. Le rituximab a montré sa non-infériorité face au cyclophosphamide pour l'induction (essai RAVE), avec un possible bénéfice dans les formes PR3-ANCA.\n\nL'essai MAINRITSAN, conduit par le Groupe français d'étude des vascularites, a ensuite montré que le rituximab maintient plus souvent la rémission que l'azathioprine. Malgré cela, jusqu'à 50 % des patients PR3-ANCA rechutent à 5 ans après l'arrêt du rituximab.\n\nDes données suggèrent qu'atteindre une rémission clinique et sérologique (BVAS à 0 et négativation des ANCA) et une déplétion B plus prolongée pourrait réduire le risque de rechute. L'obinutuzumab est un anticorps anti-CD20 humanisé de type 2. Dans les données précliniques, il s'est montré plus efficace que le rituximab. Il a été supérieur au rituximab dans la leucémie lymphoïde chronique et le lymphome folliculaire, et a atteint ses critères principaux et secondaires dans la néphropathie lupique.\n\nOBI-WAN est une étude de phase 2 ouverte à bras unique, promue par l'AP-HP (Hôpital Cochin). Elle fait l'hypothèse que l'obinutuzumab induira des taux de rémission plus élevés et une déplétion B plus longue que ceux décrits avec le rituximab. Elle porte sur les rechutes de GPA PR3-ANCA, avec 33 patients prévus.",
+ "interet": "Si les taux de rémission sont encourageants, l'obinutuzumab pourrait devenir une alternative au rituximab dans la GPA PR3-ANCA en rechute. Cette étude de phase 2 sans comparateur servirait de base à un éventuel essai comparatif.",
+ "profil": "Des adultes en rechute active d'une granulomatose avec polyangéite PR3-ANCA positive.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "GPA en rechute, PR3-ANCA positive (critères ACR/EULAR 2022 et/ou Chapel Hill 2012)",
+  "Maladie active, BVAS ≥ 3",
+  "Dans les 21 jours suivant l'initiation ou l'augmentation des corticoïdes (≤ 1 mg/kg/j)",
+  "Consentement écrit et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "VAA MPO-positive ou autre vasculite",
+  "Maladie en rémission (BVAS < 3) ou GPA nouvellement diagnostiquée",
+  "Rituximab ou cyclophosphamide dans les 6 mois précédents",
+  "Insuffisance cardiaque NYHA IV",
+  "VIH, hépatite B (y compris ancienne) ou hépatite C",
+  "Cancer actif ou datant de moins de 5 ans",
+  "Infection active ou antécédent d'infections chroniques ou récurrentes"
+ ],
+ "bras": [
+  {
+   "nom": "Obinutuzumab (bras unique)",
+   "traitement": "Obinutuzumab pour l'induction de la rémission (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 24 semaines)",
+ "critere": "Pourcentage de patients en rémission clinique et sérologique à la semaine 24 (mois 6)"
+}

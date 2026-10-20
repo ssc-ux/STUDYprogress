@@ -1,0 +1,32 @@
+{
+ "h": "098ef75cadab",
+ "date": "2026-10-20",
+ "titre": "TEP au [68Ga]Ga-FAPI-46 pour stadifier l'amylose cardiaque ATTR et repérer la progression",
+ "question": "La TEP au [68Ga]Ga-FAPI-46, qui cible l'activité fibroblastique, permet-elle de stadifier l'amylose cardiaque à transthyrétine et de repérer les patients en progression sous traitement ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cardiomyopathie infiltrative due au dépôt de fibrilles amyloïdes, responsable d'insuffisance cardiaque et de troubles du rythme. Malgré les progrès du diagnostic, elle reste souvent méconnue et se présente de façon hétérogène. Les traitements récents, stabilisateurs de la transthyrétine ou silenceurs géniques, ont amélioré le pronostic. Les systèmes de stadification actuels, fondés sur des marqueurs biologiques et fonctionnels, guident toutefois mal les décisions thérapeutiques.\n\nL'IRM cardiaque apporte une caractérisation tissulaire, mais l'imagerie moléculaire non invasive de l'activité fibrotique du myocarde reste limitée. Les traceurs de TEP ciblant la protéine d'activation des fibroblastes (FAPI), marqués au gallium-68, permettent de détecter et quantifier l'activité fibroblastique associée au remodelage myocardique.\n\nCette étude exploratoire de phase 2, promue par le CHU de Nantes, évalue la TEP au [68Ga]Ga-FAPI pour stadifier l'ATTR-CM et distinguer les patients en progression sous traitement. L'hypothèse est que la fixation du traceur reflète une activité fibrotique corrélée à la sévérité et à la progression. La TEP est réalisée environ 40 minutes après l'injection, associée à une IRM ou à un scanner selon l'investigateur. Elle est proposée à 40 patients.",
+ "interet": "Si l'hypothèse est validée, la TEP au FAPI pourrait servir de biomarqueur pour mieux stadifier l'ATTR-CM et individualiser les stratégies thérapeutiques. Elle pourrait aussi aider à repérer précocement un échec d'un traitement spécifique.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine confirmée selon le consensus ESC 2021.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ATTR-CM certaine selon le consensus d'experts ESC 2021",
+  "Consentement écrit signé",
+  "Affiliation à la sécurité sociale française",
+  "Contraception efficace : femmes (test de grossesse négatif, contraception 6 mois ou ménopause/stérilisation), hommes (préservatif 3 mois)"
+ ],
+ "exclusion": [
+  "Antécédent d'infarctus du myocarde ou de myocardite",
+  "Sténose aortique sévère",
+  "Participation actuelle ou passée à un essai de silençage génique de la TTR ou de traitement déplétif de l'amylose",
+  "Grossesse ou allaitement",
+  "Tutelle, curatelle ou protection judiciaire",
+  "Hypersensibilité connue au gallium-68 ou à un excipient, ou incapacité à comprendre le français"
+ ],
+ "bras": [
+  {
+   "nom": "TEP au [68Ga]Ga-FAPI-46",
+   "traitement": "Acquisition TEP environ 40 min après l'injection, pendant 20 à 45 minutes, associée à une IRM ou un scanner"
+  }
+ ],
+ "duree": "Non précisé (critère évalué dans les 30 jours)",
+ "critere": "Comparaison de l'évaluation quantitative de la fixation cardiaque du [68Ga]Ga-FAPI-46, dans les 30 jours"
+}

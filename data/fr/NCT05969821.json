@@ -1,0 +1,28 @@
+{
+ "h": "29ce3656402b",
+ "date": "2026-10-20",
+ "titre": "Manifestations immuno-inflammatoires avec ou sans hématopoïèse clonale (cohorte CHIS)",
+ "question": "Quelle est l'incidence et quel est le tableau clinique des manifestations immuno-inflammatoires chez les patients avec hématopoïèse clonale ou hémopathie, dont le syndrome VEXAS ?",
+ "contexte": "Le spectre des manifestations dysimmunitaires associées aux maladies du sang est large. Leur physiopathologie est mal comprise et leur prise en charge est peu codifiée. Parmi elles figure le syndrome VEXAS (vacuoles, enzyme E1, lié à l'X, autoinflammatoire, somatique), lié à une mutation somatique de UBA1 et associé à des hémopathies.\n\nCette cohorte observationnelle ambispective (rétrospective et prospective), nationale et multicentrique, promue par l'AP-HP, vise à inventorier les données démographiques, génétiques, cliniques et évolutives de patients ayant une manifestation inflammatoire associée ou non à une hémopathie myéloïde ou lymphoïde ou à une hématopoïèse clonale. Elle prévoit d'inclure 5000 patients.\n\nL'objectif principal est de décrire l'incidence des manifestations immuno-inflammatoires chez les patients avec hématopoïèse clonale ou maladie hématologique. Les objectifs secondaires comprennent la présentation clinique et biologique selon le type d'hémopathie, la description du VEXAS, l'étude du lien entre ACG et hématopoïèse clonale, les mutations associées, l'efficacité comparée des traitements immunomodulateurs et antitumoraux, le profil des patients candidats à une greffe de cellules souches, la mortalité et l'histoire naturelle sur 10 ans.\n\nLes données serviront à quantifier la morbi-mortalité de ces maladies rares, à constituer une base de référence et à identifier des patients éligibles à des essais thérapeutiques.",
+ "interet": "Cette cohorte devrait fournir des données de référence sur des syndromes rares comme le VEXAS et sur le lien entre inflammation et hématopoïèse clonale. Elle pourrait aider à stratifier le risque et à orienter la prise en charge et les futurs essais.",
+ "profil": "Des adultes ayant des manifestations dysimmunitaires, avec ou sans hémopathie ni hématopoïèse clonale.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Manifestation dysimmunitaire confirmée : anomalie clinique ou biologique ou maladie systémique",
+  "Présence ou absence d'hémopathie myéloïde ou lymphoïde selon la classification OMS"
+ ],
+ "exclusion": [
+  "Adultes sous tutelle ou curatelle",
+  "Personnes hospitalisées sans consentement et non protégées par la loi",
+  "Personnes privées de liberté",
+  "Personnes non affiliées à la Sécurité sociale"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte dysimmunité",
+   "traitement": "Suivi observationnel de patients avec manifestations dysimmunitaires, avec ou sans hématopoïèse clonale"
+  }
+ ],
+ "duree": "Suivi jusqu'à 10 ans",
+ "critere": "Incidence des manifestations dysimmunitaires associées aux hémopathies, à l'inclusion"
+}

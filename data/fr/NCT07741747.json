@@ -1,0 +1,35 @@
+{
+ "h": "8e851042a893",
+ "date": "2026-10-20",
+ "titre": "Diagnostic génétique ultra-rapide des lymphohistiocytoses familiales de l'enfant",
+ "question": "Un diagnostic génétique ultra-rapide par séquençage de troisième génération raccourcit-il le délai entre la suspicion clinique de LHH familiale et la greffe de moelle chez l'enfant ?",
+ "contexte": "Les lymphohistiocytoses familiales (FHL) sont des maladies génétiques rares (environ quinze cas par an en France) dont le défaut de cytotoxicité des lymphocytes T provoque une lymphohistiocytose hémophagocytaire (LHH). Sans greffe de moelle osseuse, elles sont fatales, et la survie globale à 5 ans n'excède pas 80 %. La prise en charge de la LHH doit être rapide, en deux temps : obtenir la rémission par chimiothérapie ou immunothérapie, puis greffer.\n\nLe caractère génétique ou acquis d'une LHH est difficile à établir. Un facteur infectieux déclenchant peut être confondant et les tests fonctionnels de cytotoxicité sont difficiles à interpréter. Le diagnostic génétique est donc essentiel, mais il repose actuellement sur un panel de gènes ciblés nécessitant 6 à 8 semaines. Le séquençage de troisième génération (TGS), qui permet un séquençage unitaire en temps réel, ouvre la voie à une génomique d'urgence. Cette étude prospective multicentrique, promue par l'AP-HM, vise d'abord à démontrer la faisabilité d'un circuit national de diagnostic génétique ultra-rapide des LHH pédiatriques révélant une FHL. Elle compare 200 patients testés prospectivement à 40 patients historiques, pour évaluer l'impact sur les délais de rémission et de greffe.",
+ "interet": "Un diagnostic génétique en quelques jours plutôt qu'en plusieurs semaines pourrait accélérer la confirmation de la FHL, la rémission de la LHH et l'accès à la greffe. L'étude évalue la faisabilité d'un circuit national d'urgence utilisable en pratique.",
+ "profil": "Des enfants de moins de 18 ans avec une LHH évoquant une lymphohistiocytose familiale ou un syndrome génétique apparenté.",
+ "inclusion": [
+  "Moins de 18 ans",
+  "Suspicion ou diagnostic de FHL ou de syndrome prédisposant à la LHH (Griscelli, Chédiak-Higashi, XLP1, XLP2) ou antécédent familial",
+  "Au moins 5 critères sur 8 de la Histiocyte Society",
+  "Affiliation à la sécurité sociale",
+  "Consentement signé du ou des représentants légaux"
+ ],
+ "exclusion": [
+  "Âge ≥ 18 ans",
+  "Tumeur solide, leucémie ou lymphome",
+  "Personnes protégées (art. L1121-5 à L1121-8 du code de la santé publique)",
+  "Personnes ne comprenant pas le français",
+  "Période d'exclusion d'un autre protocole de recherche"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe prospectif (200 patients)",
+   "traitement": "Séquençage de troisième génération (TGS) pour un diagnostic génétique ultra-rapide"
+  },
+  {
+   "nom": "Groupe rétrospectif (40 patients)",
+   "traitement": "Pas d'intervention ; données comparées rétrospectivement au groupe prospectif"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois après la greffe",
+ "critere": "Délai en jours entre la suspicion clinique et la greffe de cellules souches hématopoïétiques, jusqu'à 24 mois après la greffe"
+}

@@ -1,0 +1,27 @@
+{
+ "h": "13dadaa05709",
+ "date": "2026-10-20",
+ "titre": "Biobanque de maladies inflammatoires pour l'immunophénotypage et la recherche cardiovasculaire",
+ "question": "Des biomarqueurs immunitaires et protéomiques peuvent-ils prédire les événements cardiovasculaires majeurs à 1 an chez des patients atteints de maladies cardiovasculaires inflammatoires ou auto-immunes ?",
+ "contexte": "Les maladies cardiovasculaires inflammatoires et les maladies rhumatismales auto-immunes (ICARD) exposent à un risque cardiovasculaire accru. Leur diagnostic et leur pronostic sont difficiles, et les mécanismes immunitaires sous-jacents restent mal connus.\n\nINFLAME-BANK est une étude ancillaire française, multicentrique, prospective et observationnelle du projet international EACVI-INFLAME. Elle prévoit d'inclure 300 patients adressés pour IRM cardiaque et/ou imagerie nucléaire devant une suspicion d'atteinte cardiovasculaire liée à une ICARD. Un tube de sang citraté supplémentaire de 5 mL est prélevé lors d'une prise de sang de routine, sans ponction dédiée. Selon les centres, une prise de sang à 12 mois, une imagerie par scanner à comptage photonique (PCCT) et des analyses génétiques dans la myocardite aiguë sont possibles. Les analyses comprennent l'immunophénotypage et la protéomique, par cytométrie de masse (CyTOF) et spectrométrie de masse. Les patients sont suivis 12 mois à partir des dossiers médicaux. L'objectif principal est de développer des scores pronostiques spécifiques de chaque maladie pour prédire les événements cardiovasculaires majeurs (MACE) à 1 an. Les objectifs secondaires incluent la valeur diagnostique des biomarqueurs et l'apport du PCCT.",
+ "interet": "L'étude pourrait faciliter un diagnostic plus précoce et une meilleure stratification du risque dans ces maladies. Elle pourrait aussi identifier de nouvelles cibles pour des traitements immunomodulateurs.",
+ "profil": "Des adultes inclus dans l'étude EACVI-INFLAME pour une suspicion de maladie cardiovasculaire inflammatoire ou auto-immune.",
+ "inclusion": [
+  "Patient inclus dans l'étude EACVI-INFLAME",
+  "Consentement du patient"
+ ],
+ "exclusion": [
+  "Antécédent de greffe cardiaque",
+  "Impossibilité de donner son consentement",
+  "Patient sous tutelle ou curatelle",
+  "Déficit immunitaire préexistant, y compris VIH (hors traitement immunosuppresseur)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique",
+   "traitement": "Étude observationnelle : prélèvement sanguin supplémentaire à l'inclusion, prélèvement à 12 mois, PCCT et analyses génétiques optionnels selon les centres"
+  }
+ ],
+ "duree": "12 mois de suivi",
+ "critere": "Proportion de participants ayant un événement cardiovasculaire majeur (MACE) dans l'année de suivi"
+}

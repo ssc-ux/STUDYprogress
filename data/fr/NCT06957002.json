@@ -1,0 +1,38 @@
+{
+ "h": "72507b910d2b",
+ "date": "2026-10-20",
+ "titre": "Bosentan associé aux corticoïdes dans l'artérite à cellules géantes",
+ "question": "Trois mois de bosentan, antagoniste des récepteurs de l'endothéline, associés aux corticoïdes améliorent-ils la survie sans échec à 12 mois par rapport aux corticoïdes seuls dans l'ACG ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente après 50 ans. Elle associe céphalées, hyperesthésie du scalp, douleurs articulaires, signes généraux et, plus rarement, atteinte visuelle, avec un syndrome inflammatoire biologique. Les corticoïdes en sont le traitement de base, souvent poursuivis 12 à 18 mois voire plus, au prix d'effets indésirables fréquents (HTA, diabète, ostéoporose, infections).\n\nLe méthotrexate a un effet d'épargne cortisonique modeste. Le tocilizumab, anti-IL-6, induit et maintient la rémission avec une épargne cortisonique significative, mais seuls 45 % des patients restent en rémission prolongée après son arrêt. Des alternatives restent donc nécessaires.\n\nL'équipe promotrice a observé, sur des biopsies d'artère temporale, une prolifération accrue des cellules musculaires lisses vasculaires, favorisée par l'endothéline-1 (ET-1), exprimée dans la paroi artérielle malade. Les taux plasmatiques d'ET-1 sont plus élevés en cas de complication ischémique visuelle, et l'expression de l'endothéline à la biopsie est associée à la réponse thérapeutique à 6 mois.\n\nLe bosentan, antagoniste des récepteurs de l'ET-1, est commercialisé depuis 2002 dans l'hypertension artérielle pulmonaire. Cet essai de phase II de l'AP-HP, randomisé et en ouvert, teste l'hypothèse qu'une cure de 3 mois associée aux corticoïdes réduit le risque de rechute.",
+ "interet": "Si l'hypothèse se confirmait, une molécule déjà commercialisée, ciblant une voie physiopathologique nouvelle dans l'ACG, pourrait réduire les rechutes et l'exposition aux corticoïdes. L'essai reste un essai exploratoire de phase II.",
+ "profil": "Des adultes de 50 ans et plus ayant une ACG active, définie cliniquement et biologiquement, confirmée par biopsie ou imagerie.",
+ "inclusion": [
+  "Âge ≥ 50 ans au début de la maladie",
+  "Diagnostic d'ACG selon les critères révisés (biopsie d'artère temporale ou imagerie des gros vaisseaux)",
+  "ESR ≥ 50 mm/h ou CRP ≥ 20 mg/L dans l'histoire de la maladie",
+  "Signes d'ACG active dans les 2 semaines avant la randomisation (VS ≥ 30 mm/h ou CRP ≥ 10 mg/L avec symptômes)",
+  "Contraception efficace non hormonale et test de grossesse négatif pour les femmes concernées",
+  "Consentement écrit et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Poids < 40 kg ou > 100 kg",
+  "Insuffisance hépatique modérée à sévère (Child-Pugh B ou C), ASAT/ALAT > 3 N",
+  "Insuffisance cardiaque ou dysfonction systolique sévère",
+  "Traitements récents : tocilizumab, méthotrexate, sécukinumab (12 semaines), anti-CD20, cyclophosphamide, anti-TNF, anti-JAK, etc.",
+  "Hépatite B ou C active, infection par le VIH",
+  "Hypersensibilité au bosentan ; traitement par glibenclamide, fluconazole ou rifampicine",
+  "Chirurgie sous anesthésie générale récente ou prévue (< 3 mois), antécédent de greffe"
+ ],
+ "bras": [
+  {
+   "nom": "Bosentan + glucocorticoïdes",
+   "traitement": "Bosentan 62,5 mg x2/j pendant 4 semaines puis 125 mg x2/j pendant 9 semaines, avec schéma de décroissance corticoïde prédéfini"
+  },
+  {
+   "nom": "Glucocorticoïdes seuls",
+   "traitement": "Schéma de décroissance corticoïde prédéfini"
+  }
+ ],
+ "duree": "12 mois (52 semaines)",
+ "critere": "Survie sans échec à la semaine 52"
+}

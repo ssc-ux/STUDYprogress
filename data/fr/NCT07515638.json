@@ -1,0 +1,44 @@
+{
+ "h": "0b2f6e0475f0",
+ "date": "2026-10-20",
+ "titre": "Cohorte Immun4Cure : polyarthrite, lupus et sclérodermie systémique",
+ "question": "Des biomarqueurs multi-omiques peuvent-ils discriminer la polyarthrite rhumatoïde, le lupus systémique et la sclérodermie systémique, et les distinguer de sujets sains ?",
+ "contexte": "Les maladies auto-immunes sont des affections hétérogènes associant dérégulation de l'immunité innée et adaptative, inflammation chronique et lésions tissulaires irréversibles. La polyarthrite rhumatoïde, le lupus systémique et la sclérodermie systémique constituent des enjeux majeurs de santé publique par leur gravité, la lourdeur des traitements et leur retentissement sur la qualité de vie.\n\nImmun4Cure est une cohorte prospective monocentrique du CHU de Montpellier. Elle prévoit de constituer une base de données et une biobanque de 500 participants, dont 450 adultes atteints de l'une des trois maladies et 50 volontaires sains. Le suivi clinique standardisé dure 5 ans et s'accompagne d'un phénotypage approfondi, d'analyses multi-omiques (génomique, transcriptomique, protéomique, métabolomique, immunophénotypage) et d'une évaluation des expositions environnementales. Des prélèvements biologiques variés sont collectés (sang, urines, selles, salive, biopsies tissulaires optionnelles). Les volontaires sains sont évalués à l'inclusion et à 12 mois pour établir des signatures de référence. La cohorte servira de plateforme pour des projets de recherche translationnelle ancillaires.",
+ "interet": "Cette cohorte constitue une ressource pour identifier des biomarqueurs de diagnostic et de stratification des maladies auto-immunes. Elle n'a pas d'impact direct sur la pratique à court terme.",
+ "profil": "Des adultes atteints de polyarthrite rhumatoïde, de lupus systémique ou de sclérodermie systémique, et des volontaires sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Polyarthrite rhumatoïde (ACR/EULAR 2010), lupus (ACR/EULAR 2019) ou sclérodermie systémique (ACR/EULAR 2013) confirmés",
+  "Suivi dans un service participant du CHU de Montpellier",
+  "Témoins : aucun symptôme de maladie auto-immune",
+  "Témoins : aucun antécédent familial de maladie auto-immune au premier degré"
+ ],
+ "exclusion": [
+  "Refus ou impossibilité de consentir",
+  "Impossibilité de suivre le sujet pendant l'étude",
+  "Participation à une autre étude interventionnelle avec période d'exclusion en cours",
+  "Grossesse",
+  "Absence d'affiliation à la sécurité sociale",
+  "Personnes sous protection juridique ou privées de liberté"
+ ],
+ "bras": [
+  {
+   "nom": "Polyarthrite rhumatoïde",
+   "traitement": "Prélèvements sanguins et collecte principale, collecte optionnelle, questionnaires, examen"
+  },
+  {
+   "nom": "Lupus systémique",
+   "traitement": "Mêmes évaluations"
+  },
+  {
+   "nom": "Sclérodermie systémique",
+   "traitement": "Mêmes évaluations"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Mêmes évaluations, à l'inclusion et à 12 mois"
+  }
+ ],
+ "duree": "5 ans de suivi pour les patients ; 12 mois pour les volontaires sains",
+ "critere": "Performance discriminante (AUC-ROC) des biomarqueurs multi-omiques, de l'inclusion à 60 mois"
+}

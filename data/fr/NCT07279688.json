@@ -1,0 +1,42 @@
+{
+ "h": "fc0e59d088bf",
+ "date": "2026-10-20",
+ "titre": "Baricitinib associé aux corticoïdes dans la pseudopolyarthrite rhizomélique",
+ "question": "Six mois de baricitinib (2 mg ou 4 mg) associé aux corticoïdes permet-il, par rapport au placebo, de diminuer les corticoïdes et de maintenir une faible activité de la pseudopolyarthrite rhizomélique ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire du sujet âgé, diagnostiqué selon les critères ACR/EULAR. Son activité est évaluée par le score PMR-AS-CRP (faible < 7, modérée 7 à 17, élevée > 17 ; poussée > 10 ; rémission < 1,5), qui guide aussi l'adaptation des doses de corticoïdes.\n\nLe traitement de référence est une corticothérapie à faible dose prolongée (prednisone ou prednisolone de 12,5 à 25 mg/j, puis décroissance lente, habituellement pendant 6 à 18 mois). Les comorbidités de la PPR sont en grande partie liées aux corticoïdes, et environ 30 % des patients rechutent lors de la décroissance.\n\nLe tocilizumab a montré son efficacité et son effet d'épargne cortisonique (études TENOR et Semaphore). Le sarilumab a une autorisation dans la PPR en cas de réponse insuffisante ou de rechute, mais n'est pas remboursé en France.\n\nLe baricitinib est un inhibiteur oral de JAK1/JAK2 à demi-vie courte, disponible en 2 mg et 4 mg, ce qui facilite une décroissance simple. Il inhibe de façon dose-dépendante la phosphorylation de STAT3 induite par l'IL-6. Les résultats préliminaires de l'étude BACHELOR (34 patients) suggèrent une grande efficacité dans la PPR débutante sans corticoïdes.\n\nLes inhibiteurs de JAK ont été réévalués par l'EMA pour des risques cardiovasculaires, de cancer, thromboemboliques et infectieux, mais ces risques n'étaient pas augmentés dans les premiers mois de traitement. JADORE-BARI, promu par le CHU de Brest avec Eli Lilly, est un essai de phase 3 randomisé en triple aveugle comparant baricitinib 4 mg, 2 mg et placebo, tous avec corticoïdes, dans la PPR en France.",
+ "interet": "Une cure courte de baricitinib pourrait permettre de réduire, voire d'éviter, une corticothérapie de plus d'un an et ses complications. Elle serait une alternative à l'anti-IL-6 hors AMM ou non remboursés.",
+ "profil": "Des adultes d'au moins 50 ans ayant une PPR nouvellement diagnostiquée ou résistante au traitement, avec une activité élevée.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "PPR selon les critères ACR/EULAR, nouvellement diagnostiquée ou résistante",
+  "Pas de corticoïdes, ou < 15 mg/j depuis au moins 15 jours avant la randomisation",
+  "PMR-AS-CRP > 17",
+  "Absence d'autre arthropathie inflammatoire, connectivite ou vascularite",
+  "Consentement et affiliation à l'assurance maladie française"
+ ],
+ "exclusion": [
+  "Signe clinique d'artérite à cellules géantes",
+  "Hypertension non contrôlée ou maladie cardiovasculaire",
+  "Risque élevé de thrombose veineuse (événement < 12 semaines ou récurrent)",
+  "Fumeur actuel de plus de 65 ans",
+  "Infection active non contrôlée",
+  "Probénécide",
+  "Anomalies biologiques : phosphatases alcalines ≥ 2 N, bilirubine ≥ 1,5 N, neutropénie < 1000/µL, lymphopénie < 500/µL"
+ ],
+ "bras": [
+  {
+   "nom": "Baricitinib 4 mg",
+   "traitement": "Baricitinib 4 mg par voie orale pendant 12 semaines, puis 12 semaines de plus si PMR-AS ≤ 10, avec corticoïdes adaptés au PMR-AS"
+  },
+  {
+   "nom": "Baricitinib 2 mg",
+   "traitement": "Baricitinib 2 mg par voie orale pendant 12 semaines, puis 12 semaines de plus si PMR-AS ≤ 10, avec corticoïdes adaptés au PMR-AS"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie orale pendant 12 semaines, puis 12 semaines de plus si PMR-AS ≤ 10, avec corticoïdes adaptés au PMR-AS"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Évolution du score d'activité PMR-AS entre la semaine 0 et la semaine 24"
+}

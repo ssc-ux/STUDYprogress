@@ -1,0 +1,29 @@
+{
+ "h": "52933850129a",
+ "date": "2026-10-20",
+ "titre": "Imagerie cardiovasculaire multimodale des maladies cardiovasculaires inflammatoires (EACVI-INFLAME)",
+ "question": "Quelle proportion de patients adressés pour une suspicion d'atteinte cardiovasculaire inflammatoire ou auto-immune a une atteinte confirmée en IRM cardiaque et/ou TEP cardiaque ?",
+ "contexte": "Les maladies cardiovasculaires inflammatoires et maladies rhumatismales auto-immunes (ICARD) regroupent l'atteinte cardiovasculaire des connectivites et des vascularites, ainsi que les atteintes inflammatoires primitives du cœur comme la myocardite, la péricardite ou le Tako-Tsubo. Elles sont associées à une morbidité et une mortalité cardiovasculaires accrues, indépendamment des facteurs de risque classiques. Les mécanismes évoqués sont l'inflammation systémique prolongée, l'athérosclérose accélérée, les auto-anticorps et complexes immuns, et une augmentation du tonus sympathique.\n\nLe diagnostic est difficile du fait de l'hétérogénéité des présentations, et le pronostic l'est tout autant. L'imagerie multimodale (IRM cardiaque, échocardiographie, TEP) joue un rôle central pour détecter et caractériser l'inflammation et pourrait apporter des informations pronostiques. Son apport additionnel dans les connectivites et les vascularites reste mal défini. Cette cohorte internationale multicentrique, promue par l'AP-HP, vise à mesurer la proportion d'atteintes confirmées chez des patients consécutifs adressés pour IRM cardiaque et/ou imagerie nucléaire. Elle recueillera aussi des données sur la décroissance thérapeutique, les modalités de traitement et les formes résistantes. L'étude s'inscrit dans la perspective des futures recommandations de l'ESC sur les cardiomyopathies inflammatoires, dont elle fournira des données en vie réelle.",
+ "interet": "Les données pourraient éclairer l'élaboration de futures recommandations sur l'évaluation précoce de l'atteinte cardiovasculaire dans ces maladies. Elles pourraient aussi faire évoluer les algorithmes de prise en charge.",
+ "profil": "Des adultes adressés pour une IRM cardiaque et/ou une imagerie nucléaire devant une suspicion de maladie cardiovasculaire inflammatoire ou auto-immune.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Non-opposition éclairée",
+  "Adressé pour une IRM cardiaque et/ou un examen d'imagerie nucléaire",
+  "Suspicion de myocardite, MINOCA, Tako-Tsubo ou péricardite",
+  "Suspicion de connectivite (sclérodermie, lupus, SAPL, myopathie inflammatoire, polyarthrite, spondyloarthrite) ou de vascularite avec atteinte cardiovasculaire",
+  "Suspicion de sarcoïdose ou de maladie de Still avec atteinte cardiovasculaire"
+ ],
+ "exclusion": [
+  "Impossibilité de donner sa non-opposition",
+  "Antécédent de greffe cardiaque"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique",
+   "traitement": "Étude observationnelle : suivi des patients adressés pour imagerie cardiaque, sans intervention spécifique"
+  }
+ ],
+ "duree": "Non précisé par patient ; évaluation à chaque point diagnostique jusqu'à la fin de l'étude, en moyenne 1 an",
+ "critere": "Proportion de patients ayant une atteinte cardiovasculaire confirmée parmi les patients consécutifs adressés pour une suspicion d'ICARD (à chaque évaluation diagnostique, en moyenne 1 an)"
+}

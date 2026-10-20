@@ -1,0 +1,30 @@
+{
+ "h": "c3ff063c59c1",
+ "date": "2026-10-20",
+ "titre": "Pronostic des manifestations lymphoprolifératives des déficits immunitaires primitifs",
+ "question": "Quelle est l'évolution à long terme des manifestations lymphoprolifératives chez les patients atteints de déficit immunitaire primitif ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP, ou erreurs innées de l'immunité) se caractérisent non seulement par une susceptibilité aux infections, mais aussi par une dysrégulation immunitaire : auto-immunité, auto-inflammation, granulomatose et lymphoprolifération. Cette dernière est fréquente et difficile à gérer. Elle peut toucher les organes lymphoïdes secondaires (adénopathies, splénomégalie) comme le poumon, le foie ou le tube digestif, avec une infiltration lymphocytaire ou granulomateuse, et évoluer vers un lymphome ou une autre néoplasie.\n\nDes thérapies ciblées ont été évaluées dans certains sous-groupes moléculaires : inhibiteurs de PI3Kδ dans le syndrome APDS, abatacept dans les déficits en CTLA4 ou LRBA, inhibiteurs de mTOR comme le sirolimus. Ces travaux portent toutefois sur des entités génétiques précises et un suivi court. L'histoire naturelle et le pronostic à long terme dans des populations de DIP non sélectionnées restent mal connus. PID-LP est une étude rétrospective longitudinale multicentrique (Nancy, Strasbourg, Metz), promue par le CHRU de Nancy. Elle inclura environ 60 patients, enfants et adultes, dont la lymphoprolifération a été diagnostiquée entre 2014 et 2025, avec au moins 12 mois de suivi, à partir des dossiers médicaux.",
+ "interet": "L'étude décrira les trajectoires de la lymphoprolifération associée aux DIP en vie réelle et cherchera des facteurs prédictifs de complications majeures dès le diagnostic. Elle pourrait guider les stratégies de surveillance et générer des hypothèses pour de futurs essais.",
+ "profil": "Des enfants et adultes avec un déficit immunitaire primitif et une lymphoprolifération diagnostiquée entre 2014 et 2025.",
+ "inclusion": [
+  "Déficit immunitaire primitif selon les critères ESID",
+  "Lymphoprolifération systémique (adénopathies persistantes, splénomégalie, lymphome) et/ou atteinte d'organe par infiltration lymphocytaire ou granulomateuse",
+  "Diagnostic entre le 1er janvier 2014 et le 31 décembre 2025",
+  "Au moins 12 mois de suivi après le diagnostic",
+  "Suivi dans un centre participant"
+ ],
+ "exclusion": [
+  "Déficit immunitaire secondaire (VIH, chimiothérapie, greffe d'organe solide, autres causes acquises)",
+  "Adénopathie réactionnelle isolée liée à une infection aiguë",
+  "Données cliniques insuffisantes dans le dossier",
+  "Suivi inférieur à 12 mois après le diagnostic"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte rétrospective (environ 60 patients)",
+   "traitement": "Aucune intervention ; recueil de données issues des dossiers médicaux"
+  }
+ ],
+ "duree": "Suivi rétrospectif de 12 mois à 10 ans après le diagnostic",
+ "critere": "Survenue d'événements cliniques majeurs (décès, lymphome ou autre néoplasie, dysfonction d'organe liée à la lymphoprolifération), de 12 mois à 10 ans"
+}

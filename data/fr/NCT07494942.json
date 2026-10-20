@@ -1,0 +1,31 @@
+{
+ "h": "e1f20585b1ff",
+ "date": "2026-10-20",
+ "titre": "Programme de réadaptation cardiaque dans l'amylose cardiaque à transthyrétine",
+ "question": "Un programme structuré de réadaptation cardiaque de 5 semaines améliore-t-il la consommation maximale d'oxygène (VO2 pic) de patients atteints d'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque est une cardiopathie restrictive progressive qui limite fortement la capacité à l'effort, provoque des symptômes importants et altère nettement la qualité de vie. Le nombre de cas diagnostiqués augmente, en particulier chez les sujets âgés. Malgré ce besoin, la place de la réadaptation cardiaque dans cette population n'est pas bien établie. Les données disponibles viennent surtout d'études de petite taille ou hétérogènes, et aucune étude prospective française n'a évalué systématiquement son impact fonctionnel.\n\nCette étude du CHU de Montpellier évalue un programme structuré mené dans un centre expert de l'amylose cardiaque. Le programme dure 5 semaines, à raison de 5 jours par semaine et 2 séances par jour d'entraînement aérobie et de renforcement musculaire, supervisées par une équipe pluridisciplinaire experte de l'insuffisance cardiaque.\n\nL'étude n'a pas de groupe comparateur : chaque patient est son propre témoin, avec des évaluations avant le programme et environ 3 mois plus tard. Elle comprend une épreuve d'effort cardiorespiratoire, une mesure de la fonction cardiaque par impédancemétrie, un questionnaire de qualité de vie, une prise de sang et une mesure de la pression artérielle à la recherche d'une hypotension orthostatique. Sont aussi évaluées la faisabilité et la tolérance. Les résultats pourraient préparer un futur essai randomisé multicentrique.",
+ "interet": "L'étude pourrait documenter la faisabilité et les effets fonctionnels de la réadaptation dans l'amylose ATTR, pathologie où les recommandations sur l'exercice manquent. Elle pourrait aussi identifier les profils de patients qui en tirent le plus de bénéfice.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine capables de réaliser une épreuve d'effort.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose cardiaque ATTR selon les recommandations (fixation Perugini II ou III en scintigraphie osseuse, sans gammapathie monoclonale)",
+  "Capacité à réaliser une épreuve d'effort",
+  "Disponibilité pour le programme de 5 semaines dans les 30 jours suivant l'épreuve d'effort"
+ ],
+ "exclusion": [
+  "Arythmies ventriculaires non contrôlées",
+  "Insuffisance cardiaque de classe NYHA IV",
+  "Incapacité à donner son consentement",
+  "Impossibilité de surveiller le patient pendant l'étude",
+  "Absence de couverture sociale",
+  "Grossesse ou allaitement, personnes vulnérables ou privées de liberté"
+ ],
+ "bras": [
+  {
+   "nom": "Programme de réadaptation cardiaque (bras unique)",
+   "traitement": "5 semaines, 5 jours par semaine, 2 séances supervisées par jour d'entraînement aérobie et de renforcement musculaire"
+  }
+ ],
+ "duree": "Environ 3 mois (programme de 5 semaines, évaluation à environ 3 mois)",
+ "critere": "Variation de la consommation maximale d'oxygène (VO2 pic), évaluée à J15 puis à J90"
+}

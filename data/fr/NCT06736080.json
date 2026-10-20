@@ -1,0 +1,33 @@
+{
+ "h": "b382f1bc8ded",
+ "date": "2026-10-20",
+ "titre": "Thérapie génique de la lymphohistiocytose familiale de type 3 (UNC13D)",
+ "question": "Une thérapie génique autologue (cellules CD34+ et lymphocytes T transduits par un vecteur lentiviral exprimant UNC13D) est-elle sûre et efficace dans la LHH familiale de type 3 ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire familiale de type 3 (FHL3) est une maladie génétique rare due à des mutations du gène UNC13D (protéine Munc13-4), qui altèrent la cytotoxicité des lymphocytes T et NK. Elle se manifeste par un syndrome d'activation macrophagique, souvent déclenché par des infections virales opportunistes, EBV en tête. Sans greffe de cellules souches hématopoïétiques, elle est fatale.\n\nLe traitement curatif repose aujourd'hui sur une allogreffe, qui en l'absence de donneur HLA génoidentique s'appuie sur un donneur partiellement compatible. Elle expose à des complications immunologiques (échec de prise de greffe, GVH aiguë ou chronique) et à la toxicité du conditionnement, notamment la maladie veino-occlusive. Les médicaments disponibles contrôlent mal, ou seulement transitoirement, les infections virales déclenchantes. Cette étude de phase I/II promue par l'AP-HP (hôpital Necker-Enfants malades) propose de remplacer l'allogreffe par une greffe autologue de cellules CD34+ immunosélectionnées, modifiées par le vecteur lentiviral UNC13D, associée dans la mesure du possible à des lymphocytes T autologues transduits. L'apport de lymphocytes T cytotoxiques fonctionnels dès la fin du conditionnement pourrait aider à contrôler l'infection virale pendant la reconstitution hématopoïétique. Cette approche est aussi proposée en rattrapage après échec d'une allogreffe. L'étude est monocentrique, à bras unique, sur 5 patients.",
+ "interet": "En cas de résultat favorable, la thérapie génique offrirait une alternative à l'allogreffe partiellement compatible, sans risque de GVH ni de rejet. Elle pourrait améliorer la survie globale et la survie sans événement dans la FHL3. À ce stade, l'objectif est d'abord de démontrer la sécurité.",
+ "profil": "Des patients de 3 mois à 45 ans atteints d'une FHL due à une mutation d'UNC13D, en rémission complète et sans donneur HLA génoidentique.",
+ "inclusion": [
+  "3 mois à 45 ans",
+  "FHL causée par une mutation du gène UNC13D",
+  "Rémission complète (apyrexie, cytopénie améliorée, fibrinogène ≥ 1,5 g/L, ferritine < 2000 µg/L, activation T normalisée)",
+  "Éligible à une allogreffe en l'absence de donneur HLA génoidentique, au diagnostic ou 6 mois après échec d'une greffe",
+  "Consentement du patient ou des parents ; contraception efficace si âge de procréer"
+ ],
+ "exclusion": [
+  "Encéphalite à HLH active du système nerveux central",
+  "Donneur apparenté HLA identique disponible",
+  "Infection par le VIH ou HTLV",
+  "Grossesse ou allaitement",
+  "Allergie au busulfan, à la fludarabine, au rituximab, au G-CSF ou au plérixafor",
+  "Impossibilité de supporter une anesthésie générale ou une aphérèse",
+  "HLH non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "MUNC (bras unique)",
+   "traitement": "Dose unique de cellules CD34+ autologues transduites par le vecteur lentiviral UNC13D (MUNC-CD34), avec lymphocytes T autologues transduits (MUNC-T3)"
+  }
+ ],
+ "duree": "Suivi de 60 mois (2 ans d'étude puis suivi à long terme)",
+ "critere": "Mortalité liée à la greffe à 6 mois ; événements indésirables jusqu'à 60 mois ; tumeur ou dominance clonale anormale à 12 mois ; lentivirus réplicatif détecté jusqu'à 60 mois"
+}

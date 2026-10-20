@@ -1,0 +1,38 @@
+{
+ "h": "74391d060656",
+ "date": "2026-10-20",
+ "titre": "Rituximab préemptif à la réapparition des ANCA dans la GPA et la PAM",
+ "question": "Un rituximab préemptif en cas de réapparition des ANCA réduit-il le risque de rechute par rapport à une simple surveillance clinico-biologique dans la GPA et la PAM en rémission ?",
+ "contexte": "Le traitement de la granulomatose avec polyangéite (GPA) et de la polyangéite microscopique (PAM) comprend une phase d'induction pour obtenir la rémission, puis une phase d'entretien pour prévenir les rechutes. Le rituximab est le socle de l'entretien, habituellement pendant au moins 18 mois. Au-delà, la prolongation est débattue, surtout à cause du risque infectieux lié à une immunosuppression prolongée.\n\nUtiliser des biomarqueurs pour guider la durée du traitement, en ne prolongeant que chez les patients à haut risque de rechute, est une piste de prise en charge personnalisée. Les ANCA sont un candidat attractif, car identifiés comme un marqueur précoce de rechute.\n\nDes études anciennes ont suggéré qu'un traitement immunosuppresseur préemptif pourrait réduire les rechutes, mais aucune n'a été menée à l'ère du rituximab. En l'absence d'essai prospectif randomisé, les recommandations actuelles conseillent une surveillance rapprochée en cas de repositivité isolée des ANCA chez un patient en rémission clinique.\n\nPREP-ANCA est une étude de phase 4 randomisée ouverte promue par l'AP-HP, qui compare à la repositivité des ANCA un rituximab préemptif à la surveillance standard. Elle inclut 70 patients prévus.",
+ "interet": "Si le rituximab préemptif réduit les rechutes, la réapparition des ANCA deviendrait un signal d'action et non plus seulement de surveillance. Dans le cas contraire, l'étude conforterait l'attitude attentiste actuellement recommandée.",
+ "profil": "Des adultes avec une GPA ou une PAM en rémission complète, sous rituximab d'entretien depuis au moins 18 mois, chez qui les ANCA sont redevenus positifs.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "GPA ou PAM selon les critères ACR/EULAR 2022",
+  "Rituximab d'entretien depuis au moins 18 mois (500 mg tous les 6 mois, 4 à 5 doses)",
+  "Rémission complète (BVAS = 0) à la randomisation",
+  "Repositivité des ANCA confirmée dans les 3 mois précédant la randomisation",
+  "Consentement écrit et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Autre vascularite que GPA ou PAM",
+  "Poussée active (BVAS > 0)",
+  "Infection aiguë active ou antécédent d'infection sévère, chronique ou récurrente",
+  "Vaccin vivant dans les 4 semaines précédentes",
+  "Cancer actif ou hémopathie maligne < 5 ans (hors exceptions)",
+  "Hypersensibilité aux anticorps monoclonaux ou aux corticoïdes, ou échec antérieur du rituximab",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab préemptif",
+   "traitement": "Rituximab 500 mg IV tous les 6 mois pendant 18 mois au total, selon la positivité des ANCA"
+  },
+  {
+   "nom": "Témoin",
+   "traitement": "Suivi de soins courants, sans intervention"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Survie sans rechute (BVAS > 0) dans chaque bras à 24 mois"
+}

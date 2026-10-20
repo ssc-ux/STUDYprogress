@@ -1,0 +1,42 @@
+{
+ "h": "79711a7079ea",
+ "date": "2026-10-20",
+ "titre": "Modéliser les débuts de l'auto-immunité : PTI de l'enfant et lupus juvénile",
+ "question": "Quelles voies immunologiques distinguent, dès le diagnostic, les PTI de l'enfant sans anticorps antinucléaires, les PTI avec anticorps antinucléaires (pré-lupus) et le lupus juvénile ?",
+ "contexte": "Le développement d'une maladie auto-immune demande plusieurs années. Dans le lupus, les anticorps antinucléaires (AAN) apparaissent plusieurs années avant la maladie, mais les mécanismes précoces sont difficiles à étudier chez l'humain, car les prélèvements sont le plus souvent faits au moment du diagnostic.\n\nLe PTI de l'enfant constitue un modèle original : il s'accompagne de dysfonctions immunitaires communes à l'origine d'anticorps antiplaquettes, mais son évolution est très hétérogène. La maladie est transitoire dans 75 à 80 % des cas, tandis que 15 à 20 % des enfants ont des AAN et une évolution habituellement persistante ou chronique. Ce sous-groupe PTI AAN+ correspond à un état de pré-lupus. Les investigateurs ont récemment montré que 16 % de ces enfants évoluent vers un lupus complet en une médiane de 3,8 ans. Cette étude exploratoire, prospective et bicentrique (Bordeaux, Toulouse) inclura 70 enfants avec PTI et 20 enfants avec lupus nouvellement diagnostiqués, avec des témoins appariés. Elle analysera les voies de signalisation (lymphocytes B et T, cytokines, rupture de tolérance, inactivation de l'X) dans ces sous-groupes.",
+ "interet": "Comprendre pourquoi certains PTI restent transitoires et d'autres évoluent vers la chronicité ou le lupus pourrait fournir des marqueurs précoces. À terme, cela pourrait aider à repérer les enfants à risque d'évoluer vers une maladie auto-immune systémique.",
+ "profil": "Des enfants et adolescents de plus d'un an et de moins de 18 ans, avec un PTI ou un lupus nouvellement diagnostiqué avant tout traitement, et des témoins appariés.",
+ "inclusion": [
+  "PTI ou lupus nouvellement diagnostiqué, avant tout traitement",
+  "Âge > 1 an et < 18 ans au diagnostic, poids > 7 kg",
+  "Consentement écrit des parents ou tuteurs",
+  "Affiliation à un régime de sécurité sociale",
+  "Témoins : suivis en hôpital de jour pour une pathologie sans atteinte immunitaire, appariés sur l'âge"
+ ],
+ "exclusion": [
+  "PTI secondaire à une cause connue (déficit immunitaire, greffe, autre maladie auto-immune, syndrome d'Evans, cancer sous immunosuppresseur)",
+  "Traitement immunomodulateur ou immunosuppresseur (immunoglobulines, corticoïdes, hydroxychloroquine) débuté avant l'inclusion",
+  "Grossesse, accouchement ou allaitement",
+  "Témoins : maladie immunologique, infection dans les 15 jours, traitement immunomodulateur"
+ ],
+ "bras": [
+  {
+   "nom": "PTI AAN-",
+   "traitement": "Prélèvements sanguins à l'inclusion et à M3, surveillance du lupus"
+  },
+  {
+   "nom": "PTI AAN+",
+   "traitement": "Prélèvements sanguins et surveillance du lupus à l'inclusion et à M3, puis tous les 6 mois jusqu'à 48 mois"
+  },
+  {
+   "nom": "Lupus",
+   "traitement": "Prélèvements sanguins à l'inclusion et à M3, surveillance du lupus"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Prélèvements sanguins à l'inclusion et à M3"
+  }
+ ],
+ "duree": "3 mois (PTI AAN- et lupus) ; 48 mois (PTI AAN+)",
+ "critere": "Caractérisation des populations de lymphocytes B et T et des marqueurs plasmatiques, à l'inclusion et à 3 mois"
+}

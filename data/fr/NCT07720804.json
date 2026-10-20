@@ -1,0 +1,32 @@
+{
+ "h": "f75ce3ee09dd",
+ "date": "2026-10-20",
+ "titre": "Cinétique de la CRP après initiation des corticoïdes dans l'artérite à cellules géantes",
+ "question": "La vitesse de normalisation de la CRP après le début des corticoïdes est-elle liée aux manifestations initiales, aux complications et aux rechutes de l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vascularite chronique des gros vaisseaux caractérisée par un important syndrome inflammatoire. L'activité de la maladie est corrélée à plusieurs marqueurs inflammatoires, dont la CRP, qui la reflète le mieux.\n\nLes rechutes restent fréquentes, avec des taux allant jusqu'à 45,7 %. Le traitement repose sur une corticothérapie prolongée et/ou des traitements d'épargne cortisonique, associés à des effets indésirables.\n\nIdentifier les patients à risque de rechute est donc essentiel pour adapter le traitement initial et le suivi. GIDEON est une étude pilote promue par le CHU de Limoges, menée chez des patients hospitalisés en médecine interne pour une ACG nouvellement diagnostiquée.\n\nElle analyse la cinétique de la CRP au diagnostic et à l'initiation de la corticothérapie, afin de la relier à l'évolution de la maladie. Une évaluation précoce de la vitesse de normalisation de la CRP pourrait permettre d'adapter la stratégie thérapeutique pour éviter complications et rechutes. Les prélèvements sanguins pour dosage de la CRP constituent la seule intervention. L'effectif prévu est de 40 patients.",
+ "interet": "Si la cinétique de la CRP prédit complications et rechutes, elle pourrait servir à adapter précocement l'intensité du traitement dans l'ACG. L'étude est un pilote destiné à générer des hypothèses.",
+ "profil": "Des adultes hospitalisés en médecine interne pour une artérite à cellules géantes nouvellement diagnostiquée.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Nouveau diagnostic d'ACG, hospitalisé en médecine interne",
+  "Affiliation à un régime de sécurité sociale",
+  "Consentement libre et éclairé signé"
+ ],
+ "exclusion": [
+  "Traitement d'épargne cortisonique prévu pendant l'hospitalisation",
+  "Insuffisance rénale (DFGe ≤ 60 mL/min/1,73 m²)",
+  "Antécédent de pseudopolyarthrite traitée par corticoïdes",
+  "ACG avec atteinte visuelle",
+  "Immunosuppresseur ou biothérapie en cours",
+  "VIH ou cancer évolutif, mauvaise observance connue, démence",
+  "Grossesse, allaitement ou tutelle"
+ ],
+ "bras": [
+  {
+   "nom": "ACG nouvellement diagnostiquée",
+   "traitement": "Corticothérapie avec prises de sang répétées pour dosage de la CRP (bras unique)"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Cinétique de la CRP (dosages sanguins) sur 1 an"
+}

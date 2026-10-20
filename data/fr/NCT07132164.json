@@ -1,0 +1,33 @@
+{
+ "h": "c8e90a690d93",
+ "date": "2026-10-20",
+ "titre": "Cohorte de pseudo-polyarthrite rhizomélique récente : diagnostic initial et évolution",
+ "question": "Quelle proportion de patients atteints de PPR récente a une maladie de faible activité (DAS-PPR < 10) et sans traitement à 12 mois ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire fréquent du sujet âgé, caractérisé par des douleurs inflammatoires des épaules et/ou des hanches. Le diagnostic repose sur des critères cliniques, un syndrome inflammatoire biologique et l'élimination des principaux diagnostics différentiels. Environ 25 % des diagnostics initiaux ne sont pas confirmés à un an (rhumatisme à microcristaux, polyarthrite rhumatoïde…). L'échographie des épaules et des hanches ou la TEP peuvent aider au diagnostic. La PPR peut aussi être associée à une artérite à cellules géantes (ACG) ou évoluer vers elle.\n\nLa corticothérapie à dose modérée et prolongée est la base du traitement. Les recommandations ACR/EULAR 2015 proposent 12,5 à 25 mg/j d'équivalent prednisone, avec 10 mg/j à la semaine 8 et un sevrage à 12 mois, mais elles ne reposent pas sur des essais cliniques. Environ la moitié des patients ne suit pas ce schéma : des rechutes surviennent dans près de 50 % des cas pendant la décroissance et environ 25 % ne peuvent pas arrêter les corticoïdes. Les anti-IL-6 (tocilizumab, sarilumab) ont montré une efficacité dans la PPR cortico-dépendante, mais il n'existe pas de facteur prédictif de l'évolution.\n\nCette cohorte du CHU de Brest, dans 30 centres français, suit 400 patients avec une PPR récente. Elle décrit le phénotype initial (dont des données exploratoires : imagerie, biologie, génétique, microbiote), les rechutes, l'association à l'ACG, les complications des corticoïdes et la valeur diagnostique de l'échographie, de la TEP et de biomarqueurs.",
+ "interet": "La cohorte pourrait identifier des facteurs pronostiques d'évolution de la PPR et préciser la place des examens complémentaires pour éviter les erreurs diagnostiques. Elle fournira aussi des données sur la décroissance corticoïde en pratique réelle.",
+ "profil": "Des adultes de 50 ans et plus avec une PPR évoluant depuis 24 semaines ou moins et une indication de corticothérapie.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "Douleurs inflammatoires des épaules ± des hanches",
+  "CRP ≥ 10 mg/L",
+  "Diagnostic de PPR retenu par le rhumatologue référent",
+  "Corticothérapie indiquée pour la PPR",
+  "Symptômes évoluant depuis 24 semaines ou moins"
+ ],
+ "exclusion": [
+  "Signes évocateurs d'ACG associée au diagnostic",
+  "PPR induite par immunothérapie",
+  "Méthotrexate ou anti-IL-6 à l'inclusion",
+  "Corticothérapie > 30 jours ou > 500 mg d'équivalent prednisone dans le mois précédent",
+  "Autre maladie chronique nécessitant une corticothérapie prolongée ou répétée",
+  "Grossesse, patient sous tutelle ou curatelle, ou incapable de consentir ou de tenir le carnet de suivi des corticoïdes"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte PPR récente",
+   "traitement": "Suivi en soins courants avec recueil d'échantillons biologiques (biobanque, selles pour le microbiote)"
+  }
+ ],
+ "duree": "12 mois pour le critère principal (étude prévue jusqu'en 2035)",
+ "critere": "Score DAS-PPR et nombre de patients sans traitement lié à la PPR depuis au moins 2 semaines, à 12 mois"
+}

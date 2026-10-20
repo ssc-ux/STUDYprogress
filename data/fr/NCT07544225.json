@@ -1,0 +1,33 @@
+{
+ "h": "810f9091cf00",
+ "date": "2026-10-20",
+ "titre": "CAR-T anti-CD19 produits à Gustave Roussy dans les maladies auto-immunes systémiques réfractaires",
+ "question": "Les CAR-T anti-CD19 autologues, produits à Gustave Roussy, sont-ils bien tolérés chez des adultes atteints de maladie rhumatismale auto-immune systémique sévère et réfractaire ?",
+ "contexte": "Certaines maladies auto-immunes systémiques (polyarthrite rhumatoïde, lupus, syndrome de Sjögren, sclérodermie systémique, myopathies inflammatoires) restent sévères et progressives malgré plusieurs lignes d'immunosuppresseurs et de biothérapies. Les patients en échec thérapeutique disposent de peu d'options.\n\nLes CAR-T cells anti-CD19 sont des lymphocytes T autologues modifiés pour reconnaître le CD19 et éliminer en profondeur les lymphocytes B, dont le rôle est central dans ces maladies. Cette approche, issue de l'oncohématologie, fait l'objet d'un intérêt croissant dans l'auto-immunité. Cette étude de phase 1, monocentrique et en ouvert, n'est pas une première chez l'homme. Elle évalue la sécurité, la tolérance et l'efficacité préliminaire d'un produit de thérapie innovante fabriqué à Gustave Roussy. Six patients sont prévus, avec une perfusion unique à 1x10^6 cellules/kg. Les critères d'inclusion varient selon la maladie et exigent notamment l'échec d'au moins deux traitements immunosuppresseurs ou biologiques et une maladie active. Le critère principal est la survenue de toxicités inacceptables dans les 4 semaines.",
+ "interet": "Les résultats préciseraient la faisabilité et la sécurité d'une production hospitalière académique de CAR-T pour les maladies auto-immunes. Ils pourraient ouvrir l'accès à cette thérapie à des patients en impasse thérapeutique.",
+ "profil": "Des adultes de 18 à 75 ans atteints de polyarthrite, lupus, syndrome de Sjögren, sclérodermie systémique ou myopathie inflammatoire sévères et réfractaires.",
+ "inclusion": [
+  "18 à 75 ans, ECOG 0 à 2",
+  "Maladie auto-immune systémique sévère, active et progressive (critères spécifiques par maladie)",
+  "Échec d'au moins deux traitements immunosuppresseurs ou biologiques",
+  "Clairance de la créatinine > 30 mL/min",
+  "Contraception efficace jusqu'à 12 mois après la perfusion",
+  "Résidence à moins d'une heure de Gustave Roussy pendant les 30 premiers jours, avec accompagnant"
+ ],
+ "exclusion": [
+  "Infection active significative (hépatite B ou C active, VIH connu)",
+  "Traitement antérieur par thérapie génique ou CAR-T",
+  "Fonction d'organe inadéquate (rénale, hépatique, FEVG < 50 %, oxygénothérapie continue)",
+  "Cancer actif ou datant de moins de 2 ans",
+  "Antécédent de greffe allogénique de cellules souches ou d'organe solide",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement (bras unique)",
+   "traitement": "CAR-T anti-CD19 autologues, perfusion unique de 1x10^6 cellules/kg"
+  }
+ ],
+ "duree": "Perfusion unique ; critère principal évalué à 30 jours ; fin d'étude prévue en 2043",
+ "critere": "Toxicités inacceptables dans les 4 semaines suivant la perfusion unique de CAR-T (de la perfusion à J30)"
+}

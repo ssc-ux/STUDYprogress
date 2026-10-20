@@ -1,0 +1,37 @@
+{
+ "h": "45fe97614bf2",
+ "date": "2026-10-20",
+ "titre": "Avacopan en ajout au traitement standard dans les vascularites à ANCA avec atteinte rénale sévère",
+ "question": "L'ajout de l'avacopan à un traitement standard à base de corticoïdes améliore-t-il la fonction rénale à 52 semaines dans les vascularites à ANCA avec glomérulonéphrite rapidement progressive sévère ?",
+ "contexte": "Les vascularites associées aux ANCA (VAA) sont des maladies auto-immunes rares, à forte mortalité en l'absence de traitement. Les formes avec glomérulonéphrite nécrosante et extracapillaire rapidement progressive (GNRP), avec un DFGe < 30 mL/min/1,73 m², s'accompagnent d'une mortalité et d'un taux d'infections plus élevés. Elles exposent à une maladie rénale chronique, à l'insuffisance rénale terminale avec dialyse et à des complications cardiovasculaires.\n\nLes recommandations actuelles préconisent un traitement standard associant un traitement d'induction (rituximab ou cyclophosphamide) et des glucocorticoïdes (60 mg/j puis décroissance sur 6 à 12 mois), avec ou sans échanges plasmatiques. Les corticoïdes contribuent au contrôle de la maladie mais exposent à des effets indésirables, et de nouvelles approches ciblant la physiopathologie sont attendues.\n\nL'avacopan est un inhibiteur sélectif du récepteur C5a. Dans l'essai de phase 3, il était supérieur à la décroissance de prednisone pour la rémission soutenue à 52 semaines. Chez les patients avec DFGe < 30, il était associé à un meilleur gain de DFGe, mais les données restent rares, et les patients avec DFGe < 15 étaient exclus. Dans cet essai, l'avacopan a aussi permis de réduire fortement la dose cumulée de corticoïdes : il a été proposé en alternative aux corticoïdes plutôt qu'en association.\n\nREVERSE, promu par le CHU de Toulouse, teste l'hypothèse inverse : l'avacopan ajouté à un schéma à base de corticoïdes (approche synergique) améliorerait le pronostic rénal des VAA sévères. L'essai de phase 3 randomisé en double aveugle compare traitement standard plus avacopan à traitement standard plus placebo.",
+ "interet": "Si l'avacopan améliore la récupération rénale en plus des corticoïdes, il pourrait être proposé d'emblée dans les formes sévères avec DFGe très bas. Cela concerne une population peu représentée dans les essais précédents.",
+ "profil": "Des adultes de 18 à 85 ans avec une VAA (GPA ou PAM) active, une GNRP et un DFGe < 30 mL/min/1,73 m².",
+ "inclusion": [
+  "Biopsie rénale disponible (< 6 semaines) ou réalisée avant la semaine 4",
+  "GPA ou PAM avec GNRP, nouvellement diagnostiquée ou en rechute (ACR/EULAR 2022)",
+  "BVAS ≥ 3 avec protéinurie > 300 mg/g et/ou hématurie > 10/champ, DFGe 0-29 mL/min/1,73 m²",
+  "Traitement standard prévu par rituximab ou cyclophosphamide plus corticoïdes",
+  "Contraception efficace chez les femmes en âge de procréer, consentement écrit"
+ ],
+ "exclusion": [
+  "Pathologie irréversible limitant la survie à court terme",
+  "> 3000 mg de méthylprednisolone dans les 3 semaines précédentes",
+  "DFGe < 35 avant la poussée, ou glomérulosclérose/fibrose interstitielle > 60 %",
+  "Grossesse, allaitement ou désir de grossesse dans les 24 mois",
+  "Atteinte hépatique, VIH, hépatite B ou C, infection active",
+  "Cancer ou hémopathie lymphoproliférative < 3 ans",
+  "Inducteur puissant du CYP3A4, allergie à l'avacopan, greffe d'organe solide"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement standard + avacopan",
+   "traitement": "Traitement standard à base de corticoïdes plus avacopan (dose non précisée)"
+  },
+  {
+   "nom": "Traitement standard + placebo",
+   "traitement": "Traitement standard à base de corticoïdes plus placebo"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Amélioration de la fonction rénale entre l'inclusion (J0) et 52 semaines après la randomisation"
+}

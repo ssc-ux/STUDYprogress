@@ -1,0 +1,29 @@
+{
+ "h": "93fb35b55cc1",
+ "date": "2026-10-20",
+ "titre": "Cohorte de granulomatoses systémiques (sarcoïdose) avec biobanque, Bordeaux",
+ "question": "Quelle est l'évolution clinique des patients atteints de granulomatose systémique, dont la sarcoïdose, suivis au CHU de Bordeaux ?",
+ "contexte": "Les granulomatoses systémiques réunissent des maladies dont le point commun est la présence de granulomes gigantocellulaires, formés de macrophages, de cellules épithélioïdes et de lymphocytes T CD4+. Leur cause exacte reste inconnue : des facteurs environnementaux (infections, exposition à des particules) et une susceptibilité génétique sont suspectés. La persistance des granulomes est délétère et conduit à une destruction locale puis à une fibrose des tissus voisins.\n\nCe groupe est hétérogène. Une étiologie peut être retrouvée (infection, bérylliose ou pneumoconiose, médicaments, néoplasie, déficit immunitaire), mais la forme idiopathique, correspondant à la sarcoïdose systémique, est la plus fréquente. Pour de futurs travaux, les investigateurs jugent indispensable de constituer une biobanque de patients suivis pour granulomatose systémique, afin d'identifier des variants génétiques et des biomarqueurs circulants associés à la survenue, à la sévérité et à la réponse au traitement. GRAMI-BIO est une cohorte prospective monocentrique de 150 patients inclus au diagnostic au CHU de Bordeaux (médecine interne et immunologie clinique), avec cinq ans d'inclusion et cinq ans de suivi. Elle prévoit des collections de sérum, plasma, urines, ADN et ARN.",
+ "interet": "La cohorte décrira l'histoire naturelle de la sarcoïdose et des autres granulomatoses dans un centre expert. La biobanque servira de base à des recherches sur les biomarqueurs de sévérité et de réponse au traitement.",
+ "profil": "Des adultes avec une granulomatose systémique prouvée histologiquement, incluse au moment du diagnostic.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Granulomatose systémique prouvée par prélèvement anatomopathologique, au diagnostic",
+  "Affiliation à la sécurité sociale",
+  "Consentement libre, éclairé et écrit"
+ ],
+ "exclusion": [
+  "Infection par le VIH, le VHB et/ou le VHC",
+  "Femme enceinte ou allaitante",
+  "Traitement spécifique de la granulomatose déjà débuté",
+  "Personne privée de liberté, mineur, majeur protégé ou incapable de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Granulomatose systémique",
+   "traitement": "Cohorte observationnelle ; prélèvements de sang et d'urine pour la biobanque"
+  }
+ ],
+ "duree": "Suivi jusqu'à 60 mois après l'inclusion",
+ "critere": "Description de l'évolution clinique de la granulomatose systémique, à l'inclusion et à 60 mois"
+}

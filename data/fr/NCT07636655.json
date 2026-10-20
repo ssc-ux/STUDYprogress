@@ -1,0 +1,30 @@
+{
+ "h": "cff19098fbb6",
+ "date": "2026-10-20",
+ "titre": "Biomarqueurs lymphocytaires T CD8+ après déplétion B par rituximab dans les vascularites à ANCA",
+ "question": "Existe-t-il une signature des lymphocytes T CD8+ sensible à la déplétion B par rituximab et capable de prédire la rechute des vascularites associées aux ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (VAA) sont des maladies auto-immunes graves. Le rituximab (RTX), qui déplète les lymphocytes B, est le traitement de référence, notamment en entretien.\n\nLa difficulté est d'identifier les patients à haut risque de rechute. Faute de marqueur fiable, les traitements sont parfois prolongés inutilement, avec davantage d'effets indésirables, notamment infectieux.\n\nDes travaux récents suggèrent que le RTX a aussi un effet sur les lymphocytes T CD8+, qui pourraient constituer de bons marqueurs de suivi de la maladie. La cohorte NALVANCA, promue par le CHU de Nantes avec le CR2TI (UMR1064, Inserm), vise à rechercher dans ces cellules des biomarqueurs répondant au traitement et prédictifs de rechute.\n\nLes patients adultes avec une VAA séropositive (PR3 ou MPO) et recevant un RTX d'entretien (500 mg tous les 6 mois) après une poussée ou une rechute sont suivis de façon prolongée. Des prélèvements sanguins supplémentaires sont réalisés avant l'induction, pendant la déplétion et lors de la reconstitution immunitaire (2 ans après la dernière injection ou à la rechute). Ils sont analysés avec les scores BVAS et VDI. Les patients consentent à la conservation de leurs échantillons dans une biocollection.",
+ "interet": "Un biomarqueur prédictif de rechute permettrait d'adapter la durée du rituximab à chaque patient. Cela éviterait des traitements prolongés chez les patients à faible risque.",
+ "profil": "Des adultes atteints de vascularite à ANCA (anti-PR3 ou anti-MPO) devant recevoir un rituximab d'entretien.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Affiliation à la sécurité sociale française",
+  "VAA séropositive (anti-PR3 ou anti-MPO) selon la classification de Chapel Hill",
+  "Rituximab d'entretien prévu (500 mg tous les 6 mois) après une poussée ou une rechute",
+  "Consentement écrit à la biocollection"
+ ],
+ "exclusion": [
+  "Incapacité à donner son consentement",
+  "Refus de participer",
+  "Insuffisance rénale terminale",
+  "Néoplasie évolutive (hors carcinomes cutanés)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte NALVANCA",
+   "traitement": "Patients avec VAA traités par rituximab, avec prélèvements sanguins supplémentaires et scores BVAS et VDI"
+  }
+ ],
+ "duree": "Suivi à long terme : du diagnostic jusqu'à 2 ans après la dernière perfusion de rituximab",
+ "critere": "Identification d'une signature de lymphocytes T CD8+ sensible à la déplétion B, du diagnostic jusqu'à 2 ans après la dernière perfusion"
+}

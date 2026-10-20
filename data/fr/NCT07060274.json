@@ -1,0 +1,32 @@
+{
+ "h": "1c815db97077",
+ "date": "2026-10-20",
+ "titre": "Délai de disparition du signe du halo à l'échographie temporale après corticoïdes dans l'ACG",
+ "question": "Combien de temps après le début des corticoïdes le signe du halo de l'artère temporale disparaît-il à l'écho-Doppler dans l'ACG ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vascularite rare de l'adulte de plus de 50 ans, touchant les gros troncs artériels, dont l'aorte thoracique et ses branches. Elle peut conduire à la cécité, d'où la nécessité d'un diagnostic et d'une corticothérapie précoces. Le diagnostic repose sur la biopsie d'artère temporale ou sur l'imagerie vasculaire (écho-Doppler, angioscanner, angio-IRM, TEP-TDM).\n\nL'écho-Doppler des artères temporales est un examen rapide et non invasif qui recherche le signe du halo, un épaississement hypoéchogène de la paroi artérielle. Les recommandations ne précisent pas le délai maximal pour le réaliser après le début des corticoïdes, hormis l'idée que le halo disparaîtrait après environ 5 jours de traitement. La sensibilité semble meilleure lorsque l'examen est précoce, mais le délai de disparition du halo n'est pas connu.\n\nL'investigateur suppose que le halo disparaît plus tôt que les 14 jours souvent rapportés dans la littérature, que la sensibilité diminue dès J3 et que l'examen n'est plus utile au-delà de J7. Cette étude interventionnelle à bras unique, promue par le CH du Mans, répète l'écho-Doppler temporal à J0, J3 et J7 (± J15) chez des patients nouvellement diagnostiqués.",
+ "interet": "Les résultats pourraient préciser la fenêtre pendant laquelle l'écho-Doppler temporal reste contributif après le début des corticoïdes. Ils guideraient ainsi l'organisation du bilan diagnostique de l'ACG.",
+ "profil": "Des adultes de 50 ans et plus, nouvellement diagnostiqués d'ACG avec un signe du halo à l'écho-Doppler, avant tout traitement corticoïde.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "Critères de classification ACR 2022 de l'ACG",
+  "Signe du halo unilatéral ou bilatéral à l'écho-Doppler temporal",
+  "ACG nouvellement diagnostiquée avec indication de corticothérapie",
+  "Pas de corticothérapie antérieure pour l'ACG ni de contre-indication aux corticoïdes",
+  "Consentement écrit et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Rechute d'ACG",
+  "Biopsie d'artère temporale antérieure",
+  "Corticothérapie orale dans le mois précédent ou en cours (hors hydrocortisone ou corticoïdes locaux)",
+  "Autre vascularite en diagnostic différentiel (ANCA, sérologie syphilis ou IGRA positifs)",
+  "Traitement immunosuppresseur ou biothérapie dans le mois précédent"
+ ],
+ "bras": [
+  {
+   "nom": "Évaluation du halo par écho-Doppler",
+   "traitement": "Écho-Doppler des artères temporales à J0, J3 et J7 (± J15) après le début de la corticothérapie"
+  }
+ ],
+ "duree": "Environ 15 jours (examens à J0, J3, J7, ± J15)",
+ "critere": "Nombre de patients avec un halo à J0 qui a disparu à J3 de la corticothérapie"
+}

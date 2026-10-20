@@ -1,0 +1,35 @@
+{
+ "h": "83adfaf7d624",
+ "date": "2026-10-20",
+ "titre": "Momélotinib dans le syndrome VEXAS avec ou sans syndrome myélodysplasique",
+ "question": "Le momélotinib, inhibiteur de JAK, est-il efficace et bien toléré dans le syndrome VEXAS, et quelle dose maximale tolérée retenir ?",
+ "contexte": "Le syndrome VEXAS (vacuoles, enzyme E1, lié à l'X, autoinflammatoire, somatique) est une maladie autoinflammatoire liée à une mutation somatique de UBA1. Il associe des manifestations inflammatoires systémiques à des atteintes hématologiques, dont un syndrome myélodysplasique (SMD) dans une partie des cas. Les patients sont souvent dépendants ou réfractaires aux corticoïdes, avec des échecs fréquents des traitements immunosuppresseurs.\n\nLes inhibiteurs de JAK bloquent la signalisation de nombreuses cytokines inflammatoires et constituent une piste thérapeutique dans le VEXAS. Le momélotinib est un inhibiteur de JAK, dont l'utilisation dans cette indication est ici évaluée de façon prospective.\n\nCet essai de phase II multicentrique, promu par le Groupe Francophone des Myélodysplasies, comporte deux étapes. Une phase de sécurité selon un schéma 3+3 teste trois niveaux de dose (150, 200 et 300 mg/j) pour déterminer la dose maximale tolérée, avec 6 à 18 patients. La phase II à bras unique traite ensuite jusqu'à 39 patients à cette dose. Tous reçoivent des glucocorticoïdes à l'inclusion (au moins 10 mg/j).\n\nLa réponse des symptômes du VEXAS est évaluée aux semaines 4, 12, 24 et 48, et celle du SMD aux semaines 12 et 24. Le traitement est poursuivi jusqu'à progression ou perte de réponse, et arrêté à 24 semaines à la dose optimale en l'absence de réponse.",
+ "interet": "L'étude pourrait fournir la première évaluation prospective du momélotinib dans le VEXAS, maladie rare sans traitement standard validé. Elle définirait aussi la dose à utiliser dans cette indication.",
+ "profil": "Des adultes ayant un syndrome VEXAS avec mutation UBA1, symptomatique, cortico-dépendant ou réfractaire, avec ou sans SMD associé.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ECOG 0-2",
+  "VEXAS avec mutation UBA1 nécessitant un traitement immunosuppresseur et au moins 10 mg/j de glucocorticoïdes",
+  "Symptômes non contrôlés malgré au moins une ligne antérieure (dont corticoïdes), cortico-réfractaire ou cortico-dépendant",
+  "Fenêtre thérapeutique de 28 jours après autre immunosuppresseur ; pas d'érythropoïétine ni de luspatercept dans les 28 jours",
+  "Fonction hépatique (transaminases ≤ 3 N) et rénale (clairance > 30 mL/min) adéquates",
+  "Contraception efficace et test de grossesse négatif pour les personnes concernées"
+ ],
+ "exclusion": [
+  "SMD à haut risque (IWG 2023) ou programmé pour une allogreffe",
+  "Traitement antérieur par inhibiteur de JAK",
+  "Impossibilité de recevoir au moins 100 mg/j de momélotinib",
+  "Autre cancer actif (hors exceptions) ou événement cardiovasculaire récent (< 12 semaines)",
+  "Infection active par le VIH, VHB ou VHC, ou infection active nécessitant un traitement",
+  "Antécédent de leucoencéphalopathie multifocale progressive",
+  "Affection gastro-intestinale pouvant altérer l'absorption",
+  "Hypersensibilité au momélotinib ou à ses excipients"
+ ],
+ "bras": [
+  {
+   "nom": "Momélotinib (bras unique)",
+   "traitement": "Phase de sécurité 3+3 à 150, 200 ou 300 mg/j, puis phase II à la dose maximale tolérée, avec glucocorticoïdes (≥ 10 mg/j à l'inclusion)"
+  }
+ ],
+ "duree": "Traitement jusqu'à progression ou perte de réponse (évaluations jusqu'à 48 semaines)",
+ "critere": "Dose maximale tolérée sur le premier cycle de 4 semaines et efficacité clinique au cours des 24 premières semaines"
+}
