@@ -1,0 +1,37 @@
+{
+ "h": "560fcd62a00f",
+ "date": "2026-10-26",
+ "titre": "Microbiote parodontal dans la sclérodermie systémique : étude pilote",
+ "question": "La composition du microbiote parodontal diffère-t-elle entre des patients atteints de sclérodermie systémique récente et des témoins appariés, notamment sur la diversité alpha (indice de Chao-1) ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare et complexe, dont l'étiologie reste inconnue. Des facteurs environnementaux, dont certains micro-organismes, pourraient la déclencher chez des sujets génétiquement prédisposés. Le microbiote joue un rôle fondamental dans l'induction, l'éducation et le fonctionnement du système immunitaire, et la dysbiose est impliquée dans de nombreuses maladies à médiation immunitaire. Dans la ScS, une dysbiose intestinale avec déplétion de commensaux est décrite.\n\nLa parodontite, maladie inflammatoire des tissus de soutien de la dent, résulte d'une dysbiose du microbiote parodontal et fait partie du spectre clinique de la ScS. Elle induit une inflammation systémique de bas grade et constitue un facteur de risque de plusieurs maladies auto-immunes. Pourtant, une seule étude, limitée aux Lactobacillus, a exploré le microbiote oral dans la ScS. Cette étude pilote strasbourgeoise caractérise la composition taxonomique et les voies métaboliques du microbiote parodontal par séquençage métagénomique d'un prélèvement de plaque sous-gingivale, chez des patients ScS récents et des témoins appariés sur l'âge et le sexe.",
+ "interet": "Cette étude pilote pourrait identifier une signature du microbiote parodontal propre à la ScS, piste physiopathologique et biomarqueur potentiel. Elle fournira aussi les données nécessaires pour dimensionner de futures études.",
+ "profil": "Des adultes avec une sclérodermie systémique diagnostiquée depuis moins de 2 ans, et des témoins consultant en médecine bucco-dentaire.",
+ "inclusion": [
+  "Adultes (plus de 18 ans)",
+  "Plus de 12 dents évaluables",
+  "ScS selon les critères ACR/EULAR, diagnostiquée dans les 2 ans précédant l'inclusion (patients)",
+  "Témoins : consultation dentaire de routine au CHU de Strasbourg",
+  "Affiliation à un régime d'assurance maladie et consentement signé"
+ ],
+ "exclusion": [
+  "Tabagisme ≥ 10 cigarettes par jour",
+  "Autre maladie auto-immune systémique associée (Sjögren avec anti-SSA/SSB, lupus…)",
+  "Antibiotiques ou antifongiques en cours ou dans les 3 mois précédents",
+  "Probiotiques ou prébiotiques dans les 3 mois, antiseptique oral dans la semaine",
+  "Corticoïdes ≥ 10 mg/j ou inhibiteurs de la pompe à protons dans les 3 mois",
+  "Traitement parodontal spécialisé dans l'année précédente",
+  "Risque d'endocardite infectieuse, greffe de cellules souches hématopoïétiques antérieure, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Sclérodermie systémique",
+   "traitement": "Prélèvement de plaque dentaire sous-gingivale pour séquençage métagénomique du microbiote parodontal"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Même prélèvement de plaque sous-gingivale"
+  }
+ ],
+ "duree": "Une seule visite d'inclusion (critère évalué à l'inclusion)",
+ "critere": "Diversité alpha du microbiote parodontal (indice de Chao-1) à l'inclusion"
+}

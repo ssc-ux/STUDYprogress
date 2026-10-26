@@ -1,0 +1,27 @@
+{
+ "h": "1900aa7f5e88",
+ "date": "2026-10-26",
+ "titre": "Performance d'une filière rapide pour le diagnostic de l'artérite à cellules géantes",
+ "question": "Une filière de diagnostic rapide, fondée sur l'échographie des artères temporales, est-elle performante pour diagnostiquer l'ACG chez les patients suspects ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vasculite des patients de plus de 50 ans. Son diagnostic est parfois long et difficile car les signes cliniques sont peu spécifiques (céphalées, claudication de la mâchoire, douleurs du scalp ou des ceintures, douleurs abdominales, amaigrissement), alors qu'il doit être posé rapidement en raison du risque de complications.\n\nLa référence reposait initialement sur la suspicion clinique et la biopsie d'artère temporale. Depuis les années 1990, l'échographie met en évidence un signe du halo typique sur les artères temporales. Une étude multicentrique prospective publiée en 2024 a montré qu'en cas de halo bilatéral chez un patient suspect d'ACG, la biopsie n'était pas nécessaire, ce qui a fait évoluer les pratiques. Pour faciliter un diagnostic précoce, une filière rapide a été mise en place afin de réduire les séquelles, raccourcir les hospitalisations, envisager une prise en charge ambulatoire et limiter le nombre de biopsies. Cette étude observationnelle du Groupe Hospitalier de La Rochelle Ré Aunis évalue la performance de cette filière.",
+ "interet": "L'étude pourrait documenter la faisabilité et l'intérêt d'une filière rapide d'ACG en pratique réelle. Elle pourrait soutenir la diffusion de ce modèle d'organisation des soins.",
+ "profil": "Des patients de plus de 50 ans suspects d'ACG, adressés à la filière rapide.",
+ "inclusion": [
+  "Patient suspect d'ACG",
+  "Âge > 50 ans avec au moins un signe évocateur (signes visuels, céphalées récentes, claudication de la mâchoire, anomalie de l'artère temporale…)",
+  "Autres signes pris en compte : CRP ≥ 10 mg/L, fièvre, anémie, pseudo-polyarthrite rhizomélique",
+  "Imagerie évocatrice (TEP, scanner) possible"
+ ],
+ "exclusion": [
+  "Opposition à l'utilisation des données",
+  "Autres critères d'exclusion : non précisés"
+ ],
+ "bras": [
+  {
+   "nom": "Patients suspects d'ACG",
+   "traitement": "Cohorte unique suivie dans la filière rapide, sans intervention imposée par l'étude (échographie des artères temporales)"
+  }
+ ],
+ "duree": "Jusqu'à 7 jours entre la suspicion et le résultat de l'échographie",
+ "critere": "Performance de la filière rapide pour le diagnostic d'ACG, de la suspicion clinique au résultat de l'échographie (jusqu'au jour 7)"
+}

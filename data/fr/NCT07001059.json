@@ -1,0 +1,27 @@
+{
+ "h": "666679246dfc",
+ "date": "2026-10-26",
+ "titre": "Mesure échographique de la gaine du nerf optique pour le diagnostic de l'ACG",
+ "question": "Le diamètre de la gaine du nerf optique mesuré par échographie orbitaire est-il un marqueur diagnostique fiable de l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vascularite des vaisseaux de grand et moyen calibre, touchant surtout les femmes (sex-ratio 3:1) vers 70 ans. Elle est rare, avec une incidence d'environ 10 cas pour 100 000 habitants en France. L'enjeu majeur devant une suspicion d'ACG est d'établir rapidement le diagnostic.\n\nLes recommandations actuelles proposent l'imagerie et/ou la biopsie d'artère temporale selon les ressources disponibles. Les faux négatifs sont possibles si les corticoïdes sont débutés avant l'examen : après 3 jours pour la TEP-TDM, 5 à 7 jours pour l'écho-Doppler et jusqu'à 14 jours pour la biopsie. Plusieurs études ont montré un épaississement de la gaine du nerf optique à l'échographie chez les patients atteints d'ACG. Cette étude de l'Hôpital NOVO évalue la mesure de cette gaine par échographie orbitaire, examen plus rapide, non invasif, largement disponible et peu coûteux. L'échographie est réalisée à l'inclusion puis à 6 mois si la suspicion d'ACG est confirmée.",
+ "interet": "Si la mesure est fiable, elle offrirait un outil diagnostique rapide et accessible, utilisable avant ou au début des corticoïdes. Elle compléterait l'échographie des artères temporales.",
+ "profil": "Des patients de plus de 50 ans suspects d'ACG.",
+ "inclusion": [
+  "Suspicion d'ACG",
+  "Âge > 50 ans"
+ ],
+ "exclusion": [
+  "Antécédent d'ACG",
+  "Antécédent de PPR sans TEP initiale",
+  "Antécédent de maladie rétinienne, démyélinisante ou d'hypertension intracrânienne",
+  "Corticoïdes > 0,5 mg/kg dans les 2 dernières semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Échographies orbitaires",
+   "traitement": "Échographie orbitaire à l'inclusion (M0) et à 6 mois si la suspicion d'ACG est confirmée"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Valeur diagnostique du diamètre de la gaine du nerf optique (échographie orbitaire) pour l'ACG, à l'inclusion et à 6 mois"
+}

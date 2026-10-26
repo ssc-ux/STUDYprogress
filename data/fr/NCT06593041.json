@@ -1,0 +1,30 @@
+{
+ "h": "ecf7bd06d7c6",
+ "date": "2026-10-26",
+ "titre": "Rôle des plaquettes dans la physiopathologie du lupus et des maladies auto-immunes systémiques",
+ "question": "Quelle est la fréquence des agrégats entre plaquettes et cellules immunitaires circulantes selon l'activité de la maladie, dans le lupus comparé à d'autres maladies auto-immunes ?",
+ "contexte": "Les plaquettes, bien connues pour leur rôle dans l'hémostase, sont anormalement activées au cours du lupus systémique (LES), mais aussi dans d'autres maladies immunomédiées (sclérodermie systémique, vascularites à ANCA, myosites inflammatoires, syndrome de Gougerot-Sjögren, polyarthrite rhumatoïde) lorsque l'activité de la maladie est élevée. Une fois activées, elles expriment à leur surface des molécules d'adhésion comme la P-sélectine, qui leur permettent d'interagir physiquement avec les cellules immunitaires.\n\nLes investigateurs ont montré que les plaquettes activées de patients lupiques se lient aux lymphocytes T régulateurs et bloquent leur fonction régulatrice, ce qui participe à la dérégulation du système immunitaire dans le LES. Dans deux modèles murins de lupus, l'inhibition de ces interactions par un anticorps anti-P-sélectine a amélioré les symptômes. Cette étude du CHU de Strasbourg cherche à explorer d'autres interactions entre plaquettes et cellules immunitaires chez les patients lupiques, en les comparant à celles observées dans les autres maladies auto-immunes citées. Elle pourrait préciser le rôle des plaquettes dans ces maladies, identifier de nouveaux biomarqueurs d'activité et évaluer l'intérêt d'un ciblage plaquettaire.",
+ "interet": "Les résultats pourraient aider à comprendre le rôle des plaquettes dans les maladies auto-immunes systémiques et à identifier de nouveaux biomarqueurs d'activité. Ils pourraient aussi justifier l'exploration de traitements ciblant les plaquettes ou leurs interactions avec les cellules immunitaires.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, de sclérodermie systémique, de vascularite à ANCA, de myosite inflammatoire, de syndrome de Gougerot-Sjögren ou de polyarthrite rhumatoïde.",
+ "inclusion": [
+  "18 à 70 ans",
+  "Affiliation à un régime d'assurance maladie",
+  "Capacité à comprendre les objectifs et les risques de la recherche",
+  "Consentement éclairé signé et daté",
+  "Lupus (critères ACR/EULAR 2019), sclérodermie (ACR/EULAR 2013), vascularite à ANCA (EULAR/ACR 2022), myosite (EULAR/ACR 2017), Gougerot-Sjögren (EULAR/ACR 2016) ou polyarthrite rhumatoïde (ACR/EULAR 2010) confirmés"
+ ],
+ "exclusion": [
+  "Période d'exclusion liée à une autre étude, passée ou en cours",
+  "Impossibilité de donner son consentement (urgence ou situation engageant le pronostic vital)",
+  "Patient sous protection du tribunal",
+  "Patient sous tutelle ou curatelle"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de lupus systémique",
+   "traitement": "Suivi observationnel avec prélèvements sanguins ; aucune intervention thérapeutique décrite"
+  }
+ ],
+ "duree": "3 ans (à chaque visite)",
+ "critere": "Pourcentage d'agrégats circulants entre plaquettes et cellules immunitaires selon l'activité de la maladie, mesuré par cytométrie en flux à chaque visite pendant 3 ans"
+}

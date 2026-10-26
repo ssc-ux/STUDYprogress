@@ -1,0 +1,31 @@
+{
+ "h": "1e1ca5d283c6",
+ "date": "2026-10-26",
+ "titre": "Biomarqueurs multi-omiques dans la sclérodermie systémique et les myopathies inflammatoires",
+ "question": "Une approche multi-omique incluant l'analyse en cellule unique permet-elle d'identifier des signatures moléculaires diagnostiques et pronostiques dans la sclérodermie systémique et les myopathies inflammatoires ?",
+ "contexte": "La sclérodermie systémique et les myopathies inflammatoires, qui peuvent s'associer (scléromyosite), partagent des éléments physiopathologiques. Dans les deux maladies, de nombreux types cellulaires interviennent dans l'atteinte d'organe : lymphocytes T, lymphocytes B et lymphocytes innés non T non B (ILC). La complexité croissante de l'immunologie, avec la multiplication des sous-types cellulaires, rend l'analyse des mécanismes plus difficile.\n\nAucun biomarqueur ne prédit aujourd'hui parfaitement le phénotype et l'évolution des patients. Cette cohorte monocentrique des Hôpitaux universitaires de Strasbourg, prospective et longitudinale, inclut quatre populations : témoins pour la myopathie, myopathies inflammatoires confirmées, témoins avec Raynaud primaire et sclérodermie diffuse cutanée précoce. Elle prévoit des analyses génomiques, transcriptomiques, protéomiques et en cellule unique sur le sang, la peau et le muscle. Le suivi sur 5 ans compare ces signatures aux caractéristiques cliniques, aux traitements et à l'évolution. L'inclusion ne modifie ni le traitement ni le suivi des patients.",
+ "interet": "L'étude pourrait identifier des signatures moléculaires utiles au diagnostic et au pronostic de ces maladies. Elle pourrait aussi révéler des mécanismes communs et des cibles thérapeutiques.",
+ "profil": "Des adultes (≥ 18 ans) répartis en quatre populations : myopathie inflammatoire, témoins sans myopathie inflammatoire, sclérodermie diffuse précoce, témoins avec Raynaud primaire.",
+ "inclusion": [
+  "Âge ≥ 18 ans, sans limite supérieure",
+  "Population 1 : témoins sans myopathie inflammatoire, myopathie suspectée avec bilan et biopsie musculaire nécessaires",
+  "Population 2 : myopathie inflammatoire confirmée",
+  "Population 3 : témoins sans sclérodermie, avec phénomène de Raynaud primaire",
+  "Population 4 : sclérodermie cutanée diffuse précoce"
+ ],
+ "exclusion": [
+  "Populations 1 et 2 : contre-indication à la biopsie musculaire, autre maladie neuromusculaire, traitement immunosuppresseur/immunomodulateur dans les 3 mois, pathologie cardiovasculaire déséquilibrée",
+  "Populations 3 et 4 : contre-indication à la biopsie cutanée, anomalie capillaroscopique ou immunologique évocatrice de sclérodermie (population 3), autre connectivite",
+  "Populations 3 et 4 : immunosuppresseur introduit depuis plus d'un mois (corticoïdes > 15 mg, méthotrexate, mycophénolate)",
+  "Populations 3 et 4 : cancer actif ou récent < 3 ans (hors cancer cutané non mélanome)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique, quatre populations",
+   "traitement": "Prélèvements biologiques (sang, biopsies cutanées, biopsie musculaire) à l'inclusion puis 2 prélèvements supplémentaires pendant le suivi ; analyses multi-omiques"
+  }
+ ],
+ "duree": "5 ans de suivi",
+ "critere": "Évolution des profils moléculaires (génomique, transcriptomique, protéomique, populations cellulaires en cellule unique) de la sclérodermie systémique et des myopathies inflammatoires, à J1, 12 mois et 5 ans"
+}

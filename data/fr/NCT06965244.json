@@ -1,0 +1,38 @@
+{
+ "h": "0587c359d8ee",
+ "date": "2026-10-26",
+ "titre": "Lénalidomide versus méthotrexate dans le lupus cutané difficile à traiter",
+ "question": "Le lénalidomide à faible dose est-il plus efficace que le méthotrexate pour obtenir une réduction d'au moins 50 % du score CLASI-A à 16 semaines dans un lupus cutané résistant aux traitements habituels ?",
+ "contexte": "Le lupus érythémateux cutané (LEC) est une maladie auto-immune inflammatoire, associée ou non à un lupus systémique. Les lésions actives sont douloureuses et peuvent laisser des cicatrices définitives. Les antipaludéens de synthèse sont le traitement de première ligne, en association aux dermocorticoïdes ou au tacrolimus topique, pour une réponse à long terme d'environ 50 %.\n\nEn cas d'échec des antipaludéens et d'une faible dose de corticoïdes, les recommandations proposent le méthotrexate en deuxième ligne (efficacité d'environ 50 % dans les études observationnelles). La thalidomide, recommandée en deuxième ou troisième ligne, a une réponse d'environ 90 % dans une méta-analyse, mais son usage est limité par la tératogénicité, la neuropathie périphérique et les événements thromboemboliques.\n\nLe lénalidomide est un analogue de la thalidomide, recommandé en troisième ligne en France. Chez plus de 60 patients traités, il a montré une efficacité rapide à 5 mg/j, sans somnolence ni neuropathie périphérique ; le risque thromboembolique impose une faible dose d'aspirine quotidienne. Un générique à faible coût est désormais disponible en France. Cet essai de phase 3 de l'AP-HP, randomisé, avec évaluation en aveugle, compare le lénalidomide au méthotrexate, sans soutien industriel.",
+ "interet": "Cet essai pourrait établir la place du lénalidomide, désormais peu coûteux, par rapport au méthotrexate dans le LEC résistant. Il apporterait une première comparaison directe entre deux options de deuxième et troisième ligne.",
+ "profil": "Des adultes avec un lupus cutané actif prouvé histologiquement (avec ou sans lupus systémique), résistant aux traitements de première ligne.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LEC actif confirmé histologiquement, avec ou sans lupus systémique associé",
+  "Score CLASI-A ≥ 8 au dépistage et à la randomisation",
+  "Maladie active malgré antipaludéens ≥ 3 mois (ou arrêt documenté pour intolérance), et/ou corticoïdes ≤ 15 mg/j, et/ou dermocorticoïdes ou tacrolimus topique stables",
+  "Test de grossesse plasmatique mensuel et contraception adaptée",
+  "Affiliation à la sécurité sociale et consentement écrit"
+ ],
+ "exclusion": [
+  "Fonction rénale, hépatique, numération ou sérologies incompatibles avec les traitements de l'étude",
+  "Alcoolisme",
+  "Cancer en cours (tumeur solide ou hémopathie)",
+  "Lupus systémique sévère actif (néphrite, atteinte neuropsychiatrique, sérite, cytopénies auto-immunes sévères) nécessitant de fortes doses de corticoïdes, MMF ou cyclophosphamide",
+  "Échec antérieur du méthotrexate et du lénalidomide dans le LEC",
+  "Immunosuppresseurs classiques, thalidomide, dapsone, rétinoïdes ou anti-JAK dans les 4 semaines ; biothérapie dans les 12 semaines",
+  "Contre-indication à l'aspirine à faible dose, événement thromboembolique artériel ou veineux non provoqué ≤ 5 ans, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Lénalidomide + aspirine (expérimental)",
+   "traitement": "Lénalidomide avec aspirine à faible dose ; posologie non précisée dans le registre"
+  },
+  {
+   "nom": "Méthotrexate + acide folique (comparateur actif)",
+   "traitement": "Méthotrexate avec acide folique à faible dose ; posologie non précisée dans le registre"
+  }
+ ],
+ "duree": "Non précisé (critère principal évalué à 16 semaines)",
+ "critere": "Proportion de patients avec une baisse d'au moins 50 % du score CLASI-A par rapport à l'inclusion à 16 semaines"
+}

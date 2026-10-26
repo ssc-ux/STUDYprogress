@@ -1,0 +1,26 @@
+{
+ "h": "e4bd8dceca0b",
+ "date": "2026-10-26",
+ "titre": "Marqueurs immunitaires et métabolites pour stratifier le risque cardiovasculaire dans le lupus",
+ "question": "Des biomarqueurs immunologiques et des immunométabolites permettent-ils de stratifier le risque d'athérosclérose chez les patients lupiques, mesuré par la progression des plaques carotidiennes à 18 mois ?",
+ "contexte": "L'athérosclérose accélérée est une complication établie des maladies auto-immunes systémiques, en particulier du lupus (LES). Les femmes jeunes lupiques font plus d'infarctus du myocarde que des témoins appariés, et la maladie cardiovasculaire est l'une des premières causes de décès (27 %) chez les patients lupiques. Les facteurs de risque cardiovasculaire classiques n'expliquent pas cet excès de morbidité, ce qui suggère le rôle de facteurs communs au lupus, à l'athérosclérose et aux traitements.\n\nL'équipe bordelaise a fait trois observations. D'abord, des immunométabolites circulants (adénine et N4-acétylcytidine), augmentés dans le lupus, activent de façon constitutive l'inflammasome et entraînent une production excessive d'IL-1β ; or l'inhibition de l'IL-1β réduit les événements cardiovasculaires sans modifier les lipides. Ensuite, OX40L, impliqué dans l'activation des lymphocytes T folliculaires auxiliaires (Tfh) dans le lupus, est associé par son polymorphisme au lupus et à l'athérosclérose. Enfin, les plaquettes activées par les complexes immuns bloquent la fonction des Treg via la voie P-sélectine/PSGL1. L'étude évalue la précision, la valeur prédictive et l'utilité de ces biomarqueurs pour stratifier le risque cardiovasculaire dans le lupus.",
+ "interet": "Si ces biomarqueurs se révèlent prédictifs, ils pourraient permettre d'identifier les patients lupiques à haut risque cardiovasculaire et de cibler la prévention. Ils pourraient aussi désigner de nouvelles voies thérapeutiques communes au lupus et à l'athérosclérose.",
+ "profil": "Des adultes atteints de lupus systémique répondant aux critères EULAR/ACR 2019.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Lupus systémique selon les critères EULAR/ACR 2019",
+  "Consentement éclairé signé au plus tard le jour de l'inclusion et avant tout examen de la recherche"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Personnes visées par les articles L 1121-5 à L 1121-8 du code de la santé publique (personnes privées de liberté, mineurs, majeurs protégés ou incapables de consentir)"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus systémique (groupe unique)",
+   "traitement": "Prélèvement sanguin, échographie vasculaire carotidienne 3D et questionnaires"
+  }
+ ],
+ "duree": "18 mois",
+ "critere": "Proportion de patients avec progression de plaque athéromateuse (absence de plaque carotidienne à l'inclusion puis apparition au suivi), par échographie vasculaire 3D semi-automatisée, à l'inclusion et à 18 mois"
+}

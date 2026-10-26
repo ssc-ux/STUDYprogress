@@ -1,0 +1,38 @@
+{
+ "h": "7fb6e6739bdd",
+ "date": "2026-10-26",
+ "titre": "Injections de cellules souches adipeuses pour les ulcères digitaux réfractaires de la sclérodermie",
+ "question": "Des injections digitales de cellules stromales issues du tissu adipeux cultivées favorisent-elles la cicatrisation des ulcères digitaux ischémiques réfractaires de la sclérodermie systémique, par rapport au placebo ?",
+ "contexte": "Les ulcères digitaux ischémiques sont une complication fréquente de la sclérodermie systémique (ScS) et témoignent de la sévérité de la microangiopathie. Ils entraînent douleur, surinfection, gangrène, autoamputation et altération de l'usage de la main et de la qualité de vie. La prise en charge repose sur des soins locaux optimaux et sur des hospitalisations répétées pour des perfusions de prostacycline. Sous traitement optimal, seuls 60 % des ulcères cicatrisent à 3 mois, 46,2 % récidivent et 11,2 % évoluent vers la chronicité, selon le registre.\n\nAucun médicament n'a démontré d'effet sur la cicatrisation des ulcères réfractaires. Les cellules stromales mésenchymateuses issues du tissu adipeux (AdMSC) ont un potentiel angiogénique et anti-inflammatoire dans d'autres pathologies ischémiques, avec un bon profil de sécurité. L'essai pilote ACellDREAM dans l'ischémie critique de membre et l'étude pilote SCLERADEC (fraction stromale vasculaire, 12 patients ScS) ont montré la faisabilité et la sécurité de cette approche. Cet essai de phase 2 randomisé en quadruple aveugle, promu par le CHU de Toulouse, compare les injections d'AdMSC cultivées au placebo.",
+ "interet": "Si l'efficacité est confirmée, les AdMSC offriraient une première option thérapeutique ciblée pour les ulcères digitaux réfractaires de la ScS, situation sans alternative validée. L'essai apportera aussi des données de sécurité sur cette thérapie cellulaire.",
+ "profil": "Des adultes atteints de ScS avec au moins un ulcère digital ischémique actif, réfractaire après 10 ± 2 semaines de soins standard.",
+ "inclusion": [
+  "18 ans ou plus",
+  "ScS selon les critères ACR/EULAR 2013",
+  "Au moins un ulcère digital ischémique actif et réfractaire aux soins standard EULAR (10 ± 2 semaines)",
+  "Ulcère situé au-delà de l'articulation interphalangienne proximale, sans calcification sous-jacente",
+  "Femme ménopausée depuis au moins 24 mois (si > 50 ans, sans traitement hormonal substitutif)",
+  "Consentement écrit et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Tabagisme actuel ou sevrage depuis moins de 3 mois",
+  "Traitement vasodilatateur ou statine non stable depuis 3 mois",
+  "Immunosuppresseur de fond non arrêté 1 mois avant l'inclusion, ou corticoïdes oraux > 10 mg/j de prednisone",
+  "Antécédent de cancer dans les 5 dernières années (sauf exceptions)",
+  "Sérologie positive pour VIH, HTLV, VHB ou VHC",
+  "Événement cardiovasculaire ou insuffisance cardiaque sévère dans les 6 derniers mois",
+  "Ulcère non ischémique, ostéomyélite ou infection non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "AdMSC",
+   "traitement": "Injections sous-cutanées digitales de cellules stromales adipeuses cultivées"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Injections sous-cutanées de placebo"
+  }
+ ],
+ "duree": "Non précisé (critère principal évalué à 16 semaines)",
+ "critere": "Proportion d'ulcères digitaux réfractaires cicatrisés (complètement ou partiellement) à 16 semaines ; critère composite associé : cicatrisation sans récidive ni complication, à 16 semaines"
+}

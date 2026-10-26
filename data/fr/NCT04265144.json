@@ -1,0 +1,27 @@
+{
+ "h": "c38e62816d3c",
+ "date": "2026-10-26",
+ "titre": "Cohorte de sclérodermie systémique du centre de référence RESO (Bordeaux)",
+ "question": "Comment évoluent les principales caractéristiques cliniques des patients atteints de sclérodermie systémique suivis dans une cohorte adossée à une collection biologique ?",
+ "contexte": "La sclérodermie systémique (ScS) est une connectivite rare caractérisée par une atteinte vasculaire et une fibrose intense. En France, une enquête en Seine-Saint-Denis a estimé sa prévalence à 161 cas par million d'habitants. Son étiologie exacte reste inconnue et fait intervenir des facteurs génétiques et environnementaux.\n\nAucun traitement ne permet à ce jour de contrôler la maladie, en grande partie faute de compréhension de sa physiopathologie. Des cohortes bien documentées, avec prélèvements sanguins, biopsies et lavages bronchoalvéolaires, sont donc un levier essentiel. Le CHU de Bordeaux avait déjà lancé en 2012 l'étude VISS (NCT02562079) sur la vasculopathie et l'inflammation dans la ScS. La présente cohorte, adossée au centre de référence RESO des maladies auto-immunes systémiques rares, poursuit ce travail. Elle inclut des patients répondant aux critères ACR/EULAR 2013 ou à la définition de ScS « très précoce » (Raynaud et anticorps antinucléaires ≥ 1/160 avec spécificité anti-Scl70, anticentromère ou anti-ARN polymérase III).",
+ "interet": "Cette cohorte documente l'histoire naturelle de la ScS sur 5 ans et fournit une biothèque pour la recherche translationnelle. Elle peut aider à identifier des biomarqueurs et à structurer des collaborations nationales et internationales.",
+ "profil": "Des adultes atteints de sclérodermie systémique (ACR/EULAR 2013) ou de sclérodermie systémique très précoce, suivis au CHU de Bordeaux.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013, ou forme « très précoce » (Raynaud et anticorps antinucléaires ≥ 1/160 anti-Scl70, anticentromère ou anti-ARN polymérase III)",
+  "Affiliation ou bénéfice d'un régime de sécurité sociale",
+  "Consentement libre, éclairé et écrit"
+ ],
+ "exclusion": [
+  "Femme enceinte ou allaitante",
+  "Patient sous tutelle, curatelle ou autre régime de protection juridique"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de sclérodermie systémique",
+   "traitement": "Suivi clinique avec prélèvements sanguins, biopsies et prélèvements bronchoalvéolaires"
+  }
+ ],
+ "duree": "60 mois de suivi",
+ "critere": "Évolution des principales caractéristiques cliniques de la sclérodermie entre l'inclusion et 60 mois"
+}

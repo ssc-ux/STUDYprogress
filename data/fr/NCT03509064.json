@@ -1,0 +1,33 @@
+{
+ "h": "fa2a48fe6cf8",
+ "date": "2026-10-26",
+ "titre": "Neuropathie des petites fibres du Sjögren : qualité de vie et impact médico-économique",
+ "question": "Quels sont l'altération de la qualité de vie et le coût de prise en charge de la neuropathie des petites fibres associée au syndrome de Sjögren primitif ?",
+ "contexte": "Le syndrome de Sjögren primitif touche, selon le promoteur, 200 à 500 patients pour 100 000 habitants en France, surtout des femmes de 40 à 60 ans. Il se manifeste principalement par un syndrome sec diffus et des arthralgies. Dans environ 20 % des cas, il s'associe à une neuropathie périphérique, dont la forme la plus fréquente est la neuropathie des petites fibres (NPF) douloureuse. Elle se caractérise par des douleurs neuropathiques (brûlures, engourdissements, picotements, décharges électriques) et des signes dysautonomiques.\n\nL'impact de la NPF sur la qualité de vie et son coût pour le système de santé n'ont pas été bien évalués. Cette étude observationnelle monocentrique du service de médecine interne de l'hôpital Lariboisière (AP-HP) compare des patients Sjögren avec NPF définie à des patients Sjögren sans neuropathie. Elle repose sur des questionnaires validés (SF-36, DN4, EQ-5D, ESSPRI, PROFAD-SSI) et sur le recueil des ressources de soins consommées pendant 6 mois. Elle vise à identifier les déterminants de l'altération de la qualité de vie et des coûts. Elle doit aussi comparer le coût d'une prise en charge conventionnelle (antalgiques, consultation douleur) à celui de traitements immunomodulateurs plus lourds.",
+ "interet": "L'étude chiffrerait le poids de la NPF du Sjögren pour les patients et le système de soins. Elle pourrait aider à argumenter la stratégie thérapeutique, entre prise en charge antalgique conventionnelle et immunomodulateurs.",
+ "profil": "Des adultes atteints de syndrome de Sjögren primitif, avec ou sans neuropathie des petites fibres.",
+ "inclusion": [
+  "Syndrome de Sjögren primitif défini",
+  "Âge > 18 ans",
+  "Pas de biothérapie ni d'immunoglobulines dans les 6 mois précédents",
+  "Groupe 1 : NPF avec signes cliniques (déficit thermo-algique, dysautonomie ou douleur neuropathique DN4 ≥ 4) et anomalie paraclinique (explorations neurophysiologiques ou densité des fibres intra-épidermiques)",
+  "Groupe 2 (témoins) : absence de signe de neuropathie des petites ou grosses fibres"
+ ],
+ "exclusion": [
+  "Autre cause acquise de neuropathie périphérique (diabète, amylose AL, alcoolisme, maladie cœliaque, médicaments/toxiques, VIH, sarcoïdose, vascularite, Guillain-Barré)",
+  "Cause héréditaire de neuropathie (amylose TTR, HSAN, maladie de Fabry)",
+  "Signes cliniques de NPF avec examens diagnostiques normaux (neurophysiologie et biopsie cutanée)"
+ ],
+ "bras": [
+  {
+   "nom": "Sjögren avec neuropathie des petites fibres",
+   "traitement": "Recueil de questionnaires de qualité de vie et des ressources de soins, sans intervention"
+  },
+  {
+   "nom": "Sjögren sans neuropathie périphérique (témoins)",
+   "traitement": "Mêmes questionnaires et recueil des ressources de soins"
+  }
+ ],
+ "duree": "6 mois pour l'évaluation économique",
+ "critere": "Altération de la qualité de vie mesurée par l'échelle SF-36 au mois 3"
+}

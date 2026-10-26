@@ -1,0 +1,27 @@
+{
+ "h": "37685d882390",
+ "date": "2026-10-26",
+ "titre": "Registre clinique et biologique de patients porteurs d'anticorps antiphospholipides",
+ "question": "Quels sont les caractéristiques cliniques et biologiques des patients porteurs d'anticorps antiphospholipides persistants, et quelle est la survenue de thromboses au cours du suivi ?",
+ "contexte": "Cette étude vise à constituer un registre et une collection d'échantillons biologiques de patients porteurs d'anticorps antiphospholipides (aPL), promue par le CHRU de Nancy avec le CHRU de Lille. Les données sont saisies dans l'application web internationale REDCap : caractéristiques démographiques, caractéristiques cliniques et biologiques liées aux aPL, et médicaments.\n\nLa positivité des aPL est définie par des anticardiolipines (aCL) IgG/M/A > 40 GPL/MPL/APL (titre moyen à élevé et/ou supérieur au 99e percentile), des anti-bêta-2-glycoprotéine I (aβ2GPI) IgG/M/A > 40 unités, ou un anticoagulant circulant lupique positif selon les recommandations de l'ISTH et d'autres recommandations en vigueur. Les patients sont suivis tous les 12 ± 3 mois, avec recueil de données cliniques et prélèvement sanguin à l'inclusion puis chaque année. Le registre n'est pas limité aux patients ayant un SAPL avéré, puisque l'inclusion repose sur la positivité persistante des aPL. Le registre n'énonce pas d'hypothèse thérapeutique, mais constitue une base de données et une biothèque qui pourront servir à des recherches ultérieures.",
+ "interet": "Ce registre constituerait une base de données et une collection biologique exploitables pour des analyses ultérieures sur les patients porteurs d'aPL. Il permettrait de suivre la survenue de thromboses dans cette population.",
+ "profil": "Des adultes de 18 à 60 ans avec une positivité persistante des anticorps antiphospholipides.",
+ "inclusion": [
+  "Âge de 18 à 60 ans",
+  "Positivité persistante des aPL (à au moins 12 semaines d'intervalle) dans les 12 mois précédant la sélection",
+  "aCL IgG/M/A > 40 GPL/MPL/APL ou > 99e percentile, et/ou aβ2GPI IgG/M/A > 40 unités, et/ou anticoagulant circulant lupique positif"
+ ],
+ "exclusion": [
+  "Absence de consentement éclairé",
+  "Suivi impossible",
+  "Grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Patients porteurs d'aPL (cohorte)",
+   "traitement": "Suivi observationnel avec recueil de données cliniques et prélèvement sanguin à l'inclusion puis tous les ans"
+  }
+ ],
+ "duree": "Jusqu'à 10 ans, avec une visite tous les 12 ± 3 mois",
+ "critere": "Survenue de thrombose, jusqu'à 10 ans"
+}

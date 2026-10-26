@@ -1,0 +1,28 @@
+{
+ "h": "df1b236fc9dc",
+ "date": "2026-10-26",
+ "titre": "Prédiction des complications de la corticothérapie prolongée dans les maladies inflammatoires",
+ "question": "Quelles caractéristiques cliniques, biologiques et ostéodensitométriques de base prédisent les complications cliniquement pertinentes de la corticothérapie à 1 an ?",
+ "contexte": "Les glucocorticoïdes restent la base du traitement de nombreuses maladies inflammatoires et auto-immunes (pseudopolyarthrite rhizomélique, artérite à cellules géantes, myopathies inflammatoires, vascularites à ANCA, entre autres). Leur utilisation prolongée expose à des complications fréquentes et variées, notamment osseuses, métaboliques et cardiovasculaires.\n\nIl n'existe à ce jour aucun outil permettant d'estimer, à l'échelle individuelle, la probabilité de développer une complication cliniquement pertinente d'une corticothérapie prolongée. Un tel outil serait utile pour adapter les décisions de traitement de première ligne, en pratique courante comme dans de futurs essais. PRODIGIOUS est une cohorte prospective multicentrique promue par le CHU de Brest, dans 12 centres français. Elle inclut des patients débutant une corticothérapie à une dose ≥ 15 mg/j pour une maladie inflammatoire. L'objectif est de proposer un score prédictif à partir de données de routine et d'une ostéodensitométrie (DXA) initiale.",
+ "interet": "Un score prédictif permettrait d'identifier d'emblée les patients à risque et d'adapter la stratégie d'épargne cortisonique ou de prévention. Il pourrait aussi aider à stratifier les patients dans de futurs essais.",
+ "profil": "Des adultes de 18 à 85 ans débutant une corticothérapie prolongée à ≥ 15 mg/j pour une maladie inflammatoire.",
+ "inclusion": [
+  "Âge de 18 à 85 ans",
+  "Espérance de vie > 1 an",
+  "Indication de corticothérapie prolongée ≥ 15 mg/j pour une maladie rhumatismale inflammatoire",
+  "Traitement initial ou rechute",
+  "Durée prévisionnelle de traitement > 3 mois"
+ ],
+ "exclusion": [
+  "Patient incapable de consentir",
+  "Corticothérapie antérieure dans les 3 derniers mois à dose significative (> 5 mg/j)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients sous corticothérapie prolongée",
+   "traitement": "Suivi observationnel ; aucune intervention imposée par l'étude"
+  }
+ ],
+ "duree": "1 an de suivi",
+ "critere": "Survenue d'une complication cliniquement pertinente de la corticothérapie à 1 an"
+}

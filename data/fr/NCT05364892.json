@@ -1,0 +1,31 @@
+{
+ "h": "2063a77c8f64",
+ "date": "2026-10-26",
+ "titre": "Biocollection de patients atteints de vascularite associée aux ANCA",
+ "question": "Une biocollection avec suivi pluriannuel permet-elle d'identifier des facteurs prédictifs de rechute dans les vascularites à ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA, PAM, EGPA) sont des maladies auto-immunes rares et sévères, mortelles en quelques mois sans traitement. Les corticoïdes et les immunosuppresseurs ont fortement réduit cette mortalité, et ce sont devenues des maladies chroniques.\n\nLes patients restent exposés à une morbidité liée aux rechutes, qui surviennent chez au moins 50 % d'entre eux selon le registre, et aux effets secondaires des traitements. Il serait essentiel de distinguer les patients à risque élevé de rechute, qui justifient un traitement immunosuppresseur prolongé, de ceux à faible risque chez qui il pourrait être arrêté. À ce jour, aucun prédicteur ni biomarqueur ne permet d'évaluer ce risque avec précision. Les cohortes disponibles sont peu nombreuses et les mécanismes physiopathologiques restent à élucider. Cette étude du CHU de Brest constitue une patientothèque avec recueil standardisé et suivi sur plusieurs années, comprenant sang, selles, urines et questionnaires. L'objectif principal est d'identifier des prédicteurs de rechute, et les objectifs secondaires des facteurs prédictifs de mortalité et de complications infectieuses, cardiovasculaires ou néoplasiques.",
+ "interet": "Des biomarqueurs prédictifs de rechute permettraient d'ajuster la durée des immunosuppresseurs au risque individuel. Cela limiterait à la fois les rechutes et les effets indésirables des traitements au long cours.",
+ "profil": "Des adultes avec une vascularite associée aux ANCA suivis au centre de référence des maladies auto-immunes rares du CHU de Brest.",
+ "inclusion": [
+  "Adulte, sans limite d'âge supérieure",
+  "Suivi au centre de référence des maladies auto-immunes rares du CHRU de Brest",
+  "Diagnostic de vascularite à ANCA posé par le médecin selon les définitions de Chapel Hill",
+  "Affiliation à la sécurité sociale",
+  "Consentement écrit signé"
+ ],
+ "exclusion": [
+  "Mineur",
+  "Patient incapable de consentir ou refusant de participer",
+  "Personne sous protection juridique (tutelle, curatelle)",
+  "Femme enceinte ou allaitante",
+  "Hémoglobine < 7 g/dL"
+ ],
+ "bras": [
+  {
+   "nom": "Patientothèque vascularites à ANCA",
+   "traitement": "Groupe unique : prélèvements de sang (80 mL), de selles et d'urines (20 à 40 mL) et questionnaires"
+  }
+ ],
+ "duree": "Suivi pluriannuel ; critère principal à 5 ans après le diagnostic",
+ "critere": "Survie sans rechute de la maladie, 5 ans après le diagnostic"
+}

@@ -1,0 +1,38 @@
+{
+ "h": "20bece6f14df",
+ "date": "2026-10-26",
+ "titre": "Baricitinib dans la dermatomyosite naïve ou en rechute (essai BIRD)",
+ "question": "Le baricitinib, ajouté au traitement usuel avec décroissance rapide de la corticothérapie, permet-il d'obtenir à 24 semaines une amélioration modérée sans prednisone dans la dermatomyosite ?",
+ "contexte": "La dermatomyosite (DM) est une maladie rare et invalidante, avec un retentissement important sur la qualité de vie et des complications parfois menaçantes. Le traitement repose sur de fortes doses de corticoïdes, qui exposent à des effets indésirables (mortalité cardiovasculaire, atteintes musculaires et cutanées induites). La décroissance des corticoïdes s'accompagne de rechutes.\n\nLes recommandations proposent des traitements de fond comme le méthotrexate, sans données probantes solides, avec une réponse incomplète et un délai d'action. La voie de l'interféron de type I est impliquée dans la physiopathologie de la DM, et les kinases JAK1 et JAK2 transmettent son signal. L'inhibition de JAK2 favoriserait en outre la réparation musculaire. Une série de 4 patients en rechute a montré une amélioration rapide et importante sous inhibiteur de JAK1/2. BIRD est un essai de phase 3 multicentrique, randomisé 1:1, en double aveugle contre placebo, en add-on d'un traitement usuel associant corticoïdes à décroissance rapide et azathioprine ou méthotrexate. Il est promu par l'AP-HP.",
+ "interet": "Un résultat positif ferait du baricitinib une option à effet d'épargne cortisonique dans la DM. Il apporterait aussi une première preuve contrôlée pour les inhibiteurs de JAK dans cette maladie.",
+ "profil": "Des adultes de 18 à 64 ans atteints de dermatomyosite active, naïve de traitement ou en rechute.",
+ "inclusion": [
+  "Âge de 18 à 64 ans",
+  "Dermatomyosite selon les critères ENMC (239e), naïve ou non",
+  "Maladie active : MMT-8 < 145/150 ou CDASI > 20, avec au moins deux mesures anormales parmi les EVA globales, le HAQ-DI ou les enzymes musculaires",
+  "En cas de rechute : prednisone stable < 30 mg/j depuis au moins 4 semaines",
+  "En cas de rechute : immunosuppresseur à dose stable depuis au moins 3 mois",
+  "Affiliation à la sécurité sociale et consentement écrit"
+ ],
+ "exclusion": [
+  "Complication menaçante (troubles sévères de la déglutition, pneumopathie interstitielle sévère, myocardite symptomatique, perte de la marche)",
+  "Antécédent de thrombose veineuse profonde ou d'embolie pulmonaire",
+  "Antécédent d'infarctus du myocarde ou d'AVC ischémique",
+  "Tabagisme actuel ou ancien prolongé",
+  "Cancer actif ou antécédent de néoplasie",
+  "Infection sévère active, hépatite active ou tuberculose latente",
+  "Insuffisance rénale (clairance < 60 mL/min) ou cytopénie (PNN < 1 G/L, Hb < 8 g/dL)"
+ ],
+ "bras": [
+  {
+   "nom": "Baricitinib",
+   "traitement": "Baricitinib avec décroissance programmée de la prednisone et méthotrexate ou azathioprine, pendant 24 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo avec décroissance programmée de la prednisone et méthotrexate ou azathioprine, pendant 24 semaines"
+  }
+ ],
+ "duree": "24 semaines de traitement",
+ "critere": "Amélioration modérée à 24 semaines sans prednisone"
+}

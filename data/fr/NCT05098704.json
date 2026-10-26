@@ -1,0 +1,36 @@
+{
+ "h": "d3c43121a0d2",
+ "date": "2026-10-26",
+ "titre": "Clopidogrel pour prévenir la sclérodermie chez les patients avec Raynaud et auto-anticorps spécifiques",
+ "question": "Deux ans de clopidogrel réduisent-ils la fréquence de survenue d'une sclérodermie systémique à 5 ans chez des patients avec phénomène de Raynaud et auto-anticorps spécifiques, par rapport au placebo ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune sévère associant dysimmunité, vasculopathie et fibrose, sans traitement curatif. L'association d'un phénomène de Raynaud et d'anticorps antinucléaires spécifiques de la ScS (anti-Scl70, anticentromère, anti-ARN polymérase III) caractérise la phase de « pré-sclérodermie ». Selon le registre, environ 47 % de ces patients développent une maladie constituée en cinq ans. Aucune stratégie préventive n'est aujourd'hui validée à ce stade.\n\nLes plaquettes sont activées dans la ScS, avec une corrélation entre le niveau d'activation et l'activité de la maladie. Les données précliniques du laboratoire promoteur (CNRS UMR-5164) impliquent les plaquettes dans la production de TSLP par les cellules endothéliales, cytokine à effet pro-fibrosant. Dans un modèle murin de ScS, le clopidogrel a montré un effet préventif sur la fibrose. Cet essai de phase II/III, randomisé en double aveugle, évalue le clopidogrel 75 mg/j pendant 2 ans contre placebo, avec un suivi total de 60 mois. Il est promu par le CHU de Bordeaux avec un soutien du ministère de la Santé.",
+ "interet": "Si le clopidogrel réduit la progression vers la sclérodermie constituée, il s'agirait de la première stratégie préventive dans cette population à risque. Cela justifierait de dépister et de suivre plus précocement les patients avec Raynaud et auto-anticorps spécifiques.",
+ "profil": "Des adultes de 18 à 85 ans avec un phénomène de Raynaud et des auto-anticorps spécifiques de la sclérodermie, sans ScS constituée.",
+ "inclusion": [
+  "18 à 85 ans",
+  "Anticorps antinucléaires ≥ 1/160 de spécificité anti-Scl70, anticentromère, anti-ARN polymérase III ou autre auto-anticorps lié à la ScS",
+  "Phénomène de Raynaud rapporté par le patient et confirmé par le médecin",
+  "Affiliation à un régime d'assurance maladie",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "ScS déjà diagnostiquée selon les critères ACR/EULAR 2013",
+  "Fibrose cutanée au dépistage",
+  "Traitement antiplaquettaire, anticoagulant ou immunosuppresseur en cours",
+  "Contre-indication au clopidogrel",
+  "Grossesse ou allaitement",
+  "Femme en âge de procréer refusant une contraception efficace pendant les 24 mois de traitement"
+ ],
+ "bras": [
+  {
+   "nom": "Clopidogrel",
+   "traitement": "Clopidogrel 75 mg/j per os pendant 2 ans"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, même durée, en double aveugle"
+  }
+ ],
+ "duree": "60 mois (2 ans de traitement puis 36 mois de suivi)",
+ "critere": "Fréquence de survenue d'une ScS selon les critères ACR/EULAR 2013 à 5 ans dans chaque groupe"
+}

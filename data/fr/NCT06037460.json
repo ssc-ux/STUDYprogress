@@ -1,0 +1,39 @@
+{
+ "h": "29a8346ae4ad",
+ "date": "2026-10-26",
+ "titre": "Arrêt immédiat ou progressif du tocilizumab dans l'artérite à cellules géantes en rémission",
+ "question": "Une interruption progressive du tocilizumab est-elle préférable à un arrêt immédiat pour éviter les rechutes de l'ACG à 26 semaines ?",
+ "contexte": "Dans l'artérite à cellules géantes (ACG), les corticoïdes restent la base du traitement, mais près de la moitié des patients rechutent (47 % selon le registre), ce qui prolonge la corticothérapie et ses complications. Le tocilizumab (TCZ), anti-récepteur de l'IL-6, a montré son efficacité dans deux essais de phase 2 et un essai de phase 3 et a une indication chez les patients nécessitant une réduction rapide des corticoïdes ou rechutant sous prednisone.\n\nLe TCZ pose plusieurs problèmes : son coût (environ 900 euros par mois), la difficulté du suivi car il bloque la production de CRP, VS et fibrinogène, ce qui impose un examen clinique attentif et des TEP coûteux, et la détection difficile des infections. En pratique, le traitement est souvent prolongé au-delà d'un an, alors que la maladie est fréquemment en rémission sans corticoïdes, par peur des rechutes et faute de schéma d'arrêt. Le risque de rechute après arrêt est décrit dans plusieurs études de suivi à long terme. Cet essai de phase 3 du CHU de Dijon compare, chez des patients en rémission sous TCZ, un arrêt progressif à un arrêt immédiat.",
+ "interet": "L'étude pourrait établir un schéma d'arrêt du TCZ qui limite les rechutes. Elle réduirait les traitements prolongés inutiles et leurs coûts chez les patients en rémission.",
+ "profil": "Des adultes de plus de 50 ans atteints d'ACG en rémission depuis au moins 12 semaines sous tocilizumab depuis 12 à 36 mois, sans corticoïdes.",
+ "inclusion": [
+  "ACG diagnostiquée selon les critères détaillés (âge ≥ 50 ans, VS/CRP élevées, signes cliniques, biopsie ou imagerie)",
+  "ACG en rémission depuis ≥ 12 semaines (absence de symptômes et CRP ≤ 10 mg/L)",
+  "Tocilizumab ou biosimilaire débuté 12 à 36 mois avant la randomisation",
+  "TCZ SC 162 mg/semaine depuis ≥ 12 semaines consécutives",
+  "Corticoïdes arrêtés depuis ≥ 12 semaines",
+  "Bilan biologique de moins de 6 semaines montrant une bonne tolérance (ASAT/ALAT, hémoglobine, plaquettes, polynucléaires, lymphocytes)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Absence d'affiliation à l'assurance maladie ou mesure de protection juridique",
+  "Patient incapable de consentir ou ne parlant pas français",
+  "Femme non ménopausée",
+  "Antécédent de greffe d'organe ou de moelle (hors cornée)",
+  "Immunodéficience primaire ou secondaire",
+  "Autres immunosuppresseurs, anti-CD20 ou cyclophosphamide récents",
+  "Hépatite B ou C, VIH ou infection sévère en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Arrêt progressif du TCZ (expérimental)",
+   "traitement": "Diminution progressive du tocilizumab, avec questionnaires, prises de sang et TEP-FDG"
+  },
+  {
+   "nom": "Arrêt immédiat du TCZ (comparateur)",
+   "traitement": "Arrêt immédiat du tocilizumab, avec questionnaires, prises de sang et TEP-FDG"
+  }
+ ],
+ "duree": "26 semaines de suivi",
+ "critere": "Survie sans rechute dans les deux groupes à 26 semaines de suivi"
+}

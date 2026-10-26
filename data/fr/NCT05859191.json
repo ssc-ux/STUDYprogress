@@ -1,0 +1,29 @@
+{
+ "h": "da2cdefd45ab",
+ "date": "2026-10-26",
+ "titre": "Expression du récepteur FcRn sur les cellules iNKT dans le lupus systémique",
+ "question": "Comment le récepteur Fc néonatal (FcRn) et les récepteurs FcγRII et FcγRIII s'expriment-ils sur les cellules iNKT et les monocytes de patients lupiques selon l'activité de la maladie ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune médiée par les IgG et les complexes immuns, caractérisée par une grande diversité d'auto-anticorps et une dérégulation de l'ensemble du système immunitaire. Les cellules NKT exprimant un récepteur T invariant (iNKT) en font partie. Chez les patients comme dans les modèles murins, leur nombre diminue avec l'activité de la maladie et elles infiltrent les tissus en lien avec les manifestations cliniques, mais leur rôle exact, régulateur ou pro-inflammatoire, reste à clarifier.\n\nLe rôle du récepteur Fc néonatal (FcRn) dans les maladies auto-immunes reste également à préciser. Il intervient dans la gestion des complexes immuns et le recyclage des auto-anticorps, ce qui a conduit au développement d'anticorps thérapeutiques ciblant le FcRn dans des maladies comme le purpura thrombopénique immunologique et la myasthénie. L'implication possible du FcRn dans le développement des cellules iNKT, cellules potentiellement régulatrices dans le lupus, justifie leur étude conjointe. Cette étude du CHU de Tours compare l'expression du FcRn et des FcγRII et FcγRIII sur les iNKT et sur les monocytes chez des patients lupiques actifs ou nouvellement diagnostiqués versus inactifs, avec des témoins sains. Les résultats seront intégrés à des études mécanistiques chez la souris.",
+ "interet": "L'étude pourrait éclairer le rôle du FcRn et des cellules iNKT dans la physiopathologie du lupus. Elle pourrait ainsi étayer l'intérêt de cibler le FcRn dans cette maladie.",
+ "profil": "Des adultes atteints de lupus systémique, actif ou inactif, comparés à des témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus systémique défini, éventuellement associé à un syndrome des antiphospholipides ou un syndrome de Gougerot-Sjögren secondaire",
+  "Lupus nouvellement diagnostiqué ou connu, non traité ou en poussée",
+  "Lupus jugé stable par le médecin traitant",
+  "Prélèvement sanguin nécessaire pour le suivi"
+ ],
+ "exclusion": [
+  "Maladie auto-immune principale autre que le lupus",
+  "Patient sous protection juridique, tutelle ou curatelle",
+  "Opposition au traitement des données"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Trois tubes de sang supplémentaires à chaque consultation ou hospitalisation lors des prélèvements de suivi"
+  }
+ ],
+ "duree": "Environ 3 ans en moyenne (jusqu'à la fin de l'étude)",
+ "critere": "Expression du FcRn, du FcγRII et du FcγRIII sur les lymphocytes iNKT et les monocytes circulants, sur la durée de l'étude (environ 3 ans)"
+}

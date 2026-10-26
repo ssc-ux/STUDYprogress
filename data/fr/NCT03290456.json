@@ -1,0 +1,37 @@
+{
+ "h": "3b7862d29711",
+ "date": "2026-10-26",
+ "titre": "Prednisone à 5 mg/j prolongée 12 mois en entretien des vascularites à ANCA (GPA, PAM)",
+ "question": "Prolonger de 12 mois la prednisone à 5 mg/j, en plus du rituximab d'entretien, réduit-il le risque de rechute des GPA et PAM en rémission ?",
+ "contexte": "Le traitement immunosuppresseur a transformé le pronostic de la granulomatose avec polyangéite (GPA) et de la polyangéite microscopique (PAM), mais la plupart des patients présentent des rechutes responsables de séquelles et d'une morbidité à long terme. Le rituximab est devenu le traitement de référence de l'entretien, sans éliminer les rechutes.\n\nLa durée optimale de la corticothérapie reste débattue : les essais nord-américains privilégient un arrêt précoce (6 à 12 mois) par crainte des effets indésirables, alors que les essais européens proposent un arrêt tardif (> 18 mois). Une méta-analyse indirecte associe une corticothérapie à faible dose au-delà de 12 mois à environ 20 % de rechutes en moins. Le registre rapporte des taux de rechute de 37 % et 34 % en cas d'arrêt précoce, contre 14 % à 24 mois dans MAINRITSAN avec un arrêt tardif laissé à l'appréciation du médecin. Cet essai des Hospices Civils de Lyon est le premier à évaluer de façon prospective, en double aveugle contre placebo, la durée de la corticothérapie comme adjuvant du maintien de la rémission.",
+ "interet": "Les résultats permettraient de trancher entre arrêt précoce et poursuite prolongée de la prednisone en entretien. Ils pourraient guider la durée de corticothérapie recommandée chez les patients sous rituximab.",
+ "profil": "Des adultes en rémission (BVAS = 0) d'une GPA ou d'une PAM, sous rituximab d'entretien et prednisone 5 à 10 mg/j.",
+ "inclusion": [
+  "GPA ou PAM, quel que soit le statut ANCA",
+  "Âge ≥ 18 ans",
+  "Maladie récente ou en rechute, inactive (BVAS = 0)",
+  "Rituximab 500 mg d'entretien à 6 et 12 mois après l'induction",
+  "Prednisone 5 à 10 mg/j au dépistage, 5 mg/j à la randomisation"
+ ],
+ "exclusion": [
+  "Granulomatose éosinophilique avec polyangéite ou autre vascularite",
+  "Maladie active (BVAS > 0)",
+  "Infection aiguë ou chronique active (VIH, VHB, VHC)",
+  "Cancer actif ou < 5 ans (hors exceptions précisées)",
+  "Grossesse ou allaitement",
+  "Leucocytes ≤ 4 000/mm3 ou plaquettes ≤ 100 000/mm3",
+  "Contre-indication au rituximab"
+ ],
+ "bras": [
+  {
+   "nom": "Prednisone prolongée",
+   "traitement": "Prednisone 5 mg/j du jour 1 au mois 12"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo 5 mg/j du jour 1 au mois 12"
+  }
+ ],
+ "duree": "Jusqu'au mois 30 depuis le dépistage",
+ "critere": "Survie sans rechute (rechute = BVAS > 0), du dépistage au mois 30"
+}

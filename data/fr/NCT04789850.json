@@ -1,0 +1,38 @@
+{
+ "h": "ac9ac0dae10e",
+ "date": "2026-10-26",
+ "titre": "Itacitinib versus placebo dans la sclérodermie systémique diffuse",
+ "question": "L'itacitinib, inhibiteur de JAK1, est-il sûr et efficace pour réduire la fibrose cutanée (mRSS) à 360 jours dans la sclérodermie systémique diffuse ?",
+ "contexte": "La sclérodermie systémique (ScS) est une connectivite rare associant fibrose, inflammation et vasculopathie. La forme diffuse s'accompagne souvent d'atteintes viscérales, potentiellement mortelles en cas d'atteinte pulmonaire ou cardiovasculaire, et son tableau évoque une réaction du greffon contre l'hôte (GVH). La ScS reste responsable d'un handicap important et d'une mauvaise qualité de vie.\n\nDes données soutiennent l'implication de la voie JAK-STAT dans l'activation des fibroblastes. Un polymorphisme de STAT4 est associé à la forme diffuse, et l'inhibition de STAT3 comme celle de JAK1 préviendraient la fibrose cutanée et pulmonaire dans des modèles expérimentaux. L'itacitinib inhibe spécifiquement JAK1 et diminue la phosphorylation de STAT3. Il a montré une efficacité dans la myélofibrose, la polyarthrite rhumatoïde et le psoriasis en plaques, et son efficacité a été rapportée dans la GVH aiguë. Les investigateurs font donc l'hypothèse qu'il est efficace dans la ScS. Cet essai de phase II de l'AP-HP, randomisé, en quadruple aveugle et multicentrique (46 centres), compare l'itacitinib 200 mg/j au placebo pendant 360 jours.",
+ "interet": "En cas de résultat positif, l'itacitinib serait une option orale ciblant la fibrose dans la ScS diffuse, où les traitements disponibles sont limités. Les résultats de tolérance seront aussi informatifs sur le profil de sécurité des anti-JAK dans cette population.",
+ "profil": "Des adultes atteints de sclérodermie systémique diffuse récente (< 36 mois) ou active, avec un score de Rodnan modifié entre 10 et 35.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie systémique diffuse (ACR/EULAR 2013, dichotomie de Leroy et Medsger)",
+  "Durée de maladie < 36 mois ou maladie active (score d'activité EUSTAR)",
+  "mRSS ≥ 10 et ≤ 35 au dépistage",
+  "Mycophénolate ou méthotrexate éventuel à dose stable depuis au moins 2 mois",
+  "Test de grossesse négatif et contraception fiable pendant 12 mois"
+ ],
+ "exclusion": [
+  "Traitement antérieur par itacitinib ou autre inhibiteur de JAK, ou contre-indication aux anti-JAK",
+  "Infection aiguë ou chronique active (VHB, VHC, VIH)",
+  "Leucocytes ≤ 4 000/mm³, plaquettes ≤ 100 000/mm³, ALAT ou ASAT > 3 N, triglycérides > 5 g/L",
+  "Cyclophosphamide ou rituximab, ou biothérapie (anti-TNF, abatacept, tocilizumab) dans les 3 derniers mois",
+  "Lupus, ou syndrome de Sjögren avec manifestations systémiques justifiant un immunosuppresseur",
+  "Maladie cardiovasculaire athéromateuse ou syndrome des anticorps antiphospholipides",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Itacitinib",
+   "traitement": "Itacitinib 200 mg par voie orale par jour pendant 360 jours"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral quotidien pendant 360 jours"
+  }
+ ],
+ "duree": "360 jours de traitement",
+ "critere": "Variation du score de Rodnan modifié (mRSS) à 360 jours"
+}

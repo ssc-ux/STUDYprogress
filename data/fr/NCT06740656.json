@@ -1,0 +1,24 @@
+{
+ "h": "2b850efb4c20",
+ "date": "2026-10-26",
+ "titre": "Complications neuromusculaires des inhibiteurs de MEK : série française et revue systématique",
+ "question": "Quelles sont les caractéristiques des complications neuromusculaires (neuropathie, myasthénie, myosite) associées aux inhibiteurs de MEK ?",
+ "contexte": "Les inhibiteurs de MEK (tramétinib, cobimétinib, sélumétinib, binimétinib) ciblent la voie des MAPK et sont utilisés depuis 2016 dans le mélanome métastatique. Des complications neuromusculaires de type neuropathie, myasthénie ou myosite ont été rapportées chez des patients traités.\n\nAvec l'usage croissant de ces thérapies, neurologues, oncologues et autres cliniciens seront de plus en plus confrontés à ces atteintes. Elles ne sont à ce jour documentées que par quelques cas isolés. Cette étude du CHRU de Nancy associe une série de cas français et une revue systématique de la littérature. L'objectif est de caractériser ces complications, que les inhibiteurs de MEK soient utilisés seuls ou en association. Le registre prévoit environ 5 patients.",
+ "interet": "Une meilleure description clinique de ces atteintes aiderait à les reconnaître et à les distinguer d'autres causes. Elle pourrait orienter la surveillance des patients sous inhibiteurs de MEK.",
+ "profil": "Des adultes ayant présenté une complication neuromusculaire sous inhibiteur de MEK, seul ou en association.",
+ "inclusion": [
+  "Complication neuromusculaire sous inhibiteur de MEK, seul ou en association",
+  "Âge > 18 ans"
+ ],
+ "exclusion": [
+  "Refus de recueil des données"
+ ],
+ "bras": [
+  {
+   "nom": "Série de cas",
+   "traitement": "Aucune intervention ; recueil des données de patients ayant présenté une complication neuromusculaire sous inhibiteur de MEK"
+  }
+ ],
+ "duree": "Recueil de données sur une durée allant jusqu'à 8 ans",
+ "critere": "Type de complications neuromusculaires observées, sur une période allant jusqu'à 8 ans"
+}

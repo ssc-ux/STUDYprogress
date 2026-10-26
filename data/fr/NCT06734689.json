@@ -1,0 +1,38 @@
+{
+ "h": "3c7e4cc8f5b7",
+ "date": "2026-10-26",
+ "titre": "Déterminants génétiques des myocardites induites par les inhibiteurs de points de contrôle",
+ "question": "Des variants génétiques, notamment dans les gènes HLA, prédisposent-ils à la myocardite induite par les inhibiteurs de points de contrôle immunitaires (ICI) ?",
+ "contexte": "Les inhibiteurs de points de contrôle immunitaires (anti-CTLA4, anti-PD1, anti-PDL1, anti-LAG3) sont actifs dans de nombreux cancers, mais exposent à des événements indésirables immuno-médiés. La myocardite est rare (0,25 à 1 % des patients traités selon le registre) mais c'est le plus grave d'entre eux, avec une létalité pouvant atteindre 50 %. Elle survient précocement, après 1 à 3 doses, et s'accompagne presque toujours d'une myosite touchant d'autres muscles, parfois proche d'un tableau de myasthénie, y compris les muscles respiratoires.\n\nLe mécanisme invoqué est l'activation de lymphocytes T cytotoxiques reconnaissant un antigène musculaire. Le système HLA, très polymorphe, intervient dans la présentation des antigènes et est associé à de nombreuses maladies auto-immunes. Des allèles HLA de classe I sont déjà utilisés en pratique pour prévenir certaines hypersensibilités médicamenteuses, comme HLA-B*57:01 avec l'abacavir. L'hypothèse de l'étude est que des polymorphismes fréquents ou rares, dans le HLA ou ailleurs dans le génome, prédisposent aux myotoxicités des ICI. Cette étude cas-témoins de l'AP-HP (Pitié-Salpêtrière) inclut ici les témoins tolérants aux ICI ; les cas et les témoins avec suspicion infirmée sont inclus dans un autre protocole (NCT05454527).",
+ "interet": "L'identification de variants de risque pourrait permettre un dépistage génétique avant la prescription d'un ICI, sur le modèle du typage HLA pour l'abacavir. Elle pourrait aussi mieux cibler la surveillance cardiaque des patients les plus à risque.",
+ "profil": "Des adultes traités par ICI pour un cancer depuis au moins 3 mois, sans signe de toxicité cardio-musculaire (témoins), comparés à des patients avec myocardite.",
+ "inclusion": [
+  "Cancer traité par ICI depuis au moins 3 mois, au moins 2 doses reçues",
+  "Aucun nouveau symptôme cardio-musculaire, anomalie ECG, trouble de la cinétique ou élévation de la troponine T par rapport à l'état pré-ICI",
+  "Consentement éclairé signé",
+  "Affiliation à un régime de sécurité sociale (hors AME)"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Femme enceinte ou allaitante",
+  "Personne sous mesure de protection juridique",
+  "Sous-étude IRM : contre-indication à l'IRM (claustrophobie, pacemaker, matériel ferromagnétique)",
+  "Sous-étude IRM : intolérance au gadolinium ou insuffisance rénale sévère (DFG < 30 mL/min/1,73 m²)"
+ ],
+ "bras": [
+  {
+   "nom": "Témoins tolérants aux ICI (300 patients)",
+   "traitement": "Patients sous ICI depuis au moins 3 mois sans signe de toxicité cardio-musculaire ; prélèvement pour analyse génétique"
+  },
+  {
+   "nom": "Témoins avec suspicion de myocardite infirmée (100 patients)",
+   "traitement": "Patients traités par ICI hospitalisés pour suspicion de myocardite, ensuite écartée"
+  },
+  {
+   "nom": "Cas de myocardite à ICI (100 patients)",
+   "traitement": "Patients traités par ICI avec myocardite certaine selon les critères diagnostiques actualisés"
+  }
+ ],
+ "duree": "Une inclusion à l'état basal avant ICI et un point de suivi entre 3 et 6 mois après ICI",
+ "critere": "Identification de variants fréquents et rares, dans les régions HLA et ailleurs dans le génome, associés à la myocardite induite par les ICI (état basal et un suivi à 3-6 mois)"
+}

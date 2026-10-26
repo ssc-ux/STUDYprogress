@@ -1,0 +1,29 @@
+{
+ "h": "f1e7a3ef5d03",
+ "date": "2026-10-26",
+ "titre": "Prévalence du syndrome des antiphospholipides après un AVC ischémique chez les 65 ans et plus",
+ "question": "Quelle est la prévalence des anticorps antiphospholipides chez les patients de 65 ans et plus hospitalisés pour un AVC ischémique ou un AIT ?",
+ "contexte": "L'AVC reste une cause majeure de morbi-mortalité malgré les progrès récents. Chez les moins de 65 ans, les causes d'AVC ischémique sont variées et la prise en charge bien codifiée ; le syndrome des antiphospholipides (SAPL) représente 10 à 20 % des causes dans cette population. Chez les sujets âgés, le SAPL n'est pas recherché de façon systématique, car les causes cardio-emboliques, athéroscléreuses et de maladie des petits vaisseaux prédominent. Une découverte tardive n'est pourtant pas rare et s'associe plus souvent à une thrombose artérielle.\n\nLa prise en charge du SAPL pose plusieurs difficultés : risque de récidive thrombotique et association possible aux facteurs de risque cardiovasculaire classiques. Le traitement antithrombotique repose sur une anticoagulation à vie, en excluant les anticoagulants oraux directs en raison du risque de récidive. La classification du SAPL pourrait évoluer avec l'intégration d'anticorps anti-phosphatidylsérine et anti-phosphatidyléthanolamine, fortement associés à la thrombose, et présents dans 10 % des SAPL négatifs pour les autres anticorps. Cette étude monocentrique du CHU de Reims inclut les patients en phase aiguë, avant tout traitement anticoagulant. Un bilan immunologique unique est réalisé (3,5 mL de sang supplémentaires pour les anticorps spécifiques de l'étude), puis le diagnostic de SAPL est confirmé ou écarté par un neurologue et un interniste.",
+ "interet": "L'étude pourrait montrer qu'un SAPL passe inaperçu chez des sujets âgés victimes d'AVC ischémique, et justifier une recherche plus systématique. Un diagnostic positif changerait le traitement antithrombotique, avec un suivi en médecine interne.",
+ "profil": "Des adultes de 65 ans et plus hospitalisés pour un AVC ischémique ou un accident ischémique transitoire.",
+ "inclusion": [
+  "Âge ≥ 65 ans lors de l'inclusion",
+  "Hospitalisation pour un AIT ou un AVC ischémique en neurologie ou en médecine interne",
+  "Affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Âge < 65 ans",
+  "Sous tutelle, curatelle ou protection juridique",
+  "Personne incarcérée",
+  "Soins psychiatriques",
+  "Admission dans un établissement de santé ou social"
+ ],
+ "bras": [
+  {
+   "nom": "Patients (groupe unique)",
+   "traitement": "Un bilan immunologique unique (anticoagulant circulant, anticardiolipine, anti-bêta-2-GPI, plus anti-phosphatidylsérine et anti-phosphatidyléthanolamine) ; suivi à 3 mois en cas de positivité et consultation neurologique à 6 mois"
+  }
+ ],
+ "duree": "Environ 6 mois (consultation neurologique de suivi habituelle)",
+ "critere": "Prévalence des anticorps antiphospholipides chez les patients d'au moins 65 ans hospitalisés pour un AIT ou un AVC ischémique, à l'inclusion"
+}

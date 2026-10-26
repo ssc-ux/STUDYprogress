@@ -1,0 +1,40 @@
+{
+ "h": "9135070c67b6",
+ "date": "2026-10-26",
+ "titre": "Traitements de recours de la granulomatose avec polyangéite en réponse insuffisante",
+ "question": "Parmi rituximab associé à un traitement de fond conventionnel, tocilizumab et tofacitinib, quelle stratégie de recours est la plus prometteuse pour induire une réponse ou une rémission à 12 semaines dans la GPA en échec ?",
+ "contexte": "Le traitement standard de la granulomatose avec polyangéite (GPA) menaçant un organe ou la vie associe glucocorticoïdes et cyclophosphamide ou rituximab. Peu de patients échouent aux deux, mais il n'est pas rare qu'une activité persistante empêche la décroissance des corticoïdes, ce qui définit aussi une maladie réfractaire.\n\nLes recommandations actuelles prévoient de passer du cyclophosphamide au rituximab ou inversement. Elles ne disent rien pour les patients en réponse insuffisante après les deux. Un biologique ou l'association du rituximab à un DMARD conventionnel sont des options possibles mais n'ont pas été évalués correctement dans cette situation. Parmi les biothérapies étudiées dans les vascularites à ANCA, le tocilizumab et le tofacitinib ont donné des résultats prometteurs. Cet essai de phase 3 de l'AP-HP compare trois stratégies de recours en parallèle : rituximab plus cDMARD (méthotrexate de préférence), tocilizumab, ou tofacitinib. Il vise à identifier la plus prometteuse.",
+ "interet": "L'étude pourrait fournir les premières données comparatives pour guider la prise en charge des GPA en échec des traitements de référence, situation sans recommandation. Elle servirait à sélectionner la meilleure stratégie pour un futur essai de confirmation.",
+ "profil": "Des adultes avec une GPA active, nouvellement diagnostiquée ou en rechute, en réponse insuffisante au cyclophosphamide ou au rituximab associé aux corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "GPA nouvellement diagnostiquée ou en rechute (critères ACR, algorithme EMA ou Chapel Hill 2012) avec manifestations actives",
+  "Réponse insuffisante à corticoïdes plus cyclophosphamide et/ou rituximab, après 12 semaines",
+  "Prednisone stable ≥ 7,5 mg/j dans les 4 semaines avant l'inclusion",
+  "cDMARD à dose stable depuis 4 semaines si traitement en cours",
+  "Consentement écrit et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Allergie aux anticorps monoclonaux ou aux médicaments de l'étude",
+  "Traitement antérieur par rituximab plus cDMARD, tofacitinib ou tocilizumab",
+  "Contre-indication à l'un des traitements (infection en cours, cancer < 5 ans hors cancer cutané guéri)",
+  "Grossesse ou allaitement",
+  "Manifestations sévères de vascularite nécessitant des échanges plasmatiques"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab + cDMARD",
+   "traitement": "Rituximab 375 mg/m²/semaine pendant 4 semaines, puis 500 mg aux semaines 24 et 52, avec méthotrexate (préférentiellement), azathioprine ou mycophénolate"
+  },
+  {
+   "nom": "Tocilizumab",
+   "traitement": "Tocilizumab 162 mg par semaine en sous-cutané"
+  },
+  {
+   "nom": "Tofacitinib",
+   "traitement": "Tofacitinib 5 mg deux fois par jour per os, de la semaine 0 à la semaine 52"
+  }
+ ],
+ "duree": "52 semaines de traitement",
+ "critere": "Proportion de patients en réponse ou en rémission à la semaine 12"
+}

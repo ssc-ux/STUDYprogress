@@ -1,0 +1,42 @@
+{
+ "h": "210b57644bbc",
+ "date": "2026-10-26",
+ "titre": "Cellules stromales mésenchymateuses allogéniques du tissu adipeux dans la sclérodermie systémique sévère",
+ "question": "La perfusion de cellules stromales mésenchymateuses allogéniques issues du tissu adipeux est-elle sûre chez des patients atteints de sclérodermie systémique sévère, et quel est l'effet d'une ou deux perfusions ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare, sévère et chronique, associant vasculopathie, dérégulation immunitaire et fibrose, avec atteinte de la peau, du poumon, du cœur, du tube digestif et du rein. Les traitements sont essentiellement symptomatiques. Seule la greffe autologue de cellules souches hématopoïétiques a montré une amélioration à long terme de la survie globale et sans événement. Elle est toutefois contre-indiquée en cas d'atteinte viscérale avancée et reste toxique chez les patients éligibles.\n\nLes cellules stromales mésenchymateuses (CSM) ont des propriétés immunomodulatrices, pro-angiogéniques et antifibrotiques qui ciblent la physiopathologie de la ScS. Les promoteurs ont déjà publié un essai de phase I/II (NCT02213705) avec des CSM allogéniques de moelle chez 20 patients, sans problème de sécurité et avec une amélioration de la fibrose cutanée à 3-6 mois qui semblait s'atténuer ensuite, ce qui plaide pour des perfusions répétées. Selon eux, les CSM du tissu adipeux sont plus faciles à prélever, prolifèrent davantage avant la sénescence et sont plus stables génétiquement et plus immunosuppressives. Cet essai de phase I/II randomisé en double aveugle (AP-HP) compare deux perfusions, une perfusion et un placebo, avec des CSM produites par l'Établissement français du sang.",
+ "interet": "L'essai évalue la tolérance et l'effet préliminaire d'une thérapie cellulaire dans une situation où les options sont très limitées. Il pourrait préparer un essai de phase III dans les ScS sévères.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique sévère, en échec ou non éligibles à la greffe de cellules souches et aux immunosuppresseurs conventionnels.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Forme sévère : durée ≤ 2 ans avec mRSS ≥ 20 et syndrome inflammatoire/anémie, ou mRSS ≥ 15 avec atteinte d'organe majeure (pulmonaire, rénale ou cardiaque)",
+  "Contre-indication, réponse insuffisante ou refus de la greffe autologue de cellules souches",
+  "Contre-indication, échec ou intolérance des immunosuppresseurs conventionnels (mycophénolate, méthotrexate)",
+  "Contraception efficace chez les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Atteinte d'organe engageant le pronostic vital (DLCO corrigée < 30 %, FEVG < 40 %, HTAP sévère, DFG < 30 mL/min)",
+  "Grossesse ou refus de contraception",
+  "Hépatite active (ASAT/ALAT > 3 N), infection non contrôlée ou infection par le VIH",
+  "Néoplasie de moins de 5 ans (hors exceptions)",
+  "Hypertension non contrôlée, IMC < 16,5 kg/m²",
+  "Insuffisance médullaire (neutropénie, thrombopénie, anémie, lymphopénie définies)",
+  "Autre essai interventionnel en cours, tutelle, incapacité à consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Deux perfusions de CSM",
+   "traitement": "Perfusions systémiques de CSM allogéniques du tissu adipeux, deux administrations (doses et intervalle non précisés)"
+  },
+  {
+   "nom": "Une perfusion de CSM",
+   "traitement": "Une perfusion systémique de CSM allogéniques du tissu adipeux (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Taux d'événements indésirables graves liés au traitement, après chaque perfusion"
+}

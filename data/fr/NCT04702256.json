@@ -1,0 +1,37 @@
+{
+ "h": "1b270a809763",
+ "date": "2026-10-26",
+ "titre": "Obinutuzumab et mycophénolate sans corticoïdes oraux dans la néphrite lupique proliférative",
+ "question": "Un schéma d'induction par obinutuzumab et mycophénolate mofétil, sans corticoïdes oraux associés, est-il non inférieur au schéma classique corticoïdes oraux plus mycophénolate pour obtenir une réponse rénale complète à 52 semaines ?",
+ "contexte": "La néphrite lupique proliférative (classes III/IV ± V) reste une cause majeure de morbidité du lupus systémique. Le traitement d'induction repose sur les corticoïdes associés au mycophénolate mofétil (MMF) ou au cyclophosphamide, avec une réponse rénale complète qui n'est obtenue que chez une partie des patients. Les corticoïdes oraux contribuent largement aux dommages cumulés (prise de poids, diabète, atteinte osseuse, risque cardiovasculaire et infectieux), ce qui motive la recherche de schémas qui les épargnent.\n\nL'obinutuzumab est un anticorps anti-CD20 de seconde génération, plus déplétant que le rituximab. Selon le registre, des données préliminaires suggèrent que l'anti-CD20 pourrait remplacer efficacement les corticoïdes oraux en induction ; cette stratégie doit toutefois être confirmée dans un essai randomisé.\n\nOBILUP est un essai de phase 3 de non-infériorité, ouvert, randomisé 1:1, promu par l'AP-HP avec le soutien de Roche. Le bras expérimental associe obinutuzumab, méthylprednisolone IV, MMF et corticoïdes absents ou à faible dose ; le bras contrôle reçoit prednisone orale, méthylprednisolone IV et MMF. Le critère principal est la réponse rénale complète à 52 semaines sans dépasser une dose prédéfinie de corticoïdes.",
+ "interet": "Si la non-infériorité est démontrée, l'essai appuierait une induction de la néphrite lupique sans corticothérapie orale prolongée. Cela réduirait la toxicité cumulée des corticoïdes, avec un impact sur les dommages à long terme.",
+ "profil": "Des adolescents (≥ 14 ans) et des adultes avec une néphrite lupique active de classe III ou IV (± V) prouvée par biopsie.",
+ "inclusion": [
+  "Âge ≥ 14 ans (enfants de 14 à 17 ans et adultes)",
+  "Néphrite lupique active, biopsie < 8 semaines : classe ISN/RPS III ou IV (A ou A/C) ± V, lésions actives sur ≥ 10 % des glomérules",
+  "Rapport protéinurie/créatininurie ≥ 0,5 g/g dans les 14 jours précédant l'inclusion",
+  "Absence de contre-indication à la méthylprednisolone IV, au MMF, aux corticoïdes oraux ou à l'obinutuzumab",
+  "Contraception adaptée à l'usage du MMF"
+ ],
+ "exclusion": [
+  "Poussée lupique sévère « critique » nécessitant plus d'immunosuppression que prévu au protocole",
+  "Impossibilité de prescrire seulement 10 mg de prednisone après l'inclusion",
+  "Grossesse ou allaitement",
+  "Anticorps monoclonal ou biothérapie modulant les lymphocytes B ou T dans les 6 mois (sauf bélimumab jusqu'à 7 jours avant)",
+  "Sclérose de plus de 60 % des glomérules ou fibrose tubulo-interstitielle > 60 %",
+  "Maladie rénale chronique de stade 4-5 (DFG < 30 ml/min/1,73 m²)",
+  "Infection active (VIH, hépatite B non traitée, hépatite C, tuberculose)"
+ ],
+ "bras": [
+  {
+   "nom": "Bras obinutuzumab (expérimental)",
+   "traitement": "Obinutuzumab + MMF oral, avec méthylprednisolone IV, sans corticoïdes oraux ou à faible dose"
+  },
+  {
+   "nom": "Bras corticoïdes (comparateur actif)",
+   "traitement": "Prednisone orale + méthylprednisolone IV + MMF"
+  }
+ ],
+ "duree": "52 semaines de traitement et d'évaluation, puis suivi long terme (18 mois, 2, 5 et 10 ans) pour les patients consentants",
+ "critere": "Réponse rénale complète à 52 semaines, sans corticoïdes au-delà d'une dose prédéfinie"
+}

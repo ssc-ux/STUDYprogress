@@ -1,0 +1,37 @@
+{
+ "h": "978c9df0bc15",
+ "date": "2026-10-26",
+ "titre": "Décroissance courte ou longue de la corticothérapie dans l'artérite à cellules géantes récente",
+ "question": "Une décroissance de la corticothérapie sur 28 semaines est-elle non inférieure à une décroissance sur 52 semaines pour obtenir une rémission sans rechute à 52 semaines dans l'ACG ?",
+ "contexte": "La corticothérapie reste le traitement de base de l'artérite à cellules géantes (ACG), avec une excellente efficacité initiale mais un taux de rechute élevé lors de la décroissance. La population, souvent âgée, est particulièrement exposée aux effets indésirables des corticoïdes (complications métaboliques, ostéo-musculaires, infectieuses, neuropsychiatriques), d'autant que la durée de traitement s'allonge avec les réaugmentations de doses lors des rechutes.\n\nCet essai de phase 3 du CHU de Caen compare prospectivement un schéma « conventionnel » recommandé par les sociétés savantes européennes à un schéma « plus léger et/ou plus court », inspiré d'essais nord-américains récents. L'hypothèse est une non-infériorité du schéma allégé sur le taux de rémission sans rechute à la semaine 52, avec moins d'effets indésirables liés au traitement grâce à des doses cumulées plus faibles. Les patients ayant une ACG nouvellement diagnostiquée sont randomisés vers un schéma de prednisone adapté au poids. Les rechutes, le maintien de la rémission, les doses cumulées et les effets indésirables sont analysés à la semaine 52, avec une analyse intermédiaire prévue à la semaine 28.",
+ "interet": "Si le schéma court est non inférieur, il pourrait réduire l'exposition cumulée aux corticoïdes et leurs complications chez les patients âgés atteints d'ACG. Il offrirait aussi un schéma standardisé de décroissance.",
+ "profil": "Des adultes de 50 ans et plus atteints d'ACG nouvellement diagnostiquée, traités par corticoïdes depuis moins de 14 jours.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "ACG remplissant 2 des 4 critères ACR cités (biopsie compatible, aortite en imagerie, écho-Doppler compatible)",
+  "Corticothérapie orale débutée depuis ≤ 14 jours",
+  "Dose initiale ≤ 1 mg/kg",
+  "Consentement écrit et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Dose initiale > 1 mg/kg, quelle qu'en soit la durée",
+  "Corticothérapie débutée depuis plus de 14 jours",
+  "ACG en rechute",
+  "Syndrome démentiel ou patient non observant",
+  "Domicile à plus de 150 km du centre",
+  "Vaccin vivant atténué dans les 8 semaines",
+  "Grossesse, allaitement ou absence de contraception"
+ ],
+ "bras": [
+  {
+   "nom": "Décroissance courte (expérimental)",
+   "traitement": "Décroissance des corticoïdes sur 28 semaines"
+  },
+  {
+   "nom": "Décroissance longue (comparateur)",
+   "traitement": "Décroissance des corticoïdes sur 52 semaines"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients en rémission complète sans rechute sur 52 semaines de suivi"
+}

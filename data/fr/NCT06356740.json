@@ -1,0 +1,38 @@
+{
+ "h": "12fbfa72da0f",
+ "date": "2026-10-26",
+ "titre": "Abacavir/lamivudine en association au traitement habituel dans le lupus systémique peu actif",
+ "question": "L'ajout d'abacavir/lamivudine au traitement habituel pendant 6 mois réduit-il la signature interféron chez des patients lupiques en rémission ou à faible activité ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune rare et chronique, caractérisée par des auto-anticorps dirigés contre des antigènes nucléaires, notamment l'ADN natif, et par une production excessive d'interférons de type I, en particulier l'IFN-α. Cette production résulte d'une détection excessive d'acides nucléiques par des récepteurs endosomaux ou cytoplasmiques. Les mécanismes d'activation de ces capteurs restent mal connus, mais des travaux sur les interféronopathies suggèrent un rôle des rétrovirus endogènes humains (HERV), vestiges d'anciennes infections intégrés au génome et représentant 8 % de celui-ci.\n\nPlusieurs études suggèrent que les HERV entretiennent la réponse immunitaire excessive du lupus en agissant sur la voie des interférons de type I. Selon les promoteurs, aucun des immunosuppresseurs approuvés dans le lupus n'a montré d'efficacité en traitement de fond pour prévenir les rechutes, d'où le besoin de nouvelles molécules. Les Hospices Civils de Lyon proposent un essai pilote de phase 2, randomisé et ouvert, testant une association d'inhibiteurs nucléosidiques de la transcriptase inverse (abacavir/lamivudine) en ajout au traitement habituel pendant 6 mois. Il inclut des patients en rémission ou à faible activité (LLDAS) et utilise comme critère un marqueur biologique, la signature interféron, reflet direct de l'effet attendu.",
+ "interet": "En cas de résultat favorable, cet essai pilote soutiendrait le développement des inhibiteurs de la transcriptase inverse comme traitement de fond du lupus. Il permettrait aussi de planifier un essai de plus grande taille sur des critères cliniques.",
+ "profil": "Des patients de 12 à 65 ans (> 25 kg) atteints de lupus systémique en rémission ou à faible activité (LLDAS).",
+ "inclusion": [
+  "12 à 65 ans, poids > 25 kg",
+  "Lupus selon les critères ACR/EULAR 2019 (score > 10)",
+  "Lupus en rémission ou à faible activité clinique selon les critères LLDAS",
+  "Contraception efficace pendant tout le traitement si en âge de procréer",
+  "Affiliation à un régime de sécurité sociale",
+  "Consentement écrit signé du patient ou des parents/représentant légal"
+ ],
+ "exclusion": [
+  "Statut HLA-B*5701 positif (risque d'hypersensibilité à l'abacavir)",
+  "Allergie ou hypersensibilité connue à l'abacavir, à la lamivudine ou aux excipients",
+  "Traitement antirétroviral, ou traitement antérieur ou en cours par lamivudine/abacavir ou analogue de la cytidine",
+  "Infection chronique par le VIH, le VHB ou le VHC",
+  "Grossesse ou allaitement",
+  "Insuffisance rénale (clairance de la créatinine < 50 mL/min) ou insuffisance hépatique modérée à sévère (TP < 50 %)",
+  "Traitement par cladribine ou par l'association triméthoprime/sulfaméthoxazole, ou participation à une autre recherche interventionnelle médicamenteuse"
+ ],
+ "bras": [
+  {
+   "nom": "Abacavir/lamivudine",
+   "traitement": "Abacavir 600 mg/lamivudine 300 mg, 1 comprimé par jour pendant 6 mois, en plus du traitement habituel"
+  },
+  {
+   "nom": "Groupe contrôle (traitement standard)",
+   "traitement": "Poursuite du traitement habituel du lupus"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Variation absolue de la signature interféron (IFN) à 6 mois de traitement"
+}

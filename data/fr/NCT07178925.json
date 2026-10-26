@@ -1,0 +1,25 @@
+{
+ "h": "b1d7dd6d1ffa",
+ "date": "2026-10-26",
+ "titre": "Cohorte de suivi de patients atteints de syndrome des antiphospholipides : taux de récidive thrombotique",
+ "question": "Quel est le taux réel de récidive thrombotique chez les patients atteints de syndrome des antiphospholipides suivis au CHU de Rouen ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) est une maladie rare associant des manifestations thrombotiques (artérielles, veineuses) ou obstétricales à la présence persistante, à au moins 12 semaines d'intervalle, d'anticorps antiphospholipides. Il s'accompagne d'une athérosclérose accélérée, responsable d'une incidence accrue d'infarctus du myocarde, d'artériopathie périphérique et d'AVC, d'où une forte morbi-mortalité cardiovasculaire. Le SAPL peut être isolé (primaire) ou associé à une maladie auto-immune comme le lupus (secondaire). Le traitement repose sur l'anticoagulation.\n\nLes données épidémiologiques anciennes estiment le taux de récidive à 5 % par an, mais l'hétérogénéité des patients de ce registre rend ce chiffre discutable au regard de la pratique clinique. L'arrivée des anticoagulants oraux directs (AOD) remet aussi en question les données de la cohorte Euro-Phospholipid : aucune étude clinique ne justifie leur emploi dans cette indication, mais certains patients en reçoivent en raison d'une intolérance ou d'un refus des antivitamines K. L'usage croissant de l'hydroxychloroquine dans le SAPL primaire est l'autre évolution, un essai (APLAQUINE) étant en cours dans le service. Cette cohorte rétrospective et prospective du CHU de Rouen vise à déterminer le taux de récidive thrombotique, ses facteurs de risque, la tolérance des traitements au long cours et la morbi-mortalité globale.",
+ "interet": "Une meilleure connaissance du taux de récidive thrombotique est nécessaire pour dimensionner de façon réaliste les futurs essais thérapeutiques dans le SAPL. La cohorte pourrait aussi documenter les pratiques réelles (AOD, hydroxychloroquine).",
+ "profil": "Des adultes de 18 à 75 ans atteints de syndrome des antiphospholipides selon les critères de Sydney 2006.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Syndrome des antiphospholipides répondant à la classification de Sydney 2006"
+ ],
+ "exclusion": [
+  "Âge ≥ 75 ans",
+  "Syndrome ne répondant pas à la classification de Sydney 2006"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients SAPL (Sydney 2006)",
+   "traitement": "Suivi observationnel rétrospectif et prospectif, sans modification de la prise en charge habituelle"
+  }
+ ],
+ "duree": "Jusqu'à 5 ans, avec consultations tous les 3 mois, 6 mois ou 1 an selon la situation",
+ "critere": "Taux de récidive thrombotique, évalué lors du suivi en consultation (tous les 3 mois à 1 an pendant 5 ans)"
+}

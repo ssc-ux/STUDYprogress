@@ -1,0 +1,31 @@
+{
+ "h": "7a1080ea76b0",
+ "date": "2026-10-26",
+ "titre": "Cohorte multidisciplinaire de maladies inflammatoires à médiation immunitaire (IMMINeNT)",
+ "question": "Une cohorte clinico-biologique prospective associée à une biobanque permet-elle d'identifier des biomarqueurs et des facteurs pronostiques dans les maladies inflammatoires à médiation immunitaire ?",
+ "contexte": "Les maladies inflammatoires à médiation immunitaire (IMID) touchent le plus souvent des sujets jeunes et pèsent lourdement sur la morbi-mortalité et la qualité de vie, avec des répercussions professionnelles, sociales et affectives. Elles partagent de nombreux mécanismes physiopathologiques et des traitements, dits « thérapies ciblées ». Malgré les progrès, il reste beaucoup à faire sur l'efficacité, la résistance et les effets indésirables de ces traitements.\n\nCes similitudes ont conduit la FHU IMMINeNT, avec le CHU de Lille, à créer une base de données clinico-biologique prospective multidisciplinaire associée à une biobanque. Elle inclut des patients suivis en dermatologie, médecine interne, neurologie, pneumologie et rhumatologie pour des maladies comme le lupus, la sclérodermie, la sclérose en plaques, le rhumatisme psoriasique, l'angiœdème héréditaire, la dermatite atopique, l'asthme sévère ou la maladie de Behçet. Les objectifs sont d'identifier des biomarqueurs pronostiques et thérapeutiques, ainsi que les déterminants de l'activité, de la sévérité, de la qualité de vie, de la réponse et de la tolérance aux traitements. Le suivi porte sur des scores propres à chaque maladie, recueillis chaque année pendant 10 ans.",
+ "interet": "Cette cohorte constitue une ressource pour des travaux transversaux sur plusieurs IMID. Elle peut permettre d'identifier des biomarqueurs communs ou spécifiques de la sévérité et de la réponse aux thérapies ciblées.",
+ "profil": "Des adultes suivis pour une maladie inflammatoire à médiation immunitaire dans l'un des services participants du CHU de Lille.",
+ "inclusion": [
+  "18 ans ou plus",
+  "Patient suivi pour une IMID dans un service participant du CHU de Lille (dermatologie, médecine interne, neurologie, pneumologie, rhumatologie)",
+  "Affilié à la Sécurité sociale",
+  "Capacité de comprendre l'étude, de donner son consentement écrit et de se conformer au recueil des données"
+ ],
+ "exclusion": [
+  "Impossibilité de recevoir l'information ou de participer à toute l'étude",
+  "Absence de couverture par la Sécurité sociale",
+  "Grossesse ou allaitement",
+  "Personnes privées de liberté",
+  "Mineurs ou adultes protégés",
+  "Refus ou incapacité de consentir, situation d'urgence"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte IMMINeNT",
+   "traitement": "Suivi clinique annuel, biobanque avec analyse génétique et questionnaire de qualité de vie SF-12"
+  }
+ ],
+ "duree": "Suivi annuel pendant 10 ans",
+ "critere": "Variation annuelle sur 10 ans de scores propres à chaque maladie (SLEDAI, Medsger, EDSS, BASDAI, critères de Longhurst, poussées de dermatite atopique, exacerbations d'asthme), du SF-12 et du nombre d'infections sévères"
+}

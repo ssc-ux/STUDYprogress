@@ -1,0 +1,32 @@
+{
+ "h": "2b18440f8915",
+ "date": "2026-10-26",
+ "titre": "Vieillissement immunitaire accéléré dans le lupus systémique par rapport à des témoins sains",
+ "question": "Les patients atteints de lupus systémique présentent-ils une accélération du vieillissement du système immunitaire (immunosénescence) par rapport à des témoins sains du même âge ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique marquée par une perte de tolérance vis-à-vis des antigènes nucléaires. Grâce aux progrès du diagnostic et des traitements, l'espérance de vie des patients a nettement augmenté. Le ratio standardisé de mortalité reste toutefois élevé, avec une morbi-mortalité accrue d'origine cardiovasculaire et infectieuse.\n\nCes complications sont habituellement plus fréquentes avec l'âge dans la population générale, ce qui pose la question d'un vieillissement accéléré chez les patients lupiques. L'immunosénescence, c'est-à-dire le vieillissement du système immunitaire, joue un rôle clé dans de nombreuses maladies liées à l'âge et peut être accélérée, par exemple lors d'infections virales chroniques. Sa contribution dans le LES n'a, selon le registre, jamais été explorée.\n\nCette étude du CHU de Bordeaux, non randomisée, compare des patients lupiques de 18 à 60 ans à des témoins sains appariés sur l'âge. Des prélèvements sanguins, réalisés lors du suivi habituel sans visite supplémentaire, servent à une analyse approfondie du vieillissement immunitaire. Le critère principal est le nombre absolu de lymphocytes T naïfs à l'inclusion.",
+ "interet": "Les résultats pourraient montrer si l'immunosénescence participe à la morbidité cardiovasculaire et infectieuse du lupus. Ils orienteraient des recherches sur la prévention et sur de nouvelles cibles thérapeutiques.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus systémique, comparés à des témoins sains.",
+ "inclusion": [
+  "Homme ou femme de 18 à 60 ans",
+  "Lupus systémique selon les critères ACR ou SLICC",
+  "Affiliation à un régime d'assurance maladie",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Femme enceinte ou allaitante",
+  "Personne privée de liberté par décision judiciaire ou administrative",
+  "Mineur ou majeur sous protection juridique ou incapable de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Prélèvement sanguin lors du suivi habituel pour étude du vieillissement immunitaire"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvement sanguin pour comparaison, sans traitement"
+  }
+ ],
+ "duree": "Une visite avec prélèvement (pas de suivi prolongé précisé)",
+ "critere": "Nombre absolu de lymphocytes T naïfs à l'inclusion (jour 0)"
+}

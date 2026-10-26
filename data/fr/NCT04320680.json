@@ -1,0 +1,27 @@
+{
+ "h": "f2abc54ddd35",
+ "date": "2026-10-26",
+ "titre": "Cohorte lupus de la consultation multidisciplinaire de Brest : diagnostic et suivi sur cinq ans",
+ "question": "Quelles sont les caractéristiques épidémiologiques, cliniques et d'évolution des patients lupiques suivis pendant cinq ans en consultation multidisciplinaire à Brest ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène, dont le diagnostic et le suivi mobilisent de nombreuses spécialités : médecine interne, néphrologie, dermatologie, rhumatologie, gynécologie et immunologie. Une consultation multidisciplinaire dédiée permet de coordonner ces avis et d'harmoniser la prise en charge.\n\nCette étude, promue par le CHU de Brest, décrit une cohorte de patients venant à la consultation multidisciplinaire lupus de Brest. Selon le registre, chaque patient bénéficie d'un examen clinique, de prélèvements biologiques et immunologiques, et si nécessaire de biopsies cutanées ou rénales. Une échographie articulaire et des glandes salivaires est réalisée selon les besoins. En cas d'atteinte articulaire, des radiographies des mains et des pieds sont réalisées à l'inclusion puis chaque année pendant cinq ans.\n\nL'objectif est d'étudier l'épidémiologie, le diagnostic et le suivi du lupus dans cette cohorte sur cinq ans. L'étude est enregistrée comme interventionnelle à groupe unique, mais elle est de nature descriptive. Environ 150 patients sont prévus.",
+ "interet": "La cohorte fournira des données descriptives de pratique réelle sur le diagnostic et l'évolution du lupus dans un centre de référence. Elle pourra aider à évaluer les pratiques locales.",
+ "profil": "Des adultes (18 à 80 ans) vus à la consultation multidisciplinaire lupus du CHU de Brest.",
+ "inclusion": [
+  "Hommes ou femmes, 18 à 80 ans",
+  "Patient venant à la consultation multidisciplinaire de Brest",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Refus de participer",
+  "Patient sous protection juridique"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de suivi lupus (groupe unique)",
+   "traitement": "Examen clinique, bilans biologiques et immunologiques, biopsies et imagerie selon les besoins, radiographies annuelles si atteinte articulaire"
+  }
+ ],
+ "duree": "5 ans de suivi",
+ "critere": "Étude épidémiologique de la cohorte lupique : diagnostic et suivi sur cinq ans (critère détaillé non précisé)"
+}

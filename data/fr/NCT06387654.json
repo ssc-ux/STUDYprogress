@@ -1,0 +1,29 @@
+{
+ "h": "99336ba83cdf",
+ "date": "2026-10-26",
+ "titre": "Collection clinico-biologique de dermatoses auto-immunes, dysimmunes ou auto-inflammatoires",
+ "question": "Peut-on constituer une collection d'échantillons biologiques et de données cliniques de patients atteints de dermatoses auto-immunes, dysimmunes ou auto-inflammatoires pour identifier de nouveaux biomarqueurs ?",
+ "contexte": "Les maladies auto-immunes regroupent une centaine d'entités, le plus souvent rares, mais concernent ensemble 5 à 8 % de la population adulte, avec une forte prédominance féminine. Leur dénominateur commun est la perte de tolérance au soi, dont les mécanismes physiopathologiques restent incomplètement compris. Les atteintes cutanées en sont une manifestation fréquente, qu'elles soient isolées (dermatoses bulleuses auto-immunes, lupus cutané) ou associées à une maladie systémique (lupus, sclérodermie, dermatomyosite).\n\nIl existe une importante variabilité interindividuelle, qui conduit à définir des sous-groupes de patients selon le profil clinico-biologique et la réponse aux traitements. Dans une perspective de médecine individualisée, les caractéristiques cliniques, biologiques et génétiques de ces sous-groupes doivent être explorées pour améliorer le diagnostic précoce et le choix thérapeutique. Cette étude toulousaine (TekAPo) constitue une collection biologique à partir des prélèvements du soin courant, avec des restes d'échantillons et des prélèvements sanguins. Elle inclut aussi des patients recevant ou susceptibles de recevoir des thérapies innovantes (inhibiteurs de points de contrôle, thérapie génique ou cellulaire). La collection sera accessible à la communauté médicale, scientifique et industrielle.",
+ "interet": "Cette collection n'évalue pas de traitement, mais elle fournit un matériel biologique annoté pour identifier des biomarqueurs diagnostiques et pronostiques. Elle peut servir de base à de futurs travaux sur de nouvelles cibles thérapeutiques dans les dermatoses dysimmunes.",
+ "profil": "Des adultes et enfants de 6 ans et plus avec une atteinte cutanée d'origine auto-immune, dysimmune ou auto-inflammatoire documentée, probable ou suspectée.",
+ "inclusion": [
+  "Atteinte cutanée d'origine auto-immune, dysimmune ou auto-inflammatoire documentée ou probable (origine suspectée acceptée)",
+  "Dermatose bulleuse auto-immune (pemphigus, pemphigoïde…)",
+  "Maladie auto-immune systémique avec atteinte cutanée (lupus, sclérodermie, dermatomyosite)",
+  "Lupus cutané ou dermatose dysimmune (psoriasis, eczéma), toxidermie",
+  "Patients recevant ou susceptibles de recevoir une thérapie innovante"
+ ],
+ "exclusion": [
+  "Patients sous tutelle ou curatelle",
+  "Âge inférieur à 6 ans",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec dermatose auto-immune, dysimmune ou auto-inflammatoire",
+   "traitement": "Prélèvements sanguins et restes d'échantillons du soin courant, recueillis lors du diagnostic et du suivi"
+  }
+ ],
+ "duree": "Non précisé par patient (en moyenne environ 1 an selon le registre ; étude jusqu'en 2034)",
+ "critere": "Constitution d'une collection d'échantillons biologiques et de données clinico-biologiques, du jour 0 jusqu'à la fin de l'étude"
+}

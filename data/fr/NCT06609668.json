@@ -1,0 +1,37 @@
+{
+ "h": "e21f0b4665d2",
+ "date": "2026-10-26",
+ "titre": "Thrombomoduline pour exclure une ACG chez les patients ayant une pseudo-polyarthrite rhizomélique",
+ "question": "Le dosage sérique de la thrombomoduline permet-il de distinguer une pseudo-polyarthrite rhizomélique isolée d'une PPR associée à une ACG ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique (PPR) touche les patients de plus de 50 ans et se manifeste par des douleurs inflammatoires des ceintures scapulaire et pelvienne. Elle est le plus souvent isolée mais s'associe à une artérite à cellules géantes (ACG) dans 16 à 21 % des cas, y compris sous forme infraclinique avec atteinte isolée des gros vaisseaux.\n\nL'ACG nécessite de fortes doses de corticoïdes, supérieures à celles de la PPR isolée, pour éviter les complications du remodelage vasculaire (AVC, cécité). L'écarter chez un patient atteint de PPR repose sur des examens complémentaires : écho-Doppler couleur et/ou biopsie de l'artère temporale pour les vaisseaux crâniens, TEP-FDG ou angioscanner pour les gros vaisseaux. L'étude pilote observationnelle du CHU de Dijon cherche un biomarqueur sérique capable d'exclure ou d'identifier l'ACG. Elle explore la thrombomoduline, protéine dont le taux circulant augmente lors de l'inflammation vasculaire, et qui semble donc un bon candidat pour distinguer la PPR isolée de la PPR associée à une ACG. Le dosage est réalisé par Luminex au diagnostic, avant tout traitement par corticoïdes.",
+ "interet": "Un biomarqueur fiable permettrait de sélectionner les patients atteints de PPR chez qui des examens vasculaires complémentaires sont nécessaires ou non. Il pourrait limiter les examens lourds et coûteux.",
+ "profil": "Des patients de plus de 50 ans atteints de PPR (critères ACR/EULAR 2012), avec ou sans ACG associée.",
+ "inclusion": [
+  "Consentement oral",
+  "Âge > 50 ans",
+  "PPR selon les critères ACR/EULAR 2012",
+  "Douleurs inflammatoires des ceintures, VS > 20 mm/h et/ou CRP > 10 mg/L",
+  "Score ≥ 4 points (raideur matinale > 45 min, douleur de hanche, facteur rhumatoïde/anti-CCP négatifs, absence d'autre atteinte articulaire)"
+ ],
+ "exclusion": [
+  "Absence d'affiliation à l'assurance maladie ou protection juridique",
+  "Grossesse ou allaitement",
+  "Corticoïdes ou immunosuppresseurs dans le mois précédent",
+  "Contre-indication aux corticoïdes",
+  "Infection active, néoplasie ou autre maladie inflammatoire/auto-immune",
+  "Imagerie vasculaire impossible ou ininterprétable (allergie à l'iode, insuffisance rénale, diabète déséquilibré)",
+  "Exclusions secondaires : PPR paranéoplasique, polyarthrite rhumatoïde, TEP négative après corticoïdes"
+ ],
+ "bras": [
+  {
+   "nom": "PPR isolée",
+   "traitement": "Prélèvements sanguins supplémentaires ; score ACR/EULAR 2022 d'ACG < 6"
+  },
+  {
+   "nom": "PPR associée à une ACG",
+   "traitement": "Prélèvements sanguins supplémentaires ; score ACR/EULAR 2022 d'ACG ≥ 6"
+  }
+ ],
+ "duree": "Non précisé (dosage unique au diagnostic)",
+ "critere": "Concentration sérique de thrombomoduline (Luminex) au diagnostic, avant tout traitement par corticoïdes"
+}

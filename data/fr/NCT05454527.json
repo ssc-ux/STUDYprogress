@@ -1,0 +1,27 @@
+{
+ "h": "d166a8a3b716",
+ "date": "2026-10-26",
+ "titre": "Cohorte MASC : suivi des myosites inflammatoires associé à une biobanque",
+ "question": "Une cohorte prospective de patients avec myosite, associée à une biobanque, permet-elle de définir des sous-groupes cliniques et biologiques de myosites ?",
+ "contexte": "Les myosites sont des maladies auto-immunes rares dans lesquelles le système immunitaire attaque les muscles striés, avec inflammation, nécrose et déficit moteur de sévérité variable. Les traitements disponibles sont insuffisants et non spécifiques.\n\nIl manque des critères biologiques, issus de simples examens sanguins ou musculaires, pour définir l'activité de la maladie et l'efficacité des traitements. Le protocole MASC de l'AP-HP inclut des adultes avec une suspicion de dermatomyosite, polymyosite, myosite à inclusions, myopathie nécrosante auto-immune ou myosite iatrogène. Il recueille des données cliniques, radiologiques, électrophysiologiques, histologiques et biologiques, avec une biobanque (biopsie musculaire, ADN, sérum, plasma, PBMC). Le suivi comprend une visite initiale puis des visites mensuelles à annuelles, avec un bilan extra-musculaire cardiaque, pulmonaire et diaphragmatique. L'objectif est d'identifier des facteurs constitutionnels (génétiques) ou acquis (environnementaux, médicamenteux) favorisant les myosites, et des sous-groupes pronostiques.",
+ "interet": "Cette cohorte pourrait fournir un cadre pour la découverte de biomarqueurs d'activité et de pronostic. Elle pourrait aussi alimenter des travaux de physiopathologie et d'études ancillaires.",
+ "profil": "Des adultes avec une suspicion de myosite (dermatomyosite, polymyosite, myosite à inclusions, myopathie nécrosante ou myosite iatrogène).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Suspicion de myosite selon les classifications de référence (DM, PM, IBM, myopathie nécrosante, myosite iatrogène)",
+  "Absence d'opposition à l'utilisation des données",
+  "Consentement signé pour la biobanque et les analyses génétiques"
+ ],
+ "exclusion": [
+  "Patient bénéficiaire de l'AME",
+  "Patient sous protection juridique"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients avec myosite",
+   "traitement": "Suivi observationnel avec visites cliniques et biobanque (muscle, ADN, sérum, plasma, PBMC)"
+  }
+ ],
+ "duree": "Visite initiale puis visites mensuelles à annuelles ; suivi à très long terme prévu jusqu'en 2057",
+ "critere": "Caractérisation des sous-groupes de myosites à partir de l'évaluation clinique, radiologique, électrophysiologique et histobiologique, dans les 30 jours suivant l'inclusion"
+}

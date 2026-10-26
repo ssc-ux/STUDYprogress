@@ -1,0 +1,26 @@
+{
+ "h": "4aefc21dd470",
+ "date": "2026-10-26",
+ "titre": "Formes familiales de sclérodermie systémique : description clinique",
+ "question": "Quelles sont les caractéristiques cliniques des patients atteints de formes familiales de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune complexe associant vasculopathie, inflammation et fibrose. Sa physiopathologie reste incomplètement comprise et les traitements sont limités, en particulier dans les formes sévères et réfractaires. Les formes familiales, rares, sont considérées comme des cas « extrêmes » susceptibles d'éclairer les mécanismes de la maladie.\n\nSelon le promoteur, leur étude vise à mieux comprendre la physiopathologie à partir de ces situations particulières, à identifier des marqueurs moléculaires prédictifs de l'évolution et à repérer des cibles thérapeutiques potentielles. Cette étude observationnelle monocentrique du CHU de Strasbourg inclut des adultes ayant au moins un apparenté au premier degré atteint de sclérodermie systémique. Les critères retenus sont larges : formes limitées, diffuses, sine scleroderma et syndromes de chevauchement avec myosite, dès lors que les critères VEDOSS sont remplis. Le critère principal est descriptif et porte sur les caractéristiques cliniques des patients.",
+ "interet": "L'étude décrit un phénotype familial rare encore peu caractérisé. Elle pourrait servir de base à des analyses génétiques et biologiques ultérieures, et aider à repérer des marqueurs d'évolution.",
+ "profil": "Des adultes atteints de sclérodermie systémique (au moins critères VEDOSS) avec au moins un apparenté au premier degré atteint.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie systémique diagnostiquée par un clinicien (limitée, diffuse, sine scleroderma, chevauchement avec myosite)",
+  "Au minimum critères VEDOSS : Raynaud + un autre critère (doigts boudinés, anticorps antinucléaires, anticorps spécifiques, anomalies capillaroscopiques)",
+  "Au moins un apparenté au premier degré atteint de sclérodermie systémique répondant aux mêmes critères"
+ ],
+ "exclusion": [
+  "Opposition du sujet à sa participation à l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec sclérodermie systémique familiale",
+   "traitement": "Étude observationnelle, pas d'intervention ; description clinique des patients"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois",
+ "critere": "Description des caractéristiques cliniques des patients atteints de sclérodermie systémique familiale, sur une période allant jusqu'à 12 mois"
+}

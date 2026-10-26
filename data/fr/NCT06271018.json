@@ -1,0 +1,34 @@
+{
+ "h": "687a678ab703",
+ "date": "2026-10-26",
+ "titre": "Biosimilaire du tocilizumab dans l'aortite de l'artérite à cellules géantes",
+ "question": "Quelle est l'efficacité, avec quelle tolérance, d'un biosimilaire du tocilizumab (Tyenne) associé à une corticothérapie courte dans l'ACG avec aortite active ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite systémique la plus fréquente après 50 ans, avec une prédisposition pour les artères crâniennes. Les nouvelles techniques d'imagerie montrent une aortite chez plus de 50 % des patients. Elle peut se compliquer d'anévrisme ou de dissection aortique, potentiellement mortels.\n\nL'IL-6 joue un rôle central dans la physiopathologie de l'aortite. L'essai GiACTA (251 patients) a montré que le tocilizumab augmentait la proportion de patients en rémission prolongée à 52 semaines par rapport au placebo, avec moins de rechutes et moins de corticoïdes ; le médicament a ensuite été autorisé dans l'ACG active. L'effet des inhibiteurs de l'IL-6 sur l'inflammation aortique, évalué par les techniques d'imagerie modernes, n'a toutefois jamais été étudié spécifiquement.\n\nCette étude observationnelle multicentrique française, menée dans 14 centres de référence du réseau GEFA et promue par le groupe français d'étude des maladies inflammatoires de l'œil, suit des patients avec aortite active traités par Tyenne (MSB11456) SC hebdomadaire, associé à une décroissance rapide de la prednisone visant l'arrêt en 8 semaines. Les patients sont suivis selon les soins courants, avec angioscanner et TEP-FDG à 6, 12 et 24 mois, relus de façon centralisée.",
+ "interet": "L'étude documenterait l'effet d'un biosimilaire du tocilizumab sur l'inflammation et les lésions aortiques mesurées en imagerie. Elle pourrait appuyer l'usage du biosimilaire avec une corticothérapie courte dans l'aortite de l'ACG.",
+ "profil": "Des adultes atteints d'ACG avec aortite active, nouvellement diagnostiquée ou en rechute, devant être traités par biosimilaire du tocilizumab.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ACG selon les critères ACR/EULAR 2022",
+  "Aortite active récente ou en rechute prouvée par imagerie (TEP, angioscanner, angio-IRM)",
+  "Absence de néoplasie et de contre-indication au tocilizumab",
+  "Contraception adéquate et test de grossesse négatif chez les femmes en âge de procréer",
+  "Consentement signé et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Immunosuppression sévère, VIH ou AgHBs positif",
+  "QuantiFERON positif",
+  "Vaccin vivant dans les 3 mois",
+  "Cancer dans les 5 dernières années",
+  "Insuffisance rénale sévère (clairance < 30 mL/min/1,73 m²)",
+  "Anomalie hépatique ou hématologique (ASAT/ALAT élevées, neutropénie, thrombopénie, anémie)"
+ ],
+ "bras": [
+  {
+   "nom": "Aortite dans l'ACG",
+   "traitement": "Biosimilaire du tocilizumab (MSB11456, Tyenne) SC hebdomadaire dans le cadre de son AMM, avec prednisone à décroissance rapide"
+  }
+ ],
+ "duree": "Suivi jusqu'à 104 semaines",
+ "critere": "Proportion de patients en rémission de l'ACG à la semaine 24"
+}

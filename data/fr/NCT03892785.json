@@ -1,0 +1,37 @@
+{
+ "h": "36958a6a65f6",
+ "date": "2026-10-26",
+ "titre": "Méthotrexate versus tocilizumab dans l'artérite à cellules géantes",
+ "question": "Douze mois de méthotrexate sont-ils non inférieurs à douze mois de tocilizumab pour prévenir les rechutes de l'ACG à 18 mois ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente après 50 ans. Les corticoïdes en sont la base, efficaces mais prescrits 18 à 24 mois, ce qui entraîne chez la plupart des patients des complications et un handicap. Des stratégies d'épargne cortisonique sont donc nécessaires.\n\nLe tocilizumab (TCZ) pendant 12 mois a montré son efficacité pour induire et maintenir la rémission, avec un net effet d'épargne cortisonique. Il est toutefois coûteux, supprime la CRP et la VS (ce qui complique le suivi) et environ 40 % des patients rechutent dans les 6 mois suivant son arrêt. Par ailleurs, le méthotrexate (MTX) à 10 mg/semaine pendant 24 mois, associé à 6 mois de prednisone, a fait baisser le risque de rechute à 24 mois de 84 % à 45 %.\n\nCet essai de phase 3 du CHU de Dijon fait l'hypothèse que 12 mois de MTX (0,3 mg/kg/semaine, maximum 20 mg) ne sont pas inférieurs à 12 mois de TCZ SC (162 mg/semaine) pour prévenir les rechutes à 18 mois. Il évalue aussi les conséquences économiques, la stratégie MTX pouvant être plus coût-efficace.",
+ "interet": "Si le MTX est non inférieur, il pourrait devenir une alternative moins coûteuse et plus facile à suivre que le TCZ comme traitement d'épargne cortisonique de l'ACG. L'analyse médico-économique éclairerait le choix entre les deux stratégies.",
+ "profil": "Des adultes de 50 ans et plus atteints d'ACG active, de poids compris entre 40 et 100 kg, ménopausées pour les femmes.",
+ "inclusion": [
+  "ACG diagnostiquée (âge ≥ 50 ans, VS ≥ 50 mm/h ou CRP ≥ 20 mg/L, signes cliniques cranien ou de PPR)",
+  "Biopsie d'artère temporale compatible ou atteinte des gros vaisseaux en imagerie",
+  "ACG active dans les 6 semaines avant la randomisation (VS ≥ 30 mm/h ou CRP ≥ 10 mg/L et signes cliniques)",
+  "Consentement écrit",
+  "Affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Femme non ménopausée",
+  "Poids < 40 kg ou > 100 kg",
+  "Immunodéficience primaire ou secondaire",
+  "Hypersensibilité au méthotrexate, au tocilizumab ou à un anticorps monoclonal",
+  "Antécédent de diverticulite, MICI ou autre risque de perforation digestive",
+  "Traitement récent par tocilizumab, méthotrexate, anti-CD20, cyclophosphamide ou autres immunosuppresseurs",
+  "Refus de signer le contrat de sécurité du méthotrexate"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe tocilizumab (expérimental)",
+   "traitement": "Prednisone + tocilizumab 162 mg SC par semaine pendant 12 mois"
+  },
+  {
+   "nom": "Groupe méthotrexate (comparateur)",
+   "traitement": "Prednisone + méthotrexate 0,3 mg/kg/semaine (max. 20 mg) pendant 12 mois"
+  }
+ ],
+ "duree": "78 semaines",
+ "critere": "Pourcentage de patients vivants sans rechute après la rémission initiale ni écart au schéma prévu de prednisone, à la semaine 78"
+}

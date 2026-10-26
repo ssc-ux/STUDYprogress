@@ -1,0 +1,38 @@
+{
+ "h": "656da5f5bbf7",
+ "date": "2026-10-26",
+ "titre": "Échographie des glandes salivaires dans le Sjögren, les connectivites et le syndrome sec",
+ "question": "Quelle est la fréquence des anomalies structurales des glandes salivaires en échographie chez les patients atteints de Sjögren, d'autres connectivites (lupus, sclérodermie, PR) ou de syndrome sec isolé ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune dont le syndrome sec est la manifestation cardinale. Le diagnostic repose sur des critères de classification (américano-européens 2002, ACR/EULAR 2016) qui combinent clinique, auto-anticorps et parfois biopsie des glandes salivaires accessoires. L'échographie des glandes salivaires principales (parotides et submandibulaires) est un examen non invasif, rapide et réalisable en consultation, dont l'intérêt diagnostique est de plus en plus discuté.\n\nUne difficulté tient à la spécificité des anomalies échographiques : un syndrome sec et des atteintes glandulaires peuvent aussi s'observer dans d'autres connectivites comme le lupus, la polyarthrite rhumatoïde ou la sclérodermie. L'étude COUGAR, promue par le CHU de Brest, compare de façon transversale l'échographie des quatre glandes principales dans trois groupes : Sjögren, autres connectivites avec syndrome sec, et témoins avec syndrome sec sans maladie auto-immune. Il s'agit d'une étude non interventionnelle en soins courants, avec une seule visite comportant un examen clinique et une échographie.",
+ "interet": "L'étude pourrait préciser la valeur diagnostique de l'échographie salivaire pour distinguer le Sjögren des autres causes de syndrome sec. Cela pourrait aider à mieux positionner cet examen dans le bilan, en alternative ou en complément de la biopsie.",
+ "profil": "Des adultes avec un syndrome de Sjögren, un lupus, une sclérodermie, une polyarthrite rhumatoïde ou un syndrome sec sans maladie auto-immune.",
+ "inclusion": [
+  "Patients majeurs",
+  "Syndrome de Sjögren selon les critères américano-européens (2012 et 2016)",
+  "Ou lupus selon les critères ACR 2019",
+  "Ou polyarthrite rhumatoïde selon les critères ACR/EULAR 2010",
+  "Ou sclérodermie selon les critères ACR/EULAR 2013",
+  "Ou témoin avec syndrome sec sans maladie auto-immune citée"
+ ],
+ "exclusion": [
+  "Patient non coopérant ayant refusé de participer",
+  "Patient incapable de comprendre le protocole, sous tutelle ou curatelle",
+  "Patient non affilié à la Sécurité sociale française"
+ ],
+ "bras": [
+  {
+   "nom": "Syndrome de Sjögren",
+   "traitement": "Échographie des parotides et des glandes submandibulaires en soins courants"
+  },
+  {
+   "nom": "Autres maladies auto-immunes (lupus, PR, sclérodermie)",
+   "traitement": "Même échographie salivaire en soins courants"
+  },
+  {
+   "nom": "Syndrome sec",
+   "traitement": "Même échographie salivaire en soins courants"
+  }
+ ],
+ "duree": "Une seule visite",
+ "critere": "Proportion de patients présentant des anomalies structurales des glandes salivaires dans chacune des trois populations, à l'inclusion"
+}

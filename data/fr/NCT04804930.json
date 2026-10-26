@@ -1,0 +1,33 @@
+{
+ "h": "33d40edffe53",
+ "date": "2026-10-26",
+ "titre": "Valeur pronostique de la trichoscopie dans la sclérodermie systémique",
+ "question": "La trichoscopie du cuir chevelu apporte-t-elle une information utile pour évaluer les patients atteints de sclérodermie systémique, par rapport à des sujets sains ?",
+ "contexte": "La sclérodermie systémique (ScS) atteint la peau et de nombreux organes, mais l'atteinte du cuir chevelu est peu décrite. Les données sont rares sur l'association entre anomalies du cuir chevelu et caractéristiques de la maladie. Il manque par ailleurs des examens simples et non invasifs pour évaluer les patients atteints de ScS.\n\nLa trichoscopie est un examen simple, reproductible et non invasif, qui fait partie de l'examen des zones pileuses en dermatologie courante. Elle visualise à fort grossissement la peau du cuir chevelu, les follicules et la microvascularisation. Cette étude observationnelle cas-témoins, promue par le CHU de Lille, compare la fréquence des lésions élémentaires observées en trichoscopie chez des patients ScS et des sujets sains sans maladie du cuir chevelu connue. L'analyse recherchera ensuite des liens entre ces lésions et les caractéristiques de la ScS. L'objectif est d'évaluer l'apport de la trichoscopie dans l'évaluation de la maladie.",
+ "interet": "Si des lésions trichoscopiques sont associées aux formes sévères de ScS, cet examen simple pourrait enrichir l'évaluation initiale et le suivi. L'étude précisera aussi les atteintes du cuir chevelu encore mal connues dans cette maladie.",
+ "profil": "Des adultes atteints de sclérodermie systémique et des sujets sains témoins.",
+ "inclusion": [
+  "ScS selon les critères ACR/EULAR 2013",
+  "Consentement éclairé signé",
+  "Affilié à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Âge inférieur à 18 ans",
+  "Patients sous protection légale ou privés de liberté",
+  "Situation d'urgence",
+  "Refus ou incapacité de donner son consentement",
+  "Témoins : maladie inflammatoire active du cuir chevelu le jour de l'examen"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de ScS",
+   "traitement": "Trichoscopie du cuir chevelu avec photographies"
+  },
+  {
+   "nom": "Sujets sains",
+   "traitement": "Même examen, sans ScS ni maladie connue des cheveux ou du cuir chevelu"
+  }
+ ],
+ "duree": "Non précisé (critère évalué à l'inclusion)",
+ "critere": "Fréquence des lésions élémentaires observées en trichoscopie du cuir chevelu, à l'inclusion"
+}

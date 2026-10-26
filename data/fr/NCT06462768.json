@@ -1,0 +1,39 @@
+{
+ "h": "a7529a732f3c",
+ "date": "2026-10-26",
+ "titre": "Pièges extracellulaires des neutrophiles (NETs) dans les différentes formes de sclérodermie systémique",
+ "question": "Les neutrophiles de patients atteints de sclérodermie systémique produisent-ils plus de NETs, et cette production est-elle liée aux complications et aux phénotypes de la maladie ?",
+ "contexte": "La sclérodermie systémique (ScS) associe une sclérose cutanée limitée ou diffuse, une microangiopathie, la production d'auto-anticorps et une atteinte d'organes variable liée à la vasculopathie et/ou à la fibrose. La perte de tolérance au soi semble due à une dérégulation de l'immunité innée et adaptative, pouvant impliquer les espèces réactives de l'oxygène (ROS).\n\nLes neutrophiles sont de gros producteurs de ROS et pourraient contribuer à la dysfonction des cellules endothéliales et des fibroblastes ainsi qu'à la production d'auto-anticorps, mais leur rôle dans la ScS reste à établir. Les NETs (Neutrophil Extracellular Traps) sont des structures en réseau faites de chromatine et de molécules granulaires, libérées lors de la NETose. D'abord décrits comme un mécanisme de défense anti-infectieux, ils participent aussi à la pathogénie de maladies inflammatoires et auto-immunes, dont le lupus. Les investigateurs ont récemment mis en évidence ce phénomène dans la ScS, notamment en cas de complications vasculaires et/ou de maladie récente. L'étude, promue par le CHU de Reims, explore maintenant les facteurs impliqués dans cette dérégulation, avec 100 patients ScS, 30 patients avec une autre connectivite et 130 témoins sains.",
+ "interet": "L'étude pourrait préciser la contribution de la NETose à la physiopathologie de la sclérodermie et à ses complications. Elle pourrait ouvrir la voie à de nouveaux biomarqueurs ou à des cibles thérapeutiques.",
+ "profil": "Des adultes atteints de sclérodermie systémique ou d'une autre connectivite, comparés à des volontaires sains.",
+ "inclusion": [
+  "Groupe 1 : sclérodermie systémique (critères ACR-EULAR), suivie en médecine interne ou dermatologie au CHU de Reims",
+  "Groupe 2 : autre connectivite (critères ACR spécifiques), suivie dans les mêmes services",
+  "Groupe 3 : volontaires sains éligibles au don du sang, sans maladie auto-immune ou inflammatoire systémique, sans cancer ni pathologie métabolique chronique",
+  "Groupe 3 : sans traitement anti-inflammatoire ou corticoïde ni infection ou inflammation aiguë dans les 15 jours",
+  "Consentement et affiliation à l'assurance maladie"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Personne protégée par la loi",
+  "Refus de participer après information",
+  "Pathologie inflammatoire ou infectieuse aiguë intercurrente dans les 15 jours précédant l'inclusion",
+  "Femme enceinte ou allaitante"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes avec sclérodermie systémique",
+   "traitement": "Prélèvement sanguin"
+  },
+  {
+   "nom": "Autre connectivite",
+   "traitement": "Prélèvement sanguin"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvement sanguin"
+  }
+ ],
+ "duree": "Une visite de prélèvement sanguin (J0)",
+ "critere": "Quantification des NETs générés après stimulation in vitro des neutrophiles par le sérum de patients ScS, de patients lupiques et de témoins sains, à J0"
+}

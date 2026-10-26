@@ -1,0 +1,34 @@
+{
+ "h": "16afa7aaf82f",
+ "date": "2026-10-26",
+ "titre": "Thiosulfate de sodium en injections locales pour les calcifications et ossifications ectopiques",
+ "question": "Le thiosulfate de sodium injecté en intralésionnel réduit-il le volume des calcifications ou ossifications ectopiques de la sclérodermie, de la dermatomyosite et de l'iPPSD2 ?",
+ "contexte": "Les calcifications ou ossifications ectopiques des tissus mous compliquent l'évolution de nombreuses maladies, le plus souvent rares. Elles surviennent notamment dans la sclérodermie systémique, la dermatomyosite et la pseudohypoparathyroïdie de type 1a (PHP1A/iPPSD2). Malgré des présentations différentes, les mêmes hypothèses physiopathologiques sont évoquées : produit phosphocalcique élevé, lésions cellulaires locales et transdifférenciation anormale des cellules mésenchymateuses. En dehors de cas rapportés non confirmés, aucun traitement médical n'est disponible, et seule la chirurgie peut être proposée lorsque le volume ou les conséquences deviennent trop importants. Les patients souffrent de douleurs et d'une altération de la qualité de vie.\n\nLe thiosulfate de sodium (STS) est utilisé comme antidote du cyanure et comme chimioprotecteur contre les effets du cisplatine. De nombreux cas et plusieurs études suggèrent son intérêt dans les calcifications vasculaires ou des tissus mous de l'urémie. L'équipe de Limoges a développé une stratégie d'administration locale du STS, dont les premiers résultats sont jugés prometteurs avec une tolérance locale et systémique satisfaisante. Cet essai pilote de phase 2 ouvert est promu par le CHU de Limoges, avec une phase de contrôle de 6 mois avant le traitement.",
+ "interet": "En cas de réduction du volume des dépôts, le STS intralésionnel pourrait devenir une alternative médicale à la chirurgie, aujourd'hui seul recours. Ce serait un progrès pour des maladies rares sans traitement validé.",
+ "profil": "Des patients de 6 mois et plus avec des calcifications (sclérodermie, dermatomyosite) ou des ossifications ectopiques (iPPSD2).",
+ "inclusion": [
+  "Ossification ectopique secondaire à une iPPSD2, ou calcification secondaire à une dermatomyosite ou à une sclérodermie systémique",
+  "Âge de 2 ans ou plus (6 mois selon le champ d'âge du registre)",
+  "Indication de STS validée par un comité multidisciplinaire, selon la morbidité ou l'impact fonctionnel",
+  "Pas de chirurgie des lésions prévue dans les 12 mois",
+  "Contraception hautement efficace chez les femmes en âge de procréer ; préservatif chez les hommes jusqu'à 91 jours après la dernière injection",
+  "Consentement signé (patient ou parents) et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Allergie au STS ou à l'un de ses excipients",
+  "Contre-indication à l'injection locale de STS",
+  "Traitement anticoagulant",
+  "Grossesse ou allaitement",
+  "Personnes privées de liberté ou sous soins psychiatriques sans consentement",
+  "Adultes sous tutelle, curatelle ou protection judiciaire",
+  "Patient incapable de donner son consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe traité (bras unique)",
+   "traitement": "Mois 0 à 6 : phase de contrôle sans traitement ; mois 6 à 12 : injections intralésionnelles de thiosulfate de sodium (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "12 mois (6 mois de contrôle puis 6 mois de traitement)",
+ "critere": "Variation du pourcentage de volume des calcifications ou ossifications traitées entre le mois 6 et le mois 12"
+}

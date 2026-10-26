@@ -1,0 +1,29 @@
+{
+ "h": "f509f7d3210d",
+ "date": "2026-10-26",
+ "titre": "Validation en français de questionnaires de handicap et de qualité de vie dans la sclérodermie systémique",
+ "question": "Les questionnaires ScleroID et SSPRO, avec d'autres échelles de handicap et de qualité de vie, sont-ils valides et reproductibles en français chez les patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (ScS) associe une fibrose cutanée et viscérale (poumon, cœur, tube digestif) à des manifestations vasculaires : phénomène de Raynaud, ischémie pulpaire, hypertension artérielle pulmonaire, crise rénale sclérodermique. Elle entraîne un handicap fonctionnel et une altération de la qualité de vie que les mesures cliniques et biologiques seules ne reflètent pas.\n\nDe nouveaux questionnaires de handicap et d'évaluation par le patient ont été introduits au niveau international : le ScleroID (Becker 2022) et le SSPRO (Man 2017). Ils n'ont toutefois pas été traduits ni validés en français, et ne peuvent donc pas être utilisés en l'état en France. Cette étude observationnelle de l'AP-HP (hôpital Cochin) vise à les valider en langue française. Les patients complètent par courrier, à l'inclusion (M0) puis à 3 mois (M3), ces deux questionnaires ainsi que plusieurs échelles existantes : CSF 17 (échelle fonctionnelle de Cochin), HAQ-DI, SHAQ, PROMIS-29, SF-12 et un questionnaire d'ancrage. Le registre prévoit environ 200 patients.",
+ "interet": "La validation de ces outils permettrait de les utiliser dans les essais et les cohortes francophones de ScS. Ils offriraient aussi aux cliniciens une mesure standardisée du handicap et du ressenti des patients.",
+ "profil": "Des adultes atteints de sclérodermie systémique selon les critères ACR/EULAR 2013, comprenant bien le français.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Bonne compréhension du français",
+  "Consentement éclairé donné"
+ ],
+ "exclusion": [
+  "Pathologie chronique invalidante associée (AVC, sclérose en plaques, SLA, maladie de Parkinson, amputation…)",
+  "Troubles cognitifs",
+  "Difficultés de compréhension ou d'expression en français",
+  "Majeur sous tutelle"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de ScS (cohorte unique)",
+   "traitement": "Auto-questionnaires remplis à M0 et M3 (CSF 17, ScleroID, SSPRO, HAQ-DI, SHAQ, PROMIS-29, SF-12, questionnaire d'ancrage) ; aucun traitement étudié"
+  }
+ ],
+ "duree": "3 mois (questionnaires à M0 et M3)",
+ "critere": "Scores aux questionnaires (CSF 17, ScleroID, SSPRO, HAQ-DI, SHAQ, PROMIS-29, SF-12, ancrage) à l'inclusion et à 3 mois, pour la validation en français"
+}

@@ -1,0 +1,36 @@
+{
+ "h": "4245c4afab37",
+ "date": "2026-10-26",
+ "titre": "Ruxolitinib dans la myosite à inclusions sporadique : essai de phase 2b",
+ "question": "Le ruxolitinib, inhibiteur de JAK, améliore-t-il la distance parcourue au test de marche de 6 minutes à 12 mois chez des patients atteints de myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est la myopathie inflammatoire idiopathique la plus fréquente après 45 ans. Elle associe une inflammation intramusculaire à des lésions dégénératives. Son évolution est chronique et elle résiste aux immunomodulateurs usuels, ce qui entraîne un handicap marqué et une dégradation de la qualité de vie.\n\nLes analyses histologiques et moléculaires de biopsies musculaires montrent une signature interféron de type II (IFN-γ) intense, plus forte que dans les autres myopathies inflammatoires. Des études expérimentales in vitro et in vivo indiquent que l'IFN-γ exerce des effets délétères sur le muscle via la voie JAK/STAT, qui miment les lésions dégénératives de l'IBM, et que le ruxolitinib peut prévenir ces effets. BIGTIM est un essai multicentrique, randomisé, en double aveugle contre placebo, promu par l'AP-HP, testant le ruxolitinib 15 mg deux fois par jour pendant 1 an. L'évaluation associe test de marche de 6 minutes, force musculaire, échelles fonctionnelles, épreuves fonctionnelles respiratoires et IRM musculaire.",
+ "interet": "Aucun traitement de fond n'est validé dans l'IBM. Un résultat positif ouvrirait une première piste thérapeutique ciblant la voie JAK/STAT dans cette maladie.",
+ "profil": "Des adultes de 45 ans et plus atteints de myosite à inclusions sporadique, capables de marcher 6 minutes sans aide humaine.",
+ "inclusion": [
+  "Âge ≥ 45 ans",
+  "Diagnostic d'IBM selon les critères de Lloyd 2014 (faiblesse des fléchisseurs des doigts ou du quadriceps, inflammation endomysiale et fibres envahies ou vacuoles bordées à la biopsie)",
+  "Capable de marcher 6 minutes sans aide humaine (aides techniques autorisées)",
+  "Contraception efficace chez les femmes en âge de procréer",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Faiblesse du quadriceps sévère (MRC ≤ 1)",
+  "CVF ou VEMS < 50 % de la valeur théorique",
+  "Immunomodulateur concomitant ou traitement antérieur par inhibiteur de JAK",
+  "Contre-indication au ruxolitinib (anomalies lipidiques, insuffisance rénale ou hépatique, cytopénie, événement cardiovasculaire ou thromboembolique < 6 mois, cancer)",
+  "Vaccin vivant dans les 4 semaines précédant le traitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ruxolitinib",
+   "traitement": "Ruxolitinib 15 mg deux fois par jour pendant 1 an"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo pendant 1 an"
+  }
+ ],
+ "duree": "12 mois de traitement",
+ "critere": "Distance parcourue au test de marche de 6 minutes à 12 mois, comparée entre ruxolitinib et placebo"
+}

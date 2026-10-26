@@ -1,0 +1,30 @@
+{
+ "h": "31b4ebc77bc1",
+ "date": "2026-10-26",
+ "titre": "Expression membranaire de l'annexine A2 sur les monocytes dans le syndrome des antiphospholipides primaire",
+ "question": "L'expression membranaire de l'annexine A2 est-elle diminuée sur les monocytes circulants des patients atteints de syndrome des antiphospholipides, par rapport à des sujets sains ?",
+ "contexte": "L'annexine A2 (ANXA2) est un récepteur endothélial du plasminogène et de l'activateur tissulaire du plasminogène (tPA). Elle joue un rôle central dans la régulation de la fibrinolyse in vitro et in vivo, et a été identifiée comme un nouvel auto-antigène du syndrome des antiphospholipides (SAPL). Elle peut exister sous forme de monomère ou de complexe hétérotétramérique avec la protéine S100A10, et ce complexe de surface cellulaire régule la génération de plasmine.\n\nPlusieurs mécanismes sont impliqués dans le SAPL : activation des cellules endothéliales, des plaquettes et des monocytes, inhibition de la voie de la protéine C/protéine S, activation du complément et altération de la fibrinolyse. Les monocytes du sang périphérique sont les principales cellules circulantes exprimant l'ANXA2, et l'assemblage du plasminogène et du tPA sur les monocytes/macrophages contribue à la génération de plasmine. Les investigateurs du CHU d'Amiens font l'hypothèse qu'une baisse de l'expression membranaire de l'ANXA2 sur les monocytes circulants constituerait un nouveau mécanisme pathogène du SAPL. L'étude la mesure par cytométrie en flux chez des patients comparés à des sujets sains.",
+ "interet": "L'étude pourrait mettre en évidence un nouveau mécanisme de la thrombose dans le SAPL, lié à l'altération de la fibrinolyse. Elle pourrait ainsi suggérer de nouvelles pistes diagnostiques ou thérapeutiques.",
+ "profil": "Des adultes atteints de syndrome des antiphospholipides, comparés à des sujets sains.",
+ "inclusion": [
+  "Patients répondant aux critères révisés de syndrome des antiphospholipides"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Tumeur solide ou hématologique",
+  "Autre maladie auto-immune",
+  "Cirrhose"
+ ],
+ "bras": [
+  {
+   "nom": "Cas",
+   "traitement": "Patients atteints de SAPL ; prélèvement sanguin"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Sujets sains ; prélèvement sanguin"
+  }
+ ],
+ "duree": "Un prélèvement sanguin unique (délai de mesure : 1 heure)",
+ "critere": "Taux d'expression membranaire de l'ANXA2 sur les monocytes circulants des patients SAPL, mesuré par cytométrie en flux"
+}

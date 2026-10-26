@@ -1,0 +1,28 @@
+{
+ "h": "de70c2a9cb05",
+ "date": "2026-10-26",
+ "titre": "Biomarqueurs de poussée dans le lupus systémique quiescent (projet européen 3TR)",
+ "question": "Une analyse multi-omique d'échantillons biologiques permet-elle d'identifier des biosignatures prédictives de poussée chez des patients lupiques en phase quiescente ?",
+ "contexte": "L'histoire naturelle du lupus systémique (LES) alterne poussées et périodes de rémission. Les poussées s'accompagnent d'une accumulation de dommages d'organe, indépendamment des autres facteurs de risque, et contribuent à une morbidité considérable. Aucun biomarqueur utile n'est actuellement disponible pour prédire quels patients en maladie quiescente risquent de rechuter.\n\nL'étude s'inscrit dans le projet 3TR (Taxonomy, Treatment, Targets and Remission), consortium financé par l'Innovative Medicines Initiative 2 et le programme Horizon 2020 de l'Union européenne, de 2019 à 2026. 3TR réalise des analyses moléculaires multidimensionnelles longitudinales dans sept maladies auto-immunes, allergiques et inflammatoires, dont le LES. L'hypothèse est que l'analyse multi-omique identifiera des voies biologiques communes prédictives de la réponse ou de la non-réponse au traitement, malgré des phénotypes cliniques différents.\n\nCette étude (3TR SLE 1), promue par le CHU de Brest, constitue la phase « d'alimentation » avant la partie principale du projet. Les patients ont une évaluation clinique et des prélèvements (sang, urines, selles, salive, tissus selon l'atteinte) à l'inclusion puis lors de la première poussée ou à 24 mois.",
+ "interet": "Identifier des biomarqueurs de poussée permettrait de mieux stratifier le risque et d'orienter une médecine personnalisée dans le lupus. Les enseignements pourraient aussi servir à repositionner des traitements d'une maladie à l'autre.",
+ "profil": "Des adultes atteints de lupus systémique quiescent (BILAG C, D ou E uniquement).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Capacité à consentir et accord de participation",
+  "Lupus selon les critères EULAR/ACR, avec BILAG C, D ou E uniquement",
+  "Pas de restriction sur les traitements actuels ou antérieurs, sauf hydroxychloroquine (ou chloroquine) à administrer sauf contre-indication ou intolérance documentée"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Début ou intensification d'un traitement immunosuppresseur, ou prednisone équivalente > 10 mg/j dans les 30 jours avant l'inclusion",
+  "Incapacité ou impossibilité de participer à l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "LES stable ou quiescent (groupe unique)",
+   "traitement": "Évaluation clinique (BILAG, SLEDAI-2K, SLICC, qualité de vie) et prélèvements (sang, urines, selles, salive, tissus) à l'inclusion et à la première poussée ou à 24 mois"
+  }
+ ],
+ "duree": "Jusqu'à la première poussée, ou au moins 24 mois",
+ "critere": "Proportion de patients ayant présenté une poussée selon l'index BILAG à 24 mois"
+}

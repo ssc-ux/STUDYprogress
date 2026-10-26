@@ -1,0 +1,37 @@
+{
+ "h": "42cb09770967",
+ "date": "2026-10-26",
+ "titre": "Arrêt ou maintien de l'immunosuppresseur dans les vascularites à ANCA au stade de l'insuffisance rénale terminale",
+ "question": "Chez les patients atteints de vascularite à ANCA en insuffisance rénale terminale, arrêter le traitement immunosuppresseur d'entretien est-il supérieur à le maintenir sur la survie sans événement grave à 24 mois ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA, PAM) avec atteinte rénale peuvent évoluer vers l'insuffisance rénale terminale (IRT). Une fois le rein détruit, le bénéfice du traitement immunosuppresseur d'entretien pour prévenir les rechutes devient incertain, alors que ses risques, notamment infectieux et hématologiques, persistent chez des patients souvent fragiles et dialysés. Il n'existe pas à ce jour d'essai randomisé qui guide cette situation.\n\nL'hypothèse de l'étude est que l'arrêt (ou la non-instauration) de l'entretien n'expose pas à un excès de rechutes extra-rénales, tout en réduisant les complications de l'immunosuppression. Les patients sont randomisés entre arrêt du traitement d'entretien et maintien (ou instauration) d'un traitement standard (azathioprine, rituximab, mycophénolate, corticoïdes). Le critère principal est un événement grave préjudiciable, évalué sur 24 mois. Les objectifs secondaires comprennent la fréquence des rechutes majeures et mineures, des infections et des leucopénies, et la constitution d'une base de données prospective sur ces patients. L'essai, promu par le CH départemental de Vendée, est ouvert (sans aveugle).",
+ "interet": "L'étude pourrait justifier l'abandon d'un traitement d'entretien potentiellement toxique chez les patients en IRT. Elle apporterait des données prospectives sur une population peu étudiée.",
+ "profil": "Des adultes de 18 à 90 ans atteints de GPA ou PAM avec atteinte rénale, en insuffisance rénale terminale sur reins natifs.",
+ "inclusion": [
+  "Âge de 18 à 90 ans",
+  "GPA ou PAM avec atteinte rénale, première manifestation ou rechute",
+  "IRT : DFG (MDRD) ≤ 15 mL/min ou dialyse > 60 jours",
+  "IRT sur reins natifs",
+  "Consentement écrit et affiliation à la Sécurité sociale"
+ ],
+ "exclusion": [
+  "Atteinte extra-rénale sévère dans les 12 mois (hémorragie intra-alvéolaire, atteinte du système nerveux central)",
+  "Induction récente (< 3 mois) en cours pour une atteinte rénale active",
+  "Immunosuppresseur d'entretien > 6 mois dans les 12 derniers mois",
+  "Autre vascularite ou autre maladie systémique (lupus, sarcoïdose…)",
+  "Infection active par VHC, VHB ou VIH, ou infection sévère non contrôlée",
+  "Cancer ou hémopathie non contrôlés, greffe rénale",
+  "Grossesse ou absence de contraception efficace"
+ ],
+ "bras": [
+  {
+   "nom": "Arrêt de l'entretien (expérimental)",
+   "traitement": "Arrêt (ou non-instauration) du traitement immunosuppresseur d'entretien"
+  },
+  {
+   "nom": "Maintien de l'entretien (contrôle)",
+   "traitement": "Maintien (ou instauration) du traitement immunosuppresseur : azathioprine, rituximab, mycophénolate mofétil, corticoïdes"
+  }
+ ],
+ "duree": "24 mois de suivi",
+ "critere": "Délai entre l'inclusion et le premier événement grave préjudiciable, sur 24 mois de suivi"
+}

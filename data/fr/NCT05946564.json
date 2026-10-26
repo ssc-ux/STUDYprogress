@@ -1,0 +1,38 @@
+{
+ "h": "fe619de4fc34",
+ "date": "2026-10-26",
+ "titre": "Pioglitazone pour améliorer le pronostic rénal des vascularites à ANCA (essai RENATO)",
+ "question": "La pioglitazone, ajoutée au rituximab et aux corticoïdes, améliore-t-elle la fonction rénale à 26 semaines dans les vascularites à ANCA avec atteinte rénale ?",
+ "contexte": "Les vascularites à ANCA (GPA, PAM) avec glomérulonéphrite active exposent à un risque d'insuffisance rénale. Le traitement standard associe corticoïdes et rituximab, mais le pronostic rénal reste préoccupant pour une partie des patients.\n\nRENATO est un essai de phase 3 multicentrique, randomisé 1:1 en double aveugle contre placebo, promu par l'AP-HP. Il inclut des patients avec atteinte rénale prouvée par biopsie, dès le diagnostic ou en rechute. Tous reçoivent le traitement standard : rituximab 375 mg/m² par semaine pendant 4 semaines, puis 500 mg tous les 6 mois, avec des bolus de méthylprednisolone suivis d'une décroissance de prednisone selon le schéma à dose réduite de PEXIVAS. La pioglitazone 30 mg/j ou le placebo est donné pendant 26 semaines en plus. L'objectif est de démontrer que la pioglitazone réduit l'atteinte rénale, via l'amélioration précoce de la protéinurie et de la créatininémie. Les objectifs secondaires portent sur l'hypertension, les effets métaboliques des corticoïdes, l'activité de la vascularite et la tolérance.",
+ "interet": "Si l'effet est confirmé, la pioglitazone serait un traitement adjuvant néphroprotecteur simple et oral pour les vascularites à ANCA avec glomérulonéphrite. Elle pourrait aussi limiter certains effets métaboliques des corticoïdes.",
+ "profil": "Des adultes de 18 à 80 ans avec une GPA ou une PAM active et une atteinte rénale prouvée par biopsie.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "GPA ou PAM nouvellement diagnostiquée ou en rechute, active (BVAS ≥ 3)",
+  "Protéinurie (UPCR > 300 mg/g), hématurie (> 10 GR/champ) et DFG ≥ 15 mL/min/1,73 m²",
+  "Biopsie rénale récente (< 4 semaines) confirmant l'atteinte rénale active",
+  "Consentement écrit et affiliation à un régime d'assurance maladie français"
+ ],
+ "exclusion": [
+  "Hémorragie alvéolaire nécessitant une assistance ventilatoire",
+  "Granulomatose éosinophilique avec polyangéite (EGPA)",
+  "Cancer actif dans les 24 mois (hors cancer cutané non mélanome) ou antécédent de cancer de vessie ou des voies urinaires",
+  "Insuffisance cardiaque de classe 3/4, ou de classe 2 récente ou FEVG < 40 %",
+  "Transaminases > 2 fois la normale, hépatopathie chronique sévère, sérologie VIH ou VHB positive ou VHC actif",
+  "Neutropénie < 1000/mm³ ou intolérance aux thiazolidinediones ou au rituximab",
+  "Acidocétose diabétique ou risque d'œdème maculaire",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Pioglitazone",
+   "traitement": "Pioglitazone 30 mg/j per os pendant 26 semaines, avec rituximab et corticoïdes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo per os pendant 26 semaines, avec rituximab et corticoïdes"
+  }
+ ],
+ "duree": "52 semaines de suivi, dont 26 semaines de traitement",
+ "critere": "Succès à 26 semaines, défini par une variation de la créatininémie > 30 % entre J0 et S26 et un rapport protéinurie/créatininurie < 1 g/mmol"
+}

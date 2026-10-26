@@ -1,0 +1,38 @@
+{
+ "h": "c19f9fcc91a3",
+ "date": "2026-10-26",
+ "titre": "AOD versus antivitamines K dans le syndrome des antiphospholipides non à haut risque : cohorte prospective",
+ "question": "Le taux de récidive thrombotique à 24 mois diffère-t-il entre anti-Xa oraux et antivitamines K chez des patients ayant un SAPL veineux non à haut risque ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) est une maladie thrombotique qui nécessite une anticoagulation prolongée. Les anticoagulants oraux directs (AOD) sont recommandés en première intention dans la thrombose veineuse en raison de leur maniement plus simple et d'un moindre risque hémorragique, à efficacité équivalente. Dans le SAPL, les antivitamines K (AVK) restent le traitement de référence, mais les AOD sont souvent introduits en phase aiguë, avant le diagnostic. Les AVK imposent des interactions alimentaires et médicamenteuses et un suivi de l'INR au moins mensuel, et les patients sont souvent réticents à changer.\n\nChez les patients à haut risque thrombotique (triple positivité, antécédent de thrombose artérielle ou des petits vaisseaux, atteinte valvulaire cardiaque), le risque de thrombose est augmenté sous AOD versus AVK. Depuis 2020, l'ISTH suggère d'éviter les AOD dans le SAPL à haut risque, mais de les poursuivre chez les autres patients si le suivi est rassurant. Pour les SAPL non à haut risque, majoritaires, les données sont de faible niveau de preuve et contradictoires : une revue de 2020 rapporte 8,6 % de récidive à 12 mois sous AOD sans comparaison aux AVK, et une série rétrospective de 96 patients rapporte 15,4 % sous AOD contre 5,3 % sous AVK, sans différence significative (p = 0,15) faute de puissance. Cette cohorte prospective du CHRU de Nancy compare les récidives thrombotiques sous anti-Xa et sous AVK, sans modifier le traitement habituel.",
+ "interet": "L'étude pourrait éclairer le choix de l'anticoagulant au long cours dans le SAPL veineux non à haut risque, aujourd'hui sans données solides. Elle pourrait justifier de maintenir les AOD ou, au contraire, de les remplacer par des AVK dans cette population.",
+ "profil": "Des adultes ayant un SAPL veineux non à haut risque, traités par AOD anti-Xa (rivaroxaban, apixaban) ou par antivitamine K.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "SAPL avec thrombose veineuse, non favorisée par un facteur majeur ou ≥ 2 facteurs mineurs (critères ACR/EULAR 2023)",
+  "Positivité persistante à ≥ 12 semaines d'intervalle d'au moins un test (anticoagulant circulant lupique, anticardiolipine IgG ou anti-bêta-2-GPI IgG)",
+  "Premier test antiphospholipide positif dans un délai maximal de 3 ans après la thrombose",
+  "Traitement anticoagulant en cours par rivaroxaban, apixaban ou antivitamine K, quelle que soit la date d'introduction",
+  "Information et consentement oral, affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Thrombose veineuse favorisée par un facteur majeur (cancer actif, alitement ≥ 3 jours, traumatisme majeur, chirurgie sous anesthésie > 30 minutes dans les 3 mois)",
+  "Thrombose favorisée par 2 facteurs mineurs ou plus en l'absence d'antécédent de prééclampsie ou d'insuffisance placentaire",
+  "Triple positivité antiphospholipide connue ou positivité isolée des IgM",
+  "Antécédent de thrombose artérielle ou de thrombose de la microcirculation, atteinte valvulaire cardiaque liée au SAPL",
+  "Débit de filtration glomérulaire < 30 mL/min ou poids < 50 kg",
+  "Antécédent de récidive thrombotique sous anticoagulation bien conduite",
+  "Personnes privées de liberté ou protégées (articles L. 1121-5, L. 1121-7 et L. 1121-8 du code de la santé publique)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients sous AVK",
+   "traitement": "SAPL thrombotique non à haut risque traité par antivitamine K ; traitement inchangé, prélèvement sanguin supplémentaire à l'inclusion et questionnaires d'observance et de satisfaction"
+  },
+  {
+   "nom": "Patients sous AOD",
+   "traitement": "SAPL thrombotique non à haut risque traité par anti-Xa oral ; traitement inchangé, prélèvement sanguin supplémentaire à l'inclusion et questionnaires d'observance et de satisfaction"
+  }
+ ],
+ "duree": "24 mois après l'inclusion (ou jusqu'à la récidive thrombotique)",
+ "critere": "Fréquence des récidives thrombotiques dans les deux groupes, de l'inclusion à la récidive ou à 24 mois"
+}

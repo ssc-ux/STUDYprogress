@@ -1,0 +1,34 @@
+{
+ "h": "e168e51e119e",
+ "date": "2026-10-26",
+ "titre": "Signature du microbiote intestinal dans la sclérodermie systémique, suivi longitudinal",
+ "question": "La composition du microbiote intestinal de patients atteints de sclérodermie systémique diffère-t-elle de celle de témoins sains appariés, et cette signature est-elle stable dans le temps ?",
+ "contexte": "De nombreuses données expérimentales chez l'homme et l'animal suggèrent qu'un déséquilibre du microbiote intestinal pourrait contribuer à la physiopathologie des maladies auto-immunes systémiques, dont la sclérodermie systémique (ScS). L'exploration du microbiote pourrait fournir des biomarqueurs diagnostiques ou pronostiques et ouvrir la voie à des interventions visant à corriger la dysbiose. Les études publiées chez les patients ScS restent toutefois limitées.\n\nElles manquent de caractérisation clinique et biologique fine des patients et n'ont pas de suivi longitudinal chez un même patient. L'étude ScleroBiotique, monocentrique et exploratoire, est menée à l'Hôpital Européen de Marseille. Les patients ScS fournissent deux échantillons de selles, à l'inclusion puis six mois plus tard, et les témoins sains appariés sur l'âge et le sexe un échantillon. Une caractérisation clinique et biologique par les internistes ainsi qu'un entretien diététique complètent l'analyse. Les profils microbiens sont obtenus par séquençage (DADA2, Kraken) et comparés par analyse discriminante (LEfSe). Les objectifs secondaires étudient la stabilité de la signature et sa corrélation avec la sévérité (forme cutanée diffuse, atteinte pulmonaire interstitielle, atteinte digestive).",
+ "interet": "L'étude pourrait définir une signature microbienne propre à la ScS et préciser son lien avec la sévérité. Elle pourrait orienter de futures recherches sur des biomarqueurs et des stratégies visant à corriger la dysbiose.",
+ "profil": "Des adultes atteints de sclérodermie systémique et des témoins sains appariés sur l'âge et le sexe.",
+ "inclusion": [
+  "Patients : ScS selon les critères ACR",
+  "Plus de 18 ans",
+  "Consentement signé",
+  "Témoins : absence de ScS et de toute autre maladie chronique"
+ ],
+ "exclusion": [
+  "Anémie sévère (Hb < 7 g/dL)",
+  "Impossibilité de lire le français",
+  "Témoins : symptôme particulier (troubles digestifs par exemple) ou traitement au long cours pour une autre pathologie",
+  "Antibiotiques, probiotiques, prébiotiques ou autre traitement perturbant le microbiote dans les 2 mois avant le prélèvement",
+  "Femmes enceintes ou allaitantes, personnes privées de liberté, suivies en psychiatrie, mineurs, majeurs protégés"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ScS",
+   "traitement": "Deux prélèvements de selles : à l'inclusion et 6 mois plus tard"
+  },
+  {
+   "nom": "Sujets sains",
+   "traitement": "Un prélèvement de selles à l'inclusion"
+  }
+ ],
+ "duree": "6 mois de suivi (critère évalué à 7 mois)",
+ "critere": "Différences de composition du microbiote intestinal (phylum à espèce) entre patients ScS dans le temps et témoins sains, à 7 mois"
+}

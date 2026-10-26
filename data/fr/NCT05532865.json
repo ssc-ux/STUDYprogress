@@ -1,0 +1,30 @@
+{
+ "h": "e74c20640bb0",
+ "date": "2026-10-26",
+ "titre": "Cohorte prospective de sclérodermie systémique et biobanque au CHU de Brest",
+ "question": "Quelles sont les caractéristiques cliniques évolutives d'une cohorte monocentrique de patients atteints de sclérodermie systémique, avec constitution d'une biobanque ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune rare, associant vasculopathie, inflammation et fibrose cutanée et viscérale. Son évolution est hétérogène et les facteurs prédictifs de la gravité restent mal connus. Des cohortes prospectives avec données longitudinales et échantillons biologiques facilitent l'étude de cette hétérogénéité.\n\nCette cohorte descriptive monocentrique du CHU de Brest, adossée au centre de référence des maladies auto-immunes rares, inclut des adultes répondant aux critères EULAR 2013. Elle réunit des données cliniques longitudinales et des prélèvements biologiques : sang, selles et écouvillons cutanés pour l'analyse du microbiote, ainsi que des biopsies cutanées. Des questionnaires de qualité de vie, de douleur et de handicap sont également recueillis. Les paramètres suivis sur 5 ans comprennent le score de Rodnan, les ulcères digitaux actifs, la dyspnée, la DLCO, le test de marche de 6 minutes et les pressions artérielles pulmonaires systoliques. Le registre ne précise pas d'hypothèse de recherche plus spécifique.",
+ "interet": "La cohorte constitue une base de données et une biobanque utilisables pour de futures recherches sur la sclérodermie systémique, notamment sur le microbiote. Elle décrit l'évolution de la maladie en pratique réelle.",
+ "profil": "Des adultes atteints de sclérodermie systémique (critères EULAR 2013) suivis au centre de référence du CHU de Brest.",
+ "inclusion": [
+  "Adulte atteint de sclérodermie systémique selon les critères EULAR 2013",
+  "Patient évalué au centre de référence des maladies auto-immunes rares du CHU de Brest",
+  "Affiliation à la sécurité sociale",
+  "Consentement écrit signé"
+ ],
+ "exclusion": [
+  "Mineur",
+  "Patient sous protection juridique (tutelle, curatelle)",
+  "Refus de participer ou incapacité à consentir",
+  "Femme enceinte ou allaitante",
+  "Hémoglobine < 7 g/dL"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes atteints de sclérodermie systémique",
+   "traitement": "Cohorte descriptive : données cliniques, prélèvements sanguins, selles, écouvillons cutanés, biopsies cutanées et questionnaires"
+  }
+ ],
+ "duree": "5 ans",
+ "critere": "Caractéristiques démographiques, antécédents, score de Rodnan, ulcères digitaux, dyspnée, DLCO, test de marche de 6 minutes et pressions pulmonaires, suivis sur 5 ans"
+}

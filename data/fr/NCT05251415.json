@@ -1,0 +1,28 @@
+{
+ "h": "bac1da5bca31",
+ "date": "2026-10-26",
+ "titre": "Collection clinico-biologique de maladies auto-immunes systémiques (ESSAi)",
+ "question": "Peut-on constituer une collection d'échantillons biologiques et de données clinico-biologiques de patients atteints de maladies auto-immunes systémiques pour en explorer la physiopathologie ?",
+ "contexte": "Les maladies auto-immunes regroupent moins d'une centaine d'entités, le plus souvent rares, mais concernent ensemble 5 à 8 % de la population adulte, avec une forte prédominance féminine. Leur point commun est la rupture de tolérance au soi, dont les mécanismes restent incomplètement compris. Il existe en outre une grande variabilité interindividuelle, qui conduit à définir des sous-groupes selon le profil clinico-biologique et la réponse aux traitements.\n\nPour établir le diagnostic précocement et proposer le meilleur traitement dans une logique de médecine individualisée, ces sous-groupes doivent être mieux caractérisés sur les plans clinique, biologique et génétique. Le CHU de Toulouse constitue donc une collection d'échantillons biologiques et de données cliniques de patients atteints de maladies auto-immunes systémiques (lupus, sclérodermie, myosites, vascularites, entre autres). Les prélèvements sont réalisés lors du soin courant, seul le volume sanguin étant augmenté. La collection doit permettre d'identifier de nouveaux biomarqueurs et sera accessible aux communautés médicale, scientifique et industrielle.",
+ "interet": "La collection constitue une ressource pour identifier des biomarqueurs et de nouvelles stratégies thérapeutiques. Elle pourrait aussi permettre d'étudier la réponse à des traitements innovants.",
+ "profil": "Des patients de 6 à 99 ans atteints de maladies auto-immunes systémiques rares, de présentations atypiques, ou recevant des thérapies innovantes.",
+ "inclusion": [
+  "Maladie auto-immune systémique rare (lupus, sclérodermie, myosite, par exemple)",
+  "Présentation atypique d'une maladie auto-immune systémique documentée ou probable",
+  "Patient recevant ou susceptible de recevoir un traitement innovant (nouvelle molécule, thérapie génique ou cellulaire)",
+  "Âge de 6 à 99 ans"
+ ],
+ "exclusion": [
+  "Anémie connue avec hémoglobine < 10 g/dL",
+  "Patient sous mesure de protection (tutelle, curatelle)",
+  "Femme enceinte ou allaitante"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de maladie auto-immune",
+   "traitement": "Prélèvements biologiques lors du diagnostic et du suivi usuels, avec volume sanguin augmenté"
+  }
+ ],
+ "duree": "Non précisé (moyenne de 1 an jusqu'à la fin de l'étude)",
+ "critere": "Constitution d'une collection d'échantillons biologiques et de données clinico-biologiques de patients atteints de maladies auto-immunes"
+}

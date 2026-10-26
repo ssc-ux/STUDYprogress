@@ -1,0 +1,24 @@
+{
+ "h": "738462d77e4a",
+ "date": "2026-10-26",
+ "titre": "Cohorte de suivi des patients lupiques de la consultation multidisciplinaire du CHU de Brest",
+ "question": "Quels sont les profils cliniques, biologiques et immunologiques des patients atteints de lupus systémique suivis en consultation multidisciplinaire à Brest, et comment évoluent-ils dans le temps ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune complexe qui peut toucher la plupart des organes. Malgré de nombreuses recommandations sur le diagnostic et la prise en charge, ces dernières restent difficiles à appliquer en pratique, en raison de l'hétérogénéité de la maladie.\n\nUne consultation pluridisciplinaire réunissant rhumatologue, néphrologue, dermatologue, gynécologue, interniste et immunologue existe au CHU de Brest depuis 2009. Cette étude observationnelle, promue par le CHU de Brest, organise un recueil standardisé et longitudinal des données de ces patients. Elle vise à identifier les profils cliniques, biologiques et immunologiques rencontrés, à évaluer les pratiques et à étudier l'épidémiologie du LES dans la ville. Les investigateurs souhaitent aussi promouvoir cette initiative à l'échelle nationale et internationale. Le registre ne détaille pas les variables recueillies, le critère principal étant désigné comme « données de cohorte » à un an. Environ 300 patients sont attendus, avec une fin d'étude prévue en 2035.",
+ "interet": "Cette cohorte monocentrique fournira des données de vie réelle sur le LES et permettra d'évaluer les pratiques d'une consultation multidisciplinaire. Elle pourrait servir de base à des collaborations plus larges.",
+ "profil": "Des adultes suivis pour un lupus systémique à la consultation multidisciplinaire du CHU de Brest.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Patient suivi à la consultation multidisciplinaire lupus du CHU de Brest"
+ ],
+ "exclusion": [
+  "Opposition du patient"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte lupus de Brest",
+   "traitement": "Suivi longitudinal en consultation multidisciplinaire ; recueil standardisé de données, aucune intervention spécifique"
+  }
+ ],
+ "duree": "Suivi à long terme (fin d'étude prévue en 2035) ; durée par patient non précisée",
+ "critere": "Données de cohorte (profils cliniques, biologiques et immunologiques), recueillies à un an ; détail non précisé"
+}
