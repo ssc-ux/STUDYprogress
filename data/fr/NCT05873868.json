@@ -1,0 +1,31 @@
+{
+ "h": "b1b5093c01bc",
+ "date": "2026-11-02",
+ "titre": "Effets cardiaques du patisiran ou du vutrisiran dans l'amylose ATTRv avec polyneuropathie",
+ "question": "Quelles sont les conséquences morphologiques et fonctionnelles cardiaques, à 2 ans, du patisiran ou du vutrisiran chez des patients ATTRv avec polyneuropathie et forme mixte ?",
+ "contexte": "L'amylose héréditaire à transthyrétine (ATTRv) est une maladie systémique à deux expressions cliniques, neurologique et cardiaque, parfois associées dans des formes dites mixtes. Le patisiran et le vutrisiran, des petits ARN interférents qui réduisent la production hépatique de transthyrétine, ont montré un effet protecteur sur la progression des atteintes neurologiques.\n\nLeurs effets sur le cœur restent incomplètement compris. Cette étude observationnelle, promue par le CHU de Rennes, suit 20 patients ATTRv avec polyneuropathie de stade 1 ou 2 et atteinte cardiaque NYHA 1 ou 2, naïfs de traitement, pour lesquels un neurologue hospitalier a débuté patisiran ou vutrisiran. Les examens de routine (clinique, biologie, ECG, échocardiographie, IRM cardiaque, scintigraphie) sont recueillis à l'initiation, à 1 an et à 2 ans. Un questionnaire de qualité de vie, un questionnaire de dysautonomie et un test de marche sont ajoutés spécifiquement pour l'étude. Le critère principal repose sur le temps de relaxation longitudinal T1 en cartographie IRM, reflet de la composition du myocarde.",
+ "interet": "L'étude documentera l'évolution cardiaque sous silencing de la TTR dans les formes mixtes, au-delà du bénéfice neurologique déjà démontré. Ces données pourraient guider le suivi cardiologique des patients traités.",
+ "profil": "Des adultes avec une amylose ATTRv, une polyneuropathie de stade 1 ou 2 et une atteinte cardiaque NYHA 1-2, débutant le patisiran ou le vutrisiran.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ATTRv avec polyneuropathie de stade 1 ou 2",
+  "Patient non traité auparavant pour l'ATTRv",
+  "Patisiran ou vutrisiran débuté par un neurologue hospitalier, pour au moins 24 mois",
+  "Atteinte cardiaque NYHA 1 ou 2",
+  "Affiliation à la sécurité sociale, absence d'opposition"
+ ],
+ "exclusion": [
+  "Traitement simultané par tafamidis",
+  "Majeur sous protection légale ou privé de liberté",
+  "Contre-indication aux examens du protocole (claustrophobie, implant métallique incompatible avec l'IRM)",
+  "Femme en âge de procréer"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTRv traités (cohorte unique)",
+   "traitement": "Patisiran ou vutrisiran selon la pratique ; test de marche de 6 minutes, questionnaires de Kansas City et COMPASS-31 ajoutés à 1 et 2 ans"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Variation du temps de relaxation longitudinal T1 (cartographie IRM) entre l'inclusion et 24 mois"
+}

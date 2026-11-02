@@ -1,0 +1,28 @@
+{
+ "h": "9c63e39803c6",
+ "date": "2026-11-02",
+ "titre": "Tests fonctionnels des voies de l'inflammation dans les maladies auto-inflammatoires rares",
+ "question": "Des tests fonctionnels cellulaires de libération de cytokines et chimiokines permettent-ils de caractériser les variants des maladies auto-inflammatoires rares et leurs voies de l'inflammation ?",
+ "contexte": "Les maladies auto-inflammatoires correspondent à une activation inappropriée de l'immunité innée, par excès de réaction ou en l'absence de cause justifiante comme une infection. Souvent décrites à l'origine comme génétiques, héréditaires ou familiales, elles touchent préférentiellement l'enfant et l'adulte jeune, et certaines restent « non classées ». Elles se manifestent par des accès récurrents de fièvre, d'éruption cutanée et d'arthralgies, parfois avec urticaire, douleurs abdominales, aphtes ou adénopathies cervicales, toujours associés à une élévation des marqueurs inflammatoires.\n\nToutes les voies de l'inflammation impliquées ne sont pas identifiées à ce jour. Cette étude observationnelle des Hospices Civils de Lyon, non encore en cours de recrutement, vise à caractériser des variants de maladies auto-inflammatoires rares et à développer des modèles cellulaires pertinents pour étudier ces voies. L'analyse principale porte sur des tests de libération de cytokines et chimiokines, à partir d'une prise de sang réalisée à l'inclusion.",
+ "interet": "Des tests fonctionnels validés aideraient à interpréter des variants génétiques d'effet incertain. Ils pourraient aussi révéler de nouvelles voies de l'inflammation, cibles de futurs traitements.",
+ "profil": "Des enfants (dès 4 ans) et adultes atteints d'une maladie auto-inflammatoire rare.",
+ "inclusion": [
+  "Adulte avec maladie auto-inflammatoire rare ayant consenti à la recherche",
+  "Enfant de 4 à 17 ans avec maladie auto-inflammatoire rare",
+  "Enfant : absence de recherche génétique supplémentaire dans le projet",
+  "Enfant : non-opposition des parents ou tuteurs légaux"
+ ],
+ "exclusion": [
+  "Patient sous protection juridique, sauvegarde de justice ou autre mesure de protection",
+  "Infection connue par le virus de l'hépatite B ou C",
+  "Infection connue par le VIH"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec maladie auto-inflammatoire rare",
+   "traitement": "Prise de sang pour tests fonctionnels de libération de cytokines et chimiokines"
+  }
+ ],
+ "duree": "Non précisé (analyse au jour 0, à l'inclusion)",
+ "critere": "Analyse des tests de libération de cytokines et chimiokines, à l'inclusion (jour 0)"
+}

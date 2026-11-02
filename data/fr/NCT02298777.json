@@ -1,0 +1,48 @@
+{
+ "h": "5218d3c4ab5b",
+ "date": "2026-11-02",
+ "titre": "Profils métabolomiques de la sclérodermie systémique (SCLEROMICS)",
+ "question": "Les profils métabolomiques sanguins, urinaires et cutanés distinguent-ils les sclérodermies systémiques débutantes (< 3 ans) des formes établies (> 3 ans) ?",
+ "contexte": "La sclérodermie systémique débute presque toujours par une atteinte vasculaire, le phénomène de Raynaud, qui peut rester isolée pendant plusieurs années. Il n'existe pas aujourd'hui de marqueur diagnostique ou pronostique permettant de reconnaître précocement la maladie à ce stade.\n\nLa métabolomique étudie l'ensemble des métabolites d'un échantillon biologique et pourrait révéler des signatures propres aux différentes phases de la maladie. L'objectif principal est de mettre en évidence des profils discriminants entre formes débutantes et établies, pour un diagnostic précoce dès les lésions vasculaires. Les objectifs secondaires portent sur le pronostic, en étudiant le profil lors de la survenue d'une complication viscérale, et sur le diagnostic différentiel. Les profils sont comparés à ceux de la connectivite indifférenciée, du Raynaud primaire, de maladies vasculaires (diabète de type 2, maladie occlusive, antécédent d'infarctus ou d'AVC ischémique) et de témoins sains. Une analyse exploratoire compare enfin sang, urines et peau. L'étude, promue par les Hôpitaux Universitaires de Strasbourg, est de type cas-témoins et multicentrique.",
+ "interet": "L'identification de signatures métaboliques pourrait fournir de futurs biomarqueurs de diagnostic précoce et de pronostic dans la sclérodermie. Elle aiderait à repérer, parmi les patients avec Raynaud, ceux qui évolueront vers une sclérodermie systémique.",
+ "profil": "Des adultes atteints de sclérodermie systémique, de connectivite indifférenciée, de Raynaud primaire, de maladie vasculaire, et des témoins sains.",
+ "inclusion": [
+  "Sclérodermie : critères ACR/EULAR 2012 et/ou Leroy et Medsger 2001",
+  "Connectivité indifférenciée : critères de Mosca 1998",
+  "Maladie de Raynaud primaire isolée",
+  "Maladie vasculaire : diabète de type 2, maladie occlusive, antécédent d'infarctus ou d'AVC ischémique",
+  "Témoins sains sans connectivite, Raynaud ni maladie vasculaire",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Sclérodermie : critères non remplis ou autre maladie auto-immune",
+  "Connectivite indifférenciée : critères de Mosca non remplis",
+  "Raynaud : absence de maladie de Raynaud",
+  "Maladie vasculaire : absence de maladie vasculaire",
+  "Témoins sains : signe de connectivite, de Raynaud ou de maladie vasculaire"
+ ],
+ "bras": [
+  {
+   "nom": "Sclérodermie systémique (formes débutantes et établies)",
+   "traitement": "Biopsie cutanée, urines et sang à l'inclusion, et prélèvement optionnel lors d'une complication viscérale"
+  },
+  {
+   "nom": "Connectivite indifférenciée",
+   "traitement": "Biopsie cutanée, urines et sang à l'inclusion"
+  },
+  {
+   "nom": "Maladie de Raynaud",
+   "traitement": "Biopsie cutanée, urines et sang à l'inclusion"
+  },
+  {
+   "nom": "Maladie vasculaire",
+   "traitement": "Biopsie cutanée, urines et sang à l'inclusion"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Biopsie cutanée, urines et sang à l'inclusion"
+  }
+ ],
+ "duree": "Un prélèvement à l'inclusion ; suivi jusqu'à 3 ans pour les complications viscérales dans la sclérodermie",
+ "critere": "Différence de profils métabolomiques entre sclérodermies débutantes (< 3 ans) et établies (> 3 ans) à l'inclusion"
+}

@@ -1,0 +1,26 @@
+{
+ "h": "8f1e72b2d80a",
+ "date": "2026-11-02",
+ "titre": "OPTIMIST : observatoire du purpura thrombopénique immunologique dans la région de Brest",
+ "question": "Quelles sont les caractéristiques cliniques et biologiques, la chronicité et les réponses aux traitements des patients atteints de PTI suivis au CHU de Brest ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune responsable d'une thrombopénie, avec un risque hémorragique variable. Son évolution et ses réponses aux traitements sont hétérogènes, ce qui justifie des données de vie réelle.\n\nCette étude du CHU de Brest crée une base de données clinique et biologique globale de tous les patients dont le PTI est diagnostiqué, traité et suivi dans cet établissement. Le CHU de Brest est centre régional de référence (centre de compétence) pour les maladies hémorragiques. Le responsable local du centre de compétence est rattaché à la filière nationale des cytopénies auto-immunes (CERECAI-MARIH). Il s'agit d'une étude descriptive et comparative transversale. Les critères principaux portent sur la description de la chronicité et des réponses aux traitements.",
+ "interet": "Cet observatoire régional fournira des données de vie réelle sur le PTI : chronicité, réponses aux traitements, caractéristiques des patients. Il pourra servir de base à des travaux ultérieurs sur ces questions.",
+ "profil": "Des patients atteints de PTI, diagnostiqués, traités et suivis au CHU de Brest.",
+ "inclusion": [
+  "Patient atteint de PTI",
+  "Accord de participation"
+ ],
+ "exclusion": [
+  "Thrombopénie autre que le PTI",
+  "Patient sous tutelle",
+  "Patient sans sécurité sociale nationale"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTI",
+   "traitement": "Recueil de données cliniques et biologiques, sans intervention spécifique"
+  }
+ ],
+ "duree": "Non précisé (critères évalués à 1 an)",
+ "critere": "Description de la chronicité et des réponses aux traitements, à 1 an"
+}

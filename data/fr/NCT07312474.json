@@ -1,0 +1,24 @@
+{
+ "h": "416ac0a57e2f",
+ "date": "2026-11-02",
+ "titre": "Cas d'anaplasmose humaine en Alsace : caractéristiques épidémiologiques, cliniques et biologiques",
+ "question": "Quelles sont les caractéristiques épidémiologiques, cliniques et biologiques des cas d'anaplasmose humaine diagnostiqués en Alsace, et quelle est leur mortalité ?",
+ "contexte": "L'anaplasmose granulocytaire est une infection due à la bactérie intracellulaire Anaplasma phagocytophilum, transmise par les tiques. Elle est présente chez environ 1 % des tiques en Alsace. Les formes les plus fréquentes sont modérées, avec fièvre, céphalées et myalgies 2 à 3 semaines après la piqûre.\n\nDes complications graves, parfois mortelles, sont possibles : cytopénies sévères, syndrome de détresse respiratoire aiguë, choc septique, atteintes neurologiques, manifestations hémorragiques, syndrome d'activation macrophagique et défaillance multiviscérale. La mortalité varie selon les séries et paraît plus élevée dans les études américaines, autour de 4 %. Le traitement par doxycycline est bien établi et très efficace.\n\nEn France, seuls des cas isolés ou de courtes séries ont été décrits, alors que la Belgique, la Pologne et la Slovénie rapportent de nombreux cas. Cette étude rétrospective multicentrique du CHU de Strasbourg vise à combler ce manque de données dans une région à forte prévalence de maladies transmises par les tiques. Elle inclut des adultes avec une infection à Anaplasma confirmée par PCR.",
+ "interet": "Mieux décrire les cas locaux aiderait les cliniciens à évoquer le diagnostic plus tôt, notamment devant une fièvre avec cytopénies après exposition aux tiques. Un traitement par doxycycline pourrait ainsi être débuté sans retard.",
+ "profil": "Des adultes avec une anaplasmose humaine confirmée par PCR en Alsace.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Infection à Anaplasma confirmée par PCR"
+ ],
+ "exclusion": [
+  "Refus de participer à l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Cas d'anaplasmose",
+   "traitement": "Cohorte rétrospective de cas confirmés par PCR, sans intervention"
+  }
+ ],
+ "duree": "Rétrospectif, sans visite dédiée (suivi jusqu'à 12 ans)",
+ "critere": "Mortalité des cas d'anaplasmose humaine en Alsace (jusqu'à 12 ans)"
+}

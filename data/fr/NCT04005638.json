@@ -1,0 +1,28 @@
+{
+ "h": "1334c8ac759f",
+ "date": "2026-11-02",
+ "titre": "BIOCAI : biobanque des patients suivis pour cytopénie auto-immune au CHU de Bordeaux",
+ "question": "Une biobanque de patients atteints de cytopénies auto-immunes peut-elle être constituée pour soutenir des projets de recherche translationnelle ?",
+ "contexte": "Le service de médecine interne de l'hôpital Haut-Lévêque (CHU de Bordeaux) est centre de référence constitutif des cytopénies auto-immunes depuis 2017. Il suit environ 350 patients avec un purpura thrombopénique immunologique (PTI), 50 avec une anémie hémolytique auto-immune (AHAI) et une trentaine avec une neutropénie auto-immune ou une érythroblastopénie, avec environ 50 nouveaux patients par an.\n\nL'équipe travaille sur les anomalies de la mégacaryopoïèse dans un sous-groupe de PTI (unité INSERM U1034), et sur le rôle des lymphocytes T CD8+ régulateurs et de l'interleukine-2 à faible dose dans l'AHAI (unité CNRS UMR 5164). Cette étude met en place une biobanque de sérum, plasma et ADN, issue de prélèvements de sang et d'urine. La collection sera ouverte à des projets de recherche fondamentale et pourra l'être à l'industrie pharmaceutique pour le développement de nouvelles molécules. Elle s'inscrit dans une stratégie « du lit du malade à la paillasse ».",
+ "interet": "La biobanque n'a pas d'effet direct sur la prise en charge, mais elle fournira du matériel biologique pour des projets de recherche translationnelle sur les cytopénies auto-immunes. Elle pourrait faciliter l'identification de mécanismes et de cibles thérapeutiques.",
+ "profil": "Des patients atteints de cytopénie auto-immune (PTI, AHAI, neutropénie auto-immune) suivis au centre de référence de Bordeaux.",
+ "inclusion": [
+  "Âge supérieur à 16 ans (le registre indique aussi un âge minimal de 18 ans)",
+  "Cytopénie auto-immune selon les définitions du PNDS 2017",
+  "Affiliation à un régime de sécurité sociale",
+  "Consentement écrit signé"
+ ],
+ "exclusion": [
+  "Sérologie VIH, VHC ou VHB positive",
+  "Femme enceinte ou allaitante",
+  "Patient en cours de traitement pour la cytopénie auto-immune"
+ ],
+ "bras": [
+  {
+   "nom": "Cytopénie auto-immune",
+   "traitement": "Prélèvement de sang et d'urine pour la biobanque"
+  }
+ ],
+ "duree": "Non précisé (prélèvement à l'inclusion)",
+ "critere": "Nombre de patients avec cytopénie auto-immune au diagnostic, ou suivis sans traitement, dont les échantillons sont conservés (sérum, plasma, ADN), à l'inclusion"
+}

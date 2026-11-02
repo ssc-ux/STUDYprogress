@@ -1,0 +1,37 @@
+{
+ "h": "adedd933da35",
+ "date": "2026-11-02",
+ "titre": "Arrêt de l'infliximab versus poursuite chez des patients atteints de sarcoïdose en rémission",
+ "question": "Chez des patients atteints de sarcoïdose en rémission sous infliximab, arrêter le traitement est-il moins efficace que le poursuivre pour maintenir la rémission à 12 mois ?",
+ "contexte": "Dans la sarcoïdose sévère réfractaire aux immunosuppresseurs conventionnels, l'infliximab, anti-TNF alpha, constitue une option de troisième ligne. La durée optimale du traitement n'est pas connue, et il a été suggéré que le taux de rechute après l'arrêt pourrait être élevé. Les auteurs font l'hypothèse qu'une prolongation du traitement anti-TNF maintiendrait mieux la rémission.\n\nCet essai de phase 3 français, promu par l'AP-HP (Pitié-Salpêtrière), est prospectif, randomisé 1:1, en ouvert, en groupes parallèles, de supériorité. Il compare une stratégie d'arrêt de l'infliximab (STOP), avec relais par méthotrexate ou azathioprine, à une stratégie de poursuite (REMAIN) associée à un immunosuppresseur. Les patients inclus ont une sarcoïdose prouvée histologiquement, sont traités par infliximab et en rémission depuis au moins 6 mois avec au plus 10 mg/j de prednisone. Seuls les patients sous infliximab sont inclus pour homogénéiser la population. L'étude apportera des données randomisées sur une question aujourd'hui tranchée surtout par l'expérience.",
+ "interet": "Les résultats guideraient la durée du traitement par infliximab dans la sarcoïdose réfractaire en rémission. Ils pourraient permettre d'éviter une exposition prolongée à un anti-TNF, ou au contraire de justifier son maintien.",
+ "profil": "Des adultes atteints de sarcoïdose prouvée, en rémission depuis au moins 6 mois sous infliximab.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sarcoïdose avec granulomes non caséeux dans au moins un organe",
+  "Infliximab depuis au moins 6 mois",
+  "Corticoïdes ≤ 10 mg/j depuis au moins 6 mois",
+  "Absence d'activité de la maladie (score ePOST 0) depuis au moins 6 mois",
+  "ECA et calcémie normales"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "IGRA positif sans traitement antituberculeux préalable",
+  "Infection active",
+  "Insuffisance cardiaque modérée à sévère (NYHA III/IV)",
+  "Atteinte hépatique ou rénale sévère",
+  "Cancer dans les 5 ans (hors cancer cutané non mélanome)"
+ ],
+ "bras": [
+  {
+   "nom": "Bras REMAIN",
+   "traitement": "Poursuite de l'infliximab 3 à 5 mg/kg toutes les 4 à 8 semaines, méthotrexate 7,5-10 mg/semaine (ou azathioprine 1 mg/kg/j), corticoïdes ≤ 10 mg/j"
+  },
+  {
+   "nom": "Bras STOP",
+   "traitement": "Arrêt de l'infliximab, méthotrexate 0,3 mg/kg/semaine (ou azathioprine 2 mg/kg/j), corticoïdes ≤ 10 mg/j"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Comparaison des deux stratégies de maintien de la rémission après infliximab, à 12 mois"
+}

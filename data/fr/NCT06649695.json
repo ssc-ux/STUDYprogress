@@ -1,0 +1,33 @@
+{
+ "h": "24c18bfe2baf",
+ "date": "2026-11-02",
+ "titre": "Teclistamab dans l'amylose AL déjà traitée",
+ "question": "Le teclistamab, anticorps bispécifique anti-BCMA, permet-il d'obtenir une réponse hématologique complète dans l'amylose AL préalablement traitée ?",
+ "contexte": "L'amylose AL est due à la production par un clone plasmocytaire de chaînes légères d'immunoglobuline qui se déposent sous forme de fibrilles dans les organes, notamment le cœur et les reins. Le traitement vise à éradiquer le clone et repose sur des schémas empruntés au myélome, associant daratumumab, bortézomib et dexaméthasone en première ligne. Les patients en rechute ou réfractaires après ces traitements ont peu d'options, en particulier lorsque l'atteinte cardiaque limite la tolérance.\n\nLe teclistamab est un anticorps bispécifique qui engage les lymphocytes T contre BCMA, antigène exprimé à la surface des plasmocytes ; il est déjà utilisé dans le myélome multiple en rechute. Le rationnel est d'obtenir dans l'amylose AL une réponse hématologique profonde, condition d'une amélioration de la fonction d'organe. Cet essai de phase 2 à bras unique, promu par l'European Myeloma Network avec le soutien de Janssen, inclut des adultes en rechute après au moins une ligne comprenant daratumumab et bortézomib, avec atteinte cardiaque de stade Mayo I à IIIA. Le CHU de Limoges (Pr Roussel) participe à l'étude.",
+ "interet": "Si le taux de réponse complète est élevé, le teclistamab pourrait devenir une option de rattrapage dans l'amylose AL en rechute, situation aujourd'hui peu codifiée. L'étude renseignera aussi sur la faisabilité du traitement chez des patients fragiles avec atteinte cardiaque.",
+ "profil": "Des adultes avec une amylose AL en rechute après au moins une ligne de traitement incluant daratumumab et bortézomib.",
+ "inclusion": [
+  "Amylose AL prouvée histologiquement et typée",
+  "Statut OMS/ECOG 0 à 2",
+  "Atteinte cardiaque de stade Mayo I à IIIA",
+  "Au moins une ligne antérieure incluant daratumumab et bortézomib",
+  "Maladie hématologique mesurable (dFLC > 20 mg/L avec ratio κ/λ anormal, ou pic monoclonal ≥ 0,5 g/dL)",
+  "Fonction médullaire et d'organe adéquate (clairance de la créatinine ≥ 20 mL/min)"
+ ],
+ "exclusion": [
+  "Traitement antérieur ciblant BCMA, y compris bispécifiques",
+  "Amylose non AL",
+  "Atteinte limitée aux tissus mous ou syndrome isolé (canal carpien, purpura)",
+  "Myélome multiple selon les critères IMWG (hors MGUS ou myélome indolent non traité)",
+  "Autre hémopathie maligne nécessitant un traitement",
+  "Atteinte cardiaque de stade Mayo IIIB"
+ ],
+ "bras": [
+  {
+   "nom": "Teclistamab (bras unique)",
+   "traitement": "Teclistamab par voie sous-cutanée"
+  }
+ ],
+ "duree": "Environ 3 mois de traitement pour le critère principal ; durée totale de suivi non précisée",
+ "critere": "Taux de réponse hématologique complète, de l'inclusion jusqu'à 3 cycles de traitement (environ 3 mois)"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "96739044d780",
+ "date": "2026-11-02",
+ "titre": "Thérapie génique pour le déficit immunitaire combiné sévère par mutation d'Artemis (DCLRE1C)",
+ "question": "Une greffe de cellules CD34+ autologues transduites par un vecteur lentiviral exprimant DCLRE1C est-elle sûre et efficace dans le DICS par déficit en Artemis ?",
+ "contexte": "Le déficit immunitaire combiné sévère (DICS) par mutation biallélique du gène DCLRE1C (Artemis) est une maladie rare, mortelle sans traitement. Le traitement de référence est la greffe allogénique de cellules souches hématopoïétiques, qui suppose un donneur HLA génoidentique ou un donneur compatible disponible rapidement. Chez les enfants sans tel donneur, ou avec des infections menaçantes qui ne permettent pas d'attendre, une alternative est nécessaire.\n\nLa thérapie génique consiste à prélever les cellules CD34+ du patient, à les transduire ex vivo avec un vecteur lentiviral auto-inactivé exprimant le gène Artemis (G2ARTE), puis à les réinjecter en dose unique après conditionnement. Cette étude de phase 1/2 en ouvert, à bras unique, promue par l'AP-HP, évalue d'abord la sécurité : mortalité liée à la greffe, absence de lentivirus compétent pour la réplication, absence de mutagenèse insertionnelle. Elle évalue aussi l'efficacité par la reconstitution immunitaire, c'est-à-dire l'expression d'Artemis, le nombre et le répertoire des lymphocytes T et le compartiment B. Le suivi long terme atteint 15 ans.",
+ "interet": "En cas de résultats favorables, la thérapie génique pourrait devenir une option pour les enfants atteints de DICS Artemis sans donneur compatible rapidement disponible. Elle éviterait les risques de la greffe allogénique, notamment la maladie du greffon contre l'hôte.",
+ "profil": "Des nourrissons et jeunes enfants (jusqu'à 47 mois) avec un DICS par mutations biallélique d'Artemis, sans donneur HLA compatible rapidement disponible.",
+ "inclusion": [
+  "Âge jusqu'à 47 mois",
+  "DICS avec mutations bialléliques d'Artemis (DCLRE1C), y compris formes à activité résiduelle",
+  "Pas de donneur HLA génoidentique ni de donneur compatible disponible sous 6 semaines",
+  "Possibilité d'une thérapie génique sans délai en cas d'infection menaçante",
+  "Affiliation à la sécurité sociale",
+  "Consentement signé des parents ou du tuteur"
+ ],
+ "exclusion": [
+  "Refus ou impossibilité de se présenter au suivi (2 ans puis suivi long terme)",
+  "Infection par le VIH-1/2 ou HTLV-1",
+  "Hypersensibilité au G-CSF, au busulfan ou à la fludarabine",
+  "Impossibilité de tolérer l'anesthésie générale, le prélèvement de cellules souches ou la pose d'un cathéter central"
+ ],
+ "bras": [
+  {
+   "nom": "Médicament ARTEGENE",
+   "traitement": "Dose unique de cellules CD34+ autologues transduites par le vecteur lentiviral G2ARTE exprimant DCLRE1C"
+  }
+ ],
+ "duree": "Suivi jusqu'à 15 ans",
+ "critere": "Incidence de la mortalité liée à la greffe à 100 jours et à 6 mois (sécurité), avec de nombreux critères secondaires d'expression du transgène et de reconstitution immunitaire"
+}

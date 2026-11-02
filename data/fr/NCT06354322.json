@@ -1,0 +1,36 @@
+{
+ "h": "b0f5ec9467c0",
+ "date": "2026-11-02",
+ "titre": "Variants de signification inconnue dans les maladies auto-inflammatoires non classées et l'amylose AA",
+ "question": "L'étude physiopathologique des variants de signification inconnue permet-elle d'établir leur pathogénicité chez des patients avec maladie auto-inflammatoire non classée ou amylose AA d'étiologie indéterminée ?",
+ "contexte": "Les maladies auto-inflammatoires se traduisent par des épisodes récurrents d'inflammation systémique, avec élévation non spécifique des marqueurs inflammatoires sanguins, habituellement absente entre les accès. Leur complication redoutée est l'amylose AA, qui peut conduire à l'insuffisance rénale et à la dialyse. Les progrès de la génétique ont permis d'identifier de nouvelles maladies auto-inflammatoires et donc de nouvelles voies physiopathologiques.\n\nLes analyses génétiques aboutissent cependant parfois à des variants de signification inconnue (VSI), pour lesquels le séquençage seul ne permet pas de dire si la mutation explique les symptômes. Seule l'étude physiopathologique de ces variants peut lever cette limite diagnostique. Cette étude cas-témoins multicentrique nationale, promue par l'AP-HP (médecine interne de l'hôpital Tenon, en lien avec des services pédiatriques de Versailles et de Necker), explore la pathogénicité des VSI. Des prélèvements sanguins sont réalisés lors des soins (24 mL au maximum par période de 6 mois), et une biopsie cutanée peut être faite en cas d'atteinte cutanée.",
+ "interet": "L'étude pourrait permettre de classer des variants génétiques aujourd'hui ininterprétables. Elle améliorerait le diagnostic des maladies auto-inflammatoires non classées et de certaines amyloses AA inexpliquées.",
+ "profil": "Des enfants (dès 3 ans) et adultes avec maladie auto-inflammatoire non classée ou amylose AA d'étiologie indéterminée, comparés à des témoins.",
+ "inclusion": [
+  "Patient adulte avec consentement libre et éclairé, ou mineur avec accord des deux parents ou tuteurs",
+  "Maladie auto-inflammatoire non classée ou amylose AA d'étiologie indéterminée",
+  "Patient suivi dans un des services de l'étude",
+  "Poids supérieur à 15 kg",
+  "Témoins : maladie auto-inflammatoire classée selon des critères internationaux, chirurgie esthétique ou donneur de sang"
+ ],
+ "exclusion": [
+  "Incapacité à donner un consentement libre et éclairé",
+  "Personne sous tutelle, curatelle ou sauvegarde de justice",
+  "Personne ne parlant pas français",
+  "Personne incapable de répondre aux questions ou de s'exprimer",
+  "Poids inférieur à 15 kg",
+  "Absence de couverture sociale"
+ ],
+ "bras": [
+  {
+   "nom": "Patients à étudier",
+   "traitement": "Prélèvements sanguins (et biopsie cutanée éventuelle) pour l'étude des variants"
+  },
+  {
+   "nom": "Patients témoins",
+   "traitement": "Prélèvements sanguins, comparaison avec les patients"
+  }
+ ],
+ "duree": "Jusqu'à 4 ans",
+ "critere": "Exploration des variants de signification inconnue dans les maladies auto-inflammatoires, jusqu'à 4 ans"
+}

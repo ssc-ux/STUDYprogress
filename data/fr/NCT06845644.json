@@ -1,0 +1,41 @@
+{
+ "h": "f1004d61adc4",
+ "date": "2026-11-02",
+ "titre": "IRM neuromusculaire quantitative longitudinale dans les neuropathies acquises et héréditaires",
+ "question": "L'IRM neuromusculaire quantitative détecte-t-elle sur un an la progression de la fraction graisseuse intramusculaire chez des patients atteints de neuropathie héréditaire ou acquise ?",
+ "contexte": "Dans les neuropathies, le remplacement graisseux du muscle (fraction graisseuse, FG) est un processus physiopathologique commun. L'IRM permet de distinguer muscle et graisse et d'objectiver in vivo les modifications des nerfs et des muscles. L'IRM quantitative fournit en plus plusieurs biomarqueurs : FG, rapport de transfert d'aimantation, densité de protons, temps de relaxation T2 de l'eau et volume 3D.\n\nPlusieurs stratégies thérapeutiques sont en cours d'évaluation dans les maladies du système nerveux périphérique, mais les scores cliniques et électrophysiologiques détectent mal les changements précoces ou un effet thérapeutique. Dans la maladie de Charcot-Marie-Tooth (CMT), l'IRM quantitative est le seul outil ayant montré une variation longitudinale significative sur un an, avec une hausse moyenne de la FG de +1,5 % aux membres inférieurs.\n\nCette étude de l'AP-HM vise à confirmer ces résultats et à les étendre aux neuropathies amyloïdes héréditaires (ATTR-PN) et aux neuropathies démyélinisantes acquises (PIDC, anti-MAG). Elle prévoit une étude standardisée à un an de ces trois groupes. La segmentation manuelle est le principal frein à l'utilisation clinique, que l'intelligence artificielle pourrait lever.",
+ "interet": "Un biomarqueur d'imagerie sensible sur un an serait précieux pour les essais thérapeutiques dans les neuropathies. Il permettrait de détecter plus tôt un effet du traitement que les scores cliniques.",
+ "profil": "Des adultes de 18 à 80 ans avec une neuropathie CMT, une neuropathie à transthyrétine ou une neuropathie démyélinisante acquise.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "CMT génétiquement confirmée",
+  "Ou neuropathie démyélinisante acquise typique (PIDC, anti-MAG)",
+  "Ou mutation pathogène du gène de la transthyrétine confirmée",
+  "Consentement libre",
+  "Affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Comorbidité ou antécédent d'une autre neuropathie périphérique",
+  "Abus d'alcool ou de substances psychoactives",
+  "Contre-indication à l'IRM (claustrophobie, stimulateur, implants métalliques…)",
+  "Incapacité à réaliser l'IRM en raison d'un handicap sévère",
+  "Période d'exclusion d'un autre protocole de recherche",
+  "Personnes protégées (mineurs, tutelle, privés de liberté, grossesse, allaitement) ou ne maîtrisant pas le français"
+ ],
+ "bras": [
+  {
+   "nom": "Maladie de Charcot-Marie-Tooth",
+   "traitement": "IRM neuromusculaire quantitative"
+  },
+  {
+   "nom": "Neuropathie amyloïde héréditaire (ATTR-PN)",
+   "traitement": "IRM neuromusculaire quantitative, détail non précisé"
+  },
+  {
+   "nom": "Neuropathie démyélinisante acquise",
+   "traitement": "IRM neuromusculaire quantitative"
+  }
+ ],
+ "duree": "1 an (IRM à l'inclusion puis à un an)",
+ "critere": "Progression annuelle de la fraction graisseuse intramusculaire entre l'inclusion et un an"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "6a181461ce5b",
+ "date": "2026-11-02",
+ "titre": "Facteurs de risque d'échec du traitement immunosuppresseur de première ligne dans l'uvéite chronique non infectieuse",
+ "question": "Quels facteurs sont associés à l'échec d'un immunosuppresseur de première ligne après quelques mois dans les uvéites chroniques non infectieuses avec atteinte postérieure ?",
+ "contexte": "L'uvéite est une inflammation de l'uvée, 4e cause de cécité légale dans le monde et 3e cause de cécité évitable. Elle n'est pas rare, avec une incidence de 17 à 52 pour 100 000 habitants et une prévalence de 38 à 204 pour 100 000.\n\nEn cas de corticodépendance, on propose habituellement un immunosuppresseur conventionnel, dont l'efficacité est estimée à environ 70 %, les biothérapies, jugées plus efficaces (plus de 90 %), n'étant disponibles qu'en seconde ligne. Les facteurs d'échec de ce traitement de première ligne, comme l'épaisseur maculaire, le sexe ou le déficit en vitamine D, sont peu étudiés. Pour les rechutes, l'origine ethnique et le tabagisme sont des facteurs de risque connus. Cette étude de cohorte du CHU d'Amiens-Picardie vise à identifier les facteurs de risque d'échec après trois mois d'immunosuppresseur de première ligne chez des adultes ayant une uvéite chronique non infectieuse avec atteinte du segment postérieur.",
+ "interet": "Identifier précocement les patients à risque d'échec d'un immunosuppresseur conventionnel pourrait permettre de recourir plus tôt à une biothérapie. Les résultats resteront à confirmer, l'étude étant monocentrique.",
+ "profil": "Des adultes avec une uvéite chronique non infectieuse comportant une atteinte postérieure, nécessitant un immunosuppresseur.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Uvéite nécessitant un traitement immunosuppresseur",
+  "Au moins une atteinte postérieure selon la classification SUN (postérieure, intermédiaire et postérieure, antérieure et postérieure, ou panuvéite)"
+ ],
+ "exclusion": [
+  "Uvéite associée à une sclérose en plaques ou à un lupus",
+  "Atteinte oculaire de la maladie de Behçet nécessitant une biothérapie d'emblée",
+  "Uvéite sans atteinte du segment postérieur",
+  "Uvéite infectieuse",
+  "Opposition à l'utilisation des données personnelles"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte d'uvéite chronique non infectieuse",
+   "traitement": "Patients sous immunosuppresseur de première ligne, suivis pour l'échec thérapeutique à 4 mois"
+  }
+ ],
+ "duree": "4 mois",
+ "critere": "Nombre d'échecs thérapeutiques à 4 mois"
+}

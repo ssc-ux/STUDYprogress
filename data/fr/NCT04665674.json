@@ -1,0 +1,27 @@
+{
+ "h": "d3ea0cab6356",
+ "date": "2026-11-02",
+ "titre": "Cohorte nationale prospective de l'histiocytose langerhansienne pulmonaire de l'adulte",
+ "question": "Quel est le pronostic à long terme, notamment la survie, des adultes atteints d'histiocytose langerhansienne pulmonaire, et quels en sont les facteurs de risque ?",
+ "contexte": "L'histiocytose langerhansienne pulmonaire (HLP) de l'adulte est une maladie rare, liée au tabagisme dans la majorité des cas. Elle se traduit au scanner thoracique par un aspect nodulo-kystique typique. Son évolution est variable, de la régression spontanée à l'insuffisance respiratoire.\n\nLe devenir à long terme des patients, en particulier leur survie, est largement inconnu. Cette étude promue par l'AP-HP est présentée comme la première étude prospective à évaluer les issues à long terme de la HLP. Elle repose sur un registre national français porté par le centre de référence des histiocytoses. Elle inclut les adultes dont le diagnostic est confirmé par biopsie, ou posé sur l'association d'un tableau clinique compatible, d'un aspect nodulo-kystique typique au scanner et de l'exclusion des diagnostics différentiels. La taille de la cohorte et la durée du suivi doivent permettre d'analyser les facteurs de risque d'évolution défavorable.",
+ "interet": "Cette cohorte pourrait fournir des données de référence sur la survie et l'évolution de la HLP de l'adulte. Elle pourrait aussi identifier des facteurs pronostiques utiles pour adapter le suivi.",
+ "profil": "Des adultes de 18 ans ou plus avec une histiocytose langerhansienne pulmonaire nouvellement diagnostiquée, suivis au centre national de référence des histiocytoses.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "HLP confirmée histologiquement sur une biopsie, ou",
+  "Tableau clinique compatible associé à un aspect nodulo-kystique typique au scanner haute résolution",
+  "Exclusion des diagnostics différentiels",
+  "Diagnostic posé à l'âge adulte et patient adressé au centre national de référence"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec HLP",
+   "traitement": "Prise en charge habituelle, suivi prospectif"
+  }
+ ],
+ "duree": "Suivi prolongé (critère évalué à 20 ans)",
+ "critere": "Survie globale à 20 ans"
+}

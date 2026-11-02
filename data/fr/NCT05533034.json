@@ -1,0 +1,31 @@
+{
+ "h": "4da7388ea350",
+ "date": "2026-11-02",
+ "titre": "Programme personnalisé de réhabilitation respiratoire à domicile dans la sclérodermie systémique débutante",
+ "question": "Un programme de réhabilitation respiratoire personnalisé à domicile est-il faisable chez des patients atteints de sclérodermie systémique avec atteinte pulmonaire débutante ?",
+ "contexte": "La sclérodermie systémique réduit l'espérance de vie, et le pronostic dépend de l'atteinte viscérale. L'atteinte pulmonaire interstitielle, l'hypertension artérielle pulmonaire et l'atteinte cardiaque sont les trois principales causes de mortalité. La réhabilitation fonctionnelle a une place reconnue dans la maladie, comme l'a confirmé l'expertise collective de l'Inserm de 2019. Elle vise à prévenir ou réduire les déficiences cutanées, buccales, cardiorespiratoires et musculosquelettiques, ainsi que le déconditionnement, la fatigue, l'anxiété et la dépression.\n\nDans la fibrose pulmonaire idiopathique, les recommandations conseillent la réhabilitation respiratoire en cas de limitation notable à l'effort. L'intérêt d'un programme spécifique à la sclérodermie reste à démontrer. Avant un essai d'efficacité, cette étude pilote de l'AP-HP (hôpital Cochin) évalue la faisabilité et optimise le contenu d'un programme à domicile. Après une séance supervisée en rééducation ambulatoire, les patients suivent pendant 3 mois des exercices personnalisés (respiratoires, aérobies, renforcement musculaire), avec suivi par montre connectée. La faisabilité est jugée sur l'adhésion, le fardeau thérapeutique et les effets indésirables.",
+ "interet": "Si le programme est faisable et bien accepté, il pourra être testé dans un essai d'efficacité. Il offrirait alors une option non médicamenteuse accessible à domicile pour limiter le retentissement respiratoire de la sclérodermie.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie systémique avec atteinte pulmonaire débutante (CVF > 70 %).",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Atteinte pulmonaire avec CVF > 70 % aux EFR",
+  "Âge de 18 à 65 ans"
+ ],
+ "exclusion": [
+  "Ne comprenant pas le français",
+  "Grossesse ou allaitement",
+  "Hypertension artérielle pulmonaire > 35 mmHg avec dyspnée inexpliquée, ou > 40 mmHg",
+  "Atteinte musculosquelettique majeure incompatible avec l'activité physique",
+  "Autre maladie pulmonaire diminuant la CVF",
+  "ECG pathologique",
+  "Saturation en oxygène < 90 % au repos ou à l'effort"
+ ],
+ "bras": [
+  {
+   "nom": "Exercices à domicile (bras unique)",
+   "traitement": "1 séance supervisée (exercices respiratoires, aérobies, renforcement musculaire), puis programme personnalisé à domicile pendant 3 mois, suivi par montre connectée"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Faisabilité à 3 mois : perdus de vue, questionnaires non remplis, activité aérobie enregistrée, exercices rapportés, adhésion (EARS), fardeau thérapeutique (ETBQ) et effets indésirables"
+}

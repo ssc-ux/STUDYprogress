@@ -1,0 +1,36 @@
+{
+ "h": "3dc3ac8d1c3c",
+ "date": "2026-11-02",
+ "titre": "Anticoagulation préventive prolongée dans l'anémie hémolytique auto-immune",
+ "question": "Une anticoagulation préventive prolongée pendant la période à risque de 12 semaines réduit-elle la survenue d'événements thromboemboliques veineux au cours d'une anémie hémolytique auto-immune (AHAI) ?",
+ "contexte": "L'anémie hémolytique auto-immune est une maladie rare dans laquelle des auto-anticorps détruisent les globules rouges. Au-delà de l'anémie, elle expose à un risque élevé de maladie thromboembolique veineuse (MTEV), estimé à 20-27 % dans le registre, avec un risque multiplié par 7,5 par rapport à la population générale. Ce risque est maximal pendant la phase d'hémolyse, surtout les trois premiers mois après le diagnostic, et aucun facteur prédictif clinique fiable n'a été identifié.\n\nLe PNDS recommande une prévention de la MTEV lors des poussées d'hémolyse (grade C), mais l'intérêt de cette prophylaxie n'a jamais été évalué prospectivement et sa durée est empirique. En pratique, une HBPM est surtout utilisée pendant l'hospitalisation, rarement poursuivie ensuite, alors que les événements surviennent aussi chez les patients ambulatoires. L'hypothèse est qu'une prophylaxie prolongée sur les 12 semaines suivant le diagnostic ou la rechute diminuerait l'incidence de MTEV. Un tel bénéfice a été démontré avec l'apixaban dans certains contextes à haut risque (cancers solides, myélome) et en chirurgie orthopédique. Cet essai de phase 2 randomisé, promu par le CHU de Dijon, compare une stratégie prolongée à la prise en charge standard.",
+ "interet": "Si la prophylaxie prolongée réduit les événements thromboemboliques, elle pourrait être intégrée aux recommandations de prise en charge de l'AHAI, aujourd'hui fondées sur un avis d'experts. L'étude précisera aussi la durée utile de la prévention.",
+ "profil": "Des adultes avec une AHAI primaire ou secondaire, nouvellement diagnostiquée ou en rechute.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AHAI primaire ou secondaire : hémoglobine < 12 g/dL, haptoglobine < 0,4 g/L et test de Coombs direct positif",
+  "Diagnostic récent ou rechute",
+  "Espérance de vie > 6 mois",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "MTEV symptomatique déjà documentée",
+  "Anticoagulation curative en cours (MTEV, fibrillation atriale) ou double antiagrégation",
+  "Saignement actif ou lésion à risque hémorragique",
+  "Contre-indication à l'apixaban ou à l'énoxaparine (thrombopénie < 100 G/L, DFG < 30 mL/min, hépatopathie active, HIT)",
+  "AHAI à agglutinines froides",
+  "Hospitalisation en réanimation, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe intervention",
+   "traitement": "Anticoagulation préventive prolongée sur la période à risque de 12 semaines (molécule et dose non précisées dans le registre)"
+  },
+  {
+   "nom": "Groupe standard",
+   "traitement": "Prise en charge standard (prophylaxie habituelle), détail non précisé"
+  }
+ ],
+ "duree": "24 semaines après la randomisation",
+ "critere": "Survenue d'une MTEV clinique (thrombose veineuse profonde ou embolie pulmonaire) à 24 semaines"
+}

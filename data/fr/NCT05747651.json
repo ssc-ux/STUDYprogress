@@ -1,0 +1,28 @@
+{
+ "h": "602f0c3cb2b9",
+ "date": "2026-11-02",
+ "titre": "Biomarqueurs de réponse au traitement dans le lupus actif (projet européen 3TR)",
+ "question": "Des signatures multi-omiques peuvent-elles prédire la réponse ou la non-réponse au traitement à 52 semaines chez des patients atteints de lupus systémique actif ?",
+ "contexte": "Le lupus systémique évolue par poussées alternant avec des périodes de rémission. Les poussées contribuent à l'accumulation de dommages d'organe, indépendamment des autres facteurs de risque, et pèsent lourdement sur la morbidité. Il n'existe pas aujourd'hui de biomarqueur utilisable en pratique pour prédire la réponse au traitement ou le risque de poussée.\n\nCette étude s'inscrit dans le consortium européen 3TR (Taxonomy, Treatment, Targets and Remission), financé par l'IMI2 et le programme Horizon 2020, qui étudie sept maladies auto-immunes, allergiques et inflammatoires dont le lupus. L'hypothèse est qu'une analyse multi-omique longitudinale identifiera des voies biologiques communes, prédictives de la réponse thérapeutique malgré des phénotypes cliniques différents. Il s'agit du second volet lupus (3TR SLE 2), prospectif, consacré aux biomarqueurs de réponse, après un premier volet consacré aux biomarqueurs de poussée. Les patients ont un suivi clinique régulier avec prélèvements biologiques multiples (sang, urines, salive, selles, tissus), et des visites supplémentaires en cas de changement majeur de traitement. L'étude explore aussi l'effet des anticorps anti-SARS-CoV-2 sur les poussées et la réponse aux immunomodulateurs. Elle est promue par le CHU de Brest.",
+ "interet": "Identifier des biosignatures de réponse permettrait à terme de mieux choisir le traitement du lupus actif et d'envisager une médecine personnalisée. Les résultats pourraient aussi suggérer des repositionnements thérapeutiques grâce aux voies partagées avec d'autres maladies auto-immunes.",
+ "profil": "Des adultes atteints de lupus systémique actif (atteinte articulaire, cutanée, rénale ou neuropsychiatrique) sous traitement de fond stable.",
+ "inclusion": [
+  "Âge ≥ 18 ans et consentement",
+  "Lupus systémique selon les critères EULAR/ACR",
+  "Au moins une atteinte active : arthrite ou atteinte cutanée (BILAG A ou B), néphrite lupique active prouvée par biopsie (classe III, IV ou V), ou atteinte du système nerveux central avec nouveau traitement",
+  "Traitement standard stable depuis au moins 30 jours, dont hydroxychloroquine sauf contre-indication ou intolérance"
+ ],
+ "exclusion": [
+  "Activité sérologique isolée sans signe clinique de maladie active",
+  "Grossesse ou allaitement",
+  "Incapacité ou impossibilité de participer à l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus actif (cohorte unique)",
+   "traitement": "Suivi clinique et prélèvements biologiques (sang, urines, salive, selles, tissus) ; pas d'intervention thérapeutique propre à l'étude"
+  }
+ ],
+ "duree": "52 semaines, avec évaluations supplémentaires à +26 et +52 semaines en cas de changement majeur de traitement",
+ "critere": "Réponse BICLA (composite d'activité du lupus) à 52 semaines par rapport à l'inclusion"
+}

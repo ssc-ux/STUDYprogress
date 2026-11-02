@@ -1,0 +1,39 @@
+{
+ "h": "6a0015dbb7ce",
+ "date": "2026-11-02",
+ "titre": "Bélimumab sous-cutané ajouté au rituximab dans le PTI persistant ou chronique",
+ "question": "L'ajout du bélimumab sous-cutané au rituximab améliore-t-il le taux de réponse à 52 semaines dans le PTI persistant ou chronique de l'adulte, par rapport au placebo ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune médiée par des lymphocytes B autoréactifs et des anticorps anti-plaquettes. En France, environ 4 000 nouveaux cas sont diagnostiqués chaque année. En première ligne, la corticothérapie, seule ou avec des immunoglobulines IV, est le traitement standard si les plaquettes sont < 30 G/L ou en cas de saignement. Environ deux tiers des répondeurs rechutent à l'arrêt des corticoïdes et la maladie devient chronique dans environ 70 % des cas.\n\nLe rituximab (anti-CD20) est utilisé hors AMM en deuxième ligne dans le PTI persistant ou chronique, avec un taux de réponse global de seulement 40 % à 1 an et de 29,5 % de réponses durables (5 ans et plus). Les investigateurs ont montré que l'absence de réponse pourrait s'expliquer par l'installation de plasmocytes autoréactifs à longue durée de vie dans la rate, favorisée par un taux élevé de BAFF. Le bélimumab, anticorps anti-BAFF/BLyS, a l'AMM dans le lupus. Une étude pilote de phase 2 menée par l'équipe, associant bélimumab IV et rituximab, a donné des résultats préliminaires jugés prometteurs. Cet essai de phase 3 randomisé en double aveugle (AP-HP, avec GSK) teste la supériorité de cette association.",
+ "interet": "Si l'association est supérieure au rituximab seul, elle pourrait augmenter les réponses durables au rituximab dans le PTI. Elle offrirait une option de deuxième ligne fondée sur un rationnel physiopathologique (inhibition de BAFF).",
+ "profil": "Des adultes avec un PTI primaire persistant ou chronique, ayant répondu puis rechuté après corticoïdes et/ou IgIV.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire selon les critères standard (Rodeghiero 2008)",
+  "Réponse antérieure aux corticoïdes et/ou IgIV puis rechute",
+  "Plaquettes ≤ 30 G/L dans le mois précédent (ou < 50 G/L si saignement)",
+  "Ancienneté du PTI de plus de 2 mois et de moins de 5 ans",
+  "Gammaglobulines ≥ 7 g/L et schéma vaccinal complet contre le SARS-CoV-2",
+  "Contraception efficace et test de grossesse négatif chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Splénectomie",
+  "Traitement antérieur par rituximab ou autre thérapie ciblant les lymphocytes B",
+  "Déficit immunitaire commun variable",
+  "Traitement antérieur par cyclophosphamide ou ciclosporine",
+  "Infection sévère en cours ou VIH, VHC, VHB positifs",
+  "Neutrophiles < 1000/mm3 ou insuffisance rénale (créatinine > 2 mg/dL)",
+  "IMC > 40, grossesse ou allaitement, risque suicidaire"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A",
+   "traitement": "Bélimumab 200 mg sous-cutané chaque semaine pendant 24 semaines + rituximab 1 g IV à J7 et J21"
+  },
+  {
+   "nom": "Bras B",
+   "traitement": "Placebo sous-cutané chaque semaine pendant 24 semaines + rituximab 1 g IV à J7 et J21"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Taux de réponse globale (réponse complète + réponse) à la semaine 52"
+}

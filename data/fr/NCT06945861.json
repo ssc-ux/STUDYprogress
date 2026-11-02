@@ -1,0 +1,40 @@
+{
+ "h": "12ff3e70af7e",
+ "date": "2026-11-02",
+ "titre": "Lymphocytes B et T spécifiques d'ADAMTS13 dans le purpura thrombotique thrombocytopénique",
+ "question": "Peut-on caractériser les lymphocytes B mémoire et T auto-réactifs spécifiques d'ADAMTS13 au cours du PTT et identifier des paramètres prédictifs de rechute ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique (PTT) associe thrombopénie profonde, anémie hémolytique et atteinte d'organes (cardiaque, neurologique, rénale). Le traitement repose sur les échanges plasmatiques, la corticothérapie, le rituximab et le caplacizumab, un nanobody dirigé contre le domaine A1 du facteur von Willebrand. Malgré cela, la mortalité reste d'environ 10 % et le taux de rechute de 40 à 50 %.\n\nLes acteurs cellulaires qui produisent les auto-anticorps anti-ADAMTS13 sont encore mal connus. Une réponse B mémoire de haute affinité nécessite la coopération de lymphocytes T, notamment les T folliculaires auxiliaires, impliqués dans d'autres maladies auto-immunes à auto-anticorps mais peu étudiés dans le PTT. Ce projet monocentrique du CHU de Rouen explore ces populations à la phase aiguë, en rémission, en cas de réfractarité et à la rechute. Les auteurs attendent la présence de lymphocytes B mémoire spécifiques d'ADAMTS13 au diagnostic et leur déplétion après rituximab. L'objectif final est d'identifier des marqueurs phénotypiques ou fonctionnels précoces de rechute pour personnaliser le traitement.",
+ "interet": "Une meilleure compréhension immunologique du PTT pourrait fournir des biomarqueurs prédictifs de rechute. Ils aideraient à adapter le traitement d'entretien, notamment le rituximab préemptif.",
+ "profil": "Des adultes atteints de PTT, à tout stade (phase aiguë, rémission, rechute), suivis en médecine interne au CHU de Rouen.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTT à tout stade : phase aiguë, rémission durable ou non, rechute",
+  "Patient suivi en médecine interne au CHU de Rouen",
+  "Information reçue et comprise",
+  "Affiliation à un régime de sécurité sociale"
+ ],
+ "exclusion": [
+  "Personne privée de liberté par décision administrative ou judiciaire",
+  "Personne sous protection juridique (tutelle, curatelle)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1",
+   "traitement": "PTT en phase aiguë, avant tout traitement"
+  },
+  {
+   "nom": "Groupe 2",
+   "traitement": "Rémission durable avec activité ADAMTS13 > 10 %"
+  },
+  {
+   "nom": "Groupe 3",
+   "traitement": "Rémission avec activité ADAMTS13 < 10 %, avant traitement préemptif"
+  },
+  {
+   "nom": "Groupe 4",
+   "traitement": "Patients en rechute, avant traitement"
+  }
+ ],
+ "duree": "12 mois (visites à l'inclusion, M3, M6 et M12)",
+ "critere": "Présence de lymphocytes T et B auto-réactifs circulants, à l'inclusion, M3, M6 et M12"
+}

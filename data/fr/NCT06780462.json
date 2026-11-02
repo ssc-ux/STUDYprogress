@@ -1,0 +1,38 @@
+{
+ "h": "86f4f185ac71",
+ "date": "2026-11-02",
+ "titre": "Corticoïdes avec ou sans anticoagulant dans la thrombose veineuse profonde de la maladie de Behçet",
+ "question": "L'ajout d'un anticoagulant (rivaroxaban) aux corticoïdes améliore-t-il le taux de succès à 6 mois de la thrombose veineuse profonde de la maladie de Behçet, par rapport aux corticoïdes seuls ?",
+ "contexte": "Dans la maladie de Behçet, la thrombose veineuse profonde (TVP) est considérée comme la conséquence d'une inflammation de la paroi vasculaire plutôt que d'une hypercoagulabilité. L'atteinte vasculaire est une cause majeure de morbidité et de mortalité, et le syndrome post-thrombotique est fréquent, surtout en cas de récidive, avec des ulcères de jambe difficiles à traiter.\n\nL'intérêt des anticoagulants dans cette situation est l'une des questions les plus débattues de la prise en charge. Ils exposent à un risque hémorragique sérieux, notamment chez les patients porteurs d'anévrismes artériels associés, mais de nombreux médecins les utilisent encore. Cette étude de phase 3 promue par l'AP-HP est présentée comme la première randomisée et prospective comparant des corticoïdes associés à un anticoagulant à des corticoïdes seuls. Elle inclut 134 patients dans 17 centres français, en simple aveugle. Le bras expérimental reçoit les corticoïdes avec du rivaroxaban, le bras comparateur les corticoïdes seuls. Elle comparera aussi le profil de tolérance des deux schémas.",
+ "interet": "Les résultats pourraient valider ou infirmer l'usage des anticoagulants dans la TVP de la maladie de Behçet. Ils éclaireraient la décision en pesant le bénéfice attendu contre le risque hémorragique.",
+ "profil": "Des adultes atteints de maladie de Behçet avec une première thrombose veineuse profonde ou une récidive, confirmée à l'imagerie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Maladie de Behçet selon les critères internationaux",
+  "TVP initiale ou récidivante confirmée par imagerie (échographie, angioscanner ou angio-IRM)",
+  "Consentement écrit",
+  "Femme en âge de procréer : test de grossesse négatif et contraception efficace",
+  "Affiliation à un régime de sécurité sociale"
+ ],
+ "exclusion": [
+  "Autre indication d'anticoagulation (fibrillation atriale, par exemple)",
+  "Saignement actif ou risque hémorragique contre-indiquant les anticoagulants",
+  "Thrombose superficielle isolée",
+  "Grossesse ou allaitement",
+  "Anticoagulation depuis plus de 4 semaines avant l'inclusion",
+  "Insuffisance rénale chronique sévère (clairance < 30 mL/min/1,73 m²) ou insuffisance hépatique avec coagulopathie, ou plaquettes < 50 x 10³/mm³",
+  "Contre-indication aux corticoïdes ou au rivaroxaban"
+ ],
+ "bras": [
+  {
+   "nom": "Corticoïdes et rivaroxaban",
+   "traitement": "Corticoïdes associés à un anticoagulant oral direct (rivaroxaban), doses non précisées"
+  },
+  {
+   "nom": "Corticoïdes seuls",
+   "traitement": "Corticoïdes seuls, doses non précisées"
+  }
+ ],
+ "duree": "6 mois (critère principal)",
+ "critere": "Taux de succès à 6 mois (définition non précisée dans le registre)"
+}

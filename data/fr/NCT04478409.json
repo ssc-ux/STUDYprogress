@@ -1,0 +1,35 @@
+{
+ "h": "cf5b9442f03f",
+ "date": "2026-11-02",
+ "titre": "Test fonctionnel de dépistage de la fièvre méditerranéenne familiale (DEPIST-FMF 2)",
+ "question": "Un test fonctionnel mesurant l'interleukine-1β après activation de la pyrine permet-il de distinguer les patients atteints de FMF des sujets sains et selon leur génotype MEFV ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est la maladie auto-inflammatoire la plus fréquente, avec une prévalence de 1 à 5 pour 10 000 habitants. Elle est due à des mutations du gène MEFV, qui code la pyrine, composant d'un inflammasome produisant des cytokines pro-inflammatoires comme l'interleukine-1β.\n\nLe diagnostic s'appuie sur la clinique et l'analyse génétique, mais l'interprétation des variants peut être difficile, notamment pour les génotypes de pathogénicité incertaine. Les résultats préliminaires de l'équipe montrent qu'in vitro, l'activation de l'inflammasome pyrine par des inhibiteurs de kinases, mesurée par la concentration d'IL-1β, est nettement plus élevée chez les patients que chez les sujets sains. Une mesure de la mort cellulaire a aussi permis de différencier patients et témoins.\n\nCe test fonctionnel rapide et simple a déjà été testé sur les mutations les plus courantes. Cette étude des Hospices Civils de Lyon vise à préciser ses caractéristiques pour l'ensemble des mutations MEFV. L'hypothèse est qu'il peut servir d'outil diagnostique et discriminer quantitativement les patients selon leur génotype. Il est réalisé sur un prélèvement sanguin supplémentaire, ajouté à une prise de sang prévue en soins courants, sans changement de la prise en charge.",
+ "interet": "Un test fonctionnel validé aiderait au diagnostic de la FMF, notamment quand l'analyse génétique est difficile à interpréter. Il pourrait aussi aider à classer les génotypes de pathogénicité incertaine.",
+ "profil": "Des enfants (dès 4 ans) et des adultes atteints de FMF avec au moins une mutation MEFV pathogène ou possiblement pathogène, comparés à des donneurs de sang sains.",
+ "inclusion": [
+  "Enfant de 4 ans ou plus, ou adulte",
+  "Tableau clinique compatible avec une FMF et au moins une mutation MEFV pathogène ou possiblement pathogène",
+  "Diagnostic récent ou patient en suivi, sans limite de durée d'évolution",
+  "Avec ou sans traitement de la maladie",
+  "Prise de sang prévue en soins courants",
+  "Non-opposition recueillie (ou parentale pour un mineur)"
+ ],
+ "exclusion": [
+  "Personne sous protection juridique ou autre mesure de protection",
+  "Personne hors d'état d'exprimer son consentement",
+  "Personne en situation d'urgence",
+  "Infection connue par le VIH, le VHB ou le VHC"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants ou adultes avec FMF",
+   "traitement": "Un prélèvement sanguin supplémentaire de 4 mL (enfant de moins de 12 ans) ou 10 mL (à partir de 12 ans et adulte) lors d'une prise de sang prévue"
+  },
+  {
+   "nom": "Donneurs de sang sains",
+   "traitement": "Groupe témoin de donneurs de sang sains"
+  }
+ ],
+ "duree": "Un prélèvement à l'inclusion",
+ "critere": "Concentration d'interleukine-1β à l'inclusion"
+}

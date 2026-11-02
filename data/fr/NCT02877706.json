@@ -1,0 +1,25 @@
+{
+ "h": "05f4789943ad",
+ "date": "2026-11-02",
+ "titre": "CARMEN : registre français des adultes avec PTI et anémie hémolytique auto-immune",
+ "question": "Quelles sont les caractéristiques, l'évolution et la balance bénéfice-risque en vie réelle des traitements chez les adultes atteints de PTI ou d'AHAI en France ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) et l'anémie hémolytique auto-immune (AHAI) sont des cytopénies auto-immunes de l'adulte dont les traitements ont beaucoup évolué, avec l'arrivée d'agonistes du récepteur de la thrombopoïétine, de rituximab et d'autres molécules. Les données de vie réelle sur leur utilisation et leur tolérance restent limitées.\n\nCARMEN est un registre national, promu par le CHU de Toulouse, qui inclut les adultes ayant un diagnostic incident de PTI ou d'AHAI en France. Il inclut aussi les patients débutant le fostamatinib. Il vise à décrire les caractéristiques cliniques de ces maladies, à évaluer en vie réelle le rapport bénéfice-risque des traitements et à mesurer l'adhésion aux recommandations. Aucune intervention spécifique n'est prévue. Les critères principaux sont l'incidence et l'évolution naturelle avec les événements survenus au suivi.",
+ "interet": "Ce registre peut documenter l'incidence, l'histoire naturelle et la tolérance des traitements du PTI et de l'AHAI en France. Il peut aussi mesurer l'écart entre pratiques et recommandations, ce qui est utile pour les cliniciens.",
+ "profil": "Des adultes avec un PTI ou une AHAI nouvellement diagnostiqué en France, ou débutant le fostamatinib.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI ou AHAI nouvellement diagnostiqué, ou",
+  "Initiation du fostamatinib"
+ ],
+ "exclusion": [
+  "Opposition à la collecte des données"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTI ou AHAI",
+   "traitement": "Aucune intervention spécifique ; prise en charge habituelle, suivi observationnel"
+  }
+ ],
+ "duree": "Non précisé (suivi prolongé au registre)",
+ "critere": "Incidence du PTI et de l'AHAI, et évolution naturelle avec événements, à l'inclusion et au suivi"
+}

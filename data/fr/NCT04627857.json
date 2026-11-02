@@ -1,0 +1,45 @@
+{
+ "h": "111ebd244e94",
+ "date": "2026-11-02",
+ "titre": "Dispositifs d'hygiène bucco-dentaire spécifiques et santé gingivale dans la sclérodermie systémique",
+ "question": "L'usage d'une brosse à dents sonique et d'un jet dentaire améliore-t-il l'indice de plaque, par rapport à une brosse manuelle, chez des patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique associe fibrose diffuse, vasculopathie et anomalies immunologiques. La sphère oro-faciale est touchée chez environ 80 % des patients, avec un retentissement important sur la qualité de vie. La microstomie, la sécheresse buccale et l'atteinte des mains rendent le brossage manuel difficile, ce qui favorise la plaque dentaire et les atteintes gingivales.\n\nDes dispositifs adaptés, comme une brosse à dents sonique à manche large ou un jet dentaire, pourraient faciliter une hygiène efficace. Leur intérêt n'a toutefois pas été démontré dans cette population. Cette étude randomisée en simple aveugle, promue par les Hôpitaux Universitaires de Strasbourg (service de parodontologie), compare à un brossage manuel standard trois stratégies : brosse manuelle avec jet dentaire, brosse sonique seule, brosse sonique avec jet dentaire. Elle a été arrêtée avant son terme, avec 20 patients inclus. Le critère principal est l'évolution de l'indice de plaque aux semaines 2 et 4.",
+ "interet": "Si ces dispositifs améliorent l'indice de plaque, ils pourraient être recommandés dans la prise en charge bucco-dentaire de la sclérodermie. Il s'agirait d'une mesure simple et peu coûteuse pour préserver la santé gingivale et la qualité de vie.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée, avec plus de 12 dents naturelles évaluables.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie systémique avec atteinte cutanée (critères ACR et LeRoy)",
+  "Plus de 12 dents naturelles évaluables",
+  "Affiliation à un régime de protection sociale",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Sclérodermie localisée ou systémique sans atteinte cutanée",
+  "Moins de 12 dents évaluables ou prothèse dentaire complète",
+  "Autre maladie chronique évolutive ou auto-immune (diabète…)",
+  "Utilisation actuelle d'une brosse sonique ou d'un jet dentaire",
+  "Antiseptiques buccaux (chlorhexidine) ou traitement modifiant l'état gingival",
+  "Tabagisme ≥ 10 cigarettes par jour",
+  "Handicap manuel sévère empêchant de tenir une brosse à manche large"
+ ],
+ "bras": [
+  {
+   "nom": "Bras 1 : brosse manuelle (comparateur)",
+   "traitement": "Brossage manuel standard"
+  },
+  {
+   "nom": "Bras 2 : brosse manuelle et jet dentaire",
+   "traitement": "Brosse manuelle et jet dentaire (Philips Sonicare AirFloss Ultra)"
+  },
+  {
+   "nom": "Bras 3 : brosse sonique",
+   "traitement": "Brosse à dents sonique"
+  },
+  {
+   "nom": "Bras 4 : brosse sonique et jet dentaire",
+   "traitement": "Brosse sonique (Philips Sonicare ProtectiveClean) et jet dentaire (AirFloss)"
+  }
+ ],
+ "duree": "4 semaines",
+ "critere": "Évolution de l'indice de plaque entre l'inclusion, la semaine 2 et la semaine 4"
+}

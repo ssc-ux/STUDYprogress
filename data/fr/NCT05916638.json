@@ -1,0 +1,33 @@
+{
+ "h": "c9ca017c5e09",
+ "date": "2026-11-02",
+ "titre": "Rôle des monocytes et macrophages dans la sarcoïdose, comparée à la tuberculose",
+ "question": "Existe-t-il, dans la sarcoïdose, une signature d'activation des monocytes et macrophages qui explique la formation et l'entretien du granulome, par rapport à la tuberculose ?",
+ "contexte": "La sarcoïdose est une maladie inflammatoire systémique caractérisée par des granulomes épithélioïdes sans nécrose caséeuse, pouvant toucher tous les organes, avec une atteinte pulmonaire prédominante. Son diagnostic repose sur un tableau clinique compatible, la présence de granulomes non nécrosants et l'exclusion d'autres granulomatoses. Elle ressemble à la tuberculose, où le granulome est déclenché par Mycobacterium tuberculosis, ce qui complique le diagnostic différentiel, la prise en charge et le traitement.\n\nLes facteurs qui favorisent la formation, le maintien et l'évolution du granulome restent mal connus. Les lymphocytes T CD4 Th1 et Th17 et les monocytes-macrophages (profils M1 pro-inflammatoire et M2 pro-fibrosant) y participent. Les auteurs formulent l'hypothèse que le granulome repose sur une suractivation des monocytes et macrophages, avec un rôle possible de l'immunité entraînée, de la persistance antigénique ou du microenvironnement. Cette étude de l'AP-HP (hôpital Bichat) compare des patients atteints de sarcoïdose à des patients tuberculeux : signature systémique sur sang total, puis in situ sur tissu (cytométrie spectrale, RNA-seq, cytométrie de masse par imagerie), et étude de l'épigénome des monocytes. Les corticoïdes restent aujourd'hui la base du traitement.",
+ "interet": "Mieux comprendre la physiopathologie de la sarcoïdose pourrait ouvrir la voie à de nouvelles stratégies thérapeutiques. L'étude pourrait aussi remettre en question la frontière entre immunité innée/auto-inflammation et immunité adaptative/auto-immunité.",
+ "profil": "Des adultes atteints de sarcoïdose ou de tuberculose, suivis à l'hôpital Bichat.",
+ "inclusion": [
+  "Hommes et femmes de plus de 18 ans",
+  "Diagnostic de sarcoïdose ou de tuberculose",
+  "Affiliation à l'assurance maladie"
+ ],
+ "exclusion": [
+  "Infection par le VIH",
+  "Femme enceinte ou allaitante",
+  "Patient sous protection juridique, tutelle ou curatelle",
+  "Absence de consentement signé",
+  "Exclusion secondaire : autre cause de granulomatose finalement identifiée"
+ ],
+ "bras": [
+  {
+   "nom": "Sarcoïdose",
+   "traitement": "Prélèvement sanguin, analyses de la signature monocytes-macrophages"
+  },
+  {
+   "nom": "Tuberculose",
+   "traitement": "Prélèvement sanguin, analyses de la signature monocytes-macrophages"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois de suivi",
+ "critere": "Activation des monocytes et macrophages dans la sarcoïdose (épigénomique, transcriptomique spatiale, transcriptomique, cytokines), jusqu'à 12 mois"
+}

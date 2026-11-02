@@ -1,0 +1,33 @@
+{
+ "h": "87e41c68fff6",
+ "date": "2026-11-02",
+ "titre": "Réserve de flux myocardique en SPECT dans l'amylose cardiaque à TTR avant tafamidis",
+ "question": "La SPECT à détecteurs CZT permet-elle de mesurer un flux sanguin myocardique et une réserve de flux altérés dans l'amylose cardiaque à TTR, et le tafamidis les modifie-t-il ?",
+ "contexte": "Des douleurs angineuses et des signes d'ischémie sont rapportés chez certains patients atteints d'amylose cardiaque à TTR, en l'absence de sténose coronaire épicardique obstructive. Une dysfonction microvasculaire coronaire a été décrite comme très fréquente dans cette maladie. Dans une étude en TEP au 13N portant sur 21 patients, les investigateurs ont observé un flux myocardique de repos et de stress et une réserve de flux myocardique abaissés.\n\nLes progrès de la SPECT à détecteurs CZT permettent d'estimer ces mêmes paramètres, comme l'ont montré des modèles animaux et des études cliniques comparatives à la TEP. La SPECT est plus largement disponible que la TEP cardiaque. Cette étude, promue par le CHR d'Orléans, vise à confirmer en SPECT les résultats de Dorbala et al. puis à évaluer l'effet du tafamidis sur la dysfonction microvasculaire. Le protocole de scintigraphie de perfusion est modifié pour mesurer les flux, sans irradiation supplémentaire. Quatre centres français participent (Orléans, Angers, Caen, Tours).",
+ "interet": "Si la SPECT permet de mesurer la réserve de flux dans l'ATTR, cet examen plus accessible que la TEP pourrait documenter la microangiopathie coronaire de la maladie. L'étude pourrait aussi apporter un indice de l'effet du tafamidis sur cette atteinte.",
+ "profil": "Des adultes de 18 à 90 ans avec une cardiomyopathie amyloïde à TTR confirmée, pour lesquels un traitement par tafamidis est prévu.",
+ "inclusion": [
+  "18 à 90 ans, francophone",
+  "Cardiomyopathie amyloïde à TTR (sauvage ou héréditaire) confirmée",
+  "Insuffisance cardiaque, syncope ou bradyarythmie avec ECG et/ou IRM évocateurs",
+  "Scintigraphie osseuse de grade 2 ou 3 et bilan biologique négatif pour une atteinte AL, ou biopsie positive",
+  "Intention de traiter par tafamidis"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque non liée à l'amylose TTR ou NYHA IV",
+  "Amylose AL",
+  "Antécédent de greffe hépatique ou cardiaque",
+  "DFG < 25 mL/min/1,73 m² ou transaminases > 2 fois la normale",
+  "Antécédent coronarien : infarctus, revascularisation, sténose épicardique sévère",
+  "Contre-indication au test de stress pharmacologique (hypotension sévère, BAV de 2e ou 3e degré, sténose carotidienne)",
+  "Traitement antérieur par tafamidis ou patisiran, ticagrélor, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe SPECT de perfusion myocardique (bras unique)",
+   "traitement": "SPECT de perfusion modifiée pour mesurer le flux et la réserve de flux myocardiques, à dose de traceur inchangée"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Différence entre flux myocardique de stress et de repos, et rapport flux de stress/flux de repos, à 24 mois"
+}

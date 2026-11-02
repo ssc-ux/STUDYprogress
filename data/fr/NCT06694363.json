@@ -1,0 +1,33 @@
+{
+ "h": "e08887499212",
+ "date": "2026-11-02",
+ "titre": "Biomarqueurs pour dépister et suivre le syndrome APDS sous inhibiteur de PI3Kδ",
+ "question": "Quels biomarqueurs sanguins permettent de suivre les patients atteints d'un syndrome APDS avant et pendant un traitement par léniolisib ?",
+ "contexte": "Les syndromes de PI3Kδ activée (APDS de type 1 et 2) sont des déficits immunitaires combinés dus à des mutations gain de fonction de PIK3CD (ou PIK3R1). Ils débutent le plus souvent dans l'enfance, avec des manifestations parfois sévères, une auto-immunité associée et un risque élevé de tumeurs, surtout de lymphomes B. La greffe de cellules souches hématopoïétiques est le seul traitement curatif, avec une mortalité de 10 à 20 % et sans garantie de réversibilité des atteintes d'organes.\n\nLe léniolisib, inhibiteur sélectif de PI3Kδ, a atteint ses critères co-principaux dans une étude de phase 2/3 (réduction de la taille des ganglions, augmentation des lymphocytes B naïfs), avec une bonne tolérance. Il est en cours d'évaluation par l'EMA et accessible en usage compassionnel dès 12 ans. Cette étude de cohorte de l'AP-HP compare des échantillons biologiques à plusieurs temps, avant et sous léniolisib, avec un phénotypage de pointe (PBMC, plasma, ARN, ADN). Un suivi attentif est aussi nécessaire pour détecter les effets indésirables d'une sur-inhibition de la voie PI3K.",
+ "interet": "Des biomarqueurs validés faciliteraient le suivi de la réponse au léniolisib et la détection précoce d'une toxicité. L'étude ne modifie pas le traitement, mais elle pourrait aider à standardiser le suivi des patients APDS.",
+ "profil": "Des patients de 12 ans et plus avec un APDS génétiquement confirmé, traités ou devant être traités par léniolisib.",
+ "inclusion": [
+  "APDS de type 1 ou 2 confirmé génétiquement",
+  "Groupe 1 : traitement par léniolisib prévu, ou nouveau variant pathogène de PIK3CD/PIK3R1",
+  "Groupe 2 : déjà traité par léniolisib depuis moins de 2 ans, avec échantillons pré-traitement analysables",
+  "Âge ≥ 12 ans",
+  "Absence d'opposition du patient ou des détenteurs de l'autorité parentale",
+  "Affiliation à un régime d'assurance maladie"
+ ],
+ "exclusion": [
+  "Greffe de moelle osseuse",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1, début de traitement",
+   "traitement": "10 patients APDS devant débuter le léniolisib ; prélèvements de sang, d'urines et de selles"
+  },
+  {
+   "nom": "Groupe 2, déjà sous traitement",
+   "traitement": "4 patients APDS déjà traités par léniolisib ; mêmes prélèvements"
+  }
+ ],
+ "duree": "24 mois (prélèvements à J0, M3, M6, M12, M18 et M24)",
+ "critere": "Biomarqueurs biologiques à J0, 3, 6, 12, 18 et 24 mois de traitement"
+}

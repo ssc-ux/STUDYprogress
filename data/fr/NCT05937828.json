@@ -1,0 +1,34 @@
+{
+ "h": "ef61b2dfaa9f",
+ "date": "2026-11-02",
+ "titre": "OBS'CEREVANCE : cohorte nationale des cytopénies auto-immunes de début pédiatrique",
+ "question": "Quels sont le profil, l'évolution à long terme et la balance bénéfice-risque des traitements des cytopénies auto-immunes débutant dans l'enfance ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) et l'anémie hémolytique auto-immune (AHAI) sont des maladies rares de l'enfant, résultant de la destruction auto-immune des plaquettes et des globules rouges. Elles peuvent s'associer au syndrome d'Evans, plus rare encore. Des manifestations immunopathologiques (lymphoprolifération, atteintes auto-immunes ou auto-inflammatoires d'organes) peuvent apparaître au cours du suivi, parfois absentes au diagnostic.\n\nLe centre de référence national CEREVANCE coordonne depuis 2004 une cohorte nationale prospective de vie réelle, qui comptait plus de 1 900 patients en mai 2023. Elle repose sur la collaboration de 30 centres français d'hématologie pédiatrique. Cette base de données non sélectionnée doit permettre de décrire la santé à long terme des patients devenus adultes et d'identifier les contextes génétiques sous-jacents. Elle doit aussi étudier le rapport bénéfice-risque des traitements, dont les thérapies ciblées. Le promoteur est le CHU de Bordeaux.",
+ "interet": "Cette cohorte peut éclairer l'histoire naturelle des cytopénies auto-immunes pédiatriques, leur transition vers l'âge adulte et l'identification de causes génétiques. Elle fournira aussi des données de vie réelle sur les traitements, utiles pour les internistes qui reçoivent ces patients à l'âge adulte.",
+ "profil": "Des enfants et adolescents (début avant 18 ans) atteints de PTI, d'AHAI ou de syndrome d'Evans, suivis dans les centres français.",
+ "inclusion": [
+  "Diagnostic de PTI, d'AHAI ou de syndrome d'Evans",
+  "Début avant l'âge de 18 ans",
+  "Suivi dans un des centres français d'hématologie pédiatrique"
+ ],
+ "exclusion": [
+  "Opposition du représentant légal à la collecte des données",
+  "Opposition du patient à la collecte des données"
+ ],
+ "bras": [
+  {
+   "nom": "PTI",
+   "traitement": "Recueil de données, critères de l'International Working Group"
+  },
+  {
+   "nom": "AHAI",
+   "traitement": "Recueil de données (Hb < 110 g/L, test direct à l'antiglobuline positif et critère d'hémolyse)"
+  },
+  {
+   "nom": "Syndrome d'Evans",
+   "traitement": "Recueil de données (association d'au moins deux cytopénies auto-immunes, simultanée ou séquentielle)"
+  }
+ ],
+ "duree": "Suivi prolongé, jusqu'en 2029",
+ "critere": "Contexte de la cytopénie auto-immune, évalué à l'inclusion"
+}

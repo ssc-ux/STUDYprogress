@@ -1,0 +1,32 @@
+{
+ "h": "fb645b918409",
+ "date": "2026-11-02",
+ "titre": "Rôle des lymphocytes T innés dans la physiopathologie de la sclérodermie systémique",
+ "question": "Les lymphocytes T innés circulants sont-ils quantitativement et fonctionnellement altérés dans la sclérodermie systémique par rapport à d'autres connectivites et à des sujets sains ?",
+ "contexte": "Les lymphocytes T innés (iNKT, MAIT, T γδ et CD8 innés) sont diminués dans la sclérodermie systémique, et une acquisition précoce de caractères innés par les lymphocytes a été rapportée. Ces cellules participent aux processus inflammatoires, notamment via l'axe IL-33/ST2, également impliqué dans l'endothéliopathie de la sclérodermie.\n\nLes données restent toutefois rares et les mécanismes physiopathologiques n'ont pas été explorés. L'hypothèse est celle d'une « innéité » lymphocytaire globale dans la sclérodermie, liée à une stimulation chronique par des signaux innés conduisant à l'épuisement des lymphocytes T innés. Ces cellules pourraient aussi contribuer à l'endothéliopathie et à l'activation des fibroblastes. Cette étude du CHU de Poitiers repose sur une prise de sang unique chez des patients atteints de sclérodermie, d'autres connectivites (lupus, Sjögren primitif, polyarthrite rhumatoïde, myosites) et des sujets sains, pour constituer une biothèque locale. Les analyses portent sur le nombre, la prolifération, les facteurs de transcription, les molécules cytotoxiques et la production de cytokines de ces cellules.",
+ "interet": "Mieux comprendre le rôle des lymphocytes T innés pourrait ouvrir des pistes physiopathologiques nouvelles dans la sclérodermie. À terme, cela pourrait suggérer des cibles thérapeutiques ou des biomarqueurs de la maladie.",
+ "profil": "Des adultes atteints de sclérodermie systémique ou d'une autre connectivite, et des sujets sains.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013 (ou Leroy 2001 pour les formes précoces)",
+  "Autres connectivites : lupus, Sjögren primitif, polyarthrite rhumatoïde, myosite inflammatoire (critères ACR/EULAR)",
+  "Sujets sains sans maladie auto-immune ni connectivite connue",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Syndrome de chevauchement (dont Sjögren secondaire)",
+  "Poids < 55 kg",
+  "Déficit immunitaire cellulaire primitif connu ou antécédent de greffe de cellules souches",
+  "Cancer ou hémopathie en rémission depuis moins de 12 mois, chimiothérapie ou inhibiteur de point de contrôle dans les 12 derniers mois",
+  "Infection active, antibiotiques dans les 2 semaines, infection chronique active (VIH, HTLV, hépatites, syphilis)",
+  "Rétinoïdes systémiques ou vaccination dans les 4 dernières semaines",
+  "Refus de l'analyse génétique, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Prise de sang unique (tous les participants)",
+   "traitement": "Un prélèvement sanguin pour constituer une biothèque locale ; groupes : sclérodermie, autres connectivites, sujets sains"
+  }
+ ],
+ "duree": "Un prélèvement unique (environ 1 an de participation au maximum selon le registre)",
+ "critere": "Numération basale des lymphocytes T innés circulants (iNKT, MAIT, γδ, CD8 innés), avec expression de Ki67, de facteurs de transcription et de molécules cytotoxiques, et production de cytokines"
+}

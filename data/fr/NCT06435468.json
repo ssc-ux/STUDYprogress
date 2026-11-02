@@ -1,0 +1,37 @@
+{
+ "h": "b0edd3d6daa4",
+ "date": "2026-11-02",
+ "titre": "Biocollection pour l'étude des maladies auto-immunes et auto-inflammatoires rares d'début pédiatrique",
+ "question": "Une biocollection (cellules, ADN, ARN, sérum) permet-elle d'identifier les anomalies génétiques et immunologiques des maladies dysimmunitaires rares débutant dans l'enfance ?",
+ "contexte": "Les maladies rares touchent une personne sur 2 000, soit environ trois millions de personnes en France, et sont le plus souvent d'origine génétique, avec une gravité d'autant plus grande qu'elles débutent tôt. Parmi elles, les maladies auto-immunes (lupus systémique, dermatomyosite juvénile, arthrite juvénile idiopathique) reposent sur une réponse immune adaptative inappropriée, tandis que les maladies auto-inflammatoires (interféronopathies, FMF, CAPS, TRAPS, DADA2) traduisent un excès de réponse immune innée.\n\nLes mécanismes précis de ces maladies restent incomplètement élucidés. Les recherches récentes ont permis d'identifier des formes monogéniques, surtout dans les formes précoces, familiales ou syndromiques. La rareté de ces maladies et le faible nombre d'échantillons biologiques disponibles freinent toutefois la recherche. Cette étude des Hospices Civils de Lyon constitue une collection biologique (cellules mononucléées du sang périphérique, ADN, ARN, lignées lymphoblastoïdes, sérum) auprès de patients, de leurs apparentés et de volontaires sains. Elle servira à plusieurs projets de recherche visant à identifier des anomalies génétiques et immunologiques, avec un prélèvement sanguin comme seule intervention.",
+ "interet": "La biocollection fournira un matériel de recherche rare et partagé, utile à la découverte de nouveaux gènes et mécanismes. À terme, elle pourrait améliorer le diagnostic génétique de ces maladies pédiatriques.",
+ "profil": "Des enfants et adultes atteints d'une maladie dysimmunitaire rare débutée dans l'enfance, leurs apparentés et des volontaires sains.",
+ "inclusion": [
+  "Patient, mineur ou adulte, avec maladie rare d'auto-immunité, d'auto-inflammation ou de lymphoprolifération précoce débutée avant 18 ans, ou syndromique ou familiale",
+  "Apparenté d'un tel patient",
+  "Poids supérieur à 5 kg",
+  "Consentement signé (patient ou parents/tuteurs)",
+  "Affiliation à un régime de sécurité sociale",
+  "Volontaires sains sans limite d'âge, poids > 5 kg"
+ ],
+ "exclusion": [
+  "Refus de participation (patients)",
+  "Volontaires sains : infection active virale, bactérienne ou parasitaire",
+  "Volontaires sains : néoplasie actuelle ou < 5 ans",
+  "Volontaires sains : antécédent personnel ou familial de maladie auto-immune",
+  "Volontaires sains : immunodépression ou transplantation",
+  "Adultes sous protection juridique (volontaires sains)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec maladie dysimmunitaire rare",
+   "traitement": "Prélèvements sanguins pour analyse génétique, réponse immunologique et biomarqueurs"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Prélèvements sanguins pour réponse immunologique et biomarqueurs"
+  }
+ ],
+ "duree": "Non précisé (prélèvements à l'inclusion)",
+ "critere": "Identification des mutations germinales et somatiques responsables des maladies auto-immunes ou auto-inflammatoires rares d'début pédiatrique, à l'inclusion"
+}

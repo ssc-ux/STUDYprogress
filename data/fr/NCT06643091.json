@@ -1,0 +1,34 @@
+{
+ "h": "ecf8e6d96288",
+ "date": "2026-11-02",
+ "titre": "Nintedanib dans la maladie de Castleman unicentrique non résécable",
+ "question": "Le nintedanib permet-il d'obtenir une réponse chez des patients ayant une maladie de Castleman unicentrique non résécable ou partiellement résécable ?",
+ "contexte": "La maladie de Castleman unicentrique (MCU) est une maladie lymphoproliférative non maligne et localisée, touchant un ou plusieurs ganglions. Elle se révèle par une masse ganglionnaire parfois compressive, ou par des complications auto-immunes mettant en jeu le pronostic vital, comme le pemphigus paranéoplasique ou la myasthénie. Le traitement de référence est l'exérèse chirurgicale complète, mais jusqu'à la moitié des patients ne peuvent pas être opérés. Aucun traitement médical n'a démontré de bénéfice sur la morbidité et la mortalité chez ces patients.\n\nLa cause de la MCU est inconnue ; elle évoque une atteinte stromale avec perte de l'architecture ganglionnaire. Une mutation activatrice récurrente de PDGFRB (p.N666S) a été décrite dans le compartiment non hématopoïétique jusqu'à 17 % des prélèvements, et l'activation de la voie VEGFR semble contribuer à l'hypervascularisation. Le nintedanib, inhibiteur de tyrosine kinase ciblant les récepteurs PDGF, VEGF et FGF, est déjà autorisé en Europe depuis 2015 dans le cancer bronchique non à petites cellules et la fibrose pulmonaire idiopathique. Cet essai de phase 2 de l'AP-HP, à un seul bras, teste l'hypothèse qu'il bénéficie aux patients avec MCU non résécable.",
+ "interet": "En cas de réponse, le nintedanib pourrait devenir la première option médicale argumentée pour les MCU non opérables, aujourd'hui sans traitement validé. L'utilisation d'une molécule déjà commercialisée faciliterait un accès rapide.",
+ "profil": "Des adultes avec une maladie de Castleman unicentrique de type hyalino-vasculaire, non résécable ou partiellement résécable.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "MCU de type hyalino-vasculaire prouvée par biopsie",
+  "Lésion non résécable, partiellement résécable ou refus de chirurgie",
+  "Voie orale disponible",
+  "Contraception efficace pour les femmes en âge de procréer et pour les hommes ayant une partenaire en âge de procréer",
+  "Consentement écrit et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Sarcome des cellules dendritiques folliculaires synchrone",
+  "Hypersensibilité au nintedanib, au soja ou à l'arachide",
+  "Transaminases > 3 N ou cirrhose Child B ou C",
+  "Insuffisance rénale terminale (clairance < 30 mL/min)",
+  "Événement hémorragique ou thromboembolique sévère dans les 6 derniers mois, ou risque hémorragique (anticoagulation à dose pleine, double antiagrégation)",
+  "Maladie systémique non contrôlée (insuffisance cardiaque, angor instable, hypertension), antécédent d'infarctus, d'AVC ou d'anévrisme, ou hypertension pulmonaire sévère",
+  "Inclusion dans une autre étude interventionnelle"
+ ],
+ "bras": [
+  {
+   "nom": "Nintedanib (bras unique)",
+   "traitement": "Nintedanib ; dose et rythme non précisés dans le registre"
+  }
+ ],
+ "duree": "Jusqu'à 6 mois pour le critère principal",
+ "critere": "Meilleure réponse obtenue, dans un délai allant jusqu'à 6 mois"
+}

@@ -1,0 +1,27 @@
+{
+ "h": "76f6bd75d561",
+ "date": "2026-11-02",
+ "titre": "Lésions échographiques de l'artère temporale et rechute dans l'artérite à cellules géantes",
+ "question": "Les anomalies échographiques des artères temporales et axillaires sont-elles associées à la rechute à 12 mois chez des patients atteints d'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vascularite des vaisseaux de moyen et gros calibre, dont les complications ophtalmologiques et vasculaires imposent un diagnostic et un traitement rapides. L'échographie des artères temporales et axillaires est aujourd'hui bien reconnue pour le diagnostic, car elle met en évidence des anomalies structurelles caractéristiques (signe du halo, par exemple). Le suivi sous traitement repose en revanche surtout sur la clinique et les marqueurs biologiques de l'inflammation, qui sont imparfaits pour prédire les rechutes.\n\nLe lien entre les lésions échographiques, leur évolution et la survenue d'une rechute reste mal connu, tout comme leur concordance avec les signes cliniques. Un score de suivi échographique des artères de moyen et gros calibre, le score OGUS, pourrait aussi prédire l'évolution de la maladie. Cette étude prospective, bicentrique et non interventionnelle, est promue par le CHU de Brest et menée à Brest et Quimper. Elle inclut 100 patients suivis en soins courants, avec trois visites associant examen clinique, biologie et échographie, l'échographie faisant partie du suivi habituel. Le critère principal est la rechute selon les critères EULAR 2018 à 12 mois.",
+ "interet": "Si les lésions échographiques sont associées à la rechute, l'échographie pourrait devenir un outil de suivi pour adapter l'intensité et la durée des corticoïdes ou des traitements d'épargne. Elle permettrait de mieux identifier les patients à risque de rechute sans examen supplémentaire.",
+ "profil": "Des adultes atteints d'artérite à cellules géantes selon les critères ACR 2022, suivis en soins courants.",
+ "inclusion": [
+  "Patient majeur",
+  "Critères ACR 2022 d'artérite à cellules géantes",
+  "Absence d'opposition exprimée"
+ ],
+ "exclusion": [
+  "Patient incapable de comprendre le protocole",
+  "Patient sous tutelle ou curatelle",
+  "Patient non affilié à la Sécurité sociale française"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints d'ACG au diagnostic",
+   "traitement": "Suivi habituel avec échographie des artères temporales (étude non interventionnelle), trois visites"
+  }
+ ],
+ "duree": "12 mois de suivi (3 visites)",
+ "critere": "Rechute selon les critères EULAR 2018 à 12 mois"
+}

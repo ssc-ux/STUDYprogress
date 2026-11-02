@@ -1,0 +1,35 @@
+{
+ "h": "d41d7299a9a2",
+ "date": "2026-11-02",
+ "titre": "Cohorte nationale RaDiCo des maladies de Still de l'adulte et de l'enfant",
+ "question": "Peut-on mieux caractériser l'évolution, les marqueurs biologiques et l'impact quotidien de la maladie de Still, et comparer les formes pédiatriques et adultes, grâce à une cohorte prospective de 500 patients ?",
+ "contexte": "La maladie de Still de l'adulte et l'arthrite juvénile idiopathique systémique sont deux maladies rares associées à une inflammation systémique, considérées comme les deux facettes d'un même syndrome. Elles associent fièvre hectique, arthralgies ou arthrites, éruption cutanée et hyperleucocytose à polynucléaires neutrophiles, avec une élévation de la CRP et de la ferritine et une baisse de sa fraction glycosylée. Le syndrome d'activation macrophagique est une complication fréquente, et les formes réfractaires exposent à l'amylose AA.\n\nLa maladie est considérée comme un syndrome auto-inflammatoire, impliquant l'immunité innée avec une forte élévation de cytokines comme l'IL-1 et l'IL-18. Le traitement repose sur les anti-inflammatoires, les corticoïdes, le méthotrexate et les anti-TNF en cas d'atteinte articulaire, et les inhibiteurs de l'IL-1 et de l'IL-6 ont montré leur efficacité. L'évolution est variable (monocyclique, polycyclique ou chronique) et plusieurs questions restent ouvertes : pourquoi deux classes d'âge sont touchées, pourquoi l'expression clinique est hétérogène et pourquoi l'évolution diffère.\n\nCette cohorte RaDiCo, promue par l'Inserm, réunit cliniciens adultes (rhumatologues, internistes) et pédiatres. Elle vise à comparer les formes pédiatriques et adultes sur un grand effectif, à mieux comprendre les mécanismes, à identifier des marqueurs diagnostiques et pronostiques précoces et à faciliter l'évaluation de futurs traitements.",
+ "interet": "Cette cohorte standardisée pourrait préciser l'histoire naturelle de la maladie de Still et identifier des marqueurs précoces d'évolution. Elle constituerait aussi une base pour évaluer de nouveaux traitements.",
+ "profil": "Des adultes et des enfants atteints de maladie de Still (forme adulte ou forme systémique d'arthrite juvénile idiopathique).",
+ "inclusion": [
+  "Plus de 16 ans : critères de Yamaguchi ou de Fautrel",
+  "16 ans ou moins : critères ILAR 2001 de forme systémique d'arthrite juvénile idiopathique",
+  "Consentement signé (non-opposition des représentants légaux pour les mineurs)",
+  "Affiliation au régime national d'assurance maladie"
+ ],
+ "exclusion": [
+  "Autre cause de fièvre récidivante infectieuse ou tumorale (lymphome, par exemple)",
+  "Autre rhumatisme inflammatoire défini (polyarthrite rhumatoïde, rhumatisme psoriasique, spondyloarthrite)",
+  "Maladie auto-immune, granulomatose ou vascularite (lupus, sarcoïdose, Behçet, myosites)",
+  "Syndrome auto-inflammatoire génétique défini (fièvre méditerranéenne familiale, cryopyrinopathies, TRAPS, déficit en mévalonate kinase)",
+  "Syndrome d'activation macrophagique d'origine génétique",
+  "Incapacité à comprendre la notice et à signer le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes (> 16 ans)",
+   "traitement": "Maladie de Still de l'adulte, suivi standardisé en cohorte"
+  },
+  {
+   "nom": "Enfants (≤ 16 ans)",
+   "traitement": "Arthrite juvénile idiopathique systémique, suivi standardisé en cohorte"
+  }
+ ],
+ "duree": "Suivi annuel jusqu'à 5 ans",
+ "critere": "Signes généraux, cliniques et biologiques de la maladie et retentissement sur la vie quotidienne, à l'inclusion puis annuellement jusqu'à 5 ans"
+}

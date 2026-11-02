@@ -1,0 +1,36 @@
+{
+ "h": "95d4cb73491e",
+ "date": "2026-11-02",
+ "titre": "Programme d'éducation du patient pour améliorer la qualité de la TEP au 18F-FDG cardiaque",
+ "question": "Une vidéo éducative avant l'examen améliore-t-elle la suppression de la fixation myocardique physiologique du FDG lors d'une TEP cardiaque, par rapport à l'envoi habituel de consignes ?",
+ "contexte": "La TEP au 18F-FDG est indiquée pour détecter une inflammation ou une infection cardiaque, notamment dans l'endocardite infectieuse et la sarcoïdose cardiaque. Pour l'interpréter, il faut supprimer la captation physiologique de glucose (FDG) par le myocarde, ce qui impose une préparation du patient par régime cétogène et jeûne. Les taux d'échec de cette préparation varient d'un centre à l'autre.\n\nUne mauvaise préparation compromet l'interprétation, retarde le diagnostic, expose à une irradiation supplémentaire en cas de nouvel examen et génère des coûts pour l'assurance maladie. Cet essai de l'AP-HP, randomisé en simple aveugle, est mené dans les services de médecine nucléaire des hôpitaux Cochin et Georges Pompidou. Il compare les consignes habituelles envoyées par e-mail à ces consignes complétées par un lien vers une vidéo éducative de 3 min 34 s. Dans les deux groupes, un questionnaire d'observance, un dosage capillaire du bêta-hydroxybutyrate et le relevé des médicaments pris dans les 24 h précédentes sont réalisés. L'objectif secondaire est d'étudier l'intérêt du dosage des corps cétoniques comme prédicteur de réussite et l'influence éventuelle des excipients sucrés des médicaments.",
+ "interet": "Une intervention simple et peu coûteuse pourrait réduire les examens non interprétables et les reprogrammations. Elle limiterait l'irradiation supplémentaire et le retard diagnostique pour les patients.",
+ "profil": "Des adultes adressés pour une TEP au 18F-FDG à la recherche d'une inflammation ou d'une infection cardiaque (endocardite infectieuse, sarcoïdose cardiaque).",
+ "inclusion": [
+  "Prescription validée par la médecine nucléaire pour une TEP au 18F-FDG cardiaque",
+  "Âge ≥ 18 ans",
+  "Affiliation à la sécurité sociale ou équivalent",
+  "Patient disposant d'une adresse e-mail",
+  "Patient comprenant le français",
+  "Recueil du consentement"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Patient déjà au régime (dont cétogène)",
+  "Patient ne comprenant pas le protocole",
+  "Personne privée de liberté par décision judiciaire ou administrative",
+  "Personne sous protection juridique (tutelle, curatelle, sauvegarde de justice)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe contrôle",
+   "traitement": "Procédure habituelle (consignes par e-mail), questionnaire d'observance et dosage capillaire du bêta-hydroxybutyrate"
+  },
+  {
+   "nom": "Groupe intervention",
+   "traitement": "Procédure habituelle plus lien vers une vidéo éducative de 3 min 34 s, questionnaire d'observance et dosage du bêta-hydroxybutyrate"
+  }
+ ],
+ "duree": "Environ 1 mois après la programmation de l'examen",
+ "critere": "Taux de succès de la suppression de la fixation myocardique résiduelle du FDG (grades 1 et 2), environ 1 mois après la programmation de l'examen"
+}

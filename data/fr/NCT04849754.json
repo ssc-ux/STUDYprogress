@@ -1,0 +1,27 @@
+{
+ "h": "f707aa8648b9",
+ "date": "2026-11-02",
+ "titre": "Suivi quantitatif du SUVmax en scintigraphie aux bisphosphonates sous tafamidis dans l'amylose cardiaque à TTR",
+ "question": "La mesure quantitative du SUVmax en scintigraphie aux bisphosphonates évolue-t-elle à 6 mois chez les patients ayant une amylose cardiaque à TTR traités par tafamidis ?",
+ "contexte": "L'amylose cardiaque est une cause de cardiomyopathie restrictive à fraction d'éjection préservée, due au dépôt de fibrilles amyloïdes dans le myocarde. Deux types infiltrent couramment le cœur : l'amylose à chaînes légères (AL) et l'amylose à transthyrétine (ATTR). Le diagnostic de l'ATTR s'appuie sur l'imagerie, notamment la scintigraphie planaire aux traceurs osseux, l'IRM cardiaque et l'échocardiographie avec strain longitudinal global.\n\nLe score de Perugini, utilisé en scintigraphie planaire, distingue l'ATTR des autres amyloses mais n'évalue ni la charge amyloïde ni le pronostic. Le traitement par tafamidis réduit la mortalité dans l'ATTR cardiaque. Des méthodes semi-quantitatives ont été proposées, mais il manque une méthode quantitative pour le suivi longitudinal de la maladie. Cette étude monocentrique, promue par le groupe Ramsay Santé (Hôpital privé Le Bois, Lille), inclut 30 patients et analyse l'évolution du SUVmax mesuré par scintigraphie aux bisphosphonates quantitative.",
+ "interet": "Un marqueur quantitatif de la fixation myocardique pourrait servir au suivi de la réponse au tafamidis, que le score de Perugini ne permet pas d’évaluer. Les résultats resteront à confirmer sur de plus grandes séries.",
+ "profil": "Des adultes avec une amylose cardiaque à TTR confirmée par scintigraphie, suivis sous tafamidis.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Amylose cardiaque à TTR confirmée par scintigraphie",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Amylose AL systémique",
+  "Majeur protégé (tutelle, curatelle) ou privé de liberté",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose cardiaque à TTR (groupe unique)",
+   "traitement": "Scintigraphie aux bisphosphonates avec analyse quantitative du SUVmax"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Mesure du SUVmax par analyse quantitative de la scintigraphie aux bisphosphonates, à 6 mois"
+}

@@ -1,0 +1,39 @@
+{
+ "h": "083c85d1a59a",
+ "date": "2026-11-02",
+ "titre": "Outils diagnostiques et thérapeutiques dans les déficits immunitaires avec auto-immunité (ATRACTion)",
+ "question": "Des signatures multi-omiques permettent-elles de développer des outils d'aide au diagnostic et à la décision thérapeutique chez des enfants atteints de déficit immunitaire primitif avec auto-immunité ou inflammation ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP) sont des maladies monogéniques rares prises individuellement, mais qui concernent collectivement un grand nombre de patients, le plus souvent diagnostiqués avant 19 ans. Outre la susceptibilité aux infections et aux cancers, ils peuvent se révéler par des manifestations auto-immunes ou inflammatoires (cytopénies, entéropathies, lupus, arthrite juvénile idiopathique, lymphohistiocytoses hémophagocytaires).\n\nLes approches génomiques ont montré qu'un même défaut génétique peut donner des tableaux cliniques très différents, et que la pénétrance est parfois partielle. L'évolution de l'auto-immunité dans les DIP est donc très imprévisible. Les traitements, souvent une immunosuppression large à vie, exposent à des effets indésirables et ont une efficacité inconstante. Le microbiote, modulé par l'environnement, peut également influencer cette évolution. Cette étude de l'Inserm, menée à l'hôpital Necker, associe des analyses transcriptomiques, épigénomiques, protéomiques, métagénomiques, métabolomiques et lipidomiques. Elle compare des enfants avec DIP, leurs frères et sœurs, et des enfants témoins sans DIP. Elle vise à définir des biomarqueurs prédictifs pour stratifier les patients et choisir le traitement selon la cause moléculaire.",
+ "interet": "Des outils fondés sur les signatures moléculaires pourraient accélérer le diagnostic des DIP à expression auto-immune. Ils pourraient aussi guider le choix thérapeutique selon la cause moléculaire plutôt que sur la seule clinique.",
+ "profil": "Des enfants de moins de 18 ans avec un déficit immunitaire primitif et une auto-immunité ou inflammation liée à un défaut génétique connu, comparés à leurs frères et sœurs et à des enfants témoins.",
+ "inclusion": [
+  "Patients suivis à l'hôpital Necker pour un DIP avec auto-immunité ou inflammation liée à un défaut génétique connu (cytopénie, entéropathie/MICI, lupus, AIJ, lymphohistiocytose, infection chronique à EBV)",
+  "Âge < 18 ans et poids > 9 kg (patients)",
+  "Témoins : frères et sœurs, ou enfants sans maladie immunitaire ni cancer, poids > 6 kg",
+  "Affiliation à l'assurance maladie et consentement des parents"
+ ],
+ "exclusion": [
+  "Antibiotiques dans les 2 semaines précédant l'inclusion",
+  "Traitement cytotoxique anticancéreux",
+  "Traitement antiviral (VIH, hépatites…)",
+  "Pathologie engageant le pronostic vital à court terme",
+  "Absence de consentement des parents ou de l'enfant",
+  "Personne placée sous protection judiciaire"
+ ],
+ "bras": [
+  {
+   "nom": "Patients (n=250)",
+   "traitement": "Prélèvements de sang, urines et selles à l'inclusion, puis sang à 12 mois"
+  },
+  {
+   "nom": "Frères et sœurs des patients (témoins, n=125)",
+   "traitement": "Prélèvements de sang, urines et selles à l'inclusion"
+  },
+  {
+   "nom": "Patients avec maladies non apparentées (témoins, n=125)",
+   "traitement": "Prélèvements de sang, urines et selles à l'inclusion"
+  }
+ ],
+ "duree": "12 mois de suivi pour les patients",
+ "critere": "Mise au point d'outils d'aide au diagnostic et à la décision thérapeutique (délai de 5 ans)"
+}

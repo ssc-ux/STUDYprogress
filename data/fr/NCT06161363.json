@@ -1,0 +1,26 @@
+{
+ "h": "077946852335",
+ "date": "2026-11-02",
+ "titre": "Observance de l'hydroxychloroquine dans le lupus systémique évaluée par questionnaire de Morisky",
+ "question": "Quelles questions du questionnaire MMAS-8 permettent de repérer les patients lupiques peu observants de leur hydroxychloroquine, par rapport à son dosage sanguin ?",
+ "contexte": "Plus de la moitié des patients atteints de maladie chronique sont peu ou pas observants de leur traitement, et le lupus systémique n'y échappe pas. L'hydroxychloroquine (Plaquenil) est le traitement de fond de référence du lupus, associée à une réduction des poussées et des atteintes d'organes. Une mauvaise observance expose donc à un risque de poussées et de dommages évitables.\n\nL'hydroxychloroquinémie est considérée comme l'étalon-or pour apprécier l'observance, mais son dosage n'est pas disponible partout et n'est pas réalisé systématiquement en pratique courante. Les questionnaires validés, dont l'échelle de Morisky (MMAS-8), sont simples mais n'ont pas été évalués en détail dans cette indication. Cette étude du CHU de Toulouse administre le MMAS-8 à des patients suivis en consultation de médecine interne, avec dosage de l'hydroxychloroquinémie prévu lors de la consultation. Une analyse multivariée, comparée à l'hydroxychloroquinémie, vise à identifier les questions les plus discriminantes.",
+ "interet": "Un questionnaire court, fondé sur quelques questions pertinentes, pourrait aider les médecins généralistes et spécialistes à dépister précocement les patients peu observants. Cela permettrait d'adapter l'accompagnement avant la survenue d'une poussée.",
+ "profil": "Des adultes atteints de lupus systémique, traités depuis plus de 6 mois par hydroxychloroquine, suivis en consultation hospitalière de médecine interne.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Lupus systémique",
+  "Traitement par Plaquenil depuis plus de 6 mois",
+  "Dosage de l'hydroxychloroquinémie prévu lors de la consultation"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques sous hydroxychloroquine",
+   "traitement": "Questionnaire d'observance de Morisky (MMAS-8) rempli par le patient, comparé à l'hydroxychloroquinémie"
+  }
+ ],
+ "duree": "Une seule consultation (jour 0)",
+ "critere": "Non-observance de l'hydroxychloroquine, évaluée au jour 0"
+}

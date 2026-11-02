@@ -1,0 +1,52 @@
+{
+ "h": "1f26791e3619",
+ "date": "2026-11-02",
+ "titre": "Mécanismes immunologiques des entéropathies immunes de l'adulte (maladie cœliaque et formes réfractaires)",
+ "question": "Quels mécanismes expliquent la perte d'homéostasie intestinale dans la maladie cœliaque, la maladie cœliaque réfractaire et les autres entéropathies immunes de l'adulte ?",
+ "contexte": "Les entéropathies immunes de l'adulte regroupent la maladie cœliaque, ses formes réfractaires de type I et II, des entéropathies monogéniques, les maladies inflammatoires chroniques de l'intestin et des atteintes intestinales d'origine médicamenteuse. Elles relèvent souvent de la gastro-entérologie et de la médecine interne.\n\nLa maladie cœliaque réfractaire, notamment de type II, peut se compliquer de lymphome, mais les mécanismes de transformation des lymphocytes qui conduisent à ces complications lymphomateuses restent à préciser. Cette étude de cohorte, promue par l'Inserm, étudie les mécanismes de perte de l'homéostasie intestinale dans ces maladies. Elle cherche aussi à comprendre la perte d'homéostasie lymphocytaire hépatique dans les maladies du foie associées.\n\nLes patients sont répartis en groupes selon leur maladie : cœliaque active ou traitée par régime sans gluten, sprue réfractaire de type I ou II, lymphoprolifération intestinale, entéropathies non cœliaques, et un groupe témoin sans maladie intestinale néoplasique ou inflammatoire. Des prélèvements sanguins et des biopsies digestives sont analysés, avec comptage lymphocytaire et séquençage de l'ADN.",
+ "interet": "Cette recherche physiopathologique pourrait identifier des mécanismes et cibles utiles au diagnostic et au traitement des entéropathies réfractaires et de leurs complications lymphomateuses. Elle n'a pas d'impact immédiat sur la prise en charge.",
+ "profil": "Des adultes avec une entéropathie immune (maladie cœliaque active, traitée ou réfractaire, autres entéropathies) et des témoins sans maladie intestinale inflammatoire ou néoplasique.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Maladie cœliaque, sprue réfractaire, lymphoprolifération intestinale ou autre entéropathie immune, ou témoin",
+  "Affiliation à la sécurité sociale",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "Personne sous tutelle",
+  "Incapacité à signer le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Maladie cœliaque active",
+   "traitement": "Prélèvement sanguin et biopsie digestive"
+  },
+  {
+   "nom": "Maladie cœliaque traitée",
+   "traitement": "Régime sans gluten ; mêmes prélèvements"
+  },
+  {
+   "nom": "Sprue réfractaire de type I",
+   "traitement": "Mêmes prélèvements"
+  },
+  {
+   "nom": "Sprue réfractaire de type II",
+   "traitement": "Mêmes prélèvements"
+  },
+  {
+   "nom": "Lymphoprolifération intestinale",
+   "traitement": "Mêmes prélèvements"
+  },
+  {
+   "nom": "Entéropathies non cœliaques",
+   "traitement": "Entéropathies immunes non cœliaques ; mêmes prélèvements"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Patients sans maladie intestinale néoplasique ou inflammatoire ; mêmes prélèvements"
+  }
+ ],
+ "duree": "Non précisé (évaluation à l'inclusion)",
+ "critere": "Nombre de lymphocytes intestinaux et séquençage de l'ADN à l'inclusion"
+}

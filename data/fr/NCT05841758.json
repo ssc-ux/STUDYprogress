@@ -1,0 +1,36 @@
+{
+ "h": "d45b713ff7de",
+ "date": "2026-11-02",
+ "titre": "Hydroxychloroquine comme épargne cortisonique dans la sarcoïdose extra-pulmonaire",
+ "question": "L'ajout d'hydroxychloroquine permet-il de réduire l'exposition aux corticoïdes chez des patients atteints de sarcoïdose extra-pulmonaire non sévère ?",
+ "contexte": "La sarcoïdose est une granulomatose systémique d'étiologie inconnue, le plus souvent bénigne mais évoluant vers une forme chronique invalidante dans environ 25 % des cas, avec des complications sévères dans environ 5 % (fibrose pulmonaire, atteinte cardiaque ou neurologique, lupus pernio, cécité par uvéite). Les corticoïdes restent le traitement de référence, mais leur toxicité cumulée impose de les réduire à la dose minimale efficace, et 39 % des patients traités auraient besoin d'un traitement d'épargne cortisonique d'après une publication récente.\n\nChloroquine et hydroxychloroquine (HCQ) sont utilisées depuis les années 1960 dans cette indication, à partir d'une étude princeps de 43 patients, et deux petits essais randomisés ont montré une amélioration des symptômes pulmonaires. Pour les formes extra-pulmonaires, seules des séries de cas rapportent des taux de réponse de 67 à 100 %, bien que l'HCQ soit d'usage courant pour les atteintes cutanées, osseuses, articulaires et l'hypercalcémie. CAESAR, promu par les Hospices Civils de Lyon, est un essai de phase 4 multicentrique randomisé contre placebo, en double aveugle. Il teste l'HCQ en traitement additif sous une corticothérapie encadrée par un schéma de décroissance prévu au protocole.",
+ "interet": "Un résultat positif apporterait la première preuve randomisée d'un effet d'épargne cortisonique de l'HCQ dans la sarcoïdose extra-pulmonaire. Cela validerait un usage courant, peu coûteux et de tolérance bien connue.",
+ "profil": "Des adultes atteints de sarcoïdose extra-pulmonaire non sévère nécessitant un traitement systémique.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sarcoïdose prouvée histologiquement (critères ATS/ERS/WASOG)",
+  "Atteinte non sévère (oculaire, cutanée, osseuse, articulaire, nerveuse périphérique, ORL ou hypercalcémie/hypercalciurie) nécessitant un traitement systémique",
+  "Consentement signé",
+  "Affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Atteinte sévère nécessitant un autre immunosuppresseur, un anti-TNF ou des bolus de méthylprednisolone",
+  "Immunosuppresseur dans les 3 mois ou concomitant",
+  "Traitement antérieur par antipaludéens (HCQ/chloroquine)",
+  "Sarcoïdose du système nerveux central ou cardiaque",
+  "Infection chronique (VIH, VHB) ou tuberculose non traitée",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Hydroxychloroquine",
+   "traitement": "Prednisone selon protocole + hydroxychloroquine 200-400 mg/j pendant 12 mois en double aveugle, puis phase ouverte de 12 mois"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Prednisone selon protocole + placebo 1-2 comprimés/j pendant 12 mois en double aveugle, puis traitement laissé au médecin jusqu'au mois 24"
+  }
+ ],
+ "duree": "24 mois (12 mois en double aveugle puis 12 mois en ouvert)",
+ "critere": "Effet d'épargne cortisonique de l'hydroxychloroquine à 1 an"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "f06bcb85d672",
+ "date": "2026-11-02",
+ "titre": "Biomarqueurs d'activité dans les maladies auto-immunes, vascularites et maladies auto-inflammatoires",
+ "question": "Existe-t-il des profils de cytokines et de lymphocytes corrélés à l'activité des maladies auto-immunes, des vascularites systémiques et des maladies auto-inflammatoires ?",
+ "contexte": "Les maladies auto-immunes systémiques, les vascularites et les maladies auto-inflammatoires impliquent l'immunité innée et adaptative. Les cytokines pro- et anti-inflammatoires, ainsi que les lymphocytes T et B, en sont des acteurs clés. L'évolution est très variable, des formes mineures cutanéo-articulaires aux atteintes d'organe graves, comme l'atteinte rénale du lupus ou des vascularites.\n\nOn ne dispose pas aujourd'hui de marqueurs permettant d'identifier les patients qui développeront des formes sévères. Les traitements ont beaucoup évolué, qu'ils soient conventionnels (immunosuppresseurs) ou ciblés (anti-TNF, anti-IL-6), mais ils sont le plus souvent suspensifs. Les rechutes sont fréquentes sans facteur prédictif clinique ou biologique clairement identifié.\n\nLes patients sont donc exposés à des effets indésirables à court et long terme, sans qu'on sache lesquels ont encore besoin d'un traitement. Cette étude de l'AP-HP, menée dans le service de médecine interne et immunologie clinique (centre de référence des maladies auto-immunes systémiques rares et CeRéMAIA), vise à identifier des biomarqueurs cytokiniques et lymphocytaires d'activité pour personnaliser le suivi et les traitements. Les données immunologiques seront obtenues à partir de prélèvements sanguins et tissulaires réalisés dans le parcours de soins habituel, chez 2 250 patients.",
+ "interet": "Des biomarqueurs de suivi fiables pourraient aider à adapter les traitements à chaque patient. Ils permettraient d'identifier ceux qui sont à risque de rechute ou de forme sévère, et ceux chez qui un allègement serait envisageable.",
+ "profil": "Des adultes atteints de maladie auto-immune systémique, de vascularite ou de maladie auto-inflammatoire.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Connectivite : lupus, Sjögren, syndrome des antiphospholipides, connectivite mixte, sclérodermie, myosite",
+  "Vascularite : artérite à cellules géantes, Takayasu, Behçet, vascularite à ANCA, cryoglobulinémique ou à IgA, maladie de Buerger",
+  "Granulomatose, sarcoïdose ou uvéite",
+  "Maladie auto-inflammatoire (FMF, TRAPS, CAPS, polychondrite atrophiante, péricardite), fièvres récurrentes ou syndromes inflammatoires inexpliqués, amylose inflammatoire",
+  "Affiliation à la sécurité sociale française"
+ ],
+ "exclusion": [
+  "Personne privée de liberté par décision judiciaire ou administrative",
+  "Personne en soins psychiatriques sans consentement",
+  "Adulte sous mesure de protection juridique (tutelle, curatelle)",
+  "Personne incapable de donner son consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Prélèvements sanguins dans le cadre du suivi habituel pour dosage de cytokines et phénotypage lymphocytaire"
+  }
+ ],
+ "duree": "Environ 9 ans en moyenne",
+ "critere": "Corrélation entre profil cytokinique et lymphocytaire et activité de la maladie, sur environ 9 ans"
+}

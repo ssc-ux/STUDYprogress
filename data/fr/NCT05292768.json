@@ -1,0 +1,48 @@
+{
+ "h": "35f0b40375ec",
+ "date": "2026-11-02",
+ "titre": "Implication des mastocytes dans les maladies auto-inflammatoires",
+ "question": "Les mastocytes sont-ils impliqués dans les maladies auto-inflammatoires, évalué par la présence d'un syndrome d'activation mastocytaire à l'inclusion ?",
+ "contexte": "Les maladies auto-inflammatoires (MAI) sont dues à une dérégulation de l'immunité innée et se caractérisent par des accès fébriles récurrents, souvent associés à des signes digestifs, articulaires ou cutanés, parfois oculaires, auriculaires ou neurologiques. La plus fréquente des formes monogéniques est la fièvre méditerranéenne familiale. Malgré les progrès de la génétique, la physiopathologie n'est que partiellement comprise, en particulier pour les MAI non classées.\n\nLes mastocytes sont des cellules de l'immunité innée associées à un spectre allant de la mastocytose systémique au syndrome d'activation mastocytaire (SAMA). Ce dernier donne des symptômes variés (douleurs abdominales, ballonnements, prurit, flushs, anxiété, fatigue), dont certains ressemblent à ceux des MAI. Une implication des mastocytes a déjà été montrée dans les syndromes périodiques associés à la cryopyrine (CAPS).\n\nL'hypothèse de cette étude de l'AP-HP, menée au centre de référence CeRéMAIA de l'hôpital Tenon, est que les mastocytes participent à la physiopathologie des MAI. Elle évaluera un score clinique standardisé d'activation mastocytaire, la tryptase sérique et l'histamine, ainsi que l'infiltration mastocytaire sur des biopsies digestives et cutanées. Les patients seront comparés à des patients atteints de mastocytose, d'autres maladies inflammatoires et à des témoins sains.",
+ "interet": "Si un rôle des mastocytes était confirmé, cela ouvrirait des pistes physiopathologiques pour les MAI non classées. Cela pourrait aussi suggérer de nouvelles cibles thérapeutiques.",
+ "profil": "Des adultes atteints de maladie auto-inflammatoire suivis au centre CeRéMAIA, comparés à des témoins (mastocytose, maladies inflammatoires, sujets sains).",
+ "inclusion": [
+  "Plus de 18 ans, maladie auto-inflammatoire suivie au CeRéMAIA (hôpital Tenon) et incluse dans la JIRcohorte",
+  "Témoins : adultes sains appariés sur l'âge et le sexe, et patients atteints de mastocytose",
+  "Affiliation à un régime de sécurité sociale",
+  "Non-opposition du patient ou du témoin"
+ ],
+ "exclusion": [
+  "Sujet incapable de répondre aux questions ou de s'exprimer",
+  "Sujet ne parlant pas français",
+  "Sujet privé de liberté ou sous protection juridique"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec MAI",
+   "traitement": "Score clinique d'activation mastocytaire, tryptase et histamine, biopsies digestives et cutanées"
+  },
+  {
+   "nom": "Témoins mastocytose",
+   "traitement": "Patients atteints de mastocytose"
+  },
+  {
+   "nom": "Témoins biopsie digestive normale",
+   "traitement": "Patients avec biopsie digestive normale"
+  },
+  {
+   "nom": "Témoins biopsie rénale",
+   "traitement": "Patients ayant eu une biopsie rénale"
+  },
+  {
+   "nom": "Témoins maladie inflammatoire",
+   "traitement": "Patients atteints d'une autre maladie inflammatoire"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Soignants sains"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Présence d'un syndrome d'activation mastocytaire à l'inclusion"
+}

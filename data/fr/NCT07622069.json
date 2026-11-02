@@ -1,0 +1,26 @@
+{
+ "h": "d90180170853",
+ "date": "2026-11-02",
+ "titre": "Facteurs diagnostiques et caractéristiques des maladies auto-inflammatoires rares",
+ "question": "Quels paramètres clés permettent un diagnostic plus rapide des maladies auto-inflammatoires rares, et quels traitements sont utilisés avec quelle efficacité ?",
+ "contexte": "Les maladies auto-inflammatoires résultent d'une activation inappropriée de l'immunité innée, soit trop intense, soit injustifiée (par exemple en l'absence d'infection). Elles se manifestent typiquement par des accès récurrents associant fièvre, éruption cutanée et douleurs articulaires, toujours accompagnés d'une élévation des marqueurs biologiques de l'inflammation. Beaucoup ont une origine génétique et touchent surtout l'enfant et l'adulte jeune, mais ce champ s'est élargi à des maladies où l'auto-inflammation domine sans cause génétique identifiée, certaines restant « non classées ».\n\nLe diagnostic repose aujourd'hui sur un faisceau d'arguments cliniques et biologiques, après une démarche spécialisée ; les marqueurs de confirmation sont rares, et une analyse génétique étendue peut parfois être proposée. La prise en charge associe internistes, rhumatologues, médecins généralistes et autres professionnels, avec parfois des traitements réservés à l'usage hospitalier. Cette étude observationnelle multicentrique nationale, promue par les Hospices Civils de Lyon, inclut enfants et adultes atteints de maladie auto-inflammatoire rare. Elle vise à identifier les paramètres clés d'un diagnostic plus rapide, les facteurs déterminants et leurs caractéristiques, ainsi que les traitements utilisés et leur efficacité.",
+ "interet": "L'étude pourrait aider à raccourcir l'errance diagnostique de ces maladies rares. Elle documenterait aussi les traitements utilisés en pratique réelle et leur efficacité.",
+ "profil": "Des enfants (dès 4 ans et 6 mois) et des adultes atteints d'une maladie auto-inflammatoire rare, suivis aux Hospices Civils de Lyon.",
+ "inclusion": [
+  "Adulte de plus de 18 ans ou mineur de 4 ans et 6 mois à 18 ans",
+  "Maladie auto-inflammatoire rare diagnostiquée",
+  "Patient pris en charge au service participant des Hospices Civils de Lyon",
+  "Affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de maladie auto-inflammatoire rare",
+   "traitement": "Cohorte observationnelle, sans intervention spécifique"
+  }
+ ],
+ "duree": "Non précisé (résultats analysés 6 mois après la fin de l'étude)",
+ "critere": "Identification des étiologies liées aux maladies auto-inflammatoires rares, 6 mois après la fin de l'étude"
+}

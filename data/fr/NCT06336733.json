@@ -1,0 +1,38 @@
+{
+ "h": "ec900a91e55b",
+ "date": "2026-11-02",
+ "titre": "Anakinra à la demande dans la fièvre méditerranéenne familiale résistante à la colchicine",
+ "question": "Un traitement par anakinra pris à la demande lors des crises réduit-il le nombre de crises mensuelles à 6 mois chez des patients atteints de FMF résistante à la colchicine qui refusent un traitement continu ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est la maladie auto-inflammatoire monogénique la plus fréquente, avec environ 7 500 patients en France selon le registre. Elle se manifeste par des crises récurrentes de douleurs abdominales fébriles avec syndrome inflammatoire biologique. La colchicine quotidienne, traitement de première ligne, prévient les crises et l'amylose inflammatoire, mais 10 à 15 % des patients sont résistants (au moins une crise par mois sur 3 mois malgré la dose maximale tolérée).\n\nLes anti-IL-1 sous-cutanés, anakinra (quotidien) et canakinumab (tous les 2 mois), sont récemment autorisés en France en association à la colchicine dans cette situation. Dans le centre de référence, environ 20 % des patients résistants n'en reçoivent pourtant pas en continu, par refus des injections quotidiennes, crainte pour la grossesse, coût du traitement ou manque de recul. Même lorsque les crises abdominales sont contrôlées, des douleurs des membres inférieurs (érythème pseudo-érysipélateux, myalgies d'effort) persistent.\n\nL'hypothèse est qu'un recours à l'anakinra à la demande, dès la phase prodromique, pourrait interrompre la crise et en réduire la durée et la douleur. Cet essai de phase 3 de l'AP-HP, randomisé et ouvert, inclut 50 patients et compare cette stratégie aux antalgiques usuels, tous gardant la colchicine.",
+ "interet": "Cet essai pourrait valider une stratégie de traitement à la demande pour les patients qui refusent un anti-IL-1 continu. Elle serait moins contraignante et moins coûteuse qu'un traitement quotidien.",
+ "profil": "Des patients de 6 ans et plus atteints de FMF résistante à la colchicine, qui refusent l'anakinra quotidien.",
+ "inclusion": [
+  "Âge ≥ 6 ans, sans limite supérieure",
+  "FMF prouvée (critères de Livneh) avec 2 mutations MEFV non ambiguës",
+  "Résistance à la colchicine à dose maximale (en moyenne ≥ 1 crise par mois sur 3 mois)",
+  "Refus de l'anakinra quotidien",
+  "Prise en charge à 100 % (ALD) et absence d'inflammation biologique entre les crises",
+  "Consentement écrit du patient ou de ses représentants légaux"
+ ],
+ "exclusion": [
+  "Tuberculose active",
+  "Infection nécessitant une antibiothérapie intraveineuse dans les 2 semaines précédentes, ou infections récidivantes",
+  "Contre-indication à l'anakinra ou à la colchicine",
+  "Neutropénie (PNN < 1,5 x 10⁹/L)",
+  "Traitement anti-IL-1 continu depuis au moins 3 mois",
+  "Grossesse, accouchement ou allaitement",
+  "Participation à un autre essai interventionnel"
+ ],
+ "bras": [
+  {
+   "nom": "Anakinra à la demande",
+   "traitement": "Anakinra 100 mg/j dès la phase prodromique jusqu'à 24 h de rémission (7 jours maximum), avec colchicine quotidienne et antalgiques à la demande"
+  },
+  {
+   "nom": "Soins usuels",
+   "traitement": "Antalgiques usuels avec colchicine quotidienne"
+  }
+ ],
+ "duree": "6 mois (traitement et suivi)",
+ "critere": "Nombre moyen de crises de FMF par mois à 6 mois de traitement"
+}

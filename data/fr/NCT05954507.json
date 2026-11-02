@@ -1,0 +1,34 @@
+{
+ "h": "be6a62643869",
+ "date": "2026-11-02",
+ "titre": "Valeur pronostique de la TEP/IRM dans la sarcoïdose cardiaque",
+ "question": "La TEP/IRM cardiaque combinée permet-elle de prédire la survenue d'événements cardiologiques sévères à 24 mois chez des patients suspects de sarcoïdose cardiaque ?",
+ "contexte": "L'atteinte cardiaque est la deuxième cause de décès de la sarcoïdose après l'atteinte pulmonaire. Le défi actuel est de la diagnostiquer le plus efficacement possible et de disposer d'outils de stratification du risque, notamment de mort subite, afin de mieux cibler les traitements (corticoïdes, immunosuppresseurs) et les dispositifs implantables.\n\nLes auteurs font l'hypothèse que la TEP (au 18F-FDG) couplée à l'IRM serait un marqueur pronostique pertinent de progression et améliorerait significativement la performance diagnostique chez les patients suspects de sarcoïdose cardiaque. Cet examen combiné pourrait aussi distinguer les lésions de fibrose séquellaire des lésions granulomateuses et évaluer la réponse thérapeutique. Cette étude de l'AP-HP (hôpital Henri Mondor, Créteil) suit prospectivement une cohorte de patients sarcoïdosiques avec suspicion d'atteinte cardiaque, tous explorés par TEP/IRM. L'intégration de la TEP/IRM à la stratégie diagnostique pourrait ainsi améliorer leur prise en charge.",
+ "interet": "Si la valeur pronostique est confirmée, la TEP/IRM pourrait guider les décisions d'immunosuppression et de défibrillateur implantable. Elle pourrait aussi aider à suivre la réponse au traitement.",
+ "profil": "Des adultes atteints de sarcoïdose avec suspicion d'atteinte cardiaque.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sarcoïdose définie selon les critères ATS/ERS/WASOG",
+  "Suspicion d'atteinte cardiaque : symptômes (syncope, palpitations, signes d'insuffisance cardiaque)",
+  "Ou trouble du rythme ou de la conduction (BAV, bloc de branche, TV, extrasystoles ventriculaires fréquentes)",
+  "Ou anomalie échographique compatible",
+  "Consentement éclairé et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Claustrophobie",
+  "Grossesse ou allaitement",
+  "Diabète déséquilibré",
+  "Infarctus ou coronaropathie connus",
+  "Allergie connue au gadolinium ou au fluorodésoxyglucose",
+  "Insuffisance rénale (clairance < 30 mL/min/1,73 m²)",
+  "Stimulateur cardiaque ou autre dispositif non compatible avec l'IRM 3 Tesla"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte prospective",
+   "traitement": "Patients avec suspicion de sarcoïdose cardiaque, examen TEP/IRM"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois de suivi",
+ "critere": "Survenue d'un événement cardiologique sévère, jusqu'à 24 mois"
+}

@@ -1,0 +1,41 @@
+{
+ "h": "eb8491f140fa",
+ "date": "2026-11-02",
+ "titre": "Quantification de la fixation myocardique des traceurs osseux (SPECT-CZT) dans l'amylose cardiaque à TTR",
+ "question": "La quantification de la fixation myocardique des traceurs osseux en SPECT-CZT est-elle reproductible et permet-elle de suivre la réponse au tafamidis dans l'amylose cardiaque à TTR ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR) est une cause importante d'insuffisance cardiaque, longtemps sous-diagnostiquée. Chez les patients sans protéine monoclonale détectable, la scintigraphie aux traceurs osseux marqués au 99mTc permet un diagnostic non invasif, mais son interprétation repose surtout sur une analyse visuelle (score de Perugini) ou semi-quantitative.\n\nLe tafamidis, qui stabilise la transthyrétine et limite la formation de fibrilles, a réduit la mortalité toutes causes et les hospitalisations cardiovasculaires. Il existe donc un besoin de méthodes quantitatives pour le diagnostic, le pronostic et l'évaluation de la réponse thérapeutique. Cette étude du CHU de Caen, avec la participation de Pfizer, inclut 35 patients suspects d'ATTR cardiaque adressés pour une scintigraphie osseuse de routine. Elle compare, selon une approche test-retest, une méthode quantitative sur caméras SPECT-CT 3D à détecteurs CZT aux méthodes semi-quantitatives. Chez les environ 20 patients attendus avec une ATTR confirmée, elle évalue aussi l'effet de 6 mois de tafamidis sur la fixation quantifiée. Les auteurs espèrent ainsi identifier les répondeurs et ceux qui pourraient bénéficier d'une intensification de dose.",
+ "interet": "Une mesure quantitative fiable de la charge amyloïde permettrait de suivre objectivement l'effet du traitement, ce que la scintigraphie visuelle actuelle ne permet pas. Elle pourrait aider à repérer les patients répondeurs ou non répondeurs au tafamidis.",
+ "profil": "Des adultes avec une insuffisance cardiaque et une suspicion d'amylose cardiaque à TTR, adressés pour une scintigraphie osseuse.",
+ "inclusion": [
+  "Insuffisance cardiaque avec hospitalisation antérieure ou signes de surcharge traités par diurétique",
+  "BNP > 200 pg/mL et/ou NT-proBNP > 500 pg/mL",
+  "Suspicion d'amylose cardiaque à TTR",
+  "Épaisseur du septum interventriculaire > 12 mm en échocardiographie",
+  "Consentement signé et contraception"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque NYHA IV malgré les diurétiques",
+  "Espérance de vie < 6 mois",
+  "Remplacement valvulaire aortique récent (< 30 jours) ou programmé",
+  "Amylose AL (chaînes légères)",
+  "Contre-indication au tafamidis",
+  "Grossesse ou allaitement",
+  "Majeur protégé"
+ ],
+ "bras": [
+  {
+   "nom": "Absence d'amylose cardiaque à TTR",
+   "traitement": "Échocardiographie et SPECT osseux corps entier/CZT à l'inclusion, puis second SPECT entre J3 et J10 (test-retest) ; pas de suivi ultérieur"
+  },
+  {
+   "nom": "Amylose cardiaque à TTR sans tafamidis prévu",
+   "traitement": "Imagerie initiale et test-retest, puis échocardiographie à 3 mois et SPECT + échocardiographie à 6 mois"
+  },
+  {
+   "nom": "Amylose cardiaque à TTR avec tafamidis prévu",
+   "traitement": "Imagerie initiale et test-retest, début du tafamidis, puis échocardiographie à 3 mois et SPECT + échocardiographie à 6 mois"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Reproductibilité test-retest à 10 jours, corrélation avec les méthodes semi-quantitatives, et évolution de la fixation quantifiée après 6 mois de tafamidis"
+}

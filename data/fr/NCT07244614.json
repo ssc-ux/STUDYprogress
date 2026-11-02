@@ -1,0 +1,37 @@
+{
+ "h": "45137592d137",
+ "date": "2026-11-02",
+ "titre": "Biosimilaire de l'ustékinumab dans la maladie de Behçet cutanéo-muqueuse réfractaire, versus aprémilast",
+ "question": "Quelle proportion de patients atteints de maladie de Behçet cutanéo-muqueuse active et en échec des traitements conventionnels est sans manifestation active à la semaine 24 sous biosimilaire de l'ustékinumab, comparée à l'aprémilast ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique dont l'atteinte cutanéo-muqueuse (aphtose buccale, aphtose génitale, lésions cutanées, arthralgies) est très fréquente et altère nettement la qualité de vie. La colchicine est le traitement de première ligne, et l'aprémilast, inhibiteur de la phosphodiestérase 4, est une option reconnue en cas d'aphtose buccale récidivante, mentionnée dans l'AMM et le PNDS. Une partie des patients reste en échec ou ne tolère pas ces traitements, avec peu d'alternatives étayées.\n\nL'ustékinumab, anticorps dirigé contre la sous-unité p40 des interleukines 12 et 23, est prescrit dans ce contexte en pratique courante, à la dose de 90 mg par voie sous-cutanée aux semaines 0, 4, 12 et 20. Cette étude observationnelle, promue par le groupe français d'étude des maladies inflammatoires de l'œil, décrit la réussite thérapeutique d'un biosimilaire de l'ustékinumab. Elle compare ensuite ces patients à une cohorte rétrospective traitée par aprémilast. Les données sont issues du dossier médical (visites à S4, S12, S24, S36 et S52), sans visite ni examen supplémentaire, et incluent les scores BDCAF, BSAS et PhGA. L'effectif prévu est de 208 patients, soit 104 par groupe.",
+ "interet": "Les résultats pourraient documenter, en vie réelle, l'intérêt d'un biosimilaire de l'ustékinumab dans les formes cutanéo-muqueuses réfractaires de la maladie de Behçet. La comparaison à l'aprémilast aiderait à situer ce traitement dans la stratégie. Il s'agit toutefois d'une comparaison observationnelle, non randomisée.",
+ "profil": "Des adultes atteints de maladie de Behçet avec manifestations cutanéo-muqueuses actives, traités par ustékinumab (biosimilaire) ou par aprémilast.",
+ "inclusion": [
+  "Âge ≥ 18 ans et non-opposition à l'étude",
+  "Critères internationaux de maladie de Behçet (révision 2013)",
+  "Indication d'ustékinumab ou d'aprémilast dans le cadre des soins courants",
+  "Cohorte ustékinumab : manifestations cutanéo-muqueuses actives récidivantes, intolérance ou échec de la colchicine ou de l'aprémilast",
+  "Cohorte aprémilast : manifestations récidivantes actives, sans traitement antérieur",
+  "Aphtose active : au moins 2 aphtes le mois précédent et au moins 3 épisodes sur 12 mois malgré la colchicine"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "Échec antérieur de l'ustékinumab",
+  "Infection chronique active (tuberculose, hépatite B réplicative, VIH) ou néoplasie",
+  "Vaccin vivant dans les 3 mois",
+  "Insuffisance rénale sévère (clairance < 30 mL/min/1,73 m²)",
+  "Insuffisance hépatique sévère (transaminases > 5 fois la normale) ou cytopénies sévères"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe ustékinumab",
+   "traitement": "Biosimilaire de l'ustékinumab 90 mg sous-cutané aux semaines 0, 4, 12 et 20, selon les soins courants"
+  },
+  {
+   "nom": "Groupe aprémilast",
+   "traitement": "Aprémilast selon les soins courants (cohorte rétrospective comparative)"
+  }
+ ],
+ "duree": "52 semaines de données de suivi",
+ "critere": "Succès à la semaine 24, défini par l'absence de manifestation cutanéo-muqueuse active"
+}

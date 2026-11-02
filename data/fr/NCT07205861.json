@@ -1,0 +1,30 @@
+{
+ "h": "147f21871012",
+ "date": "2026-11-02",
+ "titre": "Devenir à long terme du PTT immunologique dans la cohorte du Centre de référence des MAT",
+ "question": "Quel est l'impact des facteurs de risque cardiovasculaire et de l'activité d'ADAMTS13 sur l'espérance de vie et la survenue d'événements cardiovasculaires chez les survivants d'un PTT immunologique ?",
+ "contexte": "Le PTT immunologique (PTTi) est une maladie rare et grave due à un déficit sévère en ADAMTS13, le plus souvent par auto-anticorps, qui provoque des microthromboses et des défaillances d'organes. Sans traitement rapide (échanges plasmatiques, immunosuppression, caplacizumab), la mortalité dépasse 90 %. Les survivants gardent un risque à long terme de complications cardiovasculaires, de troubles cognitifs et de réduction de l'espérance de vie.\n\nMalgré les progrès thérapeutiques (caplacizumab, rituximab), les données sur les complications tardives, les facteurs pronostiques et le poids de la maladie dans les populations sous-représentées (femmes enceintes, enfants, sujets âgés) restent limitées. TWI-LIGHT est une étude épidémiologique rétrospective, non interventionnelle, menée à partir du registre du Centre national de référence des microangiopathies thrombotiques (CNR-MAT), promue par l'AP-HP. Elle porte sur plus de 1 200 patients diagnostiqués entre octobre 2000 et juin 2024, avec au moins un an de suivi. Les analyses reposent sur des courbes de Kaplan-Meier et des modèles de Cox.",
+ "interet": "Les résultats pourraient guider le suivi à long terme des survivants de PTTi, en particulier le dépistage cardiovasculaire et la fréquence de surveillance d'ADAMTS13. Ils éclaireront aussi la prise en charge de la grossesse, de l'enfant et du sujet âgé.",
+ "profil": "Des patients atteints de PTT immunologique, inscrits dans la cohorte nationale du CNR-MAT, diagnostiqués entre 2000 et 2024.",
+ "inclusion": [
+  "PTT immunologique confirmé (thrombopénie, anémie hémolytique, ADAMTS13 < 10 %)",
+  "Diagnostic posé entre octobre 2000 et juin 2024",
+  "Au moins 1 an de suivi",
+  "Données disponibles dans le registre CNR-MAT"
+ ],
+ "exclusion": [
+  "PTT associé à un cancer, au VIH (stade SIDA) ou à une greffe",
+  "Sepsis sévère",
+  "Coagulation intravasculaire disséminée avec consommation des facteurs",
+  "Absence d'affiliation à la sécurité sociale",
+  "Opposition du patient ou de ses parents à la réutilisation des données"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTTi",
+   "traitement": "Cohorte rétrospective unique, sans intervention ; sous-analyses chez les femmes enceintes ou en post-partum, les enfants et les sujets âgés"
+  }
+ ],
+ "duree": "Rétrospectif, du diagnostic au dernier suivi",
+ "critere": "Prévalence des événements cardiovasculaires majeurs du diagnostic au dernier suivi (jusqu'à 3 ans)"
+}

@@ -1,0 +1,38 @@
+{
+ "h": "28bfcddadd76",
+ "date": "2026-11-02",
+ "titre": "Adalimumab versus mycophénolate mofétil dans les uvéites non infectieuses corticodépendantes",
+ "question": "L'adalimumab est-il plus efficace que le mycophénolate mofétil pour réduire l'échec thérapeutique à 36 semaines dans les uvéites non infectieuses récemment actives et corticodépendantes ?",
+ "contexte": "Les uvéites non infectieuses (UNI) de forme intermédiaire, postérieure ou panuvéite peuvent menacer la vision et nécessitent souvent une corticothérapie prolongée. Les immunosuppresseurs et les biothérapies ont réduit le poids de la maladie. En cas de corticodépendance, on associe en général un immunosuppresseur conventionnel comme le mycophénolate mofétil, les biothérapies, dont l'adalimumab, étant habituellement réservées aux échecs.\n\nIl n'existe pas de preuve solide ni d'essai randomisé comparant les immunosuppresseurs classiques aux agents biologiques pour identifier le meilleur traitement dans cette situation. FOCUS, promu par l'AP-HP, est présenté comme le premier essai prospectif randomisé comparant le traitement standard (mycophénolate mofétil) à l'adalimumab dans les UNI récemment actives et corticodépendantes. Il s'agit d'un essai de phase 3 en triple aveugle incluant 120 patients adultes, dont l'uvéite reste active malgré plus de 7 mg/j de prednisone.",
+ "interet": "Les résultats pourraient dire s'il faut proposer une biothérapie d'emblée plutôt que de la réserver à la seconde ligne dans les uvéites corticodépendantes. Ils éclaireront les recommandations de stratégie thérapeutique.",
+ "profil": "Des adultes avec une uvéite non infectieuse intermédiaire, postérieure ou panuvéite, récemment active malgré plus de 7 mg/j de prednisone.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Uvéite non infectieuse intermédiaire, postérieure ou panuvéite (critères SUN)",
+  "Activité récente malgré > 7 mg/j de prednisone : lésion choriorétinienne ou vasculaire active, œdème maculaire, ≥ 2+ cellules en chambre antérieure ou haze vitréen ≥ 2+",
+  "Radiographie ou scanner thoracique sans tuberculose active, infection ou cancer",
+  "Contraception efficace et test de grossesse négatif si applicable",
+  "Affiliation à la sécurité sociale et consentement écrit"
+ ],
+ "exclusion": [
+  "Uvéite infectieuse, syndromes de masquerade ou uvéite antérieure isolée",
+  "Patient monoculaire",
+  "Tuberculose active",
+  "Sérologie positive pour VIH, VHC ou antigène HBs",
+  "Cancer dans les 5 ans (hors carcinome in situ du col ou cutané non métastatique)",
+  "Allergie sévère aux anticorps monoclonaux, au mycophénolate, à la rifampicine, à l'isoniazide ou à la fluorescéine",
+  "Infection récente nécessitant des antibiotiques intraveineux"
+ ],
+ "bras": [
+  {
+   "nom": "Adalimumab",
+   "traitement": "Adalimumab ; posologie non précisée dans le registre"
+  },
+  {
+   "nom": "Mycophénolate mofétil",
+   "traitement": "Mycophénolate mofétil (traitement de référence) ; posologie non précisée dans le registre"
+  }
+ ],
+ "duree": "36 semaines pour le critère principal ; durée totale non précisée",
+ "critere": "Taux d'échec thérapeutique à la semaine 36"
+}

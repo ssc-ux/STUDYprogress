@@ -1,0 +1,34 @@
+{
+ "h": "96f62cf232ed",
+ "date": "2026-11-02",
+ "titre": "Sirolimus oral dans la sarcoïdose cutanée du visage modérée à sévère",
+ "question": "Le sirolimus oral entraîne-t-il une réponse clinique significative (baisse relative du SASI facial ≥ 25 %) à 16 semaines dans la sarcoïdose cutanée du visage ?",
+ "contexte": "La sarcoïdose est une maladie multisystémique d'étiologie inconnue, caractérisée par des granulomes épithélioïdes sans nécrose caséeuse dans les organes atteints. Les lésions cutanées peuvent être sévères, en particulier au visage, avec un retentissement esthétique et fonctionnel important. Il n'existe pas de recommandation pour le traitement de la sarcoïdose cutanée.\n\nUne étude récente souligne l'efficacité potentielle des inhibiteurs de mTOR sur les granulomes sarcoïdosiques. L'hypothèse est que le sirolimus, inhibiteur de mTOR, pourrait être efficace dans la sarcoïdose, notamment cutanée. Cet essai de phase 2 de l'AP-HP, multicentrique, ouvert et à un seul bras, inclut 10 patients adultes ayant une atteinte faciale modérée à sévère, naïfs de traitement systémique ou en échec d'au moins un traitement systémique classique. Le sirolimus est administré par voie orale pendant 16 semaines avec ajustement selon les concentrations résiduelles. La tolérance est évaluée en parallèle de l'efficacité.",
+ "interet": "Un résultat favorable ouvrirait une piste thérapeutique dans une forme de sarcoïdose sans traitement codifié. Il justifierait un essai comparatif de plus grande taille.",
+ "profil": "Des adultes de 18 à 74 ans avec une sarcoïdose cutanée du visage modérée à sévère.",
+ "inclusion": [
+  "Âge ≥ 18 ans et < 75 ans",
+  "Sarcoïdose cutanée du visage confirmée par biopsie (granulome épithélioïde et gigantocellulaire sans nécrose caséeuse)",
+  "Atteinte modérée à sévère : SASI facial ≥ 2 et PGA ≥ 5",
+  "Aucun traitement systémique antérieur, ou échec d'au moins un traitement systémique classique",
+  "Test de grossesse négatif et contraception efficace pendant le traitement et 12 semaines après",
+  "Consentement écrit et couverture d'assurance maladie"
+ ],
+ "exclusion": [
+  "Insuffisance hépatique sévère (ALAT ou PAL > 3N)",
+  "Allergie ou intolérance au sirolimus ou à ses excipients, allergie à l'arachide ou au soja",
+  "Greffe pulmonaire ou hépatique",
+  "Corticothérapie générale ou immunosuppresseur dans le mois précédent",
+  "Biothérapie (anti-TNF, anti-IL12/23, anti-IL17A) dans les 3 mois",
+  "Atteinte d'un autre organe nécessitant un traitement systémique",
+  "Cholestérol > 300 mg/dL ou triglycérides > 400 mg/dL, infection active dont tuberculose, cancer"
+ ],
+ "bras": [
+  {
+   "nom": "Sirolimus (bras unique)",
+   "traitement": "Sirolimus 2 mg/j per os, ajusté de 1 à 3 mg/j selon la concentration résiduelle (4-10 ng/mL), pendant 16 semaines"
+  }
+ ],
+ "duree": "16 semaines de traitement",
+ "critere": "Proportion de patients avec une réponse clinique significative (baisse relative du SASI facial ≥ 25 %) à la semaine 16"
+}

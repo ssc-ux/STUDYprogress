@@ -1,0 +1,34 @@
+{
+ "h": "25bd0c02826e",
+ "date": "2026-11-02",
+ "titre": "Ruxolitinib en première ligne dans la lymphohistiocytose hémophagocytaire primitive de l'enfant",
+ "question": "Le ruxolitinib associé aux corticoïdes permet-il la survie jusqu'à la greffe de cellules souches hématopoïétiques dans la LHH primitive ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est un syndrome inflammatoire grave lié à une prolifération incontrôlée de lymphocytes et macrophages activés, qui sécrètent un excès de cytokines. Le traitement vise d'abord à contrôler l'inflammation et, si possible, la cause déclenchante. Une fois la rémission obtenue, les formes primitives nécessitent une greffe allogénique de cellules souches hématopoïétiques, seul traitement curatif. Malgré les progrès, la mortalité reste élevée.\n\nL'interféron gamma est la cytokine centrale de la LHH, et la plupart des cytokines élevées signalent par la voie JAK-STAT. Le ruxolitinib, inhibiteur sélectif de JAK1/2, a montré dans des modèles murins une réduction des manifestations et une meilleure survie, avec moins d'accumulation de lymphocytes T CD8+ et de production de cytokines. Il a aussi été utilisé avec succès chez l'humain dans des cas isolés de LHH primitive ou secondaire réfractaire. Cette étude nationale de phase 2, non comparative et non randomisée, promue par l'AP-HP dans 9 centres français, suit un plan de Simon en deux étapes. Elle teste une approche ciblée, moins agressive que le schéma conventionnel (étoposide, SAL, alemtuzumab).",
+ "interet": "Un résultat favorable ouvrirait la voie à une induction moins toxique que l'étoposide ou les sérums anti-lymphocytaires avant la greffe. Il justifierait une comparaison randomisée avec les schémas conventionnels.",
+ "profil": "Des enfants et jeunes adultes de 0 à 22 ans avec une LHH primitive (ou syndrome de LHH confirmé), jamais traités spécifiquement.",
+ "inclusion": [
+  "Âge de 0 à 22 ans",
+  "LHH confirmée : diagnostic génétique ou anomalie d'expression protéique, ou au moins 5 des 8 critères diagnostiques",
+  "Aucun traitement spécifique antérieur de la LHH",
+  "Contraception efficace si âge de procréer",
+  "Consentement du représentant légal ou du patient adulte",
+  "Affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Traitement antérieur par SAL, alemtuzumab, étoposide, inhibiteur de JAK ou anti-interféron gamma",
+  "Corticoïdes ou ciclosporine > 14 jours avant l'inclusion",
+  "Atteinte isolée du système nerveux central",
+  "Contre-indication au ruxolitinib ou à la méthylprednisolone/prednisolone",
+  "Infection active, sauf si elle est le facteur déclenchant",
+  "Insuffisance rénale aiguë très sévère non dialysée ou insuffisance hépatique de grade 4",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ruxolitinib",
+   "traitement": "Ruxolitinib en première ligne, associé à des corticoïdes ; dose non précisée"
+  }
+ ],
+ "duree": "Jusqu'à la greffe, au maximum 8 semaines pour le critère principal",
+ "critere": "Survie jusqu'à la greffe de cellules souches hématopoïétiques (jusqu'à 8 semaines)"
+}

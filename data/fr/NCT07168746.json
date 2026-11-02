@@ -1,0 +1,30 @@
+{
+ "h": "483403e41122",
+ "date": "2026-11-02",
+ "titre": "Cohorte nationale des patients atteints du syndrome SITRAME",
+ "question": "Quelles sont les caractéristiques démographiques, cliniques, évolutives et thérapeutiques des patients atteints du syndrome SITRAME en France ?",
+ "contexte": "Le syndrome SITRAME est une maladie décrite récemment. Il associe un syndrome inflammatoire documenté lors des poussées cutanées (CRP > 5 mg/mL) et une éruption maculopapuleuse du tronc, fixe, non prurigineuse, à bords nets, apparaissant en quelques heures. Elle récidive aux mêmes endroits lors d'au moins 3 épisodes, chacun durant moins de 8 jours.\n\nLes poussées s'accompagnent souvent de fièvre, d'une fatigue ou d'une éruption papuleuse associée, et peuvent être déclenchées par des infections, des vaccinations ou un effort physique intense. Le diagnostic suppose l'absence de maladie auto-inflammatoire monogénique, de néoplasie évolutive ou de maladie auto-immune évolutive.\n\nIl n'existe actuellement aucune donnée épidémiologique ou thérapeutique sur ce syndrome, ni en France ni dans le monde. Le Centre de référence national des maladies auto-inflammatoires propose donc de coordonner une base de données colligeant des cas rétrospectifs et prospectifs. Cette cohorte, promue par l'AP-HP, vise à décrire les données démographiques, étiologiques et évolutives, et à établir des données quantitatives sur la morbidité et la mortalité de cette maladie rare. Elle prévoit 100 patients adultes et un suivi très long, jusqu'en 2055.",
+ "interet": "Cette cohorte fournirait les premières données épidémiologiques et évolutives sur le syndrome SITRAME. Elle permettrait aussi de décrire les traitements utilisés, en l'absence de référentiel.",
+ "profil": "Des adultes atteints du syndrome SITRAME répondant aux critères diagnostiques.",
+ "inclusion": [
+  "Syndrome SITRAME répondant aux critères diagnostiques",
+  "Au moins un épisode documenté de CRP > 5 mg/mL lors d'une poussée cutanée",
+  "Éruption maculopapuleuse du tronc, avec au moins 3 épisodes aux mêmes endroits, de durée < 8 jours",
+  "Au moins un critère parmi fièvre, déclenchement par infection, vaccination ou effort, fatigue, éruption papuleuse associée",
+  "Absence de maladie auto-inflammatoire monogénique, de néoplasie évolutive ou de maladie auto-immune évolutive",
+  "Adulte, sans opposition à la recherche"
+ ],
+ "exclusion": [
+  "Adulte sous tutelle ou curatelle",
+  "Personne hospitalisée sans consentement et non protégée légalement",
+  "Personne privée de liberté"
+ ],
+ "bras": [
+  {
+   "nom": "Patients SITRAME",
+   "traitement": "Cohorte nationale, recueil rétrospectif et prospectif de données, sans intervention"
+  }
+ ],
+ "duree": "Suivi à long terme, jusqu'en 2055 (date de fin estimée)",
+ "critere": "Description à l'inclusion du sexe, de l'âge au diagnostic, des comorbidités cardiovasculaires, du contexte allergique et de l'âge au décès, et des lignes thérapeutiques à 15 ans"
+}

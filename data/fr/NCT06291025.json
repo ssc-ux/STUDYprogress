@@ -1,0 +1,34 @@
+{
+ "h": "ffe192edfaf7",
+ "date": "2026-11-02",
+ "titre": "Traitement du PTT immunologique sans échanges plasmatiques : plasma, caplacizumab et immunosuppression",
+ "question": "Un schéma sans échanges plasmatiques, associant perfusions de plasma, corticoïdes, rituximab et caplacizumab, est-il efficace et sûr dans le PTT immunologique ?",
+ "contexte": "Le traitement de référence du PTT immunologique associe échanges plasmatiques quotidiens (60 mL/kg/j), immunosuppresseurs et caplacizumab. Cette triple association, évaluée par le groupe promoteur chez 90 patients comparés à des témoins historiques, a réduit les décès, les formes réfractaires et les exacerbations, ainsi que les volumes de plasma et le nombre médian de séances (de 13 à 6). Les échanges plasmatiques restent toutefois invasifs, longs et associés à des complications de cathéter et de plasma (22 à 30 %).\n\nDes perfusions de plasma seules (20-30 mL/kg/j) avaient amélioré l'évolution initiale, mais une surcharge hydrique survenait après 5 à 7 jours. Avec le caplacizumab, une plasmathérapie plus courte devient envisageable. Chez des patients Témoins de Jéhovah, des schémas sans échanges ont donné une amélioration rapide, et six patients avec atteinte neurologique ou cardiaque sévère ont été traités avec succès par caplacizumab et immunosuppression seuls. Les données restent insuffisantes pour supprimer la plasmathérapie. Cette étude multicentrique de non-infériorité, promue par le CHU de Rouen, évalue un schéma à bras unique avec plasma 15 mL/kg/j.",
+ "interet": "Si le schéma sans échanges plasmatiques est non inférieur, il pourrait alléger la prise en charge du PTT et réduire les complications liées aux échanges. Il simplifierait l'organisation des soins dans les centres sans plateau d'aphérèse.",
+ "profil": "Des adultes avec un PTT immunologique suspecté (score français ≥ 2), sans atteinte neurologique sévère.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTT immunologique clinique : plaquettes ≤ 30 G/L et créatininémie ≤ 200 µmol/L (score français ≥ 2)",
+  "Résultat d'ADAMTS13 non nécessaire pour l'inclusion",
+  "Consentement signé (ou de la personne de confiance)",
+  "Affiliation à la sécurité sociale",
+  "Contraception efficace ou stérilité/ménopause chez la femme"
+ ],
+ "exclusion": [
+  "Plaquettes > 100 G/L avant plasma",
+  "Atteinte neurologique sévère (convulsions, coma, déficit focal)",
+  "Poids > 100 kg ou PTT congénital",
+  "Grossesse, projet de grossesse imminent ou allaitement",
+  "Saignement actif ou risque hémorragique élevé, anticoagulant chronique non interruptible",
+  "Contre-indication au caplacizumab, au plasma, aux corticoïdes ou au rituximab",
+  "Autre cause de cytopénie ou de défaillance d'organe (cancer non contrôlé, VIH au stade SIDA…)"
+ ],
+ "bras": [
+  {
+   "nom": "PEX-FREE",
+   "traitement": "Perfusions quotidiennes de plasma 15 mL/kg/j à la place des échanges plasmatiques, avec corticoïdes, rituximab et caplacizumab"
+  }
+ ],
+ "duree": "30 jours pour le critère principal",
+ "critere": "Proportion de patients sans décès, réfractarité, exacerbation ni activité d'ADAMTS13 < 20 % à J30 après la plasmathérapie"
+}

@@ -1,0 +1,26 @@
+{
+ "h": "34fb6b44314f",
+ "date": "2026-11-02",
+ "titre": "Cohorte rétrospective d'amylose cardiaque à TTR en médecine interne à Strasbourg",
+ "question": "Combien de cas d'amylose cardiaque à TTR ont été diagnostiqués au décours d'une hospitalisation en médecine interne à Strasbourg entre 2013 et 2023 et quelles sont leurs caractéristiques ?",
+ "contexte": "La prévalence de l'amylose cardiaque à TTR reste difficile à préciser, la maladie ayant été longtemps sous-diagnostiquée faute de traitement efficace et de méthodes diagnostiques non invasives. Selon le registre, la prévalence de la forme sauvage est estimée à 155 à 191 cas par million de personnes-années, pour une incidence de 36 cas par million, et elle augmente avec l'âge.\n\nLa présentation la plus fréquente est une insuffisance cardiaque à fraction d'éjection préservée, avec une évolution vers la cardiopathie restrictive. Le délai médian entre le diagnostic et les premiers symptômes cardiaques est de 39 mois. La survie médiane en France serait d'environ 3,5 ans, mais elle semble s'améliorer : la mortalité, de 73,5 % à 30 mois entre 2002 et 2006, serait de 15 % à 60 mois entre 2017 et 2022. Le nombre de patients diagnostiqués augmente. La plupart des données proviennent de la cardiologie, alors que la maladie concerne aussi la médecine interne, où les admissions pour décompensation cardiaque sont fréquentes. Cette étude du CHU de Strasbourg décrit rétrospectivement la cohorte du service de médecine interne.",
+ "interet": "Cette description apportera des données de vie réelle sur les patients ATTR cardiaque pris en charge en médecine interne, peu représentés dans la littérature. Elle pourrait aider à mieux repérer la maladie dans ce contexte d'hospitalisation.",
+ "profil": "Des adultes hospitalisés en médecine interne à Strasbourg avec un diagnostic d'amylose à TTR entre 2013 et 2023.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic d'amylose à TTR suite à une hospitalisation en médecine interne aux Hôpitaux universitaires de Strasbourg",
+  "Hospitalisation entre le 01/01/2013 et le 31/12/2023"
+ ],
+ "exclusion": [
+  "Opposition à la réutilisation des données à des fins de recherche",
+  "Amylose d'un autre type que TTR après revue du dossier"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte rétrospective ATTR cardiaque",
+   "traitement": "Patients de médecine interne diagnostiqués entre 2013 et 2023 ; recueil de données, pas d'intervention"
+  }
+ ],
+ "duree": "Recueil rétrospectif sur 10 ans, sans suivi prospectif",
+ "critere": "Nombre de cas d'amylose cardiaque à TTR adressés en médecine interne entre 2013 et 2023"
+}

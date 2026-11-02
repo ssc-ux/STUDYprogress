@@ -1,0 +1,35 @@
+{
+ "h": "733abab05488",
+ "date": "2026-11-02",
+ "titre": "Cohorte prospective des uvéites intermédiaires, postérieures et panuvéites non infectieuses",
+ "question": "Quels sont les facteurs pronostiques ou prédictifs de réponse au traitement dans une large cohorte d'uvéites non infectieuses du segment postérieur, avec constitution d'une base d'imagerie et d'une collection biologique ?",
+ "contexte": "Les uvéites non infectieuses intermédiaires, postérieures et les panuvéites sont des maladies inflammatoires oculaires pouvant menacer la vision, souvent prises en charge conjointement par ophtalmologistes et internistes. Leur traitement repose sur les corticoïdes, les immunosuppresseurs conventionnels (méthotrexate, azathioprine, ciclosporine) et les biothérapies (infliximab, adalimumab, tocilizumab).\n\nLes facteurs pronostiques ou prédictifs de la réponse à ces traitements sont aujourd'hui mal connus. CHRONOS est une cohorte prospective, longitudinale, multicentrique et non randomisée, promue par le Centre hospitalier national d'ophtalmologie des Quinze-Vingts, avec le groupe hospitalier Pitié-Salpêtrière. Elle prévoit d'inclure 2 000 patients, avec un groupe témoin programmé pour une chirurgie de cataracte ou vitréorétinienne. Les patients uvéitiques ont un prélèvement sanguin supplémentaire de 20 mL et, si le contexte clinique le justifie, un prélèvement d'humeur aqueuse ou de vitré. Une imagerie spécifique (optique adaptative, holographie Doppler) est réservée aux atteintes vasculaires inflammatoires. La qualité de vie est évaluée par le NEI-VFQ 25.",
+ "interet": "Cette cohorte, avec sa collection biologique et sa base d'imagerie, pourrait identifier des facteurs prédictifs de réponse thérapeutique et mieux caractériser l'évolution de ces uvéites. Elle estime aussi leurs coûts médico-économiques.",
+ "profil": "Des adultes avec une uvéite non infectieuse intermédiaire, postérieure ou panuvéite active nécessitant un traitement, et des témoins opérés de cataracte ou de chirurgie vitréorétinienne.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Uvéite non infectieuse intermédiaire, postérieure ou panuvéite",
+  "Activité inflammatoire nécessitant corticoïdes, immunosuppresseurs ou biothérapie",
+  "Témoins : chirurgie programmée de cataracte ou vitréorétinienne",
+  "Affiliation à l'assurance maladie et consentement écrit"
+ ],
+ "exclusion": [
+  "Uvéite antérieure isolée",
+  "Maladie inactive (absence de lésion inflammatoire, cellules en chambre antérieure < 0,5+, haze vitréen < 0,5+)",
+  "Grossesse ou allaitement",
+  "Chirurgie urgente (témoins)",
+  "Patient sous protection légale ou privé de liberté"
+ ],
+ "bras": [
+  {
+   "nom": "Patients uvéitiques",
+   "traitement": "Uvéite non infectieuse active ; prise en charge habituelle, prélèvements biologiques, imagerie spécifique et questionnaire NEI-VFQ 25"
+  },
+  {
+   "nom": "Patients témoins",
+   "traitement": "Chirurgie programmée de cataracte ou vitréorétinienne ; prélèvements sanguin et oculaire"
+  }
+ ],
+ "duree": "Suivi jusqu'à 60 mois ; visites à M3, M12 et M24 pour le questionnaire de qualité de vie",
+ "critere": "Constitution d'une base d'imagerie, d'une collection biologique et estimation des coûts médico-économiques, sur 60 mois"
+}
