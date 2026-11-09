@@ -1,0 +1,37 @@
+{
+ "h": "9ec60218548a",
+ "date": "2026-11-09",
+ "titre": "Anifrolumab versus placebo dans le lupus cutané chronique ou subaigu (LAVENDER)",
+ "question": "L'anifrolumab sous-cutané réduit-il d'au moins 70 % l'activité cutanée (CLASI-A) à 24 semaines chez des adultes ayant un lupus cutané réfractaire aux antipaludéens ?",
+ "contexte": "Le lupus cutané chronique (discoïde notamment) et subaigu peut exister seul ou accompagner un lupus systémique. Il entraîne des lésions cicatricielles, une alopécie définitive et un retentissement psychologique important. Le traitement repose sur la photoprotection, les dermocorticoïdes et les antipaludéens, puis sur d'autres immunosuppresseurs en cas d'échec ; aucun biologique n'a l'indication dans cette atteinte.\n\nL'anifrolumab est un anticorps dirigé contre le récepteur de l'interféron de type I, voie centrale dans la physiopathologie du lupus cutané. Il est déjà utilisé par voie intraveineuse dans le lupus systémique actif. L'étude LAVENDER, d'AstraZeneca, est un essai de phase 3 randomisé en double aveugle contre placebo qui l'évalue par voie sous-cutanée. Les patients ont un lupus cutané confirmé cliniquement et histologiquement, avec un CLASI-A ≥ 10, et sont en échec ou intolérants aux antipaludéens. Après 24 semaines contrôlées, tous reçoivent l'anifrolumab en ouvert jusqu'à la semaine 51.",
+ "interet": "Un résultat positif offrirait un traitement ciblé pour le lupus cutané réfractaire aux antipaludéens. Le design permet aussi de voir l'effet du passage du placebo à l'anifrolumab.",
+ "profil": "Des adultes de 18 à 70 ans ayant un lupus cutané chronique et/ou subaigu réfractaire ou intolérant aux antipaludéens.",
+ "inclusion": [
+  "18 à 70 ans",
+  "Lupus cutané confirmé cliniquement et histologiquement",
+  "CLASI-A ≥ 10 au dépistage et à la randomisation",
+  "Réponse insuffisante ou intolérance aux antipaludéens",
+  "Absence d'antécédent ou de signe de tuberculose active ou antérieure",
+  "Contraception conforme à la réglementation locale"
+ ],
+ "exclusion": [
+  "Antécédent d'idées suicidaires",
+  "Lupus systémique sévère, engageant le pronostic vital ou actif",
+  "Syndrome de Sjögren actif",
+  "Autre affection cutanée active pouvant interférer",
+  "Syndrome des antiphospholipides catastrophique",
+  "Infections récidivantes ayant nécessité hospitalisation et antibiotiques IV, ou antécédent d'anaphylaxie aux protéines humaines ou anticorps monoclonaux"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab",
+   "traitement": "Anifrolumab sous-cutané de la semaine 0 à la semaine 51 (dose non précisée)"
+  },
+  {
+   "nom": "Placebo puis anifrolumab",
+   "traitement": "Placebo sous-cutané jusqu'à la semaine 23, puis anifrolumab jusqu'à la semaine 51"
+  }
+ ],
+ "duree": "51 semaines de traitement, plus 12 semaines de suivi de sécurité",
+ "critere": "Proportion de patients avec une réduction d'au moins 70 % du CLASI-A par rapport à l'inclusion, à la semaine 24"
+}

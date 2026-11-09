@@ -1,0 +1,28 @@
+{
+ "h": "e498236cbb81",
+ "date": "2026-11-09",
+ "titre": "CAR-T CD19 in vivo (BMS-986553) dans les maladies auto-immunes réfractaires",
+ "question": "Des CAR-T anti-CD19 générés in vivo (BMS-986553) sont-ils sûrs et tolérés chez des patients ayant une maladie auto-immune réfractaire ?",
+ "contexte": "Les CAR-T anti-CD19 autologues donnent des rémissions prolongées dans des cas de lupus, de myosite et de sclérodermie réfractaires. Leur fabrication ex vivo, associée à une chimiothérapie lymphodéplétive, reste lourde, longue et peu accessible. La recherche s'oriente donc vers des approches plus simples.\n\nLa génération de CAR-T in vivo consiste à administrer un vecteur qui reprogramme directement les lymphocytes T du patient, sans prélèvement ni production cellulaire. Le BMS-986553 est un produit de ce type, ciblant CD19. Cette étude de phase 1 ouverte à bras unique évalue sa sécurité, sa tolérance et la dose. Elle inclut le lupus systémique (néphrite comprise), les myopathies inflammatoires, la sclérodermie, la polyarthrite rhumatoïde et le syndrome de Sjögren primitif. Le promoteur est Bristol-Myers Squibb ; l'étude n'a pas encore commencé à recruter. Le critère principal est la sécurité à environ 90 jours.",
+ "interet": "Si ce concept est sûr, il pourrait rendre la déplétion B profonde plus accessible, sans thérapie cellulaire personnalisée. Les résultats resteront préliminaires à ce stade de phase 1.",
+ "profil": "Des adultes ayant un lupus, une myopathie inflammatoire, une sclérodermie, une polyarthrite rhumatoïde ou un syndrome de Sjögren réfractaires.",
+ "inclusion": [
+  "Adulte (18 ans ou plus)",
+  "SLE : critères ACR/EULAR 2019",
+  "Myopathie inflammatoire : critères ACR/EULAR 2017 (probable ou certaine)",
+  "Sclérodermie : critères ACR/EULAR 2013",
+  "PR : critères ACR/EULAR 2010 ; Sjögren primitif : critères 2016"
+ ],
+ "exclusion": [
+  "Autre maladie immunitaire systémique",
+  "Autres critères définis par le protocole (non précisés dans le registre)"
+ ],
+ "bras": [
+  {
+   "nom": "BMS-986553 (bras unique)",
+   "traitement": "BMS-986553, CD19 CAR-T in vivo ; dose non précisée"
+  }
+ ],
+ "duree": "Suivi de sécurité d'environ 90 jours après la perfusion (critère principal)",
+ "critere": "Nombre de patients avec événements indésirables, événements graves, d'intérêt particulier, anomalies biologiques, et toxicités limitantes à 28 jours (jusqu'à environ 90 jours)"
+}

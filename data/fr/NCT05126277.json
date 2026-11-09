@@ -1,0 +1,42 @@
+{
+ "h": "58f7ee665e1e",
+ "date": "2026-11-09",
+ "titre": "Ianalumab sous-cutané en complément du traitement standard dans la néphrite lupique active",
+ "question": "Ajouté au traitement standard, l'ianalumab sous-cutané (toutes les 4 ou 12 semaines) augmente-t-il la réponse rénale complète stable à 72 semaines dans la néphrite lupique active ?",
+ "contexte": "La néphrite lupique est une atteinte grave du lupus qui expose à l'insuffisance rénale chronique. Le traitement d'induction associe corticoïdes et mycophénolate (ou cyclophosphamide), complété depuis peu par le belimumab ou le voclosporine, mais beaucoup de patients n'obtiennent pas de réponse rénale complète durable.\n\nL'ianalumab est un anticorps monoclonal anti-BAFF-R qui déplète les lymphocytes B par cytotoxicité et bloque la signalisation de BAFF, facteur de survie des cellules B. Cette double action pourrait cibler plus complètement l'axe B que les approches actuelles. SIRIUS-LN est un essai de phase 3 randomisé, en double aveugle contre placebo, promu par Novartis, avec 452 patients inclus. Il compare deux schémas d'ianalumab (toutes les 4 semaines ou toutes les 12 semaines) et un placebo, tous en association avec le mycophénolate et les corticoïdes. Il inclut des patients nouvellement diagnostiqués ou déjà traités, y compris réfractaires, et les classes III, IV (± V) et V pure.",
+ "interet": "Un résultat positif ajouterait une option de déplétion B sous-cutanée à l'induction de la néphrite lupique. La comparaison des deux rythmes d'administration informerait sur la fréquence d'injection nécessaire.",
+ "profil": "Des adultes de 18 ans ou plus avec une néphrite lupique active (classe III, IV ou V) et un LES.",
+ "inclusion": [
+  "≥ 18 ans, poids ≥ 35 kg",
+  "LES (critères EULAR/ACR), ANA ≥ 1:80",
+  "Biopsie < 6 mois : classe III ou IV (± V) active, ou classe V pure",
+  "Protéinurie ≥ 1,0 g/g (24 h) et DFG ≥ 25 mL/min/1,73 m²",
+  "Induction par corticoïdes à forte dose et acide mycophénolique débutée au plus tard à la randomisation",
+  "Bolus de méthylprednisolone dans les 60 jours précédents (ou prednisolone orale à 0,8-1 mg/kg)"
+ ],
+ "exclusion": [
+  "Insuffisance rénale sévère (oligurie, dialyse ou greffe)",
+  "Sclérose > 50 % des glomérules à la biopsie",
+  "Ianalumab antérieur ou autre déplétion B récente (< 36 semaines)",
+  "Belimumab, télitacicept, abatacept, anti-TNF, immunoglobulines, plasmaphérèse, cyclophosphamide, anticalcineurines, inhibiteurs de JAK < 12 semaines",
+  "Méthotrexate ou thalidomide ; azathioprine non remplacée par le mycophénolate",
+  "Méthylprednisolone cumulée > 3000 mg dans les 12 semaines",
+  "Antécédent de greffe d'organe ou de moelle"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab toutes les 4 semaines",
+   "traitement": "Ianalumab sous-cutané q4w + traitement standard"
+  },
+  {
+   "nom": "Ianalumab toutes les 12 semaines",
+   "traitement": "Ianalumab sous-cutané q12w + traitement standard"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané q4w + traitement standard"
+  }
+ ],
+ "duree": "72 semaines pour le critère principal, suivi total plus long",
+ "critere": "Proportion de patients en réponse rénale complète stable à la semaine 72"
+}

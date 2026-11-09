@@ -1,0 +1,32 @@
+{
+ "h": "1b19a6b4d24d",
+ "date": "2026-11-09",
+ "titre": "CAR-T anti-CD19 CC-97540 dans les maladies auto-immunes sévères réfractaires",
+ "question": "Le CAR-T anti-CD19 CC-97540 est-il bien toléré, et quelle dose recommander, dans le lupus, les myopathies inflammatoires, la sclérodermie systémique et la polyarthrite rhumatoïde réfractaires ?",
+ "contexte": "Le lupus, les myopathies inflammatoires idiopathiques (MII), la sclérodermie systémique (ScS) et la polyarthrite rhumatoïde (PR) comportent des formes sévères résistant à plusieurs lignes d'immunosuppresseurs et de biothérapies, avec des atteintes d'organe (rein, poumon, peau, muscle) potentiellement irréversibles. Les options restent limitées dans ces situations.\n\nLes CAR-T anti-CD19, issus de l'oncohématologie, éliminent profondément les lymphocytes B. Des séries de cas académiques ont rapporté des rémissions sans traitement dans le lupus, les myosites et la ScS, ce qui motive des essais industriels contrôlés. Le CC-97540 est un CAR-T de type NEX-T administré après lymphodéplétion par fludarabine et cyclophosphamide ; le tocilizumab figure parmi les médicaments de l'étude, vraisemblablement pour gérer le syndrome de relargage cytokinique. Cette phase 1 ouverte, promue par Bristol-Myers Squibb, établit tolérance, efficacité préliminaire et pharmacocinétique dans chaque indication, avec une dose recommandée pour la phase 2. Des centres français participent, mais le registre n'en donne pas le détail ici.",
+ "interet": "Étude de phase 1 dont les résultats de sécurité et de dose guident les essais de phase 2 (par exemple dans le lupus). Elle permettra de comparer le profil de tolérance des CAR-T selon la maladie.",
+ "profil": "Des adultes (≥ 18 ans) avec un LES, une MII, une ScS ou une PR sévères et réfractaires.",
+ "inclusion": [
+  "LES (critères 2019) actif, avec atteinte BILAG A d'un organe majeur, en échec des glucocorticoïdes et d'au moins 2 traitements",
+  "MII (dermatomyosite, myopathie nécrosante, syndrome des antisynthétases, polymyosite) active, en échec des glucocorticoïdes et de ≥ 2 traitements",
+  "ScS diffuse, ou ScS avec pneumopathie interstitielle progressive, en échec d'au moins 1 traitement",
+  "PR : ≥ 3 articulations gonflées et ≥ 3 douloureuses, ou pneumopathie interstitielle progressive, après échec de plusieurs DMARD",
+  "Auto-anticorps spécifiques de la maladie selon l'indication"
+ ],
+ "exclusion": [
+  "Lupus induit par un médicament",
+  "Autres maladies auto-immunes systémiques (sauf diabète de type 1, thyroïdite, maladie cœliaque, Sjögren secondaire)",
+  "Syndromes de chevauchement du lupus (PR, sclérodermie, connectivite mixte)",
+  "Atteinte récente du système nerveux central (< 12 mois)",
+  "Formes de myosite non éligibles : myosite à inclusions, dermatomyosite amyopathique, myosite juvénile, myosite médicamenteuse ou associée au VIH",
+  "Autres critères du protocole (non détaillés ici)"
+ ],
+ "bras": [
+  {
+   "nom": "CC-97540 (bras unique)",
+   "traitement": "Lymphodéplétion par fludarabine et cyclophosphamide, puis CAR-T CC-97540 anti-CD19 ; tocilizumab selon la tolérance (doses non précisées)"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans après la perfusion",
+ "critere": "Événements indésirables (dont graves, d'intérêt particulier et toxicités limitant la dose) et dose recommandée pour la phase 2, jusqu'à 2 ans"
+}

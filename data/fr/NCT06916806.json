@@ -1,0 +1,34 @@
+{
+ "h": "d39afed2a323",
+ "date": "2026-11-09",
+ "titre": "AZD5492 en phase 1 dans le lupus, les myopathies inflammatoires et la polyarthrite rhumatoïde",
+ "question": "L'AZD5492 administré par voie sous-cutanée est-il bien toléré, et quelle est sa pharmacocinétique, chez des adultes atteints de LES, de myopathie inflammatoire idiopathique ou de polyarthrite rhumatoïde réfractaires ?",
+ "contexte": "Le lupus systémique, les myopathies inflammatoires idiopathiques (MII) et la polyarthrite rhumatoïde (PR) sont des maladies auto-immunes dans lesquelles les lymphocytes B autoréactifs jouent un rôle central. Malgré les immunosuppresseurs et les biothérapies disponibles, une fraction de patients reste en échec de plusieurs lignes thérapeutiques, avec une maladie active et des séquelles cumulatives.\n\nLes CAR-T anti-CD19 ont montré dans des séries de cas une capacité à induire des rémissions profondes dans ces maladies, mais leur fabrication individualisée, la chimiothérapie de lymphodéplétion et les délais limitent leur diffusion. L'AZD5492 est un agent injectable par voie sous-cutanée destiné à redéployer les lymphocytes T contre les lymphocytes B, avec un risque de syndrome de relargage cytokinique (CRS) et de neurotoxicité (ICANS) évoqué par le protocole. Cette étude de phase 1 ouverte comporte une partie à dose unique croissante dans le LES, puis une partie en escalade intra-patient (doses d'amorçage puis dose cible à 7 jours d'intervalle) dans le LES, les MII ou la PR, pour atténuer ce risque. Promue par AstraZeneca, elle recrute dans 38 centres, dont sept en France.",
+ "interet": "Il s'agit d'une étude de recherche de dose : aucun bénéfice clinique n'est attendu à ce stade. Ses résultats de tolérance conditionneront le développement éventuel d'une alternative aux CAR-T dans plusieurs maladies auto-immunes réfractaires.",
+ "profil": "Des adultes de 18 à 70 ans avec un LES, une MII (polymyosite ou dermatomyosite) ou une PR actifs, en échec de plusieurs traitements.",
+ "inclusion": [
+  "18 à 70 ans",
+  "LES (critères EULAR/ACR 2019) actif, SLEDAI-2K clinique ≥ 4, avec auto-anticorps",
+  "MII : polymyosite ou dermatomyosite probable ou définie, auto-anticorps spécifique, maladie active",
+  "PR (critères EULAR/ACR 2010) : ≥ 6 articulations douloureuses et ≥ 6 gonflées, DAS28-CRP > 3,2, RF ou ACPA positifs",
+  "Intolérance ou réponse insuffisante à plusieurs traitements de fond (≥ 3 pour le LES, ≥ 2 b/tsDMARD pour la PR)"
+ ],
+ "exclusion": [
+  "Myosite à inclusions ou myosite associée à un cancer",
+  "Critères d’exclusion détaillés (infections, cancer, fonction d’organe) : non précisé dans cette synthèse",
+  "Traitements antérieurs exclus : non précisé",
+  "Autres critères de sécurité du protocole : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 : dose unique croissante",
+   "traitement": "AZD5492 sous-cutané en dose unique (jusqu'à 5 niveaux de dose), dans le LES"
+  },
+  {
+   "nom": "Partie 2 : doses croissantes par paliers",
+   "traitement": "AZD5492 sous-cutané : dose d'amorçage J1 puis dose cible J8 (2a), ou deux amorçages J1 et J8 puis dose cible J15 (2b)"
+  }
+ ],
+ "duree": "Au moins 180 jours de suivi après le dépistage ; jusqu'à 52 semaines",
+ "critere": "Tolérance et sécurité : événements indésirables, toxicités limitant la dose, anomalies biologiques et ECG, jusqu'à 52 semaines"
+}

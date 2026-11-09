@@ -1,0 +1,38 @@
+{
+ "h": "204ae54561d9",
+ "date": "2026-11-09",
+ "titre": "Ianalumab versus placebo en plus du traitement standard dans le lupus systémique (SIRIUS-SLE 2)",
+ "question": "L'ianalumab sous-cutané mensuel, ajouté au traitement standard, augmente-t-il la proportion de patients répondeurs SRI-4 à la semaine 60 dans le lupus systémique actif ?",
+ "contexte": "Dans le lupus systémique, le traitement standard associe hydroxychloroquine, corticoïdes et immunosuppresseurs, et reste insuffisant chez de nombreux patients. Les biothérapies disponibles (bélimumab, anifrolumab) ne conviennent pas à tous, d'où la recherche de nouveaux traitements.\n\nL'ianalumab est un anticorps monoclonal qui cible le récepteur BAFF-R des lymphocytes B. Il détruit les cellules B par cytotoxicité cellulaire et bloque la signalisation de BAFF. SIRIUS-SLE 2 est une étude de phase 3 randomisée en double aveugle contre placebo, qui évalue l'ianalumab en injection sous-cutanée mensuelle en plus du traitement habituel. Les patients ont un SLE actif avec ANA ≥ 1:80 et des scores d'activité élevés (SLEDAI-2K ≥ 6, BILAG A ou B). Les atteintes rénales sévères sont exclues. L'étude fait partie du programme avec SIRIUS-SLE 1 et son extension. Le promoteur est Novartis.",
+ "interet": "Un résultat positif ajouterait un anticorps anti-BAFF-R déplétant les cellules B aux options de biothérapie du lupus extrarénal. Le programme éclairera aussi la sécurité à plus long terme avec l'extension.",
+ "profil": "Des adolescents et adultes (18 ans ou plus dans l'EEE) avec un lupus systémique actif, traités par un traitement standard.",
+ "inclusion": [
+  "12 ans ou plus (18 ans ou plus dans l'EEE), poids ≥ 35 kg",
+  "SLE selon critères EULAR/ACR 2019 depuis au moins 6 mois",
+  "ANA ≥ 1:80",
+  "SLEDAI-2K ≥ 6 (hors fièvre, céphalée lupique, alopécie, syndrome cérébral organique)",
+  "BILAG-2004 A dans ≥ 1 organe ou B dans ≥ 2 organes",
+  "Corticoïdes, antipaludéens et/ou DMARD selon le protocole"
+ ],
+ "exclusion": [
+  "Traitement antérieur par ianalumab",
+  "Cyclophosphamide, biologiques, anti-BAFF ou déplétion B récents, selon délais du protocole",
+  "Infection active nécessitant un traitement IV ou IM, hépatite B/C chronique, tuberculose active, immunodéficience ou VIH",
+  "Néphrite lupique sévère (protéinurie > 2 g/j ou créatinine > 2 mg/dL)",
+  "Anomalie biologique : plaquettes < 25 000/mm³, hémoglobine < 8 g/dL, PNN < 0,8 x 10³/µL",
+  "Antécédent de cancer (hors carcinome basocellulaire localisé ou in situ du col)",
+  "Grossesse, allaitement ou contraception inadéquate"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab",
+   "traitement": "Ianalumab sous-cutané mensuel, en plus du traitement standard"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané mensuel, en plus du traitement standard"
+  }
+ ],
+ "duree": "Critère principal à 60 semaines ; suivi jusqu'en 2029 selon le registre",
+ "critere": "Proportion de patients répondeurs SRI-4 à la semaine 60"
+}

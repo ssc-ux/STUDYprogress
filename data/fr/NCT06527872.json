@@ -1,0 +1,30 @@
+{
+ "h": "68665039c339",
+ "date": "2026-11-09",
+ "titre": "Bélimumab en pratique réelle dans la néphrite lupique active",
+ "question": "Dans la vie réelle, le bélimumab associé aux immunosuppresseurs préserve-t-il la fonction rénale des adultes avec une néphrite lupique active ?",
+ "contexte": "La néphrite lupique est l'atteinte d'organe la plus grave du lupus systémique et peut évoluer vers l'insuffisance rénale terminale. Le traitement d'induction repose sur les corticoïdes associés au mycophénolate ou au cyclophosphamide. Le bélimumab, anticorps anti-BAFF, a obtenu une indication en association au traitement standard dans la néphrite lupique active à partir d'un essai randomisé de phase 3.\n\nLes données d'utilisation en pratique courante et au long cours restent limitées. OBSErve-LN est une étude observationnelle de cohorte promue par GSK, qui inclut environ 300 adultes dans quatre pays. Les patients ont reçu du bélimumab, par voie intraveineuse ou sous-cutanée, 6 à 24 mois avant l'inclusion, selon l'AMM locale et avec un traitement immunosuppresseur. La néphrite doit avoir été confirmée par biopsie (classes III, IV, avec ou sans classe V, ou classe V). Les données sont recueillies à partir des dossiers médicaux. L'étude vise la première évaluation à long terme, jusqu'à 5 ans, de la préservation de la fonction rénale sous bélimumab.",
+ "interet": "Les résultats préciseront l'efficacité rénale du bélimumab dans les conditions réelles de soins et sa durabilité à long terme. Ils pourraient aider à choisir les patients qui en bénéficient le plus.",
+ "profil": "Des adultes avec une néphrite lupique active biopsie-prouvée ayant débuté le bélimumab depuis 6 à 24 mois.",
+ "inclusion": [
+  "18 ans ou plus au début du bélimumab, consentement signé",
+  "Bélimumab (IV ou SC) pour une néphrite lupique active, selon l'AMM locale, avec immunosuppresseur(s) standard",
+  "Début du bélimumab 6 à 24 mois avant l'inclusion",
+  "Néphrite lupique prouvée par biopsie : classe III ou IV avec ou sans V, ou classe V",
+  "Dossier médical accessible depuis 12 mois avant le bélimumab"
+ ],
+ "exclusion": [
+  "Suppléance rénale (dialyse, greffe rénale ou maladie rénale terminale) au début du bélimumab",
+  "Autre anticorps monoclonal ciblant le lupus ou compromettant l'immunité au début du bélimumab",
+  "Participation à un essai clinique pendant la période d'observation",
+  "Grossesse au début du bélimumab, à l'inclusion ou projet de grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique",
+   "traitement": "Adultes avec néphrite lupique active ayant débuté le bélimumab en soins courants, avec le traitement habituel"
+  }
+ ],
+ "duree": "Suivi jusqu'à 5 ans",
+ "critere": "Proportion de patients ayant gardé leur fonction rénale (baisse du DFGe ≤ 30 % depuis le début du bélimumab) sans suppléance rénale, à 24 mois"
+}

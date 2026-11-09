@@ -1,0 +1,33 @@
+{
+ "h": "dcb35452b6dc",
+ "date": "2026-11-09",
+ "titre": "Cévostamab dans le lupus systémique avec ou sans néphrite lupique",
+ "question": "Le cévostamab, anticorps bispécifique, est-il sûr et bien toléré chez des patients atteints de lupus systémique actif, avec ou sans néphrite lupique ?",
+ "contexte": "Le lupus systémique et la néphrite lupique restent difficiles à contrôler chez une partie des patients, malgré l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et les biothérapies (bélimumab, anifrolumab). La néphrite lupique expose au risque d'insuffisance rénale chronique. Les plasmocytes à longue durée de vie, qui produisent les auto-anticorps, échappent aux traitements anti-CD20 et anti-CD19.\n\nLe cévostamab est un anticorps bispécifique qui engage les lymphocytes T contre les cellules exprimant FcRH5, présent sur les plasmocytes et certains lymphocytes B. Il est déjà développé dans le myélome multiple. L'hypothèse est qu'une déplétion plus profonde de la lignée B et plasmocytaire pourrait réinitialiser la réponse auto-immune. Cette étude de phase Ib de Genentech, ouverte, comporte une escalade de dose puis une expansion, avec un schéma d'augmentation progressive des doses (step-up). Le tocilizumab est mentionné parmi les interventions, vraisemblablement pour la prise en charge du syndrome de relargage cytokinique ; le registre ne le précise pas. Un centre français (Toulouse, Rangueil) participe.",
+ "interet": "L'étude donnera les premières données de sécurité et de pharmacodynamie de ce mécanisme dans le lupus. Elle pourrait ouvrir la voie à une alternative aux CAR T, sans fabrication individuelle, pour les formes réfractaires.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif, avec ou sans néphrite lupique active, en réponse insuffisante aux traitements standard.",
+ "inclusion": [
+  "18 à 75 ans",
+  "Lupus systémique (critères EULAR/ACR 2019) depuis au moins 6 mois",
+  "Néphrite lupique active prouvée par biopsie dans les 9 mois (pour la cohorte néphrite)",
+  "Lupus actif selon le score SLEDAI-2K",
+  "Réponse insuffisante ou intolérance au traitement standard"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Anti-CD20 ou anti-CD19 dans les 6 mois précédents",
+  "Bélimumab ou anifrolumab dans les 4 semaines précédentes",
+  "Cyclophosphamide dans les 3 mois précédents",
+  "Infection active ou infection chronique ou récidivante grave, dont tuberculose",
+  "Syndrome des antiphospholipides catastrophique ou sévère",
+  "Atteinte neuropsychiatrique lupique sévère ou instable"
+ ],
+ "bras": [
+  {
+   "nom": "Escalade de dose et expansion",
+   "traitement": "Cévostamab en schéma d'augmentation progressive (step-up) puis dose cible, avec tocilizumab selon le protocole"
+  }
+ ],
+ "duree": "Environ 52 semaines pour le critère principal",
+ "critere": "Pourcentage de patients avec des événements indésirables, jusqu'à environ 52 semaines"
+}

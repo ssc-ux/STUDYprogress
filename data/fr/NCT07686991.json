@@ -1,0 +1,31 @@
+{
+ "h": "6f5f56f905be",
+ "date": "2026-11-09",
+ "titre": "Risque cardiovasculaire dans la maladie de Takayasu : cohorte nationale",
+ "question": "Les patients atteints de maladie de Takayasu ont-ils plus d'événements cardiovasculaires majeurs que des témoins appariés de la population générale, et quel rôle joue la dose cumulée de glucocorticoïdes ?",
+ "contexte": "La maladie de Takayasu est une vascularite rare des grosses artères, touchant surtout l'aorte et ses branches chez l'adulte jeune. Elle expose à des complications artérielles (anévrisme, sténose, atteinte viscérale) et peut s'associer à un risque cardiovasculaire accru.\n\nLe poids réel de ce risque par rapport à la population générale est mal quantifié, du fait de la rareté de la maladie. On sait aussi peu de choses des facteurs associés aux événements, notamment de l'exposition cumulée aux glucocorticoïdes, pilier du traitement.\n\nCette étude rétrospective utilise le Système National des Données de Santé (SNDS), qui couvre environ 99 % de la population française. Elle identifie les patients de 15 à 60 ans avec un premier diagnostic hospitalier de Takayasu entre 2010 et 2024 (algorithme validé, valeur prédictive positive de 93,9 %). Chaque patient est apparié à 4 témoins au plus, issus de la population générale. Elle analyse le critère composite (événement coronarien, AVC ischémique ou décès) et des complications par territoire (aorte, artères viscérales, membres). Le promoteur est un groupe français d'étude des maladies inflammatoires de l'œil, avec des investigateurs de l'AP-HP.",
+ "interet": "Les résultats pourraient préciser l'ampleur du risque cardiovasculaire dans la maladie de Takayasu et justifier un dépistage et une prise en charge cardiovasculaires systématiques. Ils pourraient aussi alimenter la réflexion sur la limitation de l'exposition aux glucocorticoïdes.",
+ "profil": "Des patients de 15 à 60 ans avec une maladie de Takayasu, comparés à des témoins appariés de la population générale.",
+ "inclusion": [
+  "15 à 60 ans",
+  "Diagnostic hospitalier incident de maladie de Takayasu (CIM-10 M31.4) entre 2010 et 2024",
+  "Appariement 4:1 à des témoins de la population générale",
+  "Témoins vivants, actifs dans la base et sans diagnostic de Takayasu"
+ ],
+ "exclusion": [
+  "Cas non appariable à au moins quatre témoins éligibles",
+  "Âge hors de l'intervalle 15 à 60 ans à la date index"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte Takayasu",
+   "traitement": "1 655 patients de 15 à 60 ans avec un premier diagnostic hospitalier entre 2010 et 2024"
+  },
+  {
+   "nom": "Témoins appariés",
+   "traitement": "6 620 témoins de la population générale, appariés 4:1 sur le sexe, la région, l'année de naissance et le score de propension"
+  }
+ ],
+ "duree": "Étude rétrospective ; suivi jusqu'à 15 ans (2010 à 2024)",
+ "critere": "Premier événement cardiovasculaire majeur (événement coronarien, AVC ischémique ou décès toutes causes), jusqu'à 15 ans"
+}

@@ -1,0 +1,42 @@
+{
+ "h": "3fe283c24005",
+ "date": "2026-11-09",
+ "titre": "Afimetoran contre placebo dans le lupus systémique actif",
+ "question": "L'afimetoran, inhibiteur oral de TLR7/TLR8, améliore-t-il la réponse SRI-4 à 48 semaines par rapport au placebo dans le lupus systémique actif ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune dans laquelle la signalisation de l'interféron de type I joue un rôle majeur. Malgré le bélimumab et l'anifrolumab, de nombreux patients conservent une activité résiduelle, notamment articulaire et cutanée, et restent dépendants des corticoïdes. Le besoin de traitements oraux efficaces et bien tolérés demeure.\n\nLes récepteurs Toll-like 7 et 8 (TLR7/8) détectent les ARN endogènes et déclenchent la production d'interféron et l'activation des lymphocytes B. L'afimetoran est un inhibiteur oral de ces récepteurs, développé à l'origine par Bristol-Myers Squibb puis repris par Beeline Medicines. Cette étude de phase 2, randomisée en double aveugle, compare trois doses d'afimetoran à un placebo chez des adultes atteints de lupus actif avec atteinte articulaire et/ou cutanée. Le critère principal est la réponse SRI-4 à 48 semaines. Une phase d'extension permet aux patients du groupe placebo de recevoir l'afimetoran. Le registre signale des centres français sans en détailler la liste.",
+ "interet": "Si l'efficacité est confirmée, l'afimetoran offrirait une option orale ciblant la voie de l'interféron, complémentaire des biothérapies injectables. La phase 2 permettra aussi de choisir la dose pour la phase 3.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif avec atteinte articulaire et/ou cutanée.",
+ "inclusion": [
+  "18 à 70 ans",
+  "Lupus systémique diagnostiqué depuis au moins 12 semaines (critères SLICC)",
+  "Au moins un auto-anticorps positif : ANA ≥ 1:80, anti-ADN natif ou anti-Sm",
+  "SLEDAI hybride ≥ 6",
+  "Score clinique hybride ≥ 4 avec atteinte articulaire et/ou cutanée"
+ ],
+ "exclusion": [
+  "Néphrite lupique sévère active",
+  "Manifestation neuropsychiatrique lupique active ou instable",
+  "Connectivite mixte dont le lupus n'est pas le diagnostic prédominant",
+  "Syndrome des antiphospholipides"
+ ],
+ "bras": [
+  {
+   "nom": "Afimetoran, dose 1",
+   "traitement": "Afimetoran par voie orale (dose non précisée dans le registre)"
+  },
+  {
+   "nom": "Afimetoran, dose 2",
+   "traitement": "Afimetoran par voie orale (dose non précisée dans le registre)"
+  },
+  {
+   "nom": "Afimetoran, dose 3",
+   "traitement": "Afimetoran par voie orale (dose non précisée dans le registre)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, puis possibilité de passer sous afimetoran dans la phase d'extension"
+  }
+ ],
+ "duree": "48 semaines avant la phase d'extension (durée de l'extension non précisée)",
+ "critere": "Proportion de patients répondeurs SRI-4 à la semaine 48"
+}

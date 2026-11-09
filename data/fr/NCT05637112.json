@@ -1,0 +1,32 @@
+{
+ "h": "8211e83b78ad",
+ "date": "2026-11-09",
+ "titre": "Anifrolumab dans le lupus systémique en pratique courante : étude observationnelle internationale",
+ "question": "Quelle est l'efficacité à long terme de l'anifrolumab ajouté au traitement standard du lupus systémique en vie réelle ?",
+ "contexte": "L'anifrolumab, anticorps dirigé contre le récepteur des interférons de type I, est approuvé en complément du traitement standard dans le lupus systémique modéré à sévère. Les essais pivots de phase 3 ont inclus des populations sélectionnées, et les données sur l'efficacité durable en pratique courante, notamment cutanée, restent limitées.\n\nASTER est une étude de cohorte prospective, à bras unique, multinationale, dans laquelle les patients sont inclus lors de la première prescription d'anifrolumab par leur médecin. Elle recueille des données rétrospectives sur l'année précédant le traitement, puis suit les patients jusqu'à 5 ans, avec des questionnaires de qualité de vie jusqu'à 3 ans. Les évaluations sont celles utilisées en consultation (avis global du médecin, SLEDAI-2K, état de faible activité lupique LLDAS) et une mesure spécifique de l'atteinte cutanée. Les données sont saisies par un cahier électronique. Le promoteur est AstraZeneca, avec de nombreux centres français.",
+ "interet": "Les résultats documenteraient l'effet de l'anifrolumab dans des populations plus proches de celles vues en consultation. Ils éclaireraient notamment l'atteinte cutanée et le maintien de la faible activité lupique.",
+ "profil": "Des adultes atteints de lupus systémique débutant l'anifrolumab selon l'AMM de leur pays.",
+ "inclusion": [
+  "Adulte (18 ans ou plus)",
+  "Lupus systémique selon les critères EULAR/ACR 2019",
+  "Première prescription d'anifrolumab selon l'AMM locale",
+  "Décision de prescrire antérieure à toute discussion sur l'étude",
+  "Accès au traitement autorisé là où le remboursement est accordé au cas par cas"
+ ],
+ "exclusion": [
+  "Participation à un programme d'accès précoce ou à un essai interventionnel",
+  "Exposition antérieure à l'anifrolumab",
+  "Glomérulonéphrite de classe III/IV sévère ou rapidement progressive nécessitant une induction",
+  "Néphrite lupique de classe V isolée",
+  "Atteinte neuropsychiatrique lupique active sévère ou instable",
+  "Incapacité à comprendre le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte prospective",
+   "traitement": "Patients débutant l'anifrolumab prescrit par leur médecin, sans intervention de l'étude"
+  }
+ ],
+ "duree": "Jusqu'à 5 ans de suivi après la mise sous anifrolumab (avec 1 an de données rétrospectives)",
+ "critere": "Activité de la maladie (avis global du médecin, SLEDAI-2K) et proportion de patients en LLDAS, de 1 an avant à 5 ans après l'initiation"
+}

@@ -1,0 +1,27 @@
+{
+ "h": "6ce04f3bc298",
+ "date": "2026-11-09",
+ "titre": "Poids de l'angiœdème héréditaire et prise en charge des crises : enquête patients et aidants",
+ "question": "Quel est le poids du traitement à la demande des crises d'angiœdème héréditaire pour les patients et leurs aidants ?",
+ "contexte": "L'angiœdème héréditaire par déficit en inhibiteur de la C1 estérase est une maladie rare caractérisée par des crises imprévisibles d'œdème, cutané, digestif ou laryngé. Le traitement des crises repose sur des traitements à la demande, administrés par voie intraveineuse ou sous-cutanée.\n\nLe retentissement de ces traitements, et plus largement de la maladie, sur la vie quotidienne reste peu décrit du point de vue des patients et de leur entourage. Les aidants sont eux aussi touchés par la prise en charge des crises.\n\nECRINS est une enquête française en ligne, promue par le CHU de Grenoble. Elle recueille les caractéristiques des patients, de la maladie et des crises survenues au cours des 12 derniers mois. Elle explore le poids du traitement à la demande, selon la voie d'administration, et celui de la maladie entre et pendant les crises. Les résultats concernent les patients de 12 ans ou plus et leurs aidants.",
+ "interet": "Mieux décrire le vécu des patients et des aidants pourrait orienter le choix des traitements à la demande et de leur mode d'administration. Cela peut aussi aider à adapter l'éducation thérapeutique.",
+ "profil": "Des patients de 12 ans ou plus atteints d'angiœdème héréditaire avec déficit en inhibiteur de la C1, et leurs aidants.",
+ "inclusion": [
+  "Angiœdème héréditaire confirmé avec déficit en inhibiteur de la C1",
+  "12 ans ou plus",
+  "Consultation pour l'angiœdème dans les 3 derniers mois, avec dossier médical",
+  "Aidants : personne identifiée par le patient comme apportant un soutien dans sa prise en charge"
+ ],
+ "exclusion": [
+  "Opposition du patient à participer",
+  "Patient sous tutelle ou privé de liberté"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec angiœdème héréditaire",
+   "traitement": "Réponse à une enquête en ligne, sans intervention thérapeutique"
+  }
+ ],
+ "duree": "Une enquête en ligne unique ; crises des 12 derniers mois",
+ "critere": "Description du poids associé au traitement à la demande des crises, sur les crises des 12 derniers mois"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "f7a2172ae969",
+ "date": "2026-11-09",
+ "titre": "Rapcabtagene autoleucel (CAR-T anti-CD19) dans le lupus systémique ou néphrite lupique réfractaires",
+ "question": "Une perfusion unique de CAR-T anti-CD19 (rapcabtagene autoleucel) est-elle efficace et sûre dans un lupus systémique ou une néphrite lupique réfractaires ?",
+ "contexte": "Une partie des patients atteints de lupus systémique ou de néphrite lupique reste en échec malgré les immunosuppresseurs et les biothérapies disponibles, avec un risque de dommages d'organe cumulés. Les lymphocytes B, producteurs d'auto-anticorps, sont au cœur de la maladie, mais les anticorps anti-CD20 n'éliminent pas toujours les B tissulaires.\n\nLes CAR-T anti-CD19, issus de l'oncohématologie, déplètent profondément les lymphocytes B. Plusieurs séries de cas ont rapporté des rémissions prolongées dans des lupus réfractaires, ce qui a conduit à lancer des essais dédiés. Le rapcabtagene autoleucel est un produit autologue administré en une seule perfusion après lymphodéplétion. Cette étude de phase 2 ouverte à bras unique inclut des patients adultes avec un lupus systémique actif ou une néphrite lupique active en échec d'au moins deux traitements. Le registre ne détaille pas le critère d'efficacité précis, évalué aux semaines 24 et 52. Le promoteur est Novartis, avec une dizaine de centres français.",
+ "interet": "Si l'efficacité se confirme, les CAR-T pourraient devenir une option pour les lupus les plus réfractaires, avec une perspective de rémission sans traitement prolongé. La sécurité (infections, syndrome de relargage cytokinique) sera déterminante.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'un lupus systémique ou d'une néphrite lupique actifs et réfractaires.",
+ "inclusion": [
+  "18 à 75 ans",
+  "Lupus systémique selon les critères EULAR/ACR 2019",
+  "Auto-anticorps positifs (ANA ≥ 1:80, anti-ADN natif ou anti-Sm)",
+  "SLEDAI-2K ≥ 6 ou néphrite lupique active sans chronicité importante",
+  "Réponse insuffisante à au moins deux traitements"
+ ],
+ "exclusion": [
+  "Poussée sévère nécessitant un traitement immédiat autre que des bolus de corticoïdes, rendant le sevrage immunosuppresseur impossible",
+  "Fonction d'organe insuffisante",
+  "Anomalie cardiaque ou ECG à risque",
+  "Infection par le VIH",
+  "Hépatite B ou C aiguë ou chronique",
+  "Événement thromboembolique de grade ≥ 2 dans les 4 semaines précédentes"
+ ],
+ "bras": [
+  {
+   "nom": "Rapcabtagene autoleucel (bras unique)",
+   "traitement": "Une perfusion unique de CAR-T anti-CD19 autologues après lymphodéplétion"
+  }
+ ],
+ "duree": "Suivi long : fin d'étude prévue en 2032 (durée exacte non précisée)",
+ "critere": "Efficacité du rapcabtagene autoleucel (définition non précisée dans le registre) aux semaines 24 et 52"
+}

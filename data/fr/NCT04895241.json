@@ -1,0 +1,40 @@
+{
+ "h": "1745a6cc2263",
+ "date": "2026-11-09",
+ "titre": "Litifilimab versus placebo dans le lupus systémique actif (TOPAZ-1)",
+ "question": "Le litifilimab, à deux doses, sous-cutané toutes les 4 semaines, augmente-t-il la proportion de répondeurs SRI-4 à 52 semaines dans le lupus systémique actif ?",
+ "contexte": "Le lupus systémique actif reste difficile à contrôler malgré les antipaludéens, les corticoïdes et les immunosuppresseurs. De nouvelles cibles sont donc recherchées, notamment sur l'axe de l'interféron de type I.\n\nLe litifilimab (BIIB059) est un anticorps dirigé contre BDCA2, récepteur exprimé par les cellules dendritiques plasmacytoïdes. Sa fixation inhibe la production d'interféron de type I et d'autres cytokines inflammatoires. TOPAZ-1 est une étude de phase 3 randomisée en double aveugle contre placebo, à trois groupes : litifilimab à forte dose, à faible dose, ou placebo. Tous reçoivent des injections sous-cutanées toutes les 4 semaines pendant 52 semaines, avec une dose supplémentaire en semaine 2, en plus d'un traitement standard non biologique stable. Les patients ont un lupus actif (SLEDAI-2K, BILAG-2004). Les critères secondaires incluent les poussées, l'activité articulaire et cutanée, l'épargne en corticoïdes et la qualité de vie. Le promoteur est Biogen.",
+ "interet": "Un résultat positif ferait du litifilimab un nouveau traitement ciblant l'interféron dans le lupus systémique, avec des données sur l'épargne cortisonique. L'étude renseignera également la relation dose-réponse.",
+ "profil": "Des adultes ayant un lupus systémique actif, traités par un traitement standard non biologique stable.",
+ "inclusion": [
+  "Adulte (18 ans ou plus), SLE diagnostiqué depuis ≥ 24 semaines, critères EULAR/ACR 2019",
+  "SLEDAI-2K modifié ≥ 6 au dépistage",
+  "SLEDAI-2K clinique ≥ 4 au dépistage et à la randomisation",
+  "BILAG-2004 A dans ≥ 1 organe ou B dans ≥ 2 organes",
+  "Antipaludéens, corticoïdes oraux et/ou un seul immunosuppresseur, à dose stable ≥ 4 semaines"
+ ],
+ "exclusion": [
+  "Infection par le VIH, hépatite C ou B actives",
+  "Antécédent d'infection herpétique sévère",
+  "Insuffisance cardiaque non contrôlée ou NYHA III-IV",
+  "Néphrite lupique sévère active, protéinurie/créatininurie > 2,0 ou DFG < 30 mL/min/1,73 m²",
+  "Autre affection cutanée active, vascularite non liée au SLE ou lupus neuropsychiatrique actif",
+  "Prednisone orale > 20 mg/j"
+ ],
+ "bras": [
+  {
+   "nom": "Litifilimab forte dose",
+   "traitement": "Litifilimab sous-cutané toutes les 4 semaines jusqu'à la semaine 48, plus une dose en semaine 2"
+  },
+  {
+   "nom": "Litifilimab faible dose",
+   "traitement": "Litifilimab sous-cutané toutes les 4 semaines jusqu'à la semaine 48, plus une dose en semaine 2"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo apparié, mêmes temps d'administration"
+  }
+ ],
+ "duree": "Jusqu'à 80 semaines (52 semaines de traitement et jusqu'à 24 semaines de suivi)",
+ "critere": "Proportion de patients répondeurs SRI-4 à la semaine 52"
+}

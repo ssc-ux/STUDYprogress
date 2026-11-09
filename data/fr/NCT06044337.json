@@ -1,0 +1,28 @@
+{
+ "h": "9e33dc482c38",
+ "date": "2026-11-09",
+ "titre": "Extension à long terme du litifilimab dans le lupus cutané (AMETHYST LTE)",
+ "question": "Quelle est la sécurité à long terme du litifilimab, injecté toutes les 4 semaines, chez des adultes ayant un lupus cutané actif réfractaire aux antipaludéens ?",
+ "contexte": "Le lupus cutané subaigu ou chronique (discoïde) est une atteinte invalidante et cicatricielle, avec ou sans lupus systémique associé. Le traitement repose sur les dermocorticoïdes, l'hydroxychloroquine et d'autres immunosuppresseurs, mais une part des patients est réfractaire ou intolérante aux antipaludéens.\n\nLe litifilimab (BIIB059) est un anticorps dirigé contre BDCA2, récepteur des cellules dendritiques plasmacytoïdes. Il freine la production d'interféron de type I, une voie centrale du lupus. Cette étude de phase 3 en ouvert à bras unique prolonge l'étude pivot 230LE301 (NCT05531565), et n'accueille que les participants l'ayant terminée sous traitement. Tous reçoivent le litifilimab sous-cutané toutes les 4 semaines, pendant 4 ans au plus. Le promoteur est Biogen. Le critère principal est la sécurité, et les critères secondaires suivent l'activité cutanée (CLASI, CLA-IGA-R), les poussées systémiques, l'usage de corticoïdes et la qualité de vie.",
+ "interet": "L'étude apportera des données de sécurité et d'efficacité sur plusieurs années pour un traitement ciblant l'interféron dans le lupus cutané. Elle éclairera la durabilité de la réponse cutanée.",
+ "profil": "Des adultes ayant un lupus cutané subaigu ou chronique, avec ou sans lupus systémique, qui ont terminé l'étude parent 230LE301 sous litifilimab.",
+ "inclusion": [
+  "Adulte (18 ans ou plus)",
+  "Étude parent 230LE301 terminée sous traitement (jusqu'à la semaine 48, visite de la semaine 52)",
+  "Compréhension de l'étude et consentement éclairé",
+  "Lupus cutané subaigu ou chronique réfractaire/intolérant aux antipaludéens à l'entrée dans l'étude parent"
+ ],
+ "exclusion": [
+  "Arrêt du traitement avant la semaine 48 dans l'étude parent",
+  "Retrait de l'étude parent avant la semaine 52 sans période de traitement prolongée",
+  "Autre maladie, affection ou anomalie rendant la participation inappropriée selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Litifilimab (bras unique)",
+   "traitement": "Litifilimab sous-cutané toutes les 4 semaines, jusqu'à la semaine 204"
+  }
+ ],
+ "duree": "Jusqu'à 208 semaines de traitement (environ 4 ans)",
+ "critere": "Nombre de patients avec événements indésirables et événements indésirables graves apparus sous traitement (jusqu'à 232 semaines)"
+}

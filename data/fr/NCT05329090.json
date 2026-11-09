@@ -1,0 +1,37 @@
+{
+ "h": "53bed1f27e27",
+ "date": "2026-11-09",
+ "titre": "Rituximab associé aux glucocorticoïdes dans la vascularite à IgA de l'adulte",
+ "question": "L'ajout de rituximab aux glucocorticoïdes améliore-t-il l'efficacité du traitement de la vascularite à IgA sévère de l'adulte, récente ou en rechute ?",
+ "contexte": "La vascularite à IgA est l'une des vascularites des petits vaisseaux les plus fréquentes. Elle touche surtout la peau, les articulations, les reins et le tube digestif. Les atteintes rénales et digestives peuvent être graves chez l'adulte, dont la prise en charge reste débattue. Les glucocorticoïdes sont depuis longtemps le traitement de référence des formes sévères, mais tous les patients n'obtiennent pas la rémission et des rechutes surviennent. Leurs effets indésirables cumulés sont une cause majeure d'événements à long terme et de décès.\n\nLe rituximab, anticorps anti-CD20, est très efficace pour induire la rémission dans d'autres vascularites des petits vaisseaux, notamment associées aux ANCA et cryoglobulinémiques. Une étude observationnelle multicentrique suggère son efficacité et sa tolérance dans la vascularite à IgA de l'adulte en rechute ou réfractaire. RIGA, essai de phase 3 promu par l'Hôpital Foch, est le premier essai randomisé en double aveugle évaluant le rituximab en induction. Il compare rituximab plus glucocorticoïdes à placebo plus glucocorticoïdes.",
+ "interet": "Un résultat positif ferait du rituximab une option validée pour les formes sévères de vascularite à IgA de l'adulte. Il pourrait aussi permettre d'épargner des glucocorticoïdes.",
+ "profil": "Des adultes avec une vascularite à IgA prouvée par biopsie, récente ou en rechute, avec atteinte sévère d'au moins un organe.",
+ "inclusion": [
+  "Vascularite à IgA prouvée par biopsie (définitions de Chapel Hill)",
+  "18 ans ou plus",
+  "Maladie récente ou en rechute avec manifestations actives",
+  "Atteinte sévère d'au moins un organe",
+  "Dans les 21 jours suivant le début ou l'augmentation des glucocorticoïdes (< 1 mg/kg/j)"
+ ],
+ "exclusion": [
+  "Vascularite associée aux ANCA ou autre vascularite",
+  "Vascularite à IgA en rémission",
+  "Insuffisance cardiaque sévère (NYHA IV) ou cardiopathie sévère non contrôlée",
+  "Infection aiguë ou chronique active (dont VIH, VHB, VHC)",
+  "Cancer actif ou datant de moins de 5 ans",
+  "Rituximab dans les 12 mois précédents ou immunosuppresseur dans les 3 mois",
+  "Contre-indication au rituximab ou aux traitements de référence"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe expérimental",
+   "traitement": "Rituximab associé aux glucocorticoïdes ; dose non précisée dans le registre"
+  },
+  {
+   "nom": "Groupe contrôle",
+   "traitement": "Placebo associé aux glucocorticoïdes"
+  }
+ ],
+ "duree": "360 jours",
+ "critere": "Efficacité du rituximab à 180 jours et à 360 jours (définition non précisée dans le registre)"
+}

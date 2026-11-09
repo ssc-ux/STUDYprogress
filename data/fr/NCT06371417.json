@@ -1,0 +1,35 @@
+{
+ "h": "e16ec06dcd8d",
+ "date": "2026-11-09",
+ "titre": "RAY121 (inhibiteur de la voie classique du complément) dans plusieurs maladies immunologiques",
+ "question": "Le RAY121, inhibiteur de la voie classique du complément, est-il bien toléré chez des patients atteints de SAPL, pemphigoïde bulleuse, Behçet, dermatomyosite, myopathie nécrosante ou PTI ?",
+ "contexte": "Plusieurs maladies à médiation immune ont en commun l'activation de la voie classique du complément, via les complexes immuns et les auto-anticorps. C'est le cas du syndrome des antiphospholipides (SAPL), de la pemphigoïde bulleuse, du syndrome de Behçet, de la dermatomyosite, des myopathies nécrosantes à médiation auto-immune (MNAI) et du purpura thrombopénique immunologique (PTI). Les traitements actuels (corticoïdes, immunosuppresseurs, anticoagulants, agonistes du récepteur de la TPO) laissent des besoins non couverts, notamment en cas de maladie réfractaire.\n\nLe RAY121 inhibe la voie classique du complément. Le sutimlimab, un anti-C1s, a montré l'intérêt de cette stratégie dans l'anémie hémolytique à agglutinines froides, ce qui justifie son exploration dans d'autres maladies. Cette phase 1b ouverte en panier, promue par Chugai, évalue la tolérance, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'efficacité préliminaire de doses répétées dans six cohortes. Elle compte 77 centres dans 20 pays.",
+ "interet": "Étude précoce de sécurité et de signaux d'efficacité sans comparateur. Elle orientera le choix des maladies pour les phases suivantes.",
+ "profil": "Des adultes de 18 à 85 ans atteints de SAPL, pemphigoïde bulleuse, Behçet, dermatomyosite, MNAI ou PTI, en échec ou intolérants aux traitements usuels.",
+ "inclusion": [
+  "18 à 85 ans, score de Karnofsky ≥ 60 %",
+  "SAPL primaire avec profil biologique persistant et critère clinique (livedo avec ulcère, néphropathie)",
+  "Pemphigoïde bulleuse : BPDAI ≥ 20 et prurit ≥ 4",
+  "Behçet : ≥ 3 aphtes en 12 mois, ≥ 2 aphtes actuels, échec d'au moins un traitement non biologique",
+  "Dermatomyosite ou MNAI (CK > 1000 U/L) active, avec réponse insuffisante aux corticoïdes ou immunosuppresseurs",
+  "PTI persistant ou chronique : plaquettes ≤ 30 G/L, échec d'un agoniste du récepteur de la TPO et d'un autre traitement"
+ ],
+ "exclusion": [
+  "Anaphylaxie ou hypersensibilité à un produit biologique",
+  "Infection active nécessitant un traitement systémique",
+  "Hépatite B, hépatite C, VIH ou tuberculose active",
+  "Cancer dans les 5 ans",
+  "Autre maladie auto-immune que la maladie cible (sauf Sjögren dans DM et MNAI)",
+  "Traitement antérieur ou actuel par anti-C1s",
+  "Produit expérimental < 28 jours ou 5 demi-vies",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "RAY121 (panier, bras unique)",
+   "traitement": "RAY121 en doses répétées (dose non précisée), dans six cohortes de maladies"
+  }
+ ],
+ "duree": "Jusqu'à 32 semaines",
+ "critere": "Événements indésirables, de l'inclusion à la semaine 32"
+}

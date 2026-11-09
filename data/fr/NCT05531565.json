@@ -1,0 +1,44 @@
+{
+ "h": "9610ba457c29",
+ "date": "2026-11-09",
+ "titre": "Litifilimab dans le lupus cutané actif réfractaire aux antipaludéens",
+ "question": "Le litifilimab réduit-il l'activité du lupus cutané subaigu ou chronique résistant aux antipaludéens, par rapport au placebo ?",
+ "contexte": "Le lupus cutané subaigu et chronique (notamment discoïde) peut survenir seul ou avec un lupus systémique. Le traitement de première ligne repose sur la photoprotection, les dermocorticoïdes et les antipaludéens. Les formes réfractaires ou mal tolérées aux antipaludéens n'ont pas de traitement validé et sont source de cicatrices et d'altération de la qualité de vie.\n\nLe litifilimab est un anticorps monoclonal dirigé contre BDCA2, un récepteur inhibiteur des cellules dendritiques plasmacytoïdes, principales productrices d'interférons de type I dans le lupus. Cette étude combine une partie A (phase 2) et une partie B (phase 3) randomisées en double aveugle contre placebo. Le litifilimab est administré par voie sous-cutanée toutes les 4 semaines jusqu'à la semaine 20, puis tous les participants reçoivent le litifilimab jusqu'à la semaine 48. Le critère principal est le score CLA-IGA-R d'érythème à 16 semaines en partie A et la réponse CLASI-70 à 24 semaines en partie B. Le promoteur est Biogen, avec onze centres français.",
+ "interet": "Si l'étude est positive, le litifilimab pourrait devenir le premier traitement ciblé du lupus cutané réfractaire aux antipaludéens. Elle précisera aussi la réponse selon le sous-type cutané.",
+ "profil": "Des adultes atteints de lupus cutané subaigu ou chronique actif, avec ou sans atteinte systémique, en échec ou intolérants aux antipaludéens.",
+ "inclusion": [
+  "Adulte (18 ans ou plus)",
+  "Lupus cutané confirmé histologiquement, avec ou sans manifestations systémiques",
+  "Manifestations cutanées actives répondant aux critères de l'étude",
+  "CLASI-A ≥ 10",
+  "Lésion active malgré un essai adéquat d'antipaludéens"
+ ],
+ "exclusion": [
+  "Autre maladie cutanée active pouvant gêner l'évaluation",
+  "Connectivite mixte ou syndrome de chevauchement confondant (hors lupus avec myosite ou Sjögren secondaire)",
+  "Néphrite lupique sévère active",
+  "Lupus neuropsychiatrique actif",
+  "Corticoïdes intralésionnels dans la semaine précédant le dépistage",
+  "Immunosuppresseur ou traitement de fond débuté moins de 12 semaines avant le dépistage ou non stable"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A (phase 2) : litifilimab",
+   "traitement": "Litifilimab sous-cutané toutes les 4 semaines jusqu'à la semaine 20 (dose supplémentaire à la semaine 2), puis poursuite jusqu'à la semaine 48"
+  },
+  {
+   "nom": "Partie A (phase 2) : placebo",
+   "traitement": "Placebo sous-cutané jusqu'à la semaine 20, puis litifilimab jusqu'à la semaine 48"
+  },
+  {
+   "nom": "Partie B (phase 3) : litifilimab",
+   "traitement": "Litifilimab sous-cutané toutes les 4 semaines jusqu'à la semaine 20, puis poursuite jusqu'à la semaine 48"
+  },
+  {
+   "nom": "Partie B (phase 3) : placebo",
+   "traitement": "Placebo sous-cutané jusqu'à la semaine 20, puis litifilimab jusqu'à la semaine 48"
+  }
+ ],
+ "duree": "48 semaines de traitement (durée de suivi non précisée)",
+ "critere": "Partie A : pourcentage de patients avec un score CLA-IGA-R d'érythème de 0 ou 1 à la semaine 16 ; partie B : pourcentage de patients en réponse CLASI-70 (baisse ≥ 70 % du CLASI-A) à la semaine 24"
+}

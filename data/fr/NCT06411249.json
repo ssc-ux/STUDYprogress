@@ -1,0 +1,32 @@
+{
+ "h": "038388a097c7",
+ "date": "2026-11-09",
+ "titre": "Bélimumab sous-cutané dans le lupus systémique débutant",
+ "question": "Le bélimumab sous-cutané, introduit tôt dans le lupus systémique actif malgré un traitement de fond stable, permet-il d'atteindre un état de faible activité (LLDAS) à 52 semaines ?",
+ "contexte": "Le lupus systémique évolue par poussées et s'accompagne d'une accumulation de dommages d'organe, liée à la maladie et aux corticoïdes. Les recommandations visent la rémission ou, à défaut, un état de faible activité, avec une épargne cortisonique. Le bélimumab, anticorps anti-BLyS (BAFF), est approuvé en complément du traitement standard dans le lupus actif auto-anticorps positif, y compris en formulation sous-cutanée.\n\nL'essentiel des données disponibles provient d'essais incluant des patients à la maladie déjà ancienne. On ignore si un recours précoce à une biothérapie, avant l'apparition de dommages, améliore le contrôle de la maladie. Cette étude de phase 4 ouverte, à bras unique, de GSK, inclut des adultes dont le lupus a été diagnostiqué depuis moins de 2 ans, avec auto-anticorps et activité persistante malgré un traitement de première ligne stable. Le critère principal est le taux de patients en état de faible activité (LLDAS) à la semaine 52. Le suivi total est de 3 ans afin de décrire l'efficacité et la sécurité à plus long terme. Des centres français participent (Angers, Saint-Priest-en-Jarez, Toulouse).",
+ "interet": "L'étude pourrait documenter, en vie réelle encadrée, le bénéfice d'une biothérapie précoce dans le lupus. Elle fournirait des données sur l'atteinte de la faible activité et sur la réduction des corticoïdes. Faute de bras comparateur, ses résultats resteront descriptifs.",
+ "profil": "Des adultes atteints de lupus systémique datant de moins de 2 ans, auto-anticorps positifs, avec une activité persistante malgré un traitement de première ligne stable.",
+ "inclusion": [
+  "Lupus systémique diagnostiqué depuis moins de 2 ans (critères EULAR/ACR 2019)",
+  "Auto-anticorps positifs : ANA ≥ 1:80 et/ou anti-ADN natif positif à deux dates",
+  "Maladie active : SLEDAI-2K clinique > 4, ou 1 à 4 avec prednisone ≥ 10 mg/j",
+  "Index de dommages SDI = 0 au dépistage",
+  "Contraception efficace chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Lymphome, leucémie ou autre cancer < 5 ans (hors carcinomes cutanés réséqués)",
+  "Maladie aiguë ou chronique non lupique instable ou non contrôlée",
+  "Antécédent de greffe d'organe ou de cellules souches",
+  "Infection aiguë ou chronique active, dont infection grave récente (< 60 jours)",
+  "Tuberculose active ou latente non traitée",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Bélimumab (bras unique)",
+   "traitement": "Bélimumab par voie sous-cutanée, en ouvert, en ajout au traitement de fond (dose et rythme non précisés dans le registre)"
+  }
+ ],
+ "duree": "3 ans",
+ "critere": "Proportion de patients en état de faible activité lupique (LLDAS) à la semaine 52"
+}

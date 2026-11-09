@@ -1,0 +1,38 @@
+{
+ "h": "362e286d8255",
+ "date": "2026-11-09",
+ "titre": "Dapirolizumab pegol versus placebo dans le lupus systémique modérément à sévèrement actif",
+ "question": "Le dapirolizumab pegol, ajouté au traitement de référence, permet-il d'obtenir une réponse BICLA à 48 semaines dans un lupus systémique actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique dont l'activité persiste chez de nombreux patients malgré les antipaludéens, les corticoïdes et les immunosuppresseurs. Les poussées répétées entraînent des dommages d'organes et une exposition prolongée aux corticoïdes. De nouveaux traitements de fond sont donc nécessaires.\n\nLe dapirolizumab pegol est un fragment Fab' pégylé dirigé contre CD40L, molécule exprimée par les lymphocytes T activés qui stimule les lymphocytes B et les cellules dendritiques. Son blocage vise à réduire l'activation immunitaire propre au lupus. Cet essai de phase 3 de UCB, nommé PHOENYCS FLY, est randomisé, en quadruple aveugle, contre placebo, chez environ 450 patients à partir de 16 ans. Ils doivent avoir un lupus modérément à sévèrement actif (BILAG-2004 A ou B, SLEDAI-2K ≥ 6) avec une sérologie lupique, malgré un traitement de référence stable. Le dapirolizumab pegol est évalué en complément de ce traitement.",
+ "interet": "Si l'essai est positif, le blocage de CD40L deviendrait une option supplémentaire dans le lupus actif insuffisamment contrôlé. L'étude précisera aussi son profil de tolérance à plus long terme.",
+ "profil": "Des patients de 16 ans ou plus avec un lupus systémique modérément à sévèrement actif malgré un traitement de référence stable.",
+ "inclusion": [
+  "16 ans ou plus (18 ans en Chine)",
+  "Lupus diagnostiqué depuis au moins 24 semaines, critères EULAR/ACR 2019",
+  "Sérologie lupique (anti-ADN natif, C3 ou C4 bas, ou ANA ≥ 1:80 avec auto-anticorps spécifiques)",
+  "BILAG-2004 : au moins deux scores B et/ou un score A",
+  "SLEDAI-2K ≥ 6 au dépistage et SLEDAI-2K sans biologie ≥ 4 à l'inclusion",
+  "Traitement de référence stable (antipaludéens, corticoïdes et/ou immunosuppresseurs)"
+ ],
+ "exclusion": [
+  "Affection médicale ou psychiatrique (dont lupus neuropsychiatrique) compromettant la participation",
+  "Antécédent de réaction anaphylactique aux produits de contraste, protéines humaines ou murines ou anticorps monoclonaux",
+  "Antécédent de cancer (sauf exceptions : carcinome in situ du col, carcinome basocellulaire ou épidermoïde cutané traités)",
+  "Connectivite mixte, sclérodermie ou chevauchement avec le lupus",
+  "Infection par le VIH, agammaglobulinémie ou déficit en lymphocytes T",
+  "Infection active ou latente cliniquement significative, ou infection opportuniste récente",
+  "Insuffisance rénale chronique de stade 4 ou protéinurie > 3 g/j"
+ ],
+ "bras": [
+  {
+   "nom": "Dapirolizumab pegol",
+   "traitement": "Dapirolizumab pegol (posologie non précisée) pendant toute la période de traitement, en plus du traitement de référence"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo pendant toute la période de traitement, en plus du traitement de référence"
+  }
+ ],
+ "duree": "Au moins 48 semaines",
+ "critere": "Réponse BICLA (BILAG-2004-based Composite Lupus Assessment) à la semaine 48"
+}

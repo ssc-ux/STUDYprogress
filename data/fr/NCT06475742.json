@@ -1,0 +1,31 @@
+{
+ "h": "df5c6b3e92b8",
+ "date": "2026-11-09",
+ "titre": "Extension long terme du cénérimod dans le lupus systémique modéré à sévère",
+ "question": "Le cénérimod, modulateur du récepteur S1P1, reste-t-il bien toléré jusqu'à 5 ans chez des adultes atteints de lupus systémique ?",
+ "contexte": "Le lupus systémique modéré à sévère reste difficile à contrôler malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies disponibles. Les traitements oraux ciblés sont peu nombreux, et la réduction des corticoïdes est un objectif majeur.\n\nLe cénérimod est un modulateur oral du récepteur S1P1 de la sphingosine-1-phosphate. Il séquestre une partie des lymphocytes dans les organes lymphoïdes et réduit leur circulation vers les tissus inflammatoires. Cette extension ouverte à bras unique concerne les patients ayant terminé les 12 mois en double aveugle de l'un des deux essais de phase 3 (ID-064A301 ou ID-064A302), dont les résultats ne figurent pas dans le registre. Tous reçoivent le cénérimod 4 mg une fois par jour jusqu'à 60 mois, en plus du traitement de fond. Elle vérifie si le profil de tolérance observé dans les essais contrôlés se maintient à plus long terme. Le promoteur est Viatris, avec un centre français à La Réunion.",
+ "interet": "Ces données de sécurité à long terme seront nécessaires à une éventuelle utilisation du cénérimod, un traitement oral, dans le lupus. Elles renseigneront aussi sur la poursuite de l'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique ayant terminé l'un des deux essais de phase 3 sur le cénérimod.",
+ "inclusion": [
+  "Lupus systémique",
+  "12 mois en double aveugle terminés dans l'essai parent ID-064A301 ou ID-064A302",
+  "Aucun critère d'arrêt du traitement rempli dans l'essai parent",
+  "Dernière visite de l'essai parent réalisée",
+  "Femmes en âge de procréer : test de grossesse négatif et contraception hautement efficace"
+ ],
+ "exclusion": [
+  "Mauvaise observance dans l'essai parent (moins de 80 % des doses ou visites manquées)",
+  "Atteinte rénale ou du système nerveux central due au lupus, ou lupus neuropsychiatrique sévère nécessitant un traitement non autorisé",
+  "Projet de grossesse jusqu'à la dernière visite",
+  "Tuberculose active ou latente confirmée (si exigé localement)",
+  "Inéligibilité jugée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Cénérimod 4 mg",
+   "traitement": "Cénérimod oral 4 mg une fois par jour, jusqu'à 60 mois, en plus du traitement de fond"
+  }
+ ],
+ "duree": "Jusqu'à 5,5 ans (5 ans de traitement et 6 mois de suivi)",
+ "critere": "Événements indésirables apparus sous traitement, événements indésirables graves et d'intérêt particulier, jusqu'à 5,5 ans"
+}

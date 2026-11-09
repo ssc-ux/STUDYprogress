@@ -1,0 +1,41 @@
+{
+ "h": "d5d1cb377726",
+ "date": "2026-11-09",
+ "titre": "Hépatite associée aux virus entériques chez les patients avec déficit immunitaire humoral",
+ "question": "Quelles populations de patients immunodéprimés sont à risque d'hépatite chronique liée à une infection chronique par un virus entérique ?",
+ "contexte": "Chez les patients atteints de déficit immunitaire primitif (DIP), en particulier humoral, les complications dysimmunitaires sont fréquentes. L'atteinte hépatique, notamment l'hyperplasie nodulaire régénérative, en fait partie et s'associe souvent à une entéropathie chronique parfois mal étiquetée. Leur cause reste souvent inexpliquée.\n\nLes investigateurs font l'hypothèse qu'une infection chronique par un virus entérique, et la réponse immune qu'elle entraîne, pourrait expliquer ces atteintes. Quatre cohortes sont étudiées : déficits humoraux primitifs, déficits humoraux secondaires (après anti-CD20 ou CAR-T), déficits immunitaires combinés et déficits immunitaires combinés sévères après greffe ou thérapie génique avec déficit humoral. Dans chaque cohorte, des patients suspects d'hépatite à virus entérique (EVAH) et des témoins sont inclus. Des prélèvements sanguins, urinaires et fécaux sont ajoutés aux prélèvements de soins, avec recherche des virus entériques par PCR sur selles, urines et plasma et par séquençage métagénomique sur les biopsies d'organes réalisées pour le soin. Un sous-groupe fera l'objet d'études immunologiques complémentaires (populations leucocytaires, réponse cellulaire antivirale). L'étude est promue par l'AP-HP et menée dans les centres du CEREDIH (Necker, Saint-Louis, Cochin).",
+ "interet": "Identifier les populations à risque d'hépatite à virus entérique permettrait de cibler un dépistage virologique chez des patients immunodéprimés présentant une atteinte hépatique ou digestive chronique. Elle pourrait aussi ouvrir la voie à des stratégies thérapeutiques ciblées.",
+ "profil": "Des patients de tout âge avec un déficit immunitaire humoral primitif ou secondaire, combiné ou combiné sévère, suivis dans les centres CEREDIH de l'AP-HP.",
+ "inclusion": [
+  "Aucune limite d'âge",
+  "Déficit immunitaire humoral primitif (critères IUIS)",
+  "Déficit humoral secondaire (post anti-CD20 ou CAR-T) avec lymphopénie B et/ou hypogammaglobulinémie",
+  "Déficit immunitaire combiné (critères IUIS)",
+  "Déficit immunitaire combiné sévère à plus de 2 ans d'une greffe de cellules souches ou d'une thérapie génique",
+  "Information et non-opposition du patient ou de ses représentants légaux"
+ ],
+ "exclusion": [
+  "Patient n'appartenant pas à l'une des populations cibles",
+  "Opposition du patient ou des représentants légaux des mineurs"
+ ],
+ "bras": [
+  {
+   "nom": "Déficits immunitaires humoraux primitifs",
+   "traitement": "Prélèvements de plasma, urines et selles en plus des soins"
+  },
+  {
+   "nom": "Déficits humoraux secondaires",
+   "traitement": "Prélèvements de plasma, urines et selles (post anti-CD20 ou CAR-T)"
+  },
+  {
+   "nom": "Déficits immunitaires combinés",
+   "traitement": "Prélèvements de plasma, urines et selles"
+  },
+  {
+   "nom": "Déficits immunitaires combinés sévères",
+   "traitement": "Prélèvements de plasma, urines et selles, au-delà de 2 ans après greffe ou thérapie génique"
+  }
+ ],
+ "duree": "Un seul temps de prélèvement (jour 0)",
+ "critere": "Nombre de patients avec anomalies hépatiques et/ou digestives chroniques, nombre avec un virus entérique identifié, et association statistique entre les deux, au jour 0"
+}

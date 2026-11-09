@@ -1,0 +1,33 @@
+{
+ "h": "73086930f406",
+ "date": "2026-11-09",
+ "titre": "Extension long terme du litifilimab dans le lupus érythémateux systémique actif",
+ "question": "Le litifilimab, anticorps anti-BDCA2, reste-t-il bien toléré et efficace sur le long terme chez des adultes atteints de lupus systémique actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique dont le traitement repose sur les antipaludéens, les corticoïdes et les immunosuppresseurs. Malgré l'arrivée récente de biothérapies (bélimumab, anifrolumab), une proportion importante de patients garde une maladie active et accumule des corticoïdes et des dommages d'organe. Les cellules dendritiques plasmacytoïdes produisent l'essentiel des interférons de type I, qui jouent un rôle central dans la physiopathologie du lupus.\n\nLe litifilimab est un anticorps monoclonal dirigé contre BDCA2, un récepteur inhibiteur de ces cellules, dont l'activation réduit la production d'interférons et d'autres cytokines. Cette étude est l'extension en aveugle des deux essais de phase 3 TOPAZ-1 et TOPAZ-2, dont les résultats ne sont pas rapportés dans le registre. Les patients ayant terminé les 52 semaines des essais parents poursuivent leur dose (haute ou basse) ; ceux sous placebo sont randomisés vers l'une des deux doses. Le critère principal est la tolérance, mais l'étude suivra aussi l'activité de la maladie, les dommages d'organe et la consommation de corticoïdes jusqu'à 284 semaines, et teste un nouveau dispositif d'injection dans une sous-étude optionnelle. Le promoteur est Biogen, avec un centre français (CHU de Clermont-Ferrand).",
+ "interet": "Ces données de sécurité à long terme conditionneraient la place du litifilimab dans l'arsenal du lupus si les essais parents sont positifs. Elles renseigneraient aussi sur le maintien de la faible activité et la réduction des corticoïdes.",
+ "profil": "Des adultes atteints de lupus systémique actif ayant terminé l'un des deux essais de phase 3 TOPAZ.",
+ "inclusion": [
+  "Adulte (18 ans ou plus)",
+  "Participation à l'un des essais parents 230LE303 ou 230LE304",
+  "Traitement de l'essai parent (litifilimab ou placebo) poursuivi jusqu'à la semaine 48",
+  "Visite de la semaine 52 de l'essai parent réalisée"
+ ],
+ "exclusion": [
+  "Arrêt précoce du traitement de l'essai parent avant la semaine 52",
+  "Sortie d'étude de l'essai parent avant la fin des 52 semaines",
+  "Aggravation modérée à sévère d'une atteinte d'organe nécessitant de changer antipaludéens ou immunosuppresseurs",
+  "Autre médicament expérimental ou hors AMM pour le lupus pendant l'essai parent"
+ ],
+ "bras": [
+  {
+   "nom": "Litifilimab dose basse",
+   "traitement": "Litifilimab sous-cutané toutes les 4 semaines, dose basse, jusqu'à 260 semaines, en plus du traitement de fond"
+  },
+  {
+   "nom": "Litifilimab dose haute",
+   "traitement": "Litifilimab sous-cutané toutes les 4 semaines, dose haute, jusqu'à 260 semaines, en plus du traitement de fond"
+  }
+ ],
+ "duree": "Jusqu'à 284 semaines (260 semaines de traitement puis 24 semaines de suivi)",
+ "critere": "Nombre de participants avec des événements indésirables, dont graves, jusqu'à la semaine 284"
+}

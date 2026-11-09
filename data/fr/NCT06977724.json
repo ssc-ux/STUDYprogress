@@ -1,0 +1,40 @@
+{
+ "h": "b7bf6b71b9d5",
+ "date": "2026-11-09",
+ "titre": "ABBV-319 dans le lupus systémique, le syndrome de Sjögren et la polyarthrite rhumatoïde",
+ "question": "L'ABBV-319, agent de déplétion des lymphocytes B, est-il bien toléré et actif chez des patients atteints de lupus, de syndrome de Sjögren ou de polyarthrite rhumatoïde ?",
+ "contexte": "Le lupus systémique, le syndrome de Sjögren et la polyarthrite rhumatoïde partagent une hyperactivité des lymphocytes B. Les options ciblant ces cellules, comme le rituximab, ne suffisent pas toujours, et de nombreux patients ont encore une maladie active malgré les traitements disponibles. Le syndrome de Sjögren n'a, de plus, aucun traitement de fond validé.\n\nL'ABBV-319 est un médicament expérimental dont le potentiel de déplétion B est étudié dans ces trois maladies. Cette étude de phase 1b ouverte non randomisée administre deux perfusions intraveineuses à 21 jours d'intervalle, selon huit groupes définis par la maladie et la dose. Les patients sont suivis jusqu'à environ un an. Elle évalue la tolérance, la pharmacocinétique, la déplétion B sanguine et tissulaire et l'immunogénicité. Les doses des groupes Sjögren et polyarthrite ne sont pas encore fixées dans le registre. Le promoteur est AbbVie, avec des centres à Strasbourg et Montpellier.",
+ "interet": "Étude précoce de recherche de dose : elle ne modifie pas la pratique mais renseigne sur la faisabilité d'une déplétion B profonde dans plusieurs maladies auto-immunes.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique, de syndrome de Sjögren ou de polyarthrite rhumatoïde actifs.",
+ "inclusion": [
+  "18 à 75 ans",
+  "Lupus : diagnostic depuis ≥ 6 mois (EULAR/ACR 2019), ANA ≥ 1:80 et auto-anticorps spécifiques",
+  "Sjögren : diagnostic depuis ≥ 6 mois (ACR/EULAR 2016), ESSDAI ≥ 5 et ESSPRI ≥ 5",
+  "Polyarthrite : critères ACR/EULAR 2010, FR ou ACPA positifs",
+  "Polyarthrite : ≥ 6 articulations gonflées et ≥ 6 douloureuses, CRP ultrasensible ≥ 3 mg/L"
+ ],
+ "exclusion": [
+  "Antécédent d'infection tel que défini dans le protocole",
+  "Maladies listées dans le protocole",
+  "Abus de drogue ou d'alcool dans les 6 derniers mois",
+  "Chirurgie élective prévue pendant l'étude",
+  "Anomalie ECG cliniquement significative",
+  "Polyarthrite : syndromes de chevauchement (lupus, Sjögren, sclérodermie, connectivite mixte, polymyosite)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupes 1 à 4 : lupus",
+   "traitement": "ABBV-319 IV, 2 doses à 21 jours d'intervalle, 4 niveaux de dose (A à D)"
+  },
+  {
+   "nom": "Groupes 5 et 6 : Sjögren",
+   "traitement": "ABBV-319 IV, 2 doses à 21 jours d'intervalle, dose à définir"
+  },
+  {
+   "nom": "Groupes 7 et 8 : polyarthrite rhumatoïde",
+   "traitement": "ABBV-319 IV, 2 doses à 21 jours d'intervalle, dose à définir"
+  }
+ ],
+ "duree": "Jusqu'à environ 343 jours",
+ "critere": "Événements indésirables, déplétion B sanguine et tissulaire, paramètres pharmacocinétiques et anticorps anti-médicament, jusqu'à environ 400 jours"
+}

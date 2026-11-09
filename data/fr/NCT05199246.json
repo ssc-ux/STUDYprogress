@@ -1,0 +1,37 @@
+{
+ "h": "3ac8b8e28ba7",
+ "date": "2026-11-09",
+ "titre": "Exosquelette motorisé des membres inférieurs chez des patients atteints de maladies neuromusculaires",
+ "question": "Un exosquelette motorisé des membres inférieurs (Keeogo) est-il sûr et utilisable chez des patients marchants atteints de maladies neuromusculaires ?",
+ "contexte": "Les maladies neuromusculaires comme la dystrophie facio-scapulo-humérale, la myosite à inclusions ou la maladie de Pompe entraînent une faiblesse musculaire touchant surtout les muscles proximaux des membres inférieurs. Elle réduit l'autonomie et la qualité de vie, et augmente le risque de chute et de complications.\n\nLes patients conservent souvent une force résiduelle permettant la marche, mais au prix de mouvements de compensation qui surchargent les articulations. Les orthèses classiques sont passives. Les exosquelettes motorisés comme ReWalk ou Indego, lourds, ont surtout été utilisés en rééducation neurologique en milieu hospitalier.\n\nLe Keeogo, exosquelette de genou plus léger, a montré des bénéfices dans des études isolées chez des patients atteints d'AVC ou de sclérose en plaques. Son effet n'a pas été étudié spécifiquement dans les maladies neuromusculaires. Cette étude de l'Institut de Myologie évalue sa sécurité, sa facilité d'utilisation et ses effets immédiats lors de tâches standardisées. Elle doit aussi permettre d'établir des critères d'utilisation et de préparer une étude d'usage à domicile.",
+ "interet": "Si l'appareil est sûr et utile, il pourrait devenir une aide à la marche pour les patients neuromusculaires marchants. L'étude fournira des critères pour choisir les patients concernés.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'une maladie neuromusculaire, capables de marcher et de se lever d'une chaise.",
+ "inclusion": [
+  "18 à moins de 70 ans, taille 1,50 à 1,95 m, poids 45 à 110 kg",
+  "Myopathie confirmée (dystrophie, myopathie congénitale, myosite inflammatoire, myopathie mitochondriale, glycogénose)",
+  "Lever de chaise sans appui 3 à 15 fois en 30 secondes",
+  "Marche sans aide humaine d'au moins 2 minutes",
+  "Périmètre abdominal < 125 cm"
+ ],
+ "exclusion": [
+  "Cardiomyopathie instable",
+  "Hypotension orthostatique symptomatique",
+  "Antécédent de fracture ostéoporotique",
+  "Trouble de l'équilibre d'origine non neuromusculaire",
+  "Traumatisme récent (chute, accident)",
+  "Insuffisance respiratoire sévère",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Exosquelette motorisé",
+   "traitement": "Réalisation de tâches standardisées avec l'exosquelette Keeogo des membres inférieurs"
+  },
+  {
+   "nom": "Sans dispositif",
+   "traitement": "Mêmes tâches standardisées sans exosquelette"
+  }
+ ],
+ "duree": "Environ 4 semaines en moyenne",
+ "critere": "Absence d'événement indésirable attribuable au dispositif pendant les tâches, jusqu'à la fin de l'étude (environ 4 semaines)"
+}

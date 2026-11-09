@@ -1,0 +1,26 @@
+{
+ "h": "3637a65ada94",
+ "date": "2026-11-09",
+ "titre": "Polynucléaires neutrophiles circulants comme marqueur de sévérité du syndrome des antisynthétases",
+ "question": "Un taux de polynucléaires neutrophiles circulants supérieur à 7000/mm3 au diagnostic est-il un marqueur de sévérité du syndrome des antisynthétases ?",
+ "contexte": "Le syndrome des antisynthétases est une connectivite rare et hétérogène associant myosite, pneumopathie interstitielle diffuse, atteinte articulaire, phénomène de Raynaud et lésions cutanées (mains de mécanicien). Plus de la moitié des patients développent une pneumopathie interstitielle, qui est la première cause de décès.\n\nLe rôle des neutrophiles, cellules de l'immunité innée notamment induites par les cytokines de la voie Th17, est inconnu dans cette maladie. Un rôle pathogène direct des neutrophiles a été décrit dans les myopathies inflammatoires idiopathiques, avec une augmentation de la NETose corrélée à l'activité de la maladie et à l'atteinte musculaire. Dans le syndrome des antisynthétases, un nombre plus élevé de neutrophiles alvéolaires a été observé en cas de pneumopathie interstitielle rapidement progressive.\n\nPeu de données existent sur les neutrophiles circulants dans cette maladie. Les investigateurs font l'hypothèse qu'ils pourraient constituer un biomarqueur de sévérité simple et accessible. Cette étude rétrospective multicentrique, promue par le CHU de Nancy, évalue la performance diagnostique d'un seuil de 7000/mm3 au diagnostic. Elle explore aussi le rapport neutrophiles/lymphocytes et les neutrophiles du lavage bronchoalvéolaire.",
+ "interet": "Un simple chiffre de numération sanguine pourrait aider à identifier dès le diagnostic les patients à forme sévère. Cela orienterait l'intensité de la surveillance et du traitement.",
+ "profil": "Des adultes atteints d'un syndrome des antisynthétases diagnostiqué selon les critères de Connors.",
+ "inclusion": [
+  "Syndrome des antisynthétases selon les critères de Connors",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "Infection active au diagnostic",
+  "Cancer évolutif au diagnostic",
+  "Corticothérapie débutée avant la mesure des neutrophiles circulants"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec syndrome des antisynthétases",
+   "traitement": "Étude rétrospective ; mesure des neutrophiles circulants au diagnostic, sans intervention"
+  }
+ ],
+ "duree": "Étude rétrospective ; données au diagnostic et à 1 an de traitement",
+ "critere": "Taux de neutrophiles circulants > 7000/mm3 au diagnostic et nombre de patients avec une forme sévère"
+}

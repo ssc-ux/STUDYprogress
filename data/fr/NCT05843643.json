@@ -1,0 +1,45 @@
+{
+ "h": "a9a388593705",
+ "date": "2026-11-09",
+ "titre": "Upadacitinib dans le lupus systémique modérément à sévèrement actif (SELECT-SLE)",
+ "question": "L'upadacitinib, inhibiteur de JAK, améliore-t-il la réponse BICLA à 52 semaines chez des adultes avec un lupus systémique actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie inflammatoire touchant de multiples organes. Malgré les antipaludéens, les corticoïdes et les immunosuppresseurs, de nombreux patients conservent une maladie active, avec un risque de dommages cumulés. Plusieurs cytokines impliquées dans le lupus, dont les interférons de type I, signalent par la voie JAK/STAT, ce qui justifie l'intérêt des inhibiteurs de JAK.\n\nL'upadacitinib, inhibiteur oral préférentiel de JAK1, est déjà approuvé dans la polyarthrite rhumatoïde, le rhumatisme psoriasique et la spondyloarthrite axiale. SELECT-SLE est un programme de phase 3 d'AbbVie en quatre sous-études. Les études 1 et 2, chacune d'environ 500 patients, comparent l'upadacitinib à un placebo pendant 52 semaines en double aveugle, avec une chance sur deux d'être sous placebo. L'étude 3 propose ensuite de l'upadacitinib à 52 semaines, avec deux doses selon l'activité de la maladie, et l'étude 4 une extension de 104 semaines si le bénéfice est probable. Des centres français participent (Toulouse, Lyon, Paris).",
+ "interet": "Si le programme est positif, l'upadacitinib serait un traitement oral supplémentaire dans le lupus actif. Les données de sécurité à long terme, notamment infectieuses et thrombotiques, seront essentielles.",
+ "profil": "Des adultes de 18 à 63 ans avec un lupus systémique modérément à sévèrement actif sous traitement de fond stable.",
+ "inclusion": [
+  "18 à 63 ans, lupus diagnostiqué depuis au moins 24 semaines (critères EULAR/ACR 2019)",
+  "ANA ≥ 1:80, anti-ADN natif ou anti-Sm positifs",
+  "hSLEDAI ≥ 6 dont ≥ 4 points cliniques",
+  "Évaluation globale du médecin ≥ 1",
+  "Traitement de fond stable depuis ≥ 60 jours : antimalariques, prednisone ≤ 20 mg/j et/ou un seul immunosuppresseur"
+ ],
+ "exclusion": [
+  "Néphrite lupique de classe III/IV traitée par induction dans les 6 mois",
+  "Lupus neuropsychiatrique actif dans les 6 mois",
+  "Syndromes de chevauchement (PR, sclérodermie, polymyosite, dermatomyosite, connectivite mixte)",
+  "Syndrome des antiphospholipides avec thrombose sans anticoagulation adéquate",
+  "Deux zonas ou plus, ou zona disséminé ou ophtalmique",
+  "Antécédent de cancer (hors cancer cutané non mélanome ou carcinome in situ du col traités)",
+  "Grossesse, allaitement ou anomalie ECG significative"
+ ],
+ "bras": [
+  {
+   "nom": "Études 1 et 2 : upadacitinib",
+   "traitement": "Upadacitinib dose A, une fois par jour per os pendant 52 semaines (dose non précisée)"
+  },
+  {
+   "nom": "Études 1 et 2 : placebo",
+   "traitement": "Placebo une fois par jour pendant 52 semaines"
+  },
+  {
+   "nom": "Étude 3 : prolongation",
+   "traitement": "Upadacitinib dose A ou B pendant 52 semaines selon la réponse (activité faible ou non), placebo des études 1 et 2 passant à la dose A"
+  },
+  {
+   "nom": "Étude 4 : extension",
+   "traitement": "Upadacitinib dose A ou B pendant 104 semaines"
+  }
+ ],
+ "duree": "52 semaines en double aveugle, puis 52 semaines (étude 3) et 104 semaines (étude 4)",
+ "critere": "Pourcentage de patients en réponse BICLA à la semaine 52"
+}

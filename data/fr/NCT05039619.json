@@ -1,0 +1,40 @@
+{
+ "h": "b0d9407f233d",
+ "date": "2026-11-09",
+ "titre": "Obinutuzumab chez l'adolescent et l'enfant atteints de néphrite lupique de classe III ou IV",
+ "question": "L'obinutuzumab ajouté au traitement standard permet-il d'obtenir une réponse rénale complète à 76 semaines chez des adolescents atteints de néphrite lupique active, et quelle est sa tolérance chez l'enfant ?",
+ "contexte": "La néphrite lupique de l'enfant et de l'adolescent est souvent plus sévère que celle de l'adulte et expose à une insuffisance rénale et aux effets cumulés des corticoïdes. Les traitements actuels reposent sur les corticoïdes et le mycophénolate ou le cyclophosphamide, et les données pédiatriques des biothérapies sont rares.\n\nL'obinutuzumab est un anticorps anti-CD20 de type II qui déplète les lymphocytes B. Chez l'adulte, il a été étudié dans la néphrite lupique en association au traitement standard, mais le registre ne donne pas ses résultats. Cette étude de phase 2 randomisée en double aveugle contre placebo inclut des adolescents de 12 à 17 ans avec une néphrite de classe III ou IV prouvée par biopsie. Une cohorte ouverte d'enfants de 5 à moins de 12 ans, ouverte plus tard, évalue la tolérance et la pharmacocinétique. L'obinutuzumab (ou placebo) est perfusé aux jours 1 et 14 puis aux semaines 24, 26 et 52, avec un traitement de fond par mycophénolate. Le promoteur est Roche, avec quatre centres pédiatriques français.",
+ "interet": "Ces données pédiatriques sont rares et pourraient soutenir l'usage de l'obinutuzumab chez les enfants atteints de néphrite lupique. Elles guideraient aussi la posologie selon le poids.",
+ "profil": "Des adolescents de 12 à 17 ans (et des enfants de 5 à 11 ans en cohorte ouverte) atteints de néphrite lupique active de classe III ou IV.",
+ "inclusion": [
+  "Âge de 12 à moins de 18 ans (ou 5 à moins de 12 ans pour la cohorte pédiatrique)",
+  "Néphrite lupique active de classe III ou IV (ISN/RPS 2003) sur biopsie de moins de 12 mois",
+  "Lupus selon les critères SLICC 2012",
+  "Protéinurie significative (UPCR > 0,5)",
+  "Au moins une dose de méthylprednisolone IV en bolus pour l'épisode actuel"
+ ],
+ "exclusion": [
+  "Lupus du système nerveux central sévère et actif",
+  "Sclérose de plus de 50 % des glomérules",
+  "Atteinte purement chronique (classe III(c) ou IV(c)) ou néphrite de classe V pure",
+  "Glomérulonéphrite rapidement progressive",
+  "Infection active ou récente, déficit immunitaire, antécédent d'infection sévère récurrente",
+  "Cancer dans les 5 dernières années"
+ ],
+ "bras": [
+  {
+   "nom": "Obinutuzumab en aveugle (adolescents)",
+   "traitement": "Obinutuzumab IV 1000 mg (20 mg/kg si poids < 45 kg) aux jours 1 et 14 puis semaines 24, 26 et 52, avec traitement standard"
+  },
+  {
+   "nom": "Placebo (adolescents)",
+   "traitement": "Placebo apparié aux mêmes dates, avec traitement standard"
+  },
+  {
+   "nom": "Obinutuzumab ouvert (enfants de 5 à 11 ans)",
+   "traitement": "Obinutuzumab IV 1000 mg aux jours 1 et 14 puis semaines 24, 26 et 52"
+  }
+ ],
+ "duree": "Au moins 76 semaines",
+ "critere": "Adolescents : pourcentage de patients en réponse rénale complète à la semaine 76 ; enfants : pourcentage avec événements indésirables jusqu'à la semaine 76"
+}

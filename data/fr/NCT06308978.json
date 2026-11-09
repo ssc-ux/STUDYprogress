@@ -1,0 +1,44 @@
+{
+ "h": "83746ad167a1",
+ "date": "2026-11-09",
+ "titre": "FT819, cellules CAR T allogéniques anti-CD19, dans les maladies auto-immunes à lymphocytes B",
+ "question": "Le FT819, une thérapie cellulaire CAR T anti-CD19 issue de cellules souches pluripotentes, est-il sûr chez des patients atteints de lupus, de vascularite à ANCA, de myosite ou de sclérodermie systémique actifs et réfractaires ?",
+ "contexte": "Le lupus systémique, les vascularites associées aux ANCA, les myopathies inflammatoires idiopathiques et la sclérodermie systémique sont des maladies auto-immunes dans lesquelles les lymphocytes B et la production d'auto-anticorps jouent un rôle central. Malgré les corticoïdes, les immunosuppresseurs et les biothérapies (rituximab, bélimumab, anifrolumab), une partie des patients reste en maladie active ou accumule des séquelles.\n\nLes CAR T anti-CD19 autologues ont montré, dans des séries de cas publiées, des rémissions profondes dans le lupus et d'autres maladies auto-immunes, en déplétant les lymphocytes B. Leur fabrication à partir des cellules du patient reste longue, coûteuse et peu accessible. Le FT819 est un produit CAR T anti-CD19 allogénique, « prêt à l'emploi », dérivé de cellules souches pluripotentes induites. Cette étude de phase 1 du laboratoire Fate Therapeutics comprend une phase d'escalade de dose puis une phase d'expansion. Elle teste plusieurs schémas : une ou deux doses, avec ou sans lymphodéplétion préalable (fludarabine, cyclophosphamide, bendamustine) ou sous traitement de fond. Un centre français (Pitié-Salpêtrière, Paris) y participe.",
+ "interet": "Si la sécurité et l'activité anti-lymphocytes B sont confirmées, une CAR T allogénique disponible d'emblée pourrait élargir l'accès à la thérapie cellulaire dans les maladies auto-immunes réfractaires. L'étude permettra aussi de savoir si une lymphodéplétion préalable est indispensable.",
+ "profil": "Des patients de 12 à 70 ans atteints de lupus, de vascularite à ANCA, de myosite inflammatoire ou de sclérodermie systémique, actifs et en échec d'au moins deux traitements.",
+ "inclusion": [
+  "12 à 70 ans",
+  "Maladie auto-immune à lymphocytes B active (lupus, vascularite à ANCA, myosite, sclérodermie systémique) confirmée par les critères usuels",
+  "Maladie modérée à sévère, en échec d'au moins deux traitements",
+  "Fonction d'organe suffisante pour tolérer le traitement",
+  "Poids d'au moins 50 kg"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Atteinte sévère cardiaque, pulmonaire, hépatique ou rénale",
+  "Infection grave récente ou en cours",
+  "Cancer actif ou récent",
+  "Traitement antérieur par CAR T ou greffe d'organe",
+  "Allergie connue aux traitements de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Régime A",
+   "traitement": "FT819 en dose unique avec traitement auxiliaire (fludarabine, cyclophosphamide, bendamustine)"
+  },
+  {
+   "nom": "Régime B / B1",
+   "traitement": "FT819 en dose unique sans traitement auxiliaire, sous traitement de fond (suspendu temporairement dans le B1)"
+  },
+  {
+   "nom": "Régime C",
+   "traitement": "FT819 en deux doses avec traitement auxiliaire (fludarabine, cyclophosphamide, bendamustine)"
+  },
+  {
+   "nom": "Régime D",
+   "traitement": "FT819 en deux doses sans traitement auxiliaire, sous traitement de fond"
+  }
+ ],
+ "duree": "Jusqu'à environ 2 ans",
+ "critere": "Nombre de patients avec des événements indésirables apparus sous traitement (dont graves) jusqu'à environ 2 ans, et toxicités dose-limitantes jusqu'à environ 29 jours"
+}

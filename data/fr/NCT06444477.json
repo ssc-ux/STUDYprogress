@@ -1,0 +1,26 @@
+{
+ "h": "0c64c6393abe",
+ "date": "2026-11-09",
+ "titre": "Thrombopénie immunologique associée à un cancer : mimétisme antigénique plaquettes-cellules tumorales",
+ "question": "Chez les patients ayant à la fois un PTI et un cancer, quel est le taux de rémission du PTI après traitement spécifique du cancer ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune rare, avec destruction et défaut de production des plaquettes, exposant à un risque hémorragique. Des auto-anticorps antiplaquettes sont retrouvés dans 35 à 55 % des cas.\n\nL'association entre hémopathies malignes et PTI est bien décrite, mais le lien est beaucoup moins clair avec les cancers solides. Lorsque le PTI est associé à un cancer, le traitement spécifique du cancer peut conduire à la rémission, voire à la guérison, du PTI.\n\nLes investigateurs font l'hypothèse qu'une expression chronique de la GPIIb par les cellules tumorales pourrait initier puis entretenir une boucle auto-immune dirigée contre la GPIIb. MATAC, promu par le CHU de Bordeaux, est une étude rétrospective multicentrique de 33 patients. Elle recueille les données de soins courants : dates de diagnostic du PTI et du cancer, paramètres biologiques, traitements et évolution, sans intervention supplémentaire.",
+ "interet": "L'étude pourrait renforcer l'idée d'un PTI paranéoplasique et inciter à rechercher un cancer devant certains PTI. Elle documente aussi l'effet du traitement du cancer sur la rémission du PTI.",
+ "profil": "Des adultes ayant à la fois un PTI et un cancer, diagnostiqués à moins de 6 mois d'intervalle.",
+ "inclusion": [
+  "Adulte",
+  "Diagnostic certain de PTI et de cancer",
+  "Diagnostics synchrones de PTI et de cancer",
+  "PTI survenu dans les 6 mois avant ou après le diagnostic du cancer"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTI et cancer",
+   "traitement": "Étude rétrospective de soins courants, sans intervention"
+  }
+ ],
+ "duree": "Étude rétrospective ; données de soins courants, sans visite supplémentaire",
+ "critere": "Taux de rémission du PTI à 6 mois après le traitement spécifique du cancer"
+}

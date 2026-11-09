@@ -1,0 +1,32 @@
+{
+ "h": "15ac2d0735f0",
+ "date": "2026-11-09",
+ "titre": "Extension de l'ianalumab dans la néphrite lupique, avec ou sans arrêt du traitement",
+ "question": "L'ianalumab est-il sûr et efficace à long terme dans la néphrite lupique, et la rémission se maintient-elle après son arrêt ?",
+ "contexte": "La néphrite lupique touche une part importante des patients atteints de lupus systémique et reste une cause majeure de maladie rénale chronique. Le traitement d'induction associe corticoïdes et mycophénolate ou cyclophosphamide, avec ajout possible de bélimumab, d'obinutuzumab ou d'un anticalcineurinique. Les rechutes sont fréquentes et la durée optimale du traitement d'entretien reste débattue.\n\nL'ianalumab est un anticorps monoclonal anti-BAFF-R qui déplète les lymphocytes B et bloque leur survie dépendante de BAFF. Cette extension ouverte concerne les patients ayant terminé le traitement de l'étude de phase 3 SIRIUS-LN, dont les résultats ne sont pas précisés dans le registre. Les patients en réponse rénale complète ou partielle à la semaine 140 arrêtent le traitement de l'étude et sont suivis sous traitement standard, avec ianalumab ouvert possible en cas de poussée rénale. Les autres reçoivent l'ianalumab 300 mg en ouvert. L'étude permettra d'évaluer la durée de la rémission hors traitement, ce que les essais de néphrite lupique renseignent peu. Le promoteur est Novartis, avec un centre français à Grenoble.",
+ "interet": "Les résultats pourraient éclairer la possibilité d'une rémission durable après un traitement ciblant les lymphocytes B de durée limitée. Ils fourniraient aussi des données de sécurité à long terme de l'ianalumab.",
+ "profil": "Des adultes atteints de néphrite lupique ayant terminé le traitement de l'étude centrale SIRIUS-LN.",
+ "inclusion": [
+  "Consentement signé",
+  "Participation à l'étude centrale SIRIUS-LN",
+  "Traitement de l'étude centrale terminé jusqu'à la semaine 144 (en aveugle ou en ouvert)",
+  "Adulte (18 ans ou plus)"
+ ],
+ "exclusion": [
+  "Utilisation de traitements interdits",
+  "Grossesse ou allaitement",
+  "Autres critères non précisés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "Arrêt du traitement (cohorte 1)",
+   "traitement": "Arrêt de l'ianalumab chez les patients en réponse rénale complète ou partielle à la semaine 140, traitement standard maintenu ; ianalumab ouvert possible en cas de poussée rénale"
+  },
+  {
+   "nom": "Ianalumab ouvert (cohorte 2)",
+   "traitement": "Ianalumab 300 mg en ouvert chez les patients non répondeurs ou déjà sous ianalumab ouvert"
+  }
+ ],
+ "duree": "Jusqu'à 6 ans d'extension",
+ "critere": "Cohorte 1 : délai jusqu'à une poussée rénale, une intensification des immunosuppresseurs ou le décès (jusqu'à la semaine 456). Cohorte 2 : incidence et sévérité des événements indésirables (jusqu'à la semaine 560)"
+}

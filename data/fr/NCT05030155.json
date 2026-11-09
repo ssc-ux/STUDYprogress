@@ -1,0 +1,45 @@
+{
+ "h": "a883fd920b4f",
+ "date": "2026-11-09",
+ "titre": "Mépolizumab versus traitement conventionnel pour induire la rémission de la GEPA",
+ "question": "Une stratégie fondée sur le mépolizumab permet-elle d'induire une rémission de la GEPA en réduisant la corticothérapie, par rapport au traitement conventionnel ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (GEPA, ex-syndrome de Churg et Strauss) est une vascularite rare des petits vaisseaux, associée à un asthme et à une hyperéosinophilie. Elle appartient aux vascularites associées aux ANCA et touche volontiers les voies respiratoires, les poumons, les nerfs périphériques et le cœur.\n\nLe traitement repose sur les glucocorticoïdes, seuls ou associés à l'azathioprine, au méthotrexate ou au cyclophosphamide selon le Five Factor Score. Ces traitements, outre leurs effets indésirables, contrôlent souvent mal l'asthme et la rhinosinusite chroniques, d'où une corticothérapie prolongée à forte dose.\n\nLe mépolizumab, anticorps anti-IL-5, a donné des résultats encourageants dans de petites séries. L'essai MIRRA a montré davantage de rémission que le placebo (28 % contre 3 % avec au moins 24 semaines cumulées de rémission), mais chez des patients corticodépendants dans un contexte restreint. L'intérêt du mépolizumab pour induire la rémission lors d'une poussée évolutive n'a pas été évalué. E-merge, essai promu par l'AP-HP avec le French Vasculitis Study Group, est un essai de phase 3 randomisé en double aveugle. Il compare le mépolizumab au traitement conventionnel (cyclophosphamide puis azathioprine si FFS ≥ 1) avec une décroissance standardisée de la prednisone.",
+ "interet": "Si le mépolizumab se montre au moins aussi efficace, il pourrait remplacer ou alléger les immunosuppresseurs en induction. Il permettrait aussi de réduire plus vite la corticothérapie dans la GEPA active.",
+ "profil": "Des adultes atteints de GEPA récente ou en rechute, avec une maladie active (BVAS ≥ 3).",
+ "inclusion": [
+  "GEPA, quel que soit le statut ANCA",
+  "18 ans ou plus",
+  "Maladie récente ou en rechute avec BVAS ≥ 3",
+  "Dans les 21 jours suivant le début ou l'augmentation des corticoïdes (≤ 1 mg/kg/j)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Autre vascularite (GPA, PAM…)",
+  "Maladie en rémission (BVAS < 3)",
+  "Insuffisance cardiaque sévère (NYHA IV)",
+  "Infection aiguë ou chronique active (dont VIH, VHB, VHC)",
+  "Cancer actif ou datant de moins de 5 ans",
+  "Mépolizumab dans les 12 mois précédents",
+  "Leucocytes ≤ 4 000/mm3, plaquettes ≤ 100 000/mm3 ou ALAT/ASAT > 3 fois la normale"
+ ],
+ "bras": [
+  {
+   "nom": "FFS = 0, mépolizumab",
+   "traitement": "Mépolizumab 300 mg toutes les 4 semaines jusqu'au jour 336"
+  },
+  {
+   "nom": "FFS = 0, placebo",
+   "traitement": "Placebo du mépolizumab toutes les 4 semaines jusqu'au jour 336"
+  },
+  {
+   "nom": "FFS ≥ 1, mépolizumab",
+   "traitement": "Mépolizumab 300 mg toutes les 4 semaines, avec placebos de cyclophosphamide/mesna et d'azathioprine"
+  },
+  {
+   "nom": "FFS ≥ 1, conventionnel",
+   "traitement": "Placebo de mépolizumab, cyclophosphamide/mesna (jours 1 à 112) puis azathioprine 1 mg/kg/j du jour 126 au jour 360"
+  }
+ ],
+ "duree": "Environ 12 mois",
+ "critere": "Proportion de patients recevant ≤ 4 mg/j de prednisone au jour 168 sans rechute"
+}

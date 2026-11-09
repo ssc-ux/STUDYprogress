@@ -1,0 +1,33 @@
+{
+ "h": "02f306d5a944",
+ "date": "2026-11-09",
+ "titre": "Baricitinib dans la dermatomyosite juvénile de survenue récente",
+ "question": "Le baricitinib associé aux corticoïdes est-il efficace et bien toléré en première ligne chez l'enfant atteint de dermatomyosite juvénile récente ?",
+ "contexte": "La dermatomyosite juvénile est une myopathie inflammatoire rare de l'enfant, responsable d'une morbidité et d'une mortalité importantes. L'association corticoïdes et méthotrexate est recommandée en première ligne, sur la base d'un essai randomisé.\n\nDans cet essai, un échec thérapeutique a toutefois été rapporté chez 13 patients sur 46 (28 %), et les formes sévères (ulcérations cutanées ou digestives, atteinte pulmonaire interstitielle, cardiomyopathie) n'étaient pas prises en compte. Un traitement de première ligne plus efficace est donc nécessaire.\n\nL'interféron de type I joue un rôle majeur dans la physiopathologie de la maladie. Des inhibiteurs de JAK (baricitinib, tofacitinib) ont montré efficacité et tolérance dans une cinquantaine de dermatomyosites réfractaires de l'adulte et neuf formes juvéniles. MYOCIT est un essai de phase 2 à bras unique, promu par l'AP-HP, évaluant le baricitinib associé aux corticoïdes. L'objectif est d'obtenir une meilleure efficacité que l'association conventionnelle méthotrexate-corticoïdes sur 24 semaines.",
+ "interet": "Si les résultats sont favorables, le baricitinib pourrait devenir un traitement de première ligne de la dermatomyosite juvénile, y compris dans les formes sévères. Un essai comparatif serait alors justifié.",
+ "profil": "Des enfants et adolescents de 3 à 18 ans avec une dermatomyosite juvénile récente et une faiblesse musculaire.",
+ "inclusion": [
+  "3 à 18 ans, dermatomyosite juvénile récente (critères ENMC 2018)",
+  "Faiblesse musculaire (MMT < 74 et/ou CMAS < 45)",
+  "Séropositivité ou vaccination pour la varicelle",
+  "Contraception efficace et test de grossesse négatif si patiente pubère",
+  "Consentement signé par le patient ou ses parents"
+ ],
+ "exclusion": [
+  "Dermatomyosite amyopathique",
+  "Traitement antérieur par inhibiteur de JAK",
+  "Immunosuppresseur ou biothérapie antérieurs (corticoïdes ≤ 1 mois autorisés)",
+  "Antécédent de cancer ou de thrombose",
+  "Infection active (dont VHB, VHC, VIH, tuberculose) ou PCR CMV positive",
+  "Clairance de la créatinine < 40 mL/min, lymphocytes < 0,5 G/L, neutrophiles < 1 G/L ou hémoglobine < 8 g/dL",
+  "Atteinte sévère de la maladie (cardiovasculaire, respiratoire, digestive)"
+ ],
+ "bras": [
+  {
+   "nom": "Baricitinib (bras unique)",
+   "traitement": "Baricitinib per os associé aux corticoïdes ; dose non précisée dans le registre"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Réponse selon le score PRINTO 20 à la semaine 24"
+}

@@ -1,0 +1,37 @@
+{
+ "h": "0aa5f8e7a079",
+ "date": "2026-11-09",
+ "titre": "RO7507062 en première administration chez l'homme dans le lupus systémique",
+ "question": "Le RO7507062 sous-cutané est-il sûr et tolérable chez des adultes atteints de LES, et à quelles doses ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène dans laquelle les lymphocytes B produisent des auto-anticorps pathogènes. Les traitements actuels (hydroxychloroquine, immunosuppresseurs, belimumab, anifrolumab) laissent une partie des patients en activité persistante et dépendants des corticoïdes.\n\nLes stratégies de redirection des lymphocytes T contre les lymphocytes B (anticorps bispécifiques, CAR-T) suscitent un intérêt croissant, car elles pourraient induire une déplétion B plus profonde que les anticorps anti-CD20. Le registre ne précise pas la cible du RO7507062 ; le protocole prévoit le tocilizumab en cas de syndrome de relargage cytokinique (CRS), ce qui évoque un mécanisme à risque de libération de cytokines. Cette étude de phase 1, ouverte, promue par Roche, comporte une partie à dose unique croissante, puis une partie avec doses fractionnées croissantes. L'objectif est d'établir la sécurité, la pharmacocinétique et la pharmacodynamique. Un centre français (Pitié-Salpêtrière, Paris) participe.",
+ "interet": "Étude de recherche de dose sans objectif d'efficacité. Elle précisera la tolérance d'une nouvelle approche sous-cutanée dans le LES avant d'éventuelles phases ultérieures.",
+ "profil": "Des adultes de 18 à 70 ans avec un LES actif sous traitement standard.",
+ "inclusion": [
+  "18 à 70 ans",
+  "LES (critères EULAR/ACR 2019) diagnostiqué depuis ≥ 24 semaines",
+  "Auto-anticorps positifs (anti-ADNdb, anti-Sm, anti-RNP, anti-SSA) ou ANA ≥ 1:160",
+  "SLEDAI-2K ≥ 4 avec au moins un item clinique",
+  "Corticoïdes ≤ 20 mg/j de prednisone et immunosuppresseurs à dose stable"
+ ],
+ "exclusion": [
+  "Lupus neuropsychiatrique actif ou instable, syndrome des antiphospholipides sévère",
+  "Atteinte rénale sévère nécessitant cyclophosphamide ou biothérapie",
+  "Infection active ou antécédent d'infections graves ou récidivantes, tuberculose, hépatite B, VIH, hépatite C active",
+  "Cancer dans les 5 ans (hors exceptions cutanées ou in situ)",
+  "Anti-CD19 ou anti-CD20 < 6 mois, inhibiteur de JAK ou biothérapie récente",
+  "IgG < 6 g/L ou DFG < 45 mL/min/1,73 m²",
+  "Antécédent de syndrome d'activation macrophagique ou de LEMP"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 : dose unique croissante",
+   "traitement": "RO7507062 sous-cutané en dose unique à J1 (tocilizumab disponible en cas de CRS)"
+  },
+  {
+   "nom": "Partie 2 : doses fractionnées croissantes",
+   "traitement": "RO7507062 sous-cutané à J1 à la dose retenue en partie 1, puis doses croissantes les jours suivants"
+  }
+ ],
+ "duree": "Environ 12 mois",
+ "critere": "Événements indésirables limitant la dose (J1 à J29) et ensemble des événements indésirables, jusqu'à environ 12 mois"
+}

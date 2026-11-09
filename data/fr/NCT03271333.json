@@ -1,0 +1,27 @@
+{
+ "h": "709e5b188e01",
+ "date": "2026-11-09",
+ "titre": "Évolution fonctionnelle de la pneumopathie infiltrante diffuse de la sclérodermie systémique",
+ "question": "Comment évolue dans le temps la fonction respiratoire des patients atteints de pneumopathie infiltrante diffuse associée à une sclérodermie systémique, et quels facteurs en prédisent l'évolution ?",
+ "contexte": "La pneumopathie infiltrante diffuse (atteinte pulmonaire interstitielle) est une complication sévère de la sclérodermie systémique et l'une des principales causes de décès de cette maladie. Son évolution est très variable d'un patient à l'autre : certains restent stables, d'autres déclinent rapidement.\n\nLes données de suivi prospectif de la fonction respiratoire restent limitées, et les facteurs associés à l'évolution défavorable sont mal identifiés. Cette étude observationnelle du CHU de Lille décrit prospectivement l'évolution de la capacité vitale forcée et de la capacité de diffusion du CO sur 24 mois. Elle cherche aussi à identifier des facteurs pronostiques associés. Aucune intervention thérapeutique n'est testée : les explorations fonctionnelles respiratoires font partie du suivi.",
+ "interet": "Mieux connaître l'histoire naturelle de la pneumopathie infiltrante de la sclérodermie pourrait aider à repérer les patients à risque de dégradation. Cela pourrait guider l'intensité de la surveillance et le moment d'un traitement.",
+ "profil": "Des adultes de 18 à 75 ans atteints de sclérodermie systémique avec pneumopathie infiltrante diffuse.",
+ "inclusion": [
+  "Sclérodermie systémique",
+  "Pneumopathie infiltrante diffuse",
+  "Âge de 18 à 75 ans"
+ ],
+ "exclusion": [
+  "Infection",
+  "Autre pathologie pulmonaire",
+  "Patient non francophone de langue maternelle"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de sclérodermie systémique",
+   "traitement": "Explorations fonctionnelles respiratoires, sans traitement spécifique à l'étude"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Critère composite associant capacité vitale forcée et capacité de diffusion du CO à 24 mois"
+}

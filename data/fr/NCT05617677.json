@@ -1,0 +1,38 @@
+{
+ "h": "8e5969de244a",
+ "date": "2026-11-09",
+ "titre": "Deucravacitinib versus placebo dans le lupus systémique actif (POETYK SLE-1)",
+ "question": "Le deucravacitinib, inhibiteur de TYK2, améliore-t-il la réponse SRI-4 à 52 semaines chez des adultes avec un lupus systémique actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène dont le traitement repose sur les antipaludéens, les corticoïdes et les immunosuppresseurs, complétés par le bélimumab ou l'anifrolumab dans les formes actives. Une proportion importante de patients reste insuffisamment contrôlée et dépend des corticoïdes, avec leurs effets délétères cumulés. De nouvelles voies thérapeutiques sont donc recherchées.\n\nLe deucravacitinib est un inhibiteur sélectif oral de la tyrosine kinase 2 (TYK2), qui intervient dans la signalisation des interférons de type I, de l'IL-23 et de l'IL-12, des voies impliquées dans la physiopathologie du lupus. POETYK SLE-1 est un essai de phase 3 promu par Bristol-Myers Squibb, randomisé, en double aveugle, contre placebo, chez des adultes avec un lupus actif modéré à sévère. Les patients doivent recevoir un traitement de fond stable (immunosuppresseur et/ou antimalarique), la corticothérapie orale étant autorisée mais non obligatoire. Les néphrites lupiques sévères actives et les atteintes neuropsychiatriques actives sont exclues.",
+ "interet": "En cas de résultat positif, le deucravacitinib serait un traitement oral ciblant TYK2 pour le lupus actif. Il compléterait les biothérapies injectables disponibles.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus systémique actif modéré à sévère sous traitement de fond stable.",
+ "inclusion": [
+  "18 à 75 ans, lupus diagnostiqué depuis au moins 24 semaines",
+  "Critères de classification EULAR/ACR 2019 remplis",
+  "ANA ≥ 1:80, anti-ADN natif ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 6 dont un score clinique ≥ 4 (atteinte articulaire, vascularite cutanée et/ou éruption)",
+  "Au moins un traitement de fond (immunosuppresseur et/ou antimalarique) à dose stable",
+  "Corticothérapie orale ≤ 30 mg/j autorisée, à dose stable"
+ ],
+ "exclusion": [
+  "Lupus induit par un médicament",
+  "Autres maladies auto-immunes ou syndromes de chevauchement (polyarthrite rhumatoïde, sclérodermie, connectivite mixte…)",
+  "Manifestations neuropsychiatriques lupiques actives ou instables",
+  "Néphrite lupique de classe III ou IV active et sévère",
+  "Déficit immunitaire congénital ou acquis",
+  "Infection active ou récente nécessitant un traitement antimicrobien",
+  "Plus d'un immunosuppresseur au dépistage"
+ ],
+ "bras": [
+  {
+   "nom": "Deucravacitinib",
+   "traitement": "Deucravacitinib (posologie non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "Au moins 52 semaines",
+ "critere": "Proportion de patients en réponse SRI-4 à la semaine 52"
+}

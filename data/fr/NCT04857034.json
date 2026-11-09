@@ -1,0 +1,40 @@
+{
+ "h": "7da47acd901d",
+ "date": "2026-11-09",
+ "titre": "Deucravacitinib dans le lupus cutané discoïde et subaigu actif",
+ "question": "Le deucravacitinib, inhibiteur de TYK2, réduit-il l'activité cutanée (score CLASI) à 16 semaines par rapport au placebo dans le lupus cutané discoïde ou subaigu ?",
+ "contexte": "Le lupus cutané discoïde (LED) et le lupus cutané subaigu (LECS) sont des atteintes cutanées chroniques, parfois isolées, parfois associées à un lupus systémique. Le LED peut laisser des cicatrices définitives et une alopécie cicatricielle. Le traitement repose sur la photoprotection, les dermocorticoïdes, l'hydroxychloroquine, puis le méthotrexate, le mycophénolate ou la thalidomide, avec des options limitées en cas d'échec.\n\nLe deucravacitinib est un inhibiteur sélectif de TYK2, kinase qui transmet la signalisation de l'interféron de type I, de l'IL-12 et de l'IL-23, voies impliquées dans l'inflammation cutanée lupique. Il est déjà utilisé dans le psoriasis en plaques et étudié dans le lupus systémique. Cette étude de phase 2 de Bristol-Myers Squibb, randomisée en double aveugle, compare deux doses de deucravacitinib à un placebo chez des patients dont la maladie reste active malgré un traitement stable. Le critère principal est la variation en pourcentage du score CLASI d'activité à 16 semaines. Des centres français y participent (Bordeaux, Créteil, Paris).",
+ "interet": "L'étude évalue une nouvelle voie thérapeutique orale dans le lupus cutané, où peu de traitements ont fait l'objet d'essais contrôlés. Un signal d'efficacité justifierait une phase 3 dans cette indication.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus cutané discoïde et/ou subaigu actif malgré un traitement stable, avec ou sans lupus systémique associé.",
+ "inclusion": [
+  "18 à 75 ans",
+  "Lupus cutané discoïde et/ou subaigu depuis au moins 3 mois",
+  "Diagnostic confirmé sur des critères cliniques et histologiques",
+  "Traitement stable par corticoïde oral, antipaludéen et/ou immunosuppresseur",
+  "Lupus systémique associé possible"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Autre forme de lupus cutané isolée (aigu, tumidus, panniculite, engelures)",
+  "Lupus d'origine médicamenteuse",
+  "Syndrome des antiphospholipides, événement thrombotique grave ou perte fœtale inexpliquée dans l'année",
+  "Lupus neuropsychiatrique sévère ou instable",
+  "Autre maladie auto-immune ou inflammatoire cutanée ou articulaire interférant avec l'évaluation"
+ ],
+ "bras": [
+  {
+   "nom": "Deucravacitinib, dose 1",
+   "traitement": "Deucravacitinib par voie orale (dose non précisée dans le registre)"
+  },
+  {
+   "nom": "Deucravacitinib, dose 2",
+   "traitement": "Deucravacitinib par voie orale, seconde dose (non précisée dans le registre)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "Critère principal à 16 semaines, suivi total non précisé",
+ "critere": "Variation en pourcentage du score CLASI d'activité entre l'inclusion et la semaine 16"
+}

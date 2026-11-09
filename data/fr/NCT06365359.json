@@ -1,0 +1,31 @@
+{
+ "h": "36b45cd73b8c",
+ "date": "2026-11-09",
+ "titre": "Lupus systémique, néphrite lupique et imprégnation par la chlordécone en Martinique",
+ "question": "L'imprégnation par la chlordécone est-elle associée à la survenue d'une néphrite lupique chez les patients lupiques suivis en Martinique ?",
+ "contexte": "La chlordécone, pesticide organochloré massivement utilisé dans les bananeraies des Antilles françaises, a contaminé la chaîne alimentaire et la majorité de la population. Les études épidémiologiques aux Antilles l'associent à un sur-risque de plusieurs pathologies, dont la prématurité et le cancer de la prostate. Beaucoup de ses effets pourraient s'expliquer par ses propriétés hormonales de type œstrogénique.\n\nLe lupus systémique (LES) est une maladie auto-immune sensible aux œstrogènes, comme en témoignent sa prédominance féminine, son pic à l'âge de procréer et le risque de poussée pendant la grossesse. Chez le rat, la chlordécone réduit les lymphocytes, entraîne une atrophie thymique et diminue les centres germinatifs spléniques et les cellules NK. Dans un modèle murin de lupus, elle augmente les complexes immuns et les anticorps anti-ADN, et elle réduit l'apoptose de lymphocytes potentiellement autoréactifs tout en stimulant la production de GM-CSF, IL-2, TNF-alpha et IFN-gamma. Aucune étude humaine n'existe à ce jour et l'imprégnation des patients lupiques de Martinique est inconnue. L'atteinte rénale est la complication la plus grave du lupus, confirmée par biopsie rénale. Cette cohorte du CHU de Martinique cherche une association entre néphrite lupique et imprégnation par la chlordécone.",
+ "interet": "L'étude pourrait montrer si un polluant environnemental répandu aux Antilles augmente le risque d'atteinte rénale du lupus. Elle pourrait orienter le suivi et la prévention chez les patients exposés.",
+ "profil": "Des adultes atteints de lupus systémique, suivis en médecine interne au CHU de Martinique et résidant aux Antilles.",
+ "inclusion": [
+  "Lupus systémique selon les critères ACR 1997 ou ACR/EULAR 2019",
+  "Patient de la file active de médecine interne du CHU de Martinique depuis 2005",
+  "Maladie évoluant depuis au moins 3 ans",
+  "Résidence en Martinique ou en Guadeloupe depuis au moins 1 an",
+  "Consentement libre, éclairé et écrit"
+ ],
+ "exclusion": [
+  "Atteinte rénale impossible à confirmer ou à exclure (refus, contre-indication ou impossibilité de biopsie rénale)",
+  "Absence de couverture sociale",
+  "Protection juridique en cours",
+  "Absence de consentement à l'utilisation des données",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques du CHU de Martinique",
+   "traitement": "Prise de sang pour dosage plasmatique des pesticides organochlorés et prélèvement de cellules"
+  }
+ ],
+ "duree": "Non précisé (18 mois pour le critère principal)",
+ "critere": "Risque de complication rénale du lupus selon le niveau d'imprégnation par la chlordécone, à 18 mois"
+}

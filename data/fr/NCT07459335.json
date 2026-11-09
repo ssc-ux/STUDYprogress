@@ -1,0 +1,35 @@
+{
+ "h": "9a6f8d7f20d6",
+ "date": "2026-11-09",
+ "titre": "Tocilizumab versus méthotrexate et événements cardiovasculaires dans l'artérite à cellules géantes",
+ "question": "Chez les patients atteints d'artérite à cellules géantes sous corticoïdes, l'initiation du tocilizumab réduit-elle les événements cardiovasculaires majeurs par rapport au méthotrexate ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente du sujet de plus de 50 ans. Le risque cardiovasculaire des patients est une préoccupation, et une publication récente en rapporte l'évaluation. Le traitement repose sur une corticothérapie prolongée, à laquelle on associe le tocilizumab ou le méthotrexate comme traitement d'épargne.\n\nLe tocilizumab a démontré son intérêt pour obtenir la rémission et limiter les corticoïdes, mais on connaît mal son effet comparé au méthotrexate sur les événements cardiovasculaires. Un essai randomisé répondant à cette question serait difficile à réaliser.\n\nCette étude émule donc un essai cible à partir du Système National des Données de Santé (SNDS), qui couvre environ 99 % de la population française. Elle inclut les patients hospitalisés pour une première ACG entre 2012 et 2024 qui débutent le tocilizumab ou le méthotrexate dans les 6 mois. La méthode de clonage-censure-pondération limite le biais de temps immortel. Le promoteur est un groupe français d'étude des maladies inflammatoires de l'œil, avec des investigateurs de l'AP-HP.",
+ "interet": "Les résultats pourraient éclairer le choix entre tocilizumab et méthotrexate en tenant compte du risque cardiovasculaire. Ils illustrent aussi l'apport des essais émulés pour une question difficile à tester en randomisé.",
+ "profil": "Des adultes de 50 à 90 ans hospitalisés pour une première artérite à cellules géantes et traités par corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "Première hospitalisation pour ACG",
+  "Initiation du tocilizumab ou du méthotrexate dans les 6 mois",
+  "Corticoïdes systémiques ≥ 20 mg/j dans les 30 jours après la sortie"
+ ],
+ "exclusion": [
+  "Utilisation antérieure de tocilizumab ou de méthotrexate",
+  "Âge > 90 ans",
+  "Durée de séjour > 30 jours",
+  "Sortie ailleurs qu'au domicile",
+  "Maladie aortique antérieure ou imagerie vasculaire dans les 2 ans",
+  "Initiation des deux traitements pendant le délai de grâce"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe tocilizumab",
+   "traitement": "Initiation du tocilizumab dans les 6 mois après la sortie d'hôpital"
+  },
+  {
+   "nom": "Groupe méthotrexate",
+   "traitement": "Initiation du méthotrexate dans les 6 mois après la sortie d'hôpital"
+  }
+ ],
+ "duree": "Étude rétrospective ; suivi de 2 ans pour le critère principal",
+ "critere": "Événements cardiovasculaires majeurs (infarctus, AVC ischémique ou décès toutes causes) à 2 ans"
+}

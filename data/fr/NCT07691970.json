@@ -1,0 +1,33 @@
+{
+ "h": "a5fb1f2780bd",
+ "date": "2026-11-09",
+ "titre": "Poursuite de l'anifrolumab après une étude antérieure (étude de prolongation ROSY-S)",
+ "question": "Quelle est la sécurité à long terme de l'anifrolumab chez des patients qui en tirent un bénéfice clinique à l'issue d'une étude antérieure ?",
+ "contexte": "L'anifrolumab (Saphnelo) est un anticorps dirigé contre le récepteur de l'interféron de type I, approuvé chez l'adulte atteint de lupus systémique modéré à sévère sous traitement standard. Il est aussi étudié dans d'autres maladies à signature interféron, comme le lupus cutané, la sclérodermie systémique et les myopathies inflammatoires, ce que reflètent les affections listées dans le registre.\n\nÀ la fin d'un essai, les patients qui bénéficient du traitement doivent pouvoir le poursuivre tant qu'il n'est pas accessible en pratique courante. ROSY-S est une étude de prolongation de phase 3, ouverte et à bras unique, promue par AstraZeneca. Elle accueille les participants ayant terminé une étude parente et reçu au moins une dose d'anifrolumab, y compris ceux avec une interruption de traitement ou en accès compassionnel. Les patients continuent l'anifrolumab selon le schéma de l'étude parente. Le suivi s'étend jusqu'à un critère d'arrêt, notamment l'accès local à un médicament commercialisé et remboursé dans l'indication. La sécurité est suivie via les événements indésirables, collectés jusqu'à 12 semaines après la dernière dose. Le registre signale des centres français sans en détailler la liste.",
+ "interet": "L'étude assure la continuité d'accès au traitement pour les patients répondeurs. Elle produira aussi des données de sécurité à très long terme, avec un suivi prévu jusqu'en 2032.",
+ "profil": "Des participants de 5 à 80 ans ayant terminé une étude parente par anifrolumab et en tirant un bénéfice clinique selon l'investigateur.",
+ "inclusion": [
+  "Étude parente terminée en totalité, avec au moins une dose d'anifrolumab reçue",
+  "Bénéfice de la poursuite jugé supérieur au risque par l'investigateur",
+  "Contraception conforme à la réglementation locale, jusqu'à 16 semaines après la dernière dose",
+  "Capacité à donner un consentement signé",
+  "Capacité à suivre le plan de traitement"
+ ],
+ "exclusion": [
+  "Hypersensibilité à un composant de l'anifrolumab",
+  "Grossesse, allaitement ou projet de grossesse",
+  "Participation à une autre étude expérimentale dans les 30 jours ou 5 demi-vies",
+  "Événement indésirable non résolu empêchant la reprise de l'anifrolumab",
+  "Médicaments interdits par le protocole parent ou vaccin vivant prévu",
+  "Arrêt de l'étude parente avant la fin de toutes les visites",
+  "Accès local à un médicament commercialisé et remboursé dans l'indication"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab (bras unique)",
+   "traitement": "Poursuite de l'anifrolumab selon le schéma de l'étude parente, en ouvert"
+  }
+ ],
+ "duree": "Jusqu'à un critère d'arrêt, avec un suivi prévu jusqu'en 2032",
+ "critere": "Événements indésirables graves et non graves, de la première dose jusqu'à 12 semaines après la dernière dose"
+}

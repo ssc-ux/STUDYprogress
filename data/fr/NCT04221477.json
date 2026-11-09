@@ -1,0 +1,37 @@
+{
+ "h": "9eedcf3eff0e",
+ "date": "2026-11-09",
+ "titre": "Obinutuzumab dans la néphrite lupique de classe III ou IV (REGENCY)",
+ "question": "L'ajout d'obinutuzumab au mycophénolate et aux corticoïdes augmente-t-il la proportion de réponses rénales complètes à 76 semaines dans la néphrite lupique proliférative ?",
+ "contexte": "La néphrite lupique proliférative (classes III et IV) est la manifestation grave du lupus la plus fréquente et expose à l'insuffisance rénale terminale. Le traitement d'induction repose sur les corticoïdes associés au mycophénolate ou au cyclophosphamide, avec des ajouts récents possibles (bélimumab, voclosporine). Malgré cela, une proportion importante de patients n'obtient pas de réponse rénale complète.\n\nLe rituximab, anti-CD20, n'a pas démontré de bénéfice dans les essais contrôlés de néphrite lupique, possiblement en raison d'une déplétion B incomplète dans les tissus. L'obinutuzumab est un anti-CD20 glycoingénierié, de type II, qui déplète plus efficacement les lymphocytes B. Dans l'essai de phase 2 NOBILITY, il a été étudié dans cette indication. Cette étude de phase 3 de Hoffmann-La Roche, randomisée en double aveugle contre placebo, compare deux schémas d'obinutuzumab (avec ou sans perfusion à la semaine 50) au placebo, en ajout au mycophénolate et à la prednisone. Les patients avec une réponse adéquate à la semaine 76 poursuivent les perfusions tous les 6 mois en aveugle. Le registre signale des centres français sans en détailler la liste.",
+ "interet": "Si le bénéfice rénal est confirmé, l'obinutuzumab ajouterait une option de déplétion B à l'induction de la néphrite lupique. L'étude compare aussi deux schémas, ce qui informe sur le rythme d'administration.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique active de classe III ou IV (± V) prouvée par biopsie.",
+ "inclusion": [
+  "18 à 75 ans",
+  "Néphrite lupique proliférative de classe III ou IV active ou active/chronique (ISN/RPS 2003)",
+  "Classe V associée possible",
+  "Biopsie rénale datant de moins de 6 mois",
+  "Rapport protéinurie/créatininurie ≥ 1 sur 24 heures"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Insuffisance rénale sévère, dialyse ou greffe rénale",
+  "Anti-CD20 dans les 9 mois précédents",
+  "Cyclophosphamide, tacrolimus, ciclosporine ou voclosporine dans les 2 mois précédents",
+  "Maladie non lupique significative ou non contrôlée",
+  "Infection active ou épisode infectieux majeur récent",
+  "Intolérance ou contre-indication aux traitements de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Obinutuzumab",
+   "traitement": "Obinutuzumab 1000 mg IV à l'inclusion et aux semaines 2, 24, 26, 50 (selon le groupe) et 52, avec mycophénolate et prednisone"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo d'obinutuzumab aux mêmes temps, avec mycophénolate et prednisone"
+  }
+ ],
+ "duree": "Au moins 76 semaines pour le critère principal, avec poursuite en aveugle puis en ouvert ensuite",
+ "critere": "Pourcentage de patients en réponse rénale complète à la semaine 76"
+}

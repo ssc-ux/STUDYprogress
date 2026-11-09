@@ -1,0 +1,32 @@
+{
+ "h": "40a41917ca4a",
+ "date": "2026-11-09",
+ "titre": "CAR-T CD19 allogéniques (BMS-986515) dans les maladies auto-immunes sévères réfractaires",
+ "question": "Des cellules CAR-T anti-CD19 allogéniques issues de donneurs sains sont-elles sûres et tolérées chez des patients ayant un lupus, une myosite, une sclérodermie ou une polyarthrite réfractaires ?",
+ "contexte": "Les CAR-T anti-CD19 autologues induisent des rémissions profondes dans des cas de lupus, de myosites et de sclérodermie réfractaires, en déplétant en profondeur la lignée B. Leur fabrication à partir des cellules du patient est longue, coûteuse et parfois difficile chez des malades très immunodéprimés. L'accès au traitement s'en trouve limité.\n\nLe BMS-986515 est un produit allogénique, préparé à partir de lymphocytes T de donneurs sains et disponible d'emblée. Cette étude de phase 1 ouverte de Juno Therapeutics (Bristol-Myers Squibb) évalue sa sécurité, sa tolérance, la dose optimale et l'efficacité préliminaire. Elle inclut quatre populations : lupus systémique, myopathies inflammatoires, sclérodermie systémique progressive et polyarthrite rhumatoïde difficile à traiter. La lymphodéplétion par fludarabine et cyclophosphamide précède la perfusion, et le tocilizumab figure parmi les traitements de l'étude. Le critère principal porte sur la sécurité, avec suivi de 24 mois.",
+ "interet": "Si la sécurité est acceptable, des CAR-T « prêts à l'emploi » pourraient élargir l'accès à ces thérapies dans les maladies auto-immunes réfractaires. Il reste à démontrer l'efficacité et la durabilité de la réponse.",
+ "profil": "Des adultes avec un lupus, une myopathie inflammatoire, une sclérodermie systémique ou une polyarthrite rhumatoïde sévères, réfractaires aux traitements.",
+ "inclusion": [
+  "Adulte (18 ans ou plus)",
+  "Lupus : critères ACR/EULAR 2019, auto-anticorps positifs, maladie active, échec ou intolérance aux corticoïdes et immunosuppresseurs",
+  "Myopathie inflammatoire : critères ACR/EULAR 2017, forme sévère réfractaire, maladie active",
+  "Sclérodermie : critères ACR/EULAR 2013, forme progressive (peau et/ou atteinte pulmonaire interstitielle)",
+  "Polyarthrite rhumatoïde difficile à traiter : critères 2010, maladie active, échec du traitement standard"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune systémique associée",
+  "Grossesse ou allaitement",
+  "Hépatite B ou C active, ou VIH",
+  "Antécédent de cancer ou infection active non contrôlée",
+  "Traitement antérieur par CAR-T",
+  "Atteinte pulmonaire significative, fonction d'organe insuffisante ou trouble neurologique central actif"
+ ],
+ "bras": [
+  {
+   "nom": "Administration de BMS-986515",
+   "traitement": "Lymphodéplétion (fludarabine, cyclophosphamide), puis perfusion de BMS-986515 ; tocilizumab selon le protocole ; dose non précisée"
+  }
+ ],
+ "duree": "Suivi jusqu'à 24 mois après la perfusion",
+ "critere": "Nombre de patients avec événements indésirables (dont graves et d'intérêt particulier), anomalies biologiques et toxicités limitantes (jusqu'à 24 mois)"
+}

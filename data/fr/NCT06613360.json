@@ -1,0 +1,38 @@
+{
+ "h": "474c1a36fd04",
+ "date": "2026-11-09",
+ "titre": "CLN-978, engageur de lymphocytes T anti-CD19, dans le lupus systémique modéré à sévère",
+ "question": "Le CLN-978, engageur de lymphocytes T CD19 par voie sous-cutanée, est-il sûr et bien toléré chez des patients atteints de lupus systémique actif ?",
+ "contexte": "Le lupus systémique reste difficile à contrôler chez une proportion notable de patients malgré les antipaludéens, les immunosuppresseurs et les biothérapies, avec un risque de dommages cumulés et de toxicité cortisonique. Les lymphocytes B autoréactifs et les auto-anticorps sont au cœur de la physiopathologie.\n\nLes CAR T anti-CD19 ont induit des rémissions chez des patients lupiques réfractaires dans des séries de cas, mais leur fabrication individuelle limite leur diffusion. Le CLN-978 est un engageur de lymphocytes T (T cell engager) dirigé contre CD19 et CD3, administré par voie sous-cutanée. L'objectif est d'obtenir une déplétion B comparable avec un produit disponible d'emblée. Cette étude de phase 1b, ouverte et pilote, de Cullinan Therapeutics, comporte une escalade de dose (partie A), puis une évaluation de doses ou de schémas plus élevés chez les patients déjà traités sans toxicité limitante (partie B). Le recrutement vise 24 patients, avec un suivi de 48 semaines pour la sécurité. Le registre signale des centres français sans en détailler la liste.",
+ "interet": "L'étude apportera les premières données de sécurité de ce produit dans le lupus. Elle contribuera à situer les engageurs de lymphocytes T sous-cutanés comme alternative potentielle aux CAR T.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif, modéré à sévère, en échec d'au moins deux traitements.",
+ "inclusion": [
+  "18 à 70 ans",
+  "Lupus systémique depuis au moins 24 semaines (critères EULAR/ACR 2019)",
+  "Auto-anticorps positifs (ANA ≥ 1:80, anti-ADN natif ou anti-Sm)",
+  "Lupus actif : SLEDAI ≥ 6",
+  "Réponse insuffisante à au moins deux traitements, dont un immunosuppresseur ou une biothérapie",
+  "Lymphocytes B ≥ 25/µL, DFG ≥ 30 mL/min/1,73 m² et bilan hématologique et hépatique suffisants"
+ ],
+ "exclusion": [
+  "Autre maladie inflammatoire active (thyroïdite et Sjögren secondaire admis)",
+  "Risque élevé de thrombose",
+  "Glomérulonéphrite rapidement progressive ou rapport protéinurie/créatininurie > 3 mg/mg",
+  "Atteinte neuropsychiatrique lupique sévère",
+  "Infection par VHB, VHC, VIH, EBV ou CMV",
+  "Splénectomie",
+  "Thérapie cellulaire ou génique antérieure, anti-CD19 ou anti-CD20 < 3 mois, cyclophosphamide < 1 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A, escalade de dose",
+   "traitement": "CLN-978 par voie sous-cutanée, cohortes de doses croissantes"
+  },
+  {
+   "nom": "Partie B, évaluation de doses complémentaires",
+   "traitement": "CLN-978 à dose plus élevée ou schéma plus long chez des patients déjà traités en partie A"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Sécurité et tolérance sur 48 semaines"
+}

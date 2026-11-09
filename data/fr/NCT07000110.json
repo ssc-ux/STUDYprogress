@@ -1,0 +1,34 @@
+{
+ "h": "19d05f1c3fa8",
+ "date": "2026-11-09",
+ "titre": "Étude de sécurité post-AMM de l'anifrolumab : cancers et infections graves dans le lupus",
+ "question": "Les patients lupiques traités par anifrolumab ont-ils un risque différent de cancers et d'infections graves par rapport à des patients comparables sous traitement standard ?",
+ "contexte": "L'anifrolumab, anticorps anti-récepteur de l'interféron de type I, est autorisé dans le lupus érythémateux systémique (LES) modéré à sévère actif malgré le traitement standard. L'interféron intervient dans la défense antivirale, ce qui justifie une surveillance des infections, notamment virales comme le zona.\n\nLes essais cliniques ont une durée et un effectif limités pour détecter des événements rares ou à latence longue, comme les cancers. Le LES lui-même et ses traitements (corticoïdes, immunosuppresseurs) augmentent déjà le risque infectieux et néoplasique. Cette étude non interventionnelle de sécurité post-autorisation (PASS), promue par AstraZeneca, compare des patients débutant l'anifrolumab à des patients comparables sous traitement standard n'initiant pas ce médicament. Elle repose sur des données de plusieurs pays, avec un suivi jusqu'à fin 2031 pour les cancers. Un site français (Charenton-le-Pont) est listé.",
+ "interet": "Elle documentera la sécurité à long terme de l'anifrolumab en pratique réelle, avec une comparaison au traitement standard. Les résultats pourront éclairer la balance bénéfice-risque dans les recommandations.",
+ "profil": "Des adultes avec un LES modéré à sévère ayant eu une poussée récente, débutant l'anifrolumab ou sous traitement standard.",
+ "inclusion": [
+  "Âge ≥ 18 ans à la date index",
+  "Première prescription d'anifrolumab (date index)",
+  "Au moins 12 mois de données disponibles avant la date index",
+  "LES modéré à sévère à la date index",
+  "Au moins une poussée (LES non contrôlé) dans les 6 mois précédents"
+ ],
+ "exclusion": [
+  "Diagnostic de cancer avant la date index",
+  "VIH/sida ou déficit immunitaire congénital",
+  "Greffe d'organe ou de moelle osseuse",
+  "Infection grave dans les 6 mois précédents"
+ ],
+ "bras": [
+  {
+   "nom": "Patients exposés à l'anifrolumab",
+   "traitement": "Cohorte débutant l'anifrolumab (première prescription)"
+  },
+  {
+   "nom": "Patients comparables sous traitement standard",
+   "traitement": "Cohorte de LES modéré à sévère sans initiation d'anifrolumab"
+  }
+ ],
+ "duree": "Suivi à partir de la date index jusqu'à fin 2031 au maximum",
+ "critere": "Incidence des cancers (jusqu'à novembre 2031) et des infections graves, hospitalisées ou fatales (jusqu'à novembre 2027)"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "a3986a8f3f23",
+ "date": "2026-11-09",
+ "titre": "Anifrolumab sous-cutané chez des patients lupiques naïfs d'immunosuppresseurs et de biothérapie",
+ "question": "Quelle proportion de patients lupiques naïfs d'immunosuppresseurs et de biothérapie atteint une rémission DORIS à 52 semaines sous anifrolumab 120 mg sous-cutané hebdomadaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est traité de façon standard par hydroxychloroquine, avec des glucocorticoïdes dont l'exposition cumulée est source de dommages. Les recommandations visent la rémission ou, à défaut, une faible activité (LLDAS), avec une réduction des corticoïdes à ≤ 5 mg/j voire leur arrêt.\n\nL'anifrolumab, anticorps anti-récepteur de l'interféron de type I, est déjà autorisé par voie intraveineuse chez l'adulte lupique actif sous traitement standard. Une formulation sous-cutanée hebdomadaire (120 mg) est étudiée. Les essais pivots ont inclus des patients souvent déjà exposés aux immunosuppresseurs ; la place de l'anifrolumab plus précoce reste moins documentée. SUNFLOWER est une étude de phase 3 ouverte à bras unique, promue par AstraZeneca, chez des patients sous antipaludéens avec ou sans corticoïdes, naïfs d'immunosuppresseurs et de biothérapie et hors LLDAS. Elle intègre un protocole systématisé de décroissance des corticoïdes, avec tentative de sevrage complet chez les patients en rémission DORIS sur deux visites consécutives. Onze centres français sont listés.",
+ "interet": "Elle pourrait étayer un recours plus précoce à l'anifrolumab, avant les immunosuppresseurs conventionnels. Elle fournira aussi des données sur la faisabilité d'un sevrage cortisonique protocolisé.",
+ "profil": "Des adultes de 18 à 70 ans avec un LES actif, sous antipaludéens avec ou sans corticoïdes, sans immunosuppresseur ni biothérapie antérieurs.",
+ "inclusion": [
+  "18 à 70 ans, poids ≥ 40 kg",
+  "LES confirmé par un rhumatologue, ANA positifs (anti-ADNdb ou anti-Sm possibles)",
+  "Traitement standard : antipaludéens avec ou sans corticoïdes oraux",
+  "SLEDAI-2K clinique ≥ 4, ou < 4 avec corticoïdes ≥ 7,5 mg/j (équivalent prednisone)",
+  "Pas d'infection active ni d'antécédent de tuberculose, pas de cancer"
+ ],
+ "exclusion": [
+  "Vascularite non lupique, SAPL catastrophique, événement thrombotique grave < 1 an",
+  "Lupus neuropsychiatrique sévère ou instable, idées ou comportements suicidaires récents",
+  "Tout traitement du LES autre que antipaludéens et corticoïdes",
+  "Autres maladies auto-immunes ou syndromes de chevauchement (sclérodermie, connectivite mixte)",
+  "Vaccin vivant < 8 semaines, produit expérimental < 4 semaines",
+  "Grossesse, allaitement ou projet de grossesse",
+  "Cancer, sauf certains cancers cutanés ou in situ traités"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab (bras unique)",
+   "traitement": "Anifrolumab 120 mg sous-cutané une fois par semaine pendant 52 semaines, en complément d'un antipaludéen, avec décroissance protocolisée des corticoïdes"
+  }
+ ],
+ "duree": "Environ 69 semaines, dont 52 semaines de traitement",
+ "critere": "Proportion de patients en rémission DORIS à la semaine 52"
+}

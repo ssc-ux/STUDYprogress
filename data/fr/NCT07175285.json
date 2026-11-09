@@ -1,0 +1,29 @@
+{
+ "h": "7116528b8b5b",
+ "date": "2026-11-09",
+ "titre": "Suivi observationnel du lupus systémique en échec de glucocorticoïdes et d'au moins deux immunosuppresseurs",
+ "question": "Quelle proportion de patients ayant un lupus systémique réfractaire (néphrite lupique incluse) atteint la rémission DORIS à 6 mois sous les traitements actuels ?",
+ "contexte": "Une partie des patients atteints de lupus systémique reste active malgré les glucocorticoïdes, l'hydroxychloroquine et plusieurs immunosuppresseurs, dont un biologique. Cette population, en impasse thérapeutique, est mal décrite dans les essais, qui s'adressent souvent à des malades moins réfractaires. Les recommandations visent la rémission ou, à défaut, une faible activité, avec la réduction des corticoïdes, mais l'atteinte de ces cibles est incertaine dans les formes réfractaires.\n\nBENCHMARK-SLE est une étude observationnelle prospective de cohorte, promue par Bristol-Myers Squibb. Elle décrit l'efficacité et la tolérance des options thérapeutiques actuelles, sans intervention imposée par le protocole. Les patients doivent avoir une maladie active (BILAG A ou B) avec auto-anticorps ou complément bas. Les patients avec néphrite lupique active de classe III/IV sont inclus s'ils ont une biopsie récente. Ces données servent de référence pour les essais de nouvelles thérapies, notamment cellulaires, dans les lupus réfractaires.",
+ "interet": "L'étude fournira un comparateur contemporain en vie réelle pour les lupus réfractaires. Ces données aideront à interpréter les résultats des essais de thérapies innovantes.",
+ "profil": "Des adultes et adolescents dès 16 ans avec un lupus systémique actif, y compris néphrite lupique, en échec de glucocorticoïdes et d'au moins deux immunosuppresseurs.",
+ "inclusion": [
+  "16 ans ou plus, critères EULAR/ACR 2019 pour le SLE",
+  "Réponse insuffisante aux glucocorticoïdes et à ≥ 2 immunosuppresseurs (dont un biologique), ≥ 3 mois chacun",
+  "Maladie active : ≥ 1 BILAG A, ou BILAG B avec antécédent éligible à un BILAG A dans les 24 mois",
+  "Au moins un auto-anticorps positif ou complément bas",
+  "Si néphrite lupique : biopsie de moins de 6 mois montrant une classe III ou IV (± V) active, fibrose et glomérulosclérose < 60 %"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "Participation à un autre essai clinique, interventionnel ou non",
+  "Incapacité ou refus de suivre le suivi clinique du protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1 (cohorte unique)",
+   "traitement": "Traitements standard en cours, sans intervention imposée par l'étude"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 6 mois ; fin de l'étude prévue en 2032)",
+ "critere": "Nombre de patients en rémission DORIS à 6 mois, avec intervalle de confiance à 95 %"
+}

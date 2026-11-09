@@ -1,0 +1,40 @@
+{
+ "h": "8ca96389b511",
+ "date": "2026-11-09",
+ "titre": "Inébilizumab et blinatumomab dans les maladies auto-immunes réfractaires (essai plateforme)",
+ "question": "L'inébilizumab (anti-CD19) et le blinatumomab sous-cutané (bispécifique CD19/CD3) sont-ils sûrs et efficaces dans le lupus, avec ou sans néphrite, et dans la polyarthrite rhumatoïde réfractaires ?",
+ "contexte": "Le lupus systémique, la néphrite lupique et la polyarthrite rhumatoïde réfractaire restent des situations d'impasse thérapeutique pour une partie des patients, malgré les immunosuppresseurs et les biothérapies disponibles. La déplétion profonde des lymphocytes B par CAR T anti-CD19 a donné des rémissions spectaculaires dans des séries de cas, mais cette approche est lourde et peu accessible.\n\nL'inébilizumab est un anticorps anti-CD19 déjà utilisé dans d'autres maladies auto-immunes. Le blinatumomab est un anticorps bispécifique qui rapproche les lymphocytes T des cellules CD19+ ; il est utilisé en hématologie par voie intraveineuse et testé ici par voie sous-cutanée. Cet essai plateforme d'Amgen, ouvert, comporte trois sous-protocoles : A (inébilizumab dans la néphrite lupique), B (blinatumomab dans le lupus) et C (blinatumomab dans la polyarthrite rhumatoïde). Chacun comporte une partie d'escalade de dose axée sur la sécurité, puis, pour B et C, une partie d'expansion évaluant l'efficacité. Les sous-protocoles A et B ne recrutent plus. De nombreux centres français participent (Lille, Lyon, Marseille, Paris, Strasbourg, Toulouse).",
+ "interet": "L'étude pourrait montrer si une déplétion B par bispécifique sous-cutané, plus simple qu'une CAR T, induit des réponses dans les formes réfractaires. Les résultats éclaireront le choix de la dose et les populations à cibler pour de futurs essais.",
+ "profil": "Des adultes atteints de lupus actif réfractaire, avec ou sans néphrite, ou de polyarthrite rhumatoïde réfractaire modérée à sévère.",
+ "inclusion": [
+  "Lupus (critères EULAR/ACR 2019) avec auto-anticorps positifs et SLEDAI-2K ≥ 6 (sous-protocoles A et B)",
+  "Néphrite lupique proliférative de classe III ou IV, prouvée par biopsie, avec protéinurie ≥ 1,0 mg/mg malgré 1 à 2 immunosuppresseurs",
+  "Lupus réfractaire hors néphrite : échec d'un biologique ou du cyclophosphamide, avec BILAG A ou 2 BILAG B (partie B)",
+  "Polyarthrite rhumatoïde selon les critères ACR/EULAR 2010 (sous-protocole C)",
+  "Doses stables des traitements de fond (corticoïdes, hydroxychloroquine, MMF, azathioprine…)"
+ ],
+ "exclusion": [
+  "Vaccin vivant atténué dans les 4 semaines précédentes ou jusqu’à la reconstitution B",
+  "DFG < 30 mL/min/1,73 m² ou lésion d’organe irréversible liée au lupus (A et B)",
+  "Greffe rénale antérieure ou prévue (A et B)",
+  "Lupus du système nerveux central actif dans l’année ou pathologie neurologique centrale significative (B et C)",
+  "Polyarthrite rhumatoïde de classe fonctionnelle ACR IV ou autre rhumatisme inflammatoire associé (C)",
+  "CAR T anti-B ou engageur de lymphocytes T, irradiation lymphoïde totale, greffe de moelle, natalizumab antérieurs"
+ ],
+ "bras": [
+  {
+   "nom": "Sous-protocole A",
+   "traitement": "Inébilizumab par perfusion IV, 3 ou 4 doses (néphrite lupique)"
+  },
+  {
+   "nom": "Sous-protocole B (lupus)",
+   "traitement": "Blinatumomab sous-cutané à dose faible, moyenne ou élevée (partie A), puis dose d'expansion (partie B)"
+  },
+  {
+   "nom": "Sous-protocole C (polyarthrite rhumatoïde)",
+   "traitement": "Blinatumomab sous-cutané à dose faible, moyenne ou élevée (partie A), puis dose d'expansion (partie B)"
+  }
+ ],
+ "duree": "52 semaines pour la sécurité (parties A) ; 12 à 52 semaines selon les critères d'efficacité",
+ "critere": "Parties A : événements indésirables et événements graves jusqu'à la semaine 52. Parties B et C : réponse rénale complète (S52), rémission DORIS (S26) dans le lupus, rémission DAS28-CRP (S12) dans la PR"
+}

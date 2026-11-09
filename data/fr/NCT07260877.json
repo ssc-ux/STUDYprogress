@@ -1,0 +1,36 @@
+{
+ "h": "04a67833e9ba",
+ "date": "2026-11-09",
+ "titre": "VENT-03 dans le lupus cutané actif, avec ou sans lupus systémique",
+ "question": "Le VENT-03 réduit-il la signature interféron cutanée et l'activité du lupus cutané après 4 semaines de traitement ?",
+ "contexte": "Le lupus cutané, isolé ou associé à un lupus systémique, comprend notamment les formes discoïdes et subaiguës. Il est source de cicatrices et d'un retentissement important sur la qualité de vie. Le traitement repose sur la photoprotection, les dermocorticoïdes, l'hydroxychloroquine et d'autres immunosuppresseurs, et une partie des patients reste en échec.\n\nLa voie des interférons de type I est un acteur majeur de l'inflammation cutanée du lupus. Le VENT-03 est un médicament expérimental évalué dans cette indication ; le registre ne précise pas son mécanisme ni ses données antérieures. Cette étude de phase 2a randomisée en double aveugle contre placebo compare 4 semaines de VENT-03 ou de placebo, puis tous les participants reçoivent le VENT-03 pendant 8 semaines supplémentaires. Le critère principal est biologique : la signature interféron dans la peau. Le promoteur est Ventus Therapeutics, avec des centres à Paris et Toulouse.",
+ "interet": "Étude de preuve de concept de petite taille : elle renseignera sur l'activité biologique et clinique du VENT-03 dans le lupus cutané. Elle ne modifie pas la pratique à ce stade.",
+ "profil": "Des adultes de 18 à 80 ans atteints de lupus cutané actif, avec ou sans lupus systémique.",
+ "inclusion": [
+  "18 à 80 ans",
+  "CLASI-A ≥ 8",
+  "Au moins une lésion active de lupus discoïde ou de lupus cutané subaigu",
+  "Si lupus systémique : ANA ≥ 1:80 et critères EULAR/ACR 2019",
+  "Si lupus systémique : au moins un traitement de fond à dose stable"
+ ],
+ "exclusion": [
+  "Anomalies infectieuses ou biologiques définies par le protocole",
+  "Insuffisance hépatique modérée à sévère (Child-Pugh B ou C)",
+  "Lupus induit par un médicament",
+  "Autre maladie cutanée ou articulaire inflammatoire",
+  "Lupus neuropsychiatrique sévère ou instable, néphrite lupique sévère, ou hospitalisation pour poussée dans les 3 derniers mois",
+  "Syndrome des antiphospholipides"
+ ],
+ "bras": [
+  {
+   "nom": "VENT-03",
+   "traitement": "VENT-03 pendant 4 semaines en double aveugle (posologie non précisée), puis 8 semaines en ouvert"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo pendant 4 semaines, puis VENT-03 pendant 8 semaines"
+  }
+ ],
+ "duree": "12 semaines de traitement (4 en aveugle, 8 en ouvert)",
+ "critere": "Effet sur la signature interféron cutanée, entre l'inclusion et la fin de la phase en aveugle (jusqu'au jour 28)"
+}

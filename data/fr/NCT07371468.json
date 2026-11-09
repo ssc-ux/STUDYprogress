@@ -1,0 +1,37 @@
+{
+ "h": "77bd827fc1a8",
+ "date": "2026-11-09",
+ "titre": "Engageur de lymphocytes T CD19/CD20 (GSK5926371) dans les maladies rhumatismales auto-immunes B-dépendantes",
+ "question": "Un engageur de lymphocytes T bispécifique CD19/CD20 est-il bien toléré et actif chez des patients atteints de maladies auto-immunes rhumatismales médiées par les lymphocytes B ?",
+ "contexte": "Plusieurs maladies auto-immunes systémiques (lupus, polyarthrite rhumatoïde, myopathies inflammatoires, syndrome de Sjögren) reposent en partie sur des lymphocytes B pathogènes. Le rituximab, anti-CD20, déplète les B circulants mais élimine moins bien les B tissulaires, ce qui explique des réponses parfois insuffisantes.\n\nLes engageurs de lymphocytes T bispécifiques, déjà utilisés en hématologie, lient un antigène B (ici CD19 et CD20) et le CD3 des lymphocytes T pour provoquer une déplétion B profonde. Ils sont moins lourds à mettre en œuvre que les CAR-T, car disponibles sans fabrication individuelle. Cette étude de phase 1 ouverte comporte deux parties : une escalade de dose pour trouver une dose d'amorçage adaptée (lupus ou polyarthrite), puis une partie élargie au lupus, à la polyarthrite, aux myopathies inflammatoires et au syndrome de Sjögren. Elle évalue la tolérance, la pharmacocinétique, la pharmacodynamie et l'immunogénicité. Le promoteur est GSK, avec des centres à Bordeaux et Toulouse.",
+ "interet": "Étude précoce de recherche de dose : elle ne change pas la pratique mais renseigne sur la faisabilité de cette stratégie de déplétion B dans plusieurs maladies auto-immunes.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, polyarthrite rhumatoïde, myopathie inflammatoire ou syndrome de Sjögren.",
+ "inclusion": [
+  "18 à 70 ans",
+  "Partie 1 : lupus systémique ou polyarthrite rhumatoïde",
+  "Partie 2 : lupus, polyarthrite, myopathie inflammatoire ou syndrome de Sjögren",
+  "IMC de 18 à 35 kg/m² et poids ≥ 45 kg",
+  "Contraception hautement efficace chez les femmes en âge de procréer",
+  "Consentement signé, hospitalisation et visites acceptées"
+ ],
+ "exclusion": [
+  "Poussée sévère aiguë de la maladie nécessitant un traitement immédiat",
+  "Allergie significative aux anticorps monoclonaux humanisés ou aux excipients",
+  "Maladie non auto-immune instable ou non contrôlée, ou chirurgie prévue",
+  "Anomalie biologique cliniquement significative",
+  "Déficit immunitaire primaire ou acquis (hors déficit isolé en IgA)",
+  "Infection aiguë ou chronique active"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 : escalade de dose",
+   "traitement": "GSK5926371 à doses croissantes pour déterminer la dose d'amorçage"
+  },
+  {
+   "nom": "Partie 2 : division de dose",
+   "traitement": "GSK5926371 à des doses fondées sur les données de la partie 1"
+  }
+ ],
+ "duree": "Jusqu'à 196 jours",
+ "critere": "Nombre de participants avec événements indésirables et événements indésirables graves, jusqu'à 196 jours"
+}

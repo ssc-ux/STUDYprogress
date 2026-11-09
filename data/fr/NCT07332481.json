@@ -1,0 +1,37 @@
+{
+ "h": "31c9478b966a",
+ "date": "2026-11-09",
+ "titre": "Enpatoran versus placebo dans le lupus cutané avec ou sans lupus systémique",
+ "question": "L'enpatoran, inhibiteur oral de TLR7/8, améliore-t-il les lésions cutanées de lupus (réponse CLASI-70) après 24 semaines ?",
+ "contexte": "Le lupus cutané (discoïde, subaigu ou aigu) peut exister seul ou accompagner un lupus systémique. Il est souvent invalidant, cicatriciel et source d'altération de la qualité de vie. Les traitements actuels reposent sur la photoprotection, les dermocorticoïdes, l'hydroxychloroquine et les immunosuppresseurs, avec une réponse souvent incomplète. Les options validées dans les formes réfractaires restent peu nombreuses.\n\nL'enpatoran est un inhibiteur oral des récepteurs de l'immunité innée TLR7 et TLR8, qui détectent les acides nucléiques et activent la production d'interférons et de cytokines inflammatoires impliqués dans le lupus. ELOWEN-1 est un essai de phase 3 promu par EMD Serono (Merck KGaA), randomisé, en triple aveugle, contre placebo, chez environ 202 adultes de 18 à 75 ans avec un lupus cutané actif, avec ou sans lupus systémique, sous traitement habituel. Les patients doivent avoir un score CLASI-A d'au moins 8. Le traitement dure 24 semaines et la participation jusqu'à 35 semaines, sous forme de comprimés pelliculés. Des centres français participent (Saint-Étienne, Paris).",
+ "interet": "Si l'étude est positive, l'enpatoran serait un traitement oral à mécanisme nouveau pour le lupus cutané, y compris dans les formes associées à un lupus systémique. Il répondrait à un besoin en dermatologie et en médecine interne.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus cutané actif (discoïde, subaigu ou aigu), avec ou sans lupus systémique.",
+ "inclusion": [
+  "18 à 75 ans, vaccinations à jour",
+  "Lupus discoïde et/ou subaigu documenté, avec ou sans lupus systémique",
+  "Lupus cutané aigu seul possible en présence d'un lupus systémique, évoluant depuis au moins 6 semaines",
+  "Lupus systémique selon les critères EULAR/ACR 2019 le cas échéant",
+  "Durée d'évolution ≥ 6 mois",
+  "CLASI-A ≥ 8 au dépistage et au jour 1"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune rhumatismale principale (sclérodermie, polyarthrite rhumatoïde…)",
+  "Autre dermatose ou maladie non contrôlée contre-indiquant la participation",
+  "Lupus induit par un médicament",
+  "Néphrite lupique sous traitement d'induction ou induction terminée depuis moins de 3 mois",
+  "Rapport protéinurie/créatininurie > 339 mg/mmol ou DFG < 40 mL/min/1,73 m²",
+  "Atteinte neurologique centrale lupique dans les 3 mois ou crises comitiales non contrôlées"
+ ],
+ "bras": [
+  {
+   "nom": "Enpatoran",
+   "traitement": "Enpatoran en comprimés pelliculés pendant 24 semaines (posologie non précisée), en plus du traitement habituel"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en comprimés pelliculés pendant 24 semaines, en plus du traitement habituel"
+  }
+ ],
+ "duree": "Jusqu'à 35 semaines dont 24 semaines de traitement",
+ "critere": "Pourcentage de patients avec une réponse CLASI-70 (baisse d'au moins 70 % du CLASI-A) à la semaine 24"
+}

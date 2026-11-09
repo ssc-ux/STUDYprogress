@@ -1,0 +1,38 @@
+{
+ "h": "4bb623ce3b82",
+ "date": "2026-11-09",
+ "titre": "Cénérimod oral versus placebo dans le lupus systémique modéré à sévère",
+ "question": "Le cénérimod 4 mg/j, ajouté au traitement de fond, améliore-t-il la réponse SRI-4 à 12 mois chez des adultes avec un lupus systémique modéré à sévère ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique dont l'activité reste mal contrôlée chez une partie des patients malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et le bélimumab. Les poussées répétées et l'exposition prolongée aux corticoïdes entraînent des dommages d'organes. Des traitements oraux ciblant de nouvelles voies sont donc recherchés.\n\nLe cénérimod est un modulateur oral du récepteur S1P1 de la sphingosine-1-phosphate. Ce type de molécule limite la sortie des lymphocytes des organes lymphoïdes, ce qui réduit le nombre de lymphocytes circulants susceptibles d'infiltrer les tissus. OPUS-1 est un essai de phase 3 de Viatris, randomisé, en quadruple aveugle, contre placebo, qui inclut environ 470 adultes de 18 à 75 ans avec un lupus actif (mSLEDAI-2K ≥ 6, BILAG A ou B, atteinte musculo-squelettique ou cutanéo-muqueuse) et un traitement de fond stable. Environ 210 patients reçoivent le cénérimod et 210 le placebo pendant 12 mois. Des centres français participent (Paris, Toulouse, Saint-Denis). Une surveillance cardiaque et ophtalmologique est prévue, comme en témoignent les exclusions liées à la fréquence cardiaque, au QT et à l'œdème maculaire.",
+ "interet": "Si l'essai est positif, le cénérimod serait un traitement oral à mécanisme nouveau pour le lupus actif. Son profil de tolérance cardiaque et oculaire sera déterminant pour sa place en pratique.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus systémique modéré à sévère malgré un traitement de fond stable.",
+ "inclusion": [
+  "18 à 75 ans, lupus diagnostiqué depuis au moins 6 mois (critères EULAR/ACR 2019)",
+  "mSLEDAI-2K ≥ 6 dont un score clinique ≥ 4 avec au moins 2 points musculo-squelettiques ou cutanéo-muqueux",
+  "BILAG-2004 : au moins deux scores B ou un score A",
+  "Évaluation globale du médecin ≥ 1 sur 3",
+  "Marqueur sérologique d'activité (anti-ADN natif, ANA ≥ 1:160 ou anti-Sm) à la randomisation",
+  "Traitement de fond stable (antipaludéens, immunosuppresseurs, bélimumab et/ou corticoïdes oraux ≤ 30 mg/j)"
+ ],
+ "exclusion": [
+  "Grossesse, projet de grossesse ou allaitement",
+  "Lupus neuropsychiatrique sévère ou instable",
+  "Connectivite mixte ou syndromes de chevauchement",
+  "Bloc auriculo-ventriculaire, bradycardie, QT allongé, événement cardiovasculaire récent ou insuffisance cardiaque III/IV",
+  "Maladie respiratoire sévère, fibrose pulmonaire, antécédent de cancer (hors exceptions) ou anomalie maculaire",
+  "Atteinte hépatique, cytopénies sévères ou DFG < 15 mL/min/1,73 m²",
+  "Rituximab dans les 12 mois, anifrolumab dans les 6 mois ou immunosuppresseurs interdits"
+ ],
+ "bras": [
+  {
+   "nom": "Cénérimod 4 mg",
+   "traitement": "Cénérimod 4 mg une fois par jour per os, en plus du traitement de fond"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique une fois par jour, en plus du traitement de fond"
+  }
+ ],
+ "duree": "12 mois de traitement",
+ "critere": "Réponse SRI-4 à 12 mois par rapport à l'inclusion"
+}

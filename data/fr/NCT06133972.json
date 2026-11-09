@@ -1,0 +1,37 @@
+{
+ "h": "e398a55f4629",
+ "date": "2026-11-09",
+ "titre": "Extension de sécurité à long terme de l'ianalumab dans le lupus systémique",
+ "question": "Quelle est la tolérance à long terme de l'ianalumab sous-cutané, mensuel ou trimestriel, chez des patients ayant terminé l'une des études SIRIUS-SLE ?",
+ "contexte": "Le lupus systémique est une maladie chronique qui nécessite un traitement au long cours, et les données de sécurité sur plusieurs années sont essentielles pour tout nouveau biologique. L'ianalumab est un anticorps monoclonal anti-BAFF-R déplétant les lymphocytes B et neutralisant l'effet de BAFF. Il est évalué dans plusieurs maladies auto-immunes, dont le lupus avec les études pivots SIRIUS-SLE 1 et 2.\n\nCette extension de phase 3 est ouverte aux participants ayant terminé la période de traitement des études SIRIUS-SLE jusqu'à la semaine 60, sans arrêt du traitement. Elle comporte une période randomisée en double aveugle de 3 ans (ianalumab mensuel, trimestriel ou placebo mensuel). Une période de 2 ans suit, avec arrêt du traitement puis ianalumab ouvert mensuel. Une surveillance ouverte de 2 ans au plus clôt le suivi, pour une durée totale pouvant atteindre 7 ans. Le promoteur est Novartis. L'étude permettra d'apprécier la sécurité à long terme et l'effet d'un arrêt de traitement.",
+ "interet": "Les données renseigneront la sécurité sur plusieurs années, notamment infectieuse, et le schéma de dosage espacé. L'étude explorera aussi ce qui se passe à l'arrêt du traitement.",
+ "profil": "Des adolescents et adultes dès 12 ans ayant terminé l'une des deux études SIRIUS-SLE sous traitement.",
+ "inclusion": [
+  "Consentement signé (et assentiment pour les mineurs)",
+  "Participation à SIRIUS-SLE 1 ou 2 avec traitement terminé jusqu'à la semaine 60",
+  "Bénéfice clinique attendu de la poursuite du traitement selon l'investigateur",
+  "12 à 100 ans selon le registre"
+ ],
+ "exclusion": [
+  "Traitements interdits",
+  "Infection active nécessitant un traitement IV ou IM",
+  "Vaccin vivant prévu pendant l'étude",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab mensuel",
+   "traitement": "Ianalumab sous-cutané une fois par mois"
+  },
+  {
+   "nom": "Ianalumab trimestriel",
+   "traitement": "Ianalumab sous-cutané une fois par trimestre"
+  },
+  {
+   "nom": "Placebo mensuel",
+   "traitement": "Placebo sous-cutané une fois par mois"
+  }
+ ],
+ "duree": "Jusqu'à environ 7 ans (324 semaines)",
+ "critere": "Nombre d'événements indésirables, y compris graves, apparus sous traitement (jusqu'à environ 324 semaines)"
+}

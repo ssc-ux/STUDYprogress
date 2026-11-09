@@ -1,0 +1,35 @@
+{
+ "h": "266a8c85f455",
+ "date": "2026-11-09",
+ "titre": "Nipocalimab versus placebo dans le lupus systémique modéré à sévère",
+ "question": "Le nipocalimab, ajouté au traitement habituel, améliore-t-il la réponse SRI-4 à 52 semaines chez des adultes avec un lupus systémique actif modéré à sévère ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique pouvant toucher la peau, les articulations, les reins et d'autres organes. Malgré les antipaludéens, les corticoïdes et les immunosuppresseurs, une partie des patients garde une maladie active et s'expose aux poussées et aux séquelles liées aux corticoïdes. Le bélimumab et l'anifrolumab ont élargi l'arsenal, mais les besoins non couverts persistent.\n\nLe nipocalimab est un anticorps monoclonal qui bloque le récepteur néonatal du fragment Fc (FcRn). Il réduit les taux d'IgG circulantes, y compris les auto-anticorps pathogènes, et pourrait donc agir sur un mécanisme central du lupus. Cet essai de phase 3 promu par Janssen est randomisé, en double aveugle, contre placebo, et inclut environ 600 adultes ayant un lupus modéré à sévère, avec un SLEDAI-2K ≥ 6 et une activité BILAG-2004 documentée. Tous reçoivent le traitement de fond habituel. Après 52 semaines, une extension en ouvert avec nipocalimab est proposée jusqu'à la semaine 156.",
+ "interet": "Si l'essai est positif, le nipocalimab offrirait une nouvelle classe thérapeutique, ciblant les IgG par blocage du FcRn, dans le lupus actif. Il élargirait les options en cas de réponse insuffisante au traitement de fond.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus systémique modéré à sévère malgré un traitement de fond.",
+ "inclusion": [
+  "18 à 75 ans, état médical stable",
+  "Lupus diagnostiqué depuis au moins 24 semaines, critères EULAR/ACR remplis",
+  "SLEDAI-2K ≥ 6 et SLEDAI-2K clinique ≥ 4 au dépistage, SLEDAI-2K clinique ≥ 4 à la semaine 0",
+  "Au moins un score BILAG-2004 A ou deux scores B au dépistage",
+  "Test de grossesse négatif chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Affection sévère, évolutive ou non contrôlée (hépatique, digestive, rénale, pulmonaire, cardiovasculaire, psychiatrique, neurologique…)",
+  "Manifestation lupique instable nécessitant d'intensifier le traitement au-delà des traitements de fond autorisés",
+  "Déficit immunitaire connu ou suspecté, non lié au traitement du lupus",
+  "Réaction d'hypersensibilité immédiate sévère antérieure à des protéines thérapeutiques",
+  "Allergie ou intolérance connue au nipocalimab ou à ses excipients"
+ ],
+ "bras": [
+  {
+   "nom": "Nipocalimab",
+   "traitement": "Nipocalimab jusqu'à la semaine 52 en double aveugle, avec traitement habituel, puis extension en ouvert jusqu'à la semaine 156 (posologie non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo jusqu'à la semaine 52 avec traitement habituel, puis nipocalimab en extension en ouvert jusqu'à la semaine 156"
+  }
+ ],
+ "duree": "52 semaines en double aveugle, jusqu'à 156 semaines avec l'extension",
+ "critere": "Pourcentage de patients en réponse composite SRI-4 à la semaine 52"
+}

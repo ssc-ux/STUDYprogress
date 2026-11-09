@@ -1,0 +1,33 @@
+{
+ "h": "ac6f3d285588",
+ "date": "2026-11-09",
+ "titre": "CAR-T anti-CD19 (zola-cel) dans le lupus systémique actif, y compris néphrite lupique",
+ "question": "Une injection unique de CAR-T anti-CD19 CC-97540 permet-elle d'obtenir une rémission DORIS sans traitement à 6 mois chez des patients lupiques en échec des immunosuppresseurs ?",
+ "contexte": "Le lupus érythémateux systémique (LES) reste une maladie sévère chez une part des patients, malgré les glucocorticoïdes, les immunosuppresseurs et les biothérapies (belimumab, anifrolumab). La néphrite lupique est l'une des atteintes d'organe les plus graves. Les besoins non couverts concernent surtout les formes réfractaires et la possibilité d'obtenir une rémission sans traitement continu.\n\nLes CAR-T dirigés contre CD19 éliminent en profondeur les lymphocytes B, y compris ceux des tissus, ce qui pourrait « réinitialiser » l'auto-immunité. Des séries de cas académiques ont rapporté des rémissions prolongées dans le LES, mais sur de petits effectifs. Le CC-97540 (BMS-986353, zola-cel) est un CAR-T de type NEX-T, administré après lymphodéplétion par fludarabine et cyclophosphamide. Cette étude de phase 2 ouverte à bras unique, promue par Bristol-Myers Squibb, inclut des patients avec LES actif, avec ou sans néphrite lupique, en échec des glucocorticoïdes et d'au moins deux immunosuppresseurs. Six centres français participent (Toulouse, Montpellier, Rennes, Strasbourg, Paris).",
+ "interet": "Si la rémission sans traitement est confirmée dans une cohorte plus large qu'une série de cas, les CAR-T pourraient devenir une option pour le LES réfractaire. Le suivi prolongé renseignera aussi sur la sécurité à long terme.",
+ "profil": "Des patients à partir de 16 ans avec un LES actif, y compris néphrite lupique, malgré les glucocorticoïdes et au moins deux immunosuppresseurs.",
+ "inclusion": [
+  "Âge ≥ 16 ans",
+  "LES selon les critères EULAR/ACR 2019",
+  "Réponse insuffisante aux glucocorticoïdes et à ≥ 2 immunosuppresseurs, utilisés ≥ 3 mois",
+  "Maladie active à la signature du consentement",
+  "Néphrite lupique possible"
+ ],
+ "exclusion": [
+  "Autre maladie ou traitement pouvant gêner l'interprétation de l'effet",
+  "Pathologie cardiovasculaire ou du SNC non contrôlée ou cliniquement significative",
+  "Antécédent de cancer ou de syndrome lymphoprolifératif, sauf rémission ≥ 2 ans (hors certains cancers non invasifs)",
+  "Traitement antérieur par CAR-T, cellules T modifiées, greffe de cellules souches ou d'organe",
+  "Grossesse, allaitement ou projet de grossesse",
+  "Vaccin vivant dans les 6 semaines précédant la lymphodéplétion",
+  "Fonction d'organe inadéquate"
+ ],
+ "bras": [
+  {
+   "nom": "CC-97540 (bras unique)",
+   "traitement": "Lymphodéplétion par fludarabine et cyclophosphamide, puis CAR-T CC-97540 anti-CD19 en perfusion unique (dose non précisée)"
+  }
+ ],
+ "duree": "Non précisé pour le participant ; fin de l'étude prévue en 2032",
+ "critere": "Proportion de patients en rémission DORIS sans traitement à 6 mois"
+}
