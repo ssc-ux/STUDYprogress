@@ -74,6 +74,17 @@ function normalize(st) {
   };
 }
 
+// Villes françaises : nom nettoyé, communes hospitalières rattachées à leur CHU (filtre « ma ville » du site).
+const AGGLO = { "Créteil": "Paris", "Le Kremlin-Bicêtre": "Paris", "Bobigny": "Paris", "Suresnes": "Paris", "Bondy": "Paris", "Boulogne-Billancourt": "Paris", "Villejuif": "Paris", "Clichy": "Paris", "Garches": "Paris", "Montreuil": "Paris", "Antony": "Paris", "Issy-les-Moulineaux": "Paris", "Ivry-sur-Seine": "Paris", "Limeil-Brévannes": "Paris", "Charenton-le-Pont": "Paris", "Montfermeil": "Paris", "Pessac": "Bordeaux", "Talence": "Bordeaux", "Bron": "Lyon", "Pierre-Bénite": "Lyon", "Villeurbanne": "Lyon", "Caluire-et-Cuire": "Lyon", "Oullins": "Lyon", "Vandœuvre-lès-Nancy": "Nancy", "La Tronche": "Grenoble", "Saint-Priest-en-Jarez": "Saint-Étienne", "Chambray-lès-Tours": "Tours", "Saint-Herblain": "Nantes", "Bois-Guillaume": "Rouen", "Salouël": "Amiens", "Lomme": "Lille", "Cesson-Sévigné": "Rennes", "Trélazé": "Angers" };
+const FIX = { "Saint-Etienne": "Saint-Étienne", "Le Kremlin-Bictre": "Le Kremlin-Bicêtre", "Saint Priest En Jarez": "Saint-Priest-en-Jarez", "St-Malo": "Saint-Malo", "Nice Alpes": "Nice", "FORT de France": "Fort-de-France" };
+const city = c => {
+  c = (c ?? "").replace(/\s+c[ée]dex.*$/i, "").trim(); c = FIX[c] ?? c;
+  return !c || /c[ée]dex|many|finist|bouches|seine-maritime|martinique/i.test(c) ? "" : AGGLO[c] ?? c;
+};
+// Molécules testées (médicaments et biothérapies), sans placebo ni soins courants : vue « pipeline » par maladie.
+const drugs = s => [...new Set(s.interventions.filter(i => /DRUG|BIOLOGICAL|GENETIC|COMBINATION/.test(i.t)).map(i => i.n.trim())
+  .filter(n => n.length <= 40 && !/placebo|standard of care|\bsoc\b|saline|vehicle|sampl|sham|usual care/i.test(n)))].slice(0, 3);
+
 // Ordre de priorité des fiches : nouvelles études françaises (page d'accueil), autres françaises, centres en France, puis le reste.
 const OPEN = /RECRUIT|ENROLLING/;
 const prio = s => s.fr === "promo" && OPEN.test(s.status) && s.start >= SINCE.replace(/^\d{4}/, y => +y + 1) ? 0
@@ -139,10 +150,11 @@ async function main() {
   const light = studies.map(s => ({
     id: s.id, acr: s.acr, t: s.x?.titre || s.title, dis: s.dis, status: s.status, type: s.type, phase: s.phase,
     n: s.n, start: s.start, pcd: s.pcd, sponsor: s.sponsor, sClass: s.sClass, fr: s.fr, frN: s.frSites.length,
-    sites: s.sites, q: s.x?.question ?? "", p: s.x?.profil ?? "", seen: s.seen, chg: s.chg, res: s.hasResults || s.pubs.length > 0
+    sites: s.sites, q: s.x?.question ?? "", p: s.x?.profil ?? "", seen: s.seen, chg: s.chg, res: s.hasResults || s.pubs.length > 0,
+    pub: s.pubs.length, rnd: s.alloc === "RANDOMIZED" ? 1 : 0, iv: drugs(s), v: [...new Set(s.frSites.map(l => city(l.c)).filter(Boolean))].sort()
   }));
   await writeFile("data/todo.json", JSON.stringify(todo.map(s => ({ id: s.id, h: s.h, acr: s.acr, fr: s.fr })), null, 0).replace(/},/g, "},\n"));
-  await writeFile("data/studies.json", JSON.stringify({ updated: TODAY, diseases: DISEASES.map(({ q, ...d }) => d), studies: light }));
+  await writeFile("data/studies.json", JSON.stringify({ updated: process.env.OFFLINE && prev.updated || TODAY, diseases: DISEASES.map(({ q, ...d }) => d), studies: light }));
   console.log(`${studies.length} études, dont ${studies.filter(s => s.fr === "promo").length} à promotion française ; ${studies.filter(s => s.x).length} résumées ; ${todo.length} fiches à rédiger (data/todo.json).`);
 }
 

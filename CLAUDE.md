@@ -3,9 +3,11 @@
 Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniques en médecine interne
 (source : ClinicalTrials.gov) pour des médecins, avec les études à promotion française mises en avant.
 
-- `index.html` : tout le site (CSS + JS inline, même style que la PNDSthèque).
+- `index.html` : tout le site (CSS + JS inline). Public : internes et médecins de médecine interne. Vues : accueil
+  (nouveautés du mois, changements de statut, études ouvertes dans « ma ville », résultats), liste dense filtrable
+  (filtres dans l'URL), page par maladie (essais classés par phase), fiche étude, repères (lexique).
 - `scripts/conditions.mjs` : maladies suivies, catégories, détection des promoteurs français.
-- `scripts/update.mjs` : collecte → `data/studies.json` (index léger), `data/s/<NCT>.json` (fiche complète),
+- `scripts/update.mjs` : collecte → `data/studies.json` (index léger, avec villes françaises `v` et molécules `iv`), `data/s/<NCT>.json` (fiche complète),
   `data/todo.json` (fiches en français à rédiger, par ordre de priorité).
 - `data/fr/<NCT>.json` : fiches en français (cache ; ne jamais les supprimer).
 

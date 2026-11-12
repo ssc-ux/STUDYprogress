@@ -3,358 +3,469 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>STUDYprogress</title>
-<meta name="description" content="L'actualité des études cliniques en médecine interne : nouvelles études, études en cours et terminées, avec un accent sur la recherche française.">
+<title>STUDYprogress · La recherche clinique en médecine interne</title>
+<meta name="description" content="Les études cliniques en médecine interne, lisibles en une minute : nouveautés de la semaine, essais par maladie et par phase, études ouvertes dans votre ville, résultats publiés.">
+<meta property="og:title" content="STUDYprogress">
+<meta property="og:description" content="La recherche clinique en médecine interne, lisible en une minute.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme:light)">
+<meta name="theme-color" content="#10161d" media="(prefers-color-scheme:dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230d6b63'/%3E%3Cpath d='M7 21h4l3-10 4 14 3-8h4' fill='none' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
 <style>
-/* Direction « Labo » : vert d'eau, cartes blanches très arrondies, Lexend ; le calendrier (frise des dates) est le motif récurrent. */
-:root{color-scheme:light;--bg:#e9f6f3;--card:#fff;--fg:#12372f;--muted:#5b7a72;--line:#d2e7e1;--acc:#20a387;--ink:#137a63;--chip:#dbefe9;--soft:#f3faf8;--warn:#8a4b00;--warnb:#ffe6c7;--ok:#137a63;--okb:#d4f1e7;--fol:#3b55b8;--folb:#e2e8fb;--stop:#a33a3a;--stopb:#fbe1e1;--fr:#2a4fb5;--frb:#e6ecfb;--now:#e4572e;--star:#d49a00;--sh:0 1px 2px rgba(18,55,47,.04),0 6px 18px rgba(18,55,47,.06)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e1d1a;--card:#162925;--fg:#e2f2ee;--muted:#93b0a8;--line:#24403a;--acc:#33c09e;--ink:#5fd8b9;--chip:#1c3530;--soft:#12231f;--warn:#f3b874;--warnb:#3a2a17;--ok:#5fd8b9;--okb:#173a31;--fol:#a5b6ff;--folb:#222c4a;--stop:#f29a9a;--stopb:#3d2020;--fr:#9db2ff;--frb:#1f2a48;--now:#ff7a52;--star:#f2c443;--sh:0 1px 2px rgba(0,0,0,.3);color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#0e1d1a;--card:#162925;--fg:#e2f2ee;--muted:#93b0a8;--line:#24403a;--acc:#33c09e;--ink:#5fd8b9;--chip:#1c3530;--soft:#12231f;--warn:#f3b874;--warnb:#3a2a17;--ok:#5fd8b9;--okb:#173a31;--fol:#a5b6ff;--folb:#222c4a;--stop:#f29a9a;--stopb:#3d2020;--fr:#9db2ff;--frb:#1f2a48;--now:#ff7a52;--star:#f2c443;--sh:0 1px 2px rgba(0,0,0,.3);color-scheme:dark}
+/* Direction « Revue » : papier clair, encre marine, un seul accent (vert canard), listes denses plutôt que cartes. */
+:root{color-scheme:light;--bg:#fbfaf7;--surface:#fff;--fg:#14202e;--muted:#5d6878;--line:#e4e2dc;--soft:#f3f1ec;--acc:#0d6b63;--accb:#e2f0ee;--fr:#1f4fb5;--frb:#e8edfb;--warn:#9a5b00;--ok:#0d7a55;--fol:#3d55b0;--stop:#b23b3b;--now:#d2512f;--star:#c78f00}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#10161d;--surface:#18212b;--fg:#e7ecf2;--muted:#98a4b3;--line:#2a3644;--soft:#1e2833;--acc:#4fc3b4;--accb:#173533;--fr:#9db2ff;--frb:#1f2a48;--warn:#f0b56a;--ok:#5fd3a6;--fol:#a5b6ff;--stop:#f29a9a;--now:#ff8a63;--star:#f2c443}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#10161d;--surface:#18212b;--fg:#e7ecf2;--muted:#98a4b3;--line:#2a3644;--soft:#1e2833;--acc:#4fc3b4;--accb:#173533;--fr:#9db2ff;--frb:#1f2a48;--warn:#f0b56a;--ok:#5fd3a6;--fol:#a5b6ff;--stop:#f29a9a;--now:#ff8a63;--star:#f2c443}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 "Lexend",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;font-weight:300}
-body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
-b,strong{font-weight:600}
-a{color:var(--ink)}
+html{scroll-padding-top:70px}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.55 "Inter",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-text-size-adjust:100%}
+a{color:var(--acc)}
 button,select,input{font:inherit;color:inherit}
-:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
-.wrap{max-width:1080px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-right,0px)) 56px max(16px,env(safe-area-inset-left,0px))}
-h1,h2,h3{text-wrap:balance;font-weight:600;letter-spacing:-.01em}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px;border-radius:4px}
+h1,h2,h3{text-wrap:balance;margin:0;letter-spacing:-.01em}
+.serif{font-family:"Source Serif 4",Georgia,serif}
+.wrap{max-width:1120px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-right,0px)) 0 max(16px,env(safe-area-inset-left,0px))}
 /* En-tête */
-.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:14px 0 12px}
-.brand{display:flex;align-items:center;gap:10px;font-weight:600;font-size:1.08rem;color:inherit;text-decoration:none}
-.leaf{display:grid;place-items:center;width:34px;height:34px;border-radius:50% 50% 50% 12%;background:var(--acc);color:#fff;font-weight:700}
-.nav{display:flex;gap:4px;margin-left:auto;flex-wrap:wrap}
-.nav button{border:0;background:none;padding:7px 14px;border-radius:999px;cursor:pointer;color:var(--muted);font-weight:400}
-.nav button:hover{color:var(--fg)}
-.nav button[aria-selected=true]{background:var(--card);color:var(--fg);font-weight:500;box-shadow:var(--sh)}
-.search{display:flex;gap:8px;flex-wrap:wrap;flex-basis:100%}
-#q{flex:1;min-width:200px;padding:11px 18px;border:0;border-radius:999px;background:var(--card);box-shadow:var(--sh)}
-#q::placeholder{color:var(--muted)}
-.home .search{display:none}
+.top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top,0px)}
+.bar{display:flex;align-items:center;gap:6px 18px;flex-wrap:wrap;min-height:56px}
+.brand{display:flex;align-items:center;gap:9px;font-weight:700;font-size:1rem;color:inherit;text-decoration:none;letter-spacing:-.02em}
+.brand svg{width:26px;height:26px;flex:none}
+.nav{display:flex;gap:2px;margin-left:auto}
+.nav a{padding:6px 11px;border-radius:8px;color:var(--muted);text-decoration:none;font-weight:500;font-size:.9rem;white-space:nowrap}
+.nav a:hover{color:var(--fg);background:var(--soft)}
+.nav a[aria-current=page]{color:var(--acc);background:var(--accb)}
+.favlink{display:inline-flex;align-items:center;gap:5px;padding:5px 10px;border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--fg);font-size:.86rem;font-weight:500;background:var(--surface)}
+.favlink i{font-style:normal;color:var(--star)}
+@media (max-width:720px){.nav{order:3;flex-basis:100%;margin:0 -6px 6px;overflow-x:auto;scrollbar-width:none}.nav a{padding:5px 9px;font-size:.86rem}.favlink{margin-left:auto}.bar{min-height:48px;padding-top:6px}}
+main{padding-bottom:64px}
 /* Accueil */
-.hero{padding:clamp(20px,6vw,56px) 0 8px}
-.hero h1{margin:0;font-size:clamp(1.9rem,5vw,2.9rem);line-height:1.12;max-width:20ch}
-.hero p{color:var(--muted);max-width:58ch;margin:12px 0 18px}
-.hsearch{display:flex;gap:8px;flex-wrap:wrap;max-width:640px}
-.hsearch input{flex:1;min-width:200px;padding:13px 20px;border:0;border-radius:999px;background:var(--card);box-shadow:var(--sh)}
-.hsearch button{border:0;border-radius:999px;padding:13px 22px;background:var(--fg);color:var(--bg);font-weight:500;cursor:pointer}
-.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
-.chips button{border:0;background:var(--chip);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:.86rem}
-.chips button:hover,.chips button[aria-pressed=true]{background:var(--fg);color:var(--bg)}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:26px}
-.stat{background:var(--card);border-radius:20px;padding:14px 16px;box-shadow:var(--sh)}
-.stat b{display:block;font-size:1.7rem;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.2}
-.stat span{font-size:.82rem;color:var(--muted)}
-.stat.frs b{color:var(--fr)}
-.sec{margin-top:40px}
-.sech{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:12px}
-.sech h2{margin:0;font-size:1.25rem;display:flex;align-items:center;gap:8px}
-.sech p{margin:2px 0 0;color:var(--muted);font-size:.88rem;flex-basis:100%}
-.link{background:none;border:0;padding:0;color:var(--ink);font-weight:500;cursor:pointer}
-/* Pastilles */
-.tag{display:inline-flex;align-items:center;gap:5px;padding:2px 10px;border-radius:999px;font-size:.74rem;font-weight:500;white-space:nowrap;background:var(--chip);color:var(--muted)}
-.t-soon{background:var(--warnb);color:var(--warn)}.t-rec{background:var(--okb);color:var(--ok)}.t-fol{background:var(--folb);color:var(--fol)}.t-stop{background:var(--stopb);color:var(--stop)}.t-res{background:var(--fg);color:var(--bg)}
-.t-new{background:var(--now);color:#fff}
-.frt{background:var(--frb);color:var(--fr);font-weight:600;padding-left:7px}
-.frl{background:none;color:var(--fr);border:1px solid color-mix(in srgb,var(--fr) 35%,transparent)}
-.flag{display:inline-flex;width:14px;height:10px;border-radius:2px;overflow:hidden;flex:none;box-shadow:0 0 0 .5px rgba(0,0,0,.2)}
+.hero{padding:clamp(28px,6vw,60px) 0 clamp(20px,4vw,36px)}
+.eyebrow{font-size:.76rem;text-transform:uppercase;letter-spacing:.08em;color:var(--acc);font-weight:600;margin:0 0 10px}
+.hero h1{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:clamp(1.9rem,5vw,3rem);line-height:1.1;max-width:22ch}
+.hero p.lead{color:var(--muted);max-width:60ch;margin:14px 0 20px;font-size:1.02rem}
+.hsearch{display:flex;gap:8px;max-width:620px}
+.hsearch input{flex:1;min-width:0;padding:12px 16px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+.btnp{border:0;border-radius:10px;padding:12px 20px;background:var(--acc);color:var(--bg);font-weight:600;cursor:pointer;text-decoration:none;display:inline-block}
+.kpis{display:flex;flex-wrap:wrap;gap:6px 26px;margin-top:22px;font-size:.88rem;color:var(--muted)}
+.kpis a{color:inherit;text-decoration:none;border-bottom:1px dashed var(--line)}
+.kpis a:hover{color:var(--acc)}
+.kpis b{color:var(--fg);font-variant-numeric:tabular-nums;font-size:1.05rem;margin-right:4px}
+.panel{margin-top:34px}
+.ph{display:flex;align-items:baseline;gap:6px 12px;flex-wrap:wrap;margin-bottom:10px}
+.ph h2{font-size:1.12rem;font-weight:600}
+.ph .n{color:var(--muted);font-weight:400;font-size:.9rem}
+.ph .all{margin-left:auto;font-size:.86rem;font-weight:500;text-decoration:none;white-space:nowrap}
+.ph p{flex-basis:100%;margin:0;color:var(--muted);font-size:.86rem}
+.ph select{padding:4px 8px;border:1px solid var(--line);border-radius:8px;background:var(--surface);font-weight:600;max-width:100%}
+.hint{border:1px dashed var(--line);border-radius:12px;padding:18px;color:var(--muted);font-size:.9rem;background:var(--surface)}
+/* Lignes d'études */
+.tbl{border:1px solid var(--line);border-radius:12px;background:var(--surface);overflow:hidden}
+.thead,.row{display:grid;grid-template-columns:minmax(0,1fr) 34px;gap:0 14px;align-items:center;padding:10px 6px 10px 14px}
+.thead{font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);background:var(--soft);border-bottom:1px solid var(--line);padding-top:7px;padding-bottom:7px}
+.row{position:relative;border-top:1px solid var(--line);font-size:.86rem}
+.tbl>.row:first-child{border-top:0}
+.row:hover{background:var(--soft)}
+.r-meta{display:flex;flex-wrap:wrap;gap:2px 12px;color:var(--muted);font-size:.8rem;margin-top:4px;grid-column:1}
+.r-end::before{content:"Fin "}
+.r-n:not(:empty)::after{content:" pts"}
+@media (min-width:860px){
+  .thead,.row{grid-template-columns:minmax(0,1fr) 150px 118px 96px 52px 76px 34px}
+  .r-meta{display:contents;font-size:.82rem}
+  .r-meta>*{font-size:.82rem;color:var(--muted)}
+  .r-end::before,.r-n:not(:empty)::after{content:none}
+  .r-n,.r-end{font-variant-numeric:tabular-nums}
+  .r-n{text-align:right}
+}
+@media (max-width:859px){.thead{display:none}.row .fav{grid-row:1/3;grid-column:2;align-self:start}}
+.r-h{display:flex;align-items:center;gap:7px;flex-wrap:wrap;line-height:1.3}
+.r-ac{font-weight:600;font-size:.92rem;overflow-wrap:anywhere}
+.r-ac a{color:inherit;text-decoration:none}
+.r-ac a::after{content:"";position:absolute;inset:0}
+.row:hover .r-ac a{color:var(--acc)}
+.r-t{color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:1px}
+.r-t.q{color:var(--fg)}
+.badge{font-size:.66rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;padding:1px 6px;border-radius:5px;white-space:nowrap}
+.b-new{background:var(--now);color:#fff}
+.b-fr{color:var(--fr);background:var(--frb)}
+.b-en{color:var(--muted);border:1px solid var(--line)}
+.flag{display:inline-flex;width:15px;height:10px;border-radius:2px;overflow:hidden;flex:none;box-shadow:0 0 0 .5px rgba(0,0,0,.25)}
 .flag i{flex:1}.flag i:nth-child(1){background:#1f4fb5}.flag i:nth-child(2){background:#fff}.flag i:nth-child(3){background:#d62b3a}
-/* Cartes */
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
-.card{position:relative;background:var(--card);border-radius:22px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0;box-shadow:var(--sh);transition:transform .15s}
-.card:hover{transform:translateY(-2px)}
-.card.frc{box-shadow:var(--sh),inset 0 0 0 1.5px color-mix(in srgb,var(--fr) 35%,transparent)}
-.card .hd{display:flex;gap:5px;flex-wrap:wrap;padding-right:26px}
-.card .ac{font-weight:600;font-size:1.05rem;line-height:1.3;overflow-wrap:anywhere}
-.card .ac a{color:inherit;text-decoration:none}
-.card .ac a::after{content:"";position:absolute;inset:0;border-radius:22px}
-.card:hover .ac a{color:var(--ink)}
-.card .ti{font-size:.88rem;color:var(--muted);margin-top:-6px;overflow-wrap:anywhere}
-.card .why{font-size:.9rem}
-.card .ft{display:flex;flex-wrap:wrap;gap:2px 12px;font-size:.78rem;color:var(--muted);margin-top:auto}
-.mini{position:relative;height:6px;border-radius:999px;background:var(--chip);margin:2px 0 0}
-.mini i{position:absolute;top:0;bottom:0;border-radius:999px;background:var(--acc)}
-.mini i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 4px,color-mix(in srgb,var(--acc) 20%,transparent) 4px 8px)}
-.mini s{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--now);border-radius:1px}
-.minil{display:flex;justify-content:space-between;font-size:.7rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.fav{position:absolute;z-index:1;top:12px;right:12px;background:none;border:0;cursor:pointer;color:var(--muted);font-size:1.1rem;line-height:1;padding:4px 6px;border-radius:999px}
+.st{display:inline-flex;align-items:center;gap:6px;white-space:nowrap;font-weight:500;color:var(--c,var(--muted))}
+.st::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor;flex:none}
+.st-soon{--c:var(--warn)}.st-rec{--c:var(--ok)}.st-fol{--c:var(--fol)}.st-stop{--c:var(--stop)}.st-res{--c:var(--acc)}
+.st-res::before{border-radius:2px}
+.fav{position:relative;z-index:1;background:none;border:0;cursor:pointer;color:var(--muted);font-size:1.05rem;line-height:1;padding:6px;border-radius:8px;justify-self:end}
 .fav[aria-pressed=true]{color:var(--star)}
-.fav:hover{background:var(--chip)}
-/* Liste */
-.cats{display:flex;gap:6px;margin:6px 0 0;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
-.cats button{flex:none;border:0;background:var(--chip);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:.86rem;white-space:nowrap}
-.cats button[aria-pressed=true]{background:var(--fg);color:var(--bg)}
-.filters{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
-.filters select{padding:7px 12px;border:0;border-radius:999px;background:var(--card);box-shadow:var(--sh);font-size:.85rem;max-width:100%}
-.count{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;color:var(--muted);font-size:.86rem;margin:14px 0 10px}
-.disf{display:inline-flex;align-items:center;gap:4px;padding:2px 4px 2px 12px;border-radius:999px;background:var(--fg);color:var(--bg)}
-.disf button{border:0;background:none;color:inherit;cursor:pointer;padding:0 6px;font-size:1rem;line-height:1}
-.more{display:block;margin:16px auto 0;border:0;border-radius:999px;padding:10px 22px;background:var(--card);box-shadow:var(--sh);cursor:pointer;font-weight:500}
-#empty{color:var(--muted);padding:24px 0}
-/* Par maladie */
-.mh{margin:28px 0 10px;font-size:1rem;color:var(--muted);font-weight:500}
-.mtiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
-.mtile{display:flex;flex-direction:column;gap:8px;text-align:left;background:var(--card);border:0;border-radius:20px;padding:14px 16px;box-shadow:var(--sh);cursor:pointer}
-.mtile:hover{box-shadow:var(--sh),inset 0 0 0 1.5px var(--acc)}
-.mtile b{font-size:.98rem}
-.mtile span{display:flex;gap:5px;flex-wrap:wrap}
+.fav:hover{background:var(--line)}
+/* Liste et filtres */
+.pt{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:clamp(1.5rem,4vw,2rem);margin:28px 0 14px;line-height:1.15}
+.crumb{font-size:.84rem;color:var(--muted);margin:22px 0 -18px}
+.crumb a{color:inherit}
+.fbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.fbar input[type=search]{flex:1 1 100%;padding:11px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+.fbar select{padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:var(--surface);font-size:.85rem;max-width:100%;flex:1 1 150px}
+.fbar select.on{border-color:var(--acc);box-shadow:inset 0 0 0 1px var(--acc)}
+.chk{display:inline-flex;align-items:center;gap:6px;font-size:.85rem;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);cursor:pointer;white-space:nowrap}
+.chk input{accent-color:var(--acc);margin:0}
+@media (max-width:720px){.fbar select{flex:1 1 40%;min-width:0}}
+.link{background:none;border:0;padding:0;color:var(--acc);font-weight:500;cursor:pointer;font-size:.85rem}
+.count{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;color:var(--muted);font-size:.85rem;margin:14px 2px 8px}
+.more{display:block;margin:16px auto 0;border:1px solid var(--line);border-radius:10px;padding:10px 20px;background:var(--surface);cursor:pointer;font-weight:500}
+.empty{color:var(--muted);padding:26px 16px;text-align:center}
+/* Maladies */
+.cat{margin:26px 0 8px;font-size:.74rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:600}
+.dgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.dz{display:flex;flex-direction:column;gap:2px;padding:11px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface);text-decoration:none;color:inherit}
+.dz:hover{border-color:var(--acc)}
+.dz b{font-weight:600;font-size:.92rem}
+.dz span{font-size:.8rem;color:var(--muted)}
+.nums{display:flex;flex-wrap:wrap;gap:10px;margin:4px 0 6px}
+.num{border:1px solid var(--line);border-radius:10px;background:var(--surface);padding:10px 14px;min-width:120px;flex:1}
+.num b{display:block;font-size:1.45rem;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.2}
+.num span{font-size:.8rem;color:var(--muted)}
+.pipe{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+@media (max-width:860px){.pipe{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:520px){.pipe{grid-template-columns:minmax(0,1fr)}.pcol .pi:nth-of-type(n+6){display:none}}
+@media (min-width:521px){.pcol .mob{display:none}}
+.pcol{border:1px solid var(--line);border-radius:12px;background:var(--surface);padding:10px;display:flex;flex-direction:column;gap:6px;align-content:start}
+.pcol h3{font-size:.8rem;font-weight:600;display:flex;justify-content:space-between;padding:2px 4px 6px;border-bottom:2px solid var(--acc)}
+.pcol h3 span{color:var(--muted);font-weight:400}
+.pi{display:block;padding:7px 8px;border-radius:8px;background:var(--soft);text-decoration:none;color:inherit;font-size:.82rem;line-height:1.35}
+.pi:hover{outline:1px solid var(--acc)}
+.pi b{display:block;font-weight:600;overflow-wrap:anywhere}
+.pi>span{color:var(--muted);font-size:.76rem;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.pcol .none{color:var(--muted);font-size:.8rem;padding:4px}
+.pcol .all{font-size:.8rem;padding:2px 4px;text-decoration:none}
 /* Fiche */
-.back{background:none;border:0;padding:0;margin:8px 0 14px;color:var(--ink);cursor:pointer;font-weight:500}
-.fiche{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:18px;align-items:start}
-@media (max-width:820px){.fiche{grid-template-columns:minmax(0,1fr)}}
-.fh{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
-.fiche h1{margin:0;font-size:clamp(1.6rem,4.5vw,2.2rem);overflow-wrap:anywhere;line-height:1.15}
-.fiche .sub{color:var(--muted);margin:6px 0 16px;font-size:.95rem}
-.fiche .sub small{display:block;font-size:.82rem;margin-top:2px}
-.blk{background:var(--card);border-radius:22px;padding:16px 20px;margin-bottom:12px;min-width:0;box-shadow:var(--sh)}
-.blk h2{margin:0 0 10px;font-size:1.02rem;display:flex;align-items:center;gap:8px}
-.blk p{margin:0 0 8px;font-size:.95rem}
+.back{display:inline-block;margin:20px 0 14px;color:var(--acc);font-weight:500;font-size:.88rem;background:none;border:0;padding:0;cursor:pointer}
+.fiche{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:22px;align-items:start}
+@media (max-width:900px){.fiche{grid-template-columns:minmax(0,1fr)}}
+.fh{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;font-size:.82rem;margin-bottom:10px}
+.fh .pill{padding:2px 9px;border-radius:999px;background:var(--soft);color:var(--muted);text-decoration:none}
+.fh a.pill:hover{color:var(--acc)}
+.fiche h1{font-size:clamp(1.7rem,4.5vw,2.3rem);font-weight:700;overflow-wrap:anywhere;line-height:1.1}
+.fiche .sub{color:var(--muted);margin:6px 0 18px}
+.fiche .sub small{display:block;font-size:.8rem;margin-top:3px;opacity:.85}
+.lead-q{font-family:"Source Serif 4",Georgia,serif;font-weight:500;font-size:clamp(1.15rem,2.6vw,1.4rem);line-height:1.35;margin:0 0 12px}
+.blk{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:12px;min-width:0}
+.blk h2{font-size:.74rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:600;margin-bottom:10px}
+.blk p{margin:0 0 9px}
 .blk p:last-child{margin-bottom:0}
-.blk ul{margin:0;padding-left:20px;font-size:.92rem}
+.blk ul{margin:0;padding-left:18px;font-size:.92rem}
 .blk li{margin:3px 0}
-.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.blk.key{border-left:3px solid var(--acc)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
 @media (max-width:560px){.two{grid-template-columns:1fr}}
-.two h3{font-size:.85rem;margin:0 0 4px;color:var(--muted);font-weight:500}
-.raw{white-space:pre-wrap;font-size:.85rem;color:var(--muted);max-height:420px;overflow:auto;background:var(--soft);border-radius:14px;padding:12px 14px;margin-top:8px}
-details summary{cursor:pointer;color:var(--ink);font-weight:500;font-size:.9rem}
-.autonote{font-size:.8rem;color:var(--muted);margin:-2px 4px 12px}
-/* Calendrier de l'étude */
+.two h3{font-size:.84rem;margin:0 0 5px;font-weight:600}
+.raw{white-space:pre-wrap;font-size:.84rem;color:var(--muted);max-height:420px;overflow:auto;background:var(--soft);border-radius:8px;padding:12px 14px;margin-top:8px}
+details summary{cursor:pointer;color:var(--acc);font-weight:500;font-size:.9rem}
+.note{font-size:.8rem;color:var(--muted);margin:0 2px 12px}
+.note.en{background:var(--soft);border-radius:8px;padding:9px 12px}
+/* Calendrier */
 .steps{display:flex;gap:4px;margin:0 0 18px;overflow-x:auto}
-.steps span{flex:1;min-width:84px;text-align:center;font-size:.76rem;padding:6px 4px;border-radius:999px;background:var(--chip);color:var(--muted)}
-.steps span.done{background:var(--okb);color:var(--ok)}
-.steps span.cur{background:var(--acc);color:#fff;font-weight:600}
-.steps span.stop{background:var(--stop);color:#fff;font-weight:600}
+.steps span{flex:1;min-width:84px;text-align:center;font-size:.76rem;padding:5px 4px;border-radius:6px;background:var(--soft);color:var(--muted)}
+.steps span.done{background:var(--accb);color:var(--acc)}
+.steps span.cur{background:var(--acc);color:var(--bg);font-weight:600}
+.steps span.stop{background:var(--stop);color:var(--bg);font-weight:600}
 .cal{overflow-x:auto}
-.calg{display:grid;grid-template-columns:130px minmax(260px,1fr);gap:10px 12px;align-items:center;font-size:.82rem}
+.calg{display:grid;grid-template-columns:140px minmax(260px,1fr);gap:10px 12px;align-items:center;font-size:.82rem}
+.calg small{color:var(--muted)}
 .yrs{position:relative;height:18px;border-bottom:1px solid var(--line)}
 .yrs span{position:absolute;transform:translateX(-50%);font-size:.72rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.trk{position:relative;height:18px;border-radius:6px;background:var(--soft)}
-.trk i{position:absolute;top:0;bottom:0;border-radius:6px;background:var(--acc)}
-.trk i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 6px,color-mix(in srgb,var(--acc) 22%,transparent) 6px 12px)}
+.trk{position:relative;height:16px;border-radius:4px;background:var(--soft)}
+.trk i{position:absolute;top:0;bottom:0;border-radius:4px;background:var(--acc)}
+.trk i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 6px,color-mix(in srgb,var(--acc) 20%,transparent) 6px 12px)}
 .trk i.p{background:var(--fol)}
-.trk i.p.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--fol) 45%,transparent) 0 6px,color-mix(in srgb,var(--fol) 22%,transparent) 6px 12px)}
-.today{position:absolute;top:-6px;bottom:-6px;width:2px;background:var(--now);border-radius:1px}
-@media (max-width:560px){.calg{grid-template-columns:minmax(0,1fr);gap:4px}.calg>span:first-child{display:none}.trk{margin-bottom:8px}.nav{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-left:0;flex-basis:100%}.nav button{white-space:nowrap}}
+.trk i.p.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--fol) 45%,transparent) 0 6px,color-mix(in srgb,var(--fol) 20%,transparent) 6px 12px)}
+.today{position:absolute;top:-5px;bottom:-5px;width:2px;background:var(--now);border-radius:1px}
+@media (max-width:560px){.calg{grid-template-columns:minmax(0,1fr);gap:4px}.calg>span:first-child{display:none}.trk{margin-bottom:8px}}
 .calk{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.75rem;color:var(--muted);margin-top:14px}
 .calk i{display:inline-block;width:18px;height:8px;border-radius:3px;vertical-align:middle;margin-right:5px;background:var(--acc)}
-.calk i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 4px,color-mix(in srgb,var(--acc) 22%,transparent) 4px 8px)}
+.calk i.f{background:repeating-linear-gradient(45deg,color-mix(in srgb,var(--acc) 45%,transparent) 0 4px,color-mix(in srgb,var(--acc) 20%,transparent) 4px 8px)}
 .calk i.n{width:2px;height:12px;background:var(--now)}
 /* Schéma */
 .design{overflow-x:auto;padding:4px 0}
-.dz{display:grid;grid-template-columns:auto 24px auto 24px minmax(200px,1fr) 24px minmax(130px,auto);align-items:center;min-width:600px;font-size:.84rem}
-.dz.nr{grid-template-columns:auto 24px minmax(200px,1fr) 24px minmax(130px,auto)}
-.box{background:var(--soft);border-radius:16px;padding:9px 12px;text-align:center}
-.box b{display:block}
+.dzg{display:grid;grid-template-columns:auto 24px auto 24px minmax(200px,1fr) 24px minmax(140px,auto);align-items:center;min-width:620px;font-size:.84rem}
+.dzg.nr{grid-template-columns:auto 24px minmax(200px,1fr) 24px minmax(140px,auto)}
+.box{background:var(--soft);border-radius:10px;padding:9px 12px;text-align:center}
+.box b,.arm b,.end b{display:block}
 .ar{height:2px;background:var(--muted);position:relative}
 .ar::after{content:"";position:absolute;right:-1px;top:-4px;border:5px solid transparent;border-left-color:var(--muted)}
-.rz{display:inline-grid;place-items:center;width:42px;height:42px;border-radius:50%;background:var(--fg);color:var(--bg);font-weight:600}
-.arms{display:flex;flex-direction:column;gap:8px}
-.arm{--ac:var(--acc);border-radius:16px;padding:9px 12px;background:color-mix(in srgb,var(--ac) 14%,transparent)}
+.rz{display:inline-grid;place-items:center;width:40px;height:40px;border-radius:50%;background:var(--fg);color:var(--bg);font-weight:700}
+.arms{display:flex;flex-direction:column;gap:6px}
+.arm{--ac:var(--acc);border-radius:10px;padding:8px 12px;background:color-mix(in srgb,var(--ac) 12%,transparent);border-left:3px solid var(--ac)}
 .arm:nth-child(2){--ac:var(--now)}.arm:nth-child(3){--ac:var(--fol)}.arm:nth-child(4){--ac:var(--warn)}
-.arm b{display:block}
-.end{border:1.5px solid var(--acc);border-radius:16px;padding:9px 12px;text-align:center}
-.end b{display:block;color:var(--ink)}
-.dmeta{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.82rem;color:var(--muted);margin-top:12px}
+.end{border:1.5px solid var(--acc);border-radius:10px;padding:9px 12px;text-align:center}
+.end b{color:var(--acc)}
+.dmeta{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:.84rem;color:var(--muted);margin-top:12px}
 /* Colonne latérale */
-.side dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:7px 12px;font-size:.87rem}
+.side dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:7px 12px;font-size:.86rem}
 .side dt{color:var(--muted)}
 .side dd{margin:0;font-weight:500;min-width:0;overflow-wrap:anywhere}
 .cities{display:flex;flex-wrap:wrap;gap:4px}
-.cities span{font-size:.78rem;padding:2px 10px;border-radius:999px;background:var(--chip)}
-.btn{display:block;text-align:center;padding:10px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font-weight:500;font-size:.88rem;margin-top:12px;text-decoration:none}
-.btn.sec{background:var(--chip);color:var(--fg)}
-/* À propos */
-.guide{max-width:70ch;padding-top:12px}
-.guide h1{font-size:1.6rem;margin:8px 0 10px}
-.guide h2{font-size:1.05rem;margin:26px 0 6px}
+.cities span{font-size:.78rem;padding:2px 9px;border-radius:999px;background:var(--soft)}
+.acts{display:flex;gap:8px;margin-bottom:12px}
+.btn{flex:1;text-align:center;padding:9px 12px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--fg);font-weight:500;font-size:.86rem;text-decoration:none;cursor:pointer}
+.btn:hover{border-color:var(--acc)}
+.btn[aria-pressed=true]{background:var(--accb);border-color:var(--acc);color:var(--acc)}
+.btn.full{display:block;margin-top:12px}
+.side dl.gl,.gl{display:block;margin:0;font-size:.84rem}
+.gl dt{font-weight:600;margin-top:10px}
+.gl dt:first-child{margin-top:0}
+.gl dd{margin:2px 0 0;color:var(--muted)}
+/* Repères */
+.guide{max-width:74ch}
+.guide h2{font-size:1.08rem;font-weight:600;margin:30px 0 8px}
+.guide p,.guide li{color:var(--fg)}
 .guide ul{padding-left:20px}
 .guide li{margin:6px 0}
-footer{margin-top:56px;color:var(--muted);font-size:.8rem;line-height:1.6}
+.guide .gl{font-size:.93rem}
+.guide .gl dt{margin-top:14px}
+footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:.8rem;line-height:1.6}
 footer a{color:var(--muted)}
-@media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header class="top">
-    <a class="brand" href="#" id="homeLink"><span class="leaf" aria-hidden="true">S</span>STUDYprogress</a>
-    <nav class="nav" role="tablist" id="tabs">
-      <button role="tab" data-tab="home" aria-selected="true">Actualité</button>
-      <button role="tab" data-tab="etudes" aria-selected="false">Toutes les études</button>
-      <button role="tab" data-tab="maladies" aria-selected="false">Par maladie</button>
-      <button role="tab" data-tab="apropos" aria-selected="false">À propos</button>
-    </nav>
-    <div class="search"><input id="q" type="search" placeholder="Maladie, molécule, acronyme, promoteur…" autocomplete="off" aria-label="Rechercher une étude"></div>
-  </header>
+<header class="top"><div class="wrap bar">
+  <a class="brand" href="#/"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="var(--acc)"/><path d="M7 21h4l3-10 4 14 3-8h4" fill="none" stroke="var(--bg)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>STUDYprogress</a>
+  <nav class="nav" id="tabs" aria-label="Navigation principale">
+    <a href="#/" data-tab="home">Accueil</a>
+    <a href="#/etudes" data-tab="etudes">Études</a>
+    <a href="#/maladies" data-tab="maladies">Maladies</a>
+    <a href="#/etudes?st=res&so=fin" data-tab="res">Résultats</a>
+    <a href="#/reperes" data-tab="reperes">Repères</a>
+  </nav>
+  <a class="favlink" href="#/etudes?fav=1" title="Mes études suivies"><i>★</i><span id="favN">0</span><span class="sr"> suivies</span></a>
+</div></header>
 
-  <main id="vHome">
-    <section class="hero">
-      <h1>L'actualité des études en médecine interne.</h1>
-      <p>Nouvelles études, études en cours et études terminées, présentées simplement, avec un accent sur la recherche française.</p>
-      <form class="hsearch" id="hform"><input id="hq" type="search" placeholder="Maladie, molécule, acronyme…" autocomplete="off" aria-label="Rechercher une étude"><button type="submit">Chercher</button></form>
-      <div class="chips" id="quick"></div>
-      <div class="stats" id="stats"></div>
-    </section>
-    <section class="sec">
-      <div class="sech"><h2><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>Nouvelles études françaises</h2><button class="link" data-go="new">Tout voir →</button><p>Études à promotion française qui viennent de démarrer ou vont démarrer.</p></div>
-      <div class="grid" id="hNew"></div>
-    </section>
-    <section class="sec">
-      <div class="sech"><h2>Études françaises en cours</h2><button class="link" data-go="run">Tout voir →</button><p>Inclusions en cours ou suivi des patients, les plus récemment lancées d'abord.</p></div>
-      <div class="grid" id="hRun"></div>
-    </section>
-    <section class="sec">
-      <div class="sech"><h2>Récemment terminées</h2><button class="link" data-go="done">Tout voir →</button><p>Fin du recueil depuis moins d'un an. Les études françaises et celles avec résultats publiés d'abord.</p></div>
-      <div class="grid" id="hDone"></div>
-    </section>
-    <section class="sec" id="chgSec">
-      <div class="sech"><h2>Changements de statut</h2><p>Ouvertures, fins d'inclusion et arrêts des 30 derniers jours.</p></div>
-      <div class="grid" id="hChg"></div>
-    </section>
-  </main>
+<main class="wrap">
+  <div id="vHome"></div>
 
-  <main id="vList" hidden>
-    <div class="cats" id="cats"></div>
-    <div class="filters">
-      <select id="fStatus" aria-label="Avancement"><option value="all">Tous les stades</option><option value="soon">Nouvelles (pas encore ouvertes)</option><option value="run">En cours</option><option value="rec">En cours : inclusions</option><option value="fol">En cours : suivi</option><option value="done">Terminées ou arrêtées</option></select>
-      <select id="fOrig" aria-label="Origine"><option value="all">Toutes origines</option><option value="promo">Promotion française</option><option value="fr">Avec centres en France</option></select>
-      <select id="fType" aria-label="Type"><option value="all">Tous types</option><option value="INTERVENTIONAL">Essais thérapeutiques</option><option value="OBSERVATIONAL">Observationnelles, cohortes</option></select>
-      <select id="fPhase" aria-label="Phase"><option value="all">Toutes phases</option><option>Phase 1</option><option>Phase 2</option><option>Phase 3</option><option>Phase 4</option></select>
-      <select id="fSort" aria-label="Tri"><option value="fr">Françaises d'abord</option><option value="new">Plus récentes</option><option value="end">Fin prévue la plus proche</option></select>
+  <div id="vList" hidden>
+    <h1 class="pt" id="listTitle">Toutes les études</h1>
+    <div class="fbar">
+      <input id="q" type="search" placeholder="Maladie, molécule, acronyme, promoteur, ville…" autocomplete="off" aria-label="Rechercher une étude">
+      <select id="fDis" aria-label="Maladie"></select>
+      <select id="fSt" aria-label="Avancement"><option value="">Tous les stades</option><option value="act">À venir ou en cours</option><option value="soon">À venir (pas encore ouvertes)</option><option value="rec">Inclusions en cours</option><option value="fol">Suivi (inclusions closes)</option><option value="done">Terminées ou arrêtées</option><option value="res">Avec résultats</option><option value="new">Nouvelles sur le site (30 j)</option><option value="chg">Statut modifié (30 j)</option></select>
+      <select id="fTy" aria-label="Type d'étude"><option value="">Tous types</option><option value="int">Essais interventionnels</option><option value="p1">Phase 1</option><option value="p2">Phase 2</option><option value="p3">Phase 3</option><option value="p4">Phase 4</option><option value="rnd">Essais randomisés</option><option value="obs">Observationnelles, cohortes</option></select>
+      <select id="fOr" aria-label="Origine"><option value="">Toutes origines</option><option value="promo">Promotion française</option><option value="fr">Avec centres en France</option></select>
+      <select id="fVille" aria-label="Ville"></select>
+      <select id="fSp" aria-label="Promoteur"><option value="">Tous promoteurs</option><option value="acad">Académique</option><option value="ind">Industriel</option></select>
+      <select id="fSo" aria-label="Tri"><option value="">Tri : pertinence</option><option value="new">Début le plus récent</option><option value="end">Fin prévue la plus proche</option><option value="fin">Terminées récemment</option><option value="seen">Ajout récent sur le site</option></select>
+      <label class="chk"><input type="checkbox" id="fFi">Fiche en français</label>
+      <label class="chk"><input type="checkbox" id="fFav">★ Suivies</label>
     </div>
-    <div class="count"><span id="count"></span><span id="disF"></span></div>
-    <div class="grid" id="list"></div>
-    <p id="empty" hidden>Aucune étude ne correspond. Essayez « Tous les stades » ou une autre recherche.</p>
+    <div class="count"><span id="count"></span><button class="link" id="fReset" hidden>Réinitialiser les filtres</button></div>
+    <div class="tbl"><div class="thead"><span>Étude</span><span>Maladie</span><span>Type</span><span>Avancement</span><span style="text-align:right">Patients</span><span>Fin prévue</span><span></span></div><div id="list"></div></div>
     <button class="more" id="moreList" hidden>Afficher plus</button>
-  </main>
+  </div>
 
-  <main id="vDis" hidden></main>
-  <main id="vStudy" hidden></main>
+  <div id="vDis" hidden></div>
+  <div id="vStudy" hidden></div>
 
-  <main id="vAbout" hidden class="guide">
-    <h1>À propos</h1>
-    <p>STUDYprogress informe les médecins sur la recherche clinique en médecine interne : quelles études démarrent, lesquelles sont en cours et lesquelles se terminent, avec un accent sur les études françaises. Le site présente chaque étude de façon lisible : son contexte, son intérêt, son schéma et son calendrier.</p>
-    <h2>Les repères</h2>
+  <div id="vAbout" hidden class="guide">
+    <h1 class="pt">Repères</h1>
+    <p>STUDYprogress suit la recherche clinique en médecine interne : ce qui démarre, ce qui est en cours, ce qui se termine. Chaque étude est résumée pour être comprise en une minute : la question posée, le schéma, l'intérêt pour la pratique. Le site informe sur la recherche ; il ne sert pas à orienter des patients.</p>
+    <h2>Lire une ligne d'étude</h2>
     <ul>
-      <li><span class="tag frt"><span class="flag"><i></i><i></i><i></i></span>Promotion française</span> promoteur ou coordination française (CHU, AP-HP, Inserm, groupes coopérateurs…). <span class="tag frl">Centres en France</span> étude étrangère avec au moins un centre français.</li>
-      <li><span class="tag t-soon">Bientôt</span> pas encore ouverte · <span class="tag t-rec">Inclusions</span> recrute · <span class="tag t-fol">Suivi</span> inclusions closes, patients suivis · <span class="tag">Terminée</span> · <span class="tag t-res">Résultats</span> résultats publiés · <span class="tag t-stop">Arrêtée</span></li>
-      <li><span class="tag t-new">Nouveau</span> apparue sur le site ou statut modifié depuis moins de 30 jours.</li>
+      <li><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span> <b>Promotion française</b> : promoteur ou coordination française (CHU, AP-HP, Inserm, groupes coopérateurs…). <span class="badge b-fr">3 centres FR</span> : étude étrangère avec des centres en France.</li>
+      <li><span class="st st-soon">À venir</span> pas encore ouverte · <span class="st st-rec">Inclusions</span> recrute · <span class="st st-fol">Suivi</span> inclusions closes, patients suivis · <span class="st">Terminée</span> · <span class="st st-res">Résultats</span> résultats déposés ou publiés · <span class="st st-stop">Arrêtée</span> interrompue avant son terme.</li>
+      <li><span class="badge b-new">Nouveau</span> apparue sur le site ou statut modifié depuis moins de 30 jours. <span class="badge b-en">EN</span> fiche en français pas encore rédigée : le texte vient du registre, en anglais.</li>
+      <li><b>★</b> suit une étude : elle est gardée dans ce navigateur et remonte sur l'accueil.</li>
     </ul>
-    <h2>Le calendrier</h2>
-    <p>Chaque étude a une frise : période d'inclusions et de traitement jusqu'au recueil du critère principal, puis période de suivi, avec un trait orange pour aujourd'hui. Les hachures signalent les dates prévues, pas encore atteintes.</p>
+    <h2>Lire une frise</h2>
+    <p>Chaque fiche a un calendrier : la période d'inclusions et de traitement jusqu'au recueil du critère principal, puis le suivi, avec un trait orange pour aujourd'hui. Les hachures signalent les dates prévues, pas encore atteintes.</p>
+    <h2>Lexique de la recherche clinique</h2>
+    <dl class="gl" id="gloss"></dl>
     <h2>Sources et limites</h2>
-    <p>Les données viennent de ClinicalTrials.gov et sont mises à jour chaque lundi. Les études terminées restent visibles deux ans. Les fiches en français (contexte, intérêt, schéma) sont rédigées automatiquement par une IA (Claude) à partir du registre : elles peuvent contenir des erreurs, le registre fait foi. Le site est un outil d'information ; il ne remplace pas le contact avec les équipes investigatrices.</p>
-  </main>
+    <p>Les données viennent de <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a> et sont mises à jour chaque lundi. Les études terminées restent visibles deux ans. Les villes sont celles déclarées au registre ; les communes hospitalières voisines sont rattachées à leur CHU (Créteil ou Bobigny à Paris, Pessac à Bordeaux, Bron à Lyon…).</p>
+    <p>Les fiches en français sont rédigées automatiquement par une IA (Claude) à partir du registre : elles peuvent contenir des erreurs, le registre fait foi. Les études étrangères n'ont pas toutes une fiche ; elles sont rédigées par ordre de priorité, études françaises d'abord.</p>
+  </div>
+</main>
+<footer><div class="wrap">Données <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a>, mises à jour le <span id="upd"></span>. Fiches en français générées automatiquement, le registre fait foi. Site d'information destiné aux médecins.</div></footer>
 
-  <footer>Données <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a>, mises à jour le <span id="upd"></span>. Fiches en français générées automatiquement, le registre fait foi.</footer>
-</div>
 <script>
 const $ = id => document.getElementById(id);
 const norm = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
-const FLAG = `<span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>`;
+const FLAG = `<span class="flag" role="img" aria-label="Promotion française" title="Promotion française"><i></i><i></i><i></i></span>`;
 const ST = {
-  NOT_YET_RECRUITING: ["Bientôt", "t-soon"], RECRUITING: ["Inclusions", "t-rec"], ENROLLING_BY_INVITATION: ["Inclusions", "t-rec"],
-  ACTIVE_NOT_RECRUITING: ["Suivi", "t-fol"], COMPLETED: ["Terminée", ""], TERMINATED: ["Arrêtée", "t-stop"]
+  NOT_YET_RECRUITING: ["À venir", "soon"], RECRUITING: ["Inclusions", "rec"], ENROLLING_BY_INVITATION: ["Inclusions", "rec"],
+  ACTIVE_NOT_RECRUITING: ["Suivi", "fol"], COMPLETED: ["Terminée", "done"], TERMINATED: ["Arrêtée", "stop"]
 };
-const GROUP = { soon: ["NOT_YET_RECRUITING"], rec: ["RECRUITING", "ENROLLING_BY_INVITATION"], fol: ["ACTIVE_NOT_RECRUITING"], done: ["COMPLETED", "TERMINATED"] };
-GROUP.run = [...GROUP.rec, ...GROUP.fol];
 const MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
-const fdate = d => d ? `${MOIS[+d.slice(5, 7) - 1]} ${d.slice(0, 4)}` : "non précisée";
+const fdate = d => d ? `${MOIS[+d.slice(5, 7) - 1]} ${d.slice(0, 4)}` : "";
+const fday = d => new Date(d).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
 const age = a => a ? a.replace(/Years?/, "ans").replace(/Months?/, "mois").replace(/Weeks?/, "semaines").replace(/Days?/, "jours") : "—";
 const ms = d => new Date(d.length === 7 ? d + "-15" : d).getTime();
 const days = (a, b) => (ms(b) - ms(a)) / 864e5;
-let DATA, DIS = {}, CATS = [], updated = "";
+const plur = (n, w) => `${n.toLocaleString("fr-FR")} ${w}${n > 1 ? "s" : ""}`;
+const store = (k, v) => { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch { return null; } };
+
+let DATA = [], DIS = {}, CATS = [], updated = "";
 let favs = new Set();
-try { favs = new Set(JSON.parse(localStorage.getItem("sp-favs") || "[]")); } catch {}
-const saveFavs = () => { try { localStorage.setItem("sp-favs", JSON.stringify([...favs])); } catch {} };
+try { favs = new Set(JSON.parse(store("sp-favs") || "[]")); } catch {}
 
-const stTag = s => s.status === "COMPLETED" && s.res ? `<span class="tag t-res">Résultats</span>` : (([l, c]) => `<span class="tag ${c}">${l}</span>`)(ST[s.status] || [s.status, ""]);
-const frTag = s => s.fr === "promo" ? `<span class="tag frt">${FLAG}Promotion française</span>` : s.fr ? `<span class="tag frl">${s.frN} centre${s.frN > 1 ? "s" : ""} en France</span>` : "";
 const recent = d => d && days(d, updated) <= 30;
-const typeTxt = s => s.type === "OBSERVATIONAL" ? "Observationnelle" : s.phase || (s.type === "INTERVENTIONAL" ? "Interventionnelle" : "");
+const isNew = s => recent(s.seen) || recent(s.chg);
+const stOf = s => s.status === "COMPLETED" && s.res ? ["Résultats", "res"] : ST[s.status] || [s.status, ""];
+const stTag = s => { const [l, c] = stOf(s); return `<span class="st st-${c}">${l}</span>`; };
+const typeTxt = s => s.type === "OBSERVATIONAL" ? "Observationnelle" : s.phase.replace(/Phase (\d)\/Phase (\d)/, "Phase $1/$2") || "Essai";
+const phaseN = s => Math.max(0, ...(s.phase.match(/\d/g) || []).map(Number));
+const frRank = s => s.fr === "promo" ? 0 : s.fr ? 1 : 2;
+const rank = (a, b) => frRank(a) - frRank(b) || !!b.q - !!a.q || (b.start || "").localeCompare(a.start || "");
+const disNames = s => { const a = s.dis.map(d => DIS[d]?.fr).filter(Boolean); return a.slice(0, 2).join(", ") + (a.length > 2 ? ` +${a.length - 2}` : ""); };
 
-// Mini-calendrier d'une carte : début → fin du recueil principal, trait orange = aujourd'hui.
-function mini(s) {
-  if (!s.start || !s.pcd || s.pcd <= s.start) return "";
-  const a = ms(s.start), b = ms(s.pcd), t = ms(updated), lo = Math.min(a, t), hi = Math.max(b, t), W = hi - lo || 1;
-  const x = v => ((v - lo) / W * 100).toFixed(1), done = Math.min(Math.max(t, a), b);
-  return `<div><div class="mini"><i style="left:${x(a)}%;width:${x(done) - x(a)}%"></i><i class="f" style="left:${x(done)}%;width:${x(b) - x(done)}%"></i><s style="left:${x(t)}%"></s></div><div class="minil"><span>${fdate(s.start)}</span><span>${fdate(s.pcd)}</span></div></div>`;
-}
-function card(s) {
+// Filtres : chaque clé d'URL correspond à un contrôle de la liste.
+const CTRL = { q: "q", dis: "fDis", st: "fSt", ty: "fTy", or: "fOr", v: "fVille", sp: "fSp", so: "fSo", fi: "fFi", fav: "fFav" };
+const IN = (...a) => s => a.includes(s.status);
+const STF = {
+  soon: IN("NOT_YET_RECRUITING"), rec: IN("RECRUITING", "ENROLLING_BY_INVITATION"), fol: IN("ACTIVE_NOT_RECRUITING"),
+  act: IN("NOT_YET_RECRUITING", "RECRUITING", "ENROLLING_BY_INVITATION", "ACTIVE_NOT_RECRUITING"),
+  run: IN("RECRUITING", "ENROLLING_BY_INVITATION", "ACTIVE_NOT_RECRUITING"),
+  done: IN("COMPLETED", "TERMINATED"), res: s => s.res && STF.done(s), new: s => recent(s.seen), chg: s => recent(s.chg)
+};
+const TYF = { int: s => s.type === "INTERVENTIONAL", obs: s => s.type === "OBSERVATIONAL", rnd: s => !!s.rnd, p1: s => s.phase.includes("1"), p2: s => s.phase.includes("2"), p3: s => s.phase.includes("3"), p4: s => s.phase.includes("4") };
+const SORT = {
+  "": rank, new: (a, b) => (b.start || "").localeCompare(a.start || ""), end: (a, b) => (a.pcd || "9999").localeCompare(b.pcd || "9999"),
+  fin: (a, b) => (b.pcd || "").localeCompare(a.pcd || ""), seen: (a, b) => (b.seen || "").localeCompare(a.seen || "") || rank(a, b)
+};
+const href = (path, o = {}) => { const q = new URLSearchParams(Object.entries(o).filter(([, v]) => v)).toString(); return "#/" + path + (q ? "?" + q : ""); };
+const apply = (list, f) => {
+  const terms = norm(f.q).split(/\s+/).filter(Boolean);
+  return list.filter(s =>
+    (!f.dis || (f.dis.startsWith("c:") ? s.dis.some(d => DIS[d].cat === f.dis.slice(2)) : s.dis.includes(f.dis))) &&
+    (!f.st || !STF[f.st] || STF[f.st](s)) && (!f.ty || !TYF[f.ty] || TYF[f.ty](s)) &&
+    (!f.or || (f.or === "promo" ? s.fr === "promo" : !!s.fr)) && (!f.v || s.v.includes(f.v)) &&
+    (!f.sp || (s.sClass === "INDUSTRY") === (f.sp === "ind")) && (!f.fi || s.q) && (!f.fav || favs.has(s.id)) &&
+    terms.every(t => s._txt.includes(t)));
+};
+
+// ——— Ligne d'étude ———
+function row(s) {
   const on = favs.has(s.id);
-  return `<article class="card${s.fr === "promo" ? " frc" : ""}">
-    <button class="fav" data-f="${s.id}" aria-pressed="${on}" aria-label="Suivre cette étude" title="Suivre">${on ? "★" : "☆"}</button>
-    <div class="hd">${frTag(s)}${stTag(s)}${typeTxt(s) ? `<span class="tag">${typeTxt(s)}</span>` : ""}${recent(s.chg) || recent(s.seen) ? `<span class="tag t-new">Nouveau</span>` : ""}</div>
-    <div class="ac"><a href="#${s.id}">${esc(s.acr || s.id)}</a></div>
-    <div class="ti">${esc(s.t)}</div>
-    ${s.q ? `<div class="why">${esc(s.q)}</div>` : ""}
-    ${mini(s)}
-    <div class="ft"><span>${esc(s.dis.map(d => DIS[d]?.fr).join(", "))}</span>${s.n ? `<span>${s.n} patients</span>` : ""}<span>${esc(s.sponsor)}</span></div>
-  </article>`;
+  return `<div class="row">
+    <div><div class="r-h">${s.fr === "promo" ? FLAG : ""}<span class="r-ac"><a href="#/${s.id}">${esc(s.acr || s.id)}</a></span>${s.fr === "centres" ? `<span class="badge b-fr">${s.frN} centre${s.frN > 1 ? "s" : ""} FR</span>` : ""}${isNew(s) ? `<span class="badge b-new">Nouveau</span>` : ""}${s.q ? "" : `<span class="badge b-en" title="Fiche en français pas encore rédigée">EN</span>`}</div>
+      <div class="r-t${s.q ? " q" : ""}"${s.q ? "" : ` lang="en"`}>${esc(s.q || s.t)}</div></div>
+    <button class="fav" data-f="${s.id}" aria-pressed="${on}" aria-label="Suivre ${esc(s.acr || s.id)}" title="Suivre cette étude">${on ? "★" : "☆"}</button>
+    <div class="r-meta"><span>${esc(disNames(s))}</span><span>${esc(typeTxt(s))}</span>${stTag(s)}<span class="r-n">${s.n ?? ""}</span><span class="r-end">${fdate(s.pcd) || "—"}</span></div>
+  </div>`;
+}
+// Sur grand écran, l'étoile est la dernière colonne : on la replace après les métadonnées.
+const rows = a => a.map(row).join("").replace(/(<button class="fav"[^]*?<\/button>)\s*(<div class="r-meta">[^]*?<\/div>)(?=\s*<\/div>)/g, "$2$1");
+const panel = (title, list, all, sub = "", max = 5) => !list.length ? "" : `<section class="panel"><div class="ph"><h2>${title} <span class="n">${list.length}</span></h2>${list.length > max && all ? `<a class="all" href="${all}">Tout voir →</a>` : ""}${sub ? `<p>${sub}</p>` : ""}</div><div class="tbl">${rows(list.slice(0, max))}</div></section>`;
+
+// ——— Accueil ———
+function cities(min = 2) {
+  const c = {}; for (const s of DATA) for (const v of s.v) c[v] = (c[v] || 0) + 1;
+  return Object.keys(c).filter(v => c[v] >= min).sort((a, b) => a.localeCompare(b, "fr"));
+}
+function disGrid() {
+  return CATS.map(c => `<h3 class="cat">${esc(c)}</h3><div class="dgrid">${Object.values(DIS).filter(d => d.cat === c).map(d => {
+    const a = DATA.filter(s => s.dis.includes(d.id)), act = a.filter(STF.act).length, f = a.filter(s => s.fr === "promo").length;
+    return `<a class="dz" href="#/maladie/${d.id}"><b>${esc(d.fr)}</b><span>${plur(act, "étude")} en cours${f ? ` · ${f} française${f > 1 ? "s" : ""}` : ""}</span></a>`;
+  }).join("")}</div>`).join("");
+}
+function renderHome() {
+  const n = k => DATA.filter(STF[k]).length, ville = store("sp-ville") || "";
+  const nw = DATA.filter(STF.new).sort(rank), ch = DATA.filter(s => recent(s.chg) && !recent(s.seen)).sort(rank);
+  const rs = DATA.filter(STF.res).sort((a, b) => (b.pub > 0) - (a.pub > 0) || SORT.fin(a, b));
+  const fv = DATA.filter(s => favs.has(s.id)).sort((a, b) => isNew(b) - isNew(a) || rank(a, b));
+  const local = ville ? DATA.filter(s => s.v.includes(ville) && (STF.rec(s) || STF.soon(s))).sort(rank) : [];
+  $("vHome").innerHTML = `<section class="hero">
+      <p class="eyebrow">Mise à jour du ${fday(updated)}</p>
+      <h1>La recherche clinique en médecine interne, lisible en une minute.</h1>
+      <p class="lead">Ce qui démarre, ce qui recrute dans votre ville, ce qui vient d'être publié : chaque étude résumée par sa question, son schéma et son intérêt pour la pratique.</p>
+      <form class="hsearch" id="hform"><input id="hq" type="search" placeholder="Lupus, rituximab, CAR-T, GFEV…" autocomplete="off" aria-label="Rechercher une étude"><button class="btnp" type="submit">Chercher</button></form>
+      <div class="kpis"><a href="${href("etudes", { st: "run" })}"><b>${n("run").toLocaleString("fr-FR")}</b>études en cours</a><a href="${href("etudes", { st: "soon" })}"><b>${n("soon")}</b>à venir</a><a href="${href("etudes", { or: "promo" })}"><b>${DATA.filter(s => s.fr === "promo").length}</b>à promotion française</a><a href="${href("etudes", { st: "res", so: "fin" })}"><b>${n("res")}</b>avec résultats</a></div>
+    </section>
+    ${panel("Mes études suivies", fv, href("etudes", { fav: 1 }), "", 6)}
+    ${panel("Nouvelles ce mois-ci", nw, href("etudes", { st: "new", so: "seen" }), "Études apparues au registre depuis moins de 30 jours, françaises d'abord.")}
+    ${panel("Changements de statut", ch, href("etudes", { st: "chg" }), "Ouvertures, fins d'inclusion, fins d'étude et arrêts des 30 derniers jours.")}
+    <section class="panel"><div class="ph"><h2><label for="ville">Ouvertes aux inclusions à</label></h2><select id="ville"><option value="">choisir une ville…</option>${cities().map(v => `<option${v === ville ? " selected" : ""}>${esc(v)}</option>`).join("")}</select>${local.length > 6 ? `<a class="all" href="${href("etudes", { v: ville, st: "rec" })}">Tout voir →</a>` : ""}</div>
+      ${!ville ? `<p class="hint">Choisissez votre ville d'internat : le site retient ce choix et affiche ici les études qui recrutent ou vont ouvrir dans ses centres.</p>` : local.length ? `<div class="tbl">${rows(local.slice(0, 6))}</div>` : `<p class="hint">Aucune étude ouverte déclarée dans cette ville pour le moment.</p>`}</section>
+    ${panel("Résultats récents", rs, href("etudes", { st: "res", so: "fin" }), "Études terminées dont les résultats sont déposés au registre ou publiés.")}
+    <section class="panel"><div class="ph"><h2>Explorer par maladie</h2><p>Pour chaque maladie : les molécules en développement par phase, les cohortes et les résultats.</p></div>${disGrid()}</section>`;
 }
 
 // ——— Liste ———
-let cat = "Toutes", dis = null, shown = 40;
-function filtered() {
-  const terms = norm($("q").value.trim()).split(/\s+/).filter(Boolean);
-  const st = $("fStatus").value, or = $("fOrig").value, ty = $("fType").value, ph = $("fPhase").value;
-  return DATA.filter(s =>
-    (cat === "Toutes" || (cat === "★ Suivies" ? favs.has(s.id) : s.dis.some(d => DIS[d].cat === cat))) &&
-    (!dis || s.dis.includes(dis)) &&
-    (st === "all" || GROUP[st].includes(s.status)) &&
-    (or === "all" || (or === "promo" ? s.fr === "promo" : !!s.fr)) &&
-    (ty === "all" || s.type === ty) &&
-    (ph === "all" || s.phase.includes(ph)) &&
-    terms.every(t => s._txt.includes(t)));
-}
-function sorted(a) {
-  const so = $("fSort").value, frr = s => s.fr === "promo" ? 0 : s.fr ? 1 : 2;
-  const by = so === "end" ? (x, y) => (x.pcd || "9999").localeCompare(y.pcd || "9999") : (x, y) => (y.start || "").localeCompare(x.start || "");
-  return a.sort(so === "fr" ? (x, y) => frr(x) - frr(y) || by(x, y) : by);
-}
+let shown = 50, lastQS = null;
+const getF = () => Object.fromEntries(Object.entries(CTRL).map(([k, id]) => [k, $(id).type === "checkbox" ? ($(id).checked ? "1" : "") : $(id).value.trim()]));
+function setF(q) { for (const [k, id] of Object.entries(CTRL)) { const e = $(id), v = q.get(k) || ""; if (e.type === "checkbox") e.checked = !!v; else { e.value = v; if (e.value !== v) e.value = ""; } } }
 function renderList() {
-  const r = sorted(filtered()), nfr = r.filter(s => s.fr === "promo").length;
-  $("count").textContent = `${r.length} étude${r.length > 1 ? "s" : ""}, dont ${nfr} à promotion française`;
-  $("disF").innerHTML = dis ? `<span class="disf">${esc(DIS[dis].fr)}<button id="clrDis" aria-label="Retirer le filtre maladie">×</button></span>` : "";
-  $("list").innerHTML = r.slice(0, shown).map(card).join("");
-  $("empty").hidden = r.length > 0;
+  const f = getF(), r = apply(DATA, f).sort(SORT[f.so] || rank), nfr = r.filter(s => s.fr === "promo").length;
+  const d = f.dis && (f.dis.startsWith("c:") ? f.dis.slice(2) : DIS[f.dis]?.fr);
+  const title = f.fav ? "Mes études suivies" : f.st === "res" ? "Résultats" + (d ? ` · ${d}` : "") : d || (f.v ? `Études à ${f.v}` : "Toutes les études");
+  $("listTitle").textContent = title; document.title = `${title} · STUDYprogress`;
+  $("count").textContent = `${plur(r.length, "étude")}${nfr ? `, dont ${nfr} à promotion française` : ""}`;
+  $("fReset").hidden = !Object.entries(f).some(([k, v]) => v && k !== "so");
+  for (const id of Object.values(CTRL)) if ($(id).tagName === "SELECT") $(id).classList.toggle("on", !!$(id).value && id !== "fSo");
+  $("list").innerHTML = r.length ? rows(r.slice(0, shown)) : `<p class="empty">${f.fav ? "Aucune étude suivie pour l'instant : touchez l'étoile ☆ d'une étude pour la retrouver ici." : "Aucune étude ne correspond. Élargissez la recherche ou retirez un filtre."}</p>`;
   $("moreList").hidden = r.length <= shown;
   $("moreList").textContent = `Afficher plus (${r.length - shown} restantes)`;
 }
-function renderCats() {
-  $("cats").innerHTML = ["Toutes", ...CATS, "★ Suivies"].map(c => `<button aria-pressed="${c === cat}" data-c="${esc(c)}">${esc(c)}</button>`).join("");
+function onFilter() { shown = 50; const h = href("etudes", getF()); lastQS = h; history.replaceState(null, "", h); renderList(); tabs(); }
+
+// ——— Maladies ———
+function renderDisease(id) {
+  const d = DIS[id];
+  if (!d) { document.title = "Maladies · STUDYprogress"; $("vDis").innerHTML = `<h1 class="pt">Par maladie</h1><p style="color:var(--muted);margin:-6px 0 0">${Object.keys(DIS).length} maladies suivies. Chaque page montre les traitements en développement, phase par phase.</p>${disGrid()}`; return; }
+  document.title = `${d.fr} · STUDYprogress`;
+  const a = DATA.filter(s => s.dis.includes(id)), act = a.filter(STF.act), tr = act.filter(TYF.int);
+  const L = o => href("etudes", { dis: id, ...o });
+  const col = p => {
+    const l = tr.filter(s => phaseN(s) === p).sort((x, y) => frRank(x) - frRank(y) || !!y.iv.length - !!x.iv.length || SORT.new(x, y));
+    return `<div class="pcol"><h3>Phase ${p}<span>${l.length}</span></h3>${l.slice(0, 10).map(s => `<a class="pi" href="#/${s.id}"><b>${esc(s.iv.join(" + ") || s.acr || s.id)}</b><span>${s.fr === "promo" ? FLAG : ""}${s.iv.length ? esc(s.acr || s.id) + " · " : ""}${stOf(s)[0]}${s.n ? ` · ${s.n} pts` : ""}</span></a>`).join("") || `<span class="none">Aucun essai en cours.</span>`}${l.length > 5 ? `<a class="all${l.length > 10 ? "" : " mob"}" href="${L({ ty: "p" + p, st: "act" })}">Voir les ${l.length} essais →</a>` : ""}</div>`;
+  };
+  $("vDis").innerHTML = `<p class="crumb"><a href="#/maladies">Maladies</a> › ${esc(d.cat)}</p><h1 class="pt">${esc(d.fr)}</h1>
+    <div class="nums"><div class="num"><b>${act.length}</b><span>études à venir ou en cours</span></div><div class="num"><b>${tr.filter(s => phaseN(s) >= 3).length}</b><span>essais de phase 3 ou 4</span></div><div class="num"><b>${a.filter(s => s.fr === "promo").length}</b><span>à promotion française</span></div><div class="num"><b>${a.filter(STF.res).length}</b><span>avec résultats</span></div></div>
+    <section class="panel"><div class="ph"><h2>Traitements en développement</h2><a class="all" href="${L({ ty: "int", st: "act" })}">Tous les essais →</a><p>Essais à venir ou en cours, classés par phase : la molécule testée, puis l'acronyme et l'avancement.</p></div><div class="pipe">${[1, 2, 3, 4].map(col).join("")}</div></section>
+    ${panel("Stratégies, dispositifs et autres essais", tr.filter(s => !phaseN(s)).sort(rank), L({ ty: "int", st: "act" }), "Essais sans phase : stratégies thérapeutiques, rééducation, dispositifs, examens.")}
+    ${panel("Cohortes et études observationnelles", act.filter(TYF.obs).sort(rank), L({ ty: "obs", st: "act" }))}
+    ${panel("Terminées récemment", a.filter(STF.done).sort((x, y) => y.res - x.res || SORT.fin(x, y)), L({ st: "done", so: "fin" }), "Études avec résultats d'abord.")}
+    <p style="margin-top:26px"><a class="btnp" href="${L({})}">Voir les ${a.length} études · ${esc(d.fr)}</a></p>`;
 }
 
-// ——— Par maladie ———
-function renderDis() {
-  $("vDis").innerHTML = CATS.map(c => `<h2 class="mh">${esc(c)}</h2><div class="mtiles">${Object.values(DIS).filter(d => d.cat === c).map(d => {
-    const a = DATA.filter(s => s.dis.includes(d.id)), n = k => a.filter(s => GROUP[k].includes(s.status)).length, f = a.filter(s => s.fr === "promo").length;
-    return `<button class="mtile" data-d="${d.id}"><b>${esc(d.fr)}</b><span><span class="tag t-soon">${n("soon")} nouvelles</span><span class="tag t-rec">${n("run")} en cours</span><span class="tag">${n("done")} terminées</span>${f ? `<span class="tag frt">${FLAG}${f}</span>` : ""}</span></button>`;
-  }).join("")}</div>`).join("");
-}
-
-// ——— Actualité ———
-function renderHome() {
-  const y = new Date(updated); y.setFullYear(y.getFullYear() - 1);
-  const ys = y.toISOString().slice(0, 10), byStart = (a, b) => (b.start || "").localeCompare(a.start || "");
-  const fr = DATA.filter(s => s.fr === "promo");
-  const nw = fr.filter(s => GROUP.soon.includes(s.status) || GROUP.rec.includes(s.status) && s.start >= ys || recent(s.seen)).sort((a, b) => Math.abs(days(a.start || "2100-01", updated)) - Math.abs(days(b.start || "2100-01", updated)));
-  const run = fr.filter(s => GROUP.run.includes(s.status) && !nw.includes(s)).sort(byStart);
-  const done = DATA.filter(s => GROUP.done.includes(s.status) && s.pcd >= ys).sort((a, b) => (a.fr === "promo" ? 0 : a.fr ? 1 : 2) - (b.fr === "promo" ? 0 : b.fr ? 1 : 2) || b.res - a.res || (b.pcd || "").localeCompare(a.pcd || ""));
-  $("hNew").innerHTML = nw.slice(0, 6).map(card).join("");
-  $("hRun").innerHTML = run.slice(0, 6).map(card).join("");
-  $("hDone").innerHTML = done.slice(0, 6).map(card).join("");
-  const ch = DATA.filter(s => recent(s.chg)).sort((a, b) => (a.fr ? 0 : 1) - (b.fr ? 0 : 1));
-  $("chgSec").hidden = !ch.length;
-  $("hChg").innerHTML = ch.slice(0, 6).map(card).join("");
-  const c = k => DATA.filter(s => GROUP[k].includes(s.status));
-  $("stats").innerHTML = [[c("soon").length, "nouvelles études annoncées"], [c("run").length, "études en cours"], [c("done").length, "terminées depuis 2 ans"], [fr.length, "à promotion française", "frs"]]
-    .map(([n, l, k]) => `<div class="stat ${k || ""}"><b>${n.toLocaleString("fr-FR")}</b><span>${l}</span></div>`).join("");
-  $("quick").innerHTML = CATS.map(c => `<button data-c="${esc(c)}">${esc(c)}</button>`).join("");
+// ——— Lexique ———
+const G = {
+  p1: ["Phase 1", "Première administration chez l'humain, sur un petit effectif : tolérance, pharmacocinétique, recherche de dose."],
+  p2: ["Phase 2", "Quelques dizaines à quelques centaines de patients : premiers signaux d'efficacité, choix de la dose, tolérance à court terme."],
+  p3: ["Phase 3", "Essai comparatif de grande taille, le plus souvent randomisé, contre placebo ou traitement de référence. C'est lui qui fonde l'AMM et les recommandations."],
+  p4: ["Phase 4", "Après la mise sur le marché : tolérance à long terme et efficacité en conditions réelles de prescription."],
+  rnd: ["Randomisation", "Le traitement est attribué par tirage au sort. Les groupes sont ainsi comparables, y compris sur les facteurs non mesurés : c'est le schéma qui permet de conclure à un lien de causalité."],
+  dbl: ["Double aveugle", "Ni le patient ni l'investigateur ne savent quel traitement est reçu. Cela limite les biais de suivi et d'évaluation, surtout quand le critère est subjectif."],
+  open: ["Essai ouvert", "Patient et médecin connaissent le traitement reçu. Acceptable si le critère est objectif (décès, biologie), plus fragile s'il repose sur un score clinique ou un ressenti."],
+  placebo: ["Placebo", "Produit sans principe actif, d'apparence identique au traitement testé. Il mesure l'effet propre de la molécule, au-delà de l'évolution naturelle et de l'effet de la prise en charge."],
+  noninf: ["Non-infériorité", "L'essai cherche à montrer que le nouveau traitement n'est pas moins efficace que la référence, au-delà d'une marge fixée à l'avance. Utile quand il apporte un autre avantage (tolérance, simplicité, coût). La marge choisie est le premier point à critiquer."],
+  cross: ["Essai croisé (cross-over)", "Chaque patient reçoit successivement les traitements comparés et sert de son propre témoin. Adapté aux maladies chroniques stables, avec une période de sevrage entre les séquences."],
+  single: ["Essai à un seul bras", "Tous les patients reçoivent le traitement, sans groupe contrôle. Fréquent en phase précoce et dans les maladies rares ; la comparaison se fait avec des données historiques, ce qui limite la portée des conclusions."],
+  primary: ["Critère de jugement principal", "Le critère sur lequel le nombre de sujets a été calculé : c'est le seul qui permet de conclure. Les critères secondaires sont exploratoires."],
+  composite: ["Critère composite", "Regroupe plusieurs événements (par exemple rechute ou décès) pour gagner en puissance. Vérifier que chaque composante évolue dans le même sens."],
+  surrogate: ["Critère intermédiaire", "Un marqueur biologique ou un score remplace l'événement clinique. Il permet des essais plus courts, mais ne garantit pas un bénéfice pour le patient."],
+  itt: ["Intention de traiter", "Chaque patient est analysé dans le groupe où il a été tiré au sort, quel que soit le traitement réellement reçu. C'est l'analyse qui préserve le bénéfice de la randomisation."],
+  cohort: ["Cohorte", "Un groupe de patients est suivi dans le temps. Elle décrit l'histoire naturelle et les facteurs pronostiques ; elle montre des associations, pas une causalité."],
+  cc: ["Étude cas-témoins", "Compare des malades et des non-malades sur leurs expositions passées. Adaptée aux maladies rares, exposée aux biais de sélection et de mémorisation."],
+  registry: ["Registre", "Recueil prospectif et systématique des patients atteints d'une maladie, sans intervention imposée. Outil de référence dans les maladies rares."],
+  sponsor: ["Promoteur", "La personne morale responsable de l'étude : financement, assurance, obligations réglementaires. Il est académique (CHU, AP-HP, groupe coopérateur) ou industriel. L'investigateur coordonnateur en porte la direction scientifique."]
+};
+const gl = keys => keys.map(k => `<dt>${G[k][0]}</dt><dd>${G[k][1]}</dd>`).join("");
+function glossFor(s) {
+  const txt = norm([s.title, s.off, s.summary, s.x?.question, s.x?.critere].join(" ")), k = [];
+  for (const p of [1, 2, 3, 4]) if (s.phase.includes(p)) k.push("p" + p);
+  if (s.alloc === "RANDOMIZED") k.push("rnd");
+  if (/DOUBLE|TRIPLE|QUADRUPLE/.test(s.mask)) k.push("dbl"); else if (s.mask === "NONE" && s.type === "INTERVENTIONAL") k.push("open");
+  if (/placebo/.test(norm(JSON.stringify(s.arms)) + txt)) k.push("placebo");
+  if (/non.?inferior/.test(txt)) k.push("noninf");
+  if (s.model === "CROSSOVER") k.push("cross");
+  if (s.model === "SINGLE_GROUP") k.push("single");
+  if (s.model === "COHORT") k.push("cohort");
+  if (s.model === "CASE_CONTROL") k.push("cc");
+  if (/regist(ry|re)/.test(txt)) k.push("registry");
+  if (/composite/.test(txt)) k.push("composite");
+  return k.slice(0, 5);
 }
 
 // ——— Fiche étude ———
@@ -362,7 +473,7 @@ const STEPS = ["Annoncée", "Inclusions", "Suivi", "Terminée", "Résultats"];
 const stepOf = s => ({ NOT_YET_RECRUITING: 0, RECRUITING: 1, ENROLLING_BY_INVITATION: 1, ACTIVE_NOT_RECRUITING: 2, COMPLETED: s.hasResults || s.pubs.length ? 4 : 3, TERMINATED: 3 })[s.status] ?? 1;
 const paras = t => esc(t).split(/\n\s*\n/).map(p => `<p>${p}</p>`).join("");
 const ALLOC = { RANDOMIZED: "randomisée", NON_RANDOMIZED: "non randomisée", NA: "" };
-const MASK = { NONE: "sans insu", SINGLE: "simple aveugle", DOUBLE: "double aveugle", TRIPLE: "triple aveugle", QUADRUPLE: "quadruple aveugle" };
+const MASK = { NONE: "en ouvert", SINGLE: "simple aveugle", DOUBLE: "double aveugle", TRIPLE: "triple aveugle", QUADRUPLE: "quadruple aveugle" };
 
 function calendar(s) {
   const k = stepOf(s), stopped = s.status === "TERMINATED";
@@ -376,120 +487,135 @@ function calendar(s) {
     const past = updated > a ? (updated < b ? updated : b) : a;
     return `<i class="${cls}" style="left:${x(a)}%;width:${x(past) - x(a)}%"></i><i class="${cls} f" style="left:${x(past)}%;width:${x(b) - x(past)}%"></i>`;
   };
-  const years = Array.from({ length: y1 - y0 + 1 }, (_, i) => y0 + i).slice(0, -1).filter((y, i, a) => a.length <= 8 || i % 2 === 0);
-  const row = (lab, html) => `<span>${lab}</span><div class="trk">${html}<span class="today" style="left:${t}%"></span></div>`;
+  const years = Array.from({ length: y1 - y0 + 1 }, (_, i) => y0 + i).slice(0, -1).filter((y, i, a) => a.length <= 8 || i % Math.ceil(a.length / 8) === 0);
+  const line = (lab, html) => `<span>${lab}</span><div class="trk">${html}<span class="today" style="left:${t}%"></span></div>`;
   return `${steps}<div class="cal"><div class="calg"><span></span><div class="yrs">${years.map(y => `<span style="left:${x(`${y}-01-01`)}%">${y}</span>`).join("")}</div>
-    ${row(`Inclusions et traitement<br><small style="color:var(--muted)">${fdate(s.start)} → ${fdate(s.pcd)}</small>`, bar(s.start, s.pcd, ""))}
-    ${end && s.pcd && end > s.pcd ? row(`Suivi<br><small style="color:var(--muted)">jusqu'à ${fdate(end)}</small>`, bar(s.pcd, end, "p")) : ""}
-    ${s.pubs.length ? row("Résultats", `<i class="p" style="left:${t}%;width:1.2%"></i>`) : ""}
+    ${line(`Inclusions et traitement<br><small>${fdate(s.start)} → ${fdate(s.pcd) || "?"}</small>`, bar(s.start, s.pcd, ""))}
+    ${end && s.pcd && end > s.pcd ? line(`Suivi<br><small>jusqu'à ${fdate(end)}</small>`, bar(s.pcd, end, "p")) : ""}
   </div></div><div class="calk"><span><i></i>réalisé</span><span><i class="f"></i>prévu</span><span><i class="n"></i>aujourd'hui (${fdate(updated)})</span></div>`;
 }
 function schema(s, x) {
   const arms = x?.bras?.length ? x.bras.map(b => [b.nom, b.traitement]) : s.arms.map(a => [a.l, a.i.join(", ") || a.d]);
-  if (!arms.length) return "";
   const rnd = s.alloc === "RANDOMIZED", crit = x?.critere || s.primary[0]?.m || "";
-  return `<div class="design"><div class="dz${rnd ? "" : " nr"}">
+  const meta = `<div class="dmeta">${s.type === "OBSERVATIONAL" ? "<span>Étude observationnelle</span>" : `<span>Étude ${[ALLOC[s.alloc], MASK[s.mask]].filter(Boolean).join(", ") || "interventionnelle"}${s.phase ? `, ${s.phase.toLowerCase()}` : ""}</span>`}${x?.duree ? `<span>Durée par patient : ${esc(x.duree)}</span>` : ""}${s.n ? `<span>${s.n} patients ${s.nType === "ACTUAL" ? "inclus" : "prévus"}</span>` : ""}</div>`;
+  if (!arms.length) return meta;
+  return `<div class="design"><div class="dzg${rnd ? "" : " nr"}">
     <div class="box"><b>Inclusion</b>${s.n ? `${s.n} patients` : ""}</div><div class="ar"></div>
     ${rnd ? `<div class="rz" title="Randomisation">R</div><div class="ar"></div>` : ""}
-    <div class="arms">${arms.slice(0, 4).map(([n, t]) => `<div class="arm"><b>${esc(n)}</b>${esc(t)}</div>`).join("")}</div><div class="ar"></div>
-    <div class="end"><b>Critère principal</b>${esc(crit.length > 140 ? crit.slice(0, 137) + "…" : crit)}</div>
-  </div></div>
-  <div class="dmeta">${s.type === "OBSERVATIONAL" ? "<span>Étude observationnelle</span>" : `<span>Étude ${[ALLOC[s.alloc], MASK[s.mask]].filter(Boolean).join(", ") || "interventionnelle"}</span>`}${x?.duree ? `<span>Durée : ${esc(x.duree)}</span>` : ""}${s.n ? `<span>${s.n} patients ${s.nType === "ACTUAL" ? "inclus" : "prévus"}</span>` : ""}</div>`;
+    <div class="arms">${arms.slice(0, 4).map(([n, t]) => `<div class="arm"><b>${esc(n)}</b>${esc((t || "").length > 160 ? t.slice(0, 157) + "…" : t)}</div>`).join("")}${arms.length > 4 ? `<div style="font-size:.8rem;color:var(--muted)">+ ${arms.length - 4} autre${arms.length > 5 ? "s" : ""} bras</div>` : ""}</div><div class="ar"></div>
+    <div class="end"><b>Critère principal</b>${esc(crit.length > 170 ? crit.slice(0, 167) + "…" : crit) || "non précisé"}</div>
+  </div></div>${meta}`;
 }
 async function renderStudy(id) {
-  const v = $("vStudy");
-  v.innerHTML = `<p style="color:var(--muted)">Chargement…</p>`;
+  const v = $("vStudy"), back = `<button class="back" data-back>← Retour</button>`;
+  v.innerHTML = `<p style="color:var(--muted);padding:40px 0">Chargement…</p>`;
   let s;
-  try { s = await (await fetch(`data/s/${id}.json`)).json(); } catch { v.innerHTML = `<button class="back" data-back>← Retour</button><p>Cette étude n'est plus dans le répertoire. <a href="https://clinicaltrials.gov/study/${esc(id)}" target="_blank" rel="noopener">Voir sur ClinicalTrials.gov ↗</a></p>`; return; }
-  const x = s.x, L = DATA.find(d => d.id === id) || { ...s, frN: s.frSites.length, res: s.hasResults };
-  const cities = [...new Set(s.frSites.map(c => c.c).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
+  try { const r = await fetch(`data/s/${id}.json`); if (!r.ok) throw 0; s = await r.json(); }
+  catch { v.innerHTML = `${back}<p>Cette étude n'est plus dans le répertoire (terminée depuis plus de deux ans, ou retirée). <a href="https://clinicaltrials.gov/study/${esc(id)}" target="_blank" rel="noopener">Voir sur ClinicalTrials.gov ↗</a></p>`; return; }
+  if (!location.hash.includes(id)) return;
+  const x = s.x, L = DATA.find(d => d.id === id) || { ...s, frN: s.frSites.length, res: s.hasResults, phase: s.phase };
+  const cts = L.v || [], on = favs.has(id), g = glossFor(s);
   const pi = s.officials.find(o => /CHAIR|DIRECTOR/.test(o.r)) || s.officials[0];
-  let n = 0; const H = t => `<h2>${t}</h2>`;
-  v.innerHTML = `<button class="back" data-back>← Retour</button>
-  <div class="fiche"><div>
-    <div class="fh">${frTag(L)}${stTag(L)}${typeTxt(s) ? `<span class="tag">${typeTxt(s)}</span>` : ""}${s.dis.map(d => `<span class="tag">${esc(DIS[d]?.fr)}</span>`).join("")}</div>
+  const H = t => `<h2>${t}</h2>`;
+  document.title = `${s.acr || s.id} · ${x?.titre || s.title} · STUDYprogress`;
+  v.innerHTML = `${back}
+  <div class="fiche"><article>
+    <div class="fh">${s.fr === "promo" ? `<span style="display:inline-flex;gap:6px;align-items:center;color:var(--fr);font-weight:600">${FLAG}Promotion française</span>` : L.fr ? `<span class="badge b-fr">${L.frN} centre${L.frN > 1 ? "s" : ""} en France</span>` : ""}${stTag(L)}<span>${esc(typeTxt(s))}</span>${s.dis.map(d => `<a class="pill" href="#/maladie/${d}">${esc(DIS[d]?.fr)}</a>`).join("")}</div>
     <h1>${esc(s.acr || s.id)}</h1>
-    <p class="sub">${esc(x?.titre || s.title)}${x ? `<small>${esc(s.title)}</small>` : ""}</p>
-    <div class="blk">${H("Calendrier de l'étude")}${calendar(s)}</div>
-    ${x ? `<p class="autonote">Fiche rédigée automatiquement à partir du registre (${fdate(x.date)}) ; le registre fait foi.</p>
+    <p class="sub">${esc(x?.titre || s.title)}${x ? `<small lang="en">${esc(s.title)}</small>` : ""}</p>
+    ${x ? `<div class="blk">${H("La question")}<p class="lead-q">${esc(x.question)}</p><p>${esc(x.profil)}</p>${schema(s, x)}</div>
+    <div class="blk key">${H("Ce que l'étude pourrait changer")}${paras(x.interet)}</div>
     <div class="blk">${H("Contexte")}${paras(x.contexte)}</div>
-    <div class="blk">${H("Intérêt")}${paras(x.interet)}</div>
-    <div class="blk">${H("Schéma de l'étude")}<p><b>Question :</b> ${esc(x.question)}</p>${schema(s, x)}</div>
-    <div class="blk">${H("Population étudiée")}<p>${esc(x.profil)}</p>
-      <div class="two"><div><h3>Principaux critères d'inclusion</h3><ul>${x.inclusion.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>
+    <div class="blk">${H("Qui est inclus")}<div class="two"><div><h3>Principaux critères d'inclusion</h3><ul>${x.inclusion.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>
       <div><h3>Principaux critères d'exclusion</h3><ul>${x.exclusion.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div></div></div>`
-    : `<p class="autonote">La fiche en français n'est pas encore rédigée pour cette étude : voici le texte du registre (en anglais).</p>
-    <div class="blk">${H("Résumé du registre")}${paras(s.summary)}</div>
-    <div class="blk">${H("Schéma de l'étude")}${schema(s, null) || "<p>Non précisé.</p>"}</div>
-    <div class="blk"><details><summary>Population étudiée (critères du registre)</summary><div class="raw">${esc(s.elig)}</div></details></div>`}
-    ${s.pubs.length ? `<div class="blk">${H("Résultats publiés")}<ul>${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul></div>` : ""}
-  </div>
+    : `<p class="note en">La fiche en français n'est pas encore rédigée pour cette étude. Voici le schéma et le texte du registre, en anglais.</p>
+    <div class="blk">${H("Schéma de l'étude")}${schema(s, null)}</div>
+    <div class="blk" lang="en">${H("Résumé du registre")}${paras(s.summary)}</div>
+    <div class="blk" lang="en"><details><summary>Critères d'inclusion et d'exclusion (registre)</summary><div class="raw">${esc(s.elig)}</div></details></div>`}
+    <div class="blk">${H("Calendrier")}${calendar(s)}</div>
+    ${s.pubs.length ? `<div class="blk key">${H("Résultats publiés")}<ul>${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul></div>` : s.hasResults ? `<div class="blk key">${H("Résultats")}<p>Des résultats sont déposés au registre. <a href="https://clinicaltrials.gov/study/${s.id}?tab=results" target="_blank" rel="noopener">Les consulter sur ClinicalTrials.gov ↗</a></p></div>` : ""}
+    ${x ? `<p class="note">Fiche rédigée automatiquement à partir du registre (${fdate(x.date)}) ; le registre fait foi.</p>` : ""}
+  </article>
   <aside class="side">
+    <div class="acts"><button class="btn fav2" data-f="${id}" aria-pressed="${on}">${on ? "★ Suivie" : "☆ Suivre"}</button><button class="btn" id="share">Partager</button></div>
     <div class="blk">${H("En bref")}<dl>
-      <dt>Promoteur</dt><dd>${esc(s.sponsor)}</dd>
+      <dt>Promoteur</dt><dd>${esc(s.sponsor)}${s.sClass === "INDUSTRY" ? " (industriel)" : ""}</dd>
       ${s.collabs.length ? `<dt>Partenaires</dt><dd>${esc(s.collabs.slice(0, 4).join(", "))}</dd>` : ""}
       ${pi ? `<dt>Coordination</dt><dd>${esc(pi.n || "")}${pi.a ? `, ${esc(pi.a)}` : ""}</dd>` : ""}
-      <dt>Type</dt><dd>${s.type === "OBSERVATIONAL" ? "Observationnelle" : "Interventionnelle"}${s.phase ? `, ${s.phase}` : ""}</dd>
+      <dt>Type</dt><dd>${s.type === "OBSERVATIONAL" ? "Observationnelle" : "Interventionnelle"}${s.phase ? `, ${s.phase.toLowerCase()}` : ""}</dd>
       <dt>Effectif</dt><dd>${s.n ?? "?"} patients ${s.nType === "ACTUAL" ? "inclus" : "prévus"}</dd>
       <dt>Âge</dt><dd>${s.maxAge ? `${esc(age(s.minAge))} à ${esc(age(s.maxAge))}` : `${esc(age(s.minAge))} et plus`}</dd>
-      <dt>Centres</dt><dd>${s.sites} dans ${s.countries} pays</dd>
+      <dt>Centres</dt><dd>${s.sites ? `${s.sites} dans ${s.countries} pays` : "non précisés"}</dd>
       <dt>Registre</dt><dd>${s.id}</dd>
-      <dt>Mise à jour</dt><dd>${fdate(s.upd)}</dd></dl></div>
-    <div class="blk">${H(`Villes françaises · ${cities.length}`)}${cities.length ? `<div class="cities">${cities.map(c => `<span>${esc(c)}</span>`).join("")}</div>` : `<p style="font-size:.88rem;color:var(--muted)">Aucun centre français déclaré.</p>`}
-      <a class="btn" href="https://clinicaltrials.gov/study/${s.id}" target="_blank" rel="noopener">Voir le registre ↗</a></div>
+      <dt>Mise à jour</dt><dd>${fdate(s.upd)}</dd></dl>
+      <a class="btn full" href="https://clinicaltrials.gov/study/${s.id}" target="_blank" rel="noopener">Voir le registre ↗</a></div>
+    <div class="blk">${H(`Villes françaises · ${cts.length}`)}${cts.length ? `<div class="cities">${cts.map(c => `<span>${esc(c)}</span>`).join("")}</div>` : `<p style="font-size:.86rem;color:var(--muted)">Aucun centre français déclaré.</p>`}</div>
+    ${g.length ? `<div class="blk">${H("Pour lire cette étude")}<dl class="gl">${gl(g)}</dl><p style="margin-top:12px;font-size:.84rem"><a href="#/reperes">Tout le lexique →</a></p></div>` : ""}
   </aside></div>`;
-  scrollTo(0, 0);
 }
 
 // ——— Navigation ———
-let view = "home", lastList = "etudes";
+let view = "", prevView = "";
+const pos = {};
+const parse = () => { const [path, qs = ""] = location.hash.replace(/^#\/?/, "").split("?"); return { path, q: new URLSearchParams(qs) }; };
+function tabs() {
+  const { path, q } = parse();
+  const t = !path ? "home" : path === "etudes" ? (q.get("st") === "res" ? "res" : "etudes") : /^maladie/.test(path) ? "maladies" : path === "reperes" ? "reperes" : "";
+  for (const a of $("tabs").children) a.dataset.tab === t ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current");
+}
 function show(v) {
-  view = v;
-  document.body.classList.toggle("home", v === "home");
-  $("vHome").hidden = v !== "home"; $("vList").hidden = v !== "etudes"; $("vDis").hidden = v !== "maladies";
-  $("vAbout").hidden = v !== "apropos"; $("vStudy").hidden = v !== "study";
-  for (const b of $("tabs").children) b.setAttribute("aria-selected", b.dataset.tab === v);
-  if (v === "etudes" || v === "maladies") lastList = v;
+  prevView = view; view = v;
+  for (const [id, k] of [["vHome", "home"], ["vList", "etudes"], ["vDis", "maladies"], ["vAbout", "reperes"], ["vStudy", "study"]]) $(id).hidden = k !== v;
 }
 function route() {
-  const h = location.hash.slice(1);
-  if (/^NCT\d{8}$/.test(h)) { show("study"); renderStudy(h); }
-  else if (["etudes", "maladies", "apropos"].includes(h)) { show(h); if (h === "etudes") renderList(); scrollTo(0, 0); }
-  else show("home");
+  const { path, q } = parse(), h = location.hash;
+  if (/^NCT\d{8}$/.test(path)) { show("study"); renderStudy(path); scrollTo(0, 0); }
+  else if (path === "etudes") { show("etudes"); setF(q); if (h !== lastQS) shown = 50; lastQS = h; renderList(); }
+  else if (path === "maladies" || path.startsWith("maladie/")) { show("maladies"); renderDisease(path.split("/")[1]); }
+  else if (path === "reperes" || path === "apropos") { show("reperes"); document.title = "Repères · STUDYprogress"; }
+  else { show("home"); renderHome(); document.title = "STUDYprogress · La recherche clinique en médecine interne"; }
+  // En revenant d'une fiche, on retrouve la liste là où on l'avait laissée.
+  if (view !== "study") scrollTo(0, prevView === "study" && pos[h] || 0);
+  tabs();
 }
-const go = h => { if (location.hash === "#" + h) route(); else location.hash = h; };
-const reset = () => { cat = "Toutes"; dis = null; shown = 40; for (const [id, v] of [["fStatus", "all"], ["fOrig", "all"], ["fType", "all"], ["fPhase", "all"], ["fSort", "fr"]]) $(id).value = v; };
+let curHash = location.hash;
+addEventListener("scroll", () => { if (location.hash === curHash) pos[curHash] = scrollY; }, { passive: true });
+addEventListener("hashchange", () => { curHash = location.hash; route(); });
 
-addEventListener("hashchange", route);
-$("tabs").onclick = e => { const b = e.target.closest("button"); if (!b) return; if (b.dataset.tab === "home") { history.pushState("", "", location.pathname); show("home"); } else go(b.dataset.tab); };
-$("homeLink").onclick = e => { e.preventDefault(); $("q").value = ""; history.pushState("", "", location.pathname); show("home"); };
-$("q").oninput = () => { shown = 40; if (view !== "etudes") go("etudes"); else renderList(); };
-$("hform").onsubmit = e => { e.preventDefault(); reset(); $("q").value = $("hq").value; renderCats(); go("etudes"); };
-$("quick").onclick = e => { const b = e.target.closest("button"); if (!b) return; reset(); cat = b.dataset.c; renderCats(); go("etudes"); };
-$("vHome").addEventListener("click", e => {
-  const b = e.target.closest("[data-go]"); if (!b) return;
-  reset(); $("fOrig").value = b.dataset.go === "done" ? "all" : "promo"; $("fStatus").value = b.dataset.go === "new" ? "soon" : b.dataset.go; $("fSort").value = b.dataset.go === "done" ? "fr" : "new";
-  renderCats(); go("etudes");
+for (const id of Object.values(CTRL)) $(id)[id === "q" ? "oninput" : "onchange"] = onFilter;
+$("fReset").onclick = () => { setF(new URLSearchParams()); onFilter(); };
+$("moreList").onclick = () => { shown += 50; renderList(); };
+function toggleFav(id) {
+  favs.has(id) ? favs.delete(id) : favs.add(id);
+  store("sp-favs", JSON.stringify([...favs])); $("favN").textContent = favs.size;
+  const on = favs.has(id);
+  for (const b of document.querySelectorAll(`[data-f="${id}"]`)) { b.setAttribute("aria-pressed", on); b.textContent = b.classList.contains("fav2") ? (on ? "★ Suivie" : "☆ Suivre") : on ? "★" : "☆"; }
+}
+document.addEventListener("click", async e => {
+  const f = e.target.closest("[data-f]");
+  if (f) { e.preventDefault(); toggleFav(f.dataset.f); return; }
+  if (e.target.closest("[data-back]")) { prevView ? history.back() : location.hash = "#/etudes"; return; }
+  const sh = e.target.closest("#share");
+  if (sh) {
+    const d = { title: document.title, url: location.href };
+    try { if (navigator.share) await navigator.share(d); else { await navigator.clipboard.writeText(d.url); sh.textContent = "Lien copié ✓"; setTimeout(() => sh.textContent = "Partager", 1800); } } catch {}
+  }
 });
-$("cats").onclick = e => { const b = e.target.closest("button"); if (!b) return; cat = b.dataset.c; dis = null; shown = 40; renderCats(); renderList(); };
-for (const id of ["fStatus", "fOrig", "fType", "fPhase", "fSort"]) $(id).onchange = () => { shown = 40; renderList(); };
-$("moreList").onclick = () => { shown += 40; renderList(); };
-$("vDis").onclick = e => { const b = e.target.closest(".mtile"); if (!b) return; reset(); dis = b.dataset.d; renderCats(); go("etudes"); };
-document.addEventListener("click", e => {
-  const f = e.target.closest(".fav");
-  if (f) { e.preventDefault(); const id = f.dataset.f; favs.has(id) ? favs.delete(id) : favs.add(id); saveFavs(); f.setAttribute("aria-pressed", favs.has(id)); f.textContent = favs.has(id) ? "★" : "☆"; return; }
-  if (e.target.closest("#clrDis")) { dis = null; renderList(); return; }
-  if (e.target.closest("[data-back]")) { history.length > 1 ? history.back() : go(lastList); }
-});
+document.addEventListener("submit", e => { if (e.target.id === "hform") { e.preventDefault(); location.hash = href("etudes", { q: $("hq").value.trim() }); } });
+document.addEventListener("change", e => { if (e.target.id === "ville") { store("sp-ville", e.target.value); renderHome(); } });
 
 fetch("data/studies.json").then(r => r.json()).then(j => {
-  updated = j.updated; $("upd").textContent = updated.split("-").reverse().join("/");
+  updated = j.updated; $("upd").textContent = fday(updated);
   for (const d of j.diseases) DIS[d.id] = d;
   CATS = [...new Set(j.diseases.map(d => d.cat))];
   DATA = j.studies;
-  for (const s of DATA) s._txt = norm([s.id, s.acr, s.t, s.q, s.p, s.sponsor, ...s.dis.map(d => DIS[d].fr + " " + DIS[d].cat)].join(" "));
-  renderCats(); renderDis(); renderHome(); route();
-}).catch(() => { $("vHome").innerHTML = `<p style="color:var(--muted)">Impossible de charger les données. Rechargez la page.</p>`; });
+  for (const s of DATA) { s.v ||= []; s.iv ||= []; s._txt = norm([s.id, s.acr, s.t, s.q, s.p, s.sponsor, s.phase, ...s.iv, ...s.v, ...s.dis.map(d => DIS[d].fr + " " + DIS[d].cat)].join(" ")); }
+  $("fDis").innerHTML = `<option value="">Toutes les maladies</option>` + CATS.map(c => `<optgroup label="${esc(c)}"><option value="c:${esc(c)}">${esc(c)} (toutes)</option>${j.diseases.filter(d => d.cat === c).map(d => `<option value="${d.id}">${esc(d.fr)}</option>`).join("")}</optgroup>`).join("");
+  $("fVille").innerHTML = `<option value="">Toutes les villes</option>` + cities().map(v => `<option>${esc(v)}</option>`).join("");
+  $("gloss").innerHTML = gl(Object.keys(G));
+  $("favN").textContent = favs.size;
+  route();
+}).catch(() => { $("vHome").innerHTML = `<p class="empty">Impossible de charger les données. Rechargez la page.</p>`; });
 </script>
 </body>
 </html>
