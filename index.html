@@ -597,7 +597,7 @@ document.addEventListener("click", async e => {
   if (e.target.closest("[data-back]")) { prevView ? history.back() : location.hash = "#/etudes"; return; }
   const sh = e.target.closest("#share");
   if (sh) {
-    const d = { title: document.title, url: location.href };
+    const d = { title: document.title, url: new URL(`e/${parse().path}.html`, location.href.split("#")[0]).href };
     try { if (navigator.share) await navigator.share(d); else { await navigator.clipboard.writeText(d.url); sh.textContent = "Lien copié ✓"; setTimeout(() => sh.textContent = "Partager", 1800); } } catch {}
   }
 });

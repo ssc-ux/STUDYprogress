@@ -9,14 +9,15 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
 - `scripts/conditions.mjs` : maladies suivies, catégories, détection des promoteurs français.
 - `scripts/update.mjs` : collecte → `data/studies.json` (index léger, avec villes françaises `v` et molécules `iv`), `data/s/<NCT>.json` (fiche complète),
   `data/todo.json` (fiches en français à rédiger, par ordre de priorité).
+- `e/<NCT>.html` et `sitemap.xml` : pages de partage (aperçu du lien, redirection vers la fiche), générées par le script.
 - `data/fr/<NCT>.json` : fiches en français (cache ; ne jamais les supprimer).
 
 ## Mise à jour hebdomadaire (tâche Claude du lundi)
 
 1. `node scripts/update.mjs` (aucune dépendance npm nécessaire). En cas d'échec réseau, réessayer ;
    si la collecte échoue encore, s'arrêter sans rien pousser.
-2. Lire `data/todo.json` et rédiger les **60 premières** fiches de la liste (elle est triée : nouvelles
-   études françaises d'abord). Pour chaque entrée, lire `data/s/<id>.json` et écrire `data/fr/<id>.json`
+2. Lire `data/todo.json` et rédiger les **100 premières** fiches de la liste (elle est triée : nouvelles
+   études françaises d'abord, puis phases 3-4 et études avec résultats). Pour chaque entrée, lire `data/s/<id>.json` et écrire `data/fr/<id>.json`
    au format ci-dessous, avec le champ `h` recopié tel quel depuis `todo.json`. Paralléliser avec des
    sous-agents (lots d'environ 10 fiches).
 3. `OFFLINE=1 node scripts/update.mjs` pour intégrer les fiches.

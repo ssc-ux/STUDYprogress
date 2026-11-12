@@ -82,13 +82,16 @@ const city = c => {
   return !c || /c[ée]dex|many|finist|bouches|seine-maritime|martinique/i.test(c) ? "" : AGGLO[c] ?? c;
 };
 // Molécules testées (médicaments et biothérapies), sans placebo ni soins courants : vue « pipeline » par maladie.
-const drugs = s => [...new Set(s.interventions.filter(i => /DRUG|BIOLOGICAL|GENETIC|COMBINATION/.test(i.t)).map(i => i.n.trim())
-  .filter(n => n.length <= 40 && !/placebo|standard of care|\bsoc\b|saline|vehicle|sampl|sham|usual care/i.test(n)))].slice(0, 3);
+const cleanDrug = n => { n = n.replace(/\s*\(.*?\)/g, "").replace(/\b(administration|injection|infusion|tablets?|capsules?|oral|intravenous|subcutaneous)\b/gi, "").replace(/\b\d+([.,]\d+)?\s*(mg|g|ml|mcg|µg|ui|iu)\b.*$/i, "").replace(/\s+/g, " ").trim(); return n && n[0].toUpperCase() + n.slice(1); };
+const drugs = s => [...new Map(s.interventions.filter(i => /DRUG|BIOLOGICAL|GENETIC|COMBINATION/.test(i.t)).map(i => cleanDrug(i.n))
+  .filter(n => n.length >= 3 && n.length <= 40 && !/placebo|standard of care|\bsoc\b|saline|vehicle|sampl|sham|usual care/i.test(n)).map(n => [n.toLowerCase(), n])).values()].slice(0, 3);
 
 // Ordre de priorité des fiches : nouvelles études françaises (page d'accueil), autres françaises, centres en France, puis le reste.
 const OPEN = /RECRUIT|ENROLLING/;
+// À classe égale : phase 3-4 ou résultats disponibles d'abord (ce qui change la pratique), ouvertes avant terminées.
+const key = s => /[34]/.test(s.phase) || s.hasResults || s.pubs.length ? 0 : 2;
 const prio = s => s.fr === "promo" && OPEN.test(s.status) && s.start >= SINCE.replace(/^\d{4}/, y => +y + 1) ? 0
-  : (s.fr === "promo" ? 1 : s.fr ? 2 : 3) * 2 + (OPEN.test(s.status) ? 0 : 1);
+  : (s.fr === "promo" ? 1 : s.fr ? 2 : 3) * 4 + key(s) + (OPEN.test(s.status) ? 0 : 1);
 const hashOf = s => createHash("sha1").update(JSON.stringify([s.title, s.summary, s.elig, s.arms, s.primary])).digest("hex").slice(0, 12);
 
 async function main() {
@@ -147,6 +150,16 @@ async function main() {
   const keep = new Set(studies.map(s => `${s.id}.json`));
   for (const f of await readdir("data/s")) if (!keep.has(f)) await unlink(`data/s/${f}`);
   for (const s of studies) { const { h, ...rest } = s; await writeFile(`data/s/${s.id}.json`, JSON.stringify(rest)); }
+  // Pages de partage : une page légère par étude (titre et résumé pour l'aperçu du lien), qui redirige vers la fiche.
+  const SITE = "https://ssc-ux.github.io/STUDYprogress/", h = t => String(t ?? "").replace(/[&<>"]/g, c => `&#${c.charCodeAt(0)};`);
+  await mkdir("e", { recursive: true });
+  const keepE = new Set(studies.map(s => `${s.id}.html`));
+  for (const f of await readdir("e")) if (!keepE.has(f)) await unlink(`e/${f}`);
+  for (const s of studies) {
+    const t = h(`${s.acr || s.id} · ${s.x?.titre || s.title}`), d = h(s.x?.question || s.summary.replace(/\s+/g, " ").slice(0, 200));
+    await writeFile(`e/${s.id}.html`, `<!doctype html><html lang="fr"><meta charset="utf-8"><title>${t} · STUDYprogress</title><meta name="description" content="${d}"><meta property="og:title" content="${t}"><meta property="og:description" content="${d}"><meta property="og:type" content="article"><meta property="og:site_name" content="STUDYprogress"><meta property="og:url" content="${SITE}e/${s.id}.html"><link rel="canonical" href="${SITE}e/${s.id}.html"><meta http-equiv="refresh" content="0;url=../#/${s.id}"><script>location.replace("../#/${s.id}")</script><p><a href="../#/${s.id}">${t}</a></p></html>\n`);
+  }
+  await writeFile("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n<url><loc>${SITE}</loc></url>\n${studies.map(s => `<url><loc>${SITE}e/${s.id}.html</loc></url>`).join("\n")}\n</urlset>\n`);
   const light = studies.map(s => ({
     id: s.id, acr: s.acr, t: s.x?.titre || s.title, dis: s.dis, status: s.status, type: s.type, phase: s.phase,
     n: s.n, start: s.start, pcd: s.pcd, sponsor: s.sponsor, sClass: s.sClass, fr: s.fr, frN: s.frSites.length,
