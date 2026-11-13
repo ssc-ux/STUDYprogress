@@ -1,0 +1,30 @@
+{
+ "h": "5e56120e3045",
+ "date": "2026-11-13",
+ "titre": "Romiplostim plus dexaméthasone contre dexaméthasone seule dans le PTI primaire nouvellement diagnostiqué",
+ "question": "Ajouter le romiplostim à la dexaméthasone améliore-t-il la réponse soutenue hors traitement chez des adultes atteints de PTI primaire récent ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une thrombopénie auto-immune isolée. En première ligne, les corticoïdes, notamment des cures courtes de dexaméthasone à forte dose, induisent souvent une réponse rapide. Cependant, une part importante des patients rechute après l'arrêt, et ne conserve pas une réponse durable sans traitement. Les agonistes du récepteur de la thrombopoïétine, comme le romiplostim, sont aujourd'hui réservés aux PTI persistants ou chroniques après échec d'un premier traitement.\n\nLe romiplostim stimule la production plaquettaire par la voie du récepteur de la thrombopoïétine. L'hypothèse de l'étude est que son utilisation précoce, associée à la dexaméthasone, augmente la proportion de patients en réponse soutenue sans traitement. Le registre ne rapporte pas de résultats préliminaires. Cet essai de phase 3 est multicentrique, randomisé et en ouvert. Le promoteur est une fondation espagnole (Sevilla). Le romiplostim peut être poursuivi jusqu'à 12 mois, suivis de 6 mois sans traitement. Il n'y a pas d'adaptation de dose de la dexaméthasone. L'étude n'est plus en recrutement.",
+ "interet": "Si l'association est supérieure, elle pourrait modifier la stratégie de première ligne du PTI en visant une rémission durable sans traitement. Les résultats préciseront aussi la tolérance et l'usage des ressources de santé.",
+ "profil": "Des adultes de 18 ans ou plus atteints de PTI primaire nouvellement diagnostiqué et jamais traité.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "PTI primaire nouvellement diagnostiqué selon l'International Working Group, jamais traité",
+  "Plaquettes < 30 G/L, ou < 50 G/L avec symptômes hémorragiques",
+  "Créatininémie ≤ 1,5 mg/dl"
+ ],
+ "exclusion": [
+  "Indice de performance OMS > 2",
+  "Rituximab dans les 3 mois, corticoïdes ou autre immunomodulateur dans le mois précédant l'inclusion",
+  "Romiplostim, eltrombopag ou autre agent stimulant les plaquettes dans les 3 mois",
+  "Splénectomie récente ou prévue",
+  "Hépatopathie active (ALAT/ASAT > 5 fois la normale) ou hépatopathie chronique sévère",
+  "Infection virale active (VHB, VHC, charge virale VIH détectable)",
+  "Intolérance à la dexaméthasone, antécédent de maladie de la moelle osseuse, cancer actif ou antérieur (sous réserve)"
+ ],
+ "bras": [
+  { "nom": "Romiplostim + dexaméthasone", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (premier cycle seulement) et romiplostim sous-cutané hebdomadaire jusqu'à 12 mois, de 3 à 10 µg/kg/semaine selon les plaquettes" },
+  { "nom": "Dexaméthasone seule", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours, jusqu'à 3 cycles tous les 14 à 28 jours" }
+ ],
+ "duree": "Jusqu'à 12 mois de traitement puis 6 mois de suivi (environ 18 mois)",
+ "critere": "Proportion de patients en réponse soutenue hors traitement (plaquettes ≥ 30 G/L pendant 6 mois), évaluée 180 jours après l'arrêt du traitement"
+}

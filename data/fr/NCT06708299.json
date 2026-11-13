@@ -1,0 +1,38 @@
+{
+ "h": "e34a8eb04656",
+ "date": "2026-11-13",
+ "titre": "CardiolRx contre placebo après arrêt d'un anti-IL-1 dans la péricardite récidivante",
+ "question": "Le CardiolRx maintient-il l'absence de récidive de péricardite après l'arrêt programmé d'un anti-IL-1 ?",
+ "contexte": "La péricardite récidivante est une inflammation péricardique qui rechute après un premier épisode. Elle repose sur les anti-inflammatoires, la colchicine et les corticoïdes, avec un risque de corticodépendance. Les inhibiteurs de l'IL-1, comme l'anakinra et le rilonacept, sont efficaces dans les formes réfractaires ou corticodépendantes.\n\nLe problème est l'arrêt de l'anti-IL-1, car des récidives surviennent souvent lors de l'interruption ou de la décroissance du traitement. Il manque une stratégie de sevrage bien étayée.\n\nLe CardiolRx est une formulation orale de cannabidiol de grade pharmaceutique, développée par Cardiol Therapeutics. Cet essai de phase 3 multicentrique, mené dans 4 pays, est randomisé 1:1 en double aveugle contre placebo. Il inclut des patients stables sous anti-IL-1 depuis au moins 12 mois, sans récidive depuis au moins 6 mois, dont l'arrêt est programmé. Le traitement est débuté 10 à 16 jours avant la dernière dose d'anti-IL-1 et poursuivi 24 semaines, avec une augmentation progressive de dose. La cible principale est le délai avant récidive.",
+ "interet": "Si le CardiolRx réduit les récidives après l'arrêt de l'anti-IL-1, il pourrait faciliter le sevrage de ces traitements coûteux. Cela répondrait à une question fréquente de la pratique.",
+ "profil": "Des adultes en péricardite récidivante stable sous anti-IL-1, dont l'arrêt est programmé.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Péricardite récidivante stable sous anti-IL-1 depuis ≥ 12 mois, dose inchangée depuis ≥ 3 mois",
+  "Pas de récidive depuis ≥ 6 mois (sauf lors d'une interruption ou d'une décroissance de l'anti-IL-1)",
+  "Douleur péricarditique ≤ 2/10 sur l'échelle numérique depuis ≥ 7 jours",
+  "CRP < 1,0 mg/dL au dépistage",
+  "Contraception adaptée"
+ ],
+ "exclusion": [
+  "Récidive sous anti-IL-1 sans interruption ni décroissance",
+  "Péricardite tuberculeuse, néoplasique, purulente, radique, post-traumatique ou de maladie auto-immune systémique",
+  "Myocardite comme diagnostic principal",
+  "DFG < 30 mL/min ; ALAT/ASAT > 5 × la normale",
+  "Arythmie ventriculaire soutenue, syndrome du QT long, QTc allongé ou bloc AV de 2e-3e degré non appareillé",
+  "Idées suicidaires dans les 12 derniers mois",
+  "Consommation de cannabinoïdes dans le mois précédent ou cancer actif"
+ ],
+ "bras": [
+  {
+   "nom": "CardiolRx",
+   "traitement": "CardiolRx en deux prises par jour pendant 24 semaines : 5 mg/kg puis 7,5 mg/kg, avec augmentation progressive de dose (schéma complet dans le registre)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique, avec le même schéma d'administration pendant 24 semaines"
+  }
+ ],
+ "duree": "24 semaines de traitement, plus une visite de suivi à 4 semaines",
+ "critere": "Délai avant récidive de péricardite, sur 24 semaines"
+}

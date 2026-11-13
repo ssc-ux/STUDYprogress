@@ -1,0 +1,36 @@
+{
+ "h": "6bf472471e61",
+ "date": "2026-11-13",
+ "titre": "Avatrombopag versus rituximab en deuxième ligne du PTI récent",
+ "question": "En deuxième ligne d'un PTI récent, l'avatrombopag est-il plus efficace que le rituximab ?",
+ "contexte": "Le PTI est une thrombopénie auto-immune. Les corticoïdes de première ligne donnent des réponses souvent transitoires, et une proportion importante de patients rechute ou ne répond pas. En deuxième ligne, les recommandations proposent notamment les agonistes du récepteur de la thrombopoïétine (ARTPO) ou le rituximab, mais les comparaisons directes manquent.\n\nLes ARTPO comme l'avatrombopag stimulent la production plaquettaire par voie orale, avec une réponse rapide, mais l'effet cesse souvent à l'arrêt. Le rituximab, anticorps anti-CD20 en deux perfusions, vise à rééduquer la réponse immune et peut induire des rémissions durables chez une minorité de patients. L'essai Holistic, porté par l'hôpital d'Østfold avec de nombreux centres norvégiens, est pragmatique, randomisé 1:1 et ouvert. Il inclut environ 220 adultes dont le PTI évolue depuis moins d'un an. La première phase court jusqu'à la semaine 28, puis jusqu'à la semaine 78, avant une phase finale. Le registre n'en précise pas davantage le contenu.",
+ "interet": "Cette comparaison directe pourrait éclairer le choix entre une stratégie de contrôle plaquettaire rapide et un traitement visant la rémission durable. Son caractère pragmatique reflète la pratique courante.",
+ "profil": "Des adultes atteints de PTI primaire depuis moins d'un an, en échec ou en rechute après corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire de moins d'un an, plaquettes < 30 G/L dans les 2 semaines précédentes",
+  "Échec ou rechute après au moins un cycle de dexaméthasone ou de prednisone",
+  "Nécessité d'un traitement augmentant les plaquettes selon le médecin",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Traitement antérieur par rituximab, autre immunosuppresseur, danazol, chimiothérapie ou splénectomie",
+  "Grossesse ou allaitement, refus de contraception",
+  "PTI secondaire (lymphome, LLC, lupus, SAPL, DICV, VIH, VHC)",
+  "Anémie hémolytique auto-immune associée",
+  "Hépatite B active ; si anti-HBc isolé et bras rituximab, entécavir requis",
+  "Cancer actif, immunodépression sévère, allergie à l'un des traitements"
+ ],
+ "bras": [
+  {
+   "nom": "Avatrombopag",
+   "traitement": "Avatrombopag 20 mg par voie orale par jour la première semaine, puis selon la réponse ; décroissance sur 8 semaines au maximum à partir de la semaine 28"
+  },
+  {
+   "nom": "Rituximab",
+   "traitement": "Rituximab 1000 mg par voie intraveineuse, 2 perfusions à 2 semaines d'intervalle"
+  }
+ ],
+ "duree": "Au moins 78 semaines (3 phases)",
+ "critere": "Efficacité de l'avatrombopag comparée à celle du rituximab, évaluée à la semaine 28 (définition précise non détaillée)."
+}

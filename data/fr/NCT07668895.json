@@ -1,0 +1,31 @@
+{
+ "h": "e0f483c4191f",
+ "date": "2026-11-13",
+ "titre": "Bétaméthasone composée injectable contre prednisone orale dans la sarcoïdose pulmonaire de stade I-II",
+ "question": "La bétaméthasone composée (Diprospan) en injection toutes les 4 semaines améliore-t-elle la CVF à 24 semaines, par rapport à la prednisone orale, dans la sarcoïdose pulmonaire récente ?",
+ "contexte": "La sarcoïdose est une granulomatose systémique dont l'atteinte thoracique est la plus fréquente. Aux stades I et II, avec adénopathies médiastinales et hilaires, avec ou sans infiltrats pulmonaires, une corticothérapie systémique est proposée lorsque la maladie est symptomatique ou altère la fonction respiratoire. Le schéma de référence est la prednisone orale quotidienne à doses dégressives. Ce traitement expose aux effets indésirables des corticoïdes et pose des problèmes d'observance. Les rechutes à la décroissance sont fréquentes.\n\nLa bétaméthasone composée est une association injectable de corticoïdes à libération prolongée, administrée par voie intramusculaire. Elle pourrait simplifier le traitement par une injection toutes les 4 semaines. Cette étude de phase 2/3 est prospective, multicentrique et randomisée. Elle est promue par le Peking Union Medical College Hospital et n'a pas encore débuté. Elle compare la bétaméthasone composée à la prednisone orale chez des patients traités pour la première fois et diagnostiqués depuis moins de 3 mois. Le stade scanographique est confirmé par au moins deux experts parmi trois. Après 24 semaines de traitement, les patients sont suivis 24 semaines de plus pour détecter les rechutes. Le registre ne fournit pas de résultats préliminaires.",
+ "interet": "Si l'efficacité est comparable avec une administration plus simple, cette formulation pourrait devenir une alternative à la prednisone orale. Les données de tolérance et de rechute seront essentielles pour juger de son intérêt.",
+ "profil": "Des adultes avec une sarcoïdose pulmonaire de stade I-II récente, jamais traitée, nécessitant des corticoïdes systémiques.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Sarcoïdose pulmonaire de stade I-II au scanner, diagnostiquée depuis moins de 3 mois, jamais traitée",
+  "Preuve histologique de sarcoïdose obtenue lors d'une bronchoscopie",
+  "TDM thoracique haute résolution montrant des adénopathies médiastinales et hilaires, avec ou sans infiltrats",
+  "Stade scanographique confirmé par au moins deux experts",
+  "Indication d'une corticothérapie systémique et capacité à suivre les visites"
+ ],
+ "exclusion": [
+  "Incapacité à comprendre l'étude ou à donner un consentement éclairé",
+  "Impossibilité de respecter le calendrier de suivi",
+  "Autre maladie grave ou anomalie clinique ou biologique pouvant compromettre la sécurité",
+  "Grossesse, allaitement ou contraception inadéquate pendant et 3 mois après l'étude",
+  "Cancer actif nécessitant un traitement",
+  "Hypersensibilité à la bétaméthasone composée ou à la prednisone"
+ ],
+ "bras": [
+  { "nom": "Bétaméthasone composée intramusculaire", "traitement": "Injection de bétaméthasone composée (Diprospan) toutes les 4 semaines pendant 24 semaines" },
+  { "nom": "Prednisone orale", "traitement": "Prednisone orale quotidienne à doses dégressives pendant 24 semaines" }
+ ],
+ "duree": "48 semaines (24 semaines de traitement puis 24 semaines de suivi)",
+ "critere": "Variation de la CVF en pourcentage de la théorique entre l'inclusion et la semaine 24"
+}

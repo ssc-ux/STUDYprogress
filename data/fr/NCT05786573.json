@@ -1,0 +1,32 @@
+{
+ "h": "c9db069dc2ca",
+ "date": "2026-11-13",
+ "titre": "Obexelimab contre placebo dans l'anémie hémolytique auto-immune à anticorps chauds",
+ "question": "L'obexelimab, administré par voie sous-cutanée, est-il efficace et bien toléré chez des patients atteints d'anémie hémolytique auto-immune à anticorps chauds en échec d'au moins un traitement ?",
+ "contexte": "L'anémie hémolytique auto-immune à anticorps chauds (AHAI) est due à des auto-anticorps, le plus souvent IgG, dirigés contre les hématies. Elle peut être primaire ou secondaire à une maladie auto-immune ou lymphoproliférative. Le traitement de première ligne repose sur les corticoïdes, puis sur le rituximab. D'autres options sont utilisées en cas d'échec ou de rechute : immunosuppresseurs et splénectomie. Les patients réfractaires ou dépendants des corticoïdes restent nombreux, et peu de traitements ont une autorisation spécifique dans cette indication.\n\nL'obexelimab est un anticorps monoclonal bifonctionnel, administré par voie sous-cutanée. Le registre ne détaille pas son mécanisme dans ce document ; d'après les informations générales disponibles, il cible les lymphocytes B (CD19 et FcγRIIb). Cette étude de phase 3, promue par Zenas BioPharma, comporte trois temps. Une phase d'entrée ouverte de 6 mois évalue la tolérance et confirme la dose. Elle est suivie d'une phase randomisée en double insu de 6 mois, obexelimab contre placebo (1:1). Une extension ouverte d'un an clôt l'étude. Jusqu'à deux traitements antérieurs en échec peuvent être poursuivis pendant l'étude. Elle n'est plus en recrutement.",
+ "interet": "Si l'étude est positive, l'obexelimab pourrait offrir une option ciblant les lymphocytes B pour les patients en échec des traitements usuels. Elle permettra aussi de préciser la tolérance sur une année d'exposition.",
+ "profil": "Des adultes atteints d'AHAI à anticorps chauds, primaire ou secondaire, en échec d'au moins un traitement, avec anémie symptomatique.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "AHAI à anticorps chauds diagnostiquée depuis au moins 3 mois",
+  "Test direct à l'antiglobuline positif anti-IgG ou anti-IgA",
+  "Échec d'au moins un traitement antérieur de l'AHAI",
+  "Hémoglobine de 7 à moins de 10 g/dl (selon le registre)",
+  "Au moins un signe ou symptôme d'anémie"
+ ],
+ "exclusion": [
+  "AHAI à anticorps froids, maladie des agglutinines froides, forme mixte ou hémoglobinurie paroxystique à frigore",
+  "Autre cause d'anémie hémolytique héréditaire ou acquise",
+  "Transfusion dans les 2 semaines précédant la randomisation",
+  "Traitement ciblant les lymphocytes B ou autre biomédicament immunomodulateur dans les 6 mois précédents",
+  "Immunoglobulines IV ou époétine alfa dans les 6 semaines précédentes",
+  "Plus de 2 traitements concomitants de l'AHAI"
+ ],
+ "bras": [
+  { "nom": "Phase d'entrée : obexelimab", "traitement": "Obexelimab en injection sous-cutanée pendant 24 semaines, en ouvert" },
+  { "nom": "Phase randomisée : obexelimab", "traitement": "Obexelimab en injection sous-cutanée pendant 24 semaines" },
+  { "nom": "Phase randomisée : placebo", "traitement": "Placebo en injection sous-cutanée pendant 24 semaines" }
+ ],
+ "duree": "Jusqu'à 81 semaines (dépistage, 24 semaines de traitement, extension ouverte de 52 semaines, suivi de 8 semaines)",
+ "critere": "Tolérance et confirmation de dose lors de la phase d'entrée, et efficacité lors de la phase randomisée, sur 24 semaines (définition précise non détaillée dans le registre)"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "2d7490f38cd7",
+ "date": "2026-11-13",
+ "titre": "Lénalidomide en traitement d'entretien pour prévenir les rechutes de la maladie à IgG4",
+ "question": "Le lénalidomide, ajouté à une décroissance standardisée des corticoïdes, réduit-il le taux de rechute à 52 semaines chez des patients atteints de maladie à IgG4 en rémission ?",
+ "contexte": "La maladie à IgG4 est une maladie fibro-inflammatoire systémique, caractérisée par un infiltrat lymphoplasmocytaire riche en plasmocytes IgG4+ et une fibrose storiforme, avec atteinte possible de nombreux organes. Les corticoïdes restent le traitement de première ligne pour obtenir la rémission. Une proportion importante de patients rechute pendant la décroissance ou après l'arrêt des corticoïdes. Une corticothérapie prolongée expose à des complications métaboliques, osseuses, cardiovasculaires et infectieuses. Il existe donc un besoin de traitements d'entretien efficaces et bien tolérés.\n\nLe lénalidomide est un immunomodulateur déjà utilisé dans les hémopathies à plasmocytes. En se fixant au céréblon, il entraîne la dégradation des facteurs de transcription IKZF1 et IKZF3, ce qui module l'activation des lymphocytes B, la différenciation plasmocytaire, la production de cytokines et la fonction des lymphocytes T. Le registre avance que la dérégulation B/plasmocytaire est centrale dans la maladie et justifie cette approche. Cette étude de phase 3, randomisée en double insu contre placebo, compare le lénalidomide 5 mg par jour au placebo pendant 52 semaines, en plus d'une décroissance standardisée des corticoïdes. Elle est promue par le Chinese PLA General Hospital et n'a pas encore débuté.",
+ "interet": "Si le lénalidomide diminue les rechutes, il pourrait devenir une option d'entretien épargnant les corticoïdes dans la maladie à IgG4. Le profil de tolérance, notamment hématologique et thromboembolique, sera à mettre en balance avec le bénéfice.",
+ "profil": "Des adultes de 18 à 75 ans atteints de maladie à IgG4 en rémission clinique prolongée sous faible dose de corticoïdes.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Maladie à IgG4 selon les critères de classification ACR/EULAR 2019",
+  "Rémission clinique prolongée après corticothérapie",
+  "Aucune rechute documentée dans les 12 mois précédents",
+  "IgG4-RD Responder Index à 0 au dépistage",
+  "Prednisone ≤ 7,5 mg/j (équivalent) stable depuis au moins 6 mois"
+ ],
+ "exclusion": [
+  "Maladie active nécessitant un traitement d'induction ou une intensification",
+  "Traitement antérieur par lénalidomide ou hypersensibilité connue",
+  "Infection sévère ou non contrôlée",
+  "Anomalie hématologique significative (neutropénie ou thrombopénie sévère)",
+  "Insuffisance hépatique ou rénale significative",
+  "Antécédent thromboembolique ou risque thrombotique inacceptable",
+  "Grossesse, allaitement ou absence de contraception efficace"
+ ],
+ "bras": [
+  { "nom": "Lénalidomide", "traitement": "Lénalidomide 5 mg par voie orale une fois par jour pendant 52 semaines, avec décroissance standardisée des corticoïdes" },
+  { "nom": "Placebo", "traitement": "Placebo identique par voie orale une fois par jour pendant 52 semaines, avec la même décroissance des corticoïdes" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Taux cumulé de rechute de la maladie à IgG4 entre la randomisation et la semaine 52"
+}

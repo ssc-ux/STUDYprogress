@@ -1,0 +1,31 @@
+{
+ "h": "35bc1224413a",
+ "date": "2026-11-13",
+ "titre": "Extension à long terme de l'ulviprubart dans la myosite à inclusions",
+ "question": "L'ulviprubart administré au long cours reste-t-il sûr et efficace chez des patients atteints de myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est la myopathie inflammatoire la plus fréquente après 50 ans. Elle associe une faiblesse musculaire progressive, touchant notamment les fléchisseurs des doigts et les quadriceps, et une dysphagie fréquente. Elle résiste aux corticoïdes et aux immunosuppresseurs classiques, et aucun traitement de fond n'a d'efficacité établie : le besoin non couvert est majeur.\n\nL'ulviprubart (ABC008) est un anticorps administré par voie sous-cutanée, développé par Abcuro. Cette étude est une extension ouverte, sans comparateur, réservée aux patients ayant terminé l'étude ABC008-IBM-101 (phase 1) ou ABC008-IBM-201 (phase 2/3). Tous reçoivent la même dose de 2,0 mg/kg toutes les 8 semaines, quel que soit leur traitement antérieur, et la dose se poursuit sans interruption entre l'étude initiale et l'extension. Le suivi dure jusqu'à 156 semaines. L'objectif est de documenter la sécurité et l'efficacité à long terme d'un traitement chronique dans une maladie lentement évolutive. Le registre ne précise pas le détail des critères de jugement.",
+ "interet": "Les données de sécurité et de maintien de l'effet sur trois ans sont indispensables pour un traitement chronique d'une maladie sans option thérapeutique. L'étude contribuera au dossier de l'ulviprubart dans l'IBM.",
+ "profil": "Des adultes de 40 ans et plus atteints de myosite à inclusions, ayant terminé une étude antérieure d'ulviprubart.",
+ "inclusion": [
+  "Avoir terminé l'étude ABC008-IBM-101 (fin de la partie 2) ou ABC008-IBM-201 (visite de la semaine 80)",
+  "Bonne observance des procédures de l'étude précédente",
+  "Capacité à venir au centre pour les évaluations et les injections sous-cutanées",
+  "Contraception hautement efficace jusqu'à 180 jours après la fin du traitement",
+  "Test de grossesse urinaire négatif à l'inclusion pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Événement indésirable significatif non résolu ou anomalie clinique ou biologique empêchant la participation",
+  "Participation à une autre étude de médicament expérimental dans les 30 jours précédents (ou 5 demi-vies)",
+  "Refus ou impossibilité de respecter les médicaments interdits",
+  "Femme enceinte, allaitante ou projetant une grossesse",
+  "Refus de dons de sperme exclu pendant l'étude (hommes)"
+ ],
+ "bras": [
+  {
+   "nom": "Ulviprubart",
+   "traitement": "Ulviprubart (ABC008) 2,0 mg/kg par voie sous-cutanée toutes les 8 semaines"
+  }
+ ],
+ "duree": "Jusqu'à 156 semaines (environ 3 ans)",
+ "critere": "Critère principal non détaillé dans le registre : sécurité et efficacité à long terme, de l'inclusion jusqu'à la fin de l'étude (environ 156 semaines)."
+}

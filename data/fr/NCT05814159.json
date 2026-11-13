@@ -1,0 +1,38 @@
+{
+ "h": "cbbce124ffdd",
+ "date": "2026-11-13",
+ "titre": "Anakinra dans la maladie de Still (SJIA et Still de l'adulte) chez des patients japonais",
+ "question": "L'anakinra est-il plus efficace que le placebo à 2 semaines chez des patients japonais atteints de maladie de Still ?",
+ "contexte": "La maladie de Still regroupe l'arthrite juvénile idiopathique systémique (AJIs) de l'enfant et la maladie de Still de l'adulte (AOSD). C'est une maladie auto-inflammatoire marquée par une fièvre, une arthrite, un syndrome inflammatoire et un risque de syndrome d'activation macrophagique (SAM).\n\nL'interleukine-1 joue un rôle majeur dans sa physiopathologie. L'anakinra, antagoniste recombinant du récepteur de l'IL-1, est utilisé dans cette indication dans plusieurs pays. Au Japon, les options anti-IL-1 sont plus restreintes : le canakinumab est disponible, mais l'anakinra n'est pas encore autorisé dans cette indication.\n\nCette étude de phase 3 de Swedish Orphan Biovitrum est randomisée en quadruple aveugle contre placebo. Elle inclut 15 patients japonais, dès 8 mois et 10 kg, ayant une maladie active (arthrite, CRP > 30 mg/L, fièvre récente). Après 2 semaines en double aveugle, tous reçoivent l'anakinra en ouvert pendant 52 semaines, avec une extension possible de 26 semaines. L'efficacité est jugée à la semaine 2 sur un critère composite d'amélioration de 30 %. Le recrutement est terminé.",
+ "interet": "Elle pourrait soutenir l'enregistrement de l'anakinra dans la maladie de Still au Japon. Elle apporte des données contrôlées dans une maladie rare, chez l'enfant comme chez l'adulte.",
+ "profil": "Des enfants (dès 8 mois et 10 kg) et des adultes japonais atteints de maladie de Still active (AJIs ou AOSD).",
+ "inclusion": [
+  "Âge d'au moins 8 mois et poids d'au moins 10 kg",
+  "Maladie de Still : critères CARRA/ILAR adaptés (début avant 16 ans) ou critères de Yamaguchi (début à 16 ans ou plus)",
+  "Arthrite active sur au moins une articulation",
+  "CRP > 30 mg/L",
+  "Au moins un épisode fébrile (≥ 38 °C) dans la semaine précédant l'inclusion",
+  "Test de tuberculose négatif dans les 8 semaines précédentes"
+ ],
+ "exclusion": [
+  "Traitement antérieur ou en cours par anakinra ou autre anti-IL-1 (canakinumab toléré après lavage de 130 jours, sauf échec)",
+  "Traitements récents par corticoïdes en injection, immunoglobulines, anti-TNF, tocilizumab, rituximab ou immunosuppresseurs, selon des délais précis",
+  "Vaccin vivant dans les 4 semaines",
+  "Infection active ou chronique (tuberculose, VIH, VHB, VHC, COVID-19)",
+  "Atteinte hépatique, insuffisance rénale chronique sévère (stades 4 et 5)",
+  "Neutropénie (PNN < 1,5 G/L) ou thrombopénie (< 100 G/L)",
+  "SAM actuel ou datant de moins de 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Anakinra",
+   "traitement": "100 mg par jour par voie sous-cutanée (poids ≥ 50 kg) ou 2 mg/kg par jour (poids < 50 kg)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo de volume correspondant, pendant 2 semaines, puis anakinra en ouvert"
+  }
+ ],
+ "duree": "Environ 54 semaines pour la phase principale (2 semaines en aveugle, 52 en ouvert), plus 26 semaines d'extension optionnelle",
+ "critere": "Amélioration d'au moins 30 % par rapport à l'inclusion des critères d'activité (évaluations globales médecin et patient/parents, articulations actives et limitées, fonction CHAQ/SHAQ, CRP) à la semaine 2"
+}

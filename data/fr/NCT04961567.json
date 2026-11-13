@@ -1,0 +1,31 @@
+{
+ "h": "6ede0de104a4",
+ "date": "2026-11-13",
+ "titre": "Litifilimab sous-cutané contre placebo dans le lupus systémique actif",
+ "question": "Le litifilimab, ajouté au traitement habituel, réduit-il l'activité du lupus systémique à 52 semaines par rapport au placebo ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène, évoluant par poussées, dont la prise en charge repose sur les antipaludéens, les corticoïdes et les immunosuppresseurs. Les biothérapies autorisées restent peu nombreuses et une part importante des patients conserve une maladie active, avec une exposition prolongée aux corticoïdes.\n\nLe litifilimab (BIIB059) est un anticorps dirigé contre BDCA2, un récepteur exprimé par les cellules dendritiques plasmacytoïdes. Sa fixation réduit la production d'interféron de type I, une voie centrale dans la physiopathologie du lupus.\n\nTOPAZ-2 est un essai de phase 3 randomisé en double aveugle, promu par Biogen, avec 562 participants inclus. Les patients ont un LES actif malgré un traitement de fond stable non biologique. Ils sont randomisés entre litifilimab à forte dose, à faible dose ou placebo, en injection sous-cutanée toutes les 4 semaines, avec une dose supplémentaire à la semaine 2, pendant 52 semaines. L'efficacité est mesurée par le SRI-4, avec des critères secondaires sur les poussées, l'atteinte cutanée et articulaire, l'épargne cortisonique et la qualité de vie. Cet essai est mené en parallèle d'une étude jumelle, non décrite dans ce registre.",
+ "interet": "Si l'étude est positive, le litifilimab pourrait devenir une option ciblant la voie de l'interféron dans le LES actif. Les critères secondaires renseigneront aussi sur les atteintes cutanée et articulaire et sur l'épargne cortisonique.",
+ "profil": "Des adultes atteints de lupus systémique actif malgré un traitement de fond non biologique stable.",
+ "inclusion": [
+  "LES diagnostiqué depuis au moins 24 semaines et répondant aux critères de classification EULAR/ACR 2019",
+  "SLEDAI-2K modifié d'au moins 6 au dépistage",
+  "SLEDAI-2K clinique modifié d'au moins 4 au dépistage et à la randomisation",
+  "BILAG-2004 : grade A dans au moins un organe ou grade B dans au moins deux organes",
+  "Traitement de fond non biologique stable depuis au moins 4 semaines : antipaludéens, corticoïdes oraux et/ou un immunosuppresseur"
+ ],
+ "exclusion": [
+  "Infection par le VIH, hépatite C ou hépatite B active",
+  "Antécédent d'infection herpétique sévère",
+  "Insuffisance cardiaque non contrôlée ou NYHA III-IV",
+  "Néphrite lupique sévère active, rapport protéinurie/créatininurie supérieur à 2,0 ou DFG inférieur à 30 mL/min/1,73 m²",
+  "Lupus neuropsychiatrique actif ou vascularite non liée au LES",
+  "Prednisone supérieure à 20 mg/j ou affection cutanée autre que le lupus cutané gênant l'évaluation"
+ ],
+ "bras": [
+  { "nom": "Litifilimab forte dose", "traitement": "Litifilimab sous-cutané toutes les 4 semaines jusqu'à la semaine 48, avec une dose supplémentaire à la semaine 2" },
+  { "nom": "Litifilimab faible dose", "traitement": "Litifilimab sous-cutané toutes les 4 semaines jusqu'à la semaine 48, avec une dose supplémentaire à la semaine 2" },
+  { "nom": "Placebo", "traitement": "Placebo identique sous-cutané, même rythme, en plus du traitement de fond" }
+ ],
+ "duree": "52 semaines de traitement puis jusqu'à 24 semaines de suivi (environ 80 semaines au total)",
+ "critere": "Pourcentage de patients en réponse SRI-4 à la semaine 52"
+}

@@ -1,0 +1,24 @@
+{
+ "h": "98261d684409",
+ "date": "2026-11-13",
+ "titre": "Accès prolongé au deucravacitinib après des études sur le lupus, le Sjögren et le psoriasis pédiatrique",
+ "question": "Les patients ayant terminé une étude parente peuvent-ils poursuivre le deucravacitinib, et avec quelle tolérance à long terme ?",
+ "contexte": "Le deucravacitinib est un inhibiteur sélectif de la tyrosine kinase 2 (TYK2), qui bloque la signalisation de l'interféron de type I, de l'IL-23 et de l'IL-12. Il est déjà utilisé dans le psoriasis en plaques de l'adulte. Son rôle est exploré dans plusieurs maladies à médiation immune, dont le lupus érythémateux systémique (LES) et le syndrome de Sjögren, où la voie de l'interféron joue un rôle important.\n\nLe LES et le syndrome de Sjögren restent des maladies pour lesquelles les options thérapeutiques ciblées sont limitées. Chez l'enfant, le psoriasis et le rhumatisme psoriasique disposent également de peu de traitements systémiques autorisés.\n\nCette étude de phase 3 est un protocole de continuation, ouvert et sans comparateur, promu par Bristol-Myers Squibb. Elle permet de poursuivre le deucravacitinib chez les participants adultes atteints de LES ou de syndrome de Sjögren, et chez les enfants atteints de psoriasis ou de rhumatisme psoriasique, ayant terminé une étude parente qualifiante. Elle ne vise pas à tester une hypothèse d'efficacité : le critère principal est le nombre de participants traités. Elle fournira des données de sécurité à plus long terme. Le démarrage est prévu fin 2026.",
+ "interet": "L'étude garantit la continuité du traitement après les essais parents. Elle devrait aussi apporter des données de tolérance à long terme dans des populations adultes et pédiatriques.",
+ "profil": "Des patients de 4 à 75 ans ayant terminé une étude parente sur le deucravacitinib dans le LES, le syndrome de Sjögren, le psoriasis ou le rhumatisme psoriasique.",
+ "inclusion": [
+  "Avoir terminé la période de traitement requise d'une étude parente qualifiante",
+  "Études parentes concernées : IM011-246, IM011-247, IM011-1069, IM011-126, IM011-1128 et IM011-1071",
+  "Autres critères définis par le protocole : non précisés"
+ ],
+ "exclusion": [
+  "Maladie ou affection rendant le patient inapte selon le médecin",
+  "Affection pouvant gêner l'interprétation de la tolérance",
+  "Autres critères d'exclusion définis par le protocole : non précisés"
+ ],
+ "bras": [
+  { "nom": "Deucravacitinib", "traitement": "Deucravacitinib en continuation ; dose et rythme non précisés" }
+ ],
+ "duree": "Non précisé ; fin de l'étude prévue en octobre 2030",
+ "critere": "Nombre de participants traités, jusqu'à environ 28 jours après la dernière dose de deucravacitinib"
+}

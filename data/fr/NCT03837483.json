@@ -1,0 +1,30 @@
+{
+ "h": "031a46483864",
+ "date": "2026-11-13",
+ "titre": "Thérapie génique OTL-103 cryopréservée dans le syndrome de Wiskott-Aldrich",
+ "question": "La thérapie génique par cellules CD34+ autologues cryopréservées (OTL-103) réduit-elle les infections sévères et les hémorragies dans le syndrome de Wiskott-Aldrich ?",
+ "contexte": "Le syndrome de Wiskott-Aldrich (WAS) est un déficit immunitaire primitif lié à l'X, dû à des mutations du gène WAS. Il associe thrombopénie avec petites plaquettes, eczéma, infections récurrentes, auto-immunité et risque accru de lymphomes. Les hémorragies et les infections sévères sont des causes majeures de morbidité.\n\nLa greffe de cellules souches hématopoïétiques est le traitement curatif de référence, avec les meilleurs résultats lorsqu'un donneur HLA-identique apparenté est disponible. Elle reste plus risquée avec d'autres types de donneurs, d'où l'intérêt de la thérapie génique autologue.\n\nL'OTL-103 est constitué de cellules CD34+ du patient, transduites ex vivo par un vecteur lentiviral de troisième génération portant l'ADNc de WAS. Cette étude de phase 3, à bras unique et ouverte, évalue une formulation cryopréservée du produit. Elle est promue par la Fondazione Telethon, avec l'hôpital San Raffaele. Elle a inclus 10 patients dans 2 pays et n'est plus en recrutement. Les critères principaux comparent les infections sévères et les hémorragies après la thérapie à l'année précédente.",
+ "interet": "Elle pourrait valider une formulation cryopréservée, plus facile à produire et à transporter, de la thérapie génique du WAS. Elle pourrait élargir l'accès à une option curative pour les patients sans donneur HLA-identique apparenté.",
+ "profil": "Des patients de 65 ans ou moins atteints de syndrome de Wiskott-Aldrich sans donneur HLA-identique apparenté.",
+ "inclusion": [
+  "Âge jusqu'à 65 ans",
+  "Diagnostic de WAS : mutation génétique et au moins un critère parmi mutation sévère, absence d'expression de WASP en cytométrie ou score clinique de Zhu ≥ 3",
+  "Absence de donneur HLA-identique apparenté pour une greffe de cellules souches"
+ ],
+ "exclusion": [
+  "Défaillance d'organe, infection sévère non contrôlée ou autre maladie grave",
+  "Tumeur maligne (sauf cancer cutané local) ou syndrome héréditaire de prédisposition aux cancers",
+  "Myélodysplasie, anomalies cytogénétiques de SMD ou de LAM, autre hémopathie grave",
+  "Infection par le VIH, hépatite B ou ARN du VHC positif",
+  "Greffe allogénique antérieure avec cellules du donneur résiduelles ou thérapie génique antérieure",
+  "Patients non éligibles à la mobilisation des cellules CD34+"
+ ],
+ "bras": [
+  {
+   "nom": "Thérapie génique",
+   "traitement": "OTL-103 : cellules souches hématopoïétiques CD34+ autologues transduites ex vivo par vecteur lentiviral portant le gène WAS, formulation cryopréservée"
+  }
+ ],
+ "duree": "Non précisé (critères évalués à 12 et 18 mois ; fin d'étude prévue en 2027)",
+ "critere": "Taux annualisé d'infections sévères entre 6 et 18 mois après la thérapie génique, comparé à l'année précédente ; taux annualisé d'hémorragies modérées et sévères jusqu'à 1 an après, comparé à l'année précédente"
+}

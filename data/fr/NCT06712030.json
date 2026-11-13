@@ -1,0 +1,36 @@
+{
+ "h": "dbe230b01a87",
+ "date": "2026-11-13",
+ "titre": "Sacubitril/valsartan dans l'amylose cardiaque à transthyrétine avec insuffisance cardiaque à FEVG réduite",
+ "question": "Le sacubitril/valsartan améliore-t-il la fonction systolique, par rapport à l'absence de traitement, chez les patients ayant une amylose cardiaque ATTR et une FEVG ≤ 40 % ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR) est une cause fréquente et sous-diagnostiquée d'insuffisance cardiaque. Elle touche des patients à fraction d'éjection préservée comme des patients à fonction systolique altérée.\n\nOn ne sait pas bien si les patients ATTR avec FEVG réduite tirent bénéfice des traitements recommandés dans l'insuffisance cardiaque. Il est même discuté que les inhibiteurs du système rénine-angiotensine et de la néprilysine puissent être mal tolérés ou délétères dans cette maladie, notamment du fait de l'hypotension.\n\nCet essai espagnol, randomisé, multicentrique et ouvert, compare le sacubitril/valsartan, à la dose maximale tolérée, à l'absence d'initiation du traitement. Il prévoit 114 patients dans quatre centres, avec stratification sur le centre et sur le traitement par tafamidis. Une période de run-in à faible dose évalue la tolérance avant la randomisation. Les visites ont lieu à 3, 6 et 12 mois avec évaluation clinique, biologique, électrocardiographique et échocardiographique. Une amélioration de la FEVG est définie par un gain d'au moins 5 points.",
+ "interet": "L'étude pourrait préciser si les traitements de l'insuffisance cardiaque à FEVG réduite sont utiles et sûrs en cas d'ATTR. Elle éclairerait une situation où les recommandations manquent de données.",
+ "profil": "Des adultes atteints d'amylose cardiaque ATTR (héréditaire ou sauvage) avec une FEVG ≤ 40 %.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose cardiaque ATTR diagnostiquée selon les recommandations (forme héréditaire ou sauvage)",
+  "Suivi ou évaluation initiale dans une unité d'amylose, de cardiomyopathies ou d'insuffisance cardiaque participante",
+  "FEVG ≤ 40 %, classe NYHA I à III"
+ ],
+ "exclusion": [
+  "Classe NYHA IV",
+  "Insuffisance rénale de stade 4-5 (clairance < 30 mL/min/1,73 m²)",
+  "Hyperkaliémie (> 5,4 mmol/L)",
+  "PAS < 100 mmHg sur deux mesures",
+  "IEC, ARA2 ou sacubitril/valsartan en cours",
+  "Antécédent d'angio-œdème ou d'hypersensibilité aux IEC/ARA2",
+  "Silenceurs du gène TTR ou diflunisal"
+ ],
+ "bras": [
+  {
+   "nom": "Sacubitril/valsartan",
+   "traitement": "Sacubitril/valsartan jusqu'à la dose maximale tolérée, après run-in à faible dose"
+  },
+  {
+   "nom": "Absence de traitement",
+   "traitement": "Pas d'initiation de sacubitril/valsartan"
+  }
+ ],
+ "duree": "12 mois (visites à 3, 6 et 12 mois)",
+ "critere": "Variation de la fonction systolique ventriculaire gauche (FEVG, %) mesurée par échocardiographie à 12 mois"
+}

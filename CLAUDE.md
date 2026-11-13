@@ -10,6 +10,8 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
 - `scripts/update.mjs` : collecte → `data/studies.json` (index léger, avec villes françaises `v` et molécules `iv`), `data/s/<NCT>.json` (fiche complète),
   `data/todo.json` (fiches en français à rédiger, par ordre de priorité).
 - `data/fr/<NCT>.json` : fiches en français (cache ; ne jamais les supprimer).
+- `data/res/<NCT>.json` : synthèse des résultats publiés (cache ; ne jamais les supprimer) ; `data/todo-res.json` : études
+  dont une publication liée reste à examiner ; `tmp/abs/<NCT>.txt` : résumés PubMed téléchargés par la collecte (hors dépôt).
 
 ## Mise à jour hebdomadaire (tâche Claude du lundi)
 
@@ -19,10 +21,12 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
    études françaises d'abord, puis phases 3-4 et études avec résultats). Pour chaque entrée, lire `data/s/<id>.json` et écrire `data/fr/<id>.json`
    au format ci-dessous, avec le champ `h` recopié tel quel depuis `todo.json`. Paralléliser avec des
    sous-agents (lots d'environ 10 fiches).
-3. `OFFLINE=1 node scripts/update.mjs` pour intégrer les fiches.
-4. Vérifier que `data/studies.json` se charge (`node -e 'require("./data/studies.json")'`), puis
+3. Lire `data/todo-res.json` (en général quelques études) et, pour chacune, écrire `data/res/<id>.json` au format
+   « synthèse de résultats » ci-dessous à partir de `data/s/<id>.json` et de `tmp/abs/<id>.txt`.
+4. `OFFLINE=1 node scripts/update.mjs` pour intégrer les fiches et les synthèses.
+5. Vérifier que `data/studies.json` se charge (`node -e 'require("./data/studies.json")'`), puis
    `git add -A && git commit -m "Mise à jour hebdomadaire des études (AAAA-MM-JJ)" && git push origin main`.
-5. Résumer en quelques lignes : nombre d'études, nouvelles études françaises, changements de statut, fiches rédigées.
+6. Résumer en quelques lignes : nombre d'études, nouvelles études françaises, changements de statut, fiches et synthèses rédigées.
 
 ## Format d'une fiche `data/fr/<id>.json`
 
@@ -52,3 +56,20 @@ Règles de rédaction (lecteurs : médecins français qui veulent s'informer en 
   résultats de l'étude ni de chiffres absents du registre.
 - Critères : condensés depuis le registre, sans en ajouter. Information absente : « non précisé ».
 - Étude observationnelle : `bras` décrit les groupes ou cohortes suivis.
+
+## Format d'une synthèse de résultats `data/res/<id>.json`
+
+```json
+{
+ "pmids": ["<tous les PMID de `pubs` examinés, recopiés depuis todo-res.json>"],
+ "date": "AAAA-MM-JJ",
+ "pmid": "<PMID de la publication principale>",
+ "ref": "Premier auteur et al., Journal abrégé, année",
+ "resultat": "Une à deux phrases (≤ 380 caractères) : ce que l'étude a montré sur son critère principal, avec les chiffres du résumé"
+}
+```
+
+- Ne retenir que la publication qui rapporte les résultats principaux de l'étude (critère de jugement principal). Protocole,
+  revue, analyse ancillaire ou post hoc, article d'une autre étude : écrire seulement `{ "pmids": [...], "date": "...", "skip": true }`.
+- Tout vient du résumé PubMed : aucun chiffre ni conclusion qui n'y figure pas, pas d'extrapolation ni de jugement sur la
+  pratique. Résultat négatif : le dire simplement. En cas de doute, `skip`.

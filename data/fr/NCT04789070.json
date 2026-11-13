@@ -1,0 +1,31 @@
+{
+ "h": "b36aa239e486",
+ "date": "2026-11-13",
+ "titre": "Sirolimus contre placebo pour ralentir la progression de la myosite à inclusions",
+ "question": "Le sirolimus ralentit-il la dégradation fonctionnelle mesurée par l'IBM-FRS chez des patients atteints de myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est la myopathie inflammatoire la plus fréquente après 50 ans. Elle associe une atteinte des quadriceps et des fléchisseurs des doigts, une dysphagie fréquente et une évolution lentement progressive. Elle ne répond pas aux corticoïdes ni aux immunosuppresseurs classiques, et aucun traitement de fond n'est validé. La prise en charge reste symptomatique : rééducation, aides techniques, prise en charge de la dysphagie.\n\nLe sirolimus (rapamycine), utilisé en transplantation, bloque l'activité des lymphocytes T effecteurs tout en préservant les lymphocytes T régulateurs. Il induit aussi l'autophagie, un mécanisme de dégradation des protéines altéré dans cette maladie. Le registre indique que cet essai de phase 3 vise à confirmer des données pilotes ayant montré un résultat clinique statistiquement significatif, sans en donner les chiffres. L'étude est randomisée en double insu contre placebo, avec 140 patients et un suivi jusqu'à la semaine 84. Le promoteur indiqué est l'University of Kansas Medical Center. L'étude n'est plus en recrutement.",
+ "interet": "Un résultat positif ferait du sirolimus le premier traitement de fond de la myosite à inclusions, maladie sans option thérapeutique validée. La tolérance à long terme, notamment rénale et infectieuse, sera à examiner.",
+ "profil": "Des adultes de 45 ans ou plus atteints de myosite à inclusions, encore capables de marcher et en progression documentée.",
+ "inclusion": [
+  "Âge de 45 ans ou plus",
+  "Diagnostic d'IBM selon les critères ENMC 2011",
+  "Capacité de marcher au moins 200 m en 6 minutes (aides à la marche autorisées)",
+  "Progression de la maladie dans les 12 mois précédents, évaluée par un spécialiste neuromusculaire",
+  "Consentement écrit éclairé"
+ ],
+ "exclusion": [
+  "Distance de marche inférieure à 200 m au test de marche de 6 minutes",
+  "Incapacité d'avaler le traitement ou de réaliser les tests de l'étude",
+  "Hypersensibilité au sirolimus ou à l'évérolimus ; exposition à l'un d'eux dans les 6 mois",
+  "Insuffisance respiratoire modérée à sévère (CVF < 50 % de la théorique)",
+  "Insuffisance rénale sévère (DFG < 30 ml/min) ou protéinurie importante",
+  "Hépatopathie chronique ou ALAT/ASAT > 3 fois la normale (hors cause musculaire)",
+  "Cancer dans les 5 dernières années (hors cancers cutanés localisés)"
+ ],
+ "bras": [
+  { "nom": "Sirolimus", "traitement": "Sirolimus, capsules de 2 mg une fois par jour" },
+  { "nom": "Placebo", "traitement": "Placebo, capsules d'aspect identique une fois par jour" }
+ ],
+ "duree": "84 semaines",
+ "critere": "Variation du score IBM-FRS (échelle fonctionnelle de la myosite à inclusions) entre l'inclusion et la semaine 84"
+}

@@ -1,0 +1,34 @@
+{
+ "h": "929dd1e5707b",
+ "date": "2026-11-13",
+ "titre": "Aspirine à faible dose pour prévenir les complications ischémiques de l'artérite à cellules géantes (pilote)",
+ "question": "Est-il faisable de mener un grand essai testant l'aspirine 80 mg/j contre placebo pour prévenir les événements ischémiques dans l'ACG ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente du sujet de plus de 50 ans. Outre la perte visuelle, elle expose à des complications ischémiques, notamment cérébrovasculaires et coronaires, surtout autour du diagnostic.\n\nLe traitement de référence repose sur la corticothérapie, associée selon les cas au tocilizumab ou au méthotrexate. Le rôle d'un traitement antiplaquettaire systématique reste débattu et les données disponibles sont surtout observationnelles. Aucun essai randomisé n'a tranché la question de l'aspirine à faible dose en prévention de ces événements.\n\nCet essai pilote canadien, mené dans le réseau CanVasc, est randomisé en double aveugle contre placebo et décentralisé, avec des procédures réalisées à distance. Il inclut 120 patients ayant un diagnostic récent d'ACG, répartis 1:1 entre aspirine 80 mg/j et placebo pendant 52 semaines, en plus du traitement standard. Son but n'est pas de démontrer l'efficacité mais de vérifier la faisabilité d'un futur essai international : taux de recrutement, initiation du traitement, observance, rétention et exhaustivité du suivi.",
+ "interet": "Si la faisabilité est confirmée, un essai de grande taille pourra établir si l'aspirine à faible dose réduit les complications ischémiques dans l'ACG. Cela pourrait faire évoluer la prise en charge initiale de tous les patients.",
+ "profil": "Des adultes de 50 ans et plus ayant une ACG diagnostiquée depuis 30 jours ou moins.",
+ "inclusion": [
+  "Adulte avec ACG nouvellement diagnostiquée (≤ 30 jours)",
+  "Critères de classification ACR-EULAR 2022, avec histologie de l'artère temporale positive ou imagerie compatible",
+  "Traitement standard de l'ACG débuté, avec ou sans corticoïdes IV",
+  "Capacité à consentir et à réaliser les procédures à distance"
+ ],
+ "exclusion": [
+  "Indication établie d'antiagrégant (infarctus, AVC, AIT, artériopathie connue)",
+  "Perte visuelle permanente bilatérale pendant le dépistage",
+  "Anticoagulation thérapeutique chronique",
+  "Pathologie limitant la survie à moins d'un an",
+  "Contre-indication à l'aspirine à faible dose"
+ ],
+ "bras": [
+  {
+   "nom": "Aspirine",
+   "traitement": "Acide acétylsalicylique 80 mg par voie orale, une fois par jour, 52 semaines, en plus du traitement standard"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique, une fois par jour, 52 semaines, en plus du traitement standard"
+  }
+ ],
+ "duree": "52 semaines de traitement puis suivi jusqu'à 13 mois",
+ "critere": "Taux de recrutement, exprimé en nombre de participants randomisés par centre et par mois, pendant toute l'étude (environ 18 mois en moyenne)"
+}

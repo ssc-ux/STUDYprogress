@@ -1,0 +1,36 @@
+{
+ "h": "9a5d0bd67c3a",
+ "date": "2026-11-13",
+ "titre": "Sovleplenib (HMPL-523) contre placebo dans l'anémie hémolytique auto-immune à anticorps chauds",
+ "question": "Le sovleplenib, inhibiteur de Syk, permet-il d'obtenir une réponse durable de l'hémoglobine dans l'AHAI à anticorps chauds ?",
+ "contexte": "L'anémie hémolytique auto-immune à anticorps chauds (AHAI) est la forme la plus fréquente d'AHAI. Le traitement de première ligne repose sur les corticoïdes, souvent suivis du rituximab. Les rechutes, la corticodépendance et les effets indésirables des corticoïdes laissent un besoin non couvert.\n\nLe sovleplenib (HMPL-523) est un inhibiteur oral de la tyrosine kinase Syk. Cette voie intervient dans la phagocytose des globules rouges opsonisés par les macrophages, ce qui fonde l'intérêt de la molécule dans cette maladie.\n\nL'étude, promue par Hutchmed et menée dans 39 centres en Chine, associe plusieurs phases. La phase II est randomisée en double aveugle contre placebo pendant 8 semaines, suivie d'au moins 16 semaines en ouvert. La phase III partie A dure 24 semaines en double aveugle contre placebo, et la partie B est une extension ouverte de tolérance à long terme. Le sovleplenib est administré à 300 mg une fois par jour. L'étude compte 111 patients inclus et le recrutement est terminé.",
+ "interet": "Si l'efficacité est confirmée, le sovleplenib serait une option orale ciblée pour les AHAI à anticorps chauds. Il élargirait l'arsenal au-delà des corticoïdes et du rituximab.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'AHAI à anticorps chauds, primaire ou secondaire stable.",
+ "inclusion": [
+  "Consentement signé",
+  "Âge de 18 à 75 ans",
+  "AHAI à anticorps chauds primaire, ou secondaire avec maladie sous-jacente stable",
+  "Fonction des organes satisfaisante"
+ ],
+ "exclusion": [
+  "Autre type d'AHAI que celle à anticorps chauds",
+  "AHAI secondaire avec maladie sous-jacente instable ou d'origine médicamenteuse",
+  "Infection nécessitant un traitement systémique",
+  "Traitement antérieur par inhibiteur de Syk (par ex. fostamatinib)",
+  "Allergie connue au produit ou aux excipients",
+  "Trouble psychiatrique sévère, alcoolisme ou toxicomanie",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "HMPL-523",
+   "traitement": "Sovleplenib 300 mg par voie orale une fois par jour, 8 semaines (phase II) ou 24 semaines (phase III partie A), puis extension ouverte"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique, une fois par jour, 8 semaines (phase II) ou 24 semaines (phase III partie A)"
+  }
+ ],
+ "duree": "24 semaines en double aveugle, puis phase ouverte de durée variable",
+ "critere": "Phase II : taux de réponse globale de l'hémoglobine à 24 semaines ; phase III (partie A) : taux de réponse durable de l'hémoglobine sur les semaines 5 à 24"
+}

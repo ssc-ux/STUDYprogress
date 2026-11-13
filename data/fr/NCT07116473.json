@@ -1,0 +1,30 @@
+{
+ "h": "56ef6746cc50",
+ "date": "2026-11-13",
+ "titre": "Extension ouverte de l'acoramidis dans l'amylose cardiaque à TTR nouvellement diagnostiquée",
+ "question": "L'acoramidis est-il sûr et bien toléré à long terme chez des patients venant de développer une amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose à transthyrétine (ATTR) est liée au dépôt de transthyrétine mal repliée, héréditaire (variants pathogènes de TTR) ou sauvage. Elle provoque une cardiomyopathie (ATTR-CM) et parfois une polyneuropathie (ATTR-PN). Elle entraîne insuffisance cardiaque et décès si elle n'est pas traitée.\n\nL'acoramidis est un stabilisateur de la transthyrétine, administré par voie orale. D'après le registre, il est autorisé dans l'ATTR-CM dans l'Union européenne, aux États-Unis et dans plusieurs autres régions. L'essai ACT-EARLY (AG10-501) évalue si l'acoramidis peut prévenir ou retarder l'apparition de la maladie chez des porteurs sains d'un variant pathogène de TTR. Cette étude AG10-504 en est l'extension ouverte. Elle accueille uniquement les participants d'ACT-EARLY chez qui une ATTR-CM a été diagnostiquée. Tous reçoivent l'acoramidis (712 mg deux fois par jour). Le suivi peut atteindre 5 ans. L'objectif principal est la sécurité et la tolérance à long terme ; il n'y a pas de groupe comparateur.",
+ "interet": "L'étude documentera la sécurité à long terme de l'acoramidis lorsqu'il est instauré dès le diagnostic chez des porteurs de variant suivis de façon rapprochée. Elle prolonge ainsi les données de l'étude de prévention ACT-EARLY.",
+ "profil": "Des adultes porteurs d'un variant de TTR ayant développé une ATTR-CM pendant l'étude ACT-EARLY.",
+ "inclusion": [
+  "Avoir terminé l'étude AG10-501 (ACT-EARLY) depuis moins de 60 jours",
+  "Diagnostic d'ATTR-CM posé dans AG10-501 selon la définition de son protocole",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Diagnostic d'ATTR-PN seule, ou arrêt définitif du traitement avant le diagnostic d'ATTR-CM dans AG10-501",
+  "Antécédent d'amylose AL ou d'un autre type non TTR",
+  "Gammapathie monoclonale pour laquelle une amylose AL n'est pas écartée",
+  "Insuffisance rénale chronique de stade IV ou V",
+  "Cancer actif (hors exceptions cutanées et col in situ), greffe d'organe",
+  "Traitement anti-ATTR en cours, y compris hors AMM ou en vente libre"
+ ],
+ "bras": [
+  {
+   "nom": "Acoramidis",
+   "traitement": "Acoramidis 712 mg par voie orale, deux fois par jour (équivalent à 800 mg d'acoramidis HCl)"
+  }
+ ],
+ "duree": "Jusqu'à 5 ans",
+ "critere": "Sécurité et tolérance à long terme de l'acoramidis, pendant la participation (jusqu'à 5 ans)."
+}

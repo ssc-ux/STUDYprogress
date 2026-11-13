@@ -1,0 +1,40 @@
+{
+ "h": "f368e6e60b8c",
+ "date": "2026-11-13",
+ "titre": "Garétosmab chez l'enfant et l'adolescent atteints de fibrodysplasie ossifiante progressive",
+ "question": "Le garétosmab est-il sûr et correctement toléré chez l'enfant et l'adolescent atteints de FOP, et quelle est sa pharmacocinétique ?",
+ "contexte": "La fibrodysplasie ossifiante progressive (FOP) est une maladie génétique ultra-rare, liée à une mutation activatrice du gène ACVR1. Elle provoque des ossifications hétérotopiques progressives des muscles, tendons et ligaments, le plus souvent déclenchées par des poussées inflammatoires (flare-ups) ou des traumatismes. Ces ossifications entraînent une perte de mobilité cumulative et irréversible, qui débute dès l'enfance.\n\nLe traitement disponible reste limité. Le palovarotène est un agoniste du récepteur gamma de l'acide rétinoïque, dont l'usage chez l'enfant en croissance est encadré par des préoccupations sur le cartilage de croissance. L'activine A joue un rôle central dans la signalisation pathologique de la FOP : la protéine ACVR1 mutée répond à l'activine A comme à un signal d'ossification. Le garétosmab est un anticorps monoclonal dirigé contre l'activine A, développé par Regeneron.\n\nCette étude de phase 3 non randomisée, à bras unique, évalue le garétosmab chez 18 enfants et adolescents, répartis en trois cohortes selon l'âge et le poids. Elle porte d'abord sur la sécurité, la pharmacocinétique et l'immunogénicité, avec des âges d'inclusion différents selon les pays (dès 2 ans hors États-Unis, dès 4 ans aux États-Unis). Elle n'est pas encore ouverte aux inclusions.",
+ "interet": "Elle pourrait fournir les premières données pédiatriques d'un anticorps anti-activine A dans la FOP, maladie où la prise en charge précoce de l'enfant est déterminante. Elle pourrait aussi soutenir une extension d'indication aux plus jeunes.",
+ "profil": "Des enfants et adolescents (2 ou 4 à moins de 18 ans selon le pays) atteints de FOP confirmée.",
+ "inclusion": [
+  "Âge de 4 à moins de 18 ans (États-Unis) ou de 2 à moins de 18 ans (hors États-Unis)",
+  "Diagnostic de FOP confirmé selon le protocole",
+  "Poids supérieur à 30 kg (cohortes 1 et 2)",
+  "Poids inférieur ou égal à 30 kg (cohorte 3)"
+ ],
+ "exclusion": [
+  "Score CAJIS supérieur à 19 au dépistage",
+  "Maladie concomitante ou antécédent significatif selon le protocole",
+  "Antécédent de cancer",
+  "Infection virale ou bactérienne significative en cours (dans les 2 semaines précédant la première dose)",
+  "Atteinte respiratoire sévère ayant nécessité oxygène ou assistance respiratoire",
+  "Malformation vasculaire cérébrale connue ou antécédent d'hémorragie non traumatique sévère ou de diathèse hémorragique",
+  "Palovarotène pris dans les 30 jours ou 5 demi-vies"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1 : adolescents",
+   "traitement": "Garétosmab, 12 à 18 ans (posologie non précisée)"
+  },
+  {
+   "nom": "Cohorte 2 : enfants",
+   "traitement": "Garétosmab, 4 à 12 ans (2 à 12 ans hors États-Unis), posologie non précisée"
+  },
+  {
+   "nom": "Cohorte 3 : enfants et adolescents",
+   "traitement": "Garétosmab, 4 à 18 ans (2 à 18 ans hors États-Unis), posologie non précisée"
+  }
+ ],
+ "duree": "56 semaines au moins (période d'évaluation principale)",
+ "critere": "Fréquence et gravité des événements indésirables survenus sous traitement, et concentrations sériques de garétosmab fonctionnel, jusqu'à la semaine 56"
+}

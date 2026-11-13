@@ -1,0 +1,35 @@
+{
+ "h": "f1770880ef89",
+ "date": "2026-11-13",
+ "titre": "Protocole international de traitement de l'histiocytose langerhansienne de l'enfant, stratifié par strates",
+ "question": "Une prise en charge adaptée à la présentation et à la réponse permet-elle de réduire les réactivations et les séquelles de l'histiocytose langerhansienne de l'enfant ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) de l'enfant est une maladie rare, de présentation très variable : atteinte osseuse isolée, atteinte multisystémique, avec ou sans atteinte d'organes à risque (foie, rate, moelle). Les formes multisystémiques sont traitées depuis des années par l'association vinblastine et prednisone. Le précédent essai international LCH-III a confirmé ce schéma et montré qu'un traitement de 12 mois, plutôt que 6, réduisait les réactivations dans le groupe à risque.\n\nLes réactivations et les séquelles permanentes, comme le diabète insipide, le déficit en hormone de croissance ou l'atteinte neurodégénérative, restent un problème majeur. Le sous-groupe réfractaire avec dysfonction d'organe à risque garde un pronostic réservé.\n\nLCH-IV est un protocole international multicentrique, promu par le North American Consortium for Histiocytosis, qui adapte le traitement en sept strates. La strate I est le traitement de première ligne. Les strates II et III concernent les deuxièmes lignes et le sauvetage. La strate IV propose une greffe de cellules souches à conditionnement atténué. La strate V traite les atteintes tumorales et neurodégénératives du système nerveux central. La strate VI suit les formes mineures et la strate VII le suivi à long terme. Dans la strate I, l'étude compare des durées de 12 et 24 mois et l'ajout de mercaptopurine. En strate II, une randomisation compare l'indométacine à l'association mercaptopurine et méthotrexate en entretien.",
+ "interet": "L'étude pourrait définir la durée et l'intensité optimales du traitement de première ligne de l'HCL pédiatrique. Elle pourrait aussi préciser la place des options de sauvetage et de la greffe dans les formes réfractaires à risque.",
+ "profil": "Des enfants et adolescents de moins de 18 ans atteints d'histiocytose langerhansienne confirmée histologiquement.",
+ "inclusion": [
+  "Âge de moins de 18 ans au diagnostic",
+  "Diagnostic histologique d'HCL et consentement signé",
+  "Strate II : progression, maladie active ou réactivation en organes non à risque après la strate I",
+  "Strate III : échec en organes à risque avec dysfonction sévère hématologique ou hépatique",
+  "Strate IV : échec en strate I ou III avec dysfonction sévère, et fonction d'organe suffisante pour une greffe à conditionnement atténué",
+  "Strate V : HCL avec IRM compatible avec une atteinte neurodégénérative du système nerveux central"
+ ],
+ "exclusion": [
+  "Absence de consentement écrit du patient ou de ses parents",
+  "Strate II : progression en organes à risque, ou séquelles permanentes sans maladie active",
+  "Strate III : cholangite sclérosante isolée sans HCL hépatique active, ou créatinine supérieure à 3 fois la normale pour l'âge",
+  "Strate IV : insuffisance respiratoire non liée à l'HCL, infection grave non contrôlée, DFG inférieur à 50 mL/min/1,73 m²",
+  "Strate IV : grossesse ou allaitement",
+  "Strate VI : lésion tumorale isolée du système nerveux central (strate V) ou atteinte osseuse multifocale ou à risque (strate I)"
+ ],
+ "bras": [
+  { "nom": "Strate I (première ligne)", "traitement": "Prednisone et vinblastine, avec prolongation (12 contre 24 mois) et ajout éventuel de mercaptopurine" },
+  { "nom": "Strate II (deuxième ligne, formes non à risque)", "traitement": "Cure de 24 semaines de prednisolone, vincristine et cytarabine, puis entretien avec randomisation indométacine contre mercaptopurine et méthotrexate" },
+  { "nom": "Strate III (sauvetage des formes à risque)", "traitement": "2 cures de 2-CdA (cladribine) et cytarabine" },
+  { "nom": "Strate IV (greffe)", "traitement": "Greffe de cellules souches hématopoïétiques à conditionnement atténué" },
+  { "nom": "Strate V (atteinte du système nerveux central)", "traitement": "Cures répétées de cladribine pour les formes tumorales ; cytarabine ou immunoglobulines IV pour les formes neurodégénératives" },
+  { "nom": "Strate VI (autres formes à atteinte unique)", "traitement": "Surveillance et traitement local, à la discrétion du médecin" }
+ ],
+ "duree": "Jusqu'à 24 mois de traitement selon la strate, puis suivi à long terme (strate VII)",
+ "critere": "Survie sans réactivation à 12 mois (strate I), avec d'autres critères propres à chaque strate : réponse à 9 semaines, survie après greffe à 1 et 3 ans, neurodégénérescence à 2 ans"
+}

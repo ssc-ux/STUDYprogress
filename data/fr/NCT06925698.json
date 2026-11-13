@@ -1,0 +1,39 @@
+{
+ "h": "4252dca51fa0",
+ "date": "2026-11-13",
+ "titre": "Rivaroxaban en plus de l'immunosuppression dans la thrombose veineuse des membres inférieurs de la maladie de Behçet",
+ "question": "Ajouter le rivaroxaban à l'immunosuppresseur réduit-il les rechutes thrombotiques dans la thrombose veineuse profonde de la maladie de Behçet ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique dont l'atteinte vasculaire la plus fréquente est la thrombose veineuse des membres inférieurs. Le traitement de référence est l'immunosuppression, par azathioprine et corticoïdes, car la thrombose est ici de nature inflammatoire.\n\nLe rôle de l'anticoagulation reste controversé. Certains craignent un risque hémorragique, surtout en cas d'anévrisme artériel pulmonaire associé, et la littérature ne tranche pas sur son bénéfice. Les syndromes post-thrombotiques sont par ailleurs fréquents.\n\nCet essai turc de phase 3, randomisé et en double aveugle contre placebo, est conduit à l'université de Marmara avec le soutien du TÜSEB. Il inclut 110 patients de 18 à 50 ans, ayant une thrombose veineuse profonde des membres inférieurs récente et sans traitement immunosuppresseur vasculaire préalable. Tous reçoivent azathioprine et méthylprednisolone, avec en plus rivaroxaban ou placebo pendant 12 mois. Les rechutes sont dépistées par échographie-Doppler veineuse. Le syndrome post-thrombotique et la sécurité hémorragique sont des critères secondaires.",
+ "interet": "L'étude pourrait indiquer si l'anticoagulation orale apporte un bénéfice en plus de l'immunosuppression dans cette indication. Elle aiderait à trancher une question débattue dans les recommandations.",
+ "profil": "Des adultes de 18 à 50 ans atteints de maladie de Behçet avec une thrombose veineuse profonde récente des membres inférieurs.",
+ "inclusion": [
+  "Âge de 18 à 50 ans",
+  "Maladie de Behçet selon les critères ISG",
+  "Pas d'atteinte vasculaire antérieure ni de traitement immunosuppresseur vasculaire antérieur",
+  "Thrombose veineuse des membres inférieurs confirmée dans les 14 jours précédant la randomisation",
+  "Thrombose confirmée par échographie, angioscanner, angio-IRM ou phlébographie",
+  "Contraception efficace si femme en âge de procréer"
+ ],
+ "exclusion": [
+  "Anévrisme, quel qu'il soit",
+  "Autre maladie systémique chronique",
+  "Intolérance au rivaroxaban",
+  "Immunosuppresseur dans les 6 mois précédents",
+  "Anticoagulation préalable (héparine > 48 h, plus d'une dose d'AVK)",
+  "Thrombectomie, filtre cave ou fibrinolyse pour l'épisode actuel",
+  "Risque hémorragique élevé, insuffisance rénale (clairance < 30 mL/min) ou hépatopathie sévère",
+  "Cancer dans les 5 dernières années"
+ ],
+ "bras": [
+  {
+   "nom": "Immunosuppression + placebo",
+   "traitement": "Azathioprine 2,5 mg/kg/j (max 200 mg) et méthylprednisolone 0,5 mg/kg/j avec décroissance sur 12 semaines, plus placebo"
+  },
+  {
+   "nom": "Immunosuppression + rivaroxaban",
+   "traitement": "Même immunosuppression, plus rivaroxaban 20 mg/j par voie orale pendant 12 mois"
+  }
+ ],
+ "duree": "12 mois (52 semaines), avec visites aux semaines 2 et 4 puis aux mois 2, 3, 6, 9 et 12",
+ "critere": "Taux de rechute thrombotique à 52 semaines, évalué par échographie-Doppler veineuse"
+}

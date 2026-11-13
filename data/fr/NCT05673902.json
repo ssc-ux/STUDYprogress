@@ -1,0 +1,31 @@
+{
+ "h": "8575a85fc7a0",
+ "date": "2026-11-13",
+ "titre": "Extension ouverte de la RPH-104 pour prévenir les récidives de péricardite récidivante idiopathique",
+ "question": "La RPH-104 au long cours est-elle bien tolérée chez les patients atteints de péricardite récidivante idiopathique ayant terminé l'étude principale ?",
+ "contexte": "La péricardite récidivante idiopathique touche une part non négligeable des patients ayant présenté un premier épisode de péricardite. Elle est source de douleurs thoraciques, d'hospitalisations et de corticodépendance. Le traitement repose sur les AINS, la colchicine et les corticoïdes.\n\nLes formes corticodépendantes ou colchicino-résistantes posent un problème thérapeutique. Le blocage de l'IL-1 a montré son intérêt dans cette indication, avec l'anakinra et le rilonacept. La RPH-104 (goflikicept) est une protéine de fusion qui piège l'IL-1, administrée par voie sous-cutanée, développée par R-Pharm.\n\nCette étude est l'extension ouverte de l'étude principale CL04018068, randomisée en double aveugle contre placebo avec un sevrage randomisé. Elle propose la RPH-104 80 mg toutes les 2 semaines, pendant 24 à 60 semaines selon la durée du traitement antérieur, suivie de 168 semaines de suivi de sécurité. Un nouveau traitement de 60 semaines est possible en cas de récidive. L'étude, menée dans un seul pays, doit inclure au plus 25 patients (17 inclus) et se concentre sur la tolérance à long terme.",
+ "interet": "Elle pourrait apporter des données de sécurité à long terme sur un anti-IL-1 dans la péricardite récidivante. Elle renseigne aussi sur l'évolution après arrêt du traitement et sur l'intérêt d'un retraitement en cas de récidive.",
+ "profil": "Des adultes atteints de péricardite récidivante idiopathique ayant terminé l'étude principale CL04018068 ou l'étude CL04018077.",
+ "inclusion": [
+  "Étude principale CL04018068 terminée selon le protocole (sevrage randomisé de 24 semaines ou traitement préparatoire), ou étude CL04018077 terminée",
+  "Consentement éclairé signé",
+  "Capacité à venir toutes les 2 semaines pour l'injection ou à s'injecter par voie sous-cutanée à domicile",
+  "Capacité à suivre le calendrier des visites et le protocole"
+ ],
+ "exclusion": [
+  "Événement important survenu dans l'étude principale contre-indiquant l'inclusion",
+  "Grossesse, allaitement ou projet de grossesse dans les 2 mois suivant la dernière dose",
+  "Absence de contraception hautement efficace (femmes en âge de procréer, hommes sexuellement actifs)",
+  "Vaccin vivant nécessaire pendant l'étude ou dans les 3 mois suivant la dernière dose",
+  "Autre pathologie ou anomalie biologique augmentant le risque, selon l'investigateur",
+  "Participation parallèle à un autre essai ou médicament expérimental récent"
+ ],
+ "bras": [
+  {
+   "nom": "RPH-104 80 mg",
+   "traitement": "80 mg par voie sous-cutanée toutes les 2 semaines pendant 24 à 60 semaines ; en cas de récidive pendant le suivi, retraitement possible (160 mg, puis 80 mg à J7 et J14, puis toutes les 2 semaines)"
+  }
+ ],
+ "duree": "24 à 60 semaines de traitement, puis 168 semaines de suivi de sécurité",
+ "critere": "Incidence des événements indésirables, des événements indésirables graves et des événements d'intérêt particulier survenus sous traitement, jusqu'à la semaine 228"
+}

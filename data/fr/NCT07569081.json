@@ -1,0 +1,32 @@
+{
+ "h": "29cb89d9e2c4",
+ "date": "2026-11-13",
+ "titre": "Momélotinib contre placebo, associé aux corticoïdes, dans le syndrome VEXAS",
+ "question": "Le momélotinib, en plus des corticoïdes, permet-il d'obtenir un taux de réponse objective supérieur au placebo à 26 semaines dans le syndrome VEXAS ?",
+ "contexte": "Le syndrome VEXAS est une maladie auto-inflammatoire de l'adulte, liée à une mutation somatique de UBA1 dans les cellules hématopoïétiques. Il associe des manifestations inflammatoires multisystémiques (cutanées, pulmonaires, chondrite, vascularite), des cytopénies et une macrocytose, avec un lien fréquent avec les syndromes myélodysplasiques. Les patients dépendent souvent de corticoïdes à fortes doses, avec une toxicité cumulée importante. Aucun traitement de fond n'a une efficacité établie de façon robuste, et le besoin non couvert est majeur.\n\nLe momélotinib est un inhibiteur de JAK1/JAK2 et d'ACVR1. Le registre ne détaille pas le rationnel propre au VEXAS. L'inhibition de JAK vise toutefois la voie inflammatoire, et la molécule est déjà utilisée dans la myélofibrose avec anémie. Cette étude adaptative de phase 2/3 est promue par GlaxoSmithKline. Elle compare deux niveaux de dose de momélotinib à un placebo, tous sur fond de corticoïdes (prednisone ou prednisolone). Le design adaptatif permet d'inclure des patients supplémentaires dans les bras retenus en phase 3. L'étude n'a pas encore débuté le recrutement.",
+ "interet": "Une réponse positive ferait du momélotinib une option ciblée pour le VEXAS, avec un possible effet d'épargne des corticoïdes. Le choix de la dose sera éclairé par la phase 2.",
+ "profil": "Des adultes atteints de syndrome VEXAS confirmé génétiquement, sous corticoïdes depuis plusieurs semaines.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Syndrome VEXAS clinique avec mutation pathogène canonique de UBA1 documentée",
+  "Manifestation inflammatoire actuelle ou datant de moins de 6 mois, touchant au moins un système d'organe",
+  "Corticoïdes (prednisone/prednisolone) pendant au moins 4 semaines consécutives avant la randomisation",
+  "Score ECOG de 0 à 2",
+  "Fonction d'organe adéquate"
+ ],
+ "exclusion": [
+  "Plus d'une admission en soins intensifs pour poussée de VEXAS dans les 6 mois précédents",
+  "Antécédent de toxicité sévère des corticoïdes (comorbidités non contrôlées)",
+  "Syndrome myélodysplasique de risque élevé ou très élevé (IPSS-R > 3,5)",
+  "Blastes sanguins ≥ 10 %",
+  "Myélome multiple ou autre dyscrasie plasmocytaire active nécessitant un traitement",
+  "Cancer évolutif ou traité dans les 24 mois (hors carcinomes cutanés basocellulaires ou épidermoïdes et SMD de bas risque)"
+ ],
+ "bras": [
+  { "nom": "Momélotinib dose 1 + corticoïdes", "traitement": "Momélotinib au niveau de dose 1, avec prednisone ou prednisolone en traitement de fond" },
+  { "nom": "Momélotinib dose 2 + corticoïdes", "traitement": "Momélotinib au niveau de dose 2, avec prednisone ou prednisolone en traitement de fond" },
+  { "nom": "Placebo + corticoïdes", "traitement": "Placebo de momélotinib, avec prednisone ou prednisolone en traitement de fond" }
+ ],
+ "duree": "Non précisé (critère principal évalué à 26 semaines)",
+ "critere": "Taux de réponse objective (ORR) à la semaine 26"
+}

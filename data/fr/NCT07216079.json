@@ -1,0 +1,29 @@
+{
+ "h": "548fc284d765",
+ "date": "2026-11-13",
+ "titre": "Extension du rilzabrutinib chez l'adulte japonais atteint de PTI chronique ayant terminé l'étude LUNA 3",
+ "question": "Le rilzabrutinib poursuivi après l'étude LUNA 3 reste-t-il bien toléré chez l'adulte japonais atteint de PTI chronique ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune caractérisée par une thrombopénie isolée par destruction plaquettaire accrue et production insuffisante. Elle expose à un risque hémorragique variable. Les traitements de première ligne sont les corticoïdes et les immunoglobulines intraveineuses.\n\nEn cas de PTI persistant ou chronique, on recourt aux agonistes du récepteur de la thrombopoïétine, au rituximab, au fostamatinib ou à la splénectomie. Ces traitements ne sont pas toujours efficaces ou tolérés, d'où le besoin de nouvelles options orales.\n\nLe rilzabrutinib est un inhibiteur de la tyrosine kinase de Bruton (BTK) réversible, administré par voie orale. Il agit sur la phagocytose médiée par les récepteurs Fc et sur la production d'auto-anticorps. Cette étude de phase 3 de Sanofi est une extension ouverte à un seul bras. Elle permet de poursuivre le rilzabrutinib 400 mg chez les adultes japonais ayant terminé l'extension à long terme de LUNA 3 avec un bénéfice jugé cliniquement pertinent. Elle est de petite taille (4 patients prévus, 3 centres) et vise la continuité du traitement ainsi que le suivi de sécurité.",
+ "interet": "Elle garantit la continuité d'accès au rilzabrutinib pour les patients japonais répondeurs. Elle ajoute un suivi de sécurité à plus long terme de cet inhibiteur de BTK.",
+ "profil": "Des adultes japonais atteints de PTI primaire chronique ayant terminé l'extension à long terme de LUNA 3 avec un bénéfice clinique.",
+ "inclusion": [
+  "Étude LUNA 3 incluse et extension à long terme terminée, avec efficacité jugée cliniquement pertinente et sans problème majeur de sécurité",
+  "PTI primaire toujours actif nécessitant un traitement selon l'investigateur",
+  "Rapport bénéfice/risque acceptable",
+  "Contraception conforme à la réglementation locale"
+ ],
+ "exclusion": [
+  "PTI secondaire",
+  "Femme enceinte ou allaitante",
+  "Anomalies de l'ECG (précisions non fournies dans le registre)",
+  "Autres critères non précisés"
+ ],
+ "bras": [
+  {
+   "nom": "Rilzabrutinib",
+   "traitement": "Rilzabrutinib 400 mg par voie orale (rythme non précisé)"
+  }
+ ],
+ "duree": "Environ 60 semaines",
+ "critere": "Événements indésirables, dont graves et d'intérêt particulier, jusqu'à la fin de l'étude (environ 60 semaines)"
+}

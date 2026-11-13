@@ -1,0 +1,34 @@
+{
+ "h": "bceacc24364c",
+ "date": "2026-11-13",
+ "titre": "Goflikicept chez l'enfant et l'adolescent atteints de fièvre méditerranéenne familiale résistante ou intolérante à la colchicine",
+ "question": "Quelles sont la pharmacocinétique, l'efficacité et la tolérance du goflikicept chez l'enfant atteint de FMF résistante ou intolérante à la colchicine ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est la plus fréquente des maladies auto-inflammatoires héréditaires, liée à des mutations du gène MEFV (pyrine). Elle se manifeste par des accès fébriles récurrents avec sérite, arthrite et syndrome inflammatoire, et expose à l'amylose AA en l'absence de traitement efficace.\n\nLa colchicine est le traitement de référence. Une proportion de patients reste en échec malgré la dose maximale tolérée, ou ne la supporte pas. Chez ces patients, les anti-IL-1 sont l'alternative recommandée, mais les options autorisées chez l'enfant restent limitées.\n\nLe goflikicept (RPH-104) est une protéine de fusion de type « piège » à l'IL-1, administrée par voie sous-cutanée, développée par R-Pharm. Cette étude de phase 3 ouverte, non randomisée, inclut deux cohortes séquentielles, d'abord des adolescents puis des enfants dès 5 ans. Une analyse intermédiaire de sécurité et de pharmacocinétique précède l'ouverture de la seconde cohorte. Le critère principal est pharmacocinétique, l'efficacité sur les crises étant évaluée en objectifs complémentaires.",
+ "interet": "Elle pourrait documenter un nouvel anti-IL-1 chez l'enfant atteint de FMF en échec de colchicine, population où l'arsenal thérapeutique est restreint. Elle fournira aussi des données de pharmacocinétique pédiatrique.",
+ "profil": "Des enfants et adolescents de 5 à moins de 18 ans atteints de FMF résistante ou intolérante à la colchicine.",
+ "inclusion": [
+  "FMF confirmée selon les critères Eurofever/PRINTO 2019",
+  "Âge de 5 à moins de 18 ans (limite de 14 ans en Arabie saoudite)",
+  "Résistance à la colchicine (au moins une crise par mois depuis 3 mois) ou intolérance à la colchicine",
+  "Une crise active de moins de 48 heures à la visite 1 (PGA ≥ 2 et CRP > 10 mg/L)",
+  "Consentement des parents et de l'enfant, injections sous-cutanées acceptées"
+ ],
+ "exclusion": [
+  "Hypersensibilité au goflikicept",
+  "Infection active ou récurrente, VIH, VHB ou VHC",
+  "Tuberculose active ou latente, ou facteurs de risque",
+  "Vaccin vivant dans les 3 mois précédents ou à prévoir",
+  "Cancer actuel ou datant de moins de 5 ans, greffe d'organe",
+  "Traitement récent par anti-IL-1, rituximab, anti-TNF, anti-IL-6 ou immunosuppresseur",
+  "Anomalies biologiques (neutropénie, thrombopénie, transaminases ≥ 2 N, bilirubine > 1,5 N)",
+  "DFG < 45 mL/min/1,73 m²"
+ ],
+ "bras": [
+  {
+   "nom": "Goflikicept (RPH-104)",
+   "traitement": "2,2 mg/kg par voie sous-cutanée à J0, puis 1,1 mg/kg à J7 et J14, puis toutes les 2 semaines ; augmentation possible à 2,2 mg/kg (maximum 160 mg) si réponse insuffisante ou crises récurrentes"
+  }
+ ],
+ "duree": "Jusqu'à 76 semaines (dépistage jusqu'à 12 semaines, traitement 56 semaines, suivi de sécurité 8 semaines)",
+ "critere": "Concentration sérique maximale (Cmax) et aire sous la courbe (ASC 0-S16) du goflikicept entre l'inclusion et la semaine 16"
+}

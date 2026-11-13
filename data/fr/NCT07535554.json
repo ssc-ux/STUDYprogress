@@ -1,0 +1,30 @@
+{
+ "h": "dfc624c28855",
+ "date": "2026-11-13",
+ "titre": "TEP/TDM au FAPI-74 comparée à la TEP/TDM au FDG : fièvre prolongée, maladie à IgG4 et spondyloarthrite axiale",
+ "question": "La TEP/TDM au [18F]AlF-FAPI-74, traceur ciblant les fibroblastes, est-elle au moins aussi performante que la TEP/TDM au FDG pour le diagnostic dans trois maladies inflammatoires ?",
+ "contexte": "La TEP/TDM au 18F-FDG est l'examen d'imagerie de référence pour explorer une fièvre prolongée inexpliquée (FUO) ou une inflammation d'origine inconnue. Elle est aussi utilisée pour évaluer l'extension de la maladie à IgG4. Le FDG est capté par toutes les cellules à forte activité métabolique, ce qui limite sa spécificité. Dans la spondyloarthrite axiale, l'imagerie repose surtout sur l'IRM, et le diagnostic différentiel avec les dorsalgies mécaniques peut rester difficile.\n\nLe [18F]AlF-FAPI-74 cible la protéine d'activation des fibroblastes (FAP), exprimée par les fibroblastes activés des tissus inflammatoires et fibrosants. Ce traceur pourrait donc mieux explorer les maladies fibro-inflammatoires, dont la maladie à IgG4. Cette étude de phase 2/3 est promue par les cliniques universitaires de KU Leuven. Chaque patient passe les deux TEP/TDM, ce qui permet une comparaison intra-individuelle. Trois cohortes sont suivies : FUO/inflammation d'origine inconnue, maladie à IgG4 et spondyloarthrite axiale. Les critères principaux diffèrent selon la cohorte : non-infériorité (marge de 10 %) dans la FUO, supériorité dans la maladie à IgG4, précision diagnostique et évaluation de la réponse au traitement dans la spondyloarthrite. L'étude est en cours de recrutement.",
+ "interet": "Si le FAPI-74 est supérieur ou équivalent au FDG, il pourrait aider au diagnostic étiologique des fièvres prolongées et à la cartographie des atteintes de la maladie à IgG4. Il pourrait aussi servir à suivre la réponse au traitement.",
+ "profil": "Des adultes avec fièvre ou inflammation d'origine inconnue, maladie à IgG4 (nouvelle ou en rechute) ou suspicion de spondyloarthrite axiale.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "FUO : maladie de plus de 3 semaines, température > 38,3 °C à plus de 3 reprises ou marqueurs inflammatoires élevés, diagnostic incertain après bilan de première ligne",
+  "Maladie à IgG4 : forte suspicion clinique, nouveau diagnostic histologique à bilanter ou rechute histologique",
+  "Spondyloarthrite axiale : forte suspicion avec lombalgie inflammatoire de plus de 3 mois",
+  "Spondyloarthrite axiale : douleurs persistantes après 2 AINS différents, éligibilité à un biomédicament"
+ ],
+ "exclusion": [
+  "Incapacité mentale ou légale, ou impossibilité de réaliser toutes les procédures de l'étude",
+  "Toute affection compromettant la sécurité ou l'observance selon l'investigateur",
+  "Traitement antérieur ou concomitant pouvant compromettre la sécurité ou l'intégrité de l'essai",
+  "Grossesse, allaitement ou absence de contraception hautement efficace",
+  "Participation à un autre essai interventionnel jugé incompatible"
+ ],
+ "bras": [
+  { "nom": "FUO / inflammation d'origine inconnue", "traitement": "TEP/TDM au [18F]AlF-FAPI-74, comparée à la TEP/TDM au FDG" },
+  { "nom": "Maladie à IgG4", "traitement": "TEP/TDM au [18F]AlF-FAPI-74, comparée à la TEP/TDM au FDG, avant puis après traitement" },
+  { "nom": "Spondyloarthrite axiale", "traitement": "TEP/TDM au [18F]AlF-FAPI-74, avant puis 3 mois après le début du traitement" }
+ ],
+ "duree": "Environ 6 mois après les deux TEP/TDM pour la cohorte FUO ; environ 3 mois après le traitement pour les autres cohortes",
+ "critere": "Performance diagnostique du FAPI-74 versus FDG : non-infériorité dans la FUO (marge 10 %, à 6 mois), supériorité dans la maladie à IgG4, précision diagnostique dans la spondyloarthrite axiale"
+}

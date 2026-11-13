@@ -1,0 +1,34 @@
+{
+ "h": "948da420ad15",
+ "date": "2026-11-13",
+ "titre": "CAR-T NXC-201 versus dara-CyBorD dans l'amylose AL nouvellement diagnostiquée",
+ "question": "Une thérapie CAR-T (NXC-201) obtient-elle plus de réponses hématologiques complètes que dara-CyBorD en première ligne de l'amylose AL ?",
+ "contexte": "L'amylose AL résulte de la production d'une chaîne légère d'immunoglobuline par un clone plasmocytaire. Ces chaînes forment des dépôts amyloïdes qui atteignent le cœur, les reins et d'autres organes. Le pronostic dépend surtout de l'atteinte cardiaque et de la profondeur de la réponse hématologique.\n\nLe traitement de première ligne de référence est l'association daratumumab, cyclophosphamide, bortezomib et dexaméthasone (dara-CyBorD), qui a amélioré les taux de réponse complète. Une partie des patients ne l'atteint pourtant pas, ou rechute, et les stades cardiaques avancés restent de mauvais pronostic. NXC-201 est une thérapie par lymphocytes T à récepteur antigénique chimérique (CAR-T) ciblant BCMA, antigène exprimé par les plasmocytes. Elle est développée par Nexcella, avec Immix Biopharma. NEXICART-3 est un essai de phase 3 randomisé, ouvert, qui compare directement ce CAR-T à dara-CyBorD chez des patients jamais traités. Il inclut environ 260 patients ; le recrutement n'a pas encore commencé. C'est la première comparaison randomisée d'un CAR-T à la référence en première ligne dans cette maladie.",
+ "interet": "Si NXC-201 donne plus de réponses complètes sans surcroît de toxicité, une thérapie cellulaire unique pourrait devenir une option de première ligne. L'étude dira aussi si la réponse hématologique se traduit en meilleure survie sans détérioration d'organe.",
+ "profil": "Des adultes atteints d'amylose AL systémique nouvellement diagnostiquée, avec au moins un organe atteint.",
+ "inclusion": [
+  "Âge ≥ 18 ans, statut de performance ECOG ≤ 2",
+  "Amylose AL nouvellement diagnostiquée selon les critères de consensus du protocole",
+  "Maladie mesurable selon le protocole",
+  "Au moins un organe atteint par l'amylose AL"
+ ],
+ "exclusion": [
+  "Traitement antérieur de l'amylose AL ou du myélome",
+  "Diagnostic de myélome multiple",
+  "Atteinte cardiaque de stade IIIb",
+  "Autre cancer dans les 3 ans précédents",
+  "AVC ou crise convulsive dans les 6 mois précédant le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "NXC-201",
+   "traitement": "Thérapie CAR-T NXC-201"
+  },
+  {
+   "nom": "Dara-CyBorD",
+   "traitement": "Daratumumab, cyclophosphamide, bortezomib et dexaméthasone"
+  }
+ ],
+ "duree": "Jusqu'à 60 mois de suivi",
+ "critere": "Taux de réponse hématologique complète globale à 24 mois ; survie sans progression ou détérioration d'organe majeure (MOD-PFS) à 60 mois."
+}

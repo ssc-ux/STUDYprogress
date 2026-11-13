@@ -1,0 +1,37 @@
+{
+ "h": "2c2a359b9431",
+ "date": "2026-11-13",
+ "titre": "Avatrombopag avec ou sans acide tout-trans rétinoïque dans le PTI persistant ou chronique",
+ "question": "Ajouter l'acide tout-trans rétinoïque (ATRA) à l'avatrombopag permet-il à plus de patients atteints de PTI d'arrêter tout traitement ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une thrombopénie auto-immune, liée à une destruction plaquettaire accrue et à une production médullaire insuffisante. Après l'échec des corticoïdes ou des immunoglobulines, ou après une rechute, on recourt aux agonistes du récepteur de la thrombopoïétine (ARTPO), au rituximab ou à la splénectomie. Les ARTPO, dont l'avatrombopag, augmentent la numération plaquettaire mais ne restaurent pas toujours la tolérance immunitaire : beaucoup de patients doivent poursuivre le traitement.\n\nL'ATRA, dérivé de la vitamine A, a un effet immunomodulateur et a été étudié dans le PTI, notamment en association à d'autres traitements. Cette étude chinoise (Institut d'hématologie, Tianjin) est un essai randomisé ouvert de phase 2/3, qui compare l'avatrombopag associé à l'ATRA à l'avatrombopag seul. Elle vise des patients dont le PTI dure depuis au moins 3 mois et avec moins de 30 G/L de plaquettes malgré un traitement de première ligne. Le schéma comprend 24 semaines de traitement, une phase de réduction jusqu'à la semaine 36, puis un suivi jusqu'à la semaine 52. À noter : le résumé du registre mentionne l'atorvastatine, ce qui semble être une erreur au regard du titre et des bras.",
+ "interet": "Si l'association permet davantage d'arrêts de traitement avec maintien des plaquettes, elle offrirait une stratégie pour sortir de la dépendance aux ARTPO. L'objectif de rémission sans traitement est celui qui compte le plus pour les patients.",
+ "profil": "Des adultes atteints de PTI depuis au moins 3 mois, en échec ou rechute après un traitement de première ligne.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI évoluant depuis au moins 3 mois (persistant ou chronique)",
+  "Plaquettes < 30 G/L (moyenne de deux mesures espacées d'au moins 1 semaine, aucune > 35 G/L)",
+  "Échec ou rechute après un traitement de première ligne (corticoïdes, immunoglobulines)",
+  "Traitements associés stables autorisés ; ARTPO arrêtés depuis ≥ 2 semaines, anti-CD20 depuis 6 mois",
+  "Pas de cardiopathie ni de trouble de la coagulation dans l'année précédente",
+  "Fonctions hépatique et rénale conservées (ALAT, ASAT, bilirubine, créatinine ≤ 1,5 N)"
+ ],
+ "exclusion": [
+  "Allergie à l'atorvastatine, à l'ATRA ou à leurs excipients",
+  "Antiagrégants, AINS ou anticoagulants affectant les plaquettes",
+  "Thrombopénie secondaire ou anémie hémolytique auto-immune (lupus, SAPL, hémopathie, etc.)",
+  "Myélofibrose de grade ≥ 2",
+  "Thrombose artérielle ou veineuse dans l'année précédente",
+  "Grossesse ou allaitement, abus d'alcool ou de drogues dans les 12 derniers mois"
+ ],
+ "bras": [
+  {
+   "nom": "Avatrombopag + ATRA",
+   "traitement": "Avatrombopag associé à l'acide tout-trans rétinoïque (doses non précisées)"
+  },
+  {
+   "nom": "Avatrombopag",
+   "traitement": "Avatrombopag seul (dose non précisée)"
+  }
+ ],
+ "duree": "52 semaines (24 de traitement, 12 de réduction, 16 de suivi)",
+ "critere": "Taux de patients sans traitement à la semaine 52."
+}

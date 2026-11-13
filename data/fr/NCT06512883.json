@@ -1,0 +1,30 @@
+{
+ "h": "1d0fd5522364",
+ "date": "2026-11-13",
+ "titre": "Benralizumab chez l'enfant atteint de GEPA ou de syndrome hyperéosinophilique",
+ "question": "Le benralizumab est-il sûr, bien toléré et efficace chez l'enfant atteint de maladie éosinophilique rare, et quelle est sa pharmacocinétique ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (GEPA) et le syndrome hyperéosinophilique (SHE) sont des maladies rares, dont l'atteinte d'organes est liée à l'éosinophilie. Chez l'adulte, le traitement repose sur les corticoïdes, les immunosuppresseurs et, selon les situations, des biothérapies ciblant l'axe de l'interleukine 5. Chez l'enfant, ces maladies sont encore plus rares et les données sont très limitées, ce qui laisse les pédiatres avec peu d'options validées et une forte exposition aux corticoïdes.\n\nLe benralizumab est un anticorps anti-récepteur de l'IL-5 alpha qui déplète les éosinophiles. Cette étude de phase 3 ouverte, sans comparateur, est un essai « panier » promu par AstraZeneca. Une première cohorte inclut des enfants atteints de GEPA, une seconde des enfants atteints de SHE ; d'autres cohortes pourront être ajoutées. Tous reçoivent le benralizumab par voie sous-cutanée toutes les 4 semaines pendant 52 semaines, avec une dose selon le poids (seuil de 35 kg). Une extension d'au moins un an supplémentaire est proposée. L'objectif est avant tout d'établir la tolérance et les concentrations sériques chez l'enfant, l'efficacité étant évaluée de façon exploratoire.",
+ "interet": "L'étude pourrait documenter la dose et la tolérance du benralizumab chez l'enfant, population exclue des essais adultes. Elle pourrait étayer une extension d'indication pédiatrique dans la GEPA et le SHE.",
+ "profil": "Des enfants de 6 à moins de 18 ans, pesant au moins 15 kg, atteints de GEPA ou de syndrome hyperéosinophilique.",
+ "inclusion": [
+  "Âge de 6 à moins de 18 ans et poids d'au moins 15 kg",
+  "GEPA : corticoïdes oraux à dose stable depuis au moins 4 semaines (plus de 0,1 mg/kg/j, maximum 50 mg/j)",
+  "GEPA : immunosuppresseur éventuel à dose stable depuis au moins 4 semaines",
+  "SHE : éosinophilie persistante supérieure à 1500/µL sans cause secondaire, avec atteinte d'organe médiée par les éosinophiles",
+  "SHE : forme symptomatique, antécédent de poussée ou sévérité jugée suffisante par l'investigateur",
+  "SHE : éosinophiles d'au moins 1000/µL au dépistage et recherche négative de la fusion FIP1L1-PDGFRA"
+ ],
+ "exclusion": [
+  "Tumeur maligne actuelle ou antécédent de tumeur maligne",
+  "Antécédent d'anaphylaxie à une biothérapie ou à un vaccin",
+  "Anomalie systémique préexistante cliniquement significative (endocrinienne, rénale, hépatique, etc.)",
+  "Traitement antérieur par benralizumab dans un essai interventionnel",
+  "GEPA : granulomatose avec polyangéite ou polyangéite microscopique, rechute ou forme menaçant le pronostic vital dans les 3 mois",
+  "SHE : forme menaçant le pronostic vital, hyperéosinophilie de signification indéterminée ou mastocytose systémique"
+ ],
+ "bras": [
+  { "nom": "Cohortes GEPA et SHE : benralizumab", "traitement": "Benralizumab sous-cutané toutes les 4 semaines pendant 52 semaines (dose 1 si poids d'au moins 35 kg, dose 2 si moins de 35 kg), puis extension d'au moins 1 an" }
+ ],
+ "duree": "52 semaines de traitement, puis extension d'au moins 52 semaines",
+ "critere": "Nombre de participants avec événements indésirables jusqu'à la semaine 52, et concentrations sériques de benralizumab aux semaines 0, 12, 24, 25, 36 et 52"
+}

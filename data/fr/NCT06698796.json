@@ -1,0 +1,29 @@
+{
+ "h": "5072e2d3f6b3",
+ "date": "2026-11-13",
+ "titre": "Extension ouverte du dazukibart dans la dermatomyosite et la polymyosite",
+ "question": "Le dazukibart est-il sûr et efficace à long terme chez des patients atteints de dermatomyosite ou de polymyosite ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques regroupent notamment la dermatomyosite (DM) et la polymyosite (PM). Elles provoquent une faiblesse des muscles proximaux, une éruption cutanée dans la DM, et peuvent toucher le poumon et le cœur. Le traitement repose sur les corticoïdes, les immunosuppresseurs et les immunoglobulines intraveineuses, avec des rechutes et une toxicité cumulée.\n\nLe dazukibart est un anticorps dirigé contre l'interféron bêta, cytokine dont la signature est marquée dans la dermatomyosite. Pfizer le développe dans cette indication. Cette extension ouverte de phase 3 est destinée aux participants ayant terminé jusqu'à la semaine 52 une étude qualifiante de dazukibart. Les patients éligibles reçoivent le dazukibart par perfusion intraveineuse d'environ 1 heure, toutes les 4 semaines pendant 48 semaines, puis 4 mois de suivi de sécurité. Un groupe de participants ne reçoit pas le médicament et ne fait que le suivi de sécurité, par refus ou inéligibilité. L'étude vise surtout la tolérance, avec des mesures de la fonction pulmonaire (CVF, DLCO) et une surveillance du risque suicidaire.",
+ "interet": "Elle fournira les données de sécurité à plus d'un an indispensables à l'évaluation d'un traitement ciblé de la DM et de la PM. Les mesures de fonction pulmonaire apportent une information sur l'atteinte respiratoire.",
+ "profil": "Des adultes atteints de dermatomyosite ou de polymyosite, ayant terminé une étude qualifiante de dazukibart.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Avoir terminé une étude qualifiante jusqu'à la semaine 52"
+ ],
+ "exclusion": [
+  "Affection médicale ou psychiatrique, notamment idées suicidaires récentes ou actives, ou anomalie biologique augmentant le risque",
+  "Autre produit expérimental que le dazukibart dans les 30 jours (ou 5 demi-vies)",
+  "Prise de médicaments associés interdits",
+  "Infection active (bactérienne, virale, fongique, mycobactérienne)",
+  "Événement indésirable non résolu dans l'étude qualifiante",
+  "Personnel du site ou du promoteur impliqué dans l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Dazukibart",
+   "traitement": "Dazukibart par perfusion intraveineuse toutes les 4 semaines (dose non précisée) ; un groupe sans traitement avec suivi de sécurité seul"
+  }
+ ],
+ "duree": "Environ 16 mois (48 semaines de traitement puis 4 mois de suivi)",
+ "critere": "Événements indésirables (dont graves, d'intérêt particulier ou menant à l'arrêt), anomalies biologiques, des constantes, de l'ECG, variation de la CVF/DLCO et score C-SSRS, sur 52 semaines."
+}

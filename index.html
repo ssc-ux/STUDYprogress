@@ -42,9 +42,31 @@ h1,h2,h3{text-wrap:balance;margin:0;letter-spacing:-.01em}
 @media (max-width:720px){.nav{order:3;flex-basis:100%;margin:0 -6px 6px;overflow-x:auto;scrollbar-width:none}.nav a{padding:5px 9px;font-size:.86rem}.favlink{margin-left:auto}.bar{min-height:48px;padding-top:6px}}
 main{padding-bottom:64px}
 /* Accueil */
-.hero{padding:clamp(28px,6vw,60px) 0 clamp(20px,4vw,36px)}
+main{overflow-x:clip}
+.hero{padding:clamp(26px,5vw,56px) 0 clamp(14px,3vw,28px);display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:36px;align-items:center;position:relative}
+.hero::before{content:"";position:absolute;inset:0 -100vw;z-index:-1;background:radial-gradient(42% 95% at 62% 0%,var(--accb),transparent 72%)}
+@media (max-width:860px){.hero{grid-template-columns:minmax(0,1fr);gap:22px}}
+.vline{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:14px;font-size:.9rem;color:var(--muted)}
+.vline select{padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg);font-weight:600}
+.feat{display:block;position:relative;overflow:hidden;background:var(--acc);color:var(--bg);border-radius:18px;padding:22px;text-decoration:none;box-shadow:0 22px 44px -22px color-mix(in srgb,var(--acc) 75%,transparent);transition:transform .15s}
+.feat:hover{transform:translateY(-2px)}
+.feat::after{content:"";position:absolute;right:-70px;top:-70px;width:210px;height:210px;border-radius:50%;background:color-mix(in srgb,var(--bg) 9%,transparent)}
+.feat .k{font-size:.72rem;text-transform:uppercase;letter-spacing:.09em;font-weight:600;opacity:.85}
+.feat h2{font-size:1.3rem;font-weight:700;margin:10px 0 8px;display:flex;align-items:center;gap:8px;overflow-wrap:anywhere}
+.feat .fq{font-family:"Source Serif 4",Georgia,serif;font-size:1.14rem;line-height:1.36;margin:0 0 10px}
+.feat .fi{font-size:.88rem;opacity:.92;margin:0 0 14px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.feat .tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.feat .tags span{font-size:.74rem;padding:2px 9px;border-radius:999px;background:color-mix(in srgb,var(--bg) 16%,transparent)}
+.feat .go{font-weight:600;font-size:.9rem}
+.since{display:flex;gap:6px 14px;align-items:center;flex-wrap:wrap;border:1px solid color-mix(in srgb,var(--acc) 45%,transparent);background:var(--accb);border-radius:12px;padding:11px 14px;font-size:.9rem;margin-top:10px}
+.since a{font-weight:600;margin-left:auto;text-decoration:none;white-space:nowrap}
+.pb{display:flex;height:5px;border-radius:3px;overflow:hidden;background:var(--soft);margin-top:7px;gap:1px}
+.pb i{background:var(--acc)}.pb i:nth-child(1){opacity:.3}.pb i:nth-child(2){opacity:.5}.pb i:nth-child(3){opacity:.75}
+.leg{display:flex;align-items:center;gap:6px;font-size:.78rem;color:var(--muted)}
+.leg .pb{width:64px;margin:0}
+@media (prefers-reduced-motion:reduce){.feat{transition:none}.feat:hover{transform:none}}
 .eyebrow{font-size:.76rem;text-transform:uppercase;letter-spacing:.08em;color:var(--acc);font-weight:600;margin:0 0 10px}
-.hero h1{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:clamp(1.9rem,5vw,3rem);line-height:1.1;max-width:22ch}
+.hero h1{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:clamp(1.8rem,4.4vw,2.7rem);line-height:1.1;max-width:20ch}
 .hero p.lead{color:var(--muted);max-width:60ch;margin:14px 0 20px;font-size:1.02rem}
 .hsearch{display:flex;gap:8px;max-width:620px}
 .hsearch input{flex:1;min-width:0;padding:12px 16px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
@@ -87,6 +109,9 @@ main{padding-bottom:64px}
 .row:hover .r-ac a{color:var(--acc)}
 .r-t{color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:1px}
 .r-t.q{color:var(--fg)}
+.r-t.res{-webkit-line-clamp:3}
+.r-t.res b{color:var(--acc);font-weight:600}
+.r-ac.ttl{font-size:.9rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .badge{font-size:.66rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;padding:1px 6px;border-radius:5px;white-space:nowrap}
 .b-new{background:var(--now);color:#fff}
 .b-fr{color:var(--fr);background:var(--frb)}
@@ -110,7 +135,9 @@ main{padding-bottom:64px}
 .fbar select.on{border-color:var(--acc);box-shadow:inset 0 0 0 1px var(--acc)}
 .chk{display:inline-flex;align-items:center;gap:6px;font-size:.85rem;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);cursor:pointer;white-space:nowrap}
 .chk input{accent-color:var(--acc);margin:0}
-@media (max-width:720px){.fbar select{flex:1 1 40%;min-width:0}}
+.fadv{display:contents}
+#fMore{display:none}
+@media (max-width:720px){.fbar select{flex:1 1 40%;min-width:0}.fadv{display:none}.fadv.open{display:contents}#fMore{display:inline-flex}}
 .link{background:none;border:0;padding:0;color:var(--acc);font-weight:500;cursor:pointer;font-size:.85rem}
 .count{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;color:var(--muted);font-size:.85rem;margin:14px 2px 8px}
 .more{display:block;margin:16px auto 0;border:1px solid var(--line);border-radius:10px;padding:10px 20px;background:var(--surface);cursor:pointer;font-weight:500}
@@ -147,6 +174,9 @@ main{padding-bottom:64px}
 .fh .pill{padding:2px 9px;border-radius:999px;background:var(--soft);color:var(--muted);text-decoration:none}
 .fh a.pill:hover{color:var(--acc)}
 .fiche h1{font-size:clamp(1.7rem,4.5vw,2.3rem);font-weight:700;overflow-wrap:anywhere;line-height:1.1}
+.fhd{display:flex;align-items:flex-start;gap:12px;justify-content:space-between}
+.fhd .btn{flex:none;white-space:nowrap}
+.fiche h1.long{font-size:clamp(1.25rem,3.4vw,1.6rem);line-height:1.2}
 .fiche .sub{color:var(--muted);margin:6px 0 18px}
 .fiche .sub small{display:block;font-size:.8rem;margin-top:3px;opacity:.85}
 .lead-q{font-family:"Source Serif 4",Georgia,serif;font-weight:500;font-size:clamp(1.15rem,2.6vw,1.4rem);line-height:1.35;margin:0 0 12px}
@@ -200,6 +230,12 @@ details summary{cursor:pointer;color:var(--acc);font-weight:500;font-size:.9rem}
 .arm:nth-child(2){--ac:var(--now)}.arm:nth-child(3){--ac:var(--fol)}.arm:nth-child(4){--ac:var(--warn)}
 .end{border:1.5px solid var(--acc);border-radius:10px;padding:9px 12px;text-align:center}
 .end b{color:var(--acc)}
+@media (max-width:640px){
+  .dzg,.dzg.nr{display:flex;flex-direction:column;align-items:stretch;min-width:0;gap:6px}
+  .dzg .ar{width:2px;height:14px;align-self:center}
+  .dzg .ar::after{right:-4px;top:auto;bottom:-2px;border:5px solid transparent;border-top-color:var(--muted)}
+  .dzg .rz{align-self:center}
+}
 .dmeta{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:.84rem;color:var(--muted);margin-top:12px}
 /* Colonne latérale */
 .side dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:7px 12px;font-size:.86rem}
@@ -207,7 +243,6 @@ details summary{cursor:pointer;color:var(--acc);font-weight:500;font-size:.9rem}
 .side dd{margin:0;font-weight:500;min-width:0;overflow-wrap:anywhere}
 .cities{display:flex;flex-wrap:wrap;gap:4px}
 .cities span{font-size:.78rem;padding:2px 9px;border-radius:999px;background:var(--soft)}
-.acts{display:flex;gap:8px;margin-bottom:12px}
 .btn{flex:1;text-align:center;padding:9px 12px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--fg);font-weight:500;font-size:.86rem;text-decoration:none;cursor:pointer}
 .btn:hover{border-color:var(--acc)}
 .btn[aria-pressed=true]{background:var(--accb);border-color:var(--acc);color:var(--acc)}
@@ -251,12 +286,15 @@ footer a{color:var(--muted)}
       <select id="fDis" aria-label="Maladie"></select>
       <select id="fSt" aria-label="Avancement"><option value="">Tous les stades</option><option value="act">À venir ou en cours</option><option value="soon">À venir (pas encore ouvertes)</option><option value="rec">Inclusions en cours</option><option value="fol">Suivi (inclusions closes)</option><option value="done">Terminées ou arrêtées</option><option value="res">Avec résultats</option><option value="new">Nouvelles sur le site (30 j)</option><option value="chg">Statut modifié (30 j)</option></select>
       <select id="fTy" aria-label="Type d'étude"><option value="">Tous types</option><option value="int">Essais interventionnels</option><option value="p1">Phase 1</option><option value="p2">Phase 2</option><option value="p3">Phase 3</option><option value="p4">Phase 4</option><option value="rnd">Essais randomisés</option><option value="obs">Observationnelles, cohortes</option></select>
+      <button class="chk" id="fMore" type="button">Plus de filtres</button>
+      <div class="fadv" id="fadv">
       <select id="fOr" aria-label="Origine"><option value="">Toutes origines</option><option value="promo">Promotion française</option><option value="fr">Avec centres en France</option></select>
       <select id="fVille" aria-label="Ville"></select>
       <select id="fSp" aria-label="Promoteur"><option value="">Tous promoteurs</option><option value="acad">Académique</option><option value="ind">Industriel</option></select>
       <select id="fSo" aria-label="Tri"><option value="">Tri : pertinence</option><option value="new">Début le plus récent</option><option value="end">Fin prévue la plus proche</option><option value="fin">Terminées récemment</option><option value="seen">Ajout récent sur le site</option></select>
       <label class="chk"><input type="checkbox" id="fFi">Fiche en français</label>
       <label class="chk"><input type="checkbox" id="fFav">★ Suivies</label>
+      </div>
     </div>
     <div class="count"><span id="count"></span><button class="link" id="fReset" hidden>Réinitialiser les filtres</button></div>
     <div class="tbl"><div class="thead"><span>Étude</span><span>Maladie</span><span>Type</span><span>Avancement</span><span style="text-align:right">Patients</span><span>Fin prévue</span><span></span></div><div id="list"></div></div>
@@ -272,7 +310,7 @@ footer a{color:var(--muted)}
     <h2>Lire une ligne d'étude</h2>
     <ul>
       <li><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span> <b>Promotion française</b> : promoteur ou coordination française (CHU, AP-HP, Inserm, groupes coopérateurs…). <span class="badge b-fr">3 centres FR</span> : étude étrangère avec des centres en France.</li>
-      <li><span class="st st-soon">À venir</span> pas encore ouverte · <span class="st st-rec">Inclusions</span> recrute · <span class="st st-fol">Suivi</span> inclusions closes, patients suivis · <span class="st">Terminée</span> · <span class="st st-res">Résultats</span> résultats déposés ou publiés · <span class="st st-stop">Arrêtée</span> interrompue avant son terme.</li>
+      <li><span class="st st-soon">À venir</span> pas encore ouverte · <span class="st st-rec">Inclusions</span> recrute · <span class="st st-fol">Suivi</span> inclusions closes, patients suivis · <span class="st">Terminée</span> · <span class="st st-res">Résultats</span> résultats déposés au registre ou publication principale identifiée · <span class="st st-stop">Arrêtée</span> interrompue avant son terme.</li>
       <li><span class="badge b-new">Nouveau</span> apparue sur le site ou statut modifié depuis moins de 30 jours. <span class="badge b-en">EN</span> fiche en français pas encore rédigée : le texte vient du registre, en anglais.</li>
       <li><b>★</b> suit une étude : elle est gardée dans ce navigateur et remonte sur l'accueil.</li>
     </ul>
@@ -317,6 +355,7 @@ const typeTxt = s => s.type === "OBSERVATIONAL" ? "Observationnelle" : s.phase.r
 const phaseN = s => Math.max(0, ...(s.phase.match(/\d/g) || []).map(Number));
 const frRank = s => s.fr === "promo" ? 0 : s.fr ? 1 : 2;
 const rank = (a, b) => frRank(a) - frRank(b) || !!b.q - !!a.q || (b.start || "").localeCompare(a.start || "");
+const label = s => s.acr || (s.iv || []).join(" + ");
 const disNames = s => { const a = s.dis.map(d => DIS[d]?.fr).filter(Boolean); return a.slice(0, 2).join(", ") + (a.length > 2 ? ` +${a.length - 2}` : ""); };
 
 // Filtres : chaque clé d'URL correspond à un contrôle de la liste.
@@ -331,7 +370,7 @@ const STF = {
 const TYF = { int: s => s.type === "INTERVENTIONAL", obs: s => s.type === "OBSERVATIONAL", rnd: s => !!s.rnd, p1: s => s.phase.includes("1"), p2: s => s.phase.includes("2"), p3: s => s.phase.includes("3"), p4: s => s.phase.includes("4") };
 const SORT = {
   "": rank, new: (a, b) => (b.start || "").localeCompare(a.start || ""), end: (a, b) => (a.pcd || "9999").localeCompare(b.pcd || "9999"),
-  fin: (a, b) => (b.pcd || "").localeCompare(a.pcd || ""), seen: (a, b) => (b.seen || "").localeCompare(a.seen || "") || rank(a, b)
+  fin: (a, b) => (b.pcd || "").localeCompare(a.pcd || ""), res: (a, b) => !!b.rs - !!a.rs || (b.pcd || "").localeCompare(a.pcd || ""), seen: (a, b) => (b.seen || "").localeCompare(a.seen || "") || rank(a, b)
 };
 const href = (path, o = {}) => { const q = new URLSearchParams(Object.entries(o).filter(([, v]) => v)).toString(); return "#/" + path + (q ? "?" + q : ""); };
 const apply = (list, f) => {
@@ -340,17 +379,17 @@ const apply = (list, f) => {
     (!f.dis || (f.dis.startsWith("c:") ? s.dis.some(d => DIS[d].cat === f.dis.slice(2)) : s.dis.includes(f.dis))) &&
     (!f.st || !STF[f.st] || STF[f.st](s)) && (!f.ty || !TYF[f.ty] || TYF[f.ty](s)) &&
     (!f.or || (f.or === "promo" ? s.fr === "promo" : !!s.fr)) && (!f.v || s.v.includes(f.v)) &&
-    (!f.sp || (s.sClass === "INDUSTRY") === (f.sp === "ind")) && (!f.fi || s.q) && (!f.fav || favs.has(s.id)) &&
+    (!f.sp || (s.sClass === "INDUSTRY") === (f.sp === "ind")) && (!f.fi || s.q) && (!f.since || s.seen > f.since || s.chg > f.since) && (!f.fav || favs.has(s.id)) &&
     terms.every(t => s._txt.includes(t)));
 };
 
 // ——— Ligne d'étude ———
 function row(s) {
-  const on = favs.has(s.id);
+  const on = favs.has(s.id), lab = label(s), sub = s.rs ? `<b>Résultat :</b> ${esc(s.rs)}` : esc(lab ? s.q || s.t : s.q);
   return `<div class="row">
-    <div><div class="r-h">${s.fr === "promo" ? FLAG : ""}<span class="r-ac"><a href="#/${s.id}">${esc(s.acr || s.id)}</a></span>${s.fr === "centres" ? `<span class="badge b-fr">${s.frN} centre${s.frN > 1 ? "s" : ""} FR</span>` : ""}${isNew(s) ? `<span class="badge b-new">Nouveau</span>` : ""}${s.q ? "" : `<span class="badge b-en" title="Fiche en français pas encore rédigée">EN</span>`}</div>
-      <div class="r-t${s.q ? " q" : ""}"${s.q ? "" : ` lang="en"`}>${esc(s.q || s.t)}</div></div>
-    <button class="fav" data-f="${s.id}" aria-pressed="${on}" aria-label="Suivre ${esc(s.acr || s.id)}" title="Suivre cette étude">${on ? "★" : "☆"}</button>
+    <div><div class="r-h">${s.fr === "promo" ? FLAG : ""}<span class="r-ac${lab ? "" : " ttl"}"${lab || s.q ? "" : ` lang="en"`}><a href="#/${s.id}">${esc(lab || s.t)}</a></span>${s.fr === "centres" ? `<span class="badge b-fr">${s.frN} centre${s.frN > 1 ? "s" : ""} FR</span>` : ""}${isNew(s) ? `<span class="badge b-new">Nouveau</span>` : ""}${s.q ? "" : `<span class="badge b-en" title="Fiche en français pas encore rédigée">EN</span>`}</div>
+      ${sub ? `<div class="r-t${s.rs ? " res q" : s.q ? " q" : ""}"${s.q || s.rs ? "" : ` lang="en"`}>${sub}</div>` : ""}</div>
+    <button class="fav" data-f="${s.id}" aria-pressed="${on}" aria-label="Suivre ${esc(lab || s.id)}" title="Suivre cette étude">${on ? "★" : "☆"}</button>
     <div class="r-meta"><span>${esc(disNames(s))}</span><span>${esc(typeTxt(s))}</span>${stTag(s)}<span class="r-n">${s.n ?? ""}</span><span class="r-end">${fdate(s.pcd) || "—"}</span></div>
   </div>`;
 }
@@ -364,41 +403,55 @@ function cities(min = 2) {
   return Object.keys(c).filter(v => c[v] >= min).sort((a, b) => a.localeCompare(b, "fr"));
 }
 function disGrid() {
-  return CATS.map(c => `<h3 class="cat">${esc(c)}</h3><div class="dgrid">${Object.values(DIS).filter(d => d.cat === c).map(d => {
-    const a = DATA.filter(s => s.dis.includes(d.id)), act = a.filter(STF.act).length, f = a.filter(s => s.fr === "promo").length;
-    return `<a class="dz" href="#/maladie/${d.id}"><b>${esc(d.fr)}</b><span>${plur(act, "étude")} en cours${f ? ` · ${f} française${f > 1 ? "s" : ""}` : ""}</span></a>`;
+  return `<p class="leg"><span class="pb"><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i></span>Répartition des essais en cours, de la phase 1 (clair) à la phase 4 (foncé)</p>` + CATS.map(c => `<h3 class="cat">${esc(c)}</h3><div class="dgrid">${Object.values(DIS).filter(d => d.cat === c).map(d => {
+    const a = DATA.filter(s => s.dis.includes(d.id)), act = a.filter(STF.act), f = a.filter(s => s.fr === "promo").length, ph = [1, 2, 3, 4].map(p => act.filter(s => phaseN(s) === p).length);
+    return `<a class="dz" href="#/maladie/${d.id}"><b>${esc(d.fr)}</b><span>${plur(act.length, "étude")} en cours${f ? ` · ${f} française${f > 1 ? "s" : ""}` : ""}</span><span class="pb" title="Phase 1 : ${ph[0]} · Phase 2 : ${ph[1]} · Phase 3 : ${ph[2]} · Phase 4 : ${ph[3]}">${ph.map(n => n ? `<i style="flex:${n}"></i>` : "").join("")}</span></a>`;
   }).join("")}</div>`).join("");
 }
+// Étude à la une : un essai français avec fiche, choisi parmi les plus marquants, qui change chaque semaine.
+function featured() {
+  const sc = s => (recent(s.seen) ? 4 : 0) + (phaseN(s) >= 3 ? 3 : 0) + (s.rnd ? 2 : 0) + (s.n >= 100 ? 1 : 0);
+  const top = DATA.filter(s => s.q && s.fr === "promo" && STF.act(s) && TYF.int(s)).sort((a, b) => sc(b) - sc(a) || SORT.new(a, b)).slice(0, 8);
+  return top[Math.floor(ms(updated) / 6048e5) % (top.length || 1)];
+}
 function renderHome() {
-  const n = k => DATA.filter(STF[k]).length, ville = store("sp-ville") || "";
+  const n = k => DATA.filter(STF[k]).length, ville = store("sp-ville") || "", ft = featured();
   const nw = DATA.filter(STF.new).sort(rank), ch = DATA.filter(s => recent(s.chg) && !recent(s.seen)).sort(rank);
-  const rs = DATA.filter(STF.res).sort((a, b) => (b.pub > 0) - (a.pub > 0) || SORT.fin(a, b));
+  const rs = DATA.filter(STF.res).sort(SORT.res);
   const fv = DATA.filter(s => favs.has(s.id)).sort((a, b) => isNew(b) - isNew(a) || rank(a, b));
   const local = ville ? DATA.filter(s => s.v.includes(ville) && (STF.rec(s) || STF.soon(s))).sort(rank) : [];
-  $("vHome").innerHTML = `<section class="hero">
+  const sn = lastVisit && lastVisit < updated ? [DATA.filter(s => s.seen > lastVisit).length, DATA.filter(s => s.chg > lastVisit && !(s.seen > lastVisit)).length] : [0, 0];
+  $("vHome").innerHTML = `<section class="hero"><div>
       <p class="eyebrow">Mise à jour du ${fday(updated)}</p>
       <h1>La recherche clinique en médecine interne, lisible en une minute.</h1>
       <p class="lead">Ce qui démarre, ce qui recrute dans votre ville, ce qui vient d'être publié : chaque étude résumée par sa question, son schéma et son intérêt pour la pratique.</p>
       <form class="hsearch" id="hform"><input id="hq" type="search" placeholder="Lupus, rituximab, CAR-T, GFEV…" autocomplete="off" aria-label="Rechercher une étude"><button class="btnp" type="submit">Chercher</button></form>
-      <div class="kpis"><a href="${href("etudes", { st: "run" })}"><b>${n("run").toLocaleString("fr-FR")}</b>études en cours</a><a href="${href("etudes", { st: "soon" })}"><b>${n("soon")}</b>à venir</a><a href="${href("etudes", { or: "promo" })}"><b>${DATA.filter(s => s.fr === "promo").length}</b>à promotion française</a><a href="${href("etudes", { st: "res", so: "fin" })}"><b>${n("res")}</b>avec résultats</a></div>
+      <label class="vline">Ma ville d'internat<select id="ville"><option value="">choisir…</option>${cities().map(v => `<option${v === ville ? " selected" : ""}>${esc(v)}</option>`).join("")}</select></label>
+      <div class="kpis"><a href="${href("etudes", { st: "run" })}"><b>${n("run").toLocaleString("fr-FR")}</b>études en cours</a><a href="${href("etudes", { or: "promo" })}"><b>${DATA.filter(s => s.fr === "promo").length}</b>à promotion française</a><a href="${href("etudes", { st: "res", so: "fin" })}"><b>${n("res")}</b>avec résultats</a></div>
+    </div>
+    ${ft ? `<a class="feat" href="#/${ft.id}"><span class="k">À la une cette semaine</span><h2>${FLAG}${esc(label(ft) || ft.t)}</h2><p class="fq">${esc(ft.q)}</p><p class="fi" id="featI"></p><div class="tags"><span>${esc(typeTxt(ft))}</span><span>${stOf(ft)[0]}</span><span>${esc(disNames(ft))}</span>${ft.n ? `<span>${ft.n} patients</span>` : ""}</div><span class="go">Lire la fiche →</span></a>` : ""}
     </section>
+    ${sn[0] + sn[1] ? `<div class="since"><span>Depuis votre dernière visite (${fday(lastVisit)}) : <b>${plur(sn[0], "nouvelle")} étude${sn[0] > 1 ? "s" : ""}</b>${sn[1] ? ` et <b>${plur(sn[1], "changement")} de statut</b>` : ""}.</span><a href="${href("etudes", { since: lastVisit, so: "seen" })}">Voir →</a></div>` : ""}
     ${panel("Mes études suivies", fv, href("etudes", { fav: 1 }), "", 6)}
+    ${ville ? (local.length ? panel(`Ouvertes aux inclusions à ${esc(ville)}`, local, href("etudes", { v: ville, st: "rec" }), "Études qui recrutent ou vont ouvrir dans les centres de votre ville.", 6) : `<section class="panel"><div class="ph"><h2>Ouvertes aux inclusions à ${esc(ville)}</h2></div><p class="hint">Aucune étude ouverte déclarée dans cette ville pour le moment.</p></section>`) : ""}
     ${panel("Nouvelles ce mois-ci", nw, href("etudes", { st: "new", so: "seen" }), "Études apparues au registre depuis moins de 30 jours, françaises d'abord.")}
+    ${panel("Résultats disponibles", rs, href("etudes", { st: "res", so: "fin" }), "Études terminées dont les résultats sont publiés ou déposés au registre.")}
     ${panel("Changements de statut", ch, href("etudes", { st: "chg" }), "Ouvertures, fins d'inclusion, fins d'étude et arrêts des 30 derniers jours.")}
-    <section class="panel"><div class="ph"><h2><label for="ville">Ouvertes aux inclusions à</label></h2><select id="ville"><option value="">choisir une ville…</option>${cities().map(v => `<option${v === ville ? " selected" : ""}>${esc(v)}</option>`).join("")}</select>${local.length > 6 ? `<a class="all" href="${href("etudes", { v: ville, st: "rec" })}">Tout voir →</a>` : ""}</div>
-      ${!ville ? `<p class="hint">Choisissez votre ville d'internat : le site retient ce choix et affiche ici les études qui recrutent ou vont ouvrir dans ses centres.</p>` : local.length ? `<div class="tbl">${rows(local.slice(0, 6))}</div>` : `<p class="hint">Aucune étude ouverte déclarée dans cette ville pour le moment.</p>`}</section>
-    ${panel("Résultats récents", rs, href("etudes", { st: "res", so: "fin" }), "Études terminées dont les résultats sont déposés au registre ou publiés.")}
     <section class="panel"><div class="ph"><h2>Explorer par maladie</h2><p>Pour chaque maladie : les molécules en développement par phase, les cohortes et les résultats.</p></div>${disGrid()}</section>`;
+  if (ft) fetch(`data/s/${ft.id}.json`).then(r => r.json()).then(j => { const e = $("featI"); if (e && j.x) e.textContent = j.x.interet; }).catch(() => {});
 }
 
 // ——— Liste ———
-let shown = 50, lastQS = null;
-const getF = () => Object.fromEntries(Object.entries(CTRL).map(([k, id]) => [k, $(id).type === "checkbox" ? ($(id).checked ? "1" : "") : $(id).value.trim()]));
-function setF(q) { for (const [k, id] of Object.entries(CTRL)) { const e = $(id), v = q.get(k) || ""; if (e.type === "checkbox") e.checked = !!v; else { e.value = v; if (e.value !== v) e.value = ""; } } }
+let shown = 50, lastQS = null, since = "", lastVisit = "";
+const getF = () => ({ since, ...Object.fromEntries(Object.entries(CTRL).map(([k, id]) => [k, $(id).type === "checkbox" ? ($(id).checked ? "1" : "") : $(id).value.trim()])) });
+function setF(q) { since = q.get("since") || ""; for (const [k, id] of Object.entries(CTRL)) { const e = $(id), v = q.get(k) || ""; if (e.type === "checkbox") e.checked = !!v; else { e.value = v; if (e.value !== v) e.value = ""; } } }
 function renderList() {
-  const f = getF(), r = apply(DATA, f).sort(SORT[f.so] || rank), nfr = r.filter(s => s.fr === "promo").length;
+  const f = getF(), r = apply(DATA, f).sort(f.st === "res" ? SORT.res : SORT[f.so] || rank), nfr = r.filter(s => s.fr === "promo").length;
   const d = f.dis && (f.dis.startsWith("c:") ? f.dis.slice(2) : DIS[f.dis]?.fr);
-  const title = f.fav ? "Mes études suivies" : f.st === "res" ? "Résultats" + (d ? ` · ${d}` : "") : d || (f.v ? `Études à ${f.v}` : "Toutes les études");
+  const adv = ["or", "v", "sp", "so", "fi", "fav"].filter(k => f[k]).length;
+  if (adv) $("fadv").classList.add("open");
+  $("fMore").textContent = adv ? `Plus de filtres (${adv})` : "Plus de filtres";
+  const title = f.since ? `Depuis le ${fday(f.since)}` : f.fav ? "Mes études suivies" : f.st === "res" ? "Résultats" + (d ? ` · ${d}` : "") : d || (f.v ? `Études à ${f.v}` : "Toutes les études");
   $("listTitle").textContent = title; document.title = `${title} · STUDYprogress`;
   $("count").textContent = `${plur(r.length, "étude")}${nfr ? `, dont ${nfr} à promotion française` : ""}`;
   $("fReset").hidden = !Object.entries(f).some(([k, v]) => v && k !== "so");
@@ -418,7 +471,7 @@ function renderDisease(id) {
   const L = o => href("etudes", { dis: id, ...o });
   const col = p => {
     const l = tr.filter(s => phaseN(s) === p).sort((x, y) => frRank(x) - frRank(y) || !!y.iv.length - !!x.iv.length || SORT.new(x, y));
-    return `<div class="pcol"><h3>Phase ${p}<span>${l.length}</span></h3>${l.slice(0, 10).map(s => `<a class="pi" href="#/${s.id}"><b>${esc(s.iv.join(" + ") || s.acr || s.id)}</b><span>${s.fr === "promo" ? FLAG : ""}${s.iv.length ? esc(s.acr || s.id) + " · " : ""}${stOf(s)[0]}${s.n ? ` · ${s.n} pts` : ""}</span></a>`).join("") || `<span class="none">Aucun essai en cours.</span>`}${l.length > 5 ? `<a class="all${l.length > 10 ? "" : " mob"}" href="${L({ ty: "p" + p, st: "act" })}">Voir les ${l.length} essais →</a>` : ""}</div>`;
+    return `<div class="pcol"><h3>Phase ${p}<span>${l.length}</span></h3>${l.slice(0, 10).map(s => `<a class="pi" href="#/${s.id}"><b>${esc(s.iv.join(" + ") || s.acr || (s.t.length > 70 ? s.t.slice(0, 68) + "…" : s.t))}</b><span>${s.fr === "promo" ? FLAG : ""}${s.iv.length && s.acr ? esc(s.acr) + " · " : ""}${stOf(s)[0]}${s.n ? ` · ${s.n} pts` : ""}</span></a>`).join("") || `<span class="none">Aucun essai en cours.</span>`}${l.length > 5 ? `<a class="all${l.length > 10 ? "" : " mob"}" href="${L({ ty: "p" + p, st: "act" })}">Voir les ${l.length} essais →</a>` : ""}</div>`;
   };
   $("vDis").innerHTML = `<p class="crumb"><a href="#/maladies">Maladies</a> › ${esc(d.cat)}</p><h1 class="pt">${esc(d.fr)}</h1>
     <div class="nums"><div class="num"><b>${act.length}</b><span>études à venir ou en cours</span></div><div class="num"><b>${tr.filter(s => phaseN(s) >= 3).length}</b><span>essais de phase 3 ou 4</span></div><div class="num"><b>${a.filter(s => s.fr === "promo").length}</b><span>à promotion française</span></div><div class="num"><b>${a.filter(STF.res).length}</b><span>avec résultats</span></div></div>
@@ -470,7 +523,7 @@ function glossFor(s) {
 
 // ——— Fiche étude ———
 const STEPS = ["Annoncée", "Inclusions", "Suivi", "Terminée", "Résultats"];
-const stepOf = s => ({ NOT_YET_RECRUITING: 0, RECRUITING: 1, ENROLLING_BY_INVITATION: 1, ACTIVE_NOT_RECRUITING: 2, COMPLETED: s.hasResults || s.pubs.length ? 4 : 3, TERMINATED: 3 })[s.status] ?? 1;
+const stepOf = s => ({ NOT_YET_RECRUITING: 0, RECRUITING: 1, ENROLLING_BY_INVITATION: 1, ACTIVE_NOT_RECRUITING: 2, COMPLETED: s.hasResults || s.r ? 4 : 3, TERMINATED: 3 })[s.status] ?? 1;
 const paras = t => esc(t).split(/\n\s*\n/).map(p => `<p>${p}</p>`).join("");
 const ALLOC = { RANDOMIZED: "randomisée", NON_RANDOMIZED: "non randomisée", NA: "" };
 const MASK = { NONE: "en ouvert", SINGLE: "simple aveugle", DOUBLE: "double aveugle", TRIPLE: "triple aveugle", QUADRUPLE: "quadruple aveugle" };
@@ -514,15 +567,16 @@ async function renderStudy(id) {
   catch { v.innerHTML = `${back}<p>Cette étude n'est plus dans le répertoire (terminée depuis plus de deux ans, ou retirée). <a href="https://clinicaltrials.gov/study/${esc(id)}" target="_blank" rel="noopener">Voir sur ClinicalTrials.gov ↗</a></p>`; return; }
   if (!location.hash.includes(id)) return;
   const x = s.x, L = DATA.find(d => d.id === id) || { ...s, frN: s.frSites.length, res: s.hasResults, phase: s.phase };
-  const cts = L.v || [], on = favs.has(id), g = glossFor(s);
+  const cts = L.v || [], on = favs.has(id), g = glossFor(s), lab = s.acr || (L.iv || []).join(" + "), ttl = x?.titre || s.title, h1 = lab || ttl;
   const pi = s.officials.find(o => /CHAIR|DIRECTOR/.test(o.r)) || s.officials[0];
   const H = t => `<h2>${t}</h2>`;
-  document.title = `${s.acr || s.id} · ${x?.titre || s.title} · STUDYprogress`;
+  document.title = `${lab ? lab + " · " : ""}${ttl} · STUDYprogress`;
   v.innerHTML = `${back}
   <div class="fiche"><article>
     <div class="fh">${s.fr === "promo" ? `<span style="display:inline-flex;gap:6px;align-items:center;color:var(--fr);font-weight:600">${FLAG}Promotion française</span>` : L.fr ? `<span class="badge b-fr">${L.frN} centre${L.frN > 1 ? "s" : ""} en France</span>` : ""}${stTag(L)}<span>${esc(typeTxt(s))}</span>${s.dis.map(d => `<a class="pill" href="#/maladie/${d}">${esc(DIS[d]?.fr)}</a>`).join("")}</div>
-    <h1>${esc(s.acr || s.id)}</h1>
-    <p class="sub">${esc(x?.titre || s.title)}${x ? `<small lang="en">${esc(s.title)}</small>` : ""}</p>
+    <div class="fhd"><h1${h1.length > 28 ? ` class="long"` : ""}>${esc(h1)}</h1><button class="btn fav2" data-f="${id}" aria-pressed="${on}">${on ? "★ Suivie" : "☆ Suivre"}</button></div>
+    <p class="sub">${lab ? esc(ttl) : ""}${x ? `<small lang="en">${esc(s.title)}</small>` : ""}</p>
+    ${s.r ? `<div class="blk key">${H("Ce que l'étude a montré")}<p class="lead-q">${esc(s.r.resultat)}</p><p class="note" style="margin:0">D'après le résumé de la publication : <a href="https://pubmed.ncbi.nlm.nih.gov/${esc(s.r.pmid)}/" target="_blank" rel="noopener">${esc(s.r.ref)} ↗</a>. Synthèse rédigée automatiquement ; l'article fait foi.</p></div>` : ""}
     ${x ? `<div class="blk">${H("La question")}<p class="lead-q">${esc(x.question)}</p><p>${esc(x.profil)}</p>${schema(s, x)}</div>
     <div class="blk key">${H("Ce que l'étude pourrait changer")}${paras(x.interet)}</div>
     <div class="blk">${H("Contexte")}${paras(x.contexte)}</div>
@@ -533,11 +587,11 @@ async function renderStudy(id) {
     <div class="blk" lang="en">${H("Résumé du registre")}${paras(s.summary)}</div>
     <div class="blk" lang="en"><details><summary>Critères d'inclusion et d'exclusion (registre)</summary><div class="raw">${esc(s.elig)}</div></details></div>`}
     <div class="blk">${H("Calendrier")}${calendar(s)}</div>
-    ${s.pubs.length ? `<div class="blk key">${H("Résultats publiés")}<ul>${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul></div>` : s.hasResults ? `<div class="blk key">${H("Résultats")}<p>Des résultats sont déposés au registre. <a href="https://clinicaltrials.gov/study/${s.id}?tab=results" target="_blank" rel="noopener">Les consulter sur ClinicalTrials.gov ↗</a></p></div>` : ""}
+    ${s.hasResults ? `<div class="blk key">${H("Résultats au registre")}<p>Les résultats de l'étude sont déposés au registre. <a href="https://clinicaltrials.gov/study/${s.id}?tab=results" target="_blank" rel="noopener">Les consulter sur ClinicalTrials.gov ↗</a></p></div>` : ""}
+    ${s.pubs.length ? `<div class="blk"><details><summary>Publications citées au registre (${s.pubs.length})</summary><ul style="margin-top:10px">${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul></details></div>` : ""}
     ${x ? `<p class="note">Fiche rédigée automatiquement à partir du registre (${fdate(x.date)}) ; le registre fait foi.</p>` : ""}
   </article>
   <aside class="side">
-    <div class="acts"><button class="btn fav2" data-f="${id}" aria-pressed="${on}">${on ? "★ Suivie" : "☆ Suivre"}</button></div>
     <div class="blk">${H("En bref")}<dl>
       <dt>Promoteur</dt><dd>${esc(s.sponsor)}${s.sClass === "INDUSTRY" ? " (industriel)" : ""}</dd>
       ${s.collabs.length ? `<dt>Partenaires</dt><dd>${esc(s.collabs.slice(0, 4).join(", "))}</dd>` : ""}
@@ -570,7 +624,7 @@ function show(v) {
 function route() {
   const { path, q } = parse(), h = location.hash;
   if (/^NCT\d{8}$/.test(path)) { show("study"); renderStudy(path); scrollTo(0, 0); }
-  else if (path === "etudes") { show("etudes"); setF(q); prevDis = $("fDis").value; if (h !== lastQS) shown = 50; lastQS = h; renderList(); }
+  else if (path === "etudes") { show("etudes"); setF(q); $("fadv").classList.remove("open"); prevDis = $("fDis").value; if (h !== lastQS) shown = 50; lastQS = h; renderList(); }
   else if (path === "maladies" || path.startsWith("maladie/")) { show("maladies"); renderDisease(path.split("/")[1]); }
   else if (path === "reperes" || path === "apropos") { show("reperes"); document.title = "Repères · STUDYprogress"; }
   else { show("home"); renderHome(); document.title = "STUDYprogress · La recherche clinique en médecine interne"; }
@@ -586,6 +640,7 @@ for (const id of Object.values(CTRL)) $(id)[id === "q" ? "oninput" : "onchange"]
 // Choisir une maladie pré-sélectionne la phase 3 (les essais qui changent la pratique) ; « Tous types » reste à un clic.
 let prevDis = "";
 $("fDis").onchange = () => { const d = $("fDis").value; if (d && !prevDis && !$("fTy").value) $("fTy").value = "p3"; prevDis = d; onFilter(); };
+$("fMore").onclick = () => $("fadv").classList.toggle("open");
 $("fReset").onclick = () => { setF(new URLSearchParams()); prevDis = ""; onFilter(); };
 $("moreList").onclick = () => { shown += 50; renderList(); };
 function toggleFav(id) {
@@ -607,11 +662,14 @@ fetch("data/studies.json").then(r => r.json()).then(j => {
   for (const d of j.diseases) DIS[d.id] = d;
   CATS = [...new Set(j.diseases.map(d => d.cat))];
   DATA = j.studies;
-  for (const s of DATA) { s.v ||= []; s.iv ||= []; s._txt = norm([s.id, s.acr, s.t, s.q, s.p, s.sponsor, s.phase, ...s.iv, ...s.v, ...s.dis.map(d => DIS[d].fr + " " + DIS[d].cat)].join(" ")); }
+  for (const s of DATA) { s.v ||= []; s.iv ||= []; s.rs ||= ""; s._txt = norm([s.id, s.acr, s.t, s.q, s.p, s.sponsor, s.phase, ...s.iv, ...s.v, ...s.dis.map(d => DIS[d].fr + " " + DIS[d].cat)].join(" ")); }
   $("fDis").innerHTML = `<option value="">Toutes les maladies</option>` + CATS.map(c => `<optgroup label="${esc(c)}"><option value="c:${esc(c)}">${esc(c)} (toutes)</option>${j.diseases.filter(d => d.cat === c).map(d => `<option value="${d.id}">${esc(d.fr)}</option>`).join("")}</optgroup>`).join("");
   $("fVille").innerHTML = `<option value="">Toutes les villes</option>` + cities().map(v => `<option>${esc(v)}</option>`).join("");
   $("gloss").innerHTML = gl(Object.keys(G));
   $("favN").textContent = favs.size;
+  // Dernière visite : on garde la date de la mise à jour vue la fois précédente pour signaler ce qui a changé depuis.
+  const cur = store("sp-cur"); if (cur !== updated) { if (cur) store("sp-prev", cur); store("sp-cur", updated); }
+  lastVisit = store("sp-prev") || "";
   route();
 }).catch(() => { $("vHome").innerHTML = `<p class="empty">Impossible de charger les données. Rechargez la page.</p>`; });
 </script>

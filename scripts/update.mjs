@@ -113,8 +113,13 @@ async function main() {
   // Fiches en français : réutilise le cache ; une fiche est à (re)faire si l'étude est nouvelle ou son texte a changé.
   await mkdir("data/fr", { recursive: true });
   const studies = [...byId.values()];
-  const todo = [];
+  const todo = [], todoRes = [];
   for (const s of studies) {
+    // Synthèse des résultats publiés (data/res) : à (re)faire si une publication liée n'a pas encore été examinée.
+    delete s.r;
+    const rr = await readJSON(`data/res/${s.id}.json`, null), pmids = s.pubs.map(p => p.pmid).filter(Boolean);
+    if (rr?.resultat) s.r = { pmid: rr.pmid, ref: rr.ref, resultat: rr.resultat };
+    if (pmids.some(p => !(rr?.pmids ?? []).includes(p))) todoRes.push({ id: s.id, pmids });
     delete s.x;
     s.h = hashOf(s);
     const c = await readJSON(`data/fr/${s.id}.json`, null);
@@ -138,6 +143,16 @@ async function main() {
     }));
   }
 
+  // Résumés PubMed des publications à examiner (dossier temporaire, hors dépôt), pour la rédaction des synthèses.
+  if (!process.env.OFFLINE && todoRes.length) {
+    await mkdir("tmp/abs", { recursive: true });
+    for (const t of todoRes) try {
+      const res = await fetch(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${t.pmids.slice(-6).join(",")}&rettype=abstract&retmode=text`);
+      if (res.ok) await writeFile(`tmp/abs/${t.id}.txt`, (await res.text()).slice(0, 20000));
+      await new Promise(ok => setTimeout(ok, 400));
+    } catch (e) { console.warn(`Résumé PubMed ${t.id} : ${e.message}`); }
+  }
+
   // Suivi des changements : date d'apparition et date du dernier changement de statut.
   for (const s of studies) {
     const p = prevById.get(s.id);
@@ -153,12 +168,13 @@ async function main() {
   const light = studies.map(s => ({
     id: s.id, acr: s.acr, t: s.x?.titre || s.title, dis: s.dis, status: s.status, type: s.type, phase: s.phase,
     n: s.n, start: s.start, pcd: s.pcd, sponsor: s.sponsor, sClass: s.sClass, fr: s.fr, frN: s.frSites.length,
-    sites: s.sites, q: s.x?.question ?? "", p: s.x?.profil ?? "", seen: s.seen, chg: s.chg, res: s.hasResults || s.pubs.length > 0,
-    pub: s.pubs.length, rnd: s.alloc === "RANDOMIZED" ? 1 : 0, iv: drugs(s), v: [...new Set(s.frSites.map(l => city(l.c)).filter(Boolean))].sort()
+    sites: s.sites, q: s.x?.question ?? "", p: s.x?.profil ?? "", seen: s.seen, chg: s.chg, res: s.hasResults || !!s.r,
+    pub: s.pubs.length, rs: s.r?.resultat ?? "", rnd: s.alloc === "RANDOMIZED" ? 1 : 0, iv: drugs(s), v: [...new Set(s.frSites.map(l => city(l.c)).filter(Boolean))].sort()
   }));
   await writeFile("data/todo.json", JSON.stringify(todo.map(s => ({ id: s.id, h: s.h, acr: s.acr, fr: s.fr })), null, 0).replace(/},/g, "},\n"));
+  await writeFile("data/todo-res.json", JSON.stringify(todoRes, null, 0).replace(/},/g, "},\n"));
   await writeFile("data/studies.json", JSON.stringify({ updated: process.env.OFFLINE && prev.updated || TODAY, diseases: DISEASES.map(({ q, ...d }) => d), studies: light }));
-  console.log(`${studies.length} études, dont ${studies.filter(s => s.fr === "promo").length} à promotion française ; ${studies.filter(s => s.x).length} résumées ; ${todo.length} fiches à rédiger (data/todo.json).`);
+  console.log(`${studies.length} études, dont ${studies.filter(s => s.fr === "promo").length} à promotion française ; ${studies.filter(s => s.x).length} résumées ; ${todo.length} fiches à rédiger (data/todo.json) ; ${studies.filter(s => s.r).length} synthèses de résultats, ${todoRes.length} à examiner (data/todo-res.json).`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

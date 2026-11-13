@@ -1,0 +1,38 @@
+{
+ "h": "7a90678ce899",
+ "date": "2026-11-13",
+ "titre": "Dexaméthasone IV courte versus immunoglobulines IV dans le SHLH secondaire à une infection de l'adulte",
+ "question": "La dexaméthasone IV en cure courte est-elle non inférieure aux immunoglobulines IV pour obtenir la rémission du lymphohistiocytose hémophagocytaire secondaire à une infection ?",
+ "contexte": "Le syndrome d'activation lymphohistiocytaire (LHH ou HLH) secondaire est une hyperinflammation grave, souvent déclenchée par une infection, avec fièvre, cytopénies, hyperferritinémie et défaillances d'organes. Chez l'adulte, la prise en charge repose surtout sur des protocoles extrapolés de la LHH pédiatrique et sur des séries rétrospectives. Aucun essai randomisé n'a défini le meilleur traitement immunomodulateur de première ligne dans les formes liées à une infection.\n\nEn présence d'une infection, les immunoglobulines intraveineuses (IgIV) sont souvent préférées aux corticoïdes, mais elles sont coûteuses et peu accessibles dans les pays à ressources limitées. La comparaison directe entre IgIV et dexaméthasone seule n'a pas été faite.\n\nCet essai indien, ouvert et de non-infériorité, randomise 116 adultes ayant une LHH secondaire à une infection documentée, avec un score HScore d'au moins 80 %. Les patients reçoivent soit une cure courte de dexaméthasone IV, soit des IgIV, en plus du traitement anti-infectieux ciblé. Le suivi dure 4 semaines. Le promoteur est le PGIMER de Chandigarh, avec le soutien de l'ICMR. L'étude associe critères cliniques, dosage de cytokines et réflexion sur le coût.",
+ "interet": "Si la dexaméthasone est non inférieure, elle offrirait une option bien moins coûteuse que les IgIV. Cela pourrait modifier la stratégie de première ligne, notamment là où l'accès aux IgIV est limité.",
+ "profil": "Des adultes atteints de LHH secondaire à une infection documentée.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "HScore (probabilité) ≥ 80 %",
+  "Étiologie microbiologique connue",
+  "LHH modérée sans réponse au traitement anti-infectieux ciblé après plus de 72 heures, ou avec nouvelle défaillance d'organe",
+  "LHH modérée à sévère avec défaillance d'organe engageant le pronostic vital"
+ ],
+ "exclusion": [
+  "LHH primaire (familiale)",
+  "LHH associée à une hémopathie ou un cancer",
+  "LHH associée à une maladie auto-immune",
+  "LHH liée à l'EBV",
+  "Grossesse, infection par le VIH",
+  "Immunomodulateur dans les 2 mois précédents",
+  "Hypersensibilité aux IgIV ou à la dexaméthasone",
+  "Hépatopathie ou néphropathie chroniques"
+ ],
+ "bras": [
+  {
+   "nom": "IgIV",
+   "traitement": "Immunoglobulines intraveineuses, plus traitement anti-infectieux ciblé et soins standards (posologie non précisée)"
+  },
+  {
+   "nom": "Dexaméthasone IV",
+   "traitement": "Cure courte de dexaméthasone intraveineuse, plus traitement anti-infectieux ciblé et soins standards (posologie non précisée)"
+  }
+ ],
+ "duree": "4 semaines",
+ "critere": "Rémission clinique et récupération des cytokines associées à la LHH, à 4 semaines"
+}
