@@ -537,7 +537,7 @@ async function renderStudy(id) {
     ${x ? `<p class="note">Fiche rédigée automatiquement à partir du registre (${fdate(x.date)}) ; le registre fait foi.</p>` : ""}
   </article>
   <aside class="side">
-    <div class="acts"><button class="btn fav2" data-f="${id}" aria-pressed="${on}">${on ? "★ Suivie" : "☆ Suivre"}</button><button class="btn" id="share">Partager</button></div>
+    <div class="acts"><button class="btn fav2" data-f="${id}" aria-pressed="${on}">${on ? "★ Suivie" : "☆ Suivre"}</button></div>
     <div class="blk">${H("En bref")}<dl>
       <dt>Promoteur</dt><dd>${esc(s.sponsor)}${s.sClass === "INDUSTRY" ? " (industriel)" : ""}</dd>
       ${s.collabs.length ? `<dt>Partenaires</dt><dd>${esc(s.collabs.slice(0, 4).join(", "))}</dd>` : ""}
@@ -591,15 +591,10 @@ function toggleFav(id) {
   const on = favs.has(id);
   for (const b of document.querySelectorAll(`[data-f="${id}"]`)) { b.setAttribute("aria-pressed", on); b.textContent = b.classList.contains("fav2") ? (on ? "★ Suivie" : "☆ Suivre") : on ? "★" : "☆"; }
 }
-document.addEventListener("click", async e => {
+document.addEventListener("click", e => {
   const f = e.target.closest("[data-f]");
   if (f) { e.preventDefault(); toggleFav(f.dataset.f); return; }
   if (e.target.closest("[data-back]")) { prevView ? history.back() : location.hash = "#/etudes"; return; }
-  const sh = e.target.closest("#share");
-  if (sh) {
-    const d = { title: document.title, url: new URL(`e/${parse().path}.html`, location.href.split("#")[0]).href };
-    try { if (navigator.share) await navigator.share(d); else { await navigator.clipboard.writeText(d.url); sh.textContent = "Lien copié ✓"; setTimeout(() => sh.textContent = "Partager", 1800); } } catch {}
-  }
 });
 document.addEventListener("submit", e => { if (e.target.id === "hform") { e.preventDefault(); location.hash = href("etudes", { q: $("hq").value.trim() }); } });
 document.addEventListener("change", e => { if (e.target.id === "ville") { store("sp-ville", e.target.value); renderHome(); } });

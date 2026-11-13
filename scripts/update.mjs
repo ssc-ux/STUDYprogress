@@ -150,16 +150,6 @@ async function main() {
   const keep = new Set(studies.map(s => `${s.id}.json`));
   for (const f of await readdir("data/s")) if (!keep.has(f)) await unlink(`data/s/${f}`);
   for (const s of studies) { const { h, ...rest } = s; await writeFile(`data/s/${s.id}.json`, JSON.stringify(rest)); }
-  // Pages de partage : une page légère par étude (titre et résumé pour l'aperçu du lien), qui redirige vers la fiche.
-  const SITE = "https://ssc-ux.github.io/STUDYprogress/", h = t => String(t ?? "").replace(/[&<>"]/g, c => `&#${c.charCodeAt(0)};`);
-  await mkdir("e", { recursive: true });
-  const keepE = new Set(studies.map(s => `${s.id}.html`));
-  for (const f of await readdir("e")) if (!keepE.has(f)) await unlink(`e/${f}`);
-  for (const s of studies) {
-    const t = h(`${s.acr || s.id} · ${s.x?.titre || s.title}`), d = h(s.x?.question || s.summary.replace(/\s+/g, " ").slice(0, 200));
-    await writeFile(`e/${s.id}.html`, `<!doctype html><html lang="fr"><meta charset="utf-8"><title>${t} · STUDYprogress</title><meta name="description" content="${d}"><meta property="og:title" content="${t}"><meta property="og:description" content="${d}"><meta property="og:type" content="article"><meta property="og:site_name" content="STUDYprogress"><meta property="og:url" content="${SITE}e/${s.id}.html"><link rel="canonical" href="${SITE}e/${s.id}.html"><meta http-equiv="refresh" content="0;url=../#/${s.id}"><script>location.replace("../#/${s.id}")</script><p><a href="../#/${s.id}">${t}</a></p></html>\n`);
-  }
-  await writeFile("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n<url><loc>${SITE}</loc></url>\n${studies.map(s => `<url><loc>${SITE}e/${s.id}.html</loc></url>`).join("\n")}\n</urlset>\n`);
   const light = studies.map(s => ({
     id: s.id, acr: s.acr, t: s.x?.titre || s.title, dis: s.dis, status: s.status, type: s.type, phase: s.phase,
     n: s.n, start: s.start, pcd: s.pcd, sponsor: s.sponsor, sClass: s.sClass, fr: s.fr, frN: s.frSites.length,

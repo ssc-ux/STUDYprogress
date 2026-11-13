@@ -9,7 +9,6 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
 - `scripts/conditions.mjs` : maladies suivies, catégories, détection des promoteurs français.
 - `scripts/update.mjs` : collecte → `data/studies.json` (index léger, avec villes françaises `v` et molécules `iv`), `data/s/<NCT>.json` (fiche complète),
   `data/todo.json` (fiches en français à rédiger, par ordre de priorité).
-- `e/<NCT>.html` et `sitemap.xml` : pages de partage (aperçu du lien, redirection vers la fiche), générées par le script.
 - `data/fr/<NCT>.json` : fiches en français (cache ; ne jamais les supprimer).
 
 ## Mise à jour hebdomadaire (tâche Claude du lundi)
