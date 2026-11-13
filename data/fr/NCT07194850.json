@@ -1,0 +1,35 @@
+{
+ "h": "dbf3bb238f37",
+ "date": "2026-11-13",
+ "titre": "Efgartigimod intraveineux chez l'adolescent atteint de PTI chronique",
+ "question": "Quelle dose d'efgartigimod IV convient aux adolescents de 12 à 17 ans atteints de PTI chronique, d'après la pharmacocinétique et la pharmacodynamie ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) chronique de l'adolescent est une thrombopénie auto-immune persistante au-delà de 12 mois, avec risque hémorragique et altération de la qualité de vie. Les options (corticoïdes, IgIV, agonistes de la TPO, rituximab, splénectomie) sont peu adaptées à un traitement long chez l'enfant, et les données pédiatriques sont limitées.\n\nL'efgartigimod est un fragment Fc d'IgG1 modifié qui bloque le récepteur FcRn et réduit les IgG circulantes, y compris les auto-anticorps antiplaquettes. Il est évalué chez l'adulte dans le PTI (étude ADVANCE NEXT). ADVANCE Jr est une étude de phase 2/3 randomisée 2:1 en double aveugle contre placebo pendant 24 semaines, centrée sur la confirmation de la dose chez les 12 à moins de 18 ans. Elle est suivie d'une première année ouverte, puis d'une seconde facultative, et d'un suivi de 8 semaines. La participation dure jusqu'à 138 semaines. Le promoteur est argenx ; 24 participants sont prévus.",
+ "interet": "Elle devrait fixer la dose pédiatrique d'efgartigimod et ouvrir la voie à une indication chez l'adolescent. Elle renseignera aussi la tolérance chez le jeune.",
+ "profil": "Des adolescents de 12 à 17 ans atteints de PTI primaire chronique, avec plaquettes moyennes < 30 × 10⁹/L.",
+ "inclusion": [
+  "Âge de 12 à moins de 18 ans au moment du consentement",
+  "PTI primaire évoluant depuis plus de 12 mois",
+  "Traitement antérieur par corticoïdes, IgIV, anti-D, agoniste de la TPO ou rituximab",
+  "Réponse antérieure (plaquettes ≥ 50 × 10⁹/L) à prednisone, autres corticoïdes, IgIV ou anti-D",
+  "Réponse insuffisante à un traitement antérieur (corticoïdes, IgIV, anti-D, agoniste de la TPO, rituximab ou splénectomie)",
+  "Plaquettes moyennes < 30 × 10⁹/L"
+ ],
+ "exclusion": [
+  "PTI secondaire (définition IWG : toute thrombopénie immune autre que le PTI primaire)",
+  "Thrombopénie non immune",
+  "Saignement critique ou sévère associé au PTI",
+  "Antécédent de thrombopénie héréditaire"
+ ],
+ "bras": [
+  {
+   "nom": "Efgartigimod IV",
+   "traitement": "Efgartigimod par voie intraveineuse (dose non précisée), en double aveugle puis en ouvert"
+  },
+  {
+   "nom": "Placebo IV puis efgartigimod",
+   "traitement": "Placebo IV pendant 24 semaines, puis efgartigimod IV en ouvert"
+  }
+ ],
+ "duree": "Jusqu'à 138 semaines",
+ "critere": "Concentrations sériques d'efgartigimod et taux d'IgG totales pendant la phase en double aveugle (jusqu'à 24 semaines)"
+}

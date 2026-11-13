@@ -1,0 +1,30 @@
+{
+ "h": "1e61f3cccbe3",
+ "date": "2026-11-13",
+ "titre": "Efficacité du benralizumab dans la granulomatose éosinophilique avec polyangéite en vie réelle",
+ "question": "Quelle est l'efficacité et la tolérance du benralizumab dans l'EGPA en pratique courante ?",
+ "contexte": "La granulomatose éosinophilique avec polyangiite (EGPA) est une vascularite associée à un asthme sévère et une hyperéosinophilie. Le traitement repose sur les corticoïdes, avec des immunosuppresseurs dans les formes sévères. Les anti-IL-5 ont changé la prise en charge : le mépolizumab est approuvé à 300 mg, et le benralizumab, anticorps dirigé contre le récepteur de l'IL-5 qui déplète les éosinophiles, a été comparé au mépolizumab dans l'essai MANDARA, avec une non-infériorité sur la rémission.\n\nLes données en vie réelle sont issues de séries monocentriques, avec des populations hétérogènes (formes récentes, rechutantes ou réfractaires). Elles manquent sur le long terme.\n\nCette étude observationnelle rétro-prospective, menée par le European EGPA Study Group, inclut 100 adultes traités par benralizumab 30 mg toutes les 4 semaines, avec au moins 3 mois de suivi. Les données cliniques, biologiques, de fonction respiratoire, de traitements, de rechutes et de tolérance sont recueillies dans les dossiers médicaux jusqu'à 24 mois.",
+ "interet": "Elle précisera les taux de réponse complète, de rechute et l'évolution respiratoire du benralizumab dans des conditions réelles, y compris dans les formes réfractaires peu représentées dans les essais.",
+ "profil": "Des adultes atteints d'EGPA traités par benralizumab dans des centres de référence européens.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "EGPA selon les critères ACR/EULAR 2022 ou les critères de l'essai MIRRA",
+  "Traitement par benralizumab 30 mg toutes les 4 semaines",
+  "Au moins 3 mois de suivi après le début du benralizumab",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Âge inférieur à 18 ans",
+  "Aucune donnée de suivi après le début du benralizumab",
+  "Suivi inférieur à 3 mois",
+  "Absence de consentement écrit lorsque la réglementation locale l'exige"
+ ],
+ "bras": [
+  {
+   "nom": "Patients EGPA sous benralizumab",
+   "traitement": "Benralizumab 30 mg toutes les 4 semaines ; formes récentes, rechutantes ou réfractaires"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois",
+ "critere": "Réponse complète, réponse partielle, évolution de la fonction respiratoire et rechute, évaluées à 3, 6, 12 et 24 mois."
+}

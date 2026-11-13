@@ -1,0 +1,39 @@
+{
+ "h": "a0a88507fbee",
+ "date": "2026-11-13",
+ "titre": "Hydrocortisone en situation de stress lors d'une insuffisance surrénale induite par la prednisolone",
+ "question": "Un supplément d'hydrocortisone lors d'un stress réduit-il la fatigue chez des patients sous faible dose de prednisolone ayant une insuffisance surrénale induite ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) et l'artérite à cellules géantes (ACG) sont traitées par glucocorticoïdes pendant des mois ou des années. Une corticothérapie prolongée freine l'axe corticotrope : l'insuffisance surrénale induite est fréquente, même à faible dose (5 mg/jour de prednisolone ou moins). Elle peut se manifester par une fatigue persistante, qui altère la qualité de vie.\n\nLa fatigue est difficile à rattacher à l'insuffisance surrénale, car la maladie, l'âge et d'autres facteurs interviennent. En situation de stress physique ou mental, l'organisme ne peut pas augmenter sa production de cortisol, ce qui justifie les schémas d'adaptation de doses (« sick-day rules »), mais leur efficacité n'a pas été testée sur la fatigue dans cette population.\n\nCet essai de phase 4 en double insu, mené par Marianne Klose (Danemark), inclut 250 patients de 50 ans ou plus avec PPR ou ACG sous prednisolone de 5 mg/jour ou moins. Ceux avec insuffisance surrénale (test au Synacthène inférieur à 420 nmol/L) sont randomisés entre hydrocortisone et placebo en situation de stress ; ceux dont la fonction surrénalienne est normale forment un groupe témoin non traité.",
+ "interet": "Il pourrait fonder des recommandations sur la supplémentation en cortisol lors des épisodes de stress chez les patients sevrés progressivement des corticoïdes, avec un effet attendu sur la fatigue.",
+ "profil": "Des adultes de 50 ans ou plus avec PPR ou ACG, sous prednisolone de 5 mg/jour ou moins, avec ou sans insuffisance surrénale induite.",
+ "inclusion": [
+  "Âge de 50 ans ou plus, femmes ménopausées",
+  "Diagnostic de PPR, d'ACG ou des deux",
+  "Prednisolone depuis au moins 12 semaines",
+  "Dose quotidienne actuelle supérieure à 0 et inférieure ou égale à 5 mg depuis au moins 2 semaines"
+ ],
+ "exclusion": [
+  "Insuffisance surrénale connue ou syndrome de Cushing",
+  "Allergie aux composants du traitement",
+  "Comorbidité sévère (insuffisance cardiaque NYHA IV, DFG inférieur à 30, cirrhose, cancer actif, immunodéficience, maladie psychiatrique sévère)",
+  "Consommation d'alcool supérieure à 21 unités par semaine",
+  "Chirurgie majeure programmée",
+  "Œstrogènes systémiques récents, inhibiteurs ou inducteurs puissants du CYP3A4, autres formes de glucocorticoïdes"
+ ],
+ "bras": [
+  {
+   "nom": "Hydrocortisone",
+   "traitement": "Patients avec insuffisance surrénale (Synacthène inférieur à 420 nmol/L) randomisés pour recevoir de l'hydrocortisone en situation de stress (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Patients avec insuffisance surrénale randomisés pour recevoir un placebo en situation de stress"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Patients avec fonction surrénalienne normale (Synacthène d'au moins 420 nmol/L), sans intervention"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Fatigue générale (échelle MFI-20) mesurée par évaluation momentanée écologique, 5 fois par jour pendant 3 jours en situation de stress."
+}

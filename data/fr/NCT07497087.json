@@ -1,0 +1,36 @@
+{
+ "h": "e7a185b28305",
+ "date": "2026-11-13",
+ "titre": "Nérandomilast oral dans la sclérodermie systémique de début récent",
+ "question": "Le nérandomilast retarde-t-il la progression de la maladie ou le décès chez des patients atteints de sclérodermie systémique évoluant depuis moins de 7 ans ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare dont les atteintes cutanée, pulmonaire et viscérale peuvent progresser malgré les traitements. Les options actuelles ciblent surtout la PID, et aucun traitement ne contrôle l'ensemble de la maladie.\n\nLe nérandomilast est un inhibiteur préférentiel de la phosphodiestérase 4B, à effets antifibrosants et anti-inflammatoires. Il a été développé dans la fibrose pulmonaire idiopathique et la fibrose pulmonaire progressive, où il ralentit le déclin de la CVF. VERANDA-SSc évalue son intérêt dans l'ensemble de la ScS, et pas seulement dans la PID. Cette étude de phase 3 est randomisée, en double aveugle contre placebo, avec deux prises orales par jour. Elle inclut des ScS limitées ou diffuses, actives, dont le début des symptômes hors Raynaud remonte à moins de 7 ans, sous traitement stable ou sans traitement. Le promoteur est Boehringer Ingelheim ; 448 participants sont prévus.",
+ "interet": "Une réussite ouvrirait la voie à un traitement oral de la ScS agissant sur la progression globale, au-delà de la PID. Elle compléterait les options actuelles, avec la possibilité d'une association au nintédanib.",
+ "profil": "Des adultes atteints de sclérodermie systémique limitée ou diffuse, active, dont le début remonte à moins de 7 ans.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ScS selon les critères ACR/EULAR 2013",
+  "Forme cutanée limitée ou diffuse (LeRoy 1988)",
+  "Début (premier signe hors Raynaud) il y a moins de 7 ans",
+  "Maladie active au dépistage ; forme limitée : anticentromère négatifs",
+  "CVF ≥ 45 % et DLCO ≥ 25 % de la théorique",
+  "Absence de traitement ou traitement stable (immunosuppresseurs, immunomodulateurs, nintédanib)",
+  "Contraception efficace pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Vascularite active, instable ou non contrôlée dans les 8 semaines",
+  "Comportement suicidaire dans les 2 dernières années",
+  "Idéation suicidaire de type 4 ou 5 (C-SSRS) dans les 3 derniers mois",
+  "Autres critères d'exclusion du protocole non détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "Nérandomilast",
+   "traitement": "Nérandomilast par voie orale, deux fois par jour (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral, deux fois par jour"
+  }
+ ],
+ "duree": "De 1 à environ 4 ans",
+ "critere": "Délai jusqu'à la première progression de la maladie ou le décès toutes causes, jusqu'à 4 ans"
+}

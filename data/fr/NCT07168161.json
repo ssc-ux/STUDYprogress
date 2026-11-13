@@ -1,0 +1,38 @@
+{
+ "h": "b4921f7d5a64",
+ "date": "2026-11-13",
+ "titre": "BDB-001 en phase 3 dans les vascularites à ANCA",
+ "question": "Le BDB-001, associé à un traitement d'induction sans corticoïdes à dose pleine, induit-il une rémission à 24 semaines dans les vascularites à ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et PAM) nécessitent une induction par rituximab ou cyclophosphamide associé à de la prednisone. La toxicité des glucocorticoïdes (infections, diabète, ostéoporose) pousse à rechercher des alternatives épargnant ces molécules.\n\nL'activation du complément par la voie alterne, via le fragment C5a et son récepteur sur les neutrophiles, est un élément central de la physiopathologie. L'avacopan, antagoniste du récepteur C5a, a démontré l'intérêt de cette cible dans l'essai ADVOCATE. Le BDB-001, développé par Staidson (Pékin), est un anticorps monoclonal injectable dirigé contre C5a, d'après sa classe pharmacologique.\n\nCet essai de phase 3 randomise 300 adultes de 18 à 75 ans ayant une GPA ou PAM active, nouvelle ou en rechute. Le bras BDB-001 reçoit l'induction habituelle (cyclophosphamide puis azathioprine, ou rituximab) avec un placebo de prednisone. Le bras comparateur reçoit prednisone à dose initiale complète avec un placebo de BDB-001.",
+ "interet": "Il pourrait confirmer qu'une approche anti-C5a injectable permet d'induire la rémission en épargnant les glucocorticoïdes à dose pleine. Il évalue la rémission à 24 semaines.",
+ "profil": "Des adultes de 18 à 75 ans atteints de GPA ou PAM active, nouvelle ou en rechute, avec ANCA positifs.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "GPA ou PAM nouvelle ou en rechute nécessitant une induction à dose pleine",
+  "Anticorps anti-PR3 ou anti-MPO positifs",
+  "DFG d'au moins 15 mL/min/1,73 m²",
+  "Au moins 1 item majeur, 3 items mineurs du BVAS ou les 2 items rénaux"
+ ],
+ "exclusion": [
+  "Tuberculose active",
+  "Hémorragie alvéolaire sous assistance respiratoire",
+  "Cancer dans les 5 ans (sauf exceptions)",
+  "Autre maladie auto-immune multisystémique (EGPA, lupus, IgA, rhumatoïde, anti-MBG, cryoglobulinémie)",
+  "Hépatite B active",
+  "Cyclophosphamide dans les 3 mois, rituximab ou anti-B dans les 12 mois, corticoïdes en bolus dans les 4 semaines",
+  "Dialyse, immunoglobulines IV ou échanges plasmatiques récents",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe BDB-001",
+   "traitement": "BDB-001 injectable avec cyclophosphamide puis azathioprine, ou rituximab, plus placebo de prednisone"
+  },
+  {
+   "nom": "Groupe prednisone",
+   "traitement": "Placebo de BDB-001 avec cyclophosphamide puis azathioprine, ou rituximab, plus prednisone à dose initiale complète"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 24 semaines)",
+ "critere": "Proportion de patients en rémission selon le BVAS à 24 semaines."
+}

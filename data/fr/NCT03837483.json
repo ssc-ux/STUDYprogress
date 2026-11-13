@@ -1,0 +1,31 @@
+{
+ "h": "031a46483864",
+ "date": "2026-11-13",
+ "titre": "Thérapie génique OTL-103 cryoconservée dans le syndrome de Wiskott-Aldrich",
+ "question": "La formulation cryoconservée de la thérapie génique OTL-103 réduit-elle les infections sévères et les hémorragies dans le syndrome de Wiskott-Aldrich ?",
+ "contexte": "Le syndrome de Wiskott-Aldrich (WAS) est un déficit immunitaire lié à l'X, dû à des variants du gène WAS. Il associe thrombopénie avec petites plaquettes, eczéma, infections récidivantes, auto-immunité et risque de lymphomes. La greffe allogénique de cellules souches est le traitement curatif de référence, mais elle suppose un donneur compatible et expose à la GVH et à des complications précoces.\n\nLa thérapie génique ex vivo propose de corriger les cellules du patient lui-même. L'OTL-103 consiste en des cellules souches CD34+ autologues transduites avec un vecteur lentiviral de troisième génération portant le gène WAS. Des résultats antérieurs sont publiés avec la formulation fraîche. Cet essai de phase 3 ouvert à bras unique, promu par la Fondazione Telethon, évalue la formulation cryoconservée chez 10 patients atteints de WAS sévère sans donneur HLA identique apparenté. Il n'y a pas de comparateur.",
+ "interet": "La cryoconservation faciliterait la logistique de production et de contrôle qualité de la thérapie génique. Si l'efficacité est maintenue, cette option élargirait l'accès à un traitement potentiellement curatif sans donneur compatible.",
+ "profil": "Des patients jusqu'à 65 ans atteints de syndrome de Wiskott-Aldrich sévère, sans donneur HLA identique apparenté.",
+ "inclusion": [
+  "Âge jusqu'à 65 ans",
+  "Diagnostic de WAS par mutation génétique et au moins un critère : mutation sévère, absence d'expression de WASP en cytométrie, ou score clinique de Zhu ≥ 3",
+  "Absence de donneur HLA identique apparenté pour une greffe"
+ ],
+ "exclusion": [
+  "Dysfonction d'organe, infection sévère non contrôlée ou affection grave rendant l'inclusion inappropriée",
+  "Cancer (hors cancer cutané local) ou syndrome héréditaire de cancer",
+  "Myélodysplasie ou autre hémopathie grave",
+  "Infection par le VIH, tuberculose aiguë, hépatite B ou ARN du VHC positif",
+  "Allogreffe antérieure avec cellules du donneur résiduelles",
+  "Patient non éligible à la mobilisation des cellules CD34+",
+  "Thérapie génique antérieure"
+ ],
+ "bras": [
+  {
+   "nom": "Thérapie génique",
+   "traitement": "OTL-103 : cellules souches CD34+ autologues transduites ex vivo par un vecteur lentiviral portant le gène WAS, formulation cryoconservée"
+  }
+ ],
+ "duree": "Suivi d'au moins 18 mois après la thérapie génique ; durée totale non précisée",
+ "critere": "Taux annualisé d'infections sévères entre 6 et 18 mois après la thérapie génique par rapport à l'année précédente, et taux annualisé d'hémorragies modérées à sévères sur 1 an."
+}

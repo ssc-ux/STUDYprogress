@@ -1,0 +1,32 @@
+{
+ "h": "c998756875e0",
+ "date": "2026-11-13",
+ "titre": "Efzofitimod intraveineux contre placebo dans la sarcoïdose pulmonaire symptomatique sous corticoïdes",
+ "question": "L'efzofitimod permet-il de réduire la dose quotidienne de corticoïdes oraux à 48 semaines chez des patients atteints de sarcoïdose pulmonaire ?",
+ "contexte": "La sarcoïdose est une granulomatose systémique de cause inconnue, dont l'atteinte pulmonaire est la plus fréquente. Elle peut entraîner dyspnée, toux, altération de la qualité de vie et fibrose pulmonaire dans les formes évoluées. Les corticoïdes oraux restent le traitement de première ligne, mais la plupart des patients nécessitent des traitements prolongés avec leurs effets indésirables cumulés. Le méthotrexate est le principal épargneur de corticoïdes, et aucun traitement n'a d'AMM spécifique dans cette indication en Europe.\n\nL'efzofitimod est une protéine de fusion issue de l'histidyl-ARNt synthétase, qui se lie à la neuropiline-2 exprimée sur les cellules immunitaires (macrophages) et module l'inflammation granulomateuse. Il est administré par voie intraveineuse. Cette étude de phase 3 randomisée en double aveugle contre placebo compare deux doses (3 et 5 mg/kg) au placebo pendant 48 semaines, chez des adultes sous corticoïdes oraux stables, avec ou sans un immunosuppresseur. Le promoteur est aTyr Pharma, avec des centres français.",
+ "interet": "L'étude porte sur l'épargne cortisonique dans la sarcoïdose pulmonaire, un objectif cliniquement pertinent en l'absence d'alternative approuvée. Elle pourrait faire émerger une nouvelle classe thérapeutique dans cette maladie.",
+ "profil": "Des adultes atteints de sarcoïdose pulmonaire symptomatique, traités par corticoïdes oraux de façon stable.",
+ "inclusion": [
+  "Sarcoïdose pulmonaire documentée depuis au moins 6 mois, avec preuve histologique et atteinte parenchymateuse sur l'imagerie",
+  "Sarcoïdose pulmonaire symptomatique : dyspnée mMRC ≥ 1 et score KSQ-Lung ≤ 70",
+  "Corticoïdes oraux depuis ≥ 3 mois, dose initiale de 7,5 à 25 mg/j stable depuis ≥ 4 semaines",
+  "Poids ≥ 40 kg et < 160 kg",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Plus d'un traitement immunosuppresseur",
+  "Biothérapie immunomodulatrice (anti-TNF, inhibiteur d'interleukine) ou antifibrosant",
+  "Fibrose pulmonaire probable (> 20 % au scanner haute résolution dans les 12 mois, ou CVF < 50 % avec KSQ-Lung < 30)",
+  "Hypertension pulmonaire cliniquement significative",
+  "Atteinte cardiaque, neurologique ou rénale active nécessitant un traitement spécifique dans les 2 ans",
+  "Sarcoïdose cutanée ou oculaire à risque de poussée nécessitant un traitement systémique",
+  "Fumeur actif important, syndrome des antisynthétases ou anti-Jo-1 positifs, tuberculose active"
+ ],
+ "bras": [
+  {"nom": "Efzofitimod 3 mg/kg", "traitement": "Efzofitimod 3 mg/kg par voie intraveineuse ; rythme non précisé"},
+  {"nom": "Efzofitimod 5 mg/kg", "traitement": "Efzofitimod 5 mg/kg par voie intraveineuse ; rythme non précisé"},
+  {"nom": "Placebo", "traitement": "Placebo par voie intraveineuse"}
+ ],
+ "duree": "48 semaines",
+ "critere": "Variation de la dose quotidienne moyenne de corticoïdes oraux entre l'inclusion et la semaine 48."
+}

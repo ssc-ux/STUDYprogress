@@ -1,0 +1,36 @@
+{
+ "h": "baea75897131",
+ "date": "2026-11-13",
+ "titre": "SCTC21C associé à VCd dans l'amylose AL nouvellement diagnostiquée",
+ "question": "L'ajout de SCTC21C à l'association bortézomib, cyclophosphamide et dexaméthasone (VCd) améliore-t-il la réponse hématologique complète dans l'amylose AL ?",
+ "contexte": "L'amylose AL est une maladie plasmocytaire où des chaînes légères monoclonales forment des dépôts dans le cœur, les reins et d'autres organes. Le pronostic dépend de l'atteinte d'organe et de la profondeur de la réponse hématologique. Le traitement de première ligne repose sur l'association VCd, et, depuis l'essai ANDROMEDA, sur l'ajout du daratumumab, anticorps anti-CD38.\n\nLe daratumumab n'est pas accessible partout, notamment en Chine. SCTC21C est un anticorps monoclonal anti-CD38 développé par Sinocelltech. Cet essai de phase 3 randomisé, promu par Sinocelltech, compare SCTC21C plus VCd à VCd seul chez 90 patients atteints d'amylose AL nouvellement diagnostiquée, avec maladie mesurable et au moins un organe atteint. Le critère principal est la réponse hématologique complète.",
+ "interet": "Si l'ajout de l'anti-CD38 améliore la réponse hématologique, il offrirait une alternative à l'association à base de daratumumab dans l'amylose AL.",
+ "profil": "Des adultes atteints d'amylose AL systémique nouvellement diagnostiquée, avec maladie mesurable et au moins un organe atteint.",
+ "inclusion": [
+  "Amylose prouvée à l'histologie (rouge Congo, biréfringence verte) ou en microscopie électronique",
+  "Maladie AL mesurable",
+  "Au moins un organe atteint selon les recommandations de consensus",
+  "ECOG 0, 1 ou 2"
+ ],
+ "exclusion": [
+  "Traitement antérieur de l'amylose AL",
+  "Autre type d'amylose",
+  "Infection non contrôlée",
+  "Affection cardiovasculaire, respiratoire, métabolique, hépatique, digestive ou cancer cliniquement significatif",
+  "Chirurgie majeure ou traumatisme dans les 4 semaines",
+  "Vaccin vivant atténué dans les 30 jours ; allaitement",
+  "Trouble mental ou mauvaise observance"
+ ],
+ "bras": [
+  {
+   "nom": "SCTC21C + VCd",
+   "traitement": "SCTC21C (anticorps monoclonal anti-CD38) avec bortézomib, cyclophosphamide et dexaméthasone (doses non précisées)"
+  },
+  {
+   "nom": "VCd",
+   "traitement": "Bortézomib, cyclophosphamide et dexaméthasone (doses non précisées)"
+  }
+ ],
+ "duree": "Jusqu'à environ 50 mois",
+ "critere": "Proportion de participants avec une réponse hématologique complète globale, jusqu'à environ 50 mois après l'inclusion du premier participant."
+}

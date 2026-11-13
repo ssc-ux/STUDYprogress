@@ -1,0 +1,38 @@
+{
+ "h": "0e12762d4dd2",
+ "date": "2026-11-13",
+ "titre": "Élénestinib dans la mastocytose systémique avancée et autres hémopathies avec anomalie de KIT",
+ "question": "Quelles sont la dose recommandée, la sécurité et l'activité de l'élénestinib, seul ou avec l'azacitidine, dans la mastocytose systémique avancée ?",
+ "contexte": "La mastocytose systémique avancée regroupe la mastocytose agressive, la mastocytose systémique avec néoplasie hématologique associée (SM-AHN) et la leucémie à mastocytes. Elle est liée à la mutation KIT D816V dans la grande majorité des cas, avec atteinte d'organes et pronostic réservé.\n\nLes inhibiteurs de KIT (midostaurine, avapritinib) ont amélioré la prise en charge, mais certains patients progressent ou ne tolèrent pas ces traitements. Les SM-AHN à haut risque, avec néoplasie myéloïde associée, restent particulièrement difficiles à traiter et reposent souvent sur les agents hypométhylants comme l'azacitidine.\n\nL'élénestinib (BLU-263) est un inhibiteur sélectif de KIT D816V. Cette étude de phase 1 de Blueprint Medicines, non randomisée, comprend un bras monothérapie (mastocytose agressive, SM-AHN ou leucémie à mastocytes, et autres hémopathies avec anomalie de KIT ou PDGFR après accord du promoteur) et un bras association à l'azacitidine pour les SM-AHN à haut risque ou très haut risque. La participation dure environ 4 ans, dont 2 ans de traitement.",
+ "interet": "Les résultats préciseront la place de l'élénestinib comme alternative ou complément aux traitements actuels dans les formes avancées, y compris après un autre inhibiteur de KIT.",
+ "profil": "Des adultes atteints de mastocytose systémique avancée ou d'une autre hémopathie avec anomalie de KIT, en rechute ou réfractaire.",
+ "inclusion": [
+  "ECOG de 0 à 2",
+  "Biopsie médullaire récente (ou archivée dans les 56 jours) et accord pour des biopsies de suivi",
+  "Arrêt d'un traitement antinéoplasique dans les 12 semaines précédentes pour progression, échec ou intolérance",
+  "Un seul inhibiteur sélectif de KIT antérieur autorisé après confirmation de KIT D816V et accord du promoteur",
+  "Monothérapie : mastocytose agressive, SM-AHN non candidate à un agent hypométhylant seul, ou leucémie à mastocytes confirmée par anatomopathologie centrale",
+  "Association : SM-AHN à haut ou très haut risque avec néoplasie associée non mastocytaire"
+ ],
+ "exclusion": [
+  "Plus d'un inhibiteur sélectif de KIT antérieur, ou arrêt antérieur pour événement indésirable grave lié",
+  "ASAT/ALAT > 3 × LSN, bilirubine > 1,5 × LSN, clairance de la créatinine < 40 mL/min ou polynucléaires neutrophiles < 0,5 G/L",
+  "Chirurgie majeure dans les 14 jours",
+  "Autre cancer diagnostiqué ou traité dans l'année (sauf exceptions)",
+  "QTcF > 480 ms, antécédent de QT long ou de torsades de pointes",
+  "Maladie cardiovasculaire non contrôlée cliniquement significative",
+  "Monothérapie : SMD à haut risque, néoplasie myéloïde avec ≥ 10 % de blastes, ou plaquettes < 50 G/L"
+ ],
+ "bras": [
+  {
+   "nom": "Monothérapie",
+   "traitement": "Élénestinib (BLU-263) seul chez des patients atteints de mastocytose agressive, SM-AHN ou leucémie à mastocytes"
+  },
+  {
+   "nom": "Association",
+   "traitement": "Élénestinib (BLU-263) plus azacitidine chez des patients avec SM-AHN à haut ou très haut risque de lignée non mastocytaire"
+  }
+ ],
+ "duree": "Environ 4 ans, dont 2 ans de traitement",
+ "critere": "Toxicités dose-limitantes à 28 jours ; taux de réponse pathologique pure de la mastocytose (monothérapie, naïfs d'inhibiteur de KIT) et événements indésirables jusqu'à environ 4 ans."
+}

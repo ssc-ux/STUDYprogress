@@ -1,0 +1,41 @@
+{
+ "h": "250148a7a088",
+ "date": "2026-11-13",
+ "titre": "Pacritinib pour prévenir les poussées du syndrome VEXAS après décroissance des corticoïdes",
+ "question": "Le pacritinib permet-il de contrôler le syndrome VEXAS pendant la décroissance des corticoïdes, par rapport au placebo ?",
+ "contexte": "Le syndrome VEXAS est une maladie auto-inflammatoire acquise de l'adulte, due à une mutation somatique du gène UBA1 (codon M41) dans les cellules myéloïdes. Il associe fièvre, atteintes cutanées, chondrite, vascularite, atteintes pulmonaires ou oculaires, et cytopénies, avec des vacuoles dans les précurseurs myéloïdes. La morbi-mortalité est élevée et un syndrome myélodysplasique est fréquent.\n\nLes patients sont très dépendants des corticoïdes, avec leurs effets indésirables. Aucun traitement n'est validé : on utilise le ruxolitinib (inhibiteur de JAK1/2), le tocilizumab, l'azacitidine ou l'allogreffe dans certains cas.\n\nLe pacritinib est un inhibiteur oral de JAK2, IRAK1 et FLT3, déjà utilisé dans la myélofibrose avec thrombopénie. PAXIS est un essai de phase 2a/2b de Sobi, randomisé en double insu contre placebo, chez 156 adultes dans 8 pays dont la France. Il inclut des patients avec VEXAS inflammatoire sous corticoïdes (15 à 45 mg/j). La phase 2a compare deux doses de pacritinib au placebo ; la phase 2b poursuit avec la dose retenue contre placebo. Le traitement dure 24 semaines en double insu, suivi d'une phase ouverte de 48 semaines.",
+ "interet": "Ce serait l'un des premiers essais randomisés dans le VEXAS. Un traitement oral épargnant les corticoïdes répondrait à un besoin majeur. Le critère principal est la réponse clinique partielle ou mieux.",
+ "profil": "Des adultes atteints de syndrome VEXAS inflammatoire avec mutation de UBA1, sous corticoïdes à 15-45 mg/j.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Mutation pathogène de UBA1 en position M41 ou site d'épissage voisin, documentée",
+  "Atteinte inflammatoire d'au moins un organe (cutané, vasculaire, ostéo-articulaire, oculaire, périorbitaire, génito-urinaire, pulmonaire) dans les 6 mois",
+  "Prednisone ou prednisolone stable de 15 à 45 mg/j",
+  "Karnofsky ≥ 50 % et fonction d'organe correcte (transaminases, bilirubine, clairance ≥ 30 mL/min, neutrophiles ≥ 500/µL, plaquettes ≥ 25 G/L)",
+  "QTcF dans les limites fixées, contraception efficace"
+ ],
+ "exclusion": [
+  "Allogreffe de cellules souches ou greffe d'organe antérieure",
+  "Corticoïdes systémiques pour une autre maladie gênant la décroissance ou l'évaluation",
+  "Plus d'une admission en réanimation pour poussée de VEXAS dans les 6 mois",
+  "9 unités de globules rouges ou plus dans les 90 jours",
+  "SMD nécessitant un traitement antinéoplasique ou SMD de risque élevé (IPSS-R)",
+  "Cancer dans l'année précédente (hors SMD et exceptions)"
+ ],
+ "bras": [
+  {
+   "nom": "Pacritinib dose A",
+   "traitement": "Pacritinib oral, dose A, jusqu'à 24 semaines"
+  },
+  {
+   "nom": "Pacritinib dose B + placebo",
+   "traitement": "Pacritinib oral, dose B, avec placebo, jusqu'à 24 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral jusqu'à 24 semaines"
+  }
+ ],
+ "duree": "24 semaines en double insu, 48 semaines en ouvert, extension possible de 2 ans",
+ "critere": "Taux de réponse globale, défini par une réponse clinique partielle ou mieux à tout moment pendant la phase en double insu, jusqu'à la semaine 24"
+}

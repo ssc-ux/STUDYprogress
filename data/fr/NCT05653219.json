@@ -1,0 +1,40 @@
+{
+ "h": "555dc38fc9d8",
+ "date": "2026-11-13",
+ "titre": "Ianalumab associé à l'eltrombopag dans le PTI en échec des corticoïdes",
+ "question": "L'ajout de ianalumab à l'eltrombopag prolonge-t-il le délai jusqu'à l'échec du traitement chez des adultes atteints de PTI en échec d'une corticothérapie de première ligne ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est dû à une destruction auto-immune des plaquettes et à une production insuffisante. Après l'échec ou la rechute sous corticoïdes avec ou sans IgIV, les agonistes du récepteur de la thrombopoïétine (eltrombopag) sont une option fréquente. Leur effet disparaît le plus souvent à l'arrêt, ce qui impose un traitement prolongé.\n\nLe ianalumab est un anticorps anti-BAFF-R qui déplète les lymphocytes B et bloque la signalisation BAFF, ciblant ainsi la production d'auto-anticorps. VAYHIT2 est une étude de phase 3 randomisée en double aveugle, où deux doses de ianalumab ou un placebo sont ajoutés à l'eltrombopag chez des adultes dont les plaquettes sont < 30 G/L. Après le traitement randomisé, l'eltrombopag est diminué, puis les participants sont suivis. Le promoteur est Novartis ; 152 participants ont été inclus.",
+ "interet": "L'association vise à obtenir des réponses durables après l'arrêt de l'eltrombopag, en agissant sur la cause auto-immune. Un résultat positif pourrait faire évoluer la stratégie de seconde ligne du PTI.",
+ "profil": "Des adultes atteints de PTI primaire en échec ou en rechute après une corticothérapie de première ligne, avec ou sans IgIV, et plaquettes < 30 G/L.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "PTI primaire avec réponse insuffisante ou rechute après corticoïdes ± IgIV",
+  "Plaquettes < 30 G/L, eltrombopag indiqué",
+  "Absence de contre-indication à l'eltrombopag"
+ ],
+ "exclusion": [
+  "Traitement de seconde ligne antérieur (hors corticoïdes ± IgIV), dont splénectomie (un agoniste de la TPO ≤ 1 semaine est toléré)",
+  "Syndrome d'Evans ou autre cytopénie, anomalies biologiques ou hématologiques significatives",
+  "Saignement actuel ou antérieur menaçant le pronostic vital",
+  "VIH, hépatite C, hépatite B (HBsAg/HBcAb positifs, sauf conditions précises)",
+  "Infection active ou non contrôlée, insuffisance hépatique",
+  "Trouble de la coagulation ou antiplaquettaire/anticoagulant (aspirine ≤ 150 mg/j autorisée)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab faible dose + eltrombopag",
+   "traitement": "Ianalumab à faible dose (non précisée) associé à l'eltrombopag"
+  },
+  {
+   "nom": "Ianalumab forte dose + eltrombopag",
+   "traitement": "Ianalumab à forte dose (non précisée) associé à l'eltrombopag"
+  },
+  {
+   "nom": "Placebo + eltrombopag",
+   "traitement": "Placebo associé à l'eltrombopag"
+  }
+ ],
+ "duree": "Jusqu'à la fin de l'étude (jusqu'à 39 mois après la randomisation du dernier patient)",
+ "critere": "Délai entre la randomisation et l'échec du traitement"
+}

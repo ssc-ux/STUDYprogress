@@ -1,0 +1,36 @@
+{
+ "h": "324f3bc1d86e",
+ "date": "2026-11-13",
+ "titre": "Deucrictibant oral au long cours dans le traitement des crises d'angiœdème héréditaire",
+ "question": "Le deucrictibant oral est-il sûr et efficace au long cours pour traiter les crises aiguës d'angiœdème héréditaire, y compris laryngées ?",
+ "contexte": "L'angiœdème héréditaire (AOH) provoque des crises d'œdème dues à un excès de bradykinine. Le traitement d'une crise doit être le plus précoce possible, mais les options standard (icatibant en injection sous-cutanée, C1-INH ou ecallantide, en injection ou perfusion) ne sont pas orales. Une forme orale à action rapide pourrait faciliter un traitement immédiat, notamment hors du domicile.\n\nLe deucrictibant (PHA-022121) est un antagoniste oral du récepteur B2 de la bradykinine. Cette étude de phase 2/3 est une extension de longue durée de l'étude C201 (NCT04618211) et de l'étude C306 (NCT06343779). Elle comprend une partie A, où le dosage en aveugle de l'étude C201 est conservé, et une partie B, en ouvert avec capsules molles. Elle inclut aussi des adultes naïfs de deucrictibant atteints d'AOH à C1-INH normal (type III), sous conditions de confirmation diagnostique. Le promoteur est Pharvaris, avec des centres français.",
+ "interet": "L'étude apportera des données de sécurité et d'efficacité à long terme sur un traitement de crise oral. Elle explorera aussi les crises laryngées et l'AOH à C1-INH normal, peu documentés.",
+ "profil": "Des adolescents et adultes atteints d'angiœdème héréditaire, issus d'études antérieures du deucrictibant, ou des adultes naïfs avec AOH à C1-INH normal.",
+ "inclusion": [
+  "Consentement écrit (et assentiment pour les mineurs)",
+  "Participants de l'étude C201 : au moins une dose reçue",
+  "Participants de l'étude C306 : randomisés et étude terminée avec 2 crises traitées, ou clôture de l'étude par le promoteur",
+  "Adultes naïfs avec AOH de type III : crises récurrentes, fonction C1-INH ≥ 50 % et C4 normal, plus mutation associée ou diagnostic clinique avec histoire familiale",
+  "Contraception et tests de grossesse selon le protocole",
+  "Participant capable de respecter le protocole selon l'investigateur"
+ ],
+ "exclusion": [
+  "Grossesse, projet de grossesse ou allaitement",
+  "Autre maladie systémique ou significative pouvant gêner la sécurité ou la participation selon l'investigateur",
+  "Lanadelumab en traitement de fond dans les 12 semaines précédant l'inclusion en partie A",
+  "Délais de sevrage à respecter avant l'inclusion : 2 semaines pour C1-INH, inhibiteurs oraux de la kallicréine, androgènes atténués ou antifibrinolytiques en prophylaxie",
+  "Délais de sevrage : 1 semaine pour le C1-INH plasmatique et 24 heures pour le C1-INH recombinant en traitement de crise"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A : deucrictibant en aveugle",
+   "traitement": "Dose reçue dans l'étude C201 (faible, moyenne ou forte, 3 capsules ou placebo), par voie orale à la demande lors des crises"
+  },
+  {
+   "nom": "Partie B : deucrictibant en ouvert",
+   "traitement": "Capsules molles de deucrictibant par voie orale à la demande lors des crises ; dose non précisée"
+  }
+ ],
+ "duree": "Jusqu'à 54 mois selon la date d'inclusion",
+ "critere": "Événements indésirables survenus sous traitement (dont graves, liés au traitement ou conduisant à l'arrêt), avec suivi de la fréquence cardiaque et de la pression artérielle, jusqu'à 54 mois."
+}

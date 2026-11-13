@@ -1,0 +1,42 @@
+{
+ "h": "d233936393f0",
+ "date": "2026-11-13",
+ "titre": "Fidrisertib oral à deux posologies dans la fibrodysplasie ossifiante progressive",
+ "question": "Le fidrisertib réduit-il le volume de nouvelles ossifications hétérotopiques dans la fibrodysplasie ossifiante progressive ?",
+ "contexte": "La fibrodysplasie ossifiante progressive (FOP) est une maladie génétique rare et très invalidante, due à des variants activateurs du gène ACVR1 (le plus souvent R206H). Elle provoque des ossifications hétérotopiques dans les tissus mous, souvent après des poussées inflammatoires douloureuses, avec ankyloses articulaires irréversibles.\n\nLe palovarotène et le garétosmab ont été étudiés, mais le besoin d'un traitement efficace et bien toléré persiste, notamment chez l'enfant. La prise en charge reste largement symptomatique et vise à éviter les traumatismes.\n\nLe fidrisertib (IPN60130) est un inhibiteur oral du récepteur ACVR1. Cette étude de phase 2 de Clementia Pharmaceuticals (groupe Ipsen), randomisée en double aveugle contre placebo, compare deux posologies chez des participants adultes et pédiatriques (dès 5 ans). Le volume d'ossification est mesuré par scanner corps entier à faible dose, avec une sous-étude par imagerie TEP-TDM.",
+ "interet": "Si le fidrisertib réduit l'ossification hétérotopique, il pourrait devenir un traitement ciblé de la FOP, y compris chez l'enfant.",
+ "profil": "Des adultes et des enfants (dès 5 ans) atteints de fibrodysplasie ossifiante progressive, avec progression de la maladie dans l'année.",
+ "inclusion": [
+  "Âge ≥ 15 ans pour l'étude principale ; ≥ 5 ans avec entrée des enfants de moins de 15 ans après validation de la sécurité",
+  "FOP cliniquement diagnostiquée, mutation ACVR1 R206H ou autre variant associé à une ossification progressive",
+  "Progression de la maladie dans l'année précédant le dépistage",
+  "Délai de sevrage respecté après autre produit expérimental (30 jours à 4 mois selon la molécule)",
+  "Épreuves fonctionnelles respiratoires et échocardiographie réalisables de façon fiable",
+  "Capacité à suivre toutes les procédures de l'étude"
+ ],
+ "exclusion": [
+  "Épaisseur septale ou paroi ventriculaire gauche > 12 mm (adultes), z-score > 3 (enfants) ou FEVG < 50 %",
+  "Insuffisance mitrale ou tricuspide sévère",
+  "Maladie pulmonaire nécessitant de l'oxygène ou CVF < 35 % de la théorique",
+  "Insuffisance hépatique sévère ou ASAT/ALAT > 5 × LSN",
+  "Inhibiteurs ou inducteurs puissants du CYP3A4, ou inhibiteurs de kinases comme l'imatinib",
+  "Amylase ou lipase > 2 × LSN, ou pancréatite chronique",
+  "Hb < 10 g/dL, plaquettes < 75 000/mm³ ou leucocytes < 2 000/mm³"
+ ],
+ "bras": [
+  {
+   "nom": "Fidrisertib (IPN60130), dose élevée",
+   "traitement": "Gélule orale une fois par jour, avalée entière ou saupoudrée sur un aliment"
+  },
+  {
+   "nom": "Fidrisertib (IPN60130), dose faible",
+   "traitement": "Gélule orale une fois par jour, avalée entière ou saupoudrée sur un aliment"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Gélule de placebo une fois par jour"
+  }
+ ],
+ "duree": "Jusqu'à 63 mois",
+ "critere": "Variation annualisée du volume d'ossification hétérotopique au scanner corps entier à faible dose (hors tête) entre l'inclusion et 12 mois, versus placebo."
+}

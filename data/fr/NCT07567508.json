@@ -1,0 +1,33 @@
+{
+ "h": "4325066beb5f",
+ "date": "2026-11-13",
+ "titre": "Dépistage de l'amylose cardiaque par ECG-IA et VEC scanographique dans la fibrillation atriale",
+ "question": "Un dépistage précoce par ECG assisté par intelligence artificielle et par volume extracellulaire (VEC) scanographique détecte-t-il plus d'amylose cardiaque chez les patients avec fibrillation atriale ?",
+ "contexte": "L'amylose cardiaque, en particulier à transthyrétine, est sous-diagnostiquée. Elle est fréquemment associée à la fibrillation atriale, qui peut en être la première manifestation. Le diagnostic est souvent tardif, alors que les traitements spécifiques (stabilisateurs de la TTR, silenceurs) sont d'autant plus efficaces qu'ils sont débutés tôt.\n\nDes outils non invasifs de dépistage se développent : l'analyse de l'ECG par intelligence artificielle (ECG-IA) et la mesure du VEC myocardique sur le scanner cardiaque. Cet essai randomisé, promu par le Samsung Medical Center, inclut 500 adultes avec antécédent de fibrillation atriale et un ou plusieurs signes d'alerte (« red flags »). Ils sont randomisés 1:1 entre un dépistage précoce (ECG-IA et/ou VEC scanographique avec le traitement habituel de la fibrillation atriale) et les soins courants. Le suivi est de 2 ans. L'essai compare le taux de détection de l'amylose et les événements cliniques.",
+ "interet": "Si le dépistage améliore la détection, il pourrait être proposé de façon ciblée aux patients avec fibrillation atriale et signes d'alerte. L'impact sur les événements cliniques reste à démontrer.",
+ "profil": "Des adultes de 19 ans et plus avec fibrillation atriale et au moins un signe d'alerte d'amylose cardiaque.",
+ "inclusion": [
+  "Âge ≥ 19 ans, consentement écrit",
+  "Antécédent de fibrillation atriale (paroxystique ou persistante)",
+  "Au moins un signe ou symptôme d'alerte (« red flag ») d'amylose cardiaque",
+  "Possibilité de réaliser au moins un examen : ECG-IA ou VEC scanographique"
+ ],
+ "exclusion": [
+  "Amylose cardiaque déjà diagnostiquée (AL ou ATTR)",
+  "Insuffisance cardiaque sévère (NYHA IV)",
+  "Maladie terminale avec espérance de vie < 1 an",
+  "Patient jugé inapproprié par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Dépistage précoce",
+   "traitement": "Analyse ECG-IA et/ou VEC scanographique, avec traitement standard de la fibrillation atriale"
+  },
+  {
+   "nom": "Soins courants",
+   "traitement": "Traitement standard de la fibrillation atriale"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Taux de détection de l'amylose cardiaque, de l'inclusion au suivi à 2 ans."
+}

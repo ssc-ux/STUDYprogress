@@ -1,0 +1,14 @@
+{
+"h": "2545e0116703",
+"date": "2026-11-13",
+"titre": "MIL62, anticorps anti-CD20, contre placebo dans le lupus systémique actif",
+"question": "Le MIL62 augmente-t-il la proportion de répondeurs SRI-4 à 52 semaines dans le lupus systémique à forte activité, par rapport au placebo ?",
+"contexte": "Le lupus systémique à forte activité reste difficile à contrôler malgré les antipaludéens, les corticoïdes et les immunosuppresseurs, et le recours à la déplétion en lymphocytes B est de plus en plus discuté. Seules quelques biothérapies sont approuvées, avec des taux de réponse modestes.\n\nLe MIL62 est un anticorps monoclonal anti-CD20 glyco-modifié, de nouvelle génération, qui déplète les lymphocytes B avec une cytotoxicité cellulaire accrue. Une déplétion B plus profonde pourrait mieux contrôler la production d'auto-anticorps que les anti-CD20 antérieurs, comme le rituximab, qui n'ont pas démontré d'efficacité dans les essais randomisés du lupus systémique.\n\nCet essai de phase 3 randomisé en double aveugle, promu par Beijing Mabworks Biotech, inclut 316 adultes de 18 à 80 ans atteints de lupus actif (SLEDAI-2000 ≥ 8 hors alopécie, ANA ≥ 1:80 ou anti-ADN positif) sous traitement de fond stable. Il compare le MIL62 à un placebo sur 52 semaines.",
+"interet": "Un résultat positif ajouterait un anti-CD20 à l'arsenal du lupus systémique, avec un schéma d'administration potentiellement plus espacé que les biothérapies continues. La tolérance infectieuse et l'immunogénicité resteront à examiner.",
+"profil": "Des adultes de 18 à 80 ans atteints de lupus systémique à forte activité, sous traitement de fond stable.",
+"inclusion": ["Âge de 18 à 80 ans", "Lupus selon les critères EULAR/ACR", "ANA ≥ 1:80 ou anti-ADN natif positif au dépistage", "SLEDAI-2000 ≥ 8 (hors alopécie)", "Traitement standard stable avant la première administration", "Consentement écrit éclairé"],
+"exclusion": ["Fonction d'organe insuffisante", "Rituximab ou autre déplétion B dans les 9 mois", "CD4+ < 200 cellules/µL", "Cyclophosphamide dans les 8 semaines ; inhibiteurs de la calcineurine ou échange plasmatique dans les 4 semaines", "Bélimumab ou télitacicept dans les 8 semaines ; anti-TNF, anti-interleukines, inhibiteurs de JAK, BTK ou TYK2 ou thalidomide dans les 4 semaines", "Vaccin vivant ou atténué dans les 28 jours, ou autre essai clinique dans les 28 jours", "Hépatite B ou C active, VIH, allergie grave aux anticorps humanisés, grossesse ou allaitement"],
+"bras": [{"nom": "MIL62", "traitement": "MIL62 (dose et rythme non précisés), plus traitement standard"}, {"nom": "Placebo", "traitement": "Placebo, plus traitement standard"}],
+"duree": "52 semaines",
+"critere": "Pourcentage de participants en réponse SRI-4 à la semaine 52."
+}

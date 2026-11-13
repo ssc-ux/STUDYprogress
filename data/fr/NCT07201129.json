@@ -1,0 +1,14 @@
+{
+"h": "ea731774075b",
+"date": "2026-11-13",
+"titre": "Cénérimod en complément du traitement standard dans la néphrite lupique active (LUMIOS)",
+"question": "Le cénérimod, ajouté au traitement d'induction habituel, augmente-t-il la proportion de rémissions rénales complètes à 76 semaines dans la néphrite lupique active ?",
+"contexte": "La néphrite lupique est l'atteinte d'organe grave la plus fréquente du lupus systémique et peut conduire à l'insuffisance rénale terminale. Le traitement d'induction associe le mycophénolate à des corticoïdes (bolus de méthylprednisolone puis prednisone), parfois avec une biothérapie ou un inhibiteur de la calcineurine. Une proportion importante de patients n'atteint pas de rémission rénale complète.\n\nLe cénérimod est un modulateur oral du récepteur S1P1 de la sphingosine-1-phosphate. Il réduit la sortie des lymphocytes des organes lymphoïdes vers la circulation, et donc le nombre de lymphocytes T et B circulants potentiellement délétères dans le rein. Il est également évalué dans le lupus systémique non rénal dans l'essai OPUS-2.\n\nLUMIOS est un essai de phase 3 randomisé en quadruple aveugle, promu par Viatris, avec 300 adultes. Il compare le cénérimod 4 mg par jour à un placebo, ajoutés pendant 76 semaines au mycophénolate et aux corticoïdes obligatoires. Il inclut des néphrites de classe III ou IV (± V) ou de classe V pure prouvées par biopsie, avec un rapport protéinurie/créatininurie d'au moins 1 mg/mg.",
+"interet": "Un résultat positif ferait du cénérimod une option orale supplémentaire dans la néphrite lupique, en complément du traitement d'induction standard. Il préciserait aussi la tolérance de cette classe médicamenteuse dans cette population.",
+"profil": "Des adultes de 18 à 75 ans atteints de lupus systémique et de néphrite lupique active de classe III, IV ou V.",
+"inclusion": ["Lupus selon les critères EULAR/ACR 2019", "Biopsie rénale de moins de 6 mois : classe III ou IV active (± V) ou classe V pure", "Rapport protéinurie/créatininurie ≥ 1 mg/mg sur 24 heures", "DFG ≥ 15 mL/min/1,73 m² (si < 30 : sclérose ≤ 50 % des glomérules, indice d'activité ≥ 2, indice de chronicité < 4)", "Traitement d'induction obligatoire : mycophénolate 1 à 3 g/jour et corticoïdes (bolus IV puis prednisone 0,5 mg/kg/jour, maximum 40 mg)", "Antipaludéen ou bélimumab éventuels, à dose stable depuis ≥ 4 semaines"],
+"exclusion": ["Critères d'exclusion détaillés : non précisés dans le résumé du registre"],
+"bras": [{"nom": "Cénérimod 4 mg", "traitement": "Cénérimod 4 mg par voie orale, une fois par jour pendant 76 semaines, plus traitement standard de la néphrite lupique"}, {"nom": "Placebo", "traitement": "Placebo identique, une fois par jour pendant 76 semaines, plus traitement standard de la néphrite lupique"}],
+"duree": "76 semaines de traitement",
+"critere": "Rémission rénale complète à la semaine 76."
+}

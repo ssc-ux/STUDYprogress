@@ -1,0 +1,40 @@
+{
+ "h": "1db4bb707d72",
+ "date": "2026-11-13",
+ "titre": "Lotion topique de cannabidiol contre le prurit de la sclérodermie",
+ "question": "L'ajout de cannabidiol à 1 % à une lotion d'urée à 10 % réduit-il l'intensité du prurit chez des patients atteints de sclérodermie systémique ?",
+ "contexte": "Le prurit est un symptôme fréquent de la sclérodermie systémique (ScS), rapporté par environ 42 à 62 % des patients, souvent dès le début de la maladie. Ses mécanismes restent mal connus et aucun traitement n'a démontré d'efficacité claire. Il n'existe pas de recommandation standard pour sa prise en charge. Les crèmes à 10 % d'urée sont couramment utilisées pour hydrater la peau.\n\nL'extrait de chanvre a déjà été utilisé dans des maladies cutanées chroniques. Outre son effet antiprurigineux, il possède des propriétés anti-inflammatoires, hydratantes et cicatrisantes, sans effet psychoactif. Des crèmes à 1-5 % ont été étudiées dans le psoriasis, l'eczéma et les ulcères digitaux de la sclérodermie. Une crème à 1 % a soulagé le prurit de l'eczéma et favorisé la cicatrisation des ulcères digitaux. Aucune étude claire n'a testé une lotion de cannabidiol (CBD) contre le prurit de la sclérodermie.\n\nCet essai de phase 3, promu par l'Université de Khon Kaen (Thaïlande), est randomisé, en quadruple insu et croisé. Il compare la lotion d'urée à 10 % seule à la même lotion associée à 1 % de CBD chez 36 patients.",
+ "interet": "Un traitement topique simple pourrait soulager un symptôme mal pris en charge de la sclérodermie. L'effectif est faible et le suivi court, ce qui limitera les conclusions.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique avec prurit chronique.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Prurit chronique",
+  "Corticoïdes ≤ 10 mg/j d'équivalent prednisolone, dose stable ainsi que celles des immunosuppresseurs et vitamines depuis 2 semaines",
+  "Arrêt des émollients depuis ≥ 1 semaine et des anxiolytiques ou hypnotiques depuis ≥ 2 semaines",
+  "Capacité de lire et écrire le thaï"
+ ],
+ "exclusion": [
+  "Chevauchement avec une autre connectivite",
+  "Grossesse ou allaitement",
+  "Patient alité et dépendant",
+  "Cancer actif",
+  "Maladie sévère ou non contrôlée (diabète, asthme, cardiopathie, thyroïdienne, hépatobiliaire dont cholestase, créatininémie > 1,4 mg/dL)",
+  "Infection active nécessitant des antibiotiques systémiques",
+  "Allergie à l'urée ou aux cannabinoïdes; usage de drogues illicites",
+  "Antécédent de schizophrénie, trouble de l'humeur ou anxieux actif",
+  "Autre dermatose ou maladie systémique responsable de prurit"
+ ],
+ "bras": [
+  {
+   "nom": "Contrôle",
+   "traitement": "Lotion d'urée à 10 %"
+  },
+  {
+   "nom": "Traitement",
+   "traitement": "Lotion d'urée à 10 % associée à 1 % de cannabidiol"
+  }
+ ],
+ "duree": "2 semaines par période de traitement (schéma croisé; durée totale non précisée)",
+ "critere": "Variation de l'intensité du prurit sur échelle visuelle analogique (EVA) par rapport à l'inclusion, comparée entre les groupes, à 2 semaines."
+}

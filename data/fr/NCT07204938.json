@@ -1,0 +1,27 @@
+{
+ "h": "b548bb4cc600",
+ "date": "2026-11-13",
+ "titre": "Navenibart au long cours dans l'angiœdème héréditaire, en suite de l'étude ALPHA-ORBIT",
+ "question": "Le navenibart reste-t-il sûr et efficace à long terme chez les patients atteints d'angiœdème héréditaire ayant terminé l'étude ALPHA-ORBIT ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type 1 ou 2 est une maladie rare caractérisée par des crises d'œdème imprévisibles, parfois laryngées. Le traitement de fond vise à les prévenir. Les options actuelles demandent des administrations fréquentes, ce qui pèse sur l'observance et sur la vie quotidienne des patients.\n\nLe navenibart est un anticorps monoclonal dirigé contre le facteur XIIa, avec une longue demi-vie qui permet d'espacer les injections sous-cutanées à 3 ou 6 mois. Il est évalué dans l'étude pivot de phase 3 STAR-0215-301 (ALPHA-ORBIT, NCT06842823), contre placebo. Cette étude d'extension de phase 3 comporte deux parties. La partie 1 donne le navenibart à tous les participants selon des doses contrôlées. La partie 2 propose un schéma de dosage personnalisé selon les besoins de chaque patient. Le promoteur est Astria Therapeutics.",
+ "interet": "L'étude documentera la sécurité du navenibart sur 4 ans. Elle teste aussi l'adaptation individuelle de l'intervalle entre les doses, ce qui correspond à une demande des patients sous traitement de fond.",
+ "profil": "Des adolescents (≥ 12 ans) et adultes atteints d'angiœdème héréditaire, issus de l'étude STAR-0215-301.",
+ "inclusion": [
+  "Participant de l'étude STAR-0215-301 (ALPHA-ORBIT)",
+  "Étude terminée jusqu'à la visite du jour 181, ou retrait avec 2 doses reçues et au moins 2 mois de suivi après la deuxième dose",
+  "Autres critères d'éligibilité évalués par l'investigateur"
+ ],
+ "exclusion": [
+  "Participation à un autre essai ou exposition à un médicament expérimental (autre que le navenibart de l'étude 301) dans les 30 jours ou 5 demi-vies",
+  "IEC ou œstrogènes à absorption systémique dans les 30 jours avant le dépistage",
+  "Sensibilité connue aux composants de la formulation"
+ ],
+ "bras": [
+  {"nom": "Adultes, schéma 1", "traitement": "Navenibart 600 mg tous les 3 mois"},
+  {"nom": "Adultes, schéma 2", "traitement": "Navenibart 300 mg tous les 3 mois"},
+  {"nom": "Adultes, schéma 3", "traitement": "Navenibart 600 mg tous les 6 mois"},
+  {"nom": "Adolescents, schéma 1", "traitement": "Navenibart 300 mg tous les 3 mois"}
+ ],
+ "duree": "Jusqu'à 48 mois",
+ "critere": "Incidence des événements indésirables survenus sous traitement, du jour 1 au mois 48."
+}

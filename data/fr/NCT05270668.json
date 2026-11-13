@@ -1,0 +1,38 @@
+{
+ "h": "50cb9c13682a",
+ "date": "2026-11-13",
+ "titre": "Tulisokibart dans la pneumopathie interstitielle de la sclérodermie systémique",
+ "question": "Le tulisokibart est-il sûr et ralentit-il le déclin de la CVF dans la pneumopathie interstitielle de la sclérodermie ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est l'une des principales causes de mortalité dans la sclérodermie systémique (ScS). Le traitement repose sur le mycophénolate, le tocilizumab et le nintedanib, qui ralentissent le déclin de la capacité vitale forcée (CVF) sans l'arrêter. Le besoin de nouvelles voies thérapeutiques demeure.\n\nLe tulisokibart (MK-7240, PRA023) est un anticorps monoclonal anti-TL1A. Cette cytokine de la famille du TNF est impliquée dans l'inflammation et la fibrose. Il est développé principalement dans les maladies inflammatoires chroniques de l'intestin, et une activité antifibrotique est suspectée.\n\nATHENA-SSc-ILD est une étude de phase 2 randomisée, contre placebo, promue par Prometheus Biosciences (Merck). Elle inclut 154 adultes avec ScS diffuse récente (≤ 5 ans) et PID confirmée au scanner, dans 20 pays dont la France. Le traitement de fond (nintedanib, mycophénolate, méthotrexate ou azathioprine, corticoïdes) peut être poursuivi à dose stable. Les perfusions sont intraveineuses.",
+ "interet": "Le tulisokibart pourrait offrir une nouvelle option dans la PID de la ScS, en complément du traitement de fond. La phase 2 évalue la sécurité et un signal sur la CVF à 50 semaines.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse récente (≤ 5 ans) avec pneumopathie interstitielle confirmée au scanner.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie systémique cutanée diffuse, début ≤ 5 ans",
+  "PID liée à la ScS confirmée au TDM-HR",
+  "CVF ≥ 45 % de la théorique",
+  "DLCO ≥ 45 % de la théorique",
+  "Traitement de fond (nintedanib, mycophénolate, méthotrexate ou azathioprine, corticoïdes) à dose stable le cas échéant",
+  "Contraception ou abstinence chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Obstruction bronchique aux EFR ou HTAP cliniquement significative",
+  "Autre connectivite inflammatoire actuelle",
+  "Infection active, infection grave dans les 3 mois ou infection bactérienne chronique",
+  "Tabagisme actuel ou dans les 6 mois",
+  "Comorbidité exposant à un risque inacceptable selon l'investigateur",
+  "Anomalies biologiques importantes définies par le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Tulisokibart",
+   "traitement": "Tulisokibart par perfusion intraveineuse (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par perfusion intraveineuse"
+  }
+ ],
+ "duree": "50 semaines environ",
+ "critere": "Événements indésirables (tous, graves, ayant conduit à l'arrêt) et variation de la pente annuelle de la CVF jusqu'à la semaine 50"
+}

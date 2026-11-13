@@ -1,0 +1,39 @@
+{
+ "h": "9c83c0648661",
+ "date": "2026-11-13",
+ "titre": "Bélimumab dans la pneumopathie interstitielle diffuse associée à la sclérodermie systémique diffuse",
+ "question": "Le bélimumab, ajouté au traitement habituel, ralentit-il le déclin de la capacité vitale forcée chez les patients atteints de PID associée à une sclérodermie systémique diffuse ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est l'une des principales causes de décès au cours de la sclérodermie systémique (ScS), en particulier dans la forme cutanée diffuse. Les options actuelles (mycophénolate, nintédanib, tocilizumab, rituximab dans certains cas) ralentissent le déclin fonctionnel sans le stopper, et le besoin non couvert reste important.\n\nLe bélimumab est un anticorps monoclonal anti-BAFF (BLyS) déjà utilisé dans le lupus. Le rationnel repose sur le rôle des lymphocytes B et de BAFF dans l'inflammation et la fibrose de la ScS. Cette étude de phase 2/3, randomisée en double aveugle contre placebo, évalue le bélimumab par voie sous-cutanée en ajout au traitement de fond. Elle porte sur la fonction pulmonaire, mais aussi sur les atteintes extra-pulmonaires (épaississement cutané, fatigue, qualité de vie). Elle est promue par GlaxoSmithKline et prévoit 300 participants.",
+ "interet": "Un résultat positif ajouterait un biomédicament ciblant les lymphocytes B aux options de la ScS avec PID. L'évaluation conjointe de la peau et de la qualité de vie permettrait de juger l'effet global sur la maladie.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse avec une pneumopathie interstitielle diffuse active ou progressive.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ScS selon les critères ACR/EULAR 2013",
+  "Forme cutanée diffuse, score de Rodnan modifié (mRSS) total ≥ 15",
+  "PID sur scanner thoracique relu de façon centralisée",
+  "Anticorps anticentromère négatifs",
+  "Maladie active ou progressive",
+  "Capacité à s'injecter le traitement (ou aidant disponible)"
+ ],
+ "exclusion": [
+  "Syndrome sclérodermiforme (morphée, fasciite à éosinophiles, etc.)",
+  "Autre maladie auto-immune systémique principale",
+  "CVF ≤ 45 % ou DLCO ≤ 40 % de la théorique, ou oxygénothérapie",
+  "Hypertension artérielle pulmonaire",
+  "Crise rénale sclérodermique dans les 6 mois",
+  "Emphysème significatif ou trouble ventilatoire obstructif",
+  "Greffe d'organe ou de moelle prévue ou antérieure ; biothérapies, rituximab, cyclophosphamide ou antifibrosants récents (délais précisés au protocole)"
+ ],
+ "bras": [
+  {
+   "nom": "Bélimumab",
+   "traitement": "Bélimumab par voie sous-cutanée, en plus du traitement habituel (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, en plus du traitement habituel"
+  }
+ ],
+ "duree": "Au moins 52 semaines (critère principal à la semaine 52)",
+ "critere": "Variation absolue de la capacité vitale forcée (CVF, en mL) entre l'inclusion et la semaine 52"
+}

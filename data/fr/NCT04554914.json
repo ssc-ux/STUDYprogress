@@ -1,0 +1,47 @@
+{
+ "h": "eb4b9cac3900",
+ "date": "2026-11-13",
+ "titre": "Tabélécleucel dans les maladies associées au virus d'Epstein-Barr",
+ "question": "Le tabélécleucel permet-il d'obtenir des réponses objectives dans des maladies associées à l'EBV pour lesquelles le traitement standard est inadapté ?",
+ "contexte": "Le virus d'Epstein-Barr (EBV) peut entraîner des syndromes lymphoprolifératifs graves chez les patients immunodéprimés : déficits immunitaires primitifs ou acquis, transplantation d'organe ou de cellules souches. On observe aussi des tumeurs EBV+ rares, comme certains sarcomes ou des lymphomes cérébraux post-greffe (PTLD du système nerveux central).\n\nLe rituximab, seul ou avec une chimiothérapie, est le traitement de première ligne habituel des PTLD CD20+. Il est inadapté ou inefficace dans les formes CD20-négatives, localisées au système nerveux central ou en cas d'échec, et les options sont alors limitées, avec un pronostic sombre.\n\nLe tabélécleucel est une immunothérapie cellulaire allogénique : des lymphocytes T spécifiques de l'EBV, issus de donneurs et appariés partiellement au HLA du patient, perfusés par voie IV. Cette étude de phase 2 multi-cohortes, non randomisée, évalue le taux de réponse objective dans plusieurs situations : déficits immunitaires primitifs ou acquis, PTLD du SNC, PTLD EBV+ inéligibles à une première ligne, sarcomes EBV+. Le promoteur est Pierre Fabre Médicament.",
+ "interet": "L'étude pourrait élargir les indications d'un traitement cellulaire hors greffe dans des maladies EBV+ rares sans standard établi. Elle cible notamment les formes neuroméningées et les patients non éligibles à la première ligne.",
+ "profil": "Des enfants (dès 1 an) et des adultes atteints d'une maladie associée à l'EBV, en rechute ou réfractaire, ou nouvellement diagnostiquée mais non éligible au traitement standard.",
+ "inclusion": [
+  "Maladie EBV+ diagnostiquée",
+  "ECOG ≤ 3 si âge ≥ 16 ans ; Lansky ≥ 20 de 1 à 16 ans",
+  "Fonction d'organes adéquate, sauf atteinte liée à la maladie",
+  "PTLD du SNC : prouvée par biopsie ou cytologie du LCS positive avec EBV détecté",
+  "Maladie récidivante/réfractaire (au moins une ligne systémique antérieure) ou nouvelle sans traitement standard approprié"
+ ],
+ "exclusion": [
+  "Lymphome de Burkitt, lymphome T ou NK/T, Hodgkin, plasmablastique ou transformé en cours",
+  "Lymphohistiocytose hémophagocytaire active ou autre cancer nécessitant un traitement systémique",
+  "Infection active grave : adénovirus non contrôlé ou nécessitant un traitement systémique",
+  "Infection par le VIH connue",
+  "GVH aiguë de grade ≥ 2 suspectée ou confirmée, ou GVH chronique extensive"
+ ],
+ "bras": [
+  {
+   "nom": "EBV+ LPD avec déficit immunitaire primitif",
+   "traitement": "Tabélécleucel par voie IV"
+  },
+  {
+   "nom": "EBV+ LPD avec déficit immunitaire acquis",
+   "traitement": "Tabélécleucel par voie IV"
+  },
+  {
+   "nom": "EBV+ PTLD du SNC",
+   "traitement": "Tabélécleucel par voie IV"
+  },
+  {
+   "nom": "EBV+ PTLD en première ligne (traitement standard inadapté ou CD20-négatif)",
+   "traitement": "Tabélécleucel par voie IV"
+  },
+  {
+   "nom": "Sarcome EBV+ (dont léiomyosarcome) ou tumeur du muscle lisse",
+   "traitement": "Tabélécleucel par voie IV"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Taux de réponse objective jusqu'à 2 ans."
+}

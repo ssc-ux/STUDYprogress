@@ -1,0 +1,42 @@
+{
+ "h": "cb5d987889c6",
+ "date": "2026-11-13",
+ "titre": "Ianalumab sous-cutané dans le syndrome de Sjögren actif",
+ "question": "Le ianalumab, administré chaque mois ou tous les 3 mois, réduit-il l'activité systémique du syndrome de Sjögren (ESSDAI) à 48 semaines par rapport au placebo ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune systémique touchant les glandes exocrines, avec sécheresse, fatigue et douleurs, et parfois des atteintes articulaires, cutanées, hématologiques, rénales ou lymphomateuses. Aucun traitement de fond n'a prouvé son efficacité dans de grands essais, et la prise en charge reste surtout symptomatique ou fondée sur des immunosuppresseurs utilisés hors AMM.\n\nLe ianalumab (VAY736) est un anticorps monoclonal dirigé contre le récepteur de BAFF (BAFF-R), qui déplète les lymphocytes B et bloque la signalisation BAFF. Le rôle central des lymphocytes B dans le Sjögren justifie ce mécanisme. NEPTUNUS-2 est une étude de phase 3 randomisée en double aveugle à trois bras, comparant deux schémas sous-cutanés (mensuel ou tous les 3 mois) au placebo. Elle inclut des patients ayant une maladie évoluant depuis 7,5 ans au plus, anti-Ro/SSA positifs (sauf 10 % au maximum) et un ESSDAI ≥ 5. Le promoteur est Novartis ; 506 participants ont été inclus.",
+ "interet": "Un résultat positif ferait du ianalumab un des premiers traitements de fond démontrés dans le Sjögren systémique. Les deux rythmes d'administration permettraient aussi de juger la dose minimale utile.",
+ "profil": "Des adultes atteints de syndrome de Sjögren actif, anti-Ro/SSA positifs dans la grande majorité des cas, évoluant depuis 7,5 ans au plus.",
+ "inclusion": [
+  "Âge ≥ 18 ans, syndrome de Sjögren selon les critères ACR/EULAR 2016",
+  "Durée depuis le diagnostic ≤ 7,5 ans",
+  "Anti-Ro/SSA positifs (négatifs si biopsie positive, ≤ 10 % des inclusions)",
+  "ESSDAI ≥ 5 (domaines retenus)",
+  "Débit salivaire stimulé ≥ 0,05 mL/min",
+  "Hydroxychloroquine, méthotrexate ou azathioprine stables autorisés ; corticoïdes ≤ 10 mg/j stables"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune rhumatologique active et prédominante",
+  "Traitement antérieur par ianalumab ou déplétion B récente",
+  "Biothérapies (bélimumab, abatacept, anti-TNF) dans les 24 semaines, ou immunosuppresseurs dans les 12 semaines",
+  "Corticoïdes > 10 mg/j",
+  "Anomalies hématologiques (Hb < 8 g/dL, leucocytes < 2 000/µL, plaquettes < 80 000/µL, PNN < 800/µL)",
+  "Infection active ou récurrente, hépatite B ou C chronique, tuberculose active, VIH",
+  "Cancer dans les 5 ans (hors exceptions), greffe d'organe ou de moelle ; grossesse, allaitement, contraception inadéquate"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A : ianalumab, niveau d'exposition 1",
+   "traitement": "Ianalumab (VAY736) par voie sous-cutanée, rythme mensuel ou trimestriel selon le bras (dose non précisée)"
+  },
+  {
+   "nom": "Bras B : ianalumab, niveau d'exposition 2",
+   "traitement": "Ianalumab (VAY736) par voie sous-cutanée, second schéma d'administration"
+  },
+  {
+   "nom": "Bras C : placebo",
+   "traitement": "Placebo sous-cutané"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 48 semaines)",
+ "critere": "Variation de l'ESSDAI entre l'inclusion et la semaine 48"
+}

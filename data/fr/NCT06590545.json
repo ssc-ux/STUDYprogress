@@ -1,0 +1,31 @@
+{
+ "h": "c787f5e628b1",
+ "date": "2026-11-13",
+ "titre": "Lymphocytes T CAR anti-CD19 dans les vascularites associées aux ANCA réfractaires",
+ "question": "Les lymphocytes T CAR anti-CD19 (KYV-101) sont-ils sûrs et efficaces dans les vascularites à ANCA actives et réfractaires ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et PAM) sont traitées par corticoïdes associés au rituximab ou au cyclophosphamide, avec l'avacopan comme alternative d'épargne cortisonique. Une partie des patients reste réfractaire ou rechute malgré ces traitements, avec un risque d'atteinte d'organe et de toxicité cumulée.\n\nLe rôle central des lymphocytes B producteurs d'ANCA justifie une déplétion B profonde. Les lymphocytes T à récepteur chimérique anti-CD19 (CAR-T) déplètent les lymphocytes B de façon plus complète que le rituximab, y compris dans les tissus. Ils ont donné des résultats encourageants dans le lupus et d'autres maladies auto-immunes, mais les données dans les vascularites restent très limitées.\n\nCet essai de phase 1/2, mené en Allemagne (promoteur David Simon), évalue chez 8 patients KYV-101, un CAR-T autologue entièrement humain, en perfusion unique de 100 millions de cellules. Le suivi dure 52 semaines. Les critères principaux portent sur le syndrome de relargage cytokinique, la séroconversion ANCA et la tolérance.",
+ "interet": "Il s'agit d'une étude exploratoire sur une thérapie cellulaire potentiellement curative dans les formes réfractaires. Les résultats sont attendus pour orienter d'éventuels essais plus larges.",
+ "profil": "Des adultes de 18 à 75 ans atteints de GPA ou PAM avec ANCA positifs, actifs et réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "GPA (anti-PR3 au moins 20 UA/mL) ou PAM (anti-MPO au moins 10 UA/mL) selon les critères ACR/EULAR 2022",
+  "Maladie active (BVAS d'au moins 3)",
+  "Réponse insuffisante ou intolérance aux corticoïdes et à au moins un traitement (rituximab, mycophénolate, azathioprine, méthotrexate, cyclophosphamide, avacopan)",
+  "Contraception efficace pendant 12 mois après l'administration",
+  "Vaccinations à jour selon les recommandations pour immunodéprimés"
+ ],
+ "exclusion": [
+  "Neutrophiles inférieurs à 500/µL, lymphocytes inférieurs à 100/µL, hémoglobine inférieure à 8 g/dL ou CD3 inférieurs à 100/µL",
+  "Insuffisance rénale sévère (DFG inférieur ou égal à 30), hépatique (Child-Pugh C), cardiaque (NYHA IV) ou respiratoire (saturation inférieure à 92 %)",
+  "Glomérulonéphrite rapidement progressive ou hémorragie alvéolaire cliniquement significatives",
+  "Toute condition exposant à un risque inacceptable selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "KYV-101",
+   "traitement": "Lymphocytes T CAR anti-CD19 autologues, 100 millions de cellules CAR+ en perfusion unique"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Nombre de patients présentant un syndrome de relargage cytokinique (jusqu'à la semaine 4), taux de séroconversion ANCA à la semaine 24 et événements indésirables jusqu'à 52 semaines."
+}

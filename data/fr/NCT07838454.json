@@ -1,0 +1,40 @@
+{
+ "h": "982b009e938d",
+ "date": "2026-11-13",
+ "titre": "Exosomes et cellules souches mésenchymateuses pour la dysfonction salivaire du syndrome de Sjögren primitif",
+ "question": "Des injections d'exosomes ou de cellules souches mésenchymateuses dans les glandes submandibulaires améliorent-elles le flux salivaire à 6 mois dans le syndrome de Sjögren primitif ?",
+ "contexte": "Le syndrome de Sjögren primitif est une maladie auto-immune dont la manifestation principale est la sécheresse buccale (xérostomie), liée à l'infiltration lymphocytaire et à l'atrophie des glandes salivaires. Les traitements actuels sont symptomatiques (substituts salivaires, sialagogues comme la pilocarpine) et n'améliorent pas durablement la fonction glandulaire.\n\nLes cellules souches mésenchymateuses ont des propriétés immunomodulatrices et de réparation tissulaire. Les exosomes qu'elles sécrètent véhiculent une partie de ces effets, sans les contraintes liées à la greffe de cellules. Les deux approches sont étudiées dans les maladies auto-immunes et les atteintes glandulaires.\n\nCet essai de phase 2, randomisé et ouvert, est promu par Banu Erkal (Université de Yeditepe, Turquie). Il inclut 30 adultes de 18 à 65 ans atteints de Sjögren primitif, répartis en trois groupes : exosomes, cellules souches mésenchymateuses et placebo (sérum physiologique). Les exosomes et les cellules proviennent du cordon ombilical. Chaque glande submandibulaire reçoit deux applications, à 2 semaines d'intervalle, de 0,5 mL en deux sites d'injection. La scintigraphie salivaire diagnostique antérieure sert de référence et est répétée à 6 mois.",
+ "interet": "Si le flux salivaire s'améliore, ces approches pourraient ouvrir une voie de traitement de la fonction glandulaire elle-même dans le Sjögren. Le petit effectif et l'absence d'insu rendent les résultats préliminaires.",
+ "profil": "Des adultes de 18 à 65 ans atteints de syndrome de Sjögren primitif avec hypofonction salivaire ou xérostomie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Syndrome de Sjögren primitif diagnostiqué",
+  "Hypofonction des glandes salivaires et/ou xérostomie",
+  "Scintigraphie salivaire antérieure réalisée à l'Université de Yeditepe pour le diagnostic",
+  "Consentement écrit",
+  "Acceptation des injections bilatérales des glandes submandibulaires et du suivi"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Absence de scintigraphie salivaire antérieure ou impossibilité d'en réaliser une",
+  "Autre maladie pouvant causer une sécheresse buccale",
+  "Médicaments pouvant causer une sécheresse buccale",
+  "Refus du consentement, des injections bilatérales ou du suivi"
+ ],
+ "bras": [
+  {
+   "nom": "Exosomes",
+   "traitement": "Exosomes issus de cellules souches mésenchymateuses du cordon ombilical (5 milliards de particules/mL), 0,5 mL en 2 sites dans chaque glande submandibulaire, 2 applications à 2 semaines d'intervalle"
+  },
+  {
+   "nom": "Cellules souches mésenchymateuses",
+   "traitement": "Cellules souches mésenchymateuses du cordon ombilical, mêmes volumes, sites et calendrier d'injection (concentration non reprise ici)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Sérum physiologique, 0,5 mL en 2 sites dans chaque glande submandibulaire, 2 applications à 2 semaines d'intervalle"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Variation du débit salivaire mesuré par scintigraphie salivaire entre l'inclusion et le mois 6."
+}

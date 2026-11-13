@@ -1,0 +1,38 @@
+{
+ "h": "7c5377694f49",
+ "date": "2026-11-13",
+ "titre": "Benralizumab versus mépolizumab dans la granulomatose éosinophilique avec polyangéite",
+ "question": "Le benralizumab est-il aussi efficace que le mépolizumab pour obtenir une rémission de l'EGPA récidivante ou réfractaire ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) est une vascularite avec asthme et hyperéosinophilie, dont le traitement repose sur les corticoïdes, avec ou sans immunosuppresseurs. Le mépolizumab (anti-IL-5, 300 mg par voie sous-cutanée) est approuvé dans l'EGPA récidivante ou réfractaire, mais une partie des patients n'obtient pas de rémission durable.\n\nLe benralizumab est un anticorps dirigé contre le récepteur alpha de l'IL-5, qui entraîne une déplétion quasi complète des éosinophiles, par cytotoxicité cellulaire. Il pourrait donc agir plus profondément que le mépolizumab sur la maladie éosinophilique. MANDARA est une étude de phase 3 randomisée en double aveugle, avec double placebo, comparant benralizumab 30 mg et mépolizumab 300 mg sur 52 semaines, suivie d'une extension en ouvert sous benralizumab. Elle inclut des patients ayant une EGPA sous corticoïdes avec ou sans immunosuppresseur stable. Le promoteur est AstraZeneca ; 140 participants ont été inclus.",
+ "interet": "Cette comparaison directe de deux anti-IL-5 précisera la place du benralizumab dans l'EGPA. Elle pourrait aider à choisir un anti-IL-5 chez les patients non contrôlés.",
+ "profil": "Des adultes atteints d'EGPA récidivante ou réfractaire, sous corticoïdes oraux avec ou sans immunosuppresseur stable.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "EGPA (asthme, éosinophilie > 1 G/L ou > 10 % et au moins 2 autres signes)",
+  "Rechute confirmée dans les 2 ans, ou maladie réfractaire",
+  "Prednisolone ou prednisone ≥ 7,5 mg/j (≤ 50 mg/j) stable depuis 4 semaines",
+  "Immunosuppresseur éventuel (hors cyclophosphamide) à dose stable",
+  "QTc < 450 ms (< 480 ms si bloc de branche)"
+ ],
+ "exclusion": [
+  "GPA ou polyangéite microscopique",
+  "EGPA menaçant un organe ou le pronostic vital dans les 3 mois",
+  "Grossesse, allaitement ou projet de grossesse",
+  "Cancer actuel ou antérieur (sauf traitement curatif ancien)",
+  "Parasitose à helminthes non traitée ou réfractaire",
+  "Maladie hépatique instable, maladie cardiovasculaire sévère non contrôlée",
+  "Antécédent de mépolizumab, reslizumab, dupilumab ou benralizumab"
+ ],
+ "bras": [
+  {
+   "nom": "Benralizumab",
+   "traitement": "Benralizumab 30 mg sous-cutané et placebo du mépolizumab, puis extension en ouvert sous benralizumab 30 mg"
+  },
+  {
+   "nom": "Mépolizumab",
+   "traitement": "Mépolizumab 300 mg sous-cutané (3 injections) et placebo du benralizumab"
+  }
+ ],
+ "duree": "52 semaines en double aveugle, puis extension en ouvert d'au moins 1 an",
+ "critere": "Rémission principale aux semaines 36 et 48 (les deux)"
+}

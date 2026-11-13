@@ -1,0 +1,27 @@
+{
+ "h": "8b8ed9bd2e98",
+ "date": "2026-11-13",
+ "titre": "Efgartigimod sous-cutané contre placebo dans les myopathies inflammatoires idiopathiques actives",
+ "question": "L'efgartigimod PH20 sous-cutané améliore-t-il l'activité des myopathies inflammatoires idiopathiques, selon le score global d'amélioration (TIS), par rapport au placebo ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (MII) regroupent la dermatomyosite, la myopathie nécrosante à médiation immune, le syndrome des antisynthétases et d'autres formes de polymyosite. Elles associent faiblesse musculaire, atteinte cutanée, pulmonaire ou œsophagienne. Les corticoïdes, les immunosuppresseurs et les immunoglobulines intraveineuses restent la base du traitement, mais une part des patients est réfractaire, et la corticothérapie prolongée a des effets délétères.\n\nDe nombreuses MII s'accompagnent d'auto-anticorps de type IgG, dont certains pourraient être pathogènes. L'efgartigimod est un fragment Fc modifié qui bloque le récepteur FcRn, ce qui accélère la dégradation des IgG, auto-anticorps compris. Il est déjà autorisé dans la myasthénie. Cette étude de phase 2/3 randomisée en double aveugle contre placebo ajoute l'efgartigimod PH20 sous-cutané au traitement de fond, chez des adultes ayant une myopathie active. Le promoteur est argenx, avec des centres français.",
+ "interet": "L'étude teste le blocage de FcRn dans plusieurs sous-types de myopathies inflammatoires, avec un critère standardisé de réponse (TIS). Elle pourrait offrir une option sous-cutanée chez les patients actifs malgré le traitement de fond.",
+ "profil": "Des adultes atteints de myopathie inflammatoire idiopathique active (dermatomyosite, myopathie nécrosante à médiation immune ou polymyosite dont syndrome des antisynthétases), avec faiblesse musculaire.",
+ "inclusion": [
+  "Diagnostic clinique certain ou probable de MII (dermatomyosite, polymyosite avec syndrome des antisynthétases, myopathie nécrosante à médiation immune)",
+  "Maladie active : enzymes musculaires anormales, EMG actif dans les 3 mois, éruption de dermatomyosite active, biopsie ou IRM compatibles dans les 3 mois",
+  "Faiblesse musculaire",
+  "Traitement de fond de la MII autorisé en cours",
+  "Contraception et test de grossesse négatif chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune connue pouvant gêner l'évaluation de la MII ou exposer à un risque excessif",
+  "Antécédent de cancer, sauf guérison avec absence de récidive ≥ 3 ans (hors cancers cutanés basocellulaire ou épidermoïde, carcinome in situ du col ou du sein, découverte fortuite de cancer prostatique)",
+  "Atteinte musculaire sévère (critère détaillé non précisé dans le résumé retenu)"
+ ],
+ "bras": [
+  {"nom": "Efgartigimod PH20 SC", "traitement": "Efgartigimod PH20 par voie sous-cutanée en plus du traitement de fond ; dose et rythme non précisés"},
+  {"nom": "Placebo PH20 SC", "traitement": "Placebo par voie sous-cutanée en plus du traitement de fond"}
+ ],
+ "duree": "24 semaines pour la phase 2, 52 semaines pour la phase 3",
+ "critere": "Score moyen d'amélioration global (TIS), évalué à 24 semaines (phase 2) et à 52 semaines (phase 3)."
+}

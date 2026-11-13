@@ -1,0 +1,27 @@
+{
+ "h": "c4256b918bda",
+ "date": "2026-11-13",
+ "titre": "Tréprostinil oral dans le phénomène de Raynaud réfractaire",
+ "question": "Le tréprostinil oral améliore-t-il le score de condition du Raynaud par rapport à une période de référence chez des patients ayant un phénomène de Raynaud réfractaire ?",
+ "contexte": "Le phénomène de Raynaud est une vasoconstriction exagérée des vaisseaux des doigts et des orteils au froid ou au stress. Il provoque un changement de couleur (blanc, bleu, rouge), des douleurs et des paresthésies. Il existe une forme primaire, fréquente et bénigne, et une forme secondaire, associée à une connectivite (sclérodermie, lupus, connectivite mixte, syndrome de Sjögren), plus sévère, avec un risque d'ulcères digitaux.\n\nLes formes légères relèvent de mesures de protection contre le froid. Dans les formes sévères, on utilise des inhibiteurs calciques, des inhibiteurs de la phosphodiestérase 5 ou d'autres vasodilatateurs, mais une partie des patients reste symptomatique malgré ces traitements.\n\nLe tréprostinil est un analogue stable de la prostacycline, vasodilatateur utilisé dans l'hypertension pulmonaire. Cette étude de phase 4, monocentrique, ouverte et à bras unique est menée au Brigham and Women's Hospital. Elle inclut 30 patients ayant un Raynaud primaire ou secondaire réfractaire (au moins quatre crises par semaine). Le tréprostinil oral est titré jusqu'à une dose cible tolérée de 3 mg trois fois par jour.",
+ "interet": "L'étude pourrait documenter l'intérêt d'un vasodilatateur de la voie prostacycline par voie orale dans le Raynaud réfractaire. L'absence de contrôle et le faible effectif imposent de confirmer les résultats dans un essai contrôlé.",
+ "profil": "Des adultes ayant un phénomène de Raynaud primaire ou secondaire à une connectivite, réfractaire, avec au moins quatre crises par semaine.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Raynaud actif réfractaire : au moins 4 crises par semaine pendant les 4 semaines précédentes",
+  "Raynaud primaire, ou secondaire à une connectivite (sclérodermie, CREST, connectivite mixte, Sjögren primitif, lupus)",
+  "Doses stables depuis 3 mois des inhibiteurs de PDE5, antagonistes de l'endothéline, alpha-bloquants ou inhibiteurs calciques",
+  "Test de grossesse négatif et contraception pour les femmes en âge de procréer, ou statut non fertile documenté"
+ ],
+ "exclusion": [
+  "Hypertension, diabète ou événement coronarien ou cérébrovasculaire non contrôlés ou récents (liste complète non précisée dans l'extrait disponible)"
+ ],
+ "bras": [
+  {
+   "nom": "Tréprostinil oral",
+   "traitement": "Tréprostinil par voie orale, titré jusqu'à une dose cible tolérée de 3,0 mg trois fois par jour"
+  }
+ ],
+ "duree": "38 semaines (dont 6 semaines de période de référence)",
+ "critere": "Variation du score de condition du Raynaud entre la phase de traitement et la période de référence initiale de 6 semaines, évaluée sur 38 semaines."
+}

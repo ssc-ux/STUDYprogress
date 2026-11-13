@@ -1,0 +1,14 @@
+{
+ "h": "bea917ad52dd",
+ "date": "2026-11-13",
+ "titre": "rhTPO puis éltrombopag après dexaméthasone à forte dose dans le PTI sévère de l'adulte",
+ "question": "Un traitement séquentiel par dexaméthasone et rhTPO, suivi d'éltrombopag, permet-il d'obtenir une réponse plaquettaire plus durable dans le PTI sévère ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où la destruction plaquettaire et la production médullaire insuffisante conduisent à une thrombopénie, avec un risque hémorragique. En cas de thrombopénie sévère, la corticothérapie, souvent en dexaméthasone à forte dose, reste la première ligne, mais les réponses sont fréquemment non soutenues et les rechutes nombreuses.\n\nLes agonistes du récepteur de la thrombopoïétine (TPO-RA), dont l'éltrombopag, sont utilisés pour obtenir et maintenir une réponse. La TPO humaine recombinante (rhTPO), disponible en Chine, accélère la remontée plaquettaire. L'association de la dexaméthasone et de la rhTPO a déjà montré une réponse précoce plus élevée dans certaines études.\n\nCet essai de phase 4 randomisé, mené à l'hôpital Union de Wuhan, évalue une stratégie en deux temps. Pendant l'hospitalisation, les patients reçoivent 14 jours de dexaméthasone et de rhTPO. Ceux qui répondent sont ensuite randomisés 2:1 entre éltrombopag oral pendant 10 semaines et placebo, après la sortie.",
+ "interet": "L'étude pourrait montrer qu'un relais précoce par éltrombopag après la corticothérapie réduit les rechutes dans le PTI sévère. Elle pourrait ainsi aider à structurer la prise en charge à la sortie de l'hôpital.",
+ "profil": "Des patients de 12 à 75 ans atteints de PTI primaire sévère, avec moins de 20 G/L de plaquettes.",
+ "inclusion": ["Âge de 12 à 75 ans, ECOG 0 ou 1", "PTI primaire confirmé par myélogramme (< 3 mois)", "Plaquettes < 20 G/L dans les 48 h précédant le traitement", "Neutrophiles ≥ 1,5 G/L", "Bilirubine ≤ 1,5 N, ALAT/ASAT/PAL ≤ 3 N, clairance de la créatinine ≥ 50 mL/min", "Coagulation conservée"],
+ "exclusion": ["PTI réfractaire (échec des TPO-RA, de l'anti-CD20 ou de la splénectomie)", "Grossesse ou allaitement", "PTI secondaire, thrombopénie médicamenteuse ou syndrome d'Evans", "Autre cause de thrombopénie (myélodysplasie, insuffisance médullaire)", "Hémorragie intracrânienne ou hémorragie grave d'organe vital, saignement digestif symptomatique < 6 mois", "Thrombose artérielle ou veineuse < 6 mois"],
+ "bras": [{"nom": "Groupe éltrombopag", "traitement": "Après dexaméthasone à forte dose + rhTPO (14 jours) et réponse, éltrombopag oral pendant 10 semaines (randomisation 2:1)"}, {"nom": "Groupe placebo", "traitement": "Après la même phase d'induction et réponse, placebo pendant 10 semaines"}],
+ "duree": "Environ 3 mois",
+ "critere": "Taux de réponse plaquettaire soutenue à 3 mois"
+}

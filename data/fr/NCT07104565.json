@@ -1,0 +1,38 @@
+{
+ "h": "7addc671c17e",
+ "date": "2026-11-13",
+ "titre": "Tafasitamab dans le PTI primaire et l'anémie hémolytique auto-immune à auto-anticorps chauds",
+ "question": "Le tafasitamab, anticorps anti-CD19, est-il sûr et efficace dans le PTI et l'AHAI à anticorps chauds primaires, après échec précoce ?",
+ "contexte": "Le PTI primaire et l'anémie hémolytique auto-immune à auto-anticorps chauds (AHAI-AC) primaire sont des cytopénies auto-immunes médiées par des anticorps anti-plaquettes ou anti-globules rouges. Le traitement initial associe corticoïdes, immunoglobulines IV et rituximab. Les réponses sont souvent transitoires, et les options suivantes (TPO-RA, immunosuppresseurs, splénectomie) sont limitées par l'efficacité et la tolérance.\n\nLe CD19 est exprimé à la surface des lymphocytes B, du stade précoce jusqu'aux plasmablastes, et la déplétion anti-CD19 pourrait agir sur davantage de cellules productrices d'auto-anticorps que l'anti-CD20. Le tafasitamab est un anticorps anti-CD19 à Fc modifié, développé par Incyte, déjà utilisé dans le lymphome diffus à grandes cellules B.\n\nCet essai de phase 2 inclut 56 adultes sans splénectomie, répartis en deux cohortes (PTI et AHAI-AC), avec réponse transitoire à au moins un traitement précoce et un traitement antérieur par rituximab. Il est mené dans 7 pays dont la France. Le tafasitamab est administré par voie intraveineuse. Les critères principaux sont la tolérance et la réponse stable (plaquettes ou hémoglobine) entre le jour 56 et la semaine 48.",
+ "interet": "L'anti-CD19 est une stratégie de déplétion B plus profonde, sans CAR-T. Si l'efficacité est confirmée, le tafasitamab pourrait devenir une option après rituximab dans les cytopénies auto-immunes. L'essai évalue la tolérance et la réponse soutenue, sans comparateur.",
+ "profil": "Des adultes atteints de PTI primaire ou d'AHAI à auto-anticorps chauds primaire, sans splénectomie, en rechute après traitement précoce et rituximab.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "PTI primaire ou AHAI-AC primaire, diagnostic confirmé, sans splénectomie",
+  "Réponse transitoire à au moins un traitement précoce (corticoïdes, IgIV, rituximab)",
+  "Au moins une cure de rituximab, dernière dose > 6 mois avant l'inclusion, avec rechute, réponse brève ou absence de réponse",
+  "PTI actif : plaquettes < 30 G/L dans les 15 jours avant le jour 1 ; AHAI-AC active : hémoglobine < 10 g/dL, test de Coombs IgG positif et signes d'hémolyse",
+  "ECOG de 0 à 2, contraception"
+ ],
+ "exclusion": [
+  "Signes évocateurs de maladie des agglutinines froides",
+  "Saignement menaçant ou besoin urgent d'élever les plaquettes ; instabilité hémodynamique ou hémoglobine < 6 g/dL dans les 2 semaines",
+  "Traitement anti-CD19 antérieur (anticorps, bispécifique, CAR-T)",
+  "Allergie sévère à un anticorps monoclonal ou aux excipients du tafasitamab",
+  "Modification > 10 % de la dose des traitements autorisés (corticoïdes, TPO-RA, ESA) dans les 2 semaines",
+  "Hypogammaglobulinémie avec infections fréquentes ou sévères, grossesse ou allaitement",
+  "Antécédent de cancer (sauf exceptions)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1 : PTI primaire",
+   "traitement": "Tafasitamab (INCA000585) par voie intraveineuse (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Cohorte 2 : AHAI à auto-anticorps chauds primaire",
+   "traitement": "Tafasitamab (INCA000585) par voie intraveineuse (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "52 semaines au maximum",
+ "critere": "Événements indésirables survenus sous traitement (jusqu'à 52 semaines) et réponse stable des plaquettes ou de l'hémoglobine après le jour 56, jusqu'à la semaine 48"
+}

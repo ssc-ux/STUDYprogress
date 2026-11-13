@@ -1,0 +1,34 @@
+{
+ "h": "0983314a0e13",
+ "date": "2026-11-13",
+ "titre": "Dysfonction des petites voies aériennes au cours de la polyarthrite rhumatoïde et de la sclérodermie systémique",
+ "question": "Les petites voies aériennes sont-elles atteintes précocement chez les patients atteints de PR ou de sclérodermie systémique, et comment cette atteinte se relie-t-elle à l'activité de la maladie ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est une complication pulmonaire grave de la polyarthrite rhumatoïde (PR) et de la sclérodermie systémique (ScS). Elle est associée à une morbidité et une mortalité importantes : chez les patients ayant une PID symptomatique, le risque de décès est multiplié par 2 à 10 selon les séries. Identifier tôt les patients à risque de PID progressive reste un défi clinique majeur.\n\nLes recommandations internationales préconisent des explorations fonctionnelles respiratoires régulières (spirométrie, DLCO), un test de marche de 6 minutes et un scanner thoracique en cas de besoin. Ces examens ont toutefois une sensibilité limitée pour les anomalies précoces, et les EFR peuvent rester normales au début de la PID. Des travaux récents suggèrent qu'une dysfonction des petites voies aériennes peut survenir tôt dans l'atteinte pulmonaire de la PR et de la ScS, avant toute fibrose visible au scanner. Cette étude prospective, en vie réelle, associe oscillométrie par impulsions (mécanique ventilatoire), mesure du NO exhalé à plusieurs débits (inflammation distale) et scanner thoracique haute résolution. Elle est promue par l'AP-HP, avec un centre en France (hôpital Cochin) et 184 patients prévus.",
+ "interet": "Si ces marqueurs détectent l'atteinte distale avant les EFR conventionnelles, ils pourraient servir au dépistage précoce de la PID. L'étude est descriptive et ne teste pas de traitement, mais elle pourrait guider des stratégies de surveillance mieux ciblées.",
+ "profil": "Des adultes atteints de polyarthrite rhumatoïde ou de sclérodermie systémique, sans pneumopathie interstitielle connue.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PR ou ScS confirmée par un rhumatologue",
+  "Affiliation à un régime de sécurité sociale",
+  "Information reçue et consentement signé"
+ ],
+ "exclusion": [
+  "PID identifiée avant le recrutement",
+  "Traitement inducteur de fibrose pulmonaire (bléomycine, amiodarone) ou radiothérapie thoracique antérieure",
+  "Incapacité à réaliser l'oscillométrie, la spirométrie ou la pléthysmographie",
+  "Personnes protégées (mineurs, tutelle ou curatelle, privées de liberté, femmes enceintes ou allaitantes)",
+  "Ne comprenant pas le français"
+ ],
+ "bras": [
+  {
+   "nom": "Polyarthrite rhumatoïde",
+   "traitement": "EFR conventionnelles, oscillométrie par impulsions, NO exhalé multi-débits (CANO), scanner thoracique haute résolution"
+  },
+  {
+   "nom": "Sclérodermie systémique",
+   "traitement": "Mêmes examens : EFR conventionnelles, oscillométrie, CANO, scanner thoracique haute résolution"
+  }
+ ],
+ "duree": "Une seule visite (examens le jour de l'inclusion)",
+ "critere": "Impédance respiratoire, concentration alvéolaire de NO exhalé et double diffusion pulmonaire, mesurées le jour de l'inclusion"
+}

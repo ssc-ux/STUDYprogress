@@ -1,0 +1,30 @@
+{
+ "h": "7dc749792dfe",
+ "date": "2026-11-13",
+ "titre": "Sonothérapie par ultrasons dans l'amylose cardiaque",
+ "question": "Un traitement par ultrasons (sonothérapie) améliore-t-il la perfusion myocardique et la fonction cardiaque des patients atteints d'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque, par dépôt de chaînes légères (AL) ou de transthyrétine (ATTR), provoque une cardiomyopathie restrictive avec insuffisance cardiaque. Les traitements actuels agissent surtout sur la production ou la stabilité de la protéine amyloïde (chimiothérapie anti-plasmocytaire pour l'AL, tafamidis ou acoramidis pour l'ATTR), mais ils ne corrigent pas rapidement la dysfonction cardiaque liée au dépôt.\n\nLes dépôts amyloïdes altèrent la microcirculation myocardique et la rigidité des parois. La sonothérapie, c'est-à-dire l'application d'ultrasons au cœur, est étudiée pour améliorer la perfusion microvasculaire dans d'autres cardiopathies. Cet essai pilote de phase 4, promu par le Brigham and Women's Hospital, inclut 70 sujets avec amylose cardiaque AL en rémission hématologique ou ATTR, et des témoins sans amylose. Tous reçoivent la sonothérapie. Le flux sanguin myocardique et les fonctions systolique et diastolique sont mesurés avant et après le traitement.",
+ "interet": "L'étude est exploratoire. Si elle montre un effet sur la perfusion et la fonction, elle pourrait ouvrir la voie à des essais comparatifs d'un traitement non médicamenteux de l'amylose cardiaque.",
+ "profil": "Des adultes atteints d'amylose cardiaque AL (en rémission hématologique) ou ATTR, et des témoins sans amylose.",
+ "inclusion": [
+  "Âge > 18 ans (AL) ou > 65 ans (ATTR et témoins)",
+  "Amylose AL systémique avec atteinte cardiaque et rémission hématologique, ou amylose cardiaque ATTR confirmée (biopsie ou scintigraphie PYP de grade 2-3 après exclusion d'une AL)",
+  "Marqueurs cardiaques ou imagerie anormaux (troponine, NT-proBNP, épaisseur pariétale > 12 mm, VEC > 0,35)",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Instabilité hémodynamique",
+  "Claustrophobie sévère malgré sédation",
+  "Insuffisance cardiaque décompensée (incapacité à rester allongé 1 heure)",
+  "Autre cardiopathie non amyloïde (valvulopathie, cardiomyopathie dilatée)",
+  "Valvulopathie sévère aortique, mitrale ou tricuspide"
+ ],
+ "bras": [
+  {
+   "nom": "Sonothérapie",
+   "traitement": "Tous les participants reçoivent la sonothérapie (modalités non précisées)"
+  }
+ ],
+ "duree": "Non précisé (critères évalués à 1 jour)",
+ "critere": "Flux sanguin myocardique et fonctions systolique et diastolique, mesurés avant et après la sonothérapie (à 1 jour)."
+}

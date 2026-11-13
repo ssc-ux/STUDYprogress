@@ -1,0 +1,35 @@
+{
+ "h": "54ddd80267c1",
+ "date": "2026-11-13",
+ "titre": "GLPG3667 oral dans la dermatomyosite",
+ "question": "GLPG3667 par voie orale améliore-t-il l'activité de la dermatomyosite par rapport au placebo ?",
+ "contexte": "La dermatomyosite (DM) est une myopathie inflammatoire auto-immune associant faiblesse musculaire proximale et atteinte cutanée caractéristique (érythème héliotrope, papules de Gottron), parfois atteinte pulmonaire interstitielle. Elle peut être paranéoplasique.\n\nLe traitement repose sur les corticoïdes, associés à des immunosuppresseurs (méthotrexate, azathioprine, mycophénolate), à l'hydroxychloroquine pour la peau et aux immunoglobulines IV. Les rechutes et la corticodépendance sont fréquentes, et peu de traitements sont spécifiquement validés.\n\nLa voie de l'interféron de type I est très active dans la DM. GLPG3667 est un inhibiteur oral de TYK2, kinase qui transmet les signaux de l'interféron. Cette étude de phase 2 de Lakefront Biotherapeutics, randomisée en double aveugle contre placebo, comporte 24 semaines de traitement quotidien, suivies d'une extension en ouvert jusqu'à la semaine 48 pour les participants éligibles.",
+ "interet": "Un inhibiteur oral ciblant l'interféron pourrait s'ajouter à l'arsenal limité de la dermatomyosite et réduire le recours aux corticoïdes.",
+ "profil": "Des adultes atteints de dermatomyosite active, insuffisamment contrôlée par le traitement de première ligne.",
+ "inclusion": [
+  "Dermatomyosite probable ou définie (ACR/EULAR) depuis ≥ 3 mois",
+  "Dépistage de cancer documenté dans l'année si DM diagnostiquée dans les 3 ans",
+  "Maladie active (éruption m-CDASI-A ≥ 6, CPK > 4 × LSN, biopsie, IRM ou EMG actifs, ou autre preuve)",
+  "Force musculaire réduite (MMT-8 < 142/150) et au moins 2 autres mesures anormales parmi 5",
+  "Échec ou intolérance au traitement de première ligne, ou maladie active malgré celui-ci",
+  "Au maximum 3 traitements de la DM, à dose stable depuis ≥ 4 semaines"
+ ],
+ "exclusion": [
+  "Myosite associée à un cancer (diagnostiquée dans les 2 ans suivant un cancer)",
+  "Autre cause de myosite (connectivite, polymyosite, DM juvénile, myosite à inclusions, myopathie nécrosante), hors Sjögren secondaire",
+  "Faiblesse musculaire permanente (fauteuil roulant, atrophie importante) ou d'une autre cause (dont myopathie cortisonique)",
+  "Traitement interdit par le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "GLPG3667 pendant la phase en double aveugle et l'extension",
+   "traitement": "GLPG3667 dose A par voie orale, une fois par jour pendant 24 semaines, puis extension en ouvert"
+  },
+  {
+   "nom": "Placebo puis GLPG3667 en extension",
+   "traitement": "Placebo identique pendant 24 semaines, puis GLPG3667 en ouvert jusqu'à la semaine 48"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Score d'amélioration totale (TIS) selon les critères ACR/EULAR à la semaine 24."
+}

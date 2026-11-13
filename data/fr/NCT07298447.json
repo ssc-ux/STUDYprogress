@@ -1,0 +1,36 @@
+{
+ "h": "ee40727a3d1a",
+ "date": "2026-11-13",
+ "titre": "Donidalorsen chez l'enfant de 2 à moins de 12 ans atteint d'angiœdème héréditaire",
+ "question": "Le donidalorsen est-il sûr et bien toléré chez l'enfant atteint d'angiœdème héréditaire de type I ou II, et quelle est sa pharmacocinétique ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est une maladie rare, due à un déficit en inhibiteur de C1. Elle se manifeste par des crises récidivantes d'œdème sous-cutané et muqueux, abdominal ou laryngé, souvent dès l'enfance. La bradykinine, produite via la kallikréine plasmatique, en est le médiateur principal.\n\nLes options de prophylaxie de longue durée chez l'enfant sont limitées : inhibiteur de C1, lanadelumab, berotralstat à partir d'un certain âge, androgènes à éviter. Le donidalorsen est un oligonucléotide antisens qui réduit la synthèse hépatique de la prékallikréine ; il est administré par voie sous-cutanée. Cet essai de phase 3 non randomisé, promu par Ionis, inclut 20 enfants de 2 à moins de 12 ans, pesant au moins 9 kg. Le traitement dure un an, avec une dose adaptée à trois groupes de poids (9-26 kg, 26-41 kg, ≥ 41 kg). Il n'y a pas de comparateur.",
+ "interet": "L'étude vise à documenter la sécurité et la pharmacocinétique de la prophylaxie par donidalorsen chez l'enfant, et à étendre son usage aux plus jeunes patients.",
+ "profil": "Des enfants de 2 à moins de 12 ans, pesant au moins 9 kg, atteints d'angiœdème héréditaire de type I ou II.",
+ "inclusion": [
+  "Âge de 2 à moins de 12 ans",
+  "Poids ≥ 9 kg",
+  "Antécédent clinique compatible (œdèmes sous-cutanés ou muqueux non prurigineux, sans urticaire)",
+  "Diagnostic confirmé : C1-INH fonctionnel < 50 % et C4 bas, ou mutation pathogène de SERPING1"
+ ],
+ "exclusion": [
+  "Anomalie biologique ou autre anomalie cliniquement significative rendant l'inclusion inappropriée",
+  "Autre médicament, produit biologique ou dispositif expérimental dans le mois précédent (ou 5 demi-vies)",
+  "Autre type d'angiœdème récidivant (idiopathique, AOH à C1-INH normal ou de type III)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1 (9 à < 26 kg)",
+   "traitement": "Donidalorsen sous-cutané pendant un an (dose adaptée au poids, non précisée)"
+  },
+  {
+   "nom": "Groupe 2 (26 à < 41 kg)",
+   "traitement": "Donidalorsen sous-cutané pendant un an (dose adaptée au poids)"
+  },
+  {
+   "nom": "Groupe 3 (≥ 41 kg)",
+   "traitement": "Donidalorsen sous-cutané pendant un an (dose adaptée au poids)"
+  }
+ ],
+ "duree": "Environ 17 mois",
+ "critere": "Nombre de participants avec événements indésirables apparus sous traitement et paramètres pharmacocinétiques du donidalorsen (Cmax, Tmax, concentration résiduelle), sur environ 17 mois."
+}

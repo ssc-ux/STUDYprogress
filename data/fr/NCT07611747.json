@@ -1,0 +1,31 @@
+{
+ "h": "3f9cea03f8b3",
+ "date": "2026-11-13",
+ "titre": "Échographie carotidienne pour la prévention cardiovasculaire dans les rhumatismes inflammatoires",
+ "question": "Une stratégie fondée sur l'échographie carotidienne réduit-elle les événements cardiovasculaires majeurs chez les patients atteints de rhumatisme inflammatoire à risque faible à modéré ?",
+ "contexte": "Les patients atteints de polyarthrite rhumatoïde, de rhumatisme psoriasique, de spondyloarthrite axiale ou de lupus systémique ont environ 50 % de risque supplémentaire d'événements cardiovasculaires, en raison de l'effet pro-athérogène de l'inflammation chronique. Les scores usuels comme SCORE2/OP sous-estiment ce risque : dans le projet espagnol CARMA, 53 % des événements sont survenus chez des patients classés à risque faible ou modéré.\n\nLes recommandations ESC 2021 proposent l'échographie carotidienne pour détecter l'athérome infraclinique : la présence d'une plaque reclasse le patient en très haut risque et justifie un traitement hypolipémiant intensif. Aucun essai randomisé n'a toutefois évalué cette stratégie dans les rhumatismes inflammatoires.\n\nPREVENER est un essai de phase 4 randomisé, ouvert, multicentrique (17 hôpitaux espagnols), promu par l'Instituto de Investigación Marqués de Valdecilla. Il inclut 1 944 patients de 50 ans et plus à risque faible à modéré. Dans le groupe expérimental, une échographie est réalisée dans les 30 jours ; en cas de plaque, un statinique intensif est débuté (cible de LDL < 55 mg/dL). Le groupe contrôle suit les recommandations ESC 2021 sans échographie.",
+ "interet": "L'essai pourrait établir si le dépistage des plaques carotidiennes doit faire partie du bilan cardiovasculaire de routine des rhumatismes inflammatoires. Il fournira aussi des données par maladie et par sexe.",
+ "profil": "Des adultes de 50 ans ou plus atteints de polyarthrite rhumatoïde, de rhumatisme psoriasique, de spondyloarthrite axiale ou de lupus, à risque cardiovasculaire faible à modéré.",
+ "inclusion": [
+  "Âge ≥ 50 ans, consentement écrit",
+  "Polyarthrite rhumatoïde (ACR/EULAR 2010), rhumatisme psoriasique (CASPAR), spondyloarthrite axiale (ASAS) ou lupus systémique (ACR/EULAR 2019)",
+  "Risque cardiovasculaire faible à modéré selon SCORE2/OP"
+ ],
+ "exclusion": [
+  "Événement cardiovasculaire antérieur, diabète de type 2, hypercholestérolémie familiale ou maladie rénale chronique classant en risque élevé ou très élevé",
+  "Échographie carotidienne antérieure ayant conduit à une intervention thérapeutique",
+  "Contre-indication aux hypolipémiants (alcoolisme récent, hépatopathie active, transaminases > 3 fois la normale inexpliquées)"
+ ],
+ "bras": [
+  {
+   "nom": "Échographie carotidienne",
+   "traitement": "Échographie dans les 30 jours ; si plaque, reclassement en très haut risque et statine à haute intensité (cible LDL < 55 mg/dL) ; sinon prise en charge ESC 2021"
+  },
+  {
+   "nom": "Soins standard",
+   "traitement": "Prise en charge selon les recommandations ESC 2021, sans échographie carotidienne"
+  }
+ ],
+ "duree": "48 mois",
+ "critere": "Incidence des événements cardiovasculaires majeurs (infarctus, AVC, hospitalisation pour angor instable, revascularisation artérielle périphérique, décès cardiovasculaire) à 48 mois."
+}

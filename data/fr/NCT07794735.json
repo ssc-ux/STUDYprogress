@@ -1,0 +1,33 @@
+{
+ "h": "cf8db9a5ac5d",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline sous-cutanée TAK-664 chez des patients naïfs de substitution, schéma de charge rapide",
+ "question": "Un schéma de charge de 5 jours puis hebdomadaire de TAK-664 permet-il d'atteindre rapidement un taux résiduel d'IgG d'au moins 500 mg/dL chez des patients naïfs d'immunoglobulines ?",
+ "contexte": "Les déficits immunitaires primitifs humoraux requièrent une substitution en IgG pour prévenir les infections. La voie sous-cutanée (SC) offre des taux d'IgG stables et une administration à domicile. Chez les patients naïfs, les taux d'IgG sont très bas au départ, et atteindre rapidement un taux protecteur est un enjeu.\n\nTAK-664 est une immunoglobuline SC déjà approuvée dans le monde pour la substitution. Cet essai de phase 4 à bras unique, promu par Takeda, évalue un schéma de charge chez 9 patients de 6 ans et plus, naïfs de substitution et ayant un taux d'IgG ≤ 400 mg/dL. Ils reçoivent 150 mg/kg par jour pendant 5 jours (jours 1 à 5), puis la même dose une fois par semaine jusqu'à la semaine 8. L'étude évalue aussi les taux d'IgG obtenus, les infections et leur traitement. Il n'y a pas de comparateur.",
+ "interet": "Un schéma de charge rapide pourrait permettre de protéger plus vite les patients nouvellement diagnostiqués, sans passer par la voie intraveineuse. L'effectif très limité (9 patients) restreint la portée des conclusions.",
+ "profil": "Des patients de 6 ans et plus atteints d'un déficit immunitaire primitif humoral, jamais traités par immunoglobulines.",
+ "inclusion": [
+  "Âge ≥ 6 ans",
+  "Déficit immunitaire primitif humoral avec défaut de production d'anticorps nécessitant une substitution (classification IUIS 2024)",
+  "Jamais traité par immunoglobulines",
+  "IgG ≤ 400 mg/dL au dépistage",
+  "Test de grossesse négatif et contraception efficace si applicable",
+  "Consentement ou assentiment"
+ ],
+ "exclusion": [
+  "Protéinurie significative, syndrome néphrotique, insuffisance rénale aiguë ou sévère (urée ou créatinine > 2,5 x la normale)",
+  "Déficit en IgA avec anticorps anti-IgA et antécédent d'hypersensibilité",
+  "Affection modifiant le catabolisme des IgG (entéropathie exsudative)",
+  "AgHBs, ARN du VHC ou ARN du VIH positifs",
+  "Accident thromboembolique dans les 6 mois précédents",
+  "Cancer avec moins de 2 ans de rémission ou cancer actif traité"
+ ],
+ "bras": [
+  {
+   "nom": "TAK-664, 150 mg/kg",
+   "traitement": "Charge de 5 doses quotidiennes de 150 mg/kg (jours 1 à 5), puis 150 mg/kg une fois par semaine jusqu'à la semaine 8"
+  }
+ ],
+ "duree": "8 semaines de traitement",
+ "critere": "Proportion de patients atteignant un taux résiduel d'IgG totales ≥ 500 mg/dL au jour 15."
+}

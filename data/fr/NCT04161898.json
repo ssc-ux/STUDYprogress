@@ -1,0 +1,31 @@
+{
+ "h": "a33f9b6abc77",
+ "date": "2026-11-13",
+ "titre": "Upadacitinib dans la maladie de Takayasu",
+ "question": "L'upadacitinib, associé à une décroissance des corticoïdes, retarde-t-il la rechute de la maladie de Takayasu par rapport au placebo ?",
+ "contexte": "La maladie de Takayasu est une artérite des gros vaisseaux touchant l'aorte et ses branches. Les glucocorticoïdes sont le traitement initial, avec des rechutes fréquentes à la décroissance et des séquelles vasculaires cumulées. Les immunosuppresseurs conventionnels, les anti-TNF et le tocilizumab sont employés, sans traitement approuvé dans la plupart des pays. Le tocilizumab n'a pas atteint son critère principal dans l'essai TAKT.\n\nL'upadacitinib est un inhibiteur sélectif de JAK1, approuvé dans plusieurs maladies à médiation immunitaire, dont la polyarthrite rhumatoïde et l'artérite à cellules géantes. L'implication de cytokines dépendantes de JAK dans l'inflammation de la paroi vasculaire en justifie l'essai dans la maladie de Takayasu.\n\nCet essai de phase 3 d'AbbVie, randomisé en double insu contre placebo, inclut 56 patients de 18 ans ou plus (15 ans au Japon) ayant fait une rechute dans les 12 semaines précédant l'inclusion, puis revenus en rémission sous corticoïdes stables. L'upadacitinib ou le placebo est ajouté à la décroissance de prednisolone. L'étude se poursuit jusqu'à 40 événements.",
+ "interet": "Il pourrait fournir la première preuve contrôlée d'un inhibiteur de JAK dans la maladie de Takayasu, avec un critère portant sur la rechute.",
+ "profil": "Des patients de 15 ou 18 ans et plus atteints de maladie de Takayasu en rémission après une rechute récente.",
+ "inclusion": [
+  "Âge de 18 ans ou plus (15 ans au Japon)",
+  "Takayasu selon les critères japonais 2017",
+  "Rechute dans les 12 semaines précédant l'inclusion malgré les corticoïdes oraux",
+  "Rémission et dose de corticoïdes stable avant l'inclusion"
+ ],
+ "exclusion": [
+  "Inhibiteur de l'IL-6 ou de JAK dans les 4 semaines précédant l'inclusion",
+  "Immunomodulateur autre que les corticoïdes en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Upadacitinib",
+   "traitement": "Upadacitinib une fois par jour (dose non précisée) avec prednisolone en décroissance"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo une fois par jour avec prednisolone en décroissance"
+  }
+ ],
+ "duree": "Environ 52 mois en double insu (jusqu'à 40 événements), tolérance jusqu'à environ 58 mois",
+ "critere": "Délai jusqu'à la première rechute entre l'inclusion et la fin de la période en double insu."
+}

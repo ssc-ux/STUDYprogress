@@ -1,0 +1,36 @@
+{
+ "h": "a86d2a7f36ef",
+ "date": "2026-11-13",
+ "titre": "Rapport albumine/globulines et indice nutritionnel pronostique pour prédire l'activité du lupus",
+ "question": "L'association du rapport albumine/globulines et de l'indice nutritionnel pronostique permet-elle de prédire l'activité du lupus systémique ?",
+ "contexte": "L'évaluation de l'activité du lupus systémique repose sur des scores cliniques (SLEDAI) et sur des examens biologiques comme les anticorps anti-ADN natif, le complément et la protéinurie. Ces outils sont parfois coûteux, d'accès inégal ou peu sensibles aux variations précoces.\n\nL'albumine sérique diminue en cas d'inflammation active, et plusieurs travaux l'ont rapportée comme marqueur d'activité du lupus. Le rapport albumine/globulines (AGR) et l'indice nutritionnel pronostique (PNI, calculé à partir de l'albumine et des lymphocytes) combinent des paramètres nutritionnels et inflammatoires disponibles à moindre coût dans le bilan courant. Ils ont surtout été étudiés en oncologie.\n\nCette étude observationnelle cas-témoins, promue par l'Université de Sohag (Égypte), compare des patients lupiques et des témoins sains appariés sur l'âge et le sexe, avec 200 participants prévus. Elle cherche à construire un outil simple, non invasif et peu coûteux de suivi de l'activité de la maladie, en corrélant ces marqueurs aux manifestations cliniques et aux paramètres biologiques.",
+ "interet": "Un modèle simple fondé sur des examens de routine pourrait aider à repérer l'activité du lupus dans les contextes où les dosages spécialisés sont peu accessibles. Il reste à valider sur des cohortes plus larges avant tout usage.",
+ "profil": "Des adultes atteints de lupus systémique (critères SLICC ou ACR/EULAR) et des témoins sains appariés.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Les deux sexes",
+  "Lupus systémique selon les critères de classification SLICC",
+  "Témoins appariés (âge et sexe), sans antécédent de maladie auto-immune"
+ ],
+ "exclusion": [
+  "Autre maladie inflammatoire chronique ou auto-immune associée",
+  "Âge < 18 ans",
+  "Cancer ou hémopathie maligne",
+  "Grossesse ou allaitement",
+  "Insuffisance hépatique ou rénale chronique",
+  "Hépatite active",
+  "Infection aiguë dans les 4 dernières semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus actif",
+   "traitement": "Patients atteints de lupus systémique actif; mesure du rapport albumine/globulines et de l'indice nutritionnel pronostique"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Sujets sains appariés sur l'âge et le sexe, sans maladie auto-immune; mêmes mesures"
+  }
+ ],
+ "duree": "6 mois à 1 an",
+ "critere": "Utilité du rapport albumine/globulines comme biomarqueur non invasif de l'activité du lupus systémique, évaluée entre 6 mois et 1 an."
+}

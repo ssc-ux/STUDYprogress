@@ -1,0 +1,14 @@
+{
+ "h": "4051b0927efe",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline intraveineuse à 10 % KIg10 dans le PTI chronique de l'adulte",
+ "question": "L'immunoglobuline intraveineuse à 10 % KIg10 (2 g/kg) est-elle efficace et sûre dans le PTI primaire chronique de l'adulte ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. On parle de forme chronique au-delà de 12 mois d'évolution. Les immunoglobulines polyvalentes intraveineuses (IgIV) permettent une remontée rapide des plaquettes. Elles sont utilisées en cas de saignement, de thrombopénie profonde ou avant un geste invasif.\n\nLe schéma de référence est de 1 à 2 g/kg, avec un effet qui reste transitoire. La disponibilité des IgIV est limitée par les besoins en plasma, et plusieurs préparations doivent faire la preuve de leur efficacité dans cette indication pour être autorisées.\n\nCet essai de phase 3 monobras, promu par Kedrion, évalue KIg10, une IgIV à 10 %, chez 40 adultes de 18 à 70 ans atteints de PTI chronique. Chaque patient reçoit une cure de 2 g/kg répartie sur 2 jours. Le critère principal est le taux de patients en réponse jusqu'au jour 14.",
+ "interet": "Les résultats pourraient appuyer l'autorisation d'une nouvelle préparation d'IgIV dans le PTI, élargissant l'offre pour la prise en charge des épisodes de thrombopénie sévère.",
+ "profil": "Des adultes de 18 à 70 ans atteints de PTI primaire chronique avec moins de 30 G/L de plaquettes.",
+ "inclusion": ["Âge de 18 à 70 ans, consentement signé", "PTI chronique (> 12 mois) selon l'International Working Group", "Plaquettes moyennes < 30 G/L sur deux numérations espacées d'au moins un jour", "Plaquettes < 30 G/L avant perfusion à la visite initiale", "Test de grossesse négatif et contraception adéquate chez les femmes en âge de procréer"],
+ "exclusion": ["PTI secondaire (lupus, polyarthrite rhumatoïde, médicamenteux, VIH)", "Syndrome d'Evans", "Infection connue par le VHB, le VHC ou le VIH", "Antécédent thrombotique (TVP, AVC, embolie pulmonaire, AIT, infarctus)", "Hypersensibilité aux IgIV ou à leurs excipients, déficit en IgA avec anticorps anti-IgA", "Résistance antérieure aux IgIV ou aux anti-D", "Splénectomie dans les 4 semaines ou prévue, thrombopénie héréditaire, myélodysplasie"],
+ "bras": [{"nom": "KIg10 à 2 g/kg", "traitement": "Une cure d'immunoglobuline intraveineuse à 10 % de 2 g/kg, en perfusion répartie sur 2 jours"}],
+ "duree": "Non précisé (évaluation jusqu'au jour 14)",
+ "critere": "Taux de patients en réponse plaquettaire entre le traitement et le jour 14"
+}

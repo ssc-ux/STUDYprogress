@@ -1,0 +1,34 @@
+{
+ "h": "ac8f3af04aa5",
+ "date": "2026-11-13",
+ "titre": "Linvoseltamab versus Dara-VCd dans l'amylose AL nouvellement diagnostiquée",
+ "question": "Le linvoseltamab seul permet-il un meilleur contrôle de l'amylose AL que l'association Dara-VCd chez les patients nouvellement diagnostiqués ?",
+ "contexte": "L'amylose AL est une maladie plasmocytaire où des chaînes légères monoclonales forment des dépôts toxiques, en particulier dans le cœur et les reins. Le pronostic dépend de l'atteinte d'organe et de la profondeur de la réponse hématologique. L'association daratumumab, bortézomib, cyclophosphamide et dexaméthasone (Dara-VCd) est le traitement de première ligne de référence, mais elle est lourde et induit des réponses incomplètes chez une partie des patients.\n\nLe linvoseltamab est un anticorps bispécifique dirigé contre BCMA (plasmocytes) et CD3 (lymphocytes T), qui recrute les lymphocytes T contre les plasmocytes. Il montre une activité dans le myélome multiple en rechute. Cet essai de phase 3 ouvert, promu par Regeneron, randomise 382 adultes atteints d'amylose AL nouvellement diagnostiquée (stades I à IIIA) entre linvoseltamab seul et Dara-VCd. Le critère principal comprend la sécurité sur 7 ans et la réponse hématologique complète évaluée par un comité indépendant.",
+ "interet": "Si le linvoseltamab seul est supérieur ou mieux toléré que Dara-VCd, il pourrait devenir un nouveau traitement de première ligne de l'amylose AL, avec un schéma plus simple. L'étude porte aussi sur les événements indésirables des bispécifiques dans cette population fragile.",
+ "profil": "Des adultes atteints d'amylose AL systémique nouvellement diagnostiquée (stades I à IIIA), jamais traitée.",
+ "inclusion": [
+  "Amylose AL confirmée",
+  "Maladie mesurable (différence dFLC entre chaînes légères impliquées et non impliquées)",
+  "Fonctions hématologique, rénale et hépatique adéquates",
+  "ECOG ≤ 2 au dépistage"
+ ],
+ "exclusion": [
+  "Autre amylose non AL",
+  "Plasmocytose médullaire ≥ 60 %",
+  "Lésions osseuses lytiques ou plasmocytome",
+  "FEVG < 40 %, insuffisance cardiaque congestive, syndrome coronarien aigu ou infarctus dans les 6 mois",
+  "Traitement antérieur de l'amylose AL"
+ ],
+ "bras": [
+  {
+   "nom": "Linvoseltamab",
+   "traitement": "Anticorps bispécifique anti-BCMA/CD3, seul (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Dara-VCd",
+   "traitement": "Daratumumab, bortézomib, cyclophosphamide et dexaméthasone (doses non précisées)"
+  }
+ ],
+ "duree": "Jusqu'à 7 ans",
+ "critere": "Sécurité (événements indésirables apparus sous traitement, événements d'intérêt particulier, événements graves) et réponse hématologique complète selon les critères de l'ISA, jusqu'à 7 ans."
+}

@@ -1,0 +1,48 @@
+{
+ "h": "eedbdb6fd0e3",
+ "date": "2026-11-13",
+ "titre": "Bézuclastinib versus placebo dans la mastocytose systémique indolente ou latente symptomatique",
+ "question": "Le bézuclastinib, ajouté au traitement symptomatique, améliore-t-il les symptômes de la mastocytose systémique non avancée par rapport au placebo ?",
+ "contexte": "La mastocytose systémique indolente (MSI) et la forme latente (smoldering) sont des proliférations clonales de mastocytes, le plus souvent liées à la mutation KIT D816V. Elles se manifestent par des symptômes chroniques : flushs, prurit, douleurs abdominales, diarrhées, fatigue, douleurs osseuses, symptômes neurocognitifs, parfois anaphylaxie.\n\nLe traitement repose sur les antimédiateurs (anti-H1, anti-H2, cromoglicate, antileucotriènes, corticoïdes) qui contrôlent souvent mal les symptômes. L'avapritinib, inhibiteur de KIT, a montré un bénéfice dans la MSI, mais il peut entraîner des effets indésirables, notamment cognitifs et des œdèmes périorbitaires. Un besoin persiste donc pour des inhibiteurs de KIT bien tolérés.\n\nLe bézuclastinib (CGT9486) est un inhibiteur sélectif de KIT D816V. Cette étude de phase 2 (Summit), randomisée en double aveugle contre placebo, comporte trois parties : choix de la dose (parties 1a et 1b), comparaison à la dose retenue (partie 2) puis extension en ouvert pour tous (partie 3). Une sous-étude évalue le bézuclastinib chez des patients insuffisamment contrôlés par l'avapritinib. Le promoteur est Cogent Biosciences ; des centres français participent.",
+ "interet": "Si le bézuclastinib réduit les symptômes avec une bonne tolérance, il pourrait offrir une alternative aux antimédiateurs seuls et à l'avapritinib dans la mastocytose non avancée. L'étude renseigne aussi sur la place d'un second inhibiteur de KIT.",
+ "profil": "Des adultes atteints de mastocytose systémique indolente, latente ou médullaire, avec des symptômes modérés à sévères malgré un traitement symptomatique.",
+ "inclusion": [
+  "Mastocytose systémique indolente, latente ou médullaire (OMS 2016)",
+  "Symptômes modérés à sévères (score MAS minimal) malgré au moins 2 antimédiateurs stables sur 14 jours",
+  "Score ECOG de 0 à 2",
+  "Corticoïdes éventuels ≤ 10 mg/j d'équivalent prednisone",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Toxicité d'un traitement antérieur non résolue (> grade 1)",
+  "Mastocytose avancée (agressive, avec néoplasie hématologique associée, leucémie à mastocytes) ou mastocytose cutanée isolée",
+  "Traitement antérieur par inhibiteur de KIT ciblé (hors produits approuvés dans la mastocytose)",
+  "Hémorragie cliniquement significative dans les 30 jours ou anticoagulation nécessaire",
+  "Corticoïdes > 10 mg/j d'équivalent prednisone",
+  "Inhibiteurs ou inducteurs puissants du CYP3A4 dans les 14 jours"
+ ],
+ "bras": [
+  {
+   "nom": "Parties 1a et 1b : bézuclastinib dose 1 ou dose 2 + traitement symptomatique",
+   "traitement": "Bézuclastinib en comprimés (formulations A puis B), deux doses testées"
+  },
+  {
+   "nom": "Parties 1a et 1b : placebo + traitement symptomatique",
+   "traitement": "Placebo en comprimés"
+  },
+  {
+   "nom": "Partie 2 : bézuclastinib à la dose retenue + traitement symptomatique",
+   "traitement": "Bézuclastinib en comprimés (formulation B)"
+  },
+  {
+   "nom": "Partie 2 : placebo + traitement symptomatique",
+   "traitement": "Placebo en comprimés"
+  },
+  {
+   "nom": "Partie 3 : extension",
+   "traitement": "Bézuclastinib en ouvert pour les patients issus des parties précédentes"
+  }
+ ],
+ "duree": "Non précisé ; partie 3 jusqu'à 5 ans",
+ "critere": "Partie 1 : dose recommandée à 3 mois ; partie 2 : efficacité du bézuclastinib versus placebo à 24 semaines ; partie 3 : tolérance (événements indésirables) jusqu'à 5 ans."
+}

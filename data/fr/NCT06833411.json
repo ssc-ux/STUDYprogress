@@ -1,0 +1,30 @@
+{
+ "h": "a685f3eca0fa",
+ "date": "2026-11-13",
+ "titre": "Tocilizumab avec 8 ou 26 semaines de prednisone dans l'artérite à cellules géantes (GISCO)",
+ "question": "Un traitement par prednisone de 8 semaines associé au tocilizumab est-il aussi efficace qu'une décroissance de 26 semaines dans l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG, maladie de Horton) est traitée par glucocorticoïdes, dont la toxicité (diabète, ostéoporose, infections) est importante chez des patients âgés. Le tocilizumab, anti-récepteur de l'IL-6, est approuvé dans l'ACG : l'essai GiACTA a montré une meilleure rémission prolongée sous tocilizumab avec une décroissance de prednisone de 26 semaines.\n\nCette durée de 26 semaines est issue du protocole GiACTA et n'a pas été comparée à des schémas plus courts. Des séries observationnelles suggèrent que les glucocorticoïdes pourraient être arrêtés plus tôt sans perte d'efficacité, avec des économies de dose cumulée.\n\nGISCO, essai de phase 3 mené par l'hôpital universitaire de Berne, randomise 178 patients de 50 ans ou plus ayant une ACG, débutant le tocilizumab en pratique courante avec au moins 20 mg/jour de prednisone. Ils suivent une décroissance sur 8 semaines ou sur 26 semaines, avec un suivi d'un an. L'étude évalue la non-infériorité sur les rechutes majeures et l'exposition cumulée aux glucocorticoïdes.",
+ "interet": "Si le schéma court est aussi efficace, il permettrait de réduire sensiblement la corticothérapie des patients atteints d'ACG traités par tocilizumab.",
+ "profil": "Des adultes de 50 ans ou plus ayant une ACG, débutant le tocilizumab en pratique courante.",
+ "inclusion": [
+  "Diagnostic d'artérite à cellules géantes",
+  "Début du tocilizumab à l'inclusion en pratique courante",
+  "Prednisone d'au moins 20 mg/jour (ou équivalent) à l'inclusion",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Médicament expérimental, chimique ou biologique, dans les 30 jours ou 5 demi-vies précédant la première dose de tocilizumab"
+ ],
+ "bras": [
+  {
+   "nom": "Prednisone 26 semaines",
+   "traitement": "Décroissance de la prednisone sur 26 semaines, avec tocilizumab"
+  },
+  {
+   "nom": "Prednisone 8 semaines",
+   "traitement": "Décroissance de la prednisone sur 8 semaines, avec tocilizumab"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Absence de rechute majeure entre la randomisation et la semaine 52, et exposition cumulée aux glucocorticoïdes sur 52 semaines."
+}

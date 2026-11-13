@@ -1,0 +1,38 @@
+{
+ "h": "6efc04ad0d04",
+ "date": "2026-11-13",
+ "titre": "Traitement de précision selon le phénotype clinico-moléculaire dans la maladie de Takayasu active",
+ "question": "Un traitement adapté au phénotype clinico-moléculaire est-il plus efficace qu'un traitement conventionnel dans la maladie de Takayasu active ?",
+ "contexte": "La maladie de Takayasu est une artérite des gros vaisseaux touchant l'aorte et ses branches, surtout les jeunes femmes. Le traitement repose sur les glucocorticoïdes associés à des immunosuppresseurs (méthotrexate, léflunomide, cyclophosphamide) et à des biothérapies (tocilizumab, anti-TNF). Les rechutes et la progression des lésions vasculaires restent fréquentes, et le choix du traitement est largement empirique.\n\nLa maladie est hétérogène. Les données du service de Shanghai Zhongshan Hospital suggèrent des phénotypes cliniques et moléculaires, distinguant une forme constitutionnelle d'une forme d'inflammation vasculaire, avec ou sans élévation de l'IL-6 ou du TNF-α.\n\nCet essai de phase 4 multicentrique et ouvert inclut 124 adultes de 18 à 65 ans en Takayasu active (score NIH d'au moins 2). Dans le groupe de précision, le traitement dépend du phénotype : glucocorticoïdes avec tocilizumab et méthotrexate, tofacitinib, ou adalimumab et méthotrexate. Le groupe comparateur reçoit un traitement conventionnel selon un schéma prédéfini.",
+ "interet": "Il pourrait montrer l'intérêt de personnaliser le traitement de la maladie de Takayasu sur des marqueurs biologiques, ce qui rationaliserait l'usage des biothérapies.",
+ "profil": "Des adultes de 18 à 65 ans atteints de maladie de Takayasu active.",
+ "inclusion": [
+  "Critères ACR/EULAR 2022 d'aortite",
+  "Âge de 18 à 65 ans",
+  "Maladie active (score NIH d'au moins 2)",
+  "Test de grossesse négatif et absence de projet de grossesse",
+  "Prednisone stable depuis 4 semaines, à 0,6 mg/kg/jour ou moins",
+  "Respect des délais d'arrêt des autres immunosuppresseurs et biothérapies",
+  "Bilan et traitement préventif d'une tuberculose ou d'une hépatite B si nécessaire"
+ ],
+ "exclusion": [
+  "Défaillance d'organe",
+  "Hémodialyse ou chirurgie majeure dans les 3 mois",
+  "Autre maladie auto-immune",
+  "Atteinte d'organe sévère et progressive",
+  "Comorbidité nécessitant des glucocorticoïdes à dose modérée ou élevée",
+  "Autres critères non précisés dans ce résumé"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement de précision",
+   "traitement": "Selon le phénotype : glucocorticoïdes avec tocilizumab et méthotrexate, ou avec tofacitinib, ou avec adalimumab et méthotrexate"
+  },
+  {
+   "nom": "Traitement conventionnel",
+   "traitement": "Schéma conventionnel prédéfini selon le phénotype (glucocorticoïdes avec immunosuppresseurs)"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 6 mois)",
+ "critere": "Taux d'efficacité à 6 mois."
+}

@@ -1,0 +1,14 @@
+{
+"h": "24cbe52aa8d0",
+"date": "2026-11-13",
+"titre": "Empagliflozine contre placebo sur la fonction rénale dans la néphrite lupique",
+"question": "L'empagliflozine, ajoutée au traitement standard, réduit-elle la protéinurie et améliore-t-elle le DFG à 12 semaines dans la néphrite lupique ?",
+"contexte": "Le lupus systémique est une maladie auto-immune chronique multisystémique évoluant par poussées et rémissions. La néphrite lupique survient dans 40 à 70 % des cas au cours des 10 premières années, et se manifeste par une protéinurie. C'est un facteur majeur de morbidité et de mortalité.\n\nLes inhibiteurs du SGLT2, issus de la phlorizine, sont indiqués dans le diabète de type 2 et diminuent la réabsorption du glucose dans le tubule proximal. Ils ont aussi des effets néphroprotecteurs démontrés dans la maladie rénale chronique diabétique et non diabétique, avec une baisse de la protéinurie et un ralentissement du déclin du DFG.\n\nLes patients lupiques ont été peu inclus dans ces essais. Cet essai de phase 4 randomisé, en quadruple aveugle, mené en Égypte sur 66 patients, compare l'empagliflozine 25 mg par jour à un placebo, en plus du traitement standard, pendant 12 semaines. Il inclut des néphrites lupiques actives de classe III, IV, III/IV ou III/V avec protéinurie élevée.",
+"interet": "Si l'empagliflozine réduit la protéinurie sans altérer la fonction rénale, elle pourrait compléter le traitement antiprotéinurique de la néphrite lupique. La durée courte et la petite taille limitent les conclusions sur les critères durs.",
+"profil": "Des adultes de 18 à 65 ans atteints de néphrite lupique active de classe III, IV ou V prouvée par biopsie, avec protéinurie élevée.",
+"inclusion": ["Âge ≥ 18 ans", "Néphrite lupique active prouvée par biopsie, classe III, IV, III/IV ou III/V", "DFG ≥ 30 mL/min/1,73 m²", "Rapport protéinurie/créatininurie > 1 000 mg/g"],
+"exclusion": ["Hypersensibilité grave (angiœdème, anaphylaxie) à l'empagliflozine", "DFG < 30 mL/min/1,73 m² ou rapport protéinurie/créatininurie < 1 000 mg/g", "Diabète de type 1 ou 2", "Fibrillation atriale", "Insuffisance hépatique (ALAT/ASAT > 3 N ou bilirubine > 2 N)", "Espérance de vie < 6 mois, ou participation à un essai expérimental dans les 6 mois"],
+"bras": [{"nom": "Empagliflozine", "traitement": "Empagliflozine 25 mg une fois par jour pendant 12 semaines, plus traitement standard"}, {"nom": "Placebo", "traitement": "Placebo une fois par jour pendant 12 semaines, plus traitement standard"}],
+"duree": "12 semaines",
+"critere": "Variation du rapport protéinurie/créatininurie et du DFG estimé entre l'inclusion et la semaine 12."
+}

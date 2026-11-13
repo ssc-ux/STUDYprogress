@@ -1,0 +1,14 @@
+{
+"h": "2ea32f2931f4",
+"date": "2026-11-13",
+"titre": "Lupus systémique dans la population Gullah : facteurs génétiques et environnementaux (SLEIGH)",
+"question": "Quels facteurs génétiques, en interaction avec l'environnement, favorisent le lupus systémique dans la population afro-américaine Gullah des îles de Caroline du Sud ?",
+"contexte": "Le lupus érythémateux systémique est une maladie auto-immune caractérisée par la production d'auto-anticorps, l'atteinte de multiples organes et des manifestations cliniques et immunologiques variées. Les personnes afro-américaines ont un risque nettement plus élevé de lupus, une survenue plus précoce, et une morbidité et une mortalité plus importantes que les personnes d'origine européenne.\n\nL'hypothèse centrale de l'étude est que des facteurs génétiques spécifiques interagissent avec des expositions environnementales pour provoquer la maladie. La population Gullah, afro-américaine, des îles côtières de Caroline du Sud et de Géorgie, se distingue par une grande homogénéité génétique et un faible apport génétique non africain. Ces caractéristiques facilitent l'identification de variants de susceptibilité.\n\nSLEIGH est une étude observationnelle de 750 participants, promue par la Medical University of South Carolina, qui recrute des patients lupiques, des apparentés non atteints et des témoins sains non apparentés. Elle étudie la génétique de la maladie et ses déterminants familiaux et environnementaux dans cette population.",
+"interet": "L'étude pourrait identifier des variants de susceptibilité au lupus dans une population très touchée et mal représentée dans la recherche. Elle contribue à mieux comprendre les disparités de risque et de sévérité du lupus.",
+"profil": "Des personnes afro-américaines Gullah (dès 2 ans) de la région des îles côtières de Caroline du Sud : patients lupiques, apparentés non atteints et témoins.",
+"inclusion": ["Âge de 2 ans ou plus", "Personne se déclarant afro-américaine Gullah des Sea Islands de Caroline du Sud", "Lupus systémique (au moins 4 critères ACR sur 11), ou apparenté d'un patient, ou témoin sain Gullah non apparenté", "Capacité à parler et à comprendre l'anglais", "Capacité et volonté de donner un consentement éclairé"],
+"exclusion": ["Origine ethnique déclarée autre que noire ou afro-américaine", "Personne incarcérée, malade mental ou institutionnalisée", "Refus ou impossibilité de consentir"],
+"bras": [{"nom": "Patients lupiques", "traitement": "Cohorte observée"}, {"nom": "Apparentés non atteints", "traitement": "Cohorte de témoins apparentés"}, {"nom": "Témoins non apparentés non atteints", "traitement": "Cohorte de témoins sains"}],
+"duree": "Non précisé",
+"critere": "Non précisé dans le registre."
+}

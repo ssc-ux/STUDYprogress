@@ -1,0 +1,30 @@
+{
+ "h": "84c5d01c388c",
+ "date": "2026-11-13",
+ "titre": "Rilzabrutinib contre placebo dans le purpura thrombopénique immunologique persistant ou chronique",
+ "question": "Le rilzabrutinib permet-il d'obtenir une réponse plaquettaire durable chez des patients atteints de PTI persistant ou chronique ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps et des lymphocytes T détruisent les plaquettes et altèrent leur production. Il expose à un risque hémorragique et à une altération de la qualité de vie, parfois avec fatigue marquée. Le traitement repose sur les corticoïdes et les immunoglobulines en première ligne, puis sur les agonistes du récepteur de la thrombopoïétine, le rituximab, le fostamatinib ou la splénectomie. Une part des patients reste thrombopénique ou intolérante aux traitements disponibles.\n\nLe rilzabrutinib est un inhibiteur oral réversible de la tyrosine kinase de Bruton (BTK), qui agit sur les lymphocytes B et sur les récepteurs Fc des phagocytes, donc sur la production d'auto-anticorps et sur la phagocytose des plaquettes. L'étude LUNA 3 est une étude de phase 3 randomisée en double aveugle contre placebo, chez des adultes et adolescents (dès 10 ans en Europe) ayant un PTI de plus de 3 mois (adultes) ou 6 mois (enfants). Les patients ont une réponse non soutenue aux traitements standard, avec une numération plaquettaire basse. La phase en aveugle de 12 à 24 semaines est suivie d'une phase ouverte de 28 semaines puis d'une extension. Le promoteur est Principia Biopharma (Sanofi).",
+ "interet": "L'étude pourrait apporter une option orale ciblant à la fois la production d'auto-anticorps et la destruction des plaquettes, dans le PTI persistant ou chronique après échec ou intolérance des traitements standard. Elle inclut aussi des adolescents.",
+ "profil": "Des adultes et adolescents (≥ 10 ans en Europe) atteints de PTI primaire persistant ou chronique, avec numération plaquettaire inférieure à 30 000/µL.",
+ "inclusion": [
+  "PTI primaire : durée > 3 mois (adultes) ou > 6 mois (12 à < 18 ans), dès 10 ans dans l'Espace économique européen",
+  "Réponse (plaquettes ≥ 50 000/µL) non soutenue aux IgIV/anti-D ou aux corticoïdes, et intolérance, réponse insuffisante ou contre-indication aux traitements standard",
+  "Moyenne de 2 numérations < 30 000/µL à ≥ 5 jours d'intervalle, aucune > 35 000/µL dans les 14 jours précédant la première dose",
+  "Fonction hématologique, hépatique et rénale adéquate (PNN ≥ 1,5 G/L, ASAT/ALAT ≤ 1,5 × LSN, DFG > 50)",
+  "Hémoglobine > 9 g/dL dans la semaine précédant le jour 1",
+  "Consentement écrit (et assentiment pour les mineurs), contraception selon la réglementation"
+ ],
+ "exclusion": [
+  "PTI secondaire",
+  "Grossesse ou allaitement",
+  "Cancer actif ou datant de moins de 5 ans nécessitant un traitement (hors cancer cutané non mélanique)",
+  "Transfusion, plasmaphérèse ou autre traitement de secours visant à augmenter les plaquettes dans les 14 jours précédant le jour 1",
+  "Modification de la dose de corticoïdes ou d'agoniste du récepteur de la TPO dans les 14 jours précédant le jour 1"
+ ],
+ "bras": [
+  {"nom": "Rilzabrutinib", "traitement": "Rilzabrutinib 400 mg par voie orale, 2 fois par jour, jusqu'à 24 semaines, puis 28 semaines en ouvert"},
+  {"nom": "Placebo", "traitement": "Placebo oral, 2 fois par jour, jusqu'à 24 semaines"}
+ ],
+ "duree": "Jusqu'à 60 semaines (dépistage, 12 à 24 semaines en aveugle, 28 semaines en ouvert, suivi), puis extension d'un maximum de 12 mois",
+ "critere": "Pourcentage de participants ayant une réponse plaquettaire durable pendant la phase en aveugle, sur 24 semaines au plus."
+}

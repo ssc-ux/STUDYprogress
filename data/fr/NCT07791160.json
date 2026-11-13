@@ -1,0 +1,28 @@
+{
+ "h": "cf8c9d39e80a",
+ "date": "2026-11-13",
+ "titre": "MOSAIC-TTR : acoramidis en pratique réelle dans la cardiomyopathie amyloïde à transthyrétine en France",
+ "question": "Quel est le vécu des patients atteints de cardiomyopathie amyloïde à TTR traités par acoramidis en pratique courante en France ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), sauvage ou héréditaire, est due au dépôt myocardique de TTR mal repliée. Elle provoque une insuffisance cardiaque progressive, avec dyspnée, œdèmes et altération de la qualité de vie.\n\nL'acoramidis est un stabilisateur du tétramère de TTR, approuvé chez l'adulte atteint d'ATTR-CM. Son intérêt a été démontré dans un essai randomisé. Les données de pratique courante, notamment l'évolution de la qualité de vie rapportée par les patients, restent à documenter dans des populations plus larges et plus âgées.\n\nMOSAIC-TTR est une étude observationnelle française, promue par Bayer. Les participants reçoivent l'acoramidis 712 mg deux fois par jour dans le cadre des soins courants, sans traitement ni examen additionnel. Les données proviennent des hôpitaux participants et du registre européen HEAR (NCT05101304).",
+ "interet": "L'étude renseigne l'effet de l'acoramidis sur la qualité de vie en conditions réelles françaises, complémentaire des essais, et peut éclairer le suivi de ces patients.",
+ "profil": "Des adultes atteints de cardiomyopathie amyloïde à TTR, sauvage ou variante, qui débutent l'acoramidis en France.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic établi d'ATTR-CM, génotype sauvage ou variant",
+  "Initiation de l'acoramidis décidée par le médecin avant l'inclusion, selon le RCP français"
+ ],
+ "exclusion": [
+  "Contre-indication de l'information produit locale",
+  "Traitement de fond antérieur (tafamidis, silenceurs ou déplétants de la TTR)",
+  "Participation à un essai évaluant un médicament ou dispositif expérimental hors pratique courante",
+  "Personne sous protection juridique ou privée de liberté par décision administrative ou judiciaire"
+ ],
+ "bras": [
+  {
+   "nom": "Bras unique",
+   "traitement": "Acoramidis 712 mg par voie orale, deux fois par jour, en soins courants"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Scores de qualité de vie rapportés par les patients (Amylo-AFFECT-QOL, KCCQ-23, EQ-5D-3L, EQ VAS) à 3, 6, 9 et 12 mois après le début de l'acoramidis."
+}

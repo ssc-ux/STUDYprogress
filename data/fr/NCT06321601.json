@@ -1,0 +1,33 @@
+{
+ "h": "1477ed895f94",
+ "date": "2026-11-13",
+ "titre": "Avacopan associé au rituximab ou au cyclophosphamide chez l'enfant atteint de vascularite associée aux ANCA",
+ "question": "L'avacopan, associé à un traitement par rituximab ou cyclophosphamide, permet-il d'obtenir une rémission de la vascularite associée aux ANCA chez l'enfant ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et polyangéite microscopique) sont rares chez l'enfant, mais souvent sévères, avec atteinte rénale et pulmonaire fréquente. Le traitement d'induction repose sur les corticoïdes à forte dose associés au rituximab ou au cyclophosphamide, au prix d'une toxicité notable chez l'enfant.\n\nL'avacopan est un antagoniste oral du récepteur C5a du complément. Il est approuvé chez l'adulte, où l'essai ADVOCATE a montré qu'il permettait de réduire la corticothérapie tout en maintenant la rémission, avec un bénéfice rénal. Chez l'enfant, les données d'efficacité et de pharmacocinétique manquent. Cette étude de phase 3 est ouverte, non contrôlée, à un seul bras, chez des enfants de 6 à moins de 18 ans ayant une GPA ou une polyangéite microscopique active avec ANCA anti-PR3 ou anti-MPO. L'avacopan est administré deux fois par jour sous forme de comprimés ou de solution buvable pendant 52 semaines. Le promoteur est Amgen ; 19 participants ont été inclus.",
+ "interet": "L'étude pourrait documenter l'intérêt de l'avacopan pour limiter l'exposition des enfants aux corticoïdes. Ses résultats guideraient l'extension des indications pédiatriques.",
+ "profil": "Des enfants et adolescents de 6 à 17 ans atteints de GPA ou de polyangéite microscopique active avec ANCA, pesant au moins 15 kg.",
+ "inclusion": [
+  "Âge de 6 à moins de 18 ans, poids ≥ 15 kg",
+  "GPA ou polyangéite microscopique (définitions de Chapel Hill)",
+  "ANCA anti-PR3 ou anti-MPO positifs (historique accepté)",
+  "Au moins 1 item majeur du PVAS, ou 3 items non majeurs, ou protéinurie et hématurie",
+  "DFGe ≥ 15 mL/min/1,73 m²"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune multisystémique (EGPA, lupus, vascularite à IgA, Sjögren, anti-MBG, cryoglobulinémie, etc.)",
+  "Dialyse ou plasmaphérèse dans les 14 jours précédant la sélection",
+  "Greffe rénale ou greffe prévue",
+  "Hémorragie alvéolaire nécessitant une ventilation invasive prolongée",
+  "Maladie nécessitant un traitement immunosuppresseur pour une autre indication",
+  "Hypersensibilité à l'avacopan ou aux traitements associés",
+  "Test de grossesse positif"
+ ],
+ "bras": [
+  {
+   "nom": "Avacopan",
+   "traitement": "Avacopan deux fois par jour (comprimés ou solution buvable) pendant 52 semaines, avec rituximab ou cyclophosphamide"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion d'enfants en rémission selon le PVAS à 26 semaines, et en rémission soutenue à 52 semaines"
+}

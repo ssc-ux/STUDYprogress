@@ -1,0 +1,40 @@
+{
+ "h": "d5cb1bce9de8",
+ "date": "2026-11-13",
+ "titre": "Nipocalimab (M281) dans l'anémie hémolytique auto-immune à anticorps chauds",
+ "question": "Le nipocalimab, à deux rythmes d'administration, induit-il une amélioration durable de l'hémoglobine par rapport au placebo chez l'adulte atteint d'AHAI à anticorps chauds ?",
+ "contexte": "L'anémie hémolytique auto-immune à anticorps chauds (AHAI) résulte de la destruction des hématies recouvertes d'IgG. La corticothérapie est le traitement initial, et les rechutes sont fréquentes. Les options suivantes (rituximab, immunosuppresseurs, splénectomie) ont des limites d'efficacité ou de tolérance, et aucun traitement ciblé n'est approuvé.\n\nLe nipocalimab (M281) est un anticorps anti-FcRn qui réduit le taux d'IgG circulantes, y compris des auto-anticorps responsables de l'hémolyse. ENERGY est une étude de phase 2/3 randomisée en double aveugle contre placebo pendant 24 semaines, avec deux schémas de nipocalimab : toutes les 2 semaines ou toutes les 4 semaines en alternance avec un placebo. Elle est suivie d'une extension ouverte de 144 semaines puis de 8 semaines de suivi. Seuls les patients déjà traités sont éligibles. Le promoteur est Janssen ; 118 participants ont été inclus.",
+ "interet": "Un résultat positif ferait du blocage de FcRn une option ciblée dans l'AHAI, sans immunosuppression globale. L'extension longue précisera la tolérance en usage prolongé.",
+ "profil": "Des adultes atteints d'AHAI à anticorps chauds diagnostiquée depuis au moins 3 mois et ayant déjà été traitée.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AHAI à anticorps chauds diagnostiquée depuis ≥ 3 mois",
+  "Traitement en cours ou antérieur de l'AHAI (les patients jamais traités sont exclus)",
+  "Capacité à comprendre et à consentir par écrit, et à suivre les procédures"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Autre anomalie cliniquement pertinente jugée rédhibitoire par l'investigateur",
+  "AHAI à anticorps froids, maladie des agglutinines froides, forme mixte ou hémoglobinurie paroxystique a frigore"
+ ],
+ "bras": [
+  {
+   "nom": "Nipocalimab toutes les 4 semaines",
+   "traitement": "Nipocalimab toutes les 4 semaines, en alternance avec un placebo toutes les 4 semaines, pendant 24 semaines en double aveugle (dose non précisée)"
+  },
+  {
+   "nom": "Nipocalimab toutes les 2 semaines",
+   "traitement": "Nipocalimab toutes les 2 semaines pendant 24 semaines en double aveugle (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo toutes les 2 semaines pendant 24 semaines en double aveugle"
+  },
+  {
+   "nom": "Extension ouverte",
+   "traitement": "Nipocalimab toutes les 2 semaines ou toutes les 4 semaines pendant 144 semaines"
+  }
+ ],
+ "duree": "Environ 176 semaines (24 semaines en double aveugle, 144 semaines d'extension ouverte, 8 semaines de suivi)",
+ "critere": "Pourcentage de participants avec une amélioration durable de l'hémoglobine jusqu'à la semaine 20 de la période en double aveugle"
+}

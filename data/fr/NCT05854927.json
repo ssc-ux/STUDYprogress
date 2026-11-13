@@ -1,0 +1,31 @@
+{
+ "h": "00f7dd53bd83",
+ "date": "2026-11-13",
+ "titre": "Résolution spatiale des séquences IRM T1 3D dans le diagnostic de l'artérite à cellules géantes",
+ "question": "Des séquences IRM T1 3D de plus faible résolution spatiale gardent-elles une sensibilité suffisante pour diagnostiquer l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG, maladie de Horton) est une vascularite des artères de gros et moyen calibre, surtout après 50 ans. Son incidence atteint environ 18/100 000 après 50 ans. Elle expose à des complications ophtalmologiques (cécité), neurologiques, cardiaques et aortiques. Une corticothérapie précoce est la seule façon de les prévenir, ce qui fait de la suspicion d'ACG une urgence.\n\nLa biopsie de l'artère temporale était la référence diagnostique. Les recommandations EULAR 2018 placent l'imagerie en première ligne. L'IRM de la paroi des artères temporales a d'excellentes sensibilité et spécificité, mais obtenues avec des séquences T1 3D « sang noir » avec saturation de la graisse en haute résolution (< 0,7 mm), non disponibles dans tous les centres.\n\nSPARTA est une étude de cohorte monocentrique de la Fondation Ophtalmologique Adolphe de Rothschild, qui inclut 133 patients adressés pour une IRM avec injection pour suspicion d'ACG. Elle compare plusieurs séquences T1 3D de résolutions différentes. Elle vise à évaluer si des séquences moins résolues permettraient de généraliser l'IRM dans les centres non experts.",
+ "interet": "Si des séquences de plus faible résolution sont suffisamment sensibles, l'IRM pariétale pourrait être accessible dans davantage de centres. Cela faciliterait un diagnostic rapide sans biopsie dans les centres moins équipés.",
+ "profil": "Des adultes adressés pour une IRM avec injection devant une suspicion d'artérite à cellules géantes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Adressé pour une IRM injectée pour suspicion d'ACG",
+  "Suspicion d'ACG : 3 critères majeurs, ou 2 majeurs et 1 mineur (âge > 50 ans, céphalée récente, claudication de la mâchoire, signes visuels, VS > 50 ou CRP > 8 mg/L ; sensibilité du scalp, anomalies de l'artère temporale, douleur faciale, signes généraux)",
+  "Consentement et affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Cancer diagnostiqué depuis moins d'un an",
+  "Infection active",
+  "Maladie auto-immune (dont Wegener, Takayasu, vascularite à ANCA, polyarthrite rhumatoïde, lupus, périartérite noueuse)",
+  "Corticothérapie systémique > 10 jours à forte dose (> 0,5 mg/kg/j de prednisone)",
+  "Contre-indication à l'IRM, mesure de protection juridique",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients suspects d'ACG",
+   "traitement": "Aucune intervention thérapeutique ; réalisation de plusieurs séquences IRM T1 3D de résolutions différentes"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Sensibilité de la séquence IRM 3D pondérée en densité de protons pour détecter une inflammation des artères temporales, ophtalmiques ou autres branches de la carotide interne, à 3 mois"
+}

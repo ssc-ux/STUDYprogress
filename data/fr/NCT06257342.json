@@ -1,0 +1,27 @@
+{
+ "h": "1b775e9c95d8",
+ "date": "2026-11-13",
+ "titre": "Capacités physiques des adolescents atteints de fièvre méditerranéenne familiale",
+ "question": "Quelles sont les capacités physiques, estimées par la VO2max, des adolescents atteints de fièvre méditerranéenne familiale ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est la plus fréquente des maladies auto-inflammatoires héréditaires, liée à des variants du gène MEFV. Elle se manifeste par des accès fébriles récurrents avec douleurs abdominales, thoraciques ou articulaires. La colchicine en prévient les accès et les complications amyloïdes, avec un pronostic aujourd'hui très favorable pour la plupart des patients.\n\nLes données sur la condition physique des adolescents sont rares. Les douleurs articulaires, la fatigue et la crainte d'un accès peuvent limiter l'activité physique et la participation sportive à un âge clé. Une évaluation objective de la capacité d'effort aiderait à conseiller les patients sur le sport et l'activité physique.\n\nCette étude de cohorte monocentrique, menée par le service de pédiatrie du Centre hospitalier de Versailles, inclut 10 adolescents de 12 à 18 ans atteints de FMF (critères de Tel-Hashomer). Ils ont eu une évaluation sportive proposée lors de leur programme de transition. La VO2max est estimée à partir d'un test de marche de 6 minutes.",
+ "interet": "L'étude décrit la capacité d'effort des adolescents avec FMF, pour guider les conseils sur l'activité physique. Son faible effectif et l'absence de groupe témoin limitent la portée des conclusions.",
+ "profil": "Des adolescents de 12 à 18 ans atteints de fièvre méditerranéenne familiale, suivis en pédiatrie à Versailles.",
+ "inclusion": [
+  "Diagnostic clinique de FMF selon les critères de Tel-Hashomer, avec évaluation sportive proposée dans le programme de transition",
+  "Âge > 12 ans (12 à 18 ans)",
+  "Suivi ou ancien suivi dans le service de pédiatrie du CH de Versailles",
+  "Absence d'opposition du patient et de ses parents ou représentant légal"
+ ],
+ "exclusion": [
+  "Refus exprimé du patient ou de son représentant légal de participer",
+  "Refus de l'utilisation des données génétiques à des fins de recherche"
+ ],
+ "bras": [
+  {
+   "nom": "Adolescents atteints de FMF",
+   "traitement": "Aucune intervention thérapeutique ; test de marche de 6 minutes avec estimation de la VO2max"
+  }
+ ],
+ "duree": "Une évaluation unique (test de 6 minutes)",
+ "critere": "Consommation maximale d'oxygène (VO2max) estimée à partir du test de marche de 6 minutes"
+}

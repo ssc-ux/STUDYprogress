@@ -1,0 +1,30 @@
+{
+ "h": "56ef6746cc50",
+ "date": "2026-11-13",
+ "titre": "Acoramidis à long terme dans la cardiomyopathie à TTR récemment diagnostiquée (extension ACT-EARLY)",
+ "question": "L'acoramidis est-il sûr et bien toléré à long terme chez des patients avec une cardiomyopathie amyloïde à transthyrétine (ATTR-CM) récemment diagnostiquée ?",
+ "contexte": "L'amylose à transthyrétine (ATTR) résulte du dépôt de fibrilles de transthyrétine (TTR) mal repliée, notamment dans le cœur (cardiomyopathie ATTR-CM). Elle est de plus en plus diagnostiquée chez les sujets âgés (forme sauvage) ou porteurs d'un variant héréditaire. Elle évolue vers l'insuffisance cardiaque à fraction d'éjection préservée avec un mauvais pronostic.\n\nL'acoramidis (AG10) est un stabilisateur de la TTR à haute affinité, administré par voie orale. L'étude ATTRibute-CM a montré un bénéfice sur la mortalité et les hospitalisations cardiovasculaires dans l'ATTR-CM établie. L'étude ACT-EARLY (AG10-501) cible des porteurs de variants pathogènes de la TTR pour déterminer si le traitement précoce prévient la survenue de la maladie. Cette extension ouverte (AG10-504), promue par BridgeBio/Eidos, inclut jusqu'à 250 participants de ACT-EARLY ayant développé une ATTR-CM, avec ou sans polyneuropathie. Tous reçoivent l'acoramidis.",
+ "interet": "L'étude fournira des données de sécurité à long terme de l'acoramidis chez des patients diagnostiqués précocement. Elle renseignera aussi sur l'évolution de ces patients, mais sans groupe comparateur.",
+ "profil": "Des adultes ayant développé une ATTR-CM (avec ou sans polyneuropathie) au cours de l'étude ACT-EARLY.",
+ "inclusion": [
+  "Étude AG10-501 (ACT-EARLY) terminée depuis moins de 60 jours",
+  "ATTR-CM diagnostiquée selon la définition du protocole AG10-501"
+ ],
+ "exclusion": [
+  "ATTR-PN seule dans l'étude AG10-501, ou arrêt définitif du traitement avant le diagnostic d'ATTR-CM",
+  "Antécédent d'amylose AL ou d'une autre amylose non TTR",
+  "Gammapathie monoclonale (MGUS) sans exclusion d'une amylose AL",
+  "Insuffisance rénale chronique de stade IV ou V",
+  "Cancer actif (sauf cancers cutanés ou carcinome in situ du col traités)",
+  "Antécédent de greffe d'organe (sauf cornée) ou chirurgie majeure prévue dans les 6 mois",
+  "Hypersensibilité à l'acoramidis ; autre traitement orienté contre l'ATTR"
+ ],
+ "bras": [
+  {
+   "nom": "Acoramidis",
+   "traitement": "Acoramidis 712 mg (équivalent à 800 mg d'acoramidis HCl) par voie orale, deux fois par jour"
+  }
+ ],
+ "duree": "Jusqu'à 5 ans",
+ "critere": "Sécurité et tolérance à long terme de l'acoramidis, sur une participation allant jusqu'à 5 ans."
+}

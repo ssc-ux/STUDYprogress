@@ -1,0 +1,40 @@
+{
+ "h": "e77906b01757",
+ "date": "2026-11-13",
+ "titre": "Registre de dispositifs neurovasculaires WallabyPhenox en pratique réelle",
+ "question": "Quelles sont la sécurité et la performance des dispositifs neurovasculaires WallabyPhenox en pratique courante ?",
+ "contexte": "Les anévrismes intracrâniens, les dissections, les perforations vasculaires, les fistules artério-veineuses et les sténoses athéroscléreuses intracrâniennes sont de plus en plus traités par voie endovasculaire. On utilise des dérivateurs de flux (flow diverters), des stents, des implants de bifurcation et des coils.\n\nCes dispositifs disposent d'un marquage CE ou d'une autorisation, mais leurs données de sécurité et de performance à long terme en pratique réelle restent limitées, surtout pour certaines indications ou anatomies complexes. Les registres de surveillance post-commercialisation comblent cette lacune.\n\nTRUST est un registre observationnel prospectif de surveillance post-commercialisation, promu par Phenox GmbH. Il inclut des patients traités par au moins un dispositif de la gamme WallabyPhenox (dérivateurs de flux, stents, implants de bifurcation et leurs variantes à revêtement hydrophile HPC, coils), sans modifier la prise en charge habituelle. Les données sont recueillies de façon proactive pour évaluer sécurité, performance et facilité d'usage.",
+ "interet": "Le registre fournira des données de pratique réelle sur ces dispositifs, utiles pour le choix du matériel en neuroradiologie interventionnelle. Il peut aussi aider à repérer des signaux de sécurité rares.",
+ "profil": "Des patients traités par voie endovasculaire avec au moins un dispositif de la gamme WallabyPhenox pour une pathologie neurovasculaire.",
+ "inclusion": [
+  "Traité (ou prévu de l'être) par au moins un dispositif cible du registre, avec au moins une tentative d'introduction dans la vascularisation",
+  "Non-opposition à la collecte des données ou consentement du patient ou de son représentant légal selon la législation locale"
+ ],
+ "exclusion": [
+  "Participation à une étude interventionnelle modifiant la prise en charge standard dans les indications concernées"
+ ],
+ "bras": [
+  {
+   "nom": "Anévrisme intracrânien",
+   "traitement": "Dérivateur de flux ou stent neurovasculaire WallabyPhenox, selon la pratique courante"
+  },
+  {
+   "nom": "Dissection vasculaire",
+   "traitement": "Dérivateur de flux ou stent neurovasculaire"
+  },
+  {
+   "nom": "Perforation vasculaire",
+   "traitement": "Dérivateur de flux neurovasculaire"
+  },
+  {
+   "nom": "Anomalie neurovasculaire (dont fistule artério-veineuse)",
+   "traitement": "Dérivateur de flux ou coils Avenir"
+  },
+  {
+   "nom": "Sténose athéroscléreuse intracrânienne",
+   "traitement": "Stent neurovasculaire"
+  }
+ ],
+ "duree": "365 jours pour le critère principal ; suivi à long terme",
+ "critere": "Morbi-mortalité liée au dispositif ou à la procédure à 365 jours."
+}

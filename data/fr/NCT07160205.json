@@ -1,0 +1,32 @@
+{
+ "h": "ef68435b8342",
+ "date": "2026-11-13",
+ "titre": "Cellules souches de la membrane du cordon ombilical dans la dermatomyosite et la polymyosite",
+ "question": "Les cellules souches dérivées de la membrane du cordon ombilical (ULSC) sont-elles sûres et efficaces, et permettent-elles de réduire les corticoïdes dans les myosites ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, polymyosite) reposent sur les corticoïdes et les immunosuppresseurs (méthotrexate, azathioprine, mycophénolate), avec les immunoglobulines intraveineuses en recours. Une partie des patients reste active ou dépendante des corticoïdes, avec leurs effets indésirables cumulés.\n\nLes cellules stromales mésenchymateuses ont des propriétés immunomodulatrices. Le produit étudié ici, ULSC, est dérivé de la membrane du cordon ombilical et administré par voie intraveineuse. Aucun résultat préliminaire n'est précisé au registre.\n\nCet essai de phase 2/3, promu par Restem, inclut 40 adultes répondant aux critères de classification EULAR/ACR 2017 et ayant une maladie active malgré un traitement stable. Il est randomisé en crossover : trois perfusions de 150 millions de cellules (jour 0, mois 3, mois 6) ou de placebo salin, puis permutation des groupes à partir du mois 7. L'étude évalue aussi la possibilité de réduire la prednisone.",
+ "interet": "Si l'effet est confirmé, ce traitement cellulaire pourrait offrir une option d'épargne cortisonique dans les myosites réfractaires ou corticodépendantes. L'effectif réduit impose la prudence quant aux conclusions.",
+ "profil": "Des adultes atteints de dermatomyosite ou polymyosite active, sous traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Myosite selon les critères EULAR/ACR 2017 (score d'au moins 5,5, ou 6,7 avec biopsie)",
+  "Maladie active : CK ou aldolase supérieures à 1,5 fois la normale, ou IRM, EMG ou biopsie actifs",
+  "Faiblesse (MMT-8 bilatéral inférieur ou égal à 142/150) ou atteinte cutanée (CDASI d'au moins 7)",
+  "Immunosuppresseur stable depuis 12 semaines ou prednisone d'au moins 5 mg (maximum 25 mg/jour), stable depuis 4 semaines",
+  "Anticorps associés aux myosites ou exclusion des diagnostics différentiels"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1 : ULSC puis placebo",
+   "traitement": "ULSC 150 millions de cellules par voie IV au jour 0 et aux mois 3 et 6, puis placebo aux mois 7, 10 et 13"
+  },
+  {
+   "nom": "Cohorte 2 : placebo puis ULSC",
+   "traitement": "Placebo salin par voie IV au jour 0 et aux mois 3 et 6, puis ULSC aux mois 7, 10 et 13"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois après la dernière perfusion",
+ "critere": "Tolérance (événements indésirables et graves) et score d'amélioration total (TIS) ACR/EULAR 2016 entre l'inclusion et 7 mois."
+}

@@ -1,0 +1,24 @@
+{
+ "h": "3ad4ec773e21",
+ "date": "2026-11-13",
+ "titre": "Programme de surveillance des grossesses exposées au patisiran dans l'amylose hATTR",
+ "question": "Quelle est l'issue des grossesses de femmes exposées au patisiran-LNP ?",
+ "contexte": "L'amylose héréditaire à transthyrétine (hATTR) avec polyneuropathie peut toucher des femmes en âge de procréer. Le patisiran (Onpattro) est un petit ARN interférent, formulé en nanoparticules lipidiques (LNP), qui diminue la production hépatique de TTR.\n\nLes essais cliniques ont exclu les femmes enceintes et les données sur l'exposition pendant la grossesse sont très limitées. Les risques pour le fœtus, le nouveau-né et le nourrisson ne sont pas établis, en particulier sur le plan malformatif.\n\nCe programme de surveillance observationnel, promu par Alnylam Pharmaceuticals, recueille de façon prospective les issues de grossesse, les complications et les évolutions fœtales, néonatales et du nourrisson chez les femmes exposées au patisiran-LNP. Les données sont recueillies jusqu'à un an après la naissance.",
+ "interet": "Ces données renseignent la conduite à tenir chez les femmes sous patisiran qui souhaitent une grossesse ou qui sont enceintes, situation sur laquelle les données sont actuellement très rares.",
+ "profil": "Des femmes enceintes exposées au patisiran-LNP pendant la grossesse ou dans les 12 semaines précédant les dernières règles.",
+ "inclusion": [
+  "Exposition documentée au patisiran-LNP à tout moment depuis 12 semaines avant les dernières règles ou pendant la grossesse",
+  "Allemagne uniquement : traitement conforme au résumé des caractéristiques du produit d'un traitement approuvé de l'amylose ATTR"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Patisiran",
+   "traitement": "Patisiran-LNP (Onpattro) commercial, reçu dans les 12 semaines avant les dernières règles ou pendant la grossesse ; aucune intervention imposée"
+  }
+ ],
+ "duree": "De 12 semaines avant la dernière dose jusqu'à un an après la naissance (jusqu'à 21 mois)",
+ "critere": "Prévalence des malformations congénitales majeures, de 12 semaines avant la dernière dose de patisiran jusqu'à un an après la naissance."
+}

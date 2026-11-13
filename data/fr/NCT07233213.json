@@ -1,0 +1,14 @@
+{
+ "h": "282a5748bff6",
+ "date": "2026-11-13",
+ "titre": "Immunoglobulines intraveineuses à 5 % dans le PTI chronique de l'adulte",
+ "question": "Les immunoglobulines intraveineuses à 5 % (0,4 g/kg/j pendant 5 jours) font-elles remonter le taux de plaquettes dans le PTI chronique de l'adulte, et sont-elles bien tolérées ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. On parle de forme chronique au-delà de 12 mois d'évolution. Les immunoglobulines polyvalentes intraveineuses (IgIV) permettent une remontée rapide des plaquettes, utile en cas de saignement ou avant un geste invasif. Elles sont recommandées en première ligne et en traitement d'urgence.\n\nLeur effet est transitoire et le besoin de produits fiables et accessibles persiste. De nouvelles préparations d'IgIV font l'objet d'essais pour obtenir ou étendre leur autorisation dans l'indication.\n\nCet essai de phase 3 ouvert et monobras, promu par Grand Shuyang Life Sciences (Chengdu), évalue une préparation d'IgIV à 5 %. Elle est administrée à 0,4 g/kg/j pendant 5 jours à 36 adultes de 18 à 65 ans en Turquie. Chaque patient est suivi environ 104 jours, avec 9 visites.",
+ "interet": "Si l'efficacité et la tolérance sont confirmées, cette préparation pourrait élargir l'offre d'IgIV pour le PTI, indication où ces produits restent un recours clé en situation d'urgence.",
+ "profil": "Des adultes de 18 à 65 ans atteints de PTI chronique (évolution > 12 mois) avec moins de 30 G/L de plaquettes.",
+ "inclusion": ["Âge de 18 à 65 ans", "PTI chronique (évolution > 12 mois)", "Pas de corticoïdes depuis 2 semaines, ou dose d'entretien stable, sans augmentation prévue dans les 4 semaines", "Plaquettes < 30 G/L", "Consentement signé et respect du protocole"],
+ "exclusion": ["Allergie connue aux immunoglobulines, aux protéines plasmatiques ou aux excipients", "IMC ≥ 30 kg/m²", "Thrombopénie secondaire", "Hémoglobine < 90 g/L ou anémie hémolytique auto-immune", "Neutropénie chronique ou récurrente (< 1,5 G/L)", "ALAT/ASAT > 3 N ou bilirubine ≥ 1,5 N", "Créatinine ≥ 1,5 N ou clairance < 60 mL/min, diabète déséquilibré"],
+ "bras": [{"nom": "IgIV à 5 %", "traitement": "Immunoglobuline humaine (pH 4) à 5 %, 0,4 g/kg/j en perfusion intraveineuse pendant 5 jours consécutifs"}],
+ "duree": "Environ 104 jours",
+ "critere": "Amélioration de la réponse plaquettaire dans les 7 jours suivant la première perfusion"
+}

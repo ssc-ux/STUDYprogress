@@ -1,0 +1,49 @@
+{
+ "h": "8df55a7cc80c",
+ "date": "2026-11-13",
+ "titre": "TOP-N53 en application locale sur les ulcères digitaux de la sclérodermie systémique",
+ "question": "Le TOP-N53 appliqué sur les ulcères digitaux de la sclérodermie est-il sûr et bien toléré à doses croissantes ?",
+ "contexte": "Les ulcères digitaux sont une complication fréquente et invalidante de la sclérodermie systémique (ScS). Ils résultent d'une vasculopathie, d'une ischémie et de lésions cutanées, et sont douloureux, lents à cicatriser et exposés à la surinfection ou à la gangrène. Leur prévention repose sur les inhibiteurs calciques, les antagonistes de l'endothéline (bosentan) et les inhibiteurs de la PDE5 comme le sildénafil.\n\nLe traitement local des ulcères en cours est peu étayé. Le TOP-N53 est une solution à appliquer directement sur l'ulcère, développée par Topadur Pharma. Le registre ne précise pas son mécanisme.\n\nCette étude de phase 2 évalue la sécurité et la tolérance locale à doses croissantes (0, 2, 4 puis 8 µg, avec une exposition de 3 heures, puis 8 µg pendant 24 heures). Les doses supérieures sont données seulement après validation de la dose inférieure. Elle inclut 15 adultes dans 6 centres de 2 pays. Un traitement par sildénafil 20 mg est autorisé en parallèle. Elle explore aussi la douleur, le prurit, la rougeur et le flux sanguin local.",
+ "interet": "Cette étude de tolérance précoce conditionne l'accès à des essais d'efficacité d'un traitement local des ulcères digitaux. Elle ne permet pas de juger de l'efficacité sur la cicatrisation.",
+ "profil": "Des adultes atteints de sclérodermie systémique limitée ou diffuse, avec au moins un ulcère digital actif.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ScS limitée ou diffuse (critères ACR/EULAR 2013)",
+  "Au moins un ulcère digital actif ≥ 2 mm atteignant le derme, sur la pulpe ou la face palmaire distale",
+  "Soit sildénafil 20 mg × 3/j stable depuis 2 semaines, soit aucun inhibiteur de PDE depuis 4 semaines",
+  "Antagonistes de l'endothéline, inhibiteurs calciques ou antiagrégants à dose stable depuis 2 semaines",
+  "Examen clinique sans anomalie hors ScS, consentement écrit, contraception efficace"
+ ],
+ "exclusion": [
+  "Ulcère infecté, ostéite ou gangrène",
+  "Score de Rodnan modifié > 35",
+  "Douleur intraitable de l'ulcère (EVA ≥ 6)",
+  "Calcinose actuelle ou passée sur l'ulcère cible",
+  "Atteinte d'organe instable de la ScS (crise rénale, PID, HTAP, atteinte digestive ou cardiaque mal contrôlées)",
+  "Cancer actif ou datant de moins de 5 ans (sauf exceptions)",
+  "Hépatopathie chronique (Child-Pugh A à C)"
+ ],
+ "bras": [
+  {
+   "nom": "Étape 1",
+   "traitement": "Véhicule sans principe actif (0 µg), exposition de 3 heures"
+  },
+  {
+   "nom": "Étape 2",
+   "traitement": "TOP-N53 2 µg, exposition de 3 heures"
+  },
+  {
+   "nom": "Étape 3",
+   "traitement": "TOP-N53 4 µg, exposition de 3 heures"
+  },
+  {
+   "nom": "Étape 4",
+   "traitement": "TOP-N53 8 µg, exposition de 3 heures"
+  },
+  {
+   "nom": "Étape 5",
+   "traitement": "TOP-N53 8 µg, exposition de 24 heures"
+  }
+ ],
+ "duree": "Jusqu'à 31 jours, avec 8 visites au maximum",
+ "critere": "Événements indésirables locaux survenus sous traitement et douleur de l'ulcère rapportée par le patient, jusqu'à 37 jours"
+}

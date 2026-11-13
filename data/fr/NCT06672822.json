@@ -1,0 +1,28 @@
+{
+ "h": "ad4c52dc880a",
+ "date": "2026-11-13",
+ "titre": "Injection intralésionnelle de thiosulfate de sodium dans la calcinose",
+ "question": "Le thiosulfate de sodium injecté dans les lésions de calcinose réduit-il leur taille à 12 semaines chez des patients atteints de sclérodermie, de connectivite mixte ou de dermatomyosite ?",
+ "contexte": "La calcinose correspond à des dépôts de calcium dans la peau et les tissus sous-cutanés. Elle touche environ 30 % des adultes atteints de dermatomyosite, 18 à 49 % des patients sclérodermiques et 25 à 40 % de ceux ayant une forme limitée. Elle est source de douleur, d'ulcérations, d'infections et de handicap fonctionnel.\n\nAucun traitement standard n'est recommandé. De nombreux traitements ont été testés, tous avec un bénéfice limité et sans preuve solide d'efficacité, car les données reposent sur des cas isolés ou de petites séries. Le thiosulfate de sodium (STS), chélateur du calcium et vasodilatateur, a été rapporté comme efficace dans certaines séries, surtout par voie intraveineuse ou topique.\n\nCette étude de phase 2, ouverte, à bras unique, évalue l'injection intralésionnelle sous-cutanée de STS (250 mg/mL, 1 à 5 mL), guidée par échographie. Elle inclut 20 patients atteints de sclérodermie, de connectivite mixte ou de myopathie inflammatoire avec calcinose radiologique. La taille des lésions est mesurée par échographie et la charge symptomatique par des questionnaires rapportés par les patients. Le promoteur est la Dre Robyn Domsic, avec le soutien du NIAMS.",
+ "interet": "L'étude pourrait apporter des données de sécurité et d'efficacité sur une option locale pour une complication sans traitement validé. Le caractère ouvert et le faible effectif limiteront la portée des résultats.",
+ "profil": "Des adultes atteints de sclérodermie systémique, de connectivite mixte ou de myopathie inflammatoire avec calcinose symptomatique.",
+ "inclusion": [
+  "Diagnostic clinique de sclérodermie systémique, connectivite mixte ou myopathie inflammatoire",
+  "Âge > 18 ans",
+  "Capacité de donner son consentement",
+  "Calcinose démontrée par radiographie ou échographie",
+  "Besoin de soulagement symptomatique"
+ ],
+ "exclusion": [
+  "Femmes enceintes",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Thiosulfate de sodium",
+   "traitement": "Injections intralésionnelles de 1 à 5 mL de thiosulfate de sodium à 250 mg/mL, guidées par échographie"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation de la taille de la lésion de calcinose entre l'inclusion et 12 semaines."
+}

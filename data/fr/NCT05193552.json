@@ -1,0 +1,34 @@
+{
+ "h": "862404ec8039",
+ "date": "2026-11-13",
+ "titre": "Spirométrie pour ajuster les immunoglobulines sous-cutanées dans le DICV avec atteinte des voies aériennes",
+ "question": "Augmenter la dose d'immunoglobulines sous-cutanées guidée par la spirométrie améliore-t-il la fonction respiratoire des patients atteints de DICV avec obstruction bronchique légère à modérée ?",
+ "contexte": "Le déficit immunitaire commun variable (DICV) est le déficit immunitaire primitif symptomatique le plus fréquent de l'adulte. Il se manifeste par des infections respiratoires récidivantes et peut entraîner des bronchectasies et une obstruction des voies aériennes. La substitution en immunoglobulines (IgG) réduit les infections pulmonaires et améliore la fonction respiratoire.\n\nLa dose optimale d'IgG est mal définie, et aucune étude publiée ne guide l'usage de la spirométrie pour ajuster le traitement. Cet essai de phase 4, promu par l'université d'Alabama à Birmingham, recrute 22 patients atteints de DICV sous substitution stable (0,40 à 0,60 g/kg par 4 semaines) avec un DEM25-75 entre 50 et 80 % de la théorique. Les patients sous Hizentra (IgG sous-cutanées) sont recrutés en priorité. Onze patients conservent leur dose pendant 6 mois, et onze reçoivent une dose augmentée d'environ 0,05 g/kg par 4 semaines. Les paramètres respiratoires sont mesurés à l'inclusion, à 3 et à 6 mois.",
+ "interet": "Si l'augmentation de dose guidée par la spirométrie améliore la fonction respiratoire, elle pourrait fournir un outil simple pour personnaliser la substitution en IgG dans le DICV.",
+ "profil": "Des adultes de 21 ans et plus atteints de DICV, sous substitution en IgG stable, avec obstruction bronchique légère à modérée.",
+ "inclusion": [
+  "DICV répondant aux critères diagnostiques",
+  "Substitution en IgG stable depuis au moins 3 mois",
+  "DEM25-75 entre 50 et 80 % de la valeur théorique",
+  "Patients déjà sous Hizentra préférés"
+ ],
+ "exclusion": [
+  "Âge < 21 ans ou incapacité à réaliser la spirométrie",
+  "Fumeurs actifs ou ≥ 20 paquets-années (analyse annexe)",
+  "Déficit spécifique en anticorps ou agammaglobulinémie liée à l'X (analyse annexe)",
+  "Insuffisance cardiaque",
+  "Tuberculose, bronchiolite ou lymphangioléiomyomatose"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe contrôle",
+   "traitement": "11 patients conservent leur dose actuelle d'Hizentra pendant 6 mois"
+  },
+  {
+   "nom": "Groupe traitement",
+   "traitement": "11 patients, dose d'immunoglobulines augmentée d'environ 0,05 g/kg par 4 semaines, avec Hizentra"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Paramètres spirométriques (VEMS, CVF, DEM25-75, VEMS/CVF) et oscillations forcées, à l'inclusion, à 3 et à 6 mois."
+}

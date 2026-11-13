@@ -1,0 +1,34 @@
+{
+ "h": "9073b8374534",
+ "date": "2026-11-13",
+ "titre": "Abatacept dans l'artérite à cellules géantes",
+ "question": "L'abatacept sous-cutané augmente-t-il la proportion de patients en rémission à 12 mois dans l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (maladie de Horton, ACG) est la vascularite la plus fréquente de l'adulte de plus de 50 ans. Elle expose à la cécité et aux atteintes aortiques. Le traitement repose sur une corticothérapie prolongée, responsable de nombreux effets indésirables chez des patients âgés. Le tocilizumab est la seule biothérapie approuvée en épargne cortisonique, mais il n'est pas toujours efficace ni toléré, et les rechutes restent fréquentes.\n\nL'abatacept, protéine de fusion CTLA-4-Ig qui bloque la costimulation des lymphocytes T via CD28, cible un mécanisme central de la maladie. Un essai de phase 2 contre placebo (Langford et al.) a montré une durée de rémission plus longue sous abatacept, mais sur un effectif modeste. Cette étude de phase 3 de l'Université de Pennsylvanie, en double insu, fait suite à ce signal.\n\nElle inclut des patients de 50 ans ou plus ayant une ACG récente ou en rechute dans les 8 semaines précédant le dépistage, randomisés 1:1 pour recevoir abatacept 125 mg par semaine ou placebo. Les patients en rémission restent sous leur traitement en aveugle pendant 12 mois.",
+ "interet": "Il pourrait confirmer l'abatacept comme option dans l'ACG, notamment pour les patients ne pouvant recevoir le tocilizumab. Il comporte une possibilité de traitement ouvert en cas d'échec ou de rechute.",
+ "profil": "Des adultes de 50 ans ou plus ayant une artérite à cellules géantes récente ou en rechute.",
+ "inclusion": [
+  "Âge de 50 ans ou plus, ACG récente ou en rechute (critères ACR modifiés, avec biopsie, échographie ou imagerie)",
+  "Maladie active dans les 8 semaines précédant le dépistage",
+  "Capacité de respecter le traitement et le suivi",
+  "Contraception efficace pour les personnes en âge de procréer",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Infection aiguë récente (hospitalisation ou antibiotiques parentéraux dans les 60 jours, traitement oral dans les 30 jours)",
+  "Infections bactériennes chroniques ou récidivantes",
+  "Zona récidivant ou disséminé",
+  "Autres critères d'exclusion non détaillés dans ce résumé (non précisé)"
+ ],
+ "bras": [
+  {
+   "nom": "Abatacept en aveugle",
+   "traitement": "Abatacept 125 mg par voie sous-cutanée chaque semaine pendant au moins 12 mois"
+  },
+  {
+   "nom": "Placebo en aveugle",
+   "traitement": "Placebo par voie sous-cutanée chaque semaine pendant au moins 12 mois"
+  }
+ ],
+ "duree": "12 mois (jusqu'à 24 mois avec abatacept en ouvert)",
+ "critere": "Proportion de participants en rémission à 12 mois dans le groupe abatacept par rapport au placebo."
+}

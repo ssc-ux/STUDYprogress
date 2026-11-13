@@ -1,0 +1,38 @@
+{
+ "h": "07b867ae9847",
+ "date": "2026-11-13",
+ "titre": "Anifrolumab sous-cutané dans la sclérodermie systémique évolutive récente",
+ "question": "L'anifrolumab améliore-t-il, à 52 semaines, un score composite de réponse clinique par rapport au placebo dans la sclérodermie systémique récente ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare, avec fibrose cutanée et viscérale. Les traitements disponibles (immunosuppresseurs, tocilizumab, nintédanib dans la PID) n'agissent que partiellement, surtout sur le versant cutané et global.\n\nL'anifrolumab est un anticorps anti-récepteur de l'interféron de type I, approuvé dans le lupus. Une signature interféron est retrouvée dans la ScS, en particulier dans les formes précoces, ce qui justifie cette cible. DAISY est une étude de phase 3 randomisée en double aveugle contre placebo, avec injection sous-cutanée hebdomadaire pendant 52 semaines, suivie d'une phase ouverte de 52 semaines. Elle inclut des ScS cutanées limitées ou diffuses évoluant depuis moins de 6 ans, avec un traitement de fond stable autorisé (hydroxychloroquine, MMF, méthotrexate, azathioprine, tacrolimus, corticoïdes ≤ 10 mg/j). La randomisation est stratifiée sur la PID, l'usage du MMF et l'ancienneté. Le promoteur est AstraZeneca ; 314 participants sont inclus.",
+ "interet": "Une réponse positive ferait de l'anifrolumab la première biothérapie anti-interféron dans la ScS, y compris pour des formes sans atteinte pulmonaire. Le critère composite CRISS reflète l'effet global sur la maladie.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique évoluant depuis moins de 6 ans après le premier signe hors Raynaud.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "ScS selon les critères ACR/EULAR 2013, forme limitée ou diffuse",
+  "Durée d'évolution < 6 ans depuis le premier signe hors Raynaud",
+  "HAQ-DI ≥ 0,25 ou évaluation globale du patient ≥ 3",
+  "mRSS > 10 si maladie précoce ou rapidement évolutive, ou mRSS ≥ 15 si évolution ≥ 18 mois et maladie active",
+  "Traitement de fond stable autorisé"
+ ],
+ "exclusion": [
+  "Anticorps anticentromère positifs",
+  "Atteinte cardiopulmonaire sévère",
+  "Crise rénale sclérodermique dans les 12 mois",
+  "Syndromes de chevauchement, lupus avec anti-ADN natif, PR à anti-CCP, ou pseudo-sclérodermies",
+  "Zona sévère, infections récurrentes ou actives",
+  "Greffe de cellules souches ou d'organe",
+  "Cancer connu ou antérieur dans les 5 ans (sauf exceptions) ; chirurgie majeure dans les 8 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab",
+   "traitement": "Anifrolumab sous-cutané une fois par semaine pendant 52 semaines (dose non précisée), puis phase ouverte"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané hebdomadaire pendant 52 semaines, puis phase ouverte"
+  }
+ ],
+ "duree": "Environ 2 ans et demi (sélection de 6 semaines, 52 semaines en aveugle, 52 semaines en ouvert, 12 semaines de suivi)",
+ "critere": "Proportion de répondeurs selon l'indice composite de réponse CRISS-25 à la semaine 52"
+}

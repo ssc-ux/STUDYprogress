@@ -1,0 +1,37 @@
+{
+ "h": "20e5b5c388a7",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline IV Virchow (V-Immune) versus Immuglo dans les déficits immunitaires primitifs",
+ "question": "L'immunoglobuline IV V-Immune est-elle efficace, sûre et comparable à Immuglo pour prévenir les infections bactériennes graves dans les déficits immunitaires primitifs ?",
+ "contexte": "Les déficits immunitaires primitifs à prédominance humorale, dont le déficit immunitaire commun variable et l'agammaglobulinémie liée à l'X, sont traités par substitution en immunoglobulines intraveineuses (IgIV) toutes les 3 à 4 semaines. Cette substitution réduit les infections bactériennes graves, mais l'accès aux IgIV reste limité dans de nombreux pays.\n\nCet essai de phase 3 randomisé, promu par le groupe Virchow, compare une nouvelle IgIV (V-Immune) à une IgIV de référence (Immuglo), à 200-800 mg/kg toutes les 3 ou 4 semaines pendant 48 semaines. Il inclut 44 patients de 2 à 65 ans, naïfs de traitement ou déjà sous IgIV. Chaque patient participe jusqu'à 55 semaines. L'étude doit documenter l'efficacité (infections bactériennes graves), la sécurité et la pharmacocinétique du produit.",
+ "interet": "L'étude pourrait permettre l'enregistrement d'une IgIV supplémentaire et améliorer l'accès au traitement de substitution.",
+ "profil": "Des patients de 2 à 65 ans atteints de déficit immunitaire primitif à prédominance humorale (DICV ou agammaglobulinémie liée à l'X).",
+ "inclusion": [
+  "Âge de 2 à 65 ans",
+  "Déficit immunitaire primitif confirmé : DICV avec hypogammaglobulinémie (IgG < 500 mg/dL) ou agammaglobulinémie liée à l'X",
+  "Naïf d'IgIV, ou IgIV toutes les 3 ou 4 semaines depuis ≥ 6 mois (200-800 mg/kg) avec 2 taux résiduels d'IgG documentés",
+  "Numération et bilan hépatique acceptables (leucocytes ≥ 3,5 G/L, neutrophiles ≥ 1,5 G/L, plaquettes ≥ 100 G/L, transaminases et PAL ≤ 2 x la normale, créatinine ≤ 150 µmol/L)",
+  "Consentement éclairé ; contraception chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou grossesse planifiée dans les 18 mois",
+  "Transfusion sanguine pendant l'étude",
+  "Déficit immunitaire combiné sévère T ou déficit immunitaire secondaire",
+  "Antécédent de cancer, de maladie auto-immune, de migraine récente ou de lymphome",
+  "Marqueurs positifs de virus à transmission sanguine ; déficit en IgA avec anticorps",
+  "Insuffisance rénale aiguë ou sévère, thrombose veineuse profonde, insuffisance cardiaque NYHA III/IV ou angor instable",
+  "Corticoïdes > 0,15 mg/kg/j de prednisone ou autre immunosuppresseur ; participation à une autre étude dans les 3 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Bras test",
+   "traitement": "V-Immune, IgIV 200-800 mg/kg en perfusion unique toutes les 3 ou 4 semaines, de la semaine 0 à 48"
+  },
+  {
+   "nom": "Bras référence",
+   "traitement": "Immuglo, IgIV 200-800 mg/kg en perfusion unique toutes les 3 ou 4 semaines, de la semaine 0 à 48"
+  }
+ ],
+ "duree": "Jusqu'à 55 semaines (3 semaines de sélection, 48 de traitement, 4 de suivi)",
+ "critere": "Incidence des infections bactériennes graves aiguës à 52 semaines."
+}

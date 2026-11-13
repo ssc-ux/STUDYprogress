@@ -1,0 +1,14 @@
+{
+ "h": "5e56120e3045",
+ "date": "2026-11-13",
+ "titre": "Romiplostim plus dexaméthasone contre dexaméthasone seule dans le PTI primaire nouvellement diagnostiqué",
+ "question": "L'ajout du romiplostim à la dexaméthasone augmente-t-il la proportion de patients en réponse soutenue sans traitement dans le PTI primaire nouvellement diagnostiqué ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. En première ligne, la dexaméthasone à forte dose (40 mg/j pendant 4 jours) est largement utilisée, mais la réponse n'est durable que chez une minorité de patients.\n\nLes agonistes du récepteur de la thrombopoïétine (TPO-RA), comme le romiplostim, sont autorisés en seconde ligne. Des travaux récents suggèrent qu'un TPO-RA précoce, associé aux corticoïdes, pourrait augmenter les réponses soutenues et parfois permettre l'arrêt de tout traitement.\n\nRODEX est un essai de phase 3 ouvert, randomisé et multicentrique, promu par la Fondation andalouse de recherche de Séville. Il vise à démontrer la supériorité du romiplostim sous-cutané hebdomadaire, jusqu'à 12 mois, associé à une cure de dexaméthasone, sur la dexaméthasone seule, jusqu'à 3 cures. Il inclut 129 adultes nouvellement diagnostiqués, non traités auparavant.",
+ "interet": "Si le romiplostim précoce augmente la réponse soutenue sans traitement, il pourrait modifier la première ligne du PTI en réduisant les cures répétées de corticoïdes et les rechutes.",
+ "profil": "Des adultes atteints de PTI primaire nouvellement diagnostiqué, jamais traité.",
+ "inclusion": ["Âge ≥ 18 ans", "PTI primaire nouvellement diagnostiqué selon l'International Working Group, jamais traité", "Plaquettes < 30 G/L, ou < 50 G/L avec symptômes hémorragiques", "Créatinine sérique ≤ 1,5 mg/dL"],
+ "exclusion": ["Statut de performance OMS > 2", "Rituximab dans les 3 mois, corticoïdes ou autre immunomodulateur dans le mois précédent", "Analogue hématopoïétique ou fostamatinib dans les 3 mois précédents", "Romiplostim, éltrombopag, rhTPO ou autre agent plaquettaire dans les 3 mois précédents", "Agents alkylants dans les 8 semaines précédentes", "Autres critères : non précisés dans la version condensée du registre"],
+ "bras": [{"nom": "Romiplostim + dexaméthasone", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (premier cycle) plus romiplostim sous-cutané hebdomadaire, dose initiale 3 µg/kg/semaine, jusqu'à 12 mois"}, {"nom": "Dexaméthasone seule", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours, jusqu'à 3 cures, tous les 14 à 28 jours"}],
+ "duree": "Jusqu'à 12 mois de traitement, avec évaluation 180 jours après l'arrêt",
+ "critere": "Proportion de patients en réponse soutenue sans traitement (plaquettes ≥ 30 G/L pendant 6 mois), 180 jours après l'arrêt du traitement"
+}

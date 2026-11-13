@@ -1,0 +1,33 @@
+{
+ "h": "0322e0c00c49",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline IV à 10 % Kedrion chez l'enfant avec déficit immunitaire primitif (KIDCARES10)",
+ "question": "L'immunoglobuline IV à 10 % de Kedrion est-elle efficace, sûre et bien tolérée chez l'enfant atteint d'un déficit immunitaire primitif ?",
+ "contexte": "Les déficits immunitaires primitifs avec défaut de production d'anticorps imposent une substitution à vie par immunoglobulines (Ig). Chez l'enfant, la perfusion d'Ig intraveineuses (IgIV) toutes les 3 à 4 semaines réduit les infections bactériennes graves et les hospitalisations.\n\nL'enregistrement d'un nouveau produit exige des données pédiatriques d'efficacité, de sécurité et de pharmacocinétique. Cet essai de phase 3 à bras unique, promu par Kedrion S.p.A., évalue l'Ig à 10 % de Kedrion (KIg10) chez 30 enfants de 2 à moins de 16 ans, déjà traités de façon stable par IgIV (taux résiduels d'IgG ≥ 6 g/L). Ils reçoivent 200 à 800 mg/kg toutes les 21 ou 28 jours pendant 48 semaines. Il n'y a pas de comparateur.",
+ "interet": "L'étude doit soutenir l'enregistrement pédiatrique de KIg10 et élargir l'offre d'IgIV pour les enfants.",
+ "profil": "Des enfants de 2 à moins de 16 ans atteints de déficit immunitaire primitif, sous substitution stable en IgIV.",
+ "inclusion": [
+  "Déficit immunitaire primitif confirmé (classification IUIS 2017, critères ESID) nécessitant des IgIV",
+  "Âge de 2 à moins de 16 ans",
+  "IgIV 200-800 mg/kg toutes les 21 ou 28 jours, au moins 3 perfusions avant la sélection",
+  "Au moins 2 taux résiduels d'IgG ≥ 6 g/L dans les 12 mois précédents",
+  "Consentement du patient et de ses parents ; test de grossesse négatif si applicable"
+ ],
+ "exclusion": [
+  "Déficit immunitaire nouvellement diagnostiqué, naïf de substitution",
+  "Dysgammaglobulinémie, déficit isolé en sous-classe d'IgG ou déficit profond en lymphocytes T",
+  "Hypersensibilité sévère aux IgIV ; déficit en IgA avec anticorps anti-IgA",
+  "Antécédent d'événement thrombotique",
+  "Entéropathie exsudative, syndrome néphrotique ou lymphangiectasie significatifs",
+  "Infection aiguë dans les 7 jours précédents ; SIDA ou hépatite B/C active",
+  "ALAT ou ASAT > 2,5 x la normale"
+ ],
+ "bras": [
+  {
+   "nom": "Kedrion IVIG 10 %",
+   "traitement": "Immunoglobuline intraveineuse à 10 %, 200 à 800 mg/kg toutes les 21 ou 28 jours pendant 48 semaines"
+  }
+ ],
+ "duree": "48 semaines de traitement (semaine 51/52)",
+ "critere": "Incidence des infections bactériennes graves aiguës, de l'inclusion à la semaine 51/52."
+}

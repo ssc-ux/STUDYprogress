@@ -1,0 +1,36 @@
+{
+ "h": "0c4391ff09db",
+ "date": "2026-11-13",
+ "titre": "Eplontersen dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "L'eplontersen réduit-il la mortalité cardiovasculaire et les événements cardiovasculaires récurrents dans la cardiomyopathie amyloïde à transthyrétine ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), héréditaire ou sauvage, est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée. Elle résulte du dépôt de fibrilles de transthyrétine (TTR) dans le myocarde. Le pronostic est sombre, avec une survie médiane de quelques années après le diagnostic.\n\nLe tafamidis, stabilisateur de la TTR, a réduit la mortalité et les hospitalisations dans l'étude ATTR-ACT et constitue la référence. Des approches de silençage visent à réduire la production de TTR à la source.\n\nL'eplontersen est un oligonucléotide antisens ciblant l'ARN messager de la TTR, administré par voie sous-cutanée. Il est déjà évalué dans la polyneuropathie amyloïde héréditaire. CARDIO-TTRansform est un essai de phase 3 promu par Ionis, randomisé en double insu contre placebo, chez 1 438 patients, en plus du traitement de référence, dans 21 pays dont la France. Les patients reçoivent une injection toutes les 4 semaines, avec une supplémentation en vitamine A.",
+ "interet": "C'est l'un des plus grands essais dans l'ATTR-CM. Un bénéfice sur la mortalité et les événements cardiovasculaires ferait de l'eplontersen une option complémentaire ou alternative au tafamidis. Il fournira aussi des données sur l'association au traitement de référence.",
+ "profil": "Des adultes de 18 à 90 ans atteints de cardiomyopathie amyloïde à transthyrétine (ATTR-CM), sous traitement de référence.",
+ "inclusion": [
+  "Âge de 18 à 90 ans",
+  "Dépôts amyloïdes confirmés par coloration rouge Congo ou scintigraphie (captation cardiaque grade 2 ou 3) sans anomalie des chaînes légères, avec confirmation centrale",
+  "Épaisseur du septum interventriculaire > 12 mm à l'échocardiographie",
+  "Classe NYHA I à III",
+  "Contraception efficace selon le sexe et le statut de fertilité"
+ ],
+ "exclusion": [
+  "Événement cardiovasculaire ou chirurgie majeurs dans les 3 mois (SCA, AVC, AIT, revascularisation, pose de dispositif)",
+  "Cardiomyopathie non principalement due à l'ATTR (hypertension, valvulopathie, ischémique)",
+  "MGUS ou ratio des chaînes légères anormal, sauf biopsie confirmant l'absence de chaînes légères",
+  "Greffe hépatique ou cardiaque, assistance ventriculaire gauche ou greffe prévue dans l'année",
+  "Traitement actuel ou antérieur par inotersen, patisiran ou autre oligonucléotide ou ARNsi",
+  "Traitement par diflunisal, doxycycline ± acide ursodésoxycholique ou inhibiteur calcique non dihydropyridinique (sevrage de 14 jours)"
+ ],
+ "bras": [
+  {
+   "nom": "Eplontersen",
+   "traitement": "Eplontersen par injection sous-cutanée toutes les 4 semaines, avec vitamine A quotidienne (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique par injection sous-cutanée toutes les 4 semaines, avec vitamine A quotidienne"
+  }
+ ],
+ "duree": "Jusqu'à la semaine 140 pour le critère principal ; durée totale non précisée",
+ "critere": "Critère composite de mortalité cardiovasculaire et d'événements cardiovasculaires cliniques récurrents, de l'inclusion jusqu'à la semaine 140"
+}

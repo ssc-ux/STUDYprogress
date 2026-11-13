@@ -1,0 +1,34 @@
+{
+ "h": "929dd1e5707b",
+ "date": "2026-11-13",
+ "titre": "Aspirine pour prévenir les complications ischémiques de l'artérite à cellules géantes (ASPIRE-GCA)",
+ "question": "Est-il faisable de mener un grand essai évaluant l'aspirine à faible dose pour prévenir les complications ischémiques de l'ACG ?",
+ "contexte": "L'artérite à cellules géantes (ACG, maladie de Horton) est une vascularite des gros vaisseaux survenant après 50 ans. Outre le risque de cécité, elle expose à des complications ischémiques : accidents vasculaires cérébraux, infarctus du myocarde, ischémie des membres, surtout dans les premières semaines. Le traitement repose sur les glucocorticoïdes, avec le tocilizumab en option.\n\nLe rôle préventif de l'aspirine fait débat. Des études observationnelles suggèrent une réduction des événements ischémiques, mais les données sont discordantes, et aucun essai randomisé n'a tranché. Les recommandations ne soutiennent pas l'usage systématique de l'antiagrégant en l'absence d'indication cardiovasculaire.\n\nASPIRE-GCA Pilot est un essai pilote randomisé contre placebo, mené par le CIUSSS du Nord-de-l'Île-de-Montréal, incluant 120 adultes avec ACG diagnostiquée depuis 30 jours ou moins. Les participants reçoivent aspirine 80 mg par jour ou placebo pendant 52 semaines en plus du traitement standard. Les procédures sont réalisées à distance. L'objectif est de vérifier le taux de recrutement, l'adhésion et le suivi avant un essai de grande taille.",
+ "interet": "Il ne conclura pas sur l'efficacité de l'aspirine, mais permettra de lancer, s'il est faisable, un essai définitif sur une question encore débattue.",
+ "profil": "Des adultes ayant une ACG diagnostiquée depuis 30 jours ou moins, sans indication établie d'antiagrégant.",
+ "inclusion": [
+  "ACG nouvellement diagnostiquée (30 jours ou moins)",
+  "Critères de classification ACR/EULAR 2022, avec histologie de l'artère temporale ou imagerie compatible",
+  "Début du traitement standard, avec ou sans glucocorticoïdes IV",
+  "Consentement et participation aux procédures à distance"
+ ],
+ "exclusion": [
+  "Indication établie d'antiagrégant (infarctus, AVC ou AIT, artériopathie connue)",
+  "Perte visuelle permanente bilatérale pendant le dépistage",
+  "Anticoagulation thérapeutique chronique",
+  "Espérance de vie inférieure à 1 an",
+  "Contre-indication à l'aspirine à faible dose"
+ ],
+ "bras": [
+  {
+   "nom": "Aspirine",
+   "traitement": "Acide acétylsalicylique 80 mg par voie orale une fois par jour pendant 52 semaines, en plus du traitement standard"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique une fois par jour pendant 52 semaines, en plus du traitement standard"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Taux de recrutement (participants randomisés par centre et par mois), sur environ 18 mois."
+}

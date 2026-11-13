@@ -1,0 +1,14 @@
+{
+"h": "ed3da76748f8",
+"date": "2026-11-13",
+"titre": "Cénérimod en complément du traitement standard dans le lupus systémique modéré à sévère (OPUS-2)",
+"question": "Le cénérimod, ajouté au traitement de fond, augmente-t-il la proportion de répondeurs SRI-4 à 12 mois par rapport au placebo ?",
+"contexte": "Le lupus érythémateux systémique modéré à sévère reste actif chez de nombreux patients malgré les antipaludéens, les immunosuppresseurs, les corticoïdes ou la biothérapie par bélimumab. Les corticoïdes oraux exposent à des lésions cumulées, et les options ciblées approuvées sont limitées.\n\nLe cénérimod est un modulateur oral du récepteur S1P1 de la sphingosine-1-phosphate. Il réduit la sortie des lymphocytes des organes lymphoïdes, ce qui diminue le nombre de lymphocytes T et B circulants, impliqués dans l'auto-immunité du lupus. Une étude de phase 2 antérieure a motivé le développement de phase 3.\n\nOPUS-2 est un essai de phase 3 randomisé en quadruple aveugle, promu par Viatris, qui compare le cénérimod 4 mg par jour à un placebo, ajoutés au traitement de fond, chez 451 adultes. Les patients ont une activité clinique significative (mSLEDAI-2K ≥ 6, atteinte BILAG B dans au moins 2 organes ou A dans 1) malgré un traitement stable par antipaludéens, immunosuppresseurs, corticoïdes ou bélimumab. Le critère principal est évalué à 12 mois.",
+"interet": "Un résultat positif ferait du cénérimod un traitement oral ciblé du lupus systémique actif, avec un mécanisme différent des biothérapies actuelles. La tolérance, notamment cardiaque et infectieuse, propre aux modulateurs de S1P, sera étudiée.",
+"profil": "Des adultes de 18 à 75 ans atteints de lupus systémique modéré à sévère, actif malgré un traitement de fond.",
+"inclusion": ["Âge de 18 à 75 ans, lupus selon les critères EULAR/ACR 2019 diagnostiqué depuis ≥ 6 mois", "mSLEDAI-2K ≥ 6 et mSLEDAI-2K clinique ≥ 4, dont ≥ 2 points pour une atteinte musculo-squelettique ou cutanéo-muqueuse", "BILAG-2004 B dans ≥ 2 organes ou A dans ≥ 1 organe", "Évaluation globale du médecin ≥ 1 sur une échelle de 0 à 3", "Traitement de fond stable : antipaludéens, mycophénolate, azathioprine, méthotrexate, corticoïdes oraux (≤ 30 mg/jour) ou bélimumab", "Contraception efficace et tests de grossesse mensuels pour les femmes en âge de procréer"],
+"exclusion": ["Critères d'exclusion détaillés : non précisés dans le résumé du registre"],
+"bras": [{"nom": "Cénérimod 4 mg", "traitement": "Cénérimod 4 mg par voie orale, une fois par jour, en plus du traitement de fond, 12 mois"}, {"nom": "Placebo", "traitement": "Placebo identique, une fois par jour, en plus du traitement de fond, 12 mois"}],
+"duree": "12 mois de traitement",
+"critere": "Proportion de patients en réponse SRI-4 à 12 mois par rapport à l'inclusion."
+}

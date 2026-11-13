@@ -1,0 +1,29 @@
+{
+ "h": "ff08e411f8d0",
+ "date": "2026-11-13",
+ "titre": "Registre de sécurité et d'efficacité du bélimumab dans le lupus érythémateux systémique",
+ "question": "Quelle est l'incidence des événements indésirables d'intérêt particulier chez les patients lupiques traités par bélimumab par rapport à ceux traités par le traitement standard seul ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique qui touche surtout les femmes jeunes, avec des atteintes cutanées, articulaires, rénales, hématologiques et neurologiques. Le traitement repose sur l'hydroxychloroquine, les corticoïdes et les immunosuppresseurs. Les poussées répétées et la corticothérapie prolongée entraînent des dommages d'organe et des infections.\n\nLe bélimumab est un anticorps monoclonal dirigé contre le BLyS (BAFF), qui freine la survie des lymphocytes B. Il est autorisé dans le LES actif avec auto-anticorps et dans la néphrite lupique, et a été évalué dans des essais randomisés qui excluent des patients de la vie réelle. Ce registre observationnel prospectif suit des adultes atteints de LES actif, avec auto-anticorps, répartis en deux cohortes : bélimumab plus traitement standard, et traitement standard seul. Les traitements restent à la discrétion du médecin. Le critère principal est l'incidence d'événements indésirables d'intérêt particulier, comme les infections graves ou opportunistes et les cancers. Le promoteur est GlaxoSmithKline.",
+ "interet": "Le registre apportera des données de sécurité en vie réelle sur le bélimumab, chez un grand nombre de patients et sur plusieurs années. Il complète les essais randomisés par des informations sur les infections, les cancers et d'autres événements rares.",
+ "profil": "Des adultes atteints de lupus érythémateux systémique actif avec auto-anticorps, traités ou non par bélimumab en plus du traitement standard.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic clinique de LES actif",
+  "LES avec auto-anticorps, actuel ou ancien",
+  "Traitement du LES incluant le bélimumab et/ou des immunosuppresseurs (azathioprine, méthotrexate, cyclophosphamide, mycophénolate, biothérapies)",
+  "Capacité à comprendre l'étude, consentement écrit"
+ ],
+ "exclusion": [
+  "Médicament expérimental dans l'année précédant l'inclusion",
+  "Participation à un essai du bélimumab contrôlé par placebo ou à son extension",
+  "Antécédent d'exposition au bélimumab sans traitement en cours",
+  "Traitement par antipaludéen seul",
+  "Traitement par corticoïdes seuls"
+ ],
+ "bras": [
+  {"nom": "Cohorte bélimumab", "traitement": "Bélimumab (voie IV ou sous-cutanée) plus traitement standard, en initiation ou en traitement en cours depuis au moins 2 mois"},
+  {"nom": "Cohorte comparateur", "traitement": "Traitement standard seul, sans bélimumab, en initiation ou en cours depuis au moins 2 mois"}
+ ],
+ "duree": "Jusqu'à 63 mois",
+ "critere": "Nombre de participants ayant un événement indésirable d'intérêt particulier (infections graves, infections opportunistes, cancers, etc.), analysé selon l'exposition initiale, jusqu'à 63 mois."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "451c57b11534",
+ "date": "2026-11-13",
+ "titre": "Nintédanib associé au tocilizumab dans la sclérodermie avec pneumopathie interstitielle (NINTOC-TU)",
+ "question": "L'association nintédanib et tocilizumab limite-t-elle mieux la baisse de la capacité vitale forcée à 56 semaines que le traitement standard dans la sclérodermie avec pneumopathie interstitielle ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est l'une des premières causes de mortalité de la sclérodermie systémique (ScS). Le traitement repose sur des immunosuppresseurs comme le mycophénolate mofétil ou le méthotrexate. Le nintédanib, antifibrosant, ralentit le déclin de la capacité vitale forcée (CVF) dans la ScS-PID, et le tocilizumab, anti-récepteur de l'IL-6, a montré un effet de préservation de la CVF dans des essais sur la ScS précoce.\n\nL'association d'un antifibrosant et d'un anti-inflammatoire ciblé repose sur un rationnel complémentaire, mais n'a pas été évaluée de façon prospective contre le traitement standard.\n\nNINTOC-TU est un essai multicentrique de phase 3, randomisé, en simple insu, promu par l'Institut national de gériatrie, rhumatologie et rééducation de Pologne (Agence polonaise de recherche médicale). Il inclut 86 adultes de 18 à 74 ans atteints de ScS active évoluant depuis 72 mois au plus, avec PID confirmée au scanner (au moins 10 % du poumon) et un score de Rodnan de 10 à 45. Il comporte une approche « théranostique » : cytokines, marqueurs d'inflammation et de fibrose, scanner, TEP, métabolome et transcriptome chez certains patients.",
+ "interet": "Si l'association est supérieure, elle pourrait devenir une stratégie de première intention pour la ScS-PID active. L'étude apportera aussi des biomarqueurs de réponse.",
+ "profil": "Des adultes de 18 à 74 ans atteints de sclérodermie systémique active de moins de 72 mois avec pneumopathie interstitielle.",
+ "inclusion": [
+  "Âge de 18 à 74 ans, consentement écrit",
+  "Sclérodermie systémique (critères ACR/EULAR) active, formes limitée ou diffuse, durée ≤ 72 mois",
+  "PID confirmée au scanner thoracique (≥ 10 % du parenchyme)",
+  "mRSS de 10 à 45",
+  "Mycophénolate ou méthotrexate à dose stable depuis ≥ 8 semaines",
+  "Corticoïdes oraux ≤ 10 mg/j de prednisone, dose stable depuis ≥ 8 semaines",
+  "Contraception efficace pour les patients en âge de procréer"
+ ],
+ "exclusion": [
+  "Incapacité de donner un consentement éclairé",
+  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "Nintédanib + tocilizumab",
+   "traitement": "Tocilizumab sous-cutané 162 mg par semaine et nintédanib 150 mg deux fois par jour, avec ou sans traitement standard"
+  },
+  {
+   "nom": "Traitement standard",
+   "traitement": "Mycophénolate mofétil 1000 à 3000 mg/j ou méthotrexate 10 à 25 mg/semaine"
+  }
+ ],
+ "duree": "56 semaines",
+ "critere": "Baisse de la capacité vitale forcée (CVF) à 56 semaines."
+}

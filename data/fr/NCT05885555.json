@@ -1,0 +1,32 @@
+{
+ "h": "39e5273612d6",
+ "date": "2026-11-13",
+ "titre": "Ianalumab dans le PTI primaire après au moins deux lignes de traitement",
+ "question": "L'ianalumab permet-il d'obtenir une réponse plaquettaire confirmée dans le PTI primaire déjà traité par corticoïdes et TPO-RA ?",
+ "contexte": "Le PTI primaire est une thrombopénie auto-immune. Après l'échec des corticoïdes, des immunoglobulines et des agonistes du récepteur de la thrombopoïétine (TPO-RA), les options sont limitées : rituximab, fostamatinib, immunosuppresseurs, splénectomie. Les rechutes sont fréquentes et le risque hémorragique persiste chez les patients en échec de plusieurs lignes.\n\nL'ianalumab (VAY736) est un anticorps monoclonal anti-BAFF-R qui déplète les lymphocytes B et neutralise l'effet de BAFF sur leur survie. Cette double action pourrait réduire la production d'auto-anticorps de façon plus durable que l'anti-CD20 seul.\n\nCet essai de phase 2 de Novartis est ouvert à bras unique et inclut 41 adultes dans 13 pays dont la France, avec PTI primaire (plaquettes < 30 G/L), préalablement traités par au moins un corticoïde et un TPO-RA. Tous reçoivent la même dose, avec une seconde cure possible en cas de perte de réponse. Le suivi de sécurité dure 24 mois après la dernière dose.",
+ "interet": "Un traitement visant la survie des lymphocytes B pourrait apporter des réponses durables en dehors des TPO-RA. Le bras unique et la petite taille limitent l'interprétation, mais le critère de réponse confirmée est exigeant.",
+ "profil": "Des adultes atteints de PTI primaire avec plaquettes < 30 G/L, déjà traités par au moins un corticoïde et un TPO-RA.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "Diagnostic confirmé de PTI primaire",
+  "Traitement antérieur par au moins un corticoïde (± IgIV) et un TPO-RA",
+  "Perte de réponse, réponse insuffisante, absence de réponse ou intolérance au dernier traitement",
+  "Plaquettes < 30 G/L à la sélection, avec traitement nécessaire selon le médecin"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire",
+  "Transfusion de plaquettes ou de sang total, plasmaphérèse ou traitement de secours dans les 14 jours",
+  "Neutrophiles < 1 000/mm³ ou IgG < 5 g/L",
+  "Déplétion B (rituximab) ou anti-BAFF (bélimumab) dans les 12 semaines",
+  "Immunosuppresseur autre que les corticoïdes dans les 5 demi-vies ou 14 jours",
+  "Splénectomie antérieure"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab",
+   "traitement": "Ianalumab à dose identique pour tous (dose et voie non précisées) ; seconde cure possible en cas de perte de réponse"
+  }
+ ],
+ "duree": "Suivi de sécurité jusqu'à 24 mois après la dernière dose",
+ "critere": "Réponse plaquettaire confirmée entre la semaine 1 jour 1 et la semaine 25 jour 1"
+}

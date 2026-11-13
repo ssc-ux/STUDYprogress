@@ -1,0 +1,34 @@
+{
+ "h": "0396794bfcb8",
+ "date": "2026-11-13",
+ "titre": "Bézuclastinib dans la mastocytose systémique avancée",
+ "question": "Le bézuclastinib, en monothérapie, est-il actif et bien toléré dans la mastocytose systémique avancée ?",
+ "contexte": "La mastocytose systémique avancée regroupe la mastocytose agressive, la mastocytose systémique avec néoplasie hématologique associée (SM-AHN) et la leucémie à mastocytes. Ce sont des formes rares, de pronostic réservé, avec atteinte d'organes (cytopénies, malabsorption, atteinte hépatique, lésions osseuses) et une survie raccourcie.\n\nLes traitements actuels comprennent la midostaurine et l'avapritinib, inhibiteurs de KIT, ainsi que la cladribine ou l'interféron selon les cas. La réponse est variable et une partie des patients progresse ou ne tolère pas ces traitements, surtout en cas de néoplasie hématologique associée.\n\nLe bézuclastinib (CGT9486) est un inhibiteur sélectif de KIT D816V. Cette étude de phase 2 (Apex), en ouvert et sans comparateur, comprend deux parties : la première identifie les expositions actives et tolérables, la seconde évalue le taux de réponse objective selon les critères mIWG-MRT-ECNM. Des sous-études ciblent les patients en progression de leur néoplasie hématologique sous bézuclastinib (cohorte de relais) et les SM-AHN à haut risque. Le promoteur est Cogent Biosciences ; des centres français participent.",
+ "interet": "Les résultats pourraient ajouter une option ciblée dans une maladie où les alternatives sont limitées. Les sous-études renseignent sur les formes avec néoplasie hématologique associée, les plus difficiles à traiter.",
+ "profil": "Des adultes atteints de mastocytose systémique avancée (agressive, SM-AHN ou leucémie à mastocytes) avec maladie mesurable.",
+ "inclusion": [
+  "Mastocytose agressive, SM-AHN ou leucémie à mastocytes, validée par un comité d'éligibilité",
+  "Maladie mesurable selon les critères mIWG-MRT-ECNM modifiés",
+  "Score ECOG de 0 à 3",
+  "Biologie (chimie, hématologie) dans les limites acceptables",
+  "Sous-étude : progression de la néoplasie hématologique sous bézuclastinib, ou SM-AHN à haut risque"
+ ],
+ "exclusion": [
+  "Toxicité d'un traitement antérieur non résolue (> grade 1)",
+  "Néoplasie hématologique associée nécessitant un traitement immédiat",
+  "Maladie cardiaque cliniquement significative",
+  "Fusion FIP1L1-PDGFRA connue",
+  "VIH, hépatite B (AgHBs) ou hépatite C positifs",
+  "Hémorragie récente (30 jours) ou anticoagulation nécessaire",
+  "Autre cancer traité dans les 3 ans",
+  "Sous-étude : leucémie aiguë myéloïde, maladie Philadelphie positive, patient candidat à l'allogreffe"
+ ],
+ "bras": [
+  {
+   "nom": "Bézuclastinib",
+   "traitement": "Bézuclastinib en monothérapie (dose non précisée dans le registre) ; sous-études avec traitement associé selon la cohorte"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Partie I : expositions actives et tolérables du bézuclastinib à 18 mois ; partie II : taux de réponse objective (critères mIWG) à 18 mois."
+}

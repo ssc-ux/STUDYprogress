@@ -1,0 +1,14 @@
+{
+"h": "ac550614c1c0",
+"date": "2026-11-13",
+"titre": "Lymphocytes CAR-T chez l'enfant atteint de néphrite lupique réfractaire ou récidivante",
+"question": "Les cellules CAR-T sont-elles sûres et efficaces chez l'enfant atteint de néphrite lupique réfractaire ou récidivante ?",
+"contexte": "La néphrite lupique de l'enfant est souvent plus sévère et plus évolutive que celle de l'adulte. Dans les formes réfractaires ou récidivantes, malgré au moins deux immunosuppresseurs (corticoïdes, cyclophosphamide, tacrolimus, analogues de l'acide mycophénolique, léflunomide, ciclosporine), le risque de lésions rénales irréversibles est élevé, et les traitements classiques sont lourds en effets indésirables chez l'enfant.\n\nLes cellules CAR-T dirigées contre CD19 induisent une déplétion profonde des lymphocytes B, y compris dans les tissus. Elles ont montré des rémissions durables chez des patients lupiques adultes réfractaires dans de petites séries, mais les données pédiatriques sont rares.\n\nCet essai prospectif, ouvert et monobras, promu par le Guangzhou Women and Children's Medical Center, inclut 50 enfants de 6 à 18 ans atteints de néphrite lupique de classe III ou IV active, confirmée par une biopsie de moins de 6 mois. Des cohortes à faible et à forte dose de CAR-T sont prévues. L'étude évalue aussi la persistance et le phénotype des cellules in vivo ainsi que les cytokines inflammatoires associées au traitement.",
+"interet": "Si la tolérance et l'activité sont confirmées, les CAR-T pourraient offrir une option de rémission prolongée sans traitement chronique chez l'enfant avec néphrite lupique réfractaire. Les risques propres à cette thérapie (syndrome de relargage cytokinique, infections) restent à évaluer.",
+"profil": "Des enfants et adolescents de 6 à 18 ans atteints de néphrite lupique active de classe III ou IV, réfractaire ou récidivante.",
+"inclusion": ["Âge de 6 à 18 ans, lupus selon les critères EULAR/ACR 2019", "Néphrite lupique active de classe III ou IV (± V) selon ISN/RPS 2018, biopsie de moins de 6 mois", "SLEDAI-2000 ≥ 8", "Néphrite réfractaire : ≥ 2 immunosuppresseurs pendant plus de 6 mois sans rémission, ou rechute, avec protéinurie persistante", "Expression de CD19 sur les lymphocytes B circulants", "Fonctions d'organes conservées : lymphocytes ≥ 1×10⁹/L, leucocytes ≥ 3×10⁹/L, DFG ≥ 30 mL/min/1,73 m², ALAT/ASAT ≤ 3 N, ECOG 0 à 2", "ANA ≥ 1:80, consentement des parents et de l'enfant"],
+"exclusion": ["Antécédent de greffe rénale", "Allergie médicamenteuse grave", "Infection fongique, bactérienne ou virale présente ou suspectée", "Autres critères du protocole : non précisés dans le résumé du registre"],
+"bras": [{"nom": "CAR-T", "traitement": "Perfusion de cellules CAR-T, avec un groupe à faible dose et un groupe à forte dose (doses non précisées)"}],
+"duree": "2 ans",
+"critere": "Nombre de participants avec des événements indésirables liés au traitement par CAR-T, sur 2 ans."
+}

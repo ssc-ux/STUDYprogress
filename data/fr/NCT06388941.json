@@ -1,0 +1,33 @@
+{
+ "h": "b8fdd556b609",
+ "date": "2026-11-13",
+ "titre": "Iptacopan associé au rituximab dans les vascularites à ANCA",
+ "question": "L'iptacopan associé au rituximab permet-il d'obtenir une rémission plus durable que le traitement de référence dans la GPA et la PAM ?",
+ "contexte": "La granulomatose avec polyangéite (GPA) et la polyangéite microscopique (PAM) sont des vascularites des petits vaisseaux associées aux ANCA (anti-PR3 ou anti-MPO). Elles touchent notamment le rein et le poumon, avec un risque de défaillance d'organe et de rechute. L'induction repose sur le rituximab ou le cyclophosphamide associés aux corticoïdes, dont la toxicité cumulée est importante.\n\nL'activation de la voie alterne du complément, via la C5a, contribue à la pathogenèse. L'avacopan, inhibiteur du récepteur C5a, a montré dans l'essai ADVOCATE une rémission non inférieure avec une réduction des corticoïdes.\n\nL'iptacopan (LNP023) est un inhibiteur oral du facteur B, qui bloque la voie alterne en amont. Cet essai de phase 2 de Novartis, randomisé contre placebo, évalue l'iptacopan associé à l'induction par rituximab chez 84 patients atteints de GPA ou de PAM active, nouvellement diagnostiquée ou en rechute. Il est mené dans 15 pays dont la France. Il étudie aussi les rechutes, la fonction rénale, la protéinurie, les effets des corticoïdes et la qualité de vie.",
+ "interet": "L'essai teste une autre cible du complément dans les vascularites à ANCA. Si le gain de rémission est confirmé, l'iptacopan pourrait aider à réduire l'exposition aux corticoïdes et à protéger le rein.",
+ "profil": "Des adultes atteints de GPA ou de PAM active, nouvellement diagnostiquée ou en rechute, devant recevoir du rituximab et des corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "GPA ou PAM récente ou en rechute (critères ACR/EULAR 2022), nécessitant rituximab et corticoïdes",
+  "BVAS avec ≥ 1 item majeur, ou ≥ 3 items mineurs, ou ≥ 2 items rénaux",
+  "ANCA anti-PR3 ou anti-MPO positifs, au dépistage ou documentés auparavant"
+ ],
+ "exclusion": [
+  "Autre maladie systémique principale (GEPA, lupus modéré à sévère, vascularite à IgA, vascularite rhumatoïde, Sjögren, maladie des anticorps anti-MBG, cryoglobulinémie, etc.)",
+  "Hémorragie alvéolaire sous ventilation invasive",
+  "DFG < 15 mL/min/1,73 m², dialyse ou greffe rénale",
+  "Échange plasmatique dans les 12 semaines précédant le dépistage"
+ ],
+ "bras": [
+  {
+   "nom": "Iptacopan",
+   "traitement": "Iptacopan (LNP023) par voie orale, associé à l'induction par rituximab (dose non précisée)"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Placebo oral identique, associé à l'induction par rituximab et au traitement de référence"
+  }
+ ],
+ "duree": "48 semaines au moins",
+ "critere": "Rémission soutenue à la semaine 48 : rémission complète à la semaine 24 sans rechute majeure jusqu'à la semaine 48"
+}

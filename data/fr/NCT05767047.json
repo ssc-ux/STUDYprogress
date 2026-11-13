@@ -1,0 +1,31 @@
+{
+ "h": "34f5bd3b2146",
+ "date": "2026-11-13",
+ "titre": "Aprémilast à long terme chez l'enfant : ulcères buccaux de Behçet ou rhumatisme psoriasique juvénile",
+ "question": "L'aprémilast reste-t-il sûr sur le long terme chez les enfants avec ulcères buccaux de Behçet ou rhumatisme psoriasique juvénile ?",
+ "contexte": "La maladie de Behçet pédiatrique est rare. L'aphtose buccale récidivante peut être invalidante et peu sensible aux traitements topiques. Le rhumatisme psoriasique juvénile (RPJ), forme d'arthrite juvénile idiopathique, requiert des traitements systémiques en cas d'atteinte active. Les options approuvées chez l'enfant sont limitées.\n\nL'aprémilast, inhibiteur oral de la PDE4, est approuvé chez l'adulte dans l'aphtose buccale de la maladie de Behçet, le rhumatisme psoriasique et le psoriasis. Son utilisation à long terme chez l'enfant en croissance appelle une surveillance de la croissance, du poids, de la maturation pubertaire et de l'humeur.\n\nCette étude de phase 3 d'Amgen est une extension pour 48 enfants ayant terminé 52 semaines de traitement dans les études de référence 20190530 (Behçet, dès 2 ans) ou 20190529 (RPJ, dès 5 ans). La dose varie selon le poids : 10 mg deux fois par jour de 12 à moins de 20 kg, 20 mg de 20 à moins de 50 kg, 30 mg à partir de 50 kg. L'objectif principal est la tolérance à long terme, avec suivi de la croissance et du risque suicidaire par la C-SSRS.",
+ "interet": "Elle fournira des données de tolérance pédiatrique à long terme sur l'aprémilast, notamment sur la croissance, le poids et la santé mentale, utiles avant une éventuelle approbation chez l'enfant.",
+ "profil": "Des enfants et adolescents de moins de 18 ans ayant terminé 52 semaines d'aprémilast pour un Behçet ou un RPJ.",
+ "inclusion": [
+  "Consentement ou assentiment obtenu",
+  "52 semaines de traitement terminées dans l'étude principale, âge inférieur à 18 ans",
+  "IMC pour l'âge et le sexe au moins égal au 5e percentile",
+  "Volonté de respecter le calendrier de l'étude",
+  "Rapport bénéfice-risque acceptable pour la poursuite de l'aprémilast"
+ ],
+ "exclusion": [
+  "Réponse « oui » à une question de la C-SSRS à la semaine 52 de l'étude principale",
+  "Chirurgie ou intervention programmée interrompant la participation",
+  "Refus de contraception ou projet de grossesse pour les personnes en âge de procréer",
+  "Test de grossesse positif à la semaine 0",
+  "Hypersensibilité connue aux produits administrés"
+ ],
+ "bras": [
+  {
+   "nom": "Aprémilast",
+   "traitement": "Aprémilast adapté au poids : 10 mg deux fois par jour (12 à moins de 20 kg), 20 mg (20 à moins de 50 kg), 30 mg (50 kg ou plus)"
+  }
+ ],
+ "duree": "Jusqu'à environ 4 ans",
+ "critere": "Nombre de participants ayant des événements indésirables, avec suivi de la C-SSRS, du stade de Tanner, du poids, de la taille et de l'IMC, jusqu'à environ 4 ans."
+}

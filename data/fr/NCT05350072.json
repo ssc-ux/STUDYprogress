@@ -1,0 +1,29 @@
+{
+ "h": "c78b53904803",
+ "date": "2026-11-13",
+ "titre": "Ianalumab contre placebo dans le syndrome de Sjögren actif (NEPTUNUS-1)",
+ "question": "L'ianalumab réduit-il l'activité systémique du syndrome de Sjögren, mesurée par l'ESSDAI, par rapport au placebo ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune qui associe sécheresse oculaire et buccale à des manifestations systémiques possibles : articulaires, cutanées, pulmonaires, rénales, neurologiques et lymphoprolifératives. Les patients ont souvent des anti-SSA/Ro et une hyperactivation des lymphocytes B. Aucun traitement de fond immunomodulateur n'a d'AMM dans cette maladie, et les traitements utilisés (hydroxychloroquine, corticoïdes, immunosuppresseurs) reposent sur de faibles niveaux de preuve.\n\nL'ianalumab (VAY736) est un anticorps monoclonal qui déplète les lymphocytes B et bloque le signal du récepteur de BAFF. Il est étudié dans plusieurs maladies auto-immunes. NEPTUNUS-1 est une étude de phase 3 randomisée, en double aveugle contre placebo. Elle inclut des patients dont la maladie est récente (≤ 7,5 ans), active (ESSDAI ≥ 5) et dont la fonction salivaire est conservée. Les traitements de fond stables par hydroxychloroquine, méthotrexate ou azathioprine sont autorisés. Le promoteur est Novartis.",
+ "interet": "L'étude pourrait fournir un premier traitement de fond ciblé sur les lymphocytes B dans le syndrome de Sjögren. Elle se concentre sur la maladie systémique active et récente, où une intervention précoce est le plus plausible.",
+ "profil": "Des adultes atteints de syndrome de Sjögren (critères ACR/EULAR 2016) actif, diagnostiqué depuis au plus 7,5 ans.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "Syndrome de Sjögren selon les critères ACR/EULAR 2016, diagnostiqué depuis ≤ 7,5 ans",
+  "Anti-Ro/SSA positifs (ou biopsie des glandes salivaires positive, limité à 10 % de la population)",
+  "ESSDAI ≥ 5 dans 8 domaines prédéfinis",
+  "Débit salivaire stimulé ≥ 0,05 mL/min",
+  "Hydroxychloroquine, méthotrexate ou azathioprine autorisés à dose stable depuis 30 jours ; corticoïdes ≤ 10 mg/j de prednisolone stables depuis 30 jours"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatismale auto-immune active constituant la maladie principale",
+  "Autre médicament expérimental dans les 5 demi-vies ou 30 jours",
+  "Traitement antérieur par ianalumab",
+  "Déplétion B antérieure par un autre agent dans les 36 semaines"
+ ],
+ "bras": [
+  {"nom": "Ianalumab", "traitement": "Ianalumab (VAY736), dose et rythme non précisés"},
+  {"nom": "Placebo", "traitement": "Placebo"}
+ ],
+ "duree": "Non précisé (critère principal à 48 semaines)",
+ "critere": "Variation du score ESSDAI à la semaine 48 par rapport à l'inclusion, comparée au placebo."
+}

@@ -1,0 +1,39 @@
+{
+ "h": "e2d755c051b6",
+ "date": "2026-11-13",
+ "titre": "Vunakizumab et ivarmacitinib dans la maladie de Takayasu active",
+ "question": "Le vunakizumab (anti-IL-17A) ou l'ivarmacitinib (inhibiteur de JAK1), associés aux glucocorticoïdes, améliorent-ils la réponse complète à 52 semaines par rapport aux glucocorticoïdes seuls dans la maladie de Takayasu ?",
+ "contexte": "La maladie de Takayasu est une artérite des gros vaisseaux touchant l'aorte et ses branches, surtout chez les femmes jeunes. Les glucocorticoïdes sont le traitement de première ligne, avec immunosuppresseurs conventionnels, tocilizumab ou anti-TNF en cas de maladie persistante ou en rechute. Beaucoup de patients restent actifs, développent des sténoses progressives et deviennent dépendants des corticoïdes.\n\nDeux voies sont explorées comme alternatives. L'IL-17 intervient dans l'inflammation vasculaire, ce qui justifie le vunakizumab, anticorps anti-IL-17A. Les inhibiteurs de JAK ont montré des résultats encourageants dans plusieurs séries et petits essais, ce qui justifie l'ivarmacitinib, inhibiteur de JAK1.\n\nCet essai de phase 4 multicentrique, ouvert, du Chinese SLE Treatment And Research Group, randomise 180 adultes de 18 à 70 ans ayant une Takayasu active malgré glucocorticoïdes et immunosuppresseur (hors inhibiteurs de JAK et d'IL-17), ou récente. Trois groupes reçoivent pendant 52 semaines glucocorticoïdes avec vunakizumab, ivarmacitinib, ou glucocorticoïdes seuls.",
+ "interet": "Il pourrait faire émerger de nouvelles options non anti-TNF et non anti-IL-6 dans une maladie à options limitées. Les résultats sont attendus à 52 semaines.",
+ "profil": "Des adultes de 18 à 70 ans ayant une maladie de Takayasu active, récente ou en rechute.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, critères ACR/EULAR 2022 de Takayasu, début récent ou rechute",
+  "Maladie active malgré glucocorticoïdes et immunosuppresseur autre qu'inhibiteur de JAK ou d'IL-17",
+  "Au moins 2 critères : manifestations cliniques actives, progression à l'imagerie, élévation de la VS ou de la CRP"
+ ],
+ "exclusion": [
+  "Atteinte sévère nécessitant une intervention vasculaire urgente",
+  "Atteinte d'organe critique (cardiaque, coronaire, ischémie cérébrale)",
+  "Hépatite B ou C active, tuberculose active",
+  "Cancer dans les 5 ans",
+  "Diabète mal contrôlé, antécédent de thrombose veineuse",
+  "Hémorragie digestive haute dans les 3 mois",
+  "Insuffisance cardiaque non contrôlée ou hypertension réfractaire"
+ ],
+ "bras": [
+  {
+   "nom": "Vunakizumab",
+   "traitement": "Vunakizumab 240 mg toutes les 4 semaines par voie sous-cutanée (avec une injection au jour 15) plus glucocorticoïdes en décroissance, pendant 52 semaines"
+  },
+  {
+   "nom": "Ivarmacitinib",
+   "traitement": "Ivarmacitinib 8 mg par jour par voie orale plus glucocorticoïdes en décroissance, pendant 52 semaines"
+  },
+  {
+   "nom": "Prednisone seule",
+   "traitement": "Prednisone en décroissance prédéfinie pendant 52 semaines"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Taux de réponse complète à la semaine 52."
+}

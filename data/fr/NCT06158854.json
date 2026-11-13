@@ -1,0 +1,38 @@
+{
+ "h": "d31b0089a04d",
+ "date": "2026-11-13",
+ "titre": "Étentamig (ABBV-383) dans l'amylose AL en rechute ou réfractaire",
+ "question": "L'étentamig est-il sûr et actif dans l'amylose AL en rechute ou réfractaire ?",
+ "contexte": "L'amylose AL est la forme la plus fréquente d'amylose systémique. Un clone plasmocytaire médullaire produit des chaînes légères d'immunoglobuline qui se déposent dans les organes, notamment le cœur et le rein. Le pronostic dépend surtout de l'atteinte cardiaque.\n\nLes traitements de première ligne reposent sur le daratumumab associé au bortézomib. Les patients en rechute après un inhibiteur du protéasome et un anti-CD38 ont peu d'options, ce qui justifie l'étude de nouvelles immunothérapies.\n\nL'étentamig (ABBV-383) est un anticorps bispécifique redirigeant les lymphocytes T contre les plasmocytes (cibles BCMA et CD3), déjà étudié dans le myélome multiple. Cette étude de phase 1/2, non randomisée et promue par AbbVie, comporte une escalade à trois doses (bras 1 à 3) puis une expansion à la dose retenue (bras 4), avec environ 76 participants dans une vingtaine de centres, et jusqu'à environ 2 ans de traitement par perfusion IV.",
+ "interet": "Si la tolérance et la réponse hématologique sont favorables, l'étentamig pourrait devenir une option après échec des anti-CD38 et des inhibiteurs du protéasome.",
+ "profil": "Des adultes atteints d'amylose AL en rechute ou réfractaire, déjà exposés à un inhibiteur du protéasome et à un anti-CD38.",
+ "inclusion": [
+  "Amylose AL systémique primaire",
+  "ECOG ≤ 2",
+  "Au moins un organe atteint par l'amylose AL",
+  "Stade cardiaque 1, 2 ou 3a (ou 3b avec fonction et marqueurs stables depuis 3 mois)",
+  "Maladie mesurable (dFLC ≥ 50 mg/L) ou progression de dFLC à haut risque après la dernière ligne",
+  "Exposition préalable à un inhibiteur du protéasome et à un anti-CD38"
+ ],
+ "exclusion": [
+  "Abus de drogue ou d'alcool significatif dans les 6 derniers mois",
+  "Allergie ou intolérance connue au traitement de l'étude ou à sa classe",
+  "Autre amylose non AL",
+  "Myélome symptomatique (lésions lytiques, plasmocytome, ≥ 60 % de plasmocytes, hypercalcémie)",
+  "Leucémie à plasmocytes active ou maladie de Waldenström",
+  "Pneumopathie infiltrante diffuse aiguë, chirurgie majeure récente, greffe d'organe sous immunosuppresseur",
+  "Autogreffe < 12 semaines ou allogreffe < 1 an"
+ ],
+ "bras": [
+  {
+   "nom": "Escalade de dose (bras 1 à 3)",
+   "traitement": "Étentamig (ABBV-383) en perfusion IV à l'une de trois doses (A, B ou C)"
+  },
+  {
+   "nom": "Expansion (bras 4)",
+   "traitement": "Étentamig (ABBV-383) en perfusion IV à la dose B, déterminée lors de l'escalade"
+  }
+ ],
+ "duree": "Environ 2 ans de traitement ; suivi jusqu'à 4 ans",
+ "critere": "Escalade : toxicités dose-limitantes sur 28 jours ; expansion : taux de réponse hématologique complète, toxicités dose-limitantes et événements indésirables jusqu'à 4 ans."
+}

@@ -1,0 +1,32 @@
+{
+ "h": "bb8ea7d26002",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline sous-cutanée à 20 % BP-SCIG chez les patients avec déficit immunitaire primitif",
+ "question": "L'immunoglobuline sous-cutanée à 20 % BP-SCIG est-elle efficace et sûre dans les déficits immunitaires primitifs avec défaut de production d'anticorps ?",
+ "contexte": "Les déficits immunitaires primitifs avec défaut de production d'anticorps nécessitent une substitution à vie par immunoglobulines (Ig). La voie sous-cutanée (SCIG) permet une administration à domicile, avec des taux d'IgG plus stables qu'avec les perfusions intraveineuses espacées, et une meilleure tolérance systémique.\n\nLes formulations concentrées à 20 % réduisent le volume à injecter et la durée des administrations. Cet essai de phase 3 non randomisé, promu par Biopharma Plasma LLC, évalue BP-SCIG 20 % chez 56 patients, enfants (poids ≥ 9,1 kg) et adultes. Les patients viennent d'un traitement par IgIV ou SCIG, ou sont naïfs de substitution. Une dose de charge est possible, puis une dose d'entretien hebdomadaire de 0,4 à 0,8 g/kg par mois. Il n'y a pas de comparateur.",
+ "interet": "L'étude doit soutenir l'enregistrement d'une nouvelle immunoglobuline sous-cutanée à 20 %. Elle apportera des données d'efficacité (infections bactériennes graves) et de taux résiduels d'IgG.",
+ "profil": "Des enfants (≥ 9,1 kg) et des adultes atteints d'un déficit immunitaire primitif avec défaut de production d'anticorps, nécessitant une substitution.",
+ "inclusion": [
+  "Consentement écrit du patient ou de son représentant",
+  "Enfant ou adulte, poids ≥ 9,1 kg",
+  "Déficit immunitaire primitif avec défaut de production d'anticorps (critères ESID) nécessitant une substitution",
+  "IgIV (21-28 jours, 0,4-0,8 g/kg) ou SCIG (0,4-0,8 g/kg/mois) depuis au moins 4 mois avec IgG ≥ 5 g/L, ou patient naïf avec IgG ≤ 4 g/L",
+  "Absence d'infection bactérienne grave et d'hospitalisation depuis au moins 3 mois"
+ ],
+ "exclusion": [
+  "Épisode d'infection bactérienne grave sous le produit antérieur ou hospitalisation pendant la sélection",
+  "Transfusion de sang ou de dérivés sanguins en dehors du produit étudié",
+  "Médicaments interdits par le protocole",
+  "Mauvaise observance systématique du traitement ou des procédures",
+  "Événement indésirable grave imposant l'arrêt du produit",
+  "Retrait à la demande du patient ou de son représentant"
+ ],
+ "bras": [
+  {
+   "nom": "BP-SCIG 20 %",
+   "traitement": "Immunoglobuline humaine normale à 200 mg/mL par voie sous-cutanée, environ une fois par semaine, 0,4 à 0,8 g/kg par mois (dose de charge possible)"
+  }
+ ],
+ "duree": "12 mois de traitement",
+ "critere": "Taux résiduel d'IgG totales à l'état d'équilibre et nombre d'infections bactériennes graves par patient et par an, sur 12 mois."
+}

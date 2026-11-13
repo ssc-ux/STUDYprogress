@@ -1,0 +1,42 @@
+{
+ "h": "dad0216c0627",
+ "date": "2026-11-13",
+ "titre": "Hydrocortisone ou placebo en cas de symptômes d'insuffisance surrénale après arrêt des glucocorticoïdes",
+ "question": "L'hydrocortisone soulage-t-elle les symptômes d'insuffisance surrénale persistant après l'arrêt d'une corticothérapie pour PPR ou ACG ?",
+ "contexte": "Les glucocorticoïdes sont utilisés dans de nombreuses maladies inflammatoires ; au Danemark, environ 3 % de la population en reçoit chaque année et au moins 20 000 patients arrêtent un traitement chaque année. Une corticothérapie prolongée freine la production endogène de cortisol et peut causer une insuffisance surrénale induite (GIA). Sa fréquence à l'arrêt, mesurée par le test au Synacthène, est estimée à environ 25 %, mais aucun test n'est fait en routine.\n\nLes symptômes (fatigue, myalgies, anorexie, baisse de la qualité de vie) sont non spécifiques et peuvent être pris pour une rechute de la maladie. Il n'existe pas de consensus sur la prise en charge, ni sur l'intérêt d'un traitement substitutif transitoire.\n\nCet essai de phase 4 en double insu inclut 100 patients de 50 ans ou plus ayant une PPR ou une ACG, en rémission sans glucocorticoïdes depuis 2 à 12 semaines après au moins 12 semaines de prednisolone. Les patients symptomatiques ou ayant un cortisol stimulé de 100 à 420 nmol/L sont randomisés entre hydrocortisone et placebo. D'autres groupes de comparaison sont suivis sans traitement.",
+ "interet": "Il pourrait déterminer si une substitution temporaire par hydrocortisone est utile après sevrage des corticoïdes, et mieux caractériser l'insuffisance surrénale induite chez les patients atteints de PPR ou d'ACG.",
+ "profil": "Des adultes de 50 ans ou plus en rémission d'une PPR ou d'une ACG, récemment sevrés des glucocorticoïdes.",
+ "inclusion": [
+  "Âge de 50 ans ou plus",
+  "PPR ou ACG en rémission sans glucocorticoïdes depuis plus de 2 semaines et moins de 12 semaines",
+  "Prednisolone préalable (toute dose) pendant au moins 12 semaines"
+ ],
+ "exclusion": [
+  "Insuffisance surrénale connue ou syndrome de Cushing",
+  "Insuffisance cardiaque NYHA IV, DFG inférieur à 30 mL/min, cirrhose, cancer actif, immunodéficience sévère",
+  "Maladie psychiatrique sévère récente",
+  "Consommation d'alcool supérieure à 21 unités par semaine",
+  "Chirurgie majeure programmée",
+  "Œstrogènes systémiques récents, inhibiteurs ou inducteurs puissants du CYP3A4, autres glucocorticoïdes (inhalés, injectés, dermocorticoïdes génitaux)"
+ ],
+ "bras": [
+  {
+   "nom": "Hydrocortisone",
+   "traitement": "Patients avec AddiQoL-30 inférieur à 85 et/ou cortisol stimulé de 100 à 420 nmol/L, randomisés pour recevoir des comprimés d'hydrocortisone"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Mêmes patients, randomisés pour recevoir des comprimés de placebo"
+  },
+  {
+   "nom": "Groupe de comparaison 1",
+   "traitement": "AddiQoL-30 supérieur à 85 et cortisol stimulé supérieur à 420 nmol/L, bilan initial seulement"
+  },
+  {
+   "nom": "Groupe de comparaison 2",
+   "traitement": "Insuffisance surrénale marquée (cortisol stimulé inférieur à 100 nmol/L), sans randomisation"
+  }
+ ],
+ "duree": "16 semaines",
+ "critere": "Symptômes d'insuffisance surrénale, évalués au dépistage et à 16 semaines."
+}

@@ -1,0 +1,38 @@
+{
+ "h": "90608ef1d32a",
+ "date": "2026-11-13",
+ "titre": "Nérandomilast oral dans les myopathies inflammatoires idiopathiques actives",
+ "question": "Le nérandomilast, ajouté au traitement de fond, améliore-t-il le score d'amélioration totale (TIS) à 52 semaines chez des adultes atteints de myosite active ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (MII) regroupent la dermatomyosite, la polymyosite, les myosites de chevauchement et d'autres entités rares. Elles entraînent une faiblesse musculaire invalidante et des atteintes extra-musculaires, notamment pulmonaires. Le traitement repose sur les corticoïdes, les immunosuppresseurs et les immunoglobulines IV, avec une réponse souvent partielle.\n\nLe nérandomilast est un inhibiteur préférentiel de la phosphodiestérase 4B, à effets anti-inflammatoires et antifibrosants, développé dans les fibroses pulmonaires. VERANDA-IIM teste son intérêt dans les myosites actives. Cette phase 3 est randomisée en double aveugle contre placebo, avec deux prises orales par jour pendant 52 semaines, en plus du traitement de fond. Elle inclut des adultes ayant une MII définie ou probable (ACR/EULAR 2017), d'activité modérée à sévère. Le promoteur est Boehringer Ingelheim ; 270 participants sont prévus.",
+ "interet": "Un résultat positif ouvrirait la voie à un traitement oral non immunosuppresseur classique dans les myosites. Il pourrait aussi intéresser les patients ayant une atteinte pulmonaire associée.",
+ "profil": "Des adultes atteints de myopathie inflammatoire idiopathique active d'intensité modérée à sévère, sous traitement de fond.",
+ "inclusion": [
+  "Âge ≥ 18 ans (ou âge légal de la majorité)",
+  "MII définie ou probable (critères ACR/EULAR 2017)",
+  "Myosite de chevauchement : MII prédominante",
+  "Dermatomyosite juvénile : début des symptômes à 15 ans ou plus",
+  "Myopathie d'activité modérée à sévère",
+  "Traitement de fond de la MII en cours",
+  "Contraception efficace pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Chirurgie majeure dans les 6 semaines ou prévue",
+  "Cancer actif ou suspecté, ou antécédent dans les 5 ans (hors exceptions)",
+  "Traitement restreint à poursuivre ou médicament susceptible d'interférer",
+  "PID avancée",
+  "Atteinte musculaire sévère",
+  "Autres critères d'exclusion du protocole non détaillés"
+ ],
+ "bras": [
+  {
+   "nom": "Nérandomilast",
+   "traitement": "Nérandomilast par voie orale, deux fois par jour, en plus du traitement de fond (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique, deux fois par jour"
+  }
+ ],
+ "duree": "Environ 14 mois (traitement de 52 semaines, au moins 16 visites)",
+ "critere": "Score d'amélioration totale (TIS, mesure continue) à la semaine 52"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "62660be7c765",
+ "date": "2026-11-13",
+ "titre": "Ciclosporine contre rituximab en seconde ligne de l'anémie hémolytique auto-immune primitive",
+ "question": "La ciclosporine est-elle aussi efficace que le rituximab chez les patients ayant une anémie hémolytique auto-immune (AHAI) primitive réfractaire aux corticoïdes ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) à auto-anticorps chauds est une maladie où des auto-anticorps dirigés contre les globules rouges, détectés par le test direct à l'antiglobuline, provoquent leur destruction. Les corticoïdes constituent la première ligne, mais un grand nombre de patients rechutent, deviennent dépendants ou résistants, ou ne les tolèrent pas.\n\nEn seconde ligne, le rituximab est le traitement le plus utilisé et le mieux étayé. La splénectomie et divers immunosuppresseurs sont d'autres options. Le rituximab n'est pas toujours accessible ni souhaité par les patients, notamment pour son coût et ses risques infectieux.\n\nLa ciclosporine, inhibiteur de la calcineurine, s'est montrée active dans plusieurs cytopénies auto-immunes, selon des cas rapportés et des données rétrospectives. Cet essai randomisé de l'Université d'Assiut (Égypte) compare ciclosporine orale à 2,5-5 mg/kg/j pendant 3 mois et rituximab 375 mg/m² hebdomadaire, jusqu'à 4 semaines, chez 30 adultes en échec des corticoïdes.",
+ "interet": "Si la ciclosporine donne des réponses comparables, elle pourrait offrir une alternative orale et moins coûteuse au rituximab dans l'AHAI de seconde ligne, utile dans les pays à ressources limitées.",
+ "profil": "Des adultes atteints d'AHAI primitive à auto-anticorps chauds, en échec, intolérants ou réticents aux corticoïdes.",
+ "inclusion": ["Âge > 18 ans", "AHAI à auto-anticorps chauds primitive avec test direct à l'antiglobuline positif", "Progression ou échec des corticoïdes, intolérance ou refus du traitement standard", "Absence de syndrome lymphoprolifératif ou de maladie auto-immune sous-jacente"],
+ "exclusion": ["Contre-indication aux médicaments de l'étude", "Cause secondaire d'AHAI identifiée", "Grossesse ou allaitement"],
+ "bras": [{"nom": "Ciclosporine", "traitement": "Ciclosporine 2,5 à 5 mg/kg par jour pendant 3 mois"}, {"nom": "Rituximab", "traitement": "Rituximab 375 mg/m² par semaine, 4 semaines maximum"}],
+ "duree": "3 mois",
+ "critere": "Proportions de réponse complète et de réponse partielle à 3 mois"
+}

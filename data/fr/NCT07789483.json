@@ -1,0 +1,27 @@
+{
+ "h": "6aeb2a7c8bc0",
+ "date": "2026-11-13",
+ "titre": "Extension ouverte de l'ALXN2220 dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "L'ALXN2220 est-il sûr, bien toléré et efficace à plus long terme chez les patients ayant terminé l'étude ALXN2220-ATTRCM-301 ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une maladie progressive due au dépôt myocardique de fibrilles de TTR. Elle conduit à l'insuffisance cardiaque et au décès. Les stabilisateurs de la TTR et les ARN interférents ralentissent la maladie, mais n'éliminent pas les dépôts. L'ALXN2220 est un anticorps monoclonal qui cible les dépôts de TTR et vise à en favoriser l'élimination.\n\nCette étude de phase 3 ouverte prolonge l'étude pivot ALXN2220-ATTRCM-301 (NCT06183931), randomisée contre placebo. Les patients qui ont terminé la période en aveugle de l'étude 301 reçoivent l'ALXN2220 en perfusion toutes les 4 semaines, en plus du traitement habituel. Le traitement dure de 12 à 24 mois, ou jusqu'à la disponibilité commerciale du médicament dans l'ATTR-CM. Le promoteur est Alexion, avec des centres français.",
+ "interet": "L'étude assure la continuité du traitement pour les participants à l'étude pivot, y compris ceux qui recevaient le placebo. Elle apportera des données de sécurité et d'efficacité à plus long terme sur un anticorps antidépôt.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine ayant terminé la période en aveugle de l'étude ALXN2220-ATTRCM-301.",
+ "inclusion": [
+  "Période de traitement en aveugle de l'étude 301 terminée (visite PC comprise)",
+  "Consentement écrit signé, par le participant ou son représentant légal",
+  "Contraception selon les exigences du protocole"
+ ],
+ "exclusion": [
+  "Arrêt définitif du traitement de l'étude 301",
+  "Retrait complet du consentement dans l'étude 301",
+  "Intolérance ou allergie connue ou suspectée aux protéines ou composants de l'ALXN2220",
+  "Transplantation cardiaque ou assistance ventriculaire permanente",
+  "Affection nouvelle ou aggravée pouvant compromettre la sécurité ou le suivi du protocole",
+  "Autre étude clinique ou médicament expérimental dans les 30 jours ou 5 demi-vies"
+ ],
+ "bras": [
+  {"nom": "ALXN2220", "traitement": "ALXN2220 en perfusion IV toutes les 4 semaines, 12 à 24 mois ; dose non précisée"}
+ ],
+ "duree": "12 à 24 mois, ou jusqu'à l'accès à la forme commercialisée",
+ "critere": "Pourcentage de participants ayant des événements indésirables survenus sous traitement, jusqu'à 24 mois."
+}

@@ -1,0 +1,14 @@
+{
+"h": "140477da6129",
+"date": "2026-11-13",
+"titre": "Sous-populations lymphocytaires chez des patients lupiques traités par télitacicept",
+"question": "Comment évoluent les sous-populations de cellules immunitaires du sang chez les patients lupiques actifs traités par télitacicept pendant 24 semaines ?",
+"contexte": "Le lupus érythémateux systémique actif reste difficile à contrôler malgré les corticoïdes, les antipaludéens et les immunosuppresseurs. Les lymphocytes B, les plasmocytes et les cytokines BLyS et APRIL qui assurent leur survie jouent un rôle central dans la production d'auto-anticorps.\n\nLe télitacicept est une protéine de fusion qui neutralise à la fois BLyS et APRIL. Il est utilisé en Chine dans le lupus systémique, et son effet sur les sous-populations immunitaires périphériques est encore peu décrit. Mieux connaître cette dynamique pourrait aider à comprendre le mécanisme d'action et à prédire la réponse.\n\nCette étude de cohorte monocentrique de phase 4, menée à l'hôpital Second Affiliated de l'Université du Zhejiang, inclut 50 patients lupiques actifs (SLEDAI-2K ≥ 8) sous traitement de fond stable. Ils reçoivent le télitacicept 160 mg par semaine pendant 24 semaines. Des prélèvements sanguins pour la cytométrie des sous-populations cellulaires et des données cliniques et biologiques sont recueillis avant le traitement, puis aux semaines 4, 12 et 24.",
+"interet": "Cette étude exploratoire documente l'effet immunologique du télitacicept dans la vie réelle et pourrait identifier des marqueurs cellulaires de réponse. Elle n'a pas de groupe comparateur.",
+"profil": "Des adultes de 18 à 65 ans atteints de lupus systémique actif (SLEDAI-2K ≥ 8) sous traitement de fond stable.",
+"inclusion": ["Lupus actif confirmé (au moins 4 critères ACR 1997), âge de 18 à 65 ans", "SLEDAI-2K ≥ 8 au dépistage", "Anticorps antinucléaires positifs dans les 6 derniers mois", "Traitement de fond stable depuis ≥ 28 jours (corticoïdes, antipaludéens, AINS, azathioprine, mycophénolate, cyclophosphamide, méthotrexate, léflunomide, tacrolimus, ciclosporine)", "Consentement écrit éclairé"],
+"exclusion": ["Néphrite lupique sévère (protéinurie > 6 g/24 h ou créatinine > 221 µmol/L), dialyse, ou prednisone ≥ 100 mg/jour pendant ≥ 14 jours", "Atteinte du système nerveux central dans les 8 semaines (épilepsie, psychose, AVC, encéphalite, vascularite cérébrale)", "ALAT/ASAT ≥ 2 N, clairance de la créatinine < 30 mL/min, leucocytes < 2,5×10⁹/L, hémoglobine < 85 g/L ou plaquettes < 50×10⁹/L", "Hépatite active ou antécédent hépatique grave, AgHBs positif ou ADN VHB positif", "Autres critères du protocole"],
+"bras": [{"nom": "Patients traités par télitacicept", "traitement": "Télitacicept 160 mg par voie sous-cutanée, une fois par semaine pendant 24 semaines"}],
+"duree": "24 semaines",
+"critere": "Variation des sous-populations de cellules immunitaires après 24 semaines de traitement."
+}

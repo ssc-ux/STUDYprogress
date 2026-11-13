@@ -1,0 +1,14 @@
+{
+ "h": "ce5ac40dc2fc",
+ "date": "2026-11-13",
+ "titre": "Extension ouverte de l'éfgartigimod sous-cutané dans le PTI primaire de l'adulte",
+ "question": "L'éfgartigimod PH20 sous-cutané est-il sûr et bien toléré au long cours chez les adultes atteints de PTI primaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps de type IgG détruisent les plaquettes et altèrent leur production. Les traitements usuels (corticoïdes, immunoglobulines, agonistes de la TPO, rituximab, splénectomie) laissent une partie des patients sans réponse durable ou avec des effets indésirables.\n\nL'éfgartigimod est un fragment Fc d'IgG humaine modifié qui bloque le récepteur Fc néonatal (FcRn). Il accélère le catabolisme des IgG, y compris des auto-anticorps pathogènes. La formulation sous-cutanée associée à la hyaluronidase PH20 permet une administration plus simple que la perfusion.\n\nCet essai ADVANCE SC+ de phase 3, promu par argenx, est une extension ouverte et monobras de l'étude ARGX-113-2004. Elle est destinée aux participants ayant terminé la période de 24 semaines. Le traitement dure 52 semaines, avec jusqu'à trois prolongations de 52 semaines supplémentaires, tant que le produit n'est pas disponible par ailleurs. Le critère principal porte sur la sécurité.",
+ "interet": "Ces données de sécurité à long terme sont nécessaires pour juger la place d'un anti-FcRn sous-cutané dans le PTI, notamment en cas de traitement prolongé, et pour documenter la tolérance sur plusieurs années.",
+ "profil": "Des adultes atteints de PTI primaire ayant terminé les 24 semaines de l'essai ARGX-113-2004.",
+ "inclusion": ["Participation à l'essai ARGX-113-2004 et fin de ses 24 semaines", "Capacité à comprendre l'essai, consentement écrit, respect des visites", "Contraception conforme à la réglementation locale", "Pour une prolongation : période de traitement de 52 semaines terminée"],
+ "exclusion": ["Médicaments non autorisés pendant l'essai ARGX-113-2004 (anti-CD20, romiplostim, anticorps monoclonaux, protéines de fusion Fc, vaccins vivants)", "Autre médicament ou essai expérimental", "Hypersensibilité connue à l'éfgartigimod PH20 SC ou à ses excipients", "Grossesse ou allaitement, ou projet de grossesse dans les 90 jours suivant la dernière dose"],
+ "bras": [{"nom": "Éfgartigimod PH20 SC", "traitement": "Éfgartigimod alfa avec hyaluronidase humaine recombinante PH20, par voie sous-cutanée ; dose et rythme non précisés"}],
+ "duree": "Jusqu'à 4 ans (52 semaines, extensible 3 fois) plus 8 semaines de suivi",
+ "critere": "Incidence des événements indésirables (dont graves et d'intérêt particulier), paramètres vitaux, ECG et biologie de sécurité, jusqu'à 216 semaines"
+}

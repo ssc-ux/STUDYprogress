@@ -1,0 +1,25 @@
+{
+ "h": "c243dc8cab90",
+ "date": "2026-11-13",
+ "titre": "Extension en ouvert du fostamatinib dans l'anémie hémolytique auto-immune à anticorps chauds",
+ "question": "Le fostamatinib est-il bien toléré à long terme chez les patients atteints d'anémie hémolytique auto-immune à anticorps chauds ayant terminé l'étude principale ?",
+ "contexte": "L'anémie hémolytique auto-immune à anticorps chauds (AHAI) est due à des auto-anticorps, le plus souvent IgG, qui provoquent la destruction des globules rouges par les macrophages. La corticothérapie est le traitement de première ligne, mais les rechutes sont fréquentes. Le rituximab, les immunosuppresseurs et la splénectomie sont utilisés ensuite, avec des limites de tolérance et d'efficacité.\n\nLe fostamatinib est un inhibiteur oral de la tyrosine kinase SYK, impliquée dans la phagocytose médiée par les récepteurs Fc. Il est approuvé dans le PTI chronique. Cette étude est l'extension ouverte de l'essai de phase 3 C-935788-057 (24 semaines). Elle évalue la sécurité à long terme du fostamatinib. Les répondeurs de l'étude principale poursuivent leur dose, les autres débutent à 100 mg deux fois par jour, avec augmentation possible à 150 mg deux fois par jour à partir de la semaine 4 si le médicament est bien toléré. Le promoteur est Rigel Pharmaceuticals ; 90 participants sont prévus.",
+ "interet": "Elle fournit les données de tolérance à long terme qui accompagnent une demande d'indication dans l'AHAI. Elle renseigne aussi sur le profil de sécurité (tension, neutrophiles) en usage prolongé.",
+ "profil": "Des adultes atteints d'anémie hémolytique auto-immune à anticorps chauds, ayant terminé les 24 semaines de l'étude C-935788-057.",
+ "inclusion": [
+  "Consentement éclairé écrit",
+  "Avoir terminé les 24 semaines de l'étude C-935788-057",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Arrêt de l'étude C-935788-057 avant la semaine 24"
+ ],
+ "bras": [
+  {
+   "nom": "Fostamatinib",
+   "traitement": "Fostamatinib par voie orale : dose de la semaine 22 de l'étude principale pour les répondeurs, sinon 100 mg deux fois par jour, avec passage possible à 150 mg deux fois par jour dès la semaine 4"
+  }
+ ],
+ "duree": "104 semaines",
+ "critere": "Événements indésirables, tension artérielle et polynucléaires neutrophiles sur 104 semaines"
+}

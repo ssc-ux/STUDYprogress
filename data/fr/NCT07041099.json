@@ -1,0 +1,37 @@
+{
+ "h": "cc5cfa5e9eef",
+ "date": "2026-11-13",
+ "titre": "CLN-978, engageur de lymphocytes T anti-CD19, dans la maladie de Sjögren",
+ "question": "Le CLN-978 sous-cutané est-il sûr et bien toléré chez des patients atteints de syndrome de Sjögren actif ?",
+ "contexte": "Le syndrome de Sjögren primitif est une maladie auto-immune systémique, caractérisée par une sécheresse oculaire et buccale, une fatigue, et des manifestations extra-glandulaires qui peuvent être sévères. Les lymphocytes B sont au cœur de la physiopathologie, avec une hypergammaglobulinémie et des auto-anticorps anti-SSA/SSB. Il n'existe pas de traitement de fond validé ; les immunosuppresseurs et le rituximab ont des résultats inconstants.\n\nLes engageurs de lymphocytes T (T cell engagers) dirigés contre CD19 recrutent les lymphocytes T du patient pour détruire les lymphocytes B, avec une déplétion potentiellement plus profonde que les anticorps anti-CD20. Ils offrent une approche d'inspiration CAR-T sans thérapie cellulaire personnalisée. Le CLN-978, développé par Cullinan Therapeutics, est administré par voie sous-cutanée.\n\nCet essai de phase 1b ouvert est séquentiel, avec une partie A d'escalade de dose et une partie B d'évaluation de doses supplémentaires. Il inclut 36 adultes atteints de Sjögren modéré à sévère (ESSDAI ≥ 5), dans 14 centres de 4 pays.",
+ "interet": "Ce premier essai chez l'humain dans le Sjögren permettra de définir la tolérance et les doses utiles du CLN-978. Il ne permet pas de conclure sur l'efficacité. Les risques attendus de cette classe (syndrome de relargage cytokinique, infections) seront suivis de près.",
+ "profil": "Des adultes atteints de syndrome de Sjögren actif, modéré à sévère (ESSDAI ≥ 5).",
+ "inclusion": [
+  "Syndrome de Sjögren diagnostiqué depuis au moins 24 semaines (critères EULAR/ACR 2016)",
+  "Maladie active modérée à sévère : ESSDAI ≥ 5",
+  "Lymphocytes ≥ 0,5 G/L et lymphocytes B CD19+ ≥ 25/µL",
+  "Neutrophiles ≥ 1,0 G/L, hémoglobine ≥ 8 g/dL, plaquettes ≥ 75 G/L",
+  "Bilirubine ≤ 1,5 N, ASAT/ALAT ≤ 2 N, DFG ≥ 30 mL/min/1,73 m²"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune rhumatologique associée",
+  "Risque élevé de thrombose",
+  "Glomérulonéphrite rapidement progressive ou protéinurie/créatininurie > 3 mg/mg",
+  "Atteinte sévère active du système nerveux central ; antécédent d'AVC, d'épilepsie, de démence ou d'autre trouble neurologique à risque",
+  "Infection par VHB, VHC, VIH, EBV ou CMV, ou tuberculose active ou latente",
+  "Déficit immunitaire primitif, infections récurrentes ou splénectomie",
+  "Vaccin vivant dans les 28 jours, infection active significative dans les 14 jours"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A : escalade de dose",
+   "traitement": "CLN-978 par voie sous-cutanée à doses croissantes selon les cohortes"
+  },
+  {
+   "nom": "Partie B : évaluation de doses supplémentaires",
+   "traitement": "CLN-978 par voie sous-cutanée à la ou aux doses retenues (non précisées)"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Sécurité et tolérance, sur 48 semaines"
+}

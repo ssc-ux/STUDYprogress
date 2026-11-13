@@ -1,0 +1,38 @@
+{
+ "h": "b9c1034fc482",
+ "date": "2026-11-13",
+ "titre": "Depemokimab versus mépolizumab dans la granulomatose éosinophilique avec polyangéite récidivante ou réfractaire",
+ "question": "Le depemokimab, administré à intervalle espacé, est-il non inférieur au mépolizumab pour obtenir la rémission de l'EGPA à 52 semaines ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) est une vascularite des petits vaisseaux associée à de l'asthme et à une hyperéosinophilie. Elle expose à des rechutes et à une corticodépendance prolongée, source de complications. Le mépolizumab, anticorps anti-IL-5 administré tous les mois, est approuvé dans l'EGPA et améliore la rémission.\n\nLe depemokimab est un anticorps anti-IL-5 à demi-vie longue, conçu pour une administration sous-cutanée espacée, tous les 6 mois dans l'asthme éosinophilique. Cette étude de phase 3, en double aveugle et double placebo, compare le depemokimab au mépolizumab dans un schéma de non-infériorité sur 52 semaines. Elle inclut des adultes ayant une EGPA récidivante ou réfractaire, sous corticoïdes à dose stable avec ou sans immunosuppresseur. Le promoteur est GlaxoSmithKline ; 163 participants ont été inclus.",
+ "interet": "Si la non-infériorité est démontrée, le depemokimab pourrait réduire le nombre d'injections par an dans l'EGPA, avec un bénéfice potentiel en observance. L'essai éclairera aussi la place des anti-IL-5 à action prolongée.",
+ "profil": "Des adultes atteints d'EGPA documentée depuis au moins 6 mois, récidivante ou réfractaire, sous corticoïdes oraux stables.",
+ "inclusion": [
+  "Âge ≥ 18 ans, poids ≥ 40 kg",
+  "EGPA documentée depuis ≥ 6 mois (asthme, éosinophilie et au moins 2 autres signes)",
+  "Maladie récidivante ou réfractaire",
+  "Prednisolone ou prednisone ≥ 7,5 mg/j (≤ 50 mg/j) stable depuis 4 semaines",
+  "Immunosuppresseur éventuel (hors cyclophosphamide) à dose stable",
+  "Contraception efficace pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "GPA ou polyangéite microscopique",
+  "EGPA menaçant un organe (critères EULAR) ou le pronostic vital dans les 3 mois",
+  "Cancer actuel ou en rémission depuis moins de 12 mois",
+  "Anomalies hépatiques ou maladie hépatique ou biliaire instable",
+  "Maladie cardiovasculaire sévère non contrôlée",
+  "Infection chronique active, parasitose récente, immunodéficience dont VIH",
+  "COVID-19 actif ou contact récent"
+ ],
+ "bras": [
+  {
+   "nom": "Depemokimab",
+   "traitement": "Depemokimab sous-cutané (schéma non précisé) avec placebo du mépolizumab"
+  },
+  {
+   "nom": "Mépolizumab",
+   "traitement": "Mépolizumab sous-cutané avec placebo du depemokimab"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients en rémission (BVAS = 0 et corticoïdes oraux ≤ 4 mg/j) jusqu'à la semaine 52"
+}

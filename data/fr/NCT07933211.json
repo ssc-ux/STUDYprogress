@@ -1,0 +1,49 @@
+{
+ "h": "e02dd66dc910",
+ "date": "2026-11-13",
+ "titre": "ABBV-2294 (ABBV-722 et upadacitinib) dans la sclérodermie systémique",
+ "question": "L'association ABBV-2294 améliore-t-elle la réponse composite rCRISS-25 à 52 semaines chez des adultes atteints de sclérodermie systémique, et quelle est la dose à retenir ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare caractérisée par une production excessive de collagène. Elle entraîne une induration cutanée et une atteinte d'organes (poumon, cœur, rein, tube digestif). Les traitements disponibles ciblent surtout certaines manifestations, comme l'atteinte pulmonaire interstitielle, et aucun ne modifie à lui seul l'ensemble de l'évolution de la maladie.\n\nL'ABBV-2294 associe l'ABBV-722 et l'upadacitinib, un inhibiteur de JAK déjà utilisé dans d'autres maladies inflammatoires. Le registre ne détaille pas la cible de l'ABBV-722. Le rationnel est d'agir sur plusieurs voies inflammatoires et fibrosantes à la fois.\n\nCet essai de phase 2/3 d'AbbVie, randomisé et en triple insu, comporte deux parties. La partie 1 compare deux doses d'ABBV-2294, l'ABBV-722 seul, l'upadacitinib seul et un placebo, pour évaluer la sécurité et l'efficacité et choisir la dose. La partie 2 compare la dose retenue au placebo. Il inclut environ 580 adultes sous traitement standard local, remplissant les critères ACR/EULAR 2013.",
+ "interet": "L'étude pourrait montrer si une association ciblée améliore l'évolution globale de la ScS, mesurée par un indice composite. Elle permettrait aussi d'isoler la contribution de chaque composant par rapport à l'association.",
+ "profil": "Des adultes atteints de sclérodermie systémique (critères ACR/EULAR 2013) sous traitement standard local.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Critères de classification ACR/EULAR 2013 de la sclérodermie systémique",
+  "Consentement éclairé signé, capacité à le donner librement",
+  "Volonté et capacité de respecter les procédures du protocole"
+ ],
+ "exclusion": [
+  "Autre connectivite, syndrome de chevauchement ou imitation de ScS (scléromyxœdème, fasciite à éosinophiles), sauf myopathie sclérodermique et syndrome de Sjögren associé",
+  "CVF prédite < 45 % ou DLCO corrigée < 25 %",
+  "Crise rénale sclérodermique dans les 6 derniers mois",
+  "Antécédent d'estomac pastèque (ectasies vasculaires antrales sévères)"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1, ABBV-2294 dose 1",
+   "traitement": "ABBV-2294 (ABBV-722 + upadacitinib), dose 1"
+  },
+  {
+   "nom": "Partie 1, ABBV-2294 dose 2",
+   "traitement": "ABBV-2294 (ABBV-722 + upadacitinib), dose 2"
+  },
+  {
+   "nom": "Partie 1, ABBV-722",
+   "traitement": "ABBV-722 seul"
+  },
+  {
+   "nom": "Partie 1, upadacitinib",
+   "traitement": "Upadacitinib seul"
+  },
+  {
+   "nom": "Partie 1, placebo",
+   "traitement": "Placebo"
+  },
+  {
+   "nom": "Partie 2",
+   "traitement": "Dose retenue d'ABBV-2294 contre placebo (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "Jusqu'à 112 semaines",
+ "critere": "Réponse rCRISS-25 (Revised Composite Response Index in Systemic Sclerosis) à la semaine 52 et nombre de participants avec événements indésirables (jusqu'à 112 semaines)."
+}

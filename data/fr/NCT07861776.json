@@ -1,0 +1,37 @@
+{
+ "h": "7a90678ce899",
+ "date": "2026-11-13",
+ "titre": "Dexaméthasone ou immunoglobulines IV dans la LHH secondaire à une infection de l'adulte",
+ "question": "Une courte cure de dexaméthasone IV est-elle aussi efficace que les immunoglobulines IV dans la LHH secondaire à une infection chez l'adulte ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire secondaire (LHH) est un syndrome hyperinflammatoire fréquemment déclenché par une infection. Chez l'adulte, sa prise en charge s'appuie surtout sur des protocoles pédiatriques anciens et sur des études rétrospectives. Il n'existe pas d'essai randomisé guidant l'immunomodulation de première intention dans les formes infectieuses.\n\nEn présence d'une infection, les immunoglobulines IV (IgIV) sont souvent préférées aux corticoïdes, par crainte d'aggraver l'infection. Elles sont toutefois coûteuses et peu accessibles dans les pays à ressources limitées. La dexaméthasone IV en cure courte est peu chère et largement disponible, mais son efficacité comparée aux IgIV n'a pas été établie. Cet essai de phase 3 randomisé en groupes parallèles, promu par le PGIMER de Chandigarh avec le soutien de l'ICMR, compare les deux stratégies sur 116 adultes. Tous reçoivent le traitement antimicrobien ciblé et les soins de support. L'étude n'a pas encore débuté son recrutement.",
+ "interet": "Si la dexaméthasone s'avère comparable aux IgIV, elle pourrait devenir une option de première intention accessible et peu coûteuse, notamment en contexte de ressources limitées.",
+ "profil": "Des adultes atteints de LHH secondaire à une infection documentée, avec un score HScore élevé.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "HScore correspondant à une probabilité ≥ 80 %",
+  "Étiologie microbiologique connue",
+  "LHH légère non répondeuse au traitement anti-infectieux ciblé (> 72 h)",
+  "LHH légère avec nouvelle défaillance d'organe, ou LHH modérée à sévère avec défaillance menaçant le pronostic vital"
+ ],
+ "exclusion": [
+  "LHH primaire (familiale)",
+  "LHH associée à un cancer, à une maladie auto-immune ou à l'EBV",
+  "Grossesse",
+  "Immunomodulateur reçu dans les 2 mois précédents",
+  "Infection par le VIH",
+  "Hépatopathie ou néphropathie chronique",
+  "Hypersensibilité aux IgIV ou à la dexaméthasone"
+ ],
+ "bras": [
+  {
+   "nom": "IgIV (comparateur actif)",
+   "traitement": "Immunoglobulines intraveineuses, plus traitement antimicrobien ciblé et soins standard (dose non précisée)"
+  },
+  {
+   "nom": "Dexaméthasone IV (expérimental)",
+   "traitement": "Dexaméthasone intraveineuse en cure courte, plus traitement antimicrobien ciblé et soins standard (dose non précisée)"
+  }
+ ],
+ "duree": "4 semaines (suivi au-delà non précisé)",
+ "critere": "Rémission clinique et normalisation des cytokines associées à la LHH à 4 semaines."
+}

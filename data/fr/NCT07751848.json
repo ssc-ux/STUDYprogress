@@ -1,0 +1,28 @@
+{
+ "h": "550eafa2d5e4",
+ "date": "2026-11-13",
+ "titre": "Anifrolumab chez des patients chinois atteints de lupus systémique actif modéré à sévère",
+ "question": "Quelle proportion de patients chinois atteints de lupus actif atteint une rémission DORIS à 52 semaines sous anifrolumab avec décroissance systématique des corticoïdes ?",
+ "contexte": "Le lupus systémique (LES) modéré à sévère reste difficile à contrôler. Les corticoïdes, encore largement utilisés, exposent à des atteintes d'organes cumulatives, et les recommandations actuelles visent la rémission ou une faible activité avec la dose de corticoïdes la plus basse possible.\n\nL'anifrolumab est un anticorps monoclonal dirigé contre le récepteur de l'interféron de type I. Il est indiqué chez l'adulte atteint de LES actif sous traitement standard. Les données de vie réelle sur la rémission et sur le sevrage des corticoïdes, notamment en population chinoise, restent à compléter.\n\nLOTUS est une étude de phase 3b, multicentrique, ouverte et à bras unique, promue par AstraZeneca. Elle inclut environ 417 patients chinois de 18 à 70 ans atteints de LES actif (SLEDAI-2K ≥ 6) malgré un traitement standard conforme aux recommandations chinoises 2025. L'anifrolumab est administré en intraveineuse sur 48 semaines, avec une décroissance systématique des corticoïdes. L'étude décrit la rémission obtenue, la réduction et l'arrêt des corticoïdes, la tolérance et les résultats rapportés par les patients.",
+ "interet": "L'étude pourrait montrer, en situation proche de la pratique, si l'anifrolumab associé à une décroissance structurée des corticoïdes permet la rémission et le sevrage en corticoïdes. Elle fournirait des données utiles pour la prise en charge du lupus en Chine.",
+ "profil": "Des adultes chinois de 18 à 70 ans atteints de lupus systémique actif modéré à sévère malgré un traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, consentement signé",
+  "Lupus systémique selon les critères EULAR/ACR 2019, confirmé par un rhumatologue",
+  "ANA ≥ 1:80, ou anti-ADN natif ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 6 (ou SLEDAI-2K clinique ≥ 4)",
+  "Évaluation globale du médecin (PGA) ≥ 1,0 sur 3",
+  "Traitement standard en cours (corticoïdes, antipaludéens ou immunosuppresseurs, seuls ou associés)"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab",
+   "traitement": "Dose fixe par voie intraveineuse, 13 administrations de la semaine 0 à la semaine 48, avec décroissance des corticoïdes"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients en rémission DORIS à la semaine 52."
+}

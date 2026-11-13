@@ -1,0 +1,37 @@
+{
+ "h": "3e33eb782ea0",
+ "date": "2026-11-13",
+ "titre": "MAS825 dans les maladies auto-inflammatoires monogéniques liées à l'IL-18",
+ "question": "Le MAS825 prévient-il les poussées des maladies auto-inflammatoires monogéniques dépendantes de l'IL-18 (NLRC4-GOF, déficit en XIAP, mutations CDC42) ?",
+ "contexte": "Certaines maladies auto-inflammatoires monogéniques rares sont dominées par une production excessive d'IL-18 : le syndrome d'auto-inflammation avec entérocolite infantile (gain de fonction de NLRC4), le déficit en XIAP et les mutations de CDC42. Elles s'accompagnent d'une inflammation systémique chronique, de poussées et d'un risque de syndrome d'activation macrophagique (SAM), parfois mortel. Le diagnostic est génétique.\n\nLe traitement repose sur des corticoïdes, des anti-IL-1, la ciclosporine ou, pour le déficit en XIAP, la greffe de cellules souches. Les anti-IL-1 sont souvent insuffisants, car l'IL-18 reste active. Le MAS825 est un anticorps bispécifique anti-IL-1β et anti-IL-18 de Novartis. Il est déjà utilisé en accès compassionnel dans ces maladies.\n\nMASter-1 est une étude de phase 2 en trois périodes : traitement ouvert par MAS825, puis retrait randomisé en double insu contre placebo (1:1, jusqu'à 6 mois), puis suivi de sécurité ouvert à long terme. Elle inclut 17 patients dès 3 kg, dans 7 pays dont la France. Une seconde cohorte accueille des patients déjà traités par MAS825 en accès compassionnel. La durée totale atteint environ 11 ans.",
+ "interet": "Dans des maladies ultra-rares sans traitement validé, le retrait randomisé permet de démontrer l'effet du MAS825 sur les poussées malgré un très faible effectif. Les résultats guideraient l'accès à un traitement ciblant l'IL-18.",
+ "profil": "Des enfants et adultes (≥ 3 kg) atteints d'une maladie auto-inflammatoire monogénique liée à l'IL-18 : NLRC4-GOF, déficit en XIAP ou mutation de CDC42.",
+ "inclusion": [
+  "Poids ≥ 3 kg, consentement des parents ou du patient selon l'âge",
+  "Cohorte 1 : diagnostic génétique de NLRC4-GOF, de déficit en XIAP ou de mutation de CDC42",
+  "Tableau clinique compatible ; déficit en XIAP persistant ou résistant au traitement",
+  "Maladie active (marqueurs inflammatoires et évaluation globale du médecin) au premier traitement",
+  "Cohorte 2 : patients traités par MAS825 en programme d'accès compassionnel avec le diagnostic génétique requis"
+ ],
+ "exclusion": [
+  "Hypersensibilité aux produits de l'étude ou à une classe voisine",
+  "Infection active cliniquement significative (hors EBV chronique)",
+  "Traitement antérieur par antirejet ou immunomodulateur dans les 28 jours (hors corticoïdes, ciclosporine, thérapies ciblées)",
+  "VIH, hépatite B ou C, ou tuberculose positifs au dépistage",
+  "Vaccin vivant dans le mois précédent et pendant 3 mois après la dernière dose",
+  "Grossesse ou allaitement, absence de contraception efficace, poids > 160 kg",
+  "Mutation CDC42 associée au syndrome de Takenouchi-Kosaki"
+ ],
+ "bras": [
+  {
+   "nom": "MAS825",
+   "traitement": "MAS825 en ouvert (période 1), puis MAS825 randomisé en période 2 (dose et voie non précisées)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique en période 2 (retrait randomisé, 1:1)"
+  }
+ ],
+ "duree": "Jusqu'à environ 11 ans au total",
+ "critere": "Survenue d'une poussée de la maladie pendant la période 2 (jusqu'à 6 mois), évaluée par l'évaluation globale du médecin et les marqueurs inflammatoires, MAS825 contre placebo"
+}

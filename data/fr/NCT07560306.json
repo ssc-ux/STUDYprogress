@@ -1,0 +1,33 @@
+{
+ "h": "39213c4c8df0",
+ "date": "2026-11-13",
+ "titre": "TEP au [64Cu]FBP8 pour détecter un thrombus intracardiaque dans l'amylose cardiaque",
+ "question": "Le traceur TEP [64Cu]FBP8, associé à une TEP/IRM cardiaque, détecte-t-il les thrombi intracardiaques chez des patients atteints d'amylose cardiaque et de fibrillation atriale ?",
+ "contexte": "L'amylose cardiaque, à transthyrétine (ATTR) ou à chaînes légères (AL), s'accompagne fréquemment de fibrillation ou de flutter atrial. Le risque thromboembolique y est élevé : des thrombi de l'auricule gauche surviennent même sous anticoagulation, et les scores usuels de risque (CHA₂DS₂-VASc) sont peu fiables. Le diagnostic repose sur l'échographie transœsophagienne (ETO), invasive et parfois mal tolérée.\n\n[64Cu]FBP8 est un traceur TEP qui se fixe à la fibrine, composant du thrombus. Associé à une TEP/IRM cardiaque hybride simultanée, il pourrait détecter un thrombus de façon non invasive. Cette étude pilote de phase 3 monocentrique, promue par le Brigham and Women's Hospital, inclut 20 patients avec amylose cardiaque et fibrillation ou flutter atrial. L'ETO sert de référence, réalisée dans les 14 jours précédents ou à venir. L'hypothèse est que la TEP/IRM identifie plus de 90 % des thrombi confirmés à l'ETO.",
+ "interet": "Une détection non invasive des thrombi permettrait d'adapter l'anticoagulation chez les patients amyloïdes. Les résultats d'une étude pilote de 20 patients devront être confirmés.",
+ "profil": "Des adultes atteints d'amylose cardiaque (ATTR ou AL) avec fibrillation ou flutter atrial.",
+ "inclusion": [
+  "Capacité à donner un consentement écrit",
+  "Antécédent d'amylose cardiaque (ATTR-CM ou AL-CM)",
+  "Antécédent de fibrillation ou de flutter atrial",
+  "ETO de l'auricule gauche dans les 14 jours précédents (rétrospectif) ou prévue dans les 14 jours (prospectif)",
+  "Délai de 72 heures entre l'ETO et la TEP/IRM si l'anticoagulation est modifiée"
+ ],
+ "exclusion": [
+  "Dispositif électrique implanté (stimulateur, défibrillateur, pompe, neurostimulateur)",
+  "Grossesse ou allaitement",
+  "Claustrophobie ; incapacité à rester allongé dans la machine",
+  "Exposition aux rayonnements dépassant les limites du service (50 mSv sur 12 mois)",
+  "Poids supérieur à la limite de la table d'IRM (> 136 kg)",
+  "Implants métalliques ou électriques incompatibles avec l'IRM",
+  "Participant sous la supervision de l'investigateur principal"
+ ],
+ "bras": [
+  {
+   "nom": "TEP/IRM [64Cu]FBP8",
+   "traitement": "Injection du traceur [64Cu]FBP8 puis TEP/IRM cardiaque hybride"
+  }
+ ],
+ "duree": "Un jour d'imagerie (plus l'ETO de référence)",
+ "critere": "Détection d'un thrombus intracardiaque par la TEP/IRM [64Cu]FBP8, comparée à l'ETO, le jour de l'examen."
+}

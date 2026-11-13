@@ -1,0 +1,35 @@
+{
+ "h": "d244a38dfe18",
+ "date": "2026-11-13",
+ "titre": "Golidocitinib en monothérapie dans le lymphohistiocytose hémophagocytaire",
+ "question": "Le golidocitinib seul permet-il d'obtenir une réponse dans la lymphohistiocytose hémophagocytaire (LHH) nouvellement diagnostiquée ou réfractaire/en rechute ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire est un syndrome d'hyperinflammation lié à une activation incontrôlée des lymphocytes T cytotoxiques et des macrophages. Elle associe fièvre, cytopénies, hyperferritinémie et atteinte d'organes, et reste grevée d'une forte mortalité. Le traitement de référence repose sur la dexaméthasone et l'étoposide (protocole HLH-94/2004), avec une greffe allogénique de cellules souches pour les formes familiales ou persistantes.\n\nLes patients réfractaires, en rechute ou inéligibles à la greffe disposent de peu d'options. La voie JAK/STAT contrôle la signalisation de nombreuses cytokines impliquées dans la LHH (interféron gamma, IL-6, IL-2), et le ruxolitinib, inhibiteur de JAK1/2, a montré une activité dans plusieurs séries. Le golidocitinib est un inhibiteur sélectif de JAK1, administré par voie orale. Cet essai de phase 2/3 monocentrique, à bras unique, est promu par l'hôpital Beijing Friendship et teste le golidocitinib en monothérapie. Il n'y a pas de comparateur, et l'effectif prévu est de 28 patients.",
+ "interet": "Si le golidocitinib induit des réponses, il pourrait offrir une option orale ciblée aux patients atteints de LHH qui ne peuvent pas être greffés. Le schéma à bras unique ne permettra toutefois qu'un premier signal d'activité.",
+ "profil": "Des patients de 14 à 70 ans atteints de LHH nouvellement diagnostiquée ou réfractaire/en rechute, non éligibles à une allogreffe pour le moment.",
+ "inclusion": [
+  "LHH nouvellement diagnostiquée ou réfractaire/en rechute",
+  "Diagnostic de LHH : diagnostic moléculaire de LHH primaire ou au moins 5 critères HLH-2004 sur 8",
+  "Non éligible ou dans l'incapacité de recevoir une allogreffe",
+  "Survie estimée supérieure à 1 mois",
+  "Âge de 14 à 70 ans",
+  "Bilirubine ≤ 10 x la normale, créatinine ≤ 1,5 x la normale, FEVG ≥ 50 %",
+  "Sérologie VIH négative ; hépatites B et C négatives ou charge virale basse"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque NYHA ≥ II",
+  "Grossesse, allaitement ou refus de contraception",
+  "Allergie au golidocitinib",
+  "Hémorragie viscérale active",
+  "Infection non contrôlée",
+  "Maladie psychiatrique sévère",
+  "Antécédent de cancer cutané non mélanique"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de LHH",
+   "traitement": "Golidocitinib en monothérapie (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "Suivi de 8 semaines après le début du traitement, au minimum (durée totale non précisée)",
+ "critere": "Réponse au traitement, évaluée aux semaines 2, 4, 6 et 8 après le début du traitement."
+}

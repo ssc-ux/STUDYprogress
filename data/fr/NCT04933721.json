@@ -1,0 +1,26 @@
+{
+ "h": "910c69e86861",
+ "date": "2026-11-13",
+ "titre": "Accès ouvert au bérotralstat pour les patients atteints d'angiœdème héréditaire déjà inclus dans des études",
+ "question": "Quelle est la sécurité à long terme du bérotralstat chez des patients atteints d'angiœdème héréditaire déjà traités dans des études antérieures ?",
+ "contexte": "L'angiœdème héréditaire (AOH) est une maladie rare, le plus souvent due à un déficit en inhibiteur de la C1 estérase. Elle se traduit par des crises récurrentes d'œdème sous-cutané, digestif ou laryngé. Le traitement de fond vise à réduire leur fréquence et leur gravité, et comprend des options injectables et orales.\n\nLe bérotralstat est un inhibiteur oral de la kallicréine plasmatique, pris une fois par jour. Il est autorisé pour la prévention des crises chez l'adulte et l'adolescent, et a été étudié dans plusieurs essais de BioCryst, dont les études 204, 302 et 304 citées dans cette étude. Cette étude de phase 3b, ouverte, offre la poursuite du traitement aux patients de ces études, y compris des enfants (granulés pour les plus jeunes). Elle recueille aussi des données de sécurité à très long terme. Le promoteur est BioCryst Pharmaceuticals, avec des centres français.",
+ "interet": "L'étude garantit la continuité du traitement des patients déjà traités par bérotralstat. Elle fournira des données de sécurité jusqu'à 240 semaines, dont chez l'enfant.",
+ "profil": "Des enfants, adolescents et adultes (à partir de 2 ans) atteints d'angiœdème héréditaire, ayant participé à une étude du bérotralstat.",
+ "inclusion": [
+  "Participation en cours à une étude BioCryst sur le bérotralstat (302, 204 ou 304)",
+  "Consentement écrit du patient ou de son représentant légal (< 18 ans)",
+  "Patient susceptible de tirer bénéfice de la poursuite du bérotralstat",
+  "Contraception efficace acceptable"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Toute situation, y compris des antécédents, jugée incompatible avec la sécurité ou la participation par l'investigateur ou le promoteur",
+  "Autre traitement de fond de l'AOH à l'inclusion ou pendant l'étude",
+  "Autre médicament expérimental à l'inclusion ou pendant l'étude"
+ ],
+ "bras": [
+  {"nom": "Bérotralstat", "traitement": "Bérotralstat (BCX7353) par voie orale, une fois par jour, en gélules ou en granulés"}
+ ],
+ "duree": "240 semaines",
+ "critere": "Nombre et proportion de participants ayant un événement indésirable lié au traitement (liste complète de critères de sécurité, notamment événements graves et anomalies biologiques de grade 3 ou 4), sur 240 semaines."
+}

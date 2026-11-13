@@ -1,0 +1,36 @@
+{
+ "h": "e14f51216c20",
+ "date": "2026-11-13",
+ "titre": "Télitacicept en traitement d'entretien des vascularites à ANCA",
+ "question": "Le télitacicept associé à l'azathioprine réduit-il les rechutes par rapport à l'azathioprine seule en entretien d'une vascularite à ANCA ?",
+ "contexte": "Dans les vascularites associées aux ANCA (GPA et PAM), l'entretien après induction par glucocorticoïdes et rituximab repose sur le rituximab répété ou l'azathioprine. Les rechutes restent fréquentes, en particulier chez les patients anti-PR3, ce qui expose à une toxicité cumulée des traitements.\n\nLe télitacicept est une protéine de fusion qui neutralise BLyS (BAFF) et APRIL, deux cytokines essentielles à la survie des lymphocytes B et des plasmocytes. Il est approuvé en Chine dans le lupus, et testé dans d'autres maladies auto-immunes. Ce rationnel justifie une évaluation dans les vascularites à ANCA, où les lymphocytes B producteurs d'ANCA jouent un rôle central.\n\nCet essai randomisé, ouvert et monocentrique, promu par le Chinese SLE Treatment And Research Group, inclut 40 adultes de 18 à 65 ans en rémission complète après glucocorticoïdes et rituximab. Il compare azathioprine avec ou sans télitacicept 160 mg par semaine pendant 12 mois.",
+ "interet": "Il pourrait montrer si une cible BAFF/APRIL apporte un bénéfice en entretien. L'effectif est faible et l'étude monocentrique, ce qui limite sa portée.",
+ "profil": "Des adultes de 18 à 65 ans atteints de GPA ou PAM en rémission après glucocorticoïdes et rituximab.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "GPA ou PAM récents ou en rechute (critères ACR/EULAR 2022)",
+  "Rémission complète (BVAS 0) après glucocorticoïdes et rituximab, prednisone inférieure ou égale à 10 mg/jour",
+  "ANCA positifs au diagnostic ou pendant l'évolution"
+ ],
+ "exclusion": [
+  "Mutation du gène TPMT",
+  "Rechute sous azathioprine ou arrêt de l'azathioprine pour intolérance",
+  "Projet de grossesse dans les 18 mois",
+  "Insuffisance hépatique sévère, insuffisance cardiaque ou insuffisance rénale terminale",
+  "Hypertension ou diabète sévères non contrôlés, infection bactérienne ou fongique active",
+  "Hépatite virale ou mycobactérie active",
+  "Autre maladie auto-immune ou cancer"
+ ],
+ "bras": [
+  {
+   "nom": "Azathioprine seule",
+   "traitement": "Azathioprine 100 mg/jour pendant 12 mois avec prednisone inférieure ou égale à 10 mg/jour, décroissante, et cotrimoxazole"
+  },
+  {
+   "nom": "Azathioprine et télitacicept",
+   "traitement": "Télitacicept 160 mg par semaine avec azathioprine 100 mg/jour pendant 12 mois, prednisone inférieure ou égale à 10 mg/jour, et cotrimoxazole"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Délai de première rechute pendant 12 mois de suivi."
+}

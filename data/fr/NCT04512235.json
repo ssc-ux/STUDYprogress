@@ -1,0 +1,35 @@
+{
+ "h": "ec0e0761dbde",
+ "date": "2026-11-13",
+ "titre": "CAEL-101 associé à CyBorD dans l'amylose AL cardiaque de stade Mayo IIIa",
+ "question": "Le CAEL-101, anticorps éliminant les dépôts amyloïdes, améliore-t-il la survie et réduit-il les hospitalisations cardiovasculaires dans l'amylose AL de stade IIIa ?",
+ "contexte": "L'amylose AL (à chaînes légères) naît d'un clone plasmocytaire de la moelle osseuse qui produit des chaînes légères libres instables. Elles forment des fibrilles amyloïdes déposées dans le cœur, le rein, le foie, le système nerveux ou le tube digestif. L'atteinte cardiaque fait le pronostic. Le stade IIIa de la classification de Mayo (version européenne), défini par des biomarqueurs cardiaques très élevés, garde un pronostic sombre malgré les traitements.\n\nLe traitement standard vise à supprimer le clone plasmocytaire, le plus souvent par cyclophosphamide, bortézomib et dexaméthasone (CyBorD), souvent associé au daratumumab. Cette chimiothérapie bloque la production de nouvelles chaînes légères, sans éliminer les dépôts déjà présents. Le CAEL-101 est un anticorps monoclonal qui se fixe sur les fibrilles amyloïdes et favorise leur élimination par les macrophages. L'étude CARES, de phase 3, randomisée en double aveugle, l'ajoute à CyBorD et le compare à un placebo. Elle comporte une phase principale puis une extension ouverte. Le promoteur est Alexion.",
+ "interet": "L'étude teste une approche complémentaire à la chimiothérapie, qui vise directement les dépôts amyloïdes. Elle cible les patients de plus mauvais pronostic, avec une atteinte cardiaque avancée, pour lesquels les options sont limitées.",
+ "profil": "Des adultes atteints d'amylose AL cardiaque de stade Mayo IIIa, avec une maladie hématologique mesurable et un traitement CyBorD prévu.",
+ "inclusion": [
+  "Amylose AL de stade IIIa (classification de Mayo, modification européenne) avec NT-proBNP > 650 ng/L",
+  "Maladie hématologique mesurable (dFLC > 4 mg/dL, ou iFLC > 4 mg/dL avec rapport kappa/lambda anormal, ou pic monoclonal > 0,5 g/dL)",
+  "Amylose prouvée sur biopsie (rouge Congo) et typage AL confirmé",
+  "Atteinte cardiaque : insuffisance cardiaque sans autre cause, plus biopsie endomyocardique, épaisseur pariétale moyenne > 12 mm ou IRM compatible",
+  "Traitement de première ligne prévu par CyBorD",
+  "Contraception hautement efficace"
+ ],
+ "exclusion": [
+  "Autre forme d'amylose que l'amylose AL",
+  "Traitement antérieur de l'amylose AL ou du myélome (sauf 2 semaines maximum de CyBorD avant randomisation)",
+  "Syndrome de POEMS ou myélome multiple (plasmocytose médullaire clonale > 10 % ou plasmocytome, avec critères CRAB)",
+  "Autres critères d'exclusion : se référer au registre"
+ ],
+ "bras": [
+  {
+   "nom": "CAEL-101 + traitement standard",
+   "traitement": "CAEL-101 en perfusion IV d'environ 2 heures (dose non précisée), plus CyBorD"
+  },
+  {
+   "nom": "Placebo + traitement standard",
+   "traitement": "Sérum salé 0,9 % (environ 250 mL) en perfusion IV, plus CyBorD"
+  }
+ ],
+ "duree": "Double aveugle jusqu'à 18 mois après la randomisation du dernier patient, puis extension ouverte",
+ "critere": "Critère hiérarchique combinant le délai de décès toutes causes et la fréquence des hospitalisations cardiovasculaires (win ratio), jusqu'à la fin du suivi (analyse principale 18 à 49 mois après randomisation)."
+}

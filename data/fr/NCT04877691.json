@@ -1,0 +1,37 @@
+{
+ "h": "39d1fe0545e3",
+ "date": "2026-11-13",
+ "titre": "Anifrolumab par voie sous-cutanée chez l'adulte atteint de lupus systémique (TULIP SC)",
+ "question": "L'anifrolumab administré par voie sous-cutanée est-il plus efficace que le placebo, selon la réponse BICLA à 52 semaines, dans le lupus systémique modéré à sévère ?",
+ "contexte": "Le lupus systémique (LES) modéré à sévère peut rester actif malgré le traitement standard par corticoïdes, antipaludéens et immunosuppresseurs. L'anifrolumab, anticorps anti-récepteur de l'interféron de type I, a montré son efficacité par voie intraveineuse (400 mg toutes les 4 semaines) dans les essais TULIP.\n\nUne forme sous-cutanée faciliterait l'administration et l'utilisation à domicile. Cet essai de phase 3, multicentrique et multinational, randomisé, en double aveugle (simple insu selon le registre) et contrôlé par placebo, évalue l'efficacité et la tolérance d'un schéma sous-cutané d'anifrolumab, en seringue préremplie. Il a inclus 367 adultes de 18 à 70 ans atteints de LES actif, positif pour les auto-anticorps, malgré un traitement standard stable.\n\nLes patients devaient avoir un SLEDAI-2K ≥ 6 (dont ≥ 4 points cliniques), une atteinte BILAG de niveau A dans un organe ou B dans deux organes, et une évaluation globale du médecin ≥ 1. Les formes sévères de néphrite lupique active et de lupus neuropsychiatrique en sont exclues. Le promoteur est AstraZeneca.",
+ "interet": "Une voie sous-cutanée efficace simplifierait l'utilisation de l'anifrolumab par rapport aux perfusions mensuelles. Elle pourrait améliorer l'accès et l'adhésion au traitement.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique modéré à sévère, auto-anticorps positifs, malgré un traitement standard.",
+ "inclusion": [
+  "Lupus systémique (critères ACR 1997 révisés) depuis ≥ 24 semaines",
+  "SLEDAI-2K ≥ 6 dont ≥ 4 points cliniques",
+  "BILAG-2004 : niveau A dans ≥ 1 organe ou niveau B dans ≥ 2 organes",
+  "Évaluation globale du médecin (PGA) ≥ 1,0 sur 3",
+  "ANA, anti-ADN natif et/ou anti-Sm positifs",
+  "Traitement de fond stable (immunosuppresseurs, corticoïdes ou antipaludéens)"
+ ],
+ "exclusion": [
+  "Lupus neuropsychiatrique actif sévère ou instable",
+  "Néphrite lupique active sévère",
+  "Corticoïdes pour une maladie non lupique pendant plus de 2 semaines dans les 24 dernières semaines",
+  "Infections récurrentes ayant nécessité une hospitalisation, déficit immunitaire, splénectomie ou VIH",
+  "Hépatite B ou C",
+  "Zona sévère antérieur ou infection opportuniste récente"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab",
+   "traitement": "Anifrolumab en solution injectable sous-cutanée (seringue préremplie); schéma posologique non précisé"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en injection sous-cutanée (seringue préremplie)"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients avec une réponse BICLA (British Isles Lupus Assessment Group-based Composite Lupus Assessment) à la semaine 52."
+}

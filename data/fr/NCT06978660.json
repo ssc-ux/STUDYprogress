@@ -1,0 +1,30 @@
+{
+ "h": "242b92981819",
+ "date": "2026-11-13",
+ "titre": "Validation d'une IA d'analyse d'ECG pour le diagnostic précoce de l'amylose cardiaque",
+ "question": "Une plateforme d'analyse d'ECG par intelligence artificielle distingue-t-elle les patients atteints d'amylose cardiaque à transthyrétine des autres patients ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CA) est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée. Le diagnostic est souvent posé tardivement, alors que des traitements ciblés (tafamidis, acoramidis, silenceurs de la TTR) sont maintenant disponibles et d'autant plus utiles qu'ils sont précoces.\n\nL'ECG est un examen accessible, mais les signes évocateurs (microvoltage, pseudo-nécrose, troubles de conduction) sont peu sensibles et peu spécifiques. L'intelligence artificielle appliquée à l'ECG pourrait détecter des signaux imperceptibles à l'œil et orienter vers les examens de confirmation (scintigraphie osseuse, dosage des chaînes légères).\n\nCONCERTO est une étude rétrospective, observationnelle, multicentrique et à un seul bras, promue par Idoven 1903 S.L. Elle valide en externe la plateforme cloud Willem, en comparant des ECG de patients ATTR-CA confirmés avec ceux de sujets suspects mais finalement sans ATTR-CA.",
+ "interet": "Une validation externe positive soutiendrait l'usage d'un outil de dépistage par ECG pour raccourcir le délai diagnostique de l'amylose cardiaque, sans examen supplémentaire.",
+ "profil": "Des adultes avec ECG numérisé, atteints d'ATTR-CA confirmée ou suspects d'ATTR-CA mais finalement sans amylose.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ECG 12 dérivations numérisé d'au moins 10 secondes",
+  "ATTR-CA confirmée (groupe cas)",
+  "Suspicion d'ATTR-CA infirmée (groupe témoin)"
+ ],
+ "exclusion": [
+  "Rythme électroentraîné sur l'ECG"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTR-CA",
+   "traitement": "Adultes avec ATTR-CA confirmée ; analyse rétrospective des ECG, sans intervention"
+  },
+  {
+   "nom": "Témoins non ATTR-CA",
+   "traitement": "Adultes suspects d'ATTR-CA mais finalement sans amylose ; analyse rétrospective des ECG"
+  }
+ ],
+ "duree": "Étude rétrospective, pas de suivi des patients",
+ "critere": "Performance du dispositif (discrimination ATTR-CA / non ATTR-CA) sur l'ECG le plus proche du diagnostic."
+}

@@ -1,0 +1,32 @@
+{
+ "h": "c096a8897e3b",
+ "date": "2026-11-13",
+ "titre": "Pirfénidone contre la fibrose vasculaire de la maladie de Takayasu",
+ "question": "La pirfénidone, ajoutée au traitement standard, améliore-t-elle l'atteinte vasculaire fibrosante de la maladie de Takayasu en rémission clinique ?",
+ "contexte": "La maladie de Takayasu est une artérite des gros vaisseaux pouvant entraîner invalidité et décès. Les traitements anti-inflammatoires (glucocorticoïdes, méthotrexate, biothérapies) contrôlent l'inflammation systémique, mais chez beaucoup de patients, l'épaississement pariétal et les sténoses progressent malgré la rémission clinique, signe d'un processus fibrosant indépendant.\n\nLa pirfénidone est un antifibrosant approuvé dans la fibrose pulmonaire idiopathique, avec des effets rapportés sur d'autres organes comme le foie. L'équipe de Shanghai Zhongshan Hospital rapporte des observations préliminaires encourageantes dans cette indication, qui justifient l'essai.\n\nCet essai de phase 4 randomisé contre placebo inclut 92 adultes de 18 à 60 ans en rémission d'activité (score NIH inférieur à 2) sous glucocorticoïdes et méthotrexate, mais présentant des signes de progression vasculaire (épaississement pariétal, sténose, échogénicité carotidienne, événements ischémiques). Le traitement est évalué sur 6 mois.",
+ "interet": "Il pourrait ouvrir une piste thérapeutique sur la fibrose vasculaire, aujourd'hui non ciblée. Les données seront à confirmer sur un suivi plus long.",
+ "profil": "Des adultes de 18 à 60 ans atteints de maladie de Takayasu en rémission d'activité mais avec progression de l'atteinte vasculaire.",
+ "inclusion": [
+  "Critères de classification ACR 2022 de Takayasu, consentement signé",
+  "Âge de 18 à 60 ans",
+  "Test de grossesse négatif et absence de projet de grossesse",
+  "Glucocorticoïdes et méthotrexate depuis 3 mois, biothérapie possible (anti-IL-6R, anti-TNF), pas de thérapie ciblée autre ni cellulaire",
+  "Rémission (score NIH inférieur à 2) avec au moins 3 critères sur 5 de lésion vasculaire persistante ou progressive",
+  "Doses stables de méthotrexate et biothérapie pendant 6 mois"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+ ],
+ "bras": [
+  {
+   "nom": "Pirfénidone",
+   "traitement": "Pirfénidone en gélules, en plus du traitement standard (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, en plus du traitement standard"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Efficacité de la pirfénidone par rapport au placebo sur l'atteinte vasculaire, de l'inclusion à la fin du traitement à 6 mois."
+}

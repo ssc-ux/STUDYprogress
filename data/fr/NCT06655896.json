@@ -1,0 +1,36 @@
+{
+ "h": "77071ff66bd8",
+ "date": "2026-11-13",
+ "titre": "Rapcabtagène autoleucel versus rituximab dans la sclérodermie systémique diffuse sévère réfractaire",
+ "question": "Une CAR-T anti-CD19 (rapcabtagène autoleucel) est-elle plus efficace que le rituximab dans la sclérodermie systémique diffuse sévère réfractaire ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse (ScSd) sévère associe épaississement cutané progressif, PID et atteinte cardiaque, avec une mortalité importante. Les immunosuppresseurs et le rituximab ont une efficacité partielle, et la greffe autologue de cellules souches hématopoïétiques, efficace chez certains patients, reste lourde et toxique.\n\nLes CAR-T anti-CD19 éliminent en profondeur les lymphocytes B, y compris dans les tissus, et pourraient « réinitialiser » l'auto-immunité. Des séries de cas dans le lupus et la sclérodermie ont rapporté des rémissions prolongées sans traitement immunosuppresseur. Le rapcabtagène autoleucel est une CAR-T anti-CD19 de Novartis administrée en une seule perfusion après lymphodéplétion.\n\nCet essai de phase 2 comprend une cohorte de départ traitée par CAR-T, puis une cohorte randomisée comparant la CAR-T au rituximab, en ouvert avec évaluateur en aveugle. Il inclut 96 patients de 18 à 70 ans de 22 pays dont la France, avec un suivi de 5 ans. Les patients du bras rituximab insuffisamment contrôlés peuvent recevoir la CAR-T.",
+ "interet": "Il s'agit de l'un des premiers essais randomisés de CAR-T dans la sclérodermie. Un résultat positif ouvrirait la voie à une thérapie cellulaire dans les formes réfractaires. La sécurité à long terme (infections, cytopénies, effets immunitaires) sera déterminante.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique cutanée diffuse sévère, progressive et réfractaire, évoluant depuis moins de 7 ans.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "ScS selon ACR/EULAR 2013, sous-type cutané diffus (LeRoy)",
+  "Premiers signes hors Raynaud datant de moins de 7 ans",
+  "Maladie sévère et progressive : PID progressive, atteinte cutanée sévère progressive ou atteinte cardiaque significative",
+  "Vaccinations à jour selon les recommandations pour les patients immunodéprimés"
+ ],
+ "exclusion": [
+  "Impossibilité de sevrage médicamenteux ou condition rendant inéligible à une CAR-T anti-CD19",
+  "Hypersensibilité aux excipients de la CAR-T ou au rituximab, ou rituximab inadapté",
+  "Comorbidité non liée à la ScS compromettant la tolérance de la lymphodéplétion et de la CAR-T",
+  "Autre maladie rhumatologique (hors Sjögren secondaire ou myopathie sclérodermique), ScS limitée ou sine scleroderma",
+  "Hypertension pulmonaire préexistante, atteinte rénale significative, hypertension de stade II non contrôlée",
+  "Vaccin vivant atténué dans les 6 semaines avant la randomisation"
+ ],
+ "bras": [
+  {
+   "nom": "Rapcabtagène autoleucel",
+   "traitement": "CAR-T anti-CD19, perfusion unique après lymphodéplétion"
+  },
+  {
+   "nom": "Rituximab",
+   "traitement": "Rituximab (dose et rythme non précisés) ; passage possible à la CAR-T si la maladie n'est pas contrôlée"
+  }
+ ],
+ "duree": "Environ 5 ans",
+ "critere": "Proportion de patients en réponse selon l'indice rCRISS50 à la semaine 52"
+}

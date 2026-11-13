@@ -1,0 +1,41 @@
+{
+ "h": "4f0eed03b52d",
+ "date": "2026-11-13",
+ "titre": "Ianalumab versus placebo dans l'anémie hémolytique auto-immune à anticorps chauds déjà traitée",
+ "question": "Le ianalumab induit-il une réponse durable de l'hémoglobine par rapport au placebo chez des adultes atteints d'AHAI à anticorps chauds en échec d'au moins une ligne ?",
+ "contexte": "L'anémie hémolytique auto-immune à anticorps chauds (AHAI) est liée à des auto-anticorps, surtout IgG, qui détruisent les hématies. Les corticoïdes en première ligne sont efficaces à court terme, mais les rechutes et la corticodépendance sont fréquentes. Le rituximab est utilisé en seconde ligne, avec des échecs ou des rechutes, et il n'existe pas de traitement approuvé spécifiquement après échec.\n\nLe ianalumab (VAY736) est un anticorps anti-BAFF-R qui déplète les lymphocytes B et bloque la signalisation BAFF, ce qui doit réduire la production d'auto-anticorps. VAYHIA est une étude de phase 3 randomisée en double aveugle, avec deux doses de ianalumab IV ou un placebo, chez des adultes ayant une AHAI primaire ou secondaire, en échec ou en rechute après au moins une ligne. Les patients du bras placebo non répondeurs peuvent passer au ianalumab à forte dose en ouvert. Le critère principal est la réponse durable de l'hémoglobine. Le promoteur est Novartis ; 90 participants ont été inclus.",
+ "interet": "Un résultat positif donnerait une option ciblée sur les lymphocytes B après l'échec de la première ligne, avec l'espoir d'une réponse maintenue après l'arrêt du traitement. Le critère secondaire clé évalue justement cette durabilité.",
+ "profil": "Des adultes atteints d'AHAI à anticorps chauds, primaire ou secondaire, en échec ou en rechute après au moins une ligne de traitement.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AHAI à anticorps chauds avec test de Coombs direct positif (anti-IgG ou anti-IgA)",
+  "Réponse insuffisante ou rechute après ≥ 1 ligne (dont résistance, dépendance ou intolérance aux corticoïdes)",
+  "Hémoglobine de 5 à < 10 g/dL à la sélection et à la semaine 1, avec symptômes d'anémie",
+  "Traitement de soutien stable depuis ≥ 4 semaines"
+ ],
+ "exclusion": [
+  "AHAI secondaire à une hémopathie touchant la moelle (LLC, etc.) ou à une maladie immunologique nécessitant un traitement interdit",
+  "Autre forme d'AHAI (froide, mixte), syndrome d'Evans ou autre cytopénie",
+  "Déplétion B (rituximab, etc.) dans les 12 semaines, ou sans réponse à la dernière cure",
+  "Neutrophiles < 1 000/mm³, créatinine > 1,5 × LSN, IgG < 5 g/L",
+  "Infection active ou récurrente (tuberculose, SARS-CoV-2), hépatite C ou B, VIH, déficit immunitaire",
+  "Vaccin vivant dans les 4 semaines",
+  "Antécédent de splénectomie"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab faible dose",
+   "traitement": "Ianalumab par voie intraveineuse, faible dose (non précisée)"
+  },
+  {
+   "nom": "Ianalumab forte dose",
+   "traitement": "Ianalumab par voie intraveineuse, forte dose (non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo intraveineux ; ianalumab forte dose en ouvert possible pour les non-répondeurs"
+  }
+ ],
+ "duree": "Jusqu'à 39 mois après la randomisation du dernier patient (suivi de sécurité jusqu'à 2 ans après la dernière dose)",
+ "critere": "Réponse durable de l'hémoglobine (critère détaillé dans le protocole)"
+}

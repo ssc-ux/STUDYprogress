@@ -1,0 +1,14 @@
+{
+ "h": "75e152368c79",
+ "date": "2026-11-13",
+ "titre": "Hydroxychloroquine plus agoniste de la TPO dans le PTI avec anticorps antinucléaires positifs",
+ "question": "L'ajout de l'hydroxychloroquine à un agoniste du récepteur de la TPO (éltrombopag) augmente-t-il le taux de réponse et réduit-il les besoins en éltrombopag dans le PTI avec anticorps antinucléaires (AAN) positifs ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. Une partie des patients ont des anticorps antinucléaires (AAN) positifs sans maladie auto-immune systémique avérée. Dans ce sous-groupe, la réponse aux traitements usuels semble moins durable.\n\nLes agonistes du récepteur de la thrombopoïétine (TPO-RA), comme l'éltrombopag, sont utilisés après échec des corticoïdes. Ils corrigent surtout la production et leur effet disparaît souvent à l'arrêt. L'hydroxychloroquine est un immunomodulateur utilisé dans le lupus et d'autres maladies auto-immunes.\n\nCet essai randomisé, promu par Yunfeng Cheng (hôpital Zhongshan de Shanghai) avec plusieurs centres de Chine et de Macao, compare éltrombopag plus hydroxychloroquine à l'éltrombopag seul. Il inclut des patients de plus de 15 ans, en échec ou en rechute après corticoïdes. Il évalue aussi si l'hydroxychloroquine permet de diminuer la dose d'éltrombopag nécessaire.",
+ "interet": "L'étude pourrait montrer qu'un immunomodulateur ajouté à un TPO-RA améliore la réponse ou permet d'en réduire la dose, chez les patients PTI avec AAN positifs, en un sous-groupe à ce jour peu étudié.",
+ "profil": "Des patients de plus de 15 ans atteints de PTI primaire avec AAN positifs, en échec ou en rechute après corticoïdes.",
+ "inclusion": ["Âge > 15 ans", "PTI primaire avec plaquettes < 30 G/L (ou < 50 G/L avec saignement) dans la semaine précédente", "Anticorps antinucléaires positifs, autres auto-anticorps négatifs", "Échec ou rechute après au moins deux cures de dexaméthasone 40 mg/j × 4 j, ou après prednisone 1 à 2 mg/kg/j pendant 4 semaines", "TP et TCA dans les limites prévues", "Consentement écrit"],
+ "exclusion": ["Thrombopénie secondaire (myélodysplasie, lupus, aplasie, syndrome des antiphospholipides, PTT, etc.)", "Antécédent de thrombose artérielle ou veineuse, ou thrombophilie", "Insuffisance cardiaque NYHA III/IV, arythmie traitée, QTc > 450 ms (480 ms si bloc de branche)", "Greffe d'organe ou allogreffe de moelle", "Médicament modifiant la fonction plaquettaire"],
+ "bras": [{"nom": "Hydroxychloroquine + éltrombopag", "traitement": "Éltrombopag oral pendant au moins 24 semaines, dose ajustée aux plaquettes, plus hydroxychloroquine 2 fois par jour pendant 1 an"}, {"nom": "Éltrombopag seul", "traitement": "Éltrombopag oral pendant au moins 24 semaines, dose ajustée aux plaquettes"}],
+ "duree": "1 an",
+ "critere": "Taux de réponse globale à 4 semaines"
+}

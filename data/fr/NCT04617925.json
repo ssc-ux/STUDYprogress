@@ -1,0 +1,34 @@
+{
+ "h": "5b4078911d87",
+ "date": "2026-11-13",
+ "titre": "Bélantamab mafodotine dans l'amylose AL en rechute ou réfractaire",
+ "question": "Le bélantamab mafodotine permet-il d'obtenir une réponse hématologique chez des patients atteints d'amylose AL déjà traités ?",
+ "contexte": "L'amylose AL est due à des chaînes légères d'immunoglobuline produites par un clone plasmocytaire, qui se déposent dans les organes (cœur, rein, foie, tube digestif, nerfs). Le pronostic dépend de l'atteinte cardiaque et de la rapidité de la réponse hématologique.\n\nLe daratumumab, associé au bortézomib, au cyclophosphamide et à la dexaméthasone, est le traitement de première ligne de référence. Les patients en rechute ou réfractaires, notamment après un anti-CD38, ont peu d'options, ce qui justifie l'évaluation de nouvelles molécules ciblant les plasmocytes.\n\nLe bélantamab mafodotine est un anticorps conjugué dirigé contre BCMA, approuvé dans le myélome multiple. Cette étude de phase 2, en ouvert et multicentrique, promue par la Fondation European Myeloma Network, inclut environ 35 patients traités à 2,5 mg/kg toutes les 6 semaines. Un run-in de sécurité sur 6 patients précède une analyse intermédiaire de l'efficacité : l'inclusion se poursuit si au moins 3 réponses complètes ou très bonnes réponses partielles sont observées parmi les 15 premiers patients.",
+ "interet": "Les résultats pourraient dégager une option ciblée BCMA dans l'amylose AL réfractaire. La tolérance cardiaque et oculaire sera déterminante pour son usage.",
+ "profil": "Des adultes atteints d'amylose AL déjà traités et nécessitant un nouveau traitement.",
+ "inclusion": [
+  "Amylose AL confirmée par histologie et typage",
+  "Traitement systémique antérieur de l'amylose AL",
+  "Âge ≥ 18 ans, ECOG de 0 à 2",
+  "Stade de Mayo 1, 2 ou 3A",
+  "PA systolique couchée ≥ 90 mmHg",
+  "Maladie mesurable (chaînes légères libres ≥ 20 mg/L avec ratio anormal, dFLC ≥ 20 mg/L ou pic monoclonal ≥ 0,5 g/dL)",
+  "Atteinte d'organe symptomatique et fonctions d'organes adéquates (DFGe ≥ 30 mL/min/1,73 m², FEVG ≥ 25 %)"
+ ],
+ "exclusion": [
+  "Amylose non AL",
+  "Lésions osseuses lytiques ou myélome actif avec hypercalcémie, néphropathie à cylindres, anémie ou atteinte extramédullaire",
+  "Maladie non traitée antérieurement (au moins 2 cycles sur le clone plasmocytaire exigés)",
+  "Exposition antérieure à un anti-BCMA",
+  "Stade cardiaque IIIB",
+  "Arythmies ventriculaires répétées malgré traitement, BAV de haut degré, infarctus ou syndrome coronarien dans les 3 mois, insuffisance cardiaque NYHA III-IV, hypertension ou hypotension non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "Bélantamab mafodotine",
+   "traitement": "Bélantamab mafodotine 2,5 mg/kg par perfusion IV toutes les 6 semaines, jusqu'à progression ou toxicité inacceptable"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 6 mois)",
+ "critere": "Taux de réponse à 6 mois (cycle 4)."
+}

@@ -1,0 +1,31 @@
+{
+ "h": "84da440349af",
+ "date": "2026-11-13",
+ "titre": "Acoramidis en extension ouverte après ATTRibute-CM dans la cardiomyopathie à TTR symptomatique",
+ "question": "L'acoramidis est-il sûr et bien toléré à long terme chez les patients ayant terminé l'essai ATTRibute-CM ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est une cause sous-diagnostiquée d'insuffisance cardiaque du sujet âgé. La TTR mal repliée forme des dépôts myocardiques, avec insuffisance cardiaque progressive et un mauvais pronostic. Les stabilisateurs de la TTR comme le tafamidis ont montré un bénéfice sur la mortalité et les hospitalisations.\n\nL'acoramidis (AG10), stabilisateur de la TTR à haute affinité, a été évalué contre placebo pendant 30 mois dans l'essai de phase 3 ATTRibute-CM (AG10-301). Cette extension ouverte (AG10-304), promue par BridgeBio/Eidos, propose l'acoramidis à tous les participants ayant terminé la période en aveugle, y compris ceux qui recevaient le placebo. Elle inclut 389 patients. Elle permet de surveiller la sécurité et la tolérance à long terme et d'observer l'évolution sous traitement continu. Il n'y a pas de comparateur.",
+ "interet": "L'étude fournit les données de sécurité à long terme de l'acoramidis jusqu'à 5 ans. Elle permet aussi aux participants du groupe placebo de recevoir le traitement.",
+ "profil": "Des adultes atteints d'ATTR-CM symptomatique ayant terminé 30 mois de traitement en aveugle dans l'essai ATTRibute-CM.",
+ "inclusion": [
+  "30 mois de traitement en aveugle terminés dans l'étude AG10-301, avec la visite du mois 30",
+  "Capacité à signer un consentement éclairé",
+  "Contraception hautement efficace pour les femmes en âge de procréer, double barrière pour les hommes sexuellement actifs"
+ ],
+ "exclusion": [
+  "Infarctus, syndrome coronarien aigu ou revascularisation, AVC ou AIT dans les 90 jours avant le jour 1",
+  "Instabilité hémodynamique jugée trop risquée",
+  "Greffe de cœur ou de foie, ou inscription sur liste de greffe cardiaque dans l'année",
+  "Assistance circulatoire mécanique implantée ou prévue",
+  "Amylose AL confirmée pendant l'étude AG10-301",
+  "DFGe (MDRD) < 15 mL/min/1,73 m²",
+  "Hypersensibilité connue à l'acoramidis"
+ ],
+ "bras": [
+  {
+   "nom": "Acoramidis (AG10)",
+   "traitement": "Acoramidis pour tous les participants, en ouvert (dose non précisée dans le résumé)"
+  }
+ ],
+ "duree": "60 mois",
+ "critere": "Incidence des événements indésirables apparus sous traitement (sécurité et tolérance), sur 60 mois."
+}

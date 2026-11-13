@@ -1,0 +1,14 @@
+{
+ "h": "bea360e92a13",
+ "date": "2026-11-13",
+ "titre": "Aspirine en prophylaxie des accidents ischémiques dans le purpura thrombotique thrombocytopénique en rémission",
+ "question": "L'aspirine à faible dose réduit-elle le risque d'accident vasculaire cérébral ischémique chez des patients en rémission d'un purpura thrombotique thrombocytopénique (PTT) congénital ou immun ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique (PTT) est une microangiopathie thrombotique rare et potentiellement fatale, due à un déficit sévère en ADAMTS13, congénital ou lié à des auto-anticorps. Il associe thrombopénie, anémie hémolytique mécanique et microthromboses touchant notamment le cerveau et le rein.\n\nLe suivi à long terme montre que les patients en rémission restent exposés. Dans le PTT congénital, 29 % des patients survivants d'une série de 217 ont eu un AVC, à un âge médian de 21 ans. Dans le PTT immun, une activité d'ADAMTS13 inférieure à 70 % en rémission s'accompagne d'un risque d'AVC de 28 %, avec une survie inférieure à celle de la population générale.\n\nAucun traitement d'entretien n'est recommandé en rémission. L'aspirine, efficace en prévention secondaire de l'AVC, peu coûteuse et bien tolérée, pourrait réduire les événements ischémiques, mais n'a jamais été testée dans cette indication. Cet essai de phase 2/3 randomisé, promu par le premier hôpital affilié de l'Université de Soochow, compare aspirine 100 mg/j et placebo chez 100 patients.",
+ "interet": "Si l'aspirine réduit les AVC ischémiques, elle pourrait devenir une prophylaxie simple et peu coûteuse pour les patients en rémission de PTT, aujourd'hui sans traitement d'entretien recommandé.",
+ "profil": "Des patients en rémission d'un PTT congénital ou immun, avec activité d'ADAMTS13 < 10 % documentée, sans antécédent d'AVC.",
+ "inclusion": ["Consentement signé et respect du protocole", "Déficit sévère en ADAMTS13 (activité < 10 %) documenté, PTT congénital (mutations biallèliques) ou immun (inhibiteur ou anticorps anti-ADAMTS13)", "Absence de symptôme sévère de PTT au dépistage (LDH ≤ 3 N, plaquettes ≥ 100 000/µL)", "Pas d'AVC à l'IRM cérébrale ni d'antécédent d'AVC"],
+ "exclusion": ["Antécédent neurologique important (AVC majeur) dont une rechute serait grave", "Risque hémorragique accru (plaquettes < 30 000/µL, coagulopathie sévère, maladie digestive)", "Abus de drogue ou d'alcool dans les 6 mois", "Espérance de vie < 3 mois", "Incapacité ou refus de coopérer, lien familial ou professionnel avec l'investigateur", "Grossesse ou allaitement"],
+ "bras": [{"nom": "Aspirine", "traitement": "Aspirine 100 mg par voie orale 1 fois par jour"}, {"nom": "Placebo", "traitement": "Placebo par voie orale 1 fois par jour"}],
+ "duree": "3 ans",
+ "critere": "Nombre de participants ayant un AVC ischémique, de la première prise jusqu'à 3 ans"
+}

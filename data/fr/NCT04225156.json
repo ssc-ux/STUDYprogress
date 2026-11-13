@@ -1,0 +1,26 @@
+{
+ "h": "001edce7feef",
+ "date": "2026-11-13",
+ "titre": "Étude de longue durée de l'efgartigimod dans le purpura thrombopénique immunologique primaire de l'adulte",
+ "question": "L'efgartigimod est-il sûr et efficace sur le long terme chez les adultes atteints de PTI primaire ayant terminé l'étude ARGX-113-1801 ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps de type IgG détruisent les plaquettes et en limitent la production. Le risque hémorragique et la fatigue pèsent sur la qualité de vie. Les corticoïdes, les immunoglobulines, les agonistes du récepteur de la TPO et le rituximab sont les traitements habituels. Les rechutes et l'échec thérapeutique sont fréquents dans les formes persistantes et chroniques.\n\nL'efgartigimod est un fragment Fc modifié qui bloque le récepteur FcRn et accélère ainsi la dégradation des IgG, auto-anticorps compris. Il a été évalué dans le PTI dans l'étude pivot ARGX-113-1801, d'une durée de 24 semaines. Cette étude de phase 3 est une extension ouverte de longue durée, qui accueille les participants ayant terminé cette période et accepté une période de traitement supplémentaire de 52 semaines. Le promoteur est argenx, avec des centres en France.",
+ "interet": "L'étude apportera des données de sécurité et d'efficacité à long terme sur le blocage de FcRn dans le PTI. Elle permet la poursuite du traitement des répondeurs, jusqu'à environ 60 semaines.",
+ "profil": "Des adultes atteints de PTI primaire, issus de l'étude pivot ARGX-113-1801.",
+ "inclusion": [
+  "Participation à l'étude ARGX-113-1801 avec la période de 24 semaines terminée",
+  "Capacité à comprendre et à respecter le protocole, consentement écrit",
+  "Période de traitement supplémentaire de 52 semaines acceptée",
+  "Test de grossesse urinaire négatif à l'inclusion, contraception efficace pendant l'étude et 90 jours après la dernière administration pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Introduction ou poursuite de médicaments non permis pendant l'étude pivot (anti-CD20, romiplostim, anticorps monoclonaux, protéines de fusion Fc, vaccins vivants atténués)",
+  "Grossesse, allaitement ou projet de grossesse dans les 90 jours après la dernière dose",
+  "Hypersensibilité connue à un composant de l'efgartigimod",
+  "Autre médicament expérimental ou autre essai en cours"
+ ],
+ "bras": [
+  {"nom": "Efgartigimod", "traitement": "Efgartigimod, dose et rythme non précisés, en ouvert"}
+ ],
+ "duree": "Jusqu'à 60 semaines",
+ "critere": "Fréquence et sévérité des événements indésirables, des constantes vitales et des examens biologiques, jusqu'à 60 semaines."
+}

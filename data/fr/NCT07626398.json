@@ -1,0 +1,35 @@
+{
+ "h": "a0204493e75f",
+ "date": "2026-11-13",
+ "titre": "Acide tout-trans rétinoïque en première ligne de la LHH active de l'adulte",
+ "question": "L'acide tout-trans rétinoïque (ATRA) est-il sûr et efficace comme traitement initial de la LHH active ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est un syndrome hyperinflammatoire grave lié à une activation excessive des cellules immunitaires et à un orage cytokinique. Le traitement initial fait appel à des immunosuppresseurs ou à des cytotoxiques intensifs (dexaméthasone, étoposide, ciclosporine, ruxolitinib), qui exposent à une toxicité importante, en particulier chez les patients fragiles.\n\nL'ATRA est un dérivé de la vitamine A, administré par voie orale et largement utilisé dans d'autres hémopathies, notamment la leucémie aiguë promyélocytaire. Il possède des propriétés immunomodulatrices, et des données précliniques suggèrent qu'il pourrait réduire l'inflammation et corriger la dysrégulation immunitaire de la LHH. Cet essai de phase 2/3, promu par l'hôpital Anzhen de Pékin, évalue chez 30 adultes un traitement initial à base d'ATRA, avec réponse clinique, marqueurs inflammatoires et atteintes d'organes. Le schéma est à bras unique, sans comparateur.",
+ "interet": "Un signal favorable ouvrirait la voie à une première ligne moins toxique, orale et peu coûteuse. Les résultats d'un bras unique devront être confirmés par des essais comparatifs.",
+ "profil": "Des adultes atteints de LHH active nouvellement diagnostiquée ou non traitée, nécessitant un traitement initial.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LHH active selon les critères HLH-2004 ou l'évaluation clinique de l'investigateur",
+  "LHH nouvellement diagnostiquée ou non traitée, nécessitant un traitement spécifique",
+  "Au moins une manifestation active (fièvre persistante, cytopénie, hyperferritinémie, splénomégalie, hypofibrinogénémie, CD25 soluble élevé, hémophagocytose...)",
+  "Performance status ECOG de 0 à 3, ou jugé acceptable par l'investigateur",
+  "Possibilité de prendre un traitement oral ou par voie entérale",
+  "Survie attendue > 48 heures ; contraception efficace ; consentement éclairé"
+ ],
+ "exclusion": [
+  "Traitement systémique antérieur de l'épisode de LHH (étoposide, ruxolitinib, emapalumab, alemtuzumab, anti-PD-1)",
+  "Hypersensibilité à l'ATRA ou aux rétinoïdes",
+  "Grossesse ou allaitement",
+  "Leucémie aiguë promyélocytaire ou autre indication standard de l'ATRA",
+  "Infection non contrôlée, choc, insuffisance respiratoire ou défaillance d'organe rendant la participation dangereuse",
+  "Hypertension intracrânienne, pseudotumeur cérébrale ou maladie neurologique sévère non contrôlée",
+  "Hypertriglycéridémie non contrôlée ; vitamine A ou autres rétinoïdes systémiques"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement",
+   "traitement": "ATRA par voie orale ou entérale (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "8 semaines de traitement (suivi total non précisé)",
+ "critere": "Efficacité de l'ATRA dans la LHH et événements indésirables, de l'inclusion à la fin du traitement à 8 semaines."
+}

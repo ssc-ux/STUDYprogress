@@ -1,0 +1,33 @@
+{
+ "h": "1d9acc1471d2",
+ "date": "2026-11-13",
+ "titre": "Sébétralstat en prophylaxie à court terme avant un geste dans l'angiœdème héréditaire (KONTROL)",
+ "question": "Le sébétralstat, pris avant un geste médical ou dentaire, prévient-il les crises d'angiœdème héréditaire dans les 24 heures ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est une maladie rare, due à un déficit quantitatif ou fonctionnel en inhibiteur de C1 estérase. Elle provoque des crises d'œdème sous-cutané ou muqueux, parfois laryngé et potentiellement mortel. Les gestes invasifs (chirurgie, extraction dentaire, endoscopie, intubation) sont des déclencheurs reconnus de crises.\n\nLes recommandations préconisent une prophylaxie à court terme avant les gestes à risque, classiquement par inhibiteur de C1 plasmatique en perfusion, ou par androgènes atténués. Ces options sont contraignantes ou mal tolérées. Le sébétralstat est un inhibiteur oral de la kallikréine plasmatique, approuvé pour le traitement à la demande des crises. Cet essai de phase 4 ouvert et à bras unique, promu par KalVista, évalue le sébétralstat 600 mg en prophylaxie à court terme chez 100 patients de 12 ans et plus, avant un geste prévu dans les 8 semaines. Il n'y a pas de comparateur.",
+ "interet": "Une prophylaxie orale avant les gestes simplifierait la prise en charge des patients ayant une AOH, sans perfusion. L'absence de groupe contrôle limite l'interprétation de l'efficacité.",
+ "profil": "Des patients de 12 ans et plus atteints d'angiœdème héréditaire de type I ou II, avec un geste médical ou dentaire prévu dans les 8 semaines.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "Angiœdème héréditaire de type I ou II (selon le patient)",
+  "Geste admissible prévu ou à programmer dans les 8 semaines suivant la sélection",
+  "Accès à un traitement à la demande disponible dans le commerce",
+  "Capacité à avaler les comprimés entiers",
+  "Contraception adaptée pour les femmes en âge de procréer",
+  "Consentement ou assentiment"
+ ],
+ "exclusion": [
+  "Mauvaise réponse cliniquement significative aux antagonistes du récepteur B2 de la bradykinine, à l'inhibiteur de C1 ou aux inhibiteurs de la kallikréine",
+  "Inhibiteur de l'ECA dans les 7 jours précédents",
+  "Médicament contenant des œstrogènes à absorption systémique dans les 7 jours",
+  "Inhibiteurs ou inducteurs forts du CYP3A4, ou inducteurs modérés, dans les 2 semaines avant le geste",
+  "Comorbidité ou dysfonction systémique cliniquement significative"
+ ],
+ "bras": [
+  {
+   "nom": "Sébétralstat 600 mg",
+   "traitement": "Sébétralstat (KVD900) 600 mg par voie orale avant le geste (rythme précis non précisé)"
+  }
+ ],
+ "duree": "Environ 8 semaines (critère évalué à 24 heures après le début du geste)",
+ "critere": "Nombre et proportion de prophylaxies sans crise d'angiœdème dans les 24 heures suivant le début du geste."
+}

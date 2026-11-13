@@ -1,0 +1,48 @@
+{
+ "h": "b1a6c0270e94",
+ "date": "2026-11-13",
+ "titre": "Avapritinib versus placebo dans la mastocytose systémique indolente symptomatique",
+ "question": "L'avapritinib améliore-t-il les symptômes de la mastocytose systémique indolente par rapport au placebo ?",
+ "contexte": "La mastocytose systémique indolente (MSI) est une prolifération clonale de mastocytes, souvent liée à la mutation KIT D816V. Elle provoque des symptômes chroniques parfois invalidants : flushs, prurit, douleurs abdominales, diarrhée, fatigue, douleurs osseuses, symptômes neurocognitifs.\n\nLe traitement habituel repose sur les antimédiateurs (anti-H1, anti-H2, cromoglicate, corticoïdes), dont l'efficacité est souvent insuffisante. Il n'existe pas de traitement ciblé de la maladie indolente à l'origine de la mutation.\n\nL'avapritinib est un inhibiteur sélectif de KIT D816V, déjà utilisé dans les formes avancées de mastocytose. Cette étude de phase 2 (PIONEER), randomisée en double aveugle contre placebo, comporte trois parties : recherche de dose (partie 1), comparaison à la dose retenue sur le score de symptômes ISM-SAF (partie 2), puis extension où tous les patients reçoivent l'avapritinib (partie 3). Le promoteur est Blueprint Medicines ; des centres français participent.",
+ "interet": "Les résultats ont pour but de documenter l'intérêt d'un traitement ciblé sur KIT dans la forme indolente de la maladie. Ils pourraient modifier la prise en charge des patients mal contrôlés par les antimédiateurs.",
+ "profil": "Des adultes atteints de mastocytose systémique indolente aux symptômes modérés à sévères, insuffisamment contrôlés par le traitement symptomatique.",
+ "inclusion": [
+  "Mastocytose systémique confirmée par revue centrale de la biopsie ostéomédullaire (critères OMS)",
+  "Symptômes modérés à sévères (score ISM-SAF minimal) sur 14 jours",
+  "Contrôle insuffisant d'au moins un symptôme malgré le traitement symptomatique",
+  "Corticoïdes éventuels ≤ 20 mg/j d'équivalent prednisone, dose stable ≥ 14 jours",
+  "Score ECOG de 0 à 2"
+ ],
+ "exclusion": [
+  "Mastocytose cutanée isolée, forme latente, avancée, avec néoplasie hématologique associée ou leucémie à mastocytes",
+  "Traitement antérieur par avapritinib",
+  "Traitement cytoréducteur (dont masitinib, midostaurine) ou agent expérimental récent",
+  "Radiothérapie ou PUVAthérapie dans les 14 jours",
+  "Facteur de croissance hématopoïétique dans les 14 jours",
+  "QTcF > 480 ms"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 : avapritinib à trois doses + traitement symptomatique",
+   "traitement": "Avapritinib par voie orale, cycles continus de 28 jours"
+  },
+  {
+   "nom": "Partie 1 : placebo + traitement symptomatique",
+   "traitement": "Placebo par voie orale, cycles de 28 jours"
+  },
+  {
+   "nom": "Partie 2 : avapritinib à la dose recommandée + traitement symptomatique",
+   "traitement": "Avapritinib par voie orale, cycles de 28 jours"
+  },
+  {
+   "nom": "Partie 2 : placebo + traitement symptomatique",
+   "traitement": "Placebo par voie orale, cycles de 28 jours"
+  },
+  {
+   "nom": "Partie 3 : extension",
+   "traitement": "Avapritinib à la dose recommandée pour tous, y compris les patients sous placebo"
+  }
+ ],
+ "duree": "Non précisé ; partie 3 jusqu'à 5 ans",
+ "critere": "Partie 1 : dose recommandée à 9 mois ; partie 2 : variation du score total de symptômes ISM-SAF versus placebo à 6 mois ; partie 3 : événements indésirables jusqu'à 5 ans."
+}

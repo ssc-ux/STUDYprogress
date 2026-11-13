@@ -1,0 +1,27 @@
+{
+ "h": "0d79538b5d9b",
+ "date": "2026-11-13",
+ "titre": "Biomarqueurs scanographiques thoraciques pronostiques dans la pneumopathie interstitielle de la sclérodermie",
+ "question": "Des biomarqueurs scanographiques des voies aériennes, des vaisseaux et de l'étendue de la fibrose prédisent-ils l'évolution de la PID de la sclérodermie ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) touche plus de la moitié des patients atteints de sclérodermie systémique (ScS) et constitue une première cause de mortalité. Elle reste stable chez certains patients, mais progresse chez au moins un tiers d'entre eux. Prédire l'évolution est un enjeu clinique majeur, car le traitement doit être instauré avant la perte de fonction irréversible.\n\nLes outils actuels reposent sur la capacité vitale forcée (CVF), la DLCO et l'analyse visuelle du scanner thoracique haute résolution (TDM-HR). L'analyse visuelle quantifie mal certaines anomalies, comme la bronchectasie par traction ou les modifications vasculaires. Un profil de PID interstitielle commune (UIP) a été associé à une survie plus courte dans une étude antérieure de l'équipe.\n\nCette étude observationnelle rétrospective, menée par le Royal Brompton & Harefield NHS Foundation Trust, analyse environ 1 000 patients ayant eu un TDM-HR entre 1990 et 2019. Des algorithmes d'apprentissage automatique mesurent les voies aériennes, les vaisseaux et l'étendue de la fibrose. Leur lien avec la survie (modèle de Cox) et l'évolution de la CVF, de la DLCO et du KCO est évalué. Elle se déroule dans 7 centres de 4 pays.",
+ "interet": "Un score d'imagerie automatisé pourrait aider à repérer les patients à risque de progression, qui nécessitent un traitement précoce, et ceux à faible risque. Il pourrait aussi servir à enrichir les futurs essais. L'étude rétrospective ne prouve pas l'utilité en pratique.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec PID ayant eu un scanner thoracique haute résolution entre 1990 et 2019.",
+ "inclusion": [
+  "Diagnostic de sclérodermie systémique",
+  "Âge ≥ 18 ans",
+  "TDM-HR thoracique réalisé entre le 01/01/1990 et le 31/12/2019"
+ ],
+ "exclusion": [
+  "Patients sans sclérodermie systémique",
+  "Âge < 18 ans",
+  "Données d'imagerie TDM-HR non disponibles"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte rétrospective de ScS avec PID",
+   "traitement": "Aucune intervention ; analyse de scanners thoraciques par algorithmes et suivi des données cliniques et fonctionnelles"
+  }
+ ],
+ "duree": "Suivi rétrospectif jusqu'à 15 ans",
+ "critere": "Survie, survenue d'une hypertension pulmonaire et déclin de la CVF, de la DLCO et du KCO, sur 15 ans"
+}

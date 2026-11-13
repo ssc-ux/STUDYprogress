@@ -1,0 +1,36 @@
+{
+ "h": "0805b96537ec",
+ "date": "2026-11-13",
+ "titre": "NS-229 versus placebo dans la granulomatose éosinophilique avec polyangéite",
+ "question": "Le NS-229 permet-il d'obtenir une rémission de la GEPA avec une dose de corticoïdes ≤ 4 mg/j, par rapport au placebo ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (GEPA, ex-Churg et Strauss) est une vascularite des petits vaisseaux associée à de l'asthme, une hyperéosinophilie et des lésions granulomateuses. Elle touche les nerfs, les poumons, la peau, le cœur et les voies aériennes supérieures. Le traitement de référence associe corticoïdes et immunosuppresseurs.\n\nLe mépolizumab (anti-IL-5) et le benralizumab (anti-IL-5Rα) ont montré un effet d'épargne cortisonique. De nombreux patients restent dépendants des corticoïdes, avec leur toxicité cumulative. Une rémission durable sans corticoïdes ou à très faible dose demeure un objectif non atteint pour beaucoup.\n\nLe NS-229, développé par NS Pharma, est auto-administré. Le registre ne précise ni son mécanisme ni sa voie. Cet essai de phase 2 randomisé en double insu contre placebo inclut 45 adultes de 8 pays dont la France, sous corticoïdes (≥ 7,5 mg/j) avec ou sans mépolizumab ou benralizumab. La dose de corticoïdes est diminuée pendant les 28 semaines de traitement.",
+ "interet": "Un nouveau traitement épargnant les corticoïdes aurait une valeur directe pour les patients dépendants. Le critère de rémission (BVAS = 0 avec prednisone ≤ 4 mg/j) correspond à l'objectif clinique actuel.",
+ "profil": "Des adultes atteints de GEPA, sous corticoïdes oraux avec ou sans anti-IL-5.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "Diagnostic de GEPA : éosinophilie et au moins 2 autres caractéristiques de la GEPA",
+  "Corticoïdes oraux ≥ 7,5 mg/j, avec ou sans mépolizumab ou benralizumab stable",
+  "Contraception adaptée"
+ ],
+ "exclusion": [
+  "Granulomatose avec polyangéite ou polyangéite microscopique",
+  "GEPA menaçant le pronostic vital à court terme",
+  "Cancer dans les 5 ans",
+  "Maladie grave hépatique, rénale, hématologique ou psychiatrique, ou maladie cardiovasculaire non contrôlée",
+  "Infection systémique active (dont tuberculose, pneumocystose), parasitose récente, VIH, hépatite B ou C active",
+  "Antécédent ou présence de thrombose veineuse (TVP, embolie pulmonaire)",
+  "DFG < 30 mL/min/1,73 m², leucocytes < 4 G/L, neutrophiles < 1 G/L, plaquettes < 120 G/L, hémoglobine < 8 g/dL ; grossesse ou allaitement, abus d'alcool ou de drogues dans les 6 mois"
+ ],
+ "bras": [
+  {
+   "nom": "NS-229",
+   "traitement": "NS-229 auto-administré pendant 28 semaines (dose et voie non précisées), avec diminution des corticoïdes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique auto-administré pendant 28 semaines, avec diminution des corticoïdes"
+  }
+ ],
+ "duree": "28 semaines de traitement (durée de suivi non précisée)",
+ "critere": "Proportion de patients en rémission (BVAS = 0 avec prednisone/prednisolone ≤ 4 mg/j), de l'inclusion à la semaine 28"
+}

@@ -1,0 +1,28 @@
+{
+ "h": "4830398c70e0",
+ "date": "2026-11-13",
+ "titre": "Lanadélumab chez l'enfant atteint d'angiœdème héréditaire en pratique réelle",
+ "question": "Quelle est l'efficacité du lanadélumab en prophylaxie à long terme chez l'enfant atteint d'angiœdème héréditaire par déficit en C1-INH en vie réelle ?",
+ "contexte": "L'angiœdème héréditaire (AOH) est une maladie rare provoquant des œdèmes sous-cutanés et muqueux brutaux, non prurigineux, touchant l'abdomen, le larynx ou les organes génitaux. L'AOH par déficit en inhibiteur de la C1 estérase (C1-INH) est la forme la plus fréquente.\n\nLes crises sont dues à un excès de bradykinine et peuvent débuter dans l'enfance, avec un retentissement sur la scolarité et la qualité de vie. Les options de prophylaxie à long terme chez l'enfant sont limitées, et les données en vie réelle sont rares.\n\nLe lanadélumab (Takhzyro) est un anticorps monoclonal anti-kallicréine plasmatique, utilisé en prophylaxie de l'AOH. Cette étude observationnelle de Takeda, multinationale, se fonde sur le dossier médical d'enfants de 2 à moins de 12 ans ayant débuté le lanadélumab en pratique courante. Elle évalue leur évolution sans crise, ainsi que les modalités d'utilisation du traitement.",
+ "interet": "Les données de vie réelle chez l'enfant aideront à apprécier l'efficacité et les modalités d'usage du lanadélumab dans une population pédiatrique peu étudiée.",
+ "profil": "Des enfants de 2 à moins de 12 ans atteints d'angiœdème héréditaire par déficit en C1-INH, ayant débuté le lanadélumab en prophylaxie.",
+ "inclusion": [
+  "Âge de 2 à moins de 12 ans à l'initiation du lanadélumab, avec au moins 6 mois de suivi attendus avant 12 ans",
+  "Diagnostic d'AOH avec déficit en C1-INH confirmé par un médecin",
+  "Prophylaxie à long terme par lanadélumab débutée pendant la période d'éligibilité",
+  "Consentement ou assentiment signé si exigé localement",
+  "Dossier médical documentant les crises avant et après l'initiation du lanadélumab"
+ ],
+ "exclusion": [
+  "Participation à un essai thérapeutique expérimental (lanadélumab ou autre) ou à un essai de dispositif à la date index",
+  "Aucune crise d'AOH documentée dans les 12 mois précédant la date index"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants avec AOH par déficit en C1-INH",
+   "traitement": "Lanadélumab en prophylaxie à long terme en pratique courante, sans intervention de l'étude"
+  }
+ ],
+ "duree": "Jusqu'à 13 mois",
+ "critere": "Pourcentage d'enfants sans crise d'AOH, jusqu'à 13 mois."
+}

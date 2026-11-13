@@ -1,0 +1,14 @@
+{
+ "h": "2c2a359b9431",
+ "date": "2026-11-13",
+ "titre": "Avatrombopag associé à l'acide rétinoïque tout-trans dans le PTI primaire persistant ou chronique",
+ "question": "L'ajout de l'acide rétinoïque tout-trans à l'avatrombopag permet-il d'obtenir plus souvent une rémission sans traitement à 52 semaines dans le PTI ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. En cas d'échec de la première ligne (corticoïdes, immunoglobulines) ou de rechute, les agonistes du récepteur de la thrombopoïétine (TPO-RA) sont couramment utilisés en seconde ligne. Leur effet disparaît souvent à l'arrêt, ce qui conduit à un traitement prolongé.\n\nL'acide rétinoïque tout-trans (ATRA) module la réponse immunitaire, notamment en favorisant les lymphocytes T régulateurs et en réduisant la production d'auto-anticorps. Des essais ont montré son intérêt en association à d'autres traitements du PTI.\n\nCet essai de phase 2/3 randomisé et ouvert, promu par l'Institut d'hématologie de Tianjin, compare avatrombopag plus ATRA à l'avatrombopag seul chez 248 adultes. L'étude comprend un traitement de 24 semaines, une phase de réduction jusqu'à la semaine 36, puis un suivi jusqu'à 52 semaines. Le critère est la proportion de patients hors traitement.",
+ "interet": "Si l'association permet d'arrêter les TPO-RA sans rechute plus souvent, elle pourrait réduire la durée de traitement et son coût dans le PTI persistant ou chronique.",
+ "profil": "Des adultes atteints de PTI persistant ou chronique (≥ 3 mois), en échec ou en rechute après un traitement de première ligne.",
+ "inclusion": ["Âge ≥ 18 ans, consentement signé", "PTI évoluant depuis au moins 3 mois", "Plaquettes < 30 G/L, avec moyenne < 30 G/L et aucune valeur > 35 G/L pendant la sélection", "Échec ou rechute après un traitement de première ligne (corticoïdes, immunoglobulines)", "Traitements associés stables (corticoïdes, azathioprine, danazol, ciclosporine, mycophénolate)", "TPO-RA arrêtés ≥ 2 semaines, anti-CD20 ≥ 6 mois avant"],
+ "exclusion": ["Allergie à l'atorvastatine, à l'ATRA ou à leurs excipients", "Antiagrégant, AINS ou anticoagulant au long cours", "Anémie hémolytique auto-immune ou thrombopénie secondaire ou héréditaire (leucémie, lymphome, aplasie, myélodysplasie, lupus, etc.)", "Fibrose médullaire MF ≥ 2", "Autre essai ou agent expérimental dans les 4 semaines ou 5 demi-vies"],
+ "bras": [{"nom": "Avatrombopag + acide rétinoïque tout-trans", "traitement": "Avatrombopag associé à l'ATRA ; doses non précisées"}, {"nom": "Avatrombopag seul", "traitement": "Avatrombopag ; dose non précisée"}],
+ "duree": "52 semaines (traitement 24 semaines, réduction jusqu'à la semaine 36, suivi jusqu'à la semaine 52)",
+ "critere": "Taux de patients sans traitement à la semaine 52"
+}

@@ -1,0 +1,42 @@
+{
+ "h": "54b00cff1d48",
+ "date": "2026-11-13",
+ "titre": "Dara-VCD avec ou sans autogreffe dans l'amylose AL nouvellement diagnostiquée",
+ "question": "Ajouter une autogreffe de cellules souches avec melphalan à la chimiothérapie Dara-VCD améliore-t-il la survie sans détérioration d'organe dans l'amylose AL ?",
+ "contexte": "L'amylose AL est une maladie plasmocytaire où des chaînes légères monoclonales forment des dépôts dans le cœur, les reins et d'autres organes. L'atteinte d'organe conditionne le pronostic. Depuis l'essai ANDROMEDA, l'association daratumumab, cyclophosphamide, bortezomib et dexaméthasone (Dara-VCD) est le traitement de référence de première ligne, avec des taux élevés de réponse hématologique profonde.\n\nL'autogreffe de cellules souches après melphalan a longtemps été proposée aux patients éligibles et peut induire des réponses durables, mais avec une toxicité et une mortalité liées au traitement non négligeables en cas d'atteinte cardiaque. À l'ère du daratumumab, son bénéfice supplémentaire est incertain. Cet essai de phase 3 randomisé, promu par SWOG, inclut 338 adultes. Après induction par Dara-VCD, ils sont randomisés entre une consolidation par Dara-VCD seul et une consolidation par melphalan à haute dose avec autogreffe. Une maintenance par daratumumab suit.",
+ "interet": "Si l'autogreffe n'apporte pas de bénéfice, elle pourrait être évitée chez une majorité de patients, limitant la toxicité. L'essai répondra à une question centrale à l'ère des anti-CD38.",
+ "profil": "Des adultes atteints d'amylose AL systémique nouvellement diagnostiquée, avec maladie mesurable.",
+ "inclusion": [
+  "Amylose AL systémique prouvée par biopsie (rouge Congo) avec typage confirmé",
+  "Maladie mesurable : immunofixation positive ou plasmocytes monoclonaux médullaires, avec dFLC ≥ 2 mg/dL",
+  "Un seul cycle de traitement antérieur autorisé au maximum",
+  "Âge ≥ 18 ans ; ECOG 0 à 2",
+  "Éligibilité à l'autogreffe : atteinte cardiaque non sévère (NT-proBNP < 5 000, NYHA I-II, FEVG ≥ 40 %) et PAS ≥ 90 mmHg",
+  "Fonctions hématologique, hépatique et rénale adéquates"
+ ],
+ "exclusion": [
+  "Myélome multiple concomitant (lésions lytiques, plasmocytomes, ≥ 60 % de plasmocytes, hypercalcémie)",
+  "Hépatite B active (AgHBs positif)",
+  "Allergie connue à un médicament de l'étude",
+  "Chirurgie majeure dans les 14 jours précédents",
+  "BPCO avec VEMS < 50 % ou asthme persistant modéré à sévère ou non contrôlé",
+  "Diabète ou hypertension non contrôlés",
+  "Infection non contrôlée, grossesse ou allaitement, vaccin vivant atténué dans les 28 jours"
+ ],
+ "bras": [
+  {
+   "nom": "Consolidation I : chimiothérapie",
+   "traitement": "Dara-VCD : daratumumab SC et hyaluronidase aux jours 1 et 15, bortezomib SC, cyclophosphamide, dexaméthasone"
+  },
+  {
+   "nom": "Consolidation II : chimiothérapie et autogreffe",
+   "traitement": "Mobilisation, melphalan IV à haute dose puis autogreffe de cellules souches"
+  },
+  {
+   "nom": "Induction et maintenance",
+   "traitement": "Induction Dara-VCD (daratumumab SC jours 1, 8, 15, 22 pour 2 cycles) ; maintenance par daratumumab SC tous les 28 jours, jusqu'à 18 cycles"
+  }
+ ],
+ "duree": "Jusqu'à 4 ans (critère évalué dans cette période)",
+ "critere": "Survie sans progression avec détérioration majeure d'organe : délai jusqu'à la progression hématologique, cardiaque ou rénale, ou le décès, jusqu'à 4 ans après la randomisation."
+}

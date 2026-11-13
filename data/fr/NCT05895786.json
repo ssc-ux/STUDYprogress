@@ -1,0 +1,35 @@
+{
+ "h": "05aac8cbebcf",
+ "date": "2026-11-13",
+ "titre": "Dazukibart (anti-interféron bêta) dans la dermatomyosite et la polymyosite actives",
+ "question": "Le dazukibart améliore-t-il le score d'amélioration totale (TIS) par rapport au placebo chez des patients atteints de dermatomyosite ou de polymyosite active ?",
+ "contexte": "La dermatomyosite (DM) et la polymyosite (PM) sont des myopathies inflammatoires idiopathiques à l'origine de faiblesse musculaire proximale, d'une atteinte cutanée spécifique dans la DM, et parfois d'atteintes pulmonaire ou cancéreuse associées. Le traitement repose sur les corticoïdes et les immunosuppresseurs conventionnels, avec les immunoglobulines IV comme seule biothérapie approuvée dans la DM. Beaucoup de patients restent actifs ou corticodépendants.\n\nLe dazukibart (PF-06823859) est un anticorps monoclonal neutralisant l'interféron bêta. Une forte signature interféron est retrouvée dans le muscle et la peau des patients atteints de DM, ce qui en fait une cible de choix. Cette étude de phase 3 est randomisée en double aveugle contre placebo, avec une perfusion IV toutes les 4 semaines jusqu'à la semaine 48, en plus d'un traitement de fond stable. Le promoteur est Pfizer ; 318 participants sont prévus.",
+ "interet": "Un résultat positif ajouterait une biothérapie ciblée aux options limitées des myosites actives, notamment dans la DM. Il pourrait aussi permettre de réduire la dépendance aux corticoïdes.",
+ "profil": "Des adultes atteints de dermatomyosite ou de polymyosite active, sous traitement de fond stable.",
+ "inclusion": [
+  "Âge ≥ 18 ans (ou âge légal de la majorité)",
+  "Dermatomyosite ou polymyosite active",
+  "Traitement de fond stable (un corticoïde oral et/ou un immunosuppresseur conventionnel)"
+ ],
+ "exclusion": [
+  "Myosite non idiopathique, myosite à inclusions ou myopathie nécrosante à médiation immune",
+  "Atteinte d'organe terminale",
+  "Infection active ou hospitalisation pour infection grave dans les 60 jours, infections récurrentes",
+  "Cancer ou antécédent de cancer dans les 5 ans",
+  "Greffe d'organe, syndrome lymphoprolifératif, maladie démyélinisante ou neurologique sévère",
+  "Événement coronarien ou cérébrovasculaire récent, dépression ou comportement suicidaire",
+  "Traitement anti-interféron bêta antérieur ou produit expérimental récent"
+ ],
+ "bras": [
+  {
+   "nom": "Dazukibart (PF-06823859)",
+   "traitement": "Perfusion intraveineuse d'environ 1 heure toutes les 4 semaines (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusion intraveineuse de placebo toutes les 4 semaines"
+  }
+ ],
+ "duree": "Environ 13 mois (15 visites)",
+ "critere": "Variation du score d'amélioration totale (TIS) à 24 semaines hors États-Unis et à 52 semaines aux États-Unis"
+}

@@ -1,0 +1,41 @@
+{
+ "h": "196f65d3531d",
+ "date": "2026-11-13",
+ "titre": "Lymphocytes CAR-T anti-CD19 (CABA-201) dans les myopathies inflammatoires de l'adulte et de l'enfant (RESET-Myositis)",
+ "question": "Les lymphocytes CAR-T anti-CD19 CABA-201 sont-ils sûrs et permettent-ils une amélioration sans traitement immunomodulateur dans les myopathies inflammatoires actives ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (myosites) sont des maladies auto-immunes rares caractérisées par une inflammation et une faiblesse musculaires. Certains sous-types, dermatomyosite (DM), syndrome des antisynthétases (SAS), myopathie nécrosante à médiation immune (IMNM) et formes juvéniles, impliquent probablement des lymphocytes B qui attaquent différents tissus.\n\nLes traitements actuels (corticoïdes, immunosuppresseurs, immunoglobulines) laissent une proportion de patients en maladie active ou dépendants du traitement. Le CABA-201 est une thérapie cellulaire CAR-T anti-CD19 expérimentale, administrée en dose unique après préconditionnement par fludarabine et cyclophosphamide. Elle vise une déplétion B profonde, avec l'espoir d'une rémission sans traitement de fond.\n\nRESET-Myositis est un essai de phase 2/3 ouvert, non randomisé, promu par Cabaletta Bio, avec environ 74 participants. Il comporte des cohortes adultes (18 à 75 ans, DM, SAS ou IMNM actifs malgré le traitement standard) et une cohorte juvénile (6 à 17 ans). Après une phase 1/2 de sécurité, deux sous-études de phase 2b évaluent l'efficacité dans la DM et le SAS, puis dans l'IMNM.",
+ "interet": "L'étude pourrait montrer si une thérapie CAR-T permet d'obtenir une amélioration sans immunosuppresseur ni corticoïdes à forte dose dans les myosites. Elle inclut aussi des enfants, ce qui est rare pour les thérapies cellulaires.",
+ "profil": "Des adultes (18 à 75 ans) et enfants (6 à 17 ans) atteints de dermatomyosite, de syndrome des antisynthétases ou de myopathie nécrosante active malgré le traitement standard.",
+ "inclusion": [
+  "Adultes de 18 à 75 ans (cohorte juvénile : 6 à 17 ans)",
+  "Myopathie inflammatoire selon les critères EULAR/ACR 2017",
+  "DM, syndrome des antisynthétases ou IMNM",
+  "Maladie active malgré le traitement standard (CK élevée, éruption de DM, ou activité à la biopsie, l'IRM ou l'EMG)",
+  "Faiblesse musculaire"
+ ],
+ "exclusion": [
+  "Contre-indication à la leucaphérèse",
+  "Anaphylaxie ou réaction sévère à la fludarabine ou au cyclophosphamide",
+  "Infection active nécessitant un traitement",
+  "Maladie rénale, hépatique, hématologique, digestive, pulmonaire, psychiatrique, cardiaque ou neurologique sévère ou non contrôlée",
+  "Atteinte pulmonaire ou cardiaque significative",
+  "Traitement CAR-T antérieur",
+  "Greffe d'organe solide ou de cellules souches hématopoïétiques antérieure"
+ ],
+ "bras": [
+  {
+   "nom": "CABA-201, phase 1/2",
+   "traitement": "Perfusion de CABA-201 après fludarabine et cyclophosphamide, dans des cohortes DM, SAS, IMNM et juvéniles"
+  },
+  {
+   "nom": "CABA-201, phase 2b, sous-étude 1",
+   "traitement": "Perfusion de CABA-201 après préconditionnement, chez des patients atteints de DM ou de SAS"
+  },
+  {
+   "nom": "CABA-201, phase 2b, sous-étude 2",
+   "traitement": "Perfusion de CABA-201 après préconditionnement, chez des patients atteints d'IMNM"
+  }
+ ],
+ "duree": "Non précisé (critères principaux à 28 jours, 16 semaines et 24 semaines selon la phase)",
+ "critere": "Phase 1/2 : incidence et gravité des événements indésirables jusqu'à 28 jours. Phase 2b : proportion de patients atteignant une amélioration (TIS) modérée (DM/SAS, 16 semaines) ou minimale (IMNM, 24 semaines), sans immunomodulateur et avec des corticoïdes nuls ou à faible dose."
+}

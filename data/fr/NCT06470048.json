@@ -1,0 +1,36 @@
+{
+ "h": "563da6a4268b",
+ "date": "2026-11-13",
+ "titre": "Ianalumab sous-cutané dans la sclérodermie systémique cutanée diffuse",
+ "question": "L'ianalumab sous-cutané améliore-t-il la réponse clinique de la sclérodermie systémique diffuse par rapport au placebo à 52 semaines ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse (ScSd) est une maladie auto-immune sévère associant fibrose cutanée extensive, PID et atteinte vasculaire. Les lymphocytes B et les auto-anticorps (anti-topoisomérase I, anti-ARN polymérase III) jouent un rôle central dans sa pathogenèse. Les options thérapeutiques (mycophénolate, tocilizumab, nintedanib, greffe de cellules souches) sont d'efficacité limitée.\n\nL'ianalumab est un anticorps monoclonal anti-BAFF-R qui déplète les lymphocytes B et bloque leur survie dépendante de BAFF. Il est développé par Novartis dans plusieurs maladies auto-immunes, dont le syndrome de Sjögren et le lupus.\n\nCet essai de phase 2 inclut 203 adultes de 18 à 70 ans atteints de ScSd récente (≤ 60 mois) et active, dans 25 pays dont la France. La première période de traitement dure 52 semaines contre placebo, suivie d'une période ouverte de 52 semaines où tous reçoivent l'ianalumab. Le critère principal est la réponse rCRISS à la semaine 52.",
+ "interet": "L'essai teste le ciblage de la voie BAFF-R et la déplétion B dans la ScSd. Il pourrait fournir un nouveau médicament dans une maladie à besoins non couverts. Il apportera aussi des données sur la réponse composite, au-delà de la seule atteinte cutanée.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique cutanée diffuse active, évoluant depuis 5 ans au plus.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, ScS (ACR/EULAR 2013) de sous-type diffus (LeRoy)",
+  "Durée d'évolution ≤ 60 mois depuis la première manifestation hors Raynaud",
+  "mRSS entre 15 et 45",
+  "Maladie active : évolution ≤ 18 mois, aggravation du mRSS, nouvelle zone corporelle atteinte, syndrome inflammatoire ou PID avec anticorps anti-topoisomérase",
+  "Au moins un auto-anticorps : anti-topoisomérase I, anti-ARN polymérase III ou ANA ≥ 1:80 (ANA seuls limités à 30 %)"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatologique, ScS limitée ou sine scleroderma",
+  "Anticorps anticentromères positifs sans anti-topoisomérase I ni anti-ARN polymérase III",
+  "Amélioration antérieure du mRSS > 10 points",
+  "CVF ≤ 50 % ou DLCO corrigée ≤ 40 % de la théorique ; HTAP de classe fonctionnelle OMS ≥ 3",
+  "Cyclophosphamide dans les 12 semaines, déplétion B antérieure récente (rituximab, etc.)",
+  "Biothérapie récente, produit expérimental dans les 4 semaines ou antifibrosants (colchicine, D-pénicillamine, pirfenidone, ITK)"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab",
+   "traitement": "Ianalumab par voie sous-cutanée selon le protocole pendant 52 semaines, puis ianalumab en ouvert pendant 52 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané pendant 52 semaines, puis ianalumab en ouvert pendant 52 semaines"
+  }
+ ],
+ "duree": "Environ 2 ans de traitement, suivi d'au moins 20 semaines après la dernière dose et jusqu'à 2 ans",
+ "critere": "Réponse rCRISS 3/5 25 à la semaine 52"
+}

@@ -1,0 +1,30 @@
+{
+ "h": "e7b9cca4a66e",
+ "date": "2026-11-13",
+ "titre": "Édition génique NTLA-2002 contre placebo dans l'angiœdème héréditaire",
+ "question": "Une perfusion unique de NTLA-2002 réduit-elle les crises d'angiœdème héréditaire par rapport au placebo ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type 1 ou 2 est dû à un déficit en inhibiteur de la C1 estérase et provoque des crises d'œdème récurrentes et imprévisibles. Les traitements de fond actuels sont à prendre à vie, par injections répétées ou par voie orale quotidienne. Une réduction durable de la charge thérapeutique reste un objectif majeur pour les patients.\n\nLe NTLA-2002 est un traitement d'édition génique in vivo reposant sur la technologie CRISPR/Cas9, délivré par nanoparticules lipidiques. Il vise à inactiver le gène KLKB1, ce qui diminue la production hépatique de prékallicréine et donc de bradykinine, avec un effet espéré durable après une seule perfusion. HAELO est une étude de phase 3 randomisée, en double aveugle, qui compare une perfusion unique de NTLA-2002 à un placebo salin. Le promoteur est Intellia Therapeutics, avec des centres français. La persistance de l'effet et la sécurité à long terme restent à établir.",
+ "interet": "Si le bénéfice se confirme, une perfusion unique pourrait remplacer un traitement de fond chronique. L'étude pourrait aussi servir de référence pour l'édition génique in vivo dans les maladies rares.",
+ "profil": "Des adolescents de 16 ans et plus et des adultes atteints d'angiœdème héréditaire de type 1 ou 2 avec des crises documentées.",
+ "inclusion": [
+  "Âge ≥ 16 ans",
+  "Histoire clinique compatible avec un AOH de type 1 ou 2",
+  "Crises confirmées par l'investigateur, selon les exigences du dépistage",
+  "Arrêt des traitements de fond de l'AOH depuis le dépistage jusqu'à la fin de la période d'observation principale, acceptable médicalement",
+  "Accès à un traitement de crise",
+  "Biologie et hématologie correctes au dépistage",
+  "Contraception selon le protocole"
+ ],
+ "exclusion": [
+  "Autre type d'angiœdème récurrent, ou AOH à C1-INH normal",
+  "Réaction négative ou hypersensibilité connue à un composant des nanoparticules lipidiques",
+  "Toute affection pouvant compromettre la sécurité du participant selon l'investigateur",
+  "Refus de se conformer aux procédures de l'étude"
+ ],
+ "bras": [
+  {"nom": "Bras A : NTLA-2002", "traitement": "50 mg en une perfusion intraveineuse unique"},
+  {"nom": "Bras B : placebo", "traitement": "Sérum salé, perfusion intraveineuse unique"}
+ ],
+ "duree": "Non précisé (critère principal évalué de la semaine 5 à la semaine 28)",
+ "critere": "Nombre de crises d'AOH confirmées par l'investigateur, normalisé par le temps, de la semaine 5 à la semaine 28."
+}

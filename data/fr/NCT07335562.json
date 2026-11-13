@@ -1,0 +1,37 @@
+{
+ "h": "c3c6268734e2",
+ "date": "2026-11-13",
+ "titre": "Lymphocytes CAR-T anti-CD19 versus traitement standard dans la sclérodermie systémique active",
+ "question": "Les lymphocytes CAR-T anti-CD19 (BMS-986353, zola-cel) améliorent-ils la fonction respiratoire par rapport au traitement standard chez les patients atteints de sclérodermie systémique active ?",
+ "contexte": "La sclérodermie systémique (ScS) avec PID et manifestations inflammatoires actives garde un pronostic sévère. Malgré les immunomodulateurs, le tocilizumab, le rituximab ou le nintédanib, une partie des patients continue de s'aggraver, et les options après échec sont limitées.\n\nLes lymphocytes CAR-T dirigés contre CD19 permettent une déplétion profonde des lymphocytes B, y compris dans les tissus. Des séries de cas et des petites cohortes dans les maladies auto-immunes, dont la ScS, ont rapporté des rémissions prolongées, sans que ces données soient contrôlées. Cette étude de phase 3, randomisée en ouvert, compare le BMS-986353 (après lymphodéplétion par fludarabine et cyclophosphamide) à un traitement standard (tocilizumab, rituximab ou nintédanib). Les patients du bras standard peuvent recevoir les CAR-T après confirmation d'une progression. Le promoteur est Juno Therapeutics (Bristol-Myers Squibb) ; 92 participants sont prévus.",
+ "interet": "Ce serait le premier essai de phase 3 des CAR-T dans la ScS. Un résultat positif pourrait installer cette approche comme option après échec des immunomodulateurs, au prix d'une prise en charge en centre spécialisé.",
+ "profil": "Des patients de 16 ans ou plus atteints de sclérodermie systémique active avec PID, en échec ou intolérants à au moins un immunomodulateur.",
+ "inclusion": [
+  "Âge ≥ 16 ans",
+  "ScS selon les critères ACR/EULAR 2013",
+  "AAN à fluorescence nucléolaire et/ou anti-topoisomérase I (Scl-70)",
+  "PID sur scanner relu de façon centralisée, ≥ 10 % du poumon atteint",
+  "Au moins une manifestation active attribuée à la ScS (arthrite, myosite, atteinte cardiaque, peau progressive, inflammation biologique)",
+  "Non-réponse ou intolérance après ≥ 6 mois d'au moins un immunomodulateur"
+ ],
+ "exclusion": [
+  "Oxygénothérapie ou DLCO ≤ 40 % (corrigée de l'hémoglobine)",
+  "HTAP modérée à sévère nécessitant une association spécifique",
+  "BPCO ou asthme sous corticoïdes oraux quotidiens, tabagisme dans les 3 mois ou refus d'arrêt",
+  "Anomalies scanographiques significatives non liées à la ScS",
+  "Dysmotilité digestive nécessitant une nutrition parentérale",
+  "Gangrène digitale en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A : BMS-986353",
+   "traitement": "CAR-T anti-CD19 BMS-986353 après lymphodéplétion par fludarabine et cyclophosphamide"
+  },
+  {
+   "nom": "Bras B : traitement standard",
+   "traitement": "Tocilizumab, rituximab ou nintédanib (doses non précisées) ; BMS-986353 possible après progression"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 12 mois)",
+ "critere": "Variation absolue de la capacité vitale forcée (CVF, en mL) par rapport à l'inclusion, à 12 mois"
+}

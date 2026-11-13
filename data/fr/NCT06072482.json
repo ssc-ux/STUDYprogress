@@ -1,0 +1,41 @@
+{
+ "h": "1758f79e191b",
+ "date": "2026-11-13",
+ "titre": "Sécurité à long terme de l'avacopan dans les vascularites à ANCA",
+ "question": "L'avacopan est-il bien toléré sur cinq ans chez des patients ayant une vascularite à ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et PAM) sont des vascularites des petits vaisseaux, avec fréquente atteinte rénale et pulmonaire. L'induction par rituximab ou cyclophosphamide s'accompagne d'une corticothérapie dont la toxicité cumulée est un enjeu majeur, d'où l'intérêt d'alternatives épargnant les glucocorticoïdes.\n\nL'avacopan, antagoniste oral du récepteur du fragment C5a du complément, a montré dans l'essai ADVOCATE une rémission non inférieure à 26 semaines et supérieure à 52 semaines par rapport à un schéma de prednisone, avec moins de glucocorticoïdes. Les données de tolérance au-delà d'un an restent limitées, alors que la maladie évolue par rechutes sur plusieurs années.\n\nCet essai de phase 4 d'Amgen inclut 300 adultes à l'induction d'une GPA ou PAM nouvelle ou en rechute. Trois groupes reçoivent le traitement de fond standard plus avacopan 30 mg deux fois par jour pendant 5 ans, avacopan 1 an puis placebo 4 ans, ou placebo 5 ans. Le critère principal est la tolérance jusqu'à 60 mois.",
+ "interet": "Il fournira des données de tolérance sur cinq ans, utiles pour juger du rapport bénéfice-risque d'un traitement prolongé, et pourra renseigner l'effet de la durée d'exposition sur les rechutes.",
+ "profil": "Des adultes ayant une GPA ou PAM nouvelle ou en rechute, nécessitant une induction par rituximab ou cyclophosphamide.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "GPA ou PAM nouvelle ou en rechute (Chapel Hill), induction par cyclophosphamide ou rituximab nécessaire",
+  "Anticorps anti-PR3 ou anti-MPO positifs (actuels ou passés)",
+  "Au moins 1 item majeur ou 3 items mineurs du BVAS, ou protéinurie et hématurie",
+  "DFG d'au moins 15 mL/min/1,73 m²",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Hémorragie alvéolaire sous ventilation invasive prolongée",
+  "Autre maladie auto-immune multisystémique (EGPA, lupus, vascularite à IgA, rhumatoïde, Sjögren, anti-MBG, cryoglobulinémie)",
+  "Autre affection nécessitant un traitement immunosuppresseur prolongé",
+  "Dialyse ou échanges plasmatiques dans les 16 semaines",
+  "Transplantation rénale",
+  "Cancer (sauf exceptions curatives)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "Avacopan 30 mg deux fois par jour pendant 5 ans, avec traitement de fond standard"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "Avacopan 30 mg deux fois par jour pendant 1 an, puis placebo pendant 4 ans, avec traitement de fond standard"
+  },
+  {
+   "nom": "Groupe C",
+   "traitement": "Placebo deux fois par jour pendant 5 ans, avec traitement de fond standard"
+  }
+ ],
+ "duree": "5 ans (60 mois)",
+ "critere": "Proportion de participants ayant des événements indésirables apparus sous traitement, des événements d'intérêt particulier, des événements graves ou des arrêts pour événement indésirable, jusqu'au mois 60."
+}

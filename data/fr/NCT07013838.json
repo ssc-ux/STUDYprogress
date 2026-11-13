@@ -1,0 +1,31 @@
+{
+ "h": "bf8f4eb8ba80",
+ "date": "2026-11-13",
+ "titre": "Deucravacitinib dans la maladie de Takayasu",
+ "question": "Le deucravacitinib est-il aussi efficace que l'adalimumab dans la maladie de Takayasu en rechute ?",
+ "contexte": "La maladie de Takayasu est une artérite des gros vaisseaux touchant l'aorte et ses branches. Après les glucocorticoïdes, les immunosuppresseurs conventionnels et les biothérapies (anti-TNF, tocilizumab) sont utilisés. Les anti-TNF sont considérés comme le choix le plus établi en cas de rechute ou de maladie réfractaire, mais une partie des patients n'y répond pas ou y devient intolérante.\n\nLe deucravacitinib est un inhibiteur sélectif de TYK2, kinase impliquée dans la signalisation des interférons de type I, de l'IL-12 et de l'IL-23. Il est approuvé dans le psoriasis et étudié dans d'autres maladies à médiation immunitaire. Son rôle dans les vascularites des gros vaisseaux n'est pas établi.\n\nCet essai de phase 4 de 24 semaines, monocentrique et ouvert, mené au Peking Union Medical College Hospital, randomise 50 adultes ayant une Takayasu active en TEP-FDG malgré glucocorticoïdes et immunosuppresseur autre qu'un anti-TNF. Il compare deucravacitinib 6 mg par jour à l'adalimumab 40 mg toutes les 2 semaines.",
+ "interet": "Il pourrait ouvrir la voie à un inhibiteur oral de TYK2 comme alternative aux anti-TNF dans la maladie de Takayasu. L'effectif est modeste et le suivi court.",
+ "profil": "Des adultes ayant une maladie de Takayasu active ou en rechute, confirmée par TEP-FDG.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, critères ACR/EULAR 2022 de Takayasu",
+  "Maladie active ou en rechute malgré glucocorticoïdes et immunosuppresseur conventionnel ou biologique autre qu'anti-TNF",
+  "Vascularite active à la TEP-FDG à l'inclusion",
+  "Consentement écrit",
+  "Test de grossesse négatif et contraception efficace pour les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+ ],
+ "bras": [
+  {
+   "nom": "Deucravacitinib",
+   "traitement": "Deucravacitinib 6 mg par voie orale une fois par jour pendant 168 jours"
+  },
+  {
+   "nom": "Adalimumab",
+   "traitement": "Adalimumab 40 mg par voie sous-cutanée toutes les 2 semaines pendant 168 jours"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Taux de réponse globale à la semaine 24."
+}

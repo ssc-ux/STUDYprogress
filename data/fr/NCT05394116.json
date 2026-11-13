@@ -1,0 +1,41 @@
+{
+ "h": "2e76fa11f003",
+ "date": "2026-11-13",
+ "titre": "Garétosmab intraveineux dans la fibrodysplasie ossifiante progressive de l'adulte",
+ "question": "Le garétosmab réduit-il l'apparition de nouvelles lésions d'ossification hétérotopique par rapport au placebo chez des adultes atteints de FOP ?",
+ "contexte": "La fibrodysplasie ossifiante progressive (FOP) est une maladie génétique ultra-rare, due à des variants activateurs du gène ACVR1, qui provoque des poussées inflammatoires douloureuses puis des ossifications hétérotopiques des tissus mous. Ces ossifications entraînent une perte de mobilité cumulative et irréversible. Le palovarotène est approuvé dans certains pays, mais son efficacité est partielle et il expose à des effets indésirables, notamment sur la croissance chez l'enfant.\n\nLe garétosmab est un anticorps monoclonal qui neutralise l'activine A, ligand qui active de façon anormale le récepteur ACVR1 muté dans la FOP. Une étude de phase 2 (LUMINA-1) a rapporté une réduction des nouvelles lésions d'ossification, avec des événements indésirables notables (épistaxis, saignements, réactions cutanées). OPTIMA est une étude de phase 3 randomisée contre placebo, avec deux doses de garétosmab administrées par voie intraveineuse toutes les 4 semaines. Le promoteur est Regeneron ; 63 participants ont été inclus.",
+ "interet": "Un résultat positif donnerait une option ciblant la cause de la maladie, pour prévenir l'accumulation de lésions irréversibles. L'étude documentera aussi le profil de sécurité, point sensible dans cette indication.",
+ "profil": "Des adultes atteints de FOP génétiquement confirmée, avec une activité de la maladie dans l'année précédente.",
+ "inclusion": [
+  "Diagnostic clinique de FOP (malformation des gros orteils, poussées, ossification hétérotopique progressive)",
+  "Mutation d'ACVR1 documentée",
+  "Activité de la maladie dans l'année précédant la sélection (poussées, perte de fonction articulaire ou progression radiologique)",
+  "Accord pour les scanners et autres procédures du protocole",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Score d'atteinte articulaire cumulée (CAJIS) > 19",
+  "Maladie concomitante significative (cardiaque, rénale, rhumatologique, neurologique, psychiatrique, endocrinienne, etc.)",
+  "Antécédent de cancer",
+  "DFG < 30 mL/min/1,73 m², diabète non contrôlé (HbA1c > 9 %), hypertension mal contrôlée",
+  "Malformation vasculaire cérébrale, insuffisance cardiaque NYHA III-IV, infarctus ou syndrome coronarien récent",
+  "Antécédent d'insuffisance respiratoire sévère ou de pneumonie d'inhalation hospitalisée",
+  "Bisphosphonates dans l'année, ou denosumab, imatinib, isotrétinoïne ou autre médicament expérimental dans les 30 jours ; grossesse, allaitement, contraception inadéquate"
+ ],
+ "bras": [
+  {
+   "nom": "Garétosmab forte dose",
+   "traitement": "Garétosmab par voie intraveineuse toutes les 4 semaines (dose non précisée)"
+  },
+  {
+   "nom": "Garétosmab faible dose",
+   "traitement": "Garétosmab par voie intraveineuse toutes les 4 semaines (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie intraveineuse toutes les 4 semaines"
+  }
+ ],
+ "duree": "Non précisé (critères principaux à 56 semaines)",
+ "critere": "Nombre de nouvelles lésions d'ossification hétérotopique à 56 semaines, et incidence et gravité des événements indésirables d'intérêt particulier jusqu'à 56 semaines"
+}

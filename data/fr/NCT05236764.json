@@ -1,0 +1,32 @@
+{
+ "h": "8f78b4304e67",
+ "date": "2026-11-13",
+ "titre": "Greffe haplo-identique avec déplétion TCR alpha-bêta/CD19 pour hémopathies et maladies non malignes",
+ "question": "La déplétion ex vivo en lymphocytes T alpha-bêta et en lymphocytes B CD19+ du greffon permet-elle une greffe haplo-identique sûre, avec une bonne prise de greffe et un faible risque de GVH ?",
+ "contexte": "Les patients atteints d'hémopathies malignes ou de maladies non malignes graves (déficits immunitaires, hémoglobinopathies, aplasies, LHH) peuvent nécessiter une allogreffe de cellules souches. Beaucoup n'ont pas de donneur HLA 10/10 disponible à temps. La greffe haplo-identique, avec un parent ou un autre donneur semi-compatible, élargit l'accès à la greffe, mais expose à la maladie du greffon contre l'hôte (GVH), source de morbidité et de mortalité.\n\nLes lymphocytes T alpha-bêta du greffon sont les principaux responsables de la GVH, tandis que les lymphocytes T gamma-delta et les cellules NK sont conservés pour leur rôle anti-infectieux. La déplétion des lymphocytes B CD19+ réduit le risque de lymphoprolifération liée à l'EBV. Cette étude de phase 1/2 monocentrique, menée au Texas Children's Hospital et au Houston Methodist Hospital (Baylor College of Medicine), utilise le dispositif CliniMACS sur un greffon périphérique, avec conditionnement standard. Elle vise à supprimer l'immunosuppression post-greffe. Les données du registre ne montrent que 3 patients inclus.",
+ "interet": "Cette approche pourrait offrir une greffe haplo-identique avec moins de GVH et sans immunosuppression prolongée. Elle s'adresse à des patients sans donneur compatible.",
+ "profil": "Des enfants et adultes avec hémopathie maligne ou maladie non maligne (LHH, déficit immunitaire, hémoglobinopathie, aplasie) sans donneur HLA 10/10 adapté.",
+ "inclusion": [
+  "Absence de donneur HLA 10/10 adapté, ou maladie rapidement évolutive",
+  "Indice de Lansky/Karnofsky > 50",
+  "Consentement écrit",
+  "Hémopathie maligne à haut risque (LAL, LAM, SMD, LNH, LMC), LHH (familiale, rechute, SNC), déficit immunitaire, hémoglobinopathie, aplasie sévère, cytopénie constitutionnelle ou EBV chronique actif"
+ ],
+ "exclusion": [
+  "Espérance de vie ≤ 6 semaines",
+  "GVH aiguë > grade II ou chronique extensive liée à une greffe antérieure",
+  "Immunosuppresseur en cours pour une GVH antérieure",
+  "Cardiopathie symptomatique ou FEVG < 40 %",
+  "Insuffisance rénale sévère (clairance < 40 mL/min/1,73 m²)",
+  "Pneumopathie restrictive sévère (CVF < 40 %)",
+  "Hépatopathie sévère (ALAT/ASAT ≥ 2,5 x la normale)"
+ ],
+ "bras": [
+  {
+   "nom": "Greffon déplété en lymphocytes T alpha-bêta/CD19",
+   "traitement": "Greffe haplo-identique de cellules CD34+ après conditionnement standard ; déplétion avec le dispositif CliniMACS"
+  }
+ ],
+ "duree": "Suivi d'un an après la greffe (survie globale à un an) ; durée totale non précisée",
+ "critere": "Incidence cumulée de la prise de greffe des polynucléaires neutrophiles et des plaquettes à 42 jours, et de la GVH aiguë de grade III ou plus à 100 jours."
+}

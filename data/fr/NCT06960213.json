@@ -1,0 +1,28 @@
+{
+ "h": "46c4be816e65",
+ "date": "2026-11-13",
+ "titre": "ADX-324 contre placebo pour prévenir les crises d'angiœdème héréditaire de type 1 ou 2",
+ "question": "L'ADX-324 réduit-il les crises d'angiœdème héréditaire de type 1 ou 2 par rapport au placebo ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type 1 ou 2 résulte d'un déficit en inhibiteur de la C1 estérase. Il entraîne des crises récurrentes d'œdème sous-cutané, digestif ou laryngé, imprévisibles et parfois mortelles. Le traitement de fond dispose aujourd'hui du lanadelumab, du garadacimab, du bérotralstat, du C1-INH et des androgènes. Il pèse pourtant sur les patients par la fréquence des administrations, le coût et la survenue de crises sous traitement.\n\nL'ADX-324 est un oligonucléotide (ARN interférent) qui vise à réduire la production hépatique de la prékallicréine, afin de diminuer la génération de bradykinine. Le rationnel est celui d'un traitement de fond espacé. STOP-HAE est une étude de phase 3 randomisée en double aveugle, qui compare deux niveaux de dose d'ADX-324 à un placebo. Elle évalue aussi la pharmacocinétique, la pharmacodynamie et la qualité de vie. Le promoteur est ADARx Pharmaceuticals.",
+ "interet": "L'étude pourrait valider un nouveau traitement de fond par ARN interférent dans l'AOH, avec un rythme d'administration potentiellement espacé. Elle se place face à des options déjà efficaces, ce qui rend la comparaison au placebo et la qualité de vie d'autant plus utiles.",
+ "profil": "Des adultes atteints d'angiœdème héréditaire de type 1 ou 2, ayant des crises récentes et un traitement de crise disponible.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic documenté d'AOH de type 1 ou 2",
+  "≥ 1 crise confirmée par l'investigateur dans les 4 premières semaines du dépistage, ou ≥ 2 en 8 semaines",
+  "Capacité à utiliser au moins un traitement de crise (C1-INH ou antagoniste du récepteur B2 de la bradykinine)"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème récurrent : acquis, AOH à C1-INH normal, idiopathique, associé à l'urticaire",
+  "Maladie rénale ou hépatique cliniquement significative",
+  "Traitement de fond récent : C1-INH 2 semaines, bérotralstat 3 semaines, lanadelumab 8 semaines, androgènes 12 semaines avant le dépistage",
+  "Traitement antérieur par un traitement à base d'ARN/ADN pour l'AOH, ou intolérance à un tel traitement pour une autre indication (hors vaccins)"
+ ],
+ "bras": [
+  {"nom": "ADX-324 dose 1", "traitement": "ADX-324, dose et rythme non précisés"},
+  {"nom": "ADX-324 dose 2", "traitement": "ADX-324, dose et rythme non précisés"},
+  {"nom": "Placebo", "traitement": "Placebo"}
+ ],
+ "duree": "Non précisé (critère principal évalué jusqu'à la semaine 25)",
+ "critere": "Efficacité de l'ADX-324 pour prévenir les crises d'AOH, du jour 22 à la semaine 25."
+}

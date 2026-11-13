@@ -1,0 +1,24 @@
+{
+ "h": "7825e090a858",
+ "date": "2026-11-13",
+ "titre": "Suivi à long terme de la thérapie génique des cellules souches dans le syndrome de Wiskott-Aldrich",
+ "question": "Quelle est la sécurité à long terme de la thérapie génique lentivirale autologue chez les patients atteints de syndrome de Wiskott-Aldrich ?",
+ "contexte": "Le syndrome de Wiskott-Aldrich (SWA) est un déficit immunitaire primitif lié à l'X, causé par des mutations du gène WAS. Il associe thrombopénie avec microplaquettes, eczéma, infections récurrentes, auto-immunité et risque accru de lymphome.\n\nLa greffe allogénique de cellules souches hématopoïétiques est le traitement curatif de référence, mais elle dépend de la disponibilité d'un donneur compatible et expose à la GVH et aux complications infectieuses. La thérapie génique autologue offre une alternative pour les patients sans donneur.\n\nDes patients ont reçu en France et au Royaume-Uni, dans les essais de phase 1/2 GTG002.07 et GTG003.08, des cellules CD34+ autologues transduites par un vecteur lentiviral porteur du gène WAS (w1.6_hWASP_WPRE). Cette étude ouverte assure leur suivi de sécurité à long terme, en recherchant notamment les sites d'intégration du vecteur, le nombre de copies de vecteur et le lentivirus compétent pour la réplication. Le promoteur est Genethon.",
+ "interet": "Ces données renseignent sur la sécurité à long terme des vecteurs lentiviraux, au-delà de la leucémie liée aux vecteurs rétroviraux antérieurs. Elles soutiennent le développement de thérapies géniques autologues dans les déficits immunitaires primitifs.",
+ "profil": "Des patients atteints de syndrome de Wiskott-Aldrich déjà traités par thérapie génique dans les essais français et britanniques de phase 1/2.",
+ "inclusion": [
+  "Patient inclus dans les essais initiaux de phase 1/2 sur le SWA en France et au Royaume-Uni (GTG002.07 et GTG003.08)",
+  "Consentement signé par les parents, tuteurs ou le patient"
+ ],
+ "exclusion": [
+  "Parents, tuteurs ou patient refusant de revenir pour le suivi"
+ ],
+ "bras": [
+  {
+   "nom": "Patients traités par thérapie génique",
+   "traitement": "Aucun traitement dans cette étude ; suivi annuel de patients ayant reçu des cellules CD34+ autologues transduites par vecteur lentiviral"
+  }
+ ],
+ "duree": "Suivi annuel de 3 à 15 ans après la thérapie génique",
+ "critere": "Incidence et type d'événements indésirables graves, sites d'intégration lentivirale, nombre de copies de vecteur et lentivirus compétent pour la réplication, annuellement de 3 à 15 ans."
+}

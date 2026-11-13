@@ -1,0 +1,36 @@
+{
+ "h": "4c57250b73ca",
+ "date": "2026-11-13",
+ "titre": "Glucocorticoïdes à faible dose pendant 4 semaines dans les vascularites à ANCA avec atteinte rénale sévère",
+ "question": "Un schéma de 4 semaines de glucocorticoïdes avec cyclophosphamide et rituximab est-il sûr, applicable et efficace en cas d'atteinte rénale sévère ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et PAM) avec atteinte rénale sévère, définie par un DFG inférieur à 40 mL/min, ont un risque élevé d'insuffisance rénale terminale et de décès. Le traitement d'induction associe glucocorticoïdes à forte dose, rituximab ou cyclophosphamide, avec parfois des échanges plasmatiques.\n\nL'exposition cortisonique est responsable d'infections graves, première cause de mortalité précoce. L'essai PEXIVAS a validé un schéma à dose réduite, mais les durées de corticothérapie restent longues. Les patients à DFG très bas ont été peu représentés dans les essais récents évaluant un sevrage cortisonique rapide.\n\nSAFE-LOW est un essai de phase 3 de l'Ottawa Hospital Research Institute, qui débute par une phase pilote de faisabilité. Il compare un schéma associant cyclophosphamide IV (2 doses), rituximab et prednisone pendant 4 semaines seulement, à la prise en charge standard laissée à l'investigateur. 36 patients sont prévus.",
+ "interet": "Il pourrait établir qu'un sevrage cortisonique très rapide est faisable et plus sûr sur le plan infectieux dans les atteintes rénales sévères. La phase pilote portera d'abord sur l'adhésion au schéma.",
+ "profil": "Des adultes ayant une GPA ou PAM nouvelle ou en rechute avec atteinte rénale sévère (DFG inférieur à 40 mL/min).",
+ "inclusion": [
+  "GPA ou PAM nouvelle ou en rechute (Chapel Hill)",
+  "ANCA anti-MPO ou anti-PR3 positifs",
+  "DFG inférieur à 40 mL/min/1,73 m² (hors insuffisance rénale stable depuis plus de 3 mois)",
+  "Glomérulonéphrite nécrosante ou à croissants prouvée par biopsie, ou sédiment urinaire actif"
+ ],
+ "exclusion": [
+  "Autre vascularite (EGPA, IgA, cryoglobulinémique, rhumatoïde)",
+  "Anticorps anti-membrane basale glomérulaire positifs",
+  "Lupus ou syndrome de Sjögren",
+  "Dialyse depuis plus de 21 jours ou greffe rénale antérieure",
+  "Grossesse",
+  "Traitement d'induction préalable significatif dans les 28 jours",
+  "VIH, hépatite B ou C, tuberculose latente non traitée ou infection active"
+ ],
+ "bras": [
+  {
+   "nom": "Bras intervention",
+   "traitement": "Cyclophosphamide IV (2 doses), rituximab et prednisone pendant 4 semaines"
+  },
+  {
+   "nom": "Soins standard",
+   "traitement": "Induction et glucocorticoïdes (dose et durée) selon l'investigateur"
+  }
+ ],
+ "duree": "26 semaines pour le critère principal de l'essai complet",
+ "critere": "Phase pilote : adhésion au schéma à 12 semaines. Essai complet : taux d'infections graves à 26 semaines."
+}

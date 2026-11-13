@@ -1,0 +1,33 @@
+{
+ "h": "4cb8287379b7",
+ "date": "2026-11-13",
+ "titre": "ALXN2220 contre placebo dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "L'ALXN2220 réduit-il la mortalité toutes causes et les événements cardiovasculaires dans l'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM), sauvage ou héréditaire, résulte du dépôt myocardique de fibrilles de TTR. Elle entraîne une insuffisance cardiaque progressive, des troubles du rythme et un risque élevé de décès. Les stabilisateurs de la TTR (tafamidis, acoramidis) et le vutrisiran, un ARN interférent, ralentissent la maladie, sans éliminer les dépôts déjà formés.\n\nL'ALXN2220 est un anticorps monoclonal qui cible les dépôts de TTR et vise à en favoriser l'élimination par le système immunitaire. Cette étude de phase 3 randomisée en double aveugle contre placebo inclut environ 1 180 patients. Les participants reçoivent l'ALXN2220 ou le placebo en perfusion toutes les 4 semaines, en plus du traitement habituel. Ils sont déjà en insuffisance cardiaque avancée, avec un NT-proBNP élevé et un traitement diurétique, ce qui donne un nombre d'événements suffisant. Le promoteur est Alexion, avec des centres français.",
+ "interet": "L'étude teste l'élimination des dépôts amyloïdes comme complément des traitements qui ciblent la production ou la stabilité de la TTR. Elle porte sur des patients à risque élevé, avec un critère clinique de morbi-mortalité.",
+ "profil": "Des adultes de 18 à 90 ans atteints d'amylose cardiaque à transthyrétine avec insuffisance cardiaque NYHA II à IV.",
+ "inclusion": [
+  "Diagnostic d'ATTR-CM, de génotype sauvage ou variant",
+  "Épaisseur septale interventriculaire télédiastolique ≥ 12 mm à l'échocardiographie",
+  "NT-proBNP > 2 000 pg/mL au dépistage",
+  "Diurétique de l'anse depuis au moins 30 jours",
+  "Insuffisance cardiaque NYHA II à IV",
+  "Espérance de vie ≥ 6 mois selon l'investigateur",
+  "Contraception pour les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Amylose leptoméningée connue",
+  "Amylose AL, AA ou autre amylose systémique connue",
+  "Syndrome coronarien aigu, AVC, revascularisation, chirurgie majeure ou dispositif cardiaque dans les 3 mois",
+  "Arythmie cardiaque cliniquement significative non contrôlée",
+  "FEVG < 30 % à l'échocardiographie",
+  "Insuffisance rénale avec dialyse ou DFGe < 20 mL/min/1,73 m²",
+  "Polyneuropathie de stade PND IV"
+ ],
+ "bras": [
+  {"nom": "ALXN2220", "traitement": "ALXN2220 en perfusion IV toutes les 4 semaines, dose adaptée au poids, pendant 30 à 48 mois"},
+  {"nom": "Placebo", "traitement": "Placebo en perfusion IV toutes les 4 semaines, pendant 30 à 48 mois"}
+ ],
+ "duree": "Au moins 30 mois, jusqu'à 48 mois maximum",
+ "critere": "Nombre total d'événements, décès toutes causes et événements cliniques cardiovasculaires, pendant la période de traitement en aveugle, jusqu'à 48 mois."
+}

@@ -1,0 +1,33 @@
+{
+ "h": "016edb81fe9c",
+ "date": "2026-11-13",
+ "titre": "Éplontersen associé à ALXN2220 versus éplontersen et placebo dans la cardiomyopathie amyloïde à TTR",
+ "question": "L'ajout d'ALXN2220 à l'éplontersen améliore-t-il la capacité d'effort des patients atteints de cardiomyopathie amyloïde à transthyrétine ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), héréditaire ou sauvage, est due au dépôt de fibrilles de TTR dans le myocarde. Elle entraîne une insuffisance cardiaque progressive, à fraction d'éjection souvent préservée, avec une morbi-mortalité élevée.\n\nLes traitements actuels agissent sur la production ou la stabilité de la TTR : stabilisateurs (tafamidis, acoramidis) et silenceurs (vutrisiran, éplontersen). Ils ralentissent la maladie sans éliminer les dépôts déjà formés, d'où l'intérêt d'approches complémentaires.\n\nALXN2220 est un anticorps monoclonal ciblant les dépôts de TTR amyloïde et destiné à favoriser leur élimination, en complément d'un silenceur de la TTR. Cette étude de phase 2, randomisée en double aveugle contre placebo et multicentrique, promue par AstraZeneca, compare éplontersen SC associé à ALXN2220 IV toutes les 4 semaines à éplontersen associé à un placebo, avec comme critère principal le pic de VO2 à l'épreuve d'effort cardiorespiratoire.",
+ "interet": "Une association silenceur de la TTR et anticorps anti-dépôts pourrait ouvrir une stratégie visant à réduire la charge amyloïde, et pas seulement à freiner sa formation, dans l'ATTR-CM.",
+ "profil": "Des adultes de 18 à 85 ans atteints de cardiomyopathie amyloïde à transthyrétine, de génotype sauvage ou variant, en classe NYHA I à III.",
+ "inclusion": [
+  "Âge de 18 à 85 ans",
+  "ATTR-CM prouvée par biopsie endomyocardique ou scintigraphie (fixation de grade 2 ou 3) avec typage selon la présence d'une gammapathie",
+  "Classe NYHA I à III et espérance de vie ≥ 1 an",
+  "Épaisseur septale télédiastolique ≥ 12 mm",
+  "NT-proBNP ≥ 600 pg/mL (≥ 1 200 pg/mL si FA/flutter)",
+  "Épreuve d'effort cardiorespiratoire maximale réalisable (RER ≥ 1,0)",
+  "Traitement standard de l'insuffisance cardiaque optimisé et stable depuis ≥ 4 semaines"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Éplontersen et ALXN2220",
+   "traitement": "Éplontersen par voie sous-cutanée et ALXN2220 par voie intraveineuse toutes les 4 semaines"
+  },
+  {
+   "nom": "Éplontersen et placebo",
+   "traitement": "Éplontersen par voie sous-cutanée et placebo par voie intraveineuse toutes les 4 semaines"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 52 semaines)",
+ "critere": "Pic de VO2 à l'épreuve d'effort cardiorespiratoire à 52 semaines."
+}

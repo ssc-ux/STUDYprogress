@@ -1,0 +1,40 @@
+{
+ "h": "11c4d60caea1",
+ "date": "2026-11-13",
+ "titre": "Allogreffe dans les maladies de prolifération et de dysrégulation des lymphocytes T",
+ "question": "L'allogreffe de cellules souches, avec conditionnement réduit ou immunosuppression seule, permet-elle un chimérisme T durable et sans échec de greffe dans les maladies de prolifération ou de dysrégulation T ?",
+ "contexte": "Les maladies de prolifération et de dysrégulation des lymphocytes T (TCP/D) regroupent des affections rares : mutations activatrices de la voie PI3K, déficit en ADA2, lymphoprolifération T avec infiltration d'organes, LHH, EBV chronique actif, syndromes lymphoprolifératifs auto-immuns. Elles entraînent lymphoprolifération, auto-immunité, infections et activation immunitaire aberrante, avec une morbidité et une mortalité importantes.\n\nL'allogreffe de cellules souches hématopoïétiques peut guérir ces maladies, mais ces patients sont exposés à un risque élevé de rejet de greffe et de rechute. Le conditionnement optimal n'est pas défini. Cette étude de phase 2 non randomisée, promue par le NCI, évalue deux approches : un conditionnement d'intensité réduite et un conditionnement par immunosuppression seule, tous deux avec globuline antithymocyte équine, selon la situation du patient. Elle inclut aussi des donneurs sains de 4 ans et plus (bras donneur). L'objectif principal, estimé séparément pour chaque bras, est le chimérisme T du donneur et l'absence d'échec de greffe à 180 jours. 71 participants sont prévus.",
+ "interet": "Si le chimérisme et la survie sans échec de greffe sont satisfaisants, ces conditionnements pourraient fournir une stratégie de greffe adaptée aux patients avec dysrégulation T. L'étude ne comporte pas de comparateur, et les deux bras ne sont pas randomisés.",
+ "profil": "Des patients de 4 ans et plus atteints d'une maladie de prolifération ou de dysrégulation des lymphocytes T, et leurs donneurs sains.",
+ "inclusion": [
+  "Âge ≥ 4 ans",
+  "Maladie de prolifération ou dysrégulation T assez sévère pour justifier une allogreffe (mutation de la voie PI3K, déficit en ADA2, infiltration T d'organes, LHH, EBV chronique actif, cytopénies à médiation immune...)",
+  "Donneur HLA compatible 7-8/8 apparenté ou non apparenté, ou donneur apparenté haplo-identique",
+  "Donneur apparenté : âge ≥ 4 ans, apte et consentant",
+  "Donneur non apparenté évalué selon les procédures du NMDP"
+ ],
+ "exclusion": [
+  "Autre agent expérimental en cours (sauf lymphocytes T spécifiques de virus)",
+  "Allergie prohibitive à un médicament de l'étude (ATG équine, corticoïdes, cyclophosphamide, busulfan, pentostatine, tacrolimus, MMF, G-CSF)",
+  "Trouble psychiatrique actif compromettant l'observance ou le consentement",
+  "VIH positif ou autre immunodéficience acquise gênant l'évaluation",
+  "Mutation MagT1 avec besoin d'antiagrégants ou d'anticoagulation non interruptibles",
+  "Accès veineux central inadéquat"
+ ],
+ "bras": [
+  {
+   "nom": "Bras 1 : conditionnement d'intensité réduite",
+   "traitement": "Conditionnement d'intensité réduite avec ATG équine, puis allogreffe (agents détaillés au registre)"
+  },
+  {
+   "nom": "Bras 2 : immunosuppression seule",
+   "traitement": "Conditionnement par immunosuppression seule avec ATG équine, puis allogreffe"
+  },
+  {
+   "nom": "Bras 3 : donneurs",
+   "traitement": "Donneurs sains pour les receveurs des bras 1 et 2"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 180 jours après la greffe)",
+ "critere": "Proportion de receveurs vivants avec un chimérisme T du donneur > 50 % et sans échec de greffe à 180 jours après la greffe."
+}

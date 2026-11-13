@@ -1,0 +1,38 @@
+{
+ "h": "36a8c21cdc4e",
+ "date": "2026-11-13",
+ "titre": "Deucrictibant oral à libération prolongée en prophylaxie de l'angiœdème héréditaire",
+ "question": "Le deucrictibant oral à libération prolongée, une fois par jour, réduit-il le nombre de crises d'angiœdème héréditaire par rapport au placebo ?",
+ "contexte": "L'angiœdème héréditaire (AOH) est une maladie rare à crises d'œdème imprévisibles, par excès de bradykinine. Les patients ayant des crises fréquentes ou sévères relèvent d'une prophylaxie de longue durée : inhibiteur de C1, lanadelumab, berotralstat, androgènes atténués. Plusieurs de ces options sont injectables, ou limitées par leur efficacité ou leur tolérance.\n\nLe deucrictibant est un antagoniste oral du récepteur B2 de la bradykinine. Une forme à libération prolongée en une prise quotidienne est évaluée en prophylaxie, en complément de la forme à la demande étudiée dans RAPIDe-3.\n\nCHAPTER-3 est un essai de phase 3 promu par Pharvaris : randomisé en 2:1, en double insu, contre placebo, chez 85 patients de 12 ans et plus, dans 24 pays dont la France. La phase de traitement dure 24 semaines. Les participants peuvent ensuite passer dans l'extension ouverte CHAPTER-4.",
+ "interet": "Une prophylaxie orale quotidienne efficace élargirait le choix thérapeutique de l'AOH, en particulier pour les patients réticents aux injections. Le critère retenu, le nombre de crises confirmées par l'investigateur, est directement pertinent pour la pratique.",
+ "profil": "Des adolescents et adultes (≥ 12 ans) atteints d'angiœdème héréditaire avec des crises fréquentes.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "Diagnostic d'angiœdème héréditaire",
+  "Au moins 3 crises dans les 3 mois précédant la sélection",
+  "Nombre de crises prédéfini pendant la période de sélection",
+  "Accès à un traitement à la demande de référence pour les crises",
+  "Capacité à remplir le carnet électronique et les questionnaires, contraception adaptée"
+ ],
+ "exclusion": [
+  "Angiœdème d'autre origine que l'AOH",
+  "Prophylaxie récente : C1-INH, inhibiteurs oraux de kallikréine, antifibrinolytiques (2 semaines), androgènes (4 semaines), anticorps monoclonaux (5 demi-vies)",
+  "Prophylaxie antérieure par deucrictibant ou thérapie génique",
+  "IEC ou œstrogènes à absorption systémique dans les 4 semaines",
+  "Fonction hépatique anormale ou insuffisance rénale modérée à sévère",
+  "Grossesse, projet de grossesse ou allaitement",
+  "Inhibiteurs ou inducteurs puissants du CYP3A4, abus d'alcool ou de drogues"
+ ],
+ "bras": [
+  {
+   "nom": "Deucrictibant",
+   "traitement": "Deucrictibant 40 mg, comprimé à libération prolongée, une fois par jour par voie orale"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, 1 comprimé par jour par voie orale"
+  }
+ ],
+ "duree": "24 semaines de traitement, puis suivi de 4 semaines au maximum",
+ "critere": "Nombre de crises d'AOH confirmées par l'investigateur, normalisé par 4 semaines, pendant les 24 semaines de traitement"
+}

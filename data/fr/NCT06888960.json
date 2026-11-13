@@ -1,0 +1,27 @@
+{
+ "h": "f524714409b3",
+ "date": "2026-11-13",
+ "titre": "Sécurité du CC312, un engageur de lymphocytes T trispécifique, dans les maladies auto-immunes réfractaires",
+ "question": "Le CC312 est-il bien toléré chez des adultes atteints de maladies auto-immunes en rechute ou réfractaires, et quelle est la dose optimale ?",
+ "contexte": "Plusieurs maladies auto-immunes systémiques (lupus, myosites, sclérodermie, polyarthrite rhumatoïde, PTI, anémie hémolytique auto-immune) restent difficiles à traiter lorsqu'elles résistent aux traitements usuels. La déplétion profonde des lymphocytes B par CAR-T anti-CD19 a donné des rémissions prolongées dans des séries de cas. Cependant, cette approche reste lourde : leucaphérèse, chimiothérapie de lymphodéplétion, fabrication individuelle.\n\nLe CC312 est un engageur de lymphocytes T trispécifique (TriTE). Il cible l'antigène B CD19, le CD3 des lymphocytes T et la molécule de costimulation CD28. Il agit comme une version « biopharmaceutique » des CAR-T, disponible d'emblée. Le risque de syndrome de relargage cytokinique (SRC) étant plus élevé au début de la perfusion, une dose d'amorçage plus faible est administrée avant la dose thérapeutique.\n\nCet essai de phase 1, ouvert et d'initiative investigateur (CytoCares), suit un schéma d'escalade de dose « 3+3 » avec trois groupes de 3 à 6 patients (9 à 18 au total). Il évalue la sécurité, la pharmacocinétique et l'efficacité préliminaire.",
+ "interet": "L'étude pourrait montrer la faisabilité d'une immunothérapie ciblant les lymphocytes B sans thérapie cellulaire individualisée. Elle ouvre la voie à des essais d'efficacité dans plusieurs maladies auto-immunes.",
+ "profil": "Des adultes atteints de maladies auto-immunes en rechute ou réfractaires (lupus, myosites, sclérodermie, polyarthrite rhumatoïde, PTI, anémie hémolytique auto-immune).",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "Maladie auto-immune réfractaire ou en rechute (lupus, myosite, sclérodermie, PR, PTI, anémie hémolytique)",
+  "Lupus : critères EULAR 2019/ACR 1997, SLEDAI-2K ≥ 8 et BILAG A ou 2 B malgré le traitement standard",
+  "Lupus : ANA, anti-ADN natif ou anti-Sm positifs",
+  "Traitement standard stable depuis au moins 12 semaines (dose stable ≥ 30 jours)"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "CC312",
+   "traitement": "CC312 par voie intraveineuse, dose d'amorçage puis dose thérapeutique, en escalade de dose (3 groupes de dose)"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Toxicité limitant la dose et événements indésirables (dont graves) sur 2 ans."
+}

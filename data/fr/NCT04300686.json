@@ -1,0 +1,34 @@
+{
+ "h": "89013bbb5586",
+ "date": "2026-11-13",
+ "titre": "Étude pilote dans la maladie de Takayasu sévère : tocilizumab ou adalimumab",
+ "question": "Du tocilizumab ou de l'adalimumab, lequel est préférable dans la maladie de Takayasu sévère ?",
+ "contexte": "La maladie de Takayasu est une artérite chronique rare des gros vaisseaux, avec atteinte de l'aorte et de ses branches. Elle n'a pas de stratégie thérapeutique consensuelle au-delà des glucocorticoïdes et des immunosuppresseurs conventionnels. Les formes sévères, définies par une hypertension majeure, des sténoses étendues ou une insuffisance d'organe, justifient une biothérapie, mais le choix entre inhibiteur de l'IL-6 et anti-TNF repose sur des séries observationnelles et des données indirectes.\n\nLe tocilizumab a montré un signal dans l'essai TAKT, qui n'a pas atteint son critère principal, et les anti-TNF ont été rapportés dans des séries cohérentes. Il n'existe pas de comparaison directe randomisée chez des patients sévères.\n\nCette étude pilote de phase 4 de Shanghai Zhongshan Hospital classe les patients en trois niveaux de sévérité et randomise 40 patients sévères (âgés d'au moins 14 ans, Kerr d'au moins 2) entre tocilizumab 8 mg/kg par mois en IV et adalimumab 40 mg toutes les 2 semaines en sous-cutané, pendant 24 semaines.",
+ "interet": "Elle fournira une première comparaison directe de deux biothérapies dans les formes sévères, qui orientera la conception d'essais plus importants.",
+ "profil": "Des patients de 14 ans ou plus atteints d'une maladie de Takayasu active et sévère.",
+ "inclusion": [
+  "Âge de 14 ans ou plus",
+  "Maladie active (score de Kerr d'au moins 2)",
+  "Forme sévère : pression artérielle supérieure à 180/110 mmHg, ou au moins 3 branches sténosées à plus de 70 %, ou insuffisance d'organe (NYHA III-IV, DFG de 15 à 60 mL/min)"
+ ],
+ "exclusion": [
+  "Insuffisance d'organe sévère",
+  "Infection active aiguë ou chronique (tuberculose, hépatite virale)",
+  "Autre maladie auto-immune (lupus, Behçet, maladie associée aux IgG4)",
+  "Tumeur maligne",
+  "Allergie médicamenteuse sévère",
+  "Deux rechutes successives malgré l'adaptation du traitement"
+ ],
+ "bras": [
+  {
+   "nom": "Tocilizumab",
+   "traitement": "Tocilizumab 8 mg/kg par mois en perfusion intraveineuse pendant 24 semaines (20 patients)"
+  },
+  {
+   "nom": "Adalimumab",
+   "traitement": "Adalimumab 40 mg toutes les 2 semaines par voie sous-cutanée pendant 24 semaines (20 patients)"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Rémission de la maladie à 24 semaines."
+}

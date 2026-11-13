@@ -1,0 +1,29 @@
+{
+ "h": "ad368934dc2e",
+ "date": "2026-11-13",
+ "titre": "Donidalorsen au long cours pour la prévention des crises d'angiœdème héréditaire",
+ "question": "Le donidalorsen est-il sûr et efficace au long cours pour prévenir les crises d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type 1 ou 2 est une maladie rare liée à un déficit en inhibiteur de la C1 estérase. Il provoque des crises imprévisibles d'œdème cutané, digestif ou laryngé, avec un retentissement important sur la qualité de vie. Le traitement de fond repose sur le lanadelumab, le bérotralstat, le C1-INH sous-cutané ou le garadacimab, en plus d'un traitement de crise disponible en permanence.\n\nLe donidalorsen est un oligonucléotide antisens qui réduit la synthèse hépatique de la prékallicréine, et donc la production de bradykinine. Il a été évalué dans l'étude pivot randomisée contre placebo ISIS 721744-CS5. Cette étude de phase 3 est une extension ouverte sur le long terme. Elle accueille les participants de l'étude pivot, ainsi que de nouveaux patients déjà stabilisés sous lanadelumab, bérotralstat ou C1-INH sous-cutané, qui passent au donidalorsen. Le promoteur est Ionis Pharmaceuticals, avec des centres en France.",
+ "interet": "L'étude apportera des données de sécurité à long terme sur le donidalorsen. Elle explorera aussi le passage d'un traitement de fond existant à un antisens administré par voie sous-cutanée, à un rythme espacé.",
+ "profil": "Des adolescents et adultes atteints d'angiœdème héréditaire, issus d'une étude pivot ou déjà stabilisés sous traitement de fond.",
+ "inclusion": [
+  "Consentement écrit signé (et du représentant légal si besoin)",
+  "Accès à au moins un traitement de crise (C1-INH ou antagoniste du récepteur B2 de la bradykinine)",
+  "Extension : étude pivot ISIS 721744-CS5 terminée jusqu'à la semaine 25, ou sortie autorisée avec une tolérance acceptable",
+  "Nouveaux participants : âge ≥ 12 ans et AOH de type 1 ou 2 documenté",
+  "Nouveaux participants : traitement de fond stable depuis ≥ 12 semaines (lanadelumab, bérotralstat ou C1-INH sous-cutané)"
+ ],
+ "exclusion": [
+  "Extension : nouvelle affection, aggravation d'une affection existante ou changement de traitement",
+  "Nouveaux participants : autre angiœdème récurrent (acquis, idiopathique, AOH à C1-INH normal)",
+  "Changement prévu d'androgènes ou d'acide tranexamique en prophylaxie",
+  "Cancer datant de moins de 5 ans (hors exceptions cutanées ou in situ traitées)",
+  "Hypersensibilité au donidalorsen ou aux excipients",
+  "Autre médicament expérimental dans le mois précédent"
+ ],
+ "bras": [
+  {"nom": "Participants de l'extension ouverte", "traitement": "Donidalorsen en injection sous-cutanée, jusqu'à 157 semaines ; dose et rythme non précisés"}
+ ],
+ "duree": "Jusqu'à environ 70 à 76 semaines, plus 104 semaines selon les groupes",
+ "critere": "Pourcentage de participants ayant au moins un événement indésirable survenu sous traitement, gradé par sévérité, sur environ 70 à 76 semaines plus 104 semaines."
+}

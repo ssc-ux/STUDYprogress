@@ -1,0 +1,35 @@
+{
+ "h": "9a7b8a9df35c",
+ "date": "2026-11-13",
+ "titre": "Rituximab associé au télitacicept dans les vascularites à ANCA anti-PR3",
+ "question": "Le télitacicept associé au rituximab réduit-il les rechutes dans les vascularites à ANCA anti-PR3 sévères ?",
+ "contexte": "Les vascularites à ANCA (GPA et PAM) sévères sont traitées par glucocorticoïdes et rituximab, avec un schéma de décroissance de la prednisone inspiré de PEXIVAS. Les patients anti-PR3 rechutent plus souvent que les patients anti-MPO, ce qui expose à des traitements prolongés et à leur toxicité.\n\nLe télitacicept est une protéine de fusion neutralisant BLyS (BAFF) et APRIL, cytokines qui soutiennent la survie des lymphocytes B et des plasmocytes. Le rituximab déplète les lymphocytes B mais épargne les plasmocytes, ce qui justifie l'association à une inhibition de la voie BAFF/APRIL. Le télitacicept est approuvé en Chine pour le lupus.\n\nCet essai randomisé, monocentrique, promu par le Chinese SLE Treatment And Research Group, inclut 40 adultes de 18 à 65 ans ayant une vascularite à ANCA anti-PR3 sévère et active. Tous reçoivent rituximab et glucocorticoïdes, puis télitacicept 80 mg par semaine ou placebo pendant 12 mois. Le critère principal est le délai de première rechute sur 24 mois. Le registre le décrit comme ouvert, bien qu'un placebo soit mentionné.",
+ "interet": "Il pourrait établir si l'ajout du télitacicept réduit les rechutes, en particulier dans les formes PR3. L'étude monocentrique et de petite taille ne permettra pas de conclure de façon définitive.",
+ "profil": "Des adultes de 18 à 65 ans ayant une GPA ou PAM sévère et active, avec ANCA anti-PR3 positifs.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "GPA ou PAM récente ou en rechute (critères ACR/EULAR 2022)",
+  "Vascularite à ANCA sévère et active (définition ACR/Vasculitis Foundation 2021)",
+  "ANCA anti-PR3 positifs au diagnostic ou pendant l'évolution"
+ ],
+ "exclusion": [
+  "Arrêt antérieur du rituximab pour intolérance",
+  "Autre maladie auto-immune",
+  "Insuffisance hépatique sévère, insuffisance cardiaque ou insuffisance rénale terminale",
+  "Grossesse ou projet de grossesse dans les 2 ans",
+  "Hypertension ou diabète sévères non contrôlés, infection bactérienne ou fongique active",
+  "Hépatite virale ou mycobactérie active, cancer"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo",
+   "traitement": "Rituximab et glucocorticoïdes en induction, avec placebo de télitacicept 80 mg par semaine par voie sous-cutanée pendant 12 mois"
+  },
+  {
+   "nom": "Télitacicept",
+   "traitement": "Rituximab et glucocorticoïdes en induction, avec télitacicept 80 mg par semaine par voie sous-cutanée pendant 12 mois"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Délai de première rechute pendant 24 mois de suivi."
+}

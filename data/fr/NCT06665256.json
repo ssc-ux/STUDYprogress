@@ -1,0 +1,37 @@
+{
+ "h": "a0ff5a1ad790",
+ "date": "2026-11-13",
+ "titre": "Rapcabtagène autoleucel dans les myopathies inflammatoires sévères réfractaires",
+ "question": "Une CAR-T anti-CD19 est-elle plus efficace que les traitements immunosuppresseurs standards dans les myopathies inflammatoires sévères réfractaires ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (MII) regroupent la dermatomyosite, la myopathie nécrosante à médiation immune, le syndrome des antisynthétases et la polymyosite. Elles associent déficit musculaire, atteinte cutanée et parfois pulmonaire. Les corticoïdes, le méthotrexate, le mycophénolate, le tacrolimus, les immunoglobulines IV et le rituximab sont utilisés, mais une partie des patients reste réfractaire et garde un handicap majeur.\n\nLes CAR-T anti-CD19 déplètent de façon profonde les lymphocytes B, y compris dans les tissus. Des séries de cas dans les maladies auto-immunes, dont les myosites, ont rapporté des rémissions sans immunosuppresseur. Le rapcabtagène autoleucel (YTB323) est une CAR-T anti-CD19 de Novartis, administrée en une seule perfusion.\n\nCet essai de phase 2, randomisé et ouvert, comprend une cohorte de départ traitée par CAR-T puis une cohorte randomisée. Le comparateur est un traitement au choix de l'investigateur : tacrolimus, mycophénolate, cyclophosphamide ou rituximab. Il vise 21 patients de 18 à 75 ans, dans 15 pays dont la France.",
+ "interet": "Les patients réfractaires ont peu d'options. Un essai randomisé de CAR-T, avec un comparateur actif, apportera des données de comparaison absentes des séries de cas. L'effectif est faible et la sécurité (lymphodéplétion, infections) sera un point central.",
+ "profil": "Des adultes de 18 à 75 ans atteints de myopathie inflammatoire idiopathique sévère, active et en échec de traitement.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Myosite probable ou certaine selon ACR/EULAR 2017",
+  "Réponse insuffisante à un traitement antérieur",
+  "Maladie active : enzymes musculaires, EMG, éruption de dermatomyosite, biopsie ou IRM actives",
+  "Myosite sévère avec déficit musculaire actif"
+ ],
+ "exclusion": [
+  "Condition empêchant le sevrage médicamenteux ou rendant inéligible à une CAR-T anti-CD19",
+  "IMC ≤ 17 ou ≥ 40 kg/m²",
+  "Atteinte musculaire sévère au dépistage",
+  "Fonction d'organe insuffisante",
+  "Hypersensibilité ou contre-indication à l'un des produits du protocole",
+  "Autre myopathie inflammatoire ou non inflammatoire",
+  "Comorbidité non liée à la MII compromettant la tolérance de la CAR-T"
+ ],
+ "bras": [
+  {
+   "nom": "Rapcabtagène autoleucel",
+   "traitement": "CAR-T anti-CD19 (YTB323), perfusion unique"
+  },
+  {
+   "nom": "Comparateur",
+   "traitement": "Traitement au choix de l'investigateur : tacrolimus, mycophénolate, cyclophosphamide ou rituximab (passage possible à la CAR-T si contrôle insuffisant)"
+  }
+ ],
+ "duree": "Suivi de plusieurs années (durée précise non précisée), puis suivi à long terme dans un protocole séparé",
+ "critere": "Proportion de patients avec amélioration modérée à majeure du Total Improvement Score (TIS) à la semaine 52"
+}

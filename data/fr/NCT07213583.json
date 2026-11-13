@@ -1,0 +1,25 @@
+{
+ "h": "f3503e134705",
+ "date": "2026-11-13",
+ "titre": "Retraitement par ALXN2220 dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "Le retraitement par ALXN2220 est-il sûr et réduit-il la charge amyloïde cardiaque chez les patients de l'étude NI006-101 ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est une maladie progressive du myocarde, due au dépôt de fibrilles de TTR. Les traitements actuels, stabilisateurs ou silenceurs de la TTR, freinent la production ou la stabilité de la protéine, mais n'éliminent pas les dépôts déjà formés.\n\nALXN2220 (NI006) est un anticorps monoclonal humain dirigé contre les dépôts de TTR, destiné à favoriser leur élimination. Cet effet est apprécié par des mesures d'imagerie : volume extracellulaire (ECV) en IRM cardiaque et rétention cardiaque en scintigraphie.\n\nCette étude de phase 2, non randomisée, à un seul bras et multicentrique, promue par Neurimmune, évalue les effets pharmacodynamiques et la sécurité d'un retraitement par ALXN2220 chez les participants de l'étude NI006-101 ayant reçu au moins une dose.",
+ "interet": "Les résultats préciseront si un nouveau cycle d'anticorps anti-dépôts peut encore réduire la charge amyloïde, avec un enjeu pour la durée et les schémas de traitement de cette classe.",
+ "profil": "Des adultes atteints de cardiomyopathie amyloïde à TTR, ayant déjà reçu ALXN2220 dans l'étude NI006-101.",
+ "inclusion": [
+  "Au moins une dose d'ALXN2220 reçue dans l'étude NI006-101"
+ ],
+ "exclusion": [
+  "Intolérance ou allergie suspectée ou connue aux protéines ou aux composants du médicament",
+  "Arrêt du traitement ou de l'étude NI006-101 pour un événement indésirable lié au traitement, grave, sévère ou menaçant le pronostic vital",
+  "Toute nouvelle affection ou affection non contrôlée depuis la fin de NI006-101 rendant le patient inapte"
+ ],
+ "bras": [
+  {
+   "nom": "ALXN2220",
+   "traitement": "ALXN2220 par perfusion intraveineuse pendant la période de traitement actif"
+  }
+ ],
+ "duree": "Non précisé (critères principaux à 48 semaines)",
+ "critere": "Variation à la semaine 48 du volume extracellulaire à l'IRM cardiaque et de la rétention cardiaque ou corps entier en scintigraphie."
+}

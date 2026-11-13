@@ -1,0 +1,39 @@
+{
+ "h": "e528df1d2781",
+ "date": "2026-11-13",
+ "titre": "Deucravacitinib dans le syndrome de Sjögren actif",
+ "question": "Le deucravacitinib, à deux doses, réduit-il l'activité du syndrome de Sjögren (ESSDAI) à 52 semaines par rapport au placebo ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune systémique dont l'atteinte glandulaire (sécheresse) s'accompagne de manifestations extra-glandulaires. Aucun traitement de fond n'a de validation solide, et les immunosuppresseurs classiques sont utilisés surtout en cas d'atteinte systémique.\n\nLe deucravacitinib est un inhibiteur oral sélectif de la tyrosine kinase 2 (TYK2), qui bloque les voies de signalisation des interférons de type I, de l'IL-12 et de l'IL-23. La signature interféron est marquée dans le Sjögren, ce qui justifie cette approche. Il est déjà approuvé dans le psoriasis en plaques. POETYK SjS-1 est une étude de phase 3 randomisée en double aveugle, avec deux doses et un placebo. Les patients du bras placebo passent ensuite à l'une des deux doses. Elle inclut des patients à maladie active, anti-Ro/SSA positifs, évoluant depuis moins de 10 ans. Le promoteur est Bristol-Myers Squibb ; 774 participants sont inclus.",
+ "interet": "Un résultat positif donnerait une première option orale ciblée dans le Sjögren systémique. Le design à deux doses précisera le rapport efficacité/tolérance.",
+ "profil": "Des adultes atteints de syndrome de Sjögren modéré à sévère, anti-Ro/SSA positifs, évoluant depuis 10 ans au plus.",
+ "inclusion": [
+  "Âge ≥ 18 ans, critères ACR/EULAR 2016 (score ≥ 4)",
+  "Diagnostic depuis au moins 16 semaines et ≤ 10 ans",
+  "ESSDAI ≥ 5 (forme modérée à sévère)",
+  "Débit salivaire total stimulé ≥ 0,05 mL/min",
+  "Anti-Ro/SSA positifs"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune (PR, lupus, sclérodermie, etc.)",
+  "Fibromyalgie active gênant l'évaluation articulaire ou récemment traitée",
+  "Affection associée à un syndrome sec",
+  "Exposition antérieure à un inhibiteur de TYK2",
+  "Autres critères du protocole non détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "Deucravacitinib, dose 1",
+   "traitement": "Deucravacitinib par voie orale, dose 1 (non précisée)"
+  },
+  {
+   "nom": "Deucravacitinib, dose 2",
+   "traitement": "Deucravacitinib par voie orale, dose 2 (non précisée)"
+  },
+  {
+   "nom": "Placebo puis deucravacitinib",
+   "traitement": "Placebo, suivi du deucravacitinib à la dose 1 ou 2"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 52 semaines, avec phase de poursuite)",
+ "critere": "Variation de l'ESSDAI entre l'inclusion et la semaine 52"
+}

@@ -1,0 +1,38 @@
+{
+ "h": "7bf34487ab92",
+ "date": "2026-11-13",
+ "titre": "Deucrictibant oral à la demande lors des crises d'angiœdème héréditaire",
+ "question": "Le deucrictibant oral soulage-t-il plus vite les crises d'angiœdème héréditaire que le placebo ?",
+ "contexte": "L'angiœdème héréditaire (AOH) est une maladie rare à crises d'œdème imprévisibles, cutanées, digestives ou laryngées, médiées par la bradykinine. Les recommandations insistent sur le traitement précoce de chaque crise, avec l'icatibant ou l'inhibiteur de C1 en injection. L'administration parentérale retarde parfois la prise en charge et pèse sur les patients.\n\nLe deucrictibant est un antagoniste oral du récepteur B2 de la bradykinine, comme l'icatibant mais par voie orale. Il agit directement sur le récepteur qui déclenche l'œdème.\n\nRAPIDe-3 est un essai de phase 3 promu par Pharvaris. Il est randomisé, en double insu, contre placebo, en cross-over : chaque patient traite deux crises, l'une par deucrictibant, l'autre par placebo, dans un ordre tiré au sort. Il a inclus 134 patients de 12 à 75 ans, avec AOH de type 1, 2 ou 3, dont certains sous prophylaxie, y compris pour des crises laryngées non sévères. Il est mené dans 29 pays dont la France.",
+ "interet": "Un traitement oral à la demande, agissant sur le récepteur B2, pourrait faciliter la prise précoce lors des crises, y compris hors du domicile. Le résultat attendu est un délai de soulagement plus court qu'avec le placebo.",
+ "profil": "Des adolescents et adultes de 12 à 75 ans atteints d'angiœdème héréditaire de type 1, 2 ou 3.",
+ "inclusion": [
+  "Âge de 12 à 75 ans",
+  "Diagnostic d'AOH de type 1, 2 ou 3",
+  "Au moins 2 crises dans les 3 mois précédant la sélection",
+  "Expérience d'un traitement à la demande efficace par un traitement de référence",
+  "Prophylaxie de longue durée éventuelle à dose stable (6 mois), ou arrêtée avant la sélection",
+  "Poids ≥ 40 kg pour les adolescents, et capacité à remplir un carnet électronique"
+ ],
+ "exclusion": [
+  "Grossesse, projet de grossesse ou allaitement",
+  "Angiœdème d'autre origine que l'AOH",
+  "Androgènes atténués en prophylaxie de courte durée dans les 2 semaines",
+  "Fonction hépatique anormale ou DFG < 60 mL/min/1,73 m²",
+  "Abus d'alcool ou de drogues dans l'année",
+  "Traitement antérieur par deucrictibant ou thérapie génique",
+  "Inhibiteurs ou inducteurs puissants du CYP3A4, autre essai en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Bras 1",
+   "traitement": "Deucrictibant pour la première crise, puis placebo pour la seconde (dose non précisée)"
+  },
+  {
+   "nom": "Bras 2",
+   "traitement": "Placebo pour la première crise, puis deucrictibant pour la seconde"
+  }
+ ],
+ "duree": "Jusqu'au traitement de 2 crises, puis suivi de fin d'étude (durée non précisée)",
+ "critere": "Délai d'apparition du soulagement des symptômes (PGI-C au moins « un peu mieux » à 2 temps consécutifs), dans les 12 heures après la prise"
+}

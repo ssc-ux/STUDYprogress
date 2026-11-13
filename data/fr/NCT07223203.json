@@ -1,0 +1,29 @@
+{
+ "h": "19992973b87b",
+ "date": "2026-11-13",
+ "titre": "Nucresiran tous les 6 mois dans la polyneuropathie de l'amylose héréditaire à transthyrétine",
+ "question": "Le nucresiran, administré tous les 6 mois, améliore-t-il l'atteinte neurologique de l'amylose hATTR avec polyneuropathie et abaisse-t-il davantage la TTR que le vutrisiran ?",
+ "contexte": "L'amylose héréditaire à transthyrétine avec polyneuropathie (hATTR-PN) est causée par des variants du gène TTR. La transthyrétine mal repliée se dépose dans les nerfs périphériques et le système autonome, avec neuropathie sensitivomotrice progressive, dysautonomie, perte de poids et handicap. Elle atteint souvent aussi le cœur.\n\nLes traitements actuels réduisent la production de TTR, comme le vutrisiran (tous les 3 mois), le patisiran, l'inotersen et l'eplontersen, ou stabilisent la protéine, comme le tafamidis. Le nucresiran est un ARN interférent de nouvelle génération ciblant la TTR, conçu pour un effet plus profond et un espacement des injections à 6 mois. L'étude TRITON-PN est une étude de phase 3 à deux bras. Les patients reçoivent nucresiran 300 mg tous les 6 mois, ou vutrisiran 25 mg tous les 3 mois puis nucresiran. Le critère principal compare la variation du mNIS+7 à celle d'un groupe placebo externe issu de l'étude APOLLO. Le promoteur est Alnylam.",
+ "interet": "L'étude pourrait réduire à deux injections par an le traitement de fond de la hATTR-PN. Elle compare aussi directement la baisse de TTR sous nucresiran à celle sous vutrisiran, traitement de référence.",
+ "profil": "Des adultes de 18 à 85 ans atteints d'amylose héréditaire à transthyrétine avec polyneuropathie et variant TTR documenté.",
+ "inclusion": [
+  "Diagnostic documenté de hATTR avec polyneuropathie et variant du gène TTR",
+  "Score d'atteinte neuropathique (NIS) de 5 à 130",
+  "Indice de Karnofsky ≥ 60 %",
+  "Âge de 18 à 85 ans"
+ ],
+ "exclusion": [
+  "Transplantation hépatique, ou probable pendant le traitement",
+  "Autre type d'amylose (non hATTR) ou amylose leptoméningée",
+  "Insuffisance cardiaque NYHA > 2",
+  "ALAT ou ASAT > 2,5 × LSN, bilirubine totale > 1,5 × LSN",
+  "DFGe ≤ 30 mL/min/1,73 m²",
+  "Autre cause connue de neuropathie sensitivomotrice ou autonome"
+ ],
+ "bras": [
+  {"nom": "Nucresiran", "traitement": "Nucresiran 300 mg par voie sous-cutanée, tous les 6 mois"},
+  {"nom": "Vutrisiran puis nucresiran", "traitement": "Vutrisiran 25 mg SC tous les 3 mois pendant la période de traitement, puis nucresiran 300 mg tous les 6 mois en extension"}
+ ],
+ "duree": "Non précisé (critère principal à 9 mois, suivi d'une période d'extension)",
+ "critere": "Variation du score mNIS+7 par rapport à l'inclusion, comparée au groupe placebo externe de l'étude APOLLO, à 9 mois."
+}

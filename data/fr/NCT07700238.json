@@ -1,0 +1,14 @@
+{
+ "h": "3812835029a6",
+ "date": "2026-11-13",
+ "titre": "Romiplostim associé à la prednisone contre prednisone seule dans le PTI primaire non traité",
+ "question": "L'ajout du romiplostim à la prednisone permet-il d'obtenir plus souvent une réponse plaquettaire durable que la prednisone seule dans le PTI primaire nouvellement diagnostiqué ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. En première ligne, les recommandations internationales proposent une corticothérapie courte, parfois associée à des immunoglobulines polyvalentes en cas de saignement.\n\nLa corticothérapie fait remonter les plaquettes chez la majorité des adultes, mais la réponse n'est durable que chez une minorité. Les rechutes à la décroissance sont fréquentes et exposent à la toxicité cumulée des corticoïdes.\n\nLe romiplostim est un agoniste du récepteur de la thrombopoïétine administré par voie sous-cutanée, autorisé en seconde ligne. Des travaux ont suggéré qu'un agoniste de la TPO précoce, associé aux corticoïdes, pourrait améliorer la réponse durable. L'essai ROMISTER de phase 3, promu par Amgen et randomisé, compare romiplostim plus prednisone ou prednisolone à la prednisone ou prednisolone seule chez des adultes non traités.",
+ "interet": "L'étude pourrait établir un traitement de première ligne combiné dans le PTI, qui réduirait l'exposition aux corticoïdes et les rechutes. Elle apporterait des données contrôlées sur cette stratégie.",
+ "profil": "Des adultes atteints de PTI primaire jamais traité, avec moins de 30 G/L de plaquettes (ou moins de 50 G/L avec saignement).",
+ "inclusion": ["Âge ≥ 18 ans", "PTI primaire selon le consensus international de 2019, jamais traité et nécessitant un traitement", "Plaquettes < 30 G/L, ou < 50 G/L avec saignement cliniquement significatif, avant tout traitement", "Traitement d'urgence par agoniste de la TPO ou splénectomie non autorisé"],
+ "exclusion": ["Hémorragie engageant le pronostic vital à la randomisation", "Sensibilité connue aux produits de l'étude ou aux produits dérivés d'E. coli", "Hypertension non contrôlée", "Fonction hépatique ou rénale anormale", "Splénectomie totale antérieure", "Anticoagulant ou antiagrégant en cours, besoin d'AINS", "Événement thrombotique veineux < 3 mois ou artériel < 6 mois"],
+ "bras": [{"nom": "Romiplostim + prednisone ou prednisolone", "traitement": "Romiplostim sous-cutané plus prednisone ou prednisolone orale (partie 1) ; doses non précisées"}, {"nom": "Prednisone ou prednisolone seule", "traitement": "Prednisone ou prednisolone orale (partie 1)"}],
+ "duree": "Non précisé (partie 1, puis partie 2 de suivi)",
+ "critere": "Proportion de patients avec une réponse plaquettaire durable à 8 semaines"
+}

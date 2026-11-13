@@ -1,0 +1,32 @@
+{
+ "h": "a5c8f23db412",
+ "date": "2026-11-13",
+ "titre": "Bérotralstat chez l'enfant de 2 à 11 ans atteint d'angiœdème héréditaire",
+ "question": "Quelle dose de bérotralstat, adaptée au poids, est sûre et efficace pour prévenir les crises d'angiœdème héréditaire chez l'enfant de 2 à moins de 12 ans ?",
+ "contexte": "L'angiœdème héréditaire (AOH) débute souvent dans l'enfance, avec des crises d'œdème sous-cutané, abdominal ou laryngé. Les options de traitement de fond de l'enfant sont limitées, et la plupart nécessitent des injections. Les androgènes sont déconseillés chez l'enfant, de sorte que le besoin d'une prophylaxie orale adaptée à l'âge est réel.\n\nLe bérotralstat est un inhibiteur oral de la kallicréine plasmatique, pris une fois par jour. Il est autorisé chez l'adulte et l'adolescent pour la prévention des crises. Cette étude de phase 3 ouverte vise à déterminer la dose adaptée au poids chez l'enfant de 2 à moins de 12 ans, en capsules ou en granulés. Elle commence par une analyse pharmacocinétique, puis suit la sécurité et l'efficacité jusqu'à 144 semaines. Quatre cohortes sont définies selon le poids, avec des doses de 150 mg à 78 mg. Le promoteur est BioCryst Pharmaceuticals, avec des centres en France.",
+ "interet": "L'étude pourrait aboutir à une prophylaxie orale validée chez l'enfant, aujourd'hui peu servi par les options de traitement de fond. Elle précisera les doses selon le poids.",
+ "profil": "Des enfants de 2 à moins de 12 ans, pesant au moins 12 kg, atteints d'angiœdème héréditaire.",
+ "inclusion": [
+  "Âge de 2 à moins de 12 ans, poids ≥ 12 kg",
+  "Diagnostic clinique d'angiœdème héréditaire",
+  "Bénéfice attendu d'une prophylaxie orale au long cours selon l'investigateur",
+  "Sans prophylaxie en cours : ≥ 2 crises documentées dans les 6 mois précédents",
+  "Participants de sexe féminin non enceintes et non allaitantes"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème récurrent",
+  "Antécédent familial de mort subite cardiaque précoce (< 40 ans)",
+  "Clairance de la créatinine ≤ 30 mL/min/1,73 m² (formule de Schwartz modifiée)",
+  "ASAT ou ALAT ≥ 3 × la limite supérieure de la normale adaptée à l'âge",
+  "ECG anormal significatif (QTcF > 450 ms, extrasystoles plus fréquentes qu'occasionnelles)",
+  "Autre médicament expérimental dans les 30 jours"
+ ],
+ "bras": [
+  {"nom": "Cohorte 1 : ≥ 40 kg", "traitement": "Bérotralstat 150 mg en capsule, une fois par jour"},
+  {"nom": "Cohorte 2 : 32 à < 40 kg", "traitement": "Bérotralstat 108 mg en granulés, une fois par jour"},
+  {"nom": "Cohorte 3 : 24 à < 32 kg", "traitement": "Bérotralstat 96 mg en granulés, une fois par jour"},
+  {"nom": "Cohorte 4 : 12 à < 24 kg", "traitement": "Bérotralstat 78 mg en granulés, une fois par jour"}
+ ],
+ "duree": "Jusqu'à 144 semaines",
+ "critere": "Paramètres pharmacocinétiques du bérotralstat à la semaine 2 (aire sous la courbe, concentration résiduelle, Cmax, Tmax)."
+}

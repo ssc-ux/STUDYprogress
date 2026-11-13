@@ -1,0 +1,33 @@
+{
+ "h": "417eab556985",
+ "date": "2026-11-13",
+ "titre": "Daratumumab en monothérapie dans l'amylose AL de stade Mayo 3B non traitée",
+ "question": "Le daratumumab en monothérapie améliore-t-il la survie à 6 mois des patients atteints d'amylose AL de stade 3B nouvellement diagnostiquée ?",
+ "contexte": "L'amylose AL est due à un clone plasmocytaire qui produit des chaînes légères d'immunoglobulines amyloïdogènes. Elle touche le cœur dans la majorité des cas. Le stade Mayo 3B (troponine élevée et NT-proBNP ≥ 8 500 pg/mL) correspond aux formes cardiaques les plus avancées. La mortalité précoce y est très élevée, souvent dans les premiers mois, et ces patients sont généralement exclus des essais.\n\nLe traitement de première ligne standard associe bortezomib, cyclophosphamide et dexaméthasone ; l'ajout du daratumumab, anticorps anti-CD38, a amélioré les réponses hématologiques dans l'essai ANDROMEDA. Les patients de stade 3B y étaient toutefois peu représentés ou exclus, et la toxicité des chimiothérapies intensives y est un frein.\n\nCette étude de phase 2 ouverte à bras unique, promue par l'European Myeloma Network, inclut 40 patients de stade 3B sans traitement antérieur. Ils reçoivent le daratumumab en monothérapie, d'abord IV puis sous-cutané après un amendement. Un run-in de sécurité sur 6 patients précède l'inclusion des autres. Du bortezomib et de la dexaméthasone peuvent être ajoutés si la réponse est insuffisante au cycle 4. Elle a lieu dans 4 pays dont la France.",
+ "interet": "Une stratégie moins toxique reposant sur le daratumumab seul pourrait améliorer la survie précoce dans cette population à très haut risque. Les résultats préciseraient la rapidité de la réponse hématologique et cardiaque. Le bras unique impose de comparer à des cohortes historiques.",
+ "profil": "Des adultes atteints d'amylose AL avec atteinte cardiaque de stade Mayo 3B, jamais traités.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose AL confirmée histologiquement, avec atteinte cardiaque",
+  "Maladie mesurable (protéine monoclonale sérique ≥ 0,5 g/dL ou chaînes légères libres ≥ 20 mg/L avec ratio anormal)",
+  "Stade Mayo 3B : troponine T hs > 54 pg/mL et NT-proBNP ≥ 8 500 pg/mL",
+  "Insuffisance cardiaque stable, sans hospitalisation cardiovasculaire dans les 2 semaines",
+  "ECOG 0 à 3 ; neutrophiles, hémoglobine, plaquettes, bilan hépatique et DFG ≥ 20 mL/min conformes aux seuils"
+ ],
+ "exclusion": [
+  "Traitement antérieur de l'amylose AL ou d'un myélome (hors dexaméthasone ≤ 160 mg)",
+  "Myélome multiple symptomatique",
+  "Insuffisance cardiaque NYHA IIIB ou IV",
+  "Insuffisance cardiaque d'origine ischémique ou valvulaire non corrigée, et non liée à l'amylose",
+  "Infarctus, angor instable ou intervention coronarienne dans les 6 mois",
+  "Antécédent de tachycardie ventriculaire soutenue ou de dysfonction nodale sans stimulateur implantable"
+ ],
+ "bras": [
+  {
+   "nom": "Daratumumab",
+   "traitement": "Daratumumab 16 mg/kg IV ou 1 800 mg SC, hebdomadaire aux cycles 1-2, toutes les 2 semaines aux cycles 3-6, puis toutes les 4 semaines (2 ans au maximum) ; bortezomib et dexaméthasone ajoutables si réponse insuffisante"
+  }
+ ],
+ "duree": "Traitement de 2 ans au maximum, suivi à long terme (durée non précisée)",
+ "critere": "Survie globale à 6 mois"
+}

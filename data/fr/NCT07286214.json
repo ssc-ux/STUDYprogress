@@ -1,0 +1,43 @@
+{
+ "h": "e63248a7b85d",
+ "date": "2026-11-13",
+ "titre": "Sarilumab à deux doses dans la pseudopolyarthrite rhizomélique précoce",
+ "question": "Le sarilumab, à 150 mg ou 200 mg toutes les 2 semaines avec une décroissance de la prednisone sur 52 semaines, permet-il une rémission prolongée dans la PPR précoce ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire du sujet de plus de 50 ans, qui provoque des douleurs et une raideur des ceintures scapulaire et pelvienne. Les corticoïdes sont le traitement de référence, mais les rechutes lors de la décroissance sont fréquentes, et la corticothérapie prolongée expose à des effets indésirables chez des patients âgés.\n\nL'interleukine-6 joue un rôle central dans la PPR. Le sarilumab est un anticorps anti-récepteur de l'IL-6, qui a montré un bénéfice dans la PPR en rechute lors d'un essai de phase 3 (SAPHYR) et obtenu une AMM dans cette indication dans certains pays. ZIRCON étudie le sarilumab chez des patients à un stade plus précoce, avec une PPR nouvellement diagnostiquée ou en rechute précoce après moins d'un an de corticoïdes. C'est un essai de phase 3 randomisé en double aveugle à trois bras (placebo, sarilumab 150 mg, sarilumab 200 mg, toutes les 2 semaines), tous associés à une décroissance de la prednisone sur 52 semaines. Le promoteur est Sanofi ; 300 participants sont prévus.",
+ "interet": "Un résultat positif soutiendrait un recours plus précoce à l'anti-IL-6 pour épargner les corticoïdes dès la première année. L'essai permettra aussi de comparer les deux doses.",
+ "profil": "Des adultes de 50 ans ou plus atteints de PPR récente ou en rechute précoce, traités par corticoïdes depuis moins d'un an.",
+ "inclusion": [
+  "Âge ≥ 50 ans, PPR selon les critères EULAR/ACR",
+  "PPR nouvellement diagnostiquée (dans les 8 semaines avant randomisation) ou en rechute précoce",
+  "Corticoïdes débutés depuis ≤ 1 an",
+  "Prednisone de 7,5 à 20 mg/j au dépistage",
+  "Au moins 8 semaines de prednisone ≥ 10 mg/j dans l'historique",
+  "Poussée nette de PPR dans les 12 semaines précédentes en décroissant la prednisone (≥ 5 mg/j)",
+  "Acceptation de prednisone 15 mg/j à la randomisation"
+ ],
+ "exclusion": [
+  "Artérite à cellules géantes",
+  "Polyarthrite rhumatoïde, autre arthrite inflammatoire, connectivite, fibromyalgie",
+  "Hypothyroïdie insuffisamment traitée",
+  "Infection : tuberculose, infection opportuniste, infection récurrente ou persistante (hépatites B, C, VIH), zona",
+  "Diabète non contrôlé (HbA1c ≥ 9 %)",
+  "Immunosuppresseurs associés, y compris corticoïdes systémiques",
+  "Cancer ou greffe d'organe"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo avec décroissance de la prednisone sur 52 semaines"
+  },
+  {
+   "nom": "Sarilumab 150 mg",
+   "traitement": "Sarilumab 150 mg toutes les 2 semaines avec décroissance de la prednisone"
+  },
+  {
+   "nom": "Sarilumab 200 mg",
+   "traitement": "Sarilumab 200 mg toutes les 2 semaines avec décroissance de la prednisone"
+  }
+ ],
+ "duree": "Environ 58 semaines (traitement jusqu'à la semaine 52, fin d'étude à la semaine 58)",
+ "critere": "Rémission prolongée à la semaine 52 (oui/non), notamment dans la PPR en rechute précoce sous sarilumab 200 mg toutes les 2 semaines"
+}

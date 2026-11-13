@@ -1,0 +1,37 @@
+{
+ "h": "9bc213303b32",
+ "date": "2026-11-13",
+ "titre": "JNJ-79635322 dans le myélome multiple en rechute ou réfractaire et l'amylose AL déjà traitée",
+ "question": "Quelles sont la dose recommandée et la tolérance de JNJ-79635322 dans le myélome multiple réfractaire et l'amylose AL prétraitée ?",
+ "contexte": "Le myélome multiple reste incurable, et les patients réfractaires aux inhibiteurs du protéasome, aux immunomodulateurs et aux anti-CD38 ont un pronostic défavorable. Des immunothérapies redirigeant les lymphocytes T (CAR-T, anticorps bispécifiques) ciblent BCMA, GPRC5D ou FcRH5, mais les rechutes sont fréquentes.\n\nL'amylose AL est due au dépôt de chaînes légères produites par un clone plasmocytaire. Après échec des traitements disponibles à bénéfice établi, les options sont très limitées, notamment en cas d'atteinte cardiaque.\n\nJNJ-79635322 est un anticorps trispécifique redirigeant les lymphocytes T contre les plasmocytes, dirigé contre BCMA et GPRC5D à la surface des plasmocytes, et contre CD3 pour recruter les lymphocytes T. Cette étude de phase 1, non randomisée, promue par Janssen, comporte une escalade de dose (partie 1) pour définir la dose et le schéma recommandés en phase 2, puis une expansion (partie 2) pour caractériser la tolérance dans des sous-groupes de maladie.",
+ "interet": "Ces résultats préciseront la tolérance d'une immunothérapie T trispécifique, avec une indication possible dans le myélome multiple très prétraité et, plus rarement étudiée, dans l'amylose AL.",
+ "profil": "Des adultes atteints de myélome multiple en rechute ou réfractaire, ou d'amylose AL déjà traitée et sans option à bénéfice établi.",
+ "inclusion": [
+  "Myélome : diagnostic initial selon l'IMWG, maladie en rechute ou réfractaire après inhibiteur du protéasome, immunomodulateur et anti-CD38",
+  "Myélome partie 1 : au moins 3 lignes antérieures ou triple réfractaire",
+  "ECOG 0 ou 1",
+  "Myélome : maladie mesurable (pic sérique ≥ 0,5 g/dL, protéinurie ≥ 200 mg/24 h, chaînes légères libres ≥ 10 mg/dL ou maladie extramédullaire)",
+  "Amylose AL : diagnostic histologique, non éligible aux traitements établis, après au moins 3 cycles d'une ligne ou 2 cycles de 2 lignes",
+  "Amylose AL : maladie mesurable (iFLC ou dFLC ≥ 50 mg/L, ou pic sérique ≥ 0,5 g/dL), au moins un organe atteint, FEVG ≥ 45 %"
+ ],
+ "exclusion": [
+  "Myélome : atteinte du SNC ou signes méningés",
+  "Leucémie à plasmocytes active, maladie de Waldenström, syndrome POEMS ou amylose AL primaire (pour le myélome)",
+  "Corticoïdes à dose cumulée > 140 mg de prednisone sur 14 jours avant le traitement",
+  "Traitement antitumoral récent (inhibiteur du protéasome, immunomodulateur, radiothérapie, thérapie cellulaire, anti-CD3)",
+  "Allogreffe dans les 6 mois ou autogreffe dans les 12 semaines",
+  "Vaccin vivant atténué récent"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 : escalade de dose",
+   "traitement": "JNJ-79635322, doses croissantes jusqu'à la détermination de la dose et du schéma recommandés pour la phase 2"
+  },
+  {
+   "nom": "Partie 2 : expansion",
+   "traitement": "JNJ-79635322 à la dose et au schéma recommandés déterminés en partie 1"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans et 5 mois",
+ "critere": "Partie 1 : toxicités dose-limitantes ; parties 1 et 2 : événements indésirables par gravité et anomalies biologiques, jusqu'à 2 ans et 5 mois."
+}

@@ -1,0 +1,39 @@
+{
+ "h": "7c0f2644566e",
+ "date": "2026-11-13",
+ "titre": "Rilzabrutinib versus placebo dans la maladie liée aux IgG4 active",
+ "question": "Le rilzabrutinib retarde-t-il la première poussée de maladie liée aux IgG4 par rapport au placebo sur 52 semaines ?",
+ "contexte": "La maladie liée aux IgG4 est une maladie fibro-inflammatoire multi-organes, traitée en première ligne par corticoïdes. Les rechutes à la décroissance sont fréquentes, et les options épargnant les corticoïdes sont limitées. Les lymphocytes B et les plasmablastes jouent un rôle central, et l'inébilizumab, anti-CD19, a été étudié dans cette maladie.\n\nLe rilzabrutinib est un inhibiteur oral réversible de la tyrosine kinase de Bruton (BTK), qui agit sur la signalisation des lymphocytes B et des récepteurs Fc. RILIEF est une étude de phase 3 randomisée en double aveugle contre placebo, de 52 semaines, avec décroissance des corticoïdes après l'initiation du traitement. Elle inclut des patients ayant une maladie active, contrôlée depuis au moins 2 semaines sous corticoïdes stables. Une extension ouverte optionnelle de 108 semaines est prévue. Le promoteur est Sanofi ; 124 participants sont prévus.",
+ "interet": "Un résultat positif ouvrirait une option orale épargnant les corticoïdes dans la maladie liée aux IgG4. Le mécanisme, distinct de la déplétion B, élargirait les approches thérapeutiques.",
+ "profil": "Des adultes atteints de maladie liée aux IgG4 active, contrôlée sous corticoïdes stables, prêts à les diminuer.",
+ "inclusion": [
+  "Diagnostic clinique confirmé par un comité d'adjudication",
+  "Critères ACR/EULAR 2019 (étape 1, ≥ 20 points)",
+  "Maladie active dans au moins un organe (hors ganglions), score d'activité du RI ≥ 2 dans les 28 jours",
+  "Atteinte actuelle ou antérieure d'au moins un organe (hors ganglions)",
+  "Maladie contrôlée depuis ≥ 2 semaines sous corticoïdes stables, avec acceptation de les arrêter progressivement",
+  "Imageries répétées (scanner, IRM, TEP, échographie) acceptées",
+  "Vaccinations à jour (vaccin vivant ≥ 30 jours avant le jour 1)"
+ ],
+ "exclusion": [
+  "Critères d'exclusion de l'étape 2 des critères ACR/EULAR 2019",
+  "Fibrose isolée (fibrose rétropéritonéale, mésentérite, médiastinite) comme seule manifestation",
+  "Cancer actif ou datant de moins de 5 ans (hors exceptions)",
+  "Déficit immunitaire connu ou suspecté, infections opportunistes ou récurrentes",
+  "Infection grave récente (< 4 semaines) ou infection modérée à sévère active",
+  "Maladie hépatique chronique non liée à la maladie liée aux IgG4",
+  "Autres critères d'exclusion du protocole non détaillés"
+ ],
+ "bras": [
+  {
+   "nom": "Rilzabrutinib",
+   "traitement": "Rilzabrutinib en comprimés oraux (dose non précisée), avec décroissance des corticoïdes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral, avec décroissance des corticoïdes"
+  }
+ ],
+ "duree": "Environ 60 semaines (dépistage de 4 à 6 semaines, traitement de 52 semaines, suivi de 2 semaines), plus une extension ouverte optionnelle de 108 semaines",
+ "critere": "Délai jusqu'à la première poussée clinique adjudiquée et traitée par l'investigateur, jusqu'à la semaine 52"
+}

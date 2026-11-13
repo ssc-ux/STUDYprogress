@@ -1,0 +1,28 @@
+{
+ "h": "4db6f2889f93",
+ "date": "2026-11-13",
+ "titre": "Sécukinumab contre placebo avec décroissance de la prednisone dans la pseudopolyarthrite rhizomélique en rechute",
+ "question": "Le sécukinumab, associé à une décroissance de la prednisone, permet-il une rémission soutenue à 52 semaines chez des patients atteints de pseudopolyarthrite rhizomélique en rechute ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire du sujet de plus de 50 ans, qui provoque des douleurs et une raideur matinale des ceintures scapulaire et pelvienne, avec syndrome inflammatoire biologique. Le traitement repose sur une corticothérapie prolongée à décroissance lente. Les rechutes à la décroissance sont fréquentes, et la corticothérapie prolongée expose à des complications chez des patients âgés (ostéoporose, diabète, infections).\n\nLe méthotrexate est utilisé comme épargneur de corticoïdes, avec une efficacité modeste. Le sarilumab (anti-récepteur de l'IL-6) est autorisé chez les patients en rechute ou intolérants aux corticoïdes. L'IL-17A pourrait intervenir dans la PPR, et le sécukinumab, anticorps anti-IL-17A, est étudié dans cette maladie. Cette étude de phase 3 randomisée en double aveugle contre placebo, en 1:1:1, compare le sécukinumab 300 mg et 150 mg au placebo pendant 52 semaines, en association à une décroissance de prednisone sur 24 semaines. Les patients ont récemment rechuté. Le promoteur est Novartis.",
+ "interet": "L'étude pourrait ajouter une option non corticoïde dans la PPR, après les anti-IL-6. Elle cible les patients en rechute, pour lesquels la corticothérapie prolongée pose le plus de problèmes.",
+ "profil": "Des adultes de 50 ans et plus atteints de pseudopolyarthrite rhizomélique ayant rechuté pendant la décroissance de la prednisone.",
+ "inclusion": [
+  "Âge ≥ 50 ans, consentement écrit",
+  "PPR selon les critères provisoires ACR/EULAR (douleur bilatérale des épaules, CRP ≥ 10 mg/L et/ou VS ≥ 30 mm/h, score ≥ 4 aux critères optionnels)",
+  "Corticothérapie par prednisone ≥ 10 mg/j (ou équivalent) pendant au moins 8 semaines consécutives avant le dépistage",
+  "Au moins une rechute dans les 12 semaines précédant l'inclusion, lors d'une décroissance à ≥ 5 mg/j de prednisone",
+  "Syndrome inflammatoire attribuable à la PPR lors de la rechute ou au dépistage",
+  "Prednisone ≥ 7,5 mg/j et ne dépassant pas 25 mg/j après la dernière rechute"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans le résumé retenu du registre",
+  "Se référer au registre pour la liste complète"
+ ],
+ "bras": [
+  {"nom": "Sécukinumab 300 mg", "traitement": "300 mg SC toutes les 4 semaines, avec décroissance de prednisone sur 24 semaines"},
+  {"nom": "Sécukinumab 150 mg", "traitement": "150 mg SC toutes les 4 semaines, avec décroissance de prednisone sur 24 semaines"},
+  {"nom": "Placebo", "traitement": "Placebo SC toutes les 4 semaines, avec décroissance de prednisone sur 24 semaines"}
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de participants en rémission soutenue à la semaine 52."
+}

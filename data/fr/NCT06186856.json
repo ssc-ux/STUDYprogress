@@ -1,0 +1,28 @@
+{
+ "h": "09a048fdd75d",
+ "date": "2026-11-13",
+ "titre": "Données épidémiologiques sur les pathologies mastocytaires en France",
+ "question": "Quelle est la prévalence et l'incidence des différentes maladies mastocytaires en France ?",
+ "contexte": "Les maladies mastocytaires forment un groupe hétérogène : mastocytoses cutanées, indolentes ou sévères (mastocytose agressive, leucémie à mastocytes) et syndromes d'activation mastocytaire, idiopathiques, secondaires ou clonaux, chez l'enfant comme chez l'adulte.\n\nAucune donnée épidémiologique n'est actuellement disponible en France. La prise en charge repose sur le réseau de maladies rares CEREMAST, dont le centre de référence est situé à l'hôpital Necker-Enfants malades à Paris, avec une vingtaine de centres sur le territoire.\n\nCette étude observationnelle (DATAMAST), promue par l'Institut Imagine, s'appuie sur ce réseau pour recenser les patients et analyser les données de 2010 à 2038. Son but est d'améliorer la connaissance, le diagnostic, le pronostic, la reconnaissance et la prise en charge de ces maladies.",
+ "interet": "Disposer de chiffres français de prévalence et d'incidence aiderait à dimensionner l'offre de soins et à mieux reconnaître ces maladies, souvent diagnostiquées tardivement.",
+ "profil": "Des enfants et des adultes atteints d'une maladie mastocytaire et suivis dans un centre du réseau CEREMAST en France.",
+ "inclusion": [
+  "Enfant (dès la naissance) ou adulte",
+  "Mastocytose cutanée, systémique ou sarcome (OMS 2016)",
+  "Syndrome d'activation mastocytaire (idiopathique, secondaire ou clonal)",
+  "Autres troubles d'activation mastocytaire (classification de Vienne)",
+  "Pré-mastocytose (1 à 2 critères OMS 2016)",
+  "Suivi dans un centre CEREMAST labellisé"
+ ],
+ "exclusion": [
+  "Opposition du patient ou de ses parents à la participation"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Cohorte observationnelle de patients atteints de maladie mastocytaire, sans intervention"
+  }
+ ],
+ "duree": "Données recueillies de 2010 à 2038",
+ "critere": "Prévalence et incidence des différents types de maladies mastocytaires en France (données 2010-2038)."
+}

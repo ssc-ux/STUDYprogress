@@ -1,0 +1,34 @@
+{
+ "h": "d1adb36a8479",
+ "date": "2026-11-13",
+ "titre": "Divozilimab versus placebo dans la sclérodermie systémique (LIBERIUS)",
+ "question": "Le divozilimab, anticorps anti-CD20, réduit-il l'induration cutanée (mRSS) à 48 semaines par rapport au placebo dans la sclérodermie systémique active ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare où les lymphocytes B jouent un rôle dans la production d'auto-anticorps et l'activation fibrosante. L'induration cutanée, mesurée par le score de Rodnan modifié (mRSS), est un marqueur de sévérité et de pronostic. Les options thérapeutiques contre l'atteinte cutanée restent limitées.\n\nLe divozilimab est un anticorps monoclonal anti-CD20 développé par Biocad (Russie), qui déplète les lymphocytes B. Le rituximab, un anti-CD20, a donné des signaux d'efficacité sur la peau et le poumon dans des petites études de ScS.\n\nLIBERIUS est un essai de phase 3, randomisé, en double aveugle et contre placebo, qui a inclus 152 patients. Il admet les patients de 16 ans et plus (critères ACR/EULAR 2013, mRSS de 10 à 20), ainsi que des adolescents de 14 à 16 ans (critères PRES/ACR/EULAR 2007). Les patients avec signes de pneumopathie interstitielle doivent avoir une CVF d'au moins 40 % de la théorique. Les sujets de 18 ans et plus sont randomisés entre divozilimab et placebo, les mineurs de 16 à 18 ans reçoivent le divozilimab.",
+ "interet": "Si l'efficacité sur l'induration cutanée est confirmée, le divozilimab ajouterait une option anti-CD20 dans la ScS. L'étude inclut aussi quelques adolescents, population rarement étudiée.",
+ "profil": "Des adolescents (14 ans et plus) et adultes atteints de sclérodermie systémique active avec un mRSS de 10 à 20.",
+ "inclusion": [
+  "Âge ≥ 16 ans : sclérodermie selon les critères ACR/EULAR 2013 avec mRSS de 10 à 20",
+  "Âge de 14 à 16 ans : sclérodermie selon les critères PRES/ACR/EULAR 2007",
+  "CVF ≥ 40 % de la théorique"
+ ],
+ "exclusion": [
+  "Sclérodermie induite",
+  "Implants ou prothèses en silicone",
+  "Ulcères digitaux infectés ou nécessitant une amputation",
+  "Anomalies biologiques ou hématologiques au dépistage",
+  "VEMS/CVF < 0,7 et VEMS < 50 %",
+  "Traitement antérieur par anticorps anti-CD20"
+ ],
+ "bras": [
+  {
+   "nom": "Divozilimab",
+   "traitement": "Divozilimab (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo (les patients de 16 à 18 ans reçoivent le divozilimab, sans placebo)"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Variation du score de Rodnan modifié (mRSS) par rapport à l'inclusion à la semaine 48."
+}

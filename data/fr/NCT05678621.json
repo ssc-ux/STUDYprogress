@@ -1,0 +1,42 @@
+{
+ "h": "50f5cd6541e4",
+ "date": "2026-11-13",
+ "titre": "Arrêt des immunoglobulines et antibioprophylaxie dans les hémopathies avec hypogammaglobulinémie",
+ "question": "Peut-on arrêter en sécurité les immunoglobulines après 6 mois et les remplacer par des antibiotiques oraux chez des patients atteints d'hémopathie maligne et d'hypogammaglobulinémie ?",
+ "contexte": "L'hypogammaglobulinémie secondaire est fréquente chez les patients atteints de leucémie lymphoïde chronique (LLC), de myélome multiple ou de lymphome non hodgkinien. Elle augmente le risque d'infections bactériennes graves. Les immunoglobulines (Ig) de substitution, par voie intraveineuse ou sous-cutanée, sont proposées pour les prévenir, mais elles sont coûteuses, issues de dons de plasma limités et contraignantes pour les patients.\n\nLa durée optimale du traitement n'est pas établie, et les Ig sont souvent poursuivies sans réévaluation. Une antibioprophylaxie orale est une alternative moins chère, mais elle expose à des effets indésirables et à la résistance bactérienne. Cet essai de phase 2/3, promu par l'université Monash (Australie), randomise 300 adultes recevant des Ig depuis plus de 6 mois en trois groupes : arrêt des Ig avec cotrimoxazole quotidien, arrêt des Ig avec antibiotiques gardés à domicile et pris dès les premiers symptômes, ou poursuite des Ig. Le critère principal combine infection de grade 3 ou plus et décès.",
+ "interet": "L'essai pourrait justifier d'arrêter les Ig chez une partie des patients et de réduire les coûts et l'usage d'un produit sanguin rare. Il précisera aussi la place d'une prophylaxie antibiotique versus une stratégie d'antibiothérapie à la demande.",
+ "profil": "Des adultes atteints de LLC, de myélome ou de lymphome non hodgkinien, sous immunoglobulines de substitution depuis plus de 6 mois.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LLC, myélome multiple ou lymphome non hodgkinien",
+  "Immunoglobulines IV ou SC depuis plus de 6 mois consécutifs pour hypogammaglobulinémie",
+  "Arrêt des Ig jugé possible par le clinicien",
+  "Espérance de vie > 12 mois",
+  "Capable de consentir et de suivre chaque bras de traitement"
+ ],
+ "exclusion": [
+  "Allogreffe antérieure ou prévue",
+  "Infection majeure (grade ≥ 3) dans les 3 mois ou infection active en cours de traitement",
+  "Antibioprophylaxie quotidienne déjà en cours",
+  "Intolérance à toutes les options antibiotiques d'un des bras",
+  "Insuffisance rénale sévère (clairance < 30 mL/min)",
+  "Splénectomie antérieure",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A : arrêt des Ig et antibioprophylaxie",
+   "traitement": "Cotrimoxazole 160/800 mg une fois par jour (doxycycline 100 mg/j en cas d'hypersensibilité)"
+  },
+  {
+   "nom": "Bras B : arrêt des Ig sans antibioprophylaxie",
+   "traitement": "Amoxicilline/acide clavulanique et ciprofloxacine 750 mg gardés à domicile, à débuter dès les symptômes d'infection"
+  },
+  {
+   "nom": "Bras C : poursuite des Ig",
+   "traitement": "Immunoglobulines IV ou SC selon le schéma habituel"
+  }
+ ],
+ "duree": "12 mois après la randomisation",
+ "critere": "Survie sans événement : délai jusqu'à une infection de grade ≥ 3 (CTCAE v5) ou un décès toutes causes, à 12 mois."
+}

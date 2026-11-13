@@ -1,0 +1,14 @@
+{
+ "h": "d2e8917198e6",
+ "date": "2026-11-13",
+ "titre": "Acide rétinoïque tout-trans contre placebo dans le PTI primaire résistant ou en rechute après corticoïdes",
+ "question": "L'acide rétinoïque tout-trans (ATRA) permet-il d'obtenir plus de réponses plaquettaires durables que le placebo chez des adultes ayant un PTI primaire résistant ou en rechute après corticoïdes ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. La corticothérapie et les immunoglobulines de première ligne fonctionnent chez beaucoup de patients, mais la réponse est souvent transitoire ou insuffisante. Les options suivantes comprennent les agonistes de la TPO, le rituximab et la splénectomie, avec un coût et des contraintes.\n\nL'acide rétinoïque tout-trans (ATRA) module le système immunitaire, en favorisant les lymphocytes T régulateurs et en réduisant la production d'auto-anticorps. Associé à d'autres traitements, il a déjà montré une activité dans de petites études du PTI, menées par l'équipe de l'hôpital du Peuple de l'Université de Pékin.\n\nCet essai de phase 3 multicentrique, randomisé en double aveugle contre placebo, évalue l'ATRA seul (10 mg 2 fois par jour) chez 192 adultes. Il porte sur la réponse plaquettaire durable jusqu'à la semaine 24.",
+ "interet": "Si l'ATRA est efficace en monothérapie, il offrirait une option orale peu coûteuse pour les patients en échec de la première ligne, avec une preuve contrôlée par placebo qui manque encore.",
+ "profil": "Des adultes atteints de PTI primaire, en échec ou en rechute après corticoïdes et/ou immunoglobulines.",
+ "inclusion": ["Âge ≥ 18 ans, PTI primaire", "Moyenne de deux numérations plaquettaires espacées d'au moins 1 jour < 30 G/L, aucune > 35 G/L dans les 2 semaines précédentes", "Au moins un traitement standard de première ligne (corticoïdes et/ou IgIV) avec réponse non soutenue, rechute, intolérance ou réponse insuffisante"],
+ "exclusion": ["Grossesse, allaitement ou projet de grossesse (patiente ou partenaire)", "Cancer actif ou antécédent de tumeur maligne", "Infection grave dans les 4 semaines, zona symptomatique dans les 12 semaines", "Infection active ou chronique par le VHB, le VHC ou le VIH", "Tuberculose active ou non traitée", "Vaccin vivant dans les 12 semaines", "Traitement antérieur par ATRA, greffe d'organe ou chirurgie prévue", "Myélodysplasie, aplasie ou myélofibrose, événement thromboembolique récent"],
+ "bras": [{"nom": "ATRA", "traitement": "Acide rétinoïque tout-trans 10 mg, 2 fois par jour"}, {"nom": "Placebo", "traitement": "Placebo, 2 fois par jour"}],
+ "duree": "Jusqu'à 24 semaines",
+ "critere": "Réponse plaquettaire durable, évaluée jusqu'à la semaine 24"
+}

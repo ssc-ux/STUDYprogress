@@ -1,0 +1,36 @@
+{
+ "h": "5cb28a9e0f83",
+ "date": "2026-11-13",
+ "titre": "OATD-01 dans la sarcoïdose pulmonaire active",
+ "question": "L'OATD-01 est-il plus efficace que le placebo sur l'activité granulomateuse de la sarcoïdose pulmonaire ?",
+ "contexte": "La sarcoïdose pulmonaire est une granulomatose systémique d'origine inconnue, avec adénopathies médiastinales et atteinte parenchymateuse. Elle peut évoluer vers la fibrose. Le traitement de première ligne repose sur les corticoïdes, avec le méthotrexate ou l'infliximab en cas de dépendance. La toxicité cumulée des corticoïdes motive la recherche d'alternatives.\n\nLa TEP au 18F-FDG permet de mesurer l'activité granulomateuse. L'OATD-01 est un inhibiteur oral de la chitinase de type 1 (CHIT1), enzyme produite par les macrophages activés. Il vise à réduire l'inflammation et la fibrose, avec un effet attendu sur les granulomes.\n\nCet essai de phase 2 de Molecure est randomisé 1:1, en double insu contre placebo, adaptatif, chez 96 adultes avec sarcoïdose pulmonaire symptomatique active, confirmée selon l'ATS 2020 avec atteinte parenchymateuse à la TEP/TDM au FDG. Les patients sont naïfs de traitement ou précédemment traités mais actuellement non traités. Le traitement dure 12 semaines. Il est mené dans 8 pays dont la France.",
+ "interet": "Un traitement oral ciblant les macrophages pourrait compléter ou remplacer les corticoïdes dans la sarcoïdose pulmonaire. L'essai court sur 12 semaines apportera un signal d'efficacité précoce mesuré par imagerie fonctionnelle.",
+ "profil": "Des adultes atteints de sarcoïdose pulmonaire active et symptomatique, avec atteinte parenchymateuse visible à la TEP au FDG.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sarcoïdose pulmonaire active symptomatique, certaine selon l'ATS",
+  "Naïf de traitement ou précédemment traité, sans limite de recrutement",
+  "Atteinte parenchymateuse pulmonaire à la TEP/TDM au 18F-FDG"
+ ],
+ "exclusion": [
+  "Nécessité d'un traitement standard immédiat",
+  "Sarcoïdose cardiaque ou neurologique active, syndrome de Löfgren",
+  "Autre maladie pulmonaire cliniquement significative ou autre maladie inflammatoire systémique",
+  "Traitement potentiellement efficace récent (corticoïdes < 3 mois, immunosuppresseurs ou anti-TNF < 4 mois)",
+  "Allongement du QTc, arythmie, insuffisance cardiaque NYHA III-IV ou FEVG < 50 %",
+  "Anomalies biologiques (bilirubine, transaminases, créatinine, calcémie, glycémie), diabète non contrôlé",
+  "VIH, VHB ou VHC positifs, tabagisme > 5 cigarettes par jour, médicaments interdits (allongeant le QT, inhibiteurs ou inducteurs puissants du CYP3A4, pirfenidone, nintedanib)"
+ ],
+ "bras": [
+  {
+   "nom": "OATD-01",
+   "traitement": "OATD-01 25 mg, comprimé pelliculé oral, une fois par jour pendant 12 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, comprimé oral, une fois par jour pendant 12 semaines"
+  }
+ ],
+ "duree": "12 semaines de traitement",
+ "critere": "Réponse au traitement entre la randomisation et la fin du traitement à 12 semaines (définition précise non détaillée dans le registre)"
+}

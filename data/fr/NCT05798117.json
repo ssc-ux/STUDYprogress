@@ -1,0 +1,30 @@
+{
+ "h": "bfe0e2f1e395",
+ "date": "2026-11-13",
+ "titre": "YTB323, thérapie cellulaire CAR-T, dans le lupus systémique sévère réfractaire",
+ "question": "Une perfusion unique de YTB323 est-elle sûre et efficace dans le lupus systémique sévère réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique dans laquelle les lymphocytes B autoréactifs produisent des auto-anticorps pathogènes. Les formes sévères avec atteinte rénale, cardiaque, pulmonaire ou vasculaire exposent à une morbidité et une mortalité élevées.\n\nLe traitement associe hydroxychloroquine, corticoïdes, immunosuppresseurs (mycophénolate, cyclophosphamide) et biothérapies (bélimumab, anifrolumab, rituximab). Une partie des patients reste en échec de ces lignes.\n\nYTB323 est une thérapie cellulaire autologue de type CAR-T dirigée contre CD19, conçue pour éliminer en profondeur les lymphocytes B. Cette étude de phase 1/2 de Novartis, en ouvert et non randomisée, évalue la sécurité, l'efficacité et la cinétique cellulaire d'une perfusion unique de YTB323 chez des patients atteints de LES sévère et réfractaire (dont néphrite lupique).",
+ "interet": "Si le profil de sécurité est acceptable, la déplétion B profonde par CAR-T pourrait offrir une rémission prolongée dans les formes réfractaires, avec un enjeu de remise à zéro du système immunitaire.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique sévère réfractaire, avec atteinte d'organe.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "LES selon les critères EULAR/ACR 2019",
+  "Auto-anticorps positifs (ANA ≥ 1/80, anti-ADN natif ou anti-Sm)",
+  "Maladie active sévère (SLEDAI-2K ≥ 8) avec atteinte rénale, péricardique ou myocardique, pleurale ou pulmonaire, ou vasculaire",
+  "Échec d'au moins deux immunosuppresseurs standard (dont mycophénolate ou cyclophosphamide) avec corticoïdes, et d'au moins un biomédicament",
+  "Fonctions rénale, hépatique, cardiaque, hématologique et pulmonaire adéquates"
+ ],
+ "exclusion": [
+  "Infection active, opportuniste, chronique ou récidivante cliniquement significative dans le mois avant le dépistage ou pendant celui-ci",
+  "Infection sévère ayant nécessité une hospitalisation prolongée en réanimation dans les 5 ans",
+  "Autres critères d'exclusion non détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "YTB323",
+   "traitement": "Perfusion unique de YTB323"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Nombre de participants avec événements indésirables et événements indésirables graves, du jour 1 à 2 ans."
+}

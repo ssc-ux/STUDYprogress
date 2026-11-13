@@ -1,0 +1,42 @@
+{
+ "h": "655e5fd38098",
+ "date": "2026-11-13",
+ "titre": "Pirfénidone inhalée (AP01) dans la fibrose pulmonaire progressive",
+ "question": "La pirfénidone inhalée (AP01), à deux doses, améliore-t-elle la fonction respiratoire et reste-t-elle sûre chez les patients atteints de fibrose pulmonaire progressive ?",
+ "contexte": "La fibrose pulmonaire progressive (FPP) regroupe les PID fibrosantes autres que la fibrose pulmonaire idiopathique (FPI) qui s'aggravent malgré la prise en charge : PID des connectivites (dont sclérodermie et polyarthrite), pneumopathie d'hypersensibilité, etc. Le nintédanib a démontré un ralentissement du déclin de la CVF dans cette situation, mais la progression se poursuit chez beaucoup de patients et les options restent limitées.\n\nLa pirfénidone orale est un antifibrosant établi dans la FPI, mais sa tolérance digestive et cutanée limite son usage. L'AP01 est une solution de pirfénidone en inhalation, conçue pour concentrer le médicament dans le poumon et limiter l'exposition systémique. Cette étude de phase 2b, randomisée en double aveugle contre placebo, compare deux doses d'AP01 deux fois par jour au placebo, en plus du traitement habituel. Une partie des patients (jusqu'à 30 %) peut garder un traitement de fond par nintédanib ou nérandomilast. Le promoteur est Avalyn Pharma ; 398 participants sont inclus.",
+ "interet": "Une forme inhalée efficace et mieux tolérée de pirfénidone pourrait élargir l'usage de cet antifibrosant aux FPP, dont celles liées à la sclérodermie. L'étude renseignera aussi la sécurité de l'association à un antifibrosant oral.",
+ "profil": "Des adultes atteints de fibrose pulmonaire progressive non liée à une FPI, quelle que soit la maladie sous-jacente.",
+ "inclusion": [
+  "PID fibrosante autre que FPI avec critères de progression (déclin relatif de la CVF ≥ 10 %, ou de 5 à < 10 % avec symptômes ou progression radiologique) sur 24 mois",
+  "CVF ≥ 45 % de la théorique",
+  "VEMS/CVF ≥ 0,7 (ou ≥ limite inférieure de la normale)",
+  "DLCO ≥ 30 % de la théorique (corrigée de l'hémoglobine)",
+  "Spirométrie acceptable selon les critères ATS/ERS",
+  "Traitement de fond (nintédanib ou nérandomilast) stable depuis au moins 12 semaines, ou arrêté depuis au moins 12 semaines"
+ ],
+ "exclusion": [
+  "Pirfénidone orale en cours ou dans les 3 mois, ou nérandomilast 9 mg × 2",
+  "ALAT ou ASAT > 3 × LSN, ou bilirubine > 2 × LSN",
+  "Clairance de la créatinine < 30 mL/min",
+  "FPI diagnostiquée (hors UIP d'autre cause)",
+  "Emphysème plus étendu que la fibrose sur le scanner",
+  "Aggravation clinique significative pendant la sélection",
+  "CVF instable à la visite 3 (écart > 12 % par rapport aux deux mesures précédentes)"
+ ],
+ "bras": [
+  {
+   "nom": "AP01 forte dose",
+   "traitement": "Pirfénidone en solution pour inhalation, forte dose, deux fois par jour"
+  },
+  {
+   "nom": "AP01 faible dose",
+   "traitement": "Pirfénidone en solution pour inhalation, faible dose, deux fois par jour"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Solution placebo pour inhalation, deux fois par jour"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Effet de l'AP01 (forte ou faible dose, deux fois par jour) comparé au placebo à la semaine 52 (mesure précise non détaillée dans le registre)"
+}

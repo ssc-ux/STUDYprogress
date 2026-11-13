@@ -1,0 +1,35 @@
+{
+ "h": "7e2dfdd84614",
+ "date": "2026-11-13",
+ "titre": "Transition vers la monothérapie par KPL-387 dans la péricardite récurrente",
+ "question": "Comment passer sans rechute des traitements habituels de la péricardite récurrente à une monothérapie par KPL-387 ?",
+ "contexte": "La péricardite récurrente est une inflammation du péricarde qui rechute après un premier épisode, avec douleur thoracique, élévation de la CRP et risque d'hospitalisations répétées. Le traitement de première ligne associe AINS et colchicine ; les corticoïdes sont à éviter autant que possible. En cas de dépendance ou de résistance, les inhibiteurs de l'IL-1, anakinra et rilonacept, sont efficaces.\n\nLes anti-IL-1 imposent des injections fréquentes, avec une tolérance parfois limitée par les réactions locales. Le KPL-387, développé par Kiniksa, est un anticorps administré par voie sous-cutanée ; le registre ne précise pas sa cible. Il vise à contrôler la péricardite récurrente à un rythme d'administration plus espacé.\n\nCette étude de phase 2 ouverte à bras unique, menée dans 10 pays dont la France, inclut 120 patients de 18 à 80 ans, avec une péricardite récurrente bien contrôlée sous AINS, colchicine, corticoïdes ou anti-IL-1. L'étude de posologie dure jusqu'à 16 semaines. Elle précise le schéma de transition vers le KPL-387 en monothérapie, puis les patients peuvent poursuivre dans une extension à long terme jusqu'à 24 mois.",
+ "interet": "Un schéma de transition validé permettrait aux patients sous traitements chroniques d'alléger leur traitement sans rechute. Il apporte aussi des données de tolérance à long terme du KPL-387.",
+ "profil": "Des adultes de 18 à 80 ans atteints de péricardite récurrente bien contrôlée sous traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Péricardite récurrente bien contrôlée : CRP < 0,5 mg/dL et douleur NRS ≤ 3 à l'inclusion",
+  "Antécédent documenté de CRP > 1 mg/dL lors d'au moins un épisode de péricardite",
+  "Traitement standard stable depuis au moins 3 mois : AINS, colchicine, corticoïdes ou anti-IL-1 (anakinra, rilonacept)"
+ ],
+ "exclusion": [
+  "Péricardite secondaire à une étiologie interdite",
+  "Récidive de péricardite dans les 3 mois précédant l'inclusion",
+  "Produit expérimental dans les 4 semaines ou prévu pendant l'étude",
+  "Tuberculose active ou latente non traitée, déficit immunitaire ou immunosuppression (dont VIH)",
+  "Radiographie thoracique avec signe de cancer, de tuberculose ou d'infection",
+  "Cancer dans les 5 ans (hors exceptions), infection active ou récurrente, infection grave récente, greffe d'organe"
+ ],
+ "bras": [
+  {
+   "nom": "Posologie KPL-387",
+   "traitement": "KPL-387 par injection sous-cutanée jusqu'à la semaine 16, avec transition depuis le traitement antérieur (dose non précisée)"
+  },
+  {
+   "nom": "Extension à long terme",
+   "traitement": "KPL-387 poursuivi jusqu'à 24 mois ou jusqu'à l'autorisation de mise sur le marché"
+  }
+ ],
+ "duree": "16 semaines, puis extension jusqu'à 24 mois",
+ "critere": "Proportion de patients sans récidive à 16 semaines (posologie) ; taux annualisé de récidives pendant l'extension, jusqu'à 24 mois"
+}

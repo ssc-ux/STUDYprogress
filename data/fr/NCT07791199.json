@@ -1,0 +1,25 @@
+{
+ "h": "98261d684409",
+ "date": "2026-11-13",
+ "titre": "Accès continu à la deucravacitinib pour le lupus, le Sjögren et le psoriasis pédiatrique",
+ "question": "Comment assurer la poursuite de la deucravacitinib chez les patients atteints de lupus, de maladie de Sjögren ou de psoriasis pédiatrique ayant terminé leur étude précédente, et avec quelle tolérance ?",
+ "contexte": "La deucravacitinib est un inhibiteur oral sélectif de la tyrosine kinase 2 (TYK2), qui bloque la signalisation de cytokines comme l'interféron de type I, l'IL-12 et l'IL-23. Elle est approuvée dans le psoriasis en plaques de l'adulte et fait l'objet d'essais de phase 3 dans le lupus systémique, la maladie de Sjögren et, chez l'enfant, le psoriasis et le rhumatisme psoriasique.\n\nÀ la fin de ces essais, les patients qui tirent un bénéfice du traitement doivent pouvoir le poursuivre en attendant la décision réglementaire ou la disponibilité commerciale du médicament. Cela évite une interruption du traitement qui pourrait provoquer une rechute.\n\nCette étude de phase 3 ouverte, sans comparateur, promue par Bristol-Myers Squibb, prévoit jusqu'à 2 300 participants. Elle donne accès à la deucravacitinib aux adultes avec lupus ou Sjögren et aux enfants avec psoriasis ou rhumatisme psoriasique ayant terminé les études parentes IM011-246, IM011-247, IM011-1069, IM011-126, IM011-1128 ou IM011-1071, avec ou sans leur extension à long terme.",
+ "interet": "Cette étude ne cherche pas à démontrer une efficacité nouvelle : elle assure la continuité du traitement et recueille des données de sécurité complémentaires sur une grande cohorte à plus long terme.",
+ "profil": "Des participants de 4 à 75 ans atteints de lupus systémique, de maladie de Sjögren, de psoriasis ou de rhumatisme psoriasique pédiatrique, ayant terminé une étude parente de la deucravacitinib.",
+ "inclusion": [
+  "Avoir terminé la période de traitement prévue d'une étude parente qualifiante (IM011-246, IM011-247, IM011-1069, IM011-126, IM011-1128 ou IM011-1071)",
+  "Autres critères définis par le protocole"
+ ],
+ "exclusion": [
+  "Maladie ou affection rendant le patient inapte à l'étude ou gênant l'interprétation de la sécurité, selon le médecin",
+  "Autres critères définis par le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Deucravacitinib",
+   "traitement": "Poursuite de la deucravacitinib en ouvert (dose non précisée)"
+  }
+ ],
+ "duree": "Non précisé ; suivi de sécurité jusqu'à environ 28 jours après la dernière dose",
+ "critere": "Nombre de participants traités, jusqu'à environ 28 jours après la dernière dose de deucravacitinib."
+}

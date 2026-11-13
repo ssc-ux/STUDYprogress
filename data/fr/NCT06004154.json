@@ -1,0 +1,29 @@
+{
+ "h": "f7c1f1b0aad0",
+ "date": "2026-11-13",
+ "titre": "Évolution de l'imagerie sous traitement dans l'artérite à cellules géantes",
+ "question": "Comment évoluent les anomalies de la paroi des artères crâniennes à l'IRM et à l'échographie après le début de la corticothérapie dans l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG, maladie de Horton) est une vascularite des gros et moyens vaisseaux, avec un risque de complications oculaires, neurologiques et aortiques. Le diagnostic est urgent, et la corticothérapie précoce prévient les complications. La biopsie de l'artère temporale n'a qu'une sensibilité d'environ 75 %, et les critères de classification ACR/EULAR 2022 admettent désormais l'échographie et la TEP.\n\nL'IRM pariétale haute définition des artères crâniennes est très performante. Les investigateurs ont montré dans une cohorte prospective qu'elle surpasse la biopsie, associée ou non à l'échographie ou à l'angiographie rétinienne.\n\nOn sait peu comment ces anomalies évoluent après le début des corticoïdes. Cette incertitude limite l'usage de l'imagerie pour suivre l'activité de la maladie, notamment en cas de suspicion de rechute sans syndrome inflammatoire biologique net. EvHortim est une étude de cohorte monocentrique de la Fondation Ophtalmologique Adolphe de Rothschild, qui inclut 50 patients. IRM et échographie sont répétées à 1 et 3 mois après l'examen du diagnostic, en plus des examens de suivi à 6 et 12 mois. Une IRM est possible en cas de rechute.",
+ "interet": "Connaître l'évolution des images sous traitement aiderait à interpréter l'imagerie lors d'une suspicion de rechute. Elle pourrait servir à suivre l'activité de la maladie et à adapter la décroissance des corticoïdes.",
+ "profil": "Des adultes de 50 ans et plus atteints d'artérite à cellules géantes confirmée selon ACR/EULAR 2022 et diagnostiquée par IRM et échographie.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "ACG selon les critères ACR/EULAR 2022",
+  "Diagnostic posé par IRM et échographie",
+  "Consentement et affiliation à un régime d'assurance sociale"
+ ],
+ "exclusion": [
+  "Contre-indication absolue ou relative à l'IRM (dispositif implantable incompatible, claustrophobie, etc.)",
+  "Hypersensibilité au gadobutrol",
+  "Mesure de protection juridique",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte d'ACG suivie par imagerie",
+   "traitement": "Aucune intervention thérapeutique spécifique ; IRM pariétale et échographie répétées à 1, 3, 6 et 12 mois"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Description de l'évolution des anomalies à l'IRM et à l'échographie à 1, 3, 6 et 12 mois après le diagnostic"
+}

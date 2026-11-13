@@ -1,0 +1,33 @@
+{
+ "h": "1d0fd5522364",
+ "date": "2026-11-13",
+ "titre": "Benralizumab chez l'enfant atteint de maladies à éosinophiles (EGPA, syndrome hyperéosinophilique)",
+ "question": "Le benralizumab est-il sûr, quelle est sa pharmacocinétique, et est-il efficace chez l'enfant atteint d'EGPA ou de syndrome hyperéosinophilique ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) et le syndrome hyperéosinophilique (SHE) sont des maladies rares à médiation éosinophilique, avec des atteintes d'organes potentiellement graves. Leur prise en charge repose sur les corticoïdes et les immunosuppresseurs, dont la toxicité est préoccupante chez l'enfant. Les données pédiatriques sont très rares.\n\nLe benralizumab est un anticorps anti-récepteur de l'IL-5 alpha, qui déplète les éosinophiles. Il est approuvé dans l'asthme sévère éosinophilique, et évalué chez l'adulte dans l'EGPA et le SHE. CLIPS est une étude de phase 3 en ouvert, de type panier, à groupe unique. Une première cohorte inclut des enfants atteints d'EGPA, une seconde des enfants atteints de SHE, avec d'éventuelles cohortes ultérieures. Les enfants de 6 à moins de 18 ans reçoivent le benralizumab par voie sous-cutanée toutes les 4 semaines pendant 52 semaines, avec une dose selon le poids (≥ 35 kg ou < 35 kg), puis une extension d'au moins un an. Le promoteur est AstraZeneca ; 14 participants sont prévus.",
+ "interet": "L'étude doit fournir les premières données pédiatriques de tolérance, de pharmacocinétique et d'efficacité du benralizumab dans ces maladies orphelines. Elle pourrait étayer son usage chez l'enfant, aujourd'hui peu documenté.",
+ "profil": "Des enfants et adolescents de 6 à 17 ans atteints d'EGPA ou de syndrome hyperéosinophilique, pesant au moins 15 kg.",
+ "inclusion": [
+  "Âge de 6 à moins de 18 ans, poids ≥ 15 kg, consentement des parents et assentiment de l'enfant",
+  "EGPA : corticoïdes oraux > 0,1 mg/kg/j (max 50 mg/j) à dose stable depuis 4 semaines",
+  "EGPA : immunosuppresseur éventuel à dose stable depuis 4 semaines",
+  "SHE : hyperéosinophilie persistante > 1 500/µL avec atteinte d'organe médiée par les éosinophiles, sans cause secondaire",
+  "SHE : forme active, ou antécédent de poussée, ou sévérité jugée suffisante ; éosinophiles ≥ 1 000/µL à la sélection",
+  "SHE : absence de fusion FIP1L1-PDGFRA"
+ ],
+ "exclusion": [
+  "Cancer actuel ou antérieur",
+  "Anaphylaxie à une biothérapie ou à un vaccin",
+  "Anomalie systémique préexistante cliniquement significative",
+  "Benralizumab déjà reçu dans un essai",
+  "EGPA : GPA ou polyangéite microscopique, rechute instable ou EGPA menaçant le pronostic vital dans les 3 mois",
+  "SHE : forme menaçant le pronostic vital, hyperéosinophilie de signification indéterminée, mastocytose systémique"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte EGPA / SHE : benralizumab",
+   "traitement": "Benralizumab par voie sous-cutanée toutes les 4 semaines pendant 52 semaines, dose selon le poids (≥ 35 kg ou < 35 kg), puis extension"
+  }
+ ],
+ "duree": "52 semaines de traitement, puis extension d'au moins 52 semaines",
+ "critere": "Nombre de participants avec événements indésirables jusqu'à la semaine 52, et concentrations sériques de benralizumab aux semaines 0, 12, 24, 25, 36 et 52"
+}

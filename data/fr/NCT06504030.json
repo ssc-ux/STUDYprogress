@@ -1,0 +1,34 @@
+{
+ "h": "7d6ff44345c5",
+ "date": "2026-11-13",
+ "titre": "Schémas DEP modifiés (doxorubicine liposomale, étoposide, méthylprednisolone) dans la LHH active",
+ "question": "Un schéma DEP modifié est-il efficace et bien toléré dans la lymphohistiocytose hémophagocytaire (LHH) active, avec ou sans EBV ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est un syndrome d'hyperinflammation grave, à forte mortalité sans traitement. Le protocole HLH-94/2004 (dexaméthasone, étoposide, ciclosporine) reste la référence, mais une part notable des patients est réfractaire ou rechute, notamment dans les LHH associées à l'EBV.\n\nLe schéma DEP associe doxorubicine liposomale, étoposide et méthylprednisolone. Il a été proposé en Chine comme traitement de rattrapage des LHH réfractaires, avec des taux de réponse encourageants dans des séries monocentriques. La présente étude de phase 4, promue par le Premier hôpital affilié de l'université de Soochow, évalue des schémas DEP modifiés chez 20 patients atteints de LHH active, EBV positive ou non. Les critères d'exclusion citent le ruxolitinib, ce qui suggère qu'il intervient dans les schémas, sans que le registre détaille les modifications. L'étude est à bras unique, sans comparateur.",
+ "interet": "Si les résultats sont favorables, le DEP modifié pourrait constituer une option de traitement de la LHH active, y compris EBV positive. Le schéma à bras unique ne permettra qu'une évaluation préliminaire.",
+ "profil": "Des patients de 1 à 70 ans atteints de LHH active (critères HLH-2004), avec ou sans EBV.",
+ "inclusion": [
+  "Diagnostic de LHH selon les critères HLH-2004",
+  "Âge de 1 à 70 ans",
+  "Bilirubine totale ≤ 10 x la normale, créatinine ≤ 1,5 x la normale",
+  "Fibrinogène corrigeable à ≥ 0,6 g/L après perfusion",
+  "VIH négatif ; hépatites B et C négatives ou charge virale basse",
+  "Contraception efficace ; test de grossesse négatif",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Allergie à la doxorubicine liposomale, à l'étoposide ou au ruxolitinib",
+  "Atteinte myocardique sévère (CK ou CK-MB > 3 x la normale)",
+  "Insuffisance cardiaque NYHA ≥ II",
+  "Dose cumulée d'anthracyclines élevée (doxorubicine ≥ 300 mg/m² ou épirubicine ≥ 450 mg/m²) ou cardiopathie antérieure aux anthracyclines",
+  "Maladie psychiatrique sévère",
+  "Infection sévère non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "DEP modifié pour LHH",
+   "traitement": "Schéma DEP modifié (dose et rythme non précisés) pour LHH EBV positive ou négative"
+  }
+ ],
+ "duree": "Suivi d'au moins 8 semaines (durée totale non précisée)",
+ "critere": "Taux de réponse du schéma DEP modifié et incidence des événements indésirables liés au traitement, évalués aux semaines 2, 4, 6 et 8."
+}

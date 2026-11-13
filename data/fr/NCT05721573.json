@@ -1,0 +1,27 @@
+{
+ "h": "65e521ce5c1e",
+ "date": "2026-11-13",
+ "titre": "ABC008 (anticorps anti-KLRG1) contre placebo dans la myosite à inclusions",
+ "question": "L'ABC008 est-il sûr et améliore-t-il la fonction des patients atteints de myosite à inclusions par rapport au placebo ?",
+ "contexte": "La myosite à inclusions (IBM) est la myopathie acquise la plus fréquente après 40 ans. Elle associe une faiblesse lentement progressive des quadriceps et des fléchisseurs des doigts, une dysphagie fréquente et une perte d'autonomie. Les immunosuppresseurs et les corticoïdes ne modifient pas l'évolution, et aucun traitement n'a d'AMM. La prise en charge repose sur la rééducation et les mesures de soutien.\n\nLa biopsie musculaire montre des infiltrats de lymphocytes T cytotoxiques à différenciation terminale, qui expriment KLRG1 et résistent aux immunosuppresseurs classiques. L'ABC008 est un anticorps monoclonal qui cible ces cellules T KLRG1+, afin de les éliminer. Cette étude de phase 2/3 randomisée en double aveugle contre placebo compare deux doses (0,5 et 2,0 mg/kg) au placebo. La partie A évalue la sécurité et l'évolution du score fonctionnel IBMFRS à 76 semaines. La partie B est la phase de confirmation. Le promoteur est Abcuro.",
+ "interet": "L'étude cible un mécanisme précis, la cellule T cytotoxique KLRG1+, dans une maladie sans traitement approuvé. Un résultat positif serait une avancée rare dans la myosite à inclusions.",
+ "profil": "Des adultes de plus de 40 ans atteints de myosite à inclusions, capables de se lever d'une chaise sans aide d'une personne.",
+ "inclusion": [
+  "Âge > 40 ans, poids de plus de 40 et moins de 150 kg",
+  "IBM clinico-pathologique, clinique ou probable selon les critères ENMC 2011, avec histologie documentée",
+  "Capacité à se lever d'une chaise à accoudoirs, avec les bras mais sans aide d'une personne ou d'un dispositif",
+  "Capacité à marcher 3 mètres, faire demi-tour et se rasseoir, avec ou sans aide technique"
+ ],
+ "exclusion": [
+  "Autre myosite ou myopathie (métabolique, toxique, syndrome des antisynthétases, polymyosite, dermatomyosite, myosite associée à un cancer ou à une autre maladie auto-immune, dystrophie musculaire)",
+  "Affection empêchant la mesure de la force musculaire ou des tests fonctionnels (par exemple arthrose sévère limitant l'amplitude)",
+  "Autre maladie auto-immune ou auto-inflammatoire (hors syndrome de Sjögren, leucémie à grands lymphocytes granuleux T ou thyroïdopathie contrôlée)"
+ ],
+ "bras": [
+  {"nom": "ABC008 0,5 mg/kg", "traitement": "ABC008 0,5 mg/kg ; voie et rythme non précisés"},
+  {"nom": "ABC008 2,0 mg/kg", "traitement": "ABC008 2,0 mg/kg ; voie et rythme non précisés"},
+  {"nom": "Placebo", "traitement": "Placebo"}
+ ],
+ "duree": "Jusqu'à 80 semaines",
+ "critere": "Partie A : événements indésirables survenus sous traitement jusqu'à la semaine 80, et variation du score IBMFRS à la semaine 76. Critères de la partie B : non détaillés dans le registre."
+}

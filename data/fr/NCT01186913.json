@@ -1,0 +1,37 @@
+{
+ "h": "5e106ccc508c",
+ "date": "2026-11-13",
+ "titre": "Histoire naturelle des déficits immunitaires combinés sévères (DICS) traités par greffe ou autre traitement",
+ "question": "Quels facteurs liés au patient, au donneur et à la greffe déterminent le devenir des enfants atteints de DICS ?",
+ "contexte": "Les déficits immunitaires combinés sévères (DICS) sont des urgences pédiatriques : l'absence de lymphocytes T fonctionnels expose à des infections graves dès les premiers mois de vie. Le traitement curatif repose sur l'allogreffe de cellules souches hématopoïétiques, ou, pour certaines formes, sur la thérapie génique ou l'enzymothérapie substitutive (ADA-DICS).\n\nLes pratiques de greffe varient entre centres : choix du donneur, conditionnement, âge à la greffe. Le dépistage néonatal du DICS, qui permet un diagnostic précoce, modifie les résultats. Cette étude observationnelle prospective, promue par le NIAID, recueille de façon uniforme les données avant, pendant et après le traitement chez 690 enfants traités selon les protocoles locaux. Les enfants sont répartis en trois strates : DICS typique (A), DICS atypique (leaky, Omenn, dysgénésie réticulaire) (B), et DICS avec ADA ou lié à l'X traités par une alternative à la greffe (C). Aucun traitement expérimental n'est imposé par l'étude.",
+ "interet": "Les données devraient préciser les facteurs associés à la meilleure évolution (meilleur donneur, conditionnement, moment de la greffe) et l'impact du dépistage néonatal. Elles peuvent orienter les pratiques de greffe.",
+ "profil": "Des enfants atteints de DICS typique ou atypique, qui vont recevoir une greffe, une enzymothérapie ou une thérapie génique.",
+ "inclusion": [
+  "Strate A : DICS typique (CD3 < 300/µL et fonction T très faible, ou lymphocytes T d'origine maternelle) avec projet de greffe",
+  "Strate B : DICS atypique (leaky, Omenn, dysgénésie réticulaire) selon des critères immunologiques et génétiques, avec projet de greffe",
+  "Strate C : DICS-ADA ou lié à l'X traité par PEG-ADA ou thérapie génique",
+  "Traitement prévu selon les protocoles des centres participants"
+ ],
+ "exclusion": [
+  "Infection par le VIH ou autre cause d'immunodéficience secondaire",
+  "Syndrome de DiGeorge",
+  "Déficit en antigènes CMH de classe I ou II",
+  "Maladies métaboliques mimant un DICS (déficit en transporteur du folate, en zinc ou en transcobalamine)"
+ ],
+ "bras": [
+  {
+   "nom": "Strate A : DICS typique + greffe",
+   "traitement": "Allogreffe de cellules souches selon le protocole local"
+  },
+  {
+   "nom": "Strate B : DICS atypique + greffe",
+   "traitement": "Allogreffe de cellules souches selon le protocole local"
+  },
+  {
+   "nom": "Strate C : DICS sans greffe",
+   "traitement": "Traitement alternatif (PEG-ADA, thérapie génique ou autre) selon le protocole local"
+  }
+ ],
+ "duree": "Plusieurs années (survie suivie jusqu'à 8 ans après la greffe)",
+ "critere": "Survie globale à 6 mois, 2 ans, 5 ans et 8 ans après la greffe."
+}

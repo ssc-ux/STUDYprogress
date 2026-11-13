@@ -1,0 +1,49 @@
+{
+ "h": "740462ebc45a",
+ "date": "2026-11-13",
+ "titre": "Vixarelimab dans la fibrose pulmonaire idiopathique et la pneumopathie interstitielle sclérodermique",
+ "question": "Le vixarelimab ralentit-il le déclin de la capacité vitale forcée dans la FPI et dans la pneumopathie interstitielle associée à la sclérodermie ?",
+ "contexte": "La fibrose pulmonaire idiopathique (FPI) et la pneumopathie interstitielle associée à la sclérodermie systémique (SSc-ILD) sont des maladies fibrosantes progressives du poumon, entraînant dyspnée, déclin de la capacité vitale forcée (CVF) et mortalité élevée.\n\nLe nintédanib et la pirfénidone ralentissent le déclin de la CVF dans la FPI, sans l'arrêter. Dans la SSc-ILD, le nintédanib et le tocilizumab sont utilisés, avec un bénéfice limité. Il existe un besoin de traitements agissant sur d'autres voies de la fibrose.\n\nLe vixarelimab est un anticorps monoclonal dirigé contre le récepteur β de l'oncostatine M (OSMRβ), qui bloque les signaux de l'IL-31 et de l'oncostatine M, impliqués dans l'inflammation et la fibrose. Cette étude de phase 2 de Genentech, randomisée en double aveugle contre placebo, comprend deux cohortes : FPI (cohorte 1, inclusions terminées) et SSc-ILD (cohorte 2, en cours). Le traitement dure 52 semaines, avec possibilité d'extension ouverte de 52 semaines.",
+ "interet": "Si le vixarelimab ralentit le déclin de la CVF, il pourrait s'ajouter aux antifibrosants actuels dans la FPI et la SSc-ILD, deux maladies où le besoin thérapeutique reste important.",
+ "profil": "Des adultes atteints de fibrose pulmonaire idiopathique ou de pneumopathie interstitielle associée à la sclérodermie.",
+ "inclusion": [
+  "CVF ≥ 45 % de la théorique, VEMS/CVF > 0,70 et DLCO de 30 à 90 % de la théorique",
+  "Distance au test de marche de 6 minutes ≥ 150 m avec oxygène limité",
+  "Cohorte 1 : âge de 40 à 85 ans, FPI ou FPI probable confirmée par scanner à relecture centrale",
+  "Cohorte 1 : pirfénidone ou nintédanib éventuels, dose stable",
+  "Cohorte 2 : âge de 18 à 85 ans, sclérodermie (critères ACR/EULAR), fibrose ≥ 10 % au scanner et progression",
+  "Cohorte 2 : tocilizumab ou nintédanib éventuels, dose stable"
+ ],
+ "exclusion": [
+  "Amélioration de la CVF dans les 6 mois avant le dépistage",
+  "Réponse connue au bronchodilatateur (augmentation du VEMS ou de la CVF ≥ 10 % de la théorique)",
+  "Saturation de repos < 89 % sous oxygène",
+  "Antécédent de greffe pulmonaire",
+  "Traitement antérieur par vixarelimab",
+  "Infection aiguë non résolue, hypertension pulmonaire nécessitant un traitement, cancer dans les 5 ans, hépatite C active"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1 (FPI) : vixarelimab",
+   "traitement": "Vixarelimab par voie sous-cutanée toutes les 2 semaines pendant 52 semaines"
+  },
+  {
+   "nom": "Cohorte 1 (FPI) : placebo",
+   "traitement": "Placebo sous-cutané toutes les 2 semaines pendant 52 semaines"
+  },
+  {
+   "nom": "Cohorte 2 (SSc-ILD) : vixarelimab",
+   "traitement": "Vixarelimab par voie sous-cutanée toutes les 2 semaines pendant 52 semaines"
+  },
+  {
+   "nom": "Cohorte 2 (SSc-ILD) : placebo",
+   "traitement": "Placebo sous-cutané toutes les 2 semaines pendant 52 semaines"
+  },
+  {
+   "nom": "Extension ouverte (cohortes 1 et 2)",
+   "traitement": "Vixarelimab sous-cutané toutes les 2 semaines pendant 52 semaines supplémentaires"
+  }
+ ],
+ "duree": "52 semaines, plus 52 semaines en extension optionnelle",
+ "critere": "Variation absolue de la capacité vitale forcée par rapport à l'inclusion, jusqu'à la semaine 52."
+}

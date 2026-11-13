@@ -1,0 +1,36 @@
+{
+ "h": "907e7ab19e90",
+ "date": "2026-11-13",
+ "titre": "Avacopan avec glucocorticoïdes brefs ou glucocorticoïdes à dose réduite dans les vascularites à ANCA",
+ "question": "Une association avacopan, rituximab et glucocorticoïdes limités à 4 semaines est-elle aussi efficace qu'un schéma de glucocorticoïdes réduits sur 20 semaines ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et PAM) sont traitées par rituximab ou cyclophosphamide associés à des glucocorticoïdes. Ceux-ci sont responsables d'infections et de complications métaboliques ou osseuses. L'essai PEXIVAS a montré qu'un schéma à doses réduites est non inférieur à un schéma standard pour la survie et l'insuffisance rénale terminale.\n\nL'avacopan, antagoniste oral du récepteur C5a, a été comparé à un schéma de prednisone dans ADVOCATE, avec une rémission non inférieure à 26 semaines et une supériorité à 52 semaines. Il est recommandé comme option d'épargne cortisonique. La place d'un schéma combinant avacopan et glucocorticoïdes très brefs, comparé à un schéma réduit moderne, reste à préciser.\n\nCet essai de phase 4 de l'université de Chiba (Japon) inclut 160 adultes ayant une vascularite à ANCA récente. Le bras avacopan reçoit glucocorticoïdes pendant 4 semaines et rituximab ; le bras comparateur reçoit prednisolone 0,5 mg/kg/jour réduite en 5 mois avec rituximab, puis entretien par rituximab tous les 6 mois. L'essai évalue aussi la rechute et la tolérance à long terme de l'avacopan.",
+ "interet": "Il pourrait établir si un traitement d'induction à très faible exposition cortisonique, associé à l'avacopan, offre la même efficacité qu'un schéma réduit actuel, avec un meilleur profil de tolérance.",
+ "profil": "Des adultes ayant une vascularite à ANCA (GPA ou PAM) nouvellement diagnostiquée, sans traitement antérieur.",
+ "inclusion": [
+  "Consentement écrit du patient ou d'un représentant",
+  "Âge de 18 ans ou plus",
+  "Diagnostic récent de GPA ou PAM (Chapel Hill 2012, classification EULAR/ACR 2022)",
+  "ANCA anti-PR3 ou anti-MPO positifs (ELISA, CLEIA ou FEIA)"
+ ],
+ "exclusion": [
+  "Traitement antérieur de la vascularite",
+  "Glomérulonéphrite avec DFG inférieur à 15 mL/min ou hémorragie alvéolaire sous plus de 2 L/min d'oxygène",
+  "Autre maladie auto-immune multisystémique",
+  "VIH, hépatite B ou C passée ou active",
+  "Cancer dans les 5 ans, tuberculose active récente",
+  "Allergie sévère aux anticorps monoclonaux ou déplétant B dans les 6 mois",
+  "Avacopan antérieur ou impossibilité de prise orale"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe avacopan",
+   "traitement": "Avacopan avec glucocorticoïdes réduits jusqu'à 4 semaines et rituximab à la semaine 0 (posologies détaillées non précisées)"
+  },
+  {
+   "nom": "Groupe glucocorticoïdes",
+   "traitement": "Prednisolone 0,5 mg/kg/jour réduite jusqu'à arrêt en 5 mois, rituximab 375 mg/m² par semaine pendant 4 semaines, puis 500 mg tous les 6 mois en entretien"
+  }
+ ],
+ "duree": "6 à 24 mois (phase d'entretien jusqu'à 24 mois)",
+ "critere": "Proportion de patients en rémission à 26 semaines."
+}

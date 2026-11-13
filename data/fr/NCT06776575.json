@@ -1,0 +1,26 @@
+{
+ "h": "e75a83d7a481",
+ "date": "2026-11-13",
+ "titre": "Échographie et électrophysiologie de la main dans la sclérodermie systémique",
+ "question": "Quels sont les principaux facteurs de dysfonction de la main chez les patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare, multisystémique, caractérisée par une vasculopathie et une fibrose. Sa prévalence varie fortement selon les régions, de 9,3 à 660 par million. Elle touche surtout des sujets de 35 à 55 ans, avec une prédominance féminine de 4 à 6 femmes pour 1 homme.\n\nL'atteinte de la main est une manifestation précoce et une cause majeure de handicap et de dégradation de la qualité de vie. La prise en charge de la douleur de la main est difficile, car s'y associent arthralgies non inflammatoires, arthrite inflammatoire, atteinte tendineuse, rétraction cutanée et neuropathie.\n\nCette étude observationnelle d'Assiut University (Égypte) prévoit d'inclure 45 patients adultes. Elle évalue la fonction de la main et la qualité de vie par des questionnaires spécifiques. Elle cherche ensuite à identifier les principaux contributeurs de la dysfonction, grâce à une échographie détaillée de la main et à une étude électrophysiologique des nerfs périphériques.",
+ "interet": "L'étude pourrait montrer quelle atteinte (articulaire, tendineuse, cutanée ou nerveuse) pèse le plus sur la fonction de la main. Ces données pourraient orienter la rééducation et le traitement ciblé de cette atteinte.",
+ "profil": "Des adultes de 18 à 60 ans atteints de sclérodermie systémique selon les critères EULAR/ACR 2013.",
+ "inclusion": [
+  "Adultes (> 18 ans) atteints de sclérodermie systémique",
+  "Critères de classification EULAR/ACR 2013 remplis"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune (lupus, Sjögren, polyarthrite rhumatoïde, dermatomyosite, connectivite mixte)",
+  "Médicaments responsables de neuropathie périphérique ou alcoolisme chronique",
+  "Diabète, dysthyroïdie ou insuffisance rénale"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de sclérodermie systémique",
+   "traitement": "Cohorte unique évaluée par questionnaires, échographie de la main et électrophysiologie, sans intervention"
+  }
+ ],
+ "duree": "Non précisé (critères évalués sur 2 ans)",
+ "critere": "Qualité de vie et fonction de la main chez les patients atteints de sclérodermie, évaluées sur 2 ans."
+}

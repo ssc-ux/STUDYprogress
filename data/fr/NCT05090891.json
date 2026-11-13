@@ -1,0 +1,40 @@
+{
+ "h": "553cfeee6364",
+ "date": "2026-11-13",
+ "titre": "INCB000928 dans la fibrodysplasie ossifiante progressive",
+ "question": "L'INCB000928 réduit-il l'apparition de nouvelles lésions d'ossification hétérotopique dans la fibrodysplasie ossifiante progressive ?",
+ "contexte": "La fibrodysplasie ossifiante progressive (FOP) est une maladie génétique ultra-rare due à des variants activateurs du gène ACVR1 (ALK2). Elle provoque des ossifications hétérotopiques progressives, souvent après des poussées inflammatoires (« flare-ups ») ou un traumatisme. Elles entraînent une ankylose articulaire et un handicap sévère.\n\nLe palovarotène, inhibiteur du récepteur gamma de l'acide rétinoïque, est le traitement disponible dans certains pays, avec des effets indésirables notables, notamment osseux chez l'enfant. L'anticorps garétosmab, anti-activine A, est également en développement. La voie ACVR1 est la cible physiopathologique centrale.\n\nL'INCB000928 est un inhibiteur oral d'ALK2 développé par Incyte. L'essai Progress est une étude de phase 2 randomisée en double insu contre placebo, avec 3 cohortes par âge : ≥ 12 ans, 6 à < 12 ans, puis 2 à < 12 ans après revue de la sécurité de la cohorte 2. Il inclut 98 patients dans 17 pays dont la France. La phase en double insu dure 24 semaines et est suivie d'une extension ouverte de 292 semaines. Le critère principal est l'apparition de nouvelles lésions mesurée par scanner corps entier faible dose.",
+ "interet": "L'inhibition orale directe d'ALK2 pourrait ralentir l'ossification, qui est irréversible. L'essai inclut des enfants, population où le besoin est le plus grand, avec un suivi de sécurité adapté.",
+ "profil": "Des enfants, adolescents et adultes (≥ 2 ans) atteints de fibrodysplasie ossifiante progressive.",
+ "inclusion": [
+  "Âge ≥ 12 ans (cohorte 1), 6 à < 12 ans (cohorte 2), 2 à < 12 ans (cohorte 3, après revue de la cohorte 2)",
+  "Diagnostic clinique de FOP",
+  "Acceptation d'éviter une grossesse ou une paternité selon les critères du protocole",
+  "Acceptation d'un scanner corps entier à faible dose (hors tête) sans intubation",
+  "Autres critères d'inclusion non détaillés"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Score CAJIS ≥ 24",
+  "Sévérité de la FOP empêchant la participation selon l'investigateur",
+  "Autre comorbidité significative interférant avec l'étude",
+  "Infection chronique ou active nécessitant un traitement systémique",
+  "Infection par le VIH, le VHB ou le VHC"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1 (≥ 12 ans)",
+   "traitement": "INCB000928 ou placebo pendant 24 semaines en double insu, puis extension ouverte de 292 semaines"
+  },
+  {
+   "nom": "Cohorte 2 (6 à < 12 ans)",
+   "traitement": "INCB000928 ou placebo pendant 24 semaines en double insu, puis extension ouverte de 292 semaines"
+  },
+  {
+   "nom": "Cohorte 3 (2 à < 12 ans)",
+   "traitement": "INCB000928 ou placebo pendant 24 semaines en double insu, puis extension ouverte de 292 semaines"
+  }
+ ],
+ "duree": "24 semaines en double insu puis 292 semaines d'extension ouverte, soit environ 6 ans",
+ "critere": "Apparition de nouvelles lésions d'ossification hétérotopique par rapport à l'inclusion, à la semaine 24"
+}

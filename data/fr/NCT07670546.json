@@ -1,0 +1,36 @@
+{
+ "h": "b076fa3a5b74",
+ "date": "2026-11-13",
+ "titre": "Olokizumab dans la pseudopolyarthrite rhizomélique (PROMISE)",
+ "question": "L'olokizumab sous-cutané est-il plus efficace que le placebo dans la pseudopolyarthrite rhizomélique en poussée ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) touche les personnes de plus de 50 ans, avec douleurs et raideur des ceintures et syndrome inflammatoire. Les glucocorticoïdes sont le traitement de référence, mais les rechutes lors de la décroissance sont fréquentes et la corticothérapie prolongée expose à des effets indésirables chez des patients âgés. Le méthotrexate est utilisé en épargne cortisonique.\n\nL'interleukine 6 (IL-6) joue un rôle central dans la PPR. Les inhibiteurs du récepteur de l'IL-6 (sarilumab, tocilizumab) ont montré un bénéfice dans cette indication, le sarilumab étant approuvé dans certains pays. L'olokizumab, anticorps dirigé contre l'IL-6 elle-même, est déjà autorisé dans la polyarthrite rhumatoïde en Russie.\n\nCet essai de phase 3 de R-Pharm, randomisé contre placebo, inclut 125 patients de 50 ans ou plus avec PPR en poussée (PMR-AS d'au moins 10, CRP d'au moins 5 mg/L). Les patients reçoivent olokizumab 64 mg ou placebo toutes les 2 semaines. Les objectifs secondaires portent sur l'épargne cortisonique et la tolérance.",
+ "interet": "Il pourrait ajouter une option anti-IL-6 pour la PPR. Les résultats sur l'épargne cortisonique seront importants en pratique.",
+ "profil": "Des adultes de 50 ans ou plus ayant une PPR en poussée.",
+ "inclusion": [
+  "Consentement écrit",
+  "PPR selon les critères ACR/EULAR 2012",
+  "Corticoïdes stables à 20 mg/jour d'équivalent prednisone ou moins depuis 2 semaines, ou absence de corticoïdes depuis 2 semaines",
+  "Poussée dans les 3 jours avant la randomisation (PMR-AS d'au moins 10, CRP d'au moins 5 mg/L sans autre cause)"
+ ],
+ "exclusion": [
+  "Symptômes crâniens d'ACG dans les 12 semaines",
+  "Fibromyalgie ou douleur neuropathique associées",
+  "Autre maladie rhumatismale systémique (polyarthrite rhumatoïde, Sjögren, vascularite, myosite)",
+  "Limitation bilatérale de l'élévation des bras non liée à la PPR",
+  "Corticothérapie systémique nécessaire pour une autre maladie",
+  "Anti-IL-6 ou anti-récepteur de l'IL-6 antérieurs (sauf COVID-19, dernière prise plus de 6 mois avant)",
+  "Corticoïdes IV, intra-articulaires ou IM dans les 4 semaines, inhibiteurs de JAK ou anti-TNF récents"
+ ],
+ "bras": [
+  {
+   "nom": "Olokizumab",
+   "traitement": "Olokizumab 64 mg en une injection sous-cutanée de 0,4 mL toutes les 2 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en une injection sous-cutanée de 0,4 mL toutes les 2 semaines"
+  }
+ ],
+ "duree": "Non précisé (critère principal évalué jusqu'à la semaine 16)",
+ "critere": "Obtention d'une réponse au traitement jusqu'à la semaine 16."
+}

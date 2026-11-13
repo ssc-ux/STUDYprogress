@@ -1,0 +1,40 @@
+{
+ "h": "363a322205bc",
+ "date": "2026-11-13",
+ "titre": "Baricitinib chez l'enfant atteint d'arthrite juvénile idiopathique systémique",
+ "question": "Le baricitinib est-il sûr et efficace chez l'enfant atteint d'arthrite juvénile idiopathique systémique, par rapport au tocilizumab de référence ?",
+ "contexte": "L'arthrite juvénile idiopathique systémique (AJIs) est une forme d'arthrite de l'enfant avec fièvre, éruption et syndrome inflammatoire marqué, avec un risque de syndrome d'activation macrophagique (SAM). Les traitements actuels reposent sur les corticoïdes, les anti-IL-1 (anakinra, canakinumab) et l'anti-IL-6 (tocilizumab), mais certains enfants restent insuffisamment contrôlés ou dépendants des corticoïdes.\n\nLe baricitinib est un inhibiteur oral de JAK1 et JAK2, approuvé dans la polyarthrite rhumatoïde et l'AJI de forme polyarticulaire. Cette étude de phase 3 évalue sa tolérance, son efficacité et sa pharmacocinétique dans l'AJIs, chez des enfants de 1 à moins de 18 ans. Elle est ouverte et comprend deux cohortes. Dans la cohorte 1 (enfants sans traitement anti-IL-6 préalable), les participants sont randomisés entre baricitinib et tocilizumab sous-cutané de référence. Dans la cohorte 2, les participants reçoivent le baricitinib en ouvert. Le promoteur est Eli Lilly ; 58 participants sont prévus.",
+ "interet": "Elle pourrait apporter une option orale de plus aux enfants dont l'AJIs n'est pas contrôlée par les biothérapies injectables. Elle fournira aussi des données pédiatriques de tolérance des anti-JAK.",
+ "profil": "Des enfants et adolescents de 1 à 17 ans atteints d'arthrite juvénile idiopathique systémique avec au moins 2 articulations actives.",
+ "inclusion": [
+  "AJIs selon les critères ILAR, début avant 16 ans",
+  "Au moins 2 articulations actives au dépistage et à l'inclusion",
+  "Cohorte 1 : âge de 1 à moins de 18 ans, naïf d'anti-IL-6 (≥ 2 ans selon les pays pour le tocilizumab)",
+  "Cohorte 2 : âge de 1 à moins de 18 ans, baricitinib en ouvert"
+ ],
+ "exclusion": [
+  "AJI polyarticulaire, oligoarticulaire étendue, liée aux enthésites ou psoriasique, ou oligoarthrite persistante",
+  "Autre maladie inflammatoire auto-immune que l'AJI",
+  "Uvéite antérieure active ou traitée",
+  "Fibromyalgie active ou autre douleur chronique gênant l'évaluation",
+  "Signes biologiques de SAM dans les 12 semaines",
+  "Infection grave actuelle ou récente (< 4 semaines)",
+  "Hépatite B, tuberculose active ou latente non traitée"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1 : baricitinib",
+   "traitement": "Baricitinib par voie orale (dose non précisée)"
+  },
+  {
+   "nom": "Cohorte 1 : tocilizumab (référence)",
+   "traitement": "Tocilizumab par voie sous-cutanée (dose non précisée)"
+  },
+  {
+   "nom": "Cohorte 2 : baricitinib",
+   "traitement": "Baricitinib par voie orale, en ouvert"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 12 semaines)",
+ "critere": "Pourcentage de participants avec une réponse PediACR30 adaptée à la semaine 12"
+}

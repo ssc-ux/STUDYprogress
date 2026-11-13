@@ -1,0 +1,31 @@
+{
+ "h": "89dd155efe45",
+ "date": "2026-11-13",
+ "titre": "Étude de cohorte non interventionnelle de sécurité d'inotersen dans l'amylose hATTR avec polyneuropathie",
+ "question": "Quelle est la sécurité à long terme de l'inotersen (Tegsedi) en pratique réelle chez les patients atteints d'amylose hATTR avec polyneuropathie ?",
+ "contexte": "L'amylose héréditaire à transthyrétine avec polyneuropathie (hATTR-PN) est une maladie progressive due à une variante pathogène de TTR, qui provoque une neuropathie sensitivo-motrice et dysautonomique, souvent associée à une atteinte cardiaque. Elle évolue vers un handicap sévère.\n\nL'inotersen (Tegsedi) est un oligonucléotide antisens qui réduit la production de TTR. Son profil de sécurité demande une surveillance rapprochée, notamment de la numération plaquettaire (thrombopénie) et de la fonction rénale (glomérulonéphrite).\n\nCette étude de cohorte prospective, non interventionnelle, multinationale et de long terme, promue par Akcea Therapeutics, vise à mieux caractériser la sécurité de l'inotersen en conditions réelles. Elle compare une cohorte exposée à Tegsedi à une cohorte non exposée, mais éligible selon le résumé des caractéristiques du produit et pouvant recevoir d'autres traitements, au Canada, en Europe et aux États-Unis.",
+ "interet": "Ces données de pratique réelle complètent les essais en documentant la tolérance à long terme de l'inotersen, utile pour comparer les options de la polyneuropathie hATTR.",
+ "profil": "Des patients atteints d'amylose hATTR avec polyneuropathie, exposés ou non à l'inotersen, suivis au Canada, en Europe ou aux États-Unis.",
+ "inclusion": [
+  "Cohorte exposée : hATTR-PN avec au moins une dose de Tegsedi dans les 25 semaines avant l'inclusion",
+  "Cohorte non exposée : hATTR-PN sans Tegsedi dans les 25 semaines, éligible au Tegsedi selon l'étiquetage",
+  "Autres traitements de la hATTR-PN autorisés",
+  "Prise en charge clinique au Canada, en Europe ou aux États-Unis",
+  "Consentement écrit signé"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte exposée au Tegsedi",
+   "traitement": "Tegsedi (inotersen) commercial en pratique courante ; recueil de données"
+  },
+  {
+   "nom": "Cohorte non exposée",
+   "traitement": "Autres soins courants de la hATTR-PN ; recueil de données"
+  }
+ ],
+ "duree": "10 ans",
+ "critere": "Caractérisation de la sécurité à long terme du Tegsedi en conditions réelles, sur 10 ans."
+}

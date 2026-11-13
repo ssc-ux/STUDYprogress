@@ -1,0 +1,43 @@
+{
+ "h": "37606b4dd0fe",
+ "date": "2026-11-13",
+ "titre": "NTLA-2002, édition génique in vivo, dans l'angiœdème héréditaire",
+ "question": "Une injection unique de NTLA-2002 est-elle sûre et réduit-elle le nombre de crises d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est dû à un déficit quantitatif ou fonctionnel en inhibiteur de la C1 estérase, qui entraîne une production excessive de bradykinine et des crises récurrentes d'œdèmes sous-cutanés et muqueux, parfois laryngés.\n\nLes traitements actuels sont soit à la demande (icatibant, inhibiteur de C1 plasmatique, ecallantide), soit prophylactiques au long cours (lanadélumab, bérotralstat, inhibiteur de C1, androgènes atténués). Ils exigent une prise ou une injection répétée à vie, avec un fardeau thérapeutique et un contrôle parfois incomplet.\n\nNTLA-2002 est une thérapie d'édition génique in vivo par CRISPR-Cas9, administrée dans des nanoparticules lipidiques. Elle vise à inactiver le gène KLKB1, qui code la prékallicréine, afin de réduire durablement la production de bradykinine après une seule perfusion. Cette étude de phase 1/2 comprend une escalade de dose (phase 1), puis une phase 2 randomisée en double aveugle contre placebo, avec une sous-étude de passage du placebo à NTLA-2002. Le promoteur est Intellia Therapeutics.",
+ "interet": "Une prophylaxie obtenue par une dose unique pourrait changer la prise en charge de l'AOH en supprimant la nécessité d'un traitement chronique. La tolérance à long terme de l'édition génique reste la question centrale.",
+ "profil": "Des adultes atteints d'angiœdème héréditaire de type I ou II avec des crises documentées.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Angiœdème héréditaire de type I ou II",
+  "Preuve de crises d'AOH pour satisfaire l'exigence de dépistage",
+  "Accès à au moins un traitement de crise et capacité à l'utiliser",
+  "Biologie (chimie, hématologie) adéquate",
+  "Engagement à ne pas participer à une autre étude interventionnelle"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème récurrent associée",
+  "Hypersensibilité connue à un composant des nanoparticules lipidiques",
+  "Toute affection pouvant compromettre la sécurité du patient selon l'investigateur",
+  "Refus de respecter les procédures de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 1 : escalade de dose",
+   "traitement": "NTLA-2002 en dose unique au jour 1, trois cohortes de dose"
+  },
+  {
+   "nom": "Phase 2 : NTLA-2002",
+   "traitement": "NTLA-2002 en dose unique au jour 1, deux niveaux de dose"
+  },
+  {
+   "nom": "Phase 2 : placebo",
+   "traitement": "Sérum physiologique IV au jour 1"
+  },
+  {
+   "nom": "Sous-étude de passage du placebo et de dosage de suivi",
+   "traitement": "NTLA-2002 en dose unique pour les patients ayant reçu le placebo ou 25 mg"
+  }
+ ],
+ "duree": "104 semaines",
+ "critere": "Tolérance (événements indésirables, toxicités dose-limitantes) jusqu'à la semaine 104, et nombre de crises d'AOH par mois entre les semaines 1 et 16."
+}

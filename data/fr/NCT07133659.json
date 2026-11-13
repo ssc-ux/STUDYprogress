@@ -1,0 +1,14 @@
+{
+ "h": "e59cd3bad3ea",
+ "date": "2026-11-13",
+ "titre": "Dose initiale réduite d'avatrombopag dans le PTI primaire de seconde ligne, étude pilote",
+ "question": "Une dose initiale réduite d'avatrombopag (20 mg un jour sur deux), ajustée ensuite aux plaquettes, est-elle efficace et sûre dans le PTI de seconde ligne ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. Après l'échec ou la rechute sous corticoïdes, les agonistes du récepteur de la thrombopoïétine (TPO-RA) sont un traitement de seconde ligne de référence.\n\nL'avatrombopag est un TPO-RA oral dont la dose initiale recommandée est de 20 mg par jour, avec un ajustement selon les plaquettes. Une dose initiale plus faible pourrait suffire à beaucoup de patients, limiter les effets indésirables (notamment thrombotiques en cas de numération très élevée) et réduire le coût du traitement. Les données sur ce schéma restent limitées.\n\nCette étude pilote de phase 4, monocentrique et ouverte, est menée à l'Université Al-Mustansiriyah (Irak). Elle inclut 25 adultes, qui reçoivent 20 mg un jour sur deux pendant une semaine, puis une dose adaptée à la réponse, jusqu'à 24 semaines. L'objectif est d'acquérir de l'expérience et d'explorer l'efficacité et la sécurité de cette dose réduite.",
+ "interet": "Si la dose réduite est efficace, elle pourrait guider une initiation plus prudente et moins coûteuse de l'avatrombopag, en particulier dans les pays à ressources limitées.",
+ "profil": "Des adultes atteints de PTI primaire en échec ou en rechute après corticoïdes, naïfs d'agoniste de la TPO.",
+ "inclusion": ["Âge ≥ 18 ans", "PTI primaire avec plaquettes < 30 G/L dans les 2 semaines précédentes", "Échec ou rechute après au moins une cure de dexaméthasone ou de prednisone/prednisolone", "Besoin d'un traitement de seconde ligne augmentant les plaquettes", "Consentement écrit"],
+ "exclusion": ["Traitement antérieur par un agoniste de la TPO", "Grossesse ou allaitement", "Saignement grave actif ou risque hémorragique élevé", "Refus de contraception efficace chez les femmes en âge de procréer", "PTI secondaire (lymphome, LLC, lupus, syndrome des antiphospholipides, DICV, VIH)", "Anémie hémolytique auto-immune ou syndrome d'Evans associés", "Cancer actif ou comorbidité grave"],
+ "bras": [{"nom": "Avatrombopag", "traitement": "Avatrombopag 20 mg un jour sur deux pendant 1 semaine, puis dose ajustée selon les plaquettes, jusqu'à 24 semaines"}],
+ "duree": "Jusqu'à 24 semaines",
+ "critere": "Délai total jusqu'à la réponse, sur 20 semaines"
+}

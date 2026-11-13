@@ -1,0 +1,26 @@
+{
+ "h": "29190570f089",
+ "date": "2026-11-13",
+ "titre": "Registre des grossesses chez les femmes atteintes de vascularite",
+ "question": "Comment évoluent la vascularite et la grossesse chez les femmes atteintes de vascularite qui deviennent enceintes ?",
+ "contexte": "Les vascularites systémiques (GPA, PAM, PAN, EGPA, Takayasu, Behçet, artérite à cellules géantes, vascularite à IgA, entre autres) touchent des femmes en âge de procréer. Les données sur la grossesse sont rares, issues de petites séries et de registres monocentriques. Les médecins manquent de repères pour conseiller les patientes sur le risque de poussée, les complications obstétricales (prééclampsie, prématurité, retard de croissance) et la compatibilité des traitements.\n\nCe registre de l'Université de Pennsylvanie, adossé au Vasculitis Clinical Research Consortium, inclut des femmes enceintes de 18 à 50 ans, déclarant une vascularite. Le recueil repose sur des questionnaires en ligne portant sur la sévérité de la vascularite, le vécu de la grossesse et ses issues. Les patientes participent depuis chez elles, en anglais, espagnol, portugais, italien ou turc.\n\nIl n'y a pas d'intervention. Le registre vise à décrire des caractéristiques propres aux grossesses des femmes atteintes de vascularite sur quatre ans.",
+ "interet": "Il pourrait fournir des données utiles au conseil préconceptionnel et au suivi des grossesses dans les vascularites. Les données déclarées par les patientes comportent toutefois les limites d'un recueil auto-rapporté.",
+ "profil": "Des femmes enceintes de 18 à 50 ans atteintes d'une vascularite.",
+ "inclusion": [
+  "Femme de 18 ans ou plus",
+  "Vascularite (Behçet, SNC, cryoglobulinémique, EGPA, Horton, GPA, vascularite à IgA, PAM, PAN, Takayasu, urticarienne, autre ou suspectée)",
+  "Grossesse en cours à l'inclusion (déclarée par la patiente)"
+ ],
+ "exclusion": [
+  "Langue autre que l'anglais, l'espagnol, le portugais, l'italien ou le turc",
+  "Incapacité à donner son consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Femmes enceintes avec vascularite",
+   "traitement": "Questionnaires en ligne sur la sévérité de la vascularite, le vécu de la grossesse et les issues de grossesse"
+  }
+ ],
+ "duree": "Suivi jusqu'à 4 ans (questionnaires en ligne)",
+ "critere": "Caractéristiques spécifiques des grossesses chez les femmes atteintes de vascularite, sur 4 ans."
+}

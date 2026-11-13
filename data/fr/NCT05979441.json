@@ -1,0 +1,27 @@
+{
+ "h": "926cc6cf3567",
+ "date": "2026-11-13",
+ "titre": "Extension à long terme de l'efgartigimod sous-cutané dans les myopathies inflammatoires actives",
+ "question": "L'efgartigimod sous-cutané est-il bien toléré à long terme chez les adultes atteints de myopathie inflammatoire idiopathique ayant terminé l'essai parent ARGX-113-2007 ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, polymyosite, myopathie nécrosante à médiation immune, syndrome des antisynthétases) sont des maladies rares, qui entraînent une faiblesse musculaire et des atteintes extra-musculaires. Les traitements reposent sur les corticoïdes, les immunosuppresseurs et les immunoglobulines IV, avec des rechutes fréquentes.\n\nL'efgartigimod est un fragment Fc d'IgG1 qui bloque le récepteur FcRn et accélère le catabolisme des IgG, y compris des auto-anticorps pathogènes. Il est approuvé dans la myasthénie, et son intérêt est exploré dans les myosites. Cette étude est l'extension ouverte, sans comparateur, de l'essai de phase 2/3 ARGX-113-2007. Les participants reçoivent l'efgartigimod PH20 par voie sous-cutanée pendant jusqu'à 51 mois, avec un suivi de sécurité de 56 jours. Le promoteur est argenx ; 240 participants sont prévus.",
+ "interet": "Cette extension fournira les données de tolérance à long terme nécessaires à une éventuelle utilisation chronique de l'efgartigimod dans les myosites. Elle donnera aussi un aperçu de la durabilité de l'effet, sans groupe contrôle.",
+ "profil": "Des adultes atteints de myopathie inflammatoire idiopathique active, issus de l'essai ARGX-113-2007.",
+ "inclusion": [
+  "Avoir terminé l'essai ARGX-113-2007",
+  "Capacité à donner un consentement signé et à respecter le protocole",
+  "Contraception conforme à la réglementation locale, test de grossesse urinaire négatif à l'inclusion"
+ ],
+ "exclusion": [
+  "Chirurgie majeure prévue ou affection survenue depuis l'essai parent pouvant fausser les résultats ou exposer à un risque",
+  "Hypersensibilité connue au médicament ou à un excipient",
+  "Cancer nouveau ou récidivant (hors carcinome basocellulaire cutané)"
+ ],
+ "bras": [
+  {
+   "nom": "Efgartigimod PH20 SC (groupe unique)",
+   "traitement": "Efgartigimod PH20 par voie sous-cutanée, en ouvert (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "Jusqu'à 51 mois de traitement, puis 56 jours de suivi sans traitement",
+ "critere": "Incidence des événements indésirables, graves et d'intérêt particulier, jusqu'à 53 mois"
+}

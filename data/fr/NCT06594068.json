@@ -1,0 +1,33 @@
+{
+ "h": "7debe4313b27",
+ "date": "2026-11-13",
+ "titre": "Anifrolumab dans le lait maternel et chez le nourrisson allaité : registre chez des femmes lupiques",
+ "question": "Quelle quantité d'anifrolumab passe dans le lait maternel et le sérum du nourrisson chez les femmes lupiques traitées qui allaitent ?",
+ "contexte": "Le lupus érythémateux systémique touche surtout des femmes en âge de procréer, et l'allaitement après l'accouchement est une question fréquente. L'anifrolumab, anticorps dirigé contre le récepteur de l'interféron de type I, est approuvé dans le lupus systémique modéré à sévère, par voie intraveineuse ou sous-cutanée.\n\nLes données sur son passage dans le lait maternel et sur l'exposition du nourrisson sont très limitées, ce qui complique les décisions de traitement en post-partum. Les anticorps monoclonaux passent en général peu dans le lait et sont peu absorbés par voie digestive, mais cela doit être documenté pour chaque molécule.\n\nPRIMULA Lac est une étude de phase 4 ouverte, demandée par la FDA après commercialisation, promue par AstraZeneca. Elle recueille des prélèvements de lait aux temps successifs d'une administration, du sérum maternel et du sérum du nourrisson, chez des femmes qui allaitent de façon établie et reçoivent déjà de l'anifrolumab à l'état d'équilibre. Elle comporte 16 participantes prévues, à la durée de participation courte.",
+ "interet": "Ces données pharmacocinétiques permettront de mieux informer les rhumatologues et les patientes sur la compatibilité de l'allaitement avec l'anifrolumab. Elles pourraient modifier la notice et les recommandations de prescription en post-partum.",
+ "profil": "Des femmes de 18 ans ou plus atteintes de lupus systémique modéré à sévère, allaitant et traitées par anifrolumab, et leur nourrisson.",
+ "inclusion": [
+  "Femme de 18 ans ou plus avec un lupus systémique modéré à sévère",
+  "Traitement en cours par anifrolumab, à l'état d'équilibre (au moins 3 doses IV ou 12 doses SC consécutives)",
+  "Lactation établie depuis au moins 4 semaines",
+  "Allaitement exclusif ou au plus un biberon de lait artificiel par jour",
+  "Nourrisson né à ≥ 32 semaines, poids de naissance et poids actuel > 10e percentile",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Produit expérimental ou biothérapie dans les 30 jours ou 5 demi-vies avant l'inclusion",
+  "Néphrite lupique dans les 12 derniers mois",
+  "Chirurgie mammaire ou antécédent de mastectomie gênant le recueil du lait",
+  "Cancer dans les 10 dernières années",
+  "Mastite ou infection active significative au jour 1",
+  "Nourrisson avec une anomalie ou une affection cliniquement significative (cardiaque, pulmonaire, hépatique, instabilité glycémique, infection)"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab (voie IV ou SC)",
+   "traitement": "Anifrolumab selon le traitement en cours ; recueils de lait, de sérum maternel et de sérum du nourrisson (14 prélèvements de lait pour la voie IV)"
+  }
+ ],
+ "duree": "Environ 1 mois par patiente en voie intraveineuse, environ 9 jours en voie sous-cutanée",
+ "critere": "Aire sous la courbe de la concentration d'anifrolumab dans le lait sur un intervalle entre deux doses, concentration moyenne à l'état d'équilibre, sur environ 30 jours."
+}

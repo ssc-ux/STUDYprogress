@@ -1,0 +1,38 @@
+{
+ "h": "20ef4ad8b436",
+ "date": "2026-11-13",
+ "titre": "Patch à micro-aiguilles de toxine botulique pour le phénomène de Raynaud secondaire à la sclérodermie",
+ "question": "Un patch à micro-aiguilles de toxine botulique de type A améliore-t-il la température digitale distale chez des patients sclérodermiques avec phénomène de Raynaud ?",
+ "contexte": "Le phénomène de Raynaud est un trouble vasospastique qui provoque une ischémie digitale et peut mener à la nécrose tissulaire, en particulier dans la sclérodermie systémique (ScS). Dans les formes réfractaires, la toxine botulique de type A (BTX-A) améliore la fonction de la main et les scores de symptômes.\n\nLa BTX-A s'administre actuellement par de multiples injections invasives et douloureuses, avec des risques d'infection locale et de faiblesse transitoire des muscles intrinsèques de la main par diffusion de la toxine. Les micro-aiguilles sont conçues pour réduire la douleur et offrir une méthode moins invasive, plus confortable et portable. Elles atteignent le derme tout en évitant la circulation systémique, et augmentent la surface de délivrance.\n\nCet essai de phase 3, randomisé, en triple insu et contrôlé par placebo, est promu par l'Université de Khon Kaen (Thaïlande). Il inclut 72 adultes atteints de ScS, avec ou sans ulcères digitaux. Le groupe expérimental reçoit le patch de BTX-A avec une crème placebo, le groupe contrôle un patch placebo avec une crème de dinitrate d'isosorbide.",
+ "interet": "Si l'efficacité est confirmée, ce mode d'administration non invasif pourrait rendre la toxine botulique plus facile à utiliser dans le Raynaud secondaire. La comparaison avec le dinitrate d'isosorbide topique situera cette approche par rapport à un traitement local existant.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique avec phénomène de Raynaud, avec ou sans ulcères digitaux.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Phénomène de Raynaud des doigts ou orteils, avec ou sans ulcères digitaux",
+  "Corticoïdes, immunosuppresseurs et vasodilatateurs (inhibiteurs calciques, IPDE5) stables depuis ≥ 4 semaines",
+  "Capacité de lire et écrire le thaï"
+ ],
+ "exclusion": [
+  "Allergie à la toxine botulique ou au dinitrate d'isosorbide",
+  "Chevauchement avec une autre connectivite",
+  "Artériopathie périphérique ou vascularite touchant les doigts ou orteils",
+  "Crème de dinitrate d'isosorbide à 2 % en cours; vasoconstricteurs (ergotamine, bêtabloquants)",
+  "Grossesse ou allaitement",
+  "Patient alité et dépendant, cancer actif, infection active ou infection locale de la main",
+  "Atteinte de la fonction des muscles intrinsèques de la main; tabagisme actif",
+  "Chirurgie vasculaire du membre supérieur dans le mois précédent"
+ ],
+ "bras": [
+  {
+   "nom": "Toxine botulique",
+   "traitement": "Patch à micro-aiguilles de toxine botulique A (dose non précisée) avec crème placebo"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Patch à micro-aiguilles placebo avec crème de dinitrate d'isosorbide"
+  }
+ ],
+ "duree": "4 semaines après traitement (durée totale non précisée)",
+ "critere": "Variation de la température digitale distale par rapport à l'inclusion, à 4 semaines."
+}

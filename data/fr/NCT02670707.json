@@ -1,0 +1,14 @@
+{
+ "h": "3de6ba28ac38",
+ "date": "2026-11-13",
+ "titre": "Cytarabine seule versus vinblastine-prednisone en première ligne de l'histiocytose langerhansienne",
+ "question": "La cytarabine en monothérapie est-elle plus efficace que l'association standard vinblastine-prednisone en première ligne de l'histiocytose à cellules de Langerhans ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (LCH) est une néoplasie myéloïde inflammatoire due à l'accumulation de cellules dendritiques anormales, souvent porteuses d'une mutation de BRAF, qui infiltrent les tissus et forment des lésions. Chez l'enfant, elle touche surtout l'os, la peau, l'hypophyse et parfois des organes à risque.\n\nLe traitement standard de première ligne des formes nécessitant un traitement systémique repose sur l'association vinblastine-prednisone, au prix d'un taux non négligeable de réactivations. La cytarabine est utilisée jusqu'ici surtout après rechute, et aucune autre stratégie n'a été validée en première ligne. Le rationnel est de tester si une monothérapie par cytarabine, administrée par cures de cinq jours, offre une meilleure survie sans événement avec une toxicité acceptable.\n\nCet essai de phase 3 randomisé, promu par le Baylor College of Medicine (Texas Children's), compare directement les deux schémas chez des patients de 0 à 21 ans. Il évalue aussi l'apport de la TEP pour apprécier l'extension et la réponse, et recherche des biomarqueurs génétiques et sanguins associés à la réponse.",
+ "interet": "Si la cytarabine se montre supérieure ou au moins équivalente avec une meilleure tolérance, elle pourrait devenir une option de première ligne dans la LCH. L'étude pourrait aussi préciser la place de la TEP dans l'évaluation de la réponse.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 0 à 21 ans ayant une LCH confirmée par biopsie et nécessitant un traitement systémique.",
+ "inclusion": ["LCH confirmée par biopsie", "Âge de 0 à 21 ans", "Score de Karnofsky ou de Lansky ≥ 50 %", "Maladie non accessible à la chirurgie ou à la simple surveillance", "Atteinte multisite, ou site unique à risque pour le SNC ou site spécial"],
+ "exclusion": ["Chimiothérapie systémique préalable (corticothérapie courte tolérée)", "Maladie limitée à un seul site cutané ou osseux (sauf exceptions)", "Insuffisance rénale sévère", "Atteinte hépatique sévère (sauf due à la LCH)", "Grossesse ou allaitement", "Infection par le VIH"],
+ "bras": [{"nom": "Bras expérimental : cytarabine", "traitement": "Cytarabine IV 5 jours consécutifs, tous les 21 jours puis tous les 28 jours en entretien, pour environ 1 an"}, {"nom": "Bras standard : vinblastine-prednisone", "traitement": "Vinblastine IV hebdomadaire et prednisone orale, avec phase initiale puis d'entretien, pour environ 1 an"}],
+ "duree": "Suivi jusqu'à 60 mois",
+ "critere": "Survie sans événement à 1 an (progression, rechute ou décès), évaluée jusqu'à 60 mois"
+}

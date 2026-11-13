@@ -1,0 +1,33 @@
+{
+ "h": "1333df0e550e",
+ "date": "2026-11-13",
+ "titre": "Rituximab pour réduire l'exposition aux glucocorticoïdes dans la pseudopolyarthrite rhizomélique en rechute",
+ "question": "Le rituximab augmente-t-il la rémission sans glucocorticoïdes à 52 semaines dans la pseudopolyarthrite rhizomélique en rechute ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire fréquent après 50 ans. Sans traitement, elle altère fortement la qualité de vie. Les glucocorticoïdes en sont la base, mais leur utilisation prolongée est source d'effets indésirables, d'autant que la rechute à la décroissance est fréquente. Le méthotrexate et le tocilizumab peuvent servir d'épargne cortisonique, avec un niveau de preuve variable.\n\nUn essai de preuve de concept contre placebo (Marsman et al., 2021) a rapporté une rémission sans glucocorticoïdes à 21 semaines chez 48 % des patients traités par rituximab contre 21 % sous placebo (p = 0,049). Cette étude restait limitée par sa courte durée, son petit effectif et le faible nombre de patients en rechute.\n\nL'essai de phase 3 du Sint Maartenskliniek (Pays-Bas) inclut 174 patients de 50 ans ou plus en rechute de PPR, incapables de passer sous 5 mg/jour de prednisolone. Ils reçoivent une perfusion unique de rituximab 1000 mg ou de placebo pendant la décroissance des corticoïdes, avec un suivi de 52 semaines.",
+ "interet": "Il pourrait établir une option d'épargne cortisonique reposant sur une perfusion unique dans la PPR en rechute, avec un suivi plus long et un effectif plus large que l'étude pilote.",
+ "profil": "Des adultes de 50 ans ou plus ayant une pseudopolyarthrite rhizomélique en rechute dépendante des glucocorticoïdes.",
+ "inclusion": [
+  "PPR selon les critères EULAR/ACR 2012",
+  "Rechute avec reprise des symptômes et élévation de la VS ou de la CRP",
+  "Impossibilité de passer sous 5 mg/jour de prednisolone ou équivalent",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Immunosuppresseur systémique autre que corticoïdes, méthotrexate, léflunomide ou azathioprine dans les 3 mois",
+  "Suspicion d'artérite à cellules géantes ou d'autre rhumatisme inflammatoire",
+  "Affection gênant l'évaluation de la douleur ou du mouvement",
+  "Hypersensibilité ou contre-indication au rituximab"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab",
+   "traitement": "Rituximab 1000 mg par voie intraveineuse, une fois"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie intraveineuse, une fois"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Différence entre groupes du pourcentage de patients en rémission sans glucocorticoïdes à la semaine 52."
+}

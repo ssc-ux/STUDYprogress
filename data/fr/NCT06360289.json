@@ -1,0 +1,31 @@
+{
+ "h": "96504287d5b2",
+ "date": "2026-11-13",
+ "titre": "NfL comme biomarqueur chez les porteurs de variants TTR et dans la polyneuropathie hATTR",
+ "question": "Le dosage de la chaîne légère des neurofilaments (NfL) permet-il de dépister, suivre l'évolution et évaluer la réponse thérapeutique dans l'amylose hATTR ?",
+ "contexte": "L'amylose héréditaire à transthyrétine avec polyneuropathie (hATTR-PN) est due à une variante pathogène de TTR et provoque une neuropathie progressive sensitivo-motrice et dysautonomique. Les porteurs asymptomatiques d'une variante pathogène sont suivis, mais la date d'apparition de la maladie est difficile à prévoir.\n\nLe diagnostic précoce et la surveillance reposent sur des examens cliniques et électrophysiologiques peu sensibles aux premiers stades. Les traitements (silenceurs de la TTR, stabilisateurs) sont d'autant plus utiles qu'ils sont débutés tôt, ce qui crée un besoin de biomarqueurs objectifs.\n\nLa NfL, protéine du cytosquelette neuronal libérée lors d'une atteinte axonale, est un marqueur sanguin de souffrance neuronale étudié dans plusieurs neuropathies. Cette étude observationnelle monocentrique, promue par Alnylam Pharmaceuticals, mesure la NfL chez des porteurs asymptomatiques proches du début présumé de la maladie et chez des patients symptomatiques, et suit son évolution sur 24 mois.",
+ "interet": "Un biomarqueur sanguin validé pourrait aider à repérer le début de la neuropathie, à décider du moment d'un traitement chez les porteurs et à suivre la réponse thérapeutique.",
+ "profil": "Des adultes porteurs asymptomatiques d'une variante pathogène de TTR, ou atteints d'amylose hATTR avec polyneuropathie.",
+ "inclusion": [
+  "Porteur d'une variante pathogène de TTR documentée par génotypage, début prévisible dans les 5 ans, sans hATTR-PN diagnostiquée",
+  "Ou diagnostic confirmé de hATTR-PN avec variante de TTR documentée",
+  "Compréhension de l'étude et absence d'opposition après lecture de la note d'information"
+ ],
+ "exclusion": [
+  "Autre affection connue pouvant léser les nerfs et modifier la NfL",
+  "DFGe < 45 mL/min/1,73 m²",
+  "Participation en cours à une étude clinique avec un agent expérimental"
+ ],
+ "bras": [
+  {
+   "nom": "Porteurs asymptomatiques",
+   "traitement": "Soins courants ; dosages de NfL"
+  },
+  {
+   "nom": "Patients atteints de hATTR-PN",
+   "traitement": "Soins courants ; dosages de NfL"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois",
+ "critere": "Taux de NfL à l'inclusion et variation des taux au cours du temps, jusqu'à 24 mois."
+}

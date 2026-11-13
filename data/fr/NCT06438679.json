@@ -1,0 +1,34 @@
+{
+ "h": "d3ef3afbbbe9",
+ "date": "2026-11-13",
+ "titre": "Traitement par tacrolimus, tofacitinib et thalidomide dans la dermatomyosite anti-MDA5",
+ "question": "L'association tacrolimus, tofacitinib et thalidomide améliore-t-elle la survie dans la dermatomyosite anti-MDA5 avec atteinte pulmonaire ?",
+ "contexte": "La dermatomyosite avec anticorps anti-MDA5 est un phénotype sévère, souvent amyopathique, associé à une pneumopathie interstitielle diffuse rapidement progressive. Sa mortalité à court terme est élevée, en particulier en Asie de l'Est, malgré les corticoïdes à fortes doses, la ciclophosphamide et les inhibiteurs de la calcineurine. Il n'existe pas de standard validé pour les formes sévères.\n\nLa pathogenèse fait intervenir une forte activation de la voie de l'interféron de type I, ce qui justifie l'usage des inhibiteurs de JAK. Des séries rétrospectives chinoises et japonaises ont rapporté un bénéfice du tofacitinib, seul ou associé au tacrolimus. Le thalidomide a un effet anti-inflammatoire et anti-angiogénique utilisé dans l'atteinte cutanée.\n\nCette étude de phase 4 du Second Affiliated Hospital de l'université du Zhejiang est un essai à bras unique de 133 adultes, qui reçoivent l'association « 3T » pendant 12 mois. Elle ne comporte pas de comparateur, ce qui limite l'interprétation de la survie.",
+ "interet": "Elle pourrait fournir des données prospectives sur une stratégie triple, jusqu'ici décrite surtout en séries rétrospectives, dans une maladie à pronostic sombre.",
+ "profil": "Des adultes atteints de dermatomyosite anti-MDA5 positive avec atteinte pulmonaire interstitielle.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Dermatomyosite anti-MDA5 selon les critères EULAR/ACR, titre ++ ou +++",
+  "Baisse au moins légère de la diffusion pulmonaire",
+  "Infiltrat interstitiel au scanner thoracique",
+  "Contraception hautement efficace ou stérilisation",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Échec ou intolérance antérieurs à l'un des médicaments du traitement 3T",
+  "Inhibiteur de JAK, lénalidomide ou ciclosporine récents",
+  "Traitement déplétant les lymphocytes (ex. rituximab) dans les 6 mois",
+  "Médicament expérimental dans les 4 semaines",
+  "Immunodépression ou infection opportuniste dans les 6 mois",
+  "Cancer dans les 5 ans (sauf exceptions)",
+  "Hépatite B active au dépistage"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 3T",
+   "traitement": "Tacrolimus, tofacitinib (5 mg) et thalidomide, chaque jour pendant 12 mois (posologies détaillées non précisées)"
+  }
+ ],
+ "duree": "12 mois de traitement, avec visites toutes les 2 semaines",
+ "critere": "Taux de survie globale à 26 semaines (incidence globale des événements liés au traitement également évaluée à 26 semaines)."
+}

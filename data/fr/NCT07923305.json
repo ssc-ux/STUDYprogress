@@ -1,0 +1,37 @@
+{
+ "h": "ae311422d4d3",
+ "date": "2026-11-13",
+ "titre": "Rilzabrutinib dans le DICV avec complications inflammatoires (iDICV)",
+ "question": "Le rilzabrutinib est-il efficace et sûr chez l'adulte atteint de DICV avec complications inflammatoires ou auto-immunes ?",
+ "contexte": "Le déficit immunitaire commun variable (DICV) est le déficit immunitaire primitif symptomatique le plus fréquent de l'adulte. Au-delà des infections, jusqu'à un tiers des patients développent des complications inflammatoires ou auto-immunes : pneumopathie interstitielle (GLILD), cytopénies auto-immunes, lymphoprolifération avec splénomégalie. Ces formes ont un pronostic moins favorable, et aucun traitement n'est approuvé spécifiquement.\n\nLa prise en charge repose sur les corticoïdes, le rituximab, l'azathioprine ou d'autres immunosuppresseurs, hors AMM et avec une efficacité inégale. Le rilzabrutinib est un inhibiteur oral réversible de la tyrosine kinase de Bruton (BTK), qui module la signalisation des lymphocytes B et des cellules myéloïdes (récepteurs Fc). Cet essai de phase 2/3, promu par Sanofi, comporte quatre parties. Les parties A (DICV avec pneumopathie interstitielle et autre complication) et B (autres complications) sont randomisées 2:1, en double aveugle contre placebo. Elles sont suivies d'une partie C ouverte et d'une extension à long terme (partie D). Il inclut 96 adultes.",
+ "interet": "Si le rilzabrutinib est efficace, il pourrait devenir le premier traitement ciblé des complications inflammatoires du DICV. Les résultats de la phase 3 contre placebo en préciseront le bénéfice.",
+ "profil": "Des adultes atteints de DICV sous substitution en immunoglobulines, avec pneumopathie interstitielle, cytopénie ou lymphoprolifération.",
+ "inclusion": [
+  "DICV diagnostiqué : IgG basses, IgA et/ou IgM basses, phénotype immunologique compatible, absence d'autre déficit immunitaire défini",
+  "Substitution en immunoglobulines IV ou SC",
+  "Au moins une complication : pneumopathie interstitielle, cytopénie liée au DICV depuis > 3 mois (thrombopénie ou anémie), ou lymphoprolifération (splénomégalie, hyperplasie lymphoïde)",
+  "ECOG ≤ 2",
+  "Contraception conforme à la réglementation locale"
+ ],
+ "exclusion": [
+  "Infection pulmonaire active pouvant expliquer les anomalies du scanner",
+  "Maladie chronique ou antécédent cliniquement significatif compromettant la sécurité ou la qualité des données (hépatopathie...)",
+  "Nausées ou vomissements réfractaires",
+  "Infection chronique non contrôlée",
+  "Anomalies biologiques au dépistage (transaminases élevées...)",
+  "Abus de substances, d'alcool ou maladie mentale récente",
+  "Syndrome de malabsorption ou entéropathie modérée à sévère ; immunosuppresseurs concomitants autres que ceux permis"
+ ],
+ "bras": [
+  {
+   "nom": "Rilzabrutinib",
+   "traitement": "Rilzabrutinib par voie orale (dose et rythme non précisés), parties A et B randomisées 2:1, puis parties C et D ouvertes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie orale pendant la période en double aveugle"
+  }
+ ],
+ "duree": "Partie A de 24 semaines, puis période ouverte et extension à long terme ; durée totale non précisée",
+ "critere": "Proportion de participants avec iDICV répondant à au moins une définition de répondeur, à la semaine 32."
+}

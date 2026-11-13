@@ -1,0 +1,35 @@
+{
+ "h": "e2e8e07057ff",
+ "date": "2026-11-13",
+ "titre": "Inébilizumab (MT-0551) versus placebo sur l'induration cutanée de la sclérodermie systémique",
+ "question": "L'inébilizumab (MT-0551) réduit-il l'induration cutanée (mRTSS) à 26 semaines par rapport au placebo dans la sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare associant vasculopathie, auto-anticorps et fibrose de la peau et des organes. Les lymphocytes B et les plasmablastes contribuent à la production d'auto-anticorps et à l'activation fibrosante. Les options contre l'induration cutanée restent limitées (immunosuppresseurs, parfois tocilizumab).\n\nL'inébilizumab est un anticorps monoclonal anti-CD19 qui déplète les lymphocytes B, y compris des plasmablastes et des plasmocytes CD19+. Il est déjà utilisé dans d'autres maladies auto-immunes comme la neuromyélite optique.\n\nCet essai de phase 3, promu par Tanabe Pharma (MT-0551 est le nom de développement de l'inébilizumab au Japon), est randomisé, en quadruple insu et contre placebo. Il inclut environ 80 adultes de 20 à 80 ans atteints de ScS (critères ACR/EULAR 2013) avec un score d'induration cutanée de Rodnan modifié (mRTSS) de 10 à 22. L'inébilizumab est administré en perfusion aux jours 1 et 15. Après la période contrôlée, une phase ouverte et une extension à long terme proposent l'inébilizumab à tous les participants.",
+ "interet": "Si la supériorité est démontrée, la déplétion B ciblée par anti-CD19 pourrait devenir une option contre l'atteinte cutanée de la ScS. Les résultats de l'extension renseigneront sur l'effet et la tolérance à long terme.",
+ "profil": "Des adultes de 20 à 80 ans atteints de sclérodermie systémique avec un score d'induration cutanée modéré (mRTSS de 10 à 22).",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Score d'induration cutanée mRTSS de 10 à 22 inclus",
+  "Âge de 20 à 80 ans"
+ ],
+ "exclusion": [
+  "Hypertension pulmonaire associée à la sclérodermie",
+  "Maladie grave associée à la ScS autre que la pneumopathie interstitielle",
+  "Réserve respiratoire insuffisante",
+  "Antécédent de rituximab, blinatumomab, obinutuzumab ou ofatumumab",
+  "Infection active nécessitant un traitement antimicrobien ou infections récurrentes significatives",
+  "Antécédent de cancer",
+  "Allergie sévère ou anaphylaxie à un produit biologique; vaccin vivant récent"
+ ],
+ "bras": [
+  {
+   "nom": "MT-0551 (inébilizumab)",
+   "traitement": "Inébilizumab par voie intraveineuse aux jours 1 et 15, puis en phase ouverte (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo intraveineux aux jours 1 et 15, puis inébilizumab en phase ouverte et toutes les 26 semaines"
+  }
+ ],
+ "duree": "Période contrôlée de 26 semaines, puis phase ouverte et extension jusqu'à 104 semaines",
+ "critere": "Variation du score mRTSS par rapport à l'inclusion, évaluée jusqu'à la fin de la période d'extension à long terme (critère de supériorité à 26 semaines)."
+}

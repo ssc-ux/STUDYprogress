@@ -1,0 +1,32 @@
+{
+ "h": "23505c3f552e",
+ "date": "2026-11-13",
+ "titre": "Nipocalimab versus placebo dans les myopathies inflammatoires idiopathiques actives",
+ "question": "Le nipocalimab améliore-t-il l'activité des myopathies inflammatoires idiopathiques par rapport au placebo ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (MII) regroupent la dermatomyosite, le syndrome des antisynthétases et les myopathies nécrosantes à médiation immune. Elles provoquent faiblesse musculaire, atteinte cutanée et parfois pulmonaire interstitielle, avec des auto-anticorps spécifiques de la myosite.\n\nLe traitement repose sur les corticoïdes associés à des immunosuppresseurs (méthotrexate, azathioprine, mycophénolate), au rituximab et aux immunoglobulines IV. De nombreux patients restent actifs ou dépendants des corticoïdes.\n\nLe nipocalimab est un anticorps monoclonal bloquant le récepteur FcRn, ce qui réduit les IgG circulantes, y compris les auto-anticorps pathogènes. Cette étude de phase 2 de Janssen, randomisée en double aveugle contre placebo, inclut des patients avec MII active et auto-anticorps spécifiques positifs. Le nipocalimab ou un placebo est administré toutes les 2 semaines jusqu'à la semaine 50.",
+ "interet": "Le blocage de FcRn pourrait offrir une stratégie ciblant les auto-anticorps dans les MII, avec un possible effet d'épargne cortisonique.",
+ "profil": "Des adultes atteints de myopathie inflammatoire idiopathique active (dermatomyosite, myopathie nécrosante ou syndrome des antisynthétases) avec auto-anticorps spécifiques positifs.",
+ "inclusion": [
+  "MII probable ou définie selon les critères EULAR/ACR 2017 depuis ≥ 6 semaines",
+  "Au moins un auto-anticorps spécifique de la myosite positif (Mi-2, TIF1-γ, NXP-2, SAE, MDA-5, SRP, HMGCR, Jo-1, PL7, PL12, OJ ou EJ)",
+  "Dermocorticoïdes de faible puissance ou tacrolimus topique éventuels, dose stable ≥ 4 semaines"
+ ],
+ "exclusion": [
+  "Au moins 3 cures de corticoïdes oraux dans l'année précédente",
+  "Déficit immunitaire primitif ou secondaire non lié au traitement de la MII",
+  "Infarctus du myocarde, cardiopathie ischémique instable ou AVC dans les 12 semaines",
+  "Autres critères d'exclusion non détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "Nipocalimab",
+   "traitement": "Nipocalimab à la semaine 0 puis toutes les 2 semaines jusqu'à la semaine 50 (période en double aveugle), avec corticoïdes selon le cas"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo du nipocalimab à la semaine 0 puis toutes les 2 semaines jusqu'à la semaine 50, avec corticoïdes selon le cas"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Pourcentage de participants avec une amélioration minimale (≥ 20) du score IMACS TIS et ≤ 5 mg/j de prednisone orale de la semaine 44 à la semaine 52."
+}

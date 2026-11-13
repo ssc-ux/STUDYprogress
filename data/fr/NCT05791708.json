@@ -1,0 +1,30 @@
+{
+ "h": "0791a11ee619",
+ "date": "2026-11-13",
+ "titre": "Registre de vie réelle de la maladie des agglutinines froides",
+ "question": "Quelles sont les caractéristiques, les complications, les traitements et la qualité de vie des patients atteints de maladie ou de syndrome des agglutinines froides en vie réelle ?",
+ "contexte": "La maladie des agglutinines froides (MAF) est une anémie hémolytique auto-immune rare, médiée par des agglutinines froides IgM et par l'activation du complément. Elle provoque une hémolyse chronique, une fatigue marquée et des acrosyndromes au froid, avec un risque de thrombose. Le syndrome des agglutinines froides (SAF) est secondaire à une infection, une maladie auto-immune ou un lymphome.\n\nLes traitements comprennent le rituximab, seul ou avec la bendamustine ou la fludarabine, et le sutimlimab, anticorps anti-C1s, approuvé pour limiter l'hémolyse. Les données de vie réelle sont limitées par la rareté de la maladie.\n\nCADENCE est un registre observationnel prospectif et longitudinal de Recordati, multinational et multicentrique (68 centres dans 8 pays dont la France), qui inclut 429 patients adultes. Une cohorte d'au moins 30 patients atteints de MAF traités par sutimlimab est suivie, notamment ceux issus des essais antérieurs du sutimlimab. Le suivi atteint 6 ans.",
+ "interet": "Ce registre décrit l'histoire naturelle, les pratiques thérapeutiques et l'impact sur la qualité de vie. Il fournira des données de sécurité et d'efficacité à long terme du sutimlimab en vie réelle, utiles aux cliniciens et aux autorités de santé.",
+ "profil": "Des adultes atteints de maladie ou de syndrome des agglutinines froides, dont une cohorte traitée par sutimlimab.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Consentement signé (ou représentant légal) et autorisation d'utilisation des données de santé",
+  "Diagnostic de MAF ou de SAF selon l'investigateur, d'après les critères du protocole"
+ ],
+ "exclusion": [
+  "Anémie hémolytique auto-immune mixte chaude et froide, ou à auto-anticorps chauds",
+  "Participation active à un essai interventionnel dans la MAF ou le SAF (inclusion possible à la fin de l'essai)"
+ ],
+ "bras": [
+  {
+   "nom": "Maladie des agglutinines froides (MAF)",
+   "traitement": "Aucune intervention imposée ; suivi observationnel, dont une cohorte traitée par sutimlimab"
+  },
+  {
+   "nom": "Syndrome des agglutinines froides (SAF)",
+   "traitement": "Aucune intervention imposée ; suivi observationnel"
+  }
+ ],
+ "duree": "Jusqu'à 6 ans",
+ "critere": "Caractéristiques de la maladie, complications, schémas de traitement, recours aux soins et qualité de vie (CAD-SIQ, FACIT-Fatigue, SF-36), jusqu'à 6 ans"
+}

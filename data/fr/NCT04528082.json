@@ -1,0 +1,34 @@
+{
+ "h": "111e64c01666",
+ "date": "2026-11-13",
+ "titre": "Aprémilast chez l'enfant atteint d'aphtose buccale de la maladie de Behçet",
+ "question": "L'aprémilast réduit-il le nombre d'ulcères buccaux par rapport au placebo chez l'enfant atteint de maladie de Behçet ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique chronique dont les ulcères buccaux récurrents sont la manifestation la plus fréquente. Chez l'enfant, la maladie est rare, et les traitements des aphtes (corticoïdes locaux, colchicine, immunosuppresseurs) reposent sur peu de données pédiatriques.\n\nL'aprémilast est un inhibiteur oral de la phosphodiestérase 4. Chez l'adulte, il réduit les ulcères buccaux de la maladie de Behçet et il est approuvé dans cette indication. BEAN est une étude pédiatrique de phase 3, randomisée en double aveugle contre placebo pendant 12 semaines, suivie d'une phase de traitement actif de 40 semaines, où tous reçoivent l'aprémilast. Elle inclut des enfants de 2 à moins de 18 ans ayant des aphtes récurrents malgré au moins un traitement non biologique. Le promoteur est Amgen ; 60 participants sont prévus.",
+ "interet": "Elle pourrait étendre à l'enfant une option orale ciblée pour les aphtes de la maladie de Behçet, avec des données de tolérance en pédiatrie. Elle ne concerne pas les atteintes d'organes majeures.",
+ "profil": "Des enfants de 2 à 17 ans atteints de maladie de Behçet avec ulcères buccaux actifs récurrents.",
+ "inclusion": [
+  "Âge de 2 à moins de 18 ans à la randomisation",
+  "Maladie de Behçet selon les critères ISGBD",
+  "Ulcères buccaux ≥ 3 fois sur les 12 mois précédents",
+  "≥ 2 ulcères buccaux à la sélection et au jour 1",
+  "Au moins 1 traitement non biologique antérieur (corticoïdes topiques ou systémiques, etc.)"
+ ],
+ "exclusion": [
+  "Atteinte majeure active (pulmonaire, vasculaire, digestive, neurologique) ou oculaire nécessitant un immunosuppresseur",
+  "Atteinte majeure antérieure autorisée si > 1 an et inactive",
+  "Atteinte oculaire légère sans immunosuppresseur, arthrite ou lésions cutanées : autorisées",
+  "Biothérapie antérieure pour les ulcères buccaux (autres indications autorisées)"
+ ],
+ "bras": [
+  {
+   "nom": "Aprémilast",
+   "traitement": "Aprémilast par voie orale pendant 12 semaines en double aveugle, puis 40 semaines en traitement actif (dose non précisée)"
+  },
+  {
+   "nom": "Placebo puis aprémilast",
+   "traitement": "Placebo pendant 12 semaines, puis aprémilast pendant 40 semaines"
+  }
+ ],
+ "duree": "52 semaines (12 semaines en double aveugle, puis 40 semaines actives)",
+ "critere": "Aire sous la courbe du nombre d'ulcères buccaux de la semaine 0 à la semaine 12"
+}

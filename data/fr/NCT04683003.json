@@ -1,0 +1,37 @@
+{
+ "h": "3d98e6ffce0e",
+ "date": "2026-11-13",
+ "titre": "Traitement prolongé par ADAMTS13 recombinante dans le purpura thrombotique thrombocytopénique congénital",
+ "question": "Le TAK-755 (ADAMTS13 recombinante) est-il bien toléré et efficace au long cours chez les patients atteints de PTT congénital ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique congénital (syndrome d'Upshaw-Schulman) est une maladie rare due à un déficit sévère en ADAMTS13 d'origine génétique. Le défaut de clivage des multimères du facteur de von Willebrand favorise la formation de microthrombi, avec thrombopénie, anémie hémolytique mécanique et atteinte d'organes (cerveau, rein, cœur). Les poussées sont aujourd'hui traitées et prévenues par des perfusions de plasma, qui exposent à des réactions allergiques, à une surcharge volémique et à des contraintes d'administration.\n\nLe TAK-755 (ancien BAX 930/SHP655) est une ADAMTS13 recombinante qui remplace l'enzyme manquante. Cette étude de phase 3b, ouverte et sans groupe contrôle, prolonge l'étude pivot 281102 (NCT03393975). Elle comprend une cohorte prophylactique (perfusion hebdomadaire ou toutes les 2 semaines) et une cohorte à la demande (traitement quotidien pendant un épisode aigu de PTT). Elle accepte des patients issus de l'étude pivot, des patients naïfs du TAK-755 et des patients de programmes d'accès élargi. Le promoteur est Takeda, avec des centres français participants.",
+ "interet": "L'étude documente la sécurité et l'efficacité à long terme d'une enzyme de substitution recombinante, alternative possible aux perfusions de plasma. Elle concerne aussi les enfants et les patients naïfs. Les résultats pourraient influencer la prise en charge prophylactique du PTT congénital.",
+ "profil": "Des enfants et des adultes (0 à 70 ans) atteints d'un déficit congénital sévère en ADAMTS13.",
+ "inclusion": [
+  "Déficit congénital sévère en ADAMTS13 diagnostiqué",
+  "Avoir terminé l'étude pivot 281102 dans la cohorte prophylactique, ou être naïf du TAK-755 / issu d'un programme d'accès élargi",
+  "Âgé de 0 à 70 ans lors du dépistage de l'étude 281102",
+  "Absence de signes sévères de PTT au dépistage (plaquettes < 100 000/µL et LDH > 2 × LSN) pour la cohorte prophylactique",
+  "Karnofsky ≥ 70 % (≥ 16 ans) ou Lansky ≥ 80 % (< 16 ans)",
+  "Test de grossesse négatif et contraception efficace"
+ ],
+ "exclusion": [
+  "Autre microangiopathie de type PTT, y compris PTT immun",
+  "Hypersensibilité sévère connue à l'ADAMTS13, aux protéines de hamster ou aux excipients du TAK-755",
+  "Inhibiteur fonctionnel de l'ADAMTS13 présent au dépistage",
+  "Déficit immunitaire gênant l'évaluation de l'immunogénicité (VIH avec CD4 < 200/mm³, immunosuppresseurs chroniques)",
+  "Antécédent neurologique majeur (AVC majeur) pouvant rendre une rechute grave",
+  "Maladie cardiovasculaire sévère (NYHA 3 ou plus)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte prophylactique",
+   "traitement": "TAK-755 40 UI/kg IV, une fois par semaine ou toutes les 2 semaines"
+  },
+  {
+   "nom": "Cohorte à la demande",
+   "traitement": "TAK-755 IV quotidien lors d'un épisode aigu : 40 UI/kg à J1, 20 UI/kg à J2, puis 15 UI/kg/j jusqu'à 2 jours après résolution"
+  }
+ ],
+ "duree": "Environ 6 ans au total (jusqu'à environ 3 ans de traitement en cohorte prophylactique)",
+ "critere": "Incidence des événements indésirables liés au traitement et des événements indésirables graves, sur environ 6 ans."
+}

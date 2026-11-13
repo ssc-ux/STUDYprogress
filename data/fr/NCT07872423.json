@@ -1,0 +1,14 @@
+{
+ "h": "bdb998ad139b",
+ "date": "2026-11-13",
+ "titre": "Anticorps anti-récepteur de l'IL-6 VDJ001 contre placebo dans la maladie de Castleman multicentrique idiopathique",
+ "question": "L'anticorps anti-récepteur de l'IL-6 VDJ001 induit-il davantage de réponses durables que le placebo dans la maladie de Castleman multicentrique idiopathique (iMCD) ?",
+ "contexte": "La maladie de Castleman multicentrique idiopathique (iMCD) est un trouble lymphoprolifératif rare, non lié à HHV-8, caractérisé par des adénopathies multiples, des symptômes généraux, des cytopénies et une inflammation systémique. L'interleukine 6 joue un rôle central dans sa physiopathologie.\n\nLe siltuximab, anticorps anti-IL-6, est le traitement de référence, autorisé dans de nombreux pays. Son accès reste cependant limité dans certaines régions, et un nombre notable de patients ne répondent pas ou perdent la réponse. Les corticoïdes et d'autres immunosuppresseurs sont utilisés en complément ou en alternative.\n\nLe VDJ001 est un anticorps monoclonal humanisé dirigé contre le récepteur de l'IL-6, développé par Beijing VDJBio. Cet essai de phase 3 multicentrique, randomisé en double aveugle contre placebo, ajoute le VDJ001 aux meilleurs soins de support chez des adultes ayant une iMCD symptomatique, diagnostiquée selon les recommandations chinoises de 2025.",
+ "interet": "Un résultat positif ajouterait une option anti-IL-6 dans une maladie rare où l'arsenal thérapeutique est étroit. L'essai fournirait aussi des données contrôlées par placebo, rares dans l'iMCD.",
+ "profil": "Des adultes atteints d'iMCD symptomatique et mesurable, confirmée histologiquement.",
+ "inclusion": ["Âge ≥ 18 ans", "iMCD symptomatique et mesurable confirmée par biopsie ou relecture centrale, avec au moins un symptôme (fatigue, anorexie, fièvre, perte de poids)", "Neutrophiles ≥ 1,0 G/L, plaquettes ≥ 75 G/L", "ALAT et bilirubine < 2,5 N, créatinine ≤ 265 µmol/L", "ECOG 0 à 2", "Corticoïdes ≤ 1 mg/kg/j, stables ou en baisse depuis 4 semaines"],
+ "exclusion": ["Infection par le VIH ou HHV-8", "Lésions cutanées comme seule lésion mesurable", "Autre cancer dans les 5 ans (sauf exceptions)", "Maladie auto-immune, infection systémique active, tuberculose active ou diabète mal contrôlé", "Maladie cardiaque non contrôlée ou FEVG < 40 %", "Hépatite B (ADN > 1000 UI/mL), hépatite C ou syphilis positives", "Antécédent d'allogreffe"],
+ "bras": [{"nom": "VDJ001", "traitement": "Anticorps monoclonal humanisé anti-récepteur de l'IL-6 en injection, avec meilleurs soins de support ; dose non précisée"}, {"nom": "Placebo", "traitement": "Placebo en injection, avec meilleurs soins de support"}],
+ "duree": "Environ 30 à 36 semaines",
+ "critere": "Proportion de patients en réponse complète ou partielle soutenue pendant au moins 18 semaines (symptômes, biologie, ganglions), évaluée à 30 ou 36 semaines"
+}

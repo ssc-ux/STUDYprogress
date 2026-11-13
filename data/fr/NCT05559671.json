@@ -1,0 +1,36 @@
+{
+ "h": "0877948a33b3",
+ "date": "2026-11-13",
+ "titre": "Sécurité et immunogénicité du vaccin recombinant contre le zona chez des patients atteints de lupus",
+ "question": "Le vaccin recombinant contre le zona (HZ/su) est-il non inférieur au placebo en termes de risque de poussée de lupus modérée à sévère ?",
+ "contexte": "Les patients atteints de lupus systémique (LES) ont un risque accru de zona, lié à la maladie elle-même et aux traitements immunosuppresseurs. Le vaccin recombinant adjuvanté contre le zona (HZ/su, Shingrix) est non vivant et donc utilisable chez les patients immunodéprimés, mais son efficacité et sa tolérance ont surtout été documentées dans d'autres populations.\n\nLa crainte principale en pratique est le risque de déclencher une poussée lupique par stimulation immunitaire de l'adjuvant. Les données chez les patients lupiques, de profils variés (activité de la maladie, âge, traitements), restent limitées. Cette étude de phase 4, randomisée en double aveugle contre placebo, utilise un schéma croisé : chaque patient reçoit le vaccin (deux doses à 8 semaines) et le placebo dans un ordre tiré au sort, séparés par deux périodes de 24 semaines. Elle teste la non-infériorité du vaccin sur le risque de poussée modérée ou sévère dans les 24 semaines suivant la première dose. Elle évalue aussi si la réponse immunitaire atteint au moins 50 % de celle observée chez des sujets sains dans les grands essais antérieurs. Le promoteur est NYU Langone Health, avec 224 participants prévus.",
+ "interet": "Si la non-infériorité est démontrée, l'étude pourrait lever un frein à la vaccination contre le zona chez les patients lupiques. Elle apporterait aussi des données d'immunogénicité selon l'activité de la maladie et les immunosuppresseurs utilisés.",
+ "profil": "Des adultes atteints de lupus systémique répondant aux critères EULAR/ACR 2019.",
+ "inclusion": [
+  "Consentement éclairé",
+  "Âge ≥ 18 ans",
+  "Lupus systémique selon les critères de classification EULAR/ACR 2019",
+  "Contraception efficace pour les femmes en âge de procréer, jusqu'à la fin de l'étude"
+ ],
+ "exclusion": [
+  "Vaccination antérieure contre le zona (Shingrix ou Zostavax)",
+  "Zona clinique dans les 12 mois précédant ou pendant la sélection",
+  "Hybrid SLEDAI > 12 ou poussée (rSFI) à la sélection",
+  "Tout vaccin dans les 6 semaines précédant l'inclusion",
+  "Rituximab ou cyclophosphamide dans les 9 mois précédents",
+  "Infection fébrile modérée à sévère ou antibiotiques/antiviraux systémiques dans les 4 semaines",
+  "Grossesse, allaitement ou projet de grossesse; immunodéficience connue"
+ ],
+ "bras": [
+  {
+   "nom": "Vaccin puis placebo",
+   "traitement": "Vaccin HZ/su aux semaines 0 et 8, puis placebo (sérum physiologique) aux semaines 24 et 32"
+  },
+  {
+   "nom": "Placebo puis vaccin",
+   "traitement": "Placebo aux semaines 0 et 8, puis vaccin HZ/su aux semaines 24 et 32"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Survenue d'une poussée de lupus modérée ou sévère dans les 24 semaines suivant la première dose (suivi jusqu'à la semaine 48)."
+}

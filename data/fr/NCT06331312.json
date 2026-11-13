@@ -1,0 +1,31 @@
+{
+ "h": "696ee5416665",
+ "date": "2026-11-13",
+ "titre": "Sécukinumab en extension ouverte à long terme dans la pseudopolyarthrite rhizomélique",
+ "question": "Le sécukinumab est-il bien toléré à long terme chez les patients atteints de PPR ayant rechuté après l'essai principal ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire du sujet âgé, traité par corticoïdes, avec des rechutes fréquentes pendant la décroissance. Les traitements d'épargne cortisonique sont limités, avec le méthotrexate et les anti-IL-6.\n\nL'IL-17A est impliquée dans l'inflammation de la PPR. Le sécukinumab, anticorps anti-IL-17A déjà utilisé dans le psoriasis et les spondyloarthrites, est évalué dans cette maladie. Cette étude est l'extension en ouvert de l'essai principal Novartis CAIN457C22301 (REPLENISH). Elle inclut les participants qui ont terminé les 52 semaines de traitement, ont rechuté pendant le suivi sans traitement et n'ont pas reçu de traitement de secours. Le sécukinumab 300 mg est administré par voie sous-cutanée toutes les 4 semaines, avec possibilité de réduire à 150 mg ou de revenir à 300 mg à partir de la semaine 24. Le traitement dure jusqu'à 2 ans, suivi de 16 semaines sans traitement. Le promoteur est Novartis ; 162 participants sont inclus.",
+ "interet": "Cette extension fournira les données de tolérance à long terme du sécukinumab dans la PPR, nécessaires avant toute indication éventuelle. Elle documentera aussi l'adaptation de dose en pratique.",
+ "profil": "Des adultes de 50 ans ou plus atteints de PPR, ayant terminé l'essai principal et rechuté pendant le suivi sans traitement.",
+ "inclusion": [
+  "Avoir terminé les 52 semaines de traitement de l'essai principal (CAIN457C22301)",
+  "Rechute pendant le suivi sans traitement de l'essai principal",
+  "Pas de traitement de secours reçu",
+  "Bénéfice attendu du sécukinumab supérieur au risque selon l'investigateur",
+  "Âge ≥ 50 ans"
+ ],
+ "exclusion": [
+  "Médicaments interdits par le protocole",
+  "Infection chronique ou récurrente (VIH, hépatite B ou C, tuberculose active)",
+  "Maladie lymphoproliférative ou cancer dans les 5 ans (hors exceptions)",
+  "Vaccin vivant dans les 6 semaines précédant l'inclusion",
+  "Risque de sécurité excessif selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Sécukinumab 300 mg",
+   "traitement": "Sécukinumab 300 mg sous-cutané toutes les 4 semaines jusqu'à 2 ans, avec ajustement possible à 150 mg dès la semaine 24"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans de traitement, plus 16 semaines de suivi sans traitement",
+ "critere": "Incidence des événements indésirables et des événements indésirables graves après la première dose et jusqu'à 84 jours après la dernière dose"
+}

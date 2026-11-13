@@ -1,0 +1,44 @@
+{
+ "h": "44e58d0e4c3a",
+ "date": "2026-11-13",
+ "titre": "NNC6019-0001 versus placebo dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "NNC6019-0001 améliore-t-il la capacité de marche et le NT-proBNP des patients atteints de cardiomyopathie amyloïde à TTR ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), sauvage ou héréditaire, est due au dépôt myocardique de fibrilles de TTR. Elle provoque une insuffisance cardiaque progressive avec dyspnée, œdèmes et mauvaise tolérance à l'effort.\n\nLes stabilisateurs de TTR (tafamidis, acoramidis) et les silenceurs (vutrisiran) ralentissent la maladie mais n'éliminent pas les dépôts déjà formés. Des traitements visant la clairance de l'amylose déposée sont donc étudiés.\n\nNNC6019-0001 est un médicament expérimental de Novo Nordisk, administré par perfusion IV toutes les 4 semaines (13 perfusions), non encore approuvé. Cette étude de phase 2 randomisée évalue deux doses contre placebo en plus du traitement standard (randomisation 2:1 en faveur du médicament), pendant environ 64 semaines. Les critères principaux sont la variation du test de marche de 6 minutes et du NT-proBNP à la semaine 52.",
+ "interet": "Si ce traitement améliore la capacité fonctionnelle et les biomarqueurs cardiaques, il pourrait ouvrir une stratégie complémentaire des stabilisateurs et silenceurs de la TTR.",
+ "profil": "Des adultes de 18 à moins de 85 ans atteints de cardiomyopathie amyloïde à TTR, en classe NYHA II-III.",
+ "inclusion": [
+  "Âge ≥ 18 et < 85 ans",
+  "ATTR-CM établie, génotype TTR sauvage ou héréditaire, selon les standards locaux",
+  "Traitement cardiovasculaire attendu stable depuis 6 semaines",
+  "Épaisseur septale télédiastolique ≥ 12 mm",
+  "Classe NYHA II-III",
+  "NT-proBNP ≥ 650 pg/mL en rythme sinusal ou > 1 000 pg/mL en FA",
+  "Test de marche de 6 minutes de 150 à 450 m",
+  "DFGe ≥ 25 mL/min/1,73 m²"
+ ],
+ "exclusion": [
+  "Cardiomyopathie principalement due à une autre cause (hypertension, valvulopathie, cardiopathie ischémique)",
+  "Greffe d'organe solide antérieure ou prévue",
+  "Cancer dans les 5 ans (sauf carcinomes cutanés basocellulaires ou épidermoïdes, carcinomes in situ ou cancer de prostate de bas grade)",
+  "Inhibiteur calcique à effet sur la conduction (vérapamil, diltiazem)",
+  "Infarctus, syndrome coronarien aigu, AVC, AIT, revascularisation, chirurgie valvulaire ou chirurgie majeure dans les 3 mois",
+  "Poids > 120 kg",
+  "Allergie au gadolinium ou aux produits de contraste"
+ ],
+ "bras": [
+  {
+   "nom": "NNC6019-0001, dose 1",
+   "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"
+  },
+  {
+   "nom": "NNC6019-0001, dose 2",
+   "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusion IV de placebo toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"
+  }
+ ],
+ "duree": "Environ 64 semaines",
+ "critere": "Variation du test de marche de 6 minutes et du NT-proBNP entre l'inclusion et la semaine 52."
+}

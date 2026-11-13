@@ -1,0 +1,36 @@
+{
+ "h": "1371214dcda6",
+ "date": "2026-11-13",
+ "titre": "Mentorat par les pairs pour l'autogestion du lupus chez des femmes afro-américaines",
+ "question": "Un mentorat par des pairs, adapté culturellement, améliore-t-il la qualité de vie et l'autogestion de la maladie chez des femmes afro-américaines atteintes de lupus ?",
+ "contexte": "Le lupus systémique touche de façon disproportionnée les femmes afro-américaines, chez qui il est plus fréquent, plus précoce et plus sévère, avec une mortalité plus élevée. Au-delà du traitement médicamenteux, l'autogestion (observance, gestion de la fatigue et du stress, recours aux soins, mode de vie) conditionne les résultats et la qualité de vie.\n\nLes interventions de soutien par les pairs ont montré un intérêt dans d'autres maladies chroniques, mais peu d'approches adaptées culturellement ont été évaluées dans le lupus. Après une étude pilote, l'étude PALS teste un programme de mentorat téléphonique ou vidéo, d'environ 60 minutes toutes les deux semaines pendant 24 semaines, par des pairs formés et compétents dans la gestion de leur maladie.\n\nL'essai est randomisé et contrôlé. Il compare le mentorat à un groupe de soutien social conçu pour l'étude. Il inclut 314 femmes afro-américaines atteintes de lupus, recrutées dans la base de données de l'Université médicale de Caroline du Sud (soutien du NINR). Les évaluations ont lieu à l'inclusion, à 12 et 24 semaines puis à 12 mois.",
+ "interet": "Si le bénéfice est démontré, le mentorat par les pairs pourrait compléter la prise en charge du lupus dans une population à risque élevé. Il constituerait une intervention peu coûteuse et transposable.",
+ "profil": "Des femmes afro-américaines de 18 ans et plus atteintes de lupus systémique, et des mentors ayant une maladie ancienne.",
+ "inclusion": [
+  "Origine afro-américaine",
+  "Sexe féminin",
+  "Diagnostic clinique de lupus selon les critères ACR révisés",
+  "Âge ≥ 18 ans",
+  "Mentors : maladie évoluant depuis plus de 2 ans, disponibles pour la formation et prêts à accompagner jusqu'à 3 femmes"
+ ],
+ "exclusion": [
+  "Participation à l'étude pilote (exclues comme mentorées, mais pouvant être mentors)",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Mentorat par les pairs",
+   "traitement": "12 séances de mentorat par téléphone ou vidéo, d'environ 60 minutes toutes les 2 semaines"
+  },
+  {
+   "nom": "Groupe de soutien social",
+   "traitement": "Participation à un groupe de soutien sur le lupus conçu pour l'étude"
+  },
+  {
+   "nom": "Mentors",
+   "traitement": "Pairs formés pour soutenir les participantes (pas d'intervention testée)"
+  }
+ ],
+ "duree": "12 mois après l'inclusion (intervention de 24 semaines)",
+ "critere": "Satisfaction vis-à-vis de la qualité de vie (questionnaire LUP-QOL) et évolution de l'autogestion, de l'inclusion à 12 mois."
+}

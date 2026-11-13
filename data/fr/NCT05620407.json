@@ -1,0 +1,33 @@
+{
+ "h": "748289099c0a",
+ "date": "2026-11-13",
+ "titre": "Deucravacitinib versus placebo dans le lupus systémique actif (POETYK SLE-2)",
+ "question": "Le deucravacitinib améliore-t-il la réponse SRI-4 à 52 semaines par rapport au placebo chez des patients atteints de lupus systémique actif ?",
+ "contexte": "Malgré l'hydroxychloroquine, les immunosuppresseurs et les biothérapies, de nombreux patients atteints de lupus systémique (LES) conservent une maladie active et dépendent des corticoïdes. Les options ciblées restent peu nombreuses (bélimumab, anifrolumab) et leur efficacité est incomplète.\n\nLe deucravacitinib est un inhibiteur sélectif de la tyrosine kinase 2 (TYK2), pris par voie orale. TYK2 intervient dans la signalisation de l'interféron de type I, de l'IL-12 et de l'IL-23, voies centrales dans la physiopathologie du lupus. Le médicament est déjà utilisé dans le psoriasis en plaques, et une étude de phase 2 a suggéré une activité dans le LES.\n\nPOETYK SLE-2 est un essai de phase 3 randomisé, en quadruple insu et contre placebo, promu par Bristol-Myers Squibb. Il a inclus 513 adultes de 18 à 75 ans atteints de LES modéré à sévère (SLEDAI-2K ≥ 6) sous traitement de fond stable (antipaludéen et/ou immunosuppresseur), avec ou sans corticoïdes oraux jusqu'à 30 mg/j. Il vise à confirmer l'efficacité et la tolérance du deucravacitinib sur 52 semaines.",
+ "interet": "Si les résultats sont positifs, le deucravacitinib pourrait devenir le premier traitement oral ciblé du lupus systémique. Cela élargirait l'arsenal chez les patients non contrôlés par le traitement standard.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif modéré à sévère malgré un traitement de fond.",
+ "inclusion": [
+  "Lupus systémique diagnostiqué depuis au moins 24 semaines, critères EULAR/ACR 2019",
+  "ANA ≥ 1:80, ou anti-ADN natif ou anti-Sm positifs (laboratoire central)",
+  "SLEDAI-2K ≥ 6 dont ≥ 4 points cliniques (atteinte articulaire, vascularite cutanée et/ou éruption)",
+  "Au moins un traitement de fond (immunosuppresseur et/ou antipaludéen) depuis ≥ 12 semaines, dose stable depuis ≥ 8 semaines",
+  "Corticoïdes oraux permis mais non requis (≤ 30 mg/j, dose stable ≥ 2 semaines)"
+ ],
+ "exclusion": [
+  "Lupus induit par un médicament",
+  "Autre maladie auto-immune (sclérose en plaques, psoriasis, maladie inflammatoire intestinale, etc.)",
+  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "Deucravacitinib",
+   "traitement": "Deucravacitinib par voie orale (dose non précisée), en plus du traitement de fond"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, en plus du traitement de fond"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de participants avec une réponse SRI-4 (Systemic Lupus Erythematosus Responder Index) à la semaine 52."
+}

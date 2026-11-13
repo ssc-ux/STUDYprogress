@@ -1,0 +1,29 @@
+{
+ "h": "1a06c16871a4",
+ "date": "2026-11-13",
+ "titre": "ConTTRibute : étude observationnelle mondiale de l'amylose à transthyrétine",
+ "question": "Quels sont l'histoire naturelle, la prise en charge réelle et la sécurité du patisiran et du vutrisiran dans l'amylose ATTR ?",
+ "contexte": "L'amylose à transthyrétine (ATTR) est due au dépôt de fibrilles de TTR et touche surtout les nerfs périphériques et le cœur. Elle peut être héréditaire (ATTRv, liée à une variante pathogène de TTR) ou sauvage (ATTRwt). Elle est sous-diagnostiquée et sa présentation est très hétérogène.\n\nPlusieurs traitements sont désormais disponibles : silenceurs de la TTR (patisiran, vutrisiran, éplontersen) et stabilisateurs (tafamidis, acoramidis). Les données de pratique réelle sur le long terme, ainsi que l'évolution des porteurs asymptomatiques d'une variante de TTR, restent insuffisantes.\n\nConTTRibute est une étude observationnelle mondiale, promue par Alnylam Pharmaceuticals, qui suit des patients avec amylose ATTR et des porteurs pré-symptomatiques dans le cadre des soins courants. Elle décrit les caractéristiques épidémiologiques et cliniques, l'histoire naturelle et la prise en charge, caractérise la sécurité et l'efficacité du patisiran et du vutrisiran en pratique et décrit la survenue de la maladie chez les porteurs.",
+ "interet": "L'étude apporte des données de vie réelle sur l'évolution de l'ATTR et sur l'effet à long terme des traitements par siRNA, ainsi que sur le moment où la maladie se déclare chez les porteurs d'une variante.",
+ "profil": "Des patients atteints d'amylose ATTR, héréditaire ou sauvage, et des porteurs pré-symptomatiques d'une variante pathogène de TTR.",
+ "inclusion": [
+  "Diagnostic d'amylose ATTR (héréditaire ou sauvage)",
+  "Ou variante pathogène de TTR documentée chez un porteur pré-symptomatique",
+  "Allemagne uniquement : traitement conforme au résumé des caractéristiques du produit d'un traitement approuvé"
+ ],
+ "exclusion": [
+  "Participation en cours à un essai clinique avec un agent expérimental"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints d'amylose ATTR",
+   "traitement": "Soins courants, sans intervention imposée"
+  },
+  {
+   "nom": "Porteurs pré-symptomatiques",
+   "traitement": "Soins courants avec suivi, sans intervention imposée"
+  }
+ ],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Incidence des événements indésirables jusqu'à 10 ans, événements d'intérêt, ainsi que scores de neuropathie, de cardiomyopathie, d'épreuve d'effort et de qualité de vie jusqu'à 11 ans."
+}

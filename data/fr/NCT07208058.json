@@ -1,0 +1,32 @@
+{
+ "h": "60993507ed60",
+ "date": "2026-11-13",
+ "titre": "Plonmarlimab dans le syndrome d'activation macrophagique réfractaire des maladies auto-immunes",
+ "question": "Le plonmarlimab induit-il une réponse chez les patients atteints de LHH (syndrome d'activation macrophagique) associée à une maladie rhumatologique ou immunologique, réfractaire aux corticoïdes ?",
+ "contexte": "Le syndrome d'activation macrophagique (SAM) est une forme de lymphohistiocytose hémophagocytaire (LHH) survenant au cours des maladies rhumatologiques et auto-immunes, notamment la maladie de Still et le lupus. Il associe fièvre, cytopénies, hyperferritinémie et atteinte d'organes, avec une mortalité non négligeable. La première ligne repose sur les corticoïdes à forte dose, parfois associés à la ciclosporine, à l'anakinra ou à l'étoposide.\n\nLes formes résistantes, dépendantes des corticoïdes ou en rechute restent difficiles à traiter. L'interféron gamma joue un rôle central dans la physiopathologie de la LHH, et l'emapalumab, anticorps anti-interféron gamma, est approuvé dans la LHH primaire et le SAM de la maladie de Still. Le plonmarlimab (TJ Biopharma) est un anticorps dirigé contre le GM-CSF. Cet essai de phase 3 ouvert, à bras unique et multicentrique, mené sur 18 sites en Chine, inclut 30 patients de 16 à 80 ans en échec des corticoïdes à forte dose. Il n'y a pas de comparateur.",
+ "interet": "Un résultat favorable ferait du plonmarlimab une option ciblée pour les SAM réfractaires aux corticoïdes. L'absence de groupe contrôle limitera toutefois la portée des conclusions.",
+ "profil": "Des patients de 16 à 80 ans atteints de LHH associée à une maladie rhumatologique ou immunologique, en échec des corticoïdes à forte dose.",
+ "inclusion": [
+  "Âge de 16 à 80 ans",
+  "Maladie rhumatologique ou immunologique diagnostiquée",
+  "LHH selon les critères HLH-2004 (hors diagnostic moléculaire)",
+  "Absence de réponse, dépendance, intolérance ou aggravation sous corticoïdes à forte dose (≥ 1,5-2 mg/kg/j de prednisone pendant 3 jours, ou bolus de méthylprednisolone)",
+  "Consentement éclairé (représentant légal pour les 16-18 ans)"
+ ],
+ "exclusion": [
+  "LHH primaire confirmée ou suspectée",
+  "LHH induite par une infection (dont EBV) ou un traitement (CAR-T, anticorps bispécifiques, ADC)",
+  "Autre cancer actif dans les 5 ans (sauf exceptions localisées)",
+  "Allergie à un composant du produit",
+  "Pneumopathie chronique ou EFR anormales (CVF < 80 %, VEMS/CVF < 70 %)",
+  "Maladie cardiovasculaire (infarctus, angor instable, arythmie sévère)"
+ ],
+ "bras": [
+  {
+   "nom": "Plonmarlimab",
+   "traitement": "Plonmarlimab (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "Non précisé (réponse évaluée à 8 semaines)",
+ "critere": "Taux de réponse globale à la fin de la semaine 8."
+}

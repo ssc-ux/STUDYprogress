@@ -1,0 +1,33 @@
+{
+ "h": "f72276b94a1a",
+ "date": "2026-11-13",
+ "titre": "Vaccination contre le zona chez les patients atteints de rhumatismes inflammatoires",
+ "question": "Comment les traitements antirhumatismaux modifient-ils la réponse en anticorps à deux doses de vaccin recombinant contre le zona, par rapport à des témoins non immunosupprimés ?",
+ "contexte": "Les patients atteints de rhumatismes inflammatoires (polyarthrite rhumatoïde, lupus, spondyloarthrites, vascularites, sclérodermie, etc.) ont une morbidité et une mortalité accrues en cas d'infection, notamment pour des infections évitables par la vaccination comme le zona. La vaccination est une mesure de prévention efficace en termes de coût, mais plusieurs études rapportent une réponse vaccinale altérée sous traitement immunomodulateur.\n\nLe vaccin recombinant non vivant contre le zona (Shingrix) est recommandé chez les patients immunodéprimés. L'hypothèse est que le trouble immunologique propre à la maladie, associé aux traitements immunomodulateurs, peut altérer la réponse et laisser une protection insuffisante.\n\nHZ-REUMA est une étude de phase 4 à bras unique, promue par la Région Scanie (Suède), avec le soutien de GSK. Tous les participants reçoivent deux doses de Shingrix, à 1 ou 2 mois d'intervalle. Les patients sous traitement de fond (DMARD synthétiques, biologiques ou ciblés comme le méthotrexate, anti-TNF, anti-IL-6R, anti-CD20, anti-BLyS, anti-interféron, anti-JAK) sont comparés à des patients rhumatismaux sans traitement immunosuppresseur. Elle prévoit 240 participants et évalue aussi la réponse des lymphocytes T CD4 et la persistance de l'immunogénicité.",
+ "interet": "L'étude pourrait préciser quels traitements de fond réduisent le plus la réponse au vaccin contre le zona. Ces données pourraient guider l'ajustement du moment de vaccination ou des traitements.",
+ "profil": "Des adultes atteints de rhumatismes inflammatoires, sous traitement de fond immunosuppresseur ou non (témoins).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Rhumatisme inflammatoire diagnostiqué, suivi régulier au service de rhumatologie de Skåne (Lund/Malmö)",
+  "Patients : traitement actif par DMARD conventionnel, biologique ou synthétique ciblé",
+  "Témoins : pas de DMARD actif, prednisolone ≤ 5 mg/j autorisée",
+  "Méthode contraceptive sûre pour les femmes avant la ménopause",
+  "Capacité de signer le consentement"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Grossesse (contraception exigée chez les femmes en âge de procréer)",
+  "Allergie ou intolérance à un composant du vaccin",
+  "Maladie aiguë ou fièvre ≥ 37,5 °C au moment de la vaccination",
+  "Vaccination antérieure par Shingrix",
+  "Traitement immunosuppresseur pour une autre maladie (hors prednisolone)"
+ ],
+ "bras": [
+  {
+   "nom": "Tous les participants vaccinés",
+   "traitement": "Deux doses de vaccin Shingrix, comparaison des réponses entre patients sous traitement immunomodulateur et patients sans traitement"
+  }
+ ],
+ "duree": "Non précisé (suivi à long terme de l'immunogénicité prévu à 3 mois et au-delà)",
+ "critere": "Taux d'anticorps anti-gE (moyenne géométrique) avant la vaccination et 4 à 6 semaines après la deuxième dose, chez les patients et les témoins."
+}

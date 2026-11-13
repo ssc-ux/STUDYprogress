@@ -1,0 +1,35 @@
+{
+ "h": "8366930e89c8",
+ "date": "2026-11-13",
+ "titre": "MTX-474 dans la sclérodermie systémique cutanée diffuse",
+ "question": "Le MTX-474 réduit-il l'épaississement cutané de la sclérodermie systémique diffuse par rapport au placebo ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse (ScSd) est la forme la plus sévère de sclérodermie. Elle associe un épaississement cutané extensif, une fibrose pulmonaire et une atteinte vasculaire, avec une morbi-mortalité élevée. Le score de Rodnan modifié (mRSS) mesure l'épaississement cutané et sert de critère principal dans les essais.\n\nLes traitements reposent sur des immunosuppresseurs (mycophénolate, cyclophosphamide, rituximab), le tocilizumab, le nintedanib pour l'atteinte pulmonaire, et la greffe de cellules souches dans les formes sélectionnées. Les effets sur la fibrose cutanée restent limités.\n\nLe MTX-474, développé par Mediar Therapeutics, est administré par perfusion intraveineuse. Le registre mentionne la mesure des taux de récepteurs de l'éphrine, ce qui suggère un ciblage de cette voie. L'essai de phase 2 EncompaSSc est randomisé en 3:2 en double insu contre placebo, chez 85 adultes de 10 pays dont la France, avec une perfusion toutes les 4 semaines jusqu'à la semaine 20. Les traitements de fond autorisés peuvent être poursuivis sous conditions.",
+ "interet": "Une réduction du mRSS à 24 semaines soutiendrait le développement d'un nouvel antifibrosant dans la ScSd. L'étude, de petite taille et de courte durée, reste exploratoire. Les biopsies cutanées et le scanner pulmonaire permettront d'étudier le mécanisme.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse évolutive.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ScSd selon les critères ACR/EULAR 2013",
+  "Délai depuis le premier signe hors Raynaud et mRSS conformes : ≤ 2 ans avec mRSS > 7 ; 2 à 5 ans avec mRSS 10-30 ; 5 à 10 ans avec mRSS > 15 et ≤ 25 (anti-ARN polymérase III négatif et absence d'amélioration cutanée spontanée ≥ 4 points dans les deux derniers cas)",
+  "CVF ≥ 45 % de la théorique",
+  "DLCO ≥ 30 % de la théorique",
+  "Test de grossesse négatif et contraception efficace"
+ ],
+ "exclusion": [
+  "Autre maladie grave interférant avec la participation à l'étude",
+  "Immunosuppresseurs récents : cyclophosphamide, inhibiteurs de calcineurine, azathioprine, anti-JAK, rituximab, tocilizumab, autres biothérapies (délais prédéfinis)",
+  "Antifibrosants : nintedanib ou pirfenidone dans les 30 jours, ITK antifibrotiques dans les 3 mois",
+  "Corticoïdes > 10 mg/j d'équivalent prednisone, ou bolus récent",
+  "Mycophénolate non stable depuis 6 mois"
+ ],
+ "bras": [
+  {
+   "nom": "MTX-474",
+   "traitement": "MTX-474 en perfusion intraveineuse toutes les 4 semaines, du jour 0 à la semaine 20 (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en perfusion intraveineuse selon le même schéma"
+  }
+ ],
+ "duree": "28 semaines environ (traitement jusqu'à la semaine 20, suivi de sécurité à la semaine 28)",
+ "critere": "Variation du score de Rodnan modifié (mRSS) entre l'inclusion et la semaine 24"
+}

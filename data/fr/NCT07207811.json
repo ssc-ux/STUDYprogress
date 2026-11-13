@@ -1,0 +1,32 @@
+{
+ "h": "46caaf6c354d",
+ "date": "2026-11-13",
+ "titre": "Coramitug contre placebo dans l'insuffisance cardiaque par amylose cardiaque à transthyrétine",
+ "question": "Le coramitug (NNC6019-0001) réduit-il la mortalité et les événements cardiovasculaires récurrents dans l'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM), sauvage ou héréditaire, résulte du dépôt de fibrilles de transthyrétine mal repliée dans le myocarde. Elle provoque une cardiopathie restrictive avec insuffisance cardiaque à fraction d'éjection préservée, troubles de conduction et arythmies. Le diagnostic est de plus en plus souvent posé de façon non invasive par scintigraphie osseuse et exclusion d'une gammapathie monoclonale.\n\nLes traitements disponibles sont les stabilisateurs de la transthyrétine, comme le tafamidis et l'acoramidis, et le silencing par ARN (vutrisiran). Ils ralentissent l'évolution, mais ne font pas régresser les dépôts existants. Le coramitug est un anticorps monoclonal qui cible les dépôts de transthyrétine, avec pour but d'en favoriser l'élimination par phagocytose. CLEOPATTRA est une étude de phase 3 randomisée, en double aveugle, contre placebo, avec plus de 1 200 participants. Elle ajoute le coramitug ou le placebo aux traitements habituels, que les patients peuvent poursuivre. Le promoteur est Novo Nordisk.",
+ "interet": "L'étude teste une stratégie de déplétion des dépôts amyloïdes, qui s'ajouterait aux stabilisateurs et à l'ARN interférent. Son critère principal porte sur des événements cliniques, ce qui permettrait de juger d'un bénéfice en pratique.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine (sauvage ou héréditaire) avec insuffisance cardiaque.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ATTR-CM établie (sauvage ou variant, environ 15 % de formes héréditaires visées), avec infiltration amyloïde cardiaque prouvée par biopsie ou scintigraphie (grade 2 ou 3) selon la voie diagnostique",
+  "Épaississement de la paroi ventriculaire gauche",
+  "Insuffisance cardiaque (NYHA I à IV) avec hospitalisation pour IC ou signes de surcharge traités par diurétiques",
+  "Traitement cardiovasculaire stable depuis 4 semaines (hors diurétiques)",
+  "Test de marche de 6 minutes > 50 mètres"
+ ],
+ "exclusion": [
+  "Hypersensibilité connue ou suspectée au traitement de l'étude",
+  "Participation antérieure à un essai d'un déplétant de la TTR ou d'une édition génique de la TTR",
+  "Amylose AL, autre amylose non ATTR ou myélome multiple",
+  "Insuffisance cardiaque non principalement due à l'ATTR-CM",
+  "FEVG < 30 %, hospitalisation récente (14 jours) ou événement cardiovasculaire aigu dans les 60 jours",
+  "Greffe d'organe solide, insuffisance rénale terminale (DFGe < 15)",
+  "Cancer datant de moins de 3 ans (hors exceptions)"
+ ],
+ "bras": [
+  {"nom": "Coramitug", "traitement": "NNC6019-0001 par voie intraveineuse, dose et rythme non précisés, en plus des traitements habituels"},
+  {"nom": "Placebo", "traitement": "Placebo IV, en plus des traitements habituels"}
+ ],
+ "duree": "Jusqu'à environ 4 ans",
+ "critere": "Critère composite : décès cardiovasculaires et événements cardiovasculaires récurrents (hospitalisations cardiovasculaires et consultations urgentes pour insuffisance cardiaque), du début à la fin de l'étude (environ 4 ans)."
+}

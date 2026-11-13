@@ -1,0 +1,33 @@
+{
+ "h": "0b318c93aeef",
+ "date": "2026-11-13",
+ "titre": "Deucrictibant oral en prophylaxie et à la demande dans l'angiœdème acquis par déficit en C1-INH",
+ "question": "Le deucrictibant, en prophylaxie et en traitement de crise, est-il efficace et sûr dans l'angiœdème acquis par déficit en inhibiteur de la C1 ?",
+ "contexte": "L'angiœdème acquis par déficit en inhibiteur de la C1 estérase (AAE-C1INH) est une maladie très rare de l'adulte. Il est le plus souvent associé à un lymphome B, à une hémopathie lymphoïde ou à une maladie auto-immune, avec consommation du C1-INH. Il provoque des crises d'œdème similaires à celles de l'angiœdème héréditaire, médiées par la bradykinine. Les options disponibles sont peu nombreuses et peu étudiées par des essais contrôlés ; les médicaments utilisés (C1-INH, icatibant, acide tranexamique, androgènes) viennent souvent de l'AOH.\n\nLe deucrictibant est un antagoniste oral du récepteur B2 de la bradykinine. La forme à libération prolongée (XR) sert à la prophylaxie, la capsule molle au traitement des crises. L'étude de phase 3 comporte trois parties. La partie 1 est randomisée en double aveugle contre placebo pour la prophylaxie. La partie 2 évalue la capsule molle en traitement de crise, contre placebo. La partie 3 est une extension ouverte. Le promoteur est Pharvaris, avec des centres en France.",
+ "interet": "L'étude cible une maladie sans traitement spécifiquement validé et pourrait offrir une option orale pour la prophylaxie et les crises. Elle pourrait aussi aider à mieux caractériser l'effet des antagonistes B2 hors AOH héréditaire.",
+ "profil": "Des adultes (≥ 18 ans) atteints d'angiœdème acquis par déficit en inhibiteur de la C1 et ayant déjà eu des crises.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "Diagnostic d'AAE-C1INH avec antécédent de crises",
+  "Maladie sous-jacente éventuelle stable pendant la partie 1",
+  "Accès fiable à un traitement de crise efficace",
+  "Capacité à renseigner seul un journal électronique et des questionnaires",
+  "Contraception et tests de grossesse pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Autre médicament expérimental dans les 30 jours ou 5 demi-vies",
+  "Traitement de fond de l'AAE-C1INH en cours et jugé satisfaisant",
+  "Grossesse, désir de grossesse ou allaitement",
+  "Anomalie hépatique, insuffisance rénale modérée ou sévère",
+  "Antécédent d'épilepsie ou de maladie neurologique significative",
+  "Dysfonction digestive non contrôlée pouvant gêner l'absorption, consommation d'alcool ou de drogues"
+ ],
+ "bras": [
+  {"nom": "Partie 1 : deucrictibant XR", "traitement": "Comprimé XR oral, dose et rythme non précisés"},
+  {"nom": "Partie 1 : placebo", "traitement": "Placebo"},
+  {"nom": "Partie 2 : deucrictibant soft capsule contre placebo", "traitement": "Capsule molle à la demande lors d'une crise, selon une séquence en double aveugle ; détails non précisés"},
+  {"nom": "Partie 3 : extension ouverte", "traitement": "Deucrictibant, dose non précisée"}
+ ],
+ "duree": "Partie 1 : 12 semaines ; partie 3 : en moyenne environ 36 semaines",
+ "critere": "Partie 1 : nombre de crises confirmées par l'investigateur, normalisé par le temps, sur 12 semaines. Partie 2 : délai de soulagement des symptômes (impression globale « mieux » au moins) dans les 12 heures. Partie 3 : événements indésirables."
+}

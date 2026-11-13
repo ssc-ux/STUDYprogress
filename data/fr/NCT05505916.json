@@ -1,0 +1,38 @@
+{
+ "h": "05236a0c34be",
+ "date": "2026-11-13",
+ "titre": "Sécurité à long terme du sébétralstat à la demande dans l'angiœdème héréditaire",
+ "question": "Le sébétralstat oral pris à la demande lors des crises d'angiœdème héréditaire est-il sûr à long terme ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est dû à un déficit quantitatif ou fonctionnel en inhibiteur de la C1 estérase. Il provoque des crises d'œdème sous-cutané et muqueux imprévisibles, parfois laryngé, par excès de bradykinine. Les recommandations privilégient le traitement précoce de toute crise, avec l'icatibant ou l'inhibiteur de C1 par voie injectable, et l'envisagent en prophylaxie de longue durée selon la sévérité.\n\nLa voie injectable constitue un frein au traitement précoce. Le sébétralstat (KVD900) est un inhibiteur oral de la kallikréine plasmatique, enzyme qui produit la bradykinine, développé pour le traitement à la demande par voie orale.\n\nCet essai de phase 3, ouvert et à bras unique, promu par KalVista, est l'extension de l'étude KVD900-301 (145 patients inclus). Il évalue la sécurité à long terme, sur 2 ans au maximum, chez des patients à partir de 12 ans, avec des doses de 300 ou 600 mg. Des centres français participent à l'étude.",
+ "interet": "Des données de sécurité prolongées sont nécessaires avant d'utiliser un traitement oral en première intention des crises. Si elles sont favorables, elles soutiendraient une alternative aux injections pour traiter plus précocement. Le critère est la sécurité, et non l'efficacité.",
+ "profil": "Des adolescents et adultes (≥ 12 ans) atteints d'angiœdème héréditaire de type I ou II, avec des crises régulières.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "Diagnostic confirmé d'AOH de type I ou II",
+  "Au moins 2 crises documentées dans les 3 mois précédant l'inclusion",
+  "Prophylaxie de longue durée éventuelle à dose stable depuis au moins 3 mois (6 mois pour le danazol)",
+  "Capacité à avaler les comprimés et à remplir l'e-carnet",
+  "Contraception conforme et consentement signé"
+ ],
+ "exclusion": [
+  "Arrêt de l'étude KVD900-301 pour non-observance, retrait du consentement ou raison de sécurité",
+  "Autre forme d'angiœdème chronique (acquis, AOH à C1-INH normal, idiopathique, urticarien)",
+  "Mauvaise réponse notable aux anti-bradykinine, au C1-INH ou aux inhibiteurs de kallikréine",
+  "Androgènes atténués (hors danazol) ou antifibrinolytiques dans les 28 jours, IEC dans les 7 jours",
+  "Œstrogènes à absorption systémique dans les 7 jours",
+  "Insuffisance hépatique (ALAT/ASAT > 2 N, Child-Pugh B ou C)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "KVD900 600 mg",
+   "traitement": "Sébétralstat 600 mg par voie orale, à la demande lors des crises"
+  },
+  {
+   "nom": "KVD900 300 mg",
+   "traitement": "Sébétralstat 300 mg par voie orale, à la demande lors des crises"
+  }
+ ],
+ "duree": "2 ans au maximum par patient",
+ "critere": "Fréquence des événements indésirables, dont graves et conduisant à l'arrêt, ainsi que des anomalies biologiques et des signes vitaux, jusqu'à la fin de l'étude (2 ans au maximum)"
+}

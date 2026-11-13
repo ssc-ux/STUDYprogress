@@ -1,0 +1,32 @@
+{
+ "h": "02fc8bfcdc43",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline IV Boya dans le DICV et l'agammaglobulinémie liée à l'X",
+ "question": "L'immunoglobuline IV Boya maintient-elle le nombre d'infections bactériennes graves sous un par an chez les patients atteints de DICV ou d'agammaglobulinémie liée à l'X ?",
+ "contexte": "Le déficit immunitaire commun variable (DICV) et l'agammaglobulinémie liée à l'X (XLA) sont les principaux déficits immunitaires primitifs avec défaut de production d'anticorps. Ils exposent à des infections bactériennes récidivantes, en particulier respiratoires. La substitution à vie par immunoglobulines (Ig) intraveineuses (IgIV) toutes les 3 à 4 semaines en est le traitement de référence.\n\nUn essai d'enregistrement doit montrer qu'un nouveau produit maintient le taux d'infections bactériennes graves sous un seuil, généralement un par an, tout en restant bien toléré. Cet essai de phase 3 ouvert à bras unique, promu par Azidus Brasil, évalue l'IgIV Boya chez 50 patients de 2 à 60 ans. Ils reçoivent 200 à 800 mg/kg toutes les 21 ou 28 jours pendant 54 à 56 semaines. Le suivi comprend des appels hebdomadaires pour recueillir les infections, hospitalisations et jours d'école ou de travail manqués, ainsi que la pharmacocinétique des IgG. Il n'y a pas de comparateur.",
+ "interet": "L'étude doit soutenir l'enregistrement d'une IgIV supplémentaire au Brésil, ce qui peut améliorer l'accès à la substitution.",
+ "profil": "Des patients de 2 à 60 ans atteints de DICV ou d'agammaglobulinémie liée à l'X, naïfs d'Ig ou déjà sous IgIV.",
+ "inclusion": [
+  "Âge de 2 à 60 ans ; consentement écrit ou assentiment",
+  "DICV ou agammaglobulinémie liée à l'X avec défaut de production d'anticorps",
+  "Naïf de traitement, ou IgIV toutes les 21 à 28 jours à 300-800 mg/kg",
+  "Test de grossesse négatif et contraception efficace si applicable",
+  "Patients sous Ig SC ou IM inclus par passage aux IgIV, à la discrétion de l'investigateur"
+ ],
+ "exclusion": [
+  "Hypersensibilité aux immunoglobulines ou contre-indication à leur usage",
+  "IMC < 18,5 ou > 40 kg/m²",
+  "Déficit immunitaire secondaire (LLC, lymphome, myélome, entéropathie ou néphropathie exsudative)",
+  "Anomalies biologiques significatives (Hb < 10,5 g/dL, neutrophiles < 1 000/mm³, bilan hépatique > 2,5 x la normale, clairance < 30 mL/min)",
+  "Infection bactérienne grave dans les 3 mois ou infection active ; fièvre dans les 14 jours",
+  "Cancer actif ou résolu dans les 12 mois précédents"
+ ],
+ "bras": [
+  {
+   "nom": "Boya IVIG",
+   "traitement": "IgIV 200 à 800 mg/kg toutes les 21 ou 28 jours, pendant 54 semaines (21 jours) ou 56 semaines (28 jours)"
+  }
+ ],
+ "duree": "54 à 56 semaines",
+ "critere": "Taux annuel moyen d'infections bactériennes graves, maintenu sous un par an, sur 54 ou 56 semaines selon le rythme."
+}

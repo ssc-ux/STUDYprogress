@@ -1,0 +1,31 @@
+{
+ "h": "56bf30fdbe4d",
+ "date": "2026-11-13",
+ "titre": "Relaxation musculaire progressive sur la fatigue et la dyspnée dans la sclérodermie systémique",
+ "question": "Un programme de relaxation musculaire progressive réduit-il la fatigue et la dyspnée chez des patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (ScS) est une connectivite auto-immune chronique pouvant toucher plusieurs organes, dont l'appareil respiratoire. L'atteinte respiratoire entraîne dyspnée et fatigue, et altère la fonction respiratoire et la qualité de vie.\n\nLa relaxation musculaire progressive est une technique non médicamenteuse qui consiste à contracter puis relâcher successivement différents groupes musculaires. Elle peut réduire les tensions physiques et psychologiques et contribuer à la prise en charge de symptômes comme la fatigue et la dyspnée. Son intérêt n'a pas été bien étudié dans la ScS.\n\nCet essai randomisé et ouvert, promu par l'Université de Gaziantep (Turquie), prévoit d'inclure 50 patients adultes. Un groupe reçoit des exercices de relaxation musculaire progressive en plus de la prise en charge habituelle, l'autre la prise en charge habituelle seule. Les participants sont évalués avant puis 4 semaines après l'intervention, sur la fatigue, la dyspnée et la fonction respiratoire.",
+ "interet": "L'étude pourrait appuyer une intervention simple, peu coûteuse et sans risque pour soulager des symptômes fréquents de la sclérodermie. Le faible effectif et l'absence d'insu limitent la portée des résultats.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie systémique, capables de participer aux exercices.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic de sclérodermie systémique",
+  "Capacités physiques et cognitives suffisantes pour participer"
+ ],
+ "exclusion": [
+  "Incapacité physique ou cognitive à réaliser les exercices de relaxation",
+  "Retrait volontaire de l'étude",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Relaxation musculaire progressive",
+   "traitement": "Exercices de relaxation musculaire progressive en plus de la prise en charge habituelle (rythme non précisé)"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Prise en charge habituelle seule"
+  }
+ ],
+ "duree": "4 semaines après l'intervention",
+ "critere": "Fatigue (échelle FACIT-Fatigue) et dyspnée (échelle Dyspnea-12) à l'inclusion et 4 semaines après l'intervention."
+}

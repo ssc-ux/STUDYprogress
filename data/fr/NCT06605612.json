@@ -1,0 +1,31 @@
+{
+ "h": "c533d73efb19",
+ "date": "2026-11-13",
+ "titre": "Développement et validation de l'indice FBIndex du risque de chute dans les maladies neuromusculaires",
+ "question": "Une batterie de tests de la marche et de la force musculaire permet-elle de déterminer le risque de chute des patients atteints de maladie neuromusculaire ?",
+ "contexte": "Les patients atteints de maladie neuromusculaire (myosite à inclusions, dystrophie myotonique, dystrophies des ceintures, maladie de Pompe, myasthénie, SLA, amyotrophie spinale, Guillain-Barré, CIDP, ataxie de Friedreich, neuropathies héréditaires) chutent fréquemment. Les chutes entraînent fractures, perte de confiance et réduction de l'activité, ce qui aggrave le déconditionnement.\n\nIl n'existe pas de score standardisé du risque de chute ni de recommandation claire sur le moment de prescrire une aide technique à la marche. Cette étude observationnelle du LMU Klinikum de Munich (Institut Friedrich-Baur) évalue une batterie de tests : élévation sur les talons, lever de chaise, station semi-tandem, élévation du tronc, tapotement du pied, Timed Up and Go, marche de 10 mètres et marche de 6 minutes.\n\nUn groupe est évalué sur une plateforme de force mesurant puissance et force, l'autre uniquement par mesure du temps. Un sous-groupe de 20 patients est testé deux fois pour mesurer la reproductibilité intra et inter-observateur.",
+ "interet": "Un indice simple pourrait aider à repérer les patients à risque de chute et à orienter la prescription d'aides techniques. L'étude n'évalue pas d'intervention.",
+ "profil": "Des adultes de 18 à 65 ans atteints de maladie neuromusculaire, capables de marcher sans aide technique.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Maladie neuromusculaire",
+  "Fonctions cognitives et communication suffisantes pour consentir et remplir l'échelle de risque de chute"
+ ],
+ "exclusion": [
+  "Incapacité à marcher 10 mètres sans aide technique",
+  "Chirurgie du genou, de la hanche ou du dos dans les 3 derniers mois",
+  "Polyneuropathie ou neuropathie périphérique associée"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A (Institut Friedrich-Baur)",
+   "traitement": "Tests sur plateforme de force (puissance et force) et mesure du temps ; sous-groupe de 20 patients testés deux fois en 2 semaines"
+  },
+  {
+   "nom": "Groupe B (Medical Park Bad Feilnbach)",
+   "traitement": "Mêmes tests, avec mesure du temps seulement, sans plateforme de force"
+  }
+ ],
+ "duree": "Une évaluation lors d'une visite (deux évaluations en 2 semaines pour le sous-groupe de fiabilité)",
+ "critere": "Performance aux tests de la batterie (lever de chaise, élévation du tronc, talons, semi-tandem, tapotement du pied, marche de 10 m, etc.), mesurée juste après le consentement."
+}

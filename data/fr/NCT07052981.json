@@ -1,0 +1,37 @@
+{
+ "h": "8eedde9489be",
+ "date": "2026-11-13",
+ "titre": "Télitacicept dans la néphropathie à IgA ou la néphrite du purpura rhumatoïde de l'enfant",
+ "question": "Le télitacicept ajouté au traitement standard réduit-il la protéinurie des 24 heures à 24 semaines chez l'enfant atteint de néphropathie à IgA ou de néphrite du purpura rhumatoïde ?",
+ "contexte": "La néphropathie à IgA (IgAN) et la néphrite du purpura rhumatoïde (vascularite à IgA, IgAVN) sont des glomérulopathies à dépôts mésangiaux d'IgA, qui peuvent évoluer vers l'insuffisance rénale chronique chez l'enfant. La prise en charge repose sur les inhibiteurs du système rénine-angiotensine, les corticoïdes et parfois d'autres immunosuppresseurs, avec peu d'essais pédiatriques et des effets indésirables de la corticothérapie.\n\nLe télitacicept neutralise BLyS (BAFF) et APRIL, cytokines impliquées dans la production des IgA galactose-déficientes. Il a montré une réduction de la protéinurie dans la néphropathie à IgA de l'adulte, essentiellement en Chine.\n\nCet essai de phase 3 multicentrique et non randomisé du Dr Guixia Ding, à Shanghai, inclut 124 enfants de 5 à 18 ans pesant au moins 25 kg avec protéinurie modérée à importante et DFGe d'au moins 30. Le groupe expérimental reçoit le traitement standard avec télitacicept et le groupe témoin le traitement standard seul (corticoïdes avec ou sans immunosuppresseurs) pendant 24 semaines.",
+ "interet": "Il pourrait apporter les premières données pédiatriques sur ce biomédicament dans les néphropathies à IgA. Le caractère non randomisé impose de rester prudent sur l'interprétation.",
+ "profil": "Des enfants de 5 à 18 ans, d'au moins 25 kg, atteints de néphropathie à IgA ou de néphrite du purpura rhumatoïde avec protéinurie.",
+ "inclusion": [
+  "Néphropathie à IgA ou néphrite du purpura rhumatoïde",
+  "Âge de 5 à 18 ans, poids d'au moins 25 kg",
+  "Protéinurie modérée à importante",
+  "DFGe d'au moins 30 mL/min/1,73 m² (formule de Schwartz)",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Infection nécessitant un antiviral ou un antibiotique",
+  "Biothérapie ciblant les lymphocytes B dans les 3 mois",
+  "Hypertension sévère ou diabète non contrôlés",
+  "Autre maladie auto-immune, déficit immunitaire primitif ou tumeur",
+  "Antécédent de greffe d'organe",
+  "Infection chronique active (EBV, CMV, tuberculose)",
+  "Insuffisance hépatique ou cardiaque sévère, ou insuffisance rénale terminale"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe expérimental",
+   "traitement": "Traitement standard avec télitacicept (dose non précisée) pendant 24 semaines"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Traitement standard seul (corticoïdes avec ou sans autres immunosuppresseurs) pendant 24 semaines"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Protéinurie des 24 heures, mesurée à chaque visite (semaines 0, 4, 8, 12, 16, 20 et 24), critère principal à la semaine 24."
+}

@@ -1,0 +1,37 @@
+{
+ "h": "be6ec62f25a4",
+ "date": "2026-11-13",
+ "titre": "Arrêt de l'hydroxychloroquine chez les patients âgés atteints de lupus quiescent",
+ "question": "L'hydroxychloroquine peut-elle être arrêtée sans risque de poussée chez des patients lupiques âgés de 55 ans et plus en rémission ?",
+ "contexte": "L'hydroxychloroquine (HCQ) est le traitement de base du lupus systémique. Elle réduit l'activité de la maladie, les poussées et la mortalité, avec un bon profil infectieux par rapport aux immunosuppresseurs classiques. Son principal risque est la toxicité rétinienne, qui augmente avec la durée d'exposition et l'âge. Avec les méthodes de dépistage sensibles actuelles, près d'un tiers des patients accumulent des lésions rétiniennes.\n\nLa balance entre l'exposition oculaire cumulée et le risque de poussée à l'arrêt est mal connue, notamment chez les sujets âgés, dont la maladie est souvent plus calme que chez les sujets jeunes. L'hypothèse de l'étude SHIELD est que l'HCQ peut être arrêtée sans danger chez des patients stables, évalués par des indices validés d'activité et de poussée, avec des profils sérologiques, cytokiniques et transcriptomiques.\n\nCe essai de phase 3 est randomisé en double aveugle : les patients poursuivent l'HCQ ou reçoivent un placebo d'aspect identique, avec un suivi trimestriel pendant un an. Il inclut 330 patients de 55 ans et plus, en rémission DORIS sans immunosuppresseur et sous HCQ depuis au moins 7 ans. Le promoteur est NYU Langone Health, avec le soutien des NIH.",
+ "interet": "L'étude pourrait fonder une stratégie de désescalade de l'HCQ chez les sujets âgés en rémission durable. Elle permettrait de limiter la toxicité rétinienne tout en maîtrisant le risque de poussée.",
+ "profil": "Des patients de 55 ans et plus atteints de lupus ancien, en rémission DORIS, sous hydroxychloroquine depuis au moins 7 ans et sans immunosuppresseur.",
+ "inclusion": [
+  "Âge ≥ 55 ans",
+  "Lupus établi (critères ACR, SLICC ou EULAR), diagnostiqué depuis au moins 7 ans",
+  "Rémission DORIS : SLEDAI clinique = 0, PGA ≤ 0,5, prednisolone ≤ 5 mg/j, sans immunosuppresseur",
+  "OCT et champ visuel normaux dans les 6 mois",
+  "HCQ ≥ 200 mg/j depuis ≥ 7 ans",
+  "Aucune poussée modérée ou sévère dans l'année précédente"
+ ],
+ "exclusion": [
+  "Rémission DORIS non atteinte ou SLEDAI clinique > 0",
+  "Rétinopathie à l'HCQ",
+  "Prednisone > 5 mg/j",
+  "Immunosuppresseur ou biothérapie (méthotrexate, azathioprine, mycophénolate, bélimumab, rituximab, etc.)",
+  "Taux sanguin d'HCQ < 100 ng/mL (suspicion de non-observance)",
+  "Activité résiduelle suspectée par le rhumatologue traitant"
+ ],
+ "bras": [
+  {
+   "nom": "Hydroxychloroquine poursuivie",
+   "traitement": "Hydroxychloroquine, approvisionnement de 90 jours remis à chaque visite trimestrielle (dose non précisée)"
+  },
+  {
+   "nom": "Placebo (arrêt de l'HCQ)",
+   "traitement": "Placebo identique à l'HCQ, 90 jours remis à chaque visite trimestrielle"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Nombre de patients présentant une poussée modérée ou sévère selon l'indice SELENA-SLEDAI révisé (rSFI), jusqu'au mois 12."
+}

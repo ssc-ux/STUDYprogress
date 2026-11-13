@@ -1,0 +1,37 @@
+{
+ "h": "7bbbf54cc9fc",
+ "date": "2026-11-13",
+ "titre": "Hemay005 dans la maladie de Behçet avec aphtose buccale",
+ "question": "Hemay005 réduit-il les ulcères buccaux de la maladie de Behçet par rapport au placebo à 12 semaines ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique associant aphtose buccale récidivante, ulcères génitaux, atteinte oculaire, vasculaire, digestive et neurologique. L'aphtose buccale est le signe le plus fréquent et un facteur majeur d'altération de la qualité de vie. Le traitement fait appel à la colchicine, aux corticoïdes locaux et à des immunosuppresseurs en cas d'échec.\n\nL'apremilast, inhibiteur de la phosphodiestérase 4 (PDE4), est approuvé dans l'aphtose buccale de la maladie de Behçet, après l'essai RELIEF. Hemay005, produit de Ganzhou Hemay Pharmaceutical, est un inhibiteur de PDE4 par voie orale, développé selon la même logique.\n\nCet essai de phase 3 multicentrique, randomisé en double insu, inclut 162 adultes de 18 à 75 ans (critères ICBD 2013) ayant au moins 2 ulcères buccaux. Il compare Hemay005 60 mg deux fois par jour, 45 mg deux fois par jour et placebo pendant 12 semaines, suivies d'une phase d'extension de 40 semaines où les patients sous placebo passent à l'actif, puis de 4 semaines de suivi.",
+ "interet": "Il pourrait ajouter une option orale ciblée contre l'aphtose buccale de Behçet, en dehors des marchés où l'apremilast est disponible.",
+ "profil": "Des adultes de 18 à 75 ans atteints de maladie de Behçet avec ulcères buccaux récidivants.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, maladie de Behçet selon les critères ICBD 2013",
+  "Au moins 2 ulcères buccaux au dépistage, puis 2 ou 3 à la randomisation selon le délai",
+  "Ulcères justifiant un traitement systémique (échec ou inadéquation du traitement local)",
+  "Contraception efficace jusqu'à 3 mois après la dernière dose",
+  "Capacité de respecter le suivi"
+ ],
+ "exclusion": [
+  "Atteinte active d'organe majeur nécessitant un immunosuppresseur (poumon, vaisseaux, tube digestif, système nerveux central)",
+  "Cardiopathie significative ou anomalies ECG sur les 6 mois précédents",
+  "Autres critères d'exclusion non détaillés dans ce résumé (non précisé)"
+ ],
+ "bras": [
+  {
+   "nom": "Hemay005 dose élevée",
+   "traitement": "Hemay005 60 mg deux fois par jour pendant 12 semaines puis 40 semaines d'extension"
+  },
+  {
+   "nom": "Hemay005 dose plus faible",
+   "traitement": "Hemay005 45 mg deux fois par jour pendant 12 semaines puis 40 semaines d'extension"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo pendant 12 semaines, puis Hemay005 60 mg ou 45 mg deux fois par jour pendant 40 semaines selon l'allocation initiale"
+  }
+ ],
+ "duree": "56 semaines environ (12 semaines de traitement principal, 40 semaines d'extension, 4 semaines de suivi)",
+ "critere": "Efficacité sur les ulcères buccaux à la semaine 12."
+}

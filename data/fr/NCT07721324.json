@@ -1,0 +1,14 @@
+{
+"h": "e1d97feb3c9c",
+"date": "2026-11-13",
+"titre": "Mélatonine en complément du traitement standard dans le lupus systémique actif",
+"question": "La mélatonine réduit-elle l'inflammation (IL-6), le stress oxydatif, la fatigue et améliore-t-elle le sommeil et la qualité de vie dans le lupus systémique actif ?",
+"contexte": "Le lupus érythémateux systémique est une maladie auto-immune chronique, multisystémique, évoluant par poussées et rémissions. Elle touche surtout les femmes en âge de procréer. Sa présentation va d'une atteinte cutanée légère à des atteintes d'organe sévères (insuffisance rénale, hypertension pulmonaire, insuffisance cardiaque). L'inflammation et le stress oxydatif sont des cibles importantes de sa prise en charge.\n\nLes concentrations d'IL-6 sont constamment élevées chez les patients lupiques par rapport aux témoins. Le stress oxydatif chronique épuise les antioxydants endogènes, comme la superoxyde dismutase (SOD), dont l'activité basse est corrélée à l'indice d'activité SLEDAI.\n\nLa mélatonine possède des propriétés anti-inflammatoires et antioxydantes. Cet essai randomisé d'Ain Shams University (Égypte), de phase 2/3 et de petite taille (64 patients), est présenté comme le premier à évaluer son effet sur la qualité du sommeil, la fatigue et la qualité de vie dans le lupus de l'adulte. Il mesure aussi l'IL-6 et la SOD sériques après 12 semaines.",
+"interet": "Si la mélatonine, peu coûteuse et bien tolérée, améliore l'inflammation, le sommeil et la fatigue, elle pourrait servir d'appoint au traitement standard. L'étude est exploratoire, de petite taille et ouverte.",
+"profil": "Des adultes de 18 à 60 ans atteints de lupus systémique actif (SLEDAI-2K de 4 à 11) sous traitement stable.",
+"inclusion": ["Âge de 18 à 60 ans", "Lupus actif avec SLEDAI-2K de 4 à 11", "Maladie ne menaçant pas le pronostic vital", "Traitement du lupus stable depuis 3 mois", "Capacité et volonté de coopérer"],
+"exclusion": ["Autre maladie auto-immune", "Hypertension ou diabète non contrôlés", "Atteinte rénale sévère (DFG < 30 mL/min) ou hépatique sévère", "Lupus engageant le pronostic vital (hémolyse sévère, thrombopénie < 40 000, endocardite, pneumopathie lupique, hémorragie alvéolaire)", "Sédatifs, antidépresseurs, contraceptifs, antioxydants ou oméga-3 dans le mois précédent ; somnifères dans les 2 semaines", "Tabac ou alcool, allergie à la mélatonine, grossesse ou allaitement, infection active, cancer, anticoagulants ou aspirine > 325 mg/jour, antécédent d'AVC"],
+"bras": [{"nom": "Mélatonine", "traitement": "Traitement standard plus mélatonine 15 mg par jour par voie orale, 30 à 60 minutes avant le coucher, pendant 12 semaines (32 patients)"}, {"nom": "Contrôle", "traitement": "Traitement standard seul (32 patients)"}],
+"duree": "12 semaines",
+"critere": "Variation de l'interleukine-6 sérique entre l'inclusion et 12 semaines."
+}

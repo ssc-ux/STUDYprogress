@@ -1,0 +1,39 @@
+{
+ "h": "f3807bfcc32b",
+ "date": "2026-11-13",
+ "titre": "Daratumumab et VCd dans l'amylose AL avec atteinte cardiaque : tolérance cardiaque",
+ "question": "Quelle est la tolérance cardiaque de l'association daratumumab-VCd dans l'amylose AL, et la pharmacocinétique du daratumumab sous-cutané dans les minorités ethniques ?",
+ "contexte": "L'amylose AL est due au dépôt de chaînes légères d'immunoglobuline produites par un clone plasmocytaire. L'atteinte cardiaque est le principal déterminant du pronostic, notamment aux stades de Mayo II et IIIa, et expose à une toxicité accrue des traitements.\n\nLe traitement de référence de l'amylose AL récemment diagnostiquée associe le daratumumab, anti-CD38 sous-cutané, au cyclophosphamide, bortézomib et dexaméthasone (D-VCd), sur la base de l'essai ANDROMEDA. Les données de tolérance cardiaque dans les stades avancés sont toutefois limitées, et les minorités ethniques, notamment les patients noirs ou afro-américains, étaient peu représentées.\n\nCette étude de phase 2 du promoteur Janssen comprend deux cohortes. La cohorte 1 (stades cardiaques II et IIIa) est randomisée entre daratumumab avec VCd immédiat (bras A) ou différé (bras B), pour caractériser la tolérance cardiaque et des stratégies d'atténuation. La cohorte 2 évalue la pharmacocinétique du daratumumab SC avec VCd chez des participants issus de minorités ethniques.",
+ "interet": "L'étude pourrait préciser comment sécuriser l'initiation du D-VCd chez les patients avec atteinte cardiaque avancée, et documenter l'exposition au daratumumab dans des populations sous-représentées.",
+ "profil": "Des adultes atteints d'amylose AL systémique nouvellement diagnostiquée, avec atteinte cardiaque (cohorte 1) ou issus de minorités ethniques (cohorte 2).",
+ "inclusion": [
+  "Amylose AL systémique nouvellement diagnostiquée",
+  "Cohorte 1 : atteinte cardiaque, stade de Mayo II ou IIIa",
+  "Cohorte 2 : au moins un organe atteint, participants issus de minorités ethniques (dont noirs ou afro-américains)",
+  "ECOG de 0 à 2",
+  "Maladie mesurable (dFLC ou iFLC ≥ 40 mg/L avec ratio anormal, ou pic monoclonal sérique ≥ 0,5 g/dL)",
+  "Contraception et test de grossesse négatif si en âge de procréer"
+ ],
+ "exclusion": [
+  "Traitement antérieur de l'amylose AL ou du myélome, dont anti-CD38 (sauf dexaméthasone ≤ 160 mg)",
+  "Myélome multiple symptomatique (lésions lytiques, plasmocytome, ≥ 60 % de plasmocytes médullaires, hypercalcémie)",
+  "Médicament expérimental récent",
+  "Autres critères d'exclusion non détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1, bras A",
+   "traitement": "Daratumumab SC 1 800 mg avec VCd immédiat (cyclophosphamide, bortézomib, dexaméthasone)"
+  },
+  {
+   "nom": "Cohorte 1, bras B",
+   "traitement": "Daratumumab SC 1 800 mg avec VCd différé"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "Daratumumab SC avec VCd chez des participants issus de minorités ethniques"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois pour le critère principal ; durée totale non précisée",
+ "critere": "Nombre de participants avec un événement cardiaque, tout grade, jusqu'à 12 mois ; concentration résiduelle de daratumumab au cycle 3 (cohorte 2)."
+}

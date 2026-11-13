@@ -1,0 +1,29 @@
+{
+ "h": "685ed0fb78a1",
+ "date": "2026-11-13",
+ "titre": "Navenibart sous-cutané contre placebo pour prévenir les crises d'angiœdème héréditaire",
+ "question": "Le navenibart, administré tous les 3 ou 6 mois, réduit-il le nombre de crises d'angiœdème héréditaire par rapport au placebo ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type 1 ou 2 est dû à un déficit quantitatif ou fonctionnel en inhibiteur de la C1 estérase. Il provoque des crises récurrentes et imprévisibles d'œdème cutané, digestif ou laryngé, qui peut engager le pronostic vital. Le traitement de fond repose sur le lanadelumab, le garadacimab, le bérotralstat ou le C1-INH, et le danazol en dernier recours. Ces traitements imposent des administrations fréquentes, de quelques jours à quelques semaines, et l'écart à l'intervalle prévu entraîne un risque de crises.\n\nLe navenibart est un anticorps monoclonal dirigé contre le facteur XIIa, dont l'inhibition limite la production de bradykinine. Sa demi-vie longue vise des injections espacées, tous les 3 ou 6 mois. Cette étude de phase 3 randomisée en double aveugle contre placebo compare plusieurs schémas chez l'adulte et teste un schéma chez l'adolescent. Une période de pré-inclusion permet de confirmer la fréquence des crises avant randomisation. Le promoteur est Astria Therapeutics.",
+ "interet": "Si l'efficacité est démontrée, le navenibart permettrait un traitement de fond réduit à 2 à 4 injections par an. Cela pourrait améliorer l'observance et la qualité de vie des patients, adolescents compris.",
+ "profil": "Des adolescents (≥ 12 ans) et des adultes atteints d'angiœdème héréditaire de type 1 ou 2 ayant des crises fréquentes.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "Diagnostic documenté d'angiœdème héréditaire de type 1 ou 2 (histoire clinique et biologie compatibles)",
+  "Au moins 2 crises confirmées par l'investigateur pendant la période de pré-inclusion"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème chronique : acquis, AOH à C1-INH normal (type 3), idiopathique, associé à l'urticaire",
+  "Traitement de fond de l'AOH pendant l'étude, ou lors du délai de sevrage avant la pré-inclusion",
+  "Délais de sevrage : acide tranexamique et androgènes oraux 3 jours, C1-INH plasmatique 14 jours, bérotralstat 21 jours, lanadelumab 70 jours, garadacimab 90 jours",
+  "Autres critères d'exclusion : non précisés dans le résumé retenu"
+ ],
+ "bras": [
+  {"nom": "Adultes : navenibart, schéma 1", "traitement": "600 mg tous les 3 mois"},
+  {"nom": "Adultes : navenibart, schéma 2", "traitement": "600 mg à J1, puis 300 mg tous les 3 mois à partir du mois 3"},
+  {"nom": "Adultes : navenibart, schéma 3", "traitement": "600 mg tous les 6 mois"},
+  {"nom": "Adultes : placebo", "traitement": "Placebo tous les 3 mois"},
+  {"nom": "Adolescents : navenibart", "traitement": "600 mg à J1, puis 300 mg tous les 3 mois à partir du mois 3"}
+ ],
+ "duree": "Période de traitement de 6 mois, précédée d'une période de pré-inclusion (durée non précisée)",
+ "critere": "Nombre de crises d'angiœdème héréditaire confirmées par l'investigateur, normalisé par le temps, du jour 1 au jour 181."
+}

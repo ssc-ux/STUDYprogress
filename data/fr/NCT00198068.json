@@ -1,0 +1,41 @@
+{
+ "h": "c618a36671e6",
+ "date": "2026-11-13",
+ "titre": "Prédicteurs de l'issue de grossesse dans le lupus et le syndrome des antiphospholipides",
+ "question": "Les produits de dégradation du complément et les facteurs antiangiogéniques circulants permettent-ils de prédire les complications de grossesse chez les patientes avec lupus ou anticorps antiphospholipides ?",
+ "contexte": "Les thromboses et les pertes fœtales sont fréquentes dans le lupus systémique (LES), surtout en présence d'anticorps antiphospholipides (aPL). Les mécanismes par lesquels ces anticorps provoquent des événements vasculaires et des pertes fœtales récurrentes restent mal connus.\n\nDans un modèle murin de syndrome des antiphospholipides (SAPL), l'activation du complément in vivo est nécessaire à la survenue des pertes fœtales induites par les aPL. L'étude PROMISSE vise à transposer ces observations expérimentales à la clinique. Elle cherche à déterminer si des produits de clivage du complément, ou des taux élevés de facteurs antiangiogéniques circulants, prédisent une issue défavorable de grossesse chez les patientes avec LES et/ou aPL.\n\nIl s'agit d'une étude observationnelle de type cas-témoins, menée dans neuf centres cliniques, qui devrait inclure 700 femmes enceintes. Quatre groupes sont comparés selon la présence d'aPL et de lupus, les témoins étant des femmes sans aPL ni lupus. Le promoteur est l'Hospital for Special Surgery de New York, avec le soutien du NIAMS.",
+ "interet": "L'identification de marqueurs précoces d'une issue défavorable pourrait aider à repérer les grossesses à haut risque dans le lupus et le SAPL. Elle pourrait aussi orienter des pistes thérapeutiques ciblant le complément.",
+ "profil": "Des femmes enceintes de 18 à 45 ans, avec lupus et/ou anticorps antiphospholipides, ou témoins sans ces affections.",
+ "inclusion": [
+  "Grossesse intra-utérine évolutive, ≤ 12 semaines (sans aPL) ou ≤ 18 semaines (avec aPL)",
+  "Âge de 18 à 45 ans, ou moins de 18 ans avec accord parental",
+  "Hématocrite > 26 %",
+  "aPL positifs : anticardiolipine IgG/IgM ≥ 40 unités, anticoagulant circulant positif ou anti-β2GPI IgG/IgM ≥ 40 unités",
+  "Témoins : au moins une grossesse menée à terme, pas de mort fœtale ni plus d'une fausse couche précoce, non fumeuses, sans maladie chronique traitée"
+ ],
+ "exclusion": [
+  "Diabète de type 1 ou 2 antérieur à la grossesse",
+  "Déficit héréditaire en complément connu ou suspecté (CH50 = 0)",
+  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1 : aPL positifs, sans lupus",
+   "traitement": "Suivi observationnel de la grossesse"
+  },
+  {
+   "nom": "Groupe 2 : aPL positifs, avec lupus",
+   "traitement": "Suivi observationnel de la grossesse"
+  },
+  {
+   "nom": "Groupe 3 : aPL négatifs, avec lupus",
+   "traitement": "Suivi observationnel de la grossesse"
+  },
+  {
+   "nom": "Groupe 4 : témoins sains",
+   "traitement": "Femmes sans aPL ni lupus, suivi observationnel de la grossesse"
+  }
+ ],
+ "duree": "Durée de la grossesse, jusqu'à l'accouchement et la période néonatale",
+ "critere": "Mort fœtale inexpliquée après 12 semaines, décès néonatal, naissance prématurée avant 36 semaines ou petit poids pour l'âge gestationnel (< 5e percentile), évalués en fin de grossesse."
+}

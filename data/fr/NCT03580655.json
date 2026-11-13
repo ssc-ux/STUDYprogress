@@ -1,0 +1,33 @@
+{
+ "h": "d6d23deb9538",
+ "date": "2026-11-13",
+ "titre": "Avapritinib dans la mastocytose systémique avancée",
+ "question": "Quelle est l'efficacité et la tolérance de l'avapritinib, inhibiteur de KIT, dans la mastocytose systémique avancée ?",
+ "contexte": "La mastocytose systémique avancée (MSA) regroupe la mastocytose systémique agressive, la mastocytose associée à une hémopathie (SM-AHN) et la leucémie à mastocytes. Ces formes rares s'accompagnent de dysfonctions d'organes liées à l'infiltration par les mastocytes et d'un pronostic réservé. Dans plus de 90 % des cas, une mutation activatrice de KIT, le plus souvent D816V, est retrouvée.\n\nLes options disponibles reposent sur la midostaurine, la cladribine, l'interféron ou la chimiothérapie, avec des réponses souvent partielles ou de courte durée. La mutation D816V confère en outre une résistance à l'imatinib.\n\nL'avapritinib est un inhibiteur de tyrosine kinase puissant et sélectif des formes mutées de KIT, dont D816V. PATHFINDER est une étude de phase 2 ouverte à bras unique, promue par Blueprint Medicines, menée dans 12 pays dont la France, avec 107 patients. Elle évalue le taux de réponse selon les critères mIWG-MRT-ECNM, définis spécifiquement pour la MSA.",
+ "interet": "Les résultats pourraient asseoir l'avapritinib comme traitement ciblé de la MSA. L'étude renseigne aussi sur la durée des réponses et la tolérance à long terme, notamment neurologique et hémorragique. L'absence de comparateur limite l'interprétation.",
+ "profil": "Des adultes atteints de mastocytose systémique avancée (agressive, associée à une hémopathie ou leucémie à mastocytes).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic de MS agressive, SM-AHN ou leucémie à mastocytes selon l'OMS",
+  "Diagnostic confirmé par le comité de pilotage après revue centrale de la moelle osseuse",
+  "Tryptase sérique ≥ 20 ng/mL",
+  "Statut de performance ECOG de 0 à 3"
+ ],
+ "exclusion": [
+  "Traitement antérieur par avapritinib",
+  "Traitement cytoréducteur ou agent expérimental récent avant la biopsie médullaire de dépistage",
+  "Éosinophilie avec fusion FIP1L1-PDGFRA, sauf rechute ou progression sous imatinib",
+  "Autre cancer primitif traité ou diagnostiqué dans les 3 ans (hors exceptions)",
+  "QTcF > 480 ms",
+  "Risque connu ou antécédent récent (12 mois) de saignement intracrânien",
+  "Plaquettes < 50 000/µL ou transfusions plaquettaires ; fonction hépatique ou rénale altérée, tumeur ou métastases cérébrales, antécédent d'épilepsie"
+ ],
+ "bras": [
+  {
+   "nom": "Avapritinib",
+   "traitement": "Avapritinib par voie orale, comprimé à libération immédiate, en continu, cycles de 28 jours (dose non précisée)"
+  }
+ ],
+ "duree": "Suivi jusqu'à 65 mois environ",
+ "critere": "Taux de réponse globale selon les critères mIWG-MRT-ECNM, de l'inclusion jusqu'au mois 65"
+}

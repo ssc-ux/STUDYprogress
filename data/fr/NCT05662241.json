@@ -1,0 +1,37 @@
+{
+ "h": "c10f5dca6c1f",
+ "date": "2026-11-13",
+ "titre": "Obexelimab pour prévenir les poussées de la maladie liée aux IgG4",
+ "question": "L'obexelimab retarde-t-il la survenue d'une poussée de la maladie liée aux IgG4 par rapport au placebo sur 52 semaines ?",
+ "contexte": "La maladie liée aux IgG4 est une maladie fibro-inflammatoire immuno-médiée qui touche plusieurs organes (pancréas, voies biliaires, glandes, rein, rétropéritoine). Les corticoïdes sont le traitement initial, mais les rechutes sont fréquentes à la décroissance, d'où le besoin d'un traitement de fond épargnant les corticoïdes.\n\nL'obexelimab est un anticorps bifonctionnel qui lie CD19 et le récepteur FcγRIIb. Il inhibe les lymphocytes B et les plasmablastes sans déplétion complète, contrairement aux anticorps anti-CD20 ou anti-CD19 déplétants. INDIGO est une étude de phase 3 randomisée en double aveugle contre placebo, avec injections sous-cutanées pendant 52 semaines. Tous les patients, en poussée nécessitant des corticoïdes, débutent une décroissance jusqu'à l'arrêt à la semaine 8. Une extension ouverte de 3 ans est prévue, avec un sous-groupe étudiant la réponse vaccinale. Le promoteur est Zenas BioPharma ; 194 participants ont été inclus.",
+ "interet": "Un résultat positif ajouterait une option de traitement de fond sous-cutanée, sans déplétion lymphocytaire, dans la maladie liée aux IgG4. Le sous-groupe vaccinal documentera l'immunité sous traitement.",
+ "profil": "Des adultes atteints de maladie liée aux IgG4 en poussée nécessitant des corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic clinique de maladie liée aux IgG4",
+  "Critères de classification ACR/EULAR 2019",
+  "Poussée active nécessitant d'initier ou d'augmenter les corticoïdes",
+  "Autres critères du protocole non détaillés"
+ ],
+ "exclusion": [
+  "Atteinte d'un seul organe à prédominance fibrotique",
+  "Prednisone orale > 60 mg/j dans les 4 semaines précédant la sélection",
+  "DMARD non biologique ou immunosuppresseur autre que les corticoïdes dans les 2 semaines",
+  "Traitement expérimental dans les 12 semaines ou 5 demi-vies",
+  "Vaccin vivant dans les 2 semaines",
+  "Tuberculose active ou à risque, hépatite C non traitée, hépatite B",
+  "Biothérapie ciblant les lymphocytes B dans les 6 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Obexelimab (ZB012)",
+   "traitement": "Obexelimab par voie sous-cutanée (dose non précisée), avec décroissance des corticoïdes jusqu'à la semaine 8"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané, avec décroissance des corticoïdes jusqu'à la semaine 8"
+  }
+ ],
+ "duree": "Jusqu'à 224 semaines au maximum (52 semaines randomisées, 3 ans d'extension ouverte, suivi)",
+ "critere": "Délai jusqu'à la première poussée de la maladie nécessitant un traitement de secours, de la randomisation à la semaine 52"
+}

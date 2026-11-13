@@ -1,0 +1,34 @@
+{
+ "h": "fb8ddc014a3d",
+ "date": "2026-11-13",
+ "titre": "Laser CO2 fractionné versus promestriène topique contre la sécheresse vaginale du syndrome de Sjögren",
+ "question": "Le laser CO2 vaginal fractionné améliore-t-il l'indice de santé vaginale mieux que le promestriène topique chez des patientes atteintes de maladie de Sjögren ?",
+ "contexte": "La maladie de Sjögren est une maladie systémique inflammatoire chronique à médiation immunitaire, qui touche surtout les glandes salivaires et lacrymales et provoque un syndrome sec. Elle prédomine chez la femme (ratio de 9:1 à 20:1), avec un pic d'incidence entre 40 et 60 ans. La sécheresse concerne aussi les muqueuses génitales : irritation, prurit, dyspareunie, symptômes urinaires. Ces troubles débutent parfois avant la ménopause, s'aggravent après, et altèrent la vie sexuelle et la qualité de vie.\n\nIl n'existe pas de recommandation spécifique pour la sécheresse vaginale du Sjögren. Le syndrome génito-urinaire de la ménopause, aux symptômes proches, est traité par estrogènes locaux ou systémiques (dont le promestriène topique). Le laser CO2 vaginal fractionné a aussi montré son efficacité et sa sécurité dans ce syndrome, mais aucune étude n'a évalué ces traitements dans le Sjögren.\n\nCet essai de phase 4, randomisé et ouvert, est promu par l'Hôpital général de l'Université de São Paulo (soutien de la FAPESP). Il inclut 60 patientes, pré- ou post-ménopausées, réparties en deux groupes de 30.",
+ "interet": "Si le laser est au moins aussi efficace que l'estrogène local, il offrirait une option non hormonale, utile en cas de contre-indication aux estrogènes. Ces données comblent un vide dans la prise en charge des symptômes génitaux du Sjögren.",
+ "profil": "Des femmes de 30 à 65 ans atteintes de maladie de Sjögren, avec une maladie systémique contrôlée et une sécheresse vaginale.",
+ "inclusion": [
+  "Maladie de Sjögren selon les critères ACR/EULAR 2016",
+  "Activité systémique contrôlée : ESSDAI < 5",
+  "Pas de corticoïdes, ou prednisone ≤ 15 mg/j",
+  "Plainte de sécheresse vaginale à l'inclusion",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Antécédent de cancer du sein, de l'utérus ou de l'ovaire",
+  "Antécédent thromboembolique, insuffisance cardiaque, rénale ou hépatique",
+  "Autre maladie rhumatismale auto-immune associée (spondyloarthrite, PR, lupus, sclérodermie, dermatomyosite, connectivite mixte)",
+  "Pathologie mimant un Sjögren (radiothérapie cervico-faciale, VIH, hépatite B ou C, sarcoïdose, maladie liée aux IgG4, réaction du greffon contre l'hôte)"
+ ],
+ "bras": [
+  {
+   "nom": "Laser CO2 vaginal fractionné",
+   "traitement": "Une séance de laser CO2 vaginal fractionné par mois pendant 3 mois consécutifs"
+  },
+  {
+   "nom": "Promestriène topique",
+   "traitement": "Capsule vaginale de promestriène 10 mg le soir pendant 15 jours, puis une application tous les 3 jours (selon la description du registre, schéma d'entretien précis non précisé)"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Indice de santé vaginale (Vaginal Health Index) à 4 et 6 mois."
+}

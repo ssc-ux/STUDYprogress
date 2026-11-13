@@ -1,0 +1,32 @@
+{
+ "h": "eced761b6f72",
+ "date": "2026-11-13",
+ "titre": "Ravulizumab contre placebo dans la néphrite lupique proliférative et la néphropathie à IgA",
+ "question": "Le ravulizumab, inhibiteur du complément terminal, réduit-il la protéinurie dans la néphrite lupique proliférative et dans la néphropathie à IgA ?",
+ "contexte": "La néphrite lupique de classe III ou IV est une atteinte rénale proliférative grave du lupus érythémateux systémique. Elle est traitée par une induction immunosuppressive (corticoïdes, mycophénolate ou cyclophosphamide, avec ou sans bélimumab ou voclosporine), mais une part notable des patients ne répond pas ou évolue vers l'insuffisance rénale. La néphropathie à IgA primitive est la glomérulonéphrite la plus fréquente, avec un risque d'insuffisance rénale chronique. Les traitements reposent sur les inhibiteurs du système rénine-angiotensine, les corticoïdes, de nouvelles options ciblées sur la protéinurie.\n\nLa voie du complément participe à la lésion glomérulaire dans les deux maladies, avec dépôts de C3, de complexes immuns et d'activation de la voie terminale. Le ravulizumab est un anticorps anti-C5 à longue durée d'action, déjà utilisé dans d'autres maladies à médiation complémentaire. Cette étude de phase 2 randomisée en double aveugle contre placebo comporte deux cohortes : néphrite lupique et néphropathie à IgA. Elle cherche une preuve de concept de l'inhibition du complément terminal, en plus du traitement de fond. Le promoteur est Alexion.",
+ "interet": "L'étude teste si le blocage du complément terminal diminue la protéinurie dans deux glomérulopathies différentes. Une preuve de concept pourrait ouvrir la voie à des essais de phase 3 dans ces maladies.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique proliférative (classe III ou IV) ou de néphropathie à IgA primitive avec protéinurie.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Protéinurie ≥ 1 g/j (ou g/g)",
+  "Vaccination antiméningococcique, anti-Haemophilus influenzae b et antipneumococcique selon les règles nationales",
+  "Cohorte NL : néphrite lupique proliférative active de classe III ou IV, nécessitant ou recevant un traitement d'induction",
+  "Cohorte IgAN : néphropathie à IgA primitive, avec un inhibiteur du système rénine-angiotensine stable et optimal depuis ≥ 3 mois"
+ ],
+ "exclusion": [
+  "DFGe < 30 mL/min/1,73 m²",
+  "Inhibiteur du complément antérieur (par exemple éculizumab)",
+  "Autre maladie rénale significative concomitante",
+  "Antécédent de greffe d'organe solide ou de moelle",
+  "Hypertension non contrôlée",
+  "Cohorte IgAN : glomérulonéphrite rapidement progressive, prednisone > 20 mg/j pendant plus de 14 jours ou autre immunosuppression dans les 6 mois"
+ ],
+ "bras": [
+  {"nom": "Cohorte néphrite lupique : ravulizumab", "traitement": "Ravulizumab IV plus traitement de fond"},
+  {"nom": "Cohorte néphrite lupique : placebo", "traitement": "Placebo IV plus traitement de fond"},
+  {"nom": "Cohorte néphropathie à IgA : ravulizumab", "traitement": "Ravulizumab IV plus traitement de fond"},
+  {"nom": "Cohorte néphropathie à IgA : placebo", "traitement": "Placebo IV plus traitement de fond"}
+ ],
+ "duree": "26 semaines de période initiale, 24 semaines d'extension, puis 36 semaines de suivi",
+ "critere": "Variation en pourcentage de la protéinurie à la semaine 26 par rapport à l'inclusion (rapport protéinurie/créatininurie dans la néphrite lupique, protéinurie des 24 heures dans la néphropathie à IgA)."
+}

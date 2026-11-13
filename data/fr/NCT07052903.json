@@ -1,0 +1,27 @@
+{
+ "h": "f271ba24c5e2",
+ "date": "2026-11-13",
+ "titre": "Nucresiran contre placebo dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "Le nucresiran, administré tous les 6 mois, réduit-il la mortalité toutes causes et les événements cardiovasculaires dans l'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM), héréditaire ou sauvage, associe infiltration myocardique, insuffisance cardiaque et risque élevé d'hospitalisation et de décès. Les stabilisateurs de la TTR (tafamidis, acoramidis) et le vutrisiran, un ARN interférent, ont démontré un bénéfice clinique. Un risque résiduel important persiste, et la maladie progresse chez de nombreux patients malgré ces traitements.\n\nLe nucresiran est un ARN interférent de nouvelle génération ciblant la TTR, conçu pour obtenir une réduction plus profonde et plus durable de la protéine, avec une injection sous-cutanée tous les 6 mois. L'étude TRITON-CM est une étude de phase 3 randomisée en double aveugle contre placebo, chez environ 1 750 patients. Les participants peuvent continuer les stabilisateurs de la TTR et le traitement de l'insuffisance cardiaque. Après la phase en double aveugle, tous reçoivent du nucresiran en extension ouverte. Le promoteur est Alnylam Pharmaceuticals.",
+ "interet": "L'étude pourrait montrer un bénéfice du nucresiran en plus des stabilisateurs de la TTR, avec seulement deux injections par an. Elle donnera des éléments sur l'intérêt d'une déplétion plus profonde en TTR.",
+ "profil": "Des adultes de 18 à 85 ans atteints d'amylose cardiaque à transthyrétine, héréditaire ou sauvage, avec insuffisance cardiaque.",
+ "inclusion": [
+  "Diagnostic documenté d'ATTR avec cardiomyopathie (hATTR ou wtATTR)",
+  "Insuffisance cardiaque avec au moins une hospitalisation pour IC, ou signes nécessitant un diurétique",
+  "NT-proBNP > 300 et < 8 500 ng/L (> 600 ng/L en cas de fibrillation atriale permanente ou persistante)",
+  "Stabilisateurs de la TTR autorisés (tafamidis, acoramidis) et traitement de l'IC à la discrétion de l'investigateur"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque NYHA IV, ou NYHA III avec amylose ATTR de stade 3",
+  "Handicap lié à la polyneuropathie (score PND IIIa, IIIb ou IV)",
+  "DFGe < 30 mL/min/1,73 m² au dépistage",
+  "Traitement antérieur ou en cours qui réduit la TTR"
+ ],
+ "bras": [
+  {"nom": "Nucresiran", "traitement": "Nucresiran 300 mg par voie sous-cutanée, tous les 6 mois, en double aveugle puis en extension ouverte"},
+  {"nom": "Placebo", "traitement": "Placebo (sérum salé) SC tous les 6 mois en double aveugle, puis nucresiran 300 mg tous les 6 mois en extension ouverte"}
+ ],
+ "duree": "Période en double aveugle estimée à 32 mois (maximum 5 ans), suivie d'une extension ouverte",
+ "critere": "Critère composite de la mortalité toutes causes et des événements cardiovasculaires récurrents (hospitalisations cardiovasculaires et consultations urgentes pour insuffisance cardiaque), jusqu'à la fin de la période en double aveugle."
+}

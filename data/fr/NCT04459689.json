@@ -1,0 +1,25 @@
+{
+ "h": "ed89dbcaee95",
+ "date": "2026-11-13",
+ "titre": "Enquête sur la COVID-19 chez les patients atteints de déficit immunitaire primitif",
+ "question": "Quelle est l'évolution de la COVID-19 chez les patients atteints de déficit immunitaire primitif (DIP) ?",
+ "contexte": "Au début de la pandémie de COVID-19, les comorbidités comme le diabète, le cancer, l'hypertension ou les cardiopathies ont été reconnues comme facteurs de gravité. Aucune information n'existait en revanche sur les conséquences de l'infection par le SARS-CoV-2 chez les patients atteints de déficit immunitaire primitif (DIP).\n\nUne première phase d'enquête, lancée par des sociétés savantes internationales (ESID, IUIS, IPOPI) et le CEREDIH, a permis d'estimer le nombre de patients atteints et l'impact de l'infection. Cette seconde phase, COPID19, recueille des données cliniques plus détaillées par une plateforme en ligne sécurisée, conforme au RGPD, hébergée à Paris par l'Institut Imagine, promoteur de l'étude.\n\nElle décrit l'évolution des patients avec DIP et COVID-19 confirmée ou probable : survie, admission en réanimation, oxygénothérapie. Le caractère observationnel permet de rassembler des cas rares à l'échelle internationale.",
+ "interet": "Ces données aident à évaluer la gravité de la COVID-19 selon le type de DIP, et à adapter les conseils de prévention et de prise en charge de ces patients fragiles.",
+ "profil": "Des patients de tout âge atteints d'un déficit immunitaire primitif et d'une COVID-19 confirmée ou probable.",
+ "inclusion": [
+  "Diagnostic de déficit immunitaire primitif",
+  "COVID-19 confirmée ou probable"
+ ],
+ "exclusion": [
+  "Déficit immunitaire secondaire",
+  "Infection par un autre coronavirus"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec DIP et COVID-19",
+   "traitement": "Cohorte observationnelle, sans intervention"
+  }
+ ],
+ "duree": "Non précisé (recueil des données à l'inclusion)",
+ "critere": "Survie, taux d'admission en réanimation et taux d'oxygénothérapie des patients avec DIP atteints de COVID-19."
+}

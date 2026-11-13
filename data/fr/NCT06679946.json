@@ -1,0 +1,24 @@
+{
+ "h": "eff3654580bb",
+ "date": "2026-11-13",
+ "titre": "Poursuite du vutrisiran dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "Le traitement prolongé par vutrisiran, ou le passage du patisiran au vutrisiran, reste-t-il sûr et efficace dans la cardiomyopathie amyloïde à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cardiopathie infiltrative due au dépôt de fibrilles de TTR, avec insuffisance cardiaque et risque de décès. Le vutrisiran est un ARN interférent qui réduit la synthèse hépatique de TTR, administré par voie sous-cutanée tous les 3 mois. Son bénéfice sur la mortalité et les événements cardiovasculaires a été montré dans l'étude pivot HELIOS-B.\n\nLe patisiran, ARN interférent à perfuser, a été étudié dans l'ATTR-CM dans les études ALN-TTR02-011 (phase 2 d'extension) et ALN-TTR02-014 (APOLLO-B). Cette étude de phase 3, ouverte et à bras unique, accueille les patients de ces études, ainsi que ceux ayant terminé la période d'extension ouverte de 24 mois du vutrisiran (ALN-TTRSC02-003). Elle recueille des données de sécurité, d'efficacité et de pharmacodynamie à plus long terme, y compris après passage du patisiran au vutrisiran. Le promoteur est Alnylam Pharmaceuticals.",
+ "interet": "L'étude documente la sécurité à long terme du vutrisiran dans l'ATTR-CM. Elle précise aussi le passage du patisiran au vutrisiran, plus simple à administrer.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine, issus d'études antérieures du patisiran ou du vutrisiran.",
+ "inclusion": [
+  "Participant à une étude parent du patisiran (ALN-TTR02-011 ou ALN-TTR02-014)",
+  "Ou participant ayant terminé la période d'extension ouverte de 24 mois de l'étude parent du vutrisiran (ALN-TTRSC02-003)",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Arrêt définitif du traitement de l'étude dans l'étude parent",
+  "Participation prévue ou en cours à une autre étude de médicament ou de dispositif expérimental",
+  "Autre affection ou comorbidité gênant le suivi ou l'interprétation des données selon l'investigateur"
+ ],
+ "bras": [
+  {"nom": "Vutrisiran", "traitement": "Vutrisiran 25 mg par voie sous-cutanée, tous les 3 mois"}
+ ],
+ "duree": "Jusqu'à 36 mois",
+ "critere": "Fréquence des événements indésirables, jusqu'à 36 mois."
+}

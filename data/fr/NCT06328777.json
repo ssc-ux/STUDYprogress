@@ -1,0 +1,36 @@
+{
+ "h": "7f3e4d443bf9",
+ "date": "2026-11-13",
+ "titre": "Lymphocytes CAR-T anti-CD19 (CABA-201) dans la sclérodermie systémique (RESET-SSc)",
+ "question": "Les lymphocytes CAR-T anti-CD19 CABA-201 sont-ils sûrs et efficaces dans la sclérodermie systémique active ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare caractérisée par la production d'auto-anticorps et un dysfonctionnement des lymphocytes B. Elle conduit à une fibrose de la peau et des organes, notamment du poumon. Les formes précoces actives avec atteinte cutanée, pulmonaire ou cardiaque ont un pronostic péjoratif malgré les immunosuppresseurs et la greffe de cellules souches.\n\nLe CABA-201 est une thérapie cellulaire CAR-T dirigée contre CD19. Elle vise à éliminer en profondeur les lymphocytes B, puis à laisser se reconstituer un répertoire B naïf. Des cas rapportés de CAR-T anti-CD19 dans des connectivites ont montré des rémissions sans traitement de fond.\n\nRESET-SSc est un essai ouvert, non randomisé, de phase 2/3 (phase 1/2 dans son titre) promu par Cabaletta Bio. Une dose unique de CABA-201 est administrée après une préparation lymphodéplétive par fludarabine et cyclophosphamide. Il inclut environ 37 adultes de 18 à 75 ans, répartis en cohortes (atteinte cutanée sévère, atteinte d'organe) et dans une sous-étude de phase 2b centrée sur la ScS avec pneumopathie interstitielle.",
+ "interet": "L'étude pourrait indiquer si la déplétion B profonde par CAR-T peut stabiliser l'atteinte cutanée et pulmonaire de la ScS. Elle fournira aussi des données de sécurité pour cette thérapie lourde dans cette maladie.",
+ "profil": "Des adultes de 18 à 75 ans atteints de sclérodermie systémique active précoce avec atteinte cutanée, pulmonaire ou cardiaque significative.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Maladie active précoce",
+  "Atteinte cutanée, pulmonaire ou cardiaque significative"
+ ],
+ "exclusion": [
+  "Contre-indication à la leucaphérèse",
+  "Antécédent d'anaphylaxie ou de réaction sévère à la fludarabine ou au cyclophosphamide",
+  "Infection active nécessitant un traitement",
+  "Maladie rénale, hépatique, hématologique, digestive, pulmonaire, psychiatrique, cardiaque ou neurologique sévère ou non contrôlée",
+  "Atteinte pulmonaire ou cardiaque sévère",
+  "Traitement CAR-T antérieur",
+  "Greffe d'organe solide ou de cellules souches hématopoïétiques antérieure"
+ ],
+ "bras": [
+  {
+   "nom": "CABA-201, phase 1/2",
+   "traitement": "Perfusion de CABA-201 après préconditionnement, dans deux cohortes (atteinte cutanée sévère, atteinte d'organe)"
+  },
+  {
+   "nom": "CABA-201, sous-étude de phase 2b",
+   "traitement": "Perfusion de CABA-201 après préconditionnement chez des patients sclérodermiques, dont ceux avec pneumopathie interstitielle"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 28 jours en phase 1/2, à 52 semaines en phase 2b)",
+ "critere": "Phase 1/2 : incidence des événements indésirables jusqu'à 28 jours après la perfusion. Sous-étude 2b : CVF en % de la théorique à 52 semaines dans la ScS avec pneumopathie interstitielle."
+}

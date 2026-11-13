@@ -1,0 +1,38 @@
+{
+ "h": "1dd474df12e3",
+ "date": "2026-11-13",
+ "titre": "Mézagitamab sous-cutané dans le purpura thrombopénique immunologique chronique de l'adulte",
+ "question": "Le mézagitamab maintient-il une réponse plaquettaire durable par rapport au placebo chez des adultes atteints de PTI chronique en échec de plusieurs lignes ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) chronique est une thrombopénie auto-immune persistante, avec risque hémorragique et fatigue. Après la corticothérapie et au moins une seconde ligne (agoniste du récepteur de la TPO, rituximab, fostamatinib, mycophénolate), une proportion de patients garde des plaquettes basses, ou ne tolère pas les traitements.\n\nLe mézagitamab est un anticorps anti-CD38 qui déplète les plasmablastes et les plasmocytes, sources des auto-anticorps, y compris des cellules à longue durée de vie peu sensibles au rituximab. Cette étude de phase 3 est randomisée en double aveugle contre placebo. Les participants reçoivent 8 injections sous-cutanées hebdomadaires, puis 8 semaines sans traitement, puis 8 injections supplémentaires, soit environ 6 mois de traitement. Les patients qui terminent l'étude ou qui ne répondent pas à la semaine 16 peuvent entrer dans une étude de poursuite en ouvert. Le promoteur est Takeda ; 171 participants sont prévus.",
+ "interet": "Un résultat positif donnerait une approche ciblant les plasmocytes dans le PTI réfractaire, avec des cures discontinues. Elle pourrait être utile après échec des agonistes de la TPO et du rituximab.",
+ "profil": "Des adultes atteints de PTI chronique (≥ 12 mois), en échec ou intolérants à au moins une première et une deuxième ligne, avec plaquettes < 30 000/µL.",
+ "inclusion": [
+  "PTI évoluant depuis ≥ 12 mois",
+  "Réponse antérieure à un traitement du PTI hors agoniste de la TPO (plaquettes ≥ 50 000/µL)",
+  "Réponse insuffisante ou intolérance à ≥ 1 première ligne et ≥ 1 seconde ligne",
+  "Plaquettes moyennes < 30 000/µL",
+  "Traitement de fond autorisé si dose stable depuis ≥ 4 semaines",
+  "Test de grossesse négatif si potentiel de grossesse"
+ ],
+ "exclusion": [
+  "PTI secondaire",
+  "Événement thrombotique ou embolique dans les 12 mois",
+  "Splénectomie",
+  "Infection active par les virus des hépatites B ou C ou le VIH",
+  "Cancer (y compris syndrome myélodysplasique) dans les 5 ans (hors exceptions)",
+  "Anti-CD20 récent (dernière dose dans les 6 mois, ou entre 6 et 12 mois selon le taux de lymphocytes B)",
+  "Immunosuppresseurs, IgIV, immunoglobulines anti-D, efgartigimod récents (délais précisés au protocole), vaccin vivant prévu ; allergie sévère aux protéines recombinantes ou aux excipients"
+ ],
+ "bras": [
+  {
+   "nom": "Mézagitamab",
+   "traitement": "Mézagitamab par voie sous-cutanée, une fois par semaine : 8 doses, 8 semaines sans dose, puis 8 doses (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané selon le même schéma"
+  }
+ ],
+ "duree": "Environ 6 mois de traitement, critère principal jusqu'à la semaine 24",
+ "critere": "Pourcentage de participants avec une réponse plaquettaire durable jusqu'à la semaine 24"
+}

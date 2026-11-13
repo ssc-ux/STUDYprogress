@@ -1,0 +1,38 @@
+{
+ "h": "830cf161ab50",
+ "date": "2026-11-13",
+ "titre": "Protéomique et réponse au mépolizumab dans la granulomatose éosinophilique avec polyangéite",
+ "question": "Une analyse protéomique du sang, de la salive et des expectorations identifie-t-elle des biomarqueurs de l'atteinte d'organe et de la réponse au mépolizumab dans l'EGPA ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) associe asthme sévère, hyperéosinophilie et vascularite des petits vaisseaux, avec atteinte ORL, neurologique, cardiaque et rénale possible. Le mépolizumab, anticorps anti-IL-5 à 300 mg, est approuvé dans l'EGPA, après l'essai MIRRA qui a montré davantage de rémissions sous mépolizumab. Il est aussi utilisé à 100 mg dans l'asthme éosinophilique sévère.\n\nLa réponse est hétérogène : certains patients, surtout ceux avec phénotype vascularitique, ne répondent pas ou gardent une atteinte d'organe. L'éosinophilie sanguine reflète imparfaitement l'activité de la maladie. Des biomarqueurs pronostiques manquent.\n\nCette étude de phase 4 de l'hôpital universitaire de Cagliari, portant sur 90 patients, utilise une plateforme de protéomique (nano-HPLC couplée à la spectrométrie de masse haute résolution) sur le plasma, la salive et les expectorations. Les EGPA, séparées en phénotypes ORL/asthmatique ou vascularitique, sont comparées à des asthmatiques sévères éosinophiliques avant et après mépolizumab.",
+ "interet": "Des biomarqueurs protéomiques pourraient aider à prédire la réponse au mépolizumab et à suivre l'atteinte d'organe dans l'EGPA. L'étude n'a pas d'effet direct sur la prise en charge à court terme.",
+ "profil": "Des adultes atteints d'EGPA ou d'asthme éosinophilique sévère, pour lesquels un traitement par mépolizumab est décidé.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Diagnostic clinique d'asthme ou d'EGPA",
+  "Décision médicale de débuter le mépolizumab",
+  "Corticoïdes inhalés à dose moyenne ou forte avec un traitement de fond additionnel depuis au moins 6 mois",
+  "Corticoïdes oraux éventuels à dose stable dans les 4 semaines précédentes",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Asthmatique sous un autre traitement biologique",
+  "Participation à un essai interventionnel à protocole imposé dans les 12 mois précédents",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "EGPA, phénotype ORL/asthmatique",
+   "traitement": "Mépolizumab 300 mg"
+  },
+  {
+   "nom": "EGPA, phénotype vascularitique",
+   "traitement": "Immunosuppresseurs (cyclophosphamide, azathioprine, méthotrexate) et/ou mépolizumab 300 mg"
+  },
+  {
+   "nom": "Asthme éosinophilique sévère",
+   "traitement": "Mépolizumab 100 mg, évaluation avant et après traitement"
+  }
+ ],
+ "duree": "Jusqu'à 52 semaines",
+ "critere": "Profil protéomique du plasma, de la salive et des expectorations des patients EGPA, de l'inclusion jusqu'à 52 semaines."
+}

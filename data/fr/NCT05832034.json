@@ -1,0 +1,34 @@
+{
+ "h": "4aa2b83b09d8",
+ "date": "2026-11-13",
+ "titre": "Immunoglobulines intraveineuses en appoint dans la myosite récente",
+ "question": "Les immunoglobulines intraveineuses associées au traitement standard améliorent-elles l'évolution des myosites récentes ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, polymyosite, syndrome des antisynthétases, myopathie nécrosante auto-immune) sont traitées par corticoïdes puis immunosuppresseurs. Le retard de réponse expose à un handicap musculaire durable. Selon le principe « hit early, hit hard », un traitement intensif précoce pourrait accélérer la réduction de l'activité et prévenir les séquelles.\n\nLes immunoglobulines intraveineuses (IgIV) ont démontré leur efficacité dans la dermatomyosite (essai ProDERM) et dans les myosites corticorésistantes. Une étude pilote a rapporté une réponse rapide et cliniquement significative chez près de la moitié des patients traités en première ligne par IgIV seules. L'effet des IgIV en association précoce aux corticoïdes reste mal connu.\n\nCet essai de phase 2/3, mené à l'Amsterdam UMC, randomise 44 adultes ayant une myosite de moins de 12 mois, naïfs de traitement ou sans réponse clinique à un traitement antérieur limité. Les IgIV (Nanogam) sont comparées à un placebo en appoint du traitement standard.",
+ "interet": "Si le bénéfice est confirmé, les IgIV pourraient être proposées d'emblée en association aux corticoïdes dans les myosites récentes. L'étude porte sur un faible effectif et une évaluation à 12 semaines.",
+ "profil": "Des adultes ayant une myosite idiopathique évoluant depuis moins de 12 mois.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, myosite inflammatoire idiopathique (dermatomyosite, polymyosite, antisynthétase, myopathie nécrosante, myosite de chevauchement)",
+  "Durée de la maladie inférieure à 12 mois",
+  "Perte d'au moins 10 % au testing musculaire manuel et deux autres mesures IMACS anormales",
+  "Naïfs de traitement ou sans réponse clinique à des corticoïdes ou immunosuppresseurs limités",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Faiblesse sévère nécessitant d'emblée un traitement plus intensif (alitement, sonde de nutrition, CVF inférieure à 50 %)",
+  "Antécédent de thrombose dans les 10 ans",
+  "Réaction allergique sévère connue à un produit dérivé du sang",
+  "Autres contre-indications aux IgIV selon le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "IgIV en appoint",
+   "traitement": "Nanogam 2 g/kg sur 2 à 5 jours (maximum 80 g/jour, 180 g au total) à l'inclusion puis aux semaines 4 et 8"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusions de chlorure de sodium 0,9 % à l'inclusion puis aux semaines 4 et 8"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 12 semaines)",
+ "critere": "Variation du score total d'amélioration (TIS) à la semaine 12."
+}

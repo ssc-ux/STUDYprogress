@@ -1,0 +1,27 @@
+{
+ "h": "d1c5ae7b6bc3",
+ "date": "2026-11-13",
+ "titre": "Score pronostique dans la maladie d'Erdheim-Chester",
+ "question": "Peut-on construire un score pronostique de la survie et des séquelles à long terme dans la maladie d'Erdheim-Chester ?",
+ "contexte": "La maladie d'Erdheim-Chester (MEC) est une histiocytose non langerhansienne rare, avec une incidence inférieure à 5 cas pour 10 millions d'adultes par an. Elle est caractérisée par l'accumulation d'histiocytes spumeux dans les os longs, les tissus rétropéritonéaux et périrénaux, le cœur, le système nerveux central et l'hypophyse. Les formes vont de l'atteinte localisée asymptomatique à l'atteinte multiviscérale sévère.\n\nElle est portée par des mutations activatrices des voies MAPK et PI3K-AKT, en particulier BRAF V600E, avec une inflammation systémique médiée par les cytokines. Le diagnostic repose sur les recommandations internationales (Goyal, Blood 2020).\n\nPeu d'études ont évalué systématiquement le pronostic, et les facteurs connus, comme l'atteinte du système nerveux central, restent limités. Les conséquences sur la qualité de vie (handicap, dépression, troubles cognitifs) sont sous-estimées en pratique. Cette étude de cohorte coordonnée par le Meyer Children's Hospital IRCCS (Florence) vise à inclure 1 000 patients, prévalents et incidents, dans 7 centres de 4 pays, avec un suivi de 5 ans. Elle recueille les données cliniques, moléculaires, thérapeutiques et les questionnaires de qualité de vie.",
+ "interet": "Un score pronostique fondé sur la survie et les résultats rapportés par les patients aiderait à stratifier les patients et à adapter la surveillance et le traitement. Il pourrait servir de base à de futurs essais dans une maladie très rare.",
+ "profil": "Des patients (dès 7 ans) atteints de maladie d'Erdheim-Chester confirmée, prévalents et incidents.",
+ "inclusion": [
+  "Consentement éclairé signé (parent ou représentant légal pour les mineurs)",
+  "Diagnostic de MEC confirmé selon les recommandations internationales les plus récentes",
+  "Données cliniques, moléculaires, thérapeutiques et de réponse disponibles",
+  "Suivi d'au moins un an"
+ ],
+ "exclusion": [
+  "Données diagnostiques ou de suivi manquantes",
+  "Refus ou impossibilité de signer le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de maladie d'Erdheim-Chester",
+   "traitement": "Aucune intervention imposée ; consultations de suivi, recueil des données cliniques sur l'atteinte d'organes et la réponse au traitement, questionnaires de qualité de vie, origine géographique et survie"
+  }
+ ],
+ "duree": "5 ans",
+ "critere": "Survie globale à 5 ans, et associations avec le groupe clinique, l'atteinte d'organes, le traitement, la réponse, la toxicité, les comorbidités et l'origine géographique"
+}

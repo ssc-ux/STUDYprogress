@@ -1,0 +1,24 @@
+{
+ "h": "256abb8d0430",
+ "date": "2026-11-13",
+ "titre": "Extension de l'eplontersen au long cours dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "L'eplontersen est-il bien toléré sur le long terme chez les adultes atteints de cardiomyopathie amyloïde à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM), héréditaire ou sauvage, est une cardiopathie infiltrative qui provoque une insuffisance cardiaque progressive et un risque élevé de décès. Les stabilisateurs de la TTR et le vutrisiran, un ARN interférent, ont montré un bénéfice sur la morbi-mortalité. Ces traitements n'éliminent pas les dépôts, et la progression persiste chez de nombreux patients.\n\nL'eplontersen est un oligonucléotide antisens couplé à un ligand GalNAc, qui cible l'ARN messager de la TTR dans le foie et réduit la production de la protéine. Il est administré par injection sous-cutanée mensuelle. Il est déjà évalué dans la polyneuropathie liée à la TTR, et son bénéfice cardiaque est étudié dans l'étude pivot CARDIO-TTRansform (ION-682884-CS2). Cette étude de phase 3 est une extension ouverte de cette étude pivot, qui accueille aussi les patients de l'étude ISIS 420915-CS101. Elle vise surtout à documenter la sécurité à long terme. Le promoteur est Ionis Pharmaceuticals, avec des centres en France.",
+ "interet": "L'étude apportera des données de sécurité à 3 ans sur l'eplontersen, avec un suivi de la numération plaquettaire, de la fonction rénale et de la protéinurie. Elle permet aussi la continuité du traitement des patients de l'étude pivot.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine ayant terminé l'étude pivot ION-682884-CS2 ou l'étude ISIS 420915-CS101.",
+ "inclusion": [
+  "Période de traitement et visite de fin de traitement de l'étude pivot ION-682884-CS2 terminées de façon satisfaisante, ou ATTR-CM avec participation satisfaisante à l'étude ISIS 420915-CS101",
+  "Investigateur prêt à traiter le participant par eplontersen en ouvert",
+  "Acceptation de la supplémentation en vitamine A prévue au protocole"
+ ],
+ "exclusion": [
+  "Arrêt définitif du médicament de l'étude dans l'étude pivot ou dans l'étude ISIS 420915-CS101",
+  "Affection nouvelle ou aggravée jugée incompatible avec l'inclusion ou la poursuite de l'étude",
+  "Nécessité d'un médicament interdit dans l'étude pivot"
+ ],
+ "bras": [
+  {"nom": "Eplontersen", "traitement": "Eplontersen en injection sous-cutanée une fois par mois, jusqu'à 36 mois ou 6 mois après sa mise à disposition dans le pays"}
+ ],
+ "duree": "Jusqu'à 36 mois",
+ "critere": "Nombre de participants ayant des événements indésirables et des événements indésirables graves, avec suivi des plaquettes, du DFGe et du rapport protéinurie/créatininurie, jusqu'à 36 mois."
+}

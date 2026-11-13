@@ -1,0 +1,25 @@
+{
+ "h": "5cea96b6b0d3",
+ "date": "2026-11-13",
+ "titre": "Suivi à long terme des patients traités par NTLA-2002 dans l'angiœdème héréditaire",
+ "question": "Quelle est la sécurité à long terme de NTLA-2002 chez les patients ayant reçu ce traitement dans un essai antérieur ?",
+ "contexte": "L'angiœdème héréditaire (AOH) est une maladie rare due à un déficit en inhibiteur de la C1 estérase, avec production excessive de bradykinine et crises d'œdèmes récidivantes, parfois laryngés. Les traitements prophylactiques actuels nécessitent une administration répétée à vie.\n\nNTLA-2002 est une thérapie d'édition génique in vivo par CRISPR-Cas9, délivrée par nanoparticules lipidiques, qui inactive le gène KLKB1 de la prékallicréine pour réduire durablement la bradykinine après une administration unique. Les agences de santé demandent un suivi prolongé des sujets exposés à une édition génique, afin de détecter d'éventuels effets tardifs.\n\nCette étude observationnelle de suivi, promue par Intellia Therapeutics, inclut les patients ayant reçu une dose complète ou partielle de NTLA-2002 dans un essai parrainé ou soutenu par Intellia, qu'ils l'aient terminé ou arrêté. Elle recueille pendant jusqu'à 15 ans les événements indésirables liés au traitement.",
+ "interet": "Ces données renseignent la sécurité à long terme de l'édition génique in vivo, déterminante pour juger du rapport bénéfice-risque d'un traitement à dose unique.",
+ "profil": "Des adultes atteints d'angiœdème héréditaire ayant reçu NTLA-2002 dans un essai antérieur d'Intellia.",
+ "inclusion": [
+  "Participation terminée ou arrêtée dans un protocole d'Intellia où une dose complète ou partielle de NTLA-2002 a été reçue",
+  "Consentement éclairé pour l'étude de suivi",
+  "Volonté de se présenter aux visites et de suivre le calendrier du protocole"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Patients traités par NTLA-2002",
+   "traitement": "Aucun traitement dans cette étude ; suivi observationnel après une dose de NTLA-2002 reçue dans un essai antérieur"
+  }
+ ],
+ "duree": "Jusqu'à 15 ans",
+ "critere": "Incidence des événements indésirables, événements indésirables graves et événements d'intérêt particulier liés au traitement, jusqu'à 15 ans."
+}

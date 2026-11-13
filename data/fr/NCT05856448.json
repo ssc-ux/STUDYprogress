@@ -1,0 +1,35 @@
+{
+ "h": "d08bc0e211bd",
+ "date": "2026-11-13",
+ "titre": "GLPG3667 oral dans le lupus érythémateux systémique actif",
+ "question": "GLPG3667 par voie orale améliore-t-il l'activité du lupus systémique par rapport au placebo ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène, avec atteintes cutanées, articulaires, rénales et hématologiques. Malgré l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et des biothérapies, de nombreux patients conservent une maladie active.\n\nLes voies de l'interféron de type I et des cytokines inflammatoires jouent un rôle central dans le LES. Elles transmettent leurs signaux par la kinase TYK2, cible d'inhibiteurs oraux, ce qui offre une alternative aux biothérapies injectables.\n\nGLPG3667 est un inhibiteur oral de TYK2. Cette étude de phase 2 randomisée en double aveugle contre placebo, promue par Lakefront Biotherapeutics, compare deux doses de GLPG3667 à un placebo, une fois par jour pendant 48 semaines, chez environ 180 adultes atteints de LES actif. Le critère principal est la réponse SRI-4 à la semaine 32.",
+ "interet": "Un inhibiteur oral de TYK2 efficace élargirait l'arsenal du LES, avec l'avantage d'une voie orale par rapport aux biothérapies.",
+ "profil": "Des adultes atteints de lupus érythémateux systémique actif sous traitement de fond stable.",
+ "inclusion": [
+  "LES selon les critères EULAR/ACR 2019, diagnostiqué ≥ 24 semaines avant le dépistage",
+  "SLEDAI-2K total ≥ 6 et SLEDAI-2K clinique ≥ 4, confirmés par relecture centrale",
+  "Auto-anticorps positifs (ANA ≥ 1/80, anti-ADN natif ou anti-Sm)",
+  "Atteinte BILAG A ou B muco-cutanée ou musculo-squelettique (arthrite), ou ≥ 2 scores B",
+  "Traitement de fond (au moins un médicament requis) stable depuis ≥ 12 semaines"
+ ],
+ "exclusion": [
+  "Non détaillé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "GLPG3667 dose A",
+   "traitement": "GLPG3667 en gélules, une fois par jour pendant 48 semaines"
+  },
+  {
+   "nom": "GLPG3667 dose B",
+   "traitement": "GLPG3667 en gélules, une fois par jour pendant 48 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique, une fois par jour pendant 48 semaines"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Pourcentage de participants en réponse SRI-4 à la semaine 32."
+}

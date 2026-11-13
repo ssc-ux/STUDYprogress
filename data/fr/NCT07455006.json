@@ -1,0 +1,14 @@
+{
+ "h": "6a7713267f69",
+ "date": "2026-11-13",
+ "titre": "QL0911 contre placebo dans le PTI chronique de l'enfant déjà traité",
+ "question": "QL0911 induit-il une réponse plaquettaire durable chez les enfants atteints de PTI chronique déjà traité ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune responsable d'une thrombopénie isolée. Chez l'enfant, il guérit souvent spontanément, mais une part des patients évolue vers une forme chronique, persistant plus de 12 mois, avec risque hémorragique et retentissement sur la qualité de vie. Les corticoïdes et les immunoglobulines polyvalentes sont utilisés en première ligne, mais les rechutes sont fréquentes.\n\nLes agonistes du récepteur de la thrombopoïétine, comme le romiplostim ou l'éltrombopag, constituent l'option de seconde ligne de référence en cas de PTI persistant ou chronique. Leur accès et leur autorisation pédiatrique varient selon les pays.\n\nQL0911, développé par Qilu Pharmaceutical, est un agoniste du récepteur de la TPO (c-Mpl) administré par voie sous-cutanée une fois par semaine, avec une dose croissante de 1 à 10 µg/kg. Ce premier essai de phase 3 randomisé contre placebo l'évalue chez des enfants de 1 à moins de 18 ans, ayant un PTI de plus de 12 mois et déjà traité.",
+ "interet": "Si l'efficacité et la tolérance sont confirmées, QL0911 pourrait élargir l'arsenal pédiatrique disponible dans le PTI chronique, notamment pour les enfants en échec ou intolérants aux autres agonistes de la TPO.",
+ "profil": "Des enfants de 1 à moins de 18 ans atteints de PTI primaire chronique, déjà traités, avec une thrombopénie < 30 G/L.",
+ "inclusion": ["Âge de 1 à < 18 ans", "PTI primaire diagnostiqué depuis au moins 12 mois", "Au moins un traitement de première ligne sans réponse ou avec rechute", "Plaquettes < 30 G/L dans les 48 h avant la première dose", "ECOG 0, 1 ou 2", "Contraception efficace chez les patients en âge de procréer"],
+ "exclusion": ["Anomalie médullaire ou myélodysplasie autre que celle liée au PTI", "Splénectomie dans les 12 semaines précédentes", "Traitement du PTI (y compris de secours) dans les 2 semaines précédentes", "Agoniste de la TPO (romiplostim, éltrombopag, rhTPO) dans les 4 semaines précédentes", "Anticorps thérapeutique dans les 14 semaines précédentes", "Cancer actuel ou passé", "Créatinine ou bilirubine > 1,5 N, ALAT/ASAT > 3 N, anomalie de coagulation"],
+ "bras": [{"nom": "QL0911", "traitement": "Injection sous-cutanée hebdomadaire, dose initiale 1 µg/kg, augmentée de 1 µg/kg par semaine jusqu'à 10 µg/kg maximum"}, {"nom": "Placebo", "traitement": "Placebo en injection sous-cutanée hebdomadaire"}],
+ "duree": "Non précisé (évaluation du critère principal entre les semaines 18 et 25)",
+ "critere": "Proportion de patients avec une réponse plaquettaire durable entre les semaines 18 et 25"
+}

@@ -1,0 +1,27 @@
+{
+ "h": "448443b31c49",
+ "date": "2026-11-13",
+ "titre": "Immunoglobulines sous-cutanées (IgPro20) contre placebo dans la dermatomyosite de l'adulte",
+ "question": "Les immunoglobulines sous-cutanées améliorent-elles la dermatomyosite de l'adulte plus que le placebo, selon le score global d'amélioration (TIS) ?",
+ "contexte": "La dermatomyosite est une myopathie inflammatoire idiopathique avec atteinte cutanée caractéristique (érythème héliotrope, papules de Gottron), faiblesse musculaire proximale et, parfois, atteinte pulmonaire ou cancer associé. Le traitement repose sur les corticoïdes et des immunosuppresseurs (méthotrexate, azathioprine, mycophénolate). Un nombre notable de patients reste actif malgré ce traitement, ou subit les effets d'une corticothérapie prolongée.\n\nLes immunoglobulines intraveineuses ont montré un bénéfice dans la dermatomyosite dans l'essai ProDERM, et sont utilisées en pratique dans les formes réfractaires. Elles demandent des perfusions mensuelles en milieu de soins. L'IgPro20 est une préparation d'immunoglobulines G humaines administrée par voie sous-cutanée, qui pourrait être auto-administrée à domicile. Cette étude de phase 3 randomisée en double aveugle contre placebo (solution d'albumine) évalue sa réponse selon le score TIS à la semaine 25. Elle porte aussi sur la sécurité et la pharmacocinétique. Le promoteur est CSL Behring.",
+ "interet": "L'étude pourrait apporter une alternative sous-cutanée, plus facile à administrer, aux immunoglobulines intraveineuses dans la dermatomyosite. Elle utilise le TIS, critère validé de réponse dans les myosites.",
+ "profil": "Des adultes atteints de dermatomyosite active, avec corticothérapie ≤ 20 mg/j d'équivalent prednisolone.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Myopathie inflammatoire idiopathique au moins probable (critères EULAR/ACR), avec éruption de dermatomyosite confirmée",
+  "Activité définie par l'éruption ou par une mesure objective d'activité",
+  "EVA globale de l'activité par le médecin ≥ 2,0 cm sur 10 et MMT-8 ≤ 142, ou CDASI activité ≥ 14",
+  "Corticoïdes ≤ 20 mg/j d'équivalent prednisolone"
+ ],
+ "exclusion": [
+  "Myosite associée à un cancer",
+  "Cancer actif ou diagnostiqué dans les 5 dernières années",
+  "Score global de dommages évalué par le médecin ≥ 3, ou amélioration cliniquement pertinente entre le dépistage et l'inclusion"
+ ],
+ "bras": [
+  {"nom": "IgPro20", "traitement": "Immunoglobulines G humaines par voie sous-cutanée ; dose et rythme non précisés"},
+  {"nom": "Placebo", "traitement": "Solution d'albumine humaine par voie sous-cutanée"}
+ ],
+ "duree": "Non précisé (critère principal à la semaine 25)",
+ "critere": "Taux de répondeurs selon le score global d'amélioration (TIS) à la semaine 25."
+}

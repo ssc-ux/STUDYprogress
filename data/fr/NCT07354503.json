@@ -1,0 +1,42 @@
+{
+ "h": "e8d97c6adf96",
+ "date": "2026-11-13",
+ "titre": "Télitacicept dans la néphrite du purpura rhumatoïde de l'enfant en vie réelle",
+ "question": "Quelle est l'efficacité du télitacicept par rapport aux glucocorticoïdes dans la néphrite du purpura rhumatoïde de l'enfant en pratique courante ?",
+ "contexte": "Le purpura rhumatoïde (vascularite à IgA) est la vascularite la plus fréquente de l'enfant. La néphrite associée (IgAVN) en est la complication la plus grave, avec risque de protéinurie persistante et d'insuffisance rénale chronique. Les formes avec protéinurie importante sont traitées par glucocorticoïdes, avec ou sans immunosuppresseurs (mycophénolate, cyclophosphamide), au prix d'effets indésirables chez l'enfant et d'une efficacité inconstante.\n\nLe télitacicept neutralise BLyS (BAFF) et APRIL, cytokines impliquées dans la production d'IgA anormalement glycosylées. Il a été essentiellement étudié dans le lupus et la néphropathie à IgA de l'adulte, avec peu de données pédiatriques.\n\nCette étude observationnelle rétrospective et prospective de l'hôpital pour enfants de l'université du Zhejiang inclut 300 enfants de 3 à 17 ans avec IgAVN (rapport protéinurie/créatininurie d'au moins 1 mg/mg, DFGe d'au moins 60). Elle compare trois groupes selon le traitement reçu : glucocorticoïdes seuls, télitacicept seul, ou association des deux.",
+ "interet": "Elle fournira un premier éclairage en vie réelle sur la place du télitacicept en pédiatrie, en particulier comme alternative aux corticoïdes, sans valeur de preuve équivalente à un essai randomisé.",
+ "profil": "Des enfants de 3 à 17 ans atteints de néphrite du purpura rhumatoïde avec protéinurie significative.",
+ "inclusion": [
+  "Âge de 3 à 17 ans",
+  "IgAVN diagnostiquée sur les signes cliniques et l'histologie rénale",
+  "Rapport protéinurie/créatininurie d'au moins 1 mg/mg",
+  "DFGe d'au moins 60 mL/min/1,73 m² (Schwartz modifiée)",
+  "Biopsie facultative, avec exclusion des grades ISKDC IV ou plus"
+ ],
+ "exclusion": [
+  "Déficit immunitaire, tuberculose, infection active (CMV, EBV, hépatites B ou C, VIH, mycose profonde)",
+  "Neutropénie, anémie, thrombopénie ou anomalie hépatique significatives au diagnostic",
+  "Antécédent de tumeur ou de maladie systémique sévère",
+  "Autre maladie urinaire (néphropathie héréditaire)",
+  "Ostéoporose sévère nécessitant un traitement",
+  "Maladie mentale non contrôlée ou déficience intellectuelle",
+  "Traitement ciblant les lymphocytes B dans les 6 mois, greffe, vaccin vivant récent",
+  "Médecine traditionnelle chinoise néphrologique pendant le traitement"
+ ],
+ "bras": [
+  {
+   "nom": "Glucocorticoïdes",
+   "traitement": "Glucocorticoïdes sans immunosuppresseur ni biothérapie"
+  },
+  {
+   "nom": "Télitacicept",
+   "traitement": "Télitacicept sans glucocorticoïdes ni immunosuppresseur"
+  },
+  {
+   "nom": "Glucocorticoïdes et télitacicept",
+   "traitement": "Association des deux, sans autre immunosuppresseur ni biothérapie"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Taux de rémission complète de la protéinurie et variation de la protéinurie, entre l'inclusion et la semaine 48."
+}

@@ -1,0 +1,38 @@
+{
+ "h": "1ff22634745e",
+ "date": "2026-11-13",
+ "titre": "Baricitinib versus méthotrexate sur l'induration cutanée de la sclérodermie systémique diffuse",
+ "question": "Le baricitinib réduit-il l'induration cutanée (score de Rodnan modifié) à 24 semaines, par rapport au méthotrexate, dans la sclérodermie systémique cutanée diffuse ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune responsable d'une induration cutanée progressive, d'une fibrose pulmonaire et d'atteintes d'organes. Elle se divise en forme cutanée limitée et forme cutanée diffuse. L'atteinte cutanée est évaluée par le score de Rodnan modifié (mRSS).\n\nLe méthotrexate est utilisé contre l'induration cutanée de la forme diffuse, mais sa réponse est inconstante. Les inhibiteurs de JAK constituent une piste thérapeutique. Le baricitinib, inhibiteur de JAK1/2, a montré une certaine efficacité dans la ScS diffuse.\n\nCet essai de phase 3, ouvert (évaluateur en aveugle) et randomisé, est mené dans le service de rhumatologie de l'Université médicale Bangabandhu Sheikh Mujib de Dhaka (Bangladesh). Il inclut 24 patients atteints de ScS diffuse évoluant depuis 60 mois au plus, avec un mRSS ≥ 10. Le groupe A reçoit du baricitinib 4 mg par jour et le groupe B du méthotrexate 25 mg par semaine avec de l'acide folique. Le critère principal est la variation du mRSS à 24 semaines.",
+ "interet": "L'essai pourrait fournir des données comparatives sur un inhibiteur de JAK dans la sclérodermie diffuse précoce. L'effectif est très limité et les résultats devront être confirmés.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse évoluant depuis 60 mois au plus, avec un score de Rodnan modifié d'au moins 10.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR 2013",
+  "Forme cutanée diffuse selon LeRoy et Medsger 2001",
+  "Durée de la maladie ≤ 60 mois depuis la première manifestation non Raynaud",
+  "mRSS ≥ 10 à l'inclusion",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatismale (fibromyalgie et myopathie sclérodermique tolérées)",
+  "Forme cutanée limitée ou sine scleroderma",
+  "Chirurgie majeure dans les 8 semaines précédentes",
+  "Ulcère infecté ou infection bactérienne grave",
+  "Corticoïdes > 10 mg/j de prednisone; mycophénolate > 2 g/j",
+  "CVF ≤ 50 % ou DLCO ≤ 40 % de la théorique",
+  "Tuberculose active, hépatite B ou C",
+  "Maladie rénale, hépatique, hématologique ou autre non contrôlée; grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A, baricitinib",
+   "traitement": "Baricitinib 4 mg par jour par voie orale"
+  },
+  {
+   "nom": "Groupe B, méthotrexate",
+   "traitement": "Méthotrexate 25 mg par semaine avec acide folique 5 mg par semaine"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Variation du score de Rodnan modifié (mRSS) à 24 semaines."
+}

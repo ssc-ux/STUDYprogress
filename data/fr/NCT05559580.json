@@ -1,0 +1,35 @@
+{
+ "h": "bb95a1809225",
+ "date": "2026-11-13",
+ "titre": "Avenciguat versus placebo dans la sclérodermie systémique : fonction pulmonaire et symptômes",
+ "question": "L'avenciguat ralentit-il le déclin de la capacité vitale forcée dans la sclérodermie systémique active ?",
+ "contexte": "La sclérodermie systémique (SSc) associe fibrose cutanée et viscérale, vasculopathie et auto-immunité. La pneumopathie interstitielle et l'atteinte vasculaire (phénomène de Raynaud sévère, ulcères digitaux) sont des causes majeures de morbidité et de mortalité.\n\nLes traitements actuels comprennent les immunosuppresseurs (mycophénolate, cyclophosphamide), le tocilizumab et le nintédanib pour la pneumopathie interstitielle, ainsi que les vasodilatateurs. Leur efficacité est partielle, ce qui justifie la recherche de nouvelles voies.\n\nL'avenciguat (BI 685509) est un activateur de la guanylate cyclase soluble, qui renforce la voie NO-GMPc et pourrait agir sur la vasculopathie et la fibrose. Cette étude de phase 2 de Boehringer Ingelheim, randomisée en double aveugle contre placebo, inclut des adultes avec SSc cutanée diffuse (ou limitée avec anti-Scl-70) et maladie active récente. Le traitement est pris 3 fois par jour pendant au moins 11 mois, avec extension possible ensuite.",
+ "interet": "Un effet sur la CVF et sur les symptômes ouvrirait une voie vasculo-fibrosante nouvelle dans la SSc précoce, où les options sont limitées.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse (ou cutanée limitée avec anti-Scl-70) et maladie active récente.",
+ "inclusion": [
+  "Âge ≥ 18 ans (≥ 16 ans au Royaume-Uni)",
+  "Sclérodermie systémique selon ACR/EULAR 2013",
+  "Forme diffuse débutée depuis ≤ 7 ans, ou forme limitée avec anti-Scl-70 débutée depuis ≤ 2 ans",
+  "Maladie active (début récent, atteinte cutanée nouvelle ou aggravée, aggravation du score de Rodnan, ou frottement tendineux)",
+  "Biomarqueur élevé (CRP ≥ 6 mg/L, VS ≥ 28 mm/h ou KL-6 ≥ 1 000 U/mL)"
+ ],
+ "exclusion": [
+  "Toute forme d'hypertension pulmonaire",
+  "CVF < 50 % de la théorique ou DLCO corrigée < 40 %",
+  "Autre connectivite auto-immune (sauf fibromyalgie, myopathie sclérodermique, Sjögren secondaire)",
+  "Crise rénale sclérodermique dans les 6 mois, DFGe < 30 mL/min/1,73 m² ou dialyse",
+  "Cirrhose de tout stade ou cholestase (phosphatases alcalines > 4 × LSN)"
+ ],
+ "bras": [
+  {
+   "nom": "Avenciguat (BI 685509)",
+   "traitement": "Avenciguat en comprimés, 3 fois par jour, pendant au moins 11 mois"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique, 3 fois par jour"
+  }
+ ],
+ "duree": "Au moins 11 mois, avec extension possible",
+ "critere": "Vitesse de déclin de la capacité vitale forcée (en mL) sur 48 semaines."
+}

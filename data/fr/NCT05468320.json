@@ -1,0 +1,32 @@
+{
+ "h": "2d320f0c2d0d",
+ "date": "2026-11-13",
+ "titre": "Caplacizumab et immunosuppresseurs sans échange plasmatique de première ligne dans le PTT immunologique",
+ "question": "Peut-on obtenir une rémission du PTT immunologique avec le caplacizumab et l'immunosuppression, sans échange plasmatique en première ligne ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique immunologique (PTTi) est une microangiopathie thrombotique rare, liée à un déficit sévère en ADAMTS13 par auto-anticorps. Sans traitement, la mortalité est très élevée. Le traitement de référence associe des échanges plasmatiques thérapeutiques (EP) quotidiens, des corticoïdes et, de plus en plus, le rituximab.\n\nLe caplacizumab est un nanocorps anti-facteur von Willebrand qui bloque l'interaction entre le FvW et les plaquettes. Il protège de la formation de microthrombi pendant que l'immunosuppression agit. Il a montré dans les études antérieures une normalisation plus rapide des plaquettes et moins de complications thrombotiques lorsqu'il est ajouté aux EP.\n\nLes EP restent cependant contraignants : accès veineux central, risques allergiques et infectieux, mobilisation de moyens hospitaliers lourds. MAYARI est une étude de phase 3 à bras unique, promue par Sanofi, qui teste une stratégie sans EP de première ligne chez des patients au tableau peu sévère (score français de MAT de 1 ou 2). Elle compte 51 patients inclus, dont plusieurs centres français.",
+ "interet": "Si la rémission sans EP est obtenue chez une proportion élevée de patients, cette stratégie pourrait éviter les EP chez les formes de gravité modérée. Elle simplifierait la prise en charge et réduirait les complications liées aux EP. Le bras unique limite toutefois la comparaison avec la stratégie standard.",
+ "profil": "Des adultes de 18 à 80 ans présentant un épisode de PTT immunologique, initial ou récidivant, de gravité modérée (score français de MAT de 1 ou 2).",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Diagnostic clinique de PTTi (initial ou récidive) : thrombopénie, anémie hémolytique mécanique, fonction rénale relativement préservée",
+  "Diagnostic confirmé par le dosage d'ADAMTS13 dans les 48 heures",
+  "Score français de MAT de 1 ou 2",
+  "Contraception adaptée chez les femmes en âge de procréer et les hommes ayant une partenaire en âge de procréer"
+ ],
+ "exclusion": [
+  "Plaquettes ≥ 100 G/L, ou créatinine > 200 µmol/L avec plaquettes > 30 G/L (SHU atypique possible)",
+  "Autre cause de thrombopénie : infection à E. coli O157, SHU atypique, MAT post-greffe, sepsis, CIVD, PTT congénital",
+  "Saignement actif significatif ou comorbidité à haut risque hémorragique",
+  "Anticoagulants ou antiagrégants ne pouvant être interrompus (AVK, AOD, héparine, AINS hors aspirine)",
+  "Atteinte neurologique ou cardiaque sévère, ou espérance de vie < 6 mois",
+  "Test COVID positif"
+ ],
+ "bras": [
+  {
+   "nom": "Caplacizumab et immunosuppression sans EP de première ligne",
+   "traitement": "Caplacizumab quotidien, corticoïdes ± anticorps anti-CD20 (rituximab ou biosimilaire), sans échange plasmatique de première ligne"
+  }
+ ],
+ "duree": "Environ 24 semaines au maximum (jusqu'à 12 semaines de traitement puis 12 semaines de suivi)",
+ "critere": "Proportion de patients en rémission sans recours aux échanges plasmatiques, de la première dose jusqu'à la fin du suivi (environ 24 semaines)"
+}

@@ -1,0 +1,34 @@
+{
+ "h": "b760040b15b9",
+ "date": "2026-11-13",
+ "titre": "Antiagrégant à base de clopidogrel versus warfarine après AVC lié au syndrome des antiphospholipides",
+ "question": "Un traitement antiagrégant à base de clopidogrel est-il une alternative à la warfarine en prévention secondaire de l'AVC lié au syndrome des antiphospholipides (SAPL) ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) est une cause reconnue d'AVC ischémique, souvent chez des patients relativement jeunes. Les recommandations proposent la warfarine en prévention secondaire de l'AVC lié au SAPL, mais cette attitude repose surtout sur des études rétrospectives des années 1990 et sur des avis d'experts, plus que sur des essais de haute qualité.\n\nLa warfarine impose une surveillance de l'INR et expose au risque hémorragique, avec un poids clinique important chez des sujets jeunes. Les données sur les antiagrégants autres que l'aspirine, comme le clopidogrel, sont très limitées dans cette indication. Il est donc utile de vérifier si la warfarine est réellement indispensable chez tous les patients.\n\nAPS-STROKE est un essai exploratoire de phase 4, multicentrique, prospectif, randomisé, en ouvert avec évaluation en aveugle du critère. Il est promu par l'hôpital universitaire de Séoul, avec Samjin Pharmaceutical, et inclut 200 adultes ayant un SAPL défini et des antécédents d'AVC ischémique. Les profils à haut risque (triple positivité ou titres élevés persistants), les patients lupiques et ceux ayant une indication à un traitement antithrombotique continu sont exclus.",
+ "interet": "Si le clopidogrel s'avère comparable à la warfarine, il pourrait offrir une option plus simple pour certains patients à risque modéré. Les résultats ne s'appliqueraient pas aux profils sérologiques à haut risque exclus de l'étude.",
+ "profil": "Des adultes de 19 ans et plus ayant un syndrome des antiphospholipides biologique et un antécédent d'AVC ischémique, AIT ou ischémie artérielle rétinienne.",
+ "inclusion": [
+  "Âge ≥ 19 ans",
+  "Antécédent d'infarctus cérébral, d'AIT ou d'ischémie artérielle rétinienne",
+  "Critères biologiques du syndrome des antiphospholipides remplis",
+  "Consentement du patient ou de son représentant"
+ ],
+ "exclusion": [
+  "Profil d'anticorps à haut risque (triple positivité, titres persistants > 80 U/mL d'anticardiolipine ou d'anti-β2GPI)",
+  "Lupus systémique",
+  "Impossibilité d'arrêter un anticoagulant ou antiagrégant antérieur (fibrillation atriale, valvulopathie, angioplastie coronaire)",
+  "Grossesse, allaitement ou projet de grossesse pendant l'étude",
+  "Participation jugée impossible pendant plus de 4 ans par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Antiagrégant à base de clopidogrel",
+   "traitement": "Clopidogrel 75 mg par jour, avec d'autres antiagrégants possibles à la discrétion de l'investigateur"
+  },
+  {
+   "nom": "Warfarine",
+   "traitement": "Warfarine, INR cible de 2,0 à 3,0"
+  }
+ ],
+ "duree": "4 ans",
+ "critere": "Critère composite (composition non précisée dans l'extrait disponible), évalué sur 4 ans."
+}

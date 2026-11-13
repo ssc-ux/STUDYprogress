@@ -1,0 +1,28 @@
+{
+ "h": "ae58b0e66607",
+ "date": "2026-11-13",
+ "titre": "Étude de poursuite de l'avapritinib pour les patients bénéficiant du traitement dans la mastocytose systémique",
+ "question": "Quelle est la sécurité à long terme de l'avapritinib chez les patients issus d'études du promoteur qui continuent d'en bénéficier ?",
+ "contexte": "La mastocytose systémique est une maladie clonale des mastocytes, le plus souvent liée à la mutation KIT D816V. Elle va de formes indolentes, symptomatiques mais d'évolution lente, à des formes avancées (agressives, leucémie à mastocytes) de pronostic réservé. L'avapritinib est un inhibiteur sélectif de KIT et de PDGFRA. Il est autorisé dans la mastocytose systémique avancée et dans la forme indolente symptomatique, après des essais pivots (PATHFINDER, PIONEER).\n\nLes patients qui répondent à l'avapritinib dans une étude doivent pouvoir poursuivre le traitement après sa clôture. Cette étude de phase 4, ouverte et à bras unique, sert de passerelle (rollover) pour ces patients. Elle permet de suivre la sécurité à long terme du médicament dans des conditions proches de la pratique. Le promoteur est Blueprint Medicines.",
+ "interet": "L'étude assure la continuité du traitement des patients répondeurs. Elle apportera des données de sécurité au long cours sur l'avapritinib dans la mastocytose systémique.",
+ "profil": "Des patients ayant participé à une étude d'avapritinib de Blueprint Medicines et qui continuent d'en tirer un bénéfice clinique.",
+ "inclusion": [
+  "Participation antérieure à une étude d'avapritinib de Blueprint Medicines",
+  "Visite de fin d'étude réalisée dans l'étude parent, avec observance satisfaisante",
+  "Bénéfice clinique persistant sous avapritinib",
+  "Consentement écrit signé",
+  "Contraception hautement efficace",
+  "Test de grossesse sérique négatif dans les 20 jours avant la première dose (femmes en âge de procréer)"
+ ],
+ "exclusion": [
+  "Participation à une autre étude interventionnelle",
+  "Incapacité ou refus de respecter les procédures et restrictions de l'étude",
+  "Allaitement",
+  "Autres critères définis par le protocole"
+ ],
+ "bras": [
+  {"nom": "Avapritinib", "traitement": "Avapritinib, poursuite du traitement ; dose non précisée"}
+ ],
+ "duree": "Jusqu'à environ 4 ans",
+ "critere": "Incidence des événements indésirables graves, des événements indésirables d'intérêt particulier et des événements conduisant à l'arrêt, jusqu'à environ 4 ans."
+}

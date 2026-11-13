@@ -1,0 +1,14 @@
+{
+"h": "d8eff525b277",
+"date": "2026-11-13",
+"titre": "Rapports albumine/globuline et plaquettes/albumine comme marqueurs de la néphrite lupique",
+"question": "Les rapports albumine/globuline et plaquettes/albumine sont-ils associés à la présence et à la classe histologique de la néphrite lupique ?",
+"contexte": "La néphrite lupique est l'une des manifestations les plus fréquentes et les plus graves du lupus systémique, et un facteur majeur de mauvais pronostic. Un diagnostic tardif augmente le risque d'insuffisance rénale et d'évolution vers l'insuffisance rénale terminale.\n\nLes marqueurs usuels (protéinurie, rapport protéinurie/créatininurie, clairance de la créatinine, anticorps anti-ADN natif, complément) manquent souvent de sensibilité et de spécificité pour le diagnostic précoce et le suivi. La biopsie rénale reste nécessaire mais est invasive.\n\nLe rapport albumine/globuline reflète l'inflammation et la dysrégulation immune : l'hypoalbuminémie liée à l'inflammation ou à la protéinurie et l'élévation des immunoglobulines le diminuent, et des valeurs basses ont été associées à l'activité du lupus et aux atteintes d'organe. Le rapport plaquettes/albumine associe inflammation et état nutritionnel. Cette étude observationnelle d'Assiut University (Égypte), sur 120 patients, compare ces deux rapports selon la présence de néphrite et selon les classes de la biopsie rénale.",
+"interet": "Si ces rapports sont discriminants, ils offriraient des indices peu coûteux, calculés à partir d'un bilan sanguin de routine, pour repérer la néphrite lupique et estimer sa sévérité. Les résultats resteront à valider dans d'autres populations.",
+"profil": "Des adultes atteints de lupus systémique, avec ou sans néphrite lupique, disposant d'un bilan biologique et d'une biopsie rénale.",
+"inclusion": ["Âge ≥ 18 ans", "Lupus systémique selon les critères ACR/EULAR 2019", "Néphrite lupique selon les critères ACR", "Bilan biologique de base et biopsie rénale disponibles"],
+"exclusion": ["Hépatopathie chronique, maladie hématologique ou cancer modifiant l'albumine, les globulines ou les plaquettes", "Médicaments néphrotoxiques non liés au traitement du lupus", "Infection récente ou état inflammatoire aigu"],
+"bras": [{"nom": "Patients lupiques", "traitement": "Cohorte observée ; calcul des rapports albumine/globuline et plaquettes/albumine, comparés à la présence et à la classe de la néphrite lupique"}],
+"duree": "Non précisé (mesures à l'inclusion)",
+"critere": "Association des rapports albumine/globuline et plaquettes/albumine avec la présence de néphrite lupique, et leur comparaison entre classes histologiques, à l'inclusion."
+}

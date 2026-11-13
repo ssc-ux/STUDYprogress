@@ -1,0 +1,41 @@
+{
+ "h": "493b92bb7810",
+ "date": "2026-11-13",
+ "titre": "KPL-387 dans la péricardite récidivante",
+ "question": "Le KPL-387 contrôle-t-il les épisodes aigus de péricardite récidivante et réduit-il le risque de récidive ?",
+ "contexte": "La péricardite récidivante est une inflammation du péricarde qui récidive après un premier épisode, avec douleur thoracique, syndrome inflammatoire et épanchement. Le traitement repose sur les AINS, la colchicine et les corticoïdes, souvent en décroissance difficile, avec une dépendance aux corticoïdes chez certains patients. L'inflammation implique la voie de l'interleukine-1.\n\nLe rilonacept, anti-IL-1 approuvé dans cette indication, réduit les récidives mais requiert des injections hebdomadaires. Le KPL-387 est un anticorps monoclonal anti-récepteur de l'IL-1 destiné à une administration sous-cutanée moins fréquente. PASTORALE est une étude de phase 2/3 en trois parties. En phase 2, plusieurs doses et fréquences (100 ou 300 mg, toutes les 2 ou 4 semaines) sont testées pendant un épisode aigu pour choisir la dose. En phase 3, après une période de traitement ouvert à l'insu du patient, les répondeurs sont randomisés pour poursuivre le KPL-387 ou passer au placebo (retrait randomisé). Une extension à long terme suit. Le promoteur est Kiniksa ; 325 participants sont prévus.",
+ "interet": "Un anti-IL-1 espacé réduirait la fréquence des injections pour les patients ayant une péricardite récidivante dépendante des corticoïdes. L'essai fournira aussi les données de dose nécessaires au développement.",
+ "profil": "Des adultes de 18 à 80 ans, pesant au moins 40 kg, atteints de péricardite récidivante malgré un traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 80 ans, poids ≥ 40 kg",
+  "Diagnostic de péricardite récidivante",
+  "Signes et symptômes persistants malgré les traitements standards",
+  "Phase 2 : AINS et/ou colchicine en cours",
+  "Phase 3 : AINS, colchicine et/ou corticoïdes en cours (toute association)"
+ ],
+ "exclusion": [
+  "Péricardite secondaire à certaines étiologies exclues par le protocole",
+  "Médicament expérimental dans les 4 semaines précédentes ou prévu",
+  "Tuberculose active ou latente non traitée, déficit immunitaire, VIH",
+  "Radiographie thoracique avec signe de cancer, de tuberculose ou d'infection active",
+  "Cancer dans les 5 ans (hors exceptions)",
+  "Infection active, chronique ou récurrente (> 3 épisodes en 12 mois), ou infection grave récente",
+  "Greffe d'organe (hors cornée ancienne)"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 2 : KPL-387 100 mg ou 300 mg",
+   "traitement": "KPL-387 sous-cutané toutes les 2 semaines ou toutes les 4 semaines (4 groupes), jusqu'à la semaine 22"
+  },
+  {
+   "nom": "Phase 3 : KPL-387 puis retrait randomisé",
+   "traitement": "Période initiale de KPL-387 en simple aveugle, puis randomisation 1:1 vers KPL-387 ou placebo en double aveugle"
+  },
+  {
+   "nom": "Extension à long terme",
+   "traitement": "KPL-387 pour les participants des phases 2 et 3"
+  }
+ ],
+ "duree": "Non précisé (extension à long terme jusqu'à 24 mois)",
+ "critere": "Phase 2 : délai de réponse au traitement dans les 24 semaines ; phase 3 : délai jusqu'à la récidive de péricardite ; extension : taux annualisé de récidives jusqu'à 24 mois"
+}

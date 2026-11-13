@@ -1,0 +1,37 @@
+{
+ "h": "e1e759c9c033",
+ "date": "2026-11-13",
+ "titre": "Dose initiale de corticoïdes dans la néphrite lupique proliférative de l'enfant : faible ou forte",
+ "question": "Une dose initiale faible de glucocorticoïdes permet-elle une réponse rénale totale à 24 semaines comparable à la dose forte standard chez l'enfant atteint de néphrite lupique proliférative ?",
+ "contexte": "Le lupus systémique de l'enfant est une maladie auto-immune chronique sévère avec une forte fréquence d'atteintes d'organes majeures. La néphrite lupique touche plus de la moitié des enfants et, dans ses formes prolifératives (classes III, IV, III+V, IV+V), elle expose à l'insuffisance rénale aiguë, à l'évolution vers l'insuffisance rénale terminale et à un mauvais pronostic à long terme.\n\nLes glucocorticoïdes restent la base de l'induction. Les recommandations récentes de l'adulte privilégient des schémas à plus faible dose avec décroissance rapide, pour limiter la toxicité (croissance, os, métabolisme, infections), alors que les recommandations pédiatriques maintiennent le plus souvent des doses initiales élevées. La dose optimale chez l'enfant est incertaine.\n\nL'essai LIGHT, de phase 4 randomisé, promu par le Peking Union Medical College Hospital, inclut 198 enfants de 6 à moins de 18 ans pesant au moins 20 kg, avec une néphrite lupique proliférative prouvée par biopsie et une protéinurie d'au moins 1 g/24 h. Il compare un schéma de prednisone à faible dose à un schéma standard à forte dose.",
+ "interet": "Si la faible dose est aussi efficace, elle pourrait devenir la référence pédiatrique avec moins d'effets indésirables des corticoïdes. Cet essai répond à un manque de données randomisées chez l'enfant.",
+ "profil": "Des enfants et adolescents de 6 à moins de 18 ans atteints de lupus avec néphrite lupique proliférative.",
+ "inclusion": [
+  "Âge de 6 à moins de 18 ans, poids ≥ 20 kg",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Néphrite lupique de classe III, IV, III+V ou IV+V sur biopsie (ISN/RPS)",
+  "Protéinurie ≥ 1,0 g/24 h (ou ≥ 25 mg/kg) ou rapport protéinurie/créatininurie ≥ 1,0 g/g",
+  "Leucocytes ≥ 3,0×10⁹/L et lymphocytes ≥ 1,0×10⁹/L",
+  "Pas de bolus de méthylprednisolone antérieur, exposition aux corticoïdes ≤ 2 semaines (≤ 30 mg/jour ou ≤ 1 mg/kg/jour)"
+ ],
+ "exclusion": [
+  "Diagnostic de lupus incertain, lupus monogénique confirmé ou déficit immunitaire",
+  "Infection sévère (hépatite C, hépatite B active, VIH, tuberculose, mycose sévère)",
+  "Lupus neuropsychiatrique sévère",
+  "Hémoglobine < 60 g/L, plaquettes < 10×10⁹/L ou aplasie médullaire",
+  "Insuffisance cardiaque NYHA ≥ II, atteinte pulmonaire sévère nécessitant une assistance respiratoire",
+  "DFG < 60 mL/min/1,73 m², hémorragie digestive, pancréatite ou atteinte hépatique sévères"
+ ],
+ "bras": [
+  {
+   "nom": "Forte dose (contrôle)",
+   "traitement": "Prednisone à forte dose, schéma standard pédiatrique (doses non précisées)"
+  },
+  {
+   "nom": "Faible dose (intervention)",
+   "traitement": "Prednisone à faible dose (doses non précisées)"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Réponse rénale totale à la semaine 24."
+}

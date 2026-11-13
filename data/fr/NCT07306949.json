@@ -1,0 +1,31 @@
+{
+ "h": "48dbcb4aca46",
+ "date": "2026-11-13",
+ "titre": "Acoramidis en vie réelle dans la cardiomyopathie à TTR et biomarqueurs cardiaques",
+ "question": "L'acoramidis prévient-il la progression de l'ATTR-CM en pratique réelle, mesurée par le NT-proBNP et l'intensification des diurétiques ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cause sous-diagnostiquée d'insuffisance cardiaque du sujet âgé. L'accumulation de fibrilles de TTR mal repliée épaissit le myocarde et conduit à une insuffisance cardiaque progressive, avec un pronostic sombre. Les stabilisateurs de la TTR, tafamidis puis acoramidis, ont montré un bénéfice sur la mortalité et les hospitalisations dans des essais pivots.\n\nEn pratique réelle, il manque des marqueurs simples permettant de suivre la progression de la maladie et l'effet du traitement. Cette étude de phase 4 (post-commercialisation) à bras unique, promue par Alexion (AstraZeneca Rare Disease), inclut 200 patients atteints d'ATTR-CM, naïfs de traitement ou passant du tafamidis à l'acoramidis. Tous reçoivent l'acoramidis 800 mg deux fois par jour pendant 18 mois. L'objectif est de confirmer que le traitement limite la progression, définie par le NT-proBNP et/ou l'intensification des diurétiques ambulatoires, et que ces indices sont des marqueurs substitutifs de la progression.",
+ "interet": "L'étude pourrait valider des marqueurs simples du suivi de l'ATTR-CM sous traitement. Elle décrit une cohorte en vie réelle, sans groupe comparateur.",
+ "profil": "Des adultes atteints de cardiomyopathie amyloïde à transthyrétine, naïfs de traitement ou déjà traités par tafamidis.",
+ "inclusion": [
+  "ATTR-CM naïve de traitement (nouvellement diagnostiquée) ou en passage du tafamidis à l'acoramidis jugé bénéfique",
+  "Naïfs : hospitalisation pour insuffisance cardiaque ou symptômes nécessitant des diurétiques",
+  "Naïfs : épaisseur du septum interventriculaire > 12 mm en échographie",
+  "ATTR-CM confirmée par biopsie avec typage de la TTR, ou par scintigraphie osseuse (Perugini ≥ 2) sans protéine monoclonale"
+ ],
+ "exclusion": [
+  "Amylose AL confirmée",
+  "Traitement antérieur par un agent de silençage génique (pour les patients en passage)",
+  "Greffe cardiaque probable dans l'année",
+  "Hypersensibilité à l'acoramidis ou à ses composants",
+  "Grossesse ou allaitement",
+  "Affection ou anomalie biologique cliniquement significative compromettant la sécurité"
+ ],
+ "bras": [
+  {
+   "nom": "Acoramidis",
+   "traitement": "Acoramidis 800 mg deux fois par jour par voie orale, pendant 18 mois"
+  }
+ ],
+ "duree": "18 mois",
+ "critere": "Taux de progression de la maladie, évalué par le NT-proBNP et/ou l'intensification ambulatoire des diurétiques, de l'inclusion à 12 mois."
+}

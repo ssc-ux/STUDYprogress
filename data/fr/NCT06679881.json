@@ -1,0 +1,31 @@
+{
+ "h": "ede318e383b5",
+ "date": "2026-11-13",
+ "titre": "Deucrictibant oral au long cours en prophylaxie de l'angiœdème héréditaire",
+ "question": "Le deucrictibant en comprimé à libération prolongée est-il sûr et efficace au long cours pour prévenir les crises d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AOH) provoque des crises récurrentes d'œdème sous-cutané, digestif ou laryngé, liées à un excès de bradykinine. Le traitement de fond actuel utilise des injections sous-cutanées ou intraveineuses, ou le bérotralstat par voie orale. La voie orale reste peu représentée parmi les options, alors que beaucoup de patients souhaitent éviter les injections.\n\nLe deucrictibant est un antagoniste oral du récepteur B2 de la bradykinine, ce qui bloque l'effet de la bradykinine au niveau du récepteur. Une forme à libération prolongée, prise une fois par jour, est développée pour la prophylaxie. Cette étude de phase 3 est une extension ouverte de longue durée. Elle accueille des patients issus d'études antérieures de deucrictibant, ainsi que des patients nouveaux ayant eu au moins une crise dans les 3 mois précédents. Le promoteur est Pharvaris, avec des centres en France.",
+ "interet": "L'étude apportera des données de sécurité à long terme, jusqu'à 240 semaines, sur un traitement de fond oral antagoniste du récepteur B2. Elle pourrait élargir l'offre de prophylaxie sans injection.",
+ "profil": "Des adolescents (≥ 12 ans) et adultes atteints d'angiœdème héréditaire.",
+ "inclusion": [
+  "Âge ≥ 12 ans, consentement (et assentiment) écrit",
+  "Diagnostic d'angiœdème héréditaire",
+  "Patients nouveaux : au moins 1 crise dans les 3 mois précédant le dépistage",
+  "Accès fiable à un traitement de crise standard",
+  "Capacité à renseigner un journal électronique",
+  "Contraception et tests de grossesse pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Angiœdème d'une autre nature que l'AOH",
+  "Autre médicament expérimental dans les 30 jours ou 5 demi-vies",
+  "Antécédent de thérapie génique, quelle que soit l'indication",
+  "Arrêt antérieur d'une étude sur le deucrictibant pour raison de sécurité ou d'observance",
+  "IEC ou œstrogènes à absorption systémique dans les 4 semaines avant le dépistage",
+  "Traitement de fond de l'AOH récent (délais de sevrage selon la classe)",
+  "Grossesse ou allaitement, anomalie hépatique, insuffisance rénale modérée ou sévère"
+ ],
+ "bras": [
+  {"nom": "Deucrictibant", "traitement": "Deucrictibant en comprimé à libération prolongée, une fois par jour par voie orale ; dose non précisée"}
+ ],
+ "duree": "Jusqu'à 240 semaines",
+ "critere": "Nombre de participants ayant des événements indésirables survenus sous traitement (dont graves, d'intérêt particulier ou conduisant à l'arrêt), avec suivi des constantes et de la biologie, jusqu'à la semaine 240."
+}

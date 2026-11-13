@@ -1,0 +1,14 @@
+{
+ "h": "4c3bc892df7e",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline intraveineuse à 5 % V-IMMUNE dans le PTI",
+ "question": "L'immunoglobuline intraveineuse humaine à 5 % V-IMMUNE permet-elle d'atteindre un taux de plaquettes d'au moins 50 000/mm³ à J9 chez des patients atteints de PTI ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. Les immunoglobulines polyvalentes intraveineuses (IgIV) font remonter rapidement les plaquettes. Elles sont utilisées en cas de saignement, de thrombopénie très profonde ou avant un geste invasif, et sont recommandées en première ligne et en urgence.\n\nLeur effet est transitoire, et l'accès à des préparations fiables dépend des pays. Le Brésil, comme d'autres, s'appuie en partie sur des produits importés, d'où l'intérêt de nouvelles formulations.\n\nL'essai TIP, de phase 3, multicentrique et monobras, est promu par On Pharma avec l'Hôpital du Cœur de São Paulo. Il évalue V-IMMUNE, une IgIV à 5 %, chez 31 patients d'au moins 1 an. La dose est de 1 g/kg par jour pendant 2 jours, avec titration du débit et prémédication. Les résultats sont comparés à des témoins historiques issus de la littérature.",
+ "interet": "L'étude pourrait appuyer l'enregistrement d'une nouvelle préparation d'IgIV dans le PTI, élargissant l'offre en situation d'urgence, avec des données de sécurité jusqu'à J90.",
+ "profil": "Des patients de 1 an et plus atteints de PTI (récent, persistant ou chronique) avec moins de 20 000 plaquettes/mm³.",
+ "inclusion": ["Âge ≥ 1 an", "PTI confirmé (récent, persistant ou chronique)", "Plaquettes ≤ 20 000/mm³ à l'inclusion", "Aucune autre cause de thrombopénie selon l'investigateur", "Contraception efficace chez les patientes en âge de procréer"],
+ "exclusion": ["Thrombopénie non immune", "Sepsis actif", "Grossesse ou allaitement", "Hypersensibilité aux produits sanguins, aux IgIV ou aux IgG, déficit en IgA", "Infection connue par le VIH, le VHC ou le VHB", "ASAT/ALAT > 2,5 N, créatinine > 2 N", "Insuffisance cardiaque NYHA III/IV, hypertension non contrôlée, antécédent thromboembolique ou d'AIT/AVC", "Cancer en cours de traitement, insuffisance hépatique Child-Pugh B ou C"],
+ "bras": [{"nom": "V-IMMUNE", "traitement": "Immunoglobuline humaine à 5 % IV, 1 g/kg/j pendant 2 jours consécutifs, débit de 0,01 à 0,06 mL/kg/min"}],
+ "duree": "Suivi jusqu'à J90",
+ "critere": "Proportion de patients avec plaquettes ≥ 50 000/mm³ au plus tard à J9 après la première perfusion"
+}

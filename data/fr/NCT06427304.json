@@ -1,0 +1,30 @@
+{
+ "h": "8fc6eb4753ef",
+ "date": "2026-11-13",
+ "titre": "Prévalence de l'amylose cardiaque chez les sujets âgés hospitalisés pour insuffisance cardiaque",
+ "question": "Quelle est la prévalence de l'amylose cardiaque chez les patients de 80 ans et plus hospitalisés pour insuffisance cardiaque avec hypertrophie ventriculaire gauche ?",
+ "contexte": "L'amylose cardiaque, surtout à transthyrétine sauvage (ATTRwt), touche principalement les sujets âgés. Elle est une cause fréquente mais méconnue d'insuffisance cardiaque à fraction d'éjection préservée, avec hypertrophie ventriculaire gauche et épaississement septal à l'échographie.\n\nLe diagnostic peut aujourd'hui être posé de façon non invasive par la scintigraphie osseuse, après exclusion d'une gammapathie monoclonale. Des traitements spécifiques (tafamidis, acoramidis) sont disponibles, ce qui donne tout son intérêt à un repérage précoce.\n\nLes données de prévalence chez les patients gériatriques de 80 ans et plus restent limitées, car ces patients sont peu inclus dans les études. Cette étude observationnelle, multicentrique et prospective, promue par Gérond'if, propose une scintigraphie osseuse aux patients de 80 ans et plus hospitalisés pour insuffisance cardiaque dans les 12 mois et présentant un septum ou un ventricule gauche ≥ 12 mm.",
+ "interet": "Une prévalence élevée justifierait un dépistage systématique de l'amylose cardiaque chez le sujet très âgé en insuffisance cardiaque avec hypertrophie, et donc l'accès plus précoce à un traitement.",
+ "profil": "Des adultes de 80 ans et plus hospitalisés pour insuffisance cardiaque avec hypertrophie septale ou ventriculaire gauche ≥ 12 mm.",
+ "inclusion": [
+  "Âge ≥ 80 ans",
+  "Hospitalisation pour décompensation d'insuffisance cardiaque dans les 12 derniers mois",
+  "Hypertrophie du septum ou du ventricule gauche ≥ 12 mm à l'échographie",
+  "Capacité à réaliser une scintigraphie osseuse",
+  "Volonté de participer"
+ ],
+ "exclusion": [
+  "Refus de participer",
+  "Admission en soins palliatifs",
+  "Personne sous tutelle",
+  "Diagnostic déjà établi d'amylose cardiaque"
+ ],
+ "bras": [
+  {
+   "nom": "Patients âgés avec insuffisance cardiaque et hypertrophie",
+   "traitement": "Cohorte observationnelle avec scintigraphie osseuse à l'inclusion"
+  }
+ ],
+ "duree": "Non précisé (évaluation à l'inclusion)",
+ "critere": "Nombre de patients ayant une amylose cardiaque selon la scintigraphie osseuse, à l'inclusion."
+}

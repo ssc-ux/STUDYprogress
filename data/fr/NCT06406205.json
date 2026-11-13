@@ -1,0 +1,37 @@
+{
+ "h": "8f83377c791d",
+ "date": "2026-11-13",
+ "titre": "Voclosporine associée au traitement de fond dans la néphrite lupique active",
+ "question": "La voclosporine (QL1074), ajoutée au mycophénolate et aux corticoïdes, améliore-t-elle la rémission rénale complète à 52 semaines dans la néphrite lupique active ?",
+ "contexte": "La néphrite lupique touche une proportion importante des patients atteints de lupus systémique et reste une cause majeure de morbidité, avec un risque d'insuffisance rénale terminale. Le traitement standard repose sur les corticoïdes associés au mycophénolate ou au cyclophosphamide. Les recommandations actuelles proposent désormais des associations avec un inhibiteur de la calcineurine (voclosporine, tacrolimus) ou un anti-BAFF (bélimumab) pour augmenter les taux de rémission.\n\nLa voclosporine est un inhibiteur de la calcineurine de nouvelle génération, qui réduit la protéinurie en agissant sur l'immunité T et en stabilisant les podocytes. Elle est déjà approuvée dans d'autres régions à la suite des essais AURORA, mais ses données restent limitées en Chine.\n\nCette étude de phase 3 est promue par Qilu Pharmaceutical. Elle est randomisée, en double aveugle (quadruple insu) et contrôlée par placebo. Elle inclut environ 270 adultes atteints de néphrite lupique active de classe III, IV ou V à la biopsie. Tous reçoivent du mycophénolate et des bolus de méthylprednisolone suivis d'une décroissance orale des corticoïdes. Elle évalue la réponse rénale, mesurée sur le rapport protéinurie/créatininurie, avec la tolérance du traitement sur 52 semaines.",
+ "interet": "L'étude pourrait confirmer le bénéfice de la voclosporine en association au traitement standard dans une population asiatique. Elle contribuerait à l'élargissement des options de traitement de la néphrite lupique.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique avec néphrite lupique active prouvée par biopsie.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Lupus systémique selon les critères ACR 1997",
+  "Néphrite lupique active de classe III, IV (± V) ou V (biopsie de moins de 2 ans)",
+  "Rapport protéinurie/créatininurie ≥ 1,5 mg/mg (classe III/IV) ou ≥ 2 mg/mg (classe V)",
+  "Besoin de corticoïdes à forte dose et d'immunosuppresseurs selon l'investigateur",
+  "Mycophénolate mofétil poursuivi ou débuté avant l'inclusion",
+  "Contraception efficace; test de grossesse négatif"
+ ],
+ "exclusion": [
+  "DFGe ≤ 45 mL/min/1,73 m² (CKD-EPI)",
+  "Traitement interdit en cours ou lavage insuffisant",
+  "Dialyse en cours ou prévisible",
+  "Greffe rénale antérieure ou prévue",
+  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "Voclosporine (QL1074)",
+   "traitement": "Voclosporine par voie orale, 23,7 mg deux fois par jour, 52 semaines, avec mycophénolate et corticoïdes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo de voclosporine, 3 gélules deux fois par jour, 52 semaines, avec mycophénolate et corticoïdes"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de participants en rémission rénale complète à la semaine 52."
+}

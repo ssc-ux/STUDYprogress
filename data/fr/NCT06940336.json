@@ -1,0 +1,34 @@
+{
+ "h": "13e0b3c96815",
+ "date": "2026-11-13",
+ "titre": "Capsules molles de tafamidis méglumine dans la polyneuropathie amyloïde à TTR",
+ "question": "Les capsules molles de tafamidis méglumine ralentissent-elles la progression de la neuropathie dans la polyneuropathie amyloïde à transthyrétine (ATTR-PN) ?",
+ "contexte": "La polyneuropathie amyloïde à transthyrétine (ATTR-PN, ou amylose héréditaire à TTR) est due à des variants du gène TTR. Elle entraîne une neuropathie sensitivomotrice progressive, une dysautonomie et une atteinte cardiaque, avec une évolution mortelle en une dizaine d'années sans traitement. Le tafamidis, stabilisateur de la TTR, est approuvé dans les stades précoces de la polyneuropathie, notamment en Europe et en Asie.\n\nCette étude de phase 4 en un seul bras, promue par Qilu Pharmaceutical, évalue une formulation en capsules molles de tafamidis méglumine chez 15 adultes de 18 à 80 ans en stade 1 de polyneuropathie. Le critère principal est l'évolution du score NIS-LL (atteinte des membres inférieurs) à 72 semaines. L'étude est destinée à documenter l'efficacité et la sécurité de cette formulation en Chine, sans comparateur.",
+ "interet": "L'étude doit soutenir la disponibilité de cette formulation de tafamidis pour les patients atteints d'ATTR-PN. L'échantillon limité (15 patients) permettra surtout d'évaluer la tolérance.",
+ "profil": "Des adultes de 18 à 80 ans atteints de polyneuropathie amyloïde à TTR de stade 1.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Dépôts amyloïdes confirmés par biopsie (< 5 ans)",
+  "Mutation de la TTR associée à l'ATTR-PN (test < 5 ans)",
+  "Neuropathie périphérique au dépistage",
+  "Indice de Karnofsky ≥ 50",
+  "Maladie de stade 1 (symptômes légers)"
+ ],
+ "exclusion": [
+  "Autre amylose (AL, AA)",
+  "Tafamidis dans les 2 mois précédents",
+  "Diflunisal, patisiran, inotersen ou autre traitement de l'amylose héréditaire dans les 30 jours précédents ou prévu",
+  "AINS hors protocole > 4 fois en 30 jours",
+  "Doxycycline ou tauroursodésoxycholate dans les 14 jours précédents",
+  "Autre cause de neuropathie (CIDP, diabète, alcool, paranéoplasique, Guillain-Barré, carence en B12)",
+  "Greffe d'organe (hors cornée)"
+ ],
+ "bras": [
+  {
+   "nom": "Tafamidis méglumine, capsules molles",
+   "traitement": "Capsules molles de tafamidis méglumine par voie orale (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "72 semaines",
+ "critere": "Variation du score NIS-LL (atteinte neurologique des membres inférieurs) entre l'inclusion et la semaine 72."
+}

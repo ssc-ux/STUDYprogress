@@ -1,0 +1,41 @@
+{
+ "h": "d364f34e609a",
+ "date": "2026-11-13",
+ "titre": "BMS-986278 (admilparant) dans la fibrose pulmonaire progressive",
+ "question": "Le BMS-986278, antagoniste du récepteur LPA1, ralentit-il le déclin de la CVF à 52 semaines chez les patients atteints de fibrose pulmonaire progressive ?",
+ "contexte": "La fibrose pulmonaire progressive (FPP) désigne les PID fibrosantes autres que la FPI qui s'aggravent malgré la prise en charge, par exemple dans les connectivites (sclérodermie, polyarthrite), la sarcoïdose fibrosante ou la pneumopathie d'hypersensibilité. Le nintédanib est le seul antifibrosant dont l'effet est établi dans la FPP, et le déclin respiratoire se poursuit chez beaucoup de patients.\n\nLe BMS-986278 est un antagoniste oral du récepteur 1 de l'acide lysophosphatidique (LPA1), voie impliquée dans la fibrose pulmonaire. Il a été étudié en phase 2 dans la fibrose pulmonaire, avec un ralentissement du déclin de la CVF. L'étude de phase 3 présentée ici est randomisée en double aveugle contre placebo, avec deux doses du médicament. Elle autorise les antifibrosants (pirfénidone, nintédanib) et les immunomodulateurs à dose stable. Le promoteur est Bristol-Myers Squibb ; 1 057 participants sont prévus.",
+ "interet": "Un résultat positif ajouterait un mécanisme d'action nouveau pour la FPP, utilisable seul ou avec un antifibrosant. L'essai inclut des patients avec connectivite et sarcoïdose, ce qui donne des données utiles dans ces sous-groupes.",
+ "profil": "Des adultes de 21 ans ou plus atteints de PID fibrosante progressive, avec au moins 10 % de fibrose au scanner.",
+ "inclusion": [
+  "Âge ≥ 21 ans",
+  "PID avec progression dans les 24 mois précédant la sélection",
+  "Fibrose ≥ 10 % au scanner thoracique de dépistage",
+  "Pirfénidone ou nintédanib autorisés à dose stable depuis ≥ 90 jours (sinon non reçus depuis 28 jours)",
+  "MMF, azathioprine, tacrolimus, DMARD conventionnels, biologiques ou anti-JAK autorisés à dose stable depuis ≥ 90 jours",
+  "Contraception efficace pour les femmes en âge de procréer et les hommes sexuellement actifs"
+ ],
+ "exclusion": [
+  "Fibrose pulmonaire idiopathique avec aspect UIP",
+  "AVC ou AIT dans les 3 mois",
+  "Symptômes d'insuffisance cardiaque au repos",
+  "Cancer actuel ou antécédent de moins de 2 ans sans récidive",
+  "Corticoïdes systémiques > 15 mg/j d'équivalent prednisone dans les 4 semaines précédentes",
+  "Autres critères du protocole non détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "BMS-986278 dose 1",
+   "traitement": "BMS-986278 par voie orale, dose 1 (non précisée)"
+  },
+  {
+   "nom": "BMS-986278 dose 2",
+   "traitement": "BMS-986278 par voie orale, dose 2 (non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo correspondant"
+  }
+ ],
+ "duree": "Au moins 52 semaines (critère principal à la semaine 52)",
+ "critere": "Variation absolue de la CVF (en mL) entre l'inclusion et la semaine 52 ; critère de tolérance : syncopes spontanées à environ 4 semaines"
+}

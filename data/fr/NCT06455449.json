@@ -1,0 +1,38 @@
+{
+ "h": "ea6d60f12d12",
+ "date": "2026-11-13",
+ "titre": "Anifrolumab sous-cutané dans la dermatomyosite et la polymyosite",
+ "question": "L'anifrolumab, ajouté au traitement habituel, augmente-t-il la proportion de patients atteignant une réponse TIS ≥ 40 à 52 semaines dans la dermatomyosite ou la polymyosite ?",
+ "contexte": "La dermatomyosite (DM) et la polymyosite (PM) sont des myopathies inflammatoires auto-immunes rares, avec faiblesse musculaire, et atteinte cutanée dans la DM. Le traitement repose sur les corticoïdes et les immunosuppresseurs, avec une réponse souvent incomplète et une forte exposition aux corticoïdes.\n\nUne signature interféron de type I est retrouvée dans le muscle et la peau des patients, en particulier dans la DM. L'anifrolumab est un anticorps anti-récepteur de l'interféron de type I, approuvé dans le lupus systémique. JASMINE est une étude de phase 3 randomisée en double aveugle contre placebo, avec injection sous-cutanée hebdomadaire d'anifrolumab ajoutée au traitement de fond. Elle inclut des patients de 18 à 75 ans ayant une myosite probable ou définie (critères ACR/EULAR 2017) d'activité modérée à sévère. Le promoteur est AstraZeneca ; 240 participants sont prévus.",
+ "interet": "Un résultat positif ajouterait une biothérapie ciblant les interférons aux options des myosites. Il complèterait les données d'autres anti-interféron en développement dans la DM.",
+ "profil": "Des adultes de 18 à 75 ans atteints de dermatomyosite ou de polymyosite d'activité modérée à sévère, sous traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, poids ≥ 40 kg",
+  "PM ou DM probable ou définie (critères ACR/EULAR 2017)",
+  "Activité modérée ou sévère selon les mesures du jeu de base",
+  "Prednisone ou autre traitement de myosite à dose stable",
+  "Pas d'antécédent de tuberculose active ni de COVID-19 sévère",
+  "Respect des règles de contraception"
+ ],
+ "exclusion": [
+  "Myosite à inclusions, myopathie nécrosante, myosite juvénile récente, myosite médicamenteuse ou paranéoplasique, DM amyopathique, myopathie non inflammatoire",
+  "Risque élevé de cancer ; antécédent de cancer (hors exceptions)",
+  "PID rapidement progressive",
+  "Atteinte musculaire sévère ou déficit permanent d'autre cause",
+  "Zona sévère antérieur, déficit immunitaire, VIH, hépatite B ou C active",
+  "Infection à CMV ou EBV non résolue, infection opportuniste récente ou infection récente nécessitant un traitement",
+  "Grossesse, allaitement ou projet de grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab",
+   "traitement": "Anifrolumab par voie sous-cutanée une fois par semaine, ajouté au traitement habituel (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané hebdomadaire, ajouté au traitement habituel"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 52 semaines)",
+ "critere": "Proportion de patients ayant une réponse au score d'amélioration totale (TIS) ≥ 40 à 52 semaines"
+}

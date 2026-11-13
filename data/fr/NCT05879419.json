@@ -1,0 +1,56 @@
+{
+ "h": "038b59f119a0",
+ "date": "2026-11-13",
+ "titre": "Vaccin recombinant contre le zona chez des patients atteints de maladies rhumatismales auto-immunes",
+ "question": "Le vaccin recombinant contre le zona est-il sûr (notamment vis-à-vis de l'activité de la maladie) et immunogène chez des patients atteints de maladies rhumatismales auto-immunes ?",
+ "contexte": "Les patients atteints de maladies rhumatismales auto-immunes (polyarthrite rhumatoïde, lupus, spondyloarthrites, Sjögren, sclérodermie, myosites, vascularites, etc.) ont un risque élevé de zona. Il tient au déficit d'immunité cellulaire lié à la maladie, aux glucocorticoïdes et aux immunosuppresseurs (DMARD conventionnels, biothérapies, inhibiteurs de JAK).\n\nLe vaccin recombinant contre le zona (RZV, Shingrix), composé de la glycoprotéine E du virus varicelle-zona et du système adjuvant AS01B, est non vivant et donc plus adapté aux patients immunodéprimés. Son efficacité est démontrée chez des sujets non immunodéprimés et dans certaines populations immunodéprimées, mais il manque des études prospectives contrôlées sur son immunogénicité, son impact sur l'activité de la maladie sous-jacente et sa tolérance dans ces maladies.\n\nCette étude de phase 4 de l'Hôpital universitaire de São Paulo (soutien de GSK) comporte deux sous-projets. Le sous-projet A randomise les patients entre vaccination immédiate (J0, J42) et placebo suivi d'une vaccination différée, avec un groupe témoin de sujets non immunosupprimés de 50 ans et plus. Le sous-projet B teste l'interruption transitoire du méthotrexate ou du mycophénolate après la vaccination pour améliorer la réponse vaccinale. Un amendement prolonge le suivi pour évaluer la persistance des réponses à 5 ans, sans nouvelle inclusion.",
+ "interet": "L'étude pourrait préciser l'innocuité du vaccin sur l'activité des maladies auto-immunes et la persistance de la réponse sous immunosuppresseurs. Elle pourrait aussi indiquer si suspendre brièvement le méthotrexate ou le mycophénolate améliore la réponse vaccinale.",
+ "profil": "Des adultes atteints de maladies rhumatismales auto-immunes sous traitement immunosuppresseur, et des témoins non immunosupprimés de 50 ans et plus.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Maladie rhumatismale auto-immune répondant aux critères de classification de la maladie (PR, lupus, Sjögren, sclérodermie, myosites, spondyloarthrites, rhumatisme psoriasique, GPA)",
+  "Suivi en consultation de rhumatologie de l'hôpital des Cliniques de São Paulo",
+  "Traitement en cours depuis au moins 1 mois par immunosuppresseur, glucocorticoïde, biothérapie ou anti-JAK, avec ou sans DMARD conventionnel"
+ ],
+ "exclusion": [
+  "Réaction ou hypersensibilité à un composant du vaccin",
+  "Vaccination antérieure contre le zona",
+  "Antécédent de syndrome de Guillain-Barré",
+  "Hospitalisation, infection aiguë ou fièvre au moment de la vaccination",
+  "Grossesse ou allaitement",
+  "Zona dans les 12 mois précédant la première dose",
+  "Infection par le VIH"
+ ],
+ "bras": [
+  {
+   "nom": "Sous-projet A, patients vaccinés d'emblée (P1)",
+   "traitement": "Vaccin recombinant contre le zona (RZV), 2 doses à J0 et J42"
+  },
+  {
+   "nom": "Sous-projet A, patients placebo puis vaccin (P2)",
+   "traitement": "Placebo à J0 et J42, puis RZV à J84 et J126"
+  },
+  {
+   "nom": "Sous-projet A, témoins non immunosupprimés",
+   "traitement": "RZV, 2 doses à J0 et J42 (témoins ≥ 50 ans, ratio 3 patients pour 1 témoin)"
+  },
+  {
+   "nom": "Sous-projet B, méthotrexate suspendu",
+   "traitement": "RZV avec arrêt du méthotrexate pendant 2 semaines après chaque dose"
+  },
+  {
+   "nom": "Sous-projet B, méthotrexate maintenu",
+   "traitement": "RZV avec méthotrexate poursuivi sans changement"
+  },
+  {
+   "nom": "Sous-projet B, mycophénolate suspendu",
+   "traitement": "RZV avec arrêt du mycophénolate mofétil pendant 1 semaine après chaque dose"
+  },
+  {
+   "nom": "Sous-projet B, mycophénolate maintenu",
+   "traitement": "RZV avec mycophénolate mofétil poursuivi sans changement"
+  }
+ ],
+ "duree": "Jusqu'à 5 ans après la seconde dose (phase d'extension); critères principaux évalués à 6 mois et 1 an",
+ "critere": "Sous-projet A : poussée de la maladie à 6 mois chez les patients vaccinés par rapport aux patients non vaccinés (placebo). Sous-projet B : effet de l'arrêt du méthotrexate ou du mycophénolate sur l'immunogénicité à 1 an, par rapport au maintien du traitement."
+}

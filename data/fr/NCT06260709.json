@@ -1,0 +1,27 @@
+{
+ "h": "349cb1c2f4e3",
+ "date": "2026-11-13",
+ "titre": "Traitement à long terme par NNC6019-0001 dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "Quelle est la sécurité à long terme de NNC6019-0001 chez les patients atteints d'ATTR-CM ayant terminé l'étude initiale ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est une cause d'insuffisance cardiaque liée au dépôt de TTR dans le myocarde, de pronostic réservé. Les traitements actuels ralentissent la progression en stabilisant la TTR ou en réduisant sa production, sans éliminer les dépôts.\n\nNNC6019-0001 est un médicament expérimental de Novo Nordisk administré par voie IV toutes les 4 semaines, évalué dans l'ATTR-CM. Il s'agit ici de l'extension de l'étude NN6019-4940, sans nouvelle randomisation : tous les participants reçoivent NNC6019-0001, qu'ils aient reçu le placebo ou le médicament dans l'étude initiale.\n\nL'extension évalue la sécurité à long terme et l'effet sur les symptômes d'insuffisance cardiaque. Elle durera environ 6 ans, ou jusqu'à la mise à disposition commerciale ou autre du médicament si elle survient plus tôt.",
+ "interet": "Ces données renseignent la tolérance prolongée d'un nouveau traitement de l'ATTR-CM et permettent aux participants de continuer le traitement après l'étude initiale.",
+ "profil": "Des adultes atteints de cardiomyopathie amyloïde à TTR ayant terminé l'étude NN6019-4940.",
+ "inclusion": [
+  "Traitement de l'étude NN6019-4940 terminé et dernière visite (semaine 64, visite 16) réalisée, au plus 12 semaines avant l'inclusion",
+  "Traitement cardiovasculaire attendu stable depuis 6 semaines avant l'inclusion"
+ ],
+ "exclusion": [
+  "Greffe d'organe solide antérieure",
+  "Tumeur maligne dans les 5 ans (sauf carcinomes cutanés basocellulaires ou épidermoïdes, carcinomes in situ du col, PIN ou cancer de prostate de bas grade)",
+  "Inhibiteur calcique à effet sur la conduction (vérapamil, diltiazem) ; digoxine uniquement si nécessaire pour une FA rapide",
+  "Poids > 120 kg au dépistage"
+ ],
+ "bras": [
+  {
+   "nom": "NNC6019-0001",
+   "traitement": "NNC6019-0001 par voie IV toutes les 4 semaines en plus du traitement standard, jusqu'à 300 semaines"
+  }
+ ],
+ "duree": "Environ 6 ans (jusqu'à 300 semaines)",
+ "critere": "Nombre d'événements indésirables survenus sous traitement, de l'inclusion jusqu'à 6 ans."
+}

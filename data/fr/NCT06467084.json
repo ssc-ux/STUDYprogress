@@ -1,0 +1,40 @@
+{
+ "h": "4665b941ad65",
+ "date": "2026-11-13",
+ "titre": "Sébétralstat à la demande chez l'enfant de 2 à 11 ans atteint d'angiœdème héréditaire",
+ "question": "Le sébétralstat oral est-il sûr et efficace, avec quelle pharmacocinétique, chez l'enfant de 2 à 11 ans atteint d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est lié à un déficit en inhibiteur de la C1 estérase et à un excès de bradykinine. Les crises d'œdème, parfois laryngé, débutent souvent dans l'enfance. Chez l'enfant, le traitement des crises repose sur des produits injectables (inhibiteur de C1, icatibant selon l'âge), ce qui complique un traitement précoce, notamment en milieu scolaire.\n\nLe sébétralstat (KVD900) est un inhibiteur oral de la kallikréine plasmatique, étudié chez l'adolescent et l'adulte pour traiter les crises à la demande. Aucune forme orale à la demande n'est actuellement disponible chez le jeune enfant.\n\nKONFIDENT-KID est un essai de phase 3 ouvert, promu par KalVista, mené chez 36 enfants de 2 à 11 ans dans 7 pays dont la France. Les patients reçoivent une dose unique de 150, 300 ou 600 mg selon le groupe, vraisemblablement en fonction du poids. L'étude évalue la sécurité, la pharmacocinétique et l'efficacité.",
+ "interet": "Si la sécurité et l'exposition sont satisfaisantes, le sébétralstat pourrait offrir une option orale à la demande chez l'enfant, avec un traitement plus précoce des crises. Cela comblerait un manque dans la prise en charge pédiatrique de l'AOH.",
+ "profil": "Des enfants de 2 à 11 ans atteints d'angiœdème héréditaire de type I ou II.",
+ "inclusion": [
+  "Âge de 2 à 11 ans",
+  "Diagnostic confirmé d'AOH de type I ou II",
+  "Pour les patients ≥ 20 kg, au moins 1 crise documentée dans l'année précédente",
+  "Aidant capable de conserver et d'administrer le traitement et de remplir le carnet",
+  "Consentement du parent ou représentant légal et assentiment de l'enfant"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème chronique (acquis, AOH à C1-INH normal, idiopathique, urticarien)",
+  "Mauvaise réponse notable aux anti-bradykinine, au C1-INH ou aux inhibiteurs de kallikréine",
+  "Poids < 9,5 kg",
+  "IEC après la visite de sélection, œstrogènes à absorption systémique dans les 7 jours",
+  "Utilisation prolongée d'inhibiteurs ou inducteurs puissants du CYP3A4 ou d'inducteurs modérés",
+  "Hypersensibilité au sébétralstat, participation à un autre essai dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 150 mg",
+   "traitement": "Sébétralstat 150 mg par voie orale, dose unique par crise"
+  },
+  {
+   "nom": "Groupe 300 mg",
+   "traitement": "Sébétralstat 300 mg par voie orale, dose unique par crise"
+  },
+  {
+   "nom": "Groupe 600 mg",
+   "traitement": "Sébétralstat 600 mg par voie orale, dose unique par crise"
+  }
+ ],
+ "duree": "54 semaines au maximum",
+ "critere": "Nombre de participants avec des événements indésirables survenus sous traitement, de la première dose à la visite finale (54 semaines au maximum)"
+}

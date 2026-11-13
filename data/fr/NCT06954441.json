@@ -1,0 +1,33 @@
+{
+ "h": "0c53d4f41fa7",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline IV V-Immune 5 % dans les déficits immunitaires primitifs (étude VIP)",
+ "question": "L'immunoglobuline IV V-Immune est-elle efficace et sûre pour prévenir les infections bactériennes graves chez des patients déjà sous immunoglobulines IV ?",
+ "contexte": "Les déficits immunitaires primitifs avec défaut d'anticorps (agammaglobulinémie, DICV, déficits en sous-classes d'IgG, syndromes d'hyper-IgM) nécessitent une substitution à vie en immunoglobulines (Ig). Les Ig intraveineuses (IgIV), perfusées toutes les 3 à 4 semaines, réduisent les infections bactériennes graves, mais l'offre de produits varie selon les pays.\n\nL'enregistrement d'une nouvelle IgIV exige de démontrer un taux d'infections bactériennes graves faible et une bonne tolérance des perfusions. Cet essai de phase 3 non randomisé, promu par On Pharma, évalue V-Immune 5 % chez environ 50 patients de 2 ans et plus déjà sous IgIV. Ils passent à V-Immune 600 mg/kg toutes les 3 semaines pendant 12 mois, soit environ 17 perfusions, avec une visite à chaque perfusion. Les données historiques servent de comparateur. Le critère de tolérance est la proportion de perfusions associées à un événement indésirable.",
+ "interet": "L'étude doit soutenir l'enregistrement d'une IgIV supplémentaire. L'absence de groupe contrôle concomitant limite la comparaison, qui repose sur des données historiques.",
+ "profil": "Des patients de 2 ans et plus atteints d'un déficit immunitaire primitif en IgG, déjà sous immunoglobulines IV.",
+ "inclusion": [
+  "Âge ≥ 2 ans",
+  "Déficit immunitaire primitif en IgG (agammaglobulinémie, DICV, déficit quantitatif ou fonctionnel en IgG, déficits en sous-classes, hyper-IgM...)",
+  "Déjà sous une autre IgIV",
+  "Deux taux résiduels d'IgG ≥ 500 mg/dL dans les 90 jours précédents",
+  "Taux résiduel d'IgG ≥ 700 mg/dL dans les 30 jours avant la première visite"
+ ],
+ "exclusion": [
+  "Infection aiguë traitée dans les 2 semaines précédentes",
+  "Grossesse",
+  "Hypersensibilité à un dérivé sanguin, anaphylaxie antérieure aux IgG ou intolérance à un composant",
+  "Déficit en IgA, réactions aux produits contenant des IgA ou anticorps anti-IgA",
+  "Déficit sélectif en IgA, IgM, IgD ou IgE",
+  "Participation à une autre étude avec produit expérimental ; produit sanguin dans les 3 mois",
+  "Infection connue par le VIH, le VHC ou le VHB ; ALAT > 3 x la normale ; créatinine > 2 x la normale"
+ ],
+ "bras": [
+  {
+   "nom": "Bras intervention",
+   "traitement": "V-Immune 5 % (immunoglobuline humaine normale), 600 mg/kg par voie IV toutes les 3 semaines (± 3 jours)"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Taux d'infections bactériennes graves sur 12 mois, et proportion de perfusions avec au moins un événement indésirable temporellement associé, dans les 72 heures."
+}

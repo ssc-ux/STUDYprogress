@@ -1,0 +1,35 @@
+{
+ "h": "6f6a33b865f2",
+ "date": "2026-11-13",
+ "titre": "Registre européen HEAR de l'amylose cardiaque",
+ "question": "Quelles sont les caractéristiques cliniques, biologiques et d'imagerie des patients atteints d'amylose cardiaque suivis en pratique réelle ?",
+ "contexte": "L'amylose cardiaque est une cause sous-diagnostiquée d'insuffisance cardiaque, surtout dans ses formes à transthyrétine (ATTR) et à chaînes légères (AL). Les tableaux cliniques, les résultats de l'imagerie (échographie, IRM, scintigraphie osseuse) et la biologie varient largement d'un patient à l'autre.\n\nAvec l'arrivée de traitements ciblés, les données de pratique réelle sur le parcours diagnostique, les caractéristiques des patients et leur évolution sont devenues essentielles. Les cohortes existantes restent souvent limitées à un centre ou à une période.\n\nHEAR est un registre non interventionnel multicentrique, promu par Saving Lives Matters, qui ne modifie pas la prise en charge et n'impose aucune visite de suivi. Il comprend trois cohortes : rétrospective (patients décédés), rétro-prospective (patients vivants déjà suivis) et prospective (patients adressés pour suspicion d'amylose).",
+ "interet": "Un registre à grande échelle permettra de décrire le parcours des patients et leur prise en charge en vie réelle, et pourra alimenter des travaux de recherche ultérieurs sur l'amylose cardiaque.",
+ "profil": "Des adultes majeurs, dont les adultes protégés, avec une amylose cardiaque confirmée ou suspectée.",
+ "inclusion": [
+  "Patient majeur, y compris adulte protégé (tutelle ou curatelle)",
+  "Cohorte prospective : adressé ou référé au centre pour suspicion d'amylose, note d'information signée",
+  "Cohorte rétro-prospective : déjà suivi avec amylose confirmée, note d'information signée",
+  "Cohorte rétrospective : patients décédés suivis avec amylose confirmée"
+ ],
+ "exclusion": [
+  "Refus de participer exprimé par le patient",
+  "La participation à une autre étude, même interventionnelle, n'est pas un critère de non-inclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte rétrospective",
+   "traitement": "Recueil rétrospectif des données de patients décédés"
+  },
+  {
+   "nom": "Cohorte rétro-prospective",
+   "traitement": "Recueil rétrospectif et prospectif de patients vivants déjà suivis, avec suivi en vie réelle"
+  },
+  {
+   "nom": "Cohorte prospective",
+   "traitement": "Recueil prospectif et suivi en vie réelle depuis l'inclusion"
+  }
+ ],
+ "duree": "Aucune visite imposée ; données recueillies sur 6 ans",
+ "critere": "Caractéristiques cliniques, biologiques et d'imagerie des patients atteints d'amylose cardiaque, sur 6 ans."
+}

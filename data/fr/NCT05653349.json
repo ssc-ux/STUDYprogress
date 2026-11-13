@@ -1,0 +1,39 @@
+{
+ "h": "a7abb132baf3",
+ "date": "2026-11-13",
+ "titre": "Ianalumab associé aux corticoïdes en première ligne du PTI",
+ "question": "L'ajout de ianalumab à la corticothérapie de première ligne augmente-t-il le taux de réponse stable sans traitement à 12 mois dans le PTI nouvellement diagnostiqué ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est traité en première ligne par corticoïdes, avec ou sans IgIV. La majorité des patients répondent, mais un grand nombre rechute à l'arrêt, ce qui conduit à des traitements ultérieurs. Il manque une stratégie de première ligne capable d'induire des rémissions durables sans traitement.\n\nLe ianalumab est un anticorps anti-BAFF-R qui déplète les lymphocytes B et bloque la signalisation BAFF, afin de réduire la production d'auto-anticorps antiplaquettes. VAYHIT1 est une étude de phase 3 randomisée en double aveugle, avec deux doses de ianalumab par voie intraveineuse ou un placebo, ajoutés aux corticoïdes standard chez des adultes diagnostiqués récemment et ayant répondu aux corticoïdes. Le critère principal a été modifié en mai 2026 : il porte désormais sur la réponse stable sans traitement à 12 mois, le délai jusqu'à l'échec du traitement devenant un critère secondaire clé. Le promoteur est Novartis ; 226 participants ont été inclus.",
+ "interet": "Un résultat positif ferait envisager un traitement de première ligne qui modifie l'évolution de la maladie et réduit les rechutes. L'enjeu est de limiter l'exposition cumulative aux corticoïdes et le recours aux lignes ultérieures.",
+ "profil": "Des adultes atteints de PTI primaire diagnostiqué depuis moins de 3 mois avant le début du traitement, ayant répondu aux corticoïdes de première ligne.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "PTI primaire diagnostiqué dans les 3 mois précédant le début du traitement de première ligne",
+  "Plaquettes < 30 G/L avant tout traitement de première ligne",
+  "Réponse (plaquettes ≥ 50 G/L) aux corticoïdes ± IgIV avant la randomisation"
+ ],
+ "exclusion": [
+  "Syndrome d'Evans ou autre cytopénie",
+  "Saignement menaçant le pronostic vital en cours",
+  "Traitement antérieur du PTI autre que corticoïdes ± IgIV de première ligne (≤ 28 jours), splénectomie incluse",
+  "Traitement antérieur par déplétion des lymphocytes B (rituximab, etc.)",
+  "Polynucléaires neutrophiles < 1,0 G/L à la randomisation",
+  "Trouble de la coagulation ou antiplaquettaire/anticoagulant (aspirine à faible dose autorisée)"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab faible dose + corticoïdes",
+   "traitement": "Ianalumab IV à faible dose (non précisée) avec corticoïdes oraux ou parentéraux"
+  },
+  {
+   "nom": "Ianalumab forte dose + corticoïdes",
+   "traitement": "Ianalumab IV à forte dose (non précisée) avec corticoïdes oraux ou parentéraux"
+  },
+  {
+   "nom": "Placebo + corticoïdes",
+   "traitement": "Placebo IV avec corticoïdes oraux ou parentéraux"
+  }
+ ],
+ "duree": "Suivi jusqu'à l'échec du traitement ou jusqu'à 39 mois après la randomisation du dernier patient ; suivi de sécurité de 20 semaines à 2 ans",
+ "critere": "Taux de réponse stable sans traitement à 12 mois (SROT-12)"
+}

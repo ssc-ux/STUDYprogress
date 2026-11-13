@@ -1,0 +1,29 @@
+{
+ "h": "57f326f7132d",
+ "date": "2026-11-13",
+ "titre": "Sécurité à long terme de l'immunoglobuline sous-cutanée TAK-881 dans les déficits immunitaires primitifs",
+ "question": "TAK-881 est-elle sûre et bien tolérée à long terme chez les patients atteints de déficit immunitaire primitif ?",
+ "contexte": "Les déficits immunitaires primitifs avec défaut d'anticorps nécessitent une substitution à vie en immunoglobulines (IgG). La voie sous-cutanée permet une administration à domicile avec des taux résiduels stables. Les formulations concentrées réduisent le volume à perfuser et le nombre de sites d'injection.\n\nTAK-881 est une immunoglobuline sous-cutanée concentrée développée par Takeda. Cette extension de phase 3, non randomisée, s'adresse à des adultes et enfants ayant terminé l'étude TAK-881-3001 (NCT05755035). Les 53 participants reçoivent TAK-881 à la dernière dose de l'étude parente, avec un set de perfusion sous-cutanée Koru, dispositif expérimental aux États-Unis. Le rythme (toutes les 2, 3 ou 4 semaines) et la dose peuvent être ajustés par le médecin de l'étude, avec une visite toutes les 12 semaines jusqu'à la fin de l'étude. L'objectif principal est la sécurité à long terme.",
+ "interet": "L'étude documentera la tolérance prolongée de TAK-881 et de son dispositif de perfusion, des éléments nécessaires à son enregistrement et à son usage chronique.",
+ "profil": "Des adultes et enfants atteints de déficit immunitaire primitif ayant terminé l'étude parente TAK-881-3001.",
+ "inclusion": [
+  "Étude TAK-881-3001 terminée",
+  "Capacité à respecter le protocole (participant ou représentant légal)",
+  "Consentement ou assentiment, y compris pour le dispositif expérimental (sites américains)"
+ ],
+ "exclusion": [
+  "Affection grave dont la sécurité ou la prise en charge serait altérée par la participation",
+  "Nouvelle affection survenue pendant l'étude parente augmentant le risque ou gênant l'évaluation",
+  "Autre essai avec produit ou dispositif expérimental dans les 30 jours précédents ou prévu pendant l'étude",
+  "Membre de la famille ou employé de l'investigateur",
+  "Test de grossesse positif, grossesse, allaitement ou refus de contraception hautement efficace"
+ ],
+ "bras": [
+  {
+   "nom": "TAK-881",
+   "traitement": "Immunoglobuline sous-cutanée TAK-881 à la dernière dose de l'étude parente, avec set de perfusion sous-cutanée Koru ; rythme toutes les 2, 3 ou 4 semaines selon le médecin"
+  }
+ ],
+ "duree": "Jusqu'à la semaine 121 environ, avec visites toutes les 12 semaines",
+ "critere": "Nombre de participants avec événements indésirables apparus sous traitement et nombre d'arrêts, interruptions ou réductions de débit de perfusion liés à TAK-881, jusqu'à la semaine 121."
+}

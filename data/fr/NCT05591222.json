@@ -1,0 +1,40 @@
+{
+ "h": "219fc411de60",
+ "date": "2026-11-13",
+ "titre": "Daxdilimab versus placebo dans le lupus discoïde primaire modéré à sévère",
+ "question": "Le daxdilimab améliore-t-il l'activité du lupus discoïde primaire réfractaire au traitement standard ?",
+ "contexte": "Le lupus discoïde (LED, lupus cutané chronique) provoque des plaques érythémato-squameuses inflammatoires, évoluant vers des cicatrices atrophiques, une alopécie cicatricielle et des dyschromies, avec un retentissement esthétique et fonctionnel important.\n\nLe traitement repose sur la photoprotection, les dermocorticoïdes, les inhibiteurs de la calcineurine et l'hydroxychloroquine, puis sur des immunosuppresseurs ou la thalidomide. Aucun traitement ciblé n'est approuvé spécifiquement dans les formes réfractaires.\n\nLe daxdilimab (HZN-7734) est un anticorps monoclonal dirigé contre ILT7, récepteur des cellules dendritiques plasmacytoïdes, productrices d'interféron de type I, impliqué dans la physiopathologie du lupus. Cette étude de phase 2, randomisée en double aveugle contre placebo et promue par Amgen, compare deux doses de daxdilimab au placebo, administrés toutes les 4 semaines jusqu'à la semaine 20, avec évaluation de l'activité par le score CLASI-A à la semaine 24.",
+ "interet": "Un résultat positif ouvrirait une voie ciblée sur l'axe de l'interféron de type I dans le lupus cutané, pour des patients sans alternative satisfaisante.",
+ "profil": "Des adultes atteints de lupus discoïde primaire actif, modéré à sévère, réfractaire au traitement systémique.",
+ "inclusion": [
+  "Lupus discoïde diagnostiqué depuis ≥ 6 mois (biopsie ou score DLECC ≥ 7)",
+  "Lésion discoïde active confirmée par photographie à lecture centralisée",
+  "Score CLASI-A ≥ 8 lié aux lésions discoïdes à l'inclusion",
+  "Maladie réfractaire à un traitement systémique actuel ou passé",
+  "Vaccinations à jour selon les standards locaux",
+  "Contraception adaptée selon le sexe et le potentiel de procréation"
+ ],
+ "exclusion": [
+  "Participation à une autre étude avec médicament expérimental dans les 4 semaines précédentes ou 5 demi-vies",
+  "Toute affection pouvant gêner l'évaluation du traitement ou de la sécurité",
+  "Poids > 160 kg",
+  "Antécédent d'allergie ou d'anaphylaxie à un composant du produit ou à un anticorps monoclonal ou une immunoglobuline",
+  "Grossesse, allaitement ou projet de grossesse jusqu'à 6 mois après la dernière dose"
+ ],
+ "bras": [
+  {
+   "nom": "Daxdilimab, dose faible",
+   "traitement": "Daxdilimab toutes les 4 semaines du jour 1 à la semaine 20"
+  },
+  {
+   "nom": "Daxdilimab, dose élevée",
+   "traitement": "Daxdilimab toutes les 4 semaines du jour 1 à la semaine 20"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo toutes les 4 semaines du jour 1 à la semaine 20"
+  }
+ ],
+ "duree": "Non précisé (évaluation principale à 24 semaines)",
+ "critere": "Variation moyenne du score CLASI-A entre l'inclusion et la semaine 24."
+}

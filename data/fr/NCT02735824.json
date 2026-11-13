@@ -1,0 +1,34 @@
+{
+ "h": "6b8fdfd652e0",
+ "date": "2026-11-13",
+ "titre": "Recherche de nouvelles causes génétiques des déficits immunitaires primitifs de l'enfant",
+ "question": "Peut-on identifier de nouvelles causes génétiques chez des enfants chez qui l'on suspecte un déficit immunitaire primitif ?",
+ "contexte": "Les erreurs innées de l'immunité (déficits immunitaires primitifs) regroupent plus de 400 maladies génétiques. Elles se manifestent par des infections récidivantes, sévères ou inhabituelles, ou par des signes de dysrégulation immunitaire comme l'auto-immunité et la lymphoprolifération.\n\nUne part importante des patients suspects de déficit immunitaire reste sans diagnostic génétique, malgré le séquençage. Identifier de nouveaux gènes permet de poser un diagnostic, de conseiller la famille et parfois de proposer un traitement ciblé. Cette étude observationnelle, promue par l'hôpital pédiatrique universitaire de Zurich, prévoit d'inclure 500 participants. Elle compare des enfants avec suspicion de déficit immunitaire, leurs proches sains ou atteints, et des volontaires sains. Les analyses génétiques et fonctionnelles utilisent des cellules nucléées du sang, de la peau (biopsie) ou de la salive. Il n'y a pas de traitement testé.",
+ "interet": "L'étude pourrait élargir la liste des gènes de déficits immunitaires et améliorer le rendement diagnostique chez l'enfant. Elle ne modifie pas la prise en charge à court terme.",
+ "profil": "Des enfants avec suspicion ou diagnostic d'erreur innée de l'immunité, leurs proches et des volontaires sains.",
+ "inclusion": [
+  "Patients : enfants hospitalisés, suivis en ambulatoire ou adressés avec suspicion ou diagnostic d'erreur innée de l'immunité",
+  "Proches : apparentés biologiques sains ou atteints des patients inclus",
+  "Témoins : volontaires sains sans antécédent de maladie immunologique, inflammatoire ou infectieuse chronique",
+  "Capacité à signer le consentement (ou consentement du tuteur)"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec suspicion de déficit immunitaire primitif",
+   "traitement": "Biopsie cutanée, prélèvement buccal ou salive"
+  },
+  {
+   "nom": "Proches de patients",
+   "traitement": "Prélèvement buccal ou salive, prise de sang"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Prélèvement buccal ou salive, prise de sang"
+  }
+ ],
+ "duree": "Environ 3 ans en moyenne (jusqu'à la fin de l'étude)",
+ "critere": "Nombre de patients avec suspicion de déficit immunitaire primitif chez lesquels une cause génétique a été identifiée, jusqu'à la fin de l'étude (en moyenne 3 ans)."
+}

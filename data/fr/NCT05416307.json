@@ -1,0 +1,38 @@
+{
+ "h": "88482e6bdeab",
+ "date": "2026-11-13",
+ "titre": "ELA026 (anticorps anti-SIRP) dans la LHH secondaire",
+ "question": "L'ELA026, anticorps dirigé contre SIRP, est-il sûr et efficace dans la lymphohistiocytose hémophagocytaire secondaire (LHHs) ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est un syndrome rare et grave d'activation immunitaire excessive. La forme secondaire (LHHs) est la plus fréquente : elle complique un cancer (LHH associée aux hémopathies, en particulier les lymphomes), une infection ou une maladie auto-immune. Le pronostic est sombre, surtout dans les formes associées aux cancers, et aucun traitement n'est spécifiquement approuvé chez la plupart des patients adultes.\n\nLes traitements actuels reposent sur les corticoïdes, l'étoposide, la ciclosporine, le ruxolitinib ou l'emapalumab, avec une toxicité et des échecs fréquents. L'ELA026 est un anticorps monoclonal IgG1 entièrement humain dirigé contre la protéine régulatrice du signal (SIRP). Il vise à dépléter les cellules myéloïdes et les lymphocytes T qui entretiennent l'inflammation. Cet essai ouvert de phase 2/3, non randomisé et promu par Electra Therapeutics, comporte deux parties : une partie 1 d'escalade de dose et d'évaluation de la sécurité, et une partie 2 évaluant l'efficacité chez l'adulte (cohorte A avec LHH associée à un cancer, cohorte B avec LHH non maligne) et l'enfant. Il n'y a pas de comparateur contrôlé, et 156 participants sont prévus.",
+ "interet": "L'ELA026 pourrait devenir un traitement ciblé de la LHH secondaire, y compris associée à un lymphome. Les résultats de la partie 2 sur la survie à 56 jours seront les plus informatifs.",
+ "profil": "Des patients à partir de 6 ans (selon la cohorte) atteints de LHH secondaire confirmée, naïfs de traitement, réfractaires ou en rechute.",
+ "inclusion": [
+  "LHH secondaire confirmée par au moins 5 critères HLH-2004 sur 8",
+  "Partie 1 : âge ≥ 12 ans (cohorte 1) ou ≥ 6 ans (cohortes 2-3)",
+  "Partie 1 : naïfs de traitement ou en rechute/réfractaires (cohortes 1-2), naïfs ou réfractaires précoces (cohorte 3)",
+  "Partie 2 cohorte A : adultes avec LHH associée à un cancer, nouvellement diagnostiquée et naïve de traitement",
+  "Partie 2 cohorte B : adultes avec LHH non maligne naïve, ou adolescents de 13 à 17 ans naïfs",
+  "Partie 2 cohorte B : enfants de 6 à 12 ans, réfractaires (phase de sécurité) puis naïfs"
+ ],
+ "exclusion": [
+  "Traitement antérieur ou connu d'une LHH primaire",
+  "Déclencheur de la LHH inconnu",
+  "Cancer actif réfractaire ou en rechute sans traitement approprié",
+  "Allogreffe de cellules souches dans les 100 jours avant la première dose",
+  "Traitement anti-LHH en cours (hors dexaméthasone)",
+  "Vaccin vivant atténué dans les 6 semaines ou BCG dans les 12 semaines avant le dépistage",
+  "Partie 2 : LHH réfractaire (sauf phase de sécurité des 6-12 ans)"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 ELA026",
+   "traitement": "Escalade de dose : dose unique jusqu'à 3,0 mg/kg IV ou SC (cohorte 1), puis dose d'amorçage de 0,1 mg/kg IV au jour 1 et 0,3 mg/kg aux jours 2 à 4, suivie d'une dose d'entretien (cohortes 2-3)"
+  },
+  {
+   "nom": "Partie 2 ELA026",
+   "traitement": "Dose d'amorçage de 0,1 mg/kg IV/SC au jour 1, dose de charge de 0,3 mg/kg aux jours 2 à 4, puis doses d'entretien deux fois par semaine (cohortes A et B)"
+  }
+ ],
+ "duree": "Non précisé (partie 1 : sécurité jusqu'à la semaine 12)",
+ "critere": "Partie 1 : incidence des événements indésirables apparus sous traitement jusqu'à la semaine 12. Partie 2 (cohorte A) : taux de survie à 56 jours chez les patients avec LHH associée à un lymphome."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "6f466eb5ed79",
+ "date": "2026-11-13",
+ "titre": "Immunoglobuline sous-cutanée Newnorm à 20 % dans les déficits immunitaires primitifs",
+ "question": "L'immunoglobuline sous-cutanée Newnorm est-elle efficace, bien tolérée et sûre dans les déficits immunitaires primitifs ?",
+ "contexte": "Les déficits immunitaires primitifs avec hypo- ou agammaglobulinémie nécessitent une substitution à vie en immunoglobulines (Ig). L'administration sous-cutanée à domicile, plus souple que les perfusions intraveineuses, est de plus en plus utilisée, et les formulations concentrées à 20 % réduisent le volume injecté.\n\nPour être enregistrée, une nouvelle Ig sous-cutanée doit démontrer la pharmacocinétique des IgG, une faible incidence d'infections bactériennes graves et une bonne tolérance locale et générale. Cet essai de phase 3 prospectif, ouvert, multicentrique et à bras unique, promu par Octapharma, évalue Newnorm (Ig humaine normale à 20 %) chez 50 patients de 2 à 75 ans. Ils sont déjà sous substitution stable (IgIV, SCIG ou Ig sous-cutanée facilitée) avec un taux résiduel d'IgG ≥ 5 g/L. Il n'y a pas de comparateur.",
+ "interet": "L'étude doit soutenir l'enregistrement de Newnorm et étoffer l'offre d'Ig sous-cutanées pour l'enfant et l'adulte.",
+ "profil": "Des patients de 2 à 75 ans atteints de déficit immunitaire primitif, déjà sous substitution stable en immunoglobulines.",
+ "inclusion": [
+  "Âge de 2 à 75 ans",
+  "Déficit immunitaire primitif confirmé (critères ESID/PAGID) avec hypo- ou agammaglobulinémie",
+  "Au moins 12 semaines de traitement stable (IgIV, SCIG ou Ig sous-cutanée facilitée) à 200-800 mg/kg/mois",
+  "Taux résiduel d'IgG ≥ 5 g/L au dépistage",
+  "Consentement, ou assentiment pour les enfants et adolescents",
+  "Respect de l'ensemble du protocole"
+ ],
+ "exclusion": [
+  "Infection aiguë nécessitant des antibiotiques IV dans les 2 semaines, ou infection bactérienne grave dans les 3 mois",
+  "Déficit isolé en anticorps spécifiques, déficit isolé en sous-classe d'IgG ou hypogammaglobulinémie transitoire du nourrisson",
+  "Cause de déficit immunitaire secondaire (LLC, lymphome, myélome, neutropénie chronique)",
+  "Hypersensibilité sévère à un dérivé sanguin ou à un composant du produit ; réactions aux IgA",
+  "IMC > 40 kg/m²",
+  "Atteinte hépatique sévère (ALAT > 3 x la normale) ; entéropathie ou protéinurie",
+  "Insuffisance rénale modérée à sévère (DFG ≤ 44 mL/min/1,73 m²)"
+ ],
+ "bras": [
+  {
+   "nom": "Newnorm",
+   "traitement": "Immunoglobuline humaine normale à 20 % par voie sous-cutanée (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Taux d'infections bactériennes graves sur 52 semaines et concentration moyenne d'IgG totales sur 16 semaines."
+}

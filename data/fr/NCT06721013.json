@@ -1,0 +1,39 @@
+{
+ "h": "5df6a1e7bddb",
+ "date": "2026-11-13",
+ "titre": "Pirtobrutinib dans le purpura thrombopénique immunologique primaire",
+ "question": "Le pirtobrutinib oral est-il sûr et efficace, à plusieurs doses, dans le PTI primaire en rechute ou réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une thrombopénie auto-immune isolée, due à une destruction plaquettaire et à une production insuffisante. Le traitement de première ligne repose sur les corticoïdes et les immunoglobulines IV ; les agonistes du récepteur de la thrombopoïétine (TPO-RA), le rituximab, le fostamatinib ou la splénectomie sont utilisés ensuite. Une partie des patients rechutent ou restent réfractaires, avec un risque hémorragique.\n\nLa tyrosine kinase de Bruton (BTK) intervient dans l'activation des lymphocytes B et dans la phagocytose des plaquettes par les macrophages (voie Fc-gamma). Le rilzabrutinib, inhibiteur de la BTK, a montré une efficacité dans le PTI. Le pirtobrutinib est un inhibiteur de BTK non covalent, réversible et très sélectif, déjà utilisé dans les hémopathies B.\n\nCet essai de Lilly en phases 1 et 2 est séquentiel. La phase 1 d'escalade de dose (16 semaines) évalue la tolérance. La phase 2 d'optimisation de dose (28 semaines) compare plusieurs doses de pirtobrutinib au placebo. Il inclut 68 adultes, dans 10 pays dont la France.",
+ "interet": "Un inhibiteur oral de la BTK non covalent pourrait élargir les options chez les patients multitraités. La phase 2 précisera la dose et un premier signal d'efficacité sur le taux de plaquettes.",
+ "profil": "Des adultes atteints de PTI primaire en rechute ou résistant aux traitements, avec thrombopénie sévère.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI primaire (thrombopénie isolée sans autre cause)",
+  "Réponse documentée antérieure (2 numérations ≥ 50 G/L) à au moins une ligne de traitement, splénectomie comprise",
+  "PTI en rechute ou résistant, sans autre traitement bénéfique disponible",
+  "Plaquettes < 30 G/L à 2 reprises à au moins 5 jours d'intervalle dans les 15 jours avant la randomisation",
+  "Fonctions hépatique, rénale et hématologique adéquates, contraception"
+ ],
+ "exclusion": [
+  "Événement thrombotique ou embolique dans les 12 mois précédant la sélection",
+  "Transfusion ou plasmaphérèse dans les 14 jours (phase 1) ou 28 jours (phase 2) avant la randomisation",
+  "Maladie cardiovasculaire significative",
+  "Hémopathie maligne actuelle ou antérieure",
+  "Hépatite B (HBsAg ou ADN viral positif) ou hépatite C (anticorps et ARN positifs)"
+ ],
+ "bras": [
+  {
+   "nom": "Pirtobrutinib phase 1",
+   "traitement": "Pirtobrutinib par voie orale, doses croissantes (doses non précisées)"
+  },
+  {
+   "nom": "Pirtobrutinib phase 2",
+   "traitement": "Pirtobrutinib par voie orale, plusieurs doses comparées (non précisées)"
+  },
+  {
+   "nom": "Placebo phase 2",
+   "traitement": "Placebo par voie orale"
+  }
+ ],
+ "duree": "Environ 16 semaines (phase 1) ou 28 semaines (phase 2), hors dépistage",
+ "critere": "Phase 1 : événements indésirables et toxicités limitantes jusqu'à la semaine 4 ; phase 2 : efficacité du pirtobrutinib contre placebo jusqu'à la semaine 24"
+}

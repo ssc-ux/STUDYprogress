@@ -1,0 +1,28 @@
+{
+ "h": "27e1cf533c26",
+ "date": "2026-11-13",
+ "titre": "Lymphocytes CAR-T anti-CD19 dans le lupus systémique réfractaire",
+ "question": "Les lymphocytes CAR-T anti-CD19 sont-ils sûrs chez des patients atteints de lupus systémique réfractaire ?",
+ "contexte": "Le lupus systémique (LES) peut entraîner des atteintes d'organes sévères, en particulier rénales. Chez l'enfant, la maladie est souvent plus grave et plus prolongée que chez l'adulte. Le traitement repose sur les corticoïdes et les immunosuppresseurs et nécessite le plus souvent un traitement à vie, aucun traitement curatif n'étant disponible.\n\nMalgré les biothérapies récentes (bélimumab, rituximab, anifrolumab), une partie des patients reste en échec, avec une activité persistante ou une dépendance aux corticoïdes. Les cellules CAR-T anti-CD19 éliminent en profondeur les lymphocytes B, y compris les plasmablastes producteurs d'auto-anticorps. Des séries de cas récentes ont rapporté des rémissions prolongées sans traitement dans des LES réfractaires.\n\nCet essai de phase 1 est ouvert, à bras unique, multicentrique et d'initiative investigateur. Il est promu par l'hôpital pour enfants de l'Université de Zhejiang, avec Chongqing Precision Biotech. Il a inclus 22 patients âgés de 5 ans et plus, à la dose cible de 1×10^5 cellules CAR+/kg. L'objectif principal est la sécurité.",
+ "interet": "L'essai pourrait documenter la sécurité de cette approche, y compris chez l'enfant, dans les LES résistants aux traitements. Il constitue une étape préalable à des essais d'efficacité plus larges.",
+ "profil": "Des patients de 5 ans et plus atteints de lupus systémique réfractaire, actif malgré un traitement standard ou intolérants à ce traitement.",
+ "inclusion": [
+  "Âge ≥ 5 ans",
+  "Lupus systémique selon les critères EULAR/ACR 2019, SLEDAI-2K ≥ 8",
+  "Échec d'au moins 6 mois de traitement standard (corticoïdes à forte dose, hydroxychloroquine, au moins deux immunosuppresseurs ou biothérapies) ou intolérance",
+  "Atteinte d'organe majeure active (néphrite lupique, atteinte neurologique, cytopénie réfractaire) ou dépendance aux corticoïdes",
+  "Fonction d'organe correcte (FEVG ≥ 55 %, ASAT/ALAT ≤ 3 N, SpO2 ≥ 92 %)",
+  "Éligibilité à la leucaphérèse"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-CD19",
+   "traitement": "Perfusion de lymphocytes CAR-T anti-CD19, dose cible 1×10^5 cellules CAR+/kg"
+  }
+ ],
+ "duree": "3 mois pour le critère principal; durée totale du suivi non précisée",
+ "critere": "Sécurité des lymphocytes CAR-T dans le lupus réfractaire, évaluée à 3 mois."
+}

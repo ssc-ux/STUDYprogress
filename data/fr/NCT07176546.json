@@ -1,0 +1,36 @@
+{
+ "h": "a3f12c494220",
+ "date": "2026-11-13",
+ "titre": "Avacopan dans les manifestations ORL de la granulomatose avec polyangéite",
+ "question": "L'avacopan, ajouté au traitement standard, améliore-t-il la rémission des atteintes ORL actives de la GPA sans rechute à 52 semaines ?",
+ "contexte": "La granulomatose avec polyangéite (GPA) touche très souvent la sphère ORL : rhinorrhée sanglante, atteinte nasale ou laryngée, sténose sous-glottique, otite moyenne, surdité brusque. Ces lésions répondent mal aux traitements, rechutent fréquemment et causent des séquelles fonctionnelles, même quand les atteintes systémiques sont contrôlées.\n\nL'avacopan, antagoniste oral du récepteur C5a, est approuvé en association au rituximab ou au cyclophosphamide dans les vascularites à ANCA sévères. Dans l'essai ADVOCATE, les atteintes ORL n'ont pas fait l'objet d'une évaluation dédiée. L'effet de l'avacopan sur l'inflammation des voies aériennes supérieures de la GPA est donc peu documenté.\n\nCet essai monocentrique de phase 2/3, mené par Robert Spiera (Hospital for Special Surgery, New York), est randomisé, en double aveugle contre placebo. Il inclut 30 adultes ayant une GPA avec atteinte active dans au moins deux domaines ORL, évaluée par endoscopie et audiométrie par un otorhinolaryngologiste unique. Tous reçoivent le traitement standard, plus avacopan 30 mg deux fois par jour ou placebo, pendant 52 semaines.",
+ "interet": "Il pourrait préciser si l'avacopan offre un bénéfice ciblé sur l'atteinte ORL de la GPA, localisation difficile à traiter. L'étude monocentrique et de petite taille aura valeur exploratoire.",
+ "profil": "Des adultes ayant une GPA avec atteinte ORL active, nouvelle ou en rechute.",
+ "inclusion": [
+  "GPA avec score d'au moins 5 aux critères ACR/EULAR 2022",
+  "Atteinte ORL active dans le mois précédant le dépistage (score ORL d'au moins 2 sur 7 items, par endoscopie et audiométrie)",
+  "Âge de 18 ans ou plus",
+  "Contraception acceptable jusqu'à 12 mois après le traitement",
+  "AST ou ALT inférieures à 2 fois la normale",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Créatinine supérieure à 4 mg/dL, DFG inférieur à 15 mL/min ou dialyse",
+  "Insuffisance respiratoire sous ventilation mécanique ou hémorragie alvéolaire ventilée",
+  "Avacopan dans les 6 mois précédents",
+  "Impossibilité de respecter le protocole",
+  "Glucocorticoïdes IV dans les 4 semaines précédentes (sauf prémédication)"
+ ],
+ "bras": [
+  {
+   "nom": "Avacopan",
+   "traitement": "Avacopan 30 mg deux fois par jour, en plus du traitement standard"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo identique deux fois par jour, en plus du traitement standard"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients en rémission ORL sans rechute à la semaine 52."
+}

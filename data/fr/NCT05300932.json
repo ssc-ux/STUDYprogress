@@ -1,0 +1,33 @@
+{
+ "h": "b13aa02d3bdb",
+ "date": "2026-11-13",
+ "titre": "Baricitinib dans la sclérodermie systémique cutanée diffuse",
+ "question": "Le baricitinib est-il plus efficace que le cyclophosphamide sur l'induration cutanée (mRSS) à 24 semaines dans la sclérodermie diffuse précoce ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare associant fibrose cutanée et vasculopathie, avec atteinte potentielle des systèmes musculosquelettique, cardiaque, pulmonaire et digestif. Les patients souffrent de douleur, fatigue, dyspnée, handicap de la main et troubles du sommeil, avec un retentissement sur la qualité de vie et un risque d'anxiété et de dépression.\n\nDans la forme cutanée diffuse (dcSSc), le cyclophosphamide associé aux corticoïdes est un traitement de référence en Chine, mais il est toxique. Le baricitinib, inhibiteur oral de JAK1/2, pourrait réduire la fibrose et l'inflammation.\n\nCette étude de phase 4, non randomisée, prospective, de 48 semaines, est menée par l'hôpital Tongji avec plusieurs centres chinois et le soutien d'Eli Lilly et de Johns Hopkins. Elle compare le baricitinib au cyclophosphamide, avec corticoïdes autorisés. Les 24 premières semaines sont en double aveugle. Elle inclut 60 patients atteints de ScS diffuse évoluant depuis 36 mois au plus. Elle mesure l'effet sur le mRSS et sur le CRISS, indice composite validé pour les essais sur la sclérodermie.",
+ "interet": "L'étude pourrait situer le baricitinib par rapport à un traitement immunosuppresseur classique dans la ScS diffuse précoce. Le schéma non randomisé et l'effectif limité imposent la prudence.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse évoluant depuis 36 mois au plus.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013, forme diffuse (LeRoy et Medsger)",
+  "Durée de la maladie ≤ 36 mois depuis la première manifestation non Raynaud",
+  "mRSS de 10 à 35 si durée ≤ 18 mois, de 15 à 45 avec progression récente si durée de 18 à 36 mois",
+  "Âge ≥ 18 ans; test de grossesse négatif",
+  "Corticoïdes ≤ 10 mg/j de prednisone et AINS stables depuis 2 semaines"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatismale (fibromyalgie et myopathie sclérodermique acceptées)",
+  "Forme cutanée limitée ou sine scleroderma",
+  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "Baricitinib",
+   "traitement": "Baricitinib 4 mg par voie orale chaque jour pendant 48 semaines"
+  },
+  {
+   "nom": "Cyclophosphamide",
+   "traitement": "Cyclophosphamide 400 mg IV toutes les 2 semaines avec prednisone 10-15 mg/j pendant 24 semaines, puis baricitinib"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Variation du score de Rodnan modifié (mRSS) à 24 semaines."
+}

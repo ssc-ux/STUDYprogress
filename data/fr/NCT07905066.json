@@ -1,0 +1,38 @@
+{
+ "h": "a2c2018d6994",
+ "date": "2026-11-13",
+ "titre": "Risque de LHH à 7 jours après allogreffe : cohorte multicentrique et modèle prédictif",
+ "question": "Peut-on prédire, à partir des examens biologiques courants, la survenue d'une LHH dans les 7 jours suivant une allogreffe de cellules souches ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est une complication inflammatoire grave pouvant survenir après allogreffe de cellules souches hématopoïétiques. Ses signes (fièvre, cytopénies, hyperferritinémie, atteinte hépatique) recoupent ceux des infections et d'autres complications de la greffe, ce qui retarde le diagnostic.\n\nLa fréquence réelle de la LHH post-greffe et ses facteurs de risque restent mal décrits, et aucun outil dynamique ne permet de l'anticiper. Cette étude observationnelle ambispective et multicentrique, promue par l'hôpital universitaire de Pékin, combine l'analyse de dossiers existants (greffes depuis 2014) et un suivi prospectif dans des centres chinois. Elle utilise un schéma cas-cohorte stratifié, avec un sous-échantillon aléatoire de 15 % et tous les cas de LHH. Environ 20 000 adultes à leur première allogreffe sont attendus, dont environ 400 LHH. L'objectif est de décrire l'incidence cumulée et de développer, puis de valider indépendamment, un modèle prédisant la LHH dans les 7 jours suivants à partir des variations biologiques et cliniques.",
+ "interet": "Un modèle validé pourrait aider à repérer plus tôt les receveurs d'allogreffe à risque de LHH et à déclencher un bilan ou un traitement précoce. Il reste à démontrer qu'une alerte précoce améliore le pronostic.",
+ "profil": "Des adultes ayant reçu une première allogreffe de cellules souches hématopoïétiques dans un centre participant.",
+ "inclusion": [
+  "Âge ≥ 18 ans à la première allogreffe",
+  "Première allogreffe réalisée dans un centre participant sur la période d'étude",
+  "Date de greffe et données cliniques de base vérifiables",
+  "Consentement écrit pour la partie prospective (données rétrospectives sous procédure éthique applicable)"
+ ],
+ "exclusion": [
+  "Autogreffe ou autre type de greffe que celle de cellules souches hématopoïétiques",
+  "LHH diagnostiquée avant la greffe, ou greffe réalisée principalement pour une LHH",
+  "Allogreffe antérieure",
+  "Identité, date de greffe ou critères de jugement non vérifiables",
+  "Refus explicite de participer ou d'utiliser les données"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte rétrospective",
+   "traitement": "Patients dont le suivi s'est terminé avant l'ouverture de l'étude ; analyse de dossiers"
+  },
+  {
+   "nom": "Cohorte prospective",
+   "traitement": "Patients vus pour la première fois après l'ouverture de l'étude ; suivi prospectif"
+  },
+  {
+   "nom": "Cohorte ambispective",
+   "traitement": "Patients vus avant l'ouverture de l'étude et dont le suivi se poursuit après"
+  }
+ ],
+ "duree": "Jusqu'à 365 jours après la greffe",
+ "critere": "Incidence cumulée d'une première LHH de novo dans les 365 jours après la greffe, et performance (discrimination, calibration, valeur prédictive positive) du modèle prédisant la LHH à 7 jours."
+}

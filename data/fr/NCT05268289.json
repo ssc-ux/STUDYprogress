@@ -1,0 +1,47 @@
+{
+ "h": "54d4f41c32ef",
+ "date": "2026-11-13",
+ "titre": "Iptacopan en association au traitement standard dans la néphrite lupique active de classe III-IV",
+ "question": "L'iptacopan ajouté au traitement standard augmente-t-il la réponse rénale complète dans la néphrite lupique active ?",
+ "contexte": "La néphrite lupique de classe III ou IV, avec ou sans composante de classe V, est une atteinte rénale sévère du lupus qui peut évoluer vers l'insuffisance rénale chronique. Le traitement d'induction associe corticoïdes et mycophénolate (MMF/MPA) ou cyclophosphamide, parfois avec bélimumab, voclosporine ou anti-CD20.\n\nLa réponse rénale complète n'est obtenue que chez une partie des patients, avec une toxicité des corticoïdes à long terme. L'activation de la voie alterne du complément participe aux lésions glomérulaires.\n\nL'iptacopan (LNP023) est un inhibiteur oral du facteur B, qui bloque la voie alterne du complément. Cette étude de phase 2 de Novartis, en deux parties, évalue son efficacité et sa tolérance associé au traitement standard, avec comparaison à un placebo. Le critère principal est la proportion de patients en réponse rénale complète à la semaine 24 sans poussée rénale.",
+ "interet": "Une efficacité démontrée soutiendrait une approche ciblant le complément dans la néphrite lupique, avec un possible effet d'épargne des traitements immunosuppresseurs.",
+ "profil": "Des adultes atteints de néphrite lupique active de classe III ou IV, avec ou sans classe V, confirmée par biopsie, en première poussée ou poussée.",
+ "inclusion": [
+  "ANA ou anti-ADN natif positifs au dépistage",
+  "Néphrite lupique active de classe III ou IV (± V) prouvée par biopsie dans les 3 mois",
+  "Atteinte rénale active nécessitant corticoïdes avec MMF/MPA",
+  "DFGe ≥ 30 mL/min/1,73 m²",
+  "Vaccination contre méningocoque, pneumocoque et Haemophilus influenzae",
+  "Traitement de soutien stable (antipaludéens, IEC ou ARA2)"
+ ],
+ "exclusion": [
+  "Cyclophosphamide d'induction dans les 3 mois ou inhibiteur de la calcineurine dans les 3 mois avant la randomisation",
+  "Glomérulonéphrite rapidement progressive (baisse du DFGe de 50 % en 3 mois)",
+  "Fibrose interstitielle, atrophie tubulaire ou glomérulosclérose > 50 % à la biopsie rénale",
+  "Corticoïdes systémiques > 5 mg/j d'équivalent prednisone pour une autre indication que le LES ou la néphrite lupique"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 : iptacopan + traitement standard",
+   "traitement": "Iptacopan par voie orale en plus du traitement standard"
+  },
+  {
+   "nom": "Partie 1 : placebo + traitement standard",
+   "traitement": "Placebo de l'iptacopan en plus du traitement standard"
+  },
+  {
+   "nom": "Partie 2 : iptacopan + traitement standard",
+   "traitement": "Iptacopan par voie orale en plus du traitement standard"
+  },
+  {
+   "nom": "Partie 2 : iptacopan + placebo",
+   "traitement": "Iptacopan associé à un placebo du traitement standard"
+  },
+  {
+   "nom": "Partie 2 : placebo + traitement standard",
+   "traitement": "Placebo de l'iptacopan en plus du traitement standard"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 24 semaines)",
+ "critere": "Proportion de patients en réponse rénale complète à la semaine 24, en l'absence de poussée rénale."
+}

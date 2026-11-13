@@ -1,0 +1,32 @@
+{
+ "h": "a3700c2a2c41",
+ "date": "2026-11-13",
+ "titre": "Recherche de dose du sarilumab chez l'enfant atteint d'arthrite juvénile idiopathique systémique",
+ "question": "Quelle dose et quel rythme de sarilumab conviennent aux enfants de 1 à 17 ans atteints d'AJI systémique, d'après leur pharmacocinétique ?",
+ "contexte": "L'arthrite juvénile idiopathique systémique (AJIs) est une forme inflammatoire sévère de l'enfant, avec fièvre, éruption, arthrite, sérite et risque de syndrome d'activation macrophagique (SAM). Elle est liée à une dérégulation des voies de l'IL-1 et de l'IL-6. Les antagonistes de l'IL-1 (anakinra, canakinumab) et le tocilizumab, anti-récepteur de l'IL-6, sont les biothérapies de référence, avec corticoïdes et AINS. Certains patients restent en échec ou intolérants.\n\nLe sarilumab est un anticorps anti-récepteur de l'IL-6 (IL-6R) déjà utilisé dans la polyarthrite rhumatoïde de l'adulte. Il est administré par voie sous-cutanée. Son usage chez l'enfant nécessite de définir précisément la dose en fonction du poids.\n\nSKYPS est une étude de phase 2 ouverte à bras unique, promue par Sanofi, qui inclut 51 enfants et adolescents de 1 à 17 ans en réponse insuffisante au traitement en cours, dans 14 pays dont la France. Deux doses croissantes (ou une dose intermédiaire) sont testées selon le poids, puis la dose retenue est donnée à tous les patients. L'objectif principal est la pharmacocinétique, puis la pharmacodynamie, l'efficacité et la sécurité à long terme.",
+ "interet": "La dose pédiatrique retenue pourrait ouvrir la voie à des essais d'efficacité et à une éventuelle alternative au tocilizumab chez l'enfant. Le suivi de 166 semaines renseigne la tolérance à long terme (infections, neutropénie).",
+ "profil": "Des enfants et adolescents de 1 à 17 ans atteints d'arthrite juvénile idiopathique systémique, avec réponse insuffisante au traitement actuel.",
+ "inclusion": [
+  "Âge de 1 à 17 ans (6 à 17 ans en Russie)",
+  "AJI systémique selon l'ILAR 2001 ou les recommandations EULAR/PReS 2024",
+  "Réponse insuffisante au traitement en cours",
+  "Candidat à un traitement de fond biologique selon l'investigateur"
+ ],
+ "exclusion": [
+  "Poids < 10 kg, ou > 60 kg dans les cohortes d'escalade",
+  "Symptômes systémiques non contrôlés ou SAM dans les 6 mois",
+  "Antécédent de PID, d'hypertension pulmonaire ou de protéinose alvéolaire",
+  "Traitement antérieur par anti-IL-6 ou anti-IL-6R (tocilizumab, sarilumab)",
+  "Autre biothérapie ou anti-JAK récents, corticoïdes à dose élevée ou injectés récemment",
+  "Tuberculose ou infection active, vaccin vivant dans les 4 semaines",
+  "Hypersensibilité aux biothérapies, anomalies biologiques ou cardiopathie sévère liée à l'AJIs, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Sarilumab",
+   "traitement": "Sarilumab sous-cutané selon le poids, à l'une de deux doses croissantes (ou dose intermédiaire), puis dose retenue pour tous ; 12 semaines de traitement principal puis extension de 144 semaines"
+  }
+ ],
+ "duree": "166 semaines (dépistage de 4 semaines, 12 semaines de traitement, 144 semaines d'extension, 6 semaines de suivi)",
+ "critere": "Paramètres pharmacocinétiques (Cmax, ASC, Ctrough) du sarilumab jusqu'à la semaine 12"
+}

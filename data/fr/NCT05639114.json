@@ -1,0 +1,39 @@
+{
+ "h": "f45599a2c30c",
+ "date": "2026-11-13",
+ "titre": "Deux schémas d'ianalumab en plus du traitement standard dans le lupus systémique (SIRIUS-SLE 1)",
+ "question": "L'ianalumab, en injection sous-cutanée mensuelle ou trimestrielle, améliore-t-il la réponse SRI-4 à 60 semaines par rapport au placebo dans le lupus systémique actif ?",
+ "contexte": "Le lupus systémique (LES) actif reste difficile à contrôler malgré le traitement standard par corticoïdes, antipaludéens et immunosuppresseurs. Les biothérapies disponibles ciblent le BAFF ou le récepteur de l'interféron de type I, avec une efficacité partielle. Le rôle central des lymphocytes B dans la production d'auto-anticorps justifie de rechercher des stratégies de déplétion plus complètes.\n\nL'ianalumab est un anticorps monoclonal dirigé contre le récepteur du BAFF (BAFF-R). Il a une double action : déplétion des lymphocytes B par cytotoxicité cellulaire dépendante des anticorps, et blocage de la signalisation BAFF. Il est également étudié dans d'autres maladies auto-immunes.\n\nSIRIUS-SLE 1 est un essai de phase 3 promu par Novartis, randomisé, en quadruple insu et contre placebo. Il a inclus 436 participants (12 ans et plus, 18 ans et plus dans l'Espace économique européen) atteints de LES actif (SLEDAI-2K ≥ 6, BILAG A ou deux B). Il compare deux schémas sous-cutanés, mensuel et trimestriel, au placebo en plus du traitement standard.",
+ "interet": "Si l'ianalumab est efficace, il offrirait une option de déplétion B ciblée et un rythme d'injection espacé. Cela élargirait les choix thérapeutiques pour le lupus actif résistant au traitement standard.",
+ "profil": "Des adolescents et adultes (≥ 12 ans, ≥ 18 ans dans l'EEE) atteints de lupus systémique actif sous traitement standard.",
+ "inclusion": [
+  "Âge ≥ 12 ans (≥ 18 ans dans l'Espace économique européen), poids ≥ 35 kg",
+  "Lupus selon les critères EULAR/ACR 2019, diagnostiqué depuis ≥ 6 mois",
+  "ANA ≥ 1:80 (laboratoire central), profil de fluorescence typique",
+  "Corticoïdes, antipaludéens et/ou autre DMARD en cours, selon le protocole",
+  "SLEDAI-2K ≥ 6 (hors fièvre, céphalée lupique, alopécie, syndrome cérébral organique)",
+  "BILAG-2004 : niveau A dans ≥ 1 organe ou niveau B dans ≥ 2 organes"
+ ],
+ "exclusion": [
+  "Traitement antérieur par ianalumab",
+  "Corticoïdes à forte dose, inhibiteurs de la calcineurine, anti-JAK ou autres DMARD dans les 12 semaines précédentes",
+  "Cyclophosphamide, immunoglobulines, plasmaphérèse, anti-récepteur de l'interféron, anti-CD40, CTLA4-Fc ou anti-BAFF dans les 24 semaines précédentes",
+  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab mensuel",
+   "traitement": "Ianalumab par voie sous-cutanée, une fois par mois"
+  },
+  {
+   "nom": "Ianalumab trimestriel",
+   "traitement": "Ianalumab par voie sous-cutanée, une fois par trimestre"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie sous-cutanée, une fois par mois"
+  }
+ ],
+ "duree": "Au moins 60 semaines (durée totale de suivi non précisée)",
+ "critere": "Proportion de participants sous ianalumab mensuel obtenant une réponse SRI-4 à la semaine 60."
+}

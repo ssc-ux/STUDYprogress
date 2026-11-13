@@ -1,0 +1,14 @@
+{
+ "h": "9a181cb9f26a",
+ "date": "2026-11-13",
+ "titre": "Dexaméthasone à forte dose avec orélabrutinib ou placebo dans le PTI primaire nouvellement diagnostiqué",
+ "question": "L'ajout de l'orélabrutinib à la dexaméthasone à forte dose augmente-t-il le taux de réponse globale dans le PTI primaire de l'adulte nouvellement diagnostiqué ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. La dexaméthasone à forte dose (40 mg/j pendant 4 jours) est une première ligne courante. Elle donne une réponse initiale rapide chez la majorité des patients, mais la réponse est souvent non soutenue.\n\nLes inhibiteurs de la tyrosine kinase de Bruton (BTK) agissent sur les lymphocytes B et sur la phagocytose des plaquettes médiée par les récepteurs Fc. Le rilzabrutinib est évalué dans le PTI. L'orélabrutinib, un inhibiteur de BTK de nouvelle génération développé en Chine et déjà utilisé en oncohématologie, pourrait prolonger la réponse aux corticoïdes.\n\nCet essai de phase 3 randomisé, promu par l'Université du Shandong, inclut 86 adultes de 18 à 80 ans nouvellement diagnostiqués. Les patients doivent avoir répondu à une première cure de dexaméthasone. Ils sont ensuite randomisés entre dexaméthasone plus orélabrutinib et dexaméthasone plus placebo.",
+ "interet": "Si l'orélabrutinib améliore la réponse, il pourrait devenir un adjuvant oral de première ligne et réduire les cures répétées de corticoïdes dans le PTI récent.",
+ "profil": "Des adultes de 18 à 80 ans atteints de PTI primaire nouvellement diagnostiqué, non traité, ayant répondu à une première cure de dexaméthasone.",
+ "inclusion": ["Âge de 18 à 80 ans, poids ≥ 35 kg, consentement signé", "PTI primaire nouvellement diagnostiqué, non traité, plaquettes < 30 G/L, sans saignement actif d'organe vital", "Réponse à la dexaméthasone 40 mg/j × 4 jours (plaquettes ≥ 30 G/L, ≥ doublées, sans saignement entre J5 et J7)", "Contraception efficace chez les femmes en âge de procréer"],
+ "exclusion": ["PTI sévère avec recours prévisible à un traitement de secours dans les 2 semaines", "Autre maladie auto-immune systémique (sauf avis de l'investigateur)", "Absence de réponse à la dexaméthasone préalable", "Hémorragie intracrânienne dans les 6 mois", "Trouble de la coagulation autre que le PTI (CIVD, SHU, PTT)", "Hypersensibilité connue à un composant du traitement"],
+ "bras": [{"nom": "Dexaméthasone à forte dose + orélabrutinib", "traitement": "Dexaméthasone à forte dose associée à l'orélabrutinib oral ; doses non précisées"}, {"nom": "Dexaméthasone à forte dose + placebo", "traitement": "Dexaméthasone à forte dose associée à un placebo"}],
+ "duree": "Environ 6 mois",
+ "critere": "Taux de réponse globale sur l'ensemble de l'étude, en moyenne 6 mois"
+}

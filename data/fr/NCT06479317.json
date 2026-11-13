@@ -1,0 +1,14 @@
+{
+ "h": "96e24913014e",
+ "date": "2026-11-13",
+ "titre": "Hydroxychloroquine plus dexaméthasone dans le PTI avec anticorps antinucléaires positifs",
+ "question": "L'ajout de l'hydroxychloroquine à la dexaméthasone augmente-t-il le taux et la durée de réponse dans le PTI avec anticorps antinucléaires (AAN) positifs ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps détruisent les plaquettes. Une partie des patients ont des anticorps antinucléaires (AAN) positifs sans maladie auto-immune systémique avérée. Dans ce sous-groupe, la réponse à la première ligne est souvent moins bonne et les rechutes plus fréquentes, selon plusieurs séries.\n\nLa dexaméthasone à forte dose en cures de 4 jours est un traitement de première ligne courant, mais l'effet est transitoire chez beaucoup de patients. L'hydroxychloroquine, immunomodulateur utilisé dans le lupus et la polyarthrite, a été proposée comme adjuvant pour prolonger la réponse chez ces patients.\n\nCet essai randomisé, promu par Yunfeng Cheng (hôpital Zhongshan de Shanghai) avec plusieurs centres de Chine et de Macao, compare dexaméthasone plus hydroxychloroquine à la dexaméthasone seule. Il inclut des patients de 15 à 75 ans avec PTI et AAN positifs, sans autre auto-anticorps. L'hydroxychloroquine est prise deux fois par jour pendant un an.",
+ "interet": "L'étude pourrait montrer qu'un adjuvant simple et peu coûteux améliore la durée de réponse dans un sous-groupe de PTI à risque de rechute. Elle pourrait justifier une prise en charge guidée par les AAN.",
+ "profil": "Des patients de 15 à 75 ans atteints de PTI primaire avec anticorps antinucléaires positifs.",
+ "inclusion": ["Âge de 15 à 75 ans", "PTI primaire avec plaquettes < 30 G/L (ou < 50 G/L avec saignement) dans la semaine précédente", "Anticorps antinucléaires positifs", "Autres auto-anticorps négatifs (anti-ADN natif, SSA, SSB, RNP, β2-GP, anticardiolipine, ANCA)", "TP et TCA dans les limites prévues, sans trouble de la coagulation", "Consentement écrit"],
+ "exclusion": ["Thrombopénie secondaire (myélodysplasie, lupus, aplasie, syndrome des antiphospholipides, PTT, etc.)", "Antécédent de thrombose artérielle ou veineuse, ou thrombophilie", "Insuffisance cardiaque NYHA III/IV, arythmie traitée, QTc > 450 ms (480 ms si bloc de branche)", "Hémorragie grave (intracrânienne) ou trouble de la coagulation (INR ou TCA > 125 % de la normale)", "Hypertension ou diabète mal contrôlés"],
+ "bras": [{"nom": "Hydroxychloroquine + dexaméthasone", "traitement": "Dexaméthasone orale 4 jours consécutifs (seconde cure si plaquettes < 30 G/L à 2 semaines) plus hydroxychloroquine 2 fois par jour pendant 1 an"}, {"nom": "Dexaméthasone seule", "traitement": "Dexaméthasone orale 4 jours consécutifs (seconde cure si plaquettes < 30 G/L à 2 semaines)"}],
+ "duree": "1 an",
+ "critere": "Taux de réponse globale à 4 semaines"
+}

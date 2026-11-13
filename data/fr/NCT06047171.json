@@ -1,0 +1,43 @@
+{
+ "h": "0cd112903a6b",
+ "date": "2026-11-13",
+ "titre": "ALE.F02 pour préserver les néphrons dans la glomérulonéphrite rapidement progressive à ANCA",
+ "question": "L'ALE.F02 ajouté au traitement standard est-il bien toléré et protège-t-il le rein dans la glomérulonéphrite rapidement progressive des vascularites à ANCA ?",
+ "contexte": "La glomérulonéphrite rapidement progressive (GNRP) est l'atteinte rénale la plus grave des vascularites à ANCA. Elle conduit à une perte de fonction rénale rapide, avec un risque de dialyse chez une fraction importante de patients malgré un traitement d'induction par rituximab ou cyclophosphamide associé aux corticoïdes. L'objectif actuel est de préserver les néphrons par un contrôle plus rapide des lésions.\n\nLes traitements actuels ciblent l'immunité (déplétion B, immunosuppression) ou le complément (avacopan). Ils n'agissent pas directement sur la fibrose et la réparation de l'épithélium rénal. L'ALE.F02, développé par Alentis Therapeutics, est un anticorps administré par perfusion continue, qui vise, selon son développeur, à limiter l'atteinte tissulaire rénale. Le registre ne précise pas son mécanisme.\n\nRENAL-F02 est un essai de phase 2 randomisé, qui compare trois doses d'ALE.F02 (faible, élevée, maximale) à un placebo, chacune en plus du traitement standard, chez 80 patients dans 10 pays dont la France. Le traitement dure 24 semaines avec 13 perfusions. Une biopsie rénale et un scanner thoracique sont prévus.",
+ "interet": "Un traitement protégeant le rein en plus de l'immunosuppression serait un apport important dans la GNRP à ANCA. L'étude de phase 2 évalue d'abord la tolérance, avec des données exploratoires sur la fonction rénale.",
+ "profil": "Des adultes avec une glomérulonéphrite rapidement progressive récente attribuée à une vascularite à ANCA.",
+ "inclusion": [
+  "Âge ≥ 18 ans, score de fragilité clinique < 7 avant la GNRP",
+  "GNRP nouvellement diagnostiquée dans les 45 jours précédant le traitement, avec DFG entre 10 et 50 mL/min/1,73 m²",
+  "Protéinurie et/ou hématurie associées à l'épisode",
+  "ANCA anti-MPO ou anti-PR3 positifs",
+  "Biopsie rénale réalisée avant la semaine 6 (ou historique datant de moins de 45 jours)",
+  "Poids ≤ 130 kg ; contraception adaptée"
+ ],
+ "exclusion": [
+  "Antécédent de GNRP résolue ou améliorée avec rechute",
+  "Sérologie anti-MBG positive",
+  "Tuberculose active ou latente (QuantiFERON positif ou critères radiologiques)",
+  "Autres critères d'exclusion non détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement standard + ALE.F02 faible dose",
+   "traitement": "ALE.F02 en perfusion à faible dose (13 perfusions) avec traitement standard"
+  },
+  {
+   "nom": "Traitement standard + ALE.F02 forte dose",
+   "traitement": "ALE.F02 en perfusion à forte dose (13 perfusions) avec traitement standard"
+  },
+  {
+   "nom": "Traitement standard + ALE.F02 dose maximale",
+   "traitement": "ALE.F02 en perfusion à dose maximale (13 perfusions) avec traitement standard"
+  },
+  {
+   "nom": "Traitement standard + placebo",
+   "traitement": "Placebo en perfusion avec traitement standard"
+  }
+ ],
+ "duree": "Environ 1 an (24 semaines de traitement puis suivi)",
+ "critere": "Sécurité et tolérance de l'ALE.F02 en perfusion continue intraveineuse, jusqu'à la fin de l'étude (environ 1 an)"
+}

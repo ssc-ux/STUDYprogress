@@ -1,0 +1,37 @@
+{
+ "h": "eaaca7a8c6b4",
+ "date": "2026-11-13",
+ "titre": "Inébilizumab pour prévenir les poussées de la maladie liée aux IgG4",
+ "question": "L'inébilizumab réduit-il le risque de poussée de la maladie liée aux IgG4 par rapport au placebo sur 52 semaines ?",
+ "contexte": "La maladie liée aux IgG4 (IgG4-RD) est une maladie fibro-inflammatoire immuno-médiée qui peut toucher de nombreux organes : pancréas, voies biliaires, glandes salivaires et lacrymales, rétropéritoine, reins, aorte. Les corticoïdes obtiennent une réponse rapide, mais les rechutes à l'arrêt sont fréquentes, et l'exposition prolongée aux corticoïdes est toxique. Il n'existait pas jusqu'ici de traitement de fond validé par un essai randomisé.\n\nL'inébilizumab est un anticorps anti-CD19 qui déplète les lymphocytes B, y compris les plasmablastes producteurs d'IgG4. MITIGATE est une étude de phase 3 randomisée en double aveugle contre placebo, avec perfusions intraveineuses sur 52 semaines. Elle cible les patients à haut risque de poussée (atteinte multi-organes, maladie récemment active). Tous reçoivent une décroissance initiale de corticoïdes. Une extension ouverte optionnelle de 3 ans est prévue. Le promoteur est Amgen (étude reprise de Horizon) ; 135 participants ont été inclus.",
+ "interet": "Un résultat positif ferait de l'anti-CD19 un traitement de fond de la maladie liée aux IgG4, avec pour bénéfice attendu une réduction des rechutes et de l'exposition aux corticoïdes.",
+ "profil": "Des adultes atteints de maladie liée aux IgG4 touchant au moins 2 organes, en poussée récente nécessitant des corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic clinique de maladie liée aux IgG4, critères ACR/EULAR 2019",
+  "Poussée actuelle ou récente nécessitant d'initier ou de poursuivre des corticoïdes",
+  "Atteinte d'au moins 2 organes ou sites à un moment de la maladie",
+  "Contraception adaptée pour les hommes et les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Greffe d'organe ou de cellules, déficit immunitaire connu",
+  "Cancer actif ou datant de moins de 10 ans (sauf situations précises)",
+  "Biothérapie ciblant les lymphocytes B dans les 6 mois",
+  "DMARD non biologique ou immunosuppresseur autre que les corticoïdes dans les 4 semaines",
+  "Tuberculose active ou à risque, hépatite C non traitée, hépatite B",
+  "Vaccin vivant dans les 2 semaines",
+  "DFGe < 30 mL/min/1,73 m²"
+ ],
+ "bras": [
+  {
+   "nom": "Inébilizumab",
+   "traitement": "Inébilizumab par perfusion intraveineuse après prémédication (dose non précisée), avec décroissance initiale de corticoïdes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par perfusion intraveineuse, avec décroissance initiale de corticoïdes"
+  }
+ ],
+ "duree": "Jusqu'à 400 jours (dépistage et période randomisée), plus une extension ouverte optionnelle de 3 ans et un suivi de sécurité jusqu'à 730 jours",
+ "critere": "Délai jusqu'à la première poussée de la maladie, validée par un comité d'adjudication et traitée par l'investigateur, jusqu'à la semaine 52"
+}

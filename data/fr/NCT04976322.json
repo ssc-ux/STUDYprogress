@@ -1,0 +1,27 @@
+{
+ "h": "595f61398705",
+ "date": "2026-11-13",
+ "titre": "Extension à long terme du dapirolizumab pegol dans le lupus systémique",
+ "question": "Le dapirolizumab pegol est-il bien toléré lors d'un traitement prolongé chez des patients atteints de lupus systémique ?",
+ "contexte": "Le lupus systémique (LES) est une maladie chronique pour laquelle les traitements ciblés actuels n'offrent qu'un contrôle partiel. La voie CD40/CD40L joue un rôle central dans l'activation des lymphocytes B et T et dans la production d'auto-anticorps, ce qui en fait une cible thérapeutique.\n\nLe dapirolizumab pegol (DZP) est un fragment Fab' pégylé dirigé contre CD40L, dépourvu de fragment Fc. Cette structure vise à éviter les complications thromboemboliques observées avec des anticorps anti-CD40L plus anciens. Le DZP est évalué chez des patients atteints de LES dans des essais « parents », dont le développement est promu par UCB Biopharma.\n\nCette étude de phase 3, ouverte et à bras unique, est une extension de ces essais. Elle propose le DZP aux participants qui les ont terminés dans les 4 semaines précédentes et qui, selon l'investigateur, pourraient bénéficier d'un traitement prolongé. Elle inclut environ 760 participants âgés de 16 ans et plus. Son but est de recueillir des données de sécurité et de tolérance à long terme.",
+ "interet": "Les données de sécurité à long terme sont indispensables avant toute approbation d'un nouveau traitement du lupus. Cette extension précisera le profil de tolérance du dapirolizumab pegol sur une exposition prolongée.",
+ "profil": "Des patients de 16 ans et plus atteints de lupus systémique ayant terminé un essai précédent avec le dapirolizumab pegol.",
+ "inclusion": [
+  "Participant pouvant bénéficier d'un traitement prolongé par dapirolizumab pegol selon l'investigateur",
+  "Étude parente terminée dans les 4 semaines précédant l'entrée",
+  "Âge ≥ 16 ans"
+ ],
+ "exclusion": [
+  "Affection médicale ou psychiatrique (dont lupus neuropsychiatrique) pouvant compromettre la participation",
+  "Affection menaçant le pronostic vital",
+  "Cancer en cours au début de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Dapirolizumab pegol",
+   "traitement": "Dapirolizumab pegol pendant toute la période de traitement (dose et rythme non précisés)"
+  }
+ ],
+ "duree": "Jusqu'à 110 semaines, suivi de sécurité compris",
+ "critere": "Incidence des événements indésirables survenus sous traitement, des événements graves et des arrêts définitifs pour événement indésirable, jusqu'à la semaine 110."
+}

@@ -1,0 +1,30 @@
+{
+ "h": "5bb052ce6664",
+ "date": "2026-11-13",
+ "titre": "Étude de poursuite et de suivi à long terme du dabrafénib et du tramétinib chez l'enfant",
+ "question": "Quelle est la sécurité à long terme du dabrafénib et/ou du tramétinib chez les enfants ayant été traités dans une étude Novartis antérieure ?",
+ "contexte": "Le dabrafénib (inhibiteur de BRAF) et le tramétinib (inhibiteur de MEK) sont utilisés en association dans les gliomes pédiatriques porteurs d'une mutation BRAF V600. Les gliomes de bas grade et de haut grade de l'enfant, ainsi que les tumeurs associées à la neurofibromatose de type 1, sont des indications étudiées dans les essais parents. Le traitement peut durer plusieurs années, et les données de sécurité sur la croissance, le développement et les effets tardifs restent limitées chez l'enfant.\n\nCette étude de phase 4, ouverte et multicentrique, est une étude de poursuite (roll-over) et de suivi à long terme. Elle s'adresse aux patients ayant participé à une étude Novartis sur le dabrafénib et/ou le tramétinib (par exemple CTMT212X2101, CDRB436G2201, CDRB436A2102), lorsque l'étude parente est appelée à fermer. Les patients qui bénéficient du traitement peuvent le poursuivre, et ceux qui l'ont arrêté restent suivis. Le promoteur est Novartis ; 163 participants ont été inclus.",
+ "interet": "Elle permet de poursuivre un traitement bénéfique après la fermeture des essais, et de recueillir des données de sécurité à long terme chez l'enfant. Ces données renseignent les effets tardifs des inhibiteurs de BRAF et de MEK.",
+ "profil": "Des enfants et adultes (de 1 à 99 ans) ayant reçu du dabrafénib et/ou du tramétinib dans une étude Novartis pédiatrique, pour un gliome ou une tumeur associée à une neurofibromatose de type 1.",
+ "inclusion": [
+  "Consentement éclairé signé (patient et/ou parents ou représentant légal)",
+  "Participation à une étude Novartis sur le dabrafénib et/ou le tramétinib, quel que soit l'âge actuel",
+  "Fermeture prévue de l'étude parente ou de la cohorte",
+  "Observance du protocole de l'étude parente",
+  "Période de traitement : traitement en cours et bénéfice attendu selon l'investigateur"
+ ],
+ "exclusion": [
+  "Participation à un essai associant dabrafénib et/ou tramétinib à un autre médicament de l'étude",
+  "Période de traitement : arrêt définitif du traitement dans l'étude parente, quelle qu'en soit la raison",
+  "Période de traitement : traitement commercialisé, disponible et remboursé dans le pays pour l'indication",
+  "Période de traitement : toxicité sévère non résolue liée au traitement ayant conduit à l'interruption"
+ ],
+ "bras": [
+  {
+   "nom": "Dabrafénib et/ou tramétinib",
+   "traitement": "Poursuite du traitement reçu dans l'étude parente : dabrafénib seul, tramétinib seul ou association (doses non précisées) ; suivi à long terme pour ceux qui ont arrêté"
+  }
+ ],
+ "duree": "Environ 7 ans",
+ "critere": "Nombre de participants avec événements indésirables et événements indésirables graves, de l'inclusion jusqu'à environ 7 ans"
+}

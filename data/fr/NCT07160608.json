@@ -1,0 +1,37 @@
+{
+ "h": "5e9c2bd497b8",
+ "date": "2026-11-13",
+ "titre": "Tarperprumig dans les vascularites associées aux ANCA",
+ "question": "Le tarperprumig est-il sûr et bien toléré chez des patients atteints de vascularite à ANCA nouvellement diagnostiquée ou en rechute ?",
+ "contexte": "Les vascularites associées aux ANCA, granulomatose avec polyangéite (GPA) et polyangéite microscopique (PAM), touchent les petits vaisseaux, en particulier le rein et le poumon. L'induction repose sur le rituximab ou le cyclophosphamide associés aux corticoïdes. La toxicité des corticoïdes, les rechutes et l'atteinte rénale irréversible restent des problèmes majeurs.\n\nLe complément, notamment la voie alterne et la C5a, participe à l'inflammation vasculaire : l'avacopan, antagoniste du récepteur C5a, est déjà utilisé. Le tarperprumig est un médicament expérimental d'Alexion, société spécialisée dans le complément ; le registre ne précise ni sa cible ni sa voie d'administration.\n\nCet essai de phase 2 inclut 78 adultes de 18 à 80 ans, atteints de GPA ou de PAM active, dans 14 pays dont la France. Les patients reçoivent le tarperprumig selon deux schémas posologiques ou un placebo, en plus du traitement par rituximab ou cyclophosphamide. Son critère principal est la sécurité et la tolérance sur 70 semaines.",
+ "interet": "Cette étude de phase 2 oriente le développement de ce traitement dans les vascularites à ANCA. Elle renseignera la tolérance et l'effet d'une inhibition du complément ajoutée au traitement d'induction.",
+ "profil": "Des adultes de 18 à 80 ans atteints de GPA ou de PAM active, nouvellement diagnostiquée ou en rechute, devant recevoir du rituximab ou du cyclophosphamide.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "GPA ou PAM récente ou en rechute (critères ACR/EULAR 2022), avec rituximab ou cyclophosphamide envisagé",
+  "ANCA anti-PR3 ou anti-MPO positifs, au dépistage ou auparavant",
+  "BVAS avec ≥ 1 item majeur, ou ≥ 3 items mineurs, ou ≥ 2 items rénaux"
+ ],
+ "exclusion": [
+  "Autre maladie systémique principale (GEPA, lupus, néphropathie à IgA ou vascularite à IgA, vascularite rhumatoïde, Sjögren, anti-MBG, cryoglobulinémie, MCTD, etc.)",
+  "Hémorragie alvéolaire sous ventilation invasive",
+  "Affection exposant à un risque clinique important selon l'investigateur",
+  "Maladie rénale chronique connue avec DFG stable > 3 mois et baisse < 25 %"
+ ],
+ "bras": [
+  {
+   "nom": "Tarperprumig groupe 1",
+   "traitement": "Tarperprumig, schéma posologique n° 1 ou n° 2 (doses non précisées)"
+  },
+  {
+   "nom": "Tarperprumig groupe 2",
+   "traitement": "Tarperprumig, schéma posologique n° 1 ou n° 2 (doses non précisées)"
+  },
+  {
+   "nom": "Placebo groupe 3",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "70 semaines environ",
+ "critere": "Nombre de participants avec des événements indésirables survenus sous traitement, de l'inclusion à la semaine 70"
+}

@@ -1,0 +1,36 @@
+{
+ "h": "a993ed72e913",
+ "date": "2026-11-13",
+ "titre": "Birtamimab associé à la chimiothérapie dans l'amylose AL de stade Mayo IV",
+ "question": "Le birtamimab ajouté au traitement de référence améliore-t-il la survie des patients atteints d'amylose AL de stade Mayo IV ?",
+ "contexte": "L'amylose AL est une gammapathie monoclonale dans laquelle des chaînes légères d'immunoglobulines se déposent sous forme de fibrilles amyloïdes dans les organes, en particulier le cœur. Les patients de stade Mayo IV, avec atteinte cardiaque sévère (NT-proBNP et troponine élevés), ont un pronostic très défavorable, avec une mortalité élevée dans l'année suivant le diagnostic.\n\nLe traitement de référence, bortezomib-cyclophosphamide-dexaméthasone (CyBorD), avec ou sans daratumumab, vise à supprimer le clone produisant les chaînes légères. Il n'élimine pas les dépôts amyloïdes déjà formés, ce qui explique la persistance d'un dysfonctionnement d'organe et d'un excès de décès précoces.\n\nLe birtamimab est un anticorps monoclonal dirigé contre les agrégats de chaînes légères mal repliés, censé favoriser leur élimination et réduire la toxicité cardiaque. AFFIRM-AL est un essai de phase 3 promu par Prothena, randomisé en 2:1, en double insu contre placebo, chez 208 patients nouvellement diagnostiqués de stade IV, dans 23 pays dont la France. Tous reçoivent une chimiothérapie à base de bortezomib. Une phase d'extension ouverte est prévue ensuite.",
+ "interet": "Un anticorps éliminant les dépôts amyloïdes pourrait compléter les traitements ciblant le clone chez les patients les plus graves. Le critère principal est la mortalité toute cause, particulièrement exigeant. Un effet positif serait un changement important de pratique dans cette population.",
+ "profil": "Des adultes nouvellement diagnostiqués d'amylose AL avec atteinte cardiaque de stade Mayo IV, non traités.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose AL confirmée, nouvellement diagnostiquée, sans traitement antérieur, avec atteinte cardiaque",
+  "Stade Mayo IV : NT-proBNP ≥ 1 800 pg/mL, troponine élevée et dFLC ≥ 18 mg/dL",
+  "Chimiothérapie de première ligne prévue contenant du bortezomib SC hebdomadaire"
+ ],
+ "exclusion": [
+  "Amylose non AL",
+  "NT-proBNP > 8 500 pg/mL",
+  "Myélome multiple selon l'IMWG (hors ratio de chaînes légères ≥ 100 seul)",
+  "Autogreffe ou greffe d'organe prévue pendant l'étude",
+  "Infarctus, angor non contrôlé ou arythmie ventriculaire sévère dans les 6 mois",
+  "Sténose valvulaire sévère ou cardiopathie congénitale sévère",
+  "Traitement antérieur dirigé contre les plasmocytes ou l'amylose (dont daratumumab, anti-SAP) ; macroglobulinémie de Waldenström ou gammapathie IgM"
+ ],
+ "bras": [
+  {
+   "nom": "Birtamimab + traitement de référence",
+   "traitement": "Birtamimab 24 mg/kg IV toutes les 28 jours, plus chimiothérapie à base de bortezomib (ex. CyBorD) ; daratumumab possible dès la randomisation"
+  },
+  {
+   "nom": "Placebo + traitement de référence",
+   "traitement": "Sérum physiologique IV toutes les 28 jours, plus chimiothérapie à base de bortezomib ; daratumumab possible dès la randomisation"
+  }
+ ],
+ "duree": "Jusqu'au nombre de décès prévu (jusqu'à 39 mois), puis extension ouverte de 24 mois possible",
+ "critere": "Délai jusqu'au décès toutes causes, de la première dose jusqu'au nombre d'événements prédéfini (jusqu'à 39 mois)"
+}

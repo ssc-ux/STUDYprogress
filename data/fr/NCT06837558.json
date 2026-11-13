@@ -1,0 +1,14 @@
+{
+"h": "8f1cc646a7a2",
+"date": "2026-11-13",
+"titre": "Prédicteurs de la densité minérale osseuse selon l'activité de la néphrite lupique",
+"question": "Quels facteurs prédisent la densité minérale osseuse chez les patients atteints de néphrite lupique active ou inactive, et comment se relient-ils à l'histologie de la biopsie rénale ?",
+"contexte": "Le lupus érythémateux systémique est une maladie auto-immune multisystémique, et la néphrite lupique en est une manifestation fréquente et grave, source de morbidité et de mortalité. L'ostéoporose est une complication courante du lupus : les femmes lupiques ont un risque accru de baisse de la densité minérale osseuse (DMO) et de fractures.\n\nLes facteurs de perte osseuse connus comprennent la corticothérapie, la ménopause précoce et les apports insuffisants en calcium et en vitamine D. Leur poids varie selon les pays, et la prévalence de l'ostéoporose au cours de la néphrite lupique est peu documentée. L'atteinte rénale elle-même, par ses effets sur le métabolisme phosphocalcique et la vitamine D, pourrait aussi intervenir.\n\nCette étude observationnelle d'Assiut University (Égypte), sur 100 patients, compare des patients avec néphrite lupique active et inactive. Elle met en relation l'histologie de la biopsie rénale avec les prédicteurs de la DMO. Les patients atteints de maladie rénale terminale sous hémodialyse ou d'autres affections associées sont exclus.",
+"interet": "Identifier les prédicteurs de la perte osseuse dans la néphrite lupique pourrait aider à cibler le dépistage de l'ostéoporose et la prévention des fractures. L'étude reste exploratoire et monocentrique.",
+"profil": "Des adultes de 18 à 60 ans atteints de lupus systémique avec néphrite lupique, active ou inactive.",
+"inclusion": ["Âge de plus de 18 ans et de moins de 60 ans", "Lupus systémique avec néphrite lupique définie selon KDIGO", "Néphrite lupique active ou sans critères d'activité", "Consentement du patient"],
+"exclusion": ["Insuffisance rénale terminale sous hémodialyse régulière", "Autre maladie auto-immune associée, comme la polyarthrite rhumatoïde", "Infection par le VHC ou le VHB", "Diabète ou cancer", "Antécédent de supplémentation en vitamine D"],
+"bras": [{"nom": "Néphrite lupique active", "traitement": "Cohorte observée ; histoire clinique, examen physique, bilan, DMO"}, {"nom": "Néphrite lupique inactive", "traitement": "Cohorte observée ; histoire clinique, examen physique, bilan, DMO"}],
+"duree": "Non précisé (étude du 1er avril 2025 au 1er avril 2027)",
+"critere": "Corrélation entre l'histologie de la biopsie rénale et les prédicteurs de la densité minérale osseuse, dans la néphrite lupique active et inactive, du 1er avril 2025 au 1er avril 2027."
+}

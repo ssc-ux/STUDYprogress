@@ -1,0 +1,30 @@
+{
+ "h": "29d8e9da05f3",
+ "date": "2026-11-13",
+ "titre": "Corticotropine (ACTH) dans les lésions muqueuses de la maladie de Behçet",
+ "question": "L'ACTH retard injectée réduit-elle le nombre d'ulcères buccaux actifs de la maladie de Behçet à 12 semaines par rapport au placebo ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique dont l'atteinte muqueuse, surtout l'aphtose buccale, est la plus fréquente et altère nettement la qualité de vie. Le traitement associe colchicine, corticoïdes locaux ou systémiques, et immunosuppresseurs ou apremilast en cas d'échec. Les corticoïdes au long cours entraînent des effets indésirables importants.\n\nL'hormone adrénocorticotrope (ACTH) stimule la sécrétion surrénalienne de glucocorticoïdes et possède aussi une action anti-inflammatoire propre, avec un effet immunomodulateur plus doux que celui des corticoïdes administrés directement, selon les promoteurs. Elle a été utilisée dans le lupus et la polyarthrite rhumatoïde. Il manque des essais randomisés pour juger de son efficacité et de sa tolérance dans les lésions muqueuses de Behçet.\n\nCet essai de phase 2, multicentrique et randomisé en double insu, du Peking University People's Hospital inclut 60 adultes de 18 à 65 ans ayant au moins 2 ulcères buccaux actifs. Ils reçoivent ACTH 25 UI par voie intramusculaire deux fois par semaine ou placebo pendant 12 semaines, sans autre corticoïde ni immunosuppresseur, puis 12 semaines de suivi sans traitement.",
+ "interet": "Il pourrait proposer une alternative à la corticothérapie orale pour l'aphtose de Behçet. Les résultats permettront de juger l'effet et sa durabilité après l'arrêt.",
+ "profil": "Des adultes de 18 à 65 ans atteints de maladie de Behçet avec ulcères buccaux actifs.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Critères ISG 1990 de Behçet, diagnostic confirmé depuis au moins 3 mois",
+  "Au moins 2 ulcères buccaux actifs au dépistage",
+  "Consentement écrit et capacité de réaliser toutes les visites"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+ ],
+ "bras": [
+  {
+   "nom": "ACTH",
+   "traitement": "Corticotropine retard 25 UI par voie intramusculaire deux fois par semaine pendant 12 semaines, puis 12 semaines de suivi sans traitement"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo injectable de même aspect et même rythme pendant 12 semaines, puis 12 semaines de suivi sans traitement"
+  }
+ ],
+ "duree": "24 semaines (12 de traitement, 12 de suivi)",
+ "critere": "Variation du nombre d'ulcères buccaux actifs et du score des lésions muqueuses de Behçet entre l'inclusion et la semaine 12."
+}

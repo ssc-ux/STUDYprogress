@@ -1,0 +1,38 @@
+{
+ "h": "358b09fa40a1",
+ "date": "2026-11-13",
+ "titre": "SHR-1703 comparé au mépolizumab dans la granulomatose éosinophilique avec polyangéite",
+ "question": "Le SHR-1703 est-il efficace et bien toléré dans l'EGPA récidivante ou réfractaire, par rapport au mépolizumab ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) est une vascularite des petits vaisseaux avec asthme sévère et hyperéosinophilie. Les rechutes sont fréquentes à la décroissance des corticoïdes, qui exposent à des complications chroniques. Les anti-IL-5 ont modifié la prise en charge : le mépolizumab 300 mg est approuvé dans l'EGPA et le benralizumab (anti-récepteur de l'IL-5) est une alternative.\n\nLe SHR-1703, développé par Hengrui, est un anticorps ciblant la voie de l'IL-5, selon les exclusions du protocole qui mentionnent les anti-IL-5. Il est évalué ici dans un essai de phase 2/3 randomisé en double insu, qui le compare au mépolizumab (double placebo). L'étude inclut 166 adultes ayant une EGPA évoluant depuis au moins 6 mois, récidivante ou réfractaire, sous prednisone stable de 7,5 à 50 mg/jour.\n\nLes critères principaux sont la variation de la dose de corticoïdes oraux jusqu'à la semaine 12 et la proportion de patients en rémission aux semaines 36 et 48.",
+ "interet": "Si l'efficacité est comparable à celle du mépolizumab, le SHR-1703 pourrait élargir l'offre d'anti-IL-5 dans l'EGPA, avec des données disponibles surtout pour la Chine.",
+ "profil": "Des adultes atteints d'EGPA évoluant depuis au moins 6 mois, récidivante ou réfractaire, sous prednisone stable.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "EGPA diagnostiquée depuis au moins 6 mois",
+  "Antécédent d'EGPA récidivante ou réfractaire",
+  "Prednisone orale stable d'au moins 7,5 mg/jour (maximum 50 mg) depuis 4 semaines",
+  "Immunosuppresseur éventuel (hors cyclophosphamide) à dose stable"
+ ],
+ "exclusion": [
+  "Autre maladie éosinophilique, GPA ou PAM",
+  "EGPA engageant le pronostic vital dans les 3 mois",
+  "Cancer dans les 5 ans, immunodéficience",
+  "Hypertension ou maladie cardio-vasculaire ou cérébrovasculaire non contrôlées",
+  "Infection parasitaire dans les 6 mois ou infection active récente",
+  "Cyclophosphamide dans les 4 semaines, rituximab dans les 6 mois, biothérapie ou inhibiteur de cytokine TH2 dans les 12 semaines",
+  "Antécédent d'hypersensibilité à un anti-IL-5 ou échec d'un traitement anti-IL-5",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "SHR-1703",
+   "traitement": "SHR-1703 (dose non précisée), avec placebo du mépolizumab"
+  },
+  {
+   "nom": "Mépolizumab",
+   "traitement": "Mépolizumab injectable, avec placebo du SHR-1703"
+  }
+ ],
+ "duree": "Non précisé (critères principaux jusqu'à 48 semaines)",
+ "critere": "Variation de la dose de corticoïdes oraux jusqu'à la semaine 12, et proportion de patients en rémission aux semaines 36 et 48."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "f2267766c7e0",
+ "date": "2026-11-13",
+ "titre": "RATIONAL-PT : essai plateforme sur immunoglobulines et antibiotiques dans les hémopathies",
+ "question": "Quelle stratégie (immunoglobulines ou antibiotiques, début, arrêt ou dose) prévient le mieux les infections chez les patients atteints d'hémopathie maligne ?",
+ "contexte": "Les patients atteints de LLC, de myélome ou de lymphome non hodgkinien présentent souvent une hypogammaglobulinémie secondaire, et les infections sont une cause majeure de morbidité et de mortalité. Les immunoglobulines (Ig) de substitution et l'antibioprophylaxie sont toutes deux utilisées, mais leurs indications, leur durée et leurs doses reposent sur peu de preuves randomisées.\n\nLes Ig sont coûteuses, issues de dons de plasma limités, et leur usage a fortement augmenté. L'antibioprophylaxie par cotrimoxazole est peu coûteuse, mais expose à des effets indésirables et à la résistance. RATIONAL-PT est un essai plateforme adaptatif de phase 2/3, promu par l'université Monash, qui compare plusieurs stratégies entre elles. Il comporte trois domaines randomisés : débuter les Ig ou une antibioprophylaxie, arrêter les Ig avec antibiotiques quotidiens ou à la demande, et réduire la dose d'IgIV de 0,4 à 0,25 g/kg. Il prévoit 900 participants, et étend l'étude RATIONAL consacrée à l'arrêt des Ig.",
+ "interet": "L'essai pourrait établir des stratégies de prévention des infections fondées sur des preuves, avec moins d'Ig et un meilleur usage des antibiotiques. Le format plateforme permet d'ajouter de nouvelles comparaisons au fil des résultats.",
+ "profil": "Des adultes atteints de LLC, de myélome ou de lymphome non hodgkinien, avec hypogammaglobulinémie, éligibles à des immunoglobulines ou déjà traités.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Hémopathie maligne, dont LLC, myélome multiple ou lymphome non hodgkinien",
+  "Ig IV ou SC prévues ou en cours pour infections récidivantes ou sévères, avec IgG sous la limite inférieure ou < 4 g/L (hors paraprotéine)",
+  "Espérance de vie > 12 mois",
+  "Capacité à consentir"
+ ],
+ "exclusion": [
+  "Participation jugée non souhaitable par l'équipe soignante (seul critère listé au registre)"
+ ],
+ "bras": [
+  {
+   "nom": "Débuter les Ig",
+   "traitement": "Randomisation entre antibioprophylaxie (cotrimoxazole) et substitution en immunoglobulines"
+  },
+  {
+   "nom": "Arrêter les Ig",
+   "traitement": "Arrêt des Ig avec antibiotiques quotidiens, ou avec antibiotiques seulement en cas d'infection"
+  },
+  {
+   "nom": "Dose d'Ig",
+   "traitement": "Poursuite de la dose standard d'IgIV (0,4 g/kg) ou passage à une dose plus faible (0,25 g/kg)"
+  }
+ ],
+ "duree": "12 mois après la randomisation",
+ "critere": "Survie sans événement à 12 mois (événement : infection de grade ≥ 3 ou décès, selon le domaine)."
+}

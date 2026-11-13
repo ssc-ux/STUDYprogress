@@ -1,0 +1,44 @@
+{
+ "h": "6f23f444f86c",
+ "date": "2026-11-13",
+ "titre": "Macrophages rénaux et inflammation résiduelle sous voclosporine, mycophénolate et prednisolone",
+ "question": "L'ajout de voclosporine au mycophénolate et à la prednisolone réduit-il davantage l'inflammation rénale précoce, et comment se comportent les macrophages du rein ?",
+ "contexte": "La néphrite lupique est une atteinte rénale grave du lupus systémique. Le traitement d'induction standard associe des corticoïdes au mycophénolate mofétil, et la voclosporine, inhibiteur de la calcineurine, a été approuvée en complément. Malgré ces traitements, une inflammation rénale résiduelle persiste souvent, même quand les critères cliniques s'améliorent.\n\nLes macrophages et d'autres cellules immunitaires du rein jouent un rôle central dans l'inflammation et la fibrose, mais leur diversité et leur réponse aux traitements sont mal connues chez l'humain. Le suivi repose sur la protéinurie et la créatinine, de façon indirecte, et l'évaluation de la réponse précoce nécessite des biopsies répétées.\n\nMAPLE est un essai de phase 4 randomisé, promu par l'AMC (Université d'Amsterdam), qui inclut 55 participants. Les patients avec néphrite lupique de classe III ou IV reçoivent soit une trithérapie (mycophénolate, prednisolone et voclosporine), soit une bithérapie (mycophénolate et prednisolone), avec une seconde biopsie à 3 mois. Des patients lupiques sans néphrite et des témoins sains servent de comparateurs pour des prélèvements sanguins et urinaires. L'étude explore l'évolution des macrophages par séquençage d'ARN en cellule unique et cherche des biomarqueurs sanguins ou urinaires de l'activité.",
+ "interet": "L'étude pourrait préciser l'effet histologique précoce de la voclosporine et identifier des populations de macrophages associées à la réponse. Elle explore aussi des biomarqueurs qui limiteraient le recours aux biopsies répétées.",
+ "profil": "Des personnes de 16 à 70 ans atteintes de lupus avec néphrite lupique active de classe III ou IV, avec des témoins lupiques sans néphrite et des témoins sains.",
+ "inclusion": [
+  "Néphrite lupique : lupus (critères EULAR/ACR) nouveau ou en poussée, suspicion de classe III ou IV avec indication de biopsie rénale",
+  "Âge de 16 à 70 ans",
+  "DFG mesuré par cystatine C > 20 mL/min",
+  "Témoins lupiques : lupus sans néphrite, âge de 16 à 70 ans",
+  "Témoins sains : antécédents médicaux vierges, âge de 16 à 70 ans (environ 75 % de femmes)"
+ ],
+ "exclusion": [
+  "Néphrite de classe I, II ou V pure à la biopsie",
+  "DFG < 20 mL/min",
+  "Score de chronicité NIH ≥ 8",
+  "Infection active, antécédent d'hépatite B ou C, de tuberculose ou de VIH",
+  "Tacrolimus, bélimumab ou anifrolumab dans le mois ; rituximab, daratumumab ou éculizumab dans les 6 mois",
+  "QTc > 470 ms ou fréquence cardiaque < 50/min, kaliémie > 6,0 mmol/L, hypertension > 165/105 mmHg, inhibiteurs puissants du CYP3A4, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Trithérapie",
+   "traitement": "Méthylprednisolone IV 500 mg pendant 3 jours puis prednisolone 1 mg/kg/jour décroissante, mycophénolate mofétil et voclosporine ; biopsie rénale répétée à 3 mois"
+  },
+  {
+   "nom": "Bithérapie",
+   "traitement": "Même schéma de corticoïdes, mycophénolate mofétil sans voclosporine ; biopsie rénale répétée à 3 mois"
+  },
+  {
+   "nom": "Lupus sans néphrite (témoins)",
+   "traitement": "Prélèvements de sang et d'urine à 2 temps, espacés de 3 à 6 mois, sans traitement de l'étude"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvements de sang et d'urine à 2 temps, espacés de 3 à 6 mois"
+  }
+ ],
+ "duree": "Environ 3 mois pour les patients avec néphrite ; 3 à 6 mois entre les deux prélèvements pour les témoins",
+ "critere": "Différences de profil d'expression, par séquençage d'ARN en cellule unique, de l'ensemble du spectre des macrophages rénaux entre la trithérapie et la bithérapie, entre l'inclusion et la biopsie de contrôle à 3 mois."
+}

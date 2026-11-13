@@ -1,0 +1,30 @@
+{
+ "h": "09357ead6d3e",
+ "date": "2026-11-13",
+ "titre": "Elenestinib contre placebo dans la mastocytose systémique indolente insuffisamment contrôlée",
+ "question": "L'elenestinib, associé au traitement symptomatique, réduit-il les symptômes de la mastocytose systémique indolente mieux que le placebo ?",
+ "contexte": "La mastocytose systémique indolente (MSI) est une prolifération clonale de mastocytes, le plus souvent liée à la mutation KIT D816V. Elle se manifeste par des symptômes chroniques (flush, douleurs abdominales, diarrhée, fatigue, douleurs osseuses, atteinte cognitive) et par un risque de réaction anaphylactique. Le traitement repose sur des médicaments symptomatiques (anti-H1, anti-H2, IPP, antileucotriènes, cromoglicate, corticoïdes, omalizumab), souvent insuffisants.\n\nL'avapritinib, inhibiteur de KIT, a montré un bénéfice dans la MSI, mais d'autres options sélectives sont recherchées. L'elenestinib (BLU-263) est un inhibiteur de KIT D816V de nouvelle génération, conçu pour être très sélectif et pour peu pénétrer le système nerveux central. HARBOR est une étude de phase 2/3 randomisée en double aveugle contre placebo. Elle compare plusieurs doses d'elenestinib plus traitement symptomatique à un placebo plus traitement symptomatique. Les parties 1 et 2 portent sur la MSI, la partie 3 est une extension ouverte, la partie K inclut des patients déjà traités par un inhibiteur de KIT sélectif et une partie S concerne la mastocytose systémique latente (smoldering). Le promoteur est Blueprint Medicines.",
+ "interet": "L'étude pourrait ajouter une option ciblée contre KIT dans la MSI mal contrôlée par les traitements symptomatiques. Elle inclut aussi des patients déjà traités par un inhibiteur de KIT et des formes latentes, deux situations peu étudiées.",
+ "profil": "Des adultes atteints de mastocytose systémique indolente (ou latente pour la partie S) dont les symptômes ne sont pas contrôlés par le traitement symptomatique.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ECOG 0 à 2",
+  "MSI confirmée par relecture anatomopathologique centralisée (MS latente pour la partie S)",
+  "Parties 1 et PK : symptômes insuffisamment contrôlés malgré au moins 2 traitements symptomatiques (anti-H1, anti-H2, IPP, antileucotriènes, cromoglicate, corticoïdes, omalizumab)",
+  "Traitement symptomatique stable depuis au moins 14 jours",
+  "Corticoïdes éventuels ≤ 20 mg/j d'équivalent prednisone, à dose stable ≥ 14 jours"
+ ],
+ "exclusion": [
+  "Autres sous-types de mastocytose : cutanée isolée, avec hémopathie associée, agressive, leucémie à mastocytes, sarcome mastocytaire",
+  "Autre syndrome myéloprolifératif",
+  "Atteinte d'organe attribuable à la mastocytose",
+  "Maladie cardiovasculaire non contrôlée cliniquement significative",
+  "QTcF allongé (seuil non détaillé ici)"
+ ],
+ "bras": [
+  {"nom": "Partie 1 : elenestinib (3 niveaux de dose) + traitement symptomatique", "traitement": "Elenestinib par voie orale, une fois par jour"},
+  {"nom": "Partie 1 : placebo + traitement symptomatique", "traitement": "Placebo oral + traitement symptomatique individualisé"},
+  {"nom": "Parties 2 et 3, K et S", "traitement": "Partie 2 : elenestinib ou placebo en double aveugle ; partie 3 : elenestinib en ouvert ; détails de doses non précisés"}
+ ],
+ "duree": "Partie 1 : 12 semaines ; partie 2 : 48 semaines ; partie 3 : jusqu'à 5 ans",
+ "critere": "Critères multiples selon la partie : événements indésirables (partie 1), variation du score total de symptômes ISM-SAF à la semaine 13 (partie 1) et à la semaine 49 (partie 2), sécurité et score de symptômes jusqu'à 5 ans (partie 3)."
+}

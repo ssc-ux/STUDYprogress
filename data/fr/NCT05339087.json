@@ -1,0 +1,36 @@
+{
+ "h": "b3b0068981cc",
+ "date": "2026-11-13",
+ "titre": "Riociguat contre placebo dans la maladie vasculaire pulmonaire débutante, signe précoce d'hypertension artérielle pulmonaire",
+ "question": "Le riociguat réduit-il les résistances vasculaires pulmonaires chez des patients ayant une maladie vasculaire pulmonaire débutante ?",
+ "contexte": "L'hypertension artérielle pulmonaire (HTAP) est une maladie rare des artérioles pulmonaires, qui conduit à l'insuffisance cardiaque droite. Le diagnostic est le plus souvent posé tardivement, à un stade où les pressions et les résistances sont déjà élevées. La sclérodermie systémique et les autres connectivites exposent à l'HTAP, d'où un dépistage régulier par échocardiographie et cathétérisme droit. Les définitions hémodynamiques ont évolué : le seuil de pression artérielle pulmonaire moyenne est désormais de 20 mmHg, ce qui laisse sans traitement de nombreux patients en phase précoce.\n\nLe riociguat est un stimulateur de la guanylate cyclase soluble, autorisé dans l'HTAP et dans l'HTP thromboembolique chronique. Il n'a pas été évalué chez les patients ayant une atteinte vasculaire pulmonaire débutante. Cette étude de phase 2 randomisée, en double aveugle contre placebo, inclut des patients naïfs de traitement spécifique, avec une PAPm de 25 mmHg ou plus et des RVP de 2 à moins de 3 UW, ou une PAPm de 21 à moins de 25 mmHg avec RVP ≥ 2 UW associée à une connectivite ou idiopathique. Le promoteur est l'université de Heidelberg.",
+ "interet": "L'étude teste le traitement précoce de l'atteinte vasculaire pulmonaire, avant l'HTAP franche, notamment dans la sclérodermie et les connectivites. Elle pourrait ouvrir la voie à une intervention plus précoce dans ces populations dépistées.",
+ "profil": "Des adultes avec une maladie vasculaire pulmonaire débutante, idiopathique ou associée à une connectivite, naïfs de traitement spécifique de l'HTAP.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Groupe a : PAPm ≥ 25 mmHg, RVP de 2 à < 3 UW, PAPO ≤ 15 mmHg",
+  "Groupe b : PAPm de 21 à < 25 mmHg, RVP ≥ 2 UW, PAPO ≤ 15 mmHg, avec connectivite ou forme idiopathique/héritable",
+  "Naïf de traitement spécifique de l'HTAP",
+  "Traitements non spécifiques (anticoagulants, diurétiques, digitaliques, inhibiteurs calciques, oxygène) et traitement de la maladie rhumatologique autorisés s'ils sont débutés ≥ 1 mois avant le cathétérisme",
+  "Cathétérisme droit datant de moins d'un mois (jusqu'à 6 mois si pas de changement clinique), réalisé dans le centre"
+ ],
+ "exclusion": [
+  "Lupus érythémateux systémique",
+  "Traitement spécifique de l'HTAP concomitant (inhibiteurs de la PDE5, antagonistes des récepteurs de l'endothéline, analogues de la prostacycline), avec sevrage préalable à respecter",
+  "Hypertension pulmonaire d'une autre cause (groupes 2, 3, 4 ou 5)",
+  "Comorbidité cardiaque définie par au moins 3 critères (HTA non contrôlée, diabète, IMC > 35, dilatation de l'oreillette gauche, fibrillation atriale, FEVG < 50 %)",
+  "Comorbidité pulmonaire (CVF ≤ 70 %, VEMS ≤ 50 %, DLCO ≤ 40 %)"
+ ],
+ "bras": [
+  {
+   "nom": "Riociguat",
+   "traitement": "Riociguat par voie orale, titration à partir de 1 mg trois fois par jour, jusqu'à 2,5 mg trois fois par jour"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral trois fois par jour, avec fausse titration"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 24 semaines)",
+ "critere": "Variation des résistances vasculaires pulmonaires entre l'inclusion et la semaine 24."
+}

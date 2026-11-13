@@ -1,0 +1,36 @@
+{
+ "h": "88aa85b66a66",
+ "date": "2026-11-13",
+ "titre": "N-acétyl-L-leucine dans l'ataxie-télangiectasie",
+ "question": "La N-acétyl-L-leucine (IB1001) améliore-t-elle l'ataxie des patients atteints d'ataxie-télangiectasie par rapport à un placebo ?",
+ "contexte": "L'ataxie-télangiectasie (AT) est une maladie génétique rare, autosomique récessive, due à des variants du gène ATM. Elle associe ataxie cérébelleuse progressive débutant dans l'enfance, télangiectasies, déficit immunitaire, sensibilité aux radiations et risque accru de cancers. Aucun traitement ne modifie son évolution, et la prise en charge reste symptomatique et pluridisciplinaire.\n\nLa N-acétyl-L-leucine est un dérivé d'acide aminé administré par voie orale, étudié dans plusieurs maladies neurologiques avec ataxie (Niemann-Pick de type C, GM2, ataxies cérébelleuses). Son mécanisme exact n'est pas totalement élucidé : elle semble améliorer la fonction neuronale cérébelleuse et le métabolisme. Cet essai pivot de phase 3, promu par IntraBio, est randomisé en croisement, en double aveugle et contrôlé par placebo. Il inclut 60 patients de 4 ans et plus avec AT confirmée génétiquement. Il comporte une période de référence puis deux périodes d'environ 12 semaines, avec traitement actif et placebo en ordre randomisé. La dose est de 2 à 4 g par jour selon le poids.",
+ "interet": "Si l'essai est positif, l'IB1001 pourrait devenir le premier traitement disponible pour l'ataxie de l'AT. Le plan en croisement permet à chaque patient de recevoir le produit actif, mais il suppose un effet réversible à l'arrêt.",
+ "profil": "Des patients de 4 ans et plus atteints d'ataxie-télangiectasie confirmée génétiquement.",
+ "inclusion": [
+  "Consentement écrit du patient ou de son représentant",
+  "Âge ≥ 4 ans",
+  "Ataxie-télangiectasie confirmée génétiquement",
+  "Contraception hautement efficace ou stérilité/ménopause pour les femmes en âge de procréer",
+  "Autres critères détaillés au registre"
+ ],
+ "exclusion": [
+  "Hypersensibilité à l'acétyl-leucine ou aux excipients (produit actif ou placebo)",
+  "Participation à une autre étude avec produit expérimental dans les 42 jours précédents",
+  "Affection physique ou psychiatrique pouvant exposer le patient à un risque ou gêner l'évaluation",
+  "Usage ou dépendance connus à des médicaments, drogues ou alcool",
+  "Grossesse ou allaitement",
+  "Déficit visuel ou auditif sévère non corrigé gênant les évaluations"
+ ],
+ "bras": [
+  {
+   "nom": "N-acétyl-L-leucine (IB1001)",
+   "traitement": "2 à 4 g par jour par voie orale (granulés en sachet, dose selon le poids), pendant environ 12 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Sachets de placebo par voie orale, mêmes modalités, pendant environ 12 semaines ; croisement entre les deux traitements"
+  }
+ ],
+ "duree": "Environ 2 semaines de référence puis 2 périodes de traitement d'environ 12 semaines",
+ "critere": "Variation du score SARA (échelle d'évaluation et de cotation de l'ataxie) entre la fin de la période 1 (semaine 12) et la fin de la période 2 (semaine 24)."
+}

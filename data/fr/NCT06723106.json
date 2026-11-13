@@ -1,0 +1,32 @@
+{
+ "h": "0d831d8a43f1",
+ "date": "2026-11-13",
+ "titre": "Extension à long terme du RAY121 dans des maladies immunologiques",
+ "question": "Le RAY121 est-il sûr au long cours chez des patients atteints de maladies immunologiques ayant répondu lors de l'étude initiale ?",
+ "contexte": "Plusieurs maladies à médiation immune rares ont peu d'options thérapeutiques ciblées : syndrome des antiphospholipides (SAPL), pemphigoïde bulleuse, maladie de Behçet, dermatomyosite, myopathie nécrosante à médiation immune et purpura thrombopénique immunologique (PTI). Elles partagent, à des degrés divers, une activation de la voie du complément et une atteinte médiée par les auto-anticorps.\n\nLe RAY121 est un anticorps monoclonal en développement chez Chugai Pharmaceutical. Le registre ne précise pas sa cible. Les contre-indications retenues, notamment les infections à bactéries encapsulées et à Neisseria meningitidis, évoquent un risque lié à une inhibition du complément.\n\nCet essai de phase 1b est l'extension à long terme de l'étude RAY902CT. Il inclut 144 patients ayant reçu 4 doses de RAY121 dans l'étude initiale et montré une réponse clinique. Il s'agit d'une étude ouverte à bras unique dans 19 pays dont la France. Son critère principal est la tolérance sur 52 semaines.",
+ "interet": "L'étude renseigne la tolérance à long terme du RAY121 avant des essais de phase 2 ou 3 dans ces indications. Elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 85 ans atteints d'une maladie immunologique (SAPL, pemphigoïde bulleuse, Behçet, dermatomyosite, myopathie nécrosante, PTI) ayant répondu au RAY121.",
+ "inclusion": [
+  "Âge de 18 à 85 ans",
+  "Consentement éclairé signé",
+  "4 doses de RAY121 reçues dans l'étude RAY902CT, avec réponse clinique",
+  "Capacité à suivre le protocole selon l'investigateur",
+  "Contraception efficace pendant le traitement et 20 semaines après la dernière dose"
+ ],
+ "exclusion": [
+  "Antécédent d'anaphylaxie ou d'hypersensibilité à un médicament biologique",
+  "Infection active connue à bactéries encapsulées ou antécédent d'infection à Neisseria meningitidis",
+  "Chirurgie programmée",
+  "Grossesse, allaitement ou projet de grossesse",
+  "Anomalie ECG significative, abus de drogues ou d'alcool",
+  "Déficit immunitaire connu ou suspecté, autre traitement expérimental, vaccin vivant dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "RAY121",
+   "traitement": "RAY121 en administrations répétées (dose et voie non précisées)"
+  }
+ ],
+ "duree": "52 semaines environ",
+ "critere": "Événements indésirables, de l'inclusion à la semaine 52"
+}

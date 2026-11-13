@@ -1,0 +1,32 @@
+{
+ "h": "7fdeebc331f2",
+ "date": "2026-11-13",
+ "titre": "MK-6194 (IL-2 modifiée) contre placebo dans le lupus érythémateux systémique",
+ "question": "Le MK-6194, interleukine-2 modifiée, améliore-t-il l'activité du lupus érythémateux systémique par rapport au placebo ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique, avec atteintes cutanées, articulaires, rénales et hématologiques. Il s'accompagne d'un déficit fonctionnel des lymphocytes T régulateurs et d'un déficit relatif en interleukine-2. Le traitement associe hydroxychloroquine, corticoïdes et immunosuppresseurs, parfois du bélimumab ou de l'anifrolumab. Une fraction importante de patients garde une maladie active ou subit les effets des corticoïdes.\n\nLe MK-6194 est une IL-2 modifiée, qui vise à stimuler préférentiellement les lymphocytes T régulateurs et ainsi à restaurer la tolérance immunitaire. Il est administré par voie sous-cutanée. Cette étude de phase 2 randomisée en double aveugle compare deux schémas (3 mg toutes les 2 semaines, 3 mg toutes les 4 semaines) au placebo, en plus du traitement de fond. Elle inclut des patients ayant une atteinte cutanée ou articulaire active. Après 52 semaines de traitement, une extension permet de poursuivre le médicament. Le promoteur est Merck Sharp & Dohme.",
+ "interet": "L'étude teste une approche de modulation des lymphocytes T régulateurs, différente des anti-B et de l'anti-interféron. Elle précisera le rapport efficacité/sécurité selon le rythme d'administration.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus érythémateux systémique actif avec atteinte cutanée ou articulaire, malgré un traitement de fond.",
+ "inclusion": [
+  "Diagnostic de LES depuis ≥ 6 mois",
+  "Au moins un traitement de fond (immunosuppresseur ou dapsone, antipaludéen ou corticoïde oral)",
+  "AAN ≥ 1/80, ou anti-ADN natif, anti-Sm ou anti-SSA/Ro positifs",
+  "Rash lupique actif (CLASI-A érythème et squames > 2) ou > 2 articulations douloureuses et gonflées (poignets, MCP, IPP)",
+  "SLEDAI hybride ≥ 6 avec composante clinique ≥ 4"
+ ],
+ "exclusion": [
+  "Maladie concomitante ou anomalie biologique significative pouvant fausser les résultats ou ajouter un risque",
+  "Insuffisance cardiaque NYHA III ou IV, infarctus ou angor instable dans les 6 mois",
+  "Maladie pulmonaire chronique sévère sous oxygène",
+  "Organe greffé nécessitant une immunosuppression continue",
+  "Hypersensibilité à l'IL-2, à une IL-2 modifiée ou aux excipients",
+  "Antécédent de syndrome lymphoprolifératif ou signes évocateurs",
+  "Lupus cutané ou systémique d'origine médicamenteuse, lupus neuropsychiatrique actif ou instable"
+ ],
+ "bras": [
+  {"nom": "MK-6194 toutes les 2 semaines", "traitement": "MK-6194 3 mg SC toutes les 2 semaines"},
+  {"nom": "MK-6194 toutes les 4 semaines", "traitement": "MK-6194 3 mg SC toutes les 4 semaines"},
+  {"nom": "Placebo", "traitement": "Placebo SC toutes les 2 semaines"}
+ ],
+ "duree": "52 semaines de traitement, puis période d'extension ; suivi des événements indésirables jusqu'à environ 16 mois",
+ "critere": "Nombre de participants en réponse SRI-4 à la semaine 28, avec le nombre de participants ayant un événement indésirable ou arrêtant le traitement pour événement indésirable (jusqu'à environ 16 mois)."
+}

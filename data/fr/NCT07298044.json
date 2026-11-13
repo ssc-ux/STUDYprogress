@@ -1,0 +1,14 @@
+{
+"h": "0dfd80ab25ea",
+"date": "2026-11-13",
+"titre": "Évolution de la TTR sérique au passage du tafamidis à l'acoramidis dans l'amylose cardiaque à TTR",
+"question": "Le passage du tafamidis à l'acoramidis augmente-t-il le taux sérique de transthyrétine chez des patients atteints d'amylose cardiaque à TTR ?",
+"contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) résulte du dépôt de fibrilles issues de la dissociation du tétramère de TTR, de forme sauvage (liée à l'âge) ou variante (génétique). Elle provoque un épaississement myocardique, une insuffisance cardiaque et une mortalité élevée.\n\nLe tafamidis et l'acoramidis sont deux stabilisateurs de la TTR. L'acoramidis est approuvé en Europe et aux États-Unis dans l'ATTR-CM. En stabilisant le tétramère, ces molécules augmentent la TTR circulante, qui sert de marqueur pharmacodynamique de la stabilisation.\n\nCette étude de phase 4 de Bayer est à un seul bras et en ouvert. Elle inclut environ 50 patients déjà traités par tafamidis depuis au moins 3 mois, qui passent à l'acoramidis (712 mg deux fois par jour) pendant 6 mois au plus. Elle cherche à savoir si l'acoramidis élève la TTR au-delà du niveau atteint sous tafamidis. Le suivi comprend 9 contacts, dont 2 visites au centre et 6 visites infirmières à domicile. Des biomarqueurs cardiaques, rénaux et thyroïdiens sont mesurés.",
+"interet": "L'étude documentera l'effet du changement de stabilisateur sur un marqueur pharmacodynamique. Elle n'évalue pas de critère clinique, mais pourrait éclairer les discussions sur le passage d'un stabilisateur à l'autre.",
+"profil": "Des adultes de 18 à 90 ans atteints d'amylose cardiaque à TTR, traités par tafamidis depuis au moins 3 mois.",
+"inclusion": ["Âge de 18 à 90 ans", "ATTR-CM confirmée par scintigraphie (SPECT) ou biopsie dans les 24 mois", "Tafamidis observé depuis au moins 3 mois", "Classe NYHA ≤ II", "DFG estimé ≥ 30 mL/min/1,73 m²", "NT-proBNP > 300 et ≤ 7000 pg/mL"],
+"exclusion": ["Greffe hépatique ou cardiaque, réalisée ou prévue dans les 12 mois", "Assistance ventriculaire en cours ou prévue", "Cancer actif ou maladie limitant l'espérance de vie à moins d'un an", "Insuffisance cardiaque d'origine ischémique", "Infarctus, chirurgie cardiovasculaire ou angor instable dans les 90 jours", "Amylose AL confirmée", "Initiation récente d'un iSGLT2 ou changement récent de diurétique (3 mois)", "Traitement par inhibiteur calcique (vérapamil, diltiazem) ou digitalique", "Cholestase ou bilan hépatique anormal (ALAT/ASAT ou bilirubine ≥ 3 × LSN)"],
+"bras": [{"nom": "Acoramidis", "traitement": "Acoramidis 712 mg par voie orale, deux fois par jour, après tafamidis"}],
+"duree": "Environ 8 mois (traitement de 6 mois au plus)",
+"critere": "Variation de la TTR sérique entre l'inclusion et le 6e mois, ou l'arrêt prématuré du traitement."
+}

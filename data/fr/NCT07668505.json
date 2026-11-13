@@ -1,0 +1,30 @@
+{
+ "h": "a65d8ca682c0",
+ "date": "2026-11-13",
+ "titre": "Maraviroc dans les myopathies inflammatoires idiopathiques réfractaires",
+ "question": "Le maraviroc réduit-il l'inflammation musculaire et améliore-t-il la force des patients atteints de myosite réfractaire aux traitements usuels ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (myosites) sont des maladies auto-immunes rares caractérisées par une inflammation musculaire et une faiblesse. Le traitement repose sur les corticoïdes associés à des immunosuppresseurs. Une partie des patients reste active malgré plusieurs lignes thérapeutiques, avec peu d'options validées.\n\nLe maraviroc est un antagoniste du récepteur CCR5, utilisé dans l'infection par le VIH. Les promoteurs rapportent, à partir d'une étude pilote, un effet anti-inflammatoire dans des muscles dystrophiques et vieillissants. Ils font donc l'hypothèse qu'il pourrait réduire l'inflammation musculaire des myosites réfractaires.\n\nCette étude de phase 4, ouverte, à bras unique, est promue par l'Université chinoise de Hong Kong. Elle prévoit 10 patients de 18 à moins de 80 ans, avec une myosite active selon les critères ACR/EULAR 2017, malgré des corticoïdes et deux immunosuppresseurs. Chaque patient reçoit 300 mg de maraviroc par jour pendant 12 semaines, avec évaluation de la force musculaire, des symptômes et des marqueurs biologiques comme les enzymes musculaires.",
+ "interet": "L'étude pourrait donner un signal de repositionnement d'un médicament existant dans les myosites réfractaires. Avec 10 patients et sans groupe contrôle, elle ne pourra servir qu'à générer des hypothèses.",
+ "profil": "Des adultes de 18 à moins de 80 ans atteints de myopathie inflammatoire idiopathique active malgré des traitements conventionnels.",
+ "inclusion": [
+  "Âge de 18 à moins de 80 ans",
+  "Début de la myosite à plus de 18 ans",
+  "Critères de classification ACR/EULAR 2017 des myopathies inflammatoires remplis",
+  "Myosite active : MMT8 < 142 et au moins deux autres mesures IMACS anormales (EVA globale patient ≥ 2 cm, EVA médecin ≥ 2 cm, enzyme musculaire > 1,5 N, HAQ ≥ 0,25)",
+  "Activité persistante malgré deux immunosuppresseurs en plus des corticoïdes"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Cancer",
+  "Classe fonctionnelle 4",
+  "Contre-indication au maraviroc"
+ ],
+ "bras": [
+  {
+   "nom": "Maraviroc",
+   "traitement": "Maraviroc 300 mg par voie orale une fois par jour pendant 12 semaines"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Amélioration clinique minimale selon la définition IMACS, de l'inclusion à la fin du traitement à 12 semaines."
+}

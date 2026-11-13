@@ -1,0 +1,33 @@
+{
+ "h": "c5d41eeb4957",
+ "date": "2026-11-13",
+ "titre": "Emapalumab et ruxolitinib à doses modifiées (E-Ru) dans la LHH active",
+ "question": "L'association emapalumab et ruxolitinib à doses modifiées améliore-t-elle la survie à 60 jours dans la LHH active ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est un syndrome d'hyperinflammation dont le moteur central est l'interféron gamma. Le protocole HLH-94/2004 à base d'étoposide reste la référence, mais il est toxique, et de nombreux patients sont réfractaires ou rechutent.\n\nL'emapalumab, anticorps anti-interféron gamma, est approuvé dans la LHH primaire réfractaire et dans le syndrome d'activation macrophagique de la maladie de Still. Le ruxolitinib, inhibiteur de JAK1/2, bloque la signalisation de plusieurs cytokines impliquées, dont l'interféron gamma. Ces deux agents ciblent donc des voies complémentaires. Cet essai de phase 2/3 à bras unique, promu par le Premier hôpital affilié de l'université de Soochow, teste un schéma E-Ru à doses modifiées chez 30 patients de 1 à 70 ans, sans chimiothérapie antérieure pour la LHH. Les détails de la modification de dose ne figurent pas au registre. Il n'y a pas de comparateur.",
+ "interet": "Une association ciblée sans étoposide pourrait réduire la toxicité du traitement initial de la LHH. Le schéma à bras unique fournira un premier signal de survie.",
+ "profil": "Des patients de 1 à 70 ans atteints de LHH active (au moins 5 critères HLH-2004), sans chimiothérapie antérieure pour la LHH.",
+ "inclusion": [
+  "Au moins 5 critères HLH-2004 sur 8",
+  "Âge de 1 à 70 ans",
+  "Aucune chimiothérapie antérieure pour la LHH",
+  "Grossesse exclue et contraception efficace",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque NYHA ≥ II",
+  "Infection par le VIH",
+  "Insuffisance rénale sévère (DFG < 15 mL/min)",
+  "Cirrhose sévère (MELD > 20)",
+  "Infection non contrôlée",
+  "Maladie psychiatrique sévère ou tumeur active",
+  "Atteinte du système nerveux central ; participation à une autre étude"
+ ],
+ "bras": [
+  {
+   "nom": "E-Ru pour LHH",
+   "traitement": "Emapalumab et ruxolitinib à doses modifiées (doses non précisées), avec traitement de rattrapage et suivi"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 60 jours)",
+ "critere": "Survie globale à 60 jours."
+}
