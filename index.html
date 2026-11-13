@@ -570,7 +570,7 @@ function show(v) {
 function route() {
   const { path, q } = parse(), h = location.hash;
   if (/^NCT\d{8}$/.test(path)) { show("study"); renderStudy(path); scrollTo(0, 0); }
-  else if (path === "etudes") { show("etudes"); setF(q); if (h !== lastQS) shown = 50; lastQS = h; renderList(); }
+  else if (path === "etudes") { show("etudes"); setF(q); prevDis = $("fDis").value; if (h !== lastQS) shown = 50; lastQS = h; renderList(); }
   else if (path === "maladies" || path.startsWith("maladie/")) { show("maladies"); renderDisease(path.split("/")[1]); }
   else if (path === "reperes" || path === "apropos") { show("reperes"); document.title = "Repères · STUDYprogress"; }
   else { show("home"); renderHome(); document.title = "STUDYprogress · La recherche clinique en médecine interne"; }
@@ -583,7 +583,10 @@ addEventListener("scroll", () => { if (location.hash === curHash) pos[curHash] =
 addEventListener("hashchange", () => { curHash = location.hash; route(); });
 
 for (const id of Object.values(CTRL)) $(id)[id === "q" ? "oninput" : "onchange"] = onFilter;
-$("fReset").onclick = () => { setF(new URLSearchParams()); onFilter(); };
+// Choisir une maladie pré-sélectionne la phase 3 (les essais qui changent la pratique) ; « Tous types » reste à un clic.
+let prevDis = "";
+$("fDis").onchange = () => { const d = $("fDis").value; if (d && !prevDis && !$("fTy").value) $("fTy").value = "p3"; prevDis = d; onFilter(); };
+$("fReset").onclick = () => { setF(new URLSearchParams()); prevDis = ""; onFilter(); };
 $("moreList").onclick = () => { shown += 50; renderList(); };
 function toggleFav(id) {
   favs.has(id) ? favs.delete(id) : favs.add(id);
