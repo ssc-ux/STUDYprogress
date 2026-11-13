@@ -59,7 +59,7 @@ function normalize(st) {
     alloc: ds.designInfo?.allocation ?? "", mask: ds.designInfo?.maskingInfo?.masking ?? "", model: ds.designInfo?.interventionModel ?? ds.designInfo?.observationalModel ?? "",
     n: ds.enrollmentInfo?.count ?? null, nType: ds.enrollmentInfo?.type ?? "",
     start: d(s.startDateStruct), pcd: d(s.primaryCompletionDateStruct), end: d(s.completionDateStruct),
-    first: d(s.studyFirstPostDateStruct), upd: d(s.lastUpdatePostDateStruct),
+    first: d(s.studyFirstPostDateStruct), upd: d(s.lastUpdatePostDateStruct), rdate: d(s.resultsFirstPostDateStruct),
     sponsor: sp.leadSponsor?.name ?? "", sClass: sp.leadSponsor?.class ?? "", collabs: (sp.collaborators ?? []).map(c => c.name),
     fr: promo ? "promo" : frSites.length ? "centres" : "", frSites, sites: locs.length,
     countries: new Set(locs.map(l => l.country)).size, officials,
@@ -154,7 +154,7 @@ async function main() {
     id: s.id, acr: s.acr, t: s.x?.titre || s.title, dis: s.dis, status: s.status, type: s.type, phase: s.phase,
     n: s.n, start: s.start, pcd: s.pcd, sponsor: s.sponsor, sClass: s.sClass, fr: s.fr, frN: s.frSites.length,
     sites: s.sites, q: s.x?.question ?? "", p: s.x?.profil ?? "", seen: s.seen, chg: s.chg, res: s.hasResults || s.pubs.length > 0,
-    pub: s.pubs.length, rnd: s.alloc === "RANDOMIZED" ? 1 : 0, iv: drugs(s), v: [...new Set(s.frSites.map(l => city(l.c)).filter(Boolean))].sort()
+    pub: s.pubs.length, rd: s.rdate || (s.pubs.length ? s.upd : ""), rnd: s.alloc === "RANDOMIZED" ? 1 : 0, iv: drugs(s), v: [...new Set(s.frSites.map(l => city(l.c)).filter(Boolean))].sort()
   }));
   await writeFile("data/todo.json", JSON.stringify(todo.map(s => ({ id: s.id, h: s.h, acr: s.acr, fr: s.fr })), null, 0).replace(/},/g, "},\n"));
   await writeFile("data/studies.json", JSON.stringify({ updated: process.env.OFFLINE && prev.updated || TODAY, diseases: DISEASES.map(({ q, ...d }) => d), studies: light }));

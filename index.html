@@ -249,7 +249,7 @@ footer a{color:var(--muted)}
     <div class="fbar">
       <input id="q" type="search" placeholder="Maladie, molécule, acronyme, promoteur, ville…" autocomplete="off" aria-label="Rechercher une étude">
       <select id="fDis" aria-label="Maladie"></select>
-      <select id="fSt" aria-label="Avancement"><option value="">Tous les stades</option><option value="act">À venir ou en cours</option><option value="soon">À venir (pas encore ouvertes)</option><option value="rec">Inclusions en cours</option><option value="fol">Suivi (inclusions closes)</option><option value="done">Terminées ou arrêtées</option><option value="res">Avec résultats</option><option value="new">Nouvelles sur le site (30 j)</option><option value="chg">Statut modifié (30 j)</option></select>
+      <select id="fSt" aria-label="Avancement"><option value="">Tous les stades</option><option value="act">À venir ou en cours</option><option value="soon">À venir (pas encore ouvertes)</option><option value="rec">Inclusions en cours</option><option value="fol">Suivi (inclusions closes)</option><option value="done">Terminées ou arrêtées</option><option value="res">Résultats de phase 3 (6 mois)</option><option value="new">Nouvelles sur le site (30 j)</option><option value="chg">Statut modifié (30 j)</option></select>
       <select id="fTy" aria-label="Type d'étude"><option value="">Tous types</option><option value="int">Essais interventionnels</option><option value="p1">Phase 1</option><option value="p2">Phase 2</option><option value="p3">Phase 3</option><option value="p4">Phase 4</option><option value="rnd">Essais randomisés</option><option value="obs">Observationnelles, cohortes</option></select>
       <select id="fOr" aria-label="Origine"><option value="">Toutes origines</option><option value="promo">Promotion française</option><option value="fr">Avec centres en France</option></select>
       <select id="fVille" aria-label="Ville"></select>
@@ -326,7 +326,7 @@ const STF = {
   soon: IN("NOT_YET_RECRUITING"), rec: IN("RECRUITING", "ENROLLING_BY_INVITATION"), fol: IN("ACTIVE_NOT_RECRUITING"),
   act: IN("NOT_YET_RECRUITING", "RECRUITING", "ENROLLING_BY_INVITATION", "ACTIVE_NOT_RECRUITING"),
   run: IN("RECRUITING", "ENROLLING_BY_INVITATION", "ACTIVE_NOT_RECRUITING"),
-  done: IN("COMPLETED", "TERMINATED"), res: s => s.res && STF.done(s), new: s => recent(s.seen), chg: s => recent(s.chg)
+  done: IN("COMPLETED", "TERMINATED"), res: s => s.res && STF.done(s) && s.phase.includes("3") && days(s.rd, updated) <= 183, new: s => recent(s.seen), chg: s => recent(s.chg)
 };
 const TYF = { int: s => s.type === "INTERVENTIONAL", obs: s => s.type === "OBSERVATIONAL", rnd: s => !!s.rnd, p1: s => s.phase.includes("1"), p2: s => s.phase.includes("2"), p3: s => s.phase.includes("3"), p4: s => s.phase.includes("4") };
 const SORT = {
@@ -383,14 +383,14 @@ function renderHome() {
       <h1>La recherche clinique en médecine interne, lisible en une minute.</h1>
       <p class="lead">Ce qui démarre, ce qui recrute dans votre ville, ce qui vient d'être publié : chaque étude résumée par sa question, son schéma et son intérêt pour la pratique.</p>
       <form class="hsearch" id="hform"><input id="hq" type="search" placeholder="Lupus, rituximab, CAR-T, GFEV…" autocomplete="off" aria-label="Rechercher une étude"><button class="btnp" type="submit">Chercher</button></form>
-      <div class="kpis"><a href="${href("etudes", { st: "run" })}"><b>${n("run").toLocaleString("fr-FR")}</b>études en cours</a><a href="${href("etudes", { st: "soon" })}"><b>${n("soon")}</b>à venir</a><a href="${href("etudes", { or: "promo" })}"><b>${DATA.filter(s => s.fr === "promo").length}</b>à promotion française</a><a href="${href("etudes", { st: "res", so: "fin" })}"><b>${n("res")}</b>avec résultats</a></div>
+      <div class="kpis"><a href="${href("etudes", { st: "run" })}"><b>${n("run").toLocaleString("fr-FR")}</b>études en cours</a><a href="${href("etudes", { st: "soon" })}"><b>${n("soon")}</b>à venir</a><a href="${href("etudes", { or: "promo" })}"><b>${DATA.filter(s => s.fr === "promo").length}</b>à promotion française</a><a href="${href("etudes", { st: "res", so: "fin" })}"><b>${n("res")}</b>résultats de phase 3</a></div>
     </section>
     ${panel("Nouvelles études françaises", fr, href("etudes", { or: "promo", st: "act", so: "new" }), "Coordonnées par un centre français, à venir ou en cours d'inclusion, démarrées depuis moins d'un an. Phases 3 et 4 en premier.", 8)}
     ${panel("Mes études suivies", fv, href("etudes", { fav: 1 }), "", 6)}
     ${panel("Nouvelles ce mois-ci", nw, href("etudes", { st: "new", so: "seen" }), "Études apparues au registre depuis moins de 30 jours, françaises d'abord.")}
     <section class="panel"><div class="ph"><h2><label for="ville">Ouvertes aux inclusions à</label></h2><select id="ville"><option value="">choisir une ville…</option>${cities().map(v => `<option${v === ville ? " selected" : ""}>${esc(v)}</option>`).join("")}</select>${local.length > 6 ? `<a class="all" href="${href("etudes", { v: ville, st: "rec" })}">Tout voir →</a>` : ""}</div>
       ${!ville ? `<p class="hint">Choisissez votre ville d'internat : le site retient ce choix et affiche ici les études qui recrutent ou vont ouvrir dans ses centres.</p>` : local.length ? `<div class="tbl">${rows(local.slice(0, 6))}</div>` : `<p class="hint">Aucune étude ouverte déclarée dans cette ville pour le moment.</p>`}</section>
-    ${panel("Résultats récents", rs, href("etudes", { st: "res", so: "fin" }), "Études terminées dont les résultats sont déposés au registre ou publiés.")}
+    ${panel("Résultats récents", rs, href("etudes", { st: "res", so: "fin" }), "Essais de phase 3 dont les résultats ont été déposés au registre ou publiés depuis moins de 6 mois.")}
     <section class="panel"><div class="ph"><h2>Explorer par maladie</h2><p>Pour chaque maladie : les molécules en développement par phase, les cohortes et les résultats.</p></div>${disGrid()}</section>`;
 }
 
@@ -424,7 +424,7 @@ function renderDisease(id) {
     return `<div class="pcol"><h3>Phase ${p}<span>${l.length}</span></h3>${l.slice(0, 10).map(s => `<a class="pi" href="#/${s.id}"><b>${esc(s.iv.join(" + ") || s.acr || s.id)}</b><span>${s.fr === "promo" ? FLAG : ""}${s.iv.length ? esc(s.acr || s.id) + " · " : ""}${stOf(s)[0]}${s.n ? ` · ${s.n} pts` : ""}</span></a>`).join("") || `<span class="none">Aucun essai en cours.</span>`}${l.length > 5 ? `<a class="all${l.length > 10 ? "" : " mob"}" href="${L({ ty: "p" + p, st: "act" })}">Voir les ${l.length} essais →</a>` : ""}</div>`;
   };
   $("vDis").innerHTML = `<p class="crumb"><a href="#/maladies">Maladies</a> › ${esc(d.cat)}</p><h1 class="pt">${esc(d.fr)}</h1>
-    <div class="nums"><div class="num"><b>${act.length}</b><span>études à venir ou en cours</span></div><div class="num"><b>${tr.filter(s => phaseN(s) >= 3).length}</b><span>essais de phase 3 ou 4</span></div><div class="num"><b>${a.filter(s => s.fr === "promo").length}</b><span>à promotion française</span></div><div class="num"><b>${a.filter(STF.res).length}</b><span>avec résultats</span></div></div>
+    <div class="nums"><div class="num"><b>${act.length}</b><span>études à venir ou en cours</span></div><div class="num"><b>${tr.filter(s => phaseN(s) >= 3).length}</b><span>essais de phase 3 ou 4</span></div><div class="num"><b>${a.filter(s => s.fr === "promo").length}</b><span>à promotion française</span></div><div class="num"><b>${a.filter(STF.res).length}</b><span>résultats de phase 3 (6 mois)</span></div></div>
     <section class="panel"><div class="ph"><h2>Traitements en développement</h2><a class="all" href="${L({ ty: "int", st: "act" })}">Tous les essais →</a><p>Essais à venir ou en cours, classés par phase : la molécule testée, puis l'acronyme et l'avancement.</p></div><div class="pipe">${[1, 2, 3, 4].map(col).join("")}</div></section>
     ${panel("Stratégies, dispositifs et autres essais", tr.filter(s => !phaseN(s)).sort(rank), L({ ty: "int", st: "act" }), "Essais sans phase : stratégies thérapeutiques, rééducation, dispositifs, examens.")}
     ${panel("Cohortes et études observationnelles", act.filter(TYF.obs).sort(rank), L({ ty: "obs", st: "act" }))}
