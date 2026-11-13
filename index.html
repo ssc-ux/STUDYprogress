@@ -371,7 +371,10 @@ function disGrid() {
 }
 function renderHome() {
   const n = k => DATA.filter(STF[k]).length, ville = store("sp-ville") || "";
-  const nw = DATA.filter(STF.new).sort(rank), ch = DATA.filter(s => recent(s.chg) && !recent(s.seen)).sort(rank);
+  const nw = DATA.filter(STF.new).sort(rank);
+  // Nouvelles études à promotion française (à venir ou qui recrutent, démarrées depuis moins d'un an) : phases 3-4 d'abord.
+  const fr = DATA.filter(s => s.fr === "promo" && (STF.soon(s) || STF.rec(s)) && (!s.start || days(s.start, updated) <= 365))
+    .sort((a, b) => (phaseN(b) >= 3) - (phaseN(a) >= 3) || (b.start || "9999").localeCompare(a.start || "9999"));
   const rs = DATA.filter(STF.res).sort((a, b) => (b.pub > 0) - (a.pub > 0) || SORT.fin(a, b));
   const fv = DATA.filter(s => favs.has(s.id)).sort((a, b) => isNew(b) - isNew(a) || rank(a, b));
   const local = ville ? DATA.filter(s => s.v.includes(ville) && (STF.rec(s) || STF.soon(s))).sort(rank) : [];
@@ -382,9 +385,9 @@ function renderHome() {
       <form class="hsearch" id="hform"><input id="hq" type="search" placeholder="Lupus, rituximab, CAR-T, GFEV…" autocomplete="off" aria-label="Rechercher une étude"><button class="btnp" type="submit">Chercher</button></form>
       <div class="kpis"><a href="${href("etudes", { st: "run" })}"><b>${n("run").toLocaleString("fr-FR")}</b>études en cours</a><a href="${href("etudes", { st: "soon" })}"><b>${n("soon")}</b>à venir</a><a href="${href("etudes", { or: "promo" })}"><b>${DATA.filter(s => s.fr === "promo").length}</b>à promotion française</a><a href="${href("etudes", { st: "res", so: "fin" })}"><b>${n("res")}</b>avec résultats</a></div>
     </section>
+    ${panel("Nouvelles études françaises", fr, href("etudes", { or: "promo", st: "act", so: "new" }), "Coordonnées par un centre français, à venir ou en cours d'inclusion, démarrées depuis moins d'un an. Phases 3 et 4 en premier.", 8)}
     ${panel("Mes études suivies", fv, href("etudes", { fav: 1 }), "", 6)}
     ${panel("Nouvelles ce mois-ci", nw, href("etudes", { st: "new", so: "seen" }), "Études apparues au registre depuis moins de 30 jours, françaises d'abord.")}
-    ${panel("Changements de statut", ch, href("etudes", { st: "chg" }), "Ouvertures, fins d'inclusion, fins d'étude et arrêts des 30 derniers jours.")}
     <section class="panel"><div class="ph"><h2><label for="ville">Ouvertes aux inclusions à</label></h2><select id="ville"><option value="">choisir une ville…</option>${cities().map(v => `<option${v === ville ? " selected" : ""}>${esc(v)}</option>`).join("")}</select>${local.length > 6 ? `<a class="all" href="${href("etudes", { v: ville, st: "rec" })}">Tout voir →</a>` : ""}</div>
       ${!ville ? `<p class="hint">Choisissez votre ville d'internat : le site retient ce choix et affiche ici les études qui recrutent ou vont ouvrir dans ses centres.</p>` : local.length ? `<div class="tbl">${rows(local.slice(0, 6))}</div>` : `<p class="hint">Aucune étude ouverte déclarée dans cette ville pour le moment.</p>`}</section>
     ${panel("Résultats récents", rs, href("etudes", { st: "res", so: "fin" }), "Études terminées dont les résultats sont déposés au registre ou publiés.")}
