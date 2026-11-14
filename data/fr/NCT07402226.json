@@ -1,0 +1,14 @@
+{
+ "h": "179a6be09b71",
+ "date": "2026-11-14",
+ "titre": "Trois régimes alimentaires contre les symptômes digestifs de la sclérodermie systémique",
+ "question": "Un régime pauvre en glucides fermentescibles, un régime d'exclusion des aliments nocifs pour la barrière intestinale ou un régime de repas réguliers riches en fibres solubles réduit-il le ballonnement de la sclérodermie ?",
+ "contexte": "L'atteinte digestive touche la quasi-totalité des patients atteints de sclérodermie systémique. Ballonnement, distension et douleurs abdominales altèrent fortement la qualité de vie. Elles sont liées à la dysmotilité, à la pullulation bactérienne et à des anomalies du microbiote, et les traitements médicamenteux n'ont qu'un effet limité.\n\nLes régimes alimentaires ont montré leur intérêt dans le syndrome de l'intestin irritable (régime pauvre en FODMAP) et la maladie de Crohn (régime d'exclusion), mais n'ont jamais été comparés de façon randomisée dans la sclérodermie. Cet essai de l'université du Michigan randomise 60 adultes entre trois stratégies : restriction des glucides fermentescibles, élimination d'aliments jugés délétères pour la barrière intestinale et le microbiote, ou repas réguliers avec fibres solubles et contrôle des portions. Les noms des régimes sont volontairement masqués dans le registre pour limiter le biais d'attente et empêcher les participants d'essayer d'autres régimes en cours d'étude. Le critère principal est l'évolution du ballonnement à 6 semaines.",
+ "interet": "L'étude pourrait fournir une première base de preuves pour des conseils diététiques structurés dans la sclérodermie. Les durées courtes et l'absence d'insu des participants limitent toutefois la portée des résultats.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec ballonnement ou distension modérés à sévères.",
+ "inclusion": ["Sclérodermie systémique selon les critères ACR/EULAR", "Ballonnement modéré à sévère : score UCLA SCTC-GIT 2.0 ≥ 2,00 (échelle 0-3)", "Capacité et volonté de suivre le régime et les procédures", "Consentement éclairé"],
+ "exclusion": ["Maladie inflammatoire chronique de l'intestin ou maladie cœliaque", "Antibiotiques systémiques dans les 4 semaines précédentes", "Chirurgie digestive (hors cholécystectomie ou appendicectomie)", "Régime pour symptômes digestifs dans les 3 derniers mois", "Perte de poids ≥ 10 % en 3 mois ou IMC < 20", "Nutrition entérale ou parentérale en cours", "Grossesse ou allaitement"],
+ "bras": [{ "nom": "Régime 1", "traitement": "Restriction des glucides fermentescibles" }, { "nom": "Régime 2", "traitement": "Élimination des aliments nocifs pour la barrière intestinale et le microbiote" }, { "nom": "Régime 3", "traitement": "Repas réguliers, fibres solubles, contrôle des portions" }],
+ "duree": "6 semaines de régime",
+ "critere": "Variation de la sévérité du ballonnement entre l'inclusion et la semaine 6."
+}

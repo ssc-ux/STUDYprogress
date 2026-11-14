@@ -1,0 +1,42 @@
+{
+ "h": "208965a887f0",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA CT103A dans les maladies inflammatoires du système nerveux à anticorps réfractaires",
+ "question": "Les cellules CAR-T anti-BCMA CT103A sont-elles sûres et efficaces dans les maladies neurologiques auto-immunes à anticorps réfractaires ?",
+ "contexte": "Plusieurs maladies neurologiques auto-immunes sont portées par des auto-anticorps pathogènes : neuromyélite optique (NMOSD), myasthénie, polyradiculonévrite inflammatoire démyélinisante chronique (PIDC), myosites, encéphalites auto-immunes, MOGAD, sclérose en plaques et syndrome POEMS. Certains patients gardent des poussées malgré les immunosuppresseurs, les immunoglobulines ou les échanges plasmatiques.\n\nBCMA est exprimé à la surface des plasmocytes, source des auto-anticorps. Les CAR-T anti-BCMA, déjà utilisés dans le myélome, peuvent éliminer ces cellules. CT103A est un CAR-T anti-BCMA qui sera évalué ici en phase 1 d'escalade de dose après lymphodéplétion par cyclophosphamide et fludarabine. Elle est promue par l'hôpital Tongji (Chine) et inclut huit maladies différentes.",
+ "interet": "L'étude évalue d'abord la tolérance et la dose. Si le profil est favorable, elle pourrait ouvrir la voie à une thérapie cellulaire ciblée dans des maladies auto-immunes neurologiques sans autre option.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'une maladie neurologique auto-immune à anticorps, récidivante ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "NMOSD AQP4+, myasthénie, PIDC, myosite, SEP, POEMS, encéphalite auto-immune ou MOGAD réfractaires, selon des critères propres à chaque maladie",
+  "Échec ou intolérance d'au moins un immunosuppresseur ou des traitements de référence",
+  "Fonctions hématologique, hépatique, rénale (clairance ≥ 60 mL/min) correctes",
+  "FEVG ≥ 50 % et saturation > 91 %",
+  "Espérance de vie ≥ 12 semaines"
+ ],
+ "exclusion": [
+  "Cellules mononucléées insuffisantes pour la fabrication",
+  "Hépatite B ou C active, VIH, CMV ou syphilis",
+  "Cancer dans les 2 dernières années (sauf exceptions)",
+  "Déficit immunitaire connu ou greffe d'organe",
+  "Insuffisance cardiaque sévère, infarctus ou AVC récents (< 6 mois)",
+  "Grossesse ou allaitement",
+  "Crise myasthénique non contrôlée dans les 2 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Niveau de dose 1",
+   "traitement": "CT103A 0,5 × 10^6 cellules CAR-T/kg après cyclophosphamide et fludarabine"
+  },
+  {
+   "nom": "Niveau de dose 2",
+   "traitement": "CT103A 1 × 10^6 cellules/kg"
+  },
+  {
+   "nom": "Niveau de dose 3",
+   "traitement": "CT103A 0,25 × 10^6 cellules/kg (si toxicité limitante chez deux patients)"
+  }
+ ],
+ "duree": "Suivi jusqu'à 2 ans après la perfusion",
+ "critere": "Toxicité limitante de dose dans les 28 jours après la perfusion, et incidence et gravité des événements indésirables jusqu'à 2 ans."
+}

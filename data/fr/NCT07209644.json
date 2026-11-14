@@ -1,0 +1,14 @@
+{
+ "h": "4d5ebfd5c515",
+ "date": "2026-11-14",
+ "titre": "Catestatine sérique, atteinte cardiovasculaire et microcirculation dans la sclérodermie systémique",
+ "question": "Le taux sérique de catestatine est-il modifié dans la sclérodermie systémique et lié à l'atteinte cardiovasculaire et microvasculaire ?",
+ "contexte": "La sclérodermie systémique associe fibrose, auto-immunité et vasculopathie. Les complications cardiovasculaires représentent une part importante de la morbi-mortalité, mais le repérage précoce des patients à haut risque reste difficile.\n\nLa catestatine est un peptide dérivé de la chromogranine A, qui intervient dans la régulation cardiovasculaire (pression artérielle, fonction endothéliale, remodelage vasculaire). Elle pourrait donc refléter la dysfonction vasculaire sclérodermique. Cette étude transversale monocentrique de l'université d'Assiut (Égypte) compare 35 patients sclérodermiques à 35 témoins sains. Les taux de catestatine seront corrélés à l'activité de la maladie, aux données cardiaques (échocardiographie, ECG, pression artérielle) et aux anomalies capillaroscopiques.",
+ "interet": "Un biomarqueur simple de l'atteinte cardiovasculaire aiderait à stratifier le risque. L'effectif réduit et le caractère monocentrique rendent les résultats exploratoires.",
+ "profil": "Des adultes atteints de sclérodermie systémique, comparés à des témoins sains.",
+ "inclusion": ["Sclérodermie systémique selon les critères ACR/EULAR 2013", "Âge supérieur à 18 ans"],
+ "exclusion": ["Autres maladies auto-immunes", "Maladies cardiovasculaires non liées à la sclérodermie", "Comorbidités modifiant le métabolisme de la catestatine (diabète, insuffisance rénale chronique, obésité)"],
+ "bras": [{ "nom": "Sclérodermie systémique (n = 35)", "traitement": "Dosage de catestatine, évaluation de l'activité, bilan cardiovasculaire et capillaroscopie" }, { "nom": "Témoins sains (n = 35)", "traitement": "Dosage de catestatine comme référence" }],
+ "duree": "Une seule évaluation (inclusion)",
+ "critere": "Différence de concentration sérique de catestatine entre patients sclérodermiques et témoins, à l'inclusion."
+}

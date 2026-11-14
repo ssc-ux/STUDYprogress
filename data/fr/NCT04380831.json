@@ -1,0 +1,14 @@
+{
+ "h": "6cbeb668edf3",
+ "date": "2026-11-14",
+ "titre": "Irradiation corporelle totale par IMRT et cyclophosphamide avant autogreffe dans la sclérodermie sévère",
+ "question": "Peut-on délivrer une irradiation corporelle totale par IMRT en épargnant poumons et reins avant une greffe de cellules souches dans la sclérodermie sévère ?",
+ "contexte": "La sclérodermie systémique diffuse sévère, rapidement évolutive, a un pronostic réservé malgré les immunosuppresseurs. L'autogreffe de cellules souches hématopoïétiques a démontré un bénéfice de survie dans des essais randomisés (ASTIS, SCOT), au prix d'une toxicité de la procédure, notamment cardiaque et pulmonaire.\n\nLe conditionnement associant irradiation corporelle totale (ICT) et cyclophosphamide, utilisé dans l'essai SCOT, peut exposer poumons et reins à des doses toxiques, alors que ces organes sont déjà fragilisés par la maladie. L'irradiation par modulation d'intensité (IMRT) permet de délivrer 8 Gy au corps entier tout en limitant la dose moyenne aux poumons et aux reins à 2 Gy. Cette étude pilote de phase 1 de City of Hope inclut 15 patients : ICT par IMRT en deux fractions par jour aux jours -5 et -4, cyclophosphamide aux jours -3 et -2, puis greffe au jour 0. Elle évalue la faisabilité dosimétrique et la sécurité.",
+ "interet": "Si la dosimétrie est atteinte et bien tolérée, l'IMRT pourrait rendre le conditionnement par ICT moins toxique pour les organes cibles. L'étude ne mesure pas l'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie systémique sévère candidats à une autogreffe.",
+ "inclusion": ["Âge de 18 à 65 ans, indice de Karnofsky ≥ 70", "Sclérodermie systémique candidate à un conditionnement ICT-cyclophosphamide selon les protocoles de City of Hope", "Fonctions d'organes adaptées à la greffe, selon l'hématologue", "Contraception efficace pendant l'étude et 6 mois après", "Consentement éclairé signé"],
+ "exclusion": ["Maladie non contrôlée, dont infection active", "Antécédent de radiothérapie à discuter avec l'investigateur principal", "Grossesse", "Patient jugé incapable de respecter le suivi de sécurité"],
+ "bras": [{ "nom": "Traitement unique", "traitement": "ICT par IMRT (2 fois par jour, jours -5 et -4), cyclophosphamide (jours -3 et -2), greffe de cellules souches au jour 0" }],
+ "duree": "Suivi jusqu'à 100 jours après la greffe",
+ "critere": "Doses moyennes délivrées aux poumons et aux reins (objectif de 2 Gy, pour 8 Gy au corps entier), jusqu'au jour 100."
+}

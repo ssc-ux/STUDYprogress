@@ -1,0 +1,30 @@
+{
+ "h": "7fef0ec8188f",
+ "date": "2026-11-14",
+ "titre": "NTR-1011 (DNASE1L3 fusionnée à l'albumine) chez des volontaires sains et des patients lupiques ou atteints de PR (LIBERATE-I)",
+ "question": "NTR-1011, qui dégrade les pièges extracellulaires des neutrophiles, est-il bien toléré chez des patients atteints de lupus ou de polyarthrite ?",
+ "contexte": "Les pièges extracellulaires des neutrophiles (NET) sont des réseaux d'ADN et de protéines libérés par les neutrophiles contre les infections. Leur excès ou leur défaut d'élimination favorise l'inflammation, l'exposition d'auto-antigènes et les lésions tissulaires dans le lupus et la polyarthrite rhumatoïde (PR). Les traitements actuels ne ciblent pas directement ce mécanisme.\n\nNTR-1011 est une protéine de fusion recombinante associant l'albumine sérique humaine à DNASE1L3, une enzyme qui dégrade les NET. Il est conçu pour les éliminer au niveau systémique.\n\nC'est une première étude chez l'humain, développée par Neutrolis. La phase 1a, randomisée contre placebo en dose unique, est terminée chez 48 volontaires sains. La phase 1b, en cours et sans placebo, inclut jusqu'à 24 patients adultes ayant un lupus ou une PR modérés à sévères, qui reçoivent NTR-1011 par voie sous-cutanée ou intraveineuse en plus de leur traitement habituel. L'étude évalue tolérance, pharmacocinétique, pharmacodynamie, immunogénicité et signes précoces d'efficacité.",
+ "interet": "Elle précisera la dose tolérée d'un traitement ciblant les NET. Les données seront précoces, sans valeur d'efficacité clinique.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus ou de polyarthrite rhumatoïde modérés à sévères (phase 1b).",
+ "inclusion": [
+  "Phase 1b : adultes de 18 à 75 ans, consentement et respect des visites",
+  "Lupus ou PR modéré à sévère sous traitement standard (détails non repris)",
+  "Phase 1a (terminée) : volontaires sains de 18 à 55 ans, IMC de 17 à 30",
+  "Contraception efficace pendant et après l'étude"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Allergie ou anaphylaxie antérieure aux protéines humaines, murines ou de levure, ou aux anticorps monoclonaux",
+  "Produit expérimental dans les 30 jours ou 5 demi-vies",
+  "Sérologie positive hépatite B, hépatite C ou VIH",
+  "Affection médicale significative ou anomalie biologique ou ECG notable, hypertension non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "Patients, dose initiale IV",
+   "traitement": "NTR-1011 par voie intraveineuse à la dose attendue active chez les patients lupiques ou PR, en plus du traitement habituel"
+  }
+ ],
+ "duree": "Tolérance évaluée à 30 jours",
+ "critere": "Sécurité et tolérance de NTR-1011 sur 30 jours"
+}

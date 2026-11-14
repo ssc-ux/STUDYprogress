@@ -1,0 +1,32 @@
+{
+ "h": "e2d1592eb82b",
+ "date": "2026-11-14",
+ "titre": "PIT565 en dose croissante dans le lupus systémique (phase 1, Novartis)",
+ "question": "PIT565 en injection sous-cutanée est-il bien toléré chez des patients lupiques, et déplète-t-il les lymphocytes B ?",
+ "contexte": "Le lupus systémique reste actif chez un grand nombre de patients malgré le traitement standard, et la déplétion B profonde par CAR-T a montré des rémissions dans des séries de cas. L'inconvénient est la complexité de ces approches cellulaires.\n\nPIT565 est une molécule de Novartis administrée par voie sous-cutanée après prémédication. Le registre ne détaille pas sa nature. Le schéma de l'étude (cohortes, escalade fondée sur la déplétion B de 100 % des participants) indique une molécule visant les lymphocytes B, mais sans précision.\n\nCet essai de phase 1 est ouvert, non randomisé, en escalade de dose, avec jusqu'à 8 cohortes de 3 patients sentinelles, extensibles à 15 participants à la dose candidate. Environ 54 adultes de 18 à 75 ans ayant un lupus actif (SLEDAI-2K ≥ 4) et en échec du traitement standard sont attendus. La tolérance est suivie jusqu'au jour 180.",
+ "interet": "Elle déterminera la tolérance et la dose active de PIT565 avant des essais d'efficacité. Aucun résultat clinique n'est attendu à ce stade.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif, en échec du traitement standard.",
+ "inclusion": [
+  "LES selon les critères ACR/EULAR 2019",
+  "Auto-anticorps du lupus documentés",
+  "SLEDAI-2K ≥ 4 au dépistage",
+  "Échec du traitement standard défini par le protocole",
+  "Vaccination antipneumococcique, antiméningococcique, antigrippale et anti-COVID-19"
+ ],
+ "exclusion": [
+  "Atteinte d'organe sévère ou maladie menaçant le pronostic vital",
+  "Poussée aiguë sévère (neurolupus, SAPL catastrophique)",
+  "Néphropathie lupique sévère nécessitant une induction ou un entretien immunosuppresseur",
+  "Anomalie ECG ou cardiaque à risque significatif",
+  "Médicaments interdits par le protocole",
+  "Infection active, opportuniste, chronique ou récurrente significative"
+ ],
+ "bras": [
+  {
+   "nom": "Cohortes 1 à 8",
+   "traitement": "PIT565 par voie sous-cutanée, niveau de dose croissant par cohorte, après prémédication"
+  }
+ ],
+ "duree": "Jusqu'au jour 180",
+ "critere": "Nombre de participants ayant des événements indésirables et événements indésirables graves jusqu'au jour 180"
+}

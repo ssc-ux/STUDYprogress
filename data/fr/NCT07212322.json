@@ -1,0 +1,26 @@
+{
+ "h": "3cff01b1a062",
+ "date": "2026-11-14",
+ "titre": "Cellules UCAR-T anti-CD19 allogéniques dans les maladies auto-immunes (ET-902)",
+ "question": "Des CAR-T allogéniques anti-CD19 sont-ils sûrs dans le lupus, les myopathies, les vascularites, le Sjögren, le SAPL, le PTI et la sclérodermie ?",
+ "contexte": "Les maladies auto-immunes systémiques réfractaires (lupus, myopathies inflammatoires, vascularite à ANCA, syndrome de Sjögren, syndrome des antiphospholipides, PTI, sclérodermie) peuvent rester actives après plusieurs lignes de traitement. Les CAR-T anti-CD19 autologues ont induit des rémissions dans plusieurs séries, mais leur délai de fabrication et leur coût sont limitants.\n\nLes UCAR-T sont des CAR-T allogéniques « universels », produits à l'avance à partir de donneurs sains et modifiés pour limiter le rejet et la maladie du greffon contre l'hôte. Le registre ne détaille pas leur conception.\n\nCet essai monocentrique, ouvert et à un bras, est mené à l'Institute of Hematology & Blood Diseases Hospital (Chine). Il inclut environ 24 adultes de 18 à 65 ans. Il comprend cinq périodes : sélection, lymphodéplétion, traitement, observation de la toxicité limitante et suivi. Les critères principaux sont la toxicité limitante de dose et les événements indésirables jusqu'à 12 mois.",
+ "interet": "Elle pourrait fournir des données précoces sur un CAR-T allogénique utilisable sans délai de fabrication. Elle est monocentrique, sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans ayant une maladie auto-immune systémique réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Fonction hématologique, de coagulation, hépatique, rénale, cardiaque (FEVG ≥ 50 %) et pulmonaire suffisantes",
+  "Maladie auto-immune parmi : LES, myopathie, vascularite à ANCA, Sjögren, SAPL, PTI, sclérodermie",
+  "Critères spécifiques par maladie (non repris ici)"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement",
+   "traitement": "CAR-T allogéniques anti-CD19 (UCAR-T) après lymphodéplétion"
+  }
+ ],
+ "duree": "Suivi de 12 mois après traitement",
+ "critere": "Toxicité limitante de dose (J0-J28) et fréquence des événements indésirables jusqu'à 12 mois"
+}

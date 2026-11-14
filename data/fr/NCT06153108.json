@@ -1,0 +1,26 @@
+{
+ "h": "a6f50c0cfdbe",
+ "date": "2026-11-14",
+ "titre": "Capteurs portables pour suivre la fonction des membres dans la myosite à inclusions",
+ "question": "Des capteurs portés au poignet et en pendentif peuvent-ils suivre de façon valide l'évolution de l'activité physique et de la fonction des membres dans la myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est une myopathie inflammatoire dégénérative du sujet de plus de 45 ans. Elle touche surtout les fléchisseurs des doigts et les quadriceps, et reste sans traitement efficace. Son évaluation repose sur l'examen clinique en consultation, chronophage, subjectif et peu sensible aux petites variations. Elle ne donne qu'un instantané de la maladie.\n\nCette étude de cohorte de l'University of Kansas Medical Center valide un système de capteurs portables (PAMSys, au poignet et en pendentif). Il mesure de façon répétée à domicile la fonction des membres supérieurs et l'activité dans la vie quotidienne. Les mesures sont comparées à la clinique à 6 et 12 mois.",
+ "interet": "Un biomarqueur numérique sensible et utilisable à domicile pourrait faciliter les essais thérapeutiques dans l'IBM et le suivi des patients. Il limiterait la dépendance à l'examen clinique ponctuel.",
+ "profil": "Des adultes de 45 ans ou plus atteints de myosite à inclusions.",
+ "inclusion": [
+  "Critères diagnostiques ENMC 2011 de l'IBM",
+  "Âge ≥ 45 ans",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Refus de suivre les procédures de l'étude",
+  "Participation à un essai de médicament dans les 30 derniers jours"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte IBM",
+   "traitement": "Port de capteurs PAMSys au poignet et en pendentif"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Validité des capteurs comme biomarqueur de la fonction des membres et de l'activité physique, évaluée à l'inclusion, 6 et 12 mois."
+}

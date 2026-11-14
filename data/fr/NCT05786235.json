@@ -1,0 +1,14 @@
+{
+ "h": "3fef0a20c648",
+ "date": "2026-11-14",
+ "titre": "Marqueurs d'angiogenèse placentaire (sFlt-1, PlGF) chez la femme enceinte avec SAPL primaire",
+ "question": "Les marqueurs d'angiogenèse placentaire permettent-ils de prédire la prééclampsie chez les femmes enceintes atteintes de SAPL primaire ?",
+ "contexte": "Le SAPL primaire expose à des complications obstétricales, dont la prééclampsie, malgré le traitement habituel par aspirine et héparine. Le diagnostic précoce du risque de prééclampsie reste difficile dans cette population.\n\nLe rapport sFlt-1/PlGF, dosé dans le sérum maternel, est un marqueur d'équilibre angiogénique placentaire déjà utilisé pour prédire ou écarter la prééclampsie dans la population générale. Ses valeurs de référence n'ont pas été établies spécifiquement chez les femmes avec SAPL. Cette étude cas-témoins monocentrique italienne (IRCCS San Raffaele) recrute des femmes enceintes avec SAPL primaire et des témoins sans SAPL, avec au moins une grossesse antérieure menée à terme. Elle mesure sFlt-1 et PlGF à chaque trimestre pour construire des intervalles de référence propres au SAPL primaire.",
+ "interet": "Des valeurs de référence spécifiques pourraient permettre de mieux interpréter le rapport sFlt-1/PlGF pendant la grossesse des patientes SAPL. Elles pourraient aider à dépister plus tôt la prééclampsie. L'effectif est limité et l'étude est monocentrique.",
+ "profil": "Des femmes enceintes de 18 à 45 ans, avec SAPL primaire ou sans SAPL (témoins).",
+ "inclusion": ["Groupe 1 : grossesse, âge de 18 à 45 ans, SAPL primaire selon les critères internationaux", "Groupe 2 : grossesse, âge de 18 à 45 ans, sans SAPL", "Groupe 2 : au moins une grossesse antérieure menée à terme"],
+ "exclusion": ["Grossesse par procréation médicalement assistée", "Pathologie chronique connue pendant la grossesse (hypertension essentielle, maladie neurologique)", "Antécédent d'événement thrombotique", "Insuffisance rénale chronique non liée à une maladie auto-immune (groupe 1)", "Antécédent de cancer", "Groupe 2 : antécédent de fausses couches multiples ou de complications tardives de grossesse"],
+ "bras": [{"nom": "Femmes enceintes avec SAPL primaire", "traitement": "Recueil de données épidémiologiques et d'antécédents, prélèvement sanguin périphérique"}, {"nom": "Femmes enceintes sans SAPL (témoins)", "traitement": "Mêmes recueil et prélèvement"}],
+ "duree": "Durée de la grossesse (trois prélèvements, un par trimestre)",
+ "critere": "Construction d'intervalles de référence des marqueurs d'angiogenèse placentaire spécifiques au SAPL primaire, six mois après la fin de l'étude"
+}

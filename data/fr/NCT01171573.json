@@ -1,0 +1,37 @@
+{
+ "h": "551492b63846",
+ "date": "2026-11-14",
+ "titre": "Gènes de susceptibilité des myosites inflammatoires (polymyosite, dermatomyosite, myosite à inclusions)",
+ "question": "Quels gènes de susceptibilité sont associés au développement et aux caractéristiques cliniques des myosites inflammatoires primitives ?",
+ "contexte": "La polymyosite, la dermatomyosite et la myosite à inclusions sont des myopathies inflammatoires de cause inconnue, responsables d'un déficit musculaire progressif, parfois sévère ou fatal. Les traitements actuels (corticoïdes, immunosuppresseurs) sont souvent partiellement efficaces et limités par leur toxicité.\n\nDans la polyarthrite rhumatoïde et le lupus, des variants du système HLA et de gènes de cytokines contribuent à la survenue et à l'expression de la maladie. Les mécanismes inflammatoires des myosites étant proches, des facteurs génétiques comparables sont plausibles, mais ils restent mal connus du fait de la rareté de ces maladies.\n\nCette étude observationnelle cas-témoins, coordonnée par le Salford Royal (Northern Care Alliance) et l'université de Manchester (UKMyoNet), recrute des patients dans de nombreux centres britanniques. Chaque patient donne 20 mL de sang pour des analyses génétiques et d'auto-anticorps, et le médecin remplit un dossier clinique pour confirmer le diagnostic. Des témoins sains sont également inclus.\n\nL'objectif est de comprendre les mécanismes de la maladie pour, à terme, concevoir des traitements plus ciblés. L'étude a débuté en 2001 et vise environ 1 000 patients.",
+ "interet": "Cette cohorte génétique peut identifier des facteurs de risque et des sous-groupes cliniques de myosites. Elle n'a pas d'impact thérapeutique immédiat mais alimente la recherche sur les mécanismes de la maladie.",
+ "profil": "Des adultes de 18 à 70 ans ayant une polymyosite, une dermatomyosite ou une myosite à inclusions, et des témoins sains.",
+ "inclusion": [
+  "Critères de Bohan et Peter pour polymyosite ou dermatomyosite de l'adulte",
+  "Déficit symétrique des muscles proximaux ou fléchisseurs du cou",
+  "Biopsie musculaire typique de myosite",
+  "Élévation des enzymes musculaires et EMG typique",
+  "Rash typique de dermatomyosite (pour la dermatomyosite)",
+  "Âge 18 à 70 ans"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Myosite secondaire à l'alcool ou à des médicaments (statines, fibrates...)",
+  "Myosite après infection virale récente",
+  "Incapacité à consentir par altération des capacités mentales",
+  "Anglais insuffisant",
+  "Refus de prélèvement sanguin"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec myosite (PM, DM, MI)",
+   "traitement": "Prélèvement sanguin de 20 mL et dossier clinique"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvement sanguin de 20 mL"
+  }
+ ],
+ "duree": "Une visite avec prélèvement sanguin",
+ "critere": "Identification de gènes de susceptibilité associés au développement et aux caractéristiques cliniques des myosites"
+}

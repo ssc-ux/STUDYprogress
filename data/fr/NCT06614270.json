@@ -1,0 +1,27 @@
+{
+ "h": "a25769b9e7df",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-NK anti-CD19 sécrétant IL-10/IL-15 dans les maladies auto-immunes réfractaires",
+ "question": "Des cellules CAR-NK anti-CD19 sont-elles sûres dans les maladies auto-immunes réfractaires, dont le lupus et la sclérodermie ?",
+ "contexte": "Les CAR-T anti-CD19 induisent des rémissions dans le lupus et d'autres maladies auto-immunes réfractaires, mais ils exposent à un syndrome de relargage cytokinique, à une neurotoxicité et à une fabrication individualisée complexe. Les cellules NK allogéniques sont une alternative potentiellement plus sûre et disponible d'emblée.\n\nLe produit testé est une CAR-NK anti-CD19 modifiée pour sécréter l'IL-10 et l'IL-15, afin d'améliorer sa persistance et son effet anti-inflammatoire. Il est étudié dans le lupus, la sclérodermie systémique, les myosites inflammatoires, la vascularite à ANCA, le syndrome de Sjögren et le syndrome des antiphospholipides.\n\nCet essai monocentrique, ouvert, à un bras et en escalade de dose, est mené au deuxième hôpital affilié de l'université de Zhejiang. Il inclut environ 15 adultes de 18 à 65 ans en rechute ou réfractaires. Les critères principaux sont la toxicité limitante de dose à 28 jours et les événements indésirables à 12 mois.",
+ "interet": "Elle pourrait ouvrir une voie cellulaire allogénique plus simple que les CAR-T autologues. Les effectifs sont très faibles et sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans atteints de maladie auto-immune systémique réfractaire ou en rechute.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Hémoglobine ≥ 60 g/L, leucocytes ≥ 2,5 × 10^9/L, neutrophiles ≥ 1,0 × 10^9/L",
+  "ALAT et ASAT ≤ 3 N, bilirubine ≤ 1,5 N, INR et TP < 1,5 N",
+  "LES : échec de ≥ 3 agents dont corticoïdes > 1 mg/kg/j et ≥ 2 immunomodulateurs depuis > 6 mois, ou rechute après rémission",
+  "Test de grossesse négatif et contraception efficace"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Participants",
+   "traitement": "CAR-NK anti-CD19 IL-10/IL-15, escalade de dose"
+  }
+ ],
+ "duree": "Suivi de 12 mois",
+ "critere": "Proportion de patients avec toxicité limitante de dose dans les 28 jours, et événements indésirables à 12 mois"
+}

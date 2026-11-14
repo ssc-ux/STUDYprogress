@@ -1,0 +1,28 @@
+{
+ "h": "11ca0cb6cdaa",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19/BCMA universels (KN3601) dans les maladies auto-immunes en rechute ou réfractaires",
+ "question": "Un CAR-T allogénique anti-CD19/BCMA est-il sûr dans le lupus, la sclérodermie, le Sjögren, la PR et la vascularite à ANCA réfractaires ?",
+ "contexte": "Le lupus, la sclérodermie systémique, le syndrome de Sjögren, la polyarthrite rhumatoïde et les vascularites à ANCA peuvent rester actifs malgré des traitements multiples. Éliminer à la fois les lymphocytes B (CD19) et les plasmocytes (BCMA) pourrait réinitialiser plus profondément l'auto-immunité qu'un ciblage CD19 seul.\n\nLe produit étudié (KN3601) est un CAR-T « universel » (U CAR-T) à double cible CD19/BCMA, probablement allogénique, produit à l'avance plutôt que pour chaque patient. Le registre ne détaille pas sa fabrication.\n\nCet essai pilote de phase 1 de l'hôpital Changhai (Shanghai), ouvert et à un bras, prévoit d'inclure 60 adultes de 18 à 70 ans en escalade de dose. Les critères d'inclusion sont spécifiques à chaque maladie. Les critères principaux sont la toxicité limitante de dose et les événements indésirables jusqu'à 52 semaines.",
+ "interet": "Elle pourrait fournir des données précoces sur un CAR-T double cible disponible d'emblée. L'étude n'a pas de comparateur.",
+ "profil": "Des adultes de 18 à 70 ans atteints de maladie auto-immune systémique en rechute ou réfractaire (lupus, sclérodermie, Sjögren, PR, vascularite à ANCA).",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Neutrophiles ≥ 1 × 10^9/L, hémoglobine ≥ 60 g/L",
+  "ALAT et ASAT ≤ 3 N, bilirubine ≤ 1,5 N, INR ≤ 1,5 N",
+  "FEVG ≥ 50 % et stabilité hémodynamique",
+  "Contraception pendant et 6 mois après le traitement",
+  "Critères spécifiques à chaque maladie en rechute ou réfractaire (non repris ici)"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre"
+ ],
+ "bras": [
+  {
+   "nom": "KN3601",
+   "traitement": "CAR-T universels anti-CD19/BCMA, escalade de dose"
+  }
+ ],
+ "duree": "Suivi de 52 semaines après la perfusion",
+ "critere": "Toxicité limitante de dose et événements indésirables liés au traitement, jusqu'à 52 semaines"
+}

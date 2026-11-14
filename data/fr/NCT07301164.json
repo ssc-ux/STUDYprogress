@@ -1,0 +1,14 @@
+{
+ "h": "139496a31f48",
+ "date": "2026-11-14",
+ "titre": "BCT301, cellules CAR-iT anti-CD19 allogéniques, dans les maladies auto-immunes réfractaires",
+ "question": "Les cellules CAR-iT anti-CD19 BCT301 sont-elles sûres et bien tolérées dans les maladies auto-immunes systémiques réfractaires ?",
+ "contexte": "Malgré les biothérapies (rituximab, bélimumab), de nombreuses maladies auto-immunes systémiques restent réfractaires ou rechutent : lupus, sclérodermie, myosites, SAPL, vascularites à ANCA, syndrome de Sjögren. Les CAR-T anti-CD19 autologues induisent des rémissions profondes en déplétant les lymphocytes B, mais leur fabrication est longue et coûteuse.\n\nBCT301 est un produit allogénique dit « prêt à l'emploi » : des cellules souches pluripotentes induites chimiquement (CiPSC), obtenues à partir de cellules de donneur sain, sont différenciées en lymphocytes T puis transduites par un vecteur lentiviral exprimant un CAR anti-CD19. Cette étude de phase 1 monocentrique, menée à l'hôpital Peking University Third Hospital, vise à évaluer la sécurité, les toxicités limitantes et la dose recommandée. Elle inclut des patients réfractaires à un traitement conventionnel, avec expression de CD19 sur les lymphocytes B. Elle évalue aussi l'efficacité préliminaire, la pharmacocinétique et la pharmacodynamie.",
+ "interet": "Si la sécurité est démontrée, ce type de produit allogénique pourrait faciliter l'accès à la thérapie cellulaire ciblant les lymphocytes B. Il s'agit d'une phase 1 de 10 patients, très précoce.",
+ "profil": "Des adultes de 18 à 80 ans atteints de lupus, sclérodermie, myosite, SAPL, syndrome de Sjögren ou vascularite à ANCA réfractaires.",
+ "inclusion": ["Âge de 18 à 80 ans, poids ≥ 40 kg", "Maladie auto-immune réfractaire ou en rechute (lupus, sclérodermie, myosite, SAPL, Sjögren, vascularite à ANCA) selon les critères de classification", "Activité de la maladie modérée à sévère selon des scores spécifiques", "Traitement de fond stable (corticoïdes ≤ 30 mg/j d'équivalent prednisone, antipaludéens, immunosuppresseurs)", "Lymphocytes B exprimant CD19"],
+ "exclusion": ["Défaillance d'organe (cytopénies, anomalies hépatiques ou rénales, FEVG < 45 %, saturation < 92 %)", "Antécédent de cancer autre que lymphome B", "Infection par le VIH, hépatite B ou C chronique, syphilis, tuberculose ou infection bactérienne active", "Événement cardiaque dans les 6 mois", "Traitement antérieur anti-CD19, anti-BCMA ou CAR-T (sauf échec clair)", "Greffe d'organe sous immunosuppresseur, grossesse ou allaitement"],
+ "bras": [{"nom": "BCT301", "traitement": "Injection de cellules CAR-iT anti-CD19 dérivées de CiPSC (posologie non précisée)"}],
+ "duree": "Évaluation de la toxicité limitante sur 28 jours ; durée totale de suivi non précisée",
+ "critere": "Toxicités limitantes de la dose de BCT301 dans les 28 jours"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "78f7a4c2c017",
+ "date": "2026-11-14",
+ "titre": "Sirolimus versus placebo dans le syndrome des antiphospholipides primaire",
+ "question": "Le sirolimus est-il efficace et bien toléré chez les patients atteints de SAPL primaire ?",
+ "contexte": "Le SAPL repose sur des anticorps antiphospholipides persistants associés à des thromboses ou à une morbidité obstétricale. Le traitement de fond repose sur les anticoagulants, antivitamines K en tête. Il ne cible pas les mécanismes immunologiques et vasculaires de la maladie, notamment les manifestations non thrombotiques, qui restent un besoin non couvert.\n\nLe sirolimus (rapamycine) est un inhibiteur de mTOR. Dans le SAPL, la voie mTOR est impliquée dans la vasculopathie et dans l'activation des lymphocytes. Le sirolimus a déjà été testé dans des maladies auto-immunes comme le lupus. Cet essai de phase 2, randomisé en double aveugle contre placebo et multicentrique, est promu par l'hôpital universitaire Peking University People's Hospital. Il compare le sirolimus 1,5 mg/j à un placebo chez des patients de 18 à 70 ans sous traitement combiné stable, sans lupus associé. L'évaluation se fait aux semaines 24 et 48.",
+ "interet": "Si l'efficacité est confirmée, le sirolimus pourrait devenir un traitement adjuvant ciblant la vasculopathie du SAPL. L'essai est de petite taille (70 patients) et les résultats devront être confirmés.",
+ "profil": "Des adultes de 18 à 70 ans atteints de SAPL primaire sous traitement combiné stable.",
+ "inclusion": ["Âge de 18 à 70 ans", "SAPL selon les critères de Sapporo 2006 ou ACR/EULAR 2023", "Traitement combiné stable", "Consentement éclairé signé"],
+ "exclusion": ["Événement indésirable grave antérieur ou contre-indication au sirolimus", "SAPL catastrophique dans les 90 jours ou thrombose aiguë dans les 30 jours", "≥ 4/11 critères ACR du lupus ou autre maladie auto-immune systémique", "VIH ou infection chronique sous traitement suppressif (tuberculose, hépatites B ou C, CMV, EBV, syphilis)", "Chirurgie dans le mois, cancer dans les 5 ans", "Leucocytes < 3×10⁹/L, anomalies hépatiques, grossesse ou allaitement"],
+ "bras": [{"nom": "Sirolimus", "traitement": "Sirolimus 1,5 mg par voie orale une fois par jour"}, {"nom": "Placebo", "traitement": "Placebo du sirolimus, 1,5 mg par voie orale une fois par jour"}],
+ "duree": "48 semaines",
+ "critere": "Taux de réponse complète et taux de réponse partielle à la semaine 24"
+}

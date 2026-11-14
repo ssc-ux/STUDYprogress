@@ -1,0 +1,37 @@
+{
+ "h": "5e729c35c1a0",
+ "date": "2026-11-14",
+ "titre": "Ublituximab en association dans la myopathie nécrosante à auto-anticorps (SUMMIT)",
+ "question": "L'ajout d'ublituximab au traitement immunosuppresseur améliore-t-il la réponse à 24 semaines dans la myopathie nécrosante auto-immune récente et active ?",
+ "contexte": "La myopathie nécrosante à médiation immune (MNMI) est une myopathie inflammatoire rare, caractérisée par un déficit musculaire proximal, des CPK très élevées et une nécrose myofibrillaire à la biopsie, avec peu d'infiltrat inflammatoire. Elle est associée à des anticorps anti-SRP ou anti-HMGCR, ce dernier étant souvent lié à une exposition aux statines.\n\nLe traitement repose sur les corticoïdes associés à un immunosuppresseur (méthotrexate, mycophénolate, azathioprine), parfois sur les immunoglobulines IV ou le rituximab. La réponse reste souvent partielle et les séquelles musculaires (atrophie, fibrose) s'installent rapidement, d'où l'intérêt d'un traitement précoce plus efficace.\n\nL'ublituximab est un anticorps monoclonal anti-CD20 glycoengineeré, déjà utilisé dans la sclérose en plaques. La déplétion B pourrait réduire la production d'auto-anticorps pathogènes. Cet essai de phase 2, randomisé en double aveugle contre placebo, promu par le NIAID, évalue l'ublituximab en première association chez des patients à maladie récente (moins d'un an) et active, sous un seul immunosuppresseur de fond.\n\nLes patients du groupe placebo reçoivent ensuite l'ublituximab à partir de la semaine 24, ce qui permet de comparer les deux stratégies tout en offrant le traitement à tous. Le critère de jugement est le score d'amélioration totale (TIS) des critères de réponse ACR/EULAR 2016 dans les myosites.",
+ "interet": "Si l'ublituximab améliore le TIS par rapport au placebo, il pourrait constituer une option anti-CD20 précoce dans la MNMI, maladie pour laquelle aucun traitement n'a d'AMM. L'étude, de petite taille, fournira surtout une estimation de l'effet pour planifier un essai de phase 3.",
+ "profil": "Des adultes ayant une myopathie nécrosante auto-immune récente (< 1 an) avec anticorps anti-SRP ou anti-HMGCR, active malgré un immunosuppresseur.",
+ "inclusion": [
+  "Âge ≥ 18 ans, myopathie inflammatoire définie ou probable (critères EULAR/ACR 2017)",
+  "MNMI (critères ENMC 2016) avec anticorps anti-SRP ou anti-HMGCR",
+  "Début du déficit moteur ou de l'élévation des CPK depuis moins d'un an",
+  "Déficit musculaire (MMT-8 < 142/150), CPK > 1,5 N et anomalie d'au moins une mesure clinique parmi quatre",
+  "Un seul immunosuppresseur de fond à dose stable (méthotrexate, mycophénolate, azathioprine, tacrolimus, ciclosporine)",
+  "Prednisone ≤ 20 mg/j à dose stable depuis 4 semaines, ou arrêtée"
+ ],
+ "exclusion": [
+  "Atteinte terminale (pneumopathie interstitielle avancée avec CVF < 60 % ou oxygène, dysphagie sévère) ou atrophie irréversible",
+  "Autre myopathie, dont MNMI séronégative, myosite à inclusions, myosite des connectivites, myosite paranéoplasique",
+  "Antécédent de cancer < 5 ans (hors cancer cutané non mélanique), infection active ou chronique (VIH, VHB, VHC, tuberculose)",
+  "Traitement antérieur par anti-CD20 ou belimumab, autre biothérapie ou JAK inhibiteur dans les 12 semaines",
+  "Cytopénies, IgG < 690 mg/dL ou DFG < 50 mL/min/1,73 m²",
+  "Grossesse ou allaitement, vaccin vivant récent, hypersensibilité à l'ublituximab"
+ ],
+ "bras": [
+  {
+   "nom": "Ublituximab d'emblée",
+   "traitement": "150 mg à J0 puis 450 mg à S2, 450 mg à S24 et S48 (placebo en insu à S26)"
+  },
+  {
+   "nom": "Placebo puis ublituximab",
+   "traitement": "Placebo à J0 et S2, puis ublituximab 150 mg à S24, 450 mg à S26 et S48"
+  }
+ ],
+ "duree": "Environ 48 semaines ou plus de traitement (étude jusqu'en 2029)",
+ "critere": "Variation du score d'amélioration totale (TIS) ACR/EULAR entre l'inclusion et la semaine 24"
+}

@@ -1,0 +1,26 @@
+{
+ "h": "7680ab0795e5r",
+ "date": "2026-11-14",
+ "titre": "N-acétyl-L-leucine (IB1001) dans l'ataxie-télangiectasie",
+ "question": "La N-acétyl-L-leucine améliore-t-elle les symptômes neurologiques de l'ataxie-télangiectasie ?",
+ "contexte": "L'ataxie-télangiectasie (AT) est une maladie génétique rare, de transmission autosomique récessive, due à des variants du gène ATM. Elle associe ataxie cérébelleuse progressive, télangiectasies, déficit immunitaire, sensibilité aux radiations et risque accru de cancers. Aucun traitement ne modifie l'évolution de la maladie, la prise en charge étant symptomatique et multidisciplinaire.\n\nLa N-acétyl-L-leucine (IB1001) est une molécule orale évaluée dans plusieurs maladies neurologiques à composante cérébelleuse, avec une amélioration rapportée des symptômes d'ataxie. Elle est développée par IntraBio.\n\nCette phase 2 multinationale, non randomisée, ouverte avec évaluateurs en aveugle, comprend 6 semaines de traitement puis 6 semaines de sevrage, suivies d'une phase d'extension évaluant l'effet neuroprotecteur à long terme. Elle a été arrêtée prématurément (17 patients).",
+ "interet": "Pour une maladie sans traitement, l'étude explore un symptomatique oral simple. Le schéma avec sevrage permet d'estimer l'effet propre du traitement sur l'ataxie.",
+ "profil": "Des patients de 6 ans et plus atteints d'ataxie-télangiectasie confirmée.",
+ "inclusion": [
+  "Âge ≥ 6 ans",
+  "Diagnostic confirmé d'ataxie-télangiectasie",
+  "Consentement écrit du patient ou de son représentant légal",
+  "Femmes en âge de procréer : abstinence ou contraception hautement efficace du 14e jour avant la première dose jusqu'à 28 jours après la dernière"
+ ],
+ "exclusion": [
+  "Médicaments interdits dans les 6 semaines précédant le dépistage (sevrage de 6 semaines requis)",
+  "Autres critères d'exclusion : non précisé dans les données retenues"
+ ],
+ "bras": [
+  { "nom": "Traitement par IB1001", "traitement": "6 semaines par voie orale : 4 g/j en 3 prises à partir de 13 ans ; 2 à 4 g/j selon le poids entre 6 et 12 ans" },
+  { "nom": "Sevrage post-traitement", "traitement": "Aucune intervention pendant 6 semaines" }
+ ],
+ "duree": "6 semaines de traitement et 6 semaines de sevrage, puis phase d'extension",
+ "critere": "Impression clinique de changement de sévérité (CI-CS) : variation sous traitement moins variation pendant le sevrage",
+ "resultats": "Le critère principal était la différence entre le CI-CS sous traitement et celui pendant le sevrage. Chez 16 patients analysés, la valeur moyenne était de 0,16 (écart type 1,65), sans analyse statistique rapportée dans le registre. Un événement indésirable grave a été noté sous IB1001 (1 patient sur 17), aucun pendant le sevrage, et 2 en phase d'extension (13 patients), dont 1 décès. L'étude a été arrêtée prématurément et l'effectif est faible."
+}

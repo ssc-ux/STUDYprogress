@@ -1,0 +1,31 @@
+{
+ "h": "97a564931f89",
+ "date": "2026-11-14",
+ "titre": "Modèle diagnostique de pneumopathie interstitielle de la dermatomyosite par TEP/TDM double traceur",
+ "question": "Les paramètres d'imagerie TEP/TDM au 68Ga-FAPI et au 18F-FDG permettent-ils de prédire une pneumopathie interstitielle diffuse (PID) associée à la dermatomyosite ?",
+ "contexte": "La PID est une complication fréquente et grave de la dermatomyosite, notamment dans les formes amyopathiques et avec anticorps anti-MDA5. Son diagnostic repose sur le scanner thoracique, les EFR et le contexte clinique. Un outil d'imagerie fonctionnelle pourrait aider à la détecter et à la caractériser plus tôt.\n\nLe 18F-FDG reflète l'activité métabolique inflammatoire, tandis que le 68Ga-FAPI cible les fibroblastes activés et donc la fibrose. Cette étude observationnelle de l'hôpital Ruijin (Shanghai) compare des patients avec et sans PID. Elle développe, par apprentissage automatique (dont XGBoost), un modèle fondé sur l'imagerie, un modèle clinique classique et un modèle combiné, puis les valide en externe.",
+ "interet": "Un modèle combinant imagerie et clinique pourrait améliorer la détection précoce de la PID chez les patients atteints de dermatomyosite. Les résultats restent à confirmer dans d'autres populations.",
+ "profil": "Des adultes atteints de dermatomyosite ou de dermatomyosite amyopathique, avec ou sans PID, ayant eu une TEP/TDM double traceur.",
+ "inclusion": [
+  "Dermatomyosite selon Bohan et Peter",
+  "Ou dermatomyosite cliniquement amyopathique selon Sontheimer",
+  "PID confirmée selon les critères ATS (groupe PID)",
+  "TEP/TDM au 68Ga-FAPI et au 18F-FDG réalisées en médecine nucléaire",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Autre connectivite associée"
+ ],
+ "bras": [
+  {
+   "nom": "PID",
+   "traitement": "Patients avec PID ; analyse des images et extraction de caractéristiques d'imagerie"
+  },
+  {
+   "nom": "Sans PID",
+   "traitement": "Patients sans PID selon les critères ATS ; même analyse d'imagerie"
+  }
+ ],
+ "duree": "Non précisé (analyse d'examens déjà réalisés)",
+ "critere": "Caractéristiques d'imagerie TEP au 68Ga-FAPI, à l'inclusion."
+}

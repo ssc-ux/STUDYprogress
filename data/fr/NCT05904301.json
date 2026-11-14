@@ -1,0 +1,14 @@
+{
+ "h": "85c901f94f44",
+ "date": "2026-11-14",
+ "titre": "Registre national arménien des maladies auto-immunes et auto-inflammatoires systémiques",
+ "question": "Quelles sont l'épidémiologie, les modes de découverte, la prise en charge et l'évolution des maladies auto-immunes et auto-inflammatoires systémiques en Arménie ?",
+ "contexte": "Les maladies auto-immunes et auto-inflammatoires systémiques résultent d'une dérégulation immunitaire qui entraîne une inflammation et des atteintes d'organes, avec un retentissement sur la qualité de vie. Elles reposent sur des facteurs génétiques et environnementaux. Les biothérapies ciblées ont transformé le pronostic de nombreuses maladies de ce groupe, d'où la nécessité d'une prise en charge globale.\n\nEn Arménie, l'épidémiologie de ces maladies, leurs circonstances de découverte et leur prise en charge sont mal connues, et varient d'un centre à l'autre. Ce registre national prospectif multicentrique (6 centres) est promu par le centre franco-arménien Santé Arménie. Il inclut des patients atteints de maladie de Behçet, de vascularites à ANCA, d'artérite de Takayasu, d'artérite à cellules géantes, de sclérodermie systémique, de syndrome de Sjögren, de polyarthrite rhumatoïde, de spondyloarthrites, d'angiœdèmes, de maladies auto-inflammatoires, de PTI ou AHAI, de SAPL primaire et de maladie cœliaque. Il constitue aussi une biobanque.",
+ "interet": "Le registre devrait fournir les premières données de référence arméniennes sur ces maladies rares. Il pourra servir à harmoniser les pratiques entre centres. La biobanque ouvre la voie à des travaux ultérieurs.",
+ "profil": "Des adultes et des enfants atteints d'une maladie auto-immune ou auto-inflammatoire systémique suivis en Arménie.",
+ "inclusion": ["Diagnostic confirmé d'au moins une des maladies auto-immunes systémiques listées", "Adultes ou mineurs", "Consentement écrit du patient ou de son représentant légal"],
+ "exclusion": ["Refus de participer au registre", "Absence de consentement du représentant légal", "Patientes allaitantes ou enceintes"],
+ "bras": [{"nom": "Maladies auto-immunes et auto-inflammatoires systémiques", "traitement": "Prise en charge habituelle ; prélèvements sanguins et de selles supplémentaires pour la biobanque"}],
+ "duree": "Suivi moyen d'environ 5 ans",
+ "critere": "Manifestations systémiques et évolution de la maladie sous traitement, mesurées par des scores d'activité propres à chaque maladie, jusqu'à la fin de l'étude (environ 5 ans)"
+}

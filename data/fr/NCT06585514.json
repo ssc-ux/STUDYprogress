@@ -1,0 +1,27 @@
+{
+ "h": "f5ef11862ab8",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 dans le lupus systémique réfractaire (Pékin, phase 1/2)",
+ "question": "Un CAR-T anti-CD19 est-il sûr et induit-il une réponse chez des patients lupiques réfractaires, y compris de néphropathie lupique ?",
+ "contexte": "Le lupus systémique réfractaire, avec ou sans néphropathie, reste actif malgré corticoïdes à forte dose, cyclophosphamide, immunosuppresseurs et biothérapies (rituximab, bélimumab, télitacicept). Les CAR-T anti-CD19 éliminent profondément les lymphocytes B et ont induit des rémissions prolongées dans des séries de cas.\n\nCette étude du Beijing GoBroad Hospital est de phase I/II, monocentrique, ouverte et non randomisée. Elle inclut 18 patients de 3 à 65 ans, avec un lupus réfractaire (SLEDAI-2K ≥ 8 ou corticodépendance élevée) ou une néphropathie lupique réfractaire. Les patients reçoivent une perfusion unique de CAR-T anti-CD19 après lymphodéplétion.\n\nLa phase I détermine la dose biologique optimale et la dose recommandée de phase 2 sur la toxicité limitante de dose à 28 jours. La phase II mesure le taux de réponse objective à 3 et 6 mois. L'inclusion d'enfants dès 3 ans est un atout.",
+ "interet": "Elle pourrait apporter des données de sécurité et d'efficacité préliminaires sur les CAR-T anti-CD19 chez l'adulte et l'enfant. L'effectif est faible et il n'y a pas de comparateur.",
+ "profil": "Des patients de 3 à 65 ans atteints de lupus systémique ou de néphropathie lupique réfractaires.",
+ "inclusion": [
+  "Âge de 3 à 65 ans",
+  "LES selon les critères EULAR/ACR 2019",
+  "ANA ≥ 1:80 et/ou anti-ADN natif positif",
+  "LES réfractaire : prednisolone ≥ 7,5 mg/kg/j ou SLEDAI-2K ≥ 8 ; échec de corticoïdes > 1 mg/kg/j + cyclophosphamide 6 mois et d'un immunomodulateur > 3 mois, ou rechute",
+  "Néphropathie lupique réfractaire (critères détaillés dans le registre)"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-CD19",
+   "traitement": "Lymphodéplétion puis dose unique de CAR-T anti-CD19"
+  }
+ ],
+ "duree": "Suivi d'au moins 6 mois",
+ "critere": "Phase I : toxicité limitante de dose (28 jours) et événements indésirables (30 jours) ; phase II : taux de réponse objective à 3 et 6 mois"
+}

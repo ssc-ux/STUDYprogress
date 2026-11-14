@@ -1,0 +1,30 @@
+{
+ "h": "8cb954a7b9d3",
+ "date": "2026-11-14",
+ "titre": "Programme web de sommeil « Better Nights, Better Days » chez des adolescents atteints de rhumatisme pédiatrique",
+ "question": "Un programme web autoguidé sur le sommeil améliore-t-il le sommeil et la douleur d'adolescents ayant un rhumatisme chronique ?",
+ "contexte": "Les adolescents atteints de rhumatismes inflammatoires pédiatriques (arthrite juvénile idiopathique, lupus, dermatomyosite, vascularites) souffrent souvent de douleur chronique et de troubles du sommeil. Ces deux symptômes s'entretiennent : la douleur perturbe le sommeil, et le manque de sommeil aggrave la perception douloureuse. La compréhension de cette relation et les moyens de la traiter sont limités dans cette population.\n\nLe programme « Better Nights, Better Days for Youth » (BNBD-Youth) est un programme web autoguidé de thérapie cognitivo-comportementale de l'insomnie de l'adolescent. Il associe éducation sur le sommeil et modification des pensées inadaptées.\n\nCette étude du Hospital for Sick Children (Toronto) suit un schéma mixte séquentiel explicatif. La phase 1 est un essai à un bras de 5 semaines chez 30 adolescents de 12 à 18 ans, avec carnets quotidiens de sommeil et de douleur. La phase 2 comprend des entretiens qualitatifs de 10 à 26 participants. Environ 43 participants sont prévus.",
+ "interet": "Elle pourrait montrer la faisabilité et l'effet préliminaire d'une aide numérique pour le sommeil et la douleur en rhumatologie pédiatrique. L'absence de groupe contrôle limite l'interprétation.",
+ "profil": "Des adolescents de 12 à 18 ans atteints de rhumatisme pédiatrique chronique, avec insomnie et douleur.",
+ "inclusion": [
+  "Âge de 12 à 18 ans, consentement possible, anglophone",
+  "Rhumatisme pédiatrique chronique confirmé",
+  "Sommeil insatisfaisant depuis ≥ 1 mois, au moins 3 nuits par semaine",
+  "Douleur d'au moins 1/10 au moins une fois dans la semaine précédente",
+  "Accès à Internet et à une adresse e-mail"
+ ],
+ "exclusion": [
+  "Déficience auditive, visuelle ou cognitive empêchant les évaluations",
+  "Trouble du sommeil nécessitant un traitement médical ou chirurgical",
+  "Prise en charge psychosociale du sommeil en cours",
+  "Utilisation antérieure du programme BNBD-Youth"
+ ],
+ "bras": [
+  {
+   "nom": "Programme BNBD-Youth",
+   "traitement": "Programme web autoguidé de 5 semaines sur le sommeil"
+  }
+ ],
+ "duree": "5 semaines d'intervention, puis entretien",
+ "critere": "Variation de l'indice de sévérité de l'insomnie (ISI) entre l'inclusion et la fin du programme à 5 semaines"
+}

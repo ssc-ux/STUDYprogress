@@ -1,0 +1,27 @@
+{
+ "h": "0208bda775c0",
+ "date": "2026-11-14",
+ "titre": "TEP/IRM au [18F]FAPI-74 dans la dermatomyosite réfractaire",
+ "question": "La TEP/IRM au [18F]FAPI-74, traceur ciblant les fibroblastes activés, permet-elle de visualiser l'atteinte de la dermatomyosite réfractaire ?",
+ "contexte": "La dermatomyosite est une myopathie inflammatoire auto-immune associant atteinte musculaire et cutanée caractéristique, avec parfois pneumopathie interstitielle et risque de cancer associé. Une partie des patients reste réfractaire aux corticoïdes, immunosuppresseurs et immunoglobulines IV.\n\nL'évaluation de l'activité repose sur la clinique, les CPK, l'IRM musculaire et la biopsie, mais ces outils reflètent mal l'inflammation et la fibrose de l'ensemble du corps. Il manque un examen non invasif pour cartographier l'atteinte et suivre la réponse au traitement.\n\nLe FAPI-74 est un inhibiteur de la protéine d'activation des fibroblastes (FAP) marqué au fluor 18. La FAP est exprimée par les fibroblastes activés présents dans les tissus inflammatoires et fibrosants, ce qui en fait une cible d'imagerie déjà explorée en oncologie et dans d'autres maladies fibro-inflammatoires.\n\nCette étude de phase 2 monocentrique, à bras unique, propose une TEP/IRM corps entier une heure après injection chez des adultes ayant une dermatomyosite réfractaire suspectée. Elle évalue d'abord la captation du traceur, sans comparateur ni critère clinique.",
+ "interet": "Si la captation est nette dans les muscles, la peau ou les poumons atteints, la TEP au FAPI pourrait aider à évaluer l'activité de la maladie et à guider le suivi. Il s'agit d'une étude exploratoire sur 21 patients.",
+ "profil": "Des adultes ayant une dermatomyosite réfractaire (ou suspectée) explorés par imagerie.",
+ "inclusion": [
+  "Suspicion de dermatomyosite",
+  "Âge supérieur à 18 ans",
+  "Consentement écrit éclairé"
+ ],
+ "exclusion": [
+  "Femme enceinte ou susceptible de l'être",
+  "Contre-indication à l'IRM ou impossibilité de rester allongé 30 minutes",
+  "Toute affection grave exposant à un risque selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "TEP/IRM au [18F]FAPI-74",
+   "traitement": "Injection de [18F]FAPI-74, IRM corps entier 45 à 60 min plus tard, puis TEP statique"
+  }
+ ],
+ "duree": "Un seul examen (environ 1 heure après injection)",
+ "critere": "Taux de captation du [18F]FAPI-74, jusqu'à 1 heure après injection"
+}

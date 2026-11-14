@@ -1,0 +1,34 @@
+{
+ "h": "24a1dbc105d7",
+ "date": "2026-11-14",
+ "titre": "Perte mosaïque du chromosome Y et maladies auto-immunes rhumatologiques chez l'homme",
+ "question": "Quelle est la fréquence de la perte mosaïque du chromosome Y (mLOY) dans les cellules sanguines d'hommes atteints de maladies auto-immunes ou pulmonaires ?",
+ "contexte": "Avec l'âge, de nombreux hommes perdent le chromosome Y dans une partie de leurs cellules hématopoïétiques (mLOY), un phénomène de type hématopoïèse clonale. La mLOY est associée à une surmortalité, à des maladies cardiovasculaires, à des cancers et à la fibrose.\n\nSon rôle dans les maladies auto-immunes rhumatologiques reste mal connu. Il est plausible qu'elle modifie la fonction des cellules immunes (monocytes, lymphocytes) et favorise l'inflammation ou la fibrose, ce qui pourrait influencer le phénotype, le pronostic ou la réponse au traitement.\n\nLe projet AYLo, de l'université de Bonn, est une étude observationnelle cas-témoins incluant des hommes de plus de 50 ans avec artérite à cellules géantes, pseudo-polyarthrite rhizomélique, vascularites à ANCA, maladie à IgG4, myopathies inflammatoires, polyarthrite rhumatoïde, rhumatisme psoriasique, connectivites, sarcoïdose, pneumopathies interstitielles, asthme ou BPCO. Les patients nouvellement diagnostiqués sont évalués à l'inclusion puis à 12 mois et comparés à des témoins sains.\n\nLes analyses combinent puces SNP, séquençage de l'ARNm, dosages multiplex, cytométrie en flux et évaluation de l'atteinte pulmonaire, afin de décrire un cadre multimodal de caractérisation des maladies.",
+ "interet": "L'étude pourrait faire de la mLOY un biomarqueur de stratification ou de pronostic dans les maladies auto-immunes. Elle reste descriptive et n'évalue aucun traitement.",
+ "profil": "Des hommes de plus de 50 ans atteints de maladies auto-immunes rhumatologiques ou pulmonaires, et des témoins sains.",
+ "inclusion": [
+  "Homme",
+  "Âge > 50 ans",
+  "Diagnostic confirmé par le médecin : polyarthrite, rhumatisme psoriasique, connectivite, vascularite (GPA, EGPA, PAM, IgG4, ACG, PPR)",
+  "Ou sarcoïdose, BPCO, pneumopathie interstitielle ou asthme",
+  "Témoins : hommes > 50 ans sans maladie auto-immune ni pulmonaire"
+ ],
+ "exclusion": [
+  "Femme",
+  "Âge < 50 ans",
+  "Témoins : maladie auto-immune ou rhumatologique",
+  "Témoins : antécédent pulmonaire"
+ ],
+ "bras": [
+  {
+   "nom": "Groupes de patients (ACG, PPR, vascularites à ANCA, IgG4, myopathies, PR, RPso, connectivites, sarcoïdose, PID, BPCO, asthme)",
+   "traitement": "Analyses SNP, séquençage ARNm, ELISA/Legendplex, cytométrie, bilan biologique ± atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Mêmes analyses, appariés sur l'âge et le sexe"
+  }
+ ],
+ "duree": "12 mois pour les patients nouvellement diagnostiqués",
+ "critere": "Fraction de cellules hématopoïétiques présentant une mLOY, à l'inclusion et 12 mois après le diagnostic"
+}

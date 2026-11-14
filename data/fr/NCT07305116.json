@@ -1,0 +1,14 @@
+{
+ "h": "232a67277422",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques universels anti-CD19/BCMA dans les maladies auto-immunes à médiation B",
+ "question": "Les CAR-T allogéniques universels anti-CD19 et BCMA sont-ils sûrs et préliminairement efficaces dans les maladies auto-immunes à médiation B ?",
+ "contexte": "Les maladies auto-immunes sévères résistant aux traitements conventionnels, comme le lupus systémique, la sclérodermie, les vascularites à ANCA, la néphropathie à IgA ou le syndrome néphrotique multirésistant, restent difficiles à contrôler. Les lymphocytes B et les plasmocytes producteurs d'auto-anticorps y jouent un rôle clé.\n\nLes CAR-T anti-CD19 autologues ont induit des rémissions prolongées dans le lupus et d'autres maladies, mais leur fabrication individuelle est longue et coûteuse. Les CAR-T allogéniques « universels », issus de donneurs sains, pourraient être disponibles immédiatement. Cibler aussi BCMA permettrait d'atteindre les plasmocytes à longue durée de vie, que le CD19 n'élimine pas. Cet essai de phase 1 monocentrique, promu par l'hôpital pour enfants de l'université de Zhejiang (Chine), inclut 15 patients, enfants compris (dès 3 ou 5 ans selon la maladie). Chacun reçoit une perfusion unique après lymphodéplétion par cyclophosphamide, avec analyse intermédiaire à 12 et 24 semaines.",
+ "interet": "L'étude évalue la faisabilité d'un CAR-T « prêt à l'emploi » à double cible dans plusieurs maladies auto-immunes. Les données de tolérance de phase 1 sont un préalable à toute évaluation d'efficacité.",
+ "profil": "Des enfants et adultes atteints de maladies auto-immunes à médiation B, réfractaires aux traitements standards.",
+ "inclusion": ["Fonctions médullaire, hépatique, rénale, cardiaque (FEVG ≥ 55 %) et pulmonaire (SpO2 ≥ 92 %) conservées", "Lupus : âge ≥ 5 ans, critères SLICC 2012 ou EULAR/ACR 2019, SLEDAI-2K ≥ 8", "Syndrome néphrotique corticorésistant multirésistant : âge ≥ 3 ans, critères KDIGO 2021, échec d'au moins deux traitements dont un anticalcineurine", "Autres maladies (sclérodermie, vascularite à ANCA, néphropathie à IgA) avec critères propres", "Contraception efficace pendant et 12 mois après le traitement", "Consentement éclairé (et du tuteur si mineur)"],
+ "exclusion": ["Non précisé dans l'extrait disponible du registre"],
+ "bras": [{ "nom": "Groupe CAR-T universels", "traitement": "Cyclophosphamide en lymphodéplétion puis perfusion unique de CAR-T allogéniques anti-CD19/BCMA" }],
+ "duree": "Suivi jusqu'à fin 2028 ; analyse intermédiaire à 12 et 24 semaines",
+ "critere": "Nombre et gravité des toxicités dose-limitantes dans les 28 jours suivant la perfusion."
+}
