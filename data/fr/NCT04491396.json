@@ -1,0 +1,30 @@
+{
+ "h": "38878a738073",
+ "date": "2026-11-14",
+ "titre": "Yoga doux et respiration yogique en complément dans la sclérodermie systémique",
+ "question": "Un programme de 12 semaines de yoga doux et de respiration yogique, pratiqué à domicile, est-il faisable et améliore-t-il la qualité de vie de patients sclérodermiques ?",
+ "contexte": "La sclérodermie systémique entraîne douleur, raideur, fatigue, stress et dépression, avec un retentissement fonctionnel important que les traitements médicamenteux contrôlent mal. Les interventions non médicamenteuses d'autogestion sont donc d'un grand intérêt, mais peu étudiées. Le yoga doux, pratiqué assis, pourrait réduire le stress et l'inflammation.\n\nCette étude pilote de la Medical University of South Carolina inclut 30 patients, répartis entre patients d'origine africaine et patients blancs non hispaniques, afin d'explorer l'acceptabilité dans les deux groupes. Après une visite initiale d'apprentissage, les participants pratiquent 1 heure de yoga doux et de respiration, matin et soir, à domicile avec une vidéo, avec un appel hebdomadaire et un journal de pratique. Des prélèvements de salive avant et après les exercices explorent les biomarqueurs inflammatoires. Le schéma est avant-après sans groupe témoin, sans test d'hypothèse. L'étude est terminée.",
+ "interet": "Elle fournira des données de faisabilité et des estimations préliminaires pour planifier un essai plus large, avec un éclairage sur l'acceptation selon l'origine. Elle ne permet pas de conclure à une efficacité.",
+ "profil": "Des adultes sclérodermiques, d'origine africaine ou blancs non hispaniques, capables de pratiquer des exercices doux en position assise.",
+ "inclusion": [
+  "Sclérodermie systémique (critères ACR/EULAR 2013)",
+  "Origine africaine ou blanc non hispanique (auto-déclarée)",
+  "Âge de 18 ans ou plus, traité par un professionnel de santé",
+  "Capable de faire des mouvements doux assis et une respiration contrôlée",
+  "Accès à un téléphone et à une vidéo (DVD, site ou YouTube)"
+ ],
+ "exclusion": [
+  "Trouble psychiatrique ou cognitif empêchant le consentement",
+  "Limitation physique rendant le yoga nocif",
+  "Participation à un autre essai de yoga",
+  "Pratique régulière du yoga (au moins une fois par semaine)"
+ ],
+ "bras": [
+  {
+   "nom": "Yoga doux et respiration yogique",
+   "traitement": "Séance initiale puis pratique de 1 heure, matin et soir, à domicile pendant 10 semaines, en complément des soins habituels"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Qualité de vie (SHAQ-DI), stress perçu, dépression, biomarqueurs salivaires, faisabilité, adhésion et acceptation à 12 semaines"
+}

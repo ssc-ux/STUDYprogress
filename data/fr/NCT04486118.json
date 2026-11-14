@@ -1,0 +1,37 @@
+{
+ "h": "24e0c359fbbf",
+ "date": "2026-11-14",
+ "titre": "Inhibiteur de l'ECA à action centrale (lisinopril) contre les troubles cognitifs du lupus",
+ "question": "Le lisinopril, inhibiteur de l'ECA à action centrale, réduit-il l'hypermétabolisme cérébral au repos et améliore-t-il la cognition de patients lupiques, par rapport au bénazépril, qui n'agit pas sur le système nerveux central ?",
+ "contexte": "Les troubles de la mémoire et de la concentration sont fréquents dans le lupus érythémateux systémique (LES). Ils peuvent être liés à la dépression, la fatigue, les médicaments ou les infections, mais des travaux chez l'animal et chez des patients indiquent que l'inflammation lupique peut atteindre directement le cerveau, notamment via l'activation des cellules microgliales. Il n'existe pas de traitement spécifique de ces troubles.\n\nLe lisinopril traverse la barrière hémato-encéphalique, contrairement au bénazépril, et a des effets anti-inflammatoires possibles dans le cerveau. Cet essai de phase 2, randomisé en double insu, multicentrique, promu par Northwell Health avec la Lupus Research Alliance, compare les deux molécules pendant 12 semaines, avec titration de 5 à 40 mg par jour. Il a inclus 36 patients lupiques de 18 à 55 ans à maladie stable, sans antécédent neurologique, sélectionnés par un hypermétabolisme au TEP-FDG dans le putamen postérieur, le pallidum et le thalamus. Il mesure aussi la liaison du PBR28 (activation microgliale), les cytokines et l'expression génique.",
+ "interet": "L'essai teste un traitement peu coûteux, déjà commercialisé, ciblant un mécanisme cérébral du lupus. Aucun résultat n'est disponible dans le registre, et la petite taille limite la portée de toute conclusion.",
+ "profil": "Des adultes lupiques de 18 à 55 ans à maladie stable, avec un hypermétabolisme cérébral au TEP-FDG et sans antécédent neurologique.",
+ "inclusion": [
+  "Capable de comprendre et de donner son consentement",
+  "Âge de 18 à 55 ans (résumé du registre ; 65 ans maximum dans les critères détaillés)",
+  "Maladie et traitements stables depuis 4 semaines",
+  "Corticoïdes ≤ 10 mg/jour de prednisone",
+  "Hypermétabolisme au TEP-FDG dans putamen postérieur, pallidum et thalamus (seuils selon l'origine)"
+ ],
+ "exclusion": [
+  "Maladie neurologique (traumatisme crânien sévère, AVC, épilepsie, SEP, démence, encéphalite)",
+  "AIT dans les 6 mois",
+  "Bélimumab, rituximab ou immunosuppresseur de fond ajouté dans les 3 mois",
+  "Alcool ou drogues dans les 12 mois, psychotropes autres que ISRS stables et gabapentine",
+  "Poussée récente (SLEDAI +3), infection chronique (hépatite, VIH), autre maladie auto-immune",
+  "Hypertension, diabète ou cardiopathie sévères, angio-œdème héréditaire ou idiopathique, DFGe < 60, PAS < 100 mmHg",
+  "IEC ou ARA II récent, intolérance aux IEC, naltrexone ou minocycline, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Lisinopril (IEC à action centrale)",
+   "traitement": "Lisinopril de 5 mg à 40 mg par jour, titration sur 8 semaines, minimum de 20 mg par jour"
+  },
+  {
+   "nom": "Bénazépril (IEC sans action centrale)",
+   "traitement": "Bénazépril de 5 à 40 mg par jour, même schéma de titration"
+  }
+ ],
+ "duree": "Non précisé (traitement d'environ 12 semaines)",
+ "critere": "Métabolisme cérébral régional au repos (TEP-FDG)"
+}
