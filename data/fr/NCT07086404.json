@@ -1,0 +1,36 @@
+{
+ "h": "fce802f647f5",
+ "date": "2026-11-14",
+ "titre": "CAR-T GC012F dans les myopathies inflammatoires idiopathiques réfractaires",
+ "question": "Le CAR-T GC012F est-il sûr et efficace dans les myopathies inflammatoires idiopathiques réfractaires ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (MII) modérées à sévères restent parfois en échec des corticoïdes, de plusieurs immunosuppresseurs et des biothérapies. Les patients gardent une faiblesse, des atteintes cutanées ou pulmonaires et un risque d'invalidité.\n\nGC012F est un CAR-T autologue ciblant à la fois CD19 et BCMA (double cible), conçu pour déplétionner les lymphocytes B et les plasmocytes producteurs d'auto-anticorps. Des CAR-T anti-CD19 ont déjà été utilisés dans les MII avec des résultats encourageants dans de petites séries. Cet essai de phase 1 à bras unique, promu par Daishi Tian, prévoit environ 12 patients, avec aphérèse, lymphodéplétion puis perfusion de 3 × 10^5 cellules/kg et surveillance des toxicités limitant la dose pendant 28 jours.",
+ "interet": "L'étude évalue la sécurité et les premiers signaux d'efficacité d'un CAR-T à double cible dans une maladie où les options après échec sont limitées.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'une myopathie inflammatoire idiopathique modérée à sévère réfractaire aux traitements.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, MII suspectée ou confirmée (EULAR/ACR 2017) avec force proximale ≤ 4",
+  "Myosite active à la biopsie ou à l'IRM musculaire",
+  "Au moins un auto-anticorps spécifique ou associé aux myosites positif",
+  "MMT < 142 et au moins 2 critères d'activité (EVA médecin ou patient ≥ 2 cm, HAQ > 0,25, enzymes ≥ 1,5 N, atteinte extramusculaire)",
+  "CK ≥ 2 N",
+  "Échec ou intolérance des corticoïdes et d'au moins 2 immunosuppresseurs ou biothérapies",
+  "Prednisone ≤ 40 mg/j, espérance de vie ≥ 3 mois, FEVG ≥ 50 %, clairance ≥ 60 mL/min"
+ ],
+ "exclusion": [
+  "Myosite à inclusions, myosite induite ou paranéoplasique, DM amyopathique, myopathie non inflammatoire",
+  "PID avec CVF < 55 % ou oxygénothérapie, dysphagie ou atteinte cardiaque sévères",
+  "Dommage musculaire sévère (MDI ≥ 5, atrophie proximale sévère)",
+  "Insuffisance cardiaque NYHA III-IV, infarctus récent, QTc > 480 ms",
+  "Cancer actif ou dans les 5 ans",
+  "Infection non contrôlée, VIH, hépatite B ou C active, syphilis, tuberculose",
+  "Thérapie antérieure anti-CD19, anti-BCMA ou CAR-T, anti-B récents (3 mois)",
+  "Greffe d'organe, grossesse, pathologie neurologique centrale"
+ ],
+ "bras": [
+  {
+   "nom": "GC012F 3 × 10^5 cellules/kg",
+   "traitement": "Aphérèse, lymphodéplétion puis perfusion unique de CAR-T GC012F"
+  }
+ ],
+ "duree": "Suivi jusqu'à 96 semaines après la perfusion (suivi plus long possible)",
+ "critere": "Proportion de patients avec toxicité limitant la dose dans les 28 jours, et événements indésirables jusqu'à 96 semaines."
+}

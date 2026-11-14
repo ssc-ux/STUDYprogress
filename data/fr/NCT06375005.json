@@ -1,0 +1,14 @@
+{
+ "h": "ef4307b4fa92",
+ "date": "2026-11-14",
+ "titre": "Télitacicept associé au mycophénolate dans la sclérodermie systémique diffuse précoce",
+ "question": "L'ajout de télitacicept au mycophénolate améliore-t-il l'épaississement cutané dans la sclérodermie diffuse précoce ?",
+ "contexte": "La sclérodermie systémique (SSc) diffuse précoce associe une fibrose cutanée rapide et un risque élevé d'atteinte viscérale. Le mycophénolate mofétil (MMF) est un traitement de première intention courant, mais son efficacité reste partielle.\n\nLe télitacicept est une protéine de fusion TACI-Fc qui neutralise BLyS (BAFF) et APRIL, cytokines de survie des lymphocytes B et des plasmocytes. Il est déjà utilisé dans le lupus et d'autres maladies auto-immunes. Les lymphocytes B et la voie BAFF participent à la physiopathologie de la SSc, ce qui motive cette exploration.\n\nCet essai de phase 2 chinois, promu par le deuxième hôpital affilié de l'université du Zhejiang, est randomisé, ouvert et multicentrique. Trente-huit adultes de 18 à 70 ans avec SSc diffuse évoluant depuis 18 mois ou moins (mRSS ≥ 10) reçoivent du MMF 0,5 g deux fois par jour avec ou sans télitacicept 160 mg par semaine par voie sous-cutanée pendant 48 semaines.",
+ "interet": "L'étude dira si le blocage de BAFF/APRIL apporte un bénéfice cutané supplémentaire au MMF dans la SSc diffuse précoce. Elle est de petite taille et ouverte, donc exploratoire.",
+ "profil": "Des adultes de 18 à 70 ans atteints de SSc diffuse évoluant depuis moins de 18 mois.",
+ "inclusion": ["Âge de 18 à 70 ans", "SSc selon les critères ACR/EULAR 2013, forme diffuse (LeRoy)", "Évolution ≤ 18 mois depuis le premier signe non Raynaud", "mRSS ≥ 10 au dépistage", "Test de grossesse négatif chez les femmes en âge de procréer", "Consentement éclairé"],
+ "exclusion": ["Sclérodermie limitée ou évolution > 3 ans", "Autre maladie auto-immune rhumatismale", "Syndrome sclérodermiforme d'origine environnementale (chlorure de vinyle, bléomycine)", "Antécédent de crise rénale", "HTAP à risque intermédiaire ou élevé", "CVF < 50 %, DLCO < 40 % ou oxygénothérapie", "Chirurgie majeure dans les 8 semaines"],
+ "bras": [{"nom": "MMF + télitacicept", "traitement": "Mycophénolate 0,5 g deux fois par jour et télitacicept 160 mg par semaine en sous-cutané, 48 semaines"}, {"nom": "MMF seul", "traitement": "Mycophénolate 0,5 g deux fois par jour, 48 semaines"}],
+ "duree": "48 semaines de traitement, suivi jusqu'à 52 semaines",
+ "critere": "Variation du score de Rodnan modifié à la semaine 48, et proportion de patients avec événements indésirables liés au traitement à la semaine 52."
+}

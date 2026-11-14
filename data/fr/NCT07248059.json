@@ -1,0 +1,26 @@
+{
+ "h": "cf80881cc856",
+ "date": "2026-11-14",
+ "titre": "Atteintes buccales chez des enfants égyptiens atteints de FMF",
+ "question": "Quelle est la prévalence des lésions buccales chez des enfants égyptiens atteints de fièvre méditerranéenne familiale ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire monogénique, la plus fréquente des fièvres périodiques. Elle associe des accès fébriles récurrents à des douleurs abdominales, thoraciques et articulaires par séreuse, et plus rarement à un érysipèle, une amylose ou une atteinte oculaire.\n\nLa cavité buccale peut aussi être touchée : ulcérations récidivantes, macroglossie, palais ogival. La prévalence de ces signes reste mal connue. Le retard diagnostique est fréquent dans la FMF, car la présentation est parfois incomplète et chevauche d'autres maladies. Reconnaître des signes supplémentaires pourrait aider à un diagnostic plus précoce.\n\nCette étude transversale monocentrique, promue par l'université du Caire, se déroule à l'hôpital pédiatrique Abu Elreesh. Elle inclut consécutivement 359 enfants de 6 à 15 ans ayant une FMF confirmée. Un examen buccal standardisé et la revue du dossier recensent les lésions (oui/non).",
+ "interet": "Elle fournira une base descriptive des anomalies buccales associées à la FMF dans la population égyptienne. Elle pourrait enrichir la sémiologie utile au diagnostic précoce.",
+ "profil": "Des enfants égyptiens de 6 à 15 ans atteints de FMF confirmée.",
+ "inclusion": [
+  "Enfants égyptiens de 6 à 15 ans",
+  "FMF confirmée",
+  "Suivi à la clinique des maladies du collagène de l'hôpital Abu Elreesh"
+ ],
+ "exclusion": [
+  "Autre maladie systémique non liée à la FMF",
+  "Enfant incapable de coopérer ou refusant de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants égyptiens avec FMF",
+   "traitement": "Examen buccal clinique standardisé et revue du dossier lors d'une visite unique"
+  }
+ ],
+ "duree": "Une visite",
+ "critere": "Prévalence des lésions buccales, lors de la visite d'inclusion."
+}

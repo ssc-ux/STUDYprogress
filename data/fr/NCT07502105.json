@@ -1,0 +1,14 @@
+{
+ "h": "67d738b53a51",
+ "date": "2026-11-14",
+ "titre": "Firsékibart (anti-IL-1β) dans la sclérodermie systémique diffuse",
+ "question": "Le firsékibart améliore-t-il l'épaississement cutané de la sclérodermie diffuse par rapport à des données historiques ?",
+ "contexte": "La sclérodermie systémique (SSc) diffuse précoce associe une fibrose cutanée rapide et un risque d'atteinte viscérale. Les traitements immunosuppresseurs actuels sont d'efficacité partielle et des options supplémentaires sont nécessaires.\n\nLe firsékibart est un anticorps monoclonal dirigé contre l'IL-1β. Cette cytokine pro-inflammatoire est impliquée dans l'activation des fibroblastes et la fibrose, ce qui motive son exploration dans la SSc (rationnel général, non détaillé dans le registre).\n\nL'essai, promu par l'hôpital Tongji de Wuhan, est exploratoire, monocentrique, ouvert et à bras unique, sans groupe contrôle concomitant : 30 adultes de 18 à 70 ans avec SSc diffuse évoluant depuis 5 ans ou moins (mRSS ≥ 10) reçoivent 200 mg de firsékibart par voie sous-cutanée aux semaines 0, 4 et 8. Les résultats seront comparés à une cohorte historique.",
+ "interet": "L'étude fournira un premier signal d'efficacité cutanée et de tolérance du blocage de l'IL-1β dans la SSc diffuse. L'absence de contrôle concomitant limite les conclusions.",
+ "profil": "Des adultes de 18 à 70 ans atteints de SSc diffuse évoluant depuis 5 ans ou moins avec épaississement cutané.",
+ "inclusion": ["Âge de 18 à 70 ans", "SSc selon les critères ACR/EULAR 2013, forme diffuse (LeRoy et Medsger)", "Évolution ≤ 5 ans depuis le premier signe non Raynaud", "mRSS ≥ 10", "Consentement signé et observance du protocole"],
+ "exclusion": ["Allergie au firsékibart ou à ses excipients, ou aux anticorps monoclonaux", "Autre maladie rhumatismale", "Atteinte pulmonaire modérée à sévère (CVF < 60 % ou DLCO < 50 %)", "Traitements pouvant gêner l'évaluation, hors traitements autorisés stables depuis 4 semaines", "Biothérapie ou thérapie par cellules souches dans les 3 mois", "Vaccin vivant ou atténué dans les 2 mois"],
+ "bras": [{"nom": "Firsékibart", "traitement": "200 mg par voie sous-cutanée aux semaines 0, 4 et 8, bras unique"}],
+ "duree": "Non précisé (critère à 12 semaines)",
+ "critere": "Variation du score de Rodnan modifié (mRSS) entre l'inclusion et la semaine 12."
+}

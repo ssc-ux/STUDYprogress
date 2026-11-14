@@ -1,0 +1,37 @@
+{
+ "h": "d2a92570c49e",
+ "date": "2026-11-14",
+ "titre": "Arrêt ou réduction du tocilizumab dans l'ACG en rémission",
+ "question": "Chez des patients en rémission d'ACG sous tocilizumab sans corticoïdes, vaut-il mieux réduire la dose ou arrêter le tocilizumab pour éviter les rechutes ?",
+ "contexte": "Le tocilizumab, anti-récepteur de l'IL-6, est le traitement de fond de référence de l'ACG et permet une rémission avec décroissance des corticoïdes. La durée optimale du traitement est inconnue : l'arrêt expose à des rechutes, tandis qu'une poursuite à pleine dose prolongée augmente le coût et les risques infectieux et biologiques.\n\nCet essai de phase 2 randomisé et ouvert, promu par le NIAID, inclut des patients en rémission depuis au moins 12 mois sous tocilizumab à forte dose (6-8 mg/kg IV mensuel ou 162 mg SC hebdomadaire), sans corticoïdes depuis au moins 3 mois. Les participants sont randomisés entre une réduction de dose (162 mg SC toutes les 2 semaines ou 4 mg/kg IV mensuel pendant 18 mois) et un arrêt du tocilizumab.\n\nLes patients en rémission à 18 mois entrent dans une phase de suivi de 12 mois, avec arrêt du tocilizumab dans le bras réduction. La randomisation est stratifiée selon le sexe et les antécédents de rechute ou de PPR.",
+ "interet": "L'étude pourrait indiquer si un traitement d'entretien allégé évite les rechutes et s'il est possible d'arrêter le tocilizumab après une rémission prolongée. Elle apporterait des données utiles pour limiter l'exposition au traitement.",
+ "profil": "Des adultes atteints d'ACG en rémission depuis au moins 12 mois sous tocilizumab, sans corticoïdes depuis au moins 3 mois.",
+ "inclusion": [
+  "ACG selon critères de classification, avec signes crâniens ou symptômes de PPR, et biopsie ou imagerie positive",
+  "Tocilizumab 6-8 mg/kg IV toutes les 4 semaines ou 162 mg SC par semaine depuis ≥ 12 mois",
+  "Rémission depuis ≥ 12 mois avec CRP < 10 mg/l",
+  "Aucun corticoïde depuis ≥ 3 mois",
+  "Consentement écrit éclairé"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune nécessitant corticoïdes ou immunomodulateurs",
+  "Hospitalisation dans les 8 semaines",
+  "Insuffisance surrénale suspectée ou établie",
+  "Autre biothérapie dans les 12 mois, immunosuppresseur non biologique dans les 3 mois",
+  "Hépatite B ou C chronique, IGRA positif sans prophylaxie, infection active ou opportuniste récente",
+  "Grossesse ou allaitement, traitement actif d'un cancer",
+  "Anomalies biologiques (ALT/AST > 1,5 N, plaquettes < 100 G/l, Hb < 90 g/l, leucocytes < 3 G/l, PNN < 1 G/l)"
+ ],
+ "bras": [
+  {
+   "nom": "Réduction de dose de tocilizumab",
+   "traitement": "162 mg SC toutes les 2 semaines ou 4 mg/kg IV mensuel pendant 18 mois"
+  },
+  {
+   "nom": "Arrêt du tocilizumab",
+   "traitement": "Arrêt, visites rapprochées jusqu'au mois 18"
+  }
+ ],
+ "duree": "30 mois (18 mois de traitement, puis 12 mois de suivi)",
+ "critere": "Proportion de patients en rémission prolongée jusqu'au mois 18"
+}

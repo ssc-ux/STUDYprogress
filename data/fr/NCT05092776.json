@@ -1,0 +1,38 @@
+{
+ "h": "3ec4e9dae0c5",
+ "date": "2026-11-14",
+ "titre": "RPH-104 contre placebo dans la FMF résistante ou intolérante à la colchicine",
+ "question": "Le RPH-104 permet-il d'obtenir plus de réponses complètes que le placebo chez des adultes atteints de FMF résistante ou intolérante à la colchicine ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire dont le traitement de base est la colchicine. Une proportion de patients est résistante ou intolérante, et garde des accès fébriles avec un risque d'amylose AA. Les anti-IL-1 sont alors la seconde ligne, mais les options restent limitées et ne sont pas disponibles partout.\n\nLe RPH-104 (goflikicept) est une protéine de fusion qui neutralise l'interleukine-1, administrée par voie sous-cutanée. Cet essai international de phase 2, randomisé en double aveugle contre placebo et promu par R-Pharm, a pour objectif de déterminer la proportion de patients en réponse complète sous RPH-104 par rapport au placebo.\n\nLes patients doivent avoir au moins une mutation de l'exon 10 de MEFV, au moins une crise par mois en moyenne sur les 3 derniers mois, et une crise active à l'inclusion (PGA au moins 2 et CRP supérieure à 10 mg/L). Le traitement dure 16 semaines : RPH-104 160 mg au jour 0, puis 80 mg aux jours 7 et 14 et toutes les 2 semaines. En cas d'échec, une levée d'aveugle permet le passage du placebo vers le RPH-104 ou l'augmentation de dose. Les patients peuvent poursuivre dans une extension ouverte (NCT05190991).",
+ "interet": "L'essai pourrait établir l'efficacité d'un nouvel anti-IL-1 en administration toutes les 2 semaines dans la FMF résistante à la colchicine. Il élargirait les options après échec de la colchicine.",
+ "profil": "Des adultes atteints de FMF résistante ou intolérante à la colchicine, avec une activité récente documentée.",
+ "inclusion": [
+  "FMF vérifiée selon Tel-Hashomer ou les critères Eurofever/PRINTO 2019",
+  "Au moins une mutation de l'exon 10 du gène MEFV",
+  "Au moins une crise par mois en moyenne sur 3 mois",
+  "Résistance à la colchicine (jusqu'à 3 mg/j) ou intolérance",
+  "Crise active avec PGA au moins 2 et CRP supérieure à 10 mg/L, depuis au plus 2 jours",
+  "Contraception très efficace et test de grossesse négatif si pertinent"
+ ],
+ "exclusion": [
+  "Hypersensibilité au RPH-104",
+  "Vaccin vivant atténué dans les 3 mois",
+  "Infection active, VIH, VHB, VHC, tuberculose active ou latente",
+  "Cancer dans les 5 ans, greffe d'organe",
+  "Insuffisance rénale sévère (clairance inférieure à 30 mL/min)",
+  "Biothérapies, immunosuppresseurs ou corticoïdes à forte dose récents",
+  "Neutropénie, thrombopénie, transaminases au moins 2 fois la normale"
+ ],
+ "bras": [
+  {
+   "nom": "RPH-104",
+   "traitement": "160 mg au jour 0, puis 80 mg aux jours 7 et 14 et toutes les 2 semaines, par voie sous-cutanée (augmentation possible à 160 mg toutes les 2 semaines)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Injections sous-cutanées de placebo selon le même schéma ; passage à l'RPH-104 possible en cas de crise non résolue"
+  }
+ ],
+ "duree": "Jusqu'à 12 semaines de dépistage, 16 semaines de traitement, puis suivi",
+ "critere": "Proportion de patients en réponse complète pendant les 16 semaines de traitement, RPH-104 contre placebo."
+}

@@ -1,0 +1,32 @@
+{
+ "h": "2fd362c5b29d",
+ "date": "2026-11-14",
+ "titre": "Registre et biobanque de la cardiomyopathie ventriculaire arythmogène de la Mayo Clinic",
+ "question": "Quels gènes, biomarqueurs et corrélations génotype-phénotype caractérisent la cardiomyopathie ventriculaire arythmogène et les morts subites inexpliquées ?",
+ "contexte": "La mort cardiaque subite non liée à un infarctus touche des milliers de sujets de moins de 40 ans, chez qui elle est le plus souvent due à une cardiopathie génétique. La cardiomyopathie ventriculaire arythmogène (CVA) en est une cause majeure, jusqu'à 25 % des décès à cet âge. Elle associe un remplacement fibro-adipeux du myocarde, une dysfonction ventriculaire et des arythmies.\n\nLa CVA est très hétérogène sur le plan clinique et génétique. Elle touche le ventricule droit, les deux ventricules ou le gauche isolément, et peut simuler une cardiomyopathie dilatée arythmogène. Elle relève surtout de variants des gènes desmosomaux (plakoglobine, plakophiline-2, desmoplakine, desmogléine-2, desmocolline) et de gènes non desmosomaux, à transmission autosomique dominante à pénétrance incomplète ; ces variants n'expliquent que 50 à 60 % des cas.\n\nLa première manifestation pouvant être la mort subite, le dépistage familial est essentiel mais difficile. Ce registre, mené par la Mayo Clinic avec l'hôpital Papworth (Cambridge), inclut des probands et leurs apparentés. Il recueille données cliniques, ECG, imagerie, biopsies et échantillons de sang, de salive et de muqueuse buccale pour découvrir de nouveaux gènes, identifier des biomarqueurs et corréler génotype et phénotype.",
+ "interet": "Il pourrait améliorer le dépistage familial et la prédiction du risque rythmique dans la CVA. Les cardiomyopathies inflammatoires comme la sarcoïdose cardiaque figurent aussi parmi les affections concernées.",
+ "profil": "Des survivants ou victimes de mort subite non ischémique, des patients avec cardiomyopathie primitive suspectée et leurs apparentés.",
+ "inclusion": [
+  "Survivant d'un arrêt cardiaque non lié à un infarctus",
+  "Décès par mort subite non liée à un infarctus",
+  "Arrêt cardiaque associé à crise comitiale, épilepsie, syncope ou noyade avec cardiomyopathie suspectée",
+  "Apparenté d'un patient atteint de cardiomyopathie primitive (CMH, CMD idiopathique, CVA)"
+ ],
+ "exclusion": [
+  "Cause claire et univoque d'arrêt ou de mort subite (infarctus, insuffisance cardiaque ischémique)",
+  "Maladie coronaire significative (sténose supérieure à 50 %) expliquant la dysfonction ventriculaire",
+  "Refus de consentement ou d'assentiment écrit"
+ ],
+ "bras": [
+  {
+   "nom": "Proband",
+   "traitement": "Premier patient présentant le diagnostic de CVA ; suivi clinique et prélèvements"
+  },
+  {
+   "nom": "Apparentés",
+   "traitement": "Apparentés au premier degré de probands, vivants ou décédés ; suivi et prélèvements"
+  }
+ ],
+ "duree": "Non précisé (étude de plusieurs années)",
+ "critere": "Génotypage (3 ans) et corrélation génotype-phénotype (3 à 6 ans)"
+}

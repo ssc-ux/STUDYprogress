@@ -1,0 +1,33 @@
+{
+ "h": "4b9d762b0762",
+ "date": "2026-11-14",
+ "titre": "RPH-104 en extension ouverte dans la FMF résistante ou intolérante à la colchicine",
+ "question": "Le RPH-104 à long terme est-il sûr et efficace pour prévenir les accès de FMF chez des adultes résistants ou intolérants à la colchicine ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est traitée par la colchicine, mais une partie des patients est résistante ou intolérante à ce traitement. Ces patients gardent des accès fébriles et un risque d'amylose AA. Les anti-IL-1 (anakinra, canakinumab) sont l'alternative recommandée en seconde ligne.\n\nLe RPH-104 (goflikicept) est une protéine de fusion bloquant l'interleukine-1, administrée par voie sous-cutanée. Cette étude est la prolongation ouverte d'un essai pivot randomisé contre placebo (CL04018065) chez des adultes avec FMF résistante ou intolérante à la colchicine.\n\nLes patients ayant reçu au moins une dose dans l'essai initial reçoivent le RPH-104 à 80 ou 160 mg toutes les 2 semaines pendant 198 semaines, avec la dose attribuée dans l'essai initial. La dose peut être augmentée à 160 mg en cas d'accès. L'étude, de phase 2 et promue par R-Pharm, évalue surtout la tolérance à long terme.",
+ "interet": "Elle apportera des données de tolérance à long terme sur un anti-IL-1 en administration toutes les 2 semaines dans la FMF résistante à la colchicine. Ces données conditionnent le positionnement futur de ce médicament par rapport aux anti-IL-1 déjà disponibles.",
+ "profil": "Des adultes atteints de FMF résistante ou intolérante à la colchicine, ayant terminé l'essai initial.",
+ "inclusion": [
+  "FMF avec résistance ou intolérance à la colchicine",
+  "Essai initial terminé, avec au moins une dose de RPH-104",
+  "Consentement éclairé signé",
+  "Capacité à suivre le calendrier de visites",
+  "Injection au centre, auto-injection ou visite à domicile acceptée"
+ ],
+ "exclusion": [
+  "Événement médical significatif ou autre affection augmentant le risque, selon l'investigateur",
+  "Grossesse, allaitement ou projet de grossesse",
+  "Refus d'une contraception très efficace",
+  "Glucocorticoïdes à forte dose, autres biothérapies, immunosuppresseurs, anakinra, inhibiteurs de JAK",
+  "Besoin d'un vaccin vivant atténué",
+  "Dépistage de tuberculose positif",
+  "Participation à une autre étude expérimentale"
+ ],
+ "bras": [
+  {
+   "nom": "RPH-104 toutes les 2 semaines",
+   "traitement": "RPH-104 80 mg ou 160 mg par voie sous-cutanée toutes les 2 semaines pendant 198 semaines, puis 8 semaines de suivi de tolérance"
+  }
+ ],
+ "duree": "Environ 206 semaines (198 semaines de traitement et 8 semaines de suivi)",
+ "critere": "Incidence des événements indésirables apparus sous traitement, des événements graves et des événements d'intérêt particulier, jusqu'à 62 semaines."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "1100fbd5ca32",
+ "date": "2026-11-14",
+ "titre": "Signature interféron sous immunothérapie anticancéreuse et dans les maladies auto-immunes systémiques",
+ "question": "La signature interféron permet-elle de prédire les événements indésirables immuno-médiés sous inhibiteurs de points de contrôle, par comparaison aux maladies auto-immunes systémiques ?",
+ "contexte": "Les inhibiteurs de points de contrôle immunitaire (anti-CTLA-4, anti-PD-1/PD-L1) ont transformé la prise en charge de nombreux cancers. Ils provoquent fréquemment des événements indésirables immuno-médiés (irAE), qui ressemblent à des maladies auto-immunes ou aggravent une auto-immunité préexistante. Aucun biomarqueur prédictif validé de ces événements n'existe à ce jour.\n\nLa signature interféron est impliquée dans le lupus, le syndrome de Sjögren, la sclérodermie et les myopathies inflammatoires, et pourrait aussi sous-tendre certains irAE. Cette étude de cohorte prospective multicentrique de l'hôpital universitaire d'Araba (Espagne) inclut 300 patients cancéreux sur le point de recevoir une immunothérapie (cohorte ICI), et une cohorte de patients atteints de maladies auto-immunes systémiques (lupus, Sjögren, sclérodermie, myosites) sans cancer, pour comparaison. Des échantillons sanguins sont prélevés à des temps prédéfinis. Les niveaux de différents types d'interférons sont comparés entre les deux groupes, et, dans la cohorte ICI, entre patients avec et sans irAE.",
+ "interet": "Un test sanguin simple prédisant le risque d'irAE aiderait à adapter la surveillance et le choix de l'immunothérapie. L'étude est exploratoire.",
+ "profil": "Des adultes traités par inhibiteurs de points de contrôle pour un cancer, et des adultes atteints de maladie auto-immune systémique.",
+ "inclusion": ["Cohorte ICI : début d'un ou de deux inhibiteurs de points de contrôle selon les recommandations, naïfs d'ICI, âge ≥ 18 ans", "Cohorte auto-immune : lupus, syndrome de Sjögren primitif, sclérodermie ou myopathie inflammatoire selon les critères ACR/EULAR", "Âge de 18 ans ou plus"],
+ "exclusion": ["Mortalité estimée < 3 mois", "Association à chimiothérapie, inhibiteurs de tyrosine kinase ou autre traitement ciblé de la tumeur (cohorte ICI)", "Contre-indication aux ICI (hypersensibilité, maladie auto-immune active sévère, ECOG ≥ 3)", "Immunosuppresseurs en cours, dont prednisone > 10 mg/j", "Cancer récent (< 1 an) ou traité activement (cohorte auto-immune)"],
+ "bras": [{ "nom": "Cohorte ICI", "traitement": "Patients cancéreux traités par inhibiteurs de points de contrôle, prélèvements sanguins" }, { "nom": "Cohorte maladies auto-immunes systémiques", "traitement": "Patients sans cancer (lupus, Sjögren, sclérodermie, myosites), prélèvements sanguins" }],
+ "duree": "48 semaines",
+ "critere": "Survenue d'un événement indésirable immuno-médié sur 48 semaines."
+}

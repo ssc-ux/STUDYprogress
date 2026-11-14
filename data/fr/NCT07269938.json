@@ -1,0 +1,39 @@
+{
+ "h": "5384c1433820",
+ "date": "2026-11-14",
+ "titre": "RituxiMAP : TEP au rituximab marqué au zirconium-89 pour cartographier les lymphocytes B dans l'ACG",
+ "question": "Peut-on visualiser les lymphocytes B dans la paroi des vaisseaux de patients atteints d'ACG des gros vaisseaux par TEP au rituximab marqué au 89Zr ?",
+ "contexte": "L'ACG est une vascularite touchant les artères de moyen et gros calibre, avec une atteinte aortique fréquente. Les corticoïdes restent le traitement central et leurs effets indésirables sont importants, et beaucoup de patients rechutent à l'arrêt, d'où un besoin de nouvelles options pour l'ACG des gros vaisseaux.\n\nLes lymphocytes B participent aux lésions vasculaires de maladies comme l'athérosclérose et pourraient intervenir dans l'ACG. Le rituximab, anti-CD20, est utilisé dans d'autres maladies auto-immunes, mais la répartition des lymphocytes B dans les vaisseaux n'est pas observable chez le vivant.\n\nCette étude pilote d'Édimbourg utilise une TEP corps entier au rituximab marqué au zirconium-89 (déjà utilisée en cancérologie, pneumologie et polyarthrite rhumatoïde). Quinze patients avec ACG des gros vaisseaux sont scannés avant et après 4 mois de corticothérapie. Deux groupes témoins sont inclus : 10 patients avec une autre maladie à médiation B (lupus, PR, sclérodermie, myosite, Sjögren) et 5 patients avec anévrisme aortique athéromateux. Pour les 5 premiers patients ACG, des scans à 3, 5 et 7 jours déterminent le délai optimal.",
+ "interet": "Étude de faisabilité : un signal positif pourrait justifier des essais de déplétion B (rituximab) comme alternative aux corticoïdes dans l'ACG des gros vaisseaux. Un signal négatif limiterait cet intérêt.",
+ "profil": "Des adultes atteints d'ACG des gros vaisseaux active, comparés à deux groupes témoins.",
+ "inclusion": [
+  "Groupe ACG : âge ≥ 50 ans, critères ACR/EULAR 2022, ACG des gros vaisseaux active en imagerie dans les 4 semaines, corticothérapie seule prévue",
+  "Groupe maladie à médiation B : âge ≥ 18 ans, maladie active, soins standards",
+  "Groupe anévrisme : âge ≥ 50 ans, anévrisme aortique athéromateux en imagerie"
+ ],
+ "exclusion": [
+  "Corticoïdes > 4 semaines avant le début",
+  "Diagnostic antérieur d'ACG",
+  "Comorbidité majeure contre-indiquant l'étude",
+  "Grossesse ou allaitement",
+  "Insuffisance rénale avancée (DFG < 15 ml/min/1,73 m²)",
+  "Incapacité à consentir",
+  "Refus des consignes de radioprotection"
+ ],
+ "bras": [
+  {
+   "nom": "ACG des gros vaisseaux",
+   "traitement": "TEP au 89Zr-rituximab avant et après 4 mois de corticoïdes"
+  },
+  {
+   "nom": "Maladies à médiation B",
+   "traitement": "TEP au 89Zr-rituximab, deux scans"
+  },
+  {
+   "nom": "Anévrisme aortique athéromateux",
+   "traitement": "TEP au 89Zr-rituximab, scan initial seul"
+  }
+ ],
+ "duree": "Environ 4 mois",
+ "critere": "Quantification de la fixation vasculaire du 89Zr-rituximab, de 0 à 4 mois"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "34245ee4e785",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM répétée à l'évuzamitide dans l'amylose induite par l'anakinra au cours des CAPS",
+ "question": "Un traceur TEP/TDM liant l'amyloïde permet-il de dépister et de suivre l'amylose induite par l'anakinra chez des patients atteints de CAPS ?",
+ "contexte": "Les syndromes périodiques associés à la cryopyrine (CAPS : syndrome de Muckle-Wells, NOMID) sont des maladies auto-inflammatoires traitées par anti-IL-1, dont l'anakinra. Ce médicament peut provoquer une amylose, locale au site d'injection ou plus étendue, avec un épaississement cutané.\n\nLe diagnostic d'amylose repose actuellement sur la biopsie, qui n'est pas applicable aux organes profonds. Il n'existe pas de méthode non invasive pour mesurer la charge amyloïde viscérale ni pour suivre son évolution.\n\nCette étude de phase 1, promue par le NIAID, évalue la faisabilité d'un radiotraceur TEP/TDM, le 124I-AT-01 (iodo-124 évuzamitide), un peptide qui se lie aux dépôts amyloïdes. Les patients, déjà inclus dans le protocole NIH 17-I-0016, passent un examen tous les 6 mois pendant 2 ans. L'étude mesure la variation de fixation par organe et la sécurité du traceur, notamment le risque de poussée de CAPS.",
+ "interet": "Elle pourrait valider une imagerie non invasive de l'amylose induite par un médicament. Elle serait utile pour le dépistage systémique et pour suivre la régression après modification du traitement.",
+ "profil": "Des adultes atteints de CAPS (Muckle-Wells ou NOMID) et d'une amylose induite par l'anakinra.",
+ "inclusion": [
+  "Âge d'au moins 18 ans",
+  "Inclus dans le protocole NIH 17-I-0016 avec un Muckle-Wells ou un NOMID documenté",
+  "Accord pour le partage des données avec ce protocole",
+  "Épaississement cutané au site d'injection d'anakinra",
+  "Contraception efficace (deux méthodes dont une barrière) pour les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Hypersensibilité connue au 124I-AT-01 ou à ses excipients",
+  "Hypersensibilité à l'iodure de potassium",
+  "Grossesse ou allaitement",
+  "Dialyse en cours",
+  "Héparine, héparines de bas poids moléculaire ou autre anticoagulant",
+  "Toute condition contre-indiquant la participation selon l'équipe"
+ ],
+ "bras": [
+  {
+   "nom": "Interventionnel",
+   "traitement": "TEP/TDM au 124I-AT-01 environ tous les 6 mois pendant 2 ans, avec prélèvements sanguins et urinaires (10 patients prévus selon la description du bras)"
+  }
+ ],
+ "duree": "2 ans (visites tous les 6 mois)",
+ "critere": "Variation de la fixation du 124I-AT-01 par organe, entre l'examen initial et les suivis, sur 2 ans ; fréquence des poussées de CAPS après exposition."
+}

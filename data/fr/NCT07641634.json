@@ -1,0 +1,14 @@
+{
+ "h": "ad9da6e87102",
+ "date": "2026-11-14",
+ "titre": "PRO-203 chez des volontaires sains puis dans la sclérodermie systémique : phase 1/2",
+ "question": "PRO-203, administré par voie sous-cutanée, est-il sûr et bien toléré chez des volontaires sains et des patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune fibrosante pour laquelle les options thérapeutiques demeurent limitées. La déplétion des lymphocytes B est explorée comme piste thérapeutique, notamment par rituximab et par CAR-T anti-CD19.\n\nPRO-203, de Prolium Bioscience, est un produit expérimental administré par voie sous-cutanée. Le registre ne précise pas sa cible, mais l'inclusion est conditionnée par un taux de lymphocytes B > 25 cellules/µL, ce qui suggère une action sur cette lignée. L'essai se déroule en deux parties. La partie 1, randomisée en double aveugle contre placebo à dose unique croissante, a inclus 20 volontaires sains répartis en 3 cohortes et est close. La partie 2, ouverte, inclut jusqu'à 24 patients sclérodermiques dans plusieurs cohortes, avec un cycle sous-cutané unique (avec dose d'amorçage) et une extension optionnelle de retraitement. Les patients doivent avoir une maladie active : durée ≤ 2 ans, syndrome inflammatoire, progression du score de Rodnan, frottements tendineux ou élévation des CPK.",
+ "interet": "Il s'agit d'une première évaluation chez l'humain de la sécurité de PRO-203. Elle porte sur 44 participants et n'a pas de bras comparateur dans la partie sclérodermie.",
+ "profil": "Des volontaires sains puis des adultes de 18 à 65 ans atteints de sclérodermie systémique active.",
+ "inclusion": ["Âge de 18 à 65 ans", "Taux absolu de lymphocytes B > 25 cellules/µL", "Partie 2 : critères ACR/EULAR 2013 avec score ≥ 9", "Partie 2 : maladie active, au moins deux critères parmi durée ≤ 2 ans, CRP ≥ 6 mg/L, VS ≥ 28 mm/h ou plaquettes ≥ 330 000/µL, progression du mRSS, frottement tendineux, CPK ou aldolase > 2 N", "Partie 1 : bonne santé générale et vaccinations à jour (partie close)", "Consentement éclairé"],
+ "exclusion": ["Non précisé dans l'extrait disponible du registre"],
+ "bras": [{ "nom": "Partie 1 : PRO-203 (volontaires sains)", "traitement": "Dose sous-cutanée unique croissante" }, { "nom": "Partie 1 : placebo", "traitement": "Placebo sous-cutané correspondant" }, { "nom": "Partie 2 : PRO-203 (sclérodermie)", "traitement": "Un cycle sous-cutané avec dose d'amorçage, doses croissantes selon cohortes, retraitement possible" }],
+ "duree": "Jusqu'à 53 semaines par participant en partie 2",
+ "critere": "Incidence des événements indésirables et anomalies biologiques, à 13 semaines (partie 1) et 49 semaines (partie 2)."
+}

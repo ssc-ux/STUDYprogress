@@ -1,0 +1,28 @@
+{
+ "h": "593a3be166a5",
+ "date": "2026-11-14",
+ "titre": "Freins à l'activité physique et à l'exercice dans la FMF",
+ "question": "Quels sont les obstacles à l'activité physique rencontrés par les adultes atteints de FMF ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire dont les accès, les douleurs articulaires et la fatigue peuvent limiter l'activité physique. Or l'activité physique est recommandée dans les maladies rhumatismales, y compris par l'EULAR, et la sédentarité aggrave le déconditionnement et le risque cardiovasculaire.\n\nLes raisons pour lesquelles les patients atteints de FMF évitent l'exercice restent mal connues : douleur, fatigue, peur du mouvement (kinésiophobie), baisse de force ou de capacité aérobie.\n\nCe projet, financé par le programme TÜBİTAK 2209-A et mené à l'université d'Istanbul-Cerrahpasa (rhumatologie et physiothérapie), évalue 100 adultes de 18 à 65 ans. Il mesure la douleur (questionnaire de McGill-Melzack), la qualité de vie spécifique de la FMF, la fatigue (Fatigue Severity Scale), la kinésiophobie (échelle de Tampa), la force de préhension (dynamomètre) et la capacité aérobie (spirométrie). L'activité physique est évaluée par le questionnaire IPAQ court.",
+ "interet": "Elle devrait identifier les facteurs qui limitent l'activité physique des patients atteints de FMF. Ces facteurs pourront guider des programmes d'exercice et d'éducation thérapeutique.",
+ "profil": "Des adultes de 18 à 65 ans atteints de FMF, capables de répondre aux questionnaires.",
+ "inclusion": [
+  "Diagnostic de FMF",
+  "Capacité à répondre aux questionnaires",
+  "Capacité à pratiquer une activité physique",
+  "Âge de 18 à 65 ans"
+ ],
+ "exclusion": [
+  "Tout handicap (visuel, auditif, mental, physique)",
+  "Ne pas savoir lire le turc",
+  "Comorbidité pouvant gêner l'évaluation"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de FMF",
+   "traitement": "Évaluations par questionnaires, dynamomètre et spirométrie ; aucune intervention thérapeutique"
+  }
+ ],
+ "duree": "Jusqu'à 3 mois (évaluations deux fois par semaine, 30 minutes)",
+ "critere": "Activité physique (IPAQ court) et qualité de vie spécifique de la FMF, mesurées une fois sur une période allant jusqu'à 6 mois."
+}

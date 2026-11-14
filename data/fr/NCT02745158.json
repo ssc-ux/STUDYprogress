@@ -1,0 +1,24 @@
+{
+ "h": "4dd21d2398ff",
+ "date": "2026-11-14",
+ "titre": "Registre international de la fibrodysplasie ossifiante progressive (FOP)",
+ "question": "Comment évoluent la fibrodysplasie ossifiante progressive et son retentissement fonctionnel selon les données rapportées par les patients ?",
+ "contexte": "La fibrodysplasie ossifiante progressive (FOP) est une maladie génétique ultra-rare, liée à des variants du gène ACVR1, caractérisée par des ossifications hétérotopiques progressives des muscles et tissus conjonctifs. Elles surviennent par poussées (flare-ups), souvent après un traumatisme, une injection ou une chirurgie. Elles entraînent une perte de mobilité. Le diagnostic est souvent tardif, parfois confondu avec une myosite ou un cancer, d'où des biopsies délétères.\n\nPeu de données décrivent son histoire naturelle. Ce registre mondial, volontaire et sans intervention, est porté par l'International FOP Association. Patients et aidants renseignent un portail web sécurisé (lancé en juillet 2015) ; un portail pour les médecins est en développement. Il recueille démographie, parcours diagnostique, soins, ossifications, poussées, douleur, fatigue, mobilité et aides techniques, avec une mise à jour deux fois par an.",
+ "interet": "Le registre structure la communauté FOP pour le recrutement dans les essais cliniques et documente l'histoire naturelle et les résultats des traitements. Il aide à situer les données des essais thérapeutiques.",
+ "profil": "Des patients atteints de FOP confirmée (enfants et adultes), renseignant leurs données avec leurs aidants.",
+ "inclusion": [
+  "Diagnostic confirmé de FOP",
+  "Consentement écrit du participant ou de son parent ou tuteur"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Patients FOP",
+   "traitement": "Registre observationnel, sans intervention, avec questionnaires renseignés par les patients ou aidants"
+  }
+ ],
+ "duree": "Mises à jour au moins deux fois par an, jusqu'à 10 ans",
+ "critere": "Évolution rapportée par les patients des nouvelles ossifications, des poussées et de la mobilité, à l'inclusion puis tous les 6 mois jusqu'à 10 ans."
+}

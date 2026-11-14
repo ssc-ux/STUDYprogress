@@ -1,0 +1,14 @@
+{
+ "h": "26b42b7bcee3",
+ "date": "2026-11-14",
+ "titre": "Validation turque du questionnaire de handicap de la main dans les ulcères digitaux de la sclérodermie",
+ "question": "La version turque du questionnaire HDISS-DU est-elle valide et fiable chez les patients atteints de sclérodermie systémique ?",
+ "contexte": "Les ulcères digitaux sont une complication fréquente et invalidante de la sclérodermie systémique (SSc), avec douleur, handicap de la main et retentissement sur la vie quotidienne. Évaluer ce handicap suppose des questionnaires spécifiques validés.\n\nLe questionnaire HDISS-DU (Hand Disability in Systemic Sclerosis - Digital Ulcers) mesure le handicap de la main lié aux ulcères digitaux. Pour être utilisé dans une autre langue, il doit être traduit, adapté et validé : cohérence interne, fiabilité test-retest, validité de construit.\n\nCette étude observationnelle, promue par l'université de Pamukkale (Turquie), valide la version turque chez 72 adultes atteints de SSc. Les évaluations durent 6 mois. Les patients ayant une maladie neurologique, un problème orthopédique ou une chirurgie affectant la main, un trouble psychiatrique, ou ne parlant pas turc sont exclus.",
+ "interet": "L'étude fournira un outil validé en turc pour évaluer le handicap de la main dans les ulcères digitaux, utile en consultation et en recherche. Elle n'a pas d'impact direct sur la pratique hors de ce contexte linguistique.",
+ "profil": "Des adultes turcophones atteints de sclérodermie systémique.",
+ "inclusion": ["SSc diagnostiquée par un rhumatologue", "Âge ≥ 18 ans"],
+ "exclusion": ["Maladie neurologique, notamment atteinte neurologique sévère affectant les mains (lésion nerveuse périphérique, traumatisme, chirurgie, AVC)", "Problème orthopédique ou antécédent de chirurgie orthopédique affectant la fonction", "Incapacité à parler ou comprendre le turc couramment", "Trouble psychiatrique gênant la coopération", "Insuffisance cardiaque ou atteinte pulmonaire limitant les activités quotidiennes"],
+ "bras": [{"nom": "Patients avec SSc", "traitement": "Passation du questionnaire HDISS-DU en version turque"}],
+ "duree": "Période d'étude de 6 mois",
+ "critere": "Score du questionnaire HDISS-DU, évalué pendant les 6 mois de l'étude."
+}

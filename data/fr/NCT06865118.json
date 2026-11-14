@@ -1,0 +1,14 @@
+{
+ "h": "40a1ff990087",
+ "date": "2026-11-14",
+ "titre": "Surveillance à domicile de l'HTAP associée à la sclérodermie systémique (étude pilote Nor-SSCardioCare)",
+ "question": "Une surveillance numérique à domicile est-elle faisable et ses mesures sont-elles concordantes avec celles de l'hôpital chez les patients ayant une HTAP associée à la sclérodermie ?",
+ "contexte": "L'HTAP associée à la sclérodermie systémique est une complication grave, à forte mortalité, dont la réponse thérapeutique est limitée si le diagnostic est tardif. Les patients sont habituellement revus tous les 3 à 6 mois (échocardiographie, EFR, test de marche de 6 minutes, cathétérisme droit si besoin), et une aggravation peut passer inaperçue entre deux visites.\n\nCette étude pilote observationnelle, à bras unique, d'Oslo University Hospital inclut 20 patients pendant 12 semaines. Ils utilisent une plateforme numérique (Zeen Health) pour déclarer toutes les deux semaines leurs symptômes et mesures physiologiques, réalisent à domicile le test de lever de chaise d'une minute, portent un capteur ECG (ECG247) une semaine et envoient des prélèvements sanguins à domicile toutes les deux semaines. Deux visites hospitalières (inclusion et semaine 12) permettent de comparer les mesures domiciliaires aux mesures hospitalières (SpO2, fréquence cardiaque, dyspnée de Borg, NT-proBNP).",
+ "interet": "Les résultats guideront la conception d'une étude plus large sur l'intégration de la surveillance domiciliaire au suivi de routine de l'HTAP sclérodermique.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec HTAP, autonomes avec les outils numériques.",
+ "inclusion": ["Sclérodermie systémique selon les critères ACR/EULAR 2013", "HTAP selon la définition hémodynamique 2022 (PAPm > 20 mmHg, PAPO ≤ 15 mmHg, RVP > 2 WU) sans autre cause de HTP précapillaire", "Accès à internet et usage d'un smartphone ou d'un appareil connecté", "Capacité à suivre les procédures et à remplir des questionnaires", "Consentement éclairé signé"],
+ "exclusion": ["Atteinte d'organe sévère (FEVG < 30 %, DFG < 30 mL/min, CVF < 50 %, BPCO sévère)", "Cancer en traitement actif ou incurable", "Contre-indication aux tests fonctionnels (HTA ou hypotension non contrôlée, tachycardie > 130/min)", "Chirurgie, infarctus, angor instable, pneumothorax ou AVC dans les 8 dernières semaines", "Limitation musculosquelettique ou neurologique empêchant la marche"],
+ "bras": [{ "nom": "HTAP associée à la sclérodermie", "traitement": "Surveillance numérique à domicile (symptômes, lever de chaise d'1 minute, capteur ECG, prélèvements sanguins) et deux visites hospitalières" }],
+ "duree": "12 semaines",
+ "critere": "Faisabilité de la surveillance à domicile (adhésion, faisabilité technique) et concordance des mesures domicile/hôpital (lever de chaise d'1 min vs TM6, SpO2, fréquence cardiaque, Borg, NT-proBNP), sur 12 semaines."
+}

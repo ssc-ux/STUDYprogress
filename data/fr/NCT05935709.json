@@ -1,0 +1,27 @@
+{
+ "h": "cb65193f0ae3",
+ "date": "2026-11-14",
+ "titre": "DANIVAS : registre national danois de l'ACG et de la PPR",
+ "question": "L'imagerie diagnostique moderne permet-elle de stratifier l'ACG et la PPR pour prédire la réponse au traitement, les rechutes et les complications ?",
+ "contexte": "L'ACG est la vascularite la plus fréquente du sujet âgé et s'accompagne souvent d'une PPR. Les recherches nationales et internationales restent limitées, d'où le besoin de grands registres pour étudier la pratique clinique, les biomarqueurs, les sous-types, les comorbidités et l'efficacité à long terme des nouveaux traitements.\n\nDANIVAS est un registre national pragmatique visant à inclure tous les services de rhumatologie danois. Les patients, incidents (moins de 3 mois après le diagnostic) ou prévalents, sont suivis selon les recommandations danoises, avec recueil de données cliniques et d'imagerie dans une base RedCap, couplage aux registres nationaux et biobanque.\n\nL'objectif principal compare les doses cumulées de glucocorticoïdes entre ACG crânienne et ACG des gros vaisseaux. Les objectifs secondaires comparent notamment la PPR pure et la PPR avec ACG sous-clinique des gros vaisseaux, la dilatation aortique à 2 ans et le risque de complications aortiques selon l'atteinte aortique en TEP-FDG.",
+ "interet": "Le registre fournira des données de grande échelle sur la corticodépendance, la dilatation aortique et les complications selon le phénotype d'ACG. Il pourra servir de base à des projets de recherche futurs.",
+ "profil": "Des adultes de 50 ans et plus avec une ACG ou une PPR diagnostiquée depuis moins de 5 ans, au Danemark.",
+ "inclusion": [
+  "ACG ou PPR diagnostiquée depuis moins de 5 ans",
+  "Diagnostic établi ou confirmé par un rhumatologue",
+  "Compréhension du danois",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Refus ou incapacité à consentir",
+  "Autre maladie auto-immune systémique excluant le diagnostic d'ACG ou de PPR"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ACG ou PPR",
+   "traitement": "Suivi selon les recommandations danoises, recueil de données et d'imagerie dans un registre"
+  }
+ ],
+ "duree": "Suivi annuel jusqu'à 120 mois",
+ "critere": "Doses cumulées de glucocorticoïdes comparées entre ACG crânienne et ACG des gros vaisseaux, à 1 an puis annuellement jusqu'à 120 mois"
+}

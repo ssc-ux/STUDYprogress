@@ -1,0 +1,33 @@
+{
+ "h": "7db01f196c42",
+ "date": "2026-11-14",
+ "titre": "Entraînement des muscles inspiratoires chez des adolescents atteints de FMF",
+ "question": "Un entraînement des muscles inspiratoires de 8 semaines réduit-il la fatigue des adolescents atteints de FMF ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est le plus souvent diagnostiquée avant 18 ans. Le registre indique qu'elle s'associe à une moindre tolérance à l'effort, à une altération des capacités pulmonaires et à de la fatigue.\n\nLa fatigue est un symptôme fréquent et peu soulagé dans les maladies auto-inflammatoires, même lorsque les accès sont contrôlés par la colchicine. L'entraînement des muscles inspiratoires, par un dispositif à résistance, est utilisé dans d'autres maladies chroniques pour améliorer la fonction respiratoire et la tolérance à l'effort.\n\nCette étude randomisée monocentrique, promue par l'université du Caire, inclut 40 adolescents de 13 à 17 ans. Le groupe intervention fait deux séances quotidiennes d'entraînement inspiratoire, cinq jours par semaine, pendant 8 semaines ; le groupe témoin est en liste d'attente. Tous poursuivent la colchicine.",
+ "interet": "Elle pourrait fournir une option non médicamenteuse simple contre la fatigue dans la FMF. Le faible effectif et le caractère monocentrique appellent à la prudence.",
+ "profil": "Des adolescents de 13 à 17 ans atteints de FMF et traités par colchicine.",
+ "inclusion": [
+  "Adolescents atteints de FMF",
+  "Âge de 13 à 17 ans",
+  "Quarante patients au total"
+ ],
+ "exclusion": [
+  "Problème cardiaque",
+  "Problème rénal",
+  "Problème hépatique",
+  "Diabète",
+  "Problème cérébral"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe entraînement inspiratoire",
+   "traitement": "Colchicine et entraînement des muscles inspiratoires : 2 séances par jour, 5 jours par semaine, 3 séries de 10 cycles respiratoires, pendant 8 semaines (20 adolescents)"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Colchicine seule (20 adolescents)"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Fatigue mesurée par l'échelle multidimensionnelle de fatigue du PedsQL, à 8 semaines."
+}

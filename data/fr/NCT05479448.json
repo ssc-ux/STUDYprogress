@@ -1,0 +1,27 @@
+{
+ "h": "304a4fada455",
+ "date": "2026-11-14",
+ "titre": "Facteurs prédictifs de la réponse aux corticoïdes dans la PPR et l'ACG récentes",
+ "question": "La suppression endogène des glucocorticoïdes et le métabolisme de la prednisone prédisent-ils la réponse au traitement et le risque de rechute ?",
+ "contexte": "Les glucocorticoïdes sont le traitement de première intention de la PPR (10 à 25 mg/j) et de l'ACG (environ 1 mg/kg/j). Les doses et la durée nécessaires varient d'un patient à l'autre, et environ la moitié des patients rechutent à la décroissance ou à l'arrêt. Les causes de cette variabilité sont inconnues.\n\nIdentifier les patients résistants aux corticoïdes permettrait d'intensifier le traitement ou d'utiliser un immunomodulateur, tandis qu'une forte sensibilité justifierait une décroissance rapide ou des doses plus faibles, afin de limiter ostéoporose, infections, diabète et troubles de l'humeur.\n\nCette étude prospective du CHU de Bâle suit des patients traités selon un protocole local : PPR avec prednisone 15 mg/j puis décroissance ; ACG avec prednisone 1 mg/kg puis arrêt à la semaine 26 (schéma GIACTA). Elle étudie l'association entre suppression endogène des corticoïdes (cortisol et cortisone plasmatiques et urinaires), expression du récepteur des glucocorticoïdes, sensibilité in vitro et réponse clinique.",
+ "interet": "L'étude pourrait définir des profils de répondeurs aux corticoïdes et guider une adaptation de la dose ou le recours précoce à un traitement épargneur.",
+ "profil": "Des adultes avec une PPR ou une ACG récemment diagnostiquée, traités par un protocole standardisé de prednisone.",
+ "inclusion": [
+  "PPR selon les critères provisoires 2012 ou ACG selon critères publiés",
+  "Consentement à la base de données SCQM",
+  "Traitement selon les schémas standardisés du centre"
+ ],
+ "exclusion": [
+  "Tocilizumab, méthotrexate ou autre traitement de fond à l'inclusion",
+  "Antécédent de PPR ou d'ACG",
+  "Incapacité à consentir"
+ ],
+ "bras": [
+  {
+   "nom": "PPR / ACG récentes",
+   "traitement": "Prednisone selon protocole (PPR : 15 mg/j puis décroissance ; ACG : 1 mg/kg/j puis arrêt à la semaine 26) ; analyses cellulaires et hormonales"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Rechute (oui/non) de la PPR ou de l'ACG dans l'année suivant le diagnostic"
+}

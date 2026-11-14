@@ -1,0 +1,30 @@
+{
+ "h": "b8443a0a6228",
+ "date": "2026-11-14",
+ "titre": "DiAcMo : surveillance de l'activité de l'ACG par échographie et biomarqueurs",
+ "question": "L'évolution du score échographique OGUS permet-elle de détecter une rechute chez des patients atteints d'ACG en rémission ?",
+ "contexte": "Dans l'ACG, la corticothérapie est efficace, mais les rechutes pendant la décroissance sont fréquentes et peuvent prolonger l'exposition aux corticoïdes. Les symptômes sont souvent peu spécifiques et les marqueurs inflammatoires conventionnels manquent de fiabilité, en particulier chez les patients traités par inhibiteurs de la voie de l'IL-6.\n\nLe score OGUS (OMERACT GCA Ultrasonography Score) quantifie l'atteinte de la paroi artérielle en échographie. Cette cohorte prospective d'Aarhus inclut des patients en rémission clinique, avec décroissance programmée des corticoïdes ou traitement épargneur. Ils bénéficient d'échographies vasculaires, dont une évaluation en double aveugle lors d'une suspicion de rechute, de questionnaires de symptômes rapportés par le patient (GCA-PRO) et d'une biobanque sanguine.\n\nL'étude vise à évaluer plusieurs outils de surveillance et de prédiction des rechutes et des besoins thérapeutiques futurs.",
+ "interet": "L'étude pourrait valider l'échographie vasculaire et des biomarqueurs comme outils de suivi, utiles quand la CRP est peu fiable. Elle pourrait aider à distinguer rechute vraie et symptômes non spécifiques, et à guider la décroissance des corticoïdes.",
+ "profil": "Des adultes de plus de 50 ans atteints d'ACG en rémission clinique, parlant danois.",
+ "inclusion": [
+  "ACG confirmée par un rhumatologue avec imagerie ou biopsie positive, diagnostic < 3 ans",
+  "Rémission clinique : décroissance programmée ou traitement épargneur depuis ≥ 8 semaines, sans symptômes, CRP < 10 mg/l",
+  "Prednisolone ≥ 5 mg en monothérapie corticoïde",
+  "Décroissance continue planifiée",
+  "Âge > 50 ans",
+  "Maîtrise du danois oral et écrit"
+ ],
+ "exclusion": [
+  "Corticoïde intra-articulaire, intraveineux ou intramusculaire ≤ 7 semaines avant l'inclusion",
+  "Impossibilité de remplir les questionnaires en ligne (pour le volet GCA-PRO)",
+  "Trouble cognitif ou démence gênant le consentement ou le suivi"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte ACG en rémission",
+   "traitement": "Échographie vasculaire, dont à la suspicion de rechute, questionnaires GCA-PRO, prélèvements sanguins"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Sensibilité et spécificité de la variation de l'OGUS entre l'inclusion et la suspicion de rechute, sur 10 mois"
+}

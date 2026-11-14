@@ -1,0 +1,30 @@
+{
+ "h": "a59b66b46508",
+ "date": "2026-11-14",
+ "titre": "Étude d'histoire naturelle des pneumopathies interstitielles de l'université de Virginie",
+ "question": "Quelle est l'évolution naturelle des pneumopathies interstitielles diffuses et quels marqueurs prédisent leur progression ?",
+ "contexte": "Les pneumopathies interstitielles diffuses (PID) regroupent la fibrose pulmonaire idiopathique, la sarcoïdose, les PID des connectivites, la pneumopathie d'hypersensibilité et les pneumopathies interstitielles idiopathiques. Leur évolution est très hétérogène, de la stabilité au déclin rapide.\n\nLa mortalité est un critère peu pratique pour évaluer la progression. Des marqueurs de substitution (EFR, test de marche de 6 minutes, TDM haute résolution, échocardiographie, épreuve d'effort) et les questionnaires de qualité de vie pourraient la remplacer, mais leur valeur prédictive reste à préciser.\n\nCette cohorte monocentrique de l'université de Virginie recueille de façon longitudinale des données et des échantillons (sang, cellules buccales) chez les patients vus en consultation de PID, avec des témoins parmi les accompagnants. Elle vise à décrire les phénotypes, identifier les patients à déclin rapide et leur réponse aux traitements, et chercher des marqueurs génétiques, génomiques, protéomiques et microbiens. Les données alimentent un registre pour de futures recherches.",
+ "interet": "Cette cohorte pourrait valider des critères intermédiaires de progression et des biomarqueurs utiles pour les futurs essais et le suivi des PID.",
+ "profil": "Des adultes suivis en consultation de PID ou de pneumologie, et des témoins sans PID (proches accompagnants).",
+ "inclusion": [
+  "Patient se présentant en consultation de PID ou de pneumologie à l'université de Virginie",
+  "Âge de 18 ans ou plus",
+  "Témoins : proches accompagnant les patients"
+ ],
+ "exclusion": [
+  "Témoins : absence de PID obligatoire",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte PID",
+   "traitement": "Suivi longitudinal et prélèvements chez des patients atteints de PID"
+  },
+  {
+   "nom": "Cohorte témoin",
+   "traitement": "Patients et proches sans PID, prélèvements pour comparaison"
+  }
+ ],
+ "duree": "Suivi annuel jusqu'à la perte de vue ou le décès, jusqu'à 144 mois",
+ "critere": "Évolution clinique de la maladie et décès, évalués chaque année jusqu'à 144 mois"
+}

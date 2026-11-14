@@ -1,0 +1,34 @@
+{
+ "h": "727dfdce40d0",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BAFF-R dans les maladies neuro-immunes réfractaires",
+ "question": "Les CAR-T anti-BAFF-R sont-ils sûrs et efficaces dans les maladies neuro-immunes réfractaires, dont les myopathies inflammatoires ?",
+ "contexte": "Certaines maladies neuro-immunes (PIDC, NMOSD, myasthénie, myopathies inflammatoires idiopathiques) restent en échec après plusieurs immunosuppresseurs. Les CAR-T anti-CD19 ou anti-BCMA ont montré des résultats prometteurs dans les maladies auto-immunes, mais d'autres cibles sont explorées.\n\nBAFF-R, le récepteur du facteur d'activation des lymphocytes B, est exprimé par les lymphocytes B matures et peut être ciblé par des CAR-T. Cet essai de phase Ib/IIa de l'hôpital général de l'université de Tianjin évalue un CAR-T autologue anti-BAFF-R. La première partie établit la dose maximale tolérée sur 3 niveaux (environ 12 patients par maladie), la seconde inclut 15 patients par maladie à cette dose. Les critères secondaires incluent l'expansion des CAR-T, la déplétion des lymphocytes B et des plasmocytes, les scores cliniques et les titres d'anticorps.",
+ "interet": "L'étude explore une cible alternative à CD19 dans l'auto-immunité réfractaire. Elle fournira des données de tolérance, de dose et d'efficacité préliminaire.",
+ "profil": "Des adultes de 18 à 60 ans atteints d'une maladie neuro-immune réfractaire (PIDC, NMOSD, myasthénie ou myopathie inflammatoire).",
+ "inclusion": [
+  "Âge de 18 à 60 ans",
+  "Maladie neuro-immune réfractaire : contrôle insuffisant sous au moins 3 immunosuppresseurs pendant plus d'un an",
+  "Au moins 2 rechutes en 12 mois, ou 3 en 24 mois dont 1 dans les 12 derniers mois",
+  "Contraception pendant et 1 an après le traitement",
+  "Test de grossesse sérique négatif au dépistage"
+ ],
+ "exclusion": [
+  "Infection active ou grave dans les 4 semaines",
+  "Rituximab dans les 6 mois, tocilizumab ou éculizumab dans les 3 mois",
+  "Immunoglobulines, échanges plasmatiques ou immunothérapie dans les 4 semaines",
+  "Vaccin vivant atténué dans les 8 semaines",
+  "Transaminases > 3 N, bilirubine > 1,5 N, DFG < 45, CD19+ < 40/µL",
+  "Tuberculose, VIH, antigène HBs positif",
+  "Grossesse, allaitement, troubles psychiatriques ou idées suicidaires récentes",
+  "Pathologie grave associée (hépatique, rénale, cardiovasculaire, diabète)"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-BAFF-R",
+   "traitement": "Escalade de dose : 0,5, 1 puis 2 × 10^6 cellules CAR-T/kg en perfusion unique"
+  }
+ ],
+ "duree": "Suivi jusqu'à 2 ans après la perfusion",
+ "critere": "Phase I : toxicités limitant la dose jusqu'à 3 mois ; événements indésirables jusqu'à 2 ans. Phase II : nombre de rechutes à 52 semaines."
+}

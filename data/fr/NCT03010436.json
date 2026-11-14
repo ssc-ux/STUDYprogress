@@ -1,0 +1,32 @@
+{
+ "h": "2c8121641f68",
+ "date": "2026-11-14",
+ "titre": "Benralizumab dans la granulomatose éosinophilique avec polyangéite (EGPA) : essai ouvert",
+ "question": "Le benralizumab est-il bien toléré et permet-il de réduire les corticoïdes chez des patients ayant une EGPA ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA, ex-Churg-Strauss) est une vascularite des petits vaisseaux associant asthme, hyperéosinophilie et atteintes d'organes (nerf, poumon, ORL, cœur, rein, peau). Elle dépend souvent des corticoïdes au long cours, avec des rechutes fréquentes et une toxicité cumulée.\n\nL'interleukine 5 (IL-5) est la cytokine clé de la survie et de l'activation des éosinophiles. Le mépolizumab, anti-IL-5, a démontré un bénéfice dans l'EGPA, ce qui a validé cette cible.\n\nLe benralizumab est un anticorps monoclonal dirigé contre la chaîne alpha du récepteur de l'IL-5, qui entraîne une déplétion quasi complète des éosinophiles par cytotoxicité cellulaire. Il est autorisé dans l'asthme sévère éosinophilique mais était alors expérimental dans l'EGPA.\n\nCet essai de phase 2 (BITE), ouvert et à bras unique, promu par National Jewish Health, a inclus 10 patients ayant une EGPA depuis au moins 6 mois, sous corticoïdes (≥ 5 mg/j de prednisone) avec ou sans immunosuppresseur. Ils reçoivent 30 mg de benralizumab sous-cutané toutes les 4 semaines pendant 12 semaines, puis toutes les 8 semaines, soit 5 injections, avec suivi de l'épargne cortisonique.",
+ "interet": "L'étude apporte des données préliminaires de tolérance du benralizumab dans l'EGPA en vie réelle. Son faible effectif et l'absence de comparateur n'autorisent pas de conclusion d'efficacité, qui relève d'essais randomisés.",
+ "profil": "Des adultes ayant une EGPA depuis au moins 6 mois, traités par corticoïdes avec ou sans immunosuppresseur.",
+ "inclusion": [
+  "Âge > 18 ans, consentement écrit",
+  "EGPA depuis ≥ 6 mois : asthme, éosinophilie (> 1,0 G/L ou > 10 %) et au moins 2 autres signes (biopsie, neuropathie, infiltrats pulmonaires, atteinte ORL, cardiomyopathie, glomérulonéphrite, hémorragie alvéolaire, purpura, ANCA)",
+  "Prednisone ≥ 5 mg/j à dose stable depuis 4 semaines",
+  "Méthotrexate, azathioprine ou mycophénolate éventuels à dose stable depuis 4 semaines (cyclophosphamide : sevrage de 4 semaines)",
+  "Contraception efficace pour les personnes en âge de procréer, test de grossesse négatif"
+ ],
+ "exclusion": [
+  "Syndrome hyperéosinophilique, granulomatose avec polyangéite",
+  "Cancer (délais de rémission de 12 mois pour cancers cutanés ou in situ, 5 ans pour les autres)",
+  "Parasitose à helminthes récente non traitée",
+  "ALAT ou ASAT ≥ 2,5 N, hépatite B ou C, VIH ou immunodéficience",
+  "Anti-IL-5 ou autre anti-interleukine dans les 4 mois, anaphylaxie à une biothérapie",
+  "Grossesse ou allaitement, cyclophosphamide en cours, immunoglobulines dans les 30 jours"
+ ],
+ "bras": [
+  {
+   "nom": "Ouvert",
+   "traitement": "Benralizumab 30 mg SC toutes les 4 semaines pendant 12 semaines, puis toutes les 8 semaines (5 injections)"
+  }
+ ],
+ "duree": "44 semaines (9 visites)",
+ "critere": "Nombre d'événements indésirables (sécurité et tolérance), jusqu'à 12 mois"
+}

@@ -1,0 +1,38 @@
+{
+ "h": "9421b335d90b",
+ "date": "2026-11-14",
+ "titre": "VEGA : IRM vasculaire dans l'artérite à cellules géantes",
+ "question": "L'IRM de la paroi vasculaire crânienne permet-elle d'identifier l'inflammation artérielle dans l'ACG suspectée ?",
+ "contexte": "Le diagnostic d'ACG repose sur la clinique, la CRP et la biopsie d'artère temporale ou l'échographie. La biopsie est invasive et sa sensibilité imparfaite, et l'échographie dépend de l'opérateur. Il existe un besoin d'imagerie complémentaire fiable pour confirmer l'atteinte des artères cérébrales et orbitaires, source de complications ischémiques et visuelles.\n\nL'IRM avec injection de gadolinium peut visualiser le rehaussement de la paroi artérielle. Cette cohorte de l'université de Pennsylvanie inclut des patients avec première suspicion d'ACG et manifestations crâniennes récentes. Ils passent une IRM dans les 2 semaines suivant l'inclusion, remplissent des questionnaires et peuvent être réexaminés à 6 mois ou lors d'une rechute.\n\nTrois groupes sont comparés : ACG avec atteinte oculaire, ACG sans atteinte oculaire, et suspicion finalement non confirmée.",
+ "interet": "L'étude pourrait établir la place de l'IRM dans le diagnostic et le suivi de l'ACG crânienne, en particulier lorsque la biopsie ou l'échographie sont non concluantes.",
+ "profil": "Des adultes de 50 ans et plus avec une première présentation suspecte d'ACG avec signes crâniens.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "Première présentation d'une ACG suspectée",
+  "Manifestations crâniennes nouvelles ou aggravées depuis moins de 4 semaines",
+  "CRP > 1,0 mg/dl",
+  "Biopsie temporale ou échographie prévue pour le diagnostic"
+ ],
+ "exclusion": [
+  "Contre-indication à l'IRM (dispositif implanté, stimulateur, fragments métalliques)",
+  "Allergie connue au gadolinium",
+  "Grossesse ou allaitement",
+  "Absence de symptômes crâniens (atteinte des gros vaisseaux seule)"
+ ],
+ "bras": [
+  {
+   "nom": "ACG oculaire",
+   "traitement": "IRM ; neuropathie optique ischémique ou autre atteinte oculaire"
+  },
+  {
+   "nom": "ACG non oculaire",
+   "traitement": "IRM ; ACG sans manifestation oculaire"
+  },
+  {
+   "nom": "Non-ACG",
+   "traitement": "IRM ; suspicion initiale d'ACG non confirmée"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois",
+ "critere": "Score de rehaussement de la paroi vasculaire en IRM, jusqu'à 12 mois"
+}

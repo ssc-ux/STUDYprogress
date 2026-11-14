@@ -1,0 +1,37 @@
+{
+ "h": "5076766db91c",
+ "date": "2026-11-14",
+ "titre": "Ivarmacitinib versus placebo dans la pseudo-polyarthrite rhizomélique",
+ "question": "L'ivarmacitinib, un inhibiteur de JAK1, permet-il de contrôler la PPR active sans corticoïdes oraux ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique (PPR) est le rhumatisme inflammatoire le plus fréquent après 50 ans. Son traitement repose sur la prednisolone, qui expose à des effets indésirables importants, et les rechutes à la décroissance sont fréquentes. Les alternatives épargneuses de corticoïdes (méthotrexate, anti-IL-6) ont un accès ou un niveau de preuve limités.\n\nL'ivarmacitinib est un inhibiteur oral de JAK, dont l'action sur les cytokines inflammatoires, dont l'IL-6, justifie son exploration dans la PPR. Cette étude multicentrique chinoise randomise 80 patients 1:1 entre ivarmacitinib 4 mg/j et placebo en double aveugle. Tous reçoivent une injection unique de corticoïde retard en semaine 1.\n\nÀ la semaine 12, l'aveugle est levé et le groupe placebo bascule vers l'ivarmacitinib jusqu'à la semaine 48, avec 4 semaines de suivi de sécurité.",
+ "interet": "L'étude pourrait montrer qu'un inhibiteur de JAK oral constitue une alternative épargneuse de corticoïdes dans la PPR. Les données de tolérance sont à examiner avec attention chez des patients âgés.",
+ "profil": "Des adultes de 50 à 75 ans atteints de PPR active sévère, nouvellement diagnostiquée ou en rechute.",
+ "inclusion": [
+  "Âge 50-75 ans, poids 40-80 kg",
+  "PPR selon les critères ACR/EULAR 2012",
+  "Score d'activité CRP-PMR-AS ≥ 17",
+  "Nouveaux cas : pas de corticoïde dans les 12 semaines précédentes ; rechute : pas d'augmentation de dose depuis 2 semaines et arrêt prévu",
+  "Compréhension et respect du protocole"
+ ],
+ "exclusion": [
+  "Hypersensibilité au médicament ou aux excipients",
+  "ACG, autre connectivite, spondyloarthropathie ou fibromyalgie active",
+  "Diabète (HbA1c ≥ 8 %) ou HTA non contrôlée, anomalie ECG significative",
+  "AST/ALT ≥ 2 fois la normale, créatinine ou bilirubine ≥ 1,5 fois la normale",
+  "Cancer dans les 5 ans, infection active non contrôlée (TB, VHB, VHC, VIH, syphilis)",
+  "Traitement antérieur par inhibiteur de JAK, antécédent de thrombose",
+  "Projet de grossesse dans l'année"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo jusqu'à la semaine 12, puis ivarmacitinib jusqu'à la semaine 48"
+  },
+  {
+   "nom": "Ivarmacitinib",
+   "traitement": "Ivarmacitinib 4 mg/jour pendant 48 semaines"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients avec CRP-PMR-AS ≤ 10 à la semaine 12, sans corticoïde oral de la semaine 0 à 12"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "422db26f059c",
+ "date": "2026-11-14",
+ "titre": "Registre prospectif des éosinophilies avec atteinte respiratoire (asthme éosinophilique, EGPA, HES, triade de Samter)",
+ "question": "Comment évoluent les patients ayant une éosinophilie avec atteinte respiratoire, et quels sous-types d'éosinophiles (inflammatoires ou régulateurs) peut-on identifier ?",
+ "contexte": "Les atteintes respiratoires à éosinophiles regroupent l'asthme éosinophilique sévère, la triade de Samter (asthme, polypose nasale, intolérance aux AINS), la granulomatose éosinophilique avec polyangéite (EGPA), le syndrome hyperéosinophilique (HES) et les pneumopathies éosinophiles. Leurs manifestations se chevauchent et sont difficiles à distinguer en pratique.\n\nDes biothérapies anti-IL-5 (mépolizumab) ou anti-récepteur de l'IL-5 existent pour l'asthme éosinophilique et l'EGPA. On ignore cependant si une éosinophilie sanguine isolée est sans conséquence ou expose à des lésions d'organe, comme dans le HES, et l'on discute l'existence de sous-types d'éosinophiles de polarisation différente.\n\nCe registre prospectif non interventionnel, de l'université médicale d'Innsbruck, repose sur trois axes : les patients passant du mépolizumab injecté par le médecin au stylo prérempli en auto-injection, les patients ayant une triade de Samter suivis de façon interdisciplinaire, et la recherche d'un HES lymphoïde à manifestation limitée chez certains asthmes sévères (chimiokines, mutations somatiques, cytométrie).\n\nLes éosinophiles sont aussi caractérisés (cytométrie en flux, microscopie, puces à ADN, lipidomique) et comparés à ceux de témoins sains. Les patients ne subissent aucun examen supplémentaire hormis des tubes de sang additionnels.",
+ "interet": "Le registre peut aider à mieux classer les éosinophilies respiratoires et à repérer des formes de HES lymphoïde méconnues. Il apportera aussi des données de suivi réel sur l'auto-injection du mépolizumab.",
+ "profil": "Des adultes ayant une éosinophilie sanguine avec atteinte respiratoire, et des témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Éosinophilie sanguine documentée ≥ 300/µL",
+  "Lésion tissulaire respiratoire due aux éosinophiles"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Grossesse",
+  "Démence",
+  "Patients sous tutelle ou incapables de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Éosinophilie avec atteinte respiratoire",
+   "traitement": "Suivi non interventionnel (asthme éosinophilique, EGPA, triade de Samter, HES, pneumopathie éosinophile)"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Un prélèvement sanguin"
+  }
+ ],
+ "duree": "Suivi jusqu'à 10 ans",
+ "critere": "Description du registre (types de maladie, traitements, évolution) sur 10 ans, et identification des éosinophiles inflammatoires et régulateurs par cytométrie à 1 an"
+}

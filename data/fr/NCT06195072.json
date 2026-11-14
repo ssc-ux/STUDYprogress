@@ -1,0 +1,14 @@
+{
+ "h": "706c2a790e40",
+ "date": "2026-11-14",
+ "titre": "CONQUEST : étude plateforme de phase 2b dans la pneumopathie interstitielle de la sclérodermie",
+ "question": "L'amlitelimab et le nérandomilast améliorent-ils la fonction pulmonaire des patients avec pneumopathie interstitielle de sclérodermie, par rapport au placebo ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est la principale cause de décès de la sclérodermie systémique (ScS). Les traitements actuels (mycophénolate, tocilizumab, nintédanib, cyclophosphamide) ralentissent la progression sans la stopper, d'où des besoins non couverts importants.\n\nCONQUEST est une étude plateforme de phase 2b, multicentrique, randomisée en quadruple aveugle contre placebo, promue par la Scleroderma Research Foundation. Elle teste plusieurs produits expérimentaux avec un cadre commun. Deux sont évalués : l'amlitelimab, anticorps anti-OX40 ligand, et le nérandomilast (BI 1015550), inhibiteur préférentiel de la PDE4B, déjà étudié dans les fibroses pulmonaires. Environ 400 patients avec ScS de moins de 7 ans d'évolution et PID fibrosante sont inclus dans 34 centres. Le critère est la variation de la CVF à la semaine 52.",
+ "interet": "Cette plateforme permet de tester plusieurs molécules avec un seul groupe de contrôle et un cadre unique. Les résultats pourraient orienter vers un essai de phase 3 dans la PID de la ScS.",
+ "profil": "Des adultes avec sclérodermie systémique de moins de 7 ans d'évolution et pneumopathie interstitielle fibrosante.",
+ "inclusion": ["Âge ≥ 18 ans, ScS selon les critères ACR/EULAR 2013", "Début de la ScS (premier symptôme non-Raynaud) il y a 7 ans ou moins", "Score de Rodnan modifié < 40", "Fibrose pulmonaire au scanner haute résolution (moins de 3 mois)", "CVF ≥ 45 % et DLCO ≥ 30 % de la théorique"],
+ "exclusion": ["Anomalies pulmonaires significatives non liées à la PID (séquelles de tuberculose, sarcoïdose, masse)", "Ulcères infectés, gangrène active ou crise rénale sclérodermique dans les 6 mois", "VEMS/CVF < 0,65", "Greffe de cellules souches, CAR-T ou greffe d'organe", "Rituximab dans les 6 mois ; tocilizumab, nintédanib, pirfénidone, abatacept, tofacitinib, immunoglobulines IV, biothérapie ou cyclophosphamide dans les 3 mois", "DFG < 45 mL/min/1,73 m², transaminases > 2 N, plaquettes < 100×10⁹/L, TP/TCA > 1,5 N"],
+ "bras": [{"nom": "Amlitelimab", "traitement": "Amlitelimab, dose non précisée"}, {"nom": "Placebo de l'amlitelimab", "traitement": "Placebo apparié"}, {"nom": "Nérandomilast (BI 1015550)", "traitement": "Nérandomilast, dose non précisée"}, {"nom": "Placebo du nérandomilast", "traitement": "Placebo apparié"}],
+ "duree": "52 semaines de traitement",
+ "critere": "Variation de la capacité vitale forcée (CVF, en mL) entre l'inclusion et la semaine 52"
+}

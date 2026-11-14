@@ -1,0 +1,14 @@
+{
+ "h": "e29af94d1570",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses de cordon ombilical (HS_SW01) dans la sclérodermie systémique : phase 1/2",
+ "question": "Les cellules souches mésenchymateuses de cordon ombilical HS_SW01, en perfusion intraveineuse, sont-elles sûres et tolérées dans la sclérodermie diffuse ?",
+ "contexte": "La sclérodermie systémique est une connectivite multisystémique associant inflammation chronique, fibrose et vasculopathie oblitérante. Les atteintes pulmonaire (PID, HTAP), cardiaque, digestive et rénale en font la gravité, et les traitements actuels ne font que ralentir l'évolution et soulager les symptômes, avec une efficacité limitée.\n\nLes cellules souches mésenchymateuses de cordon ombilical humain (hUC-MSC) ont des propriétés immunomodulatrices et immunosuppressives, ce qui en fait une piste thérapeutique. Cet essai de phase 1/2 de la société chinoise Shenzhen Huishan Biotechnology teste HS_SW01 par voie intraveineuse chez 21 patients randomisés entre trois doses (faible, moyenne, forte). Les participants ont une sclérodermie diffuse évoluant depuis 5 ans au plus, un score de Rodnan entre 10 et 30 et un échec d'au moins deux traitements. L'objectif principal est la survenue de toxicités dose-limitantes dans les 28 jours ; la pharmacocinétique, le profil immunologique et l'efficacité préliminaire sont explorés.",
+ "interet": "L'étude déterminera la tolérance et la dose de HS_SW01. Il s'agit d'un stade précoce, sans comparateur placebo.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie diffuse évoluant depuis 5 ans au plus.",
+ "inclusion": ["Âge de 18 à 65 ans", "Sclérodermie systémique selon les critères ACR/EULAR 2013", "Forme diffuse évoluant depuis ≤ 5 ans", "Au moins 2 traitements antérieurs (corticoïdes, immunosuppresseurs, biothérapies) et mRSS entre 10 et 30", "Contraception efficace pour les femmes en âge de procréer jusqu'à 6 mois après la dernière dose", "Consentement éclairé"],
+ "exclusion": ["CVF < 50 % de la théorique", "HTAP modérée ou sévère connue, ou PAPs > 45 mmHg à l'échographie", "Événement cardiovasculaire ou rénal récent nécessitant une hospitalisation (infarctus, AVC, etc.)", "Autres exclusions : non précisées dans l'extrait disponible"],
+ "bras": [{ "nom": "Faible dose", "traitement": "HS_SW01 en injection intraveineuse (dose non précisée)" }, { "nom": "Dose moyenne", "traitement": "HS_SW01 en injection intraveineuse (dose non précisée)" }, { "nom": "Forte dose", "traitement": "HS_SW01 en injection intraveineuse (dose non précisée)" }],
+ "duree": "Non précisé (critère principal à 28 jours)",
+ "critere": "Incidence des toxicités dose-limitantes dans les 28 jours suivant l'administration."
+}

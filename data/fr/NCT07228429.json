@@ -1,0 +1,14 @@
+{
+ "h": "76bd19b3a880",
+ "date": "2026-11-14",
+ "titre": "Quantification scanographique des calcinoses cutanées de la sclérodermie sous thiosulfate de sodium",
+ "question": "Une mesure de la charge calcique cutanée sur scanner peut-elle servir de critère objectif pour évaluer le traitement de la calcinose ?",
+ "contexte": "La calcinose cutanée est une complication fréquente de la sclérodermie systémique (SSc), source de douleur, d'ulcérations et d'infections. Aucun traitement n'a fait la preuve d'une efficacité solide ; le thiosulfate de sodium (STS), intralésionnel ou intraveineux, est utilisé de façon empirique dans la pratique.\n\nLes essais thérapeutiques sont freinés par l'absence de critères de jugement sensibles et reproductibles : les questionnaires rapportés par les patients sont subjectifs et l'imagerie n'est pas standardisée.\n\nCette étude observationnelle de Yale (56 patients) développe et teste un logiciel de quantification de la calcinose sur scanner. Les patients, traités par STS dans le cadre des soins courants pendant 6 mois, passent un scanner à l'inclusion, à 3 et à 6 mois. Les mesures sont comparées à des questionnaires (mMCQ) et à une échelle visuelle analogique.",
+ "interet": "Un critère radiologique validé pourrait servir dans les futurs essais sur la calcinose et suivre la réponse au traitement en pratique. L'étude ne teste pas l'efficacité du STS.",
+ "profil": "Des adultes atteints de SSc avec calcinose cutanée, traités par thiosulfate de sodium dans le cadre des soins courants.",
+ "inclusion": ["SSc diagnostiquée avec calcinose cutanée, traitée par STS en soins courants", "Âge ≥ 18 ans, critères ACR 2013 (forme diffuse ou limitée)", "Suivi dans les cliniques de Yale"],
+ "exclusion": ["Incapacité à consentir", "Grossesse ou allaitement", "Zone de calcinose d'intérêt > 6 cm"],
+ "bras": [{"nom": "SSc avec calcinose", "traitement": "Thiosulfate de sodium selon les soins courants pendant 6 mois, avec scanners à 0, 3 et 6 mois"}],
+ "duree": "6 mois",
+ "critere": "Questionnaire modifié de calcinose de Mawdsley (mMCQ), échelle visuelle analogique de calcinose et mesure scanographique, à l'inclusion, 3 et 6 mois."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "2cbae44a1b3d",
+ "date": "2026-11-14",
+ "titre": "Transplantation de microbiote fécal contre la diarrhée chronique de la sclérodermie systémique",
+ "question": "La transplantation de microbiote fécal (TMF) est-elle sûre et efficace pour traiter la diarrhée chronique des patients sclérodermiques ?",
+ "contexte": "L'atteinte digestive est très fréquente dans la sclérodermie systémique. La diarrhée chronique, liée à la dysmotilité, à la pullulation bactérienne et à un microbiote perturbé, est invalidante et souvent mal contrôlée par les antibiotiques, les antidiarrhéiques ou les probiotiques.\n\nLa TMF vise à restaurer un microbiote intestinal sain et a démontré son efficacité dans l'infection à Clostridioides difficile. Cet essai pilote de l'université d'Aarhus (Danemark), randomisé en double aveugle, inclut 20 adultes sclérodermiques avec diarrhée chronique (selles liquides au moins 3 fois par jour au moins la moitié des jours sur 4 semaines). Dans une première phase, les patients reçoivent deux doses de gélules de TMF active ou de placebo, à 3 à 7 jours d'intervalle. Dans la seconde phase, tous reçoivent une dose de TMF active. Ce schéma permet d'évaluer la tolérance, de comparer TMF et placebo, et de voir si deux doses initiales sont préférables à une.",
+ "interet": "L'étude apporte des données de tolérance et un premier signal d'efficacité de la TMF orale dans la sclérodermie. Le faible effectif ne permettra pas de conclure.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec diarrhée chronique.",
+ "inclusion": ["Âge supérieur à 18 ans", "Sclérodermie systémique selon les critères ACR/EULAR 2013", "Diarrhée chronique : selles molles ou liquides ≥ 3 fois par jour au moins 50 % des jours sur 4 semaines"],
+ "exclusion": ["Incapacité à comprendre le danois ou les procédures", "Grossesse connue ou prévue", "Antécédent de TMF ou antibiotiques dans les 6 dernières semaines", "Infection à C. difficile, maladie digestive grave (MICI, cancer), sténose intestinale ou chirurgie abdominale antérieure", "Atteinte d'organe sévère (CVF < 50 % ou DLCO < 40 %, FEVG < 30 %, DFG < 30 mL/min)", "Pacemaker ou défibrillateur, IRM prévue pendant l'étude"],
+ "bras": [{ "nom": "TMF active", "traitement": "Gélules de microbiote fécal, deux doses à 3-7 jours d'intervalle, puis une dose en seconde phase" }, { "nom": "Placebo", "traitement": "Gélules placebo, deux doses à 3-7 jours d'intervalle, puis une dose de TMF active en seconde phase" }],
+ "duree": "Non précisé (critère principal à 1 semaine)",
+ "critere": "Nombre d'événements indésirables de grade ≥ 2 (CTCAE v5.0) pendant la première semaine après l'intervention."
+}

@@ -1,0 +1,33 @@
+{
+ "h": "f224e49f443b",
+ "date": "2026-11-14",
+ "titre": "Vibrations du corps entier et vitamine D chez des adolescentes atteintes de FMF",
+ "question": "Ajouter des séances de vibrations du corps entier à la vitamine D améliore-t-il la densité minérale osseuse d'adolescentes atteintes de FMF ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est fréquente dans le bassin méditerranéen. Le registre rapporte qu'elle s'associe à une détérioration de la performance fonctionnelle, de la forme cardiorespiratoire, de la force musculaire et de la masse osseuse.\n\nChez l'adolescent, la période de constitution du capital osseux est critique : une inflammation chronique, une activité réduite et un déficit en vitamine D peuvent compromettre le pic de masse osseuse. La vibration du corps entier est une technique d'entraînement passif proposée pour stimuler l'os et le muscle quand l'exercice classique est difficile.\n\nCette étude randomisée monocentrique, promue par l'université du Caire, inclut 40 adolescentes de 13 à 17 ans. Toutes reçoivent la colchicine et la vitamine D pendant 6 mois ; la moitié bénéficie en plus de 3 séances hebdomadaires de 20 minutes de vibrations du corps entier. Le critère est la densité minérale osseuse.",
+ "interet": "Elle pourrait indiquer si cette technique non médicamenteuse protège l'os des adolescentes atteintes de FMF. La petite taille de l'étude et l'absence d'aveugle des participantes limitent la portée des résultats.",
+ "profil": "Des adolescentes de 13 à 17 ans atteintes de FMF, traitées par colchicine.",
+ "inclusion": [
+  "Adolescentes atteintes de FMF",
+  "Âge de 13 à 17 ans",
+  "Quarante patientes au total"
+ ],
+ "exclusion": [
+  "Problème cardiaque",
+  "Problème rénal",
+  "Problème hépatique",
+  "Diabète",
+  "Problème cérébral"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe vibration",
+   "traitement": "Colchicine, vitamine D et vibrations du corps entier, 3 séances de 20 min par semaine pendant 6 mois (20 adolescentes)"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Colchicine et vitamine D pendant 6 mois (20 adolescentes)"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Densité minérale osseuse à 6 mois."
+}

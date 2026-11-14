@@ -1,0 +1,14 @@
+{
+ "h": "b64a7de7c14a",
+ "date": "2026-11-14",
+ "titre": "Élastographie ultrasonore dans la sclérodermie localisée (morphée) de l'enfant",
+ "question": "L'élastographie peut-elle mesurer l'évolution de la rigidité cutanée sous traitement dans la morphée de l'enfant ?",
+ "contexte": "La sclérodermie localisée (morphée) est une maladie fibrosante cutanée de l'enfant et de l'adolescent, pouvant causer des séquelles esthétiques et une limitation de la mobilité. Le traitement doit être débuté tôt, car les lésions évoluées répondent mal.\n\nLes outils cliniques de suivi sont subjectifs et imparfaits, et l'on manque de mesures objectives pour juger de l'activité et de la réponse au traitement. L'élastographie par ultrasons est une technique non invasive qui mesure la rigidité des tissus ; elle pourrait compléter l'examen clinique et le suivi des lésions.\n\nCette étude observationnelle multicentrique nord-américaine, promue par l'Hospital for Sick Children (Toronto), inclura 20 enfants de 0 à 18 ans avec morphée confirmée. Ils ont un examen clinique, une élastographie de la lésion, comparée au site controlatéral, et un questionnaire de qualité de vie (LoSQI) à l'inclusion, à 3-6 mois et à 9-12 mois.",
+ "interet": "Si l'élastographie reflète la réponse au traitement, elle pourrait devenir un outil objectif de suivi de la morphée de l'enfant.",
+ "profil": "Des enfants et adolescents atteints de sclérodermie localisée.",
+ "inclusion": ["Âge de 0 à 18 ans au début de la maladie", "Morphée nouvelle ou ancienne confirmée par un rhumatologue ou dermatologue pédiatre", "Une lésion active ou inactive (site controlatéral en comparaison), ou plusieurs lésions toutes actives ou toutes inactives", "Capacité à coopérer à l'examen clinique et échographique", "Parent ou tuteur pouvant remplir le questionnaire d'interval"],
+ "exclusion": ["Comorbidité (sclérodermie systémique, arthrite juvénile idiopathique, autre maladie systémique)", "Une lésion active et une lésion inactive", "Lésions du visage ou de la tête"],
+ "bras": [{"nom": "Groupe élastographie", "traitement": "Examen clinique, élastographie ultrasonore et questionnaire LoSQI aux visites"}],
+ "duree": "9 à 12 mois",
+ "critere": "Rigidité cutanée mesurée par élastographie à l'inclusion, à 3-6 mois et à 9-12 mois."
+}

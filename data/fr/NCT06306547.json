@@ -1,0 +1,36 @@
+{
+ "h": "7f72fbdc90df",
+ "date": "2026-11-14",
+ "titre": "Cohorte clinique de myosites inflammatoires idiopathiques à l'hôpital Renji",
+ "question": "Quelles sont les caractéristiques cliniques, l'évolution et les facteurs pronostiques des myosites inflammatoires idiopathiques, selon les auto-anticorps et la présence d'un cancer ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (MII) forment un groupe hétérogène : inflammation chronique du muscle strié et de la peau, avec des présentations, des réponses thérapeutiques et des pronostics variables. Les auto-anticorps spécifiques des myosites (anti-MDA5, anti-synthétases, anti-TIF1γ, etc.) définissent des sous-groupes cliniques distincts. L'atteinte pulmonaire interstitielle et l'association à un cancer sont les principaux déterminants du pronostic.\n\nCette étude de cohorte prospective, centrée sur l'hôpital Renji (Shanghai), prévoit d'inclure environ 1000 patients sur 10 ans. Les patients sont classés selon l'auto-anticorps et la présence et le type d'un cancer associé. Le suivi comprend scanner thoracique, CDASI, capacité vitale forcée, VEMS et testing musculaire manuel.",
+ "interet": "Une grande cohorte avec suivi long peut préciser l'histoire naturelle des sous-groupes sérologiques et le lien avec les cancers. Elle peut aussi nourrir la recherche physiopathologique.",
+ "profil": "Des adultes de 18 à 75 ans atteints de myosite inflammatoire idiopathique avec auto-anticorps positifs.",
+ "inclusion": [
+  "Critères de classification EULAR/ACR 2017 des MII (score ≥ 5,5 sans biopsie, ≥ 6,7 avec biopsie) ou ENMC 2018 pour la dermatomyosite",
+  "Âge de 18 à 75 ans",
+  "Accord pour le suivi, les examens et le traitement",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "MII associée à une autre connectivite",
+  "Test d'auto-anticorps de myosite négatif",
+  "Infection aiguë ou antécédent de tuberculose active",
+  "Allergies médicamenteuses multiples",
+  "Trouble psychiatrique ou autre obstacle au suivi",
+  "Grossesse ou projet de grossesse",
+  "Participation à un essai clinique dans le délai prévu"
+ ],
+ "bras": [
+  {
+   "nom": "MII avec cancer",
+   "traitement": "Suivi observationnel, sous-groupes selon l'auto-anticorps et le type de cancer"
+  },
+  {
+   "nom": "MII sans cancer",
+   "traitement": "Suivi observationnel, sous-groupes selon l'auto-anticorps"
+  }
+ ],
+ "duree": "Non précisé (étude prévue jusqu'en 2034)",
+ "critere": "Scanner thoracique haute résolution, CDASI, capacité vitale forcée, testing musculaire manuel et VEMS, à 3 mois."
+}

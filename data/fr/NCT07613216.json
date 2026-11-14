@@ -1,0 +1,33 @@
+{
+ "h": "743df233749d",
+ "date": "2026-11-14",
+ "titre": "Plateforme d'observance médicamenteuse FORTISKAP dans les pneumopathies interstitielles, la sarcoïdose et l'HTP",
+ "question": "Un bouchon connecté de suivi des prises améliore-t-il l'observance et l'évolution des patients traités par voie orale pour une PID, une sarcoïdose pulmonaire ou une HTP ?",
+ "contexte": "Les pneumopathies interstitielles diffuses (PID) fibrosantes entraînent une altération fonctionnelle progressive et des hospitalisations pour insuffisance respiratoire, de mauvais pronostic. Leur traitement associe selon les cas corticoïdes, immunosuppresseurs (azathioprine) et antifibrosants, tous responsables d'effets indésirables et coûteux.\n\nL'hypertension pulmonaire (HTP) complique fréquemment les pneumopathies chroniques ; une méta-analyse rapporte une prévalence de 36 % dans les PID. La plupart des médicaments de l'HTAP n'ont pas montré de bénéfice dans ce contexte, hormis le tréprostinil inhalé qui améliore la capacité d'exercice.\n\nLa mauvaise observance aggrave la morbi-mortalité dans les maladies chroniques. Le dispositif FORTISKAP (Cosmos Rx) est un bouchon électro-optique qui enregistre les ouvertures du flacon, estime le nombre de comprimés par traitement d'image, envoie des rappels via une application et alerte le médecin sur un tableau de bord.\n\nCette étude observationnelle américaine suivra 50 patients équipés pendant 270 jours, comparés à 50 témoins historiques appariés par score de propension. Ce sont les premières données prospectives du dispositif dans cette population.",
+ "interet": "Elle pourrait montrer si un suivi objectif et des rappels améliorent l'observance et la capacité fonctionnelle chez des patients à traitement lourd. Les résultats, issus d'un contrôle historique, resteront à confirmer.",
+ "profil": "Des adultes de 21 ans ou plus avec une PID (dont sarcoïdose) et/ou une HTP, sous traitement oral spécifique.",
+ "inclusion": [
+  "Âge de 21 ans ou plus",
+  "PID (dont sarcoïdose) et/ou HTP comme diagnostic principal",
+  "Gère seul ses médicaments oraux",
+  "Au moins un traitement oral de PID ou d'HTP en cours ou prévu (accord de l'assurance obtenu)",
+  "Test de marche de 6 minutes programmé ou réalisé dans les 30 jours",
+  "EFR (CVF, DLCO) ou échocardiographie récentes ou programmées selon le groupe",
+  "Smartphone compatible et maîtrise de l'anglais"
+ ],
+ "exclusion": [
+  "Tout critère d'inclusion non rempli (aucun autre critère précisé)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe Fortiskap",
+   "traitement": "Cohorte prospective de 50 patients avec flacon équipé du bouchon connecté pendant 9 mois"
+  },
+  {
+   "nom": "Témoins historiques",
+   "traitement": "Cohorte rétrospective de 50 patients appariés, soins usuels sans dispositif"
+  }
+ ],
+ "duree": "9 mois (270 jours)",
+ "critere": "Distance au test de marche de 6 minutes à 9 mois"
+}

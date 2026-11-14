@@ -1,0 +1,14 @@
+{
+ "h": "26f3300dd4c6",
+ "date": "2026-11-14",
+ "titre": "CoRDS : registre international de patients atteints de maladies rares (Sanford)",
+ "question": "Comment connecter les personnes atteintes de maladies rares aux chercheurs pour accélérer la recherche ?",
+ "contexte": "Les maladies rares, plus de 7 000 selon le registre, sont individuellement peu fréquentes, ce qui rend difficiles le recrutement des patients, la connaissance de l'histoire naturelle et la réalisation d'essais. Les données sont dispersées entre de nombreux centres.\n\nLe registre CoRDS (Coordination of Rare Diseases at Sanford), basé à Sanford Research (Sioux Falls, Dakota du Sud), recueille de façon volontaire et gratuite des informations déclarées par les participants : données démographiques, antécédents familiaux et état de santé. Les personnes atteintes d'une maladie rare, non diagnostiquée ou de prévalence inconnue, leurs proches, leurs aidants et les porteurs peuvent s'y inscrire.\n\nLe registre s'appuie sur des associations de patients et des chercheurs du monde entier. Les données, accessibles gratuitement à des chercheurs qualifiés après revue institutionnelle, servent aux études d'histoire naturelle, à l'épidémiologie, aux études de faisabilité et au recrutement. Il est cité dans cette liste à cause des maladies rares systémiques qu'il couvre (par ex. maladie de Kawasaki, myasthénie, maladie d'Addison).",
+ "interet": "Le registre facilite la recherche sur les maladies rares et l'identification de participants pour des études. Il ne teste aucun traitement et n'a pas d'impact direct sur la pratique.",
+ "profil": "Des personnes, de tout âge, atteintes d'une maladie rare, non diagnostiquée ou de prévalence inconnue, ainsi que des porteurs.",
+ "inclusion": ["Diagnostic d'une maladie rare, de prévalence inconnue ou non diagnostiquée", "Ou porteur non atteint d'une maladie rare"],
+ "exclusion": ["Maladie qui n'est pas rare"],
+ "bras": [{"nom": "Participants du registre", "traitement": "Recueil déclaratif de données de santé, démographiques et familiales ; pas d'intervention"}],
+ "duree": "Suivi longitudinal, jusqu'à 100 ans selon le registre",
+ "critere": "Accélération de la recherche sur les maladies rares en reliant les personnes intéressées aux chercheurs."
+}

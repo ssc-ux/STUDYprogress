@@ -1,0 +1,28 @@
+{
+ "h": "2f1e675f23e1",
+ "date": "2026-11-14",
+ "titre": "Base de données CDASI : réponse clinique de la dermatomyosite cutanée",
+ "question": "Le score CDASI mesure-t-il de façon réactive l'évolution clinique et la qualité de vie des patients atteints de dermatomyosite cutanée ?",
+ "contexte": "La dermatomyosite cutanée est difficile à évaluer : l'atteinte de la peau est polymorphe, parfois résistante aux traitements, et pèse sur la qualité de vie. Le CDASI (Cutaneous Dermatomyositis Disease Area and Severity Index) est un score validé mesurant l'activité et les lésions cutanées. Il sert de critère de jugement dans les essais.\n\nCette base de données monocentrique de l'University of Pennsylvania, créée en 2008, collecte de façon prospective le CDASI, d'autres outils cliniques, des questionnaires et des données patients. Elle a déjà permis de comparer le CDASI à d'autres instruments et de décrire l'impact de la dermatomyosite sur la qualité de vie, y compris psychologique. Elle documente aussi les traitements utilisés et les réponses observées.",
+ "interet": "L'étude consolide les propriétés de mesure du CDASI, outil clé des essais de dermatomyosite, et décrit l'évolution naturelle et sous traitement de l'atteinte cutanée.",
+ "profil": "Des adultes atteints de dermatomyosite cutanée suivis à l'University of Pennsylvania.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Dermatomyosite cutanée",
+  "Capacité à donner un consentement éclairé"
+ ],
+ "exclusion": [
+  "Absence de dermatomyosite cutanée",
+  "Employés de l'université (Penn)",
+  "Étudiants de l'université (Penn)",
+  "Personnes avec troubles cognitifs"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de dermatomyosite cutanée",
+   "traitement": "Suivi observationnel avec score CDASI, questionnaires et recueil de données cliniques"
+  }
+ ],
+ "duree": "Non précisé (suivi continu ; moyenne d'environ 1 an dans le registre)",
+ "critere": "Score CDASI (activité et dommage cutanés), sur la durée de l'étude, en moyenne 1 an."
+}

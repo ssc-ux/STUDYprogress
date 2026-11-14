@@ -1,0 +1,24 @@
+{
+ "h": "365497ccf6b0",
+ "date": "2026-11-14",
+ "titre": "Étude longitudinale de la granulomatose éosinophilique avec polyangéite (EGPA) du VCRC",
+ "question": "Quels biomarqueurs permettent de mesurer l'activité de l'EGPA et la réponse au traitement ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) associe asthme, hyperéosinophilie et vascularite touchant la peau, les poumons, les nerfs, les reins et d'autres organes. L'atteinte neurologique peut provoquer douleurs, paresthésies et amyotrophie des extrémités.\n\nL'évaluation de l'activité est difficile : les patients peuvent n'avoir aucun signe visible alors que l'inflammation persiste, et les méthodes de suivi actuelles reflètent souvent une période prolongée de maladie active. Des lésions évitables peuvent ainsi s'installer sans traitement.\n\nCette cohorte observationnelle du Vasculitis Clinical Research Consortium, promue par l'université de Pennsylvanie, suit des patients atteints d'EGPA avec des visites tous les 6 mois ou une fois par an. À chaque visite sont recueillis sang et urine, examen clinique, historique médical et médicamenteux, et des questionnaires sur l'activité, l'état de santé et l'usage de tabac, alcool et drogues.\n\nL'objectif est d'identifier de nouveaux biomarqueurs de l'activité de la maladie, utiles pour guider les soins et le développement de médicaments.",
+ "interet": "Des biomarqueurs fiables de l'activité de l'EGPA permettraient d'ajuster le traitement et d'évaluer les nouvelles thérapies. Cette cohorte reste une plateforme de recherche, sans intervention.",
+ "profil": "Des patients de tout âge ayant une EGPA, suivis dans le réseau VCRC.",
+ "inclusion": [
+  "Diagnostic d'EGPA",
+  "Parent ou tuteur consentant, le cas échéant"
+ ],
+ "exclusion": [
+  "Incapacité à donner son consentement et à signer le formulaire"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints d'EGPA",
+   "traitement": "Visites tous les 6 mois ou annuelles : sang, urine, examen, questionnaires"
+  }
+ ],
+ "duree": "Visites semestrielles ou annuelles jusqu'à la fin de l'étude (2028)",
+ "critere": "Identification de biomarqueurs de l'activité de l'EGPA et de la réponse au traitement, jusqu'à la fin de l'étude"
+}

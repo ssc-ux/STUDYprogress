@@ -1,0 +1,35 @@
+{
+ "h": "b696a56f5aa1",
+ "date": "2026-11-14",
+ "titre": "Microbiome et artérite à cellules géantes",
+ "question": "La composition du microbiote intestinal, buccal et sanguin diffère-t-elle entre patients atteints d'ACG et témoins ?",
+ "contexte": "L'ACG est une vascularite des sujets âgés dont les déclencheurs restent mal connus. Des données issues d'autres maladies auto-immunes suggèrent un rôle du microbiote, en particulier intestinal, dans la régulation du système immunitaire. Son rôle éventuel dans l'apparition et l'évolution de l'ACG n'a pas été exploré en détail.\n\nCette étude longitudinale cas-témoins de l'université de Bonn analyse les microbiomes oral, sanguin et intestinal de patients au diagnostic d'ACG et à 6 mois, comparés à des témoins sans maladie rhumatologique. Les espèces candidates identifiées seront étudiées pour leurs interactions avec le système immunitaire.",
+ "interet": "L'étude est exploratoire. Elle pourrait identifier des pistes physiopathologiques et des biomarqueurs liés au microbiome, sans conséquence directe immédiate pour la pratique.",
+ "profil": "Des adultes atteints d'ACG au diagnostic, comparés à des témoins sans maladie rhumatismale.",
+ "inclusion": [
+  "Diagnostic d'ACG (groupe ACG uniquement)",
+  "Âge ≥ 18 ans",
+  "Témoins sans maladie rhumatologique",
+  "Autres critères : non précisé"
+ ],
+ "exclusion": [
+  "Infection chronique (VIH, hépatites B/C, etc.) ou infection aiguë traitée par antibiotiques < 90 jours",
+  "Chirurgie digestive majeure < 5 ans ou saignement digestif < 90 jours",
+  "Maladie inflammatoire chronique de l'intestin",
+  "Anorexie ou boulimie, IMC ≥ 40",
+  "Probiotiques à haute dose < 90 jours",
+  "Diabète non contrôlé, cancer dans l'année, abus d'alcool ou de drogues"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ACG",
+   "traitement": "Analyses sanguines et du microbiome (selles, lavage buccal)"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Sujets sans maladie rhumatologique, mêmes prélèvements"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Différences de composition du microbiome à l'inclusion et à 6 mois"
+}

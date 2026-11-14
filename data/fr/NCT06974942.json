@@ -1,0 +1,35 @@
+{
+ "h": "4e77a644ed9c",
+ "date": "2026-11-14",
+ "titre": "Activité physique des adolescents atteints de fièvre méditerranéenne familiale",
+ "question": "Quel est le niveau d'activité physique des adolescents atteints de FMF par rapport à celui d'adolescents en bonne santé ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est l'une des maladies auto-inflammatoires les plus fréquentes de l'enfance. Les douleurs articulaires, la faiblesse musculaire, la fatigue et la baisse de capacité aérobie observées dans les maladies rhumatismales pédiatriques peuvent réduire la condition physique.\n\nLes enfants atteints de maladie chronique participent souvent moins à l'activité physique que leurs pairs, ce qui favorise le déconditionnement. L'EULAR recommande l'activité physique et l'exercice chez les patients rhumatismaux, avec les mêmes repères que dans la population générale. Prescrire de l'exercice peut soulager certains symptômes et limiter les complications à long terme des traitements.\n\nCette étude de cohorte, promue par l'université d'Istanbul-Cerrahpasa, décrit en détail l'activité physique d'adolescents atteints de FMF (76 patients prévus) et la compare à celle de pairs en bonne santé. Les auteurs la présentent comme l'une des premières données complètes de ce type dans leur pays.",
+ "interet": "Les résultats aideront à mieux connaître le niveau d'activité physique et la perception de l'exercice des adolescents atteints de FMF. Ils pourraient guider la conception de programmes d'exercice adaptés à ces patients.",
+ "profil": "Des adolescents de 12 à 18 ans atteints de FMF, comparés à des pairs en bonne santé.",
+ "inclusion": [
+  "Âge de 12 à 18 ans",
+  "FMF diagnostiquée depuis au moins 6 mois dans le service de rhumatologie pédiatrique d'Istanbul",
+  "Traitement médical habituel de la FMF en cours",
+  "Volonté de participer",
+  "Témoins : adolescents de 12 à 18 ans volontaires"
+ ],
+ "exclusion": [
+  "Refus de la famille",
+  "Trouble vestibulaire ou neurologique de l'équilibre",
+  "Scoliose, inégalité de longueur des jambes ou chirurgie récente du membre inférieur",
+  "Déficit visuel ou auditif",
+  "Retrait : au moins 3 questions sans réponse aux questionnaires"
+ ],
+ "bras": [
+  {
+   "nom": "FMF",
+   "traitement": "76 adolescents atteints de FMF suivis en rhumatologie pédiatrique à Istanbul"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Adolescents du même âge, sans maladie"
+  }
+ ],
+ "duree": "Évaluation unique (état initial)",
+ "critere": "Niveau d'activité physique mesuré par le questionnaire PAQ-A, à l'inclusion."
+}

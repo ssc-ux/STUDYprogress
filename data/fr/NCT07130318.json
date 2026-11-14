@@ -1,0 +1,33 @@
+{
+ "h": "b742f91ce088",
+ "date": "2026-11-14",
+ "titre": "Régime méditerranéen avec ou sans exercice aérobie pour la stéatose hépatique dans la FMF",
+ "question": "Ajouter un exercice aérobie sur elliptique à un régime méditerranéen réduit-il l'atteinte hépatique chez des femmes atteintes de FMF et de stéatose ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire héréditaire traitée par la colchicine. Le registre indique qu'elle peut s'accompagner d'une atteinte hépatique, notamment d'une stéatose hépatique non alcoolique (NAFLD).\n\nDans la stéatose métabolique, la perte de poids par la diététique et l'activité physique est le traitement de référence. Les données spécifiques à la FMF sont rares, alors que l'inflammation chronique et l'obésité peuvent s'additionner comme facteurs de risque.\n\nCette étude randomisée monocentrique, promue par l'université du Caire, inclut 40 femmes de 30 à 55 ans, obèses, atteintes de FMF et de stéatose. Toutes poursuivent la colchicine et suivent un régime méditerranéen pendant 6 mois. La moitié réalise en plus 40 minutes d'exercice sur elliptique, trois fois par semaine. Le critère est l'aspartate aminotransférase (ASAT).",
+ "interet": "Elle pourrait montrer si l'exercice apporte un bénéfice hépatique supplémentaire à la diététique chez les patientes atteintes de FMF. Compte tenu de la taille réduite de l'échantillon, les résultats seront exploratoires.",
+ "profil": "Des femmes de 30 à 55 ans, obèses, atteintes de FMF et de stéatose hépatique non alcoolique.",
+ "inclusion": [
+  "Femmes atteintes de FMF",
+  "Âge de 30 à 55 ans",
+  "Obésité",
+  "Stéatose hépatique non alcoolique"
+ ],
+ "exclusion": [
+  "Maladie cardiaque",
+  "Maladie respiratoire",
+  "Maladie rénale",
+  "Cancer"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1",
+   "traitement": "Colchicine, régime méditerranéen et exercice aérobie sur elliptique 40 min, 3 fois par semaine, pendant 6 mois (20 femmes)"
+  },
+  {
+   "nom": "Groupe 2 (comparateur)",
+   "traitement": "Colchicine et régime méditerranéen pendant 6 mois (20 femmes)"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Taux d'aspartate aminotransférase (ASAT) à 6 mois."
+}

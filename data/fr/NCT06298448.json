@@ -1,0 +1,49 @@
+{
+ "h": "3a071033159f",
+ "date": "2026-11-14",
+ "titre": "Mépolizumab, microbiote nasal et immunité locale dans l'EGPA",
+ "question": "Le mépolizumab, anti-IL-5, rétablit-il un microbiote nasal et une réponse immune proches de ceux de sujets sains chez les patients ayant une EGPA ?",
+ "contexte": "L'EGPA, l'asthme éosinophilique sévère et la rhinosinusite chronique avec polypes (CRSwNP) sont des maladies des voies aériennes où les éosinophiles et l'interleukine 5 jouent un rôle central. L'EGPA se distingue par l'atteinte d'autres organes, liée à une vascularite.\n\nL'hypothèse de l'étude est qu'une dysbiose du microbiote nasal, avec un rôle amplificateur de Staphylococcus aureus, contribue à l'expression de la maladie, par exemple via des superantigènes et la stimulation des réponses de type 2.\n\nLe mépolizumab, anti-IL-5 autorisé dans l'asthme sévère, la CRSwNP et l'EGPA, pourrait corriger ces anomalies. Cette étude observationnelle cas-témoins du UMC Groningen compare le microbiote nasal et les réponses immunes locales et systémiques avant et après mépolizumab chez des patients ayant une EGPA, un asthme sévère ou une CRSwNP, avec comme comparateurs des patients ayant une GPA (sans mépolizumab) et des témoins sains.\n\nLes analyses de laboratoire sont réalisées avant et après le traitement, avec un critère principal à 3 mois.",
+ "interet": "Les résultats pourraient éclairer le rôle du microbiote nasal dans l'EGPA et fournir des biomarqueurs de réponse au mépolizumab. L'étude est mécanistique et sans impact direct sur la prise en charge.",
+ "profil": "Des adultes ayant une EGPA, un asthme sévère, une rhinosinusite avec polypes ou une GPA, et des témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement éclairé",
+  "EGPA : critères ACR/EULAR 2022",
+  "GPA : critères ACR/EULAR 2022",
+  "Asthme sévère : VEMS < 80 % avec réversibilité > 12 % ou test de provocation positif (PC20 < 8 mg/mL)",
+  "CRSwNP : polypes nasaux bilatéraux à l'endoscopie ou au scanner",
+  "Témoins : pas de symptômes d'asthme ni d'hyperréactivité bronchique"
+ ],
+ "exclusion": [
+  "Incapacité à consentir",
+  "Tabagisme actif depuis moins de 6 mois",
+  "Dupilumab dans les 6 mois",
+  "Grossesse ou allaitement",
+  "CRSwNP : traitement antiasthmatique en cours ou EGPA",
+  "Témoins : anti-inflammatoires locaux au long cours, immunosuppresseurs, antibiotiques dans le mois"
+ ],
+ "bras": [
+  {
+   "nom": "EGPA",
+   "traitement": "Analyses avant et après mépolizumab"
+  },
+  {
+   "nom": "GPA",
+   "traitement": "Comparateur sans mépolizumab"
+  },
+  {
+   "nom": "Asthme sévère",
+   "traitement": "Analyses avant et après mépolizumab"
+  },
+  {
+   "nom": "CRSwNP",
+   "traitement": "Analyses avant et après mépolizumab"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Comparateur sain"
+  }
+ ],
+ "duree": "Environ 3 mois par participant",
+ "critere": "Effet du mépolizumab sur les profils du microbiote nasal, à 3 mois"
+}

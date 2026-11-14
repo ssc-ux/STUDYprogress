@@ -1,0 +1,31 @@
+{
+ "h": "f007b312837c",
+ "date": "2026-11-14",
+ "titre": "Régime hypocalorique et syndrome métabolique chez des adolescents atteints de FMF",
+ "question": "Un régime hypocalorique de 3 mois améliore-t-il la glycémie à jeun d'adolescents atteints de fièvre méditerranéenne familiale et de syndrome métabolique ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est la plus fréquente des maladies auto-inflammatoires héréditaires. Elle est liée à des variants du gène MEFV et traitée au long cours par la colchicine. Chez l'enfant et l'adolescent, la maladie évolue souvent depuis plusieurs années et s'associe à une inflammation chronique de bas grade.\n\nLe registre indique que le syndrome métabolique pourrait être fréquent au cours de la FMF, et que les mesures diététiques sont le traitement de base du syndrome métabolique. L'obésité et l'insulinorésistance sont des facteurs de risque cardiovasculaire précoces, d'autant plus préoccupants chez l'adolescent. Les données sur l'effet d'une prise en charge nutritionnelle dans cette population restent rares.\n\nCette petite étude randomisée, monocentrique, menée à l'université du Caire, compare un régime hypocalorique pendant 3 mois à l'absence de modification des habitudes alimentaires. Elle porte sur 40 adolescents. Le critère est biologique et simple : la glycémie à jeun.",
+ "interet": "Cette étude pourrait documenter l'intérêt d'une intervention diététique simple sur le versant métabolique des adolescents atteints de FMF. Sa petite taille et son caractère monocentrique en limitent la portée, mais elle peut orienter des travaux plus larges.",
+ "profil": "Des adolescents de 13 à 17 ans atteints de FMF et d'un syndrome métabolique.",
+ "inclusion": [
+  "Syndrome métabolique",
+  "Fièvre méditerranéenne familiale",
+  "Âge de 13 à 17 ans"
+ ],
+ "exclusion": [
+  "Maladie cardiaque",
+  "Maladie respiratoire",
+  "Tumeur"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe I (régime)",
+   "traitement": "Régime hypocalorique pendant 3 mois (20 adolescents)"
+  },
+  {
+   "nom": "Groupe II (témoin)",
+   "traitement": "Aucune modification des habitudes alimentaires pendant 12 semaines (20 adolescents)"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Glycémie à jeun mesurée après 12 semaines."
+}

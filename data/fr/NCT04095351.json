@@ -1,0 +1,14 @@
+{
+ "h": "345574639ff5",
+ "date": "2026-11-14",
+ "titre": "Registre prospectif de l'atteinte pulmonaire des connectivites, centré sur la sclérodermie (Colipris)",
+ "question": "Quels sont l'épidémiologie, l'évolution et les facteurs pronostiques de la pneumopathie interstitielle et de l'hypertension pulmonaire dans les connectivites ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) et l'hypertension pulmonaire (HP) sont des complications majeures des connectivites, en particulier de la sclérodermie systémique, et conditionnent le pronostic. Leur prévalence, leur incidence et leur évolution en vie réelle restent mal définies.\n\nLes difficultés principales sont l'identification des patients à évolution progressive, le bon moment pour traiter et la nature du moteur de la maladie (inflammatoire, profibrosant, ou les deux). Colipris est un registre prospectif, multidisciplinaire, de l'université de médecine d'Innsbruck (Autriche occidentale), prévoyant d'inclure 120 patients adultes avec connectivite. Il collecte les données démographiques, cliniques, biologiques (profil d'anticorps, statut martial), les examens (EFR, imagerie, échographie thoracique, TDM haute résolution), les comorbidités, les traitements et le devenir sur 10 ans. Une biobanque sanguine sérielle est constituée dans un sous-groupe de patients sclérodermiques pour étudier les phénotypes inflammatoires et profibrosants.",
+ "interet": "Le registre doit documenter l'histoire naturelle de l'atteinte pulmonaire des connectivites en pratique réelle et générer des hypothèses sur ses mécanismes. Il ne teste aucune intervention.",
+ "profil": "Des adultes atteints de connectivite (dont sclérodermie systémique), avec ou sans atteinte pulmonaire.",
+ "inclusion": ["Âge de 18 ans ou plus", "Connectivite diagnostiquée", "Consentement éclairé signé"],
+ "exclusion": ["Comorbidité grave interférant avec l'évolution de la PID ou de l'HP"],
+ "bras": [{ "nom": "Patients avec connectivite", "traitement": "Suivi prospectif de routine : EFR, imagerie, prélèvements sanguins, sans intervention" }],
+ "duree": "Suivi jusqu'à 10 ans (critères principaux à 1 an)",
+ "critere": "Déclin de la capacité vitale forcée et de la DLCO, et augmentation du score de Rodnan modifié, à 1 an."
+}

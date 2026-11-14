@@ -1,0 +1,30 @@
+{
+ "h": "78db8214dcd8",
+ "date": "2026-11-14",
+ "titre": "Atteinte cardiaque des myopathies inflammatoires idiopathiques de l'adulte",
+ "question": "À quelle fréquence l'IRM cardiaque révèle-t-elle une atteinte myocardique dans les différents sous-groupes de myosites ?",
+ "contexte": "L'atteinte cardiaque des myopathies inflammatoires idiopathiques (MII) est probablement sous-estimée. Elle peut être infraclinique : myocardite, fibrose, troubles du rythme ou de la conduction, et contribue à la mortalité. Les enzymes cardiaques et l'ECG manquent de sensibilité.\n\nL'IRM cardiaque avec gadolinium détecte le rehaussement tardif (LGE), marqueur de fibrose ou de lésion myocardique. Elle mesure le volume extracellulaire (ECV), reflet de la fibrose diffuse. Cette étude de cohorte de l'hôpital de Nanjing inclut 300 adultes avec MII suspectée ou confirmée, évoluant depuis moins de 2 ans. Elle recueille bilans sanguins, biopsie musculaire, IRM musculaire et IRM cardiaque, répétées à 6-12 mois, et suit les patients à 3, 6 et 12 mois puis au long cours.",
+ "interet": "L'étude doit préciser les sous-groupes de myosites à risque d'atteinte cardiaque. Elle pourrait justifier un dépistage par IRM cardiaque et des biomarqueurs diagnostiques.",
+ "profil": "Des adultes atteints de myopathie inflammatoire idiopathique suspectée ou confirmée, évoluant depuis moins de 2 ans.",
+ "inclusion": [
+  "Myosite confirmée (biopsie, EMG, IRM) ou suspectée cliniquement",
+  "Âge > 18 ans",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Durée d'évolution > 2 ans",
+  "Âge < 18 ans",
+  "Myopathie non inflammatoire confirmée",
+  "Myosite secondaire à l'alcool ou à des toxiques",
+  "Refus ou incapacité à consentir",
+  "Abord veineux difficile ou impossible"
+ ],
+ "bras": [
+  {
+   "nom": "Myopathie inflammatoire idiopathique",
+   "traitement": "Cohorte suivie : bilans sanguins, biopsie musculaire, IRM musculaire et IRM cardiaque avec gadolinium"
+  }
+ ],
+ "duree": "Visites à 3, 6 et 12 mois ; suivi à long terme",
+ "critere": "Apparition d'un rehaussement tardif (LGE) positif et d'un volume extracellulaire > 30 % à l'IRM cardiaque selon les sous-groupes de myosites, jusqu'à 20 ans."
+}

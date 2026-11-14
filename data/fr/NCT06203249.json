@@ -1,0 +1,35 @@
+{
+ "h": "bc2416378f08",
+ "date": "2026-11-14",
+ "titre": "Microbiote pulmonaire et immunité dans la dermatomyosite anti-MDA5 avec PID",
+ "question": "La composition du microbiote pulmonaire est-elle liée à la survenue d'une PID rapidement progressive dans la dermatomyosite anti-MDA5 ?",
+ "contexte": "La dermatomyosite anti-MDA5 se complique fréquemment d'une pneumopathie interstitielle diffuse (PID), parfois rapidement progressive (PID-RP), de mauvais pronostic. Les mécanismes en cause restent mal compris. Le rôle des infections et du microbiote respiratoire dans le déclenchement et l'entretien de l'inflammation pulmonaire est suspecté.\n\nCette étude observationnelle de cohorte, menée à l'hôpital général de l'Armée populaire de libération chinoise (Chinese PLA General Hospital), analyse des prélèvements de lavage broncho-alvéolaire de patients anti-MDA5 positifs avec PID, avec ou sans forme rapidement progressive. Elle compare la composition du microbiote et l'immunité de l'hôte entre ces groupes. Environ 50 patients sont prévus.",
+ "interet": "La description d'un profil microbien associé à la PID-RP pourrait fournir des pistes physiopathologiques et, à terme, des marqueurs ou cibles thérapeutiques.",
+ "profil": "Des adultes atteints de dermatomyosite anti-MDA5 positive avec PID, avec ou sans PID rapidement progressive, ayant eu un lavage broncho-alvéolaire.",
+ "inclusion": [
+  "Dermatomyosite anti-MDA5 positive",
+  "Si PID-RP, critères diagnostiques de PID-RP remplis",
+  "Lavage broncho-alvéolaire réalisé",
+  "Âge ≥ 18 ans",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Autre connectivite",
+  "PID liée à une infection, une tumeur, un médicament ou une autre cause",
+  "Grossesse ou allaitement",
+  "Participation à un autre essai clinique",
+  "Refus d'inclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Anti-MDA5 avec PID-RP",
+   "traitement": "Analyse du microbiote et de l'immunité sur lavage broncho-alvéolaire"
+  },
+  {
+   "nom": "Anti-MDA5 avec PID sans forme rapidement progressive",
+   "traitement": "Même analyse du lavage broncho-alvéolaire"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Relation entre la composition du microbiote et la présence ou l'absence de PID, à 6 mois."
+}

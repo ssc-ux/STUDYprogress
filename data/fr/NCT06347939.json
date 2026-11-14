@@ -1,0 +1,32 @@
+{
+ "h": "fd672673a5ab",
+ "date": "2026-11-14",
+ "titre": "Cryobiopsie médiastinale par EBUS en Suède",
+ "question": "Combien de cryobiopsies médiastinales par EBUS faut-il pour obtenir un diagnostic, et quel est l'apport de la cryobiopsie par rapport à la seule ponction ?",
+ "contexte": "L'EBUS avec ponction transbronchique à l'aiguille (EBUS-TBNA) est la méthode de référence pour échantillonner les adénopathies médiastinales et hilaires. Elle donne d'excellents résultats dans le cancer du poumon (rendement jusqu'à 90 %) avec 1,2 à 3,6 % de complications.\n\nSon efficacité est plus limitée dans les maladies non malignes (sarcoïdose, tuberculose) ou les lymphomes, qui demandent souvent une analyse histologique plutôt que cytologique.\n\nLa cryobiopsie médiastinale transbronchique sous EBUS (EBUS-TBMCB) permet d'obtenir des fragments tissulaires. Deux essais randomisés et plusieurs études observationnelles ont montré un gain de rendement diagnostique sans augmentation notable des événements indésirables, surtout dans les maladies non malignes et les métastases extrathoraciques, avec une sensibilité comparable dans le cancer du poumon.\n\nLe nombre de biopsies nécessaires reste inconnu. Cette étude prospective observationnelle de la région Skåne (Suède) réalise les deux techniques chez chaque patient, numérote les cryobiopsies et mesure l'apport de chacune, avec un suivi de quatre semaines pour les complications.",
+ "interet": "Elle pourrait préciser le nombre optimal de cryobiopsies, pour un diagnostic fiable avec le moins de prélèvements et de risques possible.",
+ "profil": "Des adultes avec adénopathie médiastinale de plus de 1 cm ayant une indication de prélèvement.",
+ "inclusion": [
+  "Adénopathie médiastinale de plus de 1 cm",
+  "Indication de bilan et de prélèvement selon la pratique clinique",
+  "Âge supérieur à 18 ans",
+  "Consentement du patient"
+ ],
+ "exclusion": [
+  "Instabilité hémodynamique",
+  "Infarctus du myocarde dans les 6 dernières semaines",
+  "Arythmie menaçant le pronostic vital",
+  "Insuffisance respiratoire avec oxygénation inadéquate sous oxygène",
+  "Obstruction trachéale importante",
+  "Risque hémorragique élevé",
+  "Patient non suédophone nécessitant un interprète pendant la procédure"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique",
+   "traitement": "EBUS-TBNA puis cryobiopsies EBUS-TBMCB chez tous les patients, échantillons comparés entre eux"
+  }
+ ],
+ "duree": "4 semaines de suivi après la procédure",
+ "critere": "Nombre de cryobiopsies médiastinales nécessaires par patient pour un diagnostic certain, sur 2 ans"
+}

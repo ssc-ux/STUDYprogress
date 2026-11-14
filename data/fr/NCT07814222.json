@@ -1,0 +1,41 @@
+{
+ "h": "26a44d160021",
+ "date": "2026-11-14",
+ "titre": "TEP à l'Al[18F]F-NOTA-folate dans la sarcoïdose cardiaque suspectée et l'endocardite infectieuse",
+ "question": "La TEP au traceur Al[18F]F-NOTA-folate permet-elle de détecter l'inflammation myocardique de la sarcoïdose cardiaque et l'infection valvulaire de l'endocardite ?",
+ "contexte": "Le diagnostic de sarcoïdose cardiaque repose sur l'IRM cardiaque et la TEP au 18F-FDG, qui souffre de la nécessité d'une préparation diététique et d'une captation myocardique physiologique. L'endocardite infectieuse, surtout sur prothèse, reste également difficile à confirmer en imagerie.\n\nLe folate marqué à l'Al[18F]F-NOTA cible le récepteur du folate bêta, exprimé par les macrophages activés qui sont présents dans les granulomes de la sarcoïdose et dans les lésions infectieuses. Ce traceur pourrait donc offrir une imagerie plus spécifique de l'inflammation à médiation macrophagique.\n\nCette étude diagnostique prospective non randomisée du CHU de Turku (Finlande) évalue la captation du traceur, sa dosimétrie et sa tolérance chez des patients avec suspicion de sarcoïdose cardiaque, des patients avec suspicion d'endocardite et des volontaires sains. Les patients suspects de sarcoïdose bénéficient d'une seconde TEP après le début de l'immunosuppression. La prise en charge reste celle de la pratique courante.",
+ "interet": "Elle pourrait établir un nouveau traceur d'imagerie des granulomes cardiaques et des valvules infectées, utile au diagnostic et au suivi de la réponse thérapeutique.",
+ "profil": "Des adultes avec suspicion de sarcoïdose cardiaque ou d'endocardite infectieuse, et des volontaires sains.",
+ "inclusion": [
+  "Consentement écrit",
+  "Groupe sarcoïdose : suspicion clinique nécessitant IRM cardiaque et/ou TEP au 18F-FDG",
+  "Groupe endocardite : suspicion d'endocardite sur valve native ou prothétique",
+  "Volontaires sains : plus de 50 ans, femmes ménopausées",
+  "Volontaires sains : pas de maladie cardiovasculaire, inflammatoire systémique, de cancer ni d'infection active"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Hypersensibilité connue aux dérivés du folate ou aux excipients",
+  "Refus ou impossibilité d'utiliser une contraception efficace",
+  "Insuffisance rénale sévère (DFG CKD-EPI < 20 ml/min)",
+  "Instabilité clinique (instabilité hémodynamique, insuffisance cardiaque décompensée, arythmie non contrôlée, suspicion de syndrome coronarien aigu)",
+  "Immunosuppresseur systémique depuis plus de 7 jours avant la TEP initiale",
+  "Impossibilité de réaliser le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Suspicion de sarcoïdose cardiaque",
+   "traitement": "TEP Al[18F]F-NOTA-folate, TEP à l'eau [15O], échocardiographie ; seconde TEP après début de l'immunosuppression"
+  },
+  {
+   "nom": "Suspicion d'endocardite infectieuse",
+   "traitement": "TEP Al[18F]F-NOTA-folate"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "TEP Al[18F]F-NOTA-folate"
+  }
+ ],
+ "duree": "Non précisé (deux examens TEP pour la sarcoïdose)",
+ "critere": "Captation quantitative du traceur dans le myocarde ventriculaire gauche (sarcoïdose, dans les 7 jours après début de l'immunosuppression) et dans les valves infectées versus non infectées (endocardite, dans les 14 jours après début des antibiotiques)"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "69b508a0a92e",
+ "date": "2026-11-14",
+ "titre": "REMAP PMR : TEP/IRM pour diagnostiquer et guider le traitement de la PPR",
+ "question": "L'IRM couplée à la TEP au FDG améliore-t-elle le diagnostic de PPR et peut-elle guider la décision de débuter la prednisolone ?",
+ "contexte": "La PPR est le rhumatisme inflammatoire chronique le plus fréquent du sujet âgé, mais son diagnostic clinique est peu précis et la TEP/TDM au FDG, plus performante, voit sa précision diminuer après le début de la prednisolone. Or ce traitement expose à des effets indésirables importants : éviter un traitement inutile est essentiel.\n\nCette cohorte danoise de la région d'Aarhus évalue l'utilisation de l'IRM pour aider à interpréter la TEP chez 111 patients suspects de PPR, à l'inclusion et après 8 semaines de prednisolone. Elle évalue aussi, chez 100 patients avec PPR nouvellement diagnostiquée, une stratégie de démarrage du traitement guidée par la clinique associée à la TEP.\n\nLes patients avec un diagnostic clinique de PPR mais une TEP négative ne reçoivent pas le traitement habituel : ils reçoivent des glucocorticoïdes intramusculaires, éventuellement suivis de prednisolone 15 mg décroissante sur 3 mois au maximum.",
+ "interet": "L'étude pourrait réduire les traitements corticoïdes inutiles en confirmant le diagnostic par imagerie. Elle pourrait aussi fixer la place de la TEP/IRM dans les cas douteux.",
+ "profil": "Des adultes de plus de 50 ans avec des douleurs proximales des membres et une suspicion de PPR.",
+ "inclusion": [
+  "Suspicion de PPR dans un service de rhumatologie ou de médecine interne participant",
+  "Âge > 50 ans",
+  "Douleur proximale des membres"
+ ],
+ "exclusion": [
+  "Glucocorticoïdes dans les 2 mois précédents",
+  "Prednisolone antérieure pour ACG/PPR",
+  "Incapacité à consentir",
+  "Douleurs évoluant depuis plus d'un an",
+  "Symptômes d'ACG",
+  "Cancer actif dans les 5 ans (hors carcinome basocellulaire)",
+  "Autre rhumatisme inflammatoire",
+  "Maladie non contrôlée ; contre-indication à l'IRM (implants, IMC > 150)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients suspects ou atteints de PPR",
+   "traitement": "TEP/IRM et TEP/TDM au FDG ; stratégie de traitement guidée par la clinique et la TEP"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Diagnostic clinique de PPR à 1 an avec TEP initiale positive (IRM en appui) ; diagnostic clinique initial de PPR avec TEP négative sans glucocorticoïdes au-delà de 3 mois sur la 1re année"
+}

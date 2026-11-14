@@ -1,0 +1,34 @@
+{
+ "h": "e987b57d501e",
+ "date": "2026-11-14",
+ "titre": "Collecte de biomatériaux pour l'analyse de la sarcoïdose cardiaque",
+ "question": "Quels mécanismes moléculaires et quels marqueurs génétiques ou cellulaires caractérisent la sarcoïdose cardiaque par rapport aux cardiomyopathies non ischémiques proches ?",
+ "contexte": "La sarcoïdose cardiaque est une granulomatose inflammatoire du myocarde. Son mécanisme exact reste mal compris et fait intervenir une dérégulation immunitaire. Elle expose à des troubles du rythme ventriculaires menaçants, à l'insuffisance cardiaque sévère et à la mort subite.\n\nLe diagnostic est difficile : la présentation ressemble à d'autres myocardites ou cardiomyopathies familiales, et la preuve histologique (biopsie cardiaque ou extracardiaque avec granulome) est invasive et peu sensible. La maladie est probablement sous-diagnostiquée. Un diagnostic et une immunosuppression précoces, avec défibrillateur si nécessaire, conditionnent pourtant le pronostic.\n\nCette étude exploratoire prospective multicentrique, promue par le Centre cardiologique de Leipzig, constitue une biobanque de sang, de myocarde et de ganglions de patients atteints de sarcoïdose cardiaque ou de cardiomyopathies d'aspect proche. Les échantillons seront analysés par des méthodes classiques (ELISA, RIA) et par des approches récentes : séquençage unicellulaire ou mononucléaire, génomique, métabolomique, protéomique. Une analyse génétique ciblera les variants de cardiomyopathies et de canalopathies. L'objectif est d'identifier des voies physiopathologiques et de nouveaux biomarqueurs diagnostiques et de suivi.",
+ "interet": "Elle pourrait fournir des biomarqueurs sanguins ou tissulaires pour distinguer la sarcoïdose cardiaque des autres cardiomyopathies sans biopsie répétée. Elle pourrait aussi éclairer le rôle des variants génétiques dans l'évolution et le pronostic.",
+ "profil": "Des adultes avec sarcoïdose cardiaque ou cardiomyopathie inflammatoire avérée ou suspectée, ou nécessitant une assistance ventriculaire ou une greffe cardiaque.",
+ "inclusion": [
+  "Sarcoïdose cardiaque ou cardiomyopathie inflammatoire symptomatique connue",
+  "Insuffisance cardiaque récente avec arythmie évoquant une sarcoïdose ou une myocardite",
+  "Suspicion en imagerie (IRM, TEP-TDM)",
+  "Besoin ou antécédent d'assistance ventriculaire ou de greffe pour suspicion de sarcoïdose cardiaque",
+  "Âge de 18 ans ou plus",
+  "Consentement éclairé écrit, y compris pour l'analyse des échantillons"
+ ],
+ "exclusion": [
+  "Maladie psychiatrique altérant la capacité de consentir",
+  "Insuffisance cardiaque chronique d'origine coronarienne ou valvulaire",
+  "Maladie grave autre que la sarcoïdose avec décès probable dans l'année"
+ ],
+ "bras": [
+  {
+   "nom": "Sarcoïdose cardiaque avec biopsie endomyocardique positive",
+   "traitement": "Observation ; prélèvements de sang, de myocarde et de ganglions"
+  },
+  {
+   "nom": "Cardiomyopathie non ischémique avec biopsie endomyocardique négative",
+   "traitement": "Observation ; mêmes prélèvements"
+  }
+ ],
+ "duree": "Non précisé (analyses à l'inclusion)",
+ "critere": "Association des monocytes/macrophages CD14++CD16+ (myocarde et sang) avec l'activité de la maladie, et association de variants génétiques et marqueurs épigénétiques avec le risque de maladie, à l'inclusion"
+}

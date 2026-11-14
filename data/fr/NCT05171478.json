@@ -1,0 +1,28 @@
+{
+ "h": "765c668e125e",
+ "date": "2026-11-14",
+ "titre": "Tomographie en cohérence optique plein champ pour évaluer les biopsies bronchiques",
+ "question": "L'imagerie OCT plein champ de petits prélèvements bronchoscopiques est-elle corrélée à l'histologie standard ?",
+ "contexte": "Le diagnostic et le stade des cancers thoraciques, comme de la sarcoïdose, reposent souvent sur de petits prélèvements obtenus par bronchoscopie (EBUS-TBNA, biopsies transbronchiques). Le rendement dépend de la qualité et de la quantité du tissu recueilli.\n\nL'évaluation rapide sur site (ROSE), réalisée par un cytotechnicien au lit du patient, améliore la qualité des prélèvements. Elle coûte cher, n'est pas disponible partout, et les études n'ont pas démontré de bénéfice net par rapport à une bronchoscopie sans ROSE. Les recommandations d'experts admettent l'EBUS-TBNA avec ou sans ROSE.\n\nLa tomographie en cohérence optique (OCT) plein champ donne en temps réel une image proche de l'histologie, avec peu de préparation, sans détruire le tissu, ce qui préserve les analyses moléculaires. Elle a été appliquée à d'autres tissus mais pas encore aux biopsies bronchoscopiques. Cette étude de faisabilité de l'université Johns Hopkins compare l'imagerie à l'histologie standard et à la ROSE.",
+ "interet": "Si la corrélation est bonne, l'OCT plein champ pourrait remplacer ou compléter la ROSE là où elle n'est pas disponible, et ouvrir la voie à une analyse automatisée par apprentissage machine.",
+ "profil": "Des adultes hospitalisés ou ambulatoires bénéficiant d'une bronchoscopie diagnostique ou de stadification (cancer pulmonaire, sarcoïdose).",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Hospitalisé ou ambulatoire",
+  "Capable de donner son consentement",
+  "Bronchoscopie diagnostique ou de stadification dans le cadre des soins",
+  "Prélèvements par EBUS-TBNA, TBNA conventionnelle ou biopsie transbronchique réalisés hors recherche"
+ ],
+ "exclusion": [
+  "Contre-indication usuelle à la bronchoscopie (trouble de l'hémostase, antiagrégant ou anticoagulant, insuffisance respiratoire sévère, instabilité clinique)",
+  "Grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Patients adressés pour bronchoscopie",
+   "traitement": "Imagerie OCT plein champ des prélèvements, comparée à l'histologie standard"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Corrélation de l'OCT plein champ avec l'histologie standard, mesurée par le coefficient kappa, sur 1 an"
+}

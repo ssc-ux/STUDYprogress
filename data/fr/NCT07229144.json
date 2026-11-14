@@ -1,0 +1,30 @@
+{
+ "h": "cdfdf34b0f79",
+ "date": "2026-11-14",
+ "titre": "OM336 sous-cutané dans les maladies auto-immunes séropositives (Sjögren, myosites)",
+ "question": "L'OM336, administré par voie sous-cutanée en doses croissantes, est-il bien toléré dans les maladies auto-immunes séropositives réfractaires ?",
+ "contexte": "Dans les maladies auto-immunes séropositives comme le syndrome de Sjögren et les myopathies inflammatoires idiopathiques, les auto-anticorps sont produits par des plasmocytes. Les patients en rechute ou réfractaires après au moins deux traitements ont peu d'options. Les plasmocytes, souvent peu sensibles aux anti-CD20, sont une cible logique.\n\nLe BCMA, exprimé sur les plasmocytes, est la cible de plusieurs thérapies développées dans le myélome. L'exclusion des patients déjà traités par une thérapie anti-BCMA suggère que l'OM336 vise cette cible, mais le registre ne précise pas sa nature exacte. Cet essai de phase 1 ouvert, multicentrique, du laboratoire Lakefront Biotherapeutics West, évalue en doses croissantes la tolérance, la pharmacocinétique et l'immunogénicité (anticorps anti-médicament). Des critères exploratoires de réponse clinique et de biomarqueurs sont aussi prévus.",
+ "interet": "Il s'agit d'une étude très précoce : elle déterminera la tolérance et la dose avant tout test d'efficacité. Elle s'inscrit dans l'intérêt croissant pour la déplétion des plasmocytes en auto-immunité.",
+ "profil": "Des adultes de 18 à 75 ans atteints de syndrome de Sjögren ou de myopathie inflammatoire séropositifs, en rechute ou réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Maladie auto-immune séropositive active (Sjögren ou myopathie inflammatoire)",
+  "Rechute ou réfractarité après au moins 2 traitements antérieurs ou en cours",
+  "Poids ≥ 50 kg",
+  "Capacité à suivre les procédures de l'étude"
+ ],
+ "exclusion": [
+  "Traitement antérieur ciblant BCMA",
+  "Infection cliniquement significative dans les 3 mois avant le dépistage",
+  "Chirurgie majeure dans les 3 mois avant le dépistage ou prévue pendant l'étude",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Escalade de dose d'OM336",
+   "traitement": "OM336 par injection sous-cutanée, en cohortes à doses croissantes"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 12 semaines)",
+ "critere": "Sécurité et tolérance, sur 12 semaines."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "5e21d09a4fb8",
+ "date": "2026-11-14",
+ "titre": "QEL-005, CAR-Treg anti-CD19, dans la sclérodermie diffuse et la polyarthrite rhumatoïde difficile à traiter",
+ "question": "Le CAR-Treg autologue QEL-005 est-il sûr chez des patients atteints de sclérodermie diffuse ou de polyarthrite rhumatoïde difficile à traiter ?",
+ "contexte": "La sclérodermie systémique diffuse (dcSSc) et la polyarthrite rhumatoïde difficile à traiter (D2T-PR, selon la définition EULAR 2021) restent des situations d'échec thérapeutique malgré les immunomodulateurs et les biothérapies. Les CAR-T anti-CD19 effecteurs induisent une déplétion B profonde mais exposent à des toxicités (syndrome de relargage cytokinique, immunosuppression prolongée).\n\nQEL-005 est une thérapie autologue de lymphocytes T régulateurs (Treg) exprimant un récepteur chimérique antigénique anti-CD19. Le principe est de rétablir la tolérance immunitaire plutôt que de détruire les lymphocytes B, avec un profil de sécurité attendu plus favorable. Aucun résultat clinique n'est cité dans le registre.\n\nL'essai de phase 1/2 est ouvert, multicentrique et de première administration chez l'homme, promu par Quell Therapeutics. Après leucaphérèse et fabrication, une perfusion unique est administrée en escalade de dose (trois niveaux, au moins 3 patients chacun) puis en expansion, avec une nuit d'hospitalisation. 16 patients sont prévus ; un suivi de 15 ans est requis.",
+ "interet": "C'est la première évaluation chez l'homme d'un CAR-Treg dans des maladies rhumatologiques. Elle porte avant tout sur la tolérance et prépare d'éventuelles études d'efficacité.",
+ "profil": "Des adultes atteints de SSc diffuse ou de PR difficile à traiter.",
+ "inclusion": ["Âge ≥ 18 ans, ECOG < 3", "Fonctions hématologique, hépatique et rénale suffisantes, dose de corticoïdes stable", "Vaccinations à jour, vaccin grippal annuel accepté, suivi de 15 ans accepté", "Contraception hautement efficace", "D2T-PR : PR (ACR/EULAR 2010), critères D2T de l'EULAR 2021, maladie active avec inflammation articulaire (DAS28-CRP)", "SSc diffuse (ACR/EULAR 2013), anticorps antinucléaires positifs, réponse insuffisante aux traitements de fond"],
+ "exclusion": ["Non précisé dans le résumé du registre"],
+ "bras": [{"nom": "Escalade de dose", "traitement": "QEL-005, perfusion unique, trois niveaux de dose, au moins 3 patients par niveau"}, {"nom": "Expansion de dose", "traitement": "QEL-005 à la dose retenue après l'escalade"}],
+ "duree": "52 semaines de suivi (suivi long terme de 15 ans)",
+ "critere": "Toxicités limitantes jusqu'à 28 jours, événements indésirables (dont d'intérêt particulier) et anomalies biologiques, ECG et constantes jusqu'à la semaine 52."
+}

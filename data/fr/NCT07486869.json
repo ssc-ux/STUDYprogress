@@ -1,0 +1,31 @@
+{
+ "h": "90236919cf07",
+ "date": "2026-11-14",
+ "titre": "Émapalumab dans la PID rapidement progressive de la dermatomyosite anti-MDA5",
+ "question": "L'émapalumab, anti-interféron gamma, améliore-t-il la PID rapidement progressive des patients anti-MDA5 positifs ?",
+ "contexte": "La dermatomyosite anti-MDA5 se complique souvent d'une PID rapidement progressive (PID-RP), dont la mortalité est très élevée malgré les corticoïdes, les inhibiteurs de la calcineurine et le cyclophosphamide. Elle partage avec le syndrome d'activation macrophagique (SAM) une hyperferritinémie et une activation macrophagique, avec une signature interféron et une production d'interféron gamma.\n\nL'émapalumab est un anticorps neutralisant l'interféron gamma, utilisé dans la lymphohistiocytose hémophagocytaire primitive et le SAM. Cette étude de preuve de concept de phase 2 de l'University of Miami est à bras unique et compte 5 patients. Elle teste 12 semaines d'émapalumab IV (6 mg/kg à J1, puis 3 mg/kg tous les 3 jours pendant 2 semaines, puis deux fois par semaine pendant 2 semaines) chez des patients anti-MDA5 avec PID progressive et ferritine élevée.",
+ "interet": "L'étude teste une piste physiopathologique (blocage de l'interféron gamma) dans une forme très grave sans traitement validé. Le faible effectif ne permettra que des signaux préliminaires.",
+ "profil": "Des adultes anti-MDA5 positifs avec PID progressive et ferritine élevée.",
+ "inclusion": [
+  "PID progressive : au moins 2 critères sur 4 (symptômes respiratoires, besoin en oxygène, scanner, CVF ou DLCO)",
+  "Anticorps anti-MDA5 présents",
+  "Ferritine supérieure à la limite supérieure de la normale",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Infection bactérienne, mycobactérienne ou fongique active non traitée",
+  "Zona actif",
+  "Besoin actuel d'ECMO",
+  "Refus de participer",
+  "Grossesse",
+  "Détenus"
+ ],
+ "bras": [
+  {
+   "nom": "Émapalumab",
+   "traitement": "6 mg/kg IV à J1, puis 3 mg/kg tous les 3 jours pendant 2 semaines, puis 3 mg/kg deux fois par semaine pendant 2 semaines (traitement jusqu'à 12 semaines)"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation du besoin en oxygène (inclusion, 4 et 12 semaines), de la CVF et de la DLCO (12 semaines) et des condensations au scanner thoracique."
+}

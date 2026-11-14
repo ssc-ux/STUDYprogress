@@ -1,0 +1,35 @@
+{
+ "h": "a559b2a9ec96",
+ "date": "2026-11-14",
+ "titre": "Électrostimulation musculaire du corps entier chez des adultes atteints de maladies neuromusculaires",
+ "question": "Un programme d'électrostimulation musculaire du corps entier améliore-t-il la fonction neuromusculaire et physique d'adultes atteints de maladies neuromusculaires ?",
+ "contexte": "Les patients atteints de maladies neuromusculaires (SLA, amyotrophie spinale, myasthénie, Charcot-Marie-Tooth, myosite à inclusions, etc.) tolèrent mal l'exercice classique à cause de l'atteinte des unités motrices. Ils tendent à la sédentarité et au déconditionnement, ce qui aggrave leur état.\n\nL'électrostimulation musculaire du corps entier (WB-EMS) provoque des contractions directement par des courants appliqués, sans dépendre de la commande volontaire. Cet essai pilote à bras unique de l'University of Missouri utilise le système Katalyst, dispositif autorisé par la FDA mais employé ici hors indication. Jusqu'à 50 adultes font des séances supervisées de 20 minutes, 1 à 2 fois par semaine pendant 4 à 8 semaines. Les effets sont mesurés par stimulation magnétique transcrânienne, électromyographie, vitesse de marche, force et questionnaires de fatigue, douleur et qualité de vie.",
+ "interet": "L'étude évalue la faisabilité et la tolérance de cette modalité d'exercice et fournira des données préliminaires pour de futurs essais plus larges.",
+ "profil": "Des adultes atteints d'une maladie neuromusculaire (SLA, SMA, myasthénie, CMT, myosite à inclusions, etc.) capables de rester debout 15 minutes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Maladie neuromusculaire listée (SLA, SMA, myasthénie, CMT, PIDC, myosite à inclusions, maladie de Pompe, etc.)",
+  "Station debout continue d'environ 15 minutes possible, avec ou sans aide",
+  "Force anti-gravité (≥ 2+/5) aux principaux groupes musculaires",
+  "Autorisation médicale pour un programme d'exercice",
+  "Consentement éclairé et capacité à suivre le protocole"
+ ],
+ "exclusion": [
+  "Dystrophie de Duchenne, de Becker, des ceintures, myotonique, ataxie de Friedreich ou atteinte cardiaque",
+  "Pacemaker, implants métalliques ou autres dispositifs implantés",
+  "Contre-indication à la stimulation magnétique transcrânienne (implant cochléaire, épilepsie récente, etc.)",
+  "Maladie instable (insuffisance rénale, arythmie, hypertension non contrôlée, cancer)",
+  "Grossesse, maladie terminale",
+  "Prise de substances influençant la masse musculaire (anabolisants, GH) dans les 6 mois",
+  "Autre atteinte neurologique (Parkinson, SEP, AVC, traumatisme médullaire)",
+  "Participation à une autre étude interventionnelle"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes avec maladie neuromusculaire",
+   "traitement": "WB-EMS (Katalyst), séances supervisées de 20 minutes, 1 à 2 fois par semaine pendant 4 à 8 semaines"
+  }
+ ],
+ "duree": "Environ 11 semaines",
+ "critere": "Variation, entre l'inclusion et après 4 semaines d'intervention (semaines 6 et 11), de la fréquence de décharge des unités motrices (EMG), des potentiels évoqués moteurs (TMS), de l'amplitude du potentiel d'action musculaire composé et des tests fonctionnels chronométrés."
+}

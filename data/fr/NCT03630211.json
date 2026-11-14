@@ -1,0 +1,14 @@
+{
+ "h": "45d128cd0f50",
+ "date": "2026-11-14",
+ "titre": "Autogreffe de cellules souches CD34+ sélectionnées dans la sclérodermie systémique résistante au traitement",
+ "question": "Un conditionnement immunoablatif à haute dose suivi d'une autogreffe CD34+ est-il sûr et efficace dans la sclérodermie systémique résistante ?",
+ "contexte": "La sclérodermie systémique diffuse sévère, avec progression cutanée, pneumopathie interstitielle ou atteinte musculaire, a un pronostic réservé malgré les traitements. L'autogreffe de cellules souches hématopoïétiques a montré un bénéfice de survie dans des essais randomisés, mais au prix d'une mortalité liée au traitement non négligeable, notamment cardiaque, pulmonaire et rénale.\n\nCet essai de phase 2 ouvert, promu par le Dr Paul Szabolcs (trois centres, États-Unis), teste une greffe de cellules souches périphériques autologues sélectionnées sur CD34 (dispositif CliniMACS), ce qui déplète le greffon en lymphocytes T, B et NK et en monocytes potentiellement pathogènes. Le conditionnement associe cyclophosphamide, rituximab, alemtuzumab, thiotépa, irradiation corporelle totale et sérum antilymphocytaire, avec GM-CSF et immunoglobulines IV. Il vise à éradiquer les clones autoréactifs en maximisant la sécurité. Les patients, âgés de 8 à 60 ans, sont inclus après échec d'au moins deux traitements de fond ; les enfants et jeunes adultes de 8 à 24 ans forment une cohorte distincte. L'effet est comparé à une cohorte observationnelle traitée par mycophénolate mofétil.",
+ "interet": "L'étude cherche un conditionnement plus sûr que ceux déjà publiés tout en préservant l'efficacité. L'effectif prévu est de 8 patients, ce qui limite la portée des résultats.",
+ "profil": "Des enfants, adolescents et adultes (8 à 60 ans) atteints de sclérodermie systémique résistante aux traitements.",
+ "inclusion": ["Cohorte pédiatrique : âge 8-24 ans, sclérodermie diagnostiquée avant 19 ans", "Échec d'au moins 2 traitements de fond en 12 mois", "Signes de gravité : mRSS ≥ 20 ou progression cutanée, progression de la PID (scanner ou baisse de CVF/DLCO ≥ 10 %), myosite, arthrite ou ulcères digitaux", "Accord cardiologique pour la greffe", "VIH, VHB et VHC négatifs en PCR", "Consentement (ou assentiment) éclairé"],
+ "exclusion": ["Non précisé dans l'extrait disponible du registre"],
+ "bras": [{ "nom": "Autogreffe CD34+ sélectionnée", "traitement": "Mobilisation (cyclophosphamide, G-CSF), conditionnement (rituximab, alemtuzumab, thiotépa, irradiation corporelle totale, sérum antilymphocytaire), greffe CD34+, GM-CSF, immunoglobulines IV" }],
+ "duree": "Suivi jusqu'à 36 mois après la greffe",
+ "critere": "Sécurité (décès, insuffisance respiratoire ou rénale, cardiomyopathie, mortalité liée au traitement) et effet (survie sans événement), jusqu'à 36 mois après la greffe."
+}

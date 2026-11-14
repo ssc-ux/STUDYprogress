@@ -1,0 +1,14 @@
+{
+ "h": "1b2c9c04ba3f",
+ "date": "2026-11-14",
+ "titre": "XmAb657 en première administration chez l'homme : volontaires sains et maladies auto-immunes",
+ "question": "L'anticorps XmAb657 est-il sûr et bien toléré chez des volontaires sains et des patients avec myosite, sclérodermie ou syndrome de Sjögren ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques, la sclérodermie systémique et le syndrome de Sjögren restent difficiles à traiter. Les options immunosuppressives actuelles sont souvent insuffisantes. De nouveaux anticorps bispécifiques ou modulateurs de l'immunité sont à l'étude.\n\nXmAb657 est un anticorps développé par Xencor, administré par voie sous-cutanée. Sa cible n'est pas précisée dans le registre. Cet essai de phase 1 de première administration chez l'homme est ouvert avec escalade de dose chez environ 60 participants, volontaires sains et patients atteints des trois maladies citées. Il évalue la sécurité, la tolérance, la pharmacocinétique, la pharmacodynamie et l'immunogénicité.",
+ "interet": "Étude très précoce : elle déterminera la tolérance et les doses utilisables, sans résultat d'efficacité attendu. Elle servira à décider d'un développement dans ces maladies.",
+ "profil": "Des adultes de 18 à 75 ans, volontaires sains ou atteints de myosite, de sclérodermie systémique ou de syndrome de Sjögren.",
+ "inclusion": ["Adulte de 18 à 75 ans en bonne santé (volontaires sains)", "Myopathie inflammatoire selon les critères EULAR/ACR 2017", "Sclérodermie systémique selon les critères ACR/EULAR 2013", "Syndrome de Sjögren primitif selon les critères ACR/EULAR 2016", "Contraception hautement efficace"],
+ "exclusion": ["Chirurgie majeure dans les 12 semaines avant l'administration", "Infections récurrentes ou infection active significative", "Tuberculose latente non traitée ou active", "Cancer ou maladie lymphoproliférative dans les 5 ans", "Maladie cardiovasculaire, pulmonaire, rénale, hépatique, endocrinienne ou digestive non contrôlée"],
+ "bras": [{"nom": "Escalade de dose", "traitement": "XmAb657 par voie sous-cutanée, doses non précisées"}],
+ "duree": "52 semaines",
+ "critere": "Proportion de participants avec événements indésirables apparus sous traitement et événements indésirables graves, jusqu'à la semaine 52"
+}

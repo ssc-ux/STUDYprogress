@@ -1,0 +1,14 @@
+{
+ "h": "0b1e1e69c60b",
+ "date": "2026-11-14",
+ "titre": "Mécanismes physiopathologiques de l'initiation et de la progression de la sclérodermie systémique",
+ "question": "Quelles variants génétiques rares et quelles voies cellulaires dérégulées sous-tendent l'apparition et la progression de la sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (SSc) est une maladie rare associant vasculopathie, auto-immunité et fibrose. Ses mécanismes d'initiation et de progression restent mal compris, ce qui limite le développement de traitements ciblés.\n\nDes formes familiales de SSc ont permis d'identifier des gènes et des voies candidats. L'étude de l'Université catholique de Louvain (Bruxelles) cherche à savoir si des variants rares de ces gènes existent aussi chez des patients atteints de formes sporadiques.\n\nQuinze adultes de 18 à 80 ans avec SSc limitée ou diffuse, suivis en consultation dans le centre, subissent une biopsie cutanée. Les analyses combinent transcriptomique (y compris spatiale) et protéomique de la peau avec ou sans fibrose, et tests fonctionnels sur cellules vivantes issues du sang et de la peau (aspect, comportement, fonction).",
+ "interet": "L'étude vise à mieux comprendre la biologie de la SSc et à proposer des cibles. Elle est purement mécanistique et sans impact direct sur la pratique.",
+ "profil": "Des adultes de 18 à 80 ans atteints de SSc limitée ou diffuse, suivis en consultation.",
+ "inclusion": ["SSc limitée, cutanée limitée ou cutanée diffuse", "Suivi régulier en consultation dans le centre", "Âge de 18 à 80 ans"],
+ "exclusion": ["Autre maladie auto-immune ou auto-inflammatoire associée", "Grossesse", "Incapacité temporaire ou définitive à consentir", "Impossibilité de lire ou signer le consentement"],
+ "bras": [{"nom": "PathSSc", "traitement": "Biopsie cutanée et prélèvement sanguin pour analyses génétiques, transcriptomiques, protéomiques et fonctionnelles"}],
+ "duree": "Environ 5 ans (durée de l'étude)",
+ "critere": "Identification de variants rares dans des gènes et voies candidats chez les patients (sang et biopsie cutanée), sur environ 5 ans."
+}

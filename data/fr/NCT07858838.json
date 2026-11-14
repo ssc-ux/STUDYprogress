@@ -1,0 +1,14 @@
+{
+ "h": "7667c6f651df",
+ "date": "2026-11-14",
+ "titre": "Télé-rééducation de la main assistée par caméra et IA dans la sclérodermie",
+ "question": "Un programme d'exercices des mains suivi par caméra et intelligence artificielle est-il aussi efficace qu'une rééducation supervisée par un kinésithérapeute dans la sclérodermie ?",
+ "contexte": "L'atteinte des mains est fréquente et handicapante dans la sclérodermie systémique : fibrose cutanée, rétraction des doigts, perte de mobilité et de force de préhension, retentissement sur les activités quotidiennes et sur le moral. Les exercices guidés par un kinésithérapeute sont recommandés, mais l'accès à une rééducation régulière en présentiel est limité.\n\nLa télé-rééducation par caméra standard, avec suivi des mouvements par intelligence artificielle sans capteurs ni marqueurs, pourrait faciliter la pratique à domicile. Cette étude de l'Université d'Istanbul-Cerrahpaşa compare, chez 40 patients, ce système à une rééducation en présentiel. Les deux groupes suivent pendant 8 semaines un programme identique : renforcement isométrique, glissement des tendons fléchisseurs et extenseurs, étirements actifs et passifs. L'hypothèse est une efficacité similaire ou supérieure sur la mobilité, la force de préhension et la qualité de vie.",
+ "interet": "Si l'efficacité est équivalente, la télé-rééducation pourrait élargir l'accès aux exercices de la main. L'étude est de petite taille et monocentrique.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie systémique avec limitation de la mobilité des mains.",
+ "inclusion": ["ScS selon les critères ACR/EULAR 2013", "Limitation significative de la mobilité des mains et des doigts gênant les activités quotidiennes", "Âge de 18 à 65 ans", "Traitement stable depuis 3 mois (DMARD, vasodilatateurs, immunosuppresseurs)", "Ordinateur ou appareil avec webcam et connexion internet stable"],
+ "exclusion": ["Ulcères digitaux sévères (grade ≥ 3), gangrène, ischémie sévère ou infection de la main", "Chirurgie orthopédique majeure du membre supérieur dans l'année", "Maladie neurologique affectant la main (neuropathie sévère, AVC, Parkinson, radiculopathie cervicale, SLA)", "Arthrose ou polyarthrite sévère des mains", "Atteinte cardiopulmonaire avancée (HTAP, PID) contre-indiquant l'exercice", "Impossibilité de suivre le protocole de 8 semaines"],
+ "bras": [{"nom": "Télé-rééducation assistée par IA", "traitement": "Exercices de la main pendant 8 semaines avec caméra et suivi par IA sans marqueurs"}, {"nom": "Rééducation supervisée", "traitement": "Même programme d'exercices pendant 8 semaines, en présentiel avec kinésithérapeute"}],
+ "duree": "8 semaines",
+ "critere": "Mobilité de la main dans la sclérodermie (score HAMIS), de l'inclusion à la fin du traitement à 8 semaines"
+}

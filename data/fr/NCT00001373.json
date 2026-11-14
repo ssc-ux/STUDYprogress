@@ -1,0 +1,36 @@
+{
+ "h": "d1d6e116879d",
+ "date": "2026-11-14",
+ "titre": "Génétique et caractéristiques cliniques de la FMF et des maladies auto-inflammatoires apparentées",
+ "question": "Quelles sont les bases génétiques et la physiopathologie des maladies auto-inflammatoires, connues ou non encore diagnostiquées ?",
+ "contexte": "Les maladies auto-inflammatoires comprennent la fièvre méditerranéenne familiale (FMF), le syndrome TRAPS, le déficit en mévalonate kinase (syndrome hyper-IgD) et de nombreuses entités plus rares ou nouvellement décrites. Beaucoup n'ont pas encore de cause génétique identifiée, et certains patients restent sans diagnostic précis.\n\nCette étude d'histoire naturelle exploratoire, ouverte depuis 1994 et promue par le NHGRI (États-Unis), inclut trois groupes : patients avec une maladie auto-inflammatoire connue ou suspectée, apparentés et volontaires sains. Elle recueille du sang, de la salive ou des cellules buccales pour des analyses génétiques (gènes ciblés ou séquençage plus large), des études immunologiques et fonctionnelles, et parfois des biopsies cutanées, une leucaphérèse ou un myélogramme.\n\nLes patients bénéficient d'un suivi, environ tous les 6 mois, avec conseil génétique et information sur les options thérapeutiques. Les données cliniques font l'objet d'une analyse rétrospective.",
+ "interet": "Cette cohorte a pour finalité de découvrir de nouveaux gènes et mécanismes des maladies inflammatoires. Elle contribue à mieux caractériser des maladies rares ou mal définies.",
+ "profil": "Des patients atteints de maladies auto-inflammatoires connues ou suspectées, leurs apparentés et des volontaires sains.",
+ "inclusion": [
+  "Patients : volonté de participer (au minimum, envoi d'un échantillon pour analyse génétique)",
+  "Patients : âge d'au moins 1 mois",
+  "Patients : histoire médicale compatible avec une maladie auto-inflammatoire, selon l'équipe",
+  "Apparentés : lien de sang ou d'alliance avec un patient inclus",
+  "Volontaires sains : âge d'au moins 1 an, non enceinte",
+  "Consentement éclairé écrit (ou de son représentant)"
+ ],
+ "exclusion": [
+  "Pathologie susceptible de brouiller l'interprétation de l'étude, selon les investigateurs (tous groupes)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Patients atteints de maladies auto-inflammatoires : prélèvements, analyse génétique, suivi"
+  },
+  {
+   "nom": "Apparentés",
+   "traitement": "Membres de la famille des patients"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Entretien de santé et prélèvement sanguin"
+  }
+ ],
+ "duree": "Suivi environ tous les 6 mois ; durée totale non précisée",
+ "critere": "Découverte de variants génétiques associés aux maladies inflammatoires (liaison génétique), évaluée annuellement."
+}

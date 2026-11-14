@@ -1,0 +1,32 @@
+{
+ "h": "c4de562065db",
+ "date": "2026-11-14",
+ "titre": "Hypnothérapie contre la douleur et l'anxiété liées aux piqûres chez l'enfant atteint de maladie rhumatismale",
+ "question": "L'hypnothérapie réduit-elle l'anxiété et la douleur lors des gestes avec aiguille chez des enfants suivis pour une maladie rhumatismale ?",
+ "contexte": "Les enfants atteints d'arthrite juvénile idiopathique, de lupus ou de dermatomyosite juvénile subissent des prises de sang et des injections répétées, dont des biothérapies sous-cutanées. Ces gestes sont source de détresse, d'anxiété anticipatoire et parfois d'évitement des soins. La prise en charge de la douleur repose surtout sur des méthodes pharmacologiques (anesthésiques locaux), avec des risques et des effets indésirables.\n\nL'hypnothérapie est une méthode non médicamenteuse déjà utilisée contre la douleur procédurale chez l'enfant. Cet essai randomisé non aveugle d'Aarhus University Hospital compare des séances d'hypnose adaptées à l'âge, menées par des hypnothérapeutes certifiés, à la prise en charge habituelle. Il évalue l'anxiété et la douleur avant, pendant et juste après le geste avec des échelles validées. Environ 70 enfants sont prévus.",
+ "interet": "Si l'hypnothérapie est efficace, elle pourrait améliorer le vécu des soins répétés en rhumatologie pédiatrique et limiter le recours aux antalgiques.",
+ "profil": "Des enfants de 6 à 18 ans atteints d'arthrite juvénile, de lupus ou de dermatomyosite juvénile, devant subir une piqûre ou une prise de sang.",
+ "inclusion": [
+  "Âge de 6 à 18 ans",
+  "Geste douloureux prévu (injection ou prélèvement sanguin)",
+  "Consentement des parents ou représentants légaux"
+ ],
+ "exclusion": [
+  "Antécédent de trouble psychiatrique ou déficience cognitive",
+  "Enfant incapable de comprendre ou de suivre une séance d'hypnose",
+  "Contre-indication à l'hypnothérapie",
+  "Cancer diagnostiqué"
+ ],
+ "bras": [
+  {
+   "nom": "Hypnothérapie",
+   "traitement": "Séances d'hypnose adaptées à l'âge par un hypnothérapeute certifié"
+  },
+  {
+   "nom": "Groupe contrôle",
+   "traitement": "Prise en charge habituelle de la douleur pendant le geste"
+  }
+ ],
+ "duree": "Non précisé (évaluation autour d'un geste)",
+ "critere": "Niveau d'anxiété et intensité de la douleur avant, pendant et immédiatement après le geste."
+}

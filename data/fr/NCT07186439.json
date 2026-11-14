@@ -1,0 +1,14 @@
+{
+ "h": "66c546c16053",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'hypertension pulmonaire chez les patients atteints de sclérodermie",
+ "question": "Quelle est la fréquence de l'hypertension pulmonaire détectée par échocardiographie chez des patients sclérodermiques ?",
+ "contexte": "La sclérodermie systémique est une maladie du tissu conjonctif marquée par la fibrose cutanée avec ou sans atteinte d'organe, impliquant des anomalies immunitaires, vasculaires et de la matrice extracellulaire. L'hypertension artérielle pulmonaire (HTAP) en est l'une des principales causes de mortalité, avec une prévalence d'environ 15 % selon les investigateurs et une mortalité élevée dans les 3 ans suivant le diagnostic.\n\nLes recommandations internationales conseillent un dépistage annuel chez les patients asymptomatiques. L'échocardiographie est l'outil de dépistage de référence. Selon les recommandations ESC/ERS, la probabilité d'hypertension pulmonaire se déduit de la vitesse maximale de régurgitation tricuspide (seuils 2,8 et 3,4 m/s) et de signes échographiques associés. Une probabilité intermédiaire haute ou haute conduit à un cathétérisme cardiaque droit. Cette étude de l'université d'Assiut (Égypte) applique ce dépistage chez environ 35 patients sclérodermiques.",
+ "interet": "L'étude devrait documenter la fréquence de l'hypertension pulmonaire dans une cohorte égyptienne et la faisabilité du dépistage échographique. Son faible effectif limite la portée des résultats.",
+ "profil": "Des adultes de 18 à 80 ans atteints de sclérodermie.",
+ "inclusion": ["Âge ≥ 18 ans", "Diagnostic confirmé de sclérodermie"],
+ "exclusion": ["Âge < 18 ans", "Refus de participer"],
+ "bras": [{"nom": "Patients sclérodermiques", "traitement": "Dépistage échocardiographique de l'hypertension pulmonaire"}],
+ "duree": "Évaluation à l'inclusion (mesure unique)",
+ "critere": "Dépistage de l'hypertension pulmonaire chez les patients sclérodermiques, à l'inclusion"
+}

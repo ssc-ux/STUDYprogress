@@ -1,0 +1,14 @@
+{
+ "h": "30e5336f4549",
+ "date": "2026-11-14",
+ "titre": "Mastication et déglutition chez les enfants et adultes atteints de sclérodermie",
+ "question": "Quelles sont les performances de mastication et de déglutition des patients atteints de sclérodermie, et quelles échelles permettent de les évaluer ?",
+ "contexte": "La sclérodermie touche la bouche et le tube digestif haut : microstomie, rigidité cutanée péribuccale, atteinte salivaire et dysphagie. Ces troubles altèrent l'alimentation et la qualité de vie, mais sont peu évalués de façon standardisée, surtout chez l'enfant.\n\nLes recommandations insistent sur une évaluation biopsychosociale globale, comprenant la fonction physique, la mastication et la déglutition.\n\nCette étude observationnelle de l'université Hacettepe (Ankara) inclura 50 enfants (7 à 18 ans) et adultes atteints de sclérodermie, systémique ou localisée, vus en consultation de rhumatologie. Elle utilise des questionnaires et des tests cliniques : PEDI-EAT-10 et T-EAT-10, tests TOMASS et TOMASS-C de mastication et de déglutition de solides, test de déglutition de 90 mL d'eau, ouverture buccale maximale, limite de dysphagie. Elle vise aussi à identifier les échelles utiles pour de futures recherches.",
+ "interet": "L'étude décrira les troubles de mastication et de déglutition de la sclérodermie et orientera le choix d'outils d'évaluation. Elle n'a pas d'effet direct sur la prise en charge.",
+ "profil": "Des enfants (7 à 18 ans) et adultes atteints de sclérodermie.",
+ "inclusion": ["Sclérodermie diagnostiquée", "Enfants de 7 à 18 ans ou adultes de plus de 18 ans"],
+ "exclusion": ["Maladie cardiaque, pulmonaire, hépatique ou rénale avancée, maladie neurologique ou cancer", "Programme d'exercice régulier dans les 3 derniers mois", "Refus de participer"],
+ "bras": [{"nom": "Enfants et adultes atteints de sclérodermie", "traitement": "Questionnaires et tests de mastication et de déglutition, sans intervention thérapeutique"}],
+ "duree": "Évaluation sur environ 2 semaines",
+ "critere": "Scores PEDI-EAT-10, T-EAT-10, TOMASS et TOMASS-C, test de déglutition de l'eau, ouverture buccale maximale et limite de dysphagie, sur deux semaines."
+}

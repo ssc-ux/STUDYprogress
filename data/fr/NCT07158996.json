@@ -1,0 +1,14 @@
+{
+ "h": "770944ebe1ab",
+ "date": "2026-11-14",
+ "titre": "Cizutamig dans la sclérodermie systémique : étude ouverte de phase 1",
+ "question": "Le cizutamig est-il sûr et bien toléré dans la sclérodermie systémique diffuse, et quel est son signal d'activité préliminaire ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse est une maladie auto-immune fibrosante, dont les options thérapeutiques restent limitées, notamment après échec des traitements habituels. Le rôle des lymphocytes B dans l'auto-immunité et la fibrose a conduit à tester la déplétion B, notamment par rituximab ou CAR-T anti-CD19.\n\nLe cizutamig est un anticorps biologique expérimental, étudié ici pour la première fois dans la sclérodermie. Le registre ne précise pas sa cible, et nous ne la détaillons pas. L'essai de phase 1 de l'hôpital Ruijin (Shanghai) est ouvert et monocentrique, sans comparateur. Il inclut 10 patients avec forme diffuse évoluant depuis 7 ans au plus, mRSS ≥ 15 et réponse insuffisante aux traitements précisés dans le protocole. Il évalue la tolérance, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'activité clinique préliminaire.",
+ "interet": "Il s'agit d'une première évaluation de sécurité chez l'humain dans cette indication. Aucune conclusion d'efficacité n'est possible avec 10 patients sans bras contrôle.",
+ "profil": "Des adultes de 18 à 75 ans atteints de sclérodermie systémique cutanée diffuse, en réponse insuffisante aux traitements.",
+ "inclusion": ["Âge de 18 à 75 ans", "Sclérodermie systémique selon les critères ACR/EULAR 2013, forme diffuse (LeRoy)", "Au moins un paramètre spécifique de la sclérodermie positif (selon protocole)", "Durée d'évolution ≤ 7 ans", "mRSS ≥ 15", "Réponse insuffisante aux traitements définis par le protocole"],
+ "exclusion": ["Biologie anormale au dépistage", "Traitements exclus non interrompus, vaccin vivant dans les 4 semaines", "Autre maladie auto-immune associée", "Nutrition parentérale totale, pseudo-obstruction intestinale ou pullulation bactérienne, ectasies vasculaires antrales gastriques", "Ischémie digitale avec gangrène, crise rénale sclérodermique", "Antécédent de leuco-encéphalopathie multifocale progressive, déficit immunitaire ou du complément, atteinte du système nerveux central", "Cancer dans les 5 ans"],
+ "bras": [{ "nom": "Cizutamig", "traitement": "Cizutamig, schéma posologique non précisé dans le registre, étude ouverte à bras unique" }],
+ "duree": "52 semaines",
+ "critere": "Fréquence et sévérité des événements indésirables survenus sous traitement, sur 52 semaines."
+}

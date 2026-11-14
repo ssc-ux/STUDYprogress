@@ -1,0 +1,14 @@
+{
+ "h": "926aeea7606a",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 ou CD19-BCMA dans les maladies auto-immunes systémiques actives",
+ "question": "Les CAR-T anti-CD19 ou anti-CD19/BCMA sont-ils sûrs et efficaces dans le lupus, la sclérodermie, les vascularites à ANCA, les myosites et le Sjögren actifs ?",
+ "contexte": "Lupus, sclérodermie, vascularites à ANCA, myopathies inflammatoires et syndrome de Sjögren primitif sont des maladies auto-immunes systémiques où lymphocytes B et plasmocytes jouent un rôle central. Les formes réfractaires aux immunosuppresseurs et biothérapies exposent à des atteintes d'organes graves.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B en profondeur et ont induit des rémissions prolongées dans de premières séries. L'ajout d'une cible BCMA vise les plasmocytes producteurs d'auto-anticorps, que le CD19 n'atteint pas. Cet essai de phase 1 ouvert, monocentrique, promu par l'industriel chinois Nanjing Bioheng Biotech, inclut 20 adultes de 18 à 70 ans traités par CAR-T CD19 ou CD19-BCMA (produits RD06-04 et RD06-05). Il évalue la tolérance, la pharmacocinétique, la pharmacodynamie et l'efficacité préliminaire, avec une exigence de fonctions d'organes conservées (FEVG ≥ 50 %, SpO2 ≥ 92 %).",
+ "interet": "L'étude fournira des données de tolérance sur deux produits CAR-T chinois dans plusieurs maladies auto-immunes. Elle ne comporte pas de comparateur.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, sclérodermie, vascularite à ANCA, myosite ou syndrome de Sjögren actifs.",
+ "inclusion": ["Âge de 18 à 70 ans, consentement signé", "Une maladie parmi lupus (critères EULAR/ACR 2019 ou SLICC 2012), sclérodermie, vascularite à ANCA, myosite ou Sjögren, active", "ALAT et ASAT ≤ 3 N, bilirubine ≤ 2 N, créatininémie ≤ 1,5 N ou clairance ≥ 40 mL/min", "Polynucléaires ≥ 1 G/L, hémoglobine ≥ 60 g/L, plaquettes ≥ 20 G/L", "SpO2 ≥ 92 % et FEVG ≥ 50 %", "Contraception efficace jusqu'à 12 mois après la perfusion"],
+ "exclusion": ["Non précisé dans l'extrait disponible du registre"],
+ "bras": [{ "nom": "CAR-T", "traitement": "CAR-T anti-CD19 ou anti-CD19/BCMA (RD06-04 ; RD06-05), bras unique ouvert" }],
+ "duree": "2 ans",
+ "critere": "Incidence des événements indésirables survenus sous traitement, graves, et d'intérêt particulier, sur 2 ans."
+}

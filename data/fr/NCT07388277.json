@@ -1,0 +1,34 @@
+{
+ "h": "b4aa5c6842f1",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes CAR-T anti-CD19 (CC-97540) dans les vascularites à ANCA réfractaires ou en rechute",
+ "question": "Les CAR-T anti-CD19 CC-97540 sont-ils sûrs et efficaces dans les vascularites à ANCA sévères en rechute ou réfractaires ?",
+ "contexte": "Les vascularites à ANCA (GPA, PAM) sont traitées par corticoïdes et rituximab ou cyclophosphamide, puis entretien. Une proportion importante de patients rechute ou reste réfractaire, avec une toxicité cumulée des traitements et des séquelles rénales, pulmonaires ou ORL.\n\nLes lymphocytes B producteurs d'ANCA sont au cœur de la maladie. Le rituximab les déplète de façon partielle, notamment dans les tissus. Les CAR-T anti-CD19 induisent une déplétion B profonde et ont donné des rémissions prolongées sans traitement dans le lupus et d'autres maladies auto-immunes.\n\nLe CC-97540 (BMS-986353) est un produit de CAR-T anti-CD19 de nouvelle génération (NEX-T). Cet essai de phase 1/2, ouvert, monocentrique, mené au Massachusetts General Hospital, comporte une phase de sécurité (partie A) pour confirmer la dose, puis une phase d'expansion (partie B). Les patients reçoivent une lymphodéplétion par cyclophosphamide et fludarabine, puis une perfusion unique de CAR-T à J0. Environ 12 patients sont prévus.",
+ "interet": "L'étude fournira les premières données de sécurité et d'efficacité de ce CAR-T dans les vascularites à ANCA. Ces traitements restent expérimentaux, lourds et réservés à des centres spécialisés.",
+ "profil": "Des adultes ayant une GPA ou une PAM à ANCA, en rechute ou réfractaire malgré un traitement standard.",
+ "inclusion": [
+  "Âge ≥ 18 ans, GPA ou PAM (critères ACR/EULAR 2022) avec anticorps anti-PR3/MPO ou profil c/pANCA (actuel ou antérieur)",
+  "Maladie active dans les 6 semaines : rechute (BVAS v3 > 0 après rémission) ou réfractaire (≥ 6 semaines de traitement adapté)",
+  "Traitement standard préalable : rituximab ou cyclophosphamide (formes sévères), méthotrexate ou azathioprine (formes non sévères)",
+  "FEVG > 45 %, ASAT/ALAT < 2,5 N, bilirubine directe < 1,5 N, clairance de la créatinine > 30 mL/min",
+  "Lymphocytes ≥ 300/µL, hémoglobine ≥ 8 g/dL, plaquettes ≥ 75 000/µL",
+  "Contraception efficace jusqu'à 12 mois après la perfusion"
+ ],
+ "exclusion": [
+  "Anticorps anti-membrane basale glomérulaire, vascularite d'origine médicamenteuse ou liée à la cocaïne/lévamisole",
+  "Rituximab ou autre déplétion B pour la rechute en cours",
+  "Maladie neurologique (Parkinson, épilepsie, aphasie, atteinte cérébelleuse)",
+  "Greffe d'organe sous immunosuppresseurs, CAR-T antérieur, cancer actif",
+  "Infection active non contrôlée, insuffisance cardiaque III-IV, cardiomyopathie non ischémique, événement coronarien récent",
+  "Neutrophiles < 500/µL, risque hémorragique élevé, embolie pulmonaire ou TVP récente sous anticoagulant",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CC-97540",
+   "traitement": "Lymphodéplétion (cyclophosphamide + fludarabine IV) puis CAR-T anti-CD19 en perfusion unique à J0"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois après la perfusion",
+ "critere": "Sécurité et efficacité du CC-97540, du J0 à 28 jours puis jusqu'à 12 mois"
+}

@@ -1,0 +1,37 @@
+{
+ "h": "b773580c1a0b",
+ "date": "2026-11-14",
+ "titre": "NM8074 en association au traitement standard dans les vascularites à ANCA",
+ "question": "L'ajout de NM8074 au traitement standard améliore-t-il la réponse (baisse du BVAS d'au moins 50 %) à J85 dans les vascularites à ANCA ?",
+ "contexte": "Les vascularites à ANCA (GPA, PAM, forme rénale pure) sont traitées par corticoïdes associés au rituximab ou au cyclophosphamide. Les rechutes et la toxicité des corticoïdes restent importantes, et le recours aux corticoïdes à forte dose a été réduit par l'avacopan, antagoniste du récepteur C5a.\n\nLa voie alterne du complément est activée dans les vascularites à ANCA : les ANCA activent les neutrophiles, qui libèrent des facteurs amplifiant la voie alterne, avec production de C5a et lésions endothéliales, en particulier dans le rein.\n\nLe NM8074 est un anticorps monoclonal dirigé contre le fragment Bb du facteur B, qui bloque spécifiquement la voie alterne en préservant la voie classique (défense contre les infections). Il est développé par NovelMed Therapeutics.\n\nCette étude de phase 2, randomisée en double aveugle contre placebo, inclura 12 patients (6 par groupe) ayant une AAV nouvellement diagnostiquée ou en rechute nécessitant du cyclophosphamide ou du rituximab. Le NM8074 20 mg/kg ou le placebo est administré toutes les 2 semaines en association au traitement standard. Une vaccination préalable (méningocoque, pneumocoque, Hib) est exigée.",
+ "interet": "Il s'agit d'une première évaluation de ce nouvel inhibiteur de la voie alterne en association au traitement standard. Avec seulement 12 patients, elle vise surtout la tolérance et un signal d'efficacité.",
+ "profil": "Des adultes ayant une GPA, une PAM ou une vascularite rénale pure à ANCA, nouvellement diagnostiquée ou en rechute.",
+ "inclusion": [
+  "Âge ≥ 18 ans, GPA, PAM ou vascularite à ANCA limitée au rein",
+  "Maladie nouvelle ou en rechute nécessitant cyclophosphamide ou rituximab",
+  "BVAS : ≥ 1 item majeur, ou ≥ 3 items non majeurs, ou protéinurie et hématurie",
+  "DFGe ≥ 20 mL/min et ANCA positifs (IFI ou ELISA anti-PR3/MPO)",
+  "Vaccination antiméningococcique (ACWY, B), antipneumococcique et anti-Hib",
+  "Contraception efficace pendant et après le traitement"
+ ],
+ "exclusion": [
+  "Forme sévère : hémorragie alvéolaire, hémoptysie, mononévrite aiguë, atteinte du SNC, glomérulonéphrite rapidement progressive",
+  "Autre maladie auto-immune systémique (EGPA, lupus, IgA, Sjögren, anti-MBG, cryoglobulinémie)",
+  "Dialyse ou échanges plasmatiques dans les 12 semaines, greffe rénale ou maladie rénale",
+  "Cyclophosphamide < 12 semaines, rituximab < 52 semaines (ou 26 si reconstitution B), anti-TNF ou autre inhibiteur du complément",
+  "Corticoïdes IV > 3 000 mg de méthylprednisolone ou prednisone > 10 mg/j prolongée",
+  "Infection active, immunodéficience, greffe, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "NM8074",
+   "traitement": "20 mg/kg toutes les 2 semaines + traitement standard (cyclophosphamide/azathioprine ou rituximab, corticoïdes)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo toutes les 2 semaines + même traitement standard"
+  }
+ ],
+ "duree": "Environ 85 jours de traitement et d'évaluation",
+ "critere": "Proportion de patients en réponse au jour 85 (baisse du BVAS d'au moins 50 % par rapport à l'inclusion)"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "dd1150c010a4",
+ "date": "2026-11-14",
+ "titre": "Hyaluronidase intradermique dans la sclérodactylie : étude pilote contrôlée main contre main",
+ "question": "Des injections intradermiques de hyaluronidase améliorent-elles la mobilité de la main traitée par rapport à la main controlatérale non traitée dans la sclérodermie ?",
+ "contexte": "La sclérodactylie, épaississement et tension cutanée des doigts, gêne la flexion, l'extension et l'usage de la main chez de nombreux patients atteints de sclérodermie systémique. Aucun traitement local n'a démontré d'efficacité sur la mobilité digitale.\n\nLa hyaluronidase dégrade l'acide hyaluronique de la matrice extracellulaire, avec une bonne tolérance en dermatologie. L'activité de cette enzyme serait réduite dans la peau sclérodermique, ce qui pourrait entretenir la fibrose. Cette étude pilote de Stanford inclut environ 10 adultes ayant une sclérodactylie bilatérale. Une main, tirée au sort à pile ou face, reçoit des injections intradermiques d'hyaluronidase (Amphadase) à l'inclusion puis aux mois 1, 2 et 3, la main opposée servant de contrôle non traité. Les deux mains reçoivent les mêmes conseils d'exercices à domicile. L'évaluateur de la mobilité est en aveugle. Le critère compare la variation du score mHAMIS entre les deux mains.",
+ "interet": "Le schéma main contre main permet à chaque patient d'être son propre contrôle avec un petit effectif. Il fournira des estimations pour un essai randomisé ultérieur.",
+ "profil": "Des adultes atteints de sclérodermie avec sclérodactylie bilatérale.",
+ "inclusion": ["Âge de 18 ans ou plus", "Diagnostic documenté de sclérodermie", "Sclérodactylie bilatérale cliniquement évidente", "Capacité à respecter les visites et évaluations", "Consentement écrit"],
+ "exclusion": ["Sclérodactylie bilatérale insuffisante pour permettre le traitement et la comparaison", "Hypersensibilité connue à la hyaluronidase", "Infection active ou inflammation aiguë au site d'injection", "Grossesse en cours ou prévue", "Refus de participer"],
+ "bras": [{ "nom": "Main gauche traitée, main droite contrôle", "traitement": "Hyaluronidase intradermique (jusqu'à 4 séances mensuelles) dans la main gauche" }, { "nom": "Main droite traitée, main gauche contrôle", "traitement": "Hyaluronidase intradermique (jusqu'à 4 séances mensuelles) dans la main droite" }],
+ "duree": "6 mois",
+ "critere": "Différence entre les mains de la variation du score mHAMIS (mobilité de la main dans la sclérodermie) par rapport à l'inclusion, aux mois 1, 2, 3 et 6."
+}

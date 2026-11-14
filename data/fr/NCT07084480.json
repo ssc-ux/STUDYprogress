@@ -1,0 +1,30 @@
+{
+ "h": "01342a24e8f0",
+ "date": "2026-11-14",
+ "titre": "Cohorte de Wurtzbourg : événements aortiques et médecine de précision dans l'ACG et la PPR",
+ "question": "L'imagerie régulière permet-elle de mieux évaluer le risque d'événements aortiques à long terme après un diagnostic d'ACG ?",
+ "contexte": "L'ACG expose à des complications aortiques tardives (anévrisme, dissection) et à des effets indésirables cumulés de la corticothérapie prolongée. Le suivi au-delà des premières années reste mal documenté, et la maladie est cliniquement hétérogène, de même que la PPR qui lui est souvent associée.\n\nCette cohorte non interventionnelle du CHU de Wurtzbourg suit des patients atteints d'ACG ou de PPR, déjà connus du service ou nouvellement diagnostiqués, sur 5 à 10 ans. Elle associe imagerie moderne, examen clinique standardisé, marqueurs sérologiques et immunophénotypage pour définir des profils de patients (clusters).\n\nElle évalue aussi l'apport de l'IRM orbitaire avec fond d'œil et OCT pour détecter les manifestations ischémiques, une IRM économisant 25 % de produit de contraste, et la recherche de populations lymphocytaires rares prédictives de rechute.",
+ "interet": "L'étude pourrait préciser quels patients bénéficient d'une surveillance aortique régulière, identifier des facteurs pronostiques et décrire la toxicité des corticoïdes à 5 ans. Elle pourrait aussi ouvrir la voie à une stratification pour individualiser le traitement.",
+ "profil": "Des adultes avec un diagnostic initial d'ACG ou de PPR, déjà suivis ou nouvellement pris en charge.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic initial d'ACG ou de PPR"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Incapacité à consentir",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients déjà connus",
+   "traitement": "Patients suivis en consultation de rhumatologie, déjà sous immunosuppresseurs"
+  },
+  {
+   "nom": "Nouveaux patients",
+   "traitement": "Patients non encore pris en charge, de préférence naïfs d'immunosuppresseurs"
+  }
+ ],
+ "duree": "Suivi de 5 à 10 ans",
+ "critere": "Incidence des événements indésirables aortiques sur 5 ans"
+}

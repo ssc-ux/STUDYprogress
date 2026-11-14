@@ -1,0 +1,14 @@
+{
+ "h": "46fe69b10b1a",
+ "date": "2026-11-14",
+ "titre": "GB261 dans la sclérodermie systémique diffuse : étude de phase 1",
+ "question": "GB261 est-il sûr et bien toléré chez des patients atteints de sclérodermie systémique diffuse ?",
+ "contexte": "La sclérodermie systémique (SSc) diffuse récente est la forme la plus sévère sur le plan cutané et viscéral. Malgré le mycophénolate, le tocilizumab ou le rituximab, une partie des patients progresse, et la greffe de cellules souches comporte des risques importants.\n\nLes stratégies de déplétion des lymphocytes B, par anticorps ou par thérapie cellulaire, suscitent un intérêt croissant dans la SSc, sur le modèle des résultats obtenus dans le lupus. Le registre indique seulement que GB261 est un produit biologique ; ses caractéristiques précises ne sont pas détaillées.\n\nCette étude de phase 1 ouverte à bras unique, promue par l'hôpital Ruijin (Shanghai), évalue chez 10 adultes de 18 à 75 ans la tolérance, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'activité clinique préliminaire. Les patients ont une SSc diffuse évoluant depuis 7 ans ou moins, un mRSS ≥ 15 et une réponse insuffisante aux traitements définis par le protocole.",
+ "interet": "L'étude fournira les premières données de tolérance et d'activité de GB261 dans la SSc. Elle est exploratoire et ne change pas la pratique.",
+ "profil": "Des adultes de 18 à 75 ans atteints de SSc diffuse active avec réponse insuffisante aux traitements.",
+ "inclusion": ["Âge de 18 à 75 ans", "SSc selon les critères ACR/EULAR 2013, forme diffuse (LeRoy)", "Au moins un critère spécifique de SSc défini au protocole", "Évolution ≤ 7 ans", "mRSS ≥ 15", "Réponse insuffisante aux traitements définis au protocole"],
+ "exclusion": ["Anomalies biologiques au dépistage", "Traitements exclus ou non interruptibles", "Vaccin vivant dans les 4 semaines", "Autre maladie auto-immune associée", "Nutrition parentérale totale ; pseudo-obstruction intestinale ou pullulation bactérienne ; GAVE", "Ischémie digitale avec gangrène ; antécédent de crise rénale sclérodermique"],
+ "bras": [{"nom": "GB261", "traitement": "Produit biologique GB261, bras unique ; dose non précisée"}],
+ "duree": "52 semaines",
+ "critere": "Fréquence et sévérité des événements indésirables apparus sous traitement jusqu'à la fin de l'étude (52 semaines)."
+}

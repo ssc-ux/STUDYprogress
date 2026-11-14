@@ -1,0 +1,29 @@
+{
+ "h": "8a90f283cefc",
+ "date": "2026-11-14",
+ "titre": "Validation du questionnaire biopsychosocial BETY-BQ dans la FMF",
+ "question": "Le questionnaire biopsychosocial BETY-BQ est-il valide, fiable et sensible au changement chez des adultes atteints de FMF ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire chronique. Comme d'autres maladies chroniques, elle s'accompagne de douleur, fatigue, troubles du sommeil, perte de fonction, anxiété, dépression et isolement social.\n\nLes recommandations de l'EULAR préconisent une approche biopsychosociale chez les patients rhumatismaux, mais les outils d'évaluation couvrant toutes ces dimensions manquent. L'approche d'exercice cognitif BETY, développée chez des patients rhumatismaux, dispose d'un questionnaire dédié, le BETY-BQ. Il évalue six domaines : douleur, fonction-fatigue, émotion, sociabilité, sexualité et sommeil.\n\nLe BETY-BQ a déjà été validé dans plusieurs maladies rhumatismales (polyarthrite rhumatoïde, fibromyalgie, lupus, spondylarthrite, syndrome de Sjögren primitif) et figure dans la bibliothèque de l'EULAR. Cette étude de cohorte turque, portée par un investigateur individuel, évalue sa validité, sa fiabilité et sa sensibilité au changement dans la FMF (100 adultes prévus).",
+ "interet": "Elle pourrait fournir un outil validé pour mesurer l'impact global de la FMF sur la qualité de vie. Un tel outil serait utile aux essais d'interventions non médicamenteuses.",
+ "profil": "Des adultes atteints de FMF, sachant lire.",
+ "inclusion": [
+  "Diagnostic de FMF",
+  "Savoir lire",
+  "Âge d'au moins 18 ans",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Antécédent de maladie psychiatrique majeure",
+  "Maladie maligne",
+  "Antécédent de maladie vasculaire périphérique ou de neuropathie",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de FMF",
+   "traitement": "Passation du questionnaire BETY-BQ ; pas de traitement spécifique à l'étude"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Score au questionnaire biopsychosocial BETY-BQ, sur 3 mois (propriétés de mesure)."
+}

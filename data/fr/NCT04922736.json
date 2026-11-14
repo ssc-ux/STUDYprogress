@@ -1,0 +1,14 @@
+{
+ "h": "b189d8aa5571",
+ "date": "2026-11-14",
+ "titre": "Photothérapie UVA-1 et résultats rapportés par les patients dans les maladies cutanées sclérosantes",
+ "question": "Trente séances de photothérapie UVA-1 améliorent-elles l'incapacité fonctionnelle rapportée par les patients atteints de sclérodermie, de morphée ou de GVH sclérodermiforme ?",
+ "contexte": "La sclérodermie systémique, la morphée et la réaction du greffon contre l'hôte (GVH) sclérodermiforme sont des maladies immuno-médiées qui induisent une fibrose cutanée avec une phase inflammatoire puis une induration et une cicatrisation. L'évaluation clinique de l'inflammation et de la profondeur de l'atteinte est difficile.\n\nL'UVA-1 (340-400 nm) pénètre plus profondément que les autres photothérapies et cible notamment les fibroblastes. Elle paraît supérieure aux autres UV dans les maladies sclérosantes, avec un avantage des doses moyennes à fortes. Les patients rapportent des bénéfices, mais les critères rapportés par les patients (PRO) n'ont pas été étudiés rigoureusement. Cette étude prospective ouverte non randomisée de l'université de l'Utah inclut 30 adultes qui reçoivent 30 séances d'UVA-1, 2 à 3 fois par semaine sur 100 jours maximum. La dose est adaptée selon la pratique clinique et la tolérance (réduction de 10 J après un érythème ou une brûlure). Plusieurs PRO et évaluations de l'investigateur sont réalisés au début et à la fin.",
+ "interet": "L'étude documente le ressenti des patients sous UVA-1, un aspect peu étudié. Faute de bras contrôle, elle ne démontrera pas l'efficacité.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec sclérose cutanée, de morphée ou de GVH sclérodermiforme.",
+ "inclusion": ["Sclérodermie systémique avec sclérose cutanée, morphée ou GVH sclérodermiforme, sur des signes cliniques caractéristiques", "Âge de 18 ans ou plus", "Capacité de réaliser 30 séances d'UVA-1 en 100 jours maximum", "Consentement écrit"],
+ "exclusion": ["Impossibilité de réaliser les visites", "Photothérapie UV ou bronzage commercial dans les 4 dernières semaines", "Grossesse en cours ou prévue", "Antécédent d'intolérance aux UV", "Autre condition jugée disqualifiante par l'investigateur"],
+ "bras": [{ "nom": "Tous les participants", "traitement": "Photothérapie UVA-1 2 à 3 fois par semaine, 30 séances en 100 jours, dose adaptée à la pratique clinique" }],
+ "duree": "Environ 100 jours",
+ "critere": "Variation du score HAQ-DI après 30 séances d'UVA-1, sur 100 jours."
+}

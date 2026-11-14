@@ -1,0 +1,34 @@
+{
+ "h": "dfe222c6239c",
+ "date": "2026-11-14",
+ "titre": "CAR-T universel anti-CD19/BCMA RD06-05 dans les maladies auto-immunes",
+ "question": "Les CAR-T allogéniques universels anti-CD19/BCMA RD06-05 sont-ils sûrs et actifs dans plusieurs maladies auto-immunes sévères (lupus, vascularite à ANCA, anti-MBG, néphropathie extramembraneuse, sclérodermie, myosites, néphropathie à IgA) ?",
+ "contexte": "Les CAR-T anti-CD19 autologues induisent une déplétion B profonde et ont obtenu des rémissions prolongées sans traitement dans le lupus et d'autres maladies auto-immunes réfractaires. Leur fabrication à partir des cellules du patient est longue et coûteuse, ce qui limite l'accès.\n\nLe RD06-05 est un produit CAR-T allogénique « universel » (cellules de donneur modifiées) ciblant à la fois CD19 (lymphocytes B) et BCMA (plasmocytes). Cette double cible vise à éliminer aussi les plasmocytes à longue durée de vie, producteurs d'auto-anticorps non atteints par le rituximab ni par les anti-CD19 seuls.\n\nCet essai de phase 1 chinois (Nanjing Bioheng Biotech), ouvert et à escalade de dose, inclut jusqu'à 96 patients de 18 à 75 ans atteints de lupus/néphrite lupique, vascularite à ANCA (avec glomérulonéphrite), maladie anti-MBG, néphropathie extramembraneuse à haut risque ou réfractaire, sclérodermie systémique diffuse, myopathies inflammatoires (DM, anti-synthétases, MNMI) ou néphropathie à IgA.\n\nLe critère principal est la tolérance, avec une évaluation de la pharmacocinétique et de l'efficacité par maladie.",
+ "interet": "L'étude donnera les premières données de sécurité d'un CAR-T universel « prêt à l'emploi » dans plusieurs maladies auto-immunes. Elle est de phase 1 : elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans ayant une maladie auto-immune sévère, parmi lupus, vascularite à ANCA, anti-MBG, néphropathie extramembraneuse, sclérodermie diffuse, myosite ou néphropathie à IgA.",
+ "inclusion": [
+  "Âge 18 à 75 ans, consentement écrit",
+  "Fonction médullaire, hépatique, de coagulation et pulmonaire adéquates (PNN ≥ 1 500/µL, plaquettes ≥ 50 000/µL, ALAT/ASAT ≤ 3 N, SpO₂ ≥ 92 %)",
+  "Contraception efficace jusqu'à 6 mois après la perfusion",
+  "Lupus : critères EULAR/ACR 2019 ou SLICC, auto-anticorps positifs, SLEDAI-2K > 6",
+  "Vascularite à ANCA : GPA ou PAM (ACR/EULAR 2022), ANCA anti-MPO/PR3, BVAS v3 ≥ 3 si sans atteinte rénale",
+  "Autres maladies : anti-MBG avec atteinte rénale biopsiée, NEM à haut risque ou réfractaire, sclérodermie diffuse, myosite (DM, SAS, MNMI), IgAN (protéinurie ≥ 1 g/24 h, DFGe ≥ 30)"
+ ],
+ "exclusion": [
+  "Lupus neuropsychiatrique sévère actif, lupus ou vascularite induits par des médicaments ou secondaires",
+  "Hémorragie alvéolaire sous ventilation invasive, anurie > 7 jours ou dialyse > 30 jours (anti-MBG)",
+  "Néphropathie extramembraneuse secondaire",
+  "Myosite avec rhabdomyolyse sévère ou CPK ≥ 120 N",
+  "Sclérodermie : crise rénale < 1 an, tamponnade < 6 mois, ulcères digitaux infectés ou gangrène",
+  "IgAN secondaire ou autre néphropathie associée, atrophie tubulaire ou fibrose ≥ 75 %",
+  "Insuffisance cardiaque symptomatique (NYHA 2-4) dans l'anti-MBG"
+ ],
+ "bras": [
+  {
+   "nom": "RD06-05",
+   "traitement": "CAR-T universel anti-CD19/BCMA, perfusion avec escalade de dose (schéma exact non précisé)"
+  }
+ ],
+ "duree": "2 ans de suivi",
+ "critere": "Incidence des événements indésirables (EIAT, EIG, événements d'intérêt particulier) pendant 2 ans"
+}

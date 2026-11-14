@@ -1,0 +1,26 @@
+{
+ "h": "e04da85ee4d3",
+ "date": "2026-11-14",
+ "titre": "Apprentissage automatique pour distinguer l'EGPA du syndrome hyperéosinophilique",
+ "question": "Des techniques d'intelligence artificielle appliquées aux données cliniques et biologiques permettent-elles de distinguer l'EGPA du syndrome hyperéosinophilique et de prédire la réponse au traitement ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) et le syndrome hyperéosinophilique (HES) sont deux maladies rares associant une hyperéosinophilie sanguine et des atteintes d'organes. Leurs tableaux se chevauchent : asthme, atteinte ORL, neuropathie, atteinte cardiaque ou pulmonaire.\n\nLa distinction est parfois difficile, en particulier en l'absence d'ANCA ou de vascularite prouvée par biopsie. Elle est pourtant importante, car la stratégie thérapeutique et le pronostic diffèrent : immunosuppresseurs et anti-IL-5 dans l'EGPA, anti-IL-5, imatinib ou autres traitements selon le type de HES.\n\nCette étude de la Fondation IRCCS Policlinico San Matteo de Pavie recueille les données cliniques, biologiques et instrumentales de patients ayant une EGPA ou un HES, avec une prise de sang pour le bilan biologique. Ces données seront analysées par des méthodes d'apprentissage automatique pour identifier les caractéristiques différenciant les deux maladies et prédire la réponse au traitement.\n\nL'étude, d'environ 60 patients, n'impose aucun traitement : elle est classée interventionnelle en raison du prélèvement sanguin.",
+ "interet": "Un modèle fiable d'aide au diagnostic différentiel pourrait aider à choisir plus tôt le traitement adapté. L'effectif réduit impose de valider ces résultats dans d'autres cohortes.",
+ "profil": "Des adultes ayant une EGPA ou un syndrome hyperéosinophilique confirmé.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic d'EGPA ou de HES",
+  "Consentement écrit éclairé, ou assentiment d'un proche si le patient ne peut signer pour raison physique"
+ ],
+ "exclusion": [
+  "Diagnostic d'EGPA ou de HES non confirmé",
+  "Autres causes d'éosinophilie"
+ ],
+ "bras": [
+  {
+   "nom": "EGPA et HES",
+   "traitement": "Recueil de données cliniques, biologiques et instrumentales, prise de sang pour bilan, analyse par apprentissage automatique"
+  }
+ ],
+ "duree": "Non précisé (analyse sur 18 mois)",
+ "critere": "Caractéristiques différenciant le HES de l'EGPA, sur 18 mois"
+}

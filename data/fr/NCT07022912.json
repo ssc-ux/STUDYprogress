@@ -1,0 +1,14 @@
+{
+ "h": "28584c594f41",
+ "date": "2026-11-14",
+ "titre": "Mécanismes du reflux gastro-œsophagien réfractaire aux IPP dans la sclérodermie systémique",
+ "question": "Quels mécanismes digestifs expliquent la persistance des symptômes de reflux malgré les IPP chez les patients atteints de sclérodermie ?",
+ "contexte": "Le reflux gastro-œsophagien (RGO) est l'une des manifestations digestives les plus fréquentes de la sclérodermie systémique (SSc), liée à l'hypomotricité œsophagienne et à la dysfonction du sphincter inférieur. Une proportion importante de patients garde des symptômes malgré les inhibiteurs de la pompe à protons (IPP).\n\nUne atteinte motrice d'autres segments digestifs (estomac, intestin) pourrait contribuer à cette réfractarité, mais les données chez les patients atteints de SSc sont limitées. Il n'existe pas d'algorithme diagnostique personnalisé associant symptômes, motilité objective et caractéristiques cliniques.\n\nL'étude observationnelle de Vall d'Hebron (Barcelone) inclura 147 patients avec SSc et reflux (pyrosis ou régurgitations au moins 3 fois par semaine depuis 3 mois) malgré les IPP. Ils passent des examens de routine : manométrie œsophagienne haute résolution et pH-impédancemétrie, avec une période d'optimisation des IPP et une intervention éducative. L'hypothèse est que l'évaluation objective de la motricité de plusieurs organes permet de mieux caractériser le RGO réfractaire.",
+ "interet": "Les résultats pourraient aider à bâtir un modèle diagnostique simple et peu coûteux pour mieux orienter la prise en charge du RGO réfractaire de la SSc.",
+ "profil": "Des adultes atteints de SSc avec symptômes de reflux persistants malgré un traitement par IPP.",
+ "inclusion": ["SSc selon les critères ACR/EULAR 2023 et/ou la classification de LeRoy-Medsger", "Pyrosis et/ou régurgitations au moins 3 fois par semaine depuis 3 mois malgré les IPP", "Âge ≥ 18 ans (16 ans selon le registre)"],
+ "exclusion": ["Chirurgie modifiant l'anatomie ou la motricité digestive haute (fundoplicature, myotomie, gastrectomie, chirurgie bariatrique)", "Maladie pulmonaire ou cardiaque sévère empêchant les examens de motricité", "Grossesse ou projet de grossesse pendant l'étude", "Autre maladie neuromusculaire pouvant altérer la motricité digestive", "Trouble fonctionnel digestif connu (côlon irritable, dyspepsie fonctionnelle)"],
+ "bras": [{"nom": "Patients avec SSc et symptômes de RGO réfractaires aux IPP", "traitement": "Optimisation des IPP et intervention éducative, manométrie haute résolution et pH-impédancemétrie"}],
+ "duree": "8 à 12 semaines (période d'optimisation des IPP)",
+ "critere": "Prévalence du RGO réfractaire aux IPP à la fin de la période d'optimisation des IPP et de l'intervention éducative (8 à 12 semaines)."
+}

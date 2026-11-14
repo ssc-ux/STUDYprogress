@@ -1,0 +1,14 @@
+{
+ "h": "bf8ddd829897",
+ "date": "2026-11-14",
+ "titre": "Vasculopathie digestive de la sclérodermie évaluée par Doppler des vaisseaux splanchniques",
+ "question": "Le Doppler des vaisseaux splanchniques met-il en évidence une vasculopathie digestive dans la sclérodermie et est-il corrélé aux symptômes digestifs et aux autres atteintes ?",
+ "contexte": "La vasculopathie est un élément central de la sclérodermie systémique : atteinte microvasculaire dès les phases précoces, mais aussi atteinte macrovasculaire et athérosclérose accélérée, avec retentissement sur les poumons, le cœur, le rein et le tube digestif. L'atteinte digestive concerne jusqu'à 90 % des patients, reste souvent silencieuse jusqu'à des lésions avancées, et son retentissement sur la morbi-mortalité est important (risque de décès plus que doublé dans les formes avancées).\n\nCette étude cas-témoins égyptienne compare 37 patients sclérodermiques à 37 témoins sains par Doppler des artères splanchniques. Les résultats seront corrélés aux manifestations digestives, à l'atteinte macrovasculaire (thoracique, cardiaque, rénale), à la microangiopathie en capillaroscopie et aux auto-anticorps (anti-Scl70, anticentromère).",
+ "interet": "Le Doppler splanchnique est un examen non invasif qui pourrait repérer précocement l'atteinte vasculaire digestive. L'étude est monocentrique et transversale.",
+ "profil": "Des adultes atteints de sclérodermie systémique, comparés à des témoins sains.",
+ "inclusion": ["Âge de 18 ans ou plus", "Sclérodermie systémique selon les critères ACR/EULAR 2013", "Consentement à l'écho-Doppler des vaisseaux splanchniques"],
+ "exclusion": ["Grossesse ou allaitement", "Chevauchement avec une autre maladie auto-immune (lupus, polyarthrite rhumatoïde)", "Maladie digestive non liée à la sclérodermie (MICI, maladie cœliaque)", "Chirurgie digestive majeure (résection intestinale)", "Diabète", "Comorbidité sévère (insuffisance rénale terminale, insuffisance cardiaque décompensée)"],
+ "bras": [{ "nom": "Patients sclérodermiques (n = 37)", "traitement": "Évaluation clinique, biologique et écho-Doppler splanchnique" }, { "nom": "Témoins sains (n = 37)", "traitement": "Écho-Doppler splanchnique" }],
+ "duree": "Une seule évaluation (inclusion)",
+ "critere": "Flux artériel splanchnique en Doppler chez les patients sclérodermiques versus témoins, et corrélation avec les manifestations digestives, à l'inclusion."
+}

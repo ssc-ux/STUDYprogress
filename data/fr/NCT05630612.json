@@ -1,0 +1,36 @@
+{
+ "h": "144d025685d9",
+ "date": "2026-11-14",
+ "titre": "Sparsentan sur la fonction endothéliale et la rigidité artérielle dans les vascularites à ANCA en rémission",
+ "question": "Un blocage de 6 semaines des récepteurs ETA et AT1 par le sparsentan améliore-t-il la fonction endothéliale de patients en rémission de vascularite à ANCA, par rapport à l'irbésartan ?",
+ "contexte": "Les vascularites à ANCA ont un pronostic à court terme amélioré par les immunosuppresseurs, mais pas à long terme, en raison d'un risque cardiovasculaire élevé. Chez les patients en rémission prolongée, la cause de décès la plus fréquente est cardiovasculaire.\n\nL'atteinte auto-immune de l'endothélium provoque une dysfonction endothéliale, associée au risque cardiovasculaire futur. L'endothéline-1, produite par l'endothélium, est le vasoconstricteur endogène le plus puissant : elle augmente la pression artérielle et la rigidité artérielle, altère la fibrinolyse et favorise l'inflammation.\n\nDes travaux antérieurs de l'équipe d'Édimbourg ont montré qu'un blocage de quelques heures des récepteurs de l'endothéline améliore la rigidité artérielle et la capacité fibrinolytique. On ignore si ce bénéfice se maintient avec un traitement plus long.\n\nSPARVASC est un essai de phase 2 randomisé en quadruple aveugle, avec comparateur actif. Le sparsentan, antagoniste double des récepteurs ETA et AT1, est comparé à l'irbésartan, qui baisse la pression artérielle sans bloquer l'endothéline, afin de distinguer l'effet tensionnel. Les patients, en rémission depuis plus de 6 mois, ont une étude du débit sanguin de l'avant-bras avant et après 6 semaines.",
+ "interet": "Si le sparsentan améliore la fonction endothéliale au-delà de l'effet tensionnel, il ouvrirait une piste de prévention cardiovasculaire et rénale dans les vascularites à ANCA. L'étude, à critère physiologique et petite taille (32 participants), est exploratoire.",
+ "profil": "Des adultes ayant une vascularite à ANCA en rémission depuis au moins 6 mois.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Vascularite à ANCA (Chapel Hill 2012) en rémission depuis ≥ 6 mois",
+  "BVAS à 0 depuis au moins 2 mois sous prednisolone ≤ 7,5 mg/j",
+  "DFGe ≥ 25 mL/min/1,73 m²",
+  "Contraception efficace et test de grossesse négatif si en âge de procréer"
+ ],
+ "exclusion": [
+  "Vascularite active, maladie hépatique",
+  "Hypertension non traitée (PAS > 160 ou PAD > 100 mmHg)",
+  "DFGe < 25 mL/min/1,73 m², dialyse, greffe d'organe",
+  "Insuffisance cardiaque congestive",
+  "Traitement contre-indiqué avec le sparsentan, allergies médicamenteuses multiples ou sévères",
+  "Grossesse ou allaitement, autre essai clinique dans les 28 jours avant ou 90 jours après"
+ ],
+ "bras": [
+  {
+   "nom": "Sparsentan",
+   "traitement": "Sparsentan pendant 6 semaines (dose non précisée dans le registre)"
+  },
+  {
+   "nom": "Irbésartan",
+   "traitement": "Irbésartan pendant 6 semaines, comparateur actif"
+  }
+ ],
+ "duree": "6 semaines de traitement",
+ "critere": "Débit sanguin de l'avant-bras avant et après 6 semaines de traitement"
+}

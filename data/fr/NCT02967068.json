@@ -1,0 +1,25 @@
+{
+ "h": "a9fc312c0505",
+ "date": "2026-11-14",
+ "titre": "Biobanque tissulaire du consortium de recherche sur les vascularites (VCRC)",
+ "question": "Les prélèvements tissulaires de patients atteints de vascularite permettent-ils d'identifier des gènes de risque et de nouvelles pistes diagnostiques ou thérapeutiques ?",
+ "contexte": "Les vascularites (ACG, Takayasu, GPA, PAM, EGPA, périartérite noueuse, vascularite à IgA, vascularites cutanées, aortites) sont des maladies rares dont les mécanismes restent mal compris. Les biopsies de rein, poumon, peau, nerf ou vaisseau sont faites en soins courants pour le diagnostic.\n\nLe Vasculitis Clinical Research Consortium (VCRC), réseau nord-américain, mène de nombreuses études observationnelles et interventionnelles. Cette biobanque, promue par l'université de Pennsylvanie, récupère avec consentement les prélèvements déjà réalisés en soins courants chez les patients de ces études. Aucune biopsie n'est faite pour la recherche.\n\nLes tissus, associés aux données cliniques longitudinales du consortium, serviront à des projets de recherche translationnelle : gènes de risque, mécanismes lésionnels, biomarqueurs et cibles thérapeutiques. L'objectif est de fournir aux chercheurs en vascularites, et plus largement en maladies auto-immunes et vasculaires, une ressource unique pour de nouvelles hypothèses.",
+ "interet": "La biobanque est une ressource de recherche qui peut faire émerger de nouveaux biomarqueurs et cibles dans les vascularites. Elle n'évalue aucun traitement et n'a pas d'impact direct sur la pratique à court terme.",
+ "profil": "Des patients ayant une vascularite, déjà inclus dans une étude du consortium VCRC.",
+ "inclusion": [
+  "Participation actuelle ou passée à un protocole observationnel ou interventionnel du VCRC"
+ ],
+ "exclusion": [
+  "Incapacité à consentir (ou représentant légal pour les enfants) et à signer le consentement",
+  "Refus d'utilisation de ses tissus pour la recherche",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte VCRC",
+   "traitement": "Recueil des biopsies déjà prélevées en soins courants (rein, poumon, peau, nerf, vaisseau)"
+  }
+ ],
+ "duree": "Non précisé (collecte de matériel déjà prélevé)",
+ "critere": "Identification de gènes augmentant le risque de développer une vascularite, à 1 an"
+}

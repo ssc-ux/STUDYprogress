@@ -1,0 +1,27 @@
+{
+ "h": "60a9b36de579",
+ "date": "2026-11-14",
+ "titre": "Vécu et sévérité des effets rhumatologiques des inhibiteurs de checkpoint",
+ "question": "Comment les patients vivent-ils une arthrite ou une pseudo-polyarthrite rhizomélique induite par les inhibiteurs de points de contrôle immunitaires ?",
+ "contexte": "Les inhibiteurs de points de contrôle immunitaires (ICI) ont transformé la prise en charge de nombreux cancers, mais ils provoquent des événements indésirables immuno-médiés. Parmi eux, les atteintes rhumatologiques (arthrite inflammatoire, syndrome de type PPR) peuvent altérer la fonction et la qualité de vie, y compris chez des patients dont le cancer est contrôlé.\n\nLeur sévérité et leur retentissement sont mal caractérisés, et les outils d'évaluation validés pour ces situations sont limités. Cette étude qualitative du MD Anderson Cancer Center est menée auprès d'environ 20 patients ayant un diagnostic rhumatologique d'arthrite ou de PPR après ICI. Elle explore leur vécu, l'impact fonctionnel et les domaines pertinents pour eux, confrontés à ceux identifiés dans la littérature.",
+ "interet": "Les résultats pourraient guider le choix de critères d'évaluation centrés sur le patient pour de futures études sur les atteintes rhumatologiques des ICI. Ils pourraient aussi mieux informer sur leur retentissement quotidien.",
+ "profil": "Des adultes ayant une arthrite ou une PPR induite par un inhibiteur de checkpoint.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Anglais conversationnel et capacité à consentir",
+  "Arthrite inflammatoire ou PPR post-ICI diagnostiquée par un rhumatologue"
+ ],
+ "exclusion": [
+  "Cancer menaçant le pronostic vital ou en aggravation aiguë",
+  "Trouble auditif limitant un entretien verbal",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec arthrite ou PPR post-ICI",
+   "traitement": "Entretiens qualitatifs sur le vécu et le retentissement fonctionnel"
+  }
+ ],
+ "duree": "Environ 1 an",
+ "critere": "Sécurité et événements indésirables, jusqu'à la fin de l'étude (environ 1 an)"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "1c53d0b32990",
+ "date": "2026-11-14",
+ "titre": "Imagerie optique (SFDI) pour quantifier objectivement la fibrose cutanée dans la sclérodermie diffuse",
+ "question": "L'imagerie dans le domaine des fréquences spatiales (SFDI) mesure-t-elle l'évolution de l'épaisseur cutanée mieux que le score de Rodnan modifié ?",
+ "contexte": "Dans la sclérodermie systémique, l'étendue de la fibrose cutanée prédit les complications d'organes et la mortalité. Elle est évaluée par le score de Rodnan modifié (mRSS), qui repose sur le pincement de la peau : méthode subjective, variable d'un examinateur à l'autre et peu sensible aux petits changements.\n\nLa SFDI est une technique d'imagerie optique par diffusion de la lumière, non invasive, rapide et indolore, qui mesure les propriétés optiques de la peau liées à son contenu en collagène. Une étude pilote de l'université de Boston, menée sur des patients à différents stades avec biopsie de l'avant-bras, a montré une forte corrélation entre SFDI et mRSS. La présente étude suit longitudinalement des patients atteints de sclérodermie diffuse récente (maladie depuis moins de 5 ans, ou moins de 3 ans avec anticorps anti-ARN polymérase III ou anti-topoisomérase) et des témoins sains. Elle compare la SFDI au mRSS, à la durométrie, à l'échographie cutanée, à des biopsies optionnelles (histologie, expression de PDGFRβ) et à des scores rapportés par le patient.",
+ "interet": "Une mesure objective de la fibrose cutanée serait utile pour suivre la progression et la réponse thérapeutique, y compris comme critère dans les essais. La validation reste à établir.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse récente et des témoins sains.",
+ "inclusion": ["Sclérodermie diffuse (LeRoy) diagnostiquée depuis moins de 5 ans", "Ou diagnostic depuis moins de 3 ans avec anticorps anti-ARN polymérase III ou anti-topoisomérase", "Témoins : absence de sclérodermie, de maladie auto-immune et de pathologie cutanée connue", "Âge de 18 ans ou plus"],
+ "exclusion": ["Cancer cutané dans les 2 dernières années (sauf carcinome spinocellulaire ou basocellulaire traité, ou in situ)", "Plaie ou éruption sur le site de mesure ou de biopsie", "Comorbidité avec espérance de vie médiane estimée < 5 ans", "Biopsie non réalisée en cas d'allergie à la lidocaïne, de risque cicatriciel ou de grossesse/allaitement (non-exclusion de l'étude)"],
+ "bras": [{ "nom": "Patients sclérodermiques", "traitement": "SFDI, mRSS, échographie, durométrie à chaque visite ; biopsies cutanées optionnelles à l'inclusion et à 12 mois" }, { "nom": "Témoins", "traitement": "Mesures SFDI et colorimétrie" }],
+ "duree": "12 mois (visites à l'inclusion, 3, 6 et 12 mois)",
+ "critere": "Mesures SFDI et mRSS de l'épaisseur cutanée à l'inclusion, 3, 6 et 12 mois."
+}

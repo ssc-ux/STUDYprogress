@@ -1,0 +1,33 @@
+{
+ "h": "004b3bc100c5",
+ "date": "2026-11-14",
+ "titre": "Reslizumab dans la granulomatose éosinophilique avec polyangéite (EGPA) : essai ouvert",
+ "question": "Le reslizumab est-il sûr chez des patients ayant une EGPA et permet-il de réduire les corticoïdes ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (EGPA) est une vascularite des petits vaisseaux associant asthme, hyperéosinophilie et atteintes d'organes (nerfs, poumons, ORL, cœur, rein, peau). Elle reste souvent corticodépendante, avec des rechutes et une toxicité cumulée des traitements.\n\nL'interleukine 5 (IL-5) commande la maturation, l'activation et la survie des éosinophiles. Le mépolizumab, anticorps anti-IL-5 administré par voie sous-cutanée, a montré un bénéfice dans l'EGPA, ce qui valide cette voie.\n\nLe reslizumab est un anticorps anti-IL-5 administré par voie intraveineuse, selon le poids, autorisé dans l'asthme éosinophilique sévère mais non dans l'EGPA. L'étude RITE, promue par National Jewish Health, est un essai de phase 2 ouvert à bras unique chez environ 10 adultes ayant une EGPA depuis au moins 6 mois.\n\nLes patients reçoivent 3 mg/kg de reslizumab IV toutes les 4 semaines pendant 28 semaines (7 perfusions), en plus des corticoïdes et immunosuppresseurs en cours. Des appels toutes les 2 semaines suivent la prise de médicaments et la possibilité de réduire les corticoïdes.",
+ "interet": "L'étude apporte des données de tolérance et un premier signal d'épargne cortisonique avec un anti-IL-5 intraveineux dans l'EGPA. Sa petite taille et l'absence de comparateur limitent la portée.",
+ "profil": "Des adultes ayant une EGPA depuis au moins 6 mois, traités par corticoïdes avec ou sans immunosuppresseur.",
+ "inclusion": [
+  "Âge > 18 ans, consentement écrit",
+  "EGPA depuis ≥ 6 mois : asthme, éosinophilie (> 1,0 G/L ou > 10 %) et au moins 2 autres signes (biopsie, neuropathie, infiltrats pulmonaires, atteinte ORL, cardiomyopathie, glomérulonéphrite, hémorragie alvéolaire, purpura, ANCA)",
+  "Prednisone ≥ 5 mg/j à dose stable depuis 4 semaines",
+  "Méthotrexate, azathioprine ou mycophénolate à dose stable depuis 4 semaines",
+  "Cyclophosphamide arrêté depuis au moins 2 à 3 semaines avec leucocytes ≥ 4 G/L",
+  "Contraception efficace pour les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Syndrome hyperéosinophilique, granulomatose avec polyangéite",
+  "Tumeur maligne, parasitose",
+  "Grossesse ou allaitement",
+  "Anti-IL (reslizumab, mépolizumab, lébrikizumab...) dans les 3 derniers mois",
+  "Cyclophosphamide en cours",
+  "Hypersensibilité au reslizumab ou à ses excipients"
+ ],
+ "bras": [
+  {
+   "nom": "Ouvert",
+   "traitement": "Reslizumab 3 mg/kg IV toutes les 4 semaines pendant 28 semaines (7 perfusions)"
+  }
+ ],
+ "duree": "44 semaines (11 visites)",
+ "critere": "Sécurité du reslizumab chez les patients atteints d'EGPA, jusqu'à 12 mois"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "81f183a5a11e",
+ "date": "2026-11-14",
+ "titre": "GDF-15 et échographie pulmonaire pour le dépistage de la PID dans la polyarthrite rhumatoïde et la sclérodermie",
+ "question": "L'association du dosage de GDF-15 et de l'échographie pulmonaire a-t-elle une précision diagnostique comparable au scanner haute résolution pour dépister une PID infraclinique ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est une manifestation grave de la polyarthrite rhumatoïde (PR) et de la sclérodermie systémique (ScS). Une PID infraclinique existerait chez jusqu'à 33 % des patients avec PR et 50 % de ceux avec ScS. Un diagnostic précoce permet d'introduire à temps immunomodulateurs ou antifibrosants avant la fibrose irréversible.\n\nLe scanner thoracique haute résolution (TDM-HR) est l'examen de référence, mais il est coûteux et irradiant, ce qui en limite l'usage systématique, surtout en ressources limitées. Le GDF-15 est une cytokine de stress de la famille du TGF-β, élevée dans les fibroses pulmonaires. L'échographie pulmonaire détecte lignes B et irrégularités pleurales avec une bonne sensibilité. Cette étude de l'université d'Assiut (Égypte) évalue si l'association des deux est équivalente au TDM-HR chez des patients PR et ScS asymptomatiques.",
+ "interet": "Un outil non invasif et sans irradiation, à bas coût, pourrait trier les patients à adresser en TDM-HR. L'étude ne dira pas si ce dépistage améliore le devenir des patients.",
+ "profil": "Des adultes avec polyarthrite rhumatoïde ou sclérodermie systémique, asymptomatiques sur le plan respiratoire.",
+ "inclusion": ["Âge ≥ 18 ans", "Diagnostic confirmé de polyarthrite rhumatoïde ou de sclérodermie systémique"],
+ "exclusion": ["Infection respiratoire active ou exacerbation d'une maladie pulmonaire", "Autre cause de fibrose pulmonaire (tabagisme > 15 paquets-années, exposition professionnelle ou environnementale)", "Maladie pulmonaire chronique préexistante (BPCO, asthme, tuberculose active, bronchectasies sévères)"],
+ "bras": [{"nom": "Polyarthrite rhumatoïde", "traitement": "Échographie pulmonaire, dosage sérique de GDF-15 (ELISA), TDM-HR de référence"}, {"nom": "Sclérodermie systémique", "traitement": "Mêmes examens"}],
+ "duree": "Évaluation à l'inclusion",
+ "critere": "Précision diagnostique (sensibilité, spécificité, valeurs prédictives positive et négative) de l'association GDF-15 + échographie pulmonaire comparée au TDM-HR, à l'inclusion"
+}

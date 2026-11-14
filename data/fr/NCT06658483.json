@@ -1,0 +1,14 @@
+{
+ "h": "457d71fb2163",
+ "date": "2026-11-14",
+ "titre": "Validation turque de l'échelle HAnDE du vécu de la main sclérodermique",
+ "question": "La version turque de l'échelle HAnDE (Hand scleroDerma lived Experience) est-elle valide et fiable chez les patients atteints de sclérodermie ?",
+ "contexte": "L'atteinte de la main est fréquente et invalidante dans la sclérodermie systémique : sclérodactylie, rétractions, ulcères digitaux et douleur limitent les activités quotidiennes et la vie sociale. Les questionnaires généraux d'incapacité ne capturent pas bien le vécu spécifique de la main sclérodermique.\n\nL'échelle HAnDE est un questionnaire rapporté par le patient, conçu pour explorer ce vécu. Cette étude observationnelle de l'université de Pamukkale (Turquie), sur deux centres, vise à évaluer la validité et la fiabilité de sa version turque chez environ 54 adultes atteints de sclérodermie. Les patients ayant une atteinte neurologique, orthopédique ou psychiatrique susceptible de fausser la fonction de la main sont exclus.",
+ "interet": "Disposer d'une version validée en turc permettrait d'utiliser l'échelle en pratique et dans la recherche. L'étude est de portée locale.",
+ "profil": "Des adultes atteints de sclérodermie systémique, turcophones.",
+ "inclusion": ["Sclérodermie systémique diagnostiquée par un rhumatologue", "Âge de 18 ans ou plus"],
+ "exclusion": ["Maladie neurologique, dont lésion d'un nerf périphérique, traumatisme ou AVC retentissant sur la main", "Problème orthopédique ou chirurgie orthopédique pouvant affecter la fonction", "Ne parlant ou ne comprenant pas couramment le turc", "Maladie psychiatrique gênant la coopération", "Insuffisance cardiaque ou atteinte pulmonaire limitant les activités quotidiennes"],
+ "bras": [{ "nom": "Patients sclérodermiques", "traitement": "Passation du questionnaire HAnDE (version turque), sans intervention" }],
+ "duree": "Évaluation unique, étude de 6 mois",
+ "critere": "Validité et fiabilité de l'échelle HAnDE turque, évaluées sur 6 mois."
+}

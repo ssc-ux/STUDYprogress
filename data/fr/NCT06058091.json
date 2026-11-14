@@ -1,0 +1,14 @@
+{
+ "h": "a04d52488618",
+ "date": "2026-11-14",
+ "titre": "Injection de cellules RY_SW01 dans la sclérodermie systémique diffuse : phase 1/2",
+ "question": "Les cellules RY_SW01 sont-elles sûres, tolérées et efficaces sur la fibrose cutanée dans la sclérodermie diffuse récente ?",
+ "contexte": "La sclérodermie systémique évolue souvent vers l'atteinte de plusieurs organes vitaux dans les 5 ans suivant le diagnostic. Les recommandations proposent des traitements symptomatiques et des immunosuppresseurs, mais aucun traitement ne ralentit de façon établie la progression, et une intervention précoce semble plus favorable.\n\nRY_SW01 est un produit de thérapie cellulaire de la société chinoise Jiangsu Renocell Biotech, conçu pour moduler l'immunité et combattre la fibrose ; sa nature précise n'est pas détaillée dans le registre. L'essai de phase 1/2 comporte deux étapes : une escalade de dose en bras unique chez 6 à 12 patients, puis une expansion randomisée en double aveugle chez 75 patients, comparant 1,0 x 10^6 cellules/kg, 2,0 x 10^6 cellules/kg ou placebo, tous en plus du meilleur traitement de base. Les patients ont une forme diffuse depuis 5 ans au plus, un score de Rodnan entre 10 et 30 et ont reçu au moins deux traitements antérieurs.",
+ "interet": "L'étude évalue une approche cellulaire à effet à la fois immunomodulateur et antifibrotique, à un stade précoce de la maladie. La tolérance et le signal sur la peau à 24 semaines seront les premières informations.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie diffuse évoluant depuis 5 ans au plus, déjà traités.",
+ "inclusion": ["Âge de 18 à 65 ans", "Sclérodermie systémique selon les critères ACR/EULAR 2013", "Forme cutanée diffuse évoluant depuis ≤ 5 ans", "Au moins 2 traitements antérieurs (corticoïdes, immunosuppresseurs, biothérapies)", "mRSS entre 10 et 30", "Consentement éclairé"],
+ "exclusion": ["CVF < 50 % de la théorique", "HTAP connue, PAPm > 25 mmHg au cathétérisme ou PAPs > 45 mmHg à l'échographie", "Infarctus, AVC, crise rénale ou HTA sévère (≥ 160/100) hospitalisés dans les 6 derniers mois", "Cardiopathie ischémique instable, arythmie non contrôlée, insuffisance cardiaque NYHA III/IV ou FEVG < 50 % dans les 3 derniers mois", "Autre connectivite associée"],
+ "bras": [{ "nom": "Placebo (phase 2)", "traitement": "Meilleur traitement de base" }, { "nom": "Faible dose (phase 2)", "traitement": "RY_SW01 1,0 x 10^6 cellules/kg + traitement de base" }, { "nom": "Forte dose (phase 2)", "traitement": "RY_SW01 2,0 x 10^6 cellules/kg + traitement de base" }],
+ "duree": "Critères principaux à 24 semaines",
+ "critere": "Fréquence des événements indésirables et variation du score de Rodnan modifié (mRSS) à 24 semaines."
+}

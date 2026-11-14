@@ -1,0 +1,32 @@
+{
+ "h": "53f5ec071360",
+ "date": "2026-11-14",
+ "titre": "Imagerie photoacoustique/échographique des calcinoses cutanées de la dermatomyosite",
+ "question": "L'imagerie photoacoustique/échographique peut-elle évaluer la sévérité de la dermatomyosite avec calcinose et prédire la réponse au traitement ?",
+ "contexte": "La calcinose cutanée est une complication invalidante de la dermatomyosite, plus fréquente dans les formes juvéniles et chronique. Elle est douloureuse, source de surinfections et de limitation fonctionnelle, et son évaluation est surtout clinique. Les traitements (corticoïdes, immunosuppresseurs, IGIV, parfois anti-JAK) ont une efficacité variable et difficile à objectiver.\n\nL'imagerie photoacoustique (PAI) combine le contraste optique et la profondeur de l'échographie. Elle renseigne sur la morphologie, l'hémodynamique et l'oxygénation des tissus superficiels. Cette étude de Peking Union Medical College Hospital utilise un système PA/US couplé à une plateforme échographique (échographie en niveaux de gris, Doppler couleur, deux longueurs d'onde photoacoustiques). Elle vise à décrire les signes de la calcinose, à construire un score de sévérité et à tester la prédiction de la réponse au traitement par des examens répétés avant traitement, à 3, 6, 9 et 12 mois.",
+ "interet": "Une méthode d'imagerie non invasive pourrait objectiver la sévérité de la calcinose cutanée et suivre la réponse au traitement, aujourd'hui difficile à mesurer.",
+ "profil": "Des adultes de 18 à 80 ans atteints de dermatomyosite (y compris amyopathique) avec calcinose cutanée.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Myopathie inflammatoire idiopathique selon les critères EULAR/ACR 2017",
+  "Dermatomyosite ou dermatomyosite amyopathique (éruption pathognomonique ou biopsie musculaire)",
+  "Calcinose diagnostiquée à l'examen clinique"
+ ],
+ "exclusion": [
+  "Début de la maladie avant 18 ans",
+  "Syndrome de chevauchement",
+  "Myosite à inclusions"
+ ],
+ "bras": [
+  {
+   "nom": "Évaluation de la sévérité par PA/US",
+   "traitement": "Imagerie photoacoustique/échographique multimodale des lésions cutanées"
+  },
+  {
+   "nom": "Traitement médicamenteux suivi par PA/US",
+   "traitement": "Traitement médicamenteux, avec imagerie PA/US avant traitement puis à 3, 6, 9 et 12 mois"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans (imagerie à 5 temps sur 12 mois)",
+ "critere": "Identification des signes photoacoustiques des lésions, construction d'un score PA/US de sévérité, et prédiction de la réponse au traitement, jusqu'à 2 ans."
+}

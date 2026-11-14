@@ -1,0 +1,35 @@
+{
+ "h": "8cab1c9e95f1",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs de la dermatomyosite paranéoplasique : auto-anticorps de surface et checkpoints solubles",
+ "question": "Des auto-anticorps dirigés contre des antigènes de membrane ou des points de contrôle immunitaires solubles distinguent-ils les dermatomyosites associées à un cancer ?",
+ "contexte": "La dermatomyosite (DM) est la maladie auto-immune la plus associée aux cancers : environ 25 % des patients de plus de 40 ans ont un cancer au diagnostic ou le développent ensuite. Le risque est majoré avant et dans les 3 ans suivant le diagnostic. Les anticorps anti-TIF1γ, anti-NXP2 et anti-SAE1 sont plus fréquents dans les formes paranéoplasiques, et les anti-Jo-1 moins.\n\nCes marqueurs sont imparfaits : environ 35 % des patients sont négatifs aux auto-anticorps connus et gardent un sur-risque. Les antigènes connus sont intracellulaires, donc peu susceptibles d'être pathogènes. L'hypothèse de cette étude est que des anticorps contre des antigènes de surface cellulaire et des variations des points de contrôle immunitaires solubles expliquent le lien entre cancer et auto-immunité.\n\nElle compare à Reggio Emilia (Italie) des patients de plus de 40 ans avec DM avec cancer, DM sans cancer et témoins sains, sur sérum prospectif ou conservé à −80 °C.",
+ "interet": "Identifier des marqueurs circulants du risque de cancer permettrait de cibler le dépistage tumoral chez les patients atteints de dermatomyosite, notamment ceux séronégatifs.",
+ "profil": "Des adultes de plus de 40 ans atteints de dermatomyosite, avec ou sans cancer, et des témoins sains.",
+ "inclusion": [
+  "Âge > 40 ans",
+  "Diagnostic de dermatomyosite",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Chimiothérapie au moment du prélèvement sanguin",
+  "Biothérapie au moment du prélèvement",
+  "Myopathie nécrosante auto-immune"
+ ],
+ "bras": [
+  {
+   "nom": "DM sans cancer",
+   "traitement": "Pas de cancer au diagnostic ni dans les 3 ans de suivi ; dosage sérique d'auto-anticorps et de points de contrôle"
+  },
+  {
+   "nom": "DM avec cancer",
+   "traitement": "Cancer au diagnostic ou dans les 3 ans avant ou après ; mêmes dosages"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Sans cancer, maladie auto-immune ni infection connus ; mêmes dosages"
+  }
+ ],
+ "duree": "Prélèvement unique à l'inclusion (suivi de 3 ans pour le statut tumoral)",
+ "critere": "Identification d'auto-anticorps contre des protéines de surface et de points de contrôle immunitaires solubles, à l'inclusion."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "33db1bb18a97",
+ "date": "2026-11-14",
+ "titre": "Ablation par cathéter versus antiarythmiques pour la tachycardie ventriculaire sur cardiopathie structurelle",
+ "question": "Chez les patients avec cardiopathie structurelle et tachycardie ventriculaire, l'ablation par cathéter réduit-elle les récidives de TV, les orages rythmiques et les décès par rapport aux antiarythmiques ?",
+ "contexte": "La mort subite par tachycardie ventriculaire (TV) récidivante est une complication majeure des cardiopathies structurelles. La TV naît le plus souvent d'une réentrée sur une cicatrice, d'origine ischémique ou non ischémique (inflammatoire, génétique, dont la sarcoïdose).\n\nLes antiarythmiques réduisent les récidives mais sont limités ; l'amiodarone, par exemple, expose à de nombreux effets indésirables. Le défibrillateur implantable prévient la mort subite mais n'empêche pas la TV, dont les chocs altèrent la qualité de vie et augmentent hospitalisations et morbi-mortalité. Les progrès de la cartographie permettent l'ablation par cathéter.\n\nLes données randomisées concernent presque exclusivement des cardiopathies ischémiques modérées et sont peu représentatives de la pratique. Chez les cardiopathies non ischémiques, la preuve repose surtout sur des études observationnelles chez des patients en échec des antiarythmiques.\n\nCet essai randomisé en simple aveugle, mené à Western Sydney, inclut 162 patients avec toute cardiopathie structurelle et TV spontanée ou inductible. Il compare une ablation dans les 2 à 4 semaines à un traitement médical antiarythmique selon les recommandations, avec un critère composite de récidive de TV, d'orage rythmique et de décès.",
+ "interet": "Il pourrait établir si l'ablation précoce doit être proposée d'emblée, quelle que soit l'étiologie de la cardiopathie, y compris non ischémique.",
+ "profil": "Des adultes avec cardiopathie structurelle, porteurs ou candidats à un dispositif implantable, et TV soutenue spontanée ou inductible.",
+ "inclusion": [
+  "Au moins un épisode de TV soutenue dans les 6 mois : TV monomorphe spontanée traitée par stimulation antitachycardique ou choc, ou documentée sur ECG/Holter/enregistreur",
+  "Ou TV inductible en exploration électrophysiologique avec syncope ou palpitations",
+  "Porteur d'un stimulateur, défibrillateur ou resynchronisation, ou indication à en recevoir un",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "Consentement impossible ou absence d'équipoise justifiant la randomisation",
+  "Grossesse ou allaitement",
+  "Espérance de vie inférieure à 3 mois",
+  "Incapacité de suivre le protocole ou affection interférant avec l'étude",
+  "Canalopathie connue (QT long ou court, Brugada, TV catécholergique)",
+  "Absence de cardiopathie structurelle ou arythmie ventriculaire idiopathique"
+ ],
+ "bras": [
+  {
+   "nom": "Ablation",
+   "traitement": "Ablation par cathéter de la TV dans les 2 semaines (30 jours maximum) après randomisation"
+  },
+  {
+   "nom": "Antiarythmiques",
+   "traitement": "Traitement médical antiarythmique seul, selon la pratique et les recommandations"
+  }
+ ],
+ "duree": "Jusqu'à 36 mois (médiane de suivi visée de 18 mois)",
+ "critere": "Composite de récidive de TV ou d'orage rythmique après 30 jours, et décès, évalués jusqu'à 36 mois"
+}

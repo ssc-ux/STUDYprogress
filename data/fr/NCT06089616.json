@@ -1,0 +1,31 @@
+{
+ "h": "ec1f8828e206",
+ "date": "2026-11-14",
+ "titre": "Registre de sécurité et d'efficacité à long terme du palovarotène dans la FOP",
+ "question": "Quelles sont la sécurité et l'efficacité en vie réelle du palovarotène chez les patients atteints de fibrodysplasie ossifiante progressive ?",
+ "contexte": "La fibrodysplasie ossifiante progressive (FOP) est une maladie ultra-rare et très invalidante liée à des variants activateurs du gène ACVR1. Elle provoque des ossifications hétérotopiques progressives, précédées de poussées douloureuses de gonflement des tissus mous. Ces poussées entraînent une perte de mobilité cumulative.\n\nLe palovarotène est un agoniste sélectif du récepteur gamma de l'acide rétinoïque, indiqué dans certains pays pour réduire les ossifications hétérotopiques. Son profil de risque inclut des effets rétinoïdes et chez l'enfant des effets sur la croissance (fermeture prématurée des cartilages de croissance) et des fractures. Ce registre d'Ipsen (FOPal) recueille des données de vie réelle dans les pays où il est autorisé. Il suit des patients exposés et non exposés et compare de façon descriptive les poussées, la croissance et les fractures.",
+ "interet": "Le registre apporte des données de sécurité à long terme et d'efficacité en conditions réelles pour une maladie où les essais sont de petite taille.",
+ "profil": "Des enfants (dès 8 ans) et adultes atteints de FOP, traités ou non par palovarotène.",
+ "inclusion": [
+  "FOP chez un adulte ou un enfant, palovarotène prescrit par le médecin selon l'AMM locale (cohorte exposée)",
+  "Consentement éclairé signé (ou des parents/représentants légaux), assentiment de l'enfant si approprié",
+  "Âge ≥ 8 ans"
+ ],
+ "exclusion": [
+  "Participation actuelle à un essai clinique sur le palovarotène",
+  "Participation à un autre essai interventionnel dans la FOP",
+  "Contre-indication au palovarotène selon l'AMM locale (sauf femmes enceintes ayant arrêté le traitement et incluses pour suivi de sécurité)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte exposée",
+   "traitement": "Participants traités par palovarotène selon la prescription et l'AMM locale"
+  },
+  {
+   "nom": "Cohorte non exposée",
+   "traitement": "Participants non traités par palovarotène"
+  }
+ ],
+ "duree": "Suivi à long terme jusqu'en 2035",
+ "critere": "Pourcentage de participants avec des événements indésirables survenus sous traitement (tous, graves, non graves, liés au traitement), depuis l'inclusion jusqu'à 30 jours après la dernière dose de palovarotène."
+}

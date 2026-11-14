@@ -1,0 +1,14 @@
+{
+ "h": "2cb55fae55b5",
+ "date": "2026-11-14",
+ "titre": "Biobanque de l'hypertension pulmonaire de la Nouvelle-Orléans",
+ "question": "Peut-on constituer une biobanque d'échantillons de patients avec hypertension pulmonaire ou à risque pour identifier de nouveaux biomarqueurs ?",
+ "contexte": "L'hypertension pulmonaire (HTP) est définie par une pression artérielle pulmonaire moyenne ≥ 25 mmHg au cathétérisme cardiaque droit. Malgré les progrès thérapeutiques, le pronostic reste insuffisant. Les mécanismes de la maladie restent partiellement compris, et il manque des biomarqueurs pour guider la prise en charge.\n\nLa sclérodermie systémique et la connectivite mixte exposent particulièrement au risque d'HTAP. La biobanque de la Nouvelle-Orléans, promue par la Louisiana State University Health Sciences Center, collecte sang, urines et selles de patients avec HTP, de patients à haut risque (sclérodermie ou connectivite mixte sans HTP), de patients subissant un cathétérisme cardiaque droit ambulatoire et de témoins sains. Les échantillons sont conservés pour des recherches ultérieures. Environ 450 participants sont prévus, sur un centre.",
+ "interet": "La biobanque fournit du matériel pour de futures études de biomarqueurs de l'HTP, notamment associée à la sclérodermie. Aucun résultat clinique n'est attendu en soi de cette étude.",
+ "profil": "Des adultes avec HTP, sclérodermie ou connectivite mixte, patients de cathétérisme cardiaque droit, et témoins sains.",
+ "inclusion": ["Hypertension pulmonaire suivie au centre complet d'HTP", "ou sclérodermie systémique suivie au centre", "ou connectivite mixte suivie au centre", "ou cathétérisme cardiaque droit ambulatoire"],
+ "exclusion": ["Âge < 18 ans", "Grossesse", "Ne comprenant pas l'anglais", "Personne incarcérée", "Refus ou impossibilité de signer le consentement"],
+ "bras": [{"nom": "Patients du centre d'HTP", "traitement": "HTP (groupes OMS 1 à 5), sclérodermie ou connectivite mixte sans HTP ; prélèvements uniquement"}, {"nom": "Patients en cathétérisme cardiaque droit ambulatoire", "traitement": "Prélèvements uniquement"}, {"nom": "Témoins sains", "traitement": "Adultes non fumeurs sans maladie chronique ; prélèvements uniquement"}],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Collecte de prélèvements biologiques sur 10 ans"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "5bdcfef423d9",
+ "date": "2026-11-14",
+ "titre": "Cohorte GCAIO : immunologie et imagerie multimodale dans l'ACG et la PPR",
+ "question": "Des profils immunologiques et des techniques d'imagerie multimodale permettent-ils de mieux diagnostiquer et suivre l'ACG et la pseudo-polyarthrite rhizomélique (PPR) ?",
+ "contexte": "L'ACG est une vascularite des artères de moyen et gros calibre, dont l'inflammation, la néoangiogenèse et le remodelage peuvent atteindre presque tous les organes. Malgré les progrès récents, de nombreux aspects restent mal connus, notamment la réponse aux inhibiteurs du récepteur de l'IL-6, qui fait défaut chez certains patients. La PPR est fréquemment associée à l'ACG, et ses critères diagnostiques et son traitement d'entretien restent à affiner.\n\nCette cohorte longitudinale de l'université de Bonn inclut des patients au diagnostic ou en poussée, avec des témoins sains appariés. Elle combine un profilage immunologique (cytométrie en flux, ELISA, séquençage ARNm 3', test ex vivo cellulaire pour prédire la réponse aux traitements de fond) et une imagerie étendue : IRM aortique et cardiaque, OCT-angiographie, échographie vasculaire, échographie transorbitaire et de contraste.\n\nLes biopsies temporales sont aussi marquées avec un anticorps anti-VAP-1. Les données d'imagerie seront corrélées à l'immunologie pour identifier des biomarqueurs d'activité et de réponse thérapeutique.",
+ "interet": "L'étude pourrait identifier des biomarqueurs prédictifs de la réponse thérapeutique, notamment aux anti-IL-6, et des méthodes d'imagerie de détection précoce des atteintes oculaires, cardiaques et aortiques. Elle pourrait faciliter une prise en charge personnalisée de l'ACG et de la PPR.",
+ "profil": "Des adultes atteints d'ACG ou de PPR au diagnostic ou en poussée, et des témoins sains appariés.",
+ "inclusion": [
+  "Âge > 18 ans et consentement écrit",
+  "Diagnostic d'ACG ou de PPR confirmé et répondant aux critères de classification ACR-EULAR",
+  "Diagnostic posé ou poussée dans les 3 derniers jours"
+ ],
+ "exclusion": [
+  "Insuffisance rénale sévère (DFG < 30 ml/min)",
+  "Autre pathologie nécessitant une corticothérapie continue ou intermittente",
+  "Autre rhumatisme inflammatoire"
+ ],
+ "bras": [
+  {
+   "nom": "ACG / PPR",
+   "traitement": "Profilage immunologique et imagerie multimodale (IRM, OCTA, échographies), prélèvements à 0, 6, 12, 18 mois et lors des poussées"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Sujets appariés pour l'âge et le sexe, mêmes examens d'imagerie et analyses immunologiques"
+  }
+ ],
+ "duree": "18 mois",
+ "critere": "Plusieurs critères : atteintes neuro-ophtalmologiques et cardio-aortiques détectées, phénotype des cellules immunitaires, cytokines, Siglec-9 et sVAP-1 sanguins, jusqu'à 18 mois"
+}

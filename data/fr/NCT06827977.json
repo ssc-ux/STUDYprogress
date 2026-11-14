@@ -1,0 +1,14 @@
+{
+ "h": "c16023e89875",
+ "date": "2026-11-14",
+ "titre": "Transplantation de microbiote (PRIM-DJ2727) pour la constipation et les ballonnements de la sclérodermie",
+ "question": "La transplantation de microbiote intestinal est-elle sûre et améliore-t-elle la constipation et les ballonnements des patients atteints de sclérodermie systémique ?",
+ "contexte": "L'atteinte digestive est très fréquente dans la sclérodermie systémique (ScS) et dégrade fortement la qualité de vie : constipation, ballonnements, dysmotilité, pullulation bactérienne. Les traitements actuels (laxatifs, prokinétiques, antibiotiques) sont symptomatiques et souvent peu efficaces.\n\nLe microbiote intestinal des patients sclérodermiques est modifié. La transplantation de microbiote a pour but de rétablir la diversité microbienne et de modifier les métabolites, dont les acides gras à chaîne courte, avec un effet attendu sur le transit et l'inflammation. Cet essai de phase 2 randomisé en quadruple aveugle contre placebo est mené à l'University of Texas Health Science Center de Houston. Il compare les produits PRIM-DJ2727 (microbiote), congelé ou lyophilisé, à un placebo chez environ 21 patients. Il évalue la tolérance, les symptômes digestifs, le transit colique, des marqueurs inflammatoires et la composition du microbiote.",
+ "interet": "L'essai explorera une approche ciblant le microbiote, pour une manifestation sans traitement efficace de la ScS. Il est de petite taille et ses résultats seront préliminaires.",
+ "profil": "Des adultes avec sclérodermie systémique et constipation et/ou ballonnements significatifs.",
+ "inclusion": ["Suivi au centre de la sclérodermie de UT Houston", "ScS selon les critères ACR/EULAR 2013 ou CREST", "Constipation et/ou ballonnements significatifs selon les critères de Rome IV", "Survie attendue ≥ 1 an", "Alimentation stable depuis au moins 4 semaines"],
+ "exclusion": ["Constipation ou ballonnements non liés à la ScS (maladie inflammatoire de l'intestin, médicaments, diabète, hypothyroïdie)", "Refus d'arrêter les probiotiques", "Colectomie totale ou partielle, ou colostomie", "Impossibilité de recevoir un lavement ou d'avaler des gélules", "Antibiothérapie systémique dans les 4 semaines", "Immunosuppresseurs à dose non stable depuis 4 semaines"],
+ "bras": [{"nom": "PRIM-DJ2727", "traitement": "Transplantation de microbiote, formes congelée ou lyophilisée"}, {"nom": "Placebo", "traitement": "Placebo"}],
+ "duree": "12 semaines",
+ "critere": "Variation du score total UCLA GIT 2.0 (constipation et ballonnements), avec plusieurs autres critères principaux (PFDI-20, PAC-SYM, PAGI-SYM, journal des selles, temps de transit), avant le traitement et aux semaines 11 à 12"
+}

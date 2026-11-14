@@ -1,0 +1,26 @@
+{
+ "h": "65a1556596ad",
+ "date": "2026-11-14",
+ "titre": "Registre V-MIRACLE : vunakizumab dans les maladies rhumatismales en Chine",
+ "question": "Quels sont la qualité de vie, la douleur, les modalités de dosage et la tolérance sous vunakizumab dans une large population de rhumatismes inflammatoires ?",
+ "contexte": "Le vunakizumab est un anticorps anti-IL-17A développé en Chine, utilisé dans les spondyloarthrites et le rhumatisme psoriasique. Les antirhumatismaux conventionnels sont moins efficaces et plus souvent mal tolérés que les biothérapies, mais il n'existe pas en Chine de registre multimaladies à grande échelle en rhumatologie.\n\nCe registre observationnel promu par le deuxième hôpital affilié de l'université du Zhejiang prévoit d'inclure jusqu'à 10 000 patients. Les pathologies concernées sont la spondylarthrite ankylosante, la spondyloarthrite axiale non radiographique, le rhumatisme psoriasique, la PPR, la maladie de Takayasu, l'ACG, la maladie de Behçet non oculaire et l'arthrite liée aux enthésites.\n\nLes données de caractéristiques des patients, de modalités de prescription et de résultats rapportés par les patients doivent aider les cliniciens à choisir les traitements. L'étude ne comporte pas de comparateur.",
+ "interet": "Le registre apportera des données de vie réelle sur le vunakizumab, y compris dans des indications hors spondyloarthrites. Il ne permettra pas de conclure sur l'efficacité comparée.",
+ "profil": "Des adultes atteints de rhumatismes auto-immuns (spondyloarthrites, PPR, vascularites, Behçet) traités ou devant être traités par vunakizumab.",
+ "inclusion": [
+  "Rhumatisme auto-immun : SpA, rhumatisme psoriasique, PPR, Takayasu, ACG, Behçet non oculaire, arthrite liée aux enthésites",
+  "Traitement par vunakizumab en cours ou prévu",
+  "Capacité à suivre les consignes de suivi",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Toute situation empêchant, selon l'investigateur, de suivre et terminer le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte vunakizumab",
+   "traitement": "Patients traités ou à traiter par vunakizumab en pratique courante"
+  }
+ ],
+ "duree": "12 mois de traitement",
+ "critere": "Score de qualité de vie EQ-5D et EVA douleur, de l'inclusion à 12 mois"
+}

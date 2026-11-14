@@ -1,0 +1,28 @@
+{
+ "h": "78be6e865618",
+ "date": "2026-11-14",
+ "titre": "Génétique et immunologie du syndrome PFAPA et des autres atteintes amygdaliennes",
+ "question": "Quels mécanismes génétiques, immunologiques et microbiens sous-tendent le syndrome PFAPA et les autres maladies des amygdales ?",
+ "contexte": "Le syndrome PFAPA (fièvre périodique, stomatite aphteuse, pharyngite, adénite cervicale) est la fièvre périodique la plus fréquente de l'enfant. Il se manifeste par des accès fébriles récurrents associés à des aphtes, une pharyngite et des adénopathies cervicales.\n\nL'amygdalectomie peut faire cesser les accès, ce qui suggère un rôle du tissu lymphoïde pharyngé. Pourtant, les mécanismes de la maladie restent inconnus, et son diagnostic repose sur des critères cliniques sans test spécifique.\n\nCette étude d'histoire naturelle, promue par le NIAID (États-Unis), collecte des échantillons (sang, salive, écouvillons, selles, tissu amygdalien ou adénoïdien lors d'une chirurgie) et des données cliniques chez des personnes atteintes de PFAPA ou d'autres affections amygdaliennes. Les analyses porteront sur les variants génétiques, les populations immunitaires (y compris en cellule unique), l'épigénétique et le microbiote. Les participants peuvent être inclus à distance, par envoi d'échantillons, avec un suivi facultatif jusqu'à 10 ans.",
+ "interet": "Cette étude vise à identifier des facteurs de risque génétiques et des mécanismes immunologiques du PFAPA. Elle pourrait à terme aider à mieux définir la maladie et à préciser les indications de l'amygdalectomie.",
+ "profil": "Des enfants et des adultes (à partir de 1 mois) atteints de PFAPA ou d'une autre maladie des amygdales.",
+ "inclusion": [
+  "Âge d'au moins 1 mois (au moins 3 ans pour une venue au NIH)",
+  "PFAPA ou autre atteinte amygdalienne, ou symptômes compatibles, selon l'investigateur",
+  "Consentement du patient ou de son représentant",
+  "Accord pour conserver les échantillons et données pour la recherche",
+  "Accord pour des analyses génétiques"
+ ],
+ "exclusion": [
+  "Toute condition exposant à un risque excessif ou rendant la participation inadaptée, selon l'investigateur",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Personnes atteintes de PFAPA ou d'autres atteintes amygdaliennes, avec prélèvements et recueil de données"
+  }
+ ],
+ "duree": "La plupart des participants fournissent des échantillons une seule fois ; suivi facultatif jusqu'à 10 ans",
+ "critere": "Variants génétiques de risque, populations immunitaires, microbiote et évolution clinique après amygdalectomie, sur la durée de l'étude."
+}

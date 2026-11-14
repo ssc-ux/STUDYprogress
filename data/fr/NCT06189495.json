@@ -1,0 +1,14 @@
+{
+ "h": "dd1accc9637c",
+ "date": "2026-11-14",
+ "titre": "Génakumab versus placebo dans la pneumopathie interstitielle des connectivites (PR et sclérodermie)",
+ "question": "Le génakumab améliore-t-il ou stabilise-t-il la fonction respiratoire dans la pneumopathie interstitielle associée à la PR ou à la SSc ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est une complication fréquente et grave de la polyarthrite rhumatoïde (PR) et de la sclérodermie systémique (SSc). Les traitements disponibles (mycophénolate, rituximab, tocilizumab, nintedanib) ralentissent le déclin respiratoire sans l'arrêter chez tous les patients.\n\nLe génakumab (GenSci048) est un anticorps monoclonal dirigé contre le GM-CSF, cytokine impliquée dans l'activation des macrophages et l'inflammation pulmonaire. Cette voie est un rationnel plausible dans la PID inflammatoire et fibrosante des connectivites. Ce rationnel est tiré des connaissances générales et n'est pas détaillé dans le registre.\n\nCet essai de phase 2, randomisé en quadruple aveugle contre placebo, promu par Changchun GeneScience, inclura 30 adultes de 18 à 75 ans avec PR ou SSc et PID confirmée au scanner (CVF et DLCO ≥ 40 %), sous un seul immunosuppresseur à dose stable. Le génakumab est injecté par voie sous-cutanée à 300 mg toutes les 4 semaines pendant 24 semaines en aveugle, puis en ouvert.",
+ "interet": "L'étude évalue un nouveau mécanisme d'action pour une complication pulmonaire des connectivites pour laquelle les options restent limitées. L'effectif est faible et l'étude exploratoire.",
+ "profil": "Des adultes de 18 à 75 ans atteints de PR ou de SSc avec pneumopathie interstitielle.",
+ "inclusion": ["Âge de 18 à 75 ans, consentement signé", "PR (critères ACR/EULAR 2010) ou SSc (ACR/EULAR 2013)", "PID confirmée par scanner haute résolution dans les 12 mois", "CVF ≥ 40 % et DLCO corrigée ≥ 40 % de la valeur théorique", "Un seul immunosuppresseur autorisé, à dose stable depuis 3 mois et pendant au moins 6 mois", "Contraception fiable chez les personnes en âge de procréer"],
+ "exclusion": ["Allergie au produit ou aux biothérapies, allergie sévère connue", "Obstruction des voies aériennes (VEMS/CVF réduit)", "Autres critères détaillés : non précisé dans ce résumé"],
+ "bras": [{"nom": "Génakumab (GenSci048)", "traitement": "300 mg par voie sous-cutanée toutes les 4 semaines ; 24 semaines en double aveugle puis phase ouverte"}, {"nom": "Placebo", "traitement": "Placebo toutes les 4 semaines pendant 24 semaines, puis génakumab en ouvert"}],
+ "duree": "Jusqu'à 2 ans environ",
+ "critere": "CVF, DLCO, évaluation globale du médecin et événements indésirables, de l'inclusion jusqu'à environ 2 ans."
+}

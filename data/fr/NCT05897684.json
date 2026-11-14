@@ -1,0 +1,31 @@
+{
+ "h": "50f0dc9f3049",
+ "date": "2026-11-14",
+ "titre": "Étude de sécurité post-AMM de l'avacopan dans les vascularites à ANCA",
+ "question": "Quelle est l'incidence des événements indésirables d'intérêt particulier chez les patients traités par avacopan pour une vascularite à ANCA sévère, par rapport à une induction standard sans avacopan ?",
+ "contexte": "Les vascularites à ANCA (GPA, PAM) sévères sont traitées par corticoïdes associés au rituximab ou au cyclophosphamide. Les corticoïdes à forte dose exposent à de nombreuses complications, notamment infectieuses.\n\nL'avacopan est un antagoniste oral du récepteur C5a. Dans l'essai ADVOCATE, il a permis de réduire fortement l'exposition aux corticoïdes en induction, et il est autorisé dans les vascularites à ANCA sévères actives en association au rituximab ou au cyclophosphamide.\n\nLes signalements de sécurité, notamment hépatiques, infectieux et d'angio-œdème, doivent être suivis en pratique réelle. Avacostar est l'étude post-autorisation de sécurité (PASS) demandée à l'industriel (Vifor).\n\nC'est une cohorte prospective non interventionnelle internationale (Allemagne, Royaume-Uni) comparant environ 250 patients traités par avacopan et 250 patients recevant une induction à base de rituximab ou de cyclophosphamide sans avacopan, pour une vascularite active sévère. Le suivi se fait dans les consultations de routine, jusqu'à 4 ans après l'inclusion du dernier patient.",
+ "interet": "L'étude fournira des données de sécurité à long terme en pratique réelle sur l'avacopan, précieuses pour la décision thérapeutique. Elle est financée par le fabricant, et le groupe comparateur n'est pas randomisé.",
+ "profil": "Des adultes ayant une GPA ou une PAM active sévère, traités par avacopan ou par induction standard sans avacopan.",
+ "inclusion": [
+  "GPA ou PAM diagnostiquée par l'investigateur",
+  "Vascularite active sévère au début de l'induction",
+  "Âge ≥ 18 ans, consentement écrit",
+  "Début de l'avacopan, du cyclophosphamide ou du rituximab dans les 6 derniers mois (ou prévu), hors essai interventionnel"
+ ],
+ "exclusion": [
+  "Participation simultanée à une étude interventionnelle, sauf accord préalable du moniteur médical",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Avacopan",
+   "traitement": "Environ 250 patients traités par avacopan pour une vascularite à ANCA sévère active"
+  },
+  {
+   "nom": "Sans avacopan",
+   "traitement": "Environ 250 patients en induction par cyclophosphamide ou rituximab sans avacopan"
+  }
+ ],
+ "duree": "Jusqu'à 7 ans au total ; suivi jusqu'à 4 ans après l'inclusion du dernier patient",
+ "critere": "Incidence des événements indésirables médicaux d'intérêt particulier (MESI), sur 7 ans"
+}

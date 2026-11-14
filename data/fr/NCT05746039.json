@@ -1,0 +1,35 @@
+{
+ "h": "9e0c4a623346",
+ "date": "2026-11-14",
+ "titre": "Faisabilité du sémaglutide dans les pneumopathies chroniques avancées avec obésité",
+ "question": "Les patients obèses atteints de pneumopathie chronique avancée tolèrent-ils le sémaglutide pendant 12 semaines ?",
+ "contexte": "L'obésité aggrave la dyspnée et la capacité fonctionnelle des patients atteints de pneumopathie interstitielle, de sarcoïdose pulmonaire, de BPCO ou d'hypertension pulmonaire. La perte de poids est difficile à obtenir et les options thérapeutiques sont limitées dans ces maladies avancées.\n\nLe sémaglutide, agoniste du récepteur du GLP-1 autorisé dans le diabète et l'obésité, induit une perte de poids importante. Il est peu étudié dans les pneumopathies chroniques, où la perte de masse maigre et les effets digestifs pourraient poser problème.\n\nCet essai pilote ouvert de l'université de Pennsylvanie, de phase 1/2, inclut 8 adultes obèses (IMC ≥ 30) sous oxygène à l'effort. Il évalue la tolérance, la possibilité d'atteindre la dose cible, puis l'effet sur la fonction respiratoire, la fonction physique et la composition corporelle (masse grasse et maigre) après 12 semaines.",
+ "interet": "Il fournira une première estimation de la faisabilité d'un traitement par agoniste du GLP-1 dans les pneumopathies avancées, préalable à des essais plus larges sur la fonction respiratoire.",
+ "profil": "Des adultes de 18 à 80 ans, obèses, atteints de pneumopathie interstitielle, sarcoïdose, BPCO ou HTP avec oxygène à l'effort.",
+ "inclusion": [
+  "PID, sarcoïdose, BPCO ou hypertension pulmonaire",
+  "Âge de plus de 18 ans (80 ans maximum)",
+  "IMC supérieur à 30 kg/m²",
+  "Oxygène nécessaire à l'effort",
+  "Traitement stable depuis 90 jours",
+  "Traitement de fond de la maladie en cours"
+ ],
+ "exclusion": [
+  "Diabète",
+  "Grossesse ou allaitement",
+  "Perte de poids récente ou traitement amaigrissant dans les 90 jours",
+  "Troubles digestifs récents ou chroniques, gastroparésie",
+  "Sclérodermie",
+  "Antécédent personnel ou familial de cancer médullaire de la thyroïde ou de NEM2",
+  "Pancréatite aiguë ou chronique, maladie thyroïdienne non contrôlée",
+  "Antécédent de tentative de suicide ou idées suicidaires dans les 90 jours, pacemaker ou défibrillateur, hospitalisation en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Sémaglutide",
+   "traitement": "Sémaglutide 1,0 mg par semaine en injection sous-cutanée (Wegovy), 12 semaines"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Tolérance du sémaglutide à 12 semaines"
+}

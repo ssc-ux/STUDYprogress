@@ -1,0 +1,26 @@
+{
+ "h": "9a843aa7015e",
+ "date": "2026-11-14",
+ "titre": "Signatures omiques des exosomes et activité de la sarcoïdose cardiaque",
+ "question": "Les exosomes circulants contiennent-ils des biomarqueurs de l'activité de la sarcoïdose cardiaque ?",
+ "contexte": "La sarcoïdose cardiaque est une atteinte granulomateuse du myocarde pouvant causer des troubles du rythme, une insuffisance cardiaque et une mort subite. Son évaluation de l'activité repose surtout sur la TEP au 18F-FDG, examen coûteux et contraignant, et l'IRM cardiaque.\n\nIl manque des biomarqueurs sanguins fiables pour distinguer une maladie active d'une maladie quiescente et guider l'intensité de l'immunosuppression.\n\nLes exosomes sont de petites vésicules extracellulaires libérées par les cellules et riches en protéines, ARN et lipides, reflétant les tissus d'origine. Cette étude de la Mayo Clinic constitue une cohorte prospective et une biobanque de patients avec ou sans sarcoïdose cardiaque, active ou inactive d'après la TEP au FDG réalisée en pratique. Des analyses omiques des exosomes sanguins viseront à identifier et valider des signatures d'activité.",
+ "interet": "Un marqueur sanguin d'activité pourrait limiter le recours à la TEP au FDG et faciliter l'adaptation du traitement immunosuppresseur.",
+ "profil": "Des adultes avec suspicion ou diagnostic confirmé de sarcoïdose cardiaque, suivis en consultation spécialisée.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Adressé en consultation de sarcoïdose cardiaque pour suspicion ou diagnostic confirmé",
+  "TEP au FDG réalisée dans le cadre des soins",
+  "Capacité à donner son consentement"
+ ],
+ "exclusion": [
+  "Incapacité à donner son consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec sarcoïdose cardiaque",
+   "traitement": "Analyse omique des exosomes du sang périphérique"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Nombre de biomarqueurs validés avec succès, à l'inclusion"
+}

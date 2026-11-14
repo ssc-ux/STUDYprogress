@@ -1,0 +1,14 @@
+{
+ "h": "32564a2181ca",
+ "date": "2026-11-14",
+ "titre": "RAISE : interventions adaptatives sur les déterminants sociaux de santé en rhumatisme inflammatoire",
+ "question": "Un navigateur infirmier et un spécialiste des ressources communautaires réduisent-ils les rendez-vous manqués des patients avec rhumatisme inflammatoire et besoins sociaux ?",
+ "contexte": "Les déterminants sociaux de santé (pauvreté, assurance, accès aux soins) contribuent aux inégalités de prise en charge et de pronostic. Dans les rhumatismes inflammatoires chroniques, ils sont associés à des diagnostics retardés, une moindre observance, une moins bonne qualité de vie et davantage de dommages liés à la maladie. Ces patients ont des traitements coûteux et complexes, une forte comorbidité et un risque de fragmentation des soins.\n\nL'essai RAISE, adaptatif et randomisé, est mené dans le réseau Mass General Brigham (États-Unis). Après dépistage des besoins sociaux, les patients ayant déjà manqué un rendez-vous sont répartis en trois bras de complexité croissante : liste de ressources (soins habituels), spécialiste des ressources communautaires, puis infirmier navigateur formé en rhumatologie qui coordonne aussi les soins. Les non-répondeurs à 6 mois passent au bras supérieur. Une analyse coût-efficacité est prévue. L'étude est promue par le Brigham and Women's Hospital.",
+ "interet": "L'essai doit identifier qui bénéficie de l'intervention la plus simple et la moins coûteuse, et qui nécessite un accompagnement renforcé. Il porte sur le système de soins américain, ce qui limite la transposition en France.",
+ "profil": "Des adultes avec rhumatisme systémique avec arthrite, ayant des besoins sociaux et des rendez-vous manqués récents.",
+ "inclusion": ["Anglophone ou hispanophone, âge ≥ 18 ans", "Maladie rhumatismale systémique avec arthrite", "Au moins un rendez-vous manqué ou annulé le jour même dans l'année", "Au moins un besoin social au questionnaire du réseau Mass General Brigham (hors chômage et éducation)", "Suivi dans une clinique affiliée au Mass General, au Brigham ou au Faulkner"],
+ "exclusion": ["Personne incarcérée", "Refus de contact pour la recherche indiqué dans le dossier", "Déjà inclus dans un programme de gestion de soins en médecine générale", "Complexité médicale nécessitant une intervention infirmière urgente"],
+ "bras": [{"nom": "Bras 1 (contrôle)", "traitement": "Fiches de ressources, soins habituels"}, {"nom": "Bras 2", "traitement": "Aide d'un spécialiste des ressources communautaires"}, {"nom": "Bras 3", "traitement": "Infirmier navigateur bilingue formé en rhumatologie, avec le spécialiste communautaire"}],
+ "duree": "6 à 12 mois, avec changement de bras possible à 6 mois",
+ "critere": "Nombre de rendez-vous manqués, de 12 mois avant à 12 mois après l'inclusion"
+}

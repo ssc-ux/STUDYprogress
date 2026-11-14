@@ -1,0 +1,36 @@
+{
+ "h": "6a83f6c9a1f4",
+ "date": "2026-11-14",
+ "titre": "Exercice neuromusculaire structuré ou exergaming chez des adolescents atteints de FMF",
+ "question": "Un programme d'exercice neuromusculaire sous forme de jeu vidéo actif est-il aussi efficace qu'un programme structuré classique chez des adolescents atteints de FMF ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire autosomique récessive, faite d'accès brefs de fièvre avec inflammation des séreuses, spontanément résolutifs en 1 à 3 jours. Même en dehors des accès, les adolescents présentent une fatigue élevée, une motivation et une activité moindres.\n\nDes études ont montré que ces adolescents ont une moins bonne condition cardiorespiratoire, une moindre capacité d'effort et une force musculaire plus faible que leurs pairs. Dans d'autres rhumatismes de l'enfant (lupus, arthrite juvénile, dermatomyosite), les programmes d'exercice sont sûrs et améliorent la capacité fonctionnelle et la fatigue. Dans la FMF, une seule étude avait comparé un conseil d'activité physique et un programme de danse aérobie en ligne, avec des bénéfices dans les deux cas.\n\nCette étude randomisée, ouverte, promue par l'université d'Istanbul-Cerrahpasa, compare deux formats d'un même programme neuromusculaire pendant 12 semaines, à raison de deux séances par semaine sous supervision d'un kinésithérapeute : exercices structurés classiques, ou exergaming (exercices intégrés à un jeu vidéo). Elle inclut 60 adolescents de 12 à 18 ans. Aucune étude n'avait testé l'exergaming dans la FMF.",
+ "interet": "Elle pourrait identifier un format d'exercice mieux accepté et aussi efficace chez l'adolescent atteint de FMF. Les résultats informeront les programmes de rééducation de ces patients.",
+ "profil": "Des adolescents de 12 à 18 ans atteints de FMF, en période sans accès.",
+ "inclusion": [
+  "Âge de 12 à 18 ans",
+  "FMF diagnostiquée depuis au moins 6 mois dans la clinique de rhumatologie pédiatrique d'Istanbul",
+  "Traitement médical habituel de la FMF en cours",
+  "Période sans accès",
+  "Volonté de participer"
+ ],
+ "exclusion": [
+  "Autre maladie systémique chronique",
+  "Trouble de l'équilibre d'origine vestibulaire ou neurologique, test de Fukuda positif",
+  "Déficit visuel ou auditif",
+  "Scoliose, inégalité de longueur des jambes ou chirurgie récente du membre inférieur",
+  "Amylose",
+  "Douleur aiguë, quelle qu'en soit la cause"
+ ],
+ "bras": [
+  {
+   "nom": "Exercice neuromusculaire structuré",
+   "traitement": "Programme supervisé par un kinésithérapeute, 2 séances par semaine pendant 12 semaines"
+  },
+  {
+   "nom": "Exergaming neuromusculaire",
+   "traitement": "Mêmes exercices sous forme de jeu vidéo actif, supervisés, 2 séances par semaine pendant 12 semaines"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Test de montée de 10 marches, test de marche de 6 minutes et test de lever de chaise en 30 secondes, entre l'inclusion et 12 semaines."
+}

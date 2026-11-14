@@ -1,0 +1,37 @@
+{
+ "h": "1cd8084f751b",
+ "date": "2026-11-14",
+ "titre": "Crème de ruxolitinib topique dans la dermatomyosite cutanée réfractaire",
+ "question": "La crème de ruxolitinib à 1,5 % est-elle sûre et efficace pour les lésions cutanées réfractaires de la dermatomyosite ?",
+ "contexte": "L'atteinte cutanée de la dermatomyosite peut entraîner ulcérations avec surinfection, atrophie, cicatrices, calcinose, rétractions et lipoatrophie. Elle s'accompagne de douleur, de brûlures, de prurit et d'un impact majeur sur la qualité de vie. Elle est souvent résistante aux topiques disponibles (corticoïdes, inhibiteurs de la calcineurine), et les corticoïdes locaux peuvent aggraver l'atrophie cutanée.\n\nLe ruxolitinib est un inhibiteur de JAK1/2. Sa crème à 1,5 % a montré une efficacité sur l'activité et le prurit dans des essais de phase 2 et 3 de dermatite atopique, sans effet indésirable notable. Cet essai de phase 2 de la Cleveland Clinic, à bras unique (15 patients), l'évalue en appoint chez des patients en échec des topiques. Le traitement systémique doit rester stable pendant l'étude.",
+ "interet": "Un traitement topique ciblé pourrait offrir une option pour les lésions cutanées de dermatomyosite réfractaires aux topiques usuels, avec moins d'exposition systémique.",
+ "profil": "Des adultes atteints de dermatomyosite avec lésions cutanées actives réfractaires aux traitements topiques.",
+ "inclusion": [
+  "Âge ≥ 18 ans, dermatomyosite classique, juvénile ou amyopathique (Bohan et Peter ou Sontheimer)",
+  "Biopsie cutanée compatible et lésions cutanées actuelles de dermatomyosite",
+  "Atteinte cutanée malgré corticoïdes systémiques et au moins un autre traitement systémique",
+  "Surface atteinte > 1 % et < 20 %, CDASI activité > 6, évaluation globale médecin > 2",
+  "Échec d'au moins un topique, dernière application > 2 semaines avant l'inclusion",
+  "Traitement systémique stable depuis au moins 2 mois",
+  "Contraception adaptée"
+ ],
+ "exclusion": [
+  "Atteinte cutanée minime (< 1 % de surface ou CDASI < 6)",
+  "Plus de 20 % de surface cutanée atteinte",
+  "Topique prescrit dans les 2 semaines précédentes",
+  "Aspect cutané ou biopsie évoquant un autre diagnostic",
+  "Traitement systémique non stable",
+  "Anti-JAK systémique en cours ou échec antérieur d'un anti-JAK, y compris topique",
+  "Polymyosite, myosite à inclusions ou chevauchement",
+  "Cancer actif (hors cancer cutané non mélanome) ou dermatomyosite paranéoplasique",
+  "Âge < 18 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement",
+   "traitement": "Crème de ruxolitinib 1,5 % appliquée sur les lésions cutanées"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 8 semaines)",
+ "critere": "Variation du score CDASI à 8 semaines."
+}
