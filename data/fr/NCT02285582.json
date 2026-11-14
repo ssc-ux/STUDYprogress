@@ -1,0 +1,14 @@
+{
+ "h": "09fc560058f3",
+ "date": "2026-11-14",
+ "titre": "Registre international des histiocytoses rares non langerhansiennes",
+ "question": "Comment les histiocytoses rares se présentent-elles, sont-elles traitées et évoluent-elles dans la vie réelle ?",
+ "contexte": "Les histiocytoses rares regroupent des maladies liées à l'accumulation d'histiocytes qui ne répondent ni aux critères de l'histiocytose langerhansienne ni à ceux de la lymphohistiocytose hémophagocytaire. Elles comprennent la famille du xanthogranulome juvénile, la maladie d'Erdheim-Chester, la maladie de Rosai-Dorfman, la réticulohistiocytose multicentrique et les histiocytoses malignes. Elles peuvent infiltrer la peau, les os, les poumons, le foie, la rate et le système nerveux central.\n\nL'évolution va de formes localisées résolutives à des formes disséminées progressives, parfois mortelles. Du fait de leur extrême rareté, il n'existe presque pas de données prospectives ni de grandes séries rétrospectives, et la Histiocyte Society ne peut souvent pas émettre de recommandation de traitement précise. Ce registre international, promu par The Hospital for Sick Children (Toronto), vise à uniformiser le diagnostic, à recueillir les données cliniques, épidémiologiques, thérapeutiques et de survie, et à offrir une relecture anatomopathologique par des experts. Il pourrait aussi servir de cadre à de futurs essais et à des études biologiques associées.",
+ "interet": "Le registre pourrait produire les premières données robustes sur l'histoire naturelle et les traitements de ces maladies, et soutenir de futures recommandations thérapeutiques.",
+ "profil": "Des patients de tout âge ayant une histiocytose rare diagnostiquée depuis 1995, ou à venir.",
+ "inclusion": ["Tout âge au diagnostic", "Diagnostic d'histiocytose rare, posé avant ou après l'ouverture du registre", "Cas diagnostiqués depuis le 1er janvier 1995, et prospectivement", "Consentement signé par le patient ou son parent ou représentant légal", "Patients avec trouble cognitif inclus après consentement du représentant légal", "Patients décédés inclus si la famille est contactée au moins 6 mois après le décès"],
+ "exclusion": ["Consentement non signé", "Diagnostic autre qu'une histiocytose rare", "Cas diagnostiqués avant 1995"],
+ "bras": [{"nom": "Histiocytoses rares", "traitement": "Registre : recueil des données de présentation, des traitements et de l'évolution, sans intervention imposée"}],
+ "duree": "Registre ouvert sur environ 10 ans ; analyse des données en moyenne chaque année",
+ "critere": "Données sur la présentation de la maladie, les traitements utilisés et leurs résultats dans le temps, analysées chaque année en moyenne"
+}

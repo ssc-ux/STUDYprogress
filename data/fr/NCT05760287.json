@@ -1,0 +1,26 @@
+{
+ "h": "1c6495f21933",
+ "date": "2026-11-14",
+ "titre": "Caractérisation échocardiographique de l'amylose cardiaque",
+ "question": "Quels paramètres échocardiographiques avancés distinguent l'amylose cardiaque des autres cardiomyopathies hypertrophiques et prédisent son évolution ?",
+ "contexte": "L'amylose cardiaque est une cardiomyopathie restrictive infiltrative, le plus souvent due à l'amylose AL ou à la transthyrétine. Elle est sous-diagnostiquée, car elle ressemble aux autres cardiopathies avec hypertrophie. L'échocardiographie en est souvent le premier examen, avec un aspect caractéristique d'épargne apicale du strain longitudinal.\n\nLe tafamidis, stabilisateur de la TTR, améliore le pronostic de l'amylose ATTR cardiaque. On sait peu si le myocarde peut récupérer sous traitement. Cette étude ambispective monocentrique de la Fondation Gemelli (Rome) inclut des patients avec amylose cardiaque définie selon les recommandations de l'ESC. Elle étudie le speckle-tracking 2D et 3D pour le diagnostic différentiel avec les autres cardiomyopathies hypertrophiques. Elle évalue aussi la réversibilité des atteintes sous traitement et de nouveaux prédicteurs d'événements cardiovasculaires.",
+ "interet": "Elle pourrait fournir des critères échocardiographiques simples pour orienter le diagnostic et suivre la réponse au tafamidis.",
+ "profil": "Des adultes atteints d'amylose cardiaque suivis à l'hôpital Gemelli de Rome.",
+ "inclusion": [
+  "Amylose cardiaque définie selon le groupe de travail de la Société européenne de cardiologie",
+  "Données cliniques, électrocardiographiques et échocardiographiques disponibles",
+  "Au moins une visite de suivi"
+ ],
+ "exclusion": [
+  "Données manquantes",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec amylose cardiaque",
+   "traitement": "Suivi observationnel, avec ou sans traitement spécifique (par exemple tafamidis)"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois de suivi",
+ "critere": "Variation des paramètres échocardiographiques à 6 mois (avec ou sans traitement spécifique) et événements cardiovasculaires à 24 mois."
+}

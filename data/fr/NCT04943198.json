@@ -1,0 +1,31 @@
+{
+ "h": "a095ec54e9c9",
+ "date": "2026-11-14",
+ "titre": "Durée optimale du vémurafénib dans l'histiocytose réfractaire BRAF positive de l'enfant",
+ "question": "Combien de temps faut-il poursuivre le vémurafénib après négativation de BRAF chez des enfants atteints d'histiocytose réfractaire avec mutation BRAF, 6 ou 12 mois ?",
+ "contexte": "Les histiocytoses de l'enfant, dont l'histiocytose langerhansienne, sont des maladies clonales liées à une activation de la voie MAPK. La mutation BRAF V600E en est la plus fréquente. Le traitement de première ligne associe vinblastine et prednisolone, avec en deuxième ligne la cytarabine ou la cladribine. Les formes réfractaires, avec atteinte d'organes à risque ou atteinte neurodégénérative, ont un mauvais pronostic.\n\nLes inhibiteurs de BRAF comme le vémurafénib donnent des réponses rapides dans ces formes. Les rechutes sont toutefois fréquentes à l'arrêt, et la durée optimale du traitement reste inconnue. La négativation de BRAF dans l'ADN tumoral circulant permet de suivre la réponse.\n\nCette phase 2 polonaise (étude BRAVO, projet POLHISTIO), monocentrique, ouverte et non commerciale, compare deux durées de vémurafénib après négativation de BRAF : 6 ou 12 mois. Elle inclut 25 patients de 1 à 18 ans. Le critère principal est la survie sans événement à 2 ans.",
+ "interet": "L'étude pourrait aider à fixer la durée du traitement par inhibiteur de BRAF chez l'enfant, entre risque de rechute et toxicité d'un traitement prolongé. L'effectif est petit.",
+ "profil": "Des enfants et adolescents de 1 à 18 ans ayant une histiocytose réfractaire avec mutation BRAF.",
+ "inclusion": [
+  "Mutation BRAF dans la tumeur ou l'ADN tumoral circulant",
+  "Échec du traitement : progression sous 1re ou 2e ligne, réactivation ou atteinte d'organe à risque",
+  "Ou 3e réactivation, ou réactivation après arrêt du vémurafénib",
+  "Ou signes de maladie neurodégénérative à l'IRM cérébrale",
+  "Consentement éclairé, contraception efficace jusqu'à 1 an après l'arrêt si pubère",
+  "Participation à l'étude HISTIOGEN"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Hypersensibilité au vémurafénib",
+  "Iritis, uvéite ou obstruction veineuse rétinienne",
+  "Traitement concomitant interagissant avec le vémurafénib",
+  "Toxicité persistante d'un traitement antérieur",
+  "Autre cancer avant l'inclusion"
+ ],
+ "bras": [
+  { "nom": "R1", "traitement": "Vémurafénib poursuivi 6 mois après négativation de BRAF" },
+  { "nom": "R2", "traitement": "Vémurafénib poursuivi 12 mois après négativation de BRAF" }
+ ],
+ "duree": "Non précisé (critère évalué à 2 ans)",
+ "critere": "Survie sans événement à 2 ans"
+}

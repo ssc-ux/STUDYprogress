@@ -1,0 +1,34 @@
+{
+ "h": "9d308570ed04",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-NK anti-CD19 (KN5501) dans le PTI réfractaire",
+ "question": "Les cellules CAR-NK anti-CD19 KN5501 sont-elles sûres et réalisables chez des patients avec PTI réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes. Après les corticoïdes et les immunoglobulines, on recourt aux agonistes du récepteur de la thrombopoïétine, au rituximab, aux immunosuppresseurs et à la splénectomie. Une minorité de patients reste réfractaire à toutes ces options, avec un risque hémorragique persistant.\n\nLes cellules NK modifiées par un récepteur chimérique anti-CD19 (CAR-NK) visent à éliminer les lymphocytes B producteurs d'auto-anticorps. Elles pourraient causer moins de syndrome de relargage cytokinique et de neurotoxicité que les CAR-T, et être produites à partir de donneurs sains (information générale, non issue du registre).\n\nCet essai pilote chinois de phase 1, à bras unique et ouvert, prévoit d'inclure 9 patients avec deux niveaux de dose (9 × 10^9 et 13,5 × 10^9 cellules). Le critère principal est la tolérance et la faisabilité, l'efficacité sur les plaquettes étant secondaire.",
+ "interet": "Il pourrait établir la faisabilité et la tolérance des CAR-NK dans le PTI réfractaire, avant des essais d'efficacité. L'effectif est très faible.",
+ "profil": "Des adultes de 18 à 65 ans avec un PTI réfractaire aux traitements usuels, dont le rituximab et les agonistes de la TPO.",
+ "inclusion": [
+  "Âge 18-65 ans",
+  "PTI selon les critères ASH 2019, autres thrombopénies exclues",
+  "PTI réfractaire : échec des traitements de première ligne, des agonistes de la TPO et du rituximab, ou échec de la splénectomie",
+  "ECOG ≤ 1",
+  "FEVG ≥ 50 % sans épanchement péricardique significatif",
+  "≥ 4 semaines depuis le dernier traitement"
+ ],
+ "exclusion": [
+  "Allergie grave au cyclophosphamide, à la fludarabine ou au tocilizumab",
+  "Infection active sous antibiotiques IV",
+  "Déficit immunitaire acquis ou congénital",
+  "Insuffisance cardiaque NYHA III-IV",
+  "Antécédent d'épilepsie ou de maladie du système nerveux central",
+  "Antécédent d'infection herpétique sévère, autre cancer primitif (sauf guéri)",
+  "Grossesse, allaitement ou projet de grossesse dans les 6 mois"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-NK anti-CD19",
+   "traitement": "KN5501 par paliers de dose : 9 × 10^9 puis 13,5 × 10^9 cellules"
+  }
+ ],
+ "duree": "52 semaines de suivi",
+ "critere": "Toxicités limitant la dose dans les 4 semaines, et événements indésirables émergents du traitement jusqu'à 52 semaines."
+}

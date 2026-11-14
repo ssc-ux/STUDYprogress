@@ -1,0 +1,14 @@
+{
+ "h": "b20d04bbbd54",
+ "date": "2026-11-14",
+ "titre": "Épaisseur de la paroi de la veine fémorale et marqueurs inflammatoires dans la maladie de Behçet",
+ "question": "L'épaisseur de la paroi de la veine fémorale et les indices inflammatoires sont-ils liés à l'activité de la maladie de Behçet ?",
+ "contexte": "La maladie de Behçet est une vascularite des vaisseaux de tous calibres, avec aphtose buccale et génitale, atteinte oculaire, cutanée et articulaire. Elle touche les veines et peut provoquer des thromboses veineuses profondes et des complications vasculaires, surtout chez le jeune homme.\n\nL'évaluation de l'activité repose sur des scores cliniques et des marqueurs biologiques peu spécifiques. L'échographie de la paroi veineuse est un examen non invasif qui pourrait révéler une atteinte vasculaire subclinique. Cette étude cas-témoins de l'Université de Sohag (Égypte) mesure l'épaisseur de la paroi de la veine fémorale chez 100 participants, patients avec maladie de Behçet (critères internationaux ICBD) et témoins. Elle la compare aux indices inflammatoires, à l'activité de la maladie et à certaines manifestations cliniques. L'étude est monocentrique et transversale.",
+ "interet": "Les résultats pourraient proposer l'épaisseur de la paroi veineuse comme marqueur simple d'activité ou d'atteinte vasculaire dans le Behçet. Les patients avec comorbidités vasculaires sont exclus, ce qui limite la portée.",
+ "profil": "Des adultes avec maladie de Behçet et des témoins.",
+ "inclusion": ["Maladie de Behçet selon les critères internationaux (ICBD)", "Âge de 19 à 80 ans", "Patient coopératif, capable de répondre aux questions", "Consentement éclairé"],
+ "exclusion": ["Autre maladie rhumatologique ou vasculaire", "Anomalies hépatiques, rénales, hyperlipidémie ou troubles de la coagulation", "Hypertension, diabète, cancer ou infection active", "Aspirine ou autre antiagrégant dans les 6 derniers mois", "Refus de consentement écrit"],
+ "bras": [{"nom": "Patients avec maladie de Behçet et témoins", "traitement": "Mesure échographique de l'épaisseur de la paroi de la veine fémorale et dosage des marqueurs inflammatoires"}],
+ "duree": "Une semaine",
+ "critere": "Épaisseur de la paroi de la veine fémorale."
+}

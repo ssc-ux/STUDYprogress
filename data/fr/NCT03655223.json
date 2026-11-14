@@ -1,0 +1,26 @@
+{
+ "h": "4ce5dca1eda3",
+ "date": "2026-11-14",
+ "titre": "Early Check : dépistage néonatal élargi de maladies rares en Caroline du Nord",
+ "question": "Un dépistage volontaire élargi sur les taches de sang séchées du dépistage néonatal permet-il d'identifier précocement des nouveau-nés atteints de maladies rares ?",
+ "contexte": "Le dépistage néonatal repose sur un panel restreint de maladies pour lesquelles un traitement présymptomatique est démontré plus efficace qu'un traitement après l'apparition des symptômes. Or la plupart des maladies rares candidates au dépistage touchent trop peu d'enfants pour que les essais démontrent le bénéfice d'un diagnostic précoce, ce qui freine leur inscription aux programmes officiels.\n\nEarly Check est un programme de recherche de santé publique, mené en Caroline du Nord, qui propose aux parents un dépistage volontaire complémentaire sur le sang résiduel du dépistage néonatal classique. Le panel couvre un grand nombre d'affections : amyotrophie spinale, syndrome de l'X fragile, dystrophie de Duchenne, diabète néonatal, déficits immunitaires combinés sévères, maladies métaboliques, drépanocytose, hémophilies, entre autres. Plus de 120 000 nourrissons sont éligibles chaque année et plus de 95 % devraient avoir un dépistage négatif.\n\nLes nourrissons dépistés positifs bénéficient d'un test de confirmation gratuit, d'une évaluation physique et développementale et d'un conseil génétique pour leurs parents. L'étude a trois objectifs : développer une approche d'identification des enfants atteints, étudier l'impact sur les enfants et les familles, et évaluer le programme. Elle est promue par RTI International avec de nombreux partenaires académiques, institutionnels, associatifs et industriels.",
+ "interet": "L'étude produit des données sur la faisabilité et l'impact d'un dépistage néonatal élargi, ainsi que sur l'histoire naturelle et le bénéfice du diagnostic précoce de maladies rares. Ces éléments peuvent éclairer les décisions d'élargissement des programmes de dépistage.",
+ "profil": "Des nouveau-nés de moins de 31 jours nés ou vivant en Caroline du Nord ou du Sud, avec dépistage néonatal standard, et les mères des enfants concernés.",
+ "inclusion": [
+  "Nouveau-né ayant eu le dépistage néonatal en Caroline du Nord",
+  "Nouveau-né résidant en Caroline du Nord ou du Sud",
+  "Âge de moins de 31 jours",
+  "Consentement donné par la personne ayant la garde légale (la mère si elle a la garde)",
+  "Capacité à utiliser le portail de consentement en ligne (anglais ou espagnol)"
+ ],
+ "exclusion": [
+  "Échantillon de dépistage néonatal non disponible",
+  "Quantité insuffisante de l'échantillon pour réaliser le dépistage"
+ ],
+ "bras": [
+  { "nom": "Nouveau-nés de Caroline du Nord", "traitement": "Dépistage élargi sur les taches de sang séchées ; test de confirmation gratuit si dépistage positif" },
+  { "nom": "Mères des nouveau-nés", "traitement": "Participation à l'étude ; test de portage pour les mères d'enfants avec syndrome de l'X fragile" }
+ ],
+ "duree": "Dépistage unique sur échantillon existant ; suivi proposé aux familles dont l'enfant est dépisté positif",
+ "critere": "Taux d'incidence : nombre de nouveau-nés dépistés positifs par rapport à l'échantillon total, évalué tous les 6 mois pendant environ 3 ans"
+}

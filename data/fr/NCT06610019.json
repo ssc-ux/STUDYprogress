@@ -1,0 +1,14 @@
+{
+ "h": "d495bcc44f07",
+ "date": "2026-11-14",
+ "titre": "Imagerie cardiovasculaire multimodale dans le Bronx : cardiomyopathies et pronostic",
+ "question": "L'imagerie cardiaque avancée, surtout l'IRM, permet-elle de préciser l'étiologie des cardiomyopathies et de prédire la mortalité dans des minorités ethniques du Bronx ?",
+ "contexte": "Déterminer l'étiologie d'une cardiomyopathie est essentiel pour choisir le traitement et estimer le pronostic. Les cardiomyopathies non ischémiques regroupent des causes infiltratives (amylose cardiaque, sarcoïdose, maladie de Fabry), génétiques (cardiomyopathie hypertrophique, cardiomyopathie arythmogène du ventricule droit) et toxiques, notamment liées aux traitements anticancéreux.\n\nL'IRM cardiaque est la référence pour quantifier les volumes et la fonction ventriculaires. Elle apporte aussi une caractérisation tissulaire (rehaussement tardif, cartographie T1/T2) et, avec le feature-tracking, une mesure de la déformation myocardique. Les populations hispaniques et afro-américaines ont une morbi-mortalité cardiovasculaire plus élevée, mais les données sur la prévalence des cardiomyopathies dans ces groupes sont limitées. Cette cohorte du Montefiore Medical Center (Bronx), qui inclut tout adulte adressé pour une IRM cardiaque, vise à décrire les étiologies et à construire des modèles de stratification du risque à partir de marqueurs d'imagerie. Le suivi repose sur la revue des dossiers jusqu'à 5 ans.",
+ "interet": "L'étude pourrait fournir des scores pronostiques fondés sur l'IRM cardiaque, validés dans des populations souvent sous-représentées dans la recherche. Elle éclairera la prévalence des cardiomyopathies infiltratives, dont l'amylose et la sarcoïdose.",
+ "profil": "Des adultes adressés pour une IRM cardiaque au Montefiore Health System.",
+ "inclusion": ["Adulte de 18 ans ou plus", "Adressé pour une IRM cardiaque dans le Montefiore Health System"],
+ "exclusion": ["Patient ne remplissant pas le critère d'inclusion", "Autres critères d'exclusion non précisés"],
+ "bras": [{"nom": "Cohorte IRM cardiaque", "traitement": "Patients adressés pour IRM cardiaque, suivis par revue de dossier, sans intervention"}],
+ "duree": "Suivi par dossier jusqu'à 5 ans",
+ "critere": "Mortalité et mort subite cardiaque entre l'IRM index et la revue de dossier, jusqu'à 5 ans."
+}

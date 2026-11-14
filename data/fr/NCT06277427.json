@@ -1,0 +1,33 @@
+{
+ "h": "cda901d5c4b6",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA PRG-1801 dans les vascularites à ANCA et la néphrite lupique réfractaires",
+ "question": "Le CAR-T anti-BCMA PRG-1801 est-il sûr chez des patients avec vascularite à ANCA ou néphrite lupique réfractaires ?",
+ "contexte": "La néphrite lupique et les vascularites associées aux ANCA (GPA, PAM) sont des maladies auto-immunes graves. Une partie des patients reste réfractaire ou rechute malgré les traitements standards (corticoïdes, cyclophosphamide, rituximab, mycophénolate, bélimumab). Les auto-anticorps pathogènes y jouent un rôle central.\n\nIls sont produits par des plasmablastes et des plasmocytes qui expriment BCMA, une cible absente de la plupart des cellules saines. Les CAR-T anti-CD19 ont montré des résultats prometteurs dans le lupus. Les CAR-T anti-BCMA visent en plus les plasmocytes à longue durée de vie, peu sensibles au rituximab.\n\nCet essai chinois ouvert évalue le PRG-1801 après lymphodéplétion (fludarabine, cyclophosphamide). Deux niveaux de dose sont testés (2,5 et 5,0 × 10^6 cellules/kg), avec 12 à 24 patients au total et un délai d'au moins 14 jours entre deux patients d'un même palier. Le critère principal est la tolérance.",
+ "interet": "L'étude pourrait établir la dose et la tolérance d'un CAR-T anti-BCMA dans deux maladies auto-immunes réfractaires. L'efficacité reste à démontrer par des études ultérieures.",
+ "profil": "Des adultes de 18 à 70 ans avec une vascularite à ANCA (GPA ou PAM) ou une néphrite lupique proliférative, réfractaires ou en rechute.",
+ "inclusion": [
+  "Âge 18-70 ans",
+  "Vascularite à ANCA (GPA/PAM) active, BVAS ≥ 3, ANCA positifs, non rémittente après traitement standard ou en rechute",
+  "Ou néphrite lupique de classe III/IV (± V) sur biopsie, en échec ou rechute, SLEDAI-2000 ≥ 8",
+  "Fonction rénale conservée (DFG ≥ 15 ml/min/1,73 m² si atteinte rénale)",
+  "Neutrophiles ≥ 1,0 G/L, plaquettes ≥ 50 G/L, hémoglobine ≥ 8 g/dl"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Hémorragie alvéolaire sous ventilation invasive",
+  "Autre maladie auto-immune systémique associée",
+  "Cancer dans les 5 ans (sauf cas limités)",
+  "NT-proBNP > 8500 ng/L, NYHA IV, infarctus ou angor instable dans les 6 mois",
+  "Hépatite B active, VHC, VIH ou syphilis ; infection active",
+  "Rituximab dans les 24 semaines ou immunosuppresseurs récents"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T PRG-1801",
+   "traitement": "Lymphodéplétion puis perfusion unique de CAR-T anti-BCMA : 2,5 × 10^6 ou 5,0 × 10^6 cellules/kg"
+  }
+ ],
+ "duree": "24 mois après la perfusion",
+ "critere": "Incidence des événements indésirables à 24 mois, et toxicités limitant la dose à 28 jours et 3 mois."
+}

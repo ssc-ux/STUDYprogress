@@ -1,0 +1,14 @@
+{
+ "h": "61d353453268",
+ "date": "2026-11-14",
+ "titre": "Siltuximab pour réduire les symptômes après autogreffe (myélome, amylose AL, 60 à 75 ans)",
+ "question": "Le blocage de l'IL-6 par siltuximab améliore-t-il les symptômes (fatigue, nausées, douleurs, troubles du sommeil) après autogreffe chez les patients de 60 à 75 ans ?",
+ "contexte": "L'autogreffe de cellules souches après melphalan à haute dose est bénéfique dans le myélome multiple et l'amylose AL. Elle s'accompagne cependant de symptômes marqués (asthénie, nausées, douleurs, troubles du sommeil), qui augmentent les complications et la durée d'hospitalisation, surtout chez les patients de 60 à 75 ans.\n\nLa survenue et l'intensité de ces symptômes sont liées à une élévation de cytokines inflammatoires, notamment l'interleukine-6 (IL-6). Cette étude de phase 2 monobras du Memorial Sloan Kettering évalue le siltuximab, anticorps anti-IL-6, à la dose de 11 mg/kg, administré 7 jours avant et 21 jours après la perfusion de cellules souches. Les symptômes sont mesurés par le MD Anderson Symptom Inventory (MDASI). Le critère principal est le nombre de patients dont les symptômes s'améliorent à 30 jours.",
+ "interet": "L'étude pourrait montrer si un blocage de l'IL-6 réduit la morbidité symptomatique de l'autogreffe chez le sujet âgé, avec un effectif de 30 patients et sans bras comparateur.",
+ "profil": "Des adultes de 60 à 75 ans avec myélome symptomatique ou amylose AL, candidats à une autogreffe par melphalan.",
+ "inclusion": ["Myélome symptomatique ou amylose AL confirmés histologiquement, autogreffe par melphalan 140 ou 200 mg/m2", "Âge de 60 à 75 ans", "Au moins 3 x 10^6 CD34+/kg à perfuser", "DLCO > 45 %, FEVG > 45 %", "Karnofsky ≥ 60 % ou ECOG 0-2", "Plaquettes ≥ 20 x 10^9/L, ALT/AST ≤ 2,5 N, bilirubine ≤ 2,5 N, clairance > 40 mL/min"],
+ "exclusion": ["Exposition antérieure à un agent ciblant l'IL-6 ou son récepteur", "Autre cancer dans les 2 ans (sauf exceptions de cancers cutanés et du col in situ)", "Autres affections concomitantes précisées au protocole, non reprises dans le résumé du registre", "Femme en âge de procréer sans contraception hautement efficace"],
+ "bras": [{"nom": "Siltuximab", "traitement": "Siltuximab 11 mg/kg, 7 jours avant et 21 jours après la perfusion de cellules souches (±2 jours)"}],
+ "duree": "Environ 30 jours après l'autogreffe pour le critère principal",
+ "critere": "Nombre de patients avec amélioration des symptômes à 30 jours après l'autogreffe"
+}

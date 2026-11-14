@@ -1,0 +1,25 @@
+{
+ "h": "0bdf99ea0f4e",
+ "date": "2026-11-14",
+ "titre": "Collecte d'échantillons chez des patients avec VIH, KSHV, lésions virales précancéreuses ou cancer (NCI)",
+ "question": "Peut-on constituer une collection d'échantillons de sang, moelle, tumeur et tissus de patients infectés par le VIH, le KSHV ou d'autres virus oncogènes, ou atteints de cancer, pour des travaux de recherche ?",
+ "contexte": "Le virus de l'immunodéficience humaine, l'herpèsvirus associé au sarcome de Kaposi (KSHV/HHV-8), le virus d'Epstein-Barr et le papillomavirus sont associés à des cancers et à des lésions précancéreuses. Ils sont notamment en cause dans le sarcome de Kaposi, le lymphome des séreuses, la maladie de Castleman multicentrique liée au KSHV et les lésions intra-épithéliales cervicales ou anales.\n\nCe protocole du NCI (États-Unis) sert de cadre à la collecte de sérum, de cellules circulantes, de moelle osseuse et de tissu tumoral ou normal, ainsi que d'autres liquides (urine, salive, sperme, selles). Les échantillons sont étudiés dans la branche VIH et néoplasies associées du NCI, à Frederick ou chez des collaborateurs. Les prélèvements tumoraux se font par ponction à l'aiguille fine, ponction de liquide pleural ou péritonéal, ou biopsie, si le risque est minime. L'étude est observationnelle et ne teste aucun traitement.",
+ "interet": "Cette biobanque alimente des projets de recherche sur la physiopathologie des cancers viro-induits. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes exposés ou infectés par le VIH, le KSHV, l'EBV, le HTLV-1 ou le HPV, ou ayant un cancer, une maladie de Castleman ou une lésion intra-épithéliale.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ECOG ≤ 3",
+  "Exposition à risque ou séropositivité pour VIH, KSHV, EBV ou HTLV-1 (un antécédent suffit)",
+  "Ou cancer, maladie de Castleman multicentrique, ou lésions cutanées évocatrices de sarcome de Kaposi",
+  "Ou lésion intra-épithéliale cervicale ou anale",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {"nom": "Participants", "traitement": "Adultes avec infection VIH ou KSHV, ou cancer : prélèvements de sang, liquides, moelle ou tissus à l'inclusion et lors des visites de suivi"}
+ ],
+ "duree": "Non précisé (étude en cours, visites de suivi possibles)",
+ "critere": "Obtention de sérum, cellules circulantes, moelle osseuse et tissus tumoraux ou normaux, en continu"
+}

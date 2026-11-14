@@ -1,0 +1,26 @@
+{
+ "h": "cf4073ad2e7f",
+ "date": "2026-11-14",
+ "titre": "TEP au FDG et au 68Ga-DOTA-Siglec-9 pour évaluer l'activité de la sclérodermie systémique",
+ "question": "La TEP/TDM au FDG et au 68Ga-DOTA-Siglec-9 permet-elle de détecter l'inflammation chez des patients ayant une sclérodermie systémique active et récente ?",
+ "contexte": "Dans la sclérodermie systémique, l'évaluation quantitative de l'activité de la maladie reste difficile. Les marqueurs cliniques et biologiques sont imparfaits. Identifier tôt les patients qui répondront peu au traitement pourrait réduire la morbidité et les coûts.\n\nL'étude évalue deux caractéristiques de la maladie en imagerie TEP/TDM. L'activité métabolique est explorée par le 18F-FDG, analogue du glucose. L'expression de la protéine d'adhésion vasculaire 1 (VAP-1), induite par l'inflammation, est explorée par le traceur 68Ga-DOTA-Siglec-9.\n\nIl s'agit d'une petite étude exploratoire du CHU de Turku (Finlande), sur 10 adultes ayant une sclérodermie récente (moins de 5 ans), active, sans traitement immunosuppresseur antérieur. Le but est de savoir si cette imagerie peut servir au suivi de l'activité.",
+ "interet": "L'étude pourrait ouvrir la voie à une imagerie fonctionnelle pour apprécier l'activité inflammatoire de la sclérodermie et guider le traitement. L'effectif est très limité.",
+ "profil": "Des adultes ayant une sclérodermie systémique active apparue depuis moins de 5 ans, sans immunosuppresseur antérieur.",
+ "inclusion": [
+  "Adulte avec sclérodermie systémique active",
+  "Début (premier signe hors Raynaud) il y a moins de 5 ans",
+  "Maladie active : anomalies capillaroscopiques péri-unguéales et/ou CRP ou VS élevée"
+ ],
+ "exclusion": [
+  "Mineur, grossesse, allaitement, personne handicapée ou détenue",
+  "Rhumatisme inflammatoire ou autre maladie auto-immune, actuels ou passés",
+  "Immunosuppresseur, DMARD ou biothérapie antérieurs (hydroxychloroquine admise)",
+  "Corticoïdes intra-articulaires ou parentéraux dans les 4 semaines",
+  "Prostanoïdes, inhibiteurs de la PDE5 ou antagonistes de l'endothéline dans les 4 semaines"
+ ],
+ "bras": [
+  { "nom": "Patients sclérodermiques", "traitement": "TEP/TDM au 18F-FDG et au 68Ga-DOTA-Siglec-9, groupe unique" }
+ ],
+ "duree": "Non précisé (examen au jour 1)",
+ "critere": "Détection de l'inflammation sur les images TEP/TDM, au jour 1"
+}

@@ -1,0 +1,30 @@
+{
+ "h": "5f898c108761",
+ "date": "2026-11-14",
+ "titre": "Virothérapie oncolytique ciblée et histoire naturelle de la maladie de Castleman multicentrique liée au KSHV",
+ "question": "Quelle est l'histoire naturelle de la maladie de Castleman multicentrique liée au KSHV et des traitements ciblés peuvent-ils la contrôler ?",
+ "contexte": "La maladie de Castleman multicentrique (MCD) associée au KSHV (herpèsvirus 8) est un syndrome lymphoprolifératif rare et grave, plus fréquent chez les personnes infectées par le VIH. Son pronostic est mauvais, avec une survie médiane d'environ 2 ans, et il n'existe pas de traitement standard validé pour tous les cas.\n\nLe rationnel est une virothérapie oncolytique ciblée : des kinases virales exprimées dans les cellules infectées par le KSHV pourraient convertir la zidovudine et le ganciclovir (ou valganciclovir) en métabolites toxiques, entraînant la mort sélective de ces cellules. Cette étude du NCI (États-Unis) associe un suivi d'histoire naturelle et des traitements selon la situation : zidovudine à forte dose avec valganciclovir, avec ou sans bortézomib, sirolimus, rituximab avec doxorubicine liposomale suivi d'interféron alpha, ou rituximab avec chimiothérapie EPOCH. Elle prévoit des biopsies répétées, avec des TEP au FDG à visée de recherche.",
+ "interet": "L'étude pourrait préciser le déroulement de la MCD liée au KSHV et valider une approche ciblée sur le virus, éventuellement transposable à d'autres tumeurs virales. Elle n'a pas encore de résultats publiés au registre.",
+ "profil": "Des adultes ayant une maladie de Castleman multicentrique liée au KSHV prouvée par biopsie, avec ou sans VIH.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "MCD associée au KSHV prouvée par biopsie, confirmée par le laboratoire d'anatomopathologie du NCI",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Toxicité de grade IV (CTCAE v3.0) non liée au VIH, à son traitement ou à la MCD, empêchant le traitement ou l'observation",
+  "Autre cancer nécessitant un traitement et empêchant l'utilisation des traitements de l'étude ou le suivi de l'histoire naturelle",
+  "Grossesse",
+  "Toute situation rendant la participation dangereuse ou inappropriée, selon l'investigateur"
+ ],
+ "bras": [
+  {"nom": "Histoire naturelle", "traitement": "Observation seule"},
+  {"nom": "Traitement 5", "traitement": "Zidovudine à forte dose et valganciclovir"},
+  {"nom": "Traitement 3", "traitement": "Bortézomib plus zidovudine à forte dose et valganciclovir, chez les non-répondeurs à la zidovudine et au valganciclovir seuls"},
+  {"nom": "Traitement 1", "traitement": "Sirolimus seul, quand la virothérapie semble peu adaptée"},
+  {"nom": "Traitement 4", "traitement": "Rituximab et doxorubicine liposomale, suivis d'un traitement de consolidation ou d'entretien par interféron alpha à doses croissantes"},
+  {"nom": "Traitement 2", "traitement": "Rituximab avec chimiothérapie EPOCH (étoposide, doxorubicine, vincristine, cyclophosphamide, prednisone, filgrastim) en sauvetage"}
+ ],
+ "duree": "Jusqu'à la clôture de l'étude (fin prévue en 2028)",
+ "critere": "Description de l'histoire naturelle de la maladie, à la clôture de l'étude"
+}

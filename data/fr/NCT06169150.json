@@ -1,0 +1,33 @@
+{
+ "h": "89d4095dcb36",
+ "date": "2026-11-14",
+ "titre": "Manifestations neurologiques des erreurs innées et acquises de l'immunité",
+ "question": "Quelles manifestations neurologiques accompagnent les déficits immunitaires primitifs ou acquis, et quelles en sont les causes génétiques et immunologiques ?",
+ "contexte": "Les systèmes immunitaire et nerveux interagissent étroitement : les déficits immunitaires primitifs ou acquis peuvent s'accompagner d'infections ou d'inflammations du système nerveux, et certaines maladies neurologiques révèlent un défaut immunitaire. Les troubles peuvent toucher la motricité, la marche, la cognition et l'humeur.\n\nLes mécanismes restent mal compris. Cette étude de l'institut NIAID (NIH, États-Unis) caractérise les atteintes neurologiques chez des patients atteints d'erreurs de l'immunité connues ou suspectées, avec des examens neurologiques, de l'imagerie (IRM neuraxiale), des prélèvements de sang, de liquide cérébrospinal (chez l'adulte, ponction lombaire) et d'autres échantillons, éventuellement des biopsies cutanées et des analyses génétiques.\n\nLes participants ont une visite annuelle pendant 5 ans. Des apparentés sains et des volontaires sains servent de témoins pour les analyses de recherche.",
+ "interet": "Elle pourrait identifier de nouveaux défauts génétiques et mécanismes immunitaires responsables d'atteintes neurologiques, avec des conséquences pour le diagnostic.",
+ "profil": "Des patients de 2 ans et plus avec déficit immunitaire primitif ou acquis et atteinte neuro-infectieuse ou neuro-inflammatoire, leurs apparentés sains et des volontaires sains.",
+ "inclusion": [
+  "Âge de 2 ans ou plus (3 ans minimum pour être vu au NIH CC)",
+  "Accord pour la conservation des échantillons et des données et pour les tests génétiques",
+  "Consentement du sujet, des parents ou du représentant légal",
+  "Patients : déficit immunitaire primitif ou acquis avec infection ou inflammation du système nerveux connue ou suspectée, ou risque de complication neurologique",
+  "Patients : médecin traitant en dehors du NIH",
+  "Témoins : apparentés biologiques ou volontaires sans neuro-infection ni neuro-inflammation connue"
+ ],
+ "exclusion": [
+  "Grossesse (apparentés et volontaires sains)",
+  "Toute condition exposant le participant à un risque excessif ou le rendant inapte selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Déficit immunitaire primitif ou acquis",
+   "traitement": "Patients avec atteinte neuro-infectieuse ou neuro-inflammatoire connue, suspectée ou à risque"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Apparentés biologiques ou volontaires sans diagnostic de neuro-infection ou de neuro-inflammation"
+  }
+ ],
+ "duree": "Une visite par an pendant 5 ans",
+ "critere": "Caractérisation clinique des manifestations neurologiques (examen, neuro-imagerie) et des erreurs innées ou acquises de l'immunité chez les patients ayant des maladies neurologiques rares, jusqu'à la fin de la participation."
+}

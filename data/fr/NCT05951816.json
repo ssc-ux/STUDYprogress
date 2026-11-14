@@ -1,0 +1,38 @@
+{
+ "h": "ff6cd3c9cea3",
+ "date": "2026-11-14",
+ "titre": "Imagerie de l'amylose par le peptide p5+14 marqué au technétium-99m",
+ "question": "Quelle est la dosimétrie et la biodistribution du 99mTc-p5+14 chez des volontaires sains et des patients avec amylose AL ou ATTR ?",
+ "contexte": "L'amylose systémique, AL ou à transthyrétine (ATTR), touche notamment le coeur. Le diagnostic non invasif de l'amylose cardiaque ATTR repose sur la scintigraphie osseuse au 99mTc-pyrophosphate (PYP) ou au DPD, associée à l'exclusion d'une gammapathie monoclonale. L'amylose AL, elle, n'est pas toujours détectée de façon fiable par ces traceurs.\n\nLe p5+14 est un peptide synthétique qui se lie à de nombreux types d'amylose humaine et qui est rapidement éliminé du compartiment central. Une version marquée à l'iode-124 a déjà été étudiée chez l'humain (étude AMY1001). Ici, il est marqué au technétium-99m pour la scintigraphie planaire et la tomographie SPECT/CT, plus accessibles que la TEP.\n\nCette étude de phase 1, promue par l'University of Tennessee Graduate School of Medicine, comporte quatre parties : dosimétrie, biodistribution chez des patients AL ou ATTR, comparaison avec le PYP, et patients ATTR avec PYP négatif.",
+ "interet": "Un traceur SPECT capable de détecter l'amylose AL et ATTR, y compris PYP-négative, pourrait améliorer le diagnostic de l'amylose cardiaque.",
+ "profil": "Des adultes volontaires sains et des patients avec amylose systémique AL ou ATTR.",
+ "inclusion": [
+  "Âge supérieur à 18 ans et consentement écrit",
+  "Volontaires sains sans amylose ni antécédent familial (parties 1 et 3)",
+  "Amylose AL confirmée avec atteinte cardiaque à l'imagerie, ou amylose ATTR confirmée sans anomalie des chaînes légères libres",
+  "Diagnostic d'amylose cardiaque datant de moins de 4 ans (parties 2 et 4)",
+  "PYP négative pour les patients ATTR de la partie 4",
+  "Contraception adaptée si risque de grossesse"
+ ],
+ "exclusion": [
+  "Autre essai d'imagerie nucléaire de l'amylose avec injection dans les 6 mois",
+  "Grossesse ou allaitement",
+  "Incapacité mentale ou légale, antécédent de psychose",
+  "Dialyse",
+  "Claustrophobie sévère empêchant l'imagerie",
+  "Héparine ou analogues dans les 7 jours précédents, exposition antérieure au p5+14",
+  "Anomalies hépatiques (ASAT ou ALAT > 2 N avec bilirubine > 1,5 N) ou QTc > 530 ms"
+ ],
+ "bras": [
+  {
+   "nom": "Dosimétrie et biodistribution chez les sujets sains",
+   "traitement": "Dose unique IV jusqu'à 1 mg de 99mTc-p5+14 (environ 20 mCi), imagerie planaire en série jusqu'à 24 h et SPECT/CT"
+  },
+  {
+   "nom": "Biodistribution chez les patients AL ou ATTR",
+   "traitement": "Dose unique IV de 99mTc-p5+14, imagerie planaire et SPECT/CT à 1 h et 3 h, puis scintigraphie au 99mTc-PYP au jour 4"
+  }
+ ],
+ "duree": "8 jours",
+ "critere": "Dosimétrie corps entier (dose efficace) du 99mTc-p5+14."
+}

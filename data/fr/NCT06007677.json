@@ -1,0 +1,37 @@
+{
+ "h": "f29407a1cb0b",
+ "date": "2026-11-14",
+ "titre": "STAR-0215 en extension à long terme dans l'angiœdème héréditaire",
+ "question": "Quelle est la sécurité à long terme de doses répétées de STAR-0215 chez des adultes atteints d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type 1 ou 2 est dû à un déficit quantitatif ou fonctionnel en inhibiteur de la C1-estérase, avec une activation excessive de la voie de la kallicréine et de la bradykinine. Il provoque des crises d'oedème sous-cutané ou muqueux, parfois laryngé, imprévisibles.\n\nLa prophylaxie de fond repose sur le lanadélumab, le bérotralstat et l'inhibiteur de C1 ; les injections fréquentes pèsent sur les patients. Le STAR-0215 est un anticorps monoclonal dirigé contre la kallicréine plasmatique, conçu pour une longue demi-vie, ce qui permet d'espacer les injections sous-cutanées à tous les 3 ou 6 mois.\n\nCet essai de phase 2 ouvert, promu par Astria Therapeutics, est l'extension de l'étude STAR-0215-201 (ALPHA-STAR). Il admet aussi des patients naïfs de STAR-0215 avec AOH de type 1 ou 2. Le traitement peut durer jusqu'à 5 ans.",
+ "interet": "Les données de long terme préciseront la tolérance et le contrôle des crises avec des injections espacées, un enjeu pour l'adhésion à la prophylaxie.",
+ "profil": "Des adultes avec angiœdème héréditaire de type 1 ou 2, venant de l'essai ALPHA-STAR ou naïfs de STAR-0215.",
+ "inclusion": [
+  "Participants de l'essai STAR-0215-201 ayant terminé l'étude, ou en run-in non randomisés, ou arrêt non lié à la sécurité après au moins 84 jours de suivi",
+  "Ou patients naïfs de STAR-0215 avec diagnostic documenté d'AOH de type 1 ou 2",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "Autre angiœdème chronique (acquis, AOH à C1-inhibiteur normal, idiopathique, associé à l'urticaire)",
+  "Inhibiteurs de l'enzyme de conversion ou estrogènes systémiques dans les 28 jours",
+  "Androgènes dans les 7 jours",
+  "Lanadélumab dans les 90 jours ou bérotralstat dans les 21 jours",
+  "Autres traitements prophylactiques de l'AOH, à discuter avec le moniteur médical"
+ ],
+ "bras": [
+  {
+   "nom": "Régime 1 (bras A)",
+   "traitement": "STAR-0215 toutes les 3 mois par voie sous-cutanée"
+  },
+  {
+   "nom": "Régime 2 (bras B)",
+   "traitement": "STAR-0215 tous les 6 mois par voie sous-cutanée"
+  },
+  {
+   "nom": "Bras C et D",
+   "traitement": "STAR-0215 en injection sous-cutanée selon les régimes 1 et 3 ; rythme non précisé"
+  }
+ ],
+ "duree": "Jusqu'à 5 ans",
+ "critere": "Nombre de participants avec événements indésirables apparus sous traitement, du jour 1 à la fin de l'étude (en moyenne 6 ans)."
+}

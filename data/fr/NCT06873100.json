@@ -1,0 +1,37 @@
+{
+ "h": "b769ff2617a9",
+ "date": "2026-11-14",
+ "titre": "Upadacitinib versus traitement conventionnel dans la polychondrite chronique atrophiante",
+ "question": "L'upadacitinib réduit-il l'activité inflammatoire (CRP) de la polychondrite chronique atrophiante mieux que les corticoïdes associés aux immunosuppresseurs ?",
+ "contexte": "La polychondrite chronique atrophiante est une maladie auto-immune rare, avec des poussées inflammatoires des cartilages (oreilles, nez, voies aériennes) et des atteintes articulaires, oculaires ou cardiovasculaires. Il n'existe pas de traitement validé par des essais randomisés : on utilise les corticoïdes, avec méthotrexate, azathioprine, mycophénolate, cyclophosphamide ou biothérapies, avec une efficacité inconstante.\n\nLes voies de signalisation JAK-STAT, activées par de nombreuses cytokines pro-inflammatoires, sont une cible plausible. L'upadacitinib, inhibiteur oral sélectif de JAK1 déjà utilisé en rhumatologie, a été rapporté dans des séries de cas. Cette phase 1/2 randomisée en ouvert, promue par l'hôpital du Peuple de l'Université de Pékin, compare l'upadacitinib aux corticoïdes plus immunosuppresseurs chez 30 patients pendant 24 semaines, avec évaluation immunologique.",
+ "interet": "Elle pourrait fournir les premières données comparatives sur un inhibiteur de JAK dans une maladie rare dépourvue de traitement validé. Le faible effectif limite la portée.",
+ "profil": "Des adultes de 18 à 70 ans atteints de polychondrite chronique atrophiante, avec réponse insuffisante au traitement standard depuis au moins 4 semaines.",
+ "inclusion": [
+  "Âge 18-70 ans",
+  "Critères de Michet révisés",
+  "Réponse insuffisante depuis ≥ 4 semaines au traitement standard (corticoïdes ≤ 0,5 mg/kg, méthotrexate, hydroxychloroquine, azathioprine, mycophénolate, léflunomide ou cyclophosphamide)",
+  "Test de grossesse urinaire négatif",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Rituximab ou autre anticorps monoclonal dans les 2 mois ; fortes doses de corticoïdes (> 1 mg/kg/j) dans le mois",
+  "Insuffisance cardiaque NYHA ≥ III, clairance ≤ 30 mL/min, ALAT > 3 N ou bilirubine > N",
+  "Autre maladie grave ou non contrôlée (dont maladie démyélinisante)",
+  "Infection sévère ou tuberculose, anomalie thoracique évoquant une infection ou un cancer",
+  "VIH ou hépatite C positifs",
+  "Cancer dans les 5 ans (hors exceptions)",
+  "Vaccin vivant récent ou prévu ; grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Upadacitinib",
+   "traitement": "Upadacitinib par voie orale, une fois par jour pendant 24 semaines (dose non précisée)"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Corticoïdes associés à des immunosuppresseurs conventionnels, pendant 24 semaines"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Variation de la CRP à 24 semaines."
+}

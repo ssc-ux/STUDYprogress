@@ -1,0 +1,14 @@
+{
+ "h": "2869d5eedfd1",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle des maladies auto-inflammatoires (NOMID/CAPS, DIRA, CANDLE, SAVI, Still-like)",
+ "question": "Quels sont les mécanismes génétiques, immunologiques et cliniques des maladies auto-inflammatoires rares et leur évolution à long terme ?",
+ "contexte": "Les maladies auto-inflammatoires sont des maladies de dysrégulation immunitaire avec des épisodes récurrents d'inflammation systémique ou d'organe (peau, yeux, articulations, os, poumons, séreuses, oreille interne, cerveau). Le rôle central de l'IL-1 a été montré par la découverte de mutations de NLRP3 et IL1RN. D'autres mutations (protéasome, STING1, NLRC4, CDC42) suggèrent le rôle de l'interféron de type I et de l'IL-18 dans certaines formes.\n\nCette étude d'histoire naturelle du NIAID (NIH) évalue sur le plan clinique, génétique, immunologique et endocrinologique des patients avec NOMID/CAPS, DIRA, CANDLE, SAVI, NLRC4-MAS, maladie de Still ou maladie auto-inflammatoire non classée. Elle inclut aussi des apparentés non atteints et des volontaires sains comme témoins. Les participants sont suivis pendant environ 15 ans afin d'étudier le devenir à long terme et les biomarqueurs, dans le but d'identifier de nouvelles causes génétiques et d'orienter de futurs traitements ciblés.",
+ "interet": "L'étude pourrait identifier de nouveaux gènes et marqueurs et mieux caractériser des maladies très rares, ce qui est utile au diagnostic des fièvres récurrentes inexpliquées.",
+ "profil": "Des enfants et adultes avec maladie auto-inflammatoire connue ou suspectée, leurs apparentés non atteints et des volontaires sains.",
+ "inclusion": ["Âge de 2 à 99 ans (NIH) ou de 0 à 99 ans (participation à distance avec envoi d'échantillons)", "Accord pour le stockage d'échantillons et les tests génétiques", "Médecin référent qui assure le suivi des autres problèmes de santé", "Mutation causale connue (NOMID/CAPS, DIRA, CANDLE, SAVI, NLRC4-MAS)", "Ou tableau clinique et inflammation biologique évoquant une maladie auto-inflammatoire médiée par l'IL-1 ou l'interféron, non expliquée par une autre cause"],
+ "exclusion": ["Non précisé dans le résumé du registre pour les participants atteints", "Les apparentés et volontaires sains ne doivent pas avoir de maladie auto-inflammatoire connue"],
+ "bras": [{"nom": "Participants atteints", "traitement": "Maladies auto-inflammatoires indifférenciées ou génétiquement définies : évaluation clinique, génétique et immunologique"}, {"nom": "Apparentés non atteints", "traitement": "Prélèvement sanguin pour test génétique"}, {"nom": "Volontaires sains", "traitement": "Prélèvement sanguin pour test génétique"}],
+ "duree": "Environ 15 ans de suivi pour la plupart des participants",
+ "critere": "Étude de la physiopathologie des maladies auto-inflammatoires (caractéristiques cliniques, immunologiques, génétiques et métaboliques), à 1-2 ans, 3-5 ans et 10 ans"
+}

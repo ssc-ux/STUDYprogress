@@ -1,0 +1,39 @@
+{
+ "h": "6902db2f7d4c",
+ "date": "2026-11-14",
+ "titre": "Avapritinib et décitabine dans la mastocytose systémique avec hémopathie associée",
+ "question": "L'association avapritinib et décitabine est-elle tolérée dans la mastocytose systémique avec hémopathie associée (SM-AHN) ?",
+ "contexte": "La mastocytose systémique avec hémopathie associée (SM-AHN) associe une prolifération mastocytaire, le plus souvent mutée KIT D816V, et une néoplasie myéloïde concomitante (SMD, SMD/SMP, etc.). Cette entité a un pronostic défavorable. Les inhibiteurs de KIT comme l'avapritinib contrôlent la composante mastocytaire, mais l'hémopathie associée progresse fréquemment.\n\nLes agents hypométhylants comme la décitabine sont un traitement standard des SMD et traitent la composante myéloïde. Associer les deux pourrait contrôler les deux versants de la maladie, mais les toxicités se recoupent, notamment hématologiques (thrombopénie).\n\nCet essai de phase 1 du Moffitt Cancer Center comprend une escalade de dose de l'avapritinib (50 à 200 mg) selon un schéma bayésien, avec décitabine IV ou décitabine/cédazuridine orale 5 jours par cycle de 28 jours, puis une expansion à la dose retenue. Les patients dont les plaquettes sont basses commencent par l'hypométhylant seul.",
+ "interet": "Il pourrait définir une dose recommandée pour une association ciblant à la fois la mastocytose et l'hémopathie myéloïde, dans une maladie sans standard.",
+ "profil": "Des adultes avec une SM-AHN (OMS 2022) sans leucémie aiguë.",
+ "inclusion": [
+  "SM-AHN selon l'OMS 2022",
+  "ECOG 0-3",
+  "Fonctions médullaire et d'organes adéquates",
+  "VIH, VHB ou VHC contrôlés autorisés",
+  "Cardiopathie : classe NYHA 2B ou mieux",
+  "Contraception adaptée"
+ ],
+ "exclusion": [
+  "Progression de l'AHN sous décitabine ou de la mastocytose sous avapritinib",
+  "Azacitidine dans les 4 semaines",
+  "LAM (≥ 20 % de blastes) ou sarcome myéloïde",
+  "Antécédent d'hémorragie intracrânienne ou anticoagulation à dose curative",
+  "Antécédent de crise comitiale, QTcF > 480 ms",
+  "Allogreffe < 6 mois, GVH active",
+  "Inhibiteurs ou inducteurs modérés à forts du CYP3A",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Escalade de dose",
+   "traitement": "Avapritinib 50 à 200 mg (dose selon schéma bayésien) + décitabine IV 20 mg/m² ou décitabine/cédazuridine orale 35/100 mg, jours 1-5 de cycles de 28 jours"
+  },
+  {
+   "nom": "Expansion",
+   "traitement": "Avapritinib à la dose retenue + décitabine ; hypométhylant seul d'abord si plaquettes < 75 G/L"
+  }
+ ],
+ "duree": "Au moins 6 cycles de 28 jours en l'absence de progression",
+ "critere": "Dose recommandée de phase 2 de l'avapritinib, dans les 6 mois."
+}

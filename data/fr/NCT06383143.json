@@ -1,0 +1,30 @@
+{
+ "h": "fdb330bab1e3",
+ "date": "2026-11-14",
+ "titre": "Dépistage et prise en charge de l'amylose AL en Italie (ProDigALIty)",
+ "question": "Un dépistage par biomarqueurs permet-il de diagnostiquer plus tôt l'amylose AL chez les patients avec gammapathie monoclonale ?",
+ "contexte": "L'amylose AL est une maladie rare et grave, due au dépôt de chaînes légères monoclonales mal repliées. Le diagnostic est souvent tardif, avec une atteinte d'organe avancée et parfois irréversible, ce qui limite les options et la survie. Une protéine monoclonale ou un excès de chaînes légères libres précèdent l'amylose clinique de plusieurs années, et environ 95 % des patients ont un rapport des chaînes légères libres anormal au diagnostic.\n\nMalgré cela, l'amylose est souvent diagnostiquée tard, y compris chez des patients déjà suivis pour une gammapathie. Le dépistage par biomarqueurs d'atteinte d'organe précoce est préconisé, mais peu appliqué.\n\nCette étude italienne coordonnée par le centre de Pavie crée un réseau de services d'hématologie. La partie A dépiste les patients avec MGUS et rapport anormal ou myélome indolent ; la partie B suit les patients nouvellement diagnostiqués avec amylose AL, issus du dépistage ou en pratique courante. Elle évalue aussi des techniques diagnostiques nouvelles : séquençage des chaînes légères et analyse de la N-glycosylation.",
+ "interet": "Elle pourrait établir un modèle de dépistage de l'amylose AL et élargir l'accès des patients aux centres experts et aux essais.",
+ "profil": "Des adultes avec MGUS à rapport de chaînes légères anormal ou myélome indolent (partie A), ou amylose AL systémique non traitée (partie B).",
+ "inclusion": [
+  "Partie A : MGUS avec rapport des chaînes légères libres anormal, ou myélome indolent, non traités",
+  "Partie B : amylose AL systémique non traitée",
+  "Âge ≥ 18 ans",
+  "Consentement éclairé",
+  "Suivi prévu dans le centre participant"
+ ],
+ "exclusion": [
+  "Gammapathies monoclonales symptomatiques (partie A)",
+  "Traitement antérieur d'une gammapathie monoclonale",
+  "Amylose non AL (partie B)",
+  "Traitement antérieur de l'amylose AL"
+ ],
+ "bras": [
+  {
+   "nom": "MGUS à rapport anormal, myélome indolent, puis amylose AL",
+   "traitement": "Dépistage par biomarqueurs (partie A) et suivi des cas d'amylose AL nouvellement diagnostiqués (partie B), sans intervention"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Proportion de nouveaux cas d'amylose AL identifiés par le dépistage, proportion de réponses hématologiques profondes après le traitement de première ligne, et liens entre caractéristiques de la chaîne légère et présentation clinique, sur 2 ans."
+}

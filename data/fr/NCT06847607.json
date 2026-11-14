@@ -1,0 +1,35 @@
+{
+ "h": "9e34371c0900",
+ "date": "2026-11-14",
+ "titre": "Iptacopan dans l'anémie hémolytique auto-immune réfractaire ou en rechute",
+ "question": "L'iptacopan, inhibiteur oral du facteur B du complément, est-il efficace et sûr dans l'AHAI réfractaire ou en rechute ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) à auto-anticorps chauds ou froids est traitée en première ligne par corticoïdes, avec le rituximab en deuxième ligne ; les formes à agglutinines froides relèvent du rituximab ou du sutimlimab. Une part des patients rechute, devient corticodépendante ou n'y répond pas, avec peu d'options validées.\n\nLe complément joue un rôle dans l'hémolyse, notamment dans les formes à agglutinines froides et certaines formes mixtes. L'iptacopan, inhibiteur oral du facteur B (voie alterne), est approuvé dans l'hémoglobinurie paroxystique nocturne. Cette étude prospective monobras, promue par le Dr Bing Han (Chine), l'évalue chez 20 adultes ayant une AHAI chaude ou froide réfractaire ou en rechute. Les patients doivent avoir une preuve de vaccination antiméningococcique et antipneumococcique, par le risque d'infection lié au blocage du complément.",
+ "interet": "Elle pourrait établir un traitement oral ciblant le complément comme option des AHAI réfractaires. Le petit effectif et l'absence de comparateur limitent la portée.",
+ "profil": "Des adultes atteints d'AHAI chaude ou froide, en échec, rechute ou intolérance aux corticoïdes, avec une hémoglobine < 100 g/L.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ECOG ≤ 2",
+  "AHAI primitive ou secondaire stable (hors polyarthrite rhumatoïde et lupus)",
+  "Réponse insuffisante, dépendance (> 15 mg/j de prednisone), rechute ou contre-indication aux corticoïdes",
+  "Hb < 100 g/L avant le traitement ; test de Coombs direct positif",
+  "Un seul traitement associé stable depuis ≥ 28 jours (corticoïdes ≤ 15 mg, azathioprine, ciclosporine…)",
+  "PNN > 1,5 G/L, plaquettes > 30 G/L, ALAT/ASAT ≤ 2 N, créatininémie ≤ 2 N, clairance ≥ 50 mL/min",
+  "Vaccination antiméningococcique et antipneumococcique dans les 2 ans, ou antibioprophylaxie"
+ ],
+ "exclusion": [
+  "AHAI secondaire hors critères d'inclusion ; Hb < 100 g/L d'autre cause",
+  "Infection nécessitant un traitement systémique, VIH, hépatite B ou C active, cirrhose",
+  "Antécédent de cancer, greffe d'organe ou de cellules souches",
+  "Splénectomie < 24 semaines, chirurgie majeure < 4 semaines",
+  "Maladie cardiovasculaire sévère, hypertension non contrôlée ou portale",
+  "Troubles digestifs gênant l'absorption orale",
+  "Troubles psychiatriques sévères, abus d'alcool ou de drogues, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Iptacopan",
+   "traitement": "Iptacopan par voie orale (dose non précisée dans le registre)"
+  }
+ ],
+ "duree": "Non précisé (critères évalués à 3 et 6 mois)",
+ "critere": "Taux de réponse globale à 3 mois et taux de réponse complète à 6 mois."
+}

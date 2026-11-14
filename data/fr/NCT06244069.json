@@ -1,0 +1,35 @@
+{
+ "h": "1954b71a2123",
+ "date": "2026-11-14",
+ "titre": "Hématopoïèse clonale et artérite à cellules géantes",
+ "question": "L'hématopoïèse clonale (CHIP) est-elle associée aux caractéristiques cliniques, d'imagerie et histologiques de l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente du sujet âgé. Elle expose à la cécité, à l'AVC et aux anévrismes ou dissections aortiques. Le traitement repose sur la corticothérapie, souvent associée au tocilizumab. Les présentations sont hétérogènes (atteinte cranienne ou des gros vaisseaux, rechutes) et on sait mal les expliquer ni les prévoir.\n\nL'hématopoïèse clonale de potentiel indéterminé (CHIP) correspond à des clones de cellules sanguines porteurs de mutations somatiques, fréquents avec l'âge. Les leucocytes mutés ont une réponse inflammatoire exagérée. Une étude antérieure a trouvé une CHIP chez 33 % des patients avec ACG. Les investigateurs font l'hypothèse que certaines mutations, notamment DNMT3A, favorisent une dérégulation pro-inflammatoire dans les lésions vasculaires.\n\nCette étude italienne inclut des patients entrant dans une filière rapide de diagnostic avec biopsie d'artère temporale avant traitement, et des témoins sains appariés. La CHIP est recherchée par séquençage de l'exome sur sang, puis corrélée aux données cliniques et histologiques, avec analyse de transcriptomique en cellule unique sur la biopsie.",
+ "interet": "Identifier une CHIP pourrait aider à repérer les patients à risque de forme sévère ou de mauvaise réponse thérapeutique, et ouvrir des pistes physiopathologiques.",
+ "profil": "Des adultes avec suspicion d'ACG active en parcours rapide de diagnostic, et des témoins sains appariés.",
+ "inclusion": [
+  "Suspicion d'ACG active en filière rapide, ou témoin sain apparié",
+  "Consentement valide",
+  "Biopsie d'artère temporale possible dans les 3 heures suivant l'inclusion",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Infection active (VIH, VHB, VHC, tuberculose récemment traitée)",
+  "Inflammation systémique non liée à l'ACG",
+  "Immunosuppresseur dans les 3 mois ou corticoïdes systémiques récents",
+  "Cancer ou hémopathie actifs ou < 6 mois de rémission",
+  "Greffe antérieure d'organe ou de cellules souches",
+  "DFG < 45 ml/min/1,73 m², insuffisance hépatique modérée à sévère, diabète, insuffisance cardiaque NYHA ≥ 2"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec ACG",
+   "traitement": "Biopsie d'artère temporale, séquençage de l'exome, transcriptomique en cellule unique"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Témoins appariés sur l'âge, le sexe, le tabagisme, les antécédents cardiovasculaires, l'IMC et les antécédents de cancer"
+  }
+ ],
+ "duree": "Non précisé (période d'étude : 11 mois pour le critère principal)",
+ "critere": "Corrélation entre l'ACG et la CHIP de type myéloïde liée aux mutations de DNMT3A, sur 11 mois."
+}

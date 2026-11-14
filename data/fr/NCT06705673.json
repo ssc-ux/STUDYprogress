@@ -1,0 +1,14 @@
+{
+ "h": "b37b359e1c9b",
+ "date": "2026-11-14",
+ "titre": "Analyse de la marche par semelles connectées dans les rhumatismes de l'enfant",
+ "question": "La marche des enfants atteints d'arthrite juvénile idiopathique ou de fièvre méditerranéenne familiale diffère-t-elle de celle d'enfants sains, mesurée par semelles connectées ?",
+ "contexte": "Dans les rhumatismes de l'enfant, le gonflement, l'épanchement, la douleur et la raideur des articulations portantes modifient la marche. Ces troubles affectent les paramètres temporels et spatiaux de la marche, avec une limitation fonctionnelle. L'examen clinique ne prédit pas toujours ces modifications.\n\nMesurer objectivement la marche aiderait à adapter la rééducation et à prévenir des compensations néfastes à long terme. L'analyse de marche en laboratoire est coûteuse et peu accessible. Les semelles connectées, comme le système Digitsole Pro, permettent une mesure en conditions réelles. Aucune étude n'a utilisé cet outil dans les rhumatismes de l'enfant. Cette étude observationnelle de l'Université d'Istanbul-Cerrahpasa compare 60 enfants de 6 à 18 ans : arthrite juvénile idiopathique (AJI), fièvre méditerranéenne familiale (FMF) et témoins sains. Elle mesure plusieurs paramètres de marche en une seule séance.",
+ "interet": "Les résultats pourraient valider un outil de suivi fonctionnel simple et peu coûteux pour les enfants atteints d'AJI ou de FMF. Il s'agit d'une étude descriptive, sans effet sur la prise en charge immédiate.",
+ "profil": "Des enfants et adolescents de 6 à 18 ans avec AJI ou FMF, et des témoins sains.",
+ "inclusion": ["Âge de 6 à 18 ans", "AJI ou FMF diagnostiquée depuis au moins 6 mois à la clinique de rhumatologie pédiatrique d'Istanbul", "Témoins : enfants sains de 6 à 18 ans, volontaires"],
+ "exclusion": ["Traumatisme ou chirurgie de l'appareil locomoteur dans les 6 derniers mois", "Autre maladie chronique que l'AJI ou la FMF (patients)", "Douleur aiguë", "Trouble visuel ou auditif", "Trouble cognitif empêchant de comprendre les consignes (patients)"],
+ "bras": [{"nom": "Arthrite juvénile idiopathique", "traitement": "Mesure de la marche avec semelles connectées Digitsole Pro"}, {"nom": "Fièvre méditerranéenne familiale", "traitement": "Mesure de la marche avec semelles connectées Digitsole Pro"}, {"nom": "Témoins sains", "traitement": "Mesure de la marche avec semelles connectées Digitsole Pro"}],
+ "duree": "Une seule séance d'évaluation",
+ "critere": "Paramètres de marche : angle d'attaque du talon, angle de décollement, pied plat, longueur du pas, durée d'appui, phase oscillante, cadence, vitesse, double appui."
+}

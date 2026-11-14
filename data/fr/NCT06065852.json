@@ -1,0 +1,25 @@
+{
+ "h": "cb5aedaa7224",
+ "date": "2026-11-14",
+ "titre": "Registre national britannique des maladies rénales rares (RaDaR)",
+ "question": "Comment les maladies rénales rares évoluent-elles et comment sont-elles prises en charge au Royaume-Uni ?",
+ "contexte": "Les maladies rénales rares sont souvent d'origine génétique et se révèlent fréquemment dans l'enfance. Elles sont si peu fréquentes qu'un néphrologue en voit peu de cas, ce qui freine la recherche clinique et les corrélations génotype-phénotype. Le registre RaDaR, géré par la UK Kidney Association, rassemble les patients de nombreux centres, adultes et enfants.\n\nIl couvre plus de 80 affections : glomérulopathies (néphropathie à IgA, syndrome néphrotique, C3G), syndrome hémolytique et urémique atypique, tubulopathies, maladie de Fabry, polykystose, amyloses rénales, vascularites, fibrose rétropéritonéale, gammapathies monoclonales de signification rénale et bien d'autres. Chaque groupe de maladie rare définit ses propres critères d'inclusion.\n\nLes objectifs sont de développer des recommandations, d'auditer les traitements et les résultats, de faciliter la recherche translationnelle et d'inviter les patients à des essais. Le registre, associé à Patients Know Best, permet aux patients de saisir leurs propres données.",
+ "interet": "Le registre fournit une base de données nationale pour la recherche, l'audit et le recrutement dans des essais sur des maladies rénales rares, dont plusieurs relevant de la médecine interne (vascularites, amyloses, gammapathies).",
+ "profil": "Des enfants et adultes atteints de maladies rénales rares au Royaume-Uni.",
+ "inclusion": [
+  "Maladie rénale rare relevant d'un des groupes de maladies rares du registre",
+  "Enfants et adultes",
+  "Critères détaillés propres à chaque groupe, publiés par la UK Kidney Association"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Groupes de maladies rares",
+   "traitement": "Plus de 80 affections regroupées par groupe (Alport, aHUS, polykystose, vascularites, amyloses, tubulopathies, etc.), suivi observationnel"
+  }
+ ],
+ "duree": "Suivi à long terme (étude de 2009 à 2039)",
+ "critere": "Mise à disposition de données pour la recherche translationnelle et épidémiologique, de 2009 à 2039."
+}

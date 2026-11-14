@@ -1,0 +1,14 @@
+{
+ "h": "c05483d5e488",
+ "date": "2026-11-14",
+ "titre": "Projet cardiomyopathies de Sahlgrenska (cohorte et biobanque)",
+ "question": "Un phénotypage clinique et moléculaire approfondi des cardiomyopathies permet-il un diagnostic plus précoce et un traitement plus spécifique ?",
+ "contexte": "Les cardiomyopathies regroupent des maladies du muscle cardiaque : dilatée, hypertrophique, restrictive, non compactée, dysplasie arythmogène du ventricule droit, et formes inflammatoires ou infiltrantes (myocardite, myocardite à cellules géantes, sarcoïdose cardiaque, amylose cardiaque). Le diagnostic étiologique est souvent difficile, alors qu'il conditionne la prise en charge.\n\nCe projet commun des hôpitaux universitaires Sahlgrenska, Östra et Mölndal (Göteborg, Suède) inclut des patients adultes avec une cardiomyopathie primaire. Il associe un phénotypage clinique et moléculaire approfondi, une biobanque commune et des analyses moléculaires sur les échantillons. Il sert aussi de ressource pour des essais diagnostiques et thérapeutiques. Le critère est le délai de progression de la maladie entre 2018 et 2028.",
+ "interet": "Le projet pourrait faciliter le diagnostic précoce, le recrutement dans des essais et la recherche de biomarqueurs dans les cardiomyopathies, y compris celles d'origine inflammatoire ou systémique.",
+ "profil": "Des adultes avec une cardiomyopathie primaire, héréditaire ou inflammatoire.",
+ "inclusion": ["Cardiomyopathie primaire : dilatée héréditaire ou inflammatoire, hypertrophique, restrictive, non compactée, arythmogène du ventricule droit", "Myocardite, myocardite à cellules géantes", "Sarcoïdose ou amylose avec atteinte cardiaque", "Âge ≥ 18 ans"],
+ "exclusion": ["Autre cardiopathie préexistante significative (valvulaire, ischémique, péricardique) avant le diagnostic de cardiomyopathie", "Âge < 18 ans"],
+ "bras": [{"nom": "Cardiomyopathie dilatée", "traitement": "Cohorte avec phénotypage clinique et moléculaire et biobanque"}, {"nom": "Myocardite", "traitement": "Cohorte avec phénotypage et biobanque"}, {"nom": "Sarcoïdose cardiaque", "traitement": "Cohorte avec phénotypage et biobanque"}, {"nom": "Myocardite à cellules géantes", "traitement": "Cohorte avec phénotypage et biobanque"}, {"nom": "Amylose cardiaque", "traitement": "Cohorte avec phénotypage et biobanque"}, {"nom": "Cardiomyopathie hypertrophique, non compactée, arythmogène du VD", "traitement": "Cohortes avec phénotypage et biobanque"}],
+ "duree": "Suivi de 2018 à 2028",
+ "critere": "Délai jusqu'à la progression de la maladie, de 2018 à 2028"
+}

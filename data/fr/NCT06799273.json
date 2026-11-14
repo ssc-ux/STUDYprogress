@@ -1,0 +1,32 @@
+{
+ "h": "8d9794454e30",
+ "date": "2026-11-14",
+ "titre": "MECKI-Amylose : capacité à l'effort et pronostic dans l'amylose cardiaque",
+ "question": "Quels paramètres de l'épreuve d'effort cardiorespiratoire prédisent le pronostic à 2 ans des patients ayant une amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque (à transthyrétine ou à chaînes légères) est une cause croissante d'insuffisance cardiaque à fraction d'éjection préservée, longtemps sous-diagnostiquée. Les scintigraphies aux traceurs osseux et l'IRM ont facilité son diagnostic, et des traitements spécifiques sont apparus. Le pronostic reste cependant très variable d'un patient à l'autre.\n\nEn insuffisance cardiaque, le score MECKI, fondé sur l'épreuve d'effort cardiorespiratoire et d'autres paramètres cliniques, est un outil pronostique validé. Il n'existe pas d'équivalent spécifique à l'amylose cardiaque. Cette étude de cohorte du Centro Cardiologico Monzino (Milan) suit prospectivement des patients avec amylose cardiaque tous les 6 mois pendant 2 ans, et les compare à des patients en insuffisance cardiaque à fraction d'éjection réduite issus du registre MECKI. Le but est de construire un score pronostique propre à l'amylose et de caractériser sa limitation à l'effort.",
+ "interet": "Un score pronostique fondé sur l'effort pourrait aider à stratifier le risque et à adapter le suivi des patients ayant une amylose cardiaque.",
+ "profil": "Des adultes avec une amylose cardiaque diagnostiquée, capables de réaliser une épreuve d'effort, comparés à des patients en insuffisance cardiaque à FEVG réduite.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Amylose cardiaque diagnostiquée par IRM ou scintigraphie",
+  "Capacité à réaliser une épreuve d'effort cardiorespiratoire"
+ ],
+ "exclusion": [
+  "Bronchopneumopathie obstructive sévère",
+  "Angor d'effort",
+  "Modifications significatives de l'ECG",
+  "Comorbidités cliniques limitant la performance à l'effort"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose cardiaque (cohorte prospective)",
+   "traitement": "Patients inclus prospectivement, évalués tous les 6 mois"
+  },
+  {
+   "nom": "Insuffisance cardiaque (cohorte rétrospective)",
+   "traitement": "Patients avec insuffisance cardiaque à FEVG réduite issus du registre MECKI"
+  }
+ ],
+ "duree": "2 ans, avec évaluation tous les 6 mois",
+ "critere": "Paramètres les plus liés au pronostic à 2 ans, pour créer un score de risque propre à l'amylose cardiaque."
+}

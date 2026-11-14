@@ -1,0 +1,23 @@
+{
+ "h": "c330536fefc0",
+ "date": "2026-11-14",
+ "titre": "Collecte de tissus, sang et liquides biologiques chez des patients ayant une hémopathie (UNC Lineberger)",
+ "question": "Peut-on constituer une collection centralisée d'échantillons de tissus, de sang et de liquides de patients ayant une hémopathie, pour des études diagnostiques, pronostiques et translationnelles ?",
+ "contexte": "Les hémopathies malignes et apparentées (leucémies, lymphomes, myélome, syndromes myélodysplasiques et myéloprolifératifs, aplasie médullaire) nécessitent des échantillons de qualité pour la recherche translationnelle et le suivi immunologique. Leur collecte coordonnée entre hémato-pathologistes, cliniciens et chercheurs reste un enjeu.\n\nCe protocole de l'UNC Lineberger Comprehensive Cancer Center (Caroline du Nord), avec le NCI, prélève ganglions ou autres biopsies, moelle osseuse, sang, sérum et frottis buccaux pour ADN germinal lors de gestes diagnostiques ou de routine. Il vise à alimenter les travaux des membres du centre, à soutenir de jeunes chercheurs pour des données pilotes et à garantir la confidentialité. L'étude est observationnelle et ne teste aucun traitement.",
+ "interet": "La biobanque soutient la recherche sur les hémopathies. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes évalués pour une hémopathie maligne ou apparentée à l'UNC Hospitals.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Hémopathie : LAM, LAL, LMC, LLC, lymphome hodgkinien ou non hodgkinien, SMD, syndrome myéloprolifératif, myélome, maladie de Waldenström, aplasie médullaire",
+  "Ou autre maladie avec anomalie du nombre ou de la fonction d'une lignée hémato-lymphoïde",
+  "Évalué en consultation d'hématologie-oncologie, de greffe de cellules souches ou hospitalisé à l'UNC Hospitals"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non précisés"
+ ],
+ "bras": [
+  {"nom": "Patients avec hémopathie", "traitement": "Prélèvement de tissus, sang et liquides lors de gestes diagnostiques ou de routine, pour des études futures"}
+ ],
+ "duree": "Non précisé (étude de très longue durée, jusqu'en 2040)",
+ "critere": "Collecte d'échantillons pour des études diagnostiques, pronostiques ou de suivi immunologique, et mise en place d'une plateforme centralisée de recueil et de stockage (30 ans)"
+}

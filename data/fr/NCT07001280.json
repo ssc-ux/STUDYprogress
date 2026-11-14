@@ -1,0 +1,25 @@
+{
+ "h": "92ef8fb2cc0d",
+ "date": "2026-11-14",
+ "titre": "Garadacimab dans l'angiœdème héréditaire en vie réelle (GREAT)",
+ "question": "Quel est l'effet du garadacimab sur le taux de crises d'angiœdème héréditaire en pratique clinique courante ?",
+ "contexte": "L'angiœdème héréditaire (AOH) est une maladie rare, le plus souvent par déficit en inhibiteur de C1 estérase, qui provoque des crises récurrentes d'œdème cutanéo-muqueux et digestif, parfois laryngé. Le traitement de fond vise à réduire la fréquence des crises : danazol, inhibiteurs de la kallicréine plasmatique (lanadelumab, bérotralstat), inhibiteur de C1 en prophylaxie.\n\nLe garadacimab est un anticorps monoclonal dirigé contre le facteur XIIa, qui agit en amont dans la cascade de la bradykinine. Il est administré par voie sous-cutanée en prophylaxie à long terme. Les essais de développement ont montré une réduction du nombre de crises par rapport au placebo.\n\nGREAT est une étude observationnelle prospective de cohorte, multicentrique et internationale (22 centres, 5 pays), promue par CSL Behring. Elle suit 200 patients de 12 ans et plus qui débutent le garadacimab en pratique courante, pendant 48 mois. Les données viennent d'un journal électronique des crises, des dossiers médicaux et des consultations de routine, avec un recul rétrospectif de 12 mois sur les crises et traitements antérieurs. L'objectif est de compléter les données des essais sur l'efficacité, la sécurité et la qualité de vie.",
+ "interet": "Elle apportera des données de vie réelle sur l'efficacité du garadacimab, avec comparaison avant et après introduction. L'absence de groupe comparateur et le promoteur industriel sont des limites à prendre en compte.",
+ "profil": "Des patients de 12 ans et plus atteints d'angiœdème héréditaire qui débutent le garadacimab en pratique clinique.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "Angiœdème héréditaire confirmé cliniquement et/ou biologiquement",
+  "Initiation du garadacimab sur décision du médecin, selon l'indication de l'AMM locale",
+  "Consentement écrit (ou assentiment avec représentant légal chez les mineurs)",
+  "Capacité à utiliser un appareil électronique (smartphone ou ordinateur) pour le recueil"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème associée (idiopathique, acquis, histaminique avec urticaire)",
+  "Participation à une étude interventionnelle en cours, y compris avec le garadacimab"
+ ],
+ "bras": [
+  { "nom": "Cohorte garadacimab", "traitement": "Patients atteints d'AOH recevant le garadacimab en pratique courante (aucune intervention imposée par l'étude)" }
+ ],
+ "duree": "48 mois après la première administration",
+ "critere": "Rapport des taux d'incidence (IRR) des crises d'angiœdème avant et après introduction du garadacimab, sur 24 mois."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "e306ec07c55b",
+ "date": "2026-11-14",
+ "titre": "Bolus de méthylprednisolone avec ou sans immunoglobulines dans les myopathies inflammatoires",
+ "question": "Un traitement initial par méthylprednisolone seule diffère-t-il de méthylprednisolone avec immunoglobulines IV dans les myopathies inflammatoires idiopathiques ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, polymyosite, myopathie nécrosante auto-immune) nécessitent un traitement immunosuppresseur précoce et intensif. Les corticoïdes sont le traitement de première ligne, et les immunoglobulines intraveineuses sont utilisées dans les formes sévères ou réfractaires.\n\nCette cohorte observationnelle de l'Université de São Paulo compare deux schémas de routine utilisés dans le service, dans une logique de traitement visant une cible (« treat to target ») : des bolus de méthylprednisolone avec immunoglobulines humaines IV, ou des bolus de méthylprednisolone seuls, dès le début de la maladie. Les patients sont suivis depuis 2005 et évalués à six mois sur l'activité globale selon le médecin et le patient, la force musculaire manuelle, le HAQ, les enzymes musculaires et le MDAAT.",
+ "interet": "L'étude pourrait apporter des données de pratique sur la place des immunoglobulines en traitement d'attaque, mais son caractère observationnel et son faible effectif limitent la portée des comparaisons.",
+ "profil": "Des adultes avec une myopathie inflammatoire idiopathique traités selon le protocole du service.",
+ "inclusion": ["Myopathie inflammatoire idiopathique", "Âge ≥ 18 ans"],
+ "exclusion": ["Myosite à inclusions", "Dystrophies musculaires", "Myopathies associées à un cancer", "Myopathies de chevauchement", "Autres myopathies"],
+ "bras": [{"nom": "Myopathies inflammatoires 1", "traitement": "Perfusions de méthylprednisolone et d'immunoglobulines humaines IV au début de la maladie"}, {"nom": "Myopathies inflammatoires 2", "traitement": "Perfusions de méthylprednisolone seule au début de la maladie"}],
+ "duree": "6 mois",
+ "critere": "À six mois : activité globale selon le médecin et le patient, force musculaire manuelle, HAQ, enzymes musculaires et MDAAT"
+}

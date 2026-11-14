@@ -1,0 +1,33 @@
+{
+ "h": "a2faaf134fae",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T EBV-TCR-T dans le LHH à EBV ou l'infection à EBV",
+ "question": "Des lymphocytes T allogéniques dotés d'un TCR anti-EBV sont-ils sûrs et efficaces dans le LHH à EBV ou l'infection à EBV ?",
+ "contexte": "L'EBV est un herpèsvirus très répandu. Son contrôle déficient peut conduire à des lymphomes B EBV+, à des infections chroniques actives et à une lymphohistiocytose hémophagocytaire (LHH-EBV), maladie grave avec mortalité élevée. Les traitements actuels (étoposide, corticoïdes, ruxolitinib, rituximab, chimiothérapies) sont toxiques et ne ciblent pas directement les cellules infectées.\n\nCe phase 1 multicentrique de l'hôpital général de l'APL chinoise évalue des lymphocytes T de donneurs, transduits par lentivirus avec un récepteur T spécifique d'un antigène EBV et restreint aux allèles HLA-A*02:01, 11:01 ou 24:02. Le donneur doit avoir au moins 3 appariements HLA sur 6 avec le receveur.\n\nLes doses sont croissantes, de 1×10⁶/kg à 1×10⁸/kg de cellules, et l'étude évalue sécurité, efficacité, pharmacocinétique et cytokines. Elle inclut 9 patients de 1 à 60 ans.",
+ "interet": "Il s'agit d'une approche de thérapie cellulaire ciblée de l'EBV. Les premières données de tolérance détermineront si elle peut être testée dans des essais plus larges.",
+ "profil": "Des patients de 1 à 60 ans avec LHH associée à l'EBV ou infection à EBV.",
+ "inclusion": [
+  "Âge de 1 à 60 ans",
+  "LHH associée à l'EBV ou infection à EBV",
+  "Karnofsky ≥ 70 (≥ 16 ans) ou Lansky ≥ 50 (< 16 ans)",
+  "Consentement éclairé signé",
+  "Donneur de cellules : âge ≥ 8 ans, appariement HLA ≥ 3/6, lymphocytes 0,8 à 4 G/L"
+ ],
+ "exclusion": [
+  "GVH aiguë active non contrôlée la veille de la perfusion",
+  "Insuffisance rénale (créatinine > 3 N), hépatique (bilirubine > 2,5 N, transaminases > 3 N) ou cardiaque (NYHA IV, FEVG < 50 %)",
+  "Corticoïdes immunosuppresseurs le jour de la perfusion, immunosuppresseurs ou G-CSF dans les 2 semaines avant le recueil",
+  "Cancer actif non contrôlé, VIH positif",
+  "Grossesse ou allaitement, refus de contraception",
+  "Autre thérapie cellulaire dans les 4 semaines suivantes, autre essai dans les 4 semaines",
+  "Allergie à l'albumine"
+ ],
+ "bras": [
+  {
+   "nom": "Cellules EBV-TCR-T",
+   "traitement": "Perfusions de cellules EBV-TCR-T allogéniques à doses croissantes de 1×10⁶/kg à 1×10⁸/kg"
+  }
+ ],
+ "duree": "1 an de suivi après le traitement",
+ "critere": "Événements indésirables jusqu'à 1 an après le traitement par cellules EBV-TCR-T."
+}

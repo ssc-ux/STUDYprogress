@@ -1,0 +1,30 @@
+{
+ "h": "14b77d9b6601",
+ "date": "2026-11-14",
+ "titre": "Dysfonction cognitive dans le PTI chronique ou persistant (COGFIT)",
+ "question": "Les adultes ayant un PTI persistant ou chronique ont-ils une altération cognitive objectivée par une batterie de tests ?",
+ "contexte": "De nombreux patients atteints de PTI rapportent des difficultés d'attention et de mémoire, en plus de la fatigue, qui altèrent leur qualité de vie. Ces plaintes sont mal documentées par des tests objectifs et leurs liens avec l'activité de la maladie et les traitements sont incertains. Les causes possibles incluent l'inflammation chronique, la fatigue, la dépression et les effets des traitements.\n\nCette étude observationnelle longitudinale, promue par le Massachusetts General Hospital, inclut 100 adultes. Chacun passe la batterie cognitive NIH Toolbox à distance et remplit des questionnaires sur la qualité de vie, la fatigue, l'humeur et la plainte cognitive. Les caractéristiques de la maladie et des traitements sont tirées du dossier. L'étude évalue aussi la faisabilité d'un suivi cognitif répété et les variations dans le temps.",
+ "interet": "Elle pourrait confirmer que les plaintes cognitives du PTI correspondent à un déficit mesurable, et justifier de les rechercher en pratique.",
+ "profil": "Des adultes ayant un PTI persistant ou chronique, déjà traités, et capables de passer des tests en anglais.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI persistant ou chronique (plaquettes < 50 G/L à deux reprises, depuis 3 à 12 mois ou > 12 mois)",
+  "Réponse documentée à au moins un traitement du PTI",
+  "Capacité à suivre les instructions en anglais"
+ ],
+ "exclusion": [
+  "Trouble cognitif préexistant (démence, AVC, autre maladie neurologique)",
+  "Maladie psychiatrique active non contrôlée, abus d'alcool ou de drogues",
+  "Cancer actif nécessitant chimiothérapie ou chirurgie",
+  "Tumeur cérébrale ou chirurgie crânienne dans l'année",
+  "Déficit auditif ou visuel empêchant les tests à distance"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes avec PTI chronique ou persistant",
+   "traitement": "Batterie cognitive NIH Toolbox et questionnaires (observationnel)"
+  }
+ ],
+ "duree": "Évaluation initiale, avec suivi longitudinal éventuel",
+ "critere": "Altération de la cognition fluide à l'inclusion."
+}

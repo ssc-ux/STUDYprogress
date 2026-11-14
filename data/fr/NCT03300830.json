@@ -1,0 +1,14 @@
+{
+ "h": "fa5becff9bc8",
+ "date": "2026-11-14",
+ "titre": "Caractérisation moléculaire des tumeurs virales, associées au VIH et de la maladie de Castleman",
+ "question": "Quelles anomalies génomiques caractérisent les cancers viraux, les cancers associés au VIH et la maladie de Castleman ?",
+ "contexte": "Les tumeurs liées à des virus (KSHV, EBV, HPV, etc.), les cancers survenant chez les personnes vivant avec le VIH ou une autre immunodépression, et la maladie de Castleman (dont la forme multicentrique liée à KSHV) restent mal comprises sur le plan biologique. Le séquençage de leur génome et de leur transcriptome pourrait identifier des signatures diagnostiques ou pronostiques et des altérations récurrentes qui interagissent avec les facteurs viraux.\n\nCette étude du NCI (NIH) constitue une banque d'échantillons tissulaires bien annotés de participants adultes avec ces maladies, et de témoins appropriés. La comparaison des génomes et transcriptomes de tumeurs entre patients VIH positifs et négatifs pourrait aussi révéler des séquences non humaines évoquant des virus oncogènes encore inconnus. Les patients peuvent être co-inclus dans d'autres protocoles du NCI ou du NIH.",
+ "interet": "L'étude ne teste pas de traitement. Elle pourrait faire émerger des cibles thérapeutiques et des marqueurs dans des cancers rares de l'immunodéprimé.",
+ "profil": "Des adultes avec un cancer viral ou associé au VIH, ou une maladie de Castleman.",
+ "inclusion": ["Âge ≥ 18 ans", "VIH ou autre immunodépression acquise avec un cancer, ou cancer viral ou supposé viral", "Cancer fréquent chez les patients VIH+ chez un patient VIH négatif, ou tumeur associée à KSHV (dont MCD)", "Tumeur supposée liée à un rétrovirus endogène, ou maladie de Castleman idiopathique", "ECOG ≤ 2 si la biopsie n'est faite que pour l'étude", "Consentement signé (consentement par téléphone possible pour tissu d'archive)"],
+ "exclusion": ["Incapacité de donner un consentement éclairé", "Grossesse"],
+ "bras": [{"nom": "Groupe 1", "traitement": "Cancer viral, cancer associé à KSHV, maladie de Castleman ou cancer chez un sujet VIH négatif : recueil d'échantillons tissulaires"}],
+ "duree": "Non précisé",
+ "critere": "Recueil de tissu, au moment du prélèvement"
+}

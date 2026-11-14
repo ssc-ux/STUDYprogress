@@ -1,0 +1,36 @@
+{
+ "h": "d93f1b6e0755",
+ "date": "2026-11-14",
+ "titre": "Agrégabilité plaquettaire dans la maladie de Takayasu sous aspirine",
+ "question": "L'agrégabilité plaquettaire sous aspirine est-elle différente chez les patients atteints de maladie de Takayasu par rapport à des volontaires sains ?",
+ "contexte": "La maladie de Takayasu est une vascularite des gros vaisseaux touchant l'aorte et ses branches principales. Les complications cardiovasculaires y sont fréquentes, jusqu'à 60 % des cas selon le promoteur. Plusieurs mécanismes pourraient majorer le risque : athérosclérose accélérée, action pro-inflammatoire des plaquettes et dysfonction endothéliale importante.\n\nL'aspirine est souvent prescrite chez ces patients, mais on connaît mal la réponse plaquettaire réelle à ce traitement dans cette maladie. Cette étude cas-témoins, promue par le Dr José Carlos Nicolau (Brésil), compare 50 patients atteints de Takayasu sous aspirine à 50 volontaires sains appariés sur l'âge et le sexe. Elle mesure l'agrégation plaquettaire par agrégométrie optique (AggRAM) et par d'autres méthodes (Plateletworks, Chronolog, PPAnalysis).",
+ "interet": "Elle pourrait indiquer si les patients Takayasu répondent moins bien à l'aspirine, ce qui orienterait la prévention cardiovasculaire dans cette vascularite.",
+ "profil": "Des adultes atteints de maladie de Takayasu sous aspirine, comparés à des volontaires sains.",
+ "inclusion": [
+  "Maladie de Takayasu selon les critères ACR/EULAR 2022 (score ≥ 5/20)",
+  "Âge > 18 ans",
+  "Traitement par acide acétylsalicylique",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Antécédent d'AVC hémorragique",
+  "Antiagrégant autre que l'aspirine",
+  "Infection active ou antibiotiques systémiques en cours",
+  "Dysfonction plaquettaire connue ou plaquettes < 150 ou > 450 G/L",
+  "Maladie grave avec espérance de vie ≤ 12 mois",
+  "Hépatopathie ou trouble de la coagulation connu",
+  "Abus de drogues ou d'alcool, démence ou trouble psychiatrique"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe Takayasu",
+   "traitement": "50 patients avec maladie de Takayasu (clopidogrel mentionné comme intervention dans le registre)"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "50 volontaires sains appariés sur l'âge et le sexe"
+  }
+ ],
+ "duree": "14 jours",
+ "critere": "Agrégation plaquettaire induite par l'ADP, mesurée par agrégométrie optique (AggRAM), à 14 jours."
+}

@@ -1,0 +1,38 @@
+{
+ "h": "417f5aa23eed",
+ "date": "2026-11-14",
+ "titre": "Empasiprubart contre placebo dans la dermatomyosite de l'adulte",
+ "question": "L'empasiprubart est-il sûr et efficace chez des adultes atteints de dermatomyosite ?",
+ "contexte": "La dermatomyosite est une myopathie inflammatoire auto-immune associant une atteinte musculaire et cutanée caractéristique. Les corticoïdes et les immunosuppresseurs sont le traitement de base, avec les immunoglobulines intraveineuses en cas de forme sévère ou réfractaire. Beaucoup de patients gardent une maladie active, notamment cutanée, ou dépendent des corticoïdes.\n\nLe complément joue un rôle dans la microangiopathie et les dépôts vasculaires de la dermatomyosite. L'empasiprubart est un anticorps monoclonal dirigé contre le composant C2 du complément, qui bloque la voie classique du complément (information générale, non issue du registre).\n\nCet essai de phase 2 du laboratoire argenx randomise 2:1 des adultes en empasiprubart IV ou placebo pendant 25 semaines, suivies de 65 semaines de suivi de tolérance. L'étude a inclus seulement 3 participants. Le critère principal est la tolérance.",
+ "interet": "L'étude évalue la tolérance d'une inhibition ciblée du complément dans la dermatomyosite. Avec 3 participants, elle ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adultes avec dermatomyosite active (musculaire et cutanée) sous traitement de fond.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Dermatomyosite ou dermatomyosite juvénile (diagnostic ≤ 5 ans pour la forme juvénile)",
+  "Atteinte musculaire active confirmée (enzymes, EMG, IRM ou biopsie)",
+  "Atteinte cutanée au moins légère",
+  "Traitement de fond autorisé, respecté",
+  "Vaccination méningocoque, pneumocoque et Haemophilus b ≥ 14 jours avant la première dose"
+ ],
+ "exclusion": [
+  "Naïf de traitement standard de la dermatomyosite",
+  "Cancer antérieur sauf guérison ≥ 3 ans ou cancers cutanés/in situ",
+  "Infection active ; hépatite B, hépatite C ou VIH positifs",
+  "Autre myopathie (polymyosite, myopathie nécrosante, myosite à inclusions, etc.) ou dermatomyosite paranéoplasique",
+  "Pneumopathie interstitielle modérée à sévère ou CVF ≤ 60 %",
+  "Déficit connu en composant du complément",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Empasiprubart",
+   "traitement": "Empasiprubart par voie intraveineuse pendant 25 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie intraveineuse pendant 25 semaines"
+  }
+ ],
+ "duree": "Environ 92 semaines (25 de traitement et 65 de suivi)",
+ "critere": "Incidence des événements indésirables (jusqu'à 90 semaines) et proportion d'arrêts de traitement pour événement indésirable (jusqu'à 25 semaines)."
+}

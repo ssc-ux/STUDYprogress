@@ -1,0 +1,23 @@
+{
+ "h": "69d54079af36",
+ "date": "2026-11-14",
+ "titre": "Registre national allemand du PTI avec collection de biospécimens",
+ "question": "Quelles sont les caractéristiques, les traitements et l'évolution des adultes atteints de PTI en pratique courante en Allemagne ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie hématologique rare, due à une destruction auto-immune des plaquettes et à une production insuffisante. Il expose à un risque de saignement. Ces dernières années, de nouvelles options sont apparues : agonistes du récepteur de la thrombopoïétine, inhibiteurs de SYK et de BTK, anti-FcRn.\n\nLes essais publiés portent sur des populations aux critères stricts. Leurs résultats ne s'appliquent donc qu'en partie à l'ensemble des patients suivis. Un registre en vie réelle permet de décrire des patients plus variés, à différents moments de la maladie.\n\nCe registre multicentrique, promu par l'hôpital universitaire d'Iéna, vise 1100 adultes avec PTI primaire ou secondaire. Il recueille les données cliniques et des biospécimens des patients consentants, pour décrire l'épidémiologie, les causes, les traitements reçus et la rémission sur 5 ans.",
+ "interet": "Le registre pourrait fournir des données de vie réelle sur les traitements du PTI et leurs résultats, et une biothèque pour la recherche.",
+ "profil": "Des adultes ayant un PTI primaire ou secondaire, suivis dans des centres allemands.",
+ "inclusion": [
+  "PTI primaire ou secondaire",
+  "Âge ≥ 18 ans",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Diagnostic incompatible avec un PTI (thrombopénie induite par l'héparine, thrombopénie de la grossesse, pseudothrombopénie)",
+  "Consentement impossible (patient incapable de comprendre la portée de la participation)"
+ ],
+ "bras": [
+  { "nom": "Patients atteints de PTI", "traitement": "Cohorte suivie en pratique courante, avec recueil de données et de biospécimens" }
+ ],
+ "duree": "5 ans",
+ "critere": "Données épidémiologiques (incidence, âge, sexe, causes) à l'inclusion, traitements reçus et rémission sur 5 ans"
+}

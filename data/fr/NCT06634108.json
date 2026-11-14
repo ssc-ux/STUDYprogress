@@ -1,0 +1,14 @@
+{
+ "h": "9371639affa5",
+ "date": "2026-11-14",
+ "titre": "Génistéine dans l'insuffisance cardiaque et la cardiomyopathie amyloïde à transthyrétine",
+ "question": "La génistéine, en doses croissantes, est-elle bien tolérée et réduit-elle l'inflammation chez des patients avec insuffisance cardiaque ou amylose cardiaque ATTR ?",
+ "contexte": "L'insuffisance cardiaque (IC) est un syndrome fréquent au pronostic sévère. Elle peut être ischémique, valvulaire ou non ischémique, y compris par infiltration amyloïde (cardiomyopathie ATTR). L'inflammation joue un rôle important dans l'IC : des cytokines comme IL-6, IL-8, TNF-alpha et interféron gamma sont associées à la gravité et au pronostic.\n\nLe traitement standard cible surtout la neurohormonale et, dans l'ATTR, la stabilisation ou le silençage de la transthyrétine. Il n'existe pas de traitement anti-inflammatoire validé dans cette indication. La génistéine est une isoflavone d'origine végétale qui possède des propriétés anti-inflammatoires et antioxydantes. Cette étude de phase 1b/2a ouverte, menée au Canada (London Health Sciences Centre, Lawson Research Institute) avec Stanford, prévoit 40 patients : 20 avec IC à fraction d'éjection réduite et 20 avec ATTR-CM. Les doses augmentent toutes les 4 semaines (500, 1 000 puis 1 500 mg/j), suivies de 6 semaines de sevrage. Les critères portent sur les marqueurs inflammatoires, cardiaques et métaboliques, avec échographie et test de marche de 6 minutes.",
+ "interet": "L'étude est exploratoire. Elle pourrait donner un premier signal sur la modulation de l'inflammation par la génistéine dans l'IC et l'amylose cardiaque, pour guider de futurs essais plus larges.",
+ "profil": "Des adultes de 40 à 80 ans avec IC à fraction d'éjection réduite ou cardiomyopathie ATTR.",
+ "inclusion": ["Âge de 40 à 80 ans", "IC à FEVG < 40 % (ischémique ou non) ou cardiomyopathie amyloïde ATTR, quelle que soit la FEVG", "Traitement de l'IC stable depuis 3 mois, sans changement depuis 1 mois", "NT-proBNP > 125 pg/mL si < 75 ans, > 450 pg/mL si > 75 ans"],
+ "exclusion": ["Intervention coronaire dans les 3 mois", "Grossesse, endométriose, fibromes utérins", "Cancer (dont du sein), prédisposition (BRCA, antécédents familiaux, mammographie anormale)", "Régime végan ou supplément d'isoflavones, génistéine ou resvératrol", "Alcool excessif, insuffisance hépatique (ASAT/ALAT > 3 N, bilirubine > 1,5 N), DFG < 25 mL/min/1,73 m²", "Traitement hormonal substitutif ou supplément thyroïdien", "Classe NYHA I ou IV, diabète non contrôlé (HbA1c > 10 %), cytopénie", "Allergie à la génistéine, à l'inuline ou au perflutren"],
+ "bras": [{"nom": "Génistéine puis sevrage", "traitement": "Génistéine orale 250 mg x2/j (4 semaines), 500 mg x2/j (4 semaines), 750 mg x2/j (4 semaines), puis 6 semaines de sevrage"}],
+ "duree": "18 semaines",
+ "critere": "Marqueurs inflammatoires, cardiaques et métabolisme global, à la semaine 0, 4, 8, 12 et après sevrage (semaine 18)."
+}

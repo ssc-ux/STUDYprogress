@@ -1,0 +1,41 @@
+{
+ "h": "fd6f001266db",
+ "date": "2026-11-14",
+ "titre": "BW-20805 en prophylaxie de l'angioedème héréditaire : phase 2 chez l'adulte",
+ "question": "Le BW-20805 réduit-il le nombre de crises d'angioedème héréditaire chez l'adulte ?",
+ "contexte": "L'angioedème héréditaire (AOH) de type 1 ou 2, par déficit en C1-inhibiteur, provoque des crises imprévisibles de gonflements cutanéo-muqueux, parfois laryngés. Le traitement de fond repose sur le lanadelumab, le berotralstat, le C1-INH ou, en France, les androgènes atténués et l'acide tranexamique, avec des contraintes d'injections fréquentes ou des effets indésirables.\n\nLe BW-20805 est un oligonucléotide conjugué au N-acétylgalactosamine (GalNAc) ciblant le foie. Le registre ne précise pas sa cible, mais les exclusions (allergie aux oligonucléotides ou au GalNAc) indiquent ce type de molécule. L'intérêt serait des injections espacées de plusieurs mois. Cette phase 2 ouverte, promue par Shanghai Argo Biopharmaceutical, teste trois schémas chez 25 adultes.",
+ "interet": "Elle pourrait montrer qu'une prophylaxie en deux injections espacées de 12 à 24 semaines réduit les crises d'AOH, ce qui allégerait fortement le traitement.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'angioedème héréditaire de type 1 ou 2, avec au moins 2 crises en 8 semaines.",
+ "inclusion": [
+  "Âge 18-70 ans",
+  "AOH de type 1 ou 2 documenté",
+  "≥ 2 crises durant les 8 semaines de pré-inclusion",
+  "Accès à au moins un traitement de crise",
+  "Absence de grossesse ou d'allaitement ; contraception adaptée"
+ ],
+ "exclusion": [
+  "Autre angioedème chronique (acquis, AOH à C1-INH normal, idiopathique, urticarien)",
+  "Cancer dans les 5 ans (hors carcinomes cutanés, in situ du col)",
+  "Chirurgie majeure dans les 3 mois",
+  "Thrombose significative ou risque thrombotique ou hémorragique",
+  "Allergie aux oligonucléotides ou au GalNAc ; oligonucléotide antérieur (6 à 12 mois)",
+  "Autre produit expérimental dans les 30 jours",
+  "VIH, hépatite B ou C, syphilis ; infection active"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1",
+   "traitement": "BW-20805 600 mg toutes les 24 semaines, 2 doses"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "BW-20805 300 mg toutes les 24 semaines, 2 doses"
+  },
+  {
+   "nom": "Cohorte 3",
+   "traitement": "BW-20805 300 mg toutes les 12 semaines, 2 doses"
+  }
+ ],
+ "duree": "Environ 169 jours de traitement et de suivi, après 8 semaines de pré-inclusion",
+ "critere": "Effet prophylactique sur le taux de crises d'AOH, entre la pré-inclusion et le jour 169."
+}

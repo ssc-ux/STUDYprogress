@@ -1,0 +1,33 @@
+{
+ "h": "8bf17287a9fe",
+ "date": "2026-11-14",
+ "titre": "Hétrombopag prolongé pour induire une tolérance immune dans le PTI",
+ "question": "Maintenir des plaquettes élevées sous hétrombopag permet-il d'obtenir une réponse prolongée après l'arrêt du traitement dans le PTI ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où les plaquettes sont détruites et mal produites. Après l'échec des corticoïdes, les agonistes du récepteur de la TPO (ARTPO), comme l'hétrombopag, rétablissent les plaquettes mais la maladie rechute souvent à l'arrêt. Une réponse prolongée après arrêt (SROT) est obtenue chez une minorité de patients.\n\nL'hypothèse de cet essai chinois de phase 2 est qu'un maintien prolongé de plaquettes élevées (300 à 600 G/L) sous ARTPO pourrait induire une tolérance immune et favoriser une réponse sans traitement. Les patients en réponse complète sous hétrombopag (2,5 à 7,5 mg/jour) poursuivent le traitement avec adaptation de dose, associé à l'aspirine d'après les interventions listées. Après 24 semaines, ceux dont les plaquettes restent ≥ 50 G/L entrent dans une période de réduction de 8 semaines, puis de suivi hors traitement.",
+ "interet": "Il pourrait proposer une stratégie pour augmenter la proportion de patients capables d'arrêter les ARTPO sans rechute. Le bras unique limite la comparaison.",
+ "profil": "Des adultes de 50 ans ou moins avec PTI primaire récent ou persistant en réponse complète sous hétrombopag.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire récent ou persistant, réponse insuffisante ou rechute après corticoïdes avec ou sans immunoglobulines",
+  "Réponse complète (plaquettes > 100 G/L) sous hétrombopag 2,5 à 7,5 mg/jour",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Âge > 50 ans",
+  "Contre-indication à l'aspirine",
+  "Antécédent de thrombose artérielle ou veineuse, thrombophilie",
+  "Facteurs de risque cardiovasculaire (hypertension, diabète, dyslipidémie)",
+  "Cardiopathie récente, fibrillation atriale, allongement du QTc",
+  "Anticoagulant ou antiagrégant en cours, œstrogènes ou contraceptif oral",
+  "Cancer passé ou actuel, thrombopénie secondaire, myélofibrose ≥ 2",
+  "Insuffisance hépatique ou rénale, cirrhose, infection non contrôlée, hépatite B active"
+ ],
+ "bras": [
+  {
+   "nom": "Hétrombopag",
+   "traitement": "Hétrombopag 2,5 à 7,5 mg/jour pour maintenir des plaquettes de 300 à 600 G/L, avec aspirine ; réduction progressive sur 8 semaines après 24 semaines"
+  }
+ ],
+ "duree": "Environ 3 ans",
+ "critere": "Réponse prolongée hors traitement (plaquettes ≥ 50 G/L sans autre traitement spécifique ni saignement), à 3 ans."
+}

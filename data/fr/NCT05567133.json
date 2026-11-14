@@ -1,0 +1,29 @@
+{
+ "h": "7ac8c8d50f84",
+ "date": "2026-11-14",
+ "titre": "Facteurs pronostiques de l'évolution de la sarcoïdose pulmonaire",
+ "question": "Quels éléments cliniques et biologiques recueillis en consultation permettent de prédire l'aggravation d'une sarcoïdose pulmonaire ?",
+ "contexte": "La sarcoïdose est une granulomatose systémique d'évolution très variable : régression spontanée chez certains patients, fibrose pulmonaire progressive chez d'autres. L'atteinte pulmonaire est la plus fréquente et conditionne le pronostic fonctionnel. Il n'existe pas d'outil validé pour prévoir quels patients vont s'aggraver.\n\nCette cohorte observationnelle de l'université de Californie à San Francisco vise à construire des modèles pronostiques à partir de données cliniques et de biomarqueurs sanguins accessibles lors d'une consultation de routine. Le critère principal est la variation de la capacité vitale forcée à 24 mois. Les biomarqueurs sanguins sont testés comme objectif secondaire, pour voir s'ils améliorent l'évaluation du risque. Le diagnostic suit les critères ATS de 1999, avec preuve histologique.",
+ "interet": "Un score pronostique simple pourrait aider à cibler la surveillance rapprochée et le traitement précoce chez les patients à risque de progression.",
+ "profil": "Des adultes atteints de sarcoïdose pulmonaire confirmée histologiquement.",
+ "inclusion": [
+  "Adulte de plus de 18 ans avec sarcoïdose",
+  "Diagnostic selon l'ATS 1999, avec biopsie confirmant la maladie",
+  "Exclusion des diagnostics différentiels (béryllium, mycobactéries, infections virales ou fongiques)"
+ ],
+ "exclusion": [
+  "Incapacité à tolérer les procédures de l'étude",
+  "Grossesse ou allaitement",
+  "Maladie pouvant modifier les biomarqueurs (déficit immunitaire commun variable, VIH, maladie auto-immune)",
+  "Autre pneumopathie interstitielle (pneumopathie d'hypersensibilité, fibrose pulmonaire idiopathique)",
+  "Hématocrite < 25 %"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients",
+   "traitement": "Suivi observationnel sans intervention, avec recueil de données cliniques et prélèvements sanguins en consultation"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Variation moyenne de la capacité vitale forcée (en litres) entre l'inclusion et 24 mois."
+}

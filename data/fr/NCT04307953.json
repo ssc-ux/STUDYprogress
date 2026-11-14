@@ -1,0 +1,29 @@
+{
+ "h": "f08feed08d52",
+ "date": "2026-11-14",
+ "titre": "Saracatinib pour prévenir l'ossification hétérotopique dans la fibrodysplasie ossifiante progressive",
+ "question": "Le saracatinib (AZD0530) réduit-il le nombre de nouvelles lésions d'ossification hétérotopique actives chez l'adulte atteint de fibrodysplasie ossifiante progressive ?",
+ "contexte": "La fibrodysplasie ossifiante progressive (FOP) est une maladie génétique ultra-rare due à une mutation activatrice du gène ACVR1 (le plus souvent ACVR1 R206H). Elle provoque des ossifications hétérotopiques progressives des muscles, tendons et ligaments, déclenchées par des poussées spontanées ou après traumatisme, avec une perte de mobilité cumulative. Une malformation congénitale des gros orteils est typique.\n\nLes traitements disponibles visent surtout les poussées (corticoïdes à court terme) et, plus récemment, des inhibiteurs de l'activine A ou de la voie ACVR1 en développement ou approuvés selon les régions. Le saracatinib, inhibiteur de tyrosine kinase de type Src initialement développé en oncologie, a été identifié comme inhibiteur de la signalisation d'ACVR1 et pourrait freiner la formation osseuse hétérotopique.\n\nCet essai de phase 2 européen (STOPFOP), promu par l'Amsterdam UMC avec Oxford, AstraZeneca et plusieurs autres centres, est un essai randomisé en double aveugle de 6 mois contre placebo, suivi de 12 mois d'extension en ouvert où tous reçoivent le saracatinib 100 mg par jour, comparés à des données historiques. L'activité des lésions est mesurée par scanner basse dose et TEP au [18F]NaF.",
+ "interet": "Si le saracatinib réduit l'activité des lésions, il pourrait constituer une option orale pour freiner la progression de la FOP, avec un essai de petite taille adapté à une maladie ultra-rare.",
+ "profil": "Des adultes de 18 à 65 ans atteints de FOP classique confirmée génétiquement, avec maladie active.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Diagnostic clinique de FOP (malformation des gros orteils, antécédent d'ossification hétérotopique) confirmé par variant ACVR1 R206H ou autre variant",
+  "Contraception hautement efficace pendant l'étude et 4 semaines après la dernière dose (hommes et femmes en âge de procréer)",
+  "Capacité à comprendre l'étude, à signer le consentement et à réaliser les examens d'imagerie TEP et scanner"
+ ],
+ "exclusion": [
+  "Refus des restrictions de reproduction, grossesse ou allaitement",
+  "Maladie concomitante significative (cardiaque, respiratoire, rénale, hépatique, endocrinienne, etc.)",
+  "Saignement actif, maladie digestive chronique ou aiguë, MICI, mucite",
+  "Cancer traité dans les 3 dernières années, DFGe inférieur à 30 mL/min/1,73 m², HbA1c supérieure à 9 %",
+  "QTc supérieur à 450 ms, neutropénie ou thrombopénie, trouble de la coagulation, ALAT ou ASAT supérieures à 2 N, bilirubine supérieure à 1,5 N",
+  "Autre étude interventionnelle, traitement susceptible d'interférer avec l'ossification dans les 90 jours, alcool supérieur à 14 unités par semaine, autre maladie osseuse métabolique active"
+ ],
+ "bras": [
+  { "nom": "AZD0530", "traitement": "Saracatinib (AZD0530) 100 mg par voie orale une fois par jour pendant 6 mois en double aveugle, puis 12 mois en ouvert" },
+  { "nom": "Placebo puis AZD0530", "traitement": "Placebo identique pendant 6 mois, puis saracatinib 100 mg par jour pendant 12 mois en ouvert" }
+ ],
+ "duree": "18 mois (6 mois randomisés puis 12 mois d'extension en ouvert)",
+ "critere": "Nombre de nouvelles lésions d'ossification hétérotopique actives en TEP/scanner au [18F]NaF, entre l'inclusion et le mois 6"
+}

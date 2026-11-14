@@ -1,0 +1,30 @@
+{
+ "h": "b8028f4e6869",
+ "date": "2026-11-14",
+ "titre": "Zanubrutinib dans le purpura thrombopénique immunologique réfractaire",
+ "question": "Le zanubrutinib, inhibiteur de BTK, est-il sûr et efficace pour remonter les plaquettes chez des adultes ayant un PTI primaire réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune spécifique d'organe, marquée par une baisse du nombre de plaquettes et des saignements cutanéo-muqueux. Elle résulte d'une destruction accrue des plaquettes et d'une production altérée, d'origine auto-immune.\n\nLe traitement de première ligne repose sur les corticoïdes et les immunoglobulines. En deuxième ligne, on utilise la thrombopoïétine et les agonistes de son récepteur, la splénectomie et d'autres immunosuppresseurs (rituximab, vincristine, azathioprine). Une partie des patients reste en échec ou rechute, ce qui justifie de nouvelles options.\n\nLe zanubrutinib est un inhibiteur de la tyrosine kinase de Bruton (BTK), d'abord développé dans les hémopathies B. Il pourrait agir en bloquant la signalisation des lymphocytes B et des récepteurs Fc des phagocytes. Cette phase 2 chinoise de l'Institute of Hematology & Blood Diseases Hospital est ouverte, à bras unique, sur 30 adultes. Le critère principal est la proportion de patients avec plaquettes ≥ 30 G/L et ≥ 50 G/L à la semaine 12.",
+ "interet": "L'étude pourrait montrer si un inhibiteur de BTK oral est une option après échec de plusieurs lignes dans le PTI. Elle est non comparative.",
+ "profil": "Des adultes ayant un PTI primaire de plus de 3 mois, en échec des corticoïdes et d'au moins un traitement de deuxième ligne.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI primaire diagnostiqué depuis plus de 3 mois",
+  "Plaquettes < 30 G/L avant l'inclusion",
+  "Échec ou rechute après corticoïdes et au moins un traitement de 2e ligne (rituximab > 12 semaines ou agoniste de la TPO)",
+  "Fonctions hépatique et rénale < 1,5 N, ECOG ≤ 2, NYHA ≤ 2",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Maladie grave non contrôlée d'un organe majeur (cancer, insuffisance hépatique, cardiaque ou rénale)",
+  "VIH, infection active non contrôlée (hépatite B ou C, CMV, EBV, syphilis)",
+  "Saignement grave ou étendu, septicémie",
+  "Maladie cardiaque ou arythmie nécessitant un traitement, hypertension mal contrôlée",
+  "Maladie thrombotique (embolie pulmonaire, thrombose, athérosclérose), antiagrégant plaquettaire",
+  "Greffe allogénique ou d'organe antérieure, toxicité résiduelle d'un traitement antérieur",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Zanubrutinib", "traitement": "Zanubrutinib à la dose indiquée, 30 patients" }
+ ],
+ "duree": "12 semaines pour le critère principal",
+ "critere": "Proportion de patients avec plaquettes ≥ 30 G/L et ≥ 50 G/L à la semaine 12 (jour 85)"
+}

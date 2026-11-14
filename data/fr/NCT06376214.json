@@ -1,0 +1,40 @@
+{
+ "h": "b00ea212e720",
+ "date": "2026-11-14",
+ "titre": "Daratumumab, avec ou sans autogreffe, dans l'amylose AL nouvellement diagnostiquée",
+ "question": "Quelle est l'efficacité d'un traitement à base de daratumumab, seul, suivi d'une autogreffe ou associé au pomalidomide, dans l'amylose AL ?",
+ "contexte": "L'amylose AL est due à la production de chaînes légères amyloïdogènes par un clone plasmocytaire. Le daratumumab, anticorps anti-CD38, associé au bortézomib, au cyclophosphamide et à la dexaméthasone, est devenu le traitement de première ligne de référence. Le pronostic dépend de l'atteinte cardiaque : le stade Mayo IIIb (NT-proBNP > 8500 ng/L et troponine élevée) reste de pronostic très sombre.\n\nCette étude exploratoire chinoise, monocentrique, répartit des patients nouvellement diagnostiqués en trois groupes. Les groupes A et B (stades Mayo I à IIIa) reçoivent un traitement long par daratumumab-dexaméthasone, avec ou sans autogreffe de cellules souches après deux cures. Le groupe C (stade IIIb) reçoit daratumumab, dexaméthasone et pomalidomide.\n\nLe daratumumab sous-cutané est administré chaque semaine pendant deux mois, toutes les deux semaines pendant quatre mois, puis chaque mois.",
+ "interet": "Elle pourrait préciser la place de l'autogreffe après daratumumab et d'un schéma avec pomalidomide dans les formes cardiaques sévères (IIIb).",
+ "profil": "Des adultes de 18 à 75 ans avec une amylose AL nouvellement diagnostiquée avec atteinte d'au moins un organe majeur.",
+ "inclusion": [
+  "Âge 18-75 ans",
+  "Amylose AL récente avec atteinte du cœur, du rein ou du foie, confirmée par histologie",
+  "Groupes A et B : stade Mayo 2004 I à IIIA ; groupe C : stade IIIB (NT-proBNP > 8500 ng/L et troponine élevée)",
+  "ECOG ≤ 2, survie attendue ≥ 12 semaines",
+  "Contraception efficace chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "DFG < 30 ml/min/1,73 m²",
+  "Myélome multiple associé",
+  "Infection aiguë ou chronique nécessitant un traitement dans les 30 jours",
+  "Grossesse ou allaitement",
+  "Allergie grave aux anticorps monoclonaux ou aux immunomodulateurs",
+  "Toute autre condition jugée inadaptée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "Daratumumab sous-cutané et dexaméthasone au long cours (18 mois de rythme mensuel)"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "Deux cures de daratumumab et dexaméthasone, puis autogreffe de cellules souches"
+  },
+  {
+   "nom": "Groupe C (stade IIIb)",
+   "traitement": "Daratumumab 16 mg/kg, dexaméthasone 40 mg et pomalidomide oral (jours 1-21 de 6 cycles de 28 jours)"
+  }
+ ],
+ "duree": "Jusqu'à progression ou toxicité ; évaluations tous les 3 mois",
+ "critere": "Taux de réponse hématologique complète à 6 mois et taux de réponse d'organe à 1 an."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "dab47521eecf",
+ "date": "2026-11-14",
+ "titre": "Enquête de pharmacovigilance sur l'avacopan à long terme dans les vascularites à ANCA (Japon)",
+ "question": "Quelle est la sécurité et l'efficacité de l'avacopan en traitement prolongé chez des patients japonais avec granulomatose avec polyangéite ou polyangéite microscopique ?",
+ "contexte": "La granulomatose avec polyangéite (GPA) et la polyangéite microscopique (PAM) sont des vascularites associées aux ANCA qui touchent notamment le rein, le poumon et les nerfs. Le traitement d'induction repose sur le rituximab ou le cyclophosphamide associé aux corticoïdes. Les corticoïdes à forte dose contribuent à une morbidité importante, notamment infectieuse.\n\nL'avacopan est un antagoniste oral du récepteur C5a du complément. L'essai de phase 3 ADVOCATE a montré qu'il permettait de remplacer les corticoïdes à forte dose avec une rémission non inférieure à 26 semaines et une supériorité à 52 semaines. Cette enquête post-commercialisation de Kissei Pharmaceutical recueille des données de sécurité et d'efficacité à long terme chez 250 patients japonais traités en pratique courante. La période de suivi est de 2 ans. Il s'agit d'une obligation de surveillance après mise sur le marché.",
+ "interet": "Les résultats documenteront la tolérance à long terme de l'avacopan, notamment hépatique et infectieuse, en pratique réelle japonaise. Ils n'apportent pas de comparaison directe avec d'autres traitements.",
+ "profil": "Des patients japonais avec GPA ou PAM traités par avacopan.",
+ "inclusion": ["GPA ou PAM", "Traitement par avacopan"],
+ "exclusion": ["Aucun critère d'exclusion précisé dans le registre"],
+ "bras": [{"nom": "Patients traités par avacopan", "traitement": "Avacopan en pratique courante (posologie selon l'autorisation de mise sur le marché)"}],
+ "duree": "2 ans",
+ "critere": "Événements indésirables sur 2 ans."
+}

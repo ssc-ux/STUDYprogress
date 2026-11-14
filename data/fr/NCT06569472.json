@@ -1,0 +1,14 @@
+{
+ "h": "99689de5ee36",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 dans la dermatomyosite juvénile réfractaire",
+ "question": "Les lymphocytes CAR-T anti-CD19 sont-ils sûrs et efficaces dans la dermatomyosite juvénile réfractaire ?",
+ "contexte": "La dermatomyosite juvénile (DMJ) est la myopathie inflammatoire la plus fréquente de l'enfant. Elle associe faiblesse musculaire proximale, atteinte cutanée caractéristique (rash héliotrope, papules de Gottron) et parfois atteinte pulmonaire, digestive ou calcinose. Le traitement repose sur les corticoïdes, le méthotrexate, les immunoglobulines IV et d'autres immunosuppresseurs.\n\nCertains patients restent réfractaires ou intolérants, avec un risque élevé de séquelles, de handicap et de mortalité, en particulier ceux porteurs d'anticorps anti-MDA5. Les CAR-T anti-CD19 entraînent une déplétion profonde des lymphocytes B et pourraient permettre un « reset » immunitaire, comme déjà rapporté dans le lupus et certaines myopathies de l'adulte. Cette étude de phase 1, promue par une société chinoise, comporte une phase d'escalade de dose (partie A) puis une phase d'extension (partie B) chez 10 enfants. Elle teste surtout la faisabilité et la sécurité, avec une évaluation de l'efficacité à 2 et 3 mois et de la durée de réponse jusqu'à 2 ans.",
+ "interet": "Si la sécurité est acceptable, cette étude pourrait ouvrir une piste pour des enfants sans alternative thérapeutique. Elle reste exploratoire, avec un petit effectif et sans comparateur.",
+ "profil": "Des enfants de 5 à 16 ans avec DMJ réfractaire et anticorps spécifiques de myosite.",
+ "inclusion": ["Âge ≥ 5 ans et < 17 ans", "Critères diagnostiques de DMJ remplis", "Maladie réfractaire : échec ou intolérance aux corticoïdes et à au moins 2 immunosuppresseurs (6 mois), ou évolution rapide avec atteinte d'organe", "Anticorps spécifiques de myosite positifs (MDA-5, NXP2, TIF-1γ, Ro-52)", "FEVG ≥ 55 %, DFG ≥ 30 mL/min/1,73 m², ASAT/ALAT ≤ 3 N, SpO2 ≥ 92 %", "Consentement des parents ou du tuteur"],
+ "exclusion": ["Traitement antérieur par CAR-T", "Autre maladie auto-immune ou rhumatismale", "Déficit immunitaire non corrigé, infection grave ou active (tuberculose, hépatite)", "Cancer actif ou antécédent de tumeur", "Cardiopathie congénitale, infarctus récent, arythmie sévère, myocardite", "Greffe d'organe ou de cellules souches dans les 3 mois, GVH grade ≥ 2", "VIH, syphilis, CMV positif ; vaccin vivant dans les 4 semaines", "Participation à un autre essai dans les 3 mois"],
+ "bras": [{"nom": "CAR-T anti-CD19", "traitement": "Lymphocytes CAR-T anti-CD19 autologues, escalade de dose (partie A) puis extension (partie B)"}],
+ "duree": "Suivi jusqu'à 2 ans",
+ "critere": "Sécurité et tolérance à 28 jours, efficacité à 2 et 3 mois, puis durée de la réponse à 2 ans."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "0e66b61ce043",
+ "date": "2026-11-14",
+ "titre": "Registre des néoplasies myéloprolifératives (UHN, Toronto)",
+ "question": "Comment évoluent les patients atteints de néoplasie myéloproliférative, selon leurs caractéristiques cliniques, moléculaires et leurs traitements ?",
+ "contexte": "Les néoplasies myéloprolifératives (NMP) sont des hémopathies malignes rares dans lesquelles les cellules de la moelle osseuse se développent et fonctionnent de façon anormale. Elles regroupent notamment la polyglobulie de Vaquez, la thrombocytémie essentielle, la myélofibrose primitive, la LMMC, les mastocytoses et les formes de chevauchement MPN/MDS.\n\nMalgré les progrès, le suivi à long terme et le choix du traitement optimal pour chaque patient restent à améliorer. Ce registre de l'University Health Network de Toronto constitue une base de données cliniques annotées. Il recueille, avec consentement écrit, des données prospectives et rétrospectives : mesures cliniques, facteurs liés à la maladie, traitements et leurs résultats, complications, données moléculaires et cytogénétiques, symptômes et survie jusqu'à 10 ans. Il sert de ressource pour de futures études observationnelles.",
+ "interet": "Le registre pourrait apporter des données de vie réelle et un profil moléculaire utiles pour mieux affecter les traitements dans ces maladies rares.",
+ "profil": "Des patients avec une néoplasie myéloproliférative ou un syndrome de chevauchement MPN/MDS.",
+ "inclusion": ["Diagnostic de NMP : LMC atypique, LCE non spécifiée, LMMC, leucémie neutrophilique chronique", "Thrombocytémie essentielle, myélofibrose primitive, myélofibrose post-TE ou post-PV", "LMMJ, mastocytose, NMP ou MPN/MDS inclassables", "Anémie réfractaire avec sidéroblastes en couronne et thrombocytose (RARS-T)", "Consentement écrit"],
+ "exclusion": ["Aucun critère d'exclusion"],
+ "bras": [{"nom": "Patients avec NMP", "traitement": "Registre observationnel : recueil de données cliniques et moléculaires à différents moments de la maladie"}],
+ "duree": "Jusqu'à 10 ans de suivi",
+ "critere": "Survie, évaluée chaque année ou à la transformation de la maladie, jusqu'à 10 ans"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "4a5747c68f5c",
+ "date": "2026-11-14",
+ "titre": "Allogreffe de cellules souches dans les erreurs innées de l'immunité (NIH)",
+ "question": "L'allogreffe de cellules souches, avec des conditionnements et des sources de greffon adaptés, permet-elle une prise de greffe durable et une guérison des erreurs innées de l'immunité ?",
+ "contexte": "Les erreurs innées de l'immunité (EII) regroupent plus de 400 maladies génétiques identifiées, souvent grâce au séquençage de l'exome ou du génome. Elles comprennent des déficits immunitaires primitifs et des maladies de dysrégulation immunitaire, avec infections récurrentes, auto-immunité, lymphoprolifération ou lymphohistiocytose hémophagocytaire.\n\nL'allogreffe de cellules souches hématopoïétiques est le seul traitement curatif de nombreuses EII. Elle est devenue un standard ou une approche expérimentale appropriée pour un nombre croissant d'entre elles, mais elle expose à des complications : rejet, GVHD, infections, toxicité du conditionnement. Le choix de l'intensité du conditionnement et du donneur reste difficile, surtout chez l'adolescent et l'adulte.\n\nCet essai de phase 2 du National Cancer Institute, mené au NIH, évalue l'allogreffe avec des conditionnements d'intensité faible, intermédiaire ou élevée (busulfan, fludarabine, alemtuzumab, irradiation corporelle totale selon le bras), avec cyclophosphamide post-greffe, tacrolimus et mycophénolate. Il inclut des patients de 4 à 69 ans, avec donneur HLA-compatible (6/8 à 8/8) apparenté ou non, ou haplo-identique. Le critère principal est la prise de greffe durable à J100.",
+ "interet": "L'étude pourrait préciser quels conditionnements et donneurs permettent une greffe durable et la correction du phénotype chez des patients de 4 à 69 ans atteints d'EII, y compris des adultes rarement inclus dans les essais.",
+ "profil": "Des patients de 4 à 69 ans, de 12 kg ou plus, atteints d'un déficit immunitaire primitif ou d'un trouble de régulation immunitaire sévère.",
+ "inclusion": [
+  "Âge de 4 à 69 ans, poids d'au moins 12 kg",
+  "Mutation d'un gène d'EII établie en laboratoire certifié, avec échec ou absence de prise en charge standard, ou tableau clinique évocateur (infections prolongées, dysrégulation immunitaire, HLH, hypogammaglobulinémie, tumeur liée à un virus)",
+  "Donneur HLA-compatible 8/8, 7/8 ou 6/8, apparenté ou non apparenté, ou haplo-identique",
+  "Karnofsky ou Lansky d'au moins 40 %, FEVG supérieure à 40 %",
+  "Fonctions rénale (clairance d'au moins 30 mL/min), hépatique (ALAT et ASAT d'au plus 5 N) et pulmonaire (VEMS et DLCO supérieurs à 30 %) adéquates",
+  "Disponibilité pour rester près du NIH au moins 100 jours après la greffe, avec aidant adulte"
+ ],
+ "exclusion": [
+  "Autre agent expérimental en cours (sauf lymphocytes T antiviraux)",
+  "Métastases cérébrales connues",
+  "Infection par le VIH",
+  "Allergie aux agents de l'étude (corticoïdes, cyclophosphamide, busulfan, tacrolimus, sirolimus, mycophénolate, G-CSF, alemtuzumab)",
+  "Trouble psychiatrique actif compromettant l'observance",
+  "Grossesse ou allaitement, maladie intercurrente non contrôlée"
+ ],
+ "bras": [
+  { "nom": "Bras A", "traitement": "Conditionnement d'intensité faible, intermédiaire ou élevée (busulfan, fludarabine), avec ou sans alemtuzumab, puis allogreffe, cyclophosphamide post-greffe, tacrolimus, mycophénolate" },
+  { "nom": "Bras B", "traitement": "Conditionnement d'intensité intermédiaire (busulfan, fludarabine, irradiation corporelle totale), avec ou sans alemtuzumab, puis allogreffe, cyclophosphamide post-greffe, tacrolimus, mycophénolate" }
+ ],
+ "duree": "Visites aux jours 30, 60, 100, 180, 360 et 24 mois, puis annuelles environ 5 ans",
+ "critere": "Prise de greffe durable du donneur (neutrophiles d'au moins 500/mm³ avec chimérisme donneur T et myéloïde supérieur au seuil défini) entre l'inclusion et J100"
+}

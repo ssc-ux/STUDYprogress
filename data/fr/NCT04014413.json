@@ -1,0 +1,26 @@
+{
+ "h": "16a5b24653f7",
+ "date": "2026-11-14",
+ "titre": "Transplantation de microbiote fécal dans de multiples maladies associées à une dysbiose",
+ "question": "La transplantation de microbiote fécal (TMF) est-elle sûre et efficace en pratique courante dans des maladies associées à une dysbiose intestinale ?",
+ "contexte": "Le microbiote intestinal est un véritable organe fonctionnel, et sa dysbiose est associée à de nombreuses maladies. La TMF, qui consiste à administrer les selles d'un donneur sain pour rétablir un microbiote équilibré, est aujourd'hui recommandée dans l'infection à Clostridioides difficile qui ne répond pas aux traitements standards.\n\nD'autres indications ont été explorées. Des essais randomisés ont donné des résultats positifs dans la rectocolite hémorragique, la maladie de Crohn, la pouchite, le syndrome de l'intestin irritable, l'encéphalopathie hépatique, l'hépatite alcoolique et le syndrome métabolique. Des séries de cas et des études pilotes suggèrent un intérêt dans la maladie cœliaque, la constipation, les infections à bactéries multirésistantes, la sclérose en plaques, la GVHD, le PTI, l'atopie ou l'infection à ERV et entérobactéries résistantes aux carbapénèmes.\n\nLa sécurité et l'efficacité de la TMF en conditions de soins usuels restent mal connues. Cette étude pilote de l'Université chinoise de Hong Kong inclut des patients atteints de l'une de ces nombreuses maladies, avec une cohorte par pathologie. Chacun reçoit une TMF par la voie jugée adaptée (sonde nasoduodénale, endoscopie, coloscopie ou lavement), et l'amélioration clinique est évaluée à 1 an selon des critères propres à la maladie.",
+ "interet": "L'étude doit apporter des données de sécurité et d'efficacité dans des indications peu explorées de la TMF, sans bras de comparaison. Elle est exploratoire et ne permet pas de conclure à l'efficacité.",
+ "profil": "Des patients atteints d'une maladie associée à une dysbiose (MICI, SII, maladie cœliaque, infections résistantes, encéphalopathie hépatique, SEP, etc.).",
+ "inclusion": [
+  "Maladie de Crohn, rectocolite hémorragique, maladie cœliaque, syndrome de l'intestin irritable, dyspepsie fonctionnelle ou constipation",
+  "Diarrhée ou complication associée aux antibiotiques, infection à bactérie multirésistante, ERV, ou entérobactérie résistante aux carbapénèmes",
+  "Diabète, obésité, stéatopathie métabolique, encéphalopathie hépatique, dépendance à l'alcool",
+  "Sclérose en plaques, pseudo-obstruction, dysfonction multi-organes, GVHD, PTI, atopie, alopécie, autisme",
+  "Rhumatisme psoriasique insuffisamment contrôlé malgré le traitement standard"
+ ],
+ "exclusion": [
+  "Contre-indication à toutes les voies d'administration de la TMF (sonde nasoduodénale, endoscopie haute, entéroscopie, coloscopie, lavement)",
+  "Toute situation pouvant compromettre l'efficacité de la TMF, à la discrétion des investigateurs",
+  "Grossesse en cours"
+ ],
+ "bras": [
+  { "nom": "Cohortes par maladie", "traitement": "Transplantation de microbiote fécal dans chaque maladie (Crohn, RCH, cœliaque, SII, dyspepsie, constipation, maladies métaboliques, infections multirésistantes, encéphalopathie hépatique, SEP, GVHD, PTI, atopie, etc.)" }
+ ],
+ "duree": "1 an",
+ "critere": "Nombre de patients avec amélioration des symptômes cliniques (définie selon chaque maladie), à 1 an"
+}

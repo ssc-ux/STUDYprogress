@@ -1,0 +1,24 @@
+{
+ "h": "f3eddfe76c61",
+ "date": "2026-11-14",
+ "titre": "Besoins de soutien des aidants de patients atteints de la maladie d'Erdheim-Chester et d'histiocytoses",
+ "question": "Quels sont les besoins de soutien des aidants informels de personnes atteintes de la maladie d'Erdheim-Chester ou d'autres histiocytoses ?",
+ "contexte": "La maladie d'Erdheim-Chester (ECD) est une histiocytose non langerhansienne rare, de l'adulte, qui peut toucher les os, le système nerveux, le cœur, les reins, les poumons et le rétropéritoine. Elle est chronique et son évolution est variable ; les traitements ciblés, notamment les inhibiteurs de la voie BRAF/MEK, ont amélioré le pronostic.\n\nComme pour d'autres maladies rares et chroniques, la prise en charge repose en grande partie sur des proches : conjoints, famille ou amis qui apportent un soutien non rémunéré. Cette charge peut avoir des retentissements psychologiques, sociaux et financiers, mais les besoins propres à ces aidants sont très peu documentés dans les histiocytoses.\n\nCette étude observationnelle transversale du Memorial Sloan Kettering Cancer Center recueille, à un seul moment, des données auto-déclarées par des aidants, grâce à des questionnaires en ligne (REDCap). L'objectif principal concerne les aidants de patients atteints d'ECD ; un objectif exploratoire élargit aux histiocytose langerhansienne (LCH), maladie de Rosai-Dorfman (RDD) et xanthogranulome juvénile (JXG).",
+ "interet": "Les résultats pourraient orienter des programmes de soutien adaptés aux aidants de patients atteints d'histiocytoses, et sensibiliser les équipes soignantes à leur charge.",
+ "profil": "Des adultes aidants informels de personnes atteintes d'ECD ou d'une autre histiocytose.",
+ "inclusion": [
+  "Aidant informel auto-déclaré (proche ou ami apportant un soutien non rémunéré)",
+  "Patient suivi pour une maladie d'Erdheim-Chester (ou LCH, RDD, JXG pour l'objectif exploratoire)",
+  "Âge d'au moins 18 ans",
+  "Maîtrise de l'anglais pour les questionnaires"
+ ],
+ "exclusion": [
+  "Refus de signer le consentement",
+  "Impossibilité de remplir les questionnaires en ligne"
+ ],
+ "bras": [
+  { "nom": "Aidants de patients", "traitement": "Questionnaires en ligne remplis une seule fois par l'aidant" }
+ ],
+ "duree": "Un seul questionnaire en ligne (étude transversale)",
+ "critere": "Besoins de soutien des aidants informels, évalués par questionnaires, sur 3 ans"
+}

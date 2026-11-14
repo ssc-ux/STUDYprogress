@@ -1,0 +1,23 @@
+{
+ "h": "82d2536743c2",
+ "date": "2026-11-14",
+ "titre": "Cohorte prospective des gammapathies et proliférations plasmocytaires à l'hôpital de l'Université de Pékin",
+ "question": "Comment évoluent les patients ayant une prolifération plasmocytaire, et quel est le lien entre maladie résiduelle, microenvironnement tumoral et pronostic ?",
+ "contexte": "Les proliférations plasmocytaires regroupent des maladies variées : gammapathie monoclonale de signification indéterminée (MGUS), myélome indolent et myélome, leucémie à plasmocytes, amylose AL, maladies de dépôt de chaînes légères ou lourdes, maladie de Castleman, syndrome POEMS, cryoglobulinémie. Elles comprennent aussi les gammapathies de signification rénale (MGRS) ou neurologique (MGNS).\n\nElles ont en commun un clone plasmocytaire dont la protéine monoclonale cause des lésions d'organes. Le pronostic dépend de la profondeur de la réponse, mesurée par la maladie résiduelle (MRD), et du microenvironnement tumoral, qui restent mal documentés en dehors du myélome.\n\nCette cohorte prospective du Peking University First Hospital vise 2000 patients hospitalisés. Elle collecte les caractéristiques cliniques, les traitements et les réponses, ainsi que des échantillons de sang, de moelle et d'urine avant et après traitement. L'objectif est d'analyser la relation entre MRD et pronostic, et d'étudier la sélection et l'évolution clonale.",
+ "interet": "La cohorte pourrait fournir des données de MRD et une biothèque dans des maladies plasmocytaires rares, avec un suivi de 10 ans.",
+ "profil": "Des patients hospitalisés ayant une prolifération plasmocytaire confirmée (MGUS, myélome, amylose, POEMS, Castleman, entre autres).",
+ "inclusion": [
+  "Diagnostic confirmé de prolifération plasmocytaire",
+  "Hospitalisation au Peking University First Hospital",
+  "Maladies éligibles : MGUS, myélome indolent ou myélome, leucémie à plasmocytes, amylose, maladies de dépôt, Castleman, POEMS, cryoglobulinémie, MGRS, MGNS",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Comorbidité significative pouvant engager le pronostic vital"
+ ],
+ "bras": [
+  { "nom": "Cohorte de proliférations plasmocytaires", "traitement": "Patients suivis avec recueil de données cliniques et d'échantillons, sans intervention imposée" }
+ ],
+ "duree": "10 ans",
+ "critere": "Constitution de la cohorte et analyse du lien entre statut MRD et pronostic, sur 10 ans"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "4ab87127b18d",
+ "date": "2026-11-14",
+ "titre": "GL-0719 chez des volontaires sains puis des patients atteints de maladie des agglutinines froides",
+ "question": "Le GL-0719, injecté en dose unique par voie IV ou sous-cutanée, est-il bien toléré chez des volontaires sains et chez des patients ayant une maladie des agglutinines froides ?",
+ "contexte": "La maladie des agglutinines froides (MAF) est une anémie hémolytique auto-immune où des anticorps IgM se fixent sur les globules rouges au froid. Ils activent le complément par la voie classique, ce qui provoque une hémolyse, principalement extravasculaire dans le foie. Elle peut être primaire ou secondaire à un syndrome lymphoprolifératif.\n\nLes options actuelles sont limitées : évitement du froid, rituximab, associations avec la bendamustine ou la fludarabine, et le sutimlimab, inhibiteur de C1s. Le besoin de traitements supplémentaires et d'administration facilitée persiste.\n\nCette phase 1 du laboratoire Gliknik, chez l'homme pour la première fois, est randomisée en double aveugle contre placebo (3:1) pour les volontaires sains. Elle comprend 5 cohortes IV et 2 cohortes sous-cutanées, soit 7 cohortes de volontaires, puis 2 cohortes ouvertes de patients atteints de MAF (6 et 12 patients), pour 70 participants au total. Le registre ne détaille pas le mécanisme du produit. Les critères principaux portent sur la tolérance.",
+ "interet": "Il s'agit d'une étude de tolérance et de pharmacocinétique, sans résultat d'efficacité attendu avant des phases ultérieures. Elle pourrait préparer le développement d'un nouveau traitement de la MAF.",
+ "profil": "Des adultes volontaires sains, puis des patients adultes ayant une maladie des agglutinines froides.",
+ "inclusion": [
+  "Cohortes 1 à 7 : volontaires sains de 18 à 65 ans, IMC de 18 à 32 kg/m2, poids de 50 à 110 kg",
+  "Cohortes 8 et 9 : adultes ≥ 18 ans, poids ≥ 50 kg, MAF primaire ou secondaire à un lymphome actif",
+  "Hémoglobine < 105 g/L et bilirubine élevée (patients MAF)",
+  "Vaccination antiméningococcique conjuguée ACWY dans les 5 ans, ou au moins 14 jours avant le traitement",
+  "Contraception, consentement éclairé"
+ ],
+ "exclusion": [
+  "Volontaires : maladie majeure significative, maladie auto-immune, ANA ≥ 1:160, antécédent d'immunosuppresseur ou de corticoïdes systémiques",
+  "Patients : MAF secondaire à une infection ou une maladie auto-immune",
+  "Patients : MAF liée à une hémopathie maligne active hors critères, autre cancer récent",
+  "Infection cliniquement significative dans le mois précédent",
+  "Lupus ou autre maladie systémique associée"
+ ],
+ "bras": [
+  { "nom": "GL-0719", "traitement": "Dose unique IV (cohortes 1 à 5) ou sous-cutanée (cohortes 6 et 7) chez les volontaires, escalade de dose ; patients MAF : cohortes 8 (jusqu'à 6) et 9 (jusqu'à 12), sans placebo" },
+  { "nom": "Placebo", "traitement": "Placebo en dose unique chez les volontaires sains (randomisation 3:1)" }
+ ],
+ "duree": "Environ 31 jours après la dose (suivi au jour 31 ± 2)",
+ "critere": "Incidence et gravité des événements indésirables, anomalies biologiques, ECG, signes vitaux et cytokines, du jour 1 au suivi du jour 31"
+}

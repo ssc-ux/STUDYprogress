@@ -1,0 +1,24 @@
+{
+ "h": "82757e60a93c",
+ "date": "2026-11-14",
+ "titre": "Taux sérique de LDH et PTI",
+ "question": "Existe-t-il un lien entre le taux sérique de lactate déshydrogénase (LDH) et le PTI au moment du diagnostic ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune caractérisée par une baisse du nombre de plaquettes circulantes, due à leur destruction accélérée et à une production insuffisante. Le diagnostic reste un diagnostic d'élimination, et il existe peu de biomarqueurs simples pour caractériser la maladie.\n\nLa lactate déshydrogénase (LDH) est un groupe d'isoenzymes qui catalysent la conversion réversible du pyruvate en lactate. Elle est présente dans de nombreux tissus et libérée lors d'une lésion cellulaire. Des travaux ont rapporté une LDH modérément élevée chez des patients atteints de PTI au moment du diagnostic, ce qui pourrait refléter une destruction plaquettaire accrue.\n\nCette étude observationnelle cas-témoins égyptienne (université de Sohag) prévoit 40 participants de 16 ans et plus, des patients présentant une thrombopénie au moment du diagnostic. Elle étudie la relation entre la LDH sérique et le PTI. Les patients avec fractures, maladie osseuse ou cancer sont exclus, car ces situations élèvent aussi la LDH.",
+ "interet": "Si le lien est confirmé, la LDH pourrait servir de marqueur simple et peu coûteux associé au PTI. L'étude est de petite taille, et l'élévation de la LDH reste peu spécifique.",
+ "profil": "Des patients de 16 ans et plus présentant une thrombopénie au moment du diagnostic, comparés à des témoins.",
+ "inclusion": [
+  "Patients avec thrombopénie au moment du diagnostic",
+  "Âge ≥ 16 ans"
+ ],
+ "exclusion": [
+  "Fractures osseuses",
+  "Maladies osseuses",
+  "Cancer"
+ ],
+ "bras": [
+  { "nom": "Patients avec PTI", "traitement": "Dosage de la LDH sérique au diagnostic" },
+  { "nom": "Témoins", "traitement": "Dosage de la LDH sérique (composition du groupe témoin non précisée)" }
+ ],
+ "duree": "Environ 2 ans",
+ "critere": "Relation entre la LDH sérique et le PTI, sur environ 2 ans."
+}

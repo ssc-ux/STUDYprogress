@@ -1,0 +1,37 @@
+{
+ "h": "d0f6a8f8da7c",
+ "date": "2026-11-14",
+ "titre": "CAPACITY : réadaptation cardiaque supervisée dans l'amylose cardiaque",
+ "question": "Un programme supervisé de réadaptation cardiaque de 12 semaines est-il réalisable chez des patients atteints d'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque, par dépôts de chaînes légères (AL) ou de transthyrétine (ATTR), entraîne une insuffisance cardiaque à fraction d'éjection préservée, une intolérance à l'effort et une altération de la qualité de vie. Dans l'insuffisance cardiaque à fraction d'éjection préservée en général, l'entraînement physique améliore la capacité cardiorespiratoire et la qualité de vie.\n\nChez les patients amyloïdes, les données sur la sécurité et le bénéfice de la réadaptation sont rares, et les patients sont parfois déconseillés d'effort par prudence. Cette étude du Wake Forest, menée avec le programme de réadaptation cardiaque d'Atrium Health, cherche aussi à documenter le bénéfice pour justifier une prise en charge par les assurances.\n\nLes participants du groupe intervention suivent 36 séances supervisées en 12 semaines (3 séances d'une heure par semaine), avec test de marche de 6 minutes et épreuve d'effort cardiopulmonaire avant et après. Le groupe témoin n'a pas d'intervention et passe les mêmes tests à 12-14 semaines.",
+ "interet": "Les résultats préciseront la faisabilité et le bénéfice fonctionnel d'un entraînement supervisé chez les patients amyloïdes, ce qui peut orienter la prise en charge non médicamenteuse.",
+ "profil": "Des adultes avec amylose cardiaque stable, NYHA I à III, capables de faire de l'exercice.",
+ "inclusion": [
+  "Âge supérieur à 18 ans",
+  "Insuffisance cardiaque NYHA I à III",
+  "Capacité à faire de l'exercice",
+  "Traitement stable de l'amylose cardiaque ou surveillance active",
+  "Espérance de vie d'au moins 6 mois",
+  "Consentement signé en anglais et capacité à suivre la réadaptation"
+ ],
+ "exclusion": [
+  "Impossibilité de donner un consentement",
+  "Impossibilité de suivre 3 séances supervisées d'une heure par semaine pendant 12 semaines",
+  "Insuffisance cardiaque NYHA IV",
+  "Maladie pulmonaire sous oxygénothérapie à domicile",
+  "Instabilité de la marche ou antécédent de chutes",
+  "Comorbidité importante jugée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe réadaptation cardiaque",
+   "traitement": "Test de marche de 6 minutes et épreuve d'effort initiaux, puis 36 séances supervisées (3 séances d'une heure par semaine pendant 12 semaines), puis tests de contrôle"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Mêmes tests initiaux puis répétés à 12-14 semaines, sans intervention"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Nombre de participants ayant suivi au moins 75 % des séances de réadaptation prescrites à la semaine 12."
+}

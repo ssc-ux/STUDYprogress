@@ -1,0 +1,33 @@
+{
+ "h": "f7f1dd1662ca",
+ "date": "2026-11-14",
+ "titre": "Programme éducatif pour le dysfonctionnement de la main dans la sclérodermie",
+ "question": "Un programme d'éducation et d'autosoins de 8 semaines améliore-t-il la fonction de la main et les connaissances des patients atteints de sclérodermie ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune où la fibrose cutanée et la vasculopathie touchent très souvent les mains. Les patients présentent une raideur des doigts, une perte de force de préhension, un phénomène de Raynaud et parfois des ulcères digitaux. Ces atteintes limitent l'autonomie, le travail et la qualité de vie.\n\nLa rééducation et les exercices de la main sont recommandés, mais l'adhésion des patients est souvent faible et l'éducation thérapeutique spécifique de la main est peu structurée. Cette étude taïwanaise, menée avec le Cheng Hsin Rehabilitation Medical Center, développe d'abord un programme fondé sur les preuves : un livret d'autosoins, des vidéos pédagogiques et des consultations individualisées. Elle l'évalue ensuite dans un essai randomisé en simple aveugle chez 40 patients. Le groupe témoin reçoit les soins usuels, puis le même programme à la fin de l'étude. Les évaluations ont lieu au départ, à 4 et à 8 semaines.",
+ "interet": "L'étude pourrait fournir un outil éducatif simple, peu coûteux et reproductible pour améliorer la fonction de la main dans la sclérodermie. L'effectif est faible et le suivi court.",
+ "profil": "Des adultes avec sclérodermie systémique et atteinte fonctionnelle de la main.",
+ "inclusion": [
+  "Sclérodermie systémique (critères ACR/EULAR 2013) avec dysfonctionnement de la main",
+  "Âge ≥ 18 ans",
+  "Conscient et capable de communiquer en mandarin ou en hokkien taïwanais",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Autre programme de rééducation de la main dans les 3 derniers mois",
+  "Atteinte cérébrale organique",
+  "Déficience visuelle ou auditive sévère",
+  "Maladie grave gênant la communication ou l'apprentissage"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe éducation",
+   "traitement": "Programme de 8 semaines : livret d'autosoins de la main, supports multimédias et consultations individualisées"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Soins usuels, puis le programme à la fin de l'étude"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Connaissances d'autosoins, force de préhension, delta doigt-paume, EVA du Raynaud et des ulcères digitaux, au départ, à 4 et à 8 semaines."
+}

@@ -1,0 +1,33 @@
+{
+ "h": "b61028b74f8b",
+ "date": "2026-11-14",
+ "titre": "Cellules 89Zr-oxine-RY_SW01 dans la sclérodermie systémique diffuse",
+ "question": "Comment les cellules RY_SW01 marquées au zirconium-89 se répartissent-elles après injection chez des patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique évolue vers l'atteinte de plusieurs organes vitaux dans les cinq ans suivant le diagnostic dans les formes diffuses, ce qui pèse sur le pronostic. Les recommandations proposent des traitements symptomatiques ou ciblés sur les organes, mais aucun traitement n'a démontré son effet pour ralentir nettement la progression. Une intervention précoce semble plus favorable.\n\nLe promoteur souhaite développer un produit cellulaire à la fois immunomodulateur et antifibrosant. Cet essai chinois de phase 1 évalue 89Zr-oxine-RY_SW01, des cellules marquées au zirconium-89 pour suivre leur devenir par TEP/scanner. Huit patients avec une sclérodermie diffuse (score cutané de Rodnan modifié de 10 à 30), déjà traités par au moins deux traitements, reçoivent une dose unique de 2,0 × 10^6 cellules/kg.",
+ "interet": "Il pourrait renseigner la biodistribution et l'élimination d'un produit cellulaire candidat avant des essais d'efficacité dans la sclérodermie.",
+ "profil": "Des adultes de 18 à 65 ans avec une sclérodermie systémique diffuse déjà traitée par au moins deux types de traitement.",
+ "inclusion": [
+  "Âge 18-65 ans",
+  "Sclérodermie systémique (critères ACR/EULAR 2013)",
+  "Forme diffuse après au moins deux traitements (corticoïdes, immunosuppresseurs, biothérapies)",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "CVF < 50 % de la théorique",
+  "Hypertension pulmonaire modérée à sévère ou PAPs > 45 mmHg",
+  "Infarctus, AVC, crise rénale sclérodermique, atteinte intestinale sévère ou hypertension sévère récents",
+  "Insuffisance cardiaque NYHA III-IV, FEVG < 50 %, arythmie non contrôlée",
+  "Hémoglobine < 100 g/L, leucocytes < 3,0 G/L, plaquettes < 100 G/L, DFG < 60 ml/min/1,73 m²",
+  "VIH, syphilis ou hépatites B/C actives, infections sévères ou récidivantes",
+  "Vaccin vivant dans les 2 mois, cancer dans les 5 ans",
+  "Claustrophobie ou contre-indication à la TEP/TDM"
+ ],
+ "bras": [
+  {
+   "nom": "Dose unique",
+   "traitement": "89Zr-oxine-RY_SW01, 2,0 × 10^6 cellules/kg, injection unique"
+  }
+ ],
+ "duree": "Non précisé (critères à 14 jours)",
+ "critere": "Valeur de fixation (SUV) du traceur dans les urines et les selles à 14 jours."
+}

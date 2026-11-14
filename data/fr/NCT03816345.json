@@ -1,0 +1,35 @@
+{
+ "h": "d37035398515",
+ "date": "2026-11-14",
+ "titre": "Nivolumab chez des patients atteints de cancer avancé et de maladie auto-immune préexistante",
+ "question": "Le nivolumab, seul ou associé, est-il tolérable chez des patients ayant un cancer avancé et une maladie auto-immune connue ?",
+ "contexte": "Les inhibiteurs de PD-1 ont transformé la prise en charge de nombreux cancers, mais les patients atteints de maladie auto-immune (polyarthrite rhumatoïde, lupus, MICI, sclérose en plaques, psoriasis, sclérodermie, dermatomyosite, syndrome de Gougerot-Sjögren) ont été largement exclus des essais pivots, par crainte de poussées de la maladie auto-immune. Les données disponibles viennent surtout de séries rétrospectives, qui suggèrent que les poussées sont fréquentes mais souvent gérables.\n\nCette étude de phase 1b du National Cancer Institute américain évalue prospectivement la tolérance du nivolumab chez ces patients, avec des cohortes définies selon la maladie auto-immune et sa sévérité (rémission sous traitement léger, modéré ou biothérapie). Le nivolumab est administré seul ou dans les associations approuvées pour l'indication oncologique : ipilimumab, cabozantinib, doublet de platine, fluoropyrimidine selon le cancer (mélanome, CBNPC, mésothéliome, carcinome rénal, carcinome hépatocellulaire, cancer colorectal MSI-H, cancers œsogastriques).\n\nLes critères principaux sont les événements indésirables et l'évolution de l'activité de la maladie auto-immune. Des critères exploratoires incluent la réponse tumorale, la survie, et des marqueurs immunologiques (chimiokines, cellules immunitaires circulantes, expression génique des tissus sains).",
+ "interet": "L'étude pourrait fournir des données prospectives sur la sécurité de l'immunothérapie chez les patients auto-immuns et aider à décider d'un traitement par anti-PD-1 chez ces patients, dans une collaboration entre oncologues et spécialistes d'organe ou internistes.",
+ "profil": "Des adultes atteints de cancer métastatique, non résécable ou à traiter en situation adjuvante/néoadjuvante, avec une maladie auto-immune connue.",
+ "inclusion": [
+  "Cancer métastatique ou non résécable, ou indication adjuvante/néoadjuvante pour laquelle un anti-PD-1/PD-L1 est approuvé",
+  "Maladie auto-immune documentée (sclérodermie/dermatomyosite, PR, lupus, RCH, Crohn, SEP, Sjögren, psoriasis, autres), avec critères de rémission ou d'activité faible spécifiques à chaque cohorte",
+  "Âge d'au moins 18 ans, ECOG 0 à 2, espérance de vie de plus de 12 semaines",
+  "Fonction médullaire, hépatique (bilirubine d'au plus 2 N) et rénale (DFG d'au moins 30 mL/min) suffisantes",
+  "VIH sous traitement efficace, VHB/VHC contrôlés",
+  "Prednisone d'au plus 10 mg/j dans la PR ; contraception adaptée"
+ ],
+ "exclusion": [
+  "Chimiothérapie ou radiothérapie dans les 2 semaines précédentes (6 semaines pour nitroso-urées, mitomycine C)",
+  "Traitement antérieur par anti-PD-1 ou anti-PD-L1",
+  "Allogreffe de cellules souches antérieure",
+  "Autre agent anticancéreux expérimental en cours",
+  "Maladie intercurrente non contrôlée (infection active, insuffisance cardiaque symptomatique, angor instable, arythmie)",
+  "Thymome avec myasthénie",
+  "Critères propres aux cohortes MICI (ipilimumab antérieur, colectomie, cholangite sclérosante primitive pour la RCH) et SEP (contre-indication à l'IRM avec gadolinium)"
+ ],
+ "bras": [
+  { "nom": "Bras I", "traitement": "Nivolumab IV toutes les 4 semaines, jusqu'à 2 ans (métastatique), 1 an (adjuvant) ou 3 mois après chirurgie (néoadjuvant)" },
+  { "nom": "Bras II, IV, VI, VIII, IX", "traitement": "Nivolumab avec ipilimumab selon l'indication (mélanome, CBNPC PD-L1 positif, mésothéliome, cancer colorectal MSI-H, carcinome hépatocellulaire)" },
+  { "nom": "Bras III et V", "traitement": "Nivolumab avec doublet de platine, avec ou sans ipilimumab, dans le CBNPC" },
+  { "nom": "Bras VII", "traitement": "Nivolumab avec ipilimumab puis cabozantinib dans le carcinome rénal avancé" },
+  { "nom": "Bras X et XI", "traitement": "Nivolumab avec fluoropyrimidine et sel de platine (avec ou sans ipilimumab) dans les cancers œsophagien, jonctionnel et gastrique" }
+ ],
+ "duree": "Jusqu'à 2 ans de traitement, suivi jusqu'à 5 ans",
+ "critere": "Incidence des événements indésirables jusqu'à 100 jours après la fin du traitement"
+}

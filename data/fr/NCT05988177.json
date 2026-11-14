@@ -1,0 +1,32 @@
+{
+ "h": "8792de0b9484",
+ "date": "2026-11-14",
+ "titre": "Carrimycine dans le LHH avec infection résistante aux carbapénèmes",
+ "question": "La carrimycine, administrée par voie orale, guérit-elle les infections résistantes aux carbapénèmes chez des patients atteints de lymphohistiocytose hémophagocytaire ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est une hyperinflammation grave liée à l'activation excessive des lymphocytes T cytotoxiques, des cellules NK et des macrophages, avec une tempête cytokinique. L'infection est un déclencheur fréquent, et le traitement immunosuppresseur de la LHH expose à des infections sévères, y compris par des bactéries multirésistantes.\n\nLa carrimycine est un antibiotique macrolide issu du génie génétique, développé en Chine. Elle est évaluée ici comme option orale chez des patients en échec d'une antibiothérapie empirique par carbapénèmes de 72 heures.\n\nCette étude monocentrique à un seul bras, promue par le Beijing Friendship Hospital, mesure la guérison de l'infection à 1 et 2 semaines ainsi que la réponse globale de la LHH à 2 semaines. L'effectif est de 20 patients, sans comparateur.",
+ "interet": "Les résultats resteront exploratoires, mais pourraient motiver un essai comparatif de la carrimycine dans les infections résistantes chez les patients hématologiques ou en hyperinflammation.",
+ "profil": "Des adultes avec LHH et infection active non améliorée après 72 heures de carbapénèmes.",
+ "inclusion": [
+  "Critères diagnostiques de LHH HLH-2004 remplis",
+  "Infection active",
+  "Absence de réponse à 72 heures de traitement empirique par carbapénèmes",
+  "Âge supérieur à 18 ans",
+  "Capacité à suivre le calendrier et le protocole de l'étude"
+ ],
+ "exclusion": [
+  "Antibiotique plus adapté selon l'antibiogramme",
+  "Autre antibiotique systémique que les carbapénèmes dans les 72 heures",
+  "Incapacité à prendre un traitement oral (pathologie digestive)",
+  "Insuffisance hépatique sévère, survie attendue < 1 mois",
+  "Grossesse ou allaitement, allergie à la carrimycine",
+  "Hépatite B ou C active, infection par le VIH"
+ ],
+ "bras": [
+  {
+   "nom": "Comprimés de carrimycine",
+   "traitement": "Carrimycine par voie orale ; dose non précisée"
+  }
+ ],
+ "duree": "2 semaines après le début du traitement",
+ "critere": "Taux de guérison de l'infection à 1 et 2 semaines et taux de réponse globale de la LHH à 2 semaines."
+}

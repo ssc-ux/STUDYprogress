@@ -1,0 +1,25 @@
+{
+ "h": "6884a826e02b",
+ "date": "2026-11-14",
+ "titre": "Étude épidémiologique observationnelle de l'amylose systémique à Bologne",
+ "question": "Quelles sont la prévalence, l'incidence, les phénotypes cardiaques et l'évolution des patients atteints d'amylose systémique ?",
+ "contexte": "L'amylose systémique regroupe plusieurs maladies (à transthyrétine héréditaire ou sauvage, AL à chaînes légères) dues au dépôt de fibrilles protéiques dans les organes, dont le cœur. La cardiomyopathie amyloïde est probablement sous-diagnostiquée, mais elle est de plus en plus reconnue grâce à la scintigraphie osseuse et à l'IRM, et de nouveaux traitements sont disponibles.\n\nCette cohorte observationnelle monocentrique de l'IRCCS de Bologne inclut 750 adultes avec amylose ou porteurs asymptomatiques de mutation du gène TTR. Elle estime la prévalence et l'incidence de la maladie, décrit les phénotypes cardiaques cliniques, y compris mixtes, et suit sur 10 ans les hospitalisations (insuffisance cardiaque, arythmies, AVC), les implantations de stimulateurs et de défibrillateurs, les greffes cardiaques et d'autres organes, et la mortalité.",
+ "interet": "Elle fournira des données épidémiologiques et d'histoire naturelle utiles pour dimensionner le dépistage et le suivi de l'amylose, sans tester de traitement.",
+ "profil": "Des adultes atteints d'amylose systémique, ou porteurs asymptomatiques d'une mutation du gène de la transthyrétine.",
+ "inclusion": [
+  "Amylose diagnostiquée, ou porteur asymptomatique d'une mutation du gène TTR",
+  "Âge ≥ 18 ans au diagnostic",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte amylose",
+   "traitement": "Patients avec amylose systémique ou porteurs de mutation TTR, suivis en pratique courante (observationnel)"
+  }
+ ],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Prévalence et incidence de l'amylose, phénotypes cardiaques et événements (hospitalisations, stimulateurs, greffes, mortalité), sur 10 ans."
+}

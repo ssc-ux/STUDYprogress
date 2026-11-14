@@ -1,0 +1,25 @@
+{
+ "h": "283cfa5f0b05",
+ "date": "2026-11-14",
+ "titre": "Supplémentation en nicotinamide riboside dans l'ataxie-télangiectasie de l'enfant",
+ "question": "Le nicotinamide riboside, précurseur du NAD, peut-il agir sur le métabolisme du NAD et sur les symptômes neurologiques des enfants ayant une ataxie-télangiectasie ?",
+ "contexte": "L'ataxie-télangiectasie est une maladie génétique rare causée par des mutations du gène ATM. Cette kinase est indispensable à la réparation des cassures double brin de l'ADN. La maladie associe une ataxie cérébelleuse progressive, une immunodéficience, une sensibilité aux radiations et un risque accru de cancers.\n\nIl n'existe aucun traitement qui prévienne ou ralentisse l'atteinte neurologique. Des travaux expérimentaux suggèrent que les anomalies de réparation de l'ADN épuisent le NAD cellulaire, ce qui contribue à la dysfonction mitochondriale et à la neurodégénérescence. Compléter l'apport en NAD par un précurseur comme le nicotinamide riboside (NR) est donc une piste thérapeutique.\n\nCette étude de phase 2 promue par l'hôpital universitaire d'Akershus (Norvège) est un essai ouvert à bras unique. Treize enfants reçoivent du NR à 300 mg par jour pendant 2 ans. Le critère principal est biologique (métabolome du NAD), avec un intérêt principal pour les symptômes neurologiques.",
+ "interet": "L'étude pourrait montrer si le NR corrige le métabolisme du NAD et s'il existe un signal clinique justifiant un essai contrôlé. Les effectifs sont très faibles.",
+ "profil": "Des enfants ayant une ataxie-télangiectasie classique confirmée cliniquement et moléculairement.",
+ "inclusion": [
+  "Ataxie-télangiectasie classique",
+  "Diagnostic confirmé cliniquement et par analyse moléculaire"
+ ],
+ "exclusion": [
+  "Âge < 2 ans",
+  "Participation à une autre étude en cours",
+  "Grossesse",
+  "Insuffisance hépatique",
+  "Autre maladie grave exposant à un risque"
+ ],
+ "bras": [
+  { "nom": "Traitement par NR", "traitement": "Nicotinamide riboside (Niagen), 300 mg par jour" }
+ ],
+ "duree": "2 ans",
+ "critere": "Métabolome du NAD (2 ans)"
+}

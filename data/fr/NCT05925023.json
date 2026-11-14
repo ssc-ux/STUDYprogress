@@ -1,0 +1,32 @@
+{
+ "h": "0248ad6ac993",
+ "date": "2026-11-14",
+ "titre": "Sirolimus dans l'anémie hémolytique auto-immune à anticorps chauds réfractaire ou en rechute",
+ "question": "Le sirolimus est-il efficace et sûr chez les patients atteints d'AHAI à anticorps chauds réfractaire ou en rechute ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est une maladie rare et hétérogène, due à des anticorps dirigés contre les hématies, chauds ou froids. La première ligne repose sur les corticoïdes, avec rituximab. Les rechutes sont très fréquentes et certains patients ne répondent pas. Les deuxièmes lignes comprennent la ciclosporine, le cyclophosphamide, le rituximab, l'azathioprine et la splénectomie.\n\nLes AHAI réfractaires ou en rechute sont associées à plus d'événements cardiovasculaires et d'infections, à une qualité de vie diminuée et à un risque de décès. Le sirolimus, inhibiteur de mTOR, agit sur les lymphocytes T régulateurs. Les promoteurs rapportent un taux de réponse de 80 % dans leur étude antérieure sur l'AHAI et le syndrome d'Evans réfractaires. Cette étude prospective à un seul bras du Peking Union Medical College Hospital évalue le sirolimus (1 à 3 mg/j, concentration plasmatique de 4 à 15 ng/mL) pendant au moins 6 mois chez 22 patients.",
+ "interet": "Si la réponse est confirmée, le sirolimus pourrait être une option orale d'épargne en cas d'échec des corticoïdes dans l'AHAI chaude.",
+ "profil": "Des adultes atteints d'AHAI primaire à anticorps chauds ou de syndrome d'Evans, en échec ou en rechute après corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AHAI chaude primaire ou syndrome d'Evans (primaire ou secondaire, sans autre atteinte systémique nécessitant un traitement)",
+  "Absence de réponse aux corticoïdes ou rechute",
+  "ALAT et ASAT < 2 fois la normale",
+  "Pas d'infection active, ni grossesse ni allaitement",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Connectivite ou atteinte d'autres organes",
+  "Infection ou saignement non contrôlé par le traitement standard",
+  "VIH, VHC ou VHB actifs, cirrhose ou hypertension portale",
+  "Tumeur maligne ou lymphome évolutifs non contrôlés",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Sirolimus",
+   "traitement": "Sirolimus 1 à 3 mg/j (concentration plasmatique 4 à 15 ng/mL), pendant au moins 6 mois"
+  }
+ ],
+ "duree": "Au moins 6 mois de traitement",
+ "critere": "Taux de réponse globale et de réponse complète à 3, 6 et 12 mois."
+}

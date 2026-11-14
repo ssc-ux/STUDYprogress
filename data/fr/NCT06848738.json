@@ -1,0 +1,32 @@
+{
+ "h": "ba41d943df1a",
+ "date": "2026-11-14",
+ "titre": "Échoendoscopie (EUS-B) : aiguille FNB versus FNA pour le diagnostic de cancer bronchique ou de lymphome",
+ "question": "Une aiguille de biopsie FNB de 3e génération donne-t-elle un diagnostic plus complet qu'une aiguille de ponction standard FNA lors d'une échoendoscopie oesophagienne ?",
+ "contexte": "Devant une suspicion de cancer bronchique ou de lymphome avec adénopathies médiastinales ou rétropéritonéales, ou une lésion hépatique proche de l'œsophage ou de l'estomac, l'échoendoscopie par voie digestive (EUS-B) permet un prélèvement. Le diagnostic précis, jusqu'à l'analyse moléculaire (génomique du cancer bronchique non à petites cellules, phénotypage du lymphome), conditionne un traitement individualisé précoce.\n\nL'aiguille FNA standard donne un prélèvement cytologique, parfois insuffisant pour le profilage moléculaire. L'aiguille FNB à pointe en couronne (22G) prélève un fragment tissulaire et pourrait améliorer le rendement diagnostique. Cette étude randomisée multicentrique, en double aveugle, promue par l'hôpital universitaire de Zealand (Danemark), inclut 280 patients suspects de cancer bronchique et 82 suspects de lymphome. Les patients ayant une sarcoïdose figurent aussi parmi les diagnostics finaux.",
+ "interet": "Elle pourrait faire préférer l'aiguille FNB pour réduire les prélèvements non conclusifs et raccourcir le délai avant traitement, y compris pour distinguer lymphome et sarcoïdose.",
+ "profil": "Des adultes adressés pour suspicion de cancer bronchique ou de lymphome, avec une lésion accessible par échoendoscopie.",
+ "inclusion": [
+  "Suspicion de cancer bronchique ou de lymphome sur scanner ou TEP-TDM",
+  "Lésion adjacente à l'œsophage ou à l'estomac (tumeur pulmonaire, adénopathie médiastinale ou rétropéritonéale, métastase du lobe hépatique gauche)",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Autre cancer antérieur avec suspicion de récidive (ex. métastase pulmonaire)",
+  "Troubles de la coagulation non corrigés ou anticoagulation non interruptible",
+  "Grossesse ou allaitement",
+  "Gros vaisseaux interposés entre l'œsophage ou l'estomac et la lésion au scanner"
+ ],
+ "bras": [
+  {
+   "nom": "FNA",
+   "traitement": "Échoendoscopie EUS-B avec aiguille standard 22G de ponction (FNA)"
+  },
+  {
+   "nom": "FNB",
+   "traitement": "Échoendoscopie EUS-B avec aiguille de biopsie 22G à pointe en couronne (FNB)"
+  }
+ ],
+ "duree": "Quelques semaines (résultat anatomopathologique en environ 1 semaine, jusqu'à 4 semaines)",
+ "critere": "Proportion de patients avec un diagnostic conclusif permettant un traitement individualisé optimal, au rendu de l'anatomopathologie (environ 1 semaine, jusqu'à 4 semaines)."
+}

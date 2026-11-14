@@ -1,0 +1,26 @@
+{
+ "h": "ad6a037f82da",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T anti-CMV d'un donneur pour une infection à CMV réfractaire chez une patiente avec déficit immunitaire",
+ "question": "Des lymphocytes T spécifiques du CMV issus d'un donneur sont-ils faisables, sûrs et efficaces chez une patiente atteinte d'un déficit immunitaire combiné profond avec infection à CMV réfractaire ?",
+ "contexte": "Les déficits immunitaires combinés profonds exposent à des infections virales sévères, dont le cytomégalovirus (CMV), responsable de virémie et de pneumonie. Le traitement antiviral (ganciclovir, foscarnet, létermovir, maribavir) est limité par la toxicité et par les résistances, et le CMV peut rester incontrôlé tant que l'immunité T n'est pas restaurée. La greffe de cellules souches hématopoïétiques est le traitement curatif, mais elle est plus risquée en cas d'infection active.\n\nLes lymphocytes T spécifiques de virus issus d'un donneur (CMV-VST) apportent une immunité antivirale ciblée, sans attendre la reconstitution immunitaire. Ils ont montré leur intérêt dans les infections réfractaires après greffe.\n\nCette étude de l'université de Calgary est un protocole individuel, ouvert, pour une seule patiente (femme de moins de 20 ans) atteinte d'un déficit combiné profond avec virémie et pneumonie à CMV. Elle recevra des CMV-VST, mélange de lymphocytes de donneur réactifs à des peptides du CMV. Elle est évaluée deux fois par semaine pendant l'hospitalisation, puis chaque semaine pendant 3 mois, chaque mois jusqu'à 12 mois, puis tous les 3 mois jusqu'à 2 ans après la greffe de cellules souches prévue. La survie est suivie ensuite tous les 6 mois jusqu'à 15 ans.",
+ "interet": "Le protocole vise surtout le traitement de la patiente et la démonstration de faisabilité d'un accès à cette thérapie cellulaire. Les résultats d'un seul cas ne permettent pas de généralisation.",
+ "profil": "Une patiente (moins de 20 ans) avec déficit immunitaire combiné profond et infection à CMV avec virémie et pneumonie.",
+ "inclusion": [
+  "Déficit immunitaire combiné profond",
+  "Infection à CMV",
+  "Virémie à CMV",
+  "Pneumonie à CMV"
+ ],
+ "exclusion": [
+  "Corticoïdes ≥ 0,5 mg/kg d'équivalent prednisolone",
+  "Sérum antilymphocytaire ou autre anticorps anti-lymphocytes T, méthotrexate ou autre antimétabolite toxique pour les lymphocytes T, ou épuration extracorporelle",
+  "Inhibiteur de point de contrôle (nivolumab, pembrolizumab, ipilimumab) dans les 3 demi-vies avant le jour 1",
+  "Autre produit expérimental"
+ ],
+ "bras": [
+  { "nom": "Lymphocytes T anti-CMV de donneur (CMV-VST)", "traitement": "Perfusion de lymphocytes T de donneur spécifiques du CMV (dose non précisée)" }
+ ],
+ "duree": "Suivi intensif de 24 mois, puis survie suivie jusqu'à 15 ans",
+ "critere": "Faisabilité de l'étude (24 mois), événements indésirables liés au traitement (jusqu'à 3 mois) et efficacité de l'intervention (jusqu'à 24 mois)."
+}

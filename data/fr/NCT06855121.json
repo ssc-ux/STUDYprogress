@@ -1,0 +1,25 @@
+{
+ "h": "5fde0cae0fe3",
+ "date": "2026-11-14",
+ "titre": "Immunothérapies du myélome multiple en pratique réelle en Norvège : efficacité et complications",
+ "question": "Quelles sont l'efficacité et les complications, notamment infectieuses, des immunothérapies récentes du myélome multiple en pratique courante en Norvège ?",
+ "contexte": "Les bispécifiques (teclistamab, elranatamab, talquetamab) et les CAR-T anti-BCMA (idécabtagène vicleucel, ciltacabtagène autoleucel) ont transformé la prise en charge du myélome multiple en rechute. Leurs résultats viennent d'essais sélectionnés, alors que leurs effets indésirables, en particulier les infections, l'hypogammaglobulinémie et le syndrome de relargage cytokinique, sont lourds en pratique.\n\nCette cohorte observationnelle multicentrique, promue par l'hôpital St. Olavs (Norvège), inclut 400 patients adultes atteints de myélome, de leucémie à plasmocytes primitive ou d'amylose AL, traités hors essai par l'une de ces immunothérapies. Elle mesure la réponse, la survie sans progression, le délai avant traitement suivant et la survie globale en vie réelle. Elle décrit aussi les événements indésirables d'intérêt particulier, les infections (microbiologie, résistances, virus respiratoires) et l'usage réel des prophylaxies anti-infectieuses (antibiotiques, antiviraux, vaccins, immunoglobulines).",
+ "interet": "Elle pourrait documenter la tolérance en vie réelle et aider à définir des recommandations de surveillance et de prévention des infections sous immunothérapie.",
+ "profil": "Des adultes atteints de myélome multiple, de leucémie à plasmocytes ou d'amylose AL qui vont recevoir un bispécifique ou une CAR-T anti-BCMA hors essai.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Myélome multiple, leucémie à plasmocytes primitive ou amylose AL (critères IMWG)",
+  "Traitement prévu hors essai par teclistamab, elranatamab, talquetamab, ide-cel ou cilta-cel"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Patients traités par immunothérapie",
+   "traitement": "Teclistamab, elranatamab, talquetamab, idécabtagène vicleucel ou ciltacabtagène autoleucel selon la pratique courante (observationnel)"
+  }
+ ],
+ "duree": "Jusqu'à 10 ans de suivi",
+ "critere": "Taux de réponse, survie sans progression, délai avant traitement suivant et survie globale en vie réelle, ainsi que fréquence et grade des événements indésirables, jusqu'à 10 ans."
+}

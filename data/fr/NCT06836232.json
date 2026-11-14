@@ -1,0 +1,38 @@
+{
+ "h": "e9e71db4dc96",
+ "date": "2026-11-14",
+ "titre": "VTX2735 dans la péricardite récidivante : étude pilote de phase 2a",
+ "question": "Le VTX2735 est-il bien toléré et efficace chez des patients ayant une péricardite récidivante ?",
+ "contexte": "La péricardite récidivante est une complication invalidante de la péricardite aiguë, avec des douleurs thoraciques et une élévation de la CRP. Le traitement repose sur les AINS, la colchicine et les corticoïdes, avec un risque d'effets indésirables et de dépendance aux corticoïdes. L'inflammation y est largement médiée par l'inflammasome NLRP3 et l'interleukine-1. Le rilonacept, anti-IL-1, est une option dans les formes réfractaires.\n\nLe VTX2735 est un inhibiteur oral de NLRP3. Cette phase 2a ouverte pilote, promue par Zomagen Biosciences, inclut environ 50 adultes répartis en trois cohortes, avec différentes doses et rythmes. Chaque cohorte comprend 6 semaines de traitement, une extension éventuelle et un suivi de 14 jours.",
+ "interet": "Elle fournira les premières données de tolérance et d'efficacité d'un anti-NLRP3 oral dans la péricardite récidivante, ainsi que des éléments de pharmacocinétique pour choisir les doses d'études ultérieures.",
+ "profil": "Des adultes de 18 à 75 ans en poussée de péricardite récidivante, avec douleur et CRP élevée.",
+ "inclusion": [
+  "Âge 18-75 ans",
+  "Épisode initial répondant aux critères de péricardite aiguë",
+  "Poussée symptomatique en cours, ou attendue dans les 4 semaines",
+  "CRP élevée (si ≤ 10 mg/L : corticoïdes en cours et inflammation péricardique documentée)",
+  "Douleur péricardique ≥ 4/10 (échelle numérique)",
+  "Doses stables d'AINS, colchicine ou corticoïdes oraux"
+ ],
+ "exclusion": [
+  "Péricardite secondaire (tuberculose, traumatisme, tumeur, myocardite, maladie auto-immune systémique)",
+  "Trouble immunosuppresseur, maladie auto-immune ou auto-inflammatoire, déficit immunitaire",
+  "Affection médicale compromettant la sécurité ou la qualité des données"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte A (env. 10)",
+   "traitement": "VTX2735 dose A pendant 6 semaines, extension possible, puis dose B quotidienne"
+  },
+  {
+   "nom": "Cohorte B (env. 20, groupes B1 et B2)",
+   "traitement": "VTX2735 dose B ou C pendant 6 semaines, extension possible de 18 semaines"
+  },
+  {
+   "nom": "Cohorte C (env. 20, groupes C1 et C2)",
+   "traitement": "VTX2735 dose D ou E, puis dose B ; extension possible de 18 semaines"
+  }
+ ],
+ "duree": "Jusqu'à 26 semaines de traitement, plus 14 jours de suivi",
+ "critere": "Sécurité et tolérance du VTX2735, du premier jour de traitement jusqu'à la fin de l'étude (26 semaines au maximum)."
+}

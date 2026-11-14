@@ -1,0 +1,14 @@
+{
+ "h": "7871d5f6b20c",
+ "date": "2026-11-14",
+ "titre": "Thérapie génique lentivirale du SCID-X1 avec busulfan ciblé à faible dose",
+ "question": "L'infusion de cellules CD34+ autologues transduites par un vecteur lentiviral, après busulfan à faible dose, assure-t-elle une reconstitution T durable dans le SCID-X1 ?",
+ "contexte": "Le déficit immunitaire combiné sévère lié à l'X (SCID-X1) est dû à des mutations du gène IL2RG qui bloquent le développement des lymphocytes T et NK. Sans traitement, il est fatal dans la petite enfance. La greffe de moelle d'un donneur HLA-identique apparenté est la référence, mais de nombreux enfants n'en ont pas, et les greffes alternatives donnent souvent une reconstitution B insuffisante.\n\nCet essai de phase 1/2 ouvert, multicentrique (Boston, UCLA, Cincinnati, Atlanta), promu par David Williams, utilise un vecteur lentiviral auto-inactivant, G2SCID. Les cellules CD34+ autologues du patient sont transduites puis réinjectées après un conditionnement par busulfan ciblé à faible dose (12 patients). Le suivi sur ce protocole dure 2 ans, puis 15 ans sur un protocole séparé, comme l'exige la FDA. Le critère principal est la survie sans événement et la reconstitution des lymphocytes T à 1 an.",
+ "interet": "L'étude pourrait montrer qu'une thérapie génique avec conditionnement atténué permet une reconstitution immunitaire durable chez les enfants sans donneur HLA-identique.",
+ "profil": "Des nourrissons et enfants de 5 ans ou moins avec SCID-X1 et sans donneur HLA-identique apparenté.",
+ "inclusion": ["SCID-X1 : immunophénotype, défaut de fonction T (prolifération PHA < 10 % de la limite inférieure) et mutation d'IL2RG", "Pas de donneur apparenté HLA-identique", "Âge ≤ 5 ans, et ≥ 8 semaines au moment du busulfan", "Si allogreffe antérieure : absence documentée de prise de greffe T du donneur", "Engagement à un suivi de 15 ans (exigence de la FDA)", "Consentement écrit"],
+ "exclusion": ["Infection active résistante au traitement avec dysfonction d'organe (ventilation, ALT/AST > 10 N ou bilirubine > 2 mg/dL, FEVG < 50 %, DFG < 30 mL/min/1,73 m2)", "Épilepsie non contrôlée, encéphalopathie", "Trouble de la réparation de l'ADN", "Maladie maligne active (hors lymphoprolifération liée à l'EBV)", "Infection par le VIH-1", "Malformation congénitale majeure ou autre condition contre-indiquant le prélèvement ou la perfusion"],
+ "bras": [{"nom": "Traitement", "traitement": "Perfusion unique de cellules CD34+ autologues transduites par le vecteur lentiviral G2SCID, après busulfan ciblé à faible dose"}],
+ "duree": "2 ans sur ce protocole, puis 15 ans au total sur un protocole de suivi séparé",
+ "critere": "Survie sans événement et reconstitution des lymphocytes T, à 1 an après la perfusion"
+}

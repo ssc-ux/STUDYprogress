@@ -1,0 +1,24 @@
+{
+ "h": "726e174dcdb9",
+ "date": "2026-11-14",
+ "titre": "Nouvelles techniques de diagnostic et de suivi de l'ADAMTS13 dans le PTT (groupe espagnol)",
+ "question": "De nouvelles techniques immunologiques et moléculaires donnent-elles des résultats concordants avec les tests standards pour diagnostiquer et suivre le purpura thrombotique thrombocytopénique acquis ?",
+ "contexte": "Le déficit en ADAMTS13 est le seul marqueur biologique spécifique du PTT acquis. Son dosage est essentiel pour le diagnostic différentiel rapide avec les autres microangiopathies thrombotiques. Le suivi de l'activité ADAMTS13 permet aussi de confirmer la rémission biologique (activité > 10 %) et de prédire les rechutes.\n\nLa mortalité du PTT est élevée, et le traitement doit débuter dès la suspicion, parfois avant le résultat du dosage. Les tests d'activité ADAMTS13 sont peu accessibles dans de nombreux centres, avec des délais de réponse parfois longs, d'où l'intérêt de techniques plus rapides ou plus simples.\n\nCette étude collaborative du groupe espagnol d'aphérèse (Fondation espagnole d'hématologie et d'hémothérapie) inclut jusqu'à 500 patients, de 0 à 99 ans, ayant une microangiopathie thrombotique confirmée. Elle compare un nouveau test au test standard au diagnostic, puis à 10, 30 et 60 jours de suivi.",
+ "interet": "L'étude pourrait valider des tests plus accessibles pour le diagnostic et le suivi du PTT, pour guider plus tôt le traitement. Elle n'évalue pas de traitement.",
+ "profil": "Des patients de tous âges (0 à 99 ans) ayant une microangiopathie thrombotique, avec suspicion ou confirmation de PTT acquis.",
+ "inclusion": [
+  "Microangiopathie thrombotique confirmée sur échantillon sanguin citraté",
+  "Thrombopénie (baisse ≥ 50 % ou plaquettes < 100 G/L)",
+  "Anémie hémolytique mécanique (LDH > 2 N ou schizocytes)",
+  "Consentement éclairé (ou représentant légal)",
+  "Âge de 0 à 99 ans"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  { "nom": "Cohorte de patients", "traitement": "Patients avec microangiopathie thrombotique, avec dosages comparés au diagnostic et au suivi, sans intervention thérapeutique imposée" }
+ ],
+ "duree": "60 jours de suivi",
+ "critere": "Corrélation d'un nouveau test diagnostique avec le test standard, au diagnostic puis à 10, 30 et 60 jours"
+}

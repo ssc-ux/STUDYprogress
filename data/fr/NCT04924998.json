@@ -1,0 +1,23 @@
+{
+ "h": "12500fa8cb2d",
+ "date": "2026-11-14",
+ "titre": "Suivi à long terme de patients atteints de cardiomyopathie par amylose AL",
+ "question": "Quels sont les effets des traitements actuels et le devenir à long terme des patients atteints de cardiomyopathie par amylose AL ?",
+ "contexte": "L'amylose AL résulte du dépôt de chaînes légères d'immunoglobulines produites par un clone plasmocytaire. L'atteinte cardiaque est la plus déterminante pour le pronostic : elle donne une insuffisance cardiaque à fonction systolique longtemps conservée, des troubles du rythme et une mortalité précoce élevée.\n\nLe traitement vise à supprimer le clone plasmocytaire par des schémas associant bortézomib, cyclophosphamide, dexaméthasone et, de plus en plus, daratumumab, avec parfois une autogreffe chez les patients sélectionnés. Le stade cardiaque, évalué par la troponine et le NT-proBNP, reste le principal déterminant de la survie et de la tolérance aux traitements.\n\nCette étude de cohorte, promue par le deuxième hôpital affilié de l'Université du Zhejiang (Chine), inclut 400 patients atteints de cardiomyopathie AL. Elle observe l'effet des traitements en pratique courante et assure un suivi sur 10 ans. Le registre ne détaille ni les traitements ni le critère principal.",
+ "interet": "Cette cohorte pourrait documenter la réponse et la survie à long terme en pratique réelle dans une population chinoise. Ses résultats restent descriptifs.",
+ "profil": "Des adultes ayant une cardiomyopathie par amylose AL, suivis dans un centre universitaire chinois.",
+ "inclusion": [
+  "Âge de 18 à 90 ans (80 ans selon la fiche d'éligibilité)",
+  "Cardiomyopathie par amylose AL diagnostiquée dans l'hôpital promoteur",
+  "Capacité à comprendre l'étude et à coopérer avec les investigateurs"
+ ],
+ "exclusion": [
+  "Incapacité ou refus de signer le consentement",
+  "Incapacité ou refus de suivre les visites"
+ ],
+ "bras": [
+  { "nom": "Cardiomyopathie AL", "traitement": "Patients recevant le traitement habituel de la cardiomyopathie AL, suivis à long terme" }
+ ],
+ "duree": "10 ans",
+ "critere": "Critère principal non précisé dans le registre (« Primary Outcome »), suivi sur 10 ans"
+}

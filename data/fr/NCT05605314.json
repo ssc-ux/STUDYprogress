@@ -1,0 +1,32 @@
+{
+ "h": "cce6b034a149",
+ "date": "2026-11-14",
+ "titre": "Cohorte des sous-types de sécheresse oculaire du syndrome de Sjögren primitif",
+ "question": "Comment les atteintes d'organes, les biomarqueurs et les traitements diffèrent-ils selon les sous-types de sécheresse oculaire du syndrome de Sjögren primitif ?",
+ "contexte": "Le syndrome de Sjögren primitif est une maladie auto-immune touchant surtout les glandes exocrines, avec sécheresse oculaire et buccale et atteintes extra-glandulaires possibles. Les patients consultent souvent d'abord l'ophtalmologiste pour une sécheresse oculaire sévère. Le diagnostic est fréquemment manqué ou tardif.\n\nIl n'existe pas de traitement spécifique de la sécheresse oculaire du Sjögren, et la plupart des patients reçoivent plusieurs traitements en association, sans savoir lesquels sont les plus efficaces. Cette cohorte du Peking University Third Hospital compare des patients avec sécheresse oculaire associée à un Sjögren primitif et des patients sans Sjögren. Elle étudie le lien entre l'atteinte d'organes (score ESSDAI), divers biomarqueurs et les réponses aux traitements, dont la ciclosporine.",
+ "interet": "Elle pourrait aider à repérer plus tôt le Sjögren chez les patients vus en ophtalmologie et à adapter les traitements selon le sous-type.",
+ "profil": "Des adultes de 18 à 80 ans atteints de sécheresse oculaire, avec ou sans syndrome de Sjögren primitif.",
+ "inclusion": [
+  "Sécheresse oculaire selon la classification TFOS DEWS II",
+  "Groupe Sjögren : critères de classification ACR/EULAR 2016"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatologique ou systémique pouvant altérer la fonction lacrymale",
+  "Antécédent de traumatisme ou de chirurgie oculaire",
+  "Port de lentilles de contact",
+  "Atteinte oculaire associée (inflammation aiguë, infection, glaucome, anomalie palpébrale)",
+  "Impossibilité de réaliser les examens"
+ ],
+ "bras": [
+  {
+   "nom": "pSS-DED",
+   "traitement": "Sécheresse oculaire avec syndrome de Sjögren primitif confirmé par la rhumatologie"
+  },
+  {
+   "nom": "nSS-DED",
+   "traitement": "Sécheresse oculaire sans syndrome de Sjögren"
+  }
+ ],
+ "duree": "Non précisé (période d'étude 2021 à 2028)",
+ "critere": "Score d'activité ESSDAI, au cours de la période d'étude (2021-2028)."
+}

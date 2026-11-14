@@ -1,0 +1,32 @@
+{
+ "h": "39d70f40bdf1",
+ "date": "2026-11-14",
+ "titre": "AT-02 en extension à long terme dans l'amylose systémique (AL rénale)",
+ "question": "L'AT-02 est-il bien toléré à long terme chez des patients atteints d'amylose systémique, dont une amylose AL avec atteinte rénale ?",
+ "contexte": "L'amylose AL est due au dépôt de chaînes légères d'immunoglobulines monoclonales. Les traitements actuels (daratumumab, bortézomib, melphalan, cyclophosphamide) visent à éradiquer le clone plasmocytaire, mais n'éliminent pas les dépôts amyloïdes déjà présents, si bien que la dysfonction d'organe, rénale ou cardiaque, peut persister malgré une réponse hématologique profonde.\n\nL'AT-02 est un anticorps expérimental dirigé contre les fibrilles amyloïdes, destiné à promouvoir leur élimination par l'organisme. Il est développé par Attralus pour les amyloses systémiques. Cette étude de phase 2 est une extension ouverte de l'étude AT02-001 ; elle inclut aussi directement des patients AL avec atteinte rénale n'ayant pas participé à l'étude initiale.\n\nLes participants reçoivent l'AT-02 par perfusion intraveineuse toutes les 2 ou 4 semaines pendant 104 semaines. Un comité de revue de sécurité unique surveille l'ensemble des études de l'AT-02. L'objectif principal est la sécurité et la tolérance ; l'activité clinique est explorée en secondaire.",
+ "interet": "Les résultats préciseront la tolérance à long terme d'un anticorps anti-amyloïde et son éventuelle activité sur la fonction d'organe, une piste complémentaire des traitements ciblant le clone dans l'amylose AL.",
+ "profil": "Des adultes de 18 à 85 ans avec amylose AL en réponse hématologique, atteinte rénale, ou issus de l'étude AT02-001.",
+ "inclusion": [
+  "Amylose AL confirmée par biopsie avec immunohistochimie ou spectrométrie de masse",
+  "Réponse hématologique très bonne ou complète maintenue, chimiothérapie terminée depuis au moins 6 mois après la réponse (daratumumab d'entretien autorisé)",
+  "DFGe entre 20 et 75 mL/min/1,73 m², ou protéinurie non améliorée (UACR > 700 mg/g et protéinurie des 24 h > 1 g/j)",
+  "Contraception adaptée chez les femmes en âge de procréer et chez les hommes",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Dialyse (hémodialyse ou péritonéale)",
+  "Infarctus du myocarde datant de moins de 3 mois ou insuffisance cardiaque NYHA IV",
+  "Néphropathie non liée à l'amylose AL",
+  "Traitement en cours par melphalan, bortézomib, thalidomide, lénalidomide ou cyclophosphamide, ou par héparine",
+  "Cancer actif, infection active, ALAT ou ASAT > 2,5 N",
+  "IRM cérébrale montrant hémorragie, plus de 4 microhémorragies, infarctus corticaux ou sidérose superficielle, ou contre-indication à l'IRM"
+ ],
+ "bras": [
+  {
+   "nom": "A (AT-02)",
+   "traitement": "AT-02 en perfusion intraveineuse toutes les 2 ou 4 semaines pendant 104 semaines (52 administrations)"
+  }
+ ],
+ "duree": "Jusqu'à 120 semaines",
+ "critere": "Incidence, fréquence et sévérité des événements indésirables apparus sous traitement (NCI CTCAE v5.0) et variations des examens biologiques jusqu'à 112 semaines."
+}

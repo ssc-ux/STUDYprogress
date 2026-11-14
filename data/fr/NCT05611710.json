@@ -1,0 +1,37 @@
+{
+ "h": "39334cccbdf3",
+ "date": "2026-11-14",
+ "titre": "Anakinra dans la dengue avec hyperinflammation",
+ "question": "L'anakinra améliore-t-il la défaillance d'organe chez les patients atteints de dengue modérée à sévère avec hyperinflammation ?",
+ "contexte": "La dengue est une infection virale transmise par les moustiques, fréquente en zone tropicale. Une minorité de patients évolue vers une forme sévère avec fuite plasmatique, atteintes d'organes et, parfois, un syndrome d'activation macrophagique. Il n'existe aucun traitement antiviral ni immunomodulateur validé, et la prise en charge reste symptomatique.\n\nLa forme grave de la dengue est en partie liée à une tempête cytokinique, avec une hyperferritinémie. L'anakinra, antagoniste du récepteur de l'IL-1, est utilisé dans le syndrome d'activation macrophagique et d'autres états hyperinflammatoires. Cet essai de phase 2 randomisé, en double aveugle contre placebo, est mené à l'Hospital for Tropical Diseases de Hô Chi Minh-Ville (Oxford University Clinical Research Unit). 160 patients hospitalisés avec signes d'alarme ou dengue sévère et ferritine > 2000 ng/mL reçoivent l'anakinra ou un placebo pendant 4 jours. Des analyses immunologiques et transcriptomiques complètent l'évaluation clinique.",
+ "interet": "Si l'anakinra réduit les défaillances d'organe, il pourrait devenir le premier traitement ciblé des formes hyperinflammatoires de dengue.",
+ "profil": "Des patients de 12 ans et plus hospitalisés pour dengue avec signes d'alarme ou forme sévère et ferritine élevée.",
+ "inclusion": [
+  "Dengue clinique hospitalisée avec au moins un signe d'alarme ou dengue sévère",
+  "Ferritine > 2000 ng/mL",
+  "Âge ≥ 12 ans",
+  "Consentement écrit ou assentiment",
+  "Accord pour deux visites de suivi (environ J30 et 3 mois)"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "Signes d'un autre diagnostic ou d'une infection associée (pneumonie, sepsis)",
+  "Immunosuppresseur ou biothérapie dans le dernier mois",
+  "Cancer ou immunosuppression sous-jacents",
+  "Insuffisance rénale terminale (DFG < 30 mL/min)",
+  "Traitement antituberculeux en cours ou interaction médicamenteuse significative avec l'anakinra",
+  "Suivi jugé improbable"
+ ],
+ "bras": [
+  {
+   "nom": "Anakinra",
+   "traitement": "Anakinra pendant 4 jours (80 patients)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo pendant 4 jours (80 patients)"
+  }
+ ],
+ "duree": "3 mois (visites vers J30 et à 3 mois)",
+ "critere": "Variation du score mSOFA (score SOFA modifié pour la dengue et les ressources limitées) entre l'inclusion et le jour 4."
+}

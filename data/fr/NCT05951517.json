@@ -1,0 +1,30 @@
+{
+ "h": "6ba25fa57ee5",
+ "date": "2026-11-14",
+ "titre": "Mycophénolate mofétil dans le purpura rhumatoïde digestif réfractaire de l'enfant",
+ "question": "Le mycophénolate mofétil contrôle-t-il les symptômes digestifs d'enfants ayant un purpura rhumatoïde corticorésistant ?",
+ "contexte": "Le purpura rhumatoïde est la vascularite la plus fréquente de l'enfant, avec une incidence d'environ 10 pour 100 000, et plus de 90 % des cas surviennent avant 10 ans. Il est habituellement spontanément résolutif, mais peut se compliquer d'invagination intestinale, d'infarctus ou de perforation digestive, et d'atteinte rénale pouvant aller jusqu'à l'insuffisance rénale terminale.\n\nLes corticoïdes précoces améliorent la plupart des formes digestives, mais une partie des enfants ne répond pas ou rechute lors de la décroissance. Le mycophénolate mofétil (MMF), immunosuppresseur inhibiteur de la prolifération lymphocytaire, est utilisé dans la néphrite lupique et la néphropathie du purpura rhumatoïde.\n\nCette étude monocentrique de l'hôpital Sun Yat-Sen Memorial (Chine) est un essai à un seul bras. Elle décrit les caractéristiques cliniques de la forme digestive réfractaire et l'évolution sous MMF. Sans comparateur, elle donnera un signal exploratoire.",
+ "interet": "Elle pourrait documenter une option d'épargne cortisonique ou de rattrapage dans les formes digestives réfractaires du purpura rhumatoïde pédiatrique, sous réserve d'un essai comparatif.",
+ "profil": "Des enfants de 3 à 18 ans avec purpura rhumatoïde à atteinte digestive réfractaire aux corticoïdes.",
+ "inclusion": [
+  "Âge de 3 à 18 ans",
+  "Purpura rhumatoïde avec atteinte digestive (colique abdominale diffuse, invagination ou saignement digestif)",
+  "Forme réfractaire : absence de réponse à 3 jours de corticoïdes IV 2 mg/kg/j ou rechute à la décroissance",
+  "Consentement écrit des parents ou tuteurs"
+ ],
+ "exclusion": [
+  "Allergie au MMF",
+  "Maladie sévère associée (cancer, insuffisance cardiaque, hépatique ou rénale, immunodéficience, infection sévère, greffe, urgence chirurgicale)",
+  "Autre maladie digestive",
+  "Participation antérieure à un essai avec MMF",
+  "Autre situation jugée inappropriée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Bras unique",
+   "traitement": "Mycophénolate mofétil chez les patients résistants aux corticoïdes ; dose non précisée"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Incidence des douleurs abdominales, des hématémèses et des selles sanglantes à 6 mois."
+}

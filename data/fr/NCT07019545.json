@@ -1,0 +1,32 @@
+{
+ "h": "c44a39b60290",
+ "date": "2026-11-14",
+ "titre": "Bélantamab mafodotine dans le PTI primaire en échec des agonistes de la TPO ou du rituximab (BONSAI)",
+ "question": "Le bélantamab mafodotine, conjugué anticorps-médicament anti-BCMA, est-il sûr et actif dans le PTI primaire déjà traité ?",
+ "contexte": "Le PTI primaire est traité en première ligne par corticoïdes. En cas d'échec ou de rechute, on utilise les agonistes du récepteur de la thrombopoïétine (TPO-RA) et le rituximab, puis d'autres options (fostamatinib, splénectomie, immunosuppresseurs). Une partie des patients ne répond pas ou perd sa réponse.\n\nBCMA est exprimé par les plasmocytes, dont les plasmocytes à longue durée de vie qui sécrètent des auto-anticorps antiplaquettes et échappent au rituximab. Le bélantamab mafodotine est un conjugué anticorps-médicament dirigé contre BCMA, déjà utilisé dans le myélome multiple. Sa toxicité cornéenne est son principal effet indésirable à surveiller.\n\nBONSAI est une étude de phase 2 grecque (Hellenic Society of Hematology), ouverte, à bras unique, qui inclura 14 adultes avec PTI primaire (plaquettes < 30 G/L) en échec d'un TPO-RA et/ou du rituximab. Le bélantamab est associé à la dexaméthasone, en cycles de 28 jours pendant au maximum un an. Les patients sans réponse confirmée après deux perfusions arrêtent le traitement. Le critère principal est le taux de réponse complète ou partielle à 6 mois.",
+ "interet": "L'étude apportera un premier signal d'efficacité et de tolérance, notamment oculaire, d'un ciblage de BCMA dans le PTI réfractaire. L'effectif est faible et sans comparateur.",
+ "profil": "Des adultes atteints de PTI primaire avec plaquettes < 30 G/L, en échec d'un agoniste de la TPO et/ou du rituximab après corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI primaire avec plaquettes < 30 G/L",
+  "Corticothérapie de première ligne antérieure",
+  "Deuxième ligne par TPO-RA et/ou rituximab, avec absence de réponse ou perte de réponse",
+  "Neutrophiles ≥ 1,5 G/L, hémoglobine ≥ 8 g/dL, bilirubine ≤ 1,5 N, ALAT ≤ 2,5 N, DFGe ≥ 30 mL/min/1,73 m²",
+  "ECOG ≤ 2",
+  "Contraception efficace jusqu'à 4 mois (femmes) ou 6 mois (hommes) après la dernière dose",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "PTI secondaire (médicaments, maladies auto-immunes, infections chroniques, cancer)",
+  "Hépatopathie chronique instable ou cirrhose, hépatite B ou C active, VIH non contrôlé",
+  "Infection active nécessitant un traitement, atteinte rénale active",
+  "Atteinte cornéenne épithéliale (sauf kératopathie ponctuée légère)",
+  "Neuropathie périphérique de grade ≥ 2, saignement actif",
+  "Cardiopathie à risque (QT > 470 ms, infarctus ou stent dans les 3 mois, insuffisance cardiaque NYHA III-IV, hypertension non contrôlée)",
+  "Anticorps monoclonal dans les 30 jours, vaccin vivant dans les 30 jours, amylose symptomatique, syndrome POEMS ou leucémie à plasmocytes"
+ ],
+ "bras": [
+  { "nom": "Bras unique", "traitement": "Bélantamab mafodotine et dexaméthasone en cycles de 28 jours, jusqu'à 1 an ou jusqu'à l'échec, la toxicité ou le retrait" }
+ ],
+ "duree": "Jusqu'à 1 an de traitement, suivi jusqu'à 12 mois après le dernier patient inclus",
+ "critere": "Taux de réponse complète ou partielle à 6 mois de traitement."
+}

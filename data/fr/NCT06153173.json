@@ -1,0 +1,31 @@
+{
+ "h": "3ad390b327fb",
+ "date": "2026-11-14",
+ "titre": "Mirdametinib dans les histiocytoses (LCH, JXG, maladie de Rosai-Dorfman)",
+ "question": "Le mirdametinib, inhibiteur de MEK, induit-il une réponse dans les histiocytoses nécessitant un traitement systémique ?",
+ "contexte": "Les histiocytoses regroupent la LCH, le xanthogranulome juvénile (JXG), la maladie de Rosai-Dorfman (RDD) et d'autres entités. Dans la LCH, des lésions de l'os, de la peau et parfois d'organes à risque (foie, rate, moelle, système nerveux central) menacent le pronostic. De nombreuses formes sont liées à l'activation de la voie MAPK/ERK, par des mutations comme BRAF V600E ou MAP2K1.\n\nLe traitement de la LCH associe chimiothérapie et corticoïdes, mais beaucoup de patients, surtout avec organes à risque, ne répondent pas, progressent après réponse initiale ou rechutent après arrêt. Les inhibiteurs de MEK sont une piste ciblée ; le mirdametinib est un inhibiteur de MEK1/2 oral de seconde génération.\n\nCet essai de phase 2 de l'hôpital pour enfants de Cincinnati utilise le mirdametinib à 2 mg/m² deux fois par jour (maximum 4 mg deux fois par jour), en cycles de 4 semaines, chez des patients de 2 ans et plus. Il dépasse la LCH, avec JXG et RDD parmi les entités incluses.",
+ "interet": "Les résultats pourraient montrer la place d'un inhibiteur de MEK dans les histiocytoses, avec moins de toxicité que les chimiothérapies.",
+ "profil": "Des patients de 2 ans et plus ayant une histiocytose nécessitant un traitement systémique.",
+ "inclusion": [
+  "Âge de 2 ans ou plus, histiocytose nécessitant un traitement systémique",
+  "Biopsie confirmée par le pathologiste du centre, ou ddPCR sanguin positif si biopsie impossible (atteinte pituitaire ou SNC)",
+  "Maladie mesurable en TEP ou en IRM cérébrale",
+  "Fonctions rénale, hépatique et hématologique adéquates (sauf anomalies dues à la maladie)"
+ ],
+ "exclusion": [
+  "Chimiothérapie cytotoxique dans les 14 jours ou inhibiteur de MEK dans les 30 jours, progression sous inhibiteur de MEK",
+  "Corticoïdes systémiques, inhalés ou oculaires dans les 14 jours, ou plus de 30 jours consécutifs",
+  "Radiothérapie dans les 14 jours ou radiothérapie orbitaire",
+  "Facteurs de risque de thrombose veineuse rétinienne (PIO > 21 mmHg, glaucome, cholestérol ou triglycérides > 300 mg/dL, hyperglycémie, hypertension non contrôlée)",
+  "FEVG < 55 % ou cardiopathie significative",
+  "Grossesse, allaitement ou absence de contraception"
+ ],
+ "bras": [
+  {
+   "nom": "Mirdametinib",
+   "traitement": "Mirdametinib par voie orale, 2 mg/m² deux fois par jour (maximum 4 mg deux fois par jour), cycles de 4 semaines"
+  }
+ ],
+ "duree": "1 an de traitement (13 cycles de 4 semaines)",
+ "critere": "Taux de réponse au mirdametinib à 1 an (13 cycles de 4 semaines)."
+}

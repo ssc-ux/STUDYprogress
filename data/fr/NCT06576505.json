@@ -1,0 +1,14 @@
+{
+ "h": "29be2526f72a",
+ "date": "2026-11-14",
+ "titre": "Mécanismes immunologiques et pronostic de la sarcoïdose : cohorte prospective suédoise",
+ "question": "Quels gènes, cellules et molécules de signalisation permettent de prédire l'évolution et la réponse au traitement dans la sarcoïdose ?",
+ "contexte": "La sarcoïdose est une maladie inflammatoire granulomateuse qui touche surtout les poumons et les ganglions, mais peut atteindre presque tous les organes. Son évolution est très variable : résolution spontanée chez certains patients, forme chronique avec fibrose pulmonaire chez d'autres. L'atteinte cardiaque peut causer des arythmies menaçantes et les troubles du métabolisme calcique peuvent altérer la fonction rénale.\n\nIl n'existe pas de traitement curatif. Les immunosuppresseurs sont utilisés pour contrôler les symptômes, mais ils ne sont pas efficaces chez tous et les rechutes sont fréquentes à l'arrêt. Cette variabilité est attribuée en partie à des différences génétiques, cellulaires et de voies de signalisation, mais les données sont limitées. Le rôle du microbiote intestinal, important dans d'autres maladies inflammatoires, est inconnu dans la sarcoïdose. Ce projet prospectif de Region Stockholm et du Karolinska Institutet recueille du sang, des prélèvements des voies aériennes supérieures, parfois un lavage bronchoalvéolaire et des selles, chez des patients et des témoins sains. Les données sont croisées avec les registres nationaux de santé. L'hypothèse est que des biomarqueurs sanguins combinés aux données cliniques prédisent l'évolution et la réponse thérapeutique.",
+ "interet": "L'étude pourrait identifier des marqueurs prédictifs d'évolution chronique ou de réponse aux traitements. À terme, cela pourrait permettre un suivi et un traitement adaptés à chaque patient atteint de sarcoïdose.",
+ "profil": "Des adultes de 18 à 90 ans avec suspicion de sarcoïdose, et des témoins sains.",
+ "inclusion": ["Suspicion de sarcoïdose", "Âge de 18 à 90 ans", "Parle suédois", "Capable de comprendre et d'accepter le protocole", "Absence de contre-indication aux examens prévus", "Témoins sains : mêmes critères, sans maladie"],
+ "exclusion": ["Absence de suspicion de sarcoïdose", "Ne parle pas suédois", "Incapacité de comprendre le protocole ou refus du protocole", "Contre-indication aux examens prévus"],
+ "bras": [{"nom": "Patients avec sarcoïdose (et témoins sains)", "traitement": "Suivi prospectif avec prises de sang répétées, prélèvements des voies aériennes supérieures, selles et bronchoscopie pour une partie des patients"}],
+ "duree": "Suivi jusqu'à 5 ans",
+ "critere": "Activité de la maladie à 3 et 12 mois, évolution résolutive ou non à 2 et 5 ans, traitement immunosuppresseur, EFR (VEMS, CVF, DLCO), imagerie et biologie à 5 ans."
+}

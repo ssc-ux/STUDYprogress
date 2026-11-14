@@ -1,0 +1,14 @@
+{
+ "h": "d398faabdd33",
+ "date": "2026-11-14",
+ "titre": "Cohorte longitudinale chinoise des maladies de la thrombose et de l'hémostase",
+ "question": "Quelles sont l'incidence, les facteurs de risque, les traitements, le pronostic et les coûts des maladies de la thrombose et de l'hémostase en Chine ?",
+ "contexte": "Les maladies de la thrombose et de l'hémostase regroupent des pathologies hémorragiques et thrombotiques : purpura thrombopénique immunologique (PTI), purpura thrombotique thrombocytopénique, hémophilies congénitale et acquise, coagulation intravasculaire disséminée, thrombophilies, thrombose veineuse profonde, embolie pulmonaire, microangiopathies thrombotiques, et anomalies de l'hémostase après greffe de cellules souches. Elles touchent de nombreux patients, altèrent la qualité de vie et peuvent être associées à une mortalité élevée.\n\nLes données disponibles proviennent surtout de cohortes de petite taille, et il manque de grandes cohortes prospectives, notamment en Chine. Cette étude multicentrique de l'hôpital de l'Université de Pékin (People's Hospital) prévoit d'inclure environ 3 000 patients. Elle recueille dans les dossiers les données de base, diagnostiques, thérapeutiques et de coût, et mesure l'exposition par questionnaire. Un suivi prospectif jusqu'à 5 ans documente le pronostic. L'étude est purement observationnelle.",
+ "interet": "Cette grande cohorte pourrait fournir des données de référence sur l'épidémiologie et les pratiques de prise en charge en Chine. Elle ne teste aucun traitement.",
+ "profil": "Des patients avec une maladie de la thrombose ou de l'hémostase, en Chine.",
+ "inclusion": ["Diagnostic de maladie de la thrombose ou de l'hémostase (PTI, PTT, hémophilie, CIVD, thrombophilie, thrombose veineuse, embolie pulmonaire, etc.)"],
+ "exclusion": ["Suivi à long terme impossible (indisponibilité ou maladie concomitante grave)", "Addiction à l'alcool ou aux drogues, ou maladie mentale gênant le respect du protocole", "Situation pouvant mettre en danger le patient ou affecter l'observance selon l'investigateur"],
+ "bras": [{"nom": "Cohorte longitudinale", "traitement": "Patients suivis prospectivement, avec recueil de données de dossier, questionnaire d'exposition et suivi du pronostic"}],
+ "duree": "Suivi jusqu'à 5 ans",
+ "critere": "Pronostic des patients, jusqu'à 5 ans."
+}

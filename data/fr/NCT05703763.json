@@ -1,0 +1,33 @@
+{
+ "h": "b20a15697e74",
+ "date": "2026-11-14",
+ "titre": "Tonométrie d'aplanation des artères temporales dans l'artérite à cellules géantes (ATOM-GCA)",
+ "question": "La vitesse de l'onde de pouls des artères temporales, mesurée par tonométrie d'aplanation, permet-elle de distinguer les patients avec et sans artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente après 50 ans. Un retard de traitement expose à la cécité. Le diagnostic repose sur la clinique, le syndrome inflammatoire, l'échographie des artères temporales, la biopsie et l'imagerie, mais aucun test n'est parfait et l'accès à l'échographie est inégal.\n\nLa tonométrie d'aplanation mesure la vitesse de l'onde de pouls (PWV) et reflète la rigidité de la paroi artérielle, potentiellement modifiée par l'inflammation. Cette étude pilote monocentrique transversale (Montréal) inclut des patients de plus de 50 ans adressés pour une suspicion de première poussée d'ACG, sans corticothérapie prolongée. Elle compare la PWV des patients avec ou sans ACG confirmée à 6 mois. Elle estime aussi la précision diagnostique du seuil de PWV et l'acceptabilité d'un suivi répété par tonométrie.",
+ "interet": "Elle déterminera si une mesure rapide et non invasive pourrait aider à poser ou écarter le diagnostic d'ACG en consultation.",
+ "profil": "Des adultes de plus de 50 ans adressés pour une suspicion de première poussée d'artérite à cellules géantes.",
+ "inclusion": [
+  "Âge > 50 ans",
+  "Adressé pour suspicion d'ACG de novo",
+  "Capacité à comprendre et à signer le consentement",
+  "Acceptation des visites et procédures"
+ ],
+ "exclusion": [
+  "Suspicion de rechute d'ACG",
+  "Corticoïdes oraux ≥ 14 jours consécutifs dans les 30 derniers jours, ou ≥ 7 jours si corticoïdes IV dans les 30 jours",
+  "Immunosuppresseur conventionnel ou biologique en cours",
+  "Biopsie d'artère temporale avant la visite de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe ACG",
+   "traitement": "Patients dont l'ACG est confirmée à 6 mois selon des critères prédéfinis"
+  },
+  {
+   "nom": "Groupe non-ACG",
+   "traitement": "Patients ne remplissant pas ces critères à 6 mois"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Vitesse de l'onde de pouls (PWV) chez les patients avec et sans ACG, à l'inclusion."
+}

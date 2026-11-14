@@ -1,0 +1,28 @@
+{
+ "h": "f8f1ee0fa031",
+ "date": "2026-11-14",
+ "titre": "Registre thaïlandais de l'amylose cardiaque à transthyrétine",
+ "question": "Quelles sont l'histoire naturelle et les caractéristiques des patients thaïlandais atteints d'amylose cardiaque ATTR ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cause sous-diagnostiquée d'insuffisance cardiaque, dont le diagnostic repose sur l'échocardiographie, la scintigraphie osseuse (DPD, PYP, HMDP) et, au besoin, la biopsie. Des traitements spécifiques ont démontré leur bénéfice (tafamidis, acoramidis, silencieurs de TTR), mais les données épidémiologiques viennent surtout d'Europe et d'Amérique du Nord.\n\nEn Thaïlande, les traitements spécifiques viennent d'être disponibles et les données locales sont rares. Ce registre prospectif de l'université Mahidol suit des patients ATTR-CM, symptomatiques ou non, avec atteinte cardiaque confirmée (épaisseur pariétale ≥ 12 mm et scintigraphie positive, ou IRM et biopsie). Il décrit la présentation, l'imagerie et l'évolution, dans l'objectif de promouvoir un dépistage précoce et de sensibiliser les non-cardiologues.",
+ "interet": "Il fournira des données locales sur l'ATTR-CM en Asie du Sud-Est, utiles au dépistage et à l'organisation de la prise en charge.",
+ "profil": "Des adultes thaïlandais avec une amylose cardiaque ATTR confirmée.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "ATTR-CM symptomatique ou non, avec épaisseur du ventricule gauche ≥ 12 mm",
+  "Scintigraphie DPD/PYP/HMDP avec Perugini ≥ 2 ou rapport cœur/poumon controlatéral > 1,5",
+  "Ou Perugini 1 avec biopsie (cardiaque ≥ 4 sites ou extracardiaque) positive au rouge Congo",
+  "Ou anomalies d'IRM cardiaque avec biopsie positive"
+ ],
+ "exclusion": [
+  "Amylose d'une autre protéine (AL, etc.)",
+  "Amylose secondaire"
+ ],
+ "bras": [
+  {
+   "nom": "ATTR-CM",
+   "traitement": "Patients avec amylose cardiaque ATTR, sans intervention imposée"
+  }
+ ],
+ "duree": "Suivi longitudinal, 3 ans pour les critères principaux",
+ "critere": "Taux de décès et taux d'hospitalisation pour insuffisance cardiaque, à 3 ans."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "f932de3cd73d",
+ "date": "2026-11-14",
+ "titre": "Cyclophosphamide à haute dose en induction du lymphohistiocytose hémophagocytaire de l'adulte",
+ "question": "Une induction par cyclophosphamide à haute dose est-elle plus efficace que le protocole HLH-2004 dans le LHH secondaire non infectieux de l'adulte ?",
+ "contexte": "Le syndrome d'activation macrophagique et la lymphohistiocytose hémophagocytaire (LHH) secondaire de l'adulte sont des urgences vitales, liées à des cancers, des maladies auto-immunes ou des infections. La mortalité précoce à 30 jours est élevée, rapportée autour de 40 % après induction par le protocole HLH-2004 (étoposide, dexaméthasone, ciclosporine) ou par un schéma de type CHOP.\n\nLe traitement doit souvent être débuté avant que la cause ne soit identifiée, ce qui limite les options étiologiques. Les promoteurs partent du constat que la LHH de l'adulte s'accompagne d'une expansion et d'une activation massives des lymphocytes T avec une baisse des cellules NK. Le cyclophosphamide, agent alkylant et immunosuppresseur, est utilisé à haute dose en allogreffe pour éliminer les lymphocytes T alloréactifs et prévenir la GVH.\n\nCette étude randomisée compare un schéma à haute dose de cyclophosphamide (25 à 50 mg/kg/j pendant 2 jours) associé à la dexaméthasone au protocole HLH-2004 de référence. Elle se limite aux LHH non infectieuses de l'adulte et est promue par un investigateur chinois, avec plusieurs centres du Chongqing. L'étude est ouverte, sans insu.",
+ "interet": "Si le cyclophosphamide à haute dose améliore le taux de réponse complète à 30 jours, il pourrait proposer une alternative d'induction rapide dans les LHH de l'adulte, avec un impact potentiel sur la mortalité précoce. Les résultats devront être confirmés hors de Chine et sur la tolérance.",
+ "profil": "Des adultes de 18 à 65 ans atteints de LHH secondaire non infectieux.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "LHH diagnostiquée selon les critères HLH-2004 (diagnostic moléculaire ou au moins 5 critères sur 8)",
+  "Capacité à comprendre l'étude et consentement éclairé signé"
+ ],
+ "exclusion": [
+  "LHH due à une infection curable (bactérie, champignon, virus hors EBV, protozoaire)",
+  "Allergie ou contre-indication aux médicaments du protocole",
+  "Atteinte d'organe liée à une maladie chronique ancienne",
+  "Fragilité extrême ou instabilité hémodynamique ne permettant pas la haute dose de cyclophosphamide",
+  "Comorbidité sévère ou non contrôlée (diabète, hypertension pulmonaire…)",
+  "Instabilité mentale ou maladie psychiatrique sévère"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe cyclophosphamide (expérimental)",
+   "traitement": "Cyclophosphamide à haute dose (25 à 50 mg/kg/j pendant 2 jours) + dexaméthasone"
+  },
+  {
+   "nom": "Groupe traitement habituel (comparateur)",
+   "traitement": "Étoposide + dexaméthasone + ciclosporine (protocole HLH-2004)"
+  }
+ ],
+ "duree": "Jusqu'à 30 jours pour le critère principal",
+ "critere": "Taux de réponse complète et de réponse quasi complète à 30 jours."
+}

@@ -1,0 +1,27 @@
+{
+ "h": "80b2ffe3c077",
+ "date": "2026-11-14",
+ "titre": "ADN tumoral circulant dans le lymphome associé à la lymphohistiocytose hémophagocytaire",
+ "question": "L'ADN tumoral circulant (ctDNA) permet-il de détecter un lymphome sous-jacent chez des adultes atteints de lymphohistiocytose hémophagocytaire (LHH) ?",
+ "contexte": "La LHH est une maladie rare et grave, caractérisée par une inflammation sévère proche du sepsis. Chez l'adulte, la cause la plus fréquente est le lymphome, notamment le lymphome B diffus à grandes cellules, le lymphome de Hodgkin et les lymphomes T. Les patients avec lymphome sous-jacent ont la survie la plus basse.\n\nLe diagnostic est difficile, car le tableau septique rend le TEP-scanner et la biopsie précoce parfois impossibles. Les patients sont alors traités de façon empirique, ce qui retarde le diagnostic et peut aggraver les infections. Les lymphomes agressifs libèrent beaucoup d'ADN tumoral dans le sang. Cette étude observationnelle de Nottingham recherche des mutations spécifiques de lymphome dans le ctDNA de 12 patients atteints de LHH, à partir d'un petit prélèvement sanguin supplémentaire.",
+ "interet": "Un test sanguin de ctDNA pourrait accélérer le diagnostic de lymphome dans la LHH et permettre un traitement plus précoce.",
+ "profil": "Des adultes atteints de LHH confirmée cliniquement, avec ou sans lymphome connu.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement éclairé",
+  "LHH confirmée cliniquement",
+  "Corticoïdes à forte dose et/ou traitement anticancéreux systémique depuis moins de 72 heures (l'anakinra n'en fait pas partie)",
+  "LHH récurrente acceptée",
+  "Lymphome connu ou en rechute accepté"
+ ],
+ "exclusion": [
+  "LHH dont la cause non maligne est déjà connue"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de LHH",
+   "traitement": "Prélèvement sanguin supplémentaire pour la recherche de ctDNA, sans intervention thérapeutique"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Identification de mutations spécifiques de lymphome dans le ctDNA de patients avec LHH d'origine lymphomateuse, jusqu'à 2 ans."
+}

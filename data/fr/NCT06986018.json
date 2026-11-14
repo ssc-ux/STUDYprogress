@@ -1,0 +1,31 @@
+{
+ "h": "eeccec2bfde5",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles anti-CD19 (RD06-04) dans les myopathies inflammatoires et les vascularites à ANCA réfractaires",
+ "question": "Des CAR-T allogéniques anti-CD19 sont-elles sûres chez des patients atteints de myopathie inflammatoire ou de vascularite à ANCA réfractaires ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, syndrome des antisynthétases, myopathie nécrosante à médiation immune) et les vascularites associées aux ANCA (PAM, GPA, GEPA) sont traitées par corticoïdes et immunosuppresseurs, rituximab ou cyclophosphamide. Une partie des patients reste réfractaire ou rechute, avec des séquelles musculaires ou rénales et une toxicité cumulée des traitements.\n\nLes CAR-T anti-CD19 produisent une déplétion profonde des lymphocytes B et ont induit des rémissions prolongées dans le lupus et certaines myosites. Les produits autologues sont longs à fabriquer, d'où l'intérêt d'un produit allogénique disponible immédiatement.\n\nCette étude de phase 1 chinoise ouverte (hôpital universitaire de Pékin), monocentrique, teste le RD06-04, une CAR-T anti-CD19 allogénique. Douze patients sont prévus, 6 pour chaque maladie, inclus en parallèle. La dose est de 6 × 10^6 cellules CAR+/kg (± 30 %), en perfusion unique. Les objectifs sont la tolérance, la pharmacocinétique, la pharmacodynamie et une première évaluation d'efficacité.",
+ "interet": "Les données apporteront les premières informations de sécurité et de cinétique d'une CAR-T universelle dans ces deux maladies. L'effectif limité et l'absence de comparateur ne permettent pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 70 ans atteints de myopathie inflammatoire idiopathique ou de vascularite à ANCA réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, consentement signé",
+  "Myopathie inflammatoire (critères ACR/EULAR 2017, probabilité ≥ 55 %) ou vascularite à ANCA (critères ACR/EULAR 2022 : PAM, GPA, GEPA)",
+  "ALAT/ASAT ≤ 3 N, bilirubine ≤ 2 N, créatinine ≤ 1,5 N ou clairance ≥ 40 mL/min",
+  "Neutrophiles ≥ 1 G/L, hémoglobine ≥ 60 g/L, plaquettes ≥ 50 G/L, lymphocytes > 0,3 G/L",
+  "SpO2 ≥ 92 %, FEVG ≥ 50 %",
+  "Contraception efficace jusqu'à 12 mois après la perfusion"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune rhumatologique pouvant gêner l'évaluation",
+  "Maladie du système nerveux central significative dans les 12 mois",
+  "Antécédent de greffe allogénique de moelle ou d'organe solide",
+  "Rhabdomyolyse sévère ou CK ≥ 120 N (myopathie)",
+  "Dysfonction cardiovasculaire significative, cancer dans les 5 ans",
+  "Infections récidivantes nécessitant hospitalisation, VHB, VHC, VIH ou syphilis positifs",
+  "Grossesse ou allaitement, abus de drogue ou d'alcool dans l'année"
+ ],
+ "bras": [
+  { "nom": "Injection de cellules RD06-04", "traitement": "Une perfusion unique de CAR-T allogéniques anti-CD19, 6 × 10^6 cellules CAR+/kg (± 30 %)" }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Événements indésirables apparus sous traitement, événements graves et événements d'intérêt particulier, jusqu'à 2 ans."
+}

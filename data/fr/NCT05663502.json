@@ -1,0 +1,27 @@
+{
+ "h": "47bd459c8ad6",
+ "date": "2026-11-14",
+ "titre": "Collecte d'échantillons sanguins et tissulaires pour les cancers liés au VIH",
+ "question": "Peut-on constituer une banque d'échantillons de patients atteints de cancers liés au VIH pour étudier leurs facteurs biologiques et génétiques ?",
+ "contexte": "Les personnes vivant avec le VIH ont un risque accru de certains cancers : sarcome de Kaposi, lymphomes, cancer de l'anus, maladie de Castleman multicentrique. Malgré les antirétroviraux, ces cancers restent une cause importante de morbidité. Les mécanismes biologiques qui les relient au VIH et aux virus oncogènes (HHV-8, EBV, HPV) sont encore incomplètement compris.\n\nCette étude observationnelle de l'AIDS Malignancy Consortium collecte du sang et du tissu tumoral frais chez des personnes vivant avec le VIH et participant à un essai du consortium, ainsi que chez des personnes séronégatives ayant un cancer apparenté. Les échantillons sont stockés à l'AIDS and Cancer Specimen Resource du National Cancer Institute pour des recherches futures. Aucun traitement n'est évalué.",
+ "interet": "Elle fournit une ressource de recherche pour identifier des biomarqueurs et des cibles thérapeutiques dans les cancers associés au VIH.",
+ "profil": "Des adultes vivant avec le VIH et atteints de cancer, ou séronégatifs avec un cancer apparenté à ceux du VIH.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "VIH positif avec une tumeur diagnostiquée, ou VIH négatif avec cancer lié (Kaposi, cancer anal, Castleman, lymphome EBV+, plasmablastique, Hodgkin)",
+  "Infection VIH documentée (dossier, traitement antirétroviral, ARN VIH > 1000 copies/mL ou sérologie confirmée)",
+  "Consentement écrit du patient ou de son représentant"
+ ],
+ "exclusion": [
+  "Prophylaxie pré-exposition seule comme preuve de traitement antirétroviral (non valable)",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Prélèvement de biospécimens",
+   "traitement": "Collecte de sang frais et/ou de tissu tumoral, sans intervention thérapeutique"
+  }
+ ],
+ "duree": "Non précisé (étude sur environ 10 ans)",
+ "critere": "Nombre de biospécimens collectés, jusqu'à la fin de l'étude (environ 10 ans)."
+}

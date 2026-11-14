@@ -1,0 +1,45 @@
+{
+ "h": "b8b111679662",
+ "date": "2026-11-14",
+ "titre": "Vécu du dépistage néonatal du déficit immunitaire combiné sévère (DICS) au Royaume-Uni",
+ "question": "Comment les familles et les soignants vivent-ils le dépistage néonatal du DICS, et quel est son impact sur la qualité de vie et l'anxiété des parents ?",
+ "contexte": "Le déficit immunitaire combiné sévère (DICS) est une urgence immunologique pédiatrique. Sans greffe de cellules souches hématopoïétiques ou thérapie génique, les nourrissons meurent des infections dans les premières années. Le pronostic est bien meilleur quand le diagnostic est posé avant les infections, d'où l'intérêt du dépistage néonatal par dosage des TREC sur buvard.\n\nPlusieurs pays dépistent déjà le DICS, et les modèles suggèrent un bon rapport coût-efficacité au Royaume-Uni, avec des incertitudes. Le comité national de dépistage britannique a recommandé une évaluation en pratique réelle, couvrant environ 800 000 nouveau-nés en Angleterre entre septembre 2021 et août 2023. Cette étude du King's College London comporte deux volets : une étude mixte auprès des familles, de l'annonce du résultat jusqu'aux 5 ans de l'enfant, et des entretiens qualitatifs avec les professionnels. Les groupes comprennent résultats positifs, normaux, faux positifs, désignations CFSPID, DICS identifiés autrement et décès.",
+ "interet": "Elle éclairera les décisions sur la généralisation du dépistage du DICS, en documentant son impact psychologique et organisationnel.",
+ "profil": "Des parents adultes d'enfants ayant eu un dépistage néonatal du DICS, et des professionnels de santé impliqués.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Capacité à comprendre l'objectif et les implications de l'étude",
+  "Interprète fourni si la langue n'est pas l'anglais"
+ ],
+ "exclusion": [
+  "Pas d'exclusion stricte : en cas de décès de l'enfant, l'équipe demande délicatement si les parents souhaitent continuer"
+ ],
+ "bras": [
+  {
+   "nom": "Dépistage positif pour DICS",
+   "traitement": "Parents de bébés adressés à l'immunologue (10 à 25 minimum)"
+  },
+  {
+   "nom": "Résultat normal",
+   "traitement": "Parents ayant reçu un résultat normal (10 à 25)"
+  },
+  {
+   "nom": "Faux positif",
+   "traitement": "Parents ayant reçu un faux positif dans le dépistage (2 à 10)"
+  },
+  {
+   "nom": "Désignation CFSPID",
+   "traitement": "Parents ayant reçu un résultat CFSPID (environ 10)"
+  },
+  {
+   "nom": "DICS par histoire familiale ou clinique",
+   "traitement": "Parents de bébés diagnostiqués hors dépistage (environ 10)"
+  },
+  {
+   "nom": "Enfants décédés",
+   "traitement": "Parents dont le bébé est décédé après un résultat anormal ou un diagnostic de DICS (environ 10)"
+  }
+ ],
+ "duree": "Jusqu'au cinquième anniversaire de l'enfant",
+ "critere": "Scores de qualité de vie et d'anxiété (EQ-5D-5L, GAD-7, ITQOL-47) tous les 12 mois jusqu'aux 5 ans de l'enfant, et entretiens qualitatifs."
+}

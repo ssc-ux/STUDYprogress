@@ -1,0 +1,14 @@
+{
+ "h": "f501d267a622",
+ "date": "2026-11-14",
+ "titre": "Réponse précoce des chaînes légères (jour 7) et réponse hématologique complète dans l'amylose AL",
+ "question": "La baisse des chaînes légères libres à J7 du cycle 1 prédit-elle la réponse hématologique complète sous daratumumab dans l'amylose AL ?",
+ "contexte": "L'amylose AL est une dyscrasie plasmocytaire rare où des dépôts de fibrilles de chaînes légères touchent plusieurs organes, surtout le cœur et le rein. Le traitement vise à supprimer le clone plasmocytaire et repose en première ligne sur daratumumab, bortézomib, cyclophosphamide et dexaméthasone (Dara-BCD), qui permet une réponse hématologique complète chez près de 60 % des patients.\n\nLa profondeur et la rapidité de la réponse hématologique sont fortement corrélées à la réponse d'organe et à la survie. Un contrôle rapide est particulièrement important en cas d'atteinte d'organe sévère. Avec le daratumumab, le délai médian de réponse hématologique n'est que de 7 à 9 jours. Des données rétrospectives suggèrent que la réponse de la différence entre chaînes légères impliquée et non impliquée (dFLC) au jour 7 du cycle 1 prédit la réponse complète. Cette étude prospective de l'hôpital de l'Université de Pékin (People's Hospital) vise à valider cette hypothèse chez 50 patients avec dFLC ≥ 50 mg/L, avec dosage supplémentaire des chaînes légères à J7 et J14.",
+ "interet": "Si cet indicateur précoce se confirme, il pourrait aider à repérer rapidement les patients qui ne répondront pas et à adapter le traitement sans attendre plusieurs cycles.",
+ "profil": "Des adultes avec amylose AL systémique traités par un schéma à base de daratumumab.",
+ "inclusion": ["Diagnostic d'amylose AL systémique", "Traitement par daratumumab, bortézomib et dexaméthasone", "dFLC ≥ 50 mg/L", "Consentement éclairé signé", "Âge de 18 à 99 ans"],
+ "exclusion": ["Myélome multiple actif ou lymphome lymphoplasmocytaire actif", "Autre tumeur avancée avec métastases systémiques", "Infection sévère ou persistante non contrôlée", "Maladie auto-immune sévère ou déficit immunitaire", "Hépatite B ou C active (ADN/ARN positif), VIH ou syphilis", "Toute situation augmentant le risque ou faussant les résultats selon l'investigateur"],
+ "bras": [{"nom": "Cohorte Dara-BCD", "traitement": "Daratumumab (IV ou SC), bortézomib, dexaméthasone ± cyclophosphamide, avec dosage des chaînes légères à J7 et J14 du cycle 1"}],
+ "duree": "6 mois",
+ "critere": "Réponse hématologique complète à 6 mois."
+}

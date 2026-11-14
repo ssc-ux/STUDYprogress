@@ -1,0 +1,27 @@
+{
+ "h": "d1d9f756bce9",
+ "date": "2026-11-14",
+ "titre": "TEP à l'iode 124 évuzamitide (AT-01) dans l'amylose systémique",
+ "question": "La TEP à l'évuzamitide marqué à l'iode 124 permet-elle de diagnostiquer l'amylose cardiaque et de cartographier l'atteinte des organes ?",
+ "contexte": "L'amylose systémique (AL ou à transthyrétine) est souvent diagnostiquée tardivement. La scintigraphie osseuse détecte l'amylose ATTR cardiaque, mais elle est peu sensible pour l'AL et ne montre pas l'atteinte extracardiaque. Évaluer la charge amyloïde globale reste difficile.\n\nL'évuzamitide (AT-01) est une protéine de liaison aux fibrilles amyloïdes, marquée à l'iode 124 pour la TEP. Elle se fixe sur les dépôts amyloïdes de tous types. Cette étude de phase 2 monocentrique de l'OHSU propose une TEP/IRM hybride (ou TEP/TDM si l'IRM est impossible) à 150 patients. Elle vise à établir la précision diagnostique dans l'amylose cardiaque, étudier la fixation extracardiaque, caractériser la distribution chez les patients ATTR-CM et corréler la fixation avec la structure et la fonction des organes. Une partie des patients refait l'examen à 6-12 mois.",
+ "interet": "Si elle est validée, cette imagerie pourrait détecter l'amylose de tout type et quantifier la charge amyloïde pour suivre la réponse aux traitements.",
+ "profil": "Des adultes de 40 à 90 ans avec amylose systémique, porteurs d'une mutation TTR, ou atteints de myélome ou de MGUS.",
+ "inclusion": [
+  "Au moins une des situations : amylose systémique avec atteinte d'organe connue, porteur d'une mutation pathogène TTR, myélome, MGUS",
+  "Consentement et acceptation des procédures"
+ ],
+ "exclusion": [
+  "Claustrophobie sévère ou affection empêchant l'imagerie",
+  "Allergie à l'iodure de potassium ou au gadolinium",
+  "Dialyse ou DFG < 30 mL/min/1,73 m² (pas d'IRM avec gadolinium)",
+  "Héparine ou analogue dans les 7 jours précédant l'injection"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec ATTR-CM",
+   "traitement": "TEP/IRM (ou TEP/TDM) à l'iode 124 évuzamitide à l'inclusion, répétée à 6-12 mois chez un sous-groupe"
+  }
+ ],
+ "duree": "Examen à l'inclusion, nouvel examen à 6-12 mois chez un sous-groupe",
+ "critere": "Précision diagnostique de l'iode 124 évuzamitide, à l'examen initial."
+}

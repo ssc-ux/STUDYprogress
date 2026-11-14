@@ -1,0 +1,37 @@
+{
+ "h": "214f8c77493d",
+ "date": "2026-11-14",
+ "titre": "Génétique du syndrome VEXAS et des maladies auto-inflammatoires apparentées",
+ "question": "Quelles variations génétiques expliquent le syndrome VEXAS et d'autres maladies auto-inflammatoires encore inexpliquées ?",
+ "contexte": "Le syndrome VEXAS, décrit en 2020, est une maladie auto-inflammatoire de l'adulte liée à des mutations somatiques du gène UBA1 dans les cellules myéloïdes. Il associe fièvre, chondrite, vascularite cutanée, atteintes pulmonaires, cytopénies et macrocytose, et il peut être pris pour une maladie rhumatismale ou hématologique.\n\nPlus largement, de nombreux patients ont des tableaux inflammatoires systémiques sans diagnostic génétique. La découverte de nouvelles causes (variants germinaux rares, variants structuraux, mutations somatiques) permet de mieux comprendre les mécanismes et d'orienter le traitement.\n\nCette étude monocentrique de NYU Langone Health, aux États-Unis, est un protocole d'histoire naturelle. Elle inclut des patients, leurs apparentés et des témoins sains, avec prélèvements de sang, de salive ou de cheveux, parfois une biopsie cutanée, et revue rétrospective des dossiers.",
+ "interet": "Ces travaux pourraient identifier de nouveaux gènes et mieux décrire les relations génotype-phénotype du VEXAS, utiles au diagnostic des syndromes auto-inflammatoires.",
+ "profil": "Des patients de tout âge avec maladie auto-inflammatoire connue ou suspectée (dont VEXAS), leurs apparentés et des témoins sains.",
+ "inclusion": [
+  "Patients : âge d'au moins 1 mois, histoire clinique compatible avec une maladie auto-inflammatoire ou diagnostic connu (VEXAS…)",
+  "Apparentés : lien familial avec un patient inclus et échantillon susceptible de faire progresser l'analyse",
+  "Témoins sains : âge d'au moins 5 ans, non enceinte",
+  "Au minimum, envoi par courrier d'un échantillon de sang ou de salive pour analyse génétique",
+  "Consentement écrit du sujet, des parents ou du représentant légal"
+ ],
+ "exclusion": [
+  "Patient : faible suspicion de maladie auto-inflammatoire ou de cause génétique",
+  "Apparenté : suspicion de maladie auto-inflammatoire (il est alors inclus comme patient)",
+  "Témoin sain : maladie auto-inflammatoire ou affection pouvant l'imiter (hémopathie, maladie rhumatologique)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Participants avec maladie auto-inflammatoire connue ou suspectée (probands)"
+  },
+  {
+   "nom": "Apparentés",
+   "traitement": "Parents par le sang ou par alliance de patients inclus"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Volontaires sans maladie inflammatoire"
+  }
+ ],
+ "duree": "Non précisé (étude jusqu'en 2032)",
+ "critere": "Nombre de nouveaux variants germinaux rares à forte pénétrance, variants structuraux, variants communs de susceptibilité et mutations somatiques causant des maladies inflammatoires, en fin d'étude."
+}

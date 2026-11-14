@@ -1,0 +1,29 @@
+{
+ "h": "118291496ac6",
+ "date": "2026-11-14",
+ "titre": "Habitudes alimentaires des patients de rhumatologie et maladies auto-immunes",
+ "question": "Les patients de rhumatologie modifient-ils leur alimentation après le diagnostic, et en perçoivent-ils un bénéfice ?",
+ "contexte": "Les recommandations alimentaires dans les maladies rhumatologiques et auto-immunes sont limitées. Certains régimes, comme le régime méditerranéen, sont associés à moins d'inflammation, mais les preuves restent partielles et variables selon les maladies. Beaucoup de patients modifient pourtant leur alimentation de leur propre initiative, en s'appuyant sur des sources variées.\n\nCette étude observationnelle américaine, par questionnaire, recueille auprès de patients d'un centre universitaire de Floride les habitudes alimentaires, l'activité de la maladie, les changements de régime, l'amélioration subjective des symptômes, les ressources utilisées et les attentes envers le rhumatologue. L'hypothèse est que les patients qui adoptent un régime plus sain, comme le régime méditerranéen, rapportent des symptômes moins sévères. Les maladies concernées incluent polyarthrite rhumatoïde, rhumatisme psoriasique, spondylarthrite, myosites, Sjögren, lupus, sclérodermie, arthrose et fibromyalgie.",
+ "interet": "Elle renseignera l'intérêt des patients pour les modifications alimentaires et leurs attentes envers les médecins. Son design ne permet pas de conclure à un effet causal.",
+ "profil": "Des adultes de 18 à 65 ans suivis en rhumatologie pour une maladie auto-immune ou rhumatismale.",
+ "inclusion": [
+  "Adultes de plus de 18 ans, patients établis de UCF Health",
+  "Polyarthrite rhumatoïde, rhumatisme psoriasique, spondylarthrite, dermato/polymyosite, Sjögren, lupus, sclérodermie, arthrose ou fibromyalgie"
+ ],
+ "exclusion": [
+  "Étudiants, enseignants ou personnel de l'université",
+  "Moins de 18 ans",
+  "Plus de 65 ans",
+  "Femmes enceintes",
+  "Personnes détenues",
+  "Adultes incapables de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Patients de rhumatologie",
+   "traitement": "Questionnaire sur les habitudes alimentaires et les symptômes"
+  }
+ ],
+ "duree": "4 mois",
+ "critere": "Effet des habitudes alimentaires et de l'activité sur les maladies auto-immunes, par tests statistiques (t de Student, ANOVA), à 4 mois."
+}

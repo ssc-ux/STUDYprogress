@@ -1,0 +1,23 @@
+{
+ "h": "4695cbb6c8d2",
+ "date": "2026-11-14",
+ "titre": "Carolina Senior : registre de patients âgés atteints de cancer avec évaluation gériatrique",
+ "question": "Peut-on constituer un registre de patients âgés vus à l'hôpital du cancer de Caroline du Nord et leur faire réaliser une évaluation gériatrique systématique ?",
+ "contexte": "Une partie importante des patients atteints de cancer a 65 ans ou plus, mais ils sont peu représentés dans les essais cliniques. Leur état fonctionnel, leurs comorbidités, leurs fonctions cognitives, leur situation sociale et leur nutrition varient beaucoup et influencent la tolérance et le choix des traitements. L'évaluation gériatrique multidimensionnelle est l'outil de référence pour décrire ces dimensions.\n\nLe registre « Carolina Senior » de l'UNC Lineberger Comprehensive Cancer Center (avec le NCI) inclut des patients de 65 ans et plus ayant un rendez-vous au North Carolina Cancer Hospital. Ils remplissent une évaluation gériatrique incluant notamment le test Timed Up and Go, le test d'orientation-mémoire-concentration de Blessed et le score de Karnofsky. Les dossiers médicaux sont revus, et l'état de santé à 1 an est ajouté au registre. Les secondaires évaluent la faisabilité : taux de consentement, taux d'auto-remplissage sans aide, durée et satisfaction. L'étude est observationnelle.",
+ "interet": "Le registre doit fournir des données sur les patients âgés atteints de cancer et la faisabilité de l'évaluation gériatrique, base de recherches futures. Il n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients de 65 ans et plus ayant un rendez-vous dans un hôpital du cancer, avec un cancer confirmé ou suspecté.",
+ "inclusion": [
+  "Âge ≥ 65 ans",
+  "Rendez-vous au North Carolina Cancer Hospital",
+  "Accord pour remplir l'évaluation gériatrique",
+  "Capacité à lire et parler l'anglais"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non précisés (les patients sans cancer restent dans la base mais sans accès à leur dossier)"
+ ],
+ "bras": [
+  {"nom": "Patients âgés", "traitement": "Évaluation gériatrique multidimensionnelle (état fonctionnel, comorbidités, cognition, psychologie, soutien social, médicaments, nutrition), revue du dossier et état de santé à 1 an"}
+ ],
+ "duree": "Évaluation à la première consultation, état de santé à 1 an",
+ "critere": "Création du registre de patients âgés du système de santé de l'UNC (4 ans) et réalisation de l'évaluation gériatrique lors de la première visite"
+}

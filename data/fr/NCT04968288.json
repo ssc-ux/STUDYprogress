@@ -1,0 +1,25 @@
+{
+ "h": "494b454452ae",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle de la maladie de Castleman multicentrique associée à KSHV",
+ "question": "Comment évolue la maladie de Castleman multicentrique associée à KSHV, et quels facteurs en déterminent les manifestations et le pronostic ?",
+ "contexte": "Le virus de l'herpès associé au sarcome de Kaposi (KSHV, ou HHV-8) provoque le sarcome de Kaposi, le lymphome des séreuses (PEL) et une forme de maladie de Castleman multicentrique (MCD). Ces affections peuvent coexister chez un même patient. La MCD est un trouble lymphoprolifératif rare, qui touche plus souvent les personnes infectées par le VIH.\n\nElle se manifeste par de la fièvre, des cytopénies, des atteintes d'organes et un syndrome inflammatoire majeur, parfois avec une cytokine storm. Sans diagnostic, elle peut être fatale, avec une survie médiane historique d'environ 2 ans. Le pronostic des patients VIH négatifs n'est pas meilleur, ce qui suggère que le VIH n'explique pas tout.\n\nIl n'existe pas de traitement standard défini. Le rituximab, seul ou avec une chimiothérapie, est utilisé en pratique. Cette étude de cohorte du NCI, qui prévoit 195 participants, décrit l'histoire naturelle de la maladie, sans traitement imposé. La co-inclusion dans des protocoles thérapeutiques est possible.",
+ "interet": "L'étude pourrait préciser l'évolution et les facteurs pronostiques de cette maladie rare, et servir de base pour de futurs essais thérapeutiques.",
+ "profil": "Des adultes ayant une maladie de Castleman multicentrique associée à KSHV, prouvée par biopsie.",
+ "inclusion": [
+  "MCD associée à KSHV prouvée par biopsie, confirmée par le laboratoire de pathologie du NCI",
+  "Âge ≥ 18 ans",
+  "ECOG ≤ 4 (Karnofsky ≥ 20 %)",
+  "Consentement écrit",
+  "Co-inclusion possible dans d'autres protocoles"
+ ],
+ "exclusion": [
+  "Toute situation rendant la participation risquée ou inappropriée selon les investigateurs",
+  "Grossesse"
+ ],
+ "bras": [
+  { "nom": "Cohorte 1", "traitement": "Patients ayant une MCD associée à KSHV, suivis sans intervention imposée" }
+ ],
+ "duree": "Non précisé (suivi long, fin d'étude prévue en 2034)",
+ "critere": "Histoire naturelle de la MCD (en cours)"
+}

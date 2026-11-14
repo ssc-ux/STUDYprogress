@@ -1,0 +1,43 @@
+{
+ "h": "df582eec9608",
+ "date": "2026-11-14",
+ "titre": "Sous-populations d'éosinophiles dans l'asthme éosinophilique, l'EGPA et le syndrome hyperéosinophilique",
+ "question": "Retrouve-t-on des éosinophiles inflammatoires (iEos) et résidents (rEos) dans l'EGPA et le syndrome hyperéosinophilique, et comment les cytokines de type 2 influencent-elles leur plasticité ?",
+ "contexte": "Les éosinophiles participent à la défense anti-infectieuse et à la surveillance tumorale, mais aussi à des maladies comme l'asthme éosinophilique, la rhinosinusite chronique avec polypes, l'EGPA et le syndrome hyperéosinophilique (SHE). Les anti-IL-5 (mépolizumab, benralizumab) sont une option thérapeutique.\n\nDeux sous-populations ont été décrites chez la souris puis dans l'asthme éosinophilique sévère et les polypes nasaux : les éosinophiles résidents (rEos), liés à l'homéostasie tissulaire et à la régulation, et les éosinophiles inflammatoires (iEos), liés à l'inflammation. Leur présence dans l'EGPA et le SHE n'est pas établie. Cette étude cas-témoins monocentrique de l'Université de Florence inclut 160 participants : 80 asthmes éosinophiliques, 30 EGPA, 25 SHE et 25 donneurs sains. Elle caractérise les sous-populations et explore l'effet in vitro du mépolizumab.",
+ "interet": "Étude mécanistique pouvant ouvrir la voie à une médecine de précision dans les maladies éosinophiliques, sans retombée clinique immédiate.",
+ "profil": "Des adultes de 18 à 75 ans ayant un asthme éosinophilique, une EGPA ou un SHE, et des donneurs sains.",
+ "inclusion": [
+  "Âge 18-75 ans",
+  "Asthme éosinophilique (> 300 éosinophiles/µL), EGPA ou SHE (éosinophiles > 1 500/µL) ; ou donneur sain",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Autre pathologie pulmonaire chronique, dont BPCO",
+  "Autre maladie inflammatoire immuno-médiée chronique",
+  "Prednisone > 7,5 mg/j ou corticoïde retard dans les 3 derniers mois",
+  "Immunosuppresseur (ciclosporine, azathioprine, méthotrexate, mycophénolate)",
+  "Vaccin vivant atténué dans les 30 jours ; infection respiratoire aiguë dans les 30 jours ; helminthiase non traitée",
+  "Grossesse, allaitement, tabagisme actuel",
+  "Participation à une autre étude interventionnelle"
+ ],
+ "bras": [
+  {
+   "nom": "Donneurs sains",
+   "traitement": "25 volontaires sains, prélèvement sanguin"
+  },
+  {
+   "nom": "Asthme éosinophilique",
+   "traitement": "80 patients, prélèvement sanguin"
+  },
+  {
+   "nom": "EGPA",
+   "traitement": "30 patients, prélèvement sanguin"
+  },
+  {
+   "nom": "SHE",
+   "traitement": "25 patients, prélèvement sanguin"
+  }
+ ],
+ "duree": "20 mois à partir de la première inclusion",
+ "critere": "Vérification des sous-populations iEos et rEos dans l'EGPA et le SHE et analyse de l'effet des cytokines de type 2 sur leur plasticité (deux mesures principales, 20 mois)."
+}

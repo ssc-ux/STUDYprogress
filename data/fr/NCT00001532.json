@@ -1,0 +1,30 @@
+{
+ "h": "fdc025c0258d",
+ "date": "2026-11-14",
+ "titre": "Rôle des facteurs génétiques dans les maladies pulmonaires (NHLBI)",
+ "question": "Quels facteurs génétiques héréditaires participent au développement de maladies pulmonaires comme le déficit en alpha-1 antitrypsine, la BPCO, la mucoviscidose, la sarcoïdose ou la lymphangioléiomyomatose ?",
+ "contexte": "Plusieurs maladies respiratoires ont une composante génétique, parfois monogénique, comme la mucoviscidose (gène CFTR) ou le déficit en alpha-1 antitrypsine. Dans d'autres, comme l'asthme, la BPCO ou la sarcoïdose, des variants génétiques modulent la susceptibilité et la sévérité. La distribution de ces variants dans les populations malades reste incomplètement connue.\n\nCette étude cas-témoins du NHLBI (États-Unis) explore des gènes polymorphes impliqués dans la fonction respiratoire, notamment ceux de la NO synthase, de l'alpha-1 antitrypsine et du CFTR, chez des patients et des volontaires sains appariés. Elle examine aussi l'expression génique dans des cellules pulmonaires prélevées par lavage ou brossage bronchique. Une sous-étude optionnelle compare un scanner thoracique standard à un scanner à faible dose, pour environ 150 participants, afin de suivre la lymphangioléiomyomatose.",
+ "interet": "L'étude pourrait préciser les déterminants génétiques de maladies respiratoires rares et communes. Le résultat de la sous-étude scanner pourrait aider à réduire l'irradiation lors du suivi. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes (et certains enfants dès 2 ans selon la maladie) atteints de maladies pulmonaires, leurs apparentés et des volontaires sains.",
+ "inclusion": [
+  "Maladie pulmonaire ou génétique pertinente : déficit en alpha-1 antitrypsine, BPCO, mucoviscidose, sarcoïdose, sclérose tubéreuse, lymphangioléiomyomatose, fibrose pulmonaire, asthme, histiocytose X, etc.",
+  "Symptômes, radiographie et épreuves fonctionnelles respiratoires compatibles avec une atteinte pulmonaire",
+  "Mucoviscidose : mutation de CFTR définie ou phénotype compatible, enfants de plus de 8 ans admis",
+  "Fumeurs (≥ 1 paquet/jour depuis ≥ 2 ans) et non-fumeurs (jamais fumeurs ou arrêt depuis ≥ 3 ans)",
+  "Apparentés de patients ; volontaires sains sans maladie pulmonaire comme témoins",
+  "Femmes enceintes ou allaitantes incluses, avec limitation des examens à risque"
+ ],
+ "exclusion": [
+  "Âge < 18 ans ou > 90 ans (sauf exceptions prévues pour certaines maladies)",
+  "Impossibilité d'obtenir des épreuves fonctionnelles respiratoires fiables",
+  "Pour la bronchoscopie : contre-indication, maladie avancée à risque, allergie à l'anesthésique local",
+  "Pour la bronchoscopie : infection respiratoire dans les 4 dernières semaines, grossesse ou allaitement",
+  "Pour la bronchoscopie : âge < 18 ou > 65 ans"
+ ],
+ "bras": [
+  {"nom": "Patients pulmonaires et apparentés", "traitement": "Sujets avec maladie pulmonaire (avérée ou possible) et leurs apparentés : prélèvements génétiques, explorations respiratoires, bronchoscopie optionnelle"},
+  {"nom": "Volontaires sains", "traitement": "Témoins sans maladie pulmonaire, appariés en âge et sexe"}
+ ],
+ "duree": "Non précisé (étude en cours depuis 1996)",
+ "critere": "Évaluation du rôle des facteurs héréditaires, sur 1 an"
+}

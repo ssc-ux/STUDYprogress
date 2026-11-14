@@ -1,0 +1,23 @@
+{
+ "h": "ca10efa6dbec",
+ "date": "2026-11-14",
+ "titre": "Registre international de l'adsorbeur CytoSorb en réanimation",
+ "question": "Comment le dispositif d'hémoadsorption CytoSorb est-il utilisé en réanimation, et quelle est la mortalité des patients traités ?",
+ "contexte": "CytoSorb est une cartouche d'hémoadsorption branchée sur un circuit extracorporel (hémodialyse, ECMO, CEC). Elle capte des molécules de taille moyenne : cytokines, myoglobine, bilirubine, certains médicaments. Elle est utilisée en réanimation dans l'idée de limiter la réponse inflammatoire excessive.\n\nSes indications potentielles sont nombreuses : choc septique, SDRA, choc cardiogénique, rhabdomyolyse, pancréatite, insuffisance hépatique aiguë, brûlures, syndrome de relargage cytokinique après CAR-T, lymphohistiocytose hémophagocytique, intoxications médicamenteuses. Les preuves de bénéfice clinique restent limitées et discutées.\n\nCe registre international, promu par le fabricant CytoSorbents, collecte prospectivement des données sur 3000 patients traités ou devant l'être par le dispositif de 300 mL. Il vise à surveiller l'usage en pratique réelle et à mesurer la qualité des soins. Les critères principaux sont la mortalité en réanimation et la mortalité hospitalière.",
+ "interet": "Le registre décrira les pratiques et les résultats en vie réelle, sans possibilité de conclure sur l'efficacité du dispositif, en l'absence de groupe comparateur et avec un promoteur industriel.",
+ "profil": "Des patients de réanimation traités ou devant être traités par l'adsorbeur CytoSorb 300 mL.",
+ "inclusion": [
+  "Utilisation prévue ou réelle de l'adsorbeur CytoSorb 300 mL",
+  "Consentement éclairé pour le registre prospectif"
+ ],
+ "exclusion": [
+  "Utilisation uniquement pour éliminer un antithrombotique",
+  "Utilisation uniquement peropératoire en chirurgie cardiaque",
+  "Complication ou circonstance médicale survenant après le consentement et contre-indiquant ou rendant inapproprié le dispositif"
+ ],
+ "bras": [
+  { "nom": "Patients traités par CytoSorb", "traitement": "Cohorte de patients de réanimation, suivie sans intervention imposée par l'étude" }
+ ],
+ "duree": "Jusqu'à la sortie de réanimation puis de l'hôpital (en moyenne 7 et 14 jours)",
+ "critere": "Mortalité en réanimation (jusqu'à la sortie ou au décès) et mortalité hospitalière"
+}

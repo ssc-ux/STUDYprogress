@@ -1,0 +1,24 @@
+{
+ "h": "c41ce7649fff",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'amylose à transthyrétine avant remplacement valvulaire aortique",
+ "question": "Quelle proportion de patients opérés d'un rétrécissement aortique dégénératif ont une amylose ATTR cardiaque associée, et peut-on la dépister de façon systématique ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR) est une cause sous-diagnostiquée d'insuffisance cardiaque du sujet âgé. Elle se manifeste par une hypertrophie ventriculaire, une dyspnée d'effort et des troubles du rythme ou de la conduction. Son pronostic est péjoratif sans traitement, et des traitements spécifiques existent désormais, notamment le tafamidis.\n\nLe rétrécissement aortique dégénératif touche la même tranche d'âge (70-80 ans) et donne des symptômes très proches. Plusieurs séries, dont celle de Castano en 2017, ont retrouvé une amylose ATTR chez 6 à 15 % des patients opérés ou traités pour un rétrécissement aortique. Le diagnostic d'amylose est donc facilement manqué lorsque la sténose valvulaire explique à elle seule les symptômes. On ignore encore si l'amylose favorise la survenue de la sténose.\n\nCette étude observationnelle promue par la Charité de Berlin (SAVER) propose un dépistage systématique de l'ATTR chez 1000 patients hospitalisés pour un remplacement valvulaire aortique programmé. Elle vise aussi à construire un algorithme de dépistage applicable en routine.",
+ "interet": "L'étude pourrait préciser la prévalence réelle de l'ATTR en cas de rétrécissement aortique et proposer une stratégie de dépistage simple. Cela aiderait à repérer des patients éligibles à un traitement spécifique.",
+ "profil": "Des adultes de 40 ans et plus hospitalisés pour un remplacement valvulaire aortique programmé en raison d'un rétrécissement aortique dégénératif.",
+ "inclusion": [
+  "Âge ≥ 40 ans",
+  "Hospitalisation pour remplacement valvulaire aortique",
+  "Rétrécissement aortique dégénératif",
+  "Consentement écrit du patient ou de son représentant légal"
+ ],
+ "exclusion": [
+  "Patient hémodynamiquement instable",
+  "Comorbidités sévères avec espérance de vie estimée < 1 an"
+ ],
+ "bras": [
+  { "nom": "Rétrécissement aortique avant remplacement valvulaire", "traitement": "Cohorte unique avec dépistage systématique de l'amylose ATTR, sans intervention évaluée" }
+ ],
+ "duree": "Non précisé (inclusion sur 18 mois)",
+ "critere": "Nombre et proportion de cas d'ATTR identifiés par le dépistage systématique (période d'inclusion de 18 mois)"
+}

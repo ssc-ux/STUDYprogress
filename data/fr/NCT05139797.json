@@ -1,0 +1,21 @@
+{
+ "h": "ad041b273e06",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'amylose cardiaque par intelligence artificielle sur l'échocardiographie (EchoNet)",
+ "question": "Un algorithme d'intelligence artificielle appliqué aux échocardiographies permet-il de repérer des cas d'amylose cardiaque jusque-là non diagnostiqués ?",
+ "contexte": "L'amylose cardiaque est souvent diagnostiquée tardivement. Ses signes échocardiographiques (hypertrophie pariétale, dysfonction diastolique, altération du strain longitudinal) sont facilement confondus avec une cardiopathie hypertensive ou une cardiomyopathie hypertrophique. Des traitements spécifiques existent désormais pour l'amylose ATTR, ce qui donne un intérêt thérapeutique au dépistage précoce.\n\nDes modèles d'apprentissage automatique appliqués à l'imagerie peuvent identifier des caractéristiques que les experts ne perçoivent pas. L'algorithme EchoNet-LVH, développé à Cedars-Sinai, estime une probabilité d'amylose cardiaque à partir des vidéos d'échocardiographie déjà réalisées.\n\nCette étude de cohorte de Cedars-Sinai inclut 300 patients que l'algorithme juge à forte probabilité d'amylose cardiaque. Ces patients sont adressés en consultation spécialisée pour un bilan complémentaire. Le critère principal est le nombre de nouveaux diagnostics d'amylose cardiaque à 6 mois.",
+ "interet": "L'étude pourrait montrer qu'un dépistage assisté par IA, sans examen supplémentaire, détecte des amyloses cardiaques méconnues. Elle pourrait étayer son usage en routine.",
+ "profil": "Des adultes dont l'échocardiographie est jugée très suspecte d'amylose cardiaque par un algorithme d'IA.",
+ "inclusion": [
+  "Patient à forte suspicion d'amylose cardiaque selon l'algorithme d'IA"
+ ],
+ "exclusion": [
+  "Patient refusant la consultation spécialisée",
+  "Patient décédé"
+ ],
+ "bras": [
+  { "nom": "Dépistage par IA", "traitement": "L'algorithme EchoNet-LVH calcule une probabilité d'amylose cardiaque, qui déclenche une orientation en consultation spécialisée" }
+ ],
+ "duree": "6 mois",
+ "critere": "Nombre de nouveaux diagnostics d'amylose cardiaque à 6 mois"
+}

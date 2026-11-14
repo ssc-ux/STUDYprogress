@@ -1,0 +1,32 @@
+{
+ "h": "39a72efb5b02",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques CD19/BCMA dans l'anémie hémolytique auto-immune réfractaire",
+ "question": "Des lymphocytes CAR-T allogéniques « universels » dirigés contre CD19 et BCMA sont-ils sûrs et efficaces dans l'AHAI réfractaire ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est traitée en première ligne par corticoïdes, puis par rituximab. Une partie des patients rechute ou devient réfractaire malgré plusieurs lignes (immunosuppresseurs, splénectomie, inhibiteurs de BTK ou de SYK, inhibiteurs du complément selon les formes). Ces patients restent exposés à l'anémie symptomatique, aux transfusions et aux effets cumulés des corticoïdes.\n\nLes CAR-T dirigés contre CD19 (lymphocytes B) et BCMA (plasmocytes) permettent une déplétion profonde de la lignée B productrice d'auto-anticorps. Elles ont montré des résultats encourageants dans le lupus et d'autres maladies auto-immunes. Les CAR-T autologues sont toutefois longs et coûteux à produire.\n\nCette étude de phase 1 chinoise, monocentrique et ouverte, teste un produit allogénique « prêt à l'emploi » ciblant CD19 et BCMA. Il est administré en une perfusion après lymphodéplétion par fludarabine et cyclophosphamide. Jusqu'à 18 patients seront inclus, avec une escalade de dose. L'objectif est avant tout la tolérance, avec une première évaluation de la réponse clinique. L'analyse intermédiaire est prévue 90 jours après la perfusion. Le promoteur est l'université de Zhejiang.",
+ "interet": "Si la tolérance est acceptable et si des réponses sont observées, les CAR-T allogéniques pourraient devenir une option rapidement disponible pour les AHAI multi-réfractaires. L'étude ne permettra pas de conclure sur l'efficacité, mais elle donnera les premières données de sécurité dans cette indication.",
+ "profil": "Des adultes atteints d'AHAI (à anticorps chauds, maladie des agglutinines froides, forme mixte) en rechute ou réfractaire après au moins 3 lignes de traitement.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AHAI diagnostiquée (chaude, à agglutinines froides, mixte ou autre)",
+  "Rechute ou réfractaire après au moins 3 lignes, avec anémie symptomatique (Hb < 100 g/L)",
+  "Lymphocytes B CD19+ ou BCMA+ en cytométrie de flux",
+  "Neutrophiles ≥ 0,5 G/L, plaquettes ≥ 30 G/L, ALAT et ASAT ≤ 3 N, clairance de la créatinine ≥ 30 mL/min",
+  "ECOG ≤ 2",
+  "Contraception efficace pendant et 6 mois après le traitement"
+ ],
+ "exclusion": [
+  "Infection non contrôlée ou nécessitant un traitement (VHB, VHC, VIH, syphilis positifs)",
+  "Atteinte du système nerveux central d'origine auto-immune ou non",
+  "Insuffisance cardiaque ou insuffisance rénale terminale",
+  "Déficit immunitaire humoral congénital",
+  "Cancer dans les 5 ans, syndrome lymphoprolifératif associé",
+  "Autre maladie auto-immune ou rhumatismale active",
+  "Grossesse ou projet de grossesse"
+ ],
+ "bras": [
+  { "nom": "CAR-T allogéniques anti-CD19/BCMA", "traitement": "Une perfusion intraveineuse de CAR-T universelles après lymphodéplétion (fludarabine + cyclophosphamide), avec escalade de dose" }
+ ],
+ "duree": "Jusqu'à 24 mois de suivi",
+ "critere": "Toxicités limitantes de dose (28 jours), nombre et gravité des événements indésirables (90 jours) et réponse clinique (jusqu'à 24 mois)."
+}

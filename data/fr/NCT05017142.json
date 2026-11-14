@@ -1,0 +1,25 @@
+{
+ "h": "69ef746375fb",
+ "date": "2026-11-14",
+ "titre": "Registre suisse des maladies inflammatoires cérébrales de l'enfant",
+ "question": "Quelles sont les caractéristiques, la prise en charge et l'évolution des enfants atteints de maladie inflammatoire cérébrale en Suisse ?",
+ "contexte": "Les maladies inflammatoires cérébrales de l'enfant regroupent la sclérose en plaques à début pédiatrique, la névrite optique, la myélite transverse, l'encéphalomyélite aiguë disséminée, les maladies du spectre de la neuromyélite optique, le MOGAD, les encéphalites auto-immunes (anti-NMDAR, GAD65, LGI1, CASPR2 et autres), les vascularites et la sarcoïdose du SNC, le lupus cérébral et l'encéphalite de Rasmussen. Elles surviennent à une période essentielle du développement cérébral.\n\nElles peuvent laisser des déficits neurologiques focaux et des troubles cognitifs précoces, avec un retentissement scolaire et professionnel. Un diagnostic rapide, un traitement précoce et une prise en charge individualisée conditionnent le pronostic. Ces maladies sont rares, et les données pédiatriques reposent souvent sur de petites séries.\n\nLe registre national, ouvert à Berne en 2020, s'est étendu à de nombreux centres suisses. Il recueille le diagnostic, les symptômes, les traitements et le suivi des patients dont la maladie a débuté avant 18 ans et a été diagnostiquée depuis 2005, avec 500 patients attendus.",
+ "interet": "Le registre pourrait fournir des données nationales sur la fréquence, les délais diagnostiques et les traitements de ces maladies rares. Il servira de base pour des études ultérieures.",
+ "profil": "Des enfants, adolescents et jeunes adultes vivant ou traités en Suisse, atteints d'une maladie inflammatoire cérébrale à début avant 18 ans.",
+ "inclusion": [
+  "Résidence ou prise en charge en Suisse",
+  "Diagnostic posé depuis 2005 d'une des maladies inflammatoires cérébrales listées",
+  "Début de la maladie avant l'âge de 18 ans",
+  "Consentement écrit du patient ou de son représentant légal"
+ ],
+ "exclusion": [
+  "Symptômes neurologiques dus à une infection du système nerveux central",
+  "Cause génétique ou métabolique de démyélinisation centrale",
+  "Syndrome de Guillain-Barré"
+ ],
+ "bras": [
+  { "nom": "Population de patients", "traitement": "Enfants, adolescents et adultes ayant une maladie inflammatoire cérébrale à début pédiatrique, suivis dans le registre" }
+ ],
+ "duree": "Suivi de long terme (jusqu'à l'âge adulte et au-delà)",
+ "critere": "Recueil de données : diagnostic, âge au diagnostic, premiers symptômes, délai diagnostique, hospitalisation, rééducation, entre autres, jusqu'à l'âge adulte"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "d1d06c6dd38f",
+ "date": "2026-11-14",
+ "titre": "Thérapie génique par édition de base des cellules souches hématopoïétiques dans le DICS lié à l'X",
+ "question": "Des cellules souches hématopoïétiques autologues corrigées par édition de base du gène IL2RG sont-elles sûres et efficaces dans le déficit immunitaire combiné sévère lié à l'X ?",
+ "contexte": "Le déficit immunitaire combiné sévère lié à l'X (DICS-X) est une maladie génétique rare due à des mutations du gène IL2RG (chaîne gamma commune). Elle supprime les lymphocytes T et NK et altère les lymphocytes B. Le traitement de référence est l'allogreffe de cellules souches, idéalement géno-identique ; en l'absence de donneur, la thérapie génique par lentivecteur est une alternative. Certains patients restent avec une reconstitution immunitaire incomplète.\n\nL'édition de base corrige directement des mutations ponctuelles du gène sans coupure double brin. Cette phase 1/2 du NIAID inclut 18 hommes de 3 ans et plus, porteurs de l'une de quatre mutations précises d'IL2RG (p.Q144X, p.R289X, p.Q235X, p.R226H). Après mobilisation (plérixafor, filgrastim), les cellules souches sont prélevées, éditées, puis réinjectées après conditionnement par busulfan. Le suivi dure 15 ans, avec comparaison exploratoire à la thérapie génique par lentivecteur.",
+ "interet": "Elle pourrait ouvrir la voie à une thérapie génique de précision pour les patients sans donneur géno-identique. Le suivi à long terme documentera aussi les effets hors cible.",
+ "profil": "Des garçons et hommes de 3 ans et plus, ≥ 10 kg, porteurs d'un DICS-X avec une des mutations IL2RG ciblées.",
+ "inclusion": [
+  "Âge ≥ 3 ans et poids ≥ 10 kg ; DICS-X avec mutation IL2RG p.Q144X, p.R289X, p.Q235X ou p.R226H",
+  "Si greffe antérieure, ≥ 18 mois après",
+  "Survie attendue ≥ 120 jours, capacité à subir l'aphérèse",
+  "VIH négatif en PCR",
+  "Atteinte B sévère (IgG basses, absence de réponse vaccinale) ou besoin d'immunoglobulines IV",
+  "Critères biologiques de déficit T/NK/B et critères cliniques (infections, atteinte pulmonaire ou digestive, retard de croissance, etc.)",
+  "Contraception efficace pendant au moins 2 ans après le traitement"
+ ],
+ "exclusion": [
+  "Donneur HLA-identique intrafamilial disponible",
+  "Hypersensibilité ou contre-indication au busulfan",
+  "Cancer de l'enfant chez le patient ou un parent au 1er degré, ou prédisposition génétique connue",
+  "Refus de transmettre ses données au programme de distribution de l'alemtuzumab",
+  "Toute condition compromettant la sécurité ou le suivi"
+ ],
+ "bras": [
+  {
+   "nom": "Bras unique",
+   "traitement": "Plérixafor et filgrastim (mobilisation), palifermin, busulfan (conditionnement), puis perfusion unique de cellules souches et progénitrices base-éditées (IL2RG)"
+  }
+ ],
+ "duree": "Suivi de 15 ans",
+ "critere": "Fréquence et sévérité des événements indésirables liés au produit, de la perfusion à 12 mois."
+}

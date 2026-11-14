@@ -1,0 +1,30 @@
+{
+ "h": "65a7eacda377",
+ "date": "2026-11-14",
+ "titre": "ADN libre circulant pour détecter la myocardite active de la sarcoïdose cardiaque",
+ "question": "Le dosage de l'ADN libre circulant d'origine cardiaque permet-il de repérer une myocardite granulomateuse active chez les patients atteints de sarcoïdose ?",
+ "contexte": "La sarcoïdose est une granulomatose multisystémique d'étiologie inconnue. L'atteinte cardiaque, retrouvée à l'autopsie dans jusqu'à 25 % des cas et souvent infraclinique, peut se manifester par des troubles de conduction, des arythmies ventriculaires, une insuffisance cardiaque ou une mort subite. Elle représente 13 à 25 % des décès par sarcoïdose aux États-Unis.\n\nUn traitement immunosuppresseur peut faire régresser la myocardite active, préserver ou améliorer la fonction ventriculaire gauche et limiter les arythmies et la fibrose. Mais il n'existe pas de biomarqueur fiable de l'activité de la myocardite : BNP, ANP et troponines ont donné des résultats décevants, et le TEP-FDG, qui sert de référence, est contraignant et irradiant.\n\nL'ADN libre circulant (cfDNA) correspond à des fragments d'ADN libérés par des cellules mortes ou lésées. Une technique fondée sur les profils de méthylation des CpG propres à chaque tissu permet d'identifier l'organe d'origine du cfDNA. Cette étude pilote monocentrique compare le cfDNA cardiaque entre patients atteints de sarcoïdose avec ou sans myocardite active, patients en infarctus avec sus-décalage du segment ST (témoins de lésion myocardique aiguë) et témoins sains.",
+ "interet": "Un biomarqueur sanguin spécifique du cœur pourrait faciliter le dépistage de la myocardite active et le suivi de la réponse à l'immunosuppression, avec moins de recours à l'imagerie.",
+ "profil": "Des adultes atteints de sarcoïdose avec ou sans myocardite active, des patients en infarctus aigu du myocarde et des volontaires sains.",
+ "inclusion": [
+  "Sarcoïdose selon les critères ATS/ERS",
+  "Groupe sans myocardite : ECG normal depuis moins d'un an, sans immunosuppresseur depuis au moins un an, non fumeur",
+  "Groupe avec myocardite : myocardite active à l'IRM cardiaque ou au TEP-FDG récents, non fumeur",
+  "Groupe STEMI : sus-décalage du ST d'au moins 1 mm sur 2 dérivations contiguës, début des symptômes depuis moins de 12 heures, angioplastie, capable de consentir",
+  "Témoins sains : sans maladie cardiaque ni facteur de risque (hypertension, diabète), non fumeurs"
+ ],
+ "exclusion": [
+  "Tabagisme actif",
+  "Maladie cardiaque connue autre que la sarcoïdose",
+  "Traitement immunosuppresseur en cours (groupes sarcoïdose)",
+  "Instabilité hémodynamique (groupe STEMI)"
+ ],
+ "bras": [
+  { "nom": "Sarcoïdose sans myocardite active", "traitement": "Une prise de sang pour dosage du cfDNA" },
+  { "nom": "Sarcoïdose avec myocardite active", "traitement": "Deux prises de sang à 2 mois d'intervalle" },
+  { "nom": "Infarctus avec sus-décalage du ST", "traitement": "Trois prises de sang : initiale, à 6 heures et à 24 heures" },
+  { "nom": "Témoins sains", "traitement": "Une prise de sang" }
+ ],
+ "duree": "2 mois au maximum (groupe avec myocardite)",
+ "critere": "Taux de cfDNA, à l'inclusion et à 2 mois dans la sarcoïdose avec atteinte cardiaque, comparé aux témoins et à la sarcoïdose sans atteinte cardiaque ; à l'inclusion, 6 et 24 heures dans le STEMI"
+}

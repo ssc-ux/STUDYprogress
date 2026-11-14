@@ -1,0 +1,28 @@
+{
+ "h": "18957e335885",
+ "date": "2026-11-14",
+ "titre": "Déficit immunitaire commun variable et erreurs innées de l'immunité apparentées : étude d'histoire naturelle",
+ "question": "Comment évoluent le déficit immunitaire commun variable (DICV) et les erreurs innées de l'immunité apparentées, et quels mécanismes immunologiques expliquent leurs complications ?",
+ "contexte": "Le déficit immunitaire commun variable est le déficit immunitaire primitif symptomatique le plus fréquent de l'adulte. Il associe une baisse des IgG et d'au moins un autre isotype d'immunoglobuline, avec des infections récidivantes. Il se complique souvent d'atteintes respiratoires (granulomes, insuffisance pulmonaire), d'entéropathie, d'hyperplasie nodulaire régénérative du foie, de maladies auto-immunes et de lymphomes.\n\nLes substitutions en immunoglobulines réduisent les infections mais ne préviennent pas ces complications inflammatoires et auto-immunes, dont les mécanismes restent mal connus. Cette étude d'histoire naturelle de l'Institut national des allergies et maladies infectieuses (NIAID, États-Unis) suit des patients ayant un DICV ou une erreur innée de l'immunité apparentée (agammaglobulinémie liée à l'X, syndrome de Blau, syndrome de Yao). Elle associe des analyses de laboratoire sur l'immunopathogénie, un suivi clinique et un dépistage génétique chez des apparentés. Elle est observationnelle et ne teste aucun traitement.",
+ "interet": "L'étude vise à mieux caractériser les mécanismes et la progression des complications, afin d'améliorer le diagnostic, la prévention et, à terme, les traitements. Elle n'a pas d'impact direct sur la pratique courante, mais constitue une base de connaissances.",
+ "profil": "Des patients de 2 ans et plus ayant un DICV ou une erreur innée de l'immunité apparentée, adressés par leur médecin, et certains apparentés.",
+ "inclusion": [
+  "Diagnostic vérifiable de DICV (baisse des IgG et d'au moins un autre isotype sous 2 écarts-types) ou déficit B apparenté",
+  "Âge de 2 ans ou plus",
+  "Infections répétées avec suspicion d'erreur innée de l'immunité",
+  "Adressé par le médecin traitant",
+  "Accord pour la conservation d'échantillons de recherche",
+  "Apparentés (parents, fratrie, grands-parents, enfants, oncles, tantes, cousins) pouvant être sollicités pour un prélèvement"
+ ],
+ "exclusion": [
+  "Autre maladie empêchant les examens diagnostiques ou immunologiques de routine",
+  "Affection ou traitement pouvant gêner l'évaluation (VIH, chimiothérapie cytotoxique, cancer)",
+  "Grossesse au moment de l'inclusion (les patientes déjà incluses peuvent poursuivre)",
+  "Adulte incapable de donner lui-même son consentement"
+ ],
+ "bras": [
+  {"nom": "Population générale", "traitement": "Patients adressés par un médecin, suivis par des examens biologiques, cliniques et d'imagerie, sans intervention thérapeutique"}
+ ],
+ "duree": "Non précisé (suivi au long cours, étude en cours depuis 1990)",
+ "critere": "Évolution et rythme de la maladie à 1 an et au long cours, évaluation des atteintes d'organe liées à l'anomalie immunitaire, et caractérisation des anomalies immunitaires"
+}

@@ -1,0 +1,26 @@
+{
+ "h": "3b3c75744222",
+ "date": "2026-11-14",
+ "titre": "Registre de patients atteints de sarcoïdose (Foundation for Sarcoidosis Research)",
+ "question": "Comment décrire l'histoire naturelle et le vécu des patients atteints de sarcoïdose à partir de données rapportées par eux-mêmes ?",
+ "contexte": "La sarcoïdose est une granulomatose systémique de cause inconnue, qui touche surtout les poumons mais aussi la peau, les yeux, le cœur ou le système nerveux. Son évolution est très variable, de la guérison spontanée aux formes chroniques invalidantes. Les corticoïdes restent le traitement de référence, avec des alternatives immunosuppressives (méthotrexate, anti-TNF) dans les formes sévères ou réfractaires.\n\nLes données sur l'histoire naturelle, le parcours diagnostique et le fardeau de la maladie du point de vue du patient restent limitées. Ce registre américain, promu par une fondation de patients, recueille en ligne des données rapportées par les patients : démographie, symptômes, parcours diagnostique, expérience des soignants, traitements et retentissement. Les participants peuvent aussi lier leur dossier médical informatisé et sont recontactés chaque année. Les données anonymisées pourront être partagées avec des chercheurs.",
+ "interet": "Ce registre pourrait fournir une description de l'histoire naturelle de la sarcoïdose et aider à identifier les besoins non couverts. Il ne teste aucune intervention.",
+ "profil": "Des personnes de 7 ans et plus, anglophones, ayant un diagnostic de sarcoïdose.",
+ "inclusion": [
+  "Diagnostic de sarcoïdose",
+  "Âge ≥ 7 ans",
+  "Anglophone",
+  "Consentement (ou assentiment pour les 7-18 ans)"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de sarcoïdose",
+   "traitement": "Questionnaire initial en ligne puis mise à jour annuelle ; liaison facultative du dossier médical"
+  }
+ ],
+ "duree": "Suivi annuel au long cours (jusqu'en 2033)",
+ "critere": "Réalisation complète du questionnaire initial, dans un délai maximal de 6 mois."
+}

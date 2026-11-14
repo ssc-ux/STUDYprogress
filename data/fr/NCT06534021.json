@@ -1,0 +1,41 @@
+{
+ "h": "68ec74bb0725",
+ "date": "2026-11-14",
+ "titre": "IASO-782 dans le PTI et l'anémie hémolytique auto-immune à anticorps chauds",
+ "question": "L'IASO-782 en dose unique est-il bien toléré chez des patients avec PTI ou AHAI à anticorps chauds ?",
+ "contexte": "Le PTI et l'anémie hémolytique auto-immune à anticorps chauds (AHAI) sont deux maladies auto-immunes hématologiques où des auto-anticorps détruisent plaquettes ou hématies. Après les corticoïdes viennent le rituximab, les immunosuppresseurs, la splénectomie et, pour le PTI, les agonistes de la TPO. Certains patients restent réfractaires ou rechutent.\n\nCet essai chinois de phase 1a, randomisé en double aveugle contre placebo, du laboratoire IASO Biotechnology, évalue la tolérance d'une dose unique intraveineuse d'IASO-782 (6 mg/kg ou 10 mg/kg) chez environ 16 patients de 18 à 65 ans en échec ou en rechute après au moins un traitement. La nature de la molécule n'est pas précisée dans le registre. Les résultats permettront de choisir des doses pour une phase 1b.",
+ "interet": "Il fournira des premières données de tolérance et de dose d'un traitement nouveau dans deux maladies auto-immunes hématologiques.",
+ "profil": "Des adultes de 18 à 65 ans avec PTI ou AHAI à anticorps chauds, en échec ou en rechute après au moins un traitement.",
+ "inclusion": [
+  "Âge 18-65 ans",
+  "PTI ou AHAI à anticorps chauds confirmés",
+  "Échec ou rechute après au moins un traitement",
+  "Dose stable d'immunosuppresseurs depuis 4 semaines",
+  "Fonctions d'organes globalement normales",
+  "Contraception efficace, test de grossesse négatif",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Autre cancer primitif dans les 5 ans",
+  "Destruction hématopoïétique secondaire à une autre maladie",
+  "Maladie cardiaque dans les 3 mois, hypertension non contrôlée",
+  "Allergie à un composant du médicament",
+  "Infection nécessitant un traitement IV dans les 30 jours",
+  "Grossesse ou allaitement",
+  "Autre médicament expérimental dans les 30 jours ou 5 demi-vies",
+  "PTI : antécédent de thrombose ou myélofibrose ≥ 2",
+  "VIH, VHB ou VHC non contrôlés ou déficit immunitaire"
+ ],
+ "bras": [
+  {
+   "nom": "IASO-782",
+   "traitement": "Dose unique de 6 mg/kg ou 10 mg/kg en perfusion intraveineuse au jour 1"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Dose unique de placebo en perfusion intraveineuse au jour 1"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Nombre de participants avec événements indésirables (CTCAE v5.0), jusqu'à 12 semaines."
+}

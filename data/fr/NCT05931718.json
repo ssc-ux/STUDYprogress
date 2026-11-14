@@ -1,0 +1,40 @@
+{
+ "h": "085d61aefc0c",
+ "date": "2026-11-14",
+ "titre": "Évaluation prospective du diagnostic et du traitement des cytopénies auto-immunes",
+ "question": "Quels outils diagnostiques et facteurs pronostiques caractérisent les cytopénies auto-immunes, et comment évoluent-elles vers un syndrome myélodysplasique ?",
+ "contexte": "Les cytopénies auto-immunes regroupent l'anémie hémolytique auto-immune (AHAI), le purpura thrombopénique immunologique (PTI) et la neutropénie chronique idiopathique ou auto-immune. Leur diagnostic repose sur des tests immuno-hématologiques de sensibilité variable, et la réponse aux traitements est difficile à prévoir. Certaines cytopénies considérées comme auto-immunes évoluent en réalité vers un syndrome myélodysplasique (SMD).\n\nCette étude observationnelle de la fondation IRCCS Ca' Granda (Milan) inclut des adultes au diagnostic d'AHAI, de PTI ou de neutropénie auto-immune, avec 3 ans de suivi. Elle évalue des outils classiques et nouveaux (immunohématologie, cytokines, moelle osseuse, séquençage NGS, microbiote fécal), la séquence des traitements, les réponses et les événements indésirables. Un sous-groupe de patients avec SMD permet d'étudier l'activation auto-immune et le métabolisme des globules rouges.",
+ "interet": "Elle pourrait améliorer le diagnostic différentiel des cytopénies auto-immunes et des SMD, et identifier des prédicteurs de réponse aux traitements.",
+ "profil": "Des adultes atteints d'AHAI, de PTI, de neutropénie chronique idiopathique ou auto-immune, et un sous-groupe avec SMD.",
+ "inclusion": [
+  "Cytopénie auto-immune (AHAI, PTI, neutropénie idiopathique ou auto-immune)",
+  "Âge ≥ 18 ans",
+  "Consentement éclairé possible",
+  "Disponibilité pour 3 ans de suivi",
+  "SMD : dysplasie ≥ 10 % d'au moins une lignée avec cytopénie ou cytogénétique définissant le SMD"
+ ],
+ "exclusion": [
+  "Situation empêchant le consentement éclairé",
+  "Cytopénie immune diagnostiquée depuis 6 mois ou plus avant l'inclusion"
+ ],
+ "bras": [
+  {
+   "nom": "AHAI",
+   "traitement": "Inclusion au diagnostic, stratifiée selon le type (chaude, froide, mixte, atypique), prélèvements sanguins et de selles"
+  },
+  {
+   "nom": "PTI",
+   "traitement": "Inclusion au diagnostic, prélèvements sanguins et de selles, moelle si indiquée"
+  },
+  {
+   "nom": "Neutropénie chronique idiopathique ou auto-immune",
+   "traitement": "Inclusion au diagnostic, prélèvements sanguins et de selles, moelle si indiquée"
+  },
+  {
+   "nom": "Syndromes myélodysplasiques",
+   "traitement": "Inclusion au diagnostic, prélèvements sanguins et étude du métabolisme érythrocytaire"
+  }
+ ],
+ "duree": "3 ans de suivi",
+ "critere": "Sensibilité et spécificité des tests d'autoanticorps et sensibilité de la biopsie ostéomédullaire dans les cytopénies auto-immunes, sur la période 2021-2026."
+}

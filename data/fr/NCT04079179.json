@@ -1,0 +1,33 @@
+{
+ "h": "4c7a404891e0",
+ "date": "2026-11-14",
+ "titre": "Cobimetinib dans l'histiocytose langerhansienne réfractaire et les autres histiocytoses",
+ "question": "Le cobimetinib, inhibiteur de MEK, est-il efficace et sûr dans l'histiocytose langerhansienne (LCH) et autres histiocytoses en rechute ou réfractaires ?",
+ "contexte": "Les histiocytoses (LCH, xanthogranulome juvénile, maladie d'Erdheim-Chester, maladie de Rosai-Dorfman, sarcome histiocytaire) sont des maladies rares dues à l'accumulation de cellules histiocytaires porteuses de mutations activant la voie des MAP kinases, notamment BRAF-V600E. Elles peuvent toucher presque tous les organes. Une forme particulière de LCH évolue vers une neurodégénérescence (LCH-ND), liée à l'inflammation cérébrale induite par ces cellules.\n\nLes traitements de première ligne de la LCH (vinblastine et prednisone chez l'enfant) laissent une proportion de patients en rechute ou réfractaires. Les inhibiteurs de BRAF et de MEK ont montré une activité dans ces maladies, y compris dans la maladie d'Erdheim-Chester, mais les rechutes à l'arrêt sont fréquentes et les données sont limitées pour les formes neurodégénératives.\n\nCette étude de phase 2 (NACHO-COBI), promue par Carl Allen (Baylor College of Medicine) avec le North American Consortium for Histiocytosis et Genentech, évalue le cobimetinib par voie entérale dans quatre groupes : LCH récidivante avant 21 ans, LCH-ND progressive de tout âge, autres histiocytoses avant 21 ans, et adultes de 21 ans et plus. Le critère principal est le taux de réponse globale à 12 mois selon des critères RECIST modifiés.",
+ "interet": "L'étude pourrait établir le rôle du cobimetinib comme traitement des histiocytoses réfractaires, y compris la LCH neurodégénérative et la maladie d'Erdheim-Chester de l'adulte, pour lesquelles les options sont limitées.",
+ "profil": "Des enfants et adultes de plus de 6 mois atteints de LCH réfractaire, de LCH neurodégénérative ou d'une autre histiocytose active.",
+ "inclusion": [
+  "LCH prouvée par biopsie avec échec d'au moins un traitement de première ligne et maladie évaluable, ou LCH-ND avec progression radiologique ou clinique dans les 3 derniers mois",
+  "Ou JXG, ECD, RDD ou sarcome histiocytaire prouvé par biopsie, nouveau ou en rechute, avec maladie active évaluable",
+  "Âge d'au moins 6 mois (groupes 1 et 3 : moins de 21 ans ; groupe 4 : 21 ans et plus) ; capacité à avaler des comprimés depuis février 2026",
+  "Karnofsky ou Lansky d'au moins 50 %",
+  "Fonctions hématologique, rénale, hépatique et cardiaque adéquates (FEVG d'au moins 50 %)",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Inhibiteurs ou inducteurs puissants du CYP3A4 dans les 14 jours précédents",
+  "Traitement anticancéreux, immunothérapie ou thérapie expérimentale dans les 28 jours précédents ; tout traitement antérieur par cobimetinib",
+  "Autre cancer actif ou antécédent de cancer secondaire",
+  "Antécédent de pneumopathie, d'occlusion veineuse rétinienne ou de pathologie rétinienne",
+  "Maladie cardiaque significative (insuffisance cardiaque NYHA II ou plus, infarctus dans les 3 mois, arythmie instable)",
+  "VIH chronique, hémorragie du SNC, grossesse ou allaitement, enfant de moins de 20 kg (depuis février 2026)"
+ ],
+ "bras": [
+  { "nom": "Groupe 1", "traitement": "Cobimetinib oral, enfants et jeunes de moins de 21 ans avec LCH récidivante" },
+  { "nom": "Groupe 2", "traitement": "Cobimetinib oral, patients de tout âge avec LCH neurodégénérative progressive" },
+  { "nom": "Groupe 3", "traitement": "Cobimetinib oral, moins de 21 ans avec autre histiocytose (JXG, ECD, sarcome histiocytaire, RDD)" },
+  { "nom": "Groupe 4", "traitement": "Cobimetinib oral, adultes de 21 ans et plus avec LCH ou autre histiocytose" }
+ ],
+ "duree": "Au moins 12 mois de traitement et d'évaluation",
+ "critere": "Taux de réponse globale selon les critères RECIST modifiés, à 12 mois"
+}

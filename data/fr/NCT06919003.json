@@ -1,0 +1,41 @@
+{
+ "h": "eab740e81703",
+ "date": "2026-11-14",
+ "titre": "Injection intragreffon d'inhibiteur de la C1 estérase (Berinert) dans les greffes rénales de donneur décédé à risque",
+ "question": "Une injection unique de C1-inhibiteur dans l'artère rénale du greffon avant la greffe améliore-t-elle la fonction rénale à 12 mois chez les receveurs de greffons de donneurs décédés à haut risque ?",
+ "contexte": "Les greffons rénaux de donneurs décédés, surtout à profil de risque élevé (KDPI élevé) et à ischémie froide prolongée, ont plus souvent une reprise retardée de fonction et une moins bonne fonction à long terme. Les lésions d'ischémie-reperfusion activent le complément et la voie du contact, avec inflammation et dommage endothélial.\n\nLe C1-inhibiteur (Berinert), utilisé dans l'angioedème héréditaire, inhibe le complément, la cascade de la coagulation et du contact. Une administration directe dans le greffon avant l'implantation vise à protéger l'organe localement. Cette phase 2 randomisée en double aveugle contre placebo (sérum physiologique), promue par le NIAID (États-Unis), inclut 180 adultes de 18 à 75 ans en attente d'un greffon de donneur décédé à haut risque (KDPI 21-95 % avec ischémie froide ≥ 12 h, ou ≥ 24 h si KDPI 21-34 %).",
+ "interet": "Si elle est positive, elle pourrait fournir une stratégie simple, appliquée à l'organe, pour améliorer le devenir des greffons marginaux, sans immunosuppression supplémentaire pour le receveur.",
+ "profil": "Des adultes de 18 à 75 ans dialysés, en attente d'une greffe rénale de donneur décédé à haut risque.",
+ "inclusion": [
+  "Adulte dialysé chronique inscrit sur liste d'attente de greffe de donneur décédé",
+  "Compatibilité ABO, crossmatch négatif et absence d'anticorps anti-HLA spécifiques du donneur",
+  "KDPI 21-95 % ; ischémie froide anticipée ≥ 12 h (≥ 24 h si KDPI 21-34 %)",
+  "Coagulation normale",
+  "Contraception efficace pendant 12 mois (contraception orale estrogénique exclue les 3 premiers mois)",
+  "Hépatite C guérie, ou receveur négatif d'un organe VHC positif avec traitement prévu"
+ ],
+ "exclusion": [
+  "Greffe d'un autre organe antérieure ou prévue, greffe de reins en bloc",
+  "Rein ayant reçu une perfusion normothermique ex vivo",
+  "Trouble prothrombotique ou antécédent de thrombose, AVC dans les 6 mois",
+  "IMC ≥ 40 kg/m²",
+  "Angioedème héréditaire ou C1-INH dans les 15 jours, hypersensibilité à Berinert",
+  "Anticoagulant ou antiagrégant chronique (aspirine et AINS autorisés)",
+  "Cancer actif ou en rémission depuis < 5 ans (sauf exceptions)",
+  "AgHBs positif, VIH, infection active",
+  "Immunomodulateurs (rituximab, bélatacept, éculizumab, anti-JAK, anti-TNF)",
+  "Vaccin vivant dans les 4 semaines, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Berinert",
+   "traitement": "Injection unique de C1-inhibiteur (Berinert) dans l'artère rénale du greffon avant la greffe"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Injection de sérum physiologique d'aspect identique à Berinert"
+  }
+ ],
+ "duree": "12 mois après la greffe",
+ "critere": "Différence de fonction rénale entre les bras (DFGe CKD-EPI) à 12 mois après la greffe."
+}

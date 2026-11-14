@@ -1,0 +1,26 @@
+{
+ "h": "d8afae63cbec",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle et immunologie du syndrome d'activation macrophagique secondaire (sHLH)",
+ "question": "Quels mécanismes immunologiques sous-tendent le syndrome hémophagocytaire secondaire de l'adulte ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (HLH) est un syndrome d'activation immunitaire excessive avec fièvre persistante, hyperferritinémie et cytopénies, pouvant évoluer vers une défaillance multiviscérale. Les formes primitives sont génétiques. Les formes secondaires (sHLH) surviennent chez l'adulte dans un contexte d'infection, de cancer, de maladie auto-immune (syndrome d'activation macrophagique) ou d'autres affections, sans cause génétique évidente.\n\nOn ne sait pas pourquoi certains patients développent une sHLH, le diagnostic est difficile et les traitements (corticoïdes, étoposide, anakinra, ruxolitinib, emapalumab) sont peu codifiés.\n\nCette étude d'histoire naturelle du NIAID, multicentrique, inclut des adultes répondant aux critères HLH-2004, à un HScore élevé ou aux critères ACR 2016 du MAS. Les patients ont au moins trois évaluations cliniques sur 9 à 12 mois avec prélèvements sanguins. Les analyses portent sur l'activation de l'inflammasome, la cytotoxicité et la voie JAK-STAT. Aucun traitement n'est imposé.",
+ "interet": "Elle pourrait identifier des biomarqueurs et des voies immunologiques ciblables, et aider à mieux diagnostiquer et traiter les sHLH.",
+ "profil": "Des adultes de 18 ans et plus ayant un syndrome hémophagocytaire secondaire établi.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "sHLH selon les critères HLH-2004, un HScore > 168 (> 134 sans myélogramme), ou les critères ACR 2016 du MAS en cas de maladie rhumatologique",
+  "Accord pour le stockage et le partage des données et échantillons"
+ ],
+ "exclusion": [
+  "Grossesse en cours",
+  "Toute condition faisant courir un risque excessif selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "sHLH",
+   "traitement": "Évaluations cliniques et prélèvements sanguins ; soins courants sans traitement imposé"
+  }
+ ],
+ "duree": "9 à 12 mois (suivi annuel facultatif pendant 3 ans)",
+ "critere": "Identification des mécanismes immunologiques impliqués dans la pathogenèse de la sHLH, jusqu'à la fin de l'étude."
+}

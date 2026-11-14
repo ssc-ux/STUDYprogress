@@ -1,0 +1,25 @@
+{
+ "h": "4556475fede7",
+ "date": "2026-11-14",
+ "titre": "Cardiomyopathies : marqueurs cliniques et microARN pour repérer les patients candidats à la greffe cardiaque",
+ "question": "Des marqueurs cliniques, d'imagerie et moléculaires (microARN, transcriptomique spatiale) permettent-ils de stratifier le risque d'évolution vers l'insuffisance cardiaque terminale ou la greffe ?",
+ "contexte": "Les cardiomyopathies regroupent des formes hypertrophiques (sarcomériques, maladie de Fabry, amylose AL ou à transthyrétine), dilatées et arythmogènes. Leur évolution est très variable : certains patients restent stables, d'autres évoluent vers l'insuffisance cardiaque réfractaire, les arythmies ventriculaires ou la mort subite, et relèvent de la greffe cardiaque. Les outils actuels de stratification du risque restent imparfaits.\n\nLes microARN circulants et tissulaires, ainsi que la transcriptomique spatiale sur biopsie, sont des pistes pour identifier de nouveaux marqueurs diagnostiques et pronostiques. Cette cohorte nationale multicentrique, avec volets rétrospectif (données depuis 1990) et prospectif, est coordonnée par l'IRCCS de Bologne avec les centres de Florence et de Rome (Gemelli). Elle associe ECG, échocardiographie, IRM cardiaque, biopsie, génétique et analyses moléculaires chez 700 patients.",
+ "interet": "Elle pourrait fournir des biomarqueurs et des scores aidant à repérer plus tôt les patients à haut risque et à décider de l'orientation vers la transplantation.",
+ "profil": "Des patients de 12 ans et plus atteints de cardiomyopathie (hypertrophique, dilatée, arythmogène, infiltrative, etc.).",
+ "inclusion": [
+  "Cardiomyopathie diagnostiquée selon les recommandations internationales actuelles",
+  "Âge ≥ 12 ans au diagnostic",
+  "Consentement du patient (et du représentant légal si < 18 ans)"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de cardiomyopathies",
+   "traitement": "Patients suivis avec évaluation clinique, ECG, échographie, IRM, biopsie, génétique et analyses de microARN ; volets rétrospectif et prospectif (observationnel)"
+  }
+ ],
+ "duree": "Suivi de 2 ans (inclusion sur 30 mois)",
+ "critere": "Stratification du risque (inclusion sur 30 mois, suivi de 2 ans, analyse sur 6 mois)."
+}

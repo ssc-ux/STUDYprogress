@@ -1,0 +1,30 @@
+{
+ "h": "4cdb43996c2e",
+ "date": "2026-11-14",
+ "titre": "Autogreffe de cellules souches dans l'amylose AL : étude observationnelle chinoise",
+ "question": "Quelles sont l'efficacité, la sécurité et les facteurs pronostiques de l'autogreffe de cellules souches dans l'amylose AL, et quel est le rôle des traitements d'induction et d'entretien ?",
+ "contexte": "L'amylose AL est due à des plasmocytes clonaux qui produisent des chaînes légères d'immunoglobulines se déposant sous forme de fibrilles dans les organes, notamment le cœur et les reins. Le pronostic dépend de l'atteinte cardiaque et de la rapidité de la réponse hématologique.\n\nChez des patients sélectionnés, l'autogreffe de cellules souches après melphalan à haute dose (140 ou 200 mg/m²) permet d'obtenir des réponses hématologiques profondes. Depuis l'arrivée du bortézomib, du daratumumab et d'autres agents, la place de l'autogreffe, le choix de l'induction, la consolidation et l'entretien sont réévalués et restent débattus, y compris selon les caractéristiques cytogénétiques du clone plasmocytaire.\n\nCette étude de l'École de médecine de l'Université de Nanjing comporte deux parties. La première analyse rétrospectivement les patients atteints d'amylose AL autogreffés de juillet 2010 à décembre 2019, avec analyse de sous-groupes selon l'induction, la FISH plasmocytaire, la cytométrie en flux, l'atteinte d'organe et l'entretien. La seconde est prospective. Les objectifs sont l'efficacité et la sécurité de l'autogreffe, le rôle de l'induction et de l'entretien, et les facteurs de risque à long terme.",
+ "interet": "Les résultats pourraient aider à situer l'autogreffe à l'ère des nouveaux agents et à identifier les patients et schémas associés aux meilleures réponses hématologiques et d'organe.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'amylose AL nouvellement diagnostiquée et éligibles à l'autogreffe.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Amylose AL nouvellement diagnostiquée",
+  "Candidat à l'autogreffe de cellules souches hématopoïétiques",
+  "Protéine monoclonale ou chaînes légères libres anormales (sérum et/ou urine)",
+  "ECOG de 0 à 2",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Myélome multiple",
+  "Hypersensibilité à l'un des médicaments du traitement",
+  "Maladie cardiovasculaire sévère",
+  "Maladie physique ou psychiatrique grave",
+  "Autre situation jugée incompatible avec la greffe par les investigateurs"
+ ],
+ "bras": [
+  { "nom": "Patients autogreffés", "traitement": "Mobilisation par facteur de croissance, melphalan à haute dose (140 ou 200 mg/m²) puis autogreffe, avec induction et entretien variables" }
+ ],
+ "duree": "Jusqu'à 5 ans de suivi",
+ "critere": "Survie globale et survie sans progression à 5 ans ; taux de réponse hématologique complète et taux de réponse d'organe à 1 an"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "90f9f88c96e5",
+ "date": "2026-11-14",
+ "titre": "Prise en charge préemptive modifiée du CMV après allogreffe de cellules souches et fonction immunitaire innée",
+ "question": "Une stratégie préemptive individualisée de gestion du CMV, guidée par la charge virale et des marqueurs d'immunosuppression, est-elle efficace et sûre après allogreffe ?",
+ "contexte": "La réactivation du cytomégalovirus (CMV) est fréquente après allogreffe de cellules souches hématopoïétiques et peut entraîner des pneumopathies et une surmortalité. Le traitement préemptif par ganciclovir, valganciclovir ou foscarnet, déclenché sur la charge virale plasmatique, limite ces complications mais expose à une toxicité médullaire et à une immunosuppression supplémentaire.\n\nCette étude observationnelle du City of Hope (États-Unis) évalue une stratégie préemptive modifiée : la charge virale est surveillée par PCR quantitative avec des marqueurs cliniques d'immunosuppression, pour optimiser l'usage du ganciclovir. Les patients reçoivent un traitement antiviral pendant 2 semaines ou jusqu'à négativation de la PCR, avec des cures supplémentaires en cas de nouvelle réactivation. Des analyses de laboratoire explorent aussi le rôle des gènes KIR du donneur, de la fonction des cellules NK et de la reconstitution des lymphocytes T dans la protection contre le CMV.",
+ "interet": "L'étude pourrait aider à individualiser la gestion du CMV après greffe et à identifier des facteurs immunologiques prédictifs de réactivation. Les résultats ne sont pas encore au registre.",
+ "profil": "Des adultes recevant une première allogreffe de cellules souches, T-repléte, avec donneur compatible, pour une hémopathie ou une aplasie médullaire, avec un CMV séropositif (donneur et/ou receveur).",
+ "inclusion": [
+  "Hémopathie maligne ou apparentée, y compris aplasie médullaire et syndrome myélodysplasique",
+  "Première allogreffe de cellules souches périphériques ou médullaires, non déplétée en lymphocytes T, d'un donneur HLA compatible non apparenté ou de fratrie non jumeau",
+  "CMV séropositif chez le donneur et/ou le receveur",
+  "Éligibilité à la greffe déjà établie au City of Hope",
+  "Fonctions d'organe équivalentes à celles requises pour la greffe",
+  "Consentement écrit signé par le patient lui-même"
+ ],
+ "exclusion": [
+  "PCR CMV positive dans le sang ou atteinte d'organe liée au CMV dans les 12 mois précédents",
+  "Cellules souches déplétées en lymphocytes T",
+  "Traitement de la GvHD incluant une déplétion T in vivo",
+  "VIH-1 positif",
+  "Absence d'allogreffe antérieure (autogreffe antérieure autorisée)"
+ ],
+ "bras": [
+  {"nom": "Bras I", "traitement": "Prise en charge antivirale standard par ganciclovir, valganciclovir ou foscarnet pendant 2 semaines ou jusqu'à négativation de la charge virale CMV, avec cures supplémentaires si nouvelle réactivation"}
+ ],
+ "duree": "Suivi jusqu'à 1 an",
+ "critere": "Début d'un traitement anti-CMV au jour 80 après la greffe, et diagnostic de pneumopathie à CMV à 1 an"
+}

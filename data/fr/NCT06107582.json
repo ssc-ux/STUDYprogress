@@ -1,0 +1,25 @@
+{
+ "h": "16df3dbd4ec7",
+ "date": "2026-11-14",
+ "titre": "Cohorte longitudinale du PTI primaire pédiatrique en Chine",
+ "question": "Quelles sont les caractéristiques, les traitements et le pronostic du PTI primaire de l'enfant en Chine, au long cours ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune rare de l'enfant, avec destruction plaquettaire et syndrome hémorragique cutanéo-muqueux. Les traitements comprennent corticoïdes, immunoglobulines, agonistes du récepteur de la TPO, rituximab, splénectomie et immunosuppresseurs.\n\nLes cohortes pédiatriques chinoises existantes reposent sur un seul centre ou des centres peu nombreux, sans grande série prospective. Une cohorte longitudinale permet de décrire les caractéristiques cliniques, le rapport bénéfice-risque des traitements, notamment des thérapies ciblées récentes, et d'établir des modèles pronostiques.\n\nCette étude de l'Institute of Hematology & Blood Diseases Hospital inclut 500 enfants de 6 à 17 ans. Les données cliniques et thérapeutiques sont extraites des dossiers, l'exposition est recueillie par questionnaire et l'évolution est suivie de façon prospective.",
+ "interet": "Cette cohorte devrait fournir des données de vie réelle sur les réponses aux traitements, la durée de réponse et les rechutes du PTI de l'enfant, base d'un modèle pronostique.",
+ "profil": "Des enfants et adolescents de 6 à 17 ans atteints de PTI primaire.",
+ "inclusion": [
+  "Âge de 6 à 17 ans",
+  "Diagnostic de PTI selon les critères du groupe de travail international"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (connectivite, insuffisance médullaire, SMD, cancer, médicaments, thrombopénie héréditaire, DICV, lymphome)",
+  "Durée de suivi prévue inférieure à 3 mois"
+ ],
+ "bras": [
+  {
+   "nom": "PTI primaire pédiatrique",
+   "traitement": "Cohorte observationnelle avec recueil de données, traitements selon la pratique habituelle"
+  }
+ ],
+ "duree": "3 ans",
+ "critere": "Taux de réponse globale, délai et durée de réponse, réponse prolongée, traitements d'urgence, saignements significatifs et survie sans rechute, sur 3 ans."
+}

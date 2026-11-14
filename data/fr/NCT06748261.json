@@ -1,0 +1,14 @@
+{
+ "h": "3a9fbbee7235",
+ "date": "2026-11-14",
+ "titre": "Dépistage des cardiomyopathies par intelligence artificielle sur le coroscanner",
+ "question": "Une IA appliquée au coroscanner peut-elle dépister et classer les cardiomyopathies chez des patients suspects de maladie coronaire ?",
+ "contexte": "Les maladies cardiovasculaires sont la première cause de mortalité dans le monde. Le coroscanner est très utilisé pour évaluer la charge athéromateuse coronaire, tandis que l'IRM cardiaque reste la référence pour le diagnostic des cardiomyopathies. L'IRM est cependant coûteuse, longue et peu disponible.\n\nLe coroscanner contient des informations sur la morphologie et le myocarde qui ne sont pas exploitées en routine pour détecter les cardiomyopathies : hypertrophique, dilatée, restrictive, amylose cardiaque, myocardite, dysplasie arythmogène du ventricule droit ou cardiopathie ischémique. L'IA peut apprendre des motifs d'imagerie sans effort manuel important. Cette étude de l'hôpital Zhongshan de Shanghai prévoit de développer et valider un modèle d'IA de classification multi-étiquettes sur coroscanner, avec 5 000 sujets. Les diagnostics cliniques tirés du dossier médical complet servent de référence. Les témoins sont des personnes ayant eu un coroscanner sans maladie cardiovasculaire.",
+ "interet": "Si le modèle est performant, il pourrait détecter des cardiomyopathies passées inaperçues, dont l'amylose cardiaque, à partir d'examens déjà réalisés. Il s'agit d'une étude de développement, pas encore d'une validation clinique prospective.",
+ "profil": "Des patients avec cardiomyopathie diagnostiquée et ayant eu un coroscanner, et des témoins sans maladie cardiovasculaire.",
+ "inclusion": ["Cardiomyopathie : hypertrophique, dilatée, restrictive, amylose, myocardite, dysplasie arythmogène du ventricule droit ou cardiopathie ischémique", "Au moins un coroscanner avant chirurgie ou implantation", "Témoins : au moins un coroscanner"],
+ "exclusion": ["Cardiomyopathie non diagnostiquée ou de type indéterminé", "Atteinte cardiaque secondaire à une autre maladie organique ou systémique", "Chirurgie ou dispositif implantable avant le coroscanner", "Témoins : maladie cardiovasculaire (cardiomyopathie, infarctus, chirurgie cardiaque, stent, défibrillateur) ou atteinte cardiaque secondaire"],
+ "bras": [{"nom": "Cohorte cardiomyopathie", "traitement": "Modèle d'IA appliqué au coroscanner, diagnostic clinique du dossier comme référence"}, {"nom": "Cohorte témoin", "traitement": "Modèle d'IA appliqué au coroscanner de sujets sans maladie cardiovasculaire"}],
+ "duree": "Examen unique (analyse rétrospective de scanners)",
+ "critere": "Performance diagnostique du modèle d'IA sur le coroscanner réalisé avant traitement chirurgical ou interventionnel."
+}

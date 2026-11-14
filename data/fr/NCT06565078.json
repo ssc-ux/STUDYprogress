@@ -1,0 +1,14 @@
+{
+ "h": "1e7cd490fc31",
+ "date": "2026-11-14",
+ "titre": "Sécurité des immunoglobulines sous-cutanées 20 % dans les déficits immunitaires primitifs (Japon)",
+ "question": "Quelle est la fréquence des événements indésirables graves sous immunoglobulines sous-cutanées 20 % chez les patients japonais avec déficit immunitaire primitif ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP) regroupent des maladies génétiques de l'immunité, dont le déficit immunitaire commun variable et l'agammaglobulinémie. Le traitement de référence des formes avec défaut de production d'anticorps est la substitution à vie en immunoglobulines humaines, par voie intraveineuse ou sous-cutanée.\n\nLa voie sous-cutanée permet un traitement à domicile avec des taux d'IgG plus stables et moins d'effets systémiques. Les risques rares mais importants des immunoglobulines sont les réactions anaphylactiques, les événements thromboemboliques et les méningites aseptiques. Le produit étudié est une solution à 20 % d'immunoglobulines sous-cutanées (Cuvitru), commercialisée au Japon. Cette étude est une enquête post-commercialisation, rétrospective, qui exploite le registre japonais des DIP (PIDJ2). Elle est promue par Takeda et vise à documenter la sécurité en pratique réelle, conformément aux obligations de surveillance après mise sur le marché. Elle n'implique aucune intervention supplémentaire pour les patients.",
+ "interet": "L'étude apportera des données de sécurité en vie réelle sur ces immunoglobulines dans une population japonaise. Elle ne changera probablement pas la pratique en France, mais complète la connaissance du profil de tolérance des immunoglobulines sous-cutanées.",
+ "profil": "Des patients japonais avec DIP inscrits dans le registre PIDJ2 et traités par immunoglobulines sous-cutanées 20 %.",
+ "inclusion": ["DIP inscrit dans le registre PIDJ2", "Médicament de l'étude renseigné dans le champ thérapeutique", "Diagnostic de maladie rare correspondant à un DIP renseigné", "Présence ou absence d'événements indésirables renseignée"],
+ "exclusion": ["Médicament de l'étude non renseigné entre janvier 2024 et janvier 2029", "Diagnostic de DIP non renseigné", "Événements indésirables non renseignés dans la base"],
+ "bras": [{"nom": "Immunoglobulines sous-cutanées 20 %", "traitement": "Patients avec DIP ayant reçu les immunoglobulines sous-cutanées humaines 20 % selon l'autorisation de mise sur le marché"}],
+ "duree": "Données recueillies sur la période de la base, jusqu'à 5 ans",
+ "critere": "Nombre de patients avec réaction anaphylactique, thromboembolie ou méningite aseptique, depuis l'inclusion dans la base ou la première dose jusqu'à 5 ans."
+}

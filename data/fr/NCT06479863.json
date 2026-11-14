@@ -1,0 +1,36 @@
+{
+ "h": "18debb924832",
+ "date": "2026-11-14",
+ "titre": "Pozélimab et cémdisiran dans la myosite à inclusions sporadique",
+ "question": "L'association pozélimab et cémdisiran, inhibiteurs du complément, ralentit-elle l'évolution fonctionnelle de la myosite à inclusions sporadique ?",
+ "contexte": "La myosite à inclusions sporadique (sIBM) est la myopathie acquise la plus fréquente après 50 ans. Elle associe une faiblesse progressive des fléchisseurs des doigts et des quadriceps, des troubles de la déglutition et une perte d'autonomie. Elle ne répond pas aux corticoïdes ni aux immunosuppresseurs et aucun traitement n'a démontré de bénéfice, la prise en charge reposant sur la rééducation.\n\nLe complément est activé dans les muscles atteints de sIBM. Le pozélimab est un anticorps anti-C5 et le cémdisiran, un petit ARN interférent qui réduit la production hépatique de C5 : l'association vise une inhibition profonde et durable du complément.\n\nCet essai pilote américain de phase 1, mené à Austin, administre à 10 patients de 45 à 75 ans le pozélimab 200 mg et le cémdisiran 200 mg par voie sous-cutanée toutes les 4 semaines pendant 104 semaines, avec des injections possibles à domicile après formation. La vaccination antiméningococcique et antipneumococcique est requise.",
+ "interet": "Il pourrait donner un premier signal fonctionnel pour une inhibition du complément dans la sIBM, maladie sans traitement. L'absence de groupe contrôle et le faible effectif limitent la portée.",
+ "profil": "Des adultes de 45 à 75 ans avec une myosite à inclusions sporadique, capables de marcher au moins 6 mètres.",
+ "inclusion": [
+  "Âge 45-75 ans",
+  "sIBM selon les critères ENMC",
+  "Capacité de marcher au moins 6 m (aide technique autorisée)",
+  "Capacité à remplir les questionnaires de l'étude",
+  "Contraception efficace pendant l'étude et 120 jours après",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Autre affection neurologique ou musculosquelettique limitant la marche",
+  "Cancer actif connu",
+  "Traitement antérieur par un inhibiteur du complément",
+  "Antécédent d'infection à méningocoque",
+  "Absence de vaccination antiméningococcique et antipneumococcique récente (non prévue)",
+  "ALAT > 3 × LSN ou bilirubine > 2 × LSN",
+  "Infection active ou récente, hépatite B/C, VIH, tuberculose active ou latente",
+  "Autre myopathie, chevauchement ou autre maladie auto-immune ou auto-inflammatoire",
+  "Asplénie, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Injections",
+   "traitement": "Pozélimab 200 mg et cémdisiran 200 mg par voie sous-cutanée toutes les 4 semaines pendant 104 semaines"
+  }
+ ],
+ "duree": "104 semaines",
+ "critere": "Variation, entre le dépistage et la semaine 104, de l'échelle fonctionnelle IBM-FRS et de l'évaluation fonctionnelle physique sIFA."
+}

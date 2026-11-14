@@ -1,0 +1,25 @@
+{
+ "h": "57671115db81",
+ "date": "2026-11-14",
+ "titre": "Fréquence des maladies cutanées chez les enfants atteints d'erreurs innées de l'immunité",
+ "question": "Quelle est la fréquence des maladies cutanées chez les enfants ayant une erreur innée de l'immunité, et quels en sont les aspects cliniques ?",
+ "contexte": "Les erreurs innées de l'immunité (EII, ou déficits immunitaires primitifs) sont des maladies génétiques rares mais, dans leur ensemble, fréquentes. La classification IUIS décrit plus de 550 entités en 10 catégories. Elles se manifestent par des infections récurrentes, de l'auto-immunité, de l'auto-inflammation, de l'allergie ou des cancers.\n\nLa peau est un organe fréquemment touché, avec des manifestations qui peuvent être le premier signe d'appel du déficit immunitaire (eczéma, infections, éruptions auto-immunes). Cette étude descriptive monocentrique de l'hôpital pédiatrique de l'Université d'Assiut (Égypte) inclut 60 enfants de moins de 18 ans ayant une EII selon la classification IUIS, entre mars 2025 et février 2026. Elle estime la prévalence des maladies cutanées et décrit leur profil.",
+ "interet": "Elle apportera des données épidémiologiques locales utiles pour le dépistage des atteintes cutanées chez les enfants avec EII.",
+ "profil": "Des enfants de moins de 18 ans ayant une erreur innée de l'immunité diagnostiquée.",
+ "inclusion": [
+  "Âge < 18 ans, garçons et filles",
+  "EII diagnostiquée selon les critères cliniques et biologiques de la classification IUIS la plus récente"
+ ],
+ "exclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic d'EII non rempli ou non encore posé"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants avec EII",
+   "traitement": "Examen dermatologique des enfants avec EII suivis à l'hôpital universitaire pédiatrique d'Assiut (observationnel)"
+  }
+ ],
+ "duree": "Non précisé (inclusion de mars 2025 à février 2026)",
+ "critere": "Prévalence des maladies cutanées chez les patients avec EII, de mars 2025 à février 2026."
+}

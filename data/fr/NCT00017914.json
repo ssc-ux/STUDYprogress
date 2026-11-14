@@ -1,0 +1,31 @@
+{
+ "h": "155656f94770",
+ "date": "2026-11-14",
+ "titre": "Myosites de l'adulte et de l'enfant : histoire naturelle et physiopathologie (NIEHS)",
+ "question": "Quelles sont les causes, les anomalies immunitaires et les complications des myopathies inflammatoires idiopathiques de l'adulte et de l'enfant ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (polymyosite, dermatomyosite, myosite à inclusions et formes apparentées) sont des maladies inflammatoires du muscle pouvant atteindre d'autres organes et entraîner un handicap important. Leurs causes restent mal connues et le suivi des patients, notamment pour la peau, la déglutition, le poumon et le cœur, est hétérogène.\n\nCette étude de cohorte du NIEHS (États-Unis) évalue des patients de 2 à 100 ans, ainsi que des apparentés pour la partie génétique et des volontaires sains comme témoins. Après un recueil des antécédents, un examen et des bilans sanguins et urinaires, les participants peuvent choisir une évaluation de 1 à 5 jours : force musculaire, IRM des cuisses, examen cutané et biopsie, explorations de la déglutition et de la voix, épreuves respiratoires, ECG, électromyogramme, biopsie musculaire. L'étude est observationnelle.",
+ "interet": "L'étude pourrait mieux caractériser la physiopathologie, les sous-groupes et les complications des myosites, et fournir des biomarqueurs. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des enfants et adultes (2 à 100 ans) ayant une myopathie inflammatoire idiopathique ou une affection apparentée, leurs apparentés et des volontaires sains.",
+ "inclusion": [
+  "Âge de 2 à 100 ans",
+  "Polymyosite ou dermatomyosite (critères de Bohan et Peter), myosite à inclusions (Griggs ou ENMC), ou autre myopathie inflammatoire idiopathique",
+  "Ou affection apparentée : myopathie mimant la myosite, complication (pneumopathie interstitielle, calcinose, cardiomyopathie), connectivite indifférenciée, chevauchement auto-immun",
+  "Ou signes évocateurs de myosite sans diagnostic établi, pour bilan diagnostique",
+  "Apparentés d'un patient (génétique) ; témoins sains appariés en âge et sexe, non apparentés",
+  "Consentement du patient ou du représentant légal"
+ ],
+ "exclusion": [
+  "Âge < 2 ans ou > 100 ans",
+  "Prélèvements ou procédures non jugés appropriés médicalement",
+  "Grossesse : exclusion des examens irradiants et des biopsies",
+  "Témoins sains : anti-inflammatoires dans les 8 semaines, chirurgie ou traumatisme majeur dans les 2 mois",
+  "Témoins sains : maladie auto-immune, cancer, maladie musculaire ou articulaire, déficit cognitif"
+ ],
+ "bras": [
+  {"nom": "Patients avec myosite", "traitement": "Adultes et enfants avec myopathie inflammatoire idiopathique : bilan clinique et biologique, puis évaluation de 1 à 5 jours (IRM, biopsies, explorations fonctionnelles)"},
+  {"nom": "Patients sans myosite", "traitement": "Patients avec autre myopathie, maladie auto-immune ou complication similaire, et proches apparentés de patients"},
+  {"nom": "Volontaires sains", "traitement": "Témoins sans traitement anti-inflammatoire, appariés en âge et sexe, pour comparaison des examens"}
+ ],
+ "duree": "Évaluation unique ou un suivi sur 1 an",
+ "critere": "Évaluation globale par le médecin (Physician Global Assessment) à l'inclusion et à chaque visite"
+}

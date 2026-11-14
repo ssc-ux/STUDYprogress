@@ -1,0 +1,26 @@
+{
+ "h": "00cad151d4c8",
+ "date": "2026-11-14",
+ "titre": "Avacopan en accès précoce dans les vascularites à ANCA : pratique réelle en Europe",
+ "question": "Comment l'avacopan est-il utilisé et quel bénéfice clinique observe-t-on lors de ses premières utilisations en vie réelle dans les vascularites à ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et PAM) sont traitées par corticoïdes associés au rituximab ou au cyclophosphamide. Les corticoïdes à forte dose causent beaucoup d'effets indésirables. L'avacopan, antagoniste oral du récepteur C5a, a été développé pour permettre de réduire les corticoïdes ; l'essai ADVOCATE a étayé son utilisation.\n\nAvant sa mise à disposition générale, l'avacopan était accessible en Europe par des programmes d'accès précoce, avec des pratiques variables selon les centres. Cette étude observationnelle de cohorte, promue par le centre médical universitaire de Leyde (Pays-Bas), décrit les indications retenues par les médecins, les caractéristiques des patients, les traitements immunosuppresseurs associés et le bénéfice clinique mesuré par le BVAS. Elle recherche aussi les facteurs liés à la réponse, à l'absence de réponse et à la rechute.",
+ "interet": "Elle documente l'usage réel de l'avacopan hors essai (profils de patients, associations, résultats), utile pour affiner ses indications et identifier les questions de recherche restantes.",
+ "profil": "Des patients de 16 ans et plus atteints de GPA ou de PAM qui débutent l'avacopan.",
+ "inclusion": [
+  "Diagnostic établi de GPA ou de PAM",
+  "Initiation d'un traitement par avacopan",
+  "Consentement à l'utilisation des données médicales"
+ ],
+ "exclusion": [
+  "Absence d'activité de la vascularite objectivable par une mesure clinique",
+  "Âge < 16 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte avacopan",
+   "traitement": "Patients traités par avacopan en accès précoce, suivis en pratique courante (observationnel)"
+  }
+ ],
+ "duree": "Suivi jusqu'à 2 ans",
+ "critere": "Indications de l'avacopan, caractéristiques initiales et traitements immunosuppresseurs associés (1 an) ; bénéfice clinique individuel selon le BVAS (2 ans)."
+}

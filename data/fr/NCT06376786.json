@@ -1,0 +1,26 @@
+{
+ "h": "0e142bfca9d4",
+ "date": "2026-11-14",
+ "titre": "Registre italien du purpura thrombotique thrombocytopénique immun (ItaliTTP)",
+ "question": "Quelles sont l'histoire naturelle, la sévérité et l'évolution des PTT immuns en Italie ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique immun (PTTi) est une microangiopathie thrombotique rare et potentiellement fatale, due à un déficit sévère en ADAMTS13 par auto-anticorps. Il associe thrombopénie, anémie hémolytique mécanique et thromboses microvasculaires avec atteinte multiviscérale. Le traitement associe échanges plasmatiques, corticoïdes, rituximab et caplacizumab.\n\nLa phase aiguë est mieux maîtrisée, mais l'évolution à long terme demeure mal connue : rémission, rechutes, complications tardives, surveillance de l'activité d'ADAMTS13.\n\nItaliTTP est une cohorte nationale, prospective et multicentrique, non pharmacologique. Elle inclura au moins 132 patients de 12 ans et plus hospitalisés pour un épisode aigu (premier épisode ou rechute) pendant 3 ans, avec un suivi de 3 ans en consultation. Les patients reçoivent les soins courants. Des échantillons sanguins sont collectés à des fins de recherche.",
+ "interet": "Elle pourrait décrire l'histoire naturelle, les pratiques de traitement et les complications du PTTi en conditions réelles.",
+ "profil": "Des patients de 12 ans et plus avec un épisode aigu de PTT immun.",
+ "inclusion": [
+  "Épisode aigu de PTTi (premier épisode ou rechute) : thrombopénie et anémie hémolytique microangiopathique sans autre cause",
+  "Activité d'ADAMTS13 < 10 UI/dl et auto-anticorps anti-ADAMTS13",
+  "Âge ≥ 12 ans",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Absence de consentement signé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTTi",
+   "traitement": "Traitement et suivi selon la pratique courante"
+  }
+ ],
+ "duree": "3 ans de suivi (jusqu'à 6 ans pour certains critères)",
+ "critere": "Nombreux critères descriptifs sur 3 à 6 ans : caractéristiques initiales, manifestations cliniques, biologie, ADAMTS13 et anticorps, traitements (échanges, rituximab, caplacizumab), rémission, rechute et complications."
+}

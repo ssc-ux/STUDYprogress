@@ -1,0 +1,14 @@
+{
+ "h": "03cfc8e687bc",
+ "date": "2026-11-14",
+ "titre": "IL-18 et IL-18BP comme biomarqueurs diagnostiques de l'arthrite juvénile systémique et des fièvres auto-inflammatoires",
+ "question": "Le dosage de l'IL-18 et de sa protéine de liaison (IL-18BP) aide-t-il à distinguer l'arthrite juvénile idiopathique systémique et les fièvres récurrentes auto-inflammatoires d'autres maladies fébriles de l'enfant ?",
+ "contexte": "L'arthrite juvénile idiopathique systémique (AJIs) et les fièvres récurrentes auto-inflammatoires sont des maladies rares de l'enfant dont le diagnostic est difficile. Leur présentation fébrile ressemble à celle d'infections graves ou d'autres maladies rhumatologiques, et le diagnostic repose surtout sur l'exclusion. Un retard de diagnostic expose notamment au syndrome d'activation macrophagique.\n\nLa littérature suggère que des taux élevés d'IL-18 et d'IL-18BP, et une modification de leur rapport, sont associés à ces maladies auto-inflammatoires. Cette étude observationnelle prospective monocentrique de l'IRCCS de Bologne inclut des enfants de 2 à 18 ans adressés en consultation de rhumatologie pédiatrique pour suspicion d'AJI ou de fièvre auto-inflammatoire, ainsi que des enfants avec infections sévères. Un prélèvement supplémentaire est fait en phase aiguë, avant tout traitement immunosuppresseur. L'objectif est de définir de nouveaux marqueurs utiles au diagnostic différentiel précoce, et de comparer leur performance avec d'autres cytokines et marqueurs inflammatoires.",
+ "interet": "Si ces dosages sont discriminants, ils pourraient raccourcir le délai diagnostique de maladies auto-inflammatoires pédiatriques graves. L'effectif prévu est très faible (9 patients).",
+ "profil": "Des enfants et adolescents de 2 à 18 ans avec AJI, fièvre récurrente auto-inflammatoire, maladie rhumatismale ou infection sévère.",
+ "inclusion": ["Âge de 2 à 18 ans", "AJI, fièvre récurrente ou maladie auto-inflammatoire, maladie rhumatismale, ou infection sévère (sepsis, méningite, infection urinaire, infection respiratoire basse)", "Consentement des parents ou du tuteur"],
+ "exclusion": ["Suspicion de maladie rhumatismale fondée sur une cardite infraclinique ou une chorée"],
+ "bras": [{"nom": "Cohorte pédiatrique", "traitement": "Prélèvement sanguin en phase aiguë avant immunosuppresseurs, puis suivi à 3 et 12 mois ; dosage d'IL-18 et d'IL-18BP"}],
+ "duree": "12 mois",
+ "critere": "Taux sériques d'IL-18 et d'IL-18BP à l'inclusion, à 3 mois et à 12 mois."
+}

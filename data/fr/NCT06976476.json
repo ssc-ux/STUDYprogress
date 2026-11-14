@@ -1,0 +1,31 @@
+{
+ "h": "03e3ec457cfa",
+ "date": "2026-11-14",
+ "titre": "Immunoglobulines sous-cutanées (IgPro20) pour prévenir les infections sous anticorps bispécifiques dans le myélome",
+ "question": "Une prophylaxie par IgPro20 réduit-elle les infections chez les patients atteints de myélome et d'hypogammaglobulinémie traités par anticorps bispécifique ?",
+ "contexte": "Les anticorps bispécifiques (teclistamab, talquétamab, elranatamab) ont transformé la prise en charge du myélome multiple en rechute ou réfractaire. Leur toxicité principale est infectieuse : ils entraînent une hypogammaglobulinémie profonde, une neutropénie et un déficit immunitaire cellulaire.\n\nLes recommandations internationales suggèrent une supplémentation en immunoglobulines en cas d'hypogammaglobulinémie avec infections graves ou récurrentes. L'intérêt d'une prophylaxie systématique, avant la survenue d'infections, n'a pas été démontré de façon randomisée dans ce contexte.\n\nCette étude de phase 2 randomisée, ouverte, du Memorial Sloan Kettering Cancer Center (9 centres, États-Unis), compare une prophylaxie par IgPro20 (immunoglobulines sous-cutanées) ajoutée aux soins standards à une simple surveillance. Cent patients ayant reçu 1 à 4 cycles d'anticorps bispécifique sont prévus. Les patients avec une infection profonde récente, une CAR-T prévue ou un traitement par IgIV récent sont exclus. Le critère principal est le taux global d'infections à 6 mois.",
+ "interet": "Les résultats pourraient guider l'usage prophylactique des immunoglobulines sous bispécifiques. Ils concerneraient directement le suivi des patients, mais l'étude est de phase 2 et ouverte.",
+ "profil": "Des adultes atteints de myélome en rechute ou réfractaire, traités par anticorps bispécifique commercialisé, avec hypogammaglobulinémie.",
+ "inclusion": [
+  "Myélome multiple en rechute ou réfractaire sous anticorps bispécifique commercialisé",
+  "Entre 1 et 4 cycles de bispécifique reçus",
+  "Âge ≥ 18 ans",
+  "ECOG ≤ 3",
+  "Espérance de vie > 12 mois"
+ ],
+ "exclusion": [
+  "Greffe de cellules souches dans les 3 mois, ou CAR-T prévue dans les 6 mois",
+  "Plus d'une infection profonde majeure dans les 3 mois",
+  "VIH, hépatite C ou B active",
+  "Neutrophiles < 0,5 G/L ou plaquettes < 30 G/L, clairance de la créatinine < 30 mL/min",
+  "Allergie connue aux produits IgG, hyperprolinémie, hyperprotéinémie, entéropathie exsudative",
+  "Progression documentée sous bispécifique, IgIV dans les 3 mois",
+  "Hémorragie intracrânienne ou AVC embolique dans les 6 mois, autre cancer traité dans les 3 ans, grossesse"
+ ],
+ "bras": [
+  { "nom": "Soins standards", "traitement": "Surveillance seule, sans immunoglobulines prophylactiques" },
+  { "nom": "Soins standards + IgPro20", "traitement": "Prophylaxie par immunoglobulines sous-cutanées IgPro20 en plus des soins standards (dose non précisée)" }
+ ],
+ "duree": "6 mois pour le critère principal",
+ "critere": "Différence du taux global d'infections entre les patients sous soins standards et ceux recevant l'IgPro20, à 6 mois."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "af81a61da1a2",
+ "date": "2026-11-14",
+ "titre": "Rapcabtagène autoleucel (CAR-T CD19) versus traitement standard dans la GPA ou la PAM sévère",
+ "question": "Une perfusion unique de CAR-T anti-CD19 (rapcabtagène autoleucel) améliore-t-elle la survie sans événement par rapport à un traitement comparateur dans la GPA ou la PAM sévère ?",
+ "contexte": "La GPA et la PAM sont des vascularites à ANCA qui touchent notamment le rein et le poumon. L'induction repose sur les corticoïdes avec le rituximab ou le cyclophosphamide, parfois avec l'avacopan. Les rechutes restent fréquentes, avec des effets indésirables cumulés des corticoïdes et des immunosuppresseurs.\n\nLes CAR-T anti-CD19 déplétionnent profondément les lymphocytes B et ont induit des rémissions sans traitement dans le lupus et d'autres maladies auto-immunes. Le rapcabtagène autoleucel (YTB323) est une CAR-T anti-CD19 autologue développée par Novartis. Cette phase 2 randomisée, en ouvert avec évaluation en aveugle, comprend une cohorte d'introduction (tous reçoivent la CAR-T) puis une cohorte randomisée comparant la CAR-T au comparateur, avec corticoïdes dans les deux bras. 126 adultes de 18 à 75 ans sont prévus, avec un suivi à long terme jusqu'à 15 ans après la perfusion.",
+ "interet": "Si elle confirme la durée de la rémission sans traitement d'entretien, elle pourrait changer la stratégie dans les vascularites sévères, au prix d'un traitement lourd et de risques spécifiques (syndrome de relargage cytokinique, infections).",
+ "profil": "Des adultes de 18 à 75 ans atteints de GPA ou de PAM sévère et active, ANCA positifs.",
+ "inclusion": [
+  "Âge 18-75 ans",
+  "GPA ou PAM selon les critères ACR/EULAR 2022",
+  "ANCA positifs",
+  "Maladie active sévère"
+ ],
+ "exclusion": [
+  "Situation empêchant un sevrage complet des traitements ou une CAR-T anti-CD19",
+  "Hypersensibilité ou contre-indication à un produit de l'étude",
+  "Autre maladie auto-immune systémique nécessitant un traitement",
+  "Maladie non liée à la GPA/PAM compromettant la tolérance de la CAR-T",
+  "Fonction d'organe insuffisante"
+ ],
+ "bras": [
+  {
+   "nom": "Rapcabtagène autoleucel",
+   "traitement": "Perfusion unique de CAR-T anti-CD19 (YTB323), avec glucocorticoïdes selon le protocole"
+  },
+  {
+   "nom": "Comparateur actif",
+   "traitement": "Traitement comparateur (non détaillé dans le registre), avec glucocorticoïdes selon le protocole"
+  }
+ ],
+ "duree": "Environ 4 ans après la randomisation (puis suivi à long terme jusqu'à 15 ans)",
+ "critere": "Survie sans événement, de la randomisation jusqu'à un événement (environ 4 ans au maximum)."
+}

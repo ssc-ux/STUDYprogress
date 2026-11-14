@@ -1,0 +1,14 @@
+{
+ "h": "fdac63f47a69",
+ "date": "2026-11-14",
+ "titre": "Project: Every Child, registre et biobanque des cancers de l'enfant et du jeune adulte",
+ "question": "Peut-on constituer un registre et une biobanque de tous les enfants atteints de cancer pour orienter l'inclusion dans les essais et la recherche ?",
+ "contexte": "Les cancers de l'enfant, de l'adolescent et du jeune adulte sont rares et très variés. Le Children's Oncology Group (COG) mène la plupart des essais thérapeutiques pédiatriques aux États-Unis. L'accès à ces essais dépend de la classification précise de la maladie et de la caractérisation biologique de la tumeur.\n\nProject: Every Child est une étude observationnelle qui inclut les patients lors du diagnostic, de la progression, de la rechute ou post mortem. Elle maintient un registre des cancers de l'enfant, utilise les données cliniques et biologiques pour déterminer l'éligibilité ou la stratification pour les essais du COG, et constitue une biobanque annotée (tumeur, ADN constitutionnel, parfois ADN des parents). Un second volet, le protocole AYA, concerne les adolescents et jeunes adultes suivis dans des groupes coopératifs d'adultes. Les patients peuvent aussi accepter d'être recontactés pour de futures recherches non thérapeutiques ou de prévention.",
+ "interet": "L'étude ne teste aucun traitement. Elle pourrait faciliter l'orientation des enfants vers les essais adaptés et fournir un socle de données et d'échantillons pour la recherche en oncologie pédiatrique.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 25 ans ou moins avec une tumeur connue ou suspectée.",
+ "inclusion": ["Inclusion dans les 6 mois suivant la présentation, la progression, la rechute ou un second cancer, ou post mortem", "Tumeur connue ou suspectée de type pédiatrique ou du jeune adulte (comportement borderline, in situ ou malin)", "Toute tumeur du système nerveux central ou du rein, quel que soit son comportement", "Certaines lésions bénignes ou borderline (tératomes, histiocytose langerhansienne, tumeurs desmoïdes, etc.)", "Âge ≤ 25 ans au diagnostic, sauf dépistage pour un essai du COG avec limite d'âge supérieure", "Consentement écrit du patient, des parents ou du représentant légal"],
+ "exclusion": ["Consentement écrit absent", "Pas de composante de l'étude acceptée", "Âge > 25 ans au diagnostic hors dépistage pour un essai thérapeutique", "Nævus clairement bénin"],
+ "bras": [{"nom": "Protocole Project: Every Child", "traitement": "Revue des données médicales pour le registre et prélèvements biologiques (tissu, sang, moelle, salive, LCR, urine)"}, {"nom": "Protocole Project AYA", "traitement": "Prélèvements biologiques chez les adolescents et jeunes adultes inclus via des groupes d'adultes"}],
+ "duree": "Non précisé (étude jusqu'en 2030)",
+ "critere": "Nombre de patients ayant consenti à la biobanque, à l'inclusion"
+}

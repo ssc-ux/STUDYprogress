@@ -1,0 +1,31 @@
+{
+ "h": "c88f185a2b81",
+ "date": "2026-11-14",
+ "titre": "Cellules stromales mésenchymateuses de cordon ombilical dans la sclérodermie systémique sévère",
+ "question": "Des cellules stromales mésenchymateuses de cordon ombilical humain (UCMSC) sont-elles sûres et efficaces dans la sclérodermie systémique sévère ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune rare associant vasculopathie, fibrose cutanée et viscérale. Les formes sévères, diffuses et rapidement évolutives, ou avec atteinte pulmonaire interstitielle, rénale ou cardiaque, ont un pronostic réservé. Les traitements immunosuppresseurs standards sont le méthotrexate et le mycophénolate, et l'autogreffe de cellules souches hématopoïétiques est une option réservée à des patients sélectionnés, souvent non éligibles ou non désireux.\n\nLes cellules stromales mésenchymateuses possèdent des propriétés immunomodulatrices et antifibrotiques et pourraient moduler la maladie. Les UCMSC sont obtenues à partir de cordon ombilical, ce qui évite le prélèvement médullaire chez le patient.\n\nCet essai de phase 1/2 monocentrique (CARE-SSc), dirigé par Marie Hudson avec des centres canadiens, américains et français (AP-HP, Université Paris Cité), est randomisé en double aveugle contre placebo chez 18 patients en trois blocs successifs de 6 : placebo, une perfusion d'UCMSC (mois 0) ou deux perfusions (mois 0 et 3). La dose est de 1 million de cellules par kg. Le critère principal est la sécurité à un mois.",
+ "interet": "L'étude doit établir la sécurité d'une thérapie cellulaire de cordon ombilical dans la ScS sévère et fournir des données préliminaires d'efficacité, avant un éventuel essai de plus grande taille.",
+ "profil": "Des adultes atteints de sclérodermie systémique sévère en échec ou intolérants au traitement standard, non éligibles à l'autogreffe.",
+ "inclusion": [
+  "ScS selon les critères ACR/EULAR 2013",
+  "Forme sévère : durée de 2 ans ou moins avec mRSS supérieur à 20 et syndrome inflammatoire (VS supérieure à 25 mm ou Hb inférieure à 11 g/dL), ou mRSS supérieur à 15 avec atteinte d'organe majeure (pulmonaire, rénale ou cardiaque) attribuée à la ScS",
+  "Réponse insuffisante ou intolérance au traitement standard (méthotrexate et/ou mycophénolate depuis au moins 3 mois)",
+  "Non éligible ou refusant l'autogreffe de cellules souches hématopoïétiques",
+  "Âge d'au moins 18 ans"
+ ],
+ "exclusion": [
+  "Atteinte d'organe menaçant le pronostic vital : CVF inférieure à 45 % ou DLCO inférieure à 30 %, FEVG inférieure à 40 %, HTP significative, insuffisance rénale de stade 4 ou plus",
+  "Transaminases supérieures à 3 N sauf si liées à la maladie",
+  "Cancer ou myélodysplasie concomitants, hypertension non contrôlée",
+  "Infection non contrôlée ou à haut risque (VIH, HTLV, hépatite B ou C)",
+  "IMC inférieur à 18, trouble psychiatrique sévère, insuffisance médullaire",
+  "Grossesse ou contraception inadéquate, mauvaise observance, participation à un autre essai"
+ ],
+ "bras": [
+  { "nom": "Une perfusion d'UCMSC", "traitement": "UCMSC 1 million/kg en 50 mL de PlasmaLyte A au mois 0, placebo au mois 3" },
+  { "nom": "Deux perfusions d'UCMSC", "traitement": "UCMSC 1 million/kg en 50 mL de PlasmaLyte A aux mois 0 et 3" },
+  { "nom": "Placebo", "traitement": "PlasmaLyte A (50 mL) aux mois 0 et 3" }
+ ],
+ "duree": "Non précisé (critère principal au mois 1)",
+ "critere": "Mesure de la sécurité un mois après la première perfusion"
+}

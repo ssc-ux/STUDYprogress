@@ -1,0 +1,14 @@
+{
+ "h": "29477eb3794f",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T cytotoxiques anti-EBV d'un donneur apparenté dans l'infection réfractaire",
+ "question": "Des lymphocytes T spécifiques de l'EBV issus d'un donneur apparenté sont-ils sûrs et efficaces dans l'infection à EBV réfractaire ?",
+ "contexte": "Chez les patients immunodéprimés (allogreffe, greffe d'organe solide, déficit immunitaire primitif), l'infection à virus d'Epstein-Barr peut conduire à une réplication virale incontrôlée et à des syndromes lymphoprolifératifs. Le traitement de première ligne repose sur la réduction de l'immunosuppression et le rituximab, qui n'est pas toujours efficace ni toléré.\n\nCet essai pilote de phase 2 du New York Medical College évalue la perfusion de lymphocytes T cytotoxiques (CTL) spécifiques de l'EBV d'un donneur apparenté, fabriqués avec le système Miltenyi CliniMACS Prodigy. Les patients reçoivent une dose, puis jusqu'à 4 doses supplémentaires (5 au total) si la charge virale EBV par PCR ne répond pas. L'étude est financée par la FDA (OOPD) et suit les patients pendant 12 semaines après chaque perfusion, pour la tolérance et l'efficacité.",
+ "interet": "L'étude pourrait documenter la faisabilité et la sécurité d'une thérapie cellulaire antivirale pour des infections à EBV non contrôlées par les traitements habituels, avec un effectif de 20 patients.",
+ "profil": "Des enfants, adolescents et adultes jusqu'à 79 ans avec une infection à EBV réfractaire après allogreffe, greffe d'organe ou déficit immunitaire primitif.",
+ "inclusion": ["Infection à EBV après allogreffe, greffe d'organe solide ou déficit immunitaire primitif", "Charge virale croissante ou persistante après 2 semaines de traitement, ou symptômes progressifs (colite biopsiée, adénopathies, hépatosplénomégalie), ou intolérance au rituximab", "Âge de 1 mois à 79 ans, performance > 30 %", "Donneur apparenté avec réponse T à l'EBV (ou donneur tiers apparenté > 1 compatibilité HLA)", "Consentement écrit", "Test de grossesse négatif si femme en âge de procréer"],
+ "exclusion": ["GVHD aiguë > grade 2 ou GVHD chronique étendue", "Corticoïdes > 0,5 mg/kg de prednisone équivalent, perfusion de lymphocytes du donneur dans les 4 semaines", "Performance ≤ 30 %", "Autre essai expérimental sur l'EBV réfractaire", "VIH connu, grossesse ou allaitement", "Hypersensibilité au dextran de fer, anticorps anti-souris humains"],
+ "bras": [{"nom": "EBV réfractaire", "traitement": "CTL anti-EBV d'un donneur apparenté : une dose, puis jusqu'à 4 doses supplémentaires en l'absence de réponse sur la PCR EBV"}],
+ "duree": "12 semaines de suivi après chaque perfusion",
+ "critere": "Incidence des événements indésirables apparus sous traitement et incidence de réponse au traitement, suivis 12 semaines après chaque perfusion"
+}

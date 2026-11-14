@@ -1,0 +1,29 @@
+{
+ "h": "e43b75ac8238",
+ "date": "2026-11-14",
+ "titre": "Registre hispano-portugais du purpura thrombotique thrombocytopénique (REPTT)",
+ "question": "Quelles sont l'incidence, la morbidité et la mortalité du PTT en Espagne et au Portugal en pratique courante ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique (PTT) est une microangiopathie thrombotique rare et menaçante, par déficit sévère en ADAMTS13. Sa prévalence est d'environ 10 cas par million et son incidence de 1,5 à 6 cas par million et par an selon les études françaises, américaines et britanniques. En Espagne, elle est de 2,67 cas par million et par an.\n\nLes épisodes aigus laissent des séquelles vasculaires, rénales et cognitives, et exposent à l'infarctus du myocarde. La résolution rapide des épisodes et une meilleure connaissance des anomalies cardiaques peuvent améliorer le pronostic. REPTT est un registre observationnel prospectif, multicentrique et non interventionnel, qui inclut au moins 300 patients d'Espagne et du Portugal. Il n'impose aucune restriction aux médecins, et les traitements sont décidés indépendamment de l'inclusion.",
+ "interet": "Il fournira des données épidémiologiques et de pratique réelle sur le PTT dans la péninsule ibérique, y compris l'usage des traitements récents.",
+ "profil": "Des patients de tout âge (0 à 99 ans) atteints de PTT en Espagne et au Portugal.",
+ "inclusion": [
+  "PTT diagnostiqué selon les critères du consensus international, dans un centre espagnol ou portugais",
+  "Consentement signé (ou par une autorité médicale reconnue si le patient ne peut consentir)",
+  "Âge de 0 à 99 ans au diagnostic",
+  "Traitement spécifique décidé avant et indépendamment de l'inclusion"
+ ],
+ "exclusion": [
+  "Impossibilité de respecter les procédures et le suivi",
+  "Altération empêchant de donner un consentement écrit",
+  "Absence de consentement",
+  "Ne remplit pas les critères de PTT"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de PTT",
+   "traitement": "Pratique clinique habituelle, sans intervention de l'étude"
+  }
+ ],
+ "duree": "Environ 3 ans",
+ "critere": "Incidence, morbidité et mortalité du PTT en Espagne et au Portugal, sur la durée de l'étude (environ 3 ans)."
+}

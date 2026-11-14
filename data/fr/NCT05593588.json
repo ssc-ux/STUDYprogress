@@ -1,0 +1,37 @@
+{
+ "h": "ebc3c19047f9",
+ "date": "2026-11-14",
+ "titre": "Fisétine dans la pneumopathie interstitielle du déficit immunitaire commun variable",
+ "question": "La fisétine, un sénolytique, modifie-t-elle les lymphocytes T et la maladie pulmonaire interstitielle des patients atteints de DICV ?",
+ "contexte": "Le déficit immunitaire commun variable (DICV) est le déficit immunitaire primitif symptomatique le plus fréquent. Une partie des patients développe une atteinte pulmonaire interstitielle granulomateuse et lymphocytaire (GLILD), associée à une morbidité importante. Le traitement fait appel aux corticoïdes, au rituximab et à des immunosuppresseurs, sans standard bien établi.\n\nLe vieillissement immunitaire accéléré, avec accumulation de cellules sénescentes et de lymphocytes T épuisés, est évoqué dans le DICV. La fisétine est un flavonoïde présenté comme sénolytique, c'est-à-dire capable d'éliminer sélectivement les cellules sénescentes. Cette phase 2 monocentrique, randomisée en double aveugle contre placebo, teste deux cures courtes de deux jours à 28 jours d'intervalle. Le critère principal est biologique : l'immunophénotypage des lymphocytes T périphériques à 6 mois.",
+ "interet": "L'étude est exploratoire. Elle dira si une approche sénolytique modifie les marqueurs immunologiques du DICV avec GLILD, avant tout essai clinique de plus grande taille.",
+ "profil": "Des adultes atteints de DICV avec suspicion de pneumopathie interstitielle (GLILD).",
+ "inclusion": [
+  "DICV diagnostiqué selon le consensus ICON, au moins 30 jours avant l'inclusion",
+  "GLILD possible selon le médecin",
+  "Dosage des IgA disponible",
+  "Femme non en âge de procréer (ménopause > 1 an ou stérilisation) avec test de grossesse si besoin",
+  "Capacité à suivre le protocole"
+ ],
+ "exclusion": [
+  "Consentement impossible",
+  "Affection exposant à un risque ou empêchant de terminer l'essai",
+  "Grossesse ou allaitement, contraception insuffisante",
+  "Personnes vulnérables (détenus, démence, personnes institutionnalisées)",
+  "Patient hospitalisé ou hospitalisation envisagée",
+  "Tabagisme actuel",
+  "Apport de caféine ≥ 400 mg par jour"
+ ],
+ "bras": [
+  {
+   "nom": "Fisétine",
+   "traitement": "Fisétine pendant 2 cycles de 2 jours consécutifs (jours 0-1 puis 28-29)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo selon le même schéma"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Variation de l'immunophénotypage des lymphocytes T périphériques entre l'inclusion et 6 mois."
+}

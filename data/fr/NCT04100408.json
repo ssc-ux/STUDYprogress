@@ -1,0 +1,25 @@
+{
+ "h": "a7617b25069c",
+ "date": "2026-11-14",
+ "titre": "Susceptibilité génétique héréditaire à l'histiocytose langerhansienne (SMAD6)",
+ "question": "Des variants germinaux de SMAD6 et d'autres régions du génome augmentent-ils le risque de développer une histiocytose langerhansienne ?",
+ "contexte": "L'histiocytose langerhansienne (LCH) est une maladie rare, principalement pédiatrique, caractérisée par l'accumulation de cellules dendritiques CD1a+/CD207+ porteuses de mutations somatiques activatrices de la voie MAPK, dont BRAF-V600E est la plus fréquente. Elle peut toucher presque tous les organes et son évolution est très variable.\n\nLes mécanismes de survenue restent mal compris. Des données préliminaires suggèrent l'implication de variants constitutionnels, notamment dans le gène SMAD6, et une fréquence différente des mutations somatiques selon l'origine ethnique, possiblement liée à l'ascendance génétique amérindienne.\n\nCette étude observationnelle du Children's Oncology Group, auxiliaire à d'autres études d'inclusion (ACCRN07, APEC14B1), recueille de la salive ou des prélèvements buccaux de patients atteints de LCH et de leurs parents pour séquencer et génotyper l'ADN germinal. Elle vise à caractériser les variants de SMAD6, à identifier de nouveaux variants associés à la LCH, et à étudier le rôle de l'ascendance génétique sur les mutations somatiques. Des questionnaires cliniques et épidémiologiques complètent l'analyse.",
+ "interet": "Les résultats pourraient éclairer la physiopathologie de la LCH et préciser le rôle de la prédisposition génétique, sans conséquence thérapeutique immédiate.",
+ "profil": "Des enfants, adolescents et jeunes adultes diagnostiqués d'une LCH, et leurs parents, enrôlés dans le Children's Oncology Group.",
+ "inclusion": [
+  "Âge de 25 ans ou moins au diagnostic de LCH",
+  "Inclusion dans l'étude ACCRN07 et/ou APEC14B1 et enregistrement au COG par un centre nord-américain",
+  "Diagnostic de LCH (codes ICD 9751/1, 9752/1, 9753/1 ou 9754/3)",
+  "Diagnostic posé à partir du 1er janvier 2008",
+  "Répondants aux questionnaires comprenant l'anglais ou l'espagnol",
+  "Consentement éclairé des patients ou de leurs parents ou représentants légaux"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  { "nom": "Patients avec LCH et leurs parents", "traitement": "Prélèvement de salive ou de muqueuse buccale pour analyse génétique germinale ; questionnaires" }
+ ],
+ "duree": "Prélèvement et questionnaires uniques, analyses sur 4 ans",
+ "critere": "Caractérisation des variants germinaux de SMAD6 et de leur association avec la LCH, fréquence des mutations de novo, différence des mutations somatiques selon l'ascendance génétique, sur 4 ans"
+}

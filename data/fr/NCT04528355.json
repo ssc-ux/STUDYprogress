@@ -1,0 +1,23 @@
+{
+ "h": "7da8c8f4743d",
+ "date": "2026-11-14",
+ "titre": "Recueil de données : greffe à conditionnement réduit dans les maladies non malignes (PRO-RIC)",
+ "question": "Quels sont l'incidence de GVHD aiguë et la survie après greffe à conditionnement réduit (alemtuzumab, melphalan, thiotépa, fludarabine, hydroxyurée) dans les maladies non malignes ?",
+ "contexte": "La greffe de cellules souches hématopoïétiques peut guérir ou améliorer de nombreuses maladies non malignes : déficits immunitaires primitifs, insuffisances médullaires congénitales, maladies métaboliques héréditaires (mucopolysaccharidoses, leucodystrophies), anémies héréditaires (thalassémie, drépanocytose, Diamond-Blackfan) et certaines maladies inflammatoires. Les conditionnements à intensité réduite diminuent la toxicité, mais le rejet de greffe et les infections limitent leur emploi chez les patients non préalablement traités par chimiothérapie.\n\nL'équipe de Paul Szabolcs a testé un conditionnement fondé sur la chimiothérapie, associant alemtuzumab (dosé selon des strates simples), hydroxyurée, fludarabine, melphalan et thiotépa. Le dernier essai, au UPMC Children's Hospital de Pittsburgh, a donné une très bonne survie et un taux d'échec de greffe remarquablement bas. Ces résultats peuvent aussi servir de référence de toxicité et d'efficacité face aux stratégies émergentes de thérapie génique.\n\nCette étude observationnelle recueille prospectivement les données cliniques de patients de 2 mois à 60 ans recevant, en soins courants, sang de cordon, moelle ou cellules souches périphériques avec ce conditionnement. Elle évalue la prise de greffe, la GVHD, l'usage des immunosuppresseurs et la survie.",
+ "interet": "Ces données pourraient confirmer le profil de sécurité et d'efficacité de ce conditionnement réduit en pratique courante et servir de comparateur pour les thérapies géniques.",
+ "profil": "Des patients de 2 mois à 60 ans atteints d'une maladie non maligne traitable par greffe de cellules souches, au UPMC Children's Hospital de Pittsburgh.",
+ "inclusion": [
+  "Consentement écrit du patient, du parent ou du représentant légal",
+  "Âge de 2 mois à 60 ans",
+  "Maladie non maligne relevant de la greffe : déficit immunitaire primitif, insuffisance médullaire congénitale, maladie métabolique héréditaire, anémie héréditaire ou maladie inflammatoire (Crohn, MICI, IPEX, polyarthrite rhumatoïde)",
+  "Greffe de sang de cordon, de moelle ou de cellules souches périphériques avec conditionnement réduit alemtuzumab, melphalan, thiotépa, fludarabine et hydroxyurée, selon la pratique clinique du centre"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  { "nom": "Patients greffés avec conditionnement réduit", "traitement": "Recueil observationnel des données de greffe avec conditionnement alemtuzumab, hydroxyurée, fludarabine, melphalan, thiotépa" }
+ ],
+ "duree": "Jusqu'à 5 ans après la greffe",
+ "critere": "Incidence de la GVHD aiguë et survie globale après greffe, jusqu'à 5 ans"
+}

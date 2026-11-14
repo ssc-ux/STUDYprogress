@@ -1,0 +1,28 @@
+{
+ "h": "ceae5a205109",
+ "date": "2026-11-14",
+ "titre": "Registre turc national du purpura thrombotique thrombocytopénique acquis",
+ "question": "Comment les patients atteints de PTT acquis sont-ils pris en charge et évoluent-ils en Turquie ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique (PTT) acquis est une microangiopathie thrombotique rare, due à des auto-anticorps dirigés contre ADAMTS13. Il associe thrombopénie, anémie hémolytique mécanique et atteintes d'organes ischémiques, et reste mortel sans traitement rapide.\n\nLe traitement repose sur les échanges plasmatiques, les corticoïdes et le rituximab, auxquels s'ajoute le caplacizumab qui bloque l'interaction entre facteur de von Willebrand et plaquettes. Les données en vie réelle, notamment sur les rechutes et les pratiques thérapeutiques, restent limitées dans de nombreux pays.\n\nCe registre observationnel national, porté par l'Association turque d'hématologie, regroupe 21 centres. Les patients sont traités selon la pratique habituelle et suivis au moins un an. Les patients déjà diagnostiqués depuis 2015 sont aussi inclus, avec recueil rétrospectif des traitements antérieurs, via un cahier d'observation électronique.",
+ "interet": "Le registre devrait décrire les schémas thérapeutiques réels et la fréquence des épisodes de PTT acquis en Turquie, utiles pour comparer les pratiques aux recommandations.",
+ "profil": "Des adultes avec un PTT acquis diagnostiqué depuis 2015 en Turquie.",
+ "inclusion": [
+  "Diagnostic de PTT acquis après le 01/01/2015",
+  "ADAMTS13 < 10 %",
+  "Thrombopénie < 100 000/mm³",
+  "Test de Coombs négatif",
+  "Anémie hémolytique microangiopathique",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "Absence de consentement éclairé signé"
+ ],
+ "bras": [
+  {
+   "nom": "Tous les patients",
+   "traitement": "Cohorte observationnelle, traitement selon la pratique habituelle du centre"
+  }
+ ],
+ "duree": "Au moins 12 mois de suivi",
+ "critere": "Nombre d'épisodes de PTT et description des schémas thérapeutiques, sur la durée de l'étude (en moyenne 4 ans)."
+}

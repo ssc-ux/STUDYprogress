@@ -1,0 +1,14 @@
+{
+ "h": "5b6a91815f91",
+ "date": "2026-11-14",
+ "titre": "Biobanque rhumatologique du Meir Medical Center",
+ "question": "Peut-on constituer une biobanque de protéines, d'ADN et d'ARN de patients atteints de maladies rhumatismales inflammatoires pour la recherche ?",
+ "contexte": "Les maladies rhumatismales auto-immunes sont chroniques, évoluent par poussées et régressions, et reposent sur un terrain génétique associé à des facteurs déclenchants (infections, médicaments, stress). En consultation, le suivi biologique repose sur un nombre limité de marqueurs (cytokines, anticorps), et les analyses génomiques ne sont que rarement faites, souvent au seul diagnostic.\n\nCe projet du Meir Medical Center (Israël) collecte du sérum, du liquide synovial et des biopsies cutanées de patients avec polyarthrite rhumatoïde, lupus, sclérodermie systémique, maladie liée aux IgG4 et syndrome de Sjögren, avant ou après traitement. Protéines, ADN et ARN sont extraits et stockés. Chaque projet de recherche utilisant ces échantillons devra obtenir l'accord du comité d'éthique. L'objectif est de combiner profils protéiques et génétiques au diagnostic et au suivi pour étudier la susceptibilité, la progression et la réponse thérapeutique.",
+ "interet": "La biobanque pourrait servir de base à de futures études visant une médecine plus personnalisée en rhumatologie, sans bénéfice direct pour les patients inclus.",
+ "profil": "Des adultes avec une maladie rhumatismale inflammatoire.",
+ "inclusion": ["Âge supérieur à 18 ans", "Consentement écrit", "Maladie rhumatismale (polyarthrite rhumatoïde, lupus, sclérodermie, maladie liée aux IgG4, Sjögren)"],
+ "exclusion": ["Aucun critère d'exclusion précisé"],
+ "bras": [{"nom": "Polyarthrite rhumatoïde", "traitement": "Prélèvements avant ou après traitement"}, {"nom": "Sclérodermie systémique", "traitement": "Prélèvements avant ou après traitement"}, {"nom": "Maladie liée aux IgG4", "traitement": "Prélèvements avant ou après traitement"}, {"nom": "Lupus", "traitement": "Prélèvements avant ou après traitement"}],
+ "duree": "Jusqu'à 20 ans de collecte",
+ "critere": "Recueil d'échantillons, sur 20 ans"
+}

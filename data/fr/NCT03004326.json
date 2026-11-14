@@ -1,0 +1,14 @@
+{
+ "h": "3ba70467e493",
+ "date": "2026-11-14",
+ "titre": "CUTIS : transcriptome des lésions cutanées des vascularites systémiques",
+ "question": "Quelles sont l'histopathologie et la signature transcriptomique des lésions cutanées dans différentes vascularites ?",
+ "contexte": "Les lésions cutanées (purpura, nodules, ulcères, urticaire) sont fréquentes dans les vascularites systémiques et sont facilement accessibles à la biopsie. Les formes concernées sont variées : vascularite cryoglobulinémique, GPA, PAM, GEPA, PAN, vascularite à IgA, vascularite urticarienne, vascularite cutanée isolée ou médicamenteuse.\n\nL'étude CUTIS est une étude observationnelle multicentrique, dont le promoteur est Peter Merkel (Université de Pennsylvanie), réseau Vasculitis Clinical Research Consortium. Les patients sont évalués conjointement par des équipes de vascularites et des dermatologues, puis bénéficient d'une biopsie cutanée à l'emporte-pièce sur un site de vascularite active. La biopsie sert à une analyse histopathologique standardisée et à une analyse transcriptomique. L'objectif est de comparer les signatures moléculaires entre vascularites et de rechercher des marqueurs liés aux données cliniques.",
+ "interet": "L'étude pourrait aider à distinguer les vascularites par leur profil moléculaire cutané et à identifier des cibles thérapeutiques ou des biomarqueurs.",
+ "profil": "Des patients de 5 ans ou plus avec une lésion cutanée liée à une vascularite active suspectée ou confirmée.",
+ "inclusion": ["Lésion cutanée (purpura, nodule, ulcère, urticaire) attribuée à une vascularite active", "Diagnostic suspecté ou confirmé : cryoglobulinémie, vascularite médicamenteuse, GEPA, vascularite à IgA, GPA, PAM, PAN, urticarienne ou cutanée isolée", "Âge ≥ 5 ans", "Consentement écrit (ou assentiment pour les mineurs)"],
+ "exclusion": ["Âge < 5 ans", "Biopsie contre-indiquée ou risque accru d'infection ou de saignement", "Neutrophiles < 1 500/mm3, plaquettes < 50 000/mm3 ou hémoglobine < 7 g/dL", "Maladie non contrôlée empêchant les procédures de l'étude", "Infection active ou mauvaise circulation près du site de biopsie ; grossesse ou allaitement", "Incapacité de consentir"],
+ "bras": [{"nom": "Cohorte vascularites cutanées", "traitement": "Biopsie cutanée à l'emporte-pièce d'une lésion active, avec recueil des données cliniques"}],
+ "duree": "Environ 1 an",
+ "critere": "Évaluation des données cliniques et des biopsies liées, à 1 an"
+}

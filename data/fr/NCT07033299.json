@@ -1,0 +1,32 @@
+{
+ "h": "9b41b119f744",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles CD19/CD20 (CT1192) dans les vascularites associées aux ANCA",
+ "question": "Des CAR-T allogéniques anti-CD19/CD20 (CT1192) sont-elles sûres et efficaces dans les vascularites à ANCA réfractaires ou en rechute ?",
+ "contexte": "Les vascularites associées aux ANCA (PAM, GPA, GEPA) sont traitées par corticoïdes associés à du rituximab ou du cyclophosphamide, puis par un traitement d'entretien. Certains patients restent actifs malgré ces traitements ou rechutent, avec une atteinte rénale ou pulmonaire pouvant engager le pronostic et une toxicité cumulée des corticoïdes.\n\nLa déplétion profonde des lymphocytes B par CAR-T est étudiée dans plusieurs maladies auto-immunes. Le ciblage simultané de CD19 et CD20 pourrait améliorer la profondeur de la déplétion. Un produit allogénique « universel » évite la fabrication à partir des cellules du patient.\n\nCette étude de phase 1 chinoise, monocentrique (Union Hospital de Wuhan, avec CARsgen), ouverte et à bras unique, comporte deux étapes. L'escalade de dose teste trois niveaux (3,0, 4,5 et 6,0 × 10^8 cellules CAR-CD19/CD20+), avec environ 12 patients, une période d'observation des toxicités limitantes de 28 jours et un intervalle de 14 jours entre les patients d'une même dose. L'expansion peut ensuite inclure jusqu'à 9 patients par dose retenue. Les patients doivent avoir un BVAS ≥ 15, être ANCA positifs, et avoir échoué à au moins 6 mois de corticoïdes et d'immunosuppresseurs ou avoir rechuté.",
+ "interet": "L'étude doit définir une dose recommandée et donner un premier aperçu de la tolérance et de l'efficacité de ce produit dans les vascularites à ANCA réfractaires. Elle est de petite taille et sans comparateur.",
+ "profil": "Des adultes de 18 à 60 ans atteints de vascularite à ANCA active (BVAS ≥ 15), réfractaire ou en rechute après corticoïdes et immunosuppresseurs.",
+ "inclusion": [
+  "Vascularite à ANCA (critères ACR/EULAR 2022 : PAM, GPA, GEPA), âge de 18 à 60 ans",
+  "Au moins 6 mois de corticoïdes et immunosuppresseurs sans efficacité, ou rechute après rémission (BVAS > 0)",
+  "ANCA positifs (p-ANCA ou c-ANCA) et BVAS ≥ 15",
+  "Pas d'infection systémique active dans les 2 semaines précédant le dépistage",
+  "Clairance de la créatinine ≥ 50 mL/min, neutrophiles ≥ 1 G/L, hémoglobine ≥ 90 g/L, ALAT/ASAT ≤ 2 N",
+  "SpO2 ≥ 92 %, FEVG ≥ 50 %",
+  "Contraception efficace jusqu'à 1 an après la perfusion"
+ ],
+ "exclusion": [
+  "CAR-T ou autre thérapie T génétiquement modifiée antérieure, greffe d'organe ou de cellules souches",
+  "Anti-CD20 (rituximab) dans les 6 mois, autre biothérapie dans les 12 semaines",
+  "Prednisone ≥ 10 mg/j, immunosuppresseurs ou anti-JAK dans les 2 semaines précédant la perfusion",
+  "Hémorragie de grade ≥ 2 ou anticoagulation au long cours, échanges plasmatiques ou hémodialyse dans les 30 jours",
+  "Cancer dans les 2 ans, chirurgie majeure dans les 4 semaines",
+  "VIH, syphilis, hépatite B ou C active",
+  "Maladie du système nerveux central, maladie cardiovasculaire récente, idées ou comportement suicidaires récents, grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Injection de CAR-T CT1192", "traitement": "Perfusion de CAR-T allogéniques CD19/CD20, escalade de dose : 3,0, 4,5 ou 6,0 × 10^8 cellules, puis expansion" }
+ ],
+ "duree": "12 mois après la perfusion pour les événements d'intérêt particulier",
+ "critere": "Tolérance de CT1192 (toxicités limitantes à 28 jours, événements indésirables à 180 jours, événements d'intérêt particulier à 12 mois) et dose maximale tolérée (jusqu'au jour 28)."
+}

@@ -1,0 +1,22 @@
+{
+ "h": "ace9d0facf72",
+ "date": "2026-11-14",
+ "titre": "Suivi à long terme de la thérapie génique autologue ex vivo dans le déficit en ADA",
+ "question": "Quelles sont la sécurité et l'efficacité à long terme de la thérapie génique EFS-ADA LV chez des patients atteints de DICS par déficit en ADA ?",
+ "contexte": "Le déficit en adénosine désaminase (ADA) est une cause de déficit immunitaire combiné sévère (DICS). L'accumulation de métabolites toxiques entraîne une lymphopénie profonde et des infections graves dès les premiers mois de vie. Les traitements actuels sont la greffe de cellules souches avec donneur compatible, l'enzymothérapie substitutive ou, plus récemment, la thérapie génique.\n\nLa thérapie génique autologue consiste à prélever les cellules souches hématopoïétiques du patient, à les corriger ex vivo avec un vecteur lentiviral porteur du gène ADA (EFS-ADA LV, développé dans le programme OTL-101), puis à les réinjecter. Elle évite la recherche de donneur et le risque de GVHD.\n\nLes autorités de santé imposent un suivi prolongé des patients traités par thérapie génique pour détecter des effets indésirables retardés, notamment liés à l'insertion du vecteur. Cette étude observationnelle de l'UCLA, avec le Great Ormond Street Hospital, assure ce suivi de longue durée, avec recueil prospectif annuel et rétrospectif pour les patients qui avaient terminé leur suivi protocolaire. Aucun produit expérimental n'est administré.",
+ "interet": "L'étude doit documenter la durabilité de la correction immunitaire et la sécurité tardive (survie, événements, sécurité) de cette thérapie génique sur 15 ans, en réponse aux exigences réglementaires.",
+ "profil": "Des patients atteints de DICS par déficit en ADA, déjà traités par thérapie génique autologue EFS-ADA LV.",
+ "inclusion": [
+  "Traitement antérieur par thérapie génique autologue ex vivo EFS-ADA LV du programme OTL-101",
+  "Marquage génique persistant détectable, selon l'investigateur",
+  "Consentement du patient ou de ses parents ou représentants légaux"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  { "nom": "Patients traités par thérapie génique", "traitement": "Suivi observationnel annuel, sans traitement de l'étude" }
+ ],
+ "duree": "Jusqu'à 15 ans après le traitement",
+ "critere": "Survie globale, survie sans événement et incidence des événements indésirables, jusqu'à 15 ans après le traitement"
+}

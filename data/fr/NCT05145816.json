@@ -1,0 +1,34 @@
+{
+ "h": "0322c8642ce4",
+ "date": "2026-11-14",
+ "titre": "Bélantamab mafodotine dans l'amylose AL en rechute ou réfractaire",
+ "question": "Quelle est la dose sûre et active de bélantamab mafodotine chez des patients ayant une amylose AL en rechute ou réfractaire ?",
+ "contexte": "L'amylose AL est une dyscrasie plasmocytaire rare, dont l'incidence est de 9,7 à 14 cas par million de personnes-années. Environ 75 % des patients ont une atteinte cardiaque au diagnostic d'après les biomarqueurs, et la dysfonction cardiaque est la première cause de morbidité et de mortalité.\n\nLe traitement repose sur un inhibiteur du protéasome, un alkylant, un anticorps anti-CD38 (daratumumab) et, chez les patients éligibles, une autogreffe. Les patients en rechute ou réfractaires après ces traitements ont peu d'options. Le bélantamab mafodotine, anticorps conjugué dirigé contre BCMA, est utilisé dans le myélome, mais n'a pas été évalué dans l'amylose AL. Sa toxicité cornéenne est un point d'attention.\n\nCette phase 1/2a de l'UT Southwestern comprend deux parties. La partie 1 teste des doses de 1,4 à 2,5 mg/kg, toutes les 8 ou 12 semaines. La partie 2 évalue la dose retenue chez 37 patients au total. Les critères principaux sont la tolérance et les toxicités limitant la dose.",
+ "interet": "L'étude pourrait ouvrir une option anti-BCMA pour les patients multitraités atteints d'amylose AL, avec une dose adaptée à cette population.",
+ "profil": "Des adultes ayant une amylose AL en rechute ou réfractaire après inhibiteur du protéasome, alkylant et anti-CD38.",
+ "inclusion": [
+  "Amylose AL en rechute ou réfractaire, traitée par inhibiteur du protéasome, alkylant et anti-CD38 (ou échec ou inéligibilité à ces agents)",
+  "Amylose AL prouvée (Rouge Congo ou microscopie électronique, typage confirmé)",
+  "Maladie mesurable (protéine M ≥ 0,5 g/dL ou chaînes légères libres ≥ 50 mg/L)",
+  "Au moins un organe atteint (cœur, rein, foie, tube digestif, poumon, tissus mous)",
+  "NYHA I à IIIa, ECOG 0-2, FEVG > 35 %",
+  "Fonctions médullaire, hépatique et rénale (DFG ≥ 30) suffisantes"
+ ],
+ "exclusion": [
+  "Myélome multiple symptomatique déjà traité",
+  "Maladie cornéenne (sauf kératopathie ponctuée légère), port de lentilles de contact",
+  "Patient éligible à l'autogreffe",
+  "NT-proBNP ≥ 8500 ng/L, NYHA IIIb à IV, insuffisance cardiaque instable ou autre pathologie cardiovasculaire significative",
+  "Cancer antérieur (sauf exceptions), infection active, maladie hépatique instable",
+  "Hypersensibilité au bélantamab, grossesse ou allaitement",
+  "Chirurgie majeure dans les 4 semaines, produit expérimental récent"
+ ],
+ "bras": [
+  { "nom": "Partie 1, niveau 0", "traitement": "Bélantamab mafodotine 1,9 mg/kg IV toutes les 8 semaines" },
+  { "nom": "Partie 1, niveau +1", "traitement": "Bélantamab mafodotine 2,5 mg/kg IV toutes les 8 semaines" },
+  { "nom": "Partie 1, niveaux -1 et -2", "traitement": "Bélantamab mafodotine 1,9 ou 1,4 mg/kg IV toutes les 12 semaines" },
+  { "nom": "Partie 2, expansion", "traitement": "Dose recommandée issue de la partie 1 (1,0 à 2,5 mg/kg toutes les 8 ou 12 semaines)" }
+ ],
+ "duree": "Non précisé",
+ "critere": "Toxicités limitant la dose : partie 1 jusqu'à 24 semaines après le jour 1 du cycle 1, partie 2 jusqu'à 90 jours après la fin du traitement"
+}

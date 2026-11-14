@@ -1,0 +1,23 @@
+{
+ "h": "12467391787a",
+ "date": "2026-11-14",
+ "titre": "Syndrome de Chediak-Higashi et variants : étude clinique, biologique et moléculaire (NHGRI)",
+ "question": "Quel est le spectre clinique et biologique du syndrome de Chediak-Higashi et de ses variants, et quels mécanismes cellulaires en sont responsables ?",
+ "contexte": "Le syndrome de Chediak-Higashi est une maladie autosomique récessive rare. Sa forme classique associe un albinisme oculo-cutané, un syndrome hémorragique, des infections récidivantes par anomalie des neutrophiles et des cellules NK, puis une phase accélérée lymphohistiocytaire. Le décès survient souvent dans la première décennie, par infection ou phase accélérée.\n\nLa greffe de moelle osseuse guérit l'atteinte hématologique et immunitaire, mais une détérioration neurologique peut survenir tardivement. Les formes classiques sont liées à des mutations du gène LYST, probablement impliqué dans la fusion et le trafic des vésicules intracellulaires. Des formes atténuées, à prédominance neurologique, existent sans cause génétique identifiée. Cette étude du NHGRI (États-Unis) évalue des patients cliniquement, biochimiquement et moléculairement, avec des études cellulaires sur fibroblastes, mélanocytes et lymphoblastes. Elle comporte des hospitalisations de 3 à 5 jours tous les 1 à 2 ans. Elle est observationnelle.",
+ "interet": "L'étude vise à mieux décrire les variants et l'atteinte neurologique, y compris chez les patients greffés devenus adultes. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients de 1 mois à 70 ans ayant un syndrome de Chediak-Higashi confirmé ou suspecté.",
+ "inclusion": [
+  "Âge de 1 mois à 70 ans",
+  "Albinisme oculo-cutané, quel que soit son degré",
+  "Diathèse hémorragique ou antécédent d'infections excessives dans l'enfance",
+  "Preuve objective d'un déficit de stockage plaquettaire ou de granules géants leucocytaires non exigée"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non précisés"
+ ],
+ "bras": [
+  {"nom": "Syndrome de Chediak-Higashi", "traitement": "Patients confirmés ou suspectés, évalués cliniquement, biologiquement et génétiquement lors d'hospitalisations de 3 à 5 jours tous les 1 à 2 ans"}
+ ],
+ "duree": "Hospitalisations de 4-5 jours tous les 1 à 2 ans, suivi au long cours",
+ "critere": "Description des signes cliniques et biologiques du syndrome de Chediak-Higashi et de ses variants, lors des hospitalisations tous les 1 à 2 ans"
+}

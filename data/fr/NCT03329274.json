@@ -1,0 +1,14 @@
+{
+ "h": "cdbf6f8e70b2",
+ "date": "2026-11-14",
+ "titre": "Registre de la maladie d'Erdheim-Chester et des autres histiocytoses (MSK)",
+ "question": "Quels problèmes de santé, quels résultats de traitement et quel retentissement sur la vie des patients l'histiocytose entraîne-t-elle au fil du temps ?",
+ "contexte": "La maladie d'Erdheim-Chester, l'histiocytose langerhansienne, la maladie de Rosai-Dorfman et les autres néoplasies histiocytaires sont des maladies rares. Elles peuvent atteindre les os, le système nerveux central, le cœur, le rétropéritoine et d'autres organes. Les données sur leur histoire naturelle, leurs traitements (inhibiteurs de BRAF et de MEK, cytokines, chimiothérapie) et leur retentissement psychosocial restent limitées.\n\nCe registre du Memorial Sloan Kettering recueille, avec consentement, les dossiers médicaux passés et futurs de patients adultes. Certains participants sont invités à un court entretien téléphonique sur la qualité de vie et les attitudes face à la maladie. L'objectif est de constituer une base pour mieux comprendre ces maladies et leur évolution.",
+ "interet": "Le registre pourrait fournir des données de vie réelle sur les traitements et l'évolution des histiocytoses de l'adulte, en complément des études cliniques.",
+ "profil": "Des adultes anglophones avec une maladie d'Erdheim-Chester ou une autre histiocytose.",
+ "inclusion": ["Diagnostic d'Erdheim-Chester, histiocytose langerhansienne, Rosai-Dorfman ou autre néoplasie histiocytaire", "Établi par histologie, ou histologie compatible avec signes cliniques ou radiologiques, ou imagerie évocatrice sans biopsie, ou auto-déclaré avec dossier médical", "Maîtrise de l'anglais", "Accord pour l'envoi des dossiers médicaux passés et futurs au registre", "Âge ≥ 18 ans"],
+ "exclusion": ["Refus de signer le consentement", "Âge < 18 ans"],
+ "bras": [{"nom": "Patients avec Erdheim-Chester et autres histiocytoses", "traitement": "Registre : recueil des dossiers médicaux, entretien téléphonique pour certains participants"}],
+ "duree": "Non précisé (création du registre sur 3 ans)",
+ "critere": "Création d'un registre de la maladie d'Erdheim-Chester et des autres histiocytoses, sur 3 ans"
+}

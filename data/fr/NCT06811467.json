@@ -1,0 +1,27 @@
+{
+ "h": "5861731dcb18",
+ "date": "2026-11-14",
+ "titre": "Idées suicidaires et risque cardiovasculaire dans l'angioedème héréditaire",
+ "question": "Quelle est la fréquence et la sévérité des idées suicidaires chez les patients ayant un angioedème héréditaire, et sont-elles liées au risque cardiovasculaire ?",
+ "contexte": "L'angioedème héréditaire (AOH) par déficit en C1-inhibiteur est une maladie rare à crises imprévisibles de gonflements sous-cutanés et muqueux, parfois laryngés. La charge psychologique est importante : anxiété, dépression et altération de la qualité de vie sont décrites, mais les idées suicidaires restent peu étudiées.\n\nCette étude observationnelle transversale équatorienne, promue par le Dr Ivan Cherrez Ojeda, évalue par questionnaire les idées suicidaires (échelle SIDAS), l'anxiété et la dépression chez 100 patients. Elle les met en relation avec le contrôle et l'activité de la maladie, la qualité de vie et des marqueurs cardiovasculaires (triglycérides, glycémie, IMC). Les patients à haut risque pourraient ensuite être suivis après une intervention en santé mentale.",
+ "interet": "Elle pourrait appuyer le dépistage systématique des idées suicidaires et du risque cardiométabolique dans l'AOH.",
+ "profil": "Des adultes atteints d'angioedème héréditaire confirmé.",
+ "inclusion": [
+  "Angioedème héréditaire confirmé (C1-INH abaissé en taux ou en activité, ou séquençage génomique)",
+  "Âge > 18 ans"
+ ],
+ "exclusion": [
+  "Déficience intellectuelle",
+  "Refus de participer",
+  "Déficit acquis en C1-INH",
+  "Autres maladies dermatologiques"
+ ],
+ "bras": [
+  {
+   "nom": "HAE-SAFE 1",
+   "traitement": "Cohorte unique de patients avec AOH, évalués par questionnaires et bilan biologique (observationnel)"
+  }
+ ],
+ "duree": "Évaluation unique (jour 1)",
+ "critere": "Sévérité des idées suicidaires mesurée par l'échelle SIDAS au jour 1."
+}

@@ -1,0 +1,36 @@
+{
+ "h": "5201ae2e90c4",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-T dans le PTI chronique ou réfractaire",
+ "question": "Les cellules CAR-T sont-elles efficaces et sûres dans le PTI chronique ou réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) chronique ou réfractaire reste un défi malgré les corticoïdes, les immunoglobulines, les agonistes du récepteur de la TPO, le rituximab et la splénectomie. Certains patients gardent des plaquettes basses et un risque hémorragique, ou dépendent de traitements prolongés.\n\nLes CAR-T ciblant les lymphocytes B visent à éliminer les clones producteurs d'auto-anticorps et à reconstituer un répertoire B naïf. Elles ont montré des résultats dans d'autres maladies auto-immunes.\n\nCet essai chinois de phase 1/2, monocentrique, ouvert et à bras unique, inclut environ 10 patients de 8 à 75 ans avec un PTI chronique (> 12 mois) ou réfractaire, et des plaquettes < 30 G/L. Après leucaphérèse et lymphodéplétion par fludarabine et cyclophosphamide pendant 3 à 5 jours, les CAR-T sont perfusées. Le suivi est de 12 semaines, puis d'au moins 12 mois en cas de rémission durable.",
+ "interet": "L'étude pourrait documenter la réponse plaquettaire et la tolérance des CAR-T dans le PTI. L'effectif est très limité.",
+ "profil": "Des patients de 8 à 75 ans avec un PTI chronique ou réfractaire et des plaquettes inférieures à 30 G/L.",
+ "inclusion": [
+  "Âge 8-75 ans",
+  "PTI chronique (> 12 mois) ou réfractaire aux traitements de première et deuxième ligne",
+  "Plaquettes < 30 G/L",
+  "Corticoïdes éventuels à dose stable depuis 2 semaines",
+  "Autres causes de thrombopénie exclues",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Causes de thrombopénie secondaire",
+  "Splénectomie préventive",
+  "Autre trouble de l'hémostase, agrégation plaquettaire anormale",
+  "Antiagrégants, AINS ou anticoagulants récents",
+  "Cancer concomitant ou chimiothérapie/radiothérapie antérieure",
+  "Insuffisance cardiaque III-IV, infarctus ou stent dans l'année",
+  "Antécédent de thrombose ou facteurs de risque thrombotique importants",
+  "VIH, hépatite B ou C actives, infection active",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T",
+   "traitement": "Lymphodéplétion par fludarabine et cyclophosphamide (3 à 5 jours) puis perfusion de CAR-T"
+  }
+ ],
+ "duree": "12 semaines, puis au moins 12 mois si rémission durable",
+ "critere": "Proportion de patients répondeurs, au moins 2 semaines après la perfusion."
+}

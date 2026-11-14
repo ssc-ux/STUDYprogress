@@ -1,0 +1,54 @@
+{
+ "h": "2bf66c83a41e",
+ "date": "2026-11-14",
+ "titre": "Imagerie TEP-IRM de la fibrose myocardique avec FAPI dans les cardiomyopathies",
+ "question": "La TEP au FAPI marqué mesure-t-elle l'activité de la fibrose myocardique dans différentes cardiomyopathies et prédit-elle son évolution ?",
+ "contexte": "La fibrose myocardique joue un rôle majeur dans de nombreuses cardiomyopathies : insuffisance cardiaque à fraction d'éjection préservée, cardiomyopathie hypertrophique, cardiopathie hypertensive, cardiomyopathie arythmogène, myocardite, Takotsubo et sarcoïdose cardiaque. Elle conduit à l'insuffisance cardiaque, aux arythmies et au décès. Beaucoup de ces maladies restent mal comprises, avec peu de traitements.\n\nL'IRM au gadolinium montre la fibrose établie, mais pas son activité. Les traceurs ciblant la protéine d'activation des fibroblastes (FAPI), marqués au gallium-68 ou au fluor-18, sont utilisés en oncologie et pourraient révéler les fibroblastes actifs dans le cœur.\n\nCette étude de l'université d'Édimbourg inclut environ 290 patients de 30 à 90 ans dans sept cohortes. Chacun a une échocardiographie et une TEP-IRM cardiaque avec 200 MBq de FAPI, puis une échocardiographie et une IRM cardiaque environ un an plus tard.",
+ "interet": "Elle pourrait faire de la TEP-FAPI un marqueur d'activité fibrotique pour stratifier le risque et évaluer de futurs traitements antifibrosants.",
+ "profil": "Des adultes de 30 à 90 ans avec une cardiomyopathie ou une maladie du myocarde (IC à FEVG préservée, CMH, cardiopathie hypertensive, CAVD, myocardite, Takotsubo, sarcoïdose cardiaque).",
+ "inclusion": [
+  "Âge 30-90 ans, consentement éclairé",
+  "IC à fraction d'éjection préservée symptomatique (FEVG > 50 %, dysfonction diastolique)",
+  "Ou cardiomyopathie hypertrophique (paroi > 15 mm, ou > 13 mm avec éléments d'appui)",
+  "Ou cardiopathie hypertensive avec hypertrophie ventriculaire",
+  "Ou cardiomyopathie arythmogène (critères 2010)",
+  "Ou myocardite ou Takotsubo datant de moins d'un mois",
+  "Ou sarcoïdose cardiaque diagnostiquée depuis au moins 1 an"
+ ],
+ "exclusion": [
+  "Refus ou incapacité de consentir",
+  "Claustrophobie ou impossibilité de rester allongé pour le TEP-IRM",
+  "DFG < 30 ml/min/1,73 m²",
+  "Grossesse ou allaitement",
+  "Allergie à l'iode ou au gadolinium",
+  "Contre-indication au scanner"
+ ],
+ "bras": [
+  {
+   "nom": "IC à fraction d'éjection préservée",
+   "traitement": "Échocardiographie et TEP-IRM au FAPI (200 MBq), puis suivi à 1 an"
+  },
+  {
+   "nom": "CMH et cardiopathie hypertensive",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Sarcoïdose cardiaque",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Cardiomyopathie arythmogène",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Myocardite",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Takotsubo",
+   "traitement": "Mêmes examens"
+  }
+ ],
+ "duree": "Environ 12 à 18 mois (examens initiaux et de suivi)",
+ "critere": "Valeurs de fixation normalisées (SUV) et rapport cible/bruit de fond du traceur, à 1-2 ans."
+}

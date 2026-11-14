@@ -1,0 +1,32 @@
+{
+ "h": "3d17f355c10c",
+ "date": "2026-11-14",
+ "titre": "Romiplostim N01 associé à la dexaméthasone en première ligne du PTI de l'adulte",
+ "question": "L'ajout de romiplostim N01 à la dexaméthasone à forte dose augmente-t-il la rémission prolongée dans le PTI nouvellement diagnostiqué ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) de l'adulte est traité en première ligne par corticoïdes, dont la dexaméthasone à forte dose en cure courte. Beaucoup de patients rechutent à l'arrêt, et seule une minorité conserve une rémission prolongée.\n\nLes agonistes du récepteur de la thrombopoïétine stimulent la production plaquettaire. Utilisés en deuxième ligne, ils sont maintenant testés dès la première ligne en association avec les corticoïdes, pour obtenir des réponses plus durables.\n\nCette étude de phase 2 chinoise, multicentrique, randomisée en ouvert, est conduite par l'Institut d'hématologie de Tianjin avec de nombreux hôpitaux collaborateurs. Elle inclut 129 adultes de 18 à 75 ans avec un PTI diagnostiqué depuis moins de 3 mois, sans traitement antérieur et avec plaquettes < 30 G/L. La randomisation est de 2 pour 1. Le bras expérimental reçoit dexaméthasone 40 mg/j pendant 4 jours (cure répétée au besoin au 10e jour) et romiplostim N01 à 3 µg/kg par semaine, adapté selon les plaquettes (maximum 10 µg/kg) pendant 6 mois au plus. Le comparateur est la dexaméthasone seule. Le suivi dure jusqu'à 24 semaines après la fin du traitement.",
+ "interet": "Si la rémission prolongée est améliorée, l'association pourrait modifier la première ligne du PTI de l'adulte. Le produit étudié est une version de romiplostim propre au promoteur, ce qui limite la transposition immédiate des résultats.",
+ "profil": "Des adultes de 18 à 75 ans atteints de PTI primaire nouvellement diagnostiqué, non traité, avec plaquettes < 30 G/L.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, consentement écrit",
+  "PTI primaire diagnostiqué depuis moins de 3 mois",
+  "Aucun traitement antérieur du PTI, aucun romiplostim antérieur",
+  "Plaquettes < 30 G/L",
+  "ECOG 0 à 2, espérance de vie ≥ 12 semaines",
+  "Contraception fiable pendant l'étude pour les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (leucémie, myélodysplasie, myélome, déficit immunitaire commun variable, thrombopénie héréditaire, maladies auto-immunes comme SAPL, lupus)",
+  "Splénectomie, traitement antérieur du PTI, agoniste de c-Mpl ou facteur de croissance dans les 4 semaines, anticorps (rituximab) dans les 14 semaines",
+  "Thrombose artérielle ou veineuse, anticoagulants ou antiagrégants en cours",
+  "Maladie cardiovasculaire sévère (insuffisance cardiaque III-IV, stent, pontage)",
+  "VIH, syphilis, hépatite C ou B avec charge virale supérieure à la limite du centre",
+  "Participation à une autre étude dans les 3 mois, grossesse ou allaitement",
+  "Allergie sévère aux corticoïdes ou au romiplostim"
+ ],
+ "bras": [
+  { "nom": "Romiplostim N01 + dexaméthasone", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (une cure, répétée au jour 10 si besoin) et romiplostim N01 sous-cutané hebdomadaire, 3 µg/kg initialement, ajusté jusqu'à 10 µg/kg, jusqu'à 6 mois" },
+  { "nom": "Dexaméthasone seule", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (une cure, répétée au jour 10 si besoin)" }
+ ],
+ "duree": "6 mois de traitement, puis suivi jusqu'à 24 semaines après la fin du traitement",
+ "critere": "Proportion de patients en rémission continue à 6 mois."
+}

@@ -1,0 +1,23 @@
+{
+ "h": "c200602e4e3d",
+ "date": "2026-11-14",
+ "titre": "Cellules souches pluripotentes induites dérivées de patients atteints de maladies neurologiques",
+ "question": "Peut-on obtenir des cellules souches pluripotentes induites (iPS) à partir de cellules somatiques de patients atteints de maladies neurodégénératives, pour étudier ces maladies et tester des médicaments ?",
+ "contexte": "Les fibroblastes humains et d'autres cellules somatiques peuvent être reprogrammés en cellules souches pluripotentes induites par l'expression forcée de facteurs de transcription. Ces cellules se comportent de façon proche des cellules souches embryonnaires humaines et peuvent être différenciées en types cellulaires atteints dans une maladie donnée.\n\nLes iPS de patients permettent d'étudier le développement, la survie et la fonction des cellules touchées, de développer de nouveaux médicaments et de cribler des molécules à grande échelle. Les vecteurs rétroviraux et certains facteurs oncogènes comme c-Myc limitent leur emploi thérapeutique, mais des méthodes alternatives apparaissent. Cette étude du Hadassah Medical Organization (Jérusalem) obtient des cellules à partir de biopsies cutanées ou de cheveux de patients et de donneurs sains. Les iPS obtenues ne sont pas destinées à la greffe. L'étude est observationnelle.",
+ "interet": "L'étude fournit des modèles cellulaires de maladies neurodégénératives pour la recherche et la découverte de médicaments. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes atteints de maladies neurodégénératives, et des donneurs sains témoins, donnant de la peau ou des cheveux.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Donneur atteint d'une maladie neurodégénérative spécifiée, devant subir une chirurgie pour raison médicale ou donnant quelques cheveux entiers",
+  "Ou donneur sain devant subir une chirurgie pour raison médicale ou donnant quelques cheveux entiers"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {"nom": "Patients avec maladie neurodégénérative", "traitement": "Don de cellules somatiques (biopsie cutanée lors d'une chirurgie ou cheveux) pour dériver des cellules iPS"},
+  {"nom": "Donneurs sains", "traitement": "Don de cellules somatiques comme témoins"}
+ ],
+ "duree": "Non précisé (don unique de cellules)",
+ "critere": "Non précisé"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "ad9ec1d740b4",
+ "date": "2026-11-14",
+ "titre": "Baricitinib dans la sarcoïdose cardiaque active",
+ "question": "Le baricitinib, associé à un traitement épargneur de corticoïdes, fait-il disparaître la fixation cardiaque du FDG au TEP-TDM dans la sarcoïdose cardiaque active ?",
+ "contexte": "La sarcoïdose cardiaque est une atteinte grave de la sarcoïdose, avec risque de troubles de conduction, d'arythmies ventriculaires et d'insuffisance cardiaque. Le traitement repose sur les corticoïdes, souvent associés à des immunosuppresseurs (méthotrexate, azathioprine, mycophénolate) ou à un anti-TNF, avec des données surtout observationnelles et des effets indésirables des corticoïdes au long cours.\n\nLes granulomes sarcoïdosiques dépendent de voies de signalisation JAK-STAT. Des cas rapportent une réponse aux inhibiteurs de JAK dans la sarcoïdose réfractaire. Le baricitinib est un inhibiteur de JAK1/JAK2, utilisé dans la polyarthrite rhumatoïde. Cette phase 2a monocentrique ouverte de Stanford inclut 10 adultes ayant une sarcoïdose cardiaque active en TEP-TDM au FDG. Ils reçoivent le baricitinib 4 mg/jour jusqu'à 16 semaines avec un épargneur de corticoïdes, et une décroissance des corticoïdes en 8 semaines.",
+ "interet": "Elle fournira un premier signal d'activité du baricitinib dans la sarcoïdose cardiaque, mesuré objectivement par TEP-TDM. Le petit effectif et l'absence de comparateur imposent de la prudence.",
+ "profil": "Des adultes de 18 à 85 ans ayant une sarcoïdose cardiaque active en TEP-TDM au FDG.",
+ "inclusion": [
+  "Sarcoïdose cardiaque diagnostiquée (histologique, ou clinique : cardiomyopathie, FEVG < 40 %, TV soutenue, BAV de haut degré, etc.)",
+  "Fixation anormale du FDG cardiaque en TEP-TDM dans les 6 semaines précédant le dépistage",
+  "Autres causes de l'atteinte cardiaque exclues",
+  "Seuls immunosuppresseurs autorisés : méthotrexate, léflunomide, azathioprine, mycophénolate ; prednisone ≤ 20 mg/j"
+ ],
+ "exclusion": [
+  "Autre immunosuppresseur non biologique dans les 28 jours",
+  "Biothérapie ou inhibiteur de JAK dans les 28 jours ; anti-CD20 dans les 6 mois",
+  "Antécédent ou risque accru de thromboembolie veineuse",
+  "Tabagisme actuel",
+  "DFG < 30 mL/min/1,73 m²",
+  "Hb < 7,5 g/dL, neutrophiles < 1 000/mm³, lymphocytes < 500/mm³, plaquettes < 100 G/L",
+  "ASAT ou ALAT > 2 N, bilirubine > 2 N",
+  "Infection active significative, cancer actif ou datant de moins de 5 ans (sauf exceptions)"
+ ],
+ "bras": [
+  {
+   "nom": "Baricitinib + épargneur de corticoïdes",
+   "traitement": "Baricitinib 4 mg/jour jusqu'à 16 semaines avec un traitement épargneur de corticoïdes ; décroissance de la prednisone en 8 semaines"
+  }
+ ],
+ "duree": "16 semaines de traitement",
+ "critere": "Proportion de patients avec disparition de la fixation cardiaque du FDG au TEP-TDM, de l'inclusion à 16 semaines."
+}

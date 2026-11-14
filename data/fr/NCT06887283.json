@@ -1,0 +1,26 @@
+{
+ "h": "c33b91c3ca09",
+ "date": "2026-11-14",
+ "titre": "Registre d'Essen de l'amylose systémique",
+ "question": "Quels sont les caractéristiques, le parcours diagnostique, les traitements et l'évolution des patients ayant une amylose systémique suivie à Essen ?",
+ "contexte": "L'amylose systémique regroupe l'amylose AL (chaînes légères), l'amylose à transthyrétine (héréditaire ou sauvage) et des formes plus rares. L'atteinte cardiaque est un déterminant majeur du pronostic. Les outils diagnostiques actuels manquent de sensibilité pour la détection précoce, et il n'existe pas de marqueur robuste pour suivre la réponse au traitement.\n\nLe registre d'Essen est un registre prospectif monocentrique de l'hôpital universitaire d'Essen (Allemagne). Il inclut 400 adultes avec amylose suspectée ou confirmée, quelle qu'en soit la forme, avec recueil des données cliniques, biologiques, d'imagerie (échographie, IRM, scintigraphie) et d'évolution, sans questionnaire supplémentaire. Une biobanque permet de rechercher de nouveaux biomarqueurs pronostiques et prédictifs.",
+ "interet": "Il fournira des données de vie réelle et une biobanque pour améliorer le diagnostic précoce et le suivi de l'amylose, sans tester de traitement.",
+ "profil": "Des adultes avec amylose systémique suspectée ou confirmée, suivis à l'hôpital universitaire d'Essen.",
+ "inclusion": [
+  "Amylose suspectée ou confirmée (toute forme)",
+  "Consentement écrit",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Absence de consentement écrit"
+ ],
+ "bras": [
+  {
+   "nom": "Registre d'amylose",
+   "traitement": "Patients suivis longitudinalement, avec bilans cliniques, biologiques et d'imagerie de routine et biobanque (observationnel)"
+  }
+ ],
+ "duree": "Suivi de 24 mois pour le critère principal",
+ "critere": "Mortalité toutes causes ou hospitalisation non programmée pour insuffisance cardiaque à 24 mois."
+}

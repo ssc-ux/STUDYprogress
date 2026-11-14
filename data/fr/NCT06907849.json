@@ -1,0 +1,31 @@
+{
+ "h": "d424fc4de6bc",
+ "date": "2026-11-14",
+ "titre": "TEP-TDM à l'124I-évuzamitide chez des patients avec sténose lombaire ou syndrome du canal carpien amyloïde",
+ "question": "La TEP-TDM à l'124I-évuzamitide détecte-t-elle une amylose cardiaque ou extracardiaque chez des patients dont le tissu conjonctif opéré contient de l'amylose ?",
+ "contexte": "La sténose canalaire lombaire et le syndrome du canal carpien peuvent être des manifestations précoces d'une amylose à transthyrétine, avec un dépôt amyloïde dans le ligament jaune ou la ténosynoviale. Ces signes peuvent précéder de plusieurs années l'atteinte cardiaque, ce qui offre une occasion de dépistage et de traitement précoces.\n\nL'évuzamitide est un peptide qui se lie aux dépôts amyloïdes, marqué ici à l'iode 124 pour la TEP. Cette étude pilote de phase 2, monocentrique et ouverte, promue par l'Université du Tennessee, inclut 40 patients de 60 ans et plus opérés d'une sténose lombaire ou d'un canal carpien, avec amylose confirmée au rouge Congo sur la pièce opératoire. Chaque participant reçoit environ 1 mCi d'124I-évuzamitide IV, puis une TEP-TDM corps entier de l'épaule à la cuisse à 3 h et une acquisition cardiaque de 10 min.",
+ "interet": "Elle pourrait établir si cette imagerie détecte l'amylose cardiaque et systémique chez des patients à risque, en complément de la scintigraphie osseuse.",
+ "profil": "Des adultes de 60 ans et plus ayant une amylose du tissu conjonctif confirmée après chirurgie de sténose lombaire ou de canal carpien.",
+ "inclusion": [
+  "Âge ≥ 60 ans, consentement signé",
+  "Analyse au rouge Congo positive du ligament jaune ou de la ténosynoviale après laminectomie ou libération du canal carpien (charge amyloïde « importante » ou « légère à modérée »)",
+  "Si charge légère à modérée : au moins une autre manifestation orthopédique (canal carpien, sténose lombaire, doigt à ressaut, rupture du biceps, arthroplastie)",
+  "Femmes non enceintes et n'allaitant pas"
+ ],
+ "exclusion": [
+  "Dialyse",
+  "Amylose systémique confirmée autre que musculosquelettique",
+  "Héparine ou dérivés",
+  "Impossibilité de rester immobile environ 40 minutes",
+  "Allergie à l'iode (iodure de potassium)",
+  "Incapacité ou refus de respecter les exigences de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Biodistribution",
+   "traitement": "124I-évuzamitide environ 1 mCi (jusqu'à 1 mg de peptide) en IV, puis TEP-TDM de l'épaule à la cuisse à 3 h et acquisition cardiaque de 10 min"
+  }
+ ],
+ "duree": "8 jours",
+ "critere": "Détection de l'amylose cardiaque par TEP-TDM à l'124I-évuzamitide, de l'inclusion à la fin de l'étude (8 jours)."
+}

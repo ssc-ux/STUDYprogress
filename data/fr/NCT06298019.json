@@ -1,0 +1,33 @@
+{
+ "h": "0f3b44edf096",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 KYV-101 dans la dermatomyosite réfractaire de l'adulte",
+ "question": "Les CAR-T anti-CD19 KYV-101 sont-ils bien tolérés et ont-ils une activité dans la dermatomyosite réfractaire ?",
+ "contexte": "La dermatomyosite est une myopathie inflammatoire auto-immune avec atteinte musculaire, cutanée et parfois pulmonaire. Les corticoïdes, le mycophénolate, le méthotrexate, l'azathioprine, le rituximab, les inhibiteurs de JAK et les immunoglobulines IV constituent l'arsenal. Une partie des patients reste réfractaire, avec des séquelles musculaires et cutanées importantes.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B, dont un sous-groupe participe à la production d'auto-anticorps. L'idée est de « réinitialiser » le système immunitaire avec une nouvelle population B sans mémoire auto-immune. Des résultats encourageants existent dans le lupus et les myosites.\n\nCet essai de phase 1 de Stanford évalue le KYV-101, un CAR-T anti-CD19 autologue, chez environ 21 adultes de 25 à 72 ans avec une dermatomyosite modérée à sévère après échec des corticoïdes et d'au moins deux autres immunosuppresseurs. La tolérance est le critère principal ; l'activité cutanée, musculaire et pulmonaire est explorée à titre exploratoire.",
+ "interet": "Il pourrait apporter les premières données de tolérance du KYV-101 dans la dermatomyosite, sur laquelle fonder des essais d'efficacité.",
+ "profil": "Des adultes de 25 à 72 ans avec une dermatomyosite réfractaire modérée à sévère.",
+ "inclusion": [
+  "Dermatomyosite probable ou définie (critères EULAR/ACR 2017)",
+  "Âge 25-72 ans",
+  "Échec ou intolérance aux corticoïdes et à au moins deux immunosuppresseurs",
+  "Faiblesse musculaire (MMT-8 < 142/150) ou atteinte cutanée (CDASI-a ≥ 19) avec au moins deux autres mesures IMACS anormales",
+  "ECOG 0-1 et fonctions d'organes adéquates"
+ ],
+ "exclusion": [
+  "Traitement antérieur par thérapie cellulaire ou génique (CAR-T), greffe de cellules souches",
+  "Autre maladie auto-immune systémique nécessitant un immunosuppresseur",
+  "Myopathie d'une autre origine ou syndrome de chevauchement (sauf Sjögren)",
+  "Pneumopathie interstitielle sévère, hypertension pulmonaire ou gangrène digitale",
+  "Hépatite B/C active, VIH, infection non contrôlée",
+  "Cardiopathie significative (NYHA III-IV, FEVG < 45 %)",
+  "Cancer actif ou récent (hors exceptions), grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-CD19",
+   "traitement": "Perfusion unique de KYV-101 autologue après lymphodéplétion"
+  }
+ ],
+ "duree": "24 semaines pour le critère principal (suivi long après la perfusion)",
+ "critere": "Nombre de participants ayant des événements indésirables, sur 24 semaines."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "d8d15ca33e0b",
+ "date": "2026-11-14",
+ "titre": "Cognition et IRM cérébrale chez l'adulte avec histiocytose (Erdheim-Chester, LCH, Rosai-Dorfman)",
+ "question": "Les adultes avec histiocytose sans atteinte intracrânienne connue ont-ils des troubles cognitifs et des modifications de l'IRM cérébrale structurelle ou fonctionnelle ?",
+ "contexte": "Les histiocytoses de l'adulte (maladie d'Erdheim-Chester, histiocytose langerhansienne, maladie de Rosai-Dorfman) sont rares. Elles peuvent toucher le système nerveux central par infiltration directe, mais l'impact de la maladie ou de ses traitements sur les fonctions cognitives chez des patients sans atteinte cérébrale connue est mal décrit.\n\nCette étude observationnelle du Memorial Sloan Kettering compare le fonctionnement cognitif, la qualité de vie et la structure cérébrale de patients avec histiocytose. Elle associe des tests neuropsychologiques (attention, mémoire verbale et visuospatiale, fluence verbale), des questionnaires d'anxiété, de dépression et de plaintes cognitives (FACT-Cog), et une IRM cérébrale de routine complétée d'une IRM fonctionnelle de repos. Le critère porte sur la fonction neurocognitive, la qualité de vie et le volume de substance grise à un an. Seuls 13 patients sont prévus.",
+ "interet": "L'étude pourrait documenter les troubles cognitifs liés aux histiocytoses ou à leur traitement, mais le très faible effectif limite les conclusions.",
+ "profil": "Des adultes anglophones avec histiocytose, sans atteinte intracrânienne connue.",
+ "inclusion": ["Âge ≥ 18 ans", "Maîtrise de l'anglais", "Histiocytose établie par histopathologie, clinique ou imagerie, selon le promoteur", "IRM cérébrale de routine prévue"],
+ "exclusion": ["Atteinte intracrânienne connue (dure-mère, leptoméninges, parenchyme)", "AVC ou hémorragie intracrânienne antérieurs, autre tumeur ou maladie neurologique pouvant fausser l'imagerie", "Trouble psychiatrique, humeur dépressive non traitée, maladie neurodégénérative", "Consommation excessive d'alcool, corticothérapie continue ≥ 6 mois", "Cytarabine ou cladribine IV antérieures, autre traitement pouvant fausser l'évaluation", "Claustrophobie sévère ou contre-indication à l'IRM"],
+ "bras": [{"nom": "Histiocytose", "traitement": "Tests cognitifs, questionnaires de qualité de vie, IRM cérébrale structurelle et fonctionnelle de repos"}],
+ "duree": "1 an",
+ "critere": "Fonction neurocognitive, qualité de vie et volume de substance grise, à 1 an"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "04ce07f9d1d7",
+ "date": "2026-11-14",
+ "titre": "Durée optimale du tramétinib dans l'histiocytose réfractaire BRAF négative de l'enfant",
+ "question": "Quelle durée de tramétinib faut-il choisir chez des enfants atteints d'histiocytose réfractaire sans mutation BRAF, ou après échec du vémurafénib ?",
+ "contexte": "Les histiocytoses de l'enfant, dont l'histiocytose langerhansienne, sont des maladies clonales liées à une activation de la voie MAPK. Le traitement de première ligne associe vinblastine et prednisolone, avec en deuxième ligne la cytarabine ou la cladribine. Les formes réfractaires, avec atteinte d'organes à risque ou atteinte neurodégénérative, ont un mauvais pronostic.\n\nLorsque la mutation BRAF est absente, ou après échec du vémurafénib, l'inhibition de MEK par le tramétinib est une option logique, car d'autres mutations de la voie MAPK sont fréquentes. Comme pour le vémurafénib, la durée optimale du traitement n'est pas connue, et les rechutes à l'arrêt sont fréquentes.\n\nCette phase 2 polonaise (étude TRAM, projet POLHISTIO), monocentrique, ouverte et non commerciale, inclut 12 patients de 1 à 18 ans. Elle compare un arrêt du tramétinib après 3 mesures consécutives, puis 5 mesures consécutives, d'ADN tumoral circulant négatif ou de score d'activité de la maladie (DAS) à 0-1, espacées de 3 mois. Le critère principal est la survie sans événement à 2 ans.",
+ "interet": "L'étude pourrait aider à fixer la durée du traitement par inhibiteur de MEK chez l'enfant. Ses effectifs sont très petits.",
+ "profil": "Des enfants et adolescents de 1 à 18 ans ayant une histiocytose réfractaire sans mutation BRAF, ou en échec du vémurafénib.",
+ "inclusion": [
+  "Absence de mutation BRAF, ou échec du vémurafénib chez un patient BRAF positif",
+  "Échec du traitement : progression sous 1re ou 2e ligne, réactivation ou atteinte d'organe à risque",
+  "Ou progression ou réactivation après vémurafénib",
+  "Ou signes de maladie neurodégénérative à l'IRM cérébrale",
+  "Consentement éclairé, contraception efficace jusqu'à 1 an après l'arrêt si pubère",
+  "Participation à l'étude HISTIOGEN"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Hypersensibilité au tramétinib",
+  "Iritis, uvéite ou obstruction veineuse rétinienne",
+  "Traitement concomitant interagissant avec le tramétinib",
+  "Toxicité persistante d'un traitement antérieur",
+  "Autre cancer avant l'inclusion"
+ ],
+ "bras": [
+  { "nom": "R1", "traitement": "Tramétinib, avec ctDNA négatif ou DAS 0-1 sur 3 contrôles consécutifs à 3 mois d'intervalle" },
+  { "nom": "R2", "traitement": "Tramétinib, avec ctDNA négatif ou DAS 0-1 sur 5 contrôles consécutifs à 3 mois d'intervalle" }
+ ],
+ "duree": "Non précisé (critère évalué à 2 ans)",
+ "critere": "Survie sans événement à 2 ans"
+}

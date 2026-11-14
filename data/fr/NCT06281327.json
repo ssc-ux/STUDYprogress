@@ -1,0 +1,32 @@
+{
+ "h": "a4613f9a4fc0",
+ "date": "2026-11-14",
+ "titre": "Avatrombopag chez l'enfant avec thrombopénie immunologique après eltrombopag",
+ "question": "L'avatrombopag est-il efficace et bien toléré chez des enfants avec PTI traités auparavant par eltrombopag ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où la destruction des plaquettes s'associe à une production médullaire insuffisante. Chez l'enfant, le traitement de première ligne repose sur la surveillance, les corticoïdes ou les immunoglobulines. En deuxième ligne, les agonistes du récepteur de la thrombopoïétine (ARTPO) sont utilisés.\n\nL'eltrombopag est le seul ARTPO ayant une indication pédiatrique dans le PTI. Une proportion notable d'enfants y répond mal, présente de fortes fluctuations plaquettaires ou une intolérance, ou souhaite changer pour des raisons de préférence ou de coût. L'avatrombopag, ARTPO oral sans restriction alimentaire, est une alternative.\n\nCet essai chinois de phase 2, à bras unique, inclut environ 60 enfants de 6 à 18 ans passant de l'eltrombopag à l'avatrombopag. Il évalue la réponse plaquettaire à 12 semaines et la tolérance.",
+ "interet": "Il pourrait documenter l'intérêt d'un changement d'ARTPO chez l'enfant en échec ou intolérant à l'eltrombopag. Le bras unique limite la comparaison.",
+ "profil": "Des enfants et adolescents de 6 à 18 ans avec PTI primaire, déjà traités par eltrombopag.",
+ "inclusion": [
+  "Âge 6-18 ans",
+  "PTI primaire",
+  "Traitement antérieur par eltrombopag, remplacé pour inefficacité, fluctuations plaquettaires, préférence ou raisons économiques",
+  "Classe NYHA ≤ 2",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (connectivite, aplasie, SMD, cancer, médicament, constitutionnelle, DICV, lymphome)",
+  "Atteinte grave d'un organe majeur ou autre maladie immunitaire",
+  "Allergie à l'avatrombopag ou à ses excipients",
+  "Rituximab ou splénectomie dans les 3 mois",
+  "Antécédent d'anomalie d'agrégation plaquettaire",
+  "Toute condition jugée inadaptée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Avatrombopag",
+   "traitement": "Avatrombopag à la dose indiquée, 60 enfants"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 12 semaines)",
+ "critere": "Réponse globale à l'avatrombopag dans les 12 semaines."
+}

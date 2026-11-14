@@ -1,0 +1,35 @@
+{
+ "h": "955ba5c36145",
+ "date": "2026-11-14",
+ "titre": "Greffe de cellules souches à intensité réduite dans le déficit en DOCK8, avec donneur apparenté ou non",
+ "question": "Une greffe allogénique de cellules souches hématopoïétiques à intensité réduite, avec différents types de donneurs, corrige-t-elle le déficit en DOCK8 et ses infections sévères ?",
+ "contexte": "Le déficit en DOCK8 est un déficit immunitaire combiné autosomique récessif. Il associe des infections cutanées et sinopulmonaires bactériennes sévères, des infections virales cutanées étendues (herpès, zona, molluscum, papillomavirus), une IgE très élevée et une éosinophilie. Les patients meurent d'infections graves, de carcinomes épidermoïdes ou d'hémopathies malignes.\n\nLa greffe allogénique de cellules souches hématopoïétiques peut sauver la vie, et intervenir avant l'apparition de cancers est un argument. Cette étude de phase 2 du NCI (États-Unis) évalue l'efficacité et la sécurité de la greffe selon le type de donneur : 10/10 apparenté ou non apparenté (conditionnement fludarabine et busulfan), 9/10 ou haplo-identique (cyclophosphamide, fludarabine, busulfan et irradiation corporelle totale de 200 cGy). La prophylaxie de la GvHD repose sur le cyclophosphamide post-greffe, le mycophénolate et le tacrolimus. Des évaluations psychosociales et de qualité de vie des patients et aidants sont associées.",
+ "interet": "L'étude pourrait préciser quels schémas de greffe corrigent durablement le déficit en DOCK8, dans une maladie où la greffe est la seule option curative. Les résultats ne sont pas encore au registre.",
+ "profil": "Des enfants, adolescents et jeunes adultes (4 à 35 ans) ayant un déficit en DOCK8 avec infection grave ou cancer viro-induit, et un donneur disponible.",
+ "inclusion": [
+  "Âge de 4 à 35 ans, poids ≥ 12 kg",
+  "Déficit en DOCK8 : mutations homozygotes ou hétérozygotes composites confirmées et antécédent d'infection grave opportuniste ou viro-induite",
+  "Donneur 10/10 ou 9/10 HLA compatible, apparenté ou non, ou haplo-identique apparenté",
+  "Fraction d'éjection > 40 % (> 30 % si vascularite) ; VEMS > 50 %",
+  "Fonctions rénale et hépatique conservées (créatinine, bilirubine < 2,5 mg/dl, ALAT/ASAT ≤ 5 N)",
+  "Cancer en rémission, sauf cancer viro-induit",
+  "Consentement du patient ou du représentant légal"
+ ],
+ "exclusion": [
+  "Infection par le VIH ou hépatite B chronique active",
+  "Trouble psychiatrique compromettant l'observance ou le consentement",
+  "Atteinte active du système nerveux central par un cancer (sauf viro-induit)",
+  "Grossesse ou allaitement, absence de contraception efficace pendant 1 an",
+  "Cancer actif d'un autre organe (sauf viro-induit)",
+  "Absence de donneur HLA compatible ou haplo-identique disponible"
+ ],
+ "bras": [
+  {"nom": "Groupe A", "traitement": "Greffe avec donneur 10/10 apparenté ou non : fludarabine 40 mg/m²/j et busulfan IV (J-6 à J-3), puis cyclophosphamide post-greffe, mycophénolate et tacrolimus"},
+  {"nom": "Groupe B", "traitement": "Greffe avec donneur 9/10 apparenté ou non, ou haplo-identique : cyclophosphamide, fludarabine, busulfan et irradiation corporelle totale 200 cGy, puis cyclophosphamide post-greffe, mycophénolate et tacrolimus"},
+  {"nom": "Groupe C (clos)", "traitement": "Donneurs de cellules souches"},
+  {"nom": "Groupe D (clos)", "traitement": "Entretiens avec les familles"},
+  {"nom": "Groupe E", "traitement": "Évaluations psychosociales et de qualité de vie des patients et aidants pendant la greffe"}
+ ],
+ "duree": "Hospitalisation d'environ 1 mois, suivi jusqu'à 3 ans puis périodique",
+ "critere": "Faisabilité de la greffe, un an après la greffe (reconstitution des lymphocytes T, B et myéloïdes du donneur et correction du phénotype d'infections sévères)"
+}

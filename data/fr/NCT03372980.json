@@ -1,0 +1,14 @@
+{
+ "h": "a7b2178da69a",
+ "date": "2026-11-14",
+ "titre": "Registre de biomarqueurs de la maladie de Takayasu (ARSBTA, Pékin)",
+ "question": "Quels biomarqueurs permettent de diagnostiquer la maladie de Takayasu et d'évaluer son activité ?",
+ "contexte": "La maladie de Takayasu est une vascularite chronique des gros vaisseaux, qui touche surtout l'aorte et ses branches (troncs supra-aortiques, artères carotides, sous-clavières, vertébrales, rénales, coronaires et pulmonaires). L'inflammation entraîne des sténoses, des occlusions ou des anévrismes. Elle est très rare mais plus fréquente chez les jeunes femmes asiatiques.\n\nSes mécanismes sont mal connus, et la maladie reste souvent silencieuse jusqu'à l'apparition d'une occlusion vasculaire. L'évaluation de l'activité est difficile en pratique. Ce registre du Beijing Institute of Heart, Lung and Blood Vessel Diseases inclut des cas rétrospectifs, répondant aux critères ACR 1990, et des cas prospectifs avec suspicion ou nécessité d'évaluer l'activité, ainsi que des témoins. Il recueille échantillons et données pour rechercher des biomarqueurs diagnostiques et d'activité, avec une imagerie par angio-IRM ou angioscanner à la place de l'artériographie.",
+ "interet": "L'étude pourrait identifier des biomarqueurs sanguins utiles au diagnostic précoce et au suivi de l'activité de la maladie de Takayasu, où l'évaluation reste un défi.",
+ "profil": "Des adultes de 18 à 70 ans avec maladie de Takayasu confirmée ou suspectée, et des témoins.",
+ "inclusion": ["Rétrospectif : critères ACR 1990 (plus de 3 sur 6 : début ≤ 40 ans, claudication, pouls brachial diminué, différence tensionnelle ≥ 10 mmHg, souffle, sténose ou occlusion artérielle à l'imagerie)", "Imagerie par angio-IRM ou angioscanner", "Prospectif : suspicion de Takayasu, ou patient dont l'activité doit être évaluée", "Âge de 18 à 70 ans"],
+ "exclusion": ["Lésions artériographiques entièrement dues à l'athérosclérose", "Autre maladie auto-immune (vascularite à ANCA, lupus, etc.), syndrome de Cogan, maladie de Behçet", "Infection aiguë ou chronique grave, artérite à cellules géantes (≥ 50 ans), autre vascularite infectieuse des gros vaisseaux", "Prospectif : absence d'imagerie, ou autre maladie auto-immune confirmée"],
+ "bras": [{"nom": "Cas", "traitement": "Patients avec maladie de Takayasu : prélèvements et recueil de données cliniques"}, {"nom": "Témoins", "traitement": "Sujets contrôles : prélèvements"}],
+ "duree": "Non précisé (suivi de 6 mois environ pour l'activité)",
+ "critere": "Diagnostic de chaque participant (en moyenne 3 mois après le prélèvement) et activité de la maladie (en moyenne 6 mois après)"
+}

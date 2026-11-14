@@ -1,0 +1,29 @@
+{
+ "h": "447a5aee3c0d",
+ "date": "2026-11-14",
+ "titre": "Validation de modalités diagnostiques de l'amylose cardiaque devant des signaux d'alerte",
+ "question": "Quelle modalité diagnostique détecte le mieux l'amylose cardiaque chez des patients présentant des signaux d'alerte ?",
+ "contexte": "L'amylose cardiaque est une cardiomyopathie restrictive due au dépôt extracellulaire de fibrilles de protéines mal repliées. On distingue l'amylose à chaînes légères (AL-CA) et l'amylose à transthyrétine (ATTR-CA), héréditaire (ATTRv) ou sauvage (ATTRwt). Elle est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée, en raison de ses présentations variées et d'une faible sensibilisation.\n\nLes « signaux d'alerte » (syndrome du canal carpien bilatéral, rupture du long biceps, sténose canalaire lombaire, épaisseur ventriculaire ≥ 12 mm avec insuffisance cardiaque, bloc auriculoventriculaire, microvoltage à l'ECG, sténose aortique à bas débit paradoxale) permettent d'orienter le diagnostic.\n\nCette étude de l'université d'Assiut (Égypte) inclut 30 patients avec signaux d'alerte et compare le rendement de l'échographie avec strain (speckle tracking), de l'IRM cardiaque, de l'analyse des protéines sériques et urinaires et de la scintigraphie aux traceurs osseux.",
+ "interet": "Elle devrait aider à choisir les examens les plus rentables pour le diagnostic de l'amylose cardiaque dans un contexte à ressources limitées.",
+ "profil": "Des patients avec au moins un signal d'alerte clinique ou d'imagerie d'amylose cardiaque.",
+ "inclusion": [
+  "Syndrome du canal carpien bilatéral, signe de Popeye ou sténose lombaire avec canal carpien unilatéral",
+  "Épaisseur ventriculaire gauche ≥ 12 mm avec insuffisance cardiaque (hommes > 60 ans, femmes > 70 ans)",
+  "Épaisseur ≥ 12 mm avec bloc auriculoventriculaire ou stimulateur, ou microvoltage ECG",
+  "Phénotype infiltratif ou sténose aortique paradoxale à bas débit",
+  "Un seul signal d'alerte suffit"
+ ],
+ "exclusion": [
+  "Refus de consentement aux examens",
+  "Contre-indication à l'IRM cardiaque ou à la scintigraphie (dispositif implantable non compatible, claustrophobie, insuffisance rénale sévère)",
+  "Autre cardiopathie infiltrative établie"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec signaux d'alerte",
+   "traitement": "Échographie avec strain, IRM cardiaque, analyse des protéines sériques et urinaires et scintigraphie osseuse"
+  }
+ ],
+ "duree": "Évaluation à l'inclusion",
+ "critere": "Rendement diagnostique des différentes modalités pour la détection de l'amylose cardiaque, à l'inclusion."
+}

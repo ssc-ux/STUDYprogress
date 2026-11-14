@@ -1,0 +1,33 @@
+{
+ "h": "df9f934a3a1fr",
+ "date": "2026-11-14",
+ "titre": "Tipifarnib chez l'enfant et le jeune adulte : tumeurs avec altération de HRAS (Pediatric MATCH)",
+ "question": "Le tipifarnib, inhibiteur de la farnésyltransférase, entraîne-t-il une réponse tumorale chez des enfants et jeunes adultes ayant une tumeur solide, un lymphome ou une histiocytose avec altération de HRAS ?",
+ "contexte": "Les cancers de l'enfant en rechute ou réfractaires ont un pronostic sombre et peu d'options thérapeutiques validées. Des mutations activatrices de HRAS sont rares mais retrouvées dans plusieurs tumeurs pédiatriques (sarcomes, tumeurs cérébrales, neuroblastome, histiocytoses entre autres). HRAS doit être farnésylé pour être actif à la membrane cellulaire.\n\nLe tipifarnib inhibe la farnésyltransférase et a montré une activité dans des cancers adultes porteurs de mutations HRAS, notamment des carcinomes épidermoïdes de la tête et du cou. Cette étude de phase 2 est un sous-protocole du programme Pediatric MATCH du National Cancer Institute et du Children's Oncology Group. Les patients sont orientés vers ce bras après un séquençage tumoral qui identifie une altération actionnable de HRAS. Le schéma est à un seul bras, sans comparateur, avec la réponse objective comme critère principal.",
+ "interet": "L'étude teste une approche guidée par le profil moléculaire, quel que soit le type histologique. Elle renseigne sur l'activité et la tolérance du tipifarnib chez l'enfant, population où les données sont très limitées.",
+ "profil": "Des enfants et jeunes adultes (12 mois à 21 ans) ayant une tumeur solide, un lymphome ou une histiocytose en rechute ou réfractaire, avec altération activatrice de HRAS.",
+ "inclusion": [
+  "Âge de 12 mois à 21 ans",
+  "Inscription au protocole de dépistage APEC1621SC et affectation au bras tipifarnib (altération HRAS actionnable)",
+  "Maladie mesurable en imagerie (RECIST 1.1) ; MIBG positive acceptée pour le neuroblastome",
+  "Indice de performance Karnofsky/Lansky ≥ 50",
+  "Récupération des toxicités des traitements antérieurs et délais respectés depuis la dernière chimiothérapie ou radiothérapie",
+  "Fonctions médullaire, rénale et hépatique conservées",
+  "Capacité à avaler les comprimés (entiers ou écrasés) ou sonde gastrique possible"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Exposition antérieure au tipifarnib",
+  "Traitement concomitant par un autre anticancéreux ou un médicament expérimental",
+  "Inducteurs ou inhibiteurs puissants du CYP3A4/5 ou de l'UGT",
+  "Hypersensibilité au tipifarnib ou aux imidazolés",
+  "Infection non contrôlée ou antécédent de greffe d'organe solide",
+  "Corticoïdes à dose non stable ou non décroissante depuis 7 jours"
+ ],
+ "bras": [
+  {"nom": "Traitement (tipifarnib)", "traitement": "Tipifarnib 350 mg/m² par prise (max 600 mg), 2 fois par jour, jours 1-7 et 15-21 de cycles de 28 jours, jusqu'à 26 cycles (2 ans)"}
+ ],
+ "duree": "Jusqu'à 2 ans de traitement, puis suivi à 30 jours et périodique",
+ "critere": "Taux de réponse objective (réponse complète + partielle), jusqu'à 2 ans après l'entrée dans l'étude",
+ "resultats": "Cinq patients ont été analysés. Le taux de réponse objective (critère principal) est de 0 % (IC à 90 % : 0 à 0), aucune réponse n'ayant été observée. Sur le plan de la tolérance, 2 patients sur 5 ont présenté au moins un événement indésirable grave et 4 décès (toutes causes) sont rapportés. Le registre ne détaille pas les critères secondaires et ne contient pas de conclusion des auteurs."
+}

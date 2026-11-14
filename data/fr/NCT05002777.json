@@ -1,0 +1,30 @@
+{
+ "h": "fa5c23e2465a",
+ "date": "2026-11-14",
+ "titre": "Rilzabrutinib dans l'anémie hémolytique auto-immune à anticorps chauds (LUMINA 2)",
+ "question": "Le rilzabrutinib par voie orale permet-il d'obtenir et de maintenir une réponse en hémoglobine chez des adultes ayant une anémie hémolytique auto-immune (AHAI) à anticorps chauds ?",
+ "contexte": "L'AHAI à anticorps chauds est la forme la plus fréquente d'anémie hémolytique auto-immune. Les auto-anticorps, surtout de type IgG, entraînent la destruction des globules rouges par les macrophages de la rate. Le traitement de première ligne repose sur les corticoïdes. Beaucoup de patients rechutent ou deviennent corticodépendants.\n\nEn deuxième ligne, le rituximab, les immunosuppresseurs ou la splénectomie sont utilisés, sans médicament spécifiquement approuvé dans de nombreux pays. Le rilzabrutinib est un inhibiteur de la tyrosine kinase de Bruton (BTK) réversible, qui bloque la signalisation des récepteurs Fc et du récepteur B, donc la phagocytose et la production d'auto-anticorps.\n\nCette phase 2b de Sanofi, multicentrique, ouverte et à bras unique, inclut 22 patients. Elle comporte une partie A de 24 semaines (rilzabrutinib 400 mg deux fois par jour), puis une partie B réservée aux répondeurs, avec une extension jusqu'à 253 semaines. Le critère principal est la proportion de patients avec réponse en hémoglobine.",
+ "interet": "L'étude pourrait montrer l'intérêt d'un inhibiteur de BTK oral dans l'AHAI après échec des corticoïdes. Les données restent non comparatives.",
+ "profil": "Des adultes ayant une AHAI à anticorps chauds primaire ou associée à un lupus, sans réponse soutenue aux corticoïdes.",
+ "inclusion": [
+  "AHAI à anticorps chauds primaire ou associée à un lupus (sans autre manifestation lupique que cutanée et musculo-squelettique)",
+  "Absence de réponse soutenue après corticoïdes",
+  "ECOG ≤ 2, vaccinations à jour",
+  "IMC entre 17,5 et 40 kg/m2",
+  "Contraception conforme à la réglementation locale",
+  "Partie B : réponse globale en partie A et 24 semaines terminées"
+ ],
+ "exclusion": [
+  "Maladie chronique ou antécédent jugé dangereux ou gênant pour l'étude",
+  "Lymphome, leucémie ou autre cancer dans les 5 ans",
+  "AHAI secondaire (médicaments, syndrome lymphoprolifératif, infection, autre maladie auto-immune)",
+  "Syndrome myélodysplasique, hépatite B active, infection par le VIH",
+  "Autre médicament expérimental dans les 30 jours",
+  "Allergie connue aux médicaments de l'étude"
+ ],
+ "bras": [
+  { "nom": "Rilzabrutinib", "traitement": "Rilzabrutinib 400 mg par voie orale, 2 fois par jour" }
+ ],
+ "duree": "24 semaines (partie A), puis partie B jusqu'à 253 semaines",
+ "critere": "Partie A : proportion de patients avec réponse globale en hémoglobine à la semaine 24 ; partie B : proportion maintenant une réponse durable avec réponse en hémoglobine à la semaine 50"
+}

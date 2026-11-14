@@ -1,0 +1,33 @@
+{
+ "h": "1f29bc38f198",
+ "date": "2026-11-14",
+ "titre": "Efgartigimod dans le PTT immunologique en rémission avec déficit en ADAMTS13",
+ "question": "L'efgartigimod permet-il de normaliser l'activité d'ADAMTS13 de façon sûre chez des patients en rémission d'un PTT immunologique ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique immunologique (PTTi) est une maladie auto-immune rare où des auto-anticorps, surtout IgG, inhibent ADAMTS13. Il provoque thrombopénie, anémie hémolytique microangiopathique et atteintes d'organe engageant le pronostic vital. En rémission, un déficit persistant en ADAMTS13 est associé à un risque accru de rechute et d'AVC ischémique.\n\nLe rituximab préventif est utilisé en cas de baisse d'activité d'ADAMTS13, mais l'effet sur la survie sans rechute repose sur de petites études. L'efgartigimod, antagoniste du récepteur Fc néonatal (FcRn), abaisse les IgG circulantes, dont les auto-anticorps. L'équipe attend une remontée de l'activité d'ADAMTS13 sous traitement, puis une rechute du déficit à l'arrêt, ce qui montrerait un effet réversible. Cette phase 2 pilote, à un seul bras, inclut 15 patients, comparés à une cohorte historique sous rituximab. Elle est promue par l'Université du Minnesota.",
+ "interet": "Elle pourrait ouvrir la voie à un traitement d'entretien non cytotoxique, alternatif au rituximab, pour prévenir les rechutes du PTTi.",
+ "profil": "Des adultes en rémission clinique d'un PTTi avec une activité d'ADAMTS13 comprise entre 30 et 70 %.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Antécédent de PTTi (ADAMTS13 < 10 % avec anticorps ou inhibiteur, plaquettes < 100, schizocytes)",
+  "Rémission clinique (plaquettes normales) depuis ≥ 90 jours",
+  "ADAMTS13 entre 30 et 70 % à deux reprises, à ≥ 7 jours d'intervalle",
+  "≥ 6 mois depuis le dernier rituximab ou immunosuppresseur IV",
+  "Immunosuppresseur oral éventuel à dose stable depuis ≥ 60 jours",
+  "Contraception efficace ; test de grossesse négatif"
+ ],
+ "exclusion": [
+  "PTT congénital",
+  "Autre produit expérimental dans les 30 jours",
+  "Incapacité à comprendre l'étude",
+  "Grossesse ou allaitement",
+  "Hypersensibilité sévère connue à l'efgartigimod"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTTi",
+   "traitement": "Efgartigimod ; dose et rythme non précisés dans le registre"
+  }
+ ],
+ "duree": "Environ 60 jours de traitement puis 8 semaines de suivi",
+ "critere": "Incidence des rechutes (sécurité) à 8 semaines, normalisation d'ADAMTS13 à J60 et absence de recours à un traitement préemptif."
+}

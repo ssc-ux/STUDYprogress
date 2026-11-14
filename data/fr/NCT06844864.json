@@ -1,0 +1,31 @@
+{
+ "h": "99a2f83c1b40",
+ "date": "2026-11-14",
+ "titre": "Immunité adaptative et immunité entraînée dans la fibrose de la maladie associée aux IgG4",
+ "question": "Les macrophages de patients ayant une maladie associée aux IgG4 sont-ils « entraînés » et favorisent-ils la fibrose en stimulant les fibroblastes ?",
+ "contexte": "La maladie associée aux IgG4 est une maladie fibro-inflammatoire systémique qui touche le pancréas, les glandes salivaires, les voies biliaires, le rétropéritoine et d'autres organes. Elle se caractérise par des infiltrats lymphoplasmocytaires riches en IgG4 et par une fibrose storiforme. Les corticoïdes et le rituximab sont efficaces, mais les rechutes et la fibrose résiduelle posent problème.\n\nL'immunité entraînée est une reprogrammation durable des cellules innées, comme les macrophages, qui amplifie leur réponse inflammatoire. Son rôle dans la fibrose de cette maladie est inconnu. Cette étude de laboratoire de l'IRCCS San Raffaele (Milan) compare des macrophages de 20 sujets (patients et témoins sains), puis les expose aux IgG de patients et mesure l'effet sur des fibroblastes en co-culture.",
+ "interet": "Étude mécanistique sans impact immédiat sur la pratique, mais qui pourrait identifier de nouvelles cibles contre la fibrose de la maladie.",
+ "profil": "Des adultes atteints de maladie associée aux IgG4 active, et des témoins sains, sans traitement immunosuppresseur.",
+ "inclusion": [
+  "Âge ≥ 18 ans, capacité à consentir",
+  "Patients : maladie associée aux IgG4 active (score d'activité IgG4-RD) et critères ACR/EULAR 2019",
+  "Témoins : adultes sains"
+ ],
+ "exclusion": [
+  "Âge < 18 ans, grossesse",
+  "Autre maladie auto-immune active, cancer ou infection en cours",
+  "Traitement immunosuppresseur en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Patients IgG4-RD",
+   "traitement": "Prélèvement sanguin pour étudier les macrophages et les co-cultures avec des fibroblastes"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvement sanguin pour comparaison"
+  }
+ ],
+ "duree": "Non précisé (prélèvement unique supposé ; analyses sur 7 mois)",
+ "critere": "Concentration de collagène Ia dans le surnageant des co-cultures macrophages-fibroblastes, à 7 mois."
+}

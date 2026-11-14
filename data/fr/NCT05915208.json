@@ -1,0 +1,23 @@
+{
+ "h": "a58c367cbeb6",
+ "date": "2026-11-14",
+ "titre": "Suivi à long terme des patients atteints d'histiocytose",
+ "question": "Quel est le poids à long terme des maladies chroniques, de la douleur, des troubles psychologiques et de la mortalité chez les personnes atteintes d'histiocytose ?",
+ "contexte": "Les histiocytoses regroupent l'histiocytose langerhansienne, la maladie d'Erdheim-Chester, la maladie de Rosai-Dorfman, le xanthogranulome, les histiocytoses malignes et la lymphohistiocytose hémophagocytaire. La découverte de mutations de la voie MAPK-ERK a conduit à des traitements ciblés par inhibiteurs de BRAF et de MEK. Il manque cependant de grandes études sur la morbidité et la mortalité à long terme.\n\nDes études institutionnelles sur la HCL pédiatrique montrent chez 20 à 50 % des survivants une altération de la qualité de vie, des troubles cognitifs, un déficit hypophysaire ou une perte auditive. Un risque accru de leucémie aiguë myéloïde et d'autres seconds cancers a aussi été rapporté. Cette étude de cohorte de l'université d'Alabama à Birmingham, avec une inclusion prévue de 6000 personnes, décrit par enquête les maladies chroniques, la douleur, le retentissement psychologique, le recours aux soins, la qualité de vie et la mortalité.",
+ "interet": "Elle quantifiera les séquelles tardives des histiocytoses pour orienter les programmes de surveillance et de survie à long terme.",
+ "profil": "Des personnes de tout âge atteintes d'une histiocytose.",
+ "inclusion": [
+  "Diagnostic d'histiocytose à tout âge : histiocytose langerhansienne, Erdheim-Chester, Rosai-Dorfman, xanthogranulome, histiocytose mixte, histiocytose maligne ou lymphohistiocytose hémophagocytaire"
+ ],
+ "exclusion": [
+  "Aucun"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients",
+   "traitement": "Suivi observationnel par enquête, sans intervention"
+  }
+ ],
+ "duree": "Jusqu'à 200 mois après le diagnostic (enquête unique)",
+ "critere": "Maladies chroniques apparues après le diagnostic (grades CTCAE v5.0), et mortalité globale et par cause."
+}

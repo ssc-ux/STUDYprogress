@@ -1,0 +1,34 @@
+{
+ "h": "dba2a9e76afa",
+ "date": "2026-11-14",
+ "titre": "STSA-1301 sous-cutané, anti-FcRn, chez des volontaires sains et des patients atteints de PTI",
+ "question": "Des doses répétées de STSA-1301 sous-cutané sont-elles bien tolérées chez des volontaires sains et des patients atteints de PTI, et ont-elles une première activité ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des anticorps IgG détruisent les plaquettes et freinent leur production. Les traitements de première ligne sont les corticoïdes et les immunoglobulines IV. Les agonistes du récepteur de la thrombopoïétine et le rituximab sont utilisés ensuite. Une partie des patients reste insuffisamment contrôlée ou intolérante.\n\nLes inhibiteurs du récepteur néonatal Fc (FcRn) accélèrent le catabolisme des IgG, dont les auto-anticorps, sans immunosuppression globale. Cette classe est déjà utilisée dans la myasthénie, et des essais l'étudient dans le PTI.\n\nCette étude de phase 1b/2 chinoise, randomisée en quadruple insu contre placebo, teste le STSA-1301, un candidat sous-cutané. Elle comporte deux temps. La première étape porte sur des volontaires sains (sécurité, pharmacocinétique, pharmacodynamie, immunogénicité). La seconde porte sur des patients atteints de PTI persistant ou chronique, avec une première évaluation d'efficacité. Trois niveaux de dose (faible, moyen, élevé) sont testés par cohorte. Le promoteur est l'industriel Jiangsu BioJeTay Biotechnology, et 56 participants sont prévus dans 7 centres.",
+ "interet": "L'étude apportera les premières données de tolérance et de pharmacodynamie d'un anti-FcRn sous-cutané dans le PTI. Elle ne permet pas de conclure sur l'efficacité, mais prépare des essais de phase 2/3.",
+ "profil": "Des volontaires sains de 18 à 50 ans, puis des adultes de 18 à 75 ans atteints de PTI persistant ou chronique avec thrombopénie sévère (< 30 G/L).",
+ "inclusion": [
+  "Volontaires sains : 18 à 50 ans, IMC de 18 à 26 kg/m², examens normaux",
+  "Patients : 18 à 75 ans, PTI primaire persistant ou chronique",
+  "Plaquettes moyennes < 30 G/L (deux mesures espacées d'au moins 7 jours), sans saignement sévère dans les 4 semaines",
+  "Échec ou intolérance à au moins un traitement de première ligne (corticoïdes ou IgIV)",
+  "Réponse antérieure documentée à un traitement (plaquettes ≥ 50 G/L)",
+  "Traitements concomitants autorisés à dose stable (corticoïdes, danazol, dapsone, immunosuppresseurs oraux, agoniste oral du récepteur de la TPO)",
+  "Contraception efficace jusqu'à 3 mois après la dernière dose"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (lymphome, LLC, infection virale, hépatite, greffe, anomalie médullaire)",
+  "IgG totales < 6 g/L, INR > 1,5 ou TCA > 1,5 N, ALAT ou ASAT ≥ 3 N",
+  "Événement thrombotique dans les 12 mois, ou événement majeur dans les 5 ans",
+  "Splénectomie < 3 mois, rituximab < 6 mois, immunoglobulines ou échanges plasmatiques < 4 semaines",
+  "Infection active ou chronique, hépatite B ou C, VIH, syphilis, tuberculose active",
+  "Traitement antérieur par un autre anti-FcRn dans les 6 mois, ou antécédent de cancer",
+  "Autre maladie auto-immune, grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Cohorte 1, dose faible", "traitement": "STSA-1301 sous-cutané à dose faible ou placebo, doses répétées" },
+  { "nom": "Cohorte 2, dose moyenne", "traitement": "STSA-1301 sous-cutané à dose moyenne ou placebo, doses répétées" },
+  { "nom": "Cohorte 3, dose élevée", "traitement": "STSA-1301 sous-cutané à dose élevée ou placebo, doses répétées" }
+ ],
+ "duree": "78 jours",
+ "critere": "Événements indésirables survenant après l'administration du médicament, sur 78 jours."
+}

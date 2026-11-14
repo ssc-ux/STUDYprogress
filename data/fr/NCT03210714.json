@@ -1,0 +1,33 @@
+{
+ "h": "592f98b6aa8cr",
+ "date": "2026-11-14",
+ "titre": "Erdafitinib chez l'enfant et le jeune adulte : tumeurs avec altération de FGFR (Pediatric MATCH)",
+ "question": "L'erdafitinib, inhibiteur de FGFR, permet-il d'obtenir une réponse tumorale chez des enfants et jeunes adultes ayant une tumeur solide, un lymphome ou une histiocytose avec altération de FGFR en rechute ou réfractaire ?",
+ "contexte": "Les cancers de l'enfant en rechute ou réfractaires ont un pronostic sombre et peu d'options thérapeutiques validées. Certaines tumeurs pédiatriques, dont des gliomes, des sarcomes ou des histiocytoses de Langerhans, portent des altérations des gènes FGFR1 à 4 (mutations, amplifications, fusions) qui activent une voie de prolifération cellulaire.\n\nL'erdafitinib est un inhibiteur oral de tyrosine kinase des récepteurs FGFR, déjà utilisé chez l'adulte dans le carcinome urothélial avec altération de FGFR. Cette étude de phase 2 est un sous-protocole du programme Pediatric MATCH du National Cancer Institute et du Children's Oncology Group. Les patients sont d'abord orientés vers ce bras après un séquençage tumoral qui identifie une altération actionnable de FGFR. Il s'agit d'un schéma à un seul bras, sans comparateur, qui évalue la réponse objective sur un petit effectif.",
+ "interet": "L'étude teste le principe d'un traitement guidé par le profil moléculaire de la tumeur, quel que soit le type histologique. Elle renseigne sur l'activité et la tolérance de l'erdafitinib chez l'enfant, population où les données sont rares.",
+ "profil": "Des enfants et jeunes adultes (12 mois à 21 ans) ayant une tumeur solide, un lymphome non hodgkinien ou une histiocytose en rechute ou réfractaire, avec altération de FGFR1-4.",
+ "inclusion": [
+  "Âge de 12 mois à 21 ans",
+  "Inscription au protocole de dépistage APEC1621SC et affectation au bras erdafitinib (altération FGFR actionnable)",
+  "Maladie mesurable en imagerie (RECIST 1.1) ; MIBG positive acceptée pour le neuroblastome",
+  "Indice de performance Karnofsky/Lansky ≥ 50 %",
+  "Récupération des toxicités des traitements antérieurs et délais respectés depuis la dernière chimiothérapie ou radiothérapie",
+  "Fonctions médullaire, rénale et hépatique conservées ; QTc ≤ 480 ms",
+  "Capacité à avaler les comprimés entiers"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Exposition antérieure à l'erdafitinib ou à un autre inhibiteur de FGFR",
+  "Traitement concomitant par un autre anticancéreux ou un médicament expérimental",
+  "Inducteurs ou inhibiteurs puissants du CYP3A4, ou inducteurs/inhibiteurs modérés du CYP2C9",
+  "Pathologie cardiovasculaire récente ou troubles du rythme graves",
+  "Pathologie ophtalmologique significative (glaucome non contrôlé, décollement ou occlusion veineuse rétinienne)",
+  "Infection non contrôlée ou antécédent de greffe d'organe solide"
+ ],
+ "bras": [
+  {"nom": "Traitement (erdafitinib)", "traitement": "Erdafitinib par voie orale, une fois par jour, cycles de 28 jours, jusqu'à 26 cycles (2 ans) sauf progression ou toxicité"}
+ ],
+ "duree": "Jusqu'à 2 ans de traitement, puis suivi périodique",
+ "critere": "Taux de réponse objective (réponse complète + partielle), jusqu'à 2 ans après l'entrée dans l'étude",
+ "resultats": "Vingt patients ont été analysés. Le taux de réponse objective (critère principal) est de 10 % (IC à 90 % : 3,3 à 26,2). Les résultats du registre ne détaillent pas les critères secondaires comme la survie sans progression. Sur le plan de la tolérance, 10 patients sur 20 ont présenté au moins un événement indésirable grave et 8 décès (toutes causes) sont rapportés. Le registre ne contient pas de conclusion des auteurs."
+}

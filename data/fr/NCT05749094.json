@@ -1,0 +1,34 @@
+{
+ "h": "d6d49fb8efc3",
+ "date": "2026-11-14",
+ "titre": "Échographie de la gaine du nerf optique dans l'artérite à cellules géantes (SONIC-GCA)",
+ "question": "Le diamètre de la gaine du nerf optique, mesuré par échographie, permet-il de diagnostiquer et de suivre l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite la plus fréquente après 50 ans. L'atteinte oculaire (neuropathie optique ischémique antérieure) peut provoquer une cécité irréversible, ce qui impose un diagnostic et un traitement rapides. Le diagnostic repose sur la clinique, la biologie, l'échographie des artères temporales, la biopsie et l'imagerie, avec des limites d'accès et de sensibilité.\n\nL'échographie du diamètre de la gaine du nerf optique (ONSD) est une mesure simple, utilisée pour évaluer la pression intracrânienne. Des travaux pilotes suggèrent qu'elle pourrait se modifier dans l'ACG. SONIC-GCA est une cohorte prospective de validation menée dans des centres du réseau canadien de recherche sur les vascularites (CanVasc). Elle évalue la performance diagnostique de l'ONSD à l'inclusion, son intérêt pour détecter les rechutes, sa reproductibilité inter- et intra-observateur, et ses liens avec les lésions rétiniennes de l'ACG. Un suivi téléphonique est prévu à 6 mois.",
+ "interet": "Si elle est validée, cette mesure simple pourrait faciliter le diagnostic et la surveillance de l'ACG, notamment dans les centres sans échographie vasculaire experte.",
+ "profil": "Des adultes de plus de 50 ans adressés pour une suspicion de première poussée d'artérite à cellules géantes.",
+ "inclusion": [
+  "Âge > 50 ans",
+  "Adressé en consultation ACG pour suspicion d'ACG de novo",
+  "Capacité à comprendre et à signer le consentement",
+  "Acceptation des visites et procédures"
+ ],
+ "exclusion": [
+  "Suspicion de rechute d'ACG",
+  "Corticoïdes oraux ≥ 14 jours consécutifs dans les 30 derniers jours (≥ 7 jours si corticoïdes IV)",
+  "Immunosuppresseur conventionnel ou biologique en cours",
+  "Maladie rétinienne, du nerf optique ou démyélinisante, hydrocéphalie, tumeur intracrânienne ou hypertension intracrânienne connues",
+  "Impossibilité de réaliser l'échographie ou le fond d'œil"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe ACG",
+   "traitement": "ACG confirmée à 6 mois selon des critères composites cliniques et d'examens"
+  },
+  {
+   "nom": "Groupe non-ACG",
+   "traitement": "Patients ne remplissant pas ces critères ; visites à l'inclusion et à 6 mois (téléphone)"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Performance diagnostique de l'ONSD pour identifier une ACG de novo, et comparaison de l'ONSD entre patients avec et sans ACG, à l'inclusion."
+}

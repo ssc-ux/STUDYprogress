@@ -1,0 +1,32 @@
+{
+ "h": "dce84f371fbd",
+ "date": "2026-11-14",
+ "titre": "CAR-T autologues anti-BCMA/CD19 (ECAR01) dans des maladies auto-immunes réfractaires",
+ "question": "Des CAR-T autologues ciblant BCMA et CD19 sont-elles sûres et efficaces dans la polyarthrite rhumatoïde, le lupus, le Sjögren et la sclérodermie réfractaires ?",
+ "contexte": "La polyarthrite rhumatoïde, le lupus systémique, le syndrome de Sjögren avec thrombopénie et la sclérodermie systémique peuvent rester actifs malgré des traitements conventionnels et biologiques. Les patients concernés accumulent des lésions d'organe et des toxicités liées aux corticoïdes et aux immunosuppresseurs.\n\nLes CAR-T ciblant CD19 (lymphocytes B) et BCMA (plasmocytes) induisent une déplétion profonde des cellules productrices d'auto-anticorps. Elles ont donné des rémissions prolongées dans le lupus et sont testées dans d'autres maladies auto-immunes.\n\nCette étude exploratoire chinoise, monocentrique (hôpital provincial d'Anhui), ouverte et à bras unique, évalue une CAR-T autologue renforcée (ECAR01) anti-BCMA/CD19. Le schéma est une escalade de dose de type 3+3, avec 3 niveaux (1, 3 et 6 × 10^5 cellules/kg) et jusqu'à 18 patients. Après prélèvement sanguin et lymphodéplétion par cyclophosphamide et fludarabine, une perfusion unique est administrée au jour 0. Les critères d'inclusion sont propres à chaque maladie : échec d'au moins un csDMARD et un bDMARD pour la PR, BILAG et SLEDAI élevés pour le lupus, Sjögren avec thrombopénie < 30 G/L, progression scannographique pour la sclérodermie.",
+ "interet": "L'étude apportera des données de sécurité d'une CAR-T double cible dans plusieurs maladies auto-immunes. L'hétérogénéité des maladies et le petit effectif ne permettront pas de conclure sur l'efficacité.",
+ "profil": "Des adultes atteints de polyarthrite rhumatoïde, lupus, syndrome de Sjögren avec thrombopénie ou sclérodermie systémique, réfractaires aux traitements conventionnels.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Globules blancs ≥ 3 G/L, neutrophiles ≥ 1 G/L, hémoglobine ≥ 60 g/L",
+  "ALAT, ASAT, bilirubine ≤ 3 N, clairance de la créatinine ≥ 30 mL/min, INR et TP ≤ 1,5 N",
+  "PR : critères ACR/EULAR 2010, échec d'au moins un csDMARD et un bDMARD, DAS28-VS > 3,2 ou CDAI > 10",
+  "Lupus : critères EULAR/ACR 2019, BILAG-2004 (1 A ou 2 B), SLEDAI-2000 ≥ 8, auto-anticorps positifs",
+  "Sjögren : thrombopénie < 30 G/L, ESSDAI ≥ 5, maladie active malgré plus de 6 mois d'immunomodulateurs",
+  "Sclérodermie : critères ACR 2013, anticorps antinucléaires positifs, progression au scanner thoracique haute résolution"
+ ],
+ "exclusion": [
+  "Maladie du système nerveux central significative, cardiopathie sévère (angor, infarctus, insuffisance cardiaque, arythmie)",
+  "Greffe d'organe ou de cellules souches, antécédent de cancer",
+  "Vaccination ou traitement ciblant les lymphocytes B dans les 4 semaines précédentes",
+  "Insuffisance rénale terminale, infection non contrôlée, tuberculose active",
+  "VHB actif, VHC, VIH, syphilis, CMV ou EBV (ADN) positifs",
+  "Allergie sévère au cyclophosphamide, à la fludarabine ou au DMSO",
+  "Grossesse ou allaitement, projet de grossesse dans les 2 ans"
+ ],
+ "bras": [
+  { "nom": "CAR-T anti-BCMA et CD19", "traitement": "Lymphodéplétion par cyclophosphamide et fludarabine, puis perfusion unique de CAR-T à J0 (1, 3 ou 6 × 10^5 cellules/kg selon la cohorte)" }
+ ],
+ "duree": "Jusqu'à 1 an pour le critère principal",
+ "critere": "Événements indésirables, jusqu'à 1 an après la perfusion."
+}

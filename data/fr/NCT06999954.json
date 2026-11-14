@@ -1,0 +1,23 @@
+{
+ "h": "44977da7b2c5",
+ "date": "2026-11-14",
+ "titre": "Enquête mondiale et plateforme de recherche pour le syndrome de Shwachman-Diamond (SDS-GPS)",
+ "question": "Que rapportent les patients et leurs proches sur l'histoire, la prise en charge et la qualité de vie dans le syndrome de Shwachman-Diamond et les syndromes apparentés ?",
+ "contexte": "Le syndrome de Shwachman-Diamond (SDS) est une maladie génétique rare, une ribosomopathie, liée surtout à des variants biallèliques de SBDS ou EFL1. Il associe neutropénie, insuffisance pancréatique exocrine, atteintes osseuses et risque de défaillance médullaire, de syndrome myélodysplasique et de leucémie. D'autres gènes (DNAJC21, SRP54) donnent des tableaux voisins.\n\nLes données sur l'histoire naturelle, la prise en charge et le vécu des patients sont dispersées, ce qui freine l'organisation d'essais cliniques. Les patients sont répartis dans de nombreux pays.\n\nSDS-GPS est une plateforme en ligne, créée par l'association de patients SDS Alliance, disponible en anglais, espagnol, français, allemand et italien. Patients de tout âge et proches (parents, aidants) répondent à des questionnaires sur les données sociodémographiques, les antécédents et diagnostics, les traitements et l'évolution, l'accès aux soins et la qualité de vie (échelles PROMIS). Les patients atteints d'autres syndromes d'insuffisance médullaire héréditaire, de prédisposition aux hémopathies (RUNX1, anémie de Fanconi) ou de neutropénies congénitales (ELANE) peuvent aussi participer. Les réponses sont analysées de façon agrégée et anonymisée, et servent à orienter la recherche et à informer les participants d'essais pertinents. Jusqu'à 8000 participants sont prévus.",
+ "interet": "Cette plateforme pourrait structurer des données de vie réelle sur des maladies rares et faciliter le recrutement dans de futurs essais. Les données sont déclaratives, sans consultation ni vérification clinique.",
+ "profil": "Des patients de tout âge atteints de syndrome de Shwachman-Diamond, de syndrome apparenté ou de maladies héréditaires de la moelle apparentées, et leurs proches.",
+ "inclusion": [
+  "Syndrome de Shwachman-Diamond confirmé (diagnostic génétique ou clinique, priorité aux variants biallèliques de SBDS ou EFL1)",
+  "Syndrome de type SDS confirmé (DNAJC21, SRP54 ou autre gène)",
+  "Autres syndromes héréditaires de prédisposition aux hémopathies (RUNX1, anémie de Fanconi) ou neutropénies congénitales (ELANE)",
+  "Parents, aidants et proches des patients, y compris de patients décédés"
+ ],
+ "exclusion": [
+  "Personnes ne remplissant pas les critères ci-dessus"
+ ],
+ "bras": [
+  { "nom": "Patients, aidants et proches", "traitement": "Réponses à des questionnaires en ligne, à l'inclusion puis tous les 12 mois, avec questionnaires de qualité de vie 2 à 4 fois par an" }
+ ],
+ "duree": "Suivi à long terme (fin de l'étude prévue en 2088), questionnaires à l'inclusion puis annuels",
+ "critere": "Symptômes rapportés par le patient ou l'aidant dans le temps, rapport génétique déposé, qualité de vie (PROMIS) et charge de la maladie et résultats de traitement rapportés par les patients."
+}

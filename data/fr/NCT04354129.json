@@ -1,0 +1,23 @@
+{
+ "h": "b1b96a873523",
+ "date": "2026-11-14",
+ "titre": "Immunoglobulines sous-cutanées Cutaquig en injection manuelle rapide dans les déficits immunitaires",
+ "question": "L'administration de Cutaquig par injection manuelle rapide (push) est-elle sûre, bien tolérée et satisfaisante pour les patients atteints de déficit immunitaire primitif ou secondaire ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP) et secondaires (DIS, par exemple liés à une hémopathie ou à des traitements) exposent à des infections fréquentes. Le traitement de référence en cas de déficit en anticorps est le remplacement par immunoglobulines polyvalentes, par voie intraveineuse ou sous-cutanée (IgSC).\n\nLes IgSC peuvent être administrées à domicile par le patient. Avec certaines spécialités, l'administration par injection manuelle rapide à la seringue (« rapid push ») a montré la même efficacité qu'une administration par pompe programmable, avec un gain de temps de perfusion, de qualité de vie et de coût.\n\nCutaquig 165 mg/mL est une IgSC autorisée au Canada depuis 2018, efficace pour prévenir les infections significatives. Cette étude observationnelle de l'Université de l'Alberta, avec Octapharma, évalue la sécurité, la tolérance et la satisfaction des patients avec la méthode du push manuel avec Cutaquig, et compare, lorsque c'est possible, l'efficacité avec l'IgSC antérieure. 36 patients adultes sont inclus.",
+ "interet": "Les résultats pourraient soutenir un usage plus simple et plus rapide des IgSC à domicile et enrichir les données de sécurité de Cutaquig administrée en injection manuelle.",
+ "profil": "Des adultes atteints de DIP ou de DIS recevant des immunoglobulines substitutives à domicile.",
+ "inclusion": [
+  "Adulte d'au moins 18 ans",
+  "DIP ou DIS nécessitant un traitement substitutif par IgG",
+  "Poursuite du traitement par Cutaquig 165 mg/mL sous-cutané à domicile décidée par l'investigateur",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Participation à une autre étude interventionnelle au moment de l'inclusion"
+ ],
+ "bras": [
+  { "nom": "Patients DIP/DIS traités par Cutaquig", "traitement": "Immunoglobulines sous-cutanées Cutaquig 165 mg/mL à domicile, par injection manuelle rapide" }
+ ],
+ "duree": "6 mois",
+ "critere": "Sécurité et tolérance liées au débit de perfusion, à 6 mois"
+}

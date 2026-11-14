@@ -1,0 +1,32 @@
+{
+ "h": "bf4af5a133f4",
+ "date": "2026-11-14",
+ "titre": "Granulocytes corrigés par ARNm dans la granulomatose septique liée à l'X",
+ "question": "Est-il sûr et faisable de perfuser à des adultes ayant une granulomatose septique liée à l'X leurs propres granulocytes corrigés par ARNm, et quelle est la dose maximale tolérée ?",
+ "contexte": "La granulomatose septique chronique (CGD) est un déficit immunitaire primitif dû à une anomalie de la NADPH oxydase des phagocytes. Les cellules ne produisent pas les dérivés oxygénés qui tuent les bactéries et champignons. Les patients ont des infections fréquentes, parfois mortelles, et des complications inflammatoires. La forme liée à l'X (gène CYBB, protéine gp91phox) est la plus fréquente.\n\nLes traitements actuels reposent sur une prophylaxie anti-infectieuse et l'interféron gamma, avec la greffe de cellules souches comme seul traitement curatif. En cas d'infection grave, les transfusions de granulocytes de donneur sont parfois utilisées, mais exposent à l'alloimmunisation.\n\nCette phase 1 du NIAID, ouverte, avec escalade de dose, teste un procédé nouveau : les granulocytes du patient, prélevés par aphérèse, reçoivent de l'ARN messager codant la protéine gp91phox, puis sont réinjectés en perfusion unique. La correction est transitoire. L'étude inclut jusqu'à 25 hommes de 18 à 75 ans, avec 3 niveaux de dose (1 million à 100-500 millions de cellules par kg).",
+ "interet": "L'étude pourrait ouvrir une approche transitoire, sans modification génomique, pour renforcer les défenses des patients ayant une CGD pendant une infection grave.",
+ "profil": "Des hommes de 18 à 75 ans ayant une granulomatose septique liée à l'X, sans infection systémique évolutive.",
+ "inclusion": [
+  "Homme de 18 à 75 ans",
+  "CGD confirmée par test à la dihydrorhodamine, sous-type confirmé par analyse protéique ou génétique",
+  "Médecin référent à domicile pour le suivi",
+  "Consentement éclairé",
+  "Contraception de la sélection jusqu'à 3 mois après la perfusion"
+ ],
+ "exclusion": [
+  "Infection aiguë systémique modérée à sévère avec instabilité clinique",
+  "Insuffisance rénale stade 4 (DFG < 30)",
+  "Diabète instable (HbA1c > 7 %, glycémie > 200 mg/dL), insuffisance cardiaque stade D, arythmie symptomatique",
+  "Cancer invasif nécessitant une chimiothérapie dans les 5 ans",
+  "Hépatite B ou C active, VIH",
+  "Transaminases ou bilirubine > 3 N, anémie < 8 g/dL, plaquettes < 50 G/L",
+  "Pneumopathie sévère oxygénodépendante, trouble de l'hémostase, abus d'alcool ou de drogues"
+ ],
+ "bras": [
+  { "nom": "Dose K", "traitement": "Perfusion unique de granulocytes gp91-Grans, 1 million de cellules/kg" },
+  { "nom": "Dose K+1", "traitement": "Perfusion unique de gp91-Grans, 10 millions de cellules/kg" },
+  { "nom": "Dose K+2", "traitement": "Perfusion unique de gp91-Grans, 100 à 500 millions de cellules/kg" }
+ ],
+ "duree": "3 mois pour les critères principaux",
+ "critere": "Faisabilité (recrutement, production), dose maximale tolérée et fréquence des événements indésirables de grade ≥ 3 liés au produit, à 3 mois"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "5ec63ecc590a",
+ "date": "2026-11-14",
+ "titre": "Prévalence de l'amylose à TTR chez les patients ambulatoires avec IC à fraction d'éjection préservée",
+ "question": "Quelle proportion de patients âgés avec insuffisance cardiaque à fraction d'éjection préservée (ICFEp) a une amylose à TTR, et comment la prédire ?",
+ "contexte": "L'amylose à transthyrétine (ATTR) est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée, surtout chez les sujets âgés. Le diagnostic non invasif repose sur la scintigraphie aux traceurs osseux (99mTc-pyrophosphate) associée à l'exclusion d'une gammapathie monoclonale. Des traitements spécifiques (tafamidis, acoramidis, silenceurs de la TTR) améliorent le pronostic quand ils sont débutés tôt.\n\nLa fréquence réelle de l'ATTR chez les patients suivis en ambulatoire pour ICFEp reste mal connue. Cette étude monocentrique du Massachusetts General Hospital propose une scintigraphie au 99mTc-pyrophosphate à des patients de 65 ans et plus ayant une ICFEp, lors d'une visite unique. Elle recueille aussi des échantillons sanguins (et ADN en option), des questionnaires (neuropathie, syndrome du canal carpien, fragilité, qualité de vie), un test de marche de 6 minutes, un ECG et une échocardiographie. Les dossiers sont ensuite revus jusqu'à 5 ans pour les hospitalisations et la survie.",
+ "interet": "Elle permettra d'estimer la prévalence de l'ATTR dans l'ICFEp ambulatoire et de bâtir un score clinique pour décider qui doit bénéficier d'une scintigraphie.",
+ "profil": "Des adultes de 65 ans et plus suivis en ambulatoire pour insuffisance cardiaque à fraction d'éjection préservée.",
+ "inclusion": [
+  "ICFEp confirmée",
+  "Âge ≥ 65 ans"
+ ],
+ "exclusion": [
+  "Insuffisance rénale terminale dialysée (DFG < 15 mL/min)",
+  "Antécédent d'IC à fraction réduite (FEVG < 40 %), sauf dans un contexte aigu transitoire",
+  "Scintigraphie au pyrophosphate négative dans l'année",
+  "Impossibilité de rester allongé 15 minutes",
+  "Amylose déjà connue",
+  "Valvulopathie sévère non corrigée (modérée à sévère)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ≥ 65 ans avec ICFEp",
+   "traitement": "Scintigraphie 99mTc-pyrophosphate (SPECT), prélèvements, questionnaires, test de marche, ECG et échocardiographie, en une visite"
+  }
+ ],
+ "duree": "Une visite, puis revue des dossiers jusqu'à 5 ans",
+ "critere": "Proportion de scintigraphies au 99mTc-pyrophosphate positives (ATTR), le jour de la visite."
+}

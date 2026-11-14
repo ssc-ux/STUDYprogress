@@ -1,0 +1,38 @@
+{
+ "h": "a37ec02c18fb",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle des maladies du métabolisme des purines et des pyrimidines",
+ "question": "Quelles sont les caractéristiques cliniques, génétiques et biochimiques des maladies du métabolisme des purines et des pyrimidines ?",
+ "contexte": "Les troubles du métabolisme des purines et des pyrimidines regroupent des maladies rares dues à des variants de gènes comme HPRT1 (Lesch-Nyhan), APRT, ADA2, ADSL, DPYD, UMPS ou PRPS1. Ils peuvent toucher le cerveau, le sang, les reins et le système immunitaire et se présenter par une hyperuricémie ou goutte, des rhabdomyolyses récidivantes, des cytopénies, un déficit immunitaire ou des atteintes neurologiques.\n\nLes tableaux sont très variables, du portage asymptomatique à des formes sévères, et beaucoup de ces maladies sont mal connues. Elles intéressent la médecine interne par leurs manifestations rhumatologiques, hématologiques, rénales et auto-inflammatoires (déficit en ADA2, par exemple).\n\nCette étude d'histoire naturelle du NHGRI (NIH, États-Unis) inclut des patients, des apparentés non atteints et des volontaires sains. Les patients viennent une fois par an au centre clinique du NIH pour examen, prélèvements (sang, urine, salive, selles), explorations ciblées et recueils alimentaires ; les autres participants font une visite unique.",
+ "interet": "Elle devrait préciser l'histoire naturelle de ces maladies, identifier des biomarqueurs et des facteurs associés à l'évolution, et aider au diagnostic de maladies rares souvent méconnues.",
+ "profil": "Des enfants et adultes (dès 1 mois) avec un trouble du métabolisme des purines ou pyrimidines connu ou suspecté, leurs apparentés et des volontaires sains.",
+ "inclusion": [
+  "Patients : âge d'au moins 1 mois, histoire cohérente avec un trouble des purines ou pyrimidines (arguments cliniques, biologiques, biochimiques ou génomiques)",
+  "Suivi par un médecin traitant ou un généticien en dehors du NIH",
+  "Apparentés non atteints, par le sang ou par alliance",
+  "Volontaires sains sans antécédent personnel ni familial",
+  "Consentement éclairé signé (parents ou représentant légal si besoin)"
+ ],
+ "exclusion": [
+  "Volontaires sains avec déficience intellectuelle ne pouvant pas consentir sans représentant",
+  "Affection intercurrente ou chronique pouvant gêner l'interprétation des examens (traitement anticancéreux avec aplasie, par exemple)",
+  "Grossesse chez les apparentés non atteints et les volontaires sains",
+  "Absence d'équipe de soins habituelle en dehors du NIH"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Troubles du métabolisme des purines ou pyrimidines connus, suspectés ou non caractérisés ; visite annuelle"
+  },
+  {
+   "nom": "Apparentés",
+   "traitement": "Apparentés non atteints ; visite unique"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Sans antécédent ; visite unique"
+  }
+ ],
+ "duree": "Visite annuelle pour les patients, possible indéfiniment ; visite unique pour les autres",
+ "critere": "Description des caractéristiques des maladies nouvelles ou mal caractérisées du métabolisme des purines et pyrimidines (étude à durée indéterminée)."
+}

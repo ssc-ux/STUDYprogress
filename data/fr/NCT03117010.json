@@ -1,0 +1,14 @@
+{
+ "h": "52bfe601c06d",
+ "date": "2026-11-14",
+ "titre": "Cohorte prospective de lymphohistiocytose hémophagocytaire (HLH) de l'adulte",
+ "question": "Quelles sont les caractéristiques cliniques et biologiques de la HLH de l'adulte et la réponse au traitement par corticoïdes et étoposide ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (HLH) est un syndrome d'hyperinflammation sévère, avec fièvre, splénomégalie, cytopénies, hyperferritinémie et hémophagocytose. Chez l'adulte, elle est le plus souvent secondaire à une hémopathie, une infection ou une maladie auto-immune, et elle est souvent mortelle sans traitement rapide. Les critères diagnostiques de l'HLH reposent sur un diagnostic moléculaire ou sur 5 des 8 critères (fièvre, splénomégalie, cytopénies, hypertriglycéridémie ou hypofibrinogénémie, hémophagocytose, activité NK basse, ferritine, CD25 soluble).\n\nCette cohorte prospective du Samsung Medical Center (Corée) inclut des adultes avec hémophagocytose tissulaire ou médullaire, ou au moins 3 des 8 critères. Les patients sont évalués selon les critères de l'HLH et traités par corticoïdes et étoposide, avec surveillance régulière. L'objectif est de décrire les caractéristiques cliniques et biologiques de la HLH de l'adulte et la réponse à 28 jours.",
+ "interet": "Cette cohorte pourrait fournir des données de pratique sur l'évolution et la réponse précoce au traitement standard de l'HLH de l'adulte, sans comparaison à un autre traitement.",
+ "profil": "Des adultes de 18 à 80 ans avec un syndrome de type HLH.",
+ "inclusion": ["Hémophagocytose tissulaire ou médullaire", "Ou au moins 3 des 8 critères diagnostiques de HLH", "Âge > 18 ans", "Consentement écrit"],
+ "exclusion": ["Patients ne remplissant pas les critères d'inclusion", "Âge > 80 ans"],
+ "bras": [{"nom": "Hémophagocytose", "traitement": "Corticoïdes et étoposide ; suivi clinique et biologique régulier"}],
+ "duree": "Non précisé (réponse évaluée à 28 jours)",
+ "critere": "Réponse au traitement 28 jours après la première administration"
+}

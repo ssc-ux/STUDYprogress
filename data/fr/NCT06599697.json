@@ -1,0 +1,14 @@
+{
+ "h": "039fc37cbeca",
+ "date": "2026-11-14",
+ "titre": "Immunoglobulines IV dans la myopathie nécrosante anti-HMGCR (essai MIGHT)",
+ "question": "Les immunoglobulines intraveineuses améliorent-elles l'atteinte musculaire (CK) de la myopathie nécrosante auto-immune anti-HMGCR par rapport au placebo ?",
+ "contexte": "La myopathie nécrosante auto-immune (MNAI) est une myopathie inflammatoire marquée par une faiblesse proximale sévère, des CK très élevées et une nécrose musculaire avec peu d'infiltrat inflammatoire. Une forme est associée aux anticorps anti-HMGCR, souvent chez des patients exposés aux statines, mais aussi chez des patients sans exposition.\n\nLe traitement repose sur les corticoïdes associés à un immunosuppresseur (méthotrexate, mycophénolate, azathioprine), avec une réponse souvent incomplète. Les immunoglobulines IV sont utilisées en pratique dans les formes sévères, et un essai de phase 3 a montré leur bénéfice dans la dermatomyosite, mais les données dans la MNAI anti-HMGCR proviennent surtout de séries rétrospectives. Cet essai exploratoire de phase 2 de l'Université d'Alabama à Birmingham, soutenu par le NIAMS, randomise 12 patients 1:1 pour recevoir les IgIV 2 g/kg ou un placebo (sérum physiologique) aux semaines 0, 4 et 8. Une extension ouverte propose ensuite les IgIV à tous les participants jusqu'à la semaine 24. Les patients sous statine sont exclus.",
+ "interet": "L'étude apportera des données contrôlées sur les IgIV dans cette maladie rare, jusqu'ici fondées sur des séries de cas. Le petit effectif en fait un essai de faisabilité et de signal d'efficacité plutôt qu'une preuve définitive.",
+ "profil": "Des patients de plus de 16 ans avec myopathie nécrosante anti-HMGCR active, évoluant depuis moins de 36 mois.",
+ "inclusion": ["Âge > 16 ans, anticorps anti-HMGCR positifs", "Force musculaire MMT-8 < 142/160", "CK > 5 fois la limite supérieure de la normale", "Durée de la maladie < 36 mois", "Pas de dysfonction respiratoire ou de déglutition modérée à sévère", "Pas d'antécédent de rash de dermatomyosite"],
+ "exclusion": ["Prednisone orale > 15 mg/j ou dose modifiée dans les 2 semaines avant le dépistage", "Traitement antérieur par IgIV pour cette maladie", "Plus d'un DMARD de synthèse ; rituximab < 6 mois ; échange plasmatique, cyclophosphamide ou biothérapie < 3 mois", "Statine en cours", "Antécédent d'anaphylaxie aux IgIV, de thrombose veineuse ou embolie pulmonaire < 3 ans, d'AVC/infarctus < 12 mois", "Anticoagulation en cours, DFG < 60 mL/min, poids > 120 kg", "Cancer < 5 ans (hors cancer cutané non mélanome)"],
+ "bras": [{"nom": "IgIV", "traitement": "Immunoglobulines IV humaines 2 g/kg toutes les 4 semaines jusqu'à 24 semaines"}, {"nom": "Placebo", "traitement": "Perfusion de sérum physiologique à volume équivalent, puis extension ouverte par IgIV"}],
+ "duree": "24 semaines",
+ "critere": "Variation en pourcentage des CK sériques entre la semaine 0 et la semaine 12."
+}

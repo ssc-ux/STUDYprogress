@@ -1,0 +1,28 @@
+{
+ "h": "a3320cc9a77d",
+ "date": "2026-11-14",
+ "titre": "Base génétique des déficits immunitaires combinés sévères (NHLBI)",
+ "question": "Quelles sont les causes génétiques de nouvelles formes de déficit immunitaire héréditaire, en particulier celles touchant les cytokines utilisant la chaîne gamma commune ?",
+ "contexte": "Les déficits immunitaires combinés sévères (DICS) sont des maladies héréditaires rares où les lymphocytes T, B ou NK sont absents ou non fonctionnels, avec des infections graves dès la petite enfance. Plusieurs formes sont liées à des anomalies de la chaîne gamma commune (γc), partagée par les récepteurs des cytokines IL-2, IL-4, IL-7, IL-9, IL-15 et IL-21, ou de molécules de signalisation en aval.\n\nCertains patients n'ont toujours pas de diagnostic génétique. Cette étude du NHLBI (États-Unis), dirigée par l'équipe de W. Leonard, inclut des cas index et des apparentés (fratrie, parents, grands-parents, oncles et tantes). Des prélèvements sanguins servent à des analyses génétiques. L'étude est observationnelle et ne teste aucun traitement.",
+ "interet": "L'étude pourrait identifier de nouveaux gènes responsables de déficits immunitaires et éclairer le conseil génétique. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients dès 6 mois ayant un déficit quantitatif ou fonctionnel des cellules immunitaires, et leurs apparentés.",
+ "inclusion": [
+  "Cas index : nombre diminué de lymphocytes T, B, NK ou d'autres cellules immunitaires",
+  "Ou nombres normaux mais fonction diminuée d'une ou plusieurs de ces cellules",
+  "Cas index et fratrie : âge ≥ 6 mois",
+  "Autres apparentés (parent biologique, oncle, tante, grand-parent) : âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Diagnostic déjà connu",
+  "Phénotype immunologique sans rapport avec l'objet de la recherche",
+  "Grossesse ou allaitement",
+  "Adulte actuellement incapable de consentir"
+ ],
+ "bras": [
+  {"nom": "Cas index", "traitement": "Patients de 6 mois et plus : prélèvement sanguin pour analyse génétique"},
+  {"nom": "Fratrie", "traitement": "Frères et sœurs de 6 mois et plus : prélèvement sanguin"},
+  {"nom": "Apparentés hors fratrie", "traitement": "Parents, oncles, tantes, grands-parents de 18 ans et plus : prélèvement sanguin"}
+ ],
+ "duree": "Non précisé",
+ "critere": "Identification de formes de déficit immunitaire héréditaire dues à des mutations de cytokines dépendantes de γc, de leurs récepteurs ou de molécules de signalisation, en continu"
+}

@@ -1,0 +1,23 @@
+{
+ "h": "e9c3166cff0e",
+ "date": "2026-11-14",
+ "titre": "Programme de surveillance des grossesses sous Tegsedi (inotersen)",
+ "question": "Quelle est l'issue des grossesses de femmes atteintes d'amylose hATTR avec polyneuropathie, exposées ou non à l'inotersen, et celle des nourrissons jusqu'à 1 an ?",
+ "contexte": "L'amylose héréditaire à transthyrétine avec polyneuropathie (hATTR-PN) est une maladie rare, de transmission autosomique dominante, due à des variants de la transthyrétine formant des dépôts amyloïdes qui atteignent les nerfs périphériques, le cœur et le tube digestif. Elle peut débuter à l'âge adulte jeune, notamment dans les formes précoces, ce qui expose à des situations de grossesse.\n\nL'inotersen (Tegsedi) est un oligonucléotide antisens qui réduit la synthèse hépatique de transthyrétine. Il est indiqué dans la hATTR-PN. Les données sur son utilisation pendant la grossesse sont très limitées, et les femmes en âge de procréer doivent être informées des incertitudes. Un suivi de pharmacovigilance est donc demandé.\n\nCette étude observationnelle internationale, promue par Akcea Therapeutics, recueille les issues de grossesse chez des femmes atteintes de hATTR-PN exposées à au moins une dose de Tegsedi dans les 25 semaines précédant la conception ou pendant la grossesse (cohorte 1), ou non exposées (cohorte 2), ainsi que l'évolution des enfants jusqu'à 1 an. Le suivi est prévu sur 10 ans.",
+ "interet": "L'étude doit fournir des données de sécurité sur la grossesse et la période néonatale, utiles aux cliniciens qui conseillent les femmes en âge de procréer sous inotersen.",
+ "profil": "Des femmes enceintes atteintes d'amylose hATTR avec polyneuropathie, exposées ou non à Tegsedi.",
+ "inclusion": [
+  "Cohorte 1 : grossesse exposée à au moins une dose de Tegsedi dans les 25 semaines avant la conception ou pendant la grossesse",
+  "Cohorte 2 : diagnostic de hATTR-PN pendant la grossesse, sans exposition à Tegsedi dans les 25 semaines avant la conception ou pendant la grossesse",
+  "Capacité et volonté de donner un consentement éclairé"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  { "nom": "Cohorte 1", "traitement": "Femmes enceintes exposées à l'inotersen (Tegsedi) avant la conception ou pendant la grossesse ; suivi des issues de grossesse" },
+  { "nom": "Cohorte 2", "traitement": "Femmes enceintes avec hATTR-PN non exposées à Tegsedi ; suivi des issues de grossesse" }
+ ],
+ "duree": "Suivi de la grossesse et du nourrisson jusqu'à 1 an",
+ "critere": "Fréquence de certaines issues de grossesse, fœtales et néonatales, et des complications de grossesse, sur 10 ans ou 12 mois après la dernière naissance vivante"
+}

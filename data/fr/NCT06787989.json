@@ -1,0 +1,34 @@
+{
+ "h": "2dbe287f3bf9",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-T BCMA-CD19 dans le PTI réfractaire associé à une maladie auto-immune",
+ "question": "Les cellules CAR-T anti-BCMA et anti-CD19 sont-elles bien tolérées chez des patients ayant un PTI réfractaire associé à une maladie auto-immune ?",
+ "contexte": "Le PTI peut s'associer à des maladies auto-immunes systémiques comme le lupus ou le syndrome de Sjögren. Quand il est réfractaire, il expose à un risque hémorragique grave, à des hospitalisations prolongées et à de nombreuses transfusions. Le traitement repose sur les corticoïdes associés à des immunosuppresseurs, avec des biothérapies ciblant les lymphocytes B (rituximab, bélimumab) qui donnent des résultats partiels.\n\nCes biothérapies n'éliminent pas les plasmocytes à longue durée de vie, qui pénètrent mal les ganglions et les tissus et continuent de produire des auto-anticorps. Les CAR-T cells bispécifiques BCMA-CD19 sont conçues pour détruire à la fois les lymphocytes B et les plasmocytes, à l'origine de la production d'anticorps. Cette étude de phase 1, à un seul bras et en escalade de dose, évalue d'abord la sécurité de cette approche chez 20 patients. Elle est promue par iCell Gene Therapeutics.",
+ "interet": "Si la tolérance est acceptable, ces CAR-T pourraient ouvrir une voie de rémission prolongée du PTI associé à une auto-immunité systémique. À ce stade, seule la sécurité est évaluée.",
+ "profil": "Des adultes de 18 à 60 ans ayant un PTI réfractaire associé à une maladie auto-immune (lupus, Sjögren, connectivite indifférenciée).",
+ "inclusion": [
+  "Âge 18-60 ans",
+  "PTI associé à un lupus, un syndrome de Sjögren primitif ou une connectivite indifférenciée (ou ANA ≥ 1/100 sans manifestation clinique)",
+  "Créatininémie < 221 µmol/L",
+  "Plaquettes < 30 G/L, ou ≥ 20 G/L avec saignement (score ≥ 2)",
+  "Pas d'infection active évidente",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Maladie grave non contrôlée jugée significative (cardiaque, rénale, hépatique, etc.)",
+  "Lupus actif du système nerveux central",
+  "ASAT, ALAT ou GGT > 1,5 N ; protéinurie > 1 g/24 h",
+  "Antécédent de cancer",
+  "Hépatite B ou C active, VIH",
+  "Antécédent d'allergie médicamenteuse",
+  "Toute affection jugée à risque par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T BCMA-CD19",
+   "traitement": "Perfusion de cellules T autologues transduites exprimant un CAR bispécifique BCMA-CD19, en escalade de dose"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Nombre et fréquence des événements indésirables après la perfusion, sur 24 mois."
+}

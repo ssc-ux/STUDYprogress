@@ -1,0 +1,31 @@
+{
+ "h": "c77278dd8793",
+ "date": "2026-11-14",
+ "titre": "IMVT-1402 (anti-FcRn) dans le syndrome de Gougerot-Sjögren primitif avec atteinte systémique",
+ "question": "L'IMVT-1402 réduit-il l'activité systémique du syndrome de Gougerot-Sjögren primitif par rapport au placebo ?",
+ "contexte": "Le syndrome de Gougerot-Sjögren primitif est une maladie auto-immune touchant les glandes exocrines, avec dans une partie des cas des atteintes systémiques (articulaires, cutanées, pulmonaires, rénales, neurologiques). Aucun traitement de fond n'a d'autorisation de mise sur le marché dans cette indication. Les traitements immunosuppresseurs sont utilisés sans preuve solide.\n\nLa maladie s'accompagne d'auto-anticorps anti-SSA/Ro et d'une hypergammaglobulinémie. Les inhibiteurs du récepteur néonatal Fc (FcRn) réduisent les IgG circulantes, dont les auto-anticorps, sans déplétion lymphocytaire. L'IMVT-1402 est un anticorps anti-FcRn administré par voie sous-cutanée, également étudié dans d'autres maladies à IgG.\n\nCette étude de phase 2b, multicentrique (96 centres, 13 pays), randomisée en triple insu, compare deux doses d'IMVT-1402 au placebo chez 180 adultes. Les patients doivent avoir une atteinte systémique modérée à sévère (clinESSDAI ≥ 5), des anticorps anti-SSA et un flux salivaire résiduel. La participation peut durer jusqu'à 105 semaines. Le promoteur est Immunovant.",
+ "interet": "Si l'étude est positive, elle pourrait ouvrir la voie à un traitement ciblé des formes systémiques du Sjögren, aujourd'hui sans option validée. Les résultats de phase 2b devront être confirmés en phase 3.",
+ "profil": "Des adultes de 18 à 74 ans atteints d'un Sjögren primitif, anti-SSA positif, avec une atteinte systémique modérée à sévère.",
+ "inclusion": [
+  "Syndrome de Sjögren primitif diagnostiqué depuis au moins 12 mois, critères ACR/EULAR 2016",
+  "Activité systémique modérée à sévère : clinESSDAI ≥ 5",
+  "Anticorps anti-SSA/Ro positifs",
+  "Flux salivaire stimulé résiduel ≥ 0,01 mL/min",
+  "Âge de 18 à 74 ans",
+  "Autres critères définis dans le protocole : non précisés"
+ ],
+ "exclusion": [
+  "Sjögren secondaire ou autre maladie auto-immune (PR, lupus, sclérodermie, dermatomyosite, polymyosite) pouvant gêner l'évaluation",
+  "Fibromyalgie insuffisamment traitée",
+  "Gammapathie monoclonale cliniquement significative (dont MGUS), antécédent de myélome ou de lymphome non hodgkinien",
+  "Cancer actif ou dans les 5 ans",
+  "Autres critères définis dans le protocole : non précisés"
+ ],
+ "bras": [
+  { "nom": "IMVT-1402 dose 1", "traitement": "IMVT-1402, première dose (valeur non précisée)" },
+  { "nom": "IMVT-1402 dose 2", "traitement": "IMVT-1402, deuxième dose (valeur non précisée)" },
+  { "nom": "Placebo", "traitement": "Placebo" }
+ ],
+ "duree": "Jusqu'à 105 semaines",
+ "critere": "Variation du score clinESSDAI entre l'inclusion et la semaine 24, IMVT-1402 dose 1 versus placebo."
+}

@@ -1,0 +1,42 @@
+{
+ "h": "eb91dc4b2bf8",
+ "date": "2026-11-14",
+ "titre": "Vénétoclax-dexaméthasone dans l'amylose AL en rechute avec t(11;14)",
+ "question": "Le vénétoclax associé à la dexaméthasone est-il sûr et efficace dans l'amylose AL réfractaire ou en rechute porteuse de la translocation t(11;14) ?",
+ "contexte": "L'amylose AL est due à une prolifération clonale de plasmocytes qui produit des chaînes légères libres amyloïdogènes. Le traitement repose sur les anticorps anti-CD38 (daratumumab), le bortézomib, le melphalan et la dexaméthasone, mais une proportion importante de patients rechute ou reste insuffisamment répondeuse. Les options en rechute sont limitées, en particulier après un anti-CD38.\n\nLa translocation t(11;14) est retrouvée chez environ la moitié des patients atteints d'amylose AL, bien plus souvent que dans le myélome. Elle est associée à une dépendance des plasmocytes à la protéine anti-apoptotique BCL-2. Le vénétoclax, inhibiteur oral de BCL-2, a montré des réponses hématologiques dans des séries rétrospectives d'amylose AL avec t(11;14). Cette étude de phase 1/2 de l'université Columbia évalue d'abord la dose recommandée (escalade de dose guidée par un schéma BOIN, jusqu'à 15 patients), puis compare en phase 2 randomisée ouverte le vénétoclax-dexaméthasone au traitement choisi par l'investigateur.",
+ "interet": "Si le taux de réponse hématologique profonde est supérieur au comparateur, le vénétoclax pourrait devenir une option orale ciblée pour les patients t(11;14) en rechute après anti-CD38. L'étude fournira aussi la dose recommandée dans cette indication.",
+ "profil": "Des adultes atteints d'amylose AL systémique en rechute ou réfractaire, après au moins une ligne dont un anti-CD38, avec t(11;14).",
+ "inclusion": [
+  "Amylose AL systémique confirmée sur biopsie (spectrométrie de masse ou immunohistochimie)",
+  "Au moins une ligne de traitement antérieure, incluant un anti-CD38",
+  "t(11;14) détectée par FISH",
+  "Âge ≥ 18 ans",
+  "ECOG 0 à 2",
+  "Récupération des toxicités d'une éventuelle autogreffe"
+ ],
+ "exclusion": [
+  "Exposition antérieure à un inhibiteur de BCL-2",
+  "Myélome symptomatique (lésions lytiques, plasmocytome, hypercalcémie, infiltration médullaire > 60 %)",
+  "Insuffisance cardiaque NYHA III-IV ou stade Mayo IIIB avec NT-proBNP > 8500 pg/mL",
+  "Dialyse",
+  "Maladie digestive gênant l'absorption orale",
+  "Infection non contrôlée, hépatite active ou VIH non traité",
+  "Autre cancer évolutif non traité de façon curative"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 1 : escalade de dose",
+   "traitement": "Vénétoclax 200 mg ou 400 mg par jour, seul ou avec dexaméthasone 10 ou 20 mg par semaine (4 cohortes, cycles de 28 jours, maximum 6)"
+  },
+  {
+   "nom": "Phase 2 : vénétoclax-dexaméthasone",
+   "traitement": "Vénétoclax à la dose maximale tolérée avec dexaméthasone, selon la phase 1"
+  },
+  {
+   "nom": "Phase 2 : contrôle",
+   "traitement": "Choix de l'investigateur : daratumumab, pomalidomide, bendamustine ou ixazomib, avec ou sans dexaméthasone"
+  }
+ ],
+ "duree": "Jusqu'à 6 cycles de 28 jours (environ 6 mois) pour le critère principal",
+ "critere": "Phase 1 : nombre de patients avec toxicité limitante de dose. Phase 2 : taux de réponse hématologique au moins très bonne réponse partielle (VGPR), jusqu'à 6 cycles."
+}

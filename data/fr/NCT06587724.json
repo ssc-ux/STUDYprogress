@@ -1,0 +1,14 @@
+{
+ "h": "57cf07683f78",
+ "date": "2026-11-14",
+ "titre": "Validation d'un questionnaire biopsychosocial (BETY-BQ) dans les myosites",
+ "question": "Le questionnaire BETY-BQ est-il valide, fiable et sensible au changement chez les patients atteints de myosite ?",
+ "contexte": "Les myosites inflammatoires associent une faiblesse musculaire proximale à des atteintes cutanées, articulaires et viscérales. Elles altèrent la fonction physique, la vie sexuelle et la qualité de vie, avec fréquemment de l'anxiété et de la dépression. Une prise en charge globale suppose donc d'évaluer ces dimensions, et pas seulement la force musculaire.\n\nLes outils d'évaluation disponibles se concentrent surtout sur l'activité de la maladie et la fonction. Le BETY-BQ est issu de l'approche d'exercice thérapeutique cognitif BETY (Bilişsel Egzersiz Terapi Yaklaşımı), développée pour les patients rhumatologiques. Il explore la douleur, les capacités d'adaptation, la fonctionnalité, l'humeur, la sociabilité, la sexualité et le sommeil, et se remplit rapidement. Cette étude de l'Université Hacettepe (Turquie) teste ses propriétés psychométriques dans la myosite, notamment la validité, la reproductibilité et la réactivité au changement. Elle ne comporte pas de traitement expérimental.",
+ "interet": "Si le questionnaire est validé, il offrirait un outil court pour suivre l'impact global de la myosite sur les patients. Il pourrait servir de critère d'évaluation dans de futurs essais.",
+ "profil": "Des adultes atteints de myosite.",
+ "inclusion": ["Diagnostic de myosite", "Âge > 18 ans", "Consentement du participant"],
+ "exclusion": ["Maladie associée non contrôlée ou cliniquement significative (BPCO, insuffisance cardiaque, maladie endocrinienne, neurologique ou psychiatrique)", "Grossesse", "Cancer"],
+ "bras": [{"nom": "Patients avec myosite", "traitement": "Passation du questionnaire BETY-BQ, sans intervention thérapeutique"}],
+ "duree": "3 mois",
+ "critere": "Score au questionnaire BETY-BQ à 3 mois."
+}

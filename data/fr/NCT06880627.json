@@ -1,0 +1,34 @@
+{
+ "h": "3f30aac34895",
+ "date": "2026-11-14",
+ "titre": "Programme « Brain Boost » pour améliorer la cognition dans la sclérodermie systémique",
+ "question": "Un programme éducatif de groupe en ligne de 8 semaines améliore-t-il la fonction cognitive de patients ayant une sclérodermie systémique ?",
+ "contexte": "Une part importante des patients atteints de sclérodermie systémique se plaint de difficultés de mémoire, d'attention et de concentration, en plus de la fatigue, de la douleur et de l'humeur dépressive. Ces troubles altèrent la qualité de vie et la capacité à gérer la maladie, mais il n'existe pas d'intervention spécifique validée.\n\nLe programme Brain Boost est une intervention comportementale de groupe, en ligne, adaptée à la sclérodermie, qui combine éducation et stratégies de gestion de la cognition. Cette étude randomisée de l'Université du Michigan inclut 66 adultes avec plaintes cognitives, qui reçoivent soit le programme pendant 8 semaines, soit une inscription sur liste d'attente. Elle évalue la cognition objective, les symptômes non cognitifs et l'autogestion à la semaine 8.",
+ "interet": "Si elle est positive, elle fournirait une intervention non médicamenteuse accessible à distance pour une plainte fréquente et peu prise en charge dans la sclérodermie.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique, avec plaintes cognitives mais sans démence.",
+ "inclusion": [
+  "Sclérodermie systémique diagnostiquée par un médecin (tout sous-type)",
+  "Questionnaire de déficits perçus (PDQ) ≥ 10",
+  "Test d'altération cognitive à 6 items (6CIT) ≤ 7",
+  "Accès à un appareil connecté à internet, vision suffisante",
+  "Lecture, expression et compréhension de l'anglais"
+ ],
+ "exclusion": [
+  "Démence ou traumatisme crânien",
+  "Autre trouble neurologique pouvant affecter la cognition",
+  "Trouble psychiatrique majeur (dépression majeure, schizophrénie)",
+  "Problème de santé complexe et instable (chirurgie prévue, traitement anticancéreux actif)"
+ ],
+ "bras": [
+  {
+   "nom": "Brain Boost",
+   "traitement": "Programme éducatif de groupe en ligne de 8 semaines, adapté à la sclérodermie"
+  },
+  {
+   "nom": "Liste d'attente",
+   "traitement": "Aucune intervention pendant l'étude, accès différé au programme"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Variation de la fonction cognitive objective entre l'inclusion et la semaine 8."
+}

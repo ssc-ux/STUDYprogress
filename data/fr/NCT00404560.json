@@ -1,0 +1,27 @@
+{
+ "h": "a2a451b4f9da",
+ "date": "2026-11-14",
+ "titre": "Dépistage des infections et de la susceptibilité aux infections (NIAID)",
+ "question": "Quel agent infectieux ou quel terrain de susceptibilité explique des infections récidivantes ou inhabituelles chez un patient ?",
+ "contexte": "Des infections récidivantes, sévères ou inhabituelles peuvent révéler un déficit immunitaire congénital, notamment un défaut des globules blancs. Le diagnostic précis, qui combine identification du germe et caractérisation génétique ou biochimique du terrain, est souvent difficile et nécessite des équipes spécialisées.\n\nCe protocole de dépistage du NIAID (États-Unis) comporte jusqu'à deux visites : histoire personnelle et familiale, examen, bilans sanguin et urinaire, explorations respiratoires, dentaires et ophtalmologiques, imagerie, tests génétiques et prélèvements divers (salive, selles, biopsie cutanée, écoulement de plaie). Les patients d'intérêt sont ensuite orientés vers un protocole de recherche ou de traitement adapté. Il prévoit jusqu'à 2000 patients et apparentés sur 25 ans. Il est observationnel.",
+ "interet": "L'étude cherche à établir un diagnostic précis (agent infectieux, trait de susceptibilité, ou les deux) et à orienter vers des protocoles adaptés. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients de plus de 1 mois ayant ou suspectés d'avoir une susceptibilité aux infections, et leurs apparentés sains.",
+ "inclusion": [
+  "Patient avec susceptibilité aux infections connue ou suspectée",
+  "Âge supérieur à 1 mois, sans limite de sexe, d'origine ou de handicap",
+  "Médecin référent extérieur au NIH, éventuellement lettre documentant l'histoire de santé",
+  "Apparentés biologiques sains, inclus uniquement si le patient l'est",
+  "Accord pour le stockage de sang et de tissus pour des études futures",
+  "Consentement du patient ou de son représentant légal"
+ ],
+ "exclusion": [
+  "Cause acquise bien comprise de susceptibilité (VIH, chimiothérapie cytotoxique, cancer actif) si elle gêne significativement l'évaluation",
+  "Infection ou syndrome sévère ou rare nécessitant une équipe que le NIH ne peut fournir, selon l'investigateur principal"
+ ],
+ "bras": [
+  {"nom": "Patients", "traitement": "Patients avec infection ou susceptibilité aux infections, suspectée ou avérée : jusqu'à 2 visites avec examens, prélèvements et imagerie"},
+  {"nom": "Apparentés sains", "traitement": "Apparentés biologiques sans maladie : prélèvements pour comparaison"}
+ ],
+ "duree": "Jusqu'à 2 visites",
+ "critere": "Diagnostic précis de l'agent infectieux, du terrain de susceptibilité, ou des deux, au moment du diagnostic ou après la deuxième visite"
+}

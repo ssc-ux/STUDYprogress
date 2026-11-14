@@ -1,0 +1,28 @@
+{
+ "h": "7540dc8e9225",
+ "date": "2026-11-14",
+ "titre": "Greffe haplo-identique déplétée en TCR alpha-bêta chez l'enfant avec déficit immunitaire ou maladie métabolique",
+ "question": "Une greffe haplo-identique avec déplétion des lymphocytes TCR alpha-bêta et CD19 permet-elle une prise de greffe réussie chez l'enfant atteint de déficit immunitaire primitif, d'histiocytose ou de maladie métabolique héréditaire ?",
+ "contexte": "Les déficits immunitaires primitifs, les syndromes de dysrégulation immunitaire, certaines histiocytoses (lymphohistiocytose hémophagocytique familiale ou secondaire réfractaire, LCH multisystémique réfractaire) et des maladies métaboliques héréditaires (mucopolysaccharidoses, ostéopétrose, maladies neurodégénératives) peuvent être guéries ou stabilisées par greffe de cellules souches hématopoïétiques. Moins d'un tiers des patients ont un donneur de fratrie HLA-identique.\n\nLes donneurs haplo-identiques (parents ou apparentés demi-compatibles) sont disponibles pour presque tous les patients, mais la greffe expose à la GVHD et aux infections. Retirer des greffons les lymphocytes T TCR alpha-bêta, responsables de la GVHD, et les lymphocytes B CD19+, source de lymphoprolifération liée à l'EBV, tout en conservant les cellules NK et T gamma-delta, est une stratégie qui limite la GVHD sans immunosuppression post-greffe lourde.\n\nCet essai de phase 2 de Johns Hopkins All Children's Hospital évalue cette greffe haplo-identique avec déplétion TCR alpha-bêta et CD19, réalisée avec le dispositif CliniMACS (expérimental), chez des enfants et jeunes de 21 ans ou moins. Le critère principal est la prise de greffe réussie à J100. Les nourrissons atteints de DICS classique de moins de 2 ans sont exclus, car ils relèvent d'un autre protocole.",
+ "interet": "L'étude pourrait valider la greffe haplo-identique déplétée en TCR alpha-bêta comme option pour les enfants sans donneur compatible, dans une large palette de maladies non malignes.",
+ "profil": "Des enfants et jeunes de 21 ans ou moins atteints de déficit immunitaire, de dysrégulation immunitaire, d'histiocytose ou de maladie métabolique héréditaire.",
+ "inclusion": [
+  "Déficit immunitaire primitif ou trouble de dysrégulation immunitaire (CGD, DOCK8, CVID, Wiskott-Aldrich, IPEX, CTLA4, LRBA, STAT1/3 gain de fonction, etc.), histiocytose (HLH, LCH multisystémique réfractaire) ou maladie métabolique (mucopolysaccharidoses, ostéopétrose, etc.)",
+  "Donneur haplo-identique : au moins 5/10 en HLA-A, -B, -C, -DRB1 et -DQB1",
+  "Fonctions cardiaque (FEVG d'au moins 40 %), pulmonaire (DLCO d'au moins 40 % ou SpO2 d'au moins 92 %), rénale (clairance supérieure à 50 mL/min/1,73 m²) et hépatique adéquates",
+  "Karnofsky ou Lansky d'au moins 50",
+  "Consentement éclairé écrit"
+ ],
+ "exclusion": [
+  "Frère ou sœur HLA-identique prêt à donner de la moelle",
+  "Grossesse ou allaitement",
+  "VIH ou infection fongique, bactérienne ou virale non contrôlée",
+  "Greffe d'organe solide antérieure",
+  "GVHD aiguë supérieure au grade II ou GVHD chronique extensive d'une allogreffe précédente"
+ ],
+ "bras": [
+  { "nom": "Déplétion TCR alpha-bêta", "traitement": "Greffe haplo-identique de cellules souches périphériques ou médullaires avec sélection négative TCR alpha-bêta et CD19 (CliniMACS)" }
+ ],
+ "duree": "Non précisé (critère principal à J100)",
+ "critere": "Incidence de la prise de greffe réussie du donneur à J100 après la greffe"
+}

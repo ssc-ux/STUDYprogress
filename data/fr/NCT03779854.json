@@ -1,0 +1,33 @@
+{
+ "h": "f58ed6a1b318",
+ "date": "2026-11-14",
+ "titre": "Déplétion en lymphocytes T naïfs pour prévenir la GVHD chronique après allogreffe pédiatrique",
+ "question": "La déplétion en lymphocytes T naïfs du greffon périphérique réduit-elle la maladie du greffon contre l'hôte chronique, par rapport à une moelle osseuse non manipulée ?",
+ "contexte": "La maladie du greffon contre l'hôte (GVHD) chronique est une cause majeure de morbidité et de mortalité tardives après allogreffe de cellules souches hématopoïétiques, y compris chez l'enfant et le jeune adulte. Elle altère la qualité de vie, nécessite des traitements immunosuppresseurs prolongés et augmente le risque infectieux.\n\nLes lymphocytes T naïfs du donneur sont considérés comme les principaux responsables de la GVHD, alors que les lymphocytes T mémoire conservent des capacités de protection contre les infections. Les retirer du greffon pourrait donc réduire la GVHD chronique sans perdre l'effet protecteur du greffon. Des données préliminaires de faisabilité ont été obtenues avec cette approche.\n\nCet essai de phase 2, promu par le Fred Hutchinson Cancer Center avec le NCI, comporte une phase de faisabilité puis une phase randomisée. Il compare un greffon de cellules souches périphériques déplétées en lymphocytes T naïfs à de la moelle osseuse non manipulée, chez des patients de 6 mois à 26 ans atteints d'hémopathies malignes aiguës ou de syndrome myélodysplasique, avec donneur compatible 8/8 apparenté ou non apparenté. Trois conditionnements sont possibles, et tous les patients reçoivent tacrolimus et méthotrexate.",
+ "interet": "Si la déplétion en lymphocytes T naïfs réduit la GVHD chronique sans augmenter les rechutes, elle pourrait devenir une alternative à la moelle osseuse et à la prophylaxie standard chez l'enfant et le jeune adulte.",
+ "profil": "Des enfants et jeunes adultes (6 mois à 26 ans) atteints de leucémie aiguë ou de SMD candidats à une allogreffe avec donneur compatible.",
+ "inclusion": [
+  "LAL avec moins de 5 % de blastes, LAM avec moins de 25 %, autre leucémie aiguë avec moins de 5 %, ou SMD avec excès de blastes déjà traité par chimiothérapie",
+  "Âge de 6 mois à 26 ans",
+  "Donneur apparenté ou non apparenté compatible 8/8 (HLA-A, -B, -C, -DRB1), cellules souches périphériques ou moelle",
+  "Score de Karnofsky ou Lansky d'au moins 60 %, FEVG d'au moins 40 %, DLCO corrigée d'au moins 60 %",
+  "Bilirubine et transaminases inférieures ou égales à 2 fois la normale, créatinine normale pour l'âge ou clairance supérieure à 40 mL/min/1,73 m²",
+  "Donneur d'au moins 14 ans, disponible aux États-Unis"
+ ],
+ "exclusion": [
+  "Atteinte active du système nerveux central",
+  "Participation à un autre protocole de prévention de la GVHD",
+  "Poids du donneur apparenté supérieur à 100 kg",
+  "Infection par le VIH ou infection non contrôlée",
+  "Espérance de vie inférieure à 3 mois pour une maladie autre que leucémie aiguë ou SMD",
+  "Allogreffe ou autogreffe antérieure",
+  "Grossesse ou allaitement",
+  "Hypersensibilité connue au tacrolimus, à la fludarabine ou au méthotrexate"
+ ],
+ "bras": [
+  { "nom": "Bras I : cellules souches périphériques déplétées en lymphocytes T naïfs", "traitement": "Conditionnement (3 schémas : irradiation corporelle totale avec thiotépa-fludarabine, ou fludarabine-cyclophosphamide, ou fludarabine-busulfan), greffon déplété à J0, tacrolimus et méthotrexate" },
+  { "nom": "Bras II : moelle osseuse non manipulée", "traitement": "Même conditionnement, moelle osseuse riche en lymphocytes T à J0, tacrolimus et méthotrexate" }
+ ],
+ "duree": "Suivi d'environ 2 ans selon les critères principaux (1 an pour le critère randomisé)",
+ "critere": "Faisabilité et prise de greffe des neutrophiles à J28 (phase de faisabilité) ; survie sans GVHD chronique active et sans rechute à 1 an (phase randomisée)"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "067370b8526c",
+ "date": "2026-11-14",
+ "titre": "CM313 sous-cutané dans le purpura thrombopénique immunologique primitif (phase 2)",
+ "question": "Le CM313 en injection sous-cutanée est-il bien toléré et efficace contre placebo dans le PTI primitif ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et freinent leur production. Le traitement de première ligne repose sur les corticoïdes et les immunoglobulines IV. En cas de rechute, on propose le rituximab, les agonistes du récepteur de la thrombopoïétine, le fostamatinib ou la splénectomie.\n\nUne partie des patients reste en échec ou dépendante d'un traitement continu, d'où l'intérêt de cibles nouvelles. Le CM313 est un anticorps monoclonal dirigé contre CD38, une molécule présente à la surface des plasmocytes et plasmablastes producteurs d'auto-anticorps. Le rationnel est de déplétionner ces cellules sans toucher aux lymphocytes B naïfs. Cette étude de phase 2, randomisée en double aveugle contre placebo, promue par Keymed Biosciences, évalue surtout la sécurité, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'efficacité initiale. Elle compare trois groupes recevant le CM313 et un placebo, avec 62 patients inclus.",
+ "interet": "L'étude apporte les premières données randomisées sur une approche anti-CD38 sous-cutanée dans le PTI. Le critère principal est la sécurité, donc les résultats seront surtout exploratoires sur l'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans avec PTI primitif.",
+ "inclusion": ["Âge de 18 à 65 ans (75 ans dans l'intitulé du registre)", "Femmes ou hommes", "PTI primitif (critères détaillés non précisés)", "Compréhension du protocole et consentement signé"],
+ "exclusion": ["Greffe allogénique de cellules souches ou d'organe antérieure", "Anomalies biologiques cliniquement significatives au dépistage", "Grossesse, allaitement ou projet de grossesse (y compris partenaire masculin)", "Toute situation jugée inadaptée par l'investigateur"],
+ "bras": [{"nom": "Groupe 1", "traitement": "CM313 sous-cutané (dose non précisée) et placebo"}, {"nom": "Groupe 2", "traitement": "CM313 sous-cutané (dose non précisée) et placebo"}, {"nom": "Groupe 3", "traitement": "CM313 sous-cutané (dose non précisée) et placebo"}],
+ "duree": "16 semaines",
+ "critere": "Événements indésirables jusqu'à la semaine 16."
+}

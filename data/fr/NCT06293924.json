@@ -1,0 +1,39 @@
+{
+ "h": "d19b53bdd917",
+ "date": "2026-11-14",
+ "titre": "Analyse du liquide péricardique dans la péricardite aiguë et récidivante",
+ "question": "Le liquide péricardique des péricardites inflammatoires diffère-t-il de celui des épanchements non inflammatoires ?",
+ "contexte": "La péricardite récidivante idiopathique est une inflammation répétée du péricarde, parfois associée à d'autres séreuses, avec des signes systémiques. Elle est considérée comme une maladie auto-inflammatoire dans de nombreux cas, comme en témoigne l'efficacité des anti-IL-1 (anakinra, rilonacept). Les recommandations de l'ESC préconisent d'analyser le liquide péricardique surtout en cas de suspicion d'étiologie infectieuse ou néoplasique.\n\nLa composition cellulaire et biochimique du liquide dans les formes inflammatoires reste peu décrite, alors qu'elle pourrait aider le diagnostic et éclairer la physiopathologie. Certains épanchements ne montrent aucun signe inflammatoire (épanchement idiopathique).\n\nCette étude italienne, menée à Milan, compare trois groupes : péricardite aiguë idiopathique ou post-lésion cardiaque nécessitant une ponction, épanchement non inflammatoire ponctionné, et patients de chirurgie cardiaque avec péricardotomie. Quatre ml de liquide sont prélevés pour biochimie, cytométrie en flux et expression génique.",
+ "interet": "L'étude pourrait aboutir à des critères d'analyse du liquide distinguant péricardite inflammatoire et épanchement non inflammatoire, et orienter les traitements ciblés.",
+ "profil": "Des adultes avec péricardite aiguë, épanchement péricardique non inflammatoire, ou chirurgie cardiaque, nécessitant un prélèvement de liquide péricardique.",
+ "inclusion": [
+  "Péricardite aiguë idiopathique ou post-lésion cardiaque nécessitant une ponction diagnostique ou thérapeutique",
+  "Ou épanchement péricardique non inflammatoire nécessitant une ponction",
+  "Ou chirurgie cardiaque avec péricardotomie",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Infection en cours (dont hépatite virale active, COVID-19 dans les 21 jours)",
+  "Maladie inflammatoire systémique non liée à la péricardite",
+  "Cancer actif ou < 6 mois de rémission",
+  "Immunosuppresseurs pour un motif autre que la péricardite",
+  "DFG < 30 ml/min, insuffisance hépatique modérée à sévère, diabète, dénutrition sévère"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec péricardite",
+   "traitement": "Péricardiocentèse, analyse cellulaire et expression génique du liquide"
+  },
+  {
+   "nom": "Épanchement péricardique non inflammatoire",
+   "traitement": "Péricardiocentèse, mêmes analyses"
+  },
+  {
+   "nom": "Chirurgie cardiaque",
+   "traitement": "Prélèvement de liquide lors de la péricardotomie, mêmes analyses"
+  }
+ ],
+ "duree": "Jusqu'à 48 mois après l'inclusion",
+ "critere": "Différences de numération cellulaire et de paramètres biochimiques entre liquides inflammatoires et non inflammatoires, à 48 mois."
+}

@@ -1,0 +1,37 @@
+{
+ "h": "52cd1f2a5c71",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA PRG-1801 dans le PTI en rechute ou réfractaire",
+ "question": "Le CAR-T anti-BCMA PRG-1801 est-il sûr, et à quelle dose, dans le PTI en rechute ou réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes. Après les corticoïdes et les immunoglobulines, on utilise les agonistes du récepteur de la TPO, le rituximab, les immunosuppresseurs et la splénectomie. Une partie des patients échappe à tous ces traitements ou rechute à leur arrêt.\n\nLes plasmocytes à longue durée de vie, producteurs d'auto-anticorps antiplaquettaires, expriment BCMA et sont peu sensibles au rituximab. Le PRG-1801 est un CAR-T anti-BCMA, déjà évalué en Chine dans la néphrite lupique et les vascularites à ANCA.\n\nCet essai chinois monocentrique de phase 1, en escalade de dose 3+3, inclut des adultes avec PTI évoluant depuis au moins 6 mois, plaquettes < 30 G/L et auto-anticorps antiglycoprotéines positifs. Deux doses sont étudiées (100 et 200 × 10^6 cellules), après leucaphérèse et lymphodéplétion, avec une perfusion unique et au moins 14 jours d'observation entre deux patients d'une même dose. Une phase d'expansion suit à la dose retenue.",
+ "interet": "Il pourrait établir une dose sûre d'un CAR-T anti-BCMA dans le PTI multi-traité, avec un premier signal d'efficacité sur les plaquettes.",
+ "profil": "Des adultes avec PTI évoluant depuis au moins 6 mois, en échec ou en rechute après des traitements de première et deuxième ligne.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire depuis ≥ 6 mois, plaquettes < 30 G/L dans les 48 heures",
+  "Auto-anticorps antiplaquettaires positifs (par ex. GPIIb/IIIa)",
+  "Échec ou rechute après corticoïdes ou immunoglobulines et agonistes de la TPO ou rituximab",
+  "FEVG ≥ 50 %, DFG ≥ 30 ml/min, ALAT/ASAT ≤ 3 × LSN",
+  "Lymphocytes ≥ 0,5 G/L, PNN ≥ 1 G/L, Hb ≥ 60 g/L, saturation > 92 %",
+  "Contraception efficace pendant 1 an"
+ ],
+ "exclusion": [
+  "Thrombopénie d'une autre cause (SMD, aplasie, PTT)",
+  "Myélofibrose ≥ 2 ou autre cause médullaire de thrombopénie",
+  "Allergie aux composants du produit cellulaire",
+  "Insuffisance cardiaque NYHA III-IV, infarctus ou stent < 6 mois, arythmie ventriculaire",
+  "Cancer dans les 3 ans (hors exceptions)",
+  "Thrombose veineuse symptomatique dans les 6 mois ou anticoagulation en cours",
+  "AVC ou crise comitiale dans les 6 mois",
+  "Rituximab dans les 24 semaines, immunoglobulines dans les 4 semaines",
+  "Hépatite B, vaccin vivant récent"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T PRG-1801",
+   "traitement": "Perfusion unique de PRG-1801 : 100 × 10^6 puis 200 × 10^6 cellules, après lymphodéplétion"
+  }
+ ],
+ "duree": "Non précisé (évaluation de la toxicité à 28 jours)",
+ "critere": "Incidence des événements indésirables liés au traitement et dose sûre d'une perfusion unique, jusqu'à 28 jours après la perfusion."
+}

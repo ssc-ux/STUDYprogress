@@ -1,0 +1,14 @@
+{
+ "h": "73a6e9c44c6c",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle du syndrome de déficit en sphingosine phosphate lyase (SPLIS)",
+ "question": "Comment évolue le syndrome de déficit en sphingosine phosphate lyase et quels biomarqueurs prédisent la qualité de vie et la survie ?",
+ "contexte": "Le syndrome de déficit en sphingosine phosphate lyase (SPLIS) est une maladie métabolique héréditaire récemment décrite, due à des variants bialléliques du gène SGPL1. L'enzyme concernée dégrade la sphingosine-1-phosphate, un lipide de signalisation impliqué dans la migration lymphocytaire et d'autres fonctions cellulaires.\n\nLes présentations sont multiples : syndrome néphrotique, insuffisance surrénale, ichtyose, neuropathie, dysgénésie gonadique chez le garçon, lymphopénie. La gravité va de formes létales précoces à des formes plus modérées. Il n'existe pas d'étude systématique de l'évolution naturelle, et les traitements actuels (supplémentation en vitamine B6, dialyse, transplantation rénale) sont empiriques. Cette étude de l'Université de Californie à San Francisco, financée par le NICHD, combine un suivi prospectif de 3 ans et un volet rétrospectif pour les patients décédés ou ne souhaitant pas le suivi. Elle recueille des données cliniques, biologiques, d'imagerie et de qualité de vie, et cherche à établir des biomarqueurs comme la S1P plasmatique et la lymphopénie. Des parents et des témoins appariés sont aussi inclus.",
+ "interet": "Cette étude fournira la première description structurée de l'évolution du SPLIS. Elle posera les bases de critères d'évaluation pour de futurs essais thérapeutiques dans cette maladie ultra-rare.",
+ "profil": "Des patients, vivants ou décédés, avec SPLIS confirmé génétiquement, leurs parents et des témoins appariés.",
+ "inclusion": ["Variants pathogènes ou probablement pathogènes bialléliques de SGPL1, quel que soit le phénotype", "Ou variations des deux allèles de SGPL1 avec au moins un signe de SPLIS (néphrose, déficit endocrinien, ichtyose, neuropathie, dysgénésie gonadique, lymphopénie)", "Ou preuve biochimique de perte de fonction de l'enzyme, ou fratrie d'un cas confirmé", "Patients vivants ou décédés, quel que soit le traitement (vitamine B6, dialyse, greffe rénale)", "Consentement (et assentiment si approprié)", "Parents inclus comme témoins possibles"],
+ "exclusion": ["Utilisation d'un agent expérimental dans les 30 jours (hors usage hors AMM)"],
+ "bras": [{"nom": "Patients avec SPLIS", "traitement": "Suivi prospectif de 3 ans, sans intervention"}, {"nom": "Parents de patients", "traitement": "Prélèvements de comparaison, sans intervention"}, {"nom": "Témoins appariés", "traitement": "Sujets appariés selon âge et sexe (fratrie, cousins, sujets sains), prélèvements biologiques"}],
+ "duree": "3 ans",
+ "critere": "Survie et un large ensemble de paramètres cliniques et biologiques (croissance, rein, endocrinien, neurologique, peau, immunité) sur 3 ans."
+}

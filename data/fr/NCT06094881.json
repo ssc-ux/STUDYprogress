@@ -1,0 +1,35 @@
+{
+ "h": "3c8901b6a68d",
+ "date": "2026-11-14",
+ "titre": "Obinutuzumab dans le PTI pédiatrique après échec des corticoïdes",
+ "question": "L'obinutuzumab est-il efficace et sûr chez des adolescents ayant un PTI primaire persistant ou chronique après échec des corticoïdes ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune caractérisée par une destruction accrue et une production insuffisante de plaquettes, avec un syndrome hémorragique cutanéo-muqueux. Le traitement de première ligne repose sur les corticoïdes et les immunoglobulines, puis les agonistes du récepteur de la thrombopoïétine, le rituximab, la splénectomie et divers immunosuppresseurs.\n\nUne proportion importante de patients rechute ou nécessite un traitement d'entretien, avec un impact sur la qualité de vie. L'obinutuzumab est un anticorps anti-CD20 de type II glyco-modifié, qui augmente la cytotoxicité directe et la cytotoxicité cellulaire dépendante des anticorps, avec moins de lyse dépendante du complément que le rituximab. Les promoteurs formulent l'hypothèse qu'il pourrait mieux traiter le PTI, avec un risque d'efficacité insuffisante.\n\nCette phase 2 ouverte à un seul bras, de l'Institute of Hematology & Blood Diseases Hospital en Chine, inclut 60 adolescents de 12 à 18 ans et évalue une perfusion d'obinutuzumab, avec une réponse globale à 12 semaines.",
+ "interet": "Les résultats pourraient montrer un intérêt de l'obinutuzumab comme option de seconde ligne dans le PTI de l'enfant et de l'adolescent, en alternative au rituximab ou à la splénectomie.",
+ "profil": "Des adolescents de 12 à 18 ans avec PTI persistant ou chronique, plaquettes < 30 G/L, après échec ou dépendance aux corticoïdes.",
+ "inclusion": [
+  "Âge de 12 à 18 ans",
+  "PTI persistant ou chronique",
+  "Plaquettes < 30 G/L (deux mesures à au moins 1 semaine d'intervalle)",
+  "Échec, rechute ou dépendance aux corticoïdes",
+  "Traitements d'urgence terminés depuis au moins 2 semaines, traitements d'entretien à dose stable depuis 4 semaines",
+  "Bilan hépatique et rénal < 1,5 N, ECOG ≤ 2, NYHA ≤ 2",
+  "Rituximab arrêté depuis plus de 3 mois, splénectomie depuis plus de 6 mois"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (connectivite, insuffisance médullaire, SMD, cancer, médicaments, thrombopénie héréditaire, DICV, lymphome)",
+  "Infection par le VIH, VHB, VHC, CMV, EBV ou syphilis active",
+  "Hémorragie sévère (hémoptysie, hémorragie digestive, intracrânienne)",
+  "Cardiopathie nécessitant un traitement ou hypertension mal contrôlée",
+  "Thrombose veineuse ou artérielle, athérosclérose",
+  "Antécédent de tumeur solide, greffe de cellules souches ou d'organe",
+  "Antiagrégants plaquettaires, trouble psychiatrique empêchant le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Intervention (obinutuzumab)",
+   "traitement": "Une perfusion d'obinutuzumab [Gazyva] ; dose non précisée"
+  }
+ ],
+ "duree": "12 semaines pour le critère principal",
+ "critere": "Réponse globale au traitement par obinutuzumab dans les 12 semaines."
+}

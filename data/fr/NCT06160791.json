@@ -1,0 +1,31 @@
+{
+ "h": "d97a43aaaed8",
+ "date": "2026-11-14",
+ "titre": "Ruxolitinib et HLH-94 allégé dans la lymphohistiocytose hémophagocytaire de l'adulte",
+ "question": "Le ruxolitinib associé à un protocole HLH-94 allégé est-il efficace chez des adultes ayant une LHH nouvellement diagnostiquée ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (LHH) est un syndrome d'hyperinflammation lié à une activation incontrôlée de lymphocytes T cytotoxiques et de macrophages. Chez l'adulte, elle est le plus souvent secondaire (infection, hémopathie maligne, maladie auto-immune) et son pronostic est sévère. Le protocole HLH-94 (dexaméthasone, étoposide, puis ciclosporine) est le traitement de référence, mais il est toxique, surtout chez l'adulte fragile.\n\nLe ruxolitinib, inhibiteur de JAK1/2, bloque la signalisation de l'IFN-γ et d'autres cytokines clés de la LHH. Des données observationnelles suggèrent une efficacité dans les formes réfractaires et en première ligne. L'hypothèse est qu'en l'associant, on peut réduire l'exposition à l'étoposide et aux corticoïdes sans perdre en efficacité.\n\nCet essai de phase 2 monocentrique américain (promoteur : Jerry Lee) utilise le HLH-94 allégé (4 semaines de dexaméthasone dégressive, jusqu'à 4 semaines d'étoposide) associé au ruxolitinib, suivi d'un traitement d'entretien par ruxolitinib jusqu'à 6 mois. Les résultats seront stratifiés selon que la LHH est associée à une hémopathie maligne ou non, avec un volet exploratoire sur les sous-populations de lymphocytes T.",
+ "interet": "Si l'efficacité est maintenue avec moins d'étoposide, ce schéma pourrait réduire la toxicité du traitement de première ligne de la LHH de l'adulte.",
+ "profil": "Des adultes avec LHH active nouvellement diagnostiquée.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, consentement écrit",
+  "LHH active avec au moins 5 critères HLH-2004 sur 8, ou LHH familiale avec variant germinal pathogène",
+  "Contraception adaptée pendant l'étude et 2 mois après",
+  "Capacité à prendre un traitement par voie orale ou sonde"
+ ],
+ "exclusion": [
+  "Autre agent expérimental dans la semaine précédente",
+  "Grossesse ou allaitement (allaitement à arrêter jusqu'à 2 semaines après la dernière dose)",
+  "Impossibilité de prendre des médicaments par voie orale ou par sonde",
+  "Espérance de vie inférieure à 2 semaines",
+  "Maladie cardiovasculaire non contrôlée (angor instable, infarctus, AVC dans les 6 mois, insuffisance cardiaque NYHA III-IV, arythmie, hypertension non contrôlée)",
+  "Autres critères non précisés dans le résumé du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement (ruxolitinib, dexaméthasone, étoposide)",
+   "traitement": "Ruxolitinib deux fois par jour avec HLH-94 allégé : dexaméthasone 4 semaines et étoposide deux fois par semaine pendant 2 semaines puis une fois par semaine pendant 2 semaines ; puis ruxolitinib en cycles de 28 jours jusqu'à 6 mois"
+  }
+ ],
+ "duree": "Jusqu'à 6 mois de traitement",
+ "critere": "Taux de réponse globale à 4 semaines."
+}

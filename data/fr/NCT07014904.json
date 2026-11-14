@@ -1,0 +1,25 @@
+{
+ "h": "36d6e3ee7161",
+ "date": "2026-11-14",
+ "titre": "Polymorphisme du gène CTLA-4 dans le PTI primaire de l'enfant",
+ "question": "Le polymorphisme rs3087243 du gène CTLA-4 est-il associé au PTI primaire de l'enfant ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps dirigés contre les glycoprotéines plaquettaires entraînent la destruction des plaquettes par les macrophages. Les lymphocytes T cytotoxiques CD8+ contribuent aussi à la lyse ou à l'apoptose plaquettaire, via la granzyme B et la perforine.\n\nCTLA-4 est un point de contrôle immunitaire qui freine l'activation des lymphocytes T. Son expression dépend de facteurs génétiques. Des polymorphismes du gène CTLA4 sont associés à plusieurs maladies auto-immunes (lupus, polyarthrite rhumatoïde), et la thrombopénie a été rattachée au niveau de transcription de CTLA4.\n\nCette étude observationnelle égyptienne (université de Sohag) porte sur 80 enfants de 1 à 18 ans atteints de PTI primaire nouvellement diagnostiqué. Elle recherche par PCR en temps réel l'association entre le polymorphisme rs3087243 de CTLA4 et la maladie. L'étude n'a pas de groupe témoin décrit dans le registre.",
+ "interet": "Elle pourrait identifier un marqueur génétique de susceptibilité au PTI de l'enfant. Il s'agit d'une recherche physiopathologique, sans retombée immédiate sur la prise en charge.",
+ "profil": "Des enfants de 1 à 18 ans atteints de PTI primaire nouvellement diagnostiqué.",
+ "inclusion": [
+  "PTI nouvellement diagnostiqué",
+  "Âge supérieur à 1 an et inférieur à 18 ans, garçons et filles",
+  "Consentement écrit signé"
+ ],
+ "exclusion": [
+  "Refus de signer le consentement",
+  "PTI persistant ou chronique",
+  "Thrombopénie immunologique secondaire",
+  "Âge inférieur à 1 an ou supérieur à 18 ans"
+ ],
+ "bras": [
+  { "nom": "Enfants avec PTI primaire", "traitement": "Génotypage du polymorphisme CTLA-4 rs3087243 par PCR en temps réel" }
+ ],
+ "duree": "Évaluation unique à l'inclusion",
+ "critere": "Association du polymorphisme rs3087243 de CTLA-4 avec le PTI primaire de l'enfant, par PCR en temps réel, à l'inclusion."
+}

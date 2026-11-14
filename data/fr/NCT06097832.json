@@ -1,0 +1,34 @@
+{
+ "h": "e1abcd6fa90e",
+ "date": "2026-11-14",
+ "titre": "NXC-201 CAR-T dans l'amylose AL en rechute ou réfractaire",
+ "question": "Le NXC-201, un CAR-T dirigé contre BCMA, est-il sûr et actif chez des patients avec amylose AL en rechute ou réfractaire ?",
+ "contexte": "L'amylose AL est causée par des plasmocytes clonaux produisant des chaînes légères amyloïdogènes. Après les traitements par anticorps anti-CD38 et inhibiteurs du protéasome, les patients ne répondant pas ou en rechute ont peu d'options, alors que l'atteinte cardiaque ou rénale reste menaçante.\n\nLe NXC-201 est un CAR-T autologue ciblant BCMA, dont les premiers résultats chez des patients avec amylose AL ont été publiés (Kfir-Erenfeld 2022, Asherie 2023). Cette étude de phase 1b/2 de Nexcella inclut des patients en rechute ou réfractaires, avec atteinte d'organe symptomatique.\n\nAprès leucaphérèse, les patients reçoivent une lymphodéplétion (cyclophosphamide 250 mg/m² puis fludarabine 25 mg/m² aux jours -5 à -3), puis le NXC-201 au jour 0. L'escalade de dose compare 150 et 450 millions de cellules CAR+, puis une phase d'expansion est menée.",
+ "interet": "Si le NXC-201 est bien toléré et induit des réponses hématologiques profondes, il pourrait devenir une option pour l'amylose AL réfractaire, où la thérapie cellulaire reste expérimentale.",
+ "profil": "Des adultes avec amylose AL en rechute ou réfractaire après anti-CD38 et inhibiteur du protéasome.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, ECOG 0-2",
+  "Amylose AL systémique prouvée histologiquement avec maladie plasmocytaire mesurable nécessitant un traitement (dFLC > 20 mg/L ou pic > 0,5 g/dL)",
+  "Au moins une ligne par anti-CD38 et inhibiteur du protéasome, sans VGPR ni RC à l'inclusion",
+  "Atteinte d'organe symptomatique (coeur, rein, foie ou tube digestif, nerf périphérique)",
+  "Toxicités antérieures non hématologiques de grade ≤ 2",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "CAR-T antérieur ou traitement ciblant BCMA",
+  "AVC ou crise convulsive dans les 6 mois",
+  "Plus de 30 % de plasmocytes médullaires avec myélome symptomatique",
+  "Insuffisance cardiaque NYHA III ou IV, FEVG < 35 %, stade IIIb (NT-proBNP > 8500 ng/L et troponine élevée)",
+  "Traitement de l'amylose AL dans les 14 jours précédant la leucaphérèse, corticoïdes à dose thérapeutique",
+  "ASAT ou ALAT > 3 N, clairance de la créatinine < 20 mL/min, cytopénies",
+  "Infection active, VIH ou hépatite B ou C non contrôlés, autre cancer actif"
+ ],
+ "bras": [
+  {
+   "nom": "NXC-201 CAR-T",
+   "traitement": "Après lymphodéplétion, perfusion unique de 150 millions (cohorte 1) ou 450 millions (cohorte 2) de cellules CAR+, puis phase d'expansion"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Nombre de participants avec événements indésirables liés au traitement, de toute sévérité (CTCAE v5.0), dose maximale tolérée et dose recommandée de phase 2, sur 24 mois."
+}

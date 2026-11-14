@@ -1,0 +1,35 @@
+{
+ "h": "9d1238265303",
+ "date": "2026-11-14",
+ "titre": "Daratumumab (anti-CD38) chez l'enfant et l'adolescent atteints de PTI primaire",
+ "question": "Le daratumumab est-il efficace et bien toléré chez des enfants de 6 à 18 ans atteints de PTI après échec des corticoïdes ?",
+ "contexte": "Le PTI de l'enfant guérit souvent spontanément, mais une partie des formes persistantes ou chroniques résiste aux traitements de première ligne (corticoïdes, immunoglobulines) et aux options de deuxième ligne (agonistes du récepteur de la TPO, rituximab, immunosuppresseurs).\n\nLes plasmocytes à longue durée de vie, producteurs d'auto-anticorps, échappent aux anti-CD20 et pourraient expliquer les résistances. Le daratumumab, anticorps anti-CD38 utilisé dans le myélome, cible ces plasmocytes. Les investigateurs rapportent de bons résultats avec des anti-CD38 chez des patients ayant un PTI réfractaire. Cette phase 2 monobras, promue par l'Institut d'hématologie et hôpital des maladies du sang (Chine), évalue le daratumumab chez 30 enfants et adolescents, à raison d'une injection par semaine pendant 4 semaines.",
+ "interet": "Elle explorera un traitement ciblant les plasmocytes en pédiatrie, où les options sont limitées. Le petit effectif sans comparateur ne permettra qu'un premier signal d'efficacité et de tolérance.",
+ "profil": "Des enfants et adolescents de 6 à 18 ans atteints de PTI primaire depuis au moins 3 mois, en échec des corticoïdes.",
+ "inclusion": [
+  "Âge 6 à 18 ans",
+  "PTI primaire diagnostiqué depuis ≥ 3 mois",
+  "Échec des corticoïdes (inefficacité, perte de réponse ou rechute), avec réponse antérieure (plaquettes ≥ 50 G/L)",
+  "Plaquettes moyennes < 30 G/L au dépistage (au moins 2 mesures à ≥ 1 semaine d'intervalle, aucune > 35 G/L)",
+  "ECOG ≤ 2",
+  "Un seul traitement d'entretien stable depuis ≥ 4 semaines autorisé (corticoïdes ≤ 0,5 mg/kg, ago-RTPO)"
+ ],
+ "exclusion": [
+  "Allergie à un anti-CD38 ou échec antérieur d'un anti-CD38",
+  "Thrombopénie secondaire ou anémie hémolytique auto-immune",
+  "Thrombose ou saignement sévère dans les 12 mois",
+  "Traitement de secours du PTI dans les 2 semaines ; rituximab < 6 mois ; splénectomie < 6 mois",
+  "SMD, cancer dans les 5 ans, greffe",
+  "Infections sévères ou récurrentes, immunosuppression, VIH, syphilis, hépatite B ou C active",
+  "IgG < 500 mg/dL, lymphocytes < 500/mm³, PNN < 1 500/mm³, Hb < 9 g/dL",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Daratumumab",
+   "traitement": "Daratumumab injectable, une fois par semaine pendant 4 doses (30 participants)"
+  }
+ ],
+ "duree": "Au moins 8 semaines",
+ "critere": "Efficacité (réponse plaquettaire) du daratumumab dans les 8 semaines."
+}

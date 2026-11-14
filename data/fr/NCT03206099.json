@@ -1,0 +1,14 @@
+{
+ "h": "0f83176300e6",
+ "date": "2026-11-14",
+ "titre": "Protocole centralisé de séquençage génétique du NIAID (déficits immunitaires, auto-immunité)",
+ "question": "Quels défauts génétiques nouveaux ou connus expliquent les maladies immunitaires (déficits immunitaires, auto-immunité, auto-inflammation, atopie) ?",
+ "contexte": "Le séquençage de nouvelle génération a augmenté les taux de diagnostic moléculaire de certains patients du NIAID et révélé des voies fondamentales de la défense de l'hôte et de la régulation immunitaire. L'analyse et l'interprétation des données génomiques restent toutefois un défi, car les conséquences fonctionnelles et cliniques de la plupart des variants sont inconnues.\n\nCe protocole du NIAID (NIH) sert de cadre unique au test génétique pour les participants d'autres protocoles du NIH. Il organise le phénotypage standardisé, la prescription des tests, la collecte et l'extraction des échantillons, l'analyse bio-informatique, l'interprétation clinique, le rendu des résultats et le conseil génétique. Les patients (probands) doivent être inclus dans un protocole principal ; leurs apparentés biologiques et des volontaires sains peuvent aussi participer. Les données génomiques anonymisées sont partagées, par exemple dans dbGaP.",
+ "interet": "L'étude pourrait faire découvrir de nouveaux gènes et phénotypes de maladies immunitaires et améliorer les diagnostics génétiques pour des patients souvent restés sans diagnostic.",
+ "profil": "Des participants de tout âge d'autres protocoles du NIH, leurs apparentés et des témoins sains.",
+ "inclusion": ["Proband co-inclus dans un autre protocole du NIH, ou référé par des protocoles de maladie pulmonaire suppurative", "Ou apparenté biologique d'un proband", "Âge de 0 à 99 ans", "Accord pour le test génétique et la conservation des échantillons", "Accord pour le partage de données génomiques anonymisées", "Pour les questionnaires : maîtrise de l'anglais et capacité de consentir"],
+ "exclusion": ["Toute condition jugée par l'investigateur incompatible avec la participation"],
+ "bras": [{"nom": "Probands", "traitement": "Patients avec une maladie étudiée dans un autre protocole du NIAID : séquençage génétique"}, {"nom": "Apparentés biologiques", "traitement": "Séquençage génétique, avec ou sans inclusion dans le protocole du proband"}, {"nom": "Volontaires sains", "traitement": "Témoins internes sélectionnés"}],
+ "duree": "Non précisé",
+ "critere": "Identification de nouveaux défauts génétiques et de nouveaux phénotypes de maladies immunitaires, et identification de maladies génétiques immunitaires établies, lors de l'analyse des données génomiques"
+}

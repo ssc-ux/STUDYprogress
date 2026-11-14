@@ -1,0 +1,29 @@
+{
+ "h": "d4ec93cf0243",
+ "date": "2026-11-14",
+ "titre": "Cotrimoxazole et microbiome nasal dans la granulomatose avec polyangéite",
+ "question": "Le cotrimoxazole modifie-t-il le microbiome nasal, le mycobiome et l'immunité locale chez des patients atteints de GPA en rémission ?",
+ "contexte": "La granulomatose avec polyangéite (GPA, ex-Wegener) est une vascularite des petits vaisseaux avec inflammation granulomateuse nécrosante. L'atteinte des voies aériennes supérieures concerne jusqu'à 90 % des patients, révèle souvent la maladie et expose à un risque accru de rechute locale et systémique.\n\nDes données anciennes, fondées sur des cultures, montrent que les patients atteints de GPA sont plus souvent porteurs chroniques nasaux de Staphylococcus aureus que les patients atteints de rhinosinusite chronique non GPA ou les témoins sains, et que ce portage est associé à un risque de rechute plus élevé. Un essai randomisé contre placebo a montré que le cotrimoxazole (triméthoprime-sulfaméthoxazole) réduit les rechutes de GPA.\n\nOn ignore si ce bénéfice tient à l'effet antimicrobien ou à un effet anti-inflammatoire. Cette étude de phase 1/2 de l'Université de Pennsylvanie (Penn Vasculitis Center) évalue de façon prospective les modifications du microbiome nasal, du mycobiome et de l'immunité de l'hôte avant, pendant et après 4 semaines de cotrimoxazole. Elle utilise des écouvillons et brossages nasaux pour séquençage, avec prélèvement sanguin optionnel et un suivi de 6 mois. Le recrutement cible était de 30 patients ; 8 sont inclus.",
+ "interet": "L'étude pourrait préciser le mécanisme par lequel le cotrimoxazole prévient les rechutes de GPA, et guider des approches ciblant le microbiote nasal.",
+ "profil": "Des adultes atteints de GPA avec atteinte sinusienne ou nasale passée, en rémission sous traitement immunosuppresseur stable.",
+ "inclusion": [
+  "Âge d'au moins 18 ans",
+  "GPA selon les critères de classification ou le jugement de l'investigateur",
+  "Antécédent d'atteinte sinusienne ou nasale liée à la GPA",
+  "Rémission depuis au moins 3 mois, immunosuppresseurs stables attendus pendant 24 semaines (hors modifications mineures de prednisone)",
+  "Prednisone (ou équivalent) de 10 mg/j au plus à l'inclusion"
+ ],
+ "exclusion": [
+  "Antibiotique ou antifongique oral dans les 6 dernières semaines, y compris prophylaxie de la pneumocystose",
+  "Infection sinusienne ou nasale dans les 4 dernières semaines",
+  "Antibiotique nasal local (dont mupirocine) dans les 4 dernières semaines",
+  "Contre-indication ou effet indésirable antérieur au cotrimoxazole (allergie aux sulfamides, DFG inférieur à 15 mL/min, insuffisance hépatique sévère)",
+  "Risque d'interaction médicamenteuse avec le cotrimoxazole",
+  "Cocaïne intranasale dans les 3 derniers mois, VIH ou déficit immunitaire primitif, grossesse ou projet de grossesse dans les 6 mois"
+ ],
+ "bras": [
+  { "nom": "Sous traitement", "traitement": "Cotrimoxazole (triméthoprime-sulfaméthoxazole) pendant 4 semaines, avec prélèvements nasaux avant, pendant et après" }
+ ],
+ "duree": "6 mois de suivi (24 semaines pour le critère principal)",
+ "critere": "Composition du microbiome nasal en abondance relative et expression génique de l'hôte, à 24 semaines"
+}

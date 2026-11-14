@@ -1,0 +1,33 @@
+{
+ "h": "ad25fb6189cb",
+ "date": "2026-11-14",
+ "titre": "Hétrombopag chez le sujet âgé atteint de PTI primaire",
+ "question": "L'hétrombopag est-il efficace et sûr chez les adultes de 60 ans et plus atteints de PTI ?",
+ "contexte": "Le PTI de la personne âgée est fréquent et plus à risque de saignements graves, avec une tolérance moindre aux corticoïdes et aux immunosuppresseurs. Les agonistes du récepteur de la thrombopoïétine (ago-RTPO) sont un traitement de deuxième ligne bien établi en stimulant la production plaquettaire.\n\nL'hétrombopag est un ago-RTPO oral développé en Chine. Cette phase 2 monobras, promue par l'Institut d'hématologie et hôpital des maladies du sang (Chine), évalue l'hétrombopag chez 80 patients de 60 ans et plus, atteints de PTI récent, persistant ou chronique. Selon le protocole, l'hétrombopag est pris une fois par jour à jeun pendant 24 semaines, avec adaptation selon les plaquettes. Les patients sans réponse à 8 semaines sont invités à arrêter l'étude.",
+ "interet": "Elle fournira des données spécifiques sur la population âgée, peu représentée dans les essais d'ago-RTPO. L'absence de comparateur limite l'interprétation.",
+ "profil": "Des adultes de 60 ans et plus atteints de PTI avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge ≥ 60 ans, consentement signé",
+  "ECOG ≤ 2, survie attendue ≥ 6 mois",
+  "PTI confirmé (récent, persistant ou chronique)",
+  "Plaquettes < 30 G/L à deux reprises à ≥ 1 jour d'intervalle",
+  "ALAT/ASAT ≤ 3 N, bilirubine ≤ 1,5 N, créatinine ≤ 1,5 N"
+ ],
+ "exclusion": [
+  "Échec antérieur de l'hétrombopag ou allergie aux ago-RTPO",
+  "Thrombopénie secondaire (maladie auto-immune, hépatopathie, hémopathie, aplasie, SMD, médicament, etc.)",
+  "Ago-RTPO dans les 2 semaines, AINS ou anticoagulants pendant le traitement",
+  "Saignement actif sévère, thrombose dans les 6 mois, insuffisance cardiaque NYHA 3-4",
+  "VIH, syphilis, hépatite B ou C, cirrhose",
+  "Myélofibrose grade ≥ 2 ; cancer ; infection active non contrôlée",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Hétrombopag",
+   "traitement": "Hétrombopag oral 5 mg une fois par jour à jeun, adapté aux plaquettes, jusqu'à 24 semaines"
+  }
+ ],
+ "duree": "24 semaines de traitement, plus 4 semaines de suivi",
+ "critere": "Proportion de patients avec plaquettes ≥ 30 G/L à 8 semaines."
+}

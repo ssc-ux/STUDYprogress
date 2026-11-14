@@ -1,0 +1,25 @@
+{
+ "h": "e3d65820b010",
+ "date": "2026-11-14",
+ "titre": "Dépistage des maladies génétiques de l'homéostasie lymphocytaire et de la mort cellulaire programmée (NIAID)",
+ "question": "Quelles sont les causes génétiques et biochimiques des maladies héréditaires de l'homéostasie des lymphocytes et de la mort cellulaire programmée ?",
+ "contexte": "Dans un système immunitaire normal, la prolifération des lymphocytes est équilibrée par leur mort cellulaire programmée. Une anomalie de cet équilibre peut provoquer des adénopathies ou une splénomégalie persistantes, des maladies auto-immunes, un déficit immunitaire ou un lymphome.\n\nCe protocole de dépistage du NIAID (États-Unis), conduit sur 9 sites dans 3 pays, inclut des patients ayant ou suspectés d'avoir un syndrome héréditaire de l'homéostasie lymphocytaire, de susceptibilité à la mort cellulaire programmée, un blocage du développement lymphocytaire ou un défaut de fonction effectrice. Les dossiers médicaux sont revus et du sang est prélevé pour identifier les gènes en cause. Les apparentés sont étudiés, car ils peuvent avoir une forme très atténuée. Il prévoit jusqu'à 5000 participants sur 20 ans, avec orientation éventuelle vers d'autres protocoles du NIH. Il est observationnel.",
+ "interet": "L'étude peut identifier de nouveaux gènes et mécanismes de maladies immunitaires rares et guider l'orientation des patients vers des essais. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients de tout âge (dès 1 mois et 3 kg) ayant ou suspectés d'avoir un déficit immunitaire héréditaire touchant l'homéostasie lymphocytaire, et leurs apparentés.",
+ "inclusion": [
+  "Syndrome connu ou suspecté d'homéostasie lymphocytaire anormale ou de susceptibilité à la mort cellulaire programmée",
+  "Ou blocage du développement lymphocytaire, ou défaut de fonction effectrice immunitaire",
+  "Suspicion jugée forte par l'investigateur",
+  "Apparentés biologiques de patients inclus",
+  "Aucune limite d'âge, de sexe, d'origine ou de handicap"
+ ],
+ "exclusion": [
+  "État de santé très altéré ou mauvais accès veineux empêchant d'obtenir des échantillons suffisants",
+  "Poids inférieur à 3 kg chez le nourrisson (volume de prélèvement limite)"
+ ],
+ "bras": [
+  {"nom": "Patients adressés par un médecin", "traitement": "Patients (et apparentés) avec suspicion de déficit immunitaire héréditaire : revue des dossiers, prélèvements sanguins et tissulaires pour analyses génétiques"}
+ ],
+ "duree": "Non précisé (prélèvements au moins une fois par an chez certains patients)",
+ "critere": "Identification du ou des traits de susceptibilité sous-jacents et de leur mécanisme (échéance 2030)"
+}

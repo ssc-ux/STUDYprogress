@@ -1,0 +1,14 @@
+{
+ "h": "054210f22456",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T BPX-501 (interrupteur CaspaCIDe) après greffe haplo-identique déplétée en TCR αβ chez l'enfant",
+ "question": "Des lymphocytes T de donneur modifiés (BPX-501), perfusés après une greffe déplétée en TCR αβ, sont-ils sûrs et accélèrent-ils la reconstitution immunitaire ?",
+ "contexte": "L'allogreffe haplo-identique est une option pour les enfants atteints d'hémopathie maligne ou de maladie non maligne curable par greffe lorsqu'aucun donneur HLA-identique n'est disponible. La déplétion du greffon en lymphocytes T TCR αβ réduit le risque de GVHD, mais retarde la reconstitution immunitaire et expose aux infections et aux rechutes.\n\nCet essai de phase 1/2, promu par Bellicum Pharmaceuticals, teste l'ajout de lymphocytes T du donneur (BPX-501) génétiquement modifiés pour porter un gène « interrupteur » (CaspaCIDe). En cas de GVHD insuffisamment contrôlée par les traitements habituels, l'administration d'un médicament dimérisant (rimiducid, AP1903) active l'interrupteur et détruit ces cellules. L'étude évalue la sécurité, la faisabilité et la reconstitution immunitaire, avec un potentiel de réduction de la sévérité et de la durée de la GVHD aiguë sévère. Les patients ont moins de 26 ans et un donneur apparenté partiellement compatible.",
+ "interet": "L'étude pourrait montrer qu'une thérapie cellulaire à interrupteur de sécurité améliore la reconstitution immunitaire après greffe haplo-identique chez l'enfant, tout en laissant une possibilité de contrôler la GVHD.",
+ "profil": "Des enfants et jeunes adultes (1 mois à 26 ans) avec une hémopathie maligne ou une maladie non maligne justifiant une allogreffe.",
+ "inclusion": ["Âge > 1 mois et < 26 ans, espérance de vie > 10 semaines", "Hémopathie maligne à haut risque (LAL, LAM, SMD, LNH en rémission) ou maladie non maligne curable par greffe (DIP, aplasie sévère, ostéopétrose, hémoglobinopathie, cytopénie héréditaire)", "Pas de donneur conventionnel adapté, ou maladie rapidement évolutive", "Donneur apparenté partiellement compatible (au moins 5/10)", "Lansky ou Karnofsky > 50", "Consentement écrit"],
+ "exclusion": ["GVHD aiguë > grade II ou chronique étendue d'une greffe précédente, ou immunosuppresseur pour GVHD en cours", "Insuffisance hépatique (ALT/AST > 5 N, bilirubine > 3 N) ou rénale (clairance < 30 mL/min)", "Maladie cardiovasculaire sévère (FEVG < 40 %)", "Infection active, dont VIH", "Maladie intercurrente grave non contrôlée, grossesse ou allaitement", "Plus de 1 x 10^5 lymphocytes T αβ/kg dans le greffon : accord préalable du promoteur"],
+ "bras": [{"nom": "BPX-501 et rimiducid", "traitement": "Greffon déplété en TCR αβ puis ajout de lymphocytes T BPX-501 ; rimiducid en cas de GVHD insuffisamment contrôlée par les corticoïdes"}],
+ "duree": "24 mois",
+ "critere": "Événements indésirables à 24 mois ; mortalité liée à la greffe ou non liée à la rechute à J180 et 12 mois"
+}

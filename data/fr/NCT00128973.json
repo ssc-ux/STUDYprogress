@@ -1,0 +1,30 @@
+{
+ "h": "49b11cd53841",
+ "date": "2026-11-14",
+ "titre": "Bilan initial et suivi de patients ayant une anomalie de la fonction immunitaire (NIAID)",
+ "question": "Quels sont l'étendue, la cause et l'évolution des anomalies de la fonction immunitaire responsables d'infections récidivantes ou d'inflammation chronique ?",
+ "contexte": "Les anomalies de la fonction immunitaire se manifestent par des infections récidivantes ou inhabituelles, une inflammation chronique ou des anomalies biologiques. Elles peuvent être héréditaires (déficit immunitaire combiné sévère lié à l'X, granulomatose septique chronique, déficit d'adhésion leucocytaire) ou acquises, par exemple après greffe de cellules souches hématopoïétiques (réaction du greffon contre l'hôte chronique).\n\nCe protocole du NIAID (États-Unis) sert de porte d'entrée : il réalise un bilan initial, recueille des échantillons de recherche et suit les patients jusqu'à un an, voire plus longtemps. Il peut orienter vers d'autres protocoles de recherche. Des apparentés et des volontaires sains servent de comparaison, et des cellules peuvent servir à étudier les cellules souches pluripotentes induites pour la correction génique. Le protocole ne dépiste pas le VIH. Il est observationnel.",
+ "interet": "L'étude permet de découvrir de nouvelles causes d'anomalies immunitaires, de préciser leur épidémiologie et de déterminer l'éligibilité à d'autres essais. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients de tout âge ayant une anomalie de la fonction immunitaire, leurs apparentés et des volontaires sains adultes.",
+ "inclusion": [
+  "Anomalie de la fonction immunitaire : infections récidivantes ou inhabituelles, inflammation chronique ou preuve biologique antérieure",
+  "Âge ≥ 2 ans pour les consultations au Clinical Center, sans infection active ; envoi d'échantillons possible à tout âge",
+  "Médecin référent extérieur au NIH",
+  "Apparentés biologiques (parents, fratrie, enfants, grands-parents, oncles, tantes, cousins germains)",
+  "Volontaires sains de 18 à 85 ans, hémoglobine ≥ 11, poids > 110 livres"
+ ],
+ "exclusion": [
+  "Anomalie immunitaire acquise uniquement due au VIH, à la chimiothérapie ou à un cancer, si elle gêne l'évaluation",
+  "Femmes enceintes : pas de procédure dangereuse pour la grossesse",
+  "Volontaires sains : VIH, hépatite B ou C, ou antécédent d'hépatite depuis l'âge de 11 ans",
+  "Volontaires sains : chimiothérapie, cancer, maladie cardiaque, pulmonaire, rénale ou trouble de l'hémostase",
+  "Volontaires sains : usage de drogue intraveineuse ou exposition à risque au VIH"
+ ],
+ "bras": [
+  {"nom": "Patients", "traitement": "Patients avec anomalie de la fonction immunitaire : bilan clinique, biologique et génétique, suivi à 6 mois et 1 an"},
+  {"nom": "Apparentés de patients", "traitement": "Membres de la famille : histoire médicale, examen, prélèvements sanguins et urinaires"},
+  {"nom": "Volontaires sains", "traitement": "Adultes de 18 à 85 ans : examen et prélèvements comme témoins"}
+ ],
+ "duree": "Jusqu'à 1 an de bilan initial, puis suivi au long cours",
+ "critere": "Rythme et profil d'évolution de la maladie (infections, lésions inflammatoires, anomalies immunitaires) pendant jusqu'à 1 an de bilan initial ; étendue des atteintes d'organe ; bases génétiques et biochimiques"
+}

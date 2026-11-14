@@ -1,0 +1,32 @@
+{
+ "h": "eea73f6ae11b",
+ "date": "2026-11-14",
+ "titre": "Avatrombopag dans le PTI avec auto-anticorps après échec de l'eltrombopag ou de l'herombopag",
+ "question": "L'avatrombopag est-il efficace et bien toléré chez des adultes ayant un PTI avec auto-anticorps, en échec ou intolérants à l'eltrombopag ou à l'herombopag ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où la destruction plaquettaire et la production insuffisante entraînent une thrombopénie. Les agonistes du récepteur de la thrombopoïétine (eltrombopag, romiplostim, avatrombopag, herombopag) sont utilisés après échec des corticoïdes. Une partie des patients ne répond pas ou ne tolère pas l'un d'entre eux.\n\nLa population ciblée a un PTI associé à des auto-anticorps : PTI secondaire à une connectivite (lupus, syndrome de Sjögren, polyarthrite rhumatoïde), PTI primaire avec anticorps antinucléaires ou test de Coombs positif, syndrome d'Evans. Ces PTI sont souvent plus difficiles à traiter. L'avatrombopag est un agoniste oral du récepteur de la TPO qui ne nécessite pas de contrainte alimentaire particulière.\n\nCette phase 2 chinoise, monocentrique, ouverte et à bras unique, promue par l'Institute of Hematology & Blood Diseases Hospital, inclut 52 adultes avec plaquettes < 30 G/L. Le critère principal est la réponse plaquettaire jusqu'à la semaine 12.",
+ "interet": "L'étude pourrait montrer si l'avatrombopag constitue une alternative après échec d'un autre agoniste de la TPO dans les PTI avec auto-anticorps. Elle est non comparative.",
+ "profil": "Des adultes ayant un PTI avec auto-anticorps, en échec ou intolérants à l'eltrombopag ou à l'herombopag.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "PTI secondaire à une connectivite, PTI primaire avec ANA ou Coombs positif, ou syndrome d'Evans",
+  "Plaquettes < 30 G/L au dépistage",
+  "Échec, intolérance ou refus de l'eltrombopag ou de l'herombopag",
+  "Autres traitements du PTI terminés ou à dose stable ou en diminution dans les 2 semaines",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Maladie thyroïdienne active nécessitant un traitement",
+  "Thrombose dans les 3 mois avec facteur de risque, ou anticoagulant ou antiagrégant",
+  "Rituximab dans les 3 mois, splénectomie récente ou prévue",
+  "Échec antérieur de l'avatrombopag, allergie à ce médicament",
+  "Néphropathie ou atteinte neurologique lupique, cataracte",
+  "Infection active, hépatite B ou C en réplication, VIH",
+  "Atteinte hépatique (ALAT/ASAT > 3 N), cardiaque, pulmonaire ou rénale sévère",
+  "Grossesse ou allaitement, antécédent psychiatrique, abus de substances"
+ ],
+ "bras": [
+  { "nom": "Groupe traité", "traitement": "Avatrombopag à la dose indiquée, 52 patients" }
+ ],
+ "duree": "12 semaines pour le critère principal",
+ "critere": "Réponse plaquettaire du jour 1 à la semaine 12"
+}

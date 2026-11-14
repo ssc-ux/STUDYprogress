@@ -1,0 +1,26 @@
+{
+ "h": "26b00709606c",
+ "date": "2026-11-14",
+ "titre": "Registre taïwanais des scintigraphies cardiaques au pyrophosphate pour amylose à TTR",
+ "question": "Comment les résultats de la scintigraphie cardiaque au 99mTc-pyrophosphate sont-ils liés aux caractéristiques cliniques et à la mortalité à un an dans l'amylose à TTR ?",
+ "contexte": "Environ 95 % des amyloses cardiaques sont dues aux chaînes légères (AL) ou à la transthyrétine (ATTR), héréditaire ou sauvage. À Taïwan, la mutation la plus fréquente est A97S, avec hypertrophie ventriculaire gauche chez 80 % des porteurs. Un diagnostic précoce et une prise en charge adaptée conditionnent le pronostic.\n\nLes traceurs osseux (99mTc-PYP, DPD, HMDP) détectent l'amylose cardiaque, probablement via la microcalcification. Un score visuel de 2 ou 3 oriente vers une ATTR, alors que l'AL se situe plutôt aux grades 0 à 2. Cette scintigraphie pourrait remplacer la biopsie myocardique, mais les données à grande échelle et standardisées manquent. Ce registre multicentrique recueille, de façon rétrospective et prospective, les scintigraphies de patients suspects d'ATTR, avec un suivi d'au moins un an. Les images sont cotées visuellement et par rapport cœur/controlatéral, les tests génétiques et les dosages de chaînes légères étant complétés si la fixation est de grade 2 ou 3.",
+ "interet": "Il fournira des données de standardisation et de pronostic sur la scintigraphie au pyrophosphate dans la population asiatique.",
+ "profil": "Des adultes avec ATTR documentée ou suspectée, adressés pour une scintigraphie cardiaque au pyrophosphate à Taïwan.",
+ "inclusion": [
+  "Âge ≥ 20 ans",
+  "Diagnostic ou suspicion d'amylose ATTR documentée"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Maladie systémique grave (cirrhose, cancer actif) avec espérance de vie < 6 mois",
+  "Refus du suivi clinique"
+ ],
+ "bras": [
+  {
+   "nom": "Patients suspects ou atteints d'ATTR",
+   "traitement": "Scintigraphie cardiaque au 99mTc-PYP et suivi d'au moins un an"
+  }
+ ],
+ "duree": "Au moins 1 an de suivi",
+ "critere": "Décès, sur 1 an."
+}

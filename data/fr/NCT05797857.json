@@ -1,0 +1,33 @@
+{
+ "h": "172a301c6e04",
+ "date": "2026-11-14",
+ "titre": "Entraînement physique dans l'amylose cardiaque à transthyrétine",
+ "question": "Un programme d'entraînement personnalisé améliore-t-il la consommation maximale d'oxygène des patients atteints d'amylose cardiaque à TTR sous traitement optimal ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est responsable d'environ 10 % des insuffisances cardiaques du sujet âgé, avec une morbi-mortalité importante. Le tafamidis, seul stabilisateur approuvé, ralentit la progression, prolonge la survie et réduit les hospitalisations. Il n'améliore pas la capacité fonctionnelle, et aucune intervention n'a montré cet effet.\n\nL'intolérance à l'effort est classiquement attribuée à la dysfonction cardiaque, mais le rôle d'autres systèmes, notamment musculosquelettique, est peu étudié. L'atteinte musculosquelettique apparaît souvent 5 à 10 ans avant l'insuffisance cardiaque. Cette étude du Brigham and Women's Hospital propose un programme d'entraînement personnalisé de 12 semaines à des patients sous tafamidis. Elle compare aussi, dans un premier volet, des patients ATTR-CM à des témoins sans amylose. Le critère principal est le pic de VO2.",
+ "interet": "Si l'entraînement améliore la capacité fonctionnelle, il pourrait compléter le traitement spécifique pour améliorer la qualité de vie des patients.",
+ "profil": "Des adultes de 60 à 90 ans avec une amylose cardiaque à TTR traitée par tafamidis, avec capacité aérobie réduite.",
+ "inclusion": [
+  "ATTR-CM confirmée par biopsie endomyocardique ou scintigraphie au pyrophosphate de grade 2 ou 3 (sauf témoins sans amylose du volet 1)",
+  "Insuffisance cardiaque avec diurétiques passés ou actuels et NT-proBNP ≥ 450 pg/mL",
+  "Pic de VO2 < 80 % de la valeur prédite et traitement par tafamidis (volet 2)",
+  "Capacité à marcher 4 mètres, autonomie pour les gestes de base",
+  "Stabilité clinique et consentement signé"
+ ],
+ "exclusion": [
+  "Infarctus du myocarde aigu, coronaropathie obstructive > 70 %, sténose aortique sévère",
+  "Entraînement structuré en cours ou exercice modéré à intense régulier (> 30 min par jour, ≥ 2 fois par semaine)",
+  "Assistance ventriculaire, greffe d'organe, DFG < 20 mL/min/1,73 m²",
+  "Amylose AL ou autre amylose non ATTR, neuropathie à TTR",
+  "Espérance de vie < 1 an hors insuffisance cardiaque",
+  "Stimulateur ou défibrillateur ne pouvant être reprogrammé pour l'effort, épreuve d'effort anormale",
+  "Démence, risque de non-observance ou autre handicap empêchant l'intervention"
+ ],
+ "bras": [
+  {
+   "nom": "Entraînement physique",
+   "traitement": "Programme d'exercice personnalisé de 12 semaines"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation du pic de consommation d'oxygène (VO2) à 12 semaines."
+}

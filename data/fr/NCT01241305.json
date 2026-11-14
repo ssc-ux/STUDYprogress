@@ -1,0 +1,27 @@
+{
+ "h": "f28a60251b3b",
+ "date": "2026-11-14",
+ "titre": "Dépôt génétique en prélèvement unique pour les vascularites (VCRC)",
+ "question": "Quels gènes augmentent le risque de développer une vascularite (GPA, PAM, GEPA, PAN, ACG, Takayasu) ?",
+ "contexte": "Les vascularites systémiques sont des maladies inflammatoires des vaisseaux, parfois multi-organes, source de morbidité et de mortalité importantes. Chaque type est rare, mais l'ensemble touche des dizaines de milliers de patients. Les phénotypes, évolutions et réponses thérapeutiques varient, ce qui suggère des mécanismes distincts.\n\nLa plupart des études génétiques publiées reposent sur des cohortes de taille modeste, adaptées à quelques gènes candidats, et leurs résultats répliqués sont concentrés sur la région HLA. Le Vasculitis Clinical Research Consortium (VCRC) propose une collecte unique de données cliniques et d'ADN pour augmenter les effectifs. Cette approche est particulièrement utile pour les formes rares (Takayasu, PAN, GEPA) et pour l'ACG, où les patients âgés refusent souvent les études longitudinales en raison des déplacements. L'étude est observationnelle.",
+ "interet": "Une collection d'ADN plus grande peut permettre des études d'association génétique mieux puissantes dans six vascularites. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients de 7 ans et plus ayant une des six vascularites étudiées, non inclus dans les études longitudinales du VCRC.",
+ "inclusion": [
+  "Artérite à cellules géantes : début après 50 ans, avec critères cliniques, VS > 40 mm, biopsie ou imagerie compatibles",
+  "Maladie de Takayasu : début avant 50 ans, avec claudication, diminution de pouls, différence tensionnelle > 10 mmHg, souffle ou anomalies angiographiques",
+  "Périartérite noueuse : critères majeurs ou mineurs attribués à la vascularite, ou PAN cutanée prouvée par biopsie",
+  "GPA (au moins 2 critères ACR modifiés) ou PAM (définition de Chapel Hill)",
+  "GEPA : asthme, éosinophilie > 10 %, neuropathie, infiltrats pulmonaires, atteinte sinusienne, biopsie (4 critères sur 6 si pas de vascularite documentée)",
+  "Âge ≥ 7 ans"
+ ],
+ "exclusion": [
+  "Incapacité à donner un consentement éclairé",
+  "Inclusion dans un protocole longitudinal du VCRC (5502 à 5506, 5522, 5523)",
+  "Refus de fournir du sang pour l'ADN"
+ ],
+ "bras": [
+  {"nom": "Patients avec vascularite", "traitement": "Recueil unique de données cliniques et prélèvement sanguin pour ADN, sans intervention thérapeutique"}
+ ],
+ "duree": "Prélèvement unique",
+ "critere": "Évaluation des données cliniques et des échantillons d'ADN associés, sur 1 an"
+}

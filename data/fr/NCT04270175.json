@@ -1,0 +1,31 @@
+{
+ "h": "5e98548d7da1",
+ "date": "2026-11-14",
+ "titre": "Daratumumab, pomalidomide et dexaméthasone dans l'amylose AL en rechute après daratumumab",
+ "question": "L'association daratumumab, pomalidomide et dexaméthasone permet-elle d'obtenir davantage de réponses hématologiques complètes chez des patients atteints d'amylose AL en rechute ou réfractaire, déjà exposés au daratumumab ?",
+ "contexte": "L'amylose AL est due à un clone plasmocytaire produisant des chaînes légères qui se déposent dans les organes. Le traitement vise à obtenir une réponse hématologique profonde, qui conditionne la récupération des organes. Le daratumumab, anticorps anti-CD38, est désormais utilisé en première ligne (avec cyclophosphamide, bortézomib et dexaméthasone), si bien que de plus en plus de patients rechutent après exposition au daratumumab.\n\nPour les rechutes, la pomalidomide associée à la dexaméthasone est une option établie, avec des taux de réponse hématologique modérés. Le rationnel est qu'ajouter le daratumumab à cette base pourrait approfondir les réponses, la pomalidomide pouvant aussi restaurer l'activité immunitaire contre le clone.\n\nCet essai de phase 2 monocentrique, mené par le Weill Cornell Medical College avec le soutien de Janssen, teste l'hypothèse que l'association daratumumab sous-cutané, pomalidomide (4 mg, jours 1-21 d'un cycle de 28 jours) et dexaméthasone donne plus de rémissions complètes que la pomalidomide-dexaméthasone historique. Il inclut des patients déjà exposés au daratumumab. 15 patients sont inclus.",
+ "interet": "L'étude pourrait préciser si une reprise du daratumumab avec la pomalidomide reste active après une exposition antérieure, ce qui est une question fréquente en pratique dans l'amylose AL récidivante.",
+ "profil": "Des adultes atteints d'amylose AL en rechute ou réfractaire, déjà traités par daratumumab.",
+ "inclusion": [
+  "Amylose AL primitive prouvée sur tissu, en rechute ou réfractaire",
+  "Exposition antérieure au daratumumab (IV ou sous-cutané)",
+  "Pomalidomide antérieure permise si réponse au moins partielle et pas de progression dans les 60 jours après la dernière dose",
+  "Maladie mesurable, ECOG de 0 à 2",
+  "Polynucléaires neutrophiles d'au moins 1 000/mm³ et plaquettes d'au moins 75 000/mm³",
+  "Bilirubine d'au plus 1,5 N, ALAT et ASAT d'au plus 3 N, DFGe d'au moins 20 mL/min/1,73 m²"
+ ],
+ "exclusion": [
+  "Amylose non AL ou myélome clinique",
+  "Exposition antérieure à un anticorps anti-CD38 autre que le daratumumab",
+  "Maladie cardiaque cliniquement significative ou bronchopathie obstructive sévère",
+  "Intensification et autogreffe prévues dans les 6 cycles de traitement",
+  "Infection grave récente, VIH, hépatite B ou C, autre cancer dans les 2 ans",
+  "Inducteurs puissants du CYP3A, millepertuis ou Ginkgo biloba",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Daratumumab, pomalidomide, dexaméthasone", "traitement": "Daratumumab sous-cutané, pomalidomide 4 mg par voie orale aux jours 1 à 21 de cycles de 28 jours, dexaméthasone IV et orale (20 à 40 mg selon les jours et les cycles)" }
+ ],
+ "duree": "Suivi jusqu'à 1 an",
+ "critere": "Pourcentage de participants en réponse hématologique complète, jusqu'à 1 an"
+}

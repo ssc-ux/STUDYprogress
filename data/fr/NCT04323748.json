@@ -1,0 +1,29 @@
+{
+ "h": "db254151ab51",
+ "date": "2026-11-14",
+ "titre": "Rituximab à doses rapprochées dans le PTI aigu de l'enfant et du jeune adulte à haut risque",
+ "question": "Un schéma rapproché de rituximab est-il sûr et réduit-il les rechutes chez des patients ayant un PTI nouvellement diagnostiqué à haut risque de chronicisation ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une thrombopénie auto-immune. Chez l'enfant, il guérit spontanément dans une majorité de cas, mais une fraction évolue vers une forme persistante ou chronique. Certains éléments au diagnostic sont associés à un risque plus élevé de chronicisation : âge de 10 ans ou plus, saignement de grade II-IV, anticorps antinucléaires (AAN) positifs, absence d'infection dans les 2 semaines précédentes.\n\nLes traitements de première ligne (corticoïdes, immunoglobulines IV) augmentent rapidement les plaquettes sans modifier l'évolution de la maladie. Le rituximab, anticorps anti-CD20, est utilisé en seconde ligne et permet des réponses durables chez une partie des patients, mais son rôle plus précoce reste exploratoire.\n\nCet essai de phase 1 du New York Medical College évalue un schéma de rituximab à doses rapprochées (375 mg/m² aux jours 0, 2, 7, 14 et 21), administré d'emblée chez des enfants, adolescents et jeunes adultes de 1 à 21 ans avec PTI aigu à haut risque et moins de 20 G/L de plaquettes. Les critères principaux sont la sécurité (événements indésirables de grade 3 ou plus) et le taux de réponse à 1 an. Des études corrélatives et une mesure de la qualité de vie complètent l'analyse.",
+ "interet": "Si ce schéma précoce est sûr et réduit les rechutes, il pourrait ouvrir la voie à une stratégie modifiant l'évolution du PTI chez les patients à haut risque de chronicisation, avant confirmation par un essai randomisé.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 1 à 21 ans avec PTI nouvellement diagnostiqué, plaquettes de 20 G/L ou moins et facteur de haut risque.",
+ "inclusion": [
+  "Âge de 1 à 21 ans",
+  "PTI nouvellement diagnostiqué, plaquettes de 20 G/L ou moins, myélogramme et biopsie excluant une infiltration maligne",
+  "Au moins un critère de haut risque : âge de 10 ans ou plus, saignement de grade II-IV, AAN positifs, pas d'infection dans les 2 semaines avant le diagnostic",
+  "Karnofsky ou Lansky d'au moins 50 %",
+  "Aucun traitement antérieur du PTI, pas de corticoïdes systémiques à 0,5 mg/kg ou plus dans les 2 semaines précédant le diagnostic",
+  "Fonctions rénale et hépatique adéquates"
+ ],
+ "exclusion": [
+  "Réaction allergique de grade III-IV antérieure au rituximab",
+  "Infiltration médullaire néoplasique",
+  "Antécédent d'infection par le virus de l'hépatite B",
+  "Grossesse, allaitement, ou femme en âge de procréer sans test de grossesse négatif",
+  "Agoniste du récepteur de la thrombopoïétine (éltrombopag, romiplostim) : retrait du protocole"
+ ],
+ "bras": [
+  { "nom": "Rituximab", "traitement": "Rituximab 375 mg/m² en 5 doses aux jours 0, 2, 7, 14 et 21" }
+ ],
+ "duree": "1 an",
+ "critere": "Sécurité (nombre de participants avec événement indésirable de grade 3 ou plus lié au traitement, CTCAE v5.0) et taux de réponse plaquettaire, à 1 an"
+}

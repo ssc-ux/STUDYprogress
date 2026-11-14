@@ -1,0 +1,32 @@
+{
+ "h": "9328a6400e97",
+ "date": "2026-11-14",
+ "titre": "Étude pilote pragmatique des traitements de la polychondrite chronique atrophiante",
+ "question": "Quelle efficacité ont les traitements standards (méthotrexate, azathioprine, anti-TNF, tocilizumab) dans la polychondrite chronique atrophiante, et le schéma d'étude est-il faisable ?",
+ "contexte": "La polychondrite chronique atrophiante (PCA) est une maladie inflammatoire rare du cartilage (oreilles, nez, voies respiratoires), pouvant toucher aussi les yeux, les articulations et l'oreille interne. L'atteinte laryngotrachéale peut engager le pronostic. Il n'existe pas d'essai randomisé ayant établi un traitement de référence.\n\nLa pratique repose sur les corticoïdes, avec des traitements d'épargne : méthotrexate, azathioprine, puis biothérapies (anti-TNF, tocilizumab) en cas d'échec. Ces choix s'appuient surtout sur des séries de cas. La rareté de la maladie et l'absence de critères de réponse validés freinent la conception d'essais.\n\nCette étude pilote de phase 2 de l'université de Pennsylvanie est pragmatique, ouverte et non randomisée, en deux étapes. À l'étape 1, les patients naïfs reçoivent du méthotrexate (ou de l'azathioprine en cas de contre-indication). En cas d'échec, rechute ou intolérance, ils passent à l'étape 2 avec un anti-TNF (adalimumab ou infliximab, selon la préférence et la faisabilité) ou un anti-IL-6 (tocilizumab). Tous reçoivent des corticoïdes avec une décroissance standardisée jusqu'à 5 mg/j à la semaine 21. Vingt patients sont prévus. L'étude vise à évaluer la faisabilité d'un futur essai et l'efficacité préliminaire de chaque option.",
+ "interet": "Elle pourrait fournir des données prospectives sur les traitements usuels de la PCA et aider à définir les critères d'un futur essai comparatif. Elle ne tranchera pas entre les traitements, vu l'effectif et l'absence de randomisation.",
+ "profil": "Des adultes atteints de PCA d'activité légère à modérée, nécessitant une augmentation de la prednisone.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PCA selon les critères de McAdam, Damiani ou Michet",
+  "Maladie légèrement à modérément active dans les 60 jours précédents, justifiant 15 à 60 mg/j de prednisone",
+  "Au moins une manifestation active : atteinte auriculaire, nasale, oculaire, articulaire ou des voies aériennes",
+  "Naïf de méthotrexate ou d'azathioprine, ou maladie active sous ces traitements depuis 8 semaines ou moins (étape 1)",
+  "Contraception efficace et consentement écrit"
+ ],
+ "exclusion": [
+  "Forme sévère dans les 14 jours (hospitalisation ou bolus IV de corticoïdes)",
+  "Exposition ≥ 4 semaines à l'adalimumab, l'infliximab ou le tocilizumab, ou > 2 biothérapies ou JAKi",
+  "Infection active, VIH, hépatite C non traitée ou AgHBs positif, tuberculose active ou latente non traitée",
+  "Plaquettes < 80 G/L, neutrophiles < 1,5 G/L, hématocrite < 20 %",
+  "Cancer actuel ou dans les 5 ans",
+  "Autre vascularite (GPA, PAN, Horton, Takayasu), syndrome de Cogan, syndrome VEXAS, chevauchement avec une autre maladie auto-immune",
+  "Vaccin vivant < 4 semaines ou médicament expérimental < 30 jours"
+ ],
+ "bras": [
+  { "nom": "Étape 1 : méthotrexate ou azathioprine", "traitement": "Méthotrexate (azathioprine si contre-indication), avec corticoïdes décroissants jusqu'à 5 mg/j à la semaine 21" },
+  { "nom": "Étape 2 : anti-TNF ou anti-IL-6", "traitement": "Adalimumab ou infliximab (au choix), ou tocilizumab, avec corticoïdes décroissants" }
+ ],
+ "duree": "26 semaines pour le critère principal",
+ "critere": "Efficacité des traitements de l'étude dans la polychondrite chronique atrophiante, évaluée à 26 semaines."
+}

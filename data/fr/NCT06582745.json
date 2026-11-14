@@ -1,0 +1,14 @@
+{
+ "h": "b2d9894f64b2",
+ "date": "2026-11-14",
+ "titre": "Tramétinib dans l'histiocytose à cellules de Langerhans (phase 2)",
+ "question": "Le tramétinib, inhibiteur de MEK, est-il efficace et sûr dans l'histiocytose à cellules de Langerhans nouvellement diagnostiquée ou en rechute ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) est une maladie rare, de 2 à 10 cas par million d'enfants de moins de 15 ans. Elle résulte de la prolifération clonale de cellules dendritiques immatures exprimant CD207 (langérine) et CD1a. Elle peut toucher un seul organe (os, peau) ou être multisystémique, avec un risque élevé en cas d'atteinte du foie, de la rate ou de la moelle.\n\nLa nature exacte de la maladie, néoplasique ou inflammatoire, reste discutée. La mutation BRAF V600E est fréquente, et d'autres altérations activent la voie MAPK, dont MAP2K1. Le traitement classique repose sur la chimiothérapie cytotoxique (vinblastine, prednisone, cytarabine), qui peut avoir des effets indésirables sévères et s'accompagne de rechutes, surtout dans les deux ans. Les inhibiteurs de MEK comme le tramétinib ciblent la voie MAPK activée et ont montré des réponses dans des séries de cas. Cette étude de phase 2 du Cook Children's évalue le tramétinib chez des patients de 1 à 30 ans, avec en parallèle une revue de dossiers de patients traités depuis 2020.",
+ "interet": "L'étude pourrait établir une alternative ciblée à la chimiothérapie dans l'HCL, avec des données de survie sans progression à long terme. Elle documentera aussi les rechutes à l'arrêt du traitement.",
+ "profil": "Des enfants et adultes jeunes de 1 à 30 ans avec HCL confirmée par biopsie, nouvelle ou en rechute.",
+ "inclusion": ["HCL nouvellement diagnostiquée, ou en rechute ou réfractaire, confirmée par biopsie", "Âge de 1 à 30 ans", "Fonction cardiaque correcte (fraction de raccourcissement ≥ 27 % ou FEVG ≥ 50 %, QTc < 480 ms)", "Performance ECOG 0-2 (Karnofsky ou Lansky ≥ 50 %)", "Neutrophiles ≥ 1 500/µL, plaquettes ≥ 100 000/µL, hémoglobine ≥ 8 g/dL", "Contraception pendant l'étude et 4 mois après"],
+ "exclusion": ["Forme à faible risque (peau seule ou lésion osseuse unique) sans traitement nécessaire, sauf site à risque du système nerveux central ou lésion fonctionnellement critique", "Mutation MAP2K1 de classe 3 (délétions listées)", "Ictère au diagnostic", "Grossesse ou allaitement", "Allergie au tramétinib", "Consommation de drogue ou d'alcool gênant le suivi", "Absence de consentement"],
+ "bras": [{"nom": "Traitement prospectif", "traitement": "Tramétinib par voie orale, une fois par jour (maximum 2 mg), cycles de 28 jours pendant 2 ans, suivi de 4 ans"}, {"nom": "Observation seule", "traitement": "Revue de dossiers de patients traités par tramétinib depuis janvier 2020"}],
+ "duree": "2 ans de traitement puis 4 ans de suivi",
+ "critere": "Délai de progression, survie sans progression et survie globale, jusqu'à 6 ans."
+}

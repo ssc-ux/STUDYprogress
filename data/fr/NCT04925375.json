@@ -1,0 +1,31 @@
+{
+ "h": "a6789b399472",
+ "date": "2026-11-14",
+ "titre": "Abatacept dans la pneumopathie interstitielle granulomateuse du déficit immunitaire commun variable",
+ "question": "L'abatacept améliore-t-il l'atteinte pulmonaire interstitielle (GLILD) des patients ayant un déficit immunitaire commun variable (DICV), par rapport au placebo ?",
+ "contexte": "Le déficit immunitaire commun variable est le déficit immunitaire primitif symptomatique le plus fréquent de l'adulte. Au-delà des infections, il s'accompagne de complications inflammatoires et auto-immunes. La pneumopathie interstitielle granulomateuse et lymphocytaire (GLILD) en est une complication pulmonaire grave, associée à une surmortalité.\n\nIl n'existe aucun traitement de référence de la GLILD. Les patients reçoivent des corticoïdes, du rituximab associé à l'azathioprine, ou d'autres immunosuppresseurs, sans validation par des essais contrôlés. L'abatacept est une protéine de fusion CTLA-4-IgG1 qui bloque la costimulation des lymphocytes T. Il a montré des résultats encourageants dans les DICV complexes, notamment ceux liés à un déficit en CTLA-4.\n\nCette phase 2 multicentrique américaine (Children's Hospital Cincinnati, financement FDA) est randomisée et contrôlée par placebo, en double aveugle. Les patients de 50 kg ou plus et les adultes sont randomisés 1:2 vers l'abatacept ou le placebo pendant 6 mois, puis tous reçoivent l'abatacept. Les enfants de moins de 50 kg forment une cohorte ouverte à bras unique. Un traitement prolongé est ensuite proposé jusqu'à 3 ans.",
+ "interet": "L'étude pourrait apporter la première preuve randomisée d'un traitement de la GLILD. Elle pourrait faire de l'abatacept une option pour cette complication sans standard.",
+ "profil": "Des enfants (dès 4 ans) et des adultes ayant un DICV et une GLILD prouvée par biopsie, persistante ou aggravée.",
+ "inclusion": [
+  "DICV selon le consensus international ICON, âge ≥ 4 ans",
+  "Immunoglobulines de substitution depuis au moins 6 mois",
+  "GLILD avec composante lymphocytaire prouvée par biopsie pulmonaire",
+  "Atteinte persistante ou aggravée sur deux scanners espacés d'au moins 6 mois",
+  "Contraception efficace chez les patients en âge de procréer"
+ ],
+ "exclusion": [
+  "Hypersensibilité à l'abatacept",
+  "Anti-CD20, alemtuzumab ou globuline antithymocyte dans les 6 mois",
+  "Abatacept, cyclophosphamide, anti-TNF ou bolus de corticoïdes dans les 3 mois",
+  "Infection par le VIH, hépatite B ou C non traitée, tuberculose active, charge d'EBV persistante ≥ 1000 unités/mL",
+  "Cancer ou traitement d'un cancer dans l'année",
+  "Grossesse ou allaitement, espérance de vie < 1 mois",
+  "Refus de l'auto-injection sous-cutanée à domicile"
+ ],
+ "bras": [
+  { "nom": "Abatacept", "traitement": "Abatacept sous-cutané hebdomadaire : 125 mg chez l'adulte, selon le poids chez l'enfant (50 mg, 87,5 mg ou 125 mg) ; enfants < 50 kg en bras unique ouvert" },
+  { "nom": "Placebo", "traitement": "Placebo hebdomadaire pendant 6 mois (patients ≥ 50 kg), puis abatacept" }
+ ],
+ "duree": "12 mois de traitement, avec option de poursuite jusqu'à 3 ans",
+ "critere": "Évolution de l'atteinte pulmonaire au scanner thoracique haute résolution à 6 mois"
+}

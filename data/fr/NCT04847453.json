@@ -1,0 +1,32 @@
+{
+ "h": "359afdf493b9",
+ "date": "2026-11-14",
+ "titre": "Vénétoclax, ixazomib et dexaméthasone dans l'amylose AL en rechute avec t(11;14)",
+ "question": "Quelle est la dose tolérable de l'association vénétoclax, ixazomib et dexaméthasone chez des patients ayant une amylose AL en rechute ou réfractaire avec translocation t(11;14) ?",
+ "contexte": "L'amylose AL est due à la production par un clone plasmocytaire de chaînes légères d'immunoglobulines qui se déposent dans les organes (cœur, rein, foie, nerfs). Le traitement repose sur des schémas dérivés du myélome, associant bortézomib, cyclophosphamide ou melphalan, dexaméthasone et, aujourd'hui, daratumumab. Les patients en rechute ou réfractaires ont peu d'options, et la toxicité d'organe limite souvent les traitements intensifs.\n\nLa translocation t(11;14) est présente dans environ la moitié des amyloses AL, bien plus souvent que dans le myélome. Elle est associée à une forte expression de BCL-2 par les plasmocytes. Cela explique l'intérêt du vénétoclax, inhibiteur de BCL-2, dont des séries rétrospectives ont montré une activité hématologique élevée dans cette sous-population. L'ixazomib est un inhibiteur du protéasome oral, qui évite les injections du bortézomib.\n\nCette étude de phase 1 promue par le NCI évalue l'association orale vénétoclax, ixazomib et dexaméthasone. Il s'agit d'une escalade de dose chez 24 patients, tous porteurs de t(11;14), ayant reçu au moins une ligne antérieure. Le but est de définir la dose maximale tolérée et la dose recommandée pour une phase 2, avant d'observer les premières réponses hématologiques et d'organe.",
+ "interet": "Si l'association est tolérée et active, elle pourrait offrir un schéma entièrement oral pour les rechutes d'amylose AL avec t(11;14). Elle renforcerait l'intérêt de rechercher systématiquement cette anomalie par FISH.",
+ "profil": "Des adultes ayant une amylose AL en rechute ou réfractaire avec t(11;14), au stade cardiaque I à IIIa.",
+ "inclusion": [
+  "Amylose AL prouvée histologiquement, avec maladie clonale mesurable",
+  "t(11;14) détectée par FISH sur la moelle",
+  "Au moins une ligne de traitement antérieure, nécessité d'un nouveau traitement",
+  "Âge ≥ 18 ans, ECOG ≤ 2",
+  "Stade cardiaque Mayo I, II ou IIIa, FEVG ≥ 35 %",
+  "Fonctions médullaire et hépatique suffisantes, clairance de la créatinine ≥ 15 mL/min",
+  "Charge plasmocytaire ≤ 60 %, sans lésion de myélome"
+ ],
+ "exclusion": [
+  "Stade cardiaque IIIb (NT-proBNP > 8500 pg/mL) ou NYHA III/IV",
+  "Traitement antérieur par ixazomib ou vénétoclax",
+  "Neuropathie périphérique de grade ≥ 3, ou de grade 2 douloureuse",
+  "Atteinte du système nerveux central",
+  "Infection active grave, hépatite B ou C active",
+  "Maladie digestive gênant l'absorption orale, diarrhée de grade ≥ 3",
+  "Inhibiteurs ou inducteurs puissants du CYP3A, grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Traitement (bras unique)", "traitement": "Vénétoclax per os 1 fois par jour (J1-28), ixazomib per os à J1, J8 et J15, dexaméthasone per os à J1, J8, J15 et J22, cycles de 28 jours jusqu'à progression ou toxicité, avec escalade de dose" }
+ ],
+ "duree": "Cycles de 28 jours jusqu'à progression ou toxicité, puis suivi tous les 1 à 3 mois jusqu'à progression ou décès",
+ "critere": "Incidence des événements indésirables (30 jours), dose maximale tolérée et dose recommandée de phase 2 (fin du cycle 1)"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "0dfdb172c03c",
+ "date": "2026-11-14",
+ "titre": "Protéines de la phase aiguë dans le diagnostic du purpura thrombopénique immunologique",
+ "question": "Le dosage de protéines de la phase aiguë (CRP, procalcitonine, ferritine) aide-t-il à diagnostiquer et classer le PTI, aigu ou chronique ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie à médiation par des anticorps : les plaquettes sont détruites principalement dans la rate et le foie après activation des récepteurs Fc des phagocytes. Le diagnostic reste un diagnostic d'exclusion, fondé sur la thrombopénie isolée et l'élimination des autres causes, avec parfois un myélogramme.\n\nLe PTI est souvent déclenché par une infection virale survenant quelques jours à quelques semaines avant les symptômes. Les protéines de la phase aiguë sont des marqueurs d'inflammation produits par le foie. La CRP, la procalcitonine, la ferritine et le fibrinogène augmentent, tandis que l'albumine et la transferrine diminuent. Cette étude de l'Université de Sohag (Égypte) cherche à savoir si ces marqueurs diffèrent entre PTI aigu, PTI chronique et thrombopénies d'autres causes. Elle inclut 100 patients de 1 à 50 ans, avec thrombopénie < 100 G/L et PTI confirmé par la moelle osseuse. Les prélèvements servent à doser ces marqueurs.",
+ "interet": "Les résultats pourraient dégager des marqueurs biologiques simples pour distinguer le PTI d'autres thrombopénies. L'étude est monocentrique et limitée à une population égyptienne.",
+ "profil": "Des enfants et adultes de 1 à 50 ans avec thrombopénie et PTI confirmé, et des patients thrombopéniques d'autres causes.",
+ "inclusion": ["Plaquettes < 100 G/L", "PTI confirmé par la moelle osseuse", "Âge de 1 à 50 ans"],
+ "exclusion": ["Hypersplénisme", "Maladie de la moelle : aplasie, leucémie, syndrome myélodysplasique", "Chimiothérapie ou radiothérapie", "Exposition à des toxiques (arsenic, benzène)", "Médicaments inducteurs : antibiotiques, antiépileptiques, héparine"],
+ "bras": [{"nom": "PTI aigu", "traitement": "Dosage des protéines de la phase aiguë"}, {"nom": "PTI chronique", "traitement": "Dosage des protéines de la phase aiguë"}, {"nom": "Thrombopénies non PTI, appariées", "traitement": "Dosage des protéines de la phase aiguë"}],
+ "duree": "Non précisé (critère évalué sur 2 ans)",
+ "critere": "Taux des protéines de la phase aiguë, sur 2 ans."
+}

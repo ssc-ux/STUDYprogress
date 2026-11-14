@@ -1,0 +1,32 @@
+{
+ "h": "4287a14b6f7e",
+ "date": "2026-11-14",
+ "titre": "Profil métabolique de la réponse immune cutanée dans les maladies à médiation immune",
+ "question": "Les voies métaboliques de la peau et du sang sont-elles différentes chez les patients atteints de déficit immunitaire primitif, de dermatite atopique ou de psoriasis par rapport aux volontaires sains ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP), la dermatite atopique et le psoriasis ont en commun une réponse immune cutanée anormale, avec souvent des anomalies de cicatrisation, des infections cutanées récidivantes ou une inflammation chronique. Les mécanismes qui relient l'activation immune, le métabolisme cellulaire et la réparation de la peau restent mal connus.\n\nL'activation de voies immunitaires précises exige des remaniements métaboliques dans les cellules, le sérum et la peau. L'hypothèse de l'étude est que ces signatures métaboliques diffèrent selon la maladie et pourraient éclairer de futures cibles thérapeutiques.\n\nIl s'agit d'une étude exploratoire de recueil d'échantillons promue par le NIAID. Elle compare 4 groupes : DIP, dermatite atopique, psoriasis et volontaires sains. Les participants ont des prélèvements sanguins et jusqu'à 4 biopsies cutanées de l'avant-bras, avec une option de bulles de succion, afin d'analyser le microbiote cutané et les métabolites pendant la cicatrisation. Il n'y a aucun traitement testé.",
+ "interet": "L'étude ne change pas la pratique à court terme. Elle pourrait identifier des marqueurs métaboliques communs aux maladies immuno-cutanées et des pistes pour de futurs traitements.",
+ "profil": "Des adultes de 18 à 75 ans ayant un déficit immunitaire primitif, une dermatite atopique ou un psoriasis, et des volontaires sains.",
+ "inclusion": [
+  "DIP confirmé génétiquement ou suspecté (variant de signification incertaine et infections atypiques)",
+  "Psoriasis ou dermatite atopique diagnostiqués par un médecin",
+  "Ou volontaire sain sans maladie immune, dermatite atopique ni psoriasis",
+  "Âge de 18 à 75 ans",
+  "Accord pour le stockage des échantillons pour des recherches futures",
+  "Consentement éclairé possible"
+ ],
+ "exclusion": [
+  "Anticoagulant ou antiagrégant (hors aspirine et AINS) dans les 3 mois",
+  "Immunomodulateur (chimiothérapie, corticoïdes) dans les 3 mois, sauf accord de l'investigateur",
+  "Antécédent de chéloïde",
+  "Grossesse ou allaitement",
+  "Toute condition contre-indiquant la participation selon l'investigateur"
+ ],
+ "bras": [
+  { "nom": "Volontaires sains", "traitement": "Groupe contrôle, prélèvements sanguins et cutanés" },
+  { "nom": "Dermatite atopique", "traitement": "Patients avec dermatite atopique diagnostiquée, mêmes prélèvements" },
+  { "nom": "Déficit immunitaire primitif", "traitement": "Patients avec DIP confirmé ou suspecté, mêmes prélèvements" },
+  { "nom": "Psoriasis", "traitement": "Patients avec psoriasis diagnostiqué, mêmes prélèvements" }
+ ],
+ "duree": "Non précisé (visites avec biopsies à quelques jours d'intervalle)",
+ "critere": "Variations du microbiote cutané et des métabolites liés à la cicatrisation ou aux maladies immunes, et différences de voies métaboliques liées à l'immunité (tout au long de l'étude)"
+}

@@ -1,0 +1,25 @@
+{
+ "h": "6a895c698fe5",
+ "date": "2026-11-14",
+ "titre": "TEAM-LEADS, programme en ligne de réduction du stress dans le lupus et la dermatomyosite juvéniles",
+ "question": "Un programme en ligne de gestion du stress est-il faisable et acceptable chez des adolescents et jeunes adultes atteints de lupus ou de dermatomyosite juvénile, et réduit-il le stress ?",
+ "contexte": "Le lupus systémique et la dermatomyosite de début juvénile exposent à un risque cardiovasculaire accru et à une mortalité prématurée. Les adolescents et jeunes adultes atteints présentent souvent un stress psychologique important, associé à de moins bons comportements de santé cardiovasculaire : activité physique insuffisante, alimentation de moindre qualité, sommeil perturbé.\n\nLes interventions comportementales validées pour réduire le stress sont difficiles d'accès pour beaucoup de ces patients, et rarement adaptées aux spécificités de ces maladies.\n\nTEAM-LEADS est un programme en ligne de réduction du stress et de promotion de comportements favorables à la santé cardiovasculaire. Cet essai pilote de phase I, ouvert, à bras unique, en cohortes successives, est promu par l'université Duke avec un financement du NIAMS. Il inclura 25 participants de 13 à 22 ans. Ils suivront le programme en ligne et seront évalués avant, après et à distance de l'intervention. L'étude évalue la faisabilité, l'acceptabilité, l'adhésion et un effet préliminaire sur le stress et les comportements cardiovasculaires. Le recrutement doit débuter en 2027.",
+ "interet": "Elle pourrait fournir un outil de soutien psychologique accessible, adapté aux maladies auto-immunes pédiatriques. En tant qu'étude pilote sans groupe contrôle, elle ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adolescents et jeunes adultes de 13 à 22 ans atteints de lupus systémique ou de dermatomyosite de début juvénile.",
+ "inclusion": [
+  "Lupus systémique ou dermatomyosite de début juvénile",
+  "Âge de 13 à 22 ans à l'inclusion"
+ ],
+ "exclusion": [
+  "Incapacité à remplir fiablement les questionnaires ou entretiens",
+  "Absence d'accès à un appareil connecté à Internet",
+  "Diagnostic autre que lupus ou dermatomyosite juvénile",
+  "Antécédent d'infarctus du myocarde ou d'AVC",
+  "Détresse émotionnelle sévère : PHQ-9A ≥ 15, idées suicidaires, ou autre signe jugé par l'investigateur"
+ ],
+ "bras": [
+  { "nom": "Intervention TEAM-LEADS", "traitement": "Programme comportemental en ligne de réduction du stress et de promotion de la santé cardiovasculaire" }
+ ],
+ "duree": "Évaluations à l'inclusion, après l'intervention et au suivi (critère principal à 84 jours)",
+ "critere": "Variation du score T PROMIS pédiatrique d'expériences de stress psychologique (forme courte 8a) entre l'inclusion et le jour 84."
+}

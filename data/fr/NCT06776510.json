@@ -1,0 +1,35 @@
+{
+ "h": "0fed8f631e08",
+ "date": "2026-11-14",
+ "titre": "NAD+ / NMN dans le PTI réfractaire ou rechutant après traitements de deuxième ligne",
+ "question": "Le nicotinamide adénine dinucléotide (NAD+) ou son précurseur NMN est-il sûr et efficace chez des adultes ayant un PTI réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où les plaquettes sont détruites par des auto-anticorps et insuffisamment produites par les mégacaryocytes. Les corticoïdes et les immunoglobulines en première ligne, puis les agonistes du récepteur de la thrombopoïétine (ago-RTPO), le rituximab ou la splénectomie en deuxième ligne laissent une part de patients en échec ou dépendants d'un traitement d'entretien.\n\nLes plasmocytes à longue durée de vie, qui échappent au rituximab, pourraient entretenir la production d'auto-anticorps. Les anticorps anti-CD38 (ciblant ces plasmocytes) ont donné de bons résultats dans le PTI réfractaire selon les investigateurs. Or CD38 est une enzyme qui dégrade le NAD+ ; les promoteurs font l'hypothèse qu'augmenter le NAD+ réduit la polarisation M1 des macrophages et donc la destruction des plaquettes. Le NAD+ est déjà utilisé comme traitement adjuvant dans d'autres contextes (leucopénie, myocardite). Cette étude de phase 1/2 monocentrique, à un seul bras, évalue le NAD+ et le NMN chez 20 adultes en impasse thérapeutique. Elle est promue par l'Institut d'hématologie et hôpital des maladies du sang (Chine).",
+ "interet": "Étude exploratoire sur un mécanisme original (voie du NAD+/CD38) dans le PTI. Sans bras comparateur et sur un petit effectif, elle ne pourra que générer une hypothèse d'efficacité et de tolérance.",
+ "profil": "Des adultes atteints de PTI depuis au moins 3 mois, en échec des corticoïdes et d'au moins un traitement de deuxième ligne, avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI diagnostiqué depuis ≥ 3 mois",
+  "Échec ou rechute après corticoïdes et après un traitement de 2e ligne (ago-RTPO, etc.)",
+  "Plaquettes < 30 G/L à deux reprises à au moins 1 jour d'intervalle",
+  "ECOG ≤ 2",
+  "Un seul traitement associé stable depuis ≥ 4 semaines autorisé (corticoïdes ≤ 0,5 mg/kg, ago-RTPO)"
+ ],
+ "exclusion": [
+  "Allergie au NAD+ ou échec antérieur d'un anti-CD38",
+  "Thrombopénie secondaire (lupus, SAPL, hémopathie, médicaments, etc.) ou anémie hémolytique auto-immune",
+  "Thrombose dans les 12 mois ou saignement sévère",
+  "Anticoagulant ou antiagrégant dans les 2 semaines",
+  "Splénectomie < 6 mois, rituximab < 3 mois",
+  "Hépatite B ou C active, VIH, syphilis",
+  "Grossesse ou allaitement",
+  "Cancer dans les 5 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Bras unique",
+   "traitement": "Nicotinamide adénine dinucléotide (NAD+) / nicotinamide mononucléotide (NMN), dose et rythme non précisés"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Réponse globale des plaquettes à 2 semaines, et fréquence des événements indésirables liés au traitement à 8 semaines."
+}

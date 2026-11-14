@@ -1,0 +1,36 @@
+{
+ "h": "58b18167e49c",
+ "date": "2026-11-14",
+ "titre": "Daratumumab dans le lymphome des séreuses, le lymphome plasmablastique et la maladie de Castleman KSHV",
+ "question": "Le daratumumab sous-cutané est-il actif dans les lymphomes à effusion primitive, plasmablastiques ou la maladie de Castleman multicentrique à KSHV en rechute ou réfractaires ?",
+ "contexte": "Le lymphome des séreuses (PEL), le lymphome plasmablastique (PBL) et la maladie de Castleman multicentrique liée au KSHV (KSHV-MCD) sont des proliférations agressives de cellules B, fréquemment associées au VIH, au KSHV (HHV-8) ou à l'EBV. Leur pronostic reste mauvais après chimiothérapie de première ligne de type CHOP ou EPOCH, et il n'y a pas de standard en rechute.\n\nLes cellules du PEL et du PBL ont une différenciation plasmocytaire avec expression de CD38, comme dans le myélome. Le daratumumab, anticorps anti-CD38, a une activité établie dans le myélome et l'amylose AL, et des cas rapportés suggèrent un effet dans ces entités. Cette phase 2 du National Cancer Institute, à un seul bras, administre le daratumumab sous-cutané à 40 patients, avec ou sans VIH, qui ont rechuté, sont réfractaires ou ne peuvent pas recevoir la chimiothérapie standard.",
+ "interet": "Elle pourrait apporter une option ciblée pour des maladies rares sans traitement de recours établi.",
+ "profil": "Des adultes atteints de PEL, PBL ou KSHV-MCD en rechute ou réfractaire, ou inéligibles à la chimiothérapie standard, quel que soit leur statut VIH.",
+ "inclusion": [
+  "PEL (dont variantes extracavitaires), PBL ou KSHV-MCD confirmé histologiquement, en rechute, réfractaire ou inéligible à la chimiothérapie",
+  "Âge ≥ 18 ans, quel que soit le statut VIH ; si VIH+, traitement antirétroviral efficace et charge virale < 200 copies/mL",
+  "PEL ou PBL : maladie mesurable, ECOG 0-2 (ou 3 si lié au lymphome), Hb > 7 g/dL, clairance de la créatinine ≥ 15 mL/min",
+  "PEL ou PBL : chimiothérapie curative à base d'anthracyclines déjà reçue, sauf contre-indication",
+  "KSHV-MCD : au moins un symptôme clinique et une anomalie biologique liés à la maladie",
+  "Hépatite B chronique sous traitement suppressif ; hépatite C seulement après réponse virologique soutenue",
+  "Consentement écrit et contraception adaptée"
+ ],
+ "exclusion": [
+  "Traitement anticancéreux dans les 2 semaines précédentes, toxicités antérieures non résolues (grade > 1)",
+  "Sarcome de Kaposi nécessitant une chimiothérapie urgente",
+  "Bilirubine > 1,5 x LSN ou transaminases > 3 x LSN (hors cause liée au lymphome ou aux antirétroviraux)",
+  "PNN < 1000/mm³ ou plaquettes < 75 000/mm³ (hors cause liée à la maladie ou aux traitements antérieurs)",
+  "Manifestations menaçantes de la KSHV-MCD pour la vie ou les organes",
+  "Cardiopathie significative (infarctus récent, insuffisance cardiaque NYHA III-IV, arythmie non contrôlée)",
+  "BPCO avec VEMS < 50 % ou asthme modéré à sévère ou non contrôlé",
+  "Grossesse ou maladie intercurrente sévère non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "Daratumumab",
+   "traitement": "Daratumumab sous-cutané, bras unique"
+  }
+ ],
+ "duree": "Non précisé (traitement jusqu'à progression ou toxicité)",
+ "critere": "Taux de réponse globale aux semaines 9 et 17, puis toutes les 12 semaines à partir de la semaine 25 jusqu'à la fin du traitement."
+}

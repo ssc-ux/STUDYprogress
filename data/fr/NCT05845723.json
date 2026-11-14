@@ -1,0 +1,41 @@
+{
+ "h": "adafcd338eda",
+ "date": "2026-11-14",
+ "titre": "Tocilizumab ou tofacitinib contre cyclophosphamide dans la maladie de Behçet vasculaire",
+ "question": "Les corticoïdes associés au tocilizumab ou au tofacitinib sont-ils plus efficaces que corticoïdes plus cyclophosphamide dans la maladie de Behçet vasculaire avec anévrisme ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique récurrente, plus fréquente en Asie qu'en Europe ou en Amérique. L'atteinte vasculaire touche 20 à 25 % des patients, surtout de jeunes hommes, avec thromboses veineuses et lésions artérielles, notamment anévrismes. Elle est la première cause de mortalité de la maladie.\n\nLe traitement des anévrismes repose sur les corticoïdes associés au cyclophosphamide, avec une toxicité notable et des rechutes. Le tocilizumab, anti-récepteur de l'IL-6, et le tofacitinib, inhibiteur de JAK, ont été rapportés efficaces dans des séries de Behçet réfractaire. Cet essai de phase 2 randomisé et ouvert, mené au Peking Union Medical College Hospital, compare trois bras. Tous reçoivent prednisone 1 mg/kg/j, diminuée à 10 mg/j à la semaine 12, associée soit à tocilizumab IV, soit à tofacitinib oral, soit à cyclophosphamide IV, pendant 24 semaines.",
+ "interet": "Si l'un des deux traitements ciblés est au moins aussi efficace que le cyclophosphamide, il pourrait le remplacer dans les atteintes artérielles de la maladie de Behçet.",
+ "profil": "Des adultes de 18 à 65 ans atteints de maladie de Behçet avec anévrisme de l'aorte descendante ou d'artères périphériques.",
+ "inclusion": [
+  "Consentement éclairé signé",
+  "Âge de 18 à 65 ans",
+  "Critères internationaux ICBD 2013 de la maladie de Behçet",
+  "Anévrisme ou dilatation anévrismale de l'aorte descendante et/ou d'artères périphériques confirmé par échographie ou angioscanner",
+  "VS et CRP ultrasensible élevées"
+ ],
+ "exclusion": [
+  "Atteinte cardiovasculaire indiscernable d'une artérite à cellules géantes, d'une maladie de Buerger, d'un anévrisme athéroscléreux ou infectieux",
+  "Autre atteinte active de Behçet nécessitant un traitement renforcé (ulcères digestifs, uvéite, atteinte neurologique parenchymateuse)",
+  "Anévrisme sévère nécessitant une chirurgie urgente",
+  "Dysfonction d'organe sévère ou cytopénies (transaminases ou bilirubine > 2 x LSN, créatinine ≥ 133 µmol/L, leucocytes < 3 G/L, hémoglobine < 80 g/L, plaquettes < 100 G/L)",
+  "Infection active (tuberculose, hépatite B ou C, syphilis, EBV chronique), immunodéficience ou cancer",
+  "Immunosuppresseur dans le mois précédent ou biothérapie récente, antécédent de tocilizumab ou de tofacitinib",
+  "Grossesse, allaitement ou projet de grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Tocilizumab + corticoïdes",
+   "traitement": "Prednisone 1 mg/kg/j (10 mg/j à la semaine 12) et tocilizumab 8 mg/kg IV toutes les 4 semaines, 24 semaines"
+  },
+  {
+   "nom": "Tofacitinib + corticoïdes",
+   "traitement": "Prednisone selon le même schéma et tofacitinib 5 mg deux fois par jour, 24 semaines"
+  },
+  {
+   "nom": "Cyclophosphamide + corticoïdes",
+   "traitement": "Prednisone selon le même schéma et cyclophosphamide 0,5 g IV toutes les 2 semaines, 24 semaines"
+  }
+ ],
+ "duree": "24 semaines de traitement",
+ "critere": "Taux de réponse complète à la semaine 12."
+}

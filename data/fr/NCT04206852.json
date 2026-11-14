@@ -1,0 +1,25 @@
+{
+ "h": "f5917274e0d3",
+ "date": "2026-11-14",
+ "titre": "Angioplastie pulmonaire par ballonnet en Chine : sécurité et efficacité",
+ "question": "L'angioplastie pulmonaire par ballonnet est-elle sûre et efficace chez les patients atteints d'HTP thromboembolique chronique non opérable ou d'autres sténoses de l'artère pulmonaire ?",
+ "contexte": "L'hypertension pulmonaire thromboembolique chronique (HTP-TEC) résulte de l'obstruction chronique des artères pulmonaires par des thrombi organisés. Le traitement de référence est l'endartériectomie pulmonaire chirurgicale. Une partie des patients n'est pas opérable, en raison d'une atteinte distale, de comorbidités ou d'une HTP persistante après chirurgie.\n\nL'angioplastie pulmonaire par ballonnet (BPA) est une option pour ces patients, avec riociguat et traitements médicaux ciblés. Elle est réalisée en plusieurs séances et peut améliorer l'hémodynamique et la capacité fonctionnelle, mais expose à des complications comme l'œdème de reperfusion et les lésions vasculaires. Elle est aussi envisagée pour les sténoses artérielles pulmonaires de l'artérite de Takayasu et de la médiastinite fibrosante.\n\nCette étude observationnelle prospective multicentrique, promue par le Chinese Pulmonary Vascular Disease Research Group, suit des patients traités par BPA. Les évaluations comprennent test de marche de 6 minutes, biomarqueurs, épreuve d'effort, échocardiographie, hémodynamique, angiographie et scintigraphie, avant la BPA puis 3 à 12 mois après la dernière séance. Elle examine aussi la valeur de l'imagerie de l'expression de la protéine d'activation des fibroblastes (FAPI) pour prédire l'efficacité et le pronostic.",
+ "interet": "L'étude doit documenter la sécurité et l'efficacité de la BPA dans une grande cohorte et évaluer le FAPI comme marqueur pronostique, avec des données utiles pour la sélection des patients.",
+ "profil": "Des adultes atteints d'HTP-TEC non opérable ou persistante après chirurgie, d'artérite de Takayasu avec atteinte pulmonaire ou de médiastinite fibrosante.",
+ "inclusion": [
+  "HTP-TEC selon les recommandations ESC (PAP moyenne d'au moins 25 mmHg au repos, ou limitation à l'effort malgré une PAP moyenne inférieure)",
+  "Maladie thromboembolique chronique confirmée par scintigraphie V/Q, angiographie, angioscanner ou angio-IRM",
+  "Anticoagulation pendant au moins 3 mois avant le diagnostic",
+  "Non éligible à l'endartériectomie pulmonaire",
+  "Âge d'au moins 18 ans, consentement éclairé"
+ ],
+ "exclusion": [
+  "Refus ou incapacité de donner un consentement écrit",
+  "Suivi impossible"
+ ],
+ "bras": [
+  { "nom": "Cohorte BPA", "traitement": "Angioplastie pulmonaire par ballonnet en séances successives, avec suivi clinique et hémodynamique" }
+ ],
+ "duree": "De la première séance de BPA à 3 à 12 mois après la dernière séance",
+ "critere": "Événements indésirables de la BPA et variations de la pression artérielle pulmonaire, des résistances vasculaires pulmonaires, de l'index cardiaque, de la classe fonctionnelle OMS, du test de marche de 6 minutes, du NT-proBNP, de la VO2 pic, de la DLCO et de l'expression du FAPI, entre le début de la BPA et 3 à 12 mois après la dernière séance"
+}

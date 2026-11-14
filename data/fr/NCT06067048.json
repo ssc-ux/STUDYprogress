@@ -1,0 +1,34 @@
+{
+ "h": "6975d512e5fb",
+ "date": "2026-11-14",
+ "titre": "Zanubrutinib dans la maladie des agglutinines froides",
+ "question": "Le zanubrutinib permet-il d'obtenir une réponse chez des patients atteints de maladie des agglutinines froides primaire ?",
+ "contexte": "La maladie des agglutinines froides (MAF) est une anémie hémolytique auto-immune chronique, avec test de Coombs direct monospécifique C3d fortement positif et agglutinines froides à un titre d'au moins 64 à 4 °C. Les anticorps sont des IgM monoclonales, souvent de type kappa anti-I, produites par un clone B lymphoprolifératif souvent limité à la moelle. Elle peut provoquer une hémolyse et des symptômes ischémiques au froid, comme l'acrocyanose.\n\nIl n'existe pas de traitement curatif. Le rituximab seul a un effet limité et de courte durée ; l'association avec la chimiothérapie donne des réponses plus profondes mais pose des problèmes de toxicité chez des patients sans lymphome. Les inhibiteurs du complément traitent l'hémolyse, mais pas les symptômes ischémiques dus aux IgM.\n\nLes inhibiteurs de BTK, efficaces dans la maladie de Waldenström, ont montré dans des données rétrospectives une efficacité sur l'hémolyse et les symptômes ischémiques. Cette phase 2 du réseau néerlandais HOVON teste le zanubrutinib 320 mg par jour.",
+ "interet": "Si les taux de réponse sont élevés, un inhibiteur de BTK oral pourrait devenir une option ciblant à la fois le clone B et les IgM dans la MAF.",
+ "profil": "Des adultes avec une MAF avec clone B, en rechute, réfractaire ou non éligibles aux traitements disponibles, et nécessitant un traitement.",
+ "inclusion": [
+  "Diagnostic de MAF : hémolyse chronique > 3 mois, agglutinines froides ≥ 64 à 4 °C, Coombs C3d ≥ 2+ et IgG négatif ou faiblement positif",
+  "Clone B lymphoprolifératif : pic monoclonal et/ou population CD20+ médullaire",
+  "Indication de traitement : Hb ≤ 10,5 g/dL et/ou symptômes ischémiques de grade ≥ 2",
+  "Rechute ou réfractaire après au moins un traitement, ou naïf non éligible aux options",
+  "Âge de 18 ans ou plus, OMS/ECOG ≤ 2 (3 si lié à la MAF)",
+  "Neutrophiles > 1,0 G/L, plaquettes ≥ 100 G/L, ferritine normale et bilirubine > N"
+ ],
+ "exclusion": [
+  "Lymphome agressif, LLC ou maladie lymphoproliférative extramédullaire",
+  "Syndrome des agglutinines froides secondaire (Mycoplasma, EBV, maladie rhumatologique), AHAI mixte ou syndrome d'Evans",
+  "Cancer non lymphoïde dans les 3 ans (sauf exceptions)",
+  "Trouble hémorragique, AVC ou hémorragie intracrânienne dans les 6 mois, warfarine",
+  "Traitement antérieur par inhibiteur de BTK",
+  "Maladie cardiovasculaire significative, QTcF > 480 ms, hypertension non contrôlée",
+  "Insuffisance rénale (clairance < 30 mL/min) ou hépatique, VIH non contrôlé, VHB ou VHC"
+ ],
+ "bras": [
+  {
+   "nom": "Bras de traitement",
+   "traitement": "Zanubrutinib 320 mg par jour par voie orale (quatre gélules de 80 mg)"
+  }
+ ],
+ "duree": "6 cycles de traitement, évaluation à 1 an",
+ "critere": "Taux de réponse de la MAF (réponse partielle ou complète) après 6 cycles de zanubrutinib, évalué à 1 an."
+}

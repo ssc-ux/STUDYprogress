@@ -1,0 +1,24 @@
+{
+ "h": "52e2246e7e05",
+ "date": "2026-11-14",
+ "titre": "Caractérisation clinique et immunogénétique de l'artérite à cellules géantes et de la PPR",
+ "question": "Quels sont les déterminants génétiques de la susceptibilité à l'artérite à cellules géantes (ACG) et à la pseudopolyarthrite rhizomélique (PPR) ?",
+ "contexte": "L'ACG est la plus fréquente des vascularites systémiques primitives et survient presque exclusivement après 50 ans. C'est une urgence thérapeutique : sans corticothérapie à forte dose immédiate, l'inflammation de la paroi artérielle peut provoquer une cécité irréversible ou un AVC. Le diagnostic repose sur la biopsie d'artère temporale, l'imagerie (échographie, scanner, angio-IRM, TEP) ou sur un faisceau d'arguments clinicobiologiques (céphalée récente, claudication de la mâchoire, troubles visuels, VS élevée).\n\nLa PPR se caractérise par des douleurs inflammatoires des ceintures avec dérouillage matinal et syndrome inflammatoire biologique. Elle est fréquemment associée à l'ACG, et les deux maladies partagent probablement des mécanismes communs.\n\nLe UK GCA Consortium, mené par l'Université de Leeds avec Oxford, constitue des cohortes prospectives (patients avec suspicion d'ACG ou de PPR) et rétrospectives (diagnostic établi). L'objectif principal est d'identifier les facteurs génétiques de susceptibilité pour mieux comprendre la physiopathologie. Une partie de la cohorte rétrospective alimente un registre de surveillance post-commercialisation du tocilizumab chez des patients avec ACG en rechute ou réfractaire.",
+ "interet": "L'identification de facteurs génétiques de susceptibilité pourrait éclairer les mécanismes de l'ACG et de la PPR et, à terme, soutenir de nouvelles cibles thérapeutiques et une meilleure stratification du risque.",
+ "profil": "Des adultes de plus de 50 ans avec ACG ou PPR confirmée ou fortement suspectée.",
+ "inclusion": [
+  "Diagnostic clinique ferme d'ACG ou de PPR (ou, pour les patients prospectifs, diagnostic plus probable que toute autre explication)",
+  "Âge d'au moins 50 ans, sauf ACG classique et prouvée par biopsie",
+  "Auto-identification d'un groupe ethnique",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Patient refusant ou incapable de donner un consentement éclairé"
+ ],
+ "bras": [
+  { "nom": "Cohorte rétrospective", "traitement": "Patients avec diagnostic établi d'ACG ou de PPR ; prélèvements génétiques et recueil de données" },
+  { "nom": "Cohorte prospective", "traitement": "Patients avec suspicion d'ACG ou de PPR ; prélèvements génétiques et recueil de données" }
+ ],
+ "duree": "Évaluation à l'inclusion (prélèvement génétique) avec suivi variable selon la cohorte",
+ "critere": "Déterminants génétiques de susceptibilité à l'ACG et à la PPR, évalués à l'inclusion"
+}

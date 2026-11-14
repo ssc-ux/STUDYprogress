@@ -1,0 +1,14 @@
+{
+ "h": "e7c008cd5935",
+ "date": "2026-11-14",
+ "titre": "Thérapie génique du SCID-X1 par injection intraveineuse directe de vecteur lentiviral",
+ "question": "L'injection intraveineuse d'un vecteur lentiviral corrigeant le gène IL2RG est-elle sûre et permet-elle la reconstitution immunitaire dans le SCID-X1 ?",
+ "contexte": "Le déficit immunitaire combiné sévère lié à l'X (SCID-X1) est dû à une mutation de la chaîne gamma commune des récepteurs de cytokines. Il bloque le développement des lymphocytes et expose à des infections graves, souvent mortelles dans l'enfance. Le traitement standard est la greffe de moelle d'un donneur sain, en particulier HLA-identique apparenté.\n\nCet essai de phase 1/2 teste une thérapie génique in vivo : un vecteur lentiviral auto-inactivant portant un gène fonctionnel est injecté directement par voie intraveineuse pour modifier les cellules immunitaires dans l'organisme, sans prélèvement ni conditionnement de la moelle. Il est destiné à des nourrissons sans donneur HLA-identique apparenté. Le promoteur est le Shenzhen Geno-Immune Medical Institute. Le registre précise que l'enregistrement sur ClinicalTrials.gov vise l'information académique et ne vaut pas autorisation des autorités chinoises (NMPA) ; la date de début prévue est 2027.",
+ "interet": "Si elle était démontrée sûre, cette approche permettrait de traiter des nourrissons sans donneur compatible et sans conditionnement. À ce stade, il s'agit d'un essai non encore recruteur, sans autorisation réglementaire documentée.",
+ "profil": "Des nourrissons de 1 mois à 1 an avec SCID-X1 prouvé et sans donneur HLA-identique apparenté.",
+ "inclusion": ["SCID-X1 avec mutation prouvée du gène de la chaîne gamma du récepteur de l'IL-2", "Déficit en lymphocytes T (CD3+ < 300/µL, ou prolifération absente ou < 50 %)", "Pas de donneur HLA-identique apparenté disponible", "Infections sévères (pneumonie, diarrhée prolongée sous nutrition parentérale, herpèsvirus ou adénovirus, BCG disséminé)", "Pas de greffe allogénique antérieure ; espérance de vie ≥ 3 mois ; VIH négatif", "Consentement écrit"],
+ "exclusion": ["Diagnostic moléculaire non confirmé", "Donneur HLA-identique apparenté disponible", "Maladie maligne active (hors lymphoprolifération liée à l'EBV)", "Chimiothérapie en cours (moins d'un mois d'arrêt) ou immunosuppresseur autre que corticoïde", "Infection par le VIH-1 ou 2", "Survie attendue < 4 semaines (ventilation mécanique, défaillance d'organe, infection réfractaire)"],
+ "bras": [{"nom": "Bras unique", "traitement": "Injection intraveineuse directe du vecteur lentiviral ivlv-X1"}],
+ "duree": "1 an",
+ "critere": "Survie globale, reconstitution immunitaire globale et évolution du statut infectieux, à 1 an"
+}

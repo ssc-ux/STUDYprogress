@@ -1,0 +1,33 @@
+{
+ "h": "22cc9b75a127",
+ "date": "2026-11-14",
+ "titre": "Daratumumab, bortézomib, cyclophosphamide et dexaméthasone dans la maladie des dépôts d'immunoglobulines monoclonales",
+ "question": "Le schéma Dara-CyBorD induit-il une réponse hématologique complète dans la maladie des dépôts d'immunoglobulines monoclonales (MIDD) ?",
+ "contexte": "La maladie des dépôts d'immunoglobulines monoclonales (MIDD) est une gammapathie monoclonale de signification rénale : des chaînes légères ou lourdes monoclonales se déposent dans les glomérules et les tubules et provoquent une insuffisance rénale progressive. Elle est traitée comme les pathologies plasmocytaires, avec des schémas à base de bortézomib, mais les données sont limitées par la rareté de la maladie.\n\nLe daratumumab, anticorps anti-CD38, a transformé la prise en charge de l'amylose AL en association avec le bortézomib, le cyclophosphamide et la dexaméthasone (CyBorD). Son intérêt dans la MIDD n'est pas établi.\n\nCet essai chinois de phase 2, multicentrique et à bras unique, évalue Dara-CyBorD chez environ 20 à 25 patients avec une MIDD nouvellement diagnostiquée, sans traitement anti-plasmocytaire préalable. Le critère principal est la réponse hématologique complète après six cycles.",
+ "interet": "Il pourrait apporter des données prospectives sur une stratégie anti-plasmocytaire intensive dans une maladie rénale rare, où il n'existe pas de standard.",
+ "profil": "Des adultes avec une MIDD nouvellement diagnostiquée, sans traitement anti-plasmocytaire.",
+ "inclusion": [
+  "Diagnostic de MIDD sans traitement anti-plasmocytaire",
+  "Âge ≥ 18 ans, ECOG 0-2",
+  "PNN ≥ 1,0 G/L, Hb ≥ 70 g/L, plaquettes ≥ 50 G/L",
+  "Bilirubine ≤ 3 × LSN, ASAT/ALAT ≤ 3 × LSN",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Traitement antérieur de la MIDD (sauf ≤ 160 mg de dexaméthasone ou équivalent)",
+  "Myélome multiple ou lymphome lymphoplasmocytaire actifs",
+  "Autre cancer avancé avec métastases",
+  "Infection sévère non contrôlée",
+  "Maladie auto-immune sévère ou déficit immunitaire",
+  "Hépatite B ou C active, VIH ou syphilis",
+  "Toute situation augmentant le risque selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Dara-CyBorD",
+   "traitement": "Daratumumab, bortézomib, cyclophosphamide et dexaméthasone, 6 cycles (doses non précisées)"
+  }
+ ],
+ "duree": "6 cycles de traitement (critère à 6 mois)",
+ "critere": "Taux de réponse hématologique complète à la fin des 6 cycles."
+}

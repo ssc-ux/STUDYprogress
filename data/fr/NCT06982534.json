@@ -1,0 +1,31 @@
+{
+ "h": "8dd6ca35ec5b",
+ "date": "2026-11-14",
+ "titre": "UTAA91, thérapie cellulaire CAR, dans la sclérodermie systémique réfractaire",
+ "question": "La thérapie cellulaire UTAA91 est-elle sûre chez des patients atteints de sclérodermie systémique active réfractaire ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune rare associant fibrose cutanée et viscérale, vasculopathie et atteinte pulmonaire interstitielle. Les formes diffuses sévères ont un pronostic réservé. Les traitements actuels (mycophénolate, cyclophosphamide, tocilizumab, nintédanib, greffe autologue de cellules souches chez des patients sélectionnés) laissent persister des échecs, et les options sont limitées en cas de maladie réfractaire.\n\nLes thérapies cellulaires de type CAR-T ciblant les lymphocytes B ont montré des résultats préliminaires encourageants dans le lupus et dans quelques cas de sclérodermie. Elles visent à réinitialiser la réponse immunitaire auto-réactive.\n\nCette étude de phase 1 chinoise, ouverte et monocentrique, est promue par PersonGen BioTherapeutics. Elle évalue la sécurité de l'UTAA91 chez 24 patients atteints de sclérodermie systémique réfractaire, modérée à sévère et active. La nature précise du produit n'est pas détaillée dans le registre. Les patients déjà traités par CAR-T ou autre thérapie génique sont exclus. Le critère principal est la survenue d'événements indésirables sur environ un an.",
+ "interet": "L'étude apportera les premières données de sécurité de ce produit dans la sclérodermie. Son rôle est de préparer des essais ultérieurs ; elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes atteints de sclérodermie systémique réfractaire, active, modérée à sévère, en échec des traitements standards.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie systémique active, modérée à sévère, réfractaire aux traitements standards ou sans option efficace",
+  "Espérance de vie ≥ 3 mois",
+  "Fonctions hépatique, rénale et cardiopulmonaire suffisantes",
+  "Absence de trouble psychiatrique sévère",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Cancer dans les 5 ans",
+  "Sérologies virales ou syphilis positives",
+  "Maladie cardiaque sévère ou maladie systémique instable",
+  "Infection active ou non contrôlée, atteinte du système nerveux central",
+  "Grossesse ou allaitement, projet de grossesse dans les 2 ans suivant la perfusion",
+  "CAR-T ou autre thérapie cellulaire génétiquement modifiée antérieure",
+  "Participation à une autre étude dans le mois précédent"
+ ],
+ "bras": [
+  { "nom": "Injection d'UTAA91", "traitement": "UTAA91 en injection (dose et schéma non précisés)" }
+ ],
+ "duree": "Environ 1 an",
+ "critere": "Événements indésirables sur environ 1 an."
+}

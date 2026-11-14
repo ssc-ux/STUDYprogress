@@ -1,0 +1,27 @@
+{
+ "h": "13c1c1a1a7f5",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle des bronchectasies (NHLBI)",
+ "question": "Quelles sont les causes et les maladies sous-jacentes associées aux bronchectasies, en particulier non liées à la mucoviscidose, et comment évoluent-elles ?",
+ "contexte": "Les bronchectasies sont une atteinte chronique inflammatoire et muco-obstructive des voies aériennes, avec dilatation bronchique, déclin de la fonction respiratoire, exacerbations fréquentes et infections respiratoires chroniques. La mucoviscidose est la cause génétique la mieux étudiée, et les modulateurs de CFTR ont transformé sa prise en charge.\n\nPour les bronchectasies non mucoviscidosiques, les mécanismes sont mal connus, il n'existe pas de traitement spécifique efficace, la cause reste souvent non identifiée et la maladie est chronique et sans guérison. Ce protocole du NHLBI (États-Unis) inclut des patients dès 5 ans avec bronchectasies ou infections respiratoires chroniques ou récidivantes, et des apparentés. Après un bilan initial (antécédents, questionnaires, scanner, épreuves fonctionnelles, prélèvements de sang, d'urine et d'expectoration, génétique), certains patients sont suivis dans le temps, notamment pour les infections à mycobactéries non tuberculeuses. Il est observationnel.",
+ "interet": "L'étude pourrait préciser les causes de bronchectasies sans diagnostic, par exemple génétiques ou immunologiques, et leur évolution. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des enfants (dès 5 ans) et adultes ayant des bronchectasies ou des infections respiratoires chroniques ou récidivantes, et leurs apparentés.",
+ "inclusion": [
+  "Âge ≥ 5 ans, adressé au NIH pour infections respiratoires chroniques ou récidivantes et/ou bronchectasies",
+  "Priorité aux bronchectasies non liées à la mucoviscidose",
+  "Mucoviscidose ou déficit immunitaire acquis (VIH) possibles si utile à la comparaison ou à l'étude d'infections chroniques",
+  "Médecin référent",
+  "Accord pour la conservation d'échantillons (sang, tissu, expectoration, selles)",
+  "Apparentés dès 5 ans, y compris asymptomatiques, pour comparaison"
+ ],
+ "exclusion": [
+  "Incapacité ou refus de donner un consentement",
+  "Incapacité à suivre un suivi régulier ou peu de chances de fournir des informations utiles à l'évolution (exclusion du suivi longitudinal)",
+  "Enfants de moins de 5 ans"
+ ],
+ "bras": [
+  {"nom": "Participants", "traitement": "Enfants dès 5 ans et adultes avec bronchectasies ou infections respiratoires chroniques ou récidivantes : bilan initial, suivi annuel et visites d'exacerbation optionnelles"}
+ ],
+ "duree": "Bilan initial, puis suivi annuel tant que le patient accepte de revenir",
+ "critere": "Identification des causes et maladies sous-jacentes associées aux bronchectasies, à l'inclusion, chaque année et lors des visites d'exacerbation"
+}

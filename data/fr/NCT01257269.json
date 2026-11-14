@@ -1,0 +1,24 @@
+{
+ "h": "099b27549d1b",
+ "date": "2026-11-14",
+ "titre": "Registre du purpura thrombotique thrombocytopénique héréditaire (syndrome d'Upshaw-Schulman)",
+ "question": "Comment évoluent les patients atteints de purpura thrombotique thrombocytopénique (PTT) héréditaire, et quels facteurs modulent la sévérité de la maladie et les besoins thérapeutiques ?",
+ "contexte": "Le PTT héréditaire (syndrome d'Upshaw-Schulman) est une maladie rare due à un déficit sévère en ADAMTS13, par mutations homozygotes ou hétérozygotes composites du gène ADAMTS13. Il associe thrombopénie de consommation, anémie hémolytique microangiopathique et occlusion microvasculaire par des thrombi riches en facteur von Willebrand, avec atteinte d'organes ischémique.\n\nBien que monogénique, la présentation est très variable, sans corrélation nette génotype-phénotype : certains patients n'ont besoin de plasma que dans des situations particulières (grossesse), d'autres ont des formes sévères avec séquelles ou décès dans l'enfance. Les facteurs modificateurs sont inconnus. On connaît mal aussi les effets indésirables d'une substitution plasmatique prolongée, par exemple la formation d'alloanticorps, comme dans l'hémophilie. Ce registre multicentrique international (coordonné par l'hôpital de l'Île de Berne, 7 pays), initié en 2006, recueille des données rétrospectives et prospectives de patients et de leurs apparentés. L'étude est observationnelle.",
+ "interet": "Le registre vise à fonder des recommandations sur la nécessité, les modalités et les risques de la substitution plasmatique prophylactique, et à identifier les déclencheurs des poussées. Il informe aussi les apparentés sur leur risque.",
+ "profil": "Des patients, quel que soit l'âge, ayant un PTT héréditaire confirmé ou suspecté, et leurs apparentés.",
+ "inclusion": [
+  "Déficit sévère en ADAMTS13 (activité ≤ 10 %) sans inhibiteur, à deux reprises au moins à un mois d'intervalle",
+  "Ou analyse moléculaire du gène ADAMTS13 avec une ou plusieurs mutations",
+  "Ou test de perfusion positif (récupération complète de l'activité après plasma frais congelé, demi-vie de 2 à 4 jours)",
+  "Ou membre de la famille d'un patient confirmé ou suspecté"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non précisés"
+ ],
+ "bras": [
+  {"nom": "Patients avec PTT héréditaire", "traitement": "Observation : recueil de données cliniques, moléculaires et thérapeutiques, rétrospectives et prospectives"},
+  {"nom": "Apparentés", "traitement": "Observation de membres de la famille de patients avec PTT héréditaire confirmé"}
+ ],
+ "duree": "Suivi ouvert, jusqu'au décès ou au retrait du consentement",
+ "critere": "Présentation clinique et évolution du PTT héréditaire, évaluées chaque année jusqu'au décès"
+}

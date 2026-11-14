@@ -1,0 +1,33 @@
+{
+ "h": "fa6092918531",
+ "date": "2026-11-14",
+ "titre": "CAR-T CNCT19 anti-CD19 dans l'anémie hémolytique auto-immune après échec de 3 lignes",
+ "question": "Les CAR-T anti-CD19 CNCT19 sont-ils sûrs et efficaces dans les anémies hémolytiques auto-immunes réfractaires ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est due à des auto-anticorps dirigés contre les hématies. Le traitement de première ligne repose sur la corticothérapie, puis le rituximab en deuxième ligne. Au-delà, les options sont limitées : splénectomie, immunosuppresseurs (ciclosporine, cyclophosphamide, azathioprine, mycophénolate), bortézomib ou sutimlimab dans certaines formes. Une part des patients reste en échec ou dépendante de corticoïdes à fortes doses, avec une morbidité importante.\n\nLes lymphocytes B producteurs d'auto-anticorps expriment le CD19. Les CAR-T anti-CD19, issus de l'oncohématologie, induisent une déplétion B profonde et ont donné des résultats encourageants dans le lupus et d'autres maladies auto-immunes réfractaires. Cette étude de phase 1 chinoise, monocentrique, évalue le CAR-T autologue CNCT19 chez des patients ayant échoué à au moins trois lignes. Elle comporte une phase d'escalade puis d'expansion de dose, avec un suivi d'un an. Le critère principal est la tolérance.",
+ "interet": "Si la tolérance est acceptable et les premières réponses confirmées, les CAR-T anti-CD19 pourraient devenir une option pour les AHAI et syndromes d'Evans multi-réfractaires. Les données restent préliminaires (6 patients).",
+ "profil": "Des patients de 12 ans et plus avec une AHAI ou un syndrome d'Evans en échec d'au moins trois lignes de traitement.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "AHAI ou syndrome d'Evans en échec ≥ 3 lignes (corticoïdes, rituximab, au moins un traitement de 3e ligne)",
+  "Hémoglobine < 10 g/dl avec symptômes d'anémie",
+  "ECOG ≤ 2, espérance de vie > 3 mois",
+  "ALAT/ASAT ≤ 3 × LSN, saturation > 93 % sans oxygène"
+ ],
+ "exclusion": [
+  "AHAI secondaire à un médicament ou une infection",
+  "Antécédent de CAR-T, de greffe d'organe ou de cellules souches",
+  "Hépatite B/C, VIH ou syphilis positifs ; infection active",
+  "FEVG ≤ 45 % ou insuffisance cardiaque NYHA III-IV",
+  "Néoplasie dans les 5 ans (hors tumeurs à très faible risque)",
+  "Antécédent d'épilepsie ou atteinte active du système nerveux central",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CNCT19 (CAR-T anti-CD19)",
+   "traitement": "Perfusion de cellules CAR-T CNCT19 autologues après conditionnement, hospitalisation d'au moins 14 jours"
+  }
+ ],
+ "duree": "1 an de suivi",
+ "critere": "Fréquence et gravité des événements indésirables, dans les 12 mois suivant la perfusion."
+}

@@ -1,0 +1,32 @@
+{
+ "h": "91648aaad8d6",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA HBI0101 (NXC-201) dans le myélome et l'amylose AL en rechute",
+ "question": "Les CAR-T anti-BCMA HBI0101 (NXC-201) sont-elles efficaces et sûres dans le myélome multiple et l'amylose AL en rechute ou réfractaires ?",
+ "contexte": "Le myélome multiple et l'amylose AL sont deux maladies plasmocytaires. Dans l'amylose AL, des chaînes légères amyloïdogènes provoquent des atteintes d'organe, notamment cardiaque et rénale. Après les traitements de première ligne (anti-CD38, inhibiteur du protéasome, immunomodulateurs), les rechutes sont fréquentes et les options deviennent limitées.\n\nBCMA est une cible validée sur les plasmocytes. Les CAR-T anti-BCMA (idécabtagène, cilta-cel) ont démontré leur efficacité dans le myélome. Dans l'amylose AL, les données sont plus limitées, et les atteintes d'organe rendent la tolérance de ces traitements plus délicate.\n\nCette étude de phase 2 israélienne, monocentrique et à bras unique, évalue le HBI0101 (NXC-201), une CAR-T anti-BCMA fabriquée à partir d'une leucaphérèse du patient. Jusqu'à 180 patients seront inclus. Après lymphodéplétion, ils reçoivent une perfusion unique de 800 à 1200 × 10^6 cellules, puis une hospitalisation de quelques jours et un suivi de 24 mois. Les critères sont adaptés à chaque maladie : au moins deux lignes antérieures pour le myélome, au moins une ligne pour l'amylose AL.",
+ "interet": "L'étude pourrait documenter l'efficacité et la tolérance de cette CAR-T, notamment dans l'amylose AL où l'offre thérapeutique est restreinte. Elle est monocentrique et non comparative.",
+ "profil": "Des adultes atteints de myélome multiple ou d'amylose AL en rechute ou réfractaires, avec maladie mesurable.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "Myélome ou amylose AL en rechute ou réfractaire, avec maladie mesurable",
+  "Myélome : au moins 2 lignes antérieures (inhibiteur du protéasome, IMiD ou anti-CD38), ou rechute précoce (dans les 18 mois)",
+  "Amylose AL : au moins 1 ligne (inhibiteur du protéasome ou anti-CD38), ou réponse insuffisante (moins que VGPR)",
+  "ECOG 0 à 2",
+  "Toxicités non hématologiques antérieures revenues à grade ≤ 2",
+  "Pas de GVH active chez les patients allogreffés"
+ ],
+ "exclusion": [
+  "Atteinte volumineuse du système nerveux central",
+  "ASAT/ALAT > 2,5 N, bilirubine directe > 4 N, clairance de la créatinine < 20 mL/min",
+  "Neutrophiles < 1 G/L, plaquettes < 30 G/L ou hémoglobine < 8 g/dL",
+  "FEVG < 40 %, infarctus, AVC ou angor instable dans les 3 mois, arythmie ventriculaire",
+  "VIH, hépatite B ou C active, infection à CMV active",
+  "Immunosuppresseur chronique ou corticoïdes systémiques",
+  "Second cancer traité dans les 2 ans, grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "CAR-T BCMA", "traitement": "Dose unique de 800 à 1200 (± 20 %) × 10^6 cellules HBI0101, après lymphodéplétion" }
+ ],
+ "duree": "24 mois après la perfusion",
+ "critere": "Réponse clinique au HBI0101 CAR-T, évaluée sur 24 mois."
+}

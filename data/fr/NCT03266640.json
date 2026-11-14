@@ -1,0 +1,14 @@
+{
+ "h": "8575dc338e76",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T cytotoxiques anti-CMV d'un donneur apparenté dans l'infection réfractaire",
+ "question": "Des lymphocytes T spécifiques du CMV issus d'un donneur apparenté sont-ils sûrs et efficaces dans l'infection à CMV réfractaire ?",
+ "contexte": "L'infection à cytomégalovirus (CMV) reste une cause majeure de morbidité après allogreffe de cellules souches, greffe d'organe solide et chez les patients avec déficit immunitaire primitif. Le traitement repose sur le ganciclovir, le foscarnet ou le cidofovir, limités par la toxicité médullaire ou rénale et par l'apparition de résistances.\n\nCet essai pilote de phase 2 du New York Medical College évalue la perfusion de lymphocytes T cytotoxiques (CTL) spécifiques du CMV, prélevés chez un donneur apparenté et fabriqués avec le système Miltenyi CliniMACS Prodigy. Les patients reçoivent une première dose (2,5 x 10^4 CD3/kg si donneur HLA compatible, 0,5 x 10^4 CD3/kg sinon), avec jusqu'à 5 doses au total en l'absence de normalisation de la charge virale. L'étude est financée par la FDA (OOPD). Elle évalue la tolérance et la réponse jusqu'à 12 semaines après chaque perfusion.",
+ "interet": "L'étude pourrait apporter des données de sécurité et d'efficacité d'une thérapie cellulaire antivirale dans les infections à CMV réfractaires ou résistantes, en situation de recours.",
+ "profil": "Des enfants, adolescents et adultes jusqu'à 79 ans avec une infection à CMV réfractaire après allogreffe, greffe d'organe ou déficit immunitaire primitif.",
+ "inclusion": ["Infection à CMV réfractaire après allogreffe, greffe d'organe solide ou déficit immunitaire primitif", "Charge virale croissante ou persistante après 2 semaines d'antiviral, ou intolérance (neutropénie < 500 sous ganciclovir, toxicité rénale du foscarnet), ou résistance connue", "Âge de 1 mois à 79 ans, performance > 30 %", "Donneur apparenté avec réponse T au CMV (ou donneur tiers apparenté IgG CMV positif)", "Consentement écrit", "Test de grossesse négatif si femme en âge de procréer"],
+ "exclusion": ["GVHD aiguë > grade 2 ou GVHD chronique étendue", "Corticoïdes > 0,5 mg/kg de prednisone équivalent, perfusion de lymphocytes du donneur dans les 4 semaines", "ATG, alemtuzumab ou anticorps immunosuppresseurs T dans les 30 jours", "Rétinite, méningite, encéphalite ou cérébrite à CMV", "Autre essai expérimental sur le CMV réfractaire ; VIH connu", "Grossesse ou allaitement, hypersensibilité au dextran de fer, anticorps anti-souris humains"],
+ "bras": [{"nom": "CMV réfractaire", "traitement": "CTL anti-CMV d'un donneur apparenté, 2,5 x 10^4 CD3/kg (compatible) ou 0,5 x 10^4 CD3/kg (non compatible), jusqu'à 5 doses"}],
+ "duree": "12 semaines de suivi après chaque perfusion",
+ "critere": "Incidence des événements indésirables apparus sous traitement et incidence de réponse au traitement, suivis 12 semaines après chaque perfusion"
+}

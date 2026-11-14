@@ -1,0 +1,28 @@
+{
+ "h": "1ea9ad1502d4",
+ "date": "2026-11-14",
+ "titre": "Léniolisib au long cours dans les déficits immunitaires avec dérégulation de la voie PI3Kδ (extension)",
+ "question": "Le léniolisib est-il bien toléré et efficace à long terme chez des patients atteints de déficit immunitaire primitif lié à la voie PI3Kδ ?",
+ "contexte": "Le syndrome PI3Kδ activé (APDS) et les déficits immunitaires primitifs apparentés résultent d'une hyperactivation de la voie PI3Kδ. Ils entraînent infections récidivantes, lymphoprolifération, cytopénies auto-immunes et risque de lymphome. Les traitements usuels sont les immunoglobulines, les antibiotiques prophylactiques et des immunosuppresseurs (sirolimus, rituximab), dont la tolérance est limitée.\n\nLe léniolisib est un inhibiteur sélectif de PI3Kδ, par voie orale. Il est autorisé dans l'APDS à partir de 12 ans.\n\nCette étude est une extension ouverte, à bras unique, destinée aux patients ayant participé à l'étude précédente LE 7201 portant sur des déficits immunitaires primitifs avec dérégulation immunitaire liée à PI3Kδ. Elle permet de poursuivre le léniolisib en comprimés pelliculés chez 12 patients âgés de 12 à 75 ans, dans 5 centres de 3 pays. Le critère principal est la tolérance à long terme, sur environ 3 ans. Des mesures d'efficacité et d'immunophénotypage sont des critères secondaires et exploratoires. Le promoteur est Pharming.",
+ "interet": "L'étude doit documenter la sécurité à long terme du léniolisib dans des déficits immunitaires proches de l'APDS, avec un effectif très réduit. Elle n'a pas de comparateur.",
+ "profil": "Des patients de 12 à 75 ans atteints d'un déficit immunitaire primitif lié à PI3Kδ, déjà inclus dans l'étude LE 7201.",
+ "inclusion": [
+  "Participation préalable à l'étude LE 7201",
+  "Bénéfice attendu d'un traitement prolongé par léniolisib selon l'investigateur",
+  "Capacité à comprendre le protocole et à signer le consentement (représentant légal si moins de 18 ans)"
+ ],
+ "exclusion": [
+  "Greffe allogénique de cellules souches réussie",
+  "Immunosuppresseurs récents (inhibiteur de mTOR ou de PI3Kδ, rituximab, anti-JAK, ciclosporine, mycophénolate, corticoïdes > 25 mg/j de prednisone)",
+  "Inhibiteur puissant ou inducteur du CYP3A, substrats de BCRP, OATP1B1 ou OATP1B3",
+  "VIH, VHB ou VHC, tuberculose (QuantiFERON positif), infection chronique non contrôlée",
+  "Insuffisance cardiaque NYHA III-IV, BPCO GOLD 3-4, insuffisance hépatique ou DFGe < 30 mL/min/1,73 m²",
+  "Lymphome récent, autre cancer dans les 3 ans, syndrome lymphoprolifératif lié à l'EBV non contrôlé",
+  "Grossesse ou allaitement, vaccin vivant dans les 6 semaines précédentes"
+ ],
+ "bras": [
+  { "nom": "Léniolisib", "traitement": "Léniolisib en comprimés pelliculés (dose non précisée dans le registre)" }
+ ],
+ "duree": "Environ 3 ans de traitement",
+ "critere": "Sécurité et tolérance à long terme du léniolisib, de l'inclusion à environ 3 ans de traitement."
+}

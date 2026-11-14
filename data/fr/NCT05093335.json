@@ -1,0 +1,27 @@
+{
+ "h": "a678f9579ac5",
+ "date": "2026-11-14",
+ "titre": "TEP au [68Ga]-pentixafor ciblant CXCR4 dans les hémopathies, histiocytoses et tumeurs solides",
+ "question": "Quelle est la captation du traceur [68Ga]-pentixafor, qui cible le récepteur CXCR4, dans les hémopathies lymphoïdes, les histiocytoses et certaines tumeurs solides ?",
+ "contexte": "CXCR4 est un récepteur de chimiokine exprimé à la surface de nombreuses cellules tumorales, notamment dans les lymphomes, le myélome et plusieurs tumeurs solides. Il intervient dans la migration, l'adhésion à la moelle osseuse et la résistance aux traitements. Son expression peut donc avoir un intérêt pronostique et thérapeutique.\n\nLe pentixafor marqué au gallium 68 est un traceur TEP qui se fixe sur CXCR4. Il pourrait aider à imager les lymphomes indolents ou à captation variable du FDG, le myélome et les néoplasies histiocytaires (histiocytose langerhansienne, maladie d'Erdheim-Chester, maladie de Rosai-Dorfman). Sa place chez l'homme reste à préciser.\n\nCette phase 1 du Memorial Sloan Kettering Cancer Center inclut 30 adultes, à bras unique. Chaque participant reçoit en injection IV 3 à 5 mCi de [68Ga]-pentixafor avant une TEP/TDM d'environ 1,5 heure. Le critère principal est la valeur de captation standardisée (SUV) des tumeurs.",
+ "interet": "L'étude pourrait montrer si l'imagerie CXCR4 visualise les lésions de ces maladies rares, avec une éventuelle valeur complémentaire à la TEP au FDG. Il s'agit d'une phase exploratoire.",
+ "profil": "Des adultes suivis au MSKCC pour un lymphome non hodgkinien, une gammopathie ou un myélome, une néoplasie histiocytaire ou une tumeur solide.",
+ "inclusion": [
+  "Lymphome non hodgkinien indolent ou à captation variable du FDG, avec maladie mesurable (Lugano)",
+  "Ou néoplasie histiocytaire (LCH, maladie d'Erdheim-Chester, Rosai-Dorfman)",
+  "Ou MGUS, myélome indolent ou myélome selon l'IMWG",
+  "Ou tumeur solide (cancer du poumon, méningiome, tumeur corticosurrénale, suspicion de maladie de Cushing)",
+  "Âge ≥ 18 ans, test de grossesse négatif",
+  "Patient du MSKCC"
+ ],
+ "exclusion": [
+  "Allaitement",
+  "Insuffisance rénale (DFG < 30)",
+  "Refus ou impossibilité de supporter l'examen (claustrophobie)"
+ ],
+ "bras": [
+  { "nom": "[68Ga]-pentixafor", "traitement": "Injection IV de 3 à 5 mCi de [68Ga]-pentixafor, suivie d'une TEP/TDM (certains patients ont 2 examens)" }
+ ],
+ "duree": "1 an",
+ "critere": "Valeur de captation standardisée (SUV) tumorale, à 1 an"
+}

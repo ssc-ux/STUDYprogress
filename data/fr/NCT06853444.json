@@ -1,0 +1,47 @@
+{
+ "h": "24b7e3e4effd",
+ "date": "2026-11-14",
+ "titre": "ESG206 (anti-BAFF-R) dans le PTI primaire : phase 1/2",
+ "question": "L'anticorps anti-BAFF-R ESG206 est-il sûr, bien toléré et actif chez des adultes ayant un PTI primaire en échec des corticoïdes ?",
+ "contexte": "Le PTI primaire est une maladie auto-immune où la destruction des plaquettes par des auto-anticorps est associée à une production plaquettaire insuffisante. Après les corticoïdes avec ou sans immunoglobulines IV, les options de deuxième ligne comprennent les agonistes du récepteur de la TPO, le rituximab et la splénectomie. Beaucoup de patients rechutent ou restent en échec.\n\nLe récepteur BAFF-R est exprimé par les lymphocytes B et contrôle leur survie. L'ESG206, anticorps monoclonal dirigé contre BAFF-R, vise à déplétionner les lymphocytes B autoréactifs, comme le fait le ianalumab, déjà étudié dans le PTI. Cette phase 1/2 ouverte et multicentrique, promue par Shanghai Escugen Biotechnology, comprend une escalade de dose en phase 1 puis une cohorte d'extension en phase 2, chez 84 patients, avec quatre niveaux de dose par voie intraveineuse.",
+ "interet": "Elle donnera les premières données de tolérance, de pharmacocinétique et d'activité de l'ESG206 dans le PTI, pour sélectionner la dose d'un futur essai randomisé.",
+ "profil": "Des adultes ayant un PTI primaire, déjà traités par corticoïdes avec ou sans immunoglobulines, avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "PTI primaire déjà traité par corticoïdes ± immunoglobulines IV",
+  "Perte de réponse, réponse insuffisante, absence de réponse ou intolérance au dernier traitement",
+  "Plaquettes < 30 G/L à deux reprises à ≥ 24 h d'intervalle",
+  "Fonction d'organe adéquate, échelle de saignement OMS 0-1",
+  "Contraception efficace jusqu'à 180 jours après la dernière dose"
+ ],
+ "exclusion": [
+  "PTI secondaire ou cytopénies immunes multiples (dont syndrome d'Evans)",
+  "Traitement antérieur déplétant les lymphocytes B (rituximab, ianalumab)",
+  "Transfusion ou traitement de secours dans les 14 jours ; splénectomie dans les 12 semaines",
+  "Saignement menaçant le pronostic vital, trouble de la coagulation, anticoagulant ou antiagrégant (sauf aspirine ≤ 150 mg/j)",
+  "Thrombose dans les 6 mois, maladie cardiovasculaire ou pulmonaire sévère, hypertension non contrôlée",
+  "VIH, hépatite B ou C active, cirrhose, infection active ou récurrente significative",
+  "Cancer en cours ou antérieur (sauf exceptions)",
+  "Hypersensibilité aux anticorps monoclonaux, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "ESG206 niveau de dose 1",
+   "traitement": "ESG206 par voie intraveineuse, dose 1"
+  },
+  {
+   "nom": "ESG206 niveau de dose 2",
+   "traitement": "ESG206 par voie intraveineuse, dose 2"
+  },
+  {
+   "nom": "ESG206 niveau de dose 3",
+   "traitement": "ESG206 par voie intraveineuse, dose 3"
+  },
+  {
+   "nom": "ESG206 niveau de dose 4",
+   "traitement": "ESG206 par voie intraveineuse, dose 4"
+  }
+ ],
+ "duree": "Environ 22 semaines (14 semaines de traitement, 8 semaines de suivi), après un dépistage de 28 jours au plus",
+ "critere": "Fréquence des événements indésirables apparus sous traitement (jusqu'à 24 semaines) et taux de réponse confirmée entre la semaine 1 et la semaine 25."
+}

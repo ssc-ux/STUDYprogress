@@ -1,0 +1,28 @@
+{
+ "h": "84de4e055aa9",
+ "date": "2026-11-14",
+ "titre": "Sclérostine circulante et atteinte osseuse dans la mastocytose",
+ "question": "La sclérostine joue-t-elle un rôle dans les lésions osseuses de la mastocytose ?",
+ "contexte": "La mastocytose est un groupe rare et hétérogène de maladies caractérisées par l'accumulation de mastocytes clonaux dans la peau, la moelle osseuse, le foie ou d'autres organes. Le squelette est la localisation la plus fréquente de la mastocytose systémique : environ 70 % des patients ont une atteinte osseuse (ostéoporose, ostéolyse, ostéosclérose). Sa physiopathologie est mal comprise.\n\nLa sclérostine, protéine produite par les ostéocytes, inhibe la formation osseuse et son rôle est reconnu dans l'ostéoporose. Cette étude polonaise cas-témoins mesure la sclérostine plasmatique (totale et bioactive), l'expression du gène SOST en PCR et dans une lignée mastocytaire HMC-1.2, et la taille des lésions ostéolytiques et ostéosclérotiques en scanner faible dose. Elle compare des adultes avec mastocytose selon la forme (indolente, indolente à bas risque, SM-AHN, agressive, cutanée) et des volontaires sains.",
+ "interet": "Elle pourrait préciser le rôle de la sclérostine dans l'atteinte osseuse de la mastocytose et ouvrir des pistes thérapeutiques.",
+ "profil": "Des adultes avec mastocytose de tous types, comparés à des volontaires sains.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Mastocytose selon les critères de l'OMS",
+  "Statut de la mutation KIT connu"
+ ],
+ "exclusion": [
+  "Antécédent de greffe d'organe",
+  "Incapacité à donner son consentement",
+  "Grossesse ou allaitement",
+  "Patient vulnérable (autre maladie grave non contrôlée ou sous protection juridique)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec mastocytose",
+   "traitement": "Dosage de la sclérostine, expression de SOST, scanner faible dose"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Sclérostine plasmatique (pmol/l), expression de SOST par PCR et taille des lésions ostéolytiques et ostéosclérotiques au scanner faible dose, à 1 an."
+}

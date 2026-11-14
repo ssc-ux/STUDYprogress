@@ -1,0 +1,34 @@
+{
+ "h": "adb3ff7e4302",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19 universelles (UWD-CD19) dans les maladies auto-immunes réfractaires",
+ "question": "Les CAR-T anti-CD19 allogéniques (UWD-CD19) sont-elles sûres chez des patients ayant une maladie auto-immune réfractaire ?",
+ "contexte": "Les maladies auto-immunes systémiques (lupus, syndrome de Sjögren, sclérodermie, myopathies inflammatoires, vascularites à ANCA) reposent en partie sur des lymphocytes B auto-réactifs produisant des auto-anticorps. Les corticoïdes, immunosuppresseurs et biothérapies laissent certains patients en échec ou en rechute.\n\nLes CAR-T anti-CD19 autologues ont montré des rémissions profondes dans le lupus et d'autres maladies, mais leur fabrication individuelle est longue et coûteuse. Les cellules universelles (allogéniques) UWD-CD19 sont des produits prêts à l'emploi, ce qui pourrait en faciliter l'accès. Cette étude de phase 1/2, à un seul bras, évalue la sécurité et la dose maximale tolérée chez 9 patients. Elle est promue par l'hôpital Peking University Third (Chine).",
+ "interet": "Si la sécurité est acceptable, des CAR-T prêtes à l'emploi pourraient rendre ces thérapies cellulaires plus accessibles. Le très petit effectif limite la portée à une étude de faisabilité.",
+ "profil": "Des adultes de 18 à 80 ans atteints d'une maladie auto-immune réfractaire (lupus, Sjögren, sclérodermie, myopathie inflammatoire, vascularite à ANCA).",
+ "inclusion": [
+  "Âge 18-80 ans, poids > 40 kg",
+  "Maladie auto-immune réfractaire (échec > 6 mois du traitement conventionnel, ou rechute après rémission)",
+  "Traitement de fond stable ; prednisone ≤ 30 mg/j",
+  "Critères d'activité propres à la maladie (ex. SLEDAI ≥ 8, ESSDAI ≥ 5, BVAS ≥ 15, mRSS > 10 ou PID active)",
+  "Contraception efficace ; test de grossesse négatif",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Abus d'alcool ou de substances dans les 24 semaines, trouble psychiatrique majeur",
+  "Cancer autre qu'un lymphome B",
+  "VIH, hypogammaglobulinémie, hépatite B ou C chronique, tuberculose ou infection bactérienne active",
+  "Infarctus, angioplastie ou événement cardiaque significatif dans les 6 mois, TVP ou EP dans les 6 mois",
+  "ALAT/ASAT/PAL ≥ 3 N, bilirubine > 1,5 N, DFG < 30 mL/min",
+  "Hb < 70 g/L, PNN < 500/mm³ ou plaquettes < 50 000/mm³",
+  "Réaction sévère antérieure au cyclophosphamide ou à la fludarabine, CAR-T antérieure"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-CD19 (UWD-CD19)",
+   "traitement": "Cellules CAR-T universelles anti-CD19, associées à des immunosuppresseurs ; dose non précisée (recherche de la dose maximale tolérée)"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Sécurité de l'injection d'UWD-CD19 sur 0 à 6 mois et dose maximale tolérée sur 28 jours."
+}

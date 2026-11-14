@@ -1,0 +1,35 @@
+{
+ "h": "d4364f7533e9",
+ "date": "2026-11-14",
+ "titre": "CM336, anticorps bispécifique BCMA-CD3, dans le PTI primaire réfractaire",
+ "question": "L'anticorps bispécifique BCMA-CD3 CM336 est-il efficace et bien toléré chez des adultes ayant un PTI primaire réfractaire ?",
+ "contexte": "Le PTI est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et où la production plaquettaire est altérée. Après les corticoïdes, les options comprennent les agonistes du récepteur de la TPO, le rituximab, la splénectomie et divers immunosuppresseurs. Une part importante des patients reste en échec ou dépend d'un traitement d'entretien.\n\nLes plasmocytes à longue durée de vie, qui produisent des auto-anticorps, échappent aux anti-CD20 et pourraient expliquer les résistances. Cibler ces cellules est une piste : les anti-CD38 ont déjà donné de bons résultats dans le PTI réfractaire selon l'équipe. Le CM336 est un anticorps bispécifique qui lie BCMA (présent sur les plasmocytes) et CD3 (lymphocytes T), pour recruter les lymphocytes T contre les plasmocytes. Cette phase 2 exploratoire, à un seul bras, inclut 20 à 30 adultes. Elle est promue par l'Institut d'hématologie et hôpital des maladies du sang (Chine).",
+ "interet": "Elle explorera une approche ciblant les plasmocytes dans les PTI en impasse thérapeutique. Le faible effectif et l'absence de comparateur limitent la portée à une première estimation de l'efficacité et de la tolérance.",
+ "profil": "Des adultes ayant un PTI persistant ou chronique, en échec des corticoïdes et d'au moins un traitement de deuxième ligne.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI persistant ou chronique",
+  "Échec des corticoïdes",
+  "Échec d'un ago-RTPO, d'un anti-CD20 ou anti-CD38, ou d'une splénectomie",
+  "Plaquettes < 30 G/L dans les 48 h avant la première dose",
+  "ECOG ≤ 2",
+  "Traitement d'entretien (prednisone ≤ 20 mg, ago-RTPO) à dose stable depuis ≥ 4 semaines"
+ ],
+ "exclusion": [
+  "Traitement antérieur par anticorps anti-BCMA",
+  "Thrombopénie secondaire ou héréditaire, anémie hémolytique auto-immune",
+  "Thrombose dans les 12 mois ou saignement sévère",
+  "Anticoagulant ou antiagrégant dans les 3 semaines",
+  "Splénectomie < 6 mois ; anti-CD20 ou anti-CD38 < 3 mois",
+  "Infections récurrentes ou chroniques, immunosuppression, VIH, hépatite B ou C, syphilis",
+  "Cancer dans les 5 ans",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CM336",
+   "traitement": "CM336 injectable (20 à 30 participants prévus), dose et rythme non précisés"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Efficacité à 12 semaines (réponse plaquettaire) et sécurité du CM336 sur 52 semaines."
+}

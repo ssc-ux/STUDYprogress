@@ -1,0 +1,27 @@
+{
+ "h": "c822feb8b9c4",
+ "date": "2026-11-14",
+ "titre": "Régurgitations mitrale et tricuspide dans l'amylose cardiaque à transthyrétine : définition et pronostic",
+ "question": "Quelle est la prévalence des régurgitations mitrale et tricuspide dans l'amylose cardiaque à transthyrétine (ATTR-CM), et quel est leur impact sur la mortalité ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cardiomyopathie restrictive, de plus en plus diagnostiquée chez les sujets âgés. Des traitements spécifiques existent, mais le pronostic reste variable et l'atteinte valvulaire est fréquente.\n\nLes régurgitations mitrale et tricuspide sont classées en échographie selon des seuils conçus pour des ventricules dilatés. Ces grades reflètent mal la physiologie d'un cœur restrictif de petite taille, avec des pressions de remplissage élevées. Ce registre prospectif international, promu par l'Université médicale de Vienne, inclut 600 patients avec ATTR-CM et bilan échographique complet. Il caractérise la prévalence et les paramètres (semi-)quantitatifs des régurgitations, et vise à proposer de nouveaux grades de sévérité adaptés à l'ATTR-CM, en lien avec la mortalité.",
+ "interet": "Elle pourrait fournir une classification plus pertinente des fuites valvulaires dans l'ATTR-CM, utile pour le pronostic et la discussion d'un geste valvulaire.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine avec une échocardiographie complète au diagnostic.",
+ "inclusion": [
+  "Diagnostic d'ATTR-CM selon les critères actuels",
+  "Échocardiographie initiale complète avec paramètres de régurgitation mitrale et tricuspide, à ± 6 mois du diagnostic",
+  "Âge ≥ 18 ans",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Valvulopathie aortique sévère nécessitant une intervention",
+  "Incapacité à consentir ou à assurer le suivi"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTR-CM",
+   "traitement": "Cohorte prospective avec échographie, suivie pour la mortalité (observationnel)"
+  }
+ ],
+ "duree": "Jusqu'à 60 mois",
+ "critere": "Mortalité toutes causes, jusqu'à 60 mois."
+}

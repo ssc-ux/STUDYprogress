@@ -1,0 +1,23 @@
+{
+ "h": "50e7d4b72138",
+ "date": "2026-11-14",
+ "titre": "ADAMTS13 recombinante dans le PTT congénital : enquête au Japon",
+ "question": "Quelle est la tolérance de l'ADAMTS13 recombinante chez les patients japonais avec PTT congénital ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique congénital (PTTc, syndrome d'Upshaw-Schulman) est une microangiopathie thrombotique rare due à une mutation du gène ADAMTS13 et à un déficit sévère en enzyme. Il provoque des épisodes de thrombopénie, d'hémolyse mécanique et d'atteinte d'organes (cerveau, rein). Le traitement historique par plasma frais congelé a été remplacé en grande partie par l'ADAMTS13 recombinante en traitement ou en prévention des épisodes.\n\nCette enquête de pharmacovigilance post-commercialisation, financée par Takeda, recueille au Japon les données de pratique courante sur l'ADAMTS13 recombinante administrée par voie intraveineuse. Le promoteur n'intervient pas dans le choix du traitement. Environ 40 patients sont suivis 18 mois pour vérifier la tolérance et l'efficacité préventive ou curative.",
+ "interet": "Elle précisera la tolérance du traitement substitutif dans une maladie très rare, avec des données japonaises de pratique réelle.",
+ "profil": "Des patients de tout âge avec PTT congénital traités par ADAMTS13 recombinante au Japon.",
+ "inclusion": [
+  "PTT congénital traité par ADAMTS13 recombinante"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "ADAMTS13 recombinante",
+   "traitement": "Injection intraveineuse selon la pratique du centre"
+  }
+ ],
+ "duree": "18 mois",
+ "critere": "Nombre de participants avec au moins un événement indésirable émergent du traitement, jusqu'à 18 mois."
+}

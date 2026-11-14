@@ -1,0 +1,27 @@
+{
+ "h": "2bb0216db68d",
+ "date": "2026-11-14",
+ "titre": "Profil des cytokines sanguines dans les maladies inflammatoires systémiques (FEBRIS)",
+ "question": "Le profil de cytokines sanguines peut-il aider à diagnostiquer et suivre les patients atteints de maladies inflammatoires systémiques ?",
+ "contexte": "Les maladies inflammatoires systémiques regroupent les maladies auto-inflammatoires (FMF, déficit en mévalonate kinase, TRAPS, CAPS, interféronopathies, Still), les maladies auto-immunes (lupus, polyarthrite, dermatomyosite juvénile) et les syndromes hyperinflammatoires (lymphohistiocytose hémophagocytaire, syndrome d'activation macrophagique, orage cytokinique). Leur diagnostic est difficile car les symptômes se recoupent, et les biomarqueurs usuels (CRP, ferritine) manquent de spécificité.\n\nLe test FEBRIS est un dosage multiplex de cytokines pro- et anti-inflammatoires, développé sur une cohorte rétrospective. Cette étude multicentrique prospective, dans 5 hôpitaux des Flandres (Belgique), cherche à le valider chez des patients enfants et adultes avec une suspicion de maladie inflammatoire systémique. Un volume sanguin supplémentaire est prélevé pour la recherche et suivi dans le temps. Les cytokines étudiées incluent IL-1β, IL-1RA, IL-6, IL-18, TNF, CXCL9 et CXCL10.",
+ "interet": "Si le profil cytokinique est validé, il pourrait raccourcir l'errance diagnostique et guider le choix des traitements ciblés (anti-IL-1, anti-IL-6, anti-JAK).",
+ "profil": "Des enfants et adultes avec une maladie inflammatoire systémique suspectée ou confirmée, et des volontaires sains témoins.",
+ "inclusion": [
+  "Enfant ou adulte, consentement écrit",
+  "Maladie inflammatoire systémique suspectée ou confirmée (auto-inflammatoire, auto-immune, hyperinflammatoire ou non identifiée)",
+  "Prélèvement sanguin diagnostique prévu et possibilité d'un volume supplémentaire",
+  "Volontaires sains acceptés comme témoins"
+ ],
+ "exclusion": [
+  "Infection localisée confirmée ou bonne réponse à une antibiothérapie de première ligne",
+  "Cancer confirmé"
+ ],
+ "bras": [
+  {
+   "nom": "Évaluation des cytokines",
+   "traitement": "Dosage multiplex de cytokines et profilage lipidomique sur le sang, avec suivi longitudinal"
+  }
+ ],
+ "duree": "Jusqu'à 48 mois",
+ "critere": "Mesure des cytokines sériques (IL-1β, IL-1RA, IL-6, IL-18, TNF, CXCL9, CXCL10) sur la durée de l'étude (jusqu'à 48 mois)."
+}

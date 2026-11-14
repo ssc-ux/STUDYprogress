@@ -1,0 +1,29 @@
+{
+ "h": "79ee72fd29eb",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T allo-déplétés avec gène suicide caspase 9 inductible après greffe haplo-identique",
+ "question": "Quelle dose maximale de lymphocytes T du donneur, allo-déplétés et porteurs d'un gène suicide iCasp9, peut-on administrer après une greffe de cellules souches haplo-identique en gardant un taux de GvHD de grade III/IV de 25 % ou moins ?",
+ "contexte": "La greffe de cellules souches haplo-identique permet de greffer des patients sans donneur compatible, mais elle expose à un risque accru de maladie du greffon contre l'hôte (GvHD) et à une reconstitution immunitaire lente. La GvHD est une complication parfois fatale, due à la reconnaissance des tissus du receveur comme étrangers par les cellules du donneur.\n\nL'étude CASPALLO (phase 1, Baylor College of Medicine) teste des lymphocytes T du donneur dont les cellules alloréactives ont été éliminées en laboratoire, puis transduits par un gène suicide iCasp9. Ce gène permet de détruire les cellules en cas de GvHD, par un médicament expérimental, l'AP1903. L'espoir est de pouvoir administrer des doses plus élevées de lymphocytes pour accélérer la reconstitution immunitaire. Les cellules sont perfusées une fois, entre J30 et J90 après la greffe. Les patients sont suivis 15 ans en raison du transfert de gène. Le résultat de l'AP1903 sur la GvHD humaine n'était pas établi.",
+ "interet": "L'étude teste le principe d'un interrupteur de sécurité permettant d'accélérer la reconstitution immunitaire après greffe haplo-identique. Les résultats ne sont pas encore au registre.",
+ "profil": "Des patients jusqu'à 65 ans recevant une greffe haplo-identique pour une hémopathie ou une lymphohistiocytose hémophagocytaire, sans donneur conventionnel adéquat.",
+ "inclusion": [
+  "Âge ≤ 65 ans",
+  "LAL ou lymphome non hodgkinien agressif stade III-IV en rechute ou réfractaire, SMD, LAM en rechute ou réfractaire, LMC, ou lymphohistiocytose hémophagocytaire et syndromes apparentés",
+  "Pas de donneur conventionnel adapté (5/6 ou 6/6) ou maladie rapidement évolutive",
+  "Avant la perfusion : greffe prise (PNN > 500), chimérisme donneur ≥ 50 % ou rechute",
+  "Espérance de vie > 30 jours, score Lansky/Karnofsky ≥ 60",
+  "Fonctions rénale, hépatique et saturation en oxygène (> 94 %) conservées",
+  "Consentement du patient ou du tuteur"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "GvHD au moment de la perfusion",
+  "Infection intercurrente sévère",
+  "Autre médicament expérimental dans les 30 jours précédents"
+ ],
+ "bras": [
+  {"nom": "Niveaux de dose 1 à 3", "traitement": "Perfusion unique de lymphocytes T du donneur allo-déplétés et modifiés par le gène suicide iCasp9, entre J30 et J90 après la greffe ; AP1903 en cas de GvHD"}
+ ],
+ "duree": "Suivi de 15 ans (transfert de gène)",
+ "critere": "Nombre maximal de lymphocytes du donneur modifiés administrables avec un taux de GvHD de grade III/IV ≤ 25 %, à 45 jours"
+}

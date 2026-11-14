@@ -1,0 +1,23 @@
+{
+ "h": "5f3f2378a4c6",
+ "date": "2026-11-14",
+ "titre": "Registre de l'amylose cardiaque de l'hôpital universitaire de Leipzig",
+ "question": "Quelle est l'évolution à long terme des patients atteints d'amylose cardiaque suivis en pratique courante à Leipzig ?",
+ "contexte": "L'amylose cardiaque est de plus en plus diagnostiquée, grâce à une meilleure connaissance des signaux d'alerte, des algorithmes diagnostiques et des traitements spécifiques comme les stabilisateurs de la TTR. Les patients des essais randomisés sont très sélectionnés et ne reflètent pas toujours la pratique réelle.\n\nLes registres permettent de décrire l'épidémiologie, l'usage des méthodes diagnostiques, l'impact des comorbidités et l'évolution en vie réelle. Ils peuvent aussi valider les données des essais, informer sur la mise en oeuvre des traitements et leur sécurité.\n\nCe registre monocentrique de l'Université de Leipzig recueille les données de la prise en charge courante : événements cardiaques, mesures échographiques et hémodynamiques, biomarqueurs circulants, morphologie cardiaque en imagerie (valeurs T1, volume extracellulaire), état clinique, capacité fonctionnelle et qualité de vie, pendant 10 ans.",
+ "interet": "Le registre donnera des données de long terme sur la mortalité, les hospitalisations et l'évolution des biomarqueurs, utiles pour situer les résultats des essais en vie réelle.",
+ "profil": "Des adultes atteints d'amylose cardiaque confirmée, suivis à Leipzig.",
+ "inclusion": [
+  "Amylose cardiaque confirmée selon les standards actuels"
+ ],
+ "exclusion": [
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose cardiaque",
+   "traitement": "Patients suivis au CHU de Leipzig : diagnostics et traitements de routine"
+  }
+ ],
+ "duree": "10 ans",
+ "critere": "Mortalité totale et cardiaque, aggravation de l'insuffisance cardiaque, hospitalisations, évolution de la FEVG, de l'épaisseur pariétale, de la pression artérielle, des valeurs T1 et VEC, du NT-proBNP et de la troponine T sur 10 ans."
+}

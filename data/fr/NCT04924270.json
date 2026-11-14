@@ -1,0 +1,29 @@
+{
+ "h": "a095ec54e9c9",
+ "date": "2026-11-14",
+ "titre": "Transplantation de microbiote fécal en gélules dans les maladies inflammatoires chroniques récentes",
+ "question": "Des gélules de microbiote fécal, associées au traitement standard, améliorent-elles la qualité de vie physique de patients atteints d'une maladie inflammatoire chronique rhumatologique ou digestive récente, jamais traitée ?",
+ "contexte": "La polyarthrite rhumatoïde, la spondylarthrite ankylosante, le rhumatisme psoriasique, la maladie de Crohn et la rectocolite hémorragique sont des maladies inflammatoires chroniques qui nécessitent un traitement au long cours, souvent par immunosuppresseurs ou biothérapies. Plusieurs données suggèrent un rôle du microbiote intestinal dans leur déclenchement et leur entretien.\n\nLa transplantation de microbiote fécal (TMF) est établie dans les infections récidivantes à Clostridioides difficile. Elle est explorée dans les maladies inflammatoires, avec des résultats encore incertains, notamment dans les maladies inflammatoires de l'intestin. Elle est ici testée très tôt dans l'histoire de la maladie, avant tout traitement de fond.\n\nCette phase 2 danoise, promue par l'hôpital universitaire d'Odense, est randomisée, en double aveugle et contrôlée par placebo. Elle inclut 200 patients nouvellement diagnostiqués, jamais traités. Ils reçoivent 4 doses hebdomadaires de TMF en gélules (donneur unique) ou de placebo, en plus du traitement de première ligne recommandé par les guides nationaux. Le critère principal est le score physique du SF-36 à 8 semaines, le suivi dure 12 mois.",
+ "interet": "L'étude pourrait indiquer si la TMF apporte un bénéfice précoce transversal à plusieurs maladies inflammatoires, avec un profil de tolérance documenté. Il s'agit d'une étude exploratoire.",
+ "profil": "Des adultes de 18 à 75 ans ayant une polyarthrite rhumatoïde, une spondylarthrite, un rhumatisme psoriasique, une maladie de Crohn ou une RCH nouvellement diagnostiquée, sans traitement antérieur.",
+ "inclusion": [
+  "Diagnostic récent de PR, SA, rhumatisme psoriasique, maladie de Crohn ou RCH",
+  "Aucun traitement de fond ou anti-inflammatoire systémique (dont corticoïdes) dans les 3 mois",
+  "Indication au traitement de première ligne des recommandations nationales, accepté par le patient",
+  "Âge de 18 à 75 ans"
+ ],
+ "exclusion": [
+  "Indication d'une biothérapie d'emblée",
+  "Maladie cœliaque ou allergie alimentaire",
+  "Cancer en cours",
+  "Hépatite B ou C, VIH, HTLV 1/2, tuberculose active ou autre infection chronique grave",
+  "Grossesse ou allaitement",
+  "Patient non souhaitant ou non adapté à la TMF ou à l'évaluation du projet"
+ ],
+ "bras": [
+  { "nom": "TMF en gélules", "traitement": "Microbiote fécal d'un donneur sain unique, en gélules, 1 fois par semaine pendant 4 semaines" },
+  { "nom": "Placebo", "traitement": "Gélules placebo selon le même rythme" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Variation du score physique (PCS) du SF-36 entre l'inclusion et 8 semaines"
+}

@@ -1,0 +1,34 @@
+{
+ "h": "970a3c8b831a",
+ "date": "2026-11-14",
+ "titre": "Lanadélumab dans l'angiœdème héréditaire en pratique réelle (Royaume-Uni)",
+ "question": "Quel est le nombre de crises d'angiœdème héréditaire avant et après l'instauration du lanadélumab en pratique courante au Royaume-Uni ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est dû à un déficit quantitatif ou fonctionnel en inhibiteur de la C1 estérase. Il provoque des crises imprévisibles d'œdèmes sous-cutanés et muqueux, parfois laryngés. Le traitement de fond vise à réduire la fréquence des crises.\n\nLe lanadélumab est un anticorps monoclonal anti-kallicréine plasmatique, administré par voie sous-cutanée, déjà validé en prophylaxie à long terme de l'AOH par des essais contrôlés. Les données en vie réelle restent utiles pour confirmer ce bénéfice hors du cadre strict d'un essai. Cette étude observationnelle de Takeda, menée au Royaume-Uni, compare les crises des 12 mois précédant le traitement à celles des 24 mois suivants, à partir de journaux, questionnaires et dossiers médicaux. Les patients sont contactés par téléphone tous les 3 mois. Trois cohortes sont suivies : prévalente A, prévalente B (traités depuis moins de 12 mois) et incidente A.",
+ "interet": "Les données de vie réelle pourraient confirmer la réduction des crises, y compris celles nécessitant un traitement à la demande, sous lanadélumab dans la pratique britannique.",
+ "profil": "Des adolescents et adultes atteints d'AOH de type I ou II, traités ou sur le point d'être traités par lanadélumab.",
+ "inclusion": [
+  "AOH de type I ou II documenté biologiquement",
+  "Lanadélumab initié ou prévu dans les 4 semaines",
+  "Âge ≥ 12 ans à l'instauration",
+  "Au moins 12 mois de données médicales avant l'instauration"
+ ],
+ "exclusion": [
+  "Exposition antérieure au lanadélumab dans un essai clinique"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte prévalente A",
+   "traitement": "Tous les patients ayant débuté le lanadélumab à un moment quelconque ; suivi de 12 mois avant à 24 mois après"
+  },
+  {
+   "nom": "Cohorte prévalente B",
+   "traitement": "Sous-groupe traité depuis moins de 12 mois"
+  },
+  {
+   "nom": "Cohorte incidente A",
+   "traitement": "Patients débutant le lanadélumab pendant la période de recueil prospectif"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois après l'instauration du lanadélumab",
+ "critere": "Nombre de crises d'AOH (totales et nécessitant un traitement à la demande), sur environ 3 ans."
+}

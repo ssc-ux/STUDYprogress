@@ -1,0 +1,38 @@
+{
+ "h": "bb1cf0a3dd3e",
+ "date": "2026-11-14",
+ "titre": "Durée de l'entretien par daratumumab dans l'amylose AL (EMILIA)",
+ "question": "Un entretien court (3 à 6 cycles) par daratumumab est-il aussi efficace qu'un entretien long (18 cycles) après induction dans l'amylose AL ?",
+ "contexte": "L'amylose AL est causée par un clone plasmocytaire produisant des chaînes légères amyloïdogènes. Le daratumumab associé à cyclophosphamide, bortézomib et dexaméthasone (Dara-CyBorD) est devenu le traitement standard de première ligne. Il obtient des réponses hématologiques rapides et profondes, qui conditionnent la récupération des organes.\n\nLe rôle d'un entretien par daratumumab après l'induction et sa durée optimale ne sont pas établis. Un traitement prolongé expose à des infections, entraîne des contraintes et des coûts. À l'inverse, un arrêt trop précoce pourrait favoriser les rechutes. Cet essai de phase 2 de la Mayo Clinic (EMILIA) randomise des patients ayant fini 6 cycles d'induction et obtenu une réponse hématologique : daratumumab sous-cutané pendant 6 cycles au plus, ou jusqu'à 18 cycles de 28 jours. Le critère principal est la survie sans événement, avec des critères secondaires de réponse, de maladie résiduelle et de réponse d'organe.",
+ "interet": "Les résultats pourraient permettre de raccourcir l'entretien sans perte de survie, ou de justifier un entretien prolongé.",
+ "profil": "Des adultes atteints d'amylose AL avec atteinte d'organe, en réponse après 6 cycles d'induction à base de daratumumab.",
+ "inclusion": [
+  "Âge ≥ 18 ans, amylose AL confirmée histologiquement avec typage adéquat",
+  "Atteinte d'organe nécessitant un traitement",
+  "6 cycles d'induction à base de Dara-CyBorD terminés (au minimum daratumumab et dexaméthasone)",
+  "Réponse hématologique complète, très bonne réponse partielle, ou réponse partielle (avec dFLC faible ou réponse d'organe)",
+  "ECOG 0 à 3",
+  "Hémoglobine ≥ 8 g/dL, PNN ≥ 1000/mm³, plaquettes ≥ 50 000/mm³",
+  "Consentement écrit, questionnaires remplissables, suivi dans le centre"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement, contraception inadéquate",
+  "Plus d'un cycle d'entretien par daratumumab avant l'inclusion",
+  "Myélome multiple au diagnostic (hypercalcémie, insuffisance rénale, anémie, lésions osseuses, plasmocytes médullaires ≥ 60 %)",
+  "Hépatite B active (AgHBs positif ou ADN VHB positif)",
+  "Immunodépression ou VIH sous antirétroviraux",
+  "Maladie intercurrente non contrôlée (infection active, angor instable, trouble psychiatrique limitant l'observance)"
+ ],
+ "bras": [
+  {
+   "nom": "Bras I : entretien court",
+   "traitement": "Daratumumab sous-cutané au jour 1 de cycles de 28 jours, jusqu'à 6 cycles"
+  },
+  {
+   "nom": "Bras II : entretien long",
+   "traitement": "Daratumumab sous-cutané au jour 1 de cycles de 28 jours, jusqu'à 18 cycles"
+  }
+ ],
+ "duree": "Jusqu'à 36 mois à partir de l'inclusion",
+ "critere": "Survie sans événement à partir de l'inclusion, jusqu'à 36 mois."
+}

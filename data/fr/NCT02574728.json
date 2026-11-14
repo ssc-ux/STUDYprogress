@@ -1,0 +1,14 @@
+{
+ "h": "364c48c7767a",
+ "date": "2026-11-14",
+ "titre": "Sirolimus et chimiothérapie métronomique dans les tumeurs pédiatriques en rechute ou réfractaires",
+ "question": "L'association sirolimus, célécoxib, étoposide et cyclophosphamide per os fait-elle régresser les tumeurs solides et cérébrales de l'enfant en rechute ou réfractaires ?",
+ "contexte": "Les enfants et jeunes adultes dont une tumeur solide ou cérébrale rechute ou résiste au traitement de première ligne ont un pronostic sombre, sans traitement curatif connu dans la plupart des cas. La chimiothérapie métronomique orale, à faibles doses et prise en continu, est une option palliative qui limite la toxicité et cible en partie l'angiogenèse.\n\nCette étude de phase 2 monobras (Emory University, promoteur Aflac) ajoute le sirolimus, inhibiteur de mTOR pris une fois par jour, et le célécoxib à une alternance de cycles d'étoposide et de cyclophosphamide oraux tous les 21 jours, pendant 2 ans au plus. Elle évalue la réponse radiologique des tumeurs solides et cérébrales, la durée de contrôle tumoral, la tolérance du sirolimus dans cette association et des marqueurs biologiques (sang et tissu tumoral) de son activité. Le bras de tumeurs cérébrales est clos aux inclusions pour le DIPG.",
+ "interet": "L'étude pourrait montrer si cette combinaison orale, administrable en ambulatoire, offre un taux de réponse suffisant pour justifier une évaluation plus large dans des tumeurs pédiatriques sans option curative.",
+ "profil": "Des enfants et jeunes adultes (12 mois à 30 ans) avec une tumeur solide ou cérébrale en rechute ou réfractaire.",
+ "inclusion": ["Âge de 12 mois à 30 ans", "Tumeur cérébrale (tous grades) ou tumeur solide extracrânienne, dont histiocytoses, en rechute ou réfractaire, sans traitement curatif connu", "Confirmation histologique de malignité (sauf gliomes des voies optiques et certaines tumeurs pinéales)", "Maladie mesurable radiologiquement (ou MIBG+ pour le neuroblastome)", "Performance Karnofsky ou Lansky ≥ 50 %", "Fonctions médullaire, rénale, hépatique et pulmonaire adéquates ; triglycérides et cholestérol ≤ 300 mg/dL"],
+ "exclusion": ["Grossesse ou allaitement", "Corticoïdes à dose non stable depuis 7 jours, anticonvulsivants inducteurs enzymatiques, inducteurs ou inhibiteurs puissants du CYP3A4", "Autre médicament expérimental ou autre traitement anticancéreux", "Huile de cannabis pendant les 2 premiers cycles", "Infection non contrôlée", "Impossibilité de respecter la surveillance de sécurité"],
+ "bras": [{"nom": "Sirolimus, célécoxib, étoposide et cyclophosphamide", "traitement": "Sirolimus et célécoxib oraux quotidiens, avec étoposide et cyclophosphamide oraux en alternance tous les 21 jours, jusqu'à 2 ans"}],
+ "duree": "Jusqu'à 2 ans de traitement",
+ "critere": "Réponse radiographique des tumeurs solides et des tumeurs du système nerveux central, de l'inclusion à la fin du traitement (jusqu'à 2 ans)"
+}

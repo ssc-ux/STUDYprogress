@@ -1,0 +1,29 @@
+{
+ "h": "2b42f3ea8d7a",
+ "date": "2026-11-14",
+ "titre": "Immunoglobulines IV ou sous-cutanées pour l'hypogammaglobulinémie après CAR-T anti-CD19",
+ "question": "Quel est le taux d'infections bactériennes graves chez les patients traités par immunoglobulines IV ou sous-cutanées pour une hypogammaglobulinémie après CAR-T anti-CD19 ?",
+ "contexte": "Les CAR-T anti-CD19 détruisent aussi les lymphocytes B sains, ce qui entraîne une déplétion B prolongée et une hypogammaglobulinémie. Les infections graves sont fréquentes après CAR-T et constituent la première cause de décès non liée à la rechute.\n\nLe traitement substitutif par immunoglobulines (IgIV ou IgSC) fait partie de la prévention des infections. Son rythme, sa voie d'administration, ses seuils de déclenchement et sa durée restent peu validés. L'intérêt comparatif de la voie sous-cutanée, qui permet l'autonomie du patient, est mal documenté dans ce contexte.\n\nCette étude observationnelle canadienne de l'université de l'Alberta, monocentrique (ICART), suit 30 adultes traités par CAR-T anti-CD19 depuis moins de 6 mois, avec hypogammaglobulinémie sévère (IgG < 4 g/L). Deux cohortes sont suivies : IgIV 10 % et IgSC 20 %, selon la pratique courante. L'étude compare la fréquence des infections bactériennes de grade ≥ 3, la qualité de vie, la satisfaction vis-à-vis du traitement et les événements indésirables, sur 40 semaines.",
+ "interet": "Elle pourrait aider à choisir la voie d'administration des immunoglobulines après CAR-T, en particulier pour les patients atteints d'hémopathies B et, à l'avenir, de maladies auto-immunes traitées par CAR-T. L'étude est observationnelle et de petit effectif.",
+ "profil": "Des adultes avec hypogammaglobulinémie sévère (IgG < 4 g/L) survenue après CAR-T anti-CD19.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Hypogammaglobulinémie sévère : IgG totales < 4 g/L (après soustraction d'une éventuelle paraprotéine)",
+  "Traitement par CAR-T anti-CD19 dans les 6 derniers mois",
+  "Acceptation de produits dérivés du plasma",
+  "Capacité à donner son consentement"
+ ],
+ "exclusion": [
+  "Incapacité à respecter les procédures de l'étude",
+  "Grossesse, projet de grossesse ou allaitement",
+  "Pertes protéiques pouvant contribuer à l'hypogammaglobulinémie (entéropathie exsudative, syndrome néphrotique)",
+  "Perfusion d'IgSC dans les 3 mois précédents",
+  "Allergie ou réaction sévère aux immunoglobulines"
+ ],
+ "bras": [
+  { "nom": "IgIV", "traitement": "Immunoglobulines intraveineuses humaines 10 % (substitution standard)" },
+  { "nom": "IgSC", "traitement": "Immunoglobulines sous-cutanées humaines 20 % (substitution standard)" }
+ ],
+ "duree": "40 semaines",
+ "critere": "Taux d'infections de grade 3 ou plus, normalisé sur le temps de suivi, à 40 semaines."
+}

@@ -1,0 +1,28 @@
+{
+ "h": "b1ac6af8372f",
+ "date": "2026-11-14",
+ "titre": "Amylose cardiaque ATTR chez les patients opérés d'un canal carpien",
+ "question": "Quelle fréquence d'amylose ATTR et d'atteinte cardiaque trouve-t-on chez les patients opérés d'un syndrome du canal carpien ?",
+ "contexte": "Le syndrome du canal carpien est un signe précoce possible de l'amylose à transthyrétine (ATTR), parfois plusieurs années avant l'atteinte cardiaque. Les dépôts amyloïdes peuvent être retrouvés dans le ténosynovium réséqué lors de la chirurgie. Détecter l'ATTR à ce stade permet de repérer précocement l'amylose cardiaque, qui est aujourd'hui accessible à des traitements spécifiques.\n\nCette étude norvégienne inclut jusqu'à 200 patients opérés d'un canal carpien à Ålesund (hommes de plus de 50 ans, femmes de plus de 60 ans), sans cardiopathie préalable. Une biopsie est réalisée pour la recherche d'amylose. En cas de résultat positif, les patients ont une scintigraphie DPD, une échocardiographie, un ECG, un Holter, un test génétique et une IRM cardiaque au besoin, avec exclusion d'une amylose AL. Ils sont ensuite suivis au moins une fois par an pendant 10 ans.",
+ "interet": "Elle pourrait préciser la fréquence de l'ATTR chez les patients opérés d'un canal carpien et la vitesse d'apparition de l'atteinte cardiaque, pour mieux cibler le dépistage.",
+ "profil": "Des hommes de plus de 50 ans et des femmes de plus de 60 ans opérés d'un syndrome du canal carpien, sans cardiopathie connue.",
+ "inclusion": [
+  "Homme > 50 ans ou femme > 60 ans",
+  "Opéré d'un syndrome du canal carpien à l'hôpital d'Ålesund"
+ ],
+ "exclusion": [
+  "Absence de consentement",
+  "Ne parle pas norvégien",
+  "Canal carpien secondaire (traumatique ou rhumatismal)",
+  "Suivi > 5 ans impossible pour raison médicale",
+  "Cardiopathie connue au moment de l'opération"
+ ],
+ "bras": [
+  {
+   "nom": "Patients opérés d'un canal carpien",
+   "traitement": "Biopsie de recherche d'amylose ; examens cardiaques en cas de biopsie positive ; suivi de 10 ans"
+  }
+ ],
+ "duree": "10 ans",
+ "critere": "Fréquence de l'ATTR chez les patients avec canal carpien (2 ans) et atteinte cardiaque chez les patients avec biopsie positive (10 ans)."
+}

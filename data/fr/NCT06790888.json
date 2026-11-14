@@ -1,0 +1,40 @@
+{
+ "h": "373a1bec4495",
+ "date": "2026-11-14",
+ "titre": "Ripertamab plus eltrombopag versus eltrombopag seul dans le PTI après échec des corticoïdes",
+ "question": "Ajouter le ripertamab (anti-CD20) à l'eltrombopag augmente-t-il la réponse plaquettaire soutenue dans le PTI après échec des corticoïdes ?",
+ "contexte": "Les corticoïdes sont le traitement de première ligne du PTI, mais beaucoup de patients ne répondent pas ou rechutent. En deuxième ligne, les agonistes du récepteur de la thrombopoïétine comme l'eltrombopag augmentent la production plaquettaire, mais l'effet cesse souvent à l'arrêt du traitement. Les anti-CD20 comme le rituximab agissent sur la cause immunologique et peuvent maintenir une réponse après l'arrêt.\n\nLe ripertamab est un anticorps anti-CD20 développé en Chine. L'association d'un agent ciblant la production plaquettaire (eltrombopag) et d'un agent immunomodulateur (ripertamab) pourrait donner des réponses plus profondes et durables. Cette étude randomisée en ouvert, multicentrique, compare l'association à l'eltrombopag seul chez 78 adultes. Elle est promue par l'hôpital Union de Tongji (Wuhan, Chine).",
+ "interet": "Elle pourrait indiquer si une stratégie combinée anti-CD20 plus agoniste de la TPO offre un bénéfice par rapport à l'agoniste seul en deuxième ligne. L'essai est de petite taille et se déroule en Chine.",
+ "profil": "Des adultes de 18 à 80 ans atteints de PTI primaire, sans réponse ou en rechute après corticoïdes de première ligne.",
+ "inclusion": [
+  "PTI primaire confirmé, âge 18-80 ans",
+  "Myélogramme excluant une thrombopénie secondaire",
+  "Échec ou rechute après corticoïdes (plaquettes < 30 G/L)",
+  "TP/INR et TCA ≤ 120 % de la normale",
+  "PNN ≥ 1,5 G/L et Hb ≥ 90 g/L",
+  "Bilirubine ≤ 1,5 N, ASAT/ALAT ≤ 3 N, créatinine ≤ 1,5 N",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Saignement menaçant le pronostic vital",
+  "IgIV, ago-RTPO, rhTPO, immunosuppresseurs, anti-CD20 ou corticoïdes systémiques dans les 28 jours",
+  "Antécédent de cancer",
+  "Insuffisance cardiaque sévère ou autre atteinte cardiaque significative",
+  "Autre trouble de la coagulation (CIVD, SHU, PTT)",
+  "Hépatite B ou C active, VIH, déficit immunitaire, maladie auto-immune, greffe",
+  "Tuberculose active ou latente suspectée",
+  "Infection active, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ripertamab + eltrombopag",
+   "traitement": "Eltrombopag à partir de 2,5 mg/j (adapté aux plaquettes) ; ripertamab 375 mg/m² au jour 1, avec une dose supplémentaire au mois 3 si rémission"
+  },
+  {
+   "nom": "Eltrombopag",
+   "traitement": "Eltrombopag à partir de 2,5 mg/j, adapté aux plaquettes"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Taux de réponse plaquettaire soutenue à 12 semaines."
+}

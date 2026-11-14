@@ -1,0 +1,22 @@
+{
+ "h": "b6c5ba63cc34",
+ "date": "2026-11-14",
+ "titre": "INTO-HLH, registre de la lymphohistiocytose hémophagocytaire",
+ "question": "Quelle est l'histoire naturelle de la lymphohistiocytose hémophagocytaire (HLH) : délai diagnostique, causes associées, traitements et devenir ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire est un syndrome hyperinflammatoire complexe, né de l'interaction entre une prédisposition génétique et des facteurs environnementaux. Elle peut être primaire (génétique), ou secondaire à une infection, à un cancer ou à une maladie auto-immune, dont le syndrome d'activation macrophagique (SAM). Le syndrome de relargage cytokinique (CRS) après CAR-T en est une forme voisine.\n\nMalgré les traitements disponibles, environ 30 % des patients ne répondent pas. Le traitement standard est limité par sa toxicité, et des options plus sûres sont recherchées. Les données sur l'histoire naturelle, la diversité clinique et étiologique, les complications et les réponses thérapeutiques restent insuffisantes.\n\nCe registre multicentrique, promu par le Children's Hospital Medical Center de Cincinnati, inclut 200 patients de tout âge ayant une HLH suspectée ou confirmée, quelle qu'en soit la forme (HLH-2004, SAM, CRS). Les critères principaux portent notamment sur le délai entre les premiers symptômes et le diagnostic, la présence d'une maladie auto-immune ou d'un cancer au diagnostic, et les traitements reçus.",
+ "interet": "Le registre pourrait décrire la réalité du diagnostic et des traitements de l'HLH et repérer des facteurs de retard ou de mauvaise réponse. Il pourrait aider à concevoir de futurs essais.",
+ "profil": "Des patients de tout âge ayant une HLH suspectée ou confirmée, primaire ou secondaire.",
+ "inclusion": [
+  "HLH suspectée ou confirmée (critères HLH-2004, formes primaires ou secondaires, y compris associées à un cancer)",
+  "Autres formes : syndrome d'activation macrophagique, syndrome de relargage cytokinique",
+  "Consentement signé (et assentiment pour les adolescents)"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  { "nom": "Cohorte HLH", "traitement": "Patients ayant une HLH suspectée ou confirmée, multicentrique, sans intervention imposée" }
+ ],
+ "duree": "Non précisé",
+ "critere": "Délai entre le premier symptôme et le diagnostic complet (jusqu'à 6 mois), nombre de patients avec maladie auto-immune ou cancer au diagnostic, traitements reçus"
+}

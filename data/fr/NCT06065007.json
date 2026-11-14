@@ -1,0 +1,25 @@
+{
+ "h": "cc85cda3da4c",
+ "date": "2026-11-14",
+ "titre": "Qualité de vie et symptômes dans la mastocytose systémique en Suède",
+ "question": "Quelle est la qualité de vie et la charge symptomatique des patients suédois atteints de mastocytose systémique ?",
+ "contexte": "La mastocytose systémique est une maladie rare caractérisée par l'accumulation de mastocytes clonaux dans la moelle, la peau, le tube digestif, le foie et l'os. La libération de médiateurs (histamine, tryptase, prostaglandines, cytokines) provoque des symptômes variés : anaphylaxie, éruptions, ostéoporose, fatigue, troubles cognitifs, douleurs abdominales, diarrhée, anxiété et dépression.\n\nOn distingue la forme indolente (ISM), la plus fréquente, et les formes avancées (AdvSM). Les nouveaux inhibiteurs de KIT, comme l'avapritinib, ont renouvelé les perspectives, mais la qualité de vie des patients reste peu décrite en vie réelle.\n\nCette étude transversale suédoise, promue par l'Université d'Uppsala, vise à inclure toute la cohorte nationale via les deux centres d'excellence et un représentant régional. Les patients remplissent un ensemble de questionnaires une seule fois : EORTC QLQ-C30, MC-QoL, HADS, GSRS, VSI, BPI-SF, BBQ et un inventaire d'auto-soins.",
+ "interet": "Elle décrira la qualité de vie et les symptômes digestifs, douloureux et psychologiques, pour mieux cibler la prise en charge globale et de support.",
+ "profil": "Des adultes suédois avec mastocytose systémique indolente ou avancée confirmée par biopsie médullaire.",
+ "inclusion": [
+  "Âge de 18 ans ou plus et parlant suédois",
+  "Mastocytose systémique indolente ou avancée confirmée par biopsie médullaire"
+ ],
+ "exclusion": [
+  "Trouble cognitif rendant la participation impossible, selon le médecin",
+  "Greffe allogénique de cellules souches"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte suédoise de mastocytose systémique",
+   "traitement": "Aucune intervention : questionnaires remplis une fois"
+  }
+ ],
+ "duree": "Une seule évaluation (jour 1)",
+ "critere": "Scores des questionnaires de qualité de vie et de symptômes : EORTC QLQ-C30, MC-QoL, HADS, GSRS, VSI, BPI-SF, BBQ et auto-soins, au jour 1."
+}

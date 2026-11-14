@@ -1,0 +1,27 @@
+{
+ "h": "86b59efafb8c",
+ "date": "2026-11-14",
+ "titre": "Lien entre le locus génétique TNFAIP3 et le purpura thrombotique thrombocytopénique immun",
+ "question": "Les variants du locus TNFAIP3 (protéine A20) sont-ils associés au PTT immun et aux rechutes ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique immun (PTTi) est une microangiopathie thrombotique rare, due à des auto-anticorps dirigés contre ADAMTS13. Le traitement associe échanges plasmatiques, corticoïdes, rituximab et, selon les situations, caplacizumab. La maladie reste grave et expose à des rechutes, y compris après rémission.\n\nLes facteurs génétiques de susceptibilité au PTTi sont mal connus. Le gène TNFAIP3 code la protéine A20, un régulateur négatif de la voie NF-κB impliqué dans le contrôle de l'inflammation et de l'auto-immunité. Des variants de ce locus sont associés à plusieurs maladies auto-immunes.\n\nCette étude italienne monocentrique (IRCCS Ca' Granda, Milan) combine un volet cas-témoins et un volet de cohorte. Le volet cas-témoins compare la fréquence des variants de TNFAIP3 entre patients et donneurs sains, et teste si l'effet passe par une baisse d'expression de A20. Le volet de cohorte évalue le lien avec les rechutes. L'intervention se limite à un prélèvement sanguin supplémentaire lors de prélèvements de routine. L'étude est ouverte aux patients de plus de 12 ans.",
+ "interet": "Elle pourrait identifier un facteur génétique de susceptibilité au PTTi et un marqueur de risque de rechute. À ce stade, il s'agit de recherche physiopathologique, sans impact direct sur la prise en charge.",
+ "profil": "Des patients italiens d'origine caucasienne atteints de PTT immun, et des volontaires sains appariés sur l'âge et le sexe.",
+ "inclusion": [
+  "Diagnostic de PTT immun",
+  "Âge supérieur à 12 ans",
+  "Origine caucasienne, italienne",
+  "Consentement écrit",
+  "Témoins : volontaires sains italiens caucasiens, sans antécédent de PTT, appariés sur l'âge et le sexe"
+ ],
+ "exclusion": [
+  "Patients ne remplissant pas les critères d'inclusion",
+  "Témoins : antécédent de PTT",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  { "nom": "Patients avec PTT immun", "traitement": "Prélèvement sanguin supplémentaire lors d'un prélèvement de routine, pour analyses expérimentales" },
+  { "nom": "Donneurs sains", "traitement": "Prélèvement sanguin supplémentaire lors d'un don de sang, pour analyses expérimentales" }
+ ],
+ "duree": "Prélèvement unique à l'inclusion, avec suivi de cohorte pour les rechutes (durée non précisée)",
+ "critere": "Fréquence allélique des variants de TNFAIP3 chez les patients comparés aux témoins, à l'inclusion."
+}

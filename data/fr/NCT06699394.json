@@ -1,0 +1,14 @@
+{
+ "h": "513c3ae1dc97",
+ "date": "2026-11-14",
+ "titre": "Teclistamab dans l'amylose AL systémique après daratumumab et bortézomib",
+ "question": "Le teclistamab en monothérapie permet-il d'obtenir une réponse hématologique complète dans l'amylose AL non en réponse complète après daratumumab et bortézomib ?",
+ "contexte": "L'amylose AL est une dyscrasie plasmocytaire rare où les chaînes légères monoclonales forment des dépôts amyloïdes dans les organes, en particulier le cœur et le rein. Les objectifs du traitement sont la réponse hématologique complète et la réponse d'organe, car la profondeur de la réponse est corrélée à la survie.\n\nLe daratumumab associé au bortézomib est le traitement de référence en première ligne, et le vénétoclax est utilisé en cas de t(11;14). Lorsque ces traitements échouent, le pronostic est mauvais et les options sont limitées. Le teclistamab est un anticorps bispécifique anti-BCMA et anti-CD3, approuvé dans le myélome multiple en rechute, qui élimine efficacement les plasmocytes clonaux. L'hypothèse de l'étude est qu'il peut produire une proportion élevée de réponses hématologiques complètes dans l'amylose AL. Cette étude prospective multicentrique à bras unique de l'hôpital de l'Université de Pékin (People's Hospital) évalue 20 patients traités par teclistamab seul.",
+ "interet": "Si les taux de réponse complète sont élevés, le teclistamab pourrait devenir une option de rattrapage dans l'amylose AL réfractaire à daratumumab et bortézomib. La tolérance, notamment infectieuse, sera à surveiller dans cette population fragile.",
+ "profil": "Des adultes avec amylose AL systémique sans réponse complète ni réponse d'organe après daratumumab et bortézomib.",
+ "inclusion": ["Amylose AL systémique", "Traitement antérieur par daratumumab et bortézomib, sans réponse d'organe ni réponse hématologique complète", "Espérance de vie > 12 semaines", "Hémoglobine ≥ 70 g/L, saturation en oxygène > 90 %", "Bilirubine ≤ 3 N, ASAT/ALAT ≤ 3 N", "Consentement éclairé signé"],
+ "exclusion": ["Myélome multiple actif ou lymphome lymphoplasmocytaire actif", "Autre tumeur avancée avec métastases systémiques", "Infection sévère ou persistante non contrôlée", "Maladie auto-immune sévère ou déficit immunitaire", "Hépatite B ou C active, VIH ou syphilis", "Toute situation augmentant le risque ou faussant les résultats selon l'investigateur"],
+ "bras": [{"nom": "Teclistamab", "traitement": "Teclistamab en monothérapie (dose et schéma non précisés)"}],
+ "duree": "Non précisé (évaluation à 3 et 6 mois)",
+ "critere": "Réponse hématologique complète à 3 et 6 mois."
+}

@@ -1,0 +1,27 @@
+{
+ "h": "0e612c0b8524",
+ "date": "2026-11-14",
+ "titre": "Busulfan à faible ou moyenne exposition avant greffe chez les nourrissons atteints de DICS",
+ "question": "Une exposition réduite au busulfan avant greffe de cellules souches déplétées en TCRαβ/CD19 permet-elle une bonne reconstitution immunitaire chez des nourrissons atteints de DICS ?",
+ "contexte": "Le déficit immunitaire combiné sévère (DICS) est une urgence pédiatrique : sans reconstitution immunitaire, les nourrissons meurent d'infections graves dans les premières années de vie. La greffe de cellules souches hématopoïétiques est le traitement de référence, et les résultats sont meilleurs lorsqu'elle est réalisée précocement, avant les infections, ce que permet le dépistage néonatal.\n\nLa question du conditionnement reste débattue. Certains sous-types de DICS (déficits en IL2RG/JAK3 ou en RAG1/RAG2) nécessitent une chimiothérapie myéloablative ou à intensité réduite pour obtenir une greffe durable des lignées T et B, mais le busulfan expose à des toxicités à court et long terme (organes, fertilité, croissance). L'enjeu est de trouver la dose minimale qui permette une reconstitution immunitaire complète, en particulier B, avec le moins de séquelles.\n\nCette étude de phase 2 randomisée, promue par le réseau CIBMTR avec le consortium PIDTC, compare deux niveaux d'exposition au busulfan (aire sous la courbe cible de 25-35 ou de 55-65 mg*h/L), ajustés par pharmacocinétique en temps réel. La randomisation est stratifiée selon le génotype. Les greffons sont issus de donneurs non apparentés ou haplo-identiques, avec déplétion des lymphocytes TCRαβ+/CD19+ pour limiter la maladie du greffon contre l'hôte. L'étude évalue aussi la faisabilité de cette approche de greffe.",
+ "interet": "Les résultats pourraient permettre de réduire l'intensité du conditionnement chez les nourrissons atteints de DICS tout en préservant la reconstitution immunitaire, notamment la production d'anticorps. Ils pourraient aussi valider la greffe déplétée en TCRαβ/CD19 comme option pour les donneurs non apparentés ou haplo-identiques.",
+ "profil": "Des nourrissons de 0 à 2 ans atteints de DICS avec mutation d'IL2RG, JAK3, RAG1 ou RAG2, sans donneur familial génotypiquement compatible.",
+ "inclusion": [
+  "DICS typique, « leaky » ou syndrome d'Omenn selon des critères immunologiques précis",
+  "Mutation documentée de IL2RG, JAK3, RAG1 ou RAG2",
+  "Pas de donneur apparenté génotypiquement compatible (fratrie)",
+  "Donneur haplo-identique ou non apparenté 9/10 ou 10/10 disponible (cellules souches périphériques mobilisées)",
+  "Âge de 0 à 2 ans (début du busulfan à 8 semaines pour IL2RG/JAK3, 12 semaines pour RAG1/2)",
+  "Fonctions cardiaque, hépatique, rénale et pulmonaire adéquates"
+ ],
+ "exclusion": [
+  "Infection grave ou opportuniste non résolue (bactérienne, fongique, pneumocystose, virale) avant le conditionnement",
+  "Infection par le VIH ou HTLV I/II"
+ ],
+ "bras": [
+  { "nom": "Busulfan à faible dose", "traitement": "Conditionnement par busulfan avec exposition cible (AUC cumulée) de 25-35 mg*h/L, greffe déplétée en TCRαβ+/CD19+" },
+  { "nom": "Busulfan à dose moyenne", "traitement": "Conditionnement par busulfan avec exposition cible (AUC cumulée) de 55-65 mg*h/L, greffe déplétée en TCRαβ+/CD19+" }
+ ],
+ "duree": "3 ans de suivi après la greffe",
+ "critere": "Réponse en anticorps spécifiques après vaccination, à 2 ans"
+}

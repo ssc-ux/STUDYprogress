@@ -1,0 +1,30 @@
+{
+ "h": "9d8348e155fe",
+ "date": "2026-11-14",
+ "titre": "CM336, anticorps bispécifique BCMA/CD3, dans l'amylose AL en rechute ou réfractaire",
+ "question": "Le CM336, anticorps bispécifique BCMA/CD3, est-il efficace et sûr dans l'amylose AL en rechute ou réfractaire, et quelle dose retenir ?",
+ "contexte": "L'amylose AL est une maladie plasmocytaire où des chaînes légères amyloïdogènes se déposent dans les organes, notamment le cœur et les reins. Le traitement de première ligne repose sur le daratumumab associé au bortézomib, cyclophosphamide et dexaméthasone. En rechute ou en cas de réponse insuffisante, les options sont limitées et la tolérance aux traitements est souvent réduite par l'atteinte d'organe.\n\nBCMA est présent à la surface des plasmocytes. Les anticorps bispécifiques anti-BCMA/CD3, comme le teclistamab, redirigent les lymphocytes T contre ces cellules. Ils sont autorisés dans le myélome multiple et sont explorés dans l'amylose AL.\n\nCette étude de phase 2, promue par Keymed Biosciences (2 centres, Chine), est multicentrique et ouverte. Elle inclura 90 adultes randomisés entre deux doses de CM336 (faible ou élevée) pour évaluer l'efficacité et la sécurité. Les patients doivent avoir une amylose AL confirmée en rechute ou réfractaire, une maladie hématologique mesurable et au moins un organe atteint. Un myélome multiple actuel ou passé est exclu. Les doses et le rythme d'administration ne sont pas détaillés dans le registre.",
+ "interet": "L'étude pourrait situer le CM336 parmi les options de rattrapage de l'amylose AL et identifier la dose à retenir. Les données de tolérance chez des patients à atteinte d'organe seront essentielles.",
+ "profil": "Des adultes atteints d'amylose AL en rechute ou réfractaire, avec maladie hématologique mesurable et au moins un organe atteint.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ECOG 0 à 2",
+  "Amylose AL primitive confirmée, en rechute ou réfractaire",
+  "Maladie hématologique mesurable au dépistage",
+  "Au moins un organe atteint par l'amylose",
+  "Fonction d'organes adéquate dans les 3 jours précédant la première dose (critères du protocole)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Myélome multiple actuel ou passé",
+  "Traitement anti-amylose récent (délais définis par le protocole)",
+  "Maladie cardiovasculaire ou cérébrovasculaire cliniquement significative",
+  "Infection active ou non contrôlée",
+  "Toute autre condition jugée incompatible avec la participation par l'investigateur"
+ ],
+ "bras": [
+  { "nom": "CM336, dose faible", "traitement": "CM336 en injection, dose faible (valeur non précisée)" },
+  { "nom": "CM336, dose élevée", "traitement": "CM336 en injection, dose élevée (valeur non précisée)" }
+ ],
+ "duree": "Jusqu'à 3 ans",
+ "critere": "Efficacité du traitement par CM336, évaluée jusqu'à 3 ans (mesure précise non détaillée dans le registre)."
+}

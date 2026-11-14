@@ -1,0 +1,29 @@
+{
+ "h": "786b7811240f",
+ "date": "2026-11-14",
+ "titre": "Lignées de fibroblastes issues de biopsies cutanées de patients ayant un déficit immunitaire ou une dysrégulation immunitaire",
+ "question": "Peut-on constituer des lignées cellulaires cutanées de patients atteints de déficits immunitaires rares pour en étudier les bases génétiques et biochimiques ?",
+ "contexte": "Les déficits immunitaires primitifs et les dysrégulations immunitaires rares ont souvent des causes génétiques encore inconnues. Les fibroblastes cutanés des patients permettent d'étudier ces mécanismes en laboratoire et de comparer avec des cellules de volontaires sains.\n\nCe protocole du NIAID (États-Unis) complète d'autres protocoles du NIH incluant des tests génétiques. Après biopsie cutanée (au maximum deux, sous anesthésie locale), des lignées de fibroblastes sont établies. Ces lignées servent aussi à étudier l'intérêt des cellules souches pluripotentes induites pour dériver des lymphocytes et corriger des gènes. Un grattage de la muqueuse nasale permet en outre de cultiver des cellules respiratoires et de tester la réplication virale, ce qui peut identifier de nouveaux déficits se révélant par des infections respiratoires virales persistantes. L'étude prévoit jusqu'à 200 participants sur 27 ans. Elle est observationnelle.",
+ "interet": "L'étude pourrait aider à découvrir de nouveaux déficits immunitaires et à explorer une thérapie génique personnalisée. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients de 2 à 85 ans ayant un déficit immunitaire ou une dysrégulation immunitaire, des apparentés et des volontaires sains.",
+ "inclusion": [
+  "Patients de 2 à 85 ans avec diagnostic connu de déficit immunitaire primitif ou de dysrégulation immunitaire, ou apparentés de tels patients",
+  "Inclusion simultanée dans un protocole du NIAID comportant des tests génétiques",
+  "Apparentés biologiques de 8 à 85 ans (parents, fratrie, enfants, grands-parents, oncles, tantes, cousins germains)",
+  "Volontaires sains de 18 à 85 ans, inclus dans le protocole 05-I-0213"
+ ],
+ "exclusion": [
+  "Plaquettes < 20 000/µl ou instabilité hémodynamique par hémorragie aiguë",
+  "Toute situation faisant courir un risque excessif ou limitant l'intérêt du prélèvement",
+  "Grattage nasal : antécédent de turbinectomie ou pathologie nasale significative",
+  "Volontaires sains : poids < 110 livres, grossesse ou allaitement, chimiothérapie ou cancer",
+  "Volontaires sains : hépatite B/C, VIH, portage de SARM, ou hémoglobine < 12 g/dl, plaquettes < 150 000/µl",
+  "Volontaires sains : anti-inflammatoires non évitables 7 jours avant la biopsie, troubles de la coagulation ou de la cicatrisation"
+ ],
+ "bras": [
+  {"nom": "Déficit immunitaire", "traitement": "Jusqu'à 150 patients avec déficit immunitaire ou dysrégulation rares : biopsie cutanée (jusqu'à 2) et grattage nasal pour lignées cellulaires"},
+  {"nom": "Volontaires sains", "traitement": "Jusqu'à 50 témoins sains : biopsie cutanée pour comparaison"}
+ ],
+ "duree": "Prélèvement unique, étude sur toute sa durée",
+ "critere": "Obtention de lignées de fibroblastes, de cellules dermiques ou d'autres cellules cutanées, sur la durée de l'étude"
+}

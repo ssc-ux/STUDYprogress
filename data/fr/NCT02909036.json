@@ -1,0 +1,14 @@
+{
+ "h": "40ad72921060",
+ "date": "2026-11-14",
+ "titre": "Melphalan Captisol à dose guidée par la pharmacocinétique avant autogreffe (myélome, amylose AL)",
+ "question": "Peut-on atteindre une exposition cible (ASC) au melphalan Captisol en adaptant la dose à la pharmacocinétique avant une autogreffe ?",
+ "contexte": "Le melphalan à haute dose suivi d'une autogreffe de cellules souches reste un traitement de référence du myélome multiple et de certaines amyloses à chaînes légères (AL). La formulation standard est instable, doit être administrée rapidement après préparation et peut entraîner des troubles ioniques (potassium, phosphore, magnésium) ainsi que des atteintes rénales ou cardiaques.\n\nLe melphalan Captisol est une formulation du même agent conditionnée dans un excipient inactif censé le stabiliser, avec potentiellement moins d'effets indésirables. La dose reçue varie beaucoup d'un patient à l'autre, ce qui motive une adaptation guidée par la pharmacocinétique. Cette étude de phase 1 du Memorial Sloan Kettering administre d'abord une dose test de 10 mg/m2 avec dosages pharmacocinétiques, puis une dose calculée pour atteindre une ASC cible de 13 mg/L·h, suivie de la greffe de cellules souches et de pegfilgrastim.",
+ "interet": "L'étude pourrait montrer la faisabilité d'une dose individualisée de melphalan et en préciser la tolérance, sans conclure sur l'efficacité à ce stade de phase 1.",
+ "profil": "Des adultes de 18 à 75 ans avec un myélome chimiosensible ou une amylose AL, candidats à une autogreffe.",
+ "inclusion": ["Âge de 18 à 75 ans", "Myélome symptomatique chimiosensible (au moins une réponse partielle en première ligne, mineure en rattrapage), ou amylose AL", "Diagnostic confirmé histologiquement et biologiquement au MSKCC", "Au moins 3 x 10^6 cellules CD34+/kg congelées", "Bilirubine ≤ 2 mg/dL, transaminases et phosphatases alcalines < 3 N, clairance ≥ 40 mL/min", "FEVG ≥ 45 %, DLCO ≥ 45 %, ECOG ≤ 2"],
+ "exclusion": ["Angor instable ou infarctus dans les 4 mois, insuffisance cardiaque NYHA III-IV, arythmies ventriculaires sévères", "Amylose AL de stade cardiaque Mayo IIIB (NT-proBNP > 8500 ng/L et troponine T > 0,035 µg/L)", "Grossesse ou allaitement", "Cancer non hématologique dans les 3 ans (sauf exceptions définies)", "Autres critères d'exclusion tronqués dans le résumé du registre"],
+ "bras": [{"nom": "Melphalan Captisol guidé par la PK", "traitement": "Dose test de melphalan Captisol 10 mg/m2 (J-12 à J-3), puis dose pour ASC cible 13 mg/L·h à J-2 ; greffe de 3 à 10 x 10^6 CD34+/kg à J0 ; pegfilgrastim 6 mg à J+1"}],
+ "duree": "Non précisé",
+ "critere": "Taux de réponse globale (réponse évaluée à 1 jour selon le registre)"
+}

@@ -1,0 +1,30 @@
+{
+ "h": "a3bd90e9fa0a",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T cytotoxiques spécifiques du virus BK d'un donneur apparenté dans les infections BK réfractaires",
+ "question": "Des lymphocytes T cytotoxiques anti-BK issus d'un donneur apparenté sont-ils sûrs et efficaces pour réduire la charge virale BK réfractaire ?",
+ "contexte": "Le polyomavirus BK reste latent dans le tractus urinaire après la primo-infection. Chez les patients immunodéprimés, notamment après allogreffe de cellules souches hématopoïétiques, greffe d'organe solide ou dans les déficits immunitaires primitifs, il peut se réactiver et provoquer une cystite hémorragique ou une néphropathie.\n\nIl n'existe pas de traitement antiviral spécifique validé. Le cidofovir est utilisé, mais son efficacité est inconstante et sa néphrotoxicité limite son usage, notamment chez des patients déjà exposés aux anticalcineurines. La restauration de l'immunité cellulaire est le principal moyen de contrôler l'infection, ce qui justifie l'immunothérapie par lymphocytes T virus-spécifiques.\n\nCet essai de phase 1/2, promu par le New York Medical College avec plusieurs centres pédiatriques américains, évalue des lymphocytes T cytotoxiques spécifiques du BK, issus d'un donneur apparenté et fabriqués avec le système Miltenyi CliniMACS Prodigy de capture de cytokines. Les participants, enfants, adolescents et jeunes adultes, reçoivent jusqu'à 20 perfusions. Le critère principal est la sécurité à 12 semaines ; l'effet sur la charge virale est un objectif d'efficacité.",
+ "interet": "L'étude pourrait fournir une option thérapeutique pour des patients immunodéprimés ayant une infection BK réfractaire ou une intolérance au cidofovir, en s'appuyant sur une fabrication rapide de lymphocytes T à partir d'un donneur apparenté.",
+ "profil": "Des enfants, adolescents et adultes (jusqu'à 79 ans) avec infection à BK réfractaire après greffe ou déficit immunitaire primitif.",
+ "inclusion": [
+  "Infection BK réfractaire après allogreffe de cellules souches, greffe d'organe solide ou dans un déficit immunitaire primitif",
+  "ADN BK urinaire ou plasmatique en hausse d'au moins 1 log après 7 jours, ou persistant après 14 jours malgré un traitement antiviral adapté",
+  "Ou intolérance au cidofovir (néphrotoxicité, toxicité supérieure au grade 2) ou résistance connue",
+  "Score de Lansky ou Karnofsky supérieur à 30 %",
+  "Âge de 0,1 à 79,99 ans",
+  "Test de grossesse négatif chez les femmes en âge de procréer ; consentement écrit"
+ ],
+ "exclusion": [
+  "GVHD aiguë de grade supérieur à 2 ou GVHD chronique extensive",
+  "Corticoïdes à plus de 0,5 mg/kg d'équivalent prednisone",
+  "Perfusion de lymphocytes du donneur dans les 4 semaines, sérum antilymphocytaire ou alemtuzumab dans les 30 jours",
+  "Participation à un autre essai sur l'infection BK réfractaire",
+  "Infection par le VIH, hypersensibilité au fer dextran, anticorps anti-souris connus",
+  "Grossesse, allaitement ou refus de contraception"
+ ],
+ "bras": [
+  { "nom": "BK CTL", "traitement": "Jusqu'à 20 perfusions de lymphocytes T cytotoxiques spécifiques du BK issus d'un donneur apparenté" }
+ ],
+ "duree": "12 semaines pour le critère principal",
+ "critere": "Incidence des événements indésirables liés au traitement (sécurité et tolérance), à 12 semaines"
+}

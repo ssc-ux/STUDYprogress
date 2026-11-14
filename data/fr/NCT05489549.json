@@ -1,0 +1,40 @@
+{
+ "h": "a6b0a0727889",
+ "date": "2026-11-14",
+ "titre": "Amylose cardiaque à TTR infraclinique chez les porteurs de la variante V122I",
+ "question": "Les porteurs de la variante V122I de la transthyrétine présentent-ils une atteinte amyloïde cardiaque infraclinique détectable à l'IRM ?",
+ "contexte": "La variante V122I (p.Val142Ile) de la transthyrétine concerne environ 1,5 million d'Afro-Américains. C'est la cause la plus fréquente d'amylose cardiaque héréditaire à TTR (hATTR-CA) dans le monde. Elle conduit à une insuffisance cardiaque progressive et à un décès prématuré.\n\nLes traitements stabilisateurs ou silenceurs de la TTR améliorent la morbi-mortalité, surtout s'ils sont débutés tôt. Pourtant, le diagnostic est souvent posé à un stade avancé, et les outils usuels manquent de spécificité pour détecter la maladie précoce. Cette étude de l'UT Southwestern compare, par IRM cardiaque standardisée, des porteurs asymptomatiques sans insuffisance cardiaque à des témoins non porteurs appariés, puis à des patients symptomatiques. Elle recherche l'infiltration amyloïde (volume extracellulaire, ECV), la variation du volume d'éjection systolique indexé et des biomarqueurs de progression.",
+ "interet": "Elle pourrait définir des marqueurs permettant de repérer l'amylose cardiaque avant l'insuffisance cardiaque et de décider du moment optimal pour traiter les porteurs.",
+ "profil": "Des hommes et femmes de 30 à 80 ans, porteurs de la variante V122I (ou témoins appariés), sans insuffisance cardiaque, et des patients atteints d'hATTR-CA symptomatique.",
+ "inclusion": [
+  "Âge de 30 à 80 ans",
+  "Porteur d'un allèle TTR pathogène ou témoin apparié, sans antécédent d'insuffisance cardiaque",
+  "Pas d'hospitalisation pour insuffisance cardiaque dans les 12 mois, BNP < 100 ou NT-proBNP < 360 pg/mL",
+  "Groupe symptomatique : insuffisance cardiaque et diagnostic établi ou suspecté d'hATTR-CA (biopsie ou scintigraphie positive)",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Autre cause connue de cardiomyopathie",
+  "Amylose cardiaque à chaînes légères",
+  "Infarctus du myocarde de type 1 ou greffe cardiaque",
+  "Poids > 250 lb ou DFG ≤ 30 mL/min/1,73 m²",
+  "Impossibilité de réaliser une IRM cardiaque",
+  "Greffe hépatique ou traitement récent par stabilisateur ou silenceur de TTR (groupe symptomatique)"
+ ],
+ "bras": [
+  {
+   "nom": "Porteurs V122I",
+   "traitement": "IRM cardiaque standardisée et biomarqueurs, sans intervention thérapeutique"
+  },
+  {
+   "nom": "Témoins non porteurs appariés",
+   "traitement": "Mêmes examens (appariés sur l'âge, le sexe et l'origine)"
+  },
+  {
+   "nom": "hATTR-CA symptomatique V122I",
+   "traitement": "Évaluation de biomarqueurs, comparée aux deux autres groupes"
+  }
+ ],
+ "duree": "Non précisé (critères mesurés à l'inclusion)",
+ "critere": "Infiltration amyloïde mesurée par le volume extracellulaire (ECV) en IRM, et variation de l'indice de volume d'éjection systolique, à l'inclusion."
+}

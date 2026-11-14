@@ -1,0 +1,25 @@
+{
+ "h": "295cf9d5aaec",
+ "date": "2026-11-14",
+ "titre": "Registre international de l'amylose cardiaque (Leyde)",
+ "question": "Quel est le parcours diagnostique, l'évolution en vie réelle et quels facteurs cliniques ou échographiques prédisent le pronostic de l'amylose cardiaque AL ou ATTR ?",
+ "contexte": "L'amylose cardiaque est causée par le dépôt de protéines entre les cardiomyocytes, d'où une rigidité du cœur, une insuffisance cardiaque, des arythmies comme la fibrillation atriale, des troubles de conduction, des thromboses intracardiaques et parfois un rétrécissement aortique. Elle est sous-diagnostiquée et sous-traitée. L'amylose AL a un très mauvais pronostic sans traitement. Pour l'amylose à transthyrétine (ATTR), un traitement spécifique est disponible pour certains patients, avec de bons résultats dans les essais.\n\nCe registre prospectif du centre médical universitaire de Leyde (Pays-Bas) rassemble 300 adultes avec une amylose cardiaque AL ou ATTR diagnostiquée selon les recommandations de la Société européenne de cardiologie, suivis selon les protocoles locaux. Il décrit le délai du diagnostic, l'évolution des patients et les prédicteurs cliniques et échographiques, notamment pour repérer ceux qui tirent un réel bénéfice du traitement spécifique.",
+ "interet": "Il pourrait aider à raccourcir le délai diagnostique et à mieux cibler les patients bénéficiant du traitement spécifique de l'ATTR.",
+ "profil": "Des adultes ayant une amylose cardiaque AL ou ATTR diagnostiquée selon les critères de la Société européenne de cardiologie.",
+ "inclusion": [
+  "Amylose cardiaque AL ou ATTR diagnostiquée selon les recommandations de la Société européenne de cardiologie",
+  "Signes cliniques, ECG, échographie ou IRM évocateurs",
+  "Bilan hématologique et scintigraphie osseuse (stade de Perugini) concordants, avec preuve histologique et typage si nécessaire"
+ ],
+ "exclusion": [
+  "Incapacité à consentir (langue insuffisante ou capacités intellectuelles)"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose cardiaque",
+   "traitement": "Patients avec amylose cardiaque AL ou ATTR, suivis selon le parcours de soins local (observationnel)"
+  }
+ ],
+ "duree": "Suivi à long terme (mortalité à 1 an pour le critère principal)",
+ "critere": "Mortalité à 1 an."
+}

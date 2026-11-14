@@ -1,0 +1,14 @@
+{
+ "h": "a7886e1e0d5e",
+ "date": "2026-11-14",
+ "titre": "Registre de la cardiomyopathie amyloïde ATTR en Taïwan, Hong Kong et Malaisie",
+ "question": "Quelles sont les caractéristiques et les pratiques de traitement des patients avec cardiomyopathie amyloïde à transthyrétine (ATTR-CM) en vie réelle dans ces pays ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est causée par le dépôt de transthyrétine mal repliée dans le myocarde, sous forme sauvage (ATTRwt) ou héréditaire (ATTRm). Elle est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée chez les patients âgés.\n\nLe diagnostic a progressé avec la scintigraphie osseuse et la recherche d'une gammapathie monoclonale. Les traitements comprennent des stabilisateurs de la transthyrétine, comme le tafamidis, et des traitements de silençage. Les données de vie réelle sur la présentation, la prise en charge et l'évolution sont rares en Asie du Sud-Est et en Asie de l'Est. Ce registre non interventionnel de Pfizer inclut environ 350 patients dans 17 centres de Taïwan, Hong Kong et Malaisie, avec diagnostic confirmé après le 1er juin 2019. Les données sont tirées des dossiers médicaux : caractéristiques cliniques, traitements, hospitalisations, décès, imagerie, biologie, questionnaire KCCQ et consommation de soins. Aucun traitement ni examen n'est imposé.",
+ "interet": "Le registre décrira l'histoire naturelle et les traitements de l'ATTR-CM dans une population asiatique peu documentée. Il n'apportera pas de preuve d'efficacité mais des données utiles pour l'organisation des soins.",
+ "profil": "Des adultes avec ATTR-CM confirmée après juin 2019, à Taïwan, Hong Kong et en Malaisie.",
+ "inclusion": ["Consentement signé (dérogation possible pour les patients décédés si la réglementation le permet)", "Âge ≥ 18 ans au premier diagnostic d'ATTR-CM", "Diagnostic confirmé d'ATTR-CM après le 1er juin 2019"],
+ "exclusion": ["Aucun critère d'exclusion"],
+ "bras": [{"nom": "Patients ATTR-CM", "traitement": "Cohorte observationnelle recevant les soins habituels, sans traitement imposé"}],
+ "duree": "De la date du diagnostic jusqu'au décès, retrait ou fin de collecte (12 mois après la fin des inclusions)",
+ "critere": "Caractéristiques démographiques, mesures physiques, antécédents, classe NYHA, traitements cardiovasculaires, type d'ATTR-CM, antécédents familiaux et critères de diagnostic, jusqu'à 12 mois."
+}

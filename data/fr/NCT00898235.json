@@ -1,0 +1,23 @@
+{
+ "h": "b70be6b7a72e",
+ "date": "2026-11-14",
+ "titre": "Biobanque de données, tissus, sang et urines de patients atteints d'amylose (Boston)",
+ "question": "Peut-on constituer et entretenir un répertoire de données cliniques et d'échantillons biologiques de patients atteints d'amylose pour la recherche ?",
+ "contexte": "L'amylose regroupe des maladies où des protéines mal repliées, comme les chaînes légères d'immunoglobuline dans l'amylose AL, s'accumulent dans les tissus et altèrent des organes comme le cœur, le rein ou les nerfs. Les mécanismes de stabilité et de dépôt de ces protéines restent partiellement compris.\n\nCe répertoire du Boston Medical Center (Amyloid Treatment and Research Center, laboratoire Gerry) collecte du sang, des urines, des tissus et de la moelle osseuse prélevés lors des bilans habituels. Les analyses comprennent la recherche des séquences des gènes de chaînes légères, la stabilité des protéines amyloïdes par calorimétrie et spectroscopie, et les modifications post-traductionnelles. La qualité de vie est évaluée par le questionnaire SF-36. L'étude est observationnelle.",
+ "interet": "La biobanque soutient des travaux de recherche sur la biochimie de l'amylose et la corrélation entre résultats cliniques et événements biologiques. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes avec une amylose avérée ou suspectée, adressés au centre de traitement de l'amylose de Boston.",
+ "inclusion": [
+  "Diagnostic ou suspicion d'amylose",
+  "Adressé à l'Amyloid Treatment and Research Center du Boston University Medical Center",
+  "Âge ≥ 18 ans",
+  "Traitement antérieur ou concomitant : non précisé"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {"nom": "Patients avec amylose", "traitement": "Prélèvement et conservation de sang, urines, tissus et moelle lors des évaluations habituelles, avec évaluation de la qualité de vie (SF-36)"}
+ ],
+ "duree": "Non précisé (durée de l'étude, jusqu'en 2040)",
+ "critere": "Constitution d'un répertoire d'échantillons pour la recherche biochimique, pendant la durée de l'étude"
+}

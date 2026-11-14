@@ -1,0 +1,26 @@
+{
+ "h": "73fd1a1e2780",
+ "date": "2026-11-14",
+ "titre": "Fonction cérébrale et état psychologique lors d'une thérapie cellulaire dans l'AHAI",
+ "question": "Comment évoluent la fonction cérébrale et l'état psychologique des patients atteints d'AHAI pendant une thérapie cellulaire de type CAR-T ?",
+ "contexte": "Les thérapies cellulaires, notamment les CAR-T, sont de plus en plus utilisées dans les hémopathies et dans certaines maladies auto-immunes, dont l'anémie hémolytique auto-immune (AHAI) réfractaire. Leur efficacité s'accompagne de toxicités spécifiques, parmi lesquelles des atteintes neurologiques et cognitives (neurotoxicité liée aux cellules effectrices immunes).\n\nCes troubles peuvent modifier la cognition et le comportement des patients. Ils sont parfois détectés tardivement, alors qu'un repérage précoce permettrait une prise en charge adaptée.\n\nCette étude observationnelle chinoise, monocentrique, suit 20 patients atteints d'AHAI qui vont recevoir une thérapie cellulaire. Elle mesure les variations d'oxygénation cérébrale (hémoglobine oxygénée et désoxygénée, par une technique d'imagerie fonctionnelle optique) et évalue l'anxiété, la dépression et le bien-être psychologique. Les évaluations ont lieu avant le traitement, puis aux jours 1, 4, 7, 10, 14, 21 et 28. Le promoteur est l'Institut d'hématologie de Tianjin, en collaboration avec l'université de Tianjin.",
+ "interet": "L'étude pourrait fournir des marqueurs précoces de retentissement cérébral et psychologique des CAR-T. Elle pourrait aider à organiser un suivi neuropsychologique systématique, mais elle ne compare pas de stratégies de traitement.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'AHAI qui vont recevoir une thérapie cellulaire (par exemple CAR-T).",
+ "inclusion": [
+  "Diagnostic d'AHAI",
+  "Thérapie cellulaire prévue (par exemple CAR-T)",
+  "Âge de 18 à 65 ans",
+  "Capacité à respecter le protocole",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Antécédent de maladie psychiatrique",
+  "Antécédent de maladie cérébrale sévère",
+  "Autre raison jugée par l'investigateur rendant le patient inéligible"
+ ],
+ "bras": [
+  { "nom": "Cohorte AHAI sous thérapie cellulaire", "traitement": "Suivi de la fonction cérébrale et de l'état psychologique avant et pendant la thérapie cellulaire (J1, J4, J7, J10, J14, J21, J28)" }
+ ],
+ "duree": "28 jours après la thérapie cellulaire, avec évaluations avant le traitement et à J1, J4, J7, J10, J14, J21 et J28",
+ "critere": "Variations de concentration de l'hémoglobine oxygénée et désoxygénée cérébrale, évolution psychologique, anxiété et dépression, évaluées avant puis jusqu'à J28 après la thérapie cellulaire."
+}

@@ -1,0 +1,25 @@
+{
+ "h": "a4356d183608",
+ "date": "2026-11-14",
+ "titre": "Registre d'adultes atteints de gammapathies monoclonales et maladies plasmocytaires",
+ "question": "Peut-on constituer un registre de patients adultes atteints de maladies plasmocytaires avec une évaluation gériatrique répétée dans le temps ?",
+ "contexte": "Les maladies plasmocytaires regroupent le myélome multiple, la gammapathie monoclonale de signification indéterminée, le myélome indolent, l'amylose AL, la leucémie à plasmocytes, la maladie de Castleman, les maladies de dépôt de chaînes légères ou lourdes, le syndrome POEMS et la cryoglobulinémie. Elles touchent surtout des sujets âgés, souvent fragiles et porteurs de comorbidités.\n\nLes essais thérapeutiques incluent peu de patients âgés ou fragiles, alors que la tolérance et le choix des traitements dépendent largement de l'état fonctionnel, de la cognition, de l'état nutritionnel et du soutien social. Une évaluation gériatrique multidimensionnelle peut aider à adapter les traitements, mais son intérêt reste peu documenté dans ces maladies.\n\nCe registre monocentrique, promu par le UNC Lineberger Comprehensive Cancer Center, demande aux patients de réaliser une évaluation au moment de l'inclusion puis de la répéter dans le temps. Elle porte sur l'autonomie fonctionnelle, les comorbidités, la cognition, l'état psychologique, le soutien social, les médicaments et la nutrition. Les dossiers médicaux sont aussi revus. Une prise de sang optionnelle permet d'étudier p16INK4a, un marqueur de vieillissement biologique, et de constituer une banque d'échantillons pour des études ultérieures.",
+ "interet": "Le registre doit fournir des données sur les pratiques de soins et le profil gériatrique des patients, et préparer des recherches futures sur l'évaluation du vieillissement dans les maladies plasmocytaires. Il ne teste pas de traitement.",
+ "profil": "Des adultes atteints d'une maladie plasmocytaire documentée, suivis dans un centre de cancérologie américain.",
+ "inclusion": [
+  "Consultation ou hospitalisation pour une maladie plasmocytaire au UNC Cancer Hospitals ou sites affiliés",
+  "Maladie plasmocytaire documentée (protéine monoclonale et/ou population plasmocytaire monoclonale)",
+  "Âge d'au moins 18 ans",
+  "Consentement et accord pour réaliser l'évaluation initiale et de suivi",
+  "Capacité à lire et parler anglais"
+ ],
+ "exclusion": [
+  "Maladie physique ou psychiatrique empêchant la participation selon le clinicien",
+  "Aucun examen d'imagerie ou biologique n'est requis pour l'éligibilité"
+ ],
+ "bras": [
+  { "nom": "Cohorte unique", "traitement": "Patients avec maladie plasmocytaire, évaluation multidimensionnelle à l'inclusion puis répétée, prise de sang optionnelle (p16INK4a)" }
+ ],
+ "duree": "Suivi longitudinal jusqu'à 10 ans",
+ "critere": "Création du registre et réalisation des évaluations initiale et de suivi, sur 10 ans"
+}

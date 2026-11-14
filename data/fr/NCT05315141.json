@@ -1,0 +1,21 @@
+{
+ "h": "9073f7c58f2d",
+ "date": "2026-11-14",
+ "titre": "Cohorte multicentrique des vascularites à ANCA dans la province du Hunan",
+ "question": "Quelle est la progression des vascularites à ANCA dans le Hunan (Chine), et quels facteurs sont liés à l'insuffisance rénale terminale et au décès ?",
+ "contexte": "Les vascularites associées aux ANCA (granulomatose avec polyangéite, polyangéite microscopique, granulomatose éosinophilique avec polyangéite) sont des vascularites des petits vaisseaux. Elles atteignent souvent le rein et le poumon. Leur pronostic dépend de l'atteinte rénale, avec un risque d'insuffisance rénale terminale et de décès, notamment par infection ou événement cardiovasculaire.\n\nLes données épidémiologiques et pronostiques viennent surtout de cohortes occidentales. En Asie, la polyangéite microscopique et les ANCA anti-MPO prédominent, ce qui peut modifier la présentation et l'évolution. Les facteurs associés aux événements défavorables y sont moins bien caractérisés.\n\nCette cohorte multicentrique prospective du Xiangya Hospital (Université centrale du Sud) inclut environ 500 patients répondant aux critères de 2012, suivis dans cinq hôpitaux du Hunan. Elle recueille des données démographiques, cliniques, biologiques et d'imagerie à l'inclusion puis à chaque visite, pendant au moins 5 ans.",
+ "interet": "La cohorte pourrait préciser l'incidence de la progression et les facteurs prédictifs de décès et d'insuffisance rénale terminale dans une population chinoise.",
+ "profil": "Des patients ayant une vascularite à ANCA selon les critères de 2012, suivis dans la province du Hunan.",
+ "inclusion": [
+  "Vascularite à ANCA répondant aux critères de 2012",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Refus de signer le consentement"
+ ],
+ "bras": [
+  { "nom": "Xiangya Hospital et centres associés", "traitement": "Patients suivis dans 5 hôpitaux (Xiangya, 2e et 3e Xiangya, Hunan Provincial People's Hospital, Xiangtan Central), sans intervention" }
+ ],
+ "duree": "Au moins 5 ans",
+ "critere": "Décès toutes causes et insuffisance rénale terminale ou perte significative de la fonction rénale, jusqu'à 60 mois"
+}

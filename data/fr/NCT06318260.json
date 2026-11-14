@@ -1,0 +1,32 @@
+{
+ "h": "11d97d936ecd",
+ "date": "2026-11-14",
+ "titre": "Effets hémodynamiques de la dobutamine dans l'amylose cardiaque ATTRwt",
+ "question": "La dobutamine augmente-t-elle le débit cardiaque et diminue-t-elle les pressions de remplissage dans l'ATTRwt symptomatique, sans danger ?",
+ "contexte": "Dans l'amylose cardiaque à transthyrétine sauvage (ATTRwt), l'infiltration amyloïde rend le ventricule rigide et le volume d'éjection faible. Chez les patients symptomatiques, l'insuffisance cardiaque est difficile à traiter : les diurétiques de l'anse sont la base du traitement, tandis que plusieurs médicaments usuels de l'insuffisance cardiaque sont mal tolérés.\n\nLes inotropes comme la dobutamine sont classiquement évités, par crainte d'arythmies et de leur faible efficacité sur un ventricule infiltré. Les données hémodynamiques directes manquent. Cette étude danoise de phase 1/2, monocentrique, administre des doses croissantes de dobutamine à 15 patients ATTRwt de 65 ans ou plus, avec un cathétérisme cardiaque droit et une échocardiographie simultanés, en une seule journée.\n\nLes hypothèses sont une hausse significative de la contractilité, une baisse des pressions de remplissage (PAPO, PAP moyenne) et une bonne tolérance.",
+ "interet": "Les résultats pourraient éclairer l'usage éventuel des inotropes dans l'ATTRwt avancée et décrire la physiologie de ces patients.",
+ "profil": "Des adultes de 65 ans et plus avec ATTRwt symptomatique et fraction d'éjection ou volume d'éjection abaissés.",
+ "inclusion": [
+  "ATTRwt confirmée (génétique, scintigraphie DPD ou biopsie)",
+  "Traitement par diurétiques de l'anse",
+  "NYHA II-IV",
+  "Âge ≥ 65 ans",
+  "FEVG < 50 % et/ou indice de volume d'éjection < 35 ml/m²",
+  "Consentement oral et écrit"
+ ],
+ "exclusion": [
+  "Sténose aortique modérée à sévère",
+  "Autre valvulopathie significative",
+  "Coronaropathie sévère connue (tronc commun, tritronculaire) ou infarctus récent (< 4 semaines)",
+  "Contre-indication à la dobutamine (allergie, phéochromocytome, tachycardie ventriculaire)",
+  "Insuffisance rénale terminale (DFG < 15 ml/min/1,73 m²)"
+ ],
+ "bras": [
+  {
+   "nom": "ATTRwt",
+   "traitement": "Perfusion de dobutamine à doses croissantes, avec cathétérisme cardiaque droit et échocardiographie"
+  }
+ ],
+ "duree": "1 jour",
+ "critere": "Débit cardiaque à chaque palier de dobutamine et en fin de perfusion."
+}

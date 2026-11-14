@@ -1,0 +1,29 @@
+{
+ "h": "bdb539350429",
+ "date": "2026-11-14",
+ "titre": "Photophérèse extracorporelle dans la sclérodermie systémique diffuse débutante",
+ "question": "La photophérèse extracorporelle est-elle faisable, sûre et préliminairement efficace sur l'épaississement cutané de la sclérodermie systémique cutanée diffuse active ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune multisystémique, avec une atteinte vasculaire diffuse et une fibrose progressive de la peau et des organes internes. La forme cutanée diffuse est la plus grave. Aucun traitement n'est efficace pour la majorité des patients, et les quelques thérapeutiques disponibles n'ont qu'un bénéfice modeste sur certaines atteintes d'organes.\n\nAu stade précoce, il pourrait être possible de réduire l'inflammation et la probabilité d'une fibrose irréversible. La photophérèse extracorporelle (ECP) consiste à prélever les leucocytes, à les exposer à un psoralène (Uvadex) puis aux UVA, et à les réinjecter. Elle a un effet immunomodulateur, utilisé dans la maladie du greffon contre l'hôte et certains lymphomes cutanés.\n\nCette phase 2 pilote canadienne (London Health Sciences Centre / Lawson Research Institute) est ouverte, à bras unique, avec 15 patients. L'ECP est réalisée 2 jours consécutifs toutes les 4 semaines pendant 48 semaines. Le but est de déterminer si un essai randomisé est justifié.",
+ "interet": "L'étude pourrait indiquer si l'ECP mérite un essai randomisé dans la sclérodermie diffuse active. Elle ne peut pas conclure sur l'efficacité.",
+ "profil": "Des adultes ayant une sclérodermie systémique cutanée diffuse précoce ou active.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013, âge ≥ 18 ans",
+  "Forme diffuse précoce (< 5 ans après le premier symptôme hors Raynaud)",
+  "Ou autre forme diffuse avec activité : score de Rodnan ≥ 15, frottements tendineux, syndrome inflammatoire attribué à la maladie ou pneumopathie interstitielle (CVF < 80 % ou TDM)",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Fonction respiratoire altérée (CVF < 40 % ou DLCO < 30 %), HTP de classe IV",
+  "Maladie cardiaque significative ou autre maladie non contrôlée",
+  "Infection chronique ou active (dont tuberculose, VIH, hépatite B ou C active)",
+  "Thrombophilie, contre-indication à l'héparine, plaquettes < 100 000/mm3, hémoglobine < 70 g/L",
+  "Aphakie, splénectomie, maladie photosensible, réaction antérieure aux psoralènes",
+  "Plus de 2 immunosuppresseurs, ou antécédent d'ECP",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Photophérèse extracorporelle", "traitement": "ECP avec Uvadex (méthoxsalène) sur 2 jours consécutifs toutes les 4 semaines pendant 48 semaines" }
+ ],
+ "duree": "48 semaines",
+ "critere": "Variation de l'épaississement cutané mesurée par le score de Rodnan modifié à 48 semaines"
+}

@@ -1,0 +1,28 @@
+{
+ "h": "45454b073ced",
+ "date": "2026-11-14",
+ "titre": "Validation prospective de l'index OHI dans les hémopathies malignes",
+ "question": "L'index OHI (sCD25 > 3900 U/mL et ferritine > 1000 ng/mL) prédit-il la mortalité à un an chez les patients atteints d'hémopathie maligne ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire associée à une hémopathie maligne (HM-HLH) est un syndrome de très mauvais pronostic, avec une survie globale à 5 ans de 10 à 30 %. Les critères HLH-2004 sont peu adaptés au diagnostic chez l'adulte avec hémopathie, et le diagnostic est souvent tardif.\n\nL'équipe du centre médical Meir a établi un index diagnostique et pronostique, l'Optimized HLH Inflammatory (OHI) index, qui associe sCD25 > 3900 U/mL et ferritine > 1000 ng/mL. L'incidence réelle de l'HLH et de l'OHI positif dans une cohorte non sélectionnée, ainsi que le mécanisme de la HM-HLH, restent inconnus. Cette cohorte observationnelle inclut des adultes avec hémopathie maligne nouvelle ou transformée. Elle compare deux groupes selon l'OHI et suit leur survie à un an.",
+ "interet": "La validation de l'index OHI pourrait aider à repérer rapidement les patients à très haut risque et à leur proposer un traitement spécifique de l'HLH.",
+ "profil": "Des adultes atteints d'une hémopathie maligne nouvelle ou transformée.",
+ "inclusion": [
+  "Hémopathie maligne",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Chimiothérapie ou autre traitement cytoréducteur dans le dernier mois"
+ ],
+ "bras": [
+  {
+   "nom": "OHI positif",
+   "traitement": "Hémopathie maligne avec sCD25 > 3900 U/mL et ferritine > 1000 ng/mL"
+  },
+  {
+   "nom": "OHI négatif",
+   "traitement": "Hémopathie maligne avec sCD25 ou ferritine sous ces seuils"
+  }
+ ],
+ "duree": "Suivi jusqu'à 1 an",
+ "critere": "Mortalité à 365 jours des patients OHI positifs et négatifs."
+}

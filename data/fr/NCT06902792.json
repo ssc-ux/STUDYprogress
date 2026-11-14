@@ -1,0 +1,36 @@
+{
+ "h": "990ff94ec488",
+ "date": "2026-11-14",
+ "titre": "Adebrelimab et tramétinib dans l'histiocytose langerhansienne réfractaire de l'enfant",
+ "question": "L'association de l'adébrélimab (anti-PD-L1) et du tramétinib est-elle sûre et efficace dans l'histiocytose à cellules de Langerhans réfractaire ou en rechute de l'enfant ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) de l'enfant est une maladie clonale avec des mutations de la voie MAPK (souvent BRAF). Les formes unisystémiques ou multisystémiques répondent à la vinblastine et aux corticoïdes, mais certaines sont réfractaires ou rechutent, avec le recours à la cladribine ou à la clofarabine. Les inhibiteurs de MEK comme le tramétinib sont actifs mais n'induisent pas toujours de rémission durable.\n\nL'adébrélimab est un anticorps anti-PD-L1, utilisé en oncologie en Chine. Cette étude de phase 1 monocentrique, promue par le Second Hôpital affilié de l'Université médicale de Wenzhou, est la première utilisation de l'adébrélimab chez l'enfant atteint d'HCL. Elle inclut 6 patients, avec une escalade du premier patient vers les suivants, adébrélimab 20 mg/kg (ou 10 mg/kg en cas de toxicité limitante), associé au tramétinib, pour 6 cycles de 4 semaines.",
+ "interet": "Étude de faisabilité et de sécurité sur 6 enfants, hypothèse d'un traitement combiné visant les voies MAPK et PD-1/PD-L1 dans les HCL en impasse.",
+ "profil": "Des enfants et adolescents de 1 à 17 ans atteints d'HCL réfractaire ou en rechute, confirmée par biopsie.",
+ "inclusion": [
+  "HCL confirmée par biopsie (CD1a et/ou CD207 positifs)",
+  "Maladie réfractaire ou en rechute selon les critères du protocole CCHG-LCH-2019",
+  "Âge de 1 à 17 ans (initialement 6 à 17 ans)",
+  "ECOG 0-1 ou Lansky/Karnofsky ≥ 50 %, survie attendue ≥ 6 mois",
+  "FEVG ≥ 50 %, créatinine ≤ 2 N, ALAT/ASAT ≤ 5 N, bilirubine ≤ 2,5 N",
+  "PNN ≥ 1 G/L, Hb ≥ 80 g/L, plaquettes ≥ 75 G/L, SaO2 > 91 %",
+  "Consentement signé du patient ou de son représentant légal"
+ ],
+ "exclusion": [
+  "Anti-PD-1 ou anti-PD-L1 ou thérapie ciblée similaire antérieurs",
+  "Participation à un autre essai",
+  "Toxicité persistante > grade 1",
+  "Hypersensibilité à l'adébrélimab ou au tramétinib",
+  "Maladie auto-immune antérieure",
+  "Tuberculose active, infection active nécessitant un traitement systémique",
+  "VIH, syphilis, hépatite B ou C ; dysfonction thyroïdienne",
+  "Vaccin vivant dans les 4 semaines avant, pendant ou dans les 5 mois après le traitement"
+ ],
+ "bras": [
+  {
+   "nom": "Adébrelimab + tramétinib",
+   "traitement": "Adébrelimab 20 mg/kg IV jour 1 de chaque cycle de 4 semaines (10 mg/kg si toxicités limitantes), tramétinib 0,025 mg/kg/j (0,032 mg/kg/j si < 6 ans) sur 7 jours, 6 cycles"
+  }
+ ],
+ "duree": "6 cycles de 4 semaines, suivi jusqu'à 3 ans",
+ "critere": "Score d'activité de la maladie avant chaque cycle puis à 1 semaine, 3 mois, 6 mois, 1, 2 et 3 ans."
+}

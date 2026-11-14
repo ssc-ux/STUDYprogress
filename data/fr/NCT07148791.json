@@ -1,0 +1,32 @@
+{
+ "h": "9be073332a57",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA-CD19 dans la maladie liée aux IgG4 en rechute ou réfractaire",
+ "question": "Les lymphocytes CAR-T ciblant à la fois BCMA et CD19 sont-ils sûrs et améliorent-ils l'activité de la maladie liée aux IgG4 réfractaire ou en rechute ?",
+ "contexte": "La maladie liée aux IgG4 est une maladie fibro-inflammatoire chronique à médiation immune, pouvant toucher le pancréas, les voies biliaires, les glandes salivaires, le rein, le poumon ou le rétropéritoine. Les glucocorticoïdes et le rituximab sont efficaces chez la plupart des patients, mais certains rechutent fréquemment, deviennent résistants ou ont une contre-indication aux immunosuppresseurs.\n\nLes lésions contiennent de nombreux lymphocytes B CD19+, des plasmablastes et des plasmocytes à longue durée de vie exprimant BCMA, qui peuvent échapper à la déplétion B conventionnelle. Un CAR-T à double cible CD19 et BCMA pourrait détruire plus complètement ces cellules pathogènes. Cette étude exploratoire de phase 2, monocentrique, en ouvert et à un seul bras, utilise une escalade de dose de type 3+3 avec des cellules autologues transduites par vecteur lentiviral, après lymphodéplétion par fludarabine et cyclophosphamide. Le promoteur est l'hôpital général de l'Armée populaire de libération chinoise (Pékin).",
+ "interet": "Si la sécurité et l'activité se confirment, cette stratégie pourrait offrir une option aux patients réfractaires aux corticoïdes et au rituximab. Les données restent très préliminaires : petit effectif, un seul centre, sans comparateur.",
+ "profil": "Des adultes de 18 à 75 ans ayant une maladie liée aux IgG4 atteignant au moins deux organes, active malgré glucocorticoïdes ou rituximab, ou en rechute dans les 6 mois.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Critères de classification ACR/EULAR 2019 de la maladie liée aux IgG4",
+  "Atteinte d'au moins deux sites ou systèmes importants (pancréas, voies biliaires, rein, dure-mère, etc.)",
+  "Maladie active après 3 mois de glucocorticoïdes et/ou de rituximab, ou rechute dans les 6 mois",
+  "Fonctions médullaire, hépatique, rénale (clairance ≥ 30 ml/min) et de coagulation conservées",
+  "Contraception pendant le traitement et au moins 12 mois après",
+  "Consentement signé et accès veineux périphérique satisfaisant"
+ ],
+ "exclusion": [
+  "Infection non contrôlée ou nécessitant un traitement (fongique, bactérienne, virale)",
+  "Hépatite B ou C active, VIH ou syphilis positifs",
+  "Antécédent de cancer dans les 5 dernières années",
+  "Atteinte du système nerveux central (hors manifestations liées à la maladie), insuffisance cardiaque limitante",
+  "Déficit immunitaire humoral congénital, insuffisance rénale terminale",
+  "Autre essai clinique dans les 3 mois ou médicament expérimental dans les 12 semaines",
+  "Grossesse ou projet de grossesse"
+ ],
+ "bras": [
+  {"nom": "CAR-T anti-BCMA-CD19", "traitement": "Leucaphérèse, lymphodéplétion (fludarabine 30 mg/m²/j + cyclophosphamide 250 mg/m²/j, J-5 à J-3), puis perfusion unique de CAR-T à 1, 2 ou 3 × 10^6 cellules CAR+/kg selon le palier de dose"}
+ ],
+ "duree": "26 semaines de suivi intensif, suivi jusqu'à la semaine 52",
+ "critere": "Sécurité (toxicités limitant la dose dans les 28 jours, événements indésirables liés aux CAR-T) jusqu'à la semaine 26, et variation du IgG4-RD Responder Index aux semaines 12 et 26"
+}

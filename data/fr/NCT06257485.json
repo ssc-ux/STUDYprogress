@@ -1,0 +1,23 @@
+{
+ "h": "b9107a6ccb9f",
+ "date": "2026-11-14",
+ "titre": "Base de données de l'amylose cardiaque à transthyrétine du Bronx",
+ "question": "Quelles sont les caractéristiques et le pronostic des patients adressés pour scintigraphie au pyrophosphate dans une population diverse du Bronx ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cause fréquente mais méconnue d'insuffisance cardiaque, souvent diagnostiquée tardivement. Le diagnostic non invasif repose sur la scintigraphie osseuse (pyrophosphate, DPD ou HMDP) après exclusion d'une gammapathie monoclonale. Des traitements efficaces existent désormais (tafamidis, acoramidis), ce qui rend le dépistage précoce important.\n\nLes études publiées sous-représentent les femmes et les populations d'origines diverses, alors que la variante V122I est fréquente chez les patients afro-américains. Ce registre rétrospectif américain inclut tous les adultes adressés pour une TEMP au 99mTc-pyrophosphate à Montefiore-Einstein entre 2014 et 2023. Il recueille les données démographiques, comorbidités, biologie, échocardiographie, hospitalisations et mortalité.",
+ "interet": "Les résultats pourraient mieux décrire le profil et le pronostic de l'ATTR-CM dans des populations diverses et éclairer le dépistage.",
+ "profil": "Des adultes adressés pour scintigraphie au pyrophosphate pour suspicion d'amylose cardiaque à transthyrétine.",
+ "inclusion": [
+  "Adulte adressé pour TEMP au 99mTc-pyrophosphate à Montefiore entre 2014 et 2023"
+ ],
+ "exclusion": [
+  "Absence d'échocardiographie transthoracique dans le dossier"
+ ],
+ "bras": [
+  {
+   "nom": "Patients adressés pour scintigraphie au pyrophosphate",
+   "traitement": "Revue rétrospective des dossiers, sans intervention"
+  }
+ ],
+ "duree": "Non précisé (revue rétrospective 2014-2023)",
+ "critere": "Diagnostic d'ATTR-CM lors de la scintigraphie initiale, et mortalité sur la période étudiée."
+}

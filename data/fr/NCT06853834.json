@@ -1,0 +1,31 @@
+{
+ "h": "f02fc9fe8d10",
+ "date": "2026-11-14",
+ "titre": "Cryobiopsie endobronchique versus pince dans la suspicion de sarcoïdose pulmonaire",
+ "question": "La cryobiopsie endobronchique améliore-t-elle le rendement diagnostique par rapport à la biopsie à la pince chez les patients adressés pour EBUS-TBNA avec suspicion de sarcoïdose ?",
+ "contexte": "La sarcoïdose est une granulomatose systémique de cause inconnue, qui touche les voies respiratoires dans plus de 90 % des cas, surtout les ganglions hilaires et médiastinaux. L'atteinte des voies aériennes est fréquente mais souvent négligée, et associée à plus de symptômes et de morbidité. Le diagnostic repose sur la mise en évidence de granulomes épithélioïdes sans nécrose caséeuse, le plus souvent par EBUS-TBNA des ganglions.\n\nLa biopsie endobronchique (BEB) à la pince fournit de petits fragments avec des artéfacts d'écrasement. L'hypothèse est que la cryobiopsie, qui donne des échantillons plus grands et mieux conservés, augmente le rendement. Cette étude randomisée monocentrique en simple aveugle, menée à Lucknow (Inde) par le Sanjay Gandhi Postgraduate Institute of Medical Sciences, répartit 150 patients (75 par bras) entre cryobiopsie et pince, en complément de l'EBUS-TBNA. Trois biopsies sont prises à la carène principale et aux carènes secondaires, plus les anomalies visibles.",
+ "interet": "Elle pourrait préciser quelle technique de biopsie endobronchique choisir, et le gain diagnostique de l'association à l'EBUS-TBNA, pour confirmer la sarcoïdose plus souvent en un seul geste.",
+ "profil": "Des adultes avec suspicion de sarcoïdose pulmonaire programmés pour un EBUS-TBNA.",
+ "inclusion": [
+  "Suspicion de sarcoïdose pulmonaire",
+  "EBUS-TBNA de routine programmé"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Comorbidités chroniques (diabète, insuffisance rénale, hépatopathie chronique, etc.)",
+  "Corticoïdes dans les 3 derniers mois, ou traitement de fond ou immunosuppresseur",
+  "Diagnostic final autre que la sarcoïdose"
+ ],
+ "bras": [
+  {
+   "nom": "Cryobiopsie endobronchique",
+   "traitement": "Biopsie endobronchique par cryosonde (azote liquide) après EBUS-TBNA"
+  },
+  {
+   "nom": "Biopsie à la pince",
+   "traitement": "Biopsie endobronchique par pince standard après EBUS-TBNA"
+  }
+ ],
+ "duree": "Un seul geste ; résultat environ 2 semaines après la fin des inclusions",
+ "critere": "Rendement diagnostique de la biopsie, évalué 2 semaines après la fin des inclusions."
+}

@@ -1,0 +1,27 @@
+{
+ "h": "e42483d9b99c",
+ "date": "2026-11-14",
+ "titre": "Caractérisation biologique des patients atteints de PTI primaire non traité",
+ "question": "Quelles anomalies biologiques caractérisent le PTI primaire avant traitement, et comment évoluent-elles sous traitement ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une thrombopénie auto-immune dont les mécanismes sont multiples : auto-anticorps antiplaquettaires, dysrégulation des lymphocytes T, altération de la production plaquettaire. La réponse aux traitements varie fortement d'un patient à l'autre, sans marqueur prédictif utilisable en pratique.\n\nCette étude non lucrative, multicentrique et non médicamenteuse, promue par le groupe italien GIMEMA, caractérise sur le plan biologique des adultes atteints de PTI primaire qui nécessitent un traitement de première ligne selon le consensus 2019. Des prélèvements de sang périphérique, de selles et de moelle sont réalisés à l'inclusion, puis 30 et 180 jours après le début de chaque ligne de traitement. Les résultats sont comparés pour rechercher des modifications liées à l'histoire naturelle de la maladie, au traitement reçu et à la réponse obtenue.",
+ "interet": "Elle pourrait identifier des signatures biologiques (y compris le microbiote) prédictives de la réponse, pour mieux choisir les traitements dans le PTI.",
+ "profil": "Des adultes atteints de PTI primaire non traité, nécessitant un traitement de première ligne.",
+ "inclusion": [
+  "PTI primaire nécessitant un traitement de première ligne (consensus 2019)",
+  "Patient non traité, ou traité depuis moins de 24 heures pour un saignement menaçant le pronostic vital, avec prélèvements",
+  "Âge ≥ 18 ans",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "PTI secondaire (ANA positifs sans lupus admis)",
+  "Triple positivité des anticorps antiphospholipides (anti-β2GP1, anticardiolipine, anticoagulant circulant)"
+ ],
+ "bras": [
+  {
+   "nom": "Évaluation biologique",
+   "traitement": "Prélèvements de sang, de selles et de moelle à l'inclusion, à 30 et 180 jours après chaque ligne de traitement"
+  }
+ ],
+ "duree": "Prélèvements jusqu'à 180 jours après le début de chaque ligne de traitement",
+ "critere": "Incidence d'un mécanisme de la maladie lié aux lymphocytes B, à l'inclusion."
+}

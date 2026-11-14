@@ -1,0 +1,31 @@
+{
+ "h": "fc40ab82785a",
+ "date": "2026-11-14",
+ "titre": "Fonction musculaire squelettique et oxygène supplémentaire à l'effort dans la pneumopathie interstitielle",
+ "question": "Une dysfonction des muscles des jambes contribue-t-elle à la dyspnée et à la limitation à l'effort dans les pneumopathies interstitielles, et l'oxygène supplémentaire la réduit-il ?",
+ "contexte": "La dyspnée et l'intolérance à l'effort sont des symptômes majeurs des pneumopathies interstitielles diffuses (PID) fibrosantes, dont la fibrose pulmonaire idiopathique (FPI), la pneumopathie d'hypersensibilité chronique et la PINS fibrosante. Elles ne s'expliquent pas entièrement par l'atteinte ventilatoire et les échanges gazeux.\n\nUne dysfonction musculaire périphérique, notamment du quadriceps, pourrait y contribuer. Elle a été décrite dans d'autres maladies respiratoires chroniques comme la BPCO, mais reste peu étudiée dans les PID. Une fatigabilité musculaire précoce pourrait augmenter la perception de l'effort et limiter la tolérance à l'exercice.\n\nCette étude physiologique de l'Université de Colombie-Britannique compare des patients avec PID fibrosante à des témoins sains appariés pour l'âge. Elle caractérise la structure et la force des muscles des jambes, puis mesure la fatigue du quadriceps, la dyspnée et la durée d'effort lors d'un exercice à charge constante, une fois en air ambiant et une fois sous oxygène enrichi (60 %). L'hypothèse est que l'hyperoxie réduit la fatigue musculaire, la dyspnée et améliore la tolérance à l'effort.",
+ "interet": "Les résultats pourraient préciser le rôle du muscle périphérique dans la dyspnée des PID et justifier des interventions ciblées, comme la réadaptation ou l'oxygénothérapie à l'effort.",
+ "profil": "Des adultes de 40 à 80 ans atteints de PID fibrosante stable, et des témoins sains du même âge.",
+ "inclusion": [
+  "Âge de 40 à 80 ans",
+  "Diagnostic multidisciplinaire de FPI, PINS fibrosante, pneumopathie d'hypersensibilité chronique ou PID inclassable",
+  "Fibrose au scanner thoracique (rayon de miel, réticulation ou bronchectasies de traction)",
+  "Distance de marche de 6 minutes d'au moins 50 m, SpO2 d'au moins 92 % au repos en air ambiant",
+  "Stabilité clinique depuis 6 semaines, candidat à la réadaptation respiratoire",
+  "Témoins : fonction pulmonaire normale (80-120 % de la théorique), sans maladie pulmonaire ni cardiovasculaire"
+ ],
+ "exclusion": [
+  "Contre-indication à l'épreuve d'effort ou autre maladie extrapulmonaire limitant l'effort",
+  "CVF inférieure à 50 % ou DLCO inférieure à 25 %",
+  "Réadaptation respiratoire dans les 6 derniers mois",
+  "Prednisone au-dessus de 10 mg/j pendant plus de 2 semaines dans les 3 mois précédents",
+  "Emphysème significatif (VEMS/CVF inférieur à 0,70)",
+  "Témoins : tabagisme actuel ou plus de 10 paquets-années, pacemaker ou implant métallique"
+ ],
+ "bras": [
+  { "nom": "Patients PID et témoins, exercice sous air ambiant", "traitement": "Exercice à charge constante en air ambiant (20,93 % d'oxygène) lors de la visite 3" },
+  { "nom": "Patients PID et témoins, exercice sous hyperoxie", "traitement": "Exercice à charge constante avec oxygène à 60 % lors de la visite 4" }
+ ],
+ "duree": "Environ 8 semaines (4 visites)",
+ "critere": "Variation du score de dyspnée pendant l'exercice à charge constante et variation de la force musculaire des jambes après l'exercice, en air ambiant (visite 3) et sous hyperoxie (visite 4)"
+}

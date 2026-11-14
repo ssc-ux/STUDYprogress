@@ -1,0 +1,30 @@
+{
+ "h": "dbbcc4630b5f",
+ "date": "2026-11-14",
+ "titre": "BMN 331, thérapie génique dans l'angiœdème héréditaire par déficit en C1-INH",
+ "question": "Une injection unique de thérapie génique (AAV5 exprimant SERPING1) est-elle sûre et efficace pour réduire les crises d'angiœdème héréditaire par déficit en C1-INH ?",
+ "contexte": "L'angiœdème héréditaire (AOH) par déficit en inhibiteur de la C1 estérase (C1-INH) provoque des crises récidivantes d'œdème cutané, digestif et laryngé, parfois engageant le pronostic vital. Les traitements actuels comprennent la prophylaxie à long terme (C1-INH, lanadélumab, bérotralstat) et le traitement des crises (icatibant, C1-INH).\n\nCes traitements sont efficaces mais exigent une prise régulière, souvent par injections, pendant toute la vie. Une thérapie génique unique, qui rétablirait la production de C1-INH par le foie, pourrait modifier le cours de la maladie et supprimer cette contrainte.\n\nBMN 331 est un vecteur AAV5 exprimant le gène humain SERPING1 sauvage sous un promoteur spécifique du foie. Des études précliniques ont montré une transduction des hépatocytes et un rétablissement des taux circulants de C1-INH. Cette phase 1/2 de BioMarin, première chez l'homme, est ouverte et à bras unique, avec escalade puis expansion de dose chez 44 adultes. Le suivi dure 5 ans.",
+ "interet": "Si la sécurité et l'efficacité se confirment, une injection unique pourrait remplacer la prophylaxie chronique. Le recul est encore court, et les risques hépatiques et immunologiques des vecteurs AAV devront être précisés.",
+ "profil": "Des adultes ayant un angiœdème héréditaire de type I (ou II en partie B) confirmé par génotypage de SERPING1.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AOH de type I (partie A) ou de type I ou II (partie B), confirmé par génotypage de SERPING1",
+  "Prophylaxie à long terme depuis ≥ 6 mois, ou ≥ 4 crises en 12 mois ou ≥ 2 crises en 6 mois sous traitement à la demande",
+  "Capable de traiter seul les crises à domicile",
+  "Abstinence d'alcool pendant 52 semaines après la perfusion, contraception très efficace"
+ ],
+ "exclusion": [
+  "Infection active ou chronique (dont SARS-CoV-2) ou déficit immunitaire",
+  "Contre-indication aux corticoïdes (glaucome, ostéoporose non traitée)",
+  "Cancer actif ou maladie auto-immune, métabolique, hématologique, cardiaque ou rénale significative",
+  "Thérapie génique antérieure",
+  "Androgènes atténués à forte dose dans l'année",
+  "Maladie hépatique cliniquement pertinente (NASH, hépatite B, C ou auto-immune)",
+  "Risque thromboembolique ou microangiopathie thrombotique"
+ ],
+ "bras": [
+  { "nom": "BMN 331", "traitement": "Perfusion IV unique de thérapie génique AAV5-hSERPING1, 7 niveaux de dose testés" }
+ ],
+ "duree": "5 ans de suivi après la perfusion",
+ "critere": "Nombre de participants avec événements indésirables apparus sous traitement après une administration IV unique de BMN 331, à 5 ans"
+}

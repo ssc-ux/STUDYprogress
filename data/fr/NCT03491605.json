@@ -1,0 +1,14 @@
+{
+ "h": "1bbad2771b80",
+ "date": "2026-11-14",
+ "titre": "Suivi de l'infection chronique latente à EBV à charge virale élevée chez des sujets sains",
+ "question": "Une charge élevée d'ADN d'EBV dans le sang chez un sujet immunocompétent est-elle associée à la survenue d'hémopathies malignes ?",
+ "contexte": "Le virus d'Epstein-Barr (EBV) est oncogène et impliqué dans divers lymphomes, le syndrome d'activation macrophagique (HLH) et l'EBV chronique actif (CAEBV). L'infection latente chronique, notamment avec une charge élevée persistante d'ADN d'EBV, est une zone grise entre la primo-infection et les hémopathies malignes, rarement étudiée. Des travaux antérieurs ont montré une hétérogénéité raciale, de charge virale et de cellules cibles.\n\nCette étude de cohorte de la Huazhong University of Science and Technology inclut des sujets immunocompétents découverts avec une charge d'ADN d'EBV supérieure à 10^3 copies/mL lors d'un bilan de santé. Ils sont suivis par entretien téléphonique ou en consultation. Le critère principal est la survenue d'hémopathies malignes : lymphome de Burkitt, syndromes lymphoprolifératifs B EBV+, lymphome NK/T extranodal, leucémie NK agressive, lymphome de Hodgkin, HLH lié à l'EBV et CAEBV. Un volet exploratoire étudie les mécanismes génétiques d'échappement immunitaire et de tumorigenèse.",
+ "interet": "L'étude pourrait préciser si une charge d'EBV élevée chez un sujet sain justifie une surveillance, et identifier des facteurs prédictifs de transformation.",
+ "profil": "Des adultes immunocompétents sans maladie connue, avec une charge élevée d'ADN d'EBV dans le sang.",
+ "inclusion": ["Sujet immunocompétent avec ADN d'EBV sanguin > 10^3 copies/mL lors d'un examen de santé", "Accord pour un suivi par téléphone ou en consultation"],
+ "exclusion": ["Déficit immunitaire défini", "Traitement immunosuppresseur passé ou prévu", "Hémopathie avérée", "Lésion précancéreuse ou tumeur maligne avec espérance de vie < 1 an", "Maladie psychique empêchant la participation libre", "Grossesse ; absence de consentement écrit"],
+ "bras": [{"nom": "Charge d'ADN d'EBV périphérique élevée", "traitement": "Cohorte de sujets avec > 10^3 copies/mL, suivie sans traitement imposé"}],
+ "duree": "5 ans ou plus si nécessaire",
+ "critere": "Survenue d'hémopathies malignes, sur 5 ans ou plus"
+}

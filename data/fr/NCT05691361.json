@@ -1,0 +1,41 @@
+{
+ "h": "28600b51e8e4",
+ "date": "2026-11-14",
+ "titre": "ADX-324 chez des volontaires sains et des patients atteints d'angiœdème héréditaire",
+ "question": "L'ADX-324, un oligonucléotide ciblant la prékallicréine, est-il sûr et bien toléré chez des volontaires sains et des patients atteints d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est une maladie rare par déficit en inhibiteur de la C1 estérase, avec crises d'œdèmes imprévisibles et parfois laryngés. Le traitement de fond repose sur le lanadélumab, le berotralstat ou les androgènes atténués, voire l'inhibiteur de C1. Ces traitements demandent des administrations fréquentes, et l'accès reste inégal.\n\nL'ADX-324, développé par ADARx, est un petit ARN interférent conçu pour réduire l'expression hépatique de la voie de la kallicréine. Cet essai de phase 1/2 est de première administration chez l'homme. La partie A est une escalade de dose à dose unique, randomisée en double aveugle contre placebo, chez des volontaires sains (jusqu'à 6 cohortes de 8 sujets, 3:1). La partie B est une cohorte d'extension ouverte chez des patients avec AOH, à la dose choisie par le comité de sécurité.",
+ "interet": "Premiers résultats de sécurité, de pharmacocinétique et de pharmacodynamie d'un ARNi dans l'AOH. Ils conditionnent le développement d'un traitement de fond à administration espacée.",
+ "profil": "Des adultes de 18 à 55 ans, volontaires sains ou patients avec AOH de type I ou II.",
+ "inclusion": [
+  "Adulte de 18 à 55 ans, IMC de 18 à 30 kg/m²",
+  "Partie B : AOH de type I ou II confirmé",
+  "Partie B : au moins une crise par mois en moyenne",
+  "Partie B : accès à un traitement de crise",
+  "Contraception adaptée, consentement et suivi des visites"
+ ],
+ "exclusion": [
+  "Antécédent médical significatif",
+  "Cancer actif ou dans les 5 ans",
+  "Maladie hépatique, syndrome de Gilbert ou bilan hépatique anormal",
+  "Clairance de la créatinine < 60 mL/min",
+  "Infection active ; sérologies VHB, VHC ou VIH positives",
+  "Autre produit expérimental dans les 30 jours",
+  "Partie B : autre angiœdème chronique, ou antécédent thrombotique ou risque prothrombotique"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A : ADX-324",
+   "traitement": "Dose unique croissante chez des volontaires sains (6 sujets actifs par cohorte)"
+  },
+  {
+   "nom": "Partie A : placebo",
+   "traitement": "Placebo apparié (2 sujets par cohorte)"
+  },
+  {
+   "nom": "Partie B : patients AOH",
+   "traitement": "ADX-324 en ouvert à la dose retenue par le comité de sécurité"
+  }
+ ],
+ "duree": "365 jours",
+ "critere": "Sécurité chez les volontaires sains et chez les patients avec AOH (événements indésirables), sur 365 jours."
+}

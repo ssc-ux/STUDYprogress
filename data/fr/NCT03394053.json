@@ -1,0 +1,14 @@
+{
+ "h": "8983deab51cd",
+ "date": "2026-11-14",
+ "titre": "Biologie mécanistique des déficits immunitaires primitifs (NIAID)",
+ "question": "Quelles sont les causes génétiques et l'histoire naturelle des déficits immunitaires primitifs connus ou nouveaux ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP) regroupent des maladies qui affaiblissent le système immunitaire : formes sévères détectées à la naissance (SCID, déficits immunitaires combinés, déficits en cellules NK) et formes plus légères diagnostiquées tardivement. Leur diversité génétique est grande et de nombreux patients restent sans diagnostic moléculaire.\n\nCette étude d'histoire naturelle du NIAID (NIH) inclut des patients de 0 à 90 ans avec un DIP connu ou non élucidé, leurs apparentés biologiques sans DIP et des volontaires sains de 18 à 75 ans. Les participants donnent des échantillons sanguins pour des analyses immunologiques et génétiques (avec reprogrammation possible en cellules iPS). Ils sont suivis sur le plan du phénotype immunologique, des infections, de l'auto-immunité, des allergies, des cancers et de la réponse aux traitements préventifs et curatifs, pendant 10 à 15 ans.",
+ "interet": "L'étude pourrait identifier de nouveaux gènes et phénotypes de DIP et améliorer la caractérisation des formes connues, à visée diagnostique.",
+ "profil": "Des enfants et adultes de 0 à 90 ans avec un DIP, leurs apparentés non atteints et des volontaires sains.",
+ "inclusion": ["Patients de 0 à 90 ans avec un DIP connu ou non élucidé (anomalies cliniques ou biologiques répétées évoquant un défaut de l'immunité innée ou adaptative)", "Accord pour le test génétique et la reprogrammation des échantillons en cellules iPS", "Apparentés biologiques sans DIP, de 0 à 90 ans", "Volontaires sains de 18 à 75 ans, poids > 50 kg, sans maladie cardiaque, pulmonaire, rénale, hémorragique, hépatite virale ou VIH", "Accord pour le stockage des échantillons pour de futures recherches"],
+ "exclusion": ["Déficit immunitaire secondaire (VIH, immunosuppresseurs, chimiothérapie)", "Toute condition contre-indiquant la participation selon l'investigateur", "Volontaires sains : grossesse"],
+ "bras": [{"nom": "Patients atteints", "traitement": "Échantillons sanguins, évaluation clinique et génétique, suivi longitudinal"}, {"nom": "Volontaires sains", "traitement": "Échantillons sanguins comme témoins"}, {"nom": "Apparentés de patients", "traitement": "Échantillons sanguins et test génétique"}],
+ "duree": "10 à 15 ans",
+ "critere": "Identification de phénotypes cliniques propres aux causes génétiques connues de DIP et de variants génétiques associés aux DIP, sur 10 à 15 ans"
+}

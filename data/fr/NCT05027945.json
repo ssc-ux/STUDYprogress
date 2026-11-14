@@ -1,0 +1,32 @@
+{
+ "h": "e5b8f96e0930",
+ "date": "2026-11-14",
+ "titre": "Allogreffe de cellules souches hématopoïétiques dans le syndrome VEXAS",
+ "question": "Une allogreffe de cellules souches peut-elle être réalisée avec succès dans le syndrome VEXAS et faire régresser la maladie ?",
+ "contexte": "Le syndrome VEXAS, décrit en 2019 par le NIH, est une maladie auto-inflammatoire de l'adulte liée à des mutations somatiques du gène UBA1 dans les cellules hématopoïétiques, localisé sur le chromosome X. Il associe de la fièvre, des atteintes cutanées, pulmonaires, cartilagineuses et articulaires, et des manifestations hématologiques : vacuoles dans les précurseurs médullaires, macrocytose, cytopénies, parfois myélodysplasie.\n\nLa maladie est souvent corticodépendante et résiste à de nombreux traitements immunosuppresseurs et biothérapies, avec une mortalité non négligeable. Le clone muté étant hématopoïétique, remplacer la moelle par celle d'un donneur est une piste curative. Les données publiées sont limitées à de petites séries.\n\nCette phase 2 du NCI, non randomisée, inclut 54 patients de 18 à 75 ans, avec donneur HLA compatible ou haplo-identique. Deux conditionnements d'intensité réduite sont testés (fludarabine-busulfan, ou fludarabine-cyclophosphamide avec irradiation corporelle totale de 2 Gy et busulfan), avec cyclophosphamide post-greffe, tacrolimus et mycophénolate comme prophylaxie de la GVH.",
+ "interet": "L'étude pourrait établir la faisabilité et l'efficacité de l'allogreffe pour guérir le VEXAS sévère, au prix d'une toxicité de greffe qu'il faudra mettre en balance.",
+ "profil": "Des adultes de 18 à 75 ans ayant un syndrome VEXAS sévère, avec un donneur compatible disponible.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, Karnofsky ≥ 40 %",
+  "Donneur apparenté ou non apparenté HLA 8/8 ou 7/8, ou haplo-identique",
+  "Mutation somatique d'UBA1, ou histoire clinique caractéristique",
+  "Phénotype inflammatoire et cytopénie (neutrophiles ≤ 1000/µL, plaquettes ≤ 75 000/µL, hémoglobine ≤ 10 g/dL) ou néoplasie myéloïde, ou échec du traitement médical standard",
+  "FEVG > 35 %, créatinine ≤ 2 mg/dL, bilirubine conjuguée < 3 mg/dL, VEMS et DLCO > 30 %",
+  "Résidence à moins de 2 heures du NIH pendant au moins 100 jours après la greffe"
+ ],
+ "exclusion": [
+  "Indice de comorbidité HCT-CI ≥ 5",
+  "Myélome multiple",
+  "Autre produit expérimental dans les 30 jours",
+  "Infection par le VIH",
+  "Allergie aux produits de l'étude (corticoïdes, cyclophosphamide, busulfan, tacrolimus, MMF, filgrastim)",
+  "Grossesse ou allaitement",
+  "Infection active non contrôlée, trouble psychiatrique actif compromettant l'observance"
+ ],
+ "bras": [
+  { "nom": "Bras A", "traitement": "Conditionnement d'intensité réduite fludarabine-busulfan, allogreffe, prophylaxie de la GVH (cyclophosphamide post-greffe, tacrolimus, mycophénolate)" },
+  { "nom": "Bras B", "traitement": "Conditionnement fludarabine, cyclophosphamide faible dose, irradiation corporelle totale 200 cGy et busulfan, allogreffe, même prophylaxie de la GVH" }
+ ],
+ "duree": "Suivi de 2 ans après la greffe pour le critère principal (+1 et +2 ans)",
+ "critere": "Régression du phénotype clinique du VEXAS à 1 et 2 ans après la greffe, et chimérisme donneur durable à J100 et à 1 an"
+}

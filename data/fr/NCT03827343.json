@@ -1,0 +1,22 @@
+{
+ "h": "98ddbc8ed989",
+ "date": "2026-11-14",
+ "titre": "Revue rétrospective des toxicités de l'immunothérapie dans les essais du NCI",
+ "question": "Quels sont les profils de toxicité et les facteurs de risque des événements indésirables liés à l'immunothérapie dans les essais du NCI, chez l'enfant et l'adulte ?",
+ "contexte": "L'immunothérapie a profondément modifié le traitement des cancers, mais son profil de toxicité diffère de celui de la chimiothérapie. Les événements indésirables immuno-médiés (irAE) résultent d'une activation du système immunitaire, peuvent toucher n'importe quel organe et imposent parfois une immunosuppression systémique, avec des conséquences sur le traitement du cancer.\n\nLes thérapies cellulaires adoptives, dont les CAR-T, s'accompagnent d'un syndrome de relargage cytokinique (CRS) de gravité variable, pouvant nécessiter un blocage des cytokines (anti-IL-6) ou une immunosuppression. Parmi les complications rares et graves figurent le syndrome d'activation macrophagique et les tableaux proches de la lymphohistiocytose hémophagocytaire (HLH), d'où les affections listées dans le registre.\n\nCette étude observationnelle du National Cancer Institute rassemble de manière rétrospective les données déjà recueillies dans plusieurs essais d'immunothérapie menés au NCI, sans contact avec les participants ni prélèvement. Elle vise à comparer les toxicités entre protocoles, à identifier les facteurs associés aux issues et à améliorer la prise en charge des effets secondaires. Les données ne sont reprises que des protocoles dont l'investigateur principal a donné son accord, et le protocole sera amendé pour inclure de nouveaux objectifs.",
+ "interet": "Les résultats pourraient documenter les facteurs de risque d'irAE et de CRS sévères et contribuer à de meilleures stratégies de dépistage et de traitement de ces complications, y compris l'HLH secondaire aux immunothérapies.",
+ "profil": "Des enfants et adultes atteints de cancer, traités par immunothérapie dans des protocoles du NCI.",
+ "inclusion": [
+  "Patient inclus dans un essai d'immunothérapie du NCI dont l'investigateur principal autorise l'usage des données",
+  "Âge de 1 mois à 120 ans",
+  "Revue rétrospective de dossiers uniquement, sans prélèvement ni contact"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  { "nom": "Cohorte rétrospective", "traitement": "Revue de dossiers d'enfants et d'adultes atteints de cancer traités par immunothérapie dans des protocoles du NCI" }
+ ],
+ "duree": "Aucune participation requise (analyse de données existantes, environ 2 ans)",
+ "critere": "Constitution d'une étude rétrospective permettant de comparer les profils de toxicité et les facteurs de risque entre protocoles, en 2 ans"
+}

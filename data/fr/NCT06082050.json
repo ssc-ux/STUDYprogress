@@ -1,0 +1,34 @@
+{
+ "h": "944023b98091",
+ "date": "2026-11-14",
+ "titre": "YOLT-201 intraveineux dans la cardiomyopathie à transthyrétine",
+ "question": "Le YOLT-201, administré en perfusion unique, est-il sûr et tolérable chez des patients atteints de cardiomyopathie amyloïde à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM), héréditaire (ATTRv) ou sauvage (ATTRwt), est une cardiomyopathie restrictive progressive du sujet âgé. Le tafamidis, stabilisateur de la TTR, et, selon les pays, les silenceurs d'ARN (patisiran, vutrisiran) sont les traitements disponibles, mais leur accès est limité par le coût et les ressources, et la maladie progresse chez certains patients malgré le traitement.\n\nLe YOLT-201 est une thérapie génique expérimentale, administrée en perfusion unique sous forme de nanoparticules lipidiques (LNP), destinée à réduire de façon durable la production de TTR par le foie. Les critères d'exclusion mentionnent d'ailleurs une allergie ou des réactions aux composants des LNP et un suivi du bilan hépatique et de la coagulation.\n\nCette étude de phase 1 de l'université de Zhejiang est un essai ouvert à un seul bras, avec escalade de dose unique. Les patients n'ayant pas accès aux traitements existants ou progressant malgré au moins 6 mois de traitement sont éligibles. Une seconde administration à la dose biologique optimale est possible sur base volontaire.",
+ "interet": "Il s'agit d'une première évaluation de sécurité et d'activité préliminaire. Si elle est concluante, elle ouvrira la voie à des essais plus larges d'un traitement potentiellement unique de l'ATTR-CM.",
+ "profil": "Des adultes de 18 à 80 ans avec ATTR-CM héréditaire ou sauvage, NYHA I à III.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "ATTR-CM selon les recommandations chinoises, ESC et ACC (formes ATTRv et ATTRwt)",
+  "NYHA I à III, test de marche de 6 minutes ≥ 150 m, épaisseur septale ou pariétale ≥ 12 mm, NT-proBNP < 2000 pg/mL",
+  "Poids ≥ 40 kg, bilan hépatique, rénal (DFGe > 45), plaquettes (≥ 100 G/L) et coagulation normaux",
+  "Absence d'accès aux traitements existants ou progression malgré au moins 6 mois de traitement",
+  "Absence d'alcool jusqu'à 28 jours après le traitement, contraception adaptée"
+ ],
+ "exclusion": [
+  "Amylose non liée à la TTR (AL), myélome ou gammapathie monoclonale non écartée",
+  "Allergie ou événement indésirable lié aux composants des LNP",
+  "Traitement récent par patisiran, inotersen, vutrisiran, tafamidis, diflunisal ou autre traitement de l'ATTR (délais précisés)",
+  "Autre cardiopathie organique, NYHA IV ou insuffisance cardiaque aggravée dans les 90 jours",
+  "Hospitalisation ou chirurgie cardiovasculaire dans les 90 jours",
+  "Antiagrégants ou anticoagulants dans les 14 jours, trouble de la coagulation",
+  "Impossibilité de supplémenter en vitamine A, signes de carence en vitamine A, survie attendue < 2 ans"
+ ],
+ "bras": [
+  {
+   "nom": "YOLT-201",
+   "traitement": "Perfusion intraveineuse au jour 1, dose croissante ; seconde perfusion volontaire à la dose biologique optimale"
+  }
+ ],
+ "duree": "Environ 1 an",
+ "critere": "Événements indésirables jusqu'à la fin de l'étude (environ 1 an)."
+}

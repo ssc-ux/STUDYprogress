@@ -1,0 +1,28 @@
+{
+ "h": "325ab3e692cd",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'amylose cardiaque à TTR sauvage chez les patients avec polyneuropathie inexpliquée",
+ "question": "Quelle est la prévalence de l'amylose cardiaque à TTR sauvage chez des patients de 60 ans et plus ayant une polyneuropathie sans cause connue ?",
+ "contexte": "L'amylose cardiaque à transthyrétine sauvage (ATTRwt) est une cause sous-diagnostiquée d'insuffisance cardiaque du sujet âgé. Le diagnostic est souvent tardif, alors que des traitements comme le tafamidis existent désormais. Des manifestations extracardiaques précoces, comme le syndrome du canal carpien ou la sténose canalaire lombaire, peuvent précéder l'atteinte cardiaque de plusieurs années.\n\nLa polyneuropathie axonale chronique de longueur dépendante et la neuropathie des petites fibres, sans cause identifiée, pourraient faire partie de ces signes précoces. Cette étude monocentrique de l'UZ Brussel, en Belgique, évalue ce lien.\n\nLes patients, déjà explorés en neurologie (ENMG, Sudoscan), passent une consultation unique avec ECG, échocardiographie et questionnaires (NTSS-6, COMPASS-31, KCCQ), plus des scores neurologiques (mPND, NIS). Les données antérieures du dossier sont analysées.",
+ "interet": "Si la prévalence est élevée, un dépistage cardiaque systématique pourrait être proposé aux patients âgés avec neuropathie inexpliquée, afin d'accélérer le diagnostic d'amylose.",
+ "profil": "Des adultes de 60 ans et plus ayant une polyneuropathie axonale ou une neuropathie des petites fibres sans cause connue.",
+ "inclusion": [
+  "Polyneuropathie axonale chronique de longueur dépendante et/ou neuropathie des petites fibres sans cause définie",
+  "Âge de 60 ans ou plus",
+  "Hommes et femmes",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Cause connue de polyneuropathie",
+  "Autre type de neuropathie périphérique",
+  "Âge de moins de 60 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Bras unique",
+   "traitement": "Patients avec polyneuropathie inexpliquée : ECG, échocardiographie et questionnaires lors d'une visite"
+  }
+ ],
+ "duree": "Une visite unique (données rétrospectives associées)",
+ "critere": "Prévalence de l'amylose cardiaque à TTR sauvage dans la population, évaluée sur 36 mois."
+}

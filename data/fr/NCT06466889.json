@@ -1,0 +1,28 @@
+{
+ "h": "7ca61f55c3f5",
+ "date": "2026-11-14",
+ "titre": "Registre zurichois de la mastocytose et de l'hypertryptasémie",
+ "question": "Comment décrire l'évolution de la mastocytose et de l'hypertryptasémie dans un centre universitaire ?",
+ "contexte": "La mastocytose est un groupe de maladies rares caractérisées par l'accumulation de mastocytes clonaux, avec des formes cutanées, systémiques indolentes ou avancées. L'hypertryptasémie est une élévation répétée de la tryptase sérique, parfois d'origine héréditaire (hypertryptasémie alpha), sans mastocytose sous-jacente ou sans biopsie de moelle.\n\nCe registre de l'université de Zurich inclut des adultes avec mastocytose ou hypertryptasémie suivis dans le service. Il rassemble les données démographiques, l'évolution clinique et les traitements, et conserve des échantillons de routine (sérum, peau, muqueuse digestive, moelle osseuse) à des fins de recherche expérimentale. Les critères principaux couvrent la période 2010-2025.",
+ "interet": "Il pourrait documenter l'évolution et la prise en charge de ces maladies rares dans un centre de référence.",
+ "profil": "Des adultes avec mastocytose ou hypertryptasémie suivis à l'hôpital universitaire de Zurich.",
+ "inclusion": [
+  "Adulte avec mastocytose ou hypertryptasémie suivi à l'hôpital universitaire de Zurich",
+  "Consentement éclairé disponible"
+ ],
+ "exclusion": [
+  "Consentement refusé"
+ ],
+ "bras": [
+  {
+   "nom": "Mastocytose",
+   "traitement": "Mastocytose diagnostiquée selon les critères de l'OMS"
+  },
+  {
+   "nom": "Hypertryptasémie",
+   "traitement": "Élévation répétée de la tryptase sans mastocytose connue ou sans biopsie de moelle"
+  }
+ ],
+ "duree": "Non précisé (période 2010-2025)",
+ "critere": "Caractéristiques démographiques et évolution de la maladie, de 2010 à 2025."
+}

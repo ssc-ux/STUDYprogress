@@ -1,0 +1,36 @@
+{
+ "h": "d7997b70206c",
+ "date": "2026-11-14",
+ "titre": "FCN-159 dans l'histiocytose langerhansienne pédiatrique réfractaire ou récidivante",
+ "question": "Le FCN-159, inhibiteur de MEK, permet-il d'obtenir une réponse chez les enfants atteints d'histiocytose langerhansienne réfractaire ou en rechute ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (LCH) est une néoplasie myéloïde inflammatoire rare, surtout pédiatrique, dont les lésions sont le plus souvent liées à l'activation de la voie MAPK (mutations BRAF V600E, MAP2K1…). Le traitement de première ligne associe vinblastine et corticoïdes ; les formes à organes à risque, résistantes ou récidivantes, restent difficiles à traiter.\n\nLes traitements de rattrapage actuels comprennent la cytarabine, la cladribine et, selon les cas, les inhibiteurs de BRAF ou de MEK. Le FCN-159 (développé par Fosun Pharma) est un inhibiteur sélectif de MEK1/2 pris par voie orale.\n\nCet essai de phase 2 chinois, multicentrique, ouvert et à un seul bras, évalue le FCN-159 en monothérapie, à la dose de 5 mg/m² par jour (maximum 8 mg), en cycles de 28 jours jusqu'à progression ou toxicité. La réponse est jugée par un comité indépendant selon les critères de réponse PET. Un volet pharmacocinétique est aussi prévu.",
+ "interet": "Les résultats pourraient montrer l'intérêt d'un inhibiteur de MEK oral chez les enfants atteints de LCH réfractaire, une population avec peu d'alternatives.",
+ "profil": "Des enfants de 2 à 16 ans avec LCH réfractaire ou récidivante.",
+ "inclusion": [
+  "Âge de 2 à 16 ans",
+  "LCH confirmée histologiquement par le laboratoire central",
+  "Au moins une ligne systémique antérieure (vinblastine et corticoïdes) ou intolérance à la chimiothérapie",
+  "LCH réfractaire ou récidivante, selon des critères définis (échec, réactivation, atteinte du système nerveux central, atteinte médullaire ou LHH)",
+  "Lésions évaluables en PET",
+  "Fonction médullaire, hépatique et rénale adéquates",
+  "Espérance de vie d'au moins 3 mois et score de Lansky ou de Karnofsky ≥ 50 %"
+ ],
+ "exclusion": [
+  "Traitement antitumoral dans les 4 semaines ou inhibiteur de MEK antérieur (plus de 2 semaines)",
+  "Inhibiteurs ou inducteurs forts du CYP3A4, CYP2C8 ou CYP2C9",
+  "Autre cancer",
+  "Hypertension non contrôlée",
+  "Antécédent de thrombose veineuse rétinienne, décollement de l'épithélium pigmentaire, glaucome ou autre anomalie ophtalmologique",
+  "Pneumopathie interstitielle",
+  "Anomalie cardiaque (QTcF > 470 ms, insuffisance cardiaque NYHA ≥ 2, FEVG < 50 %)",
+  "Infection active, VHB, VHC ou VIH, délétion de MAP2K1 exon 3"
+ ],
+ "bras": [
+  {
+   "nom": "FCN-159",
+   "traitement": "5 mg/m² par voie orale une fois par jour (maximum 8 mg), cycles continus de 28 jours"
+  }
+ ],
+ "duree": "Jusqu'à progression ou toxicité (suivi jusqu'à 24 mois)",
+ "critere": "Taux de réponse objective évalué par un comité indépendant selon les critères de réponse PET, jusqu'à 24 mois."
+}

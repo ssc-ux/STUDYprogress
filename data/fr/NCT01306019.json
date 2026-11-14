@@ -1,0 +1,29 @@
+{
+ "h": "dad271ab12f4",
+ "date": "2026-11-14",
+ "titre": "Thérapie génique lentivirale du déficit immunitaire combiné sévère lié à l'X chez les patients de plus de 2 ans",
+ "question": "Une thérapie génique par vecteur lentiviral, après conditionnement par busulfan réduit, est-elle sûre et restaure-t-elle la fonction immunitaire chez des patients de 2 à 50 ans ayant un déficit immunitaire combiné sévère lié à l'X (SCID-X1) ?",
+ "contexte": "Le SCID-X1 est dû à des mutations de la chaîne gamma commune des récepteurs de cytokines, indispensable à la croissance des lymphocytes. Sans greffe de moelle d'un donneur sain, les infections sont mortelles dans l'enfance. La greffe géno-identique est la meilleure option, mais la plupart des patients reçoivent une greffe haplo-identique, avec reconstitution immunitaire parfois insuffisante et complications chroniques.\n\nLes premiers essais de thérapie génique par vecteurs rétroviraux ont restauré l'immunité chez le nourrisson, mais 5 des 18 enfants bénéficiaires à long terme ont développé une leucémie T, dont un est décédé, et l'efficacité était moindre chez les enfants plus âgés. Ce protocole de phase 1/2 du NIAID (États-Unis) teste un vecteur lentiviral auto-inactivant et insulé, qui interagit moins avec les gènes voisins. Les cellules souches CD34+ du patient sont transduites, puis perfusées après busulfan (6 mg/kg au total, environ un tiers de la dose d'une greffe standard), avec palifermin pour limiter les mucites. L'alemtuzumab peut s'y ajouter en cas de dérégulation des lymphocytes T du donneur.",
+ "interet": "Si la thérapie génique restaure l'immunité sans signal de leucémie, elle offrirait une option aux patients plus âgés sans donneur géno-identique. L'étude est en cours, sans résultats au registre.",
+ "profil": "Des garçons et hommes de 2 à 50 ans ayant un SCID-X1 prouvé, sans donneur HLA géno-identique, avec déficit immunitaire cliniquement significatif.",
+ "inclusion": [
+  "Mutation prouvée de la chaîne gamma commune (séquençage de l'ADN)",
+  "Pas de donneur frère ou sœur HLA compatible",
+  "Âge de 2 à 50 ans, poids ≥ 10 kg ; si greffé auparavant, au moins 18 mois après la greffe",
+  "Dysfonction B sévère ou besoin de perfusions d'immunoglobulines",
+  "Critère biologique (lymphocytes CD4, TREC, cellules B mémoire, IgM, NK ou prolifération réduits) et critère clinique (infections répétées, atteinte pulmonaire chronique, entéropathie, retard de croissance, auto-immunité, molluscum ou verrues, candidose)",
+  "Espérance de survie ≥ 120 jours, PCR VIH négative, contraception efficace pendant 2 ans"
+ ],
+ "exclusion": [
+  "Hémopathie maligne actuelle ou antérieure",
+  "Infection par le VIH-1 ou hépatite B active",
+  "Cancer pédiatrique chez le patient ou un parent au premier degré, ou prédisposition connue au cancer",
+  "Refus d'être inscrit au programme de distribution de l'alemtuzumab, si indiqué"
+ ],
+ "bras": [
+  {"nom": "Cohorte A (8 premiers patients)", "traitement": "Cellules CD34+ autologues transduites par vecteur lentiviral, après busulfan (6 mg/kg) et palifermin"},
+  {"nom": "Cohorte B (patient 9 et suivants)", "traitement": "Même traitement, avec alemtuzumab (Campath) si dérégulation des lymphocytes T du donneur"}
+ ],
+ "duree": "Évaluation principale à 2 ans, suivi jusqu'à 5 ans, puis suivi à long terme jusqu'à 15 ans dans une étude distincte",
+ "critere": "Apparition et expansion de lymphocytes T autologues transduits porteurs d'une chaîne gamma commune fonctionnelle, avec amélioration des mesures de fonction immunitaire (évaluation à 1 an, critère d'efficacité principal à 2 ans)"
+}

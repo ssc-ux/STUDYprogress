@@ -1,0 +1,25 @@
+{
+ "h": "d44e4b7c34c3",
+ "date": "2026-11-14",
+ "titre": "Registre espagnol RESTI du PTI primaire et des autres thrombopénies immunes",
+ "question": "Quelles sont les caractéristiques cliniques, biologiques et thérapeutiques des patients atteints de PTI primaire en Espagne ?",
+ "contexte": "Le PTI primaire (ex-purpura thrombopénique idiopathique) est une maladie acquise où les plaquettes sont détruites de façon accélérée et leur production est insuffisante. Ses mécanismes déclenchants sont mal connus et le diagnostic reste un diagnostic d'exclusion. Les profils de patients et les traitements sont très hétérogènes.\n\nOn manque de données d'incidence et de prévalence en Espagne. Ce registre épidémiologique ambispectif et multicentrique, promu par la Fondation espagnole d'hématologie et d'hémothérapie, vise à décrire les caractéristiques cliniques, biologiques et thérapeutiques de 1 000 patients, enfants (dès 2 mois) et adultes, suivis depuis 2015 avec une numération plaquettaire < 100 G/L d'origine immune présumée. Les données sont extraites du dossier médical.",
+ "interet": "Il fournira une description en vie réelle du PTI en Espagne (profil, traitements, évolution), utile pour guider les pratiques et les futures études.",
+ "profil": "Des enfants dès 2 mois et des adultes avec un PTI primaire ou une autre thrombopénie immune probable, suivis depuis 2015 en Espagne.",
+ "inclusion": [
+  "Âge ≥ 2 mois, suivi depuis 2015 quelle que soit la date du diagnostic",
+  "Suspicion de PTI primaire ou autre thrombopénie immune probable (plaquettes < 100 G/L)",
+  "Consentement écrit (patients décédés après le 31/12/2015 inclus sans consentement)"
+ ],
+ "exclusion": [
+  "Patients ne remplissant pas les conditions d'inclusion selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTI",
+   "traitement": "Données cliniques, biologiques et de traitement recueillies dans le dossier médical (observationnel, ambispectif)"
+  }
+ ],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Description des caractéristiques cliniques et biologiques du PTI primaire et des autres thrombopénies immunes, à partir de l'inclusion."
+}

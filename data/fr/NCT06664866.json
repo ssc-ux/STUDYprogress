@@ -1,0 +1,14 @@
+{
+ "h": "23213cf63afa",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'amylose cardiaque par intelligence artificielle sur l'échographie (EchoNet-Screening)",
+ "question": "Un algorithme d'IA appliqué aux échocardiographies de routine repère-t-il correctement les patients à haut risque d'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque est une maladie rare et sous-diagnostiquée, souvent confondue avec une insuffisance cardiaque à fraction d'éjection préservée. Des traitements ciblés existent désormais, qui réduisent la morbidité et augmentent l'espérance de vie lorsqu'ils sont débutés tôt. Sa prévalence pourrait atteindre environ 1 % en population générale, et davantage en cas d'hypertrophie ventriculaire gauche, d'insuffisance cardiaque ou de symptômes motivant une échographie.\n\nL'échocardiographie est l'examen d'imagerie cardiaque le plus répandu, mais son interprétation est subjective et hétérogène. Les modèles d'apprentissage automatique peuvent détecter des caractéristiques non reconnues par l'œil humain. Les chercheurs de Cedars-Sinai ont développé EchoNet-LVH, un algorithme qui identifie l'hypertrophie cardiaque et signale les patients à adresser pour un dépistage d'amylose. Cette étude interventionnelle à bras unique, menée dans quatre centres américains, revoit les cas signalés par des experts de l'amylose cardiaque. Les patients jugés suspects sont contactés, consentent, et sont adressés à un spécialiste pour confirmation.",
+ "interet": "L'étude pourrait valider un dépistage automatisé de l'amylose cardiaque à partir d'échographies déjà réalisées. Elle mesure la valeur prédictive positive, et non l'effet sur la survie.",
+ "profil": "Des adultes de plus de 22 ans dont l'échocardiographie est jugée suspecte par l'algorithme EchoNet-LVH.",
+ "inclusion": ["Échocardiographie jugée suspecte par EchoNet-LVH", "Âge ≥ 22 ans", "Revue du dossier par un expert local d'amylose cardiaque confirmant la suspicion clinique", "Consentement du patient"],
+ "exclusion": ["Refus de consentement", "Échocardiographie jugée non suspecte par l'algorithme", "Autres critères non précisés"],
+ "bras": [{"nom": "Patients suspects selon EchoNet-LVH", "traitement": "Revue d'experts, contact, consentement, suivi puis orientation vers un spécialiste de l'amylose cardiaque"}],
+ "duree": "1 an",
+ "critere": "Valeur prédictive positive de l'algorithme pour l'amylose cardiaque, à 1 an."
+}

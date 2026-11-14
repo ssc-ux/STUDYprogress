@@ -1,0 +1,30 @@
+{
+ "h": "898f22c83bbc",
+ "date": "2026-11-14",
+ "titre": "Ibrutinib dans l'anémie hémolytique auto-immune associée à la LLC",
+ "question": "L'ibrutinib permet-il de traiter l'anémie hémolytique auto-immune (AHAI) survenant chez des patients atteints de LLC, de lymphome lymphocytique ou de MBL de type LLC ?",
+ "contexte": "L'AHAI est une complication auto-immune fréquente de la leucémie lymphoïde chronique (LLC), à anticorps chauds ou à agglutinines froides. Elle est traitée en première ligne par les corticoïdes, avec ou sans rituximab. Une partie des patients rechute, ne répond pas aux corticoïdes ou en reste dépendante, et les options suivantes sont limitées.\n\nL'ibrutinib, inhibiteur de la tyrosine kinase de Bruton, est un traitement de la LLC qui pourrait aussi réduire la production d'auto-anticorps en agissant sur les lymphocytes B. Des cas rapportés et des séries ont suggéré son efficacité dans l'AHAI, mais les données prospectives sont rares. Cette phase 2 multicentrique à un seul bras, promue par le groupe italien GIMEMA, évalue l'ibrutinib 420 mg par jour pendant 12 cycles de 28 jours au maximum, avec un suivi d'un an après la fin du traitement.",
+ "interet": "Si le taux de réponse est élevé, l'ibrutinib pourrait traiter à la fois la LLC et l'AHAI en cas d'échec des corticoïdes.",
+ "profil": "Des adultes atteints de LLC, de lymphome lymphocytique ou de MBL de type LLC avec une AHAI active, en rechute, corticorésistante ou corticodépendante.",
+ "inclusion": [
+  "LLC, lymphome lymphocytique ou MBL de type LLC selon l'IWCLL",
+  "Âge > 18 ans",
+  "AHAI active (Hb ≤ 10 g/dL ou transfusion-dépendante, hémolyse biologique, test de Coombs direct positif) à anticorps chauds ou à agglutinines froides",
+  "AHAI en rechute, corticorésistante (pas de réponse en 3 semaines sous prednisone ≥ 1 mg/kg) ou corticodépendante (> 10 mg/jour)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Contre-indication à l'ibrutinib (insuffisance hépatique sévère, allergie, antivitamine K)",
+  "Exposition antérieure à l'ibrutinib pour la LLC",
+  "Autre traitement de la LLC ou de l'AHAI en dehors des corticoïdes",
+  "Grossesse, désir de grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ibrutinib",
+   "traitement": "Ibrutinib 420 mg par jour par voie orale, jusqu'à 12 cycles de 28 jours"
+  }
+ ],
+ "duree": "Jusqu'à 12 cycles de 28 jours puis 1 an de suivi",
+ "critere": "Taux de réponse globale de l'AHAI à 6 mois."
+}

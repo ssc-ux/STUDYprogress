@@ -1,0 +1,40 @@
+{
+ "h": "659141dfbf38",
+ "date": "2026-11-14",
+ "titre": "Linvoseltamab dans l'amylose AL en rechute ou réfractaire",
+ "question": "Le linvoseltamab est-il sûr et efficace, et à quelle dose, dans l'amylose AL en rechute ou réfractaire ?",
+ "contexte": "L'amylose AL est due à un clone plasmocytaire qui produit des chaînes légères amyloïdogènes, déposées dans le cœur, les reins et d'autres organes. Le traitement repose sur la suppression du clone : daratumumab associé au bortézomib, cyclophosphamide et dexaméthasone en première ligne, puis melphalan, lénalidomide, pomalidomide ou vénétoclax (selon la translocation) en rechute. Les rechutes et les formes avec atteinte cardiaque avancée restent difficiles à traiter.\n\nLe linvoseltamab est un anticorps bispécifique anti-BCMA et anti-CD3 qui engage les lymphocytes T contre les plasmocytes, déjà développé dans le myélome. Cette étude de phase 1/2 de Regeneron comporte une phase d'escalade de dose, puis une phase d'expansion avec randomisation 1:1 entre deux doses. Elle cible des patients déjà traités, avec maladie mesurable (dFLC), NT-proBNP ≤ 8500 ng/L et ECOG ≤ 2.",
+ "interet": "Elle pourrait fournir une nouvelle option de rechute dans l'amylose AL et définir la dose recommandée d'un bispécifique anti-BCMA.",
+ "profil": "Des adultes avec amylose AL en rechute ou réfractaire, déjà traités au moins une fois et nécessitant un nouveau traitement.",
+ "inclusion": [
+  "Amylose AL confirmée",
+  "Maladie mesurable par la différence de chaînes légères libres (dFLC)",
+  "Au moins une ligne antérieure et traitement nécessaire",
+  "NT-proBNP ≤ 8500 ng/L",
+  "Fonction hépatique, hématologique, rénale et cardiaque adéquate",
+  "ECOG ≤ 2"
+ ],
+ "exclusion": [
+  "Autre amylose non AL",
+  "Plasmocytose médullaire > 60 %",
+  "Lésions osseuses lytiques ou plasmocytome extramédullaire",
+  "Infarctus du myocarde dans les 6 mois",
+  "Infection active nécessitant une hospitalisation ou des anti-infectieux IV dans les 28 jours"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 1, cohortes 1 et 2",
+   "traitement": "Linvoseltamab à dose faible puis élevée, escalade de dose non randomisée"
+  },
+  {
+   "nom": "Phase 2, dose faible",
+   "traitement": "Linvoseltamab, randomisation 1:1"
+  },
+  {
+   "nom": "Phase 2, dose élevée",
+   "traitement": "Linvoseltamab, randomisation 1:1"
+  }
+ ],
+ "duree": "Non précisé (étude jusqu'en 2035)",
+ "critere": "Phase 1 : toxicités limitant la dose sur 28 jours. Phase 2 : réponse hématologique complète jugée par un comité indépendant, sur 3 ans."
+}

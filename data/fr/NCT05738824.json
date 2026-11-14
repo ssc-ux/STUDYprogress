@@ -1,0 +1,29 @@
+{
+ "h": "235b3e0fdb97",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle des myopathies inflammatoires (NIAMS)",
+ "question": "Comment les différents types de myopathies inflammatoires diffèrent-ils par leur mécanisme, leur pronostic et leur réponse aux traitements ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, syndrome des antisynthétases, myopathie nécrosante à médiation auto-immune, myosite à inclusions, etc.) sont des maladies rares, hétérogènes. Elles touchent le muscle, la peau, le poumon et les articulations. Les auto-anticorps spécifiques de myosite ont permis de définir des sous-groupes cliniques, mais les mécanismes et les facteurs pronostiques restent mal connus.\n\nCette étude observationnelle du NIAMS (National Institutes of Health) recueille des données cliniques et des prélèvements (sang, muscle, peau) chez des patients de 2 ans et plus ayant une myopathie inflammatoire suspectée ou confirmée, et chez des volontaires sains. Chaque visite dure 4 à 8 heures, avec examen clinique, bilans sanguin et urinaire et IRM de cuisse. La biopsie musculaire et d'autres examens sont optionnels. Les critères principaux sont la sévérité des atteintes musculaire, cutanée, pulmonaire et articulaire, et l'étude de la dysrégulation immunitaire, du transcriptome et de la génétique.",
+ "interet": "Elle fournira une cohorte bien caractérisée pour identifier des biomarqueurs diagnostiques et pronostiques et de nouvelles cibles thérapeutiques.",
+ "profil": "Des enfants (dès 2 ans) et des adultes avec une myopathie inflammatoire suspectée ou confirmée, et des volontaires sains adultes.",
+ "inclusion": [
+  "Capacité du patient ou de son représentant légal à comprendre et signer le consentement ou l'assentiment",
+  "Âge ≥ 2 ans avec myopathie inflammatoire possible (suspectée ou confirmée)",
+  "Ou volontaire sain de 18 ans et plus"
+ ],
+ "exclusion": [
+  "Refus de participer à la recherche ou de fournir des échantillons ou des données"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Âge ≥ 2 ans, examens cliniques, IRM de cuisse et prélèvements, sans intervention thérapeutique"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Âge ≥ 18 ans, mêmes examens"
+  }
+ ],
+ "duree": "Au moins une visite de 4 à 8 heures ; suivi possible par visites répétées",
+ "critere": "Description des types de myopathies inflammatoires, de leur étiologie, pathogénie, facteurs pronostiques et réponse aux traitements, évalués à la fin de chaque visite."
+}

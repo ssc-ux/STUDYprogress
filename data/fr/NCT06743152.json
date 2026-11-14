@@ -1,0 +1,14 @@
+{
+ "h": "58b2d4a0937d",
+ "date": "2026-11-14",
+ "titre": "Téléréhabilitation synchrone ou asynchrone dans la fièvre méditerranéenne familiale de l'adolescent",
+ "question": "Un programme d'exercice en visioconférence supervisée est-il plus efficace qu'un programme par vidéos préenregistrées sur la fatigue et la capacité fonctionnelle d'adolescents avec fièvre méditerranéenne familiale ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est la maladie auto-inflammatoire héréditaire la plus fréquente, avec des accès fébriles récurrents accompagnés de douleurs abdominales, thoraciques ou articulaires. La colchicine contrôle la majorité des patients et prévient l'amylose AA. Même entre les accès, de nombreux enfants se plaignent de fatigue, de douleurs et de baisse de la condition physique.\n\nL'exercice physique est une piste pour améliorer cette fatigue et la capacité fonctionnelle, mais l'accès aux programmes encadrés est limité. La téléréhabilitation peut le faciliter. Cette étude de l'Université d'Istanbul-Cerrahpasa compare deux modalités chez 52 adolescents de 12 à 18 ans, sans accès actif. Le premier groupe suit des séances supervisées en direct par un kinésithérapeute (Zoom), le second des vidéos mises en ligne sur une chaîne YouTube privée, avec retour par téléphone. Le programme dure 8 semaines, deux fois par semaine, avec squats, fentes, montées de marche, course sur place et sauts.",
+ "interet": "L'étude pourrait montrer si une supervision en direct est nécessaire ou si des vidéos suffisent, ce qui orienterait vers une rééducation à distance moins coûteuse pour les adolescents avec FMF.",
+ "profil": "Des adolescents de 12 à 18 ans avec FMF, hors accès.",
+ "inclusion": ["Âge de 12 à 18 ans, accord des parents", "FMF diagnostiquée depuis au moins 6 mois", "Période sans accès", "Accès à Internet et à un appareil avec caméra, micro et haut-parleur", "Capable d'utiliser un ordinateur, une tablette ou un smartphone", "Volonté de participer"],
+ "exclusion": ["Maladie musculosquelettique, orthopédique, neurologique ou psychologique empêchant l'exercice", "Douleur aiguë, quelle qu'en soit la cause", "Développement d'une amylose"],
+ "bras": [{"nom": "Téléréhabilitation synchrone", "traitement": "Exercices supervisés en direct par un kinésithérapeute (Zoom), 2 séances par semaine pendant 8 semaines"}, {"nom": "Téléréhabilitation asynchrone", "traitement": "Mêmes exercices par vidéos préenregistrées sur une chaîne privée, 2 fois par semaine pendant 8 semaines, retour par téléphone"}],
+ "duree": "8 semaines",
+ "critere": "Fatigue (échelle visuelle analogique) et test de marche de 6 minutes à 8 semaines."
+}

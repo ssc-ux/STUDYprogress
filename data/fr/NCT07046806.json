@@ -1,0 +1,35 @@
+{
+ "h": "efd7d17baf82",
+ "date": "2026-11-14",
+ "titre": "Deucrictibant oral en prévention et en traitement des crises d'angiœdème bradykinique à C1-inhibiteur normal",
+ "question": "Le deucrictibant, antagoniste oral du récepteur B2 de la bradykinine, prévient-il les crises et soulage-t-il les crises aiguës d'angiœdème bradykinique à C1-inhibiteur normal ?",
+ "contexte": "Certains angiœdèmes sont médiés par la bradykinine malgré un C1-inhibiteur et un C4 normaux. Ils incluent les angiœdèmes héréditaires à C1-inhibiteur normal, mal caractérisés et sans traitement spécifique validé. Les antihistaminiques, corticoïdes et l'omalizumab sont inefficaces, et les traitements des angiœdèmes à déficit en C1-inhibiteur sont utilisés hors AMM selon l'expérience.\n\nLe deucrictibant (anciennement PHA121) est un antagoniste oral du récepteur B2 de la bradykinine, développé en prophylaxie (comprimé à libération prolongée) et en traitement à la demande (capsule molle). Il est étudié dans plusieurs formes d'angiœdème bradykinique.\n\nCette étude de phase 1/2 d'un réseau iranien (Institute for Asthma and Allergy) comporte deux parties randomisées, en double insu, contre placebo et en cross-over, chez au plus 10 adultes. La partie 1 compare le deucrictibant 40 mg à libération prolongée à un placebo, 1 fois par jour pendant 12 semaines chacun, soit 24 semaines. La partie 2 compare une capsule de deucrictibant 20 mg à un placebo pour traiter deux crises non laryngées. Les patients doivent avoir au moins 2 crises dans les 2 mois précédents et un taux de bradykinine élevé après activation par le froid.",
+ "interet": "Elle pourrait documenter, dans une population sans traitement validé, l'intérêt d'un antagoniste oral de la bradykinine en prévention et à la demande. L'effectif très réduit limite la portée des résultats.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'angiœdème bradykinique avec C1-inhibiteur normal, ayant eu au moins 2 crises dans les 2 mois.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, consentement écrit",
+  "Angiœdème sous-cutané ou muqueux, non prurigineux, sans urticaire, résistant aux antihistaminiques, corticoïdes ou à l'omalizumab",
+  "Échec d'au moins 2 semaines de cétirizine 20 mg 2 fois par jour (ou équivalent)",
+  "Bradykinine totale élevée après 3 jours d'activation par le froid (hors crise ou en crise)",
+  "C1-inhibiteur (antigène et fonction) et C4 dans les valeurs normales",
+  "Au moins 2 crises dans les 2 mois précédents",
+  "Accès à un traitement de crise standard"
+ ],
+ "exclusion": [
+  "Tout autre diagnostic d'angiœdème",
+  "Inhibiteur de l'ECA ou estrogènes à absorption systémique dans les 4 semaines",
+  "Traitement prophylactique en cours (délai de sevrage ≥ 5 demi-vies exigé)",
+  "ASAT ou ALAT > 2 N, bilirubine > 1,5 N, DFGe < 60 mL/min/1,73 m²",
+  "Antécédents cardiovasculaires significatifs dans l'année, épilepsie ou maladie neurologique significative",
+  "Trouble digestif gênant l'absorption, abus d'alcool ou de drogue dans l'année",
+  "Inhibiteurs ou inducteurs puissants du CYP3A4, grossesse ou allaitement, hypersensibilité au deucrictibant"
+ ],
+ "bras": [
+  { "nom": "Partie 1 : deucrictibant XR", "traitement": "Comprimé de deucrictibant à libération prolongée 40 mg, 1 fois par jour, 12 semaines" },
+  { "nom": "Partie 1 : placebo", "traitement": "Comprimé placebo, 1 fois par jour, 12 semaines (cross-over)" },
+  { "nom": "Partie 2 : deucrictibant à la demande", "traitement": "Une capsule molle de 20 mg par crise, pour 2 crises non laryngées, jusqu'à 16 semaines" },
+  { "nom": "Partie 2 : placebo à la demande", "traitement": "Capsule placebo par crise, pour 2 crises (cross-over)" }
+ ],
+ "duree": "Environ 24 semaines pour la partie 1, puis jusqu'à 16 semaines pour la partie 2",
+ "critere": "Partie 1 : incidence et caractéristiques des crises, traitement actif versus placebo (24 semaines). Partie 2 : soulagement des symptômes lors des crises aiguës, traitement actif versus placebo (16 semaines)."
+}

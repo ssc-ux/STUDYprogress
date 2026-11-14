@@ -1,0 +1,14 @@
+{
+ "h": "e7170c4e8433",
+ "date": "2026-11-14",
+ "titre": "Microbiote intestinal, hémopathies malignes et lymphohistiocytose hémophagocytaire",
+ "question": "Le microbiote intestinal influence-t-il la toxicité, la réponse et la survie chez les patients avec lymphome traité par immunothérapie ou avec lymphohistiocytose hémophagocytaire (LHH) ?",
+ "contexte": "Les anticorps bispécifiques et les CAR-T ont transformé le traitement des lymphomes B agressifs et indolents, comme le lymphome diffus à grandes cellules B (LDGCB) et le lymphome folliculaire. Ces traitements restent limités par leur efficacité variable et par des toxicités liées à l'activation immunitaire : syndrome de relargage cytokinique et neurotoxicité (ICANS), parfois avec admission en réanimation.\n\nLa lymphohistiocytose hémophagocytaire (LHH) est un syndrome hyperinflammatoire rare et souvent létal, lié à une activation anormale des macrophages et des lymphocytes T cytotoxiques, et fréquemment déclenché par un lymphome sous-jacent. Le microbiote intestinal module le système immunitaire et pourrait influencer ces phénomènes. Cette étude observationnelle de l'Université de Nottingham prévoit 750 patients répartis en trois groupes : LDGCB traité par CAR-T ou bispécifique, lymphome folliculaire nouvellement diagnostiqué ou traité, et LHH quelle que soit la cause. Elle recueille du sang et des selles en série pendant jusqu'à 56 jours, et exploite les analyses de routine et la réponse au traitement.",
+ "interet": "L'étude pourrait identifier des cibles dans le microbiote ou ses métabolites pour mieux prévenir la toxicité des immunothérapies et mieux comprendre la LHH. Elle pourrait aussi expliquer pourquoi certains lymphomes folliculaires nécessitent un traitement précoce, tardif ou jamais.",
+ "profil": "Des patients de 16 à 100 ans avec lymphome (LDGCB, folliculaire) ou LHH.",
+ "inclusion": ["Consentement éclairé", "Âge de 16 à 100 ans", "Hémopathie maligne ou LHH confirmée cliniquement par le score H"],
+ "exclusion": ["Sérologie VIH, hépatite B ou C positive (laboratoire non accrédité pour ces échantillons)", "Maladie transmissible active (SARS-CoV-2, mpox)"],
+ "bras": [{"nom": "LDGCB", "traitement": "Patients traités par CAR-T ou anticorps bispécifique, avec prélèvements de sang et de selles"}, {"nom": "Lymphome folliculaire", "traitement": "Patients nouvellement diagnostiqués ou traités par CAR-T ou bispécifique, avec prélèvements de sang et de selles"}, {"nom": "LHH", "traitement": "Patients avec LHH de toute cause déclenchante, avec prélèvements de sang et de selles"}],
+ "duree": "Jusqu'à 56 jours de participation active",
+ "critere": "Collecte d'échantillons de sang et de selles pour étudier l'influence de l'immunité de l'hôte et du microbiote sur la toxicité et la survie."
+}

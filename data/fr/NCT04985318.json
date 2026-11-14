@@ -1,0 +1,24 @@
+{
+ "h": "5e2fb6fe9504",
+ "date": "2026-11-14",
+ "titre": "Registre allemand du caplacizumab dans le purpura thrombotique thrombocytopénique acquis",
+ "question": "Le caplacizumab est-il efficace en vie réelle dans le purpura thrombotique thrombocytopénique (PTT) acquis, et quels facteurs prédisent l'activité auto-immune persistante et les complications ?",
+ "contexte": "Le PTT acquis est une microangiopathie thrombotique rare due à des auto-anticorps dirigés contre ADAMTS13. Le déficit en ADAMTS13 entraîne la formation de multimères du facteur von Willebrand et de thrombi microvasculaires. Il donne une thrombopénie, une anémie hémolytique mécanique et des atteintes d'organes, notamment cérébrales et cardiaques.\n\nLe traitement de référence repose sur les échanges plasmatiques et les corticoïdes, avec le rituximab en cas d'atteinte réfractaire ou de rechute. Le caplacizumab, nanocorps dirigé contre le facteur von Willebrand, bloque l'interaction avec les plaquettes. Les essais TITAN et HERCULES ont montré une normalisation plus rapide des plaquettes et moins de complications ischémiques et de rechutes précoces.\n\nCette étude observationnelle allemande, promue par l'Université de Cologne (REACT-2020), recueille des données de patients traités par au moins une dose de caplacizumab. Elle décrit les pratiques de prescription, confirme l'efficacité en vie réelle et recherche des facteurs prédictifs, dans le but de proposer de nouveaux algorithmes de traitement et de réduire les coûts.",
+ "interet": "Le registre pourrait aider à mieux cibler et à raccourcir le caplacizumab, un traitement coûteux, selon l'activité de la maladie.",
+ "profil": "Des adultes ayant un épisode aigu de PTT acquis traité par caplacizumab.",
+ "inclusion": [
+  "Épisode aigu de PTT acquis confirmé",
+  "Au moins une dose de caplacizumab (10 mg IV ou SC)",
+  "Âge ≥ 18 ans",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "PTT héréditaire",
+  "Incapacité à donner son consentement"
+ ],
+ "bras": [
+  { "nom": "Groupe du registre", "traitement": "Patients ayant un PTT acquis traités par caplacizumab (Cablivi), en pratique courante" }
+ ],
+ "duree": "Non précisé",
+ "critere": "Traitement du PTT acquis par caplacizumab, évalué à l'inclusion (critère peu détaillé dans le registre)"
+}

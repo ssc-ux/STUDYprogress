@@ -1,0 +1,30 @@
+{
+ "h": "886986486060",
+ "date": "2026-11-14",
+ "titre": "Facteurs de risque environnementaux du syndrome des anti-synthétases",
+ "question": "Les personnes atteintes de myosite avec syndrome des anti-synthétases ont-elles eu, avant le début de la maladie, des expositions environnementales différentes de celles de témoins sains et de patients atteints de myosite sans anti-synthétases ?",
+ "contexte": "Les maladies auto-immunes résultent de facteurs génétiques et environnementaux. Dans les myosites, des expositions possibles sont les ultraviolets, les stress, l'effort musculaire intense, les implants de collagène, certaines infections (rétrovirus, streptocoques) et certains médicaments ou toxiques. Le syndrome des anti-synthétases associe une myosite, une atteinte pulmonaire interstitielle et des auto-anticorps dirigés contre des aminoacyl-ARNt synthétases. Il débute volontiers au printemps, avec fièvre, hyperleucocytose et arthrite, ce qui évoque un déclencheur environnemental, mais aucune étude systématique ne l'a évalué.\n\nCette étude cas-témoins du NIEHS (États-Unis, 8 sites) compare environ 150 patients récents (diagnostic dans les 24 mois) avec anti-synthétases, 150 témoins appariés sans maladie auto-immune et 150 patients atteints de myosite sans anti-synthétases. Elle recueille des questionnaires d'exposition (travail, domicile, infections, tabac, stress), des prélèvements sanguins, de la poussière domestique (aspirateur) et des biopsies si indiquées, pour rechercher des agents infectieux.",
+ "interet": "L'étude pourrait identifier des déclencheurs environnementaux ou infectieux propres au syndrome des anti-synthétases. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes et enfants de plus de 2 ans ayant une myosite récente, avec ou sans anti-synthétases, et des témoins sans maladie auto-immune.",
+ "inclusion": [
+  "Myosite (polymyosite ou dermatomyosite possible, probable ou certaine), avec ou sans autre connectivite, documentée dans les 24 mois",
+  "Radiographie thoracique pour évaluer une pneumopathie interstitielle et classer le statut anti-synthétases",
+  "Enfants de plus de 2 ans",
+  "Consentement, questionnaires et don de sang (accord parental et assentiment pour les mineurs)",
+  "Témoins : amis, sinon cousins, sinon volontaires de la communauté, appariés en âge, sexe et origine, sans maladie auto-immune ni pneumopathie interstitielle"
+ ],
+ "exclusion": [
+  "Myosite associée à un cancer (dans les 2 ans suivant le diagnostic de myosite) ou myosite à inclusions",
+  "Myosite clairement induite par un médicament ou un toxique et résolue à l'arrêt",
+  "Maladie ou déficit cognitif empêchant les prélèvements ou l'évaluation",
+  "Âge < 2 ans, personnes incarcérées",
+  "Non-résidence aux États-Unis ou au Canada à la date de référence"
+ ],
+ "bras": [
+  {"nom": "Anti-synthétases positif", "traitement": "Patients avec myosite et syndrome des anti-synthétases : questionnaires d'exposition, prélèvements sanguins et de poussière domestique"},
+  {"nom": "Anti-synthétases négatif", "traitement": "Patients avec myosite sans syndrome des anti-synthétases : mêmes évaluations"},
+  {"nom": "Témoins sains", "traitement": "Sujets sans maladie auto-immune, appariés : mêmes évaluations"}
+ ],
+ "duree": "Évaluation à l'inclusion",
+ "critere": "Comparaison, avant la maladie, des expositions environnementales non infectieuses entre patients récents avec anti-synthétases, témoins appariés et patients sans anti-synthétases, à l'inclusion"
+}

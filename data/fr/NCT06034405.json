@@ -1,0 +1,31 @@
+{
+ "h": "8580d7cac211",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'amylose cardiaque à TTR à partir de pièces de chirurgie du canal lombaire étroit",
+ "question": "Les dépôts de TTR dans les pièces opératoires de canal lombaire étroit permettent-ils d'identifier précocement des patients ayant une amylose cardiaque ATTR ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CA), par mutation (ex. V122I) ou sauvage, est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée chez le sujet âgé. Les traitements modifiant la maladie, comme le tafamidis, sont d'autant plus efficaces qu'ils sont débutés tôt, avant l'atteinte fonctionnelle.\n\nDes dépôts amyloïdes de TTR sont retrouvés dans le ligamentum flavum de nombreux patients opérés d'un canal lombaire étroit, parfois des années avant les symptômes cardiaques. Ces pièces opératoires, souvent conservées, offrent une occasion de repérer des sujets à risque.\n\nCette étude de cohorte prospective multicentrique (Boston, Cedars-Sinai, Cleveland Clinic, Columbia, Tufts) analyse les prélèvements de patients opérés depuis moins de 20 ans, par rouge Congo et spectrométrie de masse (laboratoire de la Mayo Clinic). Les patients dont la pièce contient de la TTR sont invités à un bilan cardiaque : scintigraphie PYP ou HDMP, ECG, échocardiographie, test génétique. L'étude évalue aussi une intelligence artificielle détectant l'amylose sur coloration HE.",
+ "interet": "Elle pourrait valider le canal lombaire étroit opéré comme porte d'entrée du dépistage de l'amylose cardiaque, afin de traiter plus tôt les patients concernés.",
+ "profil": "Des adultes de 50 ans et plus ayant eu une chirurgie de décompression rachidienne.",
+ "inclusion": [
+  "Chirurgie de décompression rachidienne indiquée dans les 20 ans précédant l'inclusion",
+  "Âge d'au moins 50 ans lors de la chirurgie",
+  "Capacité à comprendre et à signer le consentement"
+ ],
+ "exclusion": [
+  "Amylose AL ou AA confirmée",
+  "Amylose à TTR déjà connue",
+  "Autre raison jugée inappropriée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "ATTR négatif",
+   "traitement": "Patients opérés du rachis (ou du canal carpien) : données du dossier et analyse de la pièce, sans TTR détectée"
+  },
+  {
+   "nom": "ATTR positif",
+   "traitement": "Patients avec TTR dans la pièce : bilan cardiaque (scintigraphie Tc99-PYP ou HDMP, génétique, ECG, échographie)"
+  }
+ ],
+ "duree": "Une visite d'une journée pour le bilan cardiaque",
+ "critere": "Proportion de patients avec dépôts de TTR dans la pièce de chirurgie rachidienne, donc à risque d'amylose cardiaque, jusqu'à 3 ans."
+}

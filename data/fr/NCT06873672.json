@@ -1,0 +1,43 @@
+{
+ "h": "97bc8f630636",
+ "date": "2026-11-14",
+ "titre": "Validation de l'EQ-5D-Y-3L et 5L chez l'enfant en Chine (pneumonie, tumeurs, PTI)",
+ "question": "Les versions 3L et 5L de l'EQ-5D-Y mesurent-elles de façon valide et fiable la qualité de vie des enfants chinois hospitalisés pour pneumonie, tumeur solide ou PTI ?",
+ "contexte": "La qualité de vie liée à la santé est un indicateur important chez l'enfant, notamment en maladie chronique. L'EQ-5D-Y, existant en versions à 3 niveaux (3L) et 5 niveaux (5L), est un questionnaire générique très utilisé pour les évaluations économiques. Ses propriétés psychométriques dans la population pédiatrique chinoise sont peu connues.\n\nCette étude observationnelle promue par l'hôpital RenJi (Chine) recrute 360 binômes enfant-aidant (enfants de 5 à 16 ans) dans trois groupes : pneumonie communautaire hospitalisée, tumeurs solides (neuroblastome, tumeur de Wilms) et PTI aigu ou chronique. Elle compare les versions 3L et 5L, les modes d'administration (auto-questionnaire, entretien, version par un proche) et le PedsQL, à l'admission puis à la sortie (moins de 14 jours). Une partie qualitative explore l'acceptabilité.",
+ "interet": "Étude méthodologique : elle ne teste aucun traitement, mais ses résultats serviront à mesurer la qualité de vie des enfants, y compris ceux atteints de PTI, dans les essais et les évaluations économiques.",
+ "profil": "Des enfants de 5 à 16 ans (pneumonie, tumeur solide cérébrale ou abdominale, PTI) et leurs aidants principaux, en Chine.",
+ "inclusion": [
+  "Enfant de 5 à 16 ans avec pneumonie communautaire hospitalisée, tumeur solide du système nerveux central ou PTI aigu ou chronique",
+  "Capacité cognitive et physique à remplir les questionnaires",
+  "Compréhension du mandarin",
+  "Consentement écrit de l'aidant et assentiment de l'enfant",
+  "Aidants : parent ou proche responsable des soins quotidiens, parlant mandarin, consentants"
+ ],
+ "exclusion": [
+  "Déficience intellectuelle, autisme ou trouble neurologique empêchant de répondre",
+  "Handicap physique sévère empêchant de répondre",
+  "Autre maladie chronique majeure (cardiopathie congénitale sévère, épilepsie non contrôlée)",
+  "Participation à une étude de validation de qualité de vie dans les 6 mois ; transfert prévu",
+  "Aidants sans responsabilité quotidienne, avec trouble mental ou cognitif sévère, ne parlant pas mandarin, ou refusant"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants avec pneumonie",
+   "traitement": "Pneumonie communautaire hospitalisée, traitement habituel (observationnel)"
+  },
+  {
+   "nom": "Enfants avec tumeurs solides",
+   "traitement": "Neuroblastome ou tumeur de Wilms, en traitement ou en suivi (observationnel)"
+  },
+  {
+   "nom": "Enfants avec PTI",
+   "traitement": "PTI traité selon la sévérité : observation, corticoïdes, IgIV ou agonistes de la TPO (observationnel)"
+  },
+  {
+   "nom": "Aidants familiaux",
+   "traitement": "Parents ou proches répondant aux questionnaires (observationnel)"
+  }
+ ],
+ "duree": "Environ 14 jours (de l'admission à la sortie)",
+ "critere": "Variation des scores de synthèse de l'EQ-5D-Y entre l'admission et la sortie (moins de 14 jours)."
+}

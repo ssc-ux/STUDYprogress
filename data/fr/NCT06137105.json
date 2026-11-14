@@ -1,0 +1,28 @@
+{
+ "h": "69777b02c443",
+ "date": "2026-11-14",
+ "titre": "Agonistes de la thrombopoïétine dans le PTI en Égypte (Assiut)",
+ "question": "Les agonistes du récepteur de la thrombopoïétine sont-ils efficaces et bien tolérés chez des adultes atteints de PTI à l'hôpital universitaire d'Assiut ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune définie par une numération plaquettaire inférieure à 100 G/L en l'absence d'autre cause. Son incidence annuelle est de 2 à 4 pour 100 000 et sa prévalence d'environ 10 pour 100 000. Les manifestations sont le plus souvent cutanéo-muqueuses (pétéchies, ecchymoses, épistaxis) et plus rarement hémorragiques graves, dont l'hémorragie intracrânienne.\n\nL'objectif du traitement est de maintenir un taux de plaquettes réduisant le risque hémorragique avec une toxicité minimale. Chez l'adulte, l'abstention est recommandée en l'absence de saignement et si les plaquettes dépassent 30 G/L ; en dessous, les corticoïdes sont habituels, puis les agonistes du récepteur de la TPO (romiplostim, eltrombopag), le rituximab ou la splénectomie.\n\nCette étude de l'université d'Assiut compare un groupe recevant romiplostim et eltrombopag à un groupe sous corticoïdes. Elle évalue la réponse, les effets indésirables et la qualité de vie chez 100 adultes.",
+ "interet": "Elle fournira des données de vie réelle sur les agonistes de la TPO dans un contexte à ressources limitées, utiles pour situer leur place par rapport aux corticoïdes.",
+ "profil": "Des adultes de plus de 18 ans atteints de PTI.",
+ "inclusion": [
+  "PTI diagnostiqué",
+  "Âge supérieur à 18 ans"
+ ],
+ "exclusion": [
+  "Âge inférieur à 18 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1",
+   "traitement": "Romiplostim et eltrombopag (agonistes du récepteur de la TPO) ; doses non précisées"
+  },
+  {
+   "nom": "Groupe 2",
+   "traitement": "Corticoïdes ; doses non précisées"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Réponse au traitement évaluée par examen clinique et biologique (plaquettes), à l'inclusion."
+}

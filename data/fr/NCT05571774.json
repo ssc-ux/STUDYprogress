@@ -1,0 +1,23 @@
+{
+ "h": "3a54d53d15e3",
+ "date": "2026-11-14",
+ "titre": "Base de données de patients atteints de purpura thrombotique thrombocytopénique",
+ "question": "Quelles sont les caractéristiques cliniques et l'évolution, notamment les accidents vasculaires cérébraux, des patients atteints de PTT suivis dans un centre chinois ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique (PTT) est une microangiopathie thrombotique rare due à un déficit sévère en ADAMTS13, acquis (auto-anticorps) ou congénital. Il associe anémie hémolytique, thrombopénie et atteintes d'organes, notamment neurologiques. Sans traitement, il est le plus souvent fatal. Les échanges plasmatiques, les corticoïdes, le rituximab et le caplacizumab ont transformé le pronostic.\n\nDes séquelles et des rechutes persistent chez de nombreux patients, dont un risque d'AVC à long terme. Cette étude de l'hôpital universitaire de Soochow, en Chine, construit une base de données de cas à partir des dossiers hospitaliers et d'un suivi téléphonique ou en consultation. Elle recueille l'âge, le sexe et les données cliniques liées au PTT. Le critère principal est la survenue d'un AVC sur 5 ans.",
+ "interet": "Elle documentera l'évolution à long terme du PTT dans une cohorte chinoise et pourrait aider à repérer les patients à risque de complications vasculaires.",
+ "profil": "Des patients atteints de PTT avec déficit sévère en ADAMTS13.",
+ "inclusion": [
+  "Déficit sévère en ADAMTS13 (activité < 10 %), documenté dans le dossier ou au dépistage"
+ ],
+ "exclusion": [
+  "Patient jugé incapable ou refusant de coopérer aux procédures de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de PTT",
+   "traitement": "Recueil de données (dossiers, appels téléphoniques, consultations), sans intervention"
+  }
+ ],
+ "duree": "5 ans à partir de l'entrée dans la base",
+ "critere": "Nombre de patients ayant eu un AVC, sur 5 ans après l'entrée dans la base."
+}

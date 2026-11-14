@@ -1,0 +1,35 @@
+{
+ "h": "ea3f72db42b9",
+ "date": "2026-11-14",
+ "titre": "Phénotypage de l'amylose cardiaque ATTRwt : qualité de vie et TTR mal repliée (TRACE 1)",
+ "question": "La sévérité de l'amylose cardiaque ATTRwt est-elle liée à la qualité de vie et aux taux de transthyrétine mal repliée ou fragmentée ?",
+ "contexte": "L'amylose cardiaque à transthyrétine sauvage (ATTRwt) est une cardiomyopathie infiltrative du sujet âgé, désormais mieux diagnostiquée grâce à la scintigraphie osseuse. Le stade pronostique du réseau britannique NAC (NT-proBNP et DFG) permet d'en évaluer la sévérité. Les traitements disponibles (tafamidis, acoramidis) ralentissent la progression, mais on dispose de peu de marqueurs biologiques de l'activité de la maladie.\n\nLa transthyrétine mal repliée (misTTR) et ses fragments (fragTTR) pourraient refléter le processus amyloïde. Cette étude transversale danoise, menée à l'hôpital universitaire d'Aarhus, inclut 100 patients ATTRwt répartis selon le stade NAC (40, 40 et 20) et 20 témoins sans cardiopathie appariés. Elle mesure la qualité de vie (KCCQ, EQ-5D-5L, ATTR-QoL), les marqueurs plasmatiques et urinaires de misTTR et fragTTR, l'imagerie (échocardiographie avancée, IRM), et la fragTTR sur biopsie endomyocardique chez 10 patients.",
+ "interet": "Elle pourrait faire émerger des biomarqueurs de la sévérité de l'ATTRwt et mieux relier le stade de la maladie au ressenti des patients.",
+ "profil": "Des adultes avec amylose cardiaque ATTRwt de tout stade NAC, et des témoins sains appariés.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "ATTRwt confirmée par biopsie endomyocardique ou scintigraphie DPD (Perugini 2-3) avec exclusion d'une forme variante par test génétique",
+  "Consentement oral et écrit",
+  "Témoins : adultes sans cardiopathie connue, appariés sur l'âge et le sexe"
+ ],
+ "exclusion": [
+  "Amylose AL",
+  "Myélome",
+  "Maladie de Waldenström",
+  "Témoins : maladie cardiovasculaire connue, fibrillation atriale, stimulateur, hypertension maligne",
+  "Témoins : signes d'alerte d'amylose (hypertrophie, bloc AV, canal carpien bilatéral, bas voltage)",
+  "Témoins : troponine I ou NT-proBNP élevés"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTRwt (n = 100)",
+   "traitement": "Examen clinique, ECG, échocardiographie, biologie sang/urines, IRM cardiaque, questionnaires de qualité de vie ; biopsie endomyocardique dans un sous-groupe de 10"
+  },
+  {
+   "nom": "Témoins (n = 20)",
+   "traitement": "Biologie sang/urines, examen clinique, ECG, échocardiographie"
+  }
+ ],
+ "duree": "Non précisé (étude transversale ; 2 ans)",
+ "critere": "Sévérité de l'amylose cardiaque, lien avec la qualité de vie, et taux de TTR et fragments en relation avec la sévérité, sur 2 ans."
+}

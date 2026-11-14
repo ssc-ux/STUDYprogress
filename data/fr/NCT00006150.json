@@ -1,0 +1,29 @@
+{
+ "h": "c16fa269bc98",
+ "date": "2026-11-14",
+ "titre": "Syndromes hyper-IgE (STAT3, DOCK8, PGM3) : histoire naturelle, prise en charge et génétique",
+ "question": "Quelles sont les manifestations cliniques, les mécanismes et les causes génétiques des syndromes hyper-IgE, et comment en traiter les complications ?",
+ "contexte": "Les syndromes hyper-IgE sont des déficits immunitaires primitifs responsables d'eczéma et d'infections cutanées et pulmonaires récidivantes. La forme autosomique dominante (syndrome de Job) est due à des mutations de STAT3 et touche aussi le squelette, les vaisseaux et le tissu conjonctif. Elle permet d'étudier le métabolisme osseux, les bronchectasies, la maturation dentaire et l'athérosclérose.\n\nLes mutations bi-alléliques de DOCK8 causent un déficit immunitaire combiné avec infections virales étendues, forte incidence de cancers et mortalité élevée. D'autres causes, dont le déficit en PGM3, sont aussi étudiées. Cette étude du NIAID (États-Unis) inclut des patients et des apparentés pour un phénotypage et un génotypage approfondis, avec examen par une équipe multidisciplinaire et suivi longitudinal. Elle prévoit d'inclure 300 patients et 300 apparentés. Elle est observationnelle.",
+ "interet": "L'étude doit mieux décrire l'évolution naturelle de ces maladies rares, identifier de nouvelles causes génétiques et guider la prise en charge des complications. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des enfants et adultes ayant un syndrome hyper-IgE confirmé ou suspecté, et leurs apparentés biologiques non atteints.",
+ "inclusion": [
+  "Adressé au NIH avec un diagnostic ou une suspicion de syndrome hyper-IgE",
+  "Ou adressé pour un autre syndrome immunitaire partageant certains traits des syndromes hyper-IgE",
+  "Sujets atteints : âge ≥ 1 mois",
+  "Sujets non atteints : âge ≥ 2 ans, consentement écrit possible",
+  "Apparentés biologiques non atteints éligibles dans une cohorte distincte"
+ ],
+ "exclusion": [
+  "Coronarographie par scanner non réalisée avant 30 ans ou en cas de contre-indication aux produits de contraste",
+  "Créatinine > 1,3 mg/dl, antécédent de myélome multiple",
+  "Metformine dans les 24 h précédant l'injection de produit de contraste",
+  "Antécédent d'allergie significative aux produits de contraste malgré prémédication",
+  "Situation médicale, psychiatrique ou sociale faisant courir un risque ou une charge excessive, selon l'investigateur"
+ ],
+ "bras": [
+  {"nom": "Adultes et enfants atteints", "traitement": "Patients avec syndrome hyper-IgE confirmé ou suspecté, examinés par une équipe multidisciplinaire et suivis dans le temps"},
+  {"nom": "Apparentés", "traitement": "Membres de la famille de patients atteints, prélèvements et évaluations à visée de comparaison"}
+ ],
+ "duree": "Non précisé (suivi longitudinal jusqu'à la fin de l'étude)",
+ "critere": "Phénotypage clinique des syndromes hyper-IgE (STAT3, DOCK8, PGM3 et autres), qualité de vie, mécanismes immunitaires, complications et nouvelles causes génétiques, évalués jusqu'à la fin de l'étude"
+}

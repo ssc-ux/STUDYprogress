@@ -1,0 +1,24 @@
+{
+ "h": "b5c852e265ca",
+ "date": "2026-11-14",
+ "titre": "Réponses T aux vaccins ARNm anti-COVID-19 chez les patients ayant un déficit immunitaire humoral",
+ "question": "Les patients ayant un déficit en anticorps développent-ils des réponses lymphocytaires T spécifiques après vaccination par ARNm contre le SARS-CoV-2 ?",
+ "contexte": "Les patients ayant un déficit immunitaire humoral primaire (agammaglobulinémie liée à l'X, déficit immunitaire commun variable) ou une hypogammaglobulinémie secondaire sont plus exposés aux formes sévères de COVID-19. Sous substitution en immunoglobulines, leur capacité à produire des anticorps spécifiques après vaccination est faible, voire nulle.\n\nL'immunité humorale est considérée comme la principale protection contre la COVID-19. Les vaccins à ARNm induisent toutefois aussi une réponse cellulaire, dont la valeur protectrice pourrait être importante en l'absence d'anticorps. Chez les patients XLA, qui n'ont pas de lymphocytes B, la réponse T est un modèle particulièrement informatif.\n\nCette étude observationnelle de l'Université Duke inclut 100 patients et témoins. La vaccination (Pfizer BNT162b2 ou Moderna mRNA-1273) est réalisée en soin courant et n'est pas fournie par l'étude. Les réponses T spécifiques de la protéine Spike sont mesurées après stimulation par des peptides du virus sauvage et de variants (alpha, bêta, delta), sur 2 ans.",
+ "interet": "L'étude pourrait montrer si la vaccination déclenche une immunité cellulaire utile chez les patients sans réponse anticorps, et éclairer les recommandations de vaccination et de rappel.",
+ "profil": "Des enfants (dès 6 mois) et des adultes ayant un déficit en anticorps, sous immunoglobulines, vaccinés ou prêts à être vaccinés par ARNm.",
+ "inclusion": [
+  "Déficit en anticorps confirmé par examens biologiques ou génétiques",
+  "Traitement substitutif par immunoglobulines stable",
+  "Âge > 6 mois, avec consentement (ou assentiment et consentement parental si < 18 ans)",
+  "Volonté de recevoir un vaccin ARNm Pfizer BNT162b2 ou Moderna mRNA-1273"
+ ],
+ "exclusion": [
+  "Autre maladie chronique avec baisse de l'immunité",
+  "Traitement immunosuppresseur"
+ ],
+ "bras": [
+  { "nom": "Agammaglobulinémie liée à l'X (XLA)", "traitement": "Cohorte observationnelle non randomisée de patients vaccinés en soin courant (vaccin non fourni par l'étude)" }
+ ],
+ "duree": "2 ans",
+ "critere": "Réponses T spécifiques de la protéine Spike (pourcentage de lymphocytes T) après stimulation par des peptides du virus sauvage et des variants alpha, bêta et delta, sur 2 ans"
+}

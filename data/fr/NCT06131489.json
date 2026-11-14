@@ -1,0 +1,34 @@
+{
+ "h": "85e1ce7bfb1a",
+ "date": "2026-11-14",
+ "titre": "Résection intestinale segmentaire et protocole DEP dans le LHH à EBV avec atteinte digestive",
+ "question": "Associer une résection intestinale segmentaire au protocole DEP améliore-t-il l'évolution des LHH à EBV avec atteinte intestinale sévère ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire associée à l'EBV (LHH-EBV) est une maladie rare à forte mortalité. L'atteinte intestinale en particulier expose à des complications sévères comme l'hémorragie ou la perforation digestive, qui peuvent être fatales même lorsque la maladie hématologique est contrôlée.\n\nLe protocole DEP associe doxorubicine liposomale pégylée, étoposide et méthylprednisolone ; il est utilisé en Chine dans les LHH réfractaires et le lymphome T associé. Les promoteurs du Beijing Friendship Hospital proposent d'y associer une résection segmentaire des lésions intestinales pour réduire le risque de complications digestives.\n\nCette étude prospective observationnelle à un seul bras inclut 20 adultes LHH-EBV avec atteinte intestinale prouvée par imagerie et biopsie (EBER). Elle évalue le taux de réponse globale à 4 semaines et les événements indésirables à 1 mois.",
+ "interet": "Les résultats resteront exploratoires, sans comparateur, mais pourraient justifier une prise en charge chirurgicale précoce des atteintes intestinales sévères dans la LHH-EBV.",
+ "profil": "Des adultes avec LHH à EBV et atteinte intestinale sévère.",
+ "inclusion": [
+  "Critères diagnostiques de LHH HLH-2004 remplis",
+  "ADN EBV sanguin > 1000 copies/mL ou EBER détecté dans les tissus",
+  "Atteinte intestinale sévère en imagerie avec biopsie EBER positive",
+  "Âge supérieur à 18 ans",
+  "Survie estimée supérieure à 1 mois",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Infection active virale, bactérienne, fongique ou parasitaire",
+  "Cancer diagnostiqué dans les 5 ans",
+  "Affection non contrôlée contre-indiquant la chirurgie (angor instable, arythmie, insuffisance respiratoire, hépatique ou rénale sévère, trouble de la coagulation)",
+  "Insuffisance cardiaque NYHA > II, lésion myocardique sévère, dose cumulée d'anthracyclines dépassée",
+  "Grossesse ou allaitement, allergie à la doxorubicine liposomale ou à l'étoposide",
+  "VIH positif, hépatite B ou C active",
+  "Participation à une autre étude"
+ ],
+ "bras": [
+  {
+   "nom": "LHH-EBV avec atteinte intestinale",
+   "traitement": "Résection intestinale segmentaire associée au protocole DEP (doxorubicine liposomale, étoposide, méthylprednisolone) ; schéma précis non précisé"
+  }
+ ],
+ "duree": "Suivi de 4 semaines pour le critère principal",
+ "critere": "Taux de réponse globale à 4 semaines et événements indésirables à 1 mois."
+}

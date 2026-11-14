@@ -1,0 +1,34 @@
+{
+ "h": "b491be0fbdec",
+ "date": "2026-11-14",
+ "titre": "Anticorps anti-CD38 dans le PTI primaire pédiatrique réfractaire",
+ "question": "Un anticorps anti-CD38 est-il efficace et sûr chez des enfants atteints de PTI primaire après échec des traitements de première et seconde ligne ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où les anticorps détruisent les plaquettes et altèrent leur production par les mégacaryocytes. Les corticoïdes et les immunoglobulines sont les traitements initiaux, suivis des agonistes du récepteur de la TPO, du rituximab, de la splénectomie ou d'immunosuppresseurs. Une partie des patients reste réfractaire ou rechute.\n\nLes plasmocytes autoréactifs à longue durée de vie, résistants au rituximab, pourraient expliquer des résistances. L'anticorps anti-CD38 (daratumumab, selon les critères d'exclusion) cible ces plasmocytes et est étudié dans les cytopénies auto-immunes réfractaires.\n\nCette phase 2 ouverte à un seul bras, de l'Institute of Hematology & Blood Diseases Hospital en Chine, inclut 60 enfants de 6 à 17 ans en échec de la corticothérapie et d'au moins une seconde ligne. Le traitement est administré une fois par semaine, 8 fois, avec évaluation de la réponse à 8 semaines et de la sécurité jusqu'à 5 ans.",
+ "interet": "Les résultats pourraient identifier une option de rattrapage ciblant les plasmocytes dans le PTI pédiatrique réfractaire, où les alternatives sont limitées.",
+ "profil": "Des enfants de 6 à 17 ans avec PTI de plus de 3 mois, plaquettes < 30 G/L, après échec des corticoïdes et d'au moins un traitement de seconde ligne.",
+ "inclusion": [
+  "Âge de 6 à 17 ans, diagnostic de PTI depuis au moins 3 mois",
+  "Plaquettes < 30 G/L dans les 2 jours précédant l'inclusion",
+  "Échec ou rechute après corticoïdes et au moins une seconde ligne (rituximab ou agonistes de la TPO)",
+  "Traitements d'urgence terminés depuis au moins 2 semaines, traitements d'entretien à dose stable depuis 4 semaines",
+  "Fonctions hépatique et rénale normales, ECOG ≤ 2, NYHA ≤ 2",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Allergie au daratumumab ou à ses excipients, ou résistance antérieure à ce traitement",
+  "Maladie grave d'organe non contrôlée (tumeur, insuffisance hépatique, cardiaque ou rénale)",
+  "VIH positif, infection active (hépatites B et C, CMV, EBV, syphilis)",
+  "Hémorragie sévère, maladie thrombotique",
+  "Greffe de cellules souches ou d'organe",
+  "Antiagrégants plaquettaires, grossesse ou allaitement",
+  "Trouble psychiatrique empêchant le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Intervention (anticorps anti-CD38)",
+   "traitement": "Injection hebdomadaire d'anticorps anti-CD38, 8 doses ; dose non précisée"
+  }
+ ],
+ "duree": "8 semaines pour la réponse, sécurité suivie jusqu'à 5 ans",
+ "critere": "Réponse globale à 8 semaines et sécurité du traitement jusqu'à 5 ans."
+}

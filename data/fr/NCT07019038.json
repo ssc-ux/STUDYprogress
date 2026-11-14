@@ -1,0 +1,24 @@
+{
+ "h": "ebf6b2237049",
+ "date": "2026-11-14",
+ "titre": "Cohorte nationale chinoise d'anémie hémolytique auto-immune (NICHE-AIHA)",
+ "question": "Quelles sont les caractéristiques, les traitements, l'évolution et le pronostic à long terme des patients atteints d'AHAI en Chine ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est une maladie rare, hétérogène (formes à anticorps chauds, à agglutinines froides, mixtes). Elle est traitée par corticoïdes, rituximab et, selon les cas, immunosuppresseurs ou thérapies ciblées. Les rechutes sont fréquentes et le pronostic est variable.\n\nLes données sur l'incidence, les facteurs de risque, les schémas thérapeutiques et leur efficacité en vie réelle proviennent le plus souvent de séries monocentriques ou de cohortes de taille limitée. Il manque en Chine de grandes cohortes prospectives en hématologie.\n\nNICHE-AIHA est une cohorte hospitalière, à la fois rétrospective et prospective, de l'Institut d'hématologie de Tianjin. Elle inclut les patients atteints d'AHAI (hémoglobine < 100 g/L) pris en charge depuis le 1er janvier 2001, avec un objectif de près de 10 000 patients et un suivi qui court jusqu'en 2070. Elle décrit les caractéristiques démographiques et biologiques, les schémas de traitement, la réponse hématologique, les rechutes, la mortalité, le pronostic à long terme (y compris après arrêt du traitement), la qualité de vie et les coûts de santé.",
+ "interet": "Elle pourrait fournir des données de vie réelle sur l'AHAI à grande échelle et à long terme. Il s'agit d'une cohorte monocentrique observationnelle, avec les biais habituels d'un recrutement hospitalier de référence.",
+ "profil": "Des patients atteints d'AHAI avec hémoglobine < 100 g/L, pris en charge à l'Institut d'hématologie de Tianjin depuis 2001.",
+ "inclusion": [
+  "Diagnostic d'AHAI",
+  "Hémoglobine < 100 g/L",
+  "Patient pris en charge à l'hôpital de l'Institut depuis le 1er janvier 2001"
+ ],
+ "exclusion": [
+  "Patient peu susceptible d'être suivi à long terme (données de suivi impossibles à obtenir, comorbidités sévères)",
+  "Dépendance à l'alcool ou à une drogue pouvant réduire l'observance",
+  "Autre raison jugée par l'investigateur rendant le patient inéligible"
+ ],
+ "bras": [
+  { "nom": "Cohorte NICHE-AIHA", "traitement": "Suivi observationnel rétrospectif et prospectif des patients atteints d'AHAI, sans intervention imposée" }
+ ],
+ "duree": "Suivi à long terme (fin prévue en 2070), évaluations à l'inclusion, 6, 12 et 24 mois après le traitement, puis environ annuelles",
+ "critere": "Réponse hématologique, évaluée à l'inclusion, à 6, 12 et 24 mois après le traitement et à la fin de l'étude."
+}

@@ -1,0 +1,26 @@
+{
+ "h": "a0c0eb7004c1",
+ "date": "2026-11-14",
+ "titre": "Canakinumab (Ilaris) en pratique réelle en Corée : fièvres périodiques et arthrite juvénile systémique",
+ "question": "Quelle est la tolérance et l'efficacité du canakinumab en pratique courante chez les patients coréens ayant une fièvre périodique héréditaire ou une arthrite juvénile idiopathique systémique ?",
+ "contexte": "Les fièvres périodiques héréditaires (CAPS, fièvre méditerranéenne familiale résistante à la colchicine, TRAPS, déficit en mévalonate kinase/HIDS) sont des maladies auto-inflammatoires rares, médiées par l'interleukine-1. L'arthrite juvénile idiopathique systémique (AJIs) relève aussi d'une dérégulation de cette voie. Le canakinumab (Ilaris), anticorps anti-IL-1β, a une indication dans ces maladies.\n\nCette étude observationnelle de cohorte, imposée par le suivi post-commercialisation et promue par Novartis, inclut les patients de 2 ans et plus recevant du canakinumab conformément à l'AMM en Corée, avec recueil partiellement rétrospectif. Aucune taille d'échantillon n'est fixée (25 patients prévus). Elle dure jusqu'à 4 ans, avec 2 ans d'inclusion et 2 ans d'observation.",
+ "interet": "Elle apportera des données de sécurité et d'efficacité en vie réelle sur des maladies rares où les essais comptent peu de patients.",
+ "profil": "Des enfants (dès 2 ans) et adultes avec une fièvre périodique héréditaire, et des enfants avec une AJIs, traités par canakinumab.",
+ "inclusion": [
+  "Consentement (ou assentiment) du patient ou de son représentant légal",
+  "Âge ≥ 2 ans (CAPS, crFMF, TRAPS, HIDS/MKD) ou 2 à 18 ans (AJIs)",
+  "Traitement par Ilaris selon l'AMM, débuté ou prévu"
+ ],
+ "exclusion": [
+  "Ilaris pour une maladie auto-immune autre que CAPS, crFMF, TRAPS, HIDS/MKD ou AJIs",
+  "Participation à un essai interventionnel pouvant influencer la prise en charge"
+ ],
+ "bras": [
+  {
+   "nom": "Ilaris",
+   "traitement": "Canakinumab 150 mg en injection sous-cutanée selon la pratique clinique (observationnel)"
+  }
+ ],
+ "duree": "Jusqu'à 104 semaines de suivi",
+ "critere": "Incidence des événements indésirables et des événements indésirables graves jusqu'à 104 semaines après le début d'Ilaris."
+}

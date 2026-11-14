@@ -1,0 +1,14 @@
+{
+ "h": "78f371032584",
+ "date": "2026-11-14",
+ "titre": "Daratumumab, vénétoclax et dexaméthasone dans l'amylose AL avec t(11;14) nouvellement diagnostiquée",
+ "question": "L'association daratumumab, vénétoclax et dexaméthasone induit-elle des réponses hématologiques profondes dans l'amylose AL avec t(11;14) ?",
+ "contexte": "L'amylose AL est une maladie rare où un clone plasmocytaire produit des chaînes légères qui se déposent dans les organes, surtout le cœur et le rein. Le traitement de première ligne repose sur le daratumumab associé au bortézomib, au cyclophosphamide et à la dexaméthasone. La rapidité et la profondeur de la réponse hématologique conditionnent la récupération d'organe et la survie.\n\nLa translocation t(11;14) est présente dans une proportion élevée des amyloses AL, bien plus que dans le myélome. Elle est associée à une dépendance à BCL-2, cible du vénétoclax, un inhibiteur oral de BCL-2. Des séries rétrospectives ont montré que les schémas à base de vénétoclax induisent des réponses hématologiques rapides et profondes avec un profil de tolérance favorable. Cette étude de phase 2 multicentrique, promue par le Peking Union Medical College Hospital, évalue prospectivement l'association daratumumab, vénétoclax et dexaméthasone chez 36 patients non traités. Elle ne comporte pas de comparateur.",
+ "interet": "Si les taux de réponse sont élevés, cette association orale et sans chimiothérapie classique pourrait devenir une option de première ligne pour les patients avec t(11;14). Les résultats devront être confirmés dans un essai comparatif.",
+ "profil": "Des adultes avec amylose AL non traitée porteurs d'une t(11;14).",
+ "inclusion": ["Amylose AL prouvée par biopsie, jamais traitée", "t(11;14) en FISH ≥ 10 %", "dFLC > 50 mg/L", "Âge ≥ 18 ans"],
+ "exclusion": ["Infection non contrôlée ou autre cancer actif", "Myélome multiple ou maladie de Waldenström associé", "Bloc auriculo-ventriculaire de Mobitz II ou de grade 3 (sauf pacemaker), tachycardie ventriculaire", "VIH, VHB (ADN > 1 000 copies/mL) ou VHC non guéri", "Inhibiteurs ou inducteurs modérés à forts du CYP3A dans les 7 jours", "Neutrophiles < 1 G/L, hémoglobine < 8 g/dL ou plaquettes < 100 G/L", "ASAT/ALAT > 2,5 N, bilirubine > 3 N, DFG < 15 mL/min ou dialyse"],
+ "bras": [{"nom": "Dara-VenD", "traitement": "Daratumumab 16 mg/kg IV ou 1 800 mg SC, vénétoclax oral et dexaméthasone (doses du vénétoclax non précisées)"}],
+ "duree": "Non précisé (critère principal à 3 mois)",
+ "critere": "Réponse complète ou très bonne réponse partielle hématologique à 3 mois."
+}

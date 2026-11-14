@@ -1,0 +1,32 @@
+{
+ "h": "84a8457e4480",
+ "date": "2026-11-14",
+ "titre": "Génakumab dans l'arthrite juvénile idiopathique systémique active",
+ "question": "Le génakumab, un anticorps anti-IL-1β, permet-il de réduire les corticoïdes chez des enfants atteints d'arthrite juvénile idiopathique systémique (AJIs) active ?",
+ "contexte": "L'arthrite juvénile idiopathique systémique (AJIs) associe fièvre récurrente, arthrite, éruption, adénopathies, hépatosplénomégalie et sérite. Elle peut se compliquer d'un syndrome d'activation macrophagique. Le traitement repose sur les corticoïdes et les inhibiteurs de l'interleukine 1 (anakinra, canakinumab) ou de l'interleukine 6 (tocilizumab). Ces biothérapies, souvent coûteuses, restent d'accès inégal selon les pays.\n\nLe génakumab (GeneKumab) est un anticorps monoclonal anti-IL-1β développé par Changchun GeneScience Pharmaceutical. Cet essai de phase 2/3 est annoncé comme multicentrique et randomisé, mais le registre le décrit comme un bras unique. Il inclut des enfants et adolescents de 2 à 17 ans avec AJIs active. Deux doses sous-cutanées toutes les 4 semaines sont testées : 3,0 et 4,0 mg/kg. Le critère principal est la réduction réussie des corticoïdes à 24 semaines.",
+ "interet": "Il évaluera une nouvelle option anti-IL-1β pour réduire l'exposition aux corticoïdes chez les enfants atteints d'AJIs.",
+ "profil": "Des enfants et adolescents de 2 à 17 ans atteints d'AJIs active depuis au moins 2 mois.",
+ "inclusion": [
+  "Âge ≥ 2 ans et < 18 ans",
+  "AJIs selon les critères ILAR 2001 depuis au moins 2 mois, début avant 16 ans",
+  "Arthrite avec fièvre récurrente d'au moins 2 semaines, dont fièvre en pics ≥ 3 jours consécutifs, et un signe parmi éruption, adénopathies, hépatosplénomégalie ou sérite",
+  "Contraception efficace pendant l'étude et 6 mois après"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Allergie au médicament ou à des molécules proches, injection intramusculaire impossible",
+  "Péricardite, myocardite, sérite ou endocardite dans les 6 mois, syndrome d'activation macrophagique dans les 6 mois ou suspecté",
+  "Autre maladie rhumatismale (Kawasaki, périartérite noueuse) ou maladie auto-inflammatoire (FMF, hyper-IgD, NLRP3)",
+  "Pneumopathie interstitielle, fibrose pulmonaire, protéinose alvéolaire, hypertension pulmonaire",
+  "Infections fongiques invasives répétées ou infection traitée par anti-infectieux systémiques dans les 7 jours avant randomisation",
+  "Antécédent d'exposition à la tuberculose ou symptômes évocateurs"
+ ],
+ "bras": [
+  {
+   "nom": "Génakumab",
+   "traitement": "3,0 mg/kg ou 4,0 mg/kg par voie sous-cutanée toutes les 4 semaines"
+  }
+ ],
+ "duree": "24 semaines pour le critère principal",
+ "critere": "Proportion de patients ayant réduit avec succès les corticoïdes à la fin des 24 semaines de traitement."
+}

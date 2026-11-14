@@ -1,0 +1,34 @@
+{
+ "h": "7a1940f9edef",
+ "date": "2026-11-14",
+ "titre": "Anticorps anti-récepteur de l'IL-6 dans la maladie de Castleman multicentrique idiopathique",
+ "question": "Un anticorps humanisé anti-récepteur de l'IL-6 est-il sûr et actif chez des adultes ayant une maladie de Castleman multicentrique idiopathique (iMCD) ?",
+ "contexte": "La maladie de Castleman multicentrique idiopathique est un trouble lymphoprolifératif rare, avec adénopathies multiples, fièvre, cytopénies et atteintes d'organes. Elle est liée à une hypersécrétion de cytokines, en particulier d'IL-6, en l'absence d'infection par HHV-8 et de VIH.\n\nLe siltuximab, anticorps anti-IL-6, est le traitement de référence. L'accès aux anticorps anti-IL-6 ou anti-IL-6R reste variable selon les pays. Le tocilizumab est parfois utilisé hors AMM. La recherche d'alternatives locales est donc pertinente.\n\nCette phase 2a de Beijing VDJBio est multicentrique, ouverte et non randomisée. Elle teste un anticorps humanisé recombinant anti-IL-6R, en escalade de dose (4, 6 et 8 mg/kg toutes les 2 semaines, 3 patients par dose), puis en phase II, pour 25 patients au total. L'objectif principal est la tolérance et la dose recommandée pour la suite du développement.",
+ "interet": "L'étude pourrait ajouter une option anti-IL-6R pour l'iMCD. Les premiers résultats sont attendus sur la sécurité et l'efficacité préliminaire, sans comparaison.",
+ "profil": "Des adultes ayant une iMCD symptomatique et mesurable, sans anti-IL-6 antérieur.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "iMCD symptomatique et mesurable, confirmée par biopsie ou relecture centrale (consensus chinois 2021)",
+  "Neutrophiles ≥ 1 G/L, plaquettes ≥ 75 G/L, ALAT < 2,5 N, bilirubine < 2,5 N, créatinine ≤ 3 mg/dL",
+  "ECOG de 0 à 2",
+  "Prednisone ≤ 1 mg/kg/j, dose stable ou en baisse dans les 4 semaines",
+  "Contraception efficace, consentement signé"
+ ],
+ "exclusion": [
+  "VIH ou HHV-8 positif",
+  "Lésions cutanées seules, autre cancer de moins de 5 ans",
+  "Maladie auto-immune (lupus, polyarthrite rhumatoïde, Still, AJI), infection systémique active, diabète mal contrôlé",
+  "Traitement antérieur anti-IL-6 ou anti-IL-6R, traitements du Castleman dans les 4 à 8 semaines",
+  "Cardiopathie non contrôlée, FEVG < 40 %",
+  "Hépatite B ou C, syphilis, tuberculose active, antécédent d'allogreffe",
+  "Réaction sévère antérieure aux anticorps monoclonaux, grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "4 mg/kg toutes les 2 semaines", "traitement": "Anti-IL-6R humanisé recombinant, dose faible de la phase I" },
+  { "nom": "6 mg/kg toutes les 2 semaines", "traitement": "Même anticorps, dose intermédiaire de la phase I" },
+  { "nom": "8 mg/kg toutes les 2 semaines", "traitement": "Même anticorps, dose élevée de la phase I" },
+  { "nom": "Phase II", "traitement": "Dose recommandée issue de la phase I" }
+ ],
+ "duree": "En moyenne 3 ans en phase I et 1 an en phase II",
+ "critere": "Nombre et grade des événements indésirables (CTCAE v5.0) jusqu'à la fin de l'étude"
+}

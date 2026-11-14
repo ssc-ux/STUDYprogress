@@ -1,0 +1,29 @@
+{
+ "h": "9092e9fda41d",
+ "date": "2026-11-14",
+ "titre": "Cellules immunitaires dans la sarcoïdose : poumon, ganglions et sang",
+ "question": "Comment les populations de cellules immunitaires diffèrent-elles dans le poumon, les ganglions et le sang selon l'évolution de la sarcoïdose ?",
+ "contexte": "La sarcoïdose touche le plus souvent les poumons et les ganglions intrathoraciques, mais peut atteindre tous les organes, avec parfois des troubles du rythme cardiaque menaçant le pronostic. Certains patients guérissent spontanément, d'autres évoluent vers une forme chronique avec insuffisance respiratoire ou cardiaque, voire greffe. Il n'existe pas de traitement curatif.\n\nDans le poumon, des lymphocytes T activés s'accumulent et libèrent des cytokines, en particulier le TNF-alpha, central dans la progression. Certains segments du récepteur T et certains types HLA sont liés à une évolution favorable. Les mécanismes qui distinguent résolution spontanée et chronicité restent mal connus. Cette étude de Region Stockholm prélève des cellules par ponction ganglionnaire et/ou bronchoscopie chez des patients suspects de sarcoïdose, et mesure les pourcentages de cellules immunitaires dans le poumon, les ganglions et le sang.",
+ "interet": "Elle pourrait identifier des signatures immunitaires prédictives de la chronicité et ouvrir la voie à des traitements plus ciblés.",
+ "profil": "Des adultes de 18 à 90 ans avec suspicion de sarcoïdose, parlant suédois.",
+ "inclusion": [
+  "Suspicion de sarcoïdose",
+  "Parle suédois",
+  "Capable de comprendre et d'approuver le protocole",
+  "Aucune contre-indication aux examens prévus"
+ ],
+ "exclusion": [
+  "Absence de suspicion de sarcoïdose",
+  "Ne parle pas suédois",
+  "Incapacité de comprendre ou refus du protocole",
+  "Contre-indication aux examens prévus"
+ ],
+ "bras": [
+  {
+   "nom": "Cellules immunitaires",
+   "traitement": "Ponction ganglionnaire et/ou bronchoscopie avec prélèvements"
+  }
+ ],
+ "duree": "2 ans pour le critère principal",
+ "critere": "Pourcentages de cellules immunitaires dans le poumon, les ganglions et le sang, sur 2 ans."
+}

@@ -1,0 +1,29 @@
+{
+ "h": "7abbe75c3e83",
+ "date": "2026-11-14",
+ "titre": "Facteurs de régulation de la prolifération des mastocytes dans la mastocytose (NIAID)",
+ "question": "Quels facteurs favorisent ou freinent la prolifération et la survie des mastocytes normaux et néoplasiques dans la mastocytose ?",
+ "contexte": "La mastocytose est une maladie liée à l'accumulation de mastocytes, qui libèrent des médiateurs responsables de prurit, de lésions cutanées bulleuses, de flushs, de douleurs osseuses et abdominales. Le diagnostic repose sur la biopsie médullaire ou cutanée, la présence d'urticaire pigmentaire, une tryptase sérique élevée (> 20 ng/ml) et des marqueurs aberrants (CD2, CD25) des mastocytes.\n\nLes mécanismes moléculaires qui règlent le nombre et la survie des mastocytes restent incomplètement compris, ce qui limite les traitements. Cette étude du NIAID (États-Unis) prévoit une visite unique d'une durée maximale de 8 heures, avec examen clinique, bilan sanguin (dont recherche d'anomalies génétiques), ponction-biopsie de moelle osseuse, et selon les cas des examens facultatifs (microbiote, activité physique, alimentation). Des apparentés non atteints peuvent aussi participer. Elle est observationnelle.",
+ "interet": "L'étude vise à mieux comprendre la biologie de la mastocytose pour améliorer la prise en charge. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des enfants et adultes (jusqu'à 80 ans) atteints de mastocytose, et leurs apparentés non atteints.",
+ "inclusion": [
+  "Mastocytose documentée par biopsie médullaire ou cutanée, ou lésions cutanées photographiées",
+  "Âge de 0 à 80 ans (visite à distance) ou de 2 à 80 ans (visite sur site)",
+  "Suivi par un médecin traitant",
+  "Capacité à donner un consentement",
+  "Apparentés : biologiques, de 2 à 80 ans, sans mastocytose, avec médecin traitant extérieur au NIH"
+ ],
+ "exclusion": [
+  "Anémie avec hémoglobine < 8 g/dl ou hématocrite < 24",
+  "Toute affection contre-indiquant la participation, selon l'investigateur",
+  "Apparentés : toute affection contre-indiquant la participation"
+ ],
+ "bras": [
+  {"nom": "Adultes avec mastocytose", "traitement": "Adultes avec mastocytose documentée : examen, prises de sang, ponction-biopsie médullaire"},
+  {"nom": "Enfants avec mastocytose", "traitement": "Enfants avec mastocytose documentée : mêmes évaluations adaptées"},
+  {"nom": "Apparentés adultes", "traitement": "Adultes apparentés de patients, sans mastocytose"},
+  {"nom": "Apparentés enfants", "traitement": "Enfants apparentés de patients, sans mastocytose"}
+ ],
+ "duree": "Une visite d'au plus 8 heures, avec nouvelle inclusion possible",
+ "critere": "Obtention de mastocytes normaux et néoplasiques de la moelle et du sang pour étudier leur prolifération et leur survie, et classer l'extension de la maladie"
+}

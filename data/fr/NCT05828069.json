@@ -1,0 +1,35 @@
+{
+ "h": "0a319df2ae26",
+ "date": "2026-11-14",
+ "titre": "Tovorafenib dans l'histiocytose langerhansienne progressive, en rechute ou réfractaire",
+ "question": "Le tovorafenib est-il actif et bien toléré chez les enfants et jeunes adultes atteints d'histiocytose langerhansienne en rechute ou réfractaire ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) résulte de l'accumulation de cellules dendritiques clonales qui forment des lésions des os, de la peau, des poumons, de l'hypophyse ou d'autres organes. Elle touche surtout l'enfant et le jeune adulte. Les formes multisystémiques sont traitées par vinblastine et prednisone, mais les rechutes sont fréquentes, et les options sont limitées.\n\nLa voie MAPK est activée dans la quasi-totalité des cas, le plus souvent par la mutation BRAF V600E, ou par d'autres altérations (RAS, RAF, MAP2K1, récepteurs à tyrosine kinase). Le tovorafenib est un inhibiteur oral de RAF de type II, actif sur les altérations BRAF y compris non V600E. Cette phase 2 du National Cancer Institute traite des patients de 180 jours à moins de 22 ans, avec ou sans BRAF V600E, avec le tovorafenib une fois par semaine en cycles de 28 jours, jusqu'à 12 cycles. Une phase de recherche de dose précède l'évaluation.",
+ "interet": "Une activité durable permettrait de proposer un traitement oral ciblé, sans chimiothérapie cytotoxique, aux patients en rechute après un premier traitement.",
+ "profil": "Des enfants et jeunes adultes (180 jours à moins de 22 ans) avec HCL progressive, en rechute ou réfractaire et mutation de la voie MAPK.",
+ "inclusion": [
+  "Âge de 180 jours à moins de 22 ans, surface corporelle ≥ 0,3 m²",
+  "HCL progressive, en rechute ou réfractaire après au moins un traitement systémique, avec maladie mesurable et confirmation histologique",
+  "Mutation pathogène des tyrosine kinases (CSFR1, ERBB3, ALK), RAS ou RAF",
+  "Prise orale ou entérale possible ; Karnofsky ou Lansky ≥ 50 %",
+  "Récupération des toxicités précédentes (grade ≤ 1) et délai de 14 jours après chimiothérapie ou autre anticancéreux",
+  "Fonction hématologique, rénale, hépatique et cardiaque adéquates"
+ ],
+ "exclusion": [
+  "HCL associée à une autre hémopathie ou antécédent de cancer non histiocytaire",
+  "Atteinte cutanée seule, digestive seule, ou neurodégénérescence sans lésion parenchymateuse",
+  "Mutation activatrice de MAP2K1",
+  "Malabsorption, infection non contrôlée, chirurgie majeure récente",
+  "Facteur de risque d'occlusion veineuse rétinienne ou de rétinopathie séreuse centrale",
+  "Antécédent de greffe d'organe ou de moelle, maladie cardiovasculaire significative, QT > 440 ms",
+  "Antécédent de DRESS ou de syndrome de Stevens-Johnson, CPK > 5 x LSN",
+  "Grossesse, allaitement ou contraception non assurée"
+ ],
+ "bras": [
+  {
+   "nom": "Tovorafenib",
+   "traitement": "Tovorafenib par voie orale aux jours 1, 8, 15 et 22 de cycles de 28 jours, jusqu'à 12 cycles"
+  }
+ ],
+ "duree": "Jusqu'à 12 cycles de 28 jours",
+ "critere": "Phase de recherche de dose : toxicités limitantes sur 28 jours. Phase 2 : taux de réponse globale après 2 cycles, à maintenir 4 semaines plus tard."
+}

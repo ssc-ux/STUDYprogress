@@ -1,0 +1,28 @@
+{
+ "h": "2e19689ad95a",
+ "date": "2026-11-14",
+ "titre": "Épidémiologie des pneumopathies interstitielles associées aux connectivites au Mexique",
+ "question": "Quelles sont les caractéristiques, les évolutions et les facteurs pronostiques des pneumopathies interstitielles associées aux maladies systémiques au Mexique ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est une complication fréquente et grave des connectivites : sclérodermie, polyarthrite rhumatoïde, myosites, lupus, syndrome de Sjögren, vascularites. Elle peut évoluer vers la fibrose progressive, avec des exacerbations aiguës et une mortalité élevée. Les données épidémiologiques en Amérique latine sont rares.\n\nCette étude observationnelle de Boehringer Ingelheim décrit l'épidémiologie des PID associées aux connectivites au Mexique. Elle examine les liens avec les comorbidités et les traitements, et leur impact sur la progression, les exacerbations et la mortalité. Les données proviennent à la fois de nouveaux patients et de dossiers existants depuis 2012, avec un suivi pouvant atteindre 13 ans. Les critères principaux comprennent le délai avant la première exacerbation, leur fréquence, l'étendue de la fibrose au scanner, le test de marche de 6 minutes et un questionnaire de qualité de vie (KBILD).",
+ "interet": "Elle apportera des données locales sur le fardeau et l'évolution de ces PID, utiles pour le dépistage et la prise en charge.",
+ "profil": "Des adultes mexicains atteints d'une connectivite ou d'une rhumatologie inflammatoire avec une pneumopathie interstitielle.",
+ "inclusion": [
+  "Âge > 18 ans, consentement signé (nouvelles données)",
+  "Polyarthrite rhumatoïde, connectivite (sclérodermie, myosite, lupus, Sjögren, MCTD), vascularite, spondyloarthrite ou sarcoïdose",
+  "PID diagnostiquée cliniquement et par scanner haute résolution avec profil interstitiel",
+  "Dossiers de patients perdus de vue depuis 2012 avec diagnostic complet (données existantes)"
+ ],
+ "exclusion": [
+  "Pneumopathie interstitielle commune (PIC) histologique non liée à une connectivite",
+  "Pneumopathie post-chimiothérapie ou post-radiothérapie",
+  "Dossiers sans diagnostic complet de PID"
+ ],
+ "bras": [
+  {
+   "nom": "Tous les participants",
+   "traitement": "Patients avec connectivite et PID, données issues de dossiers électroniques et papier, sans intervention"
+  }
+ ],
+ "duree": "Jusqu'à 13 ans de données",
+ "critere": "Délai avant la première exacerbation et fréquence annuelle, étendue de la fibrose au scanner, variation du test de marche de 6 minutes et score KBILD, jusqu'à 13 ans."
+}

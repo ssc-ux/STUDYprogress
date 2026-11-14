@@ -1,0 +1,44 @@
+{
+ "h": "79b64378cd89",
+ "date": "2026-11-14",
+ "titre": "TEP au fluorure de sodium 18F dans l'amylose cardiaque à transthyrétine (I-CARE)",
+ "question": "La TEP au 18F-fluorure permet-elle de diagnostiquer l'amylose cardiaque à TTR, de quantifier la charge amyloïde et de suivre la réponse au tafamidis ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cardiopathie infiltrative de plus en plus reconnue chez les sujets âgés, de mauvais pronostic sans traitement. Plusieurs traitements coûteux sont disponibles. On comprend mal pourquoi certains patients répondent et d'autres non, et il manque des outils pour suivre l'effet des traitements.\n\nDes dépôts calciques existent dans le myocarde des patients ATTR-CM. Le tafamidis diminue les hospitalisations et améliore la survie, sans que son mécanisme soit bien compris. La TEP/TDM au 18F-fluorure explore ces dépôts calciques. L'étude I-CARE, promue par l'université d'Édimbourg, comporte quatre volets : optimiser le protocole (imagerie tardive, correction de mouvement), établir le seuil de rapport tissu/bruit de fond (TBR) distinguant l'ATTR-CM de ses phénocopies (amylose AL, cardiomyopathie hypertrophique), calibrer le TBR par rapport au volume extracellulaire en IRM, et suivre la progression et la réponse au traitement à un an.",
+ "interet": "Si elle est validée, cette TEP pourrait offrir un marqueur quantitatif de la charge amyloïde pour évaluer l'effet des traitements de l'ATTR-CM.",
+ "profil": "Des adultes avec amylose cardiaque à TTR ou AL, ou cardiomyopathie hypertrophique, âgés de plus de 40 ans (30 ans pour la cardiomyopathie hypertrophique).",
+ "inclusion": [
+  "Consentement signé",
+  "Âge > 40 ans pour l'amylose ATTR ou AL, > 30 ans pour la cardiomyopathie hypertrophique",
+  "Amylose cardiaque ATTR ou AL selon les recommandations d'experts",
+  "Cardiomyopathie hypertrophique selon les recommandations de l'ESC"
+ ],
+ "exclusion": [
+  "Consentement impossible",
+  "Grossesse, allaitement ou femme en âge de procréer non stérilisée",
+  "DFG ≤ 30 mL/min/1,73 m²",
+  "Insuffisance cardiaque NYHA IV",
+  "Fibrillation atriale mal contrôlée",
+  "Contre-indication à l'IRM, ou allergie au gadolinium",
+  "Contre-indication au tafamidis"
+ ],
+ "bras": [
+  {
+   "nom": "Volet 1 : optimisation",
+   "traitement": "TEP au 18F-fluorure optimisée chez 15 patients ATTR-CM"
+  },
+  {
+   "nom": "Volet 2 : diagnostic différentiel",
+   "traitement": "Seuil de TBR : ATTR-CM (100) contre amylose AL (20) et cardiomyopathie hypertrophique (20)"
+  },
+  {
+   "nom": "Volet 3 : calibration",
+   "traitement": "TBR comparé au volume extracellulaire en IRM chez 100 patients ATTR-CM"
+  },
+  {
+   "nom": "Volet 4 : suivi",
+   "traitement": "Progression et réponse au traitement à un an chez 100 patients ATTR-CM"
+  }
+ ],
+ "duree": "1 an de suivi",
+ "critere": "Seuil de TBR myocardique de la TEP au 18F-fluorure, sur 1,5 an."
+}

@@ -1,0 +1,48 @@
+{
+ "h": "4904b644cec1",
+ "date": "2026-11-14",
+ "titre": "XTMAB-16 en doses croissantes dans la sarcoïdose pulmonaire",
+ "question": "L'XTMAB-16, un anticorps anti-TNF, est-il sûr et bien toléré à doses croissantes chez des patients atteints de sarcoïdose pulmonaire ?",
+ "contexte": "La sarcoïdose pulmonaire est traitée par corticoïdes, avec des immunosuppresseurs en épargne cortisonique. Les corticoïdes au long cours entraînent une morbidité importante, et les options pour les formes réfractaires sont limitées. Le TNF-alpha joue un rôle central dans la formation du granulome, et l'infliximab a montré une efficacité dans les formes réfractaires. Il n'est cependant pas autorisé dans la sarcoïdose.\n\nL'XTMAB-16 (Xentria) est un anticorps anti-TNF-alpha. Cet essai de phase 1/2 randomisé en double aveugle contre placebo comporte une partie A en doses croissantes multiples : 2 ou 4 mg/kg toutes les 4 semaines, ou 2 ou 4 mg/kg toutes les 2 semaines, pendant 12 semaines. Les patients prennent déjà de 7,5 à 25 mg/j de prednisone et un traitement de fond stable, et suivent une décroissance cortisonique protocolisée. Le critère principal est la sécurité, sur 20 semaines.",
+ "interet": "Il définira la tolérance et la dose de l'XTMAB-16 pour d'éventuels essais d'efficacité dans la sarcoïdose pulmonaire, avec décroissance cortisonique.",
+ "profil": "Des adultes de 18 à 80 ans avec sarcoïdose pulmonaire, sous corticoïdes et traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à 80 ans, poids de 45 à 160 kg",
+  "Sarcoïdose pulmonaire diagnostiquée depuis au moins 6 mois (critères ATS 2020, ERS ou WASOG)",
+  "Dyspnée mMRC ≥ 1",
+  "Prednisone de 7,5 à 25 mg/j ou équivalent, avec décroissance possible",
+  "Traitement de fond stable (méthotrexate, azathioprine, mycophénolate, léflunomide, chloroquine ou hydroxychloroquine) depuis au moins 3 mois",
+  "Test SARS-CoV-2 négatif et consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Âge > 65 ans (Union européenne uniquement)",
+  "Atteinte seulement hilaire fibrosante ou inflammatoire au scanner haute résolution",
+  "Antécédent de traitement anti-TNF, rituximab ou ACTH dans les 12 mois",
+  "Sarcoïdose extrapulmonaire ou neurologique nécessitant un traitement systémique",
+  "CVF < 50 % de la valeur prédite, emphysème",
+  "Maladie hépatique ou rénale significative, hypertension non contrôlée, ECG anormal",
+  "Autre maladie auto-immune traitée ou autre corticothérapie systémique",
+  "Participation à un autre essai récent"
+ ],
+ "bras": [
+  {
+   "nom": "XTMAB-16 2 mg/kg toutes les 4 semaines",
+   "traitement": "Pendant 12 semaines, ou placebo"
+  },
+  {
+   "nom": "XTMAB-16 4 mg/kg toutes les 4 semaines",
+   "traitement": "Pendant 12 semaines, ou placebo"
+  },
+  {
+   "nom": "XTMAB-16 2 mg/kg toutes les 2 semaines",
+   "traitement": "Pendant 12 semaines, ou placebo"
+  },
+  {
+   "nom": "XTMAB-16 4 mg/kg toutes les 2 semaines",
+   "traitement": "Pendant 12 semaines, ou placebo"
+  }
+ ],
+ "duree": "20 semaines",
+ "critere": "Fréquence des événements indésirables (dont graves, toxicités limitantes de dose et événements d'intérêt particulier), sur 20 semaines."
+}

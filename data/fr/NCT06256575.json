@@ -1,0 +1,35 @@
+{
+ "h": "5e692c8b7b1a",
+ "date": "2026-11-14",
+ "titre": "Diosmine pour les ulcères digitaux de la sclérodermie systémique",
+ "question": "La diosmine favorise-t-elle la cicatrisation des ulcères digitaux chez les patients atteints de sclérodermie systémique ?",
+ "contexte": "Les ulcères digitaux sont une complication fréquente et douloureuse de la sclérodermie systémique. Ils reflètent la vasculopathie et l'ischémie des extrémités, retentissent sur la fonction de la main et exposent à la surinfection et à la gangrène. Les traitements actuels reposent sur les vasodilatateurs (inhibiteurs calciques, inhibiteurs de la phosphodiestérase 5, iloprost) et le bosentan en prévention des récidives, avec une efficacité partielle.\n\nLa diosmine est un flavonoïde veinotonique et vasculoprotecteur, utilisé dans l'insuffisance veineuse chronique. Il a des effets sur la microcirculation et l'inflammation, qui justifient d'en tester l'effet sur les ulcères ischémiques.\n\nCet essai américain de petite taille, promu par un laboratoire, compare une formulation de diosmine (630 mg deux fois par jour) à un placebo pendant 8 semaines, avec une randomisation 2:1 en faveur du produit actif. Le critère principal est la cicatrisation des ulcères.",
+ "interet": "Un résultat positif donnerait une option peu coûteuse en appoint des vasodilatateurs. L'effectif réduit limite toutefois la portée de l'étude.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec au moins un ulcère digital actif.",
+ "inclusion": [
+  "Sclérodermie systémique",
+  "Au moins un ulcère digital actif",
+  "Traitement de la sclérodermie inchangé depuis 30 jours",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Infection ou gangrène de l'ulcère",
+  "Allergie aux agrumes",
+  "Maladie cardiaque, rénale ou hépatique instable",
+  "Infection active quelle qu'elle soit",
+  "Cancer en cours de traitement ou non guéri",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Actif",
+   "traitement": "Diosmine (Vasculera) 630 mg, 2 fois par jour, 8 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Amidon de maïs, 1 gélule 2 fois par jour, 8 semaines"
+  }
+ ],
+ "duree": "8 semaines (4 visites)",
+ "critere": "Nombre et pourcentage d'ulcères initiaux cicatrisés, évalués à J28 et J56."
+}

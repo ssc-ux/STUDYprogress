@@ -1,0 +1,26 @@
+{
+ "h": "a79019938268",
+ "date": "2026-11-14",
+ "titre": "Programme d'exercice de 12 semaines dans l'amylose héréditaire à transthyrétine (ATTRv)",
+ "question": "Un programme supervisé d'exercice de 12 semaines améliore-t-il la santé physique et mentale des patients atteints d'amylose ATTRv ?",
+ "contexte": "L'amylose héréditaire à transthyrétine (ATTRv) est une maladie génétique rare, due à des variants du gène de la transthyrétine, avec dépôts amyloïdes dans les nerfs et plusieurs organes. Elle provoque notamment une polyneuropathie progressive et une atteinte cardiaque, avec perte de force musculaire, troubles de la marche et altération de la qualité de vie.\n\nDe nouveaux traitements (stabilisateurs de la transthyrétine, silenceurs de gènes) modifient l'évolution de la maladie. L'effet de l'exercice physique a été peu étudié : les rares études portaient sur des patients transplantés hépatiques et sur la seule condition physique, sans évaluation de la santé mentale.\n\nCette étude de l'université de Maia (Portugal) est randomisée et ouverte, avec 42 patients atteints d'ATTRv de stade 1 ou 2 vivant au Portugal. Un groupe suit un programme d'exercice supervisé de 12 semaines, l'autre n'a aucune intervention. Les patients ayant eu une transplantation hépatique dans les 6 mois sont exclus. Les critères évaluent la force des extenseurs du genou, la force de préhension, la capacité de marche et la composition corporelle, avant et après l'intervention.",
+ "interet": "Elle pourrait fournir des arguments pour intégrer l'activité physique supervisée au suivi des patients ATTRv sous traitements modernes. L'effectif est faible et l'intervention de courte durée.",
+ "profil": "Des adultes portugais atteints d'amylose ATTRv de stade 1 ou 2, sans contre-indication à l'exercice.",
+ "inclusion": [
+  "Amylose ATTRv, patient vivant au Portugal",
+  "Stade 1 ou 2 de la maladie",
+  "Absence de contre-indication médicale à l'exercice",
+  "Capacité à donner son consentement",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Transplantation hépatique dans les 6 derniers mois",
+  "Autres critères d'exclusion : non précisés"
+ ],
+ "bras": [
+  { "nom": "Exercice", "traitement": "Programme d'exercice supervisé de 12 semaines" },
+  { "nom": "Témoin", "traitement": "Pas d'inclusion dans le programme d'exercice" }
+ ],
+ "duree": "12 semaines",
+ "critere": "Force des extenseurs du genou, force de préhension, capacité de marche et composition corporelle (IMC, poids, masse maigre, masse grasse, eau corporelle), évaluées avant et juste après les 12 semaines."
+}

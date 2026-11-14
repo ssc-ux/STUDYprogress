@@ -1,0 +1,32 @@
+{
+ "h": "759b2004fcda",
+ "date": "2026-11-14",
+ "titre": "Vénétoclax et dexaméthasone dans l'amylose AL t(11;14) nouvellement diagnostiquée",
+ "question": "L'association vénétoclax et dexaméthasone induit-elle une réponse hématologique rapide et profonde dans l'amylose AL avec translocation t(11;14) non traitée ?",
+ "contexte": "L'amylose AL est causée par un clone plasmocytaire sécrétant des chaînes légères amyloïdogènes. Le traitement de référence repose sur le daratumumab associé au bortézomib, au cyclophosphamide et à la dexaméthasone, et l'objectif est d'obtenir une réponse hématologique rapide et profonde pour préserver les organes.\n\nLa translocation t(11;14), présente chez environ la moitié des patients atteints d'amylose AL, est associée à une surexpression de BCL2 et à une sensibilité particulière au vénétoclax, inhibiteur oral de BCL2. Plusieurs séries rétrospectives suggèrent que les schémas à base de vénétoclax induisent des réponses hématologiques rapides et profondes, avec une bonne tolérance.\n\nCet essai de phase 2 multicentrique à un seul bras, promu par le Peking Union Medical College Hospital en Chine, évalue de manière prospective le vénétoclax associé à la dexaméthasone orale chez des patients naïfs de traitement, porteurs d'une t(11;14) en FISH.",
+ "interet": "Si les taux de réponse sont élevés, ce schéma oral et sans perfusion pourrait devenir une option de première ligne pour les patients AL t(11;14), en particulier en cas de contre-indication aux schémas habituels. Un essai comparatif sera nécessaire.",
+ "profil": "Des adultes avec amylose AL non traitée et translocation t(11;14).",
+ "inclusion": [
+  "Amylose AL prouvée par biopsie, jamais traitée",
+  "t(11;14) en FISH sur au moins 10 % des cellules",
+  "Différence des chaînes légères libres (dFLC) > 50 mg/L",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "Infection non contrôlée ou autre cancer actif",
+  "Myélome multiple ou maladie de Waldenström associé",
+  "Bloc auriculoventriculaire de type Mobitz II ou de grade 3 (sauf stimulateur) ou tachycardie ventriculaire soutenue ou récurrente",
+  "VIH positif, ADN du VHB > 1000 copies/mL ou hépatite C active",
+  "Inhibiteurs ou inducteurs modérés ou forts du CYP3A dans les 7 jours",
+  "Neutrophiles < 1 G/L, hémoglobine < 8 g/dL ou plaquettes < 100 G/L",
+  "ALAT ou ASAT > 2,5 N, bilirubine > 3 N, DFGe < 15 mL/min ou épuration extrarénale"
+ ],
+ "bras": [
+  {
+   "nom": "Ven-D",
+   "traitement": "Vénétoclax associé à la dexaméthasone orale ; doses non précisées"
+  }
+ ],
+ "duree": "3 mois pour le critère principal",
+ "critere": "Taux de réponse hématologique complète ou très bonne réponse partielle 3 mois après le début du traitement."
+}

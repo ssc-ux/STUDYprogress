@@ -1,0 +1,31 @@
+{
+ "h": "ec206be40467",
+ "date": "2026-11-14",
+ "titre": "Budoprutug, anticorps anti-CD19, dans le PTI de l'adulte (phase 1b/2a)",
+ "question": "Le budoprutug, anticorps anti-CD19 déplétant les lymphocytes B, est-il sûr et actif chez des adultes atteints de PTI ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps provoquent la destruction des plaquettes. Les corticoïdes, les agonistes du récepteur de la thrombopoïétine et le rituximab sont les options usuelles, mais beaucoup de patients rechutent ou restent insuffisamment contrôlés.\n\nLe rituximab, anti-CD20, cible une partie des lymphocytes B. CD19 est exprimé plus largement et plus tôt dans la lignée B, ce qui pourrait permettre une déplétion plus profonde. Le budoprutug (TNT119) est un anticorps monoclonal IgG1 humanisé anti-CD19 qui détruit ses cibles par cytotoxicité cellulaire dépendante des anticorps.\n\nCette étude de phase 1b/2a de Climb Bio est ouverte, en cohortes séquentielles, avec escalade puis expansion de dose. Elle compte 24 adultes dans 20 centres de 5 pays. Le budoprutug est administré en deux perfusions IV à 14 jours d'intervalle (J1 et J15), à trois niveaux de dose puis dans une cohorte d'expansion. Les patients doivent avoir des plaquettes < 30 G/µL malgré au moins un traitement antérieur, et un taux de lymphocytes B CD19+ suffisant. L'objectif principal est la sécurité, avec suivi jusqu'à la semaine 48.",
+ "interet": "L'étude apportera les premières données humaines dans le PTI sur un anti-CD19 non conjugué, avec pharmacocinétique, pharmacodynamie et une première évaluation d'efficacité. Elle est de petite taille et sans comparateur.",
+ "profil": "Des adultes atteints de PTI avec plaquettes < 30 G/L malgré au moins un traitement antérieur.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Plaquettes < 30 G/L malgré au moins une tentative thérapeutique adéquate, confirmées sur 2 mesures espacées de 5 à 14 jours",
+  "TCA et TP < 1,5 N, bilirubine totale < 1,5 N (sauf Gilbert), INR < 1,5"
+ ],
+ "exclusion": [
+  "Lymphocytes B CD19+ < 80/µL (ou < 40/µL si déplétion B reçue 24 semaines à 2 ans avant)",
+  "Hémoglobinurie paroxystique nocturne, syndrome d'Evans ou autre trouble de l'hémostase",
+  "Traitement déplétant les lymphocytes B (rituximab) dans les 24 semaines",
+  "Anticoagulants ou antiagrégants au long cours, IgIV dans les 90 jours",
+  "Immunosuppresseurs (hors corticoïdes) dans les 30 jours, agents alkylants dans les 180 jours",
+  "Infection active, chronique ou latente (VHB, VHC, VIH)",
+  "Tuberculose active ou risque élevé"
+ ],
+ "bras": [
+  { "nom": "Cohorte 1, dose A", "traitement": "Budoprutug IV, une dose à J1 et une dose à J15" },
+  { "nom": "Cohorte 2, dose B", "traitement": "Budoprutug IV, une dose à J1 et une dose à J15" },
+  { "nom": "Cohorte 3, dose C", "traitement": "Budoprutug IV, une dose à J1 et une dose à J15" },
+  { "nom": "Cohorte d'expansion", "traitement": "Budoprutug IV à la dose retenue, J1 et J15" }
+ ],
+ "duree": "Jusqu'à 48 semaines",
+ "critere": "Incidence des événements indésirables apparus sous traitement, jusqu'à la semaine 48."
+}

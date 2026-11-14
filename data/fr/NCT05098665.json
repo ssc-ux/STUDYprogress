@@ -1,0 +1,28 @@
+{
+ "h": "d4b6dec817b9",
+ "date": "2026-11-14",
+ "titre": "Télésurveillance du poids pour prévenir les hospitalisations dans l'amylose cardiaque ATTR",
+ "question": "Une télésurveillance à distance (balance connectée) réduit-elle les hospitalisations pour insuffisance cardiaque et la mortalité chez les patients ayant une cardiomyopathie amyloïde ATTR ?",
+ "contexte": "L'amylose cardiaque est due à l'infiltration du myocarde par des dépôts de protéine amyloïde. Le muscle cardiaque devient rigide et épaissi, ce qui mène à l'insuffisance cardiaque. La forme la plus fréquente, chez le sujet âgé, est l'amylose ATTR de type sauvage, où s'accumule la transthyrétine.\n\nLa maladie s'accompagne de poussées de surcharge hydrosodée, qui entraînent des hospitalisations répétées et un pronostic péjoratif. La gestion des diurétiques est délicate : ces patients tolèrent mal la déplétion volémique comme la surcharge. Une détection précoce de la prise de poids pourrait permettre d'ajuster le traitement à domicile avant la décompensation.\n\nCet essai randomisé britannique (PATHWAY-RCT), promu par le Richmond Research Institute, inclut 320 patients ayant une cardiomyopathie ATTR établie, suivis dans un centre national d'amylose. Il compare un service de télésurveillance par balances connectées BodyTrace à domicile (160 patients) aux soins habituels (160 patients). Le suivi dure 3 ans, l'essai est en simple aveugle.",
+ "interet": "L'étude pourrait montrer qu'un dispositif simple, peu coûteux et à domicile réduit les hospitalisations dans l'amylose ATTR. Les résultats éclaireront l'organisation du suivi de ces patients.",
+ "profil": "Des adultes ayant une cardiomyopathie amyloïde ATTR établie, suivis dans un centre national d'amylose.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Cardiomyopathie ATTR établie selon le protocole",
+  "Consentement écrit",
+  "Capacité et volonté de suivre les procédures de l'étude",
+  "Patient suivi dans un centre participant (centre national d'amylose)"
+ ],
+ "exclusion": [
+  "Impossibilité d'utiliser une balance BodyTrace à domicile (pas de réseau mobile)",
+  "Dialyse ou insuffisance rénale terminale (DFG < 25 mL/min)",
+  "Albuminémie < 20 g/dL ou autre cause d'œdème non liée à l'hypervolémie",
+  "Plus de 2 diurétiques oraux (traitement diurétique oral maximal)"
+ ],
+ "bras": [
+  { "nom": "Télésurveillance", "traitement": "160 patients avec service de télésurveillance à domicile (balance connectée)" },
+  { "nom": "Soins habituels", "traitement": "160 patients, sans intervention" }
+ ],
+ "duree": "3 ans",
+ "critere": "Hospitalisations pour insuffisance cardiaque et mortalité toutes causes, sur 3 ans"
+}

@@ -1,0 +1,20 @@
+{
+ "h": "ab9331292265",
+ "date": "2026-11-14",
+ "titre": "Cohorte longitudinale de patients atteints de polychondrite chronique atrophiante",
+ "question": "Comment évoluent dans le temps la polychondrite chronique atrophiante et ses atteintes d'organes, et quels mécanismes la sous-tendent ?",
+ "contexte": "La polychondrite chronique atrophiante est une maladie inflammatoire systémique rare, qui touche de façon récidivante les cartilages : oreilles, nez, arbre trachéo-bronchique, paroi thoracique et articulations. Plus rarement, elle atteint les yeux, les vaisseaux, le système nerveux, la peau ou l'oreille interne.\n\nL'expression de la maladie est très variable d'un patient à l'autre et son évolution se fait par poussées, ce qui rend le diagnostic difficile. Un retard diagnostique expose à des lésions d'organes définitives, avec une morbidité et une mortalité importantes, notamment en cas d'atteinte respiratoire. La physiopathologie reste mal comprise et il n'existe pas de traitement validé par des essais contrôlés.\n\nCette étude de cohorte promue par l'Université de Pennsylvanie suit environ 100 patients considérés comme ayant une polychondrite par leur médecin. Elle recueille l'histoire de la maladie sur 36 mois, dans le but d'en étudier la pathogenèse.",
+ "interet": "L'étude n'évalue pas de traitement. Elle pourrait améliorer la description de l'histoire naturelle de la polychondrite et ouvrir des pistes pour des cibles thérapeutiques.",
+ "profil": "Des patients, adultes ou enfants, ayant une polychondrite chronique atrophiante selon l'investigateur.",
+ "inclusion": [
+  "Diagnostic de polychondrite chronique atrophiante retenu par l'investigateur"
+ ],
+ "exclusion": [
+  "Impossibilité de donner son consentement (ou son assentiment pour les mineurs)"
+ ],
+ "bras": [
+  { "nom": "Cohorte polychondrite", "traitement": "Patients suivis de façon longitudinale, sans intervention imposée par l'étude" }
+ ],
+ "duree": "36 mois",
+ "critere": "Étude de la pathogenèse de la polychondrite à partir de l'histoire de la maladie, du début à 36 mois"
+}

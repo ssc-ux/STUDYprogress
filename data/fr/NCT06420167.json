@@ -1,0 +1,35 @@
+{
+ "h": "1c8dd03e04ee",
+ "date": "2026-11-14",
+ "titre": "Dapagliflozine dans l'amylose AL rénale (FLORAL)",
+ "question": "La dapagliflozine réduit-elle la protéinurie des patients avec amylose AL à atteinte rénale, dans un essai décentralisé ?",
+ "contexte": "Dans l'amylose AL, l'atteinte rénale se traduit par une protéinurie, souvent néphrotique, et une insuffisance rénale progressive. Le traitement du clone plasmocytaire permet une réponse hématologique, mais la réponse rénale est lente et peut plafonner. Les mesures de néphroprotection reposent sur les IEC ou ARA2 et les diurétiques.\n\nLes inhibiteurs du cotransporteur SGLT2, comme la dapagliflozine, réduisent la protéinurie et ralentissent la progression de nombreuses néphropathies chroniques. Leur effet dans l'amylose rénale est peu connu.\n\nCet essai américain de phase 2, à bras unique et entièrement décentralisé, recrute en ligne dans le Michigan et fait le suivi par télémédecine, avec examens biologiques dans un laboratoire local. Il inclut environ 20 patients avec une amylose AL rénale et une protéinurie > 1 g/jour, dont la réponse rénale a plafonné depuis au moins 3 mois. Ils reçoivent la dapagliflozine 10 mg par jour pendant 6 mois.",
+ "interet": "Il pourrait montrer si les iSGLT2 réduisent la protéinurie dans l'amylose AL, et tester la faisabilité d'une recherche à distance dans une maladie rare.",
+ "profil": "Des adultes du Michigan avec une amylose AL rénale prouvée par biopsie et une protéinurie supérieure à 1 g/jour.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose AL rénale prouvée par biopsie, protéinurie > 1,0 g/jour sans autre cause",
+  "ECOG 0-2",
+  "Plateau de la réponse rénale depuis au moins 3 mois",
+  "Résidence dans l'État du Michigan",
+  "Accord pour téléconsultations et applications mobiles ou web"
+ ],
+ "exclusion": [
+  "Induction anti-plasmocytaire de première ligne en cours, ou entretien depuis moins de 6 mois",
+  "Myélome multiple symptomatique, actuel ou passé",
+  "Diabète de type 1 ou 2 nécessitant un traitement",
+  "DFG < 25 ml/min/1,73 m²",
+  "Hépatopathie sévère",
+  "Antécédent d'utilisation d'un iSGLT2",
+  "Modification d'IEC ou d'ARA2 dans les 3 mois",
+  "Cancer actif nécessitant un traitement, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Dapagliflozine",
+   "traitement": "Dapagliflozine 10 mg par voie orale, une fois par jour pendant 6 mois"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Proportion de patients avec une réduction d'au moins 30 % de la protéinurie quotidienne, jusqu'au 6e mois."
+}
