@@ -1,0 +1,30 @@
+{
+ "h": "f4468664bcad",
+ "date": "2026-11-14",
+ "titre": "Tafamidis 61 mg en vie réelle : progression neurologique dans l'amylose ATTR cardiaque à phénotype mixte",
+ "question": "Le tafamidis ralentit-il la progression de l'atteinte neurologique chez des patients ayant une amylose ATTR cardiaque à phénotype mixte (cardiaque et neurologique) ?",
+ "contexte": "L'amylose à transthyrétine (ATTR) peut toucher le cœur (cardiomyopathie, ATTR-CM) et les nerfs périphériques (polyneuropathie). Dans les formes à phénotype mixte, l'atteinte cardiaque et l'atteinte neurologique coexistent, que la maladie soit héréditaire (ATTRv) ou sauvage (ATTRwt).\n\nLe tafamidis est un stabilisateur de la transthyrétine. Dans l'essai ATTR-ACT, il a réduit la mortalité toutes causes et les hospitalisations cardiovasculaires dans la cardiomyopathie ; il a aussi été étudié à plus faible dose dans la polyneuropathie ATTRv débutante. Son effet sur l'évolution neurologique des patients à phénotype mixte, traités à la dose cardiologique de 61 mg (Vyndamax), est mal documenté.\n\nCette étude observationnelle rétrospective, promue par Pfizer, utilise des données de dossiers médicaux d'un centre unique. Elle compare l'évolution des évaluations neurologiques avant et après au moins 12 mois de tafamidis 61 mg. Elle ne comporte pas de groupe contrôle sans traitement.",
+ "interet": "Elle pourrait documenter, en pratique courante, un effet du tafamidis à dose cardiologique sur la composante neurologique. L'absence de bras témoin et le caractère rétrospectif limitent toutefois la portée des conclusions.",
+ "profil": "Des adultes ayant une amylose ATTR cardiaque à phénotype mixte, traités par tafamidis 61 mg depuis au moins 12 mois.",
+ "inclusion": [
+  "Âge ≥ 18 ans au diagnostic",
+  "ATTRv-CM ou ATTRwt-CM, phénotype mixte",
+  "Tafamidis 61 mg (Vyndamax) une fois par jour depuis ≥ 12 mois, ou 20 mg puis 61 mg ≥ 12 mois",
+  "Au moins une évaluation neurologique avant et une après traitement"
+ ],
+ "exclusion": [
+  "Antécédent de greffe d'organe",
+  "Patient non ambulatoire",
+  "Autre traitement modificateur de la maladie, en dehors du tafamidis 80 mg ou 61 mg",
+  "Neuropathie périphérique d'une autre cause (diabète, carence en B12, hypothyroïdie, zona, Lyme, VIH, insuffisance rénale chronique…)",
+  "Données ne passant pas le contrôle qualité"
+ ],
+ "bras": [
+  {
+   "nom": "ATTR-CM à phénotype mixte",
+   "traitement": "Tafamidis 61 mg par voie orale, une fois par jour, depuis au moins 12 mois"
+  }
+ ],
+ "duree": "Données rétrospectives : au moins 12 mois de traitement ; aucune visite dédiée",
+ "critere": "Taux de progression de l'atteinte neurologique entre l'inclusion et au moins 12 mois de traitement."
+}

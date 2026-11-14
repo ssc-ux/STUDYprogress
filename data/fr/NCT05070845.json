@@ -1,0 +1,42 @@
+{
+ "h": "d4eed4d78519",
+ "date": "2026-11-14",
+ "titre": "PF-06835375 sous-cutané dans le purpura thrombopénique immunologique persistant ou chronique",
+ "question": "Le PF-06835375, anticorps déplétant les cellules CXCR5+, augmente-t-il les plaquettes chez des adultes atteints de PTI persistant ou chronique ?",
+ "contexte": "Dans le purpura thrombopénique immunologique (PTI), des autoanticorps dirigés contre les plaquettes provoquent leur destruction et altèrent leur production. Les traitements usuels sont les corticoïdes, les immunoglobulines, les agonistes du récepteur de la thrombopoïétine et le rituximab. Beaucoup de patients restent insuffisamment contrôlés ou dépendants d'un traitement chronique.\n\nLe PF-06835375 est un anticorps monoclonal qui cible les cellules exprimant CXCR5, notamment les lymphocytes T folliculaires auxiliaires (Tfh) et certaines cellules B. Ces cellules soutiennent la production d'autoanticorps. Une déplétion pourrait donc entraîner une hausse durable des plaquettes, comme avec d'autres agents ciblant les cellules B.\n\nCet essai de phase 2 ouvert de Pfizer teste quatre doses en injections sous-cutanées mensuelles (3 injections pour la dose 1, 4 pour les doses 2 à 4) chez des adultes avec un PTI persistant (3 à 12 mois) ou chronique (plus de 12 mois) et des plaquettes < 50 × 10⁹/L. L'étude a été arrêtée avec 61 patients.",
+ "interet": "L'étude explore une approche ciblant les Tfh dans le PTI et cherche la dose qui augmente les plaquettes de façon durable. Elle n'a pas de comparateur actif.",
+ "profil": "Des adultes de 18 à 70 ans atteints de PTI persistant ou chronique avec thrombopénie < 50 × 10⁹/L.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "PTI primaire",
+  "PTI en cours avec plaquettes < 50 × 10⁹/L",
+  "PTI persistant (3 à 12 mois) ou chronique (plus de 12 mois)",
+  "Pas de saignement sévère dans le mois précédent ni pendant le dépistage"
+ ],
+ "exclusion": [
+  "Saignement de grade OMS ≥ 2 dans les 4 semaines précédant le dépistage",
+  "Saignement en cours nécessitant un traitement standard",
+  "Besoin de produits sanguins pendant le dépistage",
+  "Splénectomie dans les 3 mois précédant la randomisation ou prévue pendant l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "PF-06835375 dose 1",
+   "traitement": "Injection sous-cutanée mensuelle pendant 3 mois"
+  },
+  {
+   "nom": "PF-06835375 dose 2",
+   "traitement": "Injection sous-cutanée mensuelle pendant 4 mois"
+  },
+  {
+   "nom": "PF-06835375 dose 3",
+   "traitement": "Injection sous-cutanée mensuelle pendant 4 mois"
+  },
+  {
+   "nom": "PF-06835375 dose 4",
+   "traitement": "Injection sous-cutanée mensuelle pendant 4 mois"
+  }
+ ],
+ "duree": "Traitement de 12 ou 16 semaines, suivi non précisé",
+ "critere": "Proportion de participants avec une hausse de la numération plaquettaire par rapport à l'inclusion, à 12 et 16 semaines"
+}

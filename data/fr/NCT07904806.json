@@ -1,0 +1,38 @@
+{
+ "h": "1e3668627c39",
+ "date": "2026-11-14",
+ "titre": "VIS954 dans les vascularites associées aux ANCA actives",
+ "question": "Deux schémas de VIS954 ajoutés au traitement standard induisent-ils plus de rémissions à 24 semaines que le placebo dans une vascularite à ANCA active ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA et PAM) sont des maladies graves du petit vaisseau, avec atteinte rénale, pulmonaire ou nerveuse. Le traitement d'induction repose sur les corticoïdes associés au rituximab ou au cyclophosphamide, avec l'avacopan comme alternative d'épargne cortisonique. Les corticoïdes à forte dose exposent à des infections et à des séquelles, et les rechutes restent fréquentes.\n\nVIS954 est un anticorps monoclonal en injection sous-cutanée développé par Otsuka. Le registre ne précise pas sa cible. Cet essai de phase 2 compare, en double aveugle, deux doses de VIS954 et un placebo, tous avec le traitement standard, chez environ 75 patients ayant un diagnostic nouveau ou une rechute.\n\nLa phase d'induction est suivie d'une phase d'entretien jusqu'à la semaine 48, avec VIS954 à forte dose pour tous. Elle évalue l'efficacité, la sécurité, la pharmacocinétique et la pharmacodynamie.",
+ "interet": "Il pourrait ajouter une option thérapeutique dans la vascularite à ANCA, à confirmer en phase 3.",
+ "profil": "Des adultes avec une GPA ou une PAM active, nouvellement diagnostiquée ou en rechute, avec ANCA anti-MPO ou anti-PR3.",
+ "inclusion": [
+  "Âge ≥ 18 ans (ou âge légal de consentement)",
+  "Diagnostic nouveau ou rechute de GPA ou de PAM",
+  "ANCA anti-MPO ou anti-PR3 positifs",
+  "Maladie active avec signes nouveaux ou aggravés selon les critères établis"
+ ],
+ "exclusion": [
+  "Besoin de suppléance d'organe ou maladie engageant le pronostic vital en réanimation",
+  "Autre maladie auto-immune pouvant gêner l'évaluation (GEPA, lupus, vascularite à IgA, Sjögren, anti-MBG, cryoglobulinémie), ou vascularite d'origine médicamenteuse suspectée",
+  "Avacopan, thérapies ciblant les lymphocytes B, CAR-T, bélimumab, tocilizumab dans les 6 mois",
+  "Azathioprine, mycophénolate ou méthotrexate sauf arrêt avant le traitement",
+  "Rituximab ou cyclophosphamide dans les 6 mois, hors traitement standard"
+ ],
+ "bras": [
+  {
+   "nom": "VIS954 forte dose + traitement standard",
+   "traitement": "Injections sous-cutanées de VIS954, puis forte dose en entretien jusqu'à la semaine 48"
+  },
+  {
+   "nom": "VIS954 faible dose + traitement standard",
+   "traitement": "Injections sous-cutanées à faible dose en induction, puis forte dose en entretien"
+  },
+  {
+   "nom": "Placebo + traitement standard",
+   "traitement": "Placebo en induction, puis VIS954 forte dose en entretien"
+  }
+ ],
+ "duree": "Jusqu'à 48 semaines",
+ "critere": "Proportion de patients en rémission à la semaine 24 ; incidence des événements indésirables apparus sous traitement jusqu'à la semaine 24."
+}

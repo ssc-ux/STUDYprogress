@@ -1,0 +1,33 @@
+{
+ "h": "1be48726319f",
+ "date": "2026-11-14",
+ "titre": "Cohorte clinique de maladies auto-inflammatoires, dont la maladie de Still de l'adulte",
+ "question": "Quelles sont les caractéristiques cliniques, l'évolution et les facteurs pronostiques des maladies auto-inflammatoires, et en particulier de la maladie de Still de l'adulte ?",
+ "contexte": "Les maladies auto-inflammatoires sont des maladies rares dues à une dérégulation de l'immunité innée, avec fièvre récurrente, inflammation systémique et atteinte d'organes. Le diagnostic associe clinique, biologie, génétique et réponse aux traitements.\n\nLa maladie de Still de l'adulte (MSA) en est le modèle : fièvre en pics, polyarthrite, éruption fugace et marqueurs d'inflammation très élevés. Sa complication la plus grave est le syndrome d'activation macrophagique (SAM), qui touche 10 à 15 % des patients et a une mortalité de plus de 50 % sans traitement.\n\nCet hôpital universitaire de Shanghai (Renji) construit une cohorte prospective de 1000 patients de 18 à 75 ans, avec un jeu de données standardisé et un cadre de prise en charge. Le suivi porte sur 5 ans et vise à décrire les caractéristiques cliniques et la physiopathologie, en particulier de la MSA.",
+ "interet": "La cohorte pourrait fournir des données de vie réelle chinoises sur le suivi et les rémissions durables des maladies auto-inflammatoires, avec une prise en charge standardisée. Il s'agit d'une étude d'observation.",
+ "profil": "Des adultes de 18 à 75 ans atteints de maladie de Still de l'adulte ou d'une autre maladie auto-inflammatoire.",
+ "inclusion": [
+  "Maladie de Still de l'adulte (critères de Yamaguchi) ou autre maladie auto-inflammatoire diagnostiquée selon des critères établis",
+  "Âge de 18 à 75 ans",
+  "Capacité à respecter les visites, examens et traitements",
+  "Consentement éclairé écrit"
+ ],
+ "exclusion": [
+  "Refus ou incapacité de consentir, ou données de base incomplètes (moins de 80 %)",
+  "Autre connectivite ou autoanticorps positifs",
+  "Infection aiguë en cours ou tuberculose active passée",
+  "Antécédent d'allergies multiples",
+  "Trouble psychiatrique empêchant le suivi",
+  "Grossesse ou projet de grossesse",
+  "Cancer",
+  "Participation à un autre essai clinique"
+ ],
+ "bras": [
+  {
+   "nom": "Maladies auto-inflammatoires",
+   "traitement": "Patients suivis de façon prospective, sans intervention imposée par l'étude (Still de l'adulte, formes monogéniques)"
+  }
+ ],
+ "duree": "Jusqu'à 60 mois",
+ "critere": "Rémission soutenue sans événement, jusqu'à la progression, un effet indésirable grave lié au traitement ou le décès, pendant 60 mois au plus."
+}

@@ -1,0 +1,36 @@
+{
+ "h": "7e3b230401b8",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes STAR-T universels dans la thrombopénie immune associée aux connectivites réfractaires",
+ "question": "Les cellules STAR-T universelles sont-elles sûres et efficaces dans le PTI associé à une connectivite, en rechute ou réfractaire ?",
+ "contexte": "Le PTI associé aux connectivites (lupus, syndrome de Sjögren primitif, syndrome des antiphospholipides) est une complication sévère des maladies auto-immunes. La thrombopénie touche 20 à 40 % des patients lupiques et jusqu'à 50 % de ceux ayant un syndrome des antiphospholipides. Elle est souvent modérée, mais les formes sévères exposent à des hémorragies et à une surmortalité.\n\nLes corticoïdes, les immunoglobulines IV et les immunosuppresseurs (cyclophosphamide, mycophénolate) échouent souvent dans les formes réfractaires ou récidivantes, et la corticodépendance prolongée est source d'effets indésirables. Les lymphocytes B jouent un rôle central dans la production d'auto-anticorps, d'où l'intérêt d'une déplétion B profonde.\n\nCet essai de phase 1 chinois, mené à l'hôpital général de l'APL (Pékin), est ouvert et monobras, avec escalade puis expansion de dose. Des cellules STAR-T universelles (allogéniques) sont perfusées à partir de 3E6 cellules STAR+T/kg, après un schéma de lymphodéplétion à explorer. Les critères principaux sont la tolérance (toxicités limitantes, événements indésirables) et la réponse.",
+ "interet": "Étude exploratoire sur très peu de patients. Elle pourrait préciser la faisabilité d'une thérapie cellulaire « prête à l'emploi » dans les cytopénies auto-immunes réfractaires.",
+ "profil": "Des adultes de 18 à 65 ans ayant un PTI associé à une connectivite, en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Connectivite confirmée (lupus, syndrome de Sjögren primitif, SAPL, connectivite indifférenciée)",
+  "PTI associé : plaquettes < 30 G/L, ou < 50 G/L avec tendance hémorragique",
+  "Moelle compatible avec un PTI",
+  "Échec d'au moins 3 mois de corticoïdes en bolus, ou fortes doses avec immunosuppresseur(s), ou perte d'efficacité à la décroissance",
+  "Fonctions d'organe correctes (PNN ≥ 1 G/L, Hb ≥ 60 g/L, transaminases ≤ 3 N, clairance ≥ 30 mL/min)",
+  "Contraception pendant et 12 mois après le traitement"
+ ],
+ "exclusion": [
+  "Allergie médicamenteuse sévère",
+  "Infection non contrôlée",
+  "Maladie du système nerveux central (hors manifestations de la maladie de fond)",
+  "Cardiopathie ne tolérant pas le traitement",
+  "Déficit immunitaire congénital en immunoglobulines",
+  "Cancer dans les 5 ans, insuffisance rénale terminale",
+  "Hépatite B ou C active, VIH, syphilis",
+  "Autre essai dans les 3 mois, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Cellules STAR-T universelles",
+   "traitement": "Perfusion de cellules STAR-T universelles, dose de départ 3E6 STAR+T/kg, avec lymphodéplétion"
+  }
+ ],
+ "duree": "Environ 1 an (critère principal et réponse à la semaine 12)",
+ "critere": "Incidence des toxicités dose-limitantes, nature et fréquence des événements indésirables, et évaluation de la réponse"
+}

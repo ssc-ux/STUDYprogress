@@ -1,0 +1,44 @@
+{
+ "h": "5fa94547a146",
+ "date": "2026-11-14",
+ "titre": "SAR445514, engageur de cellules NK anti-BCMA, dans le myélome et l'amylose AL en rechute",
+ "question": "Le SAR445514 est-il sûr et actif chez des patients atteints de myélome ou d'amylose AL en rechute ou réfractaires ?",
+ "contexte": "Le myélome multiple en rechute après plusieurs lignes reste difficile à traiter, malgré les immunomodulateurs, inhibiteurs du protéasome et anticorps anti-CD38. Les thérapies ciblant BCMA (CAR-T, anticorps bispécifiques, conjugués) ont changé la prise en charge, mais s'accompagnent de syndromes de relargage de cytokines et d'infections. L'amylose AL en rechute partage la même cible plasmocytaire, avec peu d'options après un inhibiteur du protéasome.\n\nLe SAR445514 est un engageur de cellules NK (NKCE) dirigé contre BCMA, administré par voie sous-cutanée en cycles de 4 semaines. Cette étude de phase 1/2 de Sanofi, première chez l'homme, comprend une escalade de dose (myélome, puis amylose AL), une optimisation de dose chez les patients myélomateux et une expansion. Environ 111 patients étaient prévus ; l'étude a été arrêtée avec 32 patients inclus dans 16 centres de 7 pays. Le registre ne publie pas de résultats.",
+ "interet": "L'étude devait définir la dose et le rythme du SAR445514 et estimer son activité dans deux maladies plasmocytaires. Son arrêt limite ce qu'on pourra en conclure.",
+ "profil": "Des adultes atteints de myélome multiple en rechute/réfractaire (≥ 2 lignes) ou d'amylose AL en rechute/réfractaire (≥ 1 ligne avec inhibiteur du protéasome).",
+ "inclusion": [
+  "Myélome en rechute/réfractaire, maladie mesurable, ≥ 2 lignes dont immunomodulateur, inhibiteur du protéasome, corticoïde et anti-CD38",
+  "Progression documentée (critères IMWG 2016 ou ISA 2012)",
+  "Amylose AL : ≥ 1 ligne avec inhibiteur du protéasome, maladie mesurable, atteinte d'organe (NCCN)",
+  "Poids de 40 à 120 kg pour l'escalade de dose",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Myélome primaire réfractaire ou second cancer primitif",
+  "Amylose AL : NT-proBNP > 8 500 ng/mL, insuffisance cardiaque NYHA III-IV, événement coronarien récent, hypotension",
+  "Insuffisance cardiaque NYHA ≥ II, cardiopathie non contrôlée (myélome)",
+  "Infection non contrôlée, VIH nécessitant un traitement, hépatite B ou C active",
+  "Anti-CD38 dans les 90 jours, anti-BCMA dans les 21 jours, allogreffe avec GvHD",
+  "Hémoglobine < 8 g/dL, plaquettes < 50 G/L, neutrophiles < 1 G/L, clairance < 30 mL/min"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1a : escalade de dose, myélome",
+   "traitement": "SAR445514 sous-cutané, cycles de 4 semaines"
+  },
+  {
+   "nom": "Partie 1b : escalade de dose, amylose AL",
+   "traitement": "SAR445514 sous-cutané, deux doses issues de la partie 1a"
+  },
+  {
+   "nom": "Partie 2 : optimisation, myélome",
+   "traitement": "SAR445514 à la dose A ou B, sous-cutané"
+  },
+  {
+   "nom": "Partie 3 : expansion",
+   "traitement": "SAR445514 à la dose recommandée préliminaire, myélome (3a) et amylose AL (3b)"
+  }
+ ],
+ "duree": "Cycles de 4 semaines ; suivi jusqu'au décès ou à l'analyse finale de survie",
+ "critere": "Toxicités dose-limitantes et événements indésirables (escalade), taux de réponse globale (myélome) et réponse hématologique (amylose AL), sur les cycles 1 à 4."
+}

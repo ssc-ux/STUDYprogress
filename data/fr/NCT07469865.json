@@ -1,0 +1,31 @@
+{
+ "h": "52efe8621604",
+ "date": "2026-11-14",
+ "titre": "Sérum autologue à 20 % et 100 % contre larmes artificielles dans la sécheresse oculaire sévère",
+ "question": "Les collyres de sérum autologue (20 % ou 100 %) soulagent-ils mieux les symptômes de sécheresse oculaire sévère que les larmes artificielles sans conservateur ?",
+ "contexte": "La sécheresse oculaire sévère est fréquente au cours du syndrome de Sjögren et d'autres maladies auto-immunes. Elle altère la qualité de vie et peut léser la surface oculaire. Le traitement repose sur les larmes artificielles sans conservateur, les anti-inflammatoires locaux (ciclosporine, corticoïdes) et les pommades nocturnes.\n\nLe collyre de sérum autologue est préparé à partir du sang du patient. Il apporte des facteurs de croissance et des protéines proches des larmes naturelles. Il est utilisé dans les formes sévères, mais les données comparatives sont limitées, notamment sur la dilution optimale (20 % ou pur).\n\nCet essai randomisé en croisement, en simple aveugle (l'ophtalmologue examinateur ignore le traitement), a été mené à l'hôpital universitaire de Gand. Chaque patient reçoit successivement trois traitements de 8 semaines (sérum à 20 %, sérum pur, larmes artificielles au tréhalose et acide hyaluronique), séparés de 2 semaines de lavage, selon l'une de six séquences. Les anti-inflammatoires oculaires déjà en cours sont poursuivis. Les critères secondaires incluent test de Schirmer, colorations de surface oculaire, temps de rupture du film lacrymal et cytokines.",
+ "interet": "L'étude pourrait aider à choisir entre sérum autologue dilué ou pur dans les sécheresses sévères. Aucun résultat n'est publié dans le registre.",
+ "profil": "Des adultes atteints de sécheresse oculaire sévère.",
+ "inclusion": [
+  "Sécheresse oculaire sévère : score OSDI > 33",
+  "Au moins un signe objectif : tBUT < 5 s, coloration cornéo-conjonctivale positive (score SICCA OSS) ou Schirmer < 5 mm/5 min",
+  "Âge ≥ 18 ans",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Incapacité à suivre le protocole",
+  "Mauvaise observance antérieure",
+  "Anémie sévère connue",
+  "Hypersensibilité au traitement",
+  "Grossesse",
+  "Participant jugé inapte par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Séquences croisées (6 séquences)",
+   "traitement": "Larmes artificielles sans conservateur, sérum autologue 20 % et sérum autologue 100 %, chacun 8 semaines, au moins 8 instillations par jour, lavage de 2 semaines"
+  }
+ ],
+ "duree": "30 semaines",
+ "critere": "Variation du score de symptômes OSDI par rapport à l'inclusion, à 8 semaines de chaque traitement"
+}

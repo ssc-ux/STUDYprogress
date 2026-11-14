@@ -1,0 +1,33 @@
+{
+ "h": "d04eed36f54f",
+ "date": "2026-11-14",
+ "titre": "Romiplostim dans le PTI résistant aux agonistes oraux de la thrombopoïétine",
+ "question": "Le romiplostim permet-il une réponse plaquettaire durable chez les patients atteints de PTI résistants aux agonistes oraux du récepteur de la TPO ?",
+ "contexte": "Les agonistes oraux du récepteur de la thrombopoïétine (eltrombopag, hétrombopag, avatrombopag) sont efficaces dans de nombreux PTI. Environ 20 à 30 % des patients ne répondent pas assez ou perdent la réponse avec le temps, d'où un besoin d'alternatives.\n\nLe romiplostim est un agoniste du récepteur de la TPO injectable (peptibody) qui se lie différemment du récepteur que les produits oraux. L'hypothèse est qu'il pourrait être efficace malgré l'échec d'un agoniste oral. Les données prospectives dans cette situation restent limitées.\n\nCette étude chinoise, multicentrique, ouverte et monobras, est promue par le premier hôpital affilié de l'université de Soochow. Les patients arrêtent l'agoniste oral et reçoivent du romiplostim par voie sous-cutanée chaque semaine, à 3 µg/kg, ajusté chaque semaine selon les plaquettes (maximum 10 µg/kg). Environ 60 patients sont prévus. La tolérance (thromboses, fibrose médullaire, toxicité hépatique, réactions au site d'injection) est suivie.",
+ "interet": "Elle pourrait établir un traitement de relais après échec des agonistes oraux de la TPO. Elle pourrait aussi aider à définir la place du romiplostim dans les stratégies de PTI.",
+ "profil": "Des adultes ayant un PTI primaire en échec d'un agoniste oral du récepteur de la TPO.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, PTI primaire",
+  "Échec d'un agoniste oral : plaquettes < 30 G/L après 4 semaines à dose maximale, ou perte de réponse, ou intolérance",
+  "Plaquettes < 30 G/L à l'inclusion (deux mesures espacées d'au moins 5 jours)",
+  "ECOG de 0 à 2",
+  "Injections hebdomadaires sous-cutanées possibles",
+  "Contraception efficace jusqu'à 3 mois après la dernière dose ; consentement écrit"
+ ],
+ "exclusion": [
+  "PTI secondaire (maladie auto-immune, syndrome lymphoprolifératif, médicaments, VIH, VHC, VHB)",
+  "Hypersensibilité au romiplostim ou traitement antérieur par romiplostim",
+  "Rituximab dans les 6 mois, immunosuppresseurs dans les 4 semaines, splénectomie dans les 8 semaines",
+  "Corticoïdes à plus de 10 mg/j de prednisone ou IgIV dans les 2 semaines",
+  "Fibrose médullaire de grade 2 ou plus, thrombose dans les 6 mois, thrombophilie connue",
+  "Insuffisance hépatique ou rénale sévère, NYHA III-IV, cancer dans les 5 ans, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Romiplostim",
+   "traitement": "Injection sous-cutanée hebdomadaire, 3 µg/kg au départ, jusqu'à 10 µg/kg selon les plaquettes"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Taux de réponse plaquettaire durable à la semaine 24 (plaquettes ≥ 50 G/L à au moins deux visites entre les semaines 22 et 24, sans traitement de secours)"
+}

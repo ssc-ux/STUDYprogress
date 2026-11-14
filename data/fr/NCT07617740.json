@@ -1,0 +1,35 @@
+{
+ "h": "9a0e77665d33",
+ "date": "2026-11-14",
+ "titre": "IASO207 (CAR-T in vivo) dans le lupus érythémateux systémique actif réfractaire",
+ "question": "L'injection de IASO207, CAR-T généré in vivo, est-elle sûre et à quelle dose chez des patients atteints de lupus actif réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune où les lymphocytes B produisent des auto-anticorps pathogènes. Malgré les corticoïdes, l'hydroxychloroquine, les immunosuppresseurs et les biothérapies, une partie des patients garde une maladie active, avec un risque d'atteinte d'organe et d'effets indésirables des traitements.\n\nLes CAR-T anti-CD19 ont induit des rémissions profondes dans des lupus réfractaires. Leur fabrication ex vivo et la lymphodéplétion préalable sont lourdes. IASO207 est un CAR-T in vivo : la modification des lymphocytes se fait dans l'organisme après injection d'un vecteur.\n\nCet essai de phase 1, premier chez l'humain, est monocentrique, ouvert et monobras, promu par l'hôpital du peuple de l'université de Pékin. Il suit un schéma 3+3 avec trois doses (5,0E8, 1,0E9 et 2,0E9 TU), en administration unique. L'objectif principal est la tolérance, avec une évaluation préliminaire de l'efficacité, de la pharmacocinétique et de l'immunogénicité.",
+ "interet": "C'est un essai de sécurité et de choix de dose. Il pourrait ouvrir la voie à des CAR-T sans fabrication individuelle dans le lupus réfractaire.",
+ "profil": "Des adultes de 18 à 75 ans ayant un lupus actif réfractaire aux traitements.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "LES depuis au moins 24 semaines (critères EULAR/ACR 2019 ou SLICC 2012)",
+  "SLEDAI-2K ≥ 8 avec une atteinte BILAG-2004 A, ou deux B",
+  "Échec de corticoïdes et d'au moins 2 immunosuppresseurs, antipaludéens ou biothérapies pendant 3 mois",
+  "ANA, anti-ADN natif ou anti-Sm positifs",
+  "Prednisone ≤ 20 mg/j à dose stable ; paramètres hématologiques et hépatiques corrects",
+  "Contraception jusqu'à 1 an après l'injection"
+ ],
+ "exclusion": [
+  "Lupus induit par un médicament, ou autre maladie auto-immune interférente (Sjögren, psoriasis, polyarthrite rhumatoïde)",
+  "Syndrome des antiphospholipides catastrophique ou sévère dans l'année",
+  "Atteinte neurologique active BILAG A",
+  "Immunodéficience connue, infection non contrôlée, hépatite B ou C, VIH, CMV, syphilis",
+  "Cardiopathie sévère (FEVG < 45 %, NYHA ≥ III), insuffisance hépatique ou rénale sévère (DFG < 30)",
+  "Cancer dans les 5 ans",
+  "Greffe d'organe ou de cellules souches, thérapie cellulaire ou anti-CD19 antérieure, anti-CD20 dans les 12 semaines, belimumab dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "IASO207",
+   "traitement": "Injection unique de 5,0E8, 1,0E9 ou 2,0E9 TU, escalade de dose 3+3"
+  }
+ ],
+ "duree": "Suivi jusqu'à 2 ans après la perfusion",
+ "critere": "Événements indésirables jusqu'à 2 ans et incidence des toxicités dose-limitantes dans les 28 jours suivant la perfusion"
+}

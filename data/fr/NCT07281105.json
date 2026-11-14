@@ -1,0 +1,33 @@
+{
+ "h": "cf144a1064a9",
+ "date": "2026-11-14",
+ "titre": "EG-501 pour les troubles cognitifs du lupus neuropsychiatrique : essai de phase 2",
+ "question": "L'EG-501 améliore-t-il les performances cognitives de patients lupiques ayant un déficit cognitif objectif ?",
+ "contexte": "Les atteintes neuropsychiatriques du lupus sont fréquentes. Les troubles cognitifs (« brouillard cérébral ») entraînent un handicap, un risque accru de chômage, une qualité de vie altérée et, selon le promoteur, une surmortalité. Aucun traitement n'est approuvé pour les troubles cognitifs du lupus.\n\nCet essai de phase 2, randomisé, en double aveugle contre placebo, teste l'EG-501, une capsule orale à doses croissantes (5 à 20 mg deux fois par jour), pendant 12 semaines. La nature précise de la molécule n'est pas détaillée dans le registre. La population est sélectionnée : patients lupiques avec symptômes neuropsychiatriques rapportés sur un questionnaire recommandé par l'EULAR et score RBANS ≤ 85.\n\nLe critère principal est le score total du RBANS, batterie standardisée d'évaluation neuropsychologique. L'essai est mené aux États-Unis par Evergreen Therapeutics, avec le Vanderbilt University Medical Center. Selon la description du registre, 56 patients ont été randomisés (30 placebo, 26 EG-501), pour un effectif réel affiché de 131. Aucun résultat n'est publié dans le registre.",
+ "interet": "Si l'EG-501 améliorait la cognition, il répondrait à un besoin non couvert dans le lupus neuropsychiatrique. Les résultats ne sont pas disponibles et l'effectif reste limité.",
+ "profil": "Des adultes de 18 à 69 ans atteints de lupus avec un déficit cognitif objectif.",
+ "inclusion": [
+  "Diagnostic médical de lupus systémique",
+  "Symptômes neuropsychiatriques sur le questionnaire EULAR (score ≥ 5)",
+  "Score RBANS total ≤ 85"
+ ],
+ "exclusion": [
+  "Âge < 18 ou > 69 ans",
+  "Changement récent (4 semaines) de corticoïdes, antidépresseurs, antalgiques, opioïdes ou stimulants",
+  "Transaminases > 3 fois la normale ou clairance de la créatinine < 30 mL/min",
+  "Maladie psychiatrique sévère (psychose, dépression suicidaire, addiction)",
+  "Observance jugée insuffisante par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "EG-501",
+   "traitement": "Capsules orales, 5 puis jusqu'à 20 mg deux fois par jour selon tolérance, 12 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Capsules identiques, même schéma d'escalade"
+  }
+ ],
+ "duree": "Environ 14 semaines",
+ "critere": "Score total de l'échelle RBANS à la fin du traitement (12 semaines)"
+}

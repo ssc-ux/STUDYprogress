@@ -1,0 +1,37 @@
+{
+ "h": "5b5d4c96e6d2",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-T HY001N dans l'anémie hémolytique auto-immune après au moins 3 lignes de traitement",
+ "question": "Les cellules HY001N sont-elles sûres et tolérées chez des adultes atteints d'anémie hémolytique auto-immune ayant échoué à au moins trois lignes de traitement ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) résulte de la destruction des globules rouges par des auto-anticorps. Dans les formes à auto-anticorps chauds, la corticothérapie est la première ligne, suivie du rituximab, puis des immunosuppresseurs ou de la splénectomie ; dans la maladie des agglutinines froides, on utilise le rituximab, éventuellement associé à la bendamustine ou à la fludarabine, puis le sutimlimab ou d'autres inhibiteurs du complément.\n\nUne minorité de patients reste en échec après trois lignes, avec une anémie symptomatique et une dépendance transfusionnelle. Ces formes, dont le syndrome d'Evans, sont difficiles à traiter et exposent à une toxicité cumulée.\n\nLes cellules CAR-T, déjà utilisées dans les hémopathies B et testées dans les maladies auto-immunes, visent à éliminer les lymphocytes B producteurs d'auto-anticorps. Le registre ne précise pas la cible de HY001N. Cette étude de phase 1 ouverte, à un seul bras, promue par Juventas Cell Therapy, inclut 9 à 12 patients chinois de 18 à 75 ans. Après aphérèse et lymphodéplétion par fludarabine et cyclophosphamide, les patients reçoivent une perfusion de HY001N. L'objectif est d'évaluer la tolérance, de déterminer la dose recommandée pour la phase 2 et d'estimer l'efficacité (rémission complète ou partielle).",
+ "interet": "L'étude évalue en premier lieu la sécurité d'un traitement cellulaire pour des AHAI sans option thérapeutique satisfaisante.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'AHAI ou de syndrome d'Evans en échec d'au moins trois lignes de traitement.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "AHAI ou syndrome d'Evans en échec d'au moins 3 lignes, avec hémoglobine inférieure à 10 g/dL et symptômes d'anémie",
+  "Forme chaude, mixte ou Evans : échec des corticoïdes, du rituximab et d'au moins un traitement de troisième ligne",
+  "Forme à agglutinines froides : échec du rituximab, de rituximab avec bendamustine ou fludarabine et d'une troisième ligne",
+  "ALT et AST inférieures ou égales à 3 fois la normale, INR et TCA inférieurs ou égaux à 1,5 fois la normale, créatinine correcte, saturation supérieure à 91 %",
+  "ECOG de 0 à 2",
+  "Contraception efficace, test de grossesse négatif"
+ ],
+ "exclusion": [
+  "Antécédent de syndrome lymphoprolifératif",
+  "AHAI secondaire à un médicament ou une infection",
+  "Grossesse ou allaitement",
+  "Antécédent de greffe d'organe ou de cellules souches",
+  "Thrombose ou infarctus dans les 6 derniers mois",
+  "Maladie du tissu conjonctif en phase active",
+  "Infection active (sepsis, tuberculose), VHB, VHC, VIH, syphilis, EBV ou CMV détectables",
+  "FEVG inférieure ou égale à 45 %, insuffisance cardiaque NYHA III-IV, QTc allongé",
+  "Antécédent de CAR-T, d'épilepsie ou de maladie active du système nerveux central"
+ ],
+ "bras": [
+  {
+   "nom": "HY001N",
+   "traitement": "Lymphodéplétion par fludarabine et cyclophosphamide, puis perfusion unique de cellules HY001N"
+  }
+ ],
+ "duree": "Suivi de plusieurs mois ; critères principaux évalués 28 jours après la perfusion",
+ "critere": "Incidence des événements indésirables liés au traitement et dose sûre d'une perfusion unique, jusqu'à 28 jours après la perfusion"
+}

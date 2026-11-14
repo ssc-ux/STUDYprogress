@@ -1,0 +1,30 @@
+{
+ "h": "6070bb035bb3",
+ "date": "2026-11-14",
+ "titre": "Validation de questionnaires de condition physique chez des enfants avec AJI ou FMF",
+ "question": "L'International Fitness Scale et le questionnaire PHFQ-C sont-ils valides et fiables pour évaluer la condition physique d'enfants atteints d'AJI ou de FMF ?",
+ "contexte": "L'arthrite juvénile idiopathique (AJI) est la rhumatologie pédiatrique la plus fréquente. La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire récessive, fréquente en Turquie, qui débute souvent dans l'enfance avec des crises récurrentes de fièvre et de douleurs.\n\nLes douleurs, la fatigue et la limitation articulaire entraînent sédentarité, baisse de la force musculaire et mauvaise condition physique. Celle-ci est utile à évaluer pour repérer précocement des problèmes de santé qui peuvent persister à l'âge adulte. Les batteries de tests validées, comme FitnessGram, demandent du temps, de l'espace, du matériel et un personnel formé, ce qui limite leur usage en consultation.\n\nCette étude de l'université d'Istanbul-Cerrahpaşa porte sur environ 100 patients de 10 à 18 ans suivis en rhumatologie pédiatrique. Leur condition physique est mesurée avec FitnessGram (capacité aérobie, force, souplesse), et deux questionnaires courts (IFS et PHFQ-C) sont remplis en ligne. La validité est testée par corrélation, la fiabilité par l'alpha de Cronbach et le test-retest.",
+ "interet": "Un outil simple et validé permettrait d'évaluer rapidement la condition physique en consultation. Il aiderait à proposer plus tôt des interventions ciblées. Étude méthodologique, sans effet sur les traitements.",
+ "profil": "Des enfants et adolescents de 10 à 18 ans atteints d'AJI ou de FMF.",
+ "inclusion": [
+  "Âge de 10 à 18 ans",
+  "AJI ou FMF diagnostiquée par un rhumatologue pédiatre depuis au moins 6 mois",
+  "Participation volontaire, consentement de l'enfant et des parents",
+  "Marche autonome, communication et compréhension des consignes",
+  "Lecture suffisante pour remplir les questionnaires"
+ ],
+ "exclusion": [
+  "Problème mental ou psychologique empêchant de comprendre ou de suivre les consignes",
+  "Situation médicale instable (hospitalisation pour cause cardiaque ou pulmonaire, ou poussée, dans les 4 semaines)",
+  "Maladie chronique cardiovasculaire, orthopédique, neuromusculaire ou neurologique pouvant altérer la condition physique",
+  "Traumatisme de l'appareil locomoteur dans les 6 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants et adolescents avec AJI ou FMF",
+   "traitement": "Tests FitnessGram, questionnaires IFS et PHFQ-C en ligne, avec répétition pour le test-retest"
+  }
+ ],
+ "duree": "Environ 1 semaine après l'inclusion",
+ "critere": "Scores du questionnaire PHFQ-C et de l'International Fitness Scale, recueillis jusqu'à une semaine après l'inclusion"
+}

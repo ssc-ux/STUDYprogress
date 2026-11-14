@@ -1,0 +1,24 @@
+{
+ "h": "82e5ea0404e4",
+ "date": "2026-11-14",
+ "titre": "DemonsTTRate : registre international de l'amylose cardiaque ATTR traitée en pratique courante",
+ "question": "Comment évoluent, en pratique réelle, les patients ayant une cardiomyopathie amyloïde ATTR traités par vutrisiran ou par un autre traitement autorisé ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est une cause d'insuffisance cardiaque progressive. Des traitements agissant sur la transthyrétine sont autorisés, dont le tafamidis (stabilisateur) et le vutrisiran, un ARN interférent qui diminue la production de la protéine. Les essais randomisés ont montré un bénéfice, mais les données de vie réelle à long terme sont encore limitées.\n\nCette étude observationnelle internationale promue par Alnylam, fabricant du vutrisiran, inclut environ 2 000 adultes qui débutent un traitement autorisé de l'ATTR-CM. Elle décrit leurs caractéristiques cliniques et leurs schémas thérapeutiques.\n\nElle mesure la qualité de vie (KCCQ, Norfolk QOL-DN), la satisfaction du traitement et l'utilisation des soins. Elle compare l'efficacité à long terme du vutrisiran avec les autres traitements autorisés, sur un suivi allant jusqu'à 5 ans.",
+ "interet": "Elle précisera le profil des patients traités et le devenir à long terme en conditions réelles. Promotion industrielle et comparaisons non randomisées : à interpréter avec prudence.",
+ "profil": "Des adultes avec une cardiomyopathie amyloïde ATTR débutant un traitement autorisé.",
+ "inclusion": [
+  "Âge ≥ 18 ans, diagnostic d'ATTR-CM",
+  "Début d'un traitement par vutrisiran ou par un autre traitement autorisé de l'ATTR-CM"
+ ],
+ "exclusion": [
+  "Participation à un essai clinique interventionnel"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTR-CM",
+   "traitement": "Suivi en pratique courante, traitement par vutrisiran ou autre traitement autorisé, jusqu'à 5 ans"
+  }
+ ],
+ "duree": "Jusqu'à 5 ans",
+ "critere": "Classe NYHA, intensification des diurétiques en ambulatoire, scores Norfolk QOL-DN, KCCQ, PGI-C, PGI-S et TSQM-9, jusqu'à 5 ans"
+}

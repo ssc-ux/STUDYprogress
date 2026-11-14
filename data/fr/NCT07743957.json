@@ -1,0 +1,34 @@
+{
+ "h": "e8708686559b",
+ "date": "2026-11-14",
+ "titre": "Sélinexor, daratumumab et dexaméthasone dans l'amylose AL cardiaque avancée",
+ "question": "L'association sélinexor, daratumumab et dexaméthasone (XDd) permet-elle d'obtenir une réponse hématologique complète dans l'amylose AL cardiaque avancée ?",
+ "contexte": "L'amylose AL est due à la production par un clone plasmocytaire de chaînes légères d'immunoglobuline qui se déposent sous forme de fibrilles dans les organes. L'atteinte cardiaque est la plus grave et détermine le pronostic, surtout aux stades Mayo 2004 IIIa et IIIb, où la survie médiane reste courte et la tolérance aux traitements est limitée.\n\nLe traitement de référence est l'association daratumumab, cyclophosphamide, bortézomib et dexaméthasone chez les patients éligibles. Les patients à un stade avancé sont souvent exclus des essais ou ne tolèrent pas bien les schémas intensifs, et le besoin reste important pour les formes en rechute ou réfractaires.\n\nLe sélinexor est un inhibiteur oral de l'exportine XPO1, actif dans le myélome, et il a fait l'objet de premières données dans l'amylose AL. Cet essai de phase 2 de l'hôpital Anzhen de Pékin, à un seul bras, inclut environ 63 adultes avec atteinte cardiaque Mayo IIIa ou IIIb, nouvellement diagnostiqués ou en rechute ou réfractaires. Le critère principal est le taux de réponse hématologique complète ; la réponse cardiaque, la survie, la qualité de vie et la tolérance sont aussi évaluées.",
+ "interet": "Si l'association est active et tolérée, elle pourrait offrir une option sans bortézomib ni alkylant pour les amyloses AL cardiaques avancées.",
+ "profil": "Des adultes atteints d'amylose AL avec atteinte cardiaque avancée (Mayo 2004 IIIa ou IIIb), en première ligne ou en rechute.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Amylose AL systémique confirmée par biopsie, avec clone monoclonal (chaînes légères) démontré",
+  "Atteinte cardiaque obligatoire : épaisseur pariétale moyenne supérieure à 12 mm ou NT-proBNP supérieur à 332 ng/L (hors insuffisance rénale et fibrillation auriculaire)",
+  "Stade Mayo 2004 IIIa ou IIIb, nouvellement diagnostiqué ou en rechute ou réfractaire",
+  "Maladie mesurable : pic monoclonal sérique supérieur ou égal à 0,5 g/dL, chaînes légères libres supérieures ou égales à 50 mg/L ou dFLC supérieure ou égale à 50 mg/L",
+  "Contraception adaptée, pas de grossesse ni d'allaitement",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Hépatite B ou C active, autre immunodéficience",
+  "Neuropathie ou douleur neuropathique de grade 2 ou plus",
+  "Chirurgie majeure dans les 30 jours",
+  "Épilepsie traitée, démence ou trouble psychiatrique empêchant la compliance",
+  "Maladie physique ou psychiatrique grave interférant avec l'étude",
+  "Toute autre condition jugée inappropriée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "XDd",
+   "traitement": "Sélinexor, daratumumab et dexaméthasone (posologies non précisées dans le registre)"
+  }
+ ],
+ "duree": "Traitement et suivi jusqu'à 1 an environ",
+ "critere": "Taux de réponse hématologique complète, de l'inclusion à la fin du traitement à 1 an"
+}

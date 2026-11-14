@@ -1,0 +1,38 @@
+{
+ "h": "ddbe4cb50eb6",
+ "date": "2026-11-14",
+ "titre": "rhTPO à double dose versus passage à l'eltrombopag dans le PTI après échec du rhTPO standard",
+ "question": "Après échec de la TPO recombinante humaine à dose standard, vaut-il mieux doubler la dose de rhTPO ou passer à l'eltrombopag dans le PTI ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est traité en première ligne par corticoïdes et immunoglobulines, puis en seconde ligne par les agonistes du récepteur de la thrombopoïétine (TPO-RA : romiplostim, eltrombopag, avatrombopag) ou le rituximab. En Chine, la TPO recombinante humaine (rhTPO) en injection sous-cutanée est largement utilisée en seconde ligne. Une partie des patients ne répond pas à la dose standard de 300 UI/kg/j.\n\nCette étude randomisée multicentrique chinoise (Institute of Hematology & Blood Diseases Hospital) inclut 112 patients de 12 à 75 ans en échec de 14 jours de rhTPO standard (plaquettes < 30 × 10⁹/L). Après 2 semaines de sevrage, ils sont randomisés entre rhTPO à 600 UI/kg/j (double dose) et eltrombopag (formulation pfos, 50 mg/j, jusqu'à 75 mg), avec contrôle hebdomadaire des plaquettes. La réponse est comparée 6 semaines après le changement.",
+ "interet": "Elle pourrait guider le choix entre augmenter la dose de rhTPO et changer de classe pharmacologique chez les patients non répondeurs initiaux.",
+ "profil": "Des adolescents et adultes de 12 à 75 ans atteints de PTI, en échec du rhTPO à dose standard.",
+ "inclusion": [
+  "Âge de 12 à 75 ans, ECOG 0-1",
+  "PTI confirmé (myélogramme de moins de 3 mois ou examens équivalents)",
+  "Échec de rhTPO en seconde ligne (≤ 14 jours), plaquettes < 30 × 10⁹/L",
+  "Fonctions médullaire, hépatique, rénale et coagulation conservées",
+  "Délais respectés pour les traitements antérieurs (corticoïdes, TPO-RA, anti-CD20, splénectomie)",
+  "Contraception efficace et consentement signé"
+ ],
+ "exclusion": [
+  "PTI réfractaire (échec des TPO-RA, anti-CD20 ou splénectomie)",
+  "Grossesse ou allaitement",
+  "PTI secondaire (H. pylori non traité, lupus, hémopathie, médicaments), syndrome d'Evans",
+  "Autres causes de thrombopénie (SMD, aplasie, insuffisance médullaire congénitale)",
+  "Hémorragie intracrânienne ou digestive récente, thrombose dans les 6 mois avec facteurs de risque",
+  "Cardiopathie sévère (NYHA III-IV), fibrillation atriale, stent ou pontage",
+  "Antiagrégants ou anticoagulants prolongés, infection sévère, VIH, hépatite B ou C, tuberculose active"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "rhTPO à 600 UI/kg/j en injection sous-cutanée, doses adaptées aux plaquettes"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "Eltrombopag pfos 50 mg/j, jusqu'à 75 mg/j, adapté aux plaquettes"
+  }
+ ],
+ "duree": "6 semaines après le changement de traitement",
+ "critere": "Taux de réponse plaquettaire à la semaine 6 : plaquettes ≥ 30 × 10⁹/L, au moins doublées par rapport à l'inclusion, et absence de saignement."
+}

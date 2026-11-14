@@ -1,0 +1,30 @@
+{
+ "h": "e942917819aa",
+ "date": "2026-11-14",
+ "titre": "Avatrombopag (Doptelet) en vie réelle chez l'adulte atteint de PTI",
+ "question": "Quelle est l'efficacité en vie réelle de l'avatrombopag chez des adultes atteints de PTI, et comment est-il utilisé en pratique ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où la thrombopénie résulte d'une destruction plaquettaire accrue et d'une production insuffisante. Après les corticoïdes et les immunoglobulines, les agonistes du récepteur de la thrombopoïétine (romiplostim, eltrombopag, avatrombopag) sont une option de deuxième ligne recommandée dans les formes persistantes ou chroniques.\n\nL'avatrombopag (Doptelet) est un agoniste oral de la thrombopoïétine pris au cours d'un repas, sans restriction alimentaire. Ses essais pivots ont montré une efficacité sur le taux de plaquettes, mais les données en pratique courante, avec les motifs de changement de traitement, sont limitées.\n\nCette étude observationnelle de phase 4, promue par Sobi, recueille des données prospectives et rétrospectives chez des patients recevant déjà ou débutant l'avatrombopag pour un PTI : usage, efficacité, tolérance, résultats rapportés par les patients et utilisation des soins. Elle ne modifie pas la décision de traitement.",
+ "interet": "L'étude documente l'efficacité et les modalités d'utilisation de l'avatrombopag en vie réelle, utile pour choisir entre les agonistes du récepteur de la thrombopoïétine.",
+ "profil": "Des adultes de 18 ans et plus ayant un PTI documenté, traités ou sur le point de l'être par avatrombopag.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Diagnostic de PTI établi et documenté",
+  "Traitement par avatrombopag en cours ou prescrit à l'inclusion, décision indépendante de l'étude",
+  "Consentement écrit",
+  "Capacité à respecter le protocole"
+ ],
+ "exclusion": [
+  "Participation à un essai interventionnel ou prise d'un médicament expérimental dans les 3 mois précédents",
+  "PTI secondaire à un syndrome d'Evans, un lupus ou une autre maladie auto-immune",
+  "PTI secondaire à une autre maladie hématologique, une hémopathie maligne ou un autre cancer",
+  "PTI secondaire à une toxicité médicamenteuse connue ou à une autre maladie jugée pertinente"
+ ],
+ "bras": [
+  {
+   "nom": "Population en analyse complète (FAS)",
+   "traitement": "Patients adultes atteints de PTI recevant l'avatrombopag en pratique courante"
+  }
+ ],
+ "duree": "12 à 18 mois d'observation",
+ "critere": "Nombre cumulé de semaines avec plaquettes ≥ 30 × 10⁹/L sous avatrombopag, sur 12 à 18 mois"
+}

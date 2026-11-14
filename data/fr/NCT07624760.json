@@ -1,0 +1,33 @@
+{
+ "h": "dac8e463532b",
+ "date": "2026-11-14",
+ "titre": "TEP/IRM à la florbétaben pour détecter précocement l'amylose AL dans les gammapathies monoclonales",
+ "question": "La TEP/IRM au 18F-florbétaben détecte-t-elle de façon non invasive des dépôts amyloïdes systémiques dans les gammapathies monoclonales ?",
+ "contexte": "L'amylose AL est causée par des dépôts de chaînes légères d'immunoglobuline mal repliées, issues d'un clone plasmocytaire. Elle est souvent diagnostiquée tardivement, à un stade d'atteinte d'organe, notamment cardiaque, qui conditionne le pronostic.\n\nChez les patients ayant une gammapathie monoclonale, il n'existe pas de méthode non invasive sensible pour détecter précocement les dépôts amyloïdes. Le diagnostic repose sur la biopsie, des biomarqueurs sériques, l'échocardiographie et l'IRM, qui ne montrent des anomalies qu'à un stade avancé.\n\nLe 18F-florbétaben est un traceur TEP qui se lie aux plaques amyloïdes et est utilisé en neurologie. Cette étude prospective monocentrique de l'hôpital universitaire de Zurich inclut 50 participants de la cohorte COSMO-AL : 10 témoins négatifs (sans amylose à la biopsie), 20 patients avec dépôts amyloïdes locaux (cohorte d'étude) et 20 amyloses AL systémiques prouvées. Une injection unique d'environ 300 MBq est suivie d'une TEP/IRM corps entier (TEP/TDM si l'IRM est contre-indiquée).",
+ "interet": "Si la TEP détecte des dépôts avant les anomalies structurelles ou fonctionnelles, elle pourrait permettre un diagnostic plus précoce de l'amylose AL et une prise en charge plus rapide.",
+ "profil": "Des adultes ayant une gammapathie monoclonale, avec ou sans amylose AL prouvée par biopsie.",
+ "inclusion": [
+  "Participation à l'étude COSMO-AL",
+  "Résultat de biopsie disponible",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Gammopathie monoclonale sans amylose (témoins négatifs)",
+   "traitement": "Injection de 18F-florbétaben et TEP/IRM corps entier"
+  },
+  {
+   "nom": "Gammopathie monoclonale avec dépôts amyloïdes locaux (cohorte d'étude)",
+   "traitement": "Injection de 18F-florbétaben et TEP/IRM corps entier"
+  },
+  {
+   "nom": "Amylose AL systémique prouvée (témoins positifs)",
+   "traitement": "Injection de 18F-florbétaben et TEP/IRM corps entier"
+  }
+ ],
+ "duree": "Une seule visite, sans suivi",
+ "critere": "Taux de positivité de la TEP au 18F-florbétaben, le jour de l'examen"
+}

@@ -1,0 +1,40 @@
+{
+ "h": "2a87d2318ade",
+ "date": "2026-11-14",
+ "titre": "Velinotamig sous-cutané dans le PTI et l'anémie hémolytique auto-immune à auto-anticorps chauds réfractaires",
+ "question": "Le velinotamig est-il sûr et bien toléré chez des adultes atteints de PTI ou d'anémie hémolytique auto-immune à auto-anticorps chauds en rechute ou réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) et l'anémie hémolytique auto-immune à auto-anticorps chauds (AHAI) sont des cytopénies auto-immunes dues à des auto-anticorps. Les corticoïdes sont le traitement initial, suivis, en cas d'échec, du rituximab, des immunosuppresseurs, des agonistes de la thrombopoïétine pour le PTI ou de la splénectomie.\n\nUne partie des patients reste en rechute ou réfractaire malgré ces lignes. Les plasmocytes, qui produisent les auto-anticorps et sont peu sensibles au rituximab, sont une cible thérapeutique émergente.\n\nLe velinotamig est administré par voie sous-cutanée. Le registre ne précise pas sa cible, mais l'exclusion des patients ayant déjà reçu un traitement anti-BCMA suggère qu'il agit sur cette voie. Cette étude de phase 1b/2a, promue par Cullinan Therapeutics, est ouverte et comporte une escalade de dose puis une expansion, chez environ 72 adultes de 18 à 80 ans. Le critère principal est la sécurité et la tolérance sur 48 semaines.",
+ "interet": "L'étude donnera les premières données de tolérance et de dose d'un nouveau traitement sous-cutané des cytopénies auto-immunes réfractaires.",
+ "profil": "Des adultes de 18 à 80 ans atteints de PTI ou d'AHAI à auto-anticorps chauds en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Cytopénie auto-immune active",
+  "Rechute ou réfractarité après traitement standard",
+  "ECOG 2 ou moins",
+  "Lymphocytes supérieurs ou égaux à 0,5 G/L, PNN supérieurs ou égaux à 1,0 G/L, hémoglobine supérieure ou égale à 6,5 g/dL",
+  "Bilirubine inférieure ou égale à 1,5 fois la normale, AST et ALT inférieures ou égales à 2 fois la normale (sauf hémolyse)",
+  "DFG supérieur ou égal à 30 mL/min/1,73 m2"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Maladie significative interférant avec la sécurité ou les évaluations",
+  "Infection active par VHB, VHC, VIH, EBV ou CMV",
+  "Tuberculose active ou latente (sauf traitement antérieur complet)",
+  "Insuffisance cardiaque NYHA III ou IV",
+  "Déficit immunitaire primitif ou infections récidivantes",
+  "Traitement antérieur ciblant BCMA",
+  "Produit expérimental dans les 30 jours ou 5 demi-vies, greffe d'organe, chirurgie majeure prévue"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A : escalade de dose",
+   "traitement": "Velinotamig sous-cutané à doses croissantes"
+  },
+  {
+   "nom": "Partie B : expansion",
+   "traitement": "Velinotamig sous-cutané à la dose retenue"
+  }
+ ],
+ "duree": "Environ 48 semaines",
+ "critere": "Sécurité et tolérance, sur 48 semaines"
+}

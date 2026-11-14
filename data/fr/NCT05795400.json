@@ -1,0 +1,33 @@
+{
+ "h": "217eacd8ae4b",
+ "date": "2026-11-14",
+ "titre": "Dapagliflozine dans l'insuffisance cardiaque de l'amylose cardiaque : étude pilote",
+ "question": "La dapagliflozine, ajoutée au traitement standard, améliore-t-elle la qualité de vie, la marche et le NT-proBNP des patients ayant une amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine est une cause sous-estimée d'insuffisance cardiaque à fraction d'éjection préservée. Elle conduit au fil du temps à une dysfonction diastolique restrictive, puis parfois à une baisse de la fraction d'éjection. Le traitement spécifique reste limité, et le traitement symptomatique repose sur les diurétiques de l'anse et les antagonistes des minéralocorticoïdes, la dérivation des bêtabloquants et des IEC/ARA2/ARNI n'étant en général pas recommandée dans cette forme.\n\nLes inhibiteurs de SGLT2 ont fait leurs preuves dans l'insuffisance cardiaque, mais les essais ont exclu les cardiomyopathies hypertrophiques ou restrictives. Leur faible effet hémodynamique central et leurs effets métaboliques et rénaux les rendent intéressants ici. Cette étude pilote russe, randomisée en simple aveugle, a inclus 50 patients de 18 à 80 ans hospitalisés pour décompensation. La dapagliflozine 10 mg, débutée dans les 24 heures de l'hospitalisation, est comparée au placebo, tous recevant diurétiques et antagonistes des minéralocorticoïdes.",
+ "interet": "Elle fournira un premier signal de tolérance et d'efficacité des inhibiteurs de SGLT2 dans un groupe habituellement exclu des grands essais. Une étude pilote ne suffira pas à modifier la pratique.",
+ "profil": "Des adultes de 18 à 80 ans hospitalisés pour insuffisance cardiaque due à une amylose cardiaque à transthyrétine.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Insuffisance cardiaque avec NT-proBNP > 300 pg/mL ou BNP > 100 pg/mL",
+  "Amylose cardiaque à transthyrétine confirmée par échocardiographie et/ou IRM cardiaque avec injection"
+ ],
+ "exclusion": [
+  "Impossibilité de poursuivre les procédures de l'étude",
+  "Grossesse",
+  "Retrait du consentement",
+  "Effets indésirables intolérables",
+  "Traitement spécifique de l'amylose"
+ ],
+ "bras": [
+  {
+   "nom": "Dapagliflozine",
+   "traitement": "Dapagliflozine 10 mg par jour, dès les 24 premières heures, avec diurétiques et antagoniste des minéralocorticoïdes"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Placebo avec traitement diurétique standard"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Score KCCQ-SC, distance au test de marche de 6 minutes et NT-proBNP à 6 mois."
+}

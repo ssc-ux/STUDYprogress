@@ -1,0 +1,37 @@
+{
+ "h": "86413d79dd0b",
+ "date": "2026-11-14",
+ "titre": "Approche d'exercice cognitif (BETY) dans le syndrome de Gougerot-Sjögren primitif",
+ "question": "Un programme d'exercice cognitif biopsychosocial (BETY), en groupe ou individuel, améliore-t-il l'activité de la maladie, la douleur et la fatigue dans le syndrome de Sjögren primitif ?",
+ "contexte": "Le syndrome de Gougerot-Sjögren primitif est une maladie auto-immune dont les symptômes dominants sont la sécheresse oculaire et buccale, la fatigue et la douleur. La fatigue, la douleur chronique, les troubles de l'humeur et l'altération de la qualité de vie sont fréquents et peu soulagés par les traitements médicamenteux.\n\nL'approche d'exercice cognitif BETY (« Biopsychosocial-based exercise ») a été développée chez des patients atteints de maladies rhumatismales. Elle associe exercices de stabilisation du tronc, gestion de la douleur nociplastique par restructuration cognitive, gestion de l'humeur par danse-thérapie et information sur la sexualité.\n\nCet essai randomisé monocentrique turc compare trois groupes : BETY en séances de groupe, BETY en séances individuelles (36 séances d'1 heure, 3 fois par semaine pendant 12 semaines), et un programme à domicile de conseils d'exercices selon les symptômes (contrôle). Les évaluateurs sont en simple aveugle.\n\nLes critères explorés incluent l'activité de la maladie, la douleur, la fatigue, la qualité de vie, l'anxiété et la dépression, ainsi que la mastication et la déglutition. L'étude compare aussi l'efficacité du format de groupe et du format individuel.",
+ "interet": "Elle pourrait étayer une prise en charge non médicamenteuse structurée des symptômes invalidants du Sjögren, et indiquer si le format de groupe est aussi efficace que le format individuel.",
+ "profil": "Des adultes atteints d'un syndrome de Sjögren primitif.",
+ "inclusion": [
+  "Syndrome de Sjögren primitif diagnostiqué",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Syndrome de Sjögren secondaire",
+  "Programme d'exercice régulier dans les 2 derniers mois",
+  "Autre maladie non contrôlée ou significative (BPCO, insuffisance cardiaque, maladie endocrinienne, neurologique, psychiatrique…)",
+  "Maladie maligne",
+  "Grossesse ou autre état empêchant l'exercice",
+  "Absence de consentement écrit"
+ ],
+ "bras": [
+  {
+   "nom": "BETY en groupe",
+   "traitement": "36 séances d'1 heure, 3 fois par semaine pendant 12 semaines, en groupe"
+  },
+  {
+   "nom": "BETY individuel",
+   "traitement": "36 séances d'1 heure, 3 fois par semaine pendant 12 semaines, en individuel"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Programme à domicile de conseils d'exercices selon les symptômes"
+  }
+ ],
+ "duree": "12 semaines de traitement, suivi jusqu'à 6 mois",
+ "critere": "Score du questionnaire biopsychosocial BETY-BQ, de l'inclusion à la semaine 12 puis au 6e mois."
+}

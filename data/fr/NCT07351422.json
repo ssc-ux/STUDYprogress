@@ -1,0 +1,33 @@
+{
+ "h": "e1546feb799a",
+ "date": "2026-11-14",
+ "titre": "Vécu des patients et pratiques des médecins dans l'artérite de Takayasu (enquête au Royaume-Uni)",
+ "question": "Comment les patients atteints d'artérite de Takayasu vivent-ils leur maladie et comment les médecins la prennent-ils en charge au Royaume-Uni ?",
+ "contexte": "L'artérite de Takayasu est une vascularite rare des grosses artères touchant l'aorte et ses branches. Elle survient surtout chez la femme jeune, avec des symptômes variables, souvent un retard diagnostique et des séquelles vasculaires. Le traitement repose sur les corticoïdes, les immunosuppresseurs et des biothérapies comme le tocilizumab, avec peu d'essais disponibles.\n\nLa rareté de la maladie limite les données sur le vécu des patients, leurs priorités et la variabilité des pratiques entre médecins. Cette étude de l'Université d'Édimbourg propose deux questionnaires anonymes en ligne, l'un pour les patients (environ 25 minutes), l'autre pour les médecins impliqués dans leur prise en charge (environ 15 minutes).\n\nLe premier explore symptômes, traitements reçus et préoccupations ; le second les modalités de diagnostic, le choix des traitements et les difficultés rencontrées. Seuls des participants basés au Royaume-Uni sont inclus.",
+ "interet": "Elle documentera les attentes des patients et la variabilité des pratiques, utile pour hiérarchiser la recherche et améliorer les parcours de soins. Enquête déclarative, sans mesure clinique.",
+ "profil": "Des adultes atteints d'artérite de Takayasu et des médecins qui les prennent en charge, au Royaume-Uni.",
+ "inclusion": [
+  "Patients : âge ≥ 18 ans, diagnostic formel d'artérite de Takayasu",
+  "Médecins : impliqués dans la prise en charge ou les décisions pour des patients atteints",
+  "Résidence ou exercice au Royaume-Uni",
+  "Consentement à participer"
+ ],
+ "exclusion": [
+  "Patients de moins de 18 ans ou sans diagnostic formel",
+  "Patients sans capacité ou sans volonté de consentir",
+  "Médecins non impliqués dans la prise en charge, ou refusant de participer",
+  "Participants hors Royaume-Uni"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints d'artérite de Takayasu",
+   "traitement": "Questionnaire anonyme en ligne"
+  },
+  {
+   "nom": "Médecins prenant en charge des patients",
+   "traitement": "Questionnaire anonyme en ligne"
+  }
+ ],
+ "duree": "Un seul questionnaire (25 min pour les patients, 15 min pour les médecins)",
+ "critere": "Perspective des patients et perspective des médecins, mesurées par questionnaire au jour 1"
+}

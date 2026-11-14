@@ -1,0 +1,28 @@
+{
+ "h": "0c789e0a2912",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM pan-amyloïde dans l'amylose cardiaque et les maladies liées à l'amylose",
+ "question": "Les traceurs TEP pan-amyloïdes (18F et 11C-PIB) permettent-ils de diagnostiquer et de localiser l'amylose cardiaque et les autres atteintes amyloïdes ?",
+ "contexte": "L'amylose cardiaque, AL ou à transthyrétine (ATTR), est sous-diagnostiquée. Le diagnostic s'appuie sur l'échographie, l'IRM cardiaque, la scintigraphie osseuse (DPD, PYP) et la recherche d'une protéine monoclonale, avec biopsie dans certains cas. La scintigraphie est peu sensible dans l'amylose AL.\n\nLes traceurs TEP liant l'amyloïde, dérivés des traceurs utilisés dans la maladie d'Alzheimer (18F-florbétapir/AV45, 11C-PIB et autres), visualisent les dépôts de tous types. Ils pourraient aider à détecter l'atteinte cardiaque et extracardiaque, à typer et à suivre la charge amyloïde.\n\nCette étude observationnelle de l'université médicale de Tianjin inclut jusqu'à 500 adultes de 18 à 80 ans, avec amylose cardiaque suspectée, nouvellement diagnostiquée ou déjà traitée. Chaque participant reçoit une injection intraveineuse d'un traceur (18F-92, AV45, TPZA, FT8 ou 11C-PIB) avant une TEP/TDM, éventuellement associée à une IRM.",
+ "interet": "L'étude pourrait préciser la valeur diagnostique des TEP pan-amyloïdes, notamment pour les formes AL ou extracardiaques, où la scintigraphie classique est limitée.",
+ "profil": "Des adultes de 18 à 80 ans avec amylose cardiaque suspectée, nouvelle ou déjà traitée, adressés pour une TEP/TDM pan-amyloïde.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose cardiaque suspectée, nouvellement diagnostiquée ou déjà traitée (IRM, scanner, biomarqueurs, anatomopathologie)",
+  "TEP/TDM pan-amyloïde programmée",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Lésions non liées à l'amylose cardiaque",
+  "Grossesse",
+  "Impossibilité ou refus de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe unique",
+   "traitement": "Injection IV unique d'un traceur pan-amyloïde (18F-92, AV45, TPZA, FT8 ou 11C-PIB) puis TEP/TDM, éventuellement avec IRM"
+  }
+ ],
+ "duree": "30 jours",
+ "critere": "Valeur de fixation standardisée (SUV) du traceur, sur 30 jours."
+}

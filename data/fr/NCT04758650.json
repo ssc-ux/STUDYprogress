@@ -1,0 +1,34 @@
+{
+ "h": "06702aada0fa",
+ "date": "2026-11-14",
+ "titre": "TEP au 68Ga-NOTA-anti-MMR-VHH2 des macrophages dans cancers, athérosclérose, lymphomes, HLH et sarcoïdose",
+ "question": "Un traceur TEP ciblant le récepteur du mannose des macrophages (MMR) permet-il de visualiser in vivo l'inflammation macrophagique dans plusieurs maladies, dont la sarcoïdose ?",
+ "contexte": "Les macrophages jouent un rôle central dans la sarcoïdose, l'athérosclérose, les lymphohistiocytoses hémophagocytaires (HLH), les lymphomes et le microenvironnement tumoral. La TEP au 18F-FDG, utilisée en routine pour la sarcoïdose cardiaque ou systémique, manque de spécificité : elle capte tout tissu métaboliquement actif, y compris le myocarde normal, ce qui impose une préparation alimentaire stricte.\n\nLe 68Ga-NOTA-anti-MMR-VHH2 est un nanocorps radiomarqué qui se fixe au récepteur du mannose (MMR, CD206), exprimé par certains macrophages. Il pourrait offrir une imagerie plus spécifique que le FDG de ces cellules.\n\nCet essai de phase 2 monobras, promu par l'UZ Brussel, comprend sept cohortes : cancers de la tête et du cou, tumeurs solides avant immunothérapie par inhibiteurs de checkpoint, plaque carotidienne avant endartériectomie, lymphomes, suspicion de HLH, sarcoïdose cardiaque et sarcoïdose biopsiée. Il a été arrêté prématurément.",
+ "interet": "L'étude explore un traceur TEP plus spécifique que le FDG pour les macrophages, notamment dans la sarcoïdose cardiaque. Il pourrait aider au diagnostic et au suivi, si les résultats sont confirmés.",
+ "profil": "Des adultes de 18 ans et plus, répartis en sept cohortes selon la maladie (cancers, plaque carotidienne, lymphome, HLH, sarcoïdose).",
+ "inclusion": [
+  "Âge de 18 ans ou plus et consentement éclairé",
+  "Cohorte 1 : cancer de la tête et du cou prouvé ou suspecté, lésion ≥ 10 mm",
+  "Cohorte 2 : tumeur solide prouvée, immunothérapie par inhibiteur de checkpoint prévue",
+  "Cohorte 3 : endartériectomie carotidienne prévue",
+  "Cohorte 4 : lymphome de Hodgkin ou non hodgkinien biopsié, avec TEP-FDG récente",
+  "Cohorte 5 : suspicion de HLH (hémophagocytose médullaire ou au moins 3 critères)",
+  "Cohortes 6-7 : sarcoïdose cardiaque (prouvée ou suspectée) ou sarcoïdose biopsiée"
+ ],
+ "exclusion": [
+  "Performance status ECOG ≥ 3",
+  "Grossesse ou allaitement",
+  "Infection active grave, dont infection active par le SARS-CoV-2",
+  "Autre maladie engageant le pronostic vital ou dysfonction d'organe gênant l'évaluation",
+  "Patient peu coopérant, incapable de communiquer ou de consentir",
+  "Cohorte 2 : lymphome ou cancer de la tête et du cou (orientés vers d'autres cohortes)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohortes 1 à 7 (bras unique)",
+   "traitement": "Injection de 68Ga-NOTA-anti-MMR-VHH2 puis TEP/TDM, dans chaque pathologie"
+  }
+ ],
+ "duree": "Une injection avec imagerie, puis suivi jusqu'à 5 ans selon la cohorte",
+ "critere": "Corrélation de la fixation du traceur avec la réponse au traitement, le marquage immunohistochimique du MMR ou la maladie (hémophagocytose, sarcoïdose cardiaque), jusqu'à 5 ans"
+}

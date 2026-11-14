@@ -1,0 +1,33 @@
+{
+ "h": "86aa9a3cf1fe",
+ "date": "2026-11-14",
+ "titre": "Programme de marche avec podomètre pour réduire la fatigue dans le lupus",
+ "question": "Un programme de marche guidée par podomètre augmente-t-il l'activité physique et réduit-il la fatigue des patients lupiques ?",
+ "contexte": "La fatigue est l'un des symptômes les plus pénibles du lupus. Elle persiste même quand l'activité de la maladie est minime et retentit sur presque tous les domaines de la qualité de vie. L'activité physique y est associée de façon transversale, et plusieurs programmes ont montré des effets modestes et inconstants sur la fatigue.\n\nCes programmes étaient souvent lourds, avec des séances encadrées ou des installations spécifiques, ce qui limite leur diffusion. Cette étude teste une intervention simple, inspirée d'un programme efficace dans la polyarthrite rhumatoïde : un bracelet connecté (type Fitbit) et des objectifs de pas individualisés, augmentés de 10 % toutes les deux semaines.\n\nL'essai randomisé en croisement, mené à l'Université de Californie à San Francisco, compare le groupe intervention à un groupe en liste d'attente, suivis 21 semaines. Le groupe en attente reçoit ensuite l'intervention. Les patients intervention sont recontactés 4 mois plus tard pour évaluer le maintien. Les critères secondaires portent sur douleur, sommeil, humeur et fonction cognitive.",
+ "interet": "Si elle réduit la fatigue, cette intervention peu coûteuse pourrait s'intégrer facilement aux soins du lupus. Aucun résultat n'est publié dans le registre.",
+ "profil": "Des adultes atteints de lupus avec une fatigue au moins modérée, peu actifs physiquement.",
+ "inclusion": [
+  "Diagnostic de lupus par un rhumatologue",
+  "Anglais ou espagnol courant",
+  "Capacité à venir à trois visites en personne",
+  "Fatigue au moins modérée (PROMIS Fatigue 8a ≥ 12)"
+ ],
+ "exclusion": [
+  "Exercice régulier actuel (IPAQ élevé)",
+  "Patient non ambulatoire ou comorbidité limitant la marche (infarctus < 6 mois, AVC, insuffisance cardiaque, BPCO sévère)",
+  "Chirurgie prévue pendant l'étude",
+  "Grossesse en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Intervention",
+   "traitement": "Bracelet connecté et objectifs de pas individualisés (+10 % toutes les 2 semaines), 21 semaines"
+  },
+  {
+   "nom": "Liste d'attente",
+   "traitement": "Mêmes contacts et mesures ; intervention proposée ensuite"
+  }
+ ],
+ "duree": "21 semaines, puis suivi à 4 mois pour le groupe intervention",
+ "critere": "Nombre moyen de pas par jour et niveau de fatigue, à environ 20 semaines"
+}

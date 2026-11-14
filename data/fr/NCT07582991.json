@@ -1,0 +1,33 @@
+{
+ "h": "f057c365ba78",
+ "date": "2026-11-14",
+ "titre": "Ustékinumab dans la maladie de Behçet intestinale associée à un syndrome myélodysplasique",
+ "question": "L'ustékinumab est-il efficace et sûr dans la maladie de Behçet intestinale compliquée d'un syndrome myélodysplasique ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique. L'atteinte intestinale, avec ulcérations digestives, est une forme sévère. Elle est parfois associée à un syndrome myélodysplasique (SMD), souvent avec trisomie 8, situation rare pour laquelle il n'existe pas de recommandation standardisée.\n\nL'ustékinumab, un anticorps anti-IL-12/23, est efficace dans les maladies inflammatoires chroniques de l'intestin et a montré des résultats favorables dans le Behçet digestif. Il évite l'immunosuppression profonde des anti-TNF, ce qui est intéressant en cas de cytopénies.\n\nCet essai de phase 2 chinois à un seul bras inclut 8 patients, après arrêt des biothérapies antérieures. L'ustékinumab 90 mg est administré par voie sous-cutanée aux semaines 0, 4 et 8, puis toutes les 12 semaines, avec un suivi de 24 mois. Cliniquement, biologiquement et endoscopiquement, la réponse est évaluée à la semaine 24.",
+ "interet": "Il pourrait ouvrir une option pour une forme rare et difficile à traiter. L'effectif est très limité et il n'y a pas de comparateur.",
+ "profil": "Des adultes de 18 à 70 ans atteints de Behçet intestinal actif et de SMD.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Maladie de Behçet (critères ICBD 2014)",
+  "SMD confirmé par myélogramme ou biopsie",
+  "Ulcères intestinaux à la coloscopie",
+  "Maladie active (BDCAF ≥ 1)",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune",
+  "Atteinte d'un autre organe vital nécessitant une autre biothérapie ou de fortes doses de corticoïdes",
+  "Chirurgie antérieure",
+  "Cytopénie trilignée sévère liée au SMD",
+  "Infection active récente (EBV, CMV, VIH, hépatite)",
+  "Cancer actuel ou passé, grossesse, insuffisance hépatique Child-Pugh C ou dialyse"
+ ],
+ "bras": [
+  {
+   "nom": "Ustékinumab",
+   "traitement": "90 mg SC aux semaines 0, 4 et 8, puis toutes les 12 semaines"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Proportion de patients en rémission complète, amélioration marquée ou amélioration à 24 semaines"
+}

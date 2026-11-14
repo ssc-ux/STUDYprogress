@@ -1,0 +1,36 @@
+{
+ "h": "16a54f9ccb4c",
+ "date": "2026-11-14",
+ "titre": "Adébrélimab et tramétinib dans l'histiocytose langerhansienne réfractaire ou récidivante de l'enfant",
+ "question": "L'association adébrélimab (anti-PD-L1) et tramétinib (inhibiteur de MEK) est-elle efficace et sûre chez les enfants ayant une histiocytose langerhansienne réfractaire ou en rechute ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (LCH) est une prolifération clonale de cellules myéloïdes, avec une activation fréquente de la voie MAPK (mutation BRAF V600E ou autres). Une partie des enfants, avec une forme mono- ou multisystémique, est réfractaire aux traitements de première et de deuxième ligne (cladribine, clofarabine) ou rechute après réponse complète.\n\nLes inhibiteurs de MEK comme le tramétinib agissent sur la voie MAPK et obtiennent des réponses, mais les rechutes à l'arrêt sont fréquentes. L'association à un inhibiteur du point de contrôle PD-L1, l'adébrélimab, vise à renforcer le contrôle immunitaire de la maladie.\n\nSelon les promoteurs, deux enfants déjà traités par cette association ont bien toléré le schéma et en ont tiré un bénéfice clinique. Cet essai de phase 1/2 prospectif, à un seul bras, du Second Affiliated Hospital of Wenzhou Medical University, vise à confirmer ces observations sur un plus grand effectif, avec un protocole chinois de référence (CCHG-LCH-2019).",
+ "interet": "Si l'association est active et bien tolérée, elle pourrait offrir une option pour les enfants en échec des traitements standards, avec une meilleure survie et qualité de vie à long terme.",
+ "profil": "Des enfants et adolescents de 1 à 18 ans ayant une histiocytose langerhansienne réfractaire ou récidivante.",
+ "inclusion": [
+  "LCH prouvée par biopsie, CD1a et/ou CD207 positifs",
+  "LCH réfractaire (pas d'amélioration après les lignes prévues) ou récidivante après réponse complète",
+  "Âge de 1 à 18 ans",
+  "ECOG 0-1 (ou Karnofsky/Lansky ≥ 50 %), survie attendue ≥ 6 mois",
+  "Fonctions cardiaque (FEVG ≥ 50 %), rénale, hépatique et médullaire correctes",
+  "Saturation en oxygène > 91 % à l'air ambiant",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Traitement antérieur par anti-PD-1 ou anti-PD-L1",
+  "Participation à un autre essai",
+  "Toxicité antérieure non résolue supérieure au grade 1",
+  "Allergie au tramétinib ou à l'adébrélimab",
+  "Maladie auto-immune, tuberculose, infection active nécessitant un traitement systémique",
+  "VIH, syphilis, hépatite B ou C actives",
+  "Dysfonction thyroïdienne",
+  "Vaccin vivant ou atténué dans les 4 semaines précédentes ou dans les 5 mois suivant la dernière dose"
+ ],
+ "bras": [
+  {
+   "nom": "Adébrélimab + tramétinib",
+   "traitement": "Association des deux molécules (doses et rythme non précisés dans le registre)"
+  }
+ ],
+ "duree": "Suivi jusqu'à 3 ans après l'arrêt du traitement",
+ "critere": "Score d'activité quantitatif de la maladie (DAS), évalué chaque mois pendant 3 mois puis tous les 3 mois, et à 3 mois, 6 mois, 1, 2 et 3 ans après l'arrêt."
+}

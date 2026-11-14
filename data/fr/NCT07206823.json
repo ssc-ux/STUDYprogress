@@ -1,0 +1,31 @@
+{
+ "h": "907ed6501c7a",
+ "date": "2026-11-14",
+ "titre": "Romiplostim N01 et rituximab dans le PTI réfractaire aux agonistes oraux du récepteur de la TPO",
+ "question": "L'association romiplostim N01 et rituximab est-elle efficace et sûre dans le PTI primaire réfractaire aux agonistes oraux du récepteur de la TPO ?",
+ "contexte": "Les agonistes oraux du récepteur de la thrombopoïétine (eltrombopag, hétrombopag) sont largement utilisés dans le PTI chronique, mais certains patients n'y répondent pas suffisamment. Le romiplostim, agoniste injectable agissant sur le même récepteur, et le rituximab, qui cible les lymphocytes B, ont des mécanismes complémentaires.\n\nL'association d'un agoniste du récepteur de la TPO avec une immunothérapie vise à augmenter la production plaquettaire tout en réduisant l'auto-immunité, avec potentiellement une réponse plus durable. Le « romiplostim N01 » est une préparation de romiplostim dont les spécificités ne sont pas détaillées dans le registre.\n\nCette étude monobras de l'hôpital universitaire de Soochow (Chine) inclut 30 patients, adultes ou adolescents dès 14 ans, ayant échoué à au moins 4 semaines d'un agoniste oral. Ils reçoivent du rituximab hebdomadaire pendant 4 semaines et du romiplostim N01 hebdomadaire à dose ajustée sur les plaquettes.",
+ "interet": "Elle pourrait documenter une option de rattrapage après échec d'un agoniste oral du récepteur de la TPO. L'absence de comparateur limitera l'interprétation.",
+ "profil": "Des patients de 14 ans et plus atteints de PTI primaire réfractaire aux agonistes oraux du récepteur de la TPO.",
+ "inclusion": [
+  "PTI primaire confirmé, âge ≥ 14 ans",
+  "Au moins un traitement antérieur du PTI, dont ≥ 4 semaines d'un agoniste oral de la TPO (hétrombopag ou eltrombopag) arrêté pour réponse insuffisante",
+  "Plaquettes < 30 G/L, ou < 50 G/L avec saignement significatif",
+  "Corticoïdes à dose stable depuis ≥ 2 semaines, autres immunosuppresseurs depuis ≥ 4 semaines",
+  "Pas d'immunoglobulines IV depuis 2 semaines ni de transfusion plaquettaire depuis 1 semaine"
+ ],
+ "exclusion": [
+  "PTI secondaire (autre maladie auto-immune, infection virale, médicament)",
+  "Cancer actif",
+  "Grossesse",
+  "Maladie cardiovasculaire ou cérébrovasculaire significative",
+  "Antécédent de thrombose artérielle ou veineuse"
+ ],
+ "bras": [
+  {
+   "nom": "Romiplostim N01 + rituximab",
+   "traitement": "Rituximab IV hebdomadaire pendant 4 semaines ; romiplostim N01 injectable hebdomadaire, dose ajustée aux plaquettes"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois",
+ "critere": "Efficacité de la semaine 2 au mois 12 ; incidence des événements indésirables graves jusqu'à 12 mois."
+}

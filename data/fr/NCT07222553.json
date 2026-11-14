@@ -1,0 +1,31 @@
+{
+ "h": "a9dccbe72d7b",
+ "date": "2026-11-14",
+ "titre": "Inébilizumab chez l'enfant atteint de maladie associée aux IgG4",
+ "question": "Quelles sont la pharmacocinétique, la pharmacodynamie et la tolérance de l'inébilizumab chez l'enfant atteint de maladie associée aux IgG4 ?",
+ "contexte": "La maladie associée aux IgG4 (IgG4-RD) est une maladie fibro-inflammatoire immuno-médiée touchant pancréas, voies biliaires, glandes lacrymales et salivaires, orbites, reins, rétropéritoine ou aorte. Les corticoïdes sont le traitement initial, mais les rechutes à la décroissance et les effets indésirables au long cours sont fréquents ; la forme pédiatrique est très rare et mal décrite.\n\nL'inébilizumab est un anticorps anti-CD19 déplétant les lymphocytes B, administré par voie intraveineuse. Chez l'adulte, il a déjà montré une efficacité contre les poussées dans l'IgG4-RD (essai MITIGATE).\n\nCette étude de phase 2 d'Amgen, monobras, inclut 15 enfants de 2 à moins de 18 ans pesant au moins 17 kg, avec indication d'un traitement en plus ou à la place des corticoïdes. Les critères principaux sont les paramètres pharmacocinétiques, la variation des lymphocytes B CD20+ et la tolérance jusqu'au jour 561.",
+ "interet": "L'étude pourrait fournir la posologie et les données de tolérance nécessaires pour traiter les enfants atteints d'IgG4-RD avec l'inébilizumab, dans une maladie sans traitement pédiatrique établi.",
+ "profil": "Des enfants et adolescents de 2 à moins de 18 ans (≥ 17 kg) atteints de maladie associée aux IgG4 nécessitant un traitement autre que les corticoïdes seuls.",
+ "inclusion": [
+  "Poids ≥ 17 kg, âge de 2 à < 18 ans",
+  "Diagnostic clinique d'IgG4-RD, critères de classification ACR/EULAR 2019 remplis (≥ 20 points, atteinte d'un organe cible)",
+  "Vaccinations adaptées à l'âge à jour avant le dépistage",
+  "Traitement nécessaire en plus ou à la place des corticoïdes",
+  "Corticoïdes à dose stable depuis au moins 2 semaines",
+  "Consentement du représentant légal et assentiment de l'enfant"
+ ],
+ "exclusion": [
+  "ASAT ou ALAT > 10 N, ou bilirubine totale > 5 N en cas d'activité hépatobiliaire",
+  "Plaquettes < 75 G/L, PNN < 1,2 G/L, Ig totales < 600 mg/dL, CD4 < 300/µL, hémoglobine < 8 g/dL",
+  "Atteinte hépatique, rénale ou métabolique significative",
+  "Autres critères détaillés (non repris ici)"
+ ],
+ "bras": [
+  {
+   "nom": "Inébilizumab",
+   "traitement": "Perfusions intraveineuses d'inébilizumab ; dose non précisée"
+  }
+ ],
+ "duree": "Environ 561 jours (18 mois)",
+ "critere": "Paramètres pharmacocinétiques (Cmax, ASC, clairance, demi-vie, volume de distribution), variation des lymphocytes B CD20+ et événements indésirables, jusqu'au jour 561."
+}

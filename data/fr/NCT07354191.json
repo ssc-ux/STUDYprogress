@@ -1,0 +1,24 @@
+{
+ "h": "a997be32cf41",
+ "date": "2026-11-14",
+ "titre": "Anémie hémolytique auto-immune associée au myélome multiple : prévalence et pronostic",
+ "question": "Quelle est la prévalence de l'anémie hémolytique auto-immune (AHAI) chez les patients atteints de myélome multiple, et quel est son impact sur la présentation et l'évolution ?",
+ "contexte": "Le myélome multiple est une prolifération clonale de plasmocytes médullaires responsable d'atteinte osseuse, d'insuffisance rénale et d'insuffisance médullaire. L'anémie y est fréquente et le plus souvent multifactorielle.\n\nL'AHAI résulte de la destruction des hématies par des auto-anticorps, avec ou sans complément. Elle est primitive ou associée à des syndromes lymphoprolifératifs, des maladies auto-immunes, des infections ou des médicaments. Le test direct à l'antiglobuline (Coombs direct) est la pierre angulaire du diagnostic et distingue les formes à anticorps chauds, la maladie des agglutinines froides et les formes rares.\n\nL'AHAI comme cause d'anémie au cours du myélome est rare et probablement sous-diagnostiquée. Cette étude prospective égyptienne (New Valley University), de centre unique, recherche systématiquement une AHAI par tests à l'antiglobuline directs et indirects chez 66 patients myélomateux. Elle étudie le lien avec le score pronostique international (ISS) et l'évolution à environ un an.",
+ "interet": "Si la prévalence est notable, la recherche d'une hémolyse auto-immune pourrait être proposée devant une anémie inexpliquée au cours du myélome. L'étude est descriptive et monocentrique.",
+ "profil": "Des adultes atteints de myélome multiple.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic clinique de myélome multiple"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec myélome multiple",
+   "traitement": "Test direct (DAT) et indirect (IAT) à l'antiglobuline"
+  }
+ ],
+ "duree": "Environ 1 an de suivi",
+ "critere": "Prévalence de l'AHAI à l'inclusion, impact sur le score pronostique ISS à l'inclusion et sur l'évolution à environ 1 an"
+}

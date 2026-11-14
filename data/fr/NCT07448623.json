@@ -1,0 +1,35 @@
+{
+ "h": "8baaec1b146a",
+ "date": "2026-11-14",
+ "titre": "Coramitug marqué au zirconium-89 : imagerie TEP/TDM des dépôts amyloïdes cardiaques dans l'ATTR-CM",
+ "question": "Où se fixe le coramitug radiomarqué dans le coeur des patients atteints de cardiomyopathie amyloïde à transthyrétine, et comment l'anticorps déplace-t-il le traceur ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est une cause d'insuffisance cardiaque du sujet âgé, due au dépôt de fibrilles de transthyrétine (TTR) mutée ou sauvage dans le myocarde. Les traitements actuels, comme le tafamidis, stabilisent le tétramère de TTR ou diminuent sa production (silençage) mais n'éliminent pas les dépôts existants, d'où l'intérêt d'anticorps capables de les résorber.\n\nLe coramitug (Novo Nordisk) est un anticorps monoclonal qui se lie aux dépôts de TTR et vise à favoriser leur élimination par phagocytose. Cette étude de phase 1 utilise le coramitug marqué au zirconium-89 en TEP/TDM. La cohorte 1 mesure la captation cardiaque du traceur. La cohorte 2 teste, selon la cohorte 1, un effet de puits (sink) et la compétition de liaison entre l'anticorps marqué et différentes doses d'anticorps non marqué. Les critères incluent le rapport de captation (SUVR) et le taux net de captation (Ki) myocardiques. La tolérance est aussi évaluée. L'étude comprend 14 participants, dans un centre.",
+ "interet": "Elle précisera la distribution cardiaque du coramitug et l'effet des doses, donnée utile pour concevoir les études d'efficacité de ce candidat visant l'élimination des dépôts amyloïdes.",
+ "profil": "Des adultes de 60 ans ou plus ayant une cardiomyopathie amyloïde à TTR (sauvage ou variante) avec insuffisance cardiaque.",
+ "inclusion": [
+  "Âge ≥ 60 ans",
+  "ATTR-CM établie, sauvage ou variante, par biopsie ou scintigraphie osseuse de grade 2-3 avec confirmation",
+  "Épaisseur pariétale ventriculaire gauche ≥ 13 mm (femme) ou ≥ 14 mm (homme)",
+  "Insuffisance cardiaque chronique : hospitalisation datant de 3 mois à 2 ans, ou signes de surcharge traités par diurétique de l'anse",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Hypersensibilité connue ou suspectée au traitement de l'étude",
+  "Participation antérieure à cette étude",
+  "Grossesse, allaitement ou projet de grossesse, femme en âge de procréer",
+  "Participation à une autre étude interventionnelle",
+  "Exposition à des rayonnements dans une étude de recherche dans l'année précédente"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1",
+   "traitement": "Coramitug marqué au zirconium-89, évaluation de la captation cardiaque en TEP"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "Coramitug marqué avec différentes doses de coramitug non marqué pour évaluer l'effet de puits et la compétition de liaison"
+  }
+ ],
+ "duree": "Jusqu'à 85 jours (cohorte 1) ou 106 jours (cohorte 2) pour la période A ; critère de suivi jusqu'à la semaine 52 ou 60",
+ "critere": "Rapport de captation myocardique moyen (SUVRmean) du jour 1 au jour 8, taux net de captation (Ki) de 0 à 168 h, et variation du SUVRmean jusqu'à la semaine 52 (ou 60)."
+}

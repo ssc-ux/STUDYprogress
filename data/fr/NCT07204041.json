@@ -1,0 +1,34 @@
+{
+ "h": "8901f6f500be",
+ "date": "2026-11-14",
+ "titre": "Sélinexor, thalidomide et dexaméthasone dans l'histiocytose langerhansienne de l'adulte réfractaire",
+ "question": "L'association sélinexor-thalidomide-dexaméthasone (XTD) est-elle efficace chez l'adulte atteint d'HCL en rechute ou réfractaire ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) de l'adulte est une maladie clonale rare, souvent liée à l'activation de la voie MAPK. Les formes multisystémiques ou multifocales en échec d'un premier traitement systémique n'ont pas de standard établi : on recourt à la cytarabine, à la cladribine ou aux inhibiteurs de BRAF/MEK, parfois inaccessibles ou mal tolérés.\n\nLe sélinexor est un inhibiteur oral de l'exportine 1 (XPO1) utilisé dans le myélome, qui entraîne l'accumulation nucléaire de protéines suppresseurs de tumeur. Le thalidomide, immunomodulateur, a une activité rapportée dans l'HCL. L'association avec la dexaméthasone est testée comme alternative orale.\n\nCette étude de phase 2 monobras, promue par le Cancer Institute and Hospital de l'Académie chinoise des sciences médicales, inclut 40 adultes en rechute ou réfractaires. Le critère principal est la survie sans progression évaluée à 8 semaines de traitement. Les doses ne sont pas précisées dans le registre.",
+ "interet": "Elle pourrait documenter une option orale sans inhibiteur de BRAF/MEK dans l'HCL réfractaire de l'adulte, population sans traitement standard. L'évaluation à 8 semaines reste courte.",
+ "profil": "Des adultes atteints d'HCL multisystémique ou unisystémique multifocale, en rechute ou réfractaire à au moins un traitement systémique.",
+ "inclusion": [
+  "HCL confirmée histologiquement, âge ≥ 18 ans",
+  "Atteinte multisystémique ou unisystémique multifocale",
+  "Échec d'au moins un traitement systémique ou rechute après amélioration",
+  "ECOG ≤ 2",
+  "Patient jugé apte au protocole par le clinicien",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "HCL unisystémique unifocale",
+  "Chirurgie majeure ou radiothérapie dans les 4 semaines",
+  "Infarctus dans l'année ; insuffisance cardiaque NYHA 3-4 sauf FEVG ≥ 50 %",
+  "Grossesse ou allaitement",
+  "Créatinine ≥ 176,8 µmol/L, transaminases ou bilirubine > 2 N (seuils plus élevés si atteinte hépatique)",
+  "PNN < 1 G/L ou plaquettes < 50 G/L",
+  "Infection non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "HCL en rechute ou réfractaire",
+   "traitement": "Sélinexor, thalidomide (100 mg) et dexaméthasone ; autres doses et rythme non précisés"
+  }
+ ],
+ "duree": "Traitement évalué à 8 semaines ; durée totale non précisée",
+ "critere": "Survie sans progression, de l'inclusion à la fin du traitement à 8 semaines."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "06a7affbb3b7",
+ "date": "2026-11-14",
+ "titre": "Méthylation de l'ADN et rechute dans la pseudopolyarthrite rhizomélique",
+ "question": "Les profils de méthylation de l'ADN des lymphocytes T mémoires CD4 et CD8, et l'indice de méthylation des glucocorticoïdes, prédisent-ils la rechute lors de la décroissance des corticoïdes dans la PPR ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) est une maladie inflammatoire du sujet de plus de 50 ans, qui provoque des douleurs et une raideur des ceintures scapulaire et pelvienne. Son traitement repose sur une corticothérapie prolongée, dont les effets indésirables (ostéoporose, diabète, infections) limitent la durée.\n\nLa décroissance des corticoïdes provoque une rechute chez une partie des patients, sans que l'on sache identifier à l'avance lesquels. Des marqueurs prédictifs permettraient d'adapter le schéma, de proposer plus tôt un traitement d'épargne cortisonique et d'éviter les corticoïdes inutiles.\n\nL'équipe du Dartmouth-Hitchcock Medical Center a observé, dans une petite étude préliminaire, que la dynamique des cellules immunitaires effectrices, mesurée par des méthodes de profilage fondées sur la méthylation de l'ADN, était associée à la rechute. Cette étude observationnelle prospective inclut 50 patients atteints de PPR sous prednisone (10 mg ou plus) et des volontaires sains appariés. Elle cherche à valider le rôle des lymphocytes T mémoires CD4 et CD8 comme prédicteurs de rechute et à tester l'indice de méthylation des glucocorticoïdes, ensemble de 28 sites CpG qui se méthylent en réponse aux corticoïdes.",
+ "interet": "L'étude pourrait fournir un test biologique pour prédire la rechute de PPR à la décroissance des corticoïdes.",
+ "profil": "Des adultes de 50 à 89 ans atteints de PPR stable sous prednisone, et des volontaires sains appariés.",
+ "inclusion": [
+  "Âge de 50 à 89 ans",
+  "Diagnostic de PPR",
+  "Prednisone (ou équivalent) à 10 mg ou plus au moment de l'inclusion",
+  "Maladie stable avec VS et CRP normales",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Maladie de Horton ou autre maladie rhumatologique associée (lupus, arthrite, sclérodermie, Sjögren)",
+  "Cancer actif",
+  "Infection",
+  "Chirurgie dans les 6 derniers mois"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de PPR",
+   "traitement": "Prélèvements sanguins pour profilage de méthylation de l'ADN pendant la décroissance des corticoïdes"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Témoins appariés selon l'âge et le sexe"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Compréhension des mécanismes d'activation immunitaire, des antigènes impliqués, des rechutes et de la résistance aux glucocorticoïdes, sur 12 mois (critère formulé de façon générale dans le registre)"
+}

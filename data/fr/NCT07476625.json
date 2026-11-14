@@ -1,0 +1,35 @@
+{
+ "h": "82893abd27ca",
+ "date": "2026-11-14",
+ "titre": "Thalidomide versus colchicine dans le syndrome PFAPA de l'enfant",
+ "question": "Le thalidomide est-il plus efficace que la colchicine pour obtenir une rémission complète à 6 mois chez des enfants atteints de PFAPA ?",
+ "contexte": "Le syndrome PFAPA (fièvre périodique, stomatite aphteuse, pharyngite, adénite) est la fièvre périodique auto-inflammatoire la plus fréquente de l'enfant. Les accès durent quelques jours, reviennent à intervalles réguliers et répondent habituellement très vite à une dose unique de corticoïdes, qui n'empêche pas les récidives et peut même les rapprocher. L'amygdalectomie est efficace mais invasive, et la cimétidine ou la colchicine ont des résultats inconstants.\n\nLe thalidomide a des effets immunomodulateurs (diminution du TNF-alpha, entre autres) et est utilisé dans plusieurs maladies inflammatoires, avec une tératogénicité qui impose des précautions et une neuropathie périphérique possible au long cours. Cet essai randomisé chinois, promu par un investigateur (Wenjie Zheng), compare le thalidomide 50 mg à la colchicine chez 106 enfants de 3 à 18 ans répondant aux corticoïdes mais récidivants. Les participants tiennent un journal des accès fébriles et sont vus toutes les 4 semaines.",
+ "interet": "Il pourrait établir une alternative médicamenteuse chez les enfants dont les accès restent fréquents, avec une comparaison directe à la colchicine.",
+ "profil": "Des enfants et adolescents de 3 à 18 ans atteints de PFAPA, corticosensibles mais récidivants.",
+ "inclusion": [
+  "Critères PFAPA Eurofever 2019 ou CARRA 2020",
+  "Âge de 3 à 18 ans",
+  "Au moins 3 épisodes fébriles dans les 6 derniers mois",
+  "Réponse aux corticoïdes lors d'au moins 3 épisodes (apyrexie en 24 h), avec récidives persistantes"
+ ],
+ "exclusion": [
+  "Fièvre périodique monogénique ou autre syndrome auto-inflammatoire",
+  "Déficit immunitaire ou cancer",
+  "Infection active au dépistage",
+  "Immunosuppresseur antérieur, thalidomide ou colchicine antérieurs",
+  "Leucocytes < 4 × 10⁹/L, Hb < 100 g/L ou plaquettes < 100 × 10⁹/L",
+  "ALT > 2 × LSN ou DFG < 60 mL/min/1,73 m²"
+ ],
+ "bras": [
+  {
+   "nom": "Thalidomide",
+   "traitement": "Thalidomide oral 50 mg, administration quotidienne"
+  },
+  {
+   "nom": "Colchicine",
+   "traitement": "Colchicine orale, comparateur actif"
+  }
+ ],
+ "duree": "6 mois de traitement (jusqu'à 12 mois selon le registre), visites toutes les 4 semaines",
+ "critere": "Proportion d'enfants en rémission complète à 6 mois."
+}

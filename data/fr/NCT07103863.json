@@ -1,0 +1,27 @@
+{
+ "h": "9f92098774e2",
+ "date": "2026-11-14",
+ "titre": "Radiomique multimodale (TEP/TDM 18F-FAPI et IRM cardiaque) pour le pronostic de l'amylose cardiaque AL",
+ "question": "Un modèle de radiomique combinant TEP/TDM 18F-FAPI et IRM cardiaque 3D prédit-il la mortalité à 12 mois dans l'amylose cardiaque AL ?",
+ "contexte": "L'amylose cardiaque AL est la forme d'amylose systémique la plus grave. L'atteinte cardiaque conditionne le pronostic, évalué actuellement par le stade de Mayo (NT-proBNP et troponine) et la réponse hématologique. Les patients atteints d'une forme avancée ont une survie courte même sous traitement antiplasmocytaire.\n\nLe FAPI, traceur de l'activation des fibroblastes, rend visible en TEP la fibrose active et le remodelage du myocarde. L'IRM cardiaque décrit les lésions structurelles (rehaussement tardif, volume extracellulaire). L'association de ces deux imageries par intelligence artificielle (radiomique) pourrait donner une évaluation plus fine que les marqueurs biologiques.\n\nCette étude observationnelle monocentrique de l'hôpital Anzhen de Pékin inclut 49 patients atteints d'amylose cardiaque AL, traités selon les standards (chimiothérapie et traitement de soutien). Le modèle d'imagerie est testé sur la survie à 12 mois.",
+ "interet": "Un modèle pronostique non invasif pourrait aider à adapter l'intensité du traitement et à suivre l'évolution. L'effectif est faible et la validation externe sera nécessaire.",
+ "profil": "Des adultes atteints d'amylose cardiaque AL prouvée par biopsie, traités par le traitement standard.",
+ "inclusion": [
+  "Amylose cardiaque AL prouvée par biopsie endomyocardique",
+  "Ou amylose AL prouvée sur biopsie extracardiaque avec NT-proBNP > 332 pg/mL et épaisseur pariétale moyenne du VG > 12 mm, sans hypertension ou autre cause d'hypertrophie",
+  "Traitement standard de l'amylose AL (chimiothérapie et soutien)"
+ ],
+ "exclusion": [
+  "Infection active ou cancer avancé (survie attendue < 12 mois)",
+  "Troubles cognitifs sévères ou mobilité limitée gênant les examens d'imagerie",
+  "Impossibilité d'un suivi complet"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose cardiaque AL",
+   "traitement": "Patients traités selon le standard, avec TEP/TDM 18F-FAPI et IRM cardiaque 3D pour construire le modèle de radiomique"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Survie à 12 mois."
+}

@@ -1,0 +1,31 @@
+{
+ "h": "5facaf2f81fd",
+ "date": "2026-11-14",
+ "titre": "Effets à long terme des corticoïdes systémiques dans plusieurs maladies chroniques, en Allemagne (PROGRESS)",
+ "question": "Quel est le risque d'événements indésirables à long terme des corticoïdes systémiques chez des patients atteints de maladies inflammatoires chroniques, selon la dose et la durée ?",
+ "contexte": "Les corticoïdes systémiques sont largement utilisés dans de nombreuses maladies inflammatoires (asthme, BPCO, rhumatismes inflammatoires, lupus, vascularites, GEPA, rhinosinusite chronique, maladie de Crohn, rectocolite). Leurs effets indésirables (diabète, ostéoporose, complications cardiovasculaires, infections, cataracte…) sont une cause fréquente de pathologie iatrogène.\n\nLes données systématiques sur les effets à long terme selon la dose cumulée et la durée d'exposition sont limitées, et varient d'une maladie à l'autre. Elles sont utiles pour justifier la recherche d'alternatives épargnant les corticoïdes.\n\nPROGRESS est une étude de cohorte rétrospective sur données de remboursement allemandes (2007-2022), avec des inclusions de 2009 à 2020. Les patients adultes avec une des pathologies concernées et exposés aux corticoïdes systémiques sont appariés trimestriellement à des témoins ayant la même pathologie sans corticoïdes. L'étude a inclus plus de 107 000 patients.\n\nElle estime le risque de complications, l'influence de la dose et de la durée, puis le coût économique associé pour le système de santé allemand. Le promoteur est GSK.",
+ "interet": "Elle chiffre le risque des corticoïdes au long cours dans plusieurs maladies, ce qui peut appuyer la réduction de leur usage au profit d'alternatives, notamment en maladies systémiques.",
+ "profil": "Des adultes allemands ayant une maladie inflammatoire chronique, exposés ou non à des corticoïdes systémiques.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic prévalent de l'une des pathologies suivies",
+  "Au moins 2 ans d'observation avant l'inclusion",
+  "Témoins : mêmes critères, sans corticoïdes systémiques"
+ ],
+ "exclusion": [
+  "Événement indésirable défini lié aux corticoïdes dans les 2 ans précédant l'inclusion",
+  "Antécédent de cancer du sein ou prescription de tamoxifène"
+ ],
+ "bras": [
+  {
+   "nom": "Pathologie avec corticoïdes systémiques",
+   "traitement": "Patients exposés aux corticoïdes systémiques (asthme, BPCO, rhumatismes, lupus, vascularites, GEPA, rhinosinusite chronique, Crohn, rectocolite)"
+  },
+  {
+   "nom": "Témoins appariés",
+   "traitement": "Même pathologie, sans corticoïdes systémiques"
+  }
+ ],
+ "duree": "Données rétrospectives de 2007 à 2022 ; aucune visite",
+ "critere": "Pourcentage de patients ayant un événement indésirable spécifique ou quelconque, avec et sans exposition aux corticoïdes systémiques."
+}

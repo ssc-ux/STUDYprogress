@@ -1,0 +1,32 @@
+{
+ "h": "5dce7636b1d1",
+ "date": "2026-11-14",
+ "titre": "Obinutuzumab bêta et corticothérapie courte dans la glomérulonéphrite à ANCA récente",
+ "question": "L'obinutuzumab bêta associé à une décroissance rapide des corticoïdes permet-il d'obtenir la rémission complète à 24 semaines dans la glomérulonéphrite à ANCA récente ?",
+ "contexte": "Les vascularites associées aux ANCA (granulomatose avec polyangéite, polyangéite microscopique) touchent fréquemment le rein, avec une glomérulonéphrite nécrosante pauci-immune parfois rapidement progressive. Le traitement d'induction repose sur le rituximab ou le cyclophosphamide associé aux corticoïdes.\n\nLes fortes doses de corticoïdes sont responsables d'une part importante de la morbidité : infections, diabète, fractures, complications cardiovasculaires. Plusieurs études, dont l'essai PEXIVAS, ont montré que des schémas à doses réduites sont aussi efficaces et mieux tolérés, et l'on cherche à limiter encore l'exposition aux corticoïdes.\n\nL'obinutuzumab est un anticorps anti-CD20 de type II, glycoconstruit, qui déplète les lymphocytes B plus profondément que le rituximab dans certains contextes (par exemple dans la néphrite lupique). Cette étude exploratoire chinoise de phase 2 est menée à l'hôpital général de l'armée populaire de libération (PLA, Pékin). Vingt adultes avec une glomérulonéphrite à ANCA récente (anti-PR3 ou anti-MPO) reçoivent l'obinutuzumab bêta par voie intraveineuse en induction avec une décroissance rapide des corticoïdes, visant leur arrêt complet à la semaine 24. Le critère principal est le taux de rémission complète à la semaine 24.",
+ "interet": "Si le taux de rémission est satisfaisant, ce schéma pourrait justifier un essai comparatif pour réduire fortement l'exposition aux corticoïdes dans la glomérulonéphrite à ANCA.",
+ "profil": "Des adultes avec une vascularite à ANCA (GPA ou PAM) nouvellement diagnostiquée et une atteinte rénale active.",
+ "inclusion": [
+  "Nouveau diagnostic de GPA ou de PAM selon les définitions de Chapel Hill",
+  "ANCA anti-PR3 ou anti-MPO positifs",
+  "Atteinte rénale active : biopsie (glomérulonéphrite nécrosante ou à croissants pauci-immune) ou sédiment urinaire actif (hématurie glomérulaire et protéinurie)",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Traitement antérieur par anti-lymphocytes B (rituximab) ou par cyclophosphamide, azathioprine ou mycophénolate pour la vascularite",
+  "Dialyse en cours ou antérieure",
+  "Autre manifestation menaçant le pronostic vital (hémorragie alvéolaire diffuse, détresse respiratoire, perforation digestive, vascularite cérébrale)",
+  "Cancer dans les 5 dernières années",
+  "Autre maladie auto-immune multisystémique (lupus, maladie anti-MBG)",
+  "Infection sévère active, tuberculose active, VHB, VHC actif ou VIH",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Obinutuzumab bêta plus corticoïdes",
+   "traitement": "Obinutuzumab bêta par perfusion IV en induction, avec corticoïdes oraux en décroissance rapide jusqu'à l'arrêt à la semaine 24"
+  }
+ ],
+ "duree": "Environ 24 semaines de traitement, suivi total non précisé",
+ "critere": "Taux de rémission complète à 6 mois (semaine 24)"
+}

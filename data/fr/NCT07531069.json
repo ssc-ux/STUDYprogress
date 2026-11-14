@@ -1,0 +1,30 @@
+{
+ "h": "26c0a339e4cd",
+ "date": "2026-11-14",
+ "titre": "Anticorps anti-interféron gamma et dexaméthasone dans le LHH secondaire réfractaire de l'adulte",
+ "question": "Un anticorps monoclonal anti-interféron gamma associé à la dexaméthasone est-il efficace et sûr dans le lymphohistiocytose hémophagocytaire secondaire réfractaire de l'adulte ?",
+ "contexte": "Le syndrome d'activation macrophagique ou lymphohistiocytose hémophagocytaire (LHH) secondaire est une tempête cytokinique grave, déclenchée par une infection, un cancer ou une maladie auto-immune. Son diagnostic repose sur les critères HLH-2004. Le traitement associe corticoïdes, étoposide, ciclosporine ou ruxolitinib selon les cas, mais une partie des patients reste réfractaire, avec une mortalité élevée.\n\nL'interféron gamma est la cytokine centrale de la physiopathologie de la LHH. L'émapalumab, un anticorps anti-interféron gamma, est approuvé dans la LHH primitive et dans le syndrome d'activation macrophagique associé à la maladie de Still. Ses données dans les LHH secondaires de l'adulte sont limitées.\n\nCette étude observationnelle chinoise (Hôpital Huadong, Université Fudan) suit 22 adultes dont la LHH n'a pas répondu après au moins 2 semaines de traitement de première ou deuxième ligne. Ils reçoivent l'anticorps anti-IFN-γ en perfusion selon le poids, avec de la dexaméthasone, jusqu'à 8 semaines.",
+ "interet": "Elle pourrait étayer l'usage d'un anti-IFN-γ dans les LHH secondaires réfractaires de l'adulte, en l'absence de groupe comparateur et sur un effectif réduit.",
+ "profil": "Des adultes atteints de LHH secondaire réfractaire.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LHH secondaire confirmée selon HLH-2004",
+  "LHH réfractaire : réponse insuffisante ou progression après ≥ 2 semaines de traitement standard",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Infection active à mycobactéries, histoplasme, CMV, zona ou VIH",
+  "Fraction d'éjection du ventricule gauche < 50 %",
+  "Autre traitement antinéoplasique ou expérimental concomitant",
+  "Autre infection non contrôlée",
+  "Troubles psychiatriques ou mauvaise observance"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe d'observation",
+   "traitement": "Anticorps monoclonal anti-IFN-γ en perfusion selon le poids, plus dexaméthasone, jusqu'à 8 semaines"
+  }
+ ],
+ "duree": "Jusqu'à 8 semaines",
+ "critere": "Taux de réponse globale jusqu'à 8 semaines après le début du traitement"
+}

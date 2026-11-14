@@ -1,0 +1,26 @@
+{
+ "h": "633a2688b8c7",
+ "date": "2026-11-14",
+ "titre": "Oligonucléotide antisens expérimental dans l'amylose AA : étude chez un patient",
+ "question": "Une injection sous-cutanée d'un oligonucléotide antisens dirigé contre la protéine SAA1 est-elle sûre et efficace chez un patient atteint d'amylose AA ?",
+ "contexte": "L'amylose AA est une complication de l'inflammation chronique (maladies auto-inflammatoires, polyarthrite, infections chroniques). La protéine sérique amyloïde A (SAA), produite en excès par le foie, se dépose sous forme de fibrilles, surtout dans le rein, avec risque d'insuffisance rénale terminale.\n\nLe traitement repose sur le contrôle de la maladie inflammatoire causale, par exemple par anti-IL-1 ou anti-IL-6, pour faire baisser la SAA. Chez certains patients, la SAA reste élevée malgré le traitement, et il n'existe pas de traitement ciblant directement la production de SAA.\n\nCet essai de phase 1 d'un seul patient, mené à la Mayo Clinic, teste le nL-SAA1-01, un oligonucléotide antisens dont le but est de réduire la synthèse hépatique de SAA1, administré par voie sous-cutanée. Le patient devait avoir une amylose AA prouvée par biopsie et une maladie mesurable. L'objectif principal est la tolérance sur un an.",
+ "interet": "Il s'agit d'une approche individualisée de type « n-of-1 » pour une maladie rare sans traitement ciblé. Les résultats chez un seul patient ne permettent pas de conclure, mais peuvent guider de futurs essais.",
+ "profil": "Un adulte ayant une amylose AA prouvée par biopsie et une maladie mesurable.",
+ "inclusion": [
+  "Amylose AA prouvée par biopsie",
+  "Maladie mesurable",
+  "Capacité à se rendre sur le site et à suivre les examens de suivi",
+  "Accès au dossier médical"
+ ],
+ "exclusion": [
+  "Toute situation empêchant, selon l'investigateur, le déroulement de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "nL-SAA1-01",
+   "traitement": "Oligonucléotide antisens expérimental nL-SAA1-01 en injection sous-cutanée ; dose et rythme non précisés"
+  }
+ ],
+ "duree": "1 an de suivi",
+ "critere": "Événements indésirables et événements indésirables graves sur 1 an."
+}

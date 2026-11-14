@@ -1,0 +1,36 @@
+{
+ "h": "d56dc8f3eded",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses de la gelée de Wharton dans la sclérodermie diffuse avec atteinte pulmonaire réfractaire",
+ "question": "Une perfusion de cellules stromales mésenchymateuses allogéniques est-elle sûre et bénéfique dans la sclérodermie diffuse avec atteinte pulmonaire réfractaire ?",
+ "contexte": "La sclérodermie systémique évolutive reste de pronostic sévère. Jusqu'à 20 % des patients résistent aux traitements conventionnels (immunosuppresseurs, cyclophosphamide) et évoluent vers des atteintes viscérales, notamment pulmonaires et hypertension pulmonaire, associées à une surmortalité.\n\nLes cellules stromales mésenchymateuses de la gelée de Wharton (cordon ombilical) ont des propriétés immunomodulatrices. Elles ont été administrées par voie intraveineuse dans diverses situations, dont les pneumopathies interstitielles et l'hypertension pulmonaire, avec un profil de tolérance favorable ; la fièvre spontanément résolutive est l'événement le plus fréquent.\n\nCet essai de phase 1/2 colombien, à un seul bras, prévoyait de traiter trois patients (un seul inclus) atteints de sclérodermie diffuse en échec de cyclophosphamide, avec hypertension pulmonaire. Les cellules sont données à 2 × 10⁶ par kg, 10 jours après chaque cure de cyclophosphamide. Une cohorte historique sert de comparaison. Le suivi de 6 mois évalue la fonction respiratoire, la DLCO, le test de marche, l'hémodynamique, la tomodensitométrie et la qualité de vie.",
+ "interet": "Il s'agit d'une exploration de sécurité et de faisabilité sur un seul patient. Aucune conclusion d'efficacité ne peut en être tirée.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie diffuse sévère avec atteinte pulmonaire réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Sclérodermie systémique (critères ACR)",
+  "Atteinte viscérale grave (cardiaque ou hypertension pulmonaire) ou échec du cyclophosphamide IV à forte dose",
+  "Consentement signé",
+  "Donneur de cellules consentant"
+ ],
+ "exclusion": [
+  "Grossesse ou absence de contraception",
+  "PAPs > 75 mmHg ou DLCO théorique < 30 %",
+  "Clairance de la créatinine < 30 mL/min",
+  "FEVG < 35 %, insuffisance cardiaque réfractaire ou arythmie ventriculaire non contrôlée",
+  "Atteinte hépatique, insuffisance médullaire, néoplasie active ou antécédent",
+  "Infection non contrôlée, VIH, HTLV, hépatite B ou C active"
+ ],
+ "bras": [
+  {
+   "nom": "Cellules de la gelée de Wharton",
+   "traitement": "Cellules stromales mésenchymateuses allogéniques IV, 2 × 10⁶/kg, après chaque cure de cyclophosphamide"
+  },
+  {
+   "nom": "Contrôle historique",
+   "traitement": "Patients historiques comparables"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Fonction respiratoire, DLCO, capacité d'exercice, hémodynamique cardio-pulmonaire, qualité de vie et atteinte parenchymateuse pulmonaire avant et après 6 mois"
+}

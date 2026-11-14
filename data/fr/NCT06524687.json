@@ -1,0 +1,28 @@
+{
+ "h": "d6ef6a95ed75",
+ "date": "2026-11-14",
+ "titre": "Imvotamab dans les myopathies inflammatoires idiopathiques actives et réfractaires",
+ "question": "L'imvotamab, un anticorps bispécifique anti-CD20/CD3, est-il bien toléré chez des patients atteints de myopathie inflammatoire active malgré les traitements ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, polymyosite, syndrome des antisynthétases, myopathie nécrosante auto-immune) sont des maladies rares. Les corticoïdes, les immunosuppresseurs, les immunoglobulines et le rituximab ne contrôlent pas la maladie chez tous les patients, ce qui laisse un besoin médical non couvert.\n\nLes lymphocytes B et leurs auto-anticorps participent à la physiopathologie. L'imvotamab est un anticorps IgM bispécifique ciblant CD20 et CD3, destiné à déplétionner les lymphocytes B tout en les éliminant par recrutement des lymphocytes T, y compris dans les tissus.\n\nCet essai de phase 1b, ouvert, à bras unique, promu par IGM Biosciences, évalue la sécurité, la tolérance, la pharmacocinétique et la pharmacodynamie de l'imvotamab par voie intraveineuse, en escalade de dose. Il devait inclure 5 à 10 adultes ayant une myopathie inflammatoire modérée à sévère, en échec d'au moins un traitement de fond.\n\nL'étude a été arrêtée après l'inclusion de 2 patients.",
+ "interet": "Elle explore une déplétion B profonde par anticorps bispécifique, mais l'arrêt précoce du développement limite l'intérêt pratique de ses résultats.",
+ "profil": "Des adultes ayant une myopathie inflammatoire idiopathique modérée à sévère, active malgré le traitement.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Myopathie inflammatoire probable ou certaine (critères EULAR/ACR 2017) : dermatomyosite, polymyosite, antisynthétases ou myopathie nécrosante",
+  "Maladie active malgré corticoïdes et au moins un immunosuppresseur ou immunomodulateur pendant ≥ 3 mois",
+  "Corticoïdes oraux, le cas échéant, à dose stable ≤ 30 mg/j de prednisone depuis ≥ 4 semaines"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse jusqu'à 3 mois après la dernière dose",
+  "Traitement expérimental dans les 12 semaines (ou 5 demi-vies) précédentes",
+  "Myosite à inclusions ou myosite associée à une autre connectivite"
+ ],
+ "bras": [
+  {
+   "nom": "Imvotamab (escalade de dose)",
+   "traitement": "Imvotamab par voie intraveineuse, doses croissantes ; schéma non précisé"
+  }
+ ],
+ "duree": "Jusqu'à 50 semaines",
+ "critere": "Sécurité et tolérance de l'imvotamab, jusqu'à la semaine 50."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "248cf5ee5836",
+ "date": "2026-11-14",
+ "titre": "SHR-2173 en injections sous-cutanées dans le purpura thrombopénique immunologique primaire",
+ "question": "Des injections sous-cutanées répétées de SHR-2173 sont-elles bien tolérées chez les adultes atteints de PTI primaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une thrombopénie auto-immune. Après les corticoïdes, les options comprennent les agonistes du récepteur de la thrombopoïétine, le rituximab, la splénectomie et des immunosuppresseurs, mais une partie des patients rechute ou reste sans réponse, d'où le développement de nouvelles molécules.\n\nLe SHR-2173 est un produit injectable développé par Hengrui ; son mécanisme n'est pas précisé dans le registre.\n\nCette étude chinoise de phase 1, monobras, inclut 10 adultes ayant un PTI de plus de 3 mois et des plaquettes < 30 G/L, déjà traités par corticoïdes. Elle évalue la tolérance et la sécurité (événements indésirables, anomalies biologiques) sur environ 9 mois.",
+ "interet": "Phase précoce de tolérance d'une nouvelle injection sous-cutanée dans le PTI ; aucune conclusion d'efficacité n'est attendue.",
+ "profil": "Des adultes atteints de PTI primaire de plus de 3 mois, déjà traités par corticoïdes, avec thrombopénie sévère.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "PTI primaire depuis au moins 3 mois",
+  "Corticothérapie antérieure ; dernier traitement : perte de rémission, absence de rémission, rechute ou intolérance",
+  "Plaquettes < 30 G/L au dépistage, traitement jugé nécessaire",
+  "Fonction d'organes adéquate, état clinique stable, saignement OMS 0-1",
+  "Contraception selon le protocole"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire ou AHAI associée",
+  "Transfusion plaquettaire, échange plasmatique ou traitement d'urgence dans les 14 jours",
+  "Immunosuppresseurs (anti-JAK, anti-BTK) récents",
+  "Traitement antérieur par SHR-2173",
+  "Anomalie de coagulation, antiagrégants ou anticoagulants (hors aspirine à faible dose)",
+  "Événement thrombotique ou embolique dans les 12 mois",
+  "Saignement menaçant ; infection active",
+  "Vaccin vivant dans les 8 semaines ; syndrome myélodysplasique"
+ ],
+ "bras": [
+  {
+   "nom": "SHR-2173",
+   "traitement": "Injections sous-cutanées répétées de SHR-2173 ; dose non précisée"
+  }
+ ],
+ "duree": "Environ 9 mois",
+ "critere": "Incidence et gravité des événements indésirables (dont graves et d'intérêt particulier) et anomalies biologiques, vers le 9e mois."
+}

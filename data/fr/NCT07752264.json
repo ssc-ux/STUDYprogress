@@ -1,0 +1,37 @@
+{
+ "h": "d9a022c7f1fc",
+ "date": "2026-11-14",
+ "titre": "CAR-T BCMA (équécabtagène autoleucel) dans la myopathie nécrosante à médiation immune réfractaire",
+ "question": "L'équécabtagène autoleucel (Eque-cel) est-il sûr et efficace dans la myopathie nécrosante à médiation immune réfractaire ?",
+ "contexte": "La myopathie nécrosante à médiation immune (MNMI) est une myopathie inflammatoire rare, associée aux auto-anticorps anti-SRP ou anti-HMGCR, caractérisée par une faiblesse proximale sévère et des CPK très élevées. Le traitement repose sur les corticoïdes, les immunoglobulines IV, les immunosuppresseurs et le rituximab.\n\nUne partie des patients reste en échec ou rechute malgré ces traitements, avec une perte de force durable, une atrophie musculaire et un handicap. Les auto-anticorps étant produits par les plasmocytes, il est logique de cibler ces cellules, qui échappent en partie au rituximab.\n\nL'équécabtagène autoleucel est un CAR-T anti-BCMA déjà développé dans le myélome, qui cible les plasmocytes. Cette étude de phase 1/2 chinoise, ouverte et à un seul bras, promue par Nanjing IASO Biotechnology, inclut 27 adultes de 18 ans et plus atteints de MNMI réfractaire active, avec anticorps anti-SRP ou anti-HMGCR. Une perfusion unique est administrée à 1,0 ou 0,5 million de cellules/kg après lymphodéplétion (cyclophosphamide, fludarabine). La phase 1 recherche la dose recommandée et la tolérance ; la phase 2 confirme l'efficacité sur un score de réponse (TIS). Le suivi est de 2 ans, puis à long terme jusqu'à 15 ans.",
+ "interet": "L'étude pourrait donner une première évaluation d'un CAR-T anti-BCMA dans la MNMI réfractaire, maladie sans option thérapeutique satisfaisante.",
+ "profil": "Des adultes atteints de myopathie nécrosante à médiation immune réfractaire, avec anticorps anti-SRP ou anti-HMGCR.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Diagnostic clinique de MNMI selon les critères ENMC 2016",
+  "Anticorps anti-SRP ou anti-HMGCR positifs",
+  "MNMI réfractaire (échec ou rechute après traitement standard) et active",
+  "Fonction d'organe adéquate",
+  "Contraception efficace jusqu'à 1 an après la perfusion",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Myosite terminale avec atteinte d'organes terminaux, atteinte musculaire irréversible ou atrophie sévère",
+  "Pneumopathie interstitielle ou autre manifestation non contrôlée",
+  "Autre myopathie inflammatoire ou non inflammatoire, autre maladie auto-immune interférant",
+  "Greffe d'organe ou de cellules souches, traitement antérieur anti-BCMA",
+  "Déficit immunitaire connu, infection active non contrôlée",
+  "VHB actif, VHC, VIH, CMV ou syphilis positifs",
+  "Maladie cardiaque grave, asthme ou BPCO sévère, accident cérébrovasculaire dans les 6 mois",
+  "Cancer dans les 5 ans",
+  "Allergie au cyclophosphamide, à la fludarabine, au produit ou au tocilizumab, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Eque-cel",
+   "traitement": "Perfusion unique IV de CAR-T à 1,0 ou 0,5 million de cellules/kg après lymphodéplétion"
+  }
+ ],
+ "duree": "Suivi principal de 2 ans, puis suivi à long terme jusqu'à 15 ans",
+ "critere": "Phase 1 : événements indésirables (jusqu'à 2 ans) et toxicités limitant la dose (28 jours). Phase 2 : réponse selon le score TIS dans les 2 ans suivant la perfusion"
+}

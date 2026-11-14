@@ -1,0 +1,35 @@
+{
+ "h": "dd6576b1f94c",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-GPRC5D dans le myélome en rechute et l'amylose AL",
+ "question": "Les lymphocytes CAR-T dirigés contre GPRC5D sont-ils sûrs et actifs dans le myélome en rechute/réfractaire et l'amylose AL réfractaire ?",
+ "contexte": "Le myélome multiple en rechute ou réfractaire après exposition aux inhibiteurs du protéasome, aux immunomodulateurs et aux anti-CD38 garde un pronostic défavorable. Les CAR-T anti-BCMA ont changé la prise en charge, mais des rechutes surviennent, notamment par perte de l'antigène, d'où l'intérêt d'autres cibles.\n\nGPRC5D est un récepteur exprimé à la surface des plasmocytes malins et peu dans les tissus sains. Il est la cible de plusieurs thérapies cellulaires et bispécifiques en développement. L'amylose AL, issue d'un clone plasmocytaire, pourrait bénéficier de la même approche lorsque les lignes précédentes ont échoué.\n\nCet essai de phase 1a/b ouvert de l'Hadassah Medical Organization (Israël) comporte une escalade de dose (50, 150, 300 ou 450 × 10^6 cellules en perfusion unique), puis une expansion à la dose maximale tolérée.",
+ "interet": "Il pourrait fournir une nouvelle option de thérapie cellulaire chez des patients en impasse thérapeutique, myélome ou amylose AL, avec un premier signal de sécurité et d'efficacité.",
+ "profil": "Des adultes avec un myélome en rechute/réfractaire ou une amylose AL, déjà fortement prétraités.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "Myélome ou amylose AL en rechute/réfractaire avec maladie mesurable",
+  "Myélome : ≥ 3 lignes dont inhibiteur du protéasome, IMiD et anti-CD38",
+  "Amylose AL : 2 lignes dont inhibiteur du protéasome et anti-CD38",
+  "ECOG 0 à 2",
+  "Lymphocytes > 0,3 × 10^9/L"
+ ],
+ "exclusion": [
+  "Atteinte volumineuse du système nerveux central",
+  "Fonction hépatique, rénale (clairance < 20 ml/min) ou médullaire inadéquate",
+  "FEVG < 40 %",
+  "Immunosuppresseur chronique ou corticoïdes systémiques",
+  "VIH, hépatite B ou C active, infection active à CMV",
+  "Événement cardiovasculaire ou arythmie récents",
+  "Autre cancer traité dans les 2 ans",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T GPRC5D",
+   "traitement": "Perfusion unique de 50, 150, 300 ou 450 × 10^6 cellules CAR-T en phase 1a, puis dose maximale tolérée en phase 1b"
+  }
+ ],
+ "duree": "24 mois après la perfusion",
+ "critere": "Incidence des événements indésirables graves liés au traitement et des événements d'intérêt particulier à 24 mois ; dose maximale tolérée à 21 jours (phase 1a)."
+}

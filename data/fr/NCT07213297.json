@@ -1,0 +1,26 @@
+{
+ "h": "62be7d770ecb",
+ "date": "2026-11-14",
+ "titre": "Programme global sur l'amylose héréditaire à transthyrétine",
+ "question": "Quels sont les phénotypes, les facteurs d'évolution et les critères minimaux d'apparition de l'amylose héréditaire à transthyrétine ?",
+ "contexte": "L'amylose héréditaire à transthyrétine (ATTRv) est une maladie progressive, potentiellement mortelle, liée à des variants pathogènes du gène TTR qui entraînent le dépôt de fibrilles amyloïdes dans plusieurs organes, notamment nerfs et cœur. Le diagnostic est souvent tardif et la présentation varie selon le variant.\n\nLes traitements ciblant la TTR (stabilisateurs, silenceurs d'ARN) rendent essentiel un dépistage précoce des porteurs et un suivi structuré. Les données de cohortes en Amérique latine restent limitées.\n\nCette cohorte prospective de l'Hospital de Alta Complejidad en Red (hôpital Néstor Kirchner, Argentine) inclut 20 adultes porteurs d'un variant pathogène de TTR, symptomatiques ou non. Elle comprend un test génétique financé par des laboratoires pharmaceutiques, des évaluations cliniques et des examens complémentaires, afin de classer les phénotypes, d'analyser les facteurs de progression et de définir des critères minimaux de début de maladie.",
+ "interet": "Les résultats pourraient aider à structurer le suivi des porteurs et des patients atteints d'ATTRv, et à repérer plus tôt le début de la maladie. L'effectif est petit.",
+ "profil": "Des adultes porteurs d'un variant pathogène du gène TTR, symptomatiques ou asymptomatiques.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Variant pathogène du gène TTR (amylose héréditaire) confirmé par test génétique",
+  "Patients symptomatiques ou porteurs asymptomatiques"
+ ],
+ "exclusion": [
+  "Amylose à TTR de type sauvage",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes avec amylose héréditaire à TTR",
+   "traitement": "Évaluations cliniques et examens complémentaires ; test génétique"
+  }
+ ],
+ "duree": "3 ans",
+ "critere": "Classification phénotypique des patients, sur 3 ans."
+}

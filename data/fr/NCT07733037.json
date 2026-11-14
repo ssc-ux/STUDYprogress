@@ -1,0 +1,37 @@
+{
+ "h": "efbff922f211",
+ "date": "2026-11-14",
+ "titre": "Transplantation de microbiote fécal dans le PTI corticorésistant ou en rechute",
+ "question": "La transplantation de microbiote fécal en gélules augmente-t-elle les plaquettes chez des adultes atteints de PTI chronique corticorésistant ou en rechute ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps et des lymphocytes T détruisent les plaquettes. Les corticoïdes sont le traitement de première ligne, mais une proportion importante de patients est corticorésistante ou rechute à la décroissance.\n\nEn seconde ligne, on utilise les agonistes du récepteur de la thrombopoïétine, le rituximab, les immunosuppresseurs ou la splénectomie. Ces options ne sont pas toujours efficaces ou tolérées, d'où l'intérêt de pistes nouvelles.\n\nDes données suggèrent que le microbiote intestinal est altéré dans le PTI et module la tolérance immunitaire, notamment l'équilibre des lymphocytes T régulateurs. La transplantation de microbiote fécal (TMF) pourrait donc corriger ce déséquilibre. Cet essai de phase 2, randomisé en quadruple aveugle, est mené à l'hôpital universitaire de Pékin. Quarante-deux adultes avec un PTI chronique corticorésistant ou en rechute sont répartis 2:1 entre TMF et placebo, après une préparation intestinale, pendant 6 jours sous forme de gélules. Le critère principal est le taux de réponse globale à la semaine 12.",
+ "interet": "Si elle est efficace, la TMF orale pourrait devenir une option non immunosuppressive en seconde ligne du PTI, à confirmer par des études plus larges.",
+ "profil": "Des adultes de 18 à 70 ans atteints de PTI chronique corticorésistant ou en rechute, avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "PTI diagnostiqué, évoluant depuis au moins 12 mois",
+  "Corticorésistance (plaquettes inférieures à 30 G/L après au moins 4 semaines de corticoïdes) ou rechute (plaquettes de nouveau inférieures à 30 G/L à la décroissance)",
+  "Plaquettes durablement inférieures à 30 G/L au dépistage",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (médicaments, infection, autres maladies auto-immunes comme le lupus)",
+  "Infection à Helicobacter pylori (nouveau dépistage après éradication)",
+  "Infection active ou antibiothérapie systémique dans les 4 semaines",
+  "Insuffisance cardiaque, hépatique (Child-Pugh C) ou rénale sévère (DFG inférieur à 30)",
+  "Antécédent de cancer ou d'immunodéficience primitive",
+  "Grossesse ou allaitement",
+  "Splénectomie, rituximab ou échanges plasmatiques dans les 3 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Transplantation de microbiote fécal",
+   "traitement": "Préparation intestinale puis gélules de microbiote fécal pendant 6 jours"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Préparation intestinale puis gélules de placebo pendant 6 jours"
+  }
+ ],
+ "duree": "Réponse évaluée à la semaine 12 ; suivi total non précisé",
+ "critere": "Taux de réponse globale à la semaine 12 (plaquettes supérieures à 50 G/L avec une augmentation d'au moins 30 G/L par rapport à l'inclusion)"
+}

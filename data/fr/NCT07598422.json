@@ -1,0 +1,27 @@
+{
+ "h": "8a6c05110c5d",
+ "date": "2026-11-14",
+ "titre": "Canakinumab dans le syndrome de Schnitzler en pratique clinique (étude de surveillance au Japon)",
+ "question": "Le canakinumab est-il efficace et bien toléré chez les patients atteints de syndrome de Schnitzler en pratique clinique ?",
+ "contexte": "Le syndrome de Schnitzler est une maladie auto-inflammatoire rare de l'adulte, associant une urticaire chronique, une gammapathie monoclonale (le plus souvent IgM), de la fièvre, des douleurs osseuses et articulaires et un syndrome inflammatoire. Le mécanisme implique une surproduction d'interleukine-1.\n\nLe canakinumab est un anticorps anti-interleukine-1 bêta (Ilaris). Dans ce syndrome, le blocage de l'IL-1 permet en général une réponse rapide et marquée des symptômes. Cette étude observationnelle, promue par Novartis, est une étude de résultats d'utilisation spécifiée, avec une forme sous-cutanée d'Ilaris. Son intitulé évoque un cadre réglementaire de suivi après commercialisation.\n\nElle inclut les patients atteints de syndrome de Schnitzler traités pour la première fois par canakinumab selon la notice. Sont exclus les patients traités pour d'autres indications (CAPS, fièvre méditerranéenne familiale, Still, etc.) ou hors AMM dans un essai. L'effectif prévu est de 10 patients.",
+ "interet": "Elle documentera l'efficacité et la tolérance du canakinumab hors essai, dans une maladie très rare. Les données serviront à la surveillance après commercialisation.",
+ "profil": "Des patients atteints de syndrome de Schnitzler débutant le canakinumab selon l'indication de la notice.",
+ "inclusion": [
+  "Syndrome de Schnitzler diagnostiqué",
+  "Première utilisation du canakinumab dans cette indication, conformément à la notice",
+  "Patients ayant débuté avant la signature du contrat d'étude également inclus"
+ ],
+ "exclusion": [
+  "Patients déjà traités par canakinumab dans l'étude IACT21071",
+  "Canakinumab pour une autre indication (CAPS, déficit en mévalonate kinase, TRAPS, fièvre méditerranéenne familiale, Still juvénile systémique ou de l'adulte)",
+  "Usage hors AMM dans un cadre d'essai ou de soins proposés par le patient"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte canakinumab",
+   "traitement": "Canakinumab sous-cutané (Ilaris) dans le syndrome de Schnitzler, selon la pratique clinique"
+  }
+ ],
+ "duree": "48 semaines de suivi par patient",
+ "critere": "Proportion de patients en réponse clinique complète entre le jour 7 et la semaine 8 après la première dose"
+}

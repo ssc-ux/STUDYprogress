@@ -1,0 +1,27 @@
+{
+ "h": "ab2d0e9523d6",
+ "date": "2026-11-14",
+ "titre": "CARDIO-TTRansform : sous-étude IRM de la charge amyloïde sous eplontersen",
+ "question": "L'eplontersen réduit-il le volume extracellulaire myocardique mesuré par IRM par rapport au placebo dans l'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est due au dépôt de fibrilles dans le myocarde, avec insuffisance cardiaque progressive. L'eplontersen est un oligonucléotide antisens qui réduit la production hépatique de transthyrétine ; il est évalué dans l'essai de phase 3 CARDIO-TTRansform (NCT04136171, Ionis et AstraZeneca) sur les événements cardiovasculaires et la mortalité.\n\nCette sous-étude d'imagerie concerne jusqu'à 150 participants de l'essai principal (160 inclus) dans 11 centres. L'IRM cardiaque est réalisée à l'inclusion puis aux semaines 25, 49, 97 et 140. Le volume extracellulaire (ECV), reflet de la charge amyloïde, est comparé entre les groupes eplontersen et placebo. Les critères d'exclusion sont ceux de l'IRM (contre-indication, produit de contraste, orthopnée sévère, morphologie).",
+ "interet": "Elle pourrait montrer si le traitement réduit ou stabilise la charge amyloïde myocardique, un résultat mécanistique complémentaire de l'essai principal.",
+ "profil": "Des adultes de 18 à 90 ans atteints d'amylose cardiaque à transthyrétine, inclus dans l'essai CARDIO-TTRansform.",
+ "inclusion": [
+  "Répondre à tous les critères d'inclusion de l'essai principal ION-682884-CS2",
+  "Consentement à la sous-étude IRM"
+ ],
+ "exclusion": [
+  "Contre-indication ou sensibilité aux produits de contraste de l'IRM",
+  "Orthopnée empêchant la position couchée",
+  "Poids ou périmètre dépassant les limites de l'appareil",
+  "Autre contre-indication à l'IRM cardiaque"
+ ],
+ "bras": [
+  {
+   "nom": "Sous-groupe IRM de l'essai principal",
+   "traitement": "Participants recevant eplontersen ou placebo dans l'essai principal, avec IRM cardiaque à l'inclusion et aux semaines 25, 49, 97 et 140"
+  }
+ ],
+ "duree": "140 semaines",
+ "critere": "Variation du pourcentage de volume extracellulaire (ECV) à l'IRM entre l'inclusion et la semaine 140, selon le groupe de traitement."
+}

@@ -1,0 +1,30 @@
+{
+ "h": "35c4ee1d8edc",
+ "date": "2026-11-14",
+ "titre": "Édition génique et cellules iPS pour étudier et traiter les maladies auto-inflammatoires monogéniques (SAVI)",
+ "question": "Peut-on modéliser le SAVI avec des cellules iPS de patients et corriger la mutation par édition génique ?",
+ "contexte": "Les interféronopathies de type I sont des maladies auto-inflammatoires rares caractérisées par un excès de signalisation de l'interféron de type I, avec inflammation multisystémique touchant la peau et le poumon. Le SAVI (vasculopathie associée à STING, début dans l'enfance) est une forme à transmission autosomique dominante, avec inflammation systémique sévère, ulcérations cutanées et pneumopathie interstitielle progressive.\n\nLes traitements actuels, notamment les inhibiteurs de JAK, sont souvent insuffisants. Cette étude exploratoire de l'Istituto Giannina Gaslini (Gênes) produit des cellules souches pluripotentes induites (iPSC) à partir de patients SAVI ou COPA, de témoins avec autre maladie auto-inflammatoire et de témoins sains, puis les différencie en cellules somatiques et en organoïdes 3D.\n\nL'objectif est d'étudier le rôle de STING1 dans les cellules non hématopoïétiques et de tester la faisabilité et l'efficacité de la correction de la mutation par édition génique, comme preuve de concept pour de futures thérapies ciblées.",
+ "interet": "Il s'agit d'une recherche préclinique à partir de prélèvements : elle n'a pas d'impact direct sur la pratique, mais pourrait ouvrir la voie à des thérapies géniques ciblées du SAVI.",
+ "profil": "Des patients ayant un SAVI ou un syndrome COPA génétiquement confirmé, avec des témoins auto-inflammatoires et sains.",
+ "inclusion": [
+  "Patients : SAVI ou COPA confirmé génétiquement avec manifestations cliniques, âge ≥ 1 an",
+  "Témoins auto-inflammatoires : adultes ou sang de cordon, autre maladie auto-inflammatoire que SAVI ou COPA",
+  "Témoins sains : adultes ou sang de cordon, sans maladie chronique ni antécédent auto-immun, inflammatoire ou génétique",
+  "Consentement ou assentiment signé par le patient ou ses parents"
+ ],
+ "exclusion": [
+  "Consentement ou assentiment non signé (patients et témoins)"
+ ],
+ "bras": [
+  {
+   "nom": "Patient SAVI",
+   "traitement": "Prélèvement pour dériver des cellules iPS et organoïdes, avec édition génique"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Témoins auto-inflammatoires et sains, prélèvements pour comparaison"
+  }
+ ],
+ "duree": "Environ 2 ans d'étude",
+ "critere": "Génération d'un modèle d'interféronopathie de type I pour comprendre le rôle de STING1 dans les cellules non hématopoïétiques et explorer l'édition génique, en environ 2 ans."
+}

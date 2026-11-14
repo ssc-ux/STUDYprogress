@@ -1,0 +1,31 @@
+{
+ "h": "5e1f6a04a669",
+ "date": "2026-11-14",
+ "titre": "Double immunosuppression avec ou sans antifibrosant dans la PID de la sclérodermie",
+ "question": "Chez les patients sclérodermiques avec pneumopathie interstitielle diffuse (PID), ajouter un antifibrosant au MMF et au rituximab améliore-t-il la fonction respiratoire à 2 ans ?",
+ "contexte": "La pneumopathie interstitielle diffuse est la première cause de décès de la sclérodermie systémique, surtout dans les formes diffuses. Les traitements disponibles sont le mycophénolate mofétil (MMF), le cyclophosphamide, le rituximab, le tocilizumab et, en tant qu'antifibrosant, le nintédanib, qui ralentit le déclin de la CVF dans la SSc-ILD. Les stratégies associant immunosuppression et antifibrosant sont peu documentées.\n\nCette étude rétrospective monocentrique, menée au service de rhumatologie de l'hôpital universitaire de Patras (Grèce), inclut 35 patients ayant une fibrose pulmonaire en TDM thoracique et des EFR à 0, 6 et 12 mois. Elle compare la double immunosuppression (MMF + rituximab) à cette même association complétée d'un antifibrosant (nintédanib ou pirfénidone), avec analyse par test t de Student. Les auteurs font l'hypothèse que l'association est supérieure et affirment qu'aucune étude similaire n'existe.",
+ "interet": "Elle pourrait appuyer l'intérêt d'associer d'emblée un antifibrosant aux immunosuppresseurs, mais son design rétrospectif et son faible effectif limitent la portée des conclusions.",
+ "profil": "Des adultes atteints de sclérodermie avec pneumopathie interstitielle fibrosante, traités par MMF et rituximab.",
+ "inclusion": [
+  "Sclérodermie avec PID fibrosante documentée par TDM thoracique",
+  "Âge ≥ 18 ans",
+  "Double immunosuppression (MMF + rituximab) avec ou sans antifibrosant",
+  "EFR disponibles à 0, 6 et 12 mois"
+ ],
+ "exclusion": [
+  "Sclérodermie sans PID",
+  "Non précisé (autres critères)"
+ ],
+ "bras": [
+  {
+   "nom": "Double immunosuppression + antifibrosant",
+   "traitement": "MMF + rituximab + nintédanib ou pirfénidone"
+  },
+  {
+   "nom": "Double immunosuppression seule",
+   "traitement": "MMF + rituximab"
+  }
+ ],
+ "duree": "Comparaison à 2 ans après le début du traitement (données rétrospectives)",
+ "critere": "Évolution des explorations fonctionnelles respiratoires depuis l'inclusion jusqu'à la fin de l'étude."
+}

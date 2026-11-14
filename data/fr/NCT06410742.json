@@ -1,0 +1,33 @@
+{
+ "h": "09b50aaea593",
+ "date": "2026-11-14",
+ "titre": "Caractéristiques cliniques et biopsychosociales du syndrome de Sjögren primitif, y compris déglutition et mastication",
+ "question": "Quelles sont les caractéristiques cliniques, psychosociales, de douleur, de fatigue et de déglutition des patients atteints d'un syndrome de Sjögren primitif ?",
+ "contexte": "Le syndrome de Gougerot-Sjögren primitif est une maladie auto-immune touchant surtout les glandes exocrines. Au-delà de la sécheresse oculaire et buccale, les patients souffrent souvent de fatigue, de douleur chronique, d'anxiété et de dépression, qui pèsent fortement sur la qualité de vie.\n\nLa xérostomie et l'hyposialie peuvent aussi altérer la mastication et la déglutition, atteinte encore peu évaluée de façon objective. Les liens entre l'activité de la maladie, la sensibilisation centrale, la catastrophisation de la douleur et ces troubles fonctionnels sont mal connus.\n\nCette étude observationnelle transversale monocentrique turque, promue par l'université Kahramanmaraş Sütçü İmam, évalue chaque participant une seule fois, pendant environ une heure. Elle utilise des échelles validées (ESSDAI, ESSPRI, qualité de vie, sensibilisation centrale, catastrophisation de la douleur, HADS, fatigue multidimensionnelle) et des tests de déglutition (Yale, test de mastication et déglutition de solides, test de limite de dysphagie, inventaire de xérostomie).\n\nUn groupe de volontaires sains d'âge similaire sert de comparaison. Il n'y a aucune intervention thérapeutique.",
+ "interet": "Elle décrit des dimensions peu étudiées du Sjögren (douleur centrale, déglutition) qui pourraient orienter vers une prise en charge globale, notamment par la rééducation.",
+ "profil": "Des adultes atteints d'un syndrome de Sjögren primitif, comparés à des volontaires sains.",
+ "inclusion": [
+  "Syndrome de Sjögren primitif diagnostiqué",
+  "Âge ≥ 18 ans",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Syndrome de Sjögren secondaire",
+  "Autre maladie non contrôlée ou significative (BPCO, insuffisance cardiaque, maladie endocrinienne, neurologique, psychiatrique…)",
+  "Maladie maligne",
+  "Grossesse au troisième trimestre",
+  "Absence de consentement écrit"
+ ],
+ "bras": [
+  {
+   "nom": "Sjögren primitif",
+   "traitement": "Évaluation unique d'environ 1 heure par questionnaires et tests de déglutition, sans intervention"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Même évaluation, volontaires sans maladie, d'âge moyen similaire"
+  }
+ ],
+ "duree": "Une seule visite d'environ 1 heure",
+ "critere": "Scores à l'inclusion : questionnaire biopsychosocial BETY-BQ, évaluation de la déglutition (EAT-10 turc), xérostomie, fatigue, HADS, tests de mastication-déglutition et limite de dysphagie."
+}

@@ -1,0 +1,29 @@
+{
+ "h": "d598bd88e45f",
+ "date": "2026-11-14",
+ "titre": "TEP-TDM corps entier au 68Ga-FAPI dans le syndrome du sinus caverneux, comparée à la TEP au 18F-FDG",
+ "question": "La TEP-TDM au 68Ga-FAPI détecte-t-elle mieux les lésions du sinus caverneux et les sites de biopsie que la TEP au 18F-FDG quand l'IRM ne donne pas l'étiologie ?",
+ "contexte": "Le syndrome du sinus caverneux est un tableau hétérogène résultant de l'atteinte du sinus caverneux et des structures neurovasculaires qu'il contient. L'IRM avec injection est l'examen de référence, mais ne permet souvent pas de préciser l'étiologie : les lésions infectieuses (par exemple fongiques), inflammatoires (maladie liée aux IgG4) et tumorales ont des aspects voisins.\n\nLa biopsie directe du sinus caverneux est difficile et risquée. Le diagnostic repose donc souvent sur l'identification d'une extension contiguë ou d'une lésion extracrânienne plus facile à prélever.\n\nCette étude prospective observationnelle de l'institut PGIMER de Chandigarh (Inde) soumet 21 adultes à deux TEP-TDM corps entier à moins de 6 jours d'intervalle, au 18F-FDG et au 68Ga-FAPI-46, avant tout traitement spécifique. Elle compare la détection des lésions, l'extension locorégionale et extracrânienne, les paramètres quantitatifs (SUVmax, rapport cible/bruit de fond) et l'aide au choix de la biopsie. Un suivi après traitement est prévu.",
+ "interet": "Elle pourrait montrer l'intérêt de la TEP-FAPI pour orienter la biopsie et le diagnostic étiologique des lésions du sinus caverneux restées indéterminées après IRM.",
+ "profil": "Des adultes avec un syndrome du sinus caverneux dont l'IRM n'a pas établi la cause.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Syndrome du sinus caverneux : ≥ 2 nerfs crâniens (III, IV, V1, V2, VI) atteints du même côté, ou 1 nerf avec lésion du sinus caverneux confirmée à l'imagerie",
+  "IRM avec injection montrant une lésion du sinus caverneux sans diagnostic étiologique",
+  "Pas de traitement étiologique avant les deux TEP-TDM",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Refus ou impossibilité de consentir",
+  "Hyperglycémie non contrôlée empêchant la TEP au 18F-FDG"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec syndrome du sinus caverneux d'étiologie indéterminée",
+   "traitement": "TEP-TDM au 68Ga-FAPI-46 et TEP-TDM au 18F-FDG à moins de 6 jours d'intervalle"
+  }
+ ],
+ "duree": "Deux examens à moins de 6 jours, puis suivi après traitement",
+ "critere": "Performance diagnostique de la TEP-TDM au 68Ga-FAPI pour détecter les lésions du sinus caverneux, comparée à la TEP-TDM au 18F-FDG appariée, avant tout traitement."
+}

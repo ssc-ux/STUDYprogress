@@ -1,0 +1,44 @@
+{
+ "h": "a3b278ce44a1",
+ "date": "2026-11-14",
+ "titre": "Application et objets connectés pour suivre les symptômes de maladies rares",
+ "question": "Une application co-conçue avec les patients, associée à des objets connectés, est-elle acceptable et utilisée de façon régulière pour suivre les symptômes de maladies rares ?",
+ "contexte": "Les maladies rares ou mal comprises, comme la sarcoïdose, la pancréatite chronique, le Covid long, la maladie liée à VCP ou la dyskinésie ciliaire primitive, ont des symptômes variables et fluctuants. Les consultations ponctuelles en rendent mal compte, d'où l'intérêt d'un suivi continu par le patient lui-même.\n\nCette étude pilote américaine, financée par la Chan Zuckerberg Initiative et menée par 4YouandMe avec des associations de patients, teste des outils numériques co-conçus avec eux. Chaque cohorte (environ 50 patients par maladie) utilise une application collectant des questionnaires, des tâches cognitives et des données passives du téléphone. Selon la maladie, elle est associée à une bague Oura, un bracelet Empatica, une montre Apple Watch, un spiromètre connecté ou un dispositif auriculaire. Un chargé d'engagement appelle les participants toutes les 2 semaines pour recueillir leur retour et résoudre les problèmes techniques.\n\nL'objectif n'est pas thérapeutique : il s'agit d'évaluer la faisabilité, via la rétention et l'adhésion sur 5 mois.",
+ "interet": "L'étude renseigne sur la faisabilité du suivi numérique à domicile dans des maladies rares, y compris des affections que les internistes rencontrent (sarcoïdose, Covid long). Elle ne produit pas de résultat clinique, mais pourrait servir de base à des outils de suivi ou à des critères de jugement futurs.",
+ "profil": "Des adultes (dès 14 ans pour la dyskinésie ciliaire) résidant aux États-Unis atteints d'une des cinq maladies étudiées.",
+ "inclusion": [
+  "Âge de 18 ans ou plus (14 ans pour la dyskinésie ciliaire primitive)",
+  "Smartphone personnel compatible et résidence aux États-Unis",
+  "Disposition à utiliser les objets connectés de l'étude",
+  "Diagnostic confirmé ou suspecté d'une des 5 maladies, avec critères propres à chaque cohorte",
+  "Covid long évoluant depuis au moins 3 mois avec retentissement fonctionnel ; sarcoïdose avec fatigue ; pancréatite chronique avec au moins une poussée dans l'année"
+ ],
+ "exclusion": [
+  "Non précisé dans le registre (seuls des critères d'inclusion spécifiques sont détaillés)",
+  "Pancréatite chronique : pancréatectomie totale"
+ ],
+ "bras": [
+  {
+   "nom": "Covid long",
+   "traitement": "Application, bague Oura, bracelet Empatica, dispositif auriculaire Lumia"
+  },
+  {
+   "nom": "Pancréatite chronique",
+   "traitement": "Application, bague Oura, bracelet Empatica"
+  },
+  {
+   "nom": "Sarcoïdose",
+   "traitement": "Application, bague Oura"
+  },
+  {
+   "nom": "Maladie liée à VCP",
+   "traitement": "Application, bague Oura, spiromètre MIR, Apple Watch"
+  },
+  {
+   "nom": "Dyskinésie ciliaire primitive",
+   "traitement": "Application, bague Oura, spiromètre MIR"
+  }
+ ],
+ "duree": "5 mois",
+ "critere": "Rétention des participants et adhésion à l'utilisation de l'application et des dispositifs, sur 5 mois."
+}

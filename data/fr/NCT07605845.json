@@ -1,0 +1,32 @@
+{
+ "h": "5d610fe14f55",
+ "date": "2026-11-14",
+ "titre": "GL-2045 sous-cutané dans le purpura thrombopénique immunologique",
+ "question": "Le GL-2045 en injections sous-cutanées est-il sûr et capable d'augmenter les plaquettes comme les immunoglobulines IV dans le PTI ?",
+ "contexte": "Le PTI est une maladie auto-immune où des auto-anticorps détruisent les plaquettes. Les immunoglobulines intraveineuses (IgIV) permettent une remontée rapide mais transitoire des plaquettes. Elles nécessitent des perfusions, sont limitées par l'approvisionnement et peuvent entraîner des effets indésirables.\n\nLe GL-2045 est une protéine recombinante multimérique d'Fc d'immunoglobuline G, conçue pour reproduire l'effet immunomodulateur des IgIV. Cet essai de phase 1b, promu par Gliknik, administre le produit en injections sous-cutanées répétées à des adultes ayant déjà répondu aux corticoïdes ou aux IgIV.\n\nLa cohorte 1 (jusqu'à 18 patients) permet un ajustement adaptatif de la dose. La cohorte 2 (jusqu'à 24 patients) teste une ou deux doses et rythmes fixes. Sont évalués la tolérance, la numération plaquettaire, les saignements, la fatigue, la qualité de vie, la pharmacocinétique et l'immunogénicité.",
+ "interet": "L'étude vise une preuve de concept d'une alternative sous-cutanée aux IgIV. Elle doit aussi permettre de choisir les doses pour les essais suivants.",
+ "profil": "Des adultes de 18 à 80 ans ayant un PTI, avec réponse antérieure aux corticoïdes ou aux IgIV.",
+ "inclusion": [
+  "Âge de 18 à 80 ans, PTI ou situation proche",
+  "Plaquettes de 10 à 49 G/L à l'inclusion",
+  "Réponse antérieure documentée aux corticoïdes ou aux IgIV (la seule réponse aux agonistes de la TPO ne suffit pas)",
+  "Corticoïdes éventuels à dose stable (prednisone ≤ 10 mg/j) depuis 3 mois",
+  "Pas de grossesse ni d'allaitement, contraception"
+ ],
+ "exclusion": [
+  "Événement indésirable grave lors d'une perfusion antérieure d'IgIV",
+  "Splénectomie datant de moins d'un an, ou prévue pendant l'étude",
+  "Saignement de grade 2 OMS dans les 8 semaines précédentes",
+  "Anomalie de la fonction hépatique ou rénale",
+  "Traitement interdit par le protocole",
+  "Agoniste de la TPO (romiplostim, eltrombopag, avatrombopag) dans les 4 dernières semaines ou prévu"
+ ],
+ "bras": [
+  {
+   "nom": "GL-2045",
+   "traitement": "Injections sous-cutanées répétées ; cohorte 1 à dose adaptative, cohorte 2 à doses et rythmes fixes"
+  }
+ ],
+ "duree": "Environ 2 mois (dépistage puis suivi jusqu'au jour 55)",
+ "critere": "Fréquence, gravité et type des événements indésirables et anomalies biologiques ; variation de la numération plaquettaire jusqu'au jour 55"
+}

@@ -1,0 +1,39 @@
+{
+ "h": "ba7e412d58ca",
+ "date": "2026-11-14",
+ "titre": "Sonrotoclax avec dexaméthasone (± daratumumab) dans l'amylose AL avec t(11;14)",
+ "question": "L'inhibiteur de BCL-2 sonrotoclax, associé à la dexaméthasone avec ou sans daratumumab, induit-il une réponse hématologique profonde dans l'amylose AL avec translocation t(11;14) ?",
+ "contexte": "L'amylose AL est causée par un clone plasmocytaire produisant des chaînes légères qui se déposent dans les organes, surtout le cœur et le rein. Avant l'arrivée du daratumumab, les schémas dérivés du myélome, comme ceux à base de bortézomib, étaient la norme. Dans les formes en rechute ou réfractaires, il n'existe pas de traitement standard et les recommandations proposent un essai ou une classe jamais utilisée.\n\nLa translocation t(11;14), présente chez environ la moitié des patients, est associée à une forte dépendance à BCL-2. Des données préliminaires suggèrent l'intérêt des inhibiteurs de BCL-2, comme le vénétoclax, dans cette sous-population. Le sonrotoclax est un inhibiteur de BCL-2 de nouvelle génération.\n\nCette étude de phase 2 du Peking University People's Hospital comprend deux cohortes : cohorte A (20 patients, nouvellement diagnostiqués ou naïfs d'anti-CD38) sous sonrotoclax, daratumumab et dexaméthasone ; cohorte B (19 patients, insensibles ou en rechute après anti-CD38) sous sonrotoclax et dexaméthasone. Le traitement dure jusqu'à 12 cycles ; une autogreffe est possible après le 4e cycle.",
+ "interet": "Elle teste une approche ciblée sur BCL-2 chez les patients t(11;14), notamment après anti-CD38, situation sans standard. Petit effectif, sans bras comparateur.",
+ "profil": "Des adultes avec amylose AL systémique t(11;14) positive et maladie mesurable, nouvellement diagnostiqués ou en rechute.",
+ "inclusion": [
+  "Âge ≥ 18 ans, amylose AL selon les recommandations 2021",
+  "t(11;14) confirmée par FISH",
+  "Maladie mesurable (protéine M sérique ≥ 0,5 g/dL ou chaînes légères libres ≥ 40 mg/L avec rapport anormal)",
+  "ECOG 0-2, espérance de vie > 6 mois",
+  "Hb > 80 g/L, plaquettes > 50 G/L, PNN > 1 G/L, ClCr ≥ 30 mL/min, SpO₂ ≥ 90 %",
+  "Cohorte A : naïfs d'anti-CD38 ; cohorte B : échec ou rechute après anti-CD38"
+ ],
+ "exclusion": [
+  "Myélome actif ou lymphome lymphoplasmocytaire actif, amylose AL de type IgM",
+  "Traitement antérieur par inhibiteur de BCL-2",
+  "Atteinte cardiaque sévère (stade Mayo IIIb, NT-proBNP > 8500 ng/L, NYHA IIIb-IV, FEVG < 40 %, QTcF > 480 ms)",
+  "Infarctus ou angor instable dans les 6 mois",
+  "Infection non contrôlée, VIH, hépatite B ou C active",
+  "Épuration extrarénale",
+  "Inhibiteurs ou inducteurs puissants du CYP3A4",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte A (20 patients)",
+   "traitement": "Sonrotoclax + daratumumab + dexaméthasone, jusqu'à 12 cycles"
+  },
+  {
+   "nom": "Cohorte B (19 patients)",
+   "traitement": "Sonrotoclax + dexaméthasone, jusqu'à 12 cycles"
+  }
+ ],
+ "duree": "Jusqu'à 12 cycles de 28 jours",
+ "critere": "Taux de réponse hématologique au moins très bonne réponse partielle (VGPR) à la fin du cycle 4"
+}

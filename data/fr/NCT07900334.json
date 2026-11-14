@@ -1,0 +1,31 @@
+{
+ "h": "84a5771b9d71",
+ "date": "2026-11-14",
+ "titre": "Dysfonction thyroïdienne chez les patients ayant un purpura thrombopénique immunologique",
+ "question": "Quelle est la prévalence de la dysfonction thyroïdienne chez les patients atteints de PTI nouvellement diagnostiqué ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune caractérisée par une destruction plaquettaire périphérique et un défaut de production. Les maladies auto-immunes s'associent fréquemment entre elles, et les maladies thyroïdiennes auto-immunes sont parmi les plus courantes.\n\nUne association entre PTI et dysthyroïdie ou anticorps antithyroïdiens a été rapportée, avec un possible impact sur l'évolution et la réponse au traitement du PTI. Sa fréquence varie toutefois selon les populations et sa recherche systématique n'est pas établie.\n\nCette étude observationnelle de la Sohag University (Égypte) inclut 50 patients ayant un PTI nouvellement diagnostiqué et un groupe de témoins sains appariés sur l'âge et le sexe. Tous ont une numération sanguine et un bilan thyroïdien comprenant TSH, FT3, FT4, anticorps anti-TPO et anti-thyroglobuline.",
+ "interet": "Elle pourrait justifier un dépistage systématique de la thyroïde au diagnostic de PTI.",
+ "profil": "Des adultes avec un PTI nouvellement diagnostiqué, comparés à des témoins sains appariés.",
+ "inclusion": [
+  "PTI nouvellement diagnostiqué",
+  "Absence de traitement thyroïdien en cours",
+  "Consentement éclairé et données cliniques disponibles (âge, sexe, durée et traitement du PTI, antécédents hémorragiques)"
+ ],
+ "exclusion": [
+  "Maladie thyroïdienne connue ou traitement thyroïdien antérieur (thyroïdectomie, iode radioactif, antithyroïdiens, lévothyroxine)",
+  "Maladie aiguë ou grave dans les 4 à 6 semaines (réanimation, chirurgie majeure, infection sévère, traumatisme)",
+  "Médicaments modifiant la TSH au moment du prélèvement (corticoïdes à forte dose, dopamine, dobutamine)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTI",
+   "traitement": "Examen clinique, numération sanguine et bilan thyroïdien (TSH, FT3, FT4, anti-TPO, anti-thyroglobuline)"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Témoins appariés sur l'âge et le sexe, bilan thyroïdien identique"
+  }
+ ],
+ "duree": "Une évaluation à l'inclusion",
+ "critere": "Prévalence de la dysfonction thyroïdienne chez les patients atteints de PTI, à l'évaluation initiale."
+}

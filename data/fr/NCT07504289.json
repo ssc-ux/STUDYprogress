@@ -1,0 +1,34 @@
+{
+ "h": "eda76ef425b2",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-NK BCMA/CD19 dans l'amylose cardiaque AL réfractaire",
+ "question": "Des cellules CAR-NK issues de sang de cordon, ciblant BCMA et CD19, sont-elles sûres et efficaces dans l'amylose cardiaque AL en rechute ou réfractaire ?",
+ "contexte": "L'amylose AL à atteinte cardiaque a un pronostic sévère, notamment après échec d'une première ligne à base de bortézomib ou d'anti-CD38 (daratumumab). Les thérapies cellulaires, dont les CAR-T, ont été rapportées dans cette indication. Cependant, la fabrication des CAR-T est longue et la leucaphérèse représente une charge supplémentaire pour un coeur fragile.\n\nLes cellules NK allogéniques (CAR-NK) pourraient offrir une meilleure sécurité et être disponibles d'emblée. Cette étude de phase 1/2, promue par le second hôpital affilié de l'université du Zhejiang, évalue des CAR-NK issues de sang de cordon ciblant BCMA et CD19, chez 36 patients âgés de 18 à 75 ans en réponse hématologique insuffisante après une première ligne à base de bortézomib ou d'anti-CD38. Elle s'appuie sur la file active du centre (plusieurs dizaines de nouveaux cas et plus de 100 suivis chaque année) et sur une expérience antérieure des CAR-NK et d'un produit CAR-T CD19/BCMA.",
+ "interet": "Elle pourrait ouvrir une option de thérapie cellulaire prête à l'emploi, moins lourde que les CAR-T autologues, pour une population cardiaque fragile.",
+ "profil": "Des adultes de 18 à 75 ans ayant une amylose cardiaque AL en rechute ou réfractaire après une première ligne.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Amylose prouvée (rouge Congo positif) avec maladie à chaînes légères mesurable (pic monoclonal ≥ 0,5 g/dL ou dFLC ≥ 50 mg/L)",
+  "Atteinte cardiaque (paroi > 12 mm ou NT-proBNP > 332 ng/L sans insuffisance rénale ni FA)",
+  "Réponse hématologique insuffisante après bortézomib ou anti-CD38 (pas de RP après 1 cycle ou pas de VGPR après 2 cycles)",
+  "Fonctions médullaire, hépatique, rénale (DFGe ≥ 20) et saturation > 92 % suffisantes",
+  "ECOG 0 à 3, survie estimée ≥ 12 semaines"
+ ],
+ "exclusion": [
+  "NT-proBNP ≥ 8 500 ng/L",
+  "Insuffisance cardiaque NYHA IIIB ou IV, cardiopathie ischémique ou valvulaire non corrigée",
+  "Infarctus, angor instable, angioplastie ou pontage dans les 6 mois",
+  "QTcF > 500 ms, hypotension systolique < 90 mmHg ou hypotension orthostatique symptomatique",
+  "Autre cancer, thérapie anti-BCMA ou thérapie génique dans les 3 mois",
+  "Infection active, VHB, VHC, syphilis ou VIH",
+  "Antécédent d'épilepsie ou maladie du système nerveux central, hypersensibilité au produit cellulaire"
+ ],
+ "bras": [
+  {
+   "nom": "Bras expérimental",
+   "traitement": "Perfusion de CAR-NK BCMA/CD19 issues de sang de cordon"
+  }
+ ],
+ "duree": "Suivi jusqu'à 2 ans après la perfusion",
+ "critere": "Sécurité et efficacité de la perfusion de CAR-NK BCMA/CD19 (visites aux jours 1, 4, 7, 10, 14, 21, 28, puis mensuelles la première année et tous les 3 mois la seconde)."
+}

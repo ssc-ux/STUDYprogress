@@ -1,0 +1,42 @@
+{
+ "h": "6ab2cc8e6dad",
+ "date": "2026-11-14",
+ "titre": "Élastographie par ondes de cisaillement du myocarde et du foie dans l'amylose cardiaque à TTR",
+ "question": "La vitesse des ondes de cisaillement (SWV), mesurée par le dispositif eMyosound LYRA, permet-elle d'évaluer la rigidité du myocarde et du foie dans l'insuffisance cardiaque avec ou sans amylose cardiaque à TTR ?",
+ "contexte": "L'insuffisance cardiaque à fraction d'éjection préservée ou modérément réduite (ICFEp, ICFEmr) avec hypertrophie ventriculaire gauche est fréquente chez le sujet âgé, et une part des cas relève d'une amylose cardiaque à transthyrétine (ATTR-CM), sous-diagnostiquée. Le diagnostic repose sur l'échographie, la scintigraphie osseuse (ou pyrophosphates) et la recherche d'une protéine monoclonale.\n\nL'élastographie par ondes de cisaillement est une technique ultrasonore qui mesure la rigidité tissulaire. Le dispositif eMyosound LYRA, expérimental et non encore intégré aux soins, vise à mesurer la rigidité du myocarde et du foie, qui pourrait être augmentée dans l'amylose.\n\nCette étude multicentrique transversale, promue par eMyosound SAS, inclut 150 patients de 60 ans et plus répartis en trois groupes : insuffisance cardiaque avec FEVG > 40 % et hypertrophie, avec ATTR-CM ; sans ATTR-CM ; témoins sans insuffisance cardiaque. Une seule visite d'environ 2,5 heures est prévue, sans suivi.",
+ "interet": "Si la SWV distingue les groupes, elle pourrait devenir un outil d'appoint non invasif pour orienter vers le diagnostic d'amylose cardiaque. Il s'agit d'une étude de référence sur la distribution des valeurs.",
+ "profil": "Des adultes de 60 ans et plus, avec insuffisance cardiaque à FEVG > 40 % et hypertrophie ventriculaire gauche (avec ou sans ATTR-CM), et des témoins sans cardiopathie.",
+ "inclusion": [
+  "Âge ≥ 60 ans, consentement signé",
+  "Insuffisance cardiaque selon la définition universelle et les critères HeartShare, FEVG > 40 %",
+  "Hypertrophie ventriculaire gauche (masse indexée > 95 g/m² chez la femme, > 115 g/m² chez l'homme, ou septum ≥ 12 mm)",
+  "Sans ATTR-CM : scintigraphie PYP négative (< 24 mois), score < 643 ou biopsie négative",
+  "Avec ATTR-CM : diagnostic confirmé selon les critères AHA 2020, amylose AL exclue",
+  "Témoins : pas d'insuffisance cardiaque, de cardiomyopathie, d'ATTR-CM ni d'amylose AL"
+ ],
+ "exclusion": [
+  "Femme enceinte ou non ménopausée ; patient vulnérable",
+  "Syndrome coronarien aigu < 30 jours",
+  "Fréquence cardiaque > 130/min, fibrillation ou flutter atriaux, ou arythmie significative lors de la mesure",
+  "Mauvaise échogénicité ; anomalies segmentaires de cinétique d'origine ischémique",
+  "Valvulopathie sévère non liée à l'ATTR ; prothèse valvulaire mécanique ; assistance circulatoire (hors stimulateur/défibrillateur)",
+  "Distance peau-septum ≥ 8 cm ; antécédent de greffe d'organe ou greffe prévue dans l'année",
+  "DFGe < 15 mL/min/1,73 m² ou insuffisance rénale terminale"
+ ],
+ "bras": [
+  {
+   "nom": "ICFEp/ICFEmr avec hypertrophie et ATTR-CM",
+   "traitement": "Évaluation cardiologique standard puis mesure de la SWV myocardique et hépatique avec eMyosound LYRA"
+  },
+  {
+   "nom": "ICFEp/ICFEmr avec hypertrophie, sans ATTR-CM",
+   "traitement": "Évaluation cardiologique standard puis mesure de la SWV myocardique et hépatique"
+  },
+  {
+   "nom": "Témoins sans insuffisance cardiaque ni cardiomyopathie",
+   "traitement": "Mesure de la SWV myocardique et hépatique"
+  }
+ ],
+ "duree": "Une visite d'environ 2,5 heures",
+ "critere": "Mesures de la vitesse des ondes de cisaillement (SWV) obtenues avec le dispositif eMyosound LYRA, lors de la visite unique."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "78002c417dbf",
+ "date": "2026-11-14",
+ "titre": "Anselamimab dans l'amylome AL localisé avec atteinte tissulaire mesurable",
+ "question": "L'anselamimab se fixe-t-il sur les dépôts amyloïdes et réduit-il la taille d'un amylome AL localisé ?",
+ "contexte": "L'amylose AL résulte du dépôt de chaînes légères d'immunoglobuline mal repliées. L'amylome AL est une forme localisée, sans atteinte systémique, dont le traitement standard est la résection chirurgicale complète. Lorsque la chirurgie n'est pas possible ou incomplète, les options sont limitées.\n\nL'anselamimab (CAEL-101) est un anticorps monoclonal qui cible les fibrilles amyloïdes. Il pourrait recruter des cellules inflammatoires, favoriser la phagocytose des dépôts et réduire la masse amyloïde. Dans l'amylose AL systémique, il a été étudié en association à la chimiothérapie.\n\nCet essai exploratoire de phase 1 de l'université Stanford inclut seulement 5 patients ayant un amylome mesurable en imagerie, sans atteinte cardiaque, rénale ou hépatique. Ils reçoivent l'anselamimab par voie IV, 1000 mg/m² une fois par semaine pour 4 perfusions, puis toutes les 2 semaines jusqu'à 48 semaines. L'étude explore la fixation in vivo, le recrutement de cellules inflammatoires et la réduction de la masse.",
+ "interet": "Étude très préliminaire visant à vérifier le mécanisme d'action de l'anticorps sur le dépôt amyloïde. Elle pourrait ouvrir la voie à une alternative médicale pour les amylomes non opérables.",
+ "profil": "Des adultes ayant un amylome AL mesurable, sans atteinte systémique d'organe.",
+ "inclusion": [
+  "Dépôt amyloïde AL confirmé par biopsie et IHC ou spectrométrie de masse",
+  "Dépôt mesurable en imagerie (échographie ou coupes)",
+  "Âge de 18 ans ou plus, ECOG de 0 à 3",
+  "Fonction médullaire, hépatique et rénale adéquate (PNN ≥ 1 G/L, plaquettes ≥ 75 G/L, Hb ≥ 9 g/dL, transaminases ≤ 3 N)",
+  "Pas d'atteinte cardiaque (épaisseur pariétale ≤ 12 mm), rénale (protéinurie < 500 mg/24 h, DFG > 50) ou hépatique",
+  "Consentement écrit ; contraception"
+ ],
+ "exclusion": [
+  "Autre produit expérimental ou doxycycline dans les 30 jours",
+  "Maladie cardiovasculaire, respiratoire, hépatique, rénale ou autre significative",
+  "Chirurgie majeure dans les 4 semaines, infection active, grossesse ou allaitement",
+  "Éligibilité à une chimiothérapie standard",
+  "Pic monoclonal ou ratio des chaînes légères libres anormal, amylose AL systémique connue ou suspectée",
+  "Atteinte ganglionnaire, plusieurs organes, plasmocytome solitaire",
+  "Patient candidat à une résection complète"
+ ],
+ "bras": [
+  {
+   "nom": "Anselamimab",
+   "traitement": "1000 mg/m² IV une fois par semaine pour 4 perfusions, puis toutes les 2 semaines jusqu'à 48 semaines"
+  }
+ ],
+ "duree": "Environ 72 semaines",
+ "critere": "Variation de la taille de la lésion amyloïde cible entre l'inclusion et la semaine 72"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "3a724cf8b42e",
+ "date": "2026-11-14",
+ "titre": "État nutritionnel dans les maladies rhumatismales et lien avec l'activité de la maladie",
+ "question": "Quel est l'état nutritionnel des patients atteints de rhumatismes inflammatoires ou de maladies auto-immunes, et est-il associé à l'activité de leur maladie ?",
+ "contexte": "La polyarthrite rhumatoïde, les spondyloarthrites, le lupus et la sclérodermie systémique sont des maladies inflammatoires chroniques. Elles peuvent s'accompagner de dénutrition, par réduction de l'appétit, malabsorption ou effets des traitements, mais aussi de surcharge pondérale associée à une inflammation de bas grade.\n\nIl n'existe pas de définition universelle de la dénutrition. L'évaluation repose sur des outils combinés : Subjective Global Assessment (SGA), Mini Nutritional Assessment (MNA), critères GLIM, et des indices biologiques comme le Prognostic Nutritional Index (PNI) et le Nutritional Risk Index (NRI), calculés à partir de l'albuminémie et des lymphocytes. Ces indices ont été liés à l'activité du lupus.\n\nCette étude observationnelle égyptienne (Université du Caire) compare des patients rhumatisants à des témoins sains appariés sur l'âge et le sexe. Elle cherche à savoir si l'état nutritionnel est associé à l'activité de chaque maladie. Elle est réalisée dans un centre unique, en consultation externe.",
+ "interet": "Si un lien est confirmé, l'évaluation nutritionnelle pourrait être intégrée au suivi des patients rhumatisants. L'étude est descriptive et ne peut pas prouver de causalité.",
+ "profil": "Des adultes atteints de PR, de spondyloarthrite, de lupus ou de sclérodermie, comparés à des témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic de polyarthrite rhumatoïde, spondyloarthrite, lupus ou sclérodermie systémique",
+  "Témoins : volontaires sains appariés sur l'âge et le sexe"
+ ],
+ "exclusion": [
+  "Incapacité à se prêter à l'évaluation médicale",
+  "Autre connectivite, maladie neurologique, cancer, insuffisance cardiaque ou rénale sévère",
+  "Hépatopathie avancée"
+ ],
+ "bras": [
+  {
+   "nom": "Patients rhumatisants",
+   "traitement": "Évaluation nutritionnelle en consultation (PR, SpA, lupus, sclérodermie)"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Volontaires sains appariés sur l'âge et le sexe"
+  }
+ ],
+ "duree": "Une évaluation lors d'une consultation de routine",
+ "critere": "État nutritionnel évalué par les indices PNI, NRI, SGA et MNA-SF lors des consultations (2023-2025)"
+}

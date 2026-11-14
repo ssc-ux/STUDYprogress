@@ -1,0 +1,33 @@
+{
+ "h": "5ec06018aaef",
+ "date": "2026-11-14",
+ "titre": "Sécurité à long terme de l'émapalumab (Gamifant) dans le SAM/LHH de la maladie de Still",
+ "question": "Quelle est l'incidence des infections graves ou opportunistes sous émapalumab chez les patients ayant un SAM/LHH au cours d'une maladie de Still ?",
+ "contexte": "Le syndrome d'activation macrophagique (SAM), forme de lymphohistiocytose hémophagocytaire secondaire (LHH), est une complication grave de la maladie de Still (AJI systémique, maladie de Still de l'adulte). Il associe fièvre, cytopénies, hyperferritinémie et défaillances d'organes, avec une mortalité non négligeable.\n\nL'émapalumab (Gamifant) est un anticorps anti-interféron gamma, approuvé pour le SAM de la maladie de Still, connue ou suspectée, en réponse inadéquate ou intolérance aux corticoïdes, ou en cas de SAM récidivant. Le blocage de l'interféron gamma expose en théorie à un risque d'infections, notamment mycobactériennes, à Histoplasma, à Salmonella et à CMV.\n\nCette étude prospective multicentrique de sécurité du fabricant (Sobi) suit environ 70 patients, enfants et adultes jusqu'à 80 ans, dans le cadre de l'autorisation de mise sur le marché.",
+ "interet": "Elle précisera le profil de risque infectieux à long terme de l'émapalumab, utile pour surveiller les patients traités.",
+ "profil": "Des enfants et adultes (≤ 80 ans) avec un SAM/LHH au cours d'une maladie de Still, traités ou sur le point d'être traités par émapalumab.",
+ "inclusion": [
+  "Au moins une dose de Gamifant dans les 0 à 7 jours avant le consentement, ou prescription prévue",
+  "Âge ≤ 80 ans",
+  "LHH/SAM secondaire selon le médecin traitant",
+  "Maladie de Still (AJIs ou maladie de Still de l'adulte) connue ou suspectée",
+  "Réponse inadéquate ou intolérance aux corticoïdes à forte dose, ou SAM récidivant",
+  "Prélèvements biologiques acceptés, consentement (assentiment pour les mineurs)"
+ ],
+ "exclusion": [
+  "LHH primitive ou secondaire à une maladie métabolique, un cancer ou une autre maladie rhumatismale",
+  "Tuberculose, mycobactériose atypique, histoplasmose ou salmonellose active",
+  "Leishmaniose",
+  "Participation à un essai interventionnel",
+  "Maladie sévère non contrôlée avec survie attendue < 28 jours",
+  "Grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "SAM/LHH de la maladie de Still traités par Gamifant",
+   "traitement": "Suivi de sécurité avec examens biologiques locaux, sans intervention imposée"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois par patient",
+ "critere": "Incidence, jusqu'à 12 mois, des tuberculoses, infections à mycobactéries non tuberculeuses, réactivations ou infections à CMV et infections graves survenant sous traitement."
+}

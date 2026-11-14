@@ -1,0 +1,37 @@
+{
+ "h": "74d8cdc907d5",
+ "date": "2026-11-14",
+ "titre": "Atteintes des voies aériennes supérieures dans la dyskinésie ciliaire primitive et les déficits immunitaires primitifs",
+ "question": "Quelles différences d'atteinte sinusienne, olfactive et auditive existe-t-il entre la dyskinésie ciliaire primitive (DCP) et les déficits immunitaires primitifs (DIP) ?",
+ "contexte": "La DCP et les DIP se traduisent tous deux par des infections ORL et respiratoires récidivantes. L'atteinte des sinus et de l'oreille moyenne est souvent la plus gênante pour les patients et leur famille, mais elle est mal caractérisée et il n'existe pas de schéma thérapeutique reconnu comme optimal.\n\nLe chevauchement des deux phénotypes rend le diagnostic différentiel difficile. Cette étude transversale, coordonnée par l'Université de Caroline du Nord au sein d'un consortium nord-américain, recrute environ 200 participants avec DCP ou DIP confirmés, dont 30 % d'enfants de moins de 12 ans.\n\nLors d'une visite unique, elle réunit histoire médicale, examen, questionnaires de qualité de vie sinonasale (SNOT-22, SN-5), tests olfactifs, audiométrie et tympanométrie, endoscopie nasale, culture sinusienne, analyse du mucus, scanner des sinus, NO nasal et prise de sang. Certaines étapes peuvent se faire en télésanté. L'objectif est de définir des critères et des biomarqueurs utiles pour de futurs essais thérapeutiques.",
+ "interet": "L'étude pourrait fournir des critères de jugement et des biomarqueurs pour distinguer DCP et DIP et pour concevoir des essais sur l'atteinte ORL. Elle ne change pas directement la pratique.",
+ "profil": "Des enfants (dès 5 ans) et des adultes jusqu'à 45 ans ayant une DCP ou un DIP confirmé.",
+ "inclusion": [
+  "Âge de 5 à 45 ans, consentement (assentiment pour les mineurs)",
+  "DCP : signes cliniques évocateurs et variants pathogènes biallèliques ou anomalie ultrastructurale en microscopie électronique",
+  "DIP : diagnostic clinique ESID avec confirmation génétique, ou déficit immunitaire commun variable selon les critères ESID",
+  "DICV : IgG et IgA effondrées, mauvaise réponse vaccinale ou faibles lymphocytes B mémoires, causes secondaires exclues",
+  "Pas de déficit profond en lymphocytes T"
+ ],
+ "exclusion": [
+  "Impossibilité de réaliser les examens de l'étude",
+  "Symptômes respiratoires accrus dans les 3 semaines précédentes",
+  "Anomalie craniofaciale congénitale, surdité congénitale, trisomie 21, Kabuki, DiGeorge/22q11, CHARGE",
+  "Usage nasal de drogues ou de médicaments détournés, grossesse",
+  "Déficits sélectifs en IgA, en sous-classes d'IgG ou en IgM, déficit en lectine liant le mannose, déficits sans risque infectieux accru",
+  "Cause secondaire d'immunodéficience (VIH, cancer actif), greffe ou thérapie génique",
+  "Traitement par immunomodulateur ciblé ou corticoïdes systémiques chroniques"
+ ],
+ "bras": [
+  {
+   "nom": "DCP",
+   "traitement": "Sujets avec dyskinésie ciliaire primitive confirmée, évaluation ORL et audiologique en visite unique"
+  },
+  {
+   "nom": "DIP",
+   "traitement": "Sujets avec déficit immunitaire primitif confirmé, même évaluation"
+  }
+ ],
+ "duree": "Une visite unique d'environ 6 heures",
+ "critere": "Scores de qualité de vie sinonasale (SNOT-22, SN-5), tests olfactifs, audiométrie et tympanométrie comparés entre DCP et DIP, lors de la visite unique"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "f9c5beb13465",
+ "date": "2026-11-14",
+ "titre": "Rôle de la N-glycosylation des chaînes légères dans l'amylose AL (GlycAL)",
+ "question": "La N-glycosylation des chaînes légères d'immunoglobuline favorise-t-elle leur potentiel amyloïdogène dans l'amylose AL ?",
+ "contexte": "L'amylose AL est due à un petit clone plasmocytaire médullaire sécrétant une chaîne légère (CL) instable, toxique et prédisposée à l'agrégation, propre à chaque patient. La séquence de la chaîne légère détermine son pouvoir amyloïdogène, mais les déterminants moléculaires restent mal connus. La N-glycosylation de la région variable est soupçonnée depuis longtemps d'y contribuer, d'après des observations isolées.\n\nCette étude de l'IRCCS Policlinico San Matteo de Pavie (Italie) fait l'hypothèse que la N-glycosylation contribue à l'amyloïdogénicité dans un sous-groupe de patients, qu'elle influence le phénotype clinique, et qu'elle module la biologie du clone plasmocytaire et sa sensibilité aux médicaments, voire constitue une cible thérapeutique. Elle inclut 100 patients avec gammapathie monoclonale (amylose AL, MGUS, myélome) ayant un prélèvement sanguin et/ou médullaire programmé, et constitue une base de données de séquences de la région variable des chaînes légères. Les chaînes sont étudiées à partir de ces prélèvements, sans intervention thérapeutique.",
+ "interet": "Elle pourrait fournir un biomarqueur de stratification du risque et de nouvelles pistes thérapeutiques, mais l'objectif est d'abord de recherche fondamentale.",
+ "profil": "Des adultes ayant une gammapathie monoclonale (amylose AL, MGUS, myélome ou autre).",
+ "inclusion": [
+  "Gammapathie monoclonale (amylose AL, MGUS, myélome ou autre)",
+  "Prélèvement sanguin périphérique ± ponction médullaire programmé",
+  "Âge > 18 ans",
+  "Consentement écrit à l'utilisation des données cliniques et des restes de prélèvements"
+ ],
+ "exclusion": [
+  "Absence de gammapathie monoclonale",
+  "Réponse hématologique complète après traitement anti-clonal",
+  "Âge < 18 ans",
+  "Refus d'utilisation des données et prélèvements pour la recherche"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec gammapathie monoclonale",
+   "traitement": "Analyse des séquences et de la glycosylation des chaînes légères à partir de prélèvements de routine ; aucune intervention"
+  }
+ ],
+ "duree": "Environ 2 ans",
+ "critere": "Constitution d'une base de données de séquences complètes de la région variable des chaînes légères, sur 2 ans."
+}

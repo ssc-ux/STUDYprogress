@@ -1,0 +1,37 @@
+{
+ "h": "d087073212ba",
+ "date": "2026-11-14",
+ "titre": "TGD001 dans les microangiopathies thrombotiques aiguës (PTT immun et autres MAT)",
+ "question": "TGD001, associé au traitement standard, est-il sûr et actif dans les épisodes aigus de PTT immun et d'autres microangiopathies thrombotiques ?",
+ "contexte": "Les microangiopathies thrombotiques (MAT) associent thrombopénie, anémie hémolytique mécanique et atteinte d'organes par microthrombi. Le PTT immun (PTTi), dû à des auto-anticorps anti-ADAMTS13, est traité par échanges plasmatiques, corticoïdes, rituximab et caplacizumab, qui bloque l'interaction facteur de von Willebrand-plaquettes. Le syndrome hémolytique et urémique atypique, les MAT secondaires aux greffes et d'autres formes relèvent de prises en charge différentes. Le risque de décès précoce et de séquelles persiste malgré les traitements.\n\nTGD001, développé par TargED Biopharmaceuticals, est administré en bolus intraveineux en association avec le traitement habituel. Cet essai de phase 1/2 adaptatif ouvert comporte une partie A d'escalade de dose chez des patients suspects de PTTi aigu (4 niveaux de dose), puis une partie B en paniers (jusqu'à 20 patients chacun, environ 60 au total) incluant PTTi et d'autres MAT, afin de définir la dose et le schéma qui réduisent la charge thrombotique initiale. Le mécanisme précis de TGD001 n'est pas décrit dans le registre.",
+ "interet": "Si les données de sécurité et d'activité sont favorables, TGD001 pourrait compléter l'arsenal des épisodes aigus de MAT, en particulier pour les formes sans option spécifique.",
+ "profil": "Des adultes en épisode aigu symptomatique de MAT, dont un PTT immun suspecté ou avéré.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Épisode aigu symptomatique de MAT",
+  "Consentement éclairé",
+  "Contraception efficace pendant 90 jours après la dernière dose",
+  "Suivi possible"
+ ],
+ "exclusion": [
+  "Diagnostic autre que MAT pouvant expliquer la thrombopénie et l'hémolyse",
+  "SHU à Shiga-toxine",
+  "Défaillance médullaire ou du greffon connue, GVH sévère non contrôlée",
+  "Échanges plasmatiques dans les 7 jours avant le dépistage",
+  "Anticoagulants ou thrombolytiques, saignement actif ou majeur récent, ulcère digestif connu",
+  "Hypertension sévère non contrôlée, dialyse, insuffisance hépatique ou sepsis",
+  "Espérance de vie < 3 mois indépendante de la MAT, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Niveaux de dose 1 à 4",
+   "traitement": "TGD001 en bolus intraveineux à doses croissantes, avec traitement standard (partie A, PTT immun)"
+  },
+  {
+   "nom": "Paniers 1 à 3",
+   "traitement": "TGD001 en dose unique ou répétée à la dose recommandée, avec traitement standard (PTTi et autres MAT)"
+  }
+ ],
+ "duree": "Suivi de 90 jours",
+ "critere": "Fréquence des événements indésirables survenus sous traitement (sécurité et tolérance de TGD001) sur 90 jours."
+}

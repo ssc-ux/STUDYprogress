@@ -1,0 +1,31 @@
+{
+ "h": "77d9096c97a4",
+ "date": "2026-11-14",
+ "titre": "Atteinte microvasculaire dans le purpura thrombotique thrombocytopénique (MITHO)",
+ "question": "Quelle est la fréquence de l'atteinte microcirculatoire dans le PTT, en phase aiguë et en rémission ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique (PTT) est une microangiopathie thrombotique rare, due à un déficit en ADAMTS13, congénital ou le plus souvent auto-immun. Les progrès des traitements (échanges plasmatiques, immunosuppresseurs, caplacizumab) ont réduit la mortalité aiguë.\n\nMais de nombreux patients gardent après l'épisode des séquelles : troubles cognitifs, fatigue, dépression et risque cardiovasculaire accru. Une atteinte microvasculaire persistante, même en rémission, pourrait y contribuer, sans être bien caractérisée.\n\nCette étude monocentrique italienne (Milan, Policlinico) n'évalue aucun médicament. Deux cohortes sont suivies trois ans : patients en phase aiguë (cohorte 1) et en rémission (cohorte 2). Chaque patient bénéficie d'une IRM cérébrale, d'une angio-OCT rétinienne et d'une capillaroscopie unguéale, de bilans cliniques et neuropsychologiques, et de nombreux biomarqueurs (facteur de von Willebrand, complément, cytokines, NET, NFL, GFAP, exome, protéomique). L'atteinte est définie par au moins un résultat anormal à ces examens.",
+ "interet": "Elle pourrait préciser la prévalence et les mécanismes de l'atteinte microvasculaire résiduelle du PTT. Elle pourrait guider le suivi à long terme des patients en rémission.",
+ "profil": "Des adultes ayant un PTT congénital ou auto-immun, en phase aiguë ou en rémission.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "PTT congénital ou acquis immunologique",
+  "Patient suivi à la Fondazione IRCCS Ca' Granda, Milan",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Critères d'inclusion non remplis",
+  "Contre-indication connue à l'un des examens instrumentaux de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "PTT en phase aiguë (cohorte 1)",
+   "traitement": "Examens cliniques, biologiques et instrumentaux, dans les 15 jours après l'admission puis suivi"
+  },
+  {
+   "nom": "PTT en rémission (cohorte 2)",
+   "traitement": "Mêmes examens, à plus de 3 mois de la réponse clinique, puis suivi"
+  }
+ ],
+ "duree": "3 ans, 5 visites (inclusion, 3 mois pour la cohorte 1, 12, 24 et 36 mois)",
+ "critere": "Prévalence de l'atteinte microcirculatoire (au moins une anomalie à l'IRM cérébrale, l'angio-OCT ou la capillaroscopie), de l'inclusion à la dernière visite à 36 mois"
+}

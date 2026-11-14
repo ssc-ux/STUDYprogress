@@ -1,0 +1,28 @@
+{
+ "h": "02b81f3ee7de",
+ "date": "2026-11-14",
+ "titre": "Atteinte pulmonaire chez l'enfant atteint d'arthrite juvénile idiopathique systémique",
+ "question": "Quelle est la fréquence et quelles sont les caractéristiques de l'atteinte pulmonaire chez les enfants ayant une AJI systémique ?",
+ "contexte": "L'arthrite juvénile idiopathique systémique (AJIs) est une maladie auto-inflammatoire qui peut se compliquer d'une atteinte pulmonaire sévère. Cette atteinte (sJIA-LD) se manifeste par une toux chronique, une dyspnée et des anomalies radiologiques caractéristiques.\n\nElle a été surtout décrite dans les pays occidentaux, souvent en lien avec les nouveaux traitements biologiques et des épisodes de syndrome d'activation macrophagique, et sa fréquence dans d'autres contextes est mal connue.\n\nCette étude transversale de l'université d'Assiut (Égypte) inclut 30 enfants de 16 ans ou moins ayant une AJIs selon les critères ILAR, suivis à l'hôpital pédiatrique universitaire. Elle décrit les caractéristiques cliniques, biologiques et radiologiques de l'atteinte pulmonaire.",
+ "interet": "Elle apportera des données descriptives sur la fréquence de l'atteinte pulmonaire de l'AJIs, utiles pour le dépistage dans cette population.",
+ "profil": "Des enfants de 16 ans ou moins ayant une arthrite juvénile idiopathique systémique.",
+ "inclusion": [
+  "AJI systémique selon les critères ILAR",
+  "Âge ≤ 16 ans",
+  "Consentement écrit d'un parent ou du représentant légal"
+ ],
+ "exclusion": [
+  "Autres formes d'AJI",
+  "Maladie pulmonaire chronique préexistante sans lien avec l'AJIs",
+  "Connectivite associée ou autre syndrome auto-inflammatoire distinct",
+  "Âge > 16 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants avec AJIs",
+   "traitement": "Évaluation clinique, biologique et radiographique de l'atteinte pulmonaire"
+  }
+ ],
+ "duree": "Une seule évaluation, sans suivi prévu",
+ "critere": "Fréquence de l'atteinte pulmonaire, à l'inclusion."
+}

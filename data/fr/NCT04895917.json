@@ -1,0 +1,35 @@
+{
+ "h": "127ad2ef1a47",
+ "date": "2026-11-14",
+ "titre": "Daratumumab et pomalidomide dans l'amylose AL en rechute ou réfractaire",
+ "question": "L'association daratumumab et pomalidomide permet-elle d'obtenir des réponses hématologiques de bonne qualité dans l'amylose AL déjà traitée ?",
+ "contexte": "L'amylose AL est causée par une population plasmocytaire clonale qui produit des chaînes légères libres amyloïdogènes, déposées dans le cœur, les reins, le foie ou les nerfs. Le traitement de première ligne, à base de bortézomib, de melphalan ou de daratumumab, vise une réponse hématologique profonde. Une partie des patients ne répond pas ou rechute, avec un risque de progression de l'atteinte d'organe.\n\nLe daratumumab, anticorps anti-CD38, a montré une bonne tolérance et des réponses profondes dans l'amylose AL avancée. Le pomalidomide, immunomodulateur, est actif en monothérapie dans l'amylose AL en rechute et pose moins de problèmes de toxicité rénale que le lénalidomide en cas de protéinurie néphrotique. Cette association est efficace dans le myélome en rechute.\n\nCet essai de phase 2 monobras, mené par la Fondazione IRCCS Policlinico San Matteo (Pavie, Italie), évalue la combinaison comme traitement de rattrapage. Il a été arrêté prématurément avec 27 patients.",
+ "interet": "L'étude pourrait établir une option de rattrapage fondée sur une association déjà efficace dans le myélome, pour les patients en échec de la première ligne.",
+ "profil": "Des adultes atteints d'amylose AL avec atteinte d'organe symptomatique, déjà traités par 1 à 3 lignes, sans réponse très bonne ou complète.",
+ "inclusion": [
+  "Amylose AL confirmée histologiquement",
+  "1 à 3 lignes antérieures (agent alkylant et/ou inhibiteur du protéasome plus dexaméthasone), sans VGPR ni RC (ou VGPR avec rechute hématologique)",
+  "Maladie hématologique mesurable (différence FLC impliquées/non impliquées > 20 mg/L)",
+  "Atteinte d'organe symptomatique (cœur, rein, foie/tube digestif, nerfs périphériques)",
+  "Fonction médullaire et d'organe adéquates (PNN ≥ 1000/mm³, plaquettes ≥ 50 000/mm³, Hb ≥ 9 g/dL, transaminases < 3 N)",
+  "Délai d'au moins 4 semaines depuis le traitement précédent, contraception efficace"
+ ],
+ "exclusion": [
+  "Amylose non AL ou atteinte isolée des tissus mous",
+  "Myélome symptomatique avec lésions lytiques ou plasmocytes médullaires > 30 %",
+  "Stade cardiaque IIIb (NT-proBNP > 8500 ng/L et troponine I ultrasensible > 100 ng/L)",
+  "Arythmies ventriculaires répétées, fibrillation atriale non contrôlée, PAS couchée < 100 mmHg",
+  "BPCO ou asthme persistant connus",
+  "Traitement antérieur par anti-CD38 ou pomalidomide",
+  "Autre cancer actif, VIH, hépatite B ou C active",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Pomalidomide et daratumumab",
+   "traitement": "Association daratumumab et pomalidomide, en ouvert (doses et rythme non précisés dans le registre)"
+  }
+ ],
+ "duree": "Non précisé (critère évalué à 6 mois)",
+ "critere": "Taux de réponse hématologique de bonne qualité (RC + VGPR) à 6 mois"
+}

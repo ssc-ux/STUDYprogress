@@ -1,0 +1,27 @@
+{
+ "h": "8a28c5c88450",
+ "date": "2026-11-14",
+ "titre": "Le poids du lupus au Canada vu par les patients : enquête de qualité de vie",
+ "question": "Quel est le retentissement du lupus sur la qualité de vie des patients canadiens, et quelles sont leurs attentes en matière de traitement ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune chronique qui touche surtout des femmes jeunes. Au-delà de l'activité biologique et des atteintes d'organe, il pèse sur la fatigue, la douleur, la vie professionnelle et la santé mentale. Ces dimensions sont souvent mal captées par les essais thérapeutiques classiques, centrés sur des scores d'activité.\n\nCette étude observationnelle canadienne repose sur des questionnaires remplis en ligne par des patients, recrutés via l'association Lupus Canada (environ 8 000 personnes dans sa liste de diffusion). Elle vise à décrire le vécu des patients, les obstacles aux soins et leurs préférences thérapeutiques. Il s'agit d'une enquête transversale réalisée sur une plateforme dédiée (PROxy), sans aucune intervention. Le promoteur est PeriPharm. Les données produites sont des données de vie réelle rapportées par les patients, utiles pour orienter la prise en charge centrée sur le patient.",
+ "interet": "L'étude ne teste aucun traitement. Elle documente la charge de la maladie du point de vue des patients et peut éclairer les priorités de soins et de recherche. Les résultats ne sont pas encore publiés.",
+ "profil": "Des adultes vivant avec un lupus, membres de la base de données de Lupus Canada.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Membre de la base de données Lupus Canada",
+  "Se déclare atteint de lupus",
+  "Lecture et compréhension de l'anglais ou du français",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Participation à un essai clinique interventionnel dans le lupus"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de lupus",
+   "traitement": "Cohorte observationnelle, questionnaires en ligne, aucune intervention"
+  }
+ ],
+ "duree": "Une seule évaluation, à l'inclusion",
+ "critere": "Qualité de vie des patients atteints de lupus, évaluée à l'inclusion"
+}

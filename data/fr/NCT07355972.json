@@ -1,0 +1,33 @@
+{
+ "h": "e4cb473fab8f",
+ "date": "2026-11-14",
+ "titre": "CAR-T CT1195E dans la sclérodermie systémique diffuse réfractaire avec atteinte pulmonaire",
+ "question": "Les CAR-T CT1195E sont-ils sûrs, et quelle dose peut-on retenir, dans la sclérodermie systémique réfractaire ou progressive avec pneumopathie interstitielle ?",
+ "contexte": "La sclérodermie systémique diffuse, avec pneumopathie interstitielle, est une cause importante de morbi-mortalité. Les traitements disponibles (cyclophosphamide, mycophénolate, rituximab, tocilizumab, nintedanib) ralentissent la maladie sans la contrôler chez tous les patients. Les formes réfractaires ou rapidement évolutives restent un défi.\n\nLes CAR-T dirigés contre les lymphocytes B ont induit des améliorations cutanées et pulmonaires dans de petites séries de sclérodermie. Les CAR-T CT1195E, développés avec CARsgen Therapeutics, sont évalués ici.\n\nCette étude de phase 1 chinoise (Union Hospital, Wuhan), ouverte et à bras unique, inclut 12 adultes de 18 à 60 ans avec une sclérodermie diffuse évoluant depuis 7 ans au plus et une atteinte interstitielle au scanner. Elle comporte une phase d'escalade puis une phase d'expansion de dose et étudie aussi la dynamique métabolique cellulaire.",
+ "interet": "Elle apportera des premières données de tolérance sur une thérapie cellulaire dans une forme grave de sclérodermie. Stade précoce, 12 patients, sans comparateur.",
+ "profil": "Des adultes de 18 à 60 ans ayant une sclérodermie systémique diffuse réfractaire ou progressive avec pneumopathie interstitielle.",
+ "inclusion": [
+  "Âge 18-60 ans, sclérodermie systémique diffuse (ACR/EULAR 2013) évoluant depuis ≤ 7 ans",
+  "Pneumopathie interstitielle (verre dépoli au scanner)",
+  "Maladie réfractaire (traitement conventionnel > 6 mois inefficace ou rechute) ou progressive (2 critères sur 3 : aggravation clinique, baisse de CVF de 5 % ou de DLCO de 10 %, aggravation radiologique)",
+  "ClCr ≥ 50 mL/min, PNN ≥ 1 G/L, Hb ≥ 90 g/L, transaminases ≤ 2 × LSN, FEVG ≥ 40 %",
+  "Absence d'infection active, contraception jusqu'à 1 an"
+ ],
+ "exclusion": [
+  "CVF ou DLCO ≤ 30 % de la théorique, atteinte rénale sévère ou crise rénale",
+  "Tuberculose active ou risque de tuberculose active",
+  "CAR-T ou thérapie génique antérieurs, greffe d'organe ou de cellules souches",
+  "Anti-CD20 dans les 3 mois, corticoïdes ≥ 10 mg/j, immunosuppresseurs ou inhibiteurs de JAK dans les 2 semaines",
+  "VIH, syphilis, hépatite B ou C active, cancer dans les 2 ans",
+  "Maladie du SNC, cardiopathie sévère récente (NYHA III-IV, infarctus)",
+  "Allergie au tocilizumab ou aux composants du produit (DMSO), grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CT1195E",
+   "traitement": "CAR-T CT1195E en perfusion, escalade puis expansion de dose"
+  }
+ ],
+ "duree": "Suivi de sécurité de 180 jours et plus (contraception requise 1 an)",
+ "critere": "Dose maximale tolérée, toxicités dose-limitantes dans les 28 jours et événements indésirables dans les 180 jours"
+}

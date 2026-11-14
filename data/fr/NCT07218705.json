@@ -1,0 +1,30 @@
+{
+ "h": "14170a6f96cb",
+ "date": "2026-11-14",
+ "titre": "Magnétocardiographie dans l'amylose cardiaque : diagnostic et suivi",
+ "question": "La magnétocardiographie (MCG) permet-elle de diagnostiquer et de suivre l'amylose cardiaque mieux que l'ECG ?",
+ "contexte": "L'amylose cardiaque, surtout à transthyrétine ou à chaînes légères, est souvent diagnostiquée tardivement, car ses signes à l'ECG (microvoltage, troubles de conduction, pseudo-nécrose) sont peu sensibles et peu spécifiques. Le diagnostic repose sur l'échographie, l'IRM, la scintigraphie et la biologie, des examens coûteux ou peu disponibles.\n\nLa magnétocardiographie mesure les champs magnétiques générés par l'activité électrique cardiaque, sans contact ni électrodes, avec une sensibilité potentiellement supérieure à l'ECG. Le dispositif utilisé ici est le CardiAQ de SandboxAQ.\n\nCette étude observationnelle de la Mayo Clinic, prévue pour 500 adultes, compare la performance diagnostique de la MCG (aire sous la courbe ROC) à celle de l'ECG à l'inclusion, puis à 6, 12 et 18 mois pour le suivi de l'évolution.",
+ "interet": "Si la MCG est plus performante que l'ECG, elle pourrait servir d'outil de dépistage ou de suivi non invasif pour orienter vers un bilan d'amylose.",
+ "profil": "Des adultes atteints d'amylose, suivis par magnétocardiographie.",
+ "inclusion": [
+  "Âge ≥ 18 ans le jour du consentement",
+  "Capacité à suivre les exigences de l'étude",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Épisode actif de fibrillation atriale sur l'ECG 12 dérivations le plus récent",
+  "Implants métalliques thoraciques actifs (stimulateur, moniteur implantable, défibrillateur)",
+  "Dispositifs externes devant rester sur le thorax pendant l'examen",
+  "Impossibilité de rester allongé et immobile",
+  "Condition compromettant la sécurité ou la réalisation du protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints d'amylose",
+   "traitement": "Magnétocardiographie (SandboxAQ CardiAQ), à l'inclusion puis à 6, 12 et 18 mois"
+  }
+ ],
+ "duree": "18 mois",
+ "critere": "Courbe ROC et aire sous la courbe de la MCG et de l'ECG, à l'inclusion et à 6, 12 et 18 mois."
+}

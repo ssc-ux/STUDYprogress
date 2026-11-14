@@ -1,0 +1,29 @@
+{
+ "h": "3bcfd1699779",
+ "date": "2026-11-14",
+ "titre": "Registre bernois des cardiomyopathies inflammatoires : IRM cardiaque et pronostic",
+ "question": "Quels paramètres de l'IRM cardiaque prédisent les événements cardiaques majeurs dans la myocardite, la péricardite et la sarcoïdose cardiaque ?",
+ "contexte": "Les cardiomyopathies inflammatoires regroupent la myocardite, la péricardite et la sarcoïdose cardiaque. Leur présentation va de l'atteinte asymptomatique à la mort subite ou à l'insuffisance cardiaque sévère, ce qui rend le diagnostic et le pronostic difficiles.\n\nL'IRM cardiaque (CMR) est l'examen de référence dans la myocardite aiguë : elle caractérise le tissu (œdème, hyperhémie, fibrose). Les critères de Lake Louise, révisés en 2018, reposent sur ces éléments. Plusieurs travaux ont montré la valeur pronostique de la CMR au-delà de la fraction d'éjection, mais sur de petites cohortes monocentriques.\n\nCe registre de l'hôpital universitaire de Berne inclut 1125 patients adultes adressés pour une CMR en raison d'une cardiomyopathie inflammatoire suspectée ou connue. Il étudie la déformation myocardique (feature tracking), les cartographies T1 et T2 et la fibrose ou cicatrice comme prédicteurs d'événements cardiaques majeurs (MACE), et cherche aussi des examens plus accessibles qui pourraient précéder la CMR.",
+ "interet": "Le registre pourrait préciser quelles combinaisons de paramètres d'IRM améliorent le pronostic dans la myocardite et la sarcoïdose cardiaque, et guider la stratification du risque.",
+ "profil": "Des adultes adressés pour une IRM cardiaque devant une cardiomyopathie inflammatoire suspectée, connue ou diagnostiquée.",
+ "inclusion": [
+  "Âge supérieur à 18 ans",
+  "Adressé pour CMR devant une cardiomyopathie inflammatoire suspectée ou connue, ou diagnostiquée à la CMR",
+  "Capacité à donner son consentement (maîtrise de la langue du projet)"
+ ],
+ "exclusion": [
+  "Incapacité à consentir ou refus écrit ou oral documenté",
+  "Maladie coronaire documentée (antécédent, imagerie ou sténose significative en coronarographie)",
+  "Cardiomyopathie hypertrophique, dysplasie arythmogène du VD, amylose cardiaque, Takotsubo, endocardite de Loeffler, non-compaction, tumeur cardiaque, embolie pulmonaire ou valvulopathie sévère persistante",
+  "Chirurgie ou intervention cardiovasculaire récente (moins de 90 jours avant la CMR)",
+  "Transplantation cardiaque"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec cardiomyopathie inflammatoire",
+   "traitement": "Patients adressés pour CMR, suivis sans intervention spécifique"
+  }
+ ],
+ "duree": "Suivi de 5 ans",
+ "critere": "Valeur prédictive pour les événements cardiaques majeurs (MACE) à 5 ans de la fonction VG/VD (feature tracking), des cartographies T1/T2 et de la fibrose ou cicatrice myocardique en CMR"
+}

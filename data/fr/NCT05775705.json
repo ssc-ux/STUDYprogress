@@ -1,0 +1,34 @@
+{
+ "h": "7e0f29cb768f",
+ "date": "2026-11-14",
+ "titre": "L-DEP associé à un anti-PD-1 dans le HLH associé à un lymphome EBV+",
+ "question": "L'association L-DEP et anti-PD-1 est-elle efficace et sûre pour traiter un HLH associé à un lymphome positif pour l'EBV ?",
+ "contexte": "Le syndrome hémophagocytaire (HLH) associé à un lymphome est une hyperinflammation grave de mauvais pronostic : la survie médiane est inférieure à 2 mois sans traitement. Les protocoles HLH-94 et HLH-04 (étoposide, corticoïdes, ciclosporine) obtiennent environ 70 % de réponse et 50 % de survie à 5 ans, mais environ 30 % des patients restent réfractaires, surtout en cas de lymphome.\n\nLe schéma L-DEP associe pegaspargase, doxorubicine liposomale, étoposide et méthylprednisolone. Il est ici combiné à un anticorps anti-PD-1, dans le cas où une infection par l'EBV est présente (ADN EBV sanguin > 1 000 copies/mL ou EBER dans un tissu). Dans ces lymphomes, la voie PD-1 est souvent activée. Cette étude monocentrique de Pékin, à un seul bras, a inclus 24 adultes. Le schéma est administré en 2 cycles de 2 semaines.",
+ "interet": "Une réponse rapide d'induction permettrait de contrôler l'hyperinflammation avant le traitement du lymphome. Les résultats resteront préliminaires, vu le design monocentrique non comparatif.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'un HLH associé à un lymphome positif pour l'EBV.",
+ "inclusion": [
+  "HLH associé à un lymphome",
+  "ADN EBV sanguin > 1 000 copies/mL ou EBER détecté dans un tissu",
+  "Âge de 18 à 70 ans",
+  "Survie estimée ≥ 1 mois",
+  "FEVG ≥ 50 %, pas d'hémorragie viscérale active, index d'oxygénation > 250 si dyspnée",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque NYHA > II",
+  "Atteinte myocardique sévère (troponine ou CK-MB > 3 N)",
+  "Dose cumulée d'anthracyclines élevée ou cardiopathie aux anthracyclines",
+  "Grossesse ou allaitement",
+  "Allergie à la doxorubicine liposomale, à l'étoposide ou à l'anti-PD-1",
+  "Dysfonction thyroïdienne, VIH positif, hépatite B ou C active",
+  "Participation à une autre recherche"
+ ],
+ "bras": [
+  {
+   "nom": "L-DEP et anti-PD-1",
+   "traitement": "Pegaspargase, doxorubicine liposomale, étoposide, méthylprednisolone et anticorps anti-PD-1, 2 cycles de 2 semaines"
+  }
+ ],
+ "duree": "Non précisé (induction de 4 semaines)",
+ "critere": "Taux de réponse, 2 semaines après le début du schéma L-DEP associé à l'anti-PD-1."
+}

@@ -1,0 +1,36 @@
+{
+ "h": "6334d890dc9b",
+ "date": "2026-11-14",
+ "titre": "KYSA-1 : CAR-T anti-CD19 (KYV-101) dans la néphrite lupique réfractaire",
+ "question": "Les CAR-T anti-CD19 KYV-101 sont-ils sûrs et efficaces chez des patients atteints de néphrite lupique réfractaire ?",
+ "contexte": "La néphrite lupique touche environ la moitié des patients atteints de lupus et peut conduire à l'insuffisance rénale. Les lymphocytes B jouent un rôle central, par les auto-anticorps et par l'inflammation tissulaire. Les traitements actuels (corticoïdes, mycophénolate, cyclophosphamide, bélimumab, anti-calcineurines) laissent un besoin pour les formes réfractaires.\n\nLes CAR-T anti-CD19 détruisent les lymphocytes B circulants, et peut-être tissulaires, en profondeur. Des cas de lupus réfractaire traités ainsi ont obtenu des rémissions sans traitement. Le KYV-101 est un CAR-T autologue entièrement humain. Cette étude de phase 1/2 ouverte, promue par Kyverna, comporte une phase d'escalade de dose et une phase 2 à la dose recommandée, après lymphodéplétion. L'étude a été arrêtée avec 6 patients inclus dans 6 centres. Aucun résultat n'est publié sur le registre.",
+ "interet": "L'étude devait évaluer la tolérance et l'efficacité rénale d'une approche de reset immunitaire dans une atteinte rénale réfractaire. L'arrêt précoce limite les conclusions.",
+ "profil": "Des adultes atteints de néphrite lupique proliférative de classe III ou IV réfractaire.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Néphrite lupique proliférative de classe III ou IV prouvée par biopsie (ISN/RPS 2018)",
+  "Anticorps antinucléaires ≥ 1/80, anti-ADN natif ≥ 30 UI/mL ou anti-Sm",
+  "Vaccinations à jour, y compris contre la COVID-19"
+ ],
+ "exclusion": [
+  "Glomérulonéphrite rapidement progressive ou lupus neurologique sévère",
+  "Traitement antérieur par CAR-T ou thérapie génique",
+  "Antécédent de greffe de cellules souches",
+  "Hépatite B ou C active, VIH, déficit immunitaire primitif, splénectomie",
+  "Pathologie neurologique à risque, atteinte cardiaque significative",
+  "Cancer antérieur ou en cours (sauf exceptions définies)"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 1",
+   "traitement": "KYV-101 (CAR-T anti-CD19) après lymphodéplétion standard, escalade de dose"
+  },
+  {
+   "nom": "Phase 2",
+   "traitement": "KYV-101 à la dose recommandée pour la phase 2, après lymphodéplétion"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Événements indésirables et anomalies biologiques (jusqu'à 2 ans), toxicités dose-limitantes (phase 1) et efficacité (phase 2, jusqu'à 52 semaines)."
+}

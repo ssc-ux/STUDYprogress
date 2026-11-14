@@ -1,0 +1,24 @@
+{
+ "h": "38557ea48bdf",
+ "date": "2026-11-14",
+ "titre": "Manifestations phénotypiques de l'amylose ATTR héréditaire Val50Met en zone non endémique",
+ "question": "Quelles sont les manifestations préclinique, cardiaque, neurologique et mixtes des porteurs du variant TTR Val50Met en Argentine, zone non endémique ?",
+ "contexte": "L'amylose héréditaire à transthyrétine (ATTRv) est une maladie autosomique dominante due à des variants du gène TTR. Le variant Val50Met (p.Val30Met) est le plus fréquent dans le monde. Il est associé à une polyneuropathie sensitivo-motrice et autonome progressive, et à une atteinte cardiaque variable.\n\nLa maladie est mieux connue dans les foyers endémiques (Portugal, Suède, Brésil, Japon), où elle débute souvent précocement. Dans les zones non endémiques, la pénétrance, l'âge de début et la présentation (neurologique, cardiaque ou mixte) sont moins bien caractérisés, ce qui retarde souvent le diagnostic.\n\nCette étude observationnelle de l'hôpital 9 de Julio de Las Breñas (Argentine) inclut 57 porteurs de 20 à 70 ans. Le bilan comprend examen neurologique, ECG, Holter, échocardiographie avec strain, scintigraphie au DPD, EMG, questionnaires de qualité de vie et d'atteinte neurologique et dysautonomique, et bilan biologique.",
+ "interet": "L'étude pourrait aider à mieux dépister et classer les porteurs du Val50Met hors des foyers endémiques. Ceci permettrait un diagnostic plus précoce, avant l'instauration de traitements spécifiques.",
+ "profil": "Des adultes de 20 à 70 ans porteurs du variant TTR Val50Met.",
+ "inclusion": [
+  "Âge de 20 à 70 ans",
+  "Porteur du variant Val50Met du gène TTR (test génétique positif)"
+ ],
+ "exclusion": [
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Porteurs Val50Met",
+   "traitement": "Examen clinique et neurologique, ECG, Holter, échocardiographie avec strain, EMG, scintigraphie DPD, questionnaires (Norfolk QOL-DN, NIS-LL, COMPASS-31) et biologie"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Description des variables phénotypiques (préclinique, cardiologique, neurologique et mixte) des porteurs, sur 2 ans."
+}

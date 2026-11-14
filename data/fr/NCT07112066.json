@@ -1,0 +1,27 @@
+{
+ "h": "a4b4429fd965",
+ "date": "2026-11-14",
+ "titre": "Imagerie cardiaque multimodale (IRM et TEP-FAPI) pour la progression de l'amylose cardiaque ATTR",
+ "question": "L'imagerie multimodale, dont la TEP au 18F-FAPI, aide-t-elle à comprendre l'évolution de l'amylose cardiaque à transthyrétine sous tafamidis ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cardiomyopathie restrictive due au dépôt de fibrilles de transthyrétine. Les stabilisateurs (tafamidis, acoramidis) et les silenceurs (vutrisiran) ralentissent l'évolution. Pourtant, chez environ un tiers des patients, la maladie continue de progresser.\n\nLes mécanismes biologiques de cette résistance dans le myocarde sont mal connus. Le FAPI, traceur de l'activation des fibroblastes, pourrait refléter la fibrose active et l'inflammation. L'IRM cardiaque décrit les lésions structurelles et la charge amyloïde.\n\nCette étude de l'hôpital universitaire de Zurich inclut 50 patients sur le point de débuter le tafamidis. Ils ont une échographie, une IRM et une TEP-FAPI supplémentaires à l'inclusion et un an plus tard, avec bilans sanguins et questionnaires. Le critère est la variation de la fixation du FAPI.",
+ "interet": "L'étude pourrait identifier des marqueurs d'imagerie de la progression sous traitement. Ils pourraient aider à repérer les patients en échec du tafamidis, sans qu'aucun changement de traitement ne soit testé.",
+ "profil": "Des adultes atteints d'amylose cardiaque ATTR, sur le point de débuter le tafamidis à Zurich.",
+ "inclusion": [
+  "Amylose cardiaque ATTR selon les critères multisociétés récents",
+  "Début prévu du tafamidis à l'hôpital universitaire de Zurich"
+ ],
+ "exclusion": [
+  "Autre traitement de fond (par exemple patisiran)",
+  "Arythmie supraventriculaire en cours",
+  "Stimulation ventriculaire",
+  "Infarctus septal antérieur"
+ ],
+ "bras": [
+  {
+   "nom": "Imagerie 18F-FAPI TEP/TDM",
+   "traitement": "Échographie, IRM cardiaque et TEP au 18F-FAPI supplémentaires à l'inclusion et à 1 an, sous tafamidis"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Variation de la fixation du FAPI entre l'inclusion et 1 an."
+}

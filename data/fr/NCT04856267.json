@@ -1,0 +1,27 @@
+{
+ "h": "c51fcd174620",
+ "date": "2026-11-14",
+ "titre": "Charge arythmique de l'amylose cardiaque explorée par moniteur cardiaque implantable",
+ "question": "Quels troubles du rythme significatifs surviennent chez les patients atteints d'amylose cardiaque AL ou ATTR, repérés par un moniteur cardiaque implantable ?",
+ "contexte": "L'amylose cardiaque, AL ou à transthyrétine (ATTR), s'accompagne d'un risque élevé de mort subite, atteignant jusqu'à un tiers des patients. Les mécanismes sont discutés : dissociation électromécanique, tachycardies ventriculaires ou bradycardies pré-terminales. Les études de défibrillateurs implantables (DAI) rapportent des thérapies appropriées dans 27 à 32 % des cas, mais elles sont petites, monocentriques et rétrospectives.\n\nLe moment optimal pour implanter un stimulateur ou un DAI reste mal défini, et la charge réelle des arythmies et des bradycardies est peu connue. Cette étude observationnelle, promue par le Dr Marianna Fontana (National Amyloidosis Centre, Londres), pose un moniteur cardiaque implantable sous-cutané (Reveal LINQ, Medtronic) chez 110 patients pour surveiller le rythme en continu.\n\nElle vise à décrire l'incidence et la nature des troubles du rythme significatifs, à comprendre leurs causes et à identifier les patients à risque, pour guider d'éventuels dispositifs préventifs.",
+ "interet": "L'étude pourrait indiquer quels patients atteints d'amylose cardiaque ont besoin d'un stimulateur ou d'un défibrillateur, et à quel moment. Elle apporterait des données prospectives dans une situation où les recommandations manquent.",
+ "profil": "Des adultes atteints d'amylose cardiaque AL ou ATTR, sans dispositif cardiaque implanté.",
+ "inclusion": [
+  "Âge supérieur à 18 ans",
+  "Amylose cardiaque AL ou ATTR diagnostiquée selon les critères standards du centre national d'amylose",
+  "Consentement écrit éclairé"
+ ],
+ "exclusion": [
+  "Stimulateur, défibrillateur ou moniteur implantable déjà posé",
+  "Autre pathologie cardiaque ou non cardiaque pouvant gêner le recueil du critère principal",
+  "Contre-indication à l'IRM cardiaque"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte d'amylose cardiaque",
+   "traitement": "Implantation sous-cutanée d'un moniteur cardiaque LINQ (Medtronic) pour surveillance continue du rythme"
+  }
+ ],
+ "duree": "Jusqu'à 3 ans",
+ "critere": "Incidence et nature des troubles du rythme cardiaque significatifs détectés par le moniteur implantable, jusqu'à 3 ans"
+}

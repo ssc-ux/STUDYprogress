@@ -1,0 +1,35 @@
+{
+ "h": "994e4fa05aac",
+ "date": "2026-11-14",
+ "titre": "Groupes de discussion sur la décision partagée dans les vascularites associées aux ANCA",
+ "question": "Comment les patients et les soignants perçoivent-ils la décision médicale partagée dans les vascularites associées aux ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (GPA, PAM, GEPA) sont des maladies auto-immunes multisystémiques touchant les petits vaisseaux, parfois menaçantes pour des organes ou la vie, avec un retentissement durable sur la qualité de vie. Les patients sont suivis par plusieurs spécialités, notamment la néphrologie et la rhumatologie.\n\nLe NICE recommande la décision partagée dans tous les soins, et les recommandations EULAR sur les vascularites la placent comme élément clé, mais elle n'est pas appliquée de façon systématique. Le groupe OMERACT a défini six domaines d'évaluation des interventions de décision partagée : connaissance des options, cohérence avec les valeurs, confiance dans le choix, satisfaction, adhésion et conséquences négatives éventuelles.\n\nLes déterminants sociaux de santé freinent l'accès aux soins, avec un risque accru de poussées. Cette étude qualitative de l'University of the West of England organise six groupes de patients (diagnostic et début de traitement, puis entretien, poussées et arrêt) et deux groupes de soignants en ligne, au Royaume-Uni et en Irlande, pour dégager des principes guidant de futurs outils.",
+ "interet": "Les principes dégagés serviront à concevoir des outils d'aide à la décision partagée adaptés aux vascularites à ANCA.",
+ "profil": "Des adultes atteints de vascularite à ANCA et des professionnels de santé qui les prennent en charge, au Royaume-Uni et en Irlande.",
+ "inclusion": [
+  "Patients : vascularite à ANCA, âge ≥ 18 ans, capacité de consentir",
+  "Patients : bonne compréhension de l'anglais, résidence au Royaume-Uni ou en Irlande",
+  "Soignants : médecins, infirmiers spécialisés, kinésithérapeutes, ergothérapeutes, psychologues, pharmaciens",
+  "Soignants : prenant en charge des patients avec vascularite à ANCA, au Royaume-Uni ou en Irlande"
+ ],
+ "exclusion": [
+  "Absence de vascularite à ANCA",
+  "Âge < 18 ans",
+  "Incapacité de consentir",
+  "Impossibilité de participer en anglais",
+  "Résidence ou exercice hors Royaume-Uni et Irlande",
+  "Membre du comité de pilotage"
+ ],
+ "bras": [
+  {
+   "nom": "Groupes de patients",
+   "traitement": "Six groupes de discussion, trois sur le diagnostic et le début du traitement, trois sur l'entretien, les poussées et l'arrêt"
+  },
+  {
+   "nom": "Groupes de soignants",
+   "traitement": "Deux groupes de discussion en ligne sur les principes de la décision partagée"
+  }
+ ],
+ "duree": "Un seul groupe de discussion par participant",
+ "critere": "Domaines d'importance et facteurs contextuels de la décision partagée dans les vascularites à ANCA, issus des groupes de discussion."
+}

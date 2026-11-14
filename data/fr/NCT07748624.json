@@ -1,0 +1,37 @@
+{
+ "h": "c224043e78ba",
+ "date": "2026-11-14",
+ "titre": "Arumakimig (MAS825) contre placebo dans le syndrome VEXAS, avec extension ouverte",
+ "question": "L'arumakimig améliore-t-il les manifestations clés du syndrome VEXAS et permet-il de réduire les corticoïdes oraux par rapport au placebo ?",
+ "contexte": "Le syndrome VEXAS est une maladie auto-inflammatoire de l'adulte due à une mutation somatique du gène UBA1, dans les cellules myéloïdes. Elle associe fièvre, atteinte cutanée, chondrite, pneumopathie, manifestations vasculaires et macrocytose avec cytopénies, et peut se compliquer d'un syndrome myélodysplasique.\n\nIl n'existe pas de traitement approuvé. La prise en charge repose sur de fortes doses de corticoïdes, dont les patients deviennent dépendants, avec des essais thérapeutiques d'agents ciblés (inhibiteurs de JAK, anti-IL-6, anti-IL-1) et des greffes de cellules souches dans les cas sévères. La réponse est souvent partielle et la maladie reste grevée d'une mortalité élevée.\n\nL'arumakimig (MAS825) est un anticorps bispécifique dirigé contre l'IL-1β et l'IL-18, deux cytokines impliquées dans l'inflammasome. Cet essai de phase 2 de Novartis, VEX-AR, randomise 120 adultes porteurs d'une mutation d'UBA1 et d'au moins deux manifestations de VEXAS, sous corticoïdes, entre arumakimig et placebo pendant 52 semaines. Les patients peuvent ensuite entrer dans une extension ouverte de 104 semaines. Le critère principal combine l'amélioration des manifestations clés et la réduction des corticoïdes à la semaine 52.",
+ "interet": "C'est un des premiers essais randomisés contre placebo dans le VEXAS, qui pourrait valider une approche ciblant IL-1β et IL-18.",
+ "profil": "Des adultes porteurs d'une mutation somatique d'UBA1 et atteints d'un syndrome VEXAS actif, sous corticoïdes.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Mutation somatique d'UBA1 associée au VEXAS",
+  "Au moins 2 manifestations de VEXAS au dépistage ou dans les 6 mois précédents",
+  "Capacité à débuter une prophylaxie de la pneumocystose si indiquée",
+  "Capacité à communiquer et à respecter le protocole"
+ ],
+ "exclusion": [
+  "Hépatite B (AgHBs positif, ou anti-HBc positif sauf critères du protocole) ou ARN du VHC détectable",
+  "Infection active nécessitant un traitement systémique, ou infections récurrentes",
+  "Infection par le VIH connue ou suspectée",
+  "Vaccins vivants dans la période précédant le traitement",
+  "Antécédent de cancer (hors exceptions cutanées et in situ listées)",
+  "Atteinte hépatique modérée à sévère (Child-Pugh), cirrhose",
+  "Refus de contraception requise"
+ ],
+ "bras": [
+  {
+   "nom": "Arumakimig",
+   "traitement": "Arumakimig pendant 52 semaines, puis extension ouverte jusqu'à la semaine 156 ; corticoïdes oraux associés"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo pendant 52 semaines, puis arumakimig en extension ouverte jusqu'à la semaine 156"
+  }
+ ],
+ "duree": "52 semaines en double aveugle, extension ouverte jusqu'à la semaine 156, suivi de sécurité de 16 semaines",
+ "critere": "Proportion de patients ayant amélioré les manifestations clés du VEXAS avec réduction des corticoïdes oraux à la semaine 52"
+}

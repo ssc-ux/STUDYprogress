@@ -1,0 +1,32 @@
+{
+ "h": "6233c33c6a3c",
+ "date": "2026-11-14",
+ "titre": "SAR445088 au long cours dans la maladie des agglutinines froides",
+ "question": "Le SAR445088 est-il bien toléré à long terme chez des adultes atteints de maladie des agglutinines froides (MAF), déjà traités ou non par cette molécule ?",
+ "contexte": "La maladie des agglutinines froides est une anémie hémolytique auto-immune rare, médiée par des IgM qui activent le complément par la voie classique et provoquent une hémolyse extravasculaire, surtout dans le foie. Elle se manifeste par une anémie chronique, une fatigue et une acrosyndrome au froid. La sutimlimab, anti-C1s, est approuvé dans l'hémolyse de la MAF, mais le besoin de traitements supplémentaires persiste.\n\nLe SAR445088 est un anticorps monoclonal expérimental, inhibiteur sélectif de la voie classique du complément (cible C1s). Cet essai de phase 1 ouvert, promu par Bioverativ (Sanofi), est une extension à long terme en deux parties : la partie 1 recrute des patients déjà traités dans une étude précédente, la partie 2 des patients naïfs de SAR445088.\n\nL'étude a été arrêtée prématurément, avec 9 participants. Elle visait la tolérance à long terme et, en secondaire, l'effet sur l'hémolyse, la pharmacodynamie, la pharmacocinétique et l'immunogénicité.",
+ "interet": "L'étude fournit des données de sécurité à long terme d'un inhibiteur du complément dans la MAF. L'arrêt anticipé en limite la portée.",
+ "profil": "Des adultes de 18 ans et plus atteints de maladie des agglutinines froides, déjà traités ou naïfs de SAR445088.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Partie 1 : patient ayant terminé une étude antérieure de SAR445088, avec bénéfice-risque favorable",
+  "Partie 2 : MAF (hémolyse chronique, test de Coombs direct positif C3d, titre d'agglutinines froides ≥ 64 à 4 °C, IgG-DAT ≤ 1+, Hb ≤ 10 g/dL, bilirubine élevée)",
+  "Vaccinations contre les bactéries encapsulées documentées",
+  "Double contraception, consentement écrit"
+ ],
+ "exclusion": [
+  "Syndrome d'agglutinines froides secondaire (infection, maladie rhumatologique, hémopathie maligne de haut grade, tumeur solide)",
+  "Infection cliniquement pertinente dans le mois précédent",
+  "Lupus érythémateux systémique",
+  "Anti-CD20 récent (3 mois en monothérapie, 6 mois en association) ou autre immunosuppresseur ou cytotoxique",
+  "Autre inhibiteur du complément (éculizumab, etc.) dans les 3 mois",
+  "Corticoïdes > 10 mg/j de prednisone ou hypersensibilité au SAR445088"
+ ],
+ "bras": [
+  {
+   "nom": "SAR445088",
+   "traitement": "SAR445088 en administrations répétées, en ouvert"
+  }
+ ],
+ "duree": "Jusqu'à environ 6 ans de traitement et de suivi (2 ans après la dernière inclusion de la partie 2)",
+ "critere": "Nombre de participants avec événements indésirables survenus sous traitement, du jour 1 à la fin de l'étude (environ 6 ans)"
+}

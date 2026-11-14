@@ -1,0 +1,32 @@
+{
+ "h": "6cedf3f26dbf",
+ "date": "2026-11-14",
+ "titre": "Diagnostic standardisé de l'amylose ATTR chez les sujets à haut risque en Chine",
+ "question": "Quelle proportion de patients à haut risque reçoit un diagnostic d'amylose ATTR grâce à un parcours diagnostique standardisé ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée, surtout après 60 ans. Un épaississement ventriculaire gauche, une élévation du NT-proBNP et un profil évocateur à l'échographie doivent la faire évoquer.\n\nLe diagnostic non invasif repose sur l'élimination d'une amylose AL (immunofixation, chaînes légères libres) puis sur la scintigraphie osseuse au 99mTc-PYP. Ce parcours est mal maîtrisé en pratique, d'où des retards.\n\nCette étude promue par AstraZeneca est menée dans une cinquantaine de centres chinois. Elle inclut environ 4 000 adultes de 60 ans ou plus avec insuffisance cardiaque symptomatique (FEVG ≥ 40 %), NT-proBNP > 300 pg/mL et hypertrophie ventriculaire gauche (≥ 12 mm). L'intervention est une formation des investigateurs (connaissances, procédures, interprétation d'imagerie) avec vérification de la conformité des sites. Le diagnostic est mené en 14 semaines.",
+ "interet": "Elle mesurera le rendement d'un parcours standardisé de dépistage de l'ATTR en insuffisance cardiaque à fraction d'éjection préservée avec hypertrophie. Étude descriptive, sans hypothèse prédéfinie, à promotion industrielle.",
+ "profil": "Des adultes de 60 ans ou plus avec insuffisance cardiaque symptomatique, FEVG ≥ 40 % et hypertrophie ventriculaire gauche.",
+ "inclusion": [
+  "Âge ≥ 60 ans",
+  "Insuffisance cardiaque symptomatique (NYHA I-III)",
+  "NT-proBNP > 300 pg/mL",
+  "FEVG ≥ 40 %",
+  "Hypertrophie ventriculaire gauche (épaisseur ≥ 12 mm à l'échographie)",
+  "Accepter la scintigraphie au 99mTc-PYP et les visites prévues"
+ ],
+ "exclusion": [
+  "Cause connue de cardiopathie (amylose connue, sarcoïdose, hémochromatose, hypertension, cardiomyopathie hypertrophique génétique, etc.)",
+  "Anomalie des chaînes légères libres ou de l'immunofixation sérique ou urinaire",
+  "Pontage ou coronaropathie multitronculaire",
+  "Infarctus dans les 6 mois",
+  "Scintigraphie impossible (hypersensibilité au 99mTc, DFG < 30 mL/min/1,73 m², leucocytes < 3,5 G/L ou plaquettes < 80 G/L)"
+ ],
+ "bras": [
+  {
+   "nom": "Bras unique",
+   "traitement": "Parcours standardisé d'identification et de diagnostic de l'ATTR, avec formation des investigateurs"
+  }
+ ],
+ "duree": "14 semaines",
+ "critere": "Proportion de patients diagnostiqués d'amylose ATTR à la semaine 14"
+}

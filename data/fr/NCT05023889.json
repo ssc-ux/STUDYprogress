@@ -1,0 +1,33 @@
+{
+ "h": "1ce5bafc575e",
+ "date": "2026-11-14",
+ "titre": "Patisiran dans la polyneuropathie de l'amylose ATTR sauvage",
+ "question": "Le patisiran améliore-t-il l'atteinte neurologique et la qualité de vie chez des patients ayant une amylose ATTR de type sauvage et une polyneuropathie symptomatique ?",
+ "contexte": "L'amylose à transthyrétine de type sauvage (ATTRwt), touchant surtout l'homme âgé, est connue pour la cardiomyopathie, mais s'accompagne aussi de neuropathies périphériques et dysautonomiques souvent sous-diagnostiquées, par exemple canal carpien ou polyneuropathie sensitivomotrice. Leur fréquence et leur réponse aux traitements sont peu étudiées.\n\nLe patisiran est un ARN interférent en perfusion IV qui diminue la production hépatique de transthyrétine. Il est approuvé pour la polyneuropathie de l'amylose héréditaire (hATTR) sur la base de l'essai APOLLO, avec amélioration du score de neuropathie.\n\nCette étude de phase 1 ouverte du Austin Neuromuscular Center, soutenue par Alnylam, traite 10 patients ayant une ATTRwt confirmée (biopsie cardiaque ou scintigraphie PYP, séquençage hATTR négatif) et une polyneuropathie symptomatique. Le patisiran est donné toutes les 3 semaines pendant 24 mois, avec évaluation de l'atteinte neurologique, de la qualité de vie et des symptômes dysautonomiques.",
+ "interet": "L'étude pourrait montrer si le patisiran agit sur la neuropathie de l'ATTRwt, une atteinte fréquente mais peu traitée. Son effectif de 10 patients et l'absence de bras comparateur limitent la portée.",
+ "profil": "Des adultes ayant une amylose ATTR de type sauvage et une polyneuropathie symptomatique.",
+ "inclusion": [
+  "Âge supérieur à 18 ans",
+  "Polyneuropathie symptomatique",
+  "ATTRwt confirmée par biopsie cardiaque ou scintigraphie Tc99m-PYP, séquençage hATTR négatif",
+  "Protéine monoclonale sérique de 0 à 0,5 g/dL",
+  "Absence d'autre cause secondaire de neuropathie",
+  "Hémogramme et bilan hépatique corrects, sérologies VHB et VHC négatives"
+ ],
+ "exclusion": [
+  "Autre cause de neuropathie, amylose AL primaire, infection par le VIH",
+  "NYHA IV ; AST/ALT > 2 N, bilirubine > N, INR > 1,5, DFG < 30 mL/min/1,73 m²",
+  "Diflunisal en cours (ou arrêté depuis moins de 6 mois), doxycycline ou TUDCA (arrêt de moins de 30 jours)",
+  "Traitement antérieur diminuant la TTR ou thérapie génique ; participation à un autre essai",
+  "Cardiomyopathie non amyloïde ; syndrome coronaire aigu ou angor instable de moins de 3 mois ; tachycardie ventriculaire soutenue",
+  "Transplantation prévue ou antérieure, cancer dans les 5 ans, hypertension non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "Bras ouvert unique",
+   "traitement": "Patisiran en perfusion IV toutes les 3 semaines pendant 24 mois"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Évolution entre l'inclusion et 24 mois du score d'atteinte neurologique (NIS), du Norfolk QOL-DN et du COMPASS 31"
+}

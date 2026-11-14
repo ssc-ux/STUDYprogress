@@ -1,0 +1,28 @@
+{
+ "h": "5fbda221488a",
+ "date": "2026-11-14",
+ "titre": "Maladie résiduelle et greffe autologue dans l'amylose AL après réponse complète sous Dara-CyBorD",
+ "question": "Chez les patients en réponse hématologique complète après Dara-CyBorD mais avec maladie résiduelle détectable, la greffe autologue améliore-t-elle la réponse d'organe et la survie ?",
+ "contexte": "L'amylose AL est une maladie des plasmocytes : un clone souvent petit produit des chaînes légères qui forment des fibrilles amyloïdes et altèrent progressivement les organes. Sans traitement, la médiane de survie est d'environ 12 mois. Les inhibiteurs du protéasome et le daratumumab ont profondément amélioré le pronostic.\n\nUne réponse hématologique très bonne ou complète est associée à plus de réponses d'organe et à une meilleure survie, mais tous les patients en réponse complète n'obtiennent pas de réponse d'organe. Un clone plasmocytaire résiduel (maladie résiduelle mesurable, MRD) pourrait expliquer ces échecs. Depuis l'essai ANDROMEDA (NCT03201965), le Dara-CyBorD est un traitement de première ligne de référence, ce qui a relancé le débat sur le rôle de la greffe autologue (ASCT) ; la MRD pourrait aider à choisir.\n\nCette étude monocentrique de Peking University First Hospital inclut 50 patients de 18 à 70 ans, éligibles à la greffe, en réponse complète après 2 à 4 cycles de Dara-CyBorD. Les patients MRD positifs sont orientés vers l'ASCT. Les critères sont la réponse d'organe, la survie sans progression et la survie globale à 2 ans.",
+ "interet": "Elle pourrait préciser si la MRD doit guider le recours à la greffe autologue dans l'amylose AL. Le design monobras ne permet pas de comparaison directe.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'amylose AL nouvellement diagnostiquée, éligibles à la greffe, en réponse hématologique complète après Dara-CyBorD.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Amylose AL nouvellement diagnostiquée",
+  "Éligible à la greffe autologue et souhaitant la recevoir",
+  "Réponse hématologique complète après 2 à 4 cycles de Dara-CyBorD"
+ ],
+ "exclusion": [
+  "Amylose secondaire à un myélome ou à un lymphome lymphoplasmocytaire (Waldenström)",
+  "Autre cancer actif",
+  "Autre maladie systémique jugée incompatible (maladie cardiovasculaire ou cérébrovasculaire récente sévère, infection grave)"
+ ],
+ "bras": [
+  {
+   "nom": "Dara-CyBorD puis ASCT si MRD positive",
+   "traitement": "Dara-CyBorD de première ligne ; greffe autologue recommandée aux patients en réponse complète mais MRD positifs"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Taux de réponse d'organe, survie sans progression et survie globale à 2 ans."
+}

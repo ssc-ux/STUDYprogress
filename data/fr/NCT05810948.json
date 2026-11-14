@@ -1,0 +1,37 @@
+{
+ "h": "26cf6830b6f8",
+ "date": "2026-11-14",
+ "titre": "Efgartigimod dans la néphrite lupique chez des patients chinois",
+ "question": "L'efgartigimod intraveineux diminue-t-il la protéinurie des patients chinois atteints de néphrite lupique active ?",
+ "contexte": "La néphrite lupique de classe III ou IV est une atteinte grave du lupus. Le traitement d'induction associe corticoïdes et mycophénolate (ou cyclophosphamide), avec un ajout possible de bélimumab, de voclosporine ou d'anifrolumab. Une partie des patients n'obtient pas de réponse rénale complète, avec risque d'insuffisance rénale.\n\nL'efgartigimod est un fragment Fc qui bloque le récepteur néonatal Fc (FcRn) et accélère ainsi le catabolisme des IgG, dont les auto-anticorps pathogènes. Il est déjà utilisé dans la myasthénie. Cette étude de phase 2 de preuve de concept (argenx, Zai Lab) a inclus 73 adultes en Chine, dans 31 centres. Elle compare l'efgartigimod IV au placebo en plus de l'induction par glucocorticoïdes et mycophénolate, avec une biopsie rénale relue de façon centralisée. Elle comprend 24 semaines de traitement et 8 semaines de suivi.",
+ "interet": "Elle teste une approche nouvelle, qui élimine les IgG pathogènes sans immunosuppression supplémentaire, dans une atteinte sévère du lupus.",
+ "profil": "Des adultes chinois atteints de néphrite lupique active de classe III ou IV, avec ou sans classe V.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Lupus selon les critères SLICC 2012",
+  "Néphrite lupique proliférative active de classe III ou IV (± V), biopsie de moins de 6 mois relue de façon centralisée",
+  "Induction par glucocorticoïdes et mycophénolate débutée dans les 60 jours avant la randomisation",
+  "Contraception adaptée"
+ ],
+ "exclusion": [
+  "Infection active ou chronique nécessitant un traitement",
+  "Atteinte lupique du système nerveux central",
+  "Dialyse en cours ou prévue, greffe rénale",
+  "Cancer sauf guérison depuis ≥ 3 ans ou cancer cutané non mélanique, in situ",
+  "Insuffisance cardiaque d'origine lupique ou atteinte cardiovasculaire grave",
+  "Échec antérieur d'une induction par mycophénolate",
+  "Test antigénique SARS-CoV-2 positif, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Efgartigimod IV",
+   "traitement": "Perfusions d'efgartigimod IV avec traitement d'induction standard"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusions de placebo avec traitement d'induction standard"
+  }
+ ],
+ "duree": "24 semaines de traitement, puis 8 semaines de suivi",
+ "critere": "Variation du rapport protéinurie/créatininurie (UPCR) entre l'inclusion et la semaine 24."
+}

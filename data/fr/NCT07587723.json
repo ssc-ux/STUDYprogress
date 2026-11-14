@@ -1,0 +1,29 @@
+{
+ "h": "e35afb4df8b1",
+ "date": "2026-11-14",
+ "titre": "Eltrombopag en pratique réelle dans le PTI primaire après corticoïdes",
+ "question": "Comment l'eltrombopag est-il utilisé et quelle réponse plaquettaire obtient-on en pratique réelle après une corticothérapie dans le PTI primaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune responsable d'une thrombopénie et d'un risque hémorragique. Les corticoïdes, avec ou sans immunoglobulines IV, sont le traitement de première ligne, mais les rechutes sont fréquentes. Les agonistes du récepteur de la thrombopoïétine, dont l'eltrombopag, sont recommandés en seconde ligne.\n\nLes modalités réelles d'utilisation de l'eltrombopag dans cette situation, notamment le délai d'initiation, la durée et les traitements associés, restent peu documentées. Cette étude observationnelle promue par Novartis s'appuie sur des données secondaires issues de dossiers patients, fournies par des médecins, et sur une enquête structurée en ligne.\n\nElle porte sur des adultes ayant débuté l'eltrombopag, comme premier traitement non corticoïde, entre 2020 et 2024, avec au moins 6 mois de suivi. Les données sont recueillies auprès de médecins exerçant aux États-Unis, au Royaume-Uni et en Allemagne.",
+ "interet": "Elle pourrait décrire les pratiques réelles et la réponse plaquettaire sous eltrombopag après les corticoïdes. Elle n'apporte pas de comparaison avec d'autres traitements.",
+ "profil": "Des adultes atteints de PTI primaire ayant débuté l'eltrombopag après une corticothérapie.",
+ "inclusion": [
+  "Médecins : spécialiste prenant en charge des adultes atteints de PTI primaire, avec au moins 3 ans d'expérience",
+  "Médecins : exercice aux États-Unis, au Royaume-Uni ou en Allemagne, enquête web de 60 à 70 minutes et extraction de 2 dossiers",
+  "Patients : PTI primaire confirmé, âge de 18 ans ou plus au diagnostic",
+  "Patients : corticothérapie de première ligne (avec ou sans IgIV)",
+  "Patients : eltrombopag débuté entre le 1er janvier 2020 et le 31 décembre 2024, avec au moins 6 mois de suivi"
+ ],
+ "exclusion": [
+  "Patients : syndrome d'Evans, PTI secondaire ou thrombopénie non immune",
+  "Médecins : employés d'un laboratoire ou d'une autorité de régulation impliquée dans le PTI",
+  "Médecins : incapables de fournir des données de patients éligibles ou ne prenant pas en charge de PTI"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte eltrombopag",
+   "traitement": "Adultes avec PTI primaire ayant débuté l'eltrombopag entre 2020 et 2024 après corticoïdes"
+  }
+ ],
+ "duree": "Au moins 6 mois de suivi rétrospectif par patient",
+ "critere": "Nombre et pourcentage de patients ayant une réponse plaquettaire initiale dans les 12 semaines suivant le début du traitement"
+}

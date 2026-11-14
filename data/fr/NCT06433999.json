@@ -1,0 +1,31 @@
+{
+ "h": "e38e321283ab",
+ "date": "2026-11-14",
+ "titre": "Brépocitinib oral dans la dermatomyosite à prédominance cutanée : étude pilote de 12 semaines",
+ "question": "Le brépocitinib oral améliore-t-il l'atteinte cutanée de la dermatomyosite réfractaire avec peu ou pas d'atteinte musculaire ?",
+ "contexte": "La dermatomyosite est une myopathie inflammatoire auto-immune associant atteinte musculaire et lésions cutanées caractéristiques. Chez certains patients, l'atteinte cutanée domine, avec peu ou pas de faiblesse musculaire, et elle reste souvent réfractaire aux traitements usuels (antipaludéens, immunosuppresseurs, immunoglobulines).\n\nL'interféron de type I et la voie JAK/STAT jouent un rôle central dans la physiopathologie de la dermatomyosite. Le brépocitinib, inhibiteur de TYK2 et JAK1, a été développé dans cette indication, notamment dans un essai de phase 3 sur la dermatomyosite en général.\n\nCette étude pilote de phase 2, ouverte, à un seul bras et monocentrique (Mayo Clinic, promoteur Priovant), traite 5 adultes ayant une dermatomyosite cutanée réfractaire par brépocitinib 30 mg par jour pendant 12 semaines. L'évolution est mesurée par le score d'activité cutanée CDASI-A, qui est le critère principal. L'étude cible la forme à prédominance cutanée, moins représentée dans les essais précédents.",
+ "interet": "Elle peut apporter un signal d'efficacité d'un inhibiteur de JAK/TYK2 sur la peau dans la dermatomyosite cutanée réfractaire, mais l'effectif très limité ne permettra pas de conclusion ferme.",
+ "profil": "Des adultes ayant une dermatomyosite à prédominance cutanée, active et réfractaire.",
+ "inclusion": [
+  "Dermatomyosite selon les critères EULAR/ACR 2017",
+  "Manifestations cutanées actives",
+  "Âge de 18 à 75 ans",
+  "Poids > 40 kg et < 130 kg, IMC < 40 kg/m²"
+ ],
+ "exclusion": [
+  "Atteinte d'organe terminale ou atteinte musculaire irréversible",
+  "Antécédent de syndrome lymphoprolifératif ou cancer actif, ou cancer dans les 5 ans (sauf exceptions), dermatomyosite paranéoplasique",
+  "Syndrome de chevauchement (sauf Sjögren)",
+  "Risque thrombotique ou cardiovasculaire",
+  "Risque élevé de réactivation du zona",
+  "Infection active ou récente"
+ ],
+ "bras": [
+  {
+   "nom": "Brépocitinib",
+   "traitement": "Brépocitinib 30 mg par voie orale, une fois par jour, pendant 12 semaines"
+  }
+ ],
+ "duree": "12 semaines de traitement, plus jusqu'à 8 semaines de sélection",
+ "critere": "Variation du score d'activité cutanée CDASI-A entre l'inclusion et la semaine 12."
+}

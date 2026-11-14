@@ -1,0 +1,28 @@
+{
+ "h": "0410c8a356d5",
+ "date": "2026-11-14",
+ "titre": "Analyse multimodale de biopsies endomyocardiques (cardiomyopathies, amylose, myocardite, greffe)",
+ "question": "Quels profils moléculaires et de signalisation immunitaire caractérisent les maladies du myocarde et le devenir après transplantation cardiaque ?",
+ "contexte": "La biopsie endomyocardique reste l'examen de référence pour typer certaines maladies myocardiques : myocardite, cardiomyopathies, amylose cardiaque, sarcoïdose, rejet de greffe. L'analyse histologique usuelle n'exploite qu'une petite partie de l'information contenue dans le prélèvement.\n\nLes approches multi-omiques (protéome, lipidome, métabolome), l'analyse de la signalisation immunitaire et l'imagerie de médecine nucléaire peuvent identifier des signatures spécifiques de chaque maladie et de nouveaux marqueurs diagnostiques.\n\nCette étude observationnelle de l'hôpital universitaire d'Essen (Allemagne) inclut 216 adultes qui ont déjà une indication clinique de biopsie. Un prélèvement supplémentaire est réalisé pour la recherche. Les résultats sont corrélés aux paramètres cliniques et aux biomarqueurs établis.",
+ "interet": "Elle pourrait faire émerger des marqueurs moléculaires utiles au diagnostic, par exemple dans l'amylose cardiaque ou la myocardite. Étude exploratoire, sans retombée clinique immédiate.",
+ "profil": "Des adultes adressés pour une biopsie endomyocardique (greffe, cardiomyopathies, myocardite, amylose).",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Indication clinique de biopsie endomyocardique",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Absence d'indication clinique de biopsie",
+  "Grossesse",
+  "Incapacité à consentir",
+  "Femme en âge de procréer sans contraception adéquate"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec biopsie endomyocardique indiquée",
+   "traitement": "Biopsie supplémentaire pour analyses multi-omiques et immunitaires"
+  }
+ ],
+ "duree": "Jusqu'à 1 an",
+ "critere": "Profils moléculaires spatiaux et signalisation immunitaire chez tous les patients inclus, du départ à 1 an"
+}

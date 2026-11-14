@@ -1,0 +1,29 @@
+{
+ "h": "366c07dbeec5",
+ "date": "2026-11-14",
+ "titre": "RENEW : application d'autogestion de l'énergie et de la fatigue dans la sclérodermie systémique",
+ "question": "Une application d'autogestion de la fatigue (RENEW) est-elle réalisable chez des patients atteints de sclérodermie systémique ?",
+ "contexte": "La fatigue est un symptôme fréquent et invalidant de la sclérodermie systémique, souvent associée à la douleur et à l'humeur dépressive. Les options thérapeutiques non médicamenteuses sont peu développées et l'accès aux programmes encadrés est limité.\n\nRENEW est un programme d'autogestion proposé via une application mobile, centré sur la gestion de l'énergie et le renforcement de la résilience. Il est accessible à distance, sans accompagnement en personne.\n\nCette étude de faisabilité à un seul bras, menée à l'Université du Michigan (financement NIDILRR), évalue l'acceptabilité plutôt que l'efficacité : taux de recrutement, rétention à 12 semaines et temps passé dans l'application. Elle précède un éventuel essai randomisé. Les participants ont une fatigue au moins modérée (≥ 4/10). Le dispositif est considéré comme à risque non significatif et n'est pas soumis à une réglementation de la FDA.",
+ "interet": "Elle prépare un essai d'efficacité d'une intervention numérique accessible, mais ne permet pas de conclure sur le bénéfice de RENEW sur la fatigue.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec une fatigue au moins modérée.",
+ "inclusion": [
+  "Sclérodermie systémique (cutanée diffuse, limitée, chevauchement ou sine)",
+  "Accès à un appareil connecté (smartphone ou tablette)",
+  "Maîtrise de l'anglais",
+  "Fatigue ≥ 4 sur 10",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Problèmes de santé complexes ou instables empêchant la participation",
+  "Début prévu d'un nouveau traitement de la fatigue, de la douleur ou de l'humeur",
+  "Utilisation antérieure de RENEW"
+ ],
+ "bras": [
+  {
+   "nom": "RENEW",
+   "traitement": "Programme d'autogestion via l'application RENEW, 12 semaines"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Faisabilité : taux de recrutement et rétention des participants à 12 semaines"
+}

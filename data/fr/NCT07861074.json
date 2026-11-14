@@ -1,0 +1,40 @@
+{
+ "h": "3416741faeee",
+ "date": "2026-11-14",
+ "titre": "Tulisokibart dans les uvéites non infectieuses intermédiaires, postérieures ou panuvéites",
+ "question": "Le tulisokibart retarde-t-il l'échec thérapeutique par rapport au placebo chez des patients ayant une uvéite non infectieuse active, tout en permettant de réduire les corticoïdes ?",
+ "contexte": "Les uvéites non infectieuses intermédiaires, postérieures ou les panuvéites (NIIPPU) sont des inflammations oculaires potentiellement cécitantes. Leur traitement repose sur les corticoïdes et les immunosuppresseurs, avec les inhibiteurs du TNF (adalimumab) comme seule biothérapie largement utilisée, et l'exposition prolongée aux corticoïdes est source d'effets indésirables.\n\nLe tulisokibart est un anticorps monoclonal dirigé contre TL1A, une cytokine de la famille du TNF impliquée dans l'inflammation, notamment dans les maladies inflammatoires de l'intestin. Son intérêt est ici d'élargir l'arsenal et de permettre une corticothérapie plus courte.\n\nCet essai de phase 2 de Merck (MK-7240-019), randomisé contre placebo, compare deux doses de tulisokibart ajoutées à une corticothérapie par prednisone, avec une période en double aveugle de 50 semaines suivie d'une extension de 134 semaines.",
+ "interet": "Il pourrait établir une nouvelle cible thérapeutique (TL1A) dans l'uvéite non infectieuse et un schéma d'épargne cortisonique.",
+ "profil": "Des adultes de 18 à 80 ans ayant une uvéite non infectieuse intermédiaire, postérieure ou une panuvéite active.",
+ "inclusion": [
+  "Uvéite intermédiaire, postérieure ou panuvéite non infectieuse active à la sélection et à l'inclusion, au moins un œil",
+  "Doses et durées stables requises pour les immunosuppresseurs et corticoïdes autorisés",
+  "Âge de 18 à 80 ans"
+ ],
+ "exclusion": [
+  "Uvéite antérieure isolée",
+  "Œdème maculaire seul comme signe d'atteinte",
+  "Atteinte oculaire active non contrôlée ou comorbidité oculaire gênant l'évaluation",
+  "Chirurgie ou laser oculaire récent ou prévu pendant la période en aveugle",
+  "Impossibilité de dilater la pupille",
+  "Autre maladie inflammatoire à médiation immune non contrôlée",
+  "Greffe nécessitant un immunosuppresseur, infection active, néoplasie récente",
+  "Intolérance ou réponse inadéquate aux corticoïdes oraux à forte dose pour cette indication"
+ ],
+ "bras": [
+  {
+   "nom": "Tulisokibart, dose 1",
+   "traitement": "Tulisokibart avec prednisone en traitement de fond (dose précisée dans le protocole)"
+  },
+  {
+   "nom": "Tulisokibart, dose 2",
+   "traitement": "Tulisokibart à une autre dose avec prednisone en traitement de fond"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo avec prednisone en traitement de fond"
+  }
+ ],
+ "duree": "50 semaines en double aveugle, puis extension de 134 semaines",
+ "critere": "Délai jusqu'à l'échec thérapeutique survenant à partir de la semaine 6 jusqu'à la semaine 50."
+}

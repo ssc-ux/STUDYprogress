@@ -1,0 +1,32 @@
+{
+ "h": "7359c495af5e",
+ "date": "2026-11-14",
+ "titre": "Félzartamab (anti-CD38) dans la néphrite lupique active",
+ "question": "Le félzartamab est-il sûr chez des adultes atteints de néphrite lupique active qui poursuivent leur traitement standard ?",
+ "contexte": "La néphrite lupique de classe III ou IV est une cause majeure de morbidité du lupus ; sans contrôle, elle mène à l'insuffisance rénale. Les traitements standard (corticoïdes, mycophénolate, cyclophosphamide, bélimumab, voclosporine) ne conduisent pas à une rémission chez tous les patients.\n\nLe félzartamab est un anticorps monoclonal anti-CD38 qui cible les plasmocytes et plasmablastes, sources d'auto-anticorps déposés dans les glomérules. Cette étude de phase 1b ouverte (HI-Bio, groupe Biogen) a inclus 14 adultes dans 24 centres de 4 pays. Deux cures de perfusions IV sont données, séparées de 28 semaines sans traitement (parties 1 et 2), en plus du traitement habituel. La durée de participation est d'environ 2 ans. Le critère principal est la tolérance ; la protéinurie, la réponse complète, les anticorps anti-médicament et les marqueurs biologiques du lupus sont aussi étudiés.",
+ "interet": "Elle évalue la tolérance d'une déplétion plasmocytaire par anti-CD38 dans le lupus rénal, et décidera d'études ultérieures.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique active de classe III ou IV, malgré un traitement standard.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Néphrite lupique de classe III ou IV (± V), biopsie de moins de 1 an",
+  "Rapport protéinurie/créatininurie > 1,0 g/g",
+  "DFG ≥ 45 mL/min/1,73 m² (35 à 45 sous conditions de biopsie)",
+  "Réponse insuffisante ou intolérance à au moins 3 mois de traitement standard",
+  "Partie 2 : avoir terminé la partie 1"
+ ],
+ "exclusion": [
+  "Glomérulonéphrite rapidement progressive (croissants > 50 % des glomérules, doublement de la créatinine)",
+  "Plus de 50 % de glomérules scléreux",
+  "Dialyse en cours ou prévue, greffe d'organe antérieure ou prévue",
+  "Partie 2 : inhibiteurs de calcineurine, cyclophosphamide ou autre biologique pendant la partie 1",
+  "Progression de la néphrite en partie 1 sans bénéfice attendu"
+ ],
+ "bras": [
+  {
+   "nom": "Félzartamab",
+   "traitement": "Deux cures de perfusions IV de félzartamab (parties 1 et 2), séparées de 28 semaines, avec traitement standard"
+  }
+ ],
+ "duree": "Environ 2 ans (jusqu'à la semaine 104)",
+ "critere": "Nombre de participants avec des événements indésirables, jusqu'à la semaine 104."
+}

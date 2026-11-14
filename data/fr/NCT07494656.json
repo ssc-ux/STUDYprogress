@@ -1,0 +1,31 @@
+{
+ "h": "8fae8b7b8e09",
+ "date": "2026-11-14",
+ "titre": "Épidémiologie et devenir de l'amylose cardiaque à transthyrétine en Allemagne (données de l'assurance maladie)",
+ "question": "Quels sont la survie, les hospitalisations cardiovasculaires et l'incidence de l'ATTR-CM en Allemagne, selon les données de remboursement ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une maladie rare et grave, due au dépôt de transthyrétine dans le myocarde, qui conduit à l'insuffisance cardiaque. Le tafamidis, stabilisateur de la transthyrétine, a montré une réduction de la mortalité et des hospitalisations cardiovasculaires dans l'essai ATTR-ACT. Les données de vie réelle sur l'épidémiologie et le devenir restent limitées.\n\nCette étude rétrospective non interventionnelle de Pfizer exploite des données anonymisées de l'assurance maladie obligatoire allemande, couvrant les soins hospitaliers et ambulatoires. Elle identifie par un algorithme validé les adultes avec un nouveau diagnostic d'ATTR-CM entre 2020 et 2022, et décrit la survie, les hospitalisations d'origine cardiovasculaire, l'incidence et le recours aux tests génétiques. Un sous-groupe défini par au moins une prescription de tafamidis 61 mg est analysé séparément. Aucun patient n'est recruté.",
+ "interet": "Elle donnera une image récente et nationale de l'ATTR-CM en Allemagne, dont la survie et l'usage du tafamidis en pratique réelle.",
+ "profil": "Des adultes ayant un diagnostic récent d'ATTR-CM entre 2020 et 2022, identifiés dans les bases de remboursement allemandes.",
+ "inclusion": [
+  "Âge ≥ 18 ans à la date index",
+  "Diagnostic d'ATTR-CM entre janvier 2020 et décembre 2022, par algorithme validé",
+  "Amylose codée (1 diagnostic hospitalier ou 2 diagnostics ambulatoires), avec cardiomyopathie ou insuffisance cardiaque associée",
+  "Affiliation continue à l'assurance maladie : ≥ 8 trimestres avant et ≥ 4 trimestres après (ou jusqu'au décès)",
+  "Sous-groupe : au moins une prescription de tafamidis 61 mg"
+ ],
+ "exclusion": [
+  "Amylose AL (traitements spécifiques, chimiothérapie, myélome, autogreffe)",
+  "Angiopathie amyloïde",
+  "Diagnostic d'amylose dans les 2 ans précédents",
+  "Sexe manquant ou invraisemblable",
+  "Sous-groupe : prescription d'autres traitements de fond de l'amylose à TTR avec polyneuropathie"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec ATTR-CM incidente",
+   "traitement": "Cohorte de vie réelle issue des données de remboursement ; sous-groupe sous tafamidis 61 mg"
+  }
+ ],
+ "duree": "Suivi dans les bases de données jusqu'au 31 décembre 2023",
+ "critere": "Survie globale et hospitalisations d'origine cardiovasculaire depuis le diagnostic d'ATTR-CM (et depuis la première prescription de tafamidis pour le sous-groupe)."
+}

@@ -1,0 +1,40 @@
+{
+ "h": "b2ff854b6196",
+ "date": "2026-11-14",
+ "titre": "Orélabrutinib dans l'anémie hémolytique auto-immune réfractaire ou en rechute",
+ "question": "L'orélabrutinib, inhibiteur de BTK, est-il efficace à 12 semaines chez des patients ayant une AHAI à anticorps chauds ou à agglutinines froides réfractaire ou en rechute ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est traitée en première ligne par corticoïdes, puis rituximab en cas de rechute ou de dépendance. Pour les formes à anticorps chauds (AHAI chaude), les options après échec sont les immunosuppresseurs, la splénectomie ou les nouveaux agents. Pour la maladie des agglutinines froides, le rituximab (± bendamustine ou fludarabine) et le sutimlimab sont les principales options. Dans les deux cas, les patients réfractaires restent difficiles à traiter.\n\nLes inhibiteurs de BTK modulent les lymphocytes B et les fonctions des macrophages (phagocytose via les récepteurs Fc), et leur intérêt dans les cytopénies auto-immunes est étudié. Cette étude de phase 2 de l'hôpital Peking Union (Pékin) évalue l'orélabrutinib, inhibiteur de BTK de seconde génération, chez 50 patients répartis en trois groupes : AHAI chaude à 50 mg ou à 100 mg par jour, et agglutinines froides à 150 mg par jour. Des corticoïdes à dose stable (prednisone ≤ 15 mg/j) sont autorisés.",
+ "interet": "Elle pourrait apporter une alternative orale dans les AHAI réfractaires, avec des données de dose, sans recours à la splénectomie ni à une immunosuppression plus lourde.",
+ "profil": "Des adultes de 18 à 85 ans ayant une AHAI chaude (ou Evans) ou à agglutinines froides en échec ou en rechute.",
+ "inclusion": [
+  "Âge ≥ 18 ans, AHAI chaude (ou syndrome d'Evans) ou à agglutinines froides, primitive ou secondaire à une connectivite ou lymphoproliférative non active",
+  "AHAI chaude : échec, intolérance ou rechute après corticoïdes à pleine dose, Hb ≤ 100 g/L",
+  "Agglutinines froides : échec ou rechute après anti-CD20, ou anti-CD20 inadapté, avec Hb ≤ 100 g/L ou symptômes vasculaires",
+  "ALT et créatinine ≤ 2 × LSN",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Atteinte active d'autres organes d'une connectivite",
+  "Infection ou saignement non contrôlé, VIH, VHC ou VHB actif non contrôlé",
+  "Cancer avancé ou lymphome non contrôlé, autre anémie non corrigée",
+  "Corticoïdes > 15 mg/j de prednisone ou immunosuppresseurs récents",
+  "Rituximab depuis moins de 3 mois, inhibiteur de BTK antérieur",
+  "Cirrhose ou hypertension portale, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "wAIHA-A",
+   "traitement": "Orélabrutinib 50 mg par jour ; possible augmentation à 100 mg après 4 semaines si réponse insuffisante"
+  },
+  {
+   "nom": "wAIHA-B",
+   "traitement": "Orélabrutinib 100 mg par jour, au moins 12 semaines"
+  },
+  {
+   "nom": "cAIHA-C",
+   "traitement": "Orélabrutinib 150 mg par jour, au moins 12 semaines"
+  }
+ ],
+ "duree": "Au moins 12 semaines, jusqu'à 52 semaines ou plus en cas de réponse",
+ "critere": "Taux de réponse globale (ORR) à 12 semaines."
+}

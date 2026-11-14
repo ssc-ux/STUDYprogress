@@ -1,0 +1,33 @@
+{
+ "h": "21e6e0504d22",
+ "date": "2026-11-14",
+ "titre": "Qualité de vie, ECG et Holter chez les enfants atteints de fièvre méditerranéenne familiale",
+ "question": "Les enfants atteints de fièvre méditerranéenne familiale (FMF) ont-ils des anomalies de l'ECG ou du Holter, notamment de l'intervalle QT, et une qualité de vie altérée ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire autosomique récessive due à des mutations du gène MEFV, qui code la pyrine. Elle provoque des accès récurrents de fièvre et de sérite. Elle touche surtout les populations du pourtour méditerranéen (Arméniens, Turcs, Arabes, Juifs non ashkénazes), avec une prévalence atteignant 1/400 à 1/1000 en Turquie.\n\nLe traitement par colchicine prévient les accès et l'amylose AA. Une inflammation chronique pourrait atteindre le système cardiovasculaire, et des anomalies de la conduction, du QT ou de la variabilité du rythme ont été rapportées. La qualité de vie des enfants est aussi altérée par les accès et les traitements.\n\nCette étude cas-témoins de l'université de Sohag (Égypte) inclut 100 enfants de 5 à 18 ans, évalués pendant un accès et en période sans accès, par questionnaires, ECG et Holter. La gravité est évaluée par les critères de Tel-Hashomer et le score ISSF.",
+ "interet": "L'étude pourrait préciser s'il faut surveiller le rythme cardiaque des enfants atteints de FMF. Elle documente aussi l'impact de la maladie sur la qualité de vie.",
+ "profil": "Des enfants de 5 à 18 ans atteints de fièvre méditerranéenne familiale.",
+ "inclusion": [
+  "FMF diagnostiquée, gravité évaluée par les critères de Tel-Hashomer et le score ISSF",
+  "Âge inférieur à 18 ans",
+  "Évaluation pendant un accès et en période sans accès (au moins 2 semaines)",
+  "Accord des parents",
+  "Réponse du patient et de ses parents à tous les items du questionnaire"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune, auto-inflammatoire, cardiopathie congénitale ou acquise, infection aiguë ou chronique",
+  "Refus des parents",
+  "Critères d'inclusion non remplis"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants atteints de FMF",
+   "traitement": "Évaluation de la qualité de vie, ECG et Holter pendant un accès et hors accès"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Non précisé"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Intervalle QT à l'ECG, sur 1 an."
+}

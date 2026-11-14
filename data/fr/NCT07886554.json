@@ -1,0 +1,46 @@
+{
+ "h": "1258d50c3eb0",
+ "date": "2026-11-14",
+ "titre": "Sirolimus inhalé (LAM-001) dans l'hypertension pulmonaire associée à la sarcoïdose",
+ "question": "Le sirolimus inhalé LAM-001 réduit-il les résistances vasculaires pulmonaires chez des patients ayant une hypertension pulmonaire associée à la sarcoïdose ?",
+ "contexte": "L'hypertension pulmonaire associée à la sarcoïdose (SAPH) complique une partie des sarcoïdoses fibrosantes ou vasculaires. Elle aggrave la dyspnée, la capacité à l'effort et le pronostic. Il n'existe pas de traitement spécifique validé, les vasodilatateurs de l'HTAP étant utilisés avec des résultats discordants.\n\nLe sirolimus est un inhibiteur de mTOR aux effets antiprolifératifs, notamment sur les cellules musculaires lisses et l'endothélium vasculaires. Administré par inhalation, il vise à agir localement au niveau pulmonaire en limitant l'exposition systémique.\n\nCet essai de phase 2 de IRulya Therapeutics, randomisé en double aveugle contre placebo, inclut environ 60 patients à phénotype précapillaire, répartis en LAM-001 en une ou deux inhalations de 100 µg par jour, ou placebo, pendant 24 semaines, avec une extension ouverte de 24 semaines supplémentaires. Le traitement de fond est maintenu.",
+ "interet": "Il pourrait identifier un premier traitement ciblé de la SAPH, pour laquelle les options restent limitées.",
+ "profil": "Des adultes de 18 à 80 ans ayant une sarcoïdose prouvée et une hypertension pulmonaire précapillaire, en classe fonctionnelle OMS II ou III.",
+ "inclusion": [
+  "Sarcoïdose selon ATS/WASOG, confirmée par biopsie",
+  "HTP précapillaire au cathétérisme : PAPm > 20 mmHg, PCP ≤ 15 mmHg, RVP ≥ 4 WU",
+  "Classe fonctionnelle OMS II ou III",
+  "CVF ≥ 50 % de la théorique",
+  "Traitements de fond stables depuis 3 mois, patient symptomatique",
+  "Test de marche de 6 min entre 100 et 450 m, deux mesures à moins de 15 %",
+  "Âge de 18 à 80 ans"
+ ],
+ "exclusion": [
+  "Neurosarcoïdose ou sarcoïdose cardiaque active sous traitement",
+  "FEVG < 50 % ou PCP > 15 mmHg",
+  "Autre cause d'HTP (HTPTEC, groupe 2)",
+  "VEMS/CVF < 50 %, DLCO < 25 %",
+  "Oxygène continu ≥ 6 L/min au repos",
+  "Inhibiteur de mTOR oral dans les 4 semaines",
+  "Tabagisme ou vapotage actif",
+  "Cancer actif dans les 5 ans, infection pulmonaire active, VIH, VHC, tuberculose active ou latente non traitée",
+  "Insuffisance hépatique ou DFG < 30",
+  "Allergie au sirolimus ou au lactose"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en 1 ou 2 inhalations par jour (inhalateur à poudre sèche)"
+  },
+  {
+   "nom": "LAM-001 forte dose",
+   "traitement": "Sirolimus inhalé, 2 inhalations de 100 µg une fois par jour"
+  },
+  {
+   "nom": "LAM-001 faible dose",
+   "traitement": "Sirolimus inhalé, 1 inhalation de 100 µg une fois par jour"
+  }
+ ],
+ "duree": "24 semaines, extension de 24 semaines, suivi de 4 semaines",
+ "critere": "Variation des résistances vasculaires pulmonaires à 24 semaines."
+}

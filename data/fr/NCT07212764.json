@@ -1,0 +1,33 @@
+{
+ "h": "3feb80a2540c",
+ "date": "2026-11-14",
+ "titre": "Suivi par application mobile des infections et des crises dans la fièvre méditerranéenne familiale",
+ "question": "Quelle proportion des crises de fièvre méditerranéenne familiale (FMF) est précédée de symptômes infectieux notés dans une application mobile ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF) est une maladie auto-inflammatoire marquée par des accès récurrents de fièvre, de douleurs abdominales et de séreuses. Une crise ressemble souvent à une infection, ce qui rend le diagnostic différentiel difficile en pratique.\n\nLes infections sont connues pour déclencher des crises, mais les données reposent surtout sur des revues rétrospectives de dossiers ou sur le souvenir des patients, sujets à des oublis et à des biais. Le délai exact entre infection et crise reste mal caractérisé.\n\nCette étude observationnelle de l'université d'Istanbul inclut 40 enfants et adolescents de 8 à 18 ans atteints de FMF (critères de Tel Hashomer ou Eurofever), sous traitement stable. Ils notent en temps réel symptômes infectieux et crises dans une application mobile, avec aide possible des parents. Le critère principal est la proportion de crises précédées de symptômes infectieux, évaluée à 3, 6 et 9 mois.",
+ "interet": "Un recueil prospectif pourrait mieux préciser le rôle des infections dans le déclenchement des crises et la faisabilité du suivi numérique en rhumatologie pédiatrique.",
+ "profil": "Des enfants et adolescents de 8 à 18 ans atteints de FMF sous traitement stable.",
+ "inclusion": [
+  "Âge de 8 à 18 ans",
+  "FMF diagnostiquée selon les critères de Tel Hashomer et/ou Eurofever",
+  "Suivi régulier dans la clinique de rhumatologie pédiatrique",
+  "Colchicine depuis ≥ 4 semaines ; biothérapie ou autre anti-inflammatoire stable depuis ≥ 8 semaines",
+  "Smartphone ou tablette avec accès internet (aide du parent possible)",
+  "Maîtrise suffisante de la langue ; consentement parental et assentiment de l'enfant"
+ ],
+ "exclusion": [
+  "Autre maladie inflammatoire ou auto-immune chronique confondante (AJI, MICI, Behçet)",
+  "Déficit immunitaire ou chimiothérapie immunosuppressive hors prise en charge de la FMF",
+  "Infection chronique active (tuberculose, VHB, VHC, VIH) ou fièvre aiguë à l'inclusion",
+  "Limitation cognitive, visuelle ou motrice empêchant l'usage de l'application",
+  "Pas d'accès fiable à un appareil ou à internet",
+  "Participation à une autre étude ; mauvaise observance prévisible ; refus de consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe FMF",
+   "traitement": "Utilisation d'une application mobile pour enregistrer symptômes infectieux et crises"
+  }
+ ],
+ "duree": "9 mois",
+ "critere": "Proportion de crises de FMF précédées de symptômes infectieux enregistrés dans l'application, à 3, 6 et 9 mois."
+}

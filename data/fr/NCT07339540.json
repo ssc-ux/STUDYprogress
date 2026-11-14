@@ -1,0 +1,35 @@
+{
+ "h": "ac7af30355b8",
+ "date": "2026-11-14",
+ "titre": "Injection in vivo de lentivirus ciblant BCMA (V001-BCMA) dans les maladies auto-immunes réfractaires",
+ "question": "Un vecteur lentiviral injecté in vivo et ciblant BCMA est-il sûr dans le lupus, l'IgG4-RD, la sclérodermie, les myosites et les vascularites à ANCA réfractaires ?",
+ "contexte": "Les CAR-T anti-CD19 et anti-BCMA ont induit des rémissions dans des maladies auto-immunes réfractaires, mais leur fabrication ex vivo à partir des cellules du patient est lourde, longue et coûteuse. Elle impose aussi une lymphodéplétion préalable.\n\nUne approche de génération « in vivo » consiste à injecter un vecteur viral qui modifie directement les lymphocytes T du patient pour qu'ils expriment le récepteur chimérique. Le produit étudié, V001-BCMA, cible BCMA, présent sur les plasmocytes producteurs d'auto-anticorps.\n\nCette étude de phase 1 monocentrique du Tongji Hospital (Chine), ouverte et à bras unique, inclut 45 adultes de 18 à 65 ans répartis en cinq cohortes : lupus, IgG4-RD (forme de type Mikulicz), sclérodermie systémique, myopathie inflammatoire et vascularite à ANCA (GPA ou PAM), toutes en échec d'au moins 3 mois de corticoïdes et d'immunosuppresseurs ou de biothérapies. Elle évalue d'abord la tolérance, puis l'efficacité et la pharmacologie.",
+ "interet": "Si elle est concluante, cette approche pourrait simplifier l'accès aux thérapies cellulaires dans plusieurs maladies auto-immunes. Stade très précoce, avec un risque spécifique lié au vecteur.",
+ "profil": "Des adultes de 18 à 65 ans avec lupus, IgG4-RD, sclérodermie, myopathie inflammatoire ou vascularite à ANCA en rechute ou réfractaires.",
+ "inclusion": [
+  "Âge 18-65 ans",
+  "Lupus (SLICC 2012 ou EULAR/ACR 2019) avec SLEDAI-2K ≥ 8 malgré 3 mois de traitement",
+  "IgG4-RD (ACR/EULAR 2019), phénotype de type Mikulicz",
+  "Sclérodermie systémique (ACR/EULAR 2013) avec anticorps spécifiques et mRSS ≥ 10",
+  "Myopathie inflammatoire (EULAR/ACR 2017) avec auto-anticorps, activité confirmée à la biopsie ou à l'IRM",
+  "Vascularite à ANCA (GPA ou PAM, ACR/EULAR 2022) avec BVAS ≥ 3",
+  "Fonctions d'organes suffisantes, contraception jusqu'à 1 an après le traitement"
+ ],
+ "exclusion": [
+  "Poussée lupique incontrôlée dans les 8 semaines, maladie du SNC non lupique",
+  "Hypertension pulmonaire à haut risque (sclérodermie)",
+  "Greffe d'organe ou de moelle, antécédent de traitement par pseudotype VSVG",
+  "Cancer dans les 3 ans, anti-CD20 récent sans reconstitution B",
+  "Hépatite B/C active, VIH, syphilis, infection active nécessitant antibiotiques IV",
+  "Cardiopathie sévère (NT-proBNP > 8500 ng/L, NYHA III-IV, infarctus ou angor dans les 6 mois)",
+  "Grossesse ou allaitement, risque suicidaire, allergie aux composants"
+ ],
+ "bras": [
+  {
+   "nom": "V001-BCMA",
+   "traitement": "Injection unique de lentivirus V001-BCMA ciblant BCMA, en cinq cohortes selon la maladie"
+  }
+ ],
+ "duree": "24 mois après la perfusion",
+ "critere": "Incidence des événements indésirables après la perfusion unique, aux mois 1, 2, 3, 6, 9, 12, 18 et 24"
+}

@@ -1,0 +1,36 @@
+{
+ "h": "4a9a760c11ba",
+ "date": "2026-11-14",
+ "titre": "CUG252, IL-2 modifiée sélective des Treg, dans le lupus léger à modéré",
+ "question": "Le CUG252 en doses croissantes est-il sûr et bien toléré chez des patients atteints de lupus léger à modéré ?",
+ "contexte": "Dans le lupus systémique, les lymphocytes T régulateurs (Treg) sont déficients en nombre et en fonction, ce qui favorise la perte de tolérance. Une faible dose d'interleukine-2 peut les expanser préférentiellement, avec des résultats préliminaires encourageants dans le lupus, mais la fenêtre thérapeutique est étroite car l'IL-2 active aussi des cellules effectrices.\n\nLe CUG252 est une IL-2 modifiée, conçue pour une meilleure sélectivité des Treg et moins d'activité indésirable. Cette étude de phase 1b randomisée en double aveugle (promoteur : Cugene) évalue la tolérance, la pharmacocinétique et la pharmacodynamie de doses sous-cutanées croissantes répétées contre placebo (ratio 3:1). Elle a inclus 40 adultes dans 11 centres. Les patients sont suivis jusqu'au jour 64 après la première dose, avec une évaluation préliminaire de l'efficacité et des biomarqueurs.",
+ "interet": "L'étude renseigne la tolérance et l'effet immunologique d'une IL-2 sélective des Treg, avant un éventuel essai d'efficacité dans le lupus.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique léger à modéré.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, IMC de 18 à 39 kg/m²",
+  "Lupus diagnostiqué depuis au moins 6 mois",
+  "Activité du lupus minimale à modérée",
+  "Prednisone ≤ 20 mg/j, stable depuis au moins 2 semaines",
+  "Azathioprine, antipaludéen, mycophénolate ou méthotrexate à dose stable depuis 8 semaines"
+ ],
+ "exclusion": [
+  "Atteinte neuropsychiatrique ou rénale sévère, néphrite lupique avec protéinurie > 1 g/24 h ou dialyse",
+  "Autre maladie auto-immune ou inflammatoire",
+  "Infection active, tuberculose active ou latente, antécédent d'infection opportuniste",
+  "Aldesleukine ou autre dérivé d'IL-2, anti-BAFF, anti-TNF ou anti-interféron récents",
+  "Rituximab dans les 6 mois, cytotoxiques dans les 12 mois",
+  "Cancer (sauf carcinome cutané ou cervical in situ traité), greffe, maladie cardiovasculaire significative"
+ ],
+ "bras": [
+  {
+   "nom": "CUG252",
+   "traitement": "CUG252 sous-cutané en doses croissantes répétées"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané (ratio 3 CUG252 pour 1 placebo)"
+  }
+ ],
+ "duree": "Suivi jusqu'au jour 64 après la première dose",
+ "critere": "Nombre et pourcentage de patients avec événements indésirables liés au traitement, jusqu'à 64 jours."
+}

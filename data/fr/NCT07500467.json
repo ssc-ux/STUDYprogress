@@ -1,0 +1,32 @@
+{
+ "h": "1cc6f3c44904",
+ "date": "2026-11-14",
+ "titre": "Upadacitinib dans la maladie de Takayasu réfractaire aux anti-TNF",
+ "question": "L'upadacitinib permet-il d'obtenir une rémission chez des patients atteints de maladie de Takayasu active malgré un anti-TNF ?",
+ "contexte": "La maladie de Takayasu est une vascularite des grosses artères touchant l'aorte et ses branches principales. Le traitement repose sur les corticoïdes associés à des immunosuppresseurs conventionnels (méthotrexate, léflunomide, cyclophosphamide). Les anti-TNF et le tocilizumab sont utilisés en cas d'échec, mais une partie des patients reste en poussée.\n\nL'upadacitinib est un inhibiteur oral sélectif de JAK1. Les inhibiteurs de JAK bloquent la signalisation de plusieurs cytokines impliquées dans la vascularite et ont montré des résultats encourageants dans des séries de patients réfractaires.\n\nCette étude chinoise monocentrique, à un seul bras, inclut 12 patients en poussée malgré au moins 6 mois d'anti-TNF. L'anti-TNF est arrêté et remplacé par l'upadacitinib 15 mg par jour pendant 24 semaines, en plus des corticoïdes et immunosuppresseurs en cours. La réponse est évaluée sur la rémission complète ou partielle.",
+ "interet": "Elle pourrait documenter une option après échec des anti-TNF dans la maladie de Takayasu. L'absence de comparateur et le très petit effectif limitent la portée des résultats.",
+ "profil": "Des adultes de 18 à 70 ans atteints de maladie de Takayasu active, résistante aux traitements conventionnels et aux anti-TNF.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Maladie de Takayasu (critères ACR/EULAR 2022) depuis ≥ 3 mois",
+  "Maladie active (score NIH ≥ 2)",
+  "Résistance aux traitements conventionnels et à un anti-TNF pendant ≥ 6 mois",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Atteinte d'organe majeure active nécessitant un autre immunosuppresseur (pulmonaire, digestive, neurologique)",
+  "Corticothérapie > 1 mg/kg/j dans le mois précédent",
+  "Insuffisance cardiaque NYHA ≥ III, rénale (clairance ≤ 30 mL/min) ou hépatique",
+  "Infection sévère récente, tuberculose, VIH, hépatite B ou C",
+  "Cancer actuel ou datant de moins de 5 ans",
+  "Grossesse, allaitement ou absence de contraception"
+ ],
+ "bras": [
+  {
+   "nom": "Upadacitinib",
+   "traitement": "Upadacitinib 15 mg/jour pendant 24 semaines, en association aux corticoïdes et immunosuppresseurs ; arrêt de l'anti-TNF"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Proportion de patients en rémission complète ou partielle à 24 semaines"
+}

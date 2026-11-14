@@ -1,0 +1,38 @@
+{
+ "h": "358cd0cf405b",
+ "date": "2026-11-14",
+ "titre": "Dose optimale de zanubrutinib avec dexaméthasone dans le PTI nouvellement diagnostiqué",
+ "question": "Quelle dose de zanubrutinib (80 ou 160 mg/j) associée à la dexaméthasone à forte dose donne la meilleure réponse soutenue dans le PTI récent, par rapport à la dexaméthasone seule ?",
+ "contexte": "Le PTI de l'adulte nouvellement diagnostiqué est traité en première ligne par corticoïdes, dont la dexaméthasone à forte dose (40 mg/j pendant 4 jours). Cette cure donne une réponse initiale rapide chez une majorité de patients, mais une proportion importante rechute, ce qui motive des associations pour obtenir des réponses durables.\n\nLe zanubrutinib est un inhibiteur de la tyrosine kinase de Bruton (BTK), déjà utilisé dans les hémopathies lymphoïdes B. La BTK intervient dans la signalisation des lymphocytes B et dans la phagocytose des plaquettes opsonisées par les macrophages, ce qui justifie son essai dans le PTI.\n\nCette étude de phase 2 randomisée, promue par le Peking University People's Hospital avec de nombreux centres chinois, compare trois bras chez 90 adultes naïfs de traitement : dexaméthasone seule, avec zanubrutinib 80 mg/j, ou avec zanubrutinib 160 mg/j pendant 26 semaines.",
+ "interet": "Elle devrait définir la dose à retenir pour un éventuel essai de phase 3 de cette association en première ligne. Elle vise la réponse soutenue, critère pertinent pour limiter les rechutes et l'exposition aux corticoïdes.",
+ "profil": "Des adultes de 18 à 70 ans ayant un PTI primaire nouvellement diagnostiqué, jamais traité.",
+ "inclusion": [
+  "Âge 18-70 ans, PTI nouvellement diagnostiqué et naïf de traitement",
+  "Plaquettes < 30 G/L, ou < 50 G/L avec saignement significatif (OMS ≥ 2)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Chimiothérapie ou médicament influençant les plaquettes dans les 6 mois",
+  "Traitement spécifique antérieur du PTI (corticoïdes, cyclophosphamide, etc.)",
+  "VIH, hépatite B ou C, infection active, cancer",
+  "Atteinte pulmonaire, hépatique, rénale ou cardiaque sévère ou non contrôlée",
+  "Autre maladie auto-immune (ANA, anticardiolipine, anticoagulant circulant ou Coombs directs positifs)",
+  "Grossesse ou allaitement, effet indésirable grave antérieur des corticoïdes"
+ ],
+ "bras": [
+  {
+   "nom": "Zanubrutinib 80 mg + dexaméthasone",
+   "traitement": "Zanubrutinib 80 mg/j pendant 26 semaines + dexaméthasone 40 mg/j 4 jours, cure répétable à 2 semaines"
+  },
+  {
+   "nom": "Zanubrutinib 160 mg + dexaméthasone",
+   "traitement": "Zanubrutinib 160 mg/j pendant 26 semaines + dexaméthasone 40 mg/j 4 jours, cure répétable à 2 semaines"
+  },
+  {
+   "nom": "Dexaméthasone seule",
+   "traitement": "40 mg/j pendant 4 jours, seconde cure possible après 2 semaines"
+  }
+ ],
+ "duree": "26 semaines de traitement",
+ "critere": "Réponse soutenue à 26 semaines"
+}

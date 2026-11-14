@@ -1,0 +1,39 @@
+{
+ "h": "30b74e136d83",
+ "date": "2026-11-14",
+ "titre": "Luvométinib adapté à la réponse, avec ou sans cytarabine, dans l'histiocytose langerhansienne",
+ "question": "Une stratégie adaptée à la réponse TEP, par luvométinib seul ou associé à la cytarabine, est-elle efficace et sûre dans l'histiocytose langerhansienne ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) est une néoplasie myéloïde clonale rare, dans laquelle la voie des MAP kinases (le plus souvent mutation BRAF V600E) est activée de façon constitutive. Elle peut toucher un ou plusieurs organes (os, peau, poumon, hypophyse, foie, rate, moelle) et, chez l'adulte comme chez l'enfant, nécessite parfois un traitement systémique.\n\nLes traitements classiques sont la vinblastine-prednisone et la cytarabine, avec des rechutes fréquentes et une toxicité cumulative. Les inhibiteurs de BRAF et de MEK induisent des réponses rapides, mais la maladie rechute souvent à l'arrêt et la durée optimale du traitement reste discutée.\n\nLe luvométinib est un inhibiteur de MEK. Cette étude de phase 2 monocentrique, menée à Shanghai, inclut environ 30 patients de 10 ans et plus. Tous reçoivent six cycles de 35 jours de luvométinib. Selon la réponse métabolique en TEP-TDM au cycle 6, les patients en réponse métabolique complète poursuivent le luvométinib seul en entretien, tandis que les autres reçoivent luvométinib plus cytarabine puis entretien. Le critère principal est le taux de réponse objective après six cycles, évalué en aveugle par un comité central indépendant.",
+ "interet": "L'étude pourrait montrer si un traitement adapté à la réponse TEP permet de limiter l'exposition à la chimiothérapie tout en maintenant l'efficacité de l'inhibition de MEK.",
+ "profil": "Des patients de 10 ans et plus atteints d'histiocytose langerhansienne nécessitant un traitement systémique.",
+ "inclusion": [
+  "Histiocytose langerhansienne confirmée histologiquement",
+  "Âge de 10 ans ou plus",
+  "Indication de traitement systémique et au moins une lésion évaluable en TEP",
+  "Espérance de vie d'au moins 12 semaines",
+  "ECOG 0 à 2 ou Lansky d'au moins 60",
+  "Fonction d'organe adéquate (définie au protocole)",
+  "Consentement (parents ou tuteurs pour les mineurs, avec assentiment)"
+ ],
+ "exclusion": [
+  "Hypersensibilité au luvométinib ou à un excipient",
+  "Autre cancer concomitant",
+  "Grossesse, allaitement ou contraception non conforme",
+  "Infection bactérienne, fongique ou virale active",
+  "Maladie rétinienne significative ou glaucome",
+  "Insuffisance cardiaque NYHA 3 ou plus, ou FEVG inférieure à 50 %",
+  "Maladie psychiatrique empêchant la compliance"
+ ],
+ "bras": [
+  {
+   "nom": "A : voie réponse métabolique complète",
+   "traitement": "Luvométinib 6 cycles de 35 jours, puis entretien par luvométinib seul pendant 18 cycles supplémentaires"
+  },
+  {
+   "nom": "B : voie sans réponse métabolique complète",
+   "traitement": "Luvométinib 6 cycles, puis luvométinib plus cytarabine pendant 12 cycles, puis luvométinib seul pendant 6 cycles"
+  }
+ ],
+ "duree": "Environ 30 cycles de 35 jours au maximum, plus un suivi",
+ "critere": "Taux de réponse objective après 6 cycles de luvométinib (environ semaine 30), évalué par comité central indépendant en aveugle, et incidence des événements indésirables"
+}

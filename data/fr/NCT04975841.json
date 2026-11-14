@@ -1,0 +1,37 @@
+{
+ "h": "a88a8d055e8c",
+ "date": "2026-11-14",
+ "titre": "Cellules régénératrices dérivées du tissu adipeux dans la myosite à inclusions",
+ "question": "L'injection de cellules régénératrices autologues dérivées du tissu adipeux est-elle sûre chez des patients atteints de myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est la myopathie la plus fréquente après 50 ans, avec une incidence de 2 à 8 par million. Elle provoque une faiblesse des quadriceps et des fléchisseurs des doigts, des chutes, une perte de la fonction manuelle, une dysphagie puis une atteinte respiratoire. Aucun traitement efficace n'existe.\n\nLes cellules régénératrices dérivées du tissu adipeux (ADRC) sont prélevées par lipoaspiration chez le patient, traitées avec le système Celution, puis réinjectées dans le muscle. Elles sont étudiées pour leurs effets sur la régénération et l'inflammation musculaires.\n\nCet essai pilote de l'Université du Kansas inclut 9 patients répartis en blocs de 3 tous les 3 mois, avec injection précoce (dans l'avant-bras et la cuisse) ou tardive après une période de suivi standard de 12 mois. Il vise la sécurité, avant de passer à un essai de phase 2.",
+ "interet": "L'étude cherche à vérifier la sécurité de cette approche cellulaire autologue dans une maladie sans traitement. Les petits effectifs ne permettent pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 45 ans et plus atteints de myosite à inclusions, capables de se lever d'une chaise et de marcher au moins 6 mètres.",
+ "inclusion": [
+  "IBM selon les critères ENMC 2011",
+  "Capacité à se lever d'une chaise sans aide d'une autre personne et à marcher au moins 6 mètres",
+  "Début de la faiblesse après 45 ans",
+  "Force musculaire côtée 6 à 9 (échelle de Kendall) en flexion des doigts et extension du genou d'un côté",
+  "Capacité à consentir"
+ ],
+ "exclusion": [
+  "Infection chronique (VIH, hépatites B ou C), cancer récent (hors basocellulaire) ou autre maladie chronique grave",
+  "Anomalies biologiques : GB < 3000, plaquettes < 100 000, hématocrite < 30 %, créatinine > 1,5 N",
+  "CPK > 15 fois la normale sans autre cause que l'IBM",
+  "Autre maladie neurologique, cardiaque, pulmonaire, psychiatrique ou rhumatologique influençant les critères",
+  "Corticoïdes dans les 30 jours, IgIV ou immunosuppresseurs dans les 3 mois, biothérapie dans les 6 mois",
+  "Anticoagulation substantielle impossible à arrêter, tabagisme actif, cannabis",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Soins standards",
+   "traitement": "Suivi standard de 12 mois (partie 1), sans injection"
+  },
+  {
+   "nom": "Injection de cellules souches",
+   "traitement": "Cellules régénératrices dérivées du tissu adipeux (système Celution), injectées dans l'avant-bras et la cuisse"
+  }
+ ],
+ "duree": "Non précisé (partie 1 de 12 mois)",
+ "critere": "Sécurité : fréquence et gravité des événements indésirables, 3 mois après le traitement"
+}

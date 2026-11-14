@@ -1,0 +1,38 @@
+{
+ "h": "24c9152d3c9e",
+ "date": "2026-11-14",
+ "titre": "Anticorps trispécifique BCMA/GPRC5D/CD3 (QLS4131) dans l'amylose AL nouvellement diagnostiquée",
+ "question": "Le QLS4131, anticorps trispécifique ciblant BCMA, GPRC5D et CD3, permet-il d'obtenir une réponse hématologique complète en première ligne d'amylose AL ?",
+ "contexte": "L'amylose AL est une maladie des plasmocytes dans laquelle des chaînes légères monoclonales mal repliées se déposent dans les organes (cœur, rein, foie, nerfs), avec une dysfonction progressive et un mauvais pronostic. Une suppression rapide et profonde du clone plasmocytaire est associée à une meilleure récupération d'organe et à une meilleure survie.\n\nEn première ligne, l'association daratumumab, cyclophosphamide, bortézomib et dexaméthasone a nettement amélioré les résultats. Environ 40 % des patients n'atteignent toutefois pas de rémission hématologique complète, et la mortalité précoce reste importante, d'où le besoin de traitements de première ligne plus efficaces.\n\nLe QLS4131 est un anticorps trispécifique qui cible deux antigènes plasmocytaires, BCMA et GPRC5D, et recrute les lymphocytes T par CD3. Cette double cible pourrait limiter l'échappement antigénique. Cette étude de phase 2 monocentrique à un seul bras, menée à l'Institut d'hématologie et hôpital des maladies du sang de Tianjin (Chine), inclut environ 20 adultes jamais traités. Ils reçoivent le QLS4131 par voie sous-cutanée avec montée progressive des doses, puis un traitement d'entretien, pendant 6 à 8 cycles de 28 jours. Le critère principal est le taux de réponse hématologique complète.",
+ "interet": "Si l'efficacité est confirmée avec une tolérance acceptable, un anticorps trispécifique pourrait offrir une alternative aux schémas actuels de première ligne dans l'amylose AL.",
+ "profil": "Des adultes atteints d'amylose AL systémique nouvellement diagnostiquée, jamais traités.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Amylose AL systémique primitive nouvellement diagnostiquée",
+  "Maladie mesurable : dFLC supérieure ou égale à 20 mg/L avec rapport des chaînes légères libres anormal",
+  "ECOG 2 ou moins",
+  "Neutrophiles supérieurs ou égaux à 1,0 G/L, hémoglobine supérieure ou égale à 75 g/L, plaquettes supérieures ou égales à 70 G/L",
+  "ALT et AST inférieures ou égales à 3 fois la normale, bilirubine inférieure ou égale à 2 fois la normale",
+  "DFG supérieur ou égal à 20 mL/min/1,73 m2",
+  "Contraception efficace pendant et 3 mois après le traitement"
+ ],
+ "exclusion": [
+  "Amylose non AL (héréditaire ou autre)",
+  "Myélome multiple symptomatique",
+  "Neuropathie périphérique de grade supérieur à 2 ou douloureuse de grade 2 ou plus",
+  "Autre cancer dans les 5 ans",
+  "Traitement antérieur anti-plasmocytaire (melphalan, cyclophosphamide, inhibiteur du protéasome, IMiD, anticorps, greffe, CAR-T)",
+  "Maladie cardiovasculaire ou cérébrovasculaire instable (dans les 180 jours), insuffisance cardiaque NYHA IV, QTcF supérieur à 500 ms, PAS inférieure à 90 mmHg",
+  "Pneumopathie interstitielle symptomatique ou besoin d'oxygène",
+  "Infection active : VHB, VHC, VIH, syphilis, tuberculose",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "QLS4131",
+   "traitement": "Anticorps trispécifique BCMA/GPRC5D/CD3 par voie sous-cutanée, montée progressive de dose puis entretien, 6 à 8 cycles de 28 jours"
+  }
+ ],
+ "duree": "6 à 8 cycles de 28 jours de traitement, suivi total non précisé",
+ "critere": "Taux de réponse hématologique complète, évalué à la fin de chaque cycle de 28 jours jusqu'au cycle 8"
+}

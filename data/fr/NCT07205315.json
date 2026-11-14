@@ -1,0 +1,31 @@
+{
+ "h": "f69cafe29479",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 GT801 dans les hémopathies B et l'anémie hémolytique auto-immune réfractaires",
+ "question": "Le CAR-T anti-CD19 GT801 est-il sûr chez des adultes atteints d'hémopathie lymphoïde B ou d'anémie hémolytique auto-immune (AHAI) en rechute ou réfractaire ?",
+ "contexte": "Les leucémies aiguës lymphoblastiques B, les leucémies lymphoïdes chroniques et les lymphomes non hodgkiniens B en rechute après plusieurs lignes ont un pronostic réservé, et les CAR-T anti-CD19 y ont déjà transformé la prise en charge. Ils sont maintenant explorés dans les maladies auto-immunes médiées par les lymphocytes B.\n\nL'anémie hémolytique auto-immune réfractaire aux corticoïdes, au rituximab et aux immunosuppresseurs représente un besoin non couvert. Un CAR-T anti-CD19 vise à dépléter en profondeur les lymphocytes B producteurs d'auto-anticorps.\n\nCette étude de phase 1 chinoise, promue par Grit Biotechnology, inclut 28 adultes (hémopathies B CD19+ ou AHAI) et teste le GT801 en injection. Les critères principaux sont les toxicités limitant la dose à 28 jours et les événements indésirables à 3 mois. Une analyse intermédiaire est prévue quand 2 patients auront terminé la mesure du critère principal.",
+ "interet": "Elle évalue la sécurité d'un nouveau CAR-T anti-CD19 dans deux contextes, oncologique et auto-immun. Aucun comparateur n'est prévu et les données seront précoces.",
+ "profil": "Des adultes de 18 à 75 ans atteints de leucémie ou lymphome B CD19+ ou d'AHAI, en rechute ou réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "LAL-B, LLC ou lymphome non hodgkinien B (OMS 2016), ou AHAI diagnostiquée selon le consensus international",
+  "Progression ou rechute après au moins deux lignes",
+  "CD19 positif confirmé (hors AHAI) ; ECOG 0-1 (hors AHAI)",
+  "Espérance de vie > 12 semaines",
+  "Délais de sevrage des traitements antérieurs (2 semaines ou 5 demi-vies ; inhibiteurs de points de contrôle 28 jours)",
+  "AHAI : corticoïdes ≥ 3 mois, et échec du rituximab (Hb < 100 g/L à 12 semaines) ou d'autres immunosuppresseurs, de la chimiothérapie ou du bortézomib"
+ ],
+ "exclusion": [
+  "Atteinte du système nerveux central par leucémie ou lymphome, ou cellules malignes dans le LCR",
+  "Myélofibrose, syndrome myélodysplasique, aplasie médullaire (liste complète non reprise ici)",
+  "Autres critères d'exclusion détaillés dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "GT801",
+   "traitement": "Injection (perfusion) de CAR-T GT801 ; dose non précisée"
+  }
+ ],
+ "duree": "Suivi de sécurité de 3 mois après la perfusion, plus suivi prolongé",
+ "critere": "Proportion de patients avec toxicité limitant la dose (28 jours) ; incidence et gravité des événements indésirables à 3 mois."
+}

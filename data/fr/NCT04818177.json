@@ -1,0 +1,30 @@
+{
+ "h": "37cbcd0bec9e",
+ "date": "2026-11-14",
+ "titre": "Dosage optimal des immunoglobulines IV chez les patients obèses",
+ "question": "L'obésité modifie-t-elle la pharmacocinétique des immunoglobulines G intraveineuses, et quel poids de référence faut-il utiliser pour les doser ?",
+ "contexte": "Les immunoglobulines intraveineuses (IgIV) sont utilisées dans les déficits immunitaires et de nombreuses maladies auto-immunes, y compris en médecine interne. Les doses sont habituellement calculées sur le poids réel (TBW), mais certains centres utilisent le poids idéal (IBW) ou ajusté (AdjBW). Aucun consensus n'existe pour les patients obèses.\n\nLes IgG se distribuent mal dans le tissu adipeux. Un dosage au poids réel pourrait donc entraîner un surdosage relatif, avec un risque accru d'effets indésirables, notamment thrombotiques par augmentation de la viscosité sanguine, et des coûts inutiles. Mais l'effet de l'obésité sur la pharmacocinétique des IgG n'a jamais été évalué expérimentalement.\n\nCette étude observationnelle de l'Université Rutgers compare 40 adultes de poids normal (IMC 18,5-25) et en surpoids ou obèses (IMC > 25), traités par IgIV selon le protocole de leur institution. Les concentrations sériques d'IgG sont mesurées à 5 temps (base, pic, 2 semaines, résiduelle).",
+ "interet": "L'étude pourrait fournir les premières données pour choisir le poids de référence du dosage des IgIV chez les patients obèses, avec un impact sur la tolérance et le coût.",
+ "profil": "Des adultes de 18 à 75 ans déjà traités par IgIV, de poids normal ou en surpoids ou obèses.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Traitement en cours par immunoglobulines intraveineuses"
+ ],
+ "exclusion": [
+  "Atteinte hépatique (transaminases > 3 fois la normale)",
+  "Fonction rénale réduite (clairance de la créatinine < 50 mL/min)",
+  "Pacemaker ou défibrillateur implantable"
+ ],
+ "bras": [
+  {
+   "nom": "Poids normal",
+   "traitement": "IMC 18,5-25 kg/m² ; traitement standard par IgIV de l'institution"
+  },
+  {
+   "nom": "Surpoids ou obésité",
+   "traitement": "IMC > 25 kg/m² ; traitement standard par IgIV de l'institution"
+  }
+ ],
+ "duree": "Une perfusion d'IgIV avec 5 prélèvements sur environ 2 à 4 semaines (cycle de traitement)",
+ "critere": "Concentrations sériques d'IgG à 5 temps : avant la dose, juste après (pic), 2 semaines après et avant la dose suivante (résiduelle)"
+}

@@ -1,0 +1,39 @@
+{
+ "h": "bfcc1ab952f7",
+ "date": "2026-11-14",
+ "titre": "MIL62 contre placebo dans le lupus systémique",
+ "question": "L'anticorps anti-CD20 MIL62 augmente-t-il la proportion de réponse SRI-4 à 12 semaines dans le lupus systémique ?",
+ "contexte": "Le lupus systémique actif reste difficile à contrôler malgré l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et le bélimumab. La déplétion des lymphocytes B est une stratégie plausible, mais les essais du rituximab n'ont pas atteint leurs critères principaux.\n\nLe MIL62 est un anticorps anti-CD20 humanisé et glyco-modifié, conçu pour une cytotoxicité cellulaire plus forte que celle du rituximab. Cette étude de phase 2, randomisée en double aveugle contre placebo, a inclus 123 adultes de 18 à 80 ans, dans un centre chinois (promoteur : Mabworks). Elle comporte les parties A et B. Elle évalue aussi la pharmacocinétique, la pharmacodynamique et les anticorps anti-médicament.",
+ "interet": "Elle permettra de savoir si cette déplétion B plus puissante apporte une réponse dans le lupus actif, avant un éventuel essai de phase 3.",
+ "profil": "Des adultes de 18 à 80 ans atteints de lupus systémique actif sous traitement stable.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Lupus selon les critères EULAR/ACR",
+  "Anticorps antinucléaires ≥ 1/80 ou anti-ADN natif positif",
+  "C3 et/ou C4 bas",
+  "Activité élevée de la maladie",
+  "Traitement stable depuis au moins 30 jours",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Fonction d'organe insuffisante",
+  "Rituximab ou autre déplétion B dans les 9 mois",
+  "CD4 < 200/µL",
+  "Cyclophosphamide dans les 8 semaines, inhibiteurs de calcineurine ou échanges plasmatiques dans les 4 semaines",
+  "Bélimumab ou télitacicept dans les 12 semaines, anti-TNF, anti-JAK ou thalidomide dans les 4 semaines",
+  "Hépatite B (ADN élevé), hépatite C ou VIH",
+  "Allergie sévère aux anticorps monoclonaux humanisés, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "MIL62",
+   "traitement": "MIL62 par voie injectable (parties A et B)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo (parties A et B)"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Proportion de patients atteignant une réponse SRI-4 à la semaine 12."
+}

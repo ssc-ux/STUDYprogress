@@ -1,0 +1,32 @@
+{
+ "h": "6167ef597767",
+ "date": "2026-11-14",
+ "titre": "BMS-986326 en doses croissantes dans le lupus discoïde, subaigu et systémique",
+ "question": "Le BMS-986326 est-il sûr et bien toléré chez des patients atteints de différentes formes de lupus ?",
+ "contexte": "Le lupus cutané discoïde, le lupus cutané subaigu et le lupus systémique léger à modéré gardent un besoin de traitements ciblés. L'hydroxychloroquine, les corticoïdes, les dermocorticoïdes et les immunosuppresseurs ne suffisent pas toujours.\n\nLe BMS-986326 est un produit expérimental de Bristol-Myers Squibb dont le registre ne détaille pas le mécanisme. Cette étude de phase 1b, randomisée en double aveugle contre placebo, teste des doses croissantes répétées par voie intraveineuse ou sous-cutanée. Elle a inclus 45 adultes dans 20 centres de 8 pays, répartis en cohortes successives. L'objectif principal est la tolérance, avec en parallèle la pharmacocinétique et la pharmacodynamie.",
+ "interet": "Il s'agit d'une étape précoce : elle définit la tolérance et les doses utilisables avant un essai d'efficacité dans le lupus.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus discoïde, subaigu ou systémique léger à modéré.",
+ "inclusion": [
+  "Lupus discoïde, cutané subaigu ou systémique",
+  "LED ou LECS diagnostiqué depuis au moins 3 mois, confirmé par biopsie (sauf atteinte limitée à la tête et au cou) et encore actif (CLASI-A)",
+  "Lupus systémique selon les critères EULAR/ACR 2019, de sévérité légère à modérée (SLEDAI-2K)"
+ ],
+ "exclusion": [
+  "Lupus systémique jugé sévère",
+  "Lupus cutané ou systémique induit par un médicament",
+  "Grossesse ou allaitement",
+  "Prednisone > 10 mg/j"
+ ],
+ "bras": [
+  {
+   "nom": "Cohortes A, B, C1 : voie IV",
+   "traitement": "BMS-986326 IV à doses croissantes, ou placebo"
+  },
+  {
+   "nom": "Cohortes C2, D2, E2 : voie SC",
+   "traitement": "BMS-986326 sous-cutané à doses croissantes, ou placebo"
+  }
+ ],
+ "duree": "Jusqu'à 228 jours",
+ "critere": "Événements indésirables (dont graves) et anomalies biologiques, des constantes, de l'ECG et de l'examen clinique, jusqu'à 228 jours."
+}

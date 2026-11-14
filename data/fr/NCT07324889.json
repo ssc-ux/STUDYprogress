@@ -1,0 +1,35 @@
+{
+ "h": "c00a36cb860b",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19/BCMA dans l'anémie hémolytique auto-immune à auto-anticorps chauds réfractaire",
+ "question": "Des CAR-T anti-CD19/BCMA sont-ils sûrs et efficaces dans l'anémie hémolytique à auto-anticorps chauds en rechute ou réfractaire ?",
+ "contexte": "L'anémie hémolytique auto-immune à auto-anticorps chauds (AHAI-chaude) se traite d'abord par corticoïdes, puis par rituximab, immunosuppresseurs ou splénectomie. Une fraction des patients rechute ou reste dépendante d'un traitement prolongé, avec un risque d'effets indésirables cumulés et d'infections.\n\nLes CAR-T anti-CD19 ont induit des rémissions durables dans des maladies auto-immunes réfractaires, notamment le lupus. L'ajout d'une cible BCMA vise également les plasmocytes producteurs d'auto-anticorps, que le rituximab n'atteint pas.\n\nCette étude de phase 1/2 chinoise, multicentrique, à bras unique et en deux étapes (design de Bryant et Day), s'inspire du protocole de l'équipe de Georg Schett (Allemagne) avec 1×10⁶ cellules CAR⁺/kg. Huit patients sont d'abord inclus pour juger la tolérance (CRS de grade ≥ 2, ICANS, neutropénie prolongée), puis 16 autres pour évaluer la réponse.",
+ "interet": "Elle pourrait ouvrir une option de rémission prolongée sans traitement dans l'AHAI chaude multi-réfractaire. Série limitée à 24 patients, sans comparateur, avec une toxicité propre aux CAR-T.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'AHAI à auto-anticorps chauds en rechute ou réfractaire, déjà traités par rituximab ou cyclophosphamide.",
+ "inclusion": [
+  "Âge 18-75 ans, AHAI-chaude en rechute ou réfractaire, évoluant depuis plus de 6 mois",
+  "Au moins un traitement par rituximab ou cyclophosphamide",
+  "Maladie active malgré un traitement conventionnel d'au moins 2 mois ou rechute après rémission",
+  "PNN ≥ 1000/µL, Hb ≥ 60 g/L, plaquettes ≥ 30 000/µL",
+  "FEVG ≥ 50 %, SpO₂ > 90 %, créatinine ≤ 1,5 × LSN, transaminases ≤ 2,5 × LSN",
+  "ECOG 0-2, espérance de vie > 3 mois, contraception efficace"
+ ],
+ "exclusion": [
+  "Tumeur associée jugée incompatible avec l'étude",
+  "Maladie du système nerveux central non auto-immune (AVC, épilepsie, démence, etc.)",
+  "Greffe d'organe ou de cellules souches",
+  "Déficit en IgA (< 10 mg/dL), hépatite B/C active, VIH, syphilis",
+  "Maladie cardiaque grave dans les 6 mois",
+  "Corticoïdes > 20 mg/j de prednisone dans les 7 jours, CAR-T antérieur",
+  "Anticoagulation au long cours, hémorragie de grade ≥ 2 dans les 30 jours",
+  "Grossesse ou allaitement, allergie grave aux composants de la préparation (DMSO)"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T CD19/BCMA",
+   "traitement": "1×10⁶ cellules CAR⁺/kg après lymphodéplétion, en deux étapes (8 puis 16 patients)"
+  }
+ ],
+ "duree": "Suivi de plusieurs mois à 2 ans après la perfusion (contraception exigée jusqu'à 2 ans)",
+ "critere": "Incidence et gravité des événements indésirables dans les 28 jours après la perfusion"
+}

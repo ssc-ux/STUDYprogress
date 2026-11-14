@@ -1,0 +1,36 @@
+{
+ "h": "ab634ac84e06",
+ "date": "2026-11-14",
+ "titre": "JCXH-213 dans le PTI primaire de l'adulte réfractaire ou en rechute",
+ "question": "Le JCXH-213 est-il sûr et tolérable chez des adultes ayant un PTI primaire réfractaire ou en rechute, et quelle dose retenir ?",
+ "contexte": "Le PTI primaire de l'adulte est une maladie auto-immune dans laquelle la destruction des plaquettes et la production insuffisante entraînent une thrombopénie et un risque hémorragique. Après échec des corticoïdes, les options de seconde ligne comprennent le rituximab, la TPO recombinante et les agonistes du récepteur de la TPO.\n\nUne partie des patients reste en échec ou rechute après ces traitements, avec un besoin de nouvelles options. La nature précise du JCXH-213 n'est pas indiquée dans le registre.\n\nCet essai de phase 1 chinois, ouvert et monobras, est mené à l'hôpital général du commandement du théâtre Ouest. Deux niveaux de dose sont prévus (2 mg et 4 mg), avec 2 patients par niveau. Le produit est administré un jour sur deux, pour 7 doses au total. L'étude évalue la tolérance, la dose recommandée, la pharmacocinétique et l'efficacité préliminaire.",
+ "interet": "Étude de sécurité sur seulement 4 patients. Elle servira à choisir la dose pour des essais ultérieurs.",
+ "profil": "Des adultes de 18 à 65 ans ayant un PTI primaire en échec des corticoïdes et d'au moins un traitement de seconde ligne.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, PTI primaire depuis au moins 3 mois",
+  "Échec des corticoïdes et échec ou intolérance d'au moins un traitement de seconde ligne (rituximab, rhTPO, agoniste du récepteur de la TPO)",
+  "Plaquettes < 30 G/L lors d'au moins deux mesures avant la première dose",
+  "ECOG de 0 à 2",
+  "Un seul traitement de fond stable permis (corticoïdes ≤ 0,5 mg/kg/j ou agoniste de la TPO) depuis 4 semaines",
+  "Fonctions hématologique, hépatique, rénale et cardiopulmonaire adéquates (FEVG ≥ 45 %)",
+  "Contraception jusqu'à 6 mois après la dernière perfusion"
+ ],
+ "exclusion": [
+  "AHAI ou thrombopénie secondaire ou héréditaire (leucémie, lupus, SAPL, Evans, hépatopathie, médicaments, etc.)",
+  "Événement thromboembolique ou hémorragie sévère dans l'année",
+  "Anti-CD20 ou cyclophosphamide dans les 3 mois ; azathioprine, danazol, dapsone, ciclosporine, tacrolimus ou sirolimus dans les 4 semaines",
+  "Anticoagulant ou antiagrégant dans les 3 semaines",
+  "Traitement de secours du PTI dans les 2 semaines ; splénectomie dans les 6 mois",
+  "Cancer dans les 5 ans",
+  "Maladie systémique instable (infection, coronaropathie, NYHA III-IV, HTA réfractaire)",
+  "Immunosuppression connue ou infections opportunistes ; ADN du VHB positif"
+ ],
+ "bras": [
+  {
+   "nom": "JCXH-213, 2 mg ou 4 mg",
+   "traitement": "Un jour sur deux pour 7 doses, 2 patients par niveau de dose"
+  }
+ ],
+ "duree": "Environ 1 mois de traitement et de suivi de tolérance (fin d'étude prévue en 2027)",
+ "critere": "Tolérance et sécurité du JCXH-213, avec observation des toxicités limitantes pendant les 14 jours suivant la première perfusion"
+}

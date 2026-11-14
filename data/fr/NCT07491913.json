@@ -1,0 +1,29 @@
+{
+ "h": "642692af288e",
+ "date": "2026-11-14",
+ "titre": "Arrêt programmé des biothérapies dans la maladie de Takayasu en rémission prolongée",
+ "question": "Peut-on arrêter les biothérapies après diminution de dose chez des patients atteints de maladie de Takayasu en rémission prolongée, sans rechute à 12 mois ?",
+ "contexte": "La maladie de Takayasu est une vascularite granulomateuse des gros vaisseaux touchant l'aorte et ses branches. Le traitement associe corticoïdes et immunosuppresseurs conventionnels. Dans les formes réfractaires ou récidivantes, on utilise les anti-TNF (infliximab, adalimumab, certolizumab) ou le tocilizumab, qui permettent d'obtenir une rémission et d'épargner les corticoïdes.\n\nLa durée optimale de ces biothérapies et la sécurité de leur arrêt chez les patients en rémission prolongée sont peu documentées. Cette étude prospective, menée à l'université Marmara (Istanbul), propose à 40 patients en rémission clinique, biologique et radiologique sous biothérapie depuis au moins 3 ans, sans changement de traitement depuis 12 mois et sans corticoïdes depuis 6 mois, une décroissance de dose sur 3 mois suivie d'un arrêt complet en l'absence de rechute. Le suivi dure 12 mois, avec évaluation clinique et biologique à 1 mois puis tous les 3 mois et imagerie selon les besoins. Les facteurs prédictifs de rechute seront explorés.",
+ "interet": "Elle pourrait aider à décider si l'on peut alléger ou arrêter les biothérapies, coûteuses et exposant aux infections, chez certains patients Takayasu en rémission profonde.",
+ "profil": "Des adultes atteints de maladie de Takayasu en rémission prolongée sous anti-TNF ou tocilizumab depuis au moins 3 ans.",
+ "inclusion": [
+  "Maladie de Takayasu selon les critères ACR/EULAR 2022",
+  "Biothérapie (anti-TNF ou tocilizumab) depuis au moins 3 ans",
+  "Rémission clinique, biologique et radiologique soutenue",
+  "Aucun changement de traitement dans les 12 mois précédents, pas de corticoïdes depuis 6 mois",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Autre maladie inflammatoire active nécessitant une biothérapie (MICI, spondylarthrite)",
+  "Impossibilité de suivre les visites après l'arrêt",
+  "Grossesse ou projet de grossesse pendant l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Arrêt de la biothérapie",
+   "traitement": "Décroissance de dose programmée sur 3 mois puis arrêt complet (tocilizumab, infliximab, adalimumab ou certolizumab), suivi de 12 mois"
+  }
+ ],
+ "duree": "3 mois de décroissance puis 12 mois de suivi",
+ "critere": "Proportion de patients restant en rémission 12 mois après l'arrêt de la biothérapie."
+}

@@ -1,0 +1,26 @@
+{
+ "h": "2e1741dd3b2e",
+ "date": "2026-11-14",
+ "titre": "Immunogénicité et tolérance d'Adzynma dans le PTT congénital (données de la vie réelle)",
+ "question": "Quel est le risque d'anticorps neutralisants et de réactions d'hypersensibilité chez les patients atteints de PTT congénital traités par Adzynma en pratique courante ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique congénital (PTTc) est une maladie rare due à des mutations du gène ADAMTS13. Le déficit de cette enzyme laisse persister de grands multimères du facteur von Willebrand qui forment des thrombi dans les petits vaisseaux, avec un risque d'atteinte cérébrale, rénale et cardiaque. Le traitement habituel était la perfusion de plasma.\n\nAdzynma est une ADAMTS13 recombinante humaine utilisée en traitement substitutif prophylactique ou à la demande. Les risques principaux sont le développement d'anticorps neutralisants et les réactions allergiques, sur lesquels les données de pratique courante sont limitées.\n\nCette étude promue par Takeda est une revue rétrospective de dossiers médicaux d'environ 50 enfants et adultes traités par Adzynma, sur environ 5 ans. Elle estime le risque d'anticorps neutralisants à 6 mois et d'hypersensibilité à 7 jours après la première perfusion. Elle recueille aussi la sécurité à long terme et les grossesses exposées.",
+ "interet": "Elle fournira des données de sécurité de vie réelle sur ce traitement substitutif d'une maladie ultra-rare, notamment pour les enfants et les femmes enceintes. Étude rétrospective, à promotion industrielle.",
+ "profil": "Des enfants et des adultes atteints de PTT congénital ayant reçu Adzynma.",
+ "inclusion": [
+  "Diagnostic de PTT congénital",
+  "Au moins une administration d'Adzynma commercialisé documentée (date et dose) dans le dossier",
+  "Consentement signé (ou assentiment et consentement selon les règles locales)"
+ ],
+ "exclusion": [
+  "Antécédent ou présence d'un inhibiteur fonctionnel d'ADAMTS13 (anticorps neutralisants)",
+  "Médicament expérimental ou autre essai clinique au moment de la perfusion initiale"
+ ],
+ "bras": [
+  {
+   "nom": "Tous les participants",
+   "traitement": "Aucune intervention, recueil rétrospectif des dossiers pendant environ 5 ans"
+  }
+ ],
+ "duree": "Données rétrospectives sur environ 5 ans",
+ "critere": "Nombre de patients avec hypersensibilité et avec anticorps neutralisants anti-ADAMTS13 dans les 6 mois suivant la première perfusion"
+}

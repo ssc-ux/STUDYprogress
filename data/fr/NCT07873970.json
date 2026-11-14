@@ -1,0 +1,32 @@
+{
+ "h": "37adab96f2af",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T cytotoxiques spécifiques de virus dans les infections virales réfractaires de l'immunodéprimé",
+ "question": "Les lymphocytes T cytotoxiques d'un donneur, spécifiques du CMV, de l'adénovirus, de l'EBV ou du virus BK, sont-ils sûrs et efficaces dans les infections virales réfractaires ?",
+ "contexte": "Les réactivations virales sont une cause majeure de morbidité et de mortalité chez les patients ayant un déficit immunitaire inné ou acquis, notamment après greffe allogénique de cellules souches ou greffe d'organe. Le CMV, l'adénovirus, l'EBV et le virus BK peuvent provoquer des maladies sévères, persistantes ou évolutives.\n\nLes antiviraux standards sont parfois inefficaces, mal tolérés, contre-indiqués ou limités par des résistances. Le transfert de lymphocytes T spécifiques de virus restaure l'immunité antivirale.\n\nCet essai de phase 1 monocentrique (Children's Hospital of Philadelphia) est un essai panier ouvert, sans groupe comparateur. Les cellules sont prélevées chez un donneur apparenté HLA compatible au moins 3/6, stimulées par des peptides viraux et enrichies avec le système CliniMACS Cytokine Capture, puis injectées par voie intraveineuse. Jusqu'à cinq perfusions, espacées de 2 semaines, sont possibles. La sécurité est évaluée globalement, l'efficacité antivirale par virus.",
+ "interet": "Il pourrait fournir une option pour les infections virales réfractaires de l'immunodéprimé, quand les antiviraux échouent.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 0 à 29 ans, immunodéprimés, avec une infection à CMV, adénovirus, EBV ou BK réfractaire.",
+ "inclusion": [
+  "Déficit immunitaire inné (par ex. SCID) ou acquis avec infection réfractaire à CMV, adénovirus, EBV ou BK",
+  "Virémie croissante ou persistante malgré le traitement standard, ou maladie symptomatique non améliorée après 7 jours, ou résistance ou intolérance aux antiviraux",
+  "Âge de 0 à 29 ans",
+  "Test de grossesse négatif et contraception efficace si potentiel reproductif",
+  "Donneur : adulte ≥ 18 ans, compatibilité HLA ≥ 3/6, bilan équivalent à celui d'un donneur de greffe"
+ ],
+ "exclusion": [
+  "GVHD aiguë de grade ≥ 2 ou GVHD chronique modérée à sévère",
+  "Corticoïdes systémiques > 0,5 mg/kg/j de prednisolone",
+  "Perfusion de lymphocytes du donneur ou de sérum antilymphocytaire/alemtuzumab dans les 4 semaines",
+  "Atteinte d'organe à risque (rétinite, encéphalite)",
+  "Infection par le VIH",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Lymphocytes T cytotoxiques spécifiques de virus",
+   "traitement": "Perfusion intraveineuse de cellules d'un donneur au jour 0, répétée toutes les 2 semaines si virus détectable, jusqu'à 5 perfusions"
+  }
+ ],
+ "duree": "Suivi d'environ 12 semaines après la dernière perfusion",
+ "critere": "Survenue d'une GVHD aiguë de grade ≥ 3 et de réactions liées à la perfusion de grade ≥ 3, du jour 0 jusqu'à 12 semaines après la dernière perfusion."
+}

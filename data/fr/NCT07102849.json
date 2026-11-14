@@ -1,0 +1,30 @@
+{
+ "h": "acab0e4341b0",
+ "date": "2026-11-14",
+ "titre": "Analyse moléculaire et clinique des insuffisances médullaires (NHLBI), étude de données secondaires",
+ "question": "Quelles anomalies moléculaires et quelle dynamique clonale caractérisent les insuffisances médullaires, dont l'aplasie médullaire, le VEXAS et l'HPN ?",
+ "contexte": "Les insuffisances médullaires acquises ont une physiopathologie immune commune : aplasie médullaire (AM), syndromes myélodysplasiques de bas risque (hypoplasiques), syndrome VEXAS, leucémie à grands lymphocytes granuleux (LGL), hémoglobinurie paroxystique nocturne (HPN), érythroblastopénie chronique. Une clonalité est fréquente.\n\nDans l'aplasie acquise, des mutations somatiques de PIGA, BCOR et des gènes HLA sont liées au mécanisme immun et prédisent la réponse au traitement. D'autres, comme ASXL1, RUNX1, les gènes d'épissage ou la monosomie 7, annoncent l'évolution vers une néoplasie myéloïde. Des mutations de STAT, DNMT3A et TET2 sont fréquentes dans les LGL et le VEXAS. En dehors de l'aplasie, la dynamique clonale est mal connue.\n\nCette étude du NHLBI (États-Unis) réutilise des échantillons biologiques et des données identifiantes d'essais antérieurs, pour jusqu'à 1400 participants atteints d'insuffisance médullaire (dès 2 ans) et des volontaires sains appariés sur l'âge (dès 8 ans).",
+ "interet": "Les résultats pourraient identifier des anomalies moléculaires associées à la réponse au traitement ou à l'évolution clonale. Il s'agit d'une analyse de données et d'échantillons existants, sans intervention nouvelle.",
+ "profil": "Des enfants et adultes de 2 ans et plus atteints d'insuffisance médullaire (aplasie, VEXAS, HPN, SMD…) et des volontaires sains appariés.",
+ "inclusion": [
+  "Participant à l'un des protocoles NHLBI sources sur l'aplasie médullaire (par exemple traitement immunosuppresseur, éltrombopag)",
+  "Âge de 2 ans et plus pour les patients",
+  "Volontaires sains appariés sur l'âge, âgés de 8 ans et plus",
+  "Échantillons biologiques et données disponibles"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Insuffisances médullaires",
+   "traitement": "Échantillons et données de patients (aplasie, VEXAS, HPN, SMD, LGL, etc.) issus de protocoles antérieurs du NHLBI"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Échantillons et données de volontaires sains appariés sur l'âge"
+  }
+ ],
+ "duree": "Non précisé (analyse de données et d'échantillons existants)",
+ "critere": "Détection d'anomalies moléculaires dans les insuffisances médullaires, à l'inclusion."
+}

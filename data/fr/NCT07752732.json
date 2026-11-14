@@ -1,0 +1,27 @@
+{
+ "h": "ff7ccd5a8771",
+ "date": "2026-11-14",
+ "titre": "Prévalence de l'amylose cardiaque dans le rétrécissement aortique serré : imagerie multimodale",
+ "question": "Quelle est la prévalence de l'amylose cardiaque chez les patients atteints d'un rétrécissement aortique serré évalués avant TAVI, et que peut apporter l'imagerie quantitative ?",
+ "contexte": "Le rétrécissement aortique dégénératif est la valvulopathie la plus fréquente dans les pays occidentaux. Chez les sujets âgés, il est le plus souvent traité par implantation valvulaire aortique transcathéter (TAVI). Il s'accompagne d'une hypertrophie ventriculaire gauche et d'une dysfonction diastolique, deux éléments qui se recoupent avec l'amylose cardiaque à transthyrétine (ATTR).\n\nDe l'amylose est retrouvée dans plus de 70 % des valves aortiques réséquées chirurgicalement. L'association d'une amylose cardiaque peut aggraver le pronostic après TAVI, et son dépistage précoce est important, car des traitements spécifiques de l'amylose ATTR existent.\n\nLa biopsie endomyocardique reste invasive. La scintigraphie osseuse aux phosphonates marqués au technétium 99m (SPECT/TDM) a une spécificité élevée pour l'ATTR, mais le score de Perugini ne propose qu'une classification grossière de la fixation. Cette étude observationnelle de l'hôpital universitaire de Tübingen (Bayer comme collaborateur) évalue environ 600 patients avec rétrécissement aortique serré et suspicion d'amylose. Elle utilise l'imagerie cliniquement indiquée (échocardiographie, TDM, SPECT/TDM, avec mesures quantitatives de la fixation et du volume extracellulaire) et une IRM cardiaque en cas d'anomalie. Un suivi à 6, 12 et 24 mois étudie la valeur pronostique des paramètres d'imagerie.",
+ "interet": "Les résultats pourraient guider le dépistage de l'amylose cardiaque avant TAVI et valider des paramètres quantitatifs d'imagerie à valeur pronostique.",
+ "profil": "Des adultes avec un rétrécissement aortique serré évalués pour un TAVI et suspects d'amylose cardiaque.",
+ "inclusion": [
+  "Rétrécissement aortique serré (surface valvulaire inférieure à 1 cm2, gradient moyen supérieur à 40 mmHg, Vmax supérieure à 4 m/s)",
+  "Suspicion d'amylose cardiaque",
+  "Au moins un examen d'imagerie réalisé pour une indication clinique (échocardiographie, TDM, SPECT/TDM au Tc99, IRM cardiaque)",
+  "Âge de 18 ans ou plus",
+  "Consentement écrit pour la collecte prospective des données"
+ ],
+ "exclusion": [
+  "Patient incapable de donner son consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec rétrécissement aortique serré",
+   "traitement": "Imagerie de routine (SPECT/TDM au Tc99, TDM, IRM cardiaque si anomalie) et suivi clinique à 6, 12 et 24 mois"
+  }
+ ],
+ "duree": "Suivi de 24 mois",
+ "critere": "Proportion de patients ayant une amylose cardiaque diagnostiquée, à l'inclusion"
+}

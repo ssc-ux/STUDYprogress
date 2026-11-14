@@ -1,0 +1,38 @@
+{
+ "h": "7d8124eb1993",
+ "date": "2026-11-14",
+ "titre": "S100A8 sérique et urinaire comme biomarqueur de la néphrite lupique",
+ "question": "Le dosage de la protéine S100A8 dans le sérum et les urines permet-il de diagnostiquer une néphrite lupique ?",
+ "contexte": "La néphrite lupique touche environ un tiers à la moitié des patients lupiques et reste une cause majeure de morbidité et d'insuffisance rénale terminale. Son diagnostic repose sur la protéinurie, le sédiment urinaire et la biopsie rénale, geste invasif qui ne peut être répété facilement. Des biomarqueurs non invasifs, plus précoces ou plus spécifiques, sont donc recherchés.\n\nS100A8 est une protéine liée au calcium, produite par les neutrophiles et présente dans les pièges extracellulaires des neutrophiles (NETs). Elle agit comme signal de danger en activant notamment le récepteur TLR4. Des travaux expérimentaux et cliniques associent ses taux sériques à l'activité du lupus, à la glomérulonéphrite et aux anticorps anti-ADN natif. Sa spécificité est incertaine, car elle est aussi élevée dans la polyarthrite rhumatoïde et les maladies inflammatoires intestinales. Cette étude cas-témoins égyptienne (Theodor Bilharz Research Institute) mesure S100A8 dans le sérum et les urines de patients lupiques avec ou sans néphrite et de témoins sains.",
+ "interet": "Un dosage urinaire ou sérique fiable de S100A8 pourrait aider à repérer une néphrite lupique ou à suivre son activité sans biopsie. Les résultats resteront préliminaires vu l'effectif et le caractère monocentrique.",
+ "profil": "Des adultes atteints de lupus, avec ou sans atteinte rénale, et des témoins sains appariés.",
+ "inclusion": [
+  "Âge d'au moins 18 ans",
+  "Lupus érythémateux systémique (critères ACR 1997 ou SLICC 2012)",
+  "Groupe néphrite : atteinte rénale (protéinurie ou élévation de la créatininémie), confirmée par biopsie si disponible",
+  "Témoins : sujets sains appariés sur l'âge et le sexe"
+ ],
+ "exclusion": [
+  "Autres maladies auto-immunes",
+  "Syndrome de Gougerot-Sjögren",
+  "Polyarthrite rhumatoïde",
+  "Sclérodermie systémique",
+  "Traitement par biothérapie, immunosuppresseur ou corticoïde"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus avec néphrite lupique",
+   "traitement": "30 patients ; dosage de S100A8 sérique et urinaire"
+  },
+  {
+   "nom": "Lupus sans néphrite",
+   "traitement": "20 patients ; dosage de S100A8"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Sujets appariés ; dosage de S100A8"
+  }
+ ],
+ "duree": "Prélèvement unique (suivi de 3 mois selon le registre)",
+ "critere": "Performance du taux sérique de S100A8 pour diagnostiquer la néphrite lupique, évaluée à 3 mois."
+}

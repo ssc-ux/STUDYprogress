@@ -1,0 +1,43 @@
+{
+ "h": "ad3ca3c8946f",
+ "date": "2026-11-14",
+ "titre": "Zolacabtagène autoleucel (CAR-T anti-CD19) dans le PTI chronique et l'AHAI réfractaires",
+ "question": "Le zola-cel (BMS-986353), CAR-T anti-CD19, est-il sûr et efficace dans le PTI chronique et l'anémie hémolytique auto-immune réfractaires ?",
+ "contexte": "Le PTI chronique et l'anémie hémolytique auto-immune (AHAI) sont des cytopénies auto-immunes. Après échec des corticoïdes, des immunoglobulines, de l'anti-CD20 et d'autres immunosuppresseurs ou des agonistes de la thrombopoïétine, les options deviennent limitées, avec des traitements souvent prolongés.\n\nLes CAR-T anti-CD19 éliminent profondément les lymphocytes B et ont montré des rémissions durables dans des maladies auto-immunes comme le lupus. Le zolacabtagène autoleucel est un CAR-T anti-CD19 de type NEX-T développé par Juno Therapeutics (Bristol-Myers Squibb).\n\nCet essai de phase 2 multicentrique, ouvert et monobras, inclut des patients adultes ayant un PTI chronique ou une AHAI (chaude, mixte ou à agglutinines froides) sans autre maladie auto-immune systémique. Ils reçoivent une lymphodéplétion par fludarabine et cyclophosphamide, puis le CAR-T. Une partie A évalue la sécurité, une partie B la réponse hématologique complète.",
+ "interet": "Il pourrait établir une première évaluation du CAR-T anti-CD19 dans les cytopénies auto-immunes isolées, avec la possibilité d'une rémission sans traitement prolongé.",
+ "profil": "Des adultes ayant un PTI chronique ou une AHAI réfractaire, sans autre maladie auto-immune systémique.",
+ "inclusion": [
+  "PTI chronique sans autre manifestation auto-immune systémique, rechute ou intolérance aux corticoïdes et échec d'au moins 2 mécanismes d'action",
+  "PTI : plaquettes < 30 G/L (< 50 G/L sous agoniste de la TPO)",
+  "AHAI (chaude, mixte ou maladie des agglutinines froides) : échec d'au moins 2 lignes dont un anti-CD20, sauf contre-indication",
+  "AHAI : Hb < 10 g/dL sans transfusion, ou dépendance transfusionnelle, avec hémolyse documentée",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "PTI ou AHAI associé à un syndrome d'Evans, une autre maladie auto-immune nécessitant un immunosuppresseur, une hépatite C, un VIH, un médicament, une chirurgie ou une hémopathie maligne",
+  "Thrombopénie thrombotique immune post-vaccin COVID-19",
+  "Cancer solide dans les 2 ans",
+  "PNN < 1,5 G/L ou besoin de G-CSF ou GM-CSF",
+  "Transaminases > 3 N (AHAI : ASAT jusqu'à 5 N permis), bilirubine ou INR > 1,5 N"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1, partie A, PTI",
+   "traitement": "Zola-cel après fludarabine et cyclophosphamide"
+  },
+  {
+   "nom": "Cohorte 1, partie A, AHAI",
+   "traitement": "Zola-cel après fludarabine et cyclophosphamide"
+  },
+  {
+   "nom": "Cohorte 1, partie B",
+   "traitement": "Zola-cel après fludarabine et cyclophosphamide"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "Zola-cel après fludarabine et cyclophosphamide"
+  }
+ ],
+ "duree": "Jusqu'à environ 36 mois",
+ "critere": "Partie A : événements indésirables, graves ou d'intérêt particulier et anomalies biologiques jusqu'à environ 36 mois ; partie B : réponse hématologique complète jusqu'à environ 6 mois"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "678c8bb33e59",
+ "date": "2026-11-14",
+ "titre": "Cohorte réelle de maladies auto-immunes neurologiques (Tongji NADs)",
+ "question": "Quels sont l'évolution, le handicap et les rechutes à 10 ans de patients atteints de maladies auto-immunes neurologiques suivis en pratique réelle ?",
+ "contexte": "Les maladies auto-immunes neurologiques regroupent la sclérose en plaques (SEP), les troubles du spectre de la neuromyélite optique (NMOSD), les maladies associées aux anticorps anti-MOG (MOGAD), les encéphalites auto-immunes, les neuropathies périphériques immunes (syndrome de Guillain-Barré, PIDC, nodopathies), la myasthénie et les myopathies inflammatoires. Elles partagent une origine auto-immune mais diffèrent par leur cible immunitaire, leur épidémiologie et leur réponse au traitement.\n\nLes essais randomisés fournissent les preuves nécessaires à l'enregistrement des médicaments, mais leurs critères stricts, leur population homogène et leur suivi court décrivent mal l'évolution réelle. Beaucoup de patients gardent des taux de rechute élevés et accumulent un handicap irréversible.\n\nCette cohorte observationnelle du Tongji Hospital (Chine), en collaboration avec une société de biotechnologie, prévoit d'inclure 1 550 adultes de 18 à 80 ans et de les suivre 10 ans. Elle regroupe plusieurs maladies dans un même dispositif, afin d'optimiser les stratégies thérapeutiques et d'étudier les résultats à long terme.",
+ "interet": "Elle fournira des données de long terme sur plusieurs maladies neuro-immunes, utiles pour comparer les stratégies thérapeutiques en vie réelle. Population chinoise, observationnelle, sans intervention.",
+ "profil": "Des adultes de 18 à 80 ans atteints de SEP, NMOSD, MOGAD, encéphalite auto-immune, neuropathie immune, myasthénie ou myopathie inflammatoire.",
+ "inclusion": [
+  "Âge 18-80 ans, consentement éclairé",
+  "SEP (critères de McDonald 2017) ou NMOSD (critères IPND 2015)",
+  "MOGAD (critères de 2023) ou encéphalite auto-immune (consensus chinois 2022)",
+  "Neuropathie immune : syndrome de Guillain-Barré, PIDC, nodopathie auto-immune",
+  "Myasthénie généralisée réfractaire (consensus chinois 2024, MG-ADL ≥ 6)",
+  "Myopathie inflammatoire (critères EULAR/ACR 2017)"
+ ],
+ "exclusion": [
+  "Pas de critère d'exclusion spécifique (étude observationnelle)",
+  "Autres facteurs non expliqués jugés par les investigateurs comme motifs de non-inclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique (sans intervention)",
+   "traitement": "Suivi en pratique courante de patients atteints de SEP, NMOSD, MOGAD, encéphalite auto-immune, neuropathies immunes, myasthénie ou myopathies inflammatoires"
+  }
+ ],
+ "duree": "10 ans",
+ "critere": "Score EDSS, score de Rankin modifié, MMT-8, QMG, taux annuel de rechute et événements indésirables, sur 10 ans"
+}

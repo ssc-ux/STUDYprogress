@@ -1,0 +1,39 @@
+{
+ "h": "deae2f9570da",
+ "date": "2026-11-14",
+ "titre": "Vésicules extracellulaires comme biomarqueurs de la cardiomyopathie amyloïde à transthyrétine",
+ "question": "Les vésicules extracellulaires circulantes peuvent-elles servir de biomarqueurs précoces et pronostiques de la cardiomyopathie amyloïde ATTR ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est due au dépôt myocardique de transthyrétine mal repliée, héréditaire ou de type sauvage. Le diagnostic reste souvent tardif, à un stade où l'atteinte cardiaque est déjà importante, alors que des traitements stabilisateurs ou silenceurs de la transthyrétine existent désormais.\n\nLe dépistage repose sur l'échocardiographie, l'IRM cardiaque et la scintigraphie osseuse, et il manque des marqueurs sanguins précoces et de stratification. Les vésicules extracellulaires, particules libérées par les cellules et porteuses de protéines, lipides et acides nucléiques, pourraient refléter l'atteinte cardiaque.\n\nCette étude observationnelle brésilienne (Hôpital des cliniques de l'Université de São Paulo, InCor) inclut 70 adultes répartis en quatre groupes : ATTR-CM avec dysfonction myocardique (20), ATTR héréditaire à prédominance neurologique (20), porteurs du génotype sans manifestation (10) et témoins sains (20). Elle compare leurs profils de vésicules et les relie à l'imagerie et à la clinique.",
+ "interet": "Elle pourrait fournir un marqueur sanguin pour dépister plus tôt l'amylose ATTR chez les porteurs de variants et suivre sa progression. Petit effectif, étude exploratoire.",
+ "profil": "Des adultes avec amylose ATTR (cardiaque, neurologique ou porteurs asymptomatiques) et des témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose cardiaque à transthyrétine confirmée, avec ou sans dysfonction myocardique, selon les critères établis",
+  "Consentement écrit",
+  "Capacité à suivre les procédures de l'étude"
+ ],
+ "exclusion": [
+  "Autre cardiopathie significative pouvant interférer (coronaropathie sévère, valvulopathie majeure)",
+  "Impossibilité de consentir ou de réaliser les évaluations requises"
+ ],
+ "bras": [
+  {
+   "nom": "ATTR-CM avec dysfonction myocardique (20)",
+   "traitement": "Prise de sang pour vésicules extracellulaires, imagerie cardiaque"
+  },
+  {
+   "nom": "ATTR héréditaire neurologique (20)",
+   "traitement": "Prise de sang pour vésicules extracellulaires"
+  },
+  {
+   "nom": "Génotype ATTR sans manifestation (10)",
+   "traitement": "Prise de sang pour vésicules extracellulaires"
+  },
+  {
+   "nom": "Témoins sains (20)",
+   "traitement": "Prise de sang pour vésicules extracellulaires"
+  }
+ ],
+ "duree": "Évaluation initiale (critères mesurés au départ)",
+ "critere": "Concentration sérique et profil protéique des vésicules extracellulaires circulantes, au départ"
+}

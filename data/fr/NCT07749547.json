@@ -1,0 +1,33 @@
+{
+ "h": "0ffe43e546b3",
+ "date": "2026-11-14",
+ "titre": "Rééducation personnalisée du mouvement dans la pseudopolyarthrite rhizomélique : essai de faisabilité",
+ "question": "Un essai évaluant l'entraînement des schémas de mouvement (MoveTrain) dans la pseudopolyarthrite rhizomélique est-il faisable ?",
+ "contexte": "La pseudopolyarthrite rhizomélique (PPR) provoque douleurs et raideur des épaules et des hanches, avec un retentissement important sur les gestes de la vie quotidienne. Le traitement standard repose sur les corticoïdes, avec des effets indésirables cumulatifs et des rechutes à la décroissance.\n\nLes approches non médicamenteuses, notamment la rééducation, ont été peu étudiées dans la PPR, alors que la douleur à l'effort et la perte de force persistent souvent malgré la normalisation de l'inflammation biologique.\n\nLe Movement Pattern Training (MoveTrain) est un programme de rééducation personnalisé, progressif et spécifique à l'activité. Après un examen du mouvement, le thérapeute identifie les mouvements articulaires altérés qui déclenchent la douleur et enseigne une modification du geste, que le patient répète à domicile et dans la vie quotidienne. Cet essai de faisabilité randomisé, mené à la Washington University School of Medicine, inclut environ 20 adultes de 50 ans et plus atteints de PPR, répartis entre MoveTrain et soins habituels. L'étude évalue le recrutement et l'acceptation de la randomisation, ainsi que des critères exploratoires (activités réalisées, consommation de corticoïdes, force musculaire, retours des patients).",
+ "interet": "L'étude déterminera s'il est réaliste de conduire un grand essai de rééducation personnalisée, et pourrait ouvrir une voie d'épargne cortisonique non médicamenteuse.",
+ "profil": "Des adultes de 50 ans et plus atteints de pseudopolyarthrite rhizomélique douloureuse.",
+ "inclusion": [
+  "Douleur supérieure à 3 sur 10",
+  "PPR ou poussée selon les critères EULAR/ACR (âge de 50 ans ou plus, douleur bilatérale des épaules, CRP supérieure à 10 mg/L et/ou VS supérieure à 30 mm/h)",
+  "Score de classification d'au moins 4 sans échographie (raideur matinale de plus de 45 minutes, douleur de hanche, facteur rhumatoïde et anti-CCP négatifs, absence d'autre atteinte articulaire)",
+  "Capacité à consentir",
+  "Autorisation médicale pour l'activité physique"
+ ],
+ "exclusion": [
+  "Fibromyalgie, maladie musculaire neuropathique, syndrome douloureux régional complexe ou neuropathie des petites fibres",
+  "Intervention chirurgicale majeure prévue pendant l'étude",
+  "Infection active non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "MoveTrain",
+   "traitement": "Entraînement progressif des schémas de mouvement propres aux activités douloureuses, avec exercices à domicile"
+  },
+  {
+   "nom": "Soins habituels",
+   "traitement": "Traitement prescrit par le médecin"
+  }
+ ],
+ "duree": "Environ 7 mois",
+ "critere": "Nombre de participants potentiels contactés et pourcentage de participants éligibles acceptant la randomisation, sur 7 mois"
+}

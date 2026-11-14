@@ -1,0 +1,27 @@
+{
+ "h": "f876190cb683",
+ "date": "2026-11-14",
+ "titre": "PRISM : médecine de précision dans la mastocytose systémique indolente",
+ "question": "Comment les symptômes de la mastocytose systémique indolente sont-ils liés à des signaux biologiques, et comment les traitements les modifient-ils ?",
+ "contexte": "La mastocytose systémique indolente (MSI) est la forme la plus fréquente de mastocytose systémique, une prolifération clonale de mastocytes le plus souvent liée à la mutation KIT D816V. Elle se manifeste par des symptômes variés, fluctuants et parfois invalidants : flushs, prurit, douleurs abdominales, diarrhée, fatigue, douleurs osseuses, épisodes d'anaphylaxie.\n\nLes traitements actuels sont symptomatiques (antihistaminiques, cromoglicate, antileucotriènes, omalizumab) et, plus récemment, des inhibiteurs de KIT comme l'avapritinib. On connaît mal les liens entre l'intensité des symptômes, les médiateurs biologiques et la réponse aux traitements, ce qui limite la personnalisation.\n\nCette étude observationnelle de la Mayo Clinic suit prospectivement environ 25 adultes atteints de MSI selon les critères OMS 2022, sous traitement stable depuis au moins 14 jours. Elle recueille des symptômes et résultats rapportés par les patients (ePRO), la qualité de vie, des données de dispositifs portables, des expositions environnementales et des prélèvements biologiques. Le critère principal est la faisabilité : le taux de participants ayant terminé l'étude à 12 semaines.",
+ "interet": "L'étude préparera des travaux plus vastes pour relier symptômes, biomarqueurs et réponse au traitement dans la mastocytose indolente.",
+ "profil": "Des adultes atteints de mastocytose systémique indolente sous traitement stable.",
+ "inclusion": [
+  "Mastocytose systémique indolente selon les critères OMS 2022",
+  "Traitements de fond à doses stables depuis au moins 14 jours",
+  "ECOG de 0 à 2"
+ ],
+ "exclusion": [
+  "Mastocytose systémique avancée selon les critères OMS 2022",
+  "Traitement cytoréducteur (cladribine, interféron alpha, interféron pégylé, anticorps) dans les 28 jours",
+  "Autre problème médical significatif selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte mastocytose systémique indolente",
+   "traitement": "Suivi prospectif : symptômes, ePRO, qualité de vie, dispositifs portables, expositions environnementales et prélèvements biologiques"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Taux de participants ayant terminé l'étude à 12 semaines"
+}
