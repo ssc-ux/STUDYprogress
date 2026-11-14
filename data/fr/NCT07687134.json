@@ -1,0 +1,39 @@
+{
+ "h": "b0c3ec5f22bf",
+ "date": "2026-11-14",
+ "titre": "Eltrombopag plus télitacicept ou eltrombopag seul dans le PTI en échec des corticoïdes",
+ "question": "Ajouter le télitacicept à l'eltrombopag augmente-t-il la proportion de patients gardant des plaquettes ≥ 30 G/L sans saignement 24 semaines après le traitement ?",
+ "contexte": "Le PTI est une maladie auto-immune hémorragique. Les corticoïdes sont le traitement de première ligne, mais environ un tiers des patients rechutent ou sont réfractaires. L'eltrombopag, agoniste du récepteur de la TPO, stimule la production plaquettaire, mais certains patients ne répondent pas et la rechute à l'arrêt est fréquente.\n\nLe télitacicept est une protéine de fusion TACI-Fc qui bloque BAFF et APRIL, deux cytokines qui soutiennent la survie des lymphocytes B et des plasmocytes. Il pourrait réduire la production d'autoanticorps et compléter l'effet de l'eltrombopag. Cet essai exploratoire de phase II randomisé ouvert, mené à Tianjin (Institute of Hematology & Blood Diseases Hospital), inclut 40 adultes (20 par groupe) avec un PTI de plus de 3 mois, des plaquettes < 30 G/L et un échec des corticoïdes. Le traitement dure 12 semaines, suivi jusqu'à la semaine 24 ; les patients du bras eltrombopag sans réponse à 4 semaines peuvent passer dans le bras combiné.",
+ "interet": "Les résultats indiqueront si un double ciblage (production plaquettaire et auto-immunité) donne des rémissions plus durables après l'arrêt du traitement.",
+ "profil": "Des adultes ayant un PTI de plus de 3 mois, plaquettes < 30 G/L, après échec ou rechute des corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI diagnostiqué depuis au moins 3 mois, plaquettes < 30 G/L dans les 48 heures avant la première dose",
+  "Échec, rechute ou perte de réponse aux corticoïdes de première ligne",
+  "Traitement de secours (corticoïdes, transfusion, immunoglobulines) terminé depuis au moins 2 semaines",
+  "Corticoïdes stables 2 semaines, immunosuppresseurs stables 4 semaines, anti-CD20 terminé depuis plus de 3 mois",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Anti-CD20 dans les 3 mois",
+  "Maladie d'organe vital non contrôlée (cancer, insuffisance hépatique, cardiaque ou rénale)",
+  "VIH, infection virale ou bactérienne active non contrôlée (hépatites B et C, CMV, EBV, syphilis)",
+  "Saignement extensif et sévère (hémoptysie, hémorragie digestive haute, intracrânienne)",
+  "Cardiopathie nécessitant un traitement, arythmie ou hypertension mal contrôlée",
+  "Maladie thrombotique (embolie pulmonaire, thrombose, athérosclérose)",
+  "Autre maladie sévère (diabète mal contrôlé, infarctus dans les 6 mois, maladie auto-immune active)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Eltrombopag seul",
+   "traitement": "Eltrombopag pendant 12 semaines ; passage possible dans le bras combiné en l'absence de réponse à 4 semaines"
+  },
+  {
+   "nom": "Eltrombopag + télitacicept",
+   "traitement": "Eltrombopag et télitacicept pendant 12 semaines"
+  }
+ ],
+ "duree": "24 semaines (12 semaines de traitement puis suivi sans traitement)",
+ "critere": "Proportion de patients avec plaquettes ≥ 30 G/L et sans saignement à 24 semaines après la première dose"
+}

@@ -1,0 +1,39 @@
+{
+ "h": "4dc871123b50",
+ "date": "2026-11-14",
+ "titre": "XTMAB-16 contre placebo dans la sarcoïdose pulmonaire sous corticoïdes",
+ "question": "Le XTMAB-16 par voie intraveineuse améliore-t-il la capacité vitale forcée à 24 semaines chez des patients ayant une sarcoïdose pulmonaire traitée par corticoïdes ?",
+ "contexte": "La sarcoïdose pulmonaire est une granulomatose systémique dont le traitement repose sur les corticoïdes, avec des immunosuppresseurs d'épargne (méthotrexate, azathioprine, mycophénolate, léflunomide, antipaludéens). Ces traitements sont limités par les effets indésirables cumulatifs des corticoïdes et par une efficacité incomplète, d'où des évolutions fibrosantes chez certains patients.\n\nLes anti-TNF (infliximab) sont utilisés dans les formes réfractaires, mais leur place reste restreinte. Le XTMAB-16, développé par Xentria, est un produit expérimental administré par voie intraveineuse ; son mécanisme n'est pas détaillé dans le registre. Cet essai de phase II randomisé en double aveugle inclut 182 adultes de 18 à 80 ans ayant une sarcoïdose pulmonaire d'au moins 6 mois de stade Scadding II ou plus, avec une CVF ≥ 50 %, sous prednisone 5 à 25 mg/j et immunosuppresseur stable. Les patients reçoivent XTMAB-16 4 mg/kg ou placebo toutes les 2 semaines pour 3 doses puis toutes les 4 semaines jusqu'à 52 semaines, avec une décroissance protocolisée des corticoïdes.",
+ "interet": "L'étude pourrait montrer si ce traitement améliore la fonction respiratoire et permet de réduire les corticoïdes, mais il s'agit d'une phase II.",
+ "profil": "Des adultes de 18 à 80 ans ayant une sarcoïdose pulmonaire active sous corticoïdes, sans fibrose significative.",
+ "inclusion": [
+  "Âge 18 à 80 ans, poids de 45 à 160 kg",
+  "Sarcoïdose pulmonaire diagnostiquée depuis au moins 6 mois (critères ATS 2020, ERS ou WASOG)",
+  "Dyspnée mMRC ≥ 1, CVF pré-bronchodilatateur ≥ 50 % de la théorique",
+  "Prednisone de 5 à 25 mg/j, avec une décroissance protocolisée possible",
+  "Immunosuppresseur (méthotrexate, azathioprine, mycophénolate, léflunomide, chloroquine ou hydroxychloroquine) stable",
+  "Atteinte parenchymateuse radiologique (Scadding ≥ II) sans fibrose significative (≤ 20 %)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Fibrose > 20 % ou inflammation limitée aux hiles",
+  "Atteinte extrapulmonaire significative nécessitant un traitement systémique, sarcoïdose du SNC, syndrome de Löfgren",
+  "Anti-TNF dans les 6 mois, rituximab ou corticotrophine dans les 12 mois",
+  "CVF > 85 %, emphysème, hypertension pulmonaire traitée, insuffisance cardiaque NYHA III/IV",
+  "Tuberculose active ou latente, hépatite B ou C, VIH, cancer dans les 2 ans",
+  "Hypersensibilité aux composants du produit, grossesse ou allaitement",
+  "Maladie auto-immune concomitante nécessitant un traitement, hypercalcémie non liée à la sarcoïdose"
+ ],
+ "bras": [
+  {
+   "nom": "XTMAB-16",
+   "traitement": "XTMAB-16 4 mg/kg IV toutes les 2 semaines pour 3 doses, puis toutes les 4 semaines jusqu'à 52 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo IV selon le même rythme, jusqu'à 52 semaines"
+  }
+ ],
+ "duree": "52 semaines de traitement",
+ "critere": "Variation absolue de la capacité vitale forcée (mL) entre l'inclusion et la semaine 24"
+}

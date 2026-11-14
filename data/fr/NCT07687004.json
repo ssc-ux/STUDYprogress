@@ -1,0 +1,44 @@
+{
+ "h": "5512f74da0eb",
+ "date": "2026-11-14",
+ "titre": "Sonrotoclax ou bispécifique anti-BCMA en première ligne de l'amylose AL, selon la t(11;14)",
+ "question": "Une stratégie sans chimiothérapie guidée par la t(11;14) (sonrotoclax + dexaméthasone, ou bispécifique BCMA/CD3 CM336) est-elle tolérée et efficace dans l'amylose AL nouvellement diagnostiquée ?",
+ "contexte": "L'amylose AL est causée par un clone plasmocytaire produisant des chaînes légères amyloïdogènes. Le traitement associe un anti-CD38 (daratumumab) à une chimiothérapie, mais certains patients ont une réponse insuffisante ou une toxicité limitante en raison des atteintes d'organes.\n\nLa translocation t(11;14), présente dans environ la moitié des amyloses AL, est associée à une forte expression de BCL-2. Elle rend les plasmocytes sensibles aux inhibiteurs de BCL-2 comme le vénétoclax. Le sonrotoclax est un inhibiteur de BCL-2 de nouvelle génération. Pour les patients sans t(11;14), l'essai teste un anticorps bispécifique BCMA/CD3 (CM336). Cette étude de phase Ib/II non randomisée, monocentrique, de l'Institute of Hematology & Blood Diseases Hospital (Chine), inclut 50 adultes de 18 à 70 ans. La phase Ib détermine la dose recommandée de sonrotoclax avec dexaméthasone chez les patients t(11;14) positifs. La phase II évalue sonrotoclax chez les patients t(11;14) et CM336 chez ceux sans t(11;14).",
+ "interet": "L'étude explore une approche sans chimiothérapie, adaptée au profil génétique du clone, pour l'amylose AL en première ligne.",
+ "profil": "Des adultes de 18 à 70 ans avec une amylose AL systémique nouvellement diagnostiquée, avec ou sans t(11;14).",
+ "inclusion": [
+  "Âge 18 à 70 ans, amylose AL primaire confirmée (recommandations chinoises 2021)",
+  "Phase Ib : t(11;14) confirmée par FISH ou autre test génétique",
+  "Nouveau diagnostic, sans traitement antérieur",
+  "Maladie mesurable (différence de chaînes légères libres impliquées/non impliquées > 20 mg/L)",
+  "ECOG ≤ 3, bilirubine < 1,5 N, ASAT et ALAT < 3 N, clairance de la créatinine ≥ 30 mL/min",
+  "Saturation > 92 %, neutrophiles ≥ 1 G/L, hémoglobine ≥ 70 g/L, plaquettes ≥ 70 G/L",
+  "Contraception, consentement signé"
+ ],
+ "exclusion": [
+  "Amylose non AL, y compris héréditaire",
+  "Myélome symptomatique",
+  "Neuropathie périphérique > grade 2 ou douloureuse ≥ grade 2",
+  "Autre cancer dans les 5 ans",
+  "Allergie ou contre-indication au bispécifique BCMA/CD3 ou au sonrotoclax",
+  "Maladie cardiovasculaire instable (infarctus ou angor récent, NT-proBNP > 8500 ng/L, QTcF > 500 ms, TA systolique < 90 mmHg...)",
+  "VIH, hépatite B ou C active",
+  "Grossesse ou allaitement, trouble digestif gênant l'absorption, chirurgie majeure dans les 2 semaines, vaccin vivant dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Phase Ib : sonrotoclax",
+   "traitement": "Escalade et désescalade de doses de sonrotoclax avec dexaméthasone pour définir la dose maximale tolérée (t(11;14) positifs)"
+  },
+  {
+   "nom": "Phase II : sonrotoclax",
+   "traitement": "Sonrotoclax par voie orale une fois par jour à la dose recommandée, avec dexaméthasone"
+  },
+  {
+   "nom": "Phase II : CM336",
+   "traitement": "Anticorps bispécifique BCMA/CD3 CM336 en sous-cutané avec montée de dose, selon le protocole"
+  }
+ ],
+ "duree": "Suivi de sécurité jusqu'à 30 jours après la dernière dose ; réponse évaluée à 6 mois",
+ "critere": "Phase Ib : toxicités dose-limitantes (28 jours) ; phases Ib et II : événements indésirables ; phase II : taux de réponse hématologique très bonne réponse partielle ou mieux à 6 mois"
+}

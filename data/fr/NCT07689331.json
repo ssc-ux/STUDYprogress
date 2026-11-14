@@ -1,0 +1,27 @@
+{
+ "h": "1d7003af847a",
+ "date": "2026-11-14",
+ "titre": "Registre hongrois national des amyloses systémiques (AMYREG)",
+ "question": "Quelles sont les caractéristiques, le parcours diagnostique et la prise en charge des patients atteints d'amylose systémique en Hongrie ?",
+ "contexte": "L'amylose systémique est diagnostiquée de plus en plus souvent dans le monde grâce aux progrès du diagnostic et des traitements. Dans les grands centres, le nombre annuel de nouveaux cas d'amylose AL (chaînes légères) reste stable depuis vingt ans. L'incidence de l'amylose AA diminue, probablement grâce aux traitements modernes des maladies inflammatoires chroniques, tandis que le nombre de patients atteints d'amylose à transthyrétine (ATTR) augmente.\n\nCe registre observationnel multicentrique, rétrospectif et prospectif, est promu par l'université Semmelweis (Budapest). Il rassemble les données de 300 patients suivis dans 12 services de cardiologie, d'hématologie, de néphrologie et de neurologie en Hongrie. Créé en 2025, il décrit le sexe, l'âge, le lieu de résidence, le sous-type d'amylose, le délai entre symptômes et diagnostic, les signes d'appel, les atteintes d'organes, les examens réalisés (IRM cardiaque, génétique), les biomarqueurs (NT-proBNP, troponine, chaînes légères) et les traitements.",
+ "interet": "Le registre fournira des données nationales sur les retards diagnostiques et l'accès aux traitements, utiles pour organiser le dépistage et les filières de soins.",
+ "profil": "Des adultes atteints d'amylose systémique, suivis dans des services hongrois de cardiologie, d'hématologie, de néphrologie ou de neurologie.",
+ "inclusion": [
+  "Diagnostic d'amylose systémique",
+  "Âge ≥ 18 ans à l'inclusion",
+  "Consentement signé du patient et accord du médecin traitant",
+  "Antécédents médicaux accessibles"
+ ],
+ "exclusion": [
+  "Absence de consentement dans la partie prospective",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec amylose systémique",
+   "traitement": "Cohorte observationnelle de patients suivis dans les services de cardiologie, néphrologie, neurologie et hématologie hongrois (AL, ATTR et autres types)"
+  }
+ ],
+ "duree": "Collecte de données de mars 2026 à mai 2028",
+ "critere": "Description des patients à l'inclusion : sexe, âge, sous-type d'amylose, délai entre symptômes et diagnostic, atteintes d'organes, examens et biomarqueurs au diagnostic, traitements spécifiques"
+}

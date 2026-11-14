@@ -1,0 +1,32 @@
+{
+ "h": "40907663c44e",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle de la maladie auto-inflammatoire associée à la trisomie 8 (TRIAD)",
+ "question": "Quelles sont les manifestations cliniques et immunologiques des personnes ayant une mosaïque de trisomie 8 et une maladie auto-inflammatoire apparentée ?",
+ "contexte": "La mosaïque de trisomie 8 est une anomalie génétique acquise ou constitutionnelle, présente dans une partie seulement des cellules. Elle peut s'accompagner d'une inflammation systémique : fièvre, ulcérations de la bouche, du tube digestif ou de la région génitale, éruptions cutanées, atteintes d'organes et anomalies de la moelle osseuse. Une entité décrite sous le nom de maladie auto-inflammatoire associée à la trisomie 8 (TRIAD) en découle, proche de la maladie de Behçet intestinale et des syndromes myélodysplasiques.\n\nLes données sont limitées pour définir le spectre clinique, le dépistage, le diagnostic et la prise en charge. Cette étude d'histoire naturelle du NIAID (NIH, États-Unis) inclut jusqu'à 750 personnes de tout âge (jusqu'à 99 ans) avec mosaïque de trisomie 8 ou ulcérations muqueuses similaires, ainsi que leurs apparentés sains. Les visites ont lieu tous les 1 à 2 ans pendant 30 ans, sur place ou à distance, avec examens cliniques, imagerie, biopsies (peau, muqueuse buccale, moelle) et collecte d'échantillons biologiques.",
+ "interet": "Cette cohorte devrait permettre de mieux décrire la maladie, de comprendre ses mécanismes et de préparer des recommandations de diagnostic et de traitement.",
+ "profil": "Des personnes de tout âge avec mosaïque de trisomie 8 ou ulcérations muqueuses de type TRIAD, et leurs apparentés non atteints.",
+ "inclusion": [
+  "Accord pour suivre les exigences de l'étude et pour le stockage de données et d'échantillons",
+  "Âge ≤ 99 ans",
+  "Atteints : mosaïque de trisomie 8 prouvée génétiquement, ou ulcérations muqueuses inflammatoires cliniquement proches de la TRIAD",
+  "Atteints : consentement du participant ou de son représentant légal",
+  "Apparentés : apparenté biologique non atteint, capable de consentir et d'accepter au moins un prélèvement"
+ ],
+ "exclusion": [
+  "Toute condition ou traitement jugé par l'investigateur comme contre-indiquant la participation",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Participants atteints",
+   "traitement": "Personnes avec mosaïque de trisomie 8 connue ou suspectée, ou ulcérations muqueuses de type TRIAD : visites répétées, examens, imagerie et prélèvements"
+  },
+  {
+   "nom": "Apparentés non atteints",
+   "traitement": "Apparentés biologiques sans la maladie : examen et prélèvements (sang, selles, urines, salive, écouvillons)"
+  }
+ ],
+ "duree": "Visites tous les 1 à 2 ans pendant 30 ans",
+ "critere": "Caractérisation clinique (histoire, examen, imagerie, biologie) et profil immunologique comparé à des témoins sains, sur la durée de l'étude"
+}
