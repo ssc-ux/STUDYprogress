@@ -1,0 +1,14 @@
+{
+ "h": "7db5bdf657d9",
+ "date": "2026-11-14",
+ "titre": "Vésicules extracellulaires et complications vasculaires de la sclérodermie systémique",
+ "question": "Les gradients de vésicules extracellulaires entre circulation artérielle et veineuse reflètent-ils les échanges entre organes et prédisent-ils les complications vasculaires de la SSc ?",
+ "contexte": "Les complications vasculaires de la sclérodermie systémique (SSc), ulcères digitaux et hypertension artérielle pulmonaire (HTAP), sont des causes majeures de handicap et de mortalité. Les outils de dépistage et de pronostic restent limités, et le choix du traitement n'est pas guidé par des biomarqueurs.\n\nLes vésicules extracellulaires (VE) transportent protéines, acides nucléiques et lipides entre cellules. Chez l'animal, des VE injectées sont captées surtout par le poumon, et des VE issues d'animaux hypertendus pulmonaires peuvent induire une HTAP chez des animaux sains. Chez l'homme, les VE circulantes des patients avec HTAP sont plus nombreuses et ont un profil protéomique et transcriptomique distinct.\n\nL'étude, promue par la Fondazione Policlinico Gemelli (Rome), compare les VE entre différents sites de la circulation (gradient transcardio-pulmonaire lors du cathétérisme cardiaque droit, gradient périphérique) plutôt que sur le seul sang périphérique. Elle inclura 60 patients avec SSc à haut risque d'HTAP selon l'algorithme DETECT, avec prélèvements sanguins et capillaroscopie.",
+ "interet": "L'étude pourrait identifier des biomarqueurs de VE prédictifs de l'HTAP ou des ulcères digitaux. Elle reste exploratoire.",
+ "profil": "Des adultes de 45 à 75 ans atteints de SSc à haut risque d'HTAP.",
+ "inclusion": ["Âge de 45 à 75 ans", "SSc selon les critères ACR/EULAR 2013", "Haut risque d'HTAP selon l'algorithme DETECT", "Traitement vasoactif, vasodilatateur et immunosuppresseur stable depuis au moins 3 mois avant le prélèvement"],
+ "exclusion": ["HTAP déjà confirmée par cathétérisme cardiaque droit", "Atteinte interstitielle pulmonaire > 10 % du parenchyme", "Insuffisance cardiaque gauche NYHA 3-4", "Maladie thromboembolique chronique au scanner injecté", "Contre-indication majeure au cathétérisme droit ou à la coronarographie", "Incapacité à consentir"],
+ "bras": [{"nom": "Patients avec SSc à haut risque d'HTAP", "traitement": "Prélèvements sanguins en différents sites de la circulation lors du cathétérisme droit, capillaroscopie"}],
+ "duree": "Non précisé (prélèvements lors de la procédure)",
+ "critere": "Gradient de vésicules extracellulaires transcardio-pulmonaire et périphérique, lors du cathétérisme cardiaque droit."
+}

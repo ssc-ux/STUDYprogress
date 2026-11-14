@@ -1,0 +1,14 @@
+{
+ "h": "92a0452cfdfe",
+ "date": "2026-11-14",
+ "titre": "C-CAR168, CAR-T anti-CD20/BCMA, dans la sclérodermie systémique réfractaire",
+ "question": "Le CAR-T autologue anti-CD20/BCMA C-CAR168 est-il sûr chez des patients atteints de sclérodermie systémique diffuse réfractaire avec atteinte pulmonaire ?",
+ "contexte": "La sclérodermie systémique (SSc) diffuse avec atteinte pulmonaire interstitielle reste de mauvais pronostic malgré le mycophénolate, le rituximab, le tocilizumab et le nintedanib. Certains patients progressent malgré plusieurs lignes de traitement.\n\nLes CAR-T anti-CD19 ont donné des réponses encourageantes dans des séries de SSc, de lupus et de myopathies réfractaires. C-CAR168 cible CD20 (lymphocytes B) et BCMA (plasmocytes), pour une déplétion plus large des cellules productrices d'auto-anticorps, y compris celles qui échappent au ciblage de CD19 seul.\n\nCette étude de phase 1b, multicentrique et ouverte, promue par AbelZeta, inclura 6 à 12 patients de 18 à 70 ans avec SSc diffuse évoluant depuis 6 ans ou moins, mRSS ≥ 15, atteinte pulmonaire (verre dépoli au scanner, CVF ou DLCO < 70 %), auto-anticorps spécifiques et échec d'au moins deux traitements. Après leucaphérèse, lymphodéplétion par fludarabine et cyclophosphamide, ils reçoivent une perfusion unique, avec un suivi de 24 mois, puis de longue durée (jusqu'à 15 ans) pour la sécurité de la thérapie génique.",
+ "interet": "L'étude évaluera la tolérance de ce CAR-T bispécifique dans la SSc réfractaire et des signaux préliminaires d'efficacité. Elle contribue au développement des thérapies cellulaires dans les maladies auto-immunes sévères.",
+ "profil": "Des adultes de 18 à 70 ans atteints de SSc diffuse avec atteinte pulmonaire, réfractaire à au moins deux traitements standard.",
+ "inclusion": ["Âge de 18 à 70 ans, poids ≥ 40 kg", "SSc diffuse (ACR/EULAR 2013), évolution ≤ 6 ans depuis le premier signe non Raynaud", "mRSS ≥ 15, verre dépoli au scanner thoracique, CVF ou DLCO < 70 %", "Au moins un auto-anticorps spécifique (anti-Scl70, anti-ARN polymérase III, anti-centromère, anti-Th/To, anti-U3RNP)", "Échec d'au moins deux traitements standard (≥ 6 mois chacun)", "Réduction possible des corticoïdes aux doses autorisées"],
+ "exclusion": ["CVF < 45 % ou DLCO < 40 %", "HTAP sévère à l'échographie ou PAPm > 45 mmHg au cathétérisme", "Autres critères détaillés : non précisé dans ce résumé"],
+ "bras": [{"nom": "C-CAR168", "traitement": "Leucaphérèse, fludarabine et cyclophosphamide, puis perfusion unique de CAR-T anti-CD20/BCMA"}],
+ "duree": "24 mois, puis suivi de sécurité jusqu'à 15 ans",
+ "critere": "Fréquence et sévérité des événements indésirables apparus sous traitement jusqu'au mois 24."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "0e1e57ad22e6",
+ "date": "2026-11-14",
+ "titre": "Hyaluronidase intradermique pour la sclérodactylie de la sclérodermie systémique",
+ "question": "Des injections intradermiques de hyaluronidase dans les doigts sont-elles faisables, sûres et susceptibles d'améliorer la mobilité digitale dans la sclérodermie ?",
+ "contexte": "La sclérodactylie, épaississement cutané des doigts avec rétractions articulaires, est une manifestation fréquente de la sclérodermie systémique. Elle limite la mobilité de la main et entraîne un handicap fonctionnel important. Il n'existe pas de traitement local efficace pour améliorer la mobilité des mains.\n\nLa hyaluronidase est une enzyme qui dégrade l'acide hyaluronique de la matrice extracellulaire ; elle est largement utilisée en dermatologie, avec un profil de sécurité bien établi. Des travaux translationnels suggèrent que son activité cutanée est réduite dans la sclérodermie, ce qui pourrait entretenir la fibrose. Des injections intradermiques ont déjà amélioré la microstomie sclérodermique. Cette étude pilote de phase 1 de l'université médicale de Caroline du Sud, ouverte et sans groupe contrôle, inclut 10 patients. Deux doigts atteints reçoivent une injection mensuelle pendant 28 semaines. La mobilité digitale est mesurée par goniométrie, et la fonction de la main par le score CHFS-6. L'étude n'a pas la puissance de tester une hypothèse ; elle sert à décider d'un éventuel essai randomisé.",
+ "interet": "Elle pourrait ouvrir la voie à un traitement antifibrotique local de la main sclérodermique. À ce stade, seules la faisabilité et la tolérance sont évaluées.",
+ "profil": "Des adultes de 18 à 60 ans atteints de sclérodermie systémique avec sclérodactylie.",
+ "inclusion": ["Âge de 18 à moins de 60 ans", "Sclérodermie systémique", "Sclérodactylie présente", "Capacité à donner un consentement éclairé"],
+ "exclusion": ["Hypersensibilité connue à la hyaluronidase", "Grossesse ou allaitement", "Maladie systémique instable", "Modification récente du traitement immunomodulateur", "Situation empêchant des injections digitales sûres"],
+ "bras": [{ "nom": "Hyaluronidase intradermique", "traitement": "Hyaluronidase (Hylenex) en injection intradermique mensuelle dans deux doigts atteints, pendant 28 semaines" }],
+ "duree": "28 semaines de traitement, suivi de sécurité jusqu'à 32 semaines",
+ "critere": "Faisabilité (recrutement, adhésion) à 28 semaines et tolérance à 32 semaines."
+}

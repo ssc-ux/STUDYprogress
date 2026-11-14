@@ -1,0 +1,14 @@
+{
+ "h": "e880f457c584",
+ "date": "2026-11-14",
+ "titre": "Registre espagnol du bélimumab dans le lupus systémique (BeliLES-GEAS)",
+ "question": "Quelles sont l'efficacité, la tolérance et la sécurité du bélimumab (IV ou SC) chez les patients lupiques suivis en médecine interne en Espagne, en vie réelle ?",
+ "contexte": "Le bélimumab, anticorps anti-BLyS, est indiqué dans le lupus systémique actif, avec une efficacité démontrée dans les essais de phase 3 et dans la néphropathie lupique. Les essais ont toutefois inclus des patients sélectionnés et suivis peu de temps. Les données de vie réelle sur la rémission, la faible activité, l'accumulation de dommages, l'épargne cortisonique et la sécurité à long terme restent nécessaires.\n\nBeliLES-GEAS est un registre national observationnel, multicentrique, prospectif et rétrospectif, du groupe GEAS de la Société espagnole de médecine interne (Gerard Espinosa, hôpital Clinic de Barcelone). Il vise à couvrir la grande majorité des patients lupiques traités par bélimumab dans les services de médecine interne espagnols. Il recueille les caractéristiques de la maladie, les traitements antérieurs, le nombre de poussées dans les 2 ans précédents, les consultations et arrêts de travail, ainsi que le score de dommages SLICC-DI à l'inclusion puis à 12, 18, 24 mois et annuellement. L'efficacité est évaluée par le délai pour atteindre une rémission (DORIS) ou une faible activité (LLDAS).",
+ "interet": "Ce registre pourrait préciser la performance du bélimumab hors essais, y compris la mortalité et la sécurité à long terme. Il fournirait aussi une photographie des pratiques en médecine interne en Espagne.",
+ "profil": "Des adultes avec un lupus systémique ayant reçu au moins une dose de bélimumab, en Espagne.",
+ "inclusion": ["Lupus selon les critères EULAR/ACR 2019, SLICC ou ACR 1997, ou seulement 3 critères mais diagnostic clinique du médecin", "Âge ≥ 18 ans", "Au moins une dose de bélimumab, IV ou SC, quelle que soit la réponse", "Consentement éclairé signé"],
+ "exclusion": ["Refus du patient de participer"],
+ "bras": [{ "nom": "Patients lupiques traités par bélimumab", "traitement": "Bélimumab IV ou SC selon la pratique clinique ; suivi observationnel" }],
+ "duree": "Suivi à long terme (évaluation principale à 2 ans)",
+ "critere": "Activité de la maladie, évolution clinique et schémas de prise en charge du lupus, à 2 ans"
+}

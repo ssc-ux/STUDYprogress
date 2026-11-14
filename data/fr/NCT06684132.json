@@ -1,0 +1,14 @@
+{
+ "h": "d24c39383750",
+ "date": "2026-11-14",
+ "titre": "Entraînement des muscles respiratoires dans la sclérodermie avec atteinte pulmonaire interstitielle",
+ "question": "Un entraînement des muscles inspiratoires, ajouté à un programme d'exercices, améliore-t-il la force respiratoire et la fonction chez les patients sclérodermiques avec PID ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est l'une des principales atteintes graves de la sclérodermie. Elle entraîne dyspnée, fatigue et baisse de la capacité d'effort. La réhabilitation respiratoire est utilisée dans les PID, mais l'entraînement spécifique des muscles inspiratoires y est peu étudié.\n\nL'entraînement des muscles inspiratoires (IMT) consiste à inspirer contre une charge fournie par un dispositif simple et peu coûteux. Cet essai randomisé de l'université de Fırat (Turquie) inclut 30 patients sclérodermiques avec PID. Le groupe IMT effectue un entraînement intermittent à haute intensité avec un appareil POWERbreathe (sept séries de 3 minutes, soit 21 minutes par séance) en plus d'exercices à domicile. Le groupe contrôle ne fait que des étirements, du renforcement et des exercices de posture. Sont évalués la pression inspiratoire maximale (PIM), la pression expiratoire maximale, les EFR, la VO2max, la dyspnée, la fatigue, la qualité de vie et l'activité physique.",
+ "interet": "Si l'IMT améliore la force respiratoire et la capacité d'effort, il pourrait compléter la prise en charge rééducative de la PID sclérodermique. L'effectif est petit et le suivi de 8 semaines.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie systémique avec pneumopathie interstitielle.",
+ "inclusion": ["Âge de 18 à 65 ans", "Sclérodermie systémique suivie", "Traitement médical inchangé depuis 3 mois", "Sachant lire et volontaire, coopérant"],
+ "exclusion": ["Grossesse", "Cancer", "Autre maladie rhumatismale inflammatoire systémique associée", "Problème neurologique, orthopédique ou congénital empêchant l'activité physique"],
+ "bras": [{ "nom": "Groupe IMT", "traitement": "Entraînement inspiratoire intermittent à haute intensité (POWERbreathe), 21 minutes par séance, plus programme d'exercices" }, { "nom": "Groupe exercices", "traitement": "Étirements, renforcement des membres supérieurs et du dos, exercices de posture à domicile" }],
+ "duree": "Jusqu'à 8 semaines",
+ "critere": "Force des muscles respiratoires (pression inspiratoire maximale), évaluée sur 8 semaines."
+}

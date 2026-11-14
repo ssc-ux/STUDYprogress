@@ -1,0 +1,14 @@
+{
+ "h": "d710cee54d0c",
+ "date": "2026-11-14",
+ "titre": "Test de marche de Chester (marche d'escalier) versus test de marche de 6 minutes dans la sclérodermie",
+ "question": "Le test du pas de Chester est-il un outil valable pour évaluer la capacité aérobie des patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (SSc) touche les poumons, le cœur, le tube digestif et les reins, et peut entraîner une réponse hémodynamique anormale à l'effort, avec dyspnée, fatigue et baisse de la tolérance à l'effort. Mesurer la capacité aérobie est utile pour le suivi.\n\nLe test de marche de 6 minutes (TM6) est le plus utilisé, mais il exige un couloir de 30 mètres, souvent indisponible, et reflète mal l'atteinte multi-organe de la SSc. Le test du pas de Chester (CST) est un test sous-maximal sur marche d'escalier, qui demande peu d'espace, avec des paliers progressifs et adaptables à des sujets malades.\n\nCette étude de l'université de Firat (Turquie) compare le CST et le TM6 chez 45 patients atteints de SSc, qui passent les deux tests. Elle mesure la dyspnée et l'effort perçu par l'échelle de Borg modifiée.",
+ "interet": "Si le CST est bien toléré et corrélé au TM6, il pourrait offrir une alternative pratique à l'évaluation de l'effort en consultation, dans les centres sans grand couloir.",
+ "profil": "Des adultes atteints de SSc capables de marcher sans aide.",
+ "inclusion": ["Âge > 18 ans", "Marche autonome sans aide technique"],
+ "exclusion": ["BPCO", "Antécédent d'infarctus du myocarde ou insuffisance cardiaque congestive", "Maladie grave ou instable limitant l'effort", "Atteinte ostéo-articulaire sévère gênant le test, prothèse ou chirurgie majeure du genou ou de la hanche", "Incapacité de réaliser le premier palier du test de Chester", "Hypertension non contrôlée, incapacité de suivre les consignes"],
+ "bras": [{"nom": "Groupe évalué", "traitement": "Test de marche de 6 minutes et test du pas de Chester"}],
+ "duree": "Une évaluation (jusqu'à 30 minutes)",
+ "critere": "Échelle de Borg modifiée (dyspnée et fatigue) pendant le test, jusqu'à 30 minutes."
+}

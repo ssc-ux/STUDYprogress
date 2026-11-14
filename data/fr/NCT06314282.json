@@ -1,0 +1,14 @@
+{
+ "h": "a6e2f168e6dc",
+ "date": "2026-11-14",
+ "titre": "INTERSTELLAR : anifrolumab dans le lupus systémique en pratique réelle (multinational)",
+ "question": "Quels sont les bénéfices de l'ajout d'anifrolumab au traitement standard du lupus systémique en pratique clinique courante, notamment sur la peau ?",
+ "contexte": "L'anifrolumab, anticorps dirigé contre le récepteur de l'interféron de type I, a montré dans les essais de phase 3 (TULIP) une efficacité chez des patients avec lupus modéré à sévère, avec un bénéfice notable sur l'atteinte cutanée. Les données de vie réelle prospectives manquent encore, en particulier dans des régions peu représentées dans les essais.\n\nINTERSTELLAR, promue par AstraZeneca, est une étude observationnelle de cohorte multinationale, à bras unique, après commercialisation (Golfe, Mexique, Amérique centrale, Colombie, Argentine, Taïwan, Égypte et autres). Elle comporte 1 an de données rétrospectives et 1 an de suivi prospectif, 200 patients et 32 centres dans 12 pays, avec objectifs et critères standardisés. Elle utilise les évaluations courantes (PGA, SLEDAI-2K), un outil spécifique de l'atteinte cutanée (CLASI) et des questionnaires rapportés par les patients (fatigue FACIT, LupusQoL, EQ-5D-5L). Elle exclut notamment les néphropathies de classe III/IV sévères et le neurolupus actif sévère.",
+ "interet": "Cette étude pourrait documenter l'effet de l'anifrolumab en pratique courante dans plusieurs pays. Elle apporterait des données utiles aux cliniciens et aux payeurs, notamment sur les manifestations cutanées.",
+ "profil": "Des adultes avec un lupus systémique qui débutent l'anifrolumab selon l'indication locale.",
+ "inclusion": ["Âge ≥ 18 ans, lupus selon les critères EULAR/ACR 2019", "Première prescription d'anifrolumab conforme à l'AMM locale, décision antérieure à toute discussion sur l'étude", "Autorisation de remboursement obtenue lorsque requise", "Consentement éclairé et capacité à suivre les évaluations de l'étude"],
+ "exclusion": ["Participation à un programme d'accès précoce ou à un essai interventionnel", "Exposition antérieure à l'anifrolumab (essai ou accès précoce)", "Néphropathie lupique classe III ou IV sévère nécessitant une induction, classe V isolée, ou neurolupus actif sévère ou instable", "Condition limitant la compréhension du consentement ou le remplissage des questionnaires"],
+ "bras": [{ "nom": "Patients traités par anifrolumab", "traitement": "Anifrolumab selon la pratique clinique ; 1 an de données rétrospectives et 1 an de suivi prospectif" }],
+ "duree": "1 an de suivi prospectif (plus 1 an de données rétrospectives)",
+ "critere": "Évolution du PGA, du SLEDAI-2K, du CLASI, de la fatigue (FACIT), de la qualité de vie (LupusQoL, EQ-5D-5L), à 1, 3, 6 et 12 mois"
+}

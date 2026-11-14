@@ -1,0 +1,14 @@
+{
+ "h": "080f72450a94",
+ "date": "2026-11-14",
+ "titre": "Électroacupuncture transcutanée pour la constipation de la sclérodermie systémique",
+ "question": "La stimulation électrique transcutanée par points d'acupuncture améliore-t-elle le transit colique lent et la sensibilité rectale dans la constipation de la SSc ?",
+ "contexte": "L'atteinte digestive est fréquente dans la sclérodermie systémique (SSc) et la constipation, par ralentissement du transit colique, en est une manifestation courante, qui altère la qualité de vie. Les laxatifs et les prokinétiques ont une efficacité limitée, et la dysautonomie semble jouer un rôle dans les troubles de la motricité.\n\nLa stimulation électrique transcutanée par points d'acupuncture (TEA) est une technique non invasive qui module le système nerveux autonome et a montré des effets sur la motricité digestive dans d'autres contextes, comme la constipation fonctionnelle. Elle pourrait aussi moduler des voies inflammatoires.\n\nCet essai randomisé en quadruple aveugle, promu par l'université du Texas à Houston, compare TEA et TEA simulée (sham) chez 60 patients avec SSc et constipation avec transit colique lent (plus de 20 % de marqueurs radio-opaques retenus à 120 heures) ou hyposensibilité rectale. Il explore aussi les mécanismes : fonction autonome et voies inflammatoires.",
+ "interet": "L'étude dira si la TEA peut être une option non médicamenteuse de la constipation de la SSc. Elle apportera aussi des données sur la physiopathologie du transit dans cette maladie.",
+ "profil": "Des adultes atteints de SSc avec constipation, transit colique lent ou hyposensibilité rectale.",
+ "inclusion": ["Patients avec SSc et constipation issus de la partie 1 de l'étude", "Transit colique lent (> 20 % de marqueurs radio-opaques à 120 heures) ou hyposensibilité rectale", "Pas encore traités pour la constipation, ou symptômes persistants malgré un traitement stable depuis 1 mois", "Âge ≥ 18 ans"],
+ "exclusion": ["Symptômes de diarrhée et de constipation sans prédominance de constipation", "Autres critères : non précisé"],
+ "bras": [{"nom": "TEA", "traitement": "Stimulation électrique transcutanée par points d'acupuncture"}, {"nom": "TEA simulée (sham)", "traitement": "Dispositif simulé sans stimulation efficace"}],
+ "duree": "4 semaines (évaluation à la semaine 4)",
+ "critere": "Variation du transit colique lent entre l'inclusion et la semaine 4."
+}

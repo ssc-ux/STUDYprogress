@@ -1,0 +1,14 @@
+{
+ "h": "8b696dbd0090",
+ "date": "2026-11-14",
+ "titre": "Observatoire des patients avec SAPL thrombotique traités par anticoagulants oraux directs (OBSTINATE 2)",
+ "question": "Quelle est la fréquence des événements thrombotiques chez les patients avec SAPL thrombotique à risque non élevé traités par AOD ?",
+ "contexte": "Le traitement de référence du SAPL thrombotique est l'anticoagulation à long terme par antivitamine K (AVK). La surveillance de l'INR et les interactions médicamenteuses sont contraignantes, surtout chez des patients jeunes. Les anticoagulants oraux directs (AOD), sans suivi biologique, sont donc attractifs.\n\nLes données sont cependant défavorables dans les formes à haut risque. Une méta-analyse de 447 patients sous AOD a retrouvé 16 % de récidives thrombotiques, avec la triple positivité comme facteur de risque (OR 4,3). L'essai TRAPS a été arrêté prématurément pour un excès d'événements thrombotiques sous rivaroxaban chez des patients triple positifs (12 % contre 0 %). L'EMA et les recommandations EULAR 2019 déconseillent les AOD dans ces formes. Pour les patients à risque non élevé (sans thrombose artérielle ni microvasculaire, sans valvulopathie, avec une ou deux sérologies positives), les données manquent. Beaucoup restent sous AOD, souvent instauré avant le diagnostic de SAPL. Ce registre, promu par le CHRU de Nancy, collecte rétrospectivement et prospectivement les données de pratique courante sur 5 ans, sans modification de la prise en charge.",
+ "interet": "Les résultats devraient préciser la sécurité des AOD dans le SAPL à risque non élevé. Ils pourraient éviter des relais vers les AVK qui ne seraient pas nécessaires, et servir de base à de futurs essais.",
+ "profil": "Des adultes avec SAPL thrombotique à risque non élevé, traités ou ayant été traités par AOD.",
+ "inclusion": ["Âge ≥ 18 ans", "SAPL thrombotique selon les critères de Sydney, quelle que soit l'ancienneté", "Traitement par AOD en cours ou arrêté", "Information donnée et absence d'opposition à l'utilisation des données"],
+ "exclusion": ["Critères de Sydney incomplets", "Triple positivité des anticorps antiphospholipides", "Antécédent de thrombose artérielle", "Femmes enceintes ou allaitantes, mineurs, majeurs protégés ou privés de liberté", "Formulaire d'opposition signé"],
+ "bras": [{"nom": "SAPL thrombotique à risque non élevé sous AOD", "traitement": "Soins habituels ; recueil des données du dossier médical sur 5 ans"}],
+ "duree": "5 ans de recueil de données",
+ "critere": "Fréquence des complications thrombotiques, de l'inclusion jusqu'à la récidive ou la fin de l'étude (5 ans)"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "a4f3d0f6ffc7",
+ "date": "2026-11-14",
+ "titre": "Registre et biobanque de la sclérodermie de l'Hospital for Special Surgery (New York)",
+ "question": "Que peut-on apprendre des caractéristiques cliniques, de la physiopathologie et de la génétique de la sclérodermie grâce à un registre et une biobanque ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune rare, hétérogène, associant vasculopathie et fibrose cutanée et viscérale. Les connaissances sur sa physiopathologie et sur les facteurs prédictifs de l'évolution restent incomplètes, et les traitements sont peu nombreux.\n\nLes registres et biobanques permettent de suivre sur le long terme des patients bien caractérisés et de conserver des échantillons pour la recherche translationnelle (génétique, biomarqueurs). Les grandes cohortes, comme EUSTAR en Europe, ont ainsi précisé l'histoire naturelle de la maladie.\n\nLe registre de l'Hospital for Special Surgery de New York recueille des données cliniques et des questionnaires auprès de 300 adultes atteints de sclérodermie. Un don de sang pour la recherche est proposé, de façon facultative, et les patients sont encouragés à revenir pour un suivi. L'évolution cutanée est suivie par le score de Rodnan modifié lors des consultations habituelles, jusqu'à 5 ans.",
+ "interet": "Le registre alimentera des travaux cliniques et biologiques sur la sclérodermie. Il ne teste aucun traitement et n'a pas d'impact direct sur la pratique.",
+ "profil": "Des adultes atteints de sclérodermie, suivis à l'Hospital for Special Surgery.",
+ "inclusion": ["Âge > 18 ans", "Diagnostic de sclérodermie"],
+ "exclusion": ["Âge < 18 ans", "Adulte sans sclérodermie"],
+ "bras": [{"nom": "Patients avec sclérodermie", "traitement": "Cohorte observée : questionnaires, prélèvement sanguin facultatif, suivi clinique"}],
+ "duree": "Jusqu'à 5 ans (consultations de suivi habituelles)",
+ "critere": "Score de Rodnan modifié à l'inclusion et lors des visites de suivi, jusqu'à 5 ans."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "ac277e6a74dd",
+ "date": "2026-11-14",
+ "titre": "Prévalence et causes de la sténose intracrânienne dans le syndrome des antiphospholipides",
+ "question": "Quelle est la prévalence de la sténose artérielle intracrânienne chez les patients ayant un SAPL, et à quelles caractéristiques immunologiques et cliniques est-elle liée ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) est une cause importante d'AVC du sujet jeune, pouvant causer un handicap majeur. Selon les cohortes citées par les investigateurs, environ 17 % des AVC ischémiques du sujet jeune sont attribuables au SAPL. Les antivitamines K restent le traitement de base, mais des récidives thromboemboliques surviennent chez jusqu'à 10 % des patients traités.\n\nCes observations suggèrent que les mécanismes d'ischémie cérébrale dans le SAPL ne se limitent pas à l'hypercoagulabilité, et qu'une atteinte de la paroi artérielle pourrait jouer un rôle. Cette étude transversale du Chinese University of Hong Kong (Prince of Wales Hospital) recrute 60 patients de plus de 18 ans selon les critères de Sapporo modifiés.\n\nLes patients bénéficient d'un bilan cognitif (HK-MoCA), de mesures cliniques, d'analyses biologiques et d'une IRM cérébrale avec injection de produit de contraste, ainsi que d'une neurosonologie. Les résultats sont comparés à des témoins appariés sans AVC ni démence issus d'une cohorte de santé cérébrale.",
+ "interet": "Elle pourrait mieux caractériser l'atteinte artérielle intracrânienne dans le SAPL et ses liens avec les anticorps antiphospholipides, orientant d'éventuelles stratégies de dépistage et de traitement. L'étude est transversale et de petite taille.",
+ "profil": "Des adultes atteints de SAPL (critères de Sapporo modifiés), suivis à Hong Kong, sans maladie neurologique établie.",
+ "inclusion": ["SAPL selon les critères de Sapporo modifiés : ≥ 1 critère clinique (thrombose vasculaire ou morbidité obstétricale)", "Anticorps antiphospholipides positifs à deux reprises à 12 semaines d'intervalle (anticoagulant circulant, anticardiolipine, anti-β2GPI)", "Âge ≥ 18 ans", "Capacité à consentir aux procédures"],
+ "exclusion": ["Maladie neurologique établie : AVC, thrombose veineuse cérébrale, vascularite du système nerveux central, lupus cérébral", "Contre-indication à l'IRM avec produit de contraste (claustrophobie, allergie au gadolinium, implants non compatibles, DFG < 30 mL/min/1,73 m²)"],
+ "bras": [{"nom": "Patients avec SAPL", "traitement": "Évaluation cognitive, IRM cérébrale avec contraste, neurosonologie et bilan sanguin lors d'une visite"}, {"nom": "Témoins", "traitement": "Participants sans AVC ni démence appariés selon l'âge et le sexe, issus d'une cohorte de santé cérébrale"}],
+ "duree": "Une visite d'évaluation (étude transversale)",
+ "critere": "Preuve radiologique de sténose artérielle intracrânienne"
+}

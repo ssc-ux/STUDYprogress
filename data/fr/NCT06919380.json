@@ -1,0 +1,32 @@
+{
+ "h": "07f4ba4e6033",
+ "date": "2026-11-14",
+ "titre": "Exosomes de cellules souches mésenchymateuses nébulisés dans la PID rapidement progressive anti-MDA5",
+ "question": "Des exosomes dérivés de cellules souches mésenchymateuses, inhalés en nébulisation, sont-ils sûrs et efficaces dans la PID rapidement progressive de la dermatomyosite anti-MDA5 ?",
+ "contexte": "La dermatomyosite à anticorps anti-MDA5 se complique souvent d'une pneumopathie interstitielle diffuse rapidement progressive (PID-RP). Sa mortalité dépasse 50 % malgré une immunosuppression intensive (corticoïdes, inhibiteurs de la calcineurine, cyclophosphamide, JAK inhibiteurs). Il existe un besoin urgent de nouvelles options.\n\nLes exosomes de cellules souches mésenchymateuses (MSC-exos) ont, en préclinique, des effets immunomodulateurs, anti-inflammatoires et antifibrosants : modification du phénotype des macrophages alvéolaires, baisse des cytokines pro-inflammatoires, freinage de l'activation des fibroblastes. La nébulisation cible directement le poumon et limite l'exposition systémique. Cet essai monocentrique de phase 1 chinois, à bras unique, ajoute MSC-exos-P1 nébulisés au traitement standard pendant 14 jours chez 10 patients.",
+ "interet": "L'étude évalue d'abord la sécurité d'une approche inhalée originale, dans une situation à très forte mortalité. Elle fournira des données préliminaires d'efficacité (oxygénation, scanner, biomarqueurs) pour des essais ultérieurs.",
+ "profil": "Des adultes de 18 à 75 ans atteints de dermatomyosite anti-MDA5 positive avec PID rapidement progressive.",
+ "inclusion": [
+  "Dermatomyosite anti-MDA5 positive selon le consensus chinois 2023",
+  "Lésions pulmonaires répondant aux critères de PID rapidement progressive",
+  "Âge de 18 à 75 ans"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Allergie sévère ou allergie au principe actif",
+  "Infection pulmonaire sévère, pneumothorax ou épanchement pleural abondant",
+  "Embolie pulmonaire",
+  "Ventilation invasive ou assistance extracorporelle (ECMO, plasmaphérèse, etc.)",
+  "Insuffisance cardiaque, hépatique ou rénale sévère",
+  "Transplantation pulmonaire prévue, cancer du poumon ou nodule suspect",
+  "Déficit immunitaire primitif, infection active (VIH, tuberculose)"
+ ],
+ "bras": [
+  {
+   "nom": "MSC-exos nébulisés",
+   "traitement": "MSC-exos-P1 nébulisés quotidiennement pendant 14 jours, en plus des corticoïdes et immunosuppresseurs"
+  }
+ ],
+ "duree": "Suivi jusqu'à 12 mois",
+ "critere": "Mortalité à 3 mois et tolérance du traitement (événements indésirables sous 30 jours)."
+}

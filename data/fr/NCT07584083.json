@@ -1,0 +1,14 @@
+{
+ "h": "e7049270c108",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab dans le syndrome des antiphospholipides primaire (essai pilote)",
+ "question": "L'anifrolumab ajouté au traitement standard est-il bien toléré chez des adultes atteints de syndrome des antiphospholipides primaire ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) primaire repose sur un traitement antithrombotique qui ne modifie pas l'auto-immunité. Des récidives thrombotiques surviennent malgré une anticoagulation adaptée, et les mécanismes sont plus complexes qu'une simple hypercoagulabilité : l'interféron de type I et la thrombo-inflammation seraient impliqués.\n\nL'anifrolumab est un anticorps anti-récepteur de l'interféron de type I, approuvé dans le lupus systémique actif. Il pourrait agir sur la signature interféron observée chez certains patients SAPL et sur les marqueurs thrombo-inflammatoires.\n\nCet essai pilote de phase 2 de l'Université d'Athènes, monocentrique et ouvert, inclut environ 20 patients (SAPL primaire selon les critères ACR/EULAR 2023, sans manifestation obstétricale). Ils reçoivent 120 mg d'anifrolumab par voie sous-cutanée une fois par semaine jusqu'à 52 semaines, en plus du traitement habituel, avec 12 semaines de suivi de sécurité.",
+ "interet": "Il s'agit d'une première évaluation de la tolérance de l'anifrolumab dans le SAPL, avec des paramètres immunologiques et thrombo-inflammatoires exploratoires. Aucun résultat d'efficacité clinique ne peut en être attendu.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'un syndrome des antiphospholipides primaire, hors manifestations obstétricales.",
+ "inclusion": ["Âge de 18 à 70 ans, poids ≥ 40 kg", "SAPL primaire selon les critères de classification ACR/EULAR 2023 (≥ 3 points dans les domaines clinique et biologique)", "Au moins un critère clinique : macrovasculaire, microvasculaire, valvulaire ou thrombopénie", "Femmes en âge de procréer : test de grossesse négatif, contraception hautement efficace jusqu'à 20 semaines après la dernière dose", "Consentement écrit"],
+ "exclusion": ["Manifestations obstétricales (exclues de l'étude)", "Grossesse, allaitement ou projet de grossesse jusqu'à 12 semaines après la dernière dose", "Abus d'alcool, de drogue ou de substance dans les 12 mois", "Chirurgie majeure dans les 8 semaines avant le dépistage", "ASAT > 2,5 × LSN, ALAT > 2 × LSN, créatinine > 2,5 mg/dL, rapport protéinurie/créatininurie > 2, neutrophiles < 1 G/L, plaquettes < 25 G/L, hémoglobine < 8 g/dL", "Participation à une autre étude avec un produit expérimental"],
+ "bras": [{"nom": "Anifrolumab + traitement standard", "traitement": "Anifrolumab 120 mg par voie sous-cutanée une fois par semaine pendant 52 semaines maximum, plus traitement habituel du SAPL ; 12 semaines de suivi"}],
+ "duree": "Jusqu'à 52 semaines de traitement et 12 semaines de suivi",
+ "critere": "Sécurité et tolérance de l'anifrolumab (événements indésirables) jusqu'à la semaine 52"
+}

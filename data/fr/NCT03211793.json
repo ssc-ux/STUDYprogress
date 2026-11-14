@@ -1,0 +1,14 @@
+{
+ "h": "a933b317be46",
+ "date": "2026-11-14",
+ "titre": "Cellules stromales mésenchymateuses injectées dans les ulcères digitaux de la sclérodermie (MANUS)",
+ "question": "Les cellules stromales mésenchymateuses allogéniques injectées par voie intramusculaire sont-elles sûres et potentiellement efficaces sur les ulcères digitaux de la sclérodermie ?",
+ "contexte": "Les ulcères digitaux ischémiques de la sclérodermie systémique (ScS) sont douloureux, handicapants et parfois compliqués d'infection ou d'amputation. Les prostacyclines intraveineuses sont le traitement de référence des formes sévères, mais certains ulcères restent réfractaires.\n\nLes cellules stromales mésenchymateuses (CSM) ont des propriétés pro-angiogéniques, anti-inflammatoires et immunomodulatrices, qui pourraient améliorer la néovascularisation de membres ischémiques. MANUS est un essai de phase 1/2 randomisé, en quadruple aveugle contre placebo, mené à l'UMC Utrecht. Vingt patients avec un ulcère actif réfractaire aux prostacyclines IV reçoivent, dans 8 sites du membre le plus atteint, soit des CSM allogéniques issues de moelle osseuse (45-50 millions), soit un placebo. Le critère principal est la toxicité à 12 semaines. Les critères secondaires incluent la cicatrisation, les nouveaux ulcères, le score de Rodnan modifié, le S-HAQ, la qualité de vie, la capillaroscopie et des biomarqueurs.",
+ "interet": "L'essai doit établir la faisabilité et la sécurité d'une thérapie cellulaire locale dans les ulcères digitaux réfractaires. L'effectif réduit ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adultes avec sclérodermie systémique et au moins un ulcère digital actif réfractaire aux prostacyclines intraveineuses.",
+ "inclusion": ["ScS selon les critères ACR/EULAR 2013", "Au moins un ulcère digital actif (> 2 mm, avec profondeur visible et perte du derme)", "Ulcère réfractaire aux prostacyclines IV (aggravation, absence d'amélioration à 2 mois ou récidive au même site)", "Consentement écrit"],
+ "exclusion": ["Ulcère sur calcinose sous-jacente", "Cancer dans les 10 dernières années", "Grossesse ou refus d'une contraception adaptée", "Maladie grave avec espérance de vie < 1 an", "Hypertension non contrôlée", "Infection non contrôlée avec symptômes systémiques"],
+ "bras": [{"nom": "CSM", "traitement": "Injection intramusculaire de 50 millions de cellules stromales mésenchymateuses allogéniques, en NaCl 0,9 % et albumine humaine 10 %"}, {"nom": "Placebo", "traitement": "Injection intramusculaire de NaCl 0,9 % et albumine humaine 10 %"}],
+ "duree": "52 semaines (visites à 48 h, puis 2, 4, 8, 12, 24 et 52 semaines)",
+ "critere": "Toxicité du traitement (locale et événements indésirables selon CTCAE v4.0), 12 semaines après l'administration"
+}

@@ -1,0 +1,37 @@
+{
+ "h": "058a7465cf20",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM à l'18F-AzaFol pour le diagnostic de l'artérite à cellules géantes",
+ "question": "Un traceur ciblant les macrophages activés (18F-AzaFol) est-il plus spécifique que le 18F-FDG pour diagnostiquer une vascularite des gros vaisseaux ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est la vascularite systémique la plus fréquente du sujet âgé. Le TEP/TDM au 18F-FDG est utilisé en pratique pour détecter l'atteinte des gros vaisseaux, mais il distingue mal la vascularite de l'athérosclérose, car le FDG se fixe sur toute lésion inflammatoire ou métaboliquement active.\n\nLes macrophages activés, abondants dans la paroi artérielle enflammée de l'ACG, expriment le récepteur du folate bêta (FRβ). L'AzaFol (acide 3'-aza-2'-[18F]fluorofolique) est un traceur TEP qui cible ce récepteur. L'hypothèse des investigateurs est qu'il visualise plus spécifiquement l'inflammation vasculaire et améliore la distinction entre lésions vascularitiques et athéromateuses. Cette étude de phase 2 croisée, promue par l'hôpital universitaire de Berne, compare chez le même patient AzaFol et FDG et évalue aussi la tolérance du nouveau traceur.",
+ "interet": "Si l'AzaFol se montrait plus spécifique que le FDG, il pourrait réduire les faux positifs liés à l'athérosclérose et consolider le diagnostic d'ACG à imagerie. Il pourrait aussi aider à mieux cibler les patients nécessitant un traitement prolongé.",
+ "profil": "Des adultes de 50 ans et plus avec une suspicion clinique d'artérite à cellules géantes.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "Suspicion clinique d'ACG",
+  "Test de grossesse sérique négatif chez les femmes en âge de procréer",
+  "Consentement éclairé signé",
+  "Capacité à respecter les procédures du protocole"
+ ],
+ "exclusion": [
+  "Carence en folates",
+  "Grossesse ou allaitement",
+  "Traitement altérant les folates (méthotrexate, pémétrexed, raltitrexed)",
+  "Glycémie > 10 mmol/l lors du TEP/TDM au FDG",
+  "Impossibilité de rester immobile 45 min ou de jeûner 6 h",
+  "TEP réalisé dans les 60 jours précédents",
+  "Allergie à l'acide folique"
+ ],
+ "bras": [
+  {
+   "nom": "AzaFol puis FDG",
+   "traitement": "TEP/TDM à l'AzaFol, puis TEP/TDM au FDG (soin courant)"
+  },
+  {
+   "nom": "FDG puis AzaFol",
+   "traitement": "TEP/TDM au FDG (soin courant), puis TEP/TDM à l'AzaFol"
+  }
+ ],
+ "duree": "Non précisé (deux examens TEP/TDM par patient)",
+ "critere": "Spécificité du diagnostic d'ACG par patient, à l'inclusion"
+}

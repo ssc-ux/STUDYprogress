@@ -1,0 +1,14 @@
+{
+ "h": "e469d93ab3a4",
+ "date": "2026-11-14",
+ "titre": "Cellules régénératrices dérivées du tissu adipeux pour le dysfonctionnement de la main dans la sclérodermie",
+ "question": "L'injection de cellules régénératrices autologues dérivées du tissu adipeux améliore-t-elle la fonction de la main dans la sclérodermie systémique ?",
+ "contexte": "La main est une cible précoce et fréquente de la sclérodermie systémique (SSc) : épaississement cutané, rétraction des doigts, phénomène de Raynaud, douleur et ulcères digitaux. Le handicap fonctionnel est important et les traitements systémiques agissent peu sur l'atteinte de la main.\n\nLes cellules régénératrices dérivées du tissu adipeux (ADRC), riches en cellules stromales et vasculaires, sont obtenues à partir de la graisse du patient. Des essais antérieurs (notamment STAR) ont suggéré un bénéfice de leur injection dans les doigts, par des effets pro-angiogéniques et antifibrosants. Les données restent limitées.\n\nCet essai multicentrique, randomisé 1:1, en simple aveugle, promu par Cytori Therapeutics, inclura 48 patients. Le groupe expérimental subit une liposuccion (au moins 180 mL) ; les cellules sont préparées avec le système Celution puis injectées sur chaque doigt des deux mains. Le groupe contrôle reçoit le traitement standard selon les recommandations. Le critère principal est le score fonctionnel de la main de Cochin (CHFS) à 24 semaines.",
+ "interet": "Les résultats diront si cette approche autologue procure un bénéfice fonctionnel mesurable face au traitement standard. Elle pourrait offrir une option locale pour une atteinte de la main aujourd'hui peu accessible aux traitements.",
+ "profil": "Des adultes de 18 à 70 ans atteints de SSc avec atteinte cutanée de la main et gêne fonctionnelle.",
+ "inclusion": ["Âge de 18 à 70 ans", "SSc selon les critères ACR/EULAR 2013, forme diffuse ou limitée", "Peau de la main épaissie, score de Rodnan modifié entre 8 et 35", "Score CHFS ≥ 20 (sur 90), avec ou sans ulcère cutané", "Liposuccion réalisable en sécurité", "Consentement signé"],
+ "exclusion": ["IMC < 17 kg/m²", "Lésions cutanées de la main au stade atrophique, injection inadaptée", "Rétraction digitale ou ulcère au site d'injection empêchant l'injection", "Amputation digitale (au-delà de l'interphalangienne distale, ou plus d'un doigt)", "Autre maladie rhumatismale auto-immune associée (hors Sjögren)", "Infection active ou antibiothérapie dans les 3 mois", "Maladie systémique instable"],
+ "bras": [{"nom": "Groupe ADRC", "traitement": "Liposuccion autologue, cellules préparées par le système Celution, injectées dans les doigts des deux mains, plus traitement standard"}, {"nom": "Traitement standard", "traitement": "Traitement selon les recommandations de prise en charge de la SSc"}],
+ "duree": "24 semaines (visites à 4, 12 et 24 semaines)",
+ "critere": "Variation du score fonctionnel de la main de Cochin (CHFS) entre l'inclusion et 24 semaines."
+}

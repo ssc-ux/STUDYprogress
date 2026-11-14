@@ -1,0 +1,34 @@
+{
+ "h": "c5b9df18d97b",
+ "date": "2026-11-14",
+ "titre": "Dapagliflozine et bosentan sur la fonction vasculaire dans les vascularites des gros vaisseaux",
+ "question": "L'association bosentan-dapagliflozine améliore-t-elle la fonction vasculaire de patients en rémission d'une vascularite des gros vaisseaux ?",
+ "contexte": "Les vascularites des gros vaisseaux (ACG, maladie de Takayasu) restent associées à un sur-risque cardiovasculaire malgré les immunosuppresseurs, dont les mécanismes sont mal compris. L'inflammation vasculaire entraîne une dysfonction endothéliale avec excès d'endothéline-1, un vasoconstricteur puissant qui augmente la pression artérielle et la rigidité artérielle.\n\nLe blocage des récepteurs de l'endothéline améliore la rigidité artérielle et la capacité fibrinolytique. Les inhibiteurs de SGLT2 ont démontré des bénéfices cardiovasculaires dans de nombreuses situations et améliorent la fonction endothéliale. Dans l'essai Zenith-CKD, l'association zibotentan-dapagliflozine a réduit l'albuminurie, la dapagliflozine limitant la rétention hydrique de l'antagoniste de l'endothéline.\n\nCette étude d'Édimbourg combine une partie transversale cas-témoins (patients versus témoins appariés) et un essai ouvert de phase 2 : bosentan plus dapagliflozine 6 semaines, puis dapagliflozine seule 4 semaines. La fonction vasculaire est mesurée par pléthysmographie à occlusion veineuse.",
+ "interet": "L'étude explore une piste de prévention cardiovasculaire dans les vascularites, sans cibler l'inflammation. Elle fournira des données de faisabilité et d'effet physiologique avant tout essai de plus grande ampleur.",
+ "profil": "Des adultes atteints de vascularite des gros vaisseaux en rémission depuis au moins 6 mois, et des témoins appariés.",
+ "inclusion": [
+  "Vascularite des gros vaisseaux en rémission depuis ≥ 6 mois"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Vascularite active",
+  "Transplantation d'organe",
+  "Médicaments contre-indiqués avec le bosentan ou la dapagliflozine",
+  "Insuffisance cardiaque congestive",
+  "Allergies médicamenteuses ou alimentaires multiples ou sévères",
+  "Grossesse, allaitement ou projet de grossesse",
+  "Participation à un autre essai dans les 28 jours avant ou 90 jours après"
+ ],
+ "bras": [
+  {
+   "nom": "Vascularite en rémission (30)",
+   "traitement": "Bosentan + dapagliflozine 6 semaines, puis dapagliflozine 4 semaines ; mesures vasculaires avant et après"
+  },
+  {
+   "nom": "Témoins appariés (30)",
+   "traitement": "Aucune intervention ; mêmes mesures vasculaires"
+  }
+ ],
+ "duree": "10 semaines de traitement",
+ "critere": "Variation du débit sanguin de l'avant-bras entre l'inclusion et la semaine 6"
+}

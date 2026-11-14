@@ -1,0 +1,14 @@
+{
+ "h": "5b84c6b7774c",
+ "date": "2026-11-14",
+ "titre": "Trajectoires de la thrombopénie comme marqueur de sévérité et de survie dans le SAPL",
+ "question": "L'évolution dans le temps de la numération plaquettaire prédit-elle la mortalité dans le syndrome des antiphospholipides ?",
+ "contexte": "La thrombopénie est fréquente dans le SAPL et figure désormais dans les critères ACR/EULAR 2023 comme manifestation hématologique. Une thrombopénie persistante ou modérée est associée à une moindre survie à long terme, avec des hazard ratios de mortalité d'environ 2,7 à 4,4 selon la littérature rapportée par les investigateurs. Elle est aussi associée à des récidives thrombotiques, à une morbidité obstétricale et à des formes sévères.\n\nLes études existantes la considèrent comme une exposition statique (présente ou non, niveau initial). La valeur pronostique des trajectoires plaquettaires longitudinales (thrombopénie persistante, intermittente, transitoire ou absente) n'a pas été évaluée de façon systématique. Cette cohorte de 200 patients, promue par la New Valley University (Égypte), modélise ces trajectoires à partir d'au moins trois numérations sur 12 mois avant l'inclusion.",
+ "interet": "Si la trajectoire plaquettaire s'avère pronostique, un simple suivi de la numération pourrait aider à repérer les patients à haut risque de décès. La nature monocentrique de l'étude limite sa portée.",
+ "profil": "Des adultes avec SAPL défini selon Sydney et aPL persistants, ayant au moins trois numérations plaquettaires sur 12 mois.",
+ "inclusion": ["Âge ≥ 18 ans", "SAPL défini selon Sydney (thrombotique et/ou obstétrical) avec aPL persistants", "Au moins 3 numérations plaquettaires documentées sur au moins 12 mois avant l'inclusion"],
+ "exclusion": ["Thrombopénie clairement liée à une autre cause (chimiothérapie, syndrome myélodysplasique, cirrhose, VIH)", "Maladie associée influençant fortement la survie, comme un cancer métastatique, à l'appréciation de l'investigateur"],
+ "bras": [{"nom": "Patients avec SAPL", "traitement": "Numération plaquettaire ; suivi des trajectoires de plaquettes"}],
+ "duree": "Jusqu'à 5 ans après le diagnostic",
+ "critere": "Mortalité toutes causes, du diagnostic jusqu'au décès, évaluée jusqu'à 5 ans"
+}

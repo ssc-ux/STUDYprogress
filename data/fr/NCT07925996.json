@@ -1,0 +1,38 @@
+{
+ "h": "9923d5b32e85",
+ "date": "2026-11-14",
+ "titre": "Priming cutané par imiquimod pour améliorer la réponse vaccinale sous déplétion B",
+ "question": "L'application locale d'imiquimod (agoniste TLR7) améliore-t-elle la réponse au vaccin antigrippal chez des patients traités par rituximab ?",
+ "contexte": "Les patients atteints de vascularite à ANCA, de maladie à IgG4 ou de glomérulopathie traités par rituximab ont une réponse vaccinale très diminuée, car la déplétion B empêche la production d'anticorps. Ils restent pourtant exposés aux infections, dont la grippe.\n\nLes recommandations conseillent de vacciner, de préférence plusieurs mois après la dernière perfusion, mais la réponse reste souvent faible. Les stratégies actuelles reposent surtout sur le calendrier de vaccination par rapport au rituximab.\n\nL'imiquimod est un agoniste de TLR7 appliqué sur la peau, qui active localement l'immunité innée et pourrait amorcer la réponse immune au site vaccinal (priming dermique), y compris par des voies indépendantes des lymphocytes B comme les réponses T.\n\nCette étude de médecine expérimentale, randomisée en double aveugle, promue par Cambridge University Hospitals, compare trois groupes : imiquimod + vaccin grippal, crème placebo + vaccin, et imiquimod + vaccin factice (sérum physiologique). Elle vise une preuve de concept sur 28 patients.",
+ "interet": "Si l'imiquimod améliore la neutralisation, une stratégie simple et peu coûteuse pourrait renforcer l'immunisation des patients sous anti-CD20. L'étude exploratoire ne portera pas sur la protection clinique.",
+ "profil": "Des adultes ayant une maladie auto-immune (vascularite à ANCA, maladie à IgG4) traités par rituximab.",
+ "inclusion": [
+  "Maladie auto-immune (vascularite à ANCA, maladie à IgG4 notamment) traitée par rituximab",
+  "Dernière perfusion de rituximab entre 5 et 18 mois avant la sélection",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Autre immunosuppresseur que le rituximab dans les 3 mois (prednisolone ≤ 5 mg/j tolérée)",
+  "Lupus ou syndrome de Sjögren",
+  "Grossesse",
+  "Syndrome grippal dans la semaine précédant la vaccination",
+  "Anticoagulants ou antiagrégants (hors aspirine à faible dose), trouble de la coagulation",
+  "Allergie à l'imiquimod ou au vaccin, vaccin grippal saisonnier déjà reçu"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1",
+   "traitement": "Imiquimod topique 5 % (Aldara) + vaccin grippal"
+  },
+  {
+   "nom": "Groupe 2",
+   "traitement": "Crème placebo (crème aqueuse) + vaccin grippal"
+  },
+  {
+   "nom": "Groupe 3",
+   "traitement": "Imiquimod topique 5 % + vaccin factice (sérum physiologique)"
+  }
+ ],
+ "duree": "28 jours",
+ "critere": "Variation de la capacité neutralisante des anticorps spécifiques de la grippe entre l'inclusion et le jour 28"
+}

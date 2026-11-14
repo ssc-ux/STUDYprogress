@@ -1,0 +1,14 @@
+{
+ "h": "2e21a7a9c2d6",
+ "date": "2026-11-14",
+ "titre": "SAPL séronégatif : précision diagnostique des anticorps antiphospholipides non critères",
+ "question": "Les anticorps non critères (anti-vimentine/cardiolipine et anti-phosphatidylsérine/prothrombine) permettent-ils d'identifier un SAPL, y compris séronégatif ?",
+ "contexte": "Le SAPL est défini par des thromboses ou une morbidité obstétricale associées à des anticorps antiphospholipides (aPL) persistants : anticardiolipine, anti-β2-glycoprotéine I, anticoagulant circulant. Le SAPL séronégatif désigne des patients dont la clinique évoque fortement un SAPL, mais qui sont négatifs pour ces tests standards.\n\nDes travaux récents montrent que la plupart de ces patients portent des anticorps non critères pouvant expliquer leurs manifestations, et que certains n'en ont aucun détectable. Les caractéristiques cliniques du SAPL séronégatif et le lien entre anticorps non critères et récidives restent peu connus. Cette étude rétrospective transversale, menée par la Société italienne de rhumatologie, compare trois groupes : SAPL séropositif, SAPL séronégatif, et patients avec événement clinique sans caractère évocateur (contrôles). Les anticorps non critères sont dosés au laboratoire central de Rome. L'effectif minimal prévu est de 35 patients par groupe.",
+ "interet": "Les résultats pourraient justifier l'intégration des anticorps non critères au diagnostic des SAPL séronégatifs. Ils pourraient aussi aider à stratifier le risque de récidive.",
+ "profil": "Des adultes de moins de 65 ans ayant eu un événement thrombotique ou obstétrical, avec SAPL séropositif, séronégatif ou sans SAPL probable.",
+ "inclusion": ["Groupe 1 : SAPL séropositif selon les critères de classification", "Groupe 2 : SAPL séronégatif (critères cliniques, aPL négatifs persistants, clinique très évocatrice)", "Groupe 3 : critères cliniques, aPL négatifs, sans caractère évocateur de SAPL", "Âge < 65 ans à l'événement", "Moins de 5 ans depuis le premier événement"],
+ "exclusion": ["Groupes 2 et 3 : cause connue de thrombose ou de manifestation obstétricale", "Patients décédés", "Moins de 5 ans depuis le premier événement"],
+ "bras": [{"nom": "Groupe 1 : SAPL séropositif", "traitement": "Dosage des aPL non critères, évaluation de la précision diagnostique"}, {"nom": "Groupe 2 : SAPL séronégatif", "traitement": "Mêmes dosages"}, {"nom": "Groupe 3 : contrôles", "traitement": "Mêmes dosages (clinique sans caractère évocateur de SAPL)"}],
+ "duree": "Évaluation transversale ; données cliniques rétrospectives",
+ "critere": "Précision diagnostique des anticorps antiphospholipides non critères pour identifier un SAPL"
+}

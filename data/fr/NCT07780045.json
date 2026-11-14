@@ -1,0 +1,14 @@
+{
+ "h": "11d957eec242",
+ "date": "2026-11-14",
+ "titre": "Indices SII et SIRI comme marqueurs pronostiques de la néphropathie lupique",
+ "question": "Les indices inflammatoires SII et SIRI, calculés à partir de la numération sanguine, reflètent-ils l'activité de la néphropathie lupique et prédisent-ils ses poussées et son évolution ?",
+ "contexte": "La néphropathie lupique est une atteinte fréquente et grave du lupus, pouvant évoluer vers l'insuffisance rénale terminale. Son évaluation repose sur la protéinurie, la créatininémie, le débit de filtration glomérulaire estimé et la biopsie rénale, invasive et peu adaptée à une surveillance répétée.\n\nLe SII (Systemic Immune-Inflammation Index) et le SIRI (Systemic Inflammation Response Index) sont des indices simples calculés à partir des neutrophiles, plaquettes, lymphocytes et monocytes de la numération. Ils sont peu coûteux et disponibles partout, et pourraient refléter l'inflammation systémique et le risque rénal, mais leur valeur pronostique reste peu établie, surtout en étude prospective. Cette étude observationnelle de l'université d'Assiut (Égypte) suit 100 adultes avec néphropathie lupique confirmée pendant 12 mois, avec évaluation à l'inclusion, 6 et 12 mois.",
+ "interet": "Cette étude pourrait valider des indices biologiques gratuits pour suivre l'activité de la néphropathie lupique. Ils pourraient aider à anticiper les poussées rénales entre deux biopsies.",
+ "profil": "Des adultes de 18 à 70 ans avec une néphropathie lupique confirmée à la biopsie.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus selon les critères EULAR/ACR 2019", "Néphropathie lupique confirmée selon la classification ISN/RPS"],
+ "exclusion": ["Infection active, sepsis, autre maladie inflammatoire ou auto-immune associée", "Cancer ou hémopathie modifiant la numération sanguine", "Grossesse", "Médicament modifiant significativement la numération (chimiothérapie récente, G-CSF)", "Dossier médical incomplet ou perte de vue prévisible"],
+ "bras": [{ "nom": "Cohorte de patients avec néphropathie lupique", "traitement": "Soins habituels ; calcul du SII et du SIRI à l'inclusion, 6 et 12 mois" }],
+ "duree": "12 mois",
+ "critere": "Corrélation du SII et du SIRI avec l'activité de la maladie, à l'inclusion, 6 et 12 mois"
+}

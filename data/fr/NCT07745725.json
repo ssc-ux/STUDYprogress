@@ -1,0 +1,14 @@
+{
+ "h": "5243bfe8ced0",
+ "date": "2026-11-14",
+ "titre": "TollB-001 comprimés versus placebo dans la sclérodermie systémique diffuse",
+ "question": "TollB-001, un comprimé quotidien, réduit-il l'épaississement cutané dans la sclérodermie systémique diffuse récente ?",
+ "contexte": "La sclérodermie systémique (SSc) diffuse précoce est la forme la plus grave sur le plan cutané et viscéral, avec fibrose rapidement évolutive, atteinte pulmonaire interstitielle et mortalité élevée. Les options actuelles (mycophénolate, tocilizumab, nintedanib pour la pneumopathie, greffe de cellules souches) ne contrôlent que partiellement la fibrose.\n\nLe score de Rodnan modifié (mRSS) est le critère habituel pour évaluer l'efficacité sur la peau dans les essais de phase 2. La nature précise de TollB-001 n'est pas détaillée dans le registre ; son nom suggère une molécule ciblant la voie des récepteurs Toll-like, impliquée dans l'activation immunitaire et fibroblastique de la SSc, mais cela reste une hypothèse.\n\nCet essai de phase 2 multicentrique, randomisé en double aveugle contre placebo, inclura 36 adultes ayant une SSc diffuse évoluant depuis 60 mois ou moins et un mRSS entre 10 et 40. Après une dose unique d'évaluation pharmacocinétique, le traitement est pris quotidiennement pendant 12 semaines à faible ou forte dose, avec 28 jours de suivi. Le promoteur est Toll Biotech (Pékin).",
+ "interet": "Il s'agit d'un premier signal d'efficacité et de tolérance pour une nouvelle voie orale dans la SSc diffuse. La courte durée et le petit effectif en font une étude de preuve de concept.",
+ "profil": "Des adultes de 18 à 70 ans atteints de SSc diffuse active, d'évolution récente, avec épaississement cutané marqué.",
+ "inclusion": ["Âge de 18 à 70 ans", "SSc selon les critères ACR/EULAR 2013, forme diffuse selon les recommandations chinoises 2022", "Évolution ≤ 60 mois depuis le premier signe non Raynaud, mRSS de 10 à 40", "Maladie active au dépistage", "Contraception efficace pendant l'étude et 3 mois après", "Capacité à avaler les comprimés et à suivre le protocole"],
+ "exclusion": ["Hypersensibilité au produit ou à sa classe", "Crise rénale sclérodermique dans les 6 mois", "Saignement chronique intermittent récent ou risque hémorragique (par ex. GAVE, ulcère)", "Tumeur maligne active ou antérieure", "Maladie sévère non contrôlée", "Chirurgie majeure dans les 8 semaines"],
+ "bras": [{"nom": "TollB-001 faible dose", "traitement": "Comprimé une fois par jour pendant 12 semaines"}, {"nom": "TollB-001 forte dose", "traitement": "Comprimé une fois par jour pendant 12 semaines"}, {"nom": "Placebo", "traitement": "Placebo identique, une fois par jour pendant 12 semaines"}],
+ "duree": "Environ 4 mois (dépistage jusqu'à 28 jours, traitement 90 jours, suivi 28 jours)",
+ "critere": "Score de Rodnan modifié (mRSS) jusqu'à 12 semaines."
+}

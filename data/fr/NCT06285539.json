@@ -1,0 +1,34 @@
+{
+ "h": "daec21753f56",
+ "date": "2026-11-14",
+ "titre": "Filgotinib dans la maladie de Behçet, les myosites et la maladie à IgG4",
+ "question": "L'inhibition de JAK1 par le filgotinib réduit-elle l'activité de maladies inflammatoires rares (Behçet, myopathies inflammatoires, maladie à IgG4) ?",
+ "contexte": "La maladie de Behçet, les myopathies inflammatoires idiopathiques (dermatomyosite, syndrome des anti-synthétases) et la maladie à IgG4 sont des maladies inflammatoires à médiation immune rares. Leur traitement repose sur de fortes doses de corticoïdes, le méthotrexate, l'azathioprine et le mycophénolate, souvent de façon prolongée avec une toxicité cumulée, notamment infectieuse.\n\nLa rareté de ces maladies freine le développement de nouveaux médicaments. Une stratégie de « redécouverte » consiste à tester dans plusieurs maladies rares un traitement déjà développé ailleurs, ici dans la polyarthrite rhumatoïde et les maladies inflammatoires de l'intestin.\n\nLe filgotinib est un inhibiteur préférentiel de JAK1. La voie JAK-STAT transmet le signal de nombreuses cytokines pro-inflammatoires, dont les interférons de type 1, impliqués dans ces trois maladies. Des travaux antérieurs ont montré que l'inhibition de JAK1 réduit l'activation de protéines régulées par l'interféron et de chimiokines clés de l'inflammation tissulaire.\n\nCet essai de phase 2 ouvert, à bras unique, promu par l'UMC Utrecht, traite pendant 26 semaines par filgotinib 200 mg/j des patients de 18 à 65 ans ayant une maladie active, réfractaire (myosite, IgG4) ou non menaçante (Behçet). Les critères d'activité sont spécifiques de chaque maladie.",
+ "interet": "L'étude pourrait donner un premier signal d'efficacité d'un inhibiteur de JAK1 dans ces trois maladies orphelines, avant tout essai comparatif. La taille réduite (60 patients) et l'absence de groupe contrôle limitent la portée des résultats.",
+ "profil": "Des adultes de 18 à 65 ans ayant une maladie de Behçet, une dermatomyosite/un syndrome des anti-synthétases ou une maladie à IgG4 active.",
+ "inclusion": [
+  "Âge 18 à 65 ans",
+  "Behçet actif sans atteinte menaçante (BDCAF > 2 ou > 15 selon la version) ou nécessité d'un nouveau traitement",
+  "Dermatomyosite ou syndrome des anti-synthétases (critères ENMC) actifs (CDASI ≥ 5, enzymes musculaires ≥ 4 N, IRM active ou besoin clinique de traitement)",
+  "Maladie à IgG4 (critères ACR/EULAR 2019) active (IgG4-RD RI > 10 ou besoin de traitement)",
+  "Maladie réfractaire : persistance après 12 semaines de corticoïdes et échec d'au moins un autre immunosuppresseur, ou intolérance",
+  "Absence de tuberculose active, latente ou mal traitée (QuantiFERON et IDR négatifs, radiographie thoracique)"
+ ],
+ "exclusion": [
+  "Âge ≥ 65 ans, espérance de vie < 6 mois",
+  "Dermatomyosite juvénile, myosite en chevauchement, MNMI, myosite à inclusions ou paranéoplasique, myosite en stade terminal",
+  "Risque cardiovasculaire majeur, tabagisme actif ou ancien important, risque accru de cancer ou cancer < 5 ans",
+  "Traitement antérieur par un autre inhibiteur de JAK ou médicament expérimental récent",
+  "VIH, hépatite B ou C, infection active, antécédent de zona ou d'herpès récurrent",
+  "Grossesse ou allaitement, DFG < 15 mL/min, insuffisance hépatique Child-Pugh C, cytopénies",
+  "Mauvaise observance antérieure, abus de substances, hypersensibilité au filgotinib"
+ ],
+ "bras": [
+  {
+   "nom": "Filgotinib",
+   "traitement": "200 mg par voie orale une fois par jour pendant 26 semaines"
+  }
+ ],
+ "duree": "26 semaines",
+ "critere": "Qualité de vie (EQ-5D-5L) et activité de chaque maladie (Behçet, myosite, IgG4) à 26 semaines"
+}

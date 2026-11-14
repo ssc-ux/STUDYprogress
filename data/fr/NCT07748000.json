@@ -1,0 +1,14 @@
+{
+ "h": "1157e4aea3b4",
+ "date": "2026-11-14",
+ "titre": "Tréprostinil inhalé (LIQ861) dans le phénomène de Raynaud de la sclérodermie systémique",
+ "question": "Quelles doses de tréprostinil inhalé (LIQ861) sont bien tolérées chez des patients sclérodermiques avec crises de Raynaud symptomatiques ?",
+ "contexte": "Le phénomène de Raynaud est une manifestation très fréquente de la sclérodermie systémique (ScS). Il se traduit par des crises douloureuses de changement de couleur des doigts ou orteils, déclenchées par le froid ou le stress, et peut évoluer vers des ulcères digitaux. Les inhibiteurs calciques, premiers traitements, sont souvent limités par leur efficacité partielle et leurs effets indésirables. Les prostacyclines intraveineuses sont réservées aux formes sévères.\n\nLe tréprostinil est un analogue de la prostacycline, vasodilatateur et antiagrégant, utilisé en hypertension pulmonaire. LIQ861 en est une forme en poudre sèche inhalée. RE-WARM est une phase 2a randomisée (2:1) en ouvert, promue par Liquidia Technologies, qui compare une titration de dose à une dose fixe faible chez environ 75 adultes avec ScS. Le but principal est d'identifier la ou les doses tolérées. L'étude explore aussi le nombre, la sévérité et le retentissement des crises.",
+ "interet": "Cette étude de détermination de dose est une étape préliminaire. Si la tolérance est satisfaisante, elle prépare un essai d'efficacité d'une voie inhalée dans le Raynaud de la ScS.",
+ "profil": "Des adultes avec sclérodermie systémique et crises de Raynaud symptomatiques fréquentes.",
+ "inclusion": ["Âge ≥ 18 ans", "ScS selon les critères ACR/EULAR 2013", "Phénomène de Raynaud actuel ou passé", "12 à 100 crises symptomatiques documentées dans un journal électronique sur au moins 4 jours distincts"],
+ "exclusion": ["≥ 3 ulcères digitaux, gangrène ou amputation dans les 6 mois, infection d'ulcère dans les 3 mois", "Sympathectomie ou injection de toxine botulique dans les mains dans les 90 jours", "Risque hémorragique, trouble de la coagulation ou plaquettes < 100×10⁹/L", "Hypertension pulmonaire connue, atteinte pulmonaire obstructive ou restrictive significative, oxygénothérapie", "Hypertension sévère non contrôlée ou hypotension sévère", "Prostacycline récente (12 semaines) ou modification récente de vasodilatateurs"],
+ "bras": [{"nom": "Bras 1 : titration de dose", "traitement": "LIQ861 (tréprostinil poudre inhalée) avec titration de dose, doses non précisées"}, {"nom": "Bras 2 : dose fixe", "traitement": "LIQ861 à dose fixe faible, non précisée"}],
+ "duree": "Période de traitement de 21 jours",
+ "critere": "Proportion de participants avec une dose tolérée de LIQ861, définie par une adhésion ≥ 80 % pendant la période de traitement, sans arrêt définitif pour événement indésirable, sur 21 jours"
+}

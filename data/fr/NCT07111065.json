@@ -1,0 +1,39 @@
+{
+ "h": "1560b00da3ba",
+ "date": "2026-11-14",
+ "titre": "Supplémentation en acides gras oméga-3 dans la dermatomyosite de l'adulte et de l'enfant",
+ "question": "Les oméga-3 de l'huile de poisson, associés à une alimentation saine, réduisent-ils l'activité de la dermatomyosite ?",
+ "contexte": "La dermatomyosite (DM) et sa forme juvénile (DMJ) sont des myopathies inflammatoires rares associant faiblesse musculaire et atteinte cutanée. Leur traitement repose sur les corticoïdes et les immunosuppresseurs. Des facteurs génétiques et environnementaux semblent intervenir, et l'effet de l'alimentation est peu connu.\n\nLes acides gras oméga-3 (O3FA) ont des propriétés anti-inflammatoires et pourraient moduler l'activité de la maladie. Cet essai de phase 2 du NIEHS (NIH), randomisé en quadruple aveugle contre placebo (huile de maïs), compare pendant 24 semaines des capsules d'huile de poisson à un placebo. Tous les participants suivent un régime sain encadré par un coaching diététique. Les patients ont une DM modérément active et poursuivent un traitement stable. Une phase ouverte optionnelle de 12 semaines suit. L'essai étudie aussi le microbiote, les lipides et la fonction vasculaire.",
+ "interet": "L'essai teste une intervention simple et peu toxique en complément des traitements. Un effet sur le score d'amélioration global (TIS) pourrait justifier une prise en charge diététique de la DM.",
+ "profil": "Des adultes de 18 à 62 ans vivant aux États-Unis, atteints de dermatomyosite ou de dermatomyosite juvénile modérément active.",
+ "inclusion": [
+  "Âge de 18 à 62 ans, DM ou DMJ probable ou certaine (critères EULAR/ACR 2017)",
+  "Maladie légère à modérément active (EVA médecin 2 à 7 cm et au moins 2 critères : EVA patient, MMT-8 ≤ 138, HAQ ≥ 0,5, enzymes musculaires ≥ 1,3 N, atteinte extramusculaire)",
+  "Patient ambulatoire, résidant aux États-Unis, anglophone, avec accès à Internet",
+  "Prednisone ≤ 20 mg/j et traitements de fond stables",
+  "IMC > 18 et ≤ 35 kg/m², moins de 2 portions de poisson par semaine",
+  "Accord pour 5 visites au NIH, le coaching diététique et le port d'un actimètre"
+ ],
+ "exclusion": [
+  "Polymyosite, myosite à inclusions, myosite paranéoplasique ou induite (statines)",
+  "Myosite de chevauchement gênant l'évaluation, ou maladie nécessitant un nouvel immunosuppresseur",
+  "Fibrillation atriale ou autre trouble du rythme significatif",
+  "Allergie au poisson, au maïs ou à la gélatine de porc, ou alpha-gal",
+  "Prise d'oméga-3 ou de médicaments modifiant les lipoprotéines dans les semaines précédentes",
+  "Diabète non contrôlé (HbA1c > 8), insuffisance rénale (DFG < 50), hépatopathie significative",
+  "Traitement antiplaquettaire double ou anticoagulant, trouble de l'hémostase",
+  "Grossesse ou projet de grossesse, participation à un autre essai"
+ ],
+ "bras": [
+  {
+   "nom": "Oméga-3 et alimentation saine",
+   "traitement": "Huile de poisson (capsules de 500 mg d'oméga-3), 4 capsules deux fois par jour pendant 24 semaines, avec régime sain"
+  },
+  {
+   "nom": "Placebo et alimentation saine",
+   "traitement": "Capsules identiques contenant de l'huile de maïs, avec le même régime"
+  }
+ ],
+ "duree": "24 semaines, plus 12 semaines optionnelles en ouvert",
+ "critere": "Amélioration de l'activité de la maladie mesurée par le Total Improvement Score (TIS) ACR/EULAR 2016, de la semaine 0 à la semaine 24."
+}

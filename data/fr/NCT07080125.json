@@ -1,0 +1,14 @@
+{
+ "h": "9065c7275d6f",
+ "date": "2026-11-14",
+ "titre": "Registre EUSTAR : effets à long terme du nintedanib dans la pneumopathie interstitielle de la sclérodermie",
+ "question": "Quels sont les effets à long terme du nintedanib sur la survie et la progression de la pneumopathie interstitielle associée à la sclérodermie systémique en pratique réelle ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est une cause majeure de mortalité dans la sclérodermie systémique (SSc). L'essai SENSCIS a montré que le nintedanib (Ofev®) ralentit le déclin annuel de la capacité vitale forcée (CVF), ce qui a conduit à son autorisation dans la SSc-PID. Il est utilisé seul ou en association à un immunosuppresseur (mycophénolate, tocilizumab, rituximab, cyclophosphamide).\n\nLes données au long cours manquent sur la survie, la qualité de vie, le profil de progression et l'effet chez les patients ayant une hypertension pulmonaire associée.\n\nCette étude post-autorisation, promue par Boehringer Ingelheim, s'appuie sur le registre européen EUSTAR et prévoit 2 000 adultes avec PID documentée au scanner ou à la radiographie. Les patients qui débutent le nintedanib (en monothérapie ou en association à un immunosuppresseur) sont comparés à ceux qui ne le débutent pas (avec ou sans escalade d'immunosuppresseur). Les patients greffés de cellules souches, les femmes enceintes ou allaitantes et les mineurs sont exclus.",
+ "interet": "Les données de vie réelle sur dix ans préciseront la place du nintedanib, seul ou associé, dans la SSc-PID, y compris en cas d'hypertension pulmonaire.",
+ "profil": "Des adultes atteints de SSc avec pneumopathie interstitielle, inclus dans le registre EUSTAR.",
+ "inclusion": ["Inclusion dans le registre EUSTAR avec consentement aux recherches", "Accord pour une visite du centre tous les 12 mois", "PID documentée par scanner haute résolution et/ou radiographie dans l'eCRF"],
+ "exclusion": ["Femme enceinte ou allaitante", "Âge < 18 ans", "Antécédent de greffe de cellules souches hématopoïétiques"],
+ "bras": [{"nom": "Groupe exposé", "traitement": "Début de nintedanib (Ofev®), en monothérapie ou associé à un immunosuppresseur"}, {"nom": "Groupe non exposé", "traitement": "Pas de nintedanib ; immunosuppresseur avec ou sans escalade, ou aucun"}],
+ "duree": "Jusqu'à 10 ans (visites annuelles)",
+ "critere": "Délai jusqu'à un déclin absolu de CVF ≥ 5 % (ou ≥ 10 % pour le second critère), une greffe pulmonaire ou le décès, jusqu'à 10 ans."
+}

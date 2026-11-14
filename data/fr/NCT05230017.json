@@ -1,0 +1,14 @@
+{
+ "h": "f9cf31a2f1b5",
+ "date": "2026-11-14",
+ "titre": "Cohorte chinoise multicentrique de patients avec anticorps antiphospholipides persistants",
+ "question": "Quels sont les phénotypes cliniques et le risque d'événements thrombotiques et obstétricaux chez les patients porteurs d'anticorps antiphospholipides persistants en Chine ?",
+ "contexte": "Le SAPL associe thromboses et morbidité obstétricale à des anticorps antiphospholipides (aPL) persistants. Les études à grande échelle chez les porteurs persistants d'aPL en population générale sont rares, et les données chinoises sont limitées. Les anticorps hors critères (non standards) pourraient aussi avoir une valeur clinique, mais leur place reste à préciser.\n\nCAPSTONE est un réseau national de recherche dirigé par le Peking Union Medical College Hospital. Il vise à constituer la première cohorte multicentrique chinoise de patients avec aPL persistants (2 000 patients prévus). Les dosages d'aPL sont validés au laboratoire central. Les patients sont suivis tous les 6 mois, jusqu'à 3 ans. Les événements thrombotiques et obstétricaux sont recensés, ainsi que les manifestations hors critères. L'étude évaluera aussi le risque d'événements, le pronostic, et recommandera des critères pour l'usage des anticorps non standards en Chine.",
+ "interet": "Cette cohorte devrait préciser le risque d'événements chez les porteurs d'aPL et le rôle des manifestations et des anticorps hors critères. Ses données pourraient nourrir les recommandations de dépistage et de suivi.",
+ "profil": "Des patients, adultes ou non (âge non précisé), avec anticorps antiphospholipides persistants, suivis en centres chinois.",
+ "inclusion": ["Au moins un anticorps antiphospholipide positif selon les critères de Sapporo 2006", "Positivité confirmée à au moins deux reprises à 12 semaines d'intervalle"],
+ "exclusion": ["Refus de participer", "Impossibilité d'assurer le suivi"],
+ "bras": [{"nom": "Cohorte de porteurs d'aPL persistants", "traitement": "Pas d'intervention ; suivi tous les 6 mois"}],
+ "duree": "Jusqu'à 3 ans (suivi tous les 6 mois)",
+ "critere": "Thrombose vasculaire liée aux aPL et morbidité obstétrique liée aux aPL, à 36 mois"
+}

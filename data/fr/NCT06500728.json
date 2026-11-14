@@ -1,0 +1,33 @@
+{
+ "h": "3824fc830a46",
+ "date": "2026-11-14",
+ "titre": "Atteinte visuelle de l'artérite à cellules géantes : description multimodale",
+ "question": "Comment distinguer, par imagerie oculaire multimodale, les atteintes visuelles liées à l'ACG de celles d'autre cause ?",
+ "contexte": "L'ACG est une vascularite des artères de moyen et gros calibre, dont l'atteinte visuelle est la complication la plus redoutée car elle peut entraîner une cécité irréversible. Les mécanismes principaux sont la neuropathie optique ischémique antérieure artéritique (NOIAA), l'occlusion de l'artère centrale de la rétine (OACR) et, plus rarement, la neuropathie optique ischémique postérieure.\n\nLa distinction entre NOIAA et neuropathie optique ischémique antérieure non artéritique (NOIANA), ou entre OACR liée ou non à l'ACG, est cruciale car les traitements diffèrent. Les séries publiées sont de petite taille et anciennes. Elles précèdent la description de la maculopathie moyenne aiguë paracentrale (PAMM, 2013) et les progrès de l'OCT haute résolution et de l'OCT-angiographie.\n\nCette étude observationnelle de cohorte, menée à Milan, inclut des patients avec atteinte visuelle récente liée ou non à l'ACG. Tous bénéficient d'angiographie à la fluorescéine et au vert d'indocyanine, d'OCT haute résolution et d'OCT-angiographie. L'objectif est de comparer la fréquence des signes ophtalmologiques entre les groupes selon les critères et pratiques actuels.",
+ "interet": "L'étude pourrait préciser les signes oculaires discriminants de l'ACG, notamment la PAMM, et améliorer le diagnostic rapide et le pronostic visuel. Elle pourrait aussi appuyer un recours plus large à l'OCT chez les patients suspects.",
+ "profil": "Des adultes avec une perte visuelle aiguë récente, avec ou sans artérite à cellules géantes.",
+ "inclusion": [
+  "Groupe ACG : âge > 18 ans, ACG suspectée ou confirmée",
+  "Atteinte visuelle récente avec lien suspecté ou confirmé avec la vascularite",
+  "Groupe témoin : âge > 18 ans, baisse visuelle aiguë récente de phénotype ACG (NOIA, OACR) sans lien avec une vascularite",
+  "Capacité à donner un consentement valide"
+ ],
+ "exclusion": [
+  "Pathologie ophtalmologique préexistante modifiant l'acuité visuelle ou la sémiologie",
+  "Infection active (virale, bactérienne, fongique, parasitaire), y compris tuberculose traitée depuis moins de 4 semaines, VIH, VHC, VHB, touchant l'œil ou l'orbite",
+  "Inflammation systémique active non liée à l'ACG",
+  "Toute contre-indication jugée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ACG",
+   "traitement": "Angiographie fluorescéine/vert d'indocyanine, OCT haute résolution, OCT-angiographie"
+  },
+  {
+   "nom": "Patients non artéritiques",
+   "traitement": "Mêmes examens ophtalmologiques"
+  }
+ ],
+ "duree": "Non précisé (suivi de l'étude : 6 ans)",
+ "critere": "Comparaison des signes spécifiques entre NOIAA et NOIANA, et entre OACR liée ou non à l'ACG, sur 6 ans"
+}

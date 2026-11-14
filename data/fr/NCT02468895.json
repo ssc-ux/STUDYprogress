@@ -1,0 +1,33 @@
+{
+ "h": "d44ce01c1057",
+ "date": "2026-11-14",
+ "titre": "Cohorte prospective britannique de myosites inflammatoires de l'adulte pour des soins stratifiés",
+ "question": "Quels biomarqueurs permettent de mieux diagnostiquer, stratifier et suivre les patients atteints de myopathie inflammatoire idiopathique ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (polymyosite, dermatomyosite, syndrome des anti-synthétases, myopathie nécrosante, myosite à inclusions) forment un groupe hétérogène de maladies rares. Les formes cliniques, les auto-anticorps, les atteintes extramusculaires (poumon, cœur) et la réponse aux traitements varient beaucoup d'un patient à l'autre.\n\nLe diagnostic reste difficile, notamment pour les formes suspectées mais non confirmées, et les critères d'amélioration et les biomarqueurs de suivi doivent être validés. Une prise en charge stratifiée suppose de mieux caractériser les sous-groupes.\n\nMYOPROSP, promue par l'université de Manchester, est une cohorte prospective de patients adultes ayant une myosite confirmée ou suspectée, de préférence depuis moins d'un an. Les données cliniques, le sang, la biopsie musculaire, l'IRM musculaire et l'IRM cardiaque avec gadolinium sont recueillis à l'inclusion, puis à 3, 6 et 12 mois, avec une seconde biopsie et des IRM à 6 mois. Un suivi annuel est possible jusqu'à 5 ans.\n\nLa cohorte alimente un registre des traitements nouveaux (MYOACT), l'étude transversale UKMyoNet et une biobanque neuromusculaire britannique. Aucun traitement n'est imposé.",
+ "interet": "La cohorte doit établir la sensibilité au changement de biomarqueurs diagnostiques et pronostiques, et préciser l'évolution naturelle des myosites. Ses résultats peuvent guider des essais et une prise en charge plus personnalisée.",
+ "profil": "Des adultes de plus de 18 ans, adressés à des centres tertiaires britanniques pour une myosite inflammatoire confirmée ou suspectée.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Polymyosite, dermatomyosite (y compris amyopathique), syndrome des anti-synthétases, MNMI (dont statines)",
+  "Myosite à inclusions, myosite paranéoplasique ou en chevauchement avec une connectivite",
+  "Myosite juvénile persistant à l'âge adulte, fasciite, vascularite musculaire, myosite granulomateuse, focale ou orbitaire",
+  "Myosite suspectée en cours d'exploration",
+  "Signes de connectivite avec anticorps spécifiques ou associés aux myosites"
+ ],
+ "exclusion": [
+  "Durée d'évolution > 2 ans",
+  "Âge < 18 ans",
+  "Myopathie non inflammatoire confirmée",
+  "Myosite secondaire à l'alcool ou à une toxicité médicamenteuse",
+  "Refus ou incapacité de consentir, mauvais accès veineux",
+  "Contre-indication à l'IRM (pour le volet IRM)"
+ ],
+ "bras": [
+  {
+   "nom": "Myopathies inflammatoires idiopathiques",
+   "traitement": "PM, DM, myosite à inclusions, myopathie nécrosante, anti-synthétases, myosite suspectée : suivi clinique, sang, biopsie musculaire et IRM à 0, 3, 6, 12 mois"
+  }
+ ],
+ "duree": "12 mois de suivi principal, jusqu'à 5 ans pour les données annuelles",
+ "critere": "Nombre de participants avec un changement significatif des biomarqueurs diagnostiques, sur 5 ans"
+}

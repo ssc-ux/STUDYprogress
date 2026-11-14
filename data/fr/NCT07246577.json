@@ -1,0 +1,32 @@
+{
+ "h": "4237cfcd8529",
+ "date": "2026-11-14",
+ "titre": "Cohorte suédoise ACG : échographie, biopsie et biomarqueurs",
+ "question": "Quels paramètres échographiques et biomarqueurs sanguins prédisent l'évolution de l'ACG et distinguent maladie active et inactive ?",
+ "contexte": "L'ACG est traitée par une corticothérapie prolongée, mais 30 à 60 % des patients rechutent et beaucoup présentent des effets indésirables des corticoïdes. La CRP et la VS, principaux marqueurs d'activité, ont une sensibilité et une spécificité limitées, surtout sous inhibiteurs de l'IL-6. L'épaisseur intima-média peut rester élevée après résolution de l'inflammation.\n\nLes recommandations EULAR proposent l'échographie des artères temporales et axillaires. Un protocole étendu à d'autres artères extracrâniennes, développé par l'équipe, a amélioré la précision diagnostique dans une étude rétrospective. La néovascularisation, détectée en échographie à bas débit, pourrait refléter l'inflammation active. L'IL-9, l'angiopoïétine-2 et la MMP-3 sont des biomarqueurs prometteurs mais non évalués en cohorte clinique.\n\nCette cohorte prospective de la région Västra Götaland inclut des patients adressés pour suspicion d'ACG, avec échographie, biopsie temporale et biomarqueurs. Elle vise à construire un score échographique composite et à comparer néovascularisation échographique et histologique.",
+ "interet": "L'étude pourrait fournir des outils pour prédire le risque de rechute et suivre l'activité sous traitement, y compris sous anti-IL-6. Elle pourrait aussi soutenir un protocole échographique plus étendu que celui recommandé.",
+ "profil": "Des adultes adressés pour suspicion d'artérite à cellules géantes, avec un groupe témoin non-ACG.",
+ "inclusion": [
+  "Adressé pour suspicion d'ACG",
+  "Consentement écrit éclairé"
+ ],
+ "exclusion": [
+  "Diagnostic antérieur d'ACG",
+  "Biopsie d'artère temporale antérieure dans le cadre d'un bilan d'ACG",
+  "Corticothérapie > 7,5 mg/j pendant plus de 2 semaines avant le bilan",
+  "Incapacité à consentir",
+  "Incapacité à suivre le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe ACG",
+   "traitement": "Patients avec diagnostic d'ACG ; échographie vasculaire et biomarqueurs"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Patients sans ACG ; mêmes examens"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 12 mois)",
+ "critere": "Rémission prolongée à 12 mois"
+}

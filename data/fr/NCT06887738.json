@@ -1,0 +1,32 @@
+{
+ "h": "2a4cab6464c6",
+ "date": "2026-11-14",
+ "titre": "NM8074 (anti-Bb du complément) dans la dermatomyosite : étude de preuve de concept",
+ "question": "Le NM8074, administré par voie IV hebdomadaire pendant 12 semaines, améliore-t-il le score d'amélioration totale chez des patients atteints de dermatomyosite ?",
+ "contexte": "La dermatomyosite est une myopathie inflammatoire auto-immune avec atteinte musculaire et cutanée, et parfois pulmonaire. Les corticoïdes, immunosuppresseurs et immunoglobulines IV ont une efficacité partielle, et les besoins non couverts restent importants.\n\nLe complément, notamment la voie classique et la voie alterne, contribue aux lésions de la microvascularisation musculaire et cutanée dans la dermatomyosite, avec dépôts de complexe d'attaque membranaire.\n\nLe NM8074 est un anticorps monoclonal dirigé contre le fragment Bb du facteur B, qui inhibe sélectivement la voie alterne du complément tout en préservant la voie classique. Il est développé par NovelMed Therapeutics dans plusieurs maladies à médiation complémentaire.\n\nCette étude de phase 2 de preuve de concept, ouverte, multicentrique et à bras unique, inclura 8 adultes avec dermatomyosite probable ou définie (critères EULAR/ACR 2017). Le traitement est de 20 mg/kg IV chaque semaine pendant 12 semaines, suivi de 6 semaines d'observation. Une vaccination anti-méningocoque, anti-pneumocoque et anti-Hib est exigée au préalable.",
+ "interet": "Un signal d'efficacité sur le TIS justifierait un essai randomisé du NM8074, qui serait un traitement ciblé de la voie alterne du complément dans la dermatomyosite. La très petite taille et l'absence de comparateur limitent la portée de cette étude.",
+ "profil": "Des adultes ayant une dermatomyosite probable ou définie, vaccinés contre les bactéries encapsulées.",
+ "inclusion": [
+  "Âge ≥ 18 ans, IMC entre 15 et 38 kg/m²",
+  "Dermatomyosite probable ou définie (critères EULAR/ACR 2017)",
+  "Vaccination antiméningococcique (ACWY et B), antipneumococcique et anti-Hib au moins 2 semaines avant (sinon antibioprophylaxie)",
+  "Test de grossesse négatif et contraception efficace jusqu'à 8 semaines après l'arrêt",
+  "Contraception masculine et absence de don de sperme pendant la même période"
+ ],
+ "exclusion": [
+  "Myosite d'origine médicamenteuse",
+  "Pneumopathie interstitielle sous oxygénothérapie",
+  "Infection active ou récurrente inexpliquée, antécédent d'infection à méningocoque",
+  "Cancer actif ou datant de moins de 5 ans (2 ans après traitement)",
+  "Greffe de moelle, de cellules souches ou d'organe solide",
+  "Autre médicament expérimental récent, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1",
+   "traitement": "NM8074 20 mg/kg IV chaque semaine, 12 perfusions (J1 à J78)"
+  }
+ ],
+ "duree": "Environ 18 semaines de traitement et d'observation, après 30 jours de sélection",
+ "critere": "Proportion de patients dont le score d'amélioration totale (TIS) augmente d'au moins 20 points, jusqu'au jour 78"
+}

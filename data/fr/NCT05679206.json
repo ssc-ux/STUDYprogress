@@ -1,0 +1,14 @@
+{
+ "h": "c4be92e4626b",
+ "date": "2026-11-14",
+ "titre": "Prééclampsie, SAPL obstétrical et pression artérielle pulmonaire du post-partum",
+ "question": "Le SAPL obstétrical aggrave-t-il l'hypertension pulmonaire durable après une prééclampsie ?",
+ "contexte": "La prééclampsie touche 2 à 8 % des grossesses. À long terme, les femmes concernées ont un risque accru d'hypertension artérielle, d'insuffisance cardiaque, de valvulopathies et de fibrillation atriale. Le SAPL triple le risque de prééclampsie et est retrouvé chez jusqu'à 20 % des femmes avec les formes les plus sévères.\n\nL'hypertension pulmonaire est rapportée chez 2 à 17 % des patients avec SAPL vasculaire. Sa fréquence dans le SAPL obstétrical est inconnue. Les femmes sont aussi plus exposées que les hommes à l'hypertension artérielle pulmonaire, maladie rare et grave. L'hypothèse est que le SAPL obstétrical serait un facteur de risque méconnu d'hypertension pulmonaire. Cette étude monocentrique de l'Inselspital de Berne s'appuie sur une consultation commune cardiologue-obstétricien. Elle compare les femmes avec prééclampsie avec ou sans SAPL obstétrical, par échocardiographie et mesure ambulatoire de la pression artérielle, rétrospectives et prospectives, jusqu'à 3 ans post-partum.",
+ "interet": "L'étude pourrait identifier le SAPL obstétrical comme facteur de risque cardiovasculaire et pulmonaire après prééclampsie. Elle devrait aussi permettre d'établir un modèle de prédiction de l'hypertension artérielle.",
+ "profil": "Des femmes de plus de 16 ans ayant présenté une prééclampsie, avec ou sans SAPL obstétrical.",
+ "inclusion": ["Âge > 16 ans", "Prééclampsie (hypertension nouvelle après 20 SA avec protéinurie ou autre atteinte d'organe)", "Suivi post-natal en obstétrique et cardiologie à l'Inselspital de Berne", "Consentement ou dérogation au consentement"],
+ "exclusion": ["Âge < 16 ans", "Données incomplètes ou ambiguës ne permettant pas l'analyse du critère principal"],
+ "bras": [{"nom": "Prééclampsie et SAPL obstétrical", "traitement": "Suivi jusqu'à 3 ans ; échocardiographie et mesure ambulatoire de la pression artérielle sur 24 h"}, {"nom": "Prééclampsie sans SAPL obstétrical", "traitement": "Mêmes examens"}],
+ "duree": "Jusqu'à 3 ans après l'accouchement",
+ "critere": "Variation de la pression artérielle pulmonaire systolique, mesurée par échocardiographie à 3 mois et à 3 ans après l'accouchement"
+}

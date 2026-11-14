@@ -1,0 +1,14 @@
+{
+ "h": "f01100efe2d2",
+ "date": "2026-11-14",
+ "titre": "Daratumumab dans le syndrome des antiphospholipides primaire (DARE-APS)",
+ "question": "Le daratumumab, anti-CD38, est-il sûr chez des patients atteints de SAPL primaire triple positif, et à quelle dose ?",
+ "contexte": "Le SAPL repose sur des anticorps antiphospholipides pathogènes produits par des lymphocytes B et des plasmocytes. Le traitement standard par anticoagulants prévient les récidives thrombotiques mais n'agit pas sur la production d'anticorps. Les patients triple positifs (anticoagulant circulant, anticardiolipine et anti-β2GPI) sont à risque élevé de récidive, malgré le traitement.\n\nLe daratumumab est un anticorps monoclonal anti-CD38 qui cible les plasmocytes, déjà utilisé dans le myélome. L'objectif est de réduire la production d'anticorps. DARE-APS est un essai de phase 1b/2 non randomisé en ouvert, avec escalade de dose selon un schéma 3+3 modifié (4, 8, puis 16 mg/kg IV hebdomadaires pendant 8 doses) et une phase d'expansion à la dose maximale sûre. Un comité indépendant valide chaque palier. L'étude est promue par le NIAID, dans le cadre de l'Immune Tolerance Network, avec 8 centres américains.",
+ "interet": "L'étude vise à établir la sécurité et la dose du daratumumab dans le SAPL, première étape d'une stratégie ciblant les plasmocytes. Le faible effectif ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 70 ans avec SAPL primaire et triple positivité des anticorps antiphospholipides.",
+ "inclusion": ["Âge de 18 à 70 ans", "SAPL selon les critères de Sapporo 2006 (thrombose artérielle ou veineuse, morbidité obstétricale ou SAPL microvasculaire)", "Triple positivité aPL confirmée au dépistage (aCL IgG ≥ 40 GPL, aβ2GPI IgG ≥ 40 SGU, LA positif)", "Vaccinations à jour (COVID-19, zona, grippe saisonnière)", "Anticoagulation par warfarine ou HBPM en cas d'antécédent thrombotique"],
+ "exclusion": ["Autre maladie auto-immune systémique (lupus, polyarthrite, vascularite)", "SAPL catastrophique dans les 90 jours ou thrombose aiguë dans les 30 jours", "Traitement antérieur anti-CD38 ; immunosuppresseurs ou biothérapies récents", "Infection active ou chronique (VIH, hépatite B, hépatite C, tuberculose)", "Cytopénies, anomalies hépatiques ou DFG < 45 mL/min/1,73 m²", "Hypertension pulmonaire, BPCO ou asthme avec VEMS < 70 %, cancer, maladie cardiaque significative"],
+ "bras": [{"nom": "Cohorte 4 mg/kg", "traitement": "Daratumumab IV 4 mg/kg par semaine, 8 doses (semaines 0 à 7)"}, {"nom": "Cohorte 8 mg/kg", "traitement": "Daratumumab IV 8 mg/kg par semaine, 8 doses"}, {"nom": "Cohorte 16 mg/kg", "traitement": "Daratumumab IV 16 mg/kg par semaine, 8 doses"}],
+ "duree": "48 semaines (visites aux semaines 9, 12, 18, 24, 36 et 48)",
+ "critere": "Proportion de participants avec au moins une toxicité limitant la dose pendant l'escalade, à la semaine 9 au plus tard"
+}

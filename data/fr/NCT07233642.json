@@ -1,0 +1,14 @@
+{
+ "h": "0cb3be3e7876",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 à fabrication ultra-rapide dans le lupus réfractaire (hôpital pédiatrique de Zhejiang)",
+ "question": "Des CAR-T anti-CD19 autologues produites en quelques minutes sont-elles sûres et efficaces dans le lupus réfractaire, y compris chez l'enfant ?",
+ "contexte": "Le lupus systémique est traité par corticoïdes et immunosuppresseurs au long cours, sans traitement curatif, et les formes sévères restent en échec. Les biothérapies comme le bélimumab ou le rituximab n'éliminent pas complètement les lymphocytes B auto-réactifs de la moelle, et l'arrêt expose à la rechute.\n\nLes CAR-T anti-CD19 ont produit des rémissions durables dans de petites séries de lupus depuis 2019. Cette étude de phase 1, à initiative d'investigateurs, est menée à l'hôpital pédiatrique de l'université de Zhejiang. Elle teste des CAR-T autologues anti-CD19 produits par un système de fabrication « ultra-rapide » (préparation en environ 10 minutes). Elle est ouverte, monocentrique, à bras unique avec escalade de dose, et inclut 18 patients dès l'âge de 5 ans. Elle vise à évaluer la tolérance à 3 mois puis l'efficacité à 3 et 6 mois.",
+ "interet": "Cette étude pourrait fournir les premières données de ce type de CAR-T, y compris chez l'enfant et l'adolescent, population peu explorée. Un délai de production court faciliterait l'accès à la thérapie.",
+ "profil": "Des enfants (dès 5 ans) et adultes avec un lupus systémique réfractaire d'activité modérée à sévère.",
+ "inclusion": ["Âge ≥ 5 ans", "Lupus selon EULAR/ACR 2019, actif malgré ≥ 3 mois de corticoïdes à forte dose, d'hydroxychloroquine et d'au moins 2 DMARD, ou intolérance", "SLEDAI-2K ≥ 8", "FEVG ≥ 55 %, DFGe ≥ 30 mL/min/1,73 m², ASAT/ALAT ≤ 3 N, bilirubine ≤ 2 N, SpO₂ ≥ 92 %", "Leucaphérèse possible", "Contraception efficace la première année"],
+ "exclusion": ["Neurolupus central nécessitant une intervention dans les 60 jours", "Hépatite B ou C active, VIH, syphilis, tuberculose active", "Syndrome d'activation macrophagique dans le mois précédent (sauf risque écarté)", "CAR-T antérieur (sauf risque écarté)", "Vaccin vivant dans les 4 semaines, test de grossesse positif", "Cancer actuel ou antécédent, autre essai dans les 3 mois"],
+ "bras": [{ "nom": "CAR-T anti-CD19", "traitement": "CAR-T anti-CD19 autologues à fabrication ultra-rapide, perfusion avec escalade de dose (doses non précisées)" }],
+ "duree": "Au moins 6 mois d'évaluation (durée totale non précisée)",
+ "critere": "Tolérance à 3 mois ; variation du SLEDAI-2K, du PGA et du BILAG-2004 à 6 mois ; SRI-4 à 3 mois ; LLDAS et rémission DORIS à 6 mois"
+}

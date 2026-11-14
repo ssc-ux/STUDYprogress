@@ -1,0 +1,14 @@
+{
+ "h": "e86bbfbb8b14",
+ "date": "2026-11-14",
+ "titre": "AOD versus AVK en prévention secondaire dans le SAPL thrombotique à faible risque (DOACS-APS)",
+ "question": "Chez les patients ayant un SAPL veineux à profil sérologique de faible risque, les anticoagulants oraux directs sont-ils aussi efficaces et sûrs que les antivitamines K ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) thrombotique expose à un risque élevé de récidive et nécessite une anticoagulation au long cours. Les antivitamines K (AVK) en sont le traitement de référence.\n\nLes anticoagulants oraux directs (AOD) sont efficaces et sûrs dans la maladie thromboembolique veineuse et la fibrillation atriale non valvulaire, mais leur usage dans le SAPL reste controversé : des essais randomisés ont montré un excès d'événements thrombotiques artériels, surtout chez les patients au profil sérologique à haut risque (triple positivité).\n\nLes recommandations suggèrent que les AOD pourraient être envisagés chez des patients sélectionnés à faible risque, c'est-à-dire avec une thrombose veineuse et sans triple positivité. Les preuves restent limitées. Cette étude observationnelle ambispective (rétrospective et prospective) de l'hôpital Infanta Leonor (Madrid) inclut 600 patients traités par AOD ou AVK en pratique courante, et compare récidive thrombotique et hémorragies.",
+ "interet": "Les résultats pourraient étayer l'utilisation des AOD dans un sous-groupe précis de SAPL veineux à faible risque. Comme l'étude est observationnelle, le choix du traitement n'étant pas randomisé, des biais de confusion sont possibles.",
+ "profil": "Des adultes atteints de SAPL thrombotique veineux à faible risque sérologique, sous anticoagulation au long cours.",
+ "inclusion": ["Âge ≥ 18 ans, SAPL thrombotique", "Faible risque : thrombose veineuse antérieure et profil d'anticorps antiphospholipides à positivité simple ou double (anticoagulant circulant, anticardiolipine, anti-β2GPI)", "Anticoagulation au long cours par AOD ou AVK en pratique courante", "Au moins 2 semaines de traitement anticoagulant continu avant l'inclusion"],
+ "exclusion": ["Âge < 18 ans", "Triple positivité des anticorps antiphospholipides", "Antécédent de thrombose artérielle", "Anticoagulation pour une indication autre que la prévention secondaire d'une thrombose veineuse liée au SAPL"],
+ "bras": [{"nom": "AOD", "traitement": "Anticoagulant oral direct choisi par le médecin traitant, en pratique courante"}, {"nom": "AVK", "traitement": "Antivitamine K choisie par le médecin traitant, en pratique courante"}],
+ "duree": "24 mois",
+ "critere": "Survenue d'une thrombose veineuse récidivante, à 24 mois"
+}

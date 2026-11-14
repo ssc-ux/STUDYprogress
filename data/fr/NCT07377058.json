@@ -1,0 +1,39 @@
+{
+ "h": "f572e5e8af01",
+ "date": "2026-11-14",
+ "titre": "Tocilizumab contre placebo dans la dermatomyosite anti-MDA5 positive",
+ "question": "Le tocilizumab améliore-t-il l'activité clinique et l'atteinte pulmonaire de la dermatomyosite anti-MDA5 ?",
+ "contexte": "La dermatomyosite anti-MDA5 est une forme à forte morbi-mortalité, marquée par des atteintes cutanées (papules de Gottron, ulcérations) et une PID parfois rapidement progressive. Le traitement associe corticoïdes et inhibiteurs de la calcineurine, parfois cyclophosphamide, rituximab ou JAK inhibiteurs. Les données sont surtout rétrospectives.\n\nL'interleukine 6 (IL-6) est élevée dans cette maladie et corrèle avec l'activité. Le tocilizumab, anticorps anti-récepteur de l'IL-6, est un traitement possible. Cet essai de Peking Union Medical College Hospital est randomisé en quadruple aveugle contre placebo, avec environ 110 patients sous corticoïdes et inhibiteur de la calcineurine stables. Il exclut les PID rapidement progressives et les formes sévères.",
+ "interet": "Un essai randomisé contre placebo manque dans cette maladie rare. Un résultat positif ferait du tocilizumab une option d'appoint validée dans les formes modérées.",
+ "profil": "Des adultes de 18 à 65 ans atteints de dermatomyosite anti-MDA5 positive, avec ou sans PID modérée.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, poids ≥ 45 kg",
+  "Dermatomyosite anti-MDA5 positive (papules de Gottron ou érythème et anticorps anti-MDA5)",
+  "Si PID : SpO₂ ≥ 90 %, CVF ≥ 60 %, DLCO ≥ 40 %, atteinte < 50 % des champs au scanner",
+  "Prednisone < 1 mg/kg/j depuis ≥ 4 semaines",
+  "Inhibiteur de la calcineurine stable depuis ≥ 4 semaines",
+  "Prophylaxie par cotrimoxazole pendant le traitement"
+ ],
+ "exclusion": [
+  "Polymyosite, syndrome des antisynthétases, myopathie nécrosante ou chevauchement",
+  "PID rapidement progressive",
+  "Infarctus, angor instable ou AVC récents",
+  "Infection sévère récente, tuberculose active ou latente non traitée, hépatite B ou C active, VIH",
+  "Cytopénies, hépatopathie sévère (ALAT/ASAT ≥ 3 N), clairance de la créatinine ≤ 45 mL/min",
+  "Rituximab dans les 6 mois, JAK inhibiteur dans les 2 semaines, autres biologiques",
+  "Traitement antérieur par anti-IL-6",
+  "Cancer dans les 5 dernières années, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Tocilizumab",
+   "traitement": "Tocilizumab toutes les 2 semaines pendant 2 mois, en plus du traitement de fond"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo avec traitement médical standard"
+  }
+ ],
+ "duree": "Environ 16 semaines (visites toutes les 2 semaines)",
+ "critere": "Amélioration du Total Improvement Score (TIS) et de la PID à la semaine 16."
+}

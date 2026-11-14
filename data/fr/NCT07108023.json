@@ -1,0 +1,14 @@
+{
+ "h": "2e13cf09e681",
+ "date": "2026-11-14",
+ "titre": "Anomalies hématologiques dans l'obstruction portale extrahépatique (EHPVO)",
+ "question": "Quelle est la fréquence des maladies hématologiques sous-jacentes (néoplasies myéloprolifératives, SAPL, HPN) chez les patients avec obstruction portale extrahépatique ?",
+ "contexte": "L'obstruction portale extrahépatique (EHPVO) est une cause non cirrhotique d'hypertension portale, due à une thrombose de la veine porte hors du foie. Le parenchyme hépatique est préservé, mais les complications (hémorragie variqueuse, hypersplénisme, splénomégalie) sont fréquentes.\n\nLes anomalies hématologiques observées (thrombopénie, anémie, leucopénie) sont souvent attribuées à l'hypersplénisme. Chez certains patients, notamment avec une néoplasie myéloproliférative (NMP, souvent liée à la mutation JAK2 V617F), ces cytopénies peuvent être masquées par l'augmentation de la production cellulaire. Les NMP, le syndrome des antiphospholipides (SAPL) et l'hémoglobinurie paroxystique nocturne (HPN) sont des causes thrombophiliques bien décrites de thrombose portale.\n\nCette étude transversale observationnelle de l'hôpital universitaire d'Assiut (Égypte) analyse rétrospectivement les dossiers de 115 patients de 2020 à 2024 : numération, bilan hépatique, hémostase et bilan de thrombophilie, afin de repérer des profils évocateurs d'une maladie hématologique sous-jacente.",
+ "interet": "Identifier précocement la cause d'une thrombose portale peut modifier la prise en charge et la surveillance. L'étude est rétrospective, monocentrique, et décrit des fréquences sans comparateur.",
+ "profil": "Des adultes de 18 à 75 ans avec obstruction portale extrahépatique et fonction hépatique préservée.",
+ "inclusion": ["Âge ≥ 18 ans", "Obstruction portale extrahépatique diagnostiquée en imagerie (Doppler, scanner, IRM)", "Fonction hépatique préservée", "Dossier médical complet incluant NFS, bilan hépatique et hémostase"],
+ "exclusion": ["Cirrhose ou hypertension portale intrahépatique", "Dossier incomplet ou manquant", "Hémopathie maligne connue ou chimiothérapie en cours"],
+ "bras": [{"nom": "Patients avec EHPVO", "traitement": "Analyse rétrospective de données biologiques ; aucune intervention"}],
+ "duree": "Période rétrospective 2020-2024",
+ "critere": "Fréquence des maladies hématologiques chez les patients avec EHPVO, sur la période rétrospective 2020-2024"
+}

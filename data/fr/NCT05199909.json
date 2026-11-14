@@ -1,0 +1,14 @@
+{
+ "h": "c4dad4495509",
+ "date": "2026-11-14",
+ "titre": "Zanubrutinib dans le syndrome des antiphospholipides avec thrombopénie secondaire",
+ "question": "Le zanubrutinib, inhibiteur de BTK, permet-il de remonter les plaquettes chez des patients ayant un SAPL et une thrombopénie sévère ?",
+ "contexte": "La thrombopénie touche environ 30 % des patients atteints de syndrome des antiphospholipides (SAPL). Elle est le plus souvent légère à modérée et peu hémorragique, mais certaines formes sévères avec saignements sont très difficiles à traiter. Les corticoïdes, le rituximab et les immunosuppresseurs peuvent remonter les plaquettes, mais les rechutes sont fréquentes et les anticorps antiphospholipides persistent.\n\nLes agonistes du récepteur de la thrombopoïétine, utilisés dans le PTI, augmentent le risque de thrombose et sont donc problématiques dans le SAPL. La BTK (tyrosine kinase de Bruton) est une kinase clé de la voie du récepteur des cellules B, qui régule la prolifération, la survie et la différenciation des lymphocytes B, ainsi que des voies des récepteurs Fc.\n\nLes inhibiteurs de BTK pourraient donc agir dans des maladies auto-immunes impliquant les lymphocytes B. Cette étude de phase 2, de l'Institut d'hématologie de Tianjin (Chine), évalue le zanubrutinib chez 10 patients dont le taux de plaquettes est inférieur à 30 G/L malgré les traitements antérieurs.",
+ "interet": "Si le signal est positif, un inhibiteur de BTK pourrait constituer une option sans risque thrombotique accru pour les thrombopénies sévères du SAPL. L'étude porte sur seulement 10 patients, sans comparateur.",
+ "profil": "Des adultes atteints de SAPL avec thrombopénie sévère (< 30 G/L), en échec des traitements antérieurs.",
+ "inclusion": ["Âge ≥ 18 ans, diagnostic de SAPL", "Échec, rechute ou intolérance aux corticoïdes ; autres traitements de seconde ligne (rituximab, ciclosporine, cyclophosphamide) non utilisables ou inefficaces", "Plaquettes < 30 G/L", "ALAT, ASAT, urée, créatinine < 1,5 × LSN", "ECOG ≤ 2, NYHA ≤ 2", "Consentement écrit daté"],
+ "exclusion": ["Maladie incontrôlée d'un organe majeur (cancer, insuffisance hépatique, cardiaque ou rénale)", "VIH positif, infection active incontrôlée (hépatites B et C, CMV, EBV, syphilis)", "Hémorragie étendue et sévère (hémoptysie, hémorragie digestive haute, intracrânienne)", "Cardiopathie, arythmie nécessitant un traitement ou hypertension mal contrôlée", "Thrombose récente (embolie pulmonaire récente, thrombose artérielle ou veineuse instable)", "Autres critères du protocole : non précisé"],
+ "bras": [{"nom": "Zanubrutinib", "traitement": "Zanubrutinib à la dose indiquée par le protocole (dose non précisée), 10 patients"}],
+ "duree": "12 semaines",
+ "critere": "Proportion de patients avec plaquettes ≥ 30 G/L et ≥ 50 G/L à la semaine 12 (jour 85)"
+}

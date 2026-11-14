@@ -1,0 +1,14 @@
+{
+ "h": "17a450cdfeab",
+ "date": "2026-11-14",
+ "titre": "AZD0120 (CAR-T CD19/BCMA) dans le lupus systémique réfractaire",
+ "question": "L'AZD0120, un CAR-T ciblant CD19 et BCMA, est-il sûr et efficace chez des adultes avec un lupus systémique réfractaire ?",
+ "contexte": "Le lupus systémique réfractaire, malgré au moins deux immunosuppresseurs dont un biologique, reste associé à des poussées, à des dommages d'organe et à une corticothérapie prolongée. La néphropathie lupique proliférative en est une expression sévère.\n\nLes CAR-T anti-CD19 ont induit des rémissions dans de petites séries de lupus. Le double ciblage CD19 et BCMA vise à éliminer à la fois les lymphocytes B et les plasmocytes, source d'auto-anticorps de longue durée de vie. L'AZD0120 est un CAR-T autologue double cible développé par AstraZeneca. L'étude de phase 1b/2 est ouverte, à bras unique, multicentrique (20 centres, 4 pays), et prévoit 150 patients. La phase 1b évalue la tolérance et détermine la dose recommandée de phase 2 ; la phase 2 évalue la tolérance et l'efficacité de cette dose. Les patients reçoivent une perfusion unique après lymphodéplétion par cyclophosphamide et fludarabine.",
+ "interet": "Cette étude pourrait établir la tolérance, la dose et l'efficacité d'un CAR-T double cible dans le lupus, avec une cohorte importante pour ce type de thérapie. Elle pourrait préparer un essai pivot.",
+ "profil": "Des adultes de 18 à 70 ans avec un lupus systémique réfractaire, avec ou sans néphropathie lupique proliférative.",
+ "inclusion": ["Âge de 18 à 70 ans", "Lupus selon EULAR/ACR 2019 avec ANA ≥ 1/80 et score ≥ 10", "Au moins 2 immunosuppresseurs standards, dont un biologique", "SLEDAI-2K ≥ 6 au dépistage, atteinte d'organe significative (arthrite, myosite, éruption, alopécie, ulcères muqueux, pleurésie, péricardite, vascularite ou atteinte rénale)", "Néphropathie lupique classe III, IV ou V sur biopsie de moins de 6 mois, le cas échéant", "Fonctions hépatique, rénale, pulmonaire et cardiaque adéquates"],
+ "exclusion": ["Traitement CAR-T antérieur, quelle que soit la cible", "Traitement ciblant CD19 et/ou BCMA", "Greffe de cellules souches allogénique ou autologue", "Cancer actif évolutif ou nécessitant un traitement", "Déficit immunitaire primitif", "Infection virale ou bactérienne active"],
+ "bras": [{ "nom": "AZD0120", "traitement": "Dose unique de CAR-T AZD0120 après cyclophosphamide et fludarabine (doses de la phase 1b non précisées)" }],
+ "duree": "2 ans",
+ "critere": "Phase 1b : tolérance et dose recommandée de phase 2 ; phase 2 : efficacité de l'AZD0120 dans le lupus réfractaire, sur 2 ans"
+}

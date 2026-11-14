@@ -1,0 +1,14 @@
+{
+ "h": "3ca0c20a339a",
+ "date": "2026-11-14",
+ "titre": "Facteurs génétiques de risque du syndrome des antiphospholipides familial",
+ "question": "Quels facteurs génétiques héréditaires prédisposent au syndrome des antiphospholipides (SAPL) dans les familles touchées ?",
+ "contexte": "Le SAPL est une maladie auto-immune qui expose à des thromboses veineuses ou artérielles et à des fausses couches à répétition. Il survient fréquemment chez des patients lupiques (SAPL secondaire), mais de nombreux patients n'ont aucune autre maladie auto-immune (SAPL primaire).\n\nUne composante génétique est suspectée : identifier les gènes de prédisposition permettrait de mieux comprendre la maladie et, à terme, d'améliorer les traitements. Cette étude du Duke University (États-Unis) utilise une stratégie génétique familiale en recrutant des patients atteints de SAPL dont des apparentés ont aussi un SAPL ou une autre maladie auto-immune (lupus, polyarthrite rhumatoïde).\n\nLes participants répondent d'abord à un questionnaire téléphonique, puis reçoivent un dossier d'inclusion par courrier et, si possible, se rendent sur site pour un recueil détaillé des antécédents familiaux et un prélèvement. Les résultats génétiques sont comparés entre groupes : SAPL avec apparentés atteints de SAPL, SAPL avec apparentés atteints d'une autre maladie auto-immune, et SAPL sans antécédent familial.",
+ "interet": "L'étude peut identifier des variants génétiques associés au SAPL, base de futures recherches physiopathologiques. Elle n'a pas de visée thérapeutique immédiate.",
+ "profil": "Des personnes atteintes de SAPL, avec ou sans antécédents familiaux de SAPL ou de maladie auto-immune.",
+ "inclusion": ["Anticorps antiphospholipides persistants : anticardiolipine moyen ou élevé ou anticoagulant circulant, à ≥ 2 reprises à ≥ 6 semaines d'intervalle", "Manifestations cliniques de SAPL : thrombose vasculaire (artérielle, veineuse ou petits vaisseaux) et/ou morbidité obstétricale", "Les personnes avec anticorps élevés ne remplissant pas tous les critères cliniques, mais ayant des apparentés atteints, peuvent être incluses"],
+ "exclusion": ["Absence d'anticorps antiphospholipides documentés"],
+ "bras": [{"nom": "SAPL avec apparentés atteints de SAPL", "traitement": "Prélèvement génétique et recueil d'antécédents familiaux ; aucune intervention"}, {"nom": "SAPL avec apparentés atteints d'une autre maladie auto-immune", "traitement": "Prélèvement génétique et recueil d'antécédents familiaux (lupus, polyarthrite, etc.) ; aucune intervention"}, {"nom": "SAPL sans antécédent familial", "traitement": "Prélèvement génétique et recueil d'antécédents familiaux ; aucune intervention"}],
+ "duree": "Non précisé (durée de l'étude)",
+ "critere": "Caractérisation des facteurs génétiques de risque du SAPL familial, pendant la durée de l'étude"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "a3185a1bfefa",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 autologues dans le lupus sévère réfractaire (étude pilote malaisienne)",
+ "question": "Une perfusion de CAR-T anti-CD19 autologues est-elle sûre et induit-elle une rémission dans le lupus sévère réfractaire ?",
+ "contexte": "Les traitements actuels du lupus sévère (corticoïdes, cytotoxiques, immunosuppresseurs) ne contrôlent pas toujours le processus auto-immun sous-jacent. Leur usage prolongé cause des effets indésirables chroniques et ne prévient pas toujours les dommages d'organe. La prévalence et la mortalité du lupus sont élevées en Asie, notamment en Malaisie.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B auto-réactifs et ont induit des rémissions dans le lupus réfractaire. Cette étude pilote de l'Université nationale de Malaisie (avec Plutonet) inclut seulement 5 patients, de 18 à 65 ans, avec un lupus actif malgré les corticoïdes et au moins deux traitements de fond, dont la cyclophosphamide, le mycophénolate, le bélimumab ou le rituximab. Les critères sont fondés sur des travaux publiés et des recommandations internationales. Une perfusion unique est administrée. L'étude évalue la tolérance, la réponse, la survie et la qualité de vie.",
+ "interet": "Cette étude pilote pourrait montrer la faisabilité et la tolérance de cette thérapie dans un contexte local, avec des résultats attendus sur la rémission DORIS durable. Sa petite taille limite la portée des conclusions.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus sévère réfractaire et au moins un organe atteint.",
+ "inclusion": ["Âge de 18 à 65 ans, lupus selon EULAR/ACR 2019", "ANA ≥ 1/80, anti-ADN natif ≥ 30 UI/mL ou anti-Sm positifs", "Maladie active (ni DORIS ni LLDAS) avec au moins un organe atteint", "Échec des corticoïdes et d'au moins 2 traitements (cyclophosphamide, mycophénolate, bélimumab, azathioprine, anifrolumab, méthotrexate, rituximab, obinutuzumab, ciclosporine, tacrolimus, voclosporine) ≥ 3 mois chacun", "ALAT < 5 N, bilirubine < 3 N, FEVG > 45 %, ECOG ≤ 2, espérance de vie > 3 mois", "Contraception efficace"],
+ "exclusion": ["Cancer actif ou traitement anticancéreux", "Atteinte pulmonaire (CVF < 45 %, DLCO < 30 %), cardiaque, hépatique ou neurologique sévère", "Lésion rénale irréversible ou clairance < 30 mL/min", "Pancytopénie sévère, VIH, hépatite B ou C active, septicémie", "Greffe de cellules souches dans les 12 semaines, chimiothérapie ou radiothérapie dans les 8 semaines", "Grossesse ou allaitement, atteinte active du système nerveux central"],
+ "bras": [{ "nom": "CAR-T anti-CD19 autologues", "traitement": "Perfusion unique de CAR-T anti-CD19 autologues" }],
+ "duree": "24 mois après la perfusion",
+ "critere": "Taux d'événements indésirables jusqu'à 24 mois, et taux de rémission selon le SLEDAI aux semaines 4, 8, 12, 16, 20, 24 et 28"
+}

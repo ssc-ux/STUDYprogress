@@ -1,0 +1,29 @@
+{
+ "h": "71110e90414d",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle de la myosite à inclusions sporadique et anticorps anti-NT5c1A",
+ "question": "Les anticorps anti-NT5c1A sont-ils associés à la vitesse de progression de la myosite à inclusions sporadique ?",
+ "contexte": "La myosite à inclusions sporadique (sIBM) est la myopathie acquise la plus fréquente après 50 ans. Elle évolue lentement vers une faiblesse sévère et des troubles de déglutition, sans traitement efficace. Les anticorps anti-NT5c1A sont présents chez une partie des patients, mais leur rôle pronostique est discuté.\n\nINSPIRE-IBM est une étude prospective d'histoire naturelle, menée par l'University of California, Irvine dans 13 centres. Elle suit 150 patients tous les 6 mois pendant 2 ans (5 visites). Elle mesure l'IBMFRS, le Timed Up and Go, la capacité vitale forcée et le statut sérique anti-NT5c1A, avec des investigateurs en aveugle. Un sous-groupe de 40 patients a une biopsie musculaire, et les lymphocytes T immunosénescents sont caractérisés dans le sang et le muscle.",
+ "interet": "Ces données servent à calibrer les futurs essais thérapeutiques : vitesse de déclin, biomarqueurs pronostiques, choix des critères de jugement.",
+ "profil": "Des adultes de 40 ans ou plus atteints de myosite à inclusions sporadique, évoluant depuis moins de 10 ans.",
+ "inclusion": [
+  "Âge ≥ 40 ans",
+  "sIBM cliniquement définie ou probable (critères ENMC 2011)",
+  "Début des symptômes il y a moins de 10 ans",
+  "Capacité à suivre les procédures de l'étude",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Immunomodulateur ou immunosuppresseur dans les 6 derniers mois",
+  "Traitement expérimental dans les 90 derniers jours",
+  "Comorbidité significative pouvant modifier l'histoire naturelle ou la participation"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte sIBM",
+   "traitement": "Suivi observationnel tous les 6 mois, prise de sang, biopsie musculaire dans un sous-groupe de 40 patients"
+  }
+ ],
+ "duree": "24 mois (5 visites)",
+ "critere": "Évolution de l'IBMFRS, du Timed Up and Go, de la CVF et de la fréquence des anomalies immunophénotypiques du sang et du muscle, entre l'inclusion et 24 mois."
+}

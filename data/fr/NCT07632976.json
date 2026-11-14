@@ -1,0 +1,14 @@
+{
+ "h": "fcda47f04043",
+ "date": "2026-11-14",
+ "titre": "EA5 injectable dans le SAPL avec thromboses récidivantes (phase 1)",
+ "question": "L'EA5, inhibiteur du complément, est-il sûr chez des patients atteints de SAPL avec thromboses récidivantes malgré un traitement antithrombotique ?",
+ "contexte": "Une partie des patients atteints de syndrome des antiphospholipides (SAPL) présente des thromboses récidivantes malgré une anticoagulation bien conduite. L'activation du complément est impliquée dans les lésions endothéliales et la thrombose du SAPL et constitue une cible thérapeutique.\n\nL'EA5 est un produit biologique de Shanghai Lanyi Therapeutics dont le registre mentionne une inhibition du complément en pharmacodynamie, sans préciser davantage la cible. Les patients doivent recevoir les vaccins méningococcique (ACYW) et antipneumococcique, ce qui est habituel avec les inhibiteurs du complément en raison du risque infectieux.\n\nCette phase 1 multicentrique, non randomisée et ouverte, inclut environ 12 patients : deux cohortes (faible puis forte dose) reçoivent une dose de charge intraveineuse, puis des injections sous-cutanées toutes les 2 semaines, pendant 24 semaines. Les objectifs sont la sécurité, la tolérance, l'efficacité préliminaire, l'immunogénicité, la pharmacocinétique et les biomarqueurs du SAPL.",
+ "interet": "Première évaluation d'un inhibiteur du complément dans un SAPL réfractaire sur le plan thrombotique. Phase 1 de petite taille, sans conclusion d'efficacité possible.",
+ "profil": "Des adultes atteints de SAPL avec thromboses récidivantes malgré un traitement antithrombotique.",
+ "inclusion": ["Âge ≥ 18 ans", "SAPL selon les critères EULAR/ACR 2023 avec ≥ 2 des 3 anticorps positifs (anticardiolipine, anti-β2GPI, anticoagulant circulant)", "≥ 2 événements thrombotiques dans les 5 dernières années sous traitement antithrombotique, confirmés en imagerie", "Traitement antithrombotique stable depuis ≥ 6 mois", "Vaccination méningococcique ACYW (< 3 ans ou ≥ 14 jours avant la première dose)", "Vaccination antipneumococcique selon les recommandations nationales"],
+ "exclusion": ["Critères d'exclusion non détaillés dans le résumé du registre : non précisé"],
+ "bras": [{"nom": "Cohorte 1 : faible dose", "traitement": "EA5 à faible dose : dose de charge intraveineuse puis injection sous-cutanée toutes les 2 semaines"}, {"nom": "Cohorte 2 : forte dose", "traitement": "EA5 à forte dose : dose de charge intraveineuse puis injection sous-cutanée toutes les 2 semaines"}],
+ "duree": "24 semaines de traitement, suivi jusqu'à la semaine 28",
+ "critere": "Nombre de participants avec événements indésirables liés au traitement, de l'inclusion à la semaine 28"
+}

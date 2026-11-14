@@ -1,0 +1,14 @@
+{
+ "h": "5645eca36abb",
+ "date": "2026-11-14",
+ "titre": "Performance physique et fonctionnalité chez les enfants et adultes atteints de sclérodermie",
+ "question": "Quelle est la performance physique des patients sclérodermiques et quels tests fonctionnels sont les plus adaptés pour l'évaluer ?",
+ "contexte": "La sclérodermie, systémique ou localisée, touche enfants et adultes et retentit sur la capacité physique à cause de l'atteinte cutanée, articulaire, musculaire, pulmonaire et de la fatigue. La capacité fonctionnelle est pourtant peu évaluée en pratique, et les tests de performance utilisables dans cette maladie ne sont pas consensuels.\n\nCette étude observationnelle de cohorte de l'université Hacettepe (Turquie) inclut environ 50 patients, enfants de 7 à 18 ans et adultes, vus en consultation de rhumatologie. Elle les évalue sur un plan biopsychosocial par questionnaires et par une batterie de tests : test de marche de 6 minutes, Timed Up and Go, montée de 10 marches, marche de 10 mètres, lever de chaise en 30 secondes et test Glittre des activités de la vie quotidienne. L'objectif est de décrire la performance et de déterminer quels tests utiliser dans de futures recherches.",
+ "interet": "Les résultats pourraient aider à choisir des tests simples de performance pour le suivi et la rééducation des patients sclérodermiques. L'étude est descriptive et monocentrique.",
+ "profil": "Des enfants de 7 à 18 ans et des adultes atteints de sclérodermie suivis en rhumatologie.",
+ "inclusion": ["Diagnostic de sclérodermie", "Enfants : âge de 7 à 18 ans", "Adultes : âge supérieur à 18 ans", "Volonté de participer"],
+ "exclusion": ["Maladie cardiaque, pulmonaire, hépatique ou rénale avancée", "Maladie neurologique ou cancer", "Programme d'exercice régulier dans les 3 derniers mois", "Refus de participer"],
+ "bras": [{ "nom": "Patients sclérodermiques (enfants et adultes)", "traitement": "Questionnaires et batterie de tests de performance physique, sans intervention thérapeutique" }],
+ "duree": "Environ 2 semaines (évaluation unique)",
+ "critere": "Résultats du test de marche de 6 minutes, du Timed Up and Go, de la montée de marches, de la marche de 10 m, du lever de chaise en 30 s et du test Glittre, sur 2 semaines."
+}

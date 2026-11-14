@@ -1,0 +1,14 @@
+{
+ "h": "ab0dbd721b17",
+ "date": "2026-11-14",
+ "titre": "Registre des traitements antithrombotiques renforcés dans le SAPL avec thrombose artérielle",
+ "question": "Quel est le meilleur traitement antithrombotique chez les patients ayant un SAPL et une thrombose artérielle : AVK, AVK plus aspirine ou double antiagrégation ?",
+ "contexte": "La prise en charge antithrombotique optimale des patients atteints de syndrome des antiphospholipides (SAPL) avec événement artériel est mal établie. Les recommandations proposent plusieurs options, surtout les antivitamines K (AVK) avec ou sans antiagrégant.\n\nUne méta-analyse a suggéré l'intérêt potentiel de la double antiagrégation plaquettaire (DAPT), mais les études incluses étaient peu nombreuses et de petite taille. Les anticoagulants oraux directs sont déconseillés dans cette indication à haut risque.\n\nCe registre observationnel de McMaster University suit 150 patients avec un événement artériel dans les 12 derniers mois, traités selon le choix du médecin : AVK (INR 2-3) plus aspirine faible dose, AVK seul (INR 2-3), AVK à intensité élevée (INR 3-4) ou DAPT. Le suivi dure 2 ans. Les groupes AVK seul servent de référence pour comparer l'association AVK + aspirine à la DAPT.",
+ "interet": "Les données observationnelles pourraient éclairer le choix de la stratégie antithrombotique dans le SAPL artériel, faute d'essais randomisés. Des biais de sélection sont inévitables, car le traitement n'est pas attribué au hasard.",
+ "profil": "Des adultes atteints de SAPL (critères de Sydney) avec thrombose artérielle, première ou récidivante.",
+ "inclusion": ["Âge ≥ 18 ans, SAPL confirmé selon les critères de Sydney", "Manifestation artérielle thrombotique, y compris infarctus cérébral asymptomatique en imagerie", "Traitement par AVK (INR 2-3) plus aspirine faible dose, AVK seul (INR 2-3 ou 3-4) ou double antiagrégation, jugé approprié par le médecin", "Consentement éclairé signé lorsque requis"],
+ "exclusion": ["Suivi impossible (raisons géographiques ou autres)", "Mauvaise observance documentée", "Risque hémorragique rendant dangereuse une association antithrombotique", "Grossesse ou projet de grossesse", "Événement thrombotique veineux diagnostiqué après le dernier événement artériel"],
+ "bras": [{"nom": "AVK (INR 2-3) + aspirine faible dose", "traitement": "AVK avec INR 2,0-3,0 plus aspirine 75-100 mg/j"}, {"nom": "AVK intensité standard", "traitement": "AVK avec INR 2,0-3,0 seul"}, {"nom": "AVK haute intensité", "traitement": "AVK avec INR 3,0-4,0"}, {"nom": "Double antiagrégation plaquettaire", "traitement": "Typiquement aspirine faible dose plus clopidogrel 75 mg/j, ou autre association"}],
+ "duree": "2 ans",
+ "critere": "Événements thromboemboliques confirmés et hémorragies majeures (critères ISTH), à 2 ans"
+}
