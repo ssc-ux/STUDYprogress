@@ -1,0 +1,29 @@
+{
+ "h": "b02fe9501a95r",
+ "date": "2026-11-14",
+ "titre": "Extension à long terme du léniolisib (CDZ173) dans le syndrome APDS/PASLI",
+ "question": "Le léniolisib reste-t-il sûr et efficace au long cours chez les patients atteints de syndrome APDS/PASLI ?",
+ "contexte": "Le syndrome APDS (PASLI) est un déficit immunitaire primitif rare lié à des mutations activatrices de la sous-unité p110δ de la PI3K (gènes PIK3CD ou PIK3R1). Il associe infections récidivantes, lymphoprolifération (adénopathies, splénomégalie), cytopénies auto-immunes et risque accru de lymphome. Les traitements classiques sont symptomatiques : substitution en immunoglobulines, antibioprophylaxie, immunosuppresseurs comme le sirolimus, parfois greffe de cellules souches.\n\nLe léniolisib (CDZ173) est un inhibiteur sélectif oral de PI3Kδ, qui corrige la voie hyperactivée. Il a été évalué dans l'étude de phase 2 CCDZ173X2201 puis dans un essai randomisé de phase 3. Cette étude d'extension ouverte, sans comparateur, propose le traitement prolongé aux patients de ces essais ou déjà traités par d'autres inhibiteurs de PI3Kδ. Elle avait pour but de suivre la tolérance, l'efficacité et la pharmacocinétique à long terme. L'étude est terminée avant son terme prévu ; 37 patients âgés de 12 à 75 ans ont reçu 140 mg par jour.",
+ "interet": "Ce suivi de plus de six ans documente la tolérance à long terme d'un inhibiteur de PI3Kδ ciblé, utile pour juger de l'intérêt d'un traitement chronique dans une maladie ultra-rare.",
+ "profil": "Des patients de 12 à 75 ans atteints de syndrome APDS/PASLI avec mutation PI3Kδ documentée.",
+ "inclusion": [
+  "Participation à l'étude CCDZ173X2201 ou traitement antérieur par un autre inhibiteur de PI3Kδ",
+  "Mutation génétique activatrice de PI3Kδ documentée (APDS/PASLI)",
+  "Bénéfice attendu d'un inhibiteur de PI3Kδ selon l'investigateur",
+  "Consentement écrit (représentants légaux si < 18 ans)",
+  "Capacité à communiquer et à respecter le protocole"
+ ],
+ "exclusion": [
+  "Maladie ou état médical significatif sans rapport avec l'APDS/PASLI",
+  "Autres critères du protocole : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "CDZ173 (léniolisib)",
+   "traitement": "140 mg par jour, en ouvert"
+  }
+ ],
+ "duree": "Jusqu'à environ 6 ans et 3 mois",
+ "critere": "Nombre de participants avec événements indésirables (graves ou non) sous léniolisib, sur 6 ans et 3 mois",
+ "resultats": "L'étude a inclus 37 participants, tous traités par léniolisib (CDZ173). Le critère principal est un critère de tolérance, sans comparaison. Dix participants ont présenté au moins un événement indésirable grave et un décès est rapporté. Le registre ne détaille pas d'analyse d'efficacité ni de conclusion des investigateurs. L'étude a été arrêtée avant son terme."
+}

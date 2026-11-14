@@ -1,0 +1,28 @@
+{
+ "h": "8ee109e00581",
+ "date": "2026-11-14",
+ "titre": "ATG-201 dans le lupus, la sclérodermie et le syndrome de Gougerot-Sjögren",
+ "question": "L'ATG-201 est-il bien toléré et montre-t-il des signes d'activité dans plusieurs maladies auto-immunes ?",
+ "contexte": "Le lupus systémique, la sclérodermie systémique et le syndrome de Gougerot-Sjögren partagent une activation anormale des lymphocytes B et des voies de l'interféron. Les patients réfractaires aux traitements conventionnels ont peu d'options, et le Gougerot-Sjögren ne dispose d'aucun traitement de fond ciblé largement validé.\n\nL'ATG-201 est une molécule en développement chez Antengene Biologics ; le registre n'en précise ni la nature ni la cible. Il s'agit d'un premier essai chez l'humain, de phase 1, ouvert, en deux parties : escalade de dose, puis expansion. Il évalue la tolérance, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'efficacité préliminaire.\n\nLe tocilizumab est cité parmi les médicaments concomitants possibles dans l'étude. Environ 149 adultes sont prévus, avec un suivi de tolérance de 48 semaines.",
+ "interet": "L'étude établira les premières données de tolérance et la dose recommandée de la molécule avant d'éventuelles études comparatives. L'effectif est modeste et sans bras contrôle.",
+ "profil": "Des adultes atteints de lupus systémique, de sclérodermie systémique ou de syndrome de Gougerot-Sjögren.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Consentement éclairé signé",
+  "Capacité à respecter le calendrier des visites",
+  "Contraception efficace jusqu'à 48 semaines après la dernière dose",
+  "Critères propres à chaque maladie : non précisés dans les données consultées"
+ ],
+ "exclusion": [
+  "Intolérance ou allergie au produit ou à un médicament concomitant (tocilizumab)",
+  "Atteinte du système nerveux central, auto-immune ou non",
+  "Syndrome des antiphospholipides catastrophique ou sévère dans les 12 mois",
+  "Pneumopathie interstitielle sévère (oxygénodépendante) ou rapidement progressive",
+  "Maladie intercurrente non contrôlée, greffe d'organe ou de cellules souches"
+ ],
+ "bras": [
+  { "nom": "ATG-201", "traitement": "Escalade de dose (partie I) puis expansion (partie II) ; doses et rythme non précisés" }
+ ],
+ "duree": "48 semaines",
+ "critere": "Tolérance et sécurité (événements indésirables), sur 48 semaines"
+}

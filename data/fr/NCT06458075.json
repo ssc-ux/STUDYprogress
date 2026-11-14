@@ -1,0 +1,14 @@
+{
+ "h": "8f4624bae3f2",
+ "date": "2026-11-14",
+ "titre": "Intervention de communication pour améliorer l'observance dans le lupus (CO-LEAD)",
+ "question": "Former les cliniciens à parler d'observance avec leurs patients lupiques augmente-t-il la fréquence de ces discussions ?",
+ "contexte": "Dans le lupus érythémateux systémique (LES), l'observance des traitements de fond conditionne le contrôle de la maladie et la prévention des dommages d'organe. Les patients noirs ont une moindre observance, liée notamment à des barrières de croyances, d'attitudes et de confiance, et rapportent une moins bonne communication avec leurs médecins.\n\nLes interventions d'observance existantes dans le LES ne ciblent pas la communication patient-soignant. CO-LEAD comporte deux volets : une formation des cliniciens à des stratégies de communication, qui s'appuie sur les dates de renouvellement en pharmacie visibles dans le dossier, et un questionnaire patient validé qui identifie le niveau et les raisons de la non-observance. Cette étude randomisée par clinicien, menée par Duke University dans deux centres académiques, compare cette intervention à la pratique habituelle. Les consultations sont enregistrées pour mesurer la fréquence des discussions sur l'observance.",
+ "interet": "L'étude teste une intervention centrée sur la relation de soin, applicable en consultation de médecine interne ou de rhumatologie. Elle pourrait aider à réduire les inégalités d'observance, sous réserve d'un effet sur l'observance elle-même, non mesuré en critère principal.",
+ "profil": "Des cliniciens de rhumatologie et leurs patients adultes atteints de LES sous traitement.",
+ "inclusion": ["Cliniciens : rhumatologues, praticiens avancés ou fellows, avec consultation ambulatoire ≥ ½ journée par semaine", "Patients ≥ 18 ans, anglophones, capables de consentir", "LES suivi par un clinicien inclus", "Au moins un traitement du LES prescrit", "Médicaments délivrés dans une pharmacie dont les données sont visibles dans le dossier (Surescripts)"],
+ "exclusion": ["Cliniciens ayant participé à l'étude pilote ou partant dans les 12 mois", "Patients non anglophones", "Patients sous corticoïdes seuls", "Accompagnant refusant l'enregistrement audio ou ne pouvant attendre en salle d'attente", "Mineur sans représentant légal ou patient incapable de consentir"],
+ "bras": [{"nom": "Témoin", "traitement": "Cliniciens poursuivant leur pratique habituelle"}, {"nom": "CO-LEAD", "traitement": "Cliniciens formés à la communication sur l'observance, avec questionnaire patient et données de pharmacie"}],
+ "duree": "Jusqu'à 2 ans de période d'intervention",
+ "critere": "Fréquence des discussions sur l'observance pendant la période d'intervention (jusqu'à 2 ans)"
+}

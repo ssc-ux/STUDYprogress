@@ -1,0 +1,14 @@
+{
+ "h": "dd73d78344ae",
+ "date": "2026-11-14",
+ "titre": "Zamto-cel, CAR-T anti-CD19/CD20, dans le lupus et la sclérodermie réfractaires (phase 1, États-Unis)",
+ "question": "Les CAR-T autologues anti-CD19/CD20 zamtocabtagene autoleucel sont-elles sûres chez des patients ayant un lupus ou une sclérodermie réfractaires ?",
+ "contexte": "Le lupus systémique (avec ou sans néphrite) et la sclérodermie systémique diffuse peuvent résister à de multiples lignes de traitement, avec un risque de dommages d'organe irréversibles. Les CAR-T anti-CD19 ont montré des rémissions profondes dans de petites séries, ce qui motive leur évaluation dans plusieurs maladies auto-immunes.\n\nLe zamto-cel (Miltenyi Biomedicine) est un CAR-T autologue à double cible CD19 et CD20, destiné à limiter l'échappement par perte d'un antigène. Cette étude de phase 1 multi-cohortes non randomisée comprend trois cohortes : LES non rénal, néphrite lupique et sclérodermie diffuse. Après leucaphérèse et lymphodéplétion par cyclophosphamide et fludarabine, les patients reçoivent une perfusion de produit frais à 2,5 ou 1,0 × 10^6 cellules CAR+/kg selon le niveau de dose. Trois patients par cohorte sont inclus de façon échelonnée, puis une dose recommandée de phase 2 est définie.",
+ "interet": "Il s'agit d'une étude de tolérance et de dose, sans comparateur. Elle documentera la sécurité de la double cible dans trois indications avant d'éventuelles études d'efficacité.",
+ "profil": "Des adultes atteints de lupus (non rénal ou néphrite) ou de sclérodermie systémique diffuse, réfractaires au traitement standard.",
+ "inclusion": ["Maladie auto-immune confirmée (LES non rénal, néphrite lupique ou sclérodermie diffuse)", "LES : anti-ADN natif ou anti-Sm positifs, SLEDAI-2K ≥ 8 et au moins un BILAG A", "LES : réponse insuffisante aux corticoïdes et à au moins 2 traitements de fond usuels", "Néphrite lupique : confirmation par biopsie, forme active sévère, progression malgré le blocage du SRA", "Néphrite lupique : échec des corticoïdes, de l'hydroxychloroquine et d'au moins un autre traitement"],
+ "exclusion": ["Thérapie génique antérieure", "Cancer actif dans les 5 dernières années", "Infection fongique ou bactérienne active significative", "Lupus du système nerveux central ou autre atteinte du SNC", "DFGe < 45 mL/min/1,73 m²", "Bilirubine totale anormale (hors Gilbert)", "Lupus induit ou neuropsychiatrique (cohorte LES)"],
+ "bras": [{"nom": "Niveau de dose 1", "traitement": "Zamto-cel, perfusion intraveineuse unique après cyclophosphamide et fludarabine"}, {"nom": "Niveau de dose 2", "traitement": "Zamto-cel à l'autre niveau de dose (2,5 ou 1,0 × 10^6 cellules CAR+/kg)"}],
+ "duree": "12 mois après la perfusion",
+ "critere": "Fréquence et gravité des événements indésirables jusqu'à 12 mois ; toxicités limitantes de dose à J28 et dose recommandée de phase 2"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "c44b7a7ac817",
+ "date": "2026-11-14",
+ "titre": "Couplage thêta-gamma à l'EEG, marqueur objectif des troubles cognitifs du lupus",
+ "question": "Le couplage thêta-gamma à l'EEG est-il altéré chez les patientes lupiques et peut-il servir de marqueur objectif de dysfonction cognitive ?",
+ "contexte": "Les troubles cognitifs liés au lupus (attention, apprentissage, mémoire) sont le plus fréquent des 19 syndromes neuropsychiatriques du lupus. Ils concerneraient jusqu'à 80 % des patients et altèrent nettement la qualité de vie. Leur diagnostic repose sur des tests neuropsychologiques longs, sans marqueur objectif validé.\n\nLes oscillations cérébrales thêta et gamma et leur co-modulation (couplage thêta-gamma) sont associées à la mémoire et aux fonctions cognitives. L'hypothèse de l'étude est que ce couplage est perturbé chez les patientes lupiques. L'EEG de surface est un examen non invasif, bien toléré et peu coûteux.\n\nCette étude cas-témoins de Northwell Health (États-Unis) inclut 40 femmes lupiques de 18 à 65 ans, à maladie stable et prednisone ≤ 10 mg/jour, qui ont un hypermétabolisme documenté de l'hippocampe, du lobe temporal ou pariétal en TEP au FDG. L'EEG de repos éveillé dure 20 minutes, avec des épreuves simples de blocs et d'objets en trois dimensions. Un premier objectif porte sur 24 patientes. Le second teste la capacité de l'EEG à prédire les résultats d'une TEP réalisée dans un autre protocole.",
+ "interet": "Un marqueur EEG simple pourrait faciliter le diagnostic et le suivi des troubles cognitifs lupiques, et l'évaluation de futurs traitements. L'étude est exploratoire, sur un petit effectif.",
+ "profil": "Des femmes de 18 à 65 ans atteintes de lupus stable, avec hypermétabolisme cérébral sur TEP au FDG antérieure.",
+ "inclusion": ["Femme de 18 à 65 ans", "Lupus systémique (critères ACR 1997 ou SLICC)", "Maladie et traitement stables depuis 4 semaines", "Prednisone ≤ 10 mg/jour ou équivalent", "Hypermétabolisme de l'hippocampe, du lobe temporal ou pariétal sur TEP au FDG antérieure", "Consentement éclairé"],
+ "exclusion": ["Maladie neurologique (traumatisme crânien sévère, AVC, épilepsie, SEP, démence, migraine)", "Ischémie cérébrale transitoire dans les 6 mois", "Abus de drogue ou d'alcool dans les 12 derniers mois", "Antipsychotique, anticonvulsivant, antidépresseur (hors ISRS) ou anxiolytique en cours", "Poussée lupique récente (hausse du SLEDAI ≥ 3 points) ou DFGe < 30", "Autre maladie auto-immune (hors thyroïdite et Sjögren secondaire)"],
+ "bras": [{"nom": "Femmes lupiques", "traitement": "EEG de repos éveillé avec tâches simples (blocs, objets 3D)"}, {"nom": "Témoins", "traitement": "Non précisé dans le registre"}],
+ "duree": "Une séance d'environ 1 h 30",
+ "critere": "Quantité et relation des ondes thêta et gamma à l'EEG, et performance aux épreuves de construction de blocs et de choix d'objets 3D"
+}

@@ -1,0 +1,37 @@
+{
+ "h": "9237a902e14dr",
+ "date": "2026-11-14",
+ "titre": "TAK-881 (immunoglobuline sous-cutanée facilitée) versus HyQvia dans les déficits immunitaires primitifs",
+ "question": "La pharmacocinétique des IgG sous TAK-881 est-elle comparable à celle de HyQvia chez des patients atteints de déficit immunitaire primitif ?",
+ "contexte": "Les déficits immunitaires primitifs avec défaut de production d'anticorps nécessitent une substitution à vie en immunoglobulines G (IgG). La voie sous-cutanée est une alternative aux perfusions intraveineuses, mais les volumes à perfuser sont importants. HyQvia associe une IgG à 10 % à une hyaluronidase humaine recombinante, qui permet d'administrer de plus grands volumes toutes les 3 ou 4 semaines.\n\nTAK-881 est une IgG sous-cutanée à 20 %, également facilitée par la hyaluronidase, donc à volume réduit de moitié pour une même dose. L'étude de phase 2/3 de Takeda compare TAK-881 à HyQvia en crossover randomisé chez les patients de 16 ans et plus, et évalue TAK-881 seul en bras unique chez l'enfant de 2 à moins de 16 ans. Elle porte sur 65 participants. Les patients sont préalablement traités par IgIV, IgSC conventionnelle ou HyQvia à dose stable. La pharmacocinétique, la tolérance et l'immunogénicité sont étudiées.",
+ "interet": "Un volume d'injection réduit pourrait raccourcir les perfusions et améliorer le confort des patients substitués par voie sous-cutanée.",
+ "profil": "Des enfants (≥ 2 ans) et adultes atteints de déficit immunitaire primitif humoral, déjà substitués en IgG à dose stable.",
+ "inclusion": [
+  "Déficit immunitaire primitif avec défaut de production d'anticorps nécessitant une substitution en IgG (classification IUIS)",
+  "Âge de 2 à < 16 ans (bras unique) ou ≥ 16 ans (crossover)",
+  "Dose stable d'IgIV, d'HyQvia ou d'IgSC conventionnelle depuis au moins 12 semaines, entre 0,3 et 1 g/kg/4 semaines",
+  "IgG résiduelles > 5 g/L au dépistage et dans les 12 semaines précédentes",
+  "Test de grossesse négatif et contraception efficace chez les femmes en âge de procréer",
+  "Capacité à respecter le protocole, y compris les prélèvements pharmacocinétiques"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre"
+ ],
+ "bras": [
+  {
+   "nom": "≥ 16 ans, séquence 1",
+   "traitement": "TAK-881 puis HyQvia, 6 ou 8 perfusions à pleine dose par période"
+  },
+  {
+   "nom": "≥ 16 ans, séquence 2",
+   "traitement": "HyQvia puis TAK-881, 6 ou 8 perfusions à pleine dose par période"
+  },
+  {
+   "nom": "2 à < 16 ans",
+   "traitement": "TAK-881 seul, 6 ou 8 perfusions à pleine dose"
+  }
+ ],
+ "duree": "Jusqu'à 51 semaines (≥ 16 ans) ou 27 semaines (2 à < 16 ans)",
+ "critere": "Aire sous la courbe des IgG totales sur un intervalle de dose à l'état d'équilibre (AUC0-tau) sous TAK-881 et HyQvia chez les participants ≥ 16 ans",
+ "resultats": "Chez les participants de 16 ans et plus (28 analysés), l'aire sous la courbe des IgG totales à l'état d'équilibre était de 326 j·g/L (IC 296 à 359) sous TAK-881 et de 327 j·g/L (IC 297 à 360) sous HyQvia, soit des expositions quasi identiques. Sur le plan de la tolérance, 3 participants ont présenté un événement indésirable grave dans le bras pédiatrique TAK-881 (22 enfants), 1 sous TAK-881 chez les ≥ 16 ans (41 patients) et 3 sous HyQvia (38 patients). Aucun décès n'est rapporté. Les critères secondaires ne sont pas détaillés dans le registre."
+}

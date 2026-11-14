@@ -1,0 +1,27 @@
+{
+ "h": "b3b528692ad6",
+ "date": "2026-11-14",
+ "titre": "Prulacabtagène leucel (cellules CAR-NK anti-CD19) dans les maladies auto-immunes",
+ "question": "La prula-cel est-elle sûre et active dans le lupus, la sclérodermie, les vascularites à ANCA, les myopathies inflammatoires et le syndrome de l'homme raide ?",
+ "contexte": "Les formes réfractaires de lupus (notamment la néphrite lupique), de sclérodermie systémique, de vascularites à ANCA et de myopathies inflammatoires échappent aux immunosuppresseurs et aux biothérapies usuelles. Les CAR-T anti-CD19 autologues ont donné des rémissions prolongées dans de petites séries, mais leur fabrication individualisée et leur toxicité (syndrome de relargage cytokinique, neurotoxicité) limitent leur diffusion.\n\nLa prulacabtagène leucel (ADI-001) est une thérapie cellulaire allogénique anti-CD19 d'Adicet Therapeutics, fondée sur des lymphocytes T γδ porteurs d'un récepteur chimérique. Elle est disponible « sur étagère ». L'étude est de phase 1, multicentrique, ouverte et non randomisée. Elle comporte une escalade de dose puis une extension et une expansion à la dose retenue, après lymphodéplétion et perfusion unique.\n\nPlusieurs cohortes sont prévues selon la maladie, dont une cohorte de néphrite lupique (classe III/IV, en échec d'au moins deux lignes de traitement) et une de lupus à atteinte extrarénale. Environ 180 patients sont prévus, avec un suivi de 2 ans.",
+ "interet": "L'étude fournira la dose recommandée et les premières données de tolérance et d'activité d'un produit cellulaire allogénique dans plusieurs maladies auto-immunes. Elle reste exploratoire, sans comparateur.",
+ "profil": "Des adultes de 18 à 80 ans atteints de maladie auto-immune sévère réfractaire (lupus avec ou sans néphrite, sclérodermie, vascularite à ANCA, myopathie inflammatoire, syndrome de l'homme raide).",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Néphrite lupique de classe III ou IV (± V) prouvée par biopsie récente, protéinurie > 1 g/24 h",
+  "Échec d'au moins deux lignes de traitement, dont mycophénolate, cyclophosphamide ou biothérapie",
+  "Lupus extrarénal : critères EULAR/ACR 2019, SLEDAI-2K ≥ 8, auto-anticorps positifs",
+  "Clairance de la créatinine ≥ 45 mL/min, SpO2 ≥ 93 % en air ambiant",
+  "Critères propres aux autres cohortes : non détaillés ici"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "Escalade de dose", "traitement": "Prula-cel en perfusion unique à doses croissantes pour déterminer la dose maximale tolérée" },
+  { "nom": "Extension de dose", "traitement": "Prula-cel à la dose jugée sûre, patients supplémentaires" },
+  { "nom": "Expansion de dose", "traitement": "Prula-cel à la dose maximale tolérée pour confirmer la dose recommandée de phase 2" }
+ ],
+ "duree": "2 ans",
+ "critere": "Toxicités dose-limitantes par niveau de dose sur 28 jours, et proportion d'événements indésirables liés au traitement ou apparus sous traitement sur 2 ans"
+}

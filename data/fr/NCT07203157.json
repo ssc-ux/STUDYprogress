@@ -1,0 +1,14 @@
+{
+ "h": "bda3368fe245",
+ "date": "2026-11-14",
+ "titre": "Reiki à distance en complément du traitement du lupus systémique (étude pilote)",
+ "question": "Des séances de Reiki en visioconférence sont-elles faisables, acceptables et bénéfiques sur les symptômes de patients lupiques ?",
+ "contexte": "Le lupus systémique entraîne une fatigue, des douleurs et un retentissement important sur la qualité de vie, qui persistent souvent malgré un traitement de fond bien conduit. Beaucoup de patients se tournent vers des approches complémentaires pour mieux gérer ces symptômes.\n\nLe Reiki est une pratique d'inspiration énergétique, sans mécanisme biologique démontré. Les données d'efficacité robustes sont rares, et les études sont souvent de petite taille et sans contrôle. Cette étude pilote menée au NYU Langone Health (États-Unis), avec le soutien de la Daisy Foundation, évalue la faisabilité et l'acceptabilité d'une offre à distance.\n\nVingt patients lupiques sous traitement standard reçoivent une séance hebdomadaire de Reiki par visioconférence (WebEx) pendant 8 semaines, animée par un praticien certifié de niveau II ou plus. L'étude n'a pas de groupe témoin. Le critère principal est le changement d'échelles visuelles analogiques entre l'inclusion et la semaine 4, puis entre les semaines 4 et 8. La nature précise des symptômes mesurés n'est pas détaillée dans le registre.",
+ "interet": "Il s'agit d'un essai de faisabilité sans contrôle : il ne pourra pas démontrer l'efficacité du Reiki. Il pourrait servir de base à un essai randomisé, ou ne pas le justifier.",
+ "profil": "Des adultes lupiques suivis dans un centre universitaire new-yorkais, anglophones et ayant accès à internet.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus systémique (critères ACR/EULAR 2019) traité par le traitement standard", "Suivi au NYU Langone Orthopedic Center", "Accès à internet et capacité d'utiliser WebEx", "Lire, parler et comprendre l'anglais", "Accord pour 8 séances hebdomadaires"],
+ "exclusion": ["Âge < 18 ans", "Maladie sévère nécessitant une hospitalisation au moment du dépistage", "Ne parlant pas ou ne lisant pas l'anglais", "Pas d'accès à internet", "Refus des séances hebdomadaires", "Participation à un autre essai interventionnel"],
+ "bras": [{"nom": "Reiki à distance", "traitement": "Une séance de Reiki en visioconférence par semaine pendant 8 semaines, en plus du traitement standard"}],
+ "duree": "8 semaines",
+ "critere": "Variation de scores sur échelles visuelles analogiques entre l'inclusion et la semaine 4, puis entre les semaines 4 et 8"
+}

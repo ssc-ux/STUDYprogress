@@ -1,0 +1,35 @@
+{
+ "h": "6efb3cdb6ea4r",
+ "date": "2026-11-14",
+ "titre": "Garadacimab en prophylaxie de l'angiœdème héréditaire chez l'enfant de 2 à 11 ans",
+ "question": "Le garadacimab sous-cutané est-il bien toléré et quelle est sa pharmacocinétique chez l'enfant de 2 à 11 ans atteint d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AEH) par déficit en inhibiteur de C1 débute souvent dans l'enfance et provoque des crises d'œdèmes douloureux, parfois laryngés. Les options de prophylaxie de fond chez l'enfant sont limitées : inhibiteur de C1 en perfusion ou sous-cutané, et lanadelumab à partir de 2 ans, avec des contraintes d'administration.\n\nLe garadacimab (CSL312) est un anticorps monoclonal dirigé contre le facteur XIIa, qui bloque l'activation de la cascade de contact et la production de bradykinine. Il est déjà évalué chez l'adulte et l'adolescent en injection sous-cutanée mensuelle. Cette étude ouverte de phase 3 de CSL Behring l'évalue chez l'enfant de 2 à 11 ans, avec un schéma mensuel (Q1M) ou tous les deux mois (Q2M), pour décrire sa sécurité, sa pharmacocinétique, sa pharmacodynamie et son efficacité. Elle inclut 22 enfants et est terminée.",
+ "interet": "Si la tolérance et l'exposition sont satisfaisantes, le garadacimab pourrait offrir une prophylaxie pédiatrique par injection espacée.",
+ "profil": "Des enfants de 2 à 11 ans atteints d'AEH par déficit en inhibiteur de C1, avec au moins 2 crises dans les 6 mois précédents.",
+ "inclusion": [
+  "Garçons ou filles de 2 à 11 ans, poids ≥ 10e percentile pour l'âge",
+  "AEH par déficit en inhibiteur de C1 confirmé cliniquement",
+  "Au moins 2 crises d'AEH dans les 6 mois avant le dépistage"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème (idiopathique, acquis, associé à l'urticaire, AEH de type 3)",
+  "Prophylaxie de fond récente (inhibiteur de C1, androgènes, antifibrinolytiques, autres) dans les 2 semaines",
+  "Participation à une autre étude interventionnelle dans les 30 jours ou 5 demi-vies",
+  "Anomalies biologiques hématologiques ou biochimiques cliniquement significatives",
+  "Traitement non autorisé en cours",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Garadacimab Q1M",
+   "traitement": "Garadacimab sous-cutané une fois par mois, dose selon l'âge (2-5 ans et 6-11 ans)"
+  },
+  {
+   "nom": "Garadacimab Q2M",
+   "traitement": "Garadacimab sous-cutané tous les deux mois, dose selon l'âge"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Événements indésirables survenus sous traitement et paramètres pharmacocinétiques (Cmax, Ctrough, Tmax) à l'état d'équilibre jusqu'au mois 12",
+ "resultats": "Vingt-deux enfants ont été traités : 16 en schéma mensuel (Q1M) et 6 en schéma bimestriel (Q2M). Au moins un événement indésirable sous traitement est survenu chez 68,8 % des enfants du groupe Q1M (11/16 ; 51 événements) et chez 83,3 % du groupe Q2M (5/6 ; 14 événements). Un seul événement indésirable grave est rapporté, dans le groupe Q1M, et aucun décès. Les valeurs pharmacocinétiques chiffrées ne sont pas détaillées ici. Les résultats d'efficacité n'étaient pas des critères principaux."
+}

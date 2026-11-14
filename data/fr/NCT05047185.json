@@ -1,0 +1,44 @@
+{
+ "h": "bb52ab73efdar",
+ "date": "2026-11-14",
+ "titre": "Deucrictibant oral en prophylaxie des crises d'angiœdème héréditaire de type I ou II",
+ "question": "Le deucrictibant oral, deux fois par jour, réduit-il les crises d'angiœdème héréditaire par rapport au placebo ?",
+ "contexte": "L'angiœdème héréditaire (AEH) de type I ou II est dû à un déficit en inhibiteur de C1 et se manifeste par des crises d'œdèmes imprévisibles. Les prophylaxies de fond disponibles reposent surtout sur des injections (lanadelumab, inhibiteur de C1) ou sur le berotralstat oral, de puissance modérée. Un traitement oral très efficace reste un besoin non couvert.\n\nLe deucrictibant (PHA-022121) est un antagoniste oral du récepteur B2 de la bradykinine. Cette étude de phase 2 de Pharvaris (CHAPTER-1) comprend une partie 1 randomisée en double aveugle sur 12 semaines (deux doses ou placebo, deux fois par jour), suivie d'une partie 2 ouverte jusqu'à 30 mois à la dose la plus élevée. Elle a été arrêtée avant son terme, avec 34 patients.",
+ "interet": "Elle fournit une preuve de concept pour une prophylaxie orale par antagoniste du récepteur B2, avec un effet dose attendu.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'angiœdème héréditaire de type I ou II.",
+ "inclusion": [
+  "Consentement éclairé signé",
+  "AEH de type I ou II",
+  "Au moins 3 crises dans les 3 derniers mois, ou 2 crises pendant la période de dépistage",
+  "Accès fiable aux traitements de crise standard et expérience de leur usage"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "ECG anormal cliniquement significatif",
+  "Autre maladie systémique significative gênant la sécurité ou la participation",
+  "Traitement préalable récent par inhibiteur de C1, inhibiteur oral de la kallikréine, androgènes atténués, antifibrinolytiques ou anticorps monoclonal",
+  "Anomalie de la fonction hépatique ou rénale",
+  "Antécédent récent d'abus d'alcool ou de drogues"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1 : placebo",
+   "traitement": "Placebo, deux fois par jour"
+  },
+  {
+   "nom": "Partie 1 : dose faible",
+   "traitement": "Deucrictibant 10 mg deux fois par jour"
+  },
+  {
+   "nom": "Partie 1 : dose élevée",
+   "traitement": "Deucrictibant 20 mg deux fois par jour"
+  },
+  {
+   "nom": "Partie 2 : ouvert",
+   "traitement": "Deucrictibant 20 mg deux fois par jour, jusqu'à 30 mois"
+  }
+ ],
+ "duree": "12 semaines (partie 1), puis jusqu'à 30 mois (partie 2)",
+ "critere": "Nombre de crises d'AEH confirmées par l'investigateur, normalisé par mois (4 semaines) d'exposition, pendant la partie 1 (jusqu'au jour 84)",
+ "resultats": "En partie 1, le taux mensuel de crises était de 1,93 sous placebo (11 patients), 0,40 sous deucrictibant 10 mg deux fois par jour (11 patients) et 0,30 sous 20 mg deux fois par jour (12 patients). Les intervalles de confiance et valeurs de p ne sont pas détaillés dans le registre. Aucun événement indésirable grave n'est rapporté en partie 1, dans aucun groupe. En partie 2 ouverte (30 patients sous 20 mg), 2 patients ont eu un événement indésirable grave. Aucun décès n'est signalé."
+}

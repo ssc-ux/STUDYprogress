@@ -1,0 +1,14 @@
+{
+ "h": "d5b023f4000d",
+ "date": "2026-11-14",
+ "titre": "miR-101-3p et autotaxine comme biomarqueurs dans le lupus érythémateux systémique",
+ "question": "Les taux sériques de miR-101-3p et d'autotaxine diffèrent-ils entre patients lupiques et témoins sains, et sont-ils liés à l'activité de la maladie ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène, dont l'activité est difficile à suivre avec les seuls marqueurs usuels (anti-ADN natif, complément). Des biomarqueurs non invasifs plus sensibles de l'activité et du pronostic restent recherchés.\n\nLes microARN régulent l'expression de gènes impliqués dans l'inflammation et l'immunité, et leur dérégulation a été décrite dans le LES. L'autotaxine produit l'acide lysophosphatidique, médiateur pro-inflammatoire et pro-fibrosant. Cette étude cas-témoins descriptive, menée par une équipe égyptienne, compare 40 patients lupiques (critères SLICC 2012) à 40 témoins sains appariés sur l'âge et le sexe. Le miR-101-3p sera dosé par RT-PCR quantitative, l'autotaxine et l'IL-6 par ELISA, puis corrélés à l'activité (SLEDAI-2K) et aux dommages (SDI).",
+ "interet": "L'étude pourrait faire émerger des marqueurs diagnostiques ou pronostiques et de nouvelles cibles thérapeutiques. Sa petite taille et son design transversal limitent la portée clinique des conclusions.",
+ "profil": "Des adultes atteints de lupus systémique et des témoins sains appariés.",
+ "inclusion": ["Âge ≥ 18 ans", "Diagnostic de LES selon les critères SLICC 2012 (patients)", "Témoins sains appariés sur l'âge et le sexe", "Consentement éclairé"],
+ "exclusion": ["Âge < 18 ans", "Grossesse ou allaitement", "Infection active ou cancer", "Autre maladie auto-immune associée", "Refus de participer"],
+ "bras": [{"nom": "Patients lupiques (n = 40)", "traitement": "Dosage sanguin de miR-101-3p, autotaxine et IL-6, avec recueil clinique (SLEDAI-2K, SDI)"}, {"nom": "Témoins sains (n = 40)", "traitement": "Mêmes dosages sanguins"}],
+ "duree": "Prélèvement unique ; durée de l'étude estimée à 6 mois",
+ "critere": "Taux sériques de miR-101-3p et d'autotaxine chez les patients lupiques comparés aux témoins (6 mois prévus)"
+}

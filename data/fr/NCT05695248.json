@@ -1,0 +1,36 @@
+{
+ "h": "3f7c2fa39d21r",
+ "date": "2026-11-14",
+ "titre": "Navenibart (STAR-0215), anticorps anti-kallikréine d'action prolongée, dans l'angiœdème héréditaire",
+ "question": "Le navenibart, anticorps monoclonal anti-kallikréine plasmatique, est-il bien toléré et réduit-il les crises d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire (AEH) de types I et II provoque des crises d'œdèmes récidivantes qui altèrent la qualité de vie. Les prophylaxies existantes exigent des injections toutes les 2 à 4 semaines ou une prise orale quotidienne. Espacer les administrations à plusieurs mois est un objectif de développement majeur.\n\nLe navenibart (STAR-0215) est un anticorps monoclonal à longue demi-vie inhibant la kallikréine plasmatique, donc la production de bradykinine. Cette étude de phase 1b/2 d'Astria (ALPHA-STAR), ouverte et non randomisée, est la première chez des patients atteints d'AEH. Trois cohortes séquentielles ont reçu : 450 mg en dose unique ; 600 mg puis 300 mg trois mois plus tard ; 600 mg puis 600 mg un mois plus tard. Les participants pouvaient ensuite entrer dans l'extension ouverte ALPHA-SOLAR (NCT06007677). Elle a inclus 29 adultes.",
+ "interet": "Les résultats soutiennent le développement d'une prophylaxie par injection tous les 3 ou 6 mois, ce qui réduirait fortement la charge thérapeutique.",
+ "profil": "Des adultes atteints d'angiœdème héréditaire de type I ou II avec au moins 2 crises pendant la période d'observation.",
+ "inclusion": [
+  "AEH de type I ou II documenté, avec histoire clinique compatible",
+  "Au moins 2 crises confirmées par l'investigateur pendant la période d'observation (run-in)"
+ ],
+ "exclusion": [
+  "Autre angiœdème chronique (acquis, AEH de type III, idiopathique, associé à l'urticaire)",
+  "Prophylaxie récente : lanadelumab < 90 jours, berotralstat < 21 jours, autres < 7 jours",
+  "IEC ou œstrogènes à absorption systémique dans les 28 jours",
+  "Androgènes dans les 7 jours avant le dépistage"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1",
+   "traitement": "Navenibart 450 mg, dose unique"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "Navenibart 600 mg puis 300 mg trois mois plus tard"
+  },
+  {
+   "nom": "Cohorte 3",
+   "traitement": "Navenibart 600 mg, deux doses à un mois d'intervalle"
+  }
+ ],
+ "duree": "Jusqu'à environ 9 mois (6 mois après la dernière dose)",
+ "critere": "Nombre de participants avec événements indésirables survenus sous traitement jusqu'à la fin du suivi (jour 448, 531 ou 475 selon la cohorte)",
+ "resultats": "Les 29 participants ont reçu le navenibart et terminé l'étude. Des événements indésirables sont survenus chez 4/4 patients (cohorte 1), 9/13 (cohorte 2) et 12/12 (cohorte 3), sans événement grave ni arrêt pour événement indésirable. Les plus fréquents étaient céphalées, rhinopharyngite et infections urinaires. Selon la publication (J Allergy Clin Immunol 2026), le taux mensuel moyen de crises passait de 2,23 (écart-type 1,46) à l'inclusion à 0,31 (0,48) sous navenibart, soit une réduction moyenne de 86,3 % (médiane 95,4 %). Les scores de qualité de vie AE-QoL s'amélioraient de 21,0 à 30,3 points. Les auteurs concluent à une bonne tolérance et à un soutien pour des administrations tous les 3 ou 6 mois."
+}

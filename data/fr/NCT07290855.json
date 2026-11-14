@@ -1,0 +1,31 @@
+{
+ "h": "b96204a07ff0",
+ "date": "2026-11-14",
+ "titre": "Icatibant (Icanticure) dans les crises d'angiœdème bradykinique, étude de phase 4 à Taïwan",
+ "question": "L'icatibant est-il sûr et efficace pour traiter les crises d'angiœdème bradykinique chez des patients sans accès au remboursement habituel ?",
+ "contexte": "L'angiœdème bradykinique, dont la forme héréditaire (AEH) par déficit en inhibiteur de C1 est la plus connue, provoque des œdèmes récidivants de la peau, du tube digestif et des voies aériennes, parfois mortels en cas d'atteinte laryngée. L'icatibant, antagoniste du récepteur B2 de la bradykinine, est un traitement de référence de la crise, administré par voie sous-cutanée.\n\nÀ Taïwan, l'icatibant est remboursé dans l'AEH diagnostiqué, mais certains patients atypiques n'y ont pas accès. Le laboratoire Nang Kuang fournit donc gratuitement sa version d'icatibant (Icanticure) dans cette étude de phase 4 ouverte, à bras unique, qui collecte prospectivement les cas. L'étude porte sur 5 patients et est terminée.",
+ "interet": "Elle documente l'usage d'un icatibant générique dans des formes d'angiœdème bradykinique atypiques, hors cadre de remboursement, avec un effectif très limité.",
+ "profil": "Des adultes de 20 ans et plus ayant un angiœdème bradykinique, traités lors d'une crise aiguë.",
+ "inclusion": [
+  "Âge ≥ 20 ans",
+  "Consentement éclairé signé",
+  "Angiœdème bradykinique diagnostiqué selon l'investigateur (crises récidivantes, atteinte abdominale ou laryngée, absence d'urticaire, antécédents familiaux ou anomalie génétique)",
+  "Capacité à remplir les questionnaires de résultats rapportés par le patient"
+ ],
+ "exclusion": [
+  "Allergie connue à l'icatibant",
+  "Angiœdème d'une autre nature que bradykinique",
+  "Participation à une autre étude dans les 30 jours",
+  "Atteinte hépatique (transaminases ou phosphatases alcalines > 2,5 N, bilirubine ≥ 1,5 N)",
+  "Insuffisance rénale (clairance ≤ 40 mL/min, créatinine ou urée ≥ 1,5 N)",
+  "Anomalie hématologique ou de la coagulation"
+ ],
+ "bras": [
+  {
+   "nom": "Icatibant (Icanticure)",
+   "traitement": "Injection d'icatibant lors d'une crise aiguë ; dose non précisée"
+  }
+ ],
+ "duree": "Une crise traitée par patient ; durée de suivi non précisée",
+ "critere": "Délai jusqu'à la résolution complète ou quasi complète des symptômes rapportée par le patient (environ 8 à 10 heures attendues)"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "c09e0427bee7r",
+ "date": "2026-11-14",
+ "titre": "Extension ouverte de la donidalorsen dans l'angiœdème héréditaire",
+ "question": "La donidalorsen reste-t-elle bien tolérée et efficace sur le long terme dans l'angiœdème héréditaire, avec des schémas posologiques adaptables ?",
+ "contexte": "L'angiœdème héréditaire (AEH) est une maladie rare, le plus souvent due à un déficit quantitatif ou fonctionnel en inhibiteur de C1 (types I et II), plus rarement à une forme à inhibiteur de C1 normal. Elle se manifeste par des crises d'œdème imprévisibles, douloureuses et parfois menaçantes pour les voies aériennes. Les traitements de fond actuels (lanadelumab, berotralstat, inhibiteur de C1 en prophylaxie) exigent des administrations fréquentes ou chroniques.\n\nLa donidalorsen (IONIS-PKK-LRx) est un oligonucléotide antisens ciblant l'ARN messager de la prékallikréine, qui réduit la production de kallikréine plasmatique et donc de bradykinine. Elle s'administre par voie sous-cutanée toutes les 4 ou 8 semaines. Cette extension ouverte de phase 2 reprend les patients de l'étude ISIS 721744-CS2 (NCT04030598) : 80 mg toutes les 4 semaines pendant 13 semaines, puis dose et fréquence adaptables (80 mg toutes les 8 semaines si aucune crise depuis 12 semaines, 100 mg toutes les 4 semaines si crises persistantes), avec une période étendue jusqu'à 156 semaines supplémentaires.",
+ "interet": "Elle apporte des données de tolérance et d'efficacité sur plus de quatre ans et teste une fréquence d'injection espacée, un enjeu pour la qualité de vie des patients.",
+ "profil": "Des adultes atteints d'angiœdème héréditaire (types I/II ou à inhibiteur de C1 normal) ayant terminé l'étude de phase 2 précédente.",
+ "inclusion": [
+  "Participation à l'étude ISIS 721744-CS2 jusqu'à la semaine 17 avec une tolérance acceptable",
+  "Volonté de participer à une étude de 64 semaines",
+  "Femmes non enceintes, non allaitantes, stériles chirurgicalement ou ménopausées",
+  "Hommes stériles, abstinents ou utilisant une contraception acceptable",
+  "Accès à au moins un traitement de crise (inhibiteur de C1, antagoniste du récepteur B2)"
+ ],
+ "exclusion": [
+  "Nouvelle affection ou aggravation d'une affection existante jugée incompatible avec l'étude",
+  "Changement de traitement jugé susceptible de gêner la participation"
+ ],
+ "bras": [
+  {
+   "nom": "AEH type I/II",
+   "traitement": "Donidalorsen 80 mg SC toutes les 4 semaines, puis 80 mg toutes les 8 semaines ou 100 mg toutes les 4 semaines selon les crises"
+  },
+  {
+   "nom": "AEH à inhibiteur de C1 normal",
+   "traitement": "Donidalorsen 80 mg SC toutes les 4 semaines, puis 80 ou 100 mg toutes les 4 semaines selon les crises"
+  }
+ ],
+ "duree": "Environ 68 semaines, avec une période étendue jusqu'à 156 semaines supplémentaires",
+ "critere": "Fréquence des événements indésirables survenus sous traitement, anomalies biologiques, des constantes, de l'ECG et traitements associés, jusqu'à la semaine 221",
+ "resultats": "Vingt participants ont été inclus : 17 avec AEH de type I/II et 3 avec AEH à inhibiteur de C1 normal. Des événements indésirables sous traitement ont été rapportés chez 70,6 % des patients de type I/II et 66,7 % des patients à inhibiteur de C1 normal pendant la période à dose fixe. En période de dose flexible, ils ont concerné 84,6 % des patients sous 80 mg toutes les 4 semaines, 62,5 % sous 80 mg toutes les 8 semaines et 100 % dans les petits groupes sous 100 mg toutes les 4 semaines (1 à 2 patients par groupe). Aucune modification biologique cliniquement significative n'a été relevée dans aucun groupe. Les résultats détaillés d'efficacité et d'événements graves ne sont pas repris ici."
+}

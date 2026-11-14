@@ -1,0 +1,26 @@
+{
+ "h": "aac2bf6df9d1",
+ "date": "2026-11-14",
+ "titre": "Autogreffe de cellules souches pour lupus et sclérodermie sévères de l'enfant et du jeune adulte",
+ "question": "Une autogreffe de cellules souches déplétées en CD3/CD19 permet-elle une survie sans progression à 2 ans dans le lupus ou la sclérodermie sévères ?",
+ "contexte": "Certaines formes de lupus et de sclérodermie systémique de l'enfant et du jeune adulte menacent le pronostic vital et résistent aux traitements conventionnels. Les options sont limitées et les séquelles d'organe s'accumulent.\n\nChez l'adulte, une immunosuppression à haute dose suivie d'une autogreffe de cellules souches hématopoïétiques vise à éliminer le système immunitaire auto-réactif et à le reconstituer (« réinitialisation immunitaire »). Les essais dans la sclérodermie (ASSIST, SCOT, ASTIS) ont montré un bénéfice sur la survie ou la fonction, au prix d'une toxicité significative. Les données pédiatriques sont rares.\n\nCette étude de phase 2 pilote, monobras et ouverte, du Children's Hospital of Philadelphia (promoteur Stephan Grupp) propose cette stratégie à 20 patients de 8 à 25 ans, avec un produit autologue déplété en lymphocytes CD3 et CD19 pour réduire la réinjection de cellules auto-réactives.",
+ "interet": "L'étude apportera des données pédiatriques de faisabilité, de tolérance et de contrôle de la maladie pour une stratégie lourde. Elle pourrait aider à définir la place de l'autogreffe chez les jeunes patients en échec thérapeutique.",
+ "profil": "Des enfants et jeunes adultes de 8 à 25 ans atteints de lupus ou de sclérodermie systémique sévères.",
+ "inclusion": [
+  "Âge de 8 à 25 ans à l'inclusion",
+  "Sclérodermie systémique ou lupus sévères selon des critères spécifiques à l'étude",
+  "Fonction d'organe adéquate",
+  "Absence d'infection active non traitée"
+ ],
+ "exclusion": [
+  "Greffe de cellules souches hématopoïétiques ou d'organe antérieure",
+  "Grossesse",
+  "Participation à un autre essai de médicament ou traitement de fond non autorisé",
+  "Comorbidité sévère compromettant la tolérance du traitement"
+ ],
+ "bras": [
+  { "nom": "Autogreffe déplétée CD3/CD19", "traitement": "Immunosuppression à haute dose puis autogreffe de cellules souches CD3/CD19-déplétées ; schéma de conditionnement non précisé" }
+ ],
+ "duree": "2 ans",
+ "critere": "Survie sans progression à 2 ans"
+}

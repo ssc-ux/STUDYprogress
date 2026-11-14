@@ -1,0 +1,14 @@
+{
+ "h": "6d1166144fcd",
+ "date": "2026-11-14",
+ "titre": "Étude de l'histoire naturelle et de la génétique du lupus érythémateux systémique (NIH)",
+ "question": "Comment le lupus systémique se développe-t-il et évolue-t-il, et quels facteurs génétiques y prédisposent ?",
+ "contexte": "Le lupus érythémateux systémique (LES) touche surtout les femmes jeunes, avec une prévalence plus élevée chez les patients d'origine afro-américaine et hispanique. Son évolution est marquée par des poussées et par des dommages d'organe, notamment vasculaires, dont les mécanismes restent incomplètement compris.\n\nCe protocole du NIAMS (NIH), ouvert depuis 1994, constitue une cohorte longitudinale de patients ayant un LES connu ou suspecté, à partir de 3 ans, de leurs apparentés de 1er et 2e degré et de volontaires sains. Les patients sont évalués au Clinical Center par examen clinique, bilans sanguins et urinaires, et selon les cas ECG, imagerie, biopsie cutanée ou aphérèse. Des prélèvements sont conservés pour des études génétiques. Un sous-groupe passe des tests vasculaires pour comprendre les lésions des vaisseaux. Les patients éligibles peuvent aussi être orientés vers d'autres protocoles du NIH.",
+ "interet": "Cette cohorte sert de base à des travaux sur la pathogenèse et la génétique du LES. Elle ne teste pas de traitement et n'a pas de conséquence directe sur la pratique.",
+ "profil": "Des patients de tous âges (dès 3 ans) ayant un lupus connu ou suspecté, leurs apparentés et des volontaires sains.",
+ "inclusion": ["LES établi ou suspecté selon les critères ACR ou ACR/EULAR", "Patients âgés d'au moins 3 ans, sans limite supérieure", "Apparentés de 1er et 2e degré (études génétiques)", "Volontaires sains (≥ 18 ans, ou ≥ 3 ans pour les apparentés)", "Études vasculaires réservées aux adultes", "Consentement du patient ou des parents"],
+ "exclusion": ["Pathologies associées gênant l'interprétation (VIH, cancer actif, autres affections significatives)", "Conditions pour lesquelles le NIH ne peut assurer la prise en charge", "Incapacité ou refus de respecter le suivi (distance, limitations sociales ou physiques)", "Comorbidités jugées excluantes par l'investigateur principal", "Refus de participer aux recherches ou de fournir des échantillons"],
+ "bras": [{"nom": "Patients lupiques", "traitement": "Cohorte longitudinale avec bilans cliniques et biologiques, prélèvements de recherche"}, {"nom": "Apparentés", "traitement": "Recueil pour études génétiques"}, {"nom": "Volontaires sains non apparentés", "traitement": "Témoins pour les analyses"}],
+ "duree": "Suivi longitudinal ouvert, sans durée fixée par patient",
+ "critere": "Histoire naturelle du LES (suivi jusqu'en 2050)"
+}

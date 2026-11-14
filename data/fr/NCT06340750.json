@@ -1,0 +1,14 @@
+{
+ "h": "1b5acd071d2c",
+ "date": "2026-11-14",
+ "titre": "CAR-T BAFF (LMY-920) autologues dans le lupus systémique réfractaire",
+ "question": "Les CAR-T dirigés contre le récepteur de BAFF (LMY-920) sont-ils sûrs, et quelle dose recommander pour la phase 2 dans le lupus réfractaire ?",
+ "contexte": "Le lupus systémique actif malgré les traitements standards (corticoïdes, hydroxychloroquine, immunosuppresseurs, rituximab, bélimumab) reste un besoin non couvert. Les CAR-T anti-CD19 ont donné des rémissions prometteuses, mais certains patients rechutent, parfois avec une réapparition de lymphocytes B.\n\nLMY-920 est un CAR-T autologue dont la partie reconnaissante est le ligand BAFF (BAFF-ligand), qui lie les récepteurs de BAFF présents sur les lymphocytes B. Cela permet de cibler plusieurs récepteurs à la fois (BAFF-R, TACI, BCMA), donc potentiellement les lymphocytes B et certains plasmocytes. Cette approche est déjà explorée en hématologie.\n\nCet essai de phase 1 ouvert (Luminary Therapeutics, Nationwide Children's Hospital) utilise une escalade de dose de type 3+3 sur trois niveaux, avec un niveau de désescalade. Les perfusions sont espacées d'au moins 14 jours. Le niveau de dose maximale tolérée peut être élargi à 6 patients, puis jusqu'à 40 patients au total pour mieux évaluer tolérance et efficacité. Les patients ont un lupus actif malgré un traitement standard associé à au moins un autre traitement, ou une corticodépendance.",
+ "interet": "L'étude définira la dose et la tolérance d'un CAR-T ciblant BAFF, avec une ambition de couverture plus large que le CD19 seul. Elle prépare une éventuelle phase 2.",
+ "profil": "Des adultes de 18 à 69 ans atteints de lupus systémique actif, réfractaire ou corticodépendant.",
+ "inclusion": ["Âge de 18 à 69 ans", "Lupus systémique (critères SLICC 2012)", "Maladie active malgré corticoïdes et hydroxychloroquine plus au moins un autre traitement (MMF, méthotrexate, azathioprine, tacrolimus, cyclophosphamide, rituximab, bélimumab), ou corticodépendance", "Clairance de la créatinine ≥ 30 mL/min, FEVG ≥ 40 %, saturation ≥ 92 %", "Bilirubine ≤ 1,5 N, ALAT et ASAT < 3 N"],
+ "exclusion": ["Lupus neuropsychiatrique actif", "Lymphohistiocytose hémophagocytaire secondaire active", "Infection active non traitée, hépatite B active ou latente, hépatite C active, VIH positif", "Toxicité neurologique en cours de grade > 1", "Syndrome génétique avec insuffisance médullaire ou myélodysplasie", "Grossesse ou allaitement"],
+ "bras": [{"nom": "CAR-T BAFF", "traitement": "LMY-920, CAR-T BAFF autologues, en dose unique, en escalade sur 3 niveaux (3+3)"}],
+ "duree": "Jusqu'à 5 ans",
+ "critere": "Tolérance du traitement et dose recommandée pour la phase 2, sur 5 ans"
+}

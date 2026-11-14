@@ -1,0 +1,30 @@
+{
+ "h": "ae8e98597937",
+ "date": "2026-11-14",
+ "titre": "Tacrolimus versus mycophénolate dans la néphrite lupique active",
+ "question": "L'association corticoïdes et tacrolimus est-elle aussi efficace que corticoïdes et mycophénolate pour obtenir une réponse rénale soutenue dans la néphrite lupique ?",
+ "contexte": "La néphrite lupique proliférative (classes III/IV, ± V) est une manifestation grave du lupus, dont le traitement d'induction repose sur les corticoïdes associés au mycophénolate mofétil (MMF) ou au cyclophosphamide. Une part importante des patients n'obtient pas de rémission complète, et la toxicité de ces traitements pèse sur les femmes en âge de procréer.\n\nLe tacrolimus est un inhibiteur de la calcineurine, bien connu en transplantation. Il agit sur l'activation T et pourrait aussi stabiliser les podocytes, ce qui réduit la protéinurie. Des données, surtout asiatiques, suggèrent une efficacité comparable au MMF dans l'induction de la néphrite lupique.\n\nCette étude de phase 3 est un essai randomisé en ouvert, multicentrique international (Asie), promu par l'Université de Hong Kong. Elle compare directement les deux schémas chez des patients incidents ou en rechute, sur 96 semaines.",
+ "interet": "L'étude peut confirmer le tacrolimus comme alternative au MMF dans l'induction de la néphrite lupique, notamment chez les patients pour qui le MMF ou le cyclophosphamide posent problème. Elle apportera des données sur la réponse soutenue à 2 ans.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique active classe III/IV ± V.",
+ "inclusion": [
+  "Néphrite lupique classe III/IV ± V (ISN/RPS 2003) prouvée par biopsie dans les 12 semaines",
+  "Anti-ADN natif positifs",
+  "Protéinurie active : rapport protéinurie/créatininurie ≥ 1 ou protéinurie des 24 h ≥ 1 g",
+  "Patients incidents ou en poussée",
+  "Âge de 18 à 75 ans"
+ ],
+ "exclusion": [
+  "Atteinte rénale non lupique ou greffe rénale",
+  "DFG (MDRD) ≤ 20 mL/min/1,73 m² ou créatininémie ≥ 300 µmol/L",
+  "Croissants cellulaires ou fibrocellulaires dans plus de 25 % des glomérules",
+  "Atteinte neurologique centrale ou autre atteinte sévère justifiant une immunosuppression intensive",
+  "Corticoïdes ≥ 20 mg/j pendant plus de 4 semaines, ou MMF > 1,5 g/j, dans les 3 mois",
+  "Inhibiteur de la calcineurine en cours ou récent, ou HTA non contrôlée"
+ ],
+ "bras": [
+  { "nom": "Tacrolimus", "traitement": "Tacrolimus oral avec corticoïdes, pendant 96 semaines (dose non précisée)" },
+  { "nom": "Mycophénolate mofétil", "traitement": "MMF oral avec corticoïdes, pendant 96 semaines (dose non précisée)" }
+ ],
+ "duree": "96 semaines",
+ "critere": "Réponse rénale soutenue à 96 semaines"
+}

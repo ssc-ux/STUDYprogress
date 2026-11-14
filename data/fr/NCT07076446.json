@@ -1,0 +1,32 @@
+{
+ "h": "e8c5fdb5092c",
+ "date": "2026-11-14",
+ "titre": "Pharmacocinétique et tolérance de l'IgPro20 sous-cutanée dans le déficit immunitaire primitif, chez des adultes naïfs d'immunoglobulines",
+ "question": "Quelle est la pharmacocinétique et la tolérance de l'immunoglobuline sous-cutanée IgPro20 chez des adultes atteints de déficit immunitaire primitif jamais traités par immunoglobulines ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP) avec défaut de production d'anticorps, comme le déficit immunitaire commun variable ou l'agammaglobulinémie, exposent à des infections bactériennes récidivantes et sévères. Le traitement de référence est la substitution en immunoglobulines (Ig) polyvalentes, par voie intraveineuse ou sous-cutanée, à vie.\n\nL'IgPro20 est une préparation d'Ig sous-cutanée stabilisée par la proline, déjà utilisée chez des patients préalablement substitués. Les données sont plus limitées chez les patients naïfs d'Ig, qui n'ont pas de taux résiduel d'IgG et pour lesquels une dose de charge est nécessaire pour atteindre rapidement des taux protecteurs. Cette étude de phase 4, ouverte et à un seul bras, est menée aux États-Unis par CSL Behring. Elle prévoit une dose de charge quotidienne pendant 5 jours, puis une administration hebdomadaire jusqu'à la semaine 12. Elle inclut 8 participants et est terminée.",
+ "interet": "Elle précise le schéma de charge et les taux résiduels d'IgG obtenus sous IgPro20 chez les patients naïfs. Les résultats pourraient aider à instaurer une substitution sous-cutanée d'emblée, sans passer par la voie intraveineuse. L'effectif très limité restreint la portée des conclusions.",
+ "profil": "Des adultes atteints de déficit immunitaire primitif, jamais traités par immunoglobulines, avec un taux d'IgG ≤ 400 mg/dL.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic de déficit immunitaire primitif confirmé et documenté",
+  "Naïf de traitement par immunoglobulines",
+  "IgG ≤ 400 mg/dL au dépistage"
+ ],
+ "exclusion": [
+  "Hyperprolinémie",
+  "Corticoïdes systémiques > 15 mg/j d'équivalent prednisone, immunosuppresseurs ou biothérapies immunomodulatrices récents",
+  "Traitement anticoagulant en cours",
+  "Antécédent d'événement thromboembolique ou coagulopathie dans les 12 mois",
+  "Hypoalbuminémie, entéropathie exsudative ou néphropathie protéinurique",
+  "Transaminases > 3 fois la normale ou créatinine > 1,5 fois la normale",
+  "Hémopathie lymphoïde (LLC, lymphome) ou thymome"
+ ],
+ "bras": [
+  {
+   "nom": "IgPro20",
+   "traitement": "Dose de charge quotidienne de J1 à J5, puis dose d'entretien hebdomadaire de la semaine 2 à la semaine 12"
+  }
+ ],
+ "duree": "Environ 13 semaines (jusqu'au jour 85)",
+ "critere": "Taux résiduel (Ctrough) d'IgG sous IgPro20 jusqu'à la semaine 13, et événements indésirables survenus sous traitement jusqu'au jour 85"
+}

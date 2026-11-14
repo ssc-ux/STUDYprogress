@@ -1,0 +1,27 @@
+{
+ "h": "dd22bf4c1e5fr",
+ "date": "2026-11-14",
+ "titre": "Plasma de patients lupiques ou atteints de PR et accumulation de cholestérol dans les monocytes",
+ "question": "Le plasma de patients atteints de lupus ou de polyarthrite rhumatoïde déséquilibre-t-il le métabolisme du cholestérol des monocytes et favorise-t-il l'athérosclérose ?",
+ "contexte": "Le lupus érythémateux systémique (LES) et la polyarthrite rhumatoïde (PR) augmentent le risque d'infarctus du myocarde et de maladie cardiovasculaire athéroscléreuse, indépendamment des facteurs de risque classiques. L'inflammation chronique et les auto-anticorps sont suspectés de perturber l'équilibre du cholestérol dans la paroi artérielle.\n\nL'hypothèse de cette étude est que des facteurs circulants (auto-anticorps, complexes immuns, cytokines) du LES et de la PR diminuent les protéines d'efflux du cholestérol (27-hydroxylase, ABCA1) et augmentent le récepteur scavenger CD36, favorisant la formation de cellules spumeuses. Un agoniste du récepteur A2A de l'adénosine ou une statine pourraient atténuer ce pouvoir athérogène du plasma.\n\nIl s'agit d'une étude observationnelle de recherche translationnelle, promue par NYU Langone Health, comparant le plasma de patients atteints de LES, de PR ou de rhumatisme psoriasique à celui de témoins sains, testé sur des monocytes THP-1 en culture.",
+ "interet": "Il s'agit d'une étude de laboratoire sur échantillons de patients, sans impact direct sur la pratique. Elle vise à identifier des mécanismes et des cibles thérapeutiques de la prévention cardiovasculaire dans les maladies auto-immunes.",
+ "profil": "Des adultes de 18 à 65 ans atteints de LES, de PR ou de rhumatisme psoriasique, et des témoins sains.",
+ "inclusion": [
+  "Hommes et femmes de 18 à 65 ans",
+  "Patients lupiques : critères ACR 1982 révisés, activité évaluée par le SLEDAI",
+  "Patients avec rhumatisme psoriasique : critères de McGonagle",
+  "Témoins sains"
+ ],
+ "exclusion": [
+  "Méthotrexate ou statine dans les 3 mois précédents",
+  "Biothérapie en cours",
+  "Lupus : autre connectivite documentée"
+ ],
+ "bras": [
+  { "nom": "LES actif", "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique" },
+  { "nom": "Polyarthrite rhumatoïde et rhumatisme psoriasique", "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique" },
+  { "nom": "Témoins sains", "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique" }
+ ],
+ "duree": "Prélèvements : non précisé ; période d'étude de 3 ans pour le critère principal",
+ "critere": "Niveau de 27-hydroxylase dans des monocytes THP-1 incubés avec le plasma des différents groupes, sur 3 ans"
+}

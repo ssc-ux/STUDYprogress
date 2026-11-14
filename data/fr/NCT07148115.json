@@ -1,0 +1,24 @@
+{
+ "h": "6314617cfb24",
+ "date": "2026-11-14",
+ "titre": "Grossesses survenues avant le diagnostic de lupus systémique",
+ "question": "Les grossesses antérieures au diagnostic de lupus présentaient-elles des complications obstétricales ou des signes systémiques évocateurs ?",
+ "contexte": "Le lupus systémique touche surtout des femmes en âge de procréer et peut être révélé ou précédé par des complications obstétricales : fausses couches à répétition, prééclampsie, retard de croissance intra-utérin, mort fœtale ou accouchement prématuré. Ces événements peuvent être liés à une atteinte auto-immune encore non diagnostiquée, notamment en cas d'anticorps antiphospholipides associés.\n\nLa littérature s'est surtout intéressée aux grossesses survenant chez des patientes déjà diagnostiquées. Les grossesses antérieures au diagnostic sont moins documentées, alors qu'elles pourraient fournir des signaux d'alerte précoces.\n\nCette étude observationnelle rétrospective monocentrique, menée à l'université d'Alger, inclut environ 50 femmes dont le lupus a été diagnostiqué après au moins une grossesse. Les données viennent des dossiers médicaux et d'entretiens lors des consultations. Les issues maternelles et fœtales, la présence de signes systémiques avant ou pendant la grossesse et la sévérité du lupus au diagnostic sont analysées.",
+ "interet": "L'étude pourrait aider à repérer des complications obstétricales qui doivent faire rechercher un lupus. Son caractère rétrospectif et monocentrique limite la portée des conclusions.",
+ "profil": "Des femmes de 18 à 55 ans atteintes de lupus systémique diagnostiqué après au moins une grossesse.",
+ "inclusion": [
+  "Femme en âge de procréer avec au moins une grossesse antérieure",
+  "Grossesse survenue avant le diagnostic de lupus",
+  "Lupus diagnostiqué après au moins une grossesse",
+  "Lupus selon les critères ACR 1997 ou EULAR 2019"
+ ],
+ "exclusion": [
+  "Lupus diagnostiqué avant toute conception",
+  "Autres critères d'exclusion : non précisés"
+ ],
+ "bras": [
+  { "nom": "Cohorte rétrospective", "traitement": "Aucune intervention ; femmes lupiques avec grossesse antérieure au diagnostic" }
+ ],
+ "duree": "Du début de chaque grossesse jusqu'à 3 mois après l'accouchement (rétrospectif)",
+ "critere": "Prévalence des événements obstétricaux avant le diagnostic de lupus, du début de chaque grossesse à 3 mois après l'accouchement"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "fde3cc2208e7",
+ "date": "2026-11-14",
+ "titre": "Alnuctamab (anti-BCMA bispécifique) dans le lupus systémique réfractaire",
+ "question": "L'alnuctamab, un engageur de lymphocytes T ciblant BCMA, est-il sûr et actif dans le lupus systémique réfractaire ?",
+ "contexte": "Le lupus systémique réfractaire aux corticoïdes, aux immunosuppresseurs et aux biothérapies (anti-CD20, bélimumab, anifrolumab) ou au cyclophosphamide pose un problème thérapeutique majeur. Les plasmocytes producteurs d'auto-anticorps échappent en grande partie aux anti-CD20, car ils n'expriment pas CD20.\n\nL'alnuctamab (BMS-986349, CC-93269) est un anticorps bispécifique qui engage les lymphocytes T vers BCMA, présent à la surface des plasmocytes. Il a été développé d'abord dans le myélome multiple. L'idée est d'éliminer les plasmocytes pathogènes dans le lupus. Il s'agit de la première étude de cette molécule dans le lupus.\n\nCet essai de phase 1 ouvert, monocentrique (Mount Sinai, New York), comporte quatre parties avec une administration sentinelle, c'est-à-dire un petit nombre de patients traités et surveillés de près avant les autres. Les patients ont un lupus modérément à sévèrement actif, réfractaire à les corticoïdes et à au moins deux immunosuppresseurs de mécanismes différents, dont une biothérapie ou le cyclophosphamide. Les atteintes neuropsychiatriques et les néphrites lupiques sévères sont exclues. Le critère principal porte sur les événements indésirables survenus sous traitement.",
+ "interet": "L'étude teste une cible plasmocytaire de façon inédite dans le lupus. Ses résultats de tolérance et d'activité préliminaire guideront d'éventuelles études de phase 2.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus systémique modérément à sévèrement actif et réfractaire à plusieurs traitements.",
+ "inclusion": ["Âge de 18 à 60 ans", "Lupus systémique (critères ACR/EULAR 2019) avec ANA ≥ 1:80 et au moins un autre auto-anticorps", "Réfractaire aux corticoïdes et à au moins 2 immunosuppresseurs de classes différentes, dont une biothérapie ou le cyclophosphamide", "SLEDAI-2K > 6 (clinique > 4), ou BILAG avec > 1 A ou > 2 B", "Pas d'atteinte du système nerveux central active dans l'année"],
+ "exclusion": ["Autre maladie auto-immune (hors syndrome de Sjögren associé)", "Néphrite lupique rapidement progressive, DFGe < 40 mL/min, SAPL catastrophique, forme type PTT", "Atteinte neuropsychiatrique active", "Infection active ou suspectée, dont le VIH", "Saturation < 92 %, neutrophiles < 1 500/µL, Hb < 8 g/dL, plaquettes < 75 000/µL, ALAT/ASAT > 2 N", "Lymphocytes B < 12/µL ou hypogammaglobulinémie < 500 mg/dL"],
+ "bras": [{"nom": "Patients lupiques", "traitement": "Alnuctamab, avec administration sentinelle avant les autres patients ; dose non précisée"}],
+ "duree": "Non précisé",
+ "critere": "Nombre d'événements indésirables survenant sous traitement, sur 9 jours"
+}
