@@ -1,0 +1,38 @@
+{
+ "h": "410fcf2964ad",
+ "date": "2026-11-14",
+ "titre": "RACEMATE : tézépélumab dans la granulomatose éosinophilique avec polyangéite",
+ "question": "Le tézépélumab améliore-t-il la rémission clinique chez des patients atteints de GEPA non sévère, en rechute ou réfractaire ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (GEPA, ex-Churg-Strauss) est une vascularite des petits vaisseaux associant asthme, hyperéosinophilie sanguine et atteintes systémiques (sinus, poumon, nerfs, peau, coeur, rein). Le traitement de fond repose sur les corticoïdes, les immunosuppresseurs et, en cas de forme réfractaire ou en rechute, sur les anti-IL-5 (mépolizumab) ou anti-IL-5Rα (benralizumab).\n\nMalgré ces traitements, de nombreux patients restent dépendants des corticoïdes ou rechutent. Le tézépélumab est un anticorps anti-TSLP, cytokine épithéliale en amont de plusieurs voies de l'inflammation de type 2, utilisé dans l'asthme sévère ; il pourrait agir en amont de l'IL-5 dans la GEPA.\n\nRACEMATE est un essai de phase 2b multicentrique en double insu, contrôlé par placebo, promu par l'Imperial College London, dans 12 centres britanniques. Le tézépélumab 210 mg par voie sous-cutanée toutes les 4 semaines est comparé au placebo pendant 24 semaines, avec décroissance des corticoïdes. Des analyses d'immunologie explorent le mécanisme d'action.",
+ "interet": "Il pourrait établir le tézépélumab comme option dans la GEPA non sévère, y compris chez les patients déjà sous anti-IL-5, et éclairer le rôle du TSLP dans la maladie.",
+ "profil": "Des adultes avec GEPA non sévère, en rechute ou réfractaire, sous corticoïdes avec ou sans immunomodulateur.",
+ "inclusion": [
+  "GEPA définie (asthme, éosinophilie ≥ 10 % ou > 1,0 G/L, et au moins deux critères parmi vascularite éosinophilique, neuropathie, infiltrat pulmonaire, atteinte sino-nasale, cardiomyopathie, glomérulonéphrite, hémorragie alvéolaire, purpura, ANCA)",
+  "Rechute dans les 24 mois ou maladie réfractaire (sans rémission : BVAS = 0 et prednisolone ≤ 4 mg/j)",
+  "Éosinophiles ≥ 0,2 G/L au dépistage (sauf patients sous mépolizumab ou benralizumab)",
+  "Forme non sévère selon l'ACR 2021",
+  "Prednisolone stable (5 à 30 mg/j) depuis au moins 4 semaines, immunomodulateur à dose stable",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Granulomatose avec polyangéite ou polyangéite microscopique",
+  "Manifestation menaçant la vie ou un organe dans les 6 mois (hémorragie alvéolaire, glomérulonéphrite rapidement progressive, atteinte digestive ou du SNC sévère, atteinte cardiaque sévère)",
+  "Cancer actif, immunodéficience dont VIH",
+  "Helminthiase non traitée dans les 6 mois",
+  "Maladie hépatique instable",
+  "Grossesse ou contraception inefficace",
+  "Autre biothérapie de l'asthme sévère dans les 4 mois (hors mépolizumab ou benralizumab)"
+ ],
+ "bras": [
+  {
+   "nom": "Tézépélumab",
+   "traitement": "Tézépélumab 210 mg par voie sous-cutanée toutes les 4 semaines pendant 24 semaines, en plus du traitement habituel"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en plus du traitement habituel, avec décroissance des corticoïdes"
+  }
+ ],
+ "duree": "24 semaines de traitement",
+ "critere": "Rémission clinique : BVAS v3 à 0, prednisolone ≤ 4 mg/j et absence de corticoïdes oraux au-dessus du niveau initial pendant la période de traitement."
+}

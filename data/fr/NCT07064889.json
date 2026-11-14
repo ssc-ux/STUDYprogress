@@ -1,0 +1,29 @@
+{
+ "h": "8829148c8126",
+ "date": "2026-11-14",
+ "titre": "Upadacitinib associé à la dexaméthasone à forte dose en première ligne du PTI de l'adulte",
+ "question": "Ajouter l'upadacitinib à la dexaméthasone à forte dose améliore-t-il la réponse prolongée dans le PTI nouvellement diagnostiqué ?",
+ "contexte": "Le PTI nouvellement diagnostiqué est traité en première ligne par corticoïdes, dont la dexaméthasone à forte dose en cure courte. Beaucoup de patients rechutent, et les réponses prolongées restent insuffisantes. Associer d'autres agents à la dexaméthasone est une stratégie explorée en Chine pour améliorer les réponses durables.\n\nL'upadacitinib est un inhibiteur sélectif de JAK1, administré par voie orale, utilisé dans plusieurs maladies inflammatoires (polyarthrite rhumatoïde, rhumatisme psoriasique, maladies inflammatoires de l'intestin, dermatite atopique). L'inhibition de la voie JAK/STAT module les cytokines impliquées dans l'activation des lymphocytes T et la production d'auto-anticorps.\n\nCette étude de phase 2 de l'hôpital universitaire de Pékin est multicentrique, randomisée et ouverte (simple insu), et inclut 132 adultes de 18 à 70 ans. Les patients ont un PTI nouvellement diagnostiqué, non traité, avec plaquettes < 30 G/L ou < 50 G/L avec saignement significatif. Le bras expérimental reçoit dexaméthasone 40 mg/j pendant 4 jours (répétée au jour 10 si besoin) et upadacitinib 15 mg par jour pendant 12 semaines. Le comparateur reçoit la dexaméthasone seule.",
+ "interet": "Si l'association augmente la réponse prolongée, elle pourrait proposer une alternative orale en première ligne. Le profil de sécurité des inhibiteurs de JAK (infections, événements thromboemboliques) sera un point d'attention.",
+ "profil": "Des adultes de 18 à 70 ans atteints de PTI primaire nouvellement diagnostiqué, jamais traité.",
+ "inclusion": [
+  "PTI nouvellement diagnostiqué, jamais traité",
+  "Plaquettes < 30 G/L, ou < 50 G/L avec saignement significatif (échelle OMS ≥ 2)",
+  "Âge de 18 à 70 ans",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Chimiothérapie, anticoagulants ou autres médicaments modifiant les plaquettes dans les 6 mois",
+  "Traitement spécifique antérieur du PTI de première ou deuxième ligne (corticoïdes, cyclophosphamide, 6-mercaptopurine, vincristine)",
+  "VIH, VHB ou VHC, infection active",
+  "Cancer, pathologie pulmonaire, hépatique ou rénale sévère, cardiopathie instable",
+  "Autre maladie auto-immune (anticorps antinucléaires, anticardiolipine, anticoagulant circulant ou test de Coombs positifs)",
+  "Grossesse ou allaitement, effets indésirables significatifs d'une corticothérapie antérieure"
+ ],
+ "bras": [
+  { "nom": "Upadacitinib + dexaméthasone à forte dose", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (cure répétée au jour 10 si absence de réponse) et upadacitinib 15 mg par jour par voie orale pendant 12 semaines" },
+  { "nom": "Dexaméthasone à forte dose", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (cure répétée au jour 10 si absence de réponse)" }
+ ],
+ "duree": "6 mois",
+ "critere": "Réponse prolongée à 6 mois."
+}

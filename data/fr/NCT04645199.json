@@ -1,0 +1,24 @@
+{
+ "h": "346efa9299e8",
+ "date": "2026-11-14",
+ "titre": "NICHE : cohorte nationale longitudinale chinoise de maladies hématologiques",
+ "question": "Quels sont l'incidence, les facteurs de risque, les traitements, le pronostic et le coût des principales maladies du sang en Chine ?",
+ "contexte": "Les cohortes hématologiques chinoises actuelles reposent surtout sur des séries monocentriques ou multicentriques de taille limitée. Il manque de grandes cohortes prospectives permettant de décrire l'épidémiologie, les pratiques de soins et les devenirs des maladies du sang à l'échelle d'un pays.\n\nLe registre NICHE, promu par l'Institute of Hematology & Blood Diseases Hospital en Chine, rassemble des patients atteints de leucémie aiguë myéloïde, myélome multiple, hémophilie, aplasie médullaire, leucémies, syndromes myélodysplasiques, lymphomes, maladies hémorragiques, anémie hémolytique auto-immune, leucémie à grands lymphocytes granuleux, thrombocytémie essentielle, infections sanguines, ou greffés de moelle.\n\nLes données de base, de diagnostic, de traitement, de pronostic et de coûts sont extraites des dossiers médicaux des hôpitaux participants. Le registre intègre des données historiques depuis 2000 et recueille des données prospectives en deux phases d'extension, avec suivi pronostique. Les patients concernés sont ceux diagnostiqués ou greffés à partir du 1er janvier 2020.",
+ "interet": "Le registre doit fournir des données épidémiologiques et de pratique en situation réelle sur les maladies hématologiques en Chine, utiles à la planification de soins et à la recherche. Il ne teste pas de traitement.",
+ "profil": "Des patients atteints de maladies hématologiques (hémopathies malignes, hémophilie, aplasie, etc.) ou greffés de moelle, dans des hôpitaux chinois.",
+ "inclusion": [
+  "Diagnostic de leucémie aiguë myéloïde, myélome multiple, hémophilie, aplasie médullaire, leucémie, syndrome myélodysplasique, lymphome ou maladie hémorragique",
+  "Ou greffe de moelle osseuse dans un hôpital participant",
+  "Diagnostic ou greffe à partir du 1er janvier 2020"
+ ],
+ "exclusion": [
+  "Informations de suivi à long terme indisponibles (patient perdu de vue ou maladie concomitante grave)",
+  "Addiction à l'alcool ou aux drogues compromettant le respect de l'étude",
+  "Situation mettant en danger la sécurité du patient ou son observance, selon l'investigateur"
+ ],
+ "bras": [
+  { "nom": "Cohorte NICHE", "traitement": "Suivi observationnel de patients atteints de maladies hématologiques, sans intervention de l'étude" }
+ ],
+ "duree": "Suivi prospectif sur plusieurs années (critère principal à 5 ans)",
+ "critere": "Incidence et distribution des maladies hématologiques, sur 5 ans"
+}

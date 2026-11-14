@@ -1,0 +1,35 @@
+{
+ "h": "43daf3bfab56",
+ "date": "2026-11-14",
+ "titre": "CAR-T GC012F dans la sclérodermie systémique et les myopathies inflammatoires réfractaires",
+ "question": "Le CAR-T anti-CD19/BCMA GC012F est-il sûr et actif chez des patients atteints de sclérodermie systémique ou de myopathie inflammatoire idiopathique ?",
+ "contexte": "La sclérodermie systémique et les myopathies inflammatoires idiopathiques (dermatomyosite, syndrome des anti-synthétases, myopathie nécrosante) sont des maladies auto-immunes sévères, pour lesquelles les options sont limitées : immunosuppresseurs, rituximab, immunoglobulines, cyclophosphamide, greffe autologue de cellules souches dans les formes graves de sclérodermie. Les rechutes et les séquelles restent fréquentes.\n\nLes lymphocytes B et les plasmocytes jouent un rôle central dans ces maladies, notamment via les auto-anticorps. Les CAR-T anti-CD19, et plus récemment les CAR-T doubles CD19/BCMA, ont induit des rémissions sans traitement dans de petites séries de lupus, de myosites et de sclérodermie.\n\nGC012F est un CAR-T autologue ciblant à la fois CD19 et BCMA. Cet essai chinois de phase 1 exploratoire, ouvert et monobras, inclut 15 patients, après lymphodéplétion par fludarabine et cyclophosphamide. Il évalue la tolérance, l'efficacité, la pharmacocinétique et la pharmacodynamie. Le dosage testé est de 3,0×10^5 cellules CAR-T/kg.",
+ "interet": "Des données de tolérance et de première efficacité sont attendues pour ces deux maladies. L'étude relève de la recherche précoce et ne modifiera pas la pratique à court terme.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique ou de myopathie inflammatoire idiopathique.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Consentement éclairé signé",
+  "Critères propres à chaque maladie (sous-étude)",
+  "Neutrophiles ≥ 1 G/L, hémoglobine ≥ 80 g/L, plaquettes ≥ 50 G/L",
+  "ALAT et ASAT ≤ 3 N, clairance de la créatinine ≥ 60 mL/min",
+  "FEVG ≥ 50 % sans épanchement péricardique",
+  "Contraception efficace jusqu'à 2 ans après la perfusion"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque NYHA III-IV, infarctus ou pontage dans les 6 mois",
+  "Cancer actif ou datant de moins de 5 ans (hors exceptions)",
+  "Antécédent de saignement ou de thrombose récents (6 mois)",
+  "VIH, VHB actif, VHC actif, syphilis, tuberculose active ou latente non traitée",
+  "Traitement antérieur anti-CD19, anti-BCMA ou CAR-T",
+  "Anti-CD20 dans les 6 mois, autre anticorps monoclonal dans les 4 semaines",
+  "Maladie du système nerveux central, greffe d'organe, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "GC012F",
+   "traitement": "CAR-T autologue anti-CD19/BCMA, 3,0×10^5 cellules/kg en perfusion unique après lymphodéplétion"
+  }
+ ],
+ "duree": "Jusqu'à 96 semaines après la perfusion",
+ "critere": "Proportion de patients avec une toxicité limitant la dose dans les 28 jours suivant la perfusion ; événements indésirables jusqu'à 96 semaines."
+}

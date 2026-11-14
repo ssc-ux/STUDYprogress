@@ -1,0 +1,22 @@
+{
+ "h": "a610adfed799",
+ "date": "2026-11-14",
+ "titre": "Densité osseuse chez les patients vivant avec le VIH et atteints de cancers liés au KSHV",
+ "question": "Quels facteurs sont associés à la perte de densité minérale osseuse chez les personnes vivant avec le VIH et atteintes de maladies liées au virus KSHV ?",
+ "contexte": "Les personnes vivant avec le VIH traitées par antirétroviraux présentent un vieillissement accéléré, avec des maladies liées à l'âge environ 10 ans plus tôt que la population générale. Une faible densité minérale osseuse (DMO) est fréquente chez elles et augmente le risque de fracture.\n\nElles ont aussi un risque accru de maladies liées au virus de l'herpès associé au sarcome de Kaposi (KSHV) : sarcome de Kaposi, maladie de Castleman multicentrique liée au KSHV, lymphome des séreuses et syndrome inflammatoire cytokinique lié au KSHV (KICS, tableau dépendant de l'IL-6). La plupart des données sur la perte osseuse associée au cancer et à ses traitements viennent de patients non infectés par le VIH.\n\nCette étude observationnelle rétrospective du National Cancer Institute analyse les dossiers de patients inclus entre 2005 et 2020 dans des protocoles de la HIV/AIDS Malignancy Branch. Seuls les patients ayant au moins deux scanners sont retenus : la DMO est mesurée à partir des images de scanner réalisées dans les protocoles. 40 participants sont analysés, aucun recrutement n'est réalisé.",
+ "interet": "L'étude pourrait identifier des facteurs de perte osseuse et orienter le dépistage de l'ostéoporose chez des patients VIH traités pour des maladies liées au KSHV.",
+ "profil": "Des adultes vivant avec le VIH et atteints de maladies liées au KSHV, suivis au NIH entre 2005 et 2020.",
+ "inclusion": [
+  "Dossiers de patients inclus dans des protocoles de la HIV/AIDS Malignancy Branch du NCI entre le 1er janvier 2005 et le 1er décembre 2020",
+  "Infection par le VIH avec sarcome de Kaposi, maladie de Castleman liée au KSHV ou KICS",
+  "Au moins deux scanners permettant de mesurer la DMO"
+ ],
+ "exclusion": [
+  "Patients ayant refusé l'utilisation future de leurs données"
+ ],
+ "bras": [
+  { "nom": "Revue de dossiers", "traitement": "Analyse rétrospective de la DMO mesurée sur scanner chez des patients des protocoles NCI HAMB/CCR" }
+ ],
+ "duree": "Étude sur dossiers, environ 2 ans pour l'analyse des données",
+ "critere": "Perte de densité minérale osseuse (en cours)"
+}

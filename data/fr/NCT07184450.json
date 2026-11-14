@@ -1,0 +1,35 @@
+{
+ "h": "fe1d619a1463",
+ "date": "2026-11-14",
+ "titre": "CAR-T BCMA/CD70 dans les rhumatismes pédiatriques réfractaires",
+ "question": "Un CAR-T ciblant BCMA et CD70 est-il sûr et efficace dans les maladies rhumatismales pédiatriques réfractaires ?",
+ "contexte": "Les rhumatismes inflammatoires de l'enfant, dont la dermatomyosite juvénile (DMJ), l'arthrite juvénile idiopathique polyarticulaire, la sclérodermie systémique et le syndrome de Sjögren primaire, restent parfois actifs malgré les corticoïdes, les immunosuppresseurs et les biothérapies. Les formes réfractaires peuvent entraîner des séquelles fonctionnelles et des atteintes multiviscérales, avec une toxicité cumulée des traitements.\n\nLes CAR-T anti-CD19 ont produit des rémissions chez l'adulte dans plusieurs maladies auto-immunes. Cibler BCMA, exprimé par les plasmocytes, et CD70, marqueur de lymphocytes activés, vise une action plus large sur les cellules productrices d'auto-anticorps et sur les lymphocytes activés.\n\nCette étude de phase 1 chinoise (Chongqing Precision Biotech), à promotion industrielle, comprend une escalade de dose (trois niveaux de 0,3 à 3 × 10^5 cellules/kg) puis une extension à la dose retenue. Elle inclut 4 à 11 patients par indication, dont certains déjà traités par CAR-T anti-CD19.",
+ "interet": "L'étude évalue la faisabilité d'une thérapie cellulaire chez l'enfant atteint de rhumatisme réfractaire, avec peu de recul. Les résultats resteront exploratoires.",
+ "profil": "Des enfants (≥ 5 ans) et adolescents atteints de rhumatisme pédiatrique réfractaire (DMJ, AJI polyarticulaire, sclérodermie, Sjögren).",
+ "inclusion": [
+  "Âge ≥ 5 ans",
+  "Rhumatisme pédiatrique réfractaire de type lymphocytaire B (DMJ, AJI polyarticulaire, ScS ou Sjögren selon critères détaillés)",
+  "Échec des corticoïdes et d'au moins deux immunosuppresseurs selon la maladie",
+  "CD19 exprimé sur les lymphocytes B (> 5/µL)",
+  "Pas de CAR-T antérieur, ou rechute après CAR-T anti-CD19",
+  "FEVG ≥ 55 %, DFG ≥ 30 mL/min/1,73 m², ASAT/ALAT ≤ 3 N, SpO2 ≥ 92 %",
+  "Consentement du patient ou de son tuteur"
+ ],
+ "exclusion": [
+  "Atteinte d'organe sévère, dont hypertension pulmonaire sévère",
+  "Déficit immunitaire primaire ou secondaire sévère non corrigé",
+  "Infection grave, active ou non contrôlée (tuberculose, hépatite virale active)",
+  "Cancer actif",
+  "Cardiopathie congénitale, arythmie sévère, péricardite abondante, instabilité hémodynamique",
+  "Maladie nécessitant une corticothérapie ou un immunosuppresseur au long cours",
+  "Greffe d'organe ou de cellules souches dans les 3 mois"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T BCMA/CD70",
+   "traitement": "Perfusion de CAR-T ; partie A : trois doses (0,3, 1 et 3 × 10^5/kg), partie B : extension à la dose retenue"
+  }
+ ],
+ "duree": "Suivi principal de 6 mois",
+ "critere": "Sécurité à 28 jours ; à 6 mois, efficacité propre à chaque maladie (TIS dans la DMJ, activité minimale/maladie inactive et Pedi-ACR dans l'AJI, mRSS dans la sclérodermie, etc.)."
+}

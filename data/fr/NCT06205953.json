@@ -1,0 +1,28 @@
+{
+ "h": "b03c1ef3c272",
+ "date": "2026-11-14",
+ "titre": "EUREKA : registre européen et réseau de partage d'échantillons dans l'amylose AL",
+ "question": "Comment améliorer le diagnostic précoce et la prise en charge de l'amylose AL grâce à un registre européen et à des analyses moléculaires avancées ?",
+ "contexte": "L'amylose AL est une maladie rare due aux chaînes légères produites par un clone plasmocytaire. Elle touche surtout le coeur et les reins. Les traitements anti-plasmocytaires actuels (daratumumab, bortézomib) ont considérablement amélioré l'obtention de réponses hématologiques, mais le pronostic dépend du stade au diagnostic, souvent trop tardif.\n\nLe consortium EUREKA, coordonné par la Fondation IRCCS Policlinico San Matteo de Pavie (Italie), crée un registre prospectif de tous les nouveaux cas d'amylose AL vus dans des centres de référence européens, associé à une biobanque transfrontalière et un réseau de partage d'échantillons. Un site dédié applique l'analyse de données massives et l'intelligence artificielle.\n\nLes objectifs sont de préciser l'apport des technologies moléculaires avancées au diagnostic précoce et aux choix thérapeutiques, de décrire l'histoire naturelle dans l'ère actuelle, et de développer des méthodes sensibles de détection de la maladie résiduelle chez les patients en réponse hématologique complète.",
+ "interet": "Le registre devrait fournir des données de survie par stade en vie réelle et préparer de nouveaux outils pour le diagnostic précoce et la détection de la maladie résiduelle.",
+ "profil": "Des adultes avec amylose AL systémique nouvellement diagnostiquée, non traitée.",
+ "inclusion": [
+  "Diagnostic d'amylose AL systémique",
+  "Absence de traitement antérieur",
+  "Âge de 18 ans ou plus",
+  "Capacité à comprendre et consentement signé",
+  "Suivi prévu dans le centre participant"
+ ],
+ "exclusion": [
+  "Amylose non AL",
+  "Traitement antérieur de l'amylose AL"
+ ],
+ "bras": [
+  {
+   "nom": "Registre",
+   "traitement": "Patients atteints d'amylose AL, suivi observationnel avec prélèvements pour biobanque"
+  }
+ ],
+ "duree": "Suivi de 24 mois depuis le diagnostic",
+ "critere": "Mortalité à 24 mois, par stade, à partir du diagnostic."
+}

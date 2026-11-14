@@ -1,0 +1,26 @@
+{
+ "h": "d873f97c475d",
+ "date": "2026-11-14",
+ "titre": "Registre argentin EPIMAR des pneumopathies interstitielles auto-immunes",
+ "question": "Quelles sont les caractéristiques et l'évolution sur 5 ans des patients argentins ayant une pneumopathie interstitielle diffuse (PID) auto-immune ?",
+ "contexte": "Les pneumopathies interstitielles auto-immunes regroupent les PID associées aux connectivites, les PID liées aux ANCA et les pneumopathies interstitielles avec caractéristiques auto-immunes (IPAF). Elles se caractérisent par une inflammation et/ou une fibrose du parenchyme pulmonaire, et elles pèsent sur la morbidité et la mortalité de ces maladies.\n\nAvec les nouveaux outils diagnostiques et thérapeutiques, une évaluation multidisciplinaire pneumologue-rhumatologue est devenue essentielle. Les seules recommandations publiées concernent la PID de la sclérodermie. Dans les autres situations, les données sont limitées, en particulier en Amérique latine.\n\nLe registre EPIMAR, créé en 2016 par un groupe multidisciplinaire argentin, prévoit d'inclure 1000 adultes avec une PID diagnostiquée depuis moins de 5 ans. Il décrit leurs caractéristiques sociodémographiques, cliniques, sérologiques, fonctionnelles, radiologiques et thérapeutiques, avec un suivi de 5 ans. Il s'intéresse aussi à la fréquence de la PID infraclinique.",
+ "interet": "Le registre pourrait documenter l'histoire naturelle et les pratiques de prise en charge des PID auto-immunes en Argentine, et aider à définir des critères de suivi.",
+ "profil": "Des adultes ayant une PID auto-immune (connectivite, IPAF ou ANCA positifs) diagnostiquée depuis moins de 5 ans.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PID diagnostiquée dans les 5 ans par une équipe multidisciplinaire (pneumologue et rhumatologue)",
+  "PID définie au scanner thoracique haute résolution de moins de 12 mois (verre dépoli, condensations, réticulations, bronchectasies de traction, rayon de miel)",
+  "Connectivite établie ou débutante, ou IPAF (critères ATS/ERS 2015), ou ANCA positifs",
+  "Spirométrie dans les 6 mois, consentement signé"
+ ],
+ "exclusion": [
+  "Impossibilité d'assurer le suivi ou les examens du protocole",
+  "Impossibilité d'évaluation par une équipe multidisciplinaire",
+  "PID d'une autre cause non auto-immune (professionnelle, toxique)"
+ ],
+ "bras": [
+  { "nom": "Groupe EPIMAR", "traitement": "Patients suivis avec une approche multidisciplinaire, sans intervention thérapeutique imposée" }
+ ],
+ "duree": "5 ans",
+ "critere": "Mortalité à 5 ans, épreuves fonctionnelles respiratoires et fibrose au scanner (inclusion et visites annuelles)"
+}

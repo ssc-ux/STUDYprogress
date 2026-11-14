@@ -1,0 +1,38 @@
+{
+ "h": "2435059b17cf",
+ "date": "2026-11-14",
+ "titre": "CM313 contre placebo dans le PTI de l'adulte après échec des corticoïdes",
+ "question": "Le CM313 est-il plus efficace que le placebo chez des adultes ayant un PTI en échec des corticoïdes ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où la tolérance aux antigènes plaquettaires est perdue, avec destruction des plaquettes par des anticorps et production insuffisante par les mégacaryocytes. Les corticoïdes et les immunoglobulines sont les traitements de première ligne, puis les agonistes de la TPO, le rituximab, la splénectomie ou des immunosuppresseurs. Les rechutes sont fréquentes et la maladie réfractaire reste un problème.\n\nLes plasmocytes autoréactifs à longue durée de vie pourraient expliquer la résistance au rituximab. Le CM313, selon les critères d'exclusion un anticorps monoclonal anti-CD38, cible ces plasmocytes.\n\nCet essai de phase 2 randomisé en double insu, contrôlé par placebo, de l'Institute of Hematology & Blood Diseases Hospital en Chine, a inclus 45 adultes (30 sous CM313, 15 sous placebo) avec PTI de plus de 3 mois. L'administration est hebdomadaire pendant 8 semaines et l'efficacité est évaluée à la semaine 8.",
+ "interet": "Un résultat positif ouvrirait la voie à une approche ciblant les plasmocytes dans le PTI de l'adulte en échec des corticoïdes, avec confirmation en phase 3.",
+ "profil": "Des adultes avec PTI primaire de plus de 3 mois, plaquettes < 30 G/L, après échec des corticoïdes.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, PTI primaire diagnostiqué depuis au moins 3 mois",
+  "Échec des corticoïdes (inefficacité, perte de réponse ou rechute) avec antécédent de réponse (plaquettes ≥ 50 G/L) au traitement de première ligne",
+  "Plaquettes < 30 G/L dans les 24 heures avant la première dose, jamais > 35 G/L au dépistage",
+  "ECOG ≤ 2",
+  "Un seul traitement d'entretien stable depuis 4 semaines autorisé (corticoïdes ≤ 0,5 mg/kg de prednisone ou agoniste de la TPO)",
+  "Contraception efficace et consentement signé"
+ ],
+ "exclusion": [
+  "Allergie aux anticorps anti-CD38 ou échec antérieur d'un anti-CD38",
+  "Anémie hémolytique auto-immune ou thrombopénie secondaire",
+  "Événement thrombotique ou hémorragie sévère dans les 12 mois précédents",
+  "Traitement d'urgence du PTI dans les 2 semaines, immunosuppresseurs dans les 4 semaines, anti-CD20 ou cyclophosphamide dans les 6 mois",
+  "Splénectomie dans les 6 mois, vaccin vivant dans les 4 semaines",
+  "SMD, cancer dans les 5 ans, greffe",
+  "Anomalies biologiques significatives (transaminases > 3 N, neutrophiles < 1500/mm³, hémoglobine < 9 g/dL, IgG < 500 mg/dL), clairance < 30 mL/min, VIH positif"
+ ],
+ "bras": [
+  {
+   "nom": "CM313",
+   "traitement": "Injection de CM313 une fois par semaine pendant 8 semaines (30 patients) ; dose non précisée"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Injection de placebo une fois par semaine pendant 8 semaines (15 patients)"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Efficacité du CM313 contre placebo à la semaine 8."
+}

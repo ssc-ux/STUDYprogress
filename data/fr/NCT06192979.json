@@ -1,0 +1,37 @@
+{
+ "h": "88e6fc9c7f2e",
+ "date": "2026-11-14",
+ "titre": "Optimiser la première ligne de l'amylose AL avec t(11;14) selon la réponse précoce",
+ "question": "Adapter le traitement de première ligne de l'amylose AL t(11;14) à la réponse hématologique du jour 7 améliore-t-il le taux de réponse complète à 6 mois ?",
+ "contexte": "Dans l'amylose AL, l'obtention d'une réponse hématologique complète (RHC) est déterminante pour le pronostic des organes et la survie. Le schéma de première ligne actuel associe daratumumab, bortézomib et dexaméthasone (DBD), qui donne environ 60 % de RHC, avec un délai médian d'apparition de la réponse d'environ 7 jours.\n\nLa translocation t(11;14), présente dans environ la moitié des cas, rend les plasmocytes sensibles au vénétoclax, inhibiteur de BCL2. Le vénétoclax est actif dans l'amylose AL avec t(11;14).\n\nCet essai prospectif, promu par Jin Lu (Pékin), débute tous les patients par DBD. Ceux qui ont une réponse rapide au jour 7 poursuivent le DBD pendant au moins 6 cycles ; les autres passent à daratumumab, vénétoclax et dexaméthasone. L'objectif est d'améliorer le taux global de RHC à 6 mois par cette stratégie adaptée à la réponse.",
+ "interet": "Si la stratégie adaptative augmente le taux de RHC, elle pourrait guider le choix précoce entre un schéma avec bortézomib et un schéma avec vénétoclax dans l'amylose AL t(11;14).",
+ "profil": "Des adultes avec amylose AL systémique t(11;14) traités en première ligne par daratumumab, bortézomib et dexaméthasone.",
+ "inclusion": [
+  "Amylose AL systémique",
+  "Daratumumab, bortézomib et dexaméthasone utilisés en première ligne",
+  "Espérance de vie supérieure à 12 semaines",
+  "Hémoglobine ≥ 70 g/L, saturation en oxygène > 90 %",
+  "Bilirubine ≤ 3 N, ASAT et ALAT ≤ 3 N",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Myélome actif ou lymphome lymphoplasmocytaire actif",
+  "Autre cancer avancé avec métastases",
+  "Infection sévère ou persistante non contrôlée",
+  "Maladie auto-immune sévère ou immunodéficience",
+  "Hépatite B ou C active, VIH ou syphilis",
+  "Toute situation augmentant le risque selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe réponse rapide",
+   "traitement": "Daratumumab, bortézomib, dexaméthasone, au moins 6 cycles"
+  },
+  {
+   "nom": "Groupe réponse non rapide",
+   "traitement": "Daratumumab, vénétoclax, dexaméthasone"
+  }
+ ],
+ "duree": "Au moins 6 mois",
+ "critere": "Taux global de réponse hématologique complète à 6 mois."
+}

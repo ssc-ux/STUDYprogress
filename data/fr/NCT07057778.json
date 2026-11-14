@@ -1,0 +1,30 @@
+{
+ "h": "a243965184cf",
+ "date": "2026-11-14",
+ "titre": "Iguratimod associé à une faible dose de rituximab dans le PTI corticorésistant ou en rechute",
+ "question": "Ajouter l'iguratimod au rituximab à faible dose améliore-t-il la réponse globale dans le PTI corticorésistant ou en rechute ?",
+ "contexte": "Environ deux tiers des patients atteints de PTI répondent aux traitements de première ligne. Pour les autres, corticorésistants ou en rechute, les mécanismes sont mal connus et la prise en charge reste difficile. Le rituximab améliore en partie le taux de rémission complète, mais les réponses sont inconstantes et souvent non durables.\n\nL'iguratimod est un antirhumatismal de synthèse largement utilisé en Chine dans plusieurs maladies auto-immunes. Dans des modèles murins de PTI, il pourrait agir en modulant la différenciation des lymphocytes T, ce qui ouvre une piste dans les PTI médiés par des anticorps antiplaquettes.\n\nCette étude de phase 2 chinoise, promue par l'hôpital universitaire de Pékin, est multicentrique, randomisée, en ouvert (simple insu), avec 120 patients de 18 à 70 ans, non splénectomisés, avec plaquettes < 30 G/L. Elle compare le rituximab à faible dose associé à l'iguratimod au rituximab à faible dose seul. Les plaquettes, les saignements et les événements indésirables sont évalués. Les doses ne sont pas détaillées dans le registre.",
+ "interet": "Si la combinaison améliore la réponse, elle pourrait offrir une stratégie peu coûteuse pour les PTI corticorésistants. L'iguratimod n'est pas disponible dans la plupart des pays, ce qui limite la transposition.",
+ "profil": "Des adultes de 18 à 70 ans atteints de PTI non splénectomisés, corticorésistants ou en rechute, avec plaquettes < 30 G/L.",
+ "inclusion": [
+  "PTI confirmé après exclusion des autres causes de thrombopénie",
+  "Plaquettes < 30 G/L à l'inclusion",
+  "Absence de réponse prolongée à une corticothérapie à pleine dose d'au moins 4 semaines, ou rechute pendant ou après la décroissance",
+  "Âge de 18 à 70 ans"
+ ],
+ "exclusion": [
+  "PTI secondaire (VIH, VHC, Helicobacter pylori, lupus)",
+  "Insuffisance cardiaque congestive ou arythmie sévère",
+  "ASAT ou ALAT ≥ 3 N, créatinine ou bilirubine ≥ 1,5 N",
+  "Cancer actif ou antérieur",
+  "Autre maladie sous immunosuppresseurs",
+  "Rituximab antérieur pour le PTI",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Iguratimod + rituximab à faible dose", "traitement": "Rituximab à faible dose associé à l'iguratimod (doses non précisées)" },
+  { "nom": "Rituximab à faible dose", "traitement": "Rituximab à faible dose seul" }
+ ],
+ "duree": "1 an",
+ "critere": "Réponse globale, du jour 1 jusqu'à la fin de la première année."
+}

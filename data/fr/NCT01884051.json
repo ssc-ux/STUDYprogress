@@ -1,0 +1,27 @@
+{
+ "h": "292344cbdea0",
+ "date": "2026-11-14",
+ "titre": "Interactions hormonales, métaboliques et de signalisation dans l'hypertension artérielle pulmonaire (Vanderbilt)",
+ "question": "Pourquoi les femmes sont-elles plus touchées par l'HTAP, quel rôle jouent la résistance à l'insuline et les jonctions cellulaires vasculaires, et peut-on les corriger par des traitements ?",
+ "contexte": "L'hypertension artérielle pulmonaire (HTAP) reste mortelle malgré les progrès thérapeutiques, et les traitements efficaces et bien tolérés manquent. Elle touche beaucoup plus de femmes que d'hommes, dans les formes héritables, idiopathiques et associées.\n\nCe programme de Vanderbilt comporte trois projets. Le premier explore le métabolisme des œstrogènes, dont une petite étude chez des patients héréditaires avait montré des différences, et un possible effet protecteur des androgènes chez l'homme. Le deuxième étudie le rôle du syndrome métabolique et de la résistance à l'insuline, avec un essai de metformine. Le troisième évalue l'ACE2 recombinante, seule approche ayant inversé la maladie dans des modèles murins d'HTAP héritable, par restauration des jonctions entre cellules endothéliales. L'étude est observationnelle pour le recueil d'échantillons et de données chez des patients, des apparentés et des témoins sains.",
+ "interet": "Le programme pourrait identifier des anomalies hormonales ou métaboliques ciblables dans l'HTAP. Il n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des patients atteints d'HTAP idiopathique, héritable ou associée, leurs apparentés et des témoins sains.",
+ "inclusion": [
+  "HTAP idiopathique, héritable ou associée, ou apparentés de personnes atteintes",
+  "Projet 1 : âge de 0 à 90 ans (12 à 90 ans pour la biopsie cutanée)",
+  "Projet 2 : âge de 0 à 90 ans, accès facile à la clinique, capacité à rester à jeun et à passer l'EndoPAT",
+  "Projet 3 : âge de 7 à 90 ans",
+  "Témoins sains évalués pour une maladie cardiaque ou pulmonaire et jugés sains"
+ ],
+ "exclusion": [
+  "Autre diagnostic",
+  "Âge supérieur à 90 ans, inférieur à 12 ans pour la biopsie cutanée, ou inférieur à 7 ans pour le projet 3",
+  "Projet 2 : difficulté d'accès à la clinique ou impossibilité de rester à jeun"
+ ],
+ "bras": [
+  {"nom": "Patients avec HTAP", "traitement": "Patients du groupe 1 de l'OMS : prélèvements, dosages hormonaux et métaboliques, évaluation de la résistance à l'insuline, essai de metformine selon le projet"},
+  {"nom": "Sujets sains", "traitement": "Témoins évalués et jugés sains pour comparaison"}
+ ],
+ "duree": "Non précisé (critères évalués sur 3 à 5 ans)",
+ "critere": "Rapport des métabolites des hormones sexuelles, résistance à l'insuline et effet de la metformine, mécanisme et tolérance de l'ACE2 (5 ans ; essai de metformine à 3 ans)"
+}

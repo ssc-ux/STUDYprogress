@@ -1,0 +1,27 @@
+{
+ "h": "897c3b1f248b",
+ "date": "2026-11-14",
+ "titre": "RESONANCE : registre de l'histoire naturelle de la péricardite récidivante",
+ "question": "Quelle est l'histoire naturelle de la péricardite récidivante et quel est son retentissement clinique, sur la qualité de vie et économique ?",
+ "contexte": "La péricardite récidivante (PR) est une complication de la péricardite aiguë, définie par au moins une récidive après l'épisode initial. Elle est le plus souvent idiopathique ou considérée comme post-virale, avec une composante auto-inflammatoire impliquant l'interleukine-1. Elle altère la qualité de vie, entraîne des consultations et hospitalisations répétées, et expose aux effets des corticoïdes au long cours.\n\nLes recommandations reposent sur les AINS, la colchicine et les corticoïdes, avec une évolution souvent prolongée sur des années. Le rilonacept, une protéine de fusion bloquant IL-1α et IL-1β, est approuvé dans la PR aux États-Unis. Les données de vie réelle sur l'histoire naturelle, les stratégies de traitement et la charge de la maladie restent limitées, notamment chez l'enfant.\n\nCe registre observationnel, promu par Kiniksa Pharmaceuticals, inclut des patients de 7 ans et plus avec PR active (épisode dans les 3 dernières années et traitement en cours, suivi prospectif et rétrospectif) ou PR inactive (dernier épisode il y a 3 à 5 ans, données rétrospectives uniquement). Il documente aussi l'effet du rilonacept sur l'évolution clinique en conditions réelles.",
+ "interet": "Les données pourraient affiner les recommandations de prise en charge de la péricardite récidivante et préciser la charge de la maladie en vie réelle, avec un promoteur industriel dont le médicament est concerné.",
+ "profil": "Des patients de 7 ans et plus atteints de péricardite récidivante, active ou inactive.",
+ "inclusion": [
+  "Péricardite récidivante confirmée par un médecin (épisode initial puis au moins une récidive)",
+  "PR active : au moins un épisode dans les 3 ans précédents, suivi médical et traitement en cours",
+  "PR inactive : dernier épisode entre 3 et 5 ans avant l'inclusion, symptômes résolus et aucun traitement depuis 3 ans",
+  "Âge d'au moins 7 ans"
+ ],
+ "exclusion": [
+  "Péricardite secondaire à une tuberculose, un cancer non en rémission complète, un traumatisme thoracique, une myocardite, une maladie auto-immune systémique (hors Still de l'enfant et de l'adulte) ou le VIH",
+  "Déficience (cognitive, auditive, visuelle) ou langue insuffisante (anglais ou espagnol) pour remplir les questionnaires",
+  "Participation à un essai thérapeutique médicamenteux ou de dispositif",
+  "PR inactive : épisode de péricardite dans les 3 ans ou traitement de la PR en cours"
+ ],
+ "bras": [
+  { "nom": "PR active", "traitement": "Patients suivis et traités pour une PR, avec épisode dans les 3 ans ; recueil rétrospectif et prospectif" },
+  { "nom": "PR inactive", "traitement": "Patients sans épisode ni traitement depuis 3 ans ; recueil rétrospectif uniquement" }
+ ],
+ "duree": "Jusqu'à 5 ans",
+ "critere": "Nombre de patients utilisant un ou plusieurs traitements de la PR, sur 5 ans"
+}

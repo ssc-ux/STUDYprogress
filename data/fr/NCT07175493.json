@@ -1,0 +1,30 @@
+{
+ "h": "82cfefff86df",
+ "date": "2026-11-14",
+ "titre": "CM336, anticorps bispécifique BCMA/CD3, dans les cytopénies auto-immunes réfractaires",
+ "question": "Le CM336, anticorps bispécifique BCMA/CD3, est-il sûr et efficace dans les cytopénies auto-immunes en rechute ou réfractaires ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI), les anémies hémolytiques auto-immunes (AHAI à auto-anticorps chauds, mixtes ou maladie des agglutinines froides) et le syndrome d'Evans sont des cytopénies médiées par des auto-anticorps. Une partie des patients reste réfractaire aux corticoïdes, au rituximab, aux agonistes du récepteur de la thrombopoïétine ou à la splénectomie.\n\nLes plasmocytes à longue durée de vie, producteurs d'auto-anticorps, échappent aux traitements ciblant CD20. BCMA, exprimé sur les plasmocytes, est une cible logique pour les éliminer, et les anticorps bispécifiques BCMA/CD3, déjà utilisés dans le myélome, sont explorés dans les maladies auto-immunes.\n\nCette étude de phase 1/2 chinoise, promue par Keymed Biosciences, évalue le CM336 en injection chez 158 adultes, avec un critère de sécurité et des critères d'efficacité propres à chaque maladie : plaquettes ≥ 50 G/L pour le PTI, hémoglobine ≥ 100 g/L avec gain ≥ 20 g/L pour l'AHAI.",
+ "interet": "Un traitement ciblant les plasmocytes pourrait offrir une option aux patients en échec des thérapeutiques usuelles. Il s'agit d'une phase précoce, sans comparateur.",
+ "profil": "Des adultes atteints de PTI, d'AHAI ou de syndrome d'Evans en rechute ou réfractaires.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "ECOG 0 à 2",
+  "PTI, AHAI à auto-anticorps chauds, mixte, maladie des agglutinines froides ou syndrome d'Evans confirmés",
+  "AHAI en rechute ou réfractaire"
+ ],
+ "exclusion": [
+  "PTI ou AHAI secondaires, quelle qu'en soit la cause (anticorps positifs sans autre maladie auto-immune autorisés)",
+  "Autres types d'AHAI ou de cytopénie",
+  "Maladie grave pouvant compromettre la sécurité ou l'analyse",
+  "Traitement antérieur par anticorps anti-BCMA",
+  "Patient jugé inapte par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "CM336",
+   "traitement": "Injection de CM336 (anticorps bispécifique BCMA/CD3) ; posologie non précisée"
+  }
+ ],
+ "duree": "Jusqu'à 52 semaines",
+ "critere": "Événements indésirables (52 semaines) ; efficacité à 8 semaines ; PTI : plaquettes ≥ 50 G/L au moins deux fois ; AHAI : hémoglobine ≥ 100 g/L et gain ≥ 20 g/L, jusqu'à 52 semaines."
+}

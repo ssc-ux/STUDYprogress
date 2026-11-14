@@ -1,0 +1,29 @@
+{
+ "h": "21589b5a993b",
+ "date": "2026-11-14",
+ "titre": "MGD024, anticorps bispécifique CD123 x CD3, dans des hémopathies malignes en rechute",
+ "question": "Quelle est la tolérance et la dose recommandée de MGD024, anticorps bispécifique CD123 x CD3, chez des patients ayant une hémopathie maligne CD123 positive en rechute ou réfractaire ?",
+ "contexte": "Plusieurs hémopathies expriment fortement le CD123 (chaîne alpha du récepteur de l'IL-3) : leucémie aiguë myéloïde, syndromes myélodysplasiques, néoplasie plasmocytoïde dendritique blastique (BPDCN), leucémie à tricholeucocytes, mastocytose systémique avancée, et certains lymphomes de Hodgkin. En rechute après les traitements standard, les options curatives sont rares.\n\nLe MGD024 est une molécule DART bispécifique qui lie le CD123 des cellules tumorales et le CD3 des lymphocytes T, pour rediriger ces derniers contre la tumeur. Le risque principal de cette classe est le syndrome de relargage cytokinique.\n\nCette phase 1 de MacroGenics, première chez l'homme, est ouverte et en escalade de dose, chez 130 adultes ayant au moins 20 % de cellules tumorales CD123 positives. Elle évalue la tolérance, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'activité antitumorale préliminaire.",
+ "interet": "Il s'agit d'une étude de recherche de dose en onco-hématologie. Les résultats détermineront si le MGD024 mérite un développement ultérieur.",
+ "profil": "Des adultes ayant une hémopathie maligne CD123 positive en rechute ou réfractaire, sans option curative.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement éclairé",
+  "LAM, SMD (score pronostique > 3, < 20 % de blastes), lymphome de Hodgkin classique, LMC, LAL B, leucémie à tricholeucocytes, mastocytose systémique avancée ou BPDCN",
+  "Rechute ou réfractaire à au moins une ligne, sans traitement curatif disponible",
+  "Au moins 20 % de cellules malignes CD123 positives",
+  "ECOG ≤ 2, espérance de vie ≥ 12 semaines",
+  "Contraception très efficace jusqu'à 4 mois après la dernière dose"
+ ],
+ "exclusion": [
+  "Traitement antérieur anti-CD123 (tagraxofusp admis dans la BPDCN)",
+  "Atteinte connue du système nerveux central",
+  "Traitement anticancéreux, produit expérimental, corticoïdes ou immunosuppresseurs dans les 14 jours",
+  "Vaccin vivant dans les 4 semaines",
+  "Toute situation pouvant fausser les résultats ou gêner la participation"
+ ],
+ "bras": [
+  { "nom": "Escalade de dose", "traitement": "MGD024 en doses croissantes, selon la tolérance du niveau précédent" }
+ ],
+ "duree": "Jusqu'à 12 mois de participation",
+ "critere": "Nombre de toxicités sévères les 28 premiers jours, et nombre et type d'événements indésirables (dont graves ou ayant conduit à l'arrêt) pendant l'étude, jusqu'à 12 mois"
+}

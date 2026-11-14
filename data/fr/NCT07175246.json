@@ -1,0 +1,27 @@
+{
+ "h": "f58e1da44d67",
+ "date": "2026-11-14",
+ "titre": "Troubles respiratoires du sommeil dans la sclérodermie systémique : étude polysomnographique",
+ "question": "Quels sont les profils de troubles respiratoires du sommeil chez les patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (ScS) est une maladie auto-immune caractérisée par une fibrose progressive de la peau et des organes internes. La fatigue, le sommeil non réparateur et la mauvaise qualité du sommeil y sont fréquents mais sous-évalués en pratique.\n\nLes données suggèrent une prévalence notable de syndrome d'apnées obstructives du sommeil, de mouvements périodiques des membres et d'insomnie dans la ScS. Les causes sont probablement multiples : fibrose pulmonaire, reflux gastro-œsophagien, douleurs musculo-squelettiques et stress psychologique. La fibrose pulmonaire et le syndrome restrictif exposent aussi à une hypoxie nocturne et à une fragmentation du sommeil, qui peuvent aggraver la fatigue et la qualité de vie.\n\nPeu de travaux ont recours à la polysomnographie, examen de référence. Cette étude observationnelle égyptienne (Assiut University) prévoit de décrire les anomalies du sommeil en polysomnographie chez 30 adultes atteints de ScS (critères ACR/EULAR 2013).",
+ "interet": "L'étude pourrait documenter la fréquence et le type des troubles du sommeil dans la ScS et justifier leur dépistage systématique devant une fatigue inexpliquée. Elle est de petite taille et descriptive.",
+ "profil": "Des adultes atteints de sclérodermie systémique confirmée.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie systémique confirmée selon les critères ACR/EULAR 2013"
+ ],
+ "exclusion": [
+  "Trouble primaire du sommeil diagnostiqué avant la sclérodermie",
+  "Sédatifs ou hypnotiques dans le mois précédent modifiant l'architecture du sommeil",
+  "Atteinte psychiatrique ou neurologique sévère",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de sclérodermie systémique",
+   "traitement": "Une polysomnographie nocturne (examen diagnostique)"
+  }
+ ],
+ "duree": "Une nuit de polysomnographie (environ 6 heures)",
+ "critere": "Troubles du sommeil détectés en polysomnographie chez les patients atteints de sclérodermie (évaluation sur 6 heures)."
+}

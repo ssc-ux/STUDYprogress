@@ -1,0 +1,30 @@
+{
+ "h": "d67c407c066b",
+ "date": "2026-11-14",
+ "titre": "Greffe pulmonaire bilatérale suivie d'une greffe de moelle du même donneur dans les déficits immunitaires primitifs",
+ "question": "Une greffe bilatérale de poumons suivie d'une greffe de moelle déplétée en CD3/CD19 du même donneur cadavérique partiellement compatible est-elle sûre et efficace chez des patients ayant un déficit immunitaire primitif et une atteinte pulmonaire terminale ?",
+ "contexte": "Chez beaucoup de patients atteints de déficit immunitaire primitif, la greffe de cellules souches hématopoïétiques est curative. Mais des infections chroniques ou récidivantes peuvent entraîner une atteinte pulmonaire avancée qui rend la greffe de moelle trop risquée, avec une mortalité et des complications pulmonaires élevées.\n\nCette étude de phase 1/2 du Children's Hospital of Pittsburgh (UPMC) propose de greffer d'abord les poumons, pour restaurer la fonction respiratoire, puis la moelle du même donneur cadavérique partiellement compatible, déplétée en CD3 et CD19 (CliniMACS), afin de guérir le déficit immunitaire sous-jacent. L'espoir secondaire est d'obtenir une tolérance permettant l'arrêt des immunosuppresseurs. Elle est promue par l'investigateur (IND original).",
+ "interet": "L'étude pourrait ouvrir la voie à la guérison de patients aujourd'hui exclus de la greffe de moelle en raison de leur atteinte pulmonaire. Les résultats ne sont pas encore au registre.",
+ "profil": "Des patients de 5 à 45 ans ayant un déficit immunitaire primitif et une atteinte pulmonaire terminale éligibles à une greffe pulmonaire bilatérale.",
+ "inclusion": [
+  "Âge de 5 à 45 ans",
+  "Déficit immunitaire primitif justifiant une greffe de moelle (SCID, Omenn, DiGeorge, neutropénie chronique sévère, granulomatose septique chronique, hyper-IgE, déficit en CD40/CD40L, Wiskott-Aldrich, sensibilité mendélienne aux mycobactéries, GATA2)",
+  "Atteinte pulmonaire terminale et candidat à la greffe bilatérale selon l'équipe de transplantation",
+  "Fonction rénale (DFG ≥ 50), hépatique et cardiaque (FE ≥ 40 %) conservées",
+  "Contraception efficace jusqu'à 24 mois après la greffe de moelle",
+  "Consentement du patient ou du tuteur"
+ ],
+ "exclusion": [
+  "Maladie maligne sous-jacente",
+  "Pathologie ne nécessitant pas de greffe de cellules souches",
+  "VIH ou HTLV positifs",
+  "Grossesse ou allaitement, allergie au DMSO",
+  "Infection pulmonaire ou systémique non contrôlée",
+  "Vaccin vivant atténué dans les 4 semaines précédant la greffe"
+ ],
+ "bras": [
+  {"nom": "BOLT + BMT", "traitement": "Greffe bilatérale de poumons suivie d'une greffe de moelle du même donneur cadavérique partiellement compatible, déplétée en CD3/CD19 par CliniMACS"}
+ ],
+ "duree": "Suivi de 2 ans après la greffe de cellules souches",
+ "critere": "Sécurité (décès, syndrome d'implantation, échec de prise de greffe, rituximab) jusqu'à 2 ans, et efficacité (score de syndrome de bronchiolite oblitérante et chimérisme T, myéloïde et B) à 1 an"
+}

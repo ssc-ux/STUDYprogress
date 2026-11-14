@@ -1,0 +1,34 @@
+{
+ "h": "0d9ffe907789",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19/BCMA AZD0120 dans l'amylose AL en rechute ou réfractaire",
+ "question": "Le CAR-T AZD0120 (anti-CD19/BCMA) est-il sûr et efficace chez des patients atteints d'amylose AL en rechute ou réfractaire ?",
+ "contexte": "Dans l'amylose AL, un clone plasmocytaire produit des chaînes légères qui se déposent dans les organes. La réduction profonde et rapide de la production de chaînes légères permet d'améliorer la survie et la fonction d'organe. Les traitements actuels reposent sur les anti-CD38 (daratumumab), les inhibiteurs du protéasome, les alkylants et le vénétoclax pour la t(11;14).\n\nPour les patients en rechute ou réfractaires après au moins une ligne dirigée contre les plasmocytes, les options sont plus limitées. Les thérapies ciblant BCMA (CAR-T, bispécifiques) ont une activité forte dans le myélome et font l'objet d'études précoces dans l'amylose AL.\n\nAZD0120 est un CAR-T ciblant CD19 et BCMA, développé par Alexion (AstraZeneca). Cet essai de phase 1b/2 ouvert, monobras, inclut 91 patients avec des doses fondées sur le poids. La phase 1b évalue la tolérance, la phase 2 la réponse complète hématologique.",
+ "interet": "L'étude pourrait situer un CAR-T à un seul passage comme option de rechute dans l'amylose AL, avec une réponse hématologique profonde. Les patients de stade Mayo IIIB sont exclus.",
+ "profil": "Des adultes atteints d'amylose AL en rechute ou réfractaire après au moins une ligne de traitement antiplasmocytaire.",
+ "inclusion": [
+  "Amylose AL confirmée par histologie",
+  "Atteinte d'au moins un organe, actuelle ou passée",
+  "Maladie mesurable : dFLC > 20 mg/L ou pic monoclonal sérique > 5 g/L",
+  "Rechute ou réfractaire après au moins une ligne antiplasmocytaire",
+  "ECOG 0 à 2",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Autre forme d'amylose",
+  "Amylose AL de stade Mayo IIIB",
+  "Saturation en oxygène < 95 % en air ambiant ou PAS < 100 mmHg",
+  "Insuffisance cardiaque NYHA III-IV",
+  "Atteinte digestive étendue avec risque hémorragique",
+  "CAR-T ou thérapie anti-BCMA antérieure, ou thérapie engageant les lymphocytes T dans les 6 mois",
+  "Leucémie à plasmocytes ou myélome symptomatique"
+ ],
+ "bras": [
+  {
+   "nom": "AZD0120",
+   "traitement": "CAR-T anti-CD19/BCMA, dose adaptée au poids"
+  }
+ ],
+ "duree": "Au moins 6 mois",
+ "critere": "Phase 1b : fréquence et gravité des événements indésirables. Phase 2 : proportion de patients en réponse complète hématologique, avec un suivi d'au moins 6 mois."
+}

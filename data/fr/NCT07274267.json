@@ -1,0 +1,32 @@
+{
+ "h": "8fcbccb2a4a0",
+ "date": "2026-11-14",
+ "titre": "Entraînement des muscles inspiratoires dans les myopathies inflammatoires",
+ "question": "Trois mois d'entraînement des muscles inspiratoires à domicile améliorent-ils la force inspiratoire des patients ayant une myopathie inflammatoire ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, polymyosite, myosite à inclusions, etc.) sont des maladies auto-immunes rares, responsables d'une faiblesse musculaire proximale progressive. Les muscles respiratoires, dont le diaphragme, sont souvent touchés, ce qui favorise dyspnée, fatigue et baisse de la tolérance à l'effort.\n\nL'exercice est bénéfique dans de nombreuses maladies neuromusculaires et la rééducation fait partie de la prise en charge des myosites. Mais l'entraînement spécifique des muscles inspiratoires n'a pas été évalué dans cette population.\n\nCette étude pilote monocentrique polonaise (Université de médecine de Varsovie) propose un entraînement quotidien de 30 inspirations avec un dispositif à seuil, à 30 % de la pression inspiratoire maximale (PIM), ajustée progressivement. Un suivi téléphonique toutes les 2 semaines et un carnet d'exercices sont prévus.",
+ "interet": "Elle apportera les premières données sur une rééducation simple, peu coûteuse et réalisable à domicile. Étude pilote sans groupe contrôle, ses résultats serviront surtout à planifier un essai randomisé.",
+ "profil": "Des adultes avec une myopathie inflammatoire stable, capables de participer à une activité physique.",
+ "inclusion": [
+  "Myopathie inflammatoire selon les critères EULAR/ACR",
+  "Âge ≥ 18 ans",
+  "État clinique stable permettant l'activité physique",
+  "Capacité à comprendre et suivre les consignes",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Trouble cognitif empêchant l'exercice",
+  "Infection respiratoire en cours",
+  "Entraînement musculaire respiratoire dans les 12 derniers mois",
+  "Antécédent de pneumothorax spontané",
+  "Hypertension pulmonaire",
+  "Rupture tympanique ou autre atteinte de l'oreille moyenne"
+ ],
+ "bras": [
+  {
+   "nom": "Entraînement des muscles inspiratoires",
+   "traitement": "Dispositif à seuil (Threshold IMT), 30 inspirations par jour, 7 jours/7, à 30 % de la PIM, pendant 3 mois"
+  }
+ ],
+ "duree": "3 mois d'entraînement, suivi jusqu'à 12 mois",
+ "critere": "Variation de la pression inspiratoire maximale (PIM) avant entraînement, au départ, à 3, 6, 9 et 12 mois"
+}

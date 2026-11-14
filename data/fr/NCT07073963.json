@@ -1,0 +1,35 @@
+{
+ "h": "5fd392bf7b8e",
+ "date": "2026-11-14",
+ "titre": "Groupes virtuels de pleine conscience pour la fatigue de la sarcoïdose",
+ "question": "Un programme virtuel de réduction du stress par la pleine conscience (MBSR) réduit-il la fatigue des patients atteints de sarcoïdose, par rapport à un groupe de soutien ?",
+ "contexte": "La fatigue est l'un des symptômes les plus fréquents et les plus handicapants de la sarcoïdose, présente chez une majorité de patients même lorsque la maladie est peu active. Elle est souvent associée à l'anxiété, à la dépression et à une baisse de la qualité de vie, et répond mal aux traitements de la sarcoïdose elle-même.\n\nLes options non médicamenteuses sont peu évaluées. La réduction du stress par la pleine conscience (MBSR) a montré des bénéfices sur la fatigue et la détresse psychologique dans d'autres maladies chroniques.\n\nCet essai randomisé de la Cleveland Clinic inclut 100 patients et compare un programme MBSR virtuel de 8 semaines (séance hebdomadaire en ligne avec un instructeur certifié, journal quotidien) à un groupe de soutien virtuel mensuel pendant 5 mois. Les deux groupes remplissent les mêmes questionnaires de fatigue, d'anxiété et de dépression à l'inclusion, à 8 semaines et à 5 mois.",
+ "interet": "Si le MBSR virtuel réduit la fatigue, il pourrait être proposé en complément du traitement, à distance et à faible coût, aux patients atteints de sarcoïdose. L'étude est limitée aux patients anglophones.",
+ "profil": "Des adultes atteints de sarcoïdose et de fatigue marquée, anglophones et avec accès à Internet.",
+ "inclusion": [
+  "Sarcoïdose déclarée par le patient",
+  "Fatigue avec score FAS ≥ 22",
+  "Âge ≥ 18 ans",
+  "Maîtrise de l'anglais parlé et écrit",
+  "Accès à Internet et à la vidéo en ligne",
+  "Capacité à consentir"
+ ],
+ "exclusion": [
+  "Pratique quotidienne actuelle de la méditation",
+  "Antécédent de programme de pleine conscience formel (MBSR, MBCT, ACT, TCD)",
+  "Condition incompatible avec une intervention de groupe, dont idées suicidaires",
+  "Absence d'accès à la vidéo en ligne"
+ ],
+ "bras": [
+  {
+   "nom": "MBSR virtuel",
+   "traitement": "Programme de 8 semaines, une séance en ligne par semaine avec un instructeur certifié et journal quotidien"
+  },
+  {
+   "nom": "Groupe de soutien virtuel",
+   "traitement": "Groupe de soutien sarcoïdose en ligne, une fois par mois pendant 5 mois"
+  }
+ ],
+ "duree": "5 mois",
+ "critere": "Score de fatigue PROMIS Fatigue 8a, de l'inclusion à la fin de l'étude à 5 mois."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "41c3bbd828b2",
+ "date": "2026-11-14",
+ "titre": "CAR-T trispécifiques CD19/CD22/BCMA dans le lupus, les myosites et le PTI réfractaires",
+ "question": "Un CAR-T trispécifique CD19/CD22/BCMA (BZE2204), sans lymphodéplétion, est-il sûr chez des patients atteints de maladies auto-immunes réfractaires ?",
+ "contexte": "Le lupus érythémateux systémique (LES), les myopathies inflammatoires idiopathiques (MII) et le purpura thrombopénique immunologique (PTI) peuvent rester actifs malgré les corticoïdes, les immunosuppresseurs et les biothérapies. Les formes réfractaires, notamment la néphrite lupique proliférative, exposent à des atteintes d'organe et à une forte morbidité liée aux traitements.\n\nLes CAR-T ciblant CD19 ont montré des rémissions profondes dans le lupus et d'autres maladies auto-immunes, mais une partie des patients rechute, probablement parce que des plasmocytes à longue durée de vie, CD19 négatifs et producteurs d'auto-anticorps, persistent. Le BZE2204 cible simultanément CD19, CD22 et BCMA pour atteindre à la fois les lymphocytes B et les plasmocytes.\n\nCette étude de phase 1 chinoise, en escalade puis extension de dose, évalue un produit fabriqué par un procédé rapide d'environ 6 heures, sans expansion ex vivo, et administré sans chimiothérapie lymphodéplétive, ce qui pourrait réduire la toxicité et le délai de traitement. Le critère principal est la sécurité ; des analyses exploratoires de reconstitution immunitaire sont prévues, avec biopsies ganglionnaires facultatives. L'étude est monocentrique, promue par Shanghai Cell Therapy Group.",
+ "interet": "Si la sécurité et les premières réponses se confirment, ce CAR-T court et sans lymphodéplétion pourrait devenir une option de dernier recours simplifiée pour plusieurs maladies auto-immunes. Il s'agit d'une phase précoce : aucun changement de pratique n'est à attendre à court terme.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, de myosite ou de PTI actifs, en rechute ou réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, espérance de vie > 6 mois",
+  "Fonctions médullaire, hépatique, rénale, de coagulation et pulmonaire adéquates (SaO2 ≥ 91 % en air ambiant)",
+  "Myosite (DM, PM, syndrome des antisynthétases, myopathie nécrosante) active avec auto-anticorps et échec des corticoïdes et d'au moins un immunosuppresseur",
+  "PTI > 3 mois, plaquettes < 50 G/L à deux reprises, échec d'une première ligne ou de la splénectomie",
+  "LES (critères 2019) avec SLEDAI-2K ≥ 8 et anticorps antinucléaires/anti-ADN ; néphrite lupique III/IV ± V possible",
+  "Échec ou intolérance à au moins un immunosuppresseur ou une biothérapie"
+ ],
+ "exclusion": [
+  "Hypersensibilité grave aux composants du produit",
+  "Cardiopathie grave ou atteinte neurologique centrale sévère récente",
+  "Cancer en cours ou antécédent (hors exceptions du protocole)",
+  "VIH, hépatite B ou C active, syphilis, EBV/CMV avec charge élevée",
+  "Tuberculose active ou latente non traitée, infection non contrôlée",
+  "Myosite à inclusions, dermatomyosite amyopathique ou myosite secondaire",
+  "PTI avec plaquettes < 10 G/L et saignement actif ; lupus avec crise récente ou atteinte neuropsychiatrique active"
+ ],
+ "bras": [
+  {
+   "nom": "BZE2204 (CAR-T CD19/CD22/BCMA)",
+   "traitement": "Perfusion intraveineuse unique à J0 de CAR-T autologues trispécifiques, sans lymphodéplétion préalable ; escalade puis extension de dose"
+  }
+ ],
+ "duree": "6 mois d'évaluation principale, puis suivi prolongé",
+ "critere": "Incidence et gravité des événements indésirables (graves ou non) de la leucaphérèse à 6 mois, et toxicités limitant la dose entre J0 et J28."
+}

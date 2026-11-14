@@ -1,0 +1,26 @@
+{
+ "h": "d1d12104318a",
+ "date": "2026-11-14",
+ "titre": "Observance médicamenteuse et évolution clinique dans la sarcoïdose",
+ "question": "Une meilleure observance des traitements oraux de la sarcoïdose est-elle associée à une meilleure évolution clinique, et quels facteurs la freinent ?",
+ "contexte": "La sarcoïdose est une maladie inflammatoire granulomateuse systémique, qui touche surtout le poumon. Le traitement repose sur les corticoïdes, souvent associés à des immunosuppresseurs d'épargne cortisonique comme le méthotrexate ou l'azathioprine. Ces traitements sont pris pendant des mois, voire des années, avec des effets indésirables non négligeables.\n\nL'observance des traitements chroniques est un déterminant bien connu du résultat clinique dans d'autres maladies. Elle reste peu étudiée dans la sarcoïdose, alors que des facteurs sociaux, la peur des effets indésirables et la complexité du schéma peuvent la réduire.\n\nCette cohorte du Johns Hopkins University suit 150 adultes du Maryland et de Washington, ayant une atteinte pulmonaire prouvée par biopsie et un traitement oral depuis au moins 6 mois. L'hypothèse est qu'une meilleure observance est liée à de meilleurs résultats cliniques. L'étude recherche aussi les freins à la prise des médicaments et prépare des interventions de soutien. Les critères sont le questionnaire KSQ, le SGRQ et la spirométrie (VEMS, CVF, DLCO) à l'inclusion, 6 et 12 mois.",
+ "interet": "L'étude pourrait préciser le poids de l'observance sur l'évolution de la sarcoïdose et orienter des interventions de soutien aux patients.",
+ "profil": "Des adultes ayant une sarcoïdose pulmonaire prouvée, traités par voie orale depuis au moins 6 mois, résidant dans le Maryland ou à Washington.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sarcoïdose diagnostiquée par un médecin, atteinte pulmonaire prouvée par biopsie",
+  "Traitement oral de la sarcoïdose depuis au moins 6 mois",
+  "Résidence permanente dans le Maryland ou à Washington",
+  "Vaccination complète contre la COVID-19"
+ ],
+ "exclusion": [
+  "Patient non anglophone",
+  "Incapacité à donner son consentement",
+  "Incapacité à répondre à des questionnaires oraux"
+ ],
+ "bras": [
+  { "nom": "Cohorte sarcoïdose", "traitement": "Patients traités par médicaments oraux de la sarcoïdose, avec mesure de l'observance et suivi clinique, sans intervention" }
+ ],
+ "duree": "12 mois",
+ "critere": "Variation des scores KSQ et SGRQ et du VEMS, de la CVF et de la DLCO, à l'inclusion, 6 et 12 mois"
+}

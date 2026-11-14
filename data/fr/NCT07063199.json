@@ -1,0 +1,32 @@
+{
+ "h": "18d668ccb1de",
+ "date": "2026-11-14",
+ "titre": "Daratumumab chez les patients âgés atteints de PTI primaire multi-traités",
+ "question": "Le daratumumab, anticorps anti-CD38, est-il sûr et efficace chez les patients âgés atteints de PTI primaire après échec de plusieurs traitements ?",
+ "contexte": "Le PTI est traité en première ligne par corticoïdes et immunoglobulines, puis par agonistes du récepteur de la thrombopoïétine, splénectomie ou immunosuppresseurs (rituximab, vincristine, azathioprine). Beaucoup de patients nécessitent un traitement d'entretien, avec un retentissement sur la qualité de vie. Les sujets âgés sont plus exposés au PTI, présentent souvent des facteurs de risque cardiovasculaire et tolèrent mal les corticoïdes et les immunosuppresseurs.\n\nLes plasmocytes à longue durée de vie, qui produisent des auto-anticorps, pourraient expliquer l'échec de certains traitements ciblant les lymphocytes B. Des plasmocytes antiplaquettes ont été retrouvés dans la rate de patients réfractaires au rituximab. Le daratumumab, anticorps anti-CD38 utilisé dans le myélome, cible ces plasmocytes.\n\nLe promoteur indique avoir mené un essai antérieur chez l'adulte (16 mg/kg par semaine pendant 8 semaines), avec une montée rapide des plaquettes et un taux de réponse d'environ 60 % à 24 semaines, mais peu de patients âgés. Cette étude de phase 2 de l'Institut d'hématologie de Tianjin est monocentrique, ouverte, à bras unique, et inclut 30 patients de 60 ans et plus, avec 4 injections hebdomadaires de daratumumab.",
+ "interet": "Elle pourrait établir une option pour les PTI âgés multi-traités, une population fragile pour laquelle les alternatives sont limitées. Les résultats de l'étude antérieure rapportés par le promoteur ne sont pas ceux de cet essai.",
+ "profil": "Des adultes de 60 ans et plus atteints de PTI primaire depuis au moins 3 mois, en échec des corticoïdes et d'au moins une deuxième ligne.",
+ "inclusion": [
+  "Âge ≥ 60 ans",
+  "PTI primaire diagnostiqué depuis au moins 3 mois (ASH 2011 ou consensus international)",
+  "Échec des corticoïdes et d'au moins une deuxième ligne, avec réponse antérieure à une première ligne (plaquettes ≥ 50 G/L)",
+  "Plaquettes < 30 G/L dans les 24 h avant la première administration (moyenne de 2 mesures < 30 G/L, aucune > 35 G/L)",
+  "ECOG ≤ 2",
+  "Traitement d'entretien stable depuis 4 semaines autorisé (corticoïdes ≤ 0,5 mg/kg ou agoniste de la TPO, un seul)",
+  "Contraception efficace pendant et après le traitement"
+ ],
+ "exclusion": [
+  "Allergie aux anti-CD38, ou échec ou réponse < 6 mois à un anti-CD38 antérieur",
+  "Thrombopénie secondaire ou anémie hémolytique auto-immune associée",
+  "Événement thrombotique ou hémorragie sévère dans les 12 mois, antiagrégants dans les 3 semaines",
+  "Rituximab, cyclophosphamide ou vindésine dans les 6 mois, autres immunosuppresseurs dans les 4 semaines, splénectomie dans les 6 mois",
+  "Myélodysplasie, cancer dans les 5 ans, greffe allogénique ou d'organe",
+  "Infarctus ou angor instable dans les 6 mois, insuffisance cardiaque NYHA III-IV, asthme ou BPCO modérés à sévères",
+  "Infections sévères ou récurrentes, VIH, syphilis, hépatite B ou C active, IgG < 500 mg/dL, neutrophiles < 1,5 G/L, lymphocytes < 0,5 G/L, hémoglobine < 9 g/dL"
+ ],
+ "bras": [
+  { "nom": "Daratumumab", "traitement": "Daratumumab en injection, une fois par semaine pendant 4 semaines (4 doses)" }
+ ],
+ "duree": "24 semaines",
+ "critere": "Événements indésirables du traitement anti-CD38 (24 semaines) et efficacité du daratumumab dans les 8 semaines."
+}

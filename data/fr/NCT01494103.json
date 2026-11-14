@@ -1,0 +1,28 @@
+{
+ "h": "9ef117b6e9ce",
+ "date": "2026-11-14",
+ "titre": "DOTTI : lymphocytes T du donneur haplo-identique avec gène suicide caspase 9 inductible",
+ "question": "Quelle dose de lymphocytes T haplo-identiques portant le gène suicide iCasp9 peut-on administrer en sécurité après greffe, et accélère-t-elle la reconstitution immunitaire ?",
+ "contexte": "La greffe de cellules souches haplo-identique permet de greffer des patients sans donneur compatible, mais elle expose à un risque accru de maladie du greffon contre l'hôte (GvHD) et à une reconstitution immunitaire retardée. La GvHD est une complication parfois fatale.\n\nCette étude de phase 1 du Baylor College of Medicine teste des lymphocytes T du donneur, cultivés puis transduits par un gène suicide iCasp9, qui les rend sensibles à un médicament expérimental, l'AP1903. En cas de GvHD, l'AP1903 détruit les cellules incriminées en épargnant une partie des lymphocytes utiles contre les infections et la maladie résiduelle, comme l'avait suggéré une étude antérieure. Les cellules sont perfusées une fois, entre J30 et J90 après la greffe, selon cinq niveaux de dose croissants.",
+ "interet": "L'étude cherche une dose sûre et efficace de lymphocytes T à gène suicide, pour accélérer la reconstitution immunitaire après greffe haplo-identique. Les résultats ne sont pas encore au registre.",
+ "profil": "Des patients atteints d'hémopathie à haut risque ou de lymphohistiocytose hémophagocytaire, recevant une greffe haplo-identique, sans donneur conventionnel adéquat.",
+ "inclusion": [
+  "Absence de donneur conventionnel adapté (5/6 ou 6/6) ou maladie rapidement évolutive",
+  "Hémopathie à haut risque : SMD, LAM après première rechute ou réfractaire, LMC en phase avancée, LAL ou lymphome agressif stade III-IV après première rechute, HLH et syndromes apparentés, XLP",
+  "À la perfusion : greffe prise (PNN > 500), chimérisme donneur ≥ 50 % ou rechute",
+  "Espérance de vie > 30 jours, score Lansky/Karnofsky ≥ 60",
+  "Fonctions rénale et hépatique conservées, saturation en oxygène > 94 %",
+  "Consentement du patient ou du tuteur, AP1903 disponible en quantité suffisante"
+ ],
+ "exclusion": [
+  "GvHD au moment de la perfusion",
+  "Infection intercurrente sévère",
+  "Grossesse (chez les femmes à risque)",
+  "Autre médicament expérimental dans les 30 jours précédents"
+ ],
+ "bras": [
+  {"nom": "Lymphocytes T iCaspase9", "traitement": "Perfusion unique de lymphocytes T du donneur transduits, à l'un de 5 niveaux de dose (1×10^4 à 5×10^6 cellules/kg) ; AP1903 si GvHD de grade ≥ 1"}
+ ],
+ "duree": "Suivi hebdomadaire le premier mois après la perfusion, puis suivi de transplantation habituel",
+ "critere": "Effets cliniques et immunologiques de l'administration d'AP1903, sur 14 jours"
+}

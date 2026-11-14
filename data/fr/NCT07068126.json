@@ -1,0 +1,25 @@
+{
+ "h": "f7626b077842",
+ "date": "2026-11-14",
+ "titre": "Immunoglobulines IV en mini-pool dans le PTI persistant de l'enfant (pays à revenu faible ou intermédiaire)",
+ "question": "Des immunoglobulines IV issues de petits pools de plasma sont-elles sûres et efficaces chez l'enfant atteint de PTI persistant ?",
+ "contexte": "Le PTI persistant correspond à une thrombopénie durant de 3 à 12 mois après le diagnostic. Chez l'enfant qui ne répond plus aux traitements de première ligne (corticoïdes, immunoglobulines IV standards), les options sont limitées, en particulier dans les pays à revenu faible ou intermédiaire où les préparations commerciales d'immunoglobulines sont chères.\n\nLes immunoglobulines IV en mini-pool sont préparées à partir de petits pools de plasma collectés localement, avec une procédure validée d'inactivation virale et de purification des IgG, ce qui permet une production sûre et peu coûteuse. Elles ont montré leur efficacité et leur bonne tolérance dans le PTI aigu de l'enfant, mais pas encore comme traitement de deuxième ligne du PTI persistant.\n\nCette étude égyptienne prospective, multicentrique (3 centres universitaires d'Assiout, Zagazig et Aïn Shams), à bras unique, inclut 20 enfants de 1 à 10 ans atteints de PTI persistant, sans exposition antérieure aux agonistes de la thrombopoïétine. Les enfants reçoivent une dose de charge de 1 g/kg (perfusion de 6 à 8 heures), puis jusqu'à cinq doses d'entretien de 0,5 g/kg toutes les 2 à 4 semaines, selon la numération plaquettaire. Le suivi dure 6 mois après le traitement, avec évaluation des saignements, de l'activité physique et de la scolarité.",
+ "interet": "Elle pourrait valider une option abordable pour les enfants dont le PTI persiste, là où les immunoglobulines standards sont inaccessibles. Il s'agit d'un essai de petite taille, sans groupe comparateur.",
+ "profil": "Des enfants de 1 à 10 ans atteints de PTI persistant, sans traitement antérieur par agoniste de la thrombopoïétine.",
+ "inclusion": [
+  "Âge de 1 à 10 ans, garçons et filles",
+  "PTI persistant selon la définition de l'ASH",
+  "Aucun traitement antérieur par agoniste de la thrombopoïétine"
+ ],
+ "exclusion": [
+  "Antécédent d'effet indésirable sévère aux immunoglobulines IV",
+  "Antécédent d'hémorragie intracrânienne",
+  "Abord veineux difficile",
+  "Thrombopénie congénitale, PTI secondaire ou thrombopénie non immune"
+ ],
+ "bras": [
+  { "nom": "Immunoglobulines IV en mini-pool", "traitement": "Dose de charge de 1 g/kg sur 6 à 8 heures, puis jusqu'à 5 doses d'entretien de 0,5 g/kg toutes les 2 à 4 semaines, selon les plaquettes" }
+ ],
+ "duree": "Traitement jusqu'à 6 doses, puis suivi de 6 mois après le traitement",
+ "critere": "Fréquence et gravité des saignements, réponse plaquettaire (mensuelle puis jusqu'à 6 mois après la dernière dose) et fréquence des hospitalisations pour saignement critique, de l'inclusion à 6 mois après le traitement."
+}

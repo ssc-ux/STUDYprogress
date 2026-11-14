@@ -1,0 +1,32 @@
+{
+ "h": "ba58f3457877",
+ "date": "2026-11-14",
+ "titre": "Ruxolitinib adapté à la réponse dans la lymphohistiocytose hémophagocytaire (HLH)",
+ "question": "Un schéma associant ruxolitinib, dexaméthasone et étoposide, adapté à la réponse, est-il efficace et bien toléré dans la HLH nouvellement diagnostiquée ou en rechute ou réfractaire ?",
+ "contexte": "La lymphohistiocytose hémophagocytaire (HLH) est un syndrome d'hyperinflammation menaçant le pronostic vital, avec fièvre, splénomégalie, cytopénies, hypertriglycéridémie, hyperferritinémie et hémophagocytose. Elle peut être familiale (variants de PRF1, UNC13D, STX11, STXBP2, RAB27A, XIAP, SH2D1A) ou secondaire à une infection, une maladie auto-immune ou un cancer.\n\nLe traitement de référence repose sur la dexaméthasone et l'étoposide (protocole HLH-94/2004), souvent suivis d'une allogreffe dans les formes familiales. L'étoposide est toxique, avec myélosuppression et risque infectieux, et une partie des patients restent réfractaires ou rechutent. L'emapalumab, anticorps anti-interféron gamma, est une option dans les formes réfractaires.\n\nLe ruxolitinib, inhibiteur de JAK1/2, bloque la signalisation de plusieurs cytokines impliquées dans la HLH (dont l'interféron gamma) et pourrait permettre de réduire, voire d'éviter, l'étoposide. Cet essai multicentrique de phase 1b/2 du St. Jude Children's Research Hospital comporte deux bras non randomisés : un bras de première ligne (phase de sécurité puis d'expansion) et un bras de sauvetage pour HLH récidivante ou réfractaire. Le ruxolitinib est associé à la dexaméthasone, l'étoposide n'étant ajouté qu'en l'absence de réponse favorable.",
+ "interet": "Si l'efficacité se confirme, un schéma à base de ruxolitinib pourrait limiter l'exposition à l'étoposide en première ligne et offrir une option orale dans les formes réfractaires, en pont vers la greffe.",
+ "profil": "Des nourrissons, enfants et jeunes de 6 semaines à 22 ans atteints de HLH active, nouvellement diagnostiquée ou en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 6 semaines à 22 ans, poids d'au moins 3 kg, capable de prendre le traitement par voie orale ou par sonde nasogastrique",
+  "Première ligne : HLH active avec au moins 5 critères diagnostiques sur 8, ou HLH familiale connue ou très probable avec au moins 4 critères",
+  "Première ligne : aucun traitement antérieur de la HLH, hormis corticoïdes ou anakinra",
+  "Sauvetage : antécédent de HLH et maladie active (au moins 3 critères de rechute ou de réfractarité), non-réponse à un traitement antérieur",
+  "Sauvetage : au moins 2 semaines de corticoïdes et 2 doses d'étoposide, ou au moins une dose de SAL (ATG)",
+  "Consentement éclairé du patient, des parents ou du représentant légal"
+ ],
+ "exclusion": [
+  "Atteinte isolée du système nerveux central",
+  "Espérance de vie inférieure à 2 semaines ou greffe imminente (traitement de moins de 4 semaines)",
+  "Clairance de la créatinine inférieure à 15 mL/min sans dialyse, ALAT supérieure à 1 000 U/L, défaillance cardiorespiratoire nécessitant un soutien",
+  "Maladie rhumatologique préexistante, cancer actif, greffe antérieure (hors greffe pour HLH)",
+  "Infection fongique suspectée ou connue, rifampicine ou millepertuis, autre agent expérimental",
+  "Première ligne : traitement antérieur par inhibiteur de JAK, SAL, alemtuzumab, étoposide, tocilizumab ou emapalumab",
+  "Sauvetage : inhibiteur de JAK ou alemtuzumab dans les 3 derniers mois, ou traitement dans le bras de première ligne"
+ ],
+ "bras": [
+  { "nom": "Première ligne", "traitement": "Ruxolitinib (25 mg/m²/dose deux fois par jour au départ de la phase de sécurité) et dexaméthasone (5 mg/m²/dose deux fois par jour) ; étoposide 150 mg/m² IV par semaine ajouté en l'absence de réponse favorable" },
+  { "nom": "Sauvetage", "traitement": "Ruxolitinib par voie orale ou sonde, dexaméthasone orale ou IV, étoposide IV ajouté selon la réponse" }
+ ],
+ "duree": "8 semaines de traitement, suivi des événements indésirables jusqu'à 1 an après le diagnostic",
+ "critere": "Réponse complète (RC) ou RC avec récupération hématologique incomplète à 8 semaines ; événements indésirables liés au schéma jusqu'à 8 semaines puis jusqu'à 1 an"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "176d5a5f2af3",
+ "date": "2026-11-14",
+ "titre": "Aiguilles de Menghini ou de Franseen pour l'EBUS-TBNA dans la sarcoïdose suspectée",
+ "question": "Une aiguille de type Franseen donne-t-elle des prélèvements de meilleure qualité qu'une aiguille de type Menghini lors d'une EBUS-TBNA pour suspicion de sarcoïdose ?",
+ "contexte": "La sarcoïdose est une granulomatose multisystémique de cause inconnue. Le diagnostic repose sur une présentation compatible et la mise en évidence de granulomes épithélioïdes non nécrosants, le plus souvent sur un ganglion médiastinal ou hilaire. La ponction transbronchique à l'aiguille guidée par échographie endobronchique (EBUS-TBNA) est l'examen de première intention en cas d'adénopathies.\n\nLes aiguilles Franseen, à pointe à trois facettes, prélèvent davantage de tissu que les aiguilles classiques de type Menghini et pourraient améliorer le rendement diagnostique, notamment pour les granulomes. Cette hypothèse est testée dans cet essai pilote randomisé du University Health Network de Toronto.\n\nEnviron 128 patients adultes ayant des adénopathies de plus de 10 mm suspectes de sarcoïdose (plus de 370 ganglions) sont randomisés 1:1, avec stratification selon la disponibilité d'une évaluation cytologique rapide sur site. Les pathologistes ne connaissent pas le type d'aiguille.",
+ "interet": "Les résultats pourraient orienter le choix du matériel d'EBUS-TBNA pour le diagnostic de la sarcoïdose et réduire le nombre de passages ou d'examens complémentaires.",
+ "profil": "Des adultes avec adénopathies médiastinales ou hilaires suspectes de sarcoïdose, programmés pour une EBUS-TBNA.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Adénopathies médiastinales ou hilaires ≥ 10 mm de petit axe au scanner",
+  "Suspicion de sarcoïdose selon l'histoire, l'examen et les examens complémentaires",
+  "EBUS-TBNA programmée"
+ ],
+ "exclusion": [
+  "Incapacité à donner un consentement",
+  "Adénopathies fortement suspectes d'une autre cause (cancer du poumon, lymphome, infection)"
+ ],
+ "bras": [
+  {
+   "nom": "Aiguille de type Menghini",
+   "traitement": "Aiguille standard au Toronto General Hospital, pour l'EBUS-TBNA"
+  },
+  {
+   "nom": "Aiguille de type Franseen",
+   "traitement": "Aiguille comparatrice (Franseen), pour l'EBUS-TBNA"
+  }
+ ],
+ "duree": "Intervention en ambulatoire, suivi de l'étude jusqu'à 3 ans",
+ "critere": "Taux de prélèvements ganglionnaires adéquats, selon les pathologistes."
+}

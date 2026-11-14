@@ -1,0 +1,26 @@
+{
+ "h": "10491fdcccd5",
+ "date": "2026-11-14",
+ "titre": "Détection de l'amylose cardiaque à transthyrétine par intelligence artificielle sur ECG et échographie (TRACE-AI)",
+ "question": "Quelle est l'ampleur du sous-diagnostic de l'amylose cardiaque à transthyrétine (ATTR-CM) dans des systèmes de santé américains, estimée par des algorithmes d'IA appliqués à l'ECG et à l'échographie ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée, surtout chez les sujets âgés. Elle est de mieux en mieux traitée (tafamidis, acoramidis, silenceurs de TTR), et l'efficacité de ces traitements dépend d'un diagnostic précoce. Le diagnostic repose sur la scintigraphie osseuse et le dosage des chaînes légères, après une suspicion clinique souvent tardive.\n\nDes algorithmes d'intelligence artificielle appliqués à l'électrocardiogramme (ECG), à l'échographie de poche (POCUS) et à l'échocardiographie transthoracique (ETT) peuvent détecter des profils évocateurs de cette amylose.\n\nTRACE-AI est une étude observationnelle de cohorte de l'université Yale, en collaboration avec BridgeBio, déployée de façon entièrement fédérée dans 12 systèmes de santé américains. Elle inclut des personnes de 50 à 95 ans disposant d'un ECG ou d'une échographie récupérable (jusqu'à 1,5 million de participants). L'objectif principal est de décrire la prévalence d'ATTR-CM probable définie par l'IA, et des objectifs secondaires comparent les cas (diagnostic codé, scintigraphie anormale ou traitement spécifique) aux témoins et étudient le suivi à au moins 2 ans.",
+ "interet": "Elle pourrait quantifier le sous-diagnostic de l'ATTR-CM et préparer un dépistage opportuniste par IA. Il s'agit d'une prévalence estimée par algorithme, sans confirmation diagnostique systématique, et l'étude est cofinancée par un fabricant de traitements de l'ATTR.",
+ "profil": "Des adultes américains de 50 à 95 ans ayant eu un ECG ou une échographie cardiaque, issus de 12 systèmes de santé.",
+ "inclusion": [
+  "Âge de 50 à 95 ans",
+  "Au moins un ECG ou un fichier d'échographie 2D récupérable dans le dossier médical",
+  "Cas (objectif secondaire 1) : diagnostic codé d'ATTR-CM, scintigraphie osseuse anormale ou traitement spécifique",
+  "Témoins (objectif secondaire 1) : personnes ne remplissant pas la définition de cas",
+  "Objectif secondaire 2 : au moins 2 ans de suivi après l'examen index et au moins une consultation tous les 2 ans"
+ ],
+ "exclusion": [
+  "Données démographiques clés manquantes (âge, sexe, origine, ethnie)",
+  "Personnes ayant refusé la recherche",
+  "Pour les analyses en sous-groupes : données démographiques de base manquantes"
+ ],
+ "bras": [
+  { "nom": "Cohorte de personnes avec ECG, échographie de poche ou ETT", "traitement": "Analyse rétrospective de ces examens par des algorithmes d'IA, déployés de façon fédérée, sans intervention" }
+ ],
+ "duree": "Analyse de données existantes, avec suivi d'au moins 2 ans pour un objectif secondaire",
+ "critere": "Prévalence de l'ATTR-CM probable définie par l'IA dans des cohortes de personnes ayant eu des examens cardiovasculaires standards, à l'inclusion."
+}

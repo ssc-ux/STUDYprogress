@@ -1,0 +1,31 @@
+{
+ "h": "7097f99eefdf",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T spécifiques du norovirus dans les infections chroniques chez l'immunodéprimé (ATLANTIC)",
+ "question": "Des lymphocytes T spécifiques du norovirus sont-ils sûrs chez des patients immunodéprimés atteints d'infection chronique à norovirus ?",
+ "contexte": "Chez l'immunocompétent, le norovirus provoque une gastro-entérite aiguë spontanément résolutive. Chez les patients immunodéprimés (allogreffe de cellules souches, greffe d'organe solide, déficit immunitaire primitif), l'infection peut devenir chronique, avec diarrhée prolongée, malabsorption, perte de poids, retentissement nutritionnel et excrétion virale durable.\n\nIl n'existe pas de traitement antiviral validé. La nitazoxanide et les immunoglobulines entérales ont été essayées avec des résultats inconstants. La restauration d'une immunité T spécifique est la voie la plus logique de contrôle du virus, comme pour d'autres infections virales de l'immunodéprimé (CMV, EBV, adénovirus) traitées par lymphocytes T virus-spécifiques.\n\nCet essai de phase 1 de dose escalade (ATLANTIC), promu par le Children's National Research Institute, évalue la sécurité de lymphocytes T spécifiques du norovirus (NST) chez des patients de 3 mois à 80 ans. Le bras A reçoit des NST dérivés du donneur après allogreffe ; le bras B reçoit des NST partiellement HLA-compatibles (patients avec déficit immunitaire non greffés, greffés sans NST du donneur disponibles, ou receveurs de greffe d'organe). Les critères principaux sont la GVHD aiguë de grade III-IV et les événements indésirables dans les 45 jours.",
+ "interet": "Si cette immunothérapie cellulaire est sûre, elle pourrait offrir une option à des patients sans traitement efficace d'une infection chronique à norovirus et ouvrir la voie à des essais d'efficacité.",
+ "profil": "Des patients de 3 mois à 80 ans, allogreffés, greffés d'organe ou atteints de déficit immunitaire primitif, avec infection chronique à norovirus.",
+ "inclusion": [
+  "Allogreffe de cellules souches antérieure, ou déficit immunitaire primitif non greffé, ou greffe d'organe solide",
+  "Infection chronique à norovirus : au moins 2 tests de selles positifs sur au moins 3 mois, avec symptômes attribuables",
+  "Corticoïdes réduits à moins de 0,5 mg/kg/j de prednisone au moins 7 jours avant la perfusion",
+  "Chimérisme donneur stable (allogreffés) ou fonction du greffon stable sans rejet depuis 2 mois (greffés d'organe)",
+  "Âge de 3 mois à 80 ans, Karnofsky ou Lansky supérieur à 50",
+  "Fonctions hématologique, hépatique, rénale et SpO2 d'au moins 90 % en air ambiant adéquates, consentement"
+ ],
+ "exclusion": [
+  "Anticorps monoclonaux ciblant les lymphocytes T (SAL, alemtuzumab, basiliximab, tocilizumab, brentuximab) dans les 28 jours",
+  "Perfusion de lymphocytes du donneur, CAR-T ou autre thérapie cellulaire expérimentale dans les 28 jours",
+  "Ruxolitinib ou autre inhibiteur de JAK dans les 7 jours, inhibiteur de checkpoint dans les 3 mois",
+  "Infection non contrôlée autre que le norovirus, autre infection digestive active",
+  "Rechute maligne active non contrôlée, échec de greffe, GVHD de grade 2 à 4, MICI active, greffe d'intestin grêle",
+  "Immunoglobulines entérales, nitazoxanide ou autre traitement expérimental du norovirus dans les 28 jours"
+ ],
+ "bras": [
+  { "nom": "Bras A : NST dérivés du donneur", "traitement": "Lymphocytes T spécifiques du norovirus issus du donneur de greffe, après allogreffe" },
+  { "nom": "Bras B : NST partiellement HLA-compatibles", "traitement": "Lymphocytes T spécifiques du norovirus partiellement HLA-compatibles (déficit immunitaire non greffé, absence de NST du donneur, greffe d'organe)" }
+ ],
+ "duree": "1 an de surveillance après la première perfusion",
+ "critere": "Incidence de la GVHD aiguë de grade III-IV, des événements indésirables liés à la perfusion et des événements indésirables non hématologiques, dans les 45 jours suivant la première perfusion"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "13d767e76777",
+ "date": "2026-11-14",
+ "titre": "Échantillons envoyés au NIAID pour caractériser génétiquement les déficits immunitaires primitifs",
+ "question": "Quelles anomalies génétiques et immunologiques expliquent des déficits immunitaires primitifs connus ou suspectés ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP) exposent aux infections et sont souvent héréditaires. Connaître la cause génétique est essentiel pour choisir le traitement, mais beaucoup de patients restent sans diagnostic moléculaire.\n\nCe protocole du NIAID (NIH) est une collecte d'échantillons envoyés par courrier : les participants ne viennent pas au NIH. Après un entretien téléphonique et l'accord pour contacter leur médecin, ils envoient du sang, des tissus ou d'autres liquides biologiques. Des tests génétiques et moléculaires sont réalisés sur ces échantillons, et les résultats utiles à la santé sont rendus aux participants et à leurs médecins. Les objectifs sont d'identifier des variants génétiques associés aux DIP et de repérer des patients avec anomalies immunitaires pouvant être inclus dans d'autres protocoles du NIH. Des cellules iPS peuvent être produites à partir des échantillons.",
+ "interet": "Le protocole pourrait faciliter l'accès à un diagnostic génétique pour des patients éloignés du NIH et orienter vers des protocoles de recherche.",
+ "profil": "Des patients de 0 à 99 ans avec un DIP connu ou suspecté, et des apparentés biologiques sans DIP.",
+ "inclusion": ["Âge de 0 à 99 ans", "DIP connu ou suspecté (anomalies cliniques ou biologiques à au moins 2 reprises évoquant un défaut de l'immunité innée ou adaptative)", "Ou apparenté biologique d'un patient, sans signe de DIP", "Capacité de consentir", "Accord pour le test génétique et la reprogrammation des échantillons en cellules iPS", "Accord pour le stockage des échantillons et données pour de futures recherches"],
+ "exclusion": ["Déficit immunitaire secondaire (VIH, immunosuppresseurs ou chimiothérapie chroniques), selon l'investigateur", "Toute condition contre-indiquant la participation selon l'investigateur"],
+ "bras": [{"nom": "Patients", "traitement": "Patients avec DIP : envoi d'échantillons biologiques pour tests génétiques et immunologiques"}, {"nom": "Apparentés biologiques", "traitement": "Envoi d'échantillons, sans signe de DIP"}],
+ "duree": "Durée de l'inclusion du participant (sans visite au NIH)",
+ "critere": "Identification de patients avec anomalies immunitaires pouvant être inclus dans d'autres protocoles du NIH, et de variants génétiques associés aux DIP, pendant la durée de l'inclusion"
+}

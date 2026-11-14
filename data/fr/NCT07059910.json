@@ -1,0 +1,25 @@
+{
+ "h": "1fd21338ae6d",
+ "date": "2026-11-14",
+ "titre": "Prévalence des maladies thyroïdiennes chez les patients atteints de PTI et impact sur le traitement",
+ "question": "Quelle est la fréquence des maladies thyroïdiennes dans le PTI, et leur prise en charge améliore-t-elle la numération plaquettaire ?",
+ "contexte": "Le PTI est une maladie auto-immune qui peut s'associer à d'autres maladies auto-immunes, notamment thyroïdiennes (thyroïdite de Hashimoto, maladie de Basedow). Plusieurs travaux ont suggéré une prévalence plus élevée des anticorps antithyroïdiens et des dysthyroïdies chez les patients atteints de PTI.\n\nLes dysthyroïdies pourraient influencer la numération plaquettaire et la réponse aux traitements du PTI. Le dépistage thyroïdien n'est pas systématique dans les recommandations, et l'effet de la correction d'une dysthyroïdie sur les plaquettes est peu documenté.\n\nCette étude observationnelle égyptienne (université d'Assiut) inclut 100 adultes atteints de PTI nouvellement diagnostiqué, persistant, chronique ou réfractaire (classés selon la durée : moins de 3 mois, 3 à 12 mois, plus de 12 mois). Les patients sont dépistés pour une maladie thyroïdienne (bilan biologique), puis suivis sous traitement habituel (corticoïdes et eltrombopag). Elle mesure la fréquence des dysthyroïdies et l'évolution des plaquettes après leur traitement. Les patients thyroïdectomisés, avec PTI médicamenteux ou avec VHC, VHB ou VIH sont exclus.",
+ "interet": "Elle pourrait justifier un dépistage thyroïdien chez les patients atteints de PTI, notamment réfractaire. Le schéma observationnel sans comparateur limite la portée des conclusions sur l'effet du traitement thyroïdien.",
+ "profil": "Des adultes atteints de PTI (récent, persistant, chronique ou réfractaire).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI nouvellement diagnostiqué (< 3 mois), persistant (3 à 12 mois) ou chronique (> 12 mois)",
+  "PTI réfractaire"
+ ],
+ "exclusion": [
+  "Antécédent de thyroïdectomie",
+  "PTI d'origine médicamenteuse",
+  "Infection par le VHC, le VHB ou le VIH",
+  "Refus de participer"
+ ],
+ "bras": [
+  { "nom": "Patients avec PTI", "traitement": "Recherche de maladie thyroïdienne et bilan biologique, avec traitement habituel du PTI (corticoïdes, eltrombopag)" }
+ ],
+ "duree": "Non précisé",
+ "critere": "Fréquence des maladies thyroïdiennes chez les patients atteints de PTI, et effet de leur traitement sur la numération plaquettaire."
+}

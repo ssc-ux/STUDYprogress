@@ -1,0 +1,14 @@
+{
+ "h": "5484e4aee7e7",
+ "date": "2026-11-14",
+ "titre": "Dysrégulation immunitaire et erreurs innées de l'immunité : caractérisation clinique, immunologique et génétique (Bologne)",
+ "question": "Quelles sont les caractéristiques cliniques, immunologiques et génétiques des patients avec erreur innée de l'immunité suspectée ou confirmée, en particulier avec dysrégulation immunitaire ?",
+ "contexte": "Les erreurs innées de l'immunité sont un groupe hétérogène de maladies héréditaires touchant la différenciation ou la fonction du système immunitaire. Elles ne se manifestent pas seulement par des infections récidivantes. Beaucoup de patients présentent une dysrégulation immunitaire : auto-immunité (cytopénies, entéropathie, arthrite), lymphoprolifération, granulomes ou allergies.\n\nCes présentations rendent le diagnostic difficile et sont souvent prises en charge par des spécialistes d'organe, ce qui retarde le diagnostic génétique et le traitement ciblé. Cette étude observationnelle rétro-prospective monocentrique de l'IRCCS de Bologne inclut des enfants et des adultes avec erreur innée de l'immunité confirmée ou suspectée, début des signes avant 50 ans. Les patients sont pris en charge selon la pratique courante. Le bilan comprend typage lymphocytaire étendu, immunoglobulines, réponses vaccinales, auto-anticorps, complément, tests fonctionnels et panels génétiques ciblés. L'objectif est de décrire l'évolution clinique, les anomalies immunologiques et le fond génétique.",
+ "interet": "Les données pourraient améliorer la démarche diagnostique devant une dysrégulation immunitaire inexpliquée, en identifiant plus tôt les erreurs innées de l'immunité. Elles sont purement descriptives.",
+ "profil": "Des enfants et des adultes avec erreur innée de l'immunité suspectée ou confirmée, début avant 50 ans.",
+ "inclusion": ["Erreur innée de l'immunité confirmée ou suspectée", "Âge < 50 ans au début des signes", "Consentement des patients ou des parents / tuteurs"],
+ "exclusion": ["Susceptibilité infectieuse ou dysrégulation attribuable seulement à une cause non immunologique connue : déficit acquis par infection chronique (VIH) ou par traitement immunosuppresseur"],
+ "bras": [{"nom": "Cohorte erreurs innées de l'immunité", "traitement": "Soins habituels avec bilan immunologique, fonctionnel et génétique selon la pratique courante"}],
+ "duree": "Suivi de 1 an",
+ "critere": "Catégorie d'erreur innée de l'immunité, anomalies de l'immunité innée ou adaptative, susceptibilité infectieuse et dysrégulation immunitaire (inclusion et tous les 6 mois), mortalité à 1 an."
+}

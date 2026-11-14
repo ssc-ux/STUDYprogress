@@ -1,0 +1,35 @@
+{
+ "h": "0027859bfd43",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs diagnostiques de l'angiœdème récurrent",
+ "question": "De nouveaux tests sanguins distinguent-ils mieux les formes d'angiœdème récurrent que les tests commerciaux actuels ?",
+ "contexte": "L'angiœdème récurrent a des causes variées : histaminergique (urticaire, mastocytose), bradykinique (angiœdème héréditaire par déficit en C1-inhibiteur, angiœdème sous inhibiteur de l'enzyme de conversion) ou à C1-inhibiteur normal. Les formes sans urticaire sont difficiles à différencier, alors que les traitements diffèrent.\n\nLe dosage du C1-inhibiteur et du C4 et l'analyse génétique (SERPING1) sont les examens courants, mais ils ne couvrent pas toutes les formes, notamment l'angiœdème héréditaire à C1-inhibiteur normal.\n\nCette étude non interventionnelle de la Foundation for Rare Disease Research prélève du sang chez 300 patients et 300 volontaires sains, puis le soumet à des laboratoires spécialisés : tests du complément, cytométrie en flux, spectrométrie de masse (métabolites de la bradykinine, histamine), génétique (Sanger, NGS, PCR digitale). Une biopsie cutanée optionnelle est possible.",
+ "interet": "Elle pourrait conduire à un test diagnostique abordable et précis couvrant les différentes causes d'angiœdème, utile pour guider le traitement.",
+ "profil": "Des patients de 12 ans et plus avec angiœdème récurrent et des volontaires sains.",
+ "inclusion": [
+  "Consentement signé (parent ou tuteur pour les mineurs)",
+  "Âge de 12 ans ou plus",
+  "Symptômes d'angiœdème par l'histoire, un diagnostic biologique antérieur ou une mutation (SERPING1…), confirmés par un clinicien",
+  "Possibilité de prélèvement sanguin veineux ; biopsie cutanée optionnelle"
+ ],
+ "exclusion": [
+  "Âge de 11 ans ou moins",
+  "Impossibilité de comprendre le consentement",
+  "Impossibilité de réaliser le prélèvement sanguin",
+  "Médicaments contre-indiqués pour les tests",
+  "Antécédent de saignement excessif après prélèvement (hémophilie)",
+  "Autre contre-indication de santé"
+ ],
+ "bras": [
+  {
+   "nom": "Angiœdème récurrent",
+   "traitement": "Patients avec angiœdème d'origine histaminergique ou non histaminergique : prélèvement sanguin"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Sans antécédent d'angiœdème : prélèvement sanguin"
+  }
+ ],
+ "duree": "Prélèvement unique, étude sur 2 ans",
+ "critere": "Comparaison entre les nouveaux tests diagnostiques sanguins et les tests traditionnels de l'angiœdème, sur 2 ans."
+}

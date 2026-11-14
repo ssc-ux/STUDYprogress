@@ -1,0 +1,33 @@
+{
+ "h": "514e22f4cf77",
+ "date": "2026-11-14",
+ "titre": "Aides techniques à la marche et risque de chute dans les maladies neuromusculaires",
+ "question": "Une semaine d'entraînement avec une aide technique à la marche adaptée améliore-t-elle la marche et l'équilibre des patients atteints de maladie neuromusculaire ?",
+ "contexte": "Les maladies neuromusculaires (myosite à inclusions, dystrophies myotoniques, FSH et des ceintures, maladie de Pompe, myasthénie, syndrome de Lambert-Eaton, amyotrophie spinale, syndrome de Guillain-Barré, PIDC, ataxie de Friedreich, neuropathies héréditaires) exposent à des troubles de la marche et à des chutes fréquentes. Les chutes entraînent fractures, perte d'autonomie et morbidité.\n\nLes aides techniques (cannes, déambulateurs, orthèses) sont largement prescrites, mais leur adaptation et l'apprentissage de leur usage sont rarement standardisés dans ces pathologies. Leur effet sur le risque de chute n'est pas bien documenté.\n\nCet essai du LMU Klinikum (Munich) est non randomisé, avec une période de contrôle d'une semaine de rééducation standard suivie d'une semaine d'intervention. Celle-ci associe l'équipement avec une aide adaptée et des séances de maniement, d'équilibre, de coordination et de prévention des chutes, dans le cadre d'une rééducation hospitalière. Il inclut 30 patients.",
+ "interet": "L'étude pourrait appuyer l'intérêt d'un appareillage accompagné d'un entraînement structuré pour réduire le risque de chute. Elle pourrait améliorer la prescription des aides techniques chez les patients neuromusculaires.",
+ "profil": "Des adultes atteints de maladie neuromusculaire confirmée, hospitalisés en rééducation et marchant sans aide humaine.",
+ "inclusion": [
+  "Maladie neuromusculaire confirmée par la génétique ou le diagnostic clinique final",
+  "Capacités cognitives et de communication suffisantes",
+  "Marche d'au moins 10 mètres sans aide humaine",
+  "Séjour de rééducation hospitalière"
+ ],
+ "exclusion": [
+  "Score supérieur à 23 à l'échelle FES-I (peur de chuter)",
+  "Incapacité de marcher 10 mètres sans assistance",
+  "Chirurgie du genou, de la hanche ou du dos dans les 3 derniers mois",
+  "Polyneuropathie sans neuropathie auto-immune inflammatoire diagnostiquée"
+ ],
+ "bras": [
+  {
+   "nom": "Période pré-intervention",
+   "traitement": "Une semaine de prise en charge standard sans aide technique à la marche"
+  },
+  {
+   "nom": "Période d'intervention",
+   "traitement": "Une semaine de rééducation avec aide technique à la marche adaptée et entraînement (maniement, équilibre, coordination, prévention des chutes)"
+  }
+ ],
+ "duree": "14 jours",
+ "critere": "Test de marche de 6 minutes, Timed Up and Go, test de marche de 10 mètres et Dynamic Gait Index, aux jours 1, 7 et 14."
+}

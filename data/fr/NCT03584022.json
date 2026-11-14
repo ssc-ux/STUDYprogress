@@ -1,0 +1,14 @@
+{
+ "h": "65cf27886142",
+ "date": "2026-11-14",
+ "titre": "Sécurité d'un tube de réparation nerveuse en polymère après biopsie du nerf sural",
+ "question": "La pose d'un tube synthétique de réparation nerveuse (PCLF) après biopsie du nerf sural est-elle sûre par rapport à l'absence de réparation ?",
+ "contexte": "La biopsie du nerf sural est un examen diagnostique utilisé dans les neuropathies d'origine incertaine, notamment les neuropathies vascularitiques, l'amylose, la PIDC, la neuropathie sarcoïdosique ou héréditaire. Après la biopsie sans réparation, les patients développent souvent un gonflement, une rougeur, une sensibilité douloureuse et des dysesthésies au site de prélèvement.\n\nCette étude de sécurité de la Mayo Clinic compare, chez des patients de 18 à 75 ans, la biopsie suivie de la réparation du défaut nerveux de 6 cm par un tube de polymère synthétique (PCLF) à la biopsie seule. Les patients sont évalués avant et après l'intervention (examen neurologique, conduction nerveuse, échographie du nerf sural, bilan inflammatoire), puis suivis jusqu'à 12 mois avec journal et questionnaires de symptômes. Une réaction locale de grade 4 fait examiner par le comité de sécurité le retrait de l'implant et la définition d'un échec.",
+ "interet": "L'étude pourrait déterminer si cette réparation est sûre et si elle réduit les séquelles de la biopsie nerveuse, avec un effectif de 20 patients.",
+ "profil": "Des adultes de 18 à 75 ans nécessitant une biopsie du nerf sural entier pour une neuropathie.",
+ "inclusion": ["Âge de 18 à 75 ans", "Indication clinique à une biopsie du nerf sural entier", "Potentiel d'action sensitif sural ≥ 2 µV", "Capacité à respecter le protocole", "Consentement écrit"],
+ "exclusion": ["Tabagisme actuel", "Antécédent d'infection musculo-squelettique ou de tissus mous", "Prélèvement nasal positif à Staphylococcus aureus (SARM ou SASM)", "Maladie immunitaire systémique (Crohn, polyarthrite, psoriasis) ou diabète", "Traumatisme préalable du site de biopsie, affection majeure récente (infarctus, angor, insuffisance cardiaque dans les 6 mois)", "Grossesse, allaitement ou contraception refusée"],
+ "bras": [{"nom": "Biopsie et réparation nerveuse", "traitement": "Biopsie du nerf sural puis réparation du défaut de 6 cm par un tube de polymère PCLF"}, {"nom": "Biopsie seule", "traitement": "Même biopsie du nerf sural, sans réparation (comparateur)"}],
+ "duree": "Jusqu'à 12 mois de suivi (évaluation de sécurité jusqu'à 5 ans)",
+ "critere": "Sécurité, selon le nombre de participants avec des réactions postopératoires, jusqu'à 5 ans après la chirurgie"
+}

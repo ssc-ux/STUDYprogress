@@ -1,0 +1,38 @@
+{
+ "h": "e608172dd855",
+ "date": "2026-11-14",
+ "titre": "Paramètres physiques et psychosociaux dans l'artérite de Takayasu et la maladie de Behçet",
+ "question": "La force musculaire, la capacité fonctionnelle et le bien-être psychosocial diffèrent-ils entre patients avec artérite de Takayasu, maladie de Behçet et témoins sains ?",
+ "contexte": "L'artérite de Takayasu atteint l'aorte et ses branches principales, alors que la maladie de Behçet est une vascularite touchant des vaisseaux de tous calibres, artères et veines. Ce sont deux maladies chroniques, évoluant par poussées, qui peuvent avoir un retentissement multisystémique.\n\nLes données disponibles suggèrent une baisse des performances physiques, de la fatigue et une altération de la qualité de vie au cours des vascularites systémiques. Mais les comparaisons directes entre ces deux maladies et des sujets sains sont rares, et les dimensions musculaire, respiratoire et psychosociale sont rarement étudiées ensemble.\n\nCette étude observationnelle transversale turque compare la force des muscles respiratoires et périphériques, la capacité d'effort (test de marche de 6 minutes, squat test) et des questionnaires (HAQ, SF-36, EQ-5D-5L, EVA) entre les trois groupes.",
+ "interet": "Elle pourrait justifier une rééducation et une prise en charge pluridisciplinaire adaptées dans les vascularites. Petit effectif, design transversal : elle décrit sans établir de causalité.",
+ "profil": "Des adultes avec artérite de Takayasu, maladie de Behçet, ou témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Artérite de Takayasu (critères ACR) ou maladie de Behçet (critères de l'ISG), ou absence de maladie inflammatoire chronique pour les témoins",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "Trouble psychiatrique ou traitement psychiatrique en cours",
+  "Trouble cognitif gênant la participation",
+  "Maladie neurologique (hémiplégie, Parkinson, sclérose en plaques, épilepsie, etc.)",
+  "Chirurgie dans l'année écoulée",
+  "Autre maladie rhumatismale associée"
+ ],
+ "bras": [
+  {
+   "nom": "Artérite de Takayasu",
+   "traitement": "Aucune intervention, évaluations standardisées"
+  },
+  {
+   "nom": "Maladie de Behçet",
+   "traitement": "Aucune intervention, évaluations standardisées"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Volontaires appariés pour l'âge et le sexe, mêmes évaluations"
+  }
+ ],
+ "duree": "Une seule évaluation",
+ "critere": "Force musculaire périphérique et force des muscles respiratoires, mesurées lors d'une évaluation unique"
+}

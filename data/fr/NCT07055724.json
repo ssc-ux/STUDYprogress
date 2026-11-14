@@ -1,0 +1,32 @@
+{
+ "h": "0dd8a77e80f3",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA equecabtagene autoleucel dans l'amylose AL de stade Mayo IIIb nouvellement diagnostiquée",
+ "question": "L'equecabtagene autoleucel (eque-cel) permet-il d'obtenir une réponse hématologique profonde dans l'amylose AL de stade Mayo IIIb récemment diagnostiquée ?",
+ "contexte": "L'amylose AL de stade Mayo IIIb est la forme la plus grave, avec une atteinte cardiaque sévère (NT-proBNP > 8500 ng/L et troponine élevée) et un pronostic très défavorable. Ces patients tolèrent mal la chimiothérapie à haute dose avec autogreffe et les schémas à base de daratumumab sont efficaces mais agissent parfois trop lentement. Il n'existe pas de traitement standard validé dans ce stade, d'où le besoin d'une réponse hématologique rapide et peu cardiotoxique.\n\nL'eque-cel est une CAR-T autologue entièrement humaine dirigée contre BCMA, autorisée en Chine dans le myélome multiple en rechute ou réfractaire, avec des taux de réponse élevés et rapides.\n\nCette étude de phase 2 exploratoire (Nanjing IASO Biotechnology) est monocentrique (hôpital Zhongshan, Université Fudan), ouverte et à bras unique, avec 17 patients au maximum. La procédure comprend un prélèvement de cellules mononucléées, un traitement d'attente facultatif, une lymphodéplétion puis une perfusion unique de 1,0 × 10^6 cellules CAR-T/kg. Le suivi principal dure 24 semaines, avec une surveillance à long terme jusqu'à 15 ans. Le critère principal est la proportion de patients en très bonne réponse partielle hématologique ou mieux au jour 90.",
+ "interet": "L'étude pourrait montrer la faisabilité d'une CAR-T anti-BCMA dans l'amylose AL cardiaque avancée, où les options sont très limitées. Le petit effectif, l'absence de comparateur et le risque cardiaque (syndrome de relargage cytokinique) en font une étude de première évaluation.",
+ "profil": "Des adultes atteints d'amylose AL nouvellement diagnostiquée de stade Mayo IIIb, avec maladie hématologique mesurable.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ECOG ≤ 2",
+  "Amylose AL nouvellement diagnostiquée, stade Mayo IIIb (NT-proBNP > 8500 ng/L, troponine élevée)",
+  "Maladie hématologique mesurable (dFLC > 4 mg/dL, iFLC > 4 mg/dL avec rapport κ/λ anormal, ou pic monoclonal > 0,5 g/dL)",
+  "Amylose AL confirmée histologiquement (rouge Congo, typage par immunohistochimie, spectrométrie de masse ou microscopie électronique)",
+  "Plasmocytes clonaux médullaires, myélome et Waldenström exclus, au moins un organe atteint",
+  "Neutrophiles ≥ 1 G/L, hémoglobine > 60 g/L, ALAT/ASAT ≤ 2,5 N, clairance de la créatinine ≥ 30 mL/min, FEVG ≥ 40 %, PAS ≥ 90 mmHg",
+  "Espérance de vie ≥ 12 semaines, contraception jusqu'à 1 an après la perfusion"
+ ],
+ "exclusion": [
+  "Thérapie génique antérieure, vaccin vivant dans les 4 semaines, autre médicament expérimental dans les 12 semaines",
+  "VHB (ADN détectable), VHC (ARN détectable), VIH, CMV (ADN) ou syphilis positifs",
+  "Corticoïdes > 20 mg/j de prednisone dans les 7 jours, traitement systémique de l'amylose dans les 14 jours",
+  "Infection active non contrôlée, chirurgie majeure récente ou prévue",
+  "Atteinte du système nerveux central, myélome avec lésions ostéolytiques et plasmocytes > 30 %",
+  "Cardiopathie active sévère (angor instable, infarctus, arythmie sévère sauf DAI ou stimulateur), hypertension non contrôlée",
+  "Trouble de l'hémostase ou thrombose sévère, greffe d'organe solide, autre cancer dans les 5 ans, grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Eque-cel", "traitement": "Eque-cel en perfusion unique, 1,0 × 10^6 cellules CAR-T/kg, après lymphodéplétion" }
+ ],
+ "duree": "24 semaines de suivi principal, puis jusqu'à 15 ans de surveillance",
+ "critere": "Proportion de patients en très bonne réponse partielle hématologique ou mieux au jour 90 après la perfusion."
+}

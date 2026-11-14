@@ -1,0 +1,33 @@
+{
+ "h": "7e1dcbfc0777",
+ "date": "2026-11-14",
+ "titre": "Cohorte longitudinale de PTI compliquée d'accident vasculaire cérébral ischémique aigu",
+ "question": "Quel est le pronostic des patients atteints de PTI qui présentent un accident vasculaire cérébral ischémique aigu ?",
+ "contexte": "Le PTI est une maladie hémorragique acquise d'origine auto-immune. Paradoxalement, il peut augmenter le risque d'infarctus cérébral, qui reste une cause rare d'AVC ischémique. L'association d'un PTI et d'un AVC pose des difficultés thérapeutiques majeures, car il faut concilier le risque hémorragique lié à la thrombopénie et la nécessité d'un traitement antithrombotique ou de reperfusion.\n\nLes données disponibles proviennent surtout de petites séries monocentriques, et il n'existe pas de grande cohorte prospective dédiée. Les patients concernés ont un risque élevé de séquelles et de décès.\n\nCette étude observationnelle du Peking University People's Hospital combine une cohorte rétrospective (patients traités depuis 2005) et prospective, soit environ 500 patients. Le suivi se fait par questionnaires, téléphone, téléconsultation et consultations, avec recueil des traitements, des comorbidités et du pronostic.",
+ "interet": "L'étude pourrait préciser l'évolution et les facteurs pronostiques de cette association rare. Elle servira de base de réflexion pour la prise en charge conjointe de la thrombopénie et de l'AVC, sans tester de traitement.",
+ "profil": "Des patients atteints de PTI ayant ensuite présenté un AVC ischémique aigu, traités à Pékin depuis 2005.",
+ "inclusion": [
+  "Diagnostic de PTI, puis AVC ischémique aigu identifié",
+  "Patient traité au Peking University People's Hospital depuis le 1er janvier 2005"
+ ],
+ "exclusion": [
+  "Situation rendant le suivi indisponible (par exemple trouble mental sévère)",
+  "Patient jugé non adapté à l'étude par les investigateurs"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte rétrospective",
+   "traitement": "Première consultation et fin du suivi avant l'ouverture de l'étude"
+  },
+  {
+   "nom": "Cohorte prospective",
+   "traitement": "Première consultation après l'ouverture de l'étude"
+  },
+  {
+   "nom": "Cohorte ambispective",
+   "traitement": "Première consultation avant l'ouverture et suivi après"
+  }
+ ],
+ "duree": "5 ans",
+ "critere": "Pronostic des patients, évalué à 5 ans."
+}

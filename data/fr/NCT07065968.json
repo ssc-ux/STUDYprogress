@@ -1,0 +1,30 @@
+{
+ "h": "b47b1651426c",
+ "date": "2026-11-14",
+ "titre": "Tériflunomide associé à la dexaméthasone en première ligne du PTI de l'adulte (TEMPO-2)",
+ "question": "Ajouter le tériflunomide à la dexaméthasone à forte dose augmente-t-il la réponse prolongée dans le PTI nouvellement diagnostiqué ?",
+ "contexte": "La dexaméthasone à forte dose est un traitement de première ligne courant du PTI de l'adulte nouvellement diagnostiqué. Elle induit une réponse rapide chez la majorité des patients, mais les rechutes sont fréquentes, avec une réponse prolongée limitée.\n\nLe tériflunomide est un inhibiteur de la dihydro-orotate déshydrogénase, enzyme de la synthèse des pyrimidines, qui freine la prolifération des lymphocytes activés. Il est utilisé dans la sclérose en plaques récurrente-rémittente. Son effet immunomodulateur est exploré dans le PTI en association aux corticoïdes.\n\nTEMPO-2 est une étude de phase 2 de l'hôpital universitaire de Pékin, multicentrique (3 centres), randomisée et ouverte, avec 132 adultes de 18 ans et plus, atteints de PTI primaire nouvellement diagnostiqué, jamais traité, avec plaquettes < 30 G/L ou < 50 G/L avec saignement. Le bras expérimental reçoit dexaméthasone 40 mg/j par voie orale pendant 4 jours (cure répétée en l'absence de réponse) et tériflunomide 14 mg par jour pendant 24 semaines. Le comparateur reçoit la dexaméthasone seule. La collaboration inclut Cisen Pharmaceutical.",
+ "interet": "Une amélioration de la réponse prolongée ferait de cette association orale peu coûteuse une option de première ligne. Le suivi hépatique et la tératogénicité du tériflunomide seront à considérer.",
+ "profil": "Des adultes atteints de PTI primaire nouvellement diagnostiqué, jamais traité, avec thrombopénie sévère ou saignement.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI nouvellement diagnostiqué, sans traitement antérieur",
+  "Plaquettes < 30 G/L, ou < 50 G/L avec manifestations hémorragiques",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "PTI secondaire (médicaments, VIH, VHB, VHC)",
+  "Hépatopathie aiguë ou chronique, ALAT/ASAT > 2 N",
+  "Insuffisance cardiaque, rénale, hépatique ou respiratoire sévère",
+  "Déficit immunitaire sévère, infection active nécessitant un traitement systémique",
+  "Cancer actif ou antérieur, myélodysplasie, aplasie médullaire ou myélofibrose",
+  "Autre maladie auto-immune connue",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Tériflunomide + dexaméthasone", "traitement": "Dexaméthasone 40 mg/j par voie orale aux jours 1 à 4 (cure répétable en l'absence de réponse) et tériflunomide 14 mg par jour pendant 24 semaines" },
+  { "nom": "Dexaméthasone", "traitement": "Dexaméthasone 40 mg/j par voie orale aux jours 1 à 4 (cure répétable en l'absence de réponse)" }
+ ],
+ "duree": "24 semaines",
+ "critere": "Réponse prolongée à la semaine 24."
+}

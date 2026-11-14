@@ -1,0 +1,28 @@
+{
+ "h": "f77b1cfdd7e3",
+ "date": "2026-11-14",
+ "titre": "Allogreffe de cellules souches hématopoïétiques chez les patients ayant un déficit immunitaire primitif",
+ "question": "Un schéma de conditionnement adapté à la maladie permet-il une prise de greffe de neutrophiles après allogreffe chez des patients ayant un déficit immunitaire primitif ou une histiocytose ?",
+ "contexte": "Pour de nombreux déficits immunitaires primitifs et histiocytoses, l'allogreffe de cellules souches hématopoïétiques est le seul traitement curatif. Le choix du conditionnement dépend du diagnostic et du terrain : un conditionnement myéloablatif complet n'est pas adapté à tous, et certains patients atteints d'un SCID complet peuvent même être greffés sans conditionnement.\n\nCette étude de l'Université du Minnesota (Masonic Cancer Center) décrit un schéma de soins courants, non randomisé, en quatre bras : conditionnement myéloablatif complet (alemtuzumab, cyclophosphamide, busulfan), conditionnement ablatif à toxicité réduite (alemtuzumab, busulfan, fludarabine), conditionnement d'intensité réduite (alemtuzumab, fludarabine, melphalan) ou absence de conditionnement. Les sources de cellules incluent la moelle d'un donneur HLA compatible ou presque, ou des unités de sang de cordon. Le critère principal est la prise de greffe des neutrophiles.",
+ "interet": "L'étude formalise les schémas de greffe selon la maladie pour les déficits immunitaires primitifs. Les résultats ne sont pas encore au registre.",
+ "profil": "Des patients de 0 à 50 ans ayant un déficit immunitaire primitif sévère ou une histiocytose nécessitant une allogreffe.",
+ "inclusion": [
+  "Âge de 0 à 50 ans",
+  "Déficit immunitaire ou histiocytose : SCID (y compris seconde greffe), Omenn, dysgénésie réticulaire, Wiskott-Aldrich, déficit en CMH II, hyper-IgM, DICV sévère, granulomatose septique chronique, HLH, XLP, Chediak-Higashi, Griscelli, histiocytose langerhansienne",
+  "Source de cellules : moelle d'un donneur HLA identique ou à 1 antigène de différence (fratrie ou non apparenté), cordon de fratrie, ou un ou deux cordons non apparentés avec dose cellulaire suffisante",
+  "Fonction d'organe et indice de performance adéquats"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Infection active non contrôlée ou VIH positif",
+  "Hépatite aiguë ou fibrose portale modérée à sévère, ou cirrhose à la biopsie"
+ ],
+ "bras": [
+  {"nom": "Bras A : myéloablatif complet", "traitement": "Alemtuzumab 0,3 mg/kg (J-12 à J-10), cyclophosphamide 50 mg/kg + mesna (J-9 à J-6), busulfan IV (J-5 à J-2), greffe à J0 ; pour Wiskott-Aldrich, déficit en CMH II, SCID hypomorphe, etc."},
+  {"nom": "Bras B : ablatif à toxicité réduite", "traitement": "Alemtuzumab 0,3 mg/kg, busulfan IV (J-9 à J-6), fludarabine 40 mg/m² (J-5 à J-2), greffe à J0 ; pour SCID, granulomatose septique chronique, Chediak-Higashi, autres déficits combinés"},
+  {"nom": "Bras C : intensité réduite", "traitement": "Alemtuzumab 0,2 mg/kg (J-14 à J-10), fludarabine 30 mg/m² (J-8 à J-4), melphalan 140 mg/m² (J-3), greffe à J0 ; pour HLH"},
+  {"nom": "Bras D : sans conditionnement", "traitement": "Greffe seule, chez les patients avec SCID complet sans chimérisme maternel ni immunité résiduelle, avec donneur génotypiquement compatible"}
+ ],
+ "duree": "Non précisé",
+ "critere": "Prise de greffe des neutrophiles au jour 42"
+}

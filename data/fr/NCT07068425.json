@@ -1,0 +1,33 @@
+{
+ "h": "6713e6114c0e",
+ "date": "2026-11-14",
+ "titre": "Cohorte longitudinale de patients atteints de thrombopénie immune (PTI), Pékin",
+ "question": "Quels sont le pronostic, la réponse aux traitements et les comorbidités à long terme des patients atteints de PTI suivis dans un grand centre chinois ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune acquise, marquée par une destruction accélérée des plaquettes et une production médullaire insuffisante. Son incidence est estimée à 2 à 5 cas pour 100 000 habitants. Les manifestations vont des saignements cutanéo-muqueux mineurs aux hémorragies viscérales ou intracrâniennes, et certains patients présentent aussi un sur-risque thrombotique.\n\nLes traitements sont nombreux (corticoïdes, immunoglobulines, agonistes du récepteur de la thrombopoïétine, rituximab, immunosuppresseurs, splénectomie), mais les données de vie réelle sur le pronostic au long cours, les comorbidités et le coût de la prise en charge restent limitées. La plupart des cohortes hématologiques publiées sont monocentriques ou de petite taille.\n\nCette étude observationnelle du Peking University People's Hospital combine une cohorte rétrospective (patients vus depuis 2005) et une cohorte prospective, soit environ 2000 patients. Le suivi se fait par questionnaires, téléphone, téléconsultation et consultations, avec recueil des traitements, comorbidités, évolution et dépenses de santé issues du dossier médical.",
+ "interet": "L'étude fournira des données de vie réelle chinoises sur l'épidémiologie, les schémas thérapeutiques, l'évolution et le coût du PTI. Elle pourrait aider à mieux décrire les facteurs pronostiques et les comorbidités à long terme. Elle n'évalue pas de traitement en particulier.",
+ "profil": "Des adultes et enfants atteints de PTI confirmé, suivis au Peking University People's Hospital depuis 2005.",
+ "inclusion": [
+  "Diagnostic confirmé de PTI",
+  "Patient pris en charge au Peking University People's Hospital depuis le 1er janvier 2005"
+ ],
+ "exclusion": [
+  "Situation rendant le suivi peu fiable (par exemple trouble psychiatrique sévère)",
+  "Patient jugé non éligible par les investigateurs"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte rétrospective",
+   "traitement": "Patients dont la première consultation et la fin du suivi précèdent l'ouverture de l'étude"
+  },
+  {
+   "nom": "Cohorte prospective",
+   "traitement": "Patients dont la première consultation suit l'ouverture de l'étude"
+  },
+  {
+   "nom": "Cohorte ambispective",
+   "traitement": "Première consultation avant l'ouverture de l'étude et suivi se poursuivant après"
+  }
+ ],
+ "duree": "Suivi jusqu'à 5 ans selon les critères (étude prévue jusqu'en 2035)",
+ "critere": "Pronostic à 5 ans ; taux de réponse globale à 180 jours ; taux de rémission globale durable à 1 an ; comorbidités à 5 ans."
+}

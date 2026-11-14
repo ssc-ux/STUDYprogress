@@ -1,0 +1,21 @@
+{
+ "h": "39ba92641187",
+ "date": "2026-11-14",
+ "titre": "Histoire naturelle des pneumopathies interstitielles diffuses (Université de Chicago)",
+ "question": "Comment évoluent les pneumopathies interstitielles diffuses (PID) suivies dans un programme universitaire, et quel est leur phénotype ?",
+ "contexte": "Les pneumopathies interstitielles diffuses regroupent des maladies variées, dont la fibrose pulmonaire idiopathique, la sarcoïdose et les atteintes liées aux connectivites. Leur évolution est hétérogène et mal prédite, ce qui rend utile la description précise de leur phénotype.\n\nCe projet de l'Université de Chicago recueille des données cliniques et des échantillons sanguins chez tous les patients suivis dans son programme PID, ainsi que chez un groupe témoin de comparaison. Il est mené en lien avec l'Idiopathic Pulmonary Fibrosis Clinical Research Network et le NIAID. L'étude est observationnelle et ne teste aucun traitement.",
+ "interet": "L'étude doit décrire l'expression phénotypique et l'évolution naturelle des PID, base de recherches futures. Elle n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes ayant une pneumopathie interstitielle diffuse, suivis dans un programme universitaire, et des témoins.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Pneumopathie interstitielle diffuse"
+ ],
+ "exclusion": [
+  "Absence de pneumopathie interstitielle diffuse"
+ ],
+ "bras": [
+  {"nom": "Patients avec PID", "traitement": "Recueil de données cliniques et d'échantillons sanguins, avec un groupe témoin pour comparaison"}
+ ],
+ "duree": "Non précisé (suivi annuel)",
+ "critere": "Évolution naturelle de la maladie chez les patients atteints de PID, évaluée chaque année"
+}

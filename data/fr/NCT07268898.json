@@ -1,0 +1,31 @@
+{
+ "h": "be5eeb0c408c",
+ "date": "2026-11-14",
+ "titre": "Prise en charge réelle du PTI récent ou persistant en Chine (étude rétrospective)",
+ "question": "Comment sont traités, et avec quels résultats, les patients ayant un PTI récent ou persistant avec thrombopénie sévère en Chine ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une thrombopénie auto-immune. Les corticoïdes, les immunoglobulines intraveineuses, les agonistes du récepteur de la thrombopoïétine (TPO-RA), le rituximab et la splénectomie sont les options usuelles.\n\nEn Chine, on connaît mal la part des patients réellement traités à la phase récente ou persistante (évolution ≤ 12 mois), les choix thérapeutiques et leurs résultats. Cette étude rétrospective multicentrique nationale, promue par l'Institute of Hematology & Blood Diseases Hospital, recueille ces données en pratique courante, sans intervention. Elle compare des patients traités et non traités et documente l'évolution de la maladie dans chaque groupe. Elle vise en particulier à préciser le besoin en TPO-RA dans cette population.",
+ "interet": "Elle décrira les pratiques réelles dans le PTI récent et persistant avec plaquettes < 30 G/L. Elle pourrait orienter la place des TPO-RA plus précocement. Les données sont chinoises et rétrospectives, donc d'extrapolation limitée.",
+ "profil": "Des patients de 6 ans ou plus ayant un PTI récent ou persistant (≤ 12 mois) et des plaquettes < 30 G/L au départ.",
+ "inclusion": [
+  "PTI récent ou persistant (évolution ≤ 12 mois), diagnostiqué entre juillet 2021 et septembre 2025",
+  "Dossier d'hospitalisation traçable",
+  "Plaquettes initiales < 30 G/L",
+  "Âge ≥ 6 ans",
+  "Patients traités ou non traités (hors traitements d'urgence comme la transfusion plaquettaire)"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe traité",
+   "traitement": "Tout traitement dirigé contre le PTI, selon la pratique courante"
+  },
+  {
+   "nom": "Groupe non traité",
+   "traitement": "Aucun traitement spécifique du PTI (corticoïdes, IgIV, TPO-RA, splénectomie, rituximab)"
+  }
+ ],
+ "duree": "Étude rétrospective : pas de suivi supplémentaire",
+ "critere": "Proportion de patients avec plaquettes ≥ 30 G/L et au moins doublées par rapport au départ, sans saignement, dans les 8 semaines"
+}

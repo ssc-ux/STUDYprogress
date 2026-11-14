@@ -1,0 +1,22 @@
+{
+ "h": "fdc99186ee97",
+ "date": "2026-11-14",
+ "titre": "Registre et collection d'échantillons sur le myélome multiple et l'amylose (Ohio State, Buckeye)",
+ "question": "Peut-on constituer un registre de données et d'échantillons de patients ayant une dyscrasie plasmocytaire dans l'Ohio, pour la surveillance, le contact avec les patients et la recherche ?",
+ "contexte": "Le myélome multiple et l'amylose AL sont des dyscrasies plasmocytaires rares. Presque tous les patients rechutent et le traitement finit par échouer, avec une morbidité et une mortalité importantes. Moins de 700 patients sont diagnostiqués chaque année dans l'Ohio et beaucoup manquent d'information fiable.\n\nLe programme Buckeye de l'Ohio State University Comprehensive Cancer Center vise trois buts : la surveillance (traitements reçus ou non, efficacité, qualité de vie, complications, durée de rémission et survie), le contact (accès à l'équipe clinique par téléphone, courriel ou consultation, information sur les événements et groupes de soutien) et la recherche (information sur les essais cliniques). Il constitue une base de données, de prélèvements sanguins et de moelle osseuse. L'étude est observationnelle.",
+ "interet": "Le registre doit faciliter la recherche pour réduire la morbidité et la mortalité du myélome et de l'amylose. Il n'a pas d'impact direct sur la pratique courante.",
+ "profil": "Des adultes ayant une dyscrasie plasmocytaire (myélome, MGUS, amylose AL), traités ou résidant dans l'Ohio.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic d'une dyscrasie plasmocytaire",
+  "Patients de l'Ohio ou diagnostiqués ou traités à l'Ohio State Medical Center"
+ ],
+ "exclusion": [
+  "Détenus, qui n'ont pas accès à la clinique du myélome de l'Ohio State"
+ ],
+ "bras": [
+  {"nom": "Patients avec dyscrasie plasmocytaire", "traitement": "Recueil de données cliniques, banque de sang et de moelle osseuse, contact avec l'équipe clinique"}
+ ],
+ "duree": "Non précisé (registre ouvert sur plusieurs décennies)",
+ "critere": "Création d'une base de données et d'échantillons utilisable pour la recherche sur le myélome multiple dans l'Ohio, jusqu'à 3 ans"
+}

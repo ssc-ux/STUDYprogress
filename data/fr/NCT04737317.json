@@ -1,0 +1,28 @@
+{
+ "h": "18086b668644",
+ "date": "2026-11-14",
+ "titre": "ELDORADO : précision des critères diagnostiques de la sarcoïdose cardiaque",
+ "question": "Les critères diagnostiques actuels de la sarcoïdose cardiaque sont-ils concordants, et ont-ils une valeur pronostique, notamment sur la réponse à l'immunosuppression ?",
+ "contexte": "La sarcoïdose touche rarement le cœur, mais l'atteinte cardiaque a une activité fluctuante et aboutit à la fibrose ventriculaire. Elle va de formes asymptomatiques à des arythmies ventriculaires menaçantes, une insuffisance cardiaque ou une mort subite. Les lésions, de distribution en plaques, peuvent mimer presque toutes les cardiomyopathies, ce qui rend le diagnostic précoce difficile.\n\nQuatre outils de diagnostic et recommandations existent (WASOG, consensus de la Heart Rhythm Society, critères de la Japanese Society of Nuclear Cardiology, entre autres), reposant sur des critères cliniques, ECG, biologiques, d'imagerie et de biopsie. Un désaccord important entre ces outils a été montré. Or il est important d'identifier tôt les patients à processus inflammatoire actif, qui sont ceux qui bénéficient le plus d'un traitement immunosuppresseur.\n\nCette étude observationnelle du Heart Center Leipzig inclut des patients de moins de 65 ans présentant un bloc auriculoventriculaire de haut degré ou une tachycardie ventriculaire inexpliqués, ou des patients atteints de sarcoïdose extracardiaque avec suspicion d'atteinte cardiaque. Après un bilan approfondi, ils sont classés en sarcoïdose cardiaque prouvée (histologie myocardique), probable ou improbable. L'étude évalue la valeur pronostique des critères et la récupération clinique et en imagerie sous immunosuppression à 1 an.",
+ "interet": "Les résultats pourraient améliorer la performance du diagnostic de sarcoïdose cardiaque et aider à identifier les patients qui bénéficieront d'un traitement immunosuppresseur.",
+ "profil": "Des adultes avec suspicion de sarcoïdose cardiaque (bloc AV ou tachycardie ventriculaire inexpliqués avant 65 ans, ou sarcoïdose extracardiaque avec signes cardiaques).",
+ "inclusion": [
+  "Âge de moins de 65 ans avec bloc auriculoventriculaire de haut degré récent, coronaropathie causale exclue",
+  "Âge de moins de 65 ans avec tachycardie ventriculaire (récente ou non), coronaropathie causale exclue",
+  "Sarcoïdose extracardiaque avec atteinte cardiaque suggérée (palpitations, ECG ou échocardiographie anormaux)",
+  "Classement selon les critères WASOG, Heart Rhythm Society ou JSNC en sarcoïdose cardiaque prouvée (histologie myocardique), probable ou improbable"
+ ],
+ "exclusion": [
+  "Consentement éclairé impossible ou refusé",
+  "Grossesse ou allaitement",
+  "Patient refusant le traitement recommandé",
+  "Âge de moins de 18 ans"
+ ],
+ "bras": [
+  { "nom": "Sarcoïdose cardiaque prouvée (groupe 1)", "traitement": "Confirmation histologique myocardique ; bilan approfondi et suivi sous immunosuppression" },
+  { "nom": "Sarcoïdose cardiaque probable (groupe 2)", "traitement": "Signes cliniques et d'imagerie très évocateurs sans biopsie myocardique" },
+  { "nom": "Sarcoïdose cardiaque improbable (groupe 3)", "traitement": "Critères non remplis ou diagnostic alternatif plus probable" }
+ ],
+ "duree": "1 an",
+ "critere": "Récupération clinique et récupération en imagerie sous traitement immunosuppresseur, à 1 an"
+}

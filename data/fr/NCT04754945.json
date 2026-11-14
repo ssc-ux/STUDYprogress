@@ -1,0 +1,34 @@
+{
+ "h": "b46592de32dd",
+ "date": "2026-11-14",
+ "titre": "Isatuximab en première ligne dans l'amylose AL à haut risque, avec escalade progressive",
+ "question": "Une approche à escalade progressive, débutée par isatuximab et dexaméthasone puis complétée par bortézomib et cyclophosphamide selon la tolérance, est-elle faisable et sûre dans l'amylose AL à haut risque ?",
+ "contexte": "L'amylose AL est due à un clone plasmocytaire sécrétant des chaînes légères qui forment des dépôts dans les organes, en particulier le cœur. Les patients de stade avancé (NT-proBNP très élevé, troponine élevée, hypotension) ont un pronostic très sombre : la mortalité précoce reste élevée malgré les traitements modernes, car ces patients tolèrent mal les schémas intensifs et sont souvent exclus des essais.\n\nL'association daratumumab-bortézomib-cyclophosphamide-dexaméthasone est devenue un standard en première ligne chez les patients éligibles, mais son emploi chez les patients à très haut risque reste prudent. Une approche « slow-go » commence par un traitement peu toxique et intensifie progressivement tant que le patient le tolère.\n\nCet essai de phase 1 promu par Emory University, avec Sanofi et le NCI, teste cette stratégie avec l'isatuximab, anticorps anti-CD38, seul au départ avec dexaméthasone 4 mg hebdomadaire. Selon la tolérance, on ajoute le bortézomib (1 puis 1,3 mg/m² SC hebdomadaire), on augmente la dexaméthasone à 12 mg, puis on introduit le cyclophosphamide (300, 400 puis 500 mg IV hebdomadaire). L'isatuximab est ensuite poursuivi en entretien. Le critère principal est la proportion sans événement à 3 mois.",
+ "interet": "Cette stratégie d'escalade pourrait permettre d'offrir un traitement anti-CD38 à des patients très fragiles en première ligne, avec une mortalité précoce plus faible.",
+ "profil": "Des adultes atteints d'amylose AL à haut risque (atteinte cardiaque sévère ou hypotension), n'ayant reçu au plus qu'une ligne de traitement.",
+ "inclusion": [
+  "Amylose AL confirmée par histologie (rouge Congo, microscopie électronique ou spectrométrie de masse) sur un organe autre que la moelle",
+  "Haut risque dans les 6 mois : NT-proBNP supérieur à 8 500 ng/L ou troponine T hs d'au moins 50 ng/L, stade BUMC 2019 3b, stade 4 de Mayo 2012, ou hypotension liée à l'amylose",
+  "Polynucléaires neutrophiles d'au moins 1 000/µL, plaquettes d'au moins 50 000/µL sans transfusion depuis une semaine",
+  "Clairance de la créatinine d'au moins 20 mL/min/1,73 m² (CKD-EPI)",
+  "Bilirubine inférieure à 1,5 N, ASAT et ALAT inférieures à 3 N, FEVG d'au moins 30 %",
+  "Consentement éclairé et contraception adaptée"
+ ],
+ "exclusion": [
+  "Plus d'une ligne de traitement antérieure",
+  "Réfractaire à un inhibiteur du protéasome ou exposition antérieure à un anticorps anti-CD38",
+  "Tachycardie ventriculaire soutenue (sauf stimulateur ou DAI), QTc supérieur à 500 ms (sauf stimulateur)",
+  "Neuropathie sensitive périphérique de grade 2 ou plus",
+  "VIH non contrôlé, hépatite B ou C active",
+  "Syndrome POEMS, amylose ATTR (sauvage ou héréditaire), maladie de Waldenström",
+  "Traitement dirigé contre les plasmocytes, radiothérapie, plasmaphérèse ou chirurgie majeure dans la dernière semaine, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Isatuximab avec escalade selon la tolérance",
+   "traitement": "Isatuximab (hebdomadaire x 4 puis toutes les 2 semaines) avec dexaméthasone 4 mg hebdomadaire, puis ajout progressif de bortézomib SC (1 puis 1,3 mg/m²), dexaméthasone 12 mg et cyclophosphamide IV (300 à 500 mg), puis entretien par isatuximab"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 3 mois)",
+ "critere": "Proportion de patients sans événement à 3 mois"
+}

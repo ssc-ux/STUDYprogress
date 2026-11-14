@@ -1,0 +1,29 @@
+{
+ "h": "80fe30278c9c",
+ "date": "2026-11-14",
+ "titre": "Sélection de cellules CD34+ avant allogreffe pour maladies non malignes (Columbia)",
+ "question": "La sélection de cellules CD34+ (déplétion en lymphocytes T) du greffon périphérique réduit-elle la GvHD aiguë après allogreffe chez des enfants, adolescents et jeunes adultes ayant une maladie non maligne ?",
+ "contexte": "La maladie du greffon contre l'hôte (GvHD) est due aux lymphocytes T du donneur qui réagissent contre les organes du receveur. Aiguë ou chronique, elle peut provoquer éruption cutanée, atteinte hépatique, diarrhée et sur-risque infectieux, et diminue la survie après greffe.\n\nCette étude de phase 1/2 de Columbia University évalue le dispositif CliniMACS PLUS (Miltenyi), qui sélectionne les cellules CD34+ du greffon périphérique du donneur et élimine les lymphocytes T. Elle concerne des patients de 40 ans ou moins atteints de défaillances médullaires (aplasie sévère, neutropénie congénitale, maladie de Diamond-Blackfan, Shwachman-Diamond), de déficits immunitaires primitifs ou acquis, d'histiocytoses, ou d'hémoglobinopathies comme la drépanocytose. Le donneur est apparenté (compatibilité de 5/10 à 10/10) ou non apparenté (8/10 à 10/10). Le conditionnement associe busulfan, fludarabine et alemtuzumab. L'approche est connue chez l'adulte, mais son bénéfice sur la GvHD sévère chez l'enfant et l'adolescent est inconnu.",
+ "interet": "L'étude pourrait montrer qu'une déplétion en lymphocytes T du greffon réduit la GvHD tout en permettant la prise de greffe chez les patients atteints de maladies non malignes. Les résultats ne sont pas encore au registre.",
+ "profil": "Des patients de 40 ans ou moins avec une maladie non maligne (défaillance médullaire, déficit immunitaire, histiocytose, hémoglobinopathie) recevant une allogreffe périphérique.",
+ "inclusion": [
+  "Âge ≤ 40 ans (≥ 2 ans pour la drépanocytose)",
+  "Maladie non maligne prévue au protocole (défaillance médullaire, déficit immunitaire, histiocytose, hémoglobinopathie)",
+  "Donneur non apparenté 8/10 à 10/10 ou apparenté 5/10 à 10/10",
+  "Ou seconde perfusion de cellules CD34+ sélectionnées après allogreffe",
+  "Fonctions rénale, hépatique, cardiaque et pulmonaire adéquates selon le conditionnement",
+  "Consentement éclairé du patient ou du tuteur"
+ ],
+ "exclusion": [
+  "Infection non contrôlée à l'entrée",
+  "Grossesse ou allaitement",
+  "Drépanocytose : fibrose en pont ou cirrhose hépatique",
+  "Drépanocytose : infection non contrôlée dans le mois, VIH positif",
+  "Drépanocytose : greffe antérieure dans les 3 mois (intensité réduite) ou 6 mois (myéloablatif)"
+ ],
+ "bras": [
+  {"nom": "CliniMACS PLUS puis chimiothérapie", "traitement": "Conditionnement par busulfan (melphalan si dysfonction hépatique), fludarabine et alemtuzumab, puis cellules souches périphériques du donneur sélectionnées en CD34+ par CliniMACS PLUS"}
+ ],
+ "duree": "Non précisé",
+ "critere": "Incidence de la GvHD aiguë à 100 jours"
+}

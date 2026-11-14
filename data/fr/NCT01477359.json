@@ -1,0 +1,27 @@
+{
+ "h": "586d9d992216",
+ "date": "2026-11-14",
+ "titre": "CHASM-CS : cohorte prospective multicentrique de sarcoïdose cardiaque",
+ "question": "Comment diagnostiquer et traiter la sarcoïdose cardiaque, et quel est l'effet des corticoïdes sur son évolution clinique ?",
+ "contexte": "La sarcoïdose peut se révéler par une atteinte cardiaque, avec trouble de conduction ou cardiomyopathie et tachycardie ventriculaire soutenue. Elle n'est pas rare, mais beaucoup de médecins ne la recherchent pas dans ces situations, et un diagnostic manqué s'accompagne d'une morbi-mortalité importante, comme le montre une étude finlandaise.\n\nIl n'existe pas de recommandation consensuelle de traitement. Les corticoïdes sont défendus par la plupart des experts sur la base de petites séries rétrospectives, sans étude prospective. Les recommandations ACC/AHA/HRS 2008 proposent un défibrillateur (classe IIa) pour prévenir la mort subite. Le groupe canadien de recherche sur la sarcoïdose cardiaque, mené par l'Institut de cardiologie d'Ottawa, propose une cohorte prospective multicentrique (14 sites) en deux phases : un registre des pratiques diagnostiques, thérapeutiques et du pronostic, puis un essai randomisé des corticoïdes. Le bilan initial comprend échocardiographie, ECG, scanner thoracique, TEP au FDG, biomarqueurs, IRM cardiaque et biopsie si possible.",
+ "interet": "L'étude doit fournir des données prospectives sur le diagnostic, le traitement et le pronostic de la sarcoïdose cardiaque, aujourd'hui peu documentés. Les résultats ne sont pas encore au registre.",
+ "profil": "Des adultes avec sarcoïdose cardiaque manifeste ou silencieuse, ou sarcoïdose extracardiaque avec dépistage cardiaque.",
+ "inclusion": [
+  "Sarcoïdose cardiaque manifeste : biopsie positive et/ou scanner évocateur, plus bloc de conduction avancé, arythmie ventriculaire ou dysfonction ventriculaire (FEVG < 50 % et/ou FEVD < 40 %)",
+  "Absence d'explication alternative et TEP au FDG évocatrice d'atteinte active",
+  "Sarcoïdose cardiaque silencieuse : sarcoïdose extracardiaque prouvée ou scanner évocateur, IRM cardiaque évocatrice, sans critère d'atteinte manifeste",
+  "IRM cardiaque négative : suivi comme témoin (sarcoïdose extracardiaque sans atteinte cardiaque)",
+  "Âge de 18 à 99 ans"
+ ],
+ "exclusion": [
+  "Incapacité ou refus de consentir",
+  "Grossesse ou allaitement",
+  "Claustrophobie connue",
+  "Âge < 18 ans"
+ ],
+ "bras": [
+  {"nom": "Sarcoïdose cardiaque recherchée", "traitement": "Patients avec sarcoïdose cardiaque manifeste, ou sarcoïdose extracardiaque dépistée pour atteinte cardiaque : bilan initial, TEP/biomarqueurs à 3-6 mois, puis suivi annuel ; traitement laissé au médecin"}
+ ],
+ "duree": "Suivi jusqu'à 4 ans après le dernier patient inclus, en moyenne 10 ans",
+ "critere": "Critère principal pour tous les patients, précisé au registre, à la fin de l'étude (en moyenne 10 ans)"
+}

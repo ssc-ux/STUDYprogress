@@ -1,0 +1,31 @@
+{
+ "h": "af02cbcd4fca",
+ "date": "2026-11-14",
+ "titre": "Teclistamab dans l'amylose AL récente de stade Mayo IIIB",
+ "question": "Le teclistamab induit-il une réponse hématologique rapide chez des patients atteints d'amylose AL sévère de stade Mayo IIIB, nouvellement diagnostiquée ?",
+ "contexte": "L'amylose AL est due à la production par un clone plasmocytaire de chaînes légères d'immunoglobulines qui se déposent dans les organes, en particulier le cœur et le rein. Le stade Mayo IIIB (atteinte cardiaque avec NT-proBNP et troponine très élevés) a le plus mauvais pronostic, avec une mortalité précoce élevée.\n\nLe traitement repose sur la daratumumab associée au bortézomib, cyclophosphamide et dexaméthasone, mais les patients de stade IIIB tolèrent mal les schémas intensifs et les inclusions dans les essais pivots les ont souvent exclus. La rapidité de la réponse hématologique conditionne la survie.\n\nLe teclistamab est un anticorps bispécifique anti-BCMA/CD3, approuvé dans le myélome multiple en rechute. Cette phase 2 chinoise monobras du Peking Union Medical College Hospital inclut 35 patients et l'évalue en première ligne par voie sous-cutanée. Le critère principal est la réponse hématologique à 1 mois.",
+ "interet": "L'étude pourrait montrer si une immunothérapie bispécifique permet d'obtenir très vite une réponse chez les patients de stade IIIB, pour lesquels les options sont limitées.",
+ "profil": "Des adultes atteints d'amylose AL de stade Mayo 2004 IIIB, nouvellement diagnostiquée.",
+ "inclusion": [
+  "Amylose AL confirmée par biopsie",
+  "Stade Mayo 2004 IIIB",
+  "dFLC ≥ 50 mg/L",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Infection non contrôlée",
+  "Autre cancer actif, myélome multiple ou maladie de Waldenström associés",
+  "BAV de type Mobitz II de grade 2 ou de grade 3 (sauf stimulateur), tachycardie ventriculaire soutenue ou récurrente",
+  "VIH, VHB (ADN > 1000 copies/mL) ou VHC actif",
+  "Neutrophiles < 1 G/L, hémoglobine < 8 g/dL ou plaquettes < 75 G/L",
+  "Atteinte hépatique ou rénale sévère (ALAT/ASAT > 5 N, bilirubine > 2 N, DFGe < 20 mL/min ou dialyse)"
+ ],
+ "bras": [
+  {
+   "nom": "Teclistamab",
+   "traitement": "Teclistamab par injection sous-cutanée (dose non précisée)"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 1 mois)",
+ "critere": "Réponse hématologique stricte sur la différence entre chaînes légères libres impliquées et non impliquées (dFLC), 1 mois après le début du traitement."
+}

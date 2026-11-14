@@ -1,0 +1,25 @@
+{
+ "h": "f3e948704732",
+ "date": "2026-11-14",
+ "titre": "Cyclophosphamide post-greffe et ruxolitinib après greffe pour déficits immunitaires innés",
+ "question": "L'association thymoglobuline, cyclophosphamide post-greffe et ruxolitinib prévient-elle efficacement la GVH après greffe de CSH chez des enfants ayant un déficit immunitaire inné ?",
+ "contexte": "Les déficits immunitaires innés (DII) sont des maladies rares dont certaines sont guéries par greffe allogénique de cellules souches hématopoïétiques (CSH). La maladie du greffon contre l'hôte (GVH) reste une complication majeure, surtout avec un donneur non apparenté ou familial non identique.\n\nLe cyclophosphamide post-greffe (PTCy) a transformé les résultats des greffes familiales haplo-identiques. Le ruxolitinib, inhibiteur de JAK1/2, donne des résultats prometteurs en prophylaxie de la GVH chez l'adulte, et la thymoglobuline est une option établie.\n\nCet essai de phase 2 d'un institut fédéral russe d'hématologie pédiatrique évalue l'association de ces trois approches. Le conditionnement contient treosulfan, fludarabine, thymoglobuline et thiotépa ou melphalan. La prophylaxie associe cyclophosphamide aux jours +3 et +4 (25 mg/kg pour les donneurs géno-identiques ou compatibles, 50 mg/kg pour les donneurs familiaux non compatibles) et ruxolitinib 7 mg/m² dès le jour +5.",
+ "interet": "Si la survie sans événement est bonne avec une GVH rare, cette prophylaxie combinée pourrait standardiser la greffe pour DII, y compris avec des donneurs familiaux non compatibles.",
+ "profil": "Des enfants et jeunes de moins de 21 ans avec un déficit immunitaire inné nécessitant une greffe allogénique de CSH.",
+ "inclusion": [
+  "Âge de 0 mois à moins de 21 ans",
+  "Déficit immunitaire inné avec indication de greffe allogénique de CSH",
+  "Consentement écrit des parents ou du tuteur"
+ ],
+ "exclusion": [
+  "Maladie somatique sévère associée à un risque accru de complications graves"
+ ],
+ "bras": [
+  {
+   "nom": "Intervention",
+   "traitement": "Conditionnement : treosulfan, fludarabine, thymoglobuline 5 mg/kg et thiotépa 10 mg/kg ou melphalan 140 mg/m². Prophylaxie de la GVH : cyclophosphamide aux jours +3 et +4 (25 mg/kg/j si donneur compatible, 50 mg/kg/j si non compatible) et ruxolitinib 7 mg/m² dès le jour +5"
+  }
+ ],
+ "duree": "1 an après la greffe",
+ "critere": "Survie sans événement à 1 an après la greffe."
+}

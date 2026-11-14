@@ -1,0 +1,14 @@
+{
+ "h": "c43da91331b5",
+ "date": "2026-11-14",
+ "titre": "Ixazomib en entretien après traitement initial de l'amylose AL",
+ "question": "L'ixazomib en entretien prévient-il ou retarde-t-il la rechute de l'amylose AL après un premier traitement ?",
+ "contexte": "L'amylose à chaînes légères (AL) est due à un clone plasmocytaire qui produit des chaînes légères amyloïdogènes. Le traitement initial associe habituellement un inhibiteur du protéasome, un alkylant et des corticoïdes, ou une intensification suivie d'une autogreffe chez des patients sélectionnés. Une proportion importante de patients rechute ou n'obtient pas de réponse hématologique profonde, et les lésions d'organe peuvent progresser.\n\nUn traitement d'entretien, déjà utilisé dans le myélome, pourrait prolonger la réponse. Cette étude de phase 2 du Memorial Sloan Kettering évalue l'ixazomib, inhibiteur oral du protéasome, à 4 mg aux jours 1, 8 et 15 de cycles de 28 jours, avec dexamétasone 4 à 12 mg si elle a été bien tolérée, jusqu'à 24 cycles ou jusqu'à progression ou toxicité. Elle concerne des patients en réponse au moins partielle après un traitement initial, dans les 12 mois suivant son début. Le critère principal est la survie sans événement à 2 ans.",
+ "interet": "L'étude pourrait montrer si un entretien par ixazomib prolonge la survie sans événement dans l'amylose AL, avec un effectif de 17 patients et sans bras comparateur.",
+ "profil": "Des adultes avec amylose AL ayant obtenu au moins une réponse hématologique partielle à un traitement initial.",
+ "inclusion": ["Âge ≥ 18 ans, amylose AL prouvée par biopsie (rouge Congo, biréfringence vert pomme)", "Maladie mesurable avant traitement initial (dFLC ≥ 50 mg/L ou pic monoclonal 0,5 g/dL)", "Au moins un organe atteint (rein, cœur, tube digestif ou foie, système nerveux, tissus mous)", "Au moins une réponse hématologique partielle à une ligne initiale (induction ou autogreffe d'emblée)", "Plasmocytes médullaires > 10 % au diagnostic ; au moins 2 cycles d'induction ou autogreffe", "Dans les 12 mois suivant le début du traitement initial ; ECOG 0-2 ; PNN ≥ 1 000, plaquettes ≥ 75 000, Hb ≥ 8 g/dL"],
+ "exclusion": ["Non précisé dans le résumé du registre (critères d'organe et de toxicité tronqués)"],
+ "bras": [{"nom": "Ixazomib", "traitement": "Ixazomib 4 mg per os aux jours 1, 8 et 15 de cycles de 28 jours, avec dexamétasone 4 à 12 mg possible, jusqu'à 24 cycles"}],
+ "duree": "Jusqu'à 24 cycles de 28 jours, soit environ 2 ans",
+ "critere": "Survie sans événement à 2 ans"
+}
