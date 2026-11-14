@@ -1,0 +1,34 @@
+{
+ "h": "f4013bb81249",
+ "date": "2026-11-14",
+ "titre": "Statut en vitamine D chez les adultes avec un PTI nouvellement diagnostiqué",
+ "question": "Le taux de vitamine D est-il associé à la sévérité hémorragique et à la réponse au traitement dans le PTI de l'adulte récent ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une thrombopénie auto-immune liée à des autoanticorps antiplaquettes et à des anomalies de l'immunité cellulaire, avec notamment un biais Th1 et une activité réduite des lymphocytes T régulateurs. Le traitement de première ligne repose sur les corticoïdes, avec une réponse variable.\n\nLa vitamine D a des effets immunomodulateurs sur les macrophages, les lymphocytes T et B, et sa carence a été associée à plusieurs maladies auto-immunes. Son rôle dans le PTI reste peu étudié. Cette étude observationnelle cas-témoins d'Assiut (Égypte) mesure la vitamine D chez 84 adultes avec un PTI primaire récent, traités par corticoïdes en première ligne, et compare les répondeurs et les non-répondeurs.",
+ "interet": "L'étude pourrait indiquer si une carence en vitamine D est un facteur associé à la mauvaise réponse aux corticoïdes dans le PTI. Elle ne permet pas de conclure à un lien causal ni à un effet d'une supplémentation.",
+ "profil": "Des adultes de 18 à 50 ans atteints d'un PTI primaire nouvellement diagnostiqué, traités par corticoïdes en première ligne.",
+ "inclusion": [
+  "Adulte de plus de 18 ans (jusqu'à 50 ans)",
+  "PTI primaire",
+  "Corticothérapie de première ligne reçue"
+ ],
+ "exclusion": [
+  "Âge inférieur à 18 ans",
+  "PTI secondaire",
+  "PTI sous corticoïdes de deuxième ligne",
+  "Maladie rénale chronique",
+  "Maladie hépatique chronique",
+  "Malnutrition ou malabsorption"
+ ],
+ "bras": [
+  {
+   "nom": "Répondeurs au traitement du PTI",
+   "traitement": "Aucune intervention ; dosage de la vitamine D"
+  },
+  {
+   "nom": "Non-répondeurs au traitement du PTI",
+   "traitement": "Aucune intervention ; dosage de la vitamine D"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Évaluation du statut en vitamine D des adultes avec un PTI nouvellement diagnostiqué, entre l'inclusion et 3 mois"
+}

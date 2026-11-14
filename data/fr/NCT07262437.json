@@ -1,0 +1,30 @@
+{
+ "h": "287dea2b6ccf",
+ "date": "2026-11-14",
+ "titre": "Cytokines de l'humeur aqueuse pour guider l'immunosuppresseur dans les uvéites non infectieuses",
+ "question": "Le profil de cytokines de l'humeur aqueuse est-il associé à la réponse aux immunosuppresseurs dans les uvéites non infectieuses ?",
+ "contexte": "Les uvéites non infectieuses sont des inflammations intraoculaires pouvant menacer la vision. Après échec des corticoïdes, on recourt à des immunosuppresseurs (mycophénolate mofétil, méthotrexate, azathioprine) ou à l'adalimumab, sans critère validé pour choisir le traitement le plus adapté à chaque patient. L'essai-erreur expose à une inflammation prolongée et à des effets indésirables.\n\nL'humeur aqueuse contient des cytokines reflétant les voies inflammatoires en jeu. Cette étude multicentrique de l'université de Milan (San Raffaele en partenaire) inclut environ 220 patients avec uvéite non infectieuse et inflammation de chambre antérieure, répondant mal aux corticoïdes. Quatorze cytokines sont mesurées par multiplex sur l'humeur aqueuse et le sang, avant que le traitement immunosuppresseur soit choisi selon la pratique habituelle. Le profil est ensuite comparé entre répondeurs et non-répondeurs à 3 mois.",
+ "interet": "Si des profils prédisent la réponse, ils pourraient permettre de choisir plus précocement le bon immunosuppresseur. L'étude est exploratoire et n'a pas de bras comparateur.",
+ "profil": "Des adultes avec uvéite non infectieuse en échec partiel des corticoïdes, éligibles à un immunosuppresseur ou à l'adalimumab.",
+ "inclusion": [
+  "Uvéite non infectieuse d'au moins un œil avec réponse incomplète ou non durable aux corticoïdes",
+  "Inflammation de la chambre antérieure",
+  "Éligible en pratique clinique au mycophénolate, au méthotrexate, à l'azathioprine ou à l'adalimumab",
+  "Capacité de consentir"
+ ],
+ "exclusion": [
+  "Traitement immunosuppresseur concomitant",
+  "Maladie systémique contre-indiquant les immunosuppresseurs",
+  "Opacités des milieux oculaires gênant le fond d'œil ou l'imagerie",
+  "Affection oculaire ou systémique modifiant le profil cytokinique",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Uvéite non infectieuse",
+   "traitement": "Prélèvement d'humeur aqueuse et de sang, puis immunosuppresseur choisi par le médecin (mycophénolate, méthotrexate, azathioprine ou adalimumab)"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Profil de cytokines de l'humeur aqueuse (14 cytokines, multiplex) chez les répondeurs et non-répondeurs à 3 mois"
+}

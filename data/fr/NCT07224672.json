@@ -1,0 +1,43 @@
+{
+ "h": "ac0246368035",
+ "date": "2026-11-14",
+ "titre": "Bélantamab mafodotine avec cyclophosphamide, bortézomib et dexaméthasone dans l'amylose AL récente",
+ "question": "Le bélantamab mafodotine associé à CyBorD permet-il d'obtenir un taux élevé de réponse hématologique complète dans l'amylose AL nouvellement diagnostiquée ?",
+ "contexte": "Dans l'amylose AL, un clone plasmocytaire produit des chaînes légères amyloïdogènes qui se déposent dans le cœur, les reins ou d'autres organes. Le traitement vise une réponse hématologique rapide et profonde. Pour les patients non éligibles à l'autogreffe, la référence est l'association cyclophosphamide, bortézomib et dexaméthasone (CyBorD), généralement avec le daratumumab.\n\nLe bélantamab mafodotine est un conjugué anticorps-médicament anti-BCMA, cible exprimée sur les plasmocytes, avec une toxicité oculaire connue (kératopathie). Cette étude de phase 2 de GSK (60 patients) comporte une phase d'optimisation de dose, avec randomisation entre deux niveaux de dose de bélantamab associés à CyBorD, puis une phase d'expansion à la dose retenue. L'étude évalue l'efficacité et la tolérance de l'association chez des patients non candidats à l'autogreffe.",
+ "interet": "Si la réponse hématologique complète est élevée, cette association pourrait devenir une option de première ligne dans l'amylose AL. La toxicité oculaire devra être mise en balance.",
+ "profil": "Des adultes avec une amylose AL nouvellement diagnostiquée, non candidats à une autogreffe, avec une maladie clonale mesurable.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose AL primitive nouvellement diagnostiquée, confirmée histologiquement",
+  "Maladie clonale mesurable (protéine monoclonale ≥ 0,5 g/dL, ou chaîne légère impliquée ≥ 5 mg/dL avec rapport κ:λ anormal, ou dFLC ≥ 5 mg/dL)",
+  "Non candidat à l'autogreffe en première ligne",
+  "ECOG 0 à 2",
+  "Fonctions hématologique, hépatique et rénale adéquates"
+ ],
+ "exclusion": [
+  "Syndrome POEMS ou myélome symptomatique",
+  "Amylose AL liée à une IgM, ou amylose non AL (ATTR)",
+  "Insuffisance cardiaque NYHA IIIb-IV, arythmie ou QTcF > 450 ms, hypotension, HTA non contrôlée",
+  "Stade de Mayo 3B",
+  "Maladie cornéenne épithéliale (hors kératopathie ponctuée légère)",
+  "Traitement antérieur de l'amylose AL ou du myélome (hors dexaméthasone ≤ 160 mg)",
+  "Infection active, hépatite B ou C non contrôlée, VIH non contrôlé",
+  "Greffe antérieure ou autre cancer non stable depuis 2 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Optimisation de dose, niveau 1",
+   "traitement": "Bélantamab mafodotine (dose niveau 1) + cyclophosphamide, bortézomib, dexaméthasone"
+  },
+  {
+   "nom": "Optimisation de dose, niveau 2",
+   "traitement": "Bélantamab mafodotine (dose niveau 2) + cyclophosphamide, bortézomib, dexaméthasone"
+  },
+  {
+   "nom": "Expansion",
+   "traitement": "Bélantamab mafodotine à la dose retenue + CyBorD"
+  }
+ ],
+ "duree": "Jusqu'à environ 24 mois pour le critère principal, suivi plus long prévu",
+ "critere": "Taux global de réponse hématologique complète, jusqu'à environ 24 mois"
+}

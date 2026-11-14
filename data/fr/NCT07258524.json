@@ -1,0 +1,34 @@
+{
+ "h": "02cb131ae766",
+ "date": "2026-11-14",
+ "titre": "TEP corps entier pour évaluer l'activité et le risque cardiovasculaire dans les vascularites à ANCA",
+ "question": "La TEP corps entier avec trois traceurs (FDG, DOTATATE, FAPI) mesure-t-elle l'activité de la vascularite à ANCA et le risque cardiovasculaire ?",
+ "contexte": "Les vascularites associées aux ANCA sont des maladies auto-immunes des petits vaisseaux, avec atteinte multiviscérale. Le diagnostic est difficile et souvent tardif. L'évaluation de l'activité repose sur des examens biologiques peu précis, la biopsie (invasive, un seul organe) ou une imagerie non spécifique. Distinguer une poussée évolutive de lésions séquellaires conditionne le risque de sous- ou sur-traitement.\n\nMême en rémission, ces patients ont un risque cardiovasculaire accru. Les TEP corps entier récentes balaient tout le corps rapidement avec une irradiation acceptable. Le FDG reflète l'inflammation, le DOTATATE pourrait être plus spécifique de l'inflammation vasculitique et le FAPI cible la fibrose. Cette étude d'Édimbourg (jusqu'à 90 patients et 30 témoins appariés) réalise un TEP avant traitement puis en rémission (3 à 6 mois), avec des mesures de risque cardiovasculaire (PA sur 24 h, rigidité artérielle, imagerie rétinienne).",
+ "interet": "L'étude pourrait montrer si la TEP corps entier aide à évaluer l'activité de la maladie et à repérer les patients à plus haut risque cardiovasculaire. Elle reste exploratoire.",
+ "profil": "Des adultes avec une vascularite à ANCA active, comparés à des témoins appariés sans vascularite.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Vascularite à ANCA active (groupe AAV)",
+  "Témoins appariés sur l'âge, le sexe, l'origine et les facteurs de risque cardiovasculaire"
+ ],
+ "exclusion": [
+  "Scan initial après plus de 3 semaines de traitement",
+  "Grossesse ou allaitement",
+  "Insuffisance rénale avancée (DFG < 15 mL/min/1,73 m²)",
+  "Réaction ou hypersensibilité aux radiotraceurs",
+  "Diabète insulinodépendant",
+  "Incapacité ou refus de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Vascularite à ANCA",
+   "traitement": "TEP corps entier (FDG, DOTATATE, FAPI) et bilan de risque cardiovasculaire à l'état actif puis en rémission"
+  },
+  {
+   "nom": "Témoins appariés",
+   "traitement": "TEP corps entier et bilan de risque cardiovasculaire, une seule fois"
+  }
+ ],
+ "duree": "Environ 3 à 12 mois (nouvelle évaluation en rémission, 3 à 6 mois après)",
+ "critere": "Variation de la captation des traceurs (SUVmax) dans les régions d'intérêt entre l'état actif et la rémission, sur 3 à 12 mois"
+}

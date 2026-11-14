@@ -1,0 +1,36 @@
+{
+ "h": "ac26952a91b8",
+ "date": "2026-11-14",
+ "titre": "Rituximab associé au daratumumab dans le PTI primaire de l'adulte, essai monobras",
+ "question": "L'association rituximab et daratumumab (anti-CD38) est-elle efficace et sûre chez des adultes avec un PTI primaire en échec des corticoïdes ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une thrombopénie auto-immune par destruction accrue et production insuffisante de plaquettes. Après corticoïdes et immunoglobulines, les agonistes du récepteur de la TPO, la splénectomie et des immunosuppresseurs comme le rituximab sont utilisés. Les formes récidivantes ou réfractaires restent difficiles à contrôler.\n\nDes plasmocytes à longue durée de vie sécrétant des anticorps antiplaquettes, non ciblés par le rituximab, pourraient expliquer des échecs. Le daratumumab, anti-CD38, cible ces plasmocytes. Cet essai de phase 2 ouvert et monobras de l'Institut d'hématologie de Tianjin (20 patients) associe rituximab 375 mg/m² à J1 et huit perfusions de daratumumab 16 mg/kg (J8 à J57). Le centre rapporte une bonne efficacité et tolérance chez des patients traités ainsi auparavant.",
+ "interet": "L'étude pourrait donner un signal d'efficacité dans les PTI multi-traités. Sans bras comparateur et avec 20 patients, elle ne permettra pas de conclure sur la supériorité.",
+ "profil": "Des adultes avec un PTI primaire de plus de 3 mois, en échec des corticoïdes et de traitements de seconde ligne, avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire depuis au moins 3 mois",
+  "Échec des corticoïdes",
+  "Échec de la seconde ligne (agoniste du récepteur de la TPO, rituximab/anti-CD38) ou échec ou rechute après splénectomie",
+  "Plaquettes < 30 G/L à deux mesures espacées d'au moins 1 semaine",
+  "ECOG ≤ 2",
+  "Un seul traitement associé stable depuis 4 semaines autorisé",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Allergie aux anticorps anti-CD20 ou anti-CD38",
+  "Anémie hémolytique auto-immune ou thrombopénie secondaire",
+  "Événement thrombotique ou hémorragie sévère dans les 12 mois",
+  "Anticoagulants ou antiagrégants dans les 3 semaines",
+  "Traitement d'urgence du PTI dans les 2 semaines",
+  "Immunosuppresseurs récents (azathioprine, danazol, ciclosporine, tacrolimus, sirolimus)",
+  "Autre médicament expérimental dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab + daratumumab",
+   "traitement": "Rituximab 375 mg/m² à J1 ; daratumumab 16 mg/kg à J8, 15, 22, 29, 36, 43, 50 et 57"
+  }
+ ],
+ "duree": "12 semaines pour le critère principal",
+ "critere": "Taux de réponse globale à la semaine 12"
+}

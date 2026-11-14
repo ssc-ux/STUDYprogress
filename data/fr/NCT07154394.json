@@ -1,0 +1,27 @@
+{
+ "h": "e04f6fc37fd1",
+ "date": "2026-11-14",
+ "titre": "Dépôts amyloïdes cardiaques chez des patients évalués pour une maladie d'Alzheimer",
+ "question": "Des dépôts amyloïdes cardiaques sont-ils fréquents chez les patients qui passent une TEP amyloïde cérébrale pour une suspicion de maladie d'Alzheimer ?",
+ "contexte": "La maladie d'Alzheimer et l'amylose cardiaque sont deux maladies associées à des dépôts amyloïdes, mais de protéines différentes. On ignore si elles partagent des mécanismes ou si les patients avec Alzheimer ont plus d'atteinte cardiaque amyloïde. Les traceurs TEP amyloïdes utilisés pour le cerveau se fixent également sur les dépôts amyloïdes cardiaques.\n\nCette étude observationnelle de l'hôpital universitaire d'Essen (15 patients) propose, aux patients adressés pour une TEP amyloïde cérébrale, une extension de l'examen au cœur en TEP/IRM, sans produit ni irradiation supplémentaires. Une échographie avec strain, un ECG 12 dérivations et une évaluation clinique de la démence sont également réalisés.",
+ "interet": "Les résultats pourraient suggérer un lien entre amylose cardiaque et maladie d'Alzheimer et améliorer le dépistage cardiaque chez ces patients. L'effectif est très limité.",
+ "profil": "Des adultes adressés pour une TEP amyloïde cérébrale afin de clarifier un diagnostic de maladie d'Alzheimer ou de trouble cognitif léger.",
+ "inclusion": [
+  "Indication clinique d'une TEP amyloïde cérébrale pour clarifier une maladie d'Alzheimer",
+  "Absence de contre-indication à l'IRM",
+  "Absence de contre-indication à la TEP amyloïde"
+ ],
+ "exclusion": [
+  "Démence vasculaire ou autre cause de démence confirmée (AVC, carence vitaminique, hypothyroïdie, toxiques)",
+  "Antécédents cardiaques marqués",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients adressés pour TEP amyloïde cérébrale",
+   "traitement": "Extension de la TEP amyloïde au cœur (TEP/IRM), échographie avec strain et ECG"
+  }
+ ],
+ "duree": "Environ 1 an",
+ "critere": "Fréquence des dépôts amyloïdes cardiaques chez les patients avec maladie d'Alzheimer, globalement et selon le stade clinique"
+}

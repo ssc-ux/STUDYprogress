@@ -1,0 +1,30 @@
+{
+ "h": "2a86f49a7321",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'amylose cardiaque en médecine générale dans la province d'Ordu (Turquie)",
+ "question": "Un dépistage en médecine générale fondé sur des signaux d'alerte et un dosage de NT-proBNP/BNP est-il réalisable et rentable pour repérer l'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR) est une cardiomyopathie infiltrative progressive, sous-diagnostiquée, dont la prévalence semble plus élevée dans certaines régions, notamment sur la côte de la mer Noire en Turquie. Un diagnostic précoce améliore le pronostic maintenant que des traitements existent.\n\nATTRACT-52 est une étude observationnelle prospective, sans intervention, menée dans les centres de médecine familiale de la province d'Ordu. Elle repère les adultes de 65 ans et plus avec une pathologie cardiaque (insuffisance cardiaque, sténose aortique, cardiomyopathie, bloc AV, fibrillation atriale) et/ou des signaux extracardiaques (canal carpien, canal lombaire étroit, doigt à ressaut). Chez ceux à forte suspicion, un NT-proBNP (> 600 pg/mL) ou BNP (> 150 pg/mL) est dosé en soins primaires avant l'orientation vers les examens de confirmation (scintigraphie osseuse, IRM).",
+ "interet": "L'étude pourrait montrer qu'un dépistage de première ligne en médecine générale est faisable et améliore le rendement des orientations. Elle ne porte que sur une région et un effectif de 800 patients.",
+ "profil": "Des adultes de 65 ans et plus inscrits dans des centres de médecine familiale de la province d'Ordu, avec antécédents cardiaques évocateurs.",
+ "inclusion": [
+  "Âge ≥ 65 ans",
+  "Patient inscrit dans un centre de médecine familiale participant d'Ordu",
+  "Antécédent d'insuffisance cardiaque, sténose aortique, cardiomyopathie, bloc AV ou fibrillation atriale",
+  "Septum interventriculaire ≥ 12 mm avec FEVG ≥ 50 % à l'échographie, si disponible",
+  "Consentement oral ou écrit"
+ ],
+ "exclusion": [
+  "Amylose AL systémique connue",
+  "Insuffisance rénale sévère (DFG < 30 mL/min/1,73 m²)",
+  "Incapacité à consentir",
+  "Participation à un essai interventionnel"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de dépistage fondé sur le risque",
+   "traitement": "Dépistage en soins primaires ; NT-proBNP/BNP si forte suspicion, avant orientation selon les soins habituels"
+  }
+ ],
+ "duree": "Évaluation ponctuelle à l'inclusion (étude jusqu'à octobre 2026)",
+ "critere": "Proportion de participants à forte suspicion avec un NT-proBNP élevé (> 600 pg/mL) à l'inclusion"
+}

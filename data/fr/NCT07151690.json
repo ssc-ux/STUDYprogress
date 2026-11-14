@@ -1,0 +1,29 @@
+{
+ "h": "8aecbb21ad78",
+ "date": "2026-11-14",
+ "titre": "Anticorps bispécifique BCMA/CD3 (CM336) dans l'amylose AL nouvellement diagnostiquée",
+ "question": "Un anticorps bispécifique anti-BCMA/CD3 à faible dose permet-il d'obtenir une réponse hématologique profonde dans l'amylose AL récente ?",
+ "contexte": "L'amylose à chaînes légères (AL) résulte de la production par un clone plasmocytaire de chaînes légères qui se déposent dans les organes (cœur, rein, foie, nerfs). Le traitement de référence en première ligne associe daratumumab, cyclophosphamide, bortézomib et dexaméthasone ; l'objectif est une réponse hématologique profonde rapide pour limiter les dépôts.\n\nLe CM336 est un anticorps bispécifique anti-BCMA/CD3 qui engage les lymphocytes T contre les plasmocytes. Les anticorps bispécifiques sont efficaces dans le myélome et ont été explorés dans l'amylose AL en rechute. Cet essai de phase 2 monobras mené à l'Institut d'hématologie de Tianjin évalue le CM336 en première ligne, chez 21 patients, avec des doses faibles et sous-cutanées.",
+ "interet": "Si la réponse hématologique est rapide et profonde avec une tolérance acceptable, cette stratégie pourrait devenir une alternative en première ligne. La tolérance (syndrome de relargage de cytokines, infections) sera déterminante.",
+ "profil": "Des adultes avec une amylose AL nouvellement diagnostiquée et une maladie mesurable.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose AL confirmée selon les recommandations chinoises 2021",
+  "dFLC ≥ 50 mg/L, ou chaîne légère impliquée ≥ 50 mg/L avec rapport κ:λ anormal",
+  "ECOG ≤ 2",
+  "Fonctions médullaire (PNN ≥ 1,0 G/L, Hb ≥ 75 g/L, plaquettes ≥ 70 G/L), hépatique et de coagulation adéquates",
+  "DFG estimé ≥ 20 mL/min/1,73 m²",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Non précisé dans la description du registre (critères d'exclusion non listés)"
+ ],
+ "bras": [
+  {
+   "nom": "CM336",
+   "traitement": "CM336 sous-cutané : 3 mg J1, 20 mg J4, puis 40 mg par semaine dès J8, 12 cycles ; espacement toutes les 2 semaines si réponse ≥ VGPR après 4 cycles"
+  }
+ ],
+ "duree": "Jusqu'à environ 24 mois (traitement 12 cycles, puis suivi)",
+ "critere": "Taux de réponse hématologique très bonne réponse partielle (VGPR) ou mieux à 4 mois ; incidence et sévérité des événements indésirables jusqu'à 30 jours après la dernière dose"
+}

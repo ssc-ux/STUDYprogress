@@ -1,0 +1,27 @@
+{
+ "h": "feb81eee2f76",
+ "date": "2026-11-14",
+ "titre": "GT719, cellules iNKT universelles anti-CD19, dans les maladies rénales à médiation immune",
+ "question": "Les cellules iNKT universelles anti-CD19 GT719 sont-elles sûres et efficaces dans des glomérulopathies immunes réfractaires ?",
+ "contexte": "Plusieurs maladies rénales à médiation immune (néphropathie à IgA, néphropathie extramembraneuse, glomérulonéphrite des vascularites à ANCA, podocytopathies réfractaires, glomérulonéphrites avec dépôts monoclonaux) reposent sur des lymphocytes B et des auto-anticorps. Les traitements actuels (corticoïdes, cyclophosphamide, rituximab, immunosuppresseurs) laissent des patients en échec ou en rechute et exposent à des toxicités.\n\nGT719 est un produit cellulaire allogénique « universel » : des cellules iNKT dirigées contre CD19, qui éliminent les lymphocytes B. Cet essai de phase 1 de Grit Biotechnology avec l'hôpital Zhongshan (30 patients de 18 à 75 ans) comporte une phase d'escalade de dose (9 à 18 patients) puis d'expansion (12 patients supplémentaires), afin d'évaluer la sécurité, la tolérance, la dose recommandée et l'efficacité préliminaire. Les patients doivent être en échec ou à haut risque de progression, par exemple une néphropathie à IgA avec protéinurie persistante malgré un traitement de 3 mois ou une vascularite à ANCA avec échec du traitement standard.",
+ "interet": "L'étude pourrait fournir un premier signal de tolérance et d'efficacité d'une thérapie cellulaire prête à l'emploi dans les glomérulopathies réfractaires. Elle est précoce, monobras, et débute en 2027.",
+ "profil": "Des adultes de 18 à 75 ans avec une glomérulopathie à médiation immune réfractaire ou à haut risque, avec lymphocytes B CD19 positifs.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, consentement signé",
+  "Expression de CD19 sur les lymphocytes B du sang périphérique",
+  "Néphropathie à IgA biopsiée à haut risque (protéinurie persistante ≥ 0,75 g/j malgré 3 mois de traitement, risque pronostique ≥ 20 %, baisse du DFG ≥ 20 % en 3 mois ou lésion C2)",
+  "Vascularite à ANCA (GPA ou MPA, critères ACR/EULAR 2022, MPO- ou PR3-ANCA) en échec, rechute ou activité persistante malgré le traitement standard",
+  "Néphropathie extramembraneuse primitive biopsiée avec anticorps anti-PLA2R ou équivalent"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "GT719",
+   "traitement": "Cellules iNKT allogéniques anti-CD19 (GT719), injection ; escalade de dose puis expansion"
+  }
+ ],
+ "duree": "24 mois pour la tolérance",
+ "critere": "Incidence et gravité des événements indésirables sur 24 mois ; variations à 1 mois des signes vitaux, symptômes cliniques, examens biologiques et ECG"
+}

@@ -1,0 +1,39 @@
+{
+ "h": "d92cd21e54d0",
+ "date": "2026-11-14",
+ "titre": "Descartes-08 contre placebo dans la dermatomyosite et le syndrome des antisynthétases",
+ "question": "Les lymphocytes T autologues CAR anti-BCMA Descartes-08 améliorent-ils l'activité des myosites auto-immunes par rapport à un placebo ?",
+ "contexte": "La dermatomyosite et le syndrome des antisynthétases sont des myopathies inflammatoires associées à des auto-anticorps, avec atteinte musculaire, cutanée et parfois pulmonaire. Le traitement repose sur les corticoïdes, les immunosuppresseurs, les immunoglobulines et le rituximab. Une partie des patients reste réfractaire ou intolérante.\n\nLe BCMA est exprimé par les plasmocytes producteurs d'auto-anticorps. Descartes-08 est une thérapie par lymphocytes T autologues exprimant un récepteur chimérique dirigé contre BCMA. Cet essai de phase 2 randomisé, en double aveugle contre placebo, de Cartesian Therapeutics (60 patients) évalue son efficacité, sa tolérance et sa sécurité chez des adultes en échec ou intolérants au traitement standard, sous immunosuppression de fond stable depuis au moins 8 semaines.",
+ "interet": "Si l'essai est positif, il soutiendrait une thérapie cellulaire dans les myosites réfractaires. La phase 2 de 60 patients ne suffira pas à confirmer ce bénéfice à grande échelle.",
+ "profil": "Des adultes avec dermatomyosite ou syndrome des antisynthétases, avec atteinte musculaire et/ou cutanée, réfractaires ou intolérants au traitement standard.",
+ "inclusion": [
+  "Dermatomyosite (probabilité ≥ 55 % selon les critères EULAR/ACR 2017) ou syndrome des antisynthétases (critères ACR/EULAR)",
+  "Atteinte musculaire et/ou cutanée",
+  "Réfractaire ou intolérant au traitement standard",
+  "Traitement immunosuppresseur de fond stable depuis ≥ 8 semaines",
+  "Fonctions hématologique, rénale, hépatique et pulmonaire adéquates (SpO₂ ≥ 92 % en air ambiant)",
+  "Consentement, contraception et vaccinations requises"
+ ],
+ "exclusion": [
+  "Atteinte pulmonaire interstitielle isolée sans atteinte musculaire ou cutanée",
+  "Lésion musculaire sévère irréversible (fauteuil roulant)",
+  "Pneumopathie interstitielle sous oxygène, CVF ≤ 45 %, DLCO ≤ 40 % ou hypertension pulmonaire",
+  "Autres myopathies inflammatoires (polymyosite, IMNM, myosite à inclusions, myosite paranéoplasique ou médicamenteuse)",
+  "Autre maladie auto-immune ou neuromusculaire sévère nécessitant une immunosuppression",
+  "Grossesse ou allaitement",
+  "Vaccin vivant dans les 4 semaines",
+  "Infection active ou non contrôlée (VHB, VHC, VIH, tuberculose), greffe, déficit immunitaire primitif"
+ ],
+ "bras": [
+  {
+   "nom": "Descartes-08",
+   "traitement": "Lymphocytes T autologues CAR anti-BCMA (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "24 semaines pour le critère principal",
+ "critere": "Amélioration majeure du score total d'amélioration ACR/EULAR 2016 à 24 semaines"
+}

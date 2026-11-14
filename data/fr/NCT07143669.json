@@ -1,0 +1,43 @@
+{
+ "h": "12bf3bc284b6",
+ "date": "2026-11-14",
+ "titre": "Dépistage de la mutation KIT D816V dans des populations ciblées avec suspicion de mastocytose clonale",
+ "question": "Quelle est la prévalence de la mutation KIT D816V chez des patients suspects de maladie mastocytaire clonale non encore diagnostiquée ?",
+ "contexte": "La mutation KIT D816V est l'anomalie moléculaire retrouvée dans la grande majorité des mastocytoses systémiques. Elle peut cependant passer inaperçue chez des patients dont le tableau clinique est atypique, par exemple des anaphylaxies récurrentes sans cause identifiée, ou dont la charge mutante est très faible. Le diagnostic de maladie mastocytaire clonale est alors retardé.\n\nCette étude multicentrique de dépistage, promue par Blueprint Medicines, recherche la mutation KIT D816V dans le sang périphérique par des techniques ultrasensibles (PCR digitale en gouttelettes et amplification en cercle roulant « superRCA »). Quatre cohortes sont étudiées : patients avec symptômes d'activation mastocytaire ou anaphylaxie (venin d'hyménoptère, idiopathique, syndrome alpha-gal), patients avec syndrome d'Ehlers-Danlos hypermobile, POTS ou ostéoporose précoce, patients avec LMMC ou SMD/SMP, et patients avec atteinte cutanée mastocytaire. Il s'agit d'une étude de caractérisation, sans traitement évalué.",
+ "interet": "Les résultats pourraient préciser dans quelles situations cliniques un dépistage de KIT D816V est pertinent. Ils pourraient réduire l'errance diagnostique de certaines maladies mastocytaires clonales.",
+ "profil": "Des adultes avec suspicion de maladie mastocytaire clonale à KIT D816V, répartis en quatre cohortes selon leur situation clinique.",
+ "inclusion": [
+  "Cohorte 1 : anaphylaxie (venin d'hyménoptère, idiopathique ou alpha-gal) ou signes d'activation mastocytaire dans au moins 2 systèmes d'organes",
+  "Cohorte 2 : syndrome d'Ehlers-Danlos hypermobile, POTS symptomatique ou ostéoporose/ostéopénie avant 50 ans",
+  "Cohorte 3 : LMMC ou SMD/SMP non classé (OMS 5e édition)",
+  "Cohorte 4 : mastocytose cutanée, KIT D816V non détectée auparavant",
+  "Âge d'au moins 18 ans"
+ ],
+ "exclusion": [
+  "Mastocytose systémique de tout sous-type déjà diagnostiquée",
+  "Syndrome d'activation mastocytaire monoclonal avec mutation KIT connue",
+  "Sarcome mastocytaire",
+  "Cohorte 2 : ostéopénie/ostéoporose attribuée à une autre cause connue",
+  "Autres critères définis par le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1",
+   "traitement": "Dépistage : patients avec symptômes d'activation mastocytaire"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "Dépistage : patients avec maladies associées à une implication mastocytaire suspectée"
+  },
+  {
+   "nom": "Cohorte 3",
+   "traitement": "Dépistage : patients avec LMMC ou SMD/SMP non classé"
+  },
+  {
+   "nom": "Cohorte 4",
+   "traitement": "Dépistage : patients avec atteinte cutanée mastocytaire"
+  }
+ ],
+ "duree": "Dépistage ponctuel (jour 1)",
+ "critere": "Proportion de participants de la cohorte 1 porteurs de la mutation KIT D816V dans le sang périphérique, mesurée par PCR digitale et par superRCA (jour 1)"
+}

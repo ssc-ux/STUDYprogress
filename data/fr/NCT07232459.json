@@ -1,0 +1,34 @@
+{
+ "h": "49093e2438ca",
+ "date": "2026-11-14",
+ "titre": "TEP au [18F]FT8 dans l'amylose à chaînes légères",
+ "question": "Le traceur TEP [18F]FT8 est-il bien toléré et permet-il de visualiser les dépôts d'amylose AL ?",
+ "contexte": "Le diagnostic d'amylose AL, notamment cardiaque, repose sur l'association de l'échographie, de l'IRM cardiaque, des biomarqueurs (NT-proBNP, troponine) et de la biopsie. Il n'existe pas d'imagerie validée capable de distinguer directement l'amylose AL de l'amylose à transthyrétine, alors que les traitements diffèrent complètement.\n\nLe [18F]FT8 est un dérivé du [18F]TPZA qui, sur des coupes de myocarde, se fixe avec une forte affinité sur l'amyloïde AL et pas sur l'amyloïde à transthyrétine. Cette étude observationnelle de Tianjin (25 participants : 20 patients avec amylose systémique dont cardiaque et 5 volontaires sains) évalue la tolérance du traceur sur 7 jours et sa fixation par la valeur de captation standardisée (SUV) lors d'une TEP/TDM, en la comparant aux méthodes cliniques établies.",
+ "interet": "Si le traceur se confirme spécifique, il pourrait aider au diagnostic différentiel non invasif des amyloses. L'étude est un premier travail de faisabilité chez l'humain.",
+ "profil": "Des adultes avec amylose cardiaque suspectée ou connue, et des volontaires sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Patients : amylose cardiaque suspectée, récente ou connue (IRM, TDM, biomarqueurs ou histologie)",
+  "Patients : TEP/TDM pan-amyloïde programmée en soins courants",
+  "Volontaires sains : aucune maladie cardiaque ou systémique active (antécédents, examen, ECG)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Amylose confirmée non cardiaque ou autre pathologie cardiaque gênant l'interprétation",
+  "Grossesse ou allaitement",
+  "Condition médicale, psychologique ou sociale compromettant la participation",
+  "Volontaires : maladie cardiaque, hépatique, rénale ou neurologique significative"
+ ],
+ "bras": [
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Une injection intraveineuse de [18F]FT8 (10 ± 3 mCi) puis TEP/TDM"
+  },
+  {
+   "nom": "Patients avec amylose",
+   "traitement": "Une injection intraveineuse de [18F]FT8 (10 ± 3 mCi) puis TEP/TDM"
+  }
+ ],
+ "duree": "Examen ponctuel avec suivi de tolérance de 7 jours",
+ "critere": "Tolérance du traceur jusqu'à 7 jours après l'injection ; captation d'organe en SUV lors de la TEP/TDM (jour 1)"
+}

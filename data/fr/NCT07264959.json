@@ -1,0 +1,28 @@
+{
+ "h": "b43aac0a82dc",
+ "date": "2026-11-14",
+ "titre": "Étude observationnelle de la mastocytose systémique indolente en vie réelle",
+ "question": "Quelles sont les caractéristiques, l'évolution et la prise en charge des patients avec mastocytose systémique indolente en pratique courante ?",
+ "contexte": "La mastocytose systémique indolente (MSI) est la forme la plus fréquente de mastocytose systémique, dominée par une symptomatologie chronique (flushs, douleurs abdominales, fatigue) et des atteintes osseuses ou des anaphylaxies. Les données de vie réelle sur la charge de la maladie, le contrôle des symptômes et la prise en charge restent limitées. Le traitement repose sur des thérapies dirigées contre les symptômes et, pour les formes sévères, sur l'avapritinib, inhibiteur de KIT.\n\nCette étude observationnelle de phase 4, promue par Blueprint Medicines (150 patients, suivi jusqu'à 61 mois), décrit les caractéristiques démographiques et cliniques, notamment l'anaphylaxie et les manifestations osseuses. Elle suit la qualité de vie et le contrôle de la maladie par questionnaires, la charge allélique KIT D816V sérique, la tryptase et l'évolution des traitements symptomatiques, dont l'utilisation de l'avapritinib.",
+ "interet": "Les données décriront l'histoire naturelle de la MSI traitée et l'évolution de ses marqueurs, au-delà des essais cliniques. Il n'y a pas de comparaison entre traitements.",
+ "profil": "Des adultes avec une mastocytose systémique indolente, traités ou allant l'être par des thérapies symptomatiques et/ou l'avapritinib.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "MSI selon les critères OMS",
+  "Traitement en cours ou prévu par thérapies symptomatiques et/ou avapritinib"
+ ],
+ "exclusion": [
+  "Mastocytose systémique avancée ou autre hémopathie associée",
+  "Mastocytose systémique « smoldering »",
+  "Participation à un essai interventionnel en mastocytose",
+  "Inhibiteur de KIT autre que l'avapritinib en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec MSI",
+   "traitement": "Suivi observationnel de patients traités ou allant l'être par traitements symptomatiques et/ou avapritinib"
+  }
+ ],
+ "duree": "Jusqu'à 61 mois",
+ "critere": "Données démographiques initiales ; variation des scores rapportés par les patients, de la charge allélique KIT D816V sérique, de la tryptase sérique et des traitements symptomatiques, jusqu'au mois 61"
+}

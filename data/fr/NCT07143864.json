@@ -1,0 +1,38 @@
+{
+ "h": "34e08918b1ff",
+ "date": "2026-11-14",
+ "titre": "Stapokibart dans l'amylose cutanée primitive",
+ "question": "Le stapokibart, anticorps anti-récepteur de l'IL-4, est-il plus efficace qu'un placebo dans l'amylose cutanée primitive ?",
+ "contexte": "L'amylose cutanée primitive est une dermatose chronique caractérisée par des dépôts amyloïdes dans le derme, responsables d'un prurit intense, de papules lichénoïdes et d'un retentissement important sur la qualité de vie. Les traitements actuels (dermocorticoïdes, photothérapie, immunosuppresseurs) ont une efficacité inconstante et il n'existe pas de traitement de référence validé.\n\nLe prurit chronique de cette maladie fait intervenir des voies de type 2, dont l'IL-4 et l'IL-13. Le stapokibart est un anticorps monoclonal dirigé contre le récepteur alpha de l'IL-4, utilisé en Chine dans la dermatite atopique. Cet essai randomisé, en double aveugle contre placebo, mené à Chongqing, évalue son efficacité et sa tolérance chez 40 adultes insuffisamment contrôlés par les dermocorticoïdes.",
+ "interet": "Si l'étude est positive, elle ouvrirait la voie à un traitement ciblé des voies de type 2 dans une maladie pauvre en options thérapeutiques. Les effectifs restent faibles.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'amylose cutanée primitive confirmée par biopsie, insuffisamment contrôlés par les corticoïdes locaux.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Amylose cutanée primitive confirmée par biopsie",
+  "IGA ≥ 3, score AASI ≥ 5 et surface atteinte ≥ 5 %",
+  "Réponse insuffisante ou intolérance aux dermocorticoïdes",
+  "Émollient quotidien depuis au moins 1 semaine",
+  "Contraception efficace pendant l'étude et 6 mois après"
+ ],
+ "exclusion": [
+  "Immunosuppresseurs, photothérapie ou médecine chinoise dans les 4 semaines précédentes",
+  "Biothérapie anti-IL-4R, anti-IgE ou autre dans les 12 semaines précédentes",
+  "Dermatoses associées (gale, lymphome cutané T, psoriasis)",
+  "Cancer actif ou antécédent de cancer (hors exceptions)",
+  "Infection active (tuberculose, VHB, VHC, VIH, syphilis)",
+  "Insuffisance hépatique ou rénale sévère",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Stapokibart",
+   "traitement": "Stapokibart (anti-IL-4Rα), dose et rythme non précisés"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "16 semaines de traitement",
+ "critere": "Pourcentage de patients atteignant une amélioration d'au moins 75 % du score AASI (AASI-75) à la semaine 16"
+}

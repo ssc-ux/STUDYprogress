@@ -1,0 +1,28 @@
+{
+ "h": "608bdf7f0faa",
+ "date": "2026-11-14",
+ "titre": "Qualité de vie des enfants atteints d'erreurs innées de l'immunité (Égypte)",
+ "question": "Quelle est la qualité de vie des enfants avec une erreur innée de l'immunité par rapport à des témoins sains, et quels facteurs l'influencent ?",
+ "contexte": "Les erreurs innées de l'immunité (EII) regroupent environ 430 maladies, du déficit en IgA asymptomatique au déficit immunitaire combiné sévère. Elles exposent à des infections répétées, à l'auto-immunité, aux lymphoprolifératifs et aux cancers. Le traitement repose sur les immunoglobulines, par voie intraveineuse ou sous-cutanée, et sur la greffe de moelle pour les déficits combinés.\n\nLa charge de la maladie est importante : hospitalisations, consultations, absentéisme scolaire, limitation des activités physiques et sociales. Les études, surtout occidentales, montrent une qualité de vie liée à la santé diminuée, associée à un retard diagnostique et au type de déficit. Cette étude cas-témoins de l'université de Sohag (50 enfants de 6 à 18 ans) utilise la version arabe du questionnaire PedsQL (4 domaines : physique, émotionnel, social, scolaire) en Haute-Égypte, région où la consanguinité est fréquente et où les données manquent.",
+ "interet": "L'étude pourrait identifier les facteurs associés à une moindre qualité de vie, notamment le retard diagnostique, et orienter le soutien aux enfants concernés. Elle n'évalue pas de traitement.",
+ "profil": "Des enfants de 6 à 18 ans atteints d'une erreur innée de l'immunité, comparés à des enfants sains.",
+ "inclusion": [
+  "Enfants de 6 à 18 ans"
+ ],
+ "exclusion": [
+  "Absence de consentement",
+  "Âge non adapté"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants avec erreur innée de l'immunité",
+   "traitement": "Évaluation de la qualité de vie par questionnaire PedsQL, sans intervention"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Évaluation de la qualité de vie par questionnaire PedsQL, sans intervention"
+  }
+ ],
+ "duree": "Évaluation ponctuelle à l'inclusion",
+ "critere": "Score de qualité de vie au PedsQL version 4 en arabe, à l'inclusion"
+}

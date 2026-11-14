@@ -1,0 +1,27 @@
+{
+ "h": "6c3e7d4a5e1d",
+ "date": "2026-11-14",
+ "titre": "Triamcinolone suprachoroïdienne dans l'œdème maculaire des uvéites non infectieuses résistantes au sub-Tenon",
+ "question": "Une injection suprachoroïdienne de triamcinolone améliore-t-elle la vision et réduit-elle l'épaisseur maculaire en cas d'œdème maculaire uvéitique résistant ?",
+ "contexte": "L'œdème maculaire est la principale cause de baisse visuelle au cours des uvéites non infectieuses. Les corticoïdes périoculaires, comme la triamcinolone en injection sous-ténonienne postérieure, sont un traitement habituel, mais une partie des patients ne répond pas. Les options suivantes sont les implants intravitréens ou les traitements systémiques, avec leurs effets indésirables propres.\n\nL'injection suprachoroïdienne délivre le corticoïde dans l'espace situé entre la choroïde et la sclère, avec une bonne diffusion vers la macula et une exposition limitée du segment antérieur. Cette étude de phase 1 menée à l'université de Bagdad est un essai monobras de 20 patients, avec une injection unique et un suivi à 1 et 3 mois. Elle n'a pas de groupe comparateur.",
+ "interet": "L'étude pourrait donner un premier signal d'efficacité de cette voie d'injection chez les patients résistants au sub-Tenon. Son design monobras et sa petite taille limitent la portée des conclusions.",
+ "profil": "Des adultes atteints d'uvéite non infectieuse avec œdème maculaire persistant malgré une injection sous-ténonienne de triamcinolone.",
+ "inclusion": [
+  "Uvéite non infectieuse compliquée d'un œdème maculaire",
+  "Œdème maculaire évoluant depuis moins de 4 mois",
+  "Œdème persistant malgré l'absence d'inflammation intraoculaire",
+  "Absence de réponse à la triamcinolone sub-Tenon postérieure"
+ ],
+ "exclusion": [
+  "Œdème maculaire lié à une membrane épirétinienne",
+  "Âge inférieur à 18 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Triamcinolone suprachoroïdienne",
+   "traitement": "Une injection suprachoroïdienne d'acétonide de triamcinolone (dose non précisée)"
+  }
+ ],
+ "duree": "3 mois, avec visites à 1 et 3 mois",
+ "critere": "Amélioration de l'acuité visuelle à 3 mois"
+}

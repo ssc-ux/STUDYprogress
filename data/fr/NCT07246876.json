@@ -1,0 +1,31 @@
+{
+ "h": "6dd36767ecf5",
+ "date": "2026-11-14",
+ "titre": "Cryobiopsie médiastinale sous EBUS ou biopsies conventionnelles dans la sarcoïdose de stade I/II",
+ "question": "La cryobiopsie médiastinale transbronchique guidée par EBUS détecte-t-elle les granulomes aussi bien ou mieux que la ponction EBUS-TBNA associée aux biopsies bronchiques et pulmonaires ?",
+ "contexte": "Le diagnostic de sarcoïdose repose sur la mise en évidence de granulomes épithélioïdes sans nécrose caséeuse. Dans les stades I et II (adénopathies médiastinales avec ou sans atteinte parenchymateuse), la ponction transbronchique à l'aiguille sous échoendoscopie (EBUS-TBNA), associée à la biopsie bronchique (EBB) et/ou pulmonaire transbronchique (TBLB), a un bon rendement diagnostique.\n\nLa cryobiopsie médiastinale transbronchique guidée par EBUS (EBUS-TBMC) prélève des fragments plus volumineux. Aucune comparaison directe n'existe entre ces deux stratégies. Cet essai randomisé en ouvert de l'hôpital sino-japonais de l'amitié (Pékin, 469 patients) compare EBB+TBLB+EBUS-TBMC à EBB+TBLB+EBUS-TBNA, et cherche à savoir si la cryobiopsie est équivalente ou supérieure.",
+ "interet": "Les résultats pourraient orienter le choix de la technique de prélèvement pour confirmer une sarcoïdose avec moins de procédures répétées. La sécurité de la cryobiopsie médiastinale devra être appréciée en parallèle.",
+ "profil": "Des adultes avec suspicion clinique et radiologique de sarcoïdose de stade I ou II.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Suspicion clinique et radiologique de sarcoïdose de stade I ou II",
+  "Information complète sur l'objectif et la méthode de l'étude"
+ ],
+ "exclusion": [
+  "Sarcoïdose déjà confirmée histologiquement",
+  "Atteinte d'organe évidente permettant de confirmer les granulomes par une procédure moins invasive",
+  "Contre-indication médicale à la bronchoscopie"
+ ],
+ "bras": [
+  {
+   "nom": "EBUS-TBMC",
+   "traitement": "Biopsie bronchique, biopsie pulmonaire transbronchique et cryobiopsie médiastinale guidée par EBUS"
+  },
+  {
+   "nom": "EBUS-TBNA",
+   "traitement": "Biopsie bronchique, biopsie pulmonaire transbronchique et ponction à l'aiguille guidée par EBUS"
+  }
+ ],
+ "duree": "Procédure unique, résultat anatomopathologique à 7 jours",
+ "critere": "Taux de détection des granulomes, 7 jours après le prélèvement"
+}

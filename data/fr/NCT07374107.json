@@ -1,0 +1,26 @@
+{
+ "h": "fb4c5e6d729c",
+ "date": "2026-11-14",
+ "titre": "MIHRA-PRISMS : priorités de recherche dans les myosites selon les patients",
+ "question": "Quelles sont les priorités de recherche les plus importantes pour les personnes vivant avec une myosite ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques (dermatomyosite, syndrome des antisynthétases, myopathie nécrosante auto-immune, polymyosite, myosite à inclusions, formes juvéniles) sont toutes des maladies rares. Les patients font face à des difficultés physiques et psychosociales qui ne sont pas toujours reconnues dans les priorités de recherche.\n\nPRISMS est une étude qualitative et à méthodes mixtes, initiée par les patients et promue par la fondation MIHRA avec de nombreuses associations (Myositis Australia, Myositis Association, CARRA, PReS, etc.). Elle recueille, principalement en ligne, des récits ouverts, des forums de discussion et des enquêtes avec classement par ordre d'importance chez environ 700 personnes (avec leurs aidants), recrutées pour représenter les sous-types de myosite. L'objectif est d'établir une liste de sujets de recherche exprimés par les patients et un cadre pour des processus de consensus ultérieurs.",
+ "interet": "Les résultats pourraient orienter les financements et les programmes de recherche vers les préoccupations des patients. Il n'y a aucune intervention ni mesure clinique.",
+ "profil": "Des personnes de 7 ans et plus avec une myopathie inflammatoire, ainsi que des aidants ou des parents.",
+ "inclusion": [
+  "Capacité à consentir",
+  "Diagnostic clinique d'une myopathie inflammatoire idiopathique, ou aidant/parent d'une personne atteinte",
+  "Inscription possible via le registre de contacts patients de MIHRA"
+ ],
+ "exclusion": [
+  "Âge inférieur à 7 ans",
+  "Absence de diagnostic de myopathie inflammatoire (hors aidants)"
+ ],
+ "bras": [
+  {
+   "nom": "Personnes vivant avec une myosite",
+   "traitement": "Aucune intervention ; récits, forums, enquêtes et classements par ordre d'importance"
+  }
+ ],
+ "duree": "Participation de 90 minutes maximum",
+ "critere": "Sujets de recherche prioritaires exprimés par les patients, recueillis lors d'un récit, d'un forum ou d'une enquête (jusqu'à 90 minutes)"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "eca88c33b0d3",
+ "date": "2026-11-14",
+ "titre": "Facteurs de sévérité de la dermatomyosite dans la population antillaise (DM-ANTILLES)",
+ "question": "Quels facteurs sont associés à la sévérité de la dermatomyosite au diagnostic chez les patients d'origine antillaise en Guadeloupe ?",
+ "contexte": "La dermatomyosite est une maladie auto-immune inflammatoire rare touchant la peau et les muscles striés. Son pronostic dépend de l'atteinte viscérale (poumon, cœur, atteinte oropharyngée) et de la présence éventuelle d'un cancer associé. Aux Antilles françaises, elle s'accompagne d'une morbi-mortalité élevée à court et moyen terme, sans données publiées sur la population.\n\nLe retard diagnostique et les parcours de soins peuvent l'expliquer, mais un phénotype particulièrement sévère chez les patients antillais est possible, comme observé dans d'autres maladies auto-immunes et inflammatoires de ces populations (sclérodermie, sarcoïdose). Cette étude du CHU de la Guadeloupe recense les cas incidents de dermatomyosite et caractérise la maladie dans cette population, dans le but d'identifier des facteurs de sévérité au diagnostic.",
+ "interet": "Identifier tôt les facteurs de sévérité pourrait permettre d'adapter la prise en charge et d'améliorer le pronostic dans cette population. Le nombre de patients prévus est très limité (10).",
+ "profil": "Des patients de 16 ans et plus résidant en Guadeloupe, d'origine antillaise, atteints de dermatomyosite.",
+ "inclusion": [
+  "Dermatomyosite selon les critères ENMC 2003",
+  "Parents ou grands-parents originaires de l'arc caribéen",
+  "Âge ≥ 16 ans",
+  "Résidence en Guadeloupe",
+  "Consentement signé",
+  "Affiliation à la sécurité sociale"
+ ],
+ "exclusion": [
+  "Immunoglobulines IV, corticoïdes ou immunosuppresseurs débutés dans le mois précédant le diagnostic",
+  "Patient sous protection juridique ou privé de liberté"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec dermatomyosite",
+   "traitement": "Suivi observationnel, sans intervention"
+  }
+ ],
+ "duree": "Évaluation au diagnostic ; étude jusqu'en 2029",
+ "critere": "Sévérité de la dermatomyosite au diagnostic (évaluée à l'inclusion)"
+}

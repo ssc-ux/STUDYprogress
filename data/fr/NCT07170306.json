@@ -1,0 +1,34 @@
+{
+ "h": "bade23ed6b11",
+ "date": "2026-11-14",
+ "titre": "Amylose cardiaque chez des patients avec sténose aortique avant TAVI",
+ "question": "Quelle est la prévalence de l'amylose cardiaque chez les patients avec sténose aortique et quel est l'impact du TAVI sur leur devenir ?",
+ "contexte": "La sténose aortique dégénérative et l'amylose cardiaque à transthyrétine (ATTR) touchent la même population âgée. La coexistence est estimée entre 4,9 % et 16 % des patients, notamment chez ceux traités par TAVI. L'infiltration amyloïde pourrait favoriser la calcification valvulaire. Les données pronostiques sur l'association sont limitées et parfois contradictoires.\n\nCette étude observationnelle prospective de l'hôpital Zhongshan de Shanghai inclut 143 patients de 65 à 85 ans avec sténose aortique modérée à sévère programmés pour un TAVI. Elle estime la prévalence de l'amylose cardiaque, compare les patients avec sténose isolée et ceux avec ATTR associée, et étudie l'évolution de la transthyrétine sérique après TAVI ainsi que les événements cliniques à 12 mois.",
+ "interet": "L'étude pourrait préciser l'intérêt d'un dépistage systématique de l'amylose avant TAVI et le pronostic des patients concernés. Elle ne porte que sur une population chinoise monocentrique.",
+ "profil": "Des adultes de 65 à 85 ans avec sténose aortique dégénérative modérée à sévère programmés pour un TAVI.",
+ "inclusion": [
+  "Âge de 65 à 85 ans",
+  "Sténose aortique dégénérative modérée à sévère, hospitalisation pour TAVI programmé",
+  "Consentement signé et capacité à suivre le protocole"
+ ],
+ "exclusion": [
+  "Sténose aortique congénitale ou rhumatismale",
+  "Insuffisance rénale sévère, dialyse chronique ou insuffisance rénale aiguë non résolue après TAVI",
+  "Maladie terminale, espérance de vie < 6 mois",
+  "Participation à une autre étude de médicament ou dispositif",
+  "Impossibilité d'assister au suivi",
+  "TAVI non réalisé, chirurgie ou décès hospitalier"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe ATTR-SA",
+   "traitement": "Sténose aortique avec amylose ATTR, TAVI"
+  },
+  {
+   "nom": "Groupe SA isolée",
+   "traitement": "Sténose aortique sans amylose, TAVI"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Critère composite décès et première hospitalisation pour insuffisance cardiaque à 12 mois ; mortalité toutes causes ; variation de la transthyrétine sérique (inclusion, 1, 3, 6, 12 mois)"
+}

@@ -1,0 +1,44 @@
+{
+ "h": "a60f2dac9a06",
+ "date": "2026-11-14",
+ "titre": "TCC1727 en association dans des tumeurs solides avancées (phase Ib/II)",
+ "question": "Quelle est la dose recommandée de TCC1727 en association avec le benmelstobart, l'olaparib ou le topotécan, et quelle est son efficacité dans des tumeurs solides avancées ?",
+ "contexte": "Les patients avec tumeurs solides avancées ayant progressé après les traitements standard, ou sans traitement standard disponible, ont peu d'options. Les inhibiteurs de PARP comme l'olaparib et les anti-PD-(L)1 sont utilisés dans certaines indications, mais leur efficacité est limitée par des résistances. Les cohortes de cet essai sont définies en partie par le statut de la réparation de l'ADN (mutation ATM, anomalies DDR).\n\nCette étude de phase Ib/II de Beijing Tide Pharmaceutical (266 patients) évalue TCC1727, un comprimé oral dont le mécanisme n'est pas précisé dans le registre, en trois associations : avec le benmelstobart (anti-PD-L1) en priorité, puis avec l'olaparib (cancer de l'ovaire récidivant) et avec le topotécan (cancer bronchique à petites cellules). La phase Ib détermine la dose recommandée (90, 120 ou 160 mg deux fois par jour avec benmelstobart 1 200 mg toutes les 3 semaines), la phase II teste l'efficacité en cohortes (CBNPC, endomètre, autres tumeurs, ovaire, CBPC).",
+ "interet": "L'étude est précoce et vise à fixer la dose et à repérer des signaux d'activité. Elle ne permet pas de conclure sur un bénéfice clinique.",
+ "profil": "Des adultes avec tumeurs solides avancées ou métastatiques ayant progressé après un traitement standard, ou sans traitement standard disponible.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "Tumeur solide avancée ou métastatique confirmée, progression après un traitement standard ou absence de traitement standard",
+  "Phase II : CBNPC en 2e/3e ligne après anti-PD-(L)1 et platine, cancer de l'endomètre après platine et immunothérapie, ovaire récidivant, CBPC en échec du platine plus immunothérapie",
+  "Au moins une lésion mesurable (RECIST 1.1)",
+  "ECOG 0 à 1, survie attendue ≥ 12 semaines",
+  "Tissu tumoral disponible pour les biomarqueurs",
+  "Fonction médullaire, hépatique et rénale adéquates"
+ ],
+ "exclusion": [
+  "Tumeur cérébrale primitive ou métastases cérébrales symptomatiques ou non contrôlées",
+  "Chirurgie majeure, radiothérapie, chimiothérapie ou autre traitement expérimental dans les 4 semaines",
+  "Inhibiteurs ou inducteurs puissants du CYP3A4 dans les 14 jours",
+  "Toxicité de grade ≥ 2 non résolue d'un traitement antérieur",
+  "Impossibilité d'avaler les comprimés ou trouble digestif d'absorption",
+  "HTA non contrôlée, maladie cardiovasculaire récente, arythmie ou QTcF allongé",
+  "Infection active (hépatite virale, syphilis, tuberculose), immunodéficience ou VIH",
+  "Diabète mal contrôlé, épanchements non contrôlés"
+ ],
+ "bras": [
+  {
+   "nom": "TCC1727 90 mg + benmelstobart",
+   "traitement": "TCC1727 90 mg deux fois par jour + benmelstobart 1 200 mg IV, cycles de 21 jours"
+  },
+  {
+   "nom": "TCC1727 120 mg + benmelstobart",
+   "traitement": "TCC1727 120 mg deux fois par jour + benmelstobart 1 200 mg IV, cycles de 21 jours"
+  },
+  {
+   "nom": "TCC1727 160 mg + benmelstobart",
+   "traitement": "TCC1727 160 mg deux fois par jour + benmelstobart 1 200 mg IV, cycles de 21 jours"
+  }
+ ],
+ "duree": "Traitement jusqu'à progression ; période de toxicité limitante de 21 jours pour le critère principal de phase Ib",
+ "critere": "Phase Ib : toxicités limitantes de dose par niveau de dose, dose maximale tolérée, dose recommandée de phase II et événements indésirables liés au traitement (CTCAE v5.0), sur 21 jours"
+}

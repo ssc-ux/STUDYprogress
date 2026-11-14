@@ -1,0 +1,34 @@
+{
+ "h": "0331db7d7f5b",
+ "date": "2026-11-14",
+ "titre": "GC012F, CAR-T anti-CD19/BCMA, dans l'amylose AL en rechute ou réfractaire (Chine)",
+ "question": "Le CAR-T bispécifique GC012F est-il sûr et efficace chez des patients chinois avec une amylose AL en rechute ou réfractaire ?",
+ "contexte": "L'amylose AL résulte d'un clone plasmocytaire sécrétant des chaînes légères qui s'accumulent dans les organes. Après échec des traitements anti-plasmocytaires (inhibiteurs du protéasome, daratumumab), les options sont limitées et il n'existe pas de traitement approuvé spécifique des rechutes.\n\nLe GC012F est une thérapie par lymphocytes T à récepteur chimérique d'antigène (CAR-T) ciblant à la fois CD19 et BCMA. Cet essai de phase 1b, ouvert, multicentrique, non randomisé et monobras de Gracell (12 patients) évalue la sécurité, la tolérance et l'efficacité préliminaire de plusieurs niveaux de dose, afin de choisir la dose recommandée pour la phase 2. L'absence de traitement de référence justifie l'absence de bras contrôle.",
+ "interet": "L'étude pourrait donner un premier signal d'efficacité des CAR-T dans l'amylose AL réfractaire. L'effectif est faible et la tolérance (relargage de cytokines, atteinte cardiaque) est l'enjeu principal.",
+ "profil": "Des adultes avec amylose AL en rechute ou réfractaire après au moins une ligne de traitement anti-plasmocytaire, en bon état général.",
+ "inclusion": [
+  "Amylose AL confirmée histologiquement",
+  "Atteinte d'au moins un organe, actuelle ou passée",
+  "Maladie hématologique mesurable (dFLC > 20 mg/L ou pic monoclonal > 5 g/L)",
+  "Rechute ou réfractaire après au moins une ligne anti-plasmocytaire",
+  "ECOG 0 à 1",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Autre forme d'amylose que l'AL",
+  "Stade de Mayo IIIb, NT-proBNP ≥ 2 000 ng/L (escalade) ou NYHA III-IV",
+  "Saturation en oxygène < 95 % en air ambiant ou PA systolique < 100 mmHg",
+  "Atteinte digestive étendue avec risque de saignement",
+  "CAR-T, thérapie anti-BCMA antérieure, ou thérapie engageant les lymphocytes T dans les 6 mois",
+  "Leucémie à plasmocytes ou myélome",
+  "VIH positif, hépatite B ou C active"
+ ],
+ "bras": [
+  {
+   "nom": "GC012F",
+   "traitement": "GC012F (CAR-T anti-CD19/BCMA), injection, plusieurs niveaux de dose évalués"
+  }
+ ],
+ "duree": "Environ 2 ans en moyenne",
+ "critere": "Incidence et sévérité des événements indésirables ; nombre de toxicités limitantes de dose pendant l'escalade, sur environ 2 ans"
+}

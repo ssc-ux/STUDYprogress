@@ -1,0 +1,27 @@
+{
+ "h": "94b9cf942f8f",
+ "date": "2026-11-14",
+ "titre": "Biobanque et registre belge de l'amylose (BE.Amycon) à Louvain",
+ "question": "Comment constituer une biobanque et un registre de données sur l'amylose pour mieux décrire la maladie, ses traitements et la survie ?",
+ "contexte": "L'amylose regroupe des maladies par dépôts de protéines mal repliées dans les organes : amylose à chaînes légères (AL), à transthyrétine (ATTR) et autres formes rares. Les présentations sont hétérogènes, le diagnostic est souvent tardif et les données de vie réelle sur l'évolution et les réponses aux traitements restent limitées.\n\nLe consortium BE.AMYCON, soutenu par l'Institut flamand de biotechnologie (VIB), réunit biologistes et cliniciens de plusieurs disciplines. Cette étude observationnelle de l'UZ Leuven (505 patients) met en place une biobanque conforme au RGPD (sang, urine, tissus), collectée prospectivement chez les patients avec amylose suspectée ou confirmée, et un registre de données cliniques (présentation, évolution, traitements, réponses, survie), avec un suivi jusqu'à 10 ans. Aucun traitement n'est testé.",
+ "interet": "Ce type de ressource permet des recherches futures sur le diagnostic, le pronostic et la réponse thérapeutique dans l'amylose. L'étude elle-même ne change pas la prise en charge.",
+ "profil": "Des adultes avec amylose suspectée ou confirmée, de tout type, suivis à Louvain.",
+ "inclusion": [
+  "Consentement éclairé signé",
+  "Âge ≥ 18 ans",
+  "Amylose suspectée ou confirmée, tout sous-type",
+  "Prélèvements prospectifs : amylose nouvellement diagnostiquée ou, pour l'AL, en rechute"
+ ],
+ "exclusion": [
+  "Refus de signer le consentement",
+  "Incapacité à signer le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec amylose",
+   "traitement": "Aucune intervention ; collecte d'échantillons biologiques et de données cliniques"
+  }
+ ],
+ "duree": "Jusqu'à 10 ans de suivi (échantillons collectés jusqu'à 2 ans)",
+ "critere": "Constitution du registre (données démographiques, caractéristiques de la maladie au diagnostic, traitements jusqu'à 10 ans) et de la biobanque (sang, urine, tissus, jusqu'à 2 ans)"
+}

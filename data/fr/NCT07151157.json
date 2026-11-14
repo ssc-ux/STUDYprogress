@@ -1,0 +1,32 @@
+{
+ "h": "3a89d5779e18",
+ "date": "2026-11-14",
+ "titre": "Sirolimus dans la maladie de Still de l'adulte réfractaire",
+ "question": "Le sirolimus, ajouté au traitement en cours, réduit-il l'activité de la maladie de Still de l'adulte réfractaire ?",
+ "contexte": "La maladie de Still de l'adulte (MSA) est une maladie auto-inflammatoire associant fièvre, éruption, arthrites et hyperferritinémie. Les corticoïdes, le méthotrexate et les inhibiteurs de l'IL-1 ou de l'IL-6 sont les traitements habituels, mais certains patients restent corticodépendants ou en rechute.\n\nLe sirolimus est un inhibiteur de mTOR. L'hypothèse de cette étude exploratoire de l'hôpital Ruijin (Shanghai) est qu'il restaurerait l'expression de ZFP36L2, une protéine favorisant la dégradation des ARNm de cytokines inflammatoires. Trois patients réfractaires reçoivent le sirolimus en complément du traitement existant ; l'expression de ZFP36L2 dans les polynucléaires neutrophiles et les marqueurs inflammatoires (CRP, VS, ferritine, sIL-2R, cytokines) sont mesurés aux semaines 4, 8 et 12.",
+ "interet": "Il s'agit d'une étude mécanistique à très petit effectif, qui ne peut établir l'efficacité du sirolimus. Elle pourrait justifier une étude plus large.",
+ "profil": "Des adultes avec une maladie de Still réfractaire aux corticoïdes (au nombre de 3 patients prévus).",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Critères de Yamaguchi remplis, infection et cancer écartés",
+  "Maladie réfractaire : pas d'amélioration sous corticoïdes 1 mg/kg ou rechute en dessous de 15 mg/j",
+  "Données cliniques complètes",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatismale",
+  "Greffe de cellules souches hématopoïétiques passée ou prévue",
+  "Comorbidité sévère (insuffisance cardiaque ou respiratoire, aplasie, insuffisance hépatique ou rénale)",
+  "Perforation digestive ou occlusion complète",
+  "Grossesse, projet de grossesse ou allaitement",
+  "Mauvaise observance"
+ ],
+ "bras": [
+  {
+   "nom": "Sirolimus en association",
+   "traitement": "Sirolimus oral, 2 capsules par jour (matin et soir), en plus du traitement en cours"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Score d'activité de la maladie de Still de l'adulte à la semaine 12"
+}

@@ -1,0 +1,40 @@
+{
+ "h": "d358d53f3b30",
+ "date": "2026-11-14",
+ "titre": "Rituximab avec ou sans anticorps anti-CD38 dans le PTI primaire en échec des corticoïdes",
+ "question": "Ajouter un anti-CD38 (daratumumab) au rituximab augmente-t-il le taux de réponse dans le PTI primaire de l'adulte ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une thrombopénie auto-immune par destruction accrue et production insuffisante de plaquettes. Les corticoïdes et les immunoglobulines sont le traitement de première ligne ; en deuxième ligne se trouvent les agonistes du récepteur de la TPO, la splénectomie et des immunosuppresseurs comme le rituximab. Beaucoup de patients rechutent et nécessitent un traitement d'entretien.\n\nDes plasmocytes à longue durée de vie producteurs d'anticorps antiplaquettes, non ciblés par le rituximab (anti-CD20), pourraient expliquer des échecs. Le daratumumab, anticorps anti-CD38 utilisé dans le myélome, cible ces plasmocytes. Cet essai de phase 2 randomisé en ouvert mené à Tianjin (160 patients) compare rituximab 375 mg/m² seul à rituximab associé à quatre perfusions de daratumumab 16 mg/kg.",
+ "interet": "Si l'association améliore la réponse sans toxicité excessive, elle pourrait offrir une option pour les PTI en échec des corticoïdes. Le design ouvert et la phase 2 limitent les conclusions.",
+ "profil": "Des adultes avec un PTI primaire évoluant depuis au moins 3 mois, en échec ou en rechute après corticoïdes, avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire diagnostiqué depuis au moins 3 mois",
+  "Plaquettes < 30 G/L sur deux mesures espacées d'au moins 1 semaine",
+  "Échec des corticoïdes (inefficacité, perte de réponse ou rechute)",
+  "ECOG ≤ 2 et NYHA ≤ 2",
+  "Fonction hépatique et rénale < 1,5 fois la normale",
+  "Traitements d'entretien stables depuis 4 semaines autorisés ; rituximab arrêté depuis plus de 6 mois"
+ ],
+ "exclusion": [
+  "Maladie d'organe non contrôlée (cancer, insuffisance hépatique, cardiaque ou rénale)",
+  "VIH positif, infection active (hépatite B ou C, CMV, EBV, syphilis)",
+  "Saignement sévère étendu",
+  "Maladie cardiaque ou arythmie nécessitant un traitement, ou HTA mal contrôlée",
+  "Maladie thrombotique (embolie pulmonaire, thrombose)",
+  "Greffe allogénique ou d'organe antérieure",
+  "Antiagrégants plaquettaires en cours",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab + daratumumab",
+   "traitement": "Rituximab 375 mg/m² à J1 ; daratumumab 16 mg/kg à J8, J15, J22 et J29"
+  },
+  {
+   "nom": "Rituximab seul",
+   "traitement": "Rituximab 375 mg/m² à J1"
+  }
+ ],
+ "duree": "Au moins 12 semaines pour le critère principal",
+ "critere": "Taux de réponse globale à 12 semaines"
+}

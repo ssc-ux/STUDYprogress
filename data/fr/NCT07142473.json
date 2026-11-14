@@ -1,0 +1,25 @@
+{
+ "h": "9d934e17aa34",
+ "date": "2026-11-14",
+ "titre": "Registre monocentrique des mastocytoses cutanées et systémiques, de l'enfant à l'adulte",
+ "question": "Quelles sont les caractéristiques cliniques, biologiques et moléculaires des patients atteints de mastocytose, et quels facteurs pronostiques en découlent ?",
+ "contexte": "La mastocytose est une maladie rare caractérisée par l'accumulation de mastocytes clonaux dans la peau (forme cutanée) ou dans d'autres organes, notamment la moelle osseuse (forme systémique). Elle est reconnue comme maladie rare en Italie depuis 2018. Son évolution est variable : de formes indolentes à des formes agressives, et les facteurs prédictifs de progression restent mal connus.\n\nCe registre hospitalier unicentrique, promu par la fondation IRCCS Policlinico San Matteo de Pavie, recueille de façon rétrospective et prospective les données de patients suivis en dermatologie pour une mastocytose cutanée ou systémique. Il documente les données cliniques, sérologiques, hématologiques, immunohistochimiques et moléculaires, et les relie à des issues comme le variant de la maladie, l'étendue de l'atteinte cutanée et la survie. L'étude n'évalue aucune intervention.",
+ "interet": "Le registre pourrait aider à mieux décrire l'histoire naturelle de la mastocytose et à identifier des variables pronostiques. Ces éléments pourraient servir à personnaliser la prise en charge.",
+ "profil": "Des enfants (dès 6 ans) et des adultes atteints de mastocytose cutanée ou systémique, suivis dans un centre italien.",
+ "inclusion": [
+  "Diagnostic de mastocytose cutanée ou systémique",
+  "Suivi en consultation de dermatologie du Policlinico San Matteo (Pavie)",
+  "Âge d'au moins 6 ans"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de mastocytose",
+   "traitement": "Aucune intervention ; suivi observationnel des patients avec mastocytose cutanée ou systémique"
+  }
+ ],
+ "duree": "Suivi longitudinal prolongé (fin de l'étude prévue en 2034)",
+ "critere": "Prévalence de la forme systémique de la maladie dans la population étudiée (évaluée jusqu'en janvier 2034)"
+}

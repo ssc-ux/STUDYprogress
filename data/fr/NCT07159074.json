@@ -1,0 +1,38 @@
+{
+ "h": "6b6bbf96d128",
+ "date": "2026-11-14",
+ "titre": "Détournement du tilmanocept marqué au Tc-99m pour l'imagerie de la sarcoïdose cardiaque",
+ "question": "La scintigraphie SPECT/TDM au tilmanocept marqué au 99mTc permet-elle de repérer l'inflammation de la sarcoïdose cardiaque, en concordance avec la TEP au FDG ?",
+ "contexte": "La sarcoïdose cardiaque est une atteinte granulomateuse du myocarde, source de troubles du rythme, de blocs auriculo-ventriculaires et d'insuffisance cardiaque. Son diagnostic repose sur l'IRM cardiaque et la TEP au FDG, dont la préparation (régime pauvre en glucides) est contraignante et dont la spécificité est imparfaite.\n\nLe tilmanocept est un traceur radiomarqué qui se fixe sur le récepteur CD206 des macrophages, déjà utilisé pour la détection du ganglion sentinelle. Les granulomes sarcoïdosiques sont riches en macrophages. Cet essai de phase 2 de Duke (15 patients) compare la fixation du tilmanocept (voie intraveineuse ou sous-cutanée) à celle du FDG sur un modèle cardiaque à 17 segments, chez des patients avec sarcoïdose cardiaque active et chez des patients avec cardiomyopathie rythmique sans sarcoïdose.",
+ "interet": "Si la concordance avec la TEP au FDG est bonne, cette imagerie pourrait être une alternative plus simple à la TEP. L'étude est exploratoire et de petite taille.",
+ "profil": "Des adultes avec sarcoïdose cardiaque active, ou avec cardiomyopathie rythmique non ischémique sans sarcoïdose (groupe contrôle).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Cohorte 1 : sarcoïdose histologique répondant aux critères HRS 2014, WASOG 2014 ou JCS 2016 de sarcoïdose cardiaque",
+  "Cohorte 1 : TEP-TDM cardiaque avec activité dans les 14 jours et IRM cardiaque avec rehaussement évocateur",
+  "Cohorte 2 : sarcoïdose cardiaque exclue cliniquement",
+  "Cohorte 2 : cardiomyopathie non ischémique avec arythmies récidivantes ou bloc AV de haut grade",
+  "Test de grossesse urinaire négatif"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Taille ou poids incompatibles avec l'imagerie",
+  "DFG < 30 mL/min",
+  "ALAT ou ASAT > 3 fois la normale",
+  "Allergie ou réaction au dextran",
+  "Produit expérimental dans les 30 jours ou radiopharmaceutique dans les 7 jours",
+  "Pathologie sévère jugée à risque par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "SPECT/TDM au Tc-99m tilmanocept, voie intraveineuse",
+   "traitement": "Tilmanocept Tc-99m par voie intraveineuse puis SPECT/TDM"
+  },
+  {
+   "nom": "SPECT/TDM au Tc-99m tilmanocept, voie sous-cutanée",
+   "traitement": "Tilmanocept Tc-99m par voie sous-cutanée puis SPECT/TDM"
+  }
+ ],
+ "duree": "Examen ponctuel (jour 0)",
+ "critere": "Corrélation entre les segments cardiaques fixant le tilmanocept et ceux fixant le FDG en TEP-TDM (modèle à 17 segments), à l'inclusion"
+}

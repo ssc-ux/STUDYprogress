@@ -1,0 +1,34 @@
+{
+ "h": "76aa082972f4",
+ "date": "2026-11-14",
+ "titre": "Parsaclisib dans l'anémie hémolytique auto-immune réfractaire ou en rechute",
+ "question": "Le parsaclisib, inhibiteur de PI3Kδ, permet-il d'obtenir une réponse chez des patients avec une AHAI en rechute ou réfractaire ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est due à des autoanticorps dirigés contre les hématies, soit à chaud (wAIHA), soit à froid (maladie des agglutinines froides, cAIHA), éventuellement associés à une thrombopénie auto-immune dans le syndrome d'Evans. Les corticoïdes et le rituximab sont les traitements de première et seconde ligne. Les patients en rechute ou réfractaires après au moins deux lignes ont peu d'options validées.\n\nLe parsaclisib est un inhibiteur oral de PI3Kδ, voie impliquée dans l'activation des lymphocytes B et T. Cette étude de phase 2 monobras, menée au Peking Union Medical College Hospital (22 patients), évalue sa réponse après 12 semaines. Le schéma est adapté à la forme : 40 mg/j avec escalade possible jusqu'à 80 mg/j dans l'AHAI à chaud ou le syndrome d'Evans, et 80 mg/j d'emblée dans l'AHAI à froid.",
+ "interet": "Si le taux de réponse est élevé, cette voie orale pourrait devenir une option après échec des corticoïdes et du rituximab. Il s'agit d'une étude monobras de petite taille, sans comparateur.",
+ "profil": "Des adultes de 18 à 75 ans avec AHAI à chaud, à froid ou syndrome d'Evans, en rechute ou réfractaires après au moins deux lignes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AHAI à chaud, syndrome d'Evans ou AHAI à froid, primitive ou secondaire",
+  "Rechute ou échec après au moins deux lignes (corticoïdes, anti-CD20 ou deux immunosuppresseurs)",
+  "Hémoglobine ≤ 100 g/L",
+  "Corticoïdes arrêtés ou à dose minimale (≤ 15 mg/j) stable",
+  "Dernière perfusion d'anti-CD20 il y a plus de 3 mois"
+ ],
+ "exclusion": [
+  "Insuffisance cardiaque, hépatique ou pulmonaire, insuffisance rénale aiguë",
+  "Connectivite avec atteinte d'autres organes majeurs",
+  "Infection (VIH, VHC, VHB) ou saignement non contrôlé",
+  "Tumeur maligne ou lymphome avancé non contrôlé",
+  "Autre anémie non corrigée",
+  "Grossesse ou allaitement",
+  "Inhibiteur de PI3Kδ dans les 6 mois précédents"
+ ],
+ "bras": [
+  {
+   "nom": "Parsaclisib",
+   "traitement": "Parsaclisib oral 1 fois/jour : 40 mg (puis 60 puis 80 mg si pas de réponse partielle) en AHAI à chaud/Evans ; 80 mg en AHAI à froid"
+  }
+ ],
+ "duree": "12 semaines de période d'étude",
+ "critere": "Taux de réponse globale à 12 semaines ; taux de réponse complète à 12 semaines (critères co-primaires)"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "7a82d1583447",
+ "date": "2026-11-14",
+ "titre": "Acoramidis en pratique réelle dans l'amylose cardiaque à transthyrétine en Europe",
+ "question": "Quelles sont les caractéristiques des patients traités par acoramidis dans l'amylose cardiaque à transthyrétine et comment ce traitement est-il utilisé en pratique courante ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est causée par le dépôt de fibrilles de transthyrétine mal repliée dans le myocarde, avec cardiomyopathie restrictive et insuffisance cardiaque progressive. Elle existe sous forme héréditaire (variante) ou sauvage, liée à l'âge. Le diagnostic est souvent tardif, mais l'imagerie moderne permet de le poser plus précocement.\n\nL'acoramidis est un stabilisateur de la transthyrétine, dont l'efficacité et la tolérance ont été montrées dans l'essai ATTRibute-CM, ce qui a conduit à son autorisation aux États-Unis et en Europe. Les données de vie réelle restent limitées. ACO-REAL est une étude observationnelle promue par Bayer, prévue dans environ 20 pays européens, qui inclut jusqu'à 2 000 adultes débutant l'acoramidis dans le cadre de leurs soins habituels, qu'ils soient naïfs ou déjà traités par une autre thérapie. Elle décrit les patients et les modalités d'utilisation du traitement.",
+ "interet": "L'étude fournira des données de vie réelle sur les profils de patients traités, les schémas d'initiation, les associations médicamenteuses et les arrêts. Elle ne compare pas l'acoramidis à un autre traitement.",
+ "profil": "Des adultes avec ATTR-CM sauvage ou variante, qui débutent l'acoramidis en pratique courante.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ATTR-CM sauvage ou variante",
+  "Consentement signé",
+  "Décision d'initier l'acoramidis prise avant le consentement par le médecin",
+  "Début de l'acoramidis dans les 90 jours suivant le consentement"
+ ],
+ "exclusion": [
+  "Participation à un essai avec interventions hors pratique courante (sous-études autorisées)",
+  "Contre-indication selon le RCP local de l'acoramidis",
+  "Patient incapable de consentir, y compris par représentant légal"
+ ],
+ "bras": [
+  {
+   "nom": "Acoramidis",
+   "traitement": "Acoramidis comprimés de 356 mg, selon la pratique clinique habituelle"
+  }
+ ],
+ "duree": "Jusqu'à environ 15 mois",
+ "critere": "Caractéristiques démographiques et cliniques des patients à l'inclusion et modalités d'utilisation de l'acoramidis (initiation, traitements associés, arrêt), jusqu'à 15 mois"
+}

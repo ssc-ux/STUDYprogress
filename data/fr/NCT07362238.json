@@ -1,0 +1,39 @@
+{
+ "h": "1b55f35af8f2",
+ "date": "2026-11-14",
+ "titre": "Daratumumab versus rituximab dans le PTI primaire de l'enfant",
+ "question": "Le daratumumab (anti-CD38) est-il plus efficace que le rituximab chez des enfants avec un PTI primaire en échec des corticoïdes ?",
+ "contexte": "Le PTI de l'enfant est une thrombopénie auto-immune par destruction accrue et production insuffisante de plaquettes. La première ligne repose sur les corticoïdes et les immunoglobulines ; en seconde ligne, on utilise les agonistes du récepteur de la TPO, le rituximab, la splénectomie et d'autres immunosuppresseurs. Les formes récidivantes ou réfractaires restent un défi.\n\nDes plasmocytes à longue durée de vie, sécréteurs d'anticorps antiplaquettes et non ciblés par le rituximab, pourraient expliquer des échecs. Le daratumumab, anti-CD38, les élimine. Cet essai de phase 2 randomisé en ouvert de l'Institut d'hématologie de Tianjin (122 enfants de 6 à 17 ans) compare le daratumumab 16 mg/kg hebdomadaire 8 fois au rituximab 375 mg/m² en dose unique. Le centre rapporte une bonne efficacité et tolérance chez des enfants déjà traités ainsi.",
+ "interet": "Si le daratumumab est plus efficace, il pourrait élargir les options chez l'enfant en échec des corticoïdes. Le design ouvert et la phase 2 imposent de la prudence, et la tolérance chez l'enfant sera à surveiller.",
+ "profil": "Des enfants de 6 à 17 ans avec un PTI primaire d'au moins 3 mois, en échec des corticoïdes, avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge de 6 à moins de 18 ans",
+  "PTI primaire depuis au moins 3 mois",
+  "Échec des corticoïdes après réponse antérieure (≥ 50 G/L) au traitement de première ligne",
+  "Plaquettes < 30 G/L à deux mesures espacées d'au moins 1 semaine",
+  "ECOG ≤ 2",
+  "Un seul traitement associé stable depuis 4 semaines autorisé",
+  "Consentement de l'enfant et du représentant légal"
+ ],
+ "exclusion": [
+  "Anti-CD20 ou anti-CD38 antérieur",
+  "Anémie hémolytique auto-immune ou thrombopénie secondaire",
+  "Événement thrombotique ou hémorragie sévère dans les 12 mois",
+  "Traitement d'urgence du PTI dans les 2 semaines",
+  "Immunosuppresseurs récents, splénectomie dans les 6 mois",
+  "Vaccin vivant dans les 4 semaines",
+  "Syndrome myélodysplasique"
+ ],
+ "bras": [
+  {
+   "nom": "Daratumumab",
+   "traitement": "Daratumumab 16 mg/kg une fois par semaine, 8 perfusions"
+  },
+  {
+   "nom": "Rituximab",
+   "traitement": "Rituximab 375 mg/m² en une dose"
+  }
+ ],
+ "duree": "12 semaines pour le critère principal",
+ "critere": "Taux de réponse globale à la semaine 12"
+}

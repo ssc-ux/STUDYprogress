@@ -1,0 +1,30 @@
+{
+ "h": "0c4cfcae3dd1",
+ "date": "2026-11-14",
+ "titre": "CANAREAL : cannabinoïdes médicinaux en vie réelle au Brésil",
+ "question": "Comment évoluent la qualité de vie, les symptômes et la tolérance des patients brésiliens traités par produits à base de cannabis médicinal ?",
+ "contexte": "Au Brésil, l'accès au cannabis médicinal se fait surtout par usage compassionnel (réglementations ANVISA RDC 327/2019 et RDC 660/2022), souvent après échec des traitements conventionnels. Les données à grande échelle sur l'efficacité et la sécurité en conditions réelles sont rares, notamment pour la douleur chronique, l'anxiété et la dépression.\n\nCANAREAL est une étude observationnelle prospective de l'université fédérale de Santa Catarina, avec HempMeds Brasil en collaborateur (384 patients). Les patients déjà prescrits par leur médecin remplissent des questionnaires en ligne à l'inclusion, à 90 jours et à 180 jours : qualité de vie (WHOQOL-Bref, EQ-5D), douleur (EVA), dépression (Beck), anxiété (Beck) et effets indésirables (échelle UKU). L'étude compare les profils de produits (riches en CBD, en THC ou équilibrés).",
+ "interet": "Les résultats décriront en vie réelle l'effet perçu et la tolérance des cannabinoïdes médicinaux au Brésil. Étant observationnelle et sans groupe contrôle, elle ne démontre pas d'efficacité causale.",
+ "profil": "Des adultes brésiliens avec une prescription de produits à base de cannabis, débutant ou poursuivant ce traitement.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Résidence au Brésil",
+  "Prescription médicale valide de produits à base de cannabis",
+  "Traitement débuté ou en cours selon les réglementations ANVISA RDC 660/22 ou RDC 327/19",
+  "Capacité à signer le consentement",
+  "Accès à un smartphone ou à un ordinateur avec internet"
+ ],
+ "exclusion": [
+  "Refus du consentement",
+  "Questionnaires initiaux non remplis",
+  "Incapacité à communiquer"
+ ],
+ "bras": [
+  {
+   "nom": "Utilisateurs de cannabinoïdes médicinaux",
+   "traitement": "Produits à base de cannabis (huiles ou extraits de CBD ou THC) prescrits par leur médecin ; suivi par questionnaires"
+  }
+ ],
+ "duree": "180 jours (6 mois)",
+ "critere": "Variation des scores de qualité de vie à l'inclusion puis à 45, 75, 105, 135 et 180 jours"
+}

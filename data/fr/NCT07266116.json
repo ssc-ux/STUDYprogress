@@ -1,0 +1,36 @@
+{
+ "h": "3baba7b71454",
+ "date": "2026-11-14",
+ "titre": "TQB2934 sous-cutané dans l'amylose AL en rechute ou réfractaire",
+ "question": "Le TQB2934 injectable est-il sûr et permet-il d'obtenir une réponse hématologique complète dans l'amylose AL déjà traitée ?",
+ "contexte": "Dans l'amylose AL, des chaînes légères produites par un clone plasmocytaire se déposent dans les organes. Les patients en rechute après daratumumab et bortézomib ont peu d'options et la réponse hématologique complète reste un objectif difficile à atteindre.\n\nLe TQB2934 est un médicament injectable développé par Chia Tai Tianqing, administré par voie sous-cutanée (40 mg et 60 mg), une fois par semaine pendant 3 cycles, puis toutes les 2 semaines, puis toutes les 8 semaines en l'absence de rémission complète ou si la MRD est positive (maximum 2 ans). Cet essai de phase 1/2 monobras (70 patients) comprend une phase Ib de recherche de dose (13 à 21 patients), puis une phase 2 de 49 patients visant à montrer un taux de réponse complète supérieur à celui de témoins historiques.",
+ "interet": "L'étude pourrait donner un premier niveau de preuve d'efficacité de ce médicament en rechute. La comparaison à des témoins historiques en limite la portée.",
+ "profil": "Des adultes de 18 à 80 ans avec une amylose AL en rechute ou progression après au moins une ligne systémique.",
+ "inclusion": [
+  "Âge de 18 à 80 ans, ECOG 0 à 2, survie attendue > 12 semaines",
+  "Amylose AL documentée avec maladie mesurable",
+  "Au moins un organe atteint",
+  "Au moins une ligne de traitement systémique antérieure avec rechute ou progression",
+  "NT-proBNP ≤ 8 500 ng/L",
+  "Fonctions d'organes conformes au protocole",
+  "Contraception efficace jusqu'à 6 mois après l'étude"
+ ],
+ "exclusion": [
+  "Autre amylose, leucémie à plasmocytes active ou myélome actif",
+  "Greffe allogénique < 1 an ou autogreffe < 12 semaines",
+  "Traitement antérieur ciblant la même cible",
+  "Corticoïdes > 160 mg de dexaméthasone en 4 semaines, ou traitements anticancéreux récents",
+  "Autre cancer dans les 3 ans",
+  "Événement thromboembolique dans les 6 mois",
+  "Allergie aux anticorps monoclonaux ou aux excipients",
+  "Infection sévère non contrôlée, diabète ou tension mal contrôlés"
+ ],
+ "bras": [
+  {
+   "nom": "TQB2934",
+   "traitement": "TQB2934 sous-cutané 40 ou 60 mg : hebdomadaire cycles 1 à 3, toutes les 2 semaines cycles 4 à 6, puis toutes les 8 semaines ; 2 ans maximum"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans de traitement ; suivi d'environ 4 ans",
+ "critere": "Nombre de patients avec événements indésirables et anomalies biologiques (jusqu'à environ 4 ans) ; meilleure réponse hématologique complète évaluée par comité indépendant (environ 1,5 an)"
+}

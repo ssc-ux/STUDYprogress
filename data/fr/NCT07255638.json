@@ -1,0 +1,26 @@
+{
+ "h": "620ccd77eb49",
+ "date": "2026-11-14",
+ "titre": "Avapritinib en pratique réelle dans la mastocytose systémique indolente en Allemagne",
+ "question": "Comment l'avapritinib agit-il sur la qualité de vie des patients avec mastocytose systémique indolente en pratique courante allemande ?",
+ "contexte": "La mastocytose systémique indolente (MSI) est une maladie clonale des mastocytes, souvent porteuse de la mutation KIT D816V, qui provoque des symptômes (flushs, douleurs abdominales, fatigue, atteinte osseuse) altérant la qualité de vie. Le traitement symptomatique (anti-H1, anti-H2, cromoglycate) est insuffisant chez certains patients.\n\nL'avapritinib est un inhibiteur de KIT autorisé dans la MSI avec symptômes modérés à sévères insuffisamment contrôlés. Cette étude non interventionnelle de Blueprint Medicines suit en Allemagne 80 patients débutant l'avapritinib dans leurs soins courants, jusqu'à 24 mois. Elle évalue l'efficacité en vie réelle et comble des lacunes sur l'histoire naturelle de la MSI.",
+ "interet": "Les résultats fourniront des données de vie réelle sur l'effet de l'avapritinib sur la qualité de vie dans la MSI. L'étude ne compare pas l'avapritinib à un autre traitement.",
+ "profil": "Des adultes avec une mastocytose systémique indolente symptomatique, débutant l'avapritinib dans les soins courants en Allemagne.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "MSI avec symptômes modérés à sévères insuffisamment contrôlés par un traitement symptomatique",
+  "Début de l'avapritinib décidé par le médecin dans les soins courants, selon le RCP"
+ ],
+ "exclusion": [
+  "Risque accru d'hémorragie intracrânienne (anévrisme vasculaire, hémorragie intracrânienne, AVC dans l'année, thrombopénie sévère)",
+  "Avapritinib déjà reçu, en commercialisation ou en essai"
+ ],
+ "bras": [
+  {
+   "nom": "Avapritinib",
+   "traitement": "Avapritinib selon le RCP et la décision du médecin dans les soins courants"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois",
+ "critere": "Variation du score du questionnaire de qualité de vie en mastocytose (MC-QoL) entre l'inclusion et le mois 6"
+}

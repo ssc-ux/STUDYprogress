@@ -1,0 +1,27 @@
+{
+ "h": "a9e4fde92600",
+ "date": "2026-11-14",
+ "titre": "IRM de perfusion myocardique pour caractériser les phénotypes de cardiomyopathie hypertrophique",
+ "question": "La perfusion myocardique en IRM cardiaque présente-t-elle des signatures distinctes entre cardiomyopathies hypertrophiques sarcomériques, maladie de Fabry et amylose cardiaque ?",
+ "contexte": "Les phénotypes hypertrophiques du ventricule gauche regroupent la cardiomyopathie hypertrophique sarcomérique et des phénocopies comme la maladie de Fabry et l'amylose cardiaque. Leur diagnostic différentiel est parfois délicat, alors que les traitements spécifiques diffèrent. Une ischémie microvasculaire est suspectée de contribuer à la fibrose, aux arythmies et au pronostic.\n\nCette étude observationnelle de l'IRCCS de Bologne (250 sujets) analyse la perfusion myocardique par IRM de perfusion quantitative et qualitative chez des patients avec cardiomyopathie hypertrophique sarcomérique ou non sarcomérique, maladie de Fabry ou amylose cardiaque, ainsi que des apparentés au premier degré et des porteurs de mutation. Le suivi est de 36 mois. L'objectif est de décrire des signatures de perfusion utiles au diagnostic différentiel et à la stratification du risque.",
+ "interet": "Une signature de perfusion pourrait aider à distinguer les causes d'hypertrophie et à repérer les patients à risque. L'étude est observationnelle et monocentrique.",
+ "profil": "Des adultes avec un phénotype de cardiomyopathie hypertrophique, des apparentés au premier degré et des porteurs de mutation, ayant une indication d'IRM cardiaque.",
+ "inclusion": [
+  "Cardiomyopathie à phénotype hypertrophique selon les recommandations ESC, ou apparenté au premier degré, ou porteur de mutation",
+  "Indication d'IRM cardiaque selon les recommandations ESC",
+  "Âge ≥ 18 ans",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Antécédent d'infarctus ou de revascularisation coronaire",
+  "Sténose coronaire ≥ 50 % au coroscanner ou à la coronarographie"
+ ],
+ "bras": [
+  {
+   "nom": "Phénotypes hypertrophiques, apparentés et porteurs",
+   "traitement": "IRM cardiaque avec perfusion myocardique, sans intervention thérapeutique"
+  }
+ ],
+ "duree": "36 mois",
+ "critere": "Défauts de perfusion quantitatifs et qualitatifs en IRM, à l'inclusion et à 36 mois"
+}

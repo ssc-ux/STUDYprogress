@@ -1,0 +1,45 @@
+{
+ "h": "f560feca0bb2",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM au 68Ga-FAPI dans la vascularite associée aux ANCA avec atteinte pulmonaire et rénale",
+ "question": "La TEP/TDM au 68Ga-FAPI permet-elle d'évaluer l'activité et la sévérité d'une atteinte pulmonaire interstitielle et rénale dans les vascularites à ANCA ?",
+ "contexte": "L'atteinte pulmonaire (pneumopathie interstitielle) et l'atteinte rénale sont les manifestations les plus fréquentes et les plus péjoratives des vascularites associées aux ANCA. Les repérer tôt aide à évaluer la sévérité, à stratifier le pronostic et à adapter le traitement. Les examens conventionnels n'explorent qu'un territoire à la fois.\n\nLe 68Ga-FAPI est un traceur TEP qui cible la protéine d'activation des fibroblastes (FAP), reflet de l'activation fibroblastique. Utilisé en oncologie et dans certaines maladies non tumorales, son intérêt dans les vascularites à ANCA est inconnu. Cette étude observationnelle de l'hôpital Ruijin compare, chez 30 patients, des groupes avec ou sans pneumopathie interstitielle et avec ou sans atteinte rénale.",
+ "interet": "L'étude pourrait montrer si l'imagerie FAPI apporte une évaluation corps entier de l'activité fibroinflammatoire, complémentaire des examens actuels. Elle est exploratoire.",
+ "profil": "Des adultes atteints de vascularite associée aux ANCA, avec ou sans pneumopathie interstitielle ou atteinte rénale.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Critères de classification ACR/EULAR 2022 de vascularite à ANCA",
+  "Pneumopathie interstitielle sur TDM thoracique haute résolution de moins d'un an (pour ce groupe)",
+  "Données cliniques complètes",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatismale",
+  "Autre cause de pneumopathie interstitielle ou d'atteinte rénale (lupus, dermatomyosite, polyarthrite rhumatoïde)",
+  "Greffe de cellules souches passée ou prévue",
+  "Comorbidité sévère (cardiopulmonaire, hématologique, hépatique, rénale)",
+  "Urgence abdominale (perforation, occlusion)",
+  "Grossesse possible ou allaitement",
+  "Mauvaise observance"
+ ],
+ "bras": [
+  {
+   "nom": "Vascularite à ANCA avec pneumopathie interstitielle",
+   "traitement": "TEP/TDM au 68Ga-FAPI"
+  },
+  {
+   "nom": "Vascularite à ANCA sans pneumopathie interstitielle",
+   "traitement": "TEP/TDM au 68Ga-FAPI"
+  },
+  {
+   "nom": "Vascularite à ANCA avec atteinte rénale",
+   "traitement": "TEP/TDM au 68Ga-FAPI"
+  },
+  {
+   "nom": "Vascularite à ANCA sans atteinte rénale",
+   "traitement": "TEP/TDM au 68Ga-FAPI"
+  }
+ ],
+ "duree": "Examen ponctuel, dans les 4 semaines après l'inclusion",
+ "critere": "Sévérité et activité de la vascularite avec pneumopathie interstitielle et atteinte rénale mesurées par TEP/TDM au 68Ga-FAPI, dans les 4 semaines suivant l'inclusion"
+}
