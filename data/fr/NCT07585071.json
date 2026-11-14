@@ -1,0 +1,34 @@
+{
+ "h": "3b2d78169db1",
+ "date": "2026-11-14",
+ "titre": "IASO206 (CAR-T in vivo) dans l'anémie hémolytique auto-immune en rechute ou réfractaire",
+ "question": "L'injection de IASO206, CAR-T généré in vivo, est-elle sûre et tolérée dans l'anémie hémolytique auto-immune en rechute ou réfractaire ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est due à des auto-anticorps dirigés contre les hématies. Le traitement repose sur les corticoïdes, puis le rituximab et d'autres immunosuppresseurs. Une partie des patients rechute ou reste réfractaire après plusieurs lignes, avec un besoin thérapeutique non couvert.\n\nLes cellules CAR-T ciblant les lymphocytes B ou les plasmocytes ont montré une activité dans des maladies auto-immunes. Les CAR-T classiques demandent un prélèvement, une fabrication ex vivo et une lymphodéplétion. IASO206 est un produit de CAR-T in vivo : la modification des lymphocytes se fait dans l'organisme du patient après injection.\n\nCet essai de phase 1 chinois, ouvert et monobras, évalue la tolérance et l'efficacité préliminaire de IASO206 chez des patients atteints d'AHAI ou de syndrome d'Evans réfractaire. Le design est une escalade de dose 3+3 avec trois niveaux (1E8, 3E8 et 5E8 TU), à perfusion unique. Les patients ont déjà reçu au moins deux immunosuppresseurs, dont un anti-CD20.",
+ "interet": "C'est une étude exploratoire de sécurité. Elle pourrait ouvrir la voie à une approche CAR-T sans fabrication ex vivo dans les cytopénies auto-immunes réfractaires.",
+ "profil": "Des adultes de 18 à 75 ans ayant une AHAI ou un syndrome d'Evans en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "AHAI (chaude, mixte ou maladie des agglutinines froides) ou syndrome d'Evans",
+  "Hémoglobine < 10 g/dL avec hémolyse, au moins 2 immunosuppresseurs dont un anti-CD20, corticoïdes au moins 3 mois",
+  "ECOG ≤ 2, survie attendue ≥ 12 semaines",
+  "Fonctions hépatique, rénale, pulmonaire et cardiaque correctes (FEVG ≥ 50 %)",
+  "Contraception efficace jusqu'à 1 an après l'administration"
+ ],
+ "exclusion": [
+  "Syndrome lymphoprolifératif confirmé ou AHAI secondaire (médicament, infection)",
+  "Antécédent de greffe d'organe ou de cellules souches ; thérapie ciblant BCMA",
+  "Anti-CD20 depuis moins de 12 semaines, échange plasmatique depuis moins de 4 semaines, splénectomie depuis moins de 12 semaines",
+  "Cardiopathie significative (FEVG ≤ 45 %, NYHA III-IV, infarctus ou stent dans les 6 mois)",
+  "Infection active non contrôlée, hépatite B ou C, VIH, syphilis active",
+  "Autre cancer dans les 5 ans, grossesse ou allaitement",
+  "Maladie psychiatrique ou neurologique (épilepsie, Parkinson)"
+ ],
+ "bras": [
+  {
+   "nom": "IASO206",
+   "traitement": "Perfusion unique de IASO206, escalade de dose 3+3 à 1E8, 3E8 puis 5E8 TU"
+  }
+ ],
+ "duree": "Suivi de 3 mois pour le critère principal (étude jusqu'en 2028)",
+ "critere": "Fréquence et gravité des événements indésirables jusqu'à 3 mois après la perfusion"
+}

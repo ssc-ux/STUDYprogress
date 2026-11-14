@@ -1,0 +1,40 @@
+{
+ "h": "a4af43cd01c7",
+ "date": "2026-11-14",
+ "titre": "DZD8586 oral dans le PTI persistant ou chronique après échec d'un traitement (phase 2)",
+ "question": "Quelle dose de DZD8586, administrée par voie orale, permet d'obtenir une réponse plaquettaire à 4 semaines dans le PTI en échec d'un premier traitement ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) persistant ou chronique est traité en première ligne par corticoïdes et immunoglobulines IV. Après échec, on recourt aux agonistes du récepteur de la thrombopoïétine, au rituximab, aux immunosuppresseurs, aux inhibiteurs de Syk ou à la splénectomie. Les réponses sont souvent incomplètes ou non durables, d'où le besoin de nouvelles options orales ciblées.\n\nLe DZD8586 est un inhibiteur oral en développement par Dizal Pharmaceuticals ; la fiche du registre ne détaille pas son mécanisme précis.\n\nCette étude de phase 2 (TAI-SHAN11), ouverte et randomisée, répartit 60 adultes dont les plaquettes sont inférieures à 30 G/L entre trois niveaux de dose, administrés une fois par jour. Elle vise à comparer l'efficacité et la tolérance de ces doses.",
+ "interet": "Elle devrait aider à choisir la dose d'un nouveau traitement oral du PTI avant un éventuel essai de phase 3. Sans comparateur actif ni placebo, elle ne permettra pas de situer le produit par rapport aux traitements existants.",
+ "profil": "Des adultes ayant un PTI persistant ou chronique avec plaquettes < 30 G/L, en échec d'au moins un traitement standard.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire persistant ou chronique, moyenne de deux numérations plaquettaires < 30 G/L",
+  "Échec d'au moins un traitement standard (corticoïdes et/ou IgIV)",
+  "Réserve médullaire et fonctions d'organes adéquates",
+  "Respect des règles de contraception"
+ ],
+ "exclusion": [
+  "Cause secondaire de thrombopénie immune",
+  "Autre trouble de la coagulation (CIVD, SHU, PTT)",
+  "Traitement antérieur ou en cours interdit par le protocole",
+  "Anomalie cardiaque sévère, infection active",
+  "Trouble digestif mal contrôlé ou malabsorption",
+  "Allergie au DZD8586 ou à ses excipients, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "DZD8586 dose 1",
+   "traitement": "Voie orale, une fois par jour"
+  },
+  {
+   "nom": "DZD8586 dose 2",
+   "traitement": "Voie orale, une fois par jour"
+  },
+  {
+   "nom": "DZD8586 dose 3",
+   "traitement": "Voie orale, une fois par jour"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Taux de réponse globale à 4 semaines"
+}

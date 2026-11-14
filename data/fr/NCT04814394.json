@@ -1,0 +1,25 @@
+{
+ "h": "cf377ea63596",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T folliculaires auxiliaires et régulateurs dans l'anémie hémolytique auto-immune",
+ "question": "Les proportions de lymphocytes T folliculaires auxiliaires (Tfh) et T folliculaires régulateurs (Tfr) circulants sont-elles modifiées dans l'anémie hémolytique auto-immune, avant et après traitement ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est une maladie acquise due à des auto-anticorps dirigés contre les hématies, avec ou sans activation du complément, qui raccourcissent la durée de vie des globules rouges. La forme la plus fréquente est l'AHAI à auto-anticorps chauds de type IgG, avec destruction extravasculaire par les macrophages tissulaires.\n\nLes études de la physiopathologie se sont surtout intéressées aux lymphocytes B autoréactifs ayant échappé à la tolérance et aux lymphocytes T régulateurs. Le traitement repose sur la transfusion et les immunosuppresseurs, en premier lieu les corticoïdes.\n\nLes lymphocytes Tfh, sous-population de lymphocytes T CD4+, aident les lymphocytes B à former les centres germinatifs et à produire des anticorps de haute affinité. Les Tfr exercent le contrôle inverse. Cette étude observationnelle de l'Université d'Assiut (Égypte) mesure la proportion de Tfh et de Tfr circulants chez des patients atteints d'AHAI avant traitement puis après traitement. Elle prévoit 50 participants.",
+ "interet": "Les résultats pourraient apporter des éléments sur le rôle des lymphocytes Tfh/Tfr dans l'AHAI et suggérer de nouvelles cibles thérapeutiques ou des marqueurs d'activité de la maladie.",
+ "profil": "Des patients, quel que soit l'âge, atteints d'AHAI primitive ou secondaire, non traités à l'inclusion.",
+ "inclusion": [
+  "Diagnostic d'AHAI, primitive ou secondaire",
+  "Hommes et femmes, tout âge",
+  "Aucun traitement en cours à l'inclusion"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Traitement par corticoïdes ou immunosuppresseurs",
+  "Hémopathie maligne",
+  "Anémie hémolytique allo-immune (incompatibilité ABO, greffe)"
+ ],
+ "bras": [
+  { "nom": "Patients atteints d'AHAI", "traitement": "Dosage des lymphocytes Tfh et Tfr circulants avant puis après traitement" }
+ ],
+ "duree": "Non précisé",
+ "critere": "Proportion de lymphocytes T folliculaires auxiliaires et régulateurs circulants au diagnostic et après traitement (évaluation initiale)"
+}

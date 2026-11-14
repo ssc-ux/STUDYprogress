@@ -1,0 +1,34 @@
+{
+ "h": "68b22125d1cf",
+ "date": "2026-11-14",
+ "titre": "Abrocitinib dans la sarcoïdose cutanée modérée à sévère",
+ "question": "L'abrocitinib, inhibiteur oral de JAK1, réduit-il l'activité de la sarcoïdose cutanée après 6 mois ?",
+ "contexte": "La sarcoïdose cutanée peut être défigurante et résiste parfois aux dermocorticoïdes. Le traitement systémique repose surtout sur la prednisone, peu spécifique et source d'effets indésirables, avec le méthotrexate et les anti-TNF comme alternatives. Il y a donc un besoin de traitements ciblés sur les mécanismes de la maladie.\n\nLa voie JAK-STAT, en aval de l'interféron gamma et de plusieurs cytokines, est activée dans les granulomes sarcoïdosiques. Des cas isolés ont rapporté l'efficacité d'inhibiteurs de JAK. Cette étude de phase 2 monocentrique de Yale, avec soutien de Pfizer, traite 10 patients par abrocitinib 200 mg par jour pendant 6 mois. Le score CSAMI est le critère principal, choisi pour sa bonne fiabilité inter-observateurs. Les critères secondaires incluent le TEP-scanner corps entier, la qualité de vie, la fatigue, l'IL-2R soluble et des analyses immunologiques sur peau et sang.",
+ "interet": "Une réponse cutanée encouragerait des essais contrôlés des inhibiteurs de JAK dans la sarcoïdose. Les données sur les biomarqueurs pourraient aussi préciser le mécanisme de la maladie.",
+ "profil": "Des adultes atteints de sarcoïdose cutanée modérée à sévère, non fumeurs.",
+ "inclusion": [
+  "Adulte de 18 ans ou plus",
+  "Sarcoïdose cutanée avec biopsie confirmant des granulomes sans autre cause",
+  "CSAMI d'activité ≥ 10, ou toute atteinte cutanée avec retentissement fonctionnel",
+  "Traitement systémique stable depuis 3 mois (seuls méthotrexate ≤ 15 mg/sem. ou prednisone ≤ 20 mg/j autorisés)",
+  "Contraception efficace chez les femmes en âge de procréer",
+  "Biopsies cutanées, prises de sang et photographies acceptées"
+ ],
+ "exclusion": [
+  "Cancer antérieur (sauf carcinome cutané traité)",
+  "VIH, hépatite B ou C, infection active sévère ou tuberculose",
+  "Polyarthrite rhumatoïde",
+  "Antécédent de thrombose veineuse, d'embolie pulmonaire ou trouble de la coagulation",
+  "Insuffisance hépatique Child-Pugh C ou insuffisance rénale modérée à sévère",
+  "Autres immunosuppresseurs, tabagisme actuel ou passé, grossesse ou allaitement",
+  "Anomalies biologiques (plaquettes < 150 000/mm³, neutrophiles < 1 000/mm³, hémoglobine < 8 g/dL)"
+ ],
+ "bras": [
+  {
+   "nom": "Abrocitinib 200 mg",
+   "traitement": "Abrocitinib 200 mg par jour par voie orale pendant 6 mois"
+  }
+ ],
+ "duree": "6 mois de traitement",
+ "critere": "Variation du score CSAMI (activité de la sarcoïdose cutanée) entre l'inclusion et 6 mois."
+}

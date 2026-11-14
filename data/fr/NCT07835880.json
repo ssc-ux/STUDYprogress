@@ -1,0 +1,43 @@
+{
+ "h": "07a7c970eae0",
+ "date": "2026-11-14",
+ "titre": "TEP au [18F]FIDT-10b dans l'amylose cardiaque : sécurité et performance diagnostique",
+ "question": "Le traceur TEP [18F]FIDT-10b est-il sûr et capable d'identifier le myocarde atteint dans l'amylose cardiaque ATTR ?",
+ "contexte": "Les amyloses cardiaques à chaînes légères (AL) et à transthyrétine (ATTR) sont les deux principales formes d'amylose cardiaque. Le dépôt amyloïde aboutit à une cardiopathie infiltrative, des troubles de conduction et une dénervation cardiaque, lésions irréversibles ; un diagnostic étiologique précoce est donc important.\n\nLes recommandations préconisent la scintigraphie osseuse pour le diagnostic non invasif de l'ATTR-CA. Sa spécificité dépasse 90 % mais sa sensibilité n'est que d'environ 71 %, d'où un risque de diagnostic manqué ou tardif. D'où l'intérêt de traceurs TEP ciblant spécifiquement les protéines amyloïdes.\n\nLes investigateurs rapportent des données précliniques montrant que le [18F]FIDT-10b se lie avec une forte affinité aux dépôts de TTR in vitro. Cette étude de première administration chez l'homme (Peking Union Medical College Hospital) évalue en partie 1 la sécurité, la pharmacocinétique et la dosimétrie chez des volontaires sains et des patients ATTR ou AL, puis en partie 2 la performance diagnostique chez des patients suspects ou confirmés d'ATTR-CA, par comparaison à la scintigraphie au 99mTc-PYP.",
+ "interet": "Si elle est confirmée, la TEP pourrait compléter ou dépasser la scintigraphie pour détecter l'ATTR cardiaque, notamment dans les cas manqués par celle-ci. L'étude est une étape très précoce.",
+ "profil": "Des volontaires sains et des adultes avec une amylose cardiaque ATTR ou AL, ou une suspicion d'ATTR-CA.",
+ "inclusion": [
+  "Consentement écrit signé",
+  "Partie 1 : ATTR-CA confirmée (18-90 ans), AL-CA confirmée (18-80 ans) ou sujet sain sans maladie cardiaque (18-80 ans)",
+  "Partie 2 : ATTR-CA suspectée ou confirmée (18-90 ans)"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Claustrophobie sévère",
+  "Incapacité ou refus de consentir",
+  "Cardiomyopathie non ischémique d'une autre cause d'hypertrophie",
+  "Contre-indication à l'IRM (DFG < 30 ml/min/1,73 m², allergie au gadolinium, matériel non compatible)",
+  "AL-CA : myélome, Waldenström ou autre syndrome lymphoprolifératif associé",
+  "Sujets sains : toute maladie cardiaque"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1, cohorte A",
+   "traitement": "Volontaires sains : TEP au [18F]FIDT-10b"
+  },
+  {
+   "nom": "Partie 1, cohorte B",
+   "traitement": "Patients ATTR-CA : TEP au [18F]FIDT-10b et scintigraphie au 99mTc-PYP"
+  },
+  {
+   "nom": "Partie 1, cohorte C",
+   "traitement": "Patients AL-CA : TEP au [18F]FIDT-10b"
+  },
+  {
+   "nom": "Partie 2",
+   "traitement": "ATTR-CA suspectée ou confirmée : TEP au [18F]FIDT-10b et 99mTc-PYP"
+  }
+ ],
+ "duree": "Environ 3 mois (30 jours de suivi de sécurité après la TEP en partie 1)",
+ "critere": "Partie 1 : sécurité et tolérance dans les 30 jours suivant la TEP. Partie 2 : lésions myocardiques focales ou diffuses d'ATTR-CA identifiées par la TEP."
+}

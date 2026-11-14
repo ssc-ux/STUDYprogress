@@ -1,0 +1,34 @@
+{
+ "h": "096840e92f32",
+ "date": "2026-11-14",
+ "titre": "Cytarabine à faible dose et thalidomide dans l'histiocytose langerhansienne de l'adulte non traitée",
+ "question": "L'association cytarabine à faible dose et thalidomide est-elle efficace chez l'adulte atteint d'histiocytose langerhansienne (HCL) non traitée ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) de l'adulte est une maladie rare, de la voie MAPK, qui peut toucher l'os, la peau, le poumon ou d'autres organes. Les formes multisystémiques ou unisystémiques multifocales nécessitent un traitement systémique, mais il n'existe pas de standard consensuel chez l'adulte, où l'on extrapole en partie les protocoles pédiatriques (vinblastine-prednisone) ou utilise cytarabine, cladribine ou inhibiteurs de BRAF/MEK.\n\nLa cytarabine à faible dose est une option reconnue, tandis que le thalidomide, immunomodulateur et antiangiogénique, a une activité rapportée dans cette maladie. Leur association pourrait améliorer le contrôle de la maladie avec un profil oral/ambulatoire acceptable.\n\nCette étude de phase 2 monobras, promue par le Cancer Institute and Hospital de l'Académie chinoise des sciences médicales, inclut 50 adultes. Le traitement associe cytarabine 100 mg/m² J1-5 et thalidomide 100 mg J1-35 par cycles de 35 jours (12 cycles), puis thalidomide d'entretien pendant 12 cycles de 28 jours.",
+ "interet": "Elle pourrait fournir des données prospectives sur une option sans inhibiteur de BRAF/MEK dans l'HCL multisystémique de l'adulte.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'HCL multisystémique ou unisystémique multifocale, jamais traités par voie systémique.",
+ "inclusion": [
+  "HCL diagnostiquée, multisystémique ou unisystémique multifocale",
+  "Âge de 18 à 70 ans",
+  "Aucun traitement systémique antérieur (radiothérapie locale ou chirurgie autorisées)",
+  "ECOG ≤ 2",
+  "Patient jugé apte au protocole",
+  "Consentement écrit du patient ou de sa famille"
+ ],
+ "exclusion": [
+  "Atteinte du système nerveux central",
+  "HCL unisystémique unifocale",
+  "Chirurgie majeure ou radiothérapie dans les 4 semaines ; infarctus dans l'année",
+  "Insuffisance cardiaque NYHA 3-4",
+  "Grossesse ou allaitement",
+  "Créatinine ≥ 176,8 µmol/L, transaminases > 2 N (bilirubine > 10 N si atteinte hépatique)",
+  "PNN < 1 G/L ou plaquettes < 50 G/L"
+ ],
+ "bras": [
+  {
+   "nom": "HCL nouvellement diagnostiquée",
+   "traitement": "Cytarabine 100 mg/m² J1-5 et thalidomide 100 mg J1-35, cycles de 35 jours × 12, puis thalidomide 100 mg/j en entretien (12 cycles de 28 jours)"
+  }
+ ],
+ "duree": "Jusqu'à 3 ans",
+ "critere": "Survie sans événement, de l'inclusion jusqu'à 3 ans."
+}

@@ -1,0 +1,28 @@
+{
+ "h": "088c6923bdb0",
+ "date": "2026-11-14",
+ "titre": "Imagerie fNIRS des réseaux cognitifs cérébraux chez des patients anémiques",
+ "question": "Quelles régions des réseaux cognitifs cérébraux sont atteintes chez les patients anémiques, d'après la spectroscopie proche infrarouge (fNIRS) ?",
+ "contexte": "L'anémie est un problème de santé publique mondial. Elle est associée à des troubles cognitifs : baisse de la mémoire, de l'apprentissage, de la vitesse de traitement et des fonctions exécutives. Ces déficits réduisent l'autonomie et augmentent le risque de chute et de dépression.\n\nLa spectroscopie fonctionnelle proche infrarouge (fNIRS) mesure en temps réel les variations d'hémoglobine oxygénée et désoxygénée du cortex, reflet du fonctionnement des réseaux cérébraux. C'est une technique non invasive et portable.\n\nCette étude observationnelle chinoise, promue par l'Institut d'hématologie de Tianjin, inclut des adultes hospitalisés pour une anémie, notamment aplasie médullaire, syndrome myélodysplasique ou anémie hémolytique auto-immune. Les variations d'hémoglobine cérébrale et un bilan cognitif sont recueillis dans les 48 heures suivant l'admission. L'objectif est de repérer les régions touchées et de représenter les changements de connectivité par des cartes.",
+ "interet": "Les résultats pourraient aider à détecter plus tôt l'atteinte cognitive de l'anémie. Ils pourraient aussi guider des prises en charge plus personnalisées, sans que l'étude ne teste de traitement.",
+ "profil": "Des adultes de 18 à 65 ans hospitalisés pour la première fois avec une anémie.",
+ "inclusion": [
+  "Diagnostic d'anémie",
+  "Première hospitalisation",
+  "Âge de 18 à 65 ans",
+  "Capacité et accord pour suivre l'étude, consentement écrit"
+ ],
+ "exclusion": [
+  "Antécédent de maladie psychiatrique",
+  "Antécédent de maladie cérébrale grave",
+  "Autre raison d'inéligibilité selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Patients anémiques",
+   "traitement": "Mesure fNIRS et évaluation cognitive dans les 48 heures après l'admission, sans traitement imposé"
+  }
+ ],
+ "duree": "Évaluation unique, dans les 48 heures suivant l'admission",
+ "critere": "Variations de concentration d'hémoglobine oxygénée (HbO) et désoxygénée (HbR) et évaluation de la fonction cognitive, dans les 48 heures suivant l'admission"
+}

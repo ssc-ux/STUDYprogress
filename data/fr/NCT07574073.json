@@ -1,0 +1,32 @@
+{
+ "h": "b4984e09f6ab",
+ "date": "2026-11-14",
+ "titre": "Anti-CD20 et inhibiteur de BTK dans les cytopénies auto-immunes réfractaires (PTI, AHAI)",
+ "question": "L'association zuberitamab (anti-CD20) et orélabrutinib (inhibiteur de BTK) est-elle efficace et tolérée dans les cytopénies auto-immunes réfractaires ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) et l'anémie hémolytique auto-immune (AHAI) sont des cytopénies dues à des auto-anticorps. Les corticoïdes sont le traitement de première ligne, avec le rituximab, les agonistes du récepteur de la thrombopoïétine ou la splénectomie en seconde ligne. Une partie des patients reste réfractaire ou rechute.\n\nLes anti-CD20 éliminent les lymphocytes B périphériques et réduisent la production d'auto-anticorps. Les inhibiteurs de BTK bloquent la signalisation du récepteur B et l'activation des lymphocytes B. L'hypothèse est qu'associer les deux produirait un effet synergique.\n\nCet essai de phase 1 chinois, monobras et ouvert, associe le zuberitamab, anti-CD20 chimérique, à l'orélabrutinib. Il inclut des patients ayant un PTI ou une AHAI réfractaire. L'efficacité (taux de réponse globale, durée de la rémission) et la tolérance (infections, saignements, toxicité cardiaque) sont évaluées.",
+ "interet": "Si l'association est active et bien tolérée, elle pourrait offrir une option de rattrapage pour les cytopénies auto-immunes réfractaires. Les données de phase 1 resteront à confirmer dans des essais comparatifs.",
+ "profil": "Des adultes de 18 à 80 ans ayant un PTI ou une AHAI réfractaire.",
+ "inclusion": [
+  "PTI ou AHAI réfractaire",
+  "Âge de 18 à 80 ans",
+  "Survie attendue supérieure à 12 mois",
+  "Fonctions hépatique, rénale, pulmonaire et cardiaque correctes (ALAT/ASAT < 3 N, créatinine < 100 µmol/L, SpO2 ≥ 95 %, FEVG ≥ 50 %)",
+  "Karnofsky ≥ 60, ECOG ≤ 2"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Cardiopathie sévère (FA significative, bloc de conduction, infarctus de moins d'un an, insuffisance cardiaque, NYHA III-IV)",
+  "Saignement actif ou nécessité d'un anticoagulant",
+  "Antécédent de tumeur maligne",
+  "Hépatite B chronique active, hépatite C active ou VIH",
+  "Infection non contrôlée ou dysfonction d'organe"
+ ],
+ "bras": [
+  {
+   "nom": "Zuberitamab + orélabrutinib",
+   "traitement": "Zuberitamab 100 mg aux jours 1, 8, 15 et 22 ; orélabrutinib 50 mg par jour du jour 1 au jour 90"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Taux de réponse globale à 6 mois après le début du traitement"
+}

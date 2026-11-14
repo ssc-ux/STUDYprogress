@@ -1,0 +1,29 @@
+{
+ "h": "9b4bccf7d3e2",
+ "date": "2026-11-14",
+ "titre": "Augmentation de la fréquence de stimulation du pacemaker dans l'amylose cardiaque",
+ "question": "Augmenter la fréquence du pacemaker améliore-t-il les symptômes d'insuffisance cardiaque et la tolérance à l'effort dans l'amylose cardiaque ?",
+ "contexte": "Dans l'amylose cardiaque, le myocarde infiltré est rigide et le volume d'éjection systolique est faible et peu modulable. Le débit cardiaque dépend donc largement de la fréquence cardiaque. Beaucoup de patients ont un stimulateur cardiaque pour des troubles conductifs.\n\nL'hypothèse testée est qu'une fréquence de base plus élevée pourrait augmenter le débit cardiaque et soulager les symptômes. Les données sur ce point sont limitées, et les recommandations ne proposent pas de réglage spécifique.\n\nCette étude pilote de l'université du Minnesota inclut 10 patients ayant une amylose cardiaque et un pacemaker (avec ou sans défibrillateur), un ventricule gauche non dilaté et un QRS stimulé de 150 ms ou moins. Chaque patient reçoit un protocole de fréquence personnalisé, calculé selon sa taille et sa fraction d'éjection. Les symptômes et les événements cardiovasculaires sont comparés avant et après l'élévation de la fréquence.",
+ "interet": "Si l'amélioration est confirmée, une simple reprogrammation du stimulateur pourrait devenir une mesure de soutien accessible. L'effectif très réduit impose de confirmer ces données.",
+ "profil": "Des adultes ayant une amylose cardiaque et un stimulateur cardiaque implanté.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Amylose cardiaque diagnostiquée selon les critères du consensus ACC 2023",
+  "Pacemaker implanté (avec ou sans défibrillateur)",
+  "Mode AAI ou DDD en rythme sinusal, VVI accepté en fibrillation atriale permanente",
+  "Ventricule gauche non dilaté en échocardiographie",
+  "Consentement écrit ; anglophone"
+ ],
+ "exclusion": [
+  "QRS stimulé supérieur à 150 ms (risque de dyssynchronie liée à la stimulation)",
+  "Ventricule gauche dilaté"
+ ],
+ "bras": [
+  {
+   "nom": "Fréquence de pacemaker élevée",
+   "traitement": "Protocole de fréquence personnalisé selon la taille et la FEVG"
+  }
+ ],
+ "duree": "4 mois",
+ "critere": "Score du questionnaire KCCQ (Kansas City Cardiomyopathy Questionnaire) et événements cardiovasculaires composites à 4 mois"
+}

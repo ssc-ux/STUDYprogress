@@ -1,0 +1,34 @@
+{
+ "h": "408acfe8aec6",
+ "date": "2026-11-14",
+ "titre": "CAR-T BCMA-CD19 (ICG318) dans les myopathies inflammatoires réfractaires",
+ "question": "Le CAR-T cellulaire double cible BCMA-CD19 ICG318 est-il bien toléré chez des adultes atteints de myopathie inflammatoire réfractaire ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques regroupent la dermatomyosite, la myopathie nécrosante à médiation immune, la polymyosite et le syndrome des antisynthétases. Ce sont des maladies auto-immunes chroniques où les lymphocytes B, les plasmocytes et les plasmocytes à longue durée de vie jouent un rôle central, par la production d'auto-anticorps.\n\nLe traitement habituel associe corticoïdes, immunoglobulines IV et immunosuppresseurs (méthotrexate, azathioprine, mycophénolate, tacrolimus, cyclophosphamide) et le rituximab est parfois utilisé. Une partie des patients reste en échec malgré plusieurs lignes, avec un handicap musculaire et parfois une atteinte pulmonaire ou cutanée sévère.\n\nLes CAR-T anti-CD19 ont donné des résultats encourageants dans des maladies auto-immunes, dont les myosites. L'ICG318 cible à la fois CD19 (lymphocytes B) et BCMA (plasmocytes), avec des cytokines IL-15 intégrées pour soutenir la persistance cellulaire. Cet essai de phase 1 chinois, monocentrique et à un seul bras, évalue une perfusion unique après lymphodéplétion par cyclophosphamide chez environ 10 patients de 18 à 60 ans réfractaires à au moins deux immunosuppresseurs. Le critère principal est la tolérance.",
+ "interet": "L'étude fournira les premières données de sécurité de ce CAR-T double cible dans les myosites réfractaires, avant d'éventuelles études d'efficacité.",
+ "profil": "Des adultes de 18 à 60 ans atteints de myopathie inflammatoire idiopathique réfractaire aux traitements.",
+ "inclusion": [
+  "Âge de 18 à 60 ans",
+  "Myopathie inflammatoire selon les critères EULAR/ACR 2017 : dermatomyosite, myopathie nécrosante ou syndrome des antisynthétases, avec auto-anticorps correspondants",
+  "Maladie réfractaire : corticoïdes ou immunoglobulines IV et au moins 2 immunosuppresseurs à dose adéquate plus de 6 mois",
+  "Traitement de fond stable depuis au moins 12 semaines",
+  "Activité active : MMT-8 inférieur ou égal à 141 et enzymes musculaires supérieures à 1,5 fois la normale",
+  "Cancer sous-jacent écarté par le bilan"
+ ],
+ "exclusion": [
+  "Infection active nécessitant un traitement systémique",
+  "Comorbidité grave mal contrôlée",
+  "Dysfonction d'organe : DFG inférieur à 40 mL/min, bilirubine supérieure à 1,5 fois la normale, FEVG inférieure à 50 %, cytopénies sévères",
+  "Antécédent ou cancer en cours",
+  "Hépatite B ou C active, VIH, syphilis, tuberculose active",
+  "Maladie du système nerveux central (accident vasculaire, épilepsie)",
+  "Allergie aux composants du traitement ou du conditionnement"
+ ],
+ "bras": [
+  {
+   "nom": "ICG318 CAR-T (bras unique)",
+   "traitement": "Perfusion unique de CAR-T BCMA-CD19-IL-15/IL-15sushi après lymphodéplétion par cyclophosphamide"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans après la perfusion",
+ "critere": "Nombre d'événements indésirables après la perfusion d'ICG318, du jour 0 jusqu'à 2 ans"
+}

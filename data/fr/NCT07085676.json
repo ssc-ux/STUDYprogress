@@ -1,0 +1,34 @@
+{
+ "h": "2ee1d94c436d",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA HBI0101 dans les maladies auto-immunes réfractaires à lymphocytes B",
+ "question": "Le CAR-T anti-BCMA HBI0101 est-il sûr, et quelle dose peut-on administrer chez des patients atteints de maladies auto-immunes réfractaires ?",
+ "contexte": "Les maladies auto-immunes sévères médiées par les lymphocytes B et les plasmocytes (lupus, sclérodermie, myosites, polyarthrite rhumatoïde, SEP progressive, NMOSD, myasthénie, syndrome des antiphospholipides) peuvent rester actives malgré les immunosuppresseurs et les biothérapies. Les plasmocytes à longue durée de vie, producteurs d'auto-anticorps, échappent à l'anti-CD20.\n\nLes CAR-T anti-CD19 ont montré des rémissions profondes dans le lupus et d'autres maladies. Cibler BCMA permet de viser aussi les plasmocytes. HBI0101 est un CAR-T anti-BCMA, déjà utilisé en hématologie, développé au Hadassah (Jérusalem).\n\nCette phase 1 ouverte, avec 120 patients de 18 à 80 ans, comprend une partie A d'établissement du profil de sécurité (21 jours) et une partie B de confirmation à la dose retenue, avec un suivi de 4 ans. Chaque patient reçoit une dose unique (450 ou 800 millions de cellules).",
+ "interet": "L'étude explore une plateforme commune à plusieurs maladies auto-immunes réfractaires et fournira des données de tolérance de la thérapie anti-BCMA hors cancer. Le suivi de 4 ans renseignera sur la durabilité.",
+ "profil": "Des adultes de 18 à 80 ans atteints d'une maladie auto-immune médiée par les lymphocytes B, sévère et réfractaire (lupus, sclérodermie, myosite, polyarthrite, SEP progressive, NMOSD, myasthénie, SAPL).",
+ "inclusion": [
+  "Âge de 18 à 80 ans (évaluation gériatrique si ≥ 75 ans)",
+  "Maladie réfractaire d'une des indications, avec échec de plusieurs lignes selon des seuils définis par maladie",
+  "Lupus avec SLEDAI-2K ≥ 8, sclérodermie sévère, myosite active, PR avec DAS28-CRP ≥ 5,1",
+  "NMOSD AQP4+ avec au moins 2 poussées en 24 mois, SEP progressive avec EDSS 3,0-8,5",
+  "Myasthénie généralisée avec MG-ADL ≥ 6, SAPL réfractaire",
+  "FEVG > 45 %, saturation > 93 %, ALAT/ASAT < 5 N"
+ ],
+ "exclusion": [
+  "Atteinte du système nerveux central autre que l'indication, tumeur ou LEMP",
+  "Insuffisance cardiaque NYHA III-IV, FEVG < 45 %, infarctus ou arythmie sévère récents",
+  "Pneumopathie chronique avec saturation < 90 %, CVF ≤ 45 % ou DLCO ≤ 40 %",
+  "Rituximab dans les 4 mois, échanges plasmatiques ou immunoglobulines dans les 4 semaines",
+  "Cancer évolutif ou récent, greffe d'organe ou de cellules souches",
+  "VIH, hépatite B ou C active, infection active à CMV",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-BCMA",
+   "traitement": "HBI0101, dose unique de 450 ou 800 × 10^6 cellules"
+  }
+ ],
+ "duree": "Jusqu'à 4 ans après la perfusion",
+ "critere": "Partie A : profil de sécurité initial à 21 jours. Partie B : confirmation de la sécurité à la dose retenue, 4 ans après la perfusion."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "c480a128ed66",
+ "date": "2026-11-14",
+ "titre": "BOBCAT : biomarqueurs précoces chez les nourrissons atteints d'ataxie-télangiectasie",
+ "question": "Quels biomarqueurs d'imagerie cérébrale et pulmonaire, sériques et de mouvement reflètent la progression de l'ataxie-télangiectasie dès les premières années de vie ?",
+ "contexte": "L'ataxie-télangiectasie (A-T) est une maladie génétique rare, autosomique récessive, due à des variants du gène ATM. Elle se manifeste dans l'enfance par une ataxie cérébelleuse progressive, une immunodéficience, une atteinte pulmonaire et un risque accru de cancer. La neurodégénérescence débute probablement avant l'apparition des premiers signes cliniques.\n\nIl n'existe pas à ce jour de traitement qui ralentisse la neurodégénérescence, et plusieurs approches thérapeutiques sont en développement. Pour les tester chez le nourrisson, avant que les lésions ne soient installées, il faut des critères de jugement objectifs sensibles aux changements précoces, car les échelles cliniques sont peu informatives chez le très jeune enfant.\n\nCette étude observationnelle britannique, promue par l'université de Nottingham, suit des enfants atteints d'A-T de moins de 2 ans à l'inclusion, jusqu'à 4 visites. Elle combine IRM cérébrale (volumétrie, spectroscopie du N-acétyl-aspartate cérébelleux, diffusion), évaluation neurologique et développementale, analyse quantitative du mouvement et dosage de marqueurs sériques de neurodégénérescence. Un groupe témoin d'enfants de 0 à 5 ans, opérés pour un geste mineur ou ayant une IRM diagnostique, fournit une prise de sang unique.",
+ "interet": "L'étude pourrait identifier des biomarqueurs utilisables comme critères de jugement dans de futurs essais thérapeutiques précoces dans l'A-T.",
+ "profil": "Des nourrissons et jeunes enfants (0 à 5 ans) atteints d'ataxie-télangiectasie, et des enfants témoins sans maladie neurologique.",
+ "inclusion": [
+  "A-T : diagnostic génétique d'ataxie-télangiectasie",
+  "A-T : âge inférieur à 2 ans au premier recrutement",
+  "Témoins : enfant de 0 à 5 ans sous anesthésie générale pour un geste mineur ou une IRM diagnostique",
+  "Consentement des parents ou tuteurs"
+ ],
+ "exclusion": [
+  "A-T : contre-indication à l'IRM",
+  "A-T : autre maladie neurogénétique",
+  "A-T : traitement approuvé ciblant la neurodégénérescence, ou participation à un essai d'un tel traitement",
+  "Témoins : maladie neurologique ou du neurodéveloppement",
+  "Témoins : autre maladie chronique significative de l'enfant",
+  "Témoins : traitement prescrit au long cours"
+ ],
+ "bras": [
+  {
+   "nom": "Participants avec A-T",
+   "traitement": "Jusqu'à 4 visites longitudinales : IRM cérébrale, évaluation neurologique, analyse quantitative du mouvement, prise de sang"
+  },
+  {
+   "nom": "Témoins sans A-T",
+   "traitement": "Une visite unique avec prise de sang"
+  }
+ ],
+ "duree": "Jusqu'à 4 ans de suivi pour les enfants atteints d'A-T ; une visite pour les témoins",
+ "critere": "Évolution des mesures d'IRM cérébrale (volumétrie T1, spectroscopie du N-acétyl-aspartate cérébelleux, diffusion), de l'évaluation neurologique, du mouvement et des marqueurs sériques de neurodégénérescence, jusqu'à 4 ans"
+}

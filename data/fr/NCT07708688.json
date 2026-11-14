@@ -1,0 +1,32 @@
+{
+ "h": "09eef1ae0f28",
+ "date": "2026-11-14",
+ "titre": "FIND-VEXAS : prévalence et phénotype du syndrome VEXAS en médecine interne",
+ "question": "Quelle est la fréquence du syndrome VEXAS confirmé génétiquement chez les patients de plus de 50 ans hospitalisés en médecine interne pour une inflammation ou une anomalie hématologique inexpliquée ?",
+ "contexte": "Le syndrome VEXAS est une maladie auto-inflammatoire de l'adulte due à des mutations somatiques acquises du gène UBA1. Il associe inflammation systémique, cytopénies et atteintes multiples touchant la peau, les poumons, les articulations, les cartilages et les vaisseaux. Il peut chevaucher des hémopathies, notamment les syndromes myélodysplasiques.\n\nLa maladie touche surtout des hommes de plus de 50 ans, population fréquemment hospitalisée en médecine interne. Elle se présente souvent par des signes peu spécifiques : fièvre inexpliquée, syndrome inflammatoire persistant, anémie macrocytaire, thrombopénie ou autres cytopénies. Le diagnostic est donc souvent tardif et sa fréquence réelle en milieu hospitalier reste mal connue.\n\nCette étude observationnelle transversale multicentrique est menée dans les services de médecine interne du réseau FADOI de la région Frioul-Vénétie julienne (Italie), avec le CHU vaudois (Lausanne) comme promoteur. Un parcours de dépistage structuré, fondé sur les données cliniques, biologiques et d'imagerie de routine, identifie les patients suspects. Leurs prélèvements de sang ou de moelle sont envoyés à un centre de référence régional pour le séquençage d'UBA1. L'étude décrit aussi le phénotype clinique, hématologique et inflammatoire des cas suspects ou confirmés.",
+ "interet": "L'étude pourrait fournir des critères de dépistage simples pour reconnaître le VEXAS en médecine interne et estimer sa prévalence réelle dans cette population.",
+ "profil": "Des adultes de plus de 50 ans hospitalisés en médecine interne avec une inflammation systémique ou des anomalies hématologiques inexpliquées.",
+ "inclusion": [
+  "Âge supérieur à 50 ans",
+  "Admission dans un service de médecine interne du réseau participant",
+  "Inflammation systémique et/ou anomalie hématologique sans cause identifiée",
+  "Au moins un signe : fièvre inexpliquée, CRP ou VS élevée, anémie macrocytaire, cytopénie",
+  "Données cliniques, biologiques et d'imagerie disponibles",
+  "Consentement éclairé si requis"
+ ],
+ "exclusion": [
+  "Inflammation expliquée par une infection active",
+  "Inflammation expliquée par une tumeur solide",
+  "Anomalies cliniques ou biologiques d'étiologie clairement établie",
+  "Informations insuffisantes pour évaluer l'éligibilité",
+  "Incapacité ou refus de consentir si requis"
+ ],
+ "bras": [
+  {
+   "nom": "Patients suspects de syndrome VEXAS",
+   "traitement": "Évaluation clinique, biologique et d'imagerie de routine ; séquençage d'UBA1 (sang ou moelle) chez les patients répondant aux critères de suspicion"
+  }
+ ],
+ "duree": "Étude transversale de 24 mois ; pas de suivi prolongé précisé",
+ "critere": "Prévalence du syndrome VEXAS confirmé génétiquement (mutation d'UBA1), jusqu'à la fin de l'étude (24 mois maximum)"
+}

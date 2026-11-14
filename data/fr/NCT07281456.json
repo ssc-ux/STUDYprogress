@@ -1,0 +1,33 @@
+{
+ "h": "2cebeb4eccaf",
+ "date": "2026-11-14",
+ "titre": "Tofacitinib dans le syndrome de Sjögren primitif : tolérance (phase 2a, NIH)",
+ "question": "Le tofacitinib, inhibiteur de JAK, est-il bien toléré chez des patients ayant un syndrome de Sjögren d'activité faible à modérée ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune touchant surtout les glandes exocrines (sécheresse buccale et oculaire), avec parfois des atteintes systémiques (articulaire, pulmonaire, rénale, cutanée). Aucun traitement de fond n'a démontré d'efficacité robuste ; l'hydroxychloroquine, les corticoïdes et les immunosuppresseurs sont utilisés de façon empirique.\n\nLes voies de signalisation des interférons et des cytokines, qui passent par les kinases JAK, sont activées dans la maladie. Le tofacitinib, inhibiteur oral de JAK déjà autorisé dans la polyarthrite rhumatoïde, constitue donc un candidat de repositionnement.\n\nCette étude ouverte de phase 2a, menée par le NIDCR (NIH, États-Unis), traite 60 patients par tofacitinib 5 mg deux fois par jour pendant 168 jours. Elle s'accompagne d'études mécanistiques (fonction salivaire, inflammation systémique, fonction vasculaire). Elle fait suite à un essai contrôlé par placebo du même centre : les patients ayant reçu le placebo pourront y participer.",
+ "interet": "Elle précisera la tolérance du tofacitinib dans le Sjögren et fournira des biomarqueurs pour de futurs essais contrôlés. Sans groupe comparateur, elle ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans ayant un syndrome de Sjögren d'activité faible à modérée.",
+ "inclusion": [
+  "Âge 18-75 ans, Sjögren selon les critères AECG 2002 ou ACR-EULAR 2016",
+  "ESSDAI entre 0 et 13, débit salivaire stimulé > 0 mL/min/glande",
+  "Inclusion dans le protocole compagnon 15-D-0051",
+  "Corticoïdes < 10 mg/j stables depuis 4 semaines, antipaludéens stables depuis 12 semaines",
+  "Naïfs ou en échec d'immunosuppresseurs (hors antipaludéens et corticoïdes)",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Biothérapie (rituximab, bélimumab, etc.) dans les 6 mois, immunosuppresseur en cours",
+  "Hépatopathie chronique, créatininémie > 1,5 mg/dL, cytopénies, dyslipidémie sévère",
+  "Infection active (VIH, hépatite B/C, tuberculose active), antécédent de cancer",
+  "Facteurs de risque cardiovasculaire majeurs, antécédent de thrombose, tabagisme actif ou important",
+  "Atteinte rénale ou neurologique active, ESSDAI élevé dans un autre organe que articulaire",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Tofacitinib",
+   "traitement": "5 mg par voie orale deux fois par jour pendant 168 jours"
+  }
+ ],
+ "duree": "28 semaines environ (9 visites et 5 appels téléphoniques)",
+ "critere": "Nombre et grade des événements indésirables, y compris toxicité de grade ≥ 3 liée au tofacitinib et poussées, jusqu'au jour 196"
+}

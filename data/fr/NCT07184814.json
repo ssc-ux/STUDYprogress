@@ -1,0 +1,26 @@
+{
+ "h": "630df8252ea8",
+ "date": "2026-11-14",
+ "titre": "Atteinte des artères pulmonaires dans la maladie de Takayasu : caractéristiques et pronostic",
+ "question": "Quelles sont les caractéristiques, la prise en charge et l'évolution à long terme des patients atteints de maladie de Takayasu avec atteinte des artères pulmonaires ?",
+ "contexte": "La maladie de Takayasu est une vascularite des grandes artères touchant surtout l'aorte et ses branches. L'atteinte des artères pulmonaires, souvent méconnue, peut entraîner sténoses ou occlusions, puis hypertension pulmonaire (HTP), avec un risque de décès élevé.\n\nLes données sur ces formes sont rares et surtout rétrospectives : on connaît mal leur présentation clinique, l'efficacité des traitements combinés (immunosuppresseurs, traitements de l'HTP, angioplastie) et les facteurs prédictifs de mortalité ou de survenue d'une HTP.\n\nCette cohorte du China-Japan Friendship Hospital (acronyme CAPTAIN) inclut 150 adultes hospitalisés de 2016 à 2026, avec atteinte pulmonaire confirmée par angioscanner ou angiographie. Elle vise à décrire les caractéristiques et les traitements, à identifier les facteurs de risque de décès et ceux associés à l'HTP, afin de permettre une identification et une intervention plus précoces.",
+ "interet": "Les résultats pourraient aider à repérer tôt les patients à risque d'HTP et de décès, et à guider la prise en charge d'une complication mal décrite de la maladie de Takayasu.",
+ "profil": "Des adultes atteints de maladie de Takayasu avec atteinte des artères pulmonaires.",
+ "inclusion": [
+  "Hospitalisation entre le 1er janvier 2016 et le 31 décembre 2026",
+  "Maladie de Takayasu selon les critères d'Ishikawa modifiés, ACR 1990 ou ACR/EULAR 2022",
+  "Atteinte des artères pulmonaires confirmée par angioscanner ou angiographie",
+  "Possible sans atteinte aortique : signes cliniques et atteinte scanographique, après exclusion d'autres causes"
+ ],
+ "exclusion": [
+  "Atteinte pulmonaire non liée à la maladie de Takayasu : autre vascularite, médiastinite fibrosante, sarcome de l'artère pulmonaire, sarcoïdose, HTP thromboembolique chronique"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe Takayasu avec atteinte pulmonaire (TAK-PAI)",
+   "traitement": "Suivi de cohorte, traitements selon la pratique courante"
+  }
+ ],
+ "duree": "Suivi à 3 mois, 6 mois puis annuel jusqu'au 31 décembre 2026",
+ "critere": "Mortalité toutes causes à 3 mois, 6 mois puis chaque année jusqu'au 31 décembre 2026."
+}

@@ -1,0 +1,44 @@
+{
+ "h": "138e426b340d",
+ "date": "2026-11-14",
+ "titre": "SG301 en injection sous-cutanée contre placebo dans le purpura thrombopénique immunologique primaire",
+ "question": "Le SG301 sous-cutané est-il sûr et efficace pour augmenter les plaquettes chez des adultes atteints de PTI primaire déjà traités ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune caractérisée par une destruction accélérée des plaquettes et une production insuffisante. Le traitement de première ligne repose sur les corticoïdes et les immunoglobulines IV, mais beaucoup de patients rechutent ou deviennent corticodépendants.\n\nEn seconde ligne, on dispose des agonistes du récepteur de la thrombopoïétine, du rituximab, des immunosuppresseurs, du fostamatinib et de la splénectomie. Aucun n'est efficace chez tous les patients et certains sont mal tolérés, d'où le développement de nouvelles cibles, notamment visant les plasmocytes producteurs d'auto-anticorps.\n\nLe SG301, développé par Hangzhou Sumgen Biotech, est administré par voie sous-cutanée. Le registre ne précise pas sa cible, mais l'exclusion des patients déjà traités par un anti-CD38 suggère une action sur cette voie. Cet essai de phase 2 chinois, randomisé en double aveugle, compare deux doses de SG301 à un placebo (environ 20 patients par groupe, 8 injections hebdomadaires), chez des adultes dont les plaquettes restent inférieures à 30 G/L malgré un traitement de fond stable. Il évalue la tolérance et la réponse plaquettaire à la semaine 8, ainsi que la pharmacocinétique, la pharmacodynamie et l'immunogénicité.",
+ "interet": "Si le SG301 se montre sûr et efficace, il pourrait offrir une option sous-cutanée supplémentaire pour les PTI en échec ou en rechute après corticoïdes ou immunoglobulines.",
+ "profil": "Des adultes de 18 à 75 ans atteints de PTI primaire ayant échoué ou rechuté après un traitement de première ligne, avec moins de 30 G/L de plaquettes.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "PTI primaire diagnostiqué selon les recommandations, évoluant depuis au moins 3 mois",
+  "Échec ou rechute après corticoïdes et/ou immunoglobulines IV",
+  "Plaquettes moyennes inférieures à 30 G/L, sans valeur supérieure à 35 G/L (au moins 2 mesures)",
+  "ECOG 0 à 2",
+  "Traitement de fond stable depuis au moins 4 semaines",
+  "Fonctions hépatique, rénale et hématologique conformes aux seuils du protocole"
+ ],
+ "exclusion": [
+  "Traitement antérieur ciblant CD38",
+  "Thrombopénie secondaire ou anémie hémolytique auto-immune associée",
+  "Thrombose dans les 12 mois ou saignement grave",
+  "Anticoagulants ou antiagrégants dans les 4 semaines",
+  "Traitement d'urgence du PTI, rituximab (3 mois) ou splénectomie (6 mois) récents",
+  "Syndrome myélodysplasique ou cancer dans les 5 dernières années",
+  "Infection active ou chronique grave, VIH, hépatite B ou C actives, tuberculose, syphilis",
+  "Maladie cardiovasculaire sévère, greffe d'organe ou de cellules souches"
+ ],
+ "bras": [
+  {
+   "nom": "SG301 dose faible",
+   "traitement": "SG301 sous-cutané, une injection par semaine, 8 doses"
+  },
+  {
+   "nom": "SG301 dose élevée",
+   "traitement": "SG301 sous-cutané, une injection par semaine, 8 doses"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané, une injection par semaine, 8 doses"
+  }
+ ],
+ "duree": "Jusqu'à 24 semaines",
+ "critere": "Incidence des événements indésirables apparus sous traitement (jusqu'à 24 semaines) et taux de réponse globale (ORR) à la semaine 8"
+}

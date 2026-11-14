@@ -1,0 +1,38 @@
+{
+ "h": "0e0d2bdfd04e",
+ "date": "2026-11-14",
+ "titre": "Entraînement physique individualisé dans l'amylose cardiaque à transthyrétine",
+ "question": "Un programme d'exercice individualisé améliore-t-il la capacité à l'effort des patients ayant une amylose cardiaque ATTR sous traitement ciblant la TTR ?",
+ "contexte": "Les traitements dirigés contre la transthyrétine (stabilisateurs, silenceurs) ralentissent le déclin fonctionnel de l'amylose cardiaque ATTR-CM. Pourtant, la capacité à l'effort continue de diminuer chez les patients traités.\n\nLa VO2 pic mesurée à l'épreuve d'effort cardiorespiratoire est un puissant marqueur pronostique, étroitement liée aux événements cardiaques et à la mortalité dans l'ATTR-CM, y compris sous traitements actuels. L'activité physique régulière réduit la mortalité en population générale, mais aucun essai randomisé n'a évalué un entraînement structuré dans l'ATTR-CM sous traitement ciblé.\n\nCette étude de l'Oregon Health and Science University randomise 60 patients entre un programme d'endurance et de renforcement musculaire encadré (abonnement en salle, séances avec coach, montre connectée) et des recommandations écrites d'activité physique avec montre connectée. Elle vise à savoir si l'exercice apporte un bénéfice additionnel sur la capacité à l'effort et la qualité de vie.",
+ "interet": "Elle pourrait établir l'exercice structuré comme un complément des traitements ciblant la TTR et guider les conseils d'activité physique donnés à ces patients.",
+ "profil": "Des adultes avec une amylose cardiaque ATTR, sous traitement stable ciblant la TTR le cas échéant.",
+ "inclusion": [
+  "Diagnostic clinique d'amylose cardiaque ATTR",
+  "Capable de réaliser un exercice d'endurance et de renforcement",
+  "Dose stable du traitement ciblant la TTR, si traité",
+  "Stabilité clinique suffisante selon l'investigateur",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Arythmie ventriculaire soutenue ou choc de DAI dans les 6 mois",
+  "Sténose valvulaire sévère",
+  "Grossesse",
+  "Syndrome coronarien aigu ou pontage < 6 mois",
+  "Épanchement péricardique abondant",
+  "Myocardite aiguë < 3 mois",
+  "Changement récent du traitement cardiologique",
+  "Dispositif intracardiaque expérimental"
+ ],
+ "bras": [
+  {
+   "nom": "Intervention",
+   "traitement": "Plan d'entraînement prescrit, abonnement en salle avec séances de coaching, montre connectée"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Document de recommandations d'activité physique et montre connectée"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation de la VO2 pic et de la pente VE/VCO2 (efficacité ventilatoire) à 12 semaines."
+}

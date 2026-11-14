@@ -1,0 +1,34 @@
+{
+ "h": "5ee4fcfd0a69",
+ "date": "2026-11-14",
+ "titre": "Ruxolitinib dans le syndrome HLH-like après CAR-T (IEC-HS)",
+ "question": "Le ruxolitinib est-il sûr et efficace pour traiter le syndrome hémophagocytaire associé aux cellules effectrices immunitaires (IEC-HS) survenant après CAR-T ?",
+ "contexte": "Le syndrome hémophagocytaire associé aux cellules effectrices immunitaires (IEC-HS) est une complication inflammatoire des thérapies cellulaires de type CAR-T. Il ressemble à une lymphohistiocytose hémophagocytaire (HLH) et survient souvent après la résolution ou l'amélioration d'un syndrome de relargage cytokinique (CRS). Il se manifeste par une hyperferritinémie, une hypofibrinogénémie, des cytopénies, une cytolyse hépatique et de la fièvre. Les critères de consensus de l'ASTCT l'ont défini récemment, mais il n'existe pas de traitement standardisé : on utilise surtout les corticoïdes, l'anakinra ou l'étoposide, avec des résultats variables.\n\nLe ruxolitinib, inhibiteur de JAK1/2, bloque la signalisation de plusieurs cytokines (interféron gamma, IL-6) impliquées dans les HLH et a montré une activité dans les HLH primaires et secondaires de l'adulte et de l'enfant. Son intérêt dans l'IEC-HS est plausible mais peu documenté. Cette étude pilote monocentrique, promue par le centre de cancérologie Sidney Kimmel (Johns Hopkins) avec un soutien d'Incyte, traite 16 patients par ruxolitinib oral à dose adaptée aux plaquettes pendant 8 semaines au maximum. Des études corrélatives évalueront la durée optimale de traitement, des biomarqueurs de réponse et la cinétique d'expansion des CAR-T sous ruxolitinib.",
+ "interet": "Elle pourrait fournir les premières données prospectives sur un traitement ciblé de l'IEC-HS, complication dont la prise en charge repose aujourd'hui sur l'expérience. Elle permettra aussi de savoir si le ruxolitinib préserve l'expansion des CAR-T.",
+ "profil": "Des adultes ayant un IEC-HS après un traitement par CAR-T.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "IEC-HS selon les critères de consensus ASTCT",
+  "Ferritine élevée (> 2 × LSN) ou en augmentation rapide, avec au moins 2 manifestations associées",
+  "Traitement par CAR-T (commercial ou expérimental) reçu",
+  "ECOG 0 à 2",
+  "Capacité à prendre un traitement oral (ou par sonde nasogastrique) et consentement signé"
+ ],
+ "exclusion": [
+  "Néoplasie active connue ou maladie sous-jacente en progression",
+  "Grossesse ou allaitement",
+  "Infection active nécessitant un traitement anti-infectieux systémique",
+  "Traitement antérieur expérimental de l'IEC-HS ou autre inhibiteur de JAK",
+  "Prise de rifampicine ou de millepertuis",
+  "Hépatite B ou C active, infection par le VIH",
+  "Cardiopathie significative ou chirurgie majeure récente"
+ ],
+ "bras": [
+  {
+   "nom": "Ruxolitinib",
+   "traitement": "Ruxolitinib oral 2 fois par jour : 5 mg si plaquettes < 30 000/µL, 10 mg si 30 000 à 50 000/µL, 15 mg si ≥ 50 000/µL ; au moins 8 semaines si bien toléré"
+  }
+ ],
+ "duree": "8 semaines de traitement",
+ "critere": "Nombre de patients avec une réponse clinique et nombre d'événements indésirables, à 8 semaines."
+}

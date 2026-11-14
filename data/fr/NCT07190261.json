@@ -1,0 +1,36 @@
+{
+ "h": "a827f326de17",
+ "date": "2026-11-14",
+ "titre": "Énatumab, anticorps bispécifique BCMA/CD3, dans l'anémie hémolytique auto-immune à auto-anticorps chauds",
+ "question": "L'énatumab, anticorps bispécifique BCMA/CD3, induit-il une réponse chez les patients atteints d'AHAI à auto-anticorps chauds en rechute ou réfractaire ?",
+ "contexte": "Dans l'anémie hémolytique auto-immune à auto-anticorps chauds (AHAIc), les corticoïdes constituent le traitement de première ligne, mais environ 55 % des patients rechutent à 36 mois sous prednisolone seule (étude de Birgens et al. citée par le registre). Le rituximab en deuxième ligne donne 70 à 80 % de réponses, avec près de 50 % de rechutes ; les autres immunosuppresseurs (ciclosporine, cyclophosphamide, azathioprine) répondent chez 30 à 50 % des patients. L'hémolyse chronique avec poussées altère la survie et la qualité de vie.\n\nL'énatumab est un anticorps bispécifique BCMA/CD3 qui engage les lymphocytes T contre les plasmocytes et plasmoblastes, cellules clés de la production d'auto-anticorps. Il a montré une efficacité dans le myélome multiple en rechute ou réfractaire.\n\nCette étude de phase 2 monobras, promue par un investigateur chinois (Bing Han), est prévue pour 3 patients. L'énatumab est administré par voie sous-cutanée avec paliers de dose (12 mg à J1, 32 mg à J4, 38 mg à J8, puis 38 mg aux semaines 4 et 6). Le critère principal est le taux de réponse globale à 3 mois.",
+ "interet": "L'étude évalue, sur un très petit effectif, si cibler les plasmocytes peut contrôler une AHAI multi-réfractaire. Elle est exploratoire et sans comparateur.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'AHAI primitive à auto-anticorps chauds, en rechute ou réfractaire après au moins deux lignes.",
+ "inclusion": [
+  "Âge ≥ 18 ans (jusqu'à 75 ans)",
+  "AHAI à auto-anticorps chauds primitive, diagnostic certain",
+  "Rechute ou réfractaire après au moins deux lignes (corticoïdes, anti-CD20 ou autre immunosuppresseur)",
+  "Anti-CD20 ≥ 3 mois avant ; ciclosporine ou sirolimus arrêtés depuis ≥ 1 mois",
+  "Hémoglobine entre 60 et 100 g/L",
+  "ALAT/ASAT < 3 N et créatinine < 1,5 N",
+  "Consentement écrit et suivi régulier"
+ ],
+ "exclusion": [
+  "Défaillance cardiaque, hépatique ou pulmonaire ; insuffisance rénale aiguë",
+  "Connectivite ou AHAI secondaire",
+  "Infection active (VHB, VHC, SARS-CoV-2, VIH) ou infection non contrôlée",
+  "Tumeur maligne actuelle ou antérieure",
+  "Autre anémie non corrigée (carentielle...)",
+  "Traitement antérieur anti-BCMA ou CAR-T",
+  "Grossesse ou allaitement",
+  "Neuropathie sensitive ou motrice de grade ≥ 2 ; autre médicament expérimental récent"
+ ],
+ "bras": [
+  {
+   "nom": "Énatumab",
+   "traitement": "Voie sous-cutanée : 12 mg à J1, 32 mg à J4, 38 mg à J8, puis 38 mg aux semaines 4 et 6"
+  }
+ ],
+ "duree": "3 mois pour le critère principal ; durée totale de suivi non précisée",
+ "critere": "Taux de réponse globale à 3 mois."
+}

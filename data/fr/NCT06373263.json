@@ -1,0 +1,31 @@
+{
+ "h": "9a90556723b3",
+ "date": "2026-11-14",
+ "titre": "Infographie ou résumé en langage clair pour communiquer des résultats de recherche aux patients sclérodermiques",
+ "question": "Une infographie communique-t-elle mieux les résultats d'une recherche aux patients atteints de sclérodermie qu'un résumé en langage clair ?",
+ "contexte": "Les règles d'éthique de la recherche demandent de partager les résultats des études avec les participants, mais la plupart des chercheurs ne le font pas, et l'on sait peu quels outils sont les plus efficaces. Seuls trois essais randomisés ont comparé des outils de diffusion, sans analyser pour quels patients chacun convient le mieux.\n\nCette étude est le premier essai d'une série menée dans la cohorte internationale SPIN (Scleroderma Patient-centered Intervention Network), qui réunit plus de 1 200 personnes atteintes de sclérodermie systémique. Les participants sont randomisés pour recevoir soit une infographie, soit un résumé en langage clair d'un résultat de recherche choisi par des patients et des chercheurs.\n\nIls évaluent ensuite l'outil sur des échelles de 0 à 10 : exhaustivité de l'information, compréhensibilité et facilité d'utilisation, critères priorisés par un comité de patients partenaires. Les critères secondaires incluent la compréhension des points clés et l'intention de participer à une étude similaire, avec des analyses selon l'âge, le pays, la langue, le niveau d'études et la littératie numérique.\n\nL'étude, promue par le Lady Davis Institute (Montréal), est de nature méthodologique : elle ne teste pas de traitement.",
+ "interet": "Elle peut aider les équipes de recherche et les associations de patients à choisir le format de restitution des résultats le mieux adapté, y compris en maladie rare.",
+ "profil": "Des adultes atteints de sclérodermie systémique, inscrits dans la cohorte SPIN ou recrutés en externe.",
+ "inclusion": [
+  "Inscription dans la cohorte SPIN : sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Âge ≥ 18 ans",
+  "Maîtrise de l'anglais ou du français",
+  "Au moins une évaluation SPIN dans l'année écoulée",
+  "Ou inclusion externe avec classification de sclérodermie rapportée par le patient"
+ ],
+ "exclusion": [
+  "Impossibilité d'accéder aux questionnaires ou d'y répondre par internet"
+ ],
+ "bras": [
+  {
+   "nom": "Infographie",
+   "traitement": "Outil de diffusion des résultats sous forme d'infographie"
+  },
+  {
+   "nom": "Résumé en langage clair",
+   "traitement": "Résumé écrit en langage clair (comparateur)"
+  }
+ ],
+ "duree": "Une seule session en ligne d'environ 30 minutes",
+ "critere": "Notes de 0 à 10 sur l'exhaustivité, la compréhensibilité et la facilité d'utilisation de l'outil, environ 30 minutes après la randomisation."
+}

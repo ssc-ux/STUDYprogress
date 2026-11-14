@@ -1,0 +1,25 @@
+{
+ "h": "e5ff414d8a53",
+ "date": "2026-11-14",
+ "titre": "ReAL : registre de l'amylose AL",
+ "question": "Peut-on décrire l'histoire naturelle de l'amylose AL en vie réelle et valider des modèles pronostiques et des critères de réponse et de rechute ?",
+ "contexte": "L'amylose AL est une maladie rare due à un clone plasmocytaire produisant des chaînes légères qui forment des dépôts amyloïdes, en particulier dans le cœur, les reins, le foie et le système nerveux. Le diagnostic est souvent tardif et le pronostic dépend de l'atteinte cardiaque. Les traitements dérivés du myélome (bortézomib, daratumumab, melphalan, autogreffe) ont amélioré la survie, mais les patients très avancés restent à haut risque.\n\nLes systèmes pronostiques et les critères de réponse (hématologique et d'organe) ont été établis à partir de séries de centres experts, et leur validation à plus grande échelle et dans des cohortes de vie réelle reste nécessaire. Les critères de rechute, en particulier, manquent de validation.\n\nLe registre ReAL, promu par la Fondation IRCCS Policlinico San Matteo de Pavie, vise à constituer une grande cohorte d'environ 5 000 patients adultes atteints d'amylose AL systémique et naïfs de traitement, avec recueil des données au diagnostic puis au cours du suivi, dont des données rétrospectives pré-traitement. L'objectif est de décrire l'histoire naturelle et de définir et valider des modèles pronostiques et des critères de réponse et de rechute applicables à tout moment de la maladie.",
+ "interet": "Le registre doit fournir une base de données de grande taille pour affiner le pronostic, les critères de réponse et de rechute de l'amylose AL en conditions réelles.",
+ "profil": "Des adultes atteints d'amylose AL systémique, naïfs de traitement, suivis dans des centres participants.",
+ "inclusion": [
+  "Diagnostic d'amylose AL systémique",
+  "Absence de traitement antérieur (données pré-traitement disponibles pour la partie rétrospective)",
+  "Âge d'au moins 18 ans",
+  "Consentement éclairé signé (le consentement donné pour l'usage rétrospectif des données est accepté)",
+  "Suivi prévu ou en cours dans le centre participant"
+ ],
+ "exclusion": [
+  "Amylose non AL",
+  "Traitement antérieur de l'amylose AL"
+ ],
+ "bras": [
+  { "nom": "Cohorte ReAL", "traitement": "Recueil observationnel des données au diagnostic et pendant le suivi, sans traitement imposé" }
+ ],
+ "duree": "Suivi sur plusieurs années (critère principal à 5 ans)",
+ "critere": "Création d'un registre de patients atteints d'amylose AL, sur 5 ans"
+}

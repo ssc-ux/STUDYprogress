@@ -1,0 +1,35 @@
+{
+ "h": "469a39d9bf0f",
+ "date": "2026-11-14",
+ "titre": "Biosimilaires du rituximab dans les vascularites à ANCA, comparés au produit de référence",
+ "question": "Les biosimilaires du rituximab ont-ils la même efficacité et la même tolérance que le produit de référence dans la GPA et la PAM ?",
+ "contexte": "Le rituximab est un traitement de première ligne de la granulomatose avec polyangéite (GPA) et de la polyangéite microscopique (PAM), pour l'induction et le maintien de la rémission. Chez la polyarthrite rhumatoïde, les essais ont montré une efficacité et une tolérance comparables entre biosimilaires et référence, y compris après un changement de produit.\n\nPour les vascularites à ANCA, les données sont rares : deux séries rétrospectives (Corée, Inde) sont rassurantes mais petites. Au Canada, de nombreux financeurs publics et privés imposent pourtant les biosimilaires (Truxima, Ruxience, Riximyo). L'étude BRAVO, menée par le réseau CanVasc et coordonnée par McGill, compare en vie réelle 201 patients traités par produit de référence (depuis 2018) ou par biosimilaire. Les cohortes sont prospective et historique, avec un suivi de 24 mois. Elle regarde aussi les délais d'obtention du remboursement et les infections par le COVID-19.",
+ "interet": "Elle apportera des données comparatives de vie réelle sur les rechutes et les événements indésirables, utiles aux cliniciens et aux décideurs qui imposent le recours aux biosimilaires.",
+ "profil": "Des adultes atteints de GPA ou de PAM traités par rituximab de référence ou biosimilaire.",
+ "inclusion": [
+  "GPA ou PAM",
+  "Cohorte prospective : rituximab (référence ou biosimilaire) débuté dans les 6 mois, en induction ou entretien, ou passage de la référence au biosimilaire",
+  "Cohorte historique : cohorte CanVasc, rituximab débuté après le 1er janvier 2018 et plus de 6 mois avant l'inclusion",
+  "Âge de 18 ans ou plus",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Pas de diagnostic de GPA ou de PAM",
+  "Pas de rituximab en induction ou en entretien",
+  "Dernière cure de rituximab débutée avant le 1er janvier 2018",
+  "Rituximab pour une autre indication",
+  "Impossibilité de donner son consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab de référence",
+   "traitement": "Patients GPA/PAM traités par rituximab de référence (induction ou entretien)"
+  },
+  {
+   "nom": "Rituximab biosimilaire",
+   "traitement": "Patients GPA/PAM traités par biosimilaire (Ruxience, Truxima, Riximyo, etc.)"
+  }
+ ],
+ "duree": "24 mois de suivi",
+ "critere": "Proportion de patients ayant rechuté à 6 mois, et délai jusqu'à la première rechute (jusqu'à 24 mois)."
+}

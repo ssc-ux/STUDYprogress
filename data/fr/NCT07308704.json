@@ -1,0 +1,40 @@
+{
+ "h": "adb9484be12e",
+ "date": "2026-11-14",
+ "titre": "Algorithmes d'IA appliqués à l'échocardiographie : dépistage de cardiomyopathies et d'amylose cardiaque",
+ "question": "Des alertes d'intelligence artificielle sur l'échocardiographie augmentent-elles les examens diagnostiques et raccourcissent-elles le délai de diagnostic de maladies cardiaques ?",
+ "contexte": "Certaines maladies cardiaques sont diagnostiquées tard : cardiomyopathies génétiques, cardiomyopathie hypertrophique, cardiopathie ischémique méconnue, amylose cardiaque. L'amylose à transthyrétine, par exemple, a un traitement spécifique, mais elle est souvent reconnue à un stade avancé.\n\nDes algorithmes d'apprentissage profond appliqués à l'échocardiographie transthoracique peuvent repérer des signes discrets de ces maladies et estimer le risque de progression. Leur effet sur la pratique réelle n'est pas établi.\n\nCette étude de la Mayo Clinic déploie d'abord des algorithmes d'aide à l'interprétation, évalués sur l'utilisabilité pour les cliniciens. Elle conduit ensuite un essai pragmatique en cluster, en stepped-wedge, avec notifications dans le dossier médical dans quatre bras (cardiomyopathie génétique, ischémique, amylose cardiaque, cardiomyopathie hypertrophique). Elle mesure si l'alerte augmente les examens diagnostiques et le nombre de diagnostics posés. Elle n'est pas centrée sur la médecine interne mais concerne le dépistage de l'amylose.",
+ "interet": "Elle évaluera si l'IA appliquée à l'échographie courante améliore le repérage de maladies rares, dont l'amylose cardiaque. Étude américaine à très grande échelle (plus de 10 millions de participants estimés).",
+ "profil": "Des cliniciens et des patients adultes passant une échocardiographie transthoracique dans les sites de la Mayo Clinic, avec score IA à haut risque.",
+ "inclusion": [
+  "Adultes ≥ 18 ans ayant une échocardiographie transthoracique complète dans un site participant",
+  "Analyse IA indiquant un risque élevé (seuil défini lors du développement) pour la maladie du bras concerné",
+  "Cliniciens prescrivant, réalisant ou interprétant l'examen"
+ ],
+ "exclusion": [
+  "Échographie dans les 2 ans précédents dans un site Mayo",
+  "Maladie déjà connue ou explorée selon le bras (cardiomyopathie génétique, coronaropathie, amylose, cardiomyopathie hypertrophique)",
+  "Soins palliatifs ou espérance de vie non cardiaque < 1 an",
+  "Refus d'autorisation de recherche institutionnelle ou de l'État"
+ ],
+ "bras": [
+  {
+   "nom": "Cardiomyopathie génétique",
+   "traitement": "Échographie avec analyse IA et notification"
+  },
+  {
+   "nom": "Cardiomyopathie ischémique",
+   "traitement": "Échographie avec analyse IA et notification"
+  },
+  {
+   "nom": "Amylose cardiaque",
+   "traitement": "Échographie avec analyse IA et notification"
+  },
+  {
+   "nom": "Cardiomyopathie hypertrophique",
+   "traitement": "Échographie avec analyse IA et notification"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Nombre de patients diagnostiqués dans chaque bras (cardiomyopathie génétique confirmée, coronaropathie obstructive, amylose cardiaque, cardiomyopathie hypertrophique), au départ"
+}

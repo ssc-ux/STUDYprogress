@@ -1,0 +1,32 @@
+{
+ "h": "69aaf7590487",
+ "date": "2026-11-14",
+ "titre": "TEP au [18F]FAPI-74 dans les cancers, la fibrose et la sarcoïdose : étude exploratoire",
+ "question": "Quelle est la qualité de visualisation et l'intérêt diagnostique de la TEP au traceur [18F]FAPI-74 dans de multiples maladies tumorales et non tumorales, dont la sarcoïdose ?",
+ "contexte": "La protéine d'activation des fibroblastes (FAP) est fortement exprimée par les fibroblastes associés aux tumeurs ainsi que dans de nombreuses maladies fibrosantes et inflammatoires. Le [18F]FAPI-74 est un traceur TEP marqué au fluor 18 qui se fixe sélectivement sur la FAP et permet de visualiser l'activité fibroblastique.\n\nLes premières études cliniques de ces traceurs ont montré un bon contraste tumeur/bruit de fond et, dans plusieurs tumeurs, une détection supérieure à celle du FDG. Ils pourraient aussi être utiles dans des maladies sans traceur TEP satisfaisant, comme la fibrose hépatique ou pulmonaire, l'endométriose ou la sarcoïdose.\n\nCette étude suisse multicentrique, ouverte et à un seul bras, est exploratoire et descriptive. Environ 770 adultes sont répartis en 17 sous-groupes selon la maladie suspectée ou connue. Chaque participant reçoit une injection intraveineuse unique d'environ 250 MBq de [18F]FAPI-74, puis une TEP-TDM ou TEP-IRM 45 à 60 minutes plus tard. Les images sont comparées à l'imagerie déjà réalisée en pratique courante (TEP au FDG ou au PSMA, TDM, IRM). Le promoteur est un investigateur du CHU de Zurich ; la dose d'irradiation totale est d'environ 7 mSv. Les chercheurs évaluent aussi si l'examen modifie la confiance diagnostique ou la prise en charge.",
+ "interet": "L'étude pourrait préciser dans quelles indications, notamment non oncologiques comme la sarcoïdose, la TEP aux FAPI apporte un bénéfice diagnostique, et orienter les essais de validation futurs.",
+ "profil": "Des adultes ayant un diagnostic établi ou suspecté d'un cancer ou d'une maladie fibrosante ou inflammatoire, dont la sarcoïdose.",
+ "inclusion": [
+  "Consentement écrit signé",
+  "Âge de 18 ans ou plus",
+  "Diagnostic ou récidive établi ou suspecté d'une des maladies listées dans le protocole",
+  "Imagerie de référence disponible (autre TEP, TDM ou IRM) pour comparaison"
+ ],
+ "exclusion": [
+  "Claustrophobie sévère empêchant la TEP",
+  "Incapacité de rester immobile pendant l'examen TEP-IRM",
+  "Grossesse ou allaitement (test non exigé si ménopause de plus de 12 mois ou stérilisation)",
+  "Antécédent d'hypersensibilité à un radiotraceur",
+  "Incapacité de comprendre l'information (barrière de la langue)",
+  "Incapacité de jugement ou de consentement",
+  "Pour la TEP-IRM : implants métalliques ou dispositifs électroniques incompatibles avec l'IRM"
+ ],
+ "bras": [
+  {
+   "nom": "Imagerie TEP au [18F]FAPI-74",
+   "traitement": "Une injection IV d'environ 250 MBq (200 à 300 MBq), puis une TEP-TDM ou TEP-IRM 45 à 60 minutes après"
+  }
+ ],
+ "duree": "Une seule visite d'environ 2 heures, sans suivi",
+ "critere": "Interprétabilité diagnostique et classification de la fixation du [18F]FAPI-74, évaluées lors de l'acquisition et de l'interprétation des images (jour de la visite unique)"
+}

@@ -1,0 +1,35 @@
+{
+ "h": "3278cd647ca2",
+ "date": "2026-11-14",
+ "titre": "NVG-2089, mimétique des immunoglobulines IV, dans le PTI persistant ou chronique",
+ "question": "Le NVG-2089 est-il sûr et permet-il d'augmenter les plaquettes chez des adultes atteints de PTI persistant ou chronique ?",
+ "contexte": "Les immunoglobulines intraveineuses (IgIV) permettent une remontée rapide mais transitoire des plaquettes dans le PTI. Leur usage est limité par les perfusions longues, la disponibilité, les effets indésirables (céphalées, méningite aseptique, thrombose, insuffisance rénale) et leur origine plasmatique.\n\nLe NVG-2089 est un produit en développement par Nuvig Therapeutics, conçu pour reproduire les effets anti-inflammatoires des IgIV en se liant à des récepteurs et en les activant. Le registre ne précise pas sa structure ni son mode d'administration.\n\nCette phase 2 ouverte et monobras inclut 30 adultes de 18 à 80 ans atteints de PTI persistant ou chronique, ayant déjà répondu à au moins un traitement. Elle évalue d'abord les événements indésirables jusqu'à la semaine 20, puis la réponse plaquettaire.",
+ "interet": "Si le NVG-2089 reproduit l'effet des IgIV avec une meilleure tolérance ou une administration plus pratique, il pourrait devenir une alternative aux IgIV. Les données sont encore préliminaires.",
+ "profil": "Des adultes de 18 à 80 ans atteints de PTI primaire persistant ou chronique, avec plaquettes ≤ 50 G/L et réponse antérieure à un traitement.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "PTI primaire persistant (3 à 12 mois) ou chronique (> 12 mois)",
+  "Réponse antérieure à au moins un traitement (≥ 50 G/L et gain ≥ 20 G/L)",
+  "Plaquettes ≤ 50 G/L sur 2 mesures espacées d'au moins 5 jours, saignements nuls ou cutanéo-muqueux mineurs",
+  "Réponse antérieure aux IgIV (doublement en 7 jours) si traitées",
+  "Double contraception efficace jusqu'à 90 jours après la dernière dose"
+ ],
+ "exclusion": [
+  "PTI secondaire (infection, maladie auto-immune, syndrome lymphoprolifératif, médicament)",
+  "Splénectomie antérieure, greffe d'organe",
+  "Cancer (sauf traité à visée curative)",
+  "Infection active non contrôlée, VHB, VHC ou VIH",
+  "QTcF > 450 ms (homme) ou > 470 ms (femme)",
+  "Neutrophiles ≤ 1,5 G/L, hémoglobine < 9 g/dL, transaminases ≥ 2 N, DFGe < 50 mL/min",
+  "IgIV ou transfusion dans les 4 semaines, rituximab dans les 6 mois, anti-FcRn dans les 12 semaines",
+  "Autres anticorps monoclonaux ou traitements Fc concomitants"
+ ],
+ "bras": [
+  {
+   "nom": "NVG-2089",
+   "traitement": "NVG-2089 (dose et schéma non précisés dans le registre)"
+  }
+ ],
+ "duree": "20 semaines de traitement",
+ "critere": "Fréquence, nature et gravité des événements indésirables apparus sous traitement et des événements indésirables graves, de l'inclusion à la semaine 20."
+}

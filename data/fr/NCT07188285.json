@@ -1,0 +1,37 @@
+{
+ "h": "00e73cbb6c75",
+ "date": "2026-11-14",
+ "titre": "Immunophénotypage par cytométrie de masse dans les maladies auto-immunes",
+ "question": "Les sous-populations de cellules immunitaires du sang, mesurées par cytométrie de masse, permettent-elles de distinguer les maladies auto-immunes et d'en suivre l'activité ?",
+ "contexte": "Les maladies auto-immunes systémiques et rhumatismales (lupus, Sjögren, myosites, sclérodermie, vascularites, polyarthrite rhumatoïde, spondylarthrite, rhumatisme psoriasique, goutte) partagent des symptômes et un diagnostic parfois tardif. Les biomarqueurs actuels sont souvent peu spécifiques.\n\nLa cytométrie de masse permet de caractériser en une seule analyse des dizaines de marqueurs sur les lymphocytes T, B, NK et les cellules dendritiques, avec une résolution bien supérieure à la cytométrie classique.\n\nCette étude observationnelle de l'hôpital People's de l'université de Pékin prévoit d'inclure environ 500 adultes, environ 50 par maladie, en poussée et sans biothérapie, ainsi que des témoins sains. Elle cherche à décrire de nouveaux sous-types cellulaires, leur lien avec l'activité de la maladie et à construire un modèle de dépistage et de diagnostic précoces.",
+ "interet": "Si des signatures immunitaires reproductibles sont identifiées, elles pourraient aider au diagnostic précoce et au suivi de l'activité. Il s'agit d'une recherche exploratoire monocentrique.",
+ "profil": "Des adultes de 18 à 70 ans atteints de maladies rhumatismales auto-immunes actives, et des témoins sains.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Diagnostic selon les critères de classification propres à chaque maladie",
+  "Maladie active selon l'indice d'activité de chaque maladie",
+  "Corticoïdes ≤ 1 mg/kg/j d'équivalent prednisone ; DMARDs conventionnels autorisés",
+  "Consentement écrit et respect du suivi"
+ ],
+ "exclusion": [
+  "Immunoglobulines IV ou cyclophosphamide < 1,2 mois, autres biothérapies < 3 mois, rituximab < 6 mois",
+  "Corticothérapie à forte dose (> 1 mg/kg/j) récente",
+  "Insuffisance cardiaque NYHA ≥ III, clairance < 30 mL/min, atteinte hépatique",
+  "Autre maladie grave ou non contrôlée (dont maladie démyélinisante)",
+  "Infection grave récente (dont tuberculose, EBV) ou hospitalisation pour infection",
+  "Cancer ou infection active sur l'imagerie thoracique",
+  "VIH ou hépatite C"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de maladies auto-immunes actives",
+   "traitement": "Prélèvement sanguin analysé par cytométrie de masse (environ 50 patients par maladie)"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvement sanguin analysé par cytométrie de masse"
+  }
+ ],
+ "duree": "Environ 1 an",
+ "critere": "Proportion des sous-populations de cellules immunitaires du sang, jusqu'à la fin de l'étude (en moyenne 1 an)."
+}

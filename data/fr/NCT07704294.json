@@ -1,0 +1,25 @@
+{
+ "h": "83e2fbb7651c",
+ "date": "2026-11-14",
+ "titre": "Prédire l'évolution après une névrite optique : outil pronostique intégrant la génétique",
+ "question": "Des données génétiques associées aux données cliniques améliorent-elles la prédiction d'un diagnostic ultérieur de sclérose en plaques après une première névrite optique ?",
+ "contexte": "La névrite optique est souvent le premier signe d'une sclérose en plaques (SEP), mais elle peut aussi révéler une neuromyélite optique (NMOSD), une maladie associée aux anticorps anti-MOG ou, plus rarement, une sarcoïdose. Le risque de SEP après une première névrite optique varie beaucoup d'un patient à l'autre.\n\nLes éléments actuellement utilisés pour estimer ce risque sont l'IRM cérébrale, les anticorps sériques et le tableau clinique. Ils laissent une part d'incertitude, alors que le diagnostic précoce de SEP permet d'instaurer plus tôt un traitement de fond. Des variants génétiques de susceptibilité à la SEP sont connus et pourraient affiner la prédiction.\n\nCette étude observationnelle britannique, menée dans trois hôpitaux londoniens, revoit rétrospectivement les dossiers de patients ayant eu une première névrite optique. Les participants peuvent donner un échantillon de salive pour analyse génétique et remplir des questionnaires sur leur mode de vie, leur qualité de vie et leur point de vue sur la prédiction génétique. Leur évolution est suivie via les données du système de santé britannique. L'étude évalue aussi l'acceptabilité de ce type d'outil pronostique, la prise en charge reçue et l'utilisation des soins.",
+ "interet": "Si la génétique améliore la prédiction, elle pourrait aider à identifier précocement les patients à haut risque de SEP et à mieux orienter le suivi. L'étude renseigne aussi sur l'acceptabilité par les patients d'un score de risque génétique.",
+ "profil": "Des adultes et adolescents de 16 ans et plus ayant eu un premier épisode de névrite optique.",
+ "inclusion": [
+  "Âge de 16 ans ou plus au moment du consentement",
+  "Épisode antérieur de névrite optique diagnostiqué dans l'un des sites participants"
+ ],
+ "exclusion": [
+  "Données du premier épisode de névrite optique indisponibles dans le dossier médical du site",
+  "Âge inférieur à 16 ans au moment du recrutement"
+ ],
+ "bras": [
+  {
+   "nom": "Participants ayant eu une névrite optique",
+   "traitement": "Revue rétrospective du dossier, questionnaires, prélèvement de salive facultatif pour analyse génétique, suivi prospectif à long terme si consentement"
+  }
+ ],
+ "duree": "Période d'étude de 12 mois ; suivi à plus long terme possible via les dossiers de santé",
+ "critere": "Survenue d'un diagnostic de sclérose en plaques après une première névrite optique, relevée dans le dossier et revue avant la fin de l'étude (période de 12 mois)"
+}

@@ -1,0 +1,28 @@
+{
+ "h": "cf593f79c3d2",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes T anti-EBV du donneur après allogreffe, chez une patiente ayant un lymphome EBV+",
+ "question": "Des lymphocytes T spécifiques de l'EBV issus du donneur sont-ils sûrs, sans induire de GVHD, après allogreffe pour un lymphome EBV+ ?",
+ "contexte": "Les maladies lymphoprolifératives associées à l'EBV, dont les lymphomes T EBV+ et le syndrome d'activation macrophagique (hémophagocytose), sont rares, souvent sévères et de pronostic réservé. Elles peuvent survenir après une primo-infection EBV et nécessiter une chimiothérapie intensive suivie d'une allogreffe de cellules souches.\n\nAprès allogreffe, une réactivation de l'EBV ou un contrôle immunitaire insuffisant exposent à une rechute ou à des complications. Les lymphocytes T spécifiques de l'EBV, expansés ex vivo à partir du donneur, ont été utilisés pour restaurer une immunité antivirale ciblée.\n\nCet essai concerne une seule patiente de 19 ans, traitée par chimiothérapie SMILE puis allogreffe myéloablative HLA-identique (cyclophosphamide, irradiation corporelle totale 12 Gy, sérum antilymphocytaire). La patiente a présenté une GVHD digestive sévère précoce. Une lignée T anti-EBV a été produite à partir d'une partie du greffon cryopréservé du donneur, séropositif pour l'EBV.\n\nUne première dose de 20 × 10⁶ lymphocytes T/m² a été administrée 5 mois après la greffe. Promoteur : CIUSSS de l'Est-de-l'Île-de-Montréal. L'étude a un objectif de sécurité, centré sur l'absence de GVHD induite.",
+ "interet": "Il s'agit d'un usage compassionnel documenté d'une immunothérapie cellulaire à partir du donneur ; l'effectif d'un seul patient limite toute généralisation.",
+ "profil": "Une jeune adulte ayant un lymphome T EBV+ avec syndrome hémophagocytaire, greffée de cellules souches allogéniques.",
+ "inclusion": [
+  "Capacité à donner son consentement",
+  "Âge ≥ 18 ans",
+  "Test de grossesse sérique négatif et contraception efficace"
+ ],
+ "exclusion": [
+  "Anticorps déplétant les lymphocytes T (ATG, OKT3, Campath) dans les 28 jours",
+  "Grossesse",
+  "Anomalie clinique ou biologique pouvant fausser l'étude, selon l'investigateur",
+  "GVHD active non contrôlée (aiguë de grade II-IV ou chronique extensive progressive)"
+ ],
+ "bras": [
+  {
+   "nom": "Patiente unique",
+   "traitement": "Lymphocytes T spécifiques de l'EBV issus du donneur, 20 × 10⁶/m² (première dose)"
+  }
+ ],
+ "duree": "1 an de suivi",
+ "critere": "Sécurité : absence de GVHD attribuable à la lignée de lymphocytes T anti-EBV, évaluée cliniquement à 1 an."
+}

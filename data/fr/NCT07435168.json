@@ -1,0 +1,24 @@
+{
+ "h": "414bb0ee7ab4",
+ "date": "2026-11-14",
+ "titre": "Prévalence de l'amylose cardiaque chez les hommes de plus de 65 ans avec douleur thoracique (CHEST-CA)",
+ "question": "Quelle est la prévalence de l'amylose cardiaque à transthyrétine chez des hommes de plus de 65 ans ayant des douleurs thoraciques sans coronaropathie ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CA) est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée, de rétrécissement aortique et de troubles de conduction. Elle touche surtout l'homme âgé. Depuis la scintigraphie osseuse et l'arrivée de traitements spécifiques comme le tafamidis, un diagnostic précoce a un intérêt thérapeutique.\n\nLes douleurs thoraciques sont fréquentes chez les patients ayant une amylose, par ischémie microvasculaire ou infiltration, mais l'ATTR-CA est rarement recherchée devant une douleur thoracique avec coronaires normales. Cette étude observationnelle prospective monocentrique, menée à l'hôpital universitaire de Copenhague (Rigshospitalet), propose à 300 hommes de plus de 65 ans, sans coronaropathie sur coroscanner ou TEP au rubidium, un bilan comprenant analyses sanguines et urinaires, ECG, échocardiographie et scintigraphie osseuse, avec biopsie endomyocardique si nécessaire.",
+ "interet": "Elle estimera la fréquence d'une ATTR-CA masquée chez les patients ayant une douleur thoracique non coronarienne, et pourrait justifier un dépistage dans ce contexte.",
+ "profil": "Des hommes de plus de 65 ans ayant des douleurs thoraciques sans coronaropathie.",
+ "inclusion": [
+  "Homme de 65 ans ou plus avec douleur thoracique",
+  "Absence de coronaropathie sur TEP au rubidium et/ou coroscanner"
+ ],
+ "exclusion": [
+  "Antécédent d'amylose"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe dépistage",
+   "traitement": "Bilan comprenant analyses, ECG, échocardiographie et scintigraphie osseuse, biopsie endomyocardique si besoin"
+  }
+ ],
+ "duree": "Environ 4 semaines",
+ "critere": "Prévalence de l'ATTR-CA chez les patients ayant des douleurs thoraciques, jusqu'à 4 semaines."
+}

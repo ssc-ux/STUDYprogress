@@ -1,0 +1,36 @@
+{
+ "h": "07732e24fb0e",
+ "date": "2026-11-14",
+ "titre": "Modèle d'IA pronostique après revascularisation coronaire chez les patients avec PTI",
+ "question": "Un modèle d'intelligence artificielle peut-il prédire les événements cardiovasculaires majeurs après revascularisation chez les patients atteints de PTI et de maladie coronaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) expose à un risque hémorragique, mais les patients peuvent aussi développer une maladie coronaire. La prise en charge de celle-ci est délicate : les antiagrégants plaquettaires et les anticoagulants utilisés après angioplastie ou pontage augmentent le risque de saignement lorsque les plaquettes sont basses, alors que l'abstention expose à un risque ischémique. Les recommandations ne donnent pas de conduite claire pour cette population rare, et les séries publiées sont petites.\n\nCette étude observationnelle multicentrique, promue par un investigateur chinois (Xiao Hui Zhang), comporte deux cohortes. Une cohorte rétrospective sert à identifier des prédicteurs et à entraîner un modèle d'IA pronostique des événements cardiovasculaires majeurs (MACE). Une cohorte prospective, incluse consécutivement, permet ensuite de valider ses performances. Dans chaque cohorte, les patients sont classés selon la prise en charge réelle : revascularisation (angioplastie ou pontage) ou traitement médical seul.",
+ "interet": "Si le modèle est validé, il pourrait aider à décider de la revascularisation et à adapter le traitement antithrombotique chez des patients PTI à haut risque. Il permettra aussi de comparer le risque de MACE entre revascularisation et traitement médical.",
+ "profil": "Des adultes ayant un PTI primaire diagnostiqué avant une maladie coronaire confirmée par coronarographie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire selon les critères du groupe de travail international",
+  "Maladie coronaire (angor stable ou syndrome coronarien aigu) confirmée par coronarographie",
+  "PTI diagnostiqué avant la maladie coronaire",
+  "Consentement possible (pour l'inclusion prospective)"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (médicaments, hémopathie, hypersplénisme, hépatopathie)",
+  "Anticoagulation au long cours nécessaire (fibrillation atriale, valve mécanique)",
+  "Espérance de vie < 1 an pour une cause non cardiovasculaire",
+  "Impossibilité de suivi ou de consentement",
+  "Grossesse ou allaitement",
+  "Infarctus de type 2 avant la décision de traitement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe revascularisation",
+   "traitement": "Angioplastie ou pontage coronaire selon la pratique courante"
+  },
+  {
+   "nom": "Groupe traitement médical",
+   "traitement": "Traitement médical conforme aux recommandations, sans revascularisation"
+  }
+ ],
+ "duree": "Suivi jusqu'à 1 an après le diagnostic de maladie coronaire",
+ "critere": "Incidence des événements cardiovasculaires majeurs (MACE) à 1 mois et à 1 an après la date du diagnostic coronarien."
+}

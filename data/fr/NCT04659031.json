@@ -1,0 +1,33 @@
+{
+ "h": "211e4c6c9e4d",
+ "date": "2026-11-14",
+ "titre": "ABC008 à doses croissantes dans la myosite à inclusions",
+ "question": "L'ABC008 est-il bien toléré, à dose unique puis à doses répétées, chez des adultes atteints de myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est la myopathie inflammatoire la plus fréquente après 50 ans. Elle associe une faiblesse progressive des fléchisseurs des doigts et des quadriceps, avec des troubles de la déglutition. Elle ne répond pas aux corticoïdes ni aux immunosuppresseurs classiques et aucun traitement de fond n'est validé, la prise en charge reposant sur la rééducation.\n\nLes biopsies musculaires montrent des lymphocytes T CD8+ cytotoxiques très différenciés, dits KLRG1+, qui semblent résistants aux traitements immunosuppresseurs habituels. L'ABC008 (anticorps ciblant KLRG1, développé par Abcuro) vise à les éliminer sélectivement.\n\nCet essai de phase 1 ouvert comporte trois parties : une dose unique croissante (SAD), des doses multiples toutes les 8 semaines (MAD) puis une extension jusqu'à environ 80 semaines. Il cherche d'abord à évaluer la sécurité et la tolérance, avant les essais de phase 2-3.",
+ "interet": "L'étude fournit les premières données de sécurité d'un anticorps ciblant les lymphocytes T cytotoxiques dans l'IBM. Elle prépare les essais d'efficacité dans une maladie sans traitement établi.",
+ "profil": "Des adultes de 40 ans et plus atteints de myosite à inclusions, capables de se lever d'une chaise et de marcher au moins 6 mètres.",
+ "inclusion": [
+  "Âge de 40 ans ou plus",
+  "IBM définie par les critères ENMC 2011 (clinico-pathologique, clinique ou probable)",
+  "Capacité à se lever d'une chaise sans aide d'une personne ou d'un appareil",
+  "Capacité à marcher au moins 6 mètres, avec ou sans aide technique"
+ ],
+ "exclusion": [
+  "Prednisolone > 7,5 mg/j ou équivalent dans les 3 derniers mois",
+  "IgIV ou autre immunosuppresseur dans les 3 derniers mois",
+  "Corticoïdes locaux étendus ou inadaptés à la sévérité de la maladie (les corticoïdes topiques, nasaux, oculaires et les infiltrations locales sont permis)",
+  "Autres critères d'exclusion : non précisés dans la version résumée du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Cohortes à dose unique (D1 à D5, 6)",
+   "traitement": "ABC008 en dose unique croissante : 0,1, 0,5, 2,0 et 5,0 mg/kg, puis dose à définir ; cohorte 6 à 2,0 mg/kg"
+  },
+  {
+   "nom": "Cohortes à doses multiples (MAD 1 à 3)",
+   "traitement": "ABC008 toutes les 8 semaines : 0,1, 0,5 puis 2,0 mg/kg, avec extension jusqu'à environ 80 semaines"
+  }
+ ],
+ "duree": "Environ 28 semaines (dose unique) ou 52 semaines (doses multiples), plus extension possible d'environ 80 semaines",
+ "critere": "Sécurité et tolérance de l'ABC008, jusqu'à la fin de l'étude (environ 28 semaines en dose unique, 52 semaines en doses multiples)"
+}

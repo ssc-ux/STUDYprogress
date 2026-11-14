@@ -1,0 +1,32 @@
+{
+ "h": "17aba58a6814",
+ "date": "2026-11-14",
+ "titre": "Halopéridol à domicile après passage aux urgences pour syndrome d'hyperémèse cannabinoïde",
+ "question": "Disposer d'halopéridol oral à domicile réduit-il les retours aux urgences après un syndrome d'hyperémèse cannabinoïde ?",
+ "contexte": "Le syndrome d'hyperémèse cannabinoïde associe nausées, vomissements cycliques et douleurs abdominales chez des consommateurs fréquents de cannabis. Un soulagement transitoire par les douches ou bains chauds est un signe évocateur. Il est de plus en plus fréquent, parallèlement à l'augmentation de la teneur en THC des produits.\n\nLa seule mesure vraiment curative est l'arrêt du cannabis, et les récidives sont fréquentes. Aux urgences, les antiémétiques classiques comme l'ondansétron sont souvent peu efficaces. Les antagonistes dopaminergiques, halopéridol et dropéridol, semblent les plus efficaces et ont été utilisés en sécurité aux urgences et à l'hôpital pour réduire nausées, vomissements et douleurs.\n\nCette étude de phase 1 monocentrique de l'Université de l'Illinois à Chicago évalue une approche ambulatoire : les patients sortants des urgences reçoivent une ordonnance d'halopéridol oral à prendre à la demande à domicile. Environ 100 adultes sont inclus dans un seul bras, sans comparateur. Le but est de voir si cette disponibilité du médicament limite les retours aux urgences pour symptômes persistants ou récidivants dans le mois suivant.",
+ "interet": "Si le taux de retour aux urgences est bas, l'étude soutiendrait un essai comparatif de l'halopéridol oral à domicile dans cette situation fréquente aux urgences.",
+ "profil": "Des adultes consultant aux urgences pour un syndrome d'hyperémèse cannabinoïde et pouvant rentrer à domicile.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Motif principal : nausées, vomissements et/ou douleurs abdominales aiguës ou épisodiques",
+  "Consommation fréquente de cannabis déclarée",
+  "Au moins 2 critères : épisodes cycliques de vomissements sévères, soulagement par douches ou bains chauds, début ou aggravation après consommation de cannabis"
+ ],
+ "exclusion": [
+  "Imagerie ou biologie évoquant une autre cause",
+  "Traitement agoniste ou antagoniste dopaminergique pour une autre indication",
+  "Maladie de Parkinson ou démence à corps de Lewy",
+  "QTc supérieur à 450 ms chez l'homme ou 460 ms chez la femme",
+  "Allergie à l'halopéridol ou prolactinome fonctionnel connu",
+  "Grossesse ou allaitement",
+  "Personne incarcérée ou incapable de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Halopéridol",
+   "traitement": "Ordonnance d'halopéridol oral à prendre à la demande à domicile (posologie non précisée)"
+  }
+ ],
+ "duree": "1 mois de suivi",
+ "critere": "Taux de retour aux urgences dans le mois suivant la sortie"
+}

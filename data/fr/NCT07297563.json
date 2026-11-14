@@ -1,0 +1,39 @@
+{
+ "h": "f0bb3a802b63",
+ "date": "2026-11-14",
+ "titre": "Daratumumab contre rituximab dans le PTI primaire en rechute après corticoïdes",
+ "question": "Le daratumumab (anti-CD38) obtient-il plus de réponses plaquettaires à 12 semaines que le rituximab chez des adultes ayant un PTI en échec des corticoïdes ?",
+ "contexte": "Le PTI est une thrombopénie auto-immune par destruction accrue des plaquettes et production médullaire insuffisante. Les corticoïdes et les immunoglobulines sont le traitement de première ligne, puis viennent les agonistes du récepteur de la thrombopoïétine, le rituximab, la splénectomie et d'autres immunosuppresseurs. Une proportion importante de patients rechute ou reste dépendante d'un traitement d'entretien.\n\nLe rituximab élimine les lymphocytes B, mais ne touche pas les plasmocytes à longue durée de vie qui continuent de produire les auto-anticorps. Des plasmocytes antiplaquettes ont été retrouvés dans la rate de patients réfractaires au rituximab. L'anti-CD38 daratumumab cible ces plasmocytes, et des cas traités ont montré une efficacité et une tolérance encourageantes.\n\nCette étude de phase 2 randomisée, ouverte, de l'Institute of Hematology & Blood Diseases Hospital (Chine), compare chez 160 adultes le daratumumab 16 mg/kg hebdomadaire pendant 8 semaines au rituximab 375 mg/m² en dose unique.",
+ "interet": "Elle teste une stratégie ciblant les plasmocytes face à un comparateur établi. Ouverte et monocentrique ou chinoise, ses résultats devront être confirmés.",
+ "profil": "Des adultes ayant un PTI primaire depuis au moins 3 mois, en échec des corticoïdes, avec plaquettes < 30 G/L.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI primaire depuis ≥ 3 mois",
+  "Échec des corticoïdes (inefficacité, perte de réponse ou rechute), avec réponse antérieure (plaquettes ≥ 50 G/L) au traitement de première ligne",
+  "Plaquettes < 30 G/L et jamais > 35 G/L au dépistage",
+  "ECOG ≤ 2",
+  "Un seul traitement de fond stable permis (corticoïdes ≤ 0,5 mg/kg ou agoniste du récepteur de la TPO)",
+  "Contraception efficace"
+ ],
+ "exclusion": [
+  "Antécédent d'anti-CD20 ou d'anti-CD38",
+  "AHAI ou thrombopénie secondaire",
+  "Thrombose, embolie ou hémorragie majeure dans les 12 mois",
+  "Splénectomie < 6 mois, immunosuppresseurs récents, vaccin vivant < 4 semaines",
+  "SMD, cancer dans les 5 ans, greffe allogénique ou d'organe",
+  "Infection chronique ou récurrente sévère, hépatite B/C, VIH, syphilis",
+  "Anomalies biologiques (transaminases > 3 × LSN, PNN < 1500/mm³, Hb < 9 g/dL, IgG < 500 mg/dL, ClCr < 30 mL/min)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab",
+   "traitement": "375 mg/m² en dose unique"
+  },
+  {
+   "nom": "Daratumumab",
+   "traitement": "16 mg/kg une fois par semaine, 8 administrations"
+  }
+ ],
+ "duree": "Non précisé (critère évalué à 12 semaines)",
+ "critere": "Taux de réponse globale à la semaine 12"
+}

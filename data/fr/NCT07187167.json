@@ -1,0 +1,32 @@
+{
+ "h": "9a20da449e9c",
+ "date": "2026-11-14",
+ "titre": "Lénalidomide et dexaméthasone dans la maladie de Rosai-Dorfman",
+ "question": "L'association lénalidomide-dexaméthasone est-elle efficace et sûre dans la maladie de Rosai-Dorfman de l'adulte ?",
+ "contexte": "La maladie de Rosai-Dorfman est une histiocytose non langerhansienne rare, caractérisée par une accumulation d'histiocytes, souvent avec des adénopathies, parfois des atteintes extraganglionnaires. Il n'existe pas de traitement standard : on utilise corticoïdes, chimiothérapies ou, plus récemment, inhibiteurs de MEK lorsque la voie MAPK est activée.\n\nLe lénalidomide, immunomodulateur, a montré une activité dans plusieurs histiocytoses sur de petites séries. Associé à la dexaméthasone, il pourrait contrôler la maladie par voie orale chez des patients naïfs ou en rechute.\n\nCette étude de phase 2 monobras, promue par le Cancer Institute and Hospital de l'Académie chinoise des sciences médicales, inclut 40 adultes. Le schéma est de 12 cycles de 28 jours (lénalidomide 25 mg J1-21, dexaméthasone 40 mg J1, 8, 15 et 22). Le critère principal est la survie sans progression.",
+ "interet": "L'étude pourrait fournir des données prospectives sur une option orale dans une maladie très rare sans traitement de référence. Le critère principal est évalué à 8 semaines.",
+ "profil": "Des adultes de 18 à 80 ans atteints de maladie de Rosai-Dorfman, naïfs de traitement ou en rechute/réfractaires.",
+ "inclusion": [
+  "Maladie de Rosai-Dorfman confirmée, adulte de 18 à 80 ans",
+  "Patient naïf de traitement ou en rechute/réfractaire",
+  "ECOG ≤ 2",
+  "Patient jugé apte au protocole par le clinicien",
+  "Consentement écrit du patient ou de sa famille"
+ ],
+ "exclusion": [
+  "Chirurgie majeure ou radiothérapie dans les 4 semaines",
+  "Infarctus du myocarde dans l'année, insuffisance cardiaque NYHA 3-4",
+  "Grossesse ou allaitement, contraception impossible",
+  "Créatinine ≥ 176,8 µmol/L, transaminases ou bilirubine > 2 N",
+  "PNN < 1 G/L ou plaquettes < 50 G/L",
+  "Patient ne comprenant pas l'étude ou jugé inapte par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de Rosai-Dorfman",
+   "traitement": "Lénalidomide 25 mg J1-21 et dexaméthasone 40 mg J1, 8, 15, 22, cycles de 28 jours, 12 cycles"
+  }
+ ],
+ "duree": "12 cycles de 28 jours (environ 48 semaines)",
+ "critere": "Survie sans progression, de l'inclusion à la fin du traitement à 8 semaines."
+}

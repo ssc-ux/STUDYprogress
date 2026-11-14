@@ -1,0 +1,26 @@
+{
+ "h": "418bd06d98fe",
+ "date": "2026-11-14",
+ "titre": "Takhzyro (lanadélumab) dans l'angioedème héréditaire en pratique courante en Corée du Sud",
+ "question": "Quelle est la tolérance du Takhzyro dans l'angioedème héréditaire en pratique courante en Corée du Sud ?",
+ "contexte": "L'angioedème héréditaire (AOH) est une maladie rare caractérisée par des crises d'oedème sous-cutané ou muqueux, touchant l'abdomen, les voies aériennes supérieures ou les organes génitaux, avec un risque vital en cas d'atteinte laryngée. Il est médié par la bradykinine, le plus souvent par un déficit en inhibiteur de la C1 estérase. En prévention au long cours, les recommandations privilégient désormais le lanadélumab (Takhzyro), anticorps anti-kallicréine plasmatique, le bérotralstat ou l'inhibiteur de la C1 estérase.\n\nLe Takhzyro est autorisé en Corée du Sud. Cette étude de Takeda est observationnelle, sans intervention, et vise à documenter sa sécurité et son efficacité en pratique réelle chez 35 patients de 12 ans et plus, dans 3 centres. Les traitements et les visites sont décidés par les médecins traitants. Les données rétrospectives et prospectives sont recueillies pendant jusqu'à 6 ans, ce qui répond probablement à une exigence de surveillance post-commercialisation.",
+ "interet": "Elle apportera des données de sécurité en vie réelle dans une population asiatique, utiles pour la surveillance post-commercialisation.",
+ "profil": "Des adolescents et adultes (≥ 12 ans) atteints d'AOH traités par Takhzyro en pratique courante en Corée du Sud.",
+ "inclusion": [
+  "Âge ≥ 12 ans au début du Takhzyro",
+  "Traitement par Takhzyro conforme à l'AMM sud-coréenne, en cours ou à venir",
+  "Accord du patient ou de son représentant légal"
+ ],
+ "exclusion": [
+  "Contre-indication mentionnée dans la notice du Takhzyro",
+  "Participation en cours à un essai interventionnel"
+ ],
+ "bras": [
+  {
+   "nom": "Tous les participants",
+   "traitement": "Takhzyro selon la pratique courante ; aucune intervention imposée par l'étude"
+  }
+ ],
+ "duree": "Jusqu'à 6 ans de recueil de données (critère principal à environ 12 mois)",
+ "critere": "Nombre de participants avec événements indésirables et événements indésirables graves, attendus ou non, et effets indésirables du médicament, jusqu'à environ 12 mois."
+}

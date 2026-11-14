@@ -1,0 +1,35 @@
+{
+ "h": "e6749e063263",
+ "date": "2026-11-14",
+ "titre": "Povetacicept dans les cytopénies auto-immunes (PTI, AHAI à anticorps chauds, maladie des agglutinines froides)",
+ "question": "Le povetacicept est-il sûr et potentiellement efficace chez des adultes atteints de cytopénies auto-immunes réfractaires ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI), l'anémie hémolytique auto-immune à anticorps chauds (AHAI) et la maladie des agglutinines froides (MAF) sont des cytopénies auto-immunes. Après échec des corticoïdes, du rituximab et des agonistes du récepteur de la TPO, les options sont limitées et la maladie peut rester invalidante.\n\nLe povetacicept (ALPN-303) est une protéine de fusion inhibant à la fois BAFF et APRIL, deux cytokines qui soutiennent les lymphocytes B et plasmocytes producteurs d'auto-anticorps. L'étude RUBY-4 est un essai de phase 1/2 ouvert, non randomisé, mené par Alpine Immune Sciences (Vertex). La partie 1 utilise 240 mg environ toutes les 4 semaines pendant 6 mois, dans 3 cohortes selon la maladie ; la partie 2 teste un ou deux niveaux de dose, avec une prolongation possible de 6 mois. L'étude a inclus 30 patients dans 44 centres de 10 pays.",
+ "interet": "Une réponse hématologique encouragerait des essais de phase 2/3 dans ces trois maladies. L'étude vise d'abord à vérifier la tolérance de cet inhibiteur double BAFF/APRIL.",
+ "profil": "Des adultes atteints de PTI, d'AHAI à anticorps chauds ou de MAF, en échec de traitements antérieurs.",
+ "inclusion": [
+  "PTI primaire persistant ou chronique depuis plus de 12 semaines, ≥ 2 traitements en échec, plaquettes < 30 G/L dans l'histoire",
+  "AHAI à anticorps chauds primaire, test de Coombs positif, hémoglobine ≤ 10 g/dL avec signes d'hémolyse, ≥ 2 traitements en échec",
+  "MAF primaire, hémolyse chronique, agglutinines froides ≥ 64 à 4 °C, hémoglobine ≤ 10 g/dL, ≥ 1 traitement en échec",
+  "Traitements de fond à dose stable"
+ ],
+ "exclusion": [
+  "PTI, AHAI ou MAF secondaires",
+  "Rituximab dans les 12 semaines, IgIV dans les 4 semaines",
+  "Sutimlimab après le début du dépistage",
+  "Échanges plasmatiques dans les 8 semaines, transfusion dans les 2 semaines, splénectomie dans les 12 semaines",
+  "Autres immunomodulateurs ou agents expérimentaux (délai de 5 demi-vies)",
+  "Infection grave récente ou en cours, ou risque élevé d'infection grave"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1, povetacicept 240 mg",
+   "traitement": "Povetacicept 240 mg environ toutes les 4 semaines, 3 cohortes selon la maladie"
+  },
+  {
+   "nom": "Partie 2, dose A",
+   "traitement": "Povetacicept à un ou deux niveaux de dose (randomisation si deux), choisis selon la partie 1"
+  }
+ ],
+ "duree": "6 mois de traitement, avec prolongation possible de 6 mois",
+ "critere": "Tolérance : événements indésirables et événements indésirables graves, du jour 1 à 30 jours après la dernière dose."
+}

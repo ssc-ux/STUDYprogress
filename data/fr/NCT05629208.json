@@ -1,0 +1,36 @@
+{
+ "h": "383f61654d9c",
+ "date": "2026-11-14",
+ "titre": "Edecesertib contre placebo dans le lupus cutané",
+ "question": "L'edecesertib réduit-il l'activité du lupus cutané après 12 semaines par rapport au placebo ?",
+ "contexte": "Le lupus érythémateux cutané (LEC) peut exister seul ou au cours d'un lupus systémique. Les traitements de première ligne sont les dermocorticoïdes, les inhibiteurs de calcineurine topiques et l'hydroxychloroquine, avec d'autres immunosuppresseurs en cas d'échec. Une partie des patients reste en échec, avec un retentissement cutané et esthétique important.\n\nL'edecesertib (GS-5718) est un inhibiteur oral de IRAK4, kinase centrale de la signalisation des récepteurs Toll-like et de l'IL-1, voies impliquées dans l'inflammation du lupus. Cette étude de phase 2a de preuve de concept, randomisée en double aveugle contre placebo, teste 30 mg par jour pendant 12 semaines. Le promoteur est Gilead. L'étude a été arrêtée prématurément (20 patients inclus) ; aucun résultat n'est publié sur le registre.",
+ "interet": "Si l'inhibition d'IRAK4 montrait un effet sur le CLASI-A, elle ouvrirait une voie orale ciblée pour les lupus cutanés réfractaires aux traitements usuels. L'arrêt précoce limite toutefois la portée de l'étude.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus cutané actif, en échec ou intolérants aux traitements usuels.",
+ "inclusion": [
+  "Lupus systémique (critères EULAR/ACR 2019) et/ou LEC confirmé par biopsie",
+  "LEC actif, CLASI-A (hors alopécie) ≥ 8 et érythème ≥ 4",
+  "SLEDAI-2K ≥ 4 si lupus systémique",
+  "Lésion accessible à une biopsie cutanée, 2 biopsies acceptées",
+  "Échec ou intolérance aux dermocorticoïdes, corticoïdes oraux ou autres traitements non biologiques"
+ ],
+ "exclusion": [
+  "Seulement engelures lupiques, panniculite, lupus tumidus ou LEC aigu localisé à une zone",
+  "Lupus systémique très actif (néphrite, atteinte neuropsychiatrique, vascularite)",
+  "Autre dermatose gênant l'évaluation (psoriasis, lupus médicamenteux)",
+  "Infection active significative",
+  "Maladie hépatique significative",
+  "Maladie cardiovasculaire significative"
+ ],
+ "bras": [
+  {
+   "nom": "Edecesertib",
+   "traitement": "Edecesertib 30 mg par jour, jusqu'à 12 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, une fois par jour, jusqu'à 12 semaines"
+  }
+ ],
+ "duree": "Jusqu'à 12 semaines de traitement",
+ "critere": "Variation en pourcentage du score CLASI-A entre l'inclusion et la semaine 12."
+}

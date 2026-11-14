@@ -1,0 +1,33 @@
+{
+ "h": "c2cb51bc285c",
+ "date": "2026-11-14",
+ "titre": "Flotétuzumab en monothérapie dans les hémopathies malignes avancées CD123+",
+ "question": "Quelle est la dose maximale tolérée et la sécurité du flotétuzumab seul dans les hémopathies malignes CD123+ en rechute ou réfractaires ?",
+ "contexte": "Les hémopathies malignes en rechute ou réfractaires, comme la leucémie aiguë lymphoblastique (LAL), la leucémie à tricholeucocytes, la mastocytose systémique, la néoplasie à cellules dendritiques plasmocytoïdes (BPDCN) ou le lymphome de Hodgkin, ont un pronostic sombre après échec des traitements standards. Beaucoup expriment CD123, la chaîne alpha du récepteur de l'IL-3.\n\nLe flotétuzumab est un anticorps bispécifique de type DART qui lie CD123 sur les cellules tumorales et CD3 sur les lymphocytes T, pour les recruter contre la tumeur. Il a surtout été étudié dans la leucémie aiguë myéloïde réfractaire. Cette étude de phase 1 monocentrique, menée à City of Hope avec le soutien du NCI, l'évalue dans d'autres hémopathies CD123+, hors LAM et SMD.\n\nLe flotétuzumab est administré par perfusion intraveineuse continue pendant 28 jours par cycle, avec une prémédication par paracétamol ou ibuprofène, antihistaminique, anti-H2 et dexaméthasone pour limiter le syndrome de relargage de cytokines. L'étude comporte une cohorte de LAL (A) et une cohorte d'autres hémopathies (B).",
+ "interet": "L'étude définit la dose recommandée et la tolérance du flotétuzumab hors leucémie aiguë myéloïde. Elle sert de base à d'éventuels essais d'efficacité dans des maladies rares sans option établie.",
+ "profil": "Des patients de 12 ans et plus ayant une hémopathie maligne CD123+ en rechute ou réfractaire après les traitements standards.",
+ "inclusion": [
+  "Cohorte A : LAL B (au moins 2 lignes, échec ou inéligibilité aux thérapies anti-CD19) ou LAL T (au moins 1 ligne)",
+  "Cohorte B : autre hémopathie CD123+ en échec (BPDCN, LMC, leucémie à tricholeucocytes, mastocytose systémique, Hodgkin, etc.), hors LAM et SMD",
+  "Expression de CD123 en cytométrie en flux ou immunohistochimie",
+  "ECOG ≤ 2 et espérance de vie d'au moins 4 semaines",
+  "Fonctions hépatique, rénale, cardiaque (FEVG ≥ 50 %) et pulmonaire correctes, PNN ≥ 1000/µL, plaquettes ≥ 75 000/µL",
+  "Contraception efficace jusqu'à 6 mois après la dernière dose"
+ ],
+ "exclusion": [
+  "Greffe de cellules souches dans les 100 jours précédents (ou GVHD active > grade 1)",
+  "Chimiothérapie, radiothérapie ou thérapie biologique dans les 14 jours précédents",
+  "Corticoïdes > 10 mg/j de prednisone ou autre immunosuppresseur dans les 2 semaines précédentes",
+  "Atteinte connue du système nerveux central non contrôlée",
+  "Maladie auto-immune active non traitée, infection active non contrôlée",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement (flotétuzumab)",
+   "traitement": "Flotétuzumab en perfusion IV continue j1-28 par cycle, induction puis consolidation selon la réponse, avec prémédication anti-cytokines"
+  }
+ ],
+ "duree": "Traitement par cycles de 28 jours (jusqu'à 8 cycles environ), puis suivi à 30 jours et tous les 3 mois pendant 1 an",
+ "critere": "Incidence des événements indésirables jusqu'à 30 jours après le traitement"
+}

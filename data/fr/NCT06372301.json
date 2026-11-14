@@ -1,0 +1,29 @@
+{
+ "h": "06682ac90d32",
+ "date": "2026-11-14",
+ "titre": "Échographie de stress à la dobutamine dans le rétrécissement aortique à bas débit associé à une amylose ATTRwt",
+ "question": "L'échographie de stress à la dobutamine permet-elle d'évaluer correctement la sévérité d'un rétrécissement aortique à bas débit et bas gradient chez des patients ayant aussi une amylose cardiaque ATTRwt ?",
+ "contexte": "Le rétrécissement aortique (RAo) à bas débit et bas gradient (surface ≤ 1 cm², gradient moyen < 40 mmHg, volume d'éjection indexé ≤ 35 ml/m²) est difficile à classer : la sévérité réelle est souvent sous-estimée. L'échographie de stress à la dobutamine (ESD) est l'outil classique pour augmenter le débit et estimer la surface valvulaire « projetée ».\n\nL'amylose cardiaque à transthyrétine sauvage (ATTRwt) est fréquente chez les sujets âgés porteurs d'un RAo, avec une prévalence de l'ordre de 10 à 15 % chez les patients adressés pour remplacement valvulaire. L'infiltration amyloïde rigidifie le myocarde, limite le volume d'éjection et la réserve contractile, ce qui peut fausser l'ESD.\n\nCette étude prospective monocentrique danoise (Aarhus) compare la surface valvulaire projetée mesurée par ESD à celle mesurée de façon invasive par cathétérisme avec dobutamine, référence de comparaison. Elle étudie aussi la fibrose et l'infiltration amyloïde (biopsies endomyocardiques, IRM cardiaque) et la fonction mitochondriale des myocytes.\n\nLe promoteur est un investigateur hospitalier et l'effectif est très faible (15 patients).",
+ "interet": "Elle pourrait dire si l'ESD reste fiable dans cette association fréquente chez le sujet âgé, et donc si elle peut guider l'indication de remplacement valvulaire aortique. Les données de fibrose et de fonction mitochondriale éclairent la physiopathologie.",
+ "profil": "Des adultes de 65 ans et plus ayant une amylose cardiaque ATTRwt et un rétrécissement aortique à bas débit et bas gradient.",
+ "inclusion": [
+  "ATTRwt confirmée (scintigraphie DPD, génétique et/ou biopsie endomyocardique)",
+  "Symptômes (NYHA > I) sous diurétiques de l'anse",
+  "RAo à bas débit et bas gradient : surface ≤ 1 cm², gradient moyen < 40 mmHg, volume d'éjection indexé ≤ 35 ml/m²",
+  "Âge ≥ 65 ans",
+  "Consentement oral et écrit"
+ ],
+ "exclusion": [
+  "Autre valvulopathie significative",
+  "Coronaropathie sévère connue (tronc commun, tritronculaire) ou infarctus récent (< 4 semaines)",
+  "Contre-indication à la dobutamine (allergie à la dobutamine ou aux sulfites, phéochromocytome, tachycardie ventriculaire)"
+ ],
+ "bras": [
+  {
+   "nom": "RAo et ATTRwt associés",
+   "traitement": "Échographie de stress à la dobutamine (2 à 20 µg/kg/min, jusqu'à 40 si bêtabloquant), puis seconde épreuve invasive à la dobutamine en salle de cathétérisme avec biopsies endomyocardiques et IRM cardiaque"
+  }
+ ],
+ "duree": "Une journée d'examens, plus une visite d'IRM cardiaque séparée",
+ "critere": "Concordance entre la surface valvulaire aortique projetée mesurée par échographie et celle mesurée de façon invasive, en fin de perfusion de dobutamine."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "33b2641c09d7",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques CD19/BCMA (RD06-05) dans le PTI, l'AHAI et le syndrome d'Evans réfractaires",
+ "question": "Des CAR-T allogéniques anti-CD19/BCMA sont-ils sûrs et efficaces chez des patients ayant une cytopénie auto-immune réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI), l'anémie hémolytique auto-immune (AHAI) et le syndrome d'Evans sont des cytopénies auto-immunes médiées par des auto-anticorps. Après échec des corticoïdes, des immunoglobulines, du rituximab, des agonistes du récepteur de la TPO, de la splénectomie ou des immunosuppresseurs, il reste peu d'options et les rechutes sont fréquentes.\n\nLes CAR-T ciblant CD19 détruisent les lymphocytes B, et le ciblage de BCMA vise aussi les plasmocytes producteurs d'auto-anticorps. Dans le lupus et d'autres maladies auto-immunes, des CAR-T autologues ont induit des rémissions prolongées. Cette étude de phase 1 monocentrique chinoise (hôpital Union de Wuhan, Tongji) teste un produit allogénique prêt à l'emploi (UCAR-T, RD06-05), à un seul bras, avec deux niveaux de dose (6 puis éventuellement 10 × 10⁶ cellules CAR+/kg, après avis d'un comité de sécurité). Elle inclut 27 patients et évalue sécurité, pharmacocinétique, pharmacodynamie et efficacité préliminaire.",
+ "interet": "Elle explorera la faisabilité de CAR-T allogéniques disponibles d'emblée dans les cytopénies auto-immunes réfractaires, en évitant la production individuelle de cellules autologues.",
+ "profil": "Des adultes de 18 à 75 ans avec PTI, AHAI ou syndrome d'Evans réfractaires ou en rechute.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "PTI de plus de 6 mois, en échec d'au moins 2 catégories de traitements, plaquettes < 30 000/µL",
+  "AHAI de plus de 6 mois, en échec d'au moins 3 lignes, hémolyse biologique et Hb < 100 g/L",
+  "Syndrome d'Evans de plus de 6 mois, en échec d'au moins 3 lignes",
+  "Fonctions hépatique, rénale, respiratoire et cardiaque (FEVG ≥ 50 %) conservées",
+  "Contraception efficace pendant et après le traitement"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune interférant avec l'évaluation",
+  "Glomérulonéphrite rapidement progressive",
+  "Insuffisance cardiaque NYHA III-IV ou événement coronarien dans les 12 mois",
+  "Maladie du système nerveux central sévère",
+  "Cancer antérieur (sauf guéri depuis au moins 3 ans), immunodéficience primitive",
+  "Infection non contrôlée, VIH, VHC, VHB, syphilis, EBV ou CMV positif",
+  "CAR-T ou thérapie cellulaire génétiquement modifiée antérieure",
+  "Hypersensibilité au tacrolimus, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement par CAR-T",
+   "traitement": "Perfusion de cellules CAR-T allogéniques anti-CD19/BCMA (RD06-05) : 6 × 10⁶ cellules CAR+/kg, avec escalade possible à 10 × 10⁶/kg"
+  }
+ ],
+ "duree": "Suivi de 24 mois après la perfusion",
+ "critere": "Fréquence des événements indésirables graves, des événements indésirables survenus sous traitement et des événements d'intérêt particulier, de la perfusion jusqu'à 24 mois."
+}

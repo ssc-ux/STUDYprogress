@@ -1,0 +1,30 @@
+{
+ "h": "46fbea4f6939",
+ "date": "2026-11-14",
+ "titre": "Greffe allogénique de cellules souches dans l'arthrite juvénile idiopathique systémique réfractaire",
+ "question": "Une greffe allogénique de cellules souches hématopoïétiques est-elle réalisable et utile chez les patients ayant une AJI systémique réfractaire, y compris avec atteinte pulmonaire ?",
+ "contexte": "L'arthrite juvénile idiopathique systémique (AJIs) est traitée par les inhibiteurs de l'IL-1 et de l'IL-6 et la corticothérapie. Une partie des patients reste réfractaire, avec une maladie active, des dommages articulaires, une corticodépendance ou des syndromes d'activation macrophagique (SAM) récidivants.\n\nUne atteinte pulmonaire de l'AJIs (sJIA-LD), de type pneumopathie interstitielle, est une complication grave et souvent de mauvais pronostic. Chez ces patients, les options médicales sont limitées.\n\nCette étude observationnelle du Cincinnati Children's Hospital rassemble des données cliniques et des échantillons chez des enfants et jeunes adultes (< 35 ans) recevant une greffe allogénique de cellules souches hématopoïétiques. Elle évalue la faisabilité de cette approche, avec 20 patients prévus, et la survie à un an.",
+ "interet": "Elle pourrait apporter les premières données structurées sur la greffe comme recours dans les AJIs réfractaires ou avec atteinte pulmonaire.",
+ "profil": "Des enfants et jeunes adultes de moins de 35 ans avec une AJI systémique réfractaire, avec ou sans atteinte pulmonaire.",
+ "inclusion": [
+  "Âge < 35 ans, AJIs diagnostiquée avant 16 ans (critères ILAR ou PRINTO) confirmée par un rhumatologue pédiatre",
+  "Maladie réfractaire : activité persistante malgré anti-IL-1/IL-6 ou corticodépendance",
+  "Ou ≥ 2 épisodes de SAM en 2 ans",
+  "Ou atteinte pulmonaire symptomatique ou évolutive à l'imagerie, confirmée par pneumologue ou radiologue"
+ ],
+ "exclusion": [
+  "Infection sévère non contrôlée",
+  "FEVG < 40 %",
+  "DFG < 30 ml/h",
+  "Cancer actif ou antécédent nécessitant un traitement",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Receveurs de greffe allogénique",
+   "traitement": "Greffe de cellules souches hématopoïétiques avec recueil de données et d'échantillons"
+  }
+ ],
+ "duree": "Suivi jusqu'à 1 an après la greffe (étude jusqu'en 2031)",
+ "critere": "Survie globale à 1 an après la greffe."
+}

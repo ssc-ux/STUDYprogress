@@ -1,0 +1,36 @@
+{
+ "h": "789248a2a93b",
+ "date": "2026-11-14",
+ "titre": "Dosage des cytokines pour le diagnostic précoce du lymphome avec HLH",
+ "question": "Le dosage des cytokines permet-il de diagnostiquer précocement un syndrome d'activation macrophagique associé à un lymphome ?",
+ "contexte": "Le syndrome hémophagocytaire (HLH) est un syndrome d'hyperinflammation grave, souvent déclenché par un lymphome chez l'adulte. Sans prise en charge rapide, la survie médiane est inférieure à 2 mois selon le registre.\n\nLe diagnostic repose sur les critères HLH-04 (fièvre, cytopénies, hyperferritinémie, hypertriglycéridémie, splénomégalie, hémophagocytose, etc.), souvent tardifs ou difficiles à réunir chez un patient atteint de lymphome. Le profil des cytokines (interféron gamma, IL-10, IL-6…) est un marqueur d'activation immunitaire plausible mais mal validé. Cette étude observationnelle prospective chinoise compare des patients atteints de lymphome avec et sans HLH, avant toute chimiothérapie, pour évaluer la sensibilité et la spécificité de ces dosages. Elle explore aussi leur lien avec la gravité, la réponse au traitement et le pronostic. Le promoteur est l'hôpital Beijing Friendship.",
+ "interet": "Un test sanguin simple pourrait faire gagner du temps pour reconnaître un HLH au cours d'un lymphome. Il faciliterait une décision thérapeutique précoce dans une situation à forte mortalité.",
+ "profil": "Des adultes atteints d'un lymphome confirmé, avec ou sans HLH, n'ayant pas reçu de chimiothérapie.",
+ "inclusion": [
+  "Adulte, tout sexe",
+  "Lymphome confirmé histologiquement",
+  "Groupe HLH : critères HLH-04 remplis",
+  "Aucune chimiothérapie systémique avant l'inclusion",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Infection active sévère (virale, bactérienne, fongique, parasitaire)",
+  "Maladie auto-immune active ou greffe sous immunosuppresseurs",
+  "Autre cancer dans les 5 ans (sauf tumeur solide guérie)",
+  "Immunothérapie prévue",
+  "Grossesse ou allaitement",
+  "Infection par le VIH ou hépatite B/C active"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe lymphome",
+   "traitement": "Patients avec lymphome sans HLH ; dosage de cytokines"
+  },
+  {
+   "nom": "Groupe lymphome avec HLH",
+   "traitement": "Patients avec lymphome et critères HLH-04 ; dosage de cytokines"
+  }
+ ],
+ "duree": "Non précisé (critère évalué sur 1 an)",
+ "critere": "Sensibilité et spécificité des cytokines pour prédire un HLH associé à un lymphome, sur 1 an."
+}

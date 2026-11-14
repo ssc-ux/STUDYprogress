@@ -1,0 +1,30 @@
+{
+ "h": "3017f65dfab6",
+ "date": "2026-11-14",
+ "titre": "Dépistage et suivi longitudinal de patients atteints d'amylose cardiaque par IRM",
+ "question": "Comment évoluent la structure, la fonction et le métabolisme du myocarde dans l'amylose cardiaque, avec ou sans traitement ?",
+ "contexte": "L'amylose cardiaque résulte du dépôt extracellulaire de fibrilles amyloïdes dans le cœur. Elle conduit à une insuffisance cardiaque progressive, souvent à fraction d'éjection préservée. Les formes principales sont l'amylose à chaînes légères (AL) et l'amylose à transthyrétine (ATTR).\n\nUn diagnostic précoce est important, car des traitements ciblés existent, tels que les stabilisateurs de la transthyrétine et les traitements antiplasmocytaires dans l'AL. La caractérisation fine de la maladie et de sa progression reste limitée par les outils d'imagerie et de biologie disponibles.\n\nCette étude prospective monocentrique de l'université Heinrich-Heine de Düsseldorf suit des patients avant l'instauration d'un traitement spécifique. Ils bénéficient d'une IRM cardiaque au repos et à l'effort, d'une spectroscopie par résonance magnétique, d'une épreuve d'effort avec échanges gazeux et de bilans sanguins (NT-proBNP, troponine, chaînes légères libres). Ces examens sont répétés à 6, 12 et 24 mois. Les données supplémentaires n'influencent pas la prise en charge.",
+ "interet": "L'étude pourrait mieux décrire le phénotype de l'amylose cardiaque et son évolution. Elle pourrait fournir de nouveaux marqueurs d'imagerie pour suivre la réponse au traitement.",
+ "profil": "Des adultes en bilan d'amylose cardiaque suspectée ou confirmée, avant tout traitement spécifique.",
+ "inclusion": [
+  "Âge supérieur à 18 ans",
+  "Bilan d'amylose en cours ou amylose cardiaque confirmée, avant traitement",
+  "Épaisseur pariétale du ventricule gauche > 12 mm en échocardiographie",
+  "Au moins un « red flag » ESC 2021, ou suspicion clinique établie",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Âge inférieur à 18 ans",
+  "Contre-indication à l'IRM cardiaque (corps étranger métallique, ancien pacemaker, obésité sévère, claustrophobie)",
+  "Absence de consentement écrit",
+  "Incapacité à suivre les procédures de l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte amylose cardiaque",
+   "traitement": "IRM cardiaque de repos et d'effort, spectroscopie, épreuve d'effort et bilan sanguin à l'inclusion puis à 6, 12 et 24 mois"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Variation des paramètres de structure, de fonction et de métabolisme myocardiques à 6 et 12 mois"
+}

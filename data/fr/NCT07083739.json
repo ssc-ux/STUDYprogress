@@ -1,0 +1,36 @@
+{
+ "h": "344d38a8156f",
+ "date": "2026-11-14",
+ "titre": "TQB3473 oral dans le PTI persistant ou chronique de l'adulte, extension de phase 2",
+ "question": "Le TQB3473 par voie orale est-il efficace et bien toléré chez des adultes atteints de PTI persistant ou chronique en échec ou en rechute après un traitement standard ?",
+ "contexte": "Le PTI persistant ou chronique (évoluant depuis plus de 3 ou 12 mois) reste difficile à contrôler chez une partie des patients. Les options de seconde ligne comprennent les agonistes du récepteur de la thrombopoïétine, le rituximab, les immunosuppresseurs, le fostamatinib et la splénectomie, avec des réponses souvent incomplètes ou non durables, et des effets indésirables limitant l'usage prolongé.\n\nLe TQB3473 est un comprimé développé par Chia Tai Tianqing, pour lequel un essai de phase 3 (TQB3473-III-01) est en cours dans le PTI. Cette étude de phase 2, ouverte et monobras, en est l'extension : une cohorte 1 reprend les patients ayant participé à l'essai précédent, une cohorte 2 recrute de nouveaux patients.\n\nTous reçoivent 600 mg par jour pendant 24 semaines. L'étude, en Chine, vise 320 patients et évalue la tolérance et l'efficacité du traitement.",
+ "interet": "Elle apportera des données de tolérance au long cours et d'efficacité du TQB3473 en ouvert. Elle prolonge un programme de développement dans le PTI sans comparaison directe à un traitement de référence.",
+ "profil": "Des adultes atteints de PTI primaire persistant ou chronique, après échec ou rechute d'au moins un traitement standard.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ECOG 0-1",
+  "PTI primaire diagnostiqué depuis plus de 3 mois (cohorte 2)",
+  "Échec ou rechute après au moins un traitement standard (cohorte 2)",
+  "Plaquettes en moyenne < 30 G/L sans valeur > 35 G/L (cohorte 2)",
+  "Score de saignement OMS 0-1, sans besoin de traitement urgent",
+  "Participation antérieure à l'essai TQB3473-III-01 (cohorte 1)",
+  "Contraception efficace jusqu'à 6 mois après la fin du traitement"
+ ],
+ "exclusion": [
+  "Cause secondaire de thrombopénie, syndrome d'Evans, hémopathie maligne ou aplasie",
+  "Cancer dans les 3 dernières années (hors exceptions)",
+  "Hémorragie intracrânienne ou saignement grave dans les 6 mois",
+  "Maladie cardiovasculaire ou cérébrovasculaire majeure",
+  "Hépatite B ou C active, infection active non contrôlée, immunodéficience",
+  "Immunoglobulines, rituximab, splénectomie, corticoïdes ou agonistes de la thrombopoïétine récents",
+  "Antiagrégants ou anticoagulants nécessaires, inhibiteurs ou inducteurs puissants du CYP3A",
+  "Greffe d'organe ou de cellules souches"
+ ],
+ "bras": [
+  {
+   "nom": "TQB3473",
+   "traitement": "Comprimés de TQB3473, 600 mg par voie orale une fois par jour pendant 24 semaines"
+  }
+ ],
+ "duree": "24 semaines de traitement",
+ "critere": "Taux de réponse soutenue, sur les semaines 13 à 24."
+}

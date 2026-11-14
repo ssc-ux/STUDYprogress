@@ -1,0 +1,30 @@
+{
+ "h": "8094c8d8c49e",
+ "date": "2026-11-14",
+ "titre": "OM336 sous-cutané dans les cytopénies auto-immunes (AHAI et PTI)",
+ "question": "L'OM336 administré par voie sous-cutanée est-il bien toléré chez des patients atteints d'anémie hémolytique auto-immune ou de PTI en rechute ou réfractaires ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI), à auto-anticorps chauds ou froids, et le PTI sont des cytopénies auto-immunes dues à des auto-anticorps dirigés contre les cellules sanguines. Les traitements reposent sur les corticoïdes, le rituximab, les immunosuppresseurs, les agonistes de la thrombopoïétine, le sutimlimab (agglutinines froides) et la splénectomie. Les formes en rechute ou réfractaires restent une impasse.\n\nLes plasmocytes à longue durée de vie, qui échappent au rituximab, entretiennent la production d'auto-anticorps. BCMA est exprimé par ces cellules et constitue une cible de déplétion. L'OM336 est une molécule ciblant cette voie, développée par Lakefront Biotherapeutics, que le registre ne décrit pas plus précisément.\n\nCette phase 1 ouverte avec escalade de dose inclut 32 adultes de 18 à 75 ans et évalue la tolérance, la pharmacocinétique de l'OM336 en injection sous-cutanée.",
+ "interet": "Il s'agit d'une première étude chez l'adulte. Elle permettra d'établir une dose et un profil de sécurité avant des phases d'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'AHAI chaude ou froide ou de PTI actifs, en rechute ou réfractaires.",
+ "inclusion": [
+  "Cytopénie auto-immune active (AHAI chaude, AHAI froide ou PTI)",
+  "Rechute ou réfractaire après au moins un traitement",
+  "Âge de 18 à 75 ans",
+  "Poids ≥ 55 kg",
+  "Capacité à respecter le protocole"
+ ],
+ "exclusion": [
+  "Traitement antérieur ciblant BCMA",
+  "Infection cliniquement significative dans les 3 mois",
+  "Chirurgie majeure ou splénectomie dans les 3 mois ou prévue pendant l'étude",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Escalade de dose d'OM336",
+   "traitement": "OM336 en injection sous-cutanée, par cohortes de dose croissante"
+  }
+ ],
+ "duree": "12 semaines pour le critère principal (durée totale non précisée)",
+ "critere": "Tolérance et sécurité de l'OM336 sur 12 semaines."
+}

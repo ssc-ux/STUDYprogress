@@ -1,0 +1,29 @@
+{
+ "h": "b17df61f0920",
+ "date": "2026-11-14",
+ "titre": "Connaissance des erreurs innées de l'immunité chez les pédiatres d'Assiut",
+ "question": "Quel est le niveau de connaissance des erreurs innées de l'immunité chez les médecins pédiatres d'Assiut (Égypte) ?",
+ "contexte": "Les erreurs innées de l'immunité (EII, ou déficits immunitaires primitifs) sont des maladies hétérogènes qui se manifestent par des infections récurrentes, sévères ou inhabituelles, de l'auto-immunité et d'autres atteintes. Leur reconnaissance précoce par les pédiatres conditionne un diagnostic et une prise en charge rapides.\n\nLe retard diagnostique est un problème connu de ces maladies, en partie lié à la méconnaissance des signes d'alerte par les médecins de première ligne.\n\nCette étude transversale de l'université d'Assiut repose sur un questionnaire électronique auto-administré. Elle explore la connaissance des signes d'alerte cliniques, des signes généraux et spécifiques, ainsi que des stratégies thérapeutiques et vaccinales. Elle ne comporte aucune intervention sur des patients.",
+ "interet": "Les résultats pourraient identifier les lacunes de formation des pédiatres et orienter des actions pédagogiques pour réduire le retard diagnostique.",
+ "profil": "Des médecins pédiatres exerçant à Assiut (Égypte).",
+ "inclusion": [
+  "Pédiatre exerçant à Assiut",
+  "Exercice dans un hôpital participant",
+  "Volonté et capacité de remplir le questionnaire électronique",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Refus de participer",
+  "Questionnaire inadéquat ou très incomplet",
+  "Ne pratiquant plus la pédiatrie",
+  "Participation à l'élaboration ou à la validation du questionnaire"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique de pédiatres",
+   "traitement": "Questionnaire électronique auto-administré sur les erreurs innées de l'immunité"
+  }
+ ],
+ "duree": "Un seul questionnaire",
+ "critere": "Score global de connaissance des erreurs innées de l'immunité, à l'inclusion."
+}

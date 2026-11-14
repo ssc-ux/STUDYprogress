@@ -1,0 +1,41 @@
+{
+ "h": "4a20681070c7",
+ "date": "2026-11-14",
+ "titre": "TAK-755 (ADAMTS13 recombinante) avec peu ou pas d'échanges plasmatiques dans le PTT immun",
+ "question": "L'ADAMTS13 recombinante est-elle sûre et efficace pour traiter une poussée de PTT immun avec peu ou pas d'échanges plasmatiques ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique immun (PTTi) est une microangiopathie thrombotique due à des auto-anticorps anti-ADAMTS13. Le traitement d'une poussée repose sur les échanges plasmatiques quotidiens, les corticoïdes, le rituximab et le caplacizumab. Ces échanges sont contraignants, nécessitent un accès veineux central et exposent à des complications.\n\nLe TAK-755 est une ADAMTS13 recombinante qui apporte l'enzyme manquante par voie intraveineuse. Elle est déjà utilisée dans la forme congénitale. L'étude de phase 2b de Takeda comprend deux parties. La partie 1, randomisée en double aveugle, compare deux doses chez des adultes en poussée. La partie 2, ouverte et à un seul bras, teste une dose plus élevée. Tous reçoivent un traitement immunosuppresseur ; les échanges plasmatiques sont réduits à au plus 2 avant l'étude. Après la phase aiguë, le TAK-755 est poursuivi jusqu'à 6 semaines. L'étude a inclus 29 patients dans 22 centres.",
+ "interet": "Si elle est confirmée, cette approche pourrait remplacer ou limiter les échanges plasmatiques, en attaquant directement le déficit en ADAMTS13. Le critère principal de cette étude est toutefois la tolérance, et non l'efficacité.",
+ "profil": "Des adultes en poussée de purpura thrombotique thrombocytopénique immun, inaugural ou en rechute.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "PTTi inaugural ou en rechute",
+  "Consentement éclairé (ou représentant légal)",
+  "Participation à toutes les procédures de l'étude",
+  "Contraception efficace chez les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Plus de 2 échanges plasmatiques avant la randomisation ou la première dose",
+  "PTT congénital ou autre microangiopathie thrombotique",
+  "Caplacizumab dans les 30 jours ou épisode de PTTi dans les 30 jours",
+  "VIH instable (CD4 ≤ 200/mm³) ou immunodéficience sévère",
+  "Infection systémique aiguë sévère, espérance de vie < 3 mois",
+  "Contre-indication aux corticoïdes ou hypersensibilité à l'ADAMTS13 ou aux protéines de cellules CHO",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1, dose 1 puis dose 2",
+   "traitement": "TAK-755 dose 1 IV en phase aiguë, puis dose 2 jusqu'à 6 semaines"
+  },
+  {
+   "nom": "Partie 1, dose 2",
+   "traitement": "TAK-755 dose 2 IV en phase aiguë et en phase post-aiguë"
+  },
+  {
+   "nom": "Partie 2, dose 3 puis dose 2",
+   "traitement": "TAK-755 dose 3 IV (ouvert) jusqu'à la réponse plaquettaire à 48 h, puis dose 2 sur 3 semaines"
+  }
+ ],
+ "duree": "Environ 3 mois",
+ "critere": "Incidence des événements indésirables, graves et d'intérêt particulier, jusqu'à la fin de l'étude (environ 12 semaines)."
+}

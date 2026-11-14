@@ -1,0 +1,36 @@
+{
+ "h": "63a5078618f9",
+ "date": "2026-11-14",
+ "titre": "Effet de la trimétazidine sur le débit coronaire dans l'amylose cardiaque à transthyrétine",
+ "question": "La trimétazidine améliore-t-elle la réserve de débit coronaire chez les patients ayant une amylose cardiaque ATTR ?",
+ "contexte": "Dans l'amylose cardiaque ATTR (ATTR-CM), les fibrilles de transthyrétine infiltrent le myocarde et peuvent atteindre les vaisseaux intramyocardiques. Il en résulte une dysfonction microvasculaire coronaire, avec réserve de débit coronaire réduite même sans sténose épicardique significative.\n\nLa trimétazidine est un modulateur métabolique qui oriente le métabolisme énergétique du myocarde de l'oxydation des acides gras vers celle du glucose. Cet effet améliore le rendement énergétique et réduit les besoins en oxygène, ce qui justifie de tester son effet sur la microcirculation coronaire dans l'ATTR-CM.\n\nTACT-TTR est un essai pilote exploratoire, ouvert, monocentrique et à un seul bras, mené à l'InCor de São Paulo (Brésil). Vingt patients reçoivent la trimétazidine pendant environ 6 mois. Le débit sanguin myocardique est mesuré au repos et sous stress pharmacologique par TEP-TDM à l'ammoniac 13N, ce qui permet de calculer la réserve de débit coronaire. La capacité fonctionnelle, l'échographie, les biomarqueurs et la qualité de vie sont aussi suivis.",
+ "interet": "Étude préliminaire qui pourrait justifier un essai contrôlé de la trimétazidine comme traitement métabolique adjuvant dans l'ATTR-CM.",
+ "profil": "Des adultes avec une amylose cardiaque à transthyrétine confirmée, en classe NYHA II à IV.",
+ "inclusion": [
+  "ATTR-CM confirmée selon les critères du protocole ou par biopsie Congo-positive avec atteinte cardiaque",
+  "Épaisseur septale > 12 mm en échographie ou IRM sans autre cause d'hypertrophie",
+  "Antécédent de signes d'insuffisance cardiaque compatibles",
+  "Scintigraphie au 99mTc-PYP grade II ou III de Perugini",
+  "Âge > 18 ans",
+  "Classe NYHA II, III ou IV"
+ ],
+ "exclusion": [
+  "Intolérance ou contre-indication à la trimétazidine",
+  "Rapport kappa/lambda sérique anormal",
+  "Traitement par inhibiteurs calciques, bêtabloquants ou dérivés nitrés",
+  "Maladie coronaire obstructive (sténose > 50 %) au coroscanner",
+  "Infection active ou maladie inflammatoire pouvant modifier la perfusion",
+  "Contre-indication au dipyridamole ou à la TEP-TDM",
+  "DFG < 30 ml/min/1,73 m²",
+  "Grossesse ou post-partum",
+  "Autre maladie limitant la marche au test de 6 minutes"
+ ],
+ "bras": [
+  {
+   "nom": "Trimétazidine",
+   "traitement": "35 mg deux fois par jour pendant 6 mois (une fois par jour si DFG entre 30 et 60)"
+  }
+ ],
+ "duree": "Environ 6 mois",
+ "critere": "Variation de la réserve de débit coronaire entre l'inclusion et environ 6 mois."
+}

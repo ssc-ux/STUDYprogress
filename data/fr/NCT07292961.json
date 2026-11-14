@@ -1,0 +1,33 @@
+{
+ "h": "7dc6dbfe74e8",
+ "date": "2026-11-14",
+ "titre": "Exercice biopsychosocial (BETY) dans la sclérodermie de l'enfant et de l'adulte",
+ "question": "Un programme d'exercice biopsychosocial supervisé améliore-t-il l'état des enfants et adultes atteints de sclérodermie par rapport à un programme à domicile ?",
+ "contexte": "La sclérodermie (systémique ou localisée) retentit sur la peau, la mobilité, la fonction et le vécu psychosocial. Les recommandations de l'EULAR sur les traitements non médicamenteux insistent sur l'activité physique, l'éducation et l'autogestion adaptées à chaque patient.\n\nL'exercice est la stratégie non médicamenteuse la plus étudiée dans la sclérodermie, et des approches biopsychosociales sont recommandées. L'approche cognitive d'exercice thérapeutique (BETY), développée chez l'adulte rhumatisant, vise un changement de comportement, la gestion de la douleur gagnée en fonction et le soutien de groupe contre l'isolement. Elle a déjà été testée en téléréadaptation dans la sclérodermie systémique, avec des effets favorables sur la fonction, la force musculaire, la vascularisation et l'inflammation.\n\nCette étude randomisée de l'Université Hacettepe (Turquie) l'évalue chez 48 enfants (7-18 ans) et adultes, deux séances par semaine pendant 3 mois, contre un programme d'exercices à domicile.",
+ "interet": "Elle pourrait étayer une rééducation structurée, y compris en pédiatrie, dans une maladie où les options non médicamenteuses sont peu validées. Critères multiples, effectif modeste, essai non en aveugle probable.",
+ "profil": "Des enfants de 7 à 18 ans et des adultes atteints de sclérodermie.",
+ "inclusion": [
+  "Sclérodermie diagnostiquée (systémique ou localisée)",
+  "Enfants de 7 à 18 ans, ou adultes de plus de 18 ans",
+  "Volonté de participer à l'étude"
+ ],
+ "exclusion": [
+  "Maladie cardiaque, pulmonaire, hépatique ou rénale avancée",
+  "Maladie neurologique ou cancer",
+  "Retard de développement (enfants)",
+  "Programme d'exercice régulier dans les 3 derniers mois",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe BETY",
+   "traitement": "Séances d'approche cognitive d'exercice thérapeutique, 2 fois par semaine pendant 3 mois"
+  },
+  {
+   "nom": "Groupe contrôle",
+   "traitement": "Programme d'exercices à domicile"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Échelles biopsychosociales (JAB-Q, BETY-BQ), score cutané de Rodnan modifié, LoSCAT et test de marche de 6 minutes à 6 mois"
+}

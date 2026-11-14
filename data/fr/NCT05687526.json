@@ -1,0 +1,33 @@
+{
+ "h": "7a69028771f4",
+ "date": "2026-11-14",
+ "titre": "Télitacicept chez l'enfant atteint de lupus systémique : pharmacocinétique",
+ "question": "Quelle est la pharmacocinétique du télitacicept chez des enfants et adolescents atteints de lupus systémique ?",
+ "contexte": "Le lupus systémique de début pédiatrique est en général plus sévère que celui de l'adulte, avec davantage d'atteintes rénales et un risque élevé de séquelles liées aux corticoïdes. Peu de traitements ciblés ont été évalués chez l'enfant, le bélimumab étant le principal biologique disponible.\n\nLe télitacicept est une protéine de fusion qui neutralise BLyS/BAFF et APRIL, cytokines clés de la survie des lymphocytes B et plasmocytes. Il a été étudié chez l'adulte atteint de lupus, surtout en Chine. Cette étude de phase 1 ouverte, menée par RemeGen dans 12 centres chinois, décrit la pharmacocinétique de doses répétées chez 16 patients de 5 à 17 ans, en plus du traitement habituel. La dose dépend du poids et de l'âge. Elle explore aussi la tolérance et l'efficacité de façon exploratoire.",
+ "interet": "Elle fournira les données de posologie et d'exposition nécessaires avant un essai d'efficacité pédiatrique. Elle donnera aussi un premier aperçu de la tolérance chez l'enfant.",
+ "profil": "Des enfants et adolescents de 5 à 17 ans atteints de lupus systémique actif malgré un traitement stable.",
+ "inclusion": [
+  "Critères SLICC 2012 ou EULAR/ACR 2019 de lupus",
+  "Âge de 5 à 17 ans",
+  "SELENA-SLEDAI ≥ 8",
+  "Auto-anticorps positifs (anti-noyaux et/ou anti-ADN natif)",
+  "Traitement de fond stable depuis au moins 30 jours",
+  "Consentement des parents ou représentants légaux"
+ ],
+ "exclusion": [
+  "Télitacicept déjà reçu",
+  "Traitement ciblant les lymphocytes B (bélimumab, rituximab…) dans les 6 mois",
+  "Atteinte neurologique centrale active ou néphrite aiguë sévère, DFG < 30 mL/min/1,73 m²",
+  "Greffe d'organe ou de cellules souches",
+  "Infection chronique ou active (VIH, VHC, VHB, tuberculose), COVID-19 récente",
+  "Cancer dans les 5 dernières années"
+ ],
+ "bras": [
+  {
+   "nom": "Télitacicept",
+   "traitement": "Télitacicept en doses répétées, fréquence selon poids et âge, en plus du traitement habituel"
+  }
+ ],
+ "duree": "Suivi jusqu'à 42 jours après la dernière dose",
+ "critere": "Paramètres pharmacocinétiques du télitacicept (Cmax, tmax, Ctrough, Cav, ASC0-t, t1/2z, λz), jusqu'à 42 jours après la dernière dose."
+}

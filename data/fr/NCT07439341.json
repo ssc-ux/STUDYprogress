@@ -1,0 +1,37 @@
+{
+ "h": "ff1226b104a6",
+ "date": "2026-11-14",
+ "titre": "Produits de glycation avancée et index CALLY dans la fièvre méditerranéenne familiale",
+ "question": "Chez les patients atteints de fièvre méditerranéenne familiale (FMF), le taux de produits de glycation avancée (AGE) cutanés est-il corrélé à l'index inflammatoire CALLY ?",
+ "contexte": "La fièvre méditerranéenne familiale est une maladie auto-inflammatoire héréditaire, caractérisée par des accès fébriles récurrents avec sérite. Entre les crises, une inflammation subclinique peut persister et contribuer aux complications à long terme, comme l'amylose AA et un surrisque cardiovasculaire. La colchicine reste le traitement de référence.\n\nLes produits de glycation avancée (AGE) s'accumulent en situation d'inflammation chronique et de stress oxydant, et entretiennent l'inflammation via la voie AGE-RAGE. Ils se mesurent de façon non invasive par l'autofluorescence cutanée (appareil AGE Reader). L'index CALLY combine CRP, albumine et lymphocytes, et reflète l'inflammation systémique et l'état nutritionnel. Cette étude observationnelle transversale cas-témoins, menée à l'hôpital de Bursa (Turquie), compare 150 sujets : des patients FMF (critères de Tel-Hashomer) hors crise et des témoins sains appariés. Elle étudie aussi les liens avec la CRP, la VS, la SAA, l'HbA1c, le bilan lipidique et l'atteinte rénale.",
+ "interet": "Elle pourrait valider un marqueur simple et non invasif de l'inflammation chronique résiduelle dans la FMF, mais n'a pas de conséquence thérapeutique directe à ce stade.",
+ "profil": "Des adultes de 18 à 65 ans atteints de FMF hors crise, et des témoins sains appariés.",
+ "inclusion": [
+  "Patients : âge 18 à 65 ans et FMF selon les critères de Tel-Hashomer",
+  "Au moins 6 mois de suivi clinique",
+  "Données de CRP, albumine et lymphocytes disponibles",
+  "Hors crise de FMF au moment de l'évaluation",
+  "Témoins : 18 à 65 ans, sans maladie inflammatoire, auto-immune, métabolique ou rénale chronique",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Diabète",
+  "Maladie rénale chronique de stade ≥ 3",
+  "Infection active",
+  "Cancer dans les 5 dernières années",
+  "Affection cutanée de la zone de mesure à l'avant-bras",
+  "Supplémentation antioxydante ou vitaminique à forte dose dans les 3 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Patients FMF",
+   "traitement": "Une mesure unique d'autofluorescence cutanée ; index CALLY calculé à partir du bilan de routine"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Une mesure unique d'autofluorescence cutanée"
+  }
+ ],
+ "duree": "Une seule visite (mesure initiale)",
+ "critere": "Corrélation entre le taux d'AGE mesuré par autofluorescence cutanée et l'index CALLY, à l'inclusion."
+}

@@ -1,0 +1,26 @@
+{
+ "h": "2502eb8d2092",
+ "date": "2026-11-14",
+ "titre": "Cohorte clinique chinoise de sclérodermie systémique",
+ "question": "Quelles sont les caractéristiques cliniques et l'évolution des patients chinois atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique (SSc) est une maladie auto-immune caractérisée par la fibrose cutanée et viscérale. Elle figure depuis 2018 sur la première liste chinoise des maladies rares.\n\nContrairement à l'Europe, qui dispose de grandes cohortes de SSc bien établies, la recherche sur les cohortes en Chine en est à ses débuts. Le faible nombre de patients, la diversité des manifestations, l'inégalité des capacités diagnostiques régionales et la dispersion des ressources limitent la connaissance de la physiopathologie, des formes cliniques, de l'intervention précoce et du pronostic.\n\nCette cohorte observationnelle du Peking University Third Hospital, en lien avec des associations de patients, vise à rassembler des données cliniques et des échantillons, à rechercher de nouveaux biomarqueurs et cibles thérapeutiques, à mener des enquêtes épidémiologiques et à structurer la prise en charge chronique de la SSc en Chine. Le suivi est prévu jusqu'en 2040.",
+ "interet": "Elle fournira des données sur la SSc en population chinoise, utiles pour comparer aux cohortes européennes, repérer des biomarqueurs et mieux organiser la prise en charge.",
+ "profil": "Des adultes et enfants chinois remplissant les critères de classification de la sclérodermie systémique.",
+ "inclusion": [
+  "Critères de classification de la SSc de 1980 ou de 2013",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Plus de 90 % des données manquantes",
+  "Patients sans possibilité de suivi",
+  "Refus de participer à l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte SSc",
+   "traitement": "Suivi clinique et recueil d'échantillons, sans intervention imposée"
+  }
+ ],
+ "duree": "Suivi à long terme, jusqu'en 2040",
+ "critere": "Score de Rodnan modifié (mRSS) à 3 mois."
+}

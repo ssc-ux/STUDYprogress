@@ -1,0 +1,36 @@
+{
+ "h": "e8ebc0a6de7e",
+ "date": "2026-11-14",
+ "titre": "Bases génétiques de la maladie pulmonaire suppurative : dyskinésie ciliaire et déficits immunitaires",
+ "question": "Quelles caractéristiques cliniques et génétiques distinguent un déficit immunitaire primitif d'une dyskinésie ciliaire primitive chez des patients ayant une atteinte pulmonaire suppurative ?",
+ "contexte": "Les bronchectasies et les infections respiratoires récidivantes de l'enfant et de l'adulte jeune peuvent révéler un déficit immunitaire primitif (DIP) ou une dyskinésie ciliaire primitive (DCP). Les deux entités se recoupent cliniquement : toux grasse chronique, sinusites, otites, pneumonies récidivantes. Le diagnostic est souvent retardé, alors que les prises en charge diffèrent (substitution en immunoglobulines et antibioprophylaxie d'un côté, kinésithérapie et prise en charge ORL de l'autre).\n\nDe nombreux patients restent sans diagnostic génétique malgré un bilan complet. Cette étude transversale, coordonnée par l'Université de Caroline du Nord avec plusieurs centres nord-américains et le NHLBI, applique un bilan standardisé : mesure du NO nasal, microscopie électronique des cils, puis panel génétique DIP ou DCP (au moins 37 gènes) et exome complet en l'absence de diagnostic.\n\nElle compare les caractéristiques cliniques et biologiques des deux groupes et recherche de nouvelles causes génétiques. Les apparentés non atteints peuvent être inclus pour un prélèvement d'ADN seul.",
+ "interet": "L'étude pourrait préciser les signes cliniques et le NO nasal qui orientent vers un DIP ou une DCP, et identifier de nouveaux gènes. Elle vise à raccourcir l'errance diagnostique, sans changer directement les pratiques.",
+ "profil": "Des enfants (dès 5 ans) et des adultes jusqu'à 45 ans ayant des bronchectasies ou une atteinte pulmonaire suppurative évocatrice de DIP ou de DCP, sans diagnostic génétique confirmé.",
+ "inclusion": [
+  "Âge de 5 à 45 ans",
+  "Critère majeur : bronchectasies dans plus d'un lobe (scanner récent)",
+  "Plus un ou plusieurs critères mineurs pulmonaires ou autres (toux grasse chronique, pneumonies récidivantes, sinusite, otite chronique, anomalie de latéralité, NO nasal < 77 nL/min, histoire familiale)",
+  "Sans bronchectasies : 2 critères mineurs (enfant) ou 3 (adulte), dont au moins un pulmonaire",
+  "Bilan clinique standard déjà réalisé pour écarter les autres causes"
+ ],
+ "exclusion": [
+  "Diagnostic génétique déjà confirmé de DCP ou de DIP",
+  "Mucoviscidose",
+  "Déficit en alpha-1-antitrypsine chez l'adulte",
+  "Anomalies congénitales des voies aériennes, greffe pulmonaire ou cardiaque, immunosuppression",
+  "Prématurité < 28 semaines, VIH, troubles neurologiques avec inhalations récidivantes",
+  "Antécédent de tuberculose ou autre cause connue de bronchectasies"
+ ],
+ "bras": [
+  {
+   "nom": "Participants atteints",
+   "traitement": "Patients avec maladie pulmonaire suppurative sans diagnostic génétique : tests génétiques DCP ou DIP, NO nasal, exome si besoin"
+  },
+  {
+   "nom": "Apparentés non atteints",
+   "traitement": "Prélèvement d'ADN seul, pour les analyses génétiques"
+  }
+ ],
+ "duree": "Une visite d'environ 6 heures par participant, étude sur environ 4 à 5 ans",
+ "critere": "Nombre de participants avec diagnostic confirmé de DCP ou de DIP (jusqu'à environ 4 ans) et prévalence de signes cliniques et biologiques dans chaque groupe lors de la visite"
+}

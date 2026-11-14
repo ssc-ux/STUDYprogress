@@ -1,0 +1,33 @@
+{
+ "h": "7a8a63e0960a",
+ "date": "2026-11-14",
+ "titre": "Suivi par TEP-TDM au béta-amyloïde de la réponse thérapeutique dans l'amylose cardiaque AL",
+ "question": "Une TEP-TDM avec traceur de l'amyloïde permet-elle de suivre la réponse au traitement dans l'amylose cardiaque à chaînes légères ?",
+ "contexte": "L'amylose AL est une prolifération plasmocytaire clonale dont les chaînes légères mal repliées se déposent dans les tissus. L'atteinte cardiaque (AL-CA) réalise une cardiopathie infiltrative, forme d'insuffisance cardiaque particulièrement sévère. Le diagnostic est souvent retardé car les symptômes sont peu spécifiques.\n\nMême avec les traitements actuels, dont le daratumumab, la mortalité reste élevée la première année. Chez certains patients, l'insuffisance cardiaque progresse malgré une réponse hématologique, probablement du fait d'une infiltration amyloïde résiduelle. La réponse est aujourd'hui évaluée par les biomarqueurs circulants (chaînes légères libres), non spécifiques de la charge amyloïde, et par l'échographie ou l'IRM cardiaque, qui manquent de spécificité pour les fibrilles.\n\nLes traceurs liant l'amyloïde (11C-PIB, 18F-florbétapir) sont des marqueurs moléculaires quantitatifs de l'amylose cardiaque. Cette étude monocentrique prospective du Peking Union Medical College Hospital compare deux TEP-TDM dynamiques, à l'inclusion et 12 mois après le début du traitement anti-plasmocytaire. L'hypothèse est que la variation de fixation reflète précocement l'évolution du dépôt amyloïde myocardique.",
+ "interet": "Si la variation de fixation est corrélée à la réponse clinique, la TEP pourrait objectiver la régression de la charge amyloïde, ce que les biomarqueurs ne permettent pas. Elle pourrait aider à adapter le traitement des patients restant en insuffisance cardiaque.",
+ "profil": "Des adultes avec une amylose cardiaque AL nouvellement diagnostiquée, traités en première ligne.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Amylose cardiaque AL nouvellement diagnostiquée selon les critères standard",
+  "Traitement de première ligne (anti-plasmocytaire ou ciblé) reçu ensuite",
+  "Consentement écrit et capacité à suivre les exigences de l'étude"
+ ],
+ "exclusion": [
+  "Traitement approuvé (bortézomib, daratumumab) reçu avant l'inclusion",
+  "Grossesse ou allaitement",
+  "Claustrophobie sévère",
+  "Toute situation jugée par l'investigateur susceptible de gêner l'étude ou d'augmenter le risque"
+ ],
+ "bras": [
+  {
+   "nom": "TEP-TDM dynamique au 11C-PIB",
+   "traitement": "Examen de 30 min à l'inclusion puis à 12 mois ; dosage sanguin de métaux lourds annuel"
+  },
+  {
+   "nom": "TEP-TDM dynamique au 18F-florbétapir",
+   "traitement": "Examen de 60 min à l'inclusion puis à 12 mois ; dosage sanguin de métaux lourds annuel"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Variation, entre l'inclusion et 12 mois, de l'indice de rétention myocardique, de la SUVmean et du rapport SUVR du traceur."
+}

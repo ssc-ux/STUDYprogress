@@ -1,0 +1,27 @@
+{
+ "h": "68d91a5a1f8f",
+ "date": "2026-11-14",
+ "titre": "Revue de dossiers : rADAMTS13 dans le PTT congénital (programme d'accès précoce)",
+ "question": "Comment évoluent les patients atteints de PTT congénital avant et après le début de l'ADAMTS13 recombinante dans la vie réelle ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique congénital (PTTc) est une maladie rare due à des variants du gène ADAMTS13. Le déficit sévère en cette enzyme laisse s'accumuler des multimères ultra-larges du facteur de von Willebrand, responsables de microthromboses, de thrombopénie, d'anémie hémolytique microangiopathique et d'atteintes d'organes (rein, cerveau). Le traitement classique est la perfusion de plasma, prophylactique ou lors des épisodes, avec ses contraintes et ses réactions.\n\nL'ADAMTS13 recombinante (rADAMTS13) remplace l'enzyme manquante. Cette étude de Takeda est une revue rétrospective de dossiers médicaux de patients, enfants et adultes, ayant reçu au moins deux administrations dans le cadre du programme d'accès précoce. Elle décrit les épisodes aigus et subaigus, les paramètres hématologiques et biochimiques (plaquettes, LDH, créatinine, protéinurie), les schémas de traitement et les grossesses, en comparant la période précédant le traitement (jusqu'à 6 mois) et celle sous traitement. Aucune intervention n'est ajoutée.",
+ "interet": "Elle apportera des données de vie réelle sur une maladie ultra-rare, y compris sur l'usage prophylactique, les doses et les issues de grossesse.",
+ "profil": "Des enfants et adultes atteints de PTT congénital traités par rADAMTS13 dans le cadre du programme d'accès précoce.",
+ "inclusion": [
+  "PTT congénital (déficit sévère en ADAMTS13) traité par rADAMTS13 via le programme d'accès précoce",
+  "Au moins deux administrations de rADAMTS13",
+  "Aucune limite d'âge",
+  "Consentement du patient ou de son représentant, ou dérogation du comité d'éthique",
+  "Données de la période sous produit commercial incluses pour les patients passés au produit commercialisé"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion supplémentaire"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec PTTc",
+   "traitement": "Données rétrospectives des dossiers avant (jusqu'à 6 mois) et après le début de rADAMTS13 ; aucune intervention"
+  }
+ ],
+ "duree": "Données de dossier : jusqu'à 6 mois avant le début du traitement puis pendant le traitement",
+ "critere": "Nombre d'épisodes aigus et subaigus de PTTc, et évolution des plaquettes, de l'anémie hémolytique, des LDH, de la protéinurie, de la créatinine, des biomarqueurs et des symptômes, avant et pendant rADAMTS13."
+}

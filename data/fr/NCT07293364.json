@@ -1,0 +1,29 @@
+{
+ "h": "0d74bfa7fe8c",
+ "date": "2026-11-14",
+ "titre": "Mesure de la fonction du C1-inhibiteur pour diagnostiquer l'angiœdème héréditaire (Algérie)",
+ "question": "La seule mesure de la fonction du C1-inhibiteur suffit-elle à diagnostiquer l'angiœdème héréditaire de type 1 ou 2, comparée aux examens usuels ?",
+ "contexte": "L'angiœdème héréditaire (AOH) est une maladie rare provoquant des œdèmes sous-cutanés et muqueux récidivants, sans urticaire ni prurit, par excès de bradykinine. Les formes de type 1 (taux bas de C1-inhibiteur) et de type 2 (C1-inhibiteur dysfonctionnel) sont les plus fréquentes. Le diagnostic repose habituellement sur le dosage pondéral du C1-inhibiteur, de sa fonction et du C4.\n\nLe retard diagnostique est fréquent et les traitements d'urgence et de prophylaxie sont efficaces, d'où l'intérêt d'outils diagnostiques simples et accessibles. En Algérie, la pratique courante ne repose pas toujours sur l'ensemble de ces examens.\n\nCette étude promue par Takeda évalue le kit chromogénique Technochrom C1-INH, qui mesure uniquement la fonction du C1-inhibiteur, face au bilan de pratique courante. Elle inclut des patients suspects et des apparentés de patients connus (1er au 4e degré). Elle vise aussi à établir une valeur de référence et à décrire l'âge au diagnostic, les symptômes et le délai diagnostique.",
+ "interet": "Elle pourrait simplifier et raccourcir le parcours diagnostique de l'AOH dans des pays où l'accès aux examens est limité. C'est une étude diagnostique à promotion industrielle, menée en Algérie.",
+ "profil": "Des patients de plus de 12 ans suspects d'AOH ou apparentés de patients atteints.",
+ "inclusion": [
+  "Enfants de plus de 12 ans et adultes, tous sexes",
+  "Consentement signé (ou parental pour les mineurs)",
+  "Forte suspicion d'AOH : œdèmes non prurigineux de 1 à 5 jours, sans urticaire, résistants aux antihistaminiques et corticoïdes",
+  "Ou apparenté (1er au 4e degré) d'un patient AOH connu"
+ ],
+ "exclusion": [
+  "AOH de type 1 ou 2 déjà confirmé",
+  "Angiœdème avec urticaire ou prurit (cause histaminique)",
+  "Épisodes durant moins de 1 jour ou plus de 5 jours",
+  "Toute situation jugée inadaptée par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Participants suspects d'AOH",
+   "traitement": "Test de fonction du C1-inhibiteur (Technochrom C1-INH) en plus du bilan de pratique courante"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois, avec au plus 3 visites",
+ "critere": "Sensibilité et spécificité du test Technochrom par rapport au bilan de pratique courante, jusqu'à 12 mois"
+}

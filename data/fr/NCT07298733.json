@@ -1,0 +1,36 @@
+{
+ "h": "59573619728c",
+ "date": "2026-11-14",
+ "titre": "IL-1β et IL-33 pour distinguer le PTI primaire de la thrombopénie du lupus",
+ "question": "L'expression génique de l'IL-1β et de l'IL-33 permet-elle de distinguer le PTI primaire de la thrombopénie associée au lupus ?",
+ "contexte": "Le PTI primaire est un diagnostic d'exclusion, sans biomarqueur spécifique. Le lupus est la cause la plus fréquente de PTI secondaire : environ 5 % des PTI de l'adulte sont liés à un lupus, et la thrombopénie touche 7 à 30 % des lupiques. Au début, quand la thrombopénie est isolée, il est parfois difficile de savoir de quelle forme il s'agit, alors que la prise en charge diffère.\n\nLes mécanismes sont voisins, avec destruction des plaquettes médiée par des auto-anticorps. Les cytokines de la famille de l'IL-1, dont l'IL-1β et l'IL-33, jouent un rôle dans l'inflammation auto-immune et dans le développement des lymphocytes Th17, élevés dans le lupus comme dans le PTI.\n\nCette étude cas-témoins égyptienne (Université de Sohag) compare l'expression de ces gènes chez des patients avec PTI, des patients lupiques thrombopéniques et des témoins sains. Elle la corrèle aux plaquettes et à l'activité de la maladie.",
+ "interet": "Elle explore un biomarqueur diagnostique différentiel encore inexistant. Étude monocentrique de petite taille, à valider avant tout usage en pratique.",
+ "profil": "Des adultes de 18 à 60 ans avec PTI primaire, ou lupus avec thrombopénie, et des témoins sains.",
+ "inclusion": [
+  "Âge 18-60 ans",
+  "PTI primaire diagnostiqué, ou lupus avec thrombopénie",
+  "Témoins sains appariés pour l'âge et le sexe"
+ ],
+ "exclusion": [
+  "Immunosuppresseur récent (< 4 semaines)",
+  "Infection associée",
+  "Cancer associé",
+  "Autre cytopénie auto-immune associée"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus avec thrombopénie",
+   "traitement": "Mesure de l'expression génique d'IL-1β et d'IL-33"
+  },
+  {
+   "nom": "PTI primaire",
+   "traitement": "Mesure de l'expression génique d'IL-1β et d'IL-33"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Mesure de l'expression génique d'IL-1β et d'IL-33"
+  }
+ ],
+ "duree": "Prélèvement unique, étude de janvier à août 2026",
+ "critere": "Niveaux d'expression d'IL-1β et d'IL-33 comparés entre PTI et thrombopénie du lupus, corrélés aux plaquettes et à l'activité, et valeur diagnostique différentielle (janvier à août 2026)"
+}

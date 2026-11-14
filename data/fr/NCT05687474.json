@@ -1,0 +1,25 @@
+{
+ "h": "0162bf68fb7a",
+ "date": "2026-11-14",
+ "titre": "Dépistage génomique néonatal de 126 maladies rares : Baby Detect",
+ "question": "Un dépistage génétique universel à la naissance de maladies rares traitables est-il acceptable et réalisable ?",
+ "contexte": "Le dépistage néonatal repose classiquement sur quelques dosages biochimiques sur goutte de sang séchée. Beaucoup de maladies rares d'origine génétique, dont certaines relèvent d'un traitement efficace s'il est débuté avant les symptômes, ne sont pas dépistées. Cela concerne des maladies métaboliques, immunitaires, hématologiques, endocriniennes ou neurologiques.\n\nL'équipe du CHU de Liège a déjà mis en place depuis 2018 un dépistage génétique de l'amyotrophie spinale (SMA) en Belgique, qui a permis un traitement précoce. Baby Detect étend ce principe avec un panel de séquençage ciblé de 361 gènes, couvrant 126 maladies sévères de début précoce et traitables. Les maladies sont choisies avec les pédiatres du CHU de Liège, et la liste peut être mise à jour en moins de 6 mois. Le dépistage utilise les cartes de sang séché prélevées entre 1 et 28 jours de vie, après consentement parental. Cette étude de preuve de concept évalue l'acceptabilité et la faisabilité avant un déploiement régional ; elle compte 6 824 nouveau-nés.",
+ "interet": "Les résultats pourraient éclairer l'élargissement du dépistage néonatal par séquençage. Ils renseignent l'acceptation par les parents, les délais et la fiabilité technique avant toute décision de santé publique.",
+ "profil": "Des nouveau-nés de la Fédération Wallonie-Bruxelles dont les parents ont consenti au dépistage génomique.",
+ "inclusion": [
+  "Nouveau-né de 0 à 28 jours de vie",
+  "Consentement des parents"
+ ],
+ "exclusion": [
+  "Plus de 28 jours de vie",
+  "Absence de consentement parental"
+ ],
+ "bras": [
+  {
+   "nom": "Nouveau-nés avec consentement",
+   "traitement": "Séquençage ciblé de 361 gènes sur goutte de sang séchée"
+  }
+ ],
+ "duree": "Non précisé (moyenne d'environ 1 an d'étude)",
+ "critere": "Acceptabilité, faisabilité (délais) et fiabilité du dépistage génomique, sur environ 1 an."
+}

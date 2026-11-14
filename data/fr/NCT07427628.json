@@ -1,0 +1,37 @@
+{
+ "h": "7c0b46dfde5f",
+ "date": "2026-11-14",
+ "titre": "Thérapie cellulaire TRX103 dans les uvéites non infectieuses actives",
+ "question": "Une perfusion unique de cellules TRX103 est-elle sûre et bien tolérée chez des patients ayant une uvéite non infectieuse active ?",
+ "contexte": "Les uvéites non infectieuses intermédiaires, postérieures et les panuvéites sont des maladies inflammatoires oculaires souvent associées à une maladie systémique (sarcoïdose, maladie de Behçet, spondyloarthrite...). Elles menacent la vision par l'oedème maculaire, la vascularite et les lésions choriorétiniennes. Le traitement repose sur les corticoïdes, les immunosuppresseurs conventionnels et les biothérapies, notamment l'adalimumab. Une partie des patients reste en échec ou dépendante des corticoïdes, avec leurs effets indésirables.\n\nTRX103 est une thérapie cellulaire perfusée en une seule fois ; le suivi de la réplication lentivirale (RCL) dans les critères de jugement indique une modification génétique par vecteur lentiviral. Cette étude de phase 1 de preuve de concept, première chez l'humain dans l'uvéite, est monocentrique et promue par un investigateur (Quan Dong Nguyen). Elle inclut jusqu'à 18 patients, avec deux modalités d'administration : perfusion avec surveillance hospitalière de 8 heures, ou perfusion ambulatoire.",
+ "interet": "Elle explorera la faisabilité et la sécurité d'une approche cellulaire à dose unique, qui pourrait à terme remplacer des immunosuppresseurs chroniques dans les uvéites réfractaires.",
+ "profil": "Des adultes de 18 à 70 ans ayant une uvéite non infectieuse active intermédiaire, postérieure ou panuvéite.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, poids ≥ 40 kg",
+  "Uvéite non infectieuse active (intermédiaire, postérieure ou panuvéite) avec hyalite ≥ 2+ ou lésions inflammatoires choriorétiniennes",
+  "Corticoïdes éventuels ≤ 20 mg/j de prednisone, dose stable depuis ≥ 7 jours",
+  "Pas d'autre immunomodulateur systémique en cours, délais de sevrage respectés",
+  "Consentement signé et capacité à suivre le protocole"
+ ],
+ "exclusion": [
+  "Uvéite antérieure isolée, uvéite infectieuse ou syndrome de mascarade",
+  "Autre maladie oculaire pouvant compromettre la vision",
+  "Immunosuppresseurs, anti-TNF, anti-IL-6, anti-IL-17 ou autres biothérapies récents (délais définis)",
+  "Chirurgie oculaire récente ou corticoïdes intra/périoculaires récents",
+  "Cardiopathie significative, insuffisance rénale (DFG < 40), cytopénies ou cytolyse hépatique",
+  "Infection active, tuberculose, hépatite B/C, VIH, syphilis",
+  "Grossesse ou allaitement, greffe antérieure, transfusion dans les 3 ans"
+ ],
+ "bras": [
+  {
+   "nom": "TRX-103 hospitalisé",
+   "traitement": "Perfusion unique de TRX103 puis surveillance hospitalière de 8 heures"
+  },
+  {
+   "nom": "TRX-103 ambulatoire",
+   "traitement": "Perfusion unique de TRX103 puis surveillance en ambulatoire"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Fréquence des événements indésirables (dont graves) et des infections à 52 semaines, et absence de lentivirus compétent pour la réplication (RCL) à 3, 6 et 12 mois."
+}

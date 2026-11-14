@@ -1,0 +1,31 @@
+{
+ "h": "2c3f15e2b06b",
+ "date": "2026-11-14",
+ "titre": "Greffe de cellules souches pour le DICV et les maladies de dérégulation immunitaire (PIRD)",
+ "question": "Une allogreffe de cellules souches hématopoïétiques à conditionnement atténué améliore-t-elle la survie des patients atteints de DICV ou d'un trouble de la régulation immunitaire ?",
+ "contexte": "Le déficit immunitaire commun variable (DICV) et les troubles de la régulation immunitaire d'origine génétique (PIRD : IPEX, déficits de STAT1/STAT3 à gain de fonction, CD40L, RAG hypomorphe, GATA2, granulomatose septique chronique, etc.) associent infections et manifestations auto-immunes ou inflammatoires. Les formes sévères résistent souvent aux traitements usuels, dont le mycophénolate et le rituximab.\n\nLa greffe allogénique de cellules souches hématopoïétiques, après conditionnement atténué, est le seul traitement potentiellement curatif de plusieurs de ces défauts immunitaires héréditaires. Son bénéfice dans le DICV et les PIRD à manifestations auto-immunes reste mal établi, avec un risque notable de toxicité.\n\nCette étude de phase 2 monocentrique américaine propose, à 25 patients de 5 à 40 ans en échec du mycophénolate et d'un anti-CD20, une greffe de donneur apparenté ou non (HLA 6-8/8). Le conditionnement associe alemtuzumab, globuline antithymocyte, fludarabine, melphalan et irradiation corporelle totale. Le suivi est de 2 ans.",
+ "interet": "Elle évaluera la place de la greffe dans des formes graves de dérégulation immunitaire sans alternative. Petit effectif, sans comparateur, avec une mortalité de la greffe à mettre en balance.",
+ "profil": "Des patients de 5 à 40 ans atteints de DICV ou de PIRD avec manifestations auto-immunes, en échec du mycophénolate et d'un anti-CD20.",
+ "inclusion": [
+  "Âge 5-40 ans, DICV ou PIRD avec manifestation auto-immune, avec panel génétique",
+  "Échec ou intolérance au mycophénolate et à un anti-CD20 (rituximab)",
+  "DFG ≥ 50 mL/min/1,73 m², ASAT/ALAT ≤ 4 × LSN, bilirubine directe ≤ 2,5 mg/dL",
+  "FEVG ≥ 40 %, CVF et VEMS ≥ 40 %, SpO₂ > 92 % en air ambiant",
+  "VIH et HTLV négatifs",
+  "Avis favorable de l'immunologue clinicien"
+ ],
+ "exclusion": [
+  "Allergie au DMSO ou à un composant du greffon",
+  "Infection systémique non contrôlée",
+  "Vaccin vivant atténué dans les 4 semaines",
+  "Autre problème médical jugé à risque par l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Allogreffe de cellules souches",
+   "traitement": "Moelle ou cellules souches périphériques de donneur HLA 6-8/8, conditionnement alemtuzumab, ATG, fludarabine, melphalan et irradiation corporelle totale"
+  }
+ ],
+ "duree": "2 ans après la greffe",
+ "critere": "Survie à 2 ans après la greffe"
+}

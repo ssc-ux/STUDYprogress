@@ -1,0 +1,29 @@
+{
+ "h": "bc4904179d59",
+ "date": "2026-11-14",
+ "titre": "Atteinte hépatique sous eltrombopag dans le PTI, étude égyptienne",
+ "question": "Quelles sont la fréquence et la gravité de l'atteinte hépatique chez des patients atteints de PTI traités par eltrombopag ?",
+ "contexte": "L'eltrombopag est un agoniste oral du récepteur de la thrombopoïétine, utilisé dans le PTI persistant ou chronique après échec des corticoïdes. Son principal effet indésirable est une élévation des transaminases et de la bilirubine, pouvant dans de rares cas conduire à une atteinte hépatique significative. La surveillance du bilan hépatique est donc recommandée pendant le traitement.\n\nLa fréquence de cette atteinte varie selon les séries et dépend des populations. Le rôle de facteurs comme le diabète ou la stéatose hépatique n'est pas bien établi.\n\nCette étude de l'université de Sohag (Égypte) inclut 100 adultes atteints de PTI primaire et d'un bilan hépatique normal, avec ou sans diabète, avec ou sans stéatose, traités par eltrombopag. Le bilan hépatique est suivi pendant 3 à 6 mois pour détecter la survenue d'une atteinte hépatique.",
+ "interet": "L'étude pourrait préciser le risque hépatique de l'eltrombopag dans une population égyptienne et l'influence éventuelle du diabète ou de la stéatose sur sa survenue.",
+ "profil": "Des adultes de 18 à 75 ans atteints de PTI primaire et traités par eltrombopag, avec un bilan hépatique initial normal.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI primaire",
+  "Traitement par eltrombopag",
+  "Bilan hépatique initial normal",
+  "Patients avec ou sans diabète",
+  "Patients avec ou sans stéatose hépatique"
+ ],
+ "exclusion": [
+  "Maladie hépatique préexistante (hépatite, cirrhose, NAFLD)",
+  "Prise concomitante de médicaments hépatotoxiques",
+  "Perdus de vue"
+ ],
+ "bras": [
+  {
+   "nom": "Eltrombopag",
+   "traitement": "Comprimés d'eltrombopag (dose non précisée), avec suivi du bilan hépatique"
+  }
+ ],
+ "duree": "3 à 6 mois",
+ "critere": "Fréquence et gravité de l'atteinte hépatique, 3 à 6 mois après le début de l'eltrombopag."
+}

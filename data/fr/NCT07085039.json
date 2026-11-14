@@ -1,0 +1,33 @@
+{
+ "h": "d378cbfdf8e0",
+ "date": "2026-11-14",
+ "titre": "Ruxolitinib dans la maladie de Castleman multicentrique idiopathique déjà traitée",
+ "question": "Le ruxolitinib apporte-t-il un bénéfice clinique à 12 mois chez des patients atteints de maladie de Castleman multicentrique idiopathique (iMCD) ne répondant pas aux anti-IL-6 ou les tolérant mal ?",
+ "contexte": "La maladie de Castleman multicentrique idiopathique (iMCD) est une maladie lymphoproliférative rare, avec adénopathies, symptômes généraux, cytopénies, hypoalbuminémie, syndrome inflammatoire et parfois défaillances d'organe liées à une tempête cytokinique. Le traitement de référence est le siltuximab (anti-IL-6) ou le tocilizumab, mais environ la moitié des patients ne répond pas suffisamment.\n\nPour ces patients, les options sont limitées : corticoïdes, sirolimus, immunosuppresseurs ou chimiothérapie. Des données de cas suggèrent que la voie JAK/STAT, activée dans l'iMCD, est une cible possible, et le ruxolitinib (inhibiteur de JAK1/2) a donné des réponses dans des cas réfractaires.\n\nCette phase 2 monobras de l'University of Pennsylvania (14 patients de 18 à 80 ans), adossée au registre ACCELERATE, évalue le ruxolitinib en comprimé chez des patients réfractaires, en rechute ou intolérants aux anti-IL-6.",
+ "interet": "L'étude pourrait documenter prospectivement l'intérêt d'un inhibiteur de JAK après échec des anti-IL-6 dans cette maladie orpheline. Les effectifs restent très limités.",
+ "profil": "Des adultes de 18 à 80 ans atteints d'iMCD active, réfractaire, en rechute ou intolérante aux anti-IL-6.",
+ "inclusion": [
+  "iMCD documentée (histologie compatible ou score CAS ≥ 3 dans le registre ACCELERATE)",
+  "Réfractaire, en rechute ou intolérante au siltuximab ou au tocilizumab",
+  "Maladie active : au moins 2 parmi symptômes généraux, anémie, CRP élevée, hypoalbuminémie, avec une adénopathie (critères de Cheson modifiés)",
+  "Capacité à prendre un comprimé par voie orale",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Traitement systémique de l'iMCD autre que corticoïdes ou anti-IL-6 dans les 14 jours, ou ruxolitinib antérieur",
+  "Infection non contrôlée, tuberculose, hépatite B ou C actives, infection par le VIH ou HHV-8",
+  "DFGe < 30 mL/min, neutrophiles < 1 G/L, ALAT/ASAT > 3 N, plaquettes ≤ 40 G/L",
+  "Atteinte pulmonaire ou pneumopathie interstitielle avec dyspnée",
+  "Cancer antérieur (hors exceptions) ou événement cardiaque majeur dans les 6 mois",
+  "Hypersensibilité au ruxolitinib"
+ ],
+ "bras": [
+  {
+   "nom": "Ruxolitinib",
+   "traitement": "Ruxolitinib par voie orale (dose non précisée dans le registre)"
+  }
+ ],
+ "duree": "12 mois ± 1 mois",
+ "critere": "Proportion de patients obtenant une réponse clinique bénéfique (CBR) à 12 mois, comparée à l'inclusion."
+}

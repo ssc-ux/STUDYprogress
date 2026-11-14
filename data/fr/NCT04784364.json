@@ -1,0 +1,23 @@
+{
+ "h": "0b2fb24f08b9",
+ "date": "2026-11-14",
+ "titre": "BACICS : biorégistre de patients sous biothérapie au Mount Sinai",
+ "question": "Comment le phénotype immunologique influence-t-il la réponse clinique des patients sous biothérapie, et des diagnostics innovants peuvent-ils améliorer l'efficacité de ces traitements ?",
+ "contexte": "Les biothérapies (anticorps monoclonaux, protéines de fusion, immunomodulateurs) sont utilisées dans de nombreuses maladies immunologiques, auto-immunes et dans les déficits immunitaires. La réponse est très variable d'un patient à l'autre, et l'on manque de marqueurs pour prédire quels patients répondront, lesquels auront des infections ou des effets indésirables, et comment adapter le traitement.\n\nCette étude observationnelle de l'Icahn School of Medicine at Mount Sinai constitue un biorégistre de patients recevant une biothérapie dans le cadre de leurs soins courants, principalement au Therapeutic Infusion Center de Mount Sinai et dans des cabinets affiliés, avec des témoins ou comparateurs appropriés. Le premier volet est un biobanque et une base de données (données démographiques, immunologiques, expositions, données cliniques) utilisables dans plusieurs disciplines et en lien avec d'autres registres du centre.\n\nLe second volet cible des questions de recherche précises, portant sur l'usage de nouveaux diagnostics pour accroître l'efficacité des biothérapies. Les prélèvements et questionnaires sont conçus pour intégrer de nouvelles technologies de mesure. 800 participants de 12 ans et plus sont prévus.",
+ "interet": "Le registre doit permettre de relier immunophénotype et évolution clinique sous biothérapie, et de soutenir des recherches sur des marqueurs prédictifs de réponse, sans intervention thérapeutique.",
+ "profil": "Des patients de 12 ans et plus recevant une biothérapie ou un immunomodulateur à Mount Sinai, et des témoins.",
+ "inclusion": [
+  "Âge de 12 ans ou plus",
+  "Capacité à donner un consentement éclairé",
+  "Suivi médical à Mount Sinai",
+  "Biothérapie ou immunomodulateur reçu à Mount Sinai, ou participant considéré comme témoin ou comparateur approprié par l'équipe"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  { "nom": "Cohorte BACICS", "traitement": "Patients sous biothérapie dans le cadre des soins courants, avec prélèvements biologiques et questionnaires" }
+ ],
+ "duree": "Suivi de plusieurs années (critère principal à 3 ans)",
+ "critere": "Constitution du registre de biothérapies et d'immunologie clinique, sur 3 ans"
+}

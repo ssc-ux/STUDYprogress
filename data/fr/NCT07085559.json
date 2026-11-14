@@ -1,0 +1,34 @@
+{
+ "h": "972365bc208c",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA à armement métabolique (Meta10-BCMA) dans les hémopathies à plasmocytes réfractaires",
+ "question": "Un CAR-T anti-BCMA « armé métaboliquement » est-il sûr et quelle dose maximale tolérée peut-on définir chez des patients atteints de myélome, de leucémie à plasmocytes ou d'amylose AL réfractaires ?",
+ "contexte": "Les CAR-T anti-BCMA ont transformé la prise en charge du myélome multiple réfractaire, mais la plupart des patients rechutent, en partie à cause de l'épuisement des lymphocytes T et de leur faible persistance dans un microenvironnement tumoral hostile. Les leucémies à plasmocytes et l'amylose AL réfractaires ont un pronostic défavorable et peu d'options.\n\nLe concept de CAR-T « armé métaboliquement » vise à reprogrammer le métabolisme des cellules T pour améliorer leur persistance et leur fonction. Le registre ne précise pas la nature exacte de la modification de Meta10-BCMA, dont plusieurs structures seront testées.\n\nCette phase 1 de l'Anhui Provincial Hospital, avec 36 patients de 19 à 75 ans, inclut des patients ayant reçu au moins 3 lignes. Après leucaphérèse et lymphodéplétion (cyclophosphamide, fludarabine), une dose est perfusée au jour 0. Elle définit la dose maximale tolérée et la tolérance à 1 an.",
+ "interet": "Il s'agit d'une exploration précoce. Elle pourrait orienter vers une nouvelle génération de CAR-T plus persistants dans les maladies plasmocytaires, dont l'amylose AL.",
+ "profil": "Des adultes de 19 à 75 ans atteints de myélome, de leucémie à plasmocytes ou d'amylose AL en rechute ou réfractaires après au moins 3 lignes.",
+ "inclusion": [
+  "Âge de 19 à 75 ans",
+  "Maladie plasmocytaire en rechute ou réfractaire, au moins 3 lignes antérieures (inhibiteur du protéasome et immunomodulateur)",
+  "Expression de BCMA documentée sur le tissu tumoral",
+  "Maladie mesurable (plasmocytes médullaires ≥ 5 %, protéine monoclonale ou chaînes légères)",
+  "ECOG 0-2 et espérance de vie ≥ 12 semaines",
+  "FEVG ≥ 50 % et fonctions hépatique et rénale adéquates"
+ ],
+ "exclusion": [
+  "Greffe de cellules souches dans les 2 mois, chirurgie majeure dans les 4 semaines",
+  "Arythmie de grade ≥ 2, QTc allongé, événement cardiovasculaire dans les 12 mois",
+  "VIH, hépatite B active, hépatite C active, infection non contrôlée",
+  "Tendance hémorragique digestive, greffe d'organe solide",
+  "Corticothérapie prolongée, oxygénothérapie quotidienne, traitement antitumoral en cours",
+  "Grossesse ou allaitement",
+  "Quantité insuffisante de cellules mononucléées pour fabriquer le produit"
+ ],
+ "bras": [
+  {
+   "nom": "Meta10-BCMA",
+   "traitement": "Leucaphérèse, lymphodéplétion par cyclophosphamide et fludarabine, puis perfusion de CAR-T anti-BCMA à armement métabolique au jour 0, avec escalade de dose"
+  }
+ ],
+ "duree": "1 an après la perfusion",
+ "critere": "Dose maximale tolérée, définie sur les toxicités limitant la dose des 35 premiers jours ; événements indésirables jusqu'à 1 an après la perfusion."
+}

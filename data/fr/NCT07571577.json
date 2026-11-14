@@ -1,0 +1,31 @@
+{
+ "h": "a13f63fe1c63",
+ "date": "2026-11-14",
+ "titre": "Score échographique OTUS pour suivre l'activité de l'artérite de Takayasu",
+ "question": "Le score échographique OMERACT (OTUS) varie-t-il entre la phase active et la rémission de l'artérite de Takayasu ?",
+ "contexte": "L'artérite de Takayasu est une vascularite des grosses artères dont le suivi est difficile. L'évaluation de l'activité repose sur la clinique, les marqueurs inflammatoires (VS, CRP) et l'imagerie (TEP-FDG, ARM, angioscanner), souvent coûteuse, irradiante ou peu accessible.\n\nL'échographie vasculaire est non invasive, sans irradiation ni produit de contraste, et déjà utilisée dans les vascularites des gros vaisseaux. Le score OTUS a été développé et validé préliminairement dans un projet en plusieurs étapes soutenu par OMERACT. Il porte sur les carotides communes, les artères sous-clavières et axillaires et l'aorte abdominale.\n\nCette étude observationnelle multicentrique, promue par l'IRCCS San Raffaele (Italie), suit des patients en poussée ou au diagnostic. Des échographies sont réalisées à des temps prédéfinis sur 24 mois, dans le cadre de la pratique courante. Les données d'autres imageries sont recueillies si elles existent. L'hypothèse est que le score est sensible au changement et prédit l'évolution.",
+ "interet": "Un score échographique validé pourrait offrir un outil simple et répétable pour suivre la maladie. Il pourrait réduire le recours à des imageries plus lourdes.",
+ "profil": "Des adultes ayant une artérite de Takayasu active, au diagnostic ou en rechute.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Artérite de Takayasu selon les critères ACR 1990 et/ou ACR/EULAR 2022",
+  "Maladie active : au moins 2 domaines sur 3 (clinique, biologique, imagerie hors échographie)",
+  "Possibilité de réaliser des échographies vasculaires répétées",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Contre-indication ou impossibilité de réaliser l'échographie vasculaire",
+  "Comorbidités sévères limitant la participation",
+  "Facteurs gênant l'interprétation (athérosclérose importante, occlusion complète d'un segment étudié)",
+  "Autre maladie rhumatologique",
+  "Refus ou impossibilité de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte Takayasu active",
+   "traitement": "Échographies vasculaires avec calcul du score OTUS à l'inclusion puis aux mois 1, 3, 6, 12, 18 et 24"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Variation du score OTUS entre la phase active et la première visite en rémission"
+}

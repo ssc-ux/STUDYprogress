@@ -1,0 +1,31 @@
+{
+ "h": "67073eba0dba",
+ "date": "2026-11-14",
+ "titre": "Sécurité du mycophénolate sodique entéro-soluble dans la néphrite lupique, population taïwanaise",
+ "question": "Quel est le profil de tolérance à 12 mois du mycophénolate sodique entéro-soluble chez des patients taïwanais ayant une néphrite lupique et le recevant pour la première fois ?",
+ "contexte": "La néphrite lupique touche environ un patient lupique sur deux et reste une cause majeure de morbidité et d'insuffisance rénale terminale. Les recommandations (KDIGO, EULAR) placent le mycophénolate (mofétil ou sodique) avec les corticoïdes au premier rang du traitement d'induction et d'entretien des classes III, IV et V.\n\nLe mycophénolate sodique entéro-soluble (EC-MPS, Myfortic) est une forme galénique à enrobage gastro-résistant, conçue pour limiter les troubles digestifs liés au mycophénolate mofétil. Ses données de tolérance en vie réelle dans la néphrite lupique restent limitées, notamment dans les populations asiatiques.\n\nCette étude observationnelle, promue par Novartis, est menée à Taïwan en cohorte prospective à un seul bras. Les patients sont suivis selon la pratique courante pendant 12 mois et seules les données nécessaires aux critères sont recueillies. Elle n'impose aucun traitement et ne compare pas l'EC-MPS à un autre schéma.",
+ "interet": "L'étude apportera des données de tolérance en pratique réelle dans une population asiatique. Elle n'est pas conçue pour comparer l'efficacité de l'EC-MPS à d'autres immunosuppresseurs.",
+ "profil": "Des adultes de 20 à 75 ans atteints de néphrite lupique (classes III, IV ou V) recevant pour la première fois de l'EC-MPS.",
+ "inclusion": [
+  "Âge de 20 à 75 ans",
+  "Lupus érythémateux systémique diagnostiqué",
+  "Néphrite lupique confirmée : biopsie de moins d'un an (classe III/IV/V) ou signes biologiques de néphrite active (UPCR > 0,5, protéinurie > 0,5 g/24 h, etc.)",
+  "Première prescription d'EC-MPS (patients naïfs ou changeant de traitement)",
+  "Contraception efficace chez les femmes en âge de procréer",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Greffe rénale antérieure ou prévue",
+  "Dialyse continue ou DFG < 30 mL/min/1,73 m² dans les 3 mois précédents",
+  "Maladie digestive grave active (ulcération avec hémorragie ou perforation)",
+  "Affection menaçant le pronostic vital, dont cancer ou infection sévère dans les 6 mois précédents"
+ ],
+ "bras": [
+  {
+   "nom": "Myfortic",
+   "traitement": "Mycophénolate sodique entéro-soluble par voie orale, selon la pratique habituelle"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Profil de tolérance de l'EC-MPS (événements indésirables) sur 12 mois"
+}

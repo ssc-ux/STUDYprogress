@@ -1,0 +1,35 @@
+{
+ "h": "791d5494c3b1",
+ "date": "2026-11-14",
+ "titre": "Inaticabtagene autoleucel (CAR-T anti-CD19) dans l'anémie hémolytique auto-immune après 3 lignes",
+ "question": "Le CAR-T anti-CD19 inaticabtagene autoleucel est-il sûr chez des patients atteints d'AHAI ou de syndrome d'Evans en échec d'au moins trois lignes ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est traitée en première ligne par corticoïdes, en deuxième ligne par rituximab, puis par immunosuppresseurs, splénectomie ou bortézomib. Une proportion de patients reste en échec de plusieurs lignes et dépendante des transfusions, y compris dans les formes avec agglutinines froides et le syndrome d'Evans.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B producteurs d'auto-anticorps et ont induit des rémissions dans le lupus et d'autres maladies auto-immunes. Inaticabtagene autoleucel (CNCT19) est un CAR-T anti-CD19 autologue développé par Juventas, déjà évalué dans les leucémies aiguës lymphoblastiques B.\n\nCette phase 1 chinoise multicentrique, ouverte et monobras, inclut 12 patients de 18 à 75 ans, après lymphodéplétion par fludarabine et cyclophosphamide. Elle évalue la tolérance et la dose sûre d'une perfusion unique.",
+ "interet": "Il s'agit d'une exploration de tolérance chez des patients sans alternative. Elle pourrait être le point de départ d'une évaluation de l'efficacité du CAR-T dans les AHAI réfractaires.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'AHAI chaude, mixte, froide ou de syndrome d'Evans, en échec d'au moins trois lignes.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "AHAI ou syndrome d'Evans avec hémoglobine < 100 g/L et symptômes d'anémie",
+  "Échec de la corticothérapie, du rituximab et d'une troisième ligne (AHAI chaude) ou échec de deux schémas par rituximab et d'une troisième ligne (maladie des agglutinines froides)",
+  "ASAT/ALAT ≤ 3 N, créatinine ≤ 1,5 N, saturation > 93 %",
+  "ECOG 0-2",
+  "Contraception efficace jusqu'à 2 ans après la perfusion"
+ ],
+ "exclusion": [
+  "Hémopathie lymphoïde proliférative antérieure",
+  "AHAI secondaire à un médicament ou à une infection",
+  "Greffe d'organe ou de cellules souches, thrombose récente (6 mois)",
+  "Maladie du tissu conjonctif active, autre hémolyse",
+  "Infection active, hépatite B ou C, VIH, syphilis",
+  "FEVG ≤ 45 %, NYHA III-IV, QTc allongé, infarctus récent",
+  "Antécédent d'épilepsie ou de maladie du système nerveux central",
+  "CAR-T antérieur, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Inaticabtagene autoleucel",
+   "traitement": "Lymphodéplétion (fludarabine et cyclophosphamide) puis perfusion unique de CAR-T anti-CD19"
+  }
+ ],
+ "duree": "28 jours pour le critère principal (suivi total non précisé)",
+ "critere": "Fréquence des événements indésirables liés au traitement et dose sûre d'une perfusion unique, jusqu'à 28 jours après la perfusion."
+}

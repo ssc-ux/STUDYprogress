@@ -1,0 +1,31 @@
+{
+ "h": "7e69eb6667a6",
+ "date": "2026-11-14",
+ "titre": "Dépister l'amylose cardiaque chez les patients opérés d'un syndrome du canal carpien bilatéral",
+ "question": "Quelle est la prévalence de l'amylose cardiaque, détectée par scintigraphie au pyrophosphate, chez des patients opérés d'un canal carpien bilatéral ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cardiopathie restrictive due au dépôt de protéine TTR instable dans le myocarde. Elle se manifeste par de la fatigue, une dyspnée ou des œdèmes, et reste souvent diagnostiquée tardivement.\n\nLe syndrome du canal carpien bilatéral est reconnu comme un signe précoce d'amylose systémique, car des dépôts s'accumulent dans le ligament carpien et le nerf médian, parfois des années avant l'atteinte cardiaque. Un diagnostic précoce permet de proposer des traitements modifiant la maladie, comme le tafamidis, qui améliore la survie et réduit les hospitalisations.\n\nCette étude canadienne, menée à London (Ontario), recherche une amylose cardiaque non diagnostiquée chez des patients de 55 ans ou plus opérés d'un canal carpien des deux côtés entre 2010 et 2015. Tous passent une scintigraphie au pyrophosphate marqué au technétium 99m (Tc-99m PYP), examen de référence non invasif pour l'ATTR-CM.",
+ "interet": "Elle pourrait estimer la fréquence de l'amylose cardiaque dans cette population à risque. Elle pourrait étayer un dépistage ciblé des patients ayant des antécédents de canal carpien bilatéral.",
+ "profil": "Des patients de 55 ans ou plus ayant subi une libération bilatérale du canal carpien entre 2010 et 2015.",
+ "inclusion": [
+  "Âge de 55 ans ou plus au moment de la chirurgie",
+  "Libération du canal carpien des deux mains (au moins deux interventions)",
+  "Chirurgie réalisée entre 2010 et 2015"
+ ],
+ "exclusion": [
+  "Âge inférieur à 55 ans lors de la chirurgie",
+  "Chirurgie d'une seule main",
+  "Autre diagnostic neurologique expliquant le canal carpien",
+  "Dossier médical incomplet",
+  "Refus de la scintigraphie PYP",
+  "Amylose déjà diagnostiquée ou bilan amylose négatif antérieur",
+  "Problème cognitif ou de communication sans aide à la traduction"
+ ],
+ "bras": [
+  {
+   "nom": "Antécédent de canal carpien bilatéral",
+   "traitement": "Scintigraphie au Tc-99m pyrophosphate (PYP)"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Présence d'une amylose cardiaque à la scintigraphie PYP, à 1 an"
+}

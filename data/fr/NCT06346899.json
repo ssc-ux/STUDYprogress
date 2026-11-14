@@ -1,0 +1,33 @@
+{
+ "h": "1fdafb7620e2",
+ "date": "2026-11-14",
+ "titre": "Lanadélumab et icatibant dans l'angio-œdème héréditaire : données en vie réelle en Chine",
+ "question": "Quelle est l'efficacité en pratique courante du lanadélumab (prévention) et de l'icatibant (traitement des crises) chez des patients chinois atteints d'angio-œdème héréditaire ?",
+ "contexte": "L'angio-œdème héréditaire (AOH) est une maladie rare caractérisée par des crises récurrentes d'œdème sous-cutané et muqueux, parfois laryngé, liées le plus souvent à un déficit en inhibiteur de la C1 estérase et à une production excessive de bradykinine. Le traitement repose sur la prise en charge des crises, par exemple avec l'icatibant (antagoniste du récepteur B2 de la bradykinine), et sur la prophylaxie de longue durée pour réduire la fréquence des crises.\n\nLe lanadélumab, anticorps anti-kallicréine plasmatique, a montré dans les essais pivots une forte réduction du nombre de crises. Il est autorisé en Chine depuis décembre 2020 chez les patients de 12 ans et plus, et l'icatibant chez ceux de 2 ans et plus.\n\nCette étude observationnelle rétrospective, promue par Takeda, collecte les données déjà présentes dans les dossiers médicaux de patients chinois traités en pratique courante. Elle compare trois groupes : lanadélumab seul, icatibant seul, ou les deux. Elle décrit aussi les doses, l'intervalle d'administration, la durée et les motifs d'arrêt du lanadélumab, ainsi que la tolérance.",
+ "interet": "Elle fournit des données de vie réelle dans une population asiatique sous-représentée dans les essais pivots. Elle peut conforter l'usage de la prophylaxie par lanadélumab et préciser le délai de résolution des crises sous icatibant en pratique.",
+ "profil": "Des patients chinois atteints d'angio-œdème héréditaire ayant reçu au moins une dose de lanadélumab ou d'icatibant depuis son autorisation en Chine.",
+ "inclusion": [
+  "Patients chinois ayant reçu au moins une dose de lanadélumab ou d'icatibant depuis le 2 décembre 2020",
+  "Traitement reçu avant le premier jour d'activation du premier centre",
+  "Consentement éclairé (sauf dérogation du centre)"
+ ],
+ "exclusion": [
+  "Participation à une autre étude interventionnelle avec lanadélumab, icatibant ou un autre traitement de l'AOH, après le début du lanadélumab ou de l'icatibant"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe L",
+   "traitement": "Lanadélumab seul, observation rétrospective"
+  },
+  {
+   "nom": "Groupe I",
+   "traitement": "Icatibant seul, observation rétrospective"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "Lanadélumab et icatibant, observation rétrospective"
+  }
+ ],
+ "duree": "Données rétrospectives, jusqu'à environ 3 ans et 8 mois ; aucune visite dédiée",
+ "critere": "Taux mensuel de crises d'AOH sous lanadélumab, et délai médian de résolution complète des crises traitées par icatibant, sur environ 3 ans et 8 mois."
+}

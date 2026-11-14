@@ -1,0 +1,35 @@
+{
+ "h": "ad65b85215f7",
+ "date": "2026-11-14",
+ "titre": "Firsékibart versus anakinra dans la maladie de Still de l'adulte",
+ "question": "Le firsékibart (anti-IL-1β) est-il comparable à l'anakinra pour obtenir une maladie inactive dans la maladie de Still de l'adulte ?",
+ "contexte": "La maladie de Still de l'adulte (MSA) est une maladie auto-inflammatoire rare associant fièvre, arthralgies, éruption cutanée et hyperleucocytose, pouvant se compliquer d'un syndrome d'activation macrophagique. Les corticoïdes et les immunosuppresseurs classiques sont souvent insuffisants ou mal tolérés.\n\nLes inhibiteurs de l'interleukine 1, dont l'anakinra (injection quotidienne), sont une option reconnue en cas de forme active. Le firsékibart est un anticorps monoclonal anti-IL-1β qui pourrait offrir un rythme d'administration plus espacé, ce qui faciliterait l'adhésion.\n\nCette étude de l'hôpital Ruijin (Shanghai) compare firsékibart et anakinra chez 20 adultes avec une MSA active (critères de Yamaguchi). Bien que le registre la classe comme observationnelle de cohorte, elle évoque une randomisation. Le critère principal est la proportion de patients en maladie inactive clinique à la semaine 24.",
+ "interet": "Elle pourrait situer le firsékibart par rapport à l'anakinra, référence des anti-IL-1 dans la MSA. L'effectif est très limité.",
+ "profil": "Des adultes de 18 à 75 ans atteints de maladie de Still active.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, consentement écrit",
+  "MSA selon les critères de Yamaguchi (≥ 5 critères dont 2 majeurs), après exclusion des infections, cancers et autres maladies rhumatismales",
+  "Maladie active : 2 critères de Yamaguchi avec fièvre ou CRP > 10 mg/L",
+  "Corticoïdes à dose stable ≥ 1 semaine, ≤ 1 mg/kg/j",
+  "Pas de projet de grossesse jusqu'à 28 jours après la dernière dose, contraception"
+ ],
+ "exclusion": [
+  "Inhibiteurs de BTK ou de JAK, immunoglobulines IV, échanges plasmatiques ou médecine chinoise dans les 4 semaines",
+  "Anakinra la veille de la randomisation ; étoposide dans les 12 semaines",
+  "Modification récente d'immunosuppresseurs ou d'antipaludéens (3 jours avant l'inclusion)",
+  "Hypersensibilité à un composant du produit",
+  "Syndrome d'activation macrophagique (HLH) présent ou suspecté, ou diagnostiqué dans les 2 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Firsékibart",
+   "traitement": "Firsékibart (anticorps anti-IL-1β) ; posologie non précisée"
+  },
+  {
+   "nom": "Anakinra",
+   "traitement": "Anakinra (anti-récepteur IL-1) ; posologie non précisée"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Proportion de patients en maladie inactive clinique à la semaine 24 (absence de symptômes de la maladie de Still avec VS ou CRP normales)."
+}

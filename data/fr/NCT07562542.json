@@ -1,0 +1,35 @@
+{
+ "h": "4bd8676348bc",
+ "date": "2026-11-14",
+ "titre": "Recherche de la mutation KIT D816V dans le sang pour le diagnostic de mastocytose systémique",
+ "question": "La détection de KIT D816V par ddPCR dans le sang périphérique permet-elle de diagnostiquer une mastocytose systémique sans biopsie médullaire ?",
+ "contexte": "La mastocytose systémique est une hémopathie rare, caractérisée par l'accumulation de mastocytes clonaux, surtout dans la moelle osseuse. Elle peut se manifester par des anaphylaxies récidivantes, des flushs, des douleurs abdominales, une diarrhée ou une urticaire pigmentaire.\n\nLa mutation somatique KIT D816V est retrouvée chez plus de 90 % des adultes et constitue un critère diagnostique majeur de l'OMS. Le diagnostic repose aujourd'hui sur la ponction et la biopsie ostéomédullaires, examens invasifs et douloureux. Les charges alléliques sont plus faibles dans le sang que dans la moelle, mais la PCR digitale en gouttelettes (ddPCR), très sensible, ouvre la possibilité d'un dépistage moins invasif.\n\nCette étude chinoise, monocentrique, compare des patients suspects de mastocytose systémique à des témoins ayant une autre hémopathie. Des échantillons de sang et de moelle appariés sont analysés, et les résultats sont confrontés à la clinique et aux sous-types de la maladie. Elle évalue aussi l'intérêt de la charge mutée sanguine comme marqueur de suivi.",
+ "interet": "Si la ddPCR sanguine est assez sensible et spécifique, elle pourrait permettre de repérer plus simplement les patients à adresser pour biopsie médullaire. Elle pourrait aussi faciliter le suivi de la maladie.",
+ "profil": "Des adultes suspects de mastocytose systémique et des témoins atteints d'autres hémopathies.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Anaphylaxies idiopathiques récidivantes, symptômes d'activation mastocytaire, urticaire pigmentaire ou agrégats mastocytaires histologiques",
+  "Aucun traitement antérieur par inhibiteur de KIT ou médicament agissant sur les mastocytes",
+  "Accord pour la ponction médullaire, le dosage sanguin de KIT D816V et un suivi de 6 mois",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Prélèvement sanguin ou médullaire impossible (comorbidités, troubles de la coagulation)",
+  "Autre hémopathie clonale connue pouvant fausser l'analyse",
+  "Inhibiteur de KIT (imatinib, avapritinib) dans les 3 derniers mois",
+  "Corticoïdes systémiques, interféron ou immunosuppresseur dans le dernier mois",
+  "Refus ou suivi impossible pour comorbidités sévères"
+ ],
+ "bras": [
+  {
+   "nom": "Suspicion de mastocytose systémique",
+   "traitement": "Sang et moelle appariés, KIT D816V par ddPCR"
+  },
+  {
+   "nom": "Témoins avec autre hémopathie",
+   "traitement": "Sang et moelle appariés, KIT D816V par ddPCR"
+  }
+ ],
+ "duree": "Suivi clinique de 6 mois",
+ "critere": "Performance diagnostique de la détection sanguine de KIT D816V par ddPCR, au moment du diagnostic et de la biopsie médullaire initiale"
+}

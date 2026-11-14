@@ -1,0 +1,42 @@
+{
+ "h": "7b30ed12dc70",
+ "date": "2026-11-14",
+ "titre": "Golidocitinib, inhibiteur de JAK1, dans le purpura thrombopénique immunologique de l'adulte",
+ "question": "Le golidocitinib est-il sûr et efficace dans le PTI primaire en rechute ou réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une thrombopénie auto-immune. Les corticoïdes, les immunoglobulines IV, les agonistes du récepteur de la thrombopoïétine et le rituximab ne suffisent pas chez tous les patients, et certains rechutent ou deviennent réfractaires.\n\nLa voie JAK/STAT participe à l'activation des lymphocytes T et à la production de cytokines pro-inflammatoires dans le PTI. Le golidocitinib est un inhibiteur sélectif de JAK1, administré par voie orale, déjà développé en hématologie maligne.\n\nCette étude de phase 1/2 de l'hôpital People's de l'université de Pékin, prévue pour 138 adultes, comporte deux parties : une escalade de dose (partie A) pour définir la sécurité et la dose recommandée, puis une phase randomisée en double aveugle contre placebo (partie B). Le critère principal de la partie B est la réponse durable jusqu'à 24 semaines.",
+ "interet": "Elle pourrait établir une option orale ciblée pour les PTI multi-traités, sans exposition préalable aux inhibiteurs de JAK. Les données restent à un stade précoce.",
+ "profil": "Des adultes de 18 à 80 ans atteints de PTI primaire (> 3 mois) avec thrombopénie sévère, en rechute ou réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "PTI primaire > 3 mois",
+  "Moyenne de deux numérations plaquettaires (à ≥ 7 jours d'intervalle) < 30 G/L",
+  "Rechute ou résistance aux traitements antérieurs, dont corticoïdes et au moins un autre traitement",
+  "Antécédent de réponse à un traitement antérieur",
+  "Fonctions hématologique, hépatique et rénale adéquates",
+  "Acceptation des restrictions de contraception"
+ ],
+ "exclusion": [
+  "PTI secondaire ou cause secondaire suspectée",
+  "Traitement ou médicaments associés interdits (selon protocole)",
+  "Maladie cardiovasculaire majeure, infection active, cancer ou maladie systémique non contrôlée",
+  "Allaitement",
+  "Hypersensibilité à des composés de structure voisine",
+  "Traitement antérieur par inhibiteur de JAK"
+ ],
+ "bras": [
+  {
+   "nom": "Golidocitinib, partie A",
+   "traitement": "Escalade de dose, voie orale, une fois par jour"
+  },
+  {
+   "nom": "Golidocitinib, partie B",
+   "traitement": "Dose recommandée de phase 2, voie orale, une fois par jour"
+  },
+  {
+   "nom": "Placebo, partie B",
+   "traitement": "Placebo, voie orale, une fois par jour"
+  }
+ ],
+ "duree": "Jusqu'à 1 an (partie A) ; 24 semaines pour le critère principal (partie B)",
+ "critere": "Partie A : incidence et gravité des événements indésirables sur 1 an. Partie B : taux de réponse durable jusqu'à 24 semaines."
+}

@@ -1,0 +1,31 @@
+{
+ "h": "5a739d8b7ac6",
+ "date": "2026-11-14",
+ "titre": "Sildénafil dans l'atteinte vasculaire pulmonaire précoce de la sclérodermie (SEPVADIS)",
+ "question": "Le sildénafil améliore-t-il la distance de marche de 6 minutes chez des patients sclérodermiques ayant une pression artérielle pulmonaire légèrement élevée ?",
+ "contexte": "La sclérodermie systémique (ScS) s'accompagne d'une atteinte vasculaire pulmonaire fréquente, pouvant évoluer vers l'hypertension artérielle pulmonaire (HTAP), une des premières causes de décès de la maladie. Le seuil hémodynamique de l'HTAP a été abaissé à une pression artérielle pulmonaire moyenne supérieure à 20 mmHg, ce qui pose la question du traitement des patients dont la pression est modérément élevée, sans HTAP franche.\n\nLe sildénafil, inhibiteur de la phosphodiestérase de type 5, améliore la distance de marche de 6 minutes (TM6), l'hémodynamique et même le remodelage cardiaque dans l'HTAP, y compris celle de la ScS, avec une bonne sécurité d'emploi depuis plusieurs décennies. Son intérêt dans les élévations modérées de pression, avant l'HTAP, n'est pas démontré.\n\nCet essai de phase 2 de Johns Hopkins University avec la Louisiana State University et le Département de la Défense américain est randomisé, en double aveugle contre placebo, chez des patients sclérodermiques avec pression artérielle pulmonaire moyenne de 21 à 24 mmHg. Le sildénafil est donné à 20 mg trois fois par jour. Le critère principal est la différence de variation du TM6 à 4 mois.",
+ "interet": "L'étude pourrait indiquer si un traitement vasodilatateur pulmonaire précoce est justifié dans la sclérodermie avec élévation modérée de la pression pulmonaire, avant l'HTAP.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec pression artérielle pulmonaire moyenne de 21 à 24 mmHg.",
+ "inclusion": [
+  "Pression artérielle pulmonaire moyenne de 21 à 24 mmHg avec pression capillaire pulmonaire (ou télédiastolique du VG) d'au plus 15 mmHg, documentée dans les 6 mois",
+  "ScS selon les critères ACR/EULAR 2013",
+  "VEMS/CVF supérieur à 50 % et CPT ou CVF supérieure à 70 % (ou 60 à 70 % avec PID légère au plus au scanner)",
+  "Absence de maladie thromboembolique chronique à la scintigraphie V/Q ou à l'angioscanner",
+  "Capacité à réaliser le test de marche de 6 minutes",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Classe fonctionnelle OMS IV",
+  "Pression artérielle systolique inférieure à 90 mmHg",
+  "Apnée du sommeil non traitée significative",
+  "Valvulopathie gauche supérieure à modérée, sténose pulmonaire ou FEVG inférieure à 45 %",
+  "Traitement de l'HTAP dans les 3 derniers mois (prostacyclines, antagonistes des récepteurs de l'endothéline, inhibiteurs de PDE5, riociguat, sélexipag)",
+  "Insuffisance rénale (créatinine supérieure à 2,0), hospitalisation ou maladie aiguë, nitrés, grossesse, autre essai"
+ ],
+ "bras": [
+  { "nom": "Sildénafil", "traitement": "Sildénafil 20 mg par voie orale trois fois par jour" },
+  { "nom": "Placebo", "traitement": "Placebo par voie orale trois fois par jour" }
+ ],
+ "duree": "4 mois",
+ "critere": "Différence de variation de la distance parcourue au test de marche de 6 minutes entre l'inclusion et 4 mois"
+}
