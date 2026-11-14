@@ -1,0 +1,33 @@
+{
+ "h": "216fd4bae9f8",
+ "date": "2026-11-14",
+ "titre": "Budoprutug (anti-CD19) dans le lupus actif séropositif : phase 1b/2a",
+ "question": "Le budoprutug, anticorps anti-CD19 déplétant, est-il bien toléré et actif chez des adultes ayant un lupus actif séropositif ?",
+ "contexte": "Malgré les traitements actuels, une partie des patients lupiques garde une maladie active. La déplétion des lymphocytes B est une voie validée (bélimumab, anifrolumab pour l'interféron, rituximab hors AMM), et les CAR-T anti-CD19 ont montré des rémissions profondes, mais leur lourdeur limite leur diffusion.\n\nLe budoprutug est un anticorps monoclonal IgG1 humanisé anti-CD19 qui déplète les cellules cibles par cytotoxicité cellulaire dépendante des anticorps. Contrairement à l'anti-CD20, CD19 est exprimé aussi par les plasmablastes et certains plasmocytes précoces, ce qui pourrait donner une déplétion plus profonde. Cette étude ouverte de phase 1b/2a, promue par Climb Bio, inclut 30 adultes de 18 à 65 ans avec un lupus actif séropositif (SLEDAI-2K ≥ 6) et une réponse insuffisante à au moins un traitement. Le produit est administré en deux perfusions à 14 jours d'intervalle, selon des cohortes à doses croissantes puis une cohorte d'expansion. Les patients avec néphrite lupique de classe III/IV ou atteinte neuropsychiatrique active sont exclus.",
+ "interet": "L'étude précisera la dose et la tolérance du budoprutug et donnera des indications précoces sur la déplétion B et l'activité. Il pourrait constituer une alternative injectable aux CAR-T si l'efficacité est confirmée.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus actif séropositif et une réponse insuffisante au traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus systémique selon les critères EULAR/ACR 2019",
+  "Maladie active séropositive, SLEDAI-2K ≥ 6 au dépistage",
+  "Réponse insuffisante à au moins une intervention thérapeutique"
+ ],
+ "exclusion": [
+  "Lupus neuropsychiatrique actif",
+  "Néphrite lupique active de type III ou IV nécessitant une induction, ou induction récente (< 12 semaines)",
+  "Autre maladie auto-immune ou inflammatoire pouvant gêner l'évaluation",
+  "Infection systémique active ou antécédent d'infections graves, chroniques, récurrentes ou latentes"
+ ],
+ "bras": [
+  {
+   "nom": "Cohortes 1 à 3 : paliers de dose A, B, C",
+   "traitement": "Budoprutug IV aux jours 1 et 15"
+  },
+  {
+   "nom": "Cohorte d'expansion",
+   "traitement": "Budoprutug IV aux jours 1 et 15, à la dose retenue"
+  }
+ ],
+ "duree": "28 semaines",
+ "critere": "Fréquence des événements indésirables apparus sous traitement, des anomalies biologiques et des toxicités limitant la dose, ainsi que constantes vitales et ECG, jusqu'à 28 semaines"
+}

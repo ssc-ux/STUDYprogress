@@ -1,14 +1,33 @@
 {
-"h": "218c5793414a",
-"date": "2026-11-13",
-"titre": "Adalimumab biosimilaire dans l'uvéite non infectieuse de l'enfant en Corée du Sud (PANDA-U)",
-"question": "L'adalimumab est-il efficace et sûr chez l'enfant atteint d'uvéite non infectieuse, pour produire des données en vie réelle en Corée du Sud ?",
-"contexte": "L'uvéite non infectieuse de l'enfant (antérieure, intermédiaire, postérieure ou panuvéite) peut être chronique et menacer la vision. Après échec des corticoïdes et du méthotrexate, les anti-TNF, dont l'adalimumab, jouent un rôle central dans les formes réfractaires. L'essai SYCAMORE a servi de référence pour définir l'activité de la maladie.\n\nEn Corée du Sud, l'indication pédiatrique de l'adalimumab dans l'uvéite a été retirée il y a plusieurs années, à la différence de l'adulte. Les indications dans l'arthrite juvénile idiopathique et la maladie de Crohn pédiatrique restent approuvées. De nombreux enfants reçoivent donc de l'adalimumab hors AMM et sans remboursement, ce que les promoteurs veulent documenter.\n\nPANDA-U est une étude monocentrique du Samsung Medical Center, en ouvert, à un seul groupe, d'environ 40 enfants de 2 à 18 ans. Une cohorte prospective de patients naïfs d'adalimumab reçoit un biosimilaire pendant 12 mois. Une cohorte de relais comprend des patients déjà traités qui passent au produit étudié. L'objectif est de constituer des données de vie réelle pour appuyer une extension d'indication et le remboursement.",
-"interet": "L'étude pourrait servir d'appui à un rétablissement de l'indication pédiatrique et au remboursement de l'adalimumab dans l'uvéite en Corée du Sud. Elle apporte aussi des données sur un biosimilaire chez l'enfant.",
-"profil": "Des enfants de 2 à 17 ans atteints d'uvéite non infectieuse antérieure, intermédiaire, postérieure ou panuvéite, en échec des traitements usuels.",
-"inclusion": ["Âge de 2 ans à moins de 18 ans", "Uvéite non infectieuse (antérieure, intermédiaire, postérieure ou panuvéite)", "Inflammation active (cellules en chambre antérieure ≥ 1+ selon SUN, ou lésions postérieures persistantes malgré 12 semaines de méthotrexate et corticoïdes)", "Réponse insuffisante ou intolérance aux corticoïdes ou aux immunosuppresseurs", "Consentement des parents et assentiment de l'enfant", "Cohorte prospective : adalimumab jamais utilisé ; cohorte de relais : adalimumab en cours, avec au moins 1 an de traitement à poursuivre, et schéma toutes les 2 semaines"],
-"exclusion": ["Uvéite associée à une arthrite juvénile idiopathique ou à une maladie de Crohn pédiatrique", "Uvéite infectieuse ou inflammation d'origine non immunologique (traumatisme, chirurgie) dans les 30 jours", "Tuberculose active ou latente non traitée, sepsis, infection opportuniste ou infection sévère active", "Hypersensibilité à l'adalimumab ou à ses excipients", "Corticoïdes topiques > 6 instillations par jour et par œil", "Autres critères d'exclusion (22 à 24) non détaillés dans l'extrait du registre"],
-"bras": [{"nom": "Cohortes prospective et de relais", "traitement": "Biosimilaire de l'adalimumab (seringue préremplie ou stylo), toutes les 2 semaines ; cohorte prospective pendant 12 mois, cohorte de relais pour au moins 1 an"}],
-"duree": "12 mois (environ 52 semaines) pour la cohorte prospective",
-"critere": "Taux d'échec thérapeutique et variation des infections médicalement importantes (MIIS) dans la cohorte prospective de patients naïfs, jusqu'à 12 mois."
+ "h": "218c5793414a",
+ "date": "2026-11-13",
+ "titre": "Adalimumab biosimilaire dans l'uvéite non infectieuse de l'enfant en Corée du Sud (PANDA-U)",
+ "question": "L'adalimumab est-il efficace et sûr chez l'enfant atteint d'uvéite non infectieuse, pour produire des données en vie réelle en Corée du Sud ?",
+ "contexte": "L'uvéite non infectieuse de l'enfant (antérieure, intermédiaire, postérieure ou panuvéite) peut être chronique et menacer la vision. Après échec des corticoïdes et du méthotrexate, les anti-TNF, dont l'adalimumab, jouent un rôle central dans les formes réfractaires. L'essai SYCAMORE a servi de référence pour définir l'activité de la maladie.\n\nEn Corée du Sud, l'indication pédiatrique de l'adalimumab dans l'uvéite a été retirée il y a plusieurs années, à la différence de l'adulte. Les indications dans l'arthrite juvénile idiopathique et la maladie de Crohn pédiatrique restent approuvées. De nombreux enfants reçoivent donc de l'adalimumab hors AMM et sans remboursement, ce que les promoteurs veulent documenter.\n\nPANDA-U est une étude monocentrique du Samsung Medical Center, en ouvert, à un seul groupe, d'environ 40 enfants de 2 à 18 ans. Une cohorte prospective de patients naïfs d'adalimumab reçoit un biosimilaire pendant 12 mois. Une cohorte de relais comprend des patients déjà traités qui passent au produit étudié. L'objectif est de constituer des données de vie réelle pour appuyer une extension d'indication et le remboursement.",
+ "interet": "L'étude pourrait servir d'appui à un rétablissement de l'indication pédiatrique et au remboursement de l'adalimumab dans l'uvéite en Corée du Sud. Elle apporte aussi des données sur un biosimilaire chez l'enfant.",
+ "profil": "Des enfants de 2 à 17 ans atteints d'uvéite non infectieuse antérieure, intermédiaire, postérieure ou panuvéite, en échec des traitements usuels.",
+ "inclusion": [
+  "Âge de 2 ans à moins de 18 ans",
+  "Uvéite non infectieuse (antérieure, intermédiaire, postérieure ou panuvéite)",
+  "Inflammation active (cellules en chambre antérieure ≥ 1+ selon SUN, ou lésions postérieures persistantes malgré 12 semaines de méthotrexate et corticoïdes)",
+  "Réponse insuffisante ou intolérance aux corticoïdes ou aux immunosuppresseurs",
+  "Consentement des parents et assentiment de l'enfant",
+  "Cohorte prospective : adalimumab jamais utilisé ; cohorte de relais : adalimumab en cours, avec au moins 1 an de traitement à poursuivre, et schéma toutes les 2 semaines"
+ ],
+ "exclusion": [
+  "Uvéite associée à une arthrite juvénile idiopathique ou à une maladie de Crohn pédiatrique",
+  "Uvéite infectieuse ou inflammation d'origine non immunologique (traumatisme, chirurgie) dans les 30 jours",
+  "Tuberculose active ou latente non traitée, sepsis, infection opportuniste ou infection sévère active",
+  "Hypersensibilité à l'adalimumab ou à ses excipients",
+  "Corticoïdes topiques > 6 instillations par jour et par œil",
+  "Autres critères d'exclusion (22 à 24) non détaillés dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Cohortes prospective et de relais",
+   "traitement": "Biosimilaire de l'adalimumab (seringue préremplie ou stylo), toutes les 2 semaines ; cohorte prospective pendant 12 mois, cohorte de relais pour au moins 1 an"
+  }
+ ],
+ "duree": "12 mois (environ 52 semaines) pour la cohorte prospective",
+ "critere": "Taux d'échec thérapeutique et variation des infections médicalement importantes (MIIS) dans la cohorte prospective de patients naïfs, jusqu'à 12 mois."
 }

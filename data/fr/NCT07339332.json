@@ -1,0 +1,28 @@
+{
+ "h": "a683ee48e50d",
+ "date": "2026-11-14",
+ "titre": "CAR-T universels CD19/CD20 (CT1195E) dans le lupus systémique réfractaire",
+ "question": "Les CAR-T allogéniques anti-CD19/CD20 CT1195E sont-ils sûrs et actifs dans le lupus systémique réfractaire ?",
+ "contexte": "Une partie des patients lupiques reste en échec malgré les corticoïdes, les immunosuppresseurs (mycophénolate, cyclophosphamide, tacrolimus) et les biothérapies. Les formes sévères, notamment rénales, gardent un pronostic réservé.\n\nDes séries de patients traités par CAR-T anti-CD19 autologues ont rapporté des rémissions profondes avec arrêt des traitements immunosuppresseurs. La fabrication individualisée de ces produits est cependant longue et coûteuse.\n\nLe CT1195E est un produit CAR-T universel, issu de donneurs, ciblant CD19 et CD20 pour limiter l'échappement antigénique. Cette étude de phase 1 ouverte, monobras et monocentrique (Union Hospital, Wuhan) explore trois niveaux de dose (3,0, 4,5 et 6,0 × 10^8 cellules) avec une phase d'escalade puis d'expansion. Environ 12 patients sont prévus. Elle évalue aussi la cinétique métabolique des cellules. Elle est voisine de l'étude du CT1192 menée par le même centre.",
+ "interet": "Les résultats préciseront la tolérance, la dose recommandée et les premiers signaux d'efficacité d'un CAR-T allogénique dans le lupus. Il s'agit d'une étape exploratoire, sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique actif, modéré à sévère, réfractaire aux traitements.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement signé",
+  "Lupus selon les critères EULAR/ACR 2019, évoluant depuis au moins 6 mois",
+  "Au moins 3 mois de corticoïdes avec immunosuppresseurs et/ou biothérapie, maladie restant active",
+  "Prednisone ≥ 7,5 mg/jour si corticoïdes seuls",
+  "Anticorps antinucléaires, anti-ADN natif ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 7 ou atteinte d'organe significative"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T CT1195E",
+   "traitement": "Perfusion de cellules CAR-T CD19/CD20 allogéniques, 3 niveaux de dose (3,0, 4,5 ou 6,0 × 10^8 cellules)"
+  }
+ ],
+ "duree": "Au moins 180 jours de suivi de tolérance après la perfusion",
+ "critere": "Incidence et gravité des toxicités dose-limitantes dans les 28 jours, dose maximale tolérée, événements indésirables dans les 180 jours"
+}

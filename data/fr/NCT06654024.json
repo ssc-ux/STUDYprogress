@@ -1,14 +1,27 @@
 {
-"h": "a98ec32e6248",
-"date": "2026-11-13",
-"titre": "Congophilie urinaire comme marqueur d'activité de la néphrite lupique",
-"question": "Le taux de congophilie urinaire reflète-t-il l'activité de la néphrite lupique et ses lésions histologiques rénales ?",
-"contexte": "La néphrite lupique touche 20 à 60 % des patients atteints de lupus érythémateux systémique au cours de leur vie, et des lésions histologiques sont présentes chez la plupart d'entre eux, même sans signe clinique rénal. Elle augmente la mortalité : 10 à 30 % des patients évoluent vers l'insuffisance rénale terminale dans les 5 ans suivant le diagnostic.\n\nUn diagnostic et un traitement précoces améliorent le pronostic rénal. Le suivi repose aujourd'hui sur la protéinurie, le sédiment urinaire et la biopsie rénale, un examen invasif et difficile à répéter. Des marqueurs urinaires non invasifs de l'activité seraient donc utiles.\n\nLa congophilie urinaire correspond à la présence dans l'urine de protéines mal repliées, qui se lient au rouge Congo. Le stress du réticulum endoplasmique, qui favorise ce mauvais repliement, participe aux processus auto-immuns et inflammatoires. Cette étude observationnelle d'Assiut University (Égypte) mesure la congophilie urinaire chez des patients lupiques avec néphrite, et la compare à l'histologie rénale et à l'activité de la néphrite.",
-"interet": "Si la congophilie urinaire est corrélée à l'activité histologique, un test urinaire simple pourrait aider à suivre la néphrite lupique et à limiter le recours aux biopsies répétées. L'étude reste exploratoire, sur un effectif limité.",
-"profil": "Des adultes de 18 à 60 ans atteints de lupus érythémateux systémique avec néphrite lupique.",
-"inclusion": ["Âge de 18 ans ou plus", "Lupus érythémateux systémique selon les critères EULAR/ACR 2019", "Néphrite lupique établie par biopsie rénale ou par un sédiment urinaire actif (protéinurie ou hématurie)"],
-"exclusion": ["Néphropathie pouvant expliquer la protéinurie, comme le diabète", "Glomérulonéphrite d'une autre cause que le lupus", "Femme enceinte atteinte de néphrite lupique ou de trouble hypertensif"],
-"bras": [{"nom": "Patients lupiques avec néphrite lupique", "traitement": "Cohorte unique suivie ; dosage de la congophilie urinaire, comparé à l'histologie rénale et à l'activité de la néphrite"}],
-"duree": "Non précisé (mesure à l'inclusion)",
-"critere": "Niveau de congophilie urinaire à l'inclusion, évalué comme marqueur de l'activité de la néphrite lupique."
+ "h": "a98ec32e6248",
+ "date": "2026-11-13",
+ "titre": "Congophilie urinaire comme marqueur d'activité de la néphrite lupique",
+ "question": "Le taux de congophilie urinaire reflète-t-il l'activité de la néphrite lupique et ses lésions histologiques rénales ?",
+ "contexte": "La néphrite lupique touche 20 à 60 % des patients atteints de lupus érythémateux systémique au cours de leur vie, et des lésions histologiques sont présentes chez la plupart d'entre eux, même sans signe clinique rénal. Elle augmente la mortalité : 10 à 30 % des patients évoluent vers l'insuffisance rénale terminale dans les 5 ans suivant le diagnostic.\n\nUn diagnostic et un traitement précoces améliorent le pronostic rénal. Le suivi repose aujourd'hui sur la protéinurie, le sédiment urinaire et la biopsie rénale, un examen invasif et difficile à répéter. Des marqueurs urinaires non invasifs de l'activité seraient donc utiles.\n\nLa congophilie urinaire correspond à la présence dans l'urine de protéines mal repliées, qui se lient au rouge Congo. Le stress du réticulum endoplasmique, qui favorise ce mauvais repliement, participe aux processus auto-immuns et inflammatoires. Cette étude observationnelle d'Assiut University (Égypte) mesure la congophilie urinaire chez des patients lupiques avec néphrite, et la compare à l'histologie rénale et à l'activité de la néphrite.",
+ "interet": "Si la congophilie urinaire est corrélée à l'activité histologique, un test urinaire simple pourrait aider à suivre la néphrite lupique et à limiter le recours aux biopsies répétées. L'étude reste exploratoire, sur un effectif limité.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus érythémateux systémique avec néphrite lupique.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Lupus érythémateux systémique selon les critères EULAR/ACR 2019",
+  "Néphrite lupique établie par biopsie rénale ou par un sédiment urinaire actif (protéinurie ou hématurie)"
+ ],
+ "exclusion": [
+  "Néphropathie pouvant expliquer la protéinurie, comme le diabète",
+  "Glomérulonéphrite d'une autre cause que le lupus",
+  "Femme enceinte atteinte de néphrite lupique ou de trouble hypertensif"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques avec néphrite lupique",
+   "traitement": "Cohorte unique suivie ; dosage de la congophilie urinaire, comparé à l'histologie rénale et à l'activité de la néphrite"
+  }
+ ],
+ "duree": "Non précisé (mesure à l'inclusion)",
+ "critere": "Niveau de congophilie urinaire à l'inclusion, évalué comme marqueur de l'activité de la néphrite lupique."
 }

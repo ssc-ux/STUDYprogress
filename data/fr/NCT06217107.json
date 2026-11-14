@@ -1,0 +1,14 @@
+{
+ "h": "e47aa002002c",
+ "date": "2026-11-14",
+ "titre": "Coaching culturellement adapté par application mobile pour les femmes noires atteintes de lupus",
+ "question": "Un coaching culturellement adapté via l'application Health360x, avec ou sans micro-apprentissage, améliore-t-il l'engagement et l'atteinte d'objectifs chez des femmes atteintes de lupus ?",
+ "contexte": "Aux États-Unis, le lupus et la néphrite lupique touchent plus souvent et plus sévèrement les femmes noires et d'autres minorités, avec un pronostic rénal moins bon. Au-delà de la biologie, des freins psychosociaux (accès aux soins, confiance, observance, auto-gestion) contribuent à ces disparités.\n\nLes programmes d'éducation thérapeutique et d'auto-gestion améliorent l'adhésion au traitement et l'état fonctionnel dans plusieurs maladies chroniques, mais sont rarement adaptés culturellement. Cette étude randomisée, financée par un partenariat avec Janssen et menée à la Morehouse School of Medicine, teste un coaching dispensé par des pairs ayant un lupus, via l'application Health360x. Les deux bras reçoivent le coaching ; l'un y ajoute des contenus de micro-apprentissage, pour mesurer s'ils renforcent l'engagement et la rétention de l'information. Il s'agit d'une intervention comportementale, sans médicament, avec évaluation par questionnaires à 3 et 6 mois.",
+ "interet": "Les résultats éclaireront l'intérêt de programmes de soutien à l'auto-gestion par pairs, délivrés à distance, pour réduire les inégalités dans le lupus. L'étude n'évalue pas de critère clinique de maladie.",
+ "profil": "Des femmes adultes atteintes de lupus ou de néphrite lupique, anglophones, ayant accès à internet.",
+ "inclusion": ["Femme de plus de 18 ans", "Diagnostic de lupus ou néphrite lupique, déclaré ou documenté", "Consentement signé", "Volonté de suivre l'intervention", "Accès à un ordinateur, smartphone et internet", "Pas de pratique d'auto-gestion ni de programme dans les 12 derniers mois"],
+ "exclusion": ["Incapacité à parler ou lire l'anglais", "Absence d'accès à internet", "Incapacité à remplir les questionnaires de l'étude", "Autres critères : non précisé"],
+ "bras": [{"nom": "Coaching C3 + Health360x", "traitement": "4 séances hebdomadaires de coaching (45 min à 1 h), puis 4 séances toutes les 2 semaines, puis 3 mensuelles, avec l'application"}, {"nom": "Coaching C3 + Health360x + micro-apprentissage", "traitement": "Même programme de coaching, avec en plus des contenus de micro-apprentissage en ligne"}],
+ "duree": "6 mois",
+ "critere": "Engagement (inclus à 3 et 6 mois) et atteinte des objectifs fixés (inclus à 6 mois)"
+}

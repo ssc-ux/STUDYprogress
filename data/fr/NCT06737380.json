@@ -1,0 +1,33 @@
+{
+ "h": "08fae9f18b79",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses de cordon dans le lupus",
+ "question": "Une dose unique de cellules souches mésenchymateuses de cordon ombilical (UC-MSC) est-elle bien tolérée chez des adultes ayant un lupus actif ?",
+ "contexte": "Le lupus systémique actif, en particulier avec atteinte rénale, expose à des poussées et à des dommages d'organes malgré les traitements immunosuppresseurs et biologiques actuels. Les cellules souches mésenchymateuses ont des propriétés immunomodulatrices : elles modulent les lymphocytes T et B et la production de cytokines. Plusieurs petites séries, surtout chinoises, ont rapporté une amélioration de l'activité du lupus et de la néphrite après perfusion de MSC allogéniques, mais les preuves restent limitées.\n\nCette étude de phase 1 ouverte, promue par LiveKidney.Bio, inclut 10 adultes recevant une dose unique d'UC-MSC en plus du traitement habituel. Le critère principal est la tolérance, avec les événements indésirables survenus pendant 168 jours. Elle recueille aussi des données exploratoires : fonction rénale, score SLEDAI-2K, complément, auto-anticorps, cytokines. Il n'y a pas de groupe comparateur, donc aucune conclusion d'efficacité ne sera possible.",
+ "interet": "L'étude doit d'abord établir la sécurité des UC-MSC dans le lupus. Elle fournira des signaux préliminaires pour concevoir un essai randomisé.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif (SLEDAI-2K ≥ 6) malgré un traitement de fond.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "LES selon critères ACR (≥ 4/11) et/ou SLICC (≥ 4/17)",
+  "ANA ≥ 1:160 ou anti-ADN natif positif dans les 6 mois",
+  "DFGe ≥ 30 mL/min/1,73 m²",
+  "Traitement de fond non biologique depuis au moins 12 semaines",
+  "SLEDAI-2K ≥ 6 au dépistage"
+ ],
+ "exclusion": [
+  "Corticothérapie prolongée pour une autre maladie que le lupus",
+  "Dialyse dans les 12 mois ou transplantation/dialyse prévue dans les 6 mois",
+  "Prednisone > 0,5 mg/kg/j dans les 4 semaines précédentes",
+  "Biothérapie ou traitement expérimental récent (délai de sevrage non respecté)",
+  "Traitement antérieur par MSC (moins de 52 semaines) ou autre thérapie cellulaire (CAR-T, Treg)",
+  "Hépatite B ou C active, VIH, tuberculose ou infection active non traitée"
+ ],
+ "bras": [
+  {
+   "nom": "UC-MSC",
+   "traitement": "Dose unique de cellules souches mésenchymateuses de cordon ombilical, en plus du traitement habituel"
+  }
+ ],
+ "duree": "168 jours",
+ "critere": "Incidence des événements indésirables apparus sous traitement, du jour 1 au jour 168"
+}

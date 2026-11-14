@@ -1,0 +1,14 @@
+{
+ "h": "3b802a3a2dd5",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 académiques dans le lupus systémique réfractaire (Biélorussie)",
+ "question": "Les CAR-T anti-CD19 produits par un centre académique sont-ils efficaces et sûrs dans le lupus réfractaire ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune où la dysrégulation des lymphocytes B conduit à la production d'auto-anticorps. Le traitement repose sur les corticoïdes, l'hydroxychloroquine, les immunosuppresseurs (azathioprine, cyclophosphamide, mycophénolate) et les biothérapies (rituximab, bélimumab). Ces traitements ne contrôlent pas toujours la maladie et exposent à des effets indésirables, notamment liés aux corticoïdes.\n\nLes CAR-T anti-CD19 ont induit dans plusieurs séries internationales des rémissions rapides et durables, sans traitement de fond ni corticoïdes. Les produits industriels sont très coûteux. Des produits « académiques », fabriqués par des centres hospitaliers, pourraient améliorer l'accessibilité de cette option.\n\nCette étude observationnelle de cohorte, menée au centre national de cancérologie N.N. Alexandrov de Minsk en lien avec un centre de greffe et d'hématologie, suit des patients lupiques réfractaires traités par ces CAR-T. Les patients ont une maladie active (SELENA-SLEDAI ≥ 6 ou corticothérapie supérieure à 7,5 mg/jour de prednisolone) et ont reçu au moins deux traitements, dont le mycophénolate ou le cyclophosphamide. Le critère principal associe l'activité de la maladie et la rémission sérologique à 36 mois.",
+ "interet": "L'étude documentera l'efficacité d'une stratégie CAR-T académique dans un pays à ressources limitées. Les résultats seront utiles pour réfléchir à l'accès à ces thérapies dans d'autres systèmes de santé.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif réfractaire à plusieurs traitements.",
+ "inclusion": ["Lupus systémique (critères EULAR/ACR 2019), forme aiguë ou subaiguë", "SELENA-SLEDAI ≥ 6 et/ou prednisolone > 7,5 mg/jour nécessaire", "Au moins 2 traitements antérieurs (dont mycophénolate ou cyclophosphamide, ou intolérance)", "Âge ≥ 18 ans, fonctions d'organes adéquates", "Consentement écrit et bonne observance"],
+ "exclusion": ["Changement de traitement dans les 90 jours avant la perfusion", "Besoin d'épuration extrarénale", "Hépatite B ou C active, infection par le VIH", "Infection aiguë grave non contrôlée", "Angor instable ou infarctus dans les 6 mois, arythmie non contrôlée", "Cancer antérieur ou associé (hors exceptions), déficit immunitaire primitif, grossesse ou allaitement"],
+ "bras": [{"nom": "Cohorte CAR-T anti-CD19", "traitement": "Cellules CAR-T anti-CD19 académiques (dose et schéma non précisés)"}],
+ "duree": "36 mois",
+ "critere": "Activité du lupus (SELENA-SLEDAI) et rémission sérologique (anticorps anti-ADN et/ou anti-Sm, antiphospholipides, C3 et C4 normaux), à 36 mois de la perfusion"
+}

@@ -6,9 +6,30 @@
  "contexte": "L'histiocytose à cellules de Langerhans (LCH) est la plus fréquente des histiocytoses de l'enfant, avec une incidence de 2,6 à 8,9 par million. Les formes multisystémiques, notamment avec atteinte du foie, de la rate ou de la moelle, exposent à un pronostic plus sombre et à des séquelles à long terme (retard de croissance, atteinte endocrinienne ou neurologique).\n\nLe traitement standard de première ligne associe prednisone et vinblastine. Dans l'étude LCH-III, la survie est proche de 100 % dans les formes à bas risque mais d'environ 80 % dans les formes à haut risque. Des réactivations surviennent chez environ 37 % des patients à bas risque, et près de la moitié des enfants développent une résistance.\n\nPlus de la moitié des LCH portent la mutation BRAF V600E, qui active la voie MAPK. Les inhibiteurs de BRAF et de MEK (vémurafénib, dabrafénib, tramétinib) sont efficaces et plutôt bien tolérés en rechute ou réfractaire. Cet essai randomisé du West China Second University Hospital évalue le luvométinib, un inhibiteur de MEK, en association dès la première ligne à la chimiothérapie modifiée (prednisone, vincristine, mercaptopurine).",
  "interet": "L'étude pourrait montrer qu'un inhibiteur de MEK ajouté à la chimiothérapie dès la première ligne réduit les rechutes et les séquelles dans la LCH multisystémique de l'enfant, et ainsi modifier le traitement standard.",
  "profil": "Des enfants de 0 à 18 ans atteints de LCH multisystémique, jamais traités spécifiquement.",
- "inclusion": ["Âge de 0 à 18 ans", "LCH confirmée (CD1a et/ou CD207 positifs), sans traitement antérieur dirigé contre la LCH", "Atteinte multisystémique", "Consentement écrit des parents ou tuteurs (et assentiment de l'enfant)"],
- "exclusion": ["Autre maladie sous-jacente importante (déficit immunitaire primitif, insuffisance cardiaque ou rénale, hépatite virale chronique, VIH, greffe d'organe)", "Antécédent de seconde tumeur", "QTcF > 0,47 s à l'ECG", "Anomalie oculaire significative au bilan ophtalmologique (occlusion veineuse rétinienne, décollement de l'épithélium pigmentaire)", "Mutations MEK de classe 3 spécifiées", "Refus ou impossibilité de consentir"],
- "bras": [{"nom": "Chimiothérapie LCH-III modifiée + luvométinib", "traitement": "Prednisone, vinblastine (ou vincristine) et mercaptopurine, avec luvométinib oral pendant toute la durée du traitement ; doses non précisées"}, {"nom": "Chimiothérapie LCH-III modifiée seule", "traitement": "Prednisone, vincristine et mercaptopurine ; doses non précisées"}],
+ "inclusion": [
+  "Âge de 0 à 18 ans",
+  "LCH confirmée (CD1a et/ou CD207 positifs), sans traitement antérieur dirigé contre la LCH",
+  "Atteinte multisystémique",
+  "Consentement écrit des parents ou tuteurs (et assentiment de l'enfant)"
+ ],
+ "exclusion": [
+  "Autre maladie sous-jacente importante (déficit immunitaire primitif, insuffisance cardiaque ou rénale, hépatite virale chronique, VIH, greffe d'organe)",
+  "Antécédent de seconde tumeur",
+  "QTcF > 0,47 s à l'ECG",
+  "Anomalie oculaire significative au bilan ophtalmologique (occlusion veineuse rétinienne, décollement de l'épithélium pigmentaire)",
+  "Mutations MEK de classe 3 spécifiées",
+  "Refus ou impossibilité de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Chimiothérapie LCH-III modifiée + luvométinib",
+   "traitement": "Prednisone, vinblastine (ou vincristine) et mercaptopurine, avec luvométinib oral pendant toute la durée du traitement ; doses non précisées"
+  },
+  {
+   "nom": "Chimiothérapie LCH-III modifiée seule",
+   "traitement": "Prednisone, vincristine et mercaptopurine ; doses non précisées"
+  }
+ ],
  "duree": "Jusqu'à 2 ans",
  "critere": "Taux de survie sans événement, du jour 1 jusqu'au premier événement ou au dernier suivi, jusqu'à 2 ans"
 }

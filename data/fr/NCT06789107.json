@@ -1,0 +1,25 @@
+{
+ "h": "b61e7038bc76",
+ "date": "2026-11-14",
+ "titre": "Blinatumomab dans le lupus systémique actif réfractaire de l'enfant et de l'adulte",
+ "question": "Le blinatumomab est-il sûr et efficace dans le lupus systémique réfractaire ou actif ?",
+ "contexte": "Le lupus de l'enfant est souvent plus sévère que celui de l'adulte, avec davantage d'atteintes rénales et neuropsychiatriques. Les formes réfractaires aux corticoïdes, antipaludéens, immunosuppresseurs et biothérapies (bélimumab, rituximab) manquent d'options thérapeutiques.\n\nLe blinatumomab est un anticorps bispécifique CD19 x CD3 engageur de lymphocytes T, autorisé dans la leucémie aiguë lymphoblastique à précurseurs B. En déplétant les lymphocytes B, il agit sur un mécanisme central du lupus. Des cas isolés et de petites séries ont suggéré une efficacité dans des maladies auto-immunes réfractaires.\n\nCette étude de phase 1 chinoise, ouverte et monobras, inclut seulement 6 patients de 5 ans et plus. Ils reçoivent deux cycles de 5 jours de blinatumomab en perfusion intraveineuse (5 µg/m² par jour, maximum 9 µg), séparés par 2 semaines, avec suivi sur 52 semaines. L'objectif principal est la tolérance, l'activité de la maladie et les marqueurs sérologiques étant des critères d'exploration.",
+ "interet": "L'étude fournira des données préliminaires de tolérance et d'activité d'un engageur de lymphocytes T à faible dose en pédiatrie, où les options sont rares. L'effectif très restreint limite la portée des conclusions.",
+ "profil": "Des enfants (dès 5 ans) et des adultes atteints de lupus systémique actif et réfractaire.",
+ "inclusion": [
+  "Âge de 5 ans ou plus",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Anticorps antinucléaires ≥ 1/80, anti-ADN natif ou anti-Sm positifs",
+  "Réponse insuffisante à au moins 3 classes (corticoïdes, antipaludéens, immunosuppresseurs, biothérapies)",
+  "SLEDAI-2K ≥ 6, traitement de fond à dose stable",
+  "Lymphocytes B CD19+ ≥ 25/µL, lymphocytes ≥ 0,5 G/L, neutrophiles ≥ 0,5 G/L, hémoglobine ≥ 80 g/L, plaquettes ≥ 75 G/L"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "Blinatumomab", "traitement": "2 cycles de 5 jours, 5 µg/m²/jour (maximum 9 µg/jour) IV, second cycle au début de la 3e semaine" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Tolérance du blinatumomab (événements indésirables) pendant les 12 semaines de traitement"
+}

@@ -6,9 +6,26 @@
  "contexte": "L'histiocytose à cellules de Langerhans (LCH) est la plus fréquente des histiocytoses de l'enfant, avec une incidence de 2,6 à 8,9 par million. Les formes avec atteinte hépatique, splénique ou hématopoïétique sont de mauvais pronostic. Avec l'association vinblastine-prednisone (étude LCH-III), la survie est proche de 100 % dans les formes à bas risque mais d'environ 80 % dans les formes à haut risque, avec des réactivations fréquentes.\n\nEnviron la moitié des patients sont finalement résistants à ce schéma. La cladribine et les inhibiteurs de MAPK ont fait baisser la mortalité. La cladribine à forte dose associée à la cytarabine améliore la survie des formes réfractaires, mais au prix d'une toxicité hématologique sévère, responsable de la moitié des décès.\n\nLa clofarabine, analogue nucléosidique, est étudiée comme alternative potentiellement plus tolérée. Cette étude de phase 2 en vie réelle, menée à l'hôpital West China Second University, associe clofarabine et inhibiteur de BRAF ou de MEK chez des enfants en échec des traitements usuels ou ayant une atteinte d'organe à risque.",
  "interet": "Si l'association est efficace et tolérable, elle pourrait offrir une option de rattrapage aux enfants atteints de LCH à haut risque ou réfractaire, en alternative aux schémas de cladribine-cytarabine plus toxiques.",
  "profil": "Des enfants de 0 à 18 ans atteints de LCH à haut risque, en progression ou en réactivation après chimiothérapie ou thérapie ciblée.",
- "inclusion": ["Enfant de 0 à 18 ans avec LCH (CD1a+/CD207+)", "Diagnostic initial avec atteinte hématopoïétique, hépatique ou splénique, ou progression/réactivation après traitement", "Fonction d'organe compatible avec une chimiothérapie", "Score de Lansky ≥ 50", "Consentement au traitement et au suivi"],
- "exclusion": ["Autre maladie sous-jacente (déficit immunitaire primitif, insuffisance cardiaque ou rénale, hépatite, VIH, greffe d'organe)", "Seconde tumeur", "Chimiothérapie, radiothérapie ou inhibiteur de MAPK récents avec effets indésirables persistants", "Traitement néphrotoxique en cours", "Refus de consentement"],
- "bras": [{"nom": "Dabrafénib ou tramétinib + clofarabine", "traitement": "Inhibiteur de MAPK (dabrafénib ou tramétinib) associé à la clofarabine ; doses non précisées"}],
+ "inclusion": [
+  "Enfant de 0 à 18 ans avec LCH (CD1a+/CD207+)",
+  "Diagnostic initial avec atteinte hématopoïétique, hépatique ou splénique, ou progression/réactivation après traitement",
+  "Fonction d'organe compatible avec une chimiothérapie",
+  "Score de Lansky ≥ 50",
+  "Consentement au traitement et au suivi"
+ ],
+ "exclusion": [
+  "Autre maladie sous-jacente (déficit immunitaire primitif, insuffisance cardiaque ou rénale, hépatite, VIH, greffe d'organe)",
+  "Seconde tumeur",
+  "Chimiothérapie, radiothérapie ou inhibiteur de MAPK récents avec effets indésirables persistants",
+  "Traitement néphrotoxique en cours",
+  "Refus de consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Dabrafénib ou tramétinib + clofarabine",
+   "traitement": "Inhibiteur de MAPK (dabrafénib ou tramétinib) associé à la clofarabine ; doses non précisées"
+  }
+ ],
  "duree": "24 mois",
  "critere": "Survie sans progression à 24 mois"
 }

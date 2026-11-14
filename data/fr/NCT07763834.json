@@ -1,14 +1,48 @@
 {
-"h": "281f5086bc74",
-"date": "2026-11-13",
-"titre": "Uromoduline sérique comme biomarqueur de l'activité et de la chronicité histologiques de la néphrite lupique",
-"question": "Le taux sérique d'uromoduline est-il corrélé aux indices d'activité et de chronicité de la biopsie rénale dans la néphrite lupique ?",
-"contexte": "La néphrite lupique est l'une des manifestations les plus graves du lupus systémique et une cause majeure de maladie rénale chronique et de maladie rénale terminale chez l'adulte jeune. Un diagnostic précoce et une évaluation précise de l'activité sont essentiels pour optimiser le traitement et le pronostic rénal à long terme.\n\nLa biopsie rénale est la référence pour le diagnostic et la classification, et les indices d'activité et de chronicité guident les décisions thérapeutiques. Elle reste toutefois invasive, avec des risques de complications, et ne peut pas être répétée pour surveiller la maladie. D'où l'intérêt de biomarqueurs non invasifs reflétant l'inflammation rénale et les lésions chroniques.\n\nL'uromoduline (protéine de Tamm-Horsfall) est la protéine la plus abondante produite par les cellules de la branche ascendante large de l'anse de Henlé. Son taux sérique est lié à l'intégrité tubulaire et à la masse néphronique, et des taux bas ont été associés à l'atrophie tubulaire et à la fibrose. Cette étude observationnelle d'Assiut University (Égypte), sur 90 participants, compare l'uromoduline sérique entre cinq groupes et la met en relation avec les indices histologiques.",
-"interet": "Si l'uromoduline sérique reflète les lésions histologiques, elle pourrait aider à suivre la néphrite lupique sans biopsies répétées. Les résultats restent à confirmer sur un effectif plus large et dans le temps.",
-"profil": "Des adultes avec néphrite lupique, comparés à des patients lupiques sans atteinte rénale, à des patients avec glomérulonéphrite non lupique et à des sujets sains.",
-"inclusion": ["Groupe I : 30 patients avec néphrite lupique prouvée par biopsie (classification ISN/RPS, indices NIH modifiés)", "Groupe II : 10 patients avec lupus actif sans atteinte rénale (SLEDAI ≥ 6)", "Groupe III : 10 patients avec lupus inactif (SLEDAI < 6)", "Groupe IV : 30 patients avec glomérulonéphrite primitive non lupique ; groupe V : 10 sujets sains", "Âge ≥ 18 ans, lupus selon les critères EULAR/ACR 2019"],
-"exclusion": ["Grossesse ou allaitement", "Insuffisance rénale aiguë pré- ou post-rénale", "Maladie rénale terminale dialysée ou greffe rénale", "Infection active ou sepsis, cancer actif ou traité depuis moins de 5 ans", "Insuffisance cardiaque NYHA III ou IV", "Autre maladie auto-immune ou diabète"],
-"bras": [{"nom": "Néphrite lupique", "traitement": "30 patients avec néphrite lupique prouvée par biopsie ; dosage de l'uromoduline sérique"}, {"nom": "Lupus actif sans atteinte rénale", "traitement": "10 patients, SLEDAI ≥ 6 ; dosage de l'uromoduline sérique"}, {"nom": "Lupus inactif", "traitement": "10 patients, SLEDAI < 6 ; dosage de l'uromoduline sérique"}, {"nom": "Glomérulonéphrite non lupique", "traitement": "30 patients ; dosage de l'uromoduline sérique"}, {"nom": "Témoins sains", "traitement": "10 sujets sains ; dosage de l'uromoduline sérique"}],
-"duree": "Non précisé (évaluation sur 3 ans)",
-"critere": "Corrélation entre le taux sérique d'uromoduline et les indices histologiques d'activité et de chronicité chez les patients avec néphrite lupique, sur 3 ans."
+ "h": "281f5086bc74",
+ "date": "2026-11-13",
+ "titre": "Uromoduline sérique comme biomarqueur de l'activité et de la chronicité histologiques de la néphrite lupique",
+ "question": "Le taux sérique d'uromoduline est-il corrélé aux indices d'activité et de chronicité de la biopsie rénale dans la néphrite lupique ?",
+ "contexte": "La néphrite lupique est l'une des manifestations les plus graves du lupus systémique et une cause majeure de maladie rénale chronique et de maladie rénale terminale chez l'adulte jeune. Un diagnostic précoce et une évaluation précise de l'activité sont essentiels pour optimiser le traitement et le pronostic rénal à long terme.\n\nLa biopsie rénale est la référence pour le diagnostic et la classification, et les indices d'activité et de chronicité guident les décisions thérapeutiques. Elle reste toutefois invasive, avec des risques de complications, et ne peut pas être répétée pour surveiller la maladie. D'où l'intérêt de biomarqueurs non invasifs reflétant l'inflammation rénale et les lésions chroniques.\n\nL'uromoduline (protéine de Tamm-Horsfall) est la protéine la plus abondante produite par les cellules de la branche ascendante large de l'anse de Henlé. Son taux sérique est lié à l'intégrité tubulaire et à la masse néphronique, et des taux bas ont été associés à l'atrophie tubulaire et à la fibrose. Cette étude observationnelle d'Assiut University (Égypte), sur 90 participants, compare l'uromoduline sérique entre cinq groupes et la met en relation avec les indices histologiques.",
+ "interet": "Si l'uromoduline sérique reflète les lésions histologiques, elle pourrait aider à suivre la néphrite lupique sans biopsies répétées. Les résultats restent à confirmer sur un effectif plus large et dans le temps.",
+ "profil": "Des adultes avec néphrite lupique, comparés à des patients lupiques sans atteinte rénale, à des patients avec glomérulonéphrite non lupique et à des sujets sains.",
+ "inclusion": [
+  "Groupe I : 30 patients avec néphrite lupique prouvée par biopsie (classification ISN/RPS, indices NIH modifiés)",
+  "Groupe II : 10 patients avec lupus actif sans atteinte rénale (SLEDAI ≥ 6)",
+  "Groupe III : 10 patients avec lupus inactif (SLEDAI < 6)",
+  "Groupe IV : 30 patients avec glomérulonéphrite primitive non lupique ; groupe V : 10 sujets sains",
+  "Âge ≥ 18 ans, lupus selon les critères EULAR/ACR 2019"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Insuffisance rénale aiguë pré- ou post-rénale",
+  "Maladie rénale terminale dialysée ou greffe rénale",
+  "Infection active ou sepsis, cancer actif ou traité depuis moins de 5 ans",
+  "Insuffisance cardiaque NYHA III ou IV",
+  "Autre maladie auto-immune ou diabète"
+ ],
+ "bras": [
+  {
+   "nom": "Néphrite lupique",
+   "traitement": "30 patients avec néphrite lupique prouvée par biopsie ; dosage de l'uromoduline sérique"
+  },
+  {
+   "nom": "Lupus actif sans atteinte rénale",
+   "traitement": "10 patients, SLEDAI ≥ 6 ; dosage de l'uromoduline sérique"
+  },
+  {
+   "nom": "Lupus inactif",
+   "traitement": "10 patients, SLEDAI < 6 ; dosage de l'uromoduline sérique"
+  },
+  {
+   "nom": "Glomérulonéphrite non lupique",
+   "traitement": "30 patients ; dosage de l'uromoduline sérique"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "10 sujets sains ; dosage de l'uromoduline sérique"
+  }
+ ],
+ "duree": "Non précisé (évaluation sur 3 ans)",
+ "critere": "Corrélation entre le taux sérique d'uromoduline et les indices histologiques d'activité et de chronicité chez les patients avec néphrite lupique, sur 3 ans."
 }

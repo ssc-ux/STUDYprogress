@@ -1,0 +1,14 @@
+{
+ "h": "9aae31f00cb8",
+ "date": "2026-11-14",
+ "titre": "CTX112, CAR-T anti-CD19 allogéniques, dans le lupus, la sclérodermie et les myopathies réfractaires",
+ "question": "Les CAR-T anti-CD19 allogéniques CTX112 sont-elles sûres chez des adultes atteints de lupus, sclérodermie systémique ou myopathie inflammatoire réfractaires ?",
+ "contexte": "Le lupus, la sclérodermie systémique diffuse et les myopathies inflammatoires peuvent rester actifs malgré les immunosuppresseurs et biothérapies. Les CAR-T anti-CD19 autologues ont induit des rémissions sans traitement dans de petites séries, mais leur fabrication individualisée est longue et coûteuse.\n\nCTX112 est un produit allogénique : les lymphocytes T de donneurs sains sont modifiés par CRISPR-Cas9 et dotés d'un récepteur anti-CD19. Il est disponible d'emblée, sans délai de fabrication. Cette étude de phase 1 de CRISPR Therapeutics, ouverte, multicentrique et à doses croissantes, inclut jusqu'à 80 patients. Les populations sont le LES (dont néphrite lupique proliférative), la sclérodermie diffuse ou avec pneumopathie interstitielle, et les myopathies (dermatomyosite, polymyosite, anti-synthétase, myopathie nécrosante). Le critère principal est la sécurité à 28 jours.",
+ "interet": "Il s'agit d'une étude de tolérance de phase précoce. Elle pourrait préparer la voie à une thérapie cellulaire prête à l'emploi dans plusieurs maladies auto-immunes.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, sclérodermie systémique ou myopathie inflammatoire réfractaires et actifs.",
+ "inclusion": ["Âge de 18 à 70 ans", "LES (critères ACR/EULAR 2019), sclérodermie diffuse ou pneumopathie interstitielle (critères 2013) ou myopathie inflammatoire (critères 2017)", "Néphrite lupique de classe III ou IV (± V) active prouvée par biopsie, pour les patients concernés", "Atteinte cutanée ou pulmonaire active pour la sclérodermie ; atteinte modérée à sévère pour la myopathie", "Fonctions d'organes adéquates", "Contraception efficace"],
+ "exclusion": ["Traitement anti-CD19 ou thérapie génique/cellulaire génétiquement modifiée antérieurs", "Greffe d'organe solide ou de cellules souches antérieure", "Atteinte du système nerveux central sévère, active ou antérieure", "Antécédent de crise comitiale, d'accident vasculaire cérébral, de démence ou d'atteinte cérébelleuse", "Connectivite mixte sans maladie prédominante"],
+ "bras": [{"nom": "CTX112", "traitement": "Perfusion intraveineuse de CTX112 après chimiothérapie de lymphodéplétion, à doses croissantes"}],
+ "duree": "Suivi de sécurité prolongé jusqu'en 2031 ; critère principal à 28 jours",
+ "critere": "Sécurité de CTX112, de la perfusion jusqu'à 28 jours après"
+}

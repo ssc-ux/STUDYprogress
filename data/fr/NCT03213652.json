@@ -1,1 +1,34 @@
-{"h":"67b1ccfd89d8","date":"2026-11-13","titre":"Ensartinib chez l'enfant atteint de tumeur avancée avec altération ALK ou ROS1 (Pediatric MATCH)","question":"L'ensartinib permet-il d'obtenir des réponses objectives chez les enfants ayant une tumeur, un lymphome ou une histiocytose en rechute porteurs d'une altération ALK ou ROS1 ?","contexte":"Les tumeurs solides, lymphomes non hodgkiniens et histiocytoses pédiatriques en rechute ou réfractaires ont un pronostic réservé. Les altérations d'ALK et de ROS1 (fusions, mutations, amplifications) sont des moteurs oncogéniques bien connus dans le neuroblastome, la tumeur myofibroblastique inflammatoire et le lymphome anaplasique, mais sont rares dans les autres tumeurs de l'enfant.\n\nL'ensartinib est un inhibiteur de tyrosine kinase de deuxième génération actif sur ALK, ROS1 et d'autres kinases, déjà utilisé dans le cancer bronchique de l'adulte avec réarrangement ALK. Son activité chez l'enfant, tous types tumoraux confondus, reste à documenter.\n\nCet essai de phase 2 est le sous-protocole F de Pediatric MATCH (NCT03155620), promu par le NCI. Il inclut, après séquençage tumoral, des patients de 12 mois à 21 ans avec une altération actionnable ALK ou ROS1. Le registre rapporte 13 patients inclus. L'ensartinib est administré par voie orale, par cycles de 28 jours, jusqu'à 2 ans.","interet":"L'essai pourrait documenter l'activité d'un inhibiteur d'ALK/ROS1 chez l'enfant, tous types tumoraux confondus. Les effectifs très faibles limitent la portée des conclusions.","profil":"Des enfants et jeunes adultes de 12 mois à 21 ans atteints de tumeur avancée avec altération ALK ou ROS1, inclus dans Pediatric MATCH.","inclusion":["Inclusion préalable dans APEC1621SC avec attribution à ce sous-protocole sur une altération actionnable","Âge de 12 mois à 21 ans","Surface corporelle ≥ 0,5 m²","Maladie mesurable radiologiquement (ou évaluable en MIBG pour le neuroblastome)","Indice de Karnofsky ou de Lansky ≥ 50","Troubles neurologiques stables depuis ≥ 7 jours en cas de tumeur du SNC"],"exclusion":["Grossesse ou allaitement ; absence de contraception efficace","Corticoïdes non stables ou décroissants depuis ≥ 7 jours avant l'inclusion","Autre médicament expérimental en cours","Autre traitement anticancéreux en cours","Prophylaxie de la GVH post-greffe (ciclosporine, tacrolimus)","Inducteurs ou inhibiteurs puissants du CYP3A4"],"bras":[{"nom":"Ensartinib","traitement":"Ensartinib par voie orale une fois par jour, J1-J28, cycles de 28 jours jusqu'à 2 ans (26 cycles) en l'absence de progression ou de toxicité inacceptable"}],"duree":"Jusqu'à 2 ans","critere":"Taux de réponse objective, jusqu'à 2 ans après l'entrée dans l'étude"}
+{
+ "h": "67b1ccfd89d8r",
+ "date": "2026-11-13",
+ "titre": "Ensartinib chez l'enfant atteint de tumeur avancée avec altération ALK ou ROS1 (Pediatric MATCH)",
+ "question": "L'ensartinib permet-il d'obtenir des réponses objectives chez les enfants ayant une tumeur, un lymphome ou une histiocytose en rechute porteurs d'une altération ALK ou ROS1 ?",
+ "contexte": "Les tumeurs solides, lymphomes non hodgkiniens et histiocytoses pédiatriques en rechute ou réfractaires ont un pronostic réservé. Les altérations d'ALK et de ROS1 (fusions, mutations, amplifications) sont des moteurs oncogéniques bien connus dans le neuroblastome, la tumeur myofibroblastique inflammatoire et le lymphome anaplasique, mais sont rares dans les autres tumeurs de l'enfant.\n\nL'ensartinib est un inhibiteur de tyrosine kinase de deuxième génération actif sur ALK, ROS1 et d'autres kinases, déjà utilisé dans le cancer bronchique de l'adulte avec réarrangement ALK. Son activité chez l'enfant, tous types tumoraux confondus, reste à documenter.\n\nCet essai de phase 2 est le sous-protocole F de Pediatric MATCH (NCT03155620), promu par le NCI. Il inclut, après séquençage tumoral, des patients de 12 mois à 21 ans avec une altération actionnable ALK ou ROS1. Le registre rapporte 13 patients inclus. L'ensartinib est administré par voie orale, par cycles de 28 jours, jusqu'à 2 ans.",
+ "interet": "L'essai pourrait documenter l'activité d'un inhibiteur d'ALK/ROS1 chez l'enfant, tous types tumoraux confondus. Les effectifs très faibles limitent la portée des conclusions.",
+ "profil": "Des enfants et jeunes adultes de 12 mois à 21 ans atteints de tumeur avancée avec altération ALK ou ROS1, inclus dans Pediatric MATCH.",
+ "inclusion": [
+  "Inclusion préalable dans APEC1621SC avec attribution à ce sous-protocole sur une altération actionnable",
+  "Âge de 12 mois à 21 ans",
+  "Surface corporelle ≥ 0,5 m²",
+  "Maladie mesurable radiologiquement (ou évaluable en MIBG pour le neuroblastome)",
+  "Indice de Karnofsky ou de Lansky ≥ 50",
+  "Troubles neurologiques stables depuis ≥ 7 jours en cas de tumeur du SNC"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement ; absence de contraception efficace",
+  "Corticoïdes non stables ou décroissants depuis ≥ 7 jours avant l'inclusion",
+  "Autre médicament expérimental en cours",
+  "Autre traitement anticancéreux en cours",
+  "Prophylaxie de la GVH post-greffe (ciclosporine, tacrolimus)",
+  "Inducteurs ou inhibiteurs puissants du CYP3A4"
+ ],
+ "bras": [
+  {
+   "nom": "Ensartinib",
+   "traitement": "Ensartinib par voie orale une fois par jour, J1-J28, cycles de 28 jours jusqu'à 2 ans (26 cycles) en l'absence de progression ou de toxicité inacceptable"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Taux de réponse objective, jusqu'à 2 ans après l'entrée dans l'étude",
+ "resultats": "Dans ce bras de traitement par ensartinib, 12 patients pédiatriques ont été analysés. Le taux de réponse objective était de 33,3 % (IC 90 % 15,9 à 56,9). Quatre événements indésirables graves et 5 décès ont été déclarés parmi les 12 patients. L'effectif réduit rend l'estimation imprécise."
+}

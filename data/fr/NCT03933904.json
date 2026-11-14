@@ -1,1 +1,35 @@
-{"h":"6d026f7fb05f","date":"2026-11-13","titre":"Sirolimus dans la maladie de Castleman multicentrique idiopathique déjà traitée","question":"Le sirolimus permet-il un bénéfice clinique chez les patients atteints de maladie de Castleman multicentrique idiopathique (iMCD) en échec, en rechute ou intolérants aux anti-IL-6 ?","contexte":"La maladie de Castleman multicentrique idiopathique, HHV-8 négative, est une maladie hématologique rare associant fièvre, cytopénies, adénopathies et inflammation systémique. Le blocage de l'IL-6 par siltuximab ou tocilizumab soulage les symptômes d'une partie des patients, mais environ 66 % des patients de l'essai de phase 2 du siltuximab n'ont pas atteint les critères de réponse.\n\nDes données récentes suggèrent que l'IL-6 n'est pas toujours significativement élevée chez ces patients et que la voie mTOR serait activée, notamment dans les lymphocytes T. Le sirolimus, inhibiteur de mTOR immunosuppresseur, est donc proposé comme alternative.\n\nCet essai de phase 2 de l'université de Pennsylvanie est à bras unique et inclut environ 7 patients de 2 à 80 ans en échec, en rechute ou intolérants aux anti-IL-6. Le sirolimus est administré par voie orale pendant 12 mois, avec un taux sanguin cible. Le critère principal est la réponse clinique et biologique selon les critères de bénéfice clinique (CBR).","interet":"L'étude pourrait valider une option thérapeutique après échec des anti-IL-6 dans l'iMCD. L'effectif très faible limite les conclusions, mais ce signal compte dans une maladie aussi rare.","profil":"Des patients de 2 à 80 ans atteints d'iMCD en échec, en rechute ou intolérants aux anti-IL-6.","inclusion":["Âge de 2 à 80 ans","Antécédents compatibles avec les critères diagnostiques d'iMCD","Échec, rechute sous traitement ou intolérance à un anti-IL-6 ou anti-récepteur de l'IL-6","Maladie active : au moins deux anomalies des critères CBR, dont une mesure objective (hémoglobine, poids ou ganglions)","Capacité à avaler un comprimé","Consentement du patient ou de son représentant légal"],"exclusion":["Grossesse ou allaitement","Traitement systémique de l'iMCD autre que les corticoïdes dans les 28 jours (anti-IL-6 : dernière dose ≥ 14 jours avant, sauf impossibilité)","Sirolimus en monothérapie antérieur pour l'iMCD","Indice ECOG > 3 (ou Karnofsky/Lansky ≤ 60 chez l'enfant)","DFG estimé < 30 mL/min/1,73 m² ou créatinine > 3,0 mg/dL","PNN < 1,0 G/L (< 0,5 G/L chez l'enfant) ; hémoglobine ≤ 6,5 g/dL","ASAT ou ALAT supérieures à 3 fois la limite supérieure"],"bras":[{"nom":"Sirolimus","traitement":"Adultes : dose de charge 5 mg/m² à J1, puis 2,5 mg/m²/j, taux résiduel cible 10-15 ng/mL, pendant 12 mois. Enfants : 2 mg/m²/j, taux cible 5-15 ng/mL"}],"duree":"12 mois","critere":"Pourcentage de patients ayant une réponse de bénéfice clinique (CBR) positive à 12 ± 1 mois"}
+{
+ "h": "6d026f7fb05fr",
+ "date": "2026-11-13",
+ "titre": "Sirolimus dans la maladie de Castleman multicentrique idiopathique déjà traitée",
+ "question": "Le sirolimus permet-il un bénéfice clinique chez les patients atteints de maladie de Castleman multicentrique idiopathique (iMCD) en échec, en rechute ou intolérants aux anti-IL-6 ?",
+ "contexte": "La maladie de Castleman multicentrique idiopathique, HHV-8 négative, est une maladie hématologique rare associant fièvre, cytopénies, adénopathies et inflammation systémique. Le blocage de l'IL-6 par siltuximab ou tocilizumab soulage les symptômes d'une partie des patients, mais environ 66 % des patients de l'essai de phase 2 du siltuximab n'ont pas atteint les critères de réponse.\n\nDes données récentes suggèrent que l'IL-6 n'est pas toujours significativement élevée chez ces patients et que la voie mTOR serait activée, notamment dans les lymphocytes T. Le sirolimus, inhibiteur de mTOR immunosuppresseur, est donc proposé comme alternative.\n\nCet essai de phase 2 de l'université de Pennsylvanie est à bras unique et inclut environ 7 patients de 2 à 80 ans en échec, en rechute ou intolérants aux anti-IL-6. Le sirolimus est administré par voie orale pendant 12 mois, avec un taux sanguin cible. Le critère principal est la réponse clinique et biologique selon les critères de bénéfice clinique (CBR).",
+ "interet": "L'étude pourrait valider une option thérapeutique après échec des anti-IL-6 dans l'iMCD. L'effectif très faible limite les conclusions, mais ce signal compte dans une maladie aussi rare.",
+ "profil": "Des patients de 2 à 80 ans atteints d'iMCD en échec, en rechute ou intolérants aux anti-IL-6.",
+ "inclusion": [
+  "Âge de 2 à 80 ans",
+  "Antécédents compatibles avec les critères diagnostiques d'iMCD",
+  "Échec, rechute sous traitement ou intolérance à un anti-IL-6 ou anti-récepteur de l'IL-6",
+  "Maladie active : au moins deux anomalies des critères CBR, dont une mesure objective (hémoglobine, poids ou ganglions)",
+  "Capacité à avaler un comprimé",
+  "Consentement du patient ou de son représentant légal"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Traitement systémique de l'iMCD autre que les corticoïdes dans les 28 jours (anti-IL-6 : dernière dose ≥ 14 jours avant, sauf impossibilité)",
+  "Sirolimus en monothérapie antérieur pour l'iMCD",
+  "Indice ECOG > 3 (ou Karnofsky/Lansky ≤ 60 chez l'enfant)",
+  "DFG estimé < 30 mL/min/1,73 m² ou créatinine > 3,0 mg/dL",
+  "PNN < 1,0 G/L (< 0,5 G/L chez l'enfant) ; hémoglobine ≤ 6,5 g/dL",
+  "ASAT ou ALAT supérieures à 3 fois la limite supérieure"
+ ],
+ "bras": [
+  {
+   "nom": "Sirolimus",
+   "traitement": "Adultes : dose de charge 5 mg/m² à J1, puis 2,5 mg/m²/j, taux résiduel cible 10-15 ng/mL, pendant 12 mois. Enfants : 2 mg/m²/j, taux cible 5-15 ng/mL"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Pourcentage de patients ayant une réponse de bénéfice clinique (CBR) positive à 12 ± 1 mois",
+ "resultats": "Dans cette étude à un seul bras, 4 patients ont été analysés pour le critère principal, la réponse de bénéfice clinique à 12 ± 1 mois sous sirolimus : 2 l'ont obtenue et 2 non. Un événement indésirable grave a été rapporté sur les 7 patients évalués pour la tolérance, sans décès. L'effectif très limité ne permet pas de conclure formellement."
+}

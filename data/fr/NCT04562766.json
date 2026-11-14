@@ -1,5 +1,5 @@
 {
- "h": "84c5d01c388c",
+ "h": "84c5d01c388cr",
  "date": "2026-11-13",
  "titre": "Rilzabrutinib contre placebo dans le purpura thrombopénique immunologique persistant ou chronique",
  "question": "Le rilzabrutinib permet-il d'obtenir une réponse plaquettaire durable chez des patients atteints de PTI persistant ou chronique ?",
@@ -22,9 +22,16 @@
   "Modification de la dose de corticoïdes ou d'agoniste du récepteur de la TPO dans les 14 jours précédant le jour 1"
  ],
  "bras": [
-  {"nom": "Rilzabrutinib", "traitement": "Rilzabrutinib 400 mg par voie orale, 2 fois par jour, jusqu'à 24 semaines, puis 28 semaines en ouvert"},
-  {"nom": "Placebo", "traitement": "Placebo oral, 2 fois par jour, jusqu'à 24 semaines"}
+  {
+   "nom": "Rilzabrutinib",
+   "traitement": "Rilzabrutinib 400 mg par voie orale, 2 fois par jour, jusqu'à 24 semaines, puis 28 semaines en ouvert"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral, 2 fois par jour, jusqu'à 24 semaines"
+  }
  ],
  "duree": "Jusqu'à 60 semaines (dépistage, 12 à 24 semaines en aveugle, 28 semaines en ouvert, suivi), puis extension d'un maximum de 12 mois",
- "critere": "Pourcentage de participants ayant une réponse plaquettaire durable pendant la phase en aveugle, sur 24 semaines au plus."
+ "critere": "Pourcentage de participants ayant une réponse plaquettaire durable pendant la phase en aveugle, sur 24 semaines au plus.",
+ "resultats": "La réponse plaquettaire durable sur 24 semaines au plus (critère principal) a été observée chez 23,3 % des adultes sous rilzabrutinib 400 mg 2 fois/jour (n = 133 ; IC 95 % 16,12 à 30,49) contre 0,0 % sous placebo (n = 69), soit une différence de risque de 23,1 points (IC 95 % 15,95 à 30,31 ; p < 0,0001). Chez les adolescents, elle est de 11,1 % sous rilzabrutinib (n = 18 ; IC 95 % 1,38 à 34,71) contre 0,0 % sous placebo (n = 12). Pendant la phase en double aveugle, des événements graves sont survenus chez 12 adultes sous rilzabrutinib et 8 sous placebo, et chez 2 adolescents sous rilzabrutinib contre aucun sous placebo. Un décès a été rapporté chez un adulte sous rilzabrutinib. En phase ouverte (n = 180), 17 patients ont eu un événement grave, sans décès. Le registre ne fournit pas de conclusion des auteurs."
 }

@@ -1,0 +1,43 @@
+{
+ "h": "3d8290b7b2aa",
+ "date": "2026-11-14",
+ "titre": "E6742 contre placebo dans le lupus systémique actif",
+ "question": "Le E6742, à plusieurs doses, augmente-t-il la proportion de réponse BICLA à 24 semaines par rapport au placebo chez des adultes ayant un lupus actif ?",
+ "contexte": "Le lupus systémique (LES) reste une maladie difficile à contrôler malgré l'hydroxychloroquine, les immunosuppresseurs et les biothérapies disponibles (bélimumab, anifrolumab). Beaucoup de patients gardent une activité clinique, des poussées et une corticothérapie prolongée source de dommages cumulés. Les recommandations EULAR insistent sur la réduction des corticoïdes à la dose la plus faible possible, idéalement moins de 5 mg/j de prednisone.\n\nLe E6742 est un médicament oral développé par Eisai ; le registre ne précise pas son mécanisme. Cette étude de phase 2 randomisée en double aveugle teste trois doses contre placebo, en association au traitement de fond du patient. Le critère BICLA, fondé sur l'indice BILAG-2004, est un critère composite de réponse reconnu dans les essais de lupus. Il est ici exigé avec une corticothérapie orale basse, ce qui reflète la volonté de démontrer un effet d'épargne cortisonique. L'étude vise aussi à établir une relation dose-réponse, étape nécessaire avant une phase 3. Les résultats ne sont pas encore disponibles.",
+ "interet": "Si le E6742 montre une réponse dose-dépendante, il pourrait devenir une option orale supplémentaire dans le LES actif malgré le traitement de fond. La phase 2 guidera le choix de la dose pour la phase 3.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif malgré un traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à 75 ans (minimum variable selon les pays)",
+  "LES diagnostiqué depuis au moins 6 mois, critères EULAR/ACR 2019",
+  "BILAG-2004 : au moins une catégorie A ou deux catégories B",
+  "SLEDAI-2K ≥ 6 au dépistage et SLEDAI-2K clinique ≥ 4 à l'inclusion",
+  "Traitement de fond stable (corticoïdes ≤ 30 mg/j, antipaludéen ou immunosuppresseur à dose stable)",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Femme en âge de procréer sans contraception hautement efficace pendant l'étude et 28 jours après",
+  "Homme non vasectomisé dont la partenaire est en âge de procréer sans contraception efficace",
+  "Autres critères d'exclusion non détaillés ici : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en association au traitement de fond"
+  },
+  {
+   "nom": "E6742 dose A",
+   "traitement": "E6742 par voie orale, dose A (non précisée)"
+  },
+  {
+   "nom": "E6742 dose B",
+   "traitement": "E6742 par voie orale, dose B (non précisée)"
+  },
+  {
+   "nom": "E6742 dose C",
+   "traitement": "E6742 par voie orale, dose C (non précisée)"
+  }
+ ],
+ "duree": "24 semaines (critère principal)",
+ "critere": "Proportion de patients en réponse BICLA avec une corticothérapie orale basse à la semaine 24"
+}

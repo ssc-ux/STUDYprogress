@@ -1,5 +1,5 @@
 {
- "h": "448443b31c49",
+ "h": "448443b31c49r",
  "date": "2026-11-13",
  "titre": "Immunoglobulines sous-cutanées (IgPro20) contre placebo dans la dermatomyosite de l'adulte",
  "question": "Les immunoglobulines sous-cutanées améliorent-elles la dermatomyosite de l'adulte plus que le placebo, selon le score global d'amélioration (TIS) ?",
@@ -19,9 +19,16 @@
   "Score global de dommages évalué par le médecin ≥ 3, ou amélioration cliniquement pertinente entre le dépistage et l'inclusion"
  ],
  "bras": [
-  {"nom": "IgPro20", "traitement": "Immunoglobulines G humaines par voie sous-cutanée ; dose et rythme non précisés"},
-  {"nom": "Placebo", "traitement": "Solution d'albumine humaine par voie sous-cutanée"}
+  {
+   "nom": "IgPro20",
+   "traitement": "Immunoglobulines G humaines par voie sous-cutanée ; dose et rythme non précisés"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Solution d'albumine humaine par voie sous-cutanée"
+  }
  ],
  "duree": "Non précisé (critère principal à la semaine 25)",
- "critere": "Taux de répondeurs selon le score global d'amélioration (TIS) à la semaine 25."
+ "critere": "Taux de répondeurs selon le score global d'amélioration (TIS) à la semaine 25.",
+ "resultats": "Le taux de répondeurs à la semaine 25 (critère principal) est de 64,3 % sous IgPro20 (n = 65 ; IC 95 % 52,56 à 75,99) contre 61,6 % sous placebo (n = 65 ; IC 95 % 49,52 à 73,74). L'odds ratio est de 1,13 (IC 95 % 0,551 à 2,309 ; p = 0,371), sans supériorité démontrée de l'IgPro20 dans ce schéma en cross-over. Pendant la période 1, 3 patients sous IgPro20 (n = 67) et 5 sous placebo (n = 67) ont eu un événement indésirable grave, avec 1 décès dans chaque groupe. Aux périodes suivantes, des événements graves sont survenus chez 2 à 7 patients par séquence, avec 1 décès supplémentaire en période 2 (séquence IgPro20) et 1 en période 3 (séquence placebo puis IgPro20). Le registre ne fournit pas de conclusion des auteurs."
 }

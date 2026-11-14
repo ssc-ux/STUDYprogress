@@ -1,1 +1,39 @@
-{"h":"4f121d880d68","date":"2026-11-13","titre":"Supplémentation en vitamine D chez les patients atteints de sarcoïdose avec carence","question":"La correction d'une insuffisance en vitamine D améliore-t-elle la fonction pulmonaire des patients atteints de sarcoïdose, et quel est le lien entre statut vitaminique et sévérité ?","contexte":"Dans la sarcoïdose, les macrophages des granulomes produisent de la 1,25-dihydroxyvitamine D en excès, ce qui expose à l'hypercalciurie et à l'hypercalcémie. Par prudence, la supplémentation en vitamine D y est souvent limitée ou évitée. Pourtant, l'insuffisance en vitamine D est fréquente chez ces patients, en particulier sous corticoïdes, avec un risque osseux et un possible impact sur l'immunité.\n\nLa relation entre le statut en vitamine D, la sévérité de la maladie et l'effet de sa correction est mal documentée. Des travaux suggèrent qu'une carence pourrait aggraver l'inflammation granulomateuse.\n\nCet essai de phase 4 randomisé de l'université du Texas Southwestern inclut environ 90 patients stables, avec calcémie ionisée normale. Les patients avec insuffisance en vitamine D reçoivent soit de l'ergocalciférol, soit un placebo, et ceux ayant un taux normal servent de témoins. Les groupes sont stratifiés selon l'usage de corticoïdes systémiques.","interet":"Les résultats pourraient dire si la correction d'une carence en vitamine D est sûre et utile dans la sarcoïdose. Ils pourraient guider la pratique de supplémentation, aujourd'hui très prudente.","profil":"Des adultes atteints de sarcoïdose stable, avec ou sans insuffisance en vitamine D, avec ou sans corticoïdes systémiques.","inclusion":["Sarcoïdose dans un état médical stable (aucune hospitalisation ni passage aux urgences dans les 3 mois)","Absence d'infection pulmonaire ou systémique active","Absence d'autre maladie inflammatoire active","Absence de cancer actif","Calcémie ionisée normale"],"exclusion":["Hospitalisation ou passage aux urgences dans les 3 mois précédents","Infection pulmonaire ou systémique active","Autre maladie inflammatoire active","Cancer actif","Calcémie ionisée élevée"],"bras":[{"nom":"Vitamine D basse : ergocalciférol","traitement":"Ergocalciférol (vitamine D2) 50 000 UI par voie orale, rythme précisé au protocole, avec citrate de calcium et vitamine D2"},{"nom":"Vitamine D basse : placebo","traitement":"Placebo de même aspect, avec citrate de calcium et vitamine D2"},{"nom":"Vitamine D normale : témoins","traitement":"Citrate de calcium et vitamine D2 selon les besoins alimentaires quotidiens"}],"duree":"24 semaines","critere":"Variation de la fonction pulmonaire entre l'inclusion et la semaine 24"}
+{
+ "h": "4f121d880d68",
+ "date": "2026-11-13",
+ "titre": "Supplémentation en vitamine D chez les patients atteints de sarcoïdose avec carence",
+ "question": "La correction d'une insuffisance en vitamine D améliore-t-elle la fonction pulmonaire des patients atteints de sarcoïdose, et quel est le lien entre statut vitaminique et sévérité ?",
+ "contexte": "Dans la sarcoïdose, les macrophages des granulomes produisent de la 1,25-dihydroxyvitamine D en excès, ce qui expose à l'hypercalciurie et à l'hypercalcémie. Par prudence, la supplémentation en vitamine D y est souvent limitée ou évitée. Pourtant, l'insuffisance en vitamine D est fréquente chez ces patients, en particulier sous corticoïdes, avec un risque osseux et un possible impact sur l'immunité.\n\nLa relation entre le statut en vitamine D, la sévérité de la maladie et l'effet de sa correction est mal documentée. Des travaux suggèrent qu'une carence pourrait aggraver l'inflammation granulomateuse.\n\nCet essai de phase 4 randomisé de l'université du Texas Southwestern inclut environ 90 patients stables, avec calcémie ionisée normale. Les patients avec insuffisance en vitamine D reçoivent soit de l'ergocalciférol, soit un placebo, et ceux ayant un taux normal servent de témoins. Les groupes sont stratifiés selon l'usage de corticoïdes systémiques.",
+ "interet": "Les résultats pourraient dire si la correction d'une carence en vitamine D est sûre et utile dans la sarcoïdose. Ils pourraient guider la pratique de supplémentation, aujourd'hui très prudente.",
+ "profil": "Des adultes atteints de sarcoïdose stable, avec ou sans insuffisance en vitamine D, avec ou sans corticoïdes systémiques.",
+ "inclusion": [
+  "Sarcoïdose dans un état médical stable (aucune hospitalisation ni passage aux urgences dans les 3 mois)",
+  "Absence d'infection pulmonaire ou systémique active",
+  "Absence d'autre maladie inflammatoire active",
+  "Absence de cancer actif",
+  "Calcémie ionisée normale"
+ ],
+ "exclusion": [
+  "Hospitalisation ou passage aux urgences dans les 3 mois précédents",
+  "Infection pulmonaire ou systémique active",
+  "Autre maladie inflammatoire active",
+  "Cancer actif",
+  "Calcémie ionisée élevée"
+ ],
+ "bras": [
+  {
+   "nom": "Vitamine D basse : ergocalciférol",
+   "traitement": "Ergocalciférol (vitamine D2) 50 000 UI par voie orale, rythme précisé au protocole, avec citrate de calcium et vitamine D2"
+  },
+  {
+   "nom": "Vitamine D basse : placebo",
+   "traitement": "Placebo de même aspect, avec citrate de calcium et vitamine D2"
+  },
+  {
+   "nom": "Vitamine D normale : témoins",
+   "traitement": "Citrate de calcium et vitamine D2 selon les besoins alimentaires quotidiens"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Variation de la fonction pulmonaire entre l'inclusion et la semaine 24"
+}

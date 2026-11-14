@@ -1,0 +1,41 @@
+{
+ "h": "3577999a28bd",
+ "date": "2026-11-14",
+ "titre": "CD163 urinaire, biomarqueur non invasif de la néphrite lupique (cohorte égyptienne)",
+ "question": "Le CD163 soluble urinaire permet-il de suivre l'activité de la néphrite lupique et de prédire la rémission rénale ?",
+ "contexte": "La néphrite lupique touche une part importante des patients atteints de lupus systémique et reste une cause majeure d'insuffisance rénale chronique. Son suivi repose sur la protéinurie, la créatininémie, le complément et les anti-ADN natifs, qui reflètent imparfaitement l'inflammation intra-rénale. La ponction-biopsie rénale reste l'examen de référence mais ne se répète pas facilement.\n\nLe CD163 est un récepteur exprimé par les macrophages, dont la forme soluble est libérée dans le sang et les urines. Plusieurs travaux ont rapporté que le CD163 urinaire est élevé en cas de néphrite lupique active et corrélé à l'activité histologique. Cette étude observationnelle prospective d'un seul centre (Assiut, Égypte) compare le CD163 urinaire chez 30 patients avec néphrite lupique de classe III, IV, V ou mixte, 10 patients avec lupus actif sans atteinte rénale et 10 patients avec lupus inactif. Les dosages sont répétés pendant le suivi et confrontés aux données cliniques, biologiques et histologiques. L'étude ne teste aucun traitement : les patients reçoivent l'immunosuppression standard.",
+ "interet": "Un marqueur urinaire fiable permettrait de repérer plus tôt la réponse ou la rechute de la néphrite lupique, sans biopsie répétée. L'effectif est faible et monocentrique : l'étude est exploratoire et devra être confirmée dans d'autres populations.",
+ "profil": "Des adultes atteints de lupus systémique, avec ou sans néphrite lupique prouvée par biopsie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus systémique selon les critères ACR/EULAR 2019",
+  "Néphrite lupique prouvée par biopsie, active, nécessitant une induction ou une intensification de l'immunosuppression (groupe 1)",
+  "Lupus actif (SLEDAI > 6) sans néphrite, ou lupus inactif (SLEDAI < 2) pour les groupes témoins",
+  "Fragment de biopsie rénale suffisant pour la classification et les index d'activité et de chronicité",
+  "Capacité à fournir un échantillon d'urine"
+ ],
+ "exclusion": [
+  "Maladie rénale chronique non liée au lupus",
+  "Infection récente ou état inflammatoire aigu",
+  "Infection urinaire active lors du prélèvement",
+  "Infection sévère nécessitant une hospitalisation ou un traitement IV",
+  "Antécédent de greffe rénale",
+  "Cancer ou autre maladie inflammatoire majeure pouvant modifier le CD163 urinaire"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1 : néphrite lupique active (30)",
+   "traitement": "Classe III, IV, V ou mixte prouvée à la biopsie ; suivi sous traitement standard"
+  },
+  {
+   "nom": "Groupe 2 : lupus actif sans néphrite (10)",
+   "traitement": "SLEDAI > 6, sans albuminurie ni hématurie microscopique"
+  },
+  {
+   "nom": "Groupe 3 : lupus inactif (10)",
+   "traitement": "SLEDAI < 2"
+  }
+ ],
+ "duree": "Jusqu'à 52 semaines (dosages à 4, 8, 12, 24 et 52 semaines)",
+ "critere": "Variation la plus précoce du CD163 urinaire comme marqueur de rémission, de rechute ou de réponse au traitement, à 4, 8, 12, 24 et 52 semaines"
+}

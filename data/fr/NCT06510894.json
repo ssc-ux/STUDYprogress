@@ -1,1 +1,30 @@
-{"h":"fe348f4121ad","date":"2026-11-13","titre":"Sotagliflozine pour améliorer la suppression du glucose myocardique en TEP-FDG chez des volontaires sains","question":"Une semaine de sotagliflozine, associée à un régime cétogène de 1 ou 3 jours, permet-elle d'obtenir une suppression complète de la captation myocardique du glucose en TEP-FDG ?","contexte":"La TEP-FDG est utilisée pour diagnostiquer et suivre la sarcoïdose cardiaque en détectant l'inflammation myocardique. Pour être lisible, l'examen exige que le myocarde sain n'utilise plus le glucose, ce qui impose une préparation par régime cétogène et jeûne. Cette préparation est contraignante, et la suppression est parfois incomplète, ce qui rend l'examen ininterprétable.\n\nLes inhibiteurs de SGLT1/2 modifient le métabolisme énergétique, augmentent la production de corps cétoniques et pourraient favoriser le passage du myocarde vers les acides gras. La sotagliflozine, inhibiteur de SGLT1 et SGLT2, est déjà utilisée dans l'insuffisance cardiaque.\n\nCette étude mécanistique pilote de l'université de Pennsylvanie est observationnelle. Elle inclut 40 volontaires sains sans maladie cardiovasculaire, hépatique ou rénale. Ils prennent 400 mg de sotagliflozine par jour pendant 7 jours, avec un régime cétogène de 1 jour (20 sujets) ou 3 jours (20 sujets), avant une TEP-FDG. Des taux de métabolites ciblés sont aussi étudiés.","interet":"Si la suppression du glucose est améliorée, la préparation à la TEP-FDG cardiaque pourrait être raccourcie ou fiabilisée. Cela rendrait le diagnostic de la sarcoïdose cardiaque plus accessible, après validation chez des patients.","profil":"Des adultes volontaires sains, sans maladie cardiovasculaire, hépatique ou rénale chronique.","inclusion":["Âge ≥ 18 ans","Aucun antécédent cardiovasculaire (hypertension, hyperlipidémie, diabète, insuffisance cardiaque, coronaropathie, chirurgie cardiaque, arythmie)","Aucune maladie hépatique ou rénale chronique","Consentement écrit éclairé"],"exclusion":["Grossesse ou allaitement","Prise de diurétiques","DFG estimé < 30 mL/min/1,73 m²","Incapacité à tolérer l'imagerie","Toute autre condition compromettant la sécurité ou la participation selon l'investigateur"],"bras":[{"nom":"Régime cétogène et sotagliflozine","traitement":"Sotagliflozine 400 mg/j pendant 7 jours, avec régime cétogène de 1 jour (n=20) ou 3 jours (n=20), puis TEP-FDG/TDM"}],"duree":"Environ 7 jours de traitement jusqu'à la TEP","critere":"Suppression complète de la captation myocardique de glucose en TEP-FDG, après 7 jours"}
+{
+ "h": "fe348f4121ad",
+ "date": "2026-11-13",
+ "titre": "Sotagliflozine pour améliorer la suppression du glucose myocardique en TEP-FDG chez des volontaires sains",
+ "question": "Une semaine de sotagliflozine, associée à un régime cétogène de 1 ou 3 jours, permet-elle d'obtenir une suppression complète de la captation myocardique du glucose en TEP-FDG ?",
+ "contexte": "La TEP-FDG est utilisée pour diagnostiquer et suivre la sarcoïdose cardiaque en détectant l'inflammation myocardique. Pour être lisible, l'examen exige que le myocarde sain n'utilise plus le glucose, ce qui impose une préparation par régime cétogène et jeûne. Cette préparation est contraignante, et la suppression est parfois incomplète, ce qui rend l'examen ininterprétable.\n\nLes inhibiteurs de SGLT1/2 modifient le métabolisme énergétique, augmentent la production de corps cétoniques et pourraient favoriser le passage du myocarde vers les acides gras. La sotagliflozine, inhibiteur de SGLT1 et SGLT2, est déjà utilisée dans l'insuffisance cardiaque.\n\nCette étude mécanistique pilote de l'université de Pennsylvanie est observationnelle. Elle inclut 40 volontaires sains sans maladie cardiovasculaire, hépatique ou rénale. Ils prennent 400 mg de sotagliflozine par jour pendant 7 jours, avec un régime cétogène de 1 jour (20 sujets) ou 3 jours (20 sujets), avant une TEP-FDG. Des taux de métabolites ciblés sont aussi étudiés.",
+ "interet": "Si la suppression du glucose est améliorée, la préparation à la TEP-FDG cardiaque pourrait être raccourcie ou fiabilisée. Cela rendrait le diagnostic de la sarcoïdose cardiaque plus accessible, après validation chez des patients.",
+ "profil": "Des adultes volontaires sains, sans maladie cardiovasculaire, hépatique ou rénale chronique.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Aucun antécédent cardiovasculaire (hypertension, hyperlipidémie, diabète, insuffisance cardiaque, coronaropathie, chirurgie cardiaque, arythmie)",
+  "Aucune maladie hépatique ou rénale chronique",
+  "Consentement écrit éclairé"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Prise de diurétiques",
+  "DFG estimé < 30 mL/min/1,73 m²",
+  "Incapacité à tolérer l'imagerie",
+  "Toute autre condition compromettant la sécurité ou la participation selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "Régime cétogène et sotagliflozine",
+   "traitement": "Sotagliflozine 400 mg/j pendant 7 jours, avec régime cétogène de 1 jour (n=20) ou 3 jours (n=20), puis TEP-FDG/TDM"
+  }
+ ],
+ "duree": "Environ 7 jours de traitement jusqu'à la TEP",
+ "critere": "Suppression complète de la captation myocardique de glucose en TEP-FDG, après 7 jours"
+}

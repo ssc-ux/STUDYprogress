@@ -1,0 +1,27 @@
+{
+ "h": "bfd69eefaa9d",
+ "date": "2026-11-14",
+ "titre": "Registre argentin prospectif de patients atteints de lupus récent",
+ "question": "Quelles sont les caractéristiques, l'évolution et les difficultés d'accès aux soins des patients argentins atteints de lupus systémique ?",
+ "contexte": "Les données sur le lupus érythémateux systémique (LES) en Amérique latine sont limitées, alors que l'origine ethnique, l'accès aux soins et au traitement influencent beaucoup le pronostic. Les grandes cohortes de référence viennent surtout d'Amérique du Nord et d'Europe.\n\nCe registre multicentrique, promu par la Société argentine de rhumatologie, inclut des adultes dont le LES a été classé depuis moins de 5 ans. Les données sont extraites du dossier clinique par des médecins formés, via un cahier d'observation électronique. Elles comprennent les critères de classification (ACR, SLICC, EULAR/ACR), les manifestations, les scores d'activité et de dommage, les traitements et l'accès aux consultations spécialisées. Le suivi prévu est de 5 ans. L'objectif est de décrire la pratique réelle et d'identifier les freins à l'accès aux soins.",
+ "interet": "Le registre fournira des données de vie réelle sur le LES en Argentine : rémission, activité, dommages, mortalité. Il peut aider à situer les résultats des essais par rapport à d'autres populations.",
+ "profil": "Des adultes argentins atteints de lupus systémique diagnostiqué depuis moins de 5 ans.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LES selon critères ACR 1982/1997 et/ou SLICC",
+  "Moins de 5 ans depuis la satisfaction des critères",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune systémique ou syndrome de chevauchement",
+  "Patient transféré vers un autre centre"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte LES argentine",
+   "traitement": "Observation sans intervention, suivi clinique sur 5 ans avec recueil standardisé"
+  }
+ ],
+ "duree": "Suivi prévu de 5 ans",
+ "critere": "Rémission, mesures rapportées par les patients, mortalité, activité de la maladie et dommages accumulés, à 1 an"
+}

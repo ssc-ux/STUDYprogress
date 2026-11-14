@@ -1,5 +1,5 @@
 {
- "h": "ff08e411f8d0",
+ "h": "ff08e411f8d0r",
  "date": "2026-11-13",
  "titre": "Registre de sécurité et d'efficacité du bélimumab dans le lupus érythémateux systémique",
  "question": "Quelle est l'incidence des événements indésirables d'intérêt particulier chez les patients lupiques traités par bélimumab par rapport à ceux traités par le traitement standard seul ?",
@@ -21,9 +21,16 @@
   "Traitement par corticoïdes seuls"
  ],
  "bras": [
-  {"nom": "Cohorte bélimumab", "traitement": "Bélimumab (voie IV ou sous-cutanée) plus traitement standard, en initiation ou en traitement en cours depuis au moins 2 mois"},
-  {"nom": "Cohorte comparateur", "traitement": "Traitement standard seul, sans bélimumab, en initiation ou en cours depuis au moins 2 mois"}
+  {
+   "nom": "Cohorte bélimumab",
+   "traitement": "Bélimumab (voie IV ou sous-cutanée) plus traitement standard, en initiation ou en traitement en cours depuis au moins 2 mois"
+  },
+  {
+   "nom": "Cohorte comparateur",
+   "traitement": "Traitement standard seul, sans bélimumab, en initiation ou en cours depuis au moins 2 mois"
+  }
  ],
  "duree": "Jusqu'à 63 mois",
- "critere": "Nombre de participants ayant un événement indésirable d'intérêt particulier (infections graves, infections opportunistes, cancers, etc.), analysé selon l'exposition initiale, jusqu'à 63 mois."
+ "critere": "Nombre de participants ayant un événement indésirable d'intérêt particulier (infections graves, infections opportunistes, cancers, etc.), analysé selon l'exposition initiale, jusqu'à 63 mois.",
+ "resultats": "Cette étude de sécurité observationnelle a comparé 1924 patients exposés au bélimumab à 881 patients non exposés, avec un suivi jusqu'à 63 mois. Dans l'analyse en intention de traiter, on dénombre sous bélimumab versus sans bélimumab : 48 versus 29 décès, 44 versus 24 cancers (hors cancers cutanés non mélaniques), 167 versus 65 infections graves et 38 versus 21 infections opportunistes. Dans l'analyse selon l'exposition réelle, l'incidence de la mortalité à 12 mois est de 0,50 pour 100 patients-années (IC 95 % 0,23 à 0,95) sous bélimumab contre 0,88 (0,38 à 1,73) ; celle des infections graves est de 2,86 (2,13 à 3,76) contre 2,33 (1,44 à 3,56). À 24 mois, la mortalité est de 0,68 (0,43 à 1,04) contre 0,84 (0,48 à 1,37) et les infections graves de 2,63 (2,09 à 3,26) contre 2,52 (1,85 à 3,35). Les incidences des cancers et des infections opportunistes sont également proches entre les groupes, avec des intervalles de confiance qui se chevauchent. Le registre ne comporte pas de conclusion rédigée des auteurs."
 }

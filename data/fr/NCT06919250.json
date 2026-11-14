@@ -1,0 +1,26 @@
+{
+ "h": "c9702f58dcf1",
+ "date": "2026-11-14",
+ "titre": "Activité physique des patients atteints de lupus systémique en Espagne",
+ "question": "Quel est le niveau d'activité physique des patients lupiques et quels facteurs cliniques ou sociodémographiques l'influencent ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune chronique dont les manifestations musculo-squelettiques (myopathie, arthrite, arthralgies, ostéonécrose) sont fréquentes. La fatigue, la douleur et la corticothérapie au long cours limitent souvent l'activité physique des patients.\n\nLes recommandations de l'EULAR encouragent l'exercice régulier dans les maladies auto-immunes, car il est associé à une meilleure qualité de vie, moins de fatigue et un moindre risque cardiovasculaire. Les données chez les patients lupiques restent cependant limitées, notamment sur les déterminants du niveau d'activité réel.\n\nCette étude observationnelle ambispective, menée par l'université d'Oviedo, interroge 63 patients espagnols par questionnaires. Le niveau d'activité est mesuré par l'IPAQ. Les variables secondaires sont la fatigue, la qualité de vie (SF-36), le sommeil et des données cliniques, sociodémographiques et anthropométriques. Il n'y a pas d'intervention.",
+ "interet": "L'étude décrira l'activité physique des patients lupiques et ses déterminants. Ces données peuvent aider à cibler les patients sédentaires pour proposer des programmes d'exercice adaptés.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique, résidant en Espagne.",
+ "inclusion": [
+  "Diagnostic de lupus systémique",
+  "Majeur",
+  "Résidant en Espagne",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Dépendance pour les activités de la vie quotidienne",
+  "Incapacité à marcher sans aide d'un tiers",
+  "Chirurgie dans les 6 derniers mois",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  { "nom": "Cohorte de patients lupiques", "traitement": "Aucun traitement ; entretien avec questionnaires fermés et données anonymisées" }
+ ],
+ "duree": "Une visite de dépistage (entretien unique) ; autre suivi non précisé",
+ "critere": "Degré d'activité physique mesuré par le questionnaire IPAQ, lors de la visite de dépistage"
+}

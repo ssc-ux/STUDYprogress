@@ -1,0 +1,14 @@
+{
+ "h": "da29d548a1c8",
+ "date": "2026-11-14",
+ "titre": "CM355 dans le lupus systémique réfractaire (étude monocentrique chinoise)",
+ "question": "CM355 est-il bien toléré et efficace chez des patients lupiques réfractaires ?",
+ "contexte": "Le lupus systémique réfractaire, malgré corticoïdes, immunosuppresseurs et biothérapies, reste une impasse thérapeutique pour certains patients. Le rôle central des lymphocytes B dans la maladie a conduit à tester des stratégies de déplétion plus profonde que le rituximab.\n\nCM355 est un anticorps biologique en développement par un promoteur chinois. Le registre n'en précise pas la structure. Cette étude ouverte, à un seul bras, est menée au Second Hôpital Xiangya (Université centrale du Sud, Chine). Cinq patients ont été inclus. Elle évalue la tolérance et l'efficacité chez des patients à maladie modérément à sévèrement active (SLEDAI-2K ≥ 8, ou BILAG avec au moins un domaine A), stable sous traitement depuis au moins 4 semaines.\n\nLes patients avec néphrite lupique sévère ou atteinte du système nerveux central sont exclus, comme ceux ayant reçu un anti-CD19, un anti-CD20 ou un autre agent déplétant les B dans les 6 mois. Les analyses incluent aussi la pharmacocinétique, la pharmacodynamie et l'immunogénicité.",
+ "interet": "Il s'agit d'une étude exploratoire sur très petit effectif, sans groupe contrôle. Elle fournira des premiers signaux de tolérance et d'efficacité, à confirmer par des essais randomisés.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique réfractaire et actif depuis au moins 12 mois.",
+ "inclusion": ["Âge de 18 à 65 ans", "Lupus systémique (critères EULAR/ACR 2019), évoluant depuis au moins 12 mois", "SLEDAI-2K ≥ 8 (ou ≥ 6 sur les signes cliniques si hypocomplémentémie ou anti-ADN) ou au moins un domaine BILAG A", "Lupus réfractaire (définition du protocole non précisée)", "Traitement stable depuis plus de 4 semaines"],
+ "exclusion": ["Néphrite lupique sévère", "Atteinte du système nerveux central", "Anti-CD19, anti-CD20 ou autre déplétion B dans les 6 mois", "Toute condition jugée incompatible par l'investigateur"],
+ "bras": [{"nom": "CM355", "traitement": "CM355 ; dose et rythme non précisés"}],
+ "duree": "Environ 1 an",
+ "critere": "Événements indésirables, pendant toute l'étude (environ 1 an en moyenne)"
+}

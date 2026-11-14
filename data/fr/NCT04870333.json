@@ -1,0 +1,31 @@
+{
+ "h": "12384d6f66bd",
+ "date": "2026-11-14",
+ "titre": "Prophylaxie de la COVID-19 chez des patients immunodéprimés par maladie rénale ou auto-immune",
+ "question": "Des traitements prophylactiques (niclosamide nasal, ciclésonide, sotrovimab) préviennent-ils la COVID-19 symptomatique chez des patients vulnérables ?",
+ "contexte": "Les patients dialysés, transplantés rénaux ou traités par immunosuppresseurs pour une vascularite, un lupus ou une glomérulopathie répondent moins bien à la vaccination anti-SARS-CoV-2 et sont à haut risque de forme grave. Au démarrage de l'étude, aucun médicament n'avait démontré son efficacité en prophylaxie.\n\nPROTECT-V est un essai plateforme britannique, promu par Cambridge University Hospitals, qui teste plusieurs interventions contre placebo : niclosamide en spray nasal, ciclésonide nasal et inhalé (molécules repositionnées), puis l'anticorps monoclonal sotrovimab. Le design plateforme permet d'ajouter de nouveaux bras sans refaire un essai.\n\nL'étude combine une phase 2/3 randomisée en double aveugle avec une randomisation 1:1:1 entre niclosamide, ciclésonide et placebo une fois le second bras introduit.",
+ "interet": "L'étude pouvait identifier une prophylaxie utilisable chez les immunodéprimés peu répondeurs au vaccin. Les résultats sont à interpréter selon les variants circulants pendant l'inclusion.",
+ "profil": "Des adultes dialysés, transplantés rénaux, ou atteints de vascularite, lupus ou glomérulopathie sous immunosuppresseurs.",
+ "inclusion": [
+  "Âge ≥ 18 ans et consentement écrit",
+  "Dialyse (centre, domicile ou péritonéale)",
+  "Transplantation rénale sous immunosuppresseur listé",
+  "Vascularite (Chapel Hill 2012) ou lupus sous immunosuppresseur listé",
+  "Glomérulopathie prouvée histologiquement sous immunosuppresseur listé"
+ ],
+ "exclusion": [
+  "Incapacité à consentir ou à suivre le protocole",
+  "COVID-19 au moment de l'inclusion (PCR positive ou symptômes évocateurs)",
+  "Hépatopathie chronique ou ALAT/ASAT > 3 fois la normale",
+  "Allergie aux produits étudiés ou à leurs excipients",
+  "Grossesse ou désir de grossesse"
+ ],
+ "bras": [
+  { "nom": "Niclosamide", "traitement": "Spray nasal à 1 %" },
+  { "nom": "Ciclésonide", "traitement": "Spray nasal et inhalé" },
+  { "nom": "Sotrovimab", "traitement": "Anticorps monoclonal, voie et dose non précisées" },
+  { "nom": "Placebo", "traitement": "Placebo apparié à chaque intervention, regroupé pour l'analyse" }
+ ],
+ "duree": "6 à 9 mois",
+ "critere": "COVID-19 symptomatique confirmée pendant le traitement (évaluée à 24 semaines pour niclosamide et ciclésonide, 12 semaines pour sotrovimab)"
+}

@@ -1,5 +1,5 @@
 {
- "h": "18b4ca998992",
+ "h": "18b4ca998992r",
  "date": "2026-11-13",
  "titre": "Étude de poursuite du palovarotène dans la fibrodysplasie ossifiante progressive",
  "question": "Quelles sont la sécurité et l'efficacité à long terme du palovarotène chez les patients atteints de fibrodysplasie ossifiante progressive (FOP) âgés d'au moins 14 ans ?",
@@ -21,8 +21,12 @@
   "Vitamine A ou bêta-carotène, autre rétinoïde oral dans les 4 semaines, tétracyclines"
  ],
  "bras": [
-  {"nom": "Palovarotène : régime chronique et de poussée", "traitement": "Traitement chronique : 5 mg ou dose de l'étude parent ; en cas de poussée ou de traumatisme à risque : 20 mg pendant 28 jours puis 10 mg pendant 56 jours"}
+  {
+   "nom": "Palovarotène : régime chronique et de poussée",
+   "traitement": "Traitement chronique : 5 mg ou dose de l'étude parent ; en cas de poussée ou de traumatisme à risque : 20 mg pendant 28 jours puis 10 mg pendant 56 jours"
+  }
  ],
  "duree": "Environ 32 mois",
- "critere": "Nombre de participants ayant des événements indésirables survenus sous traitement (graves, non graves, liés au traitement), de la signature du consentement jusqu'à 30 jours après la dernière dose (environ 32 mois)."
+ "critere": "Nombre de participants ayant des événements indésirables survenus sous traitement (graves, non graves, liés au traitement), de la signature du consentement jusqu'à 30 jours après la dernière dose (environ 32 mois).",
+ "resultats": "Cette étude de prolongation en ouvert portait sur 59 patients traités par palovarotène. Un événement indésirable émergent est survenu chez 54 patients (53 non graves), et 9 patients ont eu un événement grave, dont 1 jugé lié au traitement. Deux décès ont été rapportés. Le registre ne fournit pas de critère d'efficacité ni de conclusion des auteurs."
 }

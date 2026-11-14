@@ -1,5 +1,5 @@
 {
- "h": "e0f90c262e34",
+ "h": "e0f90c262e34r",
  "date": "2026-11-13",
  "titre": "Dépistage de l'amylose cardiaque par un modèle d'apprentissage profond appliqué à l'ECG et à l'échocardiographie",
  "question": "Un algorithme d'intelligence artificielle peut-il repérer des patients porteurs d'une amylose cardiaque non diagnostiquée ?",
@@ -22,8 +22,12 @@
   "Résident en maison de retraite médicalisée"
  ],
  "bras": [
-  { "nom": "Bras d'intervention (50 patients)", "traitement": "Invitation à un bilan diagnostique d'amylose cardiaque après repérage par le modèle d'apprentissage profond" }
+  {
+   "nom": "Bras d'intervention (50 patients)",
+   "traitement": "Invitation à un bilan diagnostique d'amylose cardiaque après repérage par le modèle d'apprentissage profond"
+  }
  ],
  "duree": "Jusqu'à 1 an après l'identification, avec une seule journée d'évaluation par participant",
- "critere": "Taux de diagnostic d'amylose cardiaque parmi les patients repérés par le modèle, dans l'année suivant l'identification"
+ "critere": "Taux de diagnostic d'amylose cardiaque parmi les patients repérés par le modèle, dans l'année suivant l'identification",
+ "resultats": "Dans cette étude à un seul bras de dépistage de l'amylose cardiaque (Cardiac Amyloidosis Discovery Trial), 50 participants ont été évalués. Le critère principal, le taux de diagnostic d'amylose cardiaque, est de 24 participants sur 50, soit 48 %. Aucun événement indésirable grave ni décès n'est rapporté. Le registre ne comporte pas de conclusion des auteurs."
 }

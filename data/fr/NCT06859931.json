@@ -1,0 +1,14 @@
+{
+ "h": "2e77055d10e4",
+ "date": "2026-11-14",
+ "titre": "TQB3702 par voie orale contre placebo dans le lupus érythémateux systémique (phase 2)",
+ "question": "TQB3702, un inhibiteur sélectif de kinase, améliore-t-il la réponse SRI-4 à 24 semaines chez des adultes atteints de lupus systémique ?",
+ "contexte": "Le lupus érythémateux systémique (LES) reste mal contrôlé chez une partie des patients malgré hydroxychloroquine, corticoïdes et immunosuppresseurs. Les biothérapies disponibles (bélimumab, anifrolumab) sont injectables et n'induisent pas une réponse chez tous.\n\nTQB3702 est décrit dans le registre comme un inhibiteur sélectif de kinase administré par voie orale ; la kinase ciblée n'est pas précisée. Les inhibiteurs de kinases (JAK, TYK2, BTK) sont explorés dans le LES car ils modulent des voies de signalisation impliquées dans les interférons et l'activation B. Cette étude de phase 2 de Chia Tai Tianqing est randomisée, en quadruple aveugle, et compare deux niveaux d'exposition à TQB3702 à un placebo, en plus du traitement standard stable. Le critère est la réponse SRI-4 à 24 semaines.",
+ "interet": "L'étude doit établir si TQB3702 mérite un développement de phase 3 dans le LES et à quelle dose. Elle apportera aussi des données de tolérance d'un traitement oral qui s'ajoute au traitement de fond.",
+ "profil": "Des adultes de 18 à 70 ans atteints de LES actif malgré un traitement standard stable.",
+ "inclusion": ["Âge de 18 à 70 ans", "LES selon critères SLICC 2012, depuis ≥ 6 mois, hors lupus induit", "Score d'activité SLEDAI-2K au-dessus du seuil défini par le protocole", "ANA ≥ 1:80 et/ou anti-ADN natif et/ou anti-Sm positifs", "Traitement standard (corticoïdes, antipaludéens, immunosuppresseurs) depuis ≥ 3 mois, dose stable ≥ 30 jours (corticoïdes ≥ 2 semaines)", "Contraception efficace jusqu'à 6 mois après la dernière dose"],
+ "exclusion": ["Grossesse, allaitement ou projet de grossesse dans les 12 mois", "Néphrite lupique sévère dans les 30 jours précédents", "Atteinte du système nerveux central dans les 12 mois précédents", "Autre maladie auto-immune actuelle ou passée", "Infection active non contrôlée ou récente nécessitant des anti-infectieux intraveineux"],
+ "bras": [{"nom": "TQB3702", "traitement": "Comprimés par voie orale à jeun, une fois par jour pendant 24 semaines"}, {"nom": "TQB3702 (seconde dose) + placebo", "traitement": "Comprimés de TQB3702 et de placebo par voie orale, une fois par jour pendant 24 semaines"}, {"nom": "Placebo", "traitement": "Comprimés de placebo par voie orale, une fois par jour pendant 24 semaines"}],
+ "duree": "24 semaines de traitement",
+ "critere": "Réponse SRI-4 (SLE Responder Index) entre l'inclusion et la semaine 24"
+}

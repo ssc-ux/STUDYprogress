@@ -1,0 +1,14 @@
+{
+ "h": "7e48387f17b0",
+ "date": "2026-11-14",
+ "titre": "Rituximab et faible dose de mycophénolate dans la néphrite lupique proliférative de l'enfant",
+ "question": "Rituximab associé à une faible dose de mycophénolate induit-il une meilleure réponse rénale que le cyclophosphamide chez l'enfant ayant une néphrite lupique proliférative ?",
+ "contexte": "La néphrite lupique de l'enfant est souvent plus sévère que celle de l'adulte et menace le pronostic rénal à long terme. Le traitement d'induction repose sur les corticoïdes associés au mycophénolate mofétil (MMF) ou au cyclophosphamide, avec pour ce dernier une toxicité gonadique et infectieuse préoccupante chez l'enfant.\n\nLe rituximab, anti-CD20, est utilisé hors AMM dans les formes réfractaires ou pour épargner les corticoïdes, mais les données pédiatriques randomisées sont rares. Le rationnel est qu'une déplétion B associée à une dose réduite de MMF permette une induction efficace avec moins d'exposition aux cytotoxiques. Cette étude randomisée, ouverte, menée à l'hôpital Nanfang (Chine), compare cette association au cyclophosphamide en induction des classes III ou IV (± V). Le critère est la réponse rénale à 6 mois, avec toutes les composantes du traitement de fond (IEC/ARA2, corticoïdes, hydroxychloroquine) communes aux deux bras.",
+ "interet": "L'étude pourrait fournir une alternative au cyclophosphamide chez l'enfant, avec moins de toxicité. Les résultats seront à interpréter avec prudence : design ouvert, population d'un centre chinois.",
+ "profil": "Des enfants de 3 à 18 ans atteints de lupus avec néphrite proliférative active (classe III ou IV).",
+ "inclusion": ["Âge de 3 à 18 ans", "LES selon critères EULAR/ACR 2019 ou SLICC 2012", "Néphrite lupique proliférative (classe III ou IV, ± V)", "Protéinurie ≥ 25 mg/kg/24 h ou rapport protéinurie/créatininurie ≥ 1,0", "DFGe ≥ 60 mL/min/1,73 m²", "Pas de cyclophosphamide ni rituximab préalable"],
+ "exclusion": ["Atteinte neuropsychiatrique lupique (encéphalopathie)", "DFGe < 60 mL/min/1,73 m²", "AgHBs positif, sérologie VHC ou VIH positive", "Infection sévère (EBV, CMV) ou tuberculose", "Allergie au rituximab, MMF ou cyclophosphamide", "Insuffisance cardiaque ou hépatique sévère"],
+ "bras": [{"nom": "Rituximab + MMF faible dose", "traitement": "Rituximab et mycophénolate mofétil à faible dose, avec IEC/ARA2, corticoïdes et hydroxychloroquine"}, {"nom": "Cyclophosphamide", "traitement": "Cyclophosphamide, avec IEC/ARA2, corticoïdes et hydroxychloroquine"}],
+ "duree": "6 mois pour le critère principal",
+ "critere": "Réponse rénale (complète, partielle ou absence de réponse) à 6 mois"
+}

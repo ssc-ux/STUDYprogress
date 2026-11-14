@@ -1,5 +1,5 @@
 {
- "h": "65e521ce5c1e",
+ "h": "65e521ce5c1er",
  "date": "2026-11-13",
  "titre": "ABC008 (anticorps anti-KLRG1) contre placebo dans la myosite à inclusions",
  "question": "L'ABC008 est-il sûr et améliore-t-il la fonction des patients atteints de myosite à inclusions par rapport au placebo ?",
@@ -18,10 +18,20 @@
   "Autre maladie auto-immune ou auto-inflammatoire (hors syndrome de Sjögren, leucémie à grands lymphocytes granuleux T ou thyroïdopathie contrôlée)"
  ],
  "bras": [
-  {"nom": "ABC008 0,5 mg/kg", "traitement": "ABC008 0,5 mg/kg ; voie et rythme non précisés"},
-  {"nom": "ABC008 2,0 mg/kg", "traitement": "ABC008 2,0 mg/kg ; voie et rythme non précisés"},
-  {"nom": "Placebo", "traitement": "Placebo"}
+  {
+   "nom": "ABC008 0,5 mg/kg",
+   "traitement": "ABC008 0,5 mg/kg ; voie et rythme non précisés"
+  },
+  {
+   "nom": "ABC008 2,0 mg/kg",
+   "traitement": "ABC008 2,0 mg/kg ; voie et rythme non précisés"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
  ],
  "duree": "Jusqu'à 80 semaines",
- "critere": "Partie A : événements indésirables survenus sous traitement jusqu'à la semaine 80, et variation du score IBMFRS à la semaine 76. Critères de la partie B : non détaillés dans le registre."
+ "critere": "Partie A : événements indésirables survenus sous traitement jusqu'à la semaine 80, et variation du score IBMFRS à la semaine 76. Critères de la partie B : non détaillés dans le registre.",
+ "resultats": "Cette étude de phase 2/3 rapporte pour la partie A un critère de tolérance : au moins un événement indésirable émergent est survenu chez 8 patients sur 9 sous placebo, 17 sur 17 sous ulviprubart 0,5 mg/kg et 17 sur 17 sous 2,0 mg/kg. La plupart étaient de grade 1 à 2 ; le grade 3 a concerné 2, 4 et 3 patients respectivement, et aucun événement de grade 4 n'a été noté. Un événement jugé lié au traitement a été rapporté chez 3 patients sous placebo, 15 sous 0,5 mg/kg et 13 sous 2,0 mg/kg. Pour les événements graves, on compte 2, 2 et 3 patients en partie A. En partie B, ils concernent 16 patients sous placebo (n = 77), 6 sous 0,5 mg/kg (n = 75) et 9 sous 2,0 mg/kg (n = 77), avec 2 décès sous placebo et 1 sous 2,0 mg/kg. Le registre ne fournit pas ici de résultat d'efficacité ni de conclusion des auteurs."
 }

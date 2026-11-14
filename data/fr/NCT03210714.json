@@ -1,1 +1,29 @@
-{"h":"592f98b6aa8c","date":"2026-11-13","titre":"Erdafitinib chez l'enfant atteint de tumeur avancée avec mutation FGFR (Pediatric MATCH)","question":"L'erdafitinib permet-il d'obtenir des réponses objectives chez les enfants ayant une tumeur, un lymphome non hodgkinien ou une histiocytose avec une altération de FGFR ?","contexte":"Les tumeurs solides, lymphomes non hodgkiniens et histiocytoses de l'enfant en rechute ou réfractaires disposent de peu d'options validées. Des altérations de FGFR (mutations, fusions, amplifications) sont retrouvées dans certaines tumeurs pédiatriques, comme des gliomes ou des tumeurs du système nerveux central, mais de façon peu fréquente.\n\nL'erdafitinib est un inhibiteur oral de tyrosine kinase des récepteurs FGFR1 à 4. Il est approuvé chez l'adulte dans le carcinome urothélial avec altération de FGFR3. Son activité chez l'enfant n'est pas établie.\n\nCet essai de phase 2 est un bras de traitement de Pediatric MATCH (NCT03155620), promu par le NCI. Il inclut des patients de 12 mois à 21 ans, orientés après séquençage tumoral vers le sous-protocole B. Le registre rapporte 20 patients inclus. L'erdafitinib est administré une fois par jour, par cycles de 28 jours, jusqu'à 26 cycles (2 ans) en l'absence de progression ou de toxicité inacceptable.","interet":"L'essai documente l'activité d'un inhibiteur de FGFR dans les tumeurs pédiatriques avec altération ciblable. Il contribue à valider l'approche de traitement guidé par la génomique en oncologie pédiatrique.","profil":"Des enfants et jeunes adultes de 12 mois à 21 ans atteints de tumeur avancée avec altération de FGFR, inclus dans Pediatric MATCH.","inclusion":["Inclusion préalable dans APEC1621SC avec attribution à ce sous-protocole selon une altération actionnable","Âge de 12 mois à 21 ans","Surface corporelle ≥ 0,53 m²","Maladie mesurable radiologiquement (ou évaluable en MIBG pour le neuroblastome)","Indice de Karnofsky ou de Lansky ≥ 50","Troubles neurologiques stables depuis ≥ 7 jours en cas de tumeur du SNC"],"exclusion":["Non précisé dans le résumé retenu du registre (critères d'exclusion détaillés non reproduits ici)"],"bras":[{"nom":"Erdafitinib","traitement":"Erdafitinib par voie orale une fois par jour, J1-J28, cycles de 28 jours jusqu'à 26 cycles (2 ans) en l'absence de progression ou de toxicité inacceptable"}],"duree":"Jusqu'à 2 ans","critere":"Taux de réponse objective, jusqu'à 2 ans après l'entrée dans l'étude"}
+{
+ "h": "592f98b6aa8cr",
+ "date": "2026-11-13",
+ "titre": "Erdafitinib chez l'enfant atteint de tumeur avancée avec mutation FGFR (Pediatric MATCH)",
+ "question": "L'erdafitinib permet-il d'obtenir des réponses objectives chez les enfants ayant une tumeur, un lymphome non hodgkinien ou une histiocytose avec une altération de FGFR ?",
+ "contexte": "Les tumeurs solides, lymphomes non hodgkiniens et histiocytoses de l'enfant en rechute ou réfractaires disposent de peu d'options validées. Des altérations de FGFR (mutations, fusions, amplifications) sont retrouvées dans certaines tumeurs pédiatriques, comme des gliomes ou des tumeurs du système nerveux central, mais de façon peu fréquente.\n\nL'erdafitinib est un inhibiteur oral de tyrosine kinase des récepteurs FGFR1 à 4. Il est approuvé chez l'adulte dans le carcinome urothélial avec altération de FGFR3. Son activité chez l'enfant n'est pas établie.\n\nCet essai de phase 2 est un bras de traitement de Pediatric MATCH (NCT03155620), promu par le NCI. Il inclut des patients de 12 mois à 21 ans, orientés après séquençage tumoral vers le sous-protocole B. Le registre rapporte 20 patients inclus. L'erdafitinib est administré une fois par jour, par cycles de 28 jours, jusqu'à 26 cycles (2 ans) en l'absence de progression ou de toxicité inacceptable.",
+ "interet": "L'essai documente l'activité d'un inhibiteur de FGFR dans les tumeurs pédiatriques avec altération ciblable. Il contribue à valider l'approche de traitement guidé par la génomique en oncologie pédiatrique.",
+ "profil": "Des enfants et jeunes adultes de 12 mois à 21 ans atteints de tumeur avancée avec altération de FGFR, inclus dans Pediatric MATCH.",
+ "inclusion": [
+  "Inclusion préalable dans APEC1621SC avec attribution à ce sous-protocole selon une altération actionnable",
+  "Âge de 12 mois à 21 ans",
+  "Surface corporelle ≥ 0,53 m²",
+  "Maladie mesurable radiologiquement (ou évaluable en MIBG pour le neuroblastome)",
+  "Indice de Karnofsky ou de Lansky ≥ 50",
+  "Troubles neurologiques stables depuis ≥ 7 jours en cas de tumeur du SNC"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé retenu du registre (critères d'exclusion détaillés non reproduits ici)"
+ ],
+ "bras": [
+  {
+   "nom": "Erdafitinib",
+   "traitement": "Erdafitinib par voie orale une fois par jour, J1-J28, cycles de 28 jours jusqu'à 26 cycles (2 ans) en l'absence de progression ou de toxicité inacceptable"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Taux de réponse objective, jusqu'à 2 ans après l'entrée dans l'étude",
+ "resultats": "Dans cette étude pédiatrique à un seul bras (erdafitinib, tumeurs avec mutation FGFR), 20 patients ont été analysés. Le taux de réponse objective, critère principal, était de 10 % (IC à 90 % : 3,3 à 26,2). Sur le plan de la tolérance, 10 patients sur 20 ont présenté au moins un événement indésirable grave et 8 décès sont rapportés dans le registre. Le registre ne comporte pas de conclusion des auteurs ; l'activité observée est modeste dans cette population."
+}

@@ -1,0 +1,30 @@
+{
+ "h": "5099a3f2ded3r",
+ "date": "2026-11-14",
+ "titre": "Obinutuzumab versus placebo dans le lupus systémique actif",
+ "question": "L'obinutuzumab, anti-CD20 de nouvelle génération, améliore-t-il la réponse clinique du lupus systémique actif malgré le traitement standard ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique dans laquelle les lymphocytes B jouent un rôle central, par la production d'auto-anticorps. Malgré les antipaludéens, les corticoïdes et les immunosuppresseurs, une proportion importante de patients garde une maladie active et accumule des dommages d'organe et des effets indésirables des corticoïdes.\n\nLes biothérapies ciblant les lymphocytes B (bélimumab, anifrolumab) ont montré un bénéfice modeste dans le LES, tandis que le rituximab, anti-CD20, n'a pas démontré de supériorité dans les essais contrôlés (EXPLORER, LUNAR), possiblement en raison d'une déplétion B incomplète. L'obinutuzumab est un anti-CD20 glycoconçu de type II qui induit une déplétion B plus profonde. Il a déjà montré un bénéfice dans la néphrite lupique (essai de phase 2 NOBILITY, puis phase 3 REGENCY).\n\nCette étude de phase 3 randomisée en double aveugle contre placebo évalue l'obinutuzumab dans le LES extra-rénal ou non néphritique, en ajout du traitement de fond, chez des patients auto-anticorps positifs avec une activité élevée. Elle est promue par Roche, avec un centre français (Pitié-Salpêtrière, Paris).",
+ "interet": "Si le bénéfice est confirmé hors atteinte rénale, l'obinutuzumab pourrait devenir une option de biothérapie anti-CD20 dans le LES actif réfractaire au traitement standard. Les données de tolérance, notamment infectieuse, seront déterminantes.",
+ "profil": "Des adultes de 18 à 75 ans atteints de LES actif, auto-anticorps positifs, sans néphrite lupique significative.",
+ "inclusion": [
+  "LES selon les critères EULAR/ACR 2019, posé depuis au moins 12 semaines",
+  "ANA ≥ 1:80, ou anti-ADN natif et/ou anti-Sm au-dessus de la normale",
+  "Complément bas (C3, C4 ou CH50)",
+  "Activité élevée : BILAG-2004 (A ≥ 1 organe ou B ≥ 2 organes), SLEDAI-2K ≥ 8 et PGA ≥ 1",
+  "Traitement de fond stable : corticoïdes oraux, antipaludéens ou immunosuppresseur conventionnel"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Néphrite lupique significative ou insuffisance rénale",
+  "Anti-CD20 ou anti-CD19 dans les 9 mois précédents ; cyclophosphamide, tacrolimus, ciclosporine ou voclosporine dans les 2 mois",
+  "Maladie sévère ou non contrôlée autre, selon l'investigateur",
+  "Infection active ou épisode infectieux majeur récent"
+ ],
+ "bras": [
+  { "nom": "Obinutuzumab", "traitement": "1000 mg IV à J1, S2, S24 et S26, avec prémédication" },
+  { "nom": "Placebo", "traitement": "Placebo IV aux mêmes dates, avec prémédication" }
+ ],
+ "duree": "52 semaines pour le critère principal, puis suivi prolongé (fin d'étude prévue en 2028)",
+ "critere": "Pourcentage de patients en réponse SRI-4 à la semaine 52",
+ "resultats": "Les résultats sont disponibles dans le registre. À la semaine 52, la réponse SRI-4 était de 76,7 % (IC 95 % 69,8-83,5) dans le groupe obinutuzumab (n = 151) contre 53,5 % (45,3-61,6) dans le groupe placebo (n = 152). La différence ajustée est de 23,1 points (IC 95 % 12,5-33,6 ; p < 0,0001, test de Cochran-Mantel-Haenszel). Les critères secondaires ne sont pas détaillés ici. Sur le plan de la tolérance, des événements indésirables graves ont été rapportés chez 24 patients sous obinutuzumab et 18 sous placebo ; 1 décès a été noté dans le groupe obinutuzumab et 5 dans le groupe placebo. Ces données proviennent du registre et ne remplacent pas la publication complète."
+}

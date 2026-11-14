@@ -1,0 +1,28 @@
+{
+ "h": "2f5c92279a26",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques de sang de cordon anti-CD19/BCMA dans le lupus réfractaire",
+ "question": "Des cellules CAR-T allogéniques dérivées de sang de cordon, ciblant CD19 et BCMA, sont-elles sûres chez des adultes atteints de lupus réfractaire ?",
+ "contexte": "Une proportion notable de patients lupiques reste en activité malgré l'hydroxychloroquine, les immunosuppresseurs, le bélimumab ou l'anifrolumab, avec des atteintes d'organes et une toxicité cumulée des corticoïdes. Les CAR-T autologues anti-CD19 ont induit des rémissions prolongées sans traitement dans de petites séries de lupus sévère, ce qui a ouvert une nouvelle voie thérapeutique.\n\nLes produits autologues sont toutefois longs et coûteux à fabriquer, et les lymphocytes de patients très traités sont parfois de mauvaise qualité. Une approche allogénique « prête à l'emploi » à partir de sang de cordon pourrait lever ces limites. Ce produit cible à la fois CD19 (lymphocytes B) et BCMA (plasmablastes et plasmocytes), afin d'éliminer aussi les cellules productrices d'auto-anticorps non atteintes par l'anti-CD19 seul. Il s'agit d'un essai de phase 1 mené par Chengdu Ucello Biotechnology, à bras unique avec escalade de dose, chez 48 adultes de 18 à 75 ans ayant échappé à au moins deux traitements conventionnels. Le critère principal est la sécurité, notamment les toxicités limitant la dose. Le suivi est très long, jusqu'en 2035, pour surveiller les effets tardifs.",
+ "interet": "Si l'innocuité est confirmée, des CAR-T allogéniques disponibles d'emblée pourraient rendre cette stratégie accessible à bien plus de patients lupiques que les produits autologues. À ce stade il s'agit d'un essai de première administration chez l'humain : aucune conclusion d'efficacité n'est attendue.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique réfractaire, en échec d'au moins deux traitements.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Lupus systémique selon les critères EULAR/ACR 2019",
+  "Échec d'au moins 2 traitements conventionnels pendant ≥ 3 mois",
+  "SELENA-SLEDAI ≥ 6 avec au moins un BILAG A ou deux BILAG B, ou SELENA-SLEDAI ≥ 8",
+  "Fonctions médullaire, hépatique, rénale (clairance ≥ 30 mL/min), de coagulation et cardiaque adéquates",
+  "Contraception efficace chez les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre consulté (critères d'exclusion détaillés non reproduits ici)"
+ ],
+ "bras": [
+  {
+   "nom": "Cellules UCAR-T",
+   "traitement": "CAR-T allogéniques de sang de cordon anti-CD19/BCMA, par paliers de dose"
+  }
+ ],
+ "duree": "Suivi long (jusqu'en 2035 selon le registre)",
+ "critere": "Fréquence des toxicités limitant la dose (28 jours après la perfusion) et des événements indésirables (jusqu'à 2 mois)"
+}

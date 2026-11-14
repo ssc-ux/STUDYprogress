@@ -1,5 +1,5 @@
 {
- "h": "c0d8d41985f6",
+ "h": "c0d8d41985f6r",
  "date": "2026-11-13",
  "titre": "CAEL-101 associé à CyBorD dans l'amylose AL cardiaque de stade Mayo IIIb",
  "question": "Le CAEL-101, anticorps éliminant les dépôts amyloïdes, améliore-t-il la survie et réduit-il les hospitalisations cardiovasculaires dans l'amylose AL de stade IIIb ?",
@@ -21,9 +21,16 @@
   "Autres critères d'exclusion : se référer au registre"
  ],
  "bras": [
-  {"nom": "CAEL-101 + traitement standard", "traitement": "CAEL-101 en perfusion IV d'environ 2 heures (dose non précisée), plus CyBorD"},
-  {"nom": "Placebo + traitement standard", "traitement": "Sérum salé 0,9 % (environ 250 mL) en perfusion IV, plus CyBorD"}
+  {
+   "nom": "CAEL-101 + traitement standard",
+   "traitement": "CAEL-101 en perfusion IV d'environ 2 heures (dose non précisée), plus CyBorD"
+  },
+  {
+   "nom": "Placebo + traitement standard",
+   "traitement": "Sérum salé 0,9 % (environ 250 mL) en perfusion IV, plus CyBorD"
+  }
  ],
  "duree": "Double aveugle jusqu'à 18 mois après la randomisation du dernier patient, puis extension ouverte",
- "critere": "Critère hiérarchique combinant le délai de décès toutes causes et la fréquence des hospitalisations cardiovasculaires (win ratio), jusqu'à la fin du suivi (analyse principale 18 à 47 mois après randomisation)."
+ "critere": "Critère hiérarchique combinant le délai de décès toutes causes et la fréquence des hospitalisations cardiovasculaires (win ratio), jusqu'à la fin du suivi (analyse principale 18 à 47 mois après randomisation).",
+ "resultats": "Le critère principal hiérarchique (mortalité toutes causes puis hospitalisations cardiovasculaires, win ratio) n'a pas montré de bénéfice du CAEL-101 : win ratio global de 0,95 (IC 95 % 0,61 à 1,48 ; p = 0,777) chez 125 patients. Selon le type de chaîne légère, il est de 1,57 (IC 95 % 0,53 à 4,67 ; p = 0,687) pour kappa et de 0,71 (IC 95 % 0,41 à 1,21 ; p = 0,373) pour lambda. Tous les patients de l'ensemble de sécurité ont eu au moins un événement indésirable (84 sous CAEL-101, 40 sous placebo). Des événements graves ont touché 73 patients sous CAEL-101 et 33 sous placebo, avec 46 décès sous CAEL-101 et 22 sous placebo. Le registre ne fournit pas de conclusion des auteurs."
 }

@@ -1,0 +1,14 @@
+{
+ "h": "029fd325fc4b",
+ "date": "2026-11-14",
+ "titre": "Registre et biobanque des néphropathies auto-immunes, inflammatoires et diabétiques (RENAL AID)",
+ "question": "Quels facteurs cliniques et biologiques prédisent la progression des maladies rénales et les résultats de la biopsie rénale ?",
+ "contexte": "Les néphropathies diabétiques, auto-immunes (néphrite lupique, néphropathie à IgA) et le rejet de greffe rénale évoluent de façon très variable. Le pronostic et la réponse aux traitements restent difficiles à prévoir, et la biopsie rénale, examen invasif, reste souvent nécessaire au diagnostic.\n\nRENAL AID est un registre de données et une biobanque monocentrique américaine (Rogosin Institute, New York). Il relie en une base électronique unique les données démographiques, cliniques, biologiques, histologiques, génétiques et d'imagerie. Il stocke aussi du sang, du sérum, des urines et du tissu rénal.\n\nTrois groupes sont suivis : les patients avec biopsie rénale native dont le tissu est conservé, ceux sans tissu conservé (y compris diabétiques sans biopsie), et les greffés rénaux biopsiés (protocole ou pour cause). Les contrôles ont lieu tous les 3 mois la première année puis chaque année pour les biopsies natives, et au moment de la biopsie pour les greffons. Des témoins sans maladie rénale peuvent être inclus pour des analyses précises. L'hypothèse est que des profils de médiateurs inflammatoires dans le sang et les urines pourraient prédire l'histologie rénale, et à terme permettre des diagnostics non invasifs.",
+ "interet": "Cette cohorte peut nourrir des travaux sur des biomarqueurs non invasifs de l'atteinte rénale, y compris lupique. Il s'agit d'une ressource de recherche : elle ne teste aucun traitement.",
+ "profil": "Des adultes avec une maladie rénale native (diabétique ou inflammatoire) ou une greffe rénale, et des témoins.",
+ "inclusion": ["Adultes de 18 ans ou plus", "Consentement éclairé", "Groupe biopsie native : biopsie rénale indiquée médicalement", "Groupe sans tissu : biopsie antérieure non stockée, ou diabète avec néphropathie sans biopsie", "Groupe greffe : biopsie de greffon de surveillance ou pour cause"],
+ "exclusion": ["Incapacité de donner un consentement éclairé", "Autres critères : non précisé"],
+ "bras": [{"nom": "Biopsie native, tissu conservé", "traitement": "Suivi à 3 mois puis annuel ; sang, sérum, urines et tissu stockés"}, {"nom": "Natif, sans tissu conservé", "traitement": "Suivi annuel ; sang, sérum et urines"}, {"nom": "Néphropathie de greffon", "traitement": "Évaluation lors de la biopsie de greffon ; sang, sérum et urines"}],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Évolution de la maladie, sur une période allant jusqu'à 10 ans"
+}

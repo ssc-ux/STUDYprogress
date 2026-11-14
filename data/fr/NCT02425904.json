@@ -1,14 +1,37 @@
 {
- "h": "00d70e624d8e",
+ "h": "00d70e624d8er",
  "date": "2026-11-13",
  "titre": "Clofarabine dans l'histiocytose langerhansienne récidivante ou réfractaire et les histiocytoses apparentées",
  "question": "La clofarabine est-elle active chez les patients atteints de LCH récidivante ou réfractaire, ou d'une histiocytose apparentée ?",
  "contexte": "L'histiocytose à cellules de Langerhans (LCH) est une néoplasie myéloïde inflammatoire, le plus souvent pédiatrique, dont les formes multifocales ou multisystémiques récidivent fréquemment après la première ligne de chimiothérapie. Les histiocytoses apparentées, comme la maladie de Rosai-Dorfman ou la maladie d'Erdheim-Chester, posent des difficultés thérapeutiques comparables.\n\nAprès échec de la première ligne, il n'existe pas de traitement de référence validé. Des schémas de cladribine et de cytarabine sont utilisés, mais ils sont myélotoxiques.\n\nLa clofarabine est un analogue nucléosidique de deuxième génération, actif dans les hémopathies. Cette étude de phase 2 non randomisée, promue par le Dana-Farber Cancer Institute avec le Consortium nord-américain pour l'histiocytose, évalue la molécule dans deux cohortes : LCH en rechute ou réfractaire (strate 1) et maladies apparentées nécessitant une chimiothérapie systémique (strate 2). Le recrutement est terminé.",
  "interet": "Les résultats pourraient établir la clofarabine comme option de rattrapage dans la LCH réfractaire et dans les histiocytoses apparentées, où les alternatives sont limitées.",
  "profil": "Des patients de tout âge atteints de LCH récidivante ou réfractaire, ou d'une histiocytose apparentée nécessitant une chimiothérapie.",
- "inclusion": ["LCH (strate 1) ou histiocytose apparentée (strate 2) confirmée histologiquement", "Maladie active", "Échec d'au moins une chimiothérapie systémique (strate 1) ; échec des corticoïdes pour la maladie de Rosai-Dorfman", "Score de Lansky ou de Karnofsky > 70 %", "Fonctions médullaire, hépatique et rénale adéquates", "Consentement écrit ; contraception efficace"],
- "exclusion": ["Chimiothérapie ou radiothérapie dans les 2 semaines précédentes (6 semaines pour nitroso-urées ou mitomycine C)", "Autre traitement expérimental dirigé contre l'histiocytose", "Affection intercurrente non contrôlée (infection active, insuffisance cardiaque, angor instable, arythmie)", "Grossesse ou allaitement", "Médicaments néphrotoxiques ou produits à base de plantes pouvant interférer"],
- "bras": [{"nom": "LCH récidivante ou réfractaire", "traitement": "Clofarabine, cures de 5 jours ; dose non précisée"}, {"nom": "Histiocytoses apparentées à la LCH", "traitement": "Clofarabine, mêmes modalités, dont maladie de Rosai-Dorfman et maladie d'Erdheim-Chester"}],
+ "inclusion": [
+  "LCH (strate 1) ou histiocytose apparentée (strate 2) confirmée histologiquement",
+  "Maladie active",
+  "Échec d'au moins une chimiothérapie systémique (strate 1) ; échec des corticoïdes pour la maladie de Rosai-Dorfman",
+  "Score de Lansky ou de Karnofsky > 70 %",
+  "Fonctions médullaire, hépatique et rénale adéquates",
+  "Consentement écrit ; contraception efficace"
+ ],
+ "exclusion": [
+  "Chimiothérapie ou radiothérapie dans les 2 semaines précédentes (6 semaines pour nitroso-urées ou mitomycine C)",
+  "Autre traitement expérimental dirigé contre l'histiocytose",
+  "Affection intercurrente non contrôlée (infection active, insuffisance cardiaque, angor instable, arythmie)",
+  "Grossesse ou allaitement",
+  "Médicaments néphrotoxiques ou produits à base de plantes pouvant interférer"
+ ],
+ "bras": [
+  {
+   "nom": "LCH récidivante ou réfractaire",
+   "traitement": "Clofarabine, cures de 5 jours ; dose non précisée"
+  },
+  {
+   "nom": "Histiocytoses apparentées à la LCH",
+   "traitement": "Clofarabine, mêmes modalités, dont maladie de Rosai-Dorfman et maladie d'Erdheim-Chester"
+  }
+ ],
  "duree": "Traitement médian d'environ 6 mois (2 à 7 mois)",
- "critere": "Taux de réponse dans chaque cohorte, évalué à l'inclusion et à la fin du cycle 2"
+ "critere": "Taux de réponse dans chaque cohorte, évalué à l'inclusion et à la fin du cycle 2",
+ "resultats": "Dans cette étude à deux cohortes (clofarabine), 20 patients atteints d'histiocytose langerhansienne (LCH) récidivante ou réfractaire et 4 patients avec une pathologie apparentée ont été analysés. Dans la cohorte LCH, le critère principal est la réponse après 2 cycles : 85 % des patients étaient en réponse « meilleure » (IC à 95 % : 0,62 à 0,97), 15 % en réponse intermédiaire (IC à 95 % : 0,03 à 0,38) et aucun en réponse « pire ». Dans la cohorte des pathologies apparentées à la LCH, la réponse était de 0,75 pour la catégorie PMR (IC à 95 % : 0,19 à 0,99) et de 0,26 pour la catégorie PMD (IC à 95 % : 0,006 à 0,81). Côté tolérance, 15 patients sur 20 de la cohorte LCH et 4 patients sur 4 de l'autre cohorte ont présenté un événement indésirable grave ; aucun décès n'est rapporté dans la cohorte LCH contre 3 dans l'autre cohorte. Le registre ne comporte pas de conclusion des auteurs ; l'activité est élevée dans la LCH, au prix d'une toxicité importante."
 }

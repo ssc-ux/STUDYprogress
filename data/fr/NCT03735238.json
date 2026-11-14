@@ -1,0 +1,24 @@
+{
+ "h": "9bdc4eb0523fr",
+ "date": "2026-11-14",
+ "titre": "Mise en œuvre d'une aide à la décision partagée informatisée dans le lupus",
+ "question": "Comment implanter dans les consultations de lupus une aide à la décision informatisée favorisant la décision médicale partagée ?",
+ "contexte": "Le lupus érythémateux systémique (LES) impose des choix thérapeutiques complexes (immunosuppresseurs, biothérapies, corticoïdes), pesant bénéfices, risques et préférences du patient. La décision médicale partagée est recommandée, mais sa mise en œuvre en consultation reste inégale.\n\nCette étude observationnelle de mise en œuvre (implementation science), promue par l'Université d'Alabama à Birmingham, évalue trois stratégies d'implantation d'un outil informatisé d'aide à la décision (SMILE) dans 15 à 16 centres américains. Les évaluations formatives comprennent des entretiens semi-structurés avec des acteurs clés des centres et des patients.\n\nLes critères portent sur la faisabilité et l'acceptabilité, notamment la portée (reach) : proportion de patients éligibles qui ont utilisé l'outil.",
+ "interet": "L'étude ne teste pas un médicament mais une méthode d'organisation des soins. Elle aidera à identifier les conditions d'une adoption réussie des outils d'aide à la décision dans le lupus.",
+ "profil": "Des adultes atteints de lupus suivis dans des centres académiques américains, quel que soit leur niveau d'activité.",
+ "inclusion": [
+  "Adulte avec un diagnostic de LES posé par un rhumatologue"
+ ],
+ "exclusion": [
+  "Absence de diagnostic de lupus",
+  "Langue autre que l'anglais ou l'espagnol",
+  "Déficience visuelle",
+  "Altération de l'état mental"
+ ],
+ "bras": [
+  { "nom": "Patients lupiques", "traitement": "Utilisation de l'aide à la décision informatisée SMILE, avec ou sans poussée de la maladie" }
+ ],
+ "duree": "24 mois pour l'évaluation de la portée",
+ "critere": "Portée de l'outil : proportion de patients éligibles de chaque centre qui ont été inclus, sur 24 mois",
+ "resultats": "Le registre fournit la portée de l'outil centre par centre, sur 24 mois. Les valeurs varient largement d'un centre à l'autre et ne sont pas résumées en un chiffre global. Aucun événement indésirable grave ni décès n'a été rapporté parmi les 2005 participants analysés pour la tolérance. Il s'agit d'une étude de faisabilité : aucune comparaison de critères cliniques n'est disponible dans le registre."
+}

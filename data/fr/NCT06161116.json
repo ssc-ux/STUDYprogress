@@ -1,5 +1,5 @@
 {
- "h": "7fdeebc331f2",
+ "h": "7fdeebc331f2r",
  "date": "2026-11-13",
  "titre": "MK-6194 (IL-2 modifiée) contre placebo dans le lupus érythémateux systémique",
  "question": "Le MK-6194, interleukine-2 modifiée, améliore-t-il l'activité du lupus érythémateux systémique par rapport au placebo ?",
@@ -23,10 +23,20 @@
   "Lupus cutané ou systémique d'origine médicamenteuse, lupus neuropsychiatrique actif ou instable"
  ],
  "bras": [
-  {"nom": "MK-6194 toutes les 2 semaines", "traitement": "MK-6194 3 mg SC toutes les 2 semaines"},
-  {"nom": "MK-6194 toutes les 4 semaines", "traitement": "MK-6194 3 mg SC toutes les 4 semaines"},
-  {"nom": "Placebo", "traitement": "Placebo SC toutes les 2 semaines"}
+  {
+   "nom": "MK-6194 toutes les 2 semaines",
+   "traitement": "MK-6194 3 mg SC toutes les 2 semaines"
+  },
+  {
+   "nom": "MK-6194 toutes les 4 semaines",
+   "traitement": "MK-6194 3 mg SC toutes les 4 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo SC toutes les 2 semaines"
+  }
  ],
  "duree": "52 semaines de traitement, puis période d'extension ; suivi des événements indésirables jusqu'à environ 16 mois",
- "critere": "Nombre de participants en réponse SRI-4 à la semaine 28, avec le nombre de participants ayant un événement indésirable ou arrêtant le traitement pour événement indésirable (jusqu'à environ 16 mois)."
+ "critere": "Nombre de participants en réponse SRI-4 à la semaine 28, avec le nombre de participants ayant un événement indésirable ou arrêtant le traitement pour événement indésirable (jusqu'à environ 16 mois).",
+ "resultats": "Le critère principal, la réponse SRI-4 à la semaine 28, a été obtenu chez 15 patients sur 30 sous MK-6194 3 mg toutes les 2 semaines, 9 sur 29 sous 3 mg toutes les 4 semaines et 10 sur 27 sous placebo. Le registre ne fournit pas de test statistique pour cette comparaison. Au moins un événement indésirable est survenu chez 38 patients sur 49 dans chaque bras MK-6194 et chez 35 sur 51 sous placebo. L'arrêt du traitement pour événement indésirable a concerné 4 patients (toutes les 2 semaines), 6 (toutes les 4 semaines) et 1 (placebo). Cinq patients dans chaque bras MK-6194 et 4 sous placebo ont eu un événement grave ; un décès a été noté sous placebo et aucun sous MK-6194. Le registre ne comporte pas de conclusion des auteurs."
 }

@@ -1,0 +1,27 @@
+{
+ "h": "6ce8d2daa825",
+ "date": "2026-11-14",
+ "titre": "CAR-T double cible BCMA/CD19 dans les maladies rénales auto-immunes réfractaires",
+ "question": "Des CAR-T BCMA/CD19 (FKC289) sont-ils sûrs chez des adultes ayant une néphrite lupique, une vascularite à ANCA, une néphropathie extra-membraneuse ou une maladie à IgG4 réfractaires ?",
+ "contexte": "Les maladies rénales auto-immunes (néphrite lupique, glomérulonéphrite des vascularites à ANCA, néphropathie extra-membraneuse à anti-PLA2R, atteintes rénales de la maladie à IgG4) peuvent résister aux immunosuppresseurs et au rituximab. Les rechutes et la toxicité cumulée des corticoïdes et du cyclophosphamide motivent la recherche de traitements plus profonds.\n\nLes CAR-T anti-CD19 ont donné des rémissions prolongées dans le lupus ; l'ajout d'une cible BCMA vise les plasmablastes et plasmocytes producteurs d'auto-anticorps, que l'anti-CD19 n'atteint pas toujours. FKC289 est un produit CAR-T double cible. Cet essai de phase 1 monocentrique (Nanjing), ouvert, utilise un schéma d'escalade BOIN avec quatre niveaux de dose, de 0,1 à 3,0×10⁶ cellules/kg, après lymphodéplétion. Il prévoit 6 à 12 participants selon le registre, 24 en effectif maximal. Les critères comprennent des seuils spécifiques par maladie, par exemple un index de chronicité ≤ 3 et une protéinurie ≥ 1,5 g/24 h dans la néphrite lupique.",
+ "interet": "L'étude évaluera la faisabilité et la tolérance des CAR-T dans les maladies glomérulaires auto-immunes, où les données sont encore rares. Les résultats seront préliminaires et sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'une maladie rénale auto-immune active, en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement signé",
+  "Néphrite lupique de classe III, IV ou V à la biopsie (< 2 ans), index de chronicité ≤ 3, réfractaire ou en rechute",
+  "Néphrite lupique : eGFR > 45 mL/min/1,73 m², protéinurie ≥ 1,5 g/24 h, SLEDAI ≥ 8",
+  "Vascularite à ANCA (Chapel Hill 2012) avec atteinte rénale récente, ou en rechute/réfractaire",
+  "Néphropathie extra-membraneuse à anti-PLA2R ou maladie à IgG4 selon critères spécifiques"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T BCMA/CD19 (FKC289)",
+   "traitement": "Perfusion unique à J0, niveaux 0,1 / 0,3 / 1,0 / 3,0×10⁶ cellules/kg, après lymphodéplétion"
+  }
+ ],
+ "duree": "24 semaines pour la tolérance, suivi plus long probable",
+ "critere": "Proportion de patients avec toxicité limitant la dose (28 jours) et événements indésirables (24 semaines)"
+}

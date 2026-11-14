@@ -1,1 +1,24 @@
-{"h":"153f9d0b0a8e","date":"2026-11-13","titre":"Valeur pronostique de l'IRM cardiovasculaire clinique, dont la sarcoïdose cardiaque","question":"Quelles anomalies de l'IRM cardiovasculaire sont spécifiques de certaines maladies cardiaques ou vasculaires, et prédisent-elles les événements futurs, dont la mortalité ?","contexte":"L'IRM cardiovasculaire (IRM-C) est devenue un examen majeur pour caractériser les cardiomyopathies, la fibrose myocardique et l'inflammation. Le rehaussement tardif au gadolinium y est un marqueur d'atteinte myocardique. Dans la sarcoïdose cardiaque, l'IRM-C aide au diagnostic et à la stratification du risque d'arythmie et de décès.\n\nLa valeur pronostique de nombreux signes d'IRM-C reste cependant mal établie dans la pratique courante, faute de grandes cohortes avec un suivi prolongé. Les liens entre signes d'imagerie et événements cardiaques, arythmiques ou pulmonaires sont mal quantifiés.\n\nCette étude observationnelle de l'université Duke inclut environ 27 000 patients adressés pour une IRM-C de routine. L'étude compare les résultats de l'IRM aux autres examens cliniques, puis suit la survenue d'événements cardiaques et vasculaires, dont la mortalité cardiaque, la mort rythmique et la mortalité pulmonaire.","interet":"Les données d'une très grande cohorte pourraient identifier les signes d'IRM-C les plus prédictifs. Elles pourraient affiner la stratification du risque, notamment dans la sarcoïdose cardiaque.","profil":"Des adultes adressés pour une IRM cardiovasculaire de routine, dont des patients atteints de sarcoïdose.","inclusion":["Âge ≥ 18 ans","IRM cardiovasculaire clinique de routine programmée"],"exclusion":["Contre-indication à l'IRM"],"bras":[{"nom":"Patients adressés pour IRM-C","traitement":"Cohorte unique : IRM cardiovasculaire de routine, puis suivi des événements cardiaques et vasculaires"}],"duree":"Plus d'un an","critere":"Mortalité cardiaque, mort rythmique et mortalité pulmonaire, avec un suivi de plus d'un an"}
+{
+ "h": "153f9d0b0a8e",
+ "date": "2026-11-13",
+ "titre": "Valeur pronostique de l'IRM cardiovasculaire clinique, dont la sarcoïdose cardiaque",
+ "question": "Quelles anomalies de l'IRM cardiovasculaire sont spécifiques de certaines maladies cardiaques ou vasculaires, et prédisent-elles les événements futurs, dont la mortalité ?",
+ "contexte": "L'IRM cardiovasculaire (IRM-C) est devenue un examen majeur pour caractériser les cardiomyopathies, la fibrose myocardique et l'inflammation. Le rehaussement tardif au gadolinium y est un marqueur d'atteinte myocardique. Dans la sarcoïdose cardiaque, l'IRM-C aide au diagnostic et à la stratification du risque d'arythmie et de décès.\n\nLa valeur pronostique de nombreux signes d'IRM-C reste cependant mal établie dans la pratique courante, faute de grandes cohortes avec un suivi prolongé. Les liens entre signes d'imagerie et événements cardiaques, arythmiques ou pulmonaires sont mal quantifiés.\n\nCette étude observationnelle de l'université Duke inclut environ 27 000 patients adressés pour une IRM-C de routine. L'étude compare les résultats de l'IRM aux autres examens cliniques, puis suit la survenue d'événements cardiaques et vasculaires, dont la mortalité cardiaque, la mort rythmique et la mortalité pulmonaire.",
+ "interet": "Les données d'une très grande cohorte pourraient identifier les signes d'IRM-C les plus prédictifs. Elles pourraient affiner la stratification du risque, notamment dans la sarcoïdose cardiaque.",
+ "profil": "Des adultes adressés pour une IRM cardiovasculaire de routine, dont des patients atteints de sarcoïdose.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "IRM cardiovasculaire clinique de routine programmée"
+ ],
+ "exclusion": [
+  "Contre-indication à l'IRM"
+ ],
+ "bras": [
+  {
+   "nom": "Patients adressés pour IRM-C",
+   "traitement": "Cohorte unique : IRM cardiovasculaire de routine, puis suivi des événements cardiaques et vasculaires"
+  }
+ ],
+ "duree": "Plus d'un an",
+ "critere": "Mortalité cardiaque, mort rythmique et mortalité pulmonaire, avec un suivi de plus d'un an"
+}

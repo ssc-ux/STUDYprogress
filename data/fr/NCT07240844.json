@@ -1,14 +1,39 @@
 {
-"h": "68213d1c0285",
-"date": "2026-11-13",
-"titre": "Enavogliflozine en croisement contre placebo chez des patients avec cardiomyopathie amyloïde",
-"question": "L'enavogliflozine, un inhibiteur du SGLT2, améliore-t-elle la qualité de vie et la capacité fonctionnelle des patients atteints de cardiomyopathie amyloïde ?",
-"contexte": "La cardiomyopathie amyloïde, le plus souvent à transthyrétine ou à chaînes légères, provoque une insuffisance cardiaque à FEVG préservée ou modérément altérée, avec une qualité de vie et une capacité fonctionnelle dégradées. Les traitements spécifiques de la TTR ne couvrent pas tous les patients et l'insuffisance cardiaque associée reste difficile à traiter.\n\nLes inhibiteurs du SGLT2 ont démontré un bénéfice dans l'insuffisance cardiaque, quelle que soit la FEVG. Les données sont plus limitées dans l'amylose cardiaque, où la tolérance (hypotension, hypovolémie, fonction rénale) est une préoccupation.\n\nEMPACT est une étude de phase 4 coréenne, randomisée en double aveugle et en croisement, promue par le Seoul St. Mary's Hospital avec le Samsung Medical Center. Environ 68 patients symptomatiques (NYHA II-III) reçoivent l'enavogliflozine 0,3 mg et le placebo, chacun pendant 12 semaines, séparés par 4 semaines de sevrage. Le questionnaire KCCQ, le test de marche de 6 minutes et l'épreuve d'effort cardiorespiratoire sont réalisés avant et après chaque période.",
-"interet": "L'étude pourrait appuyer l'usage d'un inhibiteur du SGLT2 dans l'amylose cardiaque, aujourd'hui sans données randomisées solides. Le plan en croisement permet une comparaison intra-patient sur un petit effectif.",
-"profil": "Des adultes de 19 ans ou plus avec une cardiomyopathie amyloïde et une insuffisance cardiaque symptomatique (NYHA II-III).",
-"inclusion": ["Âge ≥ 19 ans", "Cardiomyopathie amyloïde confirmée par biopsie ou imagerie non invasive", "Symptômes d'insuffisance cardiaque NYHA II-III", "Diurétique oral stable depuis au moins 2 semaines", "Patient ambulatoire", "Consentement écrit"],
-"exclusion": ["Grossesse ou allaitement", "Infection active", "Événement cardiovasculaire majeur dans les 6 mois", "Revascularisation, CRT-D, ablation de flutter ou de fibrillation atriale, ou chirurgie valvulaire programmée", "Greffe cardiaque antérieure", "DFG estimé < 60 mL/min/1,73 m²", "Diabète de type 1 ou insulinodépendant, antécédent d'acidocétose, d'infections urinaires ou génitales compliquées, ou de lithiase rénale", "Pression artérielle systolique < 80 mmHg ou hypotension symptomatique"],
-"bras": [{"nom": "Enavogliflozine", "traitement": "Enavogliflozine 0,3 mg, pendant 12 semaines"}, {"nom": "Placebo", "traitement": "Placebo, pendant 12 semaines, avec croisement après 4 semaines de sevrage"}],
-"duree": "Environ 28 semaines (deux périodes de 12 semaines et un sevrage de 4 semaines)",
-"critere": "Variation du score clinique KCCQ-CSS entre l'inclusion et la semaine 12."
+ "h": "68213d1c0285",
+ "date": "2026-11-13",
+ "titre": "Enavogliflozine en croisement contre placebo chez des patients avec cardiomyopathie amyloïde",
+ "question": "L'enavogliflozine, un inhibiteur du SGLT2, améliore-t-elle la qualité de vie et la capacité fonctionnelle des patients atteints de cardiomyopathie amyloïde ?",
+ "contexte": "La cardiomyopathie amyloïde, le plus souvent à transthyrétine ou à chaînes légères, provoque une insuffisance cardiaque à FEVG préservée ou modérément altérée, avec une qualité de vie et une capacité fonctionnelle dégradées. Les traitements spécifiques de la TTR ne couvrent pas tous les patients et l'insuffisance cardiaque associée reste difficile à traiter.\n\nLes inhibiteurs du SGLT2 ont démontré un bénéfice dans l'insuffisance cardiaque, quelle que soit la FEVG. Les données sont plus limitées dans l'amylose cardiaque, où la tolérance (hypotension, hypovolémie, fonction rénale) est une préoccupation.\n\nEMPACT est une étude de phase 4 coréenne, randomisée en double aveugle et en croisement, promue par le Seoul St. Mary's Hospital avec le Samsung Medical Center. Environ 68 patients symptomatiques (NYHA II-III) reçoivent l'enavogliflozine 0,3 mg et le placebo, chacun pendant 12 semaines, séparés par 4 semaines de sevrage. Le questionnaire KCCQ, le test de marche de 6 minutes et l'épreuve d'effort cardiorespiratoire sont réalisés avant et après chaque période.",
+ "interet": "L'étude pourrait appuyer l'usage d'un inhibiteur du SGLT2 dans l'amylose cardiaque, aujourd'hui sans données randomisées solides. Le plan en croisement permet une comparaison intra-patient sur un petit effectif.",
+ "profil": "Des adultes de 19 ans ou plus avec une cardiomyopathie amyloïde et une insuffisance cardiaque symptomatique (NYHA II-III).",
+ "inclusion": [
+  "Âge ≥ 19 ans",
+  "Cardiomyopathie amyloïde confirmée par biopsie ou imagerie non invasive",
+  "Symptômes d'insuffisance cardiaque NYHA II-III",
+  "Diurétique oral stable depuis au moins 2 semaines",
+  "Patient ambulatoire",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Infection active",
+  "Événement cardiovasculaire majeur dans les 6 mois",
+  "Revascularisation, CRT-D, ablation de flutter ou de fibrillation atriale, ou chirurgie valvulaire programmée",
+  "Greffe cardiaque antérieure",
+  "DFG estimé < 60 mL/min/1,73 m²",
+  "Diabète de type 1 ou insulinodépendant, antécédent d'acidocétose, d'infections urinaires ou génitales compliquées, ou de lithiase rénale",
+  "Pression artérielle systolique < 80 mmHg ou hypotension symptomatique"
+ ],
+ "bras": [
+  {
+   "nom": "Enavogliflozine",
+   "traitement": "Enavogliflozine 0,3 mg, pendant 12 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, pendant 12 semaines, avec croisement après 4 semaines de sevrage"
+  }
+ ],
+ "duree": "Environ 28 semaines (deux périodes de 12 semaines et un sevrage de 4 semaines)",
+ "critere": "Variation du score clinique KCCQ-CSS entre l'inclusion et la semaine 12."
 }

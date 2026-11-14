@@ -108,7 +108,13 @@ async function addResults(s) {
       ae: (r.adverseEventsModule?.eventGroups ?? []).map(g => ({ t: g.title, ser: g.seriousNumAffected, die: g.deathsNumAffected, n: g.seriousNumAtRisk }))
     };
   }
-  const ids = s.pubs.map(p => p.pmid).filter(Boolean).slice(0, 3);
+  // Les références « RESULT » sont souvent de la bibliographie de fond : on ne garde que les articles d'une étude terminée,
+  // parus après son début.
+  let ids = /COMPLETED|TERMINATED/.test(s.status) ? s.pubs.map(p => p.pmid).filter(Boolean).slice(0, 5) : [];
+  if (ids.length) {
+    const j = await get(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=${ids.join(",")}`);
+    ids = ids.filter(id => (j.result?.[id]?.pubdate ?? "").slice(0, 4) >= (s.start || "0").slice(0, 4)).slice(0, 3);
+  }
   if (ids.length) {
     const r = await fetch(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${ids.join(",")}&rettype=abstract&retmode=text`);
     if (r.ok) s.abstracts = cut((await r.text()).trim(), 6000);

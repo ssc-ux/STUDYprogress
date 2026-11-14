@@ -1,5 +1,5 @@
 {
- "h": "bc18a6ec3fa8",
+ "h": "bc18a6ec3fa8r",
  "date": "2026-11-13",
  "titre": "Vutrisiran contre placebo dans la cardiomyopathie amyloïde à transthyrétine",
  "question": "Le vutrisiran réduit-il la mortalité toutes causes et les événements cardiovasculaires récurrents dans l'amylose cardiaque à transthyrétine ?",
@@ -20,9 +20,16 @@
   "Autre cardiopathie non liée à la TTR (hypertensive, valvulaire, ischémique)"
  ],
  "bras": [
-  {"nom": "Vutrisiran", "traitement": "Vutrisiran 25 mg SC tous les 3 mois pendant 36 mois en double aveugle, puis jusqu'à 24 mois en extension ouverte"},
-  {"nom": "Placebo", "traitement": "Placebo SC tous les 3 mois pendant 36 mois, puis vutrisiran 25 mg tous les 3 mois jusqu'à 24 mois en extension ouverte"}
+  {
+   "nom": "Vutrisiran",
+   "traitement": "Vutrisiran 25 mg SC tous les 3 mois pendant 36 mois en double aveugle, puis jusqu'à 24 mois en extension ouverte"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo SC tous les 3 mois pendant 36 mois, puis vutrisiran 25 mg tous les 3 mois jusqu'à 24 mois en extension ouverte"
+  }
  ],
  "duree": "36 mois en double aveugle, puis jusqu'à 24 mois d'extension ouverte",
- "critere": "Critère composite de la mortalité toutes causes et des événements cardiovasculaires récurrents (hospitalisations cardiovasculaires et consultations urgentes pour insuffisance cardiaque), dans la population globale et dans le sous-groupe sous monothérapie, jusqu'à 36 mois."
+ "critere": "Critère composite de la mortalité toutes causes et des événements cardiovasculaires récurrents (hospitalisations cardiovasculaires et consultations urgentes pour insuffisance cardiaque), dans la population globale et dans le sous-groupe sous monothérapie, jusqu'à 36 mois.",
+ "resultats": "Sur le critère composite principal (mortalité toutes causes et événements cardiovasculaires récurrents, hospitalisations CV et consultations urgentes pour insuffisance cardiaque), un événement est survenu chez 125 patients sous vutrisiran (n = 326) contre 159 sous placebo (n = 328) à 36 mois au plus. Le hazard ratio est de 0,718 (IC 95 % 0,555 à 0,929 ; p = 0,0118). Dans le sous-groupe en monothérapie par vutrisiran, le hazard ratio est de 0,672 (IC 95 % 0,487 à 0,929 ; p = 0,0162), avec 76 patients concernés sur 196 contre 105 sur 199 sous placebo. Des événements indésirables graves ont été rapportés chez 201 patients sous vutrisiran et 220 sous placebo, et 49 décès sous vutrisiran contre 63 sous placebo. Le registre ne fournit pas de conclusion rédigée des auteurs ; les résultats vont dans le sens d'un bénéfice du vutrisiran."
 }

@@ -1,0 +1,14 @@
+{
+ "h": "799b14e34f04",
+ "date": "2026-11-14",
+ "titre": "IMC-002 et IMM0306S contre placebo dans le lupus systémique actif",
+ "question": "IMC-002 (par voie IV) et IMM0306S (sous-cutané) améliorent-ils l'activité du lupus systémique par rapport au placebo ?",
+ "contexte": "Malgré les traitements actuels (antipaludéens, corticoïdes, immunosuppresseurs, bélimumab, anifrolumab), une partie des patients lupiques garde une maladie active, avec un risque de poussées, de dommages d'organe et d'effets indésirables des corticoïdes. De nouvelles cibles sont donc recherchées.\n\nIMC-002 est un anticorps développé par ImmuneCare/ImmuneOnco, et IMM0306S une formulation sous-cutanée apparentée. Le registre ne détaille pas leur mécanisme. Cet essai de phase 1b/2 chinois comporte deux étapes : une escalade de dose pour choisir la dose recommandée de phase 2, puis une étude de preuve de concept randomisée en double aveugle contre placebo.\n\nLes patients, ajoutés à leur traitement habituel, ont un lupus modérément à sévèrement actif (SLEDAI-2K ≥ 8, BILAG avec au moins 1 A ou 2 B, au moins un traitement de fond en cours). Les atteintes rénale et neuropsychiatrique actives sont exclues. Le critère principal d'efficacité est la réponse SRI-4 à la semaine 24, avec une évaluation de la tolérance et de la pharmacocinétique à 52 semaines. L'étude compare deux doses d'IMC-002 (1,2 et 1,6 mg/kg) au placebo.",
+ "interet": "L'étude teste une approche thérapeutique nouvelle dans le lupus non rénal. Les résultats de phase 2 diront si le signal d'efficacité justifie une phase 3.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique modérément à sévèrement actif malgré un traitement de fond.",
+ "inclusion": ["Lupus systémique diagnostiqué depuis au moins 12 semaines", "SLEDAI-2K ≥ 8 ; lésions cutanées actives avec CLASI ≥ 2", "BILAG-2004 : au moins 1 A ou 2 B", "Traitement de fond en cours : corticoïdes oraux, antipaludéen et/ou immunosuppresseur", "Âge de 18 à 65 ans"],
+ "exclusion": ["Lupus neuropsychiatrique actif ou instable, ou néphrite lupique active", "Autre maladie auto-immune ou rhumatismale", "Pathologie non lupique significative et non contrôlée", "Infection virale, bactérienne ou fongique active ou sévère", "Cancer dans les 5 ans"],
+ "bras": [{"nom": "IMC-002 + traitement standard", "traitement": "IMC-002 par voie IV (1,2 ou 1,6 mg/kg en phase 2)"}, {"nom": "IMM0306S + traitement standard", "traitement": "IMM0306S par voie sous-cutanée ; dose non précisée"}, {"nom": "Placebo + traitement standard", "traitement": "Placebo en double aveugle"}],
+ "duree": "52 semaines",
+ "critere": "Réponse selon le SLE Responder Index (SRI-4) à la semaine 24 ; tolérance et pharmacocinétique à 52 semaines"
+}

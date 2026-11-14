@@ -1,0 +1,33 @@
+{
+ "h": "cc00e0e52199",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD20/BCMA autologues dans la néphrite lupique réfractaire (phase 2)",
+ "question": "Une perfusion unique de CAR-T anti-CD20/BCMA (C-CAR168) induit-elle une réponse rénale complète chez des patients ayant une néphrite lupique réfractaire ?",
+ "contexte": "La néphrite lupique proliférative (classes III/IV) conduit à une insuffisance rénale chez une partie des patients, malgré corticoïdes, mycophénolate, cyclophosphamide, belimumab, voclosporine ou obinutuzumab. Les formes réfractaires restent un besoin non couvert.\n\nLes CAR-T anti-CD19 ont induit des rémissions prolongées dans des séries de lupus, y compris rénal. C-CAR168 est un CAR-T autologue à double cible, CD20 (lymphocytes B) et BCMA (plasmocytes), qui vise à éliminer aussi les plasmocytes producteurs d'auto-anticorps. Cette étude de phase 2 d'AbelZeta est multicentrique, ouverte et à bras unique, avec environ 50 patients. Elle débute par une phase de sécurité sur les cinq premiers patients, revue par un comité. Après leucaphérèse et lymphodéplétion par fludarabine et cyclophosphamide, les patients reçoivent une perfusion unique, puis sont suivis 104 semaines, avec un suivi de sécurité à long terme jusqu'à 15 ans.",
+ "interet": "Si la réponse rénale se confirme, les CAR-T pourraient devenir une option dans la néphrite lupique réfractaire. L'absence de bras comparateur limite les conclusions.",
+ "profil": "Des patients de 14 à 70 ans ayant une néphrite lupique de classe III ou IV réfractaire au traitement standard.",
+ "inclusion": [
+  "Âge de 14 à 70 ans, poids ≥ 40 kg",
+  "LES selon critères EULAR/ACR 2019",
+  "Néphrite lupique de classe III ou IV (± V) prouvée par biopsie dans les 6 mois",
+  "Protéinurie au-dessus des seuils du protocole",
+  "Réfractaire au traitement standard",
+  "ANA, anti-ADN natif et/ou anti-Sm positifs"
+ ],
+ "exclusion": [
+  "Infection active non contrôlée, hépatite B/C ou VIH actifs, tuberculose active",
+  "Grossesse ou allaitement",
+  "Thérapie génique ou CAR-T antérieure",
+  "Tumeur maligne active",
+  "Maladie cardiovasculaire sévère ou pulmonaire significative",
+  "Atteinte du système nerveux central empêchant la participation"
+ ],
+ "bras": [
+  {
+   "nom": "C-CAR168",
+   "traitement": "Leucaphérèse, fludarabine et cyclophosphamide, puis perfusion intraveineuse unique de C-CAR168"
+  }
+ ],
+ "duree": "104 semaines, puis suivi de sécurité à long terme jusqu'à 15 ans",
+ "critere": "Réponse rénale complète à la semaine 65 (mois 15)"
+}

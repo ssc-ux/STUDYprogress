@@ -1,0 +1,14 @@
+{
+ "h": "0a7e989ddd66",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles anti-CD19/BCMA dans les maladies auto-immunes réfractaires",
+ "question": "Les cellules CAR-T allogéniques anti-CD19/BCMA sont-elles sûres et efficaces dans des maladies auto-immunes réfractaires ?",
+ "contexte": "Les maladies auto-immunes systémiques (lupus, sclérodermie systémique, dermatomyosite, polyarthrite rhumatoïde) restent parfois réfractaires aux immunosuppresseurs et aux biothérapies conventionnels. Les lymphocytes B et les plasmocytes à longue durée de vie y entretiennent la production d'auto-anticorps.\n\nLes CAR-T anti-CD19 autologues ont induit des rémissions prolongées sans traitement dans des séries de lupus et d'autres maladies auto-immunes. Leur fabrication à partir des cellules du patient est toutefois longue et coûteuse, ce qui limite l'accès. Les CAR-T universelles, issues de donneurs sains et prêtes à l'emploi, cherchent à lever cet obstacle. Cibler à la fois CD19 (lymphocytes B) et BCMA (plasmocytes) vise une déplétion plus complète de la lignée B et plasmocytaire. Cette étude chinoise monocentrique, ouverte et à bras unique, explore la tolérance de ces cellules avec une escalade de dose. Elle inclut plusieurs maladies, ce qui permet d'évaluer un signal dans différentes indications.",
+ "interet": "Si la tolérance et l'efficacité se confirment, les CAR-T universelles pourraient rendre la thérapie cellulaire accessible sans délai de fabrication. Il s'agit d'une étude exploratoire : elle ne permettra pas de conclure sur l'efficacité comparée aux traitements actuels.",
+ "profil": "Des adultes de 18 à 70 ans atteints de polyarthrite rhumatoïde, dermatomyosite, lupus ou sclérodermie systémique réfractaires.",
+ "inclusion": ["Âge de 18 à 70 ans", "Maladie auto-immune réfractaire (PR, dermatomyosite, LES, sclérodermie systémique, syndrome de Sjögren cité)", "Lymphocytes B CD19+ circulants > 5/µL au dépistage", "Retour des lymphocytes B à leur niveau habituel si traitement anti-B antérieur", "Fonctions hépatique, rénale, pulmonaire et cardiaque adéquates (FEVG ≥ 50 %, SpO2 ≥ 92 %)", "Contraception efficace pendant 1 an après le traitement"],
+ "exclusion": ["Non précisé dans le détail du registre pour la liste complète", "Fonction d'organe insuffisante selon les seuils ci-dessus", "Grossesse (test sérique positif)", "Dépistage infectieux positif ou infection active (non détaillé)", "Autres critères à consulter dans le registre"],
+ "bras": [{"nom": "KN3601", "traitement": "Cellules CAR-T universelles anti-CD19/BCMA, perfusion avec escalade de dose après lymphodéplétion"}],
+ "duree": "Suivi de 48 semaines après la perfusion pour le critère principal",
+ "critere": "Fréquence des toxicités limitantes de dose et des événements indésirables apparus sous traitement, jusqu'à 48 semaines après la perfusion"
+}

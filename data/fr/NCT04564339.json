@@ -1,5 +1,5 @@
 {
- "h": "eced761b6f72",
+ "h": "eced761b6f72r",
  "date": "2026-11-13",
  "titre": "Ravulizumab contre placebo dans la néphrite lupique proliférative et la néphropathie à IgA",
  "question": "Le ravulizumab, inhibiteur du complément terminal, réduit-il la protéinurie dans la néphrite lupique proliférative et dans la néphropathie à IgA ?",
@@ -22,11 +22,24 @@
   "Cohorte IgAN : glomérulonéphrite rapidement progressive, prednisone > 20 mg/j pendant plus de 14 jours ou autre immunosuppression dans les 6 mois"
  ],
  "bras": [
-  {"nom": "Cohorte néphrite lupique : ravulizumab", "traitement": "Ravulizumab IV plus traitement de fond"},
-  {"nom": "Cohorte néphrite lupique : placebo", "traitement": "Placebo IV plus traitement de fond"},
-  {"nom": "Cohorte néphropathie à IgA : ravulizumab", "traitement": "Ravulizumab IV plus traitement de fond"},
-  {"nom": "Cohorte néphropathie à IgA : placebo", "traitement": "Placebo IV plus traitement de fond"}
+  {
+   "nom": "Cohorte néphrite lupique : ravulizumab",
+   "traitement": "Ravulizumab IV plus traitement de fond"
+  },
+  {
+   "nom": "Cohorte néphrite lupique : placebo",
+   "traitement": "Placebo IV plus traitement de fond"
+  },
+  {
+   "nom": "Cohorte néphropathie à IgA : ravulizumab",
+   "traitement": "Ravulizumab IV plus traitement de fond"
+  },
+  {
+   "nom": "Cohorte néphropathie à IgA : placebo",
+   "traitement": "Placebo IV plus traitement de fond"
+  }
  ],
  "duree": "26 semaines de période initiale, 24 semaines d'extension, puis 36 semaines de suivi",
- "critere": "Variation en pourcentage de la protéinurie à la semaine 26 par rapport à l'inclusion (rapport protéinurie/créatininurie dans la néphrite lupique, protéinurie des 24 heures dans la néphropathie à IgA)."
+ "critere": "Variation en pourcentage de la protéinurie à la semaine 26 par rapport à l'inclusion (rapport protéinurie/créatininurie dans la néphrite lupique, protéinurie des 24 heures dans la néphropathie à IgA).",
+ "resultats": "Dans la cohorte néphropathie à IgA, la variation de la protéinurie des 24 h à la semaine 26 (critère principal) est de -41,9 % sous ravulizumab (n = 41 ; IC 95 % -50,2 à -32,0) contre -16,8 % sous placebo (n = 22 ; IC 95 % -31,8 à 1,6), soit une différence de -30,1 % (IC 90 % -43,5 à -13,7 ; p = 0,0053). Dans la cohorte néphropathie lupique, le rapport protéinurie/créatininurie baisse de 69,7 % sous ravulizumab (n = 33) et de 67,0 % sous placebo (n = 18), soit une différence de -8,4 % (IC 90 % -48,6 à 63,2 ; p = 0,8036), sans différence démontrée. Pendant la période d'évaluation initiale, des événements indésirables graves sont survenus chez 6 patients sous ravulizumab et 2 sous placebo dans la cohorte lupique, et chez 1 patient sous ravulizumab et aucun sous placebo dans la cohorte IgA. Aucun décès n'a été rapporté. Le registre ne fournit pas de conclusion des auteurs."
 }

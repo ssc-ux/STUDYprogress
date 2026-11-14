@@ -1,14 +1,32 @@
 {
- "h": "bdf7713faa36",
+ "h": "bdf7713faa36r",
  "date": "2026-11-13",
  "titre": "Ulixertinib dans les tumeurs pédiatriques avec mutation de la voie MAPK (Pediatric MATCH)",
  "question": "L'ulixertinib induit-il des réponses objectives chez les enfants et jeunes adultes ayant une tumeur solide, un lymphome ou une histiocytose avec mutation de la voie MAPK ?",
  "contexte": "La voie MAPK (RAS-RAF-MEK-ERK) est fréquemment altérée dans les cancers de l'enfant et de l'adulte. Ses mutations sont retrouvées dans des gliomes, des histiocytoses, dont la LCH, et dans diverses tumeurs solides. Les patients en rechute ou réfractaires ont peu d'options thérapeutiques.\n\nL'ulixertinib (BVD-523) est un inhibiteur oral d'ERK1 et ERK2, situés en aval de la cascade MAPK. Il pourrait agir sur des tumeurs résistantes aux inhibiteurs de BRAF ou de MEK.\n\nL'essai Pediatric MATCH, promu par le NCI et le Children's Oncology Group, oriente les patients vers des sous-protocoles selon le profil moléculaire de leur tumeur. Ce sous-protocole de phase 2, monobras, évalue l'ulixertinib chez des patients de 12 mois à 21 ans en rechute ou réfractaires, avec une mutation MAPK actionnable, et inclut une étude pharmacocinétique.",
  "interet": "L'étude teste l'inhibition d'ERK comme stratégie guidée par le profil moléculaire en oncologie pédiatrique. Elle pourrait ouvrir une option après échec des inhibiteurs de BRAF ou de MEK.",
  "profil": "Des enfants et jeunes adultes de 12 mois à 21 ans avec une tumeur récidivante ou réfractaire porteuse d'une mutation de la voie MAPK.",
- "inclusion": ["Inclusion préalable dans le protocole de dépistage APEC1621SC avec affectation à ce sous-protocole", "Âge de 12 mois à 21 ans, surface corporelle ≥ 0,54 m²", "Maladie mesurable en imagerie (RECIST 1.1 ; MIBG pour le neuroblastome)", "Karnofsky ≥ 50 % ou Lansky ≥ 50", "Récupération des traitements antérieurs"],
- "exclusion": ["Grossesse ou allaitement ; contraception requise jusqu'à 3 mois après la dernière dose", "Corticoïdes non stables depuis au moins 7 jours", "Autre traitement expérimental ou anticancéreux en cours", "Ciclosporine, tacrolimus ou autre traitement de la GVHD", "Inducteurs ou inhibiteurs puissants du CYP3A4"],
- "bras": [{"nom": "Traitement par ulixertinib", "traitement": "Ulixertinib per os 2 fois par jour, cycles de 28 jours ; dose non précisée"}],
+ "inclusion": [
+  "Inclusion préalable dans le protocole de dépistage APEC1621SC avec affectation à ce sous-protocole",
+  "Âge de 12 mois à 21 ans, surface corporelle ≥ 0,54 m²",
+  "Maladie mesurable en imagerie (RECIST 1.1 ; MIBG pour le neuroblastome)",
+  "Karnofsky ≥ 50 % ou Lansky ≥ 50",
+  "Récupération des traitements antérieurs"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement ; contraception requise jusqu'à 3 mois après la dernière dose",
+  "Corticoïdes non stables depuis au moins 7 jours",
+  "Autre traitement expérimental ou anticancéreux en cours",
+  "Ciclosporine, tacrolimus ou autre traitement de la GVHD",
+  "Inducteurs ou inhibiteurs puissants du CYP3A4"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement par ulixertinib",
+   "traitement": "Ulixertinib per os 2 fois par jour, cycles de 28 jours ; dose non précisée"
+  }
+ ],
  "duree": "Jusqu'à 2 ans de traitement",
- "critere": "Taux de réponse objective (complète + partielle), de l'inclusion à la fin du traitement, jusqu'à 2 ans"
+ "critere": "Taux de réponse objective (complète + partielle), de l'inclusion à la fin du traitement, jusqu'à 2 ans",
+ "resultats": "Dans cette étude pédiatrique à un seul bras (ulixertinib, tumeurs avec mutation de la voie MAPK), 20 patients ont été analysés. Le taux de réponse objective, critère principal, était de 0 % (IC à 95 % : 0 à 0). Treize patients sur 20 ont présenté au moins un événement indésirable grave et 4 décès sont rapportés dans le registre. Le registre ne comporte pas de conclusion des auteurs ; aucune réponse objective n'a été observée avec ce traitement dans cette cohorte."
 }

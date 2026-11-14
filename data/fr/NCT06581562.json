@@ -1,0 +1,41 @@
+{
+ "h": "7b9a86974428",
+ "date": "2026-11-14",
+ "titre": "Rituximab associé à des cellules NK AB-101 dans quatre maladies auto-immunes à lymphocytes B",
+ "question": "L'association du rituximab et de cellules NK allogéniques AB-101 est-elle sûre et active dans la polyarthrite, le pemphigus, le lupus et les vascularites à ANCA ?",
+ "contexte": "Le rituximab, anti-CD20, est un traitement établi du pemphigus vulgaire, de la polyarthrite rhumatoïde et des vascularites à ANCA (GPA/PAM), et il est souvent utilisé dans le lupus. La déplétion B est cependant souvent incomplète, en particulier dans les tissus, ce qui explique des rechutes et des échecs.\n\nAB-101 est un produit de cellules NK allogéniques issues de sang de cordon, conçues pour renforcer la cytotoxicité cellulaire dépendante des anticorps lorsqu'elles sont associées à un anticorps anti-CD20. L'hypothèse est qu'elles amplifient la déplétion B induite par le rituximab. Cette étude de phase 1 monocentrique, ouverte et non randomisée, évalue la sécurité de l'association après lymphodéplétion par fludarabine et cyclophosphamide. Quatre cohortes sont prévues, une par maladie (PR, pemphigus, lupus, GPA/PAM), pour 30 patients au total. Le promoteur est IRIS Research and Development.",
+ "interet": "L'étude teste une stratégie de déplétion B renforcée, moins lourde que les CAR-T, dans des maladies où le rituximab est déjà utilisé. Elle ne fournira que des données de sécurité et des signaux préliminaires d'activité.",
+ "profil": "Des adultes ayant une polyarthrite rhumatoïde, un pemphigus vulgaire, un lupus ou une GPA/PAM, éligibles au rituximab.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Consentement éclairé et respect du protocole",
+  "Corticoïdes oraux réduits à < 20 mg/j de prednisone au moins 1 semaine avant le traitement",
+  "DLCO prédite > 60 % et VEMS > 70 %",
+  "FEVG ≥ 45 % à l'échocardiographie",
+  "Contraception efficace (deux méthodes)",
+  "Critères spécifiques à chacune des quatre maladies"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Bras 1 : polyarthrite rhumatoïde",
+   "traitement": "AB-101 + rituximab, après fludarabine et cyclophosphamide"
+  },
+  {
+   "nom": "Bras 2 : pemphigus vulgaire",
+   "traitement": "AB-101 + rituximab, après fludarabine et cyclophosphamide"
+  },
+  {
+   "nom": "Bras 3 : lupus systémique",
+   "traitement": "AB-101 + rituximab, après fludarabine et cyclophosphamide"
+  },
+  {
+   "nom": "Bras 4 : GPA/PAM",
+   "traitement": "AB-101 + rituximab, après fludarabine et cyclophosphamide"
+  }
+ ],
+ "duree": "104 semaines",
+ "critere": "Fréquence des événements indésirables et des événements indésirables graves, et hospitalisations, sur 104 semaines"
+}

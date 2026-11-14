@@ -1,0 +1,14 @@
+{
+ "h": "50f491883ec7",
+ "date": "2026-11-14",
+ "titre": "Taux sérique d'interleukine 23 dans l'atteinte pulmonaire interstitielle du lupus",
+ "question": "Le taux sérique d'IL-23 est-il différent chez les patients lupiques avec ou sans pneumopathie interstitielle, et par rapport à des témoins sains ?",
+ "contexte": "Le lupus systémique (LES) peut s'accompagner d'une pneumopathie interstitielle diffuse (PID), complication rare mais potentiellement grave, dont le diagnostic repose sur la clinique, les EFR et le scanner thoracique haute résolution. Il manque aujourd'hui des biomarqueurs sanguins simples pour repérer les patients à risque ou suivre cette atteinte.\n\nL'interleukine 23 (IL-23) est une cytokine qui entretient la voie Th17, impliquée dans plusieurs maladies auto-immunes et dans la fibrose pulmonaire. Son rôle dans la PID associée au lupus est peu documenté. Cette étude monocentrique égyptienne (université de Sohag) compare le taux sérique d'IL-23 entre trois groupes : lupus sans PID, lupus avec PID et témoins sains. Le bilan comprend aussi le score SLEDAI, la VS, la NFS, les complémentaires C3 et C4, les anticorps antinucléaires et anti-ADN natif, la protéinurie des 24 heures et un scanner thoracique haute résolution. Le registre ne précise pas d'hypothèse chiffrée. Il s'agit d'une étude de dosage biologique : aucun traitement n'est évalué, malgré la mention « intervention biologique » dans le registre.",
+ "interet": "Si l'IL-23 est plus élevée en cas de PID, elle pourrait servir de marqueur d'aide au diagnostic ou de cible thérapeutique à explorer. Les données resteront exploratoires vu la petite taille de l'étude.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus systémique, avec ou sans pneumopathie interstitielle, et des témoins sains.",
+ "inclusion": ["Lupus systémique avec ou sans pneumopathie interstitielle", "Âge de 18 à 60 ans", "Témoins sains pour le groupe de comparaison"],
+ "exclusion": ["Autre atteinte thoracique que la pneumopathie interstitielle", "Traitement par biothérapie (anticorps bloquants)", "Traitement immunosuppresseur en cours", "Autres critères : non précisé"],
+ "bras": [{"nom": "Groupe 1", "traitement": "Lupus sans pneumopathie interstitielle ; dosage sérique d'IL-23"}, {"nom": "Groupe 2", "traitement": "Lupus avec pneumopathie interstitielle ; dosage sérique d'IL-23"}, {"nom": "Groupe 3", "traitement": "Témoins sains ; dosage sérique d'IL-23"}],
+ "duree": "Non précisé (délai du critère : 2 ans)",
+ "critere": "Taux sérique d'interleukine 23, mesuré sur 2 ans"
+}

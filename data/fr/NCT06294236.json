@@ -1,0 +1,14 @@
+{
+ "h": "76a8709b49aa",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes CAR-T CD19 allogéniques hypoimmuns (SC291) dans le lupus et les vascularites à ANCA sévères",
+ "question": "Les CAR-T CD19 allogéniques SC291 sont-ils sûrs et tolérés chez des patients atteints de lupus ou de vascularite à ANCA réfractaires ?",
+ "contexte": "Le lupus systémique (LES), y compris la néphrite lupique, et les vascularites associées aux ANCA (GPA, PAM) peuvent rester actifs malgré plusieurs lignes d'immunosuppresseurs, avec un risque de dommage d'organe et de toxicité cumulée des traitements. Les lymphocytes B jouent un rôle central dans ces maladies, et les anti-CD20 comme le rituximab déplètent les B de façon souvent incomplète.\n\nLes CAR-T anti-CD19 autologues ont montré des rémissions profondes dans des séries de lupus réfractaire. Leur fabrication à partir des cellules du patient est toutefois longue et coûteuse. SC291 est un CAR-T CD19 allogène « hypoimmun », issu d'un donneur et modifié pour échapper au rejet immunitaire, ce qui pourrait le rendre disponible d'emblée.\n\nCet essai de phase 1 non randomisé évalue une dose unique de SC291 après lymphodéplétion par cyclophosphamide et fludarabine. Trois cohortes parallèles sont suivies : néphrite lupique, lupus extrarénal et vascularite à ANCA (GPA, PAM). L'objectif principal est la tolérance, avec des analyses préliminaires d'efficacité et de cinétique cellulaire. Le promoteur est la société Sana Biotechnology, et l'effectif prévu est très limité.",
+ "interet": "Cette étude teste la faisabilité d'un CAR-T CD19 « prêt à l'emploi » dans des maladies auto-immunes sévères. Les résultats de tolérance conditionneront d'éventuelles études d'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique, de lupus extrarénal ou de vascularite à ANCA (GPA ou PAM) réfractaires ou en rechute.",
+ "inclusion": ["Âge de 18 à 75 ans", "Néphrite lupique de classe III ou IV à la biopsie, réfractaire à au moins 2 traitements", "Lupus extrarénal sévère ou récidivant (critères EULAR/ACR 2019), non contrôlé par au moins 2 traitements de fond", "GPA ou PAM selon les critères ACR/EULAR 2022", "Maladie active malgré les traitements antérieurs"],
+ "exclusion": ["Thérapie cellulaire anti-CD19 ou autre thérapie cellulaire modifiée antérieure", "Atteinte du système nerveux central (cohortes lupus)", "Syndrome des anticorps antiphospholipides (cohortes lupus)", "Granulomatose éosinophilique avec polyangéite (cohorte vascularite)", "Autres critères : non précisé"],
+ "bras": [{"nom": "Cohorte néphrite lupique", "traitement": "SC291 en dose unique après lymphodéplétion (cyclophosphamide et fludarabine)"}, {"nom": "Cohorte lupus extrarénal", "traitement": "SC291 en dose unique après lymphodéplétion"}, {"nom": "Cohorte vascularite à ANCA", "traitement": "SC291 en dose unique après lymphodéplétion"}],
+ "duree": "24 mois",
+ "critere": "Tolérance et sécurité de SC291, évaluées sur 24 mois"
+}

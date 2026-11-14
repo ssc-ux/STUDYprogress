@@ -1,14 +1,33 @@
 {
-"h": "8139e8340fef",
-"date": "2026-11-13",
-"titre": "Dysbiose du microbiote intestinal dans la néphrite lupique, comparée à des témoins sains",
-"question": "Le microbiote intestinal des patientes atteintes de néphrite lupique diffère-t-il de celui de témoins sains appariés ?",
-"contexte": "Le lupus érythémateux systémique est une maladie auto-immune dont la cause reste inconnue, avec des facteurs génétiques et environnementaux (âge, sexe, UV, alimentation, tabac, mode de vie). La néphrite lupique en est l'une des manifestations les plus graves : environ 10 % des patients évoluent vers l'insuffisance rénale terminale dans les 5 ans suivant le diagnostic.\n\nLe microbiote intestinal est dominé par quatre phylums (Firmicutes, Bacteroidetes, Proteobacteria, Actinobacteria), et 98 % de la flore d'un sujet sain est constituée de Bacteroidetes et de Firmicutes. Chaque espèce module le système immunitaire. L'âge, le sexe, l'alimentation et les antibiotiques modifient l'équilibre de ces communautés. Une dysbiose pourrait contribuer à la rupture de tolérance immune du lupus.\n\nCette étude observationnelle égyptienne, de petite taille (60 participants), compare par extraction d'ADN et PCR certains groupes bactériens du microbiote intestinal de patients atteints de néphrite lupique à ceux de témoins sains de même âge et sexe.",
-"interet": "Cette étude exploratoire pourrait identifier des signatures de dysbiose associées à la néphrite lupique et ouvrir des pistes de recherche sur des interventions sur le microbiote. Elle ne permet pas de conclure à un lien de causalité.",
-"profil": "Des adultes avec néphrite lupique, comparés à des témoins sains de même âge et sexe (registre : femmes de 18 à 50 ans).",
-"inclusion": ["Adulte avec néphrite lupique", "Témoins : adultes sains appariés pour l'âge et le sexe", "Consentement éclairé de chaque participant"],
-"exclusion": ["Âge < 18 ans", "Maladie modifiant le microbiote (diarrhée chronique, maladie de Crohn, rectocolite hémorragique)", "Dialyse chronique, diabète ou grossesse", "Antibiotiques, probiotiques, prébiotiques ou symbiotiques dans les 4 dernières semaines", "Situation critique (urgence hypertensive, infarctus ou AVC dans les 6 mois) ou atteinte vasculaire rénale suspectée ou confirmée"],
-"bras": [{"nom": "Patients avec néphrite lupique", "traitement": "Analyse du microbiote intestinal par extraction d'ADN et PCR"}, {"nom": "Témoins sains", "traitement": "Sujets sains de même âge ; même analyse du microbiote intestinal"}],
-"duree": "Non précisé (analyse du microbiote sur prélèvement, évaluation sur 2 ans)",
-"critere": "Dysbiose de certains groupes du microbiote intestinal chez les patients avec néphrite lupique par rapport aux témoins sains, sur 2 ans."
+ "h": "8139e8340fef",
+ "date": "2026-11-13",
+ "titre": "Dysbiose du microbiote intestinal dans la néphrite lupique, comparée à des témoins sains",
+ "question": "Le microbiote intestinal des patientes atteintes de néphrite lupique diffère-t-il de celui de témoins sains appariés ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie auto-immune dont la cause reste inconnue, avec des facteurs génétiques et environnementaux (âge, sexe, UV, alimentation, tabac, mode de vie). La néphrite lupique en est l'une des manifestations les plus graves : environ 10 % des patients évoluent vers l'insuffisance rénale terminale dans les 5 ans suivant le diagnostic.\n\nLe microbiote intestinal est dominé par quatre phylums (Firmicutes, Bacteroidetes, Proteobacteria, Actinobacteria), et 98 % de la flore d'un sujet sain est constituée de Bacteroidetes et de Firmicutes. Chaque espèce module le système immunitaire. L'âge, le sexe, l'alimentation et les antibiotiques modifient l'équilibre de ces communautés. Une dysbiose pourrait contribuer à la rupture de tolérance immune du lupus.\n\nCette étude observationnelle égyptienne, de petite taille (60 participants), compare par extraction d'ADN et PCR certains groupes bactériens du microbiote intestinal de patients atteints de néphrite lupique à ceux de témoins sains de même âge et sexe.",
+ "interet": "Cette étude exploratoire pourrait identifier des signatures de dysbiose associées à la néphrite lupique et ouvrir des pistes de recherche sur des interventions sur le microbiote. Elle ne permet pas de conclure à un lien de causalité.",
+ "profil": "Des adultes avec néphrite lupique, comparés à des témoins sains de même âge et sexe (registre : femmes de 18 à 50 ans).",
+ "inclusion": [
+  "Adulte avec néphrite lupique",
+  "Témoins : adultes sains appariés pour l'âge et le sexe",
+  "Consentement éclairé de chaque participant"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Maladie modifiant le microbiote (diarrhée chronique, maladie de Crohn, rectocolite hémorragique)",
+  "Dialyse chronique, diabète ou grossesse",
+  "Antibiotiques, probiotiques, prébiotiques ou symbiotiques dans les 4 dernières semaines",
+  "Situation critique (urgence hypertensive, infarctus ou AVC dans les 6 mois) ou atteinte vasculaire rénale suspectée ou confirmée"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec néphrite lupique",
+   "traitement": "Analyse du microbiote intestinal par extraction d'ADN et PCR"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Sujets sains de même âge ; même analyse du microbiote intestinal"
+  }
+ ],
+ "duree": "Non précisé (analyse du microbiote sur prélèvement, évaluation sur 2 ans)",
+ "critere": "Dysbiose de certains groupes du microbiote intestinal chez les patients avec néphrite lupique par rapport aux témoins sains, sur 2 ans."
 }

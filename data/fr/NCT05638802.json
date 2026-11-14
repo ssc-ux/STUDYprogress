@@ -1,0 +1,28 @@
+{
+ "h": "9b370f565d17r",
+ "date": "2026-11-14",
+ "titre": "DS-7011a, anti-TLR7, dans le lupus avec atteinte cutanée active",
+ "question": "L'anticorps anti-TLR7 DS-7011a est-il sûr et actif chez des patients atteints de lupus systémique avec atteinte cutanée active ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique, avec des manifestations cutanées très fréquentes (lupus cutané aigu, subaigu ou chronique). Les traitements actuels (antipaludéens, corticoïdes locaux ou systémiques, immunosuppresseurs, bélimumab, anifrolumab) ne sont que partiellement efficaces et exposent à des toxicités. L'atteinte cutanée résistante reste un besoin non couvert.\n\nLe récepteur Toll-like 7 (TLR7) reconnaît l'ARN simple brin et contribue à l'activation des cellules dendritiques plasmacytoïdes et des lymphocytes B, avec production d'interféron de type I et d'auto-anticorps. Son blocage est une piste thérapeutique en cours d'exploration dans le lupus.\n\nDS-7011a est un anticorps monoclonal antagoniste du TLR7 développé par Daiichi Sankyo. Cette étude de phase 1b/2 randomisée en double aveugle contre placebo explore sa tolérance, sa pharmacocinétique, sa pharmacodynamie, son immunogénicité et une première signature d'efficacité, avec prélèvements cutanés par tape-stripping.",
+ "interet": "Il s'agit d'une étude exploratoire de petite taille. Elle apportera les premières données de tolérance et d'activité de l'inhibition du TLR7 par anticorps dans le lupus cutané et systémique.",
+ "profil": "Des adultes atteints de LES avec lupus cutané actif (CLASI-A ≥ 4) malgré un traitement conventionnel.",
+ "inclusion": [
+  "Adulte ≥ 18 ans, LES défini depuis au moins 6 mois (critères EULAR/ACR 2019, ANA ≥ 1:80)",
+  "IMC ≥ 18 kg/m² et poids ≥ 45 kg",
+  "Lupus cutané actif avec CLASI-A ≥ 4, confirmé par des évaluateurs indépendants",
+  "Échec ou intolérance des corticoïdes topiques ou des antipaludéens (≥ 12 semaines)",
+  "Acceptation des prélèvements cutanés par tape-stripping",
+  "Vaccination contre la COVID-19"
+ ],
+ "exclusion": [
+  "Néphrite lupique active sous traitement d'induction, ou induction terminée depuis moins de 12 semaines",
+  "Autres critères d'exclusion non détaillés ici : non précisé"
+ ],
+ "bras": [
+  { "nom": "DS-7011a", "traitement": "20 mg/kg IV toutes les 4 semaines" },
+  { "nom": "Placebo", "traitement": "Placebo IV toutes les 4 semaines" }
+ ],
+ "duree": "Évaluation de la tolérance jusqu'à la semaine 24",
+ "critere": "Nombre de participants avec des événements indésirables apparus sous traitement, jusqu'à la semaine 24",
+ "resultats": "Le registre rapporte des résultats limités à la tolérance. Parmi les participants analysés, 11 sur 19 sous DS-7011a et 4 sur 6 sous placebo ont présenté au moins un événement indésirable apparu sous traitement jusqu'à la semaine 24. Aucun événement indésirable grave ni décès n'a été rapporté dans le groupe DS-7011a ; un événement grave a été noté dans le groupe placebo, sans décès. Aucune analyse comparative d'efficacité n'est disponible dans le registre, et l'effectif très faible (26 inclus) interdit toute conclusion."
+}

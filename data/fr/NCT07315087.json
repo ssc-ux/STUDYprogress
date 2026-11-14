@@ -1,0 +1,33 @@
+{
+ "h": "5365c5d29f59",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques anti-CD19/BCMA (QT-019C) dans les maladies auto-immunes",
+ "question": "Les cellules CAR-T allogéniques « universelles » anti-CD19/BCMA sont-elles sûres chez des patients ayant une maladie auto-immune réfractaire ?",
+ "contexte": "Les CAR-T anti-CD19 autologues ont induit des rémissions prolongées sans traitement dans des séries de lupus, de sclérodermie et de myosites réfractaires. Leur limite est le coût, le délai de fabrication et la nécessité d'une leucaphérèse chez des patients parfois très malades. Cibler aussi BCMA permet d'atteindre les plasmocytes à longue durée de vie, sources d'auto-anticorps non touchés par l'anti-CD19.\n\nLe QT-019C est un produit allogénique issu de donneurs sains, disponible immédiatement. Cet essai de phase 1 chinois, à promotion académique (Institute of Hematology & Blood Diseases Hospital), inclut 12 patients ayant un LES, une sclérodermie, une myopathie inflammatoire, une vascularite à ANCA ou une cytopénie associée à une connective, tous réfractaires ou en rechute. Une seule perfusion est administrée après lymphodéplétion par cyclophosphamide. Les critères principaux portent sur les toxicités limitantes et les événements indésirables. Des analyses intermédiaires sont prévues à 12 et 24 semaines.",
+ "interet": "Si la sécurité et l'efficacité se confirment, des CAR-T « prêts à l'emploi » pourraient élargir l'accès à ces thérapies cellulaires dans les maladies auto-immunes sévères.",
+ "profil": "Des adultes ayant une maladie auto-immune systémique réfractaire ou en rechute (LES, sclérodermie, myopathie inflammatoire, vascularite à ANCA, cytopénie auto-immune associée).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Fonctions médullaire, hépatique et rénale suffisantes (PNN ≥ 1 G/L, Hb ≥ 60 g/L, clairance ≥ 30 mL/min hors néphrite lupique)",
+  "Contraception pendant l'étude et 6 mois après",
+  "Maladie réfractaire ou en rechute selon des critères spécifiques (ex. LES : SLEDAI-2K ≥ 8 ou néphrite active)",
+  "Échec de plus de 6 mois de traitement conventionnel (corticoïdes + immunosuppresseurs ± biothérapies)",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Allergie médicamenteuse sévère",
+  "Infection non contrôlée (fongique, bactérienne, virale)",
+  "Atteinte du système nerveux central",
+  "Insuffisance cardiaque, déficit immunitaire congénital en immunoglobulines",
+  "Cancer dans les 5 ans, insuffisance rénale terminale (hors néphrite lupique)",
+  "Hépatite B/C active, VIH, syphilis, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "QT-019C",
+   "traitement": "Une perfusion de CAR-T allogéniques anti-CD19/BCMA après lymphodéplétion par cyclophosphamide"
+  }
+ ],
+ "duree": "12 mois de suivi de tolérance",
+ "critere": "Nombre et sévérité des toxicités limitantes (28 jours) et des événements indésirables (12 mois)"
+}

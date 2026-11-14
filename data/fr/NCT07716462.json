@@ -1,0 +1,34 @@
+{
+ "h": "71b846ffb3a3",
+ "date": "2026-11-14",
+ "titre": "Entraînement fractionné à haute intensité à domicile chez des patients lupiques fatigués",
+ "question": "Un programme d'exercice personnalisé à domicile améliore-t-il le métabolisme musculaire et la composition du muscle chez des patients lupiques fatigués ?",
+ "contexte": "La fatigue est l'un des symptômes les plus fréquents et handicapants du lupus, même quand la maladie est stable. Elle est mal expliquée par l'activité inflammatoire et peu soulagée par les traitements de fond. Des anomalies du métabolisme énergétique musculaire et une infiltration graisseuse du muscle pourraient y contribuer.\n\nL'activité physique est recommandée dans le lupus, mais l'entraînement fractionné à haute intensité (HIIT) y a été peu étudié, et rarement avec des mesures mécanistiques. Cette étude pilote de l'Université d'Alabama à Birmingham, à bras unique, inclut 20 adultes de 18 à 65 ans avec lupus stable (SLEDAI-2K ≤ 6, prednisone ≤ 5 mg/j) et fatigue notable (PROMIS Fatigue ≥ 55). Le programme dure 16 semaines, avec trois séances par semaine : HIIT au poids du corps, renforcement et marche fractionnée, en alternant séances supervisées en visioconférence et séances autonomes. Les critères principaux sont mesurés par IRM et spectroscopie musculaire.",
+ "interet": "L'étude fournira des données de faisabilité et des mesures mécanistiques sur l'effet de l'exercice à domicile dans le lupus. Étant pilote et sans groupe contrôle, elle n'établira pas d'efficacité clinique.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus stable et une fatigue persistante.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "SLEDAI-2K ≤ 6, sans atteinte rénale ni neurologique active",
+  "Traitement de fond stable depuis ≥ 8 semaines",
+  "Fatigue persistante : PROMIS Fatigue T-score ≥ 55",
+  "Prednisone ≤ 5 mg/j depuis ≥ 12 semaines",
+  "Capable de suivre un programme d'exercice modéré en sécurité"
+ ],
+ "exclusion": [
+  "Prednisone > 5 mg/j ou bolus de corticoïdes dans les 8 dernières semaines",
+  "Grossesse",
+  "Anémie sévère (hémoglobine < 10 g/dL)",
+  "Hypothyroïdie non contrôlée",
+  "Lupus très actif (SLEDAI-2K > 8)",
+  "Insuffisance rénale terminale nécessitant une suppléance"
+ ],
+ "bras": [
+  {
+   "nom": "HIIT personnalisé à domicile",
+   "traitement": "16 semaines, 3 séances/semaine : HIIT au poids du corps, renforcement, marche fractionnée ; séances supervisées à distance en alternance"
+  }
+ ],
+ "duree": "16 semaines",
+ "critere": "Variation du temps de demi-récupération de la phosphocréatine musculaire et de la graisse intermusculaire de la cuisse, entre l'inclusion et la semaine 16"
+}

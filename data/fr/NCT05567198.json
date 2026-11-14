@@ -1,0 +1,14 @@
+{
+ "h": "3fc52457d21d",
+ "date": "2026-11-14",
+ "titre": "Protection ovarienne par agoniste de la GnRH pendant le cyclophosphamide dans le lupus",
+ "question": "L'ajout d'un agoniste de la GnRH au cyclophosphamide réduit-il le risque d'insuffisance ovarienne primitive chez les femmes lupiques ?",
+ "contexte": "Le cyclophosphamide reste un traitement de référence des formes graves de lupus systémique, notamment la néphrite lupique. Il est toxique pour les follicules ovariens et peut provoquer une insuffisance ovarienne primitive (IOP) et une infertilité chez des patientes souvent jeunes.\n\nLes recommandations suggèrent de co-administrer un agoniste de la GnRH (leuprolide) pour protéger la réserve ovarienne. Les données chez les patientes lupiques sont toutefois limitées et reposent sur de petites séries. L'effet protecteur est surtout documenté dans les cancers du sein.\n\nCette étude observationnelle du NIAMS (États-Unis) compare trois groupes de femmes lupiques de moins de 40 ans : cyclophosphamide seul, cyclophosphamide avec leuprolide (3,75 mg par mois ou 11,25 mg tous les 3 mois) et témoins lupiques sans cyclophosphamide. Les données viennent d'un questionnaire unique d'environ 30 minutes (cycles menstruels, grossesses, infertilité) et du dossier médical (activité du lupus, traitements, antécédents de reproduction). L'objectif principal est l'incidence de l'IOP. L'analyse secondaire tient compte de l'activité du lupus, des dommages accumulés et de la dose cumulée de cyclophosphamide.",
+ "interet": "Les résultats pourraient étayer, ou non, l'usage systématique d'un agoniste de la GnRH lors d'un traitement par cyclophosphamide chez la femme jeune lupique. Le caractère observationnel limite la force de la conclusion.",
+ "profil": "Des femmes atteintes de lupus systémique, de moins de 40 ans au début du cyclophosphamide, avec ou sans agoniste de la GnRH, et des témoins lupiques.",
+ "inclusion": ["Femme atteinte de lupus systémique", "Âge < 40 ans au début du cyclophosphamide", "Groupe 1 : cyclophosphamide seul", "Groupe 2 : cyclophosphamide et leuprolide", "Groupe 3 : lupus sans cyclophosphamide, appariées sur l'âge"],
+ "exclusion": ["Âge > 40 ans au début du cyclophosphamide", "Antécédent de trouble de la reproduction", "Antécédent d'infertilité", "Infection sexuellement transmissible non traitée"],
+ "bras": [{"nom": "Groupe 1", "traitement": "Lupus traité par cyclophosphamide seul"}, {"nom": "Groupe 2", "traitement": "Lupus traité par cyclophosphamide et leuprolide (3,75 mg par mois ou 11,25 mg tous les 3 mois)"}, {"nom": "Groupe 3", "traitement": "Témoins lupiques appariées sur l'âge, sans cyclophosphamide"}],
+ "duree": "Un questionnaire unique, plus revue du dossier médical",
+ "critere": "Survenue d'une insuffisance ovarienne primitive, évaluée à la fin de l'étude"
+}

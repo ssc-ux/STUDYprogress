@@ -1,5 +1,5 @@
 {
- "h": "a5c8f23db412",
+ "h": "a5c8f23db412r",
  "date": "2026-11-13",
  "titre": "Bérotralstat chez l'enfant de 2 à 11 ans atteint d'angiœdème héréditaire",
  "question": "Quelle dose de bérotralstat, adaptée au poids, est sûre et efficace pour prévenir les crises d'angiœdème héréditaire chez l'enfant de 2 à moins de 12 ans ?",
@@ -22,11 +22,24 @@
   "Autre médicament expérimental dans les 30 jours"
  ],
  "bras": [
-  {"nom": "Cohorte 1 : ≥ 40 kg", "traitement": "Bérotralstat 150 mg en capsule, une fois par jour"},
-  {"nom": "Cohorte 2 : 32 à < 40 kg", "traitement": "Bérotralstat 108 mg en granulés, une fois par jour"},
-  {"nom": "Cohorte 3 : 24 à < 32 kg", "traitement": "Bérotralstat 96 mg en granulés, une fois par jour"},
-  {"nom": "Cohorte 4 : 12 à < 24 kg", "traitement": "Bérotralstat 78 mg en granulés, une fois par jour"}
+  {
+   "nom": "Cohorte 1 : ≥ 40 kg",
+   "traitement": "Bérotralstat 150 mg en capsule, une fois par jour"
+  },
+  {
+   "nom": "Cohorte 2 : 32 à < 40 kg",
+   "traitement": "Bérotralstat 108 mg en granulés, une fois par jour"
+  },
+  {
+   "nom": "Cohorte 3 : 24 à < 32 kg",
+   "traitement": "Bérotralstat 96 mg en granulés, une fois par jour"
+  },
+  {
+   "nom": "Cohorte 4 : 12 à < 24 kg",
+   "traitement": "Bérotralstat 78 mg en granulés, une fois par jour"
+  }
  ],
  "duree": "Jusqu'à 144 semaines",
- "critere": "Paramètres pharmacocinétiques du bérotralstat à la semaine 2 (aire sous la courbe, concentration résiduelle, Cmax, Tmax)."
+ "critere": "Paramètres pharmacocinétiques du bérotralstat à la semaine 2 (aire sous la courbe, concentration résiduelle, Cmax, Tmax).",
+ "resultats": "Cette étude pédiatrique avait pour critères principaux la pharmacocinétique du bérotralstat à la semaine 2, par cohorte de poids. L'ASC0-dernière (moyenne géométrique) était de 1182 ng.h/mL pour la cohorte 1 (au moins 40 kg, 150 mg ; n = 7), 774 pour la cohorte 2 (32 à moins de 40 kg, 108 mg ; n = 8) et 869 pour la cohorte 3 (24 à moins de 32 kg, 96 mg ; n = 9). Les concentrations résiduelles moyennes (Ctrough) étaient de 133, 92,9 et 86,8 ng/mL pour ces trois cohortes et de 106 ng/mL pour la cohorte 4 (12 à moins de 24 kg, 78 mg ; n = 4). Un seul événement indésirable grave a été rapporté (cohorte 1), aucun dans les autres cohortes, et aucun décès. Les données du registre ne comportent pas de comparaison statistique ni de conclusion des auteurs."
 }

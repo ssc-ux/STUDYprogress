@@ -1,0 +1,30 @@
+{
+ "h": "6fb3d8b33d6b",
+ "date": "2026-11-14",
+ "titre": "Bélimumab puis rituximab versus traitement standard dans le lupus sévère",
+ "question": "Un traitement séquentiel par bélimumab puis rituximab réduit-il le taux d'échec thérapeutique à 2 ans dans le lupus actif sévère, par rapport au traitement standard seul ?",
+ "contexte": "Le lupus érythémateux systémique (LES) sévère ou néphritique reste difficile à contrôler malgré les corticoïdes et le mycophénolate ou l'azathioprine. Les rechutes sont fréquentes et exposent à une accumulation de dommages et de toxicité cortisonique. Le bélimumab (anti-BAFF) est autorisé dans le LES et la néphrite lupique, tandis que le rituximab (anti-CD20) est utilisé hors AMM dans les formes réfractaires.\n\nL'étude pilote SynBioSe-1 a montré que l'association rituximab et bélimumab était bien tolérée et associée à des réponses cliniques. Elle a aussi montré que la déplétion B profonde attendue n'était pas durable : la baisse du BAFF sérique favorise la migration de lymphocytes B matures hors des organes lymphoïdes. Cela a conduit à l'hypothèse inverse, testée ici : commencer par le bélimumab, puis déplétion B par rituximab.\n\nSynBioSe-2 est un essai de phase 3 randomisé en ouvert, promu par le Leiden University Medical Center, qui compare cette séquence au traitement standard seul chez des patients ayant une maladie active malgré un traitement de fond.",
+ "interet": "L'étude pourrait préciser la place d'un ciblage B combiné et séquentiel dans le LES sévère, avec un critère clinique à 2 ans. Elle apportera aussi des données immunologiques sur la reconstitution B.",
+ "profil": "Des adultes atteints de LES sévère et actif, malgré un traitement immunosuppresseur d'entretien.",
+ "inclusion": [
+  "LES selon les critères SLICC 2012",
+  "Maladie sévère : SELENA-SLEDAI ≥ 12, ou atteinte d'organe majeure nouvelle ou aggravée, ou nécessité d'un traitement d'induction",
+  "Activité nouvelle ou persistante malgré un immunosuppresseur d'entretien (mycophénolate, azathioprine)",
+  "ANA ≥ 1:80 ou anti-ADN natif ≥ 30 UI/mL",
+  "Contraception efficace chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "Hypogammaglobulinémie (IgG < 4 g/L) ou déficit en IgA (< 0,1 g/L)",
+  "Vaccin vivant dans le mois précédant le dépistage",
+  "Infection active, hospitalisation ou antibiotiques parentéraux dans les 60 jours, hépatite B ou C non traitée, VIH",
+  "Déficit immunitaire primitif, neutrophiles < 1,5 G/L",
+  "Antécédent de réaction anaphylactique aux produits de contraste ou aux protéines ou anticorps monoclonaux"
+ ],
+ "bras": [
+  { "nom": "Bélimumab + rituximab", "traitement": "Bélimumab 200 mg SC par semaine pendant 2 ans ; rituximab 1000 mg IV aux semaines 4 et 6 ; traitement standard (méthylprednisolone IV, prednisolone, mycophénolate)" },
+  { "nom": "Traitement standard", "traitement": "Induction par méthylprednisolone, prednisolone et mycophénolate ; rituximab optionnel en cas de rechute ou de non-réponse" }
+ ],
+ "duree": "2 ans",
+ "critere": "Taux d'échec thérapeutique à 2 ans"
+}

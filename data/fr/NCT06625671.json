@@ -1,0 +1,27 @@
+{
+ "h": "19f5bed8f1ca",
+ "date": "2026-11-14",
+ "titre": "DB-2304 chez des volontaires sains et des patients atteints de lupus systémique ou cutané",
+ "question": "Le DB-2304 est-il bien toléré chez des volontaires sains puis chez des patients atteints de lupus systémique ou cutané ?",
+ "contexte": "Le lupus systémique et le lupus cutané restent difficiles à contrôler, avec des poussées cutanées fréquentes malgré les antipaludéens, les corticoïdes et les immunosuppresseurs. Les biothérapies disponibles (bélimumab, anifrolumab) n'induisent pas de réponse chez tous les patients, et les formes purement cutanées disposent de peu d'options ciblées.\n\nLe DB-2304 est une molécule en développement chez DualityBio ; le registre n'en précise ni la nature ni la cible. L'étude de phase 1/2a comporte une partie A en escalade de dose chez des volontaires sains, puis une partie B randomisée en double aveugle chez des patients lupiques, avec huit niveaux de dose.\n\nL'objectif est d'établir la tolérance et la sécurité du produit, jusqu'à 112 jours après l'administration en partie A et 280 jours en partie B. Environ 148 participants sont prévus.",
+ "interet": "L'étude fournira les premières données de tolérance humaines et un premier aperçu de l'activité dans le lupus cutané et systémique. Elle conditionne un éventuel développement de phase 2.",
+ "profil": "Des volontaires sains de 18 à 55 ans, puis des adultes de 18 à 70 ans atteints de lupus systémique ou cutané actif.",
+ "inclusion": [
+  "Partie A : volontaires sains de 18 à 55 ans, IMC dans les limites définies",
+  "Partie B : âge de 18 à 70 ans, traitement stable du lupus depuis au moins 1 mois",
+  "Lupus systémique selon EULAR/ACR 2019, avec ANA ou anti-ADN natif positifs",
+  "Atteinte cutanée active à la randomisation (SELENA-SLEDAI) pour le lupus systémique",
+  "Lupus cutané confirmé histologiquement et actif malgré les traitements conventionnels"
+ ],
+ "exclusion": [
+  "Partie A : maladie ou anomalie cliniquement significative",
+  "Antécédent de zona ou d'herpès simplex récurrent",
+  "Autres critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "Partie A, volontaires sains", "traitement": "DB-2304 en dose unique croissante ou placebo" },
+  { "nom": "Partie B, lupus systémique ou cutané", "traitement": "DB-2304 à plusieurs niveaux de dose (8 niveaux au total dans l'étude), randomisé en double aveugle ; schéma exact non précisé" }
+ ],
+ "duree": "112 jours (partie A) ou 280 jours (partie B)",
+ "critere": "Événements indésirables (dont graves), ECG et constantes vitales, jusqu'à 112 jours (partie A) ou 280 jours (partie B)"
+}

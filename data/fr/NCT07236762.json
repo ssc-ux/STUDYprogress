@@ -1,0 +1,28 @@
+{
+ "h": "9c408e89b9ab",
+ "date": "2026-11-14",
+ "titre": "Cellules YTS109 (STAR-T) dans les maladies auto-immunes en rechute ou réfractaires",
+ "question": "Les cellules YTS109 sont-elles sûres et actives chez des adultes ayant un lupus, un Sjögren, une myopathie inflammatoire, une vascularite à ANCA ou un SAPL réfractaires ?",
+ "contexte": "Les maladies auto-immunes systémiques réfractaires, comme le lupus avec néphrite ou thrombopénie, restent difficiles à traiter malgré les immunosuppresseurs et les biothérapies. Les cellules CAR-T anti-CD19 ont obtenu des rémissions profondes dans de petites séries de lupus et d'autres connectivites, en éliminant les lymphocytes B autoréactifs.\n\nLes cellules YTS109 sont une thérapie cellulaire de type « STAR-T » développée par China Immunotech, dont les détails de conception ne sont pas précisés dans le registre. L'essai de phase 1 inclut environ 18 patients de 18 à 65 ans, avec une perfusion unique et une escalade de dose selon un schéma 3+3 à partir de 3×10⁶ cellules/kg. L'objectif principal est la sécurité, les objectifs secondaires portent sur l'efficacité, la pharmacocinétique et la pharmacodynamie. Plusieurs maladies sont ciblées dans une même étude exploratoire, ce qui permet d'observer le signal dans différents phénotypes auto-immuns. L'essai est mené dans plusieurs centres chinois, dont Bengbu.",
+ "interet": "Cette étude préliminaire dira si cette plateforme cellulaire est tolérable et s'il existe un signal d'efficacité dans plusieurs maladies auto-immunes. Elle ne permettra pas de comparer à un traitement de référence.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'une maladie auto-immune systémique en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus systémique selon les critères EULAR/ACR 2019, avec néphrite lupique ou thrombopénie immune (PTI) lupique réfractaire",
+  "Ou autre maladie auto-immune ciblée en rechute/réfractaire (Sjögren, myopathie inflammatoire, vascularite à ANCA, SAPL)",
+  "Fonctions médullaire, hépatique, rénale (clairance ≥ 30 mL/min) et de coagulation adéquates",
+  "Stabilité hémodynamique",
+  "Contraception efficace pendant et ≥ 12 mois après le traitement"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "YTS109",
+   "traitement": "Perfusion unique de cellules YTS109, escalade de dose 3+3 à partir de 3×10⁶ cellules/kg"
+  }
+ ],
+ "duree": "24 semaines pour la tolérance, prolongé à 52 semaines",
+ "critere": "Types, gravité et fréquence des événements indésirables, et évaluation de l'efficacité à 2, 4, 8 et 12 semaines"
+}

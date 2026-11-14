@@ -1,14 +1,33 @@
 {
- "h": "322c921c05bc",
+ "h": "322c921c05bcr",
  "date": "2026-11-13",
  "titre": "Larotrectinib dans les tumeurs pédiatriques avec fusion NTRK (Pediatric MATCH)",
  "question": "Le larotrectinib induit-il des réponses objectives chez les enfants et jeunes adultes ayant une tumeur solide, un lymphome non hodgkinien ou une histiocytose avec fusion NTRK, en rechute ou réfractaire ?",
  "contexte": "Les fusions des gènes NTRK1, NTRK2 et NTRK3 produisent des protéines chimères TRK à activité kinase constitutive, qui stimulent la croissance tumorale. Elles sont rares mais retrouvées dans de nombreux types de tumeurs pédiatriques, des sarcomes aux gliomes. Les patients en rechute ou réfractaires ont peu d'options.\n\nLe larotrectinib est un inhibiteur sélectif de TRK qui a montré une activité marquée dans les tumeurs avec fusion NTRK, tous types histologiques confondus. L'essai Pediatric MATCH, promu par le NCI et le Children's Oncology Group, répartit les patients vers des sous-protocoles selon l'anomalie moléculaire de leur tumeur après séquençage central.\n\nCe sous-protocole de phase 2, monobras, évalue le larotrectinib chez les patients de 12 mois à 21 ans dont la tumeur porte une fusion NTRK. Il inclut notamment la LCH, le lymphome non hodgkinien et de nombreuses tumeurs solides.",
  "interet": "L'étude confirme ou précise l'intérêt d'une approche guidée par le profil moléculaire plutôt que par la localisation tumorale en oncologie pédiatrique. Les résultats pourraient étayer l'usage du larotrectinib en cas de fusion NTRK.",
  "profil": "Des enfants et jeunes adultes de 12 mois à 21 ans avec une tumeur récidivante ou réfractaire porteuse d'une fusion NTRK.",
- "inclusion": ["Inclusion préalable dans le protocole de dépistage APEC1621SC avec affectation à ce sous-protocole", "Âge de 12 mois à 21 ans", "Maladie mesurable en imagerie (RECIST 1.1 ; MIBG pour le neuroblastome)", "Karnofsky ≥ 50 % ou Lansky ≥ 50", "Récupération des traitements antérieurs"],
- "exclusion": ["Grossesse ou allaitement ; contraception requise", "Corticoïdes non stables depuis au moins 7 jours", "Autre traitement expérimental ou anticancéreux en cours", "Ciclosporine, tacrolimus ou autre traitement de la GVHD", "Inducteurs ou inhibiteurs puissants du CYP3A4", "Traitement antérieur par un inhibiteur de TRK"],
- "bras": [{"nom": "Traitement par larotrectinib", "traitement": "Larotrectinib per os ou par sonde, 2 fois par jour, J1 à J28, cycles de 28 jours ; dose non précisée"}],
+ "inclusion": [
+  "Inclusion préalable dans le protocole de dépistage APEC1621SC avec affectation à ce sous-protocole",
+  "Âge de 12 mois à 21 ans",
+  "Maladie mesurable en imagerie (RECIST 1.1 ; MIBG pour le neuroblastome)",
+  "Karnofsky ≥ 50 % ou Lansky ≥ 50",
+  "Récupération des traitements antérieurs"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement ; contraception requise",
+  "Corticoïdes non stables depuis au moins 7 jours",
+  "Autre traitement expérimental ou anticancéreux en cours",
+  "Ciclosporine, tacrolimus ou autre traitement de la GVHD",
+  "Inducteurs ou inhibiteurs puissants du CYP3A4",
+  "Traitement antérieur par un inhibiteur de TRK"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement par larotrectinib",
+   "traitement": "Larotrectinib per os ou par sonde, 2 fois par jour, J1 à J28, cycles de 28 jours ; dose non précisée"
+  }
+ ],
  "duree": "Jusqu'à 2 ans de traitement",
- "critere": "Taux de réponse objective, jusqu'à 2 ans après l'inclusion"
+ "critere": "Taux de réponse objective, jusqu'à 2 ans après l'inclusion",
+ "resultats": "Dans cette étude pédiatrique à un seul bras (larotrectinib, tumeurs avec fusion NTRK), 9 patients ont été analysés. Le taux de réponse objective, critère principal, était de 33 % (IC à 90 % : 14,2 à 60,2). Deux patients sur 9 ont présenté un événement indésirable grave et 3 décès sont rapportés dans le registre. Le registre ne comporte pas de conclusion des auteurs ; l'effectif est très faible."
 }

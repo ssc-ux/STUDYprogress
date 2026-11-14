@@ -1,14 +1,31 @@
 {
- "h": "df05c074d2a8",
+ "h": "df05c074d2a8r",
  "date": "2026-11-13",
  "titre": "Lénalidomide dans les histiocytoses de l'adulte (LCH, maladie d'Erdheim-Chester, sarcome histiocytaire)",
  "question": "Le lénalidomide induit-il des réponses dans les histiocytoses de l'adulte, à savoir la LCH, la maladie d'Erdheim-Chester et le sarcome histiocytaire ?",
  "contexte": "Les histiocytoses de l'adulte regroupent des maladies rares dues à la prolifération de cellules du système histiocytaire : histiocytose à cellules de Langerhans (LCH), maladie d'Erdheim-Chester (ECD) et sarcome histiocytaire (HS). Leur prise en charge est mal codifiée chez l'adulte, faute d'essais de grande taille.\n\nLes options systémiques reposent sur la chimiothérapie, les corticoïdes et, plus récemment, les inhibiteurs de BRAF et de MEK. Ceux-ci ne conviennent pas à tous les patients, en particulier en l'absence de mutation ciblable ou en cas de résistance ou d'intolérance.\n\nLe lénalidomide est un immunomodulateur oral aux effets anti-inflammatoires et antiprolifératifs, déjà utilisé dans d'autres hémopathies. Cette étude de phase 2 monobras du Dana-Farber Cancer Institute, avec le soutien de Celgene, évalue son activité dans ces trois pathologies. Les patients reçoivent le médicament par cycles, avec une prophylaxie antithrombotique obligatoire.",
  "interet": "Cette étude pourrait documenter une option orale supplémentaire dans des maladies rares aux ressources thérapeutiques limitées. Les résultats guideraient le choix d'un traitement non ciblé lorsque les thérapies ciblées ne sont pas utilisables.",
  "profil": "Des adultes atteints de LCH, de maladie d'Erdheim-Chester ou de sarcome histiocytaire nécessitant un traitement systémique.",
- "inclusion": ["LCH, ECD ou HS confirmée histologiquement ou cytologiquement", "Maladie détectable par TDM, TEP, scintigraphie osseuse ou IRM", "LCH nécessitant un traitement systémique ou HS non résécable", "Âge ≥ 18 ans, ECOG ≤ 2", "Fonctions médullaire, hépatique et rénale conservées", "Aspirine 81 mg/j possible (ou anticoagulant), participation au programme REMS Revlimid"],
- "exclusion": ["Contraception inadéquate chez les patients en âge de procréer", "Grossesse ou allaitement", "Autres critères d'exclusion : non précisés dans la version condensée du registre"],
- "bras": [{"nom": "Lénalidomide", "traitement": "Lénalidomide par voie orale, une fois par jour pendant 21 jours de chaque cycle ; dose non précisée"}],
+ "inclusion": [
+  "LCH, ECD ou HS confirmée histologiquement ou cytologiquement",
+  "Maladie détectable par TDM, TEP, scintigraphie osseuse ou IRM",
+  "LCH nécessitant un traitement systémique ou HS non résécable",
+  "Âge ≥ 18 ans, ECOG ≤ 2",
+  "Fonctions médullaire, hépatique et rénale conservées",
+  "Aspirine 81 mg/j possible (ou anticoagulant), participation au programme REMS Revlimid"
+ ],
+ "exclusion": [
+  "Contraception inadéquate chez les patients en âge de procréer",
+  "Grossesse ou allaitement",
+  "Autres critères d'exclusion : non précisés dans la version condensée du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Lénalidomide",
+   "traitement": "Lénalidomide par voie orale, une fois par jour pendant 21 jours de chaque cycle ; dose non précisée"
+  }
+ ],
  "duree": "Environ 12 mois de traitement (jusqu'à 12 cycles)",
- "critere": "Taux de réponse globale, évalué tous les 3 cycles sous traitement, jusqu'à 12 cycles (environ 12 mois)"
+ "critere": "Taux de réponse globale, évalué tous les 3 cycles sous traitement, jusqu'à 12 cycles (environ 12 mois)",
+ "resultats": "Dans cette étude à un seul bras (lénalidomide, histiocytoses de l'adulte), 12 patients ont été analysés. Le taux de réponse globale, critère principal, était de 0,67, soit 67 % (IC à 90 % : 0,39 à 0,88). Cinq patients sur 12 ont présenté un événement indésirable grave et 1 décès est rapporté. Le registre ne comporte pas de conclusion des auteurs ; ces résultats suggèrent une activité du lénalidomide dans ces histiocytoses, à confirmer sur de plus grands effectifs."
 }

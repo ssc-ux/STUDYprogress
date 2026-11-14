@@ -1,0 +1,30 @@
+{
+ "h": "adc56ccec25f",
+ "date": "2026-11-14",
+ "titre": "PF-08154225 dans le lupus, la polyarthrite rhumatoïde, les myosites et la sclérodermie",
+ "question": "Le PF-08154225 est-il bien toléré et montre-t-il des signes d'efficacité dans plusieurs maladies auto-immunes systémiques ?",
+ "contexte": "Le lupus systémique, la polyarthrite rhumatoïde, les myopathies inflammatoires idiopathiques et la sclérodermie systémique restent marqués par des formes réfractaires aux traitements immunosuppresseurs et aux biothérapies conventionnelles. Ces maladies partagent en partie des mécanismes dépendant des lymphocytes B et de l'auto-immunité.\n\nLes thérapies ciblant les cellules immunitaires, comme les CAR-T anti-CD19 ou les anticorps engageurs de lymphocytes T, ont donné des rémissions prolongées dans de petites séries de patients réfractaires. Elles posent toutefois des contraintes de fabrication, de lymphodéplétion et de tolérance. Le PF-08154225 est un médicament en développement chez Pfizer pour le traitement de maladies auto-immunes ; le registre n'en précise pas la nature exacte.\n\nCette étude de phase 1/2 est ouverte, sans comparateur. Elle comporte une escalade de dose en administration unique (partie 1a) puis répétée (partie 1b) chez des patients lupiques ou atteints de polyarthrite rhumatoïde. Une partie 2 étend l'évaluation aux myosites et à la sclérodermie. Le suivi de sécurité atteint 52 semaines dans la partie 2. Elle vise à définir la tolérance, la pharmacocinétique et la pharmacodynamie avant d'envisager des essais comparatifs.",
+ "interet": "L'étude apportera les premières données de tolérance et d'activité de cette molécule chez l'humain dans plusieurs maladies auto-immunes. Elle ne permettra pas de conclure sur l'efficacité, mais elle conditionne le choix des indications d'un éventuel développement de phase 2/3.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique, de polyarthrite rhumatoïde, de myopathie inflammatoire ou de sclérodermie systémique.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Polyarthrite rhumatoïde selon ACR/EULAR 2010, symptômes depuis au moins 6 mois",
+  "Lupus selon les critères ACR 1997 ou SLICC, symptômes depuis au moins 6 mois",
+  "Myopathie inflammatoire de l'un des 3 sous-types, avec auto-anticorps spécifiques ou associés aux myosites",
+  "Sclérodermie systémique selon ACR/EULAR 2013"
+ ],
+ "exclusion": [
+  "Affection médicale ou psychiatrique ou anomalie biologique augmentant le risque de l'étude",
+  "Comorbidité active du système nerveux central",
+  "Complication de la maladie engageant le pronostic vital ou d'organe",
+  "Déficit immunitaire primitif, splénectomie ou facteur prédisposant aux infections",
+  "Infection active ou récente significative, hépatite B ou C chronique ou active",
+  "Antécédent de thérapie par anticorps engageurs de lymphocytes T, CAR-T ou greffe de cellules souches"
+ ],
+ "bras": [
+  { "nom": "Cohortes à doses croissantes (partie 1)", "traitement": "PF-08154225 en dose unique puis en doses répétées, doses cibles croissantes" },
+  { "nom": "Partie 2, bras unique ouvert", "traitement": "PF-08154225 en administrations répétées à la dose retenue" }
+ ],
+ "duree": "16 semaines (partie 1a), 24 semaines (partie 1b) ou 52 semaines (partie 2), ou plus",
+ "critere": "Incidence et gravité des événements indésirables apparus sous traitement et des toxicités dose-limitantes, jusqu'à la fin du suivi (16, 24 ou 52 semaines selon la partie)"
+}

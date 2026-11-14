@@ -1,0 +1,32 @@
+{
+ "h": "b038da8d55e4r",
+ "date": "2026-11-14",
+ "titre": "ALXN2050, inhibiteur du facteur D, dans la néphrite lupique et la néphropathie à IgA",
+ "question": "L'ALXN2050 réduit-il la protéinurie chez des patients atteints de néphrite lupique proliférative ou de néphropathie à IgA ?",
+ "contexte": "La néphrite lupique proliférative (classes III/IV) et la néphropathie à IgA sont deux glomérulopathies où la protéinurie persistante prédit l'évolution vers l'insuffisance rénale. Les traitements actuels (immunosuppresseurs, inhibiteurs du SRA, SGLT2, corticoïdes, bélimumab, anifrolumab) laissent un risque résiduel important.\n\nLa voie alterne du complément est impliquée dans les deux maladies, avec des dépôts de C3 et de facteur B dans les glomérules. L'ALXN2050 est un inhibiteur oral du facteur D, enzyme limitante de cette voie. D'autres inhibiteurs de la voie alterne ont déjà montré une réduction de la protéinurie dans la néphropathie à IgA.\n\nCette phase 2 randomisée en double aveugle contre placebo, promue par Alexion, évalue deux doses (120 et 180 mg) en plus du traitement de fond dans deux cohortes distinctes. L'étude a été arrêtée prématurément.",
+ "interet": "L'étude apporte des données exploratoires sur l'inhibition du facteur D dans deux glomérulopathies. Son arrêt prématuré et ses petits effectifs limitent la portée des résultats.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique proliférative active ou de néphropathie à IgA avec protéinurie.",
+ "inclusion": [
+  "Néphrite lupique : LES (critères ACR/EULAR 2019), biopsie classe III ou IV (± V) datant de moins de 6 mois, maladie active nécessitant une induction",
+  "Néphrite lupique : rapport protéinurie/créatininurie ≥ 1 g/g",
+  "Néphropathie à IgA : diagnostic sur biopsie rénale",
+  "Néphropathie à IgA : protéinurie moyenne ≥ 1 g/jour, sous inhibiteur du SRA à dose optimale stable depuis ≥ 3 mois",
+  "Si inhibiteur du SGLT2 : dose stable depuis ≥ 3 mois"
+ ],
+ "exclusion": [
+  "Critères d'exclusion détaillés : non précisé dans le résumé retenu"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte néphrite lupique",
+   "traitement": "ALXN2050 180 mg, 120 mg ou placebo, en plus du traitement de fond"
+  },
+  {
+   "nom": "Cohorte néphropathie à IgA",
+   "traitement": "ALXN2050 180 mg, 120 mg ou placebo, en plus du traitement de fond"
+  }
+ ],
+ "duree": "26 semaines de période initiale en aveugle, 24 semaines de traitement prolongé, puis extension ouverte jusqu'à 2 ans",
+ "critere": "Variation en pourcentage de la protéinurie entre l'inclusion et la semaine 26",
+ "resultats": "L'étude a été arrêtée prématurément. À la semaine 26, la variation moyenne de la protéinurie dans la néphropathie à IgA était de -29,3 % (IC 95 % -51,7 à 3,5 ; n = 9) à 120 mg, -26,2 % (-41,2 à -7,4 ; n = 25) à 180 mg et -10,3 % (-29,1 à 13,4 ; n = 23) sous placebo. Dans la néphrite lupique, elle était de -84,0 % (n = 2) à 120 mg, -58,0 % (-75,1 à -29,2 ; n = 11) à 180 mg et -55,4 % (-73,3 à -25,5 ; n = 11) sous placebo. Les comparaisons au placebo rapportées ne sont pas significatives (différence -17,7 points, IC 90 % -37,5 à 8,3, p = 0,24 ; différence -6,0 points, IC 90 % -49,3 à 74,4, p = 0,87). Des événements graves ont été notés chez 0/9 (120 mg), 2/26 (180 mg) et 2/26 (placebo) patients avec IgA, et chez 1/6 (120 mg), 5/17 (180 mg) et 2/16 (placebo) patients avec néphrite lupique. Un décès est survenu dans le groupe 180 mg et un dans le groupe placebo de la cohorte néphrite lupique. Les effectifs très faibles ne permettent pas de conclure."
+}

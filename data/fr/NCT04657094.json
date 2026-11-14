@@ -1,14 +1,34 @@
 {
- "h": "8f03b87186b6",
+ "h": "8f03b87186b6r",
  "date": "2026-11-13",
  "titre": "Acalabrutinib dans l'anémie hémolytique auto-immune récidivante ou réfractaire associée à la LLC",
  "question": "L'acalabrutinib permet-il de traiter l'anémie hémolytique auto-immune (AHAI) récidivante ou réfractaire chez des patients atteints de leucémie lymphoïde chronique (LLC) ?",
  "contexte": "L'AHAI est une complication auto-immune fréquente de la leucémie lymphoïde chronique (LLC) : des auto-anticorps détruisent les globules rouges, avec anémie, fatigue et risque transfusionnel. Elle peut survenir avant ou pendant le traitement de la LLC, avec une forme à auto-anticorps chauds ou froids.\n\nLa corticothérapie par prednisone, éventuellement associée au rituximab, est la première ligne. En cas de rechute ou de réfractarité, les options sont mal codifiées : autres immunosuppresseurs, splénectomie, traitement de la LLC elle-même. L'ibrutinib, premier inhibiteur de BTK, a été rapporté comme efficace dans cette situation, mais des cas d'aggravation ont aussi été décrits.\n\nL'acalabrutinib est un inhibiteur de BTK de seconde génération, plus sélectif, déjà autorisé dans la LLC. Cet essai de phase 2 monobras, promu par le City of Hope avec le NCI, évalue son activité sur l'AHAI chez des patients en échec de la prednisone. Il a inclus 4 participants, avec jusqu'à 12 cycles de 28 jours.",
  "interet": "L'étude pourrait documenter l'intérêt d'un inhibiteur de BTK sélectif pour traiter simultanément la LLC et l'AHAI qui lui est associée, en situation d'échec des corticoïdes.",
  "profil": "Des adultes atteints de LLC avec AHAI à auto-anticorps chauds ou froids, en rechute ou réfractaire après prednisone avec ou sans rituximab.",
- "inclusion": ["Consentement éclairé, ECOG ≤ 2", "AHAI chaude ou froide en rechute ou réfractaire après prednisone orale (avec ou sans rituximab)", "Anémie (Hb ≤ 10 g/dL, ou dépendance transfusionnelle ou à un traitement d'entretien) avec 3 marqueurs d'hémolyse sur 4", "Test direct à l'antiglobuline positif (IgG et/ou C3), cas Coombs-négatifs sur dossier", "Accord pour l'utilisation de tissu tumoral archivé"],
- "exclusion": ["Anticorps anticancéreux dans les 3 semaines, radio-immunoconjugués dans les 10 semaines", "Vénétoclax, inhibiteurs de PI3K ou autre thérapie ciblée dans les 6 demi-vies", "Ibrutinib, acalabrutinib ou autre inhibiteur de BTK dans les 12 mois", "Allogreffe de moelle dans l'année ou immunosuppression pour GVHD chronique", "Chimiothérapie, radiothérapie ou immunothérapie dans les 21 jours", "Inducteurs ou inhibiteurs puissants du CYP3A4, inhibiteurs de la pompe à protons", "Corticoïdes chroniques au-delà de 60 mg/j de prednisone"],
- "bras": [{"nom": "Acalabrutinib", "traitement": "Acalabrutinib par voie orale 2 fois par jour, J1 à J28, cycles de 28 jours jusqu'à 12 cycles ; dose non précisée"}],
+ "inclusion": [
+  "Consentement éclairé, ECOG ≤ 2",
+  "AHAI chaude ou froide en rechute ou réfractaire après prednisone orale (avec ou sans rituximab)",
+  "Anémie (Hb ≤ 10 g/dL, ou dépendance transfusionnelle ou à un traitement d'entretien) avec 3 marqueurs d'hémolyse sur 4",
+  "Test direct à l'antiglobuline positif (IgG et/ou C3), cas Coombs-négatifs sur dossier",
+  "Accord pour l'utilisation de tissu tumoral archivé"
+ ],
+ "exclusion": [
+  "Anticorps anticancéreux dans les 3 semaines, radio-immunoconjugués dans les 10 semaines",
+  "Vénétoclax, inhibiteurs de PI3K ou autre thérapie ciblée dans les 6 demi-vies",
+  "Ibrutinib, acalabrutinib ou autre inhibiteur de BTK dans les 12 mois",
+  "Allogreffe de moelle dans l'année ou immunosuppression pour GVHD chronique",
+  "Chimiothérapie, radiothérapie ou immunothérapie dans les 21 jours",
+  "Inducteurs ou inhibiteurs puissants du CYP3A4, inhibiteurs de la pompe à protons",
+  "Corticoïdes chroniques au-delà de 60 mg/j de prednisone"
+ ],
+ "bras": [
+  {
+   "nom": "Acalabrutinib",
+   "traitement": "Acalabrutinib par voie orale 2 fois par jour, J1 à J28, cycles de 28 jours jusqu'à 12 cycles ; dose non précisée"
+  }
+ ],
  "duree": "Jusqu'à 12 cycles de 28 jours",
- "critere": "Taux de réponse globale de l'AHAI, évalué à la fin de 6 semaines de traitement"
+ "critere": "Taux de réponse globale de l'AHAI, évalué à la fin de 6 semaines de traitement",
+ "resultats": "Dans cette étude à un seul bras (acalabrutinib pendant 6 semaines, anémie hémolytique auto-immune récidivante ou réfractaire au cours de la LLC), 4 patients ont reçu le traitement et 3 ont été évalués pour le critère principal. Le taux de réponse globale de l'AHAI, critère principal, était de 67 % (IC à 95 % : 9 à 99). Deux patients sur 4 ont présenté un événement indésirable grave ; aucun décès n'est rapporté. Le registre ne comporte pas de conclusion des auteurs ; l'effectif est trop faible pour conclure."
 }

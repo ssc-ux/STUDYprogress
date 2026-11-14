@@ -1,0 +1,30 @@
+{
+ "h": "e45033af07e6",
+ "date": "2026-11-14",
+ "titre": "LY4298445 chez des volontaires sains et des patients atteints de lupus ou de polyarthrite rhumatoïde",
+ "question": "Le LY4298445 est-il bien toléré chez des volontaires sains et chez des patients atteints de lupus ou de polyarthrite rhumatoïde ?",
+ "contexte": "Le lupus systémique et la polyarthrite rhumatoïde restent des maladies où une proportion notable de patients n'obtient pas de contrôle durable malgré les traitements ciblés. Dans la polyarthrite, les patients en échec de plusieurs biothérapies ou inhibiteurs de JAK ont peu d'options. Dans le lupus, les biothérapies disponibles ne suffisent pas à tous les patients.\n\nLe LY4298445 est une molécule en développement chez Eli Lilly ; le registre n'en précise pas la cible. Cette étude de phase 1 comprend plusieurs parties : doses uniques croissantes chez des volontaires sains (par voie sous-cutanée ou intraveineuse), contre placebo ; doses uniques puis répétées croissantes par voie sous-cutanée chez des patients lupiques ou atteints de polyarthrite ; et une dose unique chez des volontaires japonais, avec des volontaires chinois en option.\n\nLes patients atteints de polyarthrite doivent être en échec d'au moins 2 traitements avancés. Environ 68 participants sont prévus.",
+ "interet": "L'étude établira la tolérance initiale et la pharmacologie de la molécule chez l'humain, y compris chez des patients réfractaires. Elle ne permet pas d'évaluer l'efficacité.",
+ "profil": "Des volontaires sains de 18 à 55 ans et des adultes de 18 à 75 ans atteints de lupus systémique ou de polyarthrite rhumatoïde.",
+ "inclusion": [
+  "Volontaires sains : 18 à 55 ans, poids ≥ 50 kg, IMC de 18 à 32 kg/m²",
+  "Lupus : 18 à 75 ans, critères EULAR/ACR 2019 depuis au moins 6 mois",
+  "Polyarthrite : diagnostic depuis au moins 6 mois (ACR/EULAR 2010), DAS28-hsCRP ≥ 3,2",
+  "Polyarthrite : facteur rhumatoïde ou anti-CCP positif",
+  "Polyarthrite : échec d'au moins 2 traitements avancés (bDMARD ou tsDMARD) après un csDMARD"
+ ],
+ "exclusion": [
+  "Allergie connue au LY4298445 ou à ses composants",
+  "Grossesse, test de grossesse positif ou allaitement",
+  "Néphrite lupique sévère (rapport protéinurie/créatininurie élevé, DFG < 40 mL/min/1,73 m²)",
+  "Hémodialyse récente",
+  "Autres critères : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "Partie A1, volontaires sains", "traitement": "LY4298445 en dose unique croissante, sous-cutanée ou intraveineuse, ou placebo" },
+  { "nom": "Parties A2 et B, lupus ou polyarthrite", "traitement": "LY4298445 sous-cutané en dose unique (A2) puis en doses répétées croissantes (B)" },
+  { "nom": "Partie C, volontaires japonais (et chinois)", "traitement": "LY4298445 sous-cutané en dose unique ou placebo" }
+ ],
+ "duree": "Environ 52 semaines",
+ "critere": "Nombre de participants avec un événement indésirable grave lié au médicament, de l'inclusion à la semaine 52"
+}

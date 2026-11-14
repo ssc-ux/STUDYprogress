@@ -1,14 +1,33 @@
 {
-"h": "d464695c46d8",
-"date": "2026-11-13",
-"titre": "Lymphocytes CAR-T universels anti-CD19 dans le lupus systémique réfractaire, dès l'âge de 5 ans",
-"question": "Les cellules CAR-T anti-CD19 allogéniques (universelles) sont-elles sûres et efficaces dans le lupus systémique réfractaire ?",
-"contexte": "Le lupus systémique réfractaire, notamment chez l'enfant, évolue souvent de façon plus sévère et prolongée que chez l'adulte, avec une atteinte d'organe fréquente, en particulier rénale. Les patients restent actifs malgré de fortes doses de corticoïdes, l'hydroxychloroquine et plusieurs immunosuppresseurs ou biothérapies (bélimumab, rituximab, télitacicept).\n\nDepuis 2019, les cellules CAR-T anti-CD19 autologues ont été utilisées avec succès dans des maladies auto-immunes. Elles déplètent en profondeur les lymphocytes B, et des études cliniques suggèrent un potentiel thérapeutique important dans le lupus, y compris dans des formes sévères. Leur fabrication personnalisée est cependant longue, dépend de l'état du patient, difficile à standardiser, et son coût est élevé.\n\nLes CAR-T universels, issus de donneurs sains, pourraient être produits à l'avance, disponibles sans délai et à un coût moindre. Cet essai de phase 1 en ouvert, monobras et multicentrique, promu par l'hôpital pédiatrique de l'Université du Zhejiang, prévoit 18 patients et teste trois niveaux de dose croissants (1, 3 et 6 × 10⁷ cellules/kg), en commençant par la plus faible.",
-"interet": "Si la sécurité et l'activité sont confirmées, des CAR-T anti-CD19 « prêts à l'emploi » pourraient élargir l'accès à cette thérapie cellulaire dans le lupus réfractaire, y compris pédiatrique. Les données restent à ce stade précoces et portent sur un très petit effectif.",
-"profil": "Des enfants (dès 5 ans) et des adultes atteints de lupus systémique réfractaire, actif malgré des traitements intensifs.",
-"inclusion": ["Âge ≥ 5 ans", "Lupus selon les critères EULAR/ACR 2019, activité modérée à sévère malgré ≥ 3 mois de corticoïdes à forte dose (≥ 1 mg/kg/j), hydroxychloroquine et au moins 2 autres traitements ; ou intolérance au traitement standard", "SLEDAI-2K ≥ 8", "Fonctions d'organes conservées : FEVG ≥ 55 %, DFG ≥ 30 mL/min/1,73 m², ASAT/ALAT ≤ 3 N, bilirubine ≤ 2 N, SpO₂ ≥ 92 %", "Possibilité de leucaphérèse ou de prélèvement sanguin", "Test de grossesse négatif et contraception pendant 1 an après la perfusion, consentement signé"],
-"exclusion": ["Traitement antérieur par CAR-T", "Lupus du système nerveux central nécessitant une intervention dans les 60 jours", "Tuberculose active", "Cardiopathie congénitale, infarctus dans les 6 mois, arythmie sévère, épanchement péricardique important, myocardite grave ou instabilité hémodynamique", "Autre maladie nécessitant une corticothérapie au long cours ou de fortes doses d'immunosuppresseurs", "Infection non contrôlée"],
-"bras": [{"nom": "CAR-T anti-CD19 universels", "traitement": "Cellules CAR-T anti-CD19 allogéniques, trois niveaux de dose croissants (1×10⁷, 3×10⁷, 6×10⁷ cellules/kg), en débutant par la dose la plus faible"}],
-"duree": "Non précisé (critère principal à 3 mois)",
-"critere": "Événements indésirables liés aux CAR-T universels anti-CD19, sur 3 mois."
+ "h": "d464695c46d8",
+ "date": "2026-11-13",
+ "titre": "Lymphocytes CAR-T universels anti-CD19 dans le lupus systémique réfractaire, dès l'âge de 5 ans",
+ "question": "Les cellules CAR-T anti-CD19 allogéniques (universelles) sont-elles sûres et efficaces dans le lupus systémique réfractaire ?",
+ "contexte": "Le lupus systémique réfractaire, notamment chez l'enfant, évolue souvent de façon plus sévère et prolongée que chez l'adulte, avec une atteinte d'organe fréquente, en particulier rénale. Les patients restent actifs malgré de fortes doses de corticoïdes, l'hydroxychloroquine et plusieurs immunosuppresseurs ou biothérapies (bélimumab, rituximab, télitacicept).\n\nDepuis 2019, les cellules CAR-T anti-CD19 autologues ont été utilisées avec succès dans des maladies auto-immunes. Elles déplètent en profondeur les lymphocytes B, et des études cliniques suggèrent un potentiel thérapeutique important dans le lupus, y compris dans des formes sévères. Leur fabrication personnalisée est cependant longue, dépend de l'état du patient, difficile à standardiser, et son coût est élevé.\n\nLes CAR-T universels, issus de donneurs sains, pourraient être produits à l'avance, disponibles sans délai et à un coût moindre. Cet essai de phase 1 en ouvert, monobras et multicentrique, promu par l'hôpital pédiatrique de l'Université du Zhejiang, prévoit 18 patients et teste trois niveaux de dose croissants (1, 3 et 6 × 10⁷ cellules/kg), en commençant par la plus faible.",
+ "interet": "Si la sécurité et l'activité sont confirmées, des CAR-T anti-CD19 « prêts à l'emploi » pourraient élargir l'accès à cette thérapie cellulaire dans le lupus réfractaire, y compris pédiatrique. Les données restent à ce stade précoces et portent sur un très petit effectif.",
+ "profil": "Des enfants (dès 5 ans) et des adultes atteints de lupus systémique réfractaire, actif malgré des traitements intensifs.",
+ "inclusion": [
+  "Âge ≥ 5 ans",
+  "Lupus selon les critères EULAR/ACR 2019, activité modérée à sévère malgré ≥ 3 mois de corticoïdes à forte dose (≥ 1 mg/kg/j), hydroxychloroquine et au moins 2 autres traitements ; ou intolérance au traitement standard",
+  "SLEDAI-2K ≥ 8",
+  "Fonctions d'organes conservées : FEVG ≥ 55 %, DFG ≥ 30 mL/min/1,73 m², ASAT/ALAT ≤ 3 N, bilirubine ≤ 2 N, SpO₂ ≥ 92 %",
+  "Possibilité de leucaphérèse ou de prélèvement sanguin",
+  "Test de grossesse négatif et contraception pendant 1 an après la perfusion, consentement signé"
+ ],
+ "exclusion": [
+  "Traitement antérieur par CAR-T",
+  "Lupus du système nerveux central nécessitant une intervention dans les 60 jours",
+  "Tuberculose active",
+  "Cardiopathie congénitale, infarctus dans les 6 mois, arythmie sévère, épanchement péricardique important, myocardite grave ou instabilité hémodynamique",
+  "Autre maladie nécessitant une corticothérapie au long cours ou de fortes doses d'immunosuppresseurs",
+  "Infection non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-CD19 universels",
+   "traitement": "Cellules CAR-T anti-CD19 allogéniques, trois niveaux de dose croissants (1×10⁷, 3×10⁷, 6×10⁷ cellules/kg), en débutant par la dose la plus faible"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 3 mois)",
+ "critere": "Événements indésirables liés aux CAR-T universels anti-CD19, sur 3 mois."
 }

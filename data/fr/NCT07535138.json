@@ -1,0 +1,24 @@
+{
+ "h": "4ea291cfbd3d",
+ "date": "2026-11-14",
+ "titre": "CAR-T γδ anti-CD19 dans les néphropathies auto-immunes réfractaires ou en rechute",
+ "question": "Les cellules CAR-γδ T anti-CD19 sont-elles sûres et actives dans la néphropathie extramembraneuse, la néphropathie lupique et la néphropathie à IgA réfractaires ?",
+ "contexte": "La néphropathie extramembraneuse primitive, la néphropathie lupique et la néphropathie à IgA peuvent rester actives malgré les corticoïdes, le cyclophosphamide, les inhibiteurs de la calcineurine et les anti-CD20 recommandés par KDIGO. Ces formes réfractaires ou en rechute exposent à la perte de fonction rénale.\n\nLes CAR-T anti-CD19 autologues ont donné des rémissions prolongées dans des séries de lupus réfractaire, en éliminant les lymphocytes B producteurs d'auto-anticorps. Les lymphocytes T γδ sont une population non restreinte par le CMH, avec un profil de tolérance potentiellement plus favorable, notamment un risque moindre de syndrome de relargage cytokinique.\n\nCette étude de phase 1 chinoise, monocentrique, ouverte et monobras, suit un schéma d'escalade de dose « 3+3 ». Les patients reçoivent une lymphodéplétion puis une perfusion unique de CAR-γδ T anti-CD19. Environ 15 patients de 18 à 65 ans sont prévus, avec un suivi d'un an. Le promoteur est l'Air Force Military Medical University.",
+ "interet": "L'étude apportera les premières données de tolérance et la dose recommandée de ce type de cellules dans trois néphropathies glomérulaires auto-immunes. Elle est exploratoire et ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans atteints de néphropathie extramembraneuse, de néphropathie lupique ou de néphropathie à IgA, réfractaires ou en rechute.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement signé",
+  "Fonctions d'organe correctes : eGFR ≥ 30 mL/min/1,73 m², FEVG ≥ 55 %, SpO2 ≥ 92 %",
+  "Néphropathie extramembraneuse primitive sur biopsie, protéinurie ≥ 3,5 g/24 h après 6 mois de traitement ou en rechute",
+  "Néphropathie lupique de classe III/IV (± V) sur biopsie, avec SLEDAI-2K ≥ 6 et atteinte BILAG, ou SLEDAI-2K ≥ 8",
+  "Contraception efficace jusqu'à 1 an après la perfusion"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "CAR-γδ T anti-CD19", "traitement": "Lymphodéplétion puis perfusion intraveineuse unique, doses croissantes selon un schéma 3+3" }
+ ],
+ "duree": "12 mois après la perfusion",
+ "critere": "Incidence des toxicités dose-limitantes du jour 0 au jour 28, et des événements indésirables jusqu'au mois 12"
+}
