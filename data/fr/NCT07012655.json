@@ -1,0 +1,30 @@
+{
+ "h": "8b101ee6aa7f",
+ "date": "2026-11-14",
+ "titre": "Échographie Doppler couleur de la vasculopathie abdominale et périphérique dans la sclérodermie systémique",
+ "question": "L'échographie Doppler couleur des artères radiale et ulnaire et des vaisseaux splanchniques met-elle en évidence une atteinte macrovasculaire chez les patients atteints de sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique est une maladie du tissu conjonctif associant fibrose de la peau et des organes, vasculopathie des petits vaisseaux et dérégulation immunitaire avec auto-anticorps. Les gros vaisseaux peuvent aussi être touchés. L'occlusion de l'artère ulnaire est un marqueur de sévérité de la vasculopathie et un facteur prédictif d'ulcères digitaux, plus fréquents dans les formes cutanées limitées.\n\nLe tube digestif est atteint chez 75 à 90 % des patients, souvent de façon longtemps asymptomatique, puis avec une forte morbi-mortalité. Le diagnostic précoce est difficile, et les examens disponibles sont invasifs, coûteux ou peu informatifs. Une équipe a montré que l'échographie abdominale avec Doppler couleur pouvait mettre en évidence des anomalies morphologiques et fonctionnelles des artères mésentériques, décrites comme une « vasculopathie intestinale ». Cette étude cas-témoins de l'université d'Assiut (Égypte) réalise cette échographie chez 30 sujets pour évaluer l'atteinte macrovasculaire (artères radiale, ulnaire et vaisseaux splanchniques).",
+ "interet": "Une échographie Doppler simple et non invasive pourrait aider à identifier les patients à risque d'atteinte digestive ou d'ulcères digitaux. Cette étude monocentrique est exploratoire.",
+ "profil": "Des adultes atteints de sclérodermie systémique, comparés à des témoins.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Âge de 18 ans ou plus",
+  "Consentement à participer"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune (polyarthrite rhumatoïde, dermatomyosite, connectivite mixte)",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Sclérodermie systémique",
+   "traitement": "Échographie Doppler couleur des artères radiale et ulnaire et des vaisseaux splanchniques"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Même examen échographique"
+  }
+ ],
+ "duree": "Un examen (jour 1)",
+ "critere": "Atteinte macrovasculaire des patients atteints de sclérodermie systémique évaluée par échographie Doppler le jour de l'examen."
+}

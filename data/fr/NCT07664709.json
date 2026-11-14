@@ -1,0 +1,27 @@
+{
+ "h": "366deb35121a",
+ "date": "2026-11-14",
+ "titre": "Atteintes oculaires des vascularites associées aux ANCA, évaluées par OCT-angiographie",
+ "question": "Quelles structures oculaires sont atteintes chez les patients ayant une vascularite à ANCA, évaluées par examen ophtalmologique et OCT-angiographie ?",
+ "contexte": "Les vascularites associées aux ANCA (granulomatose avec polyangéite, polyangéite microscopique, granulomatose éosinophilique avec polyangéite) atteignent les petits vaisseaux de nombreux organes : rein, poumon, cœur, système nerveux, voies aériennes supérieures, tube digestif et œil. Leur incidence européenne est d'environ 20 à 25 cas par million et par an.\n\nL'induction repose sur le cyclophosphamide ou le rituximab avec des corticoïdes, suivie d'un traitement d'entretien d'au moins deux ans. Les atteintes oculaires les plus fréquentes sont la sclérite, la kératite, l'atteinte orbitaire avec exophtalmie, diplopie et limitation des mouvements, et l'obstruction des voies lacrymales. Cette étude observationnelle monocentrique de l'Institut militaire de médecine (Varsovie) inclut environ 70 patients adressés par la néphrologie, en début de maladie, en rechute ou déjà traités. Elle décrit l'atteinte des structures oculaires par examen ophtalmologique et OCT-angiographie.",
+ "interet": "La description systématique des atteintes oculaires, y compris infracliniques, pourrait justifier un dépistage ophtalmologique chez les patients atteints de vascularite à ANCA.",
+ "profil": "Des adultes ayant une vascularite à ANCA positive, au début de la maladie, en rechute ou déjà traités.",
+ "inclusion": [
+  "Vascularite ANCA positive",
+  "Âge ≥ 18 ans, sans limite supérieure",
+  "Maladie récente ou patients déjà sous traitement"
+ ],
+ "exclusion": [
+  "Absence de consentement à l'examen ophtalmologique",
+  "Impossibilité de réaliser l'examen ophtalmologique",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec vascularite à ANCA",
+   "traitement": "Examen ophtalmologique initial avec OCT-angiographie, visites plus fréquentes en cas d'atteinte oculaire"
+  }
+ ],
+ "duree": "Étude de 2024 à fin 2026 ; durée de participation par patient non précisée",
+ "critere": "Analyse statistique de l'atteinte des structures oculaires, de janvier 2024 à décembre 2026"
+}

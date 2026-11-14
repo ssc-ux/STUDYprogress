@@ -1,0 +1,34 @@
+{
+ "h": "861d01478463",
+ "date": "2026-11-14",
+ "titre": "Réalité virtuelle contre la douleur lors de la pose de voie veineuse chez l'enfant immunodéprimé",
+ "question": "La réalité virtuelle réduit-elle la douleur et la peur d'enfants atteints de déficit immunitaire primitif lors de la pose d'un cathéter veineux pour une perfusion d'immunoglobulines, par rapport à un film sur tablette ?",
+ "contexte": "Les enfants atteints de déficit immunitaire primitif, notamment avec déficit en anticorps, reçoivent des perfusions régulières d'immunoglobulines intraveineuses, parfois toute leur vie. Chaque perfusion nécessite la pose d'une voie veineuse périphérique, geste douloureux et source d'anxiété qui peut dégrader l'observance et l'expérience des soins.\n\nLes techniques de distraction non médicamenteuses sont recommandées pour réduire la douleur et la peur lors des gestes invasifs chez l'enfant. La réalité virtuelle offre une distraction immersive, plus efficace que la simple vidéo dans plusieurs contextes pédiatriques. Cette étude randomisée en cross-over, menée en Turquie, compare chez 31 enfants de 4 à 11 ans la vidéo en réalité virtuelle (casque) et la vidéo sur tablette pendant la pose du cathéter. Elle évalue la peur, la douleur et les manifestations émotionnelles, ainsi que les constantes vitales.",
+ "interet": "Une réduction de la douleur et de la peur justifierait d'intégrer un casque de réalité virtuelle aux soins des enfants recevant des perfusions répétées d'immunoglobulines. L'étude est de petite taille, monocentrique et en simple aveugle.",
+ "profil": "Des enfants de 4 à 11 ans atteints de déficit immunitaire primitif, recevant des perfusions d'immunoglobulines intraveineuses.",
+ "inclusion": [
+  "Âge de 4 à 11 ans",
+  "Déficit immunitaire primitif suivi depuis au moins 6 mois",
+  "Participation volontaire",
+  "Aucune autre maladie chronique associée"
+ ],
+ "exclusion": [
+  "Insuffisance d'organe",
+  "Déficience intellectuelle",
+  "Incapacité à utiliser un casque de réalité virtuelle",
+  "Fièvre (plus de 37,5 °C)",
+  "Déshydratation sévère"
+ ],
+ "bras": [
+  {
+   "nom": "Réalité virtuelle",
+   "traitement": "Vidéo regardée au casque de réalité virtuelle pendant la pose du cathéter veineux"
+  },
+  {
+   "nom": "Tablette",
+   "traitement": "Vidéo regardée sur tablette pendant la pose du cathéter veineux"
+  }
+ ],
+ "duree": "Environ 5 minutes par pose de cathéter (cross-over)",
+ "critere": "Peur (Children's Fear Scale), douleur (échelle de Wong-Baker) et manifestations émotionnelles (Children's Emotional Manifestation Scale), mesurées sur 5 minutes pendant la pose du cathéter."
+}

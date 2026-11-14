@@ -1,0 +1,38 @@
+{
+ "h": "b9fa78410617",
+ "date": "2026-11-14",
+ "titre": "Télitacicept sur les titres d'anticorps antiphospholipides dans le SAPL primaire",
+ "question": "Le télitacicept ajouté au traitement standard réduit-il les titres d'anticorps antiphospholipides chez des patients à haut risque ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) primaire est une maladie auto-immune thrombotique et obstétricale, traitée par antiagrégants, antivitamines K ou héparine de bas poids moléculaire. Ces traitements préviennent les thromboses sans agir sur la production des anticorps antiphospholipides (aPL), et les patients avec un profil à haut risque (anticoagulant circulant, double ou triple positivité, titres élevés persistants) gardent un risque de récidive.\n\nLe télitacicept est une protéine de fusion TACI-Fc qui inhibe BLyS (BAFF) et APRIL, deux cytokines de survie des lymphocytes B et des plasmocytes, déjà utilisée dans le lupus en Chine. Il pourrait réduire la production d'aPL.\n\nCet essai randomisé de phase 2 monocentrique (hôpital Ruijin, Shanghai) inclut 20 patients avec SAPL primaire à haut risque. Ils reçoivent le traitement standard avec ou sans télitacicept 160 mg par voie sous-cutanée une fois par semaine pendant 48 semaines.",
+ "interet": "Il explore une stratégie ciblant la production d'anticorps dans le SAPL, et pourrait ouvrir la voie à des essais sur les événements thrombotiques.",
+ "profil": "Des adultes avec SAPL primaire et profil d'anticorps à haut risque, sous traitement antithrombotique stable.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "SAPL primaire (critères de Sydney 2006) ou aPL persistants sur 12 mois",
+  "Profil à haut risque : anticoagulant circulant positif, double ou triple positivité aPL, ou titres élevés persistants",
+  "Pas d'autre maladie auto-immune associée",
+  "Traitement du SAPL stable selon les recommandations EULAR",
+  "Contraception ou absence de potentiel de grossesse"
+ ],
+ "exclusion": [
+  "Cancer dans les 5 ans (hors cancers cutanés ou col in situ traités)",
+  "Déficit immunitaire primitif ; IgG < 400 mg/dL ; IgA < 10 mg/dL",
+  "Infection en cours, VIH, hépatite, tuberculose ou zona actifs",
+  "Allergie aux produits de contraste ou aux protéines ou anticorps monoclonaux",
+  "Anti-CD20 ou anti-TNF dans l'année, IgIV, prednisone ≥ 100 mg/j plus de 14 jours ou échanges plasmatiques",
+  "Vaccin vivant dans le mois ; participation à un essai dans les 28 jours",
+  "Maladie psychiatrique, dépression ou idées suicidaires"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement standard + télitacicept",
+   "traitement": "Télitacicept 160 mg sous-cutané une fois par semaine pendant 48 semaines, en plus de l'aspirine et/ou AVK et/ou HBPM"
+  },
+  {
+   "nom": "Traitement standard",
+   "traitement": "Aspirine et/ou antivitamine K et/ou héparine de bas poids moléculaire"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Proportion de patients dont le titre d'aPL a diminué à la semaine 48."
+}

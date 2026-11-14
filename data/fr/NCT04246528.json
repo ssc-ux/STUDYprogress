@@ -1,0 +1,34 @@
+{
+ "h": "99d998de4682",
+ "date": "2026-11-14",
+ "titre": "SPIN-SELF : programme d'autogestion en ligne pour la sclérodermie systémique",
+ "question": "Un programme d'autogestion en ligne, soutenu par des séances de groupe en visioconférence animées par des pairs, améliore-t-il l'auto-efficacité de gestion de la maladie chez des patients sclérodermiques ?",
+ "contexte": "La sclérodermie systémique est une maladie chronique qui entraîne douleur, fatigue, troubles du sommeil, symptômes digestifs, prurit, ulcères digitaux, syndrome de Raynaud et retentissement psychologique et d'image corporelle. Les traitements médicamenteux n'agissent que partiellement sur ces problèmes du quotidien, et peu de programmes d'éducation adaptés existent.\n\nLe réseau SPIN (Scleroderma Patient-centered Intervention Network), réunissant chercheurs, soignants et patients de plusieurs pays dont la France, a développé le programme SPIN-SELF, fondé sur des vidéos de patients et des techniques de gestion des symptômes. Il comporte neuf modules (douleur, soins de la peau et Raynaud, sommeil, fatigue, digestif, prurit, émotions, image corporelle, communication avec les soignants). Sa première version en ligne seule avait été peu utilisée, d'où un format de groupe avec animateurs pairs. L'essai est randomisé, d'abord en faisabilité (40 patients) puis en essai complet (524 patients prévus), chez des patients ayant une faible auto-efficacité (SEMCD ≤ 7), comparés à des soins habituels. Il a inclus 169 participants et est terminé.",
+ "interet": "Si l'efficacité est confirmée, le programme pourrait être proposé en complément des soins pour aider les patients à gérer leurs symptômes quotidiens. Aucun résultat n'est disponible dans le registre.",
+ "profil": "Des adultes atteints de sclérodermie systémique ayant une faible auto-efficacité (SEMCD ≤ 7), capables d'utiliser un programme en ligne.",
+ "inclusion": [
+  "Sclérodermie systémique (critères ACR/EULAR 2013), âge de 18 ans ou plus",
+  "Capable de consentir, anglais ou français (selon la phase)",
+  "Auto-efficacité faible : SEMCD ≤ 7",
+  "Capable d'utiliser l'intervention en ligne"
+ ],
+ "exclusion": [
+  "Impossibilité d'accéder à internet ou de répondre aux questionnaires",
+  "Participation à une autre intervention du réseau SPIN non terminée",
+  "Participants francophones ou hispanophones exclus de la phase de faisabilité",
+  "Participants hispanophones exclus de l'essai complet",
+  "Participants de la phase de faisabilité exclus de l'essai complet"
+ ],
+ "bras": [
+  {
+   "nom": "Programme SPIN-SELF",
+   "traitement": "Accès au programme d'autogestion en ligne, avec séances de groupe en visioconférence animées par des pairs"
+  },
+  {
+   "nom": "Soins habituels",
+   "traitement": "Soins habituels, sans accès au programme"
+  }
+ ],
+ "duree": "3 mois pour le critère principal",
+ "critere": "Score d'auto-efficacité de gestion de la maladie chronique (SEMCD) à 3 mois"
+}

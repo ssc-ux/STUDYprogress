@@ -1,0 +1,25 @@
+{
+ "h": "ce524ef9c5f9",
+ "date": "2026-11-14",
+ "titre": "Surveillance post-commercialisation du nintédanib au long cours dans la pneumopathie interstitielle de la sclérodermie systémique au Japon",
+ "question": "Quelle est l'incidence en vie réelle des effets indésirables du nintédanib, notamment digestifs, chez des patients japonais ayant une pneumopathie interstitielle associée à la sclérodermie systémique ?",
+ "contexte": "La pneumopathie interstitielle diffuse est l'une des premières causes de décès dans la sclérodermie systémique. Le nintédanib, inhibiteur de tyrosine kinases à action antifibrosante, a ralenti le déclin de la capacité vitale forcée dans l'essai SENSCIS et est approuvé dans cette indication.\n\nLes effets indésirables les plus fréquents dans les essais sont digestifs, avec en tête diarrhée et nausées, ce qui conduit parfois à réduire la dose ou à arrêter le traitement. Cette surveillance post-commercialisation, demandée au Japon et promue par Boehringer Ingelheim, suit 586 patients débutant le nintédanib (Ofev) dans cette indication. Elle confirme en vie réelle l'incidence des effets indésirables observés dans les essais. Elle est observationnelle, sans critère d'exclusion, et est terminée.",
+ "interet": "Elle apporte des données de tolérance en pratique courante sur le nintédanib dans la sclérodermie, utiles pour informer les patients et gérer les effets digestifs. Elle ne compare pas le traitement à un témoin.",
+ "profil": "Des patients japonais ayant une pneumopathie interstitielle de la sclérodermie systémique, débutant le nintédanib.",
+ "inclusion": [
+  "Patients au Japon ayant une PID de la sclérodermie systémique",
+  "Prescription d'Ofev en gélules",
+  "Jamais traités par Ofev avant l'inclusion"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Nouveaux utilisateurs de nintédanib",
+   "traitement": "Nintédanib (Ofev) en gélules selon la prescription du médecin, sans intervention imposée"
+  }
+ ],
+ "duree": "Jusqu'à 3 ans et 9 mois",
+ "critere": "Incidence des effets indésirables médicamenteux, jusqu'à 3 ans et 9 mois"
+}

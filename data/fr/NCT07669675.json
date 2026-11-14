@@ -1,0 +1,36 @@
+{
+ "h": "8390616ebf5c",
+ "date": "2026-11-14",
+ "titre": "Baricitinib ajouté à un agoniste de la TPO dans le PTI en échec de l'agoniste seul",
+ "question": "Ajouter le baricitinib à un agoniste du récepteur de la TPO améliore-t-il la réponse plaquettaire à 14 jours chez des patients ayant un PTI sans réponse à l'agoniste seul ?",
+ "contexte": "Les agonistes du récepteur de la thrombopoïétine (TPO-RA) comme l'eltrombopag et l'hétrombopag sont un traitement de référence du PTI après les corticoïdes. Une proportion de patients ne répond pas, avec des plaquettes qui restent inférieures à 30 G/L ou qui n'augmentent pas d'un facteur 2 après deux semaines à pleine dose, ce qui laisse peu d'options rapides.\n\nLe baricitinib, inhibiteur de JAK1/JAK2, module des voies cytokiniques impliquées dans la dysrégulation immunitaire du PTI. Cet essai de phase II randomisé ouvert, mené par Peking University People's Hospital, inclut 100 adultes en échec d'un TPO-RA à pleine dose pendant 14 jours (hétrombopag 7,5 mg/j ou eltrombopag 75 mg/j). Ils sont répartis 1:1 entre TPO-RA seul et TPO-RA plus baricitinib 2 mg deux fois par jour pendant 14 jours. Les critères secondaires comprennent la réponse à 28 jours, la réponse complète, le délai de réponse, les scores de saignement OMS, la qualité de vie et les événements indésirables.",
+ "interet": "L'étude pourrait montrer si un inhibiteur de JAK peut rattraper rapidement les échecs des agonistes de la TPO, avec une durée de traitement courte.",
+ "profil": "Des adultes ayant un PTI primaire sans réponse après 14 jours de TPO-RA à pleine dose.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PTI primaire sans réponse après 14 jours de TPO-RA à pleine dose",
+  "Plaquettes < 30 G/L, ou entre 30 et 50 G/L avec saignement cliniquement significatif (score OMS ≥ 2)"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Cancer actif ou antécédent de cancer",
+  "Infection sévère dans les 4 semaines, zona symptomatique dans les 12 semaines",
+  "Hépatite B ou C active ou chronique, VIH, tuberculose active ou non traitée",
+  "Vaccin vivant dans les 12 semaines, baricitinib antérieur",
+  "Événement thromboembolique dans les 24 semaines ou anticoagulation en cours",
+  "Infarctus, AVC, insuffisance cardiaque NYHA IV, syndrome myélodysplasique, aplasie, myélofibrose",
+  "ASAT ou ALAT > 2 N, bilirubine ≥ 1,5 N, DFG < 50 mL/min/1,73 m²"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement combiné",
+   "traitement": "TPO-RA à pleine dose (hétrombopag 7,5 mg/j ou eltrombopag 75 mg/j) plus baricitinib 2 mg deux fois par jour pendant 14 jours"
+  },
+  {
+   "nom": "TPO-RA seul",
+   "traitement": "TPO-RA à pleine dose poursuivi pendant 14 jours"
+  }
+ ],
+ "duree": "14 jours de traitement, évaluation jusqu'à 28 jours",
+ "critere": "Taux de réponse globale à 14 jours, sans saignement ni traitement de secours"
+}

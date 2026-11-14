@@ -1,0 +1,33 @@
+{
+ "h": "1254245feb94",
+ "date": "2026-11-14",
+ "titre": "Nouveaux outils d'imagerie dans l'amylose AL cardiaque nouvellement diagnostiquée",
+ "question": "L'association de l'imagerie moléculaire (TEP), de l'IRM cardiaque et de l'échographie à des biomarqueurs cardiaques et clonaux permet-elle de prédire la survie et d'évaluer la réponse au traitement dans l'amylose AL cardiaque ?",
+ "contexte": "L'amylose AL est due à des chaînes légères produites par un clone plasmocytaire, avec atteinte cardiaque dans la majorité des cas. Le pronostic dépend avant tout du stade cardiaque, évalué par NT-proBNP et troponine, et de la profondeur de la réponse hématologique au traitement anti-plasmocytaire (daratumumab, bortézomib, cyclophosphamide, dexaméthasone).\n\nL'évaluation de la réponse cardiaque repose sur le NT-proBNP, qui peut être faussé par la fonction rénale ou le traitement. Les techniques d'imagerie avancées (strain échographique, volume extracellulaire et réhaussement tardif en IRM, TEP aux traceurs de l'amyloïde comme le florbétaben) pourraient quantifier directement la charge amyloïde. Cette étude prospective de l'IRCCS San Matteo de Pavie inclut 30 patients nouvellement diagnostiqués, avec NT-proBNP > 650 ng/L et dFLC > 20 mg/L. Ils sont évalués avant traitement puis après 6 mois, avec TEP au [18F]florbétaben, IRM et échographie. Elle est terminée.",
+ "interet": "Elle pourrait identifier des paramètres d'imagerie pronostiques et des marqueurs de réponse cardiaque plus précoces que les biomarqueurs. L'effectif est faible, ce qui impose une confirmation.",
+ "profil": "Des adultes ayant une amylose AL à atteinte cardiaque mesurable, nouvellement diagnostiquée, avant un traitement anti-plasmocytaire.",
+ "inclusion": [
+  "Âge de plus de 18 ans, diagnostic histologique d'amylose AL",
+  "Atteinte cardiaque mesurable (NT-proBNP > 650 ng/L)",
+  "Maladie hématologique mesurable (dFLC > 20 mg/L)",
+  "DFGe > 30 mL/min (gadolinium possible)",
+  "Pas de fibrillation atriale à fréquence non contrôlée, pas de dispositif cardiaque implanté",
+  "Pas d'amylose pulmonaire documentée",
+  "Traitement anti-plasmocytaire prévu, évaluation de la réponse à 6 mois à Pavie, consentement"
+ ],
+ "exclusion": [
+  "Amylose non AL",
+  "Classe NYHA IV",
+  "ECOG > 3",
+  "Allergie sévère au produit paramagnétique, claustrophobie sévère",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "TEP au florbétaben",
+   "traitement": "TEP-TDM au [18F]florbétaben, IRM cardiaque et échographie avant traitement et à 6 mois, avec biomarqueurs"
+  }
+ ],
+ "duree": "12 mois après le diagnostic",
+ "critere": "Valeur pronostique des variables d'imagerie avancées à 12 mois après le diagnostic, et leur intérêt pour évaluer la réponse à 6 mois du traitement anti-plasmocytaire"
+}

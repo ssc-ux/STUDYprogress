@@ -1,0 +1,38 @@
+{
+ "h": "fe1604896e76",
+ "date": "2026-11-14",
+ "titre": "Bioéquivalence de deux formulations du SKI-O-703 chez des adultes sains, après repas",
+ "question": "Deux formulations orales du SKI-O-703 (principe actif en gélules et granulés formulés) ont-elles la même exposition plasmatique chez des volontaires sains après un repas ?",
+ "contexte": "Le SKI-O-703 (cevidoplenib), développé par Oscotec, est un inhibiteur oral de la tyrosine kinase Syk. Cette kinase intervient dans la signalisation des récepteurs Fc et du récepteur des cellules B, ce qui explique l'intérêt de son inhibition dans des maladies auto-immunes comme le PTI et la polyarthrite rhumatoïde, deux indications citées dans le registre.\n\nCette étude de phase I n'évalue ni l'efficacité ni une maladie : elle compare deux formulations. La référence est le principe actif en gélules à 100 mg, et le test les granulés formulés en gélules à 200 mg. Environ 48 volontaires sains coréens et caucasiens reçoivent une dose unique de chaque formulation, dans un ordre randomisé, séparées par 7 jours de sevrage. Les prélèvements pharmacocinétiques et la sécurité sont suivis, sous conditions alimentées. Le critère porte sur l'ASC et la Cmax de SKI-O-592, la base libre du SKI-O-703.",
+ "interet": "Les résultats serviront au développement pharmaceutique du produit, sans conséquence directe pour la pratique clinique.",
+ "profil": "Des adultes sains, coréens ou caucasiens, de 19 ans et plus.",
+ "inclusion": [
+  "Adultes coréens ou caucasiens de 19 ans et plus",
+  "IMC 18 à 30 kg/m² et poids ≥ 50 kg",
+  "Bon état de santé (examen, antécédents, constantes, ECG)",
+  "Bilan biologique normal ou anomalies non significatives",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Chirurgie ou traumatisme important dans les 4 semaines, chirurgie digestive modifiant l'absorption",
+  "Infection active ou récente, antécédent d'infections récidivantes ou chroniques",
+  "Impossibilité d'avaler plusieurs gélules",
+  "Produit expérimental dans le mois ou autre essai dans les 6 mois",
+  "Don de sang récent, VIH positif",
+  "Alcool, caféine ou xanthines non évitables ; tabac ou nicotine dans les 30 jours",
+  "Hypersensibilité au produit, grossesse ou allaitement, contraception refusée",
+  "Intolérance au galactose, déficit en lactase de Lapp ou malabsorption du glucose-galactose"
+ ],
+ "bras": [
+  {
+   "nom": "Séquence A",
+   "traitement": "Référence (principe actif en gélules, 100 mg) en période 1 puis test (granulés formulés en gélules, 200 mg) en période 2, après repas, avec 7 jours de sevrage"
+  },
+  {
+   "nom": "Séquence B",
+   "traitement": "Test en période 1 puis référence en période 2, après repas, avec 7 jours de sevrage"
+  }
+ ],
+ "duree": "Deux périodes de traitement séparées par 7 jours de sevrage",
+ "critere": "ASC (aire sous la courbe) et Cmax de SKI-O-592, base libre du SKI-O-703"
+}

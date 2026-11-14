@@ -1,0 +1,39 @@
+{
+ "h": "af532855495e",
+ "date": "2026-11-14",
+ "titre": "Infliximab en collyre dans la sécheresse oculaire sévère du syndrome de Sjögren",
+ "question": "Un collyre d'infliximab, ajouté à un corticoïde topique, améliore-t-il les symptômes de la sécheresse oculaire sévère du syndrome de Sjögren ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune qui touche les glandes exocrines et provoque souvent une sécheresse oculaire sévère, avec gêne, irritation, vision floue et lésions de la surface oculaire. L'inflammation y joue un rôle central, et le TNF-alpha est l'une de ses cytokines clés.\n\nLe traitement de la sécheresse oculaire sévère repose sur les larmes artificielles, la ciclosporine ou le lifitegrast topiques, les corticoïdes locaux, le sérum autologue et les bouchons lacrymaux. L'infliximab, anticorps anti-TNF, n'a pas montré d'efficacité systémique dans le syndrome de Sjögren, mais l'administration locale pourrait agir sur l'inflammation de la surface oculaire, avec une exposition générale très faible. Cet essai de phase II randomisé en triple aveugle de l'Instituto de Oftalmología Conde de Valenciana (Mexique) inclut 38 patients. Ils reçoivent un collyre d'infliximab à 0,1 % ou un véhicule, quatre fois par jour, avec du lotéprednol 0,5 % en traitement standard commun.",
+ "interet": "L'étude donnera une première évaluation d'un anti-TNF local dans la sécheresse oculaire auto-immune, avec une tolérance locale et systémique à documenter.",
+ "profil": "Des adultes ayant un syndrome de Sjögren et une sécheresse oculaire sévère (OSDI ≥ 33 et score de coloration ≥ 6).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Syndrome de Sjögren primaire ou secondaire (critères ACR/EULAR 2016)",
+  "Traitement immunomodulateur systémique non biologique stable depuis au moins 12 semaines",
+  "Radiographie thoracique ou test IGRA négatifs",
+  "Sécheresse sévère : OSS (SICCA) ≥ 6 sur au moins un œil et OSDI ≥ 33",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Corticoïde ou immunomodulateur topique (ciclosporine, lifitegrast, tacrolimus, sérum autologue) dans les 30 jours",
+  "Bouchons lacrymaux récents (< 3 mois)",
+  "Infection oculaire active ou kératite herpétique récente",
+  "Chirurgie oculaire ou palpébrale dans les 6 mois, port de lentilles",
+  "Allergie à l'infliximab ou aux protéines murines",
+  "Autre atteinte oculaire gênant l'évaluation, glaucome non contrôlé",
+  "Contre-indication à l'infliximab (infection, tuberculose, maladie démyélinisante, insuffisance cardiaque NYHA III/IV, cancer dans les 5 ans)",
+  "Biothérapie dans les 6 mois (12 mois pour un anti-TNF), grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Infliximab",
+   "traitement": "Collyre d'infliximab 1 mg/mL (0,1 %) dans CMC 1 %, une goutte dans chaque œil quatre fois par jour, plus lotéprednol 0,5 % quatre fois par jour"
+  },
+  {
+   "nom": "Véhicule",
+   "traitement": "Collyre véhicule (CMC 1 %) quatre fois par jour, plus lotéprednol 0,5 % quatre fois par jour, larmes artificielles en secours"
+  }
+ ],
+ "duree": "6 semaines",
+ "critere": "Variation du score OSDI (Ocular Surface Disease Index) à 6 semaines"
+}
