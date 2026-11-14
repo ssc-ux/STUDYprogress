@@ -1,0 +1,32 @@
+{
+ "h": "6ff9e45d4f93",
+ "date": "2026-11-13",
+ "titre": "Thérapie CAR-T in vivo par ARNm-LNP dans le lupus et l'anémie hémolytique auto-immune réfractaires",
+ "question": "Un CAR-T généré in vivo par ARNm encapsulé dans des nanoparticules lipidiques est-il sûr chez des patients atteints de LES ou d'AHAI réfractaires ?",
+ "contexte": "Le lupus érythémateux systémique (LES) et l'anémie hémolytique auto-immune (AHAI) sont des maladies médiées par les lymphocytes B autoréactifs. Une partie des patients reste en échec des immunosuppresseurs, des corticoïdes et du rituximab, avec un besoin thérapeutique important. Les CAR-T anti-CD19 produits ex vivo ont donné des rémissions prolongées dans le LES réfractaire, mais leur fabrication est longue, coûteuse, et nécessite une lymphodéplétion préalable.\n\nArnovie101 est un CAR-T généré in vivo : un ARNm encapsulé dans une nanoparticule lipidique, modifiée par un nanocorps pour cibler les lymphocytes T, est perfusé par voie intraveineuse afin que les lymphocytes du patient expriment eux-mêmes le récepteur chimérique. Cette approche évite le prélèvement, la culture cellulaire et potentiellement la chimiothérapie de lymphodéplétion. Il s'agit d'un essai de phase 1 exploratoire, monocentrique, ouvert et à bras unique, promu par un industriel chinois. Il évalue la tolérance, la pharmacocinétique et la pharmacodynamie du produit, sans comparateur.",
+ "interet": "Si la sécurité est acceptable, cette plateforme pourrait rendre les thérapies cellulaires ciblant les lymphocytes B plus accessibles dans les maladies auto-immunes. Ces premières données sont toutefois très préliminaires, sur un très petit effectif.",
+ "profil": "Des adultes de 18 à 60 ans atteints de LES réfractaire ou d'AHAI (ou syndrome d'Evans) en échec d'au moins trois lignes.",
+ "inclusion": [
+  "Âge 18 à 60 ans, consentement signé",
+  "LES réfractaire ou en rechute depuis au moins 6 mois (critères SLICC 2012 ou EULAR/ACR 2019), SLEDAI-2K ≥ 6",
+  "LES : échec d'au moins deux immunosuppresseurs dont l'hydroxychloroquine, traitement stable",
+  "AHAI ou syndrome d'Evans en échec d'au moins 3 lignes (corticoïdes, rituximab, autre), Hb < 10 g/dL symptomatique",
+  "Fonction rénale (clairance ≥ 30 mL/min), hématologique et hépatique adéquates"
+ ],
+ "exclusion": [
+  "Thymome non réséqué",
+  "Grossesse ou allaitement",
+  "Lupus neuropsychiatrique actif ou maladie neurologique centrale significative",
+  "Antécédent de greffe d'organe ou de cellules souches",
+  "Infection active (tuberculose, VIH, VHB ou VHC avec charge virale détectable, syphilis active)",
+  "Maladie cardiovasculaire récente (insuffisance cardiaque ≥ NYHA II, infarctus, angor instable)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe Arnovie101",
+   "traitement": "Perfusion intraveineuse d'Arnovie101 (ARNm-LNP pour CAR-T in vivo), dose et jours précisés par le protocole"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois",
+ "critere": "Incidence des toxicités dose-limitantes et des événements indésirables (graves ou non) jusqu'à 12 mois."
+}

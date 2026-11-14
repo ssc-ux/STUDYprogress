@@ -1,0 +1,32 @@
+{
+ "h": "b97410e3670b",
+ "date": "2026-11-13",
+ "titre": "Bélimumab ou télitacicept versus mycophénolate en induction de la néphrite lupique proliférative",
+ "question": "Un traitement d'induction à base de bélimumab ou de télitacicept, avec corticoïdes, permet-il d'obtenir une réponse rénale complète à 6 mois comparable au mycophénolate ?",
+ "contexte": "La néphrite lupique proliférative (classes III/IV de l'ISN/RPS) reste une cause majeure de morbidité dans le lupus. Le traitement d'induction standard associe corticoïdes et mycophénolate mofétil (MMF) ou cyclophosphamide. Une part importante des patients n'obtient pas de réponse rénale complète, et les immunosuppresseurs conventionnels exposent à des effets indésirables, notamment infectieux.\n\nLe bélimumab, anti-BLyS, est approuvé en complément du traitement standard dans la néphrite lupique. Le télitacicept, protéine de fusion bloquant BLyS et APRIL, est développé surtout en Chine dans le lupus. Il reste peu de données comparant directement ces biothérapies au traitement conventionnel, ou utilisées seules avec les corticoïdes.\n\nCet essai exploratoire monocentrique, mené à l'université de Nanjing, randomise environ 50 patients selon un rapport 2:2:1 entre trois groupes : corticoïdes plus biothérapie, corticoïdes plus MMF, ou trithérapie. Les patients sans réponse à 3 mois peuvent passer dans le groupe trithérapie. Le choix entre bélimumab et télitacicept est fait par l'investigateur et le patient. Les résultats serviront à concevoir des essais confirmatoires de plus grande taille.",
+ "interet": "L'étude pourrait montrer si une biothérapie associée aux corticoïdes suffit à induire une rémission rénale, sans immunosuppresseur conventionnel. Cela pourrait ouvrir une option ciblée avec un profil de tolérance différent, mais les données resteront exploratoires.",
+ "profil": "Des patients de 14 à 65 ans atteints de lupus avec néphrite lupique proliférative active prouvée par biopsie.",
+ "inclusion": [
+  "Âge de 14 à 65 ans",
+  "Critères ACR 1997 du lupus remplis",
+  "Néphrite lupique de classe III/IV ± V prouvée par biopsie dans les 6 derniers mois",
+  "SLEDAI > 6",
+  "Protéinurie > 1,0 g/j",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "DFGe ≥ 45 mL/min/1,73 m²",
+  "Épuration extrarénale, échange plasmatique, immunoadsorption ou forte dose d'immunoglobulines IV dans les 2 mois",
+  "Atteinte d'organe critique ou crise lupique",
+  "Anomalies hématologiques ou hépatiques marquées (leucocytes < 3000/µL, plaquettes < 50 000/µL, ALAT/ASAT > 2 N)",
+  "Infection active ou hépatite B/C, tuberculose, VIH",
+  "Grossesse ou allaitement, cancer dans les 5 ans, allergie aux biothérapies"
+ ],
+ "bras": [
+  { "nom": "Groupe biothérapie", "traitement": "Corticoïdes (prednisone 0,5 mg/kg/j, max 40 mg, décroissance à ≤ 5 mg/j au mois 4) + bélimumab 10 mg/kg IV toutes les 2 semaines ou télitacicept 160 mg SC par semaine" },
+  { "nom": "Groupe standard", "traitement": "Mêmes corticoïdes + mycophénolate mofétil 1,5 à 2,0 g/j" },
+  { "nom": "Groupe trithérapie", "traitement": "Mêmes corticoïdes + MMF + bélimumab ou télitacicept ; reçoit aussi les non-répondeurs des deux autres groupes à 3 mois" }
+ ],
+ "duree": "6 mois de traitement d'induction",
+ "critere": "Proportion de patients en réponse rénale complète à 6 mois (protéinurie < 0,5 g/j, DFGe ≥ 85 % de la valeur initiale, sans traitement de secours ni arrêt prématuré)."
+}

@@ -1,0 +1,33 @@
+{
+ "h": "3f327ad6b151",
+ "date": "2026-11-13",
+ "titre": "CPTX2309 par voie intraveineuse chez des volontaires sains et des patients atteints de PR ou de LES",
+ "question": "Le CPTX2309 est-il bien toléré chez des volontaires sains et chez des patients atteints de PR ou de LES actifs ?",
+ "contexte": "La polyarthrite rhumatoïde (PR) et le lupus érythémateux systémique (LES) restent difficiles à contrôler chez une partie des patients malgré les biothérapies. Les CAR-T anti-CD19 ont montré des rémissions profondes dans le LES réfractaire, mais leur production ex vivo et la lymphodéplétion nécessaire limitent leur diffusion.\n\nLe CPTX2309 est un traitement de thérapie cellulaire in vivo développé par Capstan Therapeutics, administré par voie intraveineuse. Selon la désignation de l'étude, il vise à reprogrammer des cellules du patient pour cibler les lymphocytes B. Cette étude de phase 1 en première administration chez l'homme est ouverte et non randomisée. Elle comporte des cohortes à dose unique croissante puis à doses multiples croissantes, d'abord chez des volontaires sains, puis chez des patients atteints de PR ou de LES modérés à sévères. Elle évalue la tolérance, les anticorps anti-médicament et les taux d'immunoglobulines et de titres vaccinaux.",
+ "interet": "Si la tolérance est satisfaisante, ce produit pourrait ouvrir la voie à des thérapies ciblant les lymphocytes B sans passer par la fabrication cellulaire. Les résultats se limiteront à la sécurité et à la pharmacodynamie.",
+ "profil": "Des adultes de 18 à 65 ans, volontaires sains ou atteints de PR ou de LES modérés à sévères.",
+ "inclusion": [
+  "Volontaires sains jugés en bonne santé (antécédents, examen, biologie)",
+  "Capacité à suivre le calendrier de l'étude",
+  "PR : critères ACR/EULAR 2010, FR ou ACPA positifs, au moins 6 articulations gonflées et 6 douloureuses",
+  "LES : critères EULAR/ACR 2019, ANA ≥ 1/80 avec anti-ADN natif ou anti-Sm positifs"
+ ],
+ "exclusion": [
+  "Dysfonction d'organe ou anomalie cliniquement significative chez les volontaires sains",
+  "Produit expérimental dans les 30 jours ou 5 demi-vies",
+  "PR : syndrome de Felty",
+  "LES : atteinte neuropsychiatrique active ou dans les 6 mois précédents (céphalée lupique tolérée)"
+ ],
+ "bras": [
+  {
+   "nom": "Parties A et B",
+   "traitement": "Volontaires sains : CPTX2309 IV en dose unique puis en doses multiples croissantes"
+  },
+  {
+   "nom": "Parties C et D",
+   "traitement": "Patients PR ou LES : CPTX2309 IV en dose unique puis en doses multiples croissantes"
+  }
+ ],
+ "duree": "Jusqu'à environ 1 an",
+ "critere": "Tolérance et sécurité (événements indésirables, biologie, constantes, ECG, anticorps anti-médicament, cytokines, immunoglobulines, titres vaccinaux) jusqu'à environ 1 an."
+}

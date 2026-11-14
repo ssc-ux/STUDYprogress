@@ -1,0 +1,28 @@
+{
+ "h": "2841d6b39a6d",
+ "date": "2026-11-13",
+ "titre": "TEP au 68Ga-grazytracer pour visualiser la fonction effectrice immunitaire dans le cancer et les maladies auto-immunes",
+ "question": "La TEP ciblant la granzyme B est-elle sûre et reflète-t-elle la réponse au traitement dans le cancer et les maladies auto-immunes ?",
+ "contexte": "La granzyme B est libérée par les lymphocytes T cytotoxiques et les cellules NK activés. Elle intervient dans l'immunité antitumorale, mais aussi dans les lésions tissulaires des maladies auto-immunes. Visualiser son activité de façon non invasive pourrait donner une mesure directe de l'activation immunitaire in vivo.\n\nLe 68Ga-grazytracer est un traceur TEP ciblant la granzyme B. Selon le promoteur, des données précliniques et cliniques précoces en montrent la faisabilité pour suivre la réponse à l'immunothérapie. Sa valeur clinique n'a pas été évaluée de façon systématique selon les contextes. Cette étude exploratoire, monocentrique, à bras unique, est promue par l'hôpital universitaire Peking University Third Hospital. Elle inclut environ 60 à 80 adultes répartis en deux cohortes : cancers avant traitement systémique, et maladies auto-immunes (lupus, sclérodermie systémique, myocardite immune) sous immunomodulateurs. Les patients ont une TEP/TDM avant traitement puis pendant le traitement.",
+ "interet": "Un biomarqueur d'imagerie de l'activité immunitaire pourrait aider à évaluer l'activité et l'atteinte d'organe des maladies auto-immunes et à anticiper la réponse thérapeutique. Il s'agit ici d'une étude préliminaire de faisabilité.",
+ "profil": "Des adultes atteints de cancer ou de maladie auto-immune (lupus, sclérodermie, myocardite immune) devant recevoir ou recevant un traitement.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "Cohorte cancer : tumeur maligne confirmée, traitement systémique prévu, sans immunothérapie antérieure",
+  "Cohorte auto-immune : maladie confirmée avec inflammation immune, traitement immunomodulateur prévu ou en cours"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Défaillance sévère d'organe (cardiaque, hépatique, rénale) jugée incompatible par l'investigateur",
+  "Impossibilité de tolérer la TEP/TDM ou de réaliser le suivi",
+  "Toute autre condition rendant la participation inadaptée selon l'investigateur"
+ ],
+ "bras": [
+  {
+   "nom": "TEP au 68Ga-grazytracer",
+   "traitement": "TEP/TDM au 68Ga-grazytracer avant traitement puis pendant la période de traitement prévue"
+  }
+ ],
+ "duree": "Jusqu'à 6 mois",
+ "critere": "Événements indésirables liés à la TEP (environ 2 heures) et variation de la SUVmax et du rapport cible/bruit de fond jusqu'à 6 mois."
+}

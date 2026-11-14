@@ -1,0 +1,41 @@
+{
+ "h": "964635520bc4",
+ "date": "2026-11-13",
+ "titre": "Adapter le traitement d'entretien des vascularites à ANCA aux lymphocytes B CD5+",
+ "question": "Un taux normalisé de lymphocytes B régulateurs CD5+ permet-il d'arrêter le traitement d'entretien d'une vascularite à ANCA sans augmenter les rechutes ?",
+ "contexte": "Les vascularites associées aux ANCA sont des vascularites systémiques des petits vaisseaux, qui rechutent souvent. Après une induction par rituximab ou cyclophosphamide et corticoïdes, un traitement d'entretien immunosuppresseur est recommandé, mais il expose aux infections et la durée optimale n'est pas établie. Un outil permettant d'identifier les patients à faible risque de rechute serait utile.\n\nLes investigateurs ont observé qu'une reconstitution des lymphocytes B régulateurs CD5+ sécrétant de l'IL-10, après rituximab et corticoïdes, était associée à un moindre risque de rechute. Cette étude de preuve de concept randomisée, en ouvert, a été menée à l'Université de Caroline du Nord à Chapel Hill. Les patients dont le taux de CD19+CD5+ est inférieur à 43 % reçoivent un traitement d'entretien sans randomisation. Ceux dont le taux est de 43 % ou plus sont randomisés entre entretien et simple surveillance. L'essai a été arrêté prématurément avec 9 patients.",
+ "interet": "L'approche pourrait permettre d'individualiser la durée de l'immunosuppression d'entretien grâce à un biomarqueur sanguin. Le très faible effectif réalisé limite cependant les conclusions.",
+ "profil": "Des adultes de 18 à 85 ans atteints de vascularite à ANCA en rémission complète après induction.",
+ "inclusion": [
+  "Âge de 18 à 85 ans",
+  "Vascularite ou glomérulonéphrite à ANCA (anti-MPO ou anti-PR3) selon Chapel Hill",
+  "Rémission complète (BVAS = 0) depuis au moins 1 mois, après au moins 3 mois d'induction par corticoïdes et rituximab ou cyclophosphamide",
+  "Prednisone de 5 mg/j ou moins",
+  "Reconstitution B à au moins 1 % de CD19+ permettant de mesurer les CD5+"
+ ],
+ "exclusion": [
+  "Au moins 2 rechutes antérieures",
+  "Activité résiduelle de bas grade (BVAS de 1 à 3)",
+  "Infection systémique ou profonde dans les 3 mois",
+  "Participation à un autre essai imposant un traitement d'entretien",
+  "Vascularite induite par un médicament (par ex. lévamisole)",
+  "Tuberculose, VIH, hépatite B ou C actifs",
+  "Grossesse, allaitement ou refus de contraception efficace"
+ ],
+ "bras": [
+  {
+   "nom": "CD5+ bas, entretien",
+   "traitement": "CD19+CD5+ inférieur à 43 % : immunosuppression d'entretien, sans randomisation"
+  },
+  {
+   "nom": "CD5+ élevé, entretien",
+   "traitement": "CD19+CD5+ d'au moins 43 %, randomisé : poursuite de l'entretien (rituximab, ou azathioprine ou mycophénolate si rituximab impossible)"
+  },
+  {
+   "nom": "CD5+ élevé, sans entretien",
+   "traitement": "CD19+CD5+ d'au moins 43 %, randomisé : surveillance clinique étroite sans immunosuppression d'entretien"
+  }
+ ],
+ "duree": "Environ 2 ans",
+ "critere": "Délai jusqu'à la première rechute, de la rémission complète à la fin de l'étude (environ 2 ans)."
+}

@@ -1,0 +1,36 @@
+{
+ "h": "3ab23d39d8b5",
+ "date": "2026-11-13",
+ "titre": "Stimulation électromagnétique basse fréquence dans les maladies auto-immunes (lupus, PR, SEP)",
+ "question": "Une stimulation électromagnétique basse fréquence réduit-elle la fréquence des poussées de maladies auto-immunes stables ?",
+ "contexte": "Les maladies auto-immunes systémiques (lupus, polyarthrite rhumatoïde, sclérose en plaques) sont des affections chroniques évoluant par poussées, traitées par immunosuppresseurs, biothérapies ou corticoïdes, avec un besoin persistant de thérapeutiques mieux tolérées. Le promoteur avance l'hypothèse que les cellules immunitaires répondent à des champs électromagnétiques de très basse fréquence, qui pourraient moduler la libération de cytokines.\n\nCette hypothèse biophysique reste exploratoire et ne repose pas sur des données cliniques établies. L'étude de phase 1/2, randomisée en quadruple aveugle, compare une stimulation active (7 à 40 Hz, moins de 2 microtesla, 3 séances par semaine pendant 12 semaines) à un dispositif factice. Elle comporte des prélèvements sanguins (cytokines, expression génique) et un algorithme d'apprentissage automatique censé prédire l'inflammation et ajuster les réglages. Le promoteur est une société privée, avec un seul centre déclaré. Le nombre de participants prévu est de 120.",
+ "interet": "L'intérêt clinique reste incertain : l'étude teste d'abord la faisabilité, la tolérance et une activité biologique. Un résultat positif devrait être confirmé dans des essais indépendants avant tout usage.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'une maladie auto-immune systémique stable (lupus, PR, SEP).",
+ "inclusion": [
+  "Âge 18 à 70 ans",
+  "Maladie auto-immune systémique (lupus, PR, SEP) confirmée depuis au moins 12 mois",
+  "Traitement de fond ou corticoïdes stables depuis au moins 8 semaines",
+  "Engagement à ne pas modifier le traitement pendant l'étude",
+  "Consentement éclairé et accès à Internet ou à un smartphone"
+ ],
+ "exclusion": [
+  "Dispositif médical ou électronique implanté (stimulateur, défibrillateur)",
+  "Grossesse ou allaitement",
+  "Infection active, cancer ou atteinte hépatique, rénale ou cardiovasculaire significative",
+  "Épilepsie ou photosensibilité",
+  "Biothérapie ou traitement expérimental débuté depuis moins de 3 mois",
+  "Participation à moins de 6 mois à une étude électromagnétique"
+ ],
+ "bras": [
+  {
+   "nom": "Stimulation active",
+   "traitement": "Résonance électromagnétique basse fréquence (7-40 Hz), 3 séances par semaine pendant 12 semaines"
+  },
+  {
+   "nom": "Stimulation factice",
+   "traitement": "Dispositif inactif, mêmes modalités"
+  }
+ ],
+ "duree": "12 semaines de traitement, suivi jusqu'à 6 mois",
+ "critere": "Variation de la fréquence des poussées auto-immunes entre l'inclusion et le mois 6"
+}

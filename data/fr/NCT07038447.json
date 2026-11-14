@@ -1,0 +1,32 @@
+{
+ "h": "616dd9920f53",
+ "date": "2026-11-13",
+ "titre": "CAR-T anti-CD19/CD20 (KITE-363) dans les maladies auto-immunes réfractaires : lupus, sclérodermie, myopathies",
+ "question": "Le KITE-363, CAR-T autologues ciblant CD19 et CD20, est-il sûr et efficace dans les maladies auto-immunes réfractaires ?",
+ "contexte": "Le lupus systémique, la sclérodermie systémique et les myopathies inflammatoires idiopathiques peuvent rester actifs malgré plusieurs lignes d'immunosuppresseurs et de biothérapies. Les atteintes rénales, cutanées, pulmonaires ou musculaires sévères exposent à des dommages d'organe et à une corticothérapie prolongée. Le besoin de traitements permettant une rémission durable sans traitement de fond reste important.\n\nLes CAR-T anti-CD19 ont montré, dans des séries de cas et de petites cohortes, une déplétion profonde des lymphocytes B et des rémissions dans le lupus réfractaire. Le KITE-363 est un CAR-T autologue bispécifique qui cible à la fois CD19 et CD20, dans le but de limiter l'échappement antigénique et d'obtenir une déplétion B plus complète. Cette étude de phase 1, non randomisée, ouverte et multicentrique, suit un schéma « panier » : une phase 1a d'escalade de dose pour définir la dose recommandée, puis une phase 1b d'expansion par pathologie. Les patients reçoivent une lymphodéplétion par fludarabine et cyclophosphamide avant la perfusion. Le promoteur est Kite (Gilead), l'étude prévoit environ 52 participants dans 4 pays.",
+ "interet": "L'étude doit établir la tolérance et la dose recommandée d'un CAR-T bispécifique dans plusieurs maladies auto-immunes. Elle apportera des données préliminaires d'efficacité (rémission du lupus, réponse rénale, réponse dans la sclérodermie et les myopathies). Elle pourrait ouvrir la voie à des essais de phase 2 dans ces indications.",
+ "profil": "Des adultes atteints de lupus systémique (dont néphrite lupique), de sclérodermie systémique ou de myopathie inflammatoire idiopathique, réfractaires aux traitements standards.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus : critères de classification EULAR/ACR 2019, auto-anticorps, maladie active modérée à sévère (BILAG)",
+  "Lupus : réfractaire aux corticoïdes et échec ou intolérance à au moins 2 traitements de fond",
+  "Néphrite lupique : biopsie classe III ou IV ± V datant de moins de 6 mois, néphrite active",
+  "Sclérodermie : forme diffuse active ou pneumopathie interstitielle progressive, échec d'au moins un traitement",
+  "Myopathie : IIM probable ou définie (EULAR/ACR 2017, hors myosite à inclusions), maladie active modérée à sévère"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre (critères détaillés dans le protocole)"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 1a : escalade de dose",
+   "traitement": "Lymphodéplétion (fludarabine + cyclophosphamide) puis KITE-363 (CAR-T autologues anti-CD19/CD20) à doses croissantes"
+  },
+  {
+   "nom": "Phase 1b : expansion",
+   "traitement": "Lymphodéplétion (fludarabine + cyclophosphamide) puis KITE-363 à la dose recommandée issue de la phase 1a"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans de suivi",
+ "critere": "Phase 1a : toxicités limitant la dose ; phase 1b : événements indésirables et réponse à 6 mois selon la maladie (rémission DORIS/LLDAS, réponse rénale complète, rCRISS, TIS EULAR/ACR)."
+}

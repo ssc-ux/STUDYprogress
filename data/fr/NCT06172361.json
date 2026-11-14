@@ -1,0 +1,39 @@
+{
+ "h": "5d6754b2e07b",
+ "date": "2026-11-13",
+ "titre": "Tofacitinib et corticoïdes en induction dans la pseudo-polyarthrite rhizomélique",
+ "question": "L'association tofacitinib-corticoïdes avec décroissance rapide des corticoïdes est-elle plus efficace que les corticoïdes seuls dans la PPR ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire du sujet de plus de 50 ans, où coexistent souvent ostéoporose, diabète et maladie cardiovasculaire. Les corticoïdes restent le traitement principal, mais leurs effets indésirables sont notables et les rechutes à la décroissance sont fréquentes.\n\nLe tofacitinib, inhibiteur de JAK, a montré une efficacité dans la PPR dans une étude antérieure de 24 semaines de la même équipe. Son effet étant relativement lent, une association initiale aux corticoïdes est proposée pour obtenir une amélioration rapide, suivie d'une décroissance rapide des corticoïdes et lente du tofacitinib. Cet essai de phase 3, randomisé et en ouvert sur 52 semaines, est promu par l'Université du Zhejiang (Chine) et inclut 104 patients à forte activité.",
+ "interet": "Il pourrait ouvrir une stratégie d'épargne cortisonique par anti-JAK dans la PPR. L'essai en ouvert et monocentrique-régional invite toutefois à une confirmation dans d'autres populations.",
+ "profil": "Des adultes de 50 à 88 ans atteints de PPR très active, sans traitement corticoïde ou biologique récent.",
+ "inclusion": [
+  "PPR selon les critères de Chuang 1982 ou ACR/EULAR 2012",
+  "Aucun corticoïde ni biothérapie dans les 2 semaines précédentes",
+  "PMR-AS supérieur à 10",
+  "Âge de 50 à 88 ans, poids de 45 à 85 kg",
+  "VS supérieure à 20 mm/h ou CRP supérieure à 50 mg/L",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Allergie connue au tofacitinib ou à la prednisone",
+  "Artérite à cellules géantes, lupus, polyarthrite rhumatoïde, chondrocalcinose ou autre rhumatisme",
+  "Infection sévère ou chronique, hépatite B ou C, VIH, tuberculose",
+  "Anomalie hépatique (ALAT/ASAT supérieures à 2 fois la normale) ou DFG inférieur à 60 mL/min",
+  "Cancer datant de moins de 5 ans ou non guéri",
+  "Insuffisance cardiaque décompensée, hypertension sévère ou diabète sévère",
+  "Lymphocytes inférieurs à 500/mm³, PNN inférieurs à 1000/mm³ ou hémoglobine inférieure à 90 g/L",
+  "Traitement récent par biothérapie, azathioprine, léflunomide ou tacrolimus"
+ ],
+ "bras": [
+  {
+   "nom": "Tofacitinib + corticoïdes",
+   "traitement": "Prednisone (ou méthylprednisolone équivalente) associée au tofacitinib"
+  },
+  {
+   "nom": "Corticoïdes seuls",
+   "traitement": "Prednisone (ou méthylprednisolone équivalente) seule"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients avec un PMR-AS inférieur à 10 à 52 semaines."
+}

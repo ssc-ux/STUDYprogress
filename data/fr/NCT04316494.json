@@ -1,0 +1,32 @@
+{
+ "h": "e9ec3d9d87df",
+ "date": "2026-11-13",
+ "titre": "Hydroxychloroquine en complément du traitement des vascularites à ANCA",
+ "question": "L'ajout d'hydroxychloroquine au traitement de fond réduit-il l'activité résiduelle des vascularites à ANCA ?",
+ "contexte": "Les vascularites associées aux ANCA (granulomatose avec polyangéite, polyangéite microscopique, GEPA) sont des maladies systémiques sévères. Après l'induction, un traitement d'entretien (corticoïdes, azathioprine, méthotrexate, mycophénolate, rituximab) est poursuivi, mais une activité résiduelle de bas grade et une exposition prolongée aux corticoïdes sont fréquentes.\n\nL'hydroxychloroquine est un traitement ancien, peu coûteux et bien toléré, largement utilisé dans le lupus et la polyarthrite rhumatoïde. Son effet immunomodulateur pourrait aider à contrôler l'activité résiduelle et à épargner les corticoïdes dans les vascularites à ANCA, mais cela n'est pas démontré. HAVEN est un essai randomisé de phase 4 contre placebo, promu par le Guy's and St Thomas' NHS Foundation Trust. Il inclut 43 patients et a été arrêté prématurément.",
+ "interet": "Si l'hydroxychloroquine montrait un bénéfice, elle offrirait une option simple et peu coûteuse en complément du traitement d'entretien. L'arrêt prématuré de l'essai limite toutefois la portée de ses résultats.",
+ "profil": "Des adultes atteints de GPA, de PAM ou de GEPA, sous traitement d'entretien stable avec une activité modérée de la maladie.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "GPA, PAM ou GEPA selon les définitions de Chapel Hill",
+  "BVAS v3 supérieur à 3 avec items mineurs uniquement, au dépistage et à la randomisation",
+  "Traitement d'entretien stable depuis 4 semaines",
+  "Corticoïdes pour une autre indication à dose stable depuis 4 semaines",
+  "Contraception efficace chez les femmes en âge de procréer, test de grossesse négatif"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre (critères d'exclusion non détaillés ici)"
+ ],
+ "bras": [
+  {
+   "nom": "Hydroxychloroquine",
+   "traitement": "400 mg par jour (200 mg la première semaine puis 400 mg), 200 mg si poids inférieur à 50 kg ou DFG 30-50 mL/min, pendant 52 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo selon le même schéma, pendant 52 semaines"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Proportion de patients avec une maladie non contrôlée, ou contrôlée mais avec prednisolone supérieure à 7,5 mg/j, évaluée par le BVAS pendant les 12 dernières semaines de traitement."
+}

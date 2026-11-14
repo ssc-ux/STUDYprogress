@@ -1,0 +1,44 @@
+{
+ "h": "363479cfa9b3",
+ "date": "2026-11-13",
+ "titre": "HC022 sous-cutané dans le lupus systémique ou cutané : étude de phase Ib à doses croissantes",
+ "question": "HC022 est-il bien toléré à doses croissantes chez des patients atteints de lupus systémique ou cutané ?",
+ "contexte": "Le lupus érythémateux systémique et le lupus cutané sont des maladies auto-immunes chroniques pour lesquelles les options ciblées restent limitées. Les traitements actuels reposent sur les antipaludéens, les corticoïdes, les immunosuppresseurs et quelques biothérapies, avec une rémission loin d'être acquise chez tous les patients.\n\nHC022 est un produit injectable par voie sous-cutanée développé par HC Biopharma ; sa cible n'est pas précisée dans le registre. Cette étude de phase Ib, multicentrique, randomisée, en double aveugle et contrôlée par placebo, évalue des doses croissantes répétées chez 32 patients. Quatre niveaux de dose sont testés, de 100 à 450 mg toutes les 4 semaines, avec une dose supplémentaire à J15 dans le dernier groupe. L'objectif principal est la tolérance ; la pharmacocinétique et l'immunogénicité sont les objectifs secondaires.",
+ "interet": "Cette étude précoce établira la tolérance et les paramètres pharmacocinétiques de HC022, préalables à toute étude d'efficacité dans le lupus.",
+ "profil": "Des adultes atteints de lupus érythémateux systémique ou cutané, sans néphrite sévère active ni atteinte neuropsychiatrique active.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic de lupus systémique ou cutané posé par l'investigateur",
+  "Contraception efficace pendant l'étude et 6 mois après la dernière dose",
+  "Test de grossesse sérique négatif, absence d'allaitement",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Néphrite lupique sévère active",
+  "Lupus neuropsychiatrique actif",
+  "Autre maladie auto-immune systémique (hors Sjögren secondaire) ou lupus d'origine médicamenteuse",
+  "VIH, syphilis, hépatites B ou C, CMV ou EBV actifs, antécédent ou signe de tuberculose",
+  "Anomalies biologiques : transaminases > 2 N, bilirubine > 1,5 N, Hb < 90 g/L, plaquettes < 75 G/L, PNN < 1,5 G/L",
+  "Infections graves ou récurrentes récentes, antécédent d'herpès sévère"
+ ],
+ "bras": [
+  {
+   "nom": "HC022 100 mg",
+   "traitement": "HC022 ou placebo, 100 mg par voie sous-cutanée toutes les 4 semaines, 2 injections"
+  },
+  {
+   "nom": "HC022 225 mg",
+   "traitement": "HC022 ou placebo, 225 mg par voie sous-cutanée toutes les 4 semaines, 2 injections"
+  },
+  {
+   "nom": "HC022 450 mg",
+   "traitement": "HC022 ou placebo, 450 mg par voie sous-cutanée toutes les 4 semaines, 2 injections"
+  },
+  {
+   "nom": "HC022 450 mg (3 doses)",
+   "traitement": "HC022 ou placebo, 450 mg toutes les 4 semaines avec une dose supplémentaire à J15, soit 3 doses"
+  }
+ ],
+ "duree": "Jusqu'au jour 141",
+ "critere": "Pourcentage de participants avec événements indésirables et événements indésirables graves, jusqu'au jour 141."
+}

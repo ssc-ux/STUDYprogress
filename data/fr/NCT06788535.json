@@ -1,0 +1,28 @@
+{
+ "h": "439a208820e2",
+ "date": "2026-11-13",
+ "titre": "Imagerie TEP/TDM à l'évuzamitide marqué à l'iode 124 pour diagnostiquer l'amylose cardiaque",
+ "question": "La TEP/TDM à l'I-124 évuzamitide a-t-elle une sensibilité et une spécificité suffisantes pour diagnostiquer l'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque est une cause sous-diagnostiquée d'insuffisance cardiaque. Le diagnostic repose sur l'échocardiographie, l'IRM cardiaque, la scintigraphie aux traceurs osseux, la recherche d'une protéine monoclonale et parfois la biopsie. La scintigraphie osseuse est performante pour l'amylose à transthyrétine, mais elle ne détecte pas bien les amyloses AL, et la biopsie reste invasive.\n\nL'évuzamitide est un peptide qui se fixe aux dépôts amyloïdes, quel que soit le type de protéine. Marqué à l'iode 124, il permet une imagerie par TEP/TDM. Cette étude de phase 3, multicentrique, ouverte et à bras unique, évalue sa performance diagnostique chez des patients suspects d'amylose cardiaque, par rapport à une référence établie à partir des examens diagnostiques usuels (« standard of truth »). Les hypothèses principales visent une sensibilité supérieure à 65 % et une spécificité supérieure à 55 %. Le promoteur académique est associé à Bayer, qui soutient l'étude.",
+ "interet": "Un traceur TEP capable de détecter les dépôts amyloïdes de tous types pourrait simplifier le bilan de l'amylose cardiaque. Il pourrait notamment limiter le recours à la biopsie endomyocardique.",
+ "profil": "Des adultes de 18 ans ou plus suspects d'amylose cardiaque, en cours ou sur le point de débuter un bilan diagnostique.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Suspicion d'amylose cardiaque avec bilan diagnostique en cours ou prévu",
+  "Consentement éclairé signé",
+  "Capacité à rester allongé environ 1 heure pour la TEP/TDM",
+  "Contraception ou abstinence pour les femmes en âge de procréer (jusqu'à 30 jours après l'injection)",
+  "Contraception ou abstinence et absence de don de sperme pour les hommes (120 jours)"
+ ],
+ "exclusion": [
+  "Diagnostic établi d'amylose cardiaque",
+  "Amylose systémique avec atteinte d'organe connue (ex. rénale AL, neuropathie ATTR)",
+  "Traitement approuvé de l'amylose (ex. tafamidis) ou participation à un essai thérapeutique de l'amylose",
+  "Autres critères non détaillés dans l'extrait du registre"
+ ],
+ "bras": [
+  { "nom": "Dose unique, ouvert", "traitement": "I-124 évuzamitide en une injection, puis TEP/TDM environ 4 heures plus tard" }
+ ],
+ "duree": "Environ 60 jours au total : dépistage jusqu'à 45 jours, injection, suivi de sécurité jusqu'au jour 30",
+ "critere": "Sensibilité et spécificité de la TEP/TDM à l'I-124 évuzamitide pour le diagnostic d'amylose cardiaque, jusqu'à 60 jours après l'injection"
+}

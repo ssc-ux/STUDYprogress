@@ -1,0 +1,41 @@
+{
+ "h": "eb1068f4a351",
+ "date": "2026-11-13",
+ "titre": "Brepocitinib oral contre placebo dans la dermatomyosite de l'adulte",
+ "question": "Le brepocitinib, inhibiteur de TYK2/JAK1, améliore-t-il l'activité de la dermatomyosite de l'adulte par rapport au placebo ?",
+ "contexte": "La dermatomyosite est une myopathie inflammatoire idiopathique touchant les muscles et la peau, avec un retentissement fonctionnel important. Le traitement repose sur les corticoïdes, associés à des immunosuppresseurs (méthotrexate, azathioprine, mycophénolate) et aux immunoglobulines intraveineuses, seules ces dernières ayant une AMM dans cette indication aux États-Unis. Beaucoup de patients restent actifs malgré ces traitements et dépendants des corticoïdes.\n\nLe rationnel est que la voie des interférons de type I, dépendante de TYK2 et de JAK1, joue un rôle central dans la physiopathologie de la maladie. Le brepocitinib, inhibiteur oral de TYK2/JAK1, cible cette voie. Cet essai de phase 3 (VALOR), randomisé en double aveugle contre placebo, compare deux doses de brepocitinib chez 241 adultes, avec 52 semaines de traitement en aveugle puis une extension ouverte de 52 semaines. Le promoteur est Priovant Therapeutics. Le critère principal est le Total Improvement Score (TIS), score composite validé de réponse dans les myosites.",
+ "interet": "Si l'étude est positive, le brepocitinib pourrait devenir une option orale ciblée dans la dermatomyosite, avec une action à la fois musculaire et cutanée. Elle pourrait aussi aider à réduire l'exposition aux corticoïdes.",
+ "profil": "Des adultes de 18 à 75 ans atteints de dermatomyosite active, musculaire et cutanée.",
+ "inclusion": [
+  "Dermatomyosite selon les critères EULAR/ACR 2017",
+  "Âge de 18 à 75 ans",
+  "Atteinte musculaire et cutanée active au dépistage et à l'inclusion",
+  "Traitement antérieur ou en cours par corticoïdes, hydroxychloroquine et/ou un immunosuppresseur non stéroïdien",
+  "Poids de plus de 40 kg et moins de 130 kg, IMC inférieur à 40 kg/m²"
+ ],
+ "exclusion": [
+  "Atteinte d'organe terminale ou atteinte musculaire irréversible",
+  "Antécédent de syndrome lymphoprolifératif ou cancer actif ou datant de moins de 5 ans (hors exceptions cutanées et in situ)",
+  "Dermatomyosite paranéoplasique",
+  "Syndrome de chevauchement avec une autre connectivite (hors syndrome de Gougerot-Sjögren)",
+  "Risque de thrombose ou de maladie cardiovasculaire",
+  "Risque élevé de réactivation du zona",
+  "Infection active ou récente"
+ ],
+ "bras": [
+  {
+   "nom": "Brepocitinib, dose 1",
+   "traitement": "Brepocitinib par voie orale, une fois par jour, dose niveau 1"
+  },
+  {
+   "nom": "Brepocitinib, dose 2",
+   "traitement": "Brepocitinib par voie orale, une fois par jour, dose niveau 2"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie orale, une fois par jour"
+  }
+ ],
+ "duree": "52 semaines en double aveugle, puis 52 semaines d'extension ouverte facultative",
+ "critere": "Amélioration du Total Improvement Score (TIS) à la semaine 52."
+}

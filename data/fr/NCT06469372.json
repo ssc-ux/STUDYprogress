@@ -1,0 +1,29 @@
+{
+ "h": "e0f90c262e34",
+ "date": "2026-11-13",
+ "titre": "Dépistage de l'amylose cardiaque par un modèle d'apprentissage profond appliqué à l'ECG et à l'échocardiographie",
+ "question": "Un algorithme d'intelligence artificielle peut-il repérer des patients porteurs d'une amylose cardiaque non diagnostiquée ?",
+ "contexte": "L'amylose cardiaque est une cardiomyopathie infiltrante liée à l'âge, responsable d'insuffisance cardiaque et de décès. Elle est souvent méconnue et diagnostiquée tardivement, à un stade où les symptômes sont déjà sévères. La forme à transthyrétine (ATTR-CA) dispose désormais de traitements, ce qui rend le diagnostic précoce d'autant plus utile.\n\nLes investigateurs ont développé un modèle d'apprentissage profond qui exploite l'ECG, l'échocardiographie et des données cliniques pour repérer les profils évocateurs d'amylose cardiaque. Cette étude monocentrique, menée au NewYork-Presbyterian, applique prospectivement le modèle à la population du centre. Les patients à plus haut risque prédit sont invités à réaliser un bilan diagnostique. Le taux de diagnostic obtenu est comparé à celui de témoins historiques : patients adressés pour un bilan d'amylose et patients de l'étude SCAN-MP. Le promoteur est un investigateur académique, avec des soutiens de l'American Heart Association et de l'industrie.",
+ "interet": "Si le taux de diagnostic est nettement supérieur à celui des circuits habituels, l'approche pourrait servir à cibler le bilan d'amylose cardiaque à partir de données déjà disponibles dans le dossier. Elle pourrait raccourcir le délai diagnostique avant l'accès aux traitements spécifiques.",
+ "profil": "Des adultes de 50 ans ou plus, suivis dans un centre universitaire, dont le profil ECG et échocardiographique évoque une amylose cardiaque non encore explorée.",
+ "inclusion": [
+  "Probabilité élevée d'amylose cardiaque selon le modèle d'apprentissage profond",
+  "Âge ≥ 50 ans",
+  "ECG et échocardiographie enregistrés dans les 5 ans précédant le début de l'étude",
+  "Consentement signé par le patient ou son représentant"
+ ],
+ "exclusion": [
+  "Amylose AL ou AA",
+  "Antécédent de greffe hépatique ou cardiaque",
+  "Cancer actif ou maladie non amyloïde avec survie attendue < 1 an",
+  "Exploration antérieure de l'amylose cardiaque (scintigraphie, biopsie cardiaque ou de graisse)",
+  "Séquelles d'AVC, traumatisme ou autre trouble empêchant la participation",
+  "Démence invalidante ou trouble psychique ou comportemental majeur",
+  "Résident en maison de retraite médicalisée"
+ ],
+ "bras": [
+  { "nom": "Bras d'intervention (50 patients)", "traitement": "Invitation à un bilan diagnostique d'amylose cardiaque après repérage par le modèle d'apprentissage profond" }
+ ],
+ "duree": "Jusqu'à 1 an après l'identification, avec une seule journée d'évaluation par participant",
+ "critere": "Taux de diagnostic d'amylose cardiaque parmi les patients repérés par le modèle, dans l'année suivant l'identification"
+}

@@ -1,0 +1,36 @@
+{
+ "h": "e2b04717be24",
+ "date": "2026-11-13",
+ "titre": "Comparaison pharmacocinétique de l'ianalumab sous-cutané : stylo auto-injecteur et seringues préremplies",
+ "question": "L'exposition à l'ianalumab est-elle comparable entre un auto-injecteur de 2 mL et deux seringues préremplies de 1 mL ?",
+ "contexte": "L'ianalumab est un anticorps monoclonal déplétant les lymphocytes B, développé par Novartis dans plusieurs maladies auto-immunes dont le syndrome de Sjögren et le lupus systémique. Il est administré par voie sous-cutanée mensuelle. Pour un usage en ambulatoire, un dispositif simple et unique serait préférable à plusieurs injections par seringue.\n\nCette étude de phase 2 est un essai croisé en deux périodes, sans visée d'efficacité. Elle compare la pharmacocinétique d'une injection de 300 mg/2 mL par auto-injecteur à celle de deux injections de 150 mg/1 mL par seringue préremplie, chez des adultes atteints de polyarthrite rhumatoïde, de syndrome de Sjögren ou de lupus. Une seconde cohorte compare une seringue de 2 mL à deux seringues de 1 mL. Les participants sont randomisés 1:1 vers deux séquences, avec permutation à la semaine 12, en plus de leur traitement habituel. Le site d'injection varie selon les bras (cuisse, abdomen, bras).",
+ "interet": "L'étude doit montrer que les deux dispositifs sont interchangeables. Une réponse positive permettrait de proposer un auto-injecteur plus pratique si l'ianalumab est commercialisé.",
+ "profil": "Des adultes de 18 à 70 ans atteints de polyarthrite rhumatoïde, de syndrome de Sjögren ou de lupus systémique actifs.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Poids de 35 à 150 kg et IMC de 18 à 35 kg/m²",
+  "Polyarthrite rhumatoïde, Sjögren ou lupus diagnostiqué par l'investigateur",
+  "Maladie active pouvant bénéficier d'une déplétion B",
+  "Traitement de fond autorisé à dose stable depuis 4 semaines"
+ ],
+ "exclusion": [
+  "Traitements interdits par le protocole",
+  "Infection active nécessitant un traitement systémique ou infections récurrentes",
+  "Vaccin vivant prévu pendant l'étude",
+  "Maladie grave associée non contrôlée",
+  "Grossesse ou allaitement",
+  "Contraception efficace refusée ou impossible jusqu'à 6 mois après l'arrêt"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1",
+   "traitement": "Ianalumab 300 mg sous-cutané mensuel : 2 seringues de 1 mL puis 1 auto-injecteur de 2 mL, ou l'inverse, avec permutation à la semaine 12"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "Ianalumab 300 mg sous-cutané mensuel : 1 seringue de 2 mL puis 2 seringues de 1 mL, ou l'inverse, avec permutation à la semaine 12"
+  }
+ ],
+ "duree": "Environ 24 semaines de traitement croisé, plus dépistage de 4 semaines (période d'extension possible)",
+ "critere": "Exposition à l'ianalumab (AUC sur l'intervalle de dosage et Cmax) à l'état d'équilibre, après la 3e et la 6e dose."
+}

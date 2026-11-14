@@ -1,0 +1,38 @@
+{
+ "h": "bfa09ef813ad",
+ "date": "2026-11-13",
+ "titre": "HLX79 associé au rituximab versus placebo dans la glomérulonéphrite",
+ "question": "HLX79 (sialidase recombinante) ajouté à un anti-CD20 est-il bien toléré chez des patients ayant une glomérulonéphrite active ?",
+ "contexte": "La néphropathie extramembraneuse primitive est une cause fréquente de syndrome néphrotique de l'adulte, due à des auto-anticorps (anti-PLA2R principalement) dirigés contre les podocytes. Le rituximab est aujourd'hui un traitement de référence, mais une partie des patients n'obtient pas de rémission, et les formes à haut risque (protéinurie élevée) restent difficiles à traiter.\n\nHLX79 est une protéine de fusion recombinante à activité sialidase humaine. Elle est évaluée ici comme complément d'un anti-CD20, HLX01, un rituximab biosimilaire du même promoteur. Cette étude de phase 2 randomisée en triple aveugle, promue par Shanghai Henlius Biotech, compare trois doses de HLX79 (10, 20 ou 30 mg/kg) au placebo, tous avec HLX01. Elle inclut des patients atteints de néphropathie extramembraneuse à haut risque et vise 24 participants. Après une première période de traitement, un suivi de 20 semaines précède l'éventuelle deuxième période, pour un suivi total de 48 semaines. L'objectif principal est la tolérance, l'efficacité, la pharmacocinétique et l'immunogénicité étant secondaires.",
+ "interet": "Ces données de phase 2 précoces renseigneront sur la sécurité de cette nouvelle approche et sur les doses à retenir. L'effectif est faible et l'étude n'est pas dimensionnée pour juger l'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans ayant une néphropathie extramembraneuse primitive à haut risque.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Néphropathie extramembraneuse primitive diagnostiquée depuis moins de 5 ans (biopsie ou anti-PLA2R positif avec syndrome néphrotique)",
+  "Formes secondaires exclues",
+  "IEC/ARA2 à dose maximale tolérée depuis 3 mois",
+  "Haut risque : protéinurie > 8 g/24 h, ou DFGe ≥ 60 et protéinurie > 3,5 g/24 h"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Abus de drogue ou d'alcool dans l'année",
+  "Cancer ou risque accru de cancer",
+  "Autres critères : non précisé dans le résumé"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A1",
+   "traitement": "HLX79 10 mg/kg ou placebo, avec rituximab HLX01"
+  },
+  {
+   "nom": "Groupe B1",
+   "traitement": "HLX79 20 mg/kg ou placebo, avec rituximab HLX01"
+  },
+  {
+   "nom": "Groupe C1",
+   "traitement": "HLX79 30 mg/kg ou placebo, avec rituximab HLX01"
+  }
+ ],
+ "duree": "48 semaines de suivi au total",
+ "critere": "Nombre de participants avec anomalies biologiques ou événements indésirables liés au traitement, à 24 semaines."
+}

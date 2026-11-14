@@ -1,0 +1,14 @@
+{
+"h": "6a77b1930558",
+"date": "2026-11-13",
+"titre": "Acoramidis et imagerie cardiaque (IRM et échocardiographie) dans l'amylose cardiaque à TTR",
+"question": "L'acoramidis améliore-t-il la fonction et la structure cardiaques mesurées par IRM et échocardiographie chez des patients avec amylose cardiaque à transthyrétine ?",
+"contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est causée par le dépôt de fibrilles issues de la dissociation du tétramère de TTR. Elle entraîne un épaississement ventriculaire, une insuffisance cardiaque et une mortalité élevée.\n\nL'acoramidis, stabilisateur de la TTR, a réduit la mortalité toutes causes et les hospitalisations cardiovasculaires dans l'essai ATTRibute-CM et est approuvé en Europe et aux États-Unis. Son effet sur la structure et la charge amyloïde du myocarde est moins bien décrit, car les critères cliniques ne reflètent pas directement le remodelage cardiaque.\n\nCette étude de phase 4 de BridgeBio (Eidos), AG10-404, est à un seul bras et en ouvert. Environ 150 patients de 18 à 80 ans, en classe NYHA I-II, reçoivent l'acoramidis 712 mg (équivalent à 800 mg de chlorhydrate) deux fois par jour pendant 36 mois. L'IRM cardiaque et l'échocardiographie suivent l'évolution de la fonction, de la structure et de la charge amyloïde. La participation dure environ 38 mois.",
+"interet": "L'étude pourrait montrer si l'acoramidis améliore ou stabilise des paramètres d'imagerie, ce qui éclairerait son effet sur le myocarde au-delà des événements cliniques. Elle fournira aussi des données de suivi sur 3 ans en pratique d'imagerie.",
+"profil": "Des adultes de 18 à 80 ans atteints d'amylose cardiaque à TTR (ATTR-CM) de stade peu avancé.",
+"inclusion": ["Âge de 18 à 80 ans", "ATTR-CM confirmée nécessitant un traitement ciblé", "Classe NYHA I ou II", "DFG estimé ≥ 40 mL/min/1,73 m²", "FEVG > 35 %", "Épaisseur pariétale du VG ≥ 12 mm", "Insuffisance cardiaque stable depuis au moins 6 semaines"],
+"exclusion": ["Dispositif cardiaque implantable (stimulateur, défibrillateur) en place ou prévu", "Infarctus, syndrome coronarien aigu, revascularisation, AVC ou AIT dans les 90 jours", "Instabilité hémodynamique", "Greffe cardiaque probable dans les 12 mois", "Amylose AL confirmée", "Classe NYHA III ou IV, ou stade NAC 3", "Traitement antérieur ou en cours par acoramidis"],
+"bras": [{"nom": "Acoramidis", "traitement": "Acoramidis 712 mg par voie orale, deux fois par jour, en ouvert"}],
+"duree": "Environ 38 mois (36 mois de traitement)",
+"critere": "Amélioration de la fonction cardiaque à l'IRM cardiaque au mois 36."
+}

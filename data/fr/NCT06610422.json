@@ -1,0 +1,39 @@
+{
+ "h": "66fbb52fffc0",
+ "date": "2026-11-13",
+ "titre": "Neuropathie périphérique et auto-anticorps dans le lupus avec néphrite",
+ "question": "La neuropathie périphérique est-elle fréquente chez les femmes ayant un lupus avec néphrite, et est-elle liée à certains auto-anticorps ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune multisystémique, et la néphrite lupique, qui touche jusqu'à 60 % des patients, en est une cause majeure de morbidité et de mortalité. La neuropathie périphérique est une manifestation connue du lupus, dont la prévalence rapportée varie de 2 à 28 % selon les séries.\n\nDes liens ont été suggérés avec les anticorps antiphospholipides, le facteur rhumatoïde, les anti-Ro et, de façon discordante, les anticorps anti-gangliosides. Le mécanisme est mal compris : dégénérescence axonale, inflammation et vascularite ont été décrites. Les études de conduction nerveuse classiques explorent surtout les grosses fibres myélinisées, ce qui justifie des tests sensitifs quantitatifs pour les petites fibres. Cette étude cas-témoins de l'université d'Assiut (Égypte) inclura 159 femmes réparties entre néphrite lupique inactive, active et témoins non lupiques. Elle estimera la fréquence de la neuropathie et la performance de biomarqueurs pour la dépister.",
+ "interet": "Elle pourrait aider à identifier les patientes à surveiller sur le plan neurologique. Le design cas-témoins monocentrique limite la portée des conclusions.",
+ "profil": "Des femmes adultes atteintes de lupus avec néphrite, actif ou inactif, et des témoins non lupiques.",
+ "inclusion": [
+  "Femmes âgées de 18 à 80 ans",
+  "Lupus avec néphrite, avec bilan clinique, biologique et biopsie rénale si indiquée",
+  "Dosage des anticorps antiphospholipides IgG/IgM",
+  "Recherche de vascularite (c-ANCA, p-ANCA)",
+  "Maladie rénale chronique de stade I à IV hors dialyse"
+ ],
+ "exclusion": [
+  "Antécédent d'hépatite virale B ou C",
+  "Antécédent de cancer (hors carcinome basocellulaire)",
+  "Traitement par bolus",
+  "Maladie rénale chronique de stade 5 ou hémodialyse",
+  "Lupus sans atteinte rénale"
+ ],
+ "bras": [
+  {
+   "nom": "Néphrite lupique inactive",
+   "traitement": "Observation, sans intervention"
+  },
+  {
+   "nom": "Néphrite lupique active",
+   "traitement": "Observation, sans intervention"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Femmes non lupiques, sans intervention"
+  }
+ ],
+ "duree": "Environ 1 an",
+ "critere": "Fréquence de la neuropathie périphérique, associations avec les auto-anticorps et résultats électrophysiologiques, sur environ 1 an."
+}

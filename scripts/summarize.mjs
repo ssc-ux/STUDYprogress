@@ -15,7 +15,8 @@ const Fiche = z.object({
   exclusion: z.array(z.string()).describe("4 à 7 critères d'exclusion clés, courts"),
   bras: z.array(z.object({ nom: z.string(), traitement: z.string() })).describe("Bras ou groupes de l'étude (1 à 4)"),
   duree: z.string().describe("Durée de participation ou de suivi par patient, ex. « 52 semaines »"),
-  critere: z.string().describe("Critère de jugement principal reformulé simplement, avec son délai")
+  critere: z.string().describe("Critère de jugement principal reformulé simplement, avec son délai"),
+  resultats: z.string().optional().describe("Uniquement si des résultats sont disponibles (champs results ou abstracts de data/s/<id>.json) : 4 à 8 phrases détaillées, en français. Critère principal chiffré par bras (valeurs, différence, IC 95 %, p), principaux critères secondaires s'ils sont publiés, tolérance (événements indésirables graves, décès par bras), conclusion des auteurs. Uniquement les chiffres du registre ou du résumé publié. Sinon, ne pas mettre ce champ.")
 });
 
 const SYSTEM = `Tu rédiges des fiches d'études cliniques pour des internistes français. Ils veulent s'informer en une minute : pourquoi l'étude existe, ce qu'elle teste, sur quelle population. Le site informe, il ne sert pas à orienter des patients.
@@ -35,7 +36,9 @@ const fmt = s => [
   `Résumé : ${s.summary}`, s.desc && `Description : ${s.desc}`,
   `Bras : ${s.arms.map(a => `${a.l} [${a.t}] ${a.d} (${a.i.join(", ")})`).join(" | ")}`,
   `Critère principal : ${s.primary.map(o => `${o.m} (${o.tf})`).join(" | ")}`,
-  `Éligibilité (sexe ${s.sex}, âge ${s.minAge || "?"} à ${s.maxAge || "?"}) :\n${s.elig}`
+  `Éligibilité (sexe ${s.sex}, âge ${s.minAge || "?"} à ${s.maxAge || "?"}) :\n${s.elig}`,
+  s.results && `Résultats déposés au registre (JSON) : ${JSON.stringify(s.results)}`,
+  s.abstracts && `Résumés des publications de résultats :\n${s.abstracts}`
 ].filter(Boolean).join("\n");
 
 let client;

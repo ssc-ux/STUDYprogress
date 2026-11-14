@@ -92,6 +92,28 @@ const OPEN = /RECRUIT|ENROLLING/;
 const key = s => /[34]/.test(s.phase) || s.hasResults || s.pubs.length ? 0 : 2;
 const prio = s => s.fr === "promo" && OPEN.test(s.status) && s.start >= SINCE.replace(/^\d{4}/, y => +y + 1) ? 0
   : (s.fr === "promo" ? 1 : s.fr ? 2 : 3) * 4 + key(s) + (OPEN.test(s.status) ? 0 : 1);
+// Résultats détaillés : critères principaux et tolérance déposés au registre, résumés PubMed des publications de résultats.
+const cut = (t, n) => (t ?? "").length > n ? t.slice(0, n) + "…" : t ?? "";
+async function addResults(s) {
+  if (s.hasResults) {
+    const r = (await get(`${API}/${s.id}?fields=resultsSection`)).resultsSection ?? {};
+    s.results = {
+      primary: (r.outcomeMeasuresModule?.outcomeMeasures ?? []).filter(o => o.type === "PRIMARY").slice(0, 3).map(o => ({
+        t: o.title, tf: o.timeFrame ?? "", u: o.unitOfMeasure ?? "", p: o.paramType ?? "", d: o.dispersionType ?? "",
+        g: (o.groups ?? []).map(g => ({ id: g.id, t: g.title })), n: o.denoms?.[0]?.counts ?? [],
+        m: (o.classes ?? []).slice(0, 4).flatMap(c => (c.categories ?? []).slice(0, 4).map(k => ({ c: [c.title, k.title].filter(Boolean).join(" · "),
+          v: (k.measurements ?? []).map(x => ({ g: x.groupId, v: x.value, s: x.spread ?? "", l: x.lowerLimit ?? "", h: x.upperLimit ?? "" })) }))),
+        a: (o.analyses ?? []).slice(0, 3).map(a => ({ pv: a.pValue ?? "", m: a.statisticalMethod ?? "", pt: a.paramType ?? "", v: a.paramValue ?? "", lo: a.ciLowerLimit ?? "", hi: a.ciUpperLimit ?? "", ci: a.ciPctValue ?? "" }))
+      })),
+      ae: (r.adverseEventsModule?.eventGroups ?? []).map(g => ({ t: g.title, ser: g.seriousNumAffected, die: g.deathsNumAffected, n: g.seriousNumAtRisk }))
+    };
+  }
+  const ids = s.pubs.map(p => p.pmid).filter(Boolean).slice(0, 3);
+  if (ids.length) {
+    const r = await fetch(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${ids.join(",")}&rettype=abstract&retmode=text`);
+    if (r.ok) s.abstracts = cut((await r.text()).trim(), 6000);
+  }
+}
 const hashOf = s => createHash("sha1").update(JSON.stringify([s.title, s.summary, s.elig, s.arms, s.primary])).digest("hex").slice(0, 12);
 
 async function main() {
@@ -113,10 +135,18 @@ async function main() {
   // Fiches en français : réutilise le cache ; une fiche est à (re)faire si l'étude est nouvelle ou son texte a changé.
   await mkdir("data/fr", { recursive: true });
   const studies = [...byId.values()];
+  if (!process.env.OFFLINE) {
+    const withRes = studies.filter(s => s.hasResults || s.pubs.some(p => p.pmid));
+    let i = 0;
+    await Promise.all(Array.from({ length: 2 }, async () => {
+      while (i < withRes.length) { const s = withRes[i++]; try { await addResults(s); } catch (e) { console.warn(`Résultats ${s.id} : ${e.message}`); } }
+    }));
+    console.log(`Résultats détaillés : ${withRes.length} études`);
+  }
   const todo = [];
   for (const s of studies) {
     delete s.x;
-    s.h = hashOf(s);
+    s.h = hashOf(s) + (s.results || s.abstracts ? "r" : ""); // « r » : la fiche est refaite quand des résultats paraissent.
     const c = await readJSON(`data/fr/${s.id}.json`, null);
     if (c) s.x = c;
     if (c?.h !== s.h) todo.push(s);

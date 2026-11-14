@@ -1,7 +1,7 @@
 {
  "h": "a7c003bfa255",
  "date": "2026-11-13",
- "titre": "Acoramidis contre placebo pour prévenir l'amylose chez les porteurs asymptomatiques d'un variant TTR pathogène",
+ "titre": "Acoramidis contre placebo pour prévenir l'amylose chez les porteurs asymptomatiques d'un variant TTR",
  "question": "L'acoramidis retarde-t-il ou empêche-t-il l'apparition d'une amylose à transthyrétine chez des porteurs asymptomatiques d'un variant TTR pathogène ?",
  "contexte": "L'amylose à transthyrétine (ATTR) survient lorsque la TTR, protéine produite par le foie, se dissocie et forme des fibrilles amyloïdes. La forme héréditaire (ATTRv) est due à un variant pathogène du gène TTR, transmis sur un mode autosomique dominant, avec une pénétrance variable. Elle se révèle par une cardiomyopathie, une polyneuropathie ou les deux. Les porteurs sains peuvent être identifiés par un test génétique, souvent dans le cadre d'un dépistage familial.\n\nLes traitements actuels sont débutés après l'apparition de la maladie, à un stade où des lésions d'organe sont déjà présentes. L'acoramidis est un stabilisateur de la TTR, qui a montré un bénéfice dans la cardiomyopathie établie. L'étude ACT-EARLY est une étude de phase 3 randomisée en double aveugle contre placebo, chez des porteurs asymptomatiques. Elle teste si une stabilisation précoce empêche la survenue de la maladie. L'inclusion tient compte de l'âge prédit d'apparition de la maladie (PADO) du variant. Le promoteur est BridgeBio (Eidos Therapeutics).",
  "interet": "L'étude porte sur la prévention primaire de l'amylose chez les porteurs d'un variant TTR, avec une prise en charge aujourd'hui limitée à la surveillance. Elle pourrait changer la conduite à tenir après un dépistage génétique familial.",
@@ -21,8 +21,14 @@
   "Hypersensibilité connue à l'acoramidis"
  ],
  "bras": [
-  {"nom": "Acoramidis", "traitement": "Acoramidis 712 mg (équivalent à 800 mg d'acoramidis HCl) par voie orale, 2 fois par jour"},
-  {"nom": "Placebo", "traitement": "Placebo oral, 2 fois par jour"}
+  {
+   "nom": "Acoramidis",
+   "traitement": "Acoramidis 712 mg (équivalent à 800 mg d'acoramidis HCl) par voie orale, 2 fois par jour"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral, 2 fois par jour"
+  }
  ],
  "duree": "Jusqu'à environ 7 ans ou jusqu'à la clôture de l'étude",
  "critere": "Délai de survenue d'une ATTR (cardiomyopathie ou polyneuropathie, la première survenue, validée par un comité central), jusqu'à environ 7 ans."

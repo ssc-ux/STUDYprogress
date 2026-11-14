@@ -1,0 +1,28 @@
+{
+"h": "7549c021dbf0",
+"date": "2026-11-13",
+"titre": "Cohorte multicentrique américaine des glomérulopathies de l'enfant",
+"question": "Quelle est l'histoire naturelle des glomérulopathies de l'enfant et de l'adolescent, et quels facteurs sont associés à leur évolution ?",
+"contexte": "Les glomérulopathies de l'enfant regroupent des maladies rares et hétérogènes : néphropathie à IgA, vascularite à IgA, glomérulopathie à C3, néphropathie membraneuse, hyalinose segmentaire et focale, syndrome néphrotique à lésions glomérulaires minimes, glomérulonéphrite à ANCA, néphrite lupique, syndrome d'Alport et glomérulonéphrites post-infectieuses. Leur évolution vers l'insuffisance rénale chronique est variable, et les données pédiatriques sont dispersées, souvent extrapolées de l'adulte.\n\nPLUGGED IN est une cohorte mixte rétrospective-prospective, non interventionnelle, promue par le Pediatric Nephrology Research Consortium (PNRC) avec une quarantaine de centres initiaux visés. Elle inclut les enfants diagnostiqués depuis juillet 2023 et les nouveaux cas, avec un suivi jusqu'à 21 ans. Les données (biologie, biopsies, génétique, hospitalisations, qualité de vie) sont recueillies tous les 6 mois. Le recrutement attendu est d'environ 500 enfants par an.\n\nLa cohorte a un second objectif : servir de plateforme pour repérer rapidement les enfants éligibles à des essais cliniques académiques ou industriels. Novartis figure parmi les collaborateurs.",
+"interet": "Cette cohorte pourrait fournir des données d'évolution pédiatriques solides sur des maladies rares et faciliter l'inclusion d'enfants dans de futurs essais. Elle n'évalue aucun traitement.",
+"profil": "Des enfants et adolescents de moins de 18 ans atteints d'une glomérulopathie biopsiée ou diagnostiquée cliniquement, suivis aux États-Unis.",
+"inclusion": [
+"Enfant ou adolescent de moins de 18 ans",
+"Glomérulopathie prouvée par biopsie, ou diagnostic clinique de glomérulopathie",
+"Diagnostic posé depuis juillet 2023 ou nouveau diagnostic",
+"Consentement des parents et assentiment du mineur"
+],
+"exclusion": [
+"Refus ou impossibilité de consentir (ou d'assentiment pour les mineurs)",
+"Maladie rénale chronique terminale (stade 5, DFG < 15 mL/min/1,73 m²)"
+],
+"bras": [
+{ "nom": "Néphropathie à IgA et vascularite à IgA", "traitement": "Cohorte observée, avec biopsie" },
+{ "nom": "Glomérulopathie à C3 et glomérulonéphrite à complexes immuns idiopathique", "traitement": "Cohortes observées, avec biopsie" },
+{ "nom": "Néphropathie membraneuse, hyalinose segmentaire et focale, lésions glomérulaires minimes", "traitement": "Cohortes observées, avec biopsie" },
+{ "nom": "Glomérulonéphrite à ANCA, néphrite lupique, syndrome d'Alport", "traitement": "Cohortes observées, avec biopsie" },
+{ "nom": "Glomérulonéphrite infectieuse ou post-infectieuse, syndrome néphrotique idiopathique", "traitement": "Cohortes observées, avec ou sans biopsie" }
+],
+"duree": "Suivi jusqu'à 21 ans, avec recueil de données tous les 6 mois",
+"critere": "Protéinurie (rapport protéines/créatinine urinaires) et son évolution, évaluée tous les 6 mois, revue aux années 1 et 2"
+}

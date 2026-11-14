@@ -1,0 +1,30 @@
+{
+"h": "87ec8e407c0d",
+"date": "2026-11-13",
+"titre": "CC312 dans les maladies auto-immunes réfractaires : lupus, myosites et sclérodermie systémique",
+"question": "CC312 est-il sûr et tolérable, et quelle est son activité préliminaire chez des adultes atteints de lupus, de myosite inflammatoire ou de sclérodermie systémique réfractaires ?",
+"contexte": "Le lupus systémique, les myopathies inflammatoires idiopathiques et la sclérodermie systémique diffuse sont des maladies auto-immunes sévères, dans lesquelles une partie des patients reste en échec des corticoïdes, des immunosuppresseurs conventionnels et des biothérapies (rituximab, bélimumab, télitacicept). Ces formes réfractaires exposent à des atteintes d'organe cumulatives et à une forte morbidité, avec peu d'options de rattrapage.\n\nCC312 est un produit biologique dont la cible n'est pas précisée dans le registre. L'essai est de phase 1, ouvert, à doses croissantes multiples, sur un seul bras et une cohorte très restreinte (6 patients prévus). Il est conduit à l'initiative d'investigateurs en Chine, avec CytoCares comme promoteur. L'objectif principal est d'établir la sécurité, la tolérance et la pharmacocinétique, avec une première évaluation de l'efficacité dans trois maladies différentes. Aucun résultat n'est disponible à ce stade.",
+"interet": "Il s'agit d'une étude de première administration chez l'humain, sans résultat disponible. Elle ne change pas la pratique, mais elle explore une nouvelle approche biologique pour des patients en impasse thérapeutique dans plusieurs maladies auto-immunes systémiques.",
+"profil": "Des adultes de 18 à 65 ans atteints de lupus systémique, de myosite inflammatoire ou de sclérodermie systémique diffuse, en rechute ou réfractaires à au moins un traitement conventionnel.",
+"inclusion": [
+"Âge de 18 à 65 ans, consentement signé",
+"Lupus : critères EULAR/ACR 2019, SLEDAI-2000 ≥ 7 et au moins une atteinte BILAG A ou deux BILAG B",
+"Myosite : critères EULAR/ACR 2017, auto-anticorps positifs, maladie active malgré corticoïdes et immunosuppresseur",
+"Sclérodermie diffuse : critères 2013, évolution ≤ 5 ans, score de Rodnan modifié entre 15 et 30 avec progression récente",
+"Échec ou rechute après traitements standard (corticoïdes, immunosuppresseurs, biothérapies selon la maladie)",
+"Traitement de fond stable avant l'inclusion ; contraception efficace jusqu'à 6 mois après la dernière dose"
+],
+"exclusion": [
+"Néphrite lupique sévère ou atteinte du système nerveux central récente",
+"Hypertension pulmonaire traitée, crise rénale sclérodermique ou atteinte digestive sévère de la sclérodermie",
+"Greffe d'organe ou de cellules souches, autre maladie auto-immune nécessitant un traitement systémique",
+"CAR-T dans les 6 mois, déplétion B récente, déficit en IgA",
+"Infection active, VIH, hépatite B ou C, syphilis, tuberculose active ou latente",
+"Cancer de moins de 5 ans, grossesse ou allaitement, événement cardiovasculaire récent"
+],
+"bras": [
+{ "nom": "CC312", "traitement": "CC312 (produit biologique), doses croissantes multiples, schéma précis non précisé" }
+],
+"duree": "Suivi de 2 ans",
+"critere": "Toxicités limitantes de dose et événements indésirables (graves ou non) sur 2 ans"
+}

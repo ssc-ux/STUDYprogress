@@ -1,0 +1,14 @@
+{
+"h": "9ab297114bfc",
+"date": "2026-11-13",
+"titre": "Etentamig sous-cutané contre daratumumab-CyBorD dans l'amylose AL nouvellement diagnostiquée",
+"question": "L'etentamig sous-cutané est-il plus efficace et bien toléré par rapport au schéma de référence daratumumab-CyBorD dans l'amylose AL nouvellement diagnostiquée ?",
+"contexte": "L'amylose à chaînes légères (AL) est une maladie rare où des plasmocytes clonaux produisent des chaînes légères mal repliées qui se déposent dans les organes (cœur, rein, foie, nerfs) et entraînent leur défaillance. Le pronostic dépend surtout de l'atteinte cardiaque et de la rapidité de la réponse hématologique.\n\nLe traitement de première ligne repose sur l'association daratumumab, cyclophosphamide, bortezomib et dexamethasone (Dara-CyBorD), qui obtient des réponses hématologiques élevées. Une partie des patients n'obtient pas de réponse complète ou voit l'atteinte d'organe progresser, d'où le besoin de nouvelles options.\n\nL'etentamig est un médicament expérimental administré par injection sous-cutanée, développé par AbbVie dans l'amylose AL récemment diagnostiquée. Cette étude de phase 3 ouverte comporte deux parties : une phase de sécurité où tous reçoivent l'etentamig, puis une partie randomisée comparant l'etentamig à Dara-CyBorD selon l'étiquette locale. Environ 370 patients seront inclus dans environ 130 centres dans le monde. Le registre n'ajoute pas de détail sur le mécanisme du produit.",
+"interet": "Si l'etentamig montre une réponse hématologique complète supérieure et une meilleure survie sans détérioration d'organe, il pourrait proposer une alternative à Dara-CyBorD en première ligne. L'étude précisera aussi son profil de tolérance.",
+"profil": "Des adultes atteints d'amylose AL nouvellement diagnostiquée, non traitée, de stade cardiaque 1 à 3b.",
+"inclusion": ["Amylose confirmée sur biopsie (rouge Congo avec biréfringence verte, ou microscopie électronique) hors moelle osseuse", "Prolifération plasmocytaire monoclonale", "Maladie mesurable (dFLC ≥ 50 mg/L)", "Aucun traitement antérieur de l'amylose", "Au moins un organe atteint selon les critères IMWG", "Stade cardiaque 1, 2 ou 3a (3b en partie randomisée seulement)", "ECOG ≤ 2"],
+"exclusion": ["Allergie ou intolérance connue aux constituants des traitements", "Hépatite B ou C active", "Autre cancer actif dans les 3 ans (avec exceptions)"],
+"bras": [{"nom": "Phase de sécurité : etentamig", "traitement": "Etentamig sous-cutané"}, {"nom": "Partie randomisée : etentamig", "traitement": "Etentamig sous-cutané"}, {"nom": "Dara-CyBorD", "traitement": "Daratumumab, cyclophosphamide, bortezomib et dexamethasone selon l'étiquette locale"}],
+"duree": "Jusqu'à environ 96 mois",
+"critere": "Nombre de participants avec événements indésirables (jusqu'à 96 mois) ; en partie randomisée, taux de réponse hématologique complète et survie sans détérioration d'organe majeure (jusqu'à 60 mois)."
+}

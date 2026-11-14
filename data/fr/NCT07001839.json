@@ -1,0 +1,28 @@
+{
+ "h": "9c5b5e44c823",
+ "date": "2026-11-13",
+ "titre": "QLS4131 en administration unique dans le lupus systémique : étude de phase 1b d'escalade de dose",
+ "question": "Quelles sont la tolérance, la dose maximale tolérée et la dose recommandée de phase 2 de QLS4131 chez des patients lupiques ?",
+ "contexte": "Le lupus systémique reste insuffisamment contrôlé chez une partie des patients malgré les corticoïdes, les antipaludéens, les immunosuppresseurs conventionnels et les biothérapies (bélimumab, anifrolumab). De nouvelles approches ciblant les voies immunitaires impliquées dans la maladie sont développées pour obtenir un meilleur contrôle de l'activité avec moins de corticoïdes.\n\nQLS4131 est une molécule injectable développée par Qilu Pharmaceutical. Sa nature exacte n'est pas précisée dans le registre. Cette étude de phase 1b, ouverte, évalue la tolérance, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'efficacité préliminaire de QLS4131. Elle prévoit environ 108 adultes lupiques actifs, sous traitement de fond stable. Chaque participant reçoit une dose unique, selon un schéma d'escalade avec montée progressive aux doses élevées, décidée par un comité de surveillance de la sécurité.",
+ "interet": "L'étude déterminera la dose maximale tolérée et la dose recommandée de phase 2 de QLS4131. Elle servira de base à des essais d'efficacité plus larges dans le lupus.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif, sous traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Lupus selon les critères EULAR/ACR 2019, diagnostiqué depuis au moins 12 semaines",
+  "ANA ≥ 1:80, ou anti-ADN natif ou anti-Sm positifs",
+  "Maladie active : SLEDAI-2K ≥ 8, ou ≥ 6 avec complément bas ou anti-ADN positifs",
+  "Traitement standard stable : corticoïdes ≤ 40 mg/j de prednisone, antipaludéen, ou un seul immunosuppresseur"
+ ],
+ "exclusion": [
+  "Intolérance ou allergie connue au produit étudié ou à des médicaments pouvant être utilisés (par ex. tocilizumab)",
+  "Autres critères d'exclusion détaillés dans le protocole, non repris dans le registre"
+ ],
+ "bras": [
+  {
+   "nom": "QLS4131",
+   "traitement": "Une seule administration à la dose cible de la cohorte, avec montée progressive aux doses élevées"
+  }
+ ],
+ "duree": "Environ 24 semaines",
+ "critere": "Incidence des événements indésirables apparus sous traitement jusqu'à 24 semaines et dose recommandée de phase 2."
+}

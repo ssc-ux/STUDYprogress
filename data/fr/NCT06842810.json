@@ -1,0 +1,35 @@
+{
+ "h": "3ca73dc4347e",
+ "date": "2026-11-13",
+ "titre": "FGF21 sérique dans le lupus systémique, avec ou sans néphrite lupique, par rapport à des témoins sains",
+ "question": "Le taux sérique de FGF21 est-il différent chez les patients lupiques avec ou sans néphrite et chez des témoins sains ?",
+ "contexte": "Le lupus systémique s'accompagne de perturbations immunitaires et métaboliques, avec une dysfonction mitochondriale des cellules immunitaires. Les reins sont atteints chez 30 à 40 % des patients, sous forme de néphrite lupique, qui reste une cause majeure de morbidité et de mortalité. Des lésions mitochondriales glomérulaires importantes ont été décrites sur les biopsies rénales.\n\nLe FGF21 est une hormone produite surtout par le foie, mais aussi par le rein en situation de stress. Il augmente en cas de stress mitochondrial et est corrélé au degré d'atteinte rénale dans plusieurs néphropathies. Il pourrait donc constituer un biomarqueur circulant de l'activité du lupus et de l'atteinte rénale. Cette étude égyptienne, monocentrique et promue par l'université d'Assiut, compare le FGF21 sérique (dosage ELISA) chez des patients lupiques avec et sans néphrite et chez des témoins sains. Elle prévoit 95 participants.",
+ "interet": "Si le FGF21 est plus élevé en cas de néphrite lupique, il pourrait aider à repérer l'atteinte rénale ou à suivre l'activité de la maladie par une simple prise de sang. L'étude reste exploratoire : elle ne permettra pas de conclure à une utilité clinique sans validation ultérieure.",
+ "profil": "Des adultes atteints de lupus systémique, avec ou sans néphrite lupique, et des témoins sains.",
+ "inclusion": [
+  "Lupus systémique selon les critères de classification EULAR/ACR 2019",
+  "Âge > 18 ans"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "Autres maladies rhumatismales ou syndromes de chevauchement",
+  "Cancer",
+  "Maladie hépatique"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus avec néphrite lupique",
+   "traitement": "Dosage du FGF21 sérique par ELISA"
+  },
+  {
+   "nom": "Lupus sans néphrite",
+   "traitement": "Dosage du FGF21 sérique par ELISA"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Dosage du FGF21 sérique par ELISA"
+  }
+ ],
+ "duree": "2 ans (durée de l'étude)",
+ "critere": "Taux sérique de FGF21 chez les patients lupiques avec et sans néphrite, comparé aux témoins sains."
+}

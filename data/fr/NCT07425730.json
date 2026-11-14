@@ -1,0 +1,23 @@
+{
+ "h": "fb1996f61234",
+ "date": "2026-11-13",
+ "titre": "Dysfonction myocardique précoce pour repérer le lupus pédiatrique sévère et réfractaire",
+ "question": "La dysfonction myocardique détectée par échocardiographie permet-elle d'identifier précocement les enfants atteints de lupus sévère réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène. Malgré les progrès thérapeutiques, une partie des patients garde une activité sévère malgré un traitement optimal : on parle de LES sévère réfractaire. Chez l'enfant, la maladie est souvent plus grave qu'à l'âge adulte, et le risque de dommages cumulés est élevé.\n\nIl n'existe pas de biomarqueur validé pour repérer tôt ces formes réfractaires, en particulier en pédiatrie. Des travaux récents, utilisant le strain longitudinal global (GLS) en échocardiographie, montrent que la dysfonction ventriculaire gauche est fréquente dans le LES et corrélée à la sévérité de la maladie. Cela fait de l'atteinte myocardique précoce un marqueur phénotypique candidat.\n\nCette étude observationnelle monocentrique, promue par l'université Jiao Tong de Shanghai, suit une cohorte d'environ 60 enfants lupiques. Elle cherche à savoir si des mesures échocardiographiques non invasives permettent d'identifier les formes sévères réfractaires.",
+ "interet": "Un marqueur échographique simple et non invasif pourrait aider à repérer tôt les enfants à risque de lupus réfractaire. Cela pourrait conduire à intensifier plus vite le traitement et à adapter la surveillance cardiaque.",
+ "profil": "Des enfants de 7 à 17 ans atteints de lupus systémique, dont la maladie a débuté avant 18 ans.",
+ "inclusion": [
+  "Critères de classification de l'ACR remplis",
+  "Début de la maladie avant l'âge de 18 ans",
+  "Âge de 7 à 17 ans"
+ ],
+ "exclusion": [
+  "Antécédent de tumeur maligne concomitante",
+  "Infection active bactérienne, virale, fongique ou mycobactérienne"
+ ],
+ "bras": [
+  { "nom": "Enfants atteints de LES", "traitement": "Suivi observationnel avec mesures échocardiographiques, sans intervention spécifique" }
+ ],
+ "duree": "6 mois",
+ "critere": "Mesures échocardiographiques (non détaillées dans le registre), évaluées sur 6 mois."
+}

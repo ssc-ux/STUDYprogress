@@ -1,0 +1,25 @@
+{
+ "h": "898cdd706815",
+ "date": "2026-11-13",
+ "titre": "Mépolizumab dans la GEPA : enquête japonaise de pharmacovigilance au long cours",
+ "question": "Quelle est la tolérance et l'efficacité du mépolizumab (Nucala) à long terme chez les patients japonais atteints de GEPA ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (GEPA) est une vascularite rare des petits vaisseaux associée à un asthme et à une éosinophilie. Elle est traitée par corticoïdes et immunosuppresseurs, avec des rechutes fréquentes. Le mépolizumab, anticorps anti-IL-5, a montré son efficacité dans la GEPA dans l'essai MIRRA.\n\nAprès l'autorisation de mise sur le marché au Japon, cette enquête post-commercialisation (Special Drug Use Investigation), promue par GlaxoSmithKline, recueille de façon prospective les données de sécurité et d'efficacité en pratique courante. Elle inclut tous les patients traités par mépolizumab pour une GEPA. Le registre mentionne 4115 participants, chiffre à interpréter avec prudence car la cohorte prévue était d'environ 300 patients. La période d'observation atteint 96 semaines au maximum.",
+ "interet": "Cette étude de pharmacovigilance documente la tolérance et l'efficacité du mépolizumab en dehors des essais, dans une population plus hétérogène. Elle complète les données d'enregistrement.",
+ "profil": "Des patients atteints de GEPA recevant du mépolizumab en pratique courante au Japon.",
+ "inclusion": [
+  "Tout patient traité par mépolizumab pour une GEPA après l'autorisation de l'indication",
+  "Patients déjà traités avant la conclusion du contrat d'étude",
+  "Patients inclus dans l'étude asthme NCT03028480 dont le traitement est passé à la GEPA"
+ ],
+ "exclusion": [
+  "Aucun (non applicable selon le registre)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients GEPA sous mépolizumab",
+   "traitement": "Mépolizumab (Nucala) en injection sous-cutanée en pratique courante"
+  }
+ ],
+ "duree": "Jusqu'à 96 semaines par patient",
+ "critere": "Effets indésirables médicamenteux, réponse selon l'évaluation globale d'efficacité et délai de rechute de GEPA, jusqu'à 96 semaines."
+}

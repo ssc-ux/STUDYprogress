@@ -1,0 +1,26 @@
+{
+ "h": "73aeb882d4f9",
+ "date": "2026-11-13",
+ "titre": "Daratumumab, ixazomib et dexaméthasone dans l'amylose AL : étude de phase 1 de recherche de dose",
+ "question": "L'association daratumumab, ixazomib et dexaméthasone est-elle sûre dans l'amylose AL, et quelle dose recommander pour la phase 2 ?",
+ "contexte": "L'amylose AL est due à une prolifération plasmocytaire clonale qui produit des chaînes légères libres amyloïdogènes. Ces dépôts atteignent le cœur, les reins et d'autres organes. Le traitement vise à éradiquer le clone plasmocytaire, avec des schémas empruntés au myélome.\n\nLe daratumumab, anticorps anti-CD38, est devenu un pilier du traitement de première ligne, en association à la cyclophosphamide, au bortézomib et à la dexaméthasone. L'ixazomib est un inhibiteur du protéasome oral, qui a montré une activité dans l'amylose AL en rechute. L'association des deux, avec la dexaméthasone, n'a pas encore de dose établie dans cette maladie.\n\nCette étude de phase 1, monocentrique à bras unique, est menée au MD Anderson avec un soutien de Janssen et Takeda. Elle inclut des patients atteints d'amylose AL nouvellement diagnostiquée ou en rechute ou réfractaire, avec une maladie mesurable. Le daratumumab est administré par voie IV et l'ixazomib par voie orale, en cycles de 28 jours jusqu'à 12 cycles.",
+ "interet": "L'étude pourrait établir une dose recommandée pour une combinaison entièrement sans cyclophosphamide, avec un inhibiteur du protéasome oral. Cette option serait utile aux patients fragiles ou en rechute, et ouvrirait la voie à une phase 2.",
+ "profil": "Des adultes atteints d'amylose AL systémique, nouvellement diagnostiquée ou en rechute ou réfractaire, avec une maladie mesurable.",
+ "inclusion": [
+  "Amylose AL prouvée sur tissu (rouge Congo avec biréfringence verte) et clone plasmocytaire",
+  "Amylose AL nouvellement diagnostiquée sans traitement dirigé contre les plasmocytes, ou en rechute ou réfractaire",
+  "Maladie mesurable : protéine monoclonale sérique ou urinaire, dFLC ≥ 50 mg/L",
+  "Si autogreffe antérieure : au moins 3 mois écoulés",
+  "Âge ≥ 18 ans",
+  "Consentement écrit",
+  "Mesures contraceptives pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Critères d'exclusion non détaillés dans l'extrait du registre : non précisé"
+ ],
+ "bras": [
+  { "nom": "Traitement (daratumumab, ixazomib, dexaméthasone)", "traitement": "Daratumumab IV aux jours 1, 8, 15 et 22 des cycles 1-2, aux jours 1 et 15 des cycles 3-6, puis au jour 1 des cycles 7-12 ; ixazomib oral aux jours 1, 8 et 15 ; dexaméthasone IV ou orale aux jours 1, 8, 15 et 22 ; cycles de 28 jours, jusqu'à 12 cycles" }
+ ],
+ "duree": "Jusqu'à 12 cycles de 28 jours, suivi jusqu'à 24 mois",
+ "critere": "Taux de toxicité limitant la dose (jusqu'à 28 jours) et dose recommandée pour la phase 2 (jusqu'à 24 mois)"
+}

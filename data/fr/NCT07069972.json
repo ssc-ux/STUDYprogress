@@ -1,0 +1,32 @@
+{
+"h": "9411839b2aea",
+"date": "2026-11-13",
+"titre": "Télitacicept versus bélimumab dans le lupus systémique : cohorte multicentrique prospective",
+"question": "Chez des patients lupiques en échec des traitements conventionnels, le télitacicept et le bélimumab ont-ils une efficacité et une tolérance comparables ?",
+"contexte": "Le lupus systémique reste une maladie difficile à contrôler : malgré les corticoïdes, l'hydroxychloroquine et les immunosuppresseurs, une part des patients rechute ou garde une maladie active. Le bélimumab, anti-BAFF, est un traitement additionnel établi dans le lupus et la néphrite lupique. Le télitacicept est une protéine de fusion bloquant à la fois BAFF et APRIL, développée en Chine, qui a montré une activité dans le lupus dans des essais contre placebo.\n\nIl n'existe pas à notre connaissance de comparaison directe de ces deux molécules en pratique réelle. Cette étude observationnelle chinoise multicentrique, promue par Yipeng Liu (hôpital Renmin de l'université de Wuhan), suivra 180 patients de 18 à 65 ans. Le choix du traitement n'est pas randomisé : il est décidé entre médecin et patient, ce qui expose à des biais de confusion. Deux niveaux d'analyse sont prévus, la population lupique globale et le sous-groupe avec néphrite lupique.",
+"interet": "Les résultats pourraient éclairer le choix entre deux inhibiteurs de la voie BAFF dans le lupus actif réfractaire. En l'absence de randomisation, ils resteront des données d'association et non de causalité.",
+"profil": "Des adultes de 18 à 65 ans atteints de lupus systémique actif, en échec ou intolérants aux corticoïdes ou immunosuppresseurs, avec ou sans néphrite lupique.",
+"inclusion": [
+"Âge de 18 à 65 ans",
+"Lupus selon les critères ACR 1997 ou EULAR/ACR 2019",
+"SELENA-SLEDAI ≥ 8, dont au moins 6 points cliniques (hors anti-ADN natif et complément)",
+"Réponse insuffisante, intolérance ou rechute sous corticoïdes et/ou immunosuppresseurs",
+"Accepte de recevoir le télitacicept ou le bélimumab"
+],
+"exclusion": [
+"Atteinte active du système nerveux central ou néphrite lupique sévère active",
+"Infection par le VIH, hépatite B ou C, hypogammaglobulinémie, atteinte hépatique",
+"DFG < 30 mL/min/1,73 m², hémodialyse ou greffe rénale",
+"Grossesse, projet de grossesse proche ou allaitement",
+"Participation à une autre étude, traitement ciblant les lymphocytes B (dont bélimumab) dans l'année précédente",
+"Médecine traditionnelle chinoise à effet immunosuppresseur associée"
+],
+"bras": [
+{ "nom": "Télitacicept, lupus global", "traitement": "Télitacicept en ajout au traitement de fond, choisi par patient et médecin (posologie non précisée)" },
+{ "nom": "Bélimumab, lupus global", "traitement": "Bélimumab en ajout au traitement de fond, choisi par patient et médecin (posologie non précisée)" },
+{ "nom": "Télitacicept, néphrite lupique", "traitement": "Sous-groupe avec néphrite lupique recevant le télitacicept" },
+{ "nom": "Bélimumab, néphrite lupique", "traitement": "Sous-groupe avec néphrite lupique recevant le bélimumab" }
+],
+"duree": "2 ans de traitement et de suivi",
+"critere": "Taux de réponse SRI-4 dans le lupus global, et taux de réponse rénale majeure dans la néphrite lupique, sur 2 ans"
+}

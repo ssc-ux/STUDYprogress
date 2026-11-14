@@ -1,0 +1,14 @@
+{
+"h": "6476af7f590e",
+"date": "2026-11-13",
+"titre": "Association tofacitinib et acitrétine contre acitrétine seule dans l'amylose cutanée primitive",
+"question": "L'ajout du tofacitinib à l'acitrétine soulage-t-il le prurit de l'amylose cutanée primitive plus vite et plus fortement que l'acitrétine seule ?",
+"contexte": "L'amylose cutanée primitive (formes maculeuse et lichénoïde) est une dermatose localisée due au dépôt de substance amyloïde dans le derme, sans atteinte systémique. Son symptôme dominant est un prurit intense, qui perturbe le sommeil et la qualité de vie. Les traitements (dermocorticoïdes, rétinoïdes oraux comme l'acitrétine, photothérapie) sont d'efficacité inconstante et les rechutes sont fréquentes.\n\nLe tofacitinib est un inhibiteur de JAK utilisé dans plusieurs maladies inflammatoires. Un rôle de la voie JAK-STAT dans le prurit chronique est évoqué, ce qui justifie de le tester ici en association. Le résumé du registre le désigne par erreur comme « tocilizumab », mais les bras décrivent bien le tofacitinib.\n\nCet essai de l'Army Medical University (Chine) est de phase 4, randomisé en quadruple aveugle. Environ 56 adultes reçoivent pendant 16 semaines soit l'acitrétine 10 mg deux fois par jour avec le tofacitinib 5 mg deux fois par jour, soit l'acitrétine seule. Les rechutes sont suivies 4, 12 et 24 semaines après l'arrêt. Le registre contient des critères d'éligibilité qui évoquent une analyse de dossiers, ce qui rend le schéma exact peu clair.",
+"interet": "L'étude pourrait fournir une première piste thérapeutique dans une maladie sans traitement codifié. Elle documentera aussi la tolérance de l'association.",
+"profil": "Des adultes atteints d'amylose cutanée primitive (maculeuse ou lichénoïde) avec prurit.",
+"inclusion": ["Âge ≥ 18 ans", "Absence d'infection comme l'hépatite B ou la tuberculose, et de maladie sous-jacente majeure", "Diagnostic d'amylose cutanée primitive, maculeuse ou lichénoïde", "Au moins 4 consultations pour l'amylose cutanée", "Dossier médical complet (caractéristiques initiales, doses, efficacité, effets indésirables)"],
+"exclusion": ["Amylose nodulaire ou associée à une autre amylose (par exemple systémique)", "Autres immunosuppresseurs (corticoïdes, méthotrexate) ou biothérapies pendant l'étude", "Dossier incomplet ou traitement irrégulier"],
+"bras": [{"nom": "Groupe expérimental", "traitement": "Acitrétine 10 mg deux fois par jour avec tofacitinib 5 mg deux fois par jour, pendant 16 semaines"}, {"nom": "Groupe témoin", "traitement": "Acitrétine 10 mg deux fois par jour, pendant 16 semaines"}],
+"duree": "16 semaines de traitement, puis suivi jusqu'à 24 semaines après l'arrêt",
+"critere": "Score de prurit sur échelle visuelle analogique (EVA), évalué aux semaines 0, 4, 8, 12 et 16."
+}

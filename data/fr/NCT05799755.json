@@ -1,0 +1,32 @@
+{
+ "h": "95a07d678fc1",
+ "date": "2026-11-13",
+ "titre": "Nintédanib dans la pneumopathie interstitielle associée aux myosites",
+ "question": "Le nintédanib améliore-t-il la dyspnée des patients ayant une pneumopathie interstitielle fibrosante associée à une myosite ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est une complication fréquente et grave des myosites inflammatoires, notamment en cas d'anticorps anti-synthétase ou anti-MDA5. Elle est une cause majeure de morbidité et de mortalité. Le traitement repose sur les corticoïdes et les immunosuppresseurs, mais certaines formes évoluent vers une fibrose progressive malgré ce traitement.\n\nLe nintédanib, inhibiteur de tyrosine kinases antifibrosant, est validé dans la fibrose pulmonaire idiopathique, dans la PID de la sclérodermie et dans les fibroses pulmonaires progressives. Les données spécifiques aux myosites restent limitées. Cet essai de phase 4 (MINT), randomisé contre placebo, évalue le nintédanib 150 mg deux fois par jour en plus du traitement immunosuppresseur habituel. Il inclut une partie des patients à distance par télémédecine, avec spirométrie à domicile et infirmiers à domicile. Le promoteur est un investigateur académique américain, le Dr Rohit Aggarwal. Le critère principal est un score de dyspnée rapporté par le patient.",
+ "interet": "L'étude pourrait documenter l'intérêt d'un antifibrosant dans les PID de myosite, sur un critère centré sur le patient. Elle illustre aussi la faisabilité d'essais décentralisés dans une maladie rare.",
+ "profil": "Des adultes ayant une myosite et une pneumopathie interstitielle fibrosante progressive.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, résidant aux États-Unis",
+  "Myosite clinique ou anticorps spécifiques ou associés aux myosites",
+  "PID fibrosante sur TDM thoracique haute résolution datant de moins de 12 mois",
+  "PID progressive dans les 24 mois (baisse de CVF ou aggravation de la dyspnée)",
+  "Spirométrie à domicile valide et reproductible",
+  "Contraception efficace pour les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre (critères d'exclusion non détaillés ici)"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo puis nintédanib",
+   "traitement": "Placebo deux fois par jour pendant 12 semaines, puis nintédanib 150 mg deux fois par jour en ouvert pendant 12 semaines, avec immunosuppresseurs habituels"
+  },
+  {
+   "nom": "Nintédanib",
+   "traitement": "Nintédanib 150 mg deux fois par jour pendant 12 semaines, puis 12 semaines supplémentaires en ouvert, avec immunosuppresseurs habituels"
+  }
+ ],
+ "duree": "24 semaines (12 semaines contrôlées puis 12 semaines en ouvert)",
+ "critere": "Variation du score de dyspnée du questionnaire L-PF entre l'inclusion et la semaine 12."
+}

@@ -1,0 +1,42 @@
+{
+ "h": "76f8489994e0",
+ "date": "2026-11-13",
+ "titre": "ALLO-329, CAR-T allogénique anti-CD19/CD70, dans le lupus, les myopathies et la sclérodermie",
+ "question": "ALLO-329 est-il sûr et actif chez des adultes atteints de lupus, de myopathie inflammatoire ou de sclérodermie systémique ?",
+ "contexte": "Le lupus systémique (avec ou sans néphrite), les myopathies inflammatoires idiopathiques et la sclérodermie systémique sont des maladies auto-immunes sévères dont une part des patients reste active malgré les immunosuppresseurs. Les CAR-T autologues anti-CD19 ont montré des rémissions profondes dans de petites séries, mais leur fabrication individuelle est longue, coûteuse et peu accessible.\n\nALLO-329 est un produit CAR-T allogénique « prêt à l'emploi » ciblant à la fois CD19 et CD70. CD19 permet la déplétion des lymphocytes B ; CD70 vise des lymphocytes T activés, ce qui pourrait réduire le besoin de lymphodéplétion intensive. Cette étude de phase 1 chez l'homme, promue par Allogene Therapeutics, est non randomisée et en ouvert (66 patients prévus). Elle compare trois schémas : sans lymphodéplétion, avec cyclophosphamide seul, ou avec cyclophosphamide et fludarabine, afin de déterminer le schéma recommandé pour la phase 2.",
+ "interet": "Un CAR-T allogénique disponible d'emblée, avec une lymphodéplétion allégée ou absente, pourrait élargir l'accès à la thérapie cellulaire dans les maladies auto-immunes. Il s'agit d'une première étude chez l'homme : seule la tolérance et une activité préliminaire seront documentées.",
+ "profil": "Des adultes de 18 à moins de 75 ans atteints de lupus, de myopathie inflammatoire ou de sclérodermie systémique actifs malgré un traitement standard.",
+ "inclusion": [
+  "Âge de 18 à moins de 75 ans",
+  "Fonctions hématologique, hépatique, cardiaque et pulmonaire adéquates",
+  "Maladie active (lupus, myopathie inflammatoire ou sclérodermie) selon les critères de classification",
+  "Activité persistante malgré au moins un immunosuppresseur pendant ≥ 3 mois",
+  "Test de grossesse négatif et contraception efficace (12 mois chez la femme, 6 mois chez l'homme)",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Infection systémique active ou infection chronique ou récurrente significative",
+  "Cancer actif dans les 5 ans (hors cancers cutanés localisés, carcinome in situ, prostate à faible risque)",
+  "Traitement antérieur anti-CD19 ou anti-CD70, ou toute thérapie cellulaire modifiée (CAR-T)",
+  "Maladie chronique ou aiguë instable ou non contrôlée",
+  "Maladie cardiaque ou vasculaire symptomatique dans les 6 mois",
+  "Cirrhose Child-Pugh B ou C",
+  "Atteinte pulmonaire symptomatique, épanchement pleural ≥ grade 2 ou embolie pulmonaire récente sous anticoagulant"
+ ],
+ "bras": [
+  {
+   "nom": "ALLO-329 + cyclophosphamide",
+   "traitement": "ALLO-329 après lymphodéplétion par cyclophosphamide"
+  },
+  {
+   "nom": "ALLO-329 seul",
+   "traitement": "ALLO-329 sans lymphodéplétion"
+  },
+  {
+   "nom": "ALLO-329 + cyclophosphamide + fludarabine",
+   "traitement": "ALLO-329 après lymphodéplétion par cyclophosphamide et fludarabine"
+  }
+ ],
+ "duree": "Suivi jusqu'à 60 mois",
+ "critere": "Incidence des toxicités dose-limitantes et autres paramètres de sécurité, jusqu'à 60 mois."
+}

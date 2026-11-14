@@ -1,0 +1,29 @@
+{
+ "h": "1fccd86d030a",
+ "date": "2026-11-13",
+ "titre": "Cellules YTS109 chez l'enfant atteint de maladie auto-immune réfractaire ou en rechute",
+ "question": "La thérapie cellulaire YTS109, dirigée contre les cellules CD19+, est-elle sûre et préliminairement efficace chez l'enfant atteint de maladie auto-immune réfractaire ?",
+ "contexte": "Chez l'enfant, le lupus, la sclérodermie diffuse, les myopathies inflammatoires, le syndrome de Sjögren, les vascularites associées aux ANCA et le syndrome des antiphospholipides peuvent rester mal contrôlés malgré les traitements disponibles. Ces formes réfractaires entraînent des dommages d'organe cumulés et une toxicité importante des traitements, notamment des corticoïdes et des immunosuppresseurs.\n\nLes lymphocytes B jouent un rôle central dans ces maladies par la production d'auto-anticorps, la présentation d'antigène et la sécrétion de cytokines. Les thérapies cellulaires dirigées contre CD19, dont les CAR-T, sont apparues comme une piste prometteuse chez l'adulte. Les données pédiatriques restent très limitées. Cette étude exploratoire de phase 1, monocentrique (hôpital pédiatrique de l'université Fudan, Chine), évalue une perfusion intraveineuse unique de cellules YTS109 chez environ 12 enfants de 5 à moins de 18 ans, avec une escalade de dose de type 3+3.",
+ "interet": "L'étude fournira les premières données de tolérance et d'efficacité préliminaire d'une thérapie cellulaire anti-CD19 chez l'enfant, dans plusieurs maladies auto-immunes. Elle reste exploratoire et de petite taille.",
+ "profil": "Des enfants de 5 à moins de 18 ans atteints de maladie auto-immune réfractaire ou en rechute (lupus, sclérodermie diffuse, myopathie inflammatoire, Sjögren, vascularite à ANCA, SAPL).",
+ "inclusion": [
+  "Âge de 5 à moins de 18 ans",
+  "Lymphocytes B CD19+ circulants confirmés par cytométrie en flux",
+  "Fonctions médullaire, hépatique, rénale (DFG ≥ 60 mL/min/1,73 m²) et de coagulation adéquates",
+  "Stabilité hémodynamique",
+  "Absence de grossesse et d'allaitement chez les adolescentes",
+  "Consentement du participant et du représentant légal",
+  "Critères spécifiques à chaque maladie (par ex. lupus : critères EULAR/ACR 2019, maladie active)"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre (critères détaillés dans le protocole)"
+ ],
+ "bras": [
+  {
+   "nom": "YTS109",
+   "traitement": "Perfusion intraveineuse unique de cellules YTS109, escalade de dose 3+3 à partir de 0,75 × 10^6 cellules/kg"
+  }
+ ],
+ "duree": "12 semaines de suivi pour le critère principal",
+ "critere": "Fréquence et gravité des événements indésirables, et réponse clinique propre à chaque maladie à 12 semaines."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "ad26614b2391",
+ "date": "2026-11-13",
+ "titre": "Obexélimab sous-cutané dans le lupus systémique actif (SunStone)",
+ "question": "L'obexélimab est-il plus efficace qu'un placebo chez des patients atteints de lupus systémique actif ?",
+ "contexte": "Malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies disponibles, de nombreux patients atteints de lupus systémique gardent une maladie active. Les lymphocytes B jouent un rôle central dans la physiopathologie de la maladie.\n\nL'obexélimab est un anticorps bifonctionnel qui lie CD19 et le récepteur FcγRIIb. Il inhibe ainsi les lymphocytes B sans les déplétier. Cette approche diffère des anti-CD20 et des anti-BAFF.\n\nSunStone est une étude de phase 2 randomisée en double aveugle contre placebo, promue par Zenas BioPharma. Elle inclut environ 190 adultes ayant un lupus actif sous traitement de fond non biologique. Ils reçoivent une injection sous-cutanée hebdomadaire d'obexélimab ou de placebo pendant 24 semaines, suivie de 12 semaines de suivi.",
+ "interet": "Si l'efficacité est confirmée, l'obexélimab pourrait offrir une option sous-cutanée en ajout au traitement de fond, avec un mécanisme différent des biothérapies actuelles.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif malgré un traitement de fond.",
+ "inclusion": [
+  "Âge 18 à 70 ans, lupus diagnostiqué depuis au moins 24 semaines (critères EULAR/ACR 2019)",
+  "hSLEDAI ≥ 6 dont clinique ≥ 4",
+  "BILAG-2004 A ou B dans au moins un organe",
+  "Traitement de fond non biologique (corticoïdes, antipaludéen ou immunosuppresseur)"
+ ],
+ "exclusion": [
+  "Néphrite lupique active nécessitant un traitement non permis",
+  "Thrombose ou embolie récente (6 mois, ou 12 mois si SAPL)",
+  "Maladie cutanée autre que le lupus cutané gênant l'évaluation",
+  "Atteinte neuropsychiatrique ou du système nerveux central sévère et active",
+  "Autre maladie inflammatoire (PR, rhumatisme psoriasique, spondyloarthrite, sclérodermie, dermatomyosite)"
+ ],
+ "bras": [
+  {
+   "nom": "Obexélimab",
+   "traitement": "Injection sous-cutanée hebdomadaire pendant 24 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Injection sous-cutanée hebdomadaire pendant 24 semaines"
+  }
+ ],
+ "duree": "24 semaines de traitement puis 12 semaines de suivi",
+ "critere": "Critère principal non détaillé dans le registre, évalué à 24 semaines"
+}

@@ -212,18 +212,6 @@ details summary{cursor:pointer;color:var(--acc);font-weight:500;font-size:.9rem}
 .btn:hover{border-color:var(--acc)}
 .btn[aria-pressed=true]{background:var(--accb);border-color:var(--acc);color:var(--acc)}
 .btn.full{display:block;margin-top:12px}
-.side dl.gl,.gl{display:block;margin:0;font-size:.84rem}
-.gl dt{font-weight:600;margin-top:10px}
-.gl dt:first-child{margin-top:0}
-.gl dd{margin:2px 0 0;color:var(--muted)}
-/* Repères */
-.guide{max-width:74ch}
-.guide h2{font-size:1.08rem;font-weight:600;margin:30px 0 8px}
-.guide p,.guide li{color:var(--fg)}
-.guide ul{padding-left:20px}
-.guide li{margin:6px 0}
-.guide .gl{font-size:.93rem}
-.guide .gl dt{margin-top:14px}
 footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:.8rem;line-height:1.6}
 footer a{color:var(--muted)}
 </style>
@@ -236,7 +224,6 @@ footer a{color:var(--muted)}
     <a href="#/etudes" data-tab="etudes">Études</a>
     <a href="#/maladies" data-tab="maladies">Maladies</a>
     <a href="#/etudes?st=res&so=fin" data-tab="res">Résultats</a>
-    <a href="#/reperes" data-tab="reperes">Repères</a>
   </nav>
   <a class="favlink" href="#/etudes?fav=1" title="Mes études suivies"><i>★</i><span id="favN">0</span><span class="sr"> suivies</span></a>
 </div></header>
@@ -266,24 +253,6 @@ footer a{color:var(--muted)}
   <div id="vDis" hidden></div>
   <div id="vStudy" hidden></div>
 
-  <div id="vAbout" hidden class="guide">
-    <h1 class="pt">Repères</h1>
-    <p>STUDYprogress suit la recherche clinique en médecine interne : ce qui démarre, ce qui est en cours, ce qui se termine. Chaque étude est résumée pour être comprise en une minute : la question posée, le schéma, l'intérêt pour la pratique. Le site informe sur la recherche ; il ne sert pas à orienter des patients.</p>
-    <h2>Lire une ligne d'étude</h2>
-    <ul>
-      <li><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span> <b>Promotion française</b> : promoteur ou coordination française (CHU, AP-HP, Inserm, groupes coopérateurs…). <span class="badge b-fr">3 centres FR</span> : étude étrangère avec des centres en France.</li>
-      <li><span class="st st-soon">À venir</span> pas encore ouverte · <span class="st st-rec">Inclusions</span> recrute · <span class="st st-fol">Suivi</span> inclusions closes, patients suivis · <span class="st">Terminée</span> · <span class="st st-res">Résultats</span> résultats déposés ou publiés · <span class="st st-stop">Arrêtée</span> interrompue avant son terme.</li>
-      <li><span class="badge b-new">Nouveau</span> apparue sur le site ou statut modifié depuis moins de 30 jours. <span class="badge b-en">EN</span> fiche en français pas encore rédigée : le texte vient du registre, en anglais.</li>
-      <li><b>★</b> suit une étude : elle est gardée dans ce navigateur et remonte sur l'accueil.</li>
-    </ul>
-    <h2>Lire une frise</h2>
-    <p>Chaque fiche a un calendrier : la période d'inclusions et de traitement jusqu'au recueil du critère principal, puis le suivi, avec un trait orange pour aujourd'hui. Les hachures signalent les dates prévues, pas encore atteintes.</p>
-    <h2>Lexique de la recherche clinique</h2>
-    <dl class="gl" id="gloss"></dl>
-    <h2>Sources et limites</h2>
-    <p>Les données viennent de <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a> et sont mises à jour chaque lundi. Les études terminées restent visibles deux ans. Les villes sont celles déclarées au registre ; les communes hospitalières voisines sont rattachées à leur CHU (Créteil ou Bobigny à Paris, Pessac à Bordeaux, Bron à Lyon…).</p>
-    <p>Les fiches en français sont rédigées automatiquement par une IA (Claude) à partir du registre : elles peuvent contenir des erreurs, le registre fait foi. Les études étrangères n'ont pas toutes une fiche ; elles sont rédigées par ordre de priorité, études françaises d'abord.</p>
-  </div>
 </main>
 <footer><div class="wrap">Données <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov</a>, mises à jour le <span id="upd"></span>. Fiches en français générées automatiquement, le registre fait foi. Site d'information destiné aux médecins.</div></footer>
 
@@ -432,44 +401,6 @@ function renderDisease(id) {
     <p style="margin-top:26px"><a class="btnp" href="${L({})}">Voir les ${a.length} études · ${esc(d.fr)}</a></p>`;
 }
 
-// ——— Lexique ———
-const G = {
-  p1: ["Phase 1", "Première administration chez l'humain, sur un petit effectif : tolérance, pharmacocinétique, recherche de dose."],
-  p2: ["Phase 2", "Quelques dizaines à quelques centaines de patients : premiers signaux d'efficacité, choix de la dose, tolérance à court terme."],
-  p3: ["Phase 3", "Essai comparatif de grande taille, le plus souvent randomisé, contre placebo ou traitement de référence. C'est lui qui fonde l'AMM et les recommandations."],
-  p4: ["Phase 4", "Après la mise sur le marché : tolérance à long terme et efficacité en conditions réelles de prescription."],
-  rnd: ["Randomisation", "Le traitement est attribué par tirage au sort. Les groupes sont ainsi comparables, y compris sur les facteurs non mesurés : c'est le schéma qui permet de conclure à un lien de causalité."],
-  dbl: ["Double aveugle", "Ni le patient ni l'investigateur ne savent quel traitement est reçu. Cela limite les biais de suivi et d'évaluation, surtout quand le critère est subjectif."],
-  open: ["Essai ouvert", "Patient et médecin connaissent le traitement reçu. Acceptable si le critère est objectif (décès, biologie), plus fragile s'il repose sur un score clinique ou un ressenti."],
-  placebo: ["Placebo", "Produit sans principe actif, d'apparence identique au traitement testé. Il mesure l'effet propre de la molécule, au-delà de l'évolution naturelle et de l'effet de la prise en charge."],
-  noninf: ["Non-infériorité", "L'essai cherche à montrer que le nouveau traitement n'est pas moins efficace que la référence, au-delà d'une marge fixée à l'avance. Utile quand il apporte un autre avantage (tolérance, simplicité, coût). La marge choisie est le premier point à critiquer."],
-  cross: ["Essai croisé (cross-over)", "Chaque patient reçoit successivement les traitements comparés et sert de son propre témoin. Adapté aux maladies chroniques stables, avec une période de sevrage entre les séquences."],
-  single: ["Essai à un seul bras", "Tous les patients reçoivent le traitement, sans groupe contrôle. Fréquent en phase précoce et dans les maladies rares ; la comparaison se fait avec des données historiques, ce qui limite la portée des conclusions."],
-  primary: ["Critère de jugement principal", "Le critère sur lequel le nombre de sujets a été calculé : c'est le seul qui permet de conclure. Les critères secondaires sont exploratoires."],
-  composite: ["Critère composite", "Regroupe plusieurs événements (par exemple rechute ou décès) pour gagner en puissance. Vérifier que chaque composante évolue dans le même sens."],
-  surrogate: ["Critère intermédiaire", "Un marqueur biologique ou un score remplace l'événement clinique. Il permet des essais plus courts, mais ne garantit pas un bénéfice pour le patient."],
-  itt: ["Intention de traiter", "Chaque patient est analysé dans le groupe où il a été tiré au sort, quel que soit le traitement réellement reçu. C'est l'analyse qui préserve le bénéfice de la randomisation."],
-  cohort: ["Cohorte", "Un groupe de patients est suivi dans le temps. Elle décrit l'histoire naturelle et les facteurs pronostiques ; elle montre des associations, pas une causalité."],
-  cc: ["Étude cas-témoins", "Compare des malades et des non-malades sur leurs expositions passées. Adaptée aux maladies rares, exposée aux biais de sélection et de mémorisation."],
-  registry: ["Registre", "Recueil prospectif et systématique des patients atteints d'une maladie, sans intervention imposée. Outil de référence dans les maladies rares."],
-  sponsor: ["Promoteur", "La personne morale responsable de l'étude : financement, assurance, obligations réglementaires. Il est académique (CHU, AP-HP, groupe coopérateur) ou industriel. L'investigateur coordonnateur en porte la direction scientifique."]
-};
-const gl = keys => keys.map(k => `<dt>${G[k][0]}</dt><dd>${G[k][1]}</dd>`).join("");
-function glossFor(s) {
-  const txt = norm([s.title, s.off, s.summary, s.x?.question, s.x?.critere].join(" ")), k = [];
-  for (const p of [1, 2, 3, 4]) if (s.phase.includes(p)) k.push("p" + p);
-  if (s.alloc === "RANDOMIZED") k.push("rnd");
-  if (/DOUBLE|TRIPLE|QUADRUPLE/.test(s.mask)) k.push("dbl"); else if (s.mask === "NONE" && s.type === "INTERVENTIONAL") k.push("open");
-  if (/placebo/.test(norm(JSON.stringify(s.arms)) + txt)) k.push("placebo");
-  if (/non.?inferior/.test(txt)) k.push("noninf");
-  if (s.model === "CROSSOVER") k.push("cross");
-  if (s.model === "SINGLE_GROUP") k.push("single");
-  if (s.model === "COHORT") k.push("cohort");
-  if (s.model === "CASE_CONTROL") k.push("cc");
-  if (/regist(ry|re)/.test(txt)) k.push("registry");
-  if (/composite/.test(txt)) k.push("composite");
-  return k.slice(0, 5);
-}
 
 // ——— Fiche étude ———
 const STEPS = ["Annoncée", "Inclusions", "Suivi", "Terminée", "Résultats"];
@@ -517,7 +448,7 @@ async function renderStudy(id) {
   catch { v.innerHTML = `${back}<p>Cette étude n'est plus dans le répertoire (terminée depuis plus de deux ans, ou retirée). <a href="https://clinicaltrials.gov/study/${esc(id)}" target="_blank" rel="noopener">Voir sur ClinicalTrials.gov ↗</a></p>`; return; }
   if (!location.hash.includes(id)) return;
   const x = s.x, L = DATA.find(d => d.id === id) || { ...s, frN: s.frSites.length, res: s.hasResults, phase: s.phase };
-  const cts = L.v || [], on = favs.has(id), g = glossFor(s);
+  const cts = L.v || [], on = favs.has(id);
   const pi = s.officials.find(o => /CHAIR|DIRECTOR/.test(o.r)) || s.officials[0];
   const H = t => `<h2>${t}</h2>`;
   document.title = `${s.acr || s.id} · ${x?.titre || s.title} · STUDYprogress`;
@@ -536,7 +467,7 @@ async function renderStudy(id) {
     <div class="blk" lang="en">${H("Résumé du registre")}${paras(s.summary)}</div>
     <div class="blk" lang="en"><details><summary>Critères d'inclusion et d'exclusion (registre)</summary><div class="raw">${esc(s.elig)}</div></details></div>`}
     <div class="blk">${H("Calendrier")}${calendar(s)}</div>
-    ${s.pubs.length ? `<div class="blk key">${H("Résultats publiés")}<ul>${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul></div>` : s.hasResults ? `<div class="blk key">${H("Résultats")}<p>Des résultats sont déposés au registre. <a href="https://clinicaltrials.gov/study/${s.id}?tab=results" target="_blank" rel="noopener">Les consulter sur ClinicalTrials.gov ↗</a></p></div>` : ""}
+    ${x?.resultats || s.pubs.length || s.hasResults ? `<div class="blk key">${H("Résultats")}${x?.resultats ? paras(x.resultats) : ""}${s.pubs.length ? `<h3>Publications</h3><ul>${s.pubs.map(p => `<li>${p.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.pmid)}/" target="_blank" rel="noopener">${esc(p.cit)}</a>` : esc(p.cit)}</li>`).join("")}</ul>` : ""}${s.hasResults ? `<p><a href="https://clinicaltrials.gov/study/${s.id}?tab=results" target="_blank" rel="noopener">Résultats détaillés sur ClinicalTrials.gov ↗</a></p>` : ""}</div>` : ""}
     ${x ? `<p class="note">Fiche rédigée automatiquement à partir du registre (${fdate(x.date)}) ; le registre fait foi.</p>` : ""}
   </article>
   <aside class="side">
@@ -553,7 +484,6 @@ async function renderStudy(id) {
       <dt>Mise à jour</dt><dd>${fdate(s.upd)}</dd></dl>
       <a class="btn full" href="https://clinicaltrials.gov/study/${s.id}" target="_blank" rel="noopener">Voir le registre ↗</a></div>
     <div class="blk">${H(`Villes françaises · ${cts.length}`)}${cts.length ? `<div class="cities">${cts.map(c => `<span>${esc(c)}</span>`).join("")}</div>` : `<p style="font-size:.86rem;color:var(--muted)">Aucun centre français déclaré.</p>`}</div>
-    ${g.length ? `<div class="blk">${H("Pour lire cette étude")}<dl class="gl">${gl(g)}</dl><p style="margin-top:12px;font-size:.84rem"><a href="#/reperes">Tout le lexique →</a></p></div>` : ""}
   </aside></div>`;
 }
 
@@ -563,19 +493,18 @@ const pos = {};
 const parse = () => { const [path, qs = ""] = location.hash.replace(/^#\/?/, "").split("?"); return { path, q: new URLSearchParams(qs) }; };
 function tabs() {
   const { path, q } = parse();
-  const t = !path ? "home" : path === "etudes" ? (q.get("st") === "res" ? "res" : "etudes") : /^maladie/.test(path) ? "maladies" : path === "reperes" ? "reperes" : "";
+  const t = !path ? "home" : path === "etudes" ? (q.get("st") === "res" ? "res" : "etudes") : /^maladie/.test(path) ? "maladies" : "";
   for (const a of $("tabs").children) a.dataset.tab === t ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current");
 }
 function show(v) {
   prevView = view; view = v;
-  for (const [id, k] of [["vHome", "home"], ["vList", "etudes"], ["vDis", "maladies"], ["vAbout", "reperes"], ["vStudy", "study"]]) $(id).hidden = k !== v;
+  for (const [id, k] of [["vHome", "home"], ["vList", "etudes"], ["vDis", "maladies"], ["vStudy", "study"]]) $(id).hidden = k !== v;
 }
 function route() {
   const { path, q } = parse(), h = location.hash;
   if (/^NCT\d{8}$/.test(path)) { show("study"); renderStudy(path); scrollTo(0, 0); }
   else if (path === "etudes") { show("etudes"); setF(q); prevDis = $("fDis").value; if (h !== lastQS) shown = 50; lastQS = h; renderList(); }
   else if (path === "maladies" || path.startsWith("maladie/")) { show("maladies"); renderDisease(path.split("/")[1]); }
-  else if (path === "reperes" || path === "apropos") { show("reperes"); document.title = "Repères · STUDYprogress"; }
   else { show("home"); renderHome(); document.title = "STUDYprogress · La recherche clinique en médecine interne"; }
   // En revenant d'une fiche, on retrouve la liste là où on l'avait laissée.
   if (view !== "study") scrollTo(0, prevView === "study" && pos[h] || 0);
@@ -613,7 +542,6 @@ fetch("data/studies.json").then(r => r.json()).then(j => {
   for (const s of DATA) { s.v ||= []; s.iv ||= []; s._txt = norm([s.id, s.acr, s.t, s.q, s.p, s.sponsor, s.phase, ...s.iv, ...s.v, ...s.dis.map(d => DIS[d].fr + " " + DIS[d].cat)].join(" ")); }
   $("fDis").innerHTML = `<option value="">Toutes les maladies</option>` + CATS.map(c => `<optgroup label="${esc(c)}"><option value="c:${esc(c)}">${esc(c)} (toutes)</option>${j.diseases.filter(d => d.cat === c).map(d => `<option value="${d.id}">${esc(d.fr)}</option>`).join("")}</optgroup>`).join("");
   $("fVille").innerHTML = `<option value="">Toutes les villes</option>` + cities().map(v => `<option>${esc(v)}</option>`).join("");
-  $("gloss").innerHTML = gl(Object.keys(G));
   $("favN").textContent = favs.size;
   route();
 }).catch(() => { $("vHome").innerHTML = `<p class="empty">Impossible de charger les données. Rechargez la page.</p>`; });

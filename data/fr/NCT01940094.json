@@ -1,0 +1,32 @@
+{
+ "h": "b16bfc4cebae",
+ "date": "2026-11-13",
+ "titre": "Arrêt ou maintien de 5 mg de prednisone en rémission d'une GPA",
+ "question": "Peut-on arrêter totalement la prednisone chez les patients en rémission de GPA, ou faut-il maintenir 5 mg par jour ?",
+ "contexte": "La granulomatose avec polyangéite (GPA) est une vascularite à ANCA qui évolue souvent par rechutes. Après l'induction de la rémission, les corticoïdes sont diminués progressivement, mais la durée optimale de leur maintien reste débattue. Les corticoïdes au long cours sont responsables d'infections, de diabète, d'ostéoporose et de complications cardiovasculaires.\n\nLes recommandations proposent de réduire la prednisone vers 5 mg par jour, sans consensus clair sur l'arrêt complet, car celui-ci pourrait majorer le risque de rechute. TAPIR est un essai multicentrique de phase 3, promu par l'Université de Pennsylvanie, qui randomise 159 patients en rémission, sous 5 à 20 mg de prednisone, vers un maintien à 5 mg par jour ou une décroissance jusqu'à l'arrêt, sur environ 6 mois. L'immunosuppresseur d'entretien éventuel doit être stable.",
+ "interet": "L'étude répond à une question pratique fréquente : peut-on sevrer les corticoïdes en rémission de GPA sans augmenter le risque de rechute ? Les résultats guideront la durée du traitement corticoïde d'entretien.",
+ "profil": "Des adultes atteints de GPA en rémission, sous prednisone de 5 à 20 mg par jour.",
+ "inclusion": [
+  "GPA établie (au moins 2 critères ACR modifiés dont biopsie granulomateuse ou ANCA anti-PR3)",
+  "Maladie active dans les 12 mois, ayant nécessité plus de 20 mg/j de prednisone",
+  "Rémission au moment de l'inclusion",
+  "Prednisone de 5 à 20 mg/j à l'inclusion",
+  "Âge de 18 ans ou plus",
+  "Immunosuppresseur d'entretien éventuel à dose stable depuis 1 mois"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre (critères d'exclusion non détaillés ici)"
+ ],
+ "bras": [
+  {
+   "nom": "Prednisone 5 mg",
+   "traitement": "Prednisone 5 mg par jour pendant environ 6 mois"
+  },
+  {
+   "nom": "Prednisone 0 mg",
+   "traitement": "Décroissance de la prednisone de 5 mg à 0 mg par jour pendant environ 6 mois"
+  }
+ ],
+ "duree": "Environ 6 mois, ou jusqu'à un critère d'arrêt",
+ "critere": "Augmentation de la dose de prednisone pour rechute de la maladie, à 6 mois."
+}

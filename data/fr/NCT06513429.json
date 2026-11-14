@@ -1,0 +1,30 @@
+{
+ "h": "c0e36ab1c0d7",
+ "date": "2026-11-13",
+ "titre": "Cellules CAR-T IM19 dans le lupus systémique réfractaire",
+ "question": "Les cellules CAR-T IM19 sont-elles efficaces et sûres dans le lupus systémique réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) peut rester actif malgré les corticoïdes, les antipaludéens, les immunosuppresseurs (cyclophosphamide, mycophénolate) et les biothérapies comme le bélimumab ou le rituximab. Les formes réfractaires entraînent une morbidité importante liée à l'atteinte d'organe et aux traitements.\n\nLes CAR-T anti-CD19 provoquent une déplétion profonde des lymphocytes B et ont induit des rémissions prolongées dans des séries de lupus réfractaire. Cette étude chinoise, promue par l'hôpital Peking University Third Hospital, est monocentrique, à un seul bras et en ouvert. Elle prévoit d'inclure 6 patients recevant des cellules CAR-T IM19 : trois à 1×10^6 cellules/kg, puis trois à 1×10^8 cellules au total. Le parcours comporte dépistage, collecte de cellules, lymphodéplétion, perfusion et suivi. Les critères secondaires incluent le LLDAS, la réponse rénale à 180 et 360 jours et la persistance des CAR-T.",
+ "interet": "L'étude apportera des données de faisabilité sur un CAR-T anti-CD19 chinois dans le lupus réfractaire. Son très faible effectif limite la portée des conclusions.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique réfractaire, avec un SLEDAI-2K ≥ 10.",
+ "inclusion": [
+  "Lupus systémique selon les critères EULAR/ACR 2019",
+  "Âge de 18 à 65 ans, poids ≥ 40 kg",
+  "Lupus réfractaire malgré corticoïdes, immunosuppresseurs et biothérapies",
+  "Traitement de fond stable (corticoïdes ≤ 30 mg/j de prednisone, antipaludéens, immunosuppresseurs)",
+  "SLEDAI-2K ≥ 10",
+  "Contraception efficace jusqu'au dernier suivi",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Affection jugée incompatible avec l'étude (syndrome des antiphospholipides catastrophique, insuffisance rénale aiguë sévère, atteinte neurologique centrale aiguë sévère)",
+  "Autres critères d'exclusion non détaillés dans le résumé du registre : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe CAR-T IM19",
+   "traitement": "Cellules CAR-T IM19 : 1×10^6/kg pour les patients 1 à 3, 1×10^8 cellules pour les patients 4 à 6"
+  }
+ ],
+ "duree": "Suivi d'au moins 360 jours",
+ "critere": "Variation du SLEDAI-2K à 90 jours et événements indésirables liés aux CAR-T dans les 28 jours suivant la perfusion."
+}

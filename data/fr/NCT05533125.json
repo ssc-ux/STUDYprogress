@@ -1,0 +1,33 @@
+{
+ "h": "662d76cffd86",
+ "date": "2026-11-13",
+ "titre": "Rituximab pour épargner les corticoïdes dans la pseudo-polyarthrite rhizomélique récente",
+ "question": "Une perfusion de rituximab augmente-t-elle la proportion de rémissions sans corticoïdes à 52 semaines dans la PPR récente ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique (PPR) touche surtout les sujets de plus de 50 ans et altère nettement la qualité de vie si elle n'est pas traitée. Les corticoïdes en sont le traitement de référence, mais leur durée prolongée expose à des effets indésirables chez des patients déjà fragiles, d'où l'intérêt d'une stratégie d'épargne cortisonique. Les rechutes à la décroissance sont fréquentes.\n\nUne étude de preuve de concept (Marsman et al., 2021) a comparé le rituximab au placebo dans la PPR récente et rapporté une rémission sans corticoïdes à 21 semaines chez 48 % contre 21 % des patients (p = 0,049). Cet effectif réduit et ce suivi court justifient une confirmation. REDUCE-PMR-1 est un essai de phase 3, randomisé en quadruple aveugle contre placebo, mené par le Sint Maartenskliniek aux Pays-Bas chez 114 patients, avec un suivi plus long pendant la décroissance des corticoïdes.",
+ "interet": "Si l'essai est positif, le rituximab pourrait devenir une option d'épargne cortisonique dans la PPR récente. Les résultats préciseraient aussi la place des biothérapies dans cette maladie.",
+ "profil": "Des adultes de 50 ans ou plus atteints de PPR diagnostiquée depuis moins de 12 semaines.",
+ "inclusion": [
+  "PPR selon les critères de classification EULAR/ACR 2012",
+  "Diagnostic posé depuis moins de 12 semaines",
+  "Corticoïdes depuis moins de 8 semaines, à une dose de 30 mg/j de prednisolone ou moins",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Immunosuppresseur systémique autre que les corticoïdes dans les 3 mois précédents",
+  "Suspicion clinique d'artérite à cellules géantes ou d'autre rhumatisme inflammatoire",
+  "Affection gênant l'évaluation de la douleur ou de la mobilité de la PPR",
+  "Hypersensibilité ou contre-indication au rituximab"
+ ],
+ "bras": [
+  {
+   "nom": "Rituximab",
+   "traitement": "Rituximab 1000 mg par voie intraveineuse, en une perfusion, avec décroissance des corticoïdes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo intraveineux en une perfusion, avec décroissance des corticoïdes"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Différence entre les groupes de la proportion de patients en rémission sans corticoïdes à la semaine 52."
+}

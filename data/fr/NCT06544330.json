@@ -1,0 +1,30 @@
+{
+ "h": "b761184199fb",
+ "date": "2026-11-13",
+ "titre": "CAR-T anti-CD19 avec IL-2 orthogonale, sans chimiothérapie lymphodéplétive, dans le lupus et la sclérodermie sévères",
+ "question": "L'association SYNCAR-001 et STK-009, sans lymphodéplétion préalable, est-elle bien tolérée dans les maladies auto-immunes systémiques réfractaires ?",
+ "contexte": "Le lupus systémique (avec ou sans néphrite) et la sclérodermie systémique sévères peuvent résister aux immunosuppresseurs et aux biothérapies. Les CAR-T anti-CD19 induisent des rémissions chez certains patients lupiques réfractaires. Elles nécessitent cependant une chimiothérapie lymphodéplétive préalable (fludarabine, cyclophosphamide), responsable de toxicités hématologiques, infectieuses et gonadiques.\n\nLe SYNCAR-001 est un CAR-T anti-CD19 qui exprime un récepteur de l'IL-2 bêta modifié (« orthogonal »). Le STK-009 est une IL-2 pégylée modifiée qui n'active que ces cellules. Cette combinaison vise à amplifier et à faire persister les CAR-T sans lymphodéplétion. Cette étude de phase 1 ouverte de Synthekine prévoit environ 48 patients : une perfusion unique de SYNCAR-001, puis des injections sous-cutanées répétées de STK-009. Une escalade 3+3 précède une expansion à la dose recommandée de phase 2.",
+ "interet": "L'étude testera la faisabilité d'une thérapie CAR-T sans chimiothérapie lymphodéplétive. Si elle est concluante, elle pourrait rendre ces traitements moins toxiques et plus accessibles dans les maladies auto-immunes.",
+ "profil": "Des adultes atteints de lupus systémique, de néphrite lupique ou de sclérodermie systémique sévères et réfractaires.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus : critères EULAR/ACR 2019 et anti-ADN natif, anti-Sm ou anti-chromatine positifs",
+  "Lupus : forme sévère active non rénale ou néphrite proliférative active",
+  "Sclérodermie : critères ACR/EULAR, forme cutanée diffuse ou pneumopathie interstitielle significative ou progressive"
+ ],
+ "exclusion": [
+  "Atteinte neurologique centrale auto-immune, actuelle ou passée",
+  "Thérapie cellulaire ou génique antérieure (dont CAR-T anti-CD19)",
+  "Lupus : glomérulonéphrite rapidement progressive, insuffisance rénale terminale sous dialyse ou lésions purement chroniques",
+  "Sclérodermie : CVF < 50 % ou DLCO < 40 % de la théorique",
+  "Sclérodermie : hypertension artérielle pulmonaire sous traitement spécifique"
+ ],
+ "bras": [
+  {
+   "nom": "SYNCAR-001 + STK-009",
+   "traitement": "Dose fixe unique de CAR-T SYNCAR-001 par voie IV, puis doses croissantes (escalade) ou recommandée (expansion) de STK-009 par voie sous-cutanée, sans lymphodéplétion"
+  }
+ ],
+ "duree": "Jusqu'à 96 semaines après la perfusion",
+ "critere": "Toxicités limitant la dose dans les 28 jours suivant la perfusion, et événements indésirables jusqu'à 96 semaines."
+}

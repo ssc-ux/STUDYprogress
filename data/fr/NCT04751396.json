@@ -1,0 +1,27 @@
+{
+"h": "c8c5c1149aae",
+"date": "2026-11-13",
+"titre": "Outil d'information pour les patients atteints de mélanome et de maladie auto-immune candidats aux inhibiteurs de points de contrôle",
+"question": "Un outil éducatif est-il acceptable et utilisable, et réduit-il le conflit décisionnel des patients atteints de mélanome et de maladie auto-immune devant recevoir une immunothérapie ?",
+"contexte": "Les inhibiteurs de points de contrôle immunitaires (anti-PD-1, anti-CTLA-4) ont transformé le pronostic du mélanome, y compris en adjuvant. Les patients ayant une maladie auto-immune préexistante (maladies inflammatoires de l'intestin, polyarthrite rhumatoïde, lupus, psoriasis, spondyloarthrites) ont été largement exclus des essais pivots. Ils sont exposés à un risque de poussée de leur maladie et d'événements immuno-induits, ce qui rend la décision thérapeutique délicate.\n\nLes données disponibles, surtout rétrospectives, suggèrent qu'un traitement reste souvent possible avec une surveillance adaptée, mais l'information donnée aux patients est hétérogène. Cette étude observationnelle du M.D. Anderson Cancer Center, soutenue par le NCI, vise à développer puis tester un outil éducatif pour aider ces patients à décider. Une première partie recueille par entretien l'avis sur la conception et le contenu de l'outil. Une seconde partie, pilote, compare l'information standard à l'outil et mesure la faisabilité du recrutement. Elle inclut aussi des cliniciens.",
+"interet": "L'étude ne teste pas un médicament, mais une aide à la décision partagée dans une situation fréquente et peu documentée en pratique clinique. Elle pourrait déboucher sur un outil utilisable par les oncologues et les internistes prenant en charge ces patients.",
+"profil": "Des adultes atteints de mélanome et d'une maladie auto-immune préexistante, candidats ou déjà traités par inhibiteur de point de contrôle, et des cliniciens prenant en charge ces patients.",
+"inclusion": [
+"Mélanome et maladie auto-immune préexistante (MICI, polyarthrite rhumatoïde, lupus, psoriasis, spondyloarthrite)",
+"Âge de 18 ans ou plus",
+"Immunothérapie par inhibiteur de point de contrôle recommandée ou décision en cours ou déjà prise",
+"Accès à un ordinateur avec internet et à un e-mail, ou au téléphone",
+"Capacité de communiquer en anglais ou en espagnol",
+"Cliniciens : prescrivent des inhibiteurs de points de contrôle et suivent des patients atteints de mélanome au M.D. Anderson"
+],
+"exclusion": [
+"Non précisé"
+],
+"bras": [
+{ "nom": "Partie A (entretien)", "traitement": "Navigation dans l'outil éducatif (30 à 45 min), puis entretien de 45 min sur son contenu et sa facilité d'usage" },
+{ "nom": "Partie B, groupe I (information standard)", "traitement": "Information éducative standard lors de la consultation, questionnaires à l'inclusion, après la consultation et à 3 mois" },
+{ "nom": "Partie B, groupe II (outil éducatif)", "traitement": "Outil éducatif consulté pendant 20 min lors de la consultation, mêmes questionnaires" }
+],
+"duree": "Environ 3 mois par patient pour la partie B",
+"critere": "Score de conflit décisionnel, sur une durée allant jusqu'à 4 ans"
+}

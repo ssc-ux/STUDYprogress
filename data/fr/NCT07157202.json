@@ -1,0 +1,30 @@
+{
+ "h": "0c8f573b9336",
+ "date": "2026-11-13",
+ "titre": "Infection à Helicobacter pylori et activité du lupus systémique en Égypte",
+ "question": "L'infection à H. pylori est-elle associée à l'activité de la maladie chez des patients atteints de lupus systémique ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune multisystémique dont l'évolution est faite de poussées imprévisibles. Les facteurs déclenchants ou aggravants restent mal identifiés, et l'on suspecte depuis longtemps un rôle des infections chroniques.\n\nLa stimulation immunitaire persistante induite par une infection chronique pourrait entretenir l'activité auto-immune, notamment par des anticorps à réactivité croisée. H. pylori, très répandu en Égypte, est l'un des candidats évoqués, mais les données dans le LES sont limitées. Cette étude observationnelle transversale, promue par l'université d'Assiut, inclura des patients suivis dans ses consultations de rhumatologie. L'infection sera recherchée par antigène fécal et l'activité du lupus mesurée par le score SLEDAI-2K. Les analyses porteront sur le lien entre statut infectieux et sévérité de la maladie. L'effectif prévu est de 115 patients.",
+ "interet": "Si un lien est confirmé, la recherche d'H. pylori pourrait être discutée chez les patients lupiques en poussée. L'étude ne peut toutefois pas établir de causalité, vu son caractère transversal.",
+ "profil": "Des adultes atteints de lupus systémique suivis à l'hôpital universitaire d'Assiut (Égypte).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LES confirmé selon les critères ACR ou SLICC",
+  "Consentement écrit",
+  "Absence d'antibiotiques et d'IPP depuis 4 semaines"
+ ],
+ "exclusion": [
+  "Antécédent de chirurgie gastrique ou tumeur digestive connue",
+  "Traitement immunosuppresseur pour une autre pathologie que le LES",
+  "Autre maladie auto-immune associée",
+  "Grossesse ou allaitement",
+  "Infection active autre qu'H. pylori"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques adultes",
+   "traitement": "Observation : entretien, score SLEDAI-2K et recherche d'antigène fécal d'H. pylori, sans intervention"
+  }
+ ],
+ "duree": "Évaluation unique à l'inclusion (étude transversale sur environ 1 an de recrutement)",
+ "critere": "Association entre le statut d'infection à H. pylori et l'activité du lupus, à l'inclusion."
+}

@@ -1,0 +1,36 @@
+{
+ "h": "ed81a38b5448",
+ "date": "2026-11-13",
+ "titre": "Le bélimumab modifie-t-il l'histoire naturelle du lupus ? Cohorte en vie réelle",
+ "question": "Le bélimumab réduit-il la survenue de nouvelles atteintes d'organe majeures (poussées BILAG A) dans le lupus ?",
+ "contexte": "Le bélimumab, anticorps anti-BAFF, est utilisé dans le lupus systémique depuis plus de dix ans. Il réduit l'activité de la maladie et la fréquence des poussées, et limite l'accumulation de dommages. On sait moins s'il prévient l'apparition d'atteintes d'organe majeures nouvelles.\n\nUne analyse post hoc des études BLISS a suggéré une réduction des poussées rénales de novo sous bélimumab (à faible dose), par rapport au traitement standard. Les données de vie réelle sont rares, notamment pour les atteintes neuropsychiatriques sévères (AVC, crises convulsives, troubles cognitifs) et pour les atteintes hématologiques ou cardiopulmonaires sévères.\n\nCette étude de cohorte, rétrospective puis prospective, est promue par la Fondation de recherche biomédicale de l'Académie d'Athènes. Elle compare des patients sous bélimumab à deux groupes sous traitement standard (suivis après et avant la disponibilité du bélimumab en Grèce, en mai 2014). L'analyse repose sur des méthodes de survie, un appariement sur le score de propension ou une pondération, afin de limiter les biais. Environ 684 patients sont prévus.",
+ "interet": "Les résultats pourraient éclairer le choix d'un traitement biologique précoce pour prévenir les atteintes d'organe graves, au-delà du contrôle de l'activité.",
+ "profil": "Des adultes atteints de lupus systémique actif, suivis dans des cohortes grecques.",
+ "inclusion": [
+  "Lupus systémique selon les critères SLICC",
+  "Âge de 18 ans ou plus",
+  "Suivi d'au moins 6 mois",
+  "SLEDAI-2K de 4 ou plus",
+  "Évaluation globale du médecin supérieure à 1 (échelle visuelle analogique)"
+ ],
+ "exclusion": [
+  "Dossier médical incomplet ou variables clés manquantes",
+  "Autre maladie auto-immune associée (hors maladie thyroïdienne)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "Patients traités par bélimumab"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "Traitement standard, suivis après le 1er mai 2014"
+  },
+  {
+   "nom": "Groupe C",
+   "traitement": "Traitement standard, cohorte historique suivie avant le 1er mai 2014"
+  }
+ ],
+ "duree": "Suivi de 1 à 4 ans",
+ "critere": "Survenue d'une poussée BILAG A de novo, de l'inclusion à la fin du suivi (1 à 4 ans)"
+}

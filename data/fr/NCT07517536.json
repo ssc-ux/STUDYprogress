@@ -1,0 +1,28 @@
+{
+ "h": "a4a79e4e96b9",
+ "date": "2026-11-13",
+ "titre": "CAR-T allogénique anti-CD19/CD70 (CHT105) dans la néphrite lupique réfractaire",
+ "question": "Les lymphocytes CAR-T allogéniques anti-CD19/CD70 sont-ils sûrs et efficaces dans la néphrite lupique réfractaire ?",
+ "contexte": "La néphrite lupique est l'atteinte d'organe la plus fréquente et une cause majeure de mortalité du lupus systémique. Une partie des patients reste en échec des traitements conventionnels (corticoïdes, mycophénolate, cyclophosphamide, biothérapies), ce qui laisse un besoin non couvert important.\n\nLes CAR-T anti-CD19 autologues ont donné des rémissions prolongées dans des séries de lupus réfractaire. Leur production à partir des cellules du patient est toutefois longue et coûteuse. Le CHT105 est un produit allogénique issu de lymphocytes T de donneurs sains, doté d'un récepteur chimérique ciblant CD19 et CD70. Il vise les lymphocytes B et les lymphocytes T autoréactifs.\n\nCette étude chinoise de phase précoce, à un seul bras et ouverte, est menée à l'hôpital Drum Tower de Nankin. Les patients reçoivent une lymphodéplétion par fludarabine et cyclophosphamide, puis une perfusion unique de CHT105. Elle porte sur 14 patients, avec pour objectif principal la tolérance.",
+ "interet": "Une CAR-T prête à l'emploi pourrait élargir l'accès à cette stratégie dans les néphrites lupiques graves, si la tolérance et l'efficacité se confirment.",
+ "profil": "Des adultes de 18 à 65 ans atteints de néphrite lupique de classe III ou IV active et réfractaire.",
+ "inclusion": [
+  "Âge 18 à 65 ans, lupus selon les critères ACR 1997 ou EULAR/ACR 2019",
+  "Néphrite lupique de classe III ou IV (± V) prouvée par biopsie de moins d'un an",
+  "Protéinurie ≥ 1 g/g de créatinine ou ≥ 1 g/24 h",
+  "SLEDAI-2K ≥ 6 et au moins un score BILAG A ou deux BILAG B",
+  "Expression de CD19 et CD70 sur les lymphocytes B circulants",
+  "Maladie réfractaire ou rechute malgré un traitement conventionnel"
+ ],
+ "exclusion": [
+  "Non précisé dans le résumé du registre (critères détaillés à consulter sur ClinicalTrials.gov)"
+ ],
+ "bras": [
+  {
+   "nom": "CHT105",
+   "traitement": "Lymphodéplétion par fludarabine et cyclophosphamide, puis perfusion unique de CAR-T anti-CD19/CD70 au jour 0"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Tolérance du CHT105, de l'inclusion à 52 semaines"
+}

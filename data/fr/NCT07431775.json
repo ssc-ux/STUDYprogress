@@ -1,0 +1,31 @@
+{
+ "h": "2679a91caced",
+ "date": "2026-11-13",
+ "titre": "Utilisation de l'anifrolumab chez les femmes en âge de procréer : étude descriptive multinationale",
+ "question": "Quelle est l'incidence et la prévalence de l'utilisation de l'anifrolumab chez les femmes en âge de procréer, et dans quelles conditions est-il utilisé ?",
+ "contexte": "Le lupus systémique touche surtout des femmes jeunes, souvent en âge de procréer. Le choix des traitements y est donc fortement conditionné par le désir de grossesse et la sécurité fœtale. L'anifrolumab, anticorps monoclonal anti-récepteur de l'interféron de type I, est autorisé en traitement additionnel du lupus modéré à sévère depuis 2021 aux États-Unis et 2022 dans l'Union européenne.\n\nLes données sur son utilisation pendant la grossesse sont encore limitées. Cette étude répond à une exigence post-commercialisation de la FDA sur la sécurité de l'anifrolumab pendant la grossesse. Il s'agit d'une étude non interventionnelle, rétrospective et descriptive, fondée sur des bases de données de soins du Danemark, de la France, de l'Allemagne et des États-Unis. Elle décrit l'évolution annuelle de l'incidence et de la prévalence d'utilisation chez les femmes de 15 à 50 ans, puis les caractéristiques, les traitements associés et les grossesses exposées chez les nouvelles utilisatrices. Le promoteur est AstraZeneca.",
+ "interet": "L'étude ne teste aucune intervention mais documente l'usage réel de l'anifrolumab chez les femmes en âge de procréer. Elle quantifiera les grossesses exposées et les schémas de prescription, et préparera ainsi de futures analyses de sécurité en grossesse.",
+ "profil": "Des femmes de 15 à 50 ans identifiées dans des bases de données de santé (Danemark, France, Allemagne, États-Unis), dont celles débutant l'anifrolumab.",
+ "inclusion": [
+  "Femme âgée de 15 à 50 ans à la date index",
+  "Objectifs principaux : présence dans la base de données au moins un jour de l'année civile",
+  "Objectifs secondaires : première prescription d'anifrolumab sur la période d'étude",
+  "Objectifs secondaires : au moins 180 jours d'observabilité préalable",
+  "Objectif 3 : diagnostic de lupus (code CIM-10 M32 hors M32.0) dans les 180 jours précédents"
+ ],
+ "exclusion": [
+  "Utilisation antérieure d'anifrolumab avant la date index (incidence et cohorte secondaire)"
+ ],
+ "bras": [
+  {
+   "nom": "Population des objectifs principaux",
+   "traitement": "Femmes de 15 à 50 ans observables, avec ou sans lupus ; utilisation d'anifrolumab décrite par année"
+  },
+  {
+   "nom": "Population des objectifs secondaires",
+   "traitement": "Femmes de 15 à 50 ans initiant l'anifrolumab, avec au moins 180 jours d'observabilité préalable"
+  }
+ ],
+ "duree": "Analyse rétrospective de données, du lancement commercial jusqu'aux dernières données disponibles",
+ "critere": "Incidence et prévalence annuelles de l'utilisation de l'anifrolumab chez les femmes en âge de procréer."
+}

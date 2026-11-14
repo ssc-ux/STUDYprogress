@@ -1,0 +1,36 @@
+{
+ "h": "db7ce4ae7b28",
+ "date": "2026-11-13",
+ "titre": "Sécukinumab dans l'artérite à cellules géantes récente en rémission",
+ "question": "Le sécukinumab associé à une décroissance des corticoïdes retarde-t-il la première rechute d'une artérite à cellules géantes récente en rémission ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vascularite des grosses artères du sujet de plus de 50 ans, avec un risque de cécité. Le traitement repose sur une corticothérapie prolongée, dont les effets indésirables sont importants, et les rechutes sont fréquentes à la décroissance. Le tocilizumab est une option d'épargne cortisonique, mais d'autres cibles sont étudiées.\n\nL'IL-17A est impliquée dans la physiopathologie de l'ACG, via l'axe IL-23/Th17, selon des données génétiques et tissulaires. Le sécukinumab, anticorps anti-IL-17A déjà utilisé dans le psoriasis, le rhumatisme psoriasique et la spondyloarthrite axiale, est étudié dans cette indication. Un essai de phase 2 de preuve de concept avec 26 semaines de décroissance de la prednisolone l'a précédé. GigAINt est un essai de phase 3 en double aveugle contre placebo, promu par Novartis, chez 151 patients en rémission, éligibles à une corticothérapie seule. Il vise notamment à appuyer les évaluations technologiques de santé en Allemagne.",
+ "interet": "Les résultats pourraient préciser la place d'un anti-IL-17A dans l'ACG récente. Ils pourraient élargir les options d'épargne cortisonique en complément du tocilizumab.",
+ "profil": "Des adultes de 50 ans ou plus atteints d'ACG diagnostiquée depuis moins de 6 semaines et en rémission clinique.",
+ "inclusion": [
+  "Âge de 50 ans ou plus",
+  "ACG nouvellement diagnostiquée (moins de 6 semaines avant l'inclusion)",
+  "Symptômes crâniens, de PPR ou d'ischémie des membres, avec VS ou CRP élevée",
+  "Biopsie d'artère temporale ou imagerie en faveur d'une vascularite",
+  "Rémission clinique à l'inclusion, sans rechute antérieure",
+  "Prednisolone de 20 à 60 mg/j à l'inclusion"
+ ],
+ "exclusion": [
+  "Inéligible à la corticothérapie seule (ostéoporose, diabète, maladie cardiovasculaire, glaucome, intolérance)",
+  "Exposition antérieure au sécukinumab ou à un autre anti-IL-17 ou anti-récepteur de l'IL-17",
+  "Traitement déplétant les cellules (anti-CD20, etc.) ou agent expérimental",
+  "Participation antérieure à un essai dans l'ACG",
+  "Traitement par inhibiteur d'IL-12/IL-23 ou d'IL-1 (liste incomplète dans le registre)"
+ ],
+ "bras": [
+  {
+   "nom": "Sécukinumab",
+   "traitement": "Sécukinumab 300 mg par voie sous-cutanée à l'inclusion, aux semaines 1 à 4, puis toutes les 4 semaines, avec décroissance des corticoïdes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané selon le même schéma, avec décroissance des corticoïdes"
+  }
+ ],
+ "duree": "Non précisé (évaluation du critère principal au moins jusqu'à la semaine 24)",
+ "critere": "Délai entre l'inclusion et la première rechute clinique d'ACG, évalué au moins jusqu'à la semaine 24."
+}

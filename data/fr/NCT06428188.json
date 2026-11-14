@@ -1,0 +1,31 @@
+{
+ "h": "2eb5b6ed6202",
+ "date": "2026-11-13",
+ "titre": "CAR-T séquentiels anti-BCMA/CD19 dans les maladies auto-immunes réfractaires",
+ "question": "Les CAR-T anti-CD19 et/ou anti-BCMA sont-ils sûrs et efficaces dans les maladies auto-immunes en rechute ou réfractaires ?",
+ "contexte": "Les maladies auto-immunes systémiques, comme le lupus, le syndrome de Gougerot-Sjögren, les myopathies inflammatoires ou la sclérodermie, restent parfois en échec malgré les immunosuppresseurs et les biothérapies. Les patients réfractaires ont peu d'options et accumulent des lésions d'organe.\n\nLes CAR-T anti-CD19, développés en hématologie, ont donné des rémissions profondes dans le lupus réfractaire à partir de séries de cas, en éliminant les lymphocytes B. L'ajout d'une cible anti-BCMA viserait en outre les plasmocytes, source d'auto-anticorps à longue durée de vie non atteints par les anti-CD20. Cette étude de phase 1/2 ouverte, à bras unique, évalue des CAR-T anti-BCMA, anti-CD19 ou les deux, administrés de façon séquentielle après lymphodéplétion par fludarabine et cyclophosphamide. Le promoteur est Essen Biotech et 60 patients sont prévus. L'objectif principal est la tolérance, notamment le syndrome de relargage cytokinique, avec une évaluation de l'activité de la maladie et de la persistance des CAR-T.",
+ "interet": "Les résultats alimenteront la réflexion sur la place des CAR-T dans les maladies auto-immunes sévères, dans un éventail large de pathologies. L'étude de phase précoce, sans comparateur, ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 21 à 90 ans atteints d'une maladie auto-immune réfractaire ou en rechute.",
+ "inclusion": [
+  "Survie attendue ≥ 3 mois",
+  "Maladie auto-immune en rechute ou réfractaire (lupus, myopathie, sclérodermie, Sjögren, PR, PTI, CBP…)",
+  "Échec des traitements standard",
+  "Fonction rénale, hépatique et cardiopulmonaire suffisante (créatinine ≤ 1,5 N, SpO2 > 91 %)",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Cancer dans les 5 ans (hors exceptions locales)",
+  "Hépatite B ou C active, VIH ou syphilis positifs",
+  "Cardiopathie sévère (angor instable, infarctus récent, insuffisance cardiaque NYHA ≥ III)",
+  "Maladie systémique instable selon les investigateurs",
+  "Trouble psychiatrique grave"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T CD19/BCMA",
+   "traitement": "Fludarabine IV (J-4 à J-2) et cyclophosphamide IV (J-2), puis perfusion de CAR-T anti-BCMA et/ou anti-CD19 de façon séquentielle"
+  }
+ ],
+ "duree": "Non précisé (toxicité évaluée sur 28 jours)",
+ "critere": "Incidence et sévérité des toxicités limitant la dose dans les 28 jours suivant la perfusion."
+}

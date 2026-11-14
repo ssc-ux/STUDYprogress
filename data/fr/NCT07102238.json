@@ -1,0 +1,26 @@
+{
+ "h": "75e4cfc93a57",
+ "date": "2026-11-13",
+ "titre": "Échographie articulaire et phénotypage de la synoviale dans l'arthrite lupique",
+ "question": "Une échographie musculo-squelettique standardisée, couplée à l'analyse du sang et de la synoviale, permet-elle de mieux caractériser l'atteinte articulaire du lupus et d'identifier des biomarqueurs ?",
+ "contexte": "L'atteinte articulaire (arthralgies, arthrite) est la manifestation la plus fréquente du lupus systémique. Elle altère la qualité de vie et peut entraîner une incapacité. On distingue des formes non érosives (jusqu'à 80 % des cas), érosives dites rhupus (jusqu'à 5 %) et déformantes de type arthropathie de Jaccoud (jusqu'à 15 %). Ces formes se ressemblent au début, ce qui complique le choix du traitement.\n\nL'échographie musculo-squelettique est établie dans les rhumatismes inflammatoires, avec des scores bien définis (OMERACT). Il n'existe pratiquement pas d'approche standardisée dans le lupus, et les mécanismes de l'arthrite lupique restent mal compris.\n\nCette étude prospective monocentrique, menée par la Fondazione Policlinico Gemelli à Rome, inclut des patients lupiques avec arthralgies inflammatoires et un groupe d'autres connectivites. Tous bénéficient d'une échographie standardisée, de prélèvements sanguins et d'une biopsie synoviale échoguidée. Un sous-groupe de 10 patients lupiques a des analyses multi-omiques (ARN-seq en cellule unique, protéomique). Le suivi dure de 6 à 18 mois pour relier les données initiales aux poussées articulaires et systémiques.",
+ "interet": "L'étude pourrait standardiser l'échographie dans l'arthrite lupique et proposer des biomarqueurs sanguins et synoviaux. Ils pourraient aider à prédire le type d'atteinte articulaire, les poussées et la réponse au traitement.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique avec arthralgies inflammatoires, et des patients avec d'autres connectivites.",
+ "inclusion": [
+  "Diagnostic de lupus selon les critères ACR/EULAR 2019",
+  "Âge de 18 à 75 ans",
+  "Arthralgies inflammatoires (symptômes > 6 semaines, dérouillage matinal ≥ 60 minutes, douleurs nocturnes)",
+  "Capacité à donner un consentement éclairé"
+ ],
+ "exclusion": [
+  "Contre-indication à la biopsie synoviale",
+  "Refus de la biopsie synoviale",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  { "nom": "Lupus avec atteinte musculo-squelettique", "traitement": "Échographie articulaire, prélèvements sanguins et biopsie synoviale ; visites à l'inclusion, 3 et 6 mois, puis tous les 6 mois jusqu'à 18 mois" },
+  { "nom": "Autres connectivites avec atteinte musculo-squelettique", "traitement": "Échographie, biopsie synoviale et prélèvements à l'inclusion, traitement selon les recommandations et le rhumatologue" }
+ ],
+ "duree": "6 à 18 mois",
+ "critere": "Prévalence de l'atteinte musculo-squelettique, définie par échographie standardisée, sur 18 mois."
+}

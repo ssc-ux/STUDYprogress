@@ -1,0 +1,26 @@
+{
+ "h": "9b84976be353",
+ "date": "2026-11-13",
+ "titre": "Mépolizumab 300 mg au long cours dans la GEPA en vie réelle européenne",
+ "question": "Le mépolizumab 300 mg toutes les 4 semaines est-il efficace et bien toléré à long terme dans la GEPA en pratique courante européenne ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (GEPA, ex-Churg-Strauss) est une vascularite des petits vaisseaux associée à un asthme et à une hyperéosinophilie. Le traitement classique repose sur les corticoïdes, avec un immunosuppresseur dans les formes sévères. Les rechutes et la dépendance aux corticoïdes sont fréquentes.\n\nL'essai MIRRA a montré l'efficacité du mépolizumab, anticorps anti-IL-5, à la dose de 300 mg toutes les 4 semaines pour obtenir la rémission et réduire les corticoïdes. Une dose de 100 mg a toutefois été utilisée en pratique, et le passage d'une dose à l'autre soulève des questions. Cette étude observationnelle rétrospective, promue par le groupe européen d'étude de la GEPA, collecte les données des dossiers de 299 adultes traités par 300 mg toutes les 4 semaines, avec un suivi jusqu'à 60 mois, y compris après changement de dose.",
+ "interet": "Les résultats pourraient préciser l'efficacité, la tolérance et les stratégies d'ajustement de dose du mépolizumab à long terme hors essai. Ils éclaireront les décisions de poursuite ou de réduction du traitement.",
+ "profil": "Des adultes atteints de GEPA traités par mépolizumab 300 mg toutes les 4 semaines en pratique courante en Europe.",
+ "inclusion": [
+  "Adulte avec GEPA (critères ACR/EULAR 2022 ou critères de MIRRA)",
+  "Mépolizumab 300 mg/4 semaines, d'emblée ou après escalade depuis 100 mg",
+  "Au moins 3 mois de suivi après l'initiation ou le changement de dose",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Suivi inférieur à 3 mois après l'initiation du mépolizumab ou le changement de dose"
+ ],
+ "bras": [
+  {
+   "nom": "Patients GEPA sous mépolizumab 300 mg",
+   "traitement": "Mépolizumab 300 mg toutes les 4 semaines en pratique courante, données rétrospectives, avec analyse après changement de dose le cas échéant"
+  }
+ ],
+ "duree": "Suivi rétrospectif jusqu'à 60 mois",
+ "critere": "Réponse complète ou partielle, fonction respiratoire, rechutes et exacerbations respiratoires, jusqu'à 60 mois."
+}

@@ -1,0 +1,33 @@
+{
+ "h": "1ff8a3898c17",
+ "date": "2026-11-13",
+ "titre": "Formule de médecine chinoise sélectionnée par IA en appoint dans des maladies à médiation immune",
+ "question": "La formule à base de plantes MYTP01, ajoutée au traitement standard, améliore-t-elle la fonction rénale et la protéinurie dans des maladies à médiation immune ?",
+ "contexte": "Les maladies à médiation immune (néphropathie à IgA, greffe rénale, néphrite lupique, vascularites à ANCA, polyarthrite rhumatoïde, syndrome de Sjögren, etc.) partagent des mécanismes d'inflammation et de dérégulation immunitaire. Les traitements immunosuppresseurs sont efficaces mais n'empêchent pas toujours la progression, et leur toxicité limite leur usage prolongé.\n\nLa médecine traditionnelle chinoise est fréquemment utilisée en appoint en Chine dans ces situations, avec des preuves cliniques hétérogènes. MYTP01 est une formule à base de plantes élaborée par des experts cliniques avec l'aide de l'intelligence artificielle. L'hypothèse est qu'elle module des voies immunitaires et inflammatoires communes à plusieurs maladies.\n\nCet essai multicentrique en double aveugle, contrôlé par placebo, est de type « basket ». Environ 160 participants sont répartis en deux cohortes, transplantés rénaux stables et néphropathie à IgA, puis randomisés 1:1 entre MYTP01 et placebo, en plus du traitement habituel. Le promoteur est le Zhejiang Provincial People's Hospital. L'étude explore aussi les lymphocytes T et plusieurs cytokines (IL-2, IL-6, IL-10, TNF-α, TGF-β).",
+ "interet": "L'essai fournira des données préliminaires sur l'efficacité, la tolérance et les effets immunomodulateurs de cette formule. Il testera aussi la faisabilité d'une approche « basket » et d'une conception de formules assistée par IA.",
+ "profil": "Des adultes de 18 à 65 ans, transplantés rénaux stables ou atteints de néphropathie à IgA, sous traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Greffe rénale depuis ≥ 6 mois avec fonction stable, ou néphropathie à IgA prouvée par biopsie (RPU 0,5-3,5 g/j, DFGe ≥ 30 mL/min/1,73 m²)",
+  "Traitement de fond stable depuis ≥ 4 semaines (variation de dose ≤ 20 %)",
+  "Pression artérielle ≤ 140/90 mmHg et glycémie à jeun ≤ 6,1 mmol/L",
+  "Syndrome en médecine chinoise compatible avec la formule",
+  "Contraception efficace chez les femmes, consentement signé"
+ ],
+ "exclusion": [
+  "Rejet aigu dans les 3 mois ou néphropathie à IgA rapidement progressive",
+  "DFGe < 30 mL/min/1,73 m² ou dialyse",
+  "Protéinurie > 3,5 g/j ou syndrome néphrotique",
+  "Infection active (hépatite B/C, tuberculose, opportuniste)",
+  "Changement majeur d'immunosuppresseur, biothérapie ou corticoïdes dans les 4 semaines",
+  "Cancer dans les 5 ans, grossesse ou allaitement, allergie à la formule"
+ ],
+ "bras": [
+  { "nom": "Greffés rénaux + MYTP01", "traitement": "Traitement standard + MYTP01 par voie orale, 2 fois par jour pendant 8 semaines" },
+  { "nom": "Greffés rénaux + placebo", "traitement": "Traitement standard + placebo oral, 2 fois par jour pendant 8 semaines" },
+  { "nom": "Néphropathie à IgA + MYTP01", "traitement": "Traitement standard + MYTP01 par voie orale, 2 fois par jour pendant 8 semaines" },
+  { "nom": "Néphropathie à IgA + placebo", "traitement": "Traitement standard + placebo oral, 2 fois par jour pendant 8 semaines" }
+ ],
+ "duree": "12 semaines (8 semaines de traitement puis suivi)",
+ "critere": "Variation du DFGe, de la protéinurie des 24 heures et du score de syndrome de médecine chinoise, mesurée à l'inclusion puis aux semaines 4, 8 et 12."
+}

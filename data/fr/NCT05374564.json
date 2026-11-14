@@ -1,0 +1,32 @@
+{
+ "h": "bd6a2bfa4092",
+ "date": "2026-11-13",
+ "titre": "TEP cardiaque paramétrique au flutémétamol marqué au fluor 18 pour suivre l'amylose cardiaque à transthyrétine sous tafamidis",
+ "question": "La TEP cardiaque au 18F-flutémétamol reflète-t-elle la sévérité de l'amylose ATTR et son évolution sous tafamidis ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CA), sauvage ou liée à la variante V142I, est une cause croissante d'insuffisance cardiaque du sujet âgé. Le tafamidis, stabilisateur de la transthyrétine, réduit la mortalité et les hospitalisations. On manque cependant de marqueurs d'imagerie quantitatifs pour mesurer la charge amyloïde et son évolution sous traitement.\n\nLe 18F-flutémétamol (Vizamyl) est un traceur TEP autorisé pour estimer la densité des plaques β-amyloïdes cérébrales dans la maladie d'Alzheimer. Cette étude de preuve de concept évalue un usage nouveau : la détection des dépôts amyloïdes cardiaques. Douze patients atteints d'ATTR-CA, diagnostiqués selon les critères consensuels de Gillmore, réalisent une TEP avant le tafamidis puis après 6 mois de traitement. Les paramètres régionaux et globaux de fixation sont comparés au stade clinique et aux données échocardiographiques (épaisseur pariétale, strain, FEVG). Le promoteur est Yale, avec un soutien de Pfizer.",
+ "interet": "Si la fixation du traceur suit la sévérité de la maladie et sa réponse au traitement, la TEP pourrait devenir un outil de suivi quantitatif de l'amylose cardiaque. Elle pourrait aussi servir de critère d'évaluation dans de futurs essais.",
+ "profil": "Des adultes atteints d'amylose cardiaque à transthyrétine, sauvage ou V142I, qui vont débuter le tafamidis.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "ATTR-CA (forme sauvage ou variante V142I) selon les critères de Gillmore",
+  "Début du tafamidis prévu et poursuite pendant l'étude",
+  "Capacité à se conformer aux procédures de l'étude",
+  "Consentement éclairé signé",
+  "Contraception adéquate jusqu'à 30 jours après le flutémétamol"
+ ],
+ "exclusion": [
+  "Amylose AL ou AA",
+  "Antécédent de greffe hépatique ou cardiaque",
+  "Cancer actif ou maladie non amyloïde avec survie attendue < 1 an",
+  "Impossibilité de rester allongé 60 minutes dans la TEP",
+  "Traitement antérieur de l'ATTR ou refus du tafamidis",
+  "Grossesse ou allaitement",
+  "Allergie connue au flutémétamol ou au polysorbate 80",
+  "Risque élevé de mauvaise observance"
+ ],
+ "bras": [
+  { "nom": "18F-flutémétamol (12 patients)", "traitement": "TEP cardiaque au 18F-flutémétamol à l'inclusion et après 6 mois de tafamidis" }
+ ],
+ "duree": "6 mois",
+ "critere": "Association entre la sévérité de la cardiomyopathie ATTR et la fixation cardiaque du 18F-flutémétamol, à 6 mois"
+}
