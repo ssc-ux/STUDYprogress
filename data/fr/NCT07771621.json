@@ -1,0 +1,32 @@
+{
+ "h": "d918565040ac",
+ "date": "2026-11-14",
+ "titre": "TEP au [18F]Fluselenamyl dans l'amylose cardiaque",
+ "question": "La TEP au [18F]Fluselenamyl permet-elle de détecter et de caractériser les dépôts amyloïdes cardiaques ?",
+ "contexte": "L'amylose cardiaque est due au dépôt de protéines mal repliées, le plus souvent la transthyrétine ou des chaînes légères, dans le myocarde. Elle provoque un épaississement ventriculaire, une insuffisance cardiaque, des arythmies et une surmortalité. Le diagnostic associe échographie, IRM cardiaque, dosage des chaînes légères, scintigraphie osseuse et, parfois, biopsie.\n\nLa scintigraphie osseuse est performante pour l'amylose à transthyrétine mais pas pour l'amylose AL, et elle ne quantifie pas bien la charge amyloïde. Les traceurs TEP liant l'amyloïde, développés d'abord pour la maladie d'Alzheimer ou pour l'amylose cardiaque, pourraient mieux la mesurer. Le [18F]Fluselenamyl est un traceur expérimental qui se lie aux fibrilles amyloïdes. Cette étude de phase 1 de la Washington University School of Medicine inclut 50 adultes ayant une amylose cardiaque confirmée ou suspectée. Elle évalue la captation cardiaque du traceur, avec IRM cardiaque et suivi de sécurité.",
+ "interet": "Elle pourrait établir le [18F]Fluselenamyl comme biomarqueur d'imagerie de l'amylose cardiaque, utile au diagnostic, à la quantification de la charge amyloïde et au suivi de la réponse thérapeutique. Elle n'a pas d'impact immédiat sur la pratique.",
+ "profil": "Des adultes ayant une amylose cardiaque confirmée, suspectée ou des marqueurs évocateurs (hypertrophie ventriculaire gauche, insuffisance cardiaque).",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Amylose cardiaque confirmée, suspectée ou marqueurs possibles (HVG, insuffisance cardiaque)",
+  "Accepte la TEP au [18F]-FSA",
+  "Accepte une IRM cardiaque"
+ ],
+ "exclusion": [
+  "Incapacité à consentir sans représentant légal",
+  "Refus ou impossibilité de recevoir l'injection du traceur",
+  "Maladie hépatique chronique non liée à l'amylose",
+  "Hypersensibilité au [18F]-Fluselenamyl ou à ses excipients",
+  "Contre-indication à l'IRM ou claustrophobie sévère",
+  "Contre-indication au gadolinium (DFG < 30 mL/min)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose cardiaque",
+   "traitement": "TEP après injection intraveineuse de [18F]Fluselenamyl, avec IRM cardiaque et bilans de sécurité (dose non précisée)"
+  }
+ ],
+ "duree": "Non précisé (étude d'environ 2 ans en moyenne)",
+ "critere": "Captation cardiaque du [18F]Fluselenamyl jusqu'à la fin de l'étude (environ 2 ans)"
+}

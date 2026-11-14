@@ -1,0 +1,26 @@
+{
+ "h": "85846911a5dc",
+ "date": "2026-11-14",
+ "titre": "Daratumumab dans le purpura thrombotique thrombocytopénique immunologique",
+ "question": "Quelle est l'efficacité du daratumumab sur l'activité d'ADAMTS13 chez des patients atteints de PTT immunologique réfractaire ou intolérant aux immunosuppresseurs ?",
+ "contexte": "Le purpura thrombotique thrombocytopénique immunologique (PTTi) est une maladie auto-immune due à des autoanticorps dirigés contre la protéase ADAMTS13. Le rituximab est le traitement immunosuppresseur recommandé, mais 10 à 15 % des patients n'obtiennent pas de rémission ADAMTS13 durable, et une proportion notable des répondeurs nécessite un nouveau traitement dans les 12 mois.\n\nLes autres options reposent sur d'anciens immunosuppresseurs ou la splénectomie, toxiques et peu documentés. Cibler les plasmocytes à longue durée de vie, CD20-négatifs, est une piste pour les formes réfractaires. Le daratumumab, anticorps anti-CD38, a été utilisé chez quelques patients avec de bons résultats, mais les données se limitent à des cas isolés. DarTTP est une étude observationnelle internationale multicentrique, coordonnée par la Fondazione IRCCS Ca' Granda de Milan, qui rassemble les patients traités afin de mieux décrire l'efficacité et la tolérance de cette stratégie.",
+ "interet": "L'étude pourrait fournir la plus large série documentée sur le daratumumab dans le PTTi réfractaire, et guider son usage hors AMM en attendant des essais.",
+ "profil": "Des adultes atteints de PTTi, traités par daratumumab après échec ou intolérance aux traitements immunosuppresseurs.",
+ "inclusion": [
+  "PTTi confirmé (ADAMTS13 < 10 % avec anticorps anti-ADAMTS13)",
+  "Âge ≥ 18 ans",
+  "Traitement par daratumumab pour un PTTi"
+ ],
+ "exclusion": [
+  "Refus ou impossibilité de consentir",
+  "Suivi < 6 mois après l'administration de daratumumab"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes avec PTTi",
+   "traitement": "Patients traités par daratumumab pour un PTTi, étudiés en cohorte observationnelle"
+  }
+ ],
+ "duree": "Suivi d'au moins 6 mois après la première administration de daratumumab",
+ "critere": "Proportion de patients avec une activité d'ADAMTS13 > 20 % à 6 mois après la première administration de daratumumab"
+}

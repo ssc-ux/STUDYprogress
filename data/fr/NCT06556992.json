@@ -1,0 +1,31 @@
+{
+ "h": "39c7f2bb03e3",
+ "date": "2026-11-14",
+ "titre": "Programme de remise en forme et de gestion de la douleur pour adolescents atteints de maladies rhumatismales",
+ "question": "Un programme associant thérapie cognitivo-comportementale et entraînement neuromusculaire est-il faisable chez des adolescents atteints de maladies rhumatismales pédiatriques ou d'hypermobilité ?",
+ "contexte": "Les maladies rhumatismales pédiatriques (arthrite juvénile idiopathique, lupus de l'enfant, dermatomyosite juvénile) et l'hypermobilité articulaire s'accompagnent souvent de douleurs musculo-squelettiques et de fatigue persistantes, même quand la maladie est contrôlée. Ces symptômes limitent l'activité physique, la scolarité et la qualité de vie.\n\nLes traitements médicamenteux agissent peu sur ces douleurs résiduelles. Le programme FIT Teens a d'abord été développé pour la fibromyalgie juvénile : il associe un apprentissage de stratégies de gestion de la douleur (respiration, relaxation, pacing des activités, distraction) à un entraînement neuromusculaire axé sur le renforcement du tronc, la marche et l'équilibre. Cette étude pilote monocentrique, menée à Cincinnati, teste la faisabilité de cette version adaptée chez 10 adolescents. Elle ne vise pas à mesurer l'efficacité mais l'inclusion, l'assiduité, la rétention, la fidélité du traitement et la sécurité.",
+ "interet": "Une faisabilité démontrée permettrait de concevoir un essai randomisé évaluant l'effet du programme sur la douleur et le handicap fonctionnel des adolescents rhumatisants.",
+ "profil": "Des adolescents de 10 à 19 ans atteints de maladie rhumatismale pédiatrique ou d'hypermobilité, avec douleurs ou fatigue persistantes.",
+ "inclusion": [
+  "Maladie rhumatismale pédiatrique ou hypermobilité diagnostiquée par un spécialiste",
+  "Diagnostic posé depuis au moins 3 mois",
+  "Âge de 10 à 19 ans",
+  "Douleurs musculo-squelettiques ou fatigue depuis au moins 3 mois",
+  "Score de handicap fonctionnel (FDI) d'au moins 13",
+  "Anglais de l'enfant ; anglais ou espagnol du parent"
+ ],
+ "exclusion": [
+  "Trouble psychiatrique majeur non traité",
+  "Retard de développement documenté",
+  "Contre-indication médicale à l'exercice",
+  "Score CMAS de 30 ou moins"
+ ],
+ "bras": [
+  {
+   "nom": "FIT Teens",
+   "traitement": "Programme de 8 semaines associant thérapie cognitivo-comportementale (gestion de la douleur) et entraînement neuromusculaire"
+  }
+ ],
+ "duree": "8 semaines de programme",
+ "critere": "Faisabilité : inclusion, assiduité aux séances, rétention à 8 semaines, fidélité du traitement et sécurité des participants."
+}

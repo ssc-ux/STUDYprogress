@@ -1,0 +1,26 @@
+{
+ "h": "fdb0de2e852c",
+ "date": "2026-11-14",
+ "titre": "Sécurité à long terme de l'eplontersen dans l'amylose ATTR, dont greffés hépatiques et insuffisants hépatiques sévères (sTTRing)",
+ "question": "Quelles sont les caractéristiques et la tolérance à long terme des patients qui débutent l'eplontersen, notamment après greffe hépatique ou en insuffisance hépatique sévère ?",
+ "contexte": "L'amylose à transthyrétine (ATTR) peut atteindre le cœur (cardiomyopathie) et les nerfs (polyneuropathie). L'eplontersen est un oligonucléotide antisens ciblant l'ARN messager de la transthyrétine, qui réduit la production hépatique de cette protéine. Il est utilisé dans l'ATTR avec polyneuropathie et fait l'objet d'essais dans l'atteinte cardiaque.\n\nLes patients ayant eu une greffe hépatique (traitement historique des formes héréditaires) et ceux ayant une insuffisance hépatique sévère étaient peu ou pas inclus dans les essais, d'où une information manquante sur ces populations. sTTRing, promue par AstraZeneca, est une étude observationnelle de cohorte adossée à l'étude D8450R00003. Elle inclut les patients ayant débuté l'eplontersen dans l'année précédant l'inclusion, avec un groupe de comparaison de patients recevant d'autres traitements de l'ATTR. Les analyses intermédiaires seront annuelles de 2027 à 2031.",
+ "interet": "L'étude doit combler un manque de données de sécurité et de pratique chez les greffés hépatiques et les insuffisants hépatiques sévères traités par eplontersen.",
+ "profil": "Des adultes atteints d'ATTR confirmée, qui ont débuté l'eplontersen, et un groupe comparateur sous autre traitement de l'ATTR.",
+ "inclusion": [
+  "Participants à l'étude D8450R00003 ayant consenti à la réutilisation de leurs données",
+  "Début de l'eplontersen jusqu'à 1 an avant l'entrée dans D8450R00003, quel que soit le phénotype ou le génotype",
+  "Comparateur : patients sans eplontersen ayant débuté un autre traitement de l'ATTR pendant l'observation"
+ ],
+ "exclusion": [
+  "Exposition à l'eplontersen plus d'un an avant l'entrée dans D8450R00003",
+  "Participation à un essai interventionnel sur l'ATTR dans les 12 mois précédents"
+ ],
+ "bras": [
+  {
+   "nom": "Utilisateurs d'eplontersen",
+   "traitement": "Patients ayant débuté l'eplontersen (dont sous-populations greffe hépatique et insuffisance hépatique sévère), suivis en observation"
+  }
+ ],
+ "duree": "Collecte de données de 2026 à 2032",
+ "critere": "Caractéristiques démographiques et cliniques des utilisateurs (prévalence de greffe hépatique et d'insuffisance hépatique sévère) et sécurité à long terme, jusqu'au 1er trimestre 2032"
+}

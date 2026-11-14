@@ -1,0 +1,31 @@
+{
+ "h": "a72a0d94ece3",
+ "date": "2026-11-14",
+ "titre": "Programme structuré de télémédecine par vidéo dans le lupus systémique",
+ "question": "Une consultation structurée par vidéo est-elle faisable et appréciée chez les patients lupiques de faible activité ?",
+ "contexte": "Le lupus systémique nécessite un suivi régulier, y compris quand la maladie est peu active. Dans les structures aux ressources limitées, les contraintes de transport, de coût et de disponibilité entraînent des rendez-vous manqués. La télémédecine peut faciliter l'accès aux soins, mais ses performances dans le lupus restent peu évaluées.\n\nCet essai randomisé en cross-over de la faculté de médecine Baylor (États-Unis) a lieu dans une clinique aux ressources limitées. Il inclut 100 adultes ayant un lupus de faible activité (SLEDAI ≤ 4, prednisone ≤ 5 mg/j), parlant anglais ou espagnol.\n\nLes patients sont randomisés pour une première consultation par vidéo ou en présentiel, puis passent à l'autre modalité 3 mois plus tard. L'activité du lupus, la biologie, la satisfaction et l'utilisabilité de la télémédecine sont comparées.",
+ "interet": "Il pourrait montrer que le suivi vidéo structuré des lupus calmes est faisable et réduit les rendez-vous manqués, notamment pour les patients éloignés.",
+ "profil": "Des adultes atteints de lupus de faible activité, suivis dans une clinique américaine aux ressources limitées.",
+ "inclusion": [
+  "Lupus selon les critères ACR 2019",
+  "Âge ≥ 18 ans",
+  "Faible activité (SLEDAI ≤ 4)",
+  "Prednisone ≤ 5 mg/j",
+  "Parle anglais ou espagnol"
+ ],
+ "exclusion": [
+  "Activité modérée à forte (SLEDAI > 5)"
+ ],
+ "bras": [
+  {
+   "nom": "Télémédecine puis présentiel",
+   "traitement": "Consultation vidéo structurée à 3 mois, puis consultation en présentiel à 6 mois"
+  },
+  {
+   "nom": "Présentiel puis télémédecine",
+   "traitement": "Consultation en présentiel à 3 mois, puis consultation vidéo structurée à 6 mois"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Score global du questionnaire d'utilisabilité de la télésanté (TUQ) et taux de rendez-vous manqués, à 3 et 6 mois"
+}

@@ -1,0 +1,28 @@
+{
+ "h": "1902a078d1e4",
+ "date": "2026-11-14",
+ "titre": "Caractéristiques et évolution de la connectivite mixte et du lupus érythémateux systémique",
+ "question": "Quelles anomalies immunitaires et génétiques caractérisent la connectivite mixte (MCTD) et le lupus érythémateux systémique (LES), et comment ces maladies évoluent-elles ?",
+ "contexte": "Le lupus érythémateux systémique et la connectivite mixte sont des maladies auto-immunes chroniques touchant surtout les femmes jeunes, plus fréquemment les femmes noires et hispaniques. Elles atteignent articulations, peau, reins, cœur, poumons, vaisseaux et système nerveux. Il n'existe pas de traitement curatif.\n\nLa connectivite mixte chevauche le lupus, la sclérodermie et la polymyosite, avec des anticorps anti-U1 RNP. Dans les deux maladies, le système immunitaire est activé de façon anormale par des autoantigènes de type petites ribonucléoprotéines nucléaires (snRNP). Le poumon semble particulièrement touché par cette réponse immunitaire. Cette étude de cohorte de l'université de Miami, soutenue par le NIAMS, a suivi 124 patients adultes sur au plus quatre visites espacées d'au moins trois mois, avec questionnaires, examen clinique et prélèvements sanguins ou urinaires. Elle caractérise les réponses immunitaires, la génétique et la progression, sans intervention thérapeutique. L'étude est terminée.",
+ "interet": "Elle apporte des connaissances sur les mécanismes immunitaires de la connectivite mixte et du lupus, qui pourraient servir à de futurs traitements. Elle n'a pas d'impact direct sur la pratique.",
+ "profil": "Des adultes de 18 à 100 ans ayant un lupus, une connectivite mixte ou une autre maladie rhumatismale systémique.",
+ "inclusion": [
+  "Âge de 18 à 100 ans",
+  "Maladie rhumatismale connue : lupus érythémateux systémique, polyarthrite rhumatoïde, connectivite ou connectivite indifférenciée"
+ ],
+ "exclusion": [
+  "Mauvais accès veineux, maladie instable ou cardiopulmonaire significative",
+  "Anémie, leucopénie ou thrombopénie",
+  "Anticoagulation",
+  "Modification récente significative du traitement, grossesse",
+  "Corticoïdes > 30 mg/jour ou cytotoxiques (cyclophosphamide, azathioprine, ciclosporine, méthotrexate)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte LES et MCTD",
+   "traitement": "Patients suivis par questionnaires, examen clinique et prélèvements, sans intervention"
+  }
+ ],
+ "duree": "Jusqu'à 4 visites espacées d'au moins 3 mois",
+ "critere": "Données sur les réponses immunitaires cellulaires et cliniques, et phénotype (activité, gravité, statut fonctionnel), sur 4 visites au plus"
+}

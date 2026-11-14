@@ -1,0 +1,32 @@
+{
+ "h": "f6844d934a1c",
+ "date": "2026-11-14",
+ "titre": "Brentuximab védotin en extension dans la sclérodermie systémique diffuse précoce",
+ "question": "Le brentuximab védotin est-il sûr et efficace chez des patients avec sclérodermie diffuse ayant rechuté après son arrêt ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse est une maladie auto-immune avec atteinte vasculaire et fibrose cutanée et viscérale progressive. L'atteinte d'organe détermine la mortalité, et les options thérapeutiques efficaces restent limitées, surtout à la phase précoce et active.\n\nLe brentuximab védotin est un conjugué anticorps-médicament dirigé contre CD30, utilisé en hématologie. Une étude de phase 2 (BV201708) a montré une bonne tolérance à court terme et une réponse chez plusieurs patients dès la 24e semaine, avec l'idée qu'une forte immunomodulation précoce pourrait limiter la fibrose irréversible.\n\nCette extension de phase 2, très limitée (3 patients), propose jusqu'à 48 semaines de traitement aux patients ayant bien répondu mais rechuté après l'arrêt. Le critère principal est l'évolution du score cutané de Rodnan modifié (mRSS) ; le HAQ-DI, les marqueurs inflammatoires, le CRISS et l'immunomarquage CD30 cutané sont des critères exploratoires.",
+ "interet": "L'étude renseigne sur la possibilité de retraiter après rechute un patient répondeur, mais son effectif minime ne permet pas de conclusion.",
+ "profil": "Des adultes avec sclérodermie diffuse ayant participé à l'étude BV201708 et rechuté après l'arrêt du brentuximab védotin.",
+ "inclusion": [
+  "Sclérodermie cutanée diffuse incluse dans l'étude BV201708",
+  "Âge ≥ 18 ans",
+  "Aggravation du mRSS ≥ 4 points par rapport à la fin du traitement (semaine 48)",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Fonction pulmonaire altérée (CVF < 40 % ou DLCO < 30 %)",
+  "Grossesse, allaitement ou absence de contraception efficace",
+  "Hypertension pulmonaire nécessitant un traitement ou cardiopathie significative",
+  "Infection active (VIH, tuberculose, hépatite B ou C active), antécédent de LEMP",
+  "Neuropathie périphérique de grade ≥ 2",
+  "Neutrophiles < 2,0 G/L, hémoglobine < 85 g/L, plaquettes < 100 G/L ou transaminases > 2 N",
+  "Rituximab dans les 4 mois, vaccin vivant dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Brentuximab védotin",
+   "traitement": "Brentuximab védotin IV, jusqu'à 0,6 mg/kg, pendant 48 semaines maximum"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Variation de l'épaisseur cutanée mesurée par le score de Rodnan modifié (mRSS) à 48 semaines."
+}

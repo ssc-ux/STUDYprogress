@@ -1,0 +1,52 @@
+{
+ "h": "11d3ca613aa3",
+ "date": "2026-11-14",
+ "titre": "Recueil de tissus pour identifier les cibles des lymphocytes T auto-réactifs dans les maladies auto-immunes",
+ "question": "Quelles sont les cibles peptidiques et les récepteurs T associés des lymphocytes T accumulés dans les tissus enflammés de patients atteints de maladie auto-immune ?",
+ "contexte": "Dans les maladies auto-immunes, des lymphocytes T s'accumulent dans les organes atteints et entretiennent l'inflammation. Leurs cibles antigéniques restent mal connues pour la plupart des maladies, ce qui limite le développement de traitements spécifiques. Les traitements actuels, immunosuppresseurs ou biothérapies, agissent de façon large et exposent à des infections.\n\nL'approche étudiée ici vise des thérapies tolérogènes dirigées contre les lymphocytes T pathogènes. Il faut pour cela identifier le récepteur T (TCR) des clones expansés dans les tissus malades, puis son peptide cible. La société TScan a développé une technologie à haut débit qui détermine la cible naturelle d'un TCR. Cette étude observationnelle, sans traitement testé, collecte des biopsies ou des liquides biologiques issus de tissus enflammés, avec un prélèvement sanguin apparié. Neuf cohortes sont prévues : maladies inflammatoires de l'intestin, maladie cœliaque, spondylarthrite axiale, sclérose en plaques, sclérodermie, sclérodermie avec atteinte pulmonaire, autres maladies auto-immunes, maladie auto-immune évolutive et échantillons biobanqués. L'étude a inclus 238 participants dans 11 centres aux États-Unis.",
+ "interet": "Il s'agit d'une étude de recherche fondamentale. Elle n'a pas d'impact immédiat en pratique mais alimente le développement de futures thérapies tolérogènes spécifiques d'antigène.",
+ "profil": "Des adultes atteints de maladie auto-immune confirmée ou suspectée, pour lesquels un prélèvement tissulaire est possible.",
+ "inclusion": [
+  "Diagnostic connu ou suspecté, puis confirmé, d'une des maladies auto-immunes ciblées",
+  "Âge de 18 ans ou plus",
+  "Consentement éclairé",
+  "Traitement de fond non toxique pour les lymphocytes T (anti-TNF, anti-IL-17, anti-CD20, vedolizumab, etc.)",
+  "Prélèvement possible lors d'un geste clinique, ou geste de recherche à faible risque"
+ ],
+ "exclusion": [
+  "Traitement toxique pour les lymphocytes T non suspendable 4 semaines (corticoïdes, thiopurines, méthotrexate, anti-JAK, etc.)",
+  "Maladie ou trouble psychiatrique grave compromettant la sécurité",
+  "Démence ou incapacité à consentir",
+  "Allergie grave aux anesthésiques locaux ou aux sédatifs si nécessaires",
+  "Grossesse ou allaitement",
+  "Tout autre risque jugé excessif par le clinicien"
+ ],
+ "bras": [
+  {
+   "nom": "Maladies inflammatoires de l'intestin",
+   "traitement": "Biopsies coliques lors d'une endoscopie, avec prélèvement sanguin apparié"
+  },
+  {
+   "nom": "Maladie cœliaque",
+   "traitement": "Biopsies du grêle lors d'une endoscopie, avec prélèvement sanguin"
+  },
+  {
+   "nom": "Spondylarthrite axiale",
+   "traitement": "Liquide articulaire ou tissus de chirurgie, avec prélèvement sanguin"
+  },
+  {
+   "nom": "Sclérose en plaques",
+   "traitement": "Liquide cérébrospinal lors d'une ponction lombaire, avec prélèvement sanguin"
+  },
+  {
+   "nom": "Sclérodermie et sclérodermie avec atteinte pulmonaire",
+   "traitement": "Biopsies cutanées, ou lavage bronchoalvéolaire et biopsies, avec prélèvement sanguin"
+  },
+  {
+   "nom": "Autres maladies auto-immunes, maladie évolutive, tissus congelés",
+   "traitement": "Tissus atteints ou échantillons de biobanque, avec prélèvement sanguin"
+  }
+ ],
+ "duree": "Un ou plusieurs prélèvements ; analyse sur 3 ans",
+ "critere": "Identification des cibles peptidiques et des TCR associés chez les patients, sur 3 ans."
+}

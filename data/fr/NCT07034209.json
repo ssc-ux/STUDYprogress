@@ -1,0 +1,31 @@
+{
+ "h": "9985f6b12e93",
+ "date": "2026-11-14",
+ "titre": "Plonmarlimab dans le syndrome d'activation macrophagique des maladies rhumatismales",
+ "question": "Le plonmarlimab est-il efficace et bien toléré dans le syndrome d'activation macrophagique associé à une maladie rhumatismale ?",
+ "contexte": "Le syndrome d'activation macrophagique (SAM) est une forme de lymphohistiocytose hémophagocytaire secondaire, qui complique surtout la maladie de Still de l'adulte, l'arthrite juvénile systémique et le lupus. C'est une urgence potentiellement mortelle, marquée par une cytopénie, une hyperferritinémie et une tempête cytokinique.\n\nLe traitement repose sur les corticoïdes à forte dose, la ciclosporine, l'anakinra ou, dans les cas sévères, l'étoposide. Les options validées restent limitées, d'où l'intérêt de cibler d'autres cytokines.\n\nLe plonmarlimab est un anticorps monoclonal dirigé contre le GM-CSF, cytokine impliquée dans l'activation des macrophages. Cette étude de phase 2 ouverte, à bras unique et multicentrique, promue par TJ Biopharma, évalue son efficacité, sa tolérance, sa pharmacocinétique et son immunogénicité, avec une recherche de biomarqueurs de réponse.",
+ "interet": "Si la réponse est favorable, le plonmarlimab pourrait devenir une option ciblée du SAM, notamment pour les patients ne répondant pas ou ne pouvant pas recevoir les traitements actuels.",
+ "profil": "Des patients de 16 à 80 ans atteints d'un SAM associé à une arthrite juvénile systémique, une maladie de Still de l'adulte ou un lupus.",
+ "inclusion": [
+  "Âge de 16 à 80 ans",
+  "Lymphohistiocytose hémophagocytaire selon les critères HLH-2004",
+  "Maladie rhumatismale sous-jacente : AJIs, maladie de Still de l'adulte ou lupus",
+  "Consentement signé (et du représentant légal si moins de 18 ans)",
+  "Contraception pendant l'étude et 28 jours après la dernière dose"
+ ],
+ "exclusion": [
+  "Forme primitive de lymphohistiocytose (mutation, anomalie de la perforine, antécédent familial)",
+  "Anti-TNF, anti-IL-1, anti-IL-6 ou inhibiteur de JAK en cours ; étoposide dans les 7 jours",
+  "Pathologie pulmonaire avec EFR anormales ; insuffisance cardiaque NYHA III-IV ou infarctus récent",
+  "Cancer dans les 5 dernières années, infection non contrôlée",
+  "Tuberculose, y compris latente ; VHB, VHC, VIH ou syphilis positifs"
+ ],
+ "bras": [
+  {
+   "nom": "Plonmarlimab",
+   "traitement": "Anticorps anti-GM-CSF ; dose et rythme non précisés"
+  }
+ ],
+ "duree": "Non précisé (critère principal évalué à la semaine 8)",
+ "critere": "Taux de réponse globale à la fin de la semaine 8"
+}

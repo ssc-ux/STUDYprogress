@@ -1,0 +1,42 @@
+{
+ "h": "37bd933b8009",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses de cordon ombilical dans le lupus réfractaire (MiSLE)",
+ "question": "Une perfusion de cellules souches mésenchymateuses allogéniques de cordon ombilical, ajoutée au traitement habituel, améliore-t-elle la réponse clinique à 24 semaines chez des adultes ayant un lupus érythémateux systémique actif et réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique aux manifestations multiples, cutanées, articulaires, rénales et neurologiques. Le traitement associe hydroxychloroquine, corticoïdes, immunosuppresseurs (mycophénolate, azathioprine, cyclophosphamide) et biothérapies comme le bélimumab ou l'anifrolumab. Malgré cela, une proportion de patients garde une maladie active ou rechute, avec une toxicité cumulée des traitements.\n\nLes cellules souches mésenchymateuses ont des propriétés immunomodulatrices : elles inhibent la prolifération des lymphocytes T et B et favorisent des cellules régulatrices. De petits essais ont suggéré une efficacité dans le lupus, notamment avec des cellules de cordon. MiSLE est un essai de phase 2 multicentrique randomisé en double insu, promu par la Medical University of South Carolina, où les cellules sont produites. Il compare deux doses de cellules (1 et 5 millions par kg) à un placebo, en une perfusion unique, en plus du traitement standard, chez 81 patients ayant un SLEDAI ≥ 6 et une atteinte BILAG A ou B.",
+ "interet": "Si l'efficacité est confirmée, les cellules souches mésenchymateuses pourraient offrir une option dans le lupus réfractaire, avec une relation dose-effet. À ce jour, aucun résultat n'est disponible dans le registre.",
+ "profil": "Des adultes de 18 à 65 ans ayant un lupus actif (SLEDAI ≥ 6, BILAG A ou B) malgré un traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Au moins 4 des 11 critères de classification ACR",
+  "ANA ≥ 1/80 ou anti-ADN natif positif dans les 6 mois",
+  "SLEDAI ≥ 6 et au moins un BILAG A ou B malgré le traitement",
+  "Si atteinte rénale : au moins 6 mois de mycophénolate ou 3 mois de cyclophosphamide suivi de mycophénolate ou azathioprine",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Lupus du système nerveux central actif ou néphrite sous dialyse",
+  "DFGe < 30, leucocytes < 2 000/mm³, hémoglobine < 8 g/dL, plaquettes < 30 000/mm³, transaminases > 4 N",
+  "VIH, hépatite B ou C, tuberculose ou infection fongique latente",
+  "Cancer dans les 5 ans, greffe rénale",
+  "Zona < 90 jours ou infection récente sévère",
+  "Prednisone > 0,5 mg/kg/jour, modification récente de l'immunosuppresseur, bélimumab < 2 mois, rituximab < 6 mois",
+  "Grossesse, allaitement, abus de substances"
+ ],
+ "bras": [
+  {
+   "nom": "Cellules souches faible dose",
+   "traitement": "Cellules souches mésenchymateuses, 1 × 10^6 cellules/kg, perfusion unique"
+  },
+  {
+   "nom": "Cellules souches forte dose",
+   "traitement": "Cellules souches mésenchymateuses, 5 × 10^6 cellules/kg, perfusion unique"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusion de solution Plasma-Lyte A seule, en plus du traitement habituel"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 24 semaines)",
+ "critere": "Réponse clinique à 24 semaines définie par le SLE Responder Index (SRI)"
+}

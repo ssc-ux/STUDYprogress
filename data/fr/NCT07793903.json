@@ -1,0 +1,33 @@
+{
+ "h": "d516a0b1cc47",
+ "date": "2026-11-14",
+ "titre": "BCT301 (CAR-iT CD19 dérivées de cellules souches) dans la maladie liée aux IgG4 réfractaire ou en rechute",
+ "question": "BCT301, une CAR-T dérivée de cellules souches pluripotentes induites chimiquement, est-elle sûre et tolérée chez des patients ayant une maladie liée aux IgG4 réfractaire ou en rechute ?",
+ "contexte": "La maladie liée aux IgG4 est une maladie fibro-inflammatoire systémique qui peut atteindre le pancréas, les voies biliaires, les reins, les poumons, l'aorte ou le rétropéritoine. Les corticoïdes sont le traitement de première intention, mais les rechutes sont fréquentes à l'arrêt, ce qui conduit à associer des immunosuppresseurs ou à utiliser des anti-CD20 ou, récemment, l'inébilizumab.\n\nCertains patients restent actifs ou rechutent malgré ces traitements. Les CAR-T anti-CD19 déplètent profondément les lymphocytes B et pourraient induire des rémissions prolongées, comme dans d'autres maladies auto-immunes. BCT301 est un produit allogénique « prêt à l'emploi » de cellules CAR-iT dérivées de cellules souches pluripotentes induites par voie chimique. Cet essai monocentrique de Peking University Third Hospital inclura seulement six patients, qui recevront une perfusion unique de 1,8 × 10^8 cellules après lymphodéplétion. L'objectif est d'évaluer la sécurité, l'efficacité préliminaire et la pharmacocinétique.",
+ "interet": "Étude de preuve de concept sur un produit cellulaire allogénique dans une maladie réfractaire. Elle fournira les premières données de tolérance, sans portée immédiate pour la pratique.",
+ "profil": "Des adultes de 18 à 75 ans ayant une maladie liée aux IgG4 active, réfractaire ou en rechute, avec atteinte d'un organe majeur.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, poids ≥ 40 kg",
+  "Maladie liée aux IgG4 (critères japonais 2020 ou ACR/EULAR 2019) avec atteinte d'un organe cible",
+  "Maladie active ou en rechute malgré corticoïdes, immunosuppresseurs ou biothérapie",
+  "RI IgG4-RD ≥ 2 et lymphocytes B CD19+",
+  "Corticoïdes ≤ 30 mg/jour de prednisone, dose stable",
+  "Fonctions médullaire, hépatique et rénale (clairance ≥ 40 mL/min) adéquates"
+ ],
+ "exclusion": [
+  "Réserve d'organe réduite hors maladie (FEVG ≤ 45 %, SpO2 ≤ 92 %, plaquettes < 50 G/L)",
+  "Cancer dans les 5 ans (hors lymphome B), VIH, hépatite B ou C chronique, syphilis, tuberculose ou infection active",
+  "Infarctus, angioplastie ou thrombose veineuse symptomatique dans les 6 mois",
+  "Traitement antérieur anti-CD19, anti-BCMA ou CAR-T (sauf échec clair)",
+  "Greffe d'organe avec immunosuppression au long cours",
+  "Troubles psychiatriques ou cognitifs sévères, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "BCT301",
+   "traitement": "Lymphodéplétion puis perfusion unique de BCT301 à 1,8 × 10^8 cellules"
+  }
+ ],
+ "duree": "Suivi principal jusqu'à 360 jours",
+ "critere": "Sécurité et tolérance de BCT301 dans les 28 jours suivant la perfusion"
+}

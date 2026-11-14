@@ -1,0 +1,31 @@
+{
+ "h": "3806a3cbdb6b",
+ "date": "2026-11-14",
+ "titre": "Dépistage de l'amylose cardiaque à transthyrétine par IA sur ECG et échocardiographie",
+ "question": "Un dépistage séquentiel par intelligence artificielle (ECG puis échocardiographie) identifie-t-il correctement l'amylose cardiaque ATTR chez des patients insuffisants cardiaques ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée ou modérément réduite. Le diagnostic est souvent posé tardivement, alors que des traitements modifiant l'histoire de la maladie (stabilisateurs et silenceurs de la transthyrétine) existent désormais. Le diagnostic non invasif repose sur la scintigraphie osseuse (ici au pyrophosphate marqué au technétium-99m, PYP) après exclusion d'une gammapathie monoclonale.\n\nDes modèles d'intelligence artificielle appliqués à l'ECG et à l'échocardiographie ont montré dans des travaux rétrospectifs une capacité à repérer les patients à risque. Cette étude prospective, menée dans un seul système de santé (Yale New Haven), évalue une approche séquentielle AI-ECG puis AI-Echo, validée par comparaison avec la scintigraphie PYP. Elle s'inscrit dans la suite d'une phase I du programme TRACE-AI. Le promoteur est l'université de Yale, avec BridgeBio comme collaborateur.",
+ "interet": "Si la performance est confirmée, un dépistage automatisé à partir d'examens déjà réalisés pourrait raccourcir le délai diagnostique de l'amylose cardiaque. Il ciblerait la scintigraphie sur les patients les plus à risque.",
+ "profil": "Des adultes suivis pour une insuffisance cardiaque à FEVG préservée ou modérément réduite, ayant eu un ECG et une échocardiographie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ECG et échocardiographie réalisés dans le système de santé de Yale New Haven",
+  "Diagnostic d'insuffisance cardiaque à FEVG préservée ou modérément réduite",
+  "Participation à la phase I TRACE-AI avec dépistage AI-ECG et AI-Echo dans les 36 mois précédents"
+ ],
+ "exclusion": [
+  "Refus de participer à des études de recherche",
+  "Test diagnostique d'amylose cardiaque dans les 36 mois précédents",
+  "Cardiomyopathie hypertrophique ou insuffisance rénale terminale",
+  "Grossesse",
+  "Incapacité ou refus de consentir",
+  "Non-anglophones ou troubles cognitifs empêchant l'utilisation de l'application (en anglais)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte unique",
+   "traitement": "Dépistage par modèles d'IA sur ECG puis échocardiographie, confirmé par scintigraphie PYP"
+  }
+ ],
+ "duree": "Une visite de référence (scintigraphie PYP) ; étude jusqu'en juin 2027",
+ "critere": "Performance de l'approche de dépistage séquentielle, de l'inclusion jusqu'à la scintigraphie PYP de la visite initiale"
+}

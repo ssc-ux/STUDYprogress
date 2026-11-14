@@ -1,0 +1,40 @@
+{
+ "h": "3c49e0c38a42",
+ "date": "2026-11-14",
+ "titre": "Elranatamab (bispécifique anti-BCMA) en première ligne de l'amylose AL : comparaison de deux schémas",
+ "question": "L'elranatamab induit-il des réponses hématologiques complètes dans l'amylose AL nouvellement diagnostiquée, et quel schéma d'administration est préférable ?",
+ "contexte": "L'amylose AL est due à des plasmocytes clonaux produisant des chaînes légères mal repliées, qui se déposent dans les organes. L'atteinte cardiaque est la principale cause de gravité et de décès, et la mortalité précoce reste élevée malgré les traitements actuels dirigés contre le clone plasmocytaire. Beaucoup de patients répondent trop lentement ou trop faiblement, ou ne tolèrent pas des traitements intensifs en raison de leurs atteintes d'organes.\n\nL'elranatamab est un anticorps bispécifique reliant BCMA (à la surface des plasmocytes) au CD3 des lymphocytes T, qui détruisent alors les plasmocytes. Il est approuvé dans le myélome multiple mais pas dans l'amylose AL. Cet essai de phase II randomisé ouvert, mené au Case Comprehensive Cancer Center (États-Unis), inclut 64 patients non traités, de stade cardiaque I, II ou IIIa. Après une montée de doses en hospitalisation, ils reçoivent 6 mois de traitement sous-cutané selon l'un de deux schémas. Le suivi dure jusqu'à 2 ans après la fin du traitement.",
+ "interet": "L'étude pourrait établir si un bispécifique anti-BCMA, à durée fixe de 6 mois, donne des rémissions profondes et une récupération d'organe en première ligne de l'amylose AL, et préciser le rythme d'administration le plus adapté.",
+ "profil": "Des adultes ayant une amylose AL nouvellement diagnostiquée, jamais traitée, sans myélome et de stade cardiaque I à IIIa.",
+ "inclusion": [
+  "Amylose AL nouvellement diagnostiquée, sans traitement antérieur",
+  "Biopsie rouge Congo positive avec typage de la chaîne légère",
+  "Pas de critères de myélome (IMWG), plasmocytes clonaux < 40 %",
+  "Âge ≥ 18 ans, ECOG ≤ 2",
+  "Stade cardiaque I, II ou IIIa (NT-proBNP < 8500 ng/L)",
+  "Polynucléaires neutrophiles ≥ 1000/µL, plaquettes ≥ 50 000/µL, transaminases ≤ 3 N",
+  "Contraception, consentement et myélogrammes acceptés"
+ ],
+ "exclusion": [
+  "Autre produit expérimental pour cette maladie",
+  "Stade IIIb de Mayo",
+  "Cancer actif (hors exceptions limitées)",
+  "Maladie auto-immune active cliniquement significative, VIH positif",
+  "Hypotension orthostatique sévère non contrôlée",
+  "Infarctus ou arythmie ventriculaire non contrôlée dans les 3 mois, FEVG < 30 %, QTcF > 550 ms sans stimulateur, NYHA IV",
+  "DFG < 20 mL/min (sauf dialyse stable)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A",
+   "traitement": "Montée de doses d'elranatamab en hospitalisation, puis une injection sous-cutanée par semaine, schéma A, 6 cycles"
+  },
+  {
+   "nom": "Bras B",
+   "traitement": "Même montée de doses, puis schéma B d'administration, 6 cycles (durée fixe de 6 mois)"
+  }
+ ],
+ "duree": "6 mois de traitement puis suivi jusqu'à 2 ans (extension possible à 5 ans)",
+ "critere": "Taux de réponse hématologique complète en fin de traitement (après 6 cycles, jusqu'à 6 mois)"
+}

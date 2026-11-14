@@ -1,0 +1,26 @@
+{
+ "h": "1c3999a7dc74",
+ "date": "2026-11-14",
+ "titre": "Sous-étude de scintigraphie de CARDIO-TTRansform (éplontersen)",
+ "question": "L'éplontersen modifie-t-il la charge amyloïde myocardique mesurée par scintigraphie au cours de l'essai CARDIO-TTRansform ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM) est une maladie progressive du sujet âgé, causée par le dépôt de fibrilles de TTR dans le myocarde, avec insuffisance cardiaque et décès. Le tafamidis et l'acoramidis stabilisent le tétramère de TTR, et des silencieurs de gène, comme l'éplontersen, visent à réduire la production hépatique de TTR.\n\nLa scintigraphie osseuse (99mTc-DPD, PYP ou HMDP) est la base du diagnostic non invasif de l'ATTR-CM, avec le grade de Perugini (0 à 3). On ne sait pas si cet examen peut aussi mesurer un changement de charge amyloïde sous traitement.\n\nCette sous-étude observationnelle de Ionis rassemble jusqu'à 150 participants de l'essai CARDIO-TTRansform (NCT04136171) randomisés éplontersen ou placebo, avec une scintigraphie de base. Ils passent des scintigraphies optionnelles aux semaines 25 ou 37, 97 et 140.",
+ "interet": "Elle pourrait montrer si le traitement par éplontersen réduit ou stabilise la charge amyloïde visible en scintigraphie, un biomarqueur d'imagerie dans l'ATTR-CM.",
+ "profil": "Des adultes avec ATTR-CM participant à l'essai CARDIO-TTRansform, avec une scintigraphie de base interprétable.",
+ "inclusion": [
+  "Randomisé dans l'essai ION-682884-CS2 (NCT04136171)",
+  "Scintigraphie de base (99mTc-DPD, PYP ou HMDP) dans les 12 mois avant le dépistage, avec images planaires et TEMP exploitables par le lecteur central"
+ ],
+ "exclusion": [
+  "Critères d'exclusion de l'essai principal",
+  "Poids ou tour de taille dépassant les limites de l'appareil",
+  "Hypersensibilité connue au technétium-99m"
+ ],
+ "bras": [
+  {
+   "nom": "Sous-groupe scintigraphie de CS2",
+   "traitement": "Scintigraphies optionnelles aux semaines 25 ou 37, 97 et 140, chez des participants sous éplontersen ou placebo dans l'essai principal"
+  }
+ ],
+ "duree": "Jusqu'à 140 semaines",
+ "critere": "Variation du score de Perugini sur les images de scintigraphie entre l'inclusion et la semaine 140."
+}

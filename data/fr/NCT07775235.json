@@ -1,0 +1,25 @@
+{
+ "h": "f0c7bc1b22d4",
+ "date": "2026-11-14",
+ "titre": "Quadrithérapie immunosuppressive dans la pneumopathie interstitielle rapidement progressive des myosites",
+ "question": "Une association de corticoïdes, tacrolimus, tofacitinib et rituximab réduit-elle la mortalité à 6 mois dans la pneumopathie interstitielle diffuse rapidement progressive (PID-RP) associée aux myosites ?",
+ "contexte": "Les myopathies inflammatoires idiopathiques regroupent dermatomyosite, polymyosite, myosite à inclusions et myopathies nécrosantes à médiation immune, et peuvent atteindre le poumon. La dermatomyosite avec anticorps anti-MDA5 est particulièrement associée à une pneumopathie interstitielle rapidement progressive, avec une mortalité supérieure à 60 % dans les six premiers mois selon le promoteur. Le traitement repose sur l'immunosuppression, sans consensus ni recommandation spécifique pour cette complication.\n\nAucun essai randomisé n'existe, en raison de la rareté de la maladie. Les meilleures données viennent de cohortes prospectives mono-bras comparées à des témoins historiques, qui suggèrent qu'une immunosuppression plus intensive améliore les résultats. Les investigateurs de Singapore General Hospital proposent de bloquer plusieurs voies : rituximab pour les lymphocytes B, tacrolimus pour les lymphocytes T, tofacitinib pour la signalisation de l'interféron, et corticoïdes pour l'immunité innée et adaptative. Il n'existe pas encore d'étude prospective de cette association précise. L'étude est de type série de cas prospective sans groupe comparateur, chez 80 patients.",
+ "interet": "Si la mortalité est nettement inférieure aux données historiques, cette association pourrait devenir un schéma de référence dans une maladie sans traitement validé. En l'absence de comparateur, les résultats resteront à confirmer.",
+ "profil": "Des adultes de 21 ans et plus ayant une PID rapidement progressive associée à une myosite.",
+ "inclusion": [
+  "Âge de 21 ans ou plus",
+  "Diagnostic de pneumopathie interstitielle rapidement progressive associée à une myosite"
+ ],
+ "exclusion": [
+  "Âge de moins de 21 ans",
+  "Autres critères d'exclusion non précisés"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe traité",
+   "traitement": "Immunosuppression combinée : corticoïdes, tacrolimus, tofacitinib et rituximab (doses non précisées)"
+  }
+ ],
+ "duree": "6 mois pour le critère principal",
+ "critere": "Mortalité toutes causes à 6 mois après le début du traitement"
+}

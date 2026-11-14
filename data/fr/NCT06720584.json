@@ -1,0 +1,36 @@
+{
+ "h": "21d18e8eada5",
+ "date": "2026-11-14",
+ "titre": "Programme de coaching en ligne WHEEL pour améliorer la qualité de vie dans le lupus selon son endotype",
+ "question": "Un programme de 8 séances de groupe en ligne, animé par un coach de santé, est-il faisable et acceptable chez des femmes lupiques, et améliore-t-il leur qualité de vie ?",
+ "contexte": "Chez les patients atteints de lupus, fatigue, douleurs et troubles cognitifs (« brouillard cérébral ») pèsent lourdement sur la qualité de vie, mais ils sont peu abordés en consultation de rhumatologie, centrée sur l'activité objective de la maladie. L'équipe du Duke Lupus Clinic distingue des symptômes de type 1 (activité classique : synovite, atteinte cutanée, néphrite) et de type 2 (fatigue, myalgies, humeur, cognition).\n\nElle propose deux endotypes : le type 2 intermittent, où les symptômes de type 2 évoluent avec ceux de type 1, et le type 2 persistant, où ils persistent indépendamment des poussées. Le programme WHEEL comprend 8 séances virtuelles de groupe de 60 à 90 minutes, animées par un coach certifié : connaissance de la maladie, activité physique, sommeil, nutrition, gestion du stress, objectifs personnels. Chaque patiente bénéficie aussi d'entretiens individuels pour établir un plan de santé personnalisé. Cette étude pilote randomisée avec liste d'attente porte sur 36 femmes d'un seul centre. Elle évalue d'abord la satisfaction, l'adhésion et le taux de réponse aux questionnaires.",
+ "interet": "Une faisabilité démontrée ouvrirait la voie à un essai plus large, avec un programme adapté aux endotypes du lupus, en complément du traitement médicamenteux.",
+ "profil": "Des femmes adultes atteintes de lupus avec symptômes de type 2 persistants ou intermittents, suivies au Duke Lupus Clinic.",
+ "inclusion": [
+  "Inscription au registre lupus de Duke depuis au moins un an, avec au moins 3 visites",
+  "Consultation lupus dans l'année écoulée",
+  "Critères de classification du lupus (SLICC, ACR ou EULAR/ACR)",
+  "Lupus de type 2 persistant ou intermittent selon les critères du modèle de Duke",
+  "Femme, 18 ans ou plus, anglais lu et parlé",
+  "Consentement électronique"
+ ],
+ "exclusion": [
+  "Troubles cognitifs importants selon le rhumatologue",
+  "Maladie mentale grave non traitée",
+  "Incapacité à consentir",
+  "Participation à l'élaboration du programme WHEEL",
+  "Absence d'engagement à suivre les séances sur tablette ou ordinateur"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1 : intervention immédiate",
+   "traitement": "Programme WHEEL de 4 mois : 8 séances de groupe en ligne et entretiens individuels avec le coach"
+  },
+  {
+   "nom": "Groupe 2 : liste d'attente",
+   "traitement": "Programme WHEEL proposé après la fin du programme du groupe 1"
+  }
+ ],
+ "duree": "10 mois",
+ "critere": "Satisfaction des participantes (dans les 4 semaines suivant la fin), adhésion au programme et taux de réponse aux questionnaires à 10 mois."
+}

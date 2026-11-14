@@ -1,0 +1,33 @@
+{
+ "h": "c52ecad5b003",
+ "date": "2026-11-14",
+ "titre": "Canakinumab dans la fièvre méditerranéenne familiale et la maladie de Still : données en vie réelle",
+ "question": "Quels sont les schémas de traitement et les résultats à 3 ans du canakinumab chez des patients ayant une FMF, une AJIs ou une maladie de Still de l'adulte ?",
+ "contexte": "La fièvre méditerranéenne familiale (FMF), l'arthrite juvénile idiopathique systémique (AJIs) et la maladie de Still de l'adulte (MSA) sont des maladies auto-inflammatoires où l'interleukine-1 joue un rôle central. Le canakinumab, anticorps anti-IL-1β, est utilisé en cas de résistance ou d'intolérance aux traitements de première ligne : colchicine dans la FMF, corticoïdes et immunosuppresseurs dans les maladies de Still.\n\nLes données de vie réelle sur les schémas posologiques, la rémission et l'épargne cortisonique à long terme restent limitées. Cette étude observationnelle rétrospective, promue par Novartis et menée dans un centre, utilise les dossiers de patients traités par canakinumab pendant au moins 6 mois (prescrit avant octobre 2021), avec au moins 3 ans de données. Trois cohortes sont analysées (FMF, AJIs, MSA), avec les taux de maladie inactive, de rémission, de réponse complète ou partielle, l'arrêt des corticoïdes et les motifs d'arrêt du canakinumab.",
+ "interet": "L'étude décrira le recul à long terme du canakinumab dans ces maladies, utile pour l'initiation, la durée et l'espacement des injections.",
+ "profil": "Des enfants et adultes atteints de FMF ou de maladie de Still (AJIs, MSA) ayant reçu du canakinumab au moins 6 mois.",
+ "inclusion": [
+  "Patients pédiatriques ou adultes ayant reçu du canakinumab pendant au moins 6 mois pour une FMF, une AJIs ou une MSA",
+  "Canakinumab prescrit avant octobre 2021",
+  "Données cliniques et thérapeutiques disponibles sur au moins 3 ans après le début du traitement"
+ ],
+ "exclusion": [
+  "Âge < 2 ans à la date index"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte FMF",
+   "traitement": "Patients avec FMF traités par canakinumab ≥ 6 mois"
+  },
+  {
+   "nom": "Cohorte AJIs",
+   "traitement": "Patients avec arthrite juvénile idiopathique systémique traités par canakinumab ≥ 6 mois"
+  },
+  {
+   "nom": "Cohorte MSA",
+   "traitement": "Patients avec maladie de Still de l'adulte traités par canakinumab ≥ 6 mois"
+  }
+ ],
+ "duree": "Données sur au moins 3 ans par patient (étude rétrospective)",
+ "critere": "Pourcentage de patients en maladie inactive, en rémission partielle, en réponse complète, partielle ou faible sous canakinumab, jusqu'à 3 ans"
+}

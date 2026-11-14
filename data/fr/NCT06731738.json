@@ -1,0 +1,43 @@
+{
+ "h": "bdbb63a38208",
+ "date": "2026-11-14",
+ "titre": "IRM au mangafodipir : mesure de la captation de manganèse dans l'insuffisance cardiaque à FEVG préservée",
+ "question": "L'IRM cardiaque au mangafodipir permet-elle de quantifier la captation myocardique de manganèse chez des patients avec insuffisance cardiaque à FEVG préservée (cardiomyopathie hypertrophique ou amylose cardiaque) par rapport à des volontaires sains ?",
+ "contexte": "Plus de la moitié des insuffisances cardiaques ont une fraction d'éjection préservée (ICFEp). Elle est liée à une rigidité de la paroi ventriculaire, qui altère le remplissage, avec une fibrose de remplacement et une fibrose interstitielle, ainsi qu'une anomalie du maniement du calcium dans les cardiomyocytes. Les produits de contraste actuels, à base de gadolinium, détectent surtout la perte cellulaire (fibrose de remplacement) ; le volume extracellulaire renseigne sur la fibrose interstitielle.\n\nLe mangafodipir trisodique est un agent de contraste intracellulaire à base de manganèse. Le manganèse entre dans les cardiomyocytes par les canaux calciques : son taux de captation pourrait refléter la fonction cellulaire indépendamment de la fibrose. Cette étude de phase 2 de preuve de concept, ouverte, monocentrique et non randomisée, réalise chez chaque participant une IRM au gadolinium puis une IRM au mangafodipir. Elle inclut 44 participants : des patients avec ICFEp liée à une cardiomyopathie hypertrophique, des patients avec amylose cardiaque et des volontaires sains.",
+ "interet": "Une mesure de la fonction cellulaire myocardique pourrait affiner le diagnostic, la sélection des patients et le suivi des traitements dans l'ICFEp, et fournir une alternative au gadolinium. Il s'agit à ce stade d'une étude de faisabilité d'imagerie.",
+ "profil": "Des adultes de 18 à 90 ans avec ICFEp liée à une cardiomyopathie hypertrophique ou à une amylose cardiaque, et des volontaires sains.",
+ "inclusion": [
+  "Consentement signé",
+  "Âge de 18 à 90 ans (femmes ménopausées ou stérilisées)",
+  "ICFEp (FEVG supérieure à 50 %), classe NYHA I à III, avec dysfonction diastolique ou peptides natriurétiques élevés",
+  "Cardiomyopathie hypertrophique ou amylose cardiaque selon les recommandations",
+  "DFG estimé supérieur à 30 mL/min/1,73 m²",
+  "Volontaires sains sans pathologie connue"
+ ],
+ "exclusion": [
+  "Tachycardie (fréquence supérieure à 100/min) ou NYHA IV",
+  "Coronaropathie ayant nécessité une intervention, infarctus ou réduction septale",
+  "Insuffisance rénale sévère ou insuffisance hépatique de classe Child-Pugh C",
+  "Phéochromocytome, cancer avancé, diabète",
+  "Valvulopathie sévère, chirurgie cardiaque antérieure, assistance ventriculaire",
+  "Allergie aux produits à base de gadolinium ou au mangafodipir",
+  "Contre-indication à l'IRM, dont dispositif cardiaque implanté",
+  "Femme en âge de procréer"
+ ],
+ "bras": [
+  {
+   "nom": "ICFEp avec cardiomyopathie hypertrophique",
+   "traitement": "IRM cardiaque avec gadotérate, puis IRM avec injection intraveineuse de mangafodipir trisodique"
+  },
+  {
+   "nom": "ICFEp avec amylose cardiaque",
+   "traitement": "Mêmes deux IRM, au gadotérate puis au mangafodipir"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Mêmes deux IRM, au gadotérate puis au mangafodipir"
+  }
+ ],
+ "duree": "Deux visites d'imagerie, plus appel de suivi à 24 heures",
+ "critere": "Taux de captation du manganèse après mangafodipir dans tous les segments de la paroi du ventricule gauche, mesuré par IRM dans les 60 à 90 minutes suivant l'injection."
+}

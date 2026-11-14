@@ -1,0 +1,33 @@
+{
+ "h": "76238f4b88cb",
+ "date": "2026-11-14",
+ "titre": "I-FABP plasmatique comme marqueur de l'atteinte digestive de la vascularite à IgA de l'enfant",
+ "question": "Le taux plasmatique d'I-FABP est-il associé à l'atteinte digestive chez les enfants ayant une vascularite à IgA ?",
+ "contexte": "La vascularite à IgA (purpura rhumatoïde, ou maladie de Henoch-Schönlein) est la vascularite la plus fréquente de l'enfant. Elle associe purpura, arthralgies, atteinte rénale et atteinte digestive. L'atteinte digestive (douleurs abdominales, hémorragies, invagination) peut précéder le purpura et conduire à des examens invasifs ou à des traitements corticoïdes.\n\nLa protéine intestinale de liaison des acides gras (I-FABP) est libérée dans le sang par les entérocytes lésés, et sert de marqueur de souffrance de la muqueuse intestinale dans d'autres affections. Cette étude observationnelle prospective de l'hôpital municipal de Bursa (Turquie) inclut 100 enfants de 2 à 18 ans répondant aux critères EULAR/PRINTO/PRES. Le plasma est prélevé au diagnostic puis à 2 à 4 semaines, et l'I-FABP est dosée. Les enfants avec et sans atteinte digestive sont comparés sur les données cliniques, biologiques et l'I-FABP. Aucun médicament ou dispositif expérimental n'est administré.",
+ "interet": "Si l'I-FABP est liée à l'atteinte digestive, elle pourrait aider à repérer les enfants à risque de forme digestive sans examen invasif.",
+ "profil": "Des enfants de 2 à 18 ans ayant une vascularite à IgA, avec ou sans atteinte digestive.",
+ "inclusion": [
+  "Vascularite à IgA selon les critères EULAR/PRINTO/PRES",
+  "Âge de 2 à 18 ans",
+  "Prélèvement sanguin possible au diagnostic",
+  "Visite de suivi prévue 2 à 4 semaines après le diagnostic",
+  "Consentement écrit des parents ou du représentant légal"
+ ],
+ "exclusion": [
+  "Refus de consentement des parents",
+  "Prélèvement initial impossible",
+  "Suivi impossible à compléter"
+ ],
+ "bras": [
+  {
+   "nom": "Avec atteinte digestive",
+   "traitement": "Enfants avec vascularite à IgA et atteinte digestive : dosage plasmatique de l'I-FABP"
+  },
+  {
+   "nom": "Sans atteinte digestive",
+   "traitement": "Enfants avec vascularite à IgA sans atteinte digestive : dosage plasmatique de l'I-FABP"
+  }
+ ],
+ "duree": "2 à 4 semaines (deux prélèvements)",
+ "critere": "Taux plasmatique d'I-FABP au diagnostic et lors du suivi à 2 à 4 semaines"
+}

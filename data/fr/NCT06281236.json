@@ -1,0 +1,32 @@
+{
+ "h": "a43373577228",
+ "date": "2026-11-14",
+ "titre": "SPI-62 et prednisolone dans la pseudo-polyarthrite rhizomélique (phase 1b)",
+ "question": "Quelles sont la pharmacodynamie et la pharmacocinétique de l'association SPI-62 et prednisolone dans la PPR ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique (PPR) est un rhumatisme inflammatoire du sujet âgé traité par corticothérapie prolongée, dont les effets indésirables sont importants. L'enjeu est de maintenir le contrôle de la maladie avec des doses plus faibles.\n\nLe SPI-62 est un inhibiteur de la 11β-HSD1, enzyme qui régénère le cortisol actif dans les tissus. Il pourrait potentialiser l'effet de la prednisolone, permettant d'en réduire la dose. Sparrow a mené une phase 2 sur cette association (NCT05436652).\n\nCette phase 1b ouverte devait inclure jusqu'à 24 patients en rémission sous prednisolone stable de 10 à 20 mg/j. Ils recevaient le SPI-62 du jour 3 au jour 16, avec mesure des biomarqueurs inflammatoires, des symptômes, de la toxicité des corticoïdes (dont la tension ambulatoire) et de la pharmacocinétique. L'étude a été arrêtée après un seul patient.",
+ "interet": "L'arrêt précoce ne permet aucune conclusion ; l'étude s'inscrit dans le développement d'une stratégie d'épargne cortisonique dans la PPR.",
+ "profil": "Des adultes avec PPR en rémission sous prednisolone stable.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PPR selon les critères EULAR/ACR, confirmée par un rhumatologue",
+  "Absence de rechute (symptômes et marqueurs inflammatoires)",
+  "Prednisolone orale à 10, 12,5, 15, 17,5 ou 20 mg/j, stable depuis ≥ 7 jours",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Contre-indication à la prednisolone",
+  "Artérite à cellules géantes ou signes cliniques évocateurs",
+  "Autre maladie auto-immune que la PPR",
+  "Autre traitement de la PPR que la prednisolone orale",
+  "Hypercortisolisme endogène",
+  "Toute situation ou traitement interférant avec l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Prednisolone + SPI-62",
+   "traitement": "Prednisolone poursuivie ; SPI-62 du jour 3 au jour 16"
+  }
+ ],
+ "duree": "Environ 4 semaines (mesures aux jours 2, 3 et 16)",
+ "critere": "Variation de la vitesse de sédimentation, de la CRP et du fibrinogène plasmatique entre l'inclusion et le jour 28."
+}

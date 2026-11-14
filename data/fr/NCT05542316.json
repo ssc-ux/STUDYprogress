@@ -1,0 +1,28 @@
+{
+ "h": "8f32db13b667",
+ "date": "2026-11-14",
+ "titre": "Validation du score d'activité de la PPR et évolution des critères rapportés par les patients",
+ "question": "Le score d'activité de la pseudo-polyarthrite rhizomélique (PMR-AS) discrimine-t-il bien la rémission de la maladie active, et quel seuil retenir ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique (PPR) est une maladie inflammatoire du sujet âgé, avec douleurs et raideur matinale des ceintures scapulaire et pelvienne et du cou. Les corticoïdes en sont le traitement de base, et les adaptations de doses reposent sur les symptômes et les marqueurs inflammatoires, dont l'interprétation est parfois difficile quand ils divergent.\n\nLe score d'activité de la PPR de Leeb et Bird (2004) combine cinq éléments : durée de la raideur matinale, capacité d'élever les bras, évaluation globale du médecin, douleur et CRP. Ses propriétés de mesure sont peu documentées et aucun seuil optimal ne fait consensus. L'OMERACT retient comme noyau : marqueurs inflammatoires, douleur, raideur et fonction physique.\n\nCette étude observationnelle prospective de la KU Leuven suit 133 patients atteints de PPR récente pendant 12 mois, avec visites à 8, 16, 26 et 52 semaines. Elle détermine le seuil optimal du score pour distinguer rémission et maladie active et décrit l'évolution des critères rapportés par les patients (HAQ-DI, SF-36, échelle d'impact de la PPR, fatigue).",
+ "interet": "Elle pourrait établir un seuil validé du score d'activité de la PPR, utile pour harmoniser le suivi en pratique et dans les essais.",
+ "profil": "Des adultes de 50 ans et plus avec une PPR récemment diagnostiquée.",
+ "inclusion": [
+  "PPR diagnostiquée par un clinicien expérimenté de médecine interne ou de rhumatologie, selon l'ensemble des éléments cliniques, biologiques, radiologiques et TEP",
+  "Capable de donner son consentement",
+  "Comprend et écrit le néerlandais, l'anglais ou le français",
+  "Âge ≥ 50 ans"
+ ],
+ "exclusion": [
+  "Artérite à cellules géantes associée (nouveau diagnostic ou traitée)",
+  "Polyarthrite rhumatoïde, autre arthrite inflammatoire ou autre connectivite associée",
+  "Corticoïdes ou immunosuppresseurs pour une autre indication"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec diagnostic final de PPR",
+   "traitement": "Suivi et traitement habituels, visites à 8, 16, 26 et 52 semaines"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Sensibilité, spécificité et seuil optimal du score d'activité de la PPR pour distinguer rémission et maladie active, à 52 semaines."
+}

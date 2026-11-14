@@ -1,0 +1,32 @@
+{
+ "h": "af0263369e79",
+ "date": "2026-11-14",
+ "titre": "CAR-T LCAR-AIO dans le lupus érythémateux systémique en rechute ou réfractaire",
+ "question": "Le CAR-T LCAR-AIO est-il sûr et tolérable chez des adultes atteints de lupus en rechute ou réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie auto-immune où les lymphocytes B et les plasmocytes produisent des auto-anticorps responsables d'atteintes rénales, cutanées, articulaires et neurologiques. Une partie des patients reste en échec ou rechute malgré l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et les biothérapies.\n\nLes thérapies par cellules CAR-T déplétent profondément les lymphocytes B et pourraient induire des rémissions prolongées. Des séries de cas ont rapporté de telles rémissions avec des CAR-T anti-CD19 dans le lupus réfractaire. Cette étude de phase 1, ouverte et à bras unique, est menée en Chine à l'hôpital Union de Wuhan avec Legend Biotech. Le registre ne précise pas la cible du LCAR-AIO. Après aphérèse et lymphodéplétion, les patients reçoivent une perfusion unique de cellules, en escalade puis en expansion de dose. Seuls 3 patients ont été inclus.",
+ "interet": "Étude exploratoire sur un très petit effectif : elle apporte des données de tolérance préliminaires et ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus en rechute ou réfractaire.",
+ "inclusion": [
+  "Participation volontaire",
+  "Âge de 18 à 65 ans",
+  "Lupus diagnostiqué depuis au moins 6 mois",
+  "Anticorps antinucléaires, anti-ADN natif ou anti-Sm positifs",
+  "Lupus en rechute ou réfractaire",
+  "Fonction d'organe et biologie adéquates"
+ ],
+ "exclusion": [
+  "Infection active (hépatite, tuberculose)",
+  "Autre maladie auto-immune",
+  "Maladie sous-jacente grave (tumeur, diabète non contrôlé)",
+  "Grossesse, allaitement ou projet de grossesse dans l'année suivant le traitement",
+  "Participation à un autre essai clinique"
+ ],
+ "bras": [
+  {
+   "nom": "LCAR-AIO",
+   "traitement": "Perfusion unique de cellules CAR-T LCAR-AIO après chimiothérapie de lymphodéplétion, à chaque niveau de dose"
+  }
+ ],
+ "duree": "Au moins 104 semaines après la perfusion",
+ "critere": "Incidence, sévérité et type des événements indésirables, toxicités limitant la dose à 30 jours, pharmacocinétique et dose recommandée pour la phase 2, sur au moins 104 semaines."
+}

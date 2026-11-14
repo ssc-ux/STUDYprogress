@@ -1,0 +1,29 @@
+{
+ "h": "b3a723a43126",
+ "date": "2026-11-14",
+ "titre": "Chirurgie ou traitement médical des sténoses de l'aorte descendante dans la maladie de Takayasu",
+ "question": "La chirurgie ou l'angioplastie améliore-t-elle la survie des patients atteints de maladie de Takayasu avec sténose sévère de l'aorte descendante ?",
+ "contexte": "La maladie de Takayasu est une artérite des grosses artères qui touche l'aorte et ses branches. Les sténoses de l'aorte thoracique descendante et abdominale peuvent causer une hypertension non contrôlée, une insuffisance cardiaque, une ischémie rénale ou des claudications.\n\nLe traitement médical associe corticoïdes, immunosuppresseurs et biothérapies. Le traitement chirurgical ou endovasculaire des sténoses sévères est souvent proposé, mais son bénéfice sur le pronostic à long terme n'est pas démontré.\n\nCette étude cas-témoins rétrospective de l'hôpital Peking Union Medical College compare, de 2004 à 2025, 78 patients opérés (chirurgie ouverte ou traitement interventionnel) à des patients traités de façon conservatrice. Le suivi va de 3 à 11 ans après la sortie ou jusqu'au décès.",
+ "interet": "Elle pourrait appuyer, à partir de données d'un grand centre de référence, l'indication d'une revascularisation des sténoses aortiques symptomatiques, avec la réserve des biais d'une étude rétrospective.",
+ "profil": "Des adultes atteints de maladie de Takayasu avec sténose sévère symptomatique de l'aorte thoracique descendante ou abdominale.",
+ "inclusion": [
+  "Maladie de Takayasu selon les critères ACR 1990",
+  "Au moins un site de sténose sévère de l'aorte thoracique descendante ou abdominale",
+  "Symptômes liés à la sténose (hypertension non contrôlée, insuffisance cardiaque, ischémie rénale, vertiges, troubles visuels, claudication)"
+ ],
+ "exclusion": [
+  "Sténose artérielle d'une autre cause (athérosclérose typique, coarctation congénitale, anomalie anatomique)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe chirurgical",
+   "traitement": "Chirurgie ouverte ou traitement interventionnel"
+  },
+  {
+   "nom": "Groupe conservateur",
+   "traitement": "Traitement médical sans geste de revascularisation"
+  }
+ ],
+ "duree": "Suivi de 3 à 11 ans après la sortie ou jusqu'au décès",
+ "critere": "Mortalité toutes causes, de la sortie jusqu'à la fin de l'étude (3 à 11 ans) ou au décès"
+}

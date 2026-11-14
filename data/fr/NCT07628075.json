@@ -1,0 +1,36 @@
+{
+ "h": "cb3ab7dc599f",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM au FDG à champ de vue axial long dans les vascularites des gros vaisseaux (LAVA-FLOW)",
+ "question": "Quel protocole standardisé de TEP/TDM au [18F]FDG à champ de vue axial long, associé à une angiographie, permet le mieux d'imager les vascularites des gros vaisseaux ?",
+ "contexte": "Les vascularites des gros vaisseaux (artérite à cellules géantes et maladie de Takayasu) sont des maladies inflammatoires auto-immunes de l'aorte et de ses branches. Le diagnostic et le suivi sont difficiles, car les symptômes sont souvent peu spécifiques et les critères diagnostiques variés. Les corticoïdes et immunosuppresseurs ont des effets indésirables importants et doivent être utilisés à bon escient.\n\nLa TEP/TDM au [18F]FDG est déjà utilisée pour détecter l'inflammation de la paroi vasculaire, mais son interprétation repose surtout sur une lecture visuelle. Sa résolution spatiale limitée, l'irradiation et la durée d'examen en limitent l'usage pour les petits vaisseaux et les coronaires. Les nouveaux scanners à champ de vue axial long (LAFOV) offrent plus de sensibilité, permettent des examens plus rapides ou des doses réduites, et une acquisition dynamique du corps entier dès l'injection. LAVA-FLOW, promu par l'Imperial College London dans trois centres britanniques, associe la TEP LAFOV à un angioscanner chez 18 patients, avec TEP LAFOV et angio-IRM chez des volontaires sains, afin de définir un protocole standardisé.",
+ "interet": "L'étude doit préparer des essais plus larges pour améliorer les critères diagnostiques et le suivi de l'activité des vascularites des gros vaisseaux.",
+ "profil": "Des adultes avec une vascularite des gros vaisseaux récemment diagnostiquée, et des volontaires sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans, performance status OMS 0 à 2",
+  "Vascularite des gros vaisseaux récente (critères ACR/EULAR 2022 ou imagerie standard)",
+  "Débit de filtration glomérulaire ≥ 30 mL/min/1,73 m² en cas d'insuffisance rénale, de diabète ou de greffe rénale",
+  "Consentement signé",
+  "Volontaires sains : 3 de moins de 50 ans et 3 de 50 ans et plus"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Claustrophobie ou intolérance à l'examen",
+  "Allergie aux produits de contraste iodés",
+  "Corticoïdes débutés plus de 7 jours avant le traceur",
+  "Diabète mal contrôlé (glycémie > 11 mmol/L)",
+  "Volontaires sains : contre-indication à l'IRM, tabagisme, maladie rénale, diabète, fibrillation atriale, polyarthrite, lupus, poids ≥ 75 kg, imagerie irradiante dans les 12 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec vascularite des gros vaisseaux",
+   "traitement": "TEP/TDM LAFOV au [18F]FDG et angioscanner"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "TEP/TDM LAFOV au [18F]FDG et angio-IRM"
+  }
+ ],
+ "duree": "Un examen d'imagerie par participant",
+ "critere": "Localisation de la fixation du [18F]FDG en TEP LAFOV chez les patients et les témoins, 60 à 70 minutes après l'injection"
+}

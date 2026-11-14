@@ -1,0 +1,25 @@
+{
+ "h": "ff9eb91e3893",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM au 18F-FDG et score BVAS v3 pour l'activité de la granulomatose avec polyangéite",
+ "question": "Le TEP/TDM au 18F-FDG détecte-t-il l'activité de la granulomatose avec polyangéite et reflète-t-il le score BVAS v3 ?",
+ "contexte": "La granulomatose avec polyangéite (GPA) est une vascularite associée aux ANCA, qui touche les voies aériennes, les poumons et les reins. L'évaluation de l'activité repose sur le score clinique BVAS v3, la biologie et l'imagerie conventionnelle, qui distinguent mal l'activité inflammatoire des séquelles.\n\nLe TEP/TDM au 18F-FDG visualise l'inflammation sur tout le corps. Il pourrait fournir une mesure objective de l'étendue et de l'activité de la maladie, mais sa sensibilité et sa corrélation avec les scores cliniques restent à préciser dans la GPA.\n\nCette étude observationnelle de l'institut PGIMER de Chandigarh (Inde) a inclu 31 adultes atteints de GPA active, récente ou en rechute. Le BVAS v3 est calculé, puis un TEP/TDM est réalisé. Des paramètres semi-quantitatifs sont mesurés par des médecins nucléaires, puis leur sensibilité et leur corrélation avec le BVAS v3 sont calculées.",
+ "interet": "Elle pourrait préciser la place du TEP/TDM au 18F-FDG pour évaluer l'activité de la GPA, notamment en cas de doute clinique sur une rechute.",
+ "profil": "Des adultes atteints de GPA active, nouvellement diagnostiquée ou en rechute.",
+ "inclusion": [
+  "GPA active, nouvellement diagnostiquée ou en rechute",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Refus de consentir"
+ ],
+ "bras": [
+  {
+   "nom": "GPA active",
+   "traitement": "TEP/TDM au 18F-FDG après évaluation clinique et calcul du BVAS v3"
+  }
+ ],
+ "duree": "Une seule évaluation, à l'inclusion",
+ "critere": "Sensibilité par patient du TEP/TDM au 18F-FDG pour la GPA active et corrélation de ses paramètres semi-quantitatifs avec le BVAS v3, à l'inclusion"
+}

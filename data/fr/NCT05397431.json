@@ -1,0 +1,24 @@
+{
+ "h": "6d4f533b60da",
+ "date": "2026-11-14",
+ "titre": "Enquête de sécurité du lanadelumab dans l'angiœdème héréditaire au Japon",
+ "question": "Quelle est la tolérance du lanadelumab à 12 mois chez des patients japonais avec angiœdème héréditaire (AOH) ?",
+ "contexte": "L'angiœdème héréditaire est une maladie rare causée par un déficit en inhibiteur de la C1 estérase, avec des crises d'œdème imprévisibles pouvant toucher le larynx. Le traitement de fond prophylactique a pour but de réduire la fréquence et la gravité des crises.\n\nLe lanadelumab est un anticorps monoclonal anti-kallicréine plasmatique, administré par voie sous-cutanée à 300 mg toutes les 2 semaines. Il a montré une réduction importante des crises dans l'essai HELP, mais les données de sécurité dans la population japonaise après commercialisation sont limitées.\n\nCette enquête observationnelle de Takeda, menée en pratique courante au Japon (157 patients), est une étude de surveillance après commercialisation. Le promoteur ne dirige pas la prise en charge : il fournit seulement les consignes de recueil. Les événements indésirables sont recueillis pendant 12 mois chez des patients recevant le lanadelumab pour la première fois.",
+ "interet": "Elle précise le profil de tolérance du lanadelumab en vie réelle au Japon et complète les données d'efficacité de l'essai pivot.",
+ "profil": "Des patients japonais avec AOH recevant le lanadelumab pour la première fois.",
+ "inclusion": [
+  "Diagnostic d'AOH",
+  "Première prescription de lanadelumab"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Lanadelumab",
+   "traitement": "Lanadelumab 300 mg par voie sous-cutanée toutes les 2 semaines, selon la pratique du centre"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Nombre de participants avec au moins un événement indésirable apparu sous traitement, sur 12 mois."
+}

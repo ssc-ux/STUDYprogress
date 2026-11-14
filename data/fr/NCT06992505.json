@@ -1,0 +1,30 @@
+{
+ "h": "f50245795417",
+ "date": "2026-11-14",
+ "titre": "Syndrome d'activation macrophagique dans la maladie de Still en Italie : analyse rétrospective de dossiers (AMETISTA)",
+ "question": "Comment évoluent et sont traités en Italie les syndromes d'activation macrophagique (SAM) réfractaires aux corticoïdes chez les patients atteints de maladie de Still ?",
+ "contexte": "La maladie de Still (forme systémique de l'arthrite juvénile, ou de l'adulte) est une maladie auto-inflammatoire associant fièvre, éruption, arthrite et hyperferritinémie. Sa complication la plus grave est le syndrome d'activation macrophagique (SAM), forme secondaire de lymphohistiocytose hémophagocytaire, avec cytopénies, atteinte hépatique, coagulopathie et défaillance d'organes. La mortalité est significative.\n\nLe traitement initial repose sur de fortes doses de corticoïdes ; en cas d'échec, on a recours à la ciclosporine, aux anti-IL-1 (anakinra), aux inhibiteurs de JAK ou à d'autres agents, sans consensus clair ni essai comparatif. Cette étude rétrospective de cohorte, promue par Swedish Orphan Biovitrum, repose uniquement sur l'abstraction de dossiers médicaux en Italie. Elle concerne 32 patients ayant eu un SAM entre 2012 et 2022, après au moins 3 jours de corticoïdes ou jugés réfractaires. Elle décrit la survie, le délai de normalisation biologique, la rémission du SAM, la réduction des corticoïdes, les récidives, le recours aux soins de support et les traitements.",
+ "interet": "Ces données de vie réelle précisent la prise en charge et l'évolution des SAM réfractaires aux corticoïdes dans la maladie de Still, où les données publiées sont rares.",
+ "profil": "Des patients de 6 mois à 80 ans atteints de maladie de Still avec un SAM réfractaire aux corticoïdes, en Italie.",
+ "inclusion": [
+  "Âge de plus de 6 mois et jusqu'à 80 ans au début de l'épisode de SAM",
+  "Maladie de Still (forme systémique juvénile ou de l'adulte)",
+  "SAM diagnostiqué par le médecin traitant",
+  "Au moins 3 jours consécutifs de corticoïdes après le diagnostic, ou jugé réfractaire aux corticoïdes",
+  "Début de l'épisode entre le 1er janvier 2012 et le 30 septembre 2022",
+  "Consentement ou dérogation selon la réglementation locale"
+ ],
+ "exclusion": [
+  "Lymphohistiocytose hémophagocytaire primaire avant l'épisode",
+  "Cancer confirmé avant l'épisode de SAM",
+  "Traitement expérimental dans un essai pendant l'épisode"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients avec SAM réfractaire aux corticoïdes",
+   "traitement": "Étude rétrospective sur dossiers, sans évaluation supplémentaire"
+  }
+ ],
+ "duree": "Données de 2012 à 2022, suivi des épisodes jusqu'à 24 à 26 semaines",
+ "critere": "Survie globale, délai de normalisation biologique et de rémission du SAM (jusqu'à 24 semaines), délai de réduction des corticoïdes, récidives, soins de support et caractéristiques du traitement."
+}

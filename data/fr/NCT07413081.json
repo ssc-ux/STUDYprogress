@@ -1,0 +1,36 @@
+{
+ "h": "ce113a4fb66f",
+ "date": "2026-11-14",
+ "titre": "Augmentation de la fréquence de base du pacemaker dans l'amylose cardiaque ATTR",
+ "question": "Programmer la fréquence de base d'un stimulateur cardiaque à 80/min plutôt qu'à 60/min améliore-t-il la qualité de vie et la capacité fonctionnelle des patients ayant une amylose cardiaque ATTR ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) épaissit et rigidifie le myocarde. Le volume d'éjection systolique est bas et fixe, si bien que le débit cardiaque dépend fortement de la fréquence cardiaque. Les troubles de conduction sont fréquents et une part importante des patients reçoit un stimulateur cardiaque.\n\nLes traitements spécifiques (stabilisateurs et silenceurs de la transthyrétine) ralentissent la progression, mais aucune donnée ne guide le réglage du stimulateur dans cette maladie. Dans l'insuffisance cardiaque à fraction d'éjection préservée, une fréquence de base plus élevée a amélioré la capacité fonctionnelle et la qualité de vie, mais les patients atteints d'amylose étaient exclus de ces travaux. La pratique actuelle repose donc sur l'extrapolation et l'avis d'experts. PACE-ATTR est un essai randomisé multicentrique en double aveugle, avec plan croisé 2x2, promu par la région Skåne (Suède) dans 9 centres de 2 pays.",
+ "interet": "L'essai pourrait fournir une première preuve pour optimiser le réglage du stimulateur chez les patients atteints d'ATTR-CM, sans nouveau dispositif ni nouveau médicament.",
+ "profil": "Des adultes ayant une amylose cardiaque ATTR et un stimulateur déjà implanté, en classe NYHA II-III.",
+ "inclusion": [
+  "ATTR-CM prouvée (biopsie, ou scintigraphie grade 2-3 sans composant monoclonal, avec atteinte cardiaque en IRM ou échographie)",
+  "Traitement par stabilisateur ou silenceur en cours, ou non candidat à ces traitements",
+  "Classe NYHA II-III et NT-proBNP > 600 ng/L",
+  "Stimulateur déjà implanté, avec stimulation > 80 % et fréquence de base de 60/min",
+  "Âge ≥ 18 ans et consentement écrit"
+ ],
+ "exclusion": [
+  "Incapacité à réaliser le test de marche de 6 minutes",
+  "Revascularisation, ablation de flutter ou de fibrillation atriale, ou valvulopathie sévère nécessitant une intervention",
+  "Infarctus, angor instable, hospitalisation pour insuffisance cardiaque ou resynchronisation dans les 12 semaines",
+  "Mise à niveau prévue vers une resynchronisation ou une stimulation de la branche gauche",
+  "Espérance de vie < 1 an ou inscription sur liste de greffe cardiaque",
+  "Début d'un iSGLT2 ou d'un antagoniste minéralocorticoïde dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "80/min",
+   "traitement": "Fréquence de base du stimulateur programmée à 80/min"
+  },
+  {
+   "nom": "60/min",
+   "traitement": "Réglage standard à 60/min"
+  }
+ ],
+ "duree": "Environ 7 mois (deux périodes de traitement d'environ 3 mois, en plan croisé)",
+ "critere": "Score du questionnaire Minnesota Living with Heart Failure (MLHFQ) à la fin de chaque période de traitement (environ 3 et 7 mois)"
+}

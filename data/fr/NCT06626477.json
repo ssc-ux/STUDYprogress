@@ -1,0 +1,37 @@
+{
+ "h": "1b9bdac719c3",
+ "date": "2026-11-14",
+ "titre": "Stimulation mécanique intranasale (INMEST) à domicile dans le syndrome de Sjögren",
+ "question": "Un dispositif de stimulation mécanique intranasale améliore-t-il la sécrétion lacrymale (test de Schirmer) des patients atteints de syndrome de Sjögren ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune chronique qui touche surtout les femmes de plus de 40 ans. Elle se manifeste par une sécheresse oculaire et buccale, souvent associée à une fatigue et à des douleurs. Il n'existe pas de traitement de fond validé : la prise en charge est symptomatique (larmes artificielles, sialagogues, immunosuppresseurs dans les formes systémiques).\n\nLa stimulation mécanique intranasale (INMEST) vise à stimuler les nerfs de la muqueuse nasale pour déclencher une sécrétion lacrymale réflexe, via le réflexe naso-lacrymal. Le dispositif Walther, développé par Abilion Medical Systems, s'utilise à domicile. Cette étude pilote randomisée, en double aveugle et en cross-over, a été menée dans un centre suédois sur 26 patients. Pendant 6 semaines, les patients reçoivent le dispositif actif ou un dispositif factice, puis tous reçoivent le dispositif actif pendant 6 semaines. L'utilisation est de 3 fois par semaine, 10 minutes par narine.",
+ "interet": "Un effet objectif sur la sécrétion lacrymale offrirait une option non médicamenteuse pour la sécheresse oculaire du Sjögren. Il s'agit d'une étude pilote de petite taille, centrée sur la sécurité et la performance du dispositif.",
+ "profil": "Des adultes atteints de syndrome de Sjögren avec sécheresse oculaire objective.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Test de Schirmer de 5 mm ou moins aux deux yeux",
+  "Temps de rupture du film lacrymal (NIBUT) de 10 s ou moins aux deux yeux",
+  "Anticorps anti-Ro (SS-A) ou anti-La (SS-B) positifs antérieurement",
+  "Consentement et suivi prévu des visites",
+  "Contraception fiable pour les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Chirurgie nasale, sinusienne ou oculaire dans les 12 mois",
+  "Affection oculaire ou respiratoire pouvant fausser l'évaluation (infection active, glaucome, rétinopathie diabétique)",
+  "Incapacité cognitive ou barrière linguistique",
+  "Maladie sévère interférant avec l'étude",
+  "Autre produit ou dispositif expérimental dans les 30 jours",
+  "Grossesse, allaitement ou projet de grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Actif puis actif",
+   "traitement": "Dispositif INMEST actif pendant 6 semaines, puis dispositif actif en ouvert pendant 6 semaines"
+  },
+  {
+   "nom": "Factice puis actif",
+   "traitement": "Dispositif factice pendant 6 semaines, puis dispositif INMEST actif en ouvert pendant 6 semaines"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation du test de Schirmer entre l'inclusion et la semaine 6."
+}

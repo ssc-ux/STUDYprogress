@@ -1,0 +1,37 @@
+{
+ "h": "42df9f1c80c4",
+ "date": "2026-11-14",
+ "titre": "RISAPS : rivaroxaban versus warfarine après un AVC dans le syndrome des antiphospholipides",
+ "question": "Le rivaroxaban à haute intensité (15 mg deux fois par jour) est-il non inférieur à la warfarine (INR cible 3,5) pour limiter l'atteinte cérébrale ischémique chez des patients ayant un syndrome des antiphospholipides (SAPL) et un AVC ou une atteinte ischémique cérébrale ?",
+ "contexte": "Le syndrome des antiphospholipides est une maladie auto-immune thrombotique, isolée ou associée au lupus. Après un AVC ischémique, le traitement standard est un antivitamine K à intensité élevée, ici une warfarine à INR cible 3 à 4. Elle est contraignante : effet variable chez ces patients, contrôles d'INR fréquents (souvent hebdomadaires) et interactions médicamenteuses et alimentaires.\n\nL'essai RAPS avait suggéré que le rivaroxaban pouvait être une alternative à la warfarine chez des patients SAPL avec thrombose veineuse et anticoagulation d'intensité standard. Les anticoagulants oraux directs ont toutefois été associés à plus d'événements artériels chez les patients triple positifs, d'où l'exclusion de ceux-ci ici. RISAPS est un essai de phase IIb ouvert de non-infériorité, de preuve de principe, promu par University College London. Il randomise environ 40 patients, 43 inclus, entre rivaroxaban et warfarine sur 24 mois. Le critère est un substitut d'imagerie, la progression du volume d'hypersignaux de la substance blanche en IRM.",
+ "interet": "Si le rivaroxaban est non inférieur, il pourrait devenir une alternative plus simple à la warfarine après AVC ou atteinte cérébrale ischémique dans le SAPL non triple positif. L'effectif réduit et le critère de substitution imposent une confirmation par un essai plus large. Aucun résultat n'est disponible dans le registre.",
+ "profil": "Des adultes ayant un SAPL persistant (hors triple positifs), avec AVC, AIT avec lésion ischémique ou hypersignaux de substance blanche, nécessitant une anticoagulation intense.",
+ "inclusion": [
+  "Anticorps antiphospholipides persistants à au moins 12 semaines d'intervalle",
+  "AVC ischémique, AIT avec lésion IRM, ou infarctus ou hypersignaux de substance blanche d'origine vasculaire présumée",
+  "Avis d'expert favorable à l'anticoagulation",
+  "Poids de 50 à 135 kg",
+  "Contraception efficace chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Triple positivité aux anticorps antiphospholipides",
+  "Grossesse ou allaitement",
+  "Clairance de la créatinine < 30 mL/min, ALAT > 3 N, cirrhose Child-Pugh B ou C, plaquettes < 75 G/L",
+  "Non-observance de la warfarine",
+  "Interactions fortes CYP3A4/P-gp (azolés, inhibiteurs de protéase, inducteurs puissants, dronédarone)",
+  "Contre-indication à l'IRM, risque hémorragique élevé, allergie à la warfarine ou au rivaroxaban",
+  "Cancer actif dans les 2 ans"
+ ],
+ "bras": [
+  {
+   "nom": "Rivaroxaban",
+   "traitement": "Rivaroxaban 15 mg deux fois par jour par voie orale pendant 24 mois"
+  },
+  {
+   "nom": "Warfarine",
+   "traitement": "Warfarine avec INR cible 3,5 (3,0 à 4,0) pendant 24 mois"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Vitesse de variation du volume d'hypersignaux de la substance blanche en IRM cérébrale entre l'inclusion et 24 mois"
+}

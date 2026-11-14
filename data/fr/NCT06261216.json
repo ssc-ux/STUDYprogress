@@ -1,0 +1,38 @@
+{
+ "h": "5742314dba1e",
+ "date": "2026-11-14",
+ "titre": "Activité physique tout au long de la vie et amylose cardiaque à TTR sauvage",
+ "question": "Une activité physique intense au cours de la vie est-elle associée à la survenue d'une cardiomyopathie amyloïde à transthyrétine de type sauvage ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine de type sauvage (wtATTR-CM) est la forme d'amylose la plus fréquente, liée à l'âge, et une cause sous-diagnostiquée d'hypertrophie ventriculaire gauche, de sténose aortique et d'insuffisance cardiaque à fraction d'éjection préservée du sujet âgé. En dehors de l'âge et du sexe masculin, ses facteurs de risque sont mal connus.\n\nDes observations cliniques rapportent que de nombreux patients ont un long passé sportif, ce qui suggère que l'activité physique, par la contrainte mécanique sur le cœur, pourrait contribuer à l'apparition de la maladie. Cette hypothèse n'a pas été testée de façon systématique.\n\nCette étude observationnelle de l'Université médicale de Graz (180 participants) compare par questionnaire et entretien l'activité physique passée (en MET, de la 3e à la 6e décennie) de patients wtATTR-CM, de patients avec insuffisance cardiaque d'autre origine et de témoins sains, et explore le rôle de certains sports.",
+ "interet": "Elle pourrait identifier l'activité physique comme facteur de risque ou facteur associé de la wtATTR-CM, sans remettre en cause ses bénéfices généraux sur la santé.",
+ "profil": "Des adultes de plus de 60 ans avec wtATTR-CM, insuffisance cardiaque d'autre origine, ou témoins sans cardiopathie.",
+ "inclusion": [
+  "Âge > 60 ans",
+  "wtATTR-CM confirmée avec séquençage du gène TTR, ou insuffisance cardiaque, ou témoin sans cardiopathie",
+  "Premier diagnostic après la 6e décennie",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Maladie chronique sévère ayant limité l'activité physique entre 30 et 60 ans",
+  "Démence ou trouble cognitif",
+  "Impossibilité de répondre au questionnaire ou à l'entretien",
+  "Variant pathogène connu du gène TTR",
+  "Témoins : cardiomyopathie, insuffisance cardiaque, coronaropathie significative, valvulopathie, hypertrophie ≥ 15 mm, arythmie ou trouble de conduction, arrêt cardiaque"
+ ],
+ "bras": [
+  {
+   "nom": "wtATTR-CM",
+   "traitement": "Entretien et questionnaire sur l'activité physique passée"
+  },
+  {
+   "nom": "Insuffisance cardiaque",
+   "traitement": "Même entretien"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Même entretien"
+  }
+ ],
+ "duree": "Un entretien (activité évaluée de la 3e à la 6e décennie)",
+ "critere": "Association entre l'activité physique cumulée au cours de la vie (en MET) et la survenue de la maladie, de la 3e à la 6e décennie."
+}

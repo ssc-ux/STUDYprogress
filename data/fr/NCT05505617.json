@@ -1,0 +1,28 @@
+{
+ "h": "7dcffa12b081",
+ "date": "2026-11-14",
+ "titre": "Comparaison de deux appareils de mesure de la DLNO dans la sclérodermie",
+ "question": "Deux appareils de mesure de la capacité de diffusion du monoxyde d'azote (DLNO) donnent-ils les mêmes valeurs chez des patients avec sclérodermie et PID ?",
+ "contexte": "La pneumopathie interstitielle diffuse est une complication majeure de la sclérodermie systémique. Son suivi fonctionnel repose sur la capacité vitale forcée et la diffusion du monoxyde de carbone (DLCO). La diffusion du monoxyde d'azote (DLNO) explore plus directement la membrane alvéolo-capillaire et pourrait être plus sensible aux atteintes précoces.\n\nDeux appareils de DLNO sont commercialisés en Europe : MasterScreen (Jaeger) et HypAir (Medisoft). Une étude antérieure a montré des différences systématiques entre appareils chez des sujets sains, mais leur ampleur chez des patients avec trouble de la ventilation et inhomogénéités est inconnue.\n\nCette étude observationnelle suisse, sur 9 patients, compare les deux appareils lors d'une même visite, avec ordre de mesure randomisé, chez des patients avec sclérodermie et PID prouvée au scanner.",
+ "interet": "Elle précise si les valeurs de DLNO sont interchangeables entre appareils, condition nécessaire pour utiliser la DLNO dans le suivi et les essais.",
+ "profil": "Des adultes avec sclérodermie systémique et pneumopathie interstitielle prouvée au scanner.",
+ "inclusion": [
+  "Sclérodermie systémique selon ACR/EULAR (≥ 9 points)",
+  "PID prouvée au scanner thoracique haute résolution",
+  "Âge ≥ 18 ans",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "État clinique instable gênant les épreuves fonctionnelles : hémoptysie majeure ou pneumothorax dans les 3 mois, infection respiratoire aiguë dans les 2 semaines",
+  "Autres critères selon le médecin traitant",
+  "Grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Mesures de DLNO",
+   "traitement": "Mesure de la DLNO en apnée sur les deux appareils (MasterScreen et HypAir) lors d'une seule visite, dans un ordre aléatoire"
+  }
+ ],
+ "duree": "Une visite (environ 1 heure)",
+ "critere": "Différence de DLNO (mL/min/mmHg) entre les deux appareils, mesurée dans l'heure."
+}

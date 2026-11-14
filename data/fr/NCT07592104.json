@@ -1,0 +1,30 @@
+{
+ "h": "be8c0d1aae7e",
+ "date": "2026-11-14",
+ "titre": "Mépolizumab 300 mg sur les symptômes naso-sinusiens des patients atteints de GEPA (MEPO300REAL)",
+ "question": "Le mépolizumab 300 mg réduit-il les polypes nasaux des patients atteints de GEPA et de rhinosinusite chronique sévère ?",
+ "contexte": "La granulomatose éosinophilique avec polyangéite (GEPA) est une vascularite des petits vaisseaux, associée à l'asthme et à une hyperéosinophilie. L'atteinte ORL est très fréquente : rhinosinusite chronique avec polypose nasale, parfois otite moyenne éosinophilique. Elle altère la qualité de vie et résiste souvent aux corticoïdes locaux et systémiques, voire à la chirurgie endonasale.\n\nLe mépolizumab, anticorps anti-IL-5, est validé dans la GEPA à la dose de 300 mg toutes les 4 semaines. Son effet sur les symptômes naso-sinusiens de ces patients, en pratique courante, est peu documenté.\n\nCette étude observationnelle multicentrique nationale italienne, rétrospective et prospective, sans but lucratif, est promue par la Fondation Policlinico Gemelli. Elle suit 52 patients atteints de GEPA et de polypose sévère non contrôlée, sous mépolizumab 300 mg en auto-injection sous-cutanée toutes les 4 semaines, en plus des corticoïdes nasaux. Les visites sont relevées à 30 jours, 3, 6, 9 et 12 mois.",
+ "interet": "Elle apportera des données de vie réelle sur le contrôle de la polypose et de l'atteinte ORL de la GEPA sous mépolizumab, ainsi que sur le besoin de chirurgie ou de corticoïdes.",
+ "profil": "Des adultes atteints de GEPA et de polypose naso-sinusienne sévère non contrôlée, traités par mépolizumab 300 mg.",
+ "inclusion": [
+  "Âge > 18 ans, consentement écrit",
+  "GEPA confirmée par un rhumatologue, traitée par mépolizumab 300 mg toutes les 4 semaines",
+  "Polypose naso-sinusienne confirmée en endoscopie ou au scanner dans les 6 mois avant le traitement",
+  "Forme sévère : score de polypes ≥ 5, ou EVA d'obstruction nasale > 5 et/ou SNOT-22 ≥ 50",
+  "Contrôle insuffisant par les corticoïdes nasaux",
+  "Échec d'au moins 2 cures de corticoïdes systémiques dans l'année ou d'une chirurgie endonasale"
+ ],
+ "exclusion": [
+  "Âge < 18 ans",
+  "GEPA avec atteinte d'organe ou risque vital",
+  "Radiothérapie ou chimiothérapie pour cancer dans les 12 mois avant le traitement"
+ ],
+ "bras": [
+  {
+   "nom": "GEPA avec polypose sévère sous mépolizumab",
+   "traitement": "Mépolizumab 300 mg en sous-cutané toutes les 4 semaines (auto-injecteur) en pratique courante, plus corticoïdes nasaux"
+  }
+ ],
+ "duree": "12 mois de suivi sous traitement",
+ "critere": "Amélioration du score endoscopique de polypes nasaux (NPS) à 12 mois"
+}

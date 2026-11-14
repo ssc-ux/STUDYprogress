@@ -1,0 +1,36 @@
+{
+ "h": "df20d4caccd1",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques universels anti-CD19/BCMA dans l'anémie hémolytique auto-immune réfractaire",
+ "question": "Les cellules CAR-T allogéniques universelles anti-CD19/BCMA (QT-219C) sont-elles tolérées et efficaces dans l'AHAI en échec d'au moins 3 lignes de traitement ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est traitée par corticoïdes et rituximab, puis par divers immunosuppresseurs ou thérapies ciblées (azathioprine, mycophénolate, ciclosporine, daratumumab, inhibiteurs de BTK ou de Syk, inhibiteurs du complément). Une proportion de patients reste en échec ou rechute après plusieurs lignes, avec anémie symptomatique et exposition cumulée aux traitements.\n\nLes CAR-T anti-CD19 ont induit des rémissions prolongées dans des maladies auto-immunes à médiation B, notamment le lupus, par déplétion lymphocytaire B profonde. L'ajout de la cible BCMA vise aussi les plasmocytes producteurs d'autoanticorps. Le produit QT-219C est un CAR-T allogénique universel, donc prêt à l'emploi. Cet essai de phase I monobras, promu par le Second Hospital of Anhui Medical University, inclut 15 patients à partir de 10 ans, avec toutes les formes d'AHAI. Une perfusion unique suit une lymphodéplétion par fludarabine et cyclophosphamide. Une analyse intermédiaire est prévue à 12 semaines.",
+ "interet": "Si la tolérance et la réponse sont favorables, la thérapie cellulaire allogénique pourrait devenir une option de recours dans l'AHAI multiréfractaire.",
+ "profil": "Des patients de 10 ans et plus ayant une AHAI en rechute ou réfractaire après au moins 3 lignes de traitement.",
+ "inclusion": [
+  "Âge ≥ 10 ans",
+  "CD19 ou BCMA positif en cytométrie sur les lymphocytes B (sang ou moelle)",
+  "AHAI (à anticorps chauds, maladie des agglutinines froides, mixte ou autre) selon les recommandations chinoises 2023",
+  "Échec d'au moins 3 lignes, avec anémie symptomatique (hémoglobine < 100 g/L) persistante",
+  "Neutrophiles ≥ 1 G/L, plaquettes ≥ 30 G/L, transaminases ≤ 3 N, clairance de la créatinine ≥ 30 mL/min",
+  "ECOG ≤ 2, contraception, consentement signé"
+ ],
+ "exclusion": [
+  "Allergie médicamenteuse sévère",
+  "Infection non contrôlée, infections récidivantes, ou antécédent récent de CMV, EBV ou infection fongique",
+  "Vaccination dans les 12 semaines précédentes",
+  "Fonction cardiaque insuffisante ou insuffisance cardiaque NYHA III-IV",
+  "Déficit immunitaire humoral congénital",
+  "Cancer dans les 5 ans (hors exceptions)",
+  "Hépatite B ou C active, VIH, syphilis",
+  "Antécédent de greffe d'organe ou de cellules souches",
+  "Maladie sévère non contrôlée d'un autre organe, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "QT-219C",
+   "traitement": "Perfusion unique de CAR-T allogéniques universels anti-CD19/BCMA après lymphodéplétion par fludarabine et cyclophosphamide"
+  }
+ ],
+ "duree": "Suivi de sécurité jusqu'à 12 mois, réponse évaluée jusqu'à la semaine 24",
+ "critere": "Toxicités dose-limitantes du jour 0 au jour 28, événements indésirables jusqu'à 12 mois, et réponse clinique de l'AHAI jusqu'à 24 semaines"
+}

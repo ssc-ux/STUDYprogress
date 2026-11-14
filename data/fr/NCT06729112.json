@@ -1,0 +1,33 @@
+{
+ "h": "706bcc3c04f2",
+ "date": "2026-11-14",
+ "titre": "Valeur pan-immuno-inflammatoire dans la maladie de Behçet et lien avec l'activité de la maladie",
+ "question": "La valeur pan-immuno-inflammatoire (PIV), calculée à partir de la numération sanguine, est-elle plus élevée dans la maladie de Behçet et corrélée à son activité ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique touchant les petits et grands vaisseaux, veineux et artériels. Elle associe aphtose buccale et génitale, atteinte oculaire, articulaire, digestive, vasculaire et neurologique. L'évaluation de son activité repose sur des scores cliniques, car il n'existe pas de biomarqueur sanguin spécifique, et la VS ou la CRP sont souvent peu informatives.\n\nDes indices simples issus de l'hémogramme (rapport neutrophiles/lymphocytes, plaquettes/lymphocytes, monocytes/lymphocytes) ont été étudiés comme marqueurs d'inflammation et d'activité dans plusieurs maladies rhumatologiques. La valeur pan-immuno-inflammatoire combine les neutrophiles, les monocytes et les plaquettes, rapportés aux lymphocytes. Elle a d'abord été décrite en oncologie, puis explorée dans la polyarthrite rhumatoïde, la fièvre méditerranéenne familiale et les vascularites. Cette étude cas-témoins de l'université d'Assiut (Égypte) compare 80 sujets, patients et témoins sains appariés, et recherche des liens avec les caractéristiques cliniques et l'activité de la maladie.",
+ "interet": "Un indice peu coûteux, calculable sur un simple hémogramme, pourrait aider à suivre l'activité de la maladie de Behçet. Cette étude monocentrique ne permettrait qu'une validation préliminaire.",
+ "profil": "Des adultes atteints de maladie de Behçet, et des témoins sains appariés.",
+ "inclusion": [
+  "Maladie de Behçet selon les critères internationaux (ITR-ICBD)",
+  "Âge de 18 ans ou plus",
+  "Consentement à participer"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune",
+  "Âge inférieur à 18 ans",
+  "Cancer ou infection",
+  "Grossesse ou allaitement",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Maladie de Behçet",
+   "traitement": "Calcul de la valeur pan-immuno-inflammatoire à partir de l'hémogramme, sans intervention"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Même calcul chez des témoins sains appariés"
+  }
+ ],
+ "duree": "Évaluation unique, période d'étude de 3 mois",
+ "critere": "Valeur pan-immuno-inflammatoire des patients comparée à celle de témoins sains, sur 3 mois."
+}

@@ -1,0 +1,34 @@
+{
+ "h": "391c3e710439",
+ "date": "2026-11-14",
+ "titre": "Stimulation transcutanée du nerf vague contre la fatigue du lupus systémique",
+ "question": "La stimulation transcutanée du nerf vague, associée à l'exercice aérobie, réduit-elle la fatigue des patientes lupiques ?",
+ "contexte": "La fatigue est un symptôme majeur et très invalidant du lupus systémique, souvent peu liée à l'activité biologique. Les options reposent surtout sur l'exercice aérobie et la prise en charge des facteurs associés, avec un bénéfice modeste.\n\nLe nerf vague a un rôle anti-inflammatoire, par la voie cholinergique. Sa stimulation transcutanée au niveau de l'oreille est une technique non invasive, déjà étudiée dans d'autres maladies inflammatoires. Son effet sur la fatigue du lupus reste à démontrer.\n\nCet essai randomisé en double aveugle, mené à l'université du Caire, inclut 50 femmes de 35 à 55 ans. Toutes suivent 3 séances par semaine pendant 6 semaines, avec 40 minutes d'exercice aérobie. L'un des groupes reçoit en plus une stimulation auriculaire réelle (30 Hz, 300 µs), l'autre une stimulation simulée avec le même dispositif. La fatigue, la marche de 6 minutes et l'effort perçu sont évalués.",
+ "interet": "Un bénéfice supérieur à celui de l'exercice seul ferait de la stimulation vagale un complément non médicamenteux de la prise en charge de la fatigue du lupus.",
+ "profil": "Des femmes de 35 à 55 ans atteintes de lupus systémique avec douleur ≥ 4/10, sous traitement stable.",
+ "inclusion": [
+  "Femmes de 35 à 55 ans",
+  "Lupus selon les critères ACR 2010 ou SLICC",
+  "Douleur ≥ 4 sur une échelle visuelle analogique de 10 cm",
+  "Traitement de fond, biothérapie ou prednisone ≤ 10 mg/j, stable depuis 28 jours",
+  "Adressées par un rhumatologue"
+ ],
+ "exclusion": [
+  "Fibromyalgie ou autre syndrome douloureux chronique",
+  "Stimulateur cardiaque, défibrillateur ou autre implant électronique",
+  "Grossesse ou allaitement",
+  "Épilepsie ou antécédent de convulsions"
+ ],
+ "bras": [
+  {
+   "nom": "Stimulation vagale réelle + exercice",
+   "traitement": "Stimulation du conque de l'oreille gauche 20 min (30 Hz, 300 µs), puis 40 min d'exercice aérobie ; 3 séances par semaine, 6 semaines"
+  },
+  {
+   "nom": "Stimulation simulée + exercice",
+   "traitement": "Même dispositif et mêmes électrodes sans stimulation efficace, puis même exercice aérobie"
+  }
+ ],
+ "duree": "6 semaines",
+ "critere": "Score de l'échelle de sévérité de la fatigue (FSS) à 6 semaines"
+}

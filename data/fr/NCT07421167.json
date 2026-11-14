@@ -1,0 +1,38 @@
+{
+ "h": "22b8c2dcd36d",
+ "date": "2026-11-14",
+ "titre": "Ianalumab associé à un agoniste de la TPO dans le PTI et le syndrome d'Evans",
+ "question": "Le ianalumab (9 mg/kg) associé à un agoniste du récepteur de la TPO au choix de l'investigateur est-il bien toléré chez des adultes ayant un PTI déjà traité ?",
+ "contexte": "Le PTI primaire est une maladie auto-immune dans laquelle des autoanticorps entraînent une destruction plaquettaire accrue et une production insuffisante. Après corticoïdes ou immunoglobulines, les agonistes du récepteur de la thrombopoïétine (TPO-RA) sont couramment utilisés, mais la rémission sans traitement reste rare et l'arrêt des TPO-RA s'accompagne souvent d'une rechute.\n\nLe ianalumab (VAY736) est un anticorps monoclonal anti-BAFF-R, qui déplète les lymphocytes B et bloque leur survie dépendante de BAFF. Il est étudié dans plusieurs maladies auto-immunes, dont le PTI en phase III. VAY2EXPLORE est une phase II ouverte de Novartis, qui évalue la tolérance de l'association au TPO-RA sur 16 semaines de traitement, suivie d'une décroissance du TPO-RA sur 16 semaines et d'un suivi de sécurité de 60 semaines. Une cohorte exploratoire inclut des patients atteints d'un syndrome d'Evans primaire (thrombopénie et anémie hémolytique auto-immune à auto-anticorps chauds).",
+ "interet": "L'étude pourrait montrer s'il est possible de combiner une déplétion B avec un TPO-RA pour viser une rémission soutenue sans traitement, y compris dans le syndrome d'Evans.",
+ "profil": "Des adultes ayant un PTI primaire déjà traité (1 à 4 lignes), sous agoniste de la TPO, ou un syndrome d'Evans primaire.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement signé",
+  "PTI primaire ayant répondu aux corticoïdes ou aux immunoglobulines sans réponse prolongée, au moins un traitement antérieur",
+  "Plaquettes < 100 G/L sous TPO-RA, à dose stable depuis au moins 14 jours avant la première dose",
+  "Cohorte syndrome d'Evans : thrombopénie < 100 G/L avec anémie hémolytique à auto-anticorps chauds (Coombs positif, hémolyse)",
+  "Syndrome d'Evans : réponse insuffisante ou rechute après corticoïdes"
+ ],
+ "exclusion": [
+  "TPO-RA depuis plus de 6 mois",
+  "Saignement engageant le pronostic vital",
+  "Splénectomie dans les 6 mois",
+  "Neutrophiles < 1000/mm3, créatininémie > 1,5 N, transaminases > 3 N, IgG < 5 g/L",
+  "Atteinte hépatique significative (Child-Pugh B ou C)",
+  "Traitement déplétant les lymphocytes B dans les 12 semaines, ou rituximab-réfractaire",
+  "Déficit immunitaire connu ou VIH positif",
+  "Plus de 4 traitements antérieurs du PTI, PTI ou syndrome d'Evans secondaire"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte principale (PTI)",
+   "traitement": "Ianalumab 9 mg/kg + TPO-RA au choix de l'investigateur"
+  },
+  {
+   "nom": "Cohorte exploratoire (syndrome d'Evans)",
+   "traitement": "Ianalumab 9 mg/kg + TPO-RA au choix de l'investigateur"
+  }
+ ],
+ "duree": "Environ 2 ans (16 semaines de traitement, 16 semaines de décroissance du TPO-RA, 60 semaines de suivi)",
+ "critere": "Pourcentage de participants (cohorte PTI) tolérant le ianalumab 9 mg/kg, jusqu'à la semaine 16"
+}

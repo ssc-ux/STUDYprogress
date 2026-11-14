@@ -1,0 +1,36 @@
+{
+ "h": "14a38ddd3e43",
+ "date": "2026-11-14",
+ "titre": "Ergothérapie personnalisée en ligne chez les adultes atteints de sclérodermie : essai pilote",
+ "question": "Une ergothérapie personnalisée à distance est-elle faisable, acceptable et sûre chez les adultes atteints de sclérodermie ?",
+ "contexte": "La sclérodermie est une connectivite chronique qui s'accompagne de fibrose cutanée et viscérale, de douleur, de fatigue, de raideur, de symptômes respiratoires et digestifs et d'atteintes vasculaires. Ces manifestations limitent les activités de la vie quotidienne, les soins personnels, le travail, les loisirs et la vie sociale. Elles atteignent aussi la fonction de la main, la qualité de vie et l'équilibre occupationnel.\n\nCet essai pilote exploratoire s'appuie sur une cohorte espagnole d'adultes sclérodermiques, dans laquelle fonctionnement, qualité de vie, besoins non couverts et produits d'assistance ont été recueillis. Il est coordonné par l'université de Saragosse et mené entièrement à distance.\n\nLes participants sont randomisés 1:1 entre 8 séances individuelles d'ergothérapie en ligne de 50 à 60 minutes, sur 4 semaines, ajoutées aux soins habituels, et les soins habituels seuls. Les séances sont individualisées avec des objectifs SMART et le Goal Attainment Scaling. Le seuil de faisabilité fixé est d'au moins 70 % de participants terminant 6 séances sur 8.",
+ "interet": "Si l'intervention est faisable, elle ouvrirait la voie à un essai de plus grande taille sur l'ergothérapie à distance, utile pour des patients éloignés des centres experts.",
+ "profil": "Des adultes vivant en Espagne atteints de sclérodermie, issus d'une cohorte antérieure.",
+ "inclusion": [
+  "Âge ≥ 18 ans, sclérodermie, issus de la cohorte du projet antérieur",
+  "Résidence en Espagne",
+  "Maîtrise suffisante de l'espagnol",
+  "Accès à internet et à un appareil compatible avec Google Meet",
+  "Disponibilité pour 8 séances en ligne de 60 minutes",
+  "Pas de programme d'ergothérapie ou d'intervention concurrente influençant le fonctionnement"
+ ],
+ "exclusion": [
+  "Comorbidité sévère empêchant une participation sûre",
+  "Résidence hors d'Espagne",
+  "Incapacité à consentir ou à faire l'évaluation initiale",
+  "Participation à un autre programme de rééducation ou d'éducation thérapeutique intensif",
+  "Retrait avant le début ou indisponibilité aux dates prévues"
+ ],
+ "bras": [
+  {
+   "nom": "Ergothérapie en ligne + soins habituels",
+   "traitement": "8 séances individuelles de 50-60 min par visioconférence, 2 par semaine pendant 4 semaines"
+  },
+  {
+   "nom": "Soins habituels",
+   "traitement": "Soins habituels ; documents éducatifs et séance de groupe proposés après le suivi"
+  }
+ ],
+ "duree": "Environ 8 semaines (4 semaines d'intervention, puis 4 semaines de suivi)",
+ "critere": "Faisabilité : proportion de participants du groupe intervention terminant au moins 6 des 8 séances, à environ 4 semaines"
+}

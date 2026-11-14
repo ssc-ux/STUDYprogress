@@ -1,0 +1,33 @@
+{
+ "h": "6adcd641d24d",
+ "date": "2026-11-14",
+ "titre": "Céphalées dans le lupus à début pédiatrique : facteurs associés et dysfonction temporo-mandibulaire",
+ "question": "Quels facteurs (douleur, catastrophisation, dysfonction temporo-mandibulaire, données de maladie) distinguent les patients atteints de lupus pédiatrique avec et sans céphalées ?",
+ "contexte": "Le lupus érythémateux systémique à début pédiatrique est plus sévère que celui de l'adulte, avec plus d'atteintes rénales et neuropsychiatriques. Les céphalées y sont fréquentes. Elles peuvent relever d'une atteinte neuropsychiatrique du lupus, mais aussi de facteurs plus communs comme la douleur chronique, le stress, la fatigue ou une dysfonction temporo-mandibulaire.\n\nLes facteurs associés aux céphalées dans cette population sont peu étudiés. Cette étude observationnelle de type cas-témoins, menée à l'université de Pamukkale en Turquie, inclut 15 jeunes de 8 à 25 ans suivis en rhumatologie pédiatrique. Elle compare ceux qui ont des céphalées et ceux qui n'en ont pas, selon l'intensité et la nature de la douleur (questionnaire de McGill-Melzack), la catastrophisation de la douleur chez l'enfant et chez le parent, un questionnaire de dysfonction temporo-mandibulaire (Fonseca) et des données de maladie.",
+ "interet": "Identifier des facteurs associés pourrait aider à repérer les patients à risque de céphalées et à adapter la prise en charge, notamment non médicamenteuse. L'effectif est très limité.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 8 à 25 ans atteints de lupus à début pédiatrique.",
+ "inclusion": [
+  "Lupus à début pédiatrique diagnostiqué en rhumatologie pédiatrique",
+  "Âge de 8 à 25 ans",
+  "Symptômes et traitements stables",
+  "Participation volontaire"
+ ],
+ "exclusion": [
+  "Troubles neuropsychiatriques non liés au lupus (épilepsie, troubles électrolytiques, effets indésirables de médicaments)",
+  "Céphalées antérieures au diagnostic de lupus",
+  "Autre maladie rhumatismale associée",
+  "Trouble cognitif empêchant la coopération"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus pédiatrique avec céphalées",
+   "traitement": "Évaluation de la douleur, de la catastrophisation et de la dysfonction temporo-mandibulaire, sans intervention"
+  },
+  {
+   "nom": "Lupus pédiatrique sans céphalées",
+   "traitement": "Mêmes évaluations, sans intervention"
+  }
+ ],
+ "duree": "Évaluation unique, période d'étude de 6 mois",
+ "critere": "Questionnaire de la douleur de McGill-Melzack, échelles de catastrophisation de la douleur (enfant et parent), questionnaire de Fonseca et données démographiques et de maladie, pendant la période d'étude de 6 mois."
+}

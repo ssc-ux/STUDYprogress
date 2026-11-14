@@ -1,0 +1,28 @@
+{
+ "h": "063af696a124",
+ "date": "2026-11-14",
+ "titre": "Biopsie septale du ventricule droit pour détecter l'amylose cardiaque à la pose d'un stimulateur",
+ "question": "La biopsie de la graisse pariétale thoracique et la biopsie endomyocardique lors de la pose d'un stimulateur ou défibrillateur permettent-elles de diagnostiquer précocement l'ATTR-CM chez les patients à risque ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM) est sous-diagnostiquée, notamment chez les sujets âgés avec insuffisance cardiaque, troubles conductifs ou fibrillation atriale. Elle est en particulier fréquente chez les patients nécessitant un stimulateur cardiaque. Les traitements modificateurs de la maladie sont d'autant plus utiles qu'ils sont débutés tôt.\n\nLe diagnostic non invasif repose sur la scintigraphie osseuse, mais elle n'est pas toujours demandée chez les patients à risque. La pose d'un dispositif implantable offre une occasion d'obtenir des prélèvements tissulaires sans nouvelle intervention. Cette étude prospective de Geisinger (États-Unis) inclut 70 patients à risque ayant une indication de stimulateur, CRT ou défibrillateur. Elle vise à estimer l'incidence de l'ATTR-CM dans cette population, à construire un parcours diagnostique et à évaluer l'apport de la biopsie de graisse de la loge du boîtier et de la biopsie endomyocardique septale.",
+ "interet": "Elle pourrait fournir un algorithme de dépistage de l'ATTR-CM au moment de l'implantation d'un dispositif, et préciser la rentabilité des biopsies dans ce contexte. Les résultats dépendront d'une étude monocentrique de petite taille.",
+ "profil": "Des adultes de 65 ans et plus (ou 50 à 64 ans avec risque d'ATTR héréditaire) ayant une indication de stimulateur ou défibrillateur et des signes évocateurs d'amylose.",
+ "inclusion": [
+  "Âge ≥ 65 ans (ou 50-64 ans avec antécédent familial d'ATTR ou variant TTR)",
+  "Indication de stimulateur, CRT ou défibrillateur",
+  "Au moins un signe d'alerte : fibrillation atriale, BAV, insuffisance cardiaque, insuffisance rénale ou neuropathie inexpliquée, canal carpien, rupture tendineuse, HVG ≥ 1,2 cm, etc.",
+  "Accepte les procédures et le suivi"
+ ],
+ "exclusion": [
+  "Incapacité à donner son consentement",
+  "Grossesse",
+  "Participation à une autre étude pouvant fausser les résultats"
+ ],
+ "bras": [
+  {
+   "nom": "Patients à risque avec dispositif",
+   "traitement": "Biopsie de graisse pariétale et biopsie endomyocardique lors de l'implantation du stimulateur ou défibrillateur"
+  }
+ ],
+ "duree": "15 à 21 mois",
+ "critere": "Résultats des biopsies cardiaques, de l'inclusion à la fin de l'étude (15 à 21 mois)"
+}

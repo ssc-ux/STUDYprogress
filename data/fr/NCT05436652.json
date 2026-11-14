@@ -1,0 +1,36 @@
+{
+ "h": "6c8d72a99422",
+ "date": "2026-11-14",
+ "titre": "SPI-62 associé à la prednisolone dans la pseudo-polyarthrite rhizomélique",
+ "question": "L'ajout de SPI-62 à la prednisolone améliore-t-il les marqueurs inflammatoires dans la pseudo-polyarthrite rhizomélique (PPR) ?",
+ "contexte": "La pseudo-polyarthrite rhizomélique est un rhumatisme inflammatoire du sujet âgé, traité par une corticothérapie à décroissance lente. Les corticoïdes sont efficaces mais exposent à des effets indésirables (diabète, ostéoporose, infections), et les rechutes à la décroissance sont fréquentes.\n\nLe SPI-62 est un inhibiteur de la 11β-hydroxystéroïde déshydrogénase de type 1 (11β-HSD1), l'enzyme qui régénère le cortisol actif dans les tissus. Il pourrait renforcer l'effet anti-inflammatoire de la prednisolone, permettant d'utiliser une dose plus faible, mais cette hypothèse reste à prouver.\n\nCet essai de phase 2 de Sparrow Pharmaceuticals, simple aveugle contre placebo, inclut 66 patients en rémission sous prednisolone 10 mg/j. Chacun reçoit SPI-62 pendant 2 semaines et placebo pendant 2 semaines, dans un ordre masqué. Des cohortes adaptent la dose de prednisolone et de SPI-62.",
+ "interet": "L'essai teste une stratégie d'épargne cortisonique par potentialisation locale du cortisol, avec des marqueurs biologiques comme premiers signaux d'efficacité.",
+ "profil": "Des adultes avec une PPR en rémission, sous prednisolone 10 mg/j stable.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "PPR selon les critères EULAR/ACR",
+  "Absence de rechute (symptômes et marqueurs inflammatoires)",
+  "Prednisolone orale 10 mg/j stable depuis ≥ 1 semaine",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Contre-indication à la prednisolone",
+  "Artérite à cellules géantes ou signes cliniques évocateurs",
+  "Autre maladie auto-immune (polyarthrite rhumatoïde tardive, etc.)",
+  "Autre traitement de la PPR que la prednisolone, dans des délais définis",
+  "Hypercortisolisme endogène",
+  "Toute situation interférant avec l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "SPI-62",
+   "traitement": "SPI-62 puis placebo (ordre masqué) par voie orale le matin, avec prednisolone 10 mg/j, jusqu'à 4 semaines"
+  },
+  {
+   "nom": "SPI-62 + prednisolone supplémentaire",
+   "traitement": "SPI-62 ou placebo, prednisolone 10 mg/j et prednisolone additionnelle ou placebo"
+  }
+ ],
+ "duree": "Environ 8 semaines après inclusion (4 semaines de traitement + 4 semaines de suivi)",
+ "critere": "Variation de la vitesse de sédimentation, de la CRP et du fibrinogène plasmatique entre l'inclusion et le jour 28."
+}

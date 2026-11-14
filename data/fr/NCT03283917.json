@@ -1,5 +1,5 @@
 {
- "h": "73aeb882d4f9",
+ "h": "73aeb882d4f9r",
  "date": "2026-11-13",
  "titre": "Daratumumab, ixazomib et dexaméthasone dans l'amylose AL : étude de phase 1 de recherche de dose",
  "question": "L'association daratumumab, ixazomib et dexaméthasone est-elle sûre dans l'amylose AL, et quelle dose recommander pour la phase 2 ?",
@@ -19,7 +19,10 @@
   "Critères d'exclusion non détaillés dans l'extrait du registre : non précisé"
  ],
  "bras": [
-  { "nom": "Traitement (daratumumab, ixazomib, dexaméthasone)", "traitement": "Daratumumab IV aux jours 1, 8, 15 et 22 des cycles 1-2, aux jours 1 et 15 des cycles 3-6, puis au jour 1 des cycles 7-12 ; ixazomib oral aux jours 1, 8 et 15 ; dexaméthasone IV ou orale aux jours 1, 8, 15 et 22 ; cycles de 28 jours, jusqu'à 12 cycles" }
+  {
+   "nom": "Traitement (daratumumab, ixazomib, dexaméthasone)",
+   "traitement": "Daratumumab IV aux jours 1, 8, 15 et 22 des cycles 1-2, aux jours 1 et 15 des cycles 3-6, puis au jour 1 des cycles 7-12 ; ixazomib oral aux jours 1, 8 et 15 ; dexaméthasone IV ou orale aux jours 1, 8, 15 et 22 ; cycles de 28 jours, jusqu'à 12 cycles"
+  }
  ],
  "duree": "Jusqu'à 12 cycles de 28 jours, suivi jusqu'à 24 mois",
  "critere": "Taux de toxicité limitant la dose (jusqu'à 28 jours) et dose recommandée pour la phase 2 (jusqu'à 24 mois)"

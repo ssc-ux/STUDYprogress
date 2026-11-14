@@ -1,0 +1,35 @@
+{
+ "h": "11e89d32bf24",
+ "date": "2026-11-14",
+ "titre": "Tocilizumab dans la pneumopathie interstitielle réfractaire du syndrome des antisynthétases",
+ "question": "Le tocilizumab améliore-t-il les symptômes et le scanner des patients ayant une PID réfractaire liée au syndrome des antisynthétases ?",
+ "contexte": "Le syndrome des antisynthétases est une myopathie inflammatoire auto-immune où l'atteinte pulmonaire interstitielle (PID) fait le pronostic. Les corticoïdes et les immunosuppresseurs de première ligne (mycophénolate, azathioprine, ciclosporine, cyclophosphamide, méthotrexate, inhibiteurs de JAK) laissent une part de patients en échec, sans traitement ciblé validé.\n\nL'interleukine-6 intervient à la fois dans l'inflammation et la fibrose. Le tocilizumab, anticorps anti-récepteur de l'IL-6, est donc une piste dans cette situation.\n\nCette cohorte rétrospective monocentrique chinoise (111 patients) compare les patients traités par tocilizumab à ceux sous immunosuppresseurs standards entre janvier 2020 et juillet 2025. Une pondération par chevauchement équilibre 11 variables initiales. Le critère principal est l'amélioration des symptômes et du scanner à au moins 3 mois. Les critères secondaires sont les biomarqueurs, les EFR, la survie sans progression et les événements indésirables.",
+ "interet": "Elle pourrait étayer le recours au tocilizumab après échec des immunosuppresseurs conventionnels, avec la réserve d'un schéma rétrospectif monocentrique.",
+ "profil": "Des adultes atteints de syndrome des antisynthétases avec PID réfractaire, suivis dans un centre chinois.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Syndrome des antisynthétases selon les critères EULAR/ACR 2017",
+  "PID confirmée au scanner haute résolution",
+  "Maladie active malgré corticoïdes et au moins un immunosuppresseur de première ligne",
+  "Données initiales et de suivi à ≥ 3 mois disponibles"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Trouble psychiatrique empêchant la participation",
+  "Greffe pulmonaire antérieure",
+  "Données principales manquantes",
+  "Dermatomyosite à anticorps anti-MDA5"
+ ],
+ "bras": [
+  {
+   "nom": "Tocilizumab",
+   "traitement": "Patients traités par tocilizumab (anti-récepteur de l'IL-6) ; dose non précisée"
+  },
+  {
+   "nom": "Traitement standard",
+   "traitement": "Patients traités par immunosuppresseurs conventionnels"
+  }
+ ],
+ "duree": "Suivi d'au moins 3 mois, jusqu'au 31 octobre 2025 au plus",
+ "critere": "Progression de la maladie, du début du tocilizumab ou du traitement de deuxième ligne jusqu'au 31 octobre 2025 au plus tard"
+}

@@ -1,0 +1,38 @@
+{
+ "h": "95d9cfe974f3",
+ "date": "2026-11-14",
+ "titre": "TEP à l'évuzamitide pour détecter l'amylose cardiaque ATTR en cas de scintigraphie non concluante",
+ "question": "La TEP-TDM à l'évuzamitide détecte-t-elle un dépôt myocardique d'amylose chez des patients à scintigraphie non diagnostique mais à taux de TAD1 élevé ?",
+ "contexte": "Le diagnostic non invasif de l'amylose cardiaque à transthyrétine (ATTR-CA) repose sur la scintigraphie osseuse. Une scintigraphie de grade 0 ou 1 de Perugini est non diagnostique, et peut laisser un doute chez des patients insuffisants cardiaques ou des porteurs asymptomatiques d'un variant TTR, notamment dans certaines formes de variants.\n\nLe TAD1 (Transthyretin Amyloid Detector 1) est un marqueur sanguin, dosé ici pour repérer la transthyrétine mal repliée. L'évuzamitide (124I) est un traceur TEP qui se fixe à l'amylose. Cette étude observationnelle multicentrique américaine (UT Southwestern, Columbia, Boston Medical Center) inclut jusqu'à 25 patients en deux cohortes : insuffisants cardiaques et porteurs de variant asymptomatiques. Chacun reçoit une injection d'environ 1 mCi de 124I-évuzamitide, avec TEP-TDM 4 heures après, iodure de potassium pour protéger la thyroïde, et un suivi de 28 jours. Les images sont lues par des médecins entraînés, avec relecture consensuelle.",
+ "interet": "L'étude pourrait montrer si la TEP à l'évuzamitide résout les cas où scintigraphie et biomarqueur sont discordants, et ainsi réduire les erreurs de diagnostic.",
+ "profil": "Des adultes insuffisants cardiaques ou porteurs asymptomatiques d'un variant TTR, avec une scintigraphie non diagnostique et un TAD1 élevé.",
+ "inclusion": [
+  "Insuffisance cardiaque, ou porteur d'un variant TTR sans symptôme",
+  "Scintigraphie non diagnostique pour l'ATTR-CA (Perugini 0 ou 1)",
+  "Taux de TAD1 élevé",
+  "Absence de protéine monoclonale (chaînes légères libres et immunofixation sérique et urinaire)",
+  "Consentement écrit signé, capacité à respecter les exigences de l'étude"
+ ],
+ "exclusion": [
+  "Amylose AL ou AA",
+  "Assistance ventriculaire",
+  "Démence invalidante ou trouble psychique ou comportemental sévère",
+  "Inotropes intraveineux continus",
+  "Insuffisance rénale en hémodialyse ou dialyse péritonéale",
+  "Traitement par héparine ou dérivé (dont HBPM)",
+  "Grossesse ou allaitement",
+  "Participation à un essai clinique non compatible"
+ ],
+ "bras": [
+  {
+   "nom": "Insuffisants cardiaques",
+   "traitement": "TEP-TDM avec une injection de 124I-évuzamitide (environ 1 mCi), images à 4 heures"
+  },
+  {
+   "nom": "Porteurs asymptomatiques de variant TTR",
+   "traitement": "Même TEP-TDM à l'évuzamitide"
+  }
+ ],
+ "duree": "Environ 28 jours",
+ "critere": "Nombre de participants avec une fixation myocardique d'évuzamitide en TEP-TDM, 4 heures (± 1 h) après l'injection au jour 1"
+}

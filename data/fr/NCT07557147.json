@@ -1,0 +1,29 @@
+{
+ "h": "91e7c32908c8",
+ "date": "2026-11-14",
+ "titre": "Outil de télésurveillance Luscii dans l'amylose cardiaque ATTR : acceptabilité et faisabilité",
+ "question": "L'outil numérique de télésurveillance Luscii est-il acceptable et faisable pour les patients ayant une amylose cardiaque ATTR et pour leurs soignants ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM), de forme héréditaire (variant) ou sauvage liée à l'âge, est une cardiomyopathie restrictive qui conduit à l'insuffisance cardiaque. Les patients sont suivis dans des centres spécialisés parfois éloignés, avec des consultations espacées, parfois une seule par an. Une aggravation ou un défaut d'observance peuvent ainsi passer inaperçus pendant plusieurs mois.\n\nLa télésurveillance peut faciliter le partage d'informations entre les visites, repérer plus tôt les problèmes et soutenir l'observance. Luscii associe une application pour smartphone (messagerie sécurisée, visioconsultation) et un logiciel clinique (Luscii vitals, dispositif médical marqué CE) qui rassemble les données et alerte l'équipe. ACO-MONITOR est une étude observationnelle monobras, promue par Bayer, dans trois centres spécialisés en Autriche, en Allemagne et en Italie, auprès d'environ 60 patients. Elle mesure la rapidité et la fréquence d'utilisation, la durée d'usage, la réponse aux rappels et la facilité d'usage par questionnaires (patients et soignants), sur 12 mois. Aucun traitement n'est donné dans le cadre de l'étude.",
+ "interet": "L'étude indiquera si une télésurveillance configurée pour l'ATTR-CM est utilisable en pratique, première étape avant de tester son effet sur la détection des aggravations et l'observance.",
+ "profil": "Des adultes avec une ATTR-CM (variant ou sauvage) traités par un médicament approuvé, et leurs soignants.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ATTR-CM de type sauvage ou variant",
+  "Traitement approuvé pour l'ATTR-CM, y compris nouvellement prescrit à la visite initiale",
+  "Consentement signé",
+  "Smartphone personnel avec connexion internet et capacité de base à l'utiliser",
+  "Soignants : impliqués dans la prise en charge et consultant les données Luscii en pratique courante"
+ ],
+ "exclusion": [
+  "Patients : participation à un programme expérimental hors pratique courante",
+  "Patients : incapacité à consentir (consentement par un représentant légal)",
+  "Soignants : affiliation actuelle à Luscii, Bayer ou leurs filiales"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTR-CM (type sauvage ou variant)",
+   "traitement": "Utilisation à domicile de l'outil de télésurveillance Luscii (application et appareils) décidée en pratique courante"
+  }
+ ],
+ "duree": "12 mois de suivi par participant (18 mois pour l'étude)",
+ "critere": "Acceptabilité et faisabilité de Luscii pour les patients et pour les soignants, évaluées à l'inclusion, à 6 mois et à 12 mois"
+}

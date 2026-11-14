@@ -1,0 +1,46 @@
+{
+ "h": "760f33c15b15",
+ "date": "2026-11-14",
+ "titre": "Analyse des flux intracardiaques en IRM dans l'amylose cardiaque",
+ "question": "Quels biomarqueurs de flux intracardiaque en IRM caractérisent l'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque, par dépôts de transthyrétine (ATTR) ou de chaînes légères (AL), entraîne une cardiomyopathie restrictive avec insuffisance cardiaque à fraction d'éjection préservée. Son diagnostic est souvent tardif, alors que des traitements efficaces existent aujourd'hui (tafamidis, acoramidis, silencieurs de TTR pour l'ATTR ; chimiothérapie et anticorps pour l'AL).\n\nL'échographie et l'IRM cardiaque décrivent l'épaississement pariétal et le rehaussement tardif, mais l'analyse des flux sanguins intracardiaques (IRM de flux 4D) n'a été que peu étudiée. Elle pourrait révéler précocement des anomalies de remplissage et de vorticité.\n\nCette étude observationnelle de la Mayo Clinic compare 81 participants en rythme sinusal : ATTR, AL avec ou sans atteinte cardiaque, et témoins sains. Chacun a une IRM cardiaque, une échographie transthoracique et un test de marche de 6 minutes.",
+ "interet": "Elle pourrait fournir des biomarqueurs d'imagerie pour détecter plus tôt l'atteinte cardiaque et suivre la réponse aux traitements.",
+ "profil": "Des adultes de 40 ans et plus avec amylose ATTR ou AL, avec ou sans atteinte cardiaque, et des témoins sains, en rythme sinusal.",
+ "inclusion": [
+  "Âge ≥ 40 ans, clinique stable sans hospitalisation cardiovasculaire depuis 6 semaines",
+  "Rythme sinusal",
+  "ATTR cardiaque : diagnostic < 5 ans, exclusion d'une AL, dépôts TTR ou scintigraphie grade 2-3",
+  "AL avec atteinte cardiaque ou sans atteinte cardiaque, prouvée histologiquement, diagnostic < 5 ans",
+  "Témoins sains : Karnofsky > 80 %, ECOG 0-1",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Contre-indication à l'IRM cardiaque, stimulateur ou défibrillateur implanté",
+  "Incapacité de marcher 6 minutes, de rester allongé 30 minutes ou de tenir une apnée de 10 secondes",
+  "Cardiopathie congénitale complexe, shunt, valve prothétique",
+  "Grossesse ou allaitement",
+  "Poids ≥ 155 kg",
+  "Rythme non sinusal dans la semaine précédente",
+  "Témoins : cardiopathie, hypertension non contrôlée, diabète déséquilibré, AVC, tabagisme actif, DFG < 45 mL/min, IMC > 35"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose cardiaque ATTR",
+   "traitement": "IRM cardiaque, échographie transthoracique, test de marche de 6 minutes"
+  },
+  {
+   "nom": "Amylose AL avec atteinte cardiaque",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Amylose AL sans atteinte cardiaque",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Mêmes examens"
+  }
+ ],
+ "duree": "Non précisé (évaluation à l'inclusion)",
+ "critere": "Définition des biomarqueurs d'imagerie de flux intracardiaque dans l'amylose cardiaque, à l'inclusion."
+}

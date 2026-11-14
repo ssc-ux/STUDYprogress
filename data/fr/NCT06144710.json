@@ -1,0 +1,38 @@
+{
+ "h": "14abf1b751df",
+ "date": "2026-11-14",
+ "titre": "SG301 sous-cutané : étude de sécurité dans le lupus systémique",
+ "question": "Le SG301 sous-cutané, cible CD38, est-il sûr et bien toléré chez des volontaires sains et des patients avec lupus systémique léger à modéré ?",
+ "contexte": "Le lupus érythémateux systémique repose sur des autoanticorps produits par des plasmocytes, dont certains échappent aux traitements anti-CD20 et au bélimumab. Le CD38, exprimé par les plasmocytes et plasmablastes, est une cible évoquée pour réduire la production d'autoanticorps, comme le montrent des essais d'anticorps anti-CD38 dans le lupus.\n\nLe SG301, du laboratoire chinois Hangzhou Sumgen, est un anticorps anti-CD38 en formulation sous-cutanée. Cette phase 1 comprend deux parties : une partie A en ouvert à dose croissante unique chez des hommes sains (1 et 2 mg/kg), et une partie B randomisée en double aveugle contre placebo, à doses répétées (2, 4, 8 et 12 mg/kg), chez des patients avec lupus actif malgré un traitement stable.\n\nElle évalue la sécurité, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et une efficacité préliminaire.",
+ "interet": "Étape précoce avant d'éventuels essais d'efficacité d'une cible plasmocytaire sous-cutanée dans le lupus.",
+ "profil": "Des hommes sains de 18 à 50 ans (partie A) et des adultes de 18 à 65 ans avec lupus systémique léger à modéré (partie B).",
+ "inclusion": [
+  "Partie A : hommes sains de 18 à 50 ans, 50-100 kg, IMC 19-27",
+  "Partie B : âge 18-65 ans, IMC 18,5-30",
+  "LES selon EULAR/ACR 2019, réponse insuffisante, intolérance ou rechute sous traitement standard",
+  "SELENA-SLEDAI > 4 et ≤ 12, AAN et/ou anti-ADN natif positifs",
+  "Traitement standard stable depuis ≥ 4 semaines",
+  "Bilan hépatique, rénal et hématologique dans les limites définies (DFGe > 60 mL/min, Hb ≥ 100 g/L)"
+ ],
+ "exclusion": [
+  "Allergie au produit ; traitement antérieur ciblant CD38",
+  "Participation à un essai dans les 3 mois (partie A) ou 12 semaines (partie B)",
+  "Infection récente, zona symptomatique dans les 3 mois, VHB, VHC, VIH, tuberculose",
+  "Antécédent cardiovasculaire significatif ou QTcF > 450 ms (partie A)",
+  "Atteinte neurologique du lupus nécessitant un traitement interdit, SAPL catastrophique, autre maladie rhumatismale associée (partie B)",
+  "Traitement ciblant les lymphocytes T ou B dans les 6 mois, ou cytokines (bélimumab, télitacicept) dans 5 demi-vies (partie B)",
+  "Vaccin vivant dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "SG301 SC",
+   "traitement": "Partie A : dose unique de 1 ou 2 mg/kg ; partie B : doses répétées de 2, 4, 8 ou 12 mg/kg (8 patients par palier)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Partie B : placebo (2 patients par palier, randomisation 8:2)"
+  }
+ ],
+ "duree": "Environ 2 mois (partie A) ou 5 mois (partie B)",
+ "critere": "Incidence des événements indésirables apparus sous traitement, de l'inclusion à la fin de l'étude."
+}

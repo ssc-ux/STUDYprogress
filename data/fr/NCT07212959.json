@@ -1,0 +1,31 @@
+{
+ "h": "8c571e9a0c66",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM CXCR4 pour visualiser l'inflammation dans la sclérodermie systémique (étude pilote)",
+ "question": "Le TEP/TDM ciblant CXCR4 permet-il de repérer l'activité inflammatoire dans la sclérodermie systémique avec atteinte pulmonaire interstitielle ?",
+ "contexte": "La sclérodermie systémique associe inflammation, vasculopathie et fibrose. L'inflammation précède en général la fibrose, qui atteint le poumon, la peau, le cœur et le tube digestif. Repérer tôt l'activité inflammatoire est important pour traiter avant que la fibrose soit irréversible.\n\nAujourd'hui, le suivi de la fibrose pulmonaire repose sur le scanner thoracique. Cet examen est morphologique et ne renseigne pratiquement pas sur l'inflammation. Les foyers inflammatoires pouvant siéger partout, une imagerie du corps entier est utile.\n\nLe récepteur de chimiokine CXCR4 est exprimé sur les lymphocytes et les macrophages, qui migrent vers les lésions via son ligand CXCL12. Le traceur 68Ga-Pentixafor s'y fixe spécifiquement. Cette étude pilote de l'hôpital universitaire de Wurtzbourg inclut 12 patients atteints de sclérodermie récente avec atteinte pulmonaire interstitielle. Chacun a un TEP/TDM CXCR4.",
+ "interet": "Une fixation du traceur dans les zones atteintes ferait de ce TEP/TDM un outil pour détecter une inflammation active et guider le traitement précoce, mais une étude pilote n'établit pas son utilité clinique.",
+ "profil": "Des adultes atteints de sclérodermie systémique évoluant depuis moins de 5 ans, avec pneumopathie interstitielle au scanner.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Maladie évoluant depuis moins de 5 ans (premier signe non Raynaud)",
+  "Atteinte interstitielle pulmonaire au scanner",
+  "Compréhension de l'information",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Autogreffe de cellules souches antérieure",
+  "Hypertension pulmonaire",
+  "Contre-indication au TEP/TDM, grossesse ou allaitement",
+  "Allergie au 68Ga-Pentixafor",
+  "Incapacité à comprendre et consentir"
+ ],
+ "bras": [
+  {
+   "nom": "TEP/TDM CXCR4",
+   "traitement": "Un TEP/TDM au 68Ga-Pentixafor pour détecter les foyers inflammatoires"
+  }
+ ],
+ "duree": "Non précisé (critère évalué sur 2 ans)",
+ "critere": "Activité maximale du traceur au TEP/TDM CXCR4"
+}

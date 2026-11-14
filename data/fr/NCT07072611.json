@@ -1,0 +1,37 @@
+{
+ "h": "68d8dc8f2938",
+ "date": "2026-11-14",
+ "titre": "SOF-SKN, crème topique : tolérance et pharmacocinétique chez des volontaires sains",
+ "question": "La crème SOF-SKN appliquée sur la peau est-elle bien tolérée chez le volontaire sain, en dose unique et en doses répétées ?",
+ "contexte": "Le lupus cutané touche une partie des patients lupiques et peut exister isolément. Il repose aujourd'hui sur la photoprotection, les dermocorticoïdes, les inhibiteurs de la calcineurine et l'hydroxychloroquine. Les rechutes et la toxicité des traitements systémiques laissent un besoin de nouvelles options topiques.\n\nSOF-SKN est une crème en développement par Noxopharm pour le lupus cutané. Le registre ne précise pas son mécanisme. Cette étude de phase 1 (HERACLES) est la première évaluation chez l'humain et ne porte pas sur des patients.\n\nElle comporte deux parties randomisées en quadruple aveugle. La partie 1 évalue une application unique et la partie 2 une application quotidienne pendant 14 jours, à quatre concentrations (0,25 %, 0,5 %, 1 % et 2 %). Chaque participant reçoit la crème active sur un côté du dos et un placebo sur l'autre.",
+ "interet": "Cette étape de sécurité conditionne le passage à des essais chez des patients atteints de lupus cutané.",
+ "profil": "Des volontaires sains de 18 à 64 ans, de phototype I à IV.",
+ "inclusion": [
+  "Volontaires sains de 18 à 64 ans",
+  "Phototype de Fitzpatrick I à IV",
+  "Surface dorsale d'au moins 24 × 30 cm",
+  "Absence d'allergie",
+  "Contraception",
+  "Pas d'hydratant ni de topique sur le dos 24 h avant et pendant l'étude"
+ ],
+ "exclusion": [
+  "Terrain allergique",
+  "Antihistaminique ou topique sur la zone dans les 72 h avant le traitement",
+  "Épilation ou rasage de la zone dans la semaine avant le dépistage",
+  "Hypertrichose dorsale ou tatouages couvrant plus de 30 % du dos",
+  "Dermatose inflammatoire, coup de soleil ou lésions cutanées gênant l'évaluation",
+  "Mélanome in situ ou cancer cutané dans les 3 dernières années"
+ ],
+ "bras": [
+  {
+   "nom": "Dose unique (cohortes 1 à 4)",
+   "traitement": "2 g de crème SOF-SKN à 0,25 %, 0,5 %, 1 % ou 2 % sur un côté du dos, placebo de l'autre côté"
+  },
+  {
+   "nom": "Doses répétées (cohortes 5 à 8)",
+   "traitement": "2 g de crème SOF-SKN à 0,25 %, 0,5 %, 1 % ou 2 % une fois par jour pendant 14 jours, placebo de l'autre côté"
+  }
+ ],
+ "duree": "Dépistage de 28 jours puis suivi de quelques jours à 17 jours selon la partie",
+ "critere": "Fréquence des toxicités cibles, des événements indésirables et des événements indésirables graves après dose unique et après 2 semaines de traitement"
+}

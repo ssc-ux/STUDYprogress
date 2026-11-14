@@ -1,0 +1,38 @@
+{
+ "h": "c909c483f6b0",
+ "date": "2026-11-14",
+ "titre": "Mosunetuzumab sous-cutané dans le lupus érythémateux systémique",
+ "question": "Le mosunetuzumab sous-cutané est-il bien toléré chez des patients atteints de lupus systémique actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) reste mal contrôlé chez une part des patients malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies comme le bélimumab ou l'anifrolumab. Les lymphocytes B autoréactifs jouent un rôle central, ce qui motive les stratégies de déplétion B profonde.\n\nLe mosunetuzumab est un anticorps bispécifique CD20 x CD3, déjà utilisé dans les lymphomes folliculaires, qui engage les lymphocytes T pour détruire les lymphocytes B. Il pourrait induire une déplétion B plus profonde que les anti-CD20 classiques.\n\nCette étude de phase 1b, ouverte et à doses croissantes, promue par Roche, évalue la tolérance, la pharmacocinétique et la pharmacodynamie du mosunetuzumab sous-cutané chez 15 patients avec LES actif. Deux schémas sont comparés : dose unique, ou dose fractionnée aux jours 1 et 8, avec du tocilizumab associé pour limiter le syndrome de relargage de cytokines.",
+ "interet": "Elle explore la faisabilité et la sécurité d'une déplétion B par anticorps bispécifique dans le lupus, première étape avant tout essai d'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus systémique actif malgré un traitement de fond stable.",
+ "inclusion": [
+  "LES selon les critères EULAR/ACR 2019, diagnostiqué depuis ≥ 12 semaines",
+  "Auto-anticorps : AAN ≥ 1/160, anti-ADN natif ou anti-Sm > N",
+  "Maladie active, SLEDAI-2K ≥ 4",
+  "Traitement stable par corticoïdes oraux, antipaludéens ou immunosuppresseur conventionnel",
+  "Contraception efficace ou abstinence si risque de grossesse"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Atteinte neuropsychiatrique sévère ou néphropathie lupique nécessitant un traitement interdit",
+  "Syndrome des antiphospholipides catastrophique ou sévère",
+  "Lymphocytes B CD19+ < 25/µL",
+  "Anti-CD19/CD20 dans les 12 mois, biothérapie dans les 2 mois, anti-JAK ou ciclosporine/tacrolimus dans les 30 jours",
+  "Infection active ou chronique (VIH, VHB, VHC, tuberculose, EBV, CMV), antécédent de LEMP",
+  "Cancer dans les 5 ans",
+  "Anomalies biologiques : transaminases > 2,5 N, neutrophiles < 2,0 G/L, plaquettes < 100 G/L, DFG < 30 mL/min"
+ ],
+ "bras": [
+  {
+   "nom": "Dose unique (recherche de dose)",
+   "traitement": "Mosunetuzumab sous-cutané en dose unique, avec tocilizumab"
+  },
+  {
+   "nom": "Dose fractionnée (escalade)",
+   "traitement": "Mosunetuzumab sous-cutané fractionné aux jours 1 et 8, avec tocilizumab"
+  }
+ ],
+ "duree": "Au moins 12 mois après la dose de mosunetuzumab",
+ "critere": "Pourcentage de participants avec des événements indésirables, sur au moins 12 mois après l'administration."
+}

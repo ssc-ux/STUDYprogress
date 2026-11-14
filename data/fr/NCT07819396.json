@@ -1,0 +1,34 @@
+{
+ "h": "4a0793756979",
+ "date": "2026-11-14",
+ "titre": "Greffe allogénique déplétée en lymphocytes T naïfs CD45RA+ pour prévenir la GVH chez les patients âgés atteints de leucémie aiguë ou de SMD",
+ "question": "La déplétion des lymphocytes T naïfs CD45RA+ du greffon de cellules souches périphériques réduit-elle la maladie du greffon contre l'hôte (GVH) chez les patients de plus de 60 ans atteints de leucémie aiguë ou de syndrome myélodysplasique ?",
+ "contexte": "L'allogreffe de cellules souches hématopoïétiques est un traitement potentiellement curatif des leucémies aiguës et des syndromes myélodysplasiques (SMD), mais elle expose à la GVH, aiguë ou chronique, source de morbidité et de mortalité, surtout chez le sujet âgé. La prophylaxie standard associe des immunosuppresseurs, par exemple tacrolimus et mycophénolate, ou du cyclophosphamide post-greffe.\n\nLes lymphocytes T naïfs CD45RA+ sont les principaux responsables de la GVH, alors que les lymphocytes T mémoire préservent l'immunité anti-infectieuse. Les retirer sélectivement du greffon pourrait réduire la GVH sans perdre cette protection. Cet essai de phase 2 du Fred Hutchinson Cancer Center inclut 52 patients de plus de 60 ans en rémission, avec un conditionnement non myéloablatif par cyclophosphamide, fludarabine et irradiation corporelle totale. Le greffon associe cellules CD34+ enrichies et fraction CD45RA+ déplétée de cellules souches mobilisées par G-CSF.",
+ "interet": "Si la survie sans GVH ni rechute est améliorée, la déplétion des lymphocytes T naïfs pourrait offrir une alternative aux prophylaxies pharmacologiques chez le sujet âgé. L'essai est mono-bras, sans comparateur direct.",
+ "profil": "Des adultes de plus de 60 ans atteints de leucémie aiguë en rémission ou de SMD, éligibles à une allogreffe à conditionnement atténué.",
+ "inclusion": [
+  "Âge supérieur à 60 ans",
+  "Leucémie aiguë en rémission morphologique (< 5 % de blastes) ou SMD avec antécédent de blastes et traitement cytoréducteur récent",
+  "Karnofsky ≥ 60 %",
+  "Donneur HLA identique apparenté ou non apparenté (10/10, un mismatch classe I toléré)",
+  "Donneur pouvant donner des cellules souches périphériques par G-CSF",
+  "Greffe antérieure autorisée"
+ ],
+ "exclusion": [
+  "Blastes circulants, leucémie promyélocytaire, atteinte extramédullaire active",
+  "FEVG < 35 %, insuffisance cardiaque ou coronaropathie symptomatique",
+  "DLCO, CPT ou VEMS < 40 % ou oxygène continu",
+  "Clairance de la créatinine < 50 mL/min/1,73 m²",
+  "Hépatopathie sévère, hypertension portale",
+  "Infection active non contrôlée, VIH, HTLV, hépatite active",
+  "Atteinte active du système nerveux central, autre cancer actif, poids > 110 kg, éligible à un conditionnement myéloablatif"
+ ],
+ "bras": [
+  {
+   "nom": "Greffon CD34+ avec déplétion CD45RA+",
+   "traitement": "Cyclophosphamide (J-6, J-5), fludarabine (J-6 à J-2), irradiation corporelle totale, puis cellules souches CD34+ enrichies et CD45RA+ déplétées à J0"
+  }
+ ],
+ "duree": "Suivi jusqu'à 5 ans après la greffe",
+ "critere": "Survie sans GVH ni rechute à 1 an"
+}

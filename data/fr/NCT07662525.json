@@ -1,0 +1,32 @@
+{
+ "h": "35ba46020272",
+ "date": "2026-11-14",
+ "titre": "Atorvastatine, N-acétylcystéine et romiplostim dans le PTI après échec des corticoïdes",
+ "question": "L'association atorvastatine, N-acétylcystéine (NAC) et romiplostim permet-elle une réponse soutenue sans traitement chez des adultes ayant un PTI en échec des corticoïdes ?",
+ "contexte": "Après échec des corticoïdes, le romiplostim, agoniste du récepteur de la thrombopoïétine, est une option efficace du PTI, mais l'arrêt entraîne souvent une rechute et une dépendance au traitement. Obtenir une réponse soutenue sans traitement est un objectif majeur.\n\nL'atorvastatine et la NAC sont des molécules à effets immunomodulateurs et antioxydants, utilisées ici en association pendant 24 semaines avec le romiplostim, selon l'hypothèse qu'elles pourraient favoriser la tolérance immunitaire. Cet essai monobras ouvert monocentrique de Peking University People's Hospital inclut 50 adultes. Le romiplostim débute à 3 µg/kg par semaine, ajusté jusqu'à 10 µg/kg pour des plaquettes de 100 à 200 G/L, puis il est diminué et arrêté entre les semaines 25 et 35. L'atorvastatine (20 mg/j) et la NAC (400 mg trois fois par jour) sont arrêtées à 24 semaines. La réponse soutenue sans traitement est définie par des plaquettes > 30 G/L sans saignement ni traitement de secours.",
+ "interet": "L'étude pourrait indiquer si un protocole associant molécules peu coûteuses au romiplostim permet d'arrêter le traitement sans rechute dans le PTI.",
+ "profil": "Des adultes ayant un PTI primaire avec plaquettes < 30 G/L après échec ou rechute des corticoïdes de première ligne.",
+ "inclusion": [
+  "PTI primaire",
+  "Âge ≥ 18 ans",
+  "Échec ou rechute après corticoïdes de première ligne",
+  "Plaquettes < 30 G/L"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse (patient ou partenaire)",
+  "Cancer actif",
+  "Infection active par VHB, VHC ou VIH, ou infection nécessitant un traitement systémique",
+  "Leucémie, syndrome myélodysplasique, aplasie, myélofibrose ou autre cause hématologique de thrombopénie",
+  "Infarctus, cardiopathie ischémique instable, AVC ou insuffisance cardiaque NYHA IV",
+  "ASAT ou ALAT > 2 N, bilirubine ≥ 1,5 N",
+  "DFG < 50 mL/min/1,73 m²"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement combiné",
+   "traitement": "Atorvastatine 20 mg/j, NAC 400 mg trois fois par jour (24 semaines) et romiplostim hebdomadaire (3 à 10 µg/kg), puis décroissance du romiplostim"
+  }
+ ],
+ "duree": "Environ 35 semaines de traitement puis suivi de 24 semaines après l'arrêt",
+ "critere": "Taux de réponse soutenue sans traitement 24 semaines après l'arrêt du traitement"
+}

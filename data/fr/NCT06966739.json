@@ -1,0 +1,27 @@
+{
+ "h": "a71c5ee2ae28",
+ "date": "2026-11-14",
+ "titre": "Imagerie optoacoustique multispectrale (MSOT) pour suivre les myosites",
+ "question": "L'imagerie optoacoustique multispectrale permet-elle de mesurer des changements du muscle utiles pour suivre l'évolution d'une myosite ?",
+ "contexte": "Les myosites sont des maladies musculaires inflammatoires rares : dermatomyosite, polymyosite, myopathie nécrosante à médiation immune, syndrome des anti-synthétases et myosite à inclusions, auxquelles s'ajoutent des formes infectieuses ou induites par les inhibiteurs de points de contrôle. Elles provoquent une faiblesse musculaire progressive et parfois des atteintes extramusculaires. Un traitement adapté et un suivi régulier de la réponse sont essentiels.\n\nL'IRM détecte l'œdème, l'inflammation et le remplacement graisseux du muscle, mais elle est longue, coûteuse et contre-indiquée chez certains patients (stimulateur cardiaque). L'échographie musculaire montre l'augmentation de l'échogénicité et l'atrophie, mais sert plutôt au dépistage qu'au suivi. L'imagerie optoacoustique multispectrale combine ultrasons et lasers : selon la longueur d'onde, elle renseigne sur l'hémoglobine, les lipides ou les protéines, donc sur la morphologie et la fonction du tissu. Elle a montré une augmentation du collagène musculaire, marqueur de fibrose, dans la dystrophie de Duchenne. Cette étude de l'université de Giessen (Allemagne) compare 51 participants, patients atteints de myosite et témoins sains appariés.",
+ "interet": "Si l'imagerie optoacoustique donne des marqueurs quantitatifs fiables, elle pourrait compléter l'IRM et l'échographie pour suivre la progression et la réponse thérapeutique dans les myosites.",
+ "profil": "Des patients atteints de myosite suivis au centre musculaire de l'hôpital universitaire de Giessen, et des témoins sains appariés.",
+ "inclusion": [
+  "Myosite prise en charge au centre musculaire intégré de l'hôpital universitaire de Giessen"
+ ],
+ "exclusion": [
+  "Contre-indication à l'examen optoacoustique",
+  "Grossesse",
+  "Prise de photosensibilisants dans les 72 dernières heures",
+  "Photothérapie en cours",
+  "Maladie photosensible connue"
+ ],
+ "bras": [
+  {
+   "nom": "Myosite et témoins sains",
+   "traitement": "Imagerie optoacoustique multispectrale de la musculature, patients et témoins appariés selon l'âge et le sexe"
+  }
+ ],
+ "duree": "Examen d'imagerie, période d'étude de 6 mois",
+ "critere": "Modifications du parenchyme musculaire dans la myosite en imagerie optoacoustique, sur la période d'étude de 6 mois."
+}

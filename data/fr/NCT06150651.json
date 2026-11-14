@@ -1,0 +1,34 @@
+{
+ "h": "f35cfe2a0e72",
+ "date": "2026-11-14",
+ "titre": "Lymphocytes CAR-T anti-CD19 (PiggyBac) dans le lupus réfractaire",
+ "question": "Les lymphocytes CAR-T anti-CD19 produits par transposon PiggyBac sont-ils sûrs dans le lupus systémique réfractaire ?",
+ "contexte": "Une partie des patients atteints de lupus systémique reste en échec malgré les antipaludéens, les immunosuppresseurs, les corticoïdes et les biothérapies, y compris dans la néphrite lupique. Les CAR-T anti-CD19, issus de l'hématologie, ont induit des rémissions prolongées sans traitement dans des séries de lupus réfractaire grâce à une déplétion B profonde, mais restent peu accessibles.\n\nLa plupart des CAR-T utilisent des vecteurs viraux, coûteux à produire. Le système de transposon PiggyBac permet de modifier génétiquement les lymphocytes T autologues sans vecteur viral, ce qui pourrait réduire les coûts.\n\nCette phase 1 monocentrique de l'Université Chulalongkorn (Thaïlande) évalue la sécurité de ces CAR-T chez des patients avec lupus réfractaire (3 patients), après lymphodéplétion par fludarabine et cyclophosphamide. Deux niveaux de dose sont prévus (1 × 10⁶ et 2 × 10⁶ cellules/kg). L'activité du lupus et la persistance des cellules sont également suivies.",
+ "interet": "Étape précoce vers des CAR-T plus accessibles dans les maladies auto-immunes, mais l'effectif minime ne permet aucune conclusion.",
+ "profil": "Des adultes de 18 à 60 ans avec un lupus réfractaire aux traitements standards.",
+ "inclusion": [
+  "Âge de 18 à 60 ans, LES selon ACR 1997, SLICC ou EULAR/ACR",
+  "Lupus persistant actif malgré antipaludéen, mycophénolate ≥ 1500 mg/j ou azathioprine ≥ 1,5 mg/kg/j, avec prednisolone ≥ 7,5 mg/j ou SLEDAI ≥ 8",
+  "Ou néphrite lupique proliférative en échec de deux inductions, ou aggravée malgré corticoïdes forts et mycophénolate ou cyclophosphamide",
+  "Contraception jusqu'à 4 mois après la perfusion",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Cancer actif (hors cancers cutanés non mélanocytaires et carcinomes in situ)",
+  "Antécédent de greffe d'organe ou de cellules souches",
+  "Maladie intercurrente non contrôlée : infection active, insuffisance cardiaque, cirrhose, etc.",
+  "VIH, hépatite B ou C actifs",
+  "Réaction grave antérieure à la cyclophosphamide ou à la fludarabine",
+  "DFGe < 30 mL/min/1,73 m²",
+  "Vaccin vivant dans les 30 jours, CAR-T antérieur"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T",
+   "traitement": "Lymphodéplétion (fludarabine + cyclophosphamide) puis perfusion de CAR-T anti-CD19 PiggyBac à 1 × 10⁶ ou 2 × 10⁶ cellules/kg"
+  }
+ ],
+ "duree": "Non précisé (critère principal jusqu'à 28 jours après perfusion)",
+ "critere": "Sécurité de la perfusion de CAR-T anti-CD19 PiggyBac, jusqu'à 28 jours après la perfusion."
+}

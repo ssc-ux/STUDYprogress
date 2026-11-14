@@ -1,0 +1,36 @@
+{
+ "h": "a4651ccc1967",
+ "date": "2026-11-14",
+ "titre": "Reproductibilité de la TEP au florbétabén [18F] dans l'amylose cardiaque (CATI)",
+ "question": "La TEP au florbétabén [18F] donne-t-elle des mesures reproductibles de la fixation myocardique chez des patients atteints d'amylose cardiaque AL ou ATTR et chez des témoins ?",
+ "contexte": "L'amylose cardiaque est due au dépôt de fibrilles amyloïdes dans le myocarde, de type AL (chaînes légères d'immunoglobulines) ou ATTR (transthyrétine). Elle entraîne une insuffisance cardiaque à fraction d'éjection préservée, des troubles du rythme et un mauvais pronostic. Les traitements se sont développés (tafamidis, anticorps ou chimiothérapies selon le type), ce qui rend nécessaire un suivi objectif de la charge amyloïde.\n\nLa scintigraphie aux diphosphonates détecte surtout l'ATTR, mais ne quantifie pas bien les dépôts et reste peu informative dans l'AL. Le florbétabén [18F] est un traceur TEP qui se lie à l'amyloïde et est déjà utilisé en neurologie. Cette étude de phase 1, ouverte, promue par Lantheus Germany, mesure la variabilité test-retest de paramètres comme la rétention myocardique du traceur. Les 15 participants (AL, ATTR et témoins, 5 par groupe) reçoivent deux injections avec deux examens TEP. Des métabolites sanguins sont dosés et la quantification invasive est comparée à la méthode non invasive.",
+ "interet": "Une bonne reproductibilité est une condition préalable pour utiliser la TEP au florbétabén comme outil de suivi de la charge amyloïde cardiaque et d'évaluation des traitements.",
+ "profil": "Des adultes de 40 ans ou plus avec amylose cardiaque AL ou ATTR, et des témoins sans amylose cardiaque.",
+ "inclusion": [
+  "Âge de 40 ans ou plus, consentement écrit",
+  "Femmes stérilisées, ménopausées, ou utilisant une contraception efficace après la TEP",
+  "Hommes et partenaires : contraception efficace pendant au moins 90 jours, pas de don de sperme",
+  "Traitements de l'amylose ou du cœur à dose stable (dont tafamidis)",
+  "Amylose cardiaque AL ou ATTR diagnostiquée selon les critères",
+  "Témoins : absence d'insuffisance cardiaque, ou amylose écartée, ou gammapathie sans atteinte cardiaque"
+ ],
+ "exclusion": [
+  "Anticorps ciblant l'amyloïde reçu dans les 3 derniers mois ou en cours",
+  "Allergie au traceur",
+  "Hémoglobine inférieure à 10 g/dL",
+  "Insuffisance hépatique sévère",
+  "Dialyse",
+  "Impossibilité de rester allongé 60 minutes",
+  "Grossesse ou allaitement",
+  "TEP dans la semaine précédente",
+  "Contre-indication à la ponction artérielle si prélèvement artériel"
+ ],
+ "bras": [
+  {
+   "nom": "Patients AL, ATTR et témoins",
+   "traitement": "Deux injections de florbétabén [18F] avec TEP au départ et lors d'une visite de suivi, 5 patients par groupe"
+  }
+ ],
+ "duree": "Jusqu'à 73 jours",
+ "critere": "Variabilité test-retest de la fixation cardiaque du florbétabén [18F] en TEP, sur une durée de participation allant jusqu'à 73 jours."
+}

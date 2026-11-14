@@ -1,0 +1,39 @@
+{
+ "h": "ef0904014920",
+ "date": "2026-11-14",
+ "titre": "Photobiomodulation et renforcement de la préhension chez des enfants atteints de sclérodermie localisée des mains",
+ "question": "La photobiomodulation, seule ou associée à des exercices contre résistance, améliore-t-elle l'épaisseur cutanée et la force de préhension chez l'enfant atteint de sclérodermie localisée ?",
+ "contexte": "La sclérodermie localisée (morphée) de l'enfant est une maladie fibrosante de la peau et parfois des tissus sous-jacents. Lorsqu'elle touche le dos des mains, elle peut entraîner une raideur, une perte de force et un handicap fonctionnel. Le traitement médicamenteux repose sur les corticoïdes locaux ou systémiques, le méthotrexate et la photothérapie selon l'étendue et l'activité.\n\nLa rééducation est un complément recommandé, mais sa place reste mal documentée chez l'enfant. La photobiomodulation (lumière polarisée, ici appareil Bioptron) est proposée pour ses effets anti-inflammatoires et sur la microcirculation. Cette étude randomisée, menée en Égypte, compare la photobiomodulation avec un programme de kinésithérapie classique, des exercices contre résistance avec le même programme, et l'association des deux. Le registre décrit un groupe de 21 enfants de 8 à 11 ans, alors que le texte descriptif mentionne 60 patients : l'effectif est donc à interpréter avec prudence.",
+ "interet": "Une efficacité de la photobiomodulation ou des exercices de renforcement donnerait des options non médicamenteuses simples pour préserver la fonction de la main. L'étude est petite, de promoteur local, et son niveau de preuve restera limité.",
+ "profil": "Des enfants de 8 à 11 ans atteints de sclérodermie localisée avec atteinte du dos de la main.",
+ "inclusion": [
+  "Âge de 8 à 11 ans",
+  "Sclérodermie localisée avec atteinte de la main, surtout le dos de la main",
+  "Patients conscients",
+  "Garçons et filles"
+ ],
+ "exclusion": [
+  "Diabète ou hypertension",
+  "Familiarité préalable avec la photobiomodulation ou le renforcement par dynamomètre",
+  "Hémorragie, notamment digestive",
+  "Infection fongique sévère ou virale aiguë",
+  "Tuberculose active, tumeur ou stimulateur cardiaque",
+  "Maladie thyroïdienne"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "Photobiomodulation et kinésithérapie classique (étirements, renforcement, exercices actifs), 3 séances de 15 min par semaine"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "Exercices contre résistance (dynamomètre de préhension) et kinésithérapie classique, 3 séances de 15 min par semaine"
+  },
+  {
+   "nom": "Groupe C",
+   "traitement": "Photobiomodulation, exercices contre résistance et kinésithérapie classique, 3 séances de 15 min par semaine"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Épaisseur cutanée (score de Rodnan modifié) et force de préhension (dynamomètre, pinch gauge) à 12 semaines."
+}

@@ -1,0 +1,31 @@
+{
+ "h": "d80dd43b16bd",
+ "date": "2026-11-14",
+ "titre": "Coach de santé par intelligence artificielle pour la sclérodermie systémique (RENEW-AI)",
+ "question": "Un agent conversationnel basé sur un grand modèle de langage est-il faisable et acceptable pour le coaching de santé de patients atteints de sclérodermie systémique ?",
+ "contexte": "La fatigue est un symptôme majeur et fréquent de la sclérodermie systémique, avec la douleur et les troubles de l'humeur. Les médicaments agissent peu sur elle, et les approches comportementales (activité physique, gestion de l'énergie, soutien psychologique) sont difficiles d'accès pour des patients dispersés, avec peu de professionnels formés.\n\nL'intervention RENEW a été testée dans un essai antérieur à l'université du Michigan, sous forme d'application de coaching. Cette étude pilote ajoute à l'application une fonction de discussion fondée sur un grand modèle de langage, adaptée par des consignes spécifiques. L'agent aide les participants à fixer ou modifier des objectifs comportementaux, à s'informer et à recevoir un soutien émotionnel. Vingt anciens participants de RENEW, ayant une fatigue notable, l'utilisent pendant 4 semaines. L'étude évalue l'utilisation, la satisfaction et l'acceptabilité.",
+ "interet": "Si la faisabilité et l'acceptabilité sont bonnes, un coach virtuel pourrait compléter la prise en charge de la fatigue dans une maladie rare. Les questions de fiabilité et de sécurité des réponses de l'IA restent à traiter dans des études plus larges.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec fatigue gênante, déjà participants à l'essai RENEW.",
+ "inclusion": [
+  "Participation antérieure à l'essai RENEW",
+  "Sclérodermie systémique, tout sous-type (diffuse, limitée, sine, chevauchement)",
+  "Score moyen de 4 ou plus à l'échelle de sévérité de la fatigue (FSS)",
+  "Accès à un ordinateur et à internet",
+  "Anglais parlé et lu"
+ ],
+ "exclusion": [
+  "Absence de participation à l'essai RENEW initial",
+  "Absence de connexion internet à haut débit fiable",
+  "Anglais non maîtrisé",
+  "Nouveau traitement prévu pour la fatigue, la douleur ou l'humeur pendant les 4 semaines",
+  "Maladie grave, trouble cognitif ou obstacle logistique empêchant la participation"
+ ],
+ "bras": [
+  {
+   "nom": "RENEW-AI",
+   "traitement": "Accès à la fonction de discussion par grand modèle de langage dans l'application RENEW pendant 4 semaines"
+  }
+ ],
+ "duree": "4 semaines",
+ "critere": "Engagement avec la fonction de discussion, satisfaction à l'égard du coaching généré par l'IA et acceptabilité de RENEW, sur 4 semaines."
+}

@@ -1,0 +1,31 @@
+{
+ "h": "fd5a5774a963",
+ "date": "2026-11-14",
+ "titre": "Microbiote respiratoire et réponse immunitaire dans le DICV",
+ "question": "Le déficit en anticorps du DICV modifie-t-il le microbiote respiratoire et les interactions hôte-microbes responsables de l'atteinte pulmonaire ?",
+ "contexte": "Le déficit immunitaire commun variable est le déficit immunitaire primitif symptomatique le plus fréquent. Les complications respiratoires sont les plus courantes : infections répétées, et maladie pulmonaire chronique chez 30 à 60 % des patients, malgré le traitement substitutif par immunoglobulines.\n\nLes mécanismes de cette atteinte restent mal connus. L'hypothèse de cette étude est que le déficit en anticorps modifie le microbiote respiratoire et ses interactions avec les cellules de l'hôte, entretenant la maladie pulmonaire.\n\nCette étude observationnelle de Boston University inclut 75 participants (patients avec déficit en anticorps, témoins) avec prélèvements nasopharyngés et salivaires analysés par séquençage d'ARN. Elle teste d'abord la faisabilité de cette approche, puis l'analyse du microbiote et de l'expression des gènes de l'hôte.",
+ "interet": "Étude exploratoire de physiopathologie qui pourrait identifier des marqueurs de la maladie pulmonaire du DICV ; aucun impact direct sur la prise en charge à ce stade.",
+ "profil": "Des adultes avec déficit primitif en anticorps et des témoins sans déficit immunitaire.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "Déficit primitif en anticorps diagnostiqué par le médecin traitant (patients)",
+  "Absence de tout déficit immunitaire (témoins)",
+  "Inclusion équilibrée d'hommes et de femmes"
+ ],
+ "exclusion": [
+  "Grossesse (auto-déclarée)",
+  "Asthme ou BPCO non bien contrôlés cliniquement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec déficit en anticorps",
+   "traitement": "Prélèvements respiratoires et salivaires, adressés par un médecin"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Patients sans déficit en anticorps de la clinique d'allergie-immunologie ou volontaires sains"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Faisabilité du séquençage d'ARN des échantillons respiratoires (1 an) ; analyse de la salive, du microbiote et de l'expression des gènes de l'hôte dans les échantillons nasopharyngés (2 ans)."
+}

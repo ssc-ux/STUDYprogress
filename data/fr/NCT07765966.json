@@ -1,0 +1,27 @@
+{
+ "h": "54cfd6dcbbba",
+ "date": "2026-11-14",
+ "titre": "RXIM002 (ARNm) dans le purpura thrombopénique immunologique réfractaire : escalade de dose",
+ "question": "RXIM002 est-il sûr et tolérable, et quels sont ses effets pharmacologiques et son efficacité préliminaire, chez des patients ayant un PTI en rechute ou réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps et des lymphocytes T détruisent les plaquettes et altèrent leur production. Après les corticoïdes et les immunoglobulines, on utilise les agonistes du récepteur de la thrombopoïétine, le rituximab, le fostamatinib ou la splénectomie. Une partie des patients reste en rechute ou réfractaire, d'où le besoin de traitements agissant sur les mécanismes auto-immuns.\n\nLes critères d'exclusion (allergie aux vaccins à ARNm ou aux produits ARN-LNP) montrent que RXIM002 est une thérapie à base d'ARN encapsulé dans des nanoparticules lipidiques, sans que le registre en précise la cible. Cet essai de phase 1 ouvert, promu par RiboX Therapeutics, teste trois niveaux de dose chez 27 patients. Le titre évoque les cytopénies auto-immunes, mais seul le PTI est inclus dans le registre.",
+ "interet": "Étude de sécurité de première administration chez l'homme ou au stade précoce. Elle apportera des données de tolérance et d'activité préliminaire d'une approche ARN dans le PTI réfractaire.",
+ "profil": "Des adultes de 18 à 75 ans ayant un PTI primaire en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "PTI primaire diagnostiqué",
+  "PTI en rechute ou réfractaire"
+ ],
+ "exclusion": [
+  "Allergie ou hypersensibilité aux vaccins à ARNm ou aux produits ARN-LNP",
+  "Infection active",
+  "Insuffisance cardiaque, insuffisance rénale ou anomalies hépatiques"
+ ],
+ "bras": [
+  {
+   "nom": "RXIM002",
+   "traitement": "Trois cohortes de niveaux de dose croissants de RXIM002, ouvert, mono-bras (doses non précisées)"
+  }
+ ],
+ "duree": "Jusqu'à 104 semaines",
+ "critere": "Incidence des événements indésirables apparus sous traitement (jusqu'à 104 semaines) et des toxicités dose-limitantes (jusqu'au jour 28 après la première dose)"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "228b2bc541d8",
+ "date": "2026-11-14",
+ "titre": "Rééducation robotisée en réalité virtuelle dans les myopathies inflammatoires",
+ "question": "Une rééducation robotisée en réalité virtuelle non immersive, en double tâche, améliore-t-elle la force musculaire et la détresse psychologique davantage que la kinésithérapie standard dans les myopathies inflammatoires ?",
+ "contexte": "Les myopathies inflammatoires (dermatomyosite, polymyosite, myopathie nécrosante à médiation immune, myosite à inclusions) entraînent une faiblesse musculaire proximale et une perte de fonction, associées à une fatigue et une détresse psychologique. Le traitement de fond est immunosuppresseur, sauf dans la myosite à inclusions. La rééducation est recommandée, mais ses modalités optimales sont encore discutées.\n\nLes dispositifs robotisés et la réalité virtuelle permettent d'augmenter l'intensité, la répétition et la motivation, et de combiner un exercice moteur avec une tâche cognitive (double tâche). Cette étude randomisée, menée à l'Institut national de gériatrie, rhumatologie et rééducation de Varsovie, compare chez 33 patients un entraînement sur dispositifs robotisés (tapis de marche Zebris, plateforme stabilométrique Alfa, ensemble robotique Diego) à une kinésithérapie standard. Dans les deux groupes, l'entraînement dure 4 à 6 semaines, à raison de 5 séances par semaine, avec une évaluation de suivi 6 semaines après la fin.",
+ "interet": "Un bénéfice supérieur à la kinésithérapie standard ferait de la rééducation robotisée une option de renforcement pour les patients atteints de myopathie inflammatoire. L'étude est de petite taille et monocentrique.",
+ "profil": "Des adultes atteints de myopathie inflammatoire avec baisse de force musculaire.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Myosite (critères de Bohan et Peter), myopathie nécrosante à médiation immune ou myosite à inclusions (critères ENMC)",
+  "Force diminuée : MMT-8 de 64/80 ou moins, et/ou 7/10 ou moins pour au moins un groupe musculaire proximal"
+ ],
+ "exclusion": [
+  "Maladie cardiopulmonaire sévère",
+  "Cancer concomitant",
+  "Trouble psychiatrique sévère",
+  "Blessure ou comorbidité empêchant l'exercice"
+ ],
+ "bras": [
+  {
+   "nom": "Réalité virtuelle non immersive avec robots",
+   "traitement": "Entraînement sur tapis Zebris, plateforme stabilométrique Alfa et ensemble robotique Diego, 5 fois par semaine pendant 4 à 6 semaines"
+  },
+  {
+   "nom": "Kinésithérapie standard",
+   "traitement": "Séances d'exercice avec des kinésithérapeutes, 5 fois par semaine pendant 4 à 6 semaines"
+  }
+ ],
+ "duree": "4 à 6 semaines de rééducation, suivi 6 semaines après",
+ "critere": "Variation de la force musculaire et de l'endurance musculaire par rapport à l'inclusion, à 4-6 semaines et à 10-12 semaines."
+}

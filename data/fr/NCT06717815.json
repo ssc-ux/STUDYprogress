@@ -1,0 +1,43 @@
+{
+ "h": "41370ab0f05f",
+ "date": "2026-11-14",
+ "titre": "IPG11406 oral dans la néphrite lupique : étude de phase 1b/2a à doses croissantes",
+ "question": "L'IPG11406, administré par voie orale, est-il sûr et tolérable à doses croissantes chez des patients atteints de néphrite lupique, et quel est son effet préliminaire sur la protéinurie ?",
+ "contexte": "La néphrite lupique touche une part importante des patients atteints de lupus et expose au risque d'insuffisance rénale chronique. Le traitement d'induction repose sur les corticoïdes associés au mycophénolate ou au cyclophosphamide, avec des biothérapies (belimumab) ou des inhibiteurs de la calcineurine en association. Une fraction des patients n'obtient pas de rémission complète ou rechute, d'où le besoin de nouvelles molécules.\n\nL'IPG11406 est un médicament expérimental oral de Nanjing Immunophage Biotech. Le registre ne précise pas son mécanisme ; les critères de la partie B (interféron gamma élevé, rapport Th1/Th2 d'au moins 14) suggèrent une action sur la réponse immune de type Th1. Cette étude de phase 1b/2a, non randomisée, comprend deux parties. La partie A1 teste 3 doses (20, 40 et 80 mg deux fois par jour) en cohortes de 3 à 6 patients, avec 28 jours de traitement. La partie A2 est une expansion à la dose recommandée. La partie B sera définie ensuite. Vingt-quatre patients ont été inclus dans 17 centres en Chine.",
+ "interet": "Ces données de phase précoce établiront la dose recommandée et donneront un premier aperçu de l'effet sur la protéinurie et la fonction rénale. Elles ne permettent pas de conclure à l'efficacité.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus avec néphrite active et protéinurie, avec fonction rénale conservée.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, lupus selon les critères ACR 1997",
+  "SLEDAI-2K d'au moins 6",
+  "Rapport protéinurie/créatininurie supérieur à 0,5 g/g ou protéinurie des 24 h d'au moins 0,5 g",
+  "DFG estimé (MDRD) d'au moins 60 mL/min/1,73 m²",
+  "Traitement de fond stable à doses limitées (corticoïdes, hydroxychloroquine, immunosuppresseurs) ou absence de traitement depuis 2 mois",
+  "Contraception efficace, consentement éclairé"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Néphrite lupique sévère avec DFG inférieur à 60 mL/min/1,73 m²",
+  "Lupus neuropsychiatrique sévère",
+  "Vascularite non lupique ou chevauchement avec une autre connectivite",
+  "Cancer dans les 5 dernières années, greffe d'organe ou de moelle",
+  "Tuberculose active ou latente, infection herpétique grave, hépatite B ou C, VIH, syphilis",
+  "Insuffisance cardiaque (NYHA III-IV), allongement du QTc ou FEVG inférieure à 50 %",
+  "Anomalies hépatiques, rénales ou hématologiques significatives"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1",
+   "traitement": "IPG11406 20 mg par voie orale, 2 fois par jour, 28 jours"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "IPG11406 40 mg par voie orale, 2 fois par jour, 28 jours"
+  },
+  {
+   "nom": "Cohorte 3",
+   "traitement": "IPG11406 80 mg par voie orale, 2 fois par jour, 28 jours"
+  }
+ ],
+ "duree": "Environ 58 jours, dépistage de 28 jours inclus",
+ "critere": "Sécurité et tolérance (événements indésirables, constantes, biologie, ECG), biomarqueurs, protéinurie, DFG et rapport protéinurie/créatininurie, jusqu'à 58 jours."
+}

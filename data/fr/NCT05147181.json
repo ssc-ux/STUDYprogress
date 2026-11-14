@@ -1,0 +1,30 @@
+{
+ "h": "d22fbf0b4d19",
+ "date": "2026-11-14",
+ "titre": "Lanadelumab dans l'angiœdème héréditaire en vie réelle en Pologne",
+ "question": "Quelle proportion de patients avec angiœdème héréditaire (AOH) reste sans crise sous lanadelumab en pratique courante ?",
+ "contexte": "L'angiœdème héréditaire de type I ou II, lié à un déficit en inhibiteur de la C1 estérase, se manifeste par des crises récidivantes d'œdème sous-cutané ou muqueux, parfois laryngé et potentiellement mortelles. Le traitement de fond vise à prévenir les crises et à réduire le recours aux traitements de secours.\n\nLe lanadelumab est un anticorps monoclonal anti-kallicréine plasmatique, administré par voie sous-cutanée. Dans l'essai pivot HELP, il a réduit nettement le nombre de crises par rapport au placebo. Les données de vie réelle restent utiles pour confirmer cet effet dans des populations non sélectionnées.\n\nCette étude observationnelle prospective, promue par Takeda, suit des patients polonais traités par lanadelumab dans le cadre du programme national de remboursement, conformément au RCP de Takhzyro. Elle décrit la proportion de patients sans crise, la fréquence et la sévérité des crises, leur localisation et le recours aux traitements de secours, avec des visites tous les 6 mois.",
+ "interet": "Elle apporte des données de vie réelle sur l'efficacité du lanadelumab et sur la charge résiduelle de la maladie sous traitement, utiles pour juger de la place de ce traitement de fond.",
+ "profil": "Des patients de 12 ans et plus avec un AOH de type I ou II, traités par lanadelumab en Pologne.",
+ "inclusion": [
+  "AOH de type I ou II",
+  "Âge ≥ 12 ans",
+  "Éligible au lanadelumab dans le programme national polonais",
+  "Traitement conforme au RCP de Takhzyro",
+  "Consentement éclairé signé",
+  "Capable de comprendre et respecter le protocole"
+ ],
+ "exclusion": [
+  "Participation actuelle ou prévue à un essai interventionnel",
+  "Toute autre raison rendant le patient inapte selon l'investigateur",
+  "Patient déjà inclus dans l'étude"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec AOH",
+   "traitement": "Lanadelumab en pratique courante selon le RCP, observés pendant 36 mois"
+  }
+ ],
+ "duree": "36 mois (visites tous les 6 mois)",
+ "critere": "Variation du nombre total de crises d'AOH à 3 mois sous lanadelumab ; proportion de patients sans crise aux mois 6, 12, 18 et 24 ; recours au traitement de secours, sévérité, localisation et durée des crises."
+}

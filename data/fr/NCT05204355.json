@@ -1,0 +1,38 @@
+{
+ "h": "a53b80cc75b5",
+ "date": "2026-11-14",
+ "titre": "IRM pulmonaire pour dépister et suivre la pneumopathie interstitielle de la sclérodermie",
+ "question": "L'IRM pulmonaire (UTE et xénon-129 hyperpolarisé) peut-elle dépister la PID de la sclérodermie et mesurer la réponse au traitement ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est fréquente au cours de la sclérodermie systémique et constitue l'une des principales causes de mortalité. Son dépistage repose sur le scanner thoracique haute résolution (TDM), examen irradiant, et son suivi sur les épreuves fonctionnelles respiratoires, peu sensibles aux changements précoces.\n\nL'IRM pulmonaire en temps d'écho ultracourt (UTE) donne des images de la structure pulmonaire se rapprochant du scanner, sans irradiation. L'IRM au xénon-129 hyperpolarisé explore en plus les échanges gazeux et pourrait détecter plus tôt une amélioration ou une aggravation que la capacité vitale forcée, la DLCO, le test de marche ou la dyspnée.\n\nCette étude observationnelle de l'University of Kansas comporte deux groupes : sclérodermie avec comparaison UTE-IRM/TDM (sensibilité et spécificité attendues > 80 %), et sclérodermie avec PID débutant un traitement, suivie par IRM au xénon-129 à 6 mois.",
+ "interet": "Une IRM sans irradiation pourrait remplacer ou compléter le scanner pour dépister et suivre la PID sclérodermique, et fournir un marqueur précoce de réponse thérapeutique.",
+ "profil": "Des adultes atteints de sclérodermie, avec ou sans PID, selon le groupe.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie cliniquement diagnostiquée (groupe 1) ou sclérodermie avec PID (groupe 2)",
+  "Scanner thoracique dans le mois précédant ou suivant l'inclusion (groupe 1)",
+  "Début ou projet de traitement de la PID à ± 30 jours (groupe 2)",
+  "CVF ≥ 45 %, DLCO ≥ 30 % et SpO2 > 87 % (groupe 2)",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Contre-indication à l'IRM",
+  "Grossesse ou allaitement",
+  "Hospitalisation > 23 h dans les 30 jours ou chirurgie majeure dans les 90 jours",
+  "Fibrose pulmonaire idiopathique (groupe 2)",
+  "Hypertension pulmonaire significative ou insuffisance cardiaque droite (groupe 2)",
+  "Trouble ventilatoire obstructif (VEMS/CVF < 0,7) (groupe 2)",
+  "Traitement de la PID débuté depuis plus de 30 jours (groupe 2)"
+ ],
+ "bras": [
+  {
+   "nom": "Sclérodermie",
+   "traitement": "IRM UTE comparée au scanner haute résolution pour identifier la PID"
+  },
+  {
+   "nom": "Sclérodermie avec PID",
+   "traitement": "IRM au xénon-129 hyperpolarisé au début d'un traitement de la PID puis à 6 mois"
+  }
+ ],
+ "duree": "Environ 6 mois (groupe 2)",
+ "critere": "Présence de PID sur scanner et IRM à l'inclusion ; variation du ratio globules rouges/barrière en IRM au xénon-129 à 6 mois."
+}

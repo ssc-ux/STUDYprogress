@@ -1,0 +1,33 @@
+{
+ "h": "ea374e7cd720",
+ "date": "2026-11-14",
+ "titre": "Fonctions cognitives, fatigue et inflammation dans le purpura thrombopénique immunologique chronique",
+ "question": "Quelle est la prévalence des troubles cognitifs chez des adultes atteints de PTI primaire chronique, et sont-ils liés à la fatigue et à l'inflammation ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et en freinent la production. Au-delà du risque hémorragique, beaucoup de patients se plaignent de fatigue, de troubles de la concentration et de la mémoire, même lorsque le taux de plaquettes est correct. Ces symptômes sont mal expliqués et peu mesurés en pratique.\n\nLes traitements de première ligne sont les corticoïdes, les immunoglobulines et les anti-D ; les agonistes du récepteur de la thrombopoïétine, le rituximab, le fostamatinib ou la splénectomie sont utilisés ensuite. Une hypothèse est que l'inflammation systémique contribue à la fatigue et aux troubles cognitifs. Cette étude observationnelle transversale, promue par Sanofi, inclut 97 adultes ayant un PTI primaire chronique (plus d'un an) aux États-Unis et au Royaume-Uni. Elle associe la revue du dossier, des évaluations cliniques et des prélèvements sanguins complémentaires pour doser des biomarqueurs lors d'une visite de routine.",
+ "interet": "Mieux caractériser les troubles cognitifs et la fatigue du PTI pourrait faire reconnaître ces symptômes comme une dimension à part entière de la maladie, à prendre en compte dans le suivi.",
+ "profil": "Des adultes atteints de PTI primaire chronique, ayant répondu à un traitement de première ligne.",
+ "inclusion": [
+  "PTI primaire chronique (plus d'un an), résidence aux États-Unis ou au Royaume-Uni",
+  "Traitement spécifique en cours, ou plaquettes de plus de 50 G/L sans traitement depuis un an ou moins",
+  "Âge de 18 ans ou plus",
+  "Réponse initiale à au moins un traitement de première ligne (corticoïdes, immunoglobulines, anti-D)",
+  "Dossier médical disponible sur les 12 mois précédents",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "PTI secondaire",
+  "Plaquettes de plus de 50 G/L sans traitement depuis plus d'un an",
+  "Infection récente ou active (14 jours ou moins) ou infection chronique non contrôlée",
+  "Vaccination dans les 28 jours",
+  "Traitement par rilzabrutinib",
+  "Essai interventionnel dans les 180 jours précédents"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes atteints de PTI chronique",
+   "traitement": "Cohorte transversale sans intervention : évaluation cognitive, fatigue et biomarqueurs sanguins lors d'une visite"
+  }
+ ],
+ "duree": "Une visite d'étude",
+ "critere": "Prévalence des troubles cognitifs chez les adultes atteints de PTI, au jour 1 (date index)."
+}

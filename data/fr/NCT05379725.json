@@ -1,0 +1,35 @@
+{
+ "h": "0113ab8474ba",
+ "date": "2026-11-14",
+ "titre": "Régime méditerranéen versus aliments fermentés dans le lupus",
+ "question": "Les patients lupiques peuvent-ils bien suivre un régime méditerranéen ou riche en aliments fermentés ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie auto-immune dont l'activité fluctue et dont la prise en charge repose sur les antipaludéens et les immunosuppresseurs. Les patients s'interrogent souvent sur le rôle de l'alimentation, et des données suggèrent un effet bénéfique du régime méditerranéen dans les maladies auto-immunes.\n\nLes aliments fermentés (yaourt, kéfir, légumes lactofermentés) pourraient modifier le microbiote intestinal et le profil inflammatoire. Les preuves chez les patients lupiques restent minimes.\n\nCet essai de faisabilité randomisé de l'University of Florida dure 4 mois, avec 1 mois de régime habituel puis 3 mois d'intervention par éducation diététique. Il compare l'adhésion « bonne ou très bonne » aux deux régimes, avec des critères secondaires sur les cytokines inflammatoires et l'activité de la maladie. L'étude a été arrêtée après 5 patients.",
+ "interet": "L'étude renseigne sur la faisabilité d'une intervention nutritionnelle dans le lupus, mais son arrêt précoce ne permet aucune conclusion d'efficacité.",
+ "profil": "Des adultes avec un lupus systémique suivis par un médecin spécialiste.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Critères diagnostiques de lupus remplis, suivi par un rhumatologue, néphrologue ou autre médecin",
+  "Consentement éclairé et capacité de remplir les questionnaires en anglais",
+  "Volonté de respecter les procédures de l'étude"
+ ],
+ "exclusion": [
+  "Grossesse ou projet de grossesse pendant l'étude",
+  "Régime végétarien ou végan",
+  "Allergie au gluten, au soja ou au lait de vache, ou intolérance au lactose",
+  "Apport en fibres initial > 30 g/j",
+  "Score MEDAS initial > 9",
+  "Consommation initiale > 2 portions/j d'aliments fermentés"
+ ],
+ "bras": [
+  {
+   "nom": "Régime méditerranéen",
+   "traitement": "Éducation diététique pour adopter le régime méditerranéen pendant 3 mois"
+  },
+  {
+   "nom": "Aliments fermentés",
+   "traitement": "Éducation diététique pour adopter un régime riche en aliments fermentés pendant 3 mois"
+  }
+ ],
+ "duree": "4 mois (1 mois de référence et 3 mois d'intervention)",
+ "critere": "Adhésion au régime méditerranéen ou au régime riche en aliments fermentés, à l'inclusion et aux mois 1, 2 et 3."
+}

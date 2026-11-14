@@ -1,0 +1,37 @@
+{
+ "h": "361e46475a1c",
+ "date": "2026-11-14",
+ "titre": "Secukinumab intraveineux : pharmacocinétique et tolérance dans l'ACG et la PPR",
+ "question": "Quelle est la pharmacocinétique et la tolérance du secukinumab intraveineux chez des patients avec artérite à cellules géantes (ACG) ou pseudo-polyarthrite rhizomélique (PPR) ?",
+ "contexte": "L'artérite à cellules géantes et la pseudo-polyarthrite rhizomélique sont deux maladies inflammatoires du sujet de plus de 50 ans, liées à la voie de l'IL-17 et de l'IL-6. Elles reposent sur une corticothérapie prolongée, source de nombreux effets indésirables, et les rechutes sont fréquentes ; le tocilizumab est le seul biologique largement utilisé.\n\nLe secukinumab, anticorps anti-IL-17A, est approuvé par voie sous-cutanée dans le psoriasis, les spondyloarthrites et d'autres indications. Une administration intraveineuse permet d'atteindre rapidement des concentrations élevées et est développée pour de nouvelles indications.\n\nCette phase 1 de Novartis, ouverte et multicentrique en panier, inclut deux cohortes (ACG, PPR) recevant 3 perfusions IV de secukinumab aux semaines 0, 4 et 8, avec 8 semaines de suivi. Le critère principal est pharmacocinétique (Cmax, Cmin, ASC à l'état d'équilibre), la tolérance étant également évaluée.",
+ "interet": "Elle établit les données pharmacocinétiques et de sécurité nécessaires avant des essais d'efficacité du secukinumab IV dans l'ACG et la PPR.",
+ "profil": "Des adultes de 50 ans et plus avec une ACG ou une PPR active.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "ACG : symptômes crâniens, de PPR ou d'ischémie de membre, avec biopsie ou imagerie en faveur d'une vascularite",
+  "ACG active dans les 6 mois, avec VS ≥ 30 mm/h ou CRP ≥ 10 mg/L",
+  "PPR selon les critères ACR/EULAR provisoires (douleur bilatérale des épaules, CRP ≥ 10 mg/L ou VS ≥ 30 mm/h, score ≥ 4)",
+  "PPR active dans les 6 mois avec douleur et raideur inflammatoires des ceintures"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Hypersensibilité au traitement ou à ses excipients",
+  "Hépatopathie : transaminases > 3 N ou bilirubine > 1,5 N",
+  "Infection active, VIH, hépatite B ou C, tuberculose active",
+  "Maladie inflammatoire intestinale ou uvéite active",
+  "Événement ischémique majeur dans les 12 semaines, insuffisance cardiaque NYHA III-IV, diabète non contrôlé",
+  "Autre vascularite systémique que l'ACG"
+ ],
+ "bras": [
+  {
+   "nom": "Secukinumab : ACG",
+   "traitement": "Secukinumab IV, 3 perfusions (semaines 0, 4 et 8)"
+  },
+  {
+   "nom": "Secukinumab : PPR",
+   "traitement": "Secukinumab IV, 3 perfusions (semaines 0, 4 et 8)"
+  }
+ ],
+ "duree": "Environ 26 semaines (12 semaines de traitement, 8 semaines de suivi)",
+ "critere": "Pharmacocinétique du secukinumab à l'état d'équilibre : Cmax, Cmin, ASC sur un intervalle de dose et concentration moyenne, de l'inclusion à la semaine 20."
+}

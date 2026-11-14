@@ -1,0 +1,34 @@
+{
+ "h": "214bb91208b2",
+ "date": "2026-11-14",
+ "titre": "Teclistamab plus daratumumab dans le myélome nouvellement diagnostiqué avec amylose AL associée",
+ "question": "L'association teclistamab-daratumumab améliore-t-elle la survie sans progression à 1 an chez des patients ayant un myélome et une amylose AL concomitante, nouvellement diagnostiqués ?",
+ "contexte": "Chez une minorité de patients, un myélome multiple s'accompagne d'une amylose AL concomitante. Ces patients cumulent une masse tumorale plasmocytaire et des dépôts de chaînes légères dans les organes, notamment le cœur et le rein, ce qui limite la tolérance des traitements intensifs et assombrit le pronostic. Ils sont généralement exclus des grands essais du myélome.\n\nLe teclistamab est un anticorps bispécifique reliant BCMA des plasmocytes au CD3 des lymphocytes T, déjà approuvé dans le myélome en rechute. Le daratumumab sous-cutané (anti-CD38) est un pilier du traitement de l'amylose AL et du myélome. Cet essai de phase II monobras du Zhongshan Hospital (Shanghai), avec Johnson & Johnson comme collaborateur, inclut 30 patients non traités. Le teclistamab débute par une montée de dose, puis 1,5 mg/kg par semaine au cycle 1, 3 mg/kg toutes les 2 semaines aux cycles 2-3, puis toutes les 4 semaines. Le daratumumab est donné à 1800 mg selon un rythme espacé progressivement. Le traitement dure jusqu'à 24 cycles. Les résultats sont comparés aux données historiques (survie sans progression à 1 an de 50 à 75 %).",
+ "interet": "L'étude pourrait montrer si une immunothérapie en première ligne, sans chimiothérapie, donne des réponses hématologiques profondes et une réponse d'organe dans cette population rare à haut risque.",
+ "profil": "Des adultes ayant un myélome multiple et une amylose AL concomitante, nouvellement diagnostiqués et non traités.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Myélome multiple selon les critères IMWG",
+  "Amylose AL prouvée (rouge Congo avec biréfringence verte, plus immunohistochimie, spectrométrie de masse ou microscopie électronique)",
+  "Maladie mesurable, nouvellement diagnostiquée, sans traitement antérieur dirigé contre les plasmocytes",
+  "Hémoglobine ≥ 7,5 g/dL, neutrophiles ≥ 1 G/L, plaquettes ≥ 70 G/L",
+  "ALAT et ASAT ≤ 2,5 N, bilirubine ≤ 2 N, clairance de la créatinine ≥ 30 mL/min",
+  "Contraception, consentement signé"
+ ],
+ "exclusion": [
+  "Traitement antérieur du myélome ou greffe de cellules souches",
+  "MGUS, myélome indolent, amylose AL sans myélome, Waldenström, leucémie à plasmocytes, syndrome POEMS ou autre cancer dans les 3 ans",
+  "Infection ou maladie auto-immune active",
+  "Diabète, hypertension ou autre comorbidité non contrôlés",
+  "Grossesse ou allaitement",
+  "Participation à un autre essai interventionnel"
+ ],
+ "bras": [
+  {
+   "nom": "Tec-Dara",
+   "traitement": "Teclistamab sous-cutané (montée de dose 0,06, 0,3, 1,5 mg/kg puis 1,5 mg/kg par semaine, 3 mg/kg toutes les 2 puis 4 semaines) et daratumumab sous-cutané 1800 mg à rythme décroissant, jusqu'à 24 cycles"
+  }
+ ],
+ "duree": "Jusqu'à 24 cycles de 28 jours, ou jusqu'à progression ou toxicité",
+ "critere": "Taux de survie sans progression à 1 an à partir du début du traitement"
+}

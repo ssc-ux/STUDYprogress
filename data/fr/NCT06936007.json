@@ -1,0 +1,24 @@
+{
+ "h": "c89ff1aa061e",
+ "date": "2026-11-14",
+ "titre": "Manifestations hématologiques du lupus chez des patients hospitalisés au Népal",
+ "question": "Quels sont les types et la fréquence des anomalies hématologiques chez des patients atteints de lupus hospitalisés dans un centre tertiaire du Népal ?",
+ "contexte": "Le lupus érythémateux systémique s'accompagne fréquemment d'anomalies hématologiques : anémie (inflammatoire, hémolytique auto-immune ou carentielle), leucopénie, lymphopénie et thrombopénie. Ces manifestations peuvent révéler la maladie, signaler une poussée et parfois imposer un traitement urgent. Leur fréquence varie selon les populations et les contextes de soins.\n\nLes données en Asie du Sud, et au Népal en particulier, sont rares. Cette étude observationnelle rétrospective transversale de l'Académie des sciences de la santé de Patan passe en revue les dossiers de 99 patients lupiques hospitalisés d'avril 2018 à mars 2023. Elle recueille les paramètres hématologiques, le profil démographique et les manifestations cliniques. Les patients ayant une maladie hématologique indépendante (hémophilie, leucémie, lymphome) ou un dossier incomplet sont exclus.",
+ "interet": "Ces données locales précisent le poids des manifestations hématologiques du lupus dans un pays à ressources limitées. L'étude est rétrospective et monocentrique.",
+ "profil": "Des patients atteints de lupus hospitalisés dans un centre tertiaire du Népal entre 2018 et 2023.",
+ "inclusion": [
+  "Lupus diagnostiqué selon les critères EULAR/ACR 2019"
+ ],
+ "exclusion": [
+  "Maladie ou affection hématologique indépendante (hémophilie, leucémie, lymphome, etc.)",
+  "Dossier incomplet"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques hospitalisés",
+   "traitement": "Revue rétrospective des dossiers, sans intervention"
+  }
+ ],
+ "duree": "Revue de dossiers de 2018 à 2023",
+ "critere": "Pourcentage de patients présentant des anomalies hématologiques à l'admission (étude transversale)."
+}

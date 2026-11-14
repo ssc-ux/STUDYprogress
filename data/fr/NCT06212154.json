@@ -1,0 +1,34 @@
+{
+ "h": "9d1bc1f8dccf",
+ "date": "2026-11-14",
+ "titre": "CAR-T ThisCART19A dans l'anémie hémolytique auto-immune réfractaire",
+ "question": "Le CAR-T allogénique anti-CD19 ThisCART19A est-il sûr et efficace dans l'anémie hémolytique auto-immune après au moins trois lignes de traitement ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) à anticorps chauds, à agglutinines froides, mixte ou associée au syndrome d'Evans est traitée par corticoïdes, rituximab et immunosuppresseurs. Les formes réfractaires, qui résistent aussi à la splénectomie ou aux inhibiteurs de BTK, restent très difficiles à prendre en charge.\n\nLe ciblage de CD19 permet une déplétion profonde des lymphocytes B producteurs d'autoanticorps, comme dans le lupus. ThisCART19A est un CAR-T anti-CD19 composé de lymphocytes T allogéniques, disponible sans fabrication individuelle.\n\nCette phase 1 chinoise, en ouvert, à escalade puis extension de dose, évalue la sécurité, la dose maximale tolérée, l'efficacité et la pharmacocinétique après lymphodéplétion préalable, avec surveillance de 28 jours. Elle a été arrêtée après l'inclusion d'un seul patient.",
+ "interet": "Piste thérapeutique exploratoire pour les AHAI multi-réfractaires ; l'arrêt précoce ne permet aucune conclusion.",
+ "profil": "Des patients de 12 ans et plus avec une AHAI ou un syndrome d'Evans en échec d'au moins trois lignes de traitement.",
+ "inclusion": [
+  "Âge ≥ 12 ans, ECOG ≤ 2",
+  "AHAI à anticorps chauds, froids, mixte ou syndrome d'Evans",
+  "Hémoglobine < 100 g/L",
+  "Échec ou intolérance à au moins 3 lignes (corticoïdes, rituximab, cyclophosphamide, azathioprine, fludarabine, ciclosporine, mycophénolate, inhibiteur de BTK, splénectomie)",
+  "Fonctions d'organes adéquates : ALAT/ASAT ≤ 3 N, clairance ≥ 40 mL/min, neutrophiles ≥ 1,0 G/L, FEVG ≥ 45 %, SpO2 ≥ 92 %"
+ ],
+ "exclusion": [
+  "Syndrome lymphoprolifératif avéré",
+  "Plaquettes < 20 G/L",
+  "AVC, épilepsie ou traumatisme crânien dans les 6 mois",
+  "Infarctus dans les 6 mois, angor instable, arythmie sévère, insuffisance cardiaque NYHA III-IV",
+  "Cancer dans les 5 ans (sauf in situ traités)",
+  "Infection active grave, VHB actif, VHC, VIH, syphilis active",
+  "Maladie psychiatrique ou trouble cognitif sévère",
+  "Vaccin vivant dans les 4 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "ThisCART19A",
+   "traitement": "Perfusion de lymphocytes T allogéniques CAR anti-CD19, après lymphodéplétion, en escalade puis extension de dose"
+  }
+ ],
+ "duree": "6 mois de suivi de sécurité (surveillance rapprochée de 28 jours)",
+ "critere": "Incidence et fréquence des événements indésirables apparus sous traitement (6 mois) et dose maximale tolérée (jusqu'à 28 jours après perfusion)."
+}

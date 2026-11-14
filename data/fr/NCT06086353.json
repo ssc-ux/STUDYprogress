@@ -1,0 +1,27 @@
+{
+ "h": "e99fb22145f9",
+ "date": "2026-11-14",
+ "titre": "Tafamidis dans l'amylose cardiaque à transthyrétine en Inde",
+ "question": "Quelle est la tolérance du tafamidis chez des patients indiens avec cardiomyopathie amyloïde à transthyrétine ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), sauvage ou héréditaire, est due au dépôt de fibrilles de TTR dans le myocarde. Elle entraîne insuffisance cardiaque et décès. Le tafamidis, stabilisateur du tétramère de TTR, réduit la mortalité et les hospitalisations cardiovasculaires dans l'essai ATTR-ACT.\n\nAvant sa commercialisation locale, une surveillance de sécurité est demandée en Inde. Cette étude observationnelle de Pfizer suit 6 adultes ATTR-CM recevant le tafamidis (VyndaMx), selon la pratique courante.\n\nLes événements indésirables, attendus ou non, sont recueillis pendant 6 mois dans les dossiers, avec un suivi en consultation ou par téléphone.",
+ "interet": "Elle complète les données de sécurité du tafamidis en Inde, mais l'effectif très réduit ne permet pas d'établir un profil de tolérance fiable.",
+ "profil": "Des adultes indiens avec ATTR-CM sauvage ou héréditaire, traités par tafamidis.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "ATTR-CM de type sauvage ou héréditaire",
+  "Prescription de VyndaMx (tafamidis) pour l'ATTR-CM"
+ ],
+ "exclusion": [
+  "Hypersensibilité à VyndaMx ou à un excipient",
+  "Intolérance héréditaire rare au fructose",
+  "Contre-indication selon l'étiquette locale"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec ATTR-CM en Inde",
+   "traitement": "Tafamidis (VyndaMx) en capsules orales, selon la pratique courante"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Nombre d'événements indésirables sous tafamidis entre l'inclusion et 6 mois."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "96956d531d9f",
+ "date": "2026-11-14",
+ "titre": "Perfusion à domicile d'immunoglobulines sous-cutanées avec assistant vocal Alexa",
+ "question": "Un assistant vocal Alexa aide-t-il les patients ou leurs aidants à débuter et gérer les perfusions d'immunoglobulines sous-cutanées à domicile ?",
+ "contexte": "Les déficits immunitaires primitifs nécessitent un traitement substitutif par immunoglobulines, par voie intraveineuse à l'hôpital ou par voie sous-cutanée à domicile. L'autoadministration sous-cutanée apporte de l'autonomie mais demande un apprentissage de la technique et une bonne observance.\n\nLes outils numériques pourraient accompagner la mise en route du traitement : instructions pas à pas, rappels, gestion des perfusions. Takeda a développé un « Skill » pour Alexa, utilisable avec un écran Amazon Echo Show, destiné aux patients traités par HyQvia ou Cuvitru.\n\nCette étude observationnelle qualitative américaine interroge des adultes avec déficit immunitaire primitif, des aidants et des soignants (immunologues, infirmiers) avant ou après l'usage de l'outil. Elle vise à décrire l'expérience de traitement, la commodité et la satisfaction ; environ 36 participants étaient prévus.",
+ "interet": "Elle renseigne sur l'acceptabilité d'un outil vocal pour accompagner l'immunothérapie substitutive à domicile, sans objectif d'efficacité clinique.",
+ "profil": "Des adultes avec déficit immunitaire primitif, leurs aidants et des soignants américains.",
+ "inclusion": [
+  "Patient adulte avec DIP ayant débuté (< 4 mois) ou débutant (< 30 jours) HyQvia ou Cuvitru à domicile, ou aidant adulte",
+  "Résidence aux États-Unis, anglais courant",
+  "Wi-Fi à domicile, compte Amazon, smartphone, accord pour recevoir un Echo Show",
+  "Entretien final : au moins 2 perfusions à domicile en 6 à 12 semaines avec Alexa",
+  "Soignants : immunologue ou infirmier licencié aux États-Unis"
+ ],
+ "exclusion": [
+  "Patients précédemment sous immunoglobulines sous-cutanées passés à HyQvia ou Cuvitru"
+ ],
+ "bras": [
+  {
+   "nom": "Adultes avec DIP",
+   "traitement": "Entretiens avant ou après l'usage du Skill Alexa, sans intervention"
+  },
+  {
+   "nom": "Aidants",
+   "traitement": "Entretiens avant ou après l'usage du Skill Alexa"
+  },
+  {
+   "nom": "Soignants",
+   "traitement": "Entretiens après l'usage du Skill Alexa"
+  }
+ ],
+ "duree": "4 mois",
+ "critere": "Expérience des participants avec le Skill Alexa, incluant commodité et satisfaction, sur 4 mois."
+}

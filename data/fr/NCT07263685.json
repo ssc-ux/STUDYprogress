@@ -1,0 +1,28 @@
+{
+ "h": "a60352d56002",
+ "date": "2026-11-14",
+ "titre": "Lanadelumab dans l'angiœdème héréditaire en Arabie saoudite : étude en vie réelle",
+ "question": "Le lanadelumab réduit-il l'activité de l'angiœdème héréditaire en pratique courante, après 6 mois de traitement ?",
+ "contexte": "L'angiœdème héréditaire par déficit en C1 inhibiteur (types 1 et 2) provoque des œdèmes soudains, non prurigineux, de la peau et des muqueuses : abdomen, larynx, organes génitaux. Les crises peuvent engager le pronostic vital et altèrent fortement la qualité de vie.\n\nLe lanadelumab (Takhzyro) est un anticorps anti-kallikréine plasmatique, utilisé en prophylaxie de fond pour prévenir les crises. Son efficacité est démontrée dans l'essai HELP. Les données de vie réelle restent utiles, notamment dans les régions peu documentées.\n\nCette étude de cohorte rétrospective, promue par Takeda, repose sur les dossiers médicaux de patients saoudiens de 12 ans et plus traités depuis au moins 6 mois. Aucun traitement n'est administré dans le cadre de l'étude. Elle compare le score d'activité de l'angiœdème avant et après traitement. Elle étudie aussi la qualité de vie, la fréquence des crises et les facteurs associés à la réponse.",
+ "interet": "Elle fournira des données de vie réelle sur l'effet du lanadelumab dans une population peu étudiée, sans modifier la prise en charge.",
+ "profil": "Des adolescents et adultes de 12 ans et plus atteints d'angiœdème héréditaire de type 1 ou 2, traités par lanadelumab depuis au moins 6 mois.",
+ "inclusion": [
+  "Angiœdème héréditaire par déficit en C1 inhibiteur de type 1 ou 2",
+  "Prophylaxie de fond par lanadelumab débutée à ≥ 12 ans",
+  "Au moins 6 mois de traitement continu avant le recueil des données"
+ ],
+ "exclusion": [
+  "Angiœdème héréditaire à C1 inhibiteur normal (ancien type III)",
+  "Arrêt du lanadelumab avant 6 mois",
+  "Dossier insuffisant pour évaluer le score d'activité initial et à 6 mois",
+  "Participation à un essai interventionnel sur un autre traitement de l'angiœdème héréditaire"
+ ],
+ "bras": [
+  {
+   "nom": "Angiœdème héréditaire de type 1 ou 2",
+   "traitement": "Données rétrospectives des dossiers : période avant le lanadelumab, puis au moins 6 mois après la première dose"
+  }
+ ],
+ "duree": "Suivi jusqu'à 12 mois après la première dose (données rétrospectives)",
+ "critere": "Variation du score d'activité de l'angiœdème entre la période avant traitement et 6 mois"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "2dec049175f7",
+ "date": "2026-11-14",
+ "titre": "Nintedanib dans la pneumopathie interstitielle associée aux myosites",
+ "question": "Le nintedanib ajouté à l'immunosuppresseur est-il bien toléré dans la pneumopathie interstitielle associée à une myosite ?",
+ "contexte": "La pneumopathie interstitielle diffuse (PID) est une complication fréquente et grave des myopathies inflammatoires (dermatomyosite, polymyosite, syndrome des antisynthétases). Elle est traitée par corticoïdes et immunosuppresseurs, mais certaines formes évoluent vers la fibrose progressive.\n\nLe nintedanib, antifibrosant, a démontré son efficacité sur le déclin de la CVF dans la fibrose pulmonaire idiopathique, la PID de la sclérodermie et les fibroses pulmonaires progressives. Les patients avec myosite, presque toujours sous immunosuppresseurs, étaient peu représentés dans ces essais.\n\nCette étude de l'Université McGill, à un seul bras, évalue la tolérance et la sécurité du nintedanib 150 mg ajouté au traitement immunosuppresseur chez des patients avec PID fibrosante et progressive. Elle a été arrêtée prématurément après l'inclusion de 11 patients.",
+ "interet": "Elle fournit des données de tolérance du nintedanib en association aux immunosuppresseurs dans une population exclue des grands essais, malgré un effectif réduit.",
+ "profil": "Des adultes avec une myopathie inflammatoire et une PID fibrosante progressive sous immunosuppresseur.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Dermatomyosite, polymyosite, myosite de chevauchement ou syndrome des antisynthétases",
+  "PID au scanner (étendue ≥ 10 %) avec fibrose",
+  "Progression dans les 24 mois : baisse de CVF ≥ 10 %, ou 5-10 % avec aggravation des symptômes ou de la fibrose, ou aggravation clinique et radiologique",
+  "Immunosuppresseur stable depuis ≥ 6 semaines (mycophénolate, azathioprine, tacrolimus, ciclosporine, rituximab, prednisone ≤ 20 mg/j, IgIV)"
+ ],
+ "exclusion": [
+  "Contre-indication au nintedanib",
+  "Grossesse, allaitement ou projet de grossesse (ou de paternité)",
+  "Hypersensibilité au nintedanib, à l'arachide ou au soja",
+  "Transaminases > 1,5 N",
+  "Clairance de la créatinine < 30 mL/min",
+  "Risque d'anévrisme ou de dissection artérielle, hypertension non contrôlée"
+ ],
+ "bras": [
+  {
+   "nom": "Nintedanib",
+   "traitement": "Nintedanib 150 mg (Ofev), en ajout au traitement immunosuppresseur, bras unique"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Tolérance (proportion de doses prises) et événements indésirables à 24 semaines."
+}

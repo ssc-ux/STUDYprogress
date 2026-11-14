@@ -1,0 +1,37 @@
+{
+ "h": "e2e53639040e",
+ "date": "2026-11-14",
+ "titre": "Imagerie rétinienne et OCT pour le dépistage de l'amylose cardiaque à transthyrétine",
+ "question": "L'imagerie oculaire (fond d'œil, OCT) analysée par apprentissage automatique permet-elle de distinguer les patients ayant une amylose cardiaque à transthyrétine (ATTR-CM) de ceux ayant une insuffisance cardiaque d'autre cause ?",
+ "contexte": "L'amylose cardiaque à transthyrétine est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée, avec un retard diagnostique fréquent. Le diagnostic non invasif repose sur la scintigraphie osseuse aux diphosphonates après exclusion d'une gammapathie monoclonale. Des traitements efficaces existent (tafamidis, acoramidis, silencieurs de la transthyrétine), ce qui rend le dépistage précoce important.\n\nLa protéine transthyrétine est aussi présente dans l'œil, et des atteintes oculaires sont décrites dans les amyloses à transthyrétine, surtout héréditaires. L'idée est que des anomalies visibles à l'angiographie rétinienne ou en tomographie en cohérence optique (OCT) puissent servir de marqueur de dépistage non invasif. Cette étude pilote multicentrique, promue par AstraZeneca, compare des patients ATTR-CM à des patients insuffisants cardiaques témoins. Les images et données collectées serviront à évaluer la faisabilité d'un modèle d'apprentissage automatique de discrimination.",
+ "interet": "Si le modèle discrimine correctement les deux groupes, un examen ophtalmologique simple pourrait aider à repérer les patients à adresser pour une exploration de l'amylose cardiaque. L'étude est un pilote de faisabilité et ne permettra pas à elle seule de modifier la pratique.",
+ "profil": "Des adultes ayant une ATTR-CM confirmée, comparés à des adultes insuffisants cardiaques sans ATTR-CM ou à faible probabilité.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "ATTR-CM : amylose confirmée par biopsie (rouge Congo) ou scintigraphie (DPD, PYP ou HMDP) grade 2-3 sans anomalie des chaînes légères",
+  "Témoins : insuffisance cardiaque traitée selon les recommandations",
+  "Sous-groupe A : ATTR-CM exclue (biopsie ou scintigraphie négative < 2 ans)",
+  "Sous-groupe B : faible probabilité d'ATTR-CM sans test spécifique",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Pathologie oculaire empêchant une imagerie rétinienne claire",
+  "Antécédent d'amylose AL",
+  "Chirurgie oculaire jugée gênante par l'investigateur",
+  "État critique ou nécessité de soins urgents",
+  "Participation à la conception ou à la conduite de l'étude",
+  "Absence probable d'observance des procédures"
+ ],
+ "bras": [
+  {
+   "nom": "ATTR-CM",
+   "traitement": "Patients avec amylose cardiaque à transthyrétine confirmée ; imagerie rétinienne et OCT"
+  },
+  {
+   "nom": "Témoins insuffisants cardiaques",
+   "traitement": "Insuffisants cardiaques avec ATTR-CM exclue ou peu probable ; mêmes examens d'imagerie"
+  }
+ ],
+ "duree": "Une seule évaluation, dans les 90 jours suivant le consentement",
+ "critere": "Comparaison des scores de confiance du modèle d'apprentissage automatique entre ATTR-CM et témoins, et analyse qualitative des caractéristiques apprises, à une évaluation unique dans les 90 jours"
+}

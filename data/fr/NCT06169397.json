@@ -1,0 +1,28 @@
+{
+ "h": "4388881c085c",
+ "date": "2026-11-14",
+ "titre": "Extension ouverte du XTMAB-16 dans la sarcoïdose pulmonaire",
+ "question": "Quelle est la sécurité à long terme et la durabilité d'effet du XTMAB-16 dans la sarcoïdose pulmonaire ?",
+ "contexte": "La sarcoïdose pulmonaire est traitée par corticoïdes, avec recours au méthotrexate ou à d'autres immunosuppresseurs en cas de forme chronique ou d'épargne cortisonique. Les corticoïdes au long cours entraînent de nombreux effets indésirables, et les alternatives validées sont rares.\n\nLe XTMAB-16 est un anticorps anti-TNF de Xentria, administré par voie intraveineuse. Le TNF intervient dans la formation et l'entretien des granulomes sarcoïdosiques, et l'infliximab en est le précédent.\n\nCette phase 2 est l'extension ouverte de l'essai XTMAB-16-201. Les patients ayant terminé la semaine 12 (partie A) ou 24 (partie B) et sous dose stable de corticoïdes poursuivent le traitement, à la dose définie dans l'étude parente. Le critère principal est la fréquence des événements indésirables, y compris graves, sur environ 4 ans.",
+ "interet": "Elle apporte des données de sécurité à long terme et de durabilité sur un anti-TNF dans la sarcoïdose, avec peu de recul pour l'instant.",
+ "profil": "Des adultes de 18 à 80 ans avec sarcoïdose pulmonaire, avec ou sans atteinte extrapulmonaire, ayant terminé l'étude XTMAB-16-201.",
+ "inclusion": [
+  "Étude XTMAB-16-201 terminée (semaine 12 en partie A ou 24 en partie B)",
+  "Dose de corticoïdes stable depuis ≥ 2 semaines",
+  "Début à la prochaine visite de perfusion prévue (± 2 semaines)",
+  "Âge de 18 à 80 ans"
+ ],
+ "exclusion": [
+  "Événement indésirable lié au traitement ayant imposé l'arrêt dans l'étude parente",
+  "Échec thérapeutique dans l'étude parente",
+  "Grossesse, allaitement ou projet de grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "XTMAB-16",
+   "traitement": "XTMAB-16 à la dose établie dans l'étude XTMAB-16-201"
+  }
+ ],
+ "duree": "Environ 4 ans en moyenne",
+ "critere": "Fréquence des événements indésirables, dont graves et d'intérêt particulier, jusqu'à la fin de l'étude (en moyenne 4 ans)."
+}

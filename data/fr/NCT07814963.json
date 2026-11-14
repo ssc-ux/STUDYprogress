@@ -1,0 +1,27 @@
+{
+ "h": "463bc2b967b8",
+ "date": "2026-11-14",
+ "titre": "Caractéristiques cliniques et modalités de traitement de l'arthrite juvénile idiopathique systémique de l'enfant",
+ "question": "Quelles sont les caractéristiques cliniques de l'arthrite juvénile idiopathique systémique (AJIs) et quelle évolution observe-t-on selon les traitements reçus en pratique courante ?",
+ "contexte": "L'arthrite juvénile idiopathique systémique est une maladie inflammatoire chronique de l'enfant, associant fièvre récurrente, éruption évanescente, adénopathies, hépatosplénomégalie et sérite, avec ou sans arthrite. Son évolution est variable et elle peut se compliquer d'un syndrome d'activation macrophagique, potentiellement grave.\n\nLe traitement a été transformé par les inhibiteurs de l'interleukine 1 (anakinra, canakinumab) et de l'interleukine 6 (tocilizumab), en complément des corticoïdes et des traitements de fond conventionnels. Dans de nombreux pays, l'accès aux biothérapies reste variable et les données en vie réelle sont limitées. Cette étude observationnelle de l'université de Sohag (Égypte) inclut 50 enfants de moins de 18 ans répondant aux critères de classification PRINTO 2019. Elle décrit la présentation clinique, l'activité de la maladie, les complications et les traitements reçus, avec un suivi prospectif de 12 mois. Les décisions thérapeutiques restent celles du médecin traitant.",
+ "interet": "Elle fournira des données descriptives sur l'AJIs et ses traitements dans un centre égyptien. L'absence de randomisation limite les comparaisons entre traitements.",
+ "profil": "Des enfants de moins de 18 ans, nouvellement diagnostiqués ou déjà suivis pour une AJIs selon les critères PRINTO 2019.",
+ "inclusion": [
+  "Âge inférieur à 18 ans",
+  "AJIs selon les critères de classification PRINTO 2019",
+  "Enfants nouvellement ou précédemment diagnostiqués suivis dans le centre"
+ ],
+ "exclusion": [
+  "Autres maladies rhumatismales ou auto-immunes",
+  "Maladies infectieuses, malignes ou systémiques pouvant simuler une AJIs",
+  "Dossier médical avec données insuffisantes"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants avec AJIs",
+   "traitement": "Corticoïdes, traitements de fond conventionnels ou biothérapies (dont tocilizumab) selon la pratique courante, sans attribution par le protocole"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Activité de la maladie à l'inclusion puis à 1, 3, 6, 9 et 12 mois après le début du traitement"
+}

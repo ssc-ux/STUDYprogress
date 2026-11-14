@@ -1,0 +1,32 @@
+{
+ "h": "bc2431cc3c93",
+ "date": "2026-11-14",
+ "titre": "Capillaroscopie guidée par logiciel pour le diagnostic précoce de la sclérodermie",
+ "question": "Des professionnels non spécialistes peuvent-ils obtenir en consultation des images de capillaroscopie de qualité diagnostique pour dépister la sclérodermie ?",
+ "contexte": "La sclérodermie systémique est une maladie invalidante qui touche environ 20 000 personnes au Royaume-Uni, avec ulcères digitaux et atteintes viscérales graves. Son premier signe est souvent un phénomène de Raynaud, qui est aussi présent chez environ 5 % des personnes sans maladie.\n\nLa capillaroscopie péri-unguéale, qui repère les anomalies des capillaires, est reconnue comme clé du diagnostic précoce, mais elle est peu utilisée en consultation de rhumatologie générale car elle exige un matériel coûteux et une expertise. Le diagnostic est alors retardé. Des travaux antérieurs ont montré qu'un microscope portable du commerce, en mains expertes, donne des images diagnostiques, et un logiciel d'IA détecte de façon fiable les anomalies capillaires.\n\nCette étude pilote observationnelle de l'Université de Manchester (112 participants, sept centres anglais) teste si divers professionnels obtiennent des images de qualité avec un logiciel guidant l'acquisition, recueille l'avis des utilisateurs et compare quatre longueurs d'onde lumineuses pour les peaux plus pigmentées.",
+ "interet": "Elle prépare un système d'aide au diagnostic précoce de la sclérodermie utilisable par des non-spécialistes, en consultation générale de rhumatologie.",
+ "profil": "Des enfants (6 ans et plus) et adultes avec phénomène de Raynaud ou maladie du spectre de la sclérodermie, des témoins sains et des soignants.",
+ "inclusion": [
+  "Âge ≥ 6 ans avec phénomène de Raynaud ou trouble du spectre de la sclérodermie (acquisition d'images)",
+  "Adultes avec Raynaud ou sclérodermie (partie qualitative)",
+  "Rhumatologues, techniciens vasculaires, infirmiers spécialisés (partie qualitative)"
+ ],
+ "exclusion": [
+  "Diabète (patients ; acquisition d'images et étude du phototype)",
+  "Traitement vasoactif (témoins sains)",
+  "Affection vasculaire connue, comme une hypertension non contrôlée (témoins sains)",
+  "Trouble empêchant le consentement ou le respect du protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Patients",
+   "traitement": "Une visite avec capillaroscopie péri-unguéale guidée par logiciel ; témoins sains pour l'étude des longueurs d'onde"
+  },
+  {
+   "nom": "Professionnels de santé",
+   "traitement": "Participation à des groupes de discussion et entretiens sur l'usage du système"
+  }
+ ],
+ "duree": "Une visite (étude de 11 mois)",
+ "critere": "Acquisition d'images pilotes de capillaroscopie de qualité suffisante, sur 11 mois."
+}

@@ -1,0 +1,36 @@
+{
+ "h": "9b3c0ba0fb0e",
+ "date": "2026-11-14",
+ "titre": "Cellules STAR-T allogéniques anti-CD19 (YTS109) dans le lupus réfractaire avec néphrite ou thrombopénie",
+ "question": "Les cellules YTS109 sont-elles sûres et tolérables chez des adultes atteints de lupus réfractaire avec néphrite lupique ou thrombopénie immunologique ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie multisystémique à poussées et rémissions. La néphrite lupique et la thrombopénie immunologique associée au lupus (SLE-ITP) en sont les manifestations les plus fréquentes et les plus sévères. Malgré les progrès thérapeutiques, une partie des patients reste réfractaire aux corticoïdes, aux immunosuppresseurs et aux biothérapies.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B et pourraient induire des rémissions durables dans les maladies auto-immunes. Le YTS109 est une thérapie cellulaire STAR-T allogénique « universelle » dirigée contre CD19, produite à partir de cellules de donneur et non du patient lui-même. Cette étude de phase 1 exploratoire, ouverte et à bras unique, est promue par China Immunotech et menée à Pékin. Elle prévoyait environ 36 patients, recevant une perfusion unique de 1 à 2 millions de cellules par kg. L'étude a été arrêtée après 2 patients.",
+ "interet": "Un CAR-T allogénique prêt à l'emploi éviterait les délais de fabrication des produits autologues. L'arrêt précoce de l'étude ne permet pas de conclure.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus réfractaire, avec néphrite lupique proliférative ou thrombopénie.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, lupus selon les critères EULAR/ACR 2019",
+  "Cohorte 1 : néphrite lupique de classe III/IV réfractaire (échec des corticoïdes et d'au moins 2 immunosuppresseurs ou biothérapies), rapport protéinurie/créatininurie d'au moins 1,0 g/g, glomérulosclérose de 50 % ou moins",
+  "Cohorte 2 : thrombopénie réfractaire, plaquettes entre 30 et 50 G/L malgré bolus de méthylprednisolone ou corticoïdes forts et immunosuppresseur",
+  "Fonctions médullaire, hépatique, rénale et de coagulation adéquates",
+  "Contraception pendant et au moins 12 mois après le traitement",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Allergie médicamenteuse sévère",
+  "Infection non contrôlée",
+  "Atteinte du système nerveux central (hors exceptions)",
+  "Insuffisance cardiaque, déficit immunitaire congénital",
+  "Cancer dans les 5 dernières années, insuffisance rénale terminale",
+  "Hépatite B ou C, VIH, syphilis",
+  "Thrombose veineuse profonde ou embolie pulmonaire dans les 6 mois",
+  "Immunosuppresseur ou biothérapie récents, autre essai dans les 3 mois",
+  "Grossesse, allaitement ou projet de grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "YTS109",
+   "traitement": "Perfusion unique de cellules STAR-T allogéniques anti-CD19 à 1 ou 2 millions de cellules/kg"
+  }
+ ],
+ "duree": "52 semaines après le traitement",
+ "critere": "Fréquence et gravité des événements indésirables survenant sous traitement, dont les toxicités limitant la dose à 28 jours, et suivi jusqu'à 52 semaines."
+}

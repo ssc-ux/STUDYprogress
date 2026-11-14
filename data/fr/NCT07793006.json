@@ -1,0 +1,27 @@
+{
+ "h": "095c555243d3",
+ "date": "2026-11-14",
+ "titre": "Nouveaux outils diagnostiques du lymphome et de la maladie de Castleman multicentrique chez les patients VIH",
+ "question": "Un test d'amplification isotherme (TINY) réalisé sur ponction ganglionnaire permet-il de diagnostiquer lymphome et maladie de Castleman multicentrique chez des personnes vivant avec le VIH ayant des adénopathies inexpliquées ?",
+ "contexte": "En Afrique subsaharienne, les adénopathies chez les personnes vivant avec le VIH peuvent révéler une tuberculose, un lymphome ou une maladie de Castleman multicentrique (MCD), souvent diagnostiqués tardivement ou manqués faute d'anatomopathologie disponible. Le lymphome est fréquemment associé à l'EBV, et la MCD associée au VIH est liée à l'herpèsvirus du sarcome de Kaposi (KSHV), dont la détection est très sensible mais peu spécifique.\n\nLes investigateurs ont développé un test d'acide nucléique, le système TINY (Tiny Isothermal Nucleic acid Amplification System), utilisable au chevet du patient. Il a détecté l'EBV sur ponction à l'aiguille fine et sur cellules tumorales, avec des amorces pour les ARN EBER. L'étude, promue par Indiana University avec le NIH, inclut 500 patients VIH de plus d'un an avec une adénopathie ≥ 2 cm accessible à la biopsie. Elle compare le résultat du test à celui de la biopsie ganglionnaire ou de la biopsie à l'aiguille.",
+ "interet": "Un test de dépistage rapide et décentralisé pourrait raccourcir le délai diagnostique des lymphomes et de la MCD dans les pays à ressources limitées. L'étude ne concerne pas directement la pratique en France.",
+ "profil": "Des personnes vivant avec le VIH, à partir de 1 an, ayant une adénopathie inexpliquée d'au moins 2 cm.",
+ "inclusion": [
+  "Âge ≥ 1 an et poids ≥ 10 kg",
+  "Infection par le VIH",
+  "Adénopathie inexpliquée avec au moins un ganglion ≥ 2 cm accessible à la biopsie",
+  "Consentement ou assentiment selon l'âge"
+ ],
+ "exclusion": [
+  "Incapacité ou refus de suivre les procédures",
+  "Cancer dans les 5 ans précédents (sarcome de Kaposi autorisé)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients VIH avec adénopathies inexpliquées",
+   "traitement": "Biopsie ganglionnaire ou à l'aiguille, ponction à l'aiguille fine et test TINY"
+  }
+ ],
+ "duree": "Non précisé (inclusion puis diagnostic)",
+ "critere": "Nombre de patients avec un diagnostic, à l'inclusion"
+}

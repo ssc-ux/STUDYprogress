@@ -1,0 +1,34 @@
+{
+ "h": "82dc24fe5229",
+ "date": "2026-11-14",
+ "titre": "KK4277 chez des volontaires sains et des patients avec lupus systémique ou cutané",
+ "question": "Le KK4277 est-il bien toléré chez des volontaires sains et chez des patients atteints de lupus systémique ou cutané ?",
+ "contexte": "Le lupus érythémateux systémique et le lupus cutané restent difficiles à traiter malgré les antipaludéens, les immunosuppresseurs et les biothérapies disponibles. De nouvelles cibles sont donc recherchées, en particulier pour limiter les corticoïdes et les rechutes.\n\nLe KK4277 est un produit expérimental de Kyowa Kirin, administré par voie intraveineuse ou sous-cutanée. Les informations du registre ne précisent pas sa cible moléculaire.\n\nCette phase 1 comporte deux parties : la partie 1 évalue la sécurité d'une dose unique chez des hommes sains japonais ou non asiatiques ; la partie 2 évalue la sécurité d'administrations répétées chez des patients avec lupus systémique ou cutané, contre placebo. Le critère principal est le nombre d'événements indésirables.",
+ "interet": "Étude très précoce de sécurité : elle prépare des essais d'efficacité mais n'a pas de conséquence pratique immédiate.",
+ "profil": "Des hommes sains de 18 à 50 ans (partie 1) et des adultes de 18 à 75 ans avec un lupus systémique ou cutané (partie 2).",
+ "inclusion": [
+  "Partie 1 : hommes sains japonais ou non asiatiques de 18 à < 50 ans, IMC 18,5-30",
+  "Partie 2 : âge 18 à < 75 ans, poids > 40 kg, IMC 18,5-35",
+  "LES selon les critères EULAR/ACR 2019, ou lupus cutané confirmé par biopsie",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Partie 1 : maladie nécessitant un traitement, antécédent de maladie respiratoire, cardiaque, digestive, rénale, hépatique, psychiatrique, auto-immune ou cancer, allergie médicamenteuse",
+  "Partie 2 : néphrite lupique active ou lupus neuropsychiatrique actif",
+  "Complication grave jugée gênante pour l'étude",
+  "Infection dans les 28 jours précédents",
+  "Infection ayant nécessité hospitalisation ou antimicrobien IV dans les 24 semaines précédentes"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo, voie IV ou sous-cutanée"
+  },
+  {
+   "nom": "KK4277",
+   "traitement": "KK4277 IV ou sous-cutané, dose unique (partie 1) ou doses répétées (partie 2)"
+  }
+ ],
+ "duree": "Jusqu'à 113 jours (partie 1) ou 169 jours (partie 2)",
+ "critere": "Nombre de participants avec des événements indésirables, jusqu'au jour 113 (partie 1) ou au jour 169 (partie 2)."
+}

@@ -1,0 +1,30 @@
+{
+ "h": "c9619d8313c8",
+ "date": "2026-11-14",
+ "titre": "JTE-162 dans les syndromes périodiques associés à la cryopyrine (CAPS)",
+ "question": "JTE-162, pris par voie orale pendant 2 semaines, est-il sûr et actif dans les CAPS ?",
+ "contexte": "Les syndromes périodiques associés à la cryopyrine (CAPS) sont des maladies auto-inflammatoires rares dues à des mutations activatrices du gène NLRP3. Ils regroupent le syndrome familial auto-inflammatoire au froid (FCAS), le syndrome de Muckle-Wells (MWS) et la forme sévère CINCA/NOMID. Ils provoquent fièvre récurrente, urticaire, arthralgies, fatigue et conjonctivite, avec un risque d'amylose et de surdité.\n\nLe traitement de référence est le blocage de l'interleukine-1 : anakinra, canakinumab, rilonacept. Ces médicaments sont injectables, ce qui laisse une place à une option orale. Le registre ne précise pas le mécanisme de JTE-162.\n\nCette étude de phase 1 ouverte, à bras unique, promue par Shionogi, inclut 5 patients de 18 à 80 ans atteints de FCAS ou de MWS. Le traitement anti-IL-1 est interrompu et la poussée doit réapparaître avant d'administrer JTE-162, en comprimé, une fois par jour pendant 2 semaines.",
+ "interet": "Un contrôle des marqueurs inflammatoires et des symptômes sous un comprimé oral ouvrirait la voie à une alternative aux anti-IL-1 injectables dans les CAPS.",
+ "profil": "Des adultes de 18 à 80 ans atteints de FCAS ou de syndrome de Muckle-Wells avec mutation de NLRP3.",
+ "inclusion": [
+  "FCAS ou syndrome de Muckle-Wells",
+  "Au moins 2 symptômes typiques (urticaire, myalgies, arthralgies, fièvre récurrente, fatigue, conjonctivite)",
+  "Mutation NLRP3 confirmée",
+  "Acceptation d'arrêter l'anti-IL-1 en cours",
+  "Poussée de CAPS pendant la période de dépistage"
+ ],
+ "exclusion": [
+  "CINCA/NOMID",
+  "Antécédent d'amylose, de perte auditive progressive ou de dommage d'organe, ou contre-indication au sevrage de l'anti-IL-1",
+  "Infection systémique active dans les 14 jours",
+  "Infections récurrentes cliniquement significatives"
+ ],
+ "bras": [
+  {
+   "nom": "JTE-162 en comprimés",
+   "traitement": "Une dose (non précisée) une fois par jour pendant 2 semaines"
+  }
+ ],
+ "duree": "4 semaines (2 semaines de traitement)",
+ "critere": "Variation de la CRP ultrasensible, de la SAA, de l'IL-6 et des scores de symptômes à 2 semaines ; nombre d'événements indésirables à 4 semaines ; concentrations plasmatiques"
+}

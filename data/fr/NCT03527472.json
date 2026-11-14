@@ -1,0 +1,35 @@
+{
+ "h": "cfbcfb141645",
+ "date": "2026-11-14",
+ "titre": "Mémantine contre les troubles cognitifs du lupus érythémateux systémique",
+ "question": "La mémantine améliore-t-elle les performances cognitives (score RBANS) chez des patients lupiques ayant des symptômes cognitifs et psychiatriques ?",
+ "contexte": "Les troubles cognitifs sont fréquents dans le lupus érythémateux systémique (LES), avec des difficultés d'attention, de mémoire et de concentration qui altèrent la qualité de vie. Ils font partie du lupus neuropsychiatrique, mais il n'existe pas de traitement spécifique validé, et les immunosuppresseurs ne les corrigent pas toujours.\n\nUne étude d'association pangénomique à large échelle (PheWAS) a relié un variant du gène GRIN2A, codant la sous-unité N2A du récepteur NMDA, au lupus. Ce polymorphisme code une activité accrue du récepteur NMDA, ce qui pourrait être à l'origine de certains symptômes neurocognitifs. La mémantine, antagoniste du récepteur NMDA déjà utilisée dans la maladie d'Alzheimer, est donc testée. Cet essai de phase 2 randomisé en double insu, promu par Vanderbilt avec plusieurs centres, a inclus 111 patients ayant un score RBANS ≤ 85. Les patients reçoivent mémantine, avec escalade jusqu'à 20 mg deux fois par jour, ou placebo, pendant 14 semaines.",
+ "interet": "Si la mémantine améliore le score cognitif, elle pourrait offrir une option peu coûteuse et bien connue pour le lupus avec troubles cognitifs. Aucun résultat n'est disponible dans le registre.",
+ "profil": "Des adultes lupiques avec symptômes neuropsychiatriques et un score RBANS total ≤ 85.",
+ "inclusion": [
+  "Critères ACR de lupus érythémateux systémique",
+  "Symptômes de lupus neuropsychiatrique au questionnaire de dépistage EULAR (volet psychiatrique)",
+  "Score RBANS total ≤ 85 (au moins 1 écart-type sous la moyenne)",
+  "Âge de 18 à 70 ans"
+ ],
+ "exclusion": [
+  "Âge < 18 ou > 60 ans (selon le protocole)",
+  "Modification récente de prednisone, d'antidépresseur ou de stimulant (4 semaines)",
+  "Usage régulier d'opioïdes ou d'autres drogues, alcool ou cannabis excessifs",
+  "Transaminases > 3 N ou clairance de la créatinine < 30 mL/min",
+  "Maladie psychiatrique sévère (schizophrénie, psychose, dépression suicidaire)",
+  "Démence, grossesse ou participation à un autre essai"
+ ],
+ "bras": [
+  {
+   "nom": "Mémantine",
+   "traitement": "Escalade de 5 mg deux fois par jour jusqu'à 20 mg deux fois par jour sur 6 semaines, puis dose maximale tolérée 6 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Capsules placebo identiques, même schéma d'escalade"
+  }
+ ],
+ "duree": "14 semaines",
+ "critere": "Score total RBANS à la fin du traitement (visite 4, 12 semaines)"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "816ef206794e",
+ "date": "2026-11-14",
+ "titre": "Upadacitinib dans la maladie de Behçet réfractaire",
+ "question": "L'upadacitinib améliore-t-il l'activité de la maladie de Behçet résistante aux traitements ?",
+ "contexte": "La maladie de Behçet est une vascularite systémique qui atteint la peau, les muqueuses, les yeux et les vaisseaux. Les formes réfractaires aux corticoïdes, aux immunosuppresseurs et aux anti-TNF posent un vrai problème thérapeutique, avec peu d'options validées.\n\nL'upadacitinib est un inhibiteur sélectif de JAK1, qui bloque plusieurs voies cytokiniques impliquées dans l'inflammation. Des séries de cas rapportent l'intérêt des inhibiteurs de JAK dans le Behçet réfractaire, mais les données prospectives manquent.\n\nCette étude de phase 2 multicentrique chinoise, à bras unique, ajoute 15 mg par jour d'upadacitinib aux corticoïdes et immunosuppresseurs en cours pendant 48 semaines. Les biothérapies antérieures sont arrêtées. Elle suit les ulcères buccaux et génitaux, les lésions cutanées, l'uvéite, la CRP, la VS et la consommation de médicaments.",
+ "interet": "Une réponse dans cette population très prétraitée soutiendrait un essai comparatif de l'upadacitinib dans le Behçet réfractaire.",
+ "profil": "Des adultes de 18 à 70 ans atteints de maladie de Behçet active et résistante à plusieurs traitements.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Maladie de Behçet selon les critères internationaux, depuis ≥ 3 mois",
+  "Maladie active (BDCAF ≥ 2)",
+  "Résistance aux corticoïdes et à au moins 2 immunosuppresseurs ou biothérapies (dont anti-TNF ou inhibiteur de JAK) pendant ≥ 6 mois",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Corticoïdes à forte dose (> 1 mg/kg/j) dans le mois précédent",
+  "Insuffisance cardiaque NYHA ≥ III, clairance < 30 mL/min ou insuffisance hépatique",
+  "Infection sévère dans les 2 mois ; anomalie radiologique évoquant tuberculose ou cancer",
+  "VIH, VHC ou VHB",
+  "Cancer dans les 5 ans",
+  "Vaccin vivant récent, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Upadacitinib",
+   "traitement": "15 mg par voie orale 1 fois par jour, en plus des corticoïdes et immunosuppresseurs en cours, 48 semaines"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Proportion de patients dont l'état s'améliore à la semaine 24"
+}

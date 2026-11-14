@@ -1,0 +1,38 @@
+{
+ "h": "06946d741f1a",
+ "date": "2026-11-14",
+ "titre": "Greffe de graisse autologue associée à la greffe de cheveux dans l'alopécie de la sclérodermie localisée",
+ "question": "Une greffe de graisse autologue améliore-t-elle la survie des follicules greffés chez des patients ayant une alopécie cicatricielle due à une sclérodermie localisée ?",
+ "contexte": "La sclérodermie localisée est une maladie auto-immune du tissu conjonctif qui provoque une fibrose cutanée, avec induration, atrophie et perte des cheveux quand le cuir chevelu est touché (forme en coup de sabre, par exemple). Les traitements médicamenteux freinent l'activité de la maladie mais ne corrigent pas les séquelles.\n\nLa greffe de cheveux peut améliorer l'alopécie, mais la survie des follicules est probablement moindre sur un tissu fibreux et mal vascularisé. La greffe de graisse autologue est une technique de chirurgie plastique de comblement et de régénération tissulaire ; les cellules souches et les facteurs de croissance du tissu adipeux pourraient favoriser la survie des follicules. L'équipe de Nanfang Hospital a développé un gel de matrice adipeuse (ECM/SVF-gel) riche en cellules actives, déjà utilisé sur des cicatrices fibrosantes. Cette étude randomisée monocentrique compare, chez 40 patients, la greffe de cheveux assistée par ce gel à la greffe de cheveux classique.",
+ "interet": "Un gain de survie des follicules ferait de la greffe de graisse un complément chirurgical utile pour les séquelles de sclérodermie localisée du cuir chevelu. L'étude est monocentrique et ouverte.",
+ "profil": "Des adultes de 18 à 59 ans ayant une alopécie secondaire à une sclérodermie localisée, en phase inactive depuis plus d'un an.",
+ "inclusion": [
+  "Signes cliniques de sclérodermie localisée avec alopécie secondaire",
+  "Perte de cheveux depuis plus de 6 mois, zone donneuse suffisante",
+  "Maladie inactive depuis plus d'un an",
+  "État général stable, tolérance à l'anesthésie et à la chirurgie",
+  "IMC de 17 ou plus",
+  "Âge de 18 à 59 ans"
+ ],
+ "exclusion": [
+  "Zone d'alopécie dépassant le tiers du cuir chevelu",
+  "Infection des tissus mous du cuir chevelu",
+  "Contre-indication chirurgicale (trouble psychiatrique, maladie hématologique, déficit immunitaire, insuffisance hépatique ou rénale, hypertension ou diabète sévères)",
+  "Grossesse ou allaitement",
+  "Nouveau vasodilatateur ou immunosuppresseur dans les 3 mois",
+  "VIH, VHB, VHC, HTLV ou syphilis positifs",
+  "Cancer dans les 5 dernières années ou prednisolone au-delà de 10 mg/j"
+ ],
+ "bras": [
+  {
+   "nom": "Greffe de graisse et greffe de cheveux",
+   "traitement": "Greffe de cheveux assistée par greffe de graisse autologue"
+  },
+  {
+   "nom": "Greffe de cheveux seule",
+   "traitement": "Greffe de cheveux classique"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Taux de survie des follicules pileux greffés, de l'inclusion à 12 mois."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "11f44d98a821",
+ "date": "2026-11-14",
+ "titre": "Inhibiteurs de JAK versus inhibiteurs de la calcineurine en première ligne de la PID du syndrome des antisynthétases",
+ "question": "En traitement initial de la pneumopathie interstitielle du syndrome des antisynthétases, les inhibiteurs de JAK sont-ils plus efficaces que les inhibiteurs de la calcineurine ?",
+ "contexte": "Le syndrome des antisynthétases est une myopathie inflammatoire auto-immune dont la pneumopathie interstitielle diffuse (PID) est la principale source de morbidité et de mortalité. Le traitement repose sur les corticoïdes associés à un immunosuppresseur : tacrolimus, ciclosporine, mycophénolate, azathioprine ou rituximab, le plus souvent selon des données observationnelles et de petites séries.\n\nLes inhibiteurs de calcineurine (tacrolimus, ciclosporine) ont des données rétrospectives favorables dans cette indication. Les inhibiteurs de JAK (tofacitinib, baricitinib, upadacitinib) bloquent la signalisation de l'interféron et d'autres cytokines impliquées dans les myopathies inflammatoires. Des séries de cas rapportent des améliorations de la PID, y compris réfractaire, mais il n'existe pas de comparaison randomisée en première ligne. Cet essai randomisé ouvert monocentrique, mené à Pékin (China-Japan Friendship Hospital), compare les deux classes en association à un schéma corticoïde standard chez des patients naïfs de traitement.",
+ "interet": "L'essai pourrait orienter le choix de l'immunosuppresseur initial dans la PID associée aux antisynthétases, aujourd'hui sans consensus fondé sur des essais randomisés.",
+ "profil": "Des adultes de 18 à 75 ans atteints d'un syndrome des antisynthétases avec PID active, jamais traités par immunosuppresseur.",
+ "inclusion": [
+  "Âge 18 à 75 ans",
+  "Critères EULAR/ACR 2017 du syndrome des antisynthétases",
+  "PID confirmée par scanner thoracique haute résolution",
+  "Maladie active, sans corticoïde, immunosuppresseur ni biothérapie préalable",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "PID rapidement progressive (aggravation en moins d'un mois et PaO2/FiO2 < 250 mmHg)",
+  "Infection sévère active non contrôlée, cancer ou défaillance d'organe majeure",
+  "Grossesse ou allaitement",
+  "Contre-indication aux médicaments de l'étude",
+  "Autre immunosuppresseur ou biothérapie en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Inhibiteur de JAK",
+   "traitement": "Tofacitinib 5 mg x2/j, baricitinib 4 mg/j ou upadacitinib 15 mg/j, avec corticoïdes (méthylprednisolone 0,5 g IV 3 jours puis prednisone 0,8-1 mg/kg/j, décroissance à 7,5 mg/j en 12 mois)"
+  },
+  {
+   "nom": "Inhibiteur de la calcineurine",
+   "traitement": "Tacrolimus 0,075 mg/kg/j ou ciclosporine 2-5 mg/kg/j en deux prises, avec le même schéma corticoïde"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Taux de survie à 12 mois"
+}

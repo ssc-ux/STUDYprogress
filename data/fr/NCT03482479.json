@@ -1,0 +1,38 @@
+{
+ "h": "c99d0a32cc5b",
+ "date": "2026-11-14",
+ "titre": "Naltrexone à faible dose pour améliorer la santé physique des patients atteints de vascularite",
+ "question": "La naltrexone à faible dose (4,5 mg par jour) améliore-t-elle la santé physique rapportée par le patient chez des adultes ayant une vascularite en rémission ?",
+ "contexte": "Les vascularites systémiques (artérite à cellules géantes, Takayasu, PAN, GPA, PAM, EGPA) peuvent être contrôlées par les traitements actuels, mais beaucoup de patients en rémission gardent une fatigue, des douleurs et une qualité de vie altérée. Ces symptômes persistants ne répondent pas aux immunosuppresseurs et ont peu d'options thérapeutiques.\n\nLa naltrexone, antagoniste des récepteurs opioïdes approuvé pour la dépendance à l'alcool, est largement utilisée hors AMM à très faible dose contre la douleur et pour améliorer la qualité de vie. De petites études dans la fibromyalgie, la maladie de Crohn et la sclérose en plaques suggèrent un bénéfice, avec un bon profil de tolérance, mais le mécanisme est incertain et aucune donnée n'existe dans la vascularite. Cet essai pilote de phase 2 du réseau VCRC (Penn) est randomisé, en double insu et en croisement : chaque patient reçoit 6 semaines de naltrexone puis 6 semaines de placebo, ou l'inverse. Un placebo est indispensable, car les critères sont subjectifs et l'effet placebo est important.",
+ "interet": "Si un bénéfice est démontré, la naltrexone à faible dose pourrait être une option peu coûteuse pour les symptômes résiduels des patients en rémission. L'étude est un pilote de 60 patients. Aucun résultat n'est disponible dans le registre.",
+ "profil": "Des adultes en rémission ou à faible activité d'une vascularite, avec une santé physique rapportée altérée.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Vascularite (ACG, Takayasu, PAN, GPA, PAM ou EGPA) selon les critères du VCRC",
+  "Score PROMIS Global Physical Health normalisé ≤ 40",
+  "Rémission ou activité très faible (avis global médecin 0-1) depuis au moins 12 semaines",
+  "Immunosuppresseurs, dont prednisone, stables depuis au moins 12 semaines",
+  "Aucun changement récent de traitement pour la douleur, la fatigue ou l'humeur"
+ ],
+ "exclusion": [
+  "Modification de traitement dans les 12 semaines ou de l'activité de la vascularite",
+  "Opioïdes agonistes (dont tramadol, buprénorphine-naloxone)",
+  "Autre agent expérimental dans les 30 jours",
+  "Nouveau problème médical majeur ou chirurgie récente",
+  "Schizophrénie, trouble bipolaire ou dépression mal contrôlée (PHQ-9 ≥ 20)",
+  "Cirrhose ou DFG < 30 mL/min",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Naltrexone puis placebo",
+   "traitement": "Naltrexone 4,5 mg par jour par voie orale pendant 6 semaines, puis placebo 6 semaines (croisement)"
+  },
+  {
+   "nom": "Placebo puis naltrexone",
+   "traitement": "Placebo identique pendant 6 semaines, puis naltrexone 4,5 mg par jour 6 semaines"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Score PROMIS Global Physical Health à la semaine 12"
+}

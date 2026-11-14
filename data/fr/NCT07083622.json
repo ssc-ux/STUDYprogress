@@ -1,0 +1,34 @@
+{
+ "h": "d89af49e52a9",
+ "date": "2026-11-14",
+ "titre": "Vitamine C versus placebo sur le malondialdéhyde et l'activité du lupus systémique",
+ "question": "Une supplémentation en vitamine C pendant 8 semaines réduit-elle le stress oxydatif et l'activité du lupus ?",
+ "contexte": "Le lupus systémique s'accompagne d'un stress oxydatif important, qui contribue aux lésions tissulaires. Le malondialdéhyde (MDA), produit de la peroxydation des lipides, en est un marqueur courant.\n\nLa vitamine C est un antioxydant bon marché dont l'effet sur l'activité du lupus reste peu étudié. Cet essai fait partie d'une série de trois essais jumeaux de l'Universitas Sriwijaya (Indonésie), qui mesurent respectivement l'IL-6, le TNF-α et le MDA.\n\nIl s'agit d'un essai randomisé en double aveugle, monocentrique, chez 38 patients ayant un lupus d'activité faible à modérée. Ils reçoivent 500 mg de vitamine C deux fois par jour ou un placebo pendant 8 semaines. Le MDA et le score MEX-SLEDAI sont mesurés avant et après.",
+ "interet": "Une baisse du stress oxydatif associée à une moindre activité justifierait un essai plus large de la vitamine C comme adjuvant ; elle ne change pas la pratique à ce stade.",
+ "profil": "Des adultes atteints de lupus d'activité faible à modérée, suivis en Indonésie.",
+ "inclusion": [
+  "Lupus systémique d'activité faible à modérée",
+  "Âge > 18 ans",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Vitamine C en supplément dans les 3 derniers jours",
+  "Autre maladie immune ou immunodéficience, dont VIH",
+  "Comorbidités associées",
+  "Lupus sévère ou en rémission",
+  "Hémochromatose ou antécédent de lithiase rénale"
+ ],
+ "bras": [
+  {
+   "nom": "Vitamine C",
+   "traitement": "500 mg par voie orale, 2 fois par jour, 8 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Capsule identique, 2 fois par jour, 8 semaines"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Variation du score MEX-SLEDAI et du malondialdéhyde sérique entre l'inclusion et 8 semaines"
+}

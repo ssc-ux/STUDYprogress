@@ -1,0 +1,30 @@
+{
+ "h": "acf510a585df",
+ "date": "2026-11-14",
+ "titre": "Vitamine D, lymphocytes Treg et gravité du lupus chez l'enfant",
+ "question": "Le taux de vitamine D est-il lié à la gravité du lupus de l'enfant, par l'intermédiaire des lymphocytes T régulateurs ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune chronique qui débute souvent dans l'enfance ou l'adolescence. Les lymphocytes T régulateurs (Treg), qui freinent les réponses auto-immunes, sont décrits comme diminués en nombre ou en fonction chez les patients lupiques.\n\nLa vitamine D favorise la différenciation et l'expansion des Treg. Une carence en vitamine D pourrait donc contribuer à l'activité de la maladie, mais le lien reste mal établi chez l'enfant.\n\nCette étude transversale, menée à l'hôpital Dr. Saiful Anwar de Malang (Indonésie), mesure chez des enfants lupiques la 25(OH)D par ELISA, la proportion de Treg et de Th17 par cytométrie en flux, et la zincémie. Ces mesures sont rapprochées de l'activité de la maladie évaluée par le score SLEDAI. Il n'y a aucune intervention.",
+ "interet": "Les résultats pourraient justifier des essais de supplémentation en vitamine D chez l'enfant lupique, mais une étude transversale ne prouve pas de lien causal.",
+ "profil": "Des enfants et adolescents de 7 à 18 ans suivis pour un lupus systémique dans un hôpital indonésien.",
+ "inclusion": [
+  "Âge de 7 à 18 ans",
+  "Lupus selon les critères ACR ou SLICC",
+  "Suivi à l'hôpital Dr. Saiful Anwar pendant la période de l'étude",
+  "Consentement des parents ou tuteurs"
+ ],
+ "exclusion": [
+  "Supplémentation en vitamine D ou médicament modifiant son métabolisme",
+  "Maladie rénale chronique, maladie hépatique ou malabsorption",
+  "Autre maladie auto-immune associée",
+  "Infection aiguë ou fièvre au moment du recueil",
+  "Données cliniques ou biologiques incomplètes"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants atteints de lupus",
+   "traitement": "Observation sans intervention ; dosages de vitamine D, zinc, Treg et Th17"
+  }
+ ],
+ "duree": "Une seule évaluation, à l'inclusion",
+ "critere": "Taux sérique de 25(OH)D, zincémie et pourcentages de lymphocytes Th17 et Treg, à l'inclusion"
+}

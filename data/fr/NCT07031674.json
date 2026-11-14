@@ -1,0 +1,34 @@
+{
+ "h": "7a89e716bcd4",
+ "date": "2026-11-14",
+ "titre": "Télitacicept versus bélimumab dans la néphropathie lupique : cohorte rétrospective",
+ "question": "Du télitacicept ou du bélimumab, lequel obtient la meilleure réponse rénale et la meilleure tolérance dans la néphropathie lupique ?",
+ "contexte": "La néphropathie lupique reste l'une des atteintes les plus graves du lupus systémique et une cause majeure de morbidité. Le traitement repose sur les immunosuppresseurs et les corticoïdes. Le bélimumab, anticorps anti-BAFF, est approuvé en association au traitement standard dans cette indication.\n\nLe télitacicept est une protéine de fusion ciblant BAFF et APRIL, développée en Chine, qui a montré une activité dans le lupus. Aucune comparaison directe des deux molécules dans la néphropathie lupique n'est disponible.\n\nCette étude multicentrique rétrospective, promue par un investigateur chinois, compare des patients ayant reçu l'un ou l'autre médicament pendant au moins 12 semaines. Les participants ne reçoivent aucun traitement dans le cadre de l'étude.",
+ "interet": "Elle pourrait fournir une première comparaison en conditions réelles de deux biothérapies ciblant les lymphocytes B dans la néphropathie lupique, sans valeur d'essai randomisé.",
+ "profil": "Des adultes de 18 à 65 ans atteints de néphropathie lupique, traités par télitacicept ou bélimumab.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus selon les critères ACR 1997 ou EULAR/ACR 2019",
+  "Protéinurie ≥ 1 g/j, ou rapport protéinurie/créatininurie ≥ 1 g/g, ou protéinurie ≥ 1+ à la bandelette",
+  "Traitement par télitacicept ou bélimumab depuis au moins 12 semaines"
+ ],
+ "exclusion": [
+  "Atteinte active du système nerveux central",
+  "DFGe < 30 mL/min/1,73 m², hémodialyse ou greffe rénale",
+  "Grossesse, projet de grossesse proche ou allaitement",
+  "Participation simultanée à une autre étude",
+  "Traitement par télitacicept ou bélimumab de moins de 12 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe télitacicept",
+   "traitement": "Patients ayant déjà été traités par télitacicept"
+  },
+  {
+   "nom": "Groupe bélimumab",
+   "traitement": "Patients ayant déjà été traités par bélimumab"
+  }
+ ],
+ "duree": "1 an de traitement analysé (données rétrospectives)",
+ "critere": "Taux de réponse rénale principale entre l'inclusion et la fin d'un an de traitement"
+}

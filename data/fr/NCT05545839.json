@@ -1,0 +1,31 @@
+{
+ "h": "87eae0bd49f5",
+ "date": "2026-11-14",
+ "titre": "Coaching de transition vers les soins adultes en rhumatologie",
+ "question": "Un programme de coaching est-il réalisable pour accompagner le passage de la rhumatologie pédiatrique à la rhumatologie adulte ?",
+ "contexte": "Le passage des soins pédiatriques aux soins adultes est une période à risque pour les jeunes atteints de maladies rhumatismales chroniques (arthrite juvénile idiopathique, dermatomyosite juvénile, lupus, maladies auto-inflammatoires). Ils assument plus de responsabilités pour leur santé tout en traversant de grands changements de vie, avec un risque de rupture de suivi, d'aggravation de la maladie et de morbidité.\n\nDes programmes de transition structurés visent à développer l'auto-efficacité, l'autogestion, les capacités d'adaptation et le soutien social. Les preuves de leur efficacité en rhumatologie restent limitées.\n\nTRACER est une étude de faisabilité de McMaster University, préparant un essai randomisé multicentrique. Vingt-six jeunes de 17 à 18 ans, vus à leur dernière consultation pédiatrique, sont randomisés entre les soins habituels et 8 séances mensuelles de coaching en visioconférence en plus des soins habituels.",
+ "interet": "L'étude évalue la faisabilité d'un coaching de transition, première étape pour démontrer un bénéfice sur le maintien du suivi et l'autonomie des jeunes patients.",
+ "profil": "Des adolescents de 17-18 ans avec une maladie rhumatismale à début pédiatrique, sur le point d'être transférés en rhumatologie adulte.",
+ "inclusion": [
+  "Maladie rhumatismale à début pédiatrique",
+  "Dernière consultation de rhumatologie pédiatrique avant le transfert",
+  "Capable de communiquer en anglais",
+  "Téléphone ou appareil permettant la visioconférence",
+  "Disponible pendant les 8 mois suivants"
+ ],
+ "exclusion": [
+  "Trouble cognitif empêchant de participer aux séances individuelles d'éducation, selon l'équipe médicale"
+ ],
+ "bras": [
+  {
+   "nom": "Soins habituels (témoin)",
+   "traitement": "Consultations habituelles en rhumatologie adulte"
+  },
+  {
+   "nom": "Coaching de transition",
+   "traitement": "8 séances de coaching (1 par mois) en plus des soins habituels"
+  }
+ ],
+ "duree": "8 mois",
+ "critere": "Faisabilité : taux de consentement, inclusion hors centre principal, participation aux séances virtuelles, complétude des mesures et données manquantes."
+}

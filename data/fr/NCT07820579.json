@@ -1,0 +1,26 @@
+{
+ "h": "590d42169b08",
+ "date": "2026-11-14",
+ "titre": "Sirolimus chez des enfants atteints d'ataxie-télangiectasie",
+ "question": "Le sirolimus est-il sûr chez des enfants atteints d'ataxie-télangiectasie ?",
+ "contexte": "L'ataxie-télangiectasie est une maladie génétique rare, progressive et incurable. Elle associe une ataxie cérébelleuse, un déficit immunitaire avec infections récurrentes et un risque élevé de cancer. Il n'existe pas de traitement modifiant l'évolution de la maladie.\n\nLe sirolimus (rapamycine), inhibiteur de mTOR, a de nombreux effets potentiellement utiles : neuroprotection, effet antiangiogénique, anti-infectieux et antinéoplasique, et ralentissement du vieillissement. Il est déjà utilisé comme immunosuppresseur, notamment en transplantation.\n\nCette étude pilote de phase 2 mexicaine, ouverte et à bras unique, inclut 6 enfants de moins de 17 ans ayant un diagnostic clinique et génétique. Elle administre du sirolimus par voie orale à 1 mg/m² par jour en deux prises pendant 6 mois. Les examens biologiques et les événements indésirables sont relevés tous les 2 mois.",
+ "interet": "Des données de sécurité pourraient justifier une étude plus large du sirolimus, sans permettre d'en conclure à un bénéfice neurologique.",
+ "profil": "Des enfants de moins de 17 ans atteints d'ataxie-télangiectasie confirmée cliniquement et génétiquement.",
+ "inclusion": [
+  "Âge < 17 ans",
+  "Ataxie-télangiectasie confirmée cliniquement et génétiquement",
+  "Consentement écrit des parents ou tuteurs"
+ ],
+ "exclusion": [
+  "Cancer ou hémopathie concomitant",
+  "Traitement immunosuppresseur en cours"
+ ],
+ "bras": [
+  {
+   "nom": "Sirolimus",
+   "traitement": "1 mg/m² par jour par voie orale, en 2 prises, pendant 6 mois"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Événements indésirables et sécurité biologique, de l'inclusion à la fin du traitement à 6 mois"
+}

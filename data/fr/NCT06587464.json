@@ -1,0 +1,24 @@
+{
+ "h": "57365eeff2af",
+ "date": "2026-11-14",
+ "titre": "Symptômes et traitements de l'angiœdème héréditaire en Corée, à partir d'un journal numérique (SPEAKUP)",
+ "question": "Quelles sont les caractéristiques des crises d'angiœdème héréditaire et l'usage des traitements à la demande chez des patients coréens suivis par une application mobile ?",
+ "contexte": "L'angiœdème héréditaire (AOH) par déficit en C1-inhibiteur (types I et II) provoque des crises imprévisibles d'œdèmes cutanés, digestifs et laryngés, potentiellement mortelles. Le traitement des crises repose sur des traitements à la demande, dont l'icatibant, antagoniste du récepteur B2 de la bradykinine, et sur des traitements de fond, parmi lesquels le danazol.\n\nLes données de vie réelle sur la fréquence, la localisation, la sévérité et les signes prodromiques des crises sont limitées en Asie. Cette étude observationnelle rétrospective, promue par Takeda, exploite les données saisies par des patients dans l'application « MyHAE Story », intégrée à un programme de soutien aux patients. Elle porte sur 19 patients coréens traités par icatibant. Elle ne modifie pas la prise en charge, et analyse jusqu'à 11 mois de données de routine.",
+ "interet": "Ces données descriptives aident à mieux connaître le fardeau de l'AOH en Corée et l'usage réel des traitements à la demande. Elles ne comparent pas de traitements.",
+ "profil": "Des patients coréens atteints d'angiœdème héréditaire de type I ou II, traités par icatibant et utilisant une application de journal de crises.",
+ "inclusion": [
+  "Participation au programme de soutien aux patients OnHeart",
+  "Inscription dans l'application mobile « MyHAE Story »"
+ ],
+ "exclusion": [
+  "Aucune crise saisie et application jamais ouverte après l'inscription"
+ ],
+ "bras": [
+  {
+   "nom": "Patients AOH de type I ou II",
+   "traitement": "Patients sous icatibant, inscrits au programme de soutien ; données du journal numérique recueillies rétrospectivement, sans intervention"
+  }
+ ],
+ "duree": "Jusqu'à 11 mois de données rétrospectives",
+ "critere": "Taux de crises, répartition des crises selon leur localisation et leur sévérité, intervalle moyen entre crises et proportion de patients avec signes prodromiques, sur 11 mois au plus."
+}

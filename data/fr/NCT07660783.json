@@ -1,0 +1,37 @@
+{
+ "h": "11a4a867f1e5",
+ "date": "2026-11-14",
+ "titre": "Greffe de cellules souches déplétée en lymphocytes T naïfs pour prévenir la GVH dans les maladies non malignes",
+ "question": "Une greffe CD34+ enrichie et déplétée en CD45RA (lymphocytes T naïfs) réduit-elle la maladie du greffon contre l'hôte chez des jeunes enfants allogreffés pour une maladie non maligne ?",
+ "contexte": "L'allogreffe de cellules souches hématopoïétiques peut guérir plusieurs maladies non malignes : insuffisances médullaires, hémoglobinopathies, déficits immunitaires primitifs, cytopénies auto-immunes, dérégulations immunitaires et lymphohistiocytose hémophagocytaire (LHH). Son principal risque est la maladie du greffon contre l'hôte (GVH), qui n'apporte aucun bénéfice anti-tumoral dans ces indications.\n\nLes lymphocytes T naïfs (CD45RA+) du greffon sont les principaux responsables de la GVH, alors que les lymphocytes T mémoire peuvent protéger contre les infections. Déplétion en CD45RA et enrichissement en CD34+ visent donc à réduire la GVH tout en préservant l'immunité. Cet essai de phase II non randomisé du Fred Hutchinson Cancer Center inclut 40 patients de 6 mois à 5 ans dans deux bras selon le donneur (haplo-identique ou non apparenté non compatible, et apparenté ou non apparenté compatible). Le conditionnement associe cyclophosphamide, fludarabine, thiotépa et irradiation corporelle totale (2 x 2 Gy). La prophylaxie repose sur tacrolimus et mycophénolate.",
+ "interet": "Si la GVH est réduite sans perte de greffe ni excès d'infections, cette approche pourrait améliorer la sécurité de l'allogreffe dans les maladies non malignes.",
+ "profil": "Des enfants de 6 mois à 5 ans, candidats à une allogreffe pour une maladie hématologique ou immunitaire non maligne.",
+ "inclusion": [
+  "Candidat à une allogreffe avec conditionnement incluant une irradiation corporelle totale à faible dose (4 Gy)",
+  "Insuffisance médullaire, hémoglobinopathie, déficit immunitaire primitif, cytopénie auto-immune, dérégulation immunitaire, LHH ou autre maladie non maligne curable par greffe",
+  "Âge de 6 mois à 5 ans",
+  "Donneur de cellules souches adapté",
+  "Consentement ou permission du représentant légal (assentiment dès 13 ans)"
+ ],
+ "exclusion": [
+  "Aplasie médullaire, déficit immunitaire combiné sévère, anémie de Fanconi, dyskératose congénitale",
+  "Poids > 100 kg, VIH-1 ou VIH-2 positif",
+  "Cancer en cours",
+  "Infection non contrôlée contre-indiquant la greffe",
+  "Dysfonction rénale, cardiaque, pulmonaire ou hépatique",
+  "Grossesse ou allaitement, autre protocole de prévention de la GVH",
+  "Hypersensibilité au tacrolimus ou au mycophénolate"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A (haplo-identique ou non apparenté non compatible)",
+   "traitement": "Cyclophosphamide, fludarabine 35 mg/m²/j, thiotépa, irradiation corporelle totale 2 x 2 Gy ; greffe de cellules CD34+ enrichies et CD45RA-déplétées ; tacrolimus dès J-1, mycophénolate J0-J35"
+  },
+  {
+   "nom": "Bras B (apparenté ou non apparenté compatible)",
+   "traitement": "Même schéma avec fludarabine 30 mg/m²/j"
+  }
+ ],
+ "duree": "Suivi de 2 ans après la greffe",
+ "critere": "Survie sans GVH à 1 an après la greffe"
+}

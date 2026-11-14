@@ -1,0 +1,32 @@
+{
+ "h": "4f3add3d0a2b",
+ "date": "2026-11-14",
+ "titre": "Ianalumab associé à l'eltrombopag chez l'enfant ayant un PTI en échec des corticoïdes",
+ "question": "Le ianalumab ajouté à l'eltrombopag est-il efficace et bien toléré chez des enfants de 5 à 17 ans ayant un PTI primaire en échec ou en rechute après corticoïdes ?",
+ "contexte": "Chez l'enfant, le PTI primaire guérit souvent spontanément, mais une partie des patients développe une forme persistante ou chronique, avec risque hémorragique et impact sur la qualité de vie. Après échec des corticoïdes avec ou sans immunoglobulines, les agonistes du récepteur de la TPO comme l'eltrombopag sont une option de deuxième ligne, mais l'arrêt est souvent suivi d'une rechute.\n\nLe ianalumab (VAY736) est un anticorps monoclonal anti-BAFF-R qui déplète les lymphocytes B. L'hypothèse est qu'agir à la fois sur la production plaquettaire et sur la production d'autoanticorps pourrait permettre une réponse plus durable. Cette phase II de Novartis, monobras et ouverte, inclut 36 enfants. Elle évalue l'efficacité, la tolérance et la pharmacocinétique, afin de choisir la dose pédiatrique de ianalumab. Elle comporte un dépistage, un traitement, puis un suivi d'efficacité et de sécurité.",
+ "interet": "L'étude pourrait fournir la première donnée pédiatrique de cette association et définir la dose de ianalumab pour l'enfant.",
+ "profil": "Des enfants et adolescents de 5 à moins de 18 ans ayant un PTI primaire et des plaquettes < 30 G/L après corticoïdes.",
+ "inclusion": [
+  "Âge de 5 à moins de 18 ans, consentement ou assentiment signé",
+  "PTI primaire confirmé avec réponse insuffisante ou rechute après corticoïdes (avec ou sans immunoglobulines)",
+  "Plaquettes < 30 G/L, eltrombopag indiqué et sans contre-indication",
+  "Vaccinations de l'enfant à jour"
+ ],
+ "exclusion": [
+  "Traitement de deuxième ligne antérieur (dont splénectomie) ; agonistes de la TPO limités à une semaine tolérés",
+  "Anomalies rénales ou hépatiques notables, insuffisance hépatique (Child-Pugh > 5)",
+  "Autre diagnostic hématologique avec cytopénies, dont syndrome d'Evans",
+  "Saignement menaçant le pronostic vital, actuel ou passé",
+  "VIH, hépatite C, hépatite B (HBs ou HBc positifs)",
+  "Infection active ou récidivante, trouble de l'hémostase ou traitement antiagrégant ou anticoagulant",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ianalumab + eltrombopag",
+   "traitement": "Ianalumab (dose à définir) ajouté à l'eltrombopag"
+  }
+ ],
+ "duree": "Suivi jusqu'à 39 mois après le dernier patient inclus",
+ "critere": "Délai jusqu'à l'échec thérapeutique, de l'inclusion jusqu'à la fin de l'étude (jusqu'à 39 mois)"
+}

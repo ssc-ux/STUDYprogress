@@ -1,0 +1,31 @@
+{
+ "h": "a356b72fae2e",
+ "date": "2026-11-14",
+ "titre": "Immunoglobulines et profil immunitaire T/B dans les déficits immunitaires en anticorps",
+ "question": "Comment évoluent les sous-populations lymphocytaires T et B et le taux d'infections chez des patients ayant un déficit immunitaire en anticorps sous immunoglobulines ?",
+ "contexte": "Les déficits immunitaires primitifs en anticorps regroupent des erreurs innées de l'immunité caractérisées par un défaut de production d'anticorps, avec infections récidivantes, inflammation chronique et manifestations auto-immunes paradoxales. Le traitement de fond est la substitution par immunoglobulines, mais l'évolution clinique et la réponse au traitement varient beaucoup d'un patient à l'autre.\n\nLes anomalies sous-jacentes touchent notamment la coopération entre lymphocytes T et B. Cette étude observationnelle prospective monocentrique, menée à Pékin, caractérise par cytométrie en flux multiparamétrique les lymphocytes B (mémoire avec ou sans commutation, plasmablastes, B double négatifs) et T (dont les Tfh circulants) avant puis sous immunoglobulines. L'objectif est de relier le profil immunitaire à l'efficacité en vie réelle de la substitution. Les patients sont suivis 12 mois, avec évaluation à l'inclusion, à 6 et à 12 mois.",
+ "interet": "Des marqueurs lymphocytaires pourraient aider à prédire la réponse aux immunoglobulines et à comprendre la diversité des phénotypes, mais l'effectif est faible (15 patients).",
+ "profil": "Des patients de 5 à 50 ans ayant un déficit immunitaire primitif en anticorps, recevant ou débutant une substitution par immunoglobulines.",
+ "inclusion": [
+  "Déficit immunitaire primitif en anticorps selon les critères ESID/IUIS",
+  "IgG, IgA et/ou IgM sous la normale pour l'âge, ou mauvaise réponse vaccinale",
+  "Âge de 5 à 50 ans",
+  "Substitution par immunoglobulines en cours ou prévue",
+  "Consentement écrit du patient ou de son représentant légal"
+ ],
+ "exclusion": [
+  "Déficit immunitaire secondaire (cancer actif, entéropathie exsudative, syndrome néphrotique, VIH non traité)",
+  "Autre déficit immunitaire primitif qu'un déficit en anticorps",
+  "Immunosuppresseur ou immunomodulateur ciblé dans les 3 mois (sauf immunoglobulines stables)",
+  "Infection sévère active et non contrôlée au prélèvement initial",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte déficit en anticorps",
+   "traitement": "Substitution standard par immunoglobulines, avec profilage des sous-populations T et B"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Variation des sous-populations lymphocytaires T et B du sang (inclusion, mois 6, mois 12) et taux annualisé d'infections sur 12 mois"
+}

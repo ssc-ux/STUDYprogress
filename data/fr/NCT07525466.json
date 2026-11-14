@@ -1,0 +1,35 @@
+{
+ "h": "d758bba83570",
+ "date": "2026-11-14",
+ "titre": "Schéma MEPL-G (mitoxantrone liposomale, étoposide, pegaspargase, golidocitinib) dans le lymphome NK/T avec LHH",
+ "question": "L'association MEPL-G est-elle tolérée et améliore-t-elle la survie à 6 mois des patients atteints de lymphome NK/T extranodal compliqué de lymphohistiocytose hémophagocytaire ?",
+ "contexte": "Le lymphome NK/T extranodal est un lymphome agressif associé à l'EBV, plus fréquent en Asie. Les formes localisées ont un bon pronostic avec radiothérapie et chimiothérapie contenant de la pegaspargase, mais les formes avancées ou en rechute ont une survie à long terme inférieure à 40 %. Chez 10 à 20 % des patients survient une lymphohistiocytose hémophagocytaire (LHH) secondaire, avec une survie médiane inférieure à 2 mois selon le registre.\n\nLes schémas de LHH ne contrôlent pas le lymphome, et les chimiothérapies du lymphome contrôlent mal l'hyperinflammation. La voie JAK/STAT est impliquée dans l'activation immunitaire induite par l'EBV. Le golidocitinib, inhibiteur sélectif de JAK1, a une activité dans les lymphomes T et NK/T. Cet essai de phase Ib/II monobras du Beijing Tongren Hospital l'associe à la mitoxantrone liposomale, à l'étoposide, à la méthylprednisolone et à la pegaspargase. La phase Ib détermine la dose de mitoxantrone (départ 18 mg/m² toutes les 3 semaines). Les répondeurs peuvent recevoir une allogreffe ou poursuivre 6 cycles puis golidocitinib en entretien.",
+ "interet": "L'essai explore un schéma ciblant à la fois le lymphome et l'hyperinflammation dans une situation où les options sont très limitées.",
+ "profil": "Des adultes atteints d'un lymphome NK/T extranodal avec LHH (critères HLH-2004).",
+ "inclusion": [
+  "Lymphome NK/T extranodal confirmé histologiquement",
+  "Critères HLH-2004 remplis (≥ 5)",
+  "Âge ≥ 18 ans",
+  "VIH négatif, FEVG ≥ 50 %",
+  "Pas de saignement viscéral actif ni d'infection non contrôlée",
+  "Hépatites B et C négatives ou charge virale basse",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Classe NYHA ≥ II",
+  "Grossesse ou allaitement",
+  "Hypersensibilité à un des médicaments",
+  "Autre cancer concomitant (hors cancer cutané non mélanome)",
+  "Atteinte lymphomateuse du système nerveux central",
+  "DFG < 15 mL/min, cirrhose sévère (MELD > 20), antécédent de pancréatite",
+  "Participation à un autre essai clinique"
+ ],
+ "bras": [
+  {
+   "nom": "MEPL-G",
+   "traitement": "Mitoxantrone liposomale (18 mg/m² à J1 toutes les 3 semaines en départ), étoposide, pegaspargase, méthylprednisolone et golidocitinib, 6 cycles de 3 semaines, puis allogreffe ou entretien par golidocitinib"
+  }
+ ],
+ "duree": "6 cycles de 3 semaines puis entretien, suivi jusqu'à 2028",
+ "critere": "Taux de survie globale à 6 mois à partir du début du schéma MEPL-G"
+}

@@ -1,0 +1,25 @@
+{
+ "h": "274f15b02c2a",
+ "date": "2026-11-14",
+ "titre": "Enquête de sécurité de l'icatibant chez l'enfant avec angiœdème héréditaire au Japon",
+ "question": "L'icatibant est-il bien toléré chez des enfants et adolescents japonais traités pour une crise d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire est une maladie rare à crises d'œdème sous-cutané ou muqueux imprévisibles, dont certaines peuvent menacer le pronostic vital (œdème laryngé). Le traitement de la crise doit être administré le plus tôt possible.\n\nL'icatibant est un antagoniste du récepteur B2 de la bradykinine, administré par voie sous-cutanée, utilisé chez l'adulte et, selon les pays, chez l'enfant à partir de 2 ans. Les données de tolérance chez l'enfant, notamment au Japon, restent limitées.\n\nCette enquête observationnelle de Takeda, en pratique courante, inclut 32 patients de 2 à moins de 18 ans traités pour la première fois par icatibant 30 mg en seringue. Le promoteur n'intervient pas dans la prise en charge, qui suit les habitudes du centre ; les événements indésirables sont recueillis pendant 3 mois, avec une évaluation de l'effet sur les crises.",
+ "interet": "Elle précise la tolérance de l'icatibant chez l'enfant au Japon, ce qui complète les données des essais pédiatriques.",
+ "profil": "Des enfants et adolescents japonais de 2 à moins de 18 ans avec angiœdème héréditaire, traités pour la première fois par icatibant.",
+ "inclusion": [
+  "Angiœdème héréditaire",
+  "Âge de 2 à < 18 ans",
+  "Première administration d'icatibant sous-cutané 30 mg en seringue"
+ ],
+ "exclusion": [
+  "Patients ayant reçu l'icatibant dans des essais cliniques ou en transfert d'un autre centre"
+ ],
+ "bras": [
+  {
+   "nom": "Icatibant",
+   "traitement": "Icatibant sous-cutané de 10 à 30 mg selon la pratique du centre"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Nombre de participants avec au moins un événement indésirable apparu sous traitement, jusqu'à 3 mois."
+}

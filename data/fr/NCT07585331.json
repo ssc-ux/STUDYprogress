@@ -1,0 +1,32 @@
+{
+ "h": "e0ccdf4e9ade",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs de réponse aux traitements anti-plasmocytaires dans l'amylose AL",
+ "question": "Quels biomarqueurs prédisent la réponse aux traitements de première ligne et la résistance dans l'amylose AL ?",
+ "contexte": "L'amylose AL est due à un clone plasmocytaire qui produit des chaînes légères libres amyloïdogènes. Elles se déposent dans le cœur, les reins et d'autres organes. Le traitement vise à éradiquer le clone avec des schémas dérivés du myélome, à base de bortézomib, de daratumumab et de dexaméthasone.\n\nLa réponse est variable : certains patients obtiennent une réponse hématologique rapide, d'autres restent résistants. On ne sait pas prédire avant le traitement qui répondra, ni pourquoi.\n\nCette étude de cohorte de la Fondation IRCCS Policlinico San Matteo de Pavie, en partie rétrospective et en partie prospective, inclut 250 patients atteints d'amylose AL prouvée par biopsie et jamais traités par anti-plasmocytaire. Elle associe données cliniques et analyses in vitro sur les résidus d'échantillons du soin courant, pour identifier des biomarqueurs prédictifs de la réponse à la première ligne.",
+ "interet": "Identifier des marqueurs de réponse ou de résistance pourrait permettre de choisir le traitement initial selon le patient, et d'orienter les patients résistants vers d'autres options.",
+ "profil": "Des adultes atteints d'amylose AL systémique prouvée par biopsie, sans clone IgM et jamais traités par anti-plasmocytaire.",
+ "inclusion": [
+  "Amylose AL systémique prouvée par biopsie",
+  "Absence de clone IgM",
+  "Aucun traitement anti-plasmocytaire antérieur",
+  "Ponction de moelle diagnostique au centre",
+  "Âge > 18 ans",
+  "Consentement écrit pour l'usage des données et des résidus d'échantillons"
+ ],
+ "exclusion": [
+  "Amylose non AL",
+  "Clone IgM",
+  "Traitement anti-plasmocytaire antérieur",
+  "Âge < 18 ans",
+  "Refus de l'usage des données et échantillons pour la recherche"
+ ],
+ "bras": [
+  {
+   "nom": "Amylose AL",
+   "traitement": "Cohorte suivie sous traitement de première ligne du soin courant ; analyses des échantillons résiduels"
+  }
+ ],
+ "duree": "Environ 6 mois après le début du traitement de première ligne",
+ "critere": "Identification de biomarqueurs prédictifs de la réponse à la première ligne à base d'inhibiteur du protéasome, du diagnostic à 6 mois après le début du traitement"
+}

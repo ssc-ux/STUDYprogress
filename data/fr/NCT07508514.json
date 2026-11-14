@@ -1,0 +1,28 @@
+{
+ "h": "58a630c709a8",
+ "date": "2026-11-14",
+ "titre": "Évolution précoce du diamètre de la gaine du nerf optique sous corticoïdes dans l'ACG",
+ "question": "À quelle vitesse le diamètre de la gaine du nerf optique, mesuré par échographie oculaire, diminue-t-il après le début des corticoïdes dans l'artérite à cellules géantes ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vascularite des artères de moyen et gros calibre qui peut provoquer une cécité irréversible. Les corticoïdes suppriment rapidement l'inflammation, mais l'échographie des artères temporales et la biopsie deviennent souvent faussement négatives en quelques jours de traitement, ce qui complique le diagnostic quand l'examen est retardé.\n\nLe diamètre de la gaine du nerf optique (DGNO), mesurable par échographie oculaire, reflète l'œdème périneural et pourrait servir de biomarqueur quantitatif de l'atteinte oculaire. SONIC-TIME est une sous-étude observationnelle monocentrique de l'étude SONIC-GCA (Hôpital du Sacré-Cœur, Montréal). Soixante patients avec une ACG récente sont suivis par échographie du nerf optique, CRP, VS et, si possible, échographie de l'artère temporale aux jours 3, 7, 10, 14, 21, 28 et au mois 2. Aucun traitement expérimental n'est administré. L'étude relie la trajectoire du DGNO à la dose cumulée de corticoïdes, aux bolus de méthylprednisolone et à l'usage précoce d'épargnants cortisoniques.",
+ "interet": "Les résultats pourraient définir la fenêtre d'imagerie utile après l'introduction des corticoïdes et préciser le rôle de l'échographie du nerf optique dans le diagnostic et le suivi de l'ACG.",
+ "profil": "Des adultes de 50 ans et plus avec une ACG récente, traités depuis moins de 48 heures par corticoïdes.",
+ "inclusion": [
+  "Inclus dans SONIC-GCA, avec échographie du nerf optique initiale réalisée",
+  "ACG confirmée à l'évaluation standardisée initiale",
+  "Corticoïdes depuis ≤ 48 heures et ≤ 160 mg d'équivalent prednisone avant l'évaluation initiale",
+  "Consentement écrit",
+  "Accord pour le calendrier de suivi intensif"
+ ],
+ "exclusion": [
+  "Participation à un essai pharmaceutique interventionnel en aveugle",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe ACG",
+   "traitement": "Patients avec ACG récente suivis par échographie du nerf optique, échographie de l'artère temporale et bilan CRP/VS aux jours 3, 7, 10, 14, 21, 28 et au mois 2, sous traitement standard"
+  }
+ ],
+ "duree": "2 mois de suivi intensif par patient",
+ "critere": "Variation du DGNO moyen (en mm) entre le jour 0 et le jour 28"
+}

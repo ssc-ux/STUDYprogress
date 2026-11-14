@@ -1,0 +1,37 @@
+{
+ "h": "76476772f6f4",
+ "date": "2026-11-14",
+ "titre": "SHR-2173 en injections sous-cutanées répétées dans le lupus : phase 1 de sécurité et de pharmacocinétique",
+ "question": "Le SHR-2173, administré par injections sous-cutanées répétées, est-il sûr et tolérable chez des patients atteints de lupus, et quelles sont sa pharmacocinétique et sa pharmacodynamie ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie auto-immune chronique, dont le traitement associe hydroxychloroquine, corticoïdes, immunosuppresseurs et, dans les formes actives, des biothérapies comme le belimumab ou l'anifrolumab. Malgré ces options, une proportion importante de patients garde une maladie active ou reçoit des corticoïdes au long cours, avec leurs effets indésirables. Le développement de nouvelles molécules reste donc actif.\n\nLe SHR-2173 est un médicament expérimental du laboratoire chinois Hengrui, administré par voie sous-cutanée. Le registre ne précise pas son mécanisme d'action. Cette étude de phase 1, ouverte et non randomisée, a inclus 30 patients dans un centre en Chine. Les participants sont répartis en trois groupes recevant trois niveaux de dose, avec injections répétées. L'objectif est de décrire la tolérance, la pharmacocinétique et la pharmacodynamie jusqu'à la semaine 16.",
+ "interet": "Étude de phase précoce : elle permet de choisir les doses de futures études d'efficacité. Aucune conclusion clinique n'est possible à ce stade.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus érythémateux systémique.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Poids d'au moins 45 kg",
+  "Lupus diagnostiqué depuis au moins 12 semaines"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou test de grossesse positif",
+  "Abus d'alcool ou de drogues dans l'année précédente",
+  "Don de sang de 450 mL ou plus dans les 8 semaines précédentes",
+  "Infection active ou antécédent de tuberculose active",
+  "Autre maladie inflammatoire ou auto-immune pouvant gêner l'interprétation"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "SHR-2173 par injections sous-cutanées répétées, dose 1"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "SHR-2173 par injections sous-cutanées répétées, dose 2"
+  },
+  {
+   "nom": "Groupe C",
+   "traitement": "SHR-2173 par injections sous-cutanées répétées, dose 3"
+  }
+ ],
+ "duree": "16 semaines",
+ "critere": "Événements indésirables entre la semaine 0 et la semaine 16."
+}

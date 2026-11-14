@@ -1,0 +1,50 @@
+{
+ "h": "d8178dfebc03",
+ "date": "2026-11-14",
+ "titre": "BDB-001 en remplacement des corticoïdes dans les vascularites à ANCA",
+ "question": "Le BDB-001 permet-il de réduire ou remplacer les corticoïdes dans les vascularites à ANCA traitées par cyclophosphamide ?",
+ "contexte": "Les vascularites associées aux ANCA (granulomatose avec polyangéite, polyangéite microscopique) sont traitées en induction par corticoïdes à forte dose associés au cyclophosphamide ou au rituximab. Les corticoïdes sont efficaces mais responsables d'une part importante de la morbidité : infections, diabète, ostéoporose, événements cardiovasculaires.\n\nLe BDB-001 est un anticorps monoclonal dirigé contre le composant C5a du complément. L'activation de la voie alterne du complément et le C5a contribuent à la lésion vasculaire des ANCA, comme le montre l'avacopan, antagoniste du récepteur C5a, qui a permis une réduction des corticoïdes dans l'essai ADVOCATE.\n\nCette étude de phase 1/2 chinoise, promue par Staidson, compare cinq schémas, tous avec cyclophosphamide : BDB-001 à deux doses avec corticoïdes réduits, BDB-001 à deux doses sans corticoïdes, et un bras témoin avec corticoïdes à dose standard. Le critère principal est la rémission complète ou partielle à 12 semaines selon le BVAS.",
+ "interet": "Elle teste une stratégie d'épargne cortisonique par blocage de C5a, avec des données préliminaires de tolérance et d'efficacité avant un éventuel essai de phase 3.",
+ "profil": "Des adultes de 18 à 75 ans avec une GPA ou une PAM avec ANCA, récente ou en rechute, nécessitant un traitement par cyclophosphamide.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "GPA ou PAM, nouvelle ou en rechute, nécessitant cyclophosphamide et corticoïdes",
+  "Anticorps anti-PR3 ou anti-MPO positifs",
+  "DFGe ≥ 15 mL/min/1,73 m²",
+  "BVAS : au moins 1 item majeur, 3 items non majeurs ou 2 items rénaux"
+ ],
+ "exclusion": [
+  "Tuberculose active",
+  "Forme sévère : glomérulonéphrite rapidement progressive, hémorragie alvéolaire sous ventilation, atteinte du système nerveux central ou mononévrite rapide",
+  "Autre maladie auto-immune multisystémique (EGPA, lupus, vascularite à IgA, maladie de Goodpasture, cryoglobulinémie)",
+  "Hépatite B active",
+  "Cyclophosphamide dans les 3 mois ou rituximab dans les 12 mois",
+  "Corticothérapie prolongée > 10 mg/j de prednisone-équivalent ou bolus récent",
+  "Dialyse prolongée, immunoglobulines IV ou échanges plasmatiques récents",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "BDB-001 faible dose, corticoïdes réduits, cyclophosphamide"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "BDB-001 forte dose, corticoïdes réduits, cyclophosphamide"
+  },
+  {
+   "nom": "Groupe C (témoin)",
+   "traitement": "Corticoïdes à dose standard, cyclophosphamide"
+  },
+  {
+   "nom": "Groupe D",
+   "traitement": "BDB-001 faible dose, cyclophosphamide, sans corticoïdes"
+  },
+  {
+   "nom": "Groupe E",
+   "traitement": "BDB-001 forte dose, cyclophosphamide, sans corticoïdes"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 12 semaines)",
+ "critere": "Proportion de patients en rémission complète ou partielle selon le BVAS à 12 semaines."
+}

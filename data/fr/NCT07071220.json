@@ -1,0 +1,34 @@
+{
+ "h": "b11b5dcfa46d",
+ "date": "2026-11-14",
+ "titre": "Vitamine C versus placebo sur l'IL-6 et l'activité du lupus systémique",
+ "question": "Une supplémentation en vitamine C pendant 8 semaines réduit-elle l'IL-6 et l'activité du lupus ?",
+ "contexte": "Le lupus systémique s'accompagne d'une inflammation chronique et d'un stress oxydatif. L'interleukine-6 est une cytokine pro-inflammatoire dont le taux est souvent élevé et corrélé à l'activité de la maladie.\n\nLa vitamine C est un antioxydant peu coûteux. L'hypothèse est qu'elle pourrait moduler la production de cytokines et réduire l'activité du lupus, mais les données cliniques sont rares.\n\nCet essai randomisé en double aveugle, mené dans un seul centre indonésien (Universitas Sriwijaya), compare 500 mg de vitamine C deux fois par jour à un placebo pendant 8 semaines chez 38 patients ayant un lupus d'activité faible à modérée. Un essai jumeau étudie le TNF-α.",
+ "interet": "Un effet sur l'IL-6 et le score d'activité serait un argument pour tester la vitamine C comme adjuvant, sans changer à ce stade la prise en charge.",
+ "profil": "Des adultes atteints de lupus d'activité faible à modérée, suivis dans un service d'allergo-immunologie en Indonésie.",
+ "inclusion": [
+  "Lupus systémique d'activité faible à modérée",
+  "Âge > 18 ans",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Autre déficit ou trouble immunitaire, dont VIH",
+  "Grossesse ou allaitement",
+  "Cancer",
+  "Maladie hépatique chronique",
+  "Maladie infectieuse",
+  "Prise de suppléments contenant de la vitamine C"
+ ],
+ "bras": [
+  {
+   "nom": "Vitamine C",
+   "traitement": "500 mg par voie orale, 2 fois par jour, 8 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Capsule identique, 2 fois par jour, 8 semaines"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Variation de l'IL-6 sérique et du score d'activité MEX-SLEDAI entre l'inclusion et 8 semaines"
+}

@@ -1,0 +1,43 @@
+{
+ "h": "b3c063456fcd",
+ "date": "2026-11-14",
+ "titre": "Imagerie par échographie et IRM des muscles de la déglutition et de la parole dans la myosite à inclusions",
+ "question": "L'échographie neuromusculaire et l'IRM de la région bulbaire sont-elles des marqueurs d'imagerie de l'atteinte bulbaire et de la dysphagie dans la myosite à inclusions (IBM) ?",
+ "contexte": "La myosite à inclusions est la myopathie inflammatoire acquise la plus fréquente après 50 ans. Elle touche surtout les fléchisseurs des doigts et le quadriceps. Dans de nombreux cas elle atteint aussi les muscles de la déglutition, et la dysphagie est une cause importante de fausses routes, de pneumopathies et de dénutrition.\n\nL'évaluation de l'atteinte bulbaire repose actuellement sur des questionnaires et sur des examens de la déglutition, peu sensibles aux stades précoces. Il manque des biomarqueurs objectifs pour suivre l'évolution et mesurer l'effet de futurs traitements. Cette étude de Johns Hopkins compare l'imagerie de la langue et des muscles bulbaires en échographie neuromusculaire (épaisseur, surface, échogénicité, élastographie) et en IRM (volume, surface, contenu graisseux) chez des patients IBM, des patients avec autres myopathies, des patients avec sclérose latérale amyotrophique ou sclérose latérale primitive, et des volontaires sains. Une seule visite est prévue, avec évaluation neurologique, questionnaires de déglutition et test de force de la langue.",
+ "interet": "Elle pourrait fournir des marqueurs objectifs de l'atteinte bulbaire de l'IBM, utiles pour le diagnostic différentiel avec la maladie du motoneurone et pour de futurs essais. L'étude est transversale et de petite taille.",
+ "profil": "Des adultes ayant une IBM, une autre myopathie, une SLA ou SLP, et des volontaires sains.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Diagnostic confirmé d'IBM, de SLA, de SLP ou de myopathie selon les critères respectifs",
+  "Bilan biologique pertinent (CK, bilan métabolique, NFS) dans les 12 derniers mois pour les patients",
+  "Capable de rester allongé 30 minutes ou plus, sans gêne respiratoire importante",
+  "Témoins sans maladie neuromusculaire"
+ ],
+ "exclusion": [
+  "Impossibilité de consentir par écrit",
+  "Antécédent ou examen rendant le participant inadapté selon l'investigateur",
+  "Autre maladie neuromusculaire avec atteinte bulbaire connue",
+  "Geste antérieur pour dysphagie (myotomie, dilatation, toxine botulique)",
+  "Faible probabilité d'observance"
+ ],
+ "bras": [
+  {
+   "nom": "Myosite à inclusions",
+   "traitement": "Échographie neuromusculaire, IRM bulbaire, questionnaires de déglutition, force de la langue"
+  },
+  {
+   "nom": "Autres myopathies",
+   "traitement": "Myopathies inflammatoires ou génétiques non IBM, mêmes examens"
+  },
+  {
+   "nom": "Maladie du motoneurone",
+   "traitement": "SLA ou SLP avec dysarthrie spastique, mêmes examens"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Volontaires sans maladie neuromusculaire, mêmes examens"
+  }
+ ],
+ "duree": "Une seule visite",
+ "critere": "Épaisseur, surface et échogénicité des muscles bulbaires en échographie ; volume, surface et contenu graisseux en IRM, lors de la visite unique"
+}

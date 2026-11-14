@@ -1,0 +1,33 @@
+{
+ "h": "67c5c7ab3bd9",
+ "date": "2026-11-14",
+ "titre": "Vitamine C versus placebo sur le TNF-α et l'activité du lupus systémique",
+ "question": "Une supplémentation en vitamine C pendant 8 semaines réduit-elle le TNF-α et l'activité du lupus ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune où l'inflammation chronique et le stress oxydatif jouent un rôle. Le TNF-α est une cytokine pro-inflammatoire dont le taux est souvent augmenté chez les patients.\n\nLa vitamine C est un antioxydant bon marché qui pourrait atténuer la production de cytokines. Les données cliniques dans le lupus sont toutefois limitées.\n\nCet essai randomisé en double aveugle, monocentrique, promu par l'Universitas Sriwijaya (Indonésie), compare 500 mg de vitamine C deux fois par jour à un placebo pendant 8 semaines chez 38 patients. Il est jumeau d'un essai portant sur l'IL-6 et utilise le même schéma. Les patients en poussée sévère, en rémission ou hospitalisés sont exclus.",
+ "interet": "Un effet sur le TNF-α et l'activité de la maladie justifierait des essais plus larges de la vitamine C comme traitement adjuvant ; il ne modifie pas la pratique à ce stade.",
+ "profil": "Des adultes atteints de lupus d'activité faible à modérée, suivis dans un service d'allergo-immunologie en Indonésie.",
+ "inclusion": [
+  "Lupus systémique d'activité faible à modérée",
+  "Âge > 18 ans",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Autre maladie immune (VIH, polyarthrite rhumatoïde), tuberculose pulmonaire, maladie hépatique chronique ou cancer",
+  "Prise de vitamine C en supplément depuis plus d'une semaine",
+  "Lupus sévère ou en rémission, hospitalisation pour lupus",
+  "Hémochromatose ou gastrite"
+ ],
+ "bras": [
+  {
+   "nom": "Vitamine C",
+   "traitement": "500 mg par voie orale, 2 fois par jour, 8 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Capsule identique, 2 fois par jour, 8 semaines"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Variation du TNF-α sérique et du score MEX-SLEDAI entre l'inclusion et 8 semaines"
+}

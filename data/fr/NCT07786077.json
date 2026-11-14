@@ -1,0 +1,29 @@
+{
+ "h": "c71ccbb8ef13",
+ "date": "2026-11-14",
+ "titre": "Préférences des patients pour le traitement du purpura thrombopénique immunologique primaire",
+ "question": "Quels attributs des traitements (efficacité, risques, modalités) comptent le plus pour les adultes américains ayant un PTI primaire, en première et deuxième ligne ?",
+ "contexte": "Le purpura thrombopénique immunologique primaire est une maladie auto-immune caractérisée par une thrombopénie isolée avec risque hémorragique, mais aussi par une fatigue et une altération de la qualité de vie. La première ligne repose sur les corticoïdes, avec ou sans immunoglobulines intraveineuses. En cas d'échec ou de rechute, la seconde ligne comprend notamment les agonistes du récepteur de la thrombopoïétine (TPO-RA), pris au long cours.\n\nLes options diffèrent par leur voie d'administration, leur rythme, leurs effets indésirables et leur rapidité d'action, et le meilleur choix dépend des valeurs du patient. Cette étude non interventionnelle de Novartis, menée aux États-Unis, utilise une enquête de préférences en deux temps. D'abord, élaboration du questionnaire et identification des attributs clés. Ensuite, administration à 100 patients traités en première ou en deuxième ligne, puis analyse des poids de préférence et des compromis acceptables entre bénéfice et risque.",
+ "interet": "Elle éclairera la décision partagée en documentant ce que les patients acceptent comme risque pour un bénéfice donné. Elle ne teste aucun traitement.",
+ "profil": "Des adultes vivant aux États-Unis ayant un PTI primaire, en traitement de première ou de deuxième ligne.",
+ "inclusion": [
+  "Résidence aux États-Unis",
+  "Âge de 18 ans ou plus",
+  "PTI primaire",
+  "1re ligne : corticoïdes débutés dans les 3 mois suivant le diagnostic, avec réponse",
+  "2e ligne : besoin ou prise d'un TPO-RA après échec ou rechute des corticoïdes (± IgIV)"
+ ],
+ "exclusion": [
+  "1re ligne : traitement antérieur ou actuel autre que corticoïdes, IgIV ou anti-D",
+  "2e ligne : traitement autre que corticoïdes, IgIV/anti-D ou un seul TPO-RA",
+  "Patients en troisième ligne ou au-delà"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte PTI",
+   "traitement": "Adultes traités en 1re ou 2e ligne, répondant à une enquête de préférences (pas d'intervention)"
+  }
+ ],
+ "duree": "Une journée (questionnaire unique)",
+ "critere": "Poids de préférence des attributs de traitement, risque maximal et bénéfice minimal acceptables, et différences selon les caractéristiques personnelles (1 jour)"
+}

@@ -1,0 +1,40 @@
+{
+ "h": "2ffb46bd06b2",
+ "date": "2026-11-14",
+ "titre": "FXS5626 oral contre placebo dans l'uvéite non infectieuse non antérieure active",
+ "question": "Le FXS5626 par voie orale, à deux doses, réduit-il les échecs thérapeutiques par rapport au placebo dans l'uvéite non infectieuse non antérieure active ?",
+ "contexte": "Les uvéites non infectieuses intermédiaires, postérieures et les panuvéites peuvent provoquer une perte visuelle durable. Le traitement repose sur les corticoïdes, puis sur des immunosuppresseurs conventionnels et des biothérapies comme l'adalimumab. Les corticoïdes au long cours exposent à une cataracte, un glaucome et des complications systémiques, et une partie des patients reste en poussée malgré le traitement.\n\nLe FXS5626 est un comprimé expérimental de Shanghai Fosun Pharmaceutical ; son mécanisme n'est pas précisé dans le registre. Cet essai de phase II randomisé en double aveugle contre placebo, mené en Chine, inclut 40 adultes de 18 à 70 ans dont l'uvéite reste active sous prednisone de 10 à 60 mg/j. Les patients reçoivent FXS5626 50 mg ou 25 mg deux fois par jour, ou un placebo, avec une répartition 2:1:1, pendant 24 semaines.",
+ "interet": "L'étude donnera un premier signal d'efficacité d'un traitement oral dans l'uvéite active, avec une portée limitée par la taille de l'échantillon.",
+ "profil": "Des adultes de 18 à 70 ans avec une uvéite non infectieuse intermédiaire, postérieure ou panuvéite active malgré la prednisone.",
+ "inclusion": [
+  "Âge 18 à 70 ans, IMC 18 à 30 kg/m²",
+  "Uvéite non infectieuse intermédiaire, postérieure ou panuvéite active sur au moins un œil",
+  "Activité malgré au moins 2 semaines de prednisone orale de 10 à 60 mg/j",
+  "Lésion choriorétinienne ou vasculaire active, ou ≥ 2+ cellules en chambre antérieure, ou ≥ 2+ de haze vitréen",
+  "Contraception efficace, consentement écrit"
+ ],
+ "exclusion": [
+  "Uvéite antérieure isolée",
+  "Œdème maculaire seul comme manifestation",
+  "Uvéite infectieuse confirmée ou suspectée (tuberculose, CMV, Lyme, toxoplasmose, HSV...)",
+  "Syndrome d'histoplasmose, syndrome de masquerade, choroïdopathie serpigineuse",
+  "Opacité cornéenne, cristallinienne ou vitréenne gênant le fond d'œil, cataracte à opérer",
+  "Glaucome non contrôlé"
+ ],
+ "bras": [
+  {
+   "nom": "FXS5626 50 mg",
+   "traitement": "50 mg par voie orale deux fois par jour pendant 24 semaines"
+  },
+  {
+   "nom": "FXS5626 25 mg",
+   "traitement": "25 mg par voie orale deux fois par jour pendant 24 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie orale deux fois par jour pendant 24 semaines"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Pourcentage de patients répondant aux critères d'échec thérapeutique entre la semaine 6 et la semaine 24"
+}

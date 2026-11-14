@@ -1,0 +1,35 @@
+{
+ "h": "00a46f1a8dbf",
+ "date": "2026-11-14",
+ "titre": "Hyperréactivité bronchique dans la sarcoïdose",
+ "question": "Quelle est la fréquence de l'hyperréactivité bronchique chez les patients atteints de sarcoïdose, et quels facteurs lui sont associés ?",
+ "contexte": "La sarcoïdose pulmonaire peut s'accompagner d'un trouble ventilatoire obstructif et d'une hyperréactivité bronchique (HRB), qui peuvent simuler un asthme. En pratique, le test de provocation bronchique est un appoint diagnostique de l'asthme chez les patients symptomatiques à spirométrie normale. L'HRB n'est toutefois pas spécifique de l'asthme.\n\nDes données suggèrent un lien entre l'HRB et la sévérité des symptômes respiratoires de la sarcoïdose, mais sa physiopathologie reste mal connue.\n\nCette étude observationnelle transversale polonaise, avec une composante rétrospective, a inclus 70 patients sur 81 évalués. Tous ont eu un test à la métacholine, avec respiration courante de 2 minutes selon les recommandations ATS/ERS. Les groupes avec et sans HRB sont comparés selon l'âge, le tabagisme, la biologie (CRP, calcémie, calciurie), les tests cutanés allergiques et le scanner thoracique. Le stade de Scadding et la classification Delphi 2024 des phénotypes scanographiques sont utilisés.",
+ "interet": "Elle pourrait aider à repérer les patients sarcoïdosiques à risque d'HRB, et à éviter de confondre cette hyperréactivité avec un asthme.",
+ "profil": "Des adultes atteints de sarcoïdose confirmée, sans asthme connu.",
+ "inclusion": [
+  "Sarcoïdose confirmée selon les recommandations ATS/ERS/WASOG",
+  "Dossier médical disponible",
+  "Spirométrie techniquement acceptable",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Refus de participer",
+  "Contre-indication au test à la métacholine",
+  "Médicament pouvant modifier la fonction respiratoire sans période d'arrêt suffisante",
+  "Asthme antérieur",
+  "Infection respiratoire dans les 8 semaines avant le test",
+  "Âge < 18 ans, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Avec hyperréactivité bronchique",
+   "traitement": "Chute du VEMS ≥ 20 % à une concentration de métacholine < 16 mg/mL"
+  },
+  {
+   "nom": "Sans hyperréactivité bronchique",
+   "traitement": "Chute du VEMS < 20 % à des concentrations > 16 mg/mL"
+  }
+ ],
+ "duree": "Un seul test de provocation (données rétrospectives complémentaires)",
+ "critere": "Prévalence de l'hyperréactivité bronchique chez les patients atteints de sarcoïdose, lors du test"
+}

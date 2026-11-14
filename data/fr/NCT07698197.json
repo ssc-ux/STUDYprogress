@@ -1,0 +1,29 @@
+{
+ "h": "cf0dcb499e0c",
+ "date": "2026-11-14",
+ "titre": "Programme d'exercice de 12 semaines dans les déficits primitifs en anticorps : étude de faisabilité",
+ "question": "Un programme d'exercice de 12 semaines par application mobile est-il faisable, sûr et acceptable chez des adultes ayant un déficit immunitaire primitif en anticorps ?",
+ "contexte": "Les déficits immunitaires primitifs en anticorps regroupent notamment les déficits en sous-classes d'IgG, en IgA ou IgM sélectifs et le déficit en anticorps spécifiques. Les formes légères ne relèvent pas toujours d'une substitution en immunoglobulines, mais peuvent s'accompagner d'infections récidivantes, de fatigue et d'une altération de la qualité de vie.\n\nChez les sujets sains, l'activité physique régulière modérée est associée à une meilleure fonction immunitaire et à moins d'infections respiratoires. Peu de données existent chez les patients ayant un déficit en anticorps. Cette petite étude pilote de Yale, menée avec l'organisation The Pump, propose 12 semaines d'exercice d'intensité modérée guidé par une application. Elle mesure la faisabilité (recrutement, rétention, adhésion), l'effort perçu, et explore l'effet sur la qualité de vie, les infections et des paramètres immunologiques.",
+ "interet": "L'étude dira si l'exercice supervisé par application est applicable dans cette population, préalable à un essai contrôlé d'efficacité. Elle ne permet pas de conclure sur un bénéfice clinique.",
+ "profil": "Des adultes de 18 à 65 ans ayant un déficit primitif en anticorps non substitué, suivis à Yale.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Déficit en sous-classes d'IgG, en IgA sélectif, en IgM sélectif ou en anticorps spécifiques",
+  "Suivi dans la section de rhumatologie, allergologie et immunologie",
+  "Capable de pratiquer un exercice d'intensité modérée (dépistage ACSM sans nécessité d'avis médical)"
+ ],
+ "exclusion": [
+  "Traitement substitutif par immunoglobulines",
+  "Immunosuppresseurs ou immunomodulateurs (corticoïdes systémiques chroniques, déplétion B)",
+  "Contre-indication à l'exercice modéré selon l'ACSM",
+  "Autre maladie limitant la sécurité de l'exercice, dont polyarthrite rhumatoïde active"
+ ],
+ "bras": [
+  {
+   "nom": "Exercice par application",
+   "traitement": "Programme d'exercice d'intensité modérée de 12 semaines via application mobile, avec questionnaires et prélèvements sanguins"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Taux de recrutement et de rétention, fréquence et durée des séances (adhésion), échelle de Borg, exhaustivité des données à 12 semaines"
+}

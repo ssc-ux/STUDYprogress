@@ -1,0 +1,35 @@
+{
+ "h": "0a2fae275cd9",
+ "date": "2026-11-14",
+ "titre": "Atteinte hépatique et troubles de la coagulation dans l'amylose cardiaque à transthyrétine",
+ "question": "Les anomalies hépatiques et de la coagulation sont-elles plus fréquentes dans l'amylose cardiaque à transthyrétine que dans une cardiomyopathie hypertrophique non amyloïde, et évoluent-elles sous tafamidis ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CA), sauvage ou héréditaire, est une cardiomyopathie infiltrante de plus en plus reconnue chez le sujet âgé avec insuffisance cardiaque et hypertrophie ventriculaire gauche. La stadification pronostique actuelle repose surtout sur les biomarqueurs cardiaques (NT-proBNP, troponine) et la fonction rénale.\n\nLa maladie étant systémique, d'autres organes pourraient apporter une information pronostique. Le foie peut être atteint par dépôt amyloïde direct, par congestion veineuse liée à l'insuffisance cardiaque, ou par les deux. Les anomalies de la coagulation pourraient refléter la dysfonction hépatique et la charge de la maladie.\n\nCette étude observationnelle prospective monocentrique de l'université de Messine (Italie) compare des patients ATTR-CA à des témoins appariés sur l'âge ayant une cardiomyopathie hypertrophique non amyloïde. Elle associe bilan biologique hépatique et de coagulation, échographie cardiaque et hépatique et élastométrie (FibroScan). Les mesures sont répétées à 6 et 12 mois, avec évaluation de l'effet du tafamidis.",
+ "interet": "Elle pourrait identifier de nouveaux marqueurs hépatiques ou de coagulation utiles à la stadification et au suivi de l'ATTR-CA. Les résultats seraient exploratoires et issus d'un seul centre.",
+ "profil": "Des adultes ayant une ATTR-CA sauvage ou héréditaire, comparés à des témoins avec cardiomyopathie hypertrophique non amyloïde.",
+ "inclusion": [
+  "ATTR-CA sauvage ou héréditaire selon les recommandations européennes",
+  "Consentement écrit",
+  "Capacité à suivre les procédures et les visites de suivi",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "Atteinte hépatique sévère d'une autre cause que l'amylose",
+  "Barrière linguistique, trouble cognitif ou psychiatrique sévère empêchant le suivi",
+  "Maladie associée à une espérance de vie < 12 mois",
+  "Consommation active d'alcool ou de substances",
+  "Pour la coagulation : trouble congénital de la coagulation, thrombose, cancer actif ou sepsis",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTR-CA",
+   "traitement": "ATTR-CA sauvage ou héréditaire ; bilans clinique, biologique, échographique, élastométrie et coagulation à l'inclusion, 6 et 12 mois (effet du tafamidis évalué)"
+  },
+  {
+   "nom": "Témoins hypertrophiques",
+   "traitement": "Cardiomyopathie hypertrophique non amyloïde appariée sur l'âge, mêmes évaluations"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Rigidité hépatique et CAP au FibroScan, enzymes hépatiques (ASAT, ALAT, GGT, PAL), acides biliaires, bilirubine et autres paramètres, à l'inclusion, 6 et 12 mois"
+}

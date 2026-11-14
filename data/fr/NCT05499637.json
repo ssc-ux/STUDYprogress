@@ -1,0 +1,40 @@
+{
+ "h": "ccaa4dbed233",
+ "date": "2026-11-14",
+ "titre": "TEP/TDM au 68Ga-PentixaFor dans l'inflammation myocardique aiguë",
+ "question": "Le TEP/TDM au [68Ga]Ga-PentixaFor permet-il de visualiser l'inflammation myocardique dans le rejet de greffe, la sarcoïdose cardiaque et la myocardite aux inhibiteurs de points de contrôle ?",
+ "contexte": "L'inflammation myocardique aiguë regroupe plusieurs entités : rejet cellulaire aigu après transplantation cardiaque, sarcoïdose cardiaque et myocardite induite par les inhibiteurs de points de contrôle immunitaire. Le diagnostic non invasif est difficile : la biopsie endomyocardique est invasive et peu sensible, l'IRM et le TEP au FDG ont des limites.\n\nLe PentixaFor cible le récepteur de chimiokine CXCR4, exprimé par les lymphocytes T et les macrophages M1 activés. Marqué au gallium-68, il pourrait donc visualiser la présence de cellules inflammatoires dans le myocarde.\n\nCette étude de phase 2 du CHUV (Lausanne) évalue 25 patients (arrêtée prématurément) répartis en trois groupes : greffés cardiaques en première année, suspicion de sarcoïdose cardiaque, suspicion de myocardite aux inhibiteurs de points de contrôle. Le TEP/TDM est réalisé 60 minutes après injection, avec comparaison aux outils diagnostiques reconnus.",
+ "interet": "Un traceur ciblant CXCR4 pourrait offrir un diagnostic non invasif de l'inflammation myocardique et réduire le recours aux biopsies.",
+ "profil": "Des adultes greffés cardiaques ou suspects de sarcoïdose cardiaque ou de myocardite sous immunothérapie, suivis au CHUV.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Suspicion de sarcoïdose cardiaque, de myocardite aux inhibiteurs de points de contrôle, ou greffe cardiaque dans l'année",
+  "Suivi cardiologique habituel au CHUV",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Claustrophobie",
+  "Ischémie myocardique au test de perfusion ou à la coronarographie (groupes sarcoïdose et myocardite)",
+  "Instabilité cardiovasculaire : arythmie instable, PAS < 90 ou ≥ 220 mmHg, choc cardiogénique",
+  "Grossesse ou allaitement",
+  "DFG < 45 mL/min/1,73 m² (contre-indication au gadolinium)",
+  "Maladie ou affection interférant avec l'étude",
+  "Compréhension insuffisante de la langue du projet"
+ ],
+ "bras": [
+  {
+   "nom": "Rejet aigu cellulaire de greffe cardiaque",
+   "traitement": "TEP/TDM au [68Ga]Ga-PentixaFor"
+  },
+  {
+   "nom": "Sarcoïdose cardiaque",
+   "traitement": "TEP/TDM au [68Ga]Ga-PentixaFor"
+  },
+  {
+   "nom": "Myocardite aux inhibiteurs de points de contrôle",
+   "traitement": "TEP/TDM au [68Ga]Ga-PentixaFor"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Résultats du TEP/TDM au [68Ga]Ga-PentixaFor : nombre de lésions, localisation et SUV, sur 1 an."
+}

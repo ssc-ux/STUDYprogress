@@ -1,0 +1,34 @@
+{
+ "h": "7ff8760a0746",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-T allogéniques universelles anti-CD19/BCMA dans le PTI réfractaire",
+ "question": "Les cellules CAR-T allogéniques universelles anti-CD19/BCMA (QT-019C) sont-elles tolérées et actives chez des adultes ayant un PTI primaire réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des autoanticorps, notamment dirigés contre les glycoprotéines plaquettaires, détruisent les plaquettes. Une fraction des patients reste réfractaire aux corticoïdes, aux immunoglobulines, aux agonistes du récepteur de la thrombopoïétine, au rituximab et à la splénectomie, et reste exposée au risque hémorragique.\n\nLes CAR-T anti-CD19 ont induit des rémissions dans plusieurs maladies auto-immunes, en éliminant les lymphocytes B. L'ajout d'une cible BCMA vise aussi les plasmocytes producteurs d'autoanticorps, que le rituximab n'atteint pas. Le produit QT-019C est un CAR-T allogénique (issu de donneurs) dit universel, qui éviterait la fabrication individuelle à partir des cellules du patient. Cet essai de phase I monobras, mené à Wuhan (Union Hospital), comprend une escalade de dose selon un schéma 3+3 en quatre groupes, puis une extension à 6 patients, avec un suivi de 24 mois. Il vise d'abord la tolérance, avec une première évaluation de l'efficacité.",
+ "interet": "Si la tolérance est acceptable, cette approche prêt-à-l'emploi pourrait ouvrir la voie à une thérapie cellulaire du PTI réfractaire, sans délai de fabrication.",
+ "profil": "Des adultes de 18 à 75 ans ayant un PTI primaire réfractaire, avec des plaquettes < 30 G/L.",
+ "inclusion": [
+  "Âge 18 à 75 ans",
+  "PTI primaire depuis au moins 6 mois, plaquettes < 30 G/L à deux reprises à au moins 7 jours d'intervalle",
+  "Autoanticorps antiglycoprotéines plaquettaires positifs",
+  "PTI réfractaire à la première et/ou deuxième ligne (corticoïdes, immunoglobulines, agonistes de la TPO, rituximab, splénectomie) ou rechute",
+  "Fonctions d'organes conservées (FEVG > 50 %, clairance de la créatinine > 30 mL/min, transaminases < 3 N)",
+  "Contraception efficace, consentement signé"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire (SMD, hypersplénisme, maladie auto-immune, PTT, aplasie)",
+  "Myélofibrose > grade 2 ou autre cause de thrombopénie à la moelle",
+  "Cardiopathie significative (insuffisance cardiaque, infarctus de moins de 6 mois, arythmie ventriculaire)",
+  "Thérapie génique ou cellulaire préalable (CAR-T, CAR-NK, TCR-T)",
+  "Hépatite B ou C active, VIH, syphilis",
+  "Rituximab récent, prednisone > 10 mg/j, immunoglobulines ou échanges plasmatiques récents",
+  "Thrombose ou embolie dans les 6 mois, cancer dans les 5 ans, infection active"
+ ],
+ "bras": [
+  {
+   "nom": "QT-019C",
+   "traitement": "Cellules CAR-T allogéniques anti-CD19/BCMA en perfusion unique après leucaphérèse et lymphodéplétion ; escalade en 4 groupes (départ à 1×10^6 cellules/kg), puis extension à 6 patients"
+  }
+ ],
+ "duree": "Suivi jusqu'à 24 mois",
+ "critere": "Nombre et gravité des toxicités dose-limitantes et des événements indésirables dans les 28 jours suivant la perfusion"
+}

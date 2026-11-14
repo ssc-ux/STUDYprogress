@@ -1,0 +1,30 @@
+{
+ "h": "8dfa2e5a9420",
+ "date": "2026-11-14",
+ "titre": "Validation en turc du questionnaire de qualité de vie vasculaire VascuQoL-6 dans l'artérite de Takayasu et la maladie de Behçet vasculaire",
+ "question": "La version turque du VascuQoL-6 mesure-t-elle de façon valide et fiable la qualité de vie des patients atteints d'artérite de Takayasu ou de maladie de Behçet vasculaire ?",
+ "contexte": "L'artérite de Takayasu est une vascularite granulomateuse rare des grosses artères, qui touche l'aorte et ses branches et peut causer sténoses, occlusions ou anévrismes. Dans la maladie de Behçet, l'atteinte vasculaire est surtout veineuse (thromboses), avec des formes artérielles plus rares. Dans les deux cas, la maladie a un fort retentissement sur la qualité de vie.\n\nLes mesures objectives de l'activité doivent être complétées par des questionnaires rapportés par les patients, idéalement spécifiques de la maladie, plus sensibles aux changements après un traitement. Le questionnaire VascuQoL, créé en 2001 pour les maladies vasculaires périphériques, a été traduit en 7 langues ; la version courte VascuQoL-6 compte 6 items. Cette étude observationnelle, menée par l'université d'Uşak et l'université de Pamukkale en Turquie, évalue sa validité et sa fiabilité en turc chez 37 patients. Les scores sont comparés au SF-36, à l'EQ-5D-3L, au BDCAF, au BSAS et à l'ITAS-2010, et un test-retest est fait une semaine plus tard.",
+ "interet": "Un outil validé en turc permettra de mesurer la qualité de vie dans ces vascularites en recherche et en pratique, en complément des scores d'activité.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'artérite de Takayasu ou de maladie de Behçet vasculaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Artérite de Takayasu ou maladie de Behçet vasculaire diagnostiquée par un rhumatologue",
+  "Volonté de participer"
+ ],
+ "exclusion": [
+  "Autre maladie affectant la condition physique",
+  "Trouble cognitif empêchant la coopération",
+  "Grossesse",
+  "Maladie neurologique (hémiplégie, Parkinson, sclérose en plaques, vertiges, épilepsie)",
+  "Chirurgie dans l'année écoulée",
+  "Autre maladie rhumatismale associée"
+ ],
+ "bras": [
+  {
+   "nom": "Takayasu ou Behçet vasculaire",
+   "traitement": "Remplissage du VascuQoL-6 et d'autres questionnaires de qualité de vie, puis nouveau VascuQoL-6 une semaine plus tard (test-retest), sans intervention"
+  }
+ ],
+ "duree": "Environ 1 semaine (deux évaluations)",
+ "critere": "Score du VascuQoL-6 à l'inclusion et à 1 semaine, pour évaluer la validité et la reproductibilité."
+}

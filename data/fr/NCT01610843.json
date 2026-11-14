@@ -1,0 +1,25 @@
+{
+ "h": "749dae0e88ca",
+ "date": "2026-11-14",
+ "titre": "Étude mondiale en ligne sur la sarcoïdose",
+ "question": "Quels sont les phénotypes, l'évolution clinique et les modes de prise en charge de la sarcoïdose à travers le monde, tels que décrits par les patients eux-mêmes ?",
+ "contexte": "La sarcoïdose est une granulomatose systémique de cause inconnue, qui touche le plus souvent les poumons et les ganglions mais aussi la peau, les yeux, le cœur, le système nerveux et d'autres organes. Son expression et son évolution varient beaucoup selon l'origine ethnique, la géographie et les facteurs génétiques. Les corticoïdes sont le traitement de première ligne, avec des immunosuppresseurs en cas d'atteinte persistante ou sévère.\n\nLa plupart des données proviennent de grands centres spécialisés, ce qui peut donner une vision biaisée de la maladie. Cette étude de cohorte, dirigée par Alicia Gerke et financée par le NCRR, recrute des patients via la communauté des malades. Elle utilise des questionnaires en ligne remplis par les patients ou leurs médecins, avec des informations cliniques détaillées pour définir les phénotypes. Les participants peuvent aussi donner un échantillon d'ADN pour étudier les variations génétiques associées aux différents phénotypes. L'étude, qui visait 2 200 participants, est terminée.",
+ "interet": "Elle donne une vue plus large et moins sélectionnée de la sarcoïdose qu'une étude de centre expert, et constitue une base pour la recherche génétique. Elle ne teste aucun traitement.",
+ "profil": "Des adultes ayant une sarcoïdose et un accès à internet, recrutés via la communauté des patients.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Diagnostic de sarcoïdose",
+  "Accès à un ordinateur avec internet"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Patients sarcoïdosiques",
+   "traitement": "Questionnaire en ligne sur les caractéristiques cliniques et la prise en charge, avec échantillon d'ADN facultatif"
+  }
+ ],
+ "duree": "Non précisé (questionnaires en ligne)",
+ "critere": "Définition et caractérisation des phénotypes de sarcoïdose et des modalités de soins"
+}

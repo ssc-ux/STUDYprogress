@@ -1,0 +1,39 @@
+{
+ "h": "57e78aba05ff",
+ "date": "2026-11-14",
+ "titre": "Plateforme cloud de diagnostic par données cliniques et omiques dans les maladies auto-inflammatoires (SHE)",
+ "question": "Des données omiques intégrées au dossier clinique aident-elles à classer les maladies auto-inflammatoires indifférenciées et complexes ?",
+ "contexte": "Les maladies auto-inflammatoires systémiques sont des maladies rares dues à un dysfonctionnement de l'immunité innée, avec une production excessive d'IL-1, d'IL-18, d'IL-6, de TNF-α ou d'interférons de type I. Elles regroupent environ 47 entités. Pour les formes monogéniques, la classification précise guide le traitement.\n\nDans 40 à 60 % des suspicions, la génétique ne permet pas de conclure : ce sont les formes indifférenciées. Le retard diagnostique expose à des dommages d'organe irréversibles. Les données omiques sont rarement intégrées aux dossiers médicaux, et le partage d'information entre cliniciens et laboratoires reste fragmenté.\n\nCette étude de cohorte de l'Institut Giannina Gaslini (Gênes), rétrospective et prospective, inclut 73 patients de 0 à 25 ans : maladies monogéniques, formes complexes (PFAPA, SURF, CRMO/SAPHO, arthrite juvénile systémique), formes indifférenciées et fibromyalgie. Elle utilise des résidus d'échantillons, de l'ADN et des sérums de biobanque pour explorer la génomique, la protéomique et la lipidomique, développer des modèles prédictifs et un dossier clinique-omique.",
+ "interet": "Elle pourrait améliorer le diagnostic et la stratification des maladies auto-inflammatoires indifférenciées, et fournir un outil d'aide à la décision, après évaluation de son utilité en pratique.",
+ "profil": "Des enfants et jeunes adultes de 0 à 25 ans atteints de maladies auto-inflammatoires systémiques (monogéniques, complexes ou indifférenciées) ou de fibromyalgie.",
+ "inclusion": [
+  "Âge de 0 à 25 ans",
+  "Maladie nouvellement diagnostiquée et active, ou instable malgré le traitement",
+  "Consentement pour les analyses omiques et le partage des données",
+  "Maladie auto-inflammatoire : PGA > 2/10 et CRP élevée",
+  "Fibromyalgie : douleur diffuse depuis au moins 3 mois (critères de Wolfe 2016)"
+ ],
+ "exclusion": [
+  "Maladie inflammatoire de l'intestin ou autre affection simulant une maladie auto-inflammatoire (hémopathie, cancer, immunodéficience)"
+ ],
+ "bras": [
+  {
+   "nom": "Maladie auto-inflammatoire monogénique",
+   "traitement": "Inflammasomopathies, interféronopathies, DADA2 et autres ; analyses clinique et omique"
+  },
+  {
+   "nom": "Maladie complexe ou multifactorielle",
+   "traitement": "PFAPA, SURF, CRMO/SAPHO ou arthrite juvénile systémique"
+  },
+  {
+   "nom": "Maladie indifférenciée",
+   "traitement": "Manifestations auto-inflammatoires après exclusion des formes définies"
+  },
+  {
+   "nom": "Fibromyalgie",
+   "traitement": "Douleur diffuse depuis au moins 3 mois"
+  }
+ ],
+ "duree": "Non précisé (étude jusqu'en octobre 2025)",
+ "critere": "Évaluation de l'utilisabilité et de l'utilité du système SHE, jusqu'en octobre 2025"
+}

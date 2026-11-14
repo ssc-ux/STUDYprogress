@@ -1,0 +1,31 @@
+{
+ "h": "46e4a02c81d3",
+ "date": "2026-11-14",
+ "titre": "Échocardiographie assistée par IA pour détecter l'amylose cardiaque (ORCHESTRA)",
+ "question": "Un algorithme d'IA appliqué à l'échocardiographie permet-il de repérer des cas d'amylose cardiaque ATTR chez des patients avec hypertrophie ventriculaire et signes d'alerte ?",
+ "contexte": "L'amylose cardiaque se manifeste surtout par une insuffisance cardiaque à fraction d'éjection préservée. Elle s'accompagne de signes d'alerte cliniques (syndrome du canal carpien bilatéral, polyneuropathie, rupture du biceps), biologiques (NT-proBNP disproportionné, troponine élevée persistante), électriques (microvoltage, fibrillation atriale) et échographiques (hypertrophie concentrique, dilatation atriale, strain longitudinal avec épargne apicale).\n\nLe diagnostic précoce est déterminant car des traitements améliorant la survie existent, mais l'échographie standard identifie encore difficilement les formes débutantes. L'étude ORCHESTRA, promue par l'hôpital Germans Trias i Pujol avec AstraZeneca, évalue le logiciel Us2.ai. Les patients avec une hypertrophie ≥ 12 mm et des signes d'alerte échographiques sont analysés. Lorsque le clinicien ne suspecte pas d'amylose alors que l'IA la suspecte, le patient est assigné à poursuivre ou non les examens (scintigraphie PYP, IRM, bilan hématologique, biopsie si besoin). L'étude estime aussi la prévalence réelle de l'amylose ATTR parmi ces patients.",
+ "interet": "L'étude pourrait montrer si un outil d'IA appliqué à l'échographie de routine augmente le nombre de diagnostics d'amylose ATTR, y compris précoces.",
+ "profil": "Des adultes de 18 à 95 ans avec une hypertrophie ventriculaire gauche (≥ 12 mm) et des signes d'alerte échographiques d'amylose.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Hypertrophie ventriculaire gauche (épaisseur pariétale ≥ 12 mm)",
+  "Signes d'alerte échographiques d'amylose cardiaque",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Fenêtre acoustique insuffisante pour l'analyse",
+  "Amylose cardiaque déjà connue"
+ ],
+ "bras": [
+  {
+   "nom": "Diagnostic guidé par l'IA",
+   "traitement": "Patients dont l'IA suspecte une amylose alors que le clinicien non : poursuite des examens diagnostiques de confirmation"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Mêmes patients, sans examens complémentaires pour confirmer ou écarter l'amylose"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Nombre de patients avec une amylose cardiaque ATTR identifiés par l'échocardiographie assistée par IA, sur 1 an"
+}

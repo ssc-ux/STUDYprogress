@@ -1,0 +1,25 @@
+{
+ "h": "58311c229a6d",
+ "date": "2026-11-14",
+ "titre": "Programme d'exercice de 16 semaines à l'hôpital pour les patients atteints de myosite à inclusions",
+ "question": "Un programme d'exercice supervisé de 16 semaines est-il faisable chez des patients atteints de myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est la myopathie inflammatoire la plus fréquente après 50 ans. Elle entraîne une faiblesse progressive des quadriceps et des fléchisseurs des doigts, des troubles de la marche, des chutes et parfois une dysphagie. Contrairement aux autres myosites, elle ne répond pas aux immunosuppresseurs, et aucun traitement médicamenteux n'a démontré d'efficacité sur la progression.\n\nLa prise en charge repose donc sur la rééducation, mais l'accès à la kinésithérapie spécialisée est limité et les données sur l'exercice sont peu nombreuses. Cette étude de faisabilité, menée à l'hôpital universitaire d'Oslo, propose 16 semaines d'exercice, une séance hebdomadaire encadrée par des kinésithérapeutes expérimentés, complétée par au moins une séance à domicile. Quinze patients ont été inclus. Les auteurs évaluent le taux de réalisation du programme, la tenue des journaux d'exercice et la passation des tests, ainsi que l'expérience des patients en entretien de groupe.",
+ "interet": "Une bonne faisabilité permettrait de concevoir un essai évaluant l'effet de l'exercice sur la force, la condition physique et l'équilibre dans l'IBM, maladie sans traitement spécifique.",
+ "profil": "Des adultes atteints de myosite à inclusions, capables de marcher avec ou sans aide.",
+ "inclusion": [
+  "Diagnostic de myosite à inclusions",
+  "Capacité de marcher avec une aide technique",
+  "Âge de 18 ans ou plus"
+ ],
+ "exclusion": [
+  "Incapacité à comprendre et écrire le norvégien"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe d'exercice à l'hôpital",
+   "traitement": "Une séance hebdomadaire de groupe à l'hôpital pendant 16 semaines, avec exercice à domicile au moins une fois par semaine"
+  }
+ ],
+ "duree": "16 semaines, évaluation à 17 semaines",
+ "critere": "Faisabilité : proportion de patients inclus, ayant terminé le programme, ayant rendu leur journal d'exercice et réalisé les tests physiques, et entretien de groupe à 17 semaines."
+}

@@ -1,0 +1,35 @@
+{
+ "h": "a15d399d94ef",
+ "date": "2026-11-14",
+ "titre": "Exercice Liuzijue en piscine ou au sol dans le lupus systémique de l'enfant",
+ "question": "Un programme d'exercice Liuzijue, en piscine ou au sol, améliore-t-il la capacité cardiorespiratoire des enfants atteints de lupus ?",
+ "contexte": "Le lupus systémique débute dans l'enfance ou l'adolescence dans 10 à 20 % des cas. Sa forme pédiatrique est plus sévère que celle de l'adulte. Grâce à un diagnostic plus précoce et à de meilleurs traitements, la survie à 5-10 ans dépasse 85 %.\n\nEn conséquence, les comorbidités à long terme se sont multipliées, en particulier cardiovasculaires, qui sont devenues une cause majeure de mortalité tardive. La condition physique de ces patients est souvent altérée, et l'activité physique adaptée est une piste de prévention.\n\nLe Liuzijue est un exercice traditionnel chinois de santé, réalisé en expiration avec six sons associés à des mouvements lents des membres. Cette étude randomisée compare sa pratique en milieu aquatique, sa pratique au sol et l'absence d'exercice, en plus du traitement médical habituel. Elle est menée dans un seul centre, par l'université MTI.",
+ "interet": "Si l'exercice aquatique améliore la capacité à l'effort, il pourrait être proposé comme complément non médicamenteux de la prise en charge cardiovasculaire du lupus pédiatrique.",
+ "profil": "Des enfants et adolescents de 7 à 15 ans atteints de lupus systémique d'activité modérée ou faible.",
+ "inclusion": [
+  "Âge de 7 à 15 ans",
+  "Lupus systémique avec score SLEDAI-2K ≤ 16"
+ ],
+ "exclusion": [
+  "Atteinte neuropsychiatrique ou anomalie hématologique",
+  "Trouble du rythme ou de la conduction cardiaque",
+  "Atteinte musculo-squelettique empêchant l'exercice",
+  "Pleurésie, péricardite, endocardite ou insuffisance rénale aiguë"
+ ],
+ "bras": [
+  {
+   "nom": "Liuzijue au sol",
+   "traitement": "Environ 40 patients ; 2 séances par semaine de 60 min (45 min de Liuzijue), encadrées"
+  },
+  {
+   "nom": "Liuzijue en piscine",
+   "traitement": "Environ 40 patients ; 2 séances par semaine en piscine chauffée, immersion jusqu'entre xiphoïde et clavicules"
+  },
+  {
+   "nom": "Groupe contrôle",
+   "traitement": "Environ 40 patients ; pas d'exercice, traitement médical habituel"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation de la capacité cardiorespiratoire à l'épreuve d'effort (VO2 pic, puissance maximale, réserve chronotrope) entre l'inclusion et 12 semaines"
+}

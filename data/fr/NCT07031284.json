@@ -1,0 +1,31 @@
+{
+ "h": "f2f91ec79f81",
+ "date": "2026-11-14",
+ "titre": "Atteinte cardiaque en IRM dans l'artérite à cellules géantes récente",
+ "question": "Les patients ayant une artérite à cellules géantes récente présentent-ils des anomalies myocardiques à l'IRM cardiaque ?",
+ "contexte": "L'artérite à cellules géantes (ACG) est une vascularite systémique du sujet âgé. Les complications aortiques et vasculaires sont bien décrites. L'atteinte myocardique reste en revanche peu étudiée et souvent infraclinique.\n\nL'ACG s'accompagne d'une surmortalité toutes causes et d'un surcroît de maladies cardiovasculaires. Repérer tôt une atteinte cardiaque est donc utile pour le suivi et la stratification du risque.\n\nCette étude prospective monocentrique, menée à l'hôpital universitaire de Bonn, utilise une IRM cardiaque multiparamétrique : cartographie T1 natif et post-contraste, T2, rehaussement tardif, séquences STIR, ciné-IRM et calcul du volume extracellulaire. L'examen est fait au diagnostic puis à environ 6 mois. Les résultats sont comparés à un groupe de sujets sains issu de données historiques et corrélés aux marqueurs inflammatoires et aux données cliniques.",
+ "interet": "L'étude pourrait préciser la fréquence et l'évolution des anomalies myocardiques dans l'ACG et aider à décider de qui devrait bénéficier d'une imagerie cardiaque.",
+ "profil": "Des adultes atteints d'ACG nouvellement diagnostiquée, comparés à des témoins sains.",
+ "inclusion": [
+  "ACG diagnostiquée (critères cliniques et échographiques)",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Contre-indication à l'IRM (par exemple stimulateur cardiaque non compatible)",
+  "Implant non compatible avec l'IRM",
+  "Allergie aux produits de contraste",
+  "Insuffisance rénale sévère, grossesse, allaitement, claustrophobie"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints d'ACG",
+   "traitement": "IRM cardiaque à l'inclusion puis à environ 6 mois ; patients du service de rhumatologie"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Groupe de comparaison issu de données historiques"
+  }
+ ],
+ "duree": "Environ 6 mois",
+ "critere": "Différences de cartographie myocardique en IRM entre patients ACG et témoins, à l'inclusion (en moyenne 31 jours après les premiers symptômes)"
+}

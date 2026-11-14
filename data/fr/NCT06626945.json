@@ -1,0 +1,26 @@
+{
+ "h": "07f0523da21e",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab dans le lupus en vie réelle en Espagne (AZAHAR)",
+ "question": "Quelle est l'activité du lupus et la fréquence de la rémission chez des patients espagnols ayant débuté l'anifrolumab la première année de sa commercialisation ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune multisystémique évoluant par poussées, dont le traitement repose sur l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et le belimumab. Les corticoïdes restent largement utilisés et contribuent aux lésions d'organes cumulées. Un objectif thérapeutique actuel est l'état de faible activité du lupus (LLDAS) ou la rémission, avec sevrage des corticoïdes.\n\nL'anifrolumab est un anticorps monoclonal dirigé contre le récepteur de l'interféron de type I. Dans les essais, il a réduit l'activité de la maladie et la consommation de corticoïdes chez des patients avec LES modéré à sévère. Il est commercialisé en Espagne depuis le 1er juin 2023. Cette étude rétrospective, promue par AstraZeneca, est une revue de dossiers sur 152 patients dans 13 centres. Elle décrit l'activité de la maladie, les poussées, les corticoïdes, la persistance du traitement, l'usage des soins et les lésions d'organes jusqu'à 18 mois.",
+ "interet": "Ces données de vie réelle précisent les caractéristiques des patients traités et leurs évolutions dans la pratique courante, sans groupe comparateur.",
+ "profil": "Des adultes atteints de lupus ayant débuté l'anifrolumab entre juin 2023 et mai 2024 en Espagne.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Âge de 18 ans ou plus",
+  "Début d'anifrolumab entre le 1er juin 2023 et le 31 mai 2024",
+  "Au moins 12 mois d'antécédents médicaux avant l'anifrolumab"
+ ],
+ "exclusion": [
+  "Exposition antérieure ou en cours à l'anifrolumab dans un essai ou un programme d'accès précoce"
+ ],
+ "bras": [
+  {
+   "nom": "Patients traités par anifrolumab",
+   "traitement": "Cohorte rétrospective : données des 12 mois précédents et jusqu'à 18 mois après le début d'anifrolumab"
+  }
+ ],
+ "duree": "12 mois avant et jusqu'à 18 mois après le début de l'anifrolumab (revue de dossiers)",
+ "critere": "Activité du lupus (SLEDAI-2K, évaluation globale du médecin), proportion de patients en faible activité (LLDAS) ou en rémission clinique, à l'initiation puis tous les 6 mois jusqu'à 18 mois."
+}

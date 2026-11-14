@@ -1,0 +1,30 @@
+{
+ "h": "67cfd7da40e8",
+ "date": "2026-11-14",
+ "titre": "Traitements de deuxième ligne du PTI primaire : étude en vie réelle aux États-Unis",
+ "question": "Comment les adultes atteints de PTI primaire sont-ils traités en deuxième ligne aux États-Unis, et avec quels résultats ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune caractérisée par une thrombopénie et un risque hémorragique. Les corticoïdes sont le traitement de première ligne. En cas d'échec ou de rechute, plusieurs options existent : agonistes du récepteur de la thrombopoïétine, rituximab, immunosuppresseurs, splénectomie et, plus récemment, des inhibiteurs de Syk ou du récepteur Fc néonatal.\n\nLes pratiques réelles de deuxième ligne, leur durée et leur efficacité restent mal décrites. Ces données aident à situer les besoins non couverts.\n\nCette étude de cohorte rétrospective, promue par Novartis, exploite les dossiers médicaux électroniques et les bases de remboursement aux États-Unis. Elle concerne 3 714 adultes atteints de PTI primaire, déjà traités par corticoïdes puis par un traitement de deuxième ligne. Elle décrit les schémas de traitement, l'efficacité des traitements standards et leur utilisation.",
+ "interet": "Elle décrit les pratiques de deuxième ligne du PTI et leurs résultats en conditions réelles, sans modifier la prise en charge.",
+ "profil": "Des adultes américains atteints de PTI primaire, traités par corticoïdes puis par un traitement de deuxième ligne.",
+ "inclusion": [
+  "Diagnostic de PTI primaire pendant la période d'identification",
+  "Traitement de deuxième ligne autorisé après le diagnostic",
+  "Traitement de première ligne autorisé avant la date index",
+  "Âge ≥ 18 ans à la date index"
+ ],
+ "exclusion": [
+  "Moins de 12 mois d'inscription ou d'activité continue avant la date index",
+  "Moins d'une hospitalisation ou de deux consultations pendant la période de référence",
+  "Deuxième ligne ou splénectomie avant la date index",
+  "Syndrome d'Evans, lupus, SLPA, VIH, VHC, H. pylori, syndrome de Sjögren ou des antiphospholipides, ou hémopathie B active",
+  "Fin d'inscription ou décès avant la date index"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte PTI",
+   "traitement": "Adultes atteints de PTI primaire, après corticoïdes, sous traitement de deuxième ligne en pratique courante"
+  }
+ ],
+ "duree": "Données observées sur environ 8 ans",
+ "critere": "Nombre et pourcentage de patients ayant reçu les traitements de deuxième ligne étudiés, sur environ 8 ans"
+}

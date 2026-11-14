@@ -1,0 +1,33 @@
+{
+ "h": "6c7dd01fdf0a",
+ "date": "2026-11-14",
+ "titre": "Léniolisib dans la dysrégulation immunitaire des déficits immunitaires primitifs liés à PI3K",
+ "question": "Le léniolisib est-il sûr et tolérable, et montre-t-il des signes d'efficacité, chez des patients ayant un déficit immunitaire primitif avec dysrégulation immunitaire ?",
+ "contexte": "Certains déficits immunitaires primitifs (DIP) associent infections et dysrégulation immunitaire : cytopénies auto-immunes, splénomégalie, adénopathies, atteinte pulmonaire interstitielle (GLILD). Ils sont liés à des variants de gènes comme SOCS1, PTEN, CTLA4, NFKB1, FAS, ou à des variants somatiques de NRAS ou KRAS. Le traitement repose aujourd'hui sur des immunosuppresseurs non spécifiques (corticoïdes, sirolimus, rituximab, abatacept), avec une efficacité variable et une toxicité cumulée.\n\nPlusieurs de ces anomalies convergent vers une hyperactivation de la voie PI3Kδ. Le léniolisib, inhibiteur sélectif de PI3Kδ, est déjà approuvé dans le syndrome APDS (PI3Kδ activé). Cette étude de phase 2, ouverte et non randomisée, explore l'extension de cette approche à d'autres DIP. Elle est promue par Pharming et menée aux National Institutes of Health. Chaque patient reçoit trois paliers de dose successifs, pour évaluer la tolérance, la pharmacocinétique et des mesures cliniques exploratoires.",
+ "interet": "Ces données exploratoires pourraient justifier un essai plus large du léniolisib dans plusieurs DIP avec dysrégulation immunitaire, où les options ciblées manquent.",
+ "profil": "Des patients de 12 à 75 ans ayant un déficit immunitaire primitif génétiquement défini avec dysrégulation immunitaire.",
+ "inclusion": [
+  "Âge de 12 à 75 ans",
+  "Variant pathogène de SOCS1, PTEN, CTLA4, NFKB1 (activant), FAS, ou maladie leucoprolifératrice liée à NRAS/KRAS",
+  "Au moins une manifestation : cytopénie, splénomégalie, adénopathies ou GLILD/PID-ILD quantifiable",
+  "Constantes vitales dans les limites fixées",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Greffe de cellules souches hématopoïétiques réussie",
+  "Immunosuppresseurs récents (inhibiteur mTOR ou PI3Kδ, rituximab, ciclosporine, JAK, etc.) selon des délais précis",
+  "Corticoïdes au-delà de 25 mg/j de prednisone",
+  "Inhibiteurs forts ou inducteurs du CYP3A",
+  "Hépatite B ou C, VIH, tuberculose, infection chronique non contrôlée",
+  "Lymphome ou cancer récent",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Léniolisib",
+   "traitement": "Escalade intra-patient : 10 mg 2 fois/j pendant 4 semaines, puis 30 mg 2 fois/j pendant 4 semaines, puis 70 mg 2 fois/j pendant 12 semaines"
+  }
+ ],
+ "duree": "20 semaines de traitement, plus visite de fin d'étude à 28 jours",
+ "critere": "Nombre de participants avec événements indésirables, événements indésirables liés au traitement et événements graves, sur les 20 semaines de traitement."
+}

@@ -1,0 +1,28 @@
+{
+ "h": "ad7482b73996",
+ "date": "2026-11-14",
+ "titre": "ECG assisté par intelligence artificielle pour détecter l'amylose cardiaque",
+ "question": "Alerter les cliniciens à l'aide d'un ECG analysé par intelligence artificielle permet-il un diagnostic plus précoce d'amylose cardiaque ?",
+ "contexte": "L'amylose cardiaque est sous-diagnostiquée et souvent identifiée tardivement, alors que des traitements efficaces existent maintenant dans l'ATTR et l'AL. L'ECG, examen universel, présente des anomalies non spécifiques (bas voltages, pseudo-nécroses) qui échappent souvent au clinicien.\n\nLa Mayo Clinic a développé un algorithme d'intelligence artificielle appliqué à l'ECG pour estimer la probabilité d'amylose cardiaque. Cet essai pragmatique est le premier à évaluer prospectivement en pratique courante un tableau de bord d'ECG-IA avec rapport enrichi.\n\nLes participants sont les cliniciens (cardiologues et hématologues de la Mayo Clinic), randomisés entre une alerte en cas de score positif, accompagnée d'un jeu de prescriptions standardisé, d'un algorithme diagnostique et de rappels, et la pratique habituelle. Aucun contact avec les patients n'a lieu : leurs données sont recueillies avec dérogation.",
+ "interet": "Il pourrait montrer si une aide à la décision basée sur l'IA accélère effectivement le diagnostic en pratique, au-delà de la performance de l'algorithme.",
+ "profil": "Des cardiologues et hématologues de la Mayo Clinic prenant en charge des adultes ; l'effectif analysé est de 20 143 patients.",
+ "inclusion": [
+  "Cardiologues ou hématologues de la Mayo Clinic suivant des adultes",
+  "Consentement du clinicien à participer"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Notification ECG-IA",
+   "traitement": "Rapport avec alerte en cas de score amylose positif, jeu de prescriptions standardisé, algorithme diagnostique et rappels"
+  },
+  {
+   "nom": "Soins habituels",
+   "traitement": "Aucune alerte ni outil d'aide"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Diagnostic plus précoce d'amylose cardiaque grâce à l'algorithme d'ECG-IA et aux outils associés, sur 1 an."
+}

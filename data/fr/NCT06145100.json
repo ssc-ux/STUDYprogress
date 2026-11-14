@@ -1,0 +1,33 @@
+{
+ "h": "783533561b7a",
+ "date": "2026-11-14",
+ "titre": "Prédire l'hypertension portale du DICV (CVID-pHT)",
+ "question": "Les mesures échographiques de rigidité du foie et de la rate permettent-elles de prédire l'hypertension portale non cirrhotique dans le déficit immunitaire commun variable (DICV) ?",
+ "contexte": "Le déficit immunitaire commun variable est le déficit immunitaire primitif symptomatique le plus fréquent de l'adulte. Outre les infections, il expose à des complications auto-immunes et lymphoprolifératives, dont une atteinte hépatique pouvant évoluer vers une hypertension portale non cirrhotique (hyperplasie nodulaire régénérative, maladie porto-sinusoïdale).\n\nCette complication est mal dépistée : les transaminases sont souvent normales, la biopsie est invasive et les mesures invasives de gradient de pression sont rarement faites. L'élastographie du foie et de la rate pourrait détecter précocement les patients à risque de varices ou d'ascite.\n\nCette étude observationnelle du Centre des déficits immunitaires chroniques de Fribourg (Allemagne) inclut 250 patients en trois groupes : DICV avec auto-immunité sans atteinte hépatique, atteinte hépatique sans hypertension portale significative, hypertension portale non cirrhotique. Les patients bénéficient d'une échographie standard et d'une élastographie lors de la consultation annuelle, avec suivi d'au moins 12 mois et biobanque.",
+ "interet": "Elle pourrait fournir un outil non invasif de dépistage de l'hypertension portale chez les patients DICV, afin d'orienter l'endoscopie et la surveillance.",
+ "profil": "Des adultes avec un DICV, avec ou sans atteinte hépatique.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "DICV"
+ ],
+ "exclusion": [
+  "Absence de consentement écrit",
+  "Autre hépatopathie chronique associée : hépatite virale, alcoolique, stéatosique, hémochromatose, cholangite biliaire ou sclérosante primitive, maladie de Wilson, déficit en alpha-1-antitrypsine"
+ ],
+ "bras": [
+  {
+   "nom": "DICV avec auto-immunité sans atteinte hépatique",
+   "traitement": "Échographie et doppler hépatiques, élastographie du foie et de la rate"
+  },
+  {
+   "nom": "DICV avec atteinte hépatique sans hypertension portale significative",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "DICV avec hypertension portale non cirrhotique significative",
+   "traitement": "Mêmes examens (ascite, varices ou gastropathie d'hypertension portale)"
+  }
+ ],
+ "duree": "Au moins 12 mois",
+ "critere": "Différences de rigidité du foie et de la rate entre patients sans atteinte hépatique, avec atteinte hépatique et avec hypertension portale significative, à l'inclusion et à 12 mois."
+}

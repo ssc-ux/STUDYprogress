@@ -1,0 +1,35 @@
+{
+ "h": "7fd116382cc8",
+ "date": "2026-11-14",
+ "titre": "Fonction respiratoire, activité physique et fatigue dans le lupus systémique",
+ "question": "Les patients lupiques ont-ils une fonction respiratoire, une capacité fonctionnelle et une activité physique inférieures à celles de sujets sains ?",
+ "contexte": "Le lupus systémique peut atteindre tous les organes, dont le poumon. Environ la moitié des patients présentent une atteinte pulmonaire au cours de la maladie : pleurésie, hémorragie alvéolaire diffuse, syndrome du poumon rétracté, pneumopathie interstitielle ou hypertension pulmonaire. La prévalence exacte reste mal connue.\n\nLes auteurs n'ont pas trouvé d'étude analysant en détail la fonction respiratoire des patients lupiques et son lien avec la capacité fonctionnelle, l'activité physique et la fatigue. Repérer plus tôt une atteinte respiratoire pourrait limiter l'accumulation de dommages.\n\nCette étude cas-témoins monocentrique, menée en Turquie, compare des adultes lupiques de 18 à 65 ans à des témoins sains appariés sur l'âge et le sexe. Elle utilise des EFR, le test de marche de 6 minutes, le questionnaire GPAQ d'activité physique et l'échelle de sévérité de la fatigue. Elle explore ensuite les corrélations chez les patients.",
+ "interet": "Elle pourrait justifier un dépistage respiratoire plus systématique et une réadaptation à l'effort chez les patients lupiques, y compris sans atteinte pulmonaire connue.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique, non fumeurs, comparés à des témoins sains.",
+ "inclusion": [
+  "Lupus suivi depuis au moins 1 an (critères ACR)",
+  "Âge de 18 à 65 ans",
+  "Marche autonome",
+  "Absence de trouble cognitif ou mental",
+  "Participation volontaire"
+ ],
+ "exclusion": [
+  "Maladie musculo-squelettique majeure des membres inférieurs",
+  "Maladie cardiovasculaire sévère",
+  "Grossesse",
+  "Tabagisme",
+  "Pneumopathie restrictive ou interstitielle liée à la maladie"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Adultes de 18 à 65 ans, évalués une fois (EFR, marche de 6 minutes, activité physique, fatigue)"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Participants appariés sur l'âge et le sexe, mêmes évaluations"
+  }
+ ],
+ "duree": "Une seule évaluation",
+ "critere": "Paramètres des EFR (CVF, VEMS, rapport VEMS/CVF, débit expiratoire de pointe), capacité fonctionnelle et niveau d'activité physique, à l'inclusion"
+}

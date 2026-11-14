@@ -1,0 +1,31 @@
+{
+ "h": "d12c59cc410c",
+ "date": "2026-11-14",
+ "titre": "TRAMmoniTTR : dépistage génétique de l'amylose héréditaire à transthyrétine dans une population à risque",
+ "question": "Quelle est la prévalence des variants pathogènes de la transthyrétine dans une population à risque d'amylose héréditaire (hATTR), et comment évoluent cliniquement les porteurs ?",
+ "contexte": "L'amylose héréditaire à transthyrétine est une maladie autosomique dominante lentement progressive, due à des variants du gène TTR qui déstabilisent la protéine et entraînent des dépôts amyloïdes dans les nerfs, le cœur, le tube digestif, les reins et l'œil. Elle se manifeste par une polyneuropathie, une cardiomyopathie ou les deux, et reste souvent diagnostiquée avec retard, car les signes sont peu spécifiques.\n\nDes traitements efficaces existent (silencieurs de la transthyrétine comme le patisiran, stabilisateurs comme le tafamidis), ce qui renforce l'intérêt d'un diagnostic précoce. Cette étude épidémiologique multicentrique, promue par Centogene avec Alnylam, a proposé un test génétique TTR à environ 5 000 adultes présentant au moins deux signes d'alerte : neuropathie ou cardiomyopathie inexpliquée, syndrome du canal carpien bilatéral, canal lombaire étroit, atteinte autonome, opacités vitréennes, perte de poids, antécédents familiaux. Elle inclut aussi des patients hATTR connus et des apparentés au premier ou deuxième degré de porteurs. Les porteurs sont suivis et des biomarqueurs sont recherchés. L'étude est terminée.",
+ "interet": "Elle estime la prévalence réelle de la hATTR parmi les patients à signes d'alerte et peut améliorer les critères de dépistage. Elle ne teste pas de traitement.",
+ "profil": "Des adultes à risque d'hATTR (au moins deux signes d'alerte), des patients hATTR diagnostiqués et des apparentés de porteurs.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, consentement obtenu",
+  "Sans alcoolisme ni chimiothérapie pour un cancer",
+  "Au moins deux facteurs de risque d'hATTR (cardiomyopathie ou neuropathie inexpliquée, canal carpien bilatéral, canal lombaire étroit, atteinte autonome, HVG, etc.)",
+  "Ou hATTR diagnostiquée",
+  "Ou apparenté du premier ou deuxième degré d'un sujet TTR positif"
+ ],
+ "exclusion": [
+  "Absence de consentement",
+  "Âge inférieur à 18 ans",
+  "Alcoolisme selon les recommandations internationales",
+  "Chimiothérapie antérieure pour un cancer",
+  "Absence de risque d'hATTR"
+ ],
+ "bras": [
+  {
+   "nom": "Sujets à risque et patients hATTR",
+   "traitement": "Test génétique TTR chez les sujets à risque, suivi clinique des porteurs, sans traitement imposé"
+  }
+ ],
+ "duree": "4 ans",
+ "critere": "Prévalence des mutations hATTR dans la cohorte à risque et suivi de l'état clinique des sujets TTR positifs, sur 4 ans"
+}

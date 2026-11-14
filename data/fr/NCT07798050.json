@@ -1,0 +1,36 @@
+{
+ "h": "8a387c13b3b8",
+ "date": "2026-11-14",
+ "titre": "Régime méditerranéen sélectif en complément du traitement du PTI primaire : essai randomisé",
+ "question": "Un régime méditerranéen sélectif, ajouté au traitement habituel, augmente-t-il le taux de plaquettes et réduit-il les saignements chez des adultes ayant un PTI primaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où les plaquettes sont détruites par des auto-anticorps et leur production est altérée. Le traitement repose sur les corticoïdes, les immunoglobulines et, en seconde ligne, les agonistes du récepteur de la thrombopoïétine, le rituximab ou d'autres immunosuppresseurs, avec des effets indésirables et une efficacité variable.\n\nDes données émergentes suggèrent que l'alimentation, notamment le régime méditerranéen, modulerait la régulation immunitaire, l'inflammation systémique et le microbiote intestinal, ce qui pourrait influencer des maladies auto-immunes. Aucune donnée solide n'existe dans le PTI. Cet essai randomisé de l'université d'Assiut (Égypte) inclut 60 adultes de 18 à 60 ans ayant un PTI avec moins de 100 G/L de plaquettes. Ils reçoivent soit un régime méditerranéen sélectif en plus de leur traitement habituel, soit le traitement habituel seul, sans insu, pendant 12 semaines.",
+ "interet": "Si un bénéfice est observé, une mesure diététique simple pourrait compléter la prise en charge du PTI. L'essai est de petite taille et ouvert, les résultats resteront donc à confirmer.",
+ "profil": "Des adultes de 18 à 60 ans ayant un PTI primaire avec moins de 100 G/L de plaquettes sous traitement habituel.",
+ "inclusion": [
+  "Âge de 18 à 60 ans",
+  "PTI primaire selon les critères de l'ASH",
+  "Plaquettes < 100 G/L à l'inclusion",
+  "Accepte le régime et le calendrier de suivi"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire",
+  "Grossesse ou allaitement",
+  "Diabète non contrôlé, insuffisance rénale chronique ou insuffisance hépatique",
+  "Régime strict pour une autre maladie, chirurgie bariatrique ou malabsorption",
+  "Allergie aux composants du régime méditerranéen",
+  "Chimiothérapie ou splénectomie dans les 3 mois",
+  "Prednisone ≥ 20 mg/jour ou changement de dose récent"
+ ],
+ "bras": [
+  {
+   "nom": "Régime méditerranéen + traitement habituel",
+   "traitement": "Régime méditerranéen sélectif ajouté au traitement pharmacologique habituel du PTI"
+  },
+  {
+   "nom": "Traitement habituel seul",
+   "traitement": "Traitement pharmacologique habituel du PTI, sans intervention diététique"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation du taux de plaquettes et du score de gravité des saignements entre l'inclusion et 12 semaines"
+}

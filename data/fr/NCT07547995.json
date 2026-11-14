@@ -1,0 +1,37 @@
+{
+ "h": "1eb077791ace",
+ "date": "2026-11-14",
+ "titre": "GenSci048 contre placebo dans l'uvéite non infectieuse active",
+ "question": "Le GenSci048 en injection sous-cutanée est-il efficace et sûr, contre placebo, chez des adultes ayant une uvéite non infectieuse intermédiaire, postérieure ou panuvéite active ?",
+ "contexte": "Les uvéites non infectieuses intermédiaires, postérieures et les panuvéites sont des inflammations oculaires menaçant la vision, souvent associées à une maladie systémique (sarcoïdose, maladie de Behçet, spondyloarthrite...) ou idiopathiques. Le traitement repose sur les corticoïdes, avec un risque d'effets indésirables à long terme, puis sur des immunosuppresseurs conventionnels et des biothérapies, dont l'adalimumab, seul anti-TNF approuvé dans cette indication.\n\nUne partie des patients reste en activité sous corticoïdes ou ne tolère pas ces traitements, d'où le besoin de nouvelles options épargnant la corticothérapie. Le GenSci048 est un produit expérimental de Changchun GeneScience Pharmaceutical, administré par voie sous-cutanée ; sa cible n'est pas précisée dans le registre. Cet essai de phase II randomisé en quadruple aveugle, mené en Chine, inclut 74 adultes dont l'uvéite reste active malgré une prednisone orale stable. Il compare GenSci048 à un placebo administré toutes les 4 semaines, sur 25 semaines.",
+ "interet": "Un nouveau traitement sous-cutané pourrait élargir l'arsenal contre l'uvéite non infectieuse active malgré les corticoïdes ; la phase II ne permet pas encore de conclure.",
+ "profil": "Des adultes ayant une uvéite non infectieuse intermédiaire, postérieure ou panuvéite évoluant depuis plus d'un an et active sous prednisone.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Uvéite non infectieuse intermédiaire, postérieure ou panuvéite, diagnostiquée depuis plus d'un an",
+  "Maladie active à l'inclusion sous prednisone orale à dose stable depuis au moins 2 semaines",
+  "Bonne réponse antérieure aux corticoïdes oraux (jusqu'à 1 mg/kg/j)",
+  "Contraception très efficace pendant l'étude et 24 semaines après la dernière dose",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Uvéite antérieure isolée",
+  "DMLA néovasculaire, rétinopathie diabétique proliférante ou sévère, œdème maculaire diabétique significatif",
+  "Maladie inflammatoire systémique nécessitant des corticoïdes oraux ou des immunosuppresseurs interdits",
+  "Tuberculose active",
+  "Comorbidité significative (hypertension non contrôlée, insuffisance cardiaque stade D, diabète non contrôlé)",
+  "Anti-TNF ou autre biothérapie dans les 12 semaines précédentes"
+ ],
+ "bras": [
+  {
+   "nom": "GenSci048",
+   "traitement": "GenSci048 à forte dose par voie sous-cutanée selon le protocole"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo sous-cutané toutes les 4 semaines"
+  }
+ ],
+ "duree": "25 semaines",
+ "critere": "Efficacité du GenSci048 en injection sous-cutanée à 25 semaines (mesure précise non détaillée dans le registre)"
+}

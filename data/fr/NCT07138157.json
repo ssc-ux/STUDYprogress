@@ -1,0 +1,35 @@
+{
+ "h": "a0bdb6563be4",
+ "date": "2026-11-14",
+ "titre": "Exercice à focalisation interne ou externe chez des enfants atteints de maladies rhumatismales",
+ "question": "Un exercice guidé par des consignes à focalisation externe améliore-t-il davantage la condition physique et la fatigue qu'un guidage à focalisation interne ?",
+ "contexte": "Les enfants atteints d'arthrite juvénile idiopathique (AJI), de dermatomyosite juvénile (DMJ) ou de fièvre méditerranéenne familiale (FMF) ont souvent une moindre condition physique, de la fatigue et des douleurs. L'exercice régulier est recommandé, mais ses modalités optimales sont mal définies.\n\nEn apprentissage moteur, la focalisation externe oriente l'attention vers l'effet du mouvement, par exemple « assieds-toi comme sur une chaise jusqu'à ne plus voir le repère ». La focalisation interne oriente vers la partie du corps qui bouge, par exemple « plie les genoux sans arrondir le dos ». La première est souvent plus efficace chez l'adulte sain.\n\nCet essai randomisé monocentrique, mené par l'université d'Istanbul-Cerrahpaşa, compare deux programmes identiques de 8 semaines qui ne diffèrent que par ces consignes. Il comprend 2 séances par semaine en visioconférence avec un kinésithérapeute et une séance à domicile avec la famille. Le test FitnessGram, la fatigue, la douleur, la marche de 6 minutes et le lever de chaise sont évalués avant et après.",
+ "interet": "Un simple changement de consignes pourrait optimiser les programmes d'exercice à distance des enfants atteints de maladies rhumatismales, sans coût supplémentaire.",
+ "profil": "Des enfants et adolescents de 6 à 18 ans atteints d'AJI, de DMJ ou de FMF.",
+ "inclusion": [
+  "DMJ selon Bohan et Peter, AJI selon l'ILAR, ou FMF diagnostiquée depuis ≥ 6 mois",
+  "Âge de 6 à 18 ans",
+  "Absence de déficit visuel ou auditif",
+  "Niveau mental compatible avec le programme",
+  "Connexion internet disponible"
+ ],
+ "exclusion": [
+  "Autre maladie systémique chronique",
+  "Maladie musculo-squelettique, orthopédique, neurologique ou psychologique gênant l'exercice",
+  "Amylose",
+  "Chirurgie musculo-squelettique dans les 6 derniers mois",
+  "Déficit visuel ou auditif, absence de connexion internet"
+ ],
+ "bras": [
+  {
+   "nom": "Focalisation externe",
+   "traitement": "8 semaines, 3 séances par semaine (2 en visioconférence, 1 à domicile) ; consignes centrées sur l'effet du mouvement"
+  },
+  {
+   "nom": "Focalisation interne",
+   "traitement": "Même programme ; consignes centrées sur la partie du corps qui bouge"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Variation de la condition physique, de la fatigue et de la douleur après 8 semaines"
+}

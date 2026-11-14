@@ -1,0 +1,35 @@
+{
+ "h": "57fb168848de",
+ "date": "2026-11-14",
+ "titre": "Alimentation, composition corporelle et fonction musculaire dans la myosite à inclusions",
+ "question": "L'alimentation, en particulier l'apport en protéines, est-elle associée à la masse musculaire et à la capacité fonctionnelle des personnes atteintes de myosite à inclusions ?",
+ "contexte": "La myosite à inclusions (IBM) est une myopathie inflammatoire et dégénérative de l'adulte de plus de 40 ans, qui provoque une faiblesse progressive des quadriceps, des fléchisseurs des doigts et une dysphagie. Aucun traitement immunosuppresseur n'a démontré de bénéfice durable, et la prise en charge repose sur la rééducation et le soutien.\n\nLes facteurs modifiables de la perte musculaire, dont l'alimentation et l'apport protéique, restent mal étudiés dans cette maladie. Cette étude observationnelle cas-témoins, menée à Manchester avec Myositis UK et le Northern Care Alliance, compare 32 adultes atteints d'IBM à 15 volontaires sains de 40 ans et plus appariés selon l'âge et l'activité physique. Elle comprend quatre semaines de suivi à domicile (journal alimentaire, activité physique, questionnaires) et une visite d'évaluation de la composition corporelle (DXA), du métabolisme, de l'IRM musculaire et de la force. Elle distingue ce qui relève du vieillissement normal de ce qui est propre à l'IBM.",
+ "interet": "Les résultats pourraient dire si l'alimentation est un levier de prise en charge de l'IBM et orienter de futurs essais d'intervention nutritionnelle.",
+ "profil": "Des adultes de 40 ans et plus atteints de myosite à inclusions, comparés à des volontaires sains appariés.",
+ "inclusion": [
+  "IBM définie ou probable selon les critères ENMC 2013, âge ≥ 40 ans",
+  "Capacité à consentir, à marcher quelques mètres (aide technique possible) et à manger des aliments solides ou de texture modifiée",
+  "Témoins : adultes ≥ 40 ans en bonne santé, sans myopathie ni maladie métabolique, appariés selon l'âge et l'activité physique",
+  "Volonté de se rendre aux visites et de suivre les procédures"
+ ],
+ "exclusion": [
+  "Autre maladie neuromusculaire ou métabolique confondante",
+  "Dysphagie sévère avec alimentation entérale ou parentérale exclusive",
+  "Essai interventionnel dans les 3 mois précédents",
+  "Contre-indication aux examens (ostéoporose sévère pour la DXA, claustrophobie, troubles cognitifs sévères)",
+  "Anglais écrit ou parlé insuffisant",
+  "Témoins : vivant dans le même foyer qu'un patient IBM"
+ ],
+ "bras": [
+  {
+   "nom": "IBM",
+   "traitement": "Personnes atteintes de myosite à inclusions : suivi alimentaire et d'activité à domicile, DXA, IRM, calorimétrie, dynamométrie"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Adultes sains appariés selon l'âge, le sexe et l'activité physique, mêmes évaluations"
+  }
+ ],
+ "duree": "4 semaines de suivi à domicile et deux visites",
+ "critere": "Apport quotidien habituel en protéines, masse maigre appendiculaire, force de préhension, couples maximaux d'extension et de flexion du genou, scores fonctionnels sIFA et NEADL, surface fonctionnelle et volume musculaires, à l'inclusion"
+}

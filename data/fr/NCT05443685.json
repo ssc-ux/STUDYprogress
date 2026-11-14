@@ -1,0 +1,37 @@
+{
+ "h": "1a5b00bb017b",
+ "date": "2026-11-14",
+ "titre": "ADX-629 dans le syndrome de Sjögren-Larsson",
+ "question": "L'ADX-629, piégeur d'aldéhydes oral, est-il sûr et corrige-t-il les anomalies biochimiques du syndrome de Sjögren-Larsson ?",
+ "contexte": "Le syndrome de Sjögren-Larsson est une maladie génétique rare, à transmission autosomique récessive, causée par des mutations d'ALDH3A2. Le déficit en aldéhyde déshydrogénase des acides gras entraîne l'accumulation d'aldéhydes et d'alcools gras de 16 à 20 carbones dans la peau, le cerveau et l'œil. Elle associe ichtyose congénitale, diplégie spastique, déficience intellectuelle, épilepsie et rétinopathie.\n\nIl n'existe pas de traitement ciblant la cause. L'ADX-629 est un piégeur oral d'aldéhydes, censé éliminer les aldéhydes gras toxiques et en corriger les conséquences biochimiques et cliniques.\n\nCette phase 1/2 ouverte, monocentrique (University of Nebraska), inclut 8 patients de 5 à 50 ans avec mutations confirmées. Ils reçoivent l'ADX-629 par voie orale pendant 12 semaines. La sécurité est le critère principal, l'effet biochimique est secondaire, et l'effet clinique cutané, neurologique et ophtalmologique est exploratoire.",
+ "interet": "Première évaluation d'un traitement physiopathologique oral dans une maladie sans option ciblée ; l'effectif très réduit limite la portée.",
+ "profil": "Des enfants et adultes de 5 à 50 ans avec un syndrome de Sjögren-Larsson génétiquement confirmé.",
+ "inclusion": [
+  "Âge de 5 à 50 ans",
+  "Deux variants pathogènes d'ALDH3A2",
+  "Ichtyose active et spasticité",
+  "Capable d'avaler les comprimés",
+  "Suspension des crèmes topiques 7 jours avant les évaluations",
+  "Pas de médicament expérimental depuis 1 mois",
+  "Contraception adaptée si activité sexuelle"
+ ],
+ "exclusion": [
+  "Cancer dans les 5 ans (sauf carcinome cutané in situ traité)",
+  "VIH ou autre immunodéficience",
+  "Infection systémique ou cutanée active, dont COVID-19",
+  "Anomalie cardiaque significative ou QTcF > 440 ms ou < 340 ms",
+  "Atteinte hépatique modérée à sévère (Child-Pugh B ou C), maladie digestive gênant l'absorption",
+  "Atteinte rénale ou DFGe < 60 mL/min/1,73 m²",
+  "Traitement immunosuppresseur non interruptible",
+  "Toxine botulique dans les 6 mois",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "ADX-629",
+   "traitement": "ADX-629 par voie orale, comprimés de 250 mg, pendant 12 semaines, en ouvert"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Événements indésirables liés au traitement (CTCAE v4.0) chaque semaine, anomalies biologiques de sécurité chaque mois, observance et tolérance sur 12 semaines."
+}

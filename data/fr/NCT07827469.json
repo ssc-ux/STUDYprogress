@@ -1,0 +1,36 @@
+{
+ "h": "4a0dc519055a",
+ "date": "2026-11-14",
+ "titre": "Tofacitinib associé aux corticoïdes dans la maladie liée aux IgG4",
+ "question": "L'ajout du tofacitinib aux corticoïdes améliore-t-il la rémission de la maladie liée aux IgG4 à 24 semaines ?",
+ "contexte": "La maladie liée aux IgG4 est une maladie fibro-inflammatoire immuno-médiée qui peut atteindre le pancréas, les glandes salivaires et lacrymales, les voies biliaires, le rétropéritoine et d'autres organes. Les corticoïdes sont le traitement de première intention et obtiennent des réponses élevées. Les rechutes à la décroissance sont toutefois fréquentes, et les effets des corticoïdes au long cours sont lourds.\n\nLe tofacitinib est un inhibiteur de JAK qui bloque la signalisation de plusieurs cytokines impliquées dans l'activation lymphocytaire et la fibrose. Son intérêt est suggéré dans plusieurs maladies immuno-médiées, mais il n'a pas été comparé de façon randomisée dans la maladie liée aux IgG4.\n\nCet essai randomisé ouvert monocentrique de l'hôpital People's de l'université de Pékin inclut 58 patients actifs. Ils reçoivent de la prednisone à 0,6 mg/kg/j, au maximum 60 mg/j, décroissante de 5 mg toutes les 2 semaines jusqu'à 5 mg/j, avec ou sans tofacitinib 5 mg deux fois par jour.",
+ "interet": "Un taux de rémission plus élevé, avec une épargne cortisonique, soutiendrait l'ajout du tofacitinib au traitement de première ligne de la maladie liée aux IgG4.",
+ "profil": "Des adultes de 18 à 70 ans atteints de maladie liée aux IgG4 active, nouvelle ou en rechute.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Critères ACR/EULAR 2019 de la maladie liée aux IgG4",
+  "Maladie active, initiale ou en rechute (IgG4-RD RI ≥ 3)",
+  "Consentement écrit et suivi prévu",
+  "Contraception efficace chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Participation à un autre essai dans les 2 mois",
+  "Vaccin vivant dans les 2 semaines ou nécessaire pendant l'essai",
+  "Autre maladie auto-immune associée",
+  "Infection active ; tuberculose latente ou hépatite B à traiter au préalable",
+  "Grossesse, allaitement ou désir de grossesse jusqu'à 6 mois après la dernière dose",
+  "Antécédent de thromboembolie, coronaropathie, maladie sévère d'organe, cancer ou trouble psychiatrique"
+ ],
+ "bras": [
+  {
+   "nom": "Corticoïdes + tofacitinib",
+   "traitement": "Prednisone 0,6 mg/kg/j (max 60 mg/j), diminuée de 5 mg toutes les 2 semaines jusqu'à 5 mg/j ; tofacitinib 5 mg 2 fois par jour"
+  },
+  {
+   "nom": "Corticoïdes seuls",
+   "traitement": "Même schéma de prednisone, sans tofacitinib"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Taux de rémission de la maladie liée aux IgG4 à 24 semaines"
+}

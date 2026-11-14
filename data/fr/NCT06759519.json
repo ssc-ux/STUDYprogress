@@ -1,0 +1,31 @@
+{
+ "h": "7544c3445322",
+ "date": "2026-11-14",
+ "titre": "Caractéristiques cliniques des patients atteints de lupus actif modéré à sévère en Russie (SEVERUS)",
+ "question": "Quelles sont les caractéristiques cliniques et démographiques et l'activité de la maladie chez les patients russes atteints de lupus actif modéré à sévère ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie auto-immune à manifestations variables et évolution par poussées et rémissions. En Russie, il n'existe pas de système unifié de suivi des patients lupiques, et l'on dispose de peu de données sur le nombre de patients avec lupus actif modéré à sévère, leurs complications, leurs comorbidités, les traitements utilisés et leur efficacité. Le pays est vaste, avec des régions très différentes en termes de population, de climat et de niveau économique.\n\nCette étude observationnelle multicentrique d'AstraZeneca combine une phase rétrospective et une phase prospective. La phase rétrospective devait inclure environ 1000 patients lupiques ; une deuxième visite prospective concerne environ 600 patients ayant une activité SLEDAI-2K d'au moins 6 malgré le traitement standard. Les patients sous biothérapie, avec néphrite lupique de classe III/IV ou lupus neuropsychiatrique sont exclus. L'analyse porte au final sur 637 patients dans 32 centres. Elle décrit les caractéristiques cliniques, les traitements et les liens entre schémas thérapeutiques et évolution.",
+ "interet": "Ces données russes décrivent le profil des patients lupiques insuffisamment contrôlés par le traitement standard. Elles n'évaluent aucun traitement de façon comparative.",
+ "profil": "Des adultes atteints de lupus avec activité modérée à sévère malgré un traitement standard, suivis en Russie.",
+ "inclusion": [
+  "Lupus (CIM M32) confirmé dans le dossier médical",
+  "Au moins une visite documentée dans les 24 derniers mois",
+  "Âge de 18 ans ou plus",
+  "Phase prospective : consentement écrit",
+  "Phase prospective : SLEDAI-2K d'au moins 6 malgré le traitement standard"
+ ],
+ "exclusion": [
+  "Usage régulier de biothérapie pour le lupus dans les 24 derniers mois",
+  "Participation à un essai interventionnel depuis la dernière visite",
+  "Néphrite lupique de classe III/IV ± V",
+  "Lupus neuropsychiatrique",
+  "Maladie aiguë ou chronique limitant la participation ou l'interprétation des données"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Étude observationnelle rétrospective puis prospective, sans intervention : recueil de données cliniques et démographiques lors de 2 visites"
+  }
+ ],
+ "duree": "Environ 13 mois pour l'ensemble de l'étude, deux visites par patient",
+ "critere": "Score d'activité SLEDAI-2K moyen lors de la visite 2 (phase prospective)."
+}

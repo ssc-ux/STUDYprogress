@@ -1,0 +1,35 @@
+{
+ "h": "5a396fdf3300",
+ "date": "2026-11-14",
+ "titre": "CHT105, CAR-T allogénique CD19/CD70, dans le PTI en rechute ou réfractaire",
+ "question": "CHT105, une CAR-T allogénique ciblant CD19 et CD70, est-elle sûre et efficace chez des adultes ayant un PTI en rechute ou réfractaire ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des auto-anticorps détruisent les plaquettes et altèrent leur production. Après les corticoïdes et les immunoglobulines, les options comprennent les agonistes du récepteur de la thrombopoïétine, le rituximab, des immunosuppresseurs, la splénectomie ou le fostamatinib. Une partie des patients reste en rechute ou réfractaire, avec un risque hémorragique et un besoin de traitements au long cours.\n\nLes CAR-T dirigées contre les lymphocytes B ont obtenu des rémissions dans des maladies auto-immunes. CHT105 est une CAR-T allogénique, donc issue de donneurs et disponible d'emblée, qui cible à la fois CD19 et CD70. Le registre ne détaille pas le rationnel du double ciblage. Cet essai mono-bras ouvert, promu par Nanjing Miracle Biotechnology avec l'hôpital universitaire de Nanchang, inclut 24 adultes de 18 à 65 ans. La seule indication retenue dans le registre est le PTI, bien que le titre évoque les maladies auto-immunes réfractaires.",
+ "interet": "Étude précoce d'une CAR-T allogénique « prête à l'emploi » dans le PTI réfractaire. Elle précisera la tolérance et fournira des taux de réponse préliminaires, sans portée immédiate pour la pratique.",
+ "profil": "Des adultes de 18 à 65 ans ayant un PTI en rechute ou réfractaire avec moins de 50 G/L de plaquettes.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Expression de CD19/CD70 sur les lymphocytes B (cytométrie)",
+  "PTI en rechute ou réfractaire (critères IWG 2009)",
+  "Plaquettes < 50 G/L à deux reprises",
+  "Au moins un traitement antérieur du PTI",
+  "Réponse à un traitement dans les 3 ans ou moelle compatible avec un PTI",
+  "Fonctions médullaire, hépatique, rénale (clairance ≥ 30 mL/min) et de coagulation adéquates"
+ ],
+ "exclusion": [
+  "Allergie sévère connue",
+  "Infection non contrôlée (fongique, bactérienne, virale)",
+  "Déficit immunitaire congénital en immunoglobulines",
+  "Cancer dans les 5 ans, insuffisance rénale terminale",
+  "Hépatite B ou C, VIH ou syphilis",
+  "Immunosuppresseur ou biothérapie récente",
+  "Troubles psychiatriques ou cognitifs sévères, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe traité",
+   "traitement": "CHT105, CAR-T allogénique CD19/CD70 en perfusion (dose non précisée)"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Fréquence et gravité des événements indésirables jusqu'à 52 semaines ; taux de réponse complète et partielle aux semaines 12 et 24"
+}

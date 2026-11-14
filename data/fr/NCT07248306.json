@@ -1,0 +1,29 @@
+{
+ "h": "19eeaacfa98f",
+ "date": "2026-11-14",
+ "titre": "Dysfonction temporo-mandibulaire dans le syndrome de Sjögren",
+ "question": "La dysfonction temporo-mandibulaire est-elle fréquente dans le syndrome de Sjögren, et est-elle liée à l'activité de la maladie ?",
+ "contexte": "Le syndrome de Sjögren est une maladie auto-immune qui touche les glandes exocrines et provoque sécheresse buccale et oculaire, douleurs et fatigue. La sécheresse buccale, les atteintes dentaires et les douleurs musculo-squelettiques pourraient favoriser des troubles de l'articulation temporo-mandibulaire.\n\nLa fréquence de la dysfonction temporo-mandibulaire (DTM) dans cette maladie est mal connue. Le lien avec l'activité de la maladie est également peu étudié.\n\nCette étude observationnelle monocentrique, menée à l'université de Pamukkale (Turquie), inclut 27 femmes de 18 à 65 ans atteintes de Sjögren primitif. Elle évalue la prévalence et la sévérité de la DTM avec l'indice anamnestique de Fonseca, ainsi que l'ouverture buccale, la posture de la tête et l'état de santé bucco-dentaire. L'activité de la maladie est mesurée par l'ESSPRI.",
+ "interet": "Elle pourrait justifier un dépistage systématique des troubles temporo-mandibulaires et une prise en charge de la douleur orofaciale chez les patients atteints de Sjögren.",
+ "profil": "Des femmes de 18 à 65 ans atteintes de syndrome de Sjögren primitif.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Syndrome de Sjögren confirmé",
+  "Capacités mentales et niveau d'éducation suffisants pour comprendre l'étude",
+  "Volontariat"
+ ],
+ "exclusion": [
+  "Questionnaires ou échelles incomplets",
+  "Traitement orthodontique dans les 6 mois",
+  "Déficit neurologique ou cognitif",
+  "Pathologie de l'articulation temporo-mandibulaire antérieure au diagnostic de Sjögren"
+ ],
+ "bras": [
+  {
+   "nom": "Sjögren primitif",
+   "traitement": "Patientes évaluées une fois (fonction temporo-mandibulaire, ouverture buccale, posture de la tête, santé bucco-dentaire)"
+  }
+ ],
+ "duree": "Une seule évaluation (période d'étude de 6 mois)",
+ "critere": "Indice anamnestique de Fonseca (DTM) et indice ESSPRI (activité rapportée par la patiente), évalués sur la période d'étude"
+}

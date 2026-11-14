@@ -1,0 +1,35 @@
+{
+ "h": "a2b8c4f306bf",
+ "date": "2026-11-14",
+ "titre": "Application de méditation de pleine conscience contre l'anxiété chez les patients atteints d'uvéite non infectieuse",
+ "question": "Une application mobile de méditation et de pleine conscience réduit-elle les symptômes d'anxiété chez des patients atteints d'uvéite non infectieuse ?",
+ "contexte": "Les uvéites non infectieuses sont des inflammations oculaires d'origine immune, isolées ou associées à une maladie auto-immune ou inflammatoire (spondyloarthrite, sarcoïdose, maladie de Behçet, etc.). Elles sont chroniques, récidivantes, menacent la vision et nécessitent souvent des corticoïdes, des immunosuppresseurs ou des biothérapies.\n\nLes patients présentent plus d'anxiété et de symptômes dépressifs que la population générale, ce qui peut aggraver la qualité de vie et l'observance. Cette dimension psychologique est peu prise en charge en consultation d'ophtalmologie ou de médecine interne. Les interventions numériques de pleine conscience sont accessibles et peu coûteuses, et ont montré un bénéfice sur l'anxiété dans d'autres maladies chroniques. Cette étude randomisée, menée à l'UCSF avec la société Calm, compare 8 semaines d'utilisation de l'application Calm Health à une absence d'intervention. Elle porte sur 100 patients et évalue l'anxiété comme critère principal.",
+ "interet": "Un bénéfice net justifierait de proposer un outil numérique de pleine conscience en complément du suivi médical des patients atteints d'uvéite chronique.",
+ "profil": "Des adultes atteints d'uvéite non infectieuse, capables d'utiliser une application sur smartphone.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Uvéite non infectieuse",
+  "Accepter de télécharger l'application Calm Health",
+  "Capacité à utiliser seul un smartphone et l'application",
+  "Capacité à lire un écran sans aide"
+ ],
+ "exclusion": [
+  "Nouveau traitement psychotrope depuis moins d'un mois ou prévu dans les 12 semaines",
+  "Psychothérapie débutée depuis moins de 3 mois ou prévue dans les 12 semaines",
+  "Application de méditation déjà installée",
+  "Incapacité à utiliser un smartphone",
+  "Refus de la collecte anonymisée des données de l'application"
+ ],
+ "bras": [
+  {
+   "nom": "Intervention numérique",
+   "traitement": "Modules de méditation et de pleine conscience de Calm Health, au moins 10 minutes par jour pendant 8 semaines"
+  },
+  {
+   "nom": "Sans intervention",
+   "traitement": "Pas d'accès à l'application pendant 8 semaines (accès proposé ensuite), consigne de ne pas utiliser d'autre application de méditation"
+  }
+ ],
+ "duree": "8 semaines pour le critère principal, étude suivie jusqu'à 12 semaines environ",
+ "critere": "Symptômes d'anxiété à 8 semaines."
+}

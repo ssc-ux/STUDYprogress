@@ -1,0 +1,35 @@
+{
+ "h": "8d1ae4fc15cb",
+ "date": "2026-11-14",
+ "titre": "NK510, cellules NK génétiquement modifiées dans le lupus systémique réfractaire",
+ "question": "La thérapie cellulaire NK510 est-elle sûre et efficace dans le lupus systémique réfractaire ?",
+ "contexte": "Malgré les corticoïdes, les immunosuppresseurs et les biothérapies comme le bélimumab ou l'anifrolumab, une partie des patients lupiques garde une maladie active. Les CAR-T anti-CD19 ont induit des rémissions profondes dans des séries de cas, mais leur coût et leur toxicité limitent leur usage.\n\nLe NK510 est une thérapie cellulaire allogénique à base de cellules NK génétiquement modifiées, développée par Base Therapeutics (Shanghai). Le registre ne détaille pas sa cible. Les cellules allogéniques sont disponibles d'emblée, ce qui évite la fabrication à partir des cellules du patient.\n\nCette étude de phase 1 ouverte, à bras unique, est promue par l'investigateur en Chine. Elle a été terminée avec 4 patients inclus. Les patients reçoivent une lymphodéplétion puis le NK510, avec une évaluation de la réponse SRI-4 à 3 et 6 mois.",
+ "interet": "Les résultats préliminaires de sécurité et de réponse pourraient orienter le développement des cellules NK allogéniques comme alternative aux CAR-T autologues dans le lupus.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif malgré au moins 2 mois de traitement immunosuppresseur.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Maladie active sous corticoïdes et immunosuppresseurs ou biothérapie depuis ≥ 2 mois",
+  "SLEDAI-2K > 8 et anticorps antinucléaires ≥ 1/80",
+  "Neutrophiles ≥ 1,5 G/L, hémoglobine ≥ 80 g/L, plaquettes ≥ 50 G/L",
+  "Fonctions hépatique et rénale adéquates",
+  "Contraception jusqu'à 3 mois après la fin du traitement"
+ ],
+ "exclusion": [
+  "Néphropathie lupique active",
+  "Autre maladie auto-immune active",
+  "Infection non contrôlée nécessitant un traitement intraveineux",
+  "Immunodéficience, VIH ou greffe d'organe",
+  "Maladie cardiovasculaire sévère, NYHA ≥ II ou FEVG < 50 %",
+  "Antécédent de cancer",
+  "Hépatite B active ou hépatite C"
+ ],
+ "bras": [
+  {
+   "nom": "NK510",
+   "traitement": "Perfusion de cellules NK allogéniques génétiquement modifiées après lymphodéplétion ; dose non précisée"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Taux de réponse SRI-4 à 3 et 6 mois, fréquence des événements indésirables liés au traitement (1 an) et toxicité limitante de dose (28 jours)"
+}
