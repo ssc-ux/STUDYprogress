@@ -1,0 +1,34 @@
+{
+ "h": "c9b6ecc1b214",
+ "date": "2026-11-14",
+ "titre": "Suivi thérapeutique pharmacologique du mycophénolate dans la néphrite lupique",
+ "question": "Ajuster le mycophénolate selon les taux d'acide mycophénolique augmente-t-il le taux de rémission rénale à 12 mois dans la néphrite lupique ?",
+ "contexte": "Le mycophénolate mofétil (MMF) est un pilier du traitement de la néphrite lupique, en induction comme en entretien. Il est converti en acide mycophénolique (MPA), son métabolite actif, dont l'exposition varie beaucoup d'un patient à l'autre et selon l'origine ethnique, ce qui peut conduire à un sous-dosage et à un échec thérapeutique. Le dosage de l'MPA permet une adaptation individualisée, mais son bénéfice clinique dans le lupus n'est pas établi.\n\nCet essai randomisé, en aveugle pour les participants, est mené à l'Hospital Universitário de l'Université fédérale du Maranhão (Brésil). Il inclut 100 adultes lupiques avec néphrite active (classe III-V), traités par MMF via le système public de santé, répartis 1:1 entre une prise en charge guidée par le dosage de l'MPA (taux résiduel mesuré à trois temps) et le protocole habituel du ministère de la Santé sans dosage. Le critère principal est la rémission rénale à 12 mois.",
+ "interet": "Il pourrait établir si le suivi pharmacologique du MPA améliore la réponse rénale, avec un enjeu d'équité et de coût dans les systèmes publics de santé.",
+ "profil": "Des adultes lupiques avec néphrite active (classe III-V), traités par mycophénolate et résidant dans la région de São Luís.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus (au moins 4 critères ACR) avec néphrite active de classe III-V : biopsie datant de moins de 6 mois, ou rapport protéinurie/créatininurie > 0,5, ou protéinurie > 500 mg/24 h",
+  "MMF en phase d'entretien dans les 3 premiers mois",
+  "Résidence à São Luís, São José de Ribamar ou Paço do Lumiar"
+ ],
+ "exclusion": [
+  "Contre-indication au MMF (hypersensibilité, grossesse, allaitement)",
+  "Infection sévère active (tuberculose, sepsis)",
+  "Suppléance rénale instable ou insuffisance hépatique sévère",
+  "Médicament expérimental",
+  "Médicaments modifiant fortement la pharmacocinétique, comme la rifampicine, sans adaptation possible"
+ ],
+ "bras": [
+  {
+   "nom": "Guidé par le suivi thérapeutique",
+   "traitement": "MMF avec dosage de l'MPA (taux résiduel) à trois temps et adaptation de dose"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "MMF selon le protocole du ministère de la Santé brésilien, sans dosage de l'MPA"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Proportion de patients en rémission rénale à 12 mois"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "1486aca2a47d",
+ "date": "2026-11-14",
+ "titre": "VPM, rapport plaquettes/lymphocytes et neutrophiles/lymphocytes : SAPL primaire versus secondaire",
+ "question": "Les marqueurs hématologiques simples (VPM, PLR, NLR) diffèrent-ils entre SAPL primaire et SAPL secondaire ?",
+ "contexte": "Le SAPL est une maladie auto-immune thrombo-inflammatoire, très hétérogène dans sa présentation : thromboses veineuses et artérielles, complications obstétricales, manifestations microvasculaires. Il peut être primaire ou secondaire à une autre maladie auto-immune, notamment le lupus. Les critères de classification de Sydney reposent sur des éléments cliniques et biologiques, mais les profils d'anticorps varient et des formes séronégatives sont décrites.\n\nLe rapport neutrophiles/lymphocytes (NLR) et le rapport plaquettes/lymphocytes (PLR) sont des marqueurs d'inflammation peu coûteux, calculés sur la numération sanguine. Ils sont associés au risque thrombotique et au pronostic dans plusieurs pathologies cardiovasculaires, inflammatoires et tumorales. Le volume plaquettaire moyen (VPM) reflète l'activation plaquettaire, impliquée dans l'inflammation et l'athérosclérose. Leur comparaison entre SAPL primaire et secondaire reste peu documentée. Cette étude observationnelle égyptienne (New Valley University) compare ces trois marqueurs entre les deux formes.",
+ "interet": "Ces marqueurs, disponibles sur une simple numération, pourraient aider à caractériser l'inflammation et le risque thrombotique selon le type de SAPL. L'étude reste descriptive et ne permettra pas de conclure sur leur valeur pronostique.",
+ "profil": "Des adultes atteints de SAPL, primaire ou secondaire, selon les critères de Sydney actualisés.",
+ "inclusion": ["Âge ≥ 18 ans", "SAPL selon les critères de Sydney actualisés", "Antécédent de thrombose et/ou de morbidité obstétricale", "Anticorps antiphospholipides persistants ≥ 12 semaines (aCL, anti-β2GPI et/ou LAC)"],
+ "exclusion": ["Infection ou maladie inflammatoire en cours non liée au SAPL", "Hémopathie maligne ou autre maladie du sang", "Transfusion récente", "Médicaments modifiant les plaquettes (hors traitement du SAPL)"],
+ "bras": [{"nom": "SAPL primaire", "traitement": "Numération sanguine avec VPM, calcul du PLR et du NLR, profil des anticorps antiphospholipides"}, {"nom": "SAPL secondaire", "traitement": "Mêmes examens"}],
+ "duree": "Évaluation au moment de l'inclusion (mesure unique)",
+ "critere": "Volume plaquettaire moyen mesuré à l'inclusion, dans le SAPL primaire et dans le SAPL secondaire"
+}

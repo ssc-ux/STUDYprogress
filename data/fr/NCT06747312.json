@@ -1,0 +1,14 @@
+{
+ "h": "45ef264fab54",
+ "date": "2026-11-14",
+ "titre": "Belimumab sur les titres d'anticorps antiphospholipides dans le SAPL primaire",
+ "question": "Ajouté au traitement standard, le belimumab réduit-il les titres d'anticorps antiphospholipides dans le syndrome des antiphospholipides primaire ?",
+ "contexte": "Le syndrome des antiphospholipides (SAPL) associe thromboses et/ou morbidité obstétricale à des anticorps antiphospholipides (aPL) persistants. Le traitement repose sur l'antithrombotique (aspirine, antivitamines K, héparine de bas poids moléculaire), qui ne modifie pas l'auto-immunité sous-jacente. Les récidives thrombotiques persistent chez certains patients malgré une anticoagulation bien conduite.\n\nLe belimumab est un anticorps anti-BAFF (BLyS) approuvé dans le lupus, qui réduit les lymphocytes B naïfs et activés, producteurs d'auto-anticorps. Dans le SAPL, des données précliniques et des observations suggèrent qu'il pourrait diminuer les titres d'aPL, mais son effet n'est pas établi.\n\nCet essai monocentrique de l'hôpital Ruijin (Shanghai) randomise 20 patients : traitement standard plus belimumab 10 mg/kg par voie intraveineuse une fois par mois pendant 18 mois, ou traitement standard seul. Il observe aussi les événements cliniques passés et nouveaux.",
+ "interet": "Un effet du belimumab sur les titres d'aPL justifierait un essai de plus grande ampleur sur les événements cliniques. L'étude, de petite taille, porte sur un critère biologique.",
+ "profil": "Des adultes atteints d'un syndrome des antiphospholipides primaire avec anticorps à titre élevé, sous traitement stable.",
+ "inclusion": ["Âge ≥ 18 ans", "Anticorps antiphospholipides à titre élevé selon les recommandations EULAR 2019", "Traitement du SAPL stable selon les recommandations EULAR", "Femmes : non enceintes, non allaitantes, avec contraception si en âge de procréer"],
+ "exclusion": ["Cancer dans les 5 ans (sauf carcinome cutané basocellulaire ou épidermoïde, carcinome in situ du col sans métastase depuis 3 ans)", "Déficit immunitaire primitif, IgG < 400 mg/dL, IgA < 10 mg/dL", "Infection en cours, VIH, hépatite", "Abus ou dépendance à l'alcool ou à une drogue dans les 365 jours précédents", "Antécédent d'allergie à un produit de contraste, à une protéine humaine ou murine ou à un anticorps monoclonal", "Comorbidité majeure médicale ou psychiatrique"],
+ "bras": [{"nom": "Traitement standard + belimumab", "traitement": "Belimumab 10 mg/kg IV une fois par mois pendant 18 mois, plus aspirine et/ou antivitamine K et/ou HBPM"}, {"nom": "Traitement standard", "traitement": "Aspirine et/ou antivitamine K et/ou héparine de bas poids moléculaire"}],
+ "duree": "18 mois",
+ "critere": "Titre des anticorps antiphospholipides à 18 mois"
+}

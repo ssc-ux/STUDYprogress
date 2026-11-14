@@ -1,0 +1,14 @@
+{
+ "h": "fdcdde185ff8",
+ "date": "2026-11-14",
+ "titre": "Programme en ligne « Creating Health » dans les rhumatismes avec troubles de l'humeur",
+ "question": "Un programme en ligne d'alimentation et d'autosoins réduit-il la fatigue et améliore-t-il la qualité de vie des patients avec maladie rhumatismale auto-immune ?",
+ "contexte": "La fatigue, la douleur, l'anxiété et la dépression sont fréquentes dans les maladies rhumatismales auto-immunes (polyarthrite rhumatoïde, syndrome de Sjögren, lupus, connectivite mixte, rhumatisme psoriasique) et pèsent sur la qualité de vie. L'accès à des diététiciens expérimentés dans ces pathologies est inégal, notamment pour les patients à ressources limitées ou éloignés des centres.\n\nCe programme, conçu par Terry Wahls (université d'Iowa), s'appuie sur un cours en ligne couvrant un régime paléolithique modifié avec éliminations, un régime végétarien riche en nutriments et un régime méditerranéen, ainsi que la gestion du stress, l'exercice, le sommeil et d'autres stratégies d'hygiène de vie. Les patients sont encouragés à en discuter avec leur équipe soignante. L'étude est randomisée, en simple aveugle, contre liste d'attente (400 patients prévus). Les résultats sont mesurés à 3 et 6 mois.",
+ "interet": "Cette étude pourrait évaluer si une éducation alimentaire et d'autosoins à distance améliore la fatigue et la qualité de vie. Elle ne remplace pas le traitement de fond et ses résultats seront à interpréter avec prudence, en l'absence de placebo.",
+ "profil": "Des adultes avec une maladie rhumatismale auto-immune (polyarthrite rhumatoïde, Sjögren, lupus, connectivite mixte, rhumatisme psoriasique) et des troubles anxieux ou dépressifs.",
+ "inclusion": ["Âge ≥ 18 ans, diagnostic documenté d'une des maladies rhumatismales visées", "Anglais lu et parlé couramment", "Accès à Internet haut débit avec appareil audio/vidéo", "Volonté de suivre le cours en ligne et de remplir des questionnaires pendant 6 mois", "Fonctions cognitives normales au test SPMSQ"],
+ "exclusion": ["Incapacité à donner un consentement éclairé lors de l'appel de consentement par Zoom", "Participation à une autre étude interventionnelle (traitement, régime, exercice)", "Suivi déjà d'un régime paléolithique modifié, végétarien riche en nutriments ou méditerranéen (≥ 75 % d'adhésion)", "Affection contre-indiquant un exercice doux (maladie cardiaque, rénale ou hépatique mal contrôlée dans les 12 mois, maladie psychiatrique sévère)"],
+ "bras": [{ "nom": "Intervention immédiate", "traitement": "Cours en ligne Creating Health dès la randomisation (alimentation, exercice, gestion du stress)" }, { "nom": "Intervention différée (liste d'attente)", "traitement": "Accès différé au même cours en ligne" }],
+ "duree": "6 mois",
+ "critere": "Fatigue (échelle MFIS et échelle de sévérité de la fatigue), qualité de vie (SF-36) et activité (RAPID3), à 3 et 6 mois"
+}

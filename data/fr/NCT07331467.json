@@ -1,0 +1,14 @@
+{
+ "h": "676e76f808d8",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 à fabrication ultra-rapide dans le lupus réfractaire",
+ "question": "Des CAR-T anti-CD19 autologues produites en quelques minutes sont-elles sûres et efficaces dans le lupus systémique réfractaire ?",
+ "contexte": "Le lupus systémique est traité par corticoïdes et immunosuppresseurs, souvent au long cours, sans traitement curatif. Les biothérapies comme le bélimumab ou le rituximab n'éliminent pas totalement les lymphocytes B auto-réactifs de la moelle osseuse, et l'arrêt du traitement expose à la rechute.\n\nDepuis 2019, les CAR-T anti-CD19 ont été appliquées avec succès aux maladies auto-immunes, avec des rémissions durables dans de petites séries de lupus. Leur production classique prend plusieurs jours à semaines. Le promoteur, Chongqing Precision Biotech, utilise un système de fabrication innovant dit « ultra-rapide », qui prépare les CAR-T en environ 10 minutes. Cette étude de phase 1 monocentrique, ouverte et à bras unique, avec escalade de dose, est à initiative d'investigateurs. Elle inclut 18 adultes avec un lupus actif en échec des traitements, et évalue la tolérance puis l'efficacité à 3 et 6 mois.",
+ "interet": "Cette étude pourrait montrer qu'un CAR-T à fabrication très rapide offre une efficacité comparable aux CAR-T classiques. Un délai de production court faciliterait l'accès à cette thérapie.",
+ "profil": "Des adultes avec un lupus systémique réfractaire, d'activité modérée à sévère.",
+ "inclusion": ["Âge ≥ 18 ans, lupus selon EULAR/ACR 2019", "Maladie active malgré ≥ 3 mois de corticoïdes à forte dose et/ou d'hydroxychloroquine et d'au moins 2 DMARD, ou intolérance", "SLEDAI-2K ≥ 8", "Leucaphérèse ou prélèvement veineux possible", "Contraception efficace jusqu'à 1 an après la perfusion"],
+ "exclusion": ["Lupus neurologique central nécessitant un traitement dans les 30 jours", "Cardiopathie sévère (infarctus récent, arythmie sévère, NYHA IV, péricardite ou myocardite sévère)", "DFGe < 30 mL/min/1,73 m² ou épuration extrarénale, ALAT/ASAT > 3 N, SpO₂ < 92 %", "Infection active non contrôlée, hépatite B ou C active, VIH, syphilis, tuberculose active", "Greffe de cellules souches récente, vaccin vivant dans les 4 semaines", "Cancer (hors exceptions), grossesse, autre essai dans les 3 mois"],
+ "bras": [{ "nom": "CAR-T CD19 ultra-rapides", "traitement": "CAR-T anti-CD19 autologues en perfusion, escalade de dose (dose non précisée)" }],
+ "duree": "Au moins 6 mois d'évaluation (durée totale du suivi non précisée)",
+ "critere": "Tolérance à 3 mois ; variation du SLEDAI-2K, du PGA et du BILAG-2004 à 6 mois ; réponse SRI-4 à 3 mois ; LLDAS et rémission DORIS à 6 mois"
+}

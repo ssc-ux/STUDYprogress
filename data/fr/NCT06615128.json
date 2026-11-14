@@ -1,0 +1,14 @@
+{
+ "h": "b761598ca5d0",
+ "date": "2026-11-14",
+ "titre": "CD25 sérique soluble dans la sclérodermie systémique avec ou sans pneumopathie interstitielle",
+ "question": "Le taux sérique de CD25 soluble est-il modifié dans la sclérodermie systémique et corrélé à l'activité de la maladie et à la pneumopathie interstitielle ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune où inflammation et fibrose atteignent la peau, les poumons, le cœur, les reins et le tube digestif. La pneumopathie interstitielle diffuse (PID) concerne la majorité des patients (80 % ou plus selon les séries) et, avec l'HTAP, constitue le principal facteur pronostique : environ 40 % des décès sont d'origine pulmonaire. Des biomarqueurs permettant de repérer l'atteinte pulmonaire et l'activité de la maladie font défaut.\n\nLe CD25 est la chaîne alpha du récepteur de l'IL-2. Sa forme soluble (sCD25) est libérée par clivage à la surface des lymphocytes T activés ; son taux sérique reflète la prolifération lymphocytaire et est élevé dans plusieurs maladies auto-immunes. Elle pourrait agir comme un récepteur leurre de l'IL-2. Cette étude cas-témoins monocentrique, menée à l'université d'Assiut (Égypte), prévoit de doser le sCD25 chez 66 personnes : des patients sclérodermiques avec ou sans PID et des témoins sains, pour le corréler à l'activité de la maladie.",
+ "interet": "Si le sCD25 s'avère discriminant, il pourrait devenir un biomarqueur simple pour repérer l'atteinte pulmonaire de la sclérodermie. Les données restent exploratoires, à partir d'un petit échantillon monocentrique.",
+ "profil": "Des adultes atteints de sclérodermie systémique, avec ou sans pneumopathie interstitielle, comparés à des témoins sains.",
+ "inclusion": ["Sclérodermie systémique selon les critères ACR/EULAR 2013", "Âge supérieur à 18 ans"],
+ "exclusion": ["Refus de participer", "Autres maladies auto-immunes", "Pneumopathie interstitielle d'une autre cause que la sclérodermie"],
+ "bras": [{ "nom": "Patients sclérodermiques (avec ou sans PID)", "traitement": "Prélèvement sanguin et dosage du CD25 soluble" }, { "nom": "Témoins sains", "traitement": "Prélèvement sanguin et dosage du CD25 soluble" }],
+ "duree": "Une seule évaluation (prélèvement à l'inclusion)",
+ "critere": "Taux sérique de CD25 soluble dans la sclérodermie, avec ou sans PID, et corrélation avec l'activité de la maladie, à l'inclusion."
+}

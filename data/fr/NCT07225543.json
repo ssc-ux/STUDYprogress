@@ -1,0 +1,38 @@
+{
+ "h": "5e57d5aad95b",
+ "date": "2026-11-14",
+ "titre": "2-HOBA, piégeur d'isolévuglandines, sur la pression artérielle et l'activation immunitaire dans le lupus",
+ "question": "Le 2-HOBA, qui piège les isolévuglandines, réduit-il la pression artérielle de 24 heures et la NETose chez des femmes lupiques hypertendues ?",
+ "contexte": "Le lupus érythémateux systémique s'accompagne d'une forte prévalence d'hypertension, souvent résistante, qui contribue à multiplier par 2 à 3 le risque cardiovasculaire. Hormis les corticoïdes (délétères sur la pression artérielle) et les immunosuppresseurs, il n'existe pas de traitement du lupus dont l'effet bénéfique sur l'hypertension soit connu.\n\nLes isolévuglandines (IsoLG) sont des dicarbonyles hautement réactifs, produits du stress oxydatif, qui forment des adduits sur les protéines et activent le système immunitaire. Selon les travaux de l'équipe de Vanderbilt, elles favoriseraient l'activation immunitaire et l'hypertension. Le 2-HOBA (acétate de 2-hydroxybenzylamine) est un piégeur d'IsoLG. Cet essai de phase 2 randomisé, en double aveugle, en crossover, inclut 42 femmes lupiques stables. Elles reçoivent 500 mg de 2-HOBA trois fois par jour ou un placebo pendant 8 semaines, avec 4 semaines de sevrage entre les deux périodes.",
+ "interet": "Il apportera des données mécanistiques sur le rôle du stress oxydatif dans l'hypertension et l'activation immunitaire du lupus, avec une piste thérapeutique.",
+ "profil": "Des femmes adultes atteintes de lupus stable avec pression artérielle élevée.",
+ "inclusion": [
+  "Femme de 18 ans ou plus, consentement écrit",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Immunosuppresseurs inchangés depuis ≥ 3 mois, prednisone ≤ 20 mg/j stable depuis ≥ 1 mois",
+  "Pression artérielle élevée : PAS 120-160 mmHg ou PAD 80-110 mmHg",
+  "Antihypertenseurs stables depuis ≥ 2 semaines",
+  "Arrêt des AINS pendant l'étude, contraception efficace si possible grossesse"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement, sexe masculin",
+  "Cancer actif (hors cancer cutané non mélanome)",
+  "Cirrhose, transaminases > 1,5 fois la normale ou bilirubine ≥ 1,5 mg/dL",
+  "Infection active nécessitant un traitement",
+  "Chirurgie majeure dans les 3 mois, allergie à l'aspirine, IMAO",
+  "Clairance de la créatinine < 30 mL/min",
+  "Fibrillation atriale connue ou comorbidité sévère"
+ ],
+ "bras": [
+  {
+   "nom": "Placebo puis 2-HOBA",
+   "traitement": "Placebo 8 semaines, sevrage 4 semaines, puis 2-HOBA 500 mg trois fois par jour pendant 8 semaines"
+  },
+  {
+   "nom": "2-HOBA puis placebo",
+   "traitement": "2-HOBA 500 mg trois fois par jour 8 semaines, sevrage 4 semaines, puis placebo 8 semaines"
+  }
+ ],
+ "duree": "20 semaines (8 + 4 + 8 semaines)",
+ "critere": "Variation de la pression artérielle systolique de 24 heures et de la NETose, mesurées au début et à la fin de chaque période (semaines 0, 8, 12 et 20)"
+}

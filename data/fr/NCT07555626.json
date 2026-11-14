@@ -1,0 +1,34 @@
+{
+ "h": "a5cb82723717",
+ "date": "2026-11-14",
+ "titre": "Régime méditerranéen et microbiote intestinal chez l'enfant lupique",
+ "question": "Un conseil nutritionnel de type régime méditerranéen améliore-t-il le microbiote intestinal et l'activité du lupus chez l'enfant ?",
+ "contexte": "Le lupus de l'enfant s'accompagne de dysbiose intestinale, avec une moindre diversité microbienne, qui pourrait contribuer à l'inflammation et à la rupture de tolérance immunitaire. Les corticoïdes et les contraintes de la maladie affectent aussi l'état nutritionnel. Le régime méditerranéen, riche en fibres, polyphénols et acides gras insaturés et pauvre en aliments ultra-transformés, améliore le microbiote et les marqueurs inflammatoires dans d'autres contextes, mais les données dans le lupus pédiatrique sont rares.\n\nCette étude non randomisée, promue par l'université d'Erciyes (Turquie), prévoit 30 enfants lupiques de 8 à 18 ans et 30 membres de leur famille sains vivant dans le même foyer. Les enfants lupiques du groupe d'intervention reçoivent pendant 12 semaines un conseil nutritionnel individualisé de type méditerranéen par une diététicienne, tandis que le groupe témoin reçoit les conseils habituels. Les critères principaux sont la diversité du microbiote (selles à la semaine 0 et à la semaine 12) et la variation du SLEDAI-2K.",
+ "interet": "Si l'effet est positif, une intervention nutritionnelle simple pourrait être proposée aux enfants lupiques. Le design non randomisé limite la portée des résultats.",
+ "profil": "Des enfants de 8 à 18 ans atteints de lupus depuis au moins 6 mois, et des membres sains de leur foyer.",
+ "inclusion": [
+  "Lupus selon critères SLICC, diagnostiqué depuis ≥ 6 mois",
+  "Témoins : membres de la famille vivant dans le même foyer",
+  "Témoins : IMC dans la normale"
+ ],
+ "exclusion": [
+  "Infection active",
+  "Insuffisance rénale, traumatisme majeur ou chirurgie dans les 6 mois (enfants lupiques)",
+  "Autre maladie chronique que le lupus",
+  "Antibiotiques ou probiotiques dans les 4 semaines",
+  "Régime spécifique ou restrictif",
+  "Analphabétisme ou trouble cognitif limitant la compréhension"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe intervention",
+   "traitement": "Enfants lupiques : conseil diététique individualisé de type méditerranéen par une diététicienne pendant 12 semaines"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Membres sains du foyer : conseils diététiques standards et suivi habituel"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Diversité du microbiote intestinal et variation du score SLEDAI-2K entre l'inclusion et la semaine 12"
+}

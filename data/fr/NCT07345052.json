@@ -1,0 +1,14 @@
+{
+ "h": "9f26d8cd0b36",
+ "date": "2026-11-14",
+ "titre": "Cohorte suédoise de sclérodermie systémique : mécanismes et prédicteurs d'activité et de réponse",
+ "question": "Quels gènes, protéines, métabolites et cellules immunitaires sont associés au développement et à la progression de la sclérodermie systémique ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune chronique et invalidante, associant vasculopathie, inflammation et fibrose de la peau et des organes. Sa mortalité reste élevée et les options thérapeutiques insuffisantes. L'évolution est très hétérogène, et on manque de biomarqueurs diagnostiques et pronostiques pour prévoir la progression ou la réponse au traitement.\n\nLe projet WESST, mené à l'hôpital universitaire Sahlgrenska de Göteborg avec les hôpitaux de Skövde et de Borås, constitue une cohorte de patients et de témoins sains avec prélèvements de sang, de peau et d'ADN. Une approche multi-omique intégrée est prévue, complétée par des études fonctionnelles in vitro sur échantillons de patients. La cohorte sera reliée au réseau européen EUSTAR. Le but est d'identifier des marqueurs diagnostiques et pronostiques et des cibles thérapeutiques possibles.",
+ "interet": "La cohorte pourrait fournir des biomarqueurs de progression et de réponse thérapeutique, utiles pour stratifier les patients. Les résultats seront d'abord exploratoires.",
+ "profil": "Des adultes atteints de sclérodermie systémique, comparés à des témoins sains.",
+ "inclusion": ["Sclérodermie systémique selon les critères ACR/EULAR", "Âge de 18 ans ou plus", "Témoins : absence de sclérodermie ou d'autre maladie rhumatismale"],
+ "exclusion": ["Connectivite mixte", "Ne parlant ou ne lisant pas le suédois", "Troubles cognitifs sévères", "Numération sanguine sous des seuils précisés", "Allergie aux anesthésiques locaux (pour la biopsie cutanée)"],
+ "bras": [{ "nom": "Patients sclérodermiques", "traitement": "Cohorte observationnelle, sans intervention (prélèvements sanguins, cutanés et ADN)" }, { "nom": "Témoins sains", "traitement": "Cohorte observationnelle, sans intervention" }],
+ "duree": "Suivi à 2 et 5 ans après l'inclusion",
+ "critere": "Prédicteurs d'activité et de progression de la maladie dans les échantillons plasmatiques, à l'inclusion et à 2 et 5 ans."
+}

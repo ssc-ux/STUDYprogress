@@ -1,0 +1,33 @@
+{
+ "h": "44461a4c8db0",
+ "date": "2026-11-14",
+ "titre": "CAR-T BCMA/CD70 ultra-rapides dans le lupus systémique réfractaire",
+ "question": "Des lymphocytes CAR-T autologues anti-BCMA/CD70 produits très rapidement sont-ils sûrs et efficaces dans le lupus réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique réfractaire, qui persiste malgré les corticoïdes, l'hydroxychloroquine et plusieurs immunosuppresseurs ou biologiques, expose à des dommages d'organes et à une corticodépendance. Le belimumab et le rituximab n'éliminent pas complètement les lymphocytes B autoréactifs de la moelle osseuse ni les plasmocytes, et l'arrêt du traitement entraîne souvent une rechute. Les CAR-T anti-CD19 ont induit des rémissions sans traitement dans des séries de cas, ce qui a relancé l'intérêt pour les thérapies cellulaires.\n\nCet essai de phase 1 de Chongqing Precision Biotech, à l'initiative de l'investigateur, ouvert, monocentrique et à escalade de dose, teste des CAR-T autologues dirigés contre BCMA (plasmocytes) et CD70, produits en un temps de fabrication très court (« ultra-rapide »). Il inclut 18 adultes lupiques actifs malgré au moins trois mois de corticoïdes à forte dose et au moins deux traitements de fond.",
+ "interet": "Il explore une stratégie de CAR-T plus rapide à produire, ciblant les plasmocytes, avec de premières données de tolérance et d'efficacité dans le lupus.",
+ "profil": "Des adultes atteints de lupus réfractaire avec activité modérée à sévère malgré plusieurs traitements de fond.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus selon EULAR/ACR 2019, actif malgré ≥ 3 mois de corticoïdes à forte dose et/ou hydroxychloroquine et au moins 2 traitements de fond, ou intolérance aux traitements standard",
+  "SLEDAI-2K ≥ 8",
+  "Absence de contre-indication à la leucaphérèse ou au prélèvement veineux",
+  "Test de grossesse négatif et contraception efficace jusqu'à un an après la perfusion",
+  "Consentement du participant ou de son tuteur"
+ ],
+ "exclusion": [
+  "Lupus neurologique central nécessitant une intervention dans les 30 jours",
+  "Cardiopathie congénitale, infarctus récent, arythmie sévère, classe NYHA IV, péricardite modérée à abondante ou myocardite sévère",
+  "DFGe < 30 mL/min/1,73 m² ou suppléance rénale, transaminases > 3 fois la normale ou bilirubine > 2 fois la normale, SpO2 < 92 %",
+  "Infection incontrôlée ou active nécessitant un traitement systémique dans les 3 mois",
+  "Greffe de cellules souches hématopoïétiques dans les 3 mois ou GVHD de grade ≥ 2",
+  "Hépatite B ou C active (détails non fournis dans l'extrait)"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T BCMA/CD70",
+   "traitement": "CAR-T autologues anti-BCMA/CD70 « ultra-rapides », escalade de dose, bras unique ouvert"
+  }
+ ],
+ "duree": "6 mois pour les critères d'efficacité principaux",
+ "critere": "Tolérance à 3 mois, et variation du SLEDAI-2K, du PGA et du BILAG-2004 à 6 mois, réponses SRI-4 (3 mois), LLDAS et DORIS (6 mois)"
+}

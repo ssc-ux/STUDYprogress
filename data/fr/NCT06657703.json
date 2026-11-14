@@ -1,0 +1,14 @@
+{
+ "h": "a9f5ed476fd6",
+ "date": "2026-11-14",
+ "titre": "HC022 en dose unique chez des volontaires sains (phase 1, lupus)",
+ "question": "Quelle est la tolérance d'une dose sous-cutanée unique de HC022 chez des volontaires sains ?",
+ "contexte": "Le lupus systémique nécessite des traitements ciblés supplémentaires, en particulier pour les patients insuffisamment contrôlés par les antipaludéens, les immunosuppresseurs et les biothérapies disponibles. Le HC022, développé par HC Biopharma, est un médicament injectable en phase précoce, dont le registre ne précise ni la nature ni la cible ; l'étude est rattachée au lupus systémique comme indication visée.\n\nIl s'agit d'une première administration chez l'homme (phase 1a), randomisée en double aveugle contre placebo, dans trois centres, chez 38 volontaires sains de 18 à 55 ans. Cinq niveaux de dose sous-cutanée unique sont testés (5, 50, 150, 450 et 900 mg), chaque participant recevant la molécule ou un placebo. Les objectifs sont la tolérance, la pharmacocinétique, l'immunogénicité et les effets pharmacodynamiques. Aucun patient atteint de lupus n'est inclus à ce stade.",
+ "interet": "Cette étude pourrait établir la tolérance et la pharmacocinétique du HC022 avant son évaluation chez des patients lupiques. Elle n'apportera pas de données d'efficacité.",
+ "profil": "Des volontaires sains de 18 à 55 ans.",
+ "inclusion": ["Âge de 18 à 55 ans", "Poids ≥ 50 kg (hommes) ou ≥ 45 kg (femmes), IMC de 19 à 28 kg/m²", "Bon état de santé (examen, biologie, radiographie thoracique, échographie abdominale, ECG)", "Contraception efficace pendant l'étude et 6 mois (femmes) ou 3 mois (hommes) après la dose", "Consentement éclairé signé"],
+ "exclusion": ["Participation à un autre essai dans les 3 mois", "VIH, hépatite B ou C", "Tuberculose active ou latente non traitée", "Antécédent d'infection herpétique ou zostérienne sévère", "Infection grave, traumatisme grave ou chirurgie majeure dans les 6 mois", "Abus d'alcool ou de substances, allergie sévère ou antécédent d'anaphylaxie"],
+ "bras": [{ "nom": "HC022 5 mg", "traitement": "Dose sous-cutanée unique de HC022 ou placebo à J1" }, { "nom": "HC022 50 mg", "traitement": "Dose sous-cutanée unique de HC022 ou placebo à J1" }, { "nom": "HC022 150 mg", "traitement": "Dose sous-cutanée unique de HC022 ou placebo à J1" }, { "nom": "HC022 450 mg", "traitement": "Dose sous-cutanée unique de HC022 ou placebo à J1" }, { "nom": "HC022 900 mg", "traitement": "Dose sous-cutanée unique de HC022 ou placebo à J1" }],
+ "duree": "Jusqu'à 20 semaines",
+ "critere": "Pourcentage de participants avec événements indésirables et événements indésirables graves, jusqu'à 20 semaines"
+}

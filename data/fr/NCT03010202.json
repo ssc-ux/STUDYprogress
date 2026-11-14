@@ -1,0 +1,33 @@
+{
+ "h": "654924a7cc44",
+ "date": "2026-11-14",
+ "titre": "Rituximab d'entretien à faible dose dans le PTI (PROLONG)",
+ "question": "Un traitement d'entretien par rituximab à faible dose prolonge-t-il la réponse plaquettaire obtenue avec le rituximab dans le PTI récent ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) récent, de moins d'un an, est traité en première ligne par corticoïdes. En cas d'échec ou de rechute, le rituximab est utilisé en seconde ligne. Mais la réponse au rituximab est souvent transitoire : environ la moitié des patients rechutent à 1 à 2 ans.\n\nDeux questions se posent. L'ajout de dexaméthasone à l'induction par rituximab améliore-t-il la réponse initiale ? Et un entretien à faible dose du rituximab maintient-il la réponse obtenue ?\n\nPROLONG est un essai international multicentrique à deux phases, promu par l'Ostfold Hospital Trust. La phase d'induction, en ouvert, randomise rituximab seul ou avec dexaméthasone (hypothèse à générer). La phase d'entretien, principale, randomise en double aveugle rituximab à faible dose contre placebo chez les répondeurs.",
+ "interet": "Si l'entretien prolonge la réponse, il pourrait réduire les rechutes et le recours aux autres traitements de seconde ligne. L'étude précisera aussi le rôle de la dexaméthasone en induction.",
+ "profil": "Des adultes atteints de PTI primaire de moins d'un an, en échec ou rechute après corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans, PTI primaire de moins d'un an",
+  "Plaquettes ≤ 30 G/L dans les 4 semaines (31-50 G/L si antiagrégant ou saignement)",
+  "Échec ou rechute après dexaméthasone ou 4 semaines d'un autre corticoïde",
+  "Rituximab IV prévu",
+  "Contraception efficace pendant 12 mois après la dernière perfusion",
+  "Phase d'entretien : réponse soutenue à la fin de l'induction, randomisation entre les semaines 24 et 28"
+ ],
+ "exclusion": [
+  "Traitement antérieur du PTI par rituximab, immunosuppresseur, chimiothérapie ou splénectomie",
+  "Grossesse ou allaitement",
+  "Ulcère gastroduodénal actif",
+  "PTI secondaire (lymphome, LLC, DICV, VIH, VHC, myélodysplasie)",
+  "Anémie hémolytique auto-immune associée",
+  "Événement cardiovasculaire majeur dans les 6 mois"
+ ],
+ "bras": [
+  { "nom": "Induction : rituximab + dexaméthasone", "traitement": "Rituximab 1000 mg IV à J1 et J15 ; dexaméthasone 20 mg/j oral 4 jours à J1 et J15" },
+  { "nom": "Induction : rituximab", "traitement": "Rituximab 1000 mg IV à J1 et J15" },
+  { "nom": "Entretien : rituximab", "traitement": "Rituximab 500 mg IV à la semaine 1 et à la semaine 24 de la seconde randomisation" },
+  { "nom": "Entretien : placebo", "traitement": "Sérum physiologique à 0,9 % aux mêmes dates" }
+ ],
+ "duree": "52 semaines pour le critère principal",
+ "critere": "Réponse globale soutenue à 52 semaines"
+}

@@ -1,0 +1,32 @@
+{
+ "h": "1d7496dfec39",
+ "date": "2026-11-14",
+ "titre": "CAR-T OL-108 dans les maladies auto-immunes réfractaires",
+ "question": "Le CAR-T OL-108 est-il sûr et efficace chez des adultes ayant un lupus, une myopathie inflammatoire, une sclérodermie ou une vascularite à ANCA réfractaires ?",
+ "contexte": "Le lupus, les myopathies inflammatoires, la sclérodermie et les vascularites à ANCA peuvent rester actifs malgré plusieurs lignes d'immunosuppresseurs et de biothérapies, avec un risque de dommages d'organes et d'effets secondaires cumulés. Les CAR-T anti-CD19 ont obtenu des rémissions sans traitement dans des séries de patients réfractaires, ce qui a suscité de nombreux essais, notamment en Chine.\n\nL'OL-108 est un produit CAR-T testé par l'hôpital GoBroad de Pékin ; le registre ne précise pas sa cible. Cette étude de phase 1 ouverte, à un bras, inclut 44 adultes de 18 à 65 ans atteints de l'une de ces quatre maladies en rechute ou réfractaires, avec des critères d'activité propres à chacune (par exemple SLEDAI-2K ≥ 8 et BILAG A ou deux B pour le lupus). Une contraception très efficace est exigée jusqu'à 2 ans après la dose. Les critères principaux sont les toxicités limitantes dans les 30 jours et les événements indésirables jusqu'à 2 ans.",
+ "interet": "L'étude caractérisera la sécurité et la pharmacocinétique de l'OL-108 dans plusieurs maladies auto-immunes. L'efficacité sera évaluée de façon préliminaire, sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus, myopathie inflammatoire, sclérodermie ou vascularite à ANCA en rechute ou réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, ECOG 0 à 2, fonction d'organe adéquate",
+  "Contraception très efficace jusqu'à 2 ans après la dose, test de grossesse négatif",
+  "Lupus : critères 1997/SLICC 2012/EULAR-ACR 2019, ANA ≥ 1:80 ou anti-ADN/anti-Sm, SLEDAI-2K ≥ 8 avec BILAG A ou deux B, ou néphrite lupique de classe III/IV ± V prouvée par biopsie",
+  "Myopathie inflammatoire : critères ACR/EULAR 2017 et maladie active (détails dans le registre)",
+  "Maladie en rechute ou réfractaire à au moins un immunosuppresseur ou une biothérapie"
+ ],
+ "exclusion": [
+  "Infection active non contrôlée, hépatite B (charge virale détectable ou sans prophylaxie), hépatite C non guérie, VIH, syphilis",
+  "Tuberculose active ou latente non traitée",
+  "Infection grave dans les 3 mois (hospitalisation, antibiothérapie IV) ou antibiotique oral dans le mois",
+  "QT long congénital ou QTcF ≥ 480 ms",
+  "Hypertension non contrôlée, angor instable, insuffisance cardiaque",
+  "Autres critères d'exclusion : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "OL-108",
+   "traitement": "Perfusion de CAR-T OL-108, après lymphodéplétion (dose non précisée)"
+  }
+ ],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Toxicités limitantes dans les 30 jours ; incidence et sévérité des événements indésirables jusqu'à 2 ans"
+}

@@ -1,0 +1,34 @@
+{
+ "h": "4901b4402a43",
+ "date": "2026-11-14",
+ "titre": "Daratumumab dans la néphrite lupique active (phase 2, Mayo Clinic)",
+ "question": "Le daratumumab, anticorps anti-CD38 qui cible les plasmocytes, induit-il une rémission rénale complète ou partielle dans la néphrite lupique active ?",
+ "contexte": "La néphrite lupique (NL) de classe III/IV est une atteinte rénale grave du lupus. Les traitements standard (corticoïdes, mycophénolate, cyclophosphamide, belimumab, inhibiteurs de calcineurine) n'induisent une réponse complète que chez 20 à 30 % des patients à six mois. Les plasmocytes à longue durée de vie, peu sensibles aux anti-CD20 et aux immunosuppresseurs, entretiennent la production d'autoanticorps.\n\nLe daratumumab est un anticorps monoclonal anti-CD38, approuvé dans le myélome, qui déplète les plasmocytes. Des observations isolées dans des lupus réfractaires ont suggéré un bénéfice. Cette étude de phase 2 de la Mayo Clinic, ouverte et à un seul bras, inclut 12 adultes atteints de NL active de classe III/IV (± V). Le daratumumab est administré une fois par semaine pendant 8 semaines, puis toutes les 2 semaines pour 8 injections supplémentaires, avec un suivi total de 24 mois.",
+ "interet": "Il pourrait valider le ciblage des plasmocytes dans la néphrite lupique, notamment pour les patients non répondeurs aux traitements standard.",
+ "profil": "Des adultes atteints de lupus avec néphrite active de classe III/IV (± V) confirmée par biopsie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus selon les critères ACR",
+  "Biopsie récente (≤ 12 mois) montrant une néphrite active de classe III/IV (± V)",
+  "Protéinurie ≥ 500 mg/24 h",
+  "DFGe ≥ 30 mL/min",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Grossesse, hépatite B ou C, VIH",
+  "Hémoglobine < 8 g/dL ou plaquettes < 100 000",
+  "Corticoïdes > 10 mg/j de prednisone pendant plus de 2 semaines",
+  "Ciclosporine, tacrolimus ou azathioprine dans les 3 mois, cyclophosphamide dans les 6 mois",
+  "Rituximab antérieur avec CD20 à zéro à l'inclusion",
+  "Mycophénolate > 1 500 mg/j",
+  "Contraception inadaptée"
+ ],
+ "bras": [
+  {
+   "nom": "Daratumumab",
+   "traitement": "Une injection par semaine pendant 8 semaines, puis toutes les 2 semaines pour 8 doses supplémentaires"
+  }
+ ],
+ "duree": "24 mois (18 mois après la dernière injection)",
+ "critere": "Rémission rénale complète ou partielle 12 mois après la première perfusion de daratumumab"
+}

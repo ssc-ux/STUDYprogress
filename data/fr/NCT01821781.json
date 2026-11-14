@@ -1,0 +1,29 @@
+{
+ "h": "08dabc07e024r",
+ "date": "2026-11-14",
+ "titre": "Greffe de cellules souches à conditionnement atténué dans les déficits immunitaires",
+ "question": "Un conditionnement immunosuppresseur atténué permet-il la prise de greffe de cellules souches hématopoïétiques de donneur avec une toxicité acceptable dans les déficits immunitaires ?",
+ "contexte": "Les déficits immunitaires primitifs et les maladies de dysrégulation immunitaire (déficit immunitaire combiné sévère, granulomatose septique, syndrome de Wiskott-Aldrich, hyper-IgM, DICV, lymphohistiocytose hémophagocytaire, IPEX, ALPS, syndrome lymphoprolifératif lié à l'X) peuvent être guéris par greffe de cellules souches hématopoïétiques. Les conditionnements myéloablatifs classiques sont toxiques, surtout chez des patients fragiles ou déjà infectés.\n\nL'hypothèse de cette étude est qu'un conditionnement à intensité réduite, maximisant l'immunosuppression du receveur, réduit le rejet et favorise la prise de greffe avec une toxicité précoce et tardive acceptable.\n\nCette phase 2 monobras, promue par la Washington University School of Medicine, associe alemtuzumab, fludarabine, thiotepa et melphalan avant greffe de donneur apparenté ou non apparenté (moelle, sang périphérique, sang placentaire).",
+ "interet": "Une greffe à toxicité réduite pourrait élargir l'accès à un traitement curatif de déficits immunitaires, dont certains concernent la médecine interne adulte jeune. L'étude documente la prise de greffe à un an et la tolérance.",
+ "profil": "Des patients jusqu'à 28 ans atteints de déficit immunitaire ou de dysrégulation immunitaire, avec un donneur compatible.",
+ "inclusion": [
+  "Âge ≤ 28 ans",
+  "Indice de performance ≥ 40",
+  "DLCO ≥ 40 %, FEVG ≥ 40 % ou FR ≥ 26 %",
+  "Créatinine < 2 N, transaminases ≤ 5 N",
+  "Test de grossesse négatif",
+  "Donneur compatible (fratrie 6/6 ou 8/8, non apparenté 7-8/8, sang placentaire apparenté ou non, ou double cordon)"
+ ],
+ "exclusion": [
+  "VIH I/II",
+  "Grossesse ou allaitement",
+  "Infection fongique ou bactérienne invasive non contrôlée dans le mois précédant l'alemtuzumab",
+  "Infection virale non contrôlée dans la semaine précédente"
+ ],
+ "bras": [
+  { "nom": "Conditionnement à intensité réduite", "traitement": "Alemtuzumab, fludarabine, thiotepa et melphalan, puis greffe de cellules souches hématopoïétiques" }
+ ],
+ "duree": "1 an après la greffe pour le critère principal",
+ "critere": "Nombre de patients avec prise de greffe du donneur à 1 an",
+ "resultats": "Sur 28 patients traités, 22 avaient une prise de greffe du donneur à 1 an après la greffe. Des événements indésirables graves ont été rapportés chez 3 patients, et 4 décès ont été notés dans le registre. Les causes des décès ne sont pas détaillées dans les données retenues. L'étude est monobras, sans comparateur."
+}

@@ -1,0 +1,14 @@
+{
+ "h": "7394f14f2137",
+ "date": "2026-11-14",
+ "titre": "CAR-γδ T universels anti-CD19 (QH103) dans les maladies auto-immunes réfractaires",
+ "question": "Des cellules CAR-γδ T allogéniques anti-CD19 sont-elles sûres et efficaces dans six maladies auto-immunes réfractaires ?",
+ "contexte": "Lupus, sclérodermie, syndrome de Sjögren, vascularites à ANCA, myopathies inflammatoires et syndrome des antiphospholipides partagent une anomalie centrale de l'immunité humorale dépendant des lymphocytes B. Les traitements actuels (corticoïdes, immunosuppresseurs, biothérapies) laissent des patients réfractaires, avec un impact important sur la qualité de vie et parfois le pronostic vital.\n\nLes CAR-T anti-CD19 autologues donnent des rémissions mais leur fabrication individuelle limite l'accès. Les lymphocytes T γδ, issus de donneurs, ont une moindre alloréactivité et pourraient servir de produit universel, « prêt à l'emploi ». QH103 est un produit CAR-γδ T anti-CD19.\n\nCette phase 1/2 de l'hôpital Peking University Third Hospital inclut 9 patients de 18 à 80 ans. Elle évalue la sécurité de QH103 sur 12 mois et la dose maximale tolérée à 28 jours.",
+ "interet": "Elle teste un concept de CAR-T allogénique à lymphocytes γδ, encore très précoce dans les maladies auto-immunes. Les données resteront préliminaires.",
+ "profil": "Des adultes de 18 à 80 ans atteints d'une maladie auto-immune systémique réfractaire, avec lymphocytes B CD19 positifs.",
+ "inclusion": ["Âge de 18 à 80 ans", "Expression de CD19 sur les lymphocytes B sanguins (cytométrie en flux)", "Maladie auto-immune réfractaire : traitement conventionnel inefficace > 6 mois ou rechute après rémission", "Traitement standard stable en cours (corticoïdes, antipaludéens, immunosuppresseurs, biothérapies)", "Critères propres à chaque maladie : non précisé"],
+ "exclusion": ["Allergie médicamenteuse sévère ou terrain allergique", "Infection non contrôlée ou nécessitant un traitement", "Maladie du système nerveux central (épilepsie, trouble psychiatrique, AVC, encéphalite, vascularite cérébrale)", "Dysfonction d'organe majeure : leucocytes < 3 G/L, neutrophiles < 1 G/L, hémoglobine < 60 g/L, plaquettes < 50 G/L, ALAT/ASAT > 3 × LSN, bilirubine > 3 × LSN (sauf cause auto-immune), clairance de la créatinine < 30 mL/min"],
+ "bras": [{"nom": "CAR-γδ T anti-CD19", "traitement": "Cellules CAR-γδ T universelles anti-CD19 (QH103), perfusion unique (dose non précisée)"}],
+ "duree": "12 mois",
+ "critere": "Sécurité de QH103 sur 12 mois et dose maximale tolérée à 28 jours"
+}

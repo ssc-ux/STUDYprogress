@@ -1,0 +1,32 @@
+{
+ "h": "2309889bfdea",
+ "date": "2026-11-14",
+ "titre": "CAR-NK anti-CD19/BCMA (KN5601) dans les maladies rhumatologiques réfractaires de l'enfant",
+ "question": "Les cellules CAR-NK anti-CD19/BCMA (KN5601) sont-elles sûres chez des enfants ayant une maladie rhumatologique réfractaire ?",
+ "contexte": "Les maladies rhumatologiques pédiatriques sévères (lupus, arthrites, connectivites avec pneumopathie interstitielle) peuvent résister aux immunosuppresseurs et aux biothérapies, avec des atteintes d'organe et des effets secondaires cumulés chez l'enfant. Les CAR-T ont donné des résultats encourageants mais s'accompagnent d'un risque de syndrome de relargage cytokinique et de neurotoxicité.\n\nLes cellules CAR-NK allogéniques sont considérées comme plus sûres que les CAR-T, car elles induisent moins de relargage cytokinique et pas de réaction du greffon contre l'hôte. Le KN5601 cible à la fois CD19 (lymphocytes B) et BCMA (plasmocytes). Cette étude pilote de phase 1 ouverte, à un bras, de l'hôpital pour enfants de l'université du Zhejiang prévoit 36 patients de 5 ans ou plus. Après lymphodéplétion par fludarabine et cyclophosphamide aux jours -5 à -3, les patients reçoivent plusieurs doses de CAR-NK. Le critère principal est l'incidence des toxicités limitantes dans les 28 jours.",
+ "interet": "Une CAR-NK allogénique prête à l'emploi pourrait être mieux adaptée aux enfants que les CAR-T autologues, si sa sécurité et son efficacité sont confirmées.",
+ "profil": "Des enfants de 5 ans ou plus ayant une maladie rhumatologique réfractaire (lupus, arthrite, pneumopathie interstitielle des connectivites, etc.).",
+ "inclusion": [
+  "Âge ≥ 5 ans, consentement du patient ou du tuteur",
+  "Lymphocytes B circulants exprimant CD19, > 5 cellules/µL",
+  "Retour à la normale des lymphocytes B si traitement ciblant les B antérieur",
+  "FEVG ≥ 55 % et ECG sans anomalie significative",
+  "ASAT/ALAT ≤ 3 N, bilirubine ≤ 2 N",
+  "DFGe ≥ 30 mL/min/1,73 m² (inclusion possible en deçà après évaluation bénéfice-risque)"
+ ],
+ "exclusion": [
+  "Cancer actuel ou antérieur (sauf cancers cutanés ou carcinome in situ du col guéris depuis ≥ 5 ans)",
+  "Allergie à une composante du traitement (CAR-NK, fludarabine, cyclophosphamide, tocilizumab)",
+  "Infection virale ou bactérienne active sévère ou fongique non contrôlée",
+  "Insuffisance cardiaque NYHA III-IV",
+  "Cardiopathie congénitale, infarctus dans les 6 mois, arythmie sévère"
+ ],
+ "bras": [
+  {
+   "nom": "KN5601",
+   "traitement": "Fludarabine + cyclophosphamide aux jours -5, -4 et -3, puis plusieurs doses de CAR-NK anti-CD19/BCMA (KN5601)"
+  }
+ ],
+ "duree": "Non précisé (toxicités sur 28 jours)",
+ "critere": "Incidence des toxicités limitantes jusqu'à 28 jours après la perfusion"
+}

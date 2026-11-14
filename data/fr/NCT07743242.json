@@ -1,0 +1,14 @@
+{
+ "h": "b4a6f2701ca1",
+ "date": "2026-11-14",
+ "titre": "Anémie hémolytique auto-immune et syndrome des antiphospholipides : implications cliniques",
+ "question": "Quelles sont les conséquences cliniques (thromboses, atteintes d'organes, évolution) d'une anémie hémolytique auto-immune chez les patients ayant un syndrome des antiphospholipides ?",
+ "contexte": "L'anémie hémolytique auto-immune (AHAI) est une cytopénie auto-immune hétérogène, de gravité variable et de morbidité significative. Le syndrome des antiphospholipides (SAPL) associe thromboses et/ou morbidité obstétricale à des anticorps antiphospholipides (aPL) persistants.\n\nL'AHAI survient chez environ 10 à 12 % des patients ayant un SAPL, et s'accompagne de thromboses artérielles, de valvulopathie cardiaque, de livedo, d'épilepsie ou de chorée, signant un phénotype plus sévère. Les patients hospitalisés pour AHAI avec SAPL ont un risque de thrombose veineuse nettement plus élevé (OR environ 8,6) que ceux sans SAPL. Le SAPL hématologique (AHAI ± thrombopénie) peut précéder ou accompagner le SAPL thrombotique ou obstétrical selon le profil d'aPL.\n\nIl faut donc définir systématiquement les implications cliniques de l'AHAI dans le SAPL. Cette étude de New Valley University (Égypte) compare 230 patients avec SAPL, avec ou sans AHAI.",
+ "interet": "Les résultats pourraient aider à identifier les patients SAPL à risque thrombotique accru en cas d'AHAI et à guider la surveillance. Étude comparative monocentrique, ne démontrant pas de causalité.",
+ "profil": "Des adultes atteints de syndrome des antiphospholipides, avec ou sans anémie hémolytique auto-immune.",
+ "inclusion": ["Adultes ≥ 18 ans", "Anémie compatible avec une hémolyse", "Syndrome des antiphospholipides diagnostiqué", "Consentement éclairé"],
+ "exclusion": ["Âge < 18 ans", "Anémie d'une cause autre qu'une hémolyse auto-immune"],
+ "bras": [{"nom": "SAPL avec AHAI", "traitement": "Patients avec anémie, hémolyse (LDH élevées, bilirubine indirecte élevée, haptoglobine basse, réticulocytose) et test de Coombs direct positif ; pas d'intervention imposée"}, {"nom": "SAPL sans AHAI", "traitement": "Patients sans signe d'hémolyse ; pas d'intervention imposée"}],
+ "duree": "Non précisé",
+ "critere": "Nombre d'événements thrombotiques chez les patients SAPL avec AHAI, à l'inclusion"
+}

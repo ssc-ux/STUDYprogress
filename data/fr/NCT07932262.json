@@ -1,0 +1,14 @@
+{
+ "h": "43655c4476f3",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 (UKT-CART19.1) dans les maladies auto-immunes réfractaires : essai panier de phase 1/2",
+ "question": "Les CAR-T anti-CD19 UKT-CART19.1 sont-ils faisables et sûrs dans plusieurs maladies auto-immunes en rechute ou réfractaires ?",
+ "contexte": "Une proportion de patients atteints de maladies auto-immunes sévères (vascularite à ANCA, myopathie inflammatoire, polyarthrite rhumatoïde, sclérodermie systémique, pemphigus, PTI, sclérose en plaques) reste en échec des immunosuppresseurs et biothérapies usuels. Dans ces maladies, les lymphocytes B autoréactifs et les plasmablastes jouent un rôle central.\n\nLes lymphocytes T à récepteur chimérique d'antigène (CAR-T) dirigés contre CD19, développés d'abord en hématologie, éliminent en profondeur les lymphocytes B. Les premières séries, surtout dans le lupus, ont rapporté des rémissions prolongées sans traitement de fond, ce qui a conduit à les tester dans d'autres maladies. Cet essai monocentrique de l'hôpital universitaire de Tübingen est un essai panier à un seul bras, non comparatif : 36 patients sont traités par UKT-CART19.1, avec un critère d'activité et de réfractarité propre à chaque maladie (par exemple DAS28 > 4 dans la PR, BVAS > 6 dans les vascularites, aggravation du score cutané de Rodnan ou de la CVF dans la sclérodermie). L'objectif principal est la tolérance à 6 mois.",
+ "interet": "L'étude apportera des données de tolérance sur un CAR-T académique dans plusieurs maladies auto-immunes. Elle ne permettra pas de conclure sur l'efficacité, vu l'absence de comparateur et les petits effectifs par maladie.",
+ "profil": "Des adultes de 18 à 80 ans atteints d'une maladie auto-immune active, réfractaire à au moins deux traitements standards.",
+ "inclusion": ["Âge de 18 à 80 ans", "Une des maladies suivantes : myopathie inflammatoire, vascularite à ANCA, PR, sclérodermie, pemphigus vulgaire, PTI ou sclérose en plaques", "Maladie active selon des seuils propres à chaque pathologie (CPK, BVAS, DAS28, PDAI, EDSS/IRM, plaquettes, mRSS/CVF/DLCO)", "Réfractaire à au moins 2 traitements standards (4 dans la PR)", "Consentement éclairé signé"],
+ "exclusion": ["Non précisé dans l'extrait disponible du registre"],
+ "bras": [{ "nom": "Bras unique", "traitement": "Lymphocytes T CAR anti-CD19 autologues (UKT-CART19.1), ouvert, non randomisé" }],
+ "duree": "Suivi principal de 6 mois (étude jusqu'à environ 2028)",
+ "critere": "Tolérance de UKT-CART19.1 dans les maladies auto-immunes réfractaires, à 6 mois."
+}

@@ -1,0 +1,27 @@
+{
+ "h": "356b90ca4e95",
+ "date": "2026-11-14",
+ "titre": "Surovatamig sous-cutané dans la polyarthrite rhumatoïde ou le lupus (phase 1)",
+ "question": "Le surovatamig administré par voie sous-cutanée est-il bien toléré chez des adultes atteints de polyarthrite rhumatoïde ou de lupus ?",
+ "contexte": "La polyarthrite rhumatoïde (PR) et le lupus érythémateux systémique (LES) sont des maladies auto-immunes où les lymphocytes B ont un rôle central. De nombreux patients restent en échec malgré plusieurs biothérapies ou inhibiteurs de JAK, et les traitements actuels doivent être poursuivis au long cours. Les CAR-T anti-CD19 ont induit des rémissions dans le lupus et d'autres maladies, mais sont complexes à produire et nécessitent une lymphodéplétion.\n\nLe surovatamig (AZD0486) est un anticorps bispécifique CD19 x CD3, qui engage les lymphocytes T contre les lymphocytes B. Il est développé par AstraZeneca d'abord en hématologie. Cet essai de phase 1 ouvert, multicentrique, non randomisé, inclut 48 adultes de 18 à 65 ans. La partie 1 est une escalade de dose unique chez des patients atteints de PR. Les parties 2 et 3 testent des schémas à doses croissantes (deux ou trois administrations) dans la PR ou le LES. Les patients PR doivent avoir échoué à au moins deux b/tsDMARDs de mécanismes différents.",
+ "interet": "Il fournit les premières données chez des patients auto-immuns d'un engageur de lymphocytes T anti-CD19 sous-cutané, une alternative potentielle aux CAR-T.",
+ "profil": "Des adultes de 18 à 65 ans atteints de polyarthrite rhumatoïde réfractaire ou de lupus actif.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "PR : critères EULAR/ACR 2010, RF ou ACPA positifs, DAS28-CRP > 3,2 avec ≥ 4 articulations douloureuses et gonflées (≥ 6 aux États-Unis)",
+  "PR : échec ou intolérance à au moins 2 b/tsDMARDs de mécanismes différents après échec d'un csDMARD",
+  "LES : critères EULAR/ACR 2019, auto-anticorps spécifiques (AAN ≥ 1:80, anti-ADN natif ou anti-Sm), activité modérée à sévère",
+  "Traitements de fond limités autorisés (prednisone ≤ 10 mg/j stable, antipaludéen, méthotrexate, sulfasalazine, léflunomide)"
+ ],
+ "exclusion": [
+  "Non détaillé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Surovatamig",
+   "traitement": "Injection sous-cutanée en 1 dose (partie 1), 2 doses (partie 2) ou 3 doses (partie 3) selon la partie de l'étude"
+  }
+ ],
+ "duree": "Jusqu'à 52 semaines",
+ "critere": "Événements indésirables (graves ou d'intérêt particulier), toxicités limitant la dose, événements entraînant l'arrêt, anomalies des constantes, biologiques et de l'ECG, jusqu'à 52 semaines"
+}

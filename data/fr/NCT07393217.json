@@ -1,0 +1,14 @@
+{
+ "h": "4fe5da4f1906",
+ "date": "2026-11-14",
+ "titre": "FAP circulante et fibrose dans la polyarthrite rhumatoïde et la sclérodermie systémique",
+ "question": "Le taux sanguin de la protéine d'activation des fibroblastes (FAP) est-il corrélé à la fibrose et à l'activité de la PR et de la SSc ?",
+ "contexte": "La fibrose est une cause majeure de morbidité dans la sclérodermie systémique (SSc), notamment par l'atteinte pulmonaire interstitielle, et elle complique aussi certaines polyarthrites rhumatoïdes (PR). On manque de biomarqueurs sanguins simples pour suivre l'activité fibrosante et l'atteinte pulmonaire.\n\nLa protéine d'activation des fibroblastes (FAP) est une protéase exprimée à la surface des fibroblastes activés, impliquée dans le remodelage tissulaire, la fibrose et l'inflammation. Une forme circulante existe et pourrait refléter cette activité. La FAP est déjà étudiée comme cible en imagerie et en thérapeutique dans les maladies fibrosantes.\n\nCette étude observationnelle monocentrique, promue par l'université de Sohag (Égypte), dosera la FAP sérique par ELISA chez des patients avec PR ou SSc et chez des témoins sains. Les taux seront comparés aux données cliniques, à l'imagerie et aux explorations fonctionnelles respiratoires. La participation ne modifie pas la prise en charge habituelle.",
+ "interet": "L'étude pourrait préciser si la FAP sérique est un marqueur utile de l'activité de la maladie et de l'atteinte pulmonaire. Elle reste exploratoire et ne change pas la pratique à ce stade.",
+ "profil": "Des adultes atteints de PR ou de SSc, et des témoins sains.",
+ "inclusion": ["Âge ≥ 18 ans", "PR ou SSc confirmée (critères ACR/EULAR)", "Capacité et volonté de donner un consentement", "Patient coopérant, capable de répondre aux questions"],
+ "exclusion": ["Âge < 18 ans", "Cancer actif ou antécédent de cancer datant de moins de 5 ans", "Autre maladie fibrosante systémique majeure pouvant fausser le dosage", "Infection aiguë au moment du prélèvement", "Grossesse ou allaitement", "Autre maladie auto-immune"],
+ "bras": [{"nom": "Patients avec PR", "traitement": "Dosage sérique de la FAP (ELISA)"}, {"nom": "Patients avec SSc", "traitement": "Dosage sérique de la FAP (ELISA)"}, {"nom": "Témoins sains", "traitement": "Dosage sérique de la FAP (ELISA)"}],
+ "duree": "Prélèvement unique (jour 1)",
+ "critere": "Concentration sérique de FAP mesurée par ELISA à l'inclusion."
+}

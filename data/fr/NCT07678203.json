@@ -1,0 +1,34 @@
+{
+ "h": "7c9ec65327e4",
+ "date": "2026-11-14",
+ "titre": "Dapagliflozine dans la néphrite lupique de diagnostic récent",
+ "question": "La dapagliflozine ajoutée au traitement standard améliore-t-elle la rémission rénale à 3 mois chez des patients ayant une néphrite lupique récente ?",
+ "contexte": "La néphrite lupique est l'une des complications les plus graves du lupus et une cause majeure de maladie rénale chronique, en particulier en Amérique latine, où elle survient plus tôt et suit un cours plus agressif. Malgré les immunosuppresseurs, une proportion importante de patients n'obtient pas de récupération rénale durable, et la protéinurie persiste avec déclin du DFG.\n\nLes inhibiteurs de SGLT2 comme la dapagliflozine ont démontré un bénéfice rénal dans plusieurs maladies rénales chroniques (diabète, néphropathies protéinuriques non diabétiques) en réduisant la pression intraglomérulaire, l'inflammation et la fibrose. Les données dans la néphrite lupique restent limitées, les patients lupiques ayant été exclus ou peu représentés dans les essais pivots. Cette étude de phase 1/2 de l'hôpital civil Juan I. Menchaca (Mexique) randomise 30 adultes ayant une néphrite lupique récente (protéinurie > 500 mg/j) entre le traitement standard plus dapagliflozine 10 mg/j pendant 3 mois et le traitement standard seul. Le critère principal est la rémission rénale définie par KDIGO 2024.",
+ "interet": "Si le bénéfice se confirme, la dapagliflozine serait un traitement néphroprotecteur facile à ajouter dans la néphrite lupique. L'effectif est faible et le suivi court.",
+ "profil": "Des adultes ayant une néphrite lupique active récemment diagnostiquée, avec protéinurie > 500 mg/j.",
+ "inclusion": [
+  "Âge > 18 ans, consentement écrit",
+  "LES selon critères EULAR/ACR 2019",
+  "Néphrite lupique active : biopsie (classes I à V ou mixtes, ISN/RPS 2018) ou critères cliniques de l'atteinte rénale selon le SELENA-SLEDAI ou Mex-SLEDAI",
+  "Protéinurie > 500 mg/j (RPCU sur échantillon ou recueil de 24 heures)"
+ ],
+ "exclusion": [
+  "Néphrite lupique diagnostiquée depuis plus de 6 mois",
+  "Traitement actuel par un inhibiteur de SGLT2, sulfamide hypoglycémiant ou pompe à insuline",
+  "Contre-indication aux iSGLT2 (MRC KDIGO stade IV ou DFGe < 20 mL/min, déshydratation, infection aiguë grave, chirurgie proche, infections urinaires ou génitales sévères ou récurrentes)",
+  "Grossesse, post-partum ou allaitement",
+  "État grave (réanimation, ventilation, défaillance multiviscérale, infection sévère)"
+ ],
+ "bras": [
+  {
+   "nom": "Dapagliflozine",
+   "traitement": "Traitement standard + dapagliflozine 10 mg/j pendant 3 mois"
+  },
+  {
+   "nom": "Suivi seul",
+   "traitement": "Traitement standard seul, avec suivi"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Rémission rénale selon la définition KDIGO 2024, évaluée à 1 mois et 3 mois"
+}

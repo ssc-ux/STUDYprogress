@@ -1,0 +1,32 @@
+{
+ "h": "d154f85f67be",
+ "date": "2026-11-14",
+ "titre": "Hétrombopag chez l'enfant atteint de PTI chronique",
+ "question": "L'hétrombopag, agoniste du récepteur de la thrombopoïétine, permet-il d'obtenir un taux de plaquettes ≥ 50 G/L chez des enfants atteints de PTI chronique ?",
+ "contexte": "Chez l'enfant, le purpura thrombopénique immunologique (PTI) guérit souvent spontanément. Une minorité évolue vers un PTI chronique (plus de 12 mois), avec une thrombopénie persistante et un risque hémorragique. Après échec des traitements de première ligne, les agonistes du récepteur de la thrombopoïétine (romiplostim, eltrombopag) sont les principales options.\n\nL'hétrombopag est un agoniste oral du récepteur de la thrombopoïétine, déjà utilisé chez l'adulte atteint de PTI en Chine, promu par Jiangsu HengRui.\n\nCette phase 3 comprend deux parties : en partie A, ouverte, tous les patients reçoivent l'hétrombopag 8 semaines (modélisation pharmacocinétique) ; en partie B, randomisation en double aveugle contre placebo pendant 12 semaines, puis traitement ouvert de 12 semaines, chez 100 enfants de 6 à 17 ans.",
+ "interet": "L'étude pourrait élargir à l'enfant les options d'agonistes du récepteur de la thrombopoïétine dans le PTI chronique. Elle apportera des données pédiatriques de pharmacocinétique et de tolérance.",
+ "profil": "Des enfants et adolescents de 6 à 17 ans atteints de PTI chronique déjà traité.",
+ "inclusion": [
+  "Âge de 6 à 17 ans",
+  "PTI confirmé depuis au moins 6 mois (partie A) ou 12 mois (partie B)",
+  "Plaquettes < 30 G/L sur deux mesures consécutives",
+  "Réfractaire ou en rechute après au moins un traitement du PTI",
+  "Contraception pendant l'étude et 28 jours après",
+  "Consentement du tuteur et assentiment de l'enfant (> 8 ans)"
+ ],
+ "exclusion": [
+  "Autre cause de thrombopénie",
+  "Syndrome d'Evans ou de Wiskott-Aldrich",
+  "Antécédent de thrombose artérielle ou veineuse, thrombophilie",
+  "Maladie grave, progressive ou non contrôlée (rein, foie, tube digestif, endocrine, poumon, cœur, système nerveux, psychiatrique)",
+  "ALAT, ASAT ou PAL > 1,5 N, créatinine > 1,2 N",
+  "VIH, anticorps anti-VHC ou Ag HBs positifs, troubles de la coagulation, autre essai dans les 3 mois"
+ ],
+ "bras": [
+  { "nom": "Partie A", "traitement": "Hétrombopag avec traitement habituel, en ouvert, 8 semaines" },
+  { "nom": "Partie B : hétrombopag", "traitement": "Hétrombopag avec traitement habituel, double aveugle, 12 semaines, puis ouvert 12 semaines" },
+  { "nom": "Partie B : placebo", "traitement": "Placebo avec traitement habituel, double aveugle, 12 semaines" }
+ ],
+ "duree": "24 semaines de traitement en partie B (8 semaines en partie A)",
+ "critere": "Paramètres de pharmacocinétique et de pharmacodynamie de population en partie A ; proportion de patients avec plaquettes ≥ 50 G/L à la semaine 10"
+}

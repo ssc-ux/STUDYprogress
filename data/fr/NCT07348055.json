@@ -1,0 +1,41 @@
+{
+ "h": "c7b92418e138",
+ "date": "2026-11-14",
+ "titre": "GR1803 dans le lupus systémique (phase 1/2)",
+ "question": "Le GR1803 est-il sûr, et quelle dose retenir, chez des adultes ayant un lupus actif malgré un traitement standard ?",
+ "contexte": "Le lupus systémique actif malgré les corticoïdes, les antipaludéens et les immunosuppresseurs reste un besoin médical important. Les traitements ciblés disponibles (bélimumab, anifrolumab) ne contrôlent pas tous les patients, ce qui motive des essais de nouvelles molécules.\n\nLe GR1803 est un produit expérimental de Genrix (Shanghai) Biopharmaceutical, administré en injection ; le registre ne précise ni son mécanisme ni sa voie d'administration. Cette étude de phase 1/2 non randomisée, à doses croissantes séquentielles, inclut 44 adultes de 18 à 60 ans avec un lupus actif (SLEDAI-2K ≥ 6) malgré au moins 3 mois de traitement adéquat. Quatre niveaux de dose sont étudiés. Le critère principal est l'incidence des événements indésirables sur 52 semaines. Il n'y a pas de groupe contrôle, et l'étude ne permettra pas de conclure sur l'efficacité.",
+ "interet": "Elle déterminera la tolérance et la dose du GR1803 dans le lupus avant des phases ultérieures randomisées.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus actif (SLEDAI-2K ≥ 6) malgré un traitement standard.",
+ "inclusion": [
+  "Diagnostic confirmé de lupus systémique",
+  "SLEDAI-2K ≥ 6",
+  "Consentement écrit et capacité à respecter le protocole",
+  "Corticoïdes, antipaludéens et immunosuppresseurs à dose adéquate pendant 3 mois"
+ ],
+ "exclusion": [
+  "Maladie aiguë ou chronique instable",
+  "Infection active",
+  "Cancer dans les 5 ans",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "GR1803 dose 1",
+   "traitement": "Injection de GR1803, dose 1 (non précisée)"
+  },
+  {
+   "nom": "GR1803 dose 2",
+   "traitement": "Injection de GR1803, dose 2 (non précisée)"
+  },
+  {
+   "nom": "GR1803 dose 3",
+   "traitement": "Injection de GR1803, dose 3 (non précisée)"
+  },
+  {
+   "nom": "GR1803 dose 4",
+   "traitement": "Injection de GR1803, dose 4 (non précisée)"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Incidence des événements indésirables sur 52 semaines"
+}

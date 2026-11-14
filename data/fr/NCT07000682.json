@@ -1,0 +1,14 @@
+{
+ "h": "e6e3d45de6b1",
+ "date": "2026-11-14",
+ "titre": "UTAA91, thérapie cellulaire, dans la sclérodermie systémique réfractaire",
+ "question": "L'injection de UTAA91 est-elle sûre chez des patients atteints de sclérodermie systémique active réfractaire ?",
+ "contexte": "La sclérodermie systémique (SSc) est une maladie auto-immune rare associant vasculopathie, fibrose cutanée et viscérale et atteinte pulmonaire interstitielle. Les traitements actuels (mycophénolate, cyclophosphamide, rituximab, tocilizumab, greffe de cellules souches hématopoïétiques dans les formes sévères) ont des effets limités, et certains patients restent en échec.\n\nLes cellules CAR-T ciblant CD19 ont donné des résultats encourageants dans des séries de cas de lupus et de SSc réfractaires, avec une déplétion B profonde et une amélioration clinique, y compris cutanée et pulmonaire. Ces approches visent un « reset » immunologique.\n\nL'essai évalue UTAA91, un produit biologique injectable dont la nature exacte n'est pas détaillée dans le registre, mais dont les critères d'exclusion (antécédent de CAR-T ou de thérapie cellulaire génétiquement modifiée, infusion de cellules) indiquent une thérapie cellulaire. Il s'agit d'une étude de phase 1 monocentrique, ouverte, à bras unique, menée à l'hôpital Union de Wuhan (Tongji). Son objectif principal est la tolérance.",
+ "interet": "L'étude apportera les premières données de tolérance de ce produit dans la SSc réfractaire. Elle s'inscrit dans le développement des thérapies cellulaires pour les maladies auto-immunes sévères, encore très expérimental.",
+ "profil": "Des adultes atteints de sclérodermie systémique modérée à sévère, active, réfractaire aux traitements standard.",
+ "inclusion": ["Âge ≥ 18 ans, tous sexes", "Survie attendue ≥ 3 mois", "SSc active modérée à sévère, en échec des traitements standard ou sans option efficace", "Fonctions hépatique, rénale et cardiopulmonaire suffisantes", "Absence de trouble psychiatrique sévère, consentement signé"],
+ "exclusion": ["Tumeur maligne dans les 5 ans (hors maladie auto-immune)", "Sérologies virales ou syphilis positives", "Maladie cardiaque sévère ou maladie systémique instable", "Infection active ou non contrôlée, atteinte du système nerveux central", "Grossesse, allaitement ou projet de grossesse dans les 2 ans (patiente ou partenaire)", "Antécédent de CAR-T ou autre thérapie cellulaire génétiquement modifiée", "Participation à une autre étude dans le mois précédent"],
+ "bras": [{"nom": "UTAA91", "traitement": "Injection de UTAA91, bras unique, ouvert"}],
+ "duree": "Environ 1 an",
+ "critere": "Événements indésirables sur environ 1 an."
+}

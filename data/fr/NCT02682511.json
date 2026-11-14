@@ -1,0 +1,14 @@
+{
+ "h": "68f379eee9b1",
+ "date": "2026-11-14",
+ "titre": "Ifétroban oral dans la sclérodermie systémique diffuse ou l'HTAP associée à la sclérodermie",
+ "question": "L'ifétroban est-il sûr et efficace, versus placebo, dans la sclérodermie systémique cutanée diffuse ou l'HTAP associée à la sclérodermie ?",
+ "contexte": "La sclérodermie systémique est une maladie auto-immune où inflammation, vasculopathie et fibrose touchent la peau et les organes internes. La forme cutanée diffuse est la plus sévère, et l'hypertension artérielle pulmonaire (HTAP) associée reste l'une des principales causes de mortalité. Les traitements disponibles contrôlent mal la fibrose et la progression de la maladie vasculaire.\n\nL'ifétroban est un antagoniste oral du récepteur du thromboxane A2 / des prostaglandines endoperoxydes. Cette voie intervient dans l'agrégation plaquettaire, la vasoconstriction et la fibrogenèse, ce qui justifie de la tester dans la sclérodermie. Cet essai de phase 2, randomisé en double aveugle contre placebo, promu par Cumberland Pharmaceuticals, inclut 34 patients : 14 avec une forme diffuse et 20 avec une HTAP. Le traitement dure 12 mois, suivi de 30 jours d'observation. L'objectif principal est la tolérance ; l'étude explore aussi la capacité de l'ifétroban à prévenir ou faire régresser l'évolution de la maladie, selon son ancienneté.",
+ "interet": "Il s'agit d'une première évaluation de l'inhibition de la voie du thromboxane dans la sclérodermie. Les résultats, avec un faible effectif, serviront surtout à décider d'un éventuel essai de phase 3.",
+ "profil": "Des adultes de 18 à 80 ans atteints de sclérodermie systémique diffuse récente ou d'HTAP associée à la sclérodermie.",
+ "inclusion": ["Sclérodermie systémique selon les critères ACR/EULAR 2013", "Forme diffuse : début des symptômes non Raynaud depuis moins de 7 ans", "HTAP associée confirmée par cathétérisme cardiaque droit", "HTAP : traitement oral stable depuis au moins 30 jours", "HTAP : insuffisance cardiaque NYHA I à III"],
+ "exclusion": ["Sclérodermie sans sclérodermie cutanée (sine scleroderma)", "Traitement par prostanoïdes ou pirfénidone", "Corticoïdes > 15 mg/j d'équivalent prednisone", "Atteinte pulmonaire significative (CVF < 50 % ou DLCO < 40 %)", "Insuffisance rénale (DFG < 60 mL/min) ou hépatique modérée à sévère", "Anticoagulants dans les 30 derniers jours ou aspirine > 81 mg/j", "Contre-indication à l'IRM ou au gadolinium"],
+ "bras": [{ "nom": "Sclérodermie diffuse", "traitement": "Ifétroban oral ou placebo, une fois par jour pendant 365 jours" }, { "nom": "HTAP associée à la sclérodermie", "traitement": "Ifétroban oral ou placebo, une fois par jour pendant 365 jours" }],
+ "duree": "Environ 12 mois de traitement, suivi total de 56 semaines",
+ "critere": "Fréquence des événements indésirables et événements indésirables graves sur 56 semaines."
+}

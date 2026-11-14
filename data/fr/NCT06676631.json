@@ -1,0 +1,32 @@
+{
+ "h": "b2ab33e6d431",
+ "date": "2026-11-14",
+ "titre": "Cellules NK (NK010 ou NK042) et rituximab dans le lupus réfractaire",
+ "question": "L'association de cellules NK (NK010 ou NK042) et de rituximab est-elle sûre et efficace dans le lupus ou la néphrite lupique réfractaires ?",
+ "contexte": "Le lupus et la néphrite lupique réfractaires malgré les corticoïdes, les immunosuppresseurs et les biothérapies sont une impasse thérapeutique. Le rituximab déplète les lymphocytes B circulants, mais la déplétion tissulaire est souvent incomplète. Les cellules NK allogéniques peuvent détruire les cellules B opsonisées par un anticorps anti-CD20 par cytotoxicité cellulaire dépendante des anticorps, ce qui pourrait renforcer l'effet du rituximab.\n\nCette étude de phase 1 ouverte à un bras, à promotion académique (hôpital provincial du Guangdong), prévoit 18 patients de 18 à 65 ans ayant un lupus (SLEDAI-2K ≥ 8) ou une néphrite lupique active de classe III/IV (± V), malgré au moins 3 mois de traitement. Le schéma est de 1 000 mg de rituximab au jour 1, puis NK010 ou NK042 aux jours 4, 6 et 8. Le suivi dure 1 an. Les critères portent sur la réponse SRI-4, la réponse rénale et l'état de faible activité (LLDAS), à plusieurs temps.",
+ "interet": "Une approche cellulaire allogénique plus simple que les CAR-T pourrait élargir l'accès aux thérapies de déplétion B profonde. Les données resteront préliminaires.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus ou de néphrite lupique réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus selon critères EULAR/ACR 2019, SLEDAI-2K ≥ 8",
+  "Néphrite lupique active de classe III ou IV (± V) prouvée par biopsie, avec RPCU ≥ 1,0 g/g ou protéinurie ≥ 1,0 g/j",
+  "ANA, anti-ADN ou anti-Sm positifs",
+  "Corticoïdes + immunosuppresseurs ± biothérapies pendant ≥ 3 mois, doses stables > 2 semaines, maladie toujours active"
+ ],
+ "exclusion": [
+  "Dialyse actuelle ou prévue",
+  "Greffe d'organe ou de cellules souches, antérieure ou prévue",
+  "Déficit immunitaire congénital ou acquis, ou substitution en immunoglobulines",
+  "Connectivite mixte ou sclérodermie active, ou syndrome de chevauchement pouvant gêner l'évaluation",
+  "Traitement déplétant les lymphocytes B (anti-CD20, anti-CD19, bortézomib) dans les 6 mois",
+  "Biothérapie récente (bélimumab, anifrolumab…) selon le délai du protocole"
+ ],
+ "bras": [
+  {
+   "nom": "NK010 ou NK042",
+   "traitement": "Rituximab 1 000 mg au jour 1, puis cellules NK010 ou NK042 aux jours 4, 6 et 8"
+  }
+ ],
+ "duree": "1 an",
+ "critere": "Taux de réponse SRI-4, réponse rénale et LLDAS aux jours 14 et 28 puis aux mois 2, 3, 6, 9 et 12"
+}
