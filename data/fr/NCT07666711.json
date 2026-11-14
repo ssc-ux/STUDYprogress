@@ -1,0 +1,14 @@
+{
+ "h": "310596296df8",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs sanguins et urinaires de la néphrite lupique (SILENT-LN, Oslo)",
+ "question": "Un score combiné de biomarqueurs sanguins et urinaires permet-il de détecter la néphrite lupique active et de prédire sa survenue ou ses rechutes ?",
+ "contexte": "La néphrite lupique touche 40 à 60 % des patients lupiques et reste une cause majeure d'insuffisance rénale chronique. Son diagnostic repose sur la protéinurie, le sédiment urinaire, la créatinine, les complémentaires et, au final, la biopsie rénale, invasive. Les marqueurs usuels détectent parfois tardivement l'atteinte ou sa rechute, et reflètent mal l'activité inflammatoire intrarénale.\n\nSILENT-LN est une cohorte prospective observationnelle monocentrique, à l'hôpital universitaire d'Oslo (Rikshospitalet), qui pourrait s'étendre à d'autres centres. Elle inclut 500 adultes lupiques, avec ou sans atteinte rénale, suivis jusqu'à 5 ans. Des biomarqueurs prédéfinis sont dosés dans le sang et les urines lors des visites de routine ou en cas de suspicion d'atteinte rénale.\n\nUne élévation prédéfinie ou persistante déclenche une évaluation rénale structurée. Une biopsie ou une re-biopsie peut alors être proposée si l'évaluation conclut à une atteinte probable, une rechute possible ou un doute sur l'activité inflammatoire, et si elle est jugée sûre. L'élévation seule n'impose pas de biopsie. Les analyses portent sur la néphrite active, la néphrite incidente, les rechutes, la réponse au traitement, la rémission et le devenir rénal à long terme.",
+ "interet": "Si le score est performant, il pourrait aider à dépister plus tôt une néphrite lupique et à orienter l'indication de la biopsie. L'étude ne modifie pas la prise en charge de routine.",
+ "profil": "Des adultes lupiques suivis à Oslo, avec ou sans néphrite lupique actuelle ou passée.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus systémique selon des critères de classification reconnus", "Suivi de routine à l'hôpital universitaire d'Oslo ou dans un centre participant", "Consentement éclairé", "Prélèvements sanguins et/ou urinaires acceptés", "Pour la validation par biopsie : élévation d'un biomarqueur avec suspicion d'atteinte rénale"],
+ "exclusion": ["Impossibilité de consentir (hors procédure alternative approuvée)", "Maladie rénale connue non liée au lupus empêchant l'interprétation", "Greffe rénale antérieure", "Infection active ou instabilité médicale au moment du prélèvement", "Pour la biopsie : biopsie jugée dangereuse ou contre-indiquée, ou refus du patient"],
+ "bras": [{"nom": "Adultes lupiques", "traitement": "Suivi de routine avec dosage répété de biomarqueurs sanguins et urinaires ; biopsie rénale si indiquée"}],
+ "duree": "Jusqu'à 5 ans",
+ "critere": "Aire sous la courbe ROC du score combiné de biomarqueurs sanguins et urinaires pour la néphrite lupique active, de l'inclusion à la fin de l'étude (jusqu'à 5 ans)"
+}

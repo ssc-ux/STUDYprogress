@@ -1,0 +1,26 @@
+{
+ "h": "78aee9754917",
+ "date": "2026-11-14",
+ "titre": "Sovleplenib (HMPL-523) versus placebo dans le purpura thrombopénique immunologique chronique",
+ "question": "Le sovleplenib, inhibiteur de SYK, permet-il une réponse plaquettaire durable chez des adultes atteints de PTI primaire chronique ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune où des auto-anticorps dirigés contre les plaquettes entraînent leur destruction par les macrophages spléniques. Après les corticoïdes et les immunoglobulines IV, les options de seconde ligne comprennent le rituximab, les agonistes du récepteur de la thrombopoïétine, le fostamatinib et la splénectomie. Une partie des patients rechute ou reste intolérante.\n\nLa tyrosine kinase SYK intervient dans la signalisation des récepteurs Fc des macrophages. Son inhibition réduit la phagocytose des plaquettes opsonisées. Le fostamatinib est un inhibiteur de SYK déjà utilisé dans le PTI. Le sovleplenib (HMPL-523) est un inhibiteur oral de SYK plus sélectif, développé par Hutchmed.\n\nCette phase 3 randomisée en double aveugle contre placebo (188 patients dans la phase en aveugle), a été menée en Chine. Elle est suivie d'une phase ouverte pour la tolérance et l'efficacité à long terme.",
+ "interet": "L'étude vise à positionner le sovleplenib comme option orale non thrombopoïétique dans le PTI chronique après échec d'un traitement. Les résultats préciseront la réponse durable et la tolérance.",
+ "profil": "Des adultes de 18 à 75 ans atteints de PTI chronique (plus de 6 mois), avec thrombopénie sévère après au moins un traitement.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, ECOG 0-1",
+  "PTI diagnostiqué depuis plus de 6 mois",
+  "Intolérance, réponse insuffisante ou rechute après au moins un traitement du PTI, avec antécédent de réponse",
+  "Plaquettes moyennes < 30 G/L sur au moins 3 mesures",
+  "Hémoglobine ≥ 100 g/L, neutrophiles > 1,5 G/L",
+  "Traitement associé autorisé à dose stable : corticoïdes < 20 mg/j, danazol, azathioprine, ciclosporine ou mycophénolate"
+ ],
+ "exclusion": [
+  "Critères d'exclusion détaillés : non précisé dans les données retenues"
+ ],
+ "bras": [
+  { "nom": "Sovleplenib", "traitement": "300 mg par voie orale une fois par jour pendant 24 semaines ; phase ouverte de 76 semaines" },
+  { "nom": "Placebo", "traitement": "Placebo apparié une fois par jour pendant 24 semaines" }
+ ],
+ "duree": "24 semaines en double aveugle, puis phase ouverte",
+ "critere": "Taux de réponse durable entre les semaines 14 et 24"
+}

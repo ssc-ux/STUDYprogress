@@ -1,0 +1,33 @@
+{
+ "h": "a581ec6380ac",
+ "date": "2026-11-14",
+ "titre": "Obe-cel (CAR-T anti-CD19) dans la néphrite lupique réfractaire",
+ "question": "Une perfusion unique d'obécabtagène autoleucel (obe-cel) induit-elle une réponse rénale complète à 6 mois dans la néphrite lupique réfractaire sévère ?",
+ "contexte": "La néphrite lupique de classe III, IV ou V est la manifestation grave la plus fréquente du lupus et reste une cause importante d'insuffisance rénale terminale. Malgré le mycophénolate, le cyclophosphamide, le bélimumab, la voclosporine et l'obinutuzumab, une partie des patients ne répond pas ou rechute. Les séries de CAR-T anti-CD19 ont rapporté des rémissions prolongées, y compris rénales, avec arrêt des traitements.\n\nL'obe-cel, développé par Autolus, est un CAR-T anti-CD19 autologue conçu avec une liaison à la cible de faible affinité et à dissociation rapide, ce qui pourrait réduire la toxicité et favoriser la persistance. Il est autorisé dans la leucémie aiguë lymphoblastique B de l'adulte. Cette étude de phase 2 à un seul bras inclut 35 patients de 12 à 65 ans, avec lupus sévère et néphrite active prouvée par biopsie, réfractaires aux traitements antérieurs. Chacun reçoit une lymphodéplétion puis une perfusion unique d'obe-cel au jour 1. Le critère principal est la réponse rénale complète à 6 mois.",
+ "interet": "Un résultat positif ferait de l'obe-cel une option de recours dans la néphrite lupique réfractaire. L'absence de comparateur limite la portée des résultats.",
+ "profil": "Des personnes de 12 à 65 ans ayant un lupus sévère réfractaire avec néphrite active de classe III, IV ou V.",
+ "inclusion": [
+  "Âge de 12 à 65 ans, consentement (ou représentant légal)",
+  "LES selon critères EULAR/ACR 2019 avec ANA, anti-ADN ou anti-Sm positif",
+  "SLEDAI-2K ≥ 8",
+  "Néphrite lupique sévère active sur biopsie : classe III, IV ou V (V seulement associée à III ou IV)",
+  "Maladie réfractaire à des lignes thérapeutiques antérieures",
+  "Absence de grossesse ou d'allaitement"
+ ],
+ "exclusion": [
+  "Traitement antérieur par anti-CD19",
+  "Plus d'une poussée aiguë sévère pendant le dépistage rendant le sevrage immunosuppresseur impossible",
+  "Atteinte d'organe irréversible significative (ex. insuffisance rénale terminale)",
+  "Syndrome des antiphospholipides primaire",
+  "Infection active ou non contrôlée",
+  "Cancer datant de moins de 24 mois, antécédent de greffe d'organe ou de cellules souches"
+ ],
+ "bras": [
+  {
+   "nom": "Obe-cel",
+   "traitement": "Lymphodéplétion, puis une perfusion unique d'obe-cel (CAR-T anti-CD19 autologue) au jour 1"
+  }
+ ],
+ "duree": "Suivi jusqu'à la fin de l'étude (durée non précisée) ; critère principal à 6 mois",
+ "critere": "Proportion de participants avec réponse rénale complète au mois 6"
+}

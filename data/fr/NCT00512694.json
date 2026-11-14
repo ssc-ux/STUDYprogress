@@ -1,0 +1,26 @@
+{
+ "h": "fe3b3dc0eabb",
+ "date": "2026-11-14",
+ "titre": "Registre lupique de Duke",
+ "question": "Comment évoluent le lupus et ses traitements au fil du temps chez les patients suivis en rhumatologie à Duke ?",
+ "contexte": "Le lupus est une maladie auto-immune systémique, la plus fréquente chez les femmes jeunes, avec une expression très variable : douleurs articulaires, fièvre, atteinte rénale, éruptions cutanées. Son évolution à long terme, ses poussées et les effets des traitements sont difficiles à suivre sans cohortes prospectives bien caractérisées.\n\nLe registre de Duke est une cohorte prospective monocentrique de patients ayant un lupus systémique ou cutané, suivis en consultation de rhumatologie de l'université Duke (Caroline du Nord). À chaque consultation, le patient remplit un questionnaire, le médecin mesure l'activité du lupus et un petit prélèvement sanguin peut être demandé. Le registre sert à améliorer la prise en charge par le suivi des scores d'activité et des traitements, et à soutenir des recherches sur le pronostic : santé cardiovasculaire, grossesse et fertilité, infections, usage des médicaments, qualité de vie, dépression. Il a débuté en 2007 et vise 1 000 patients.",
+ "interet": "Il alimente des travaux observationnels sur les résultats à long terme du lupus. Il ne teste pas de traitement.",
+ "profil": "Des adultes ayant un lupus systémique ou cutané suivis à l'université Duke.",
+ "inclusion": [
+  "Diagnostic de lupus systémique ou cutané",
+  "Patient d'un rhumatologue du centre médical de l'université Duke"
+ ],
+ "exclusion": [
+  "Impossibilité de se rendre à Duke pour le suivi",
+  "Impossibilité de parler anglais",
+  "Impossibilité de donner son consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte du registre",
+   "traitement": "Suivi en consultation avec questionnaires, évaluation de l'activité et prélèvements sanguins éventuels"
+  }
+ ],
+ "duree": "Suivi prospectif de long terme (durée non précisée)",
+ "critere": "Pas de critère principal précisé dans le registre ; recueil de scores d'activité, traitements et prélèvements"
+}

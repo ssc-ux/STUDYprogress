@@ -1,0 +1,30 @@
+{
+ "h": "147ea06301b8",
+ "date": "2026-11-14",
+ "titre": "DKB903 à doses croissantes dans la polyarthrite rhumatoïde et le lupus systémique",
+ "question": "Le DKB903 est-il bien toléré à doses croissantes chez des patients atteints de polyarthrite rhumatoïde ou de lupus ?",
+ "contexte": "La polyarthrite rhumatoïde et le lupus systémique restent des maladies où une proportion de patients n'obtient pas de contrôle durable malgré les traitements ciblés. De nouvelles approches immunologiques visent notamment les patients en échec des biothérapies.\n\nLe DKB903 est une molécule en développement chez Novartis ; le registre n'en précise pas la nature. Cette étude est un premier essai chez l'humain, de phase 1, ouvert, non contrôlé, en deux parties. La partie A évalue des doses croissantes. La partie B administre le niveau de dose jugé sûr, avec jusqu'à deux doses complètes supplémentaires.\n\nElle inclut environ 90 adultes de 18 à 75 ans. Les participants doivent être vaccinés contre le pneumocoque, la grippe et la COVID-19 avant la première administration. Le suivi atteint environ 2 ans.",
+ "interet": "L'étude établira la tolérance initiale du DKB903 dans deux maladies auto-immunes et conditionne son développement ultérieur. Elle ne permet pas de juger de l'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans atteints de polyarthrite rhumatoïde ou de lupus systémique.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Polyarthrite selon ACR/EULAR 2010 ou ACR 1987 depuis au moins 12 semaines",
+  "Lupus selon ACR/EULAR 2019 depuis au moins 12 semaines",
+  "Vaccination contre le pneumocoque, la grippe et la COVID-19 au moins 2 semaines avant la première dose",
+  "Consentement signé et capacité à suivre les exigences de l'étude"
+ ],
+ "exclusion": [
+  "Poids < 45 kg ou > 145 kg, IMC < 16 ou > 39",
+  "Médicament interdit ou sevrage insuffisant",
+  "Affection cardiaque définie par le protocole, anomalie ECG ou arythmie significative",
+  "Infection active, opportuniste, chronique ou récurrente (VIH, VHB, VHC, tuberculose)",
+  "Maladie grave susceptible de gêner la participation",
+  "Contraception hautement efficace requise chez les femmes en âge de procréer"
+ ],
+ "bras": [
+  { "nom": "Partie A", "traitement": "DKB903 à doses croissantes" },
+  { "nom": "Partie B", "traitement": "DKB903 à la dose jugée sûre en partie A, avec jusqu'à deux doses complètes supplémentaires" }
+ ],
+ "duree": "Environ 2 ans",
+ "critere": "Incidence et gravité des événements indésirables et événements indésirables graves, du jour 1 à environ 2 ans"
+}

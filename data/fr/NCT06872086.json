@@ -1,0 +1,14 @@
+{
+ "h": "f0b31860c8ff",
+ "date": "2026-11-14",
+ "titre": "Indices sanguins (NLR, PLR, LMR, SIRI) et activité du lupus systémique",
+ "question": "Les indices dérivés de la numération sanguine sont-ils corrélés à l'activité du lupus mesurée par le SLEDAI-2K ?",
+ "contexte": "Le lupus systémique évolue par poussées et rémissions, et l'évaluation de son activité repose sur des scores cliniques (SLEDAI-2K), des anticorps anti-ADN et le complément. Ces outils ne sont pas toujours disponibles ou concordants, et des marqueurs simples et peu coûteux sont recherchés.\n\nLe rapport lymphocytes/monocytes (LMR), le rapport neutrophiles/lymphocytes (NLR), le rapport plaquettes/lymphocytes (PLR) et l'indice d'inflammation immunitaire systémique (SIRI) se calculent à partir d'une simple numération formule sanguine. Ils ont été associés à l'inflammation et au pronostic dans plusieurs maladies, mais leur valeur dans le lupus reste discutée.\n\nCette étude cas-témoins de l'Université d'Assiout (Égypte) compare 70 patientes lupiques (critères ACR/EULAR 2019) à 70 témoins sains appariés sur l'âge et le sexe. L'activité est mesurée par le SLEDAI-2K, et la NFS est complétée par créatinine, protéinurie, CRP, VS, C3 et C4. L'objectif principal est la corrélation entre ces indices et le SLEDAI-2K. Les analyses secondaires comparent patientes et témoins, étudient les variations dans le temps, le volume plaquettaire moyen et l'effet du traitement.",
+ "interet": "Si la corrélation est solide, ces indices gratuits pourraient aider à suivre l'activité du lupus, surtout quand les ressources sont limitées. Leur spécificité reste faible, car ils varient aussi avec les infections et les traitements.",
+ "profil": "Des femmes adultes atteintes de lupus systémique et des témoins sains appariés.",
+ "inclusion": ["Femme de 18 ans ou plus", "Lupus systémique (critères ACR/EULAR 2019)", "Témoins : sans maladie auto-immune ni comorbidité significative"],
+ "exclusion": ["Autre maladie auto-immune (polyarthrite, Sjögren)", "Infection récente ou état inflammatoire aigu", "Maladie hématologique sans lien avec le lupus (leucémie, lymphome)"],
+ "bras": [{"nom": "Patientes lupiques", "traitement": "Évaluation par SLEDAI-2K et numération sanguine ; calcul de LMR, NLR, PLR et SIRI"}, {"nom": "Témoins sains", "traitement": "Numération sanguine, appariés sur l'âge et le sexe"}],
+ "duree": "Évaluation sur environ 1 mois",
+ "critere": "Corrélation entre les indices sanguins (LMR, NLR, PLR, SIRI) et le score SLEDAI-2K, sur 1 mois"
+}

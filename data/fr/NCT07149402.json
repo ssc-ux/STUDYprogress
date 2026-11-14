@@ -1,0 +1,38 @@
+{
+ "h": "8a10b67a9c5a",
+ "date": "2026-11-14",
+ "titre": "Interleukine-33 sérique et manifestations cliniques du lupus, dont la néphrite lupique",
+ "question": "Le taux sérique d'IL-33 est-il plus élevé chez les patients lupiques, notamment avec néphrite, que chez les témoins sains ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie auto-immune chronique dont les manifestations vont de formes bénignes à des atteintes d'organes graves. La néphrite lupique est l'une des plus sévères et pèse fortement sur la morbidité et la mortalité. Les marqueurs actuels (anti-ADN natif, complément, protéinurie) reflètent imparfaitement l'activité rénale.\n\nL'interleukine-33 est une cytokine de la famille de l'IL-1, libérée par les cellules épithéliales et endothéliales lors d'un stress tissulaire. Elle est impliquée dans la régulation immunitaire et l'inflammation, et pourrait participer à la pathogénie du lupus. Cette étude cas-témoins de l'Université d'Assiut (Égypte) compare l'IL-33 sérique (ELISA) entre trois groupes : lupus avec néphrite, lupus sans néphrite et témoins sains appariés. Elle réunit des évaluations cliniques et biologiques (auto-anticorps, fonction rénale), une échographie-Doppler rénale et une biopsie classée selon l'ISN/RPS pour les patients avec néphrite. Les données du registre font état de 150 participants dans l'effectif, alors que la description en mentionne 96.",
+ "interet": "Elle pourrait préciser si l'IL-33 reflète l'activité du lupus et l'atteinte rénale, comme biomarqueur ou piste thérapeutique.",
+ "profil": "Des adultes lupiques avec ou sans néphrite, et des témoins sains appariés pour l'âge et le sexe.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus systémique selon les critères ACR",
+  "Groupe néphrite : néphrite lupique confirmée cliniquement, biologiquement et par biopsie rénale",
+  "Groupe témoin : sujets sains appariés, sans antécédent auto-immun ou rénal"
+ ],
+ "exclusion": [
+  "Autres maladies auto-immunes",
+  "Infections chroniques ou cancers",
+  "Grossesse ou allaitement",
+  "Insuffisance rénale terminale ou dialyse",
+  "Refus de consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus sans néphrite",
+   "traitement": "Évaluation clinique et biologique, dosage de l'IL-33"
+  },
+  {
+   "nom": "Lupus avec néphrite",
+   "traitement": "Mêmes évaluations, plus échographie-Doppler rénale et biopsie rénale"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Dosage de l'IL-33 et profil immunitaire de base"
+  }
+ ],
+ "duree": "Une seule évaluation par participant (étude menée sur environ un an)",
+ "critere": "Taux sériques d'IL-33 à l'inclusion"
+}

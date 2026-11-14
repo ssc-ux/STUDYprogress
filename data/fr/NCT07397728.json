@@ -1,0 +1,33 @@
+{
+ "h": "0aae344a32cc",
+ "date": "2026-11-14",
+ "titre": "Polymorphismes du gène TREX1 et lupus systémique avec atteinte cutanée chez des patients égyptiens",
+ "question": "Les polymorphismes de TREX1 sont-ils associés au lupus avec manifestations cutanées chez des patients égyptiens ?",
+ "contexte": "Plus de 70 % des patients lupiques développent une atteinte cutanéo-muqueuse, souvent l'une des premières manifestations de la maladie. Sa présence et sa sévérité sont associées à certains auto-anticorps (anti-Ro/SSA, anti-ADN natif), ce qui suggère une part de susceptibilité génétique.\n\nPlusieurs polymorphismes, notamment IRF5, STAT4, TREX1 et TNFA, ont été impliqués dans les phénotypes cutanés du lupus. TREX1 code une exonucléase qui dégrade l'ADN intracellulaire. Son déficit entraîne l'accumulation d'ADN et l'activation de la voie de l'interféron de type I, mécanisme central du lupus. Des mutations de TREX1 sont aussi connues dans le syndrome d'Aicardi-Goutières et le lupus engelure.\n\nLes données de patients égyptiens restent limitées. Cette étude observationnelle de la South Valley University compare environ 60 patients lupiques avec atteinte cutanée à 30 témoins sains appariés, par génotypage de TREX1, et recherche des liens avec l'activité du lupus.",
+ "interet": "Elle pourrait préciser le rôle de TREX1 dans une population peu étudiée. L'effectif est faible et les résultats d'association devront être confirmés.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus avec atteinte cutanée, et des témoins sains appariés.",
+ "inclusion": [
+  "Âge de 18 à 60 ans",
+  "LES selon les critères EULAR/ACR 2019",
+  "Au moins une manifestation cutanée (aiguë, subaiguë ou chronique)",
+  "Consentement écrit à la participation et au test génétique"
+ ],
+ "exclusion": [
+  "Syndromes de chevauchement (dermatomyosite, sclérodermie systémique)",
+  "Infection systémique, cancer ou grossesse",
+  "Biothérapie ou bolus d'immunosuppresseurs dans le mois précédent",
+  "Témoins : antécédents personnels ou familiaux d'auto-immunité, ANA ou anti-ADN positifs"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A : lupus",
+   "traitement": "Environ 60 patients avec au moins une manifestation cutanée, génotypage TREX1"
+  },
+  {
+   "nom": "Groupe B : témoins sains",
+   "traitement": "30 témoins appariés, génotypage TREX1"
+  }
+ ],
+ "duree": "Évaluation unique, environ 3 mois",
+ "critere": "Polymorphisme de TREX1 et activité du lupus, à 3 mois"
+}

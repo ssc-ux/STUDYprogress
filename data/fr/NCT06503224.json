@@ -1,0 +1,14 @@
+{
+ "h": "24e256c172b1",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA/CD19 (SCAR02) dans les maladies auto-immunes réfractaires, polyarthrite et lupus",
+ "question": "Les CAR-T SCAR02 ciblant BCMA et CD19 sont-elles sûres chez des patients ayant une polyarthrite rhumatoïde ou un lupus réfractaires ?",
+ "contexte": "La polyarthrite rhumatoïde (PR) et le lupus érythémateux systémique (LES) restent actifs chez une proportion de patients malgré les csDMARD, biothérapies ou inhibiteurs de JAK. Les CAR-T anti-CD19 induisent des rémissions dans de petites séries de maladies auto-immunes.\n\nSCAR02 cible CD19 (lymphocytes B) et BCMA (plasmocytes), afin d'agir aussi sur les cellules productrices d'auto-anticorps. L'étude, monocentrique et ouverte, avec escalade de dose, inclut jusqu'à 18 adultes à l'hôpital universitaire de Chine du Sud-Est (USTC, Hefei). Les patients reçoivent cyclophosphamide et fludarabine, puis une perfusion de CAR-T à J0. Pour la PR, il faut une activité persistante (DAS28-ESR > 3,2 ou CDAI > 10) malgré un traitement standard stable. Pour le LES, la maladie doit évoluer depuis ≥ 6 mois et rester active malgré le traitement standard.",
+ "interet": "L'étude apportera des données de tolérance sur un double ciblage dans la PR et le LES. Les conclusions seront limitées par l'effectif et l'absence de comparateur.",
+ "profil": "Des adultes atteints de polyarthrite rhumatoïde ou de lupus réfractaires.",
+ "inclusion": ["Âge ≥ 18 ans", "Neutrophiles ≥ 1 G/L, hémoglobine ≥ 60 g/L, ALT/AST ≤ 3 N, clairance ≥ 60 mL/min, INR < 1,5", "PR (critères 2010) : DAS28-ESR > 3,2 ou CDAI > 10, ou impossibilité de réduire la prednisone sous 7,5 mg/j, ≥ 3 articulations atteintes", "PR : csDMARD stables (méthotrexate, hydroxychloroquine, sulfasalazine, léflunomide)", "LES (critères EULAR/ACR 2019) évoluant depuis ≥ 6 mois, toujours actif sous traitement standard"],
+ "exclusion": ["Non précisé dans l'extrait du registre"],
+ "bras": [{"nom": "CAR-T anti-BCMA/CD19", "traitement": "Cyclophosphamide et fludarabine, puis perfusion de CAR-T SCAR02 à J0, dose croissante"}],
+ "duree": "2 ans",
+ "critere": "Événements indésirables jusqu'à 2 ans"
+}

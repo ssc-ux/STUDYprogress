@@ -1,0 +1,29 @@
+{
+ "h": "c16a7ba52a5ar",
+ "date": "2026-11-14",
+ "titre": "Extension ouverte d'EryDex (dexaméthasone dans les érythrocytes) dans l'ataxie télangiectasie",
+ "question": "Un traitement prolongé par EryDex est-il bien toléré chez les patients atteints d'ataxie télangiectasie ayant terminé l'étude NEAT ?",
+ "contexte": "L'ataxie télangiectasie (A-T) est une maladie génétique rare, autosomique récessive (gène ATM), qui associe ataxie cérébelleuse progressive, déficit immunitaire, télangiectasies et risque accru de cancers. Il n'existe pas de traitement modifiant l'évolution de la maladie ; la prise en charge reste symptomatique et multidisciplinaire.\n\nEryDex est un produit combiné dans lequel du phosphate sodique de dexaméthasone est encapsulé dans les érythrocytes autologues du patient, puis perfusé par voie intraveineuse toutes les 4 semaines. Le but est d'exercer un effet anti-inflammatoire et neuroprotecteur en limitant les effets indésirables de la corticothérapie systémique. Cette extension ouverte (IEDAT-05-2024) de Quince Therapeutics propose 12 mois de traitement aux patients ayant terminé l'étude de phase 3 randomisée NEAT (IEDAT-04-2022). Elle a inclus 101 patients de 6 ans et plus et a été arrêtée avant son terme.",
+ "interet": "Elle fournit des données de tolérance sur 13 mois pour un traitement ciblé dans une maladie sans option médicamenteuse établie.",
+ "profil": "Des enfants et adultes de 6 ans et plus atteints d'ataxie télangiectasie, ayant terminé l'étude NEAT.",
+ "inclusion": [
+  "Poids ≥ 15 kg",
+  "Participation à l'étude IEDAT-04-2022 et réalisation des évaluations finales d'efficacité et de sécurité",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Contre-indication de sécurité à la poursuite du traitement selon l'investigateur",
+  "Déficit immunitaire cliniquement significatif contre-indiquant une corticothérapie",
+  "Cancer en cours ou antécédent de cancer non en rémission depuis au moins 2 ans",
+  "Nécessité d'une corticothérapie systémique"
+ ],
+ "bras": [
+  {
+   "nom": "EryDex",
+   "traitement": "Phosphate sodique de dexaméthasone encapsulé dans des érythrocytes autologues, perfusion intraveineuse toutes les 4 semaines pendant 12 mois"
+  }
+ ],
+ "duree": "12 mois de traitement (environ 13 mois avec le suivi de sécurité)",
+ "critere": "Nombre de participants avec événements indésirables sous traitement, événements ayant conduit à l'arrêt et événements graves, jusqu'à environ 13 mois",
+ "resultats": "Sur 101 participants traités, 71 ont présenté au moins un événement indésirable sous traitement, 1 a arrêté le traitement pour un événement indésirable et 5 ont eu un événement indésirable grave. Aucun décès n'est rapporté. L'étude étant ouverte et sans comparateur, aucune conclusion d'efficacité n'est tirée dans le registre."
+}

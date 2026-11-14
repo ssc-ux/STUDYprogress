@@ -1,0 +1,14 @@
+{
+ "h": "27e87c24e544",
+ "date": "2026-11-14",
+ "titre": "CC312 contre placebo dans le lupus systémique modéré à sévère (phase 1)",
+ "question": "CC312 est-il bien toléré et actif à doses croissantes chez des patients lupiques modérément à sévèrement actifs ?",
+ "contexte": "Une partie des patients atteints de lupus systémique garde une maladie active malgré corticoïdes, antipaludéens, immunosuppresseurs et biothérapies, ce qui expose à des poussées, à des dommages d'organe et à la toxicité cumulée des corticoïdes. De nouveaux mécanismes d'action sont donc évalués.\n\nCC312 est un médicament expérimental développé par CytoCares. Le registre ne précise pas son mécanisme ; l'exclusion des patients récemment traités par CAR-T ou par des agents ciblant CD19, CD20 ou BAFF suggère une action sur les lymphocytes B. Cet essai de phase 1 randomisé en double aveugle contre placebo comporte des doses uniques puis multiples croissantes.\n\nLes patients (18 à 65 ans) ont un lupus actif (SLEDAI-2K ≥ 7 avec au moins un domaine BILAG A ou deux B), des auto-anticorps positifs et une réponse insuffisante à au moins deux traitements standards. Les néphrites sévères et les atteintes du système nerveux central récentes sont exclues. Le critère principal est la tolérance (événements indésirables) sur 2 ans, avec des analyses de pharmacocinétique, de pharmacodynamie, d'immunogénicité et d'efficacité préliminaire.",
+ "interet": "Il s'agit d'une première étape de développement, avec un effectif réduit. Elle renseignera sur la tolérance et les doses à retenir pour des essais ultérieurs.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique modérément à sévèrement actif malgré un traitement standard.",
+ "inclusion": ["Âge de 18 à 65 ans", "Lupus systémique (critères EULAR/ACR 2019)", "SLEDAI-2K ≥ 7 avec au moins un BILAG A ou deux BILAG B", "ANA ≥ 1:80, anti-ADN natif ou anti-Sm positifs", "Réponse insuffisante à au moins 2 traitements standards, dont un immunosuppresseur ou une biothérapie", "Traitement stable depuis au moins 12 semaines, contraception efficace"],
+ "exclusion": ["Néphrite lupique sévère dans les 8 semaines (protéinurie > 6 g/24 h, créatinine > 2,5 mg/dL, dialyse)", "Atteinte du système nerveux central dans les 8 semaines", "Greffe d'organe ou de cellules souches", "Autre maladie auto-immune nécessitant un traitement systémique (hors Sjögren)", "Déficit en IgA (< 10 mg/dL)", "CAR-T dans les 6 mois, ou agent déplétant les B dans les 6 mois sauf reconstitution"],
+ "bras": [{"nom": "CC312", "traitement": "CC312 en doses uniques puis multiples croissantes ; doses non précisées"}, {"nom": "Placebo", "traitement": "Placebo"}],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Événements indésirables et événements indésirables graves, sur 2 ans"
+}

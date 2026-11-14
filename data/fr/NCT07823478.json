@@ -1,0 +1,34 @@
+{
+ "h": "ddd28ac88320",
+ "date": "2026-11-14",
+ "titre": "Test urinaire à domicile hebdomadaire pour dépister la néphropathie lupique (HEALTH)",
+ "question": "Une bandelette urinaire hebdomadaire à domicile permet-elle de détecter plus tôt une néphropathie lupique chez des patients lupiques ?",
+ "contexte": "La néphropathie lupique touche environ un tiers des patients lupiques et peut survenir à bas bruit. Une protéinurie détectée tardivement retarde la biopsie et le traitement, avec un risque de dommage rénal irréversible. Le dépistage repose sur des contrôles de routine espacés, souvent tous les trois mois.\n\nLes bandelettes de protéinurie à domicile sont peu coûteuses et simples. Elles pourraient permettre une détection plus précoce, entre deux consultations, mais leur apport n'a pas été évalué de façon contrôlée.\n\nCet essai randomisé de NYU Langone inclut environ 160 adultes lupiques inclus dans la biobanque SAMPLE, sans atteinte rénale active (UPCR < 0,3). Un bras réalise un test hebdomadaire à domicile et envoie le résultat par SMS pendant un an, en plus des soins standards, l'autre reçoit les soins standards.",
+ "interet": "Elle pourrait valider un outil de télésurveillance simple pour accélérer le diagnostic de néphropathie lupique. L'étude est monocentrique et exclut les patients sans téléphone mobile.",
+ "profil": "Des adultes lupiques sans atteinte rénale active, en rémission rénale ou de diagnostic récent.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement éclairé",
+  "Lupus selon critères ACR, SLICC ou EULAR/ACR",
+  "Antécédent de néphropathie : rémission clinique avec UPCR < 0,3",
+  "Sans antécédent rénal : lupus diagnostiqué depuis ≤ 5 ans, anti-ADN natif positif et/ou C3 ou C4 bas, UPCR < 0,3",
+  "Inclus dans la biobanque SAMPLE"
+ ],
+ "exclusion": [
+  "Refus ou incapacité de participer",
+  "Langue autre que l'anglais, l'espagnol ou le mandarin",
+  "Absence de téléphone mobile",
+  "Non inclus dans la biobanque SAMPLE"
+ ],
+ "bras": [
+  {
+   "nom": "Test urinaire hebdomadaire à domicile",
+   "traitement": "Bandelette de protéinurie chaque semaine, résultat renvoyé par SMS, en plus des soins standards"
+  },
+  {
+   "nom": "Soins standards",
+   "traitement": "Suivi habituel"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Nombre de participants devenant éligibles à une biopsie rénale à 12 mois"
+}

@@ -1,0 +1,28 @@
+{
+ "h": "230447721cb2r",
+ "date": "2026-11-14",
+ "titre": "Acupuncture électrique transcutanée dans la gastroparésie de la sclérodermie",
+ "question": "L'électro-acustimulation transcutanée est-elle acceptable chez des patients sclérodermiques ayant des ballonnements et une distension liés à la gastroparésie ?",
+ "contexte": "L'atteinte digestive est très fréquente dans la sclérodermie systémique, avec une dysmotilité gastrique (gastroparésie) responsable de ballonnements, distension, nausées et dénutrition. Les prokinétiques ont une efficacité limitée et des effets indésirables, d'où un besoin de traitements non médicamenteux.\n\nLa stimulation électrique transcutanée au niveau de points d'acupuncture (TEA) est étudiée dans la gastroparésie d'autres origines, avec des effets rapportés sur la motilité gastrique et les symptômes.\n\nCette étude pilote de l'Université du Michigan évalue chez 11 patients l'acceptabilité d'un dispositif de TEA appliqué 45 minutes deux fois par jour après les repas, avec carnets quotidiens et questionnaires, suivi de 4 semaines de suivi après traitement.",
+ "interet": "Il s'agit d'une étude de faisabilité. Elle prépare un essai contrôlé de la TEA, option non médicamenteuse, pour les symptômes digestifs hauts de la sclérodermie.",
+ "profil": "Des adultes atteints de sclérodermie systémique avec ballonnements et distension modérés à sévères.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Âge ≥ 18 ans, anglophone",
+  "Distension ou ballonnements modérés à sévères sur le questionnaire UCLA SCTC GIT 2.0",
+  "Traitement digestif stable, prokinétiques compris, depuis 4 semaines"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Chirurgie abdominale majeure (hors cholécystectomie et appendicectomie)",
+  "Autre maladie douloureuse abdominale active : MICI, diabète, dysthyroïdie instable",
+  "Allergie aux électrodes adhésives",
+  "Contre-indication à la TEA (pacemaker, épilepsie)"
+ ],
+ "bras": [
+  { "nom": "Patients sclérodermiques avec symptômes de gastroparésie", "traitement": "Dispositif de TEA, 45 minutes deux fois par jour après les repas" }
+ ],
+ "duree": "4 semaines de traitement, puis 4 semaines de suivi",
+ "critere": "Acceptabilité du dispositif à 4 semaines (patients ayant terminé l'étude et utilisé le dispositif pour au moins 80 % des applications)",
+ "resultats": "Sur 11 patients inclus, 9 ont terminé l'étude et 9 ont utilisé le dispositif pour au moins 80 % des applications prévues. Aucun événement indésirable grave ni décès n'a été rapporté. L'étude pilote n'a pas de groupe comparateur et les résultats cliniques ne sont pas détaillés dans le registre."
+}

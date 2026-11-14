@@ -1,0 +1,25 @@
+{
+ "h": "36dd6721ff24",
+ "date": "2026-11-14",
+ "titre": "Cohorte coréenne KORNERSTONE de biopsies rénales dans les glomérulopathies",
+ "question": "Les données cliniques, histologiques et génomiques des biopsies rénales permettent-elles de mieux prédire l'évolution des glomérulonéphrites ?",
+ "contexte": "Les glomérulonéphrites (maladie à lésions glomérulaires minimes, HSF, néphropathie membraneuse, néphropathie à IgA, néphrite lupique) sont une cause majeure d'insuffisance rénale chronique. Le choix du traitement repose surtout sur des critères cliniques et histologiques, alors que la réponse aux immunosuppresseurs et le pronostic varient fortement d'un patient à l'autre.\n\nLes progrès de l'analyse moléculaire et de la bio-informatique permettent d'envisager une médecine de précision en néphrologie, à partir de données génomiques issues des biopsies. KORNERSTONE est un réseau multicentrique coréen de biobanque, financé par le ministère coréen de la Santé, promu par l'hôpital universitaire de Séoul. Il inclut de façon prospective jusqu'à 3 000 patients adultes et enfants biopsiés pour une suspicion de maladie glomérulaire. Il associe données cliniques de long terme, pathologie rénale numérisée et données génomiques, dans une base accessible aux chercheurs. Le suivi est de 60 mois.",
+ "interet": "Cette cohorte servira de ressource pour identifier des marqueurs pronostiques et prédictifs de réponse. Il n'y a pas d'intervention testée.",
+ "profil": "Des adultes et des enfants ayant eu une biopsie rénale pour suspicion de glomérulopathie.",
+ "inclusion": [
+  "Suspicion de maladie glomérulaire avec biopsie rénale dans un centre participant",
+  "Enfants de moins de 18 ans inclus"
+ ],
+ "exclusion": [
+  "Antécédent de greffe rénale",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "KORNERSTONE",
+   "traitement": "Cohorte de patients biopsiés pour glomérulopathie (MCD, HSF, néphropathie membraneuse, néphropathie à IgA, etc.), suivie de façon prospective"
+  }
+ ],
+ "duree": "60 mois",
+ "critere": "Décès, détérioration de la fonction rénale et amélioration clinique à 60 mois"
+}

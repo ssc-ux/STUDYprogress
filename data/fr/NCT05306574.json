@@ -1,0 +1,29 @@
+{
+ "h": "8ca3c217f788",
+ "date": "2026-11-14",
+ "titre": "Télitacicept versus placebo dans le lupus systémique modérément à sévèrement actif",
+ "question": "Le télitacicept, bloqueur de BLyS et APRIL, améliore-t-il la réponse SRI-4 à 52 semaines dans le lupus systémique actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène. Malgré les progrès, les besoins non couverts persistent : activité résiduelle, poussées, intolérance aux traitements standards, dommages d'organe et comorbidités, avec une qualité de vie altérée.\n\nLe télitacicept est une protéine de fusion entièrement humaine TACI-Fc qui neutralise à la fois BLyS (BAFF) et APRIL, deux cytokines essentielles à la survie des lymphocytes B et des plasmocytes. Le bélimumab, qui ne cible que BLyS, est déjà utilisé dans le LES. Le double blocage pourrait agir plus largement sur les cellules productrices d'auto-anticorps. Le télitacicept est déjà évalué dans le LES, notamment en Chine.\n\nREMESLE-1 est un essai de phase 3 randomisé en double aveugle contre placebo, en ajout du traitement standard, promu par Vor Biopharma. L'étude a été arrêtée prématurément (91 patients inclus).",
+ "interet": "L'étude devait préciser le bénéfice du double blocage BLyS/APRIL en population internationale. Son arrêt prématuré limite fortement les conclusions possibles.",
+ "profil": "Des patients de 12 à 70 ans atteints de LES modérément à sévèrement actif, sous traitement standard.",
+ "inclusion": [
+  "Âge de 12 à 70 ans",
+  "LES depuis au moins 6 mois, critères EULAR/ACR 2019",
+  "SELENA-SLEDAI ≥ 6 avec SLEDAI clinique ≥ 4 au dépistage et à J0",
+  "BILAG : au moins 1 A ou 2 B",
+  "Au moins un paramètre sérologique positif",
+  "Traitement de fond par corticoïdes oraux, antipaludéens ou immunosuppresseur"
+ ],
+ "exclusion": [
+  "Néphrite lupique active en induction ou atteinte rénale instable dans les 12 semaines",
+  "Lupus neuropsychiatrique actif ou instable",
+  "Autre maladie auto-immune ou rhumatismale que le LES",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  { "nom": "Télitacicept", "traitement": "Télitacicept (dose non précisée) + traitement standard" },
+  { "nom": "Placebo", "traitement": "Placebo + traitement standard" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Réponse SRI-4 à la semaine 52"
+}

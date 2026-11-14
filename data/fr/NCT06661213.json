@@ -1,0 +1,14 @@
+{
+ "h": "0b8596c2cdb3",
+ "date": "2026-11-14",
+ "titre": "Tapinarof topique dans le lupus érythémateux cutané",
+ "question": "Le tapinarof, agoniste topique du récepteur AHR, améliore-t-il les lésions du lupus cutané chronique ou subaigu ?",
+ "contexte": "Le lupus cutané chronique et subaigu est fréquent et pénible : les lésions sont inesthétiques, cicatricielles, photosensibles, et ne répondent pas toujours aux dermocorticoïdes, aux inhibiteurs de calcineurine topiques, à l'hydroxychloroquine ou aux traitements systémiques. Les options topiques restent limitées.\n\nLe tapinarof est un agoniste du récepteur aux hydrocarbures aromatiques (AHR), approuvé en application locale dans le psoriasis en plaques. L'hypothèse des investigateurs est que l'activation de l'AHR freine les lymphocytes T pathogènes du lupus et améliore les lésions cutanées.\n\nCet essai de phase 1 de l'Université Northwestern (États-Unis), ouvert et à un seul bras, inclut environ 10 adultes ayant au moins une lésion active de diamètre ≥ 1 cm, avec un score CLA-IGA-R ≥ 3. Il mesure l'évolution des lésions à 16 semaines avec des scores standardisés (CLA-IGA-R, CLASI-A). Des prélèvements de peau et de sang avant et après traitement permettront d'analyser les effets immunologiques et de mieux comprendre l'immunopathologie du lupus cutané.",
+ "interet": "L'étude explore le repositionnement d'un topique approuvé en dermatologie dans le lupus cutané. Avec 10 patients et sans groupe contrôle, elle ne pourra donner qu'un signal préliminaire.",
+ "profil": "Des adultes atteints de lupus cutané chronique et/ou subaigu avec au moins une lésion active.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus cutané chronique et/ou subaigu, diagnostic histologique ou clinique", "Au moins une lésion active de diamètre ≥ 1 cm", "Score CLA-IGA-R ≥ 3 au dépistage et à l'inclusion"],
+ "exclusion": ["Grossesse ou allaitement", "Autre maladie dermatologique gênant l'évaluation", "Allergie à un composant du produit", "Dermocorticoïde, inhibiteur de calcineurine ou de JAK topique sur les lésions évaluées dans la semaine, ou tapinarof dans les 4 semaines", "Anifrolumab dans les 6 mois", "Nouveau traitement systémique immunosuppresseur, antipaludéen ou anti-JAK dans les 12 semaines, ou dose instable dans les 4 semaines", "Infection active"],
+ "bras": [{"nom": "Tapinarof", "traitement": "Tapinarof topique appliqué sur les lésions ; rythme non précisé"}],
+ "duree": "16 semaines",
+ "critere": "Amélioration du score CLA-IGA-R et du CLASI-Activité à 16 semaines"
+}

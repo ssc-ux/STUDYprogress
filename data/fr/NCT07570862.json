@@ -1,0 +1,14 @@
+{
+ "h": "a01f09a11082",
+ "date": "2026-11-14",
+ "titre": "FT819 (CAR-T allogéniques anti-CD19) dans la néphropathie lupique réfractaire (RECLAIM-LN)",
+ "question": "Une perfusion unique de FT819 après bendamustine induit-elle une réponse rénale complète à 26 semaines dans la néphropathie lupique réfractaire ?",
+ "contexte": "Une proportion de patients avec néphropathie lupique de classe III ou IV ne répond pas à au moins deux immunosuppresseurs, avec un risque d'insuffisance rénale terminale. Les CAR-T anti-CD19 autologues ont induit des rémissions dans le lupus réfractaire, mais la fabrication à partir des cellules du patient est longue et coûteuse.\n\nLe FT819, de Fate Therapeutics, est un produit « prêt à l'emploi » de lymphocytes T allogéniques dérivés d'une lignée de cellules souches pluripotentes induites. Le récepteur T y est invalidé (knock-out TCR) et un CAR anti-CD19 est exprimé sous le contrôle du locus TRAC. Cette étude de phase 2 ouverte, à bras unique, inclut 53 patients de 12 à 70 ans dans 12 centres. Les patients reçoivent de la bendamustine puis une injection unique de FT819, avec un suivi de 24 mois puis un suivi de long terme jusqu'à 15 ans.",
+ "interet": "Cette étude pourrait fournir des données d'efficacité sur une thérapie CAR-T allogénique dans la néphropathie lupique. Un produit disponible immédiatement faciliterait l'accès à la déplétion B profonde.",
+ "profil": "Des patients de 12 à 70 ans avec une néphropathie lupique de classe III ou IV active, réfractaire à au moins deux immunosuppresseurs.",
+ "inclusion": ["Âge de 12 à 70 ans, lupus selon EULAR/ACR 2019", "Néphropathie lupique III ou IV (± V) prouvée par biopsie", "ANA, anti-ADN natif ou anti-Sm positifs", "SLEDAI-2K ≥ 6 ou BILAG A ou 2 B, et rapport protéinurie/créatininurie ≥ 1 g/g", "Réfractaire à ≥ 2 immunosuppresseurs systémiques"],
+ "exclusion": ["Fonctions d'organes inadéquates", "Symptômes neurologiques centraux auto-immuns dans les 12 mois", "Autre néphropathie confondante, dialyse dans les 12 semaines", "Lésions irréversibles (insuffisance rénale terminale) sans bénéfice attendu", "Cancer dans les 5 ans", "Allergie à l'albumine ou au DMSO, contre-indication à la bendamustine", "Poids < 30 kg"],
+ "bras": [{ "nom": "FT819", "traitement": "Bendamustine puis une perfusion intraveineuse unique de FT819" }],
+ "duree": "24 mois de suivi, puis suivi de long terme jusqu'à 15 ans",
+ "critere": "Proportion de patients en réponse rénale complète à la semaine 26"
+}

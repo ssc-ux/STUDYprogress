@@ -1,0 +1,28 @@
+{
+ "h": "170c4ba4cf2e",
+ "date": "2026-11-14",
+ "titre": "Follistatin-like protein 1 sérique et activité de la maladie de Behçet",
+ "question": "Le taux sérique de la protéine FSTL1 est-il plus élevé dans la maladie de Behçet et lié à l'activité de la maladie ?",
+ "contexte": "La maladie de Behçet est une maladie auto-inflammatoire multisystémique à caractère vascularitique. Elle associe aphtose buccale et génitale, uvéite, lésions cutanées et atteintes vasculaire, neurologique ou digestive. Son étiologie est mal connue, avec des facteurs génétiques et environnementaux.\n\nL'immunité cellulaire y joue un rôle : l'activation des lymphocytes Th1 accroît les cytokines pro-inflammatoires. La follistatin-like protein 1 (FSTL1) est une glycoprotéine proposée comme biomarqueur diagnostique et pronostique de certaines maladies auto-immunes inflammatoires, dont la maladie de Behçet.\n\nCette étude observationnelle de l'Université d'Assiut (Égypte) compare les taux sériques de FSTL1 chez 80 sujets, patients atteints de Behçet et témoins sains appariés, et recherche un lien avec l'activité de la maladie.",
+ "interet": "L'étude explore un biomarqueur potentiel d'activité. Son effectif limité en fait une étude exploratoire, sans impact immédiat sur la pratique.",
+ "profil": "Des adultes atteints de maladie de Behçet et des témoins sains appariés.",
+ "inclusion": [
+  "Adulte atteint de maladie de Behçet selon les critères de l'International Team for the Revision of the International Criteria",
+  "Témoins sains appariés"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune (polyarthrite rhumatoïde, dermatomyosite, sclérodermie, connectivite mixte)"
+ ],
+ "bras": [
+  {
+   "nom": "Maladie de Behçet",
+   "traitement": "Dosage sérique de FSTL1"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Dosage sérique de FSTL1"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Taux sérique de FSTL1 (ng/mL)"
+}

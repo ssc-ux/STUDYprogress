@@ -1,0 +1,34 @@
+{
+ "h": "b688d395cb06",
+ "date": "2026-11-14",
+ "titre": "QLS2404 chez des volontaires sains et des patients atteints de lupus ou de syndrome de Sjögren (phase 1)",
+ "question": "QLS2404 en injection sous-cutanée est-il bien toléré chez des volontaires sains puis des patients lupiques ou atteints de Sjögren primitif ?",
+ "contexte": "Le lupus systémique et le syndrome de Sjögren primitif sont deux maladies auto-immunes où les traitements ciblés restent limités. Le Sjögren n'a pas de traitement de fond approuvé et le lupus conserve des besoins non couverts malgré les biothérapies existantes.\n\nQLS2404 est une injection sous-cutanée expérimentale de Qilu Pharmaceutical. Le registre ne précise pas sa cible. La phase Ia est randomisée, en double aveugle contre placebo, à dose unique croissante chez 40 volontaires sains (5 groupes de 8, ratio 3:1), avec surveillance de la tolérance par un comité de sécurité après 14 jours d'observation par palier.\n\nLa phase Ib, ouverte, à doses multiples croissantes, inclut des patients lupiques ou ayant un Sjögren primitif pour évaluer tolérance, pharmacocinétique, pharmacodynamie et efficacité préliminaire. L'effectif total est d'environ 64 participants.",
+ "interet": "Il s'agit d'une première étude chez l'humain, qui renseignera sur la tolérance et la dose. Aucune conséquence clinique avant des phases ultérieures.",
+ "profil": "Des volontaires sains de 18 à 45 ans (phase Ia) puis des adultes lupiques ou ayant un syndrome de Sjögren primitif (phase Ib).",
+ "inclusion": [
+  "Âge de 18 à 45 ans (phase Ia), IMC de 19 à 26, poids ≥ 45 kg",
+  "Bonne santé jugée par l'investigateur (phase Ia)",
+  "Phase Ib : patients avec LES ou syndrome de Sjögren primitif, critères détaillés non repris ici",
+  "Consentement écrit et capacité à respecter le protocole"
+ ],
+ "exclusion": [
+  "QTcF ≥ 450 ms ou autre anomalie ECG significative (phase Ia)",
+  "Maladie chronique ou grave, systèmes divers (phase Ia)",
+  "Perte sanguine > 400 ml dans les 3 mois (phase Ia)",
+  "Phase Ib : toute condition gênant l'évaluation de la tolérance ou de l'efficacité",
+  "Participation antérieure à un essai de thérapie cellulaire ou génique (phase Ib)"
+ ],
+ "bras": [
+  {
+   "nom": "Phase Ia, 5 groupes",
+   "traitement": "QLS2404 sous-cutané en dose unique croissante ou placebo, chez des volontaires sains"
+  },
+  {
+   "nom": "Phase Ib, 3 groupes",
+   "traitement": "QLS2404 sous-cutané en doses multiples croissantes, en ouvert, chez des patients LES ou Sjögren"
+  }
+ ],
+ "duree": "Jusqu'à 85 jours (phase Ia) et 141 jours (phase Ib)",
+ "critere": "Tolérance et événements indésirables de QLS2404 en dose unique (Ia, jusqu'à J85) et en doses multiples (Ib, jusqu'à J141)"
+}

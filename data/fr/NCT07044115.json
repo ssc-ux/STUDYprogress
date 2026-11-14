@@ -1,0 +1,30 @@
+{
+ "h": "1ffc14e1023a",
+ "date": "2026-11-14",
+ "titre": "MIL62 (anti-CD20) en association au traitement standard dans la néphrite lupique",
+ "question": "Le MIL62, ajouté au traitement standard, est-il bien toléré et augmente-t-il le taux de rémission rénale complète à 76 semaines dans la néphrite lupique ?",
+ "contexte": "La néphrite lupique reste une cause majeure de morbidité du lupus. Malgré les corticoïdes et le mycophénolate ou le cyclophosphamide, une proportion importante de patients n'obtient pas de rémission rénale complète, et le risque d'insuffisance rénale chronique persiste. L'ajout d'une biothérapie (bélimumab, obinutuzumab) améliore les réponses rénales.\n\nLe MIL62 est un anticorps monoclonal anti-CD20 de nouvelle génération de Beijing Mabworks Biotech, qui déplète les lymphocytes B, comme le rituximab et l'obinutuzumab. Cette étude de phase 1/2 comporte deux parties. La partie A est randomisée en double aveugle contre placebo, avec trois groupes de dose de 10 patients et une randomisation 4:1 entre MIL62 et placebo, tous avec le traitement standard, afin de définir la dose maximale tolérée et la dose recommandée. La partie B est ouverte, avec 10 patients recevant la dose recommandée.\n\nL'étude, menée en Chine, a inclus 41 adultes de 18 à 74 ans avec une protéinurie des 24 h > 1,0 g/g. Le critère principal est le taux de rémission rénale complète à 76 semaines.",
+ "interet": "L'étude fournira la dose recommandée et un signal d'efficacité rénale du MIL62 dans la néphrite lupique. L'effectif réduit limite les conclusions sur l'efficacité.",
+ "profil": "Des adultes de 18 à 74 ans atteints de néphrite lupique avec protéinurie active.",
+ "inclusion": [
+  "Âge de 18 à 74 ans",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Rapport protéinurie/créatininurie des 24 h > 1,0",
+  "Traitement néphro-actif (IEC, hypolipémiants) à dose stable depuis au moins 4 semaines",
+  "Pas de vaccination nécessaire pendant l'étude ou seulement 16 semaines après la dernière dose",
+  "Consentement écrit signé"
+ ],
+ "exclusion": [
+  "Dialyse ou transplantation, glomérulosclérose > 50 % à la biopsie récente",
+  "Autre maladie auto-immune que le lupus",
+  "Risque hémorragique significatif ou besoin de transfusion ou d'échange plasmatique",
+  "VHB, VHC, VIH ou syphilis positifs",
+  "Grossesse, allaitement ou refus de contraception pendant au moins 18 mois après la dernière dose"
+ ],
+ "bras": [
+  { "nom": "MIL62 + traitement standard", "traitement": "MIL62 par perfusion, trois groupes de dose (partie A) puis dose recommandée (partie B) ; doses non précisées" },
+  { "nom": "Placebo + traitement standard", "traitement": "Placebo avec traitement standard (partie A, rapport 4:1)" }
+ ],
+ "duree": "76 semaines",
+ "critere": "Proportion de patients en rémission rénale complète à la semaine 76"
+}

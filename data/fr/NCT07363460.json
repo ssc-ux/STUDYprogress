@@ -1,0 +1,27 @@
+{
+ "h": "766f0374460d",
+ "date": "2026-11-14",
+ "titre": "HSK39297 oral contre placebo dans la néphrite lupique",
+ "question": "L'HSK39297, pris par voie orale une fois par jour, réduit-il la protéinurie des patients atteints de néphrite lupique active ?",
+ "contexte": "La néphrite lupique touche environ la moitié des patients lupiques et expose à l'insuffisance rénale terminale. Le traitement repose sur les corticoïdes associés au mycophénolate ou au cyclophosphamide, avec ajout possible de bélimumab, de voclosporine ou d'obinutuzumab. Une proportion importante de patients n'atteint pas de réponse rénale complète.\n\nL'HSK39297 est une molécule orale de Haisco Pharmaceutical ; le registre n'en précise pas la cible. Cette étude de phase 2 est randomisée en double aveugle. Elle compare deux doses (200 et 300 mg une fois par jour pendant 52 semaines) à un placebo, en association avec corticoïdes et mycophénolate.\n\nElle inclut environ 105 adultes de 18 à 75 ans, avec néphrite lupique active de classe III ou IV (± V) prouvée par biopsie, protéinurie ≥ 1 g/g et SLEDAI-2K ≥ 8, en première poussée ou en rechute. Le critère principal est le rapport de la protéinurie des 24 h à sa valeur initiale à 24 semaines.",
+ "interet": "L'étude testera l'efficacité sur la protéinurie et la tolérance de deux doses d'un traitement oral ajouté au traitement de fond. Elle servira à choisir la dose d'un éventuel essai de phase 3.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique active de classe III ou IV.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, consentement signé",
+  "Anticorps antinucléaires et/ou anti-ADN natif positifs",
+  "Néphrite lupique active de classe III ou IV (± V) sur biopsie datant de moins de 12 mois",
+  "Rapport protéinurie/créatininurie des 24 h ≥ 1 g/g, SLEDAI-2K ≥ 8",
+  "Première poussée ou rechute nécessitant corticoïdes et mycophénolate",
+  "Contraception efficace chez les personnes en âge de procréer"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "HSK39297 200 mg", "traitement": "200 mg par voie orale une fois par jour pendant 52 semaines, en double aveugle" },
+  { "nom": "HSK39297 300 mg", "traitement": "300 mg par voie orale une fois par jour pendant 52 semaines, en double aveugle" },
+  { "nom": "Placebo", "traitement": "Placebo par voie orale une fois par jour pendant 52 semaines" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Rapport de la protéinurie des 24 h (UPCR) à sa valeur initiale, à 24 semaines"
+}

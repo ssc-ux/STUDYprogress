@@ -1,0 +1,14 @@
+{
+ "h": "932d3633e4e0",
+ "date": "2026-11-14",
+ "titre": "SHR-7012 en dose unique chez des adultes sains (développement dans le lupus cutané)",
+ "question": "Quelles sont la tolérance, la pharmacocinétique et la pharmacodynamie d'une dose unique de SHR-7012 chez des volontaires sains ?",
+ "contexte": "Le lupus érythémateux cutané (LEC) reste difficile à traiter : les options (photoprotection, dermocorticoïdes, hydroxychloroquine, immunosuppresseurs) sont souvent insuffisantes et aucune biothérapie spécifique n'est largement disponible. De nouveaux médicaments sont en développement.\n\nSHR-7012 est un produit expérimental de Jiangsu Hengrui (Guangdong Hengrui Pharmaceutical) enregistré pour le LEC ; le registre ne précise pas sa nature ni sa cible. Cette étude est une phase 1 de première administration chez l'être humain, menée chez des adultes sains, et non chez des patients.\n\nCinq groupes de dose croissante reçoivent une injection unique de SHR-7012 ou de placebo, de façon randomisée. L'étude évalue la sécurité, la tolérance, la pharmacocinétique et la pharmacodynamie, avec un suivi jusqu'au jour 141. Elle constitue une étape préalable aux essais chez les patients.",
+ "interet": "Étude de développement précoce sans application clinique immédiate : elle établira le profil de sécurité et le comportement du produit chez le volontaire sain avant les études dans le lupus cutané.",
+ "profil": "Des volontaires sains de 18 à 55 ans.",
+ "inclusion": ["Âge de 18 à 55 ans, femmes ou hommes", "Poids ≥ 50 kg (hommes) ou ≥ 45 kg (femmes), IMC de 19,0 à 26,0 kg/m²", "Contraception hautement efficace jusqu'à 6 mois après le consentement, absence de don de sperme ou d'ovocytes", "Test de grossesse sérique négatif, pas de grossesse ni d'allaitement", "Consentement éclairé signé"],
+ "exclusion": ["Maladie aiguë ou chronique, passée ou actuelle, jugée incompatible (circulatoire, endocrinienne, neurologique, digestive, respiratoire, hématologique, immunologique, psychiatrique, métabolique)", "Antécédent d'infection sévère à herpèsvirus, de cancer, ou infection active", "Infection chronique ou récidivante traitée dans les 12 mois, test IGRA positif pour la tuberculose", "Facteurs de risque de torsades de pointes", "Chirurgie majeure dans les 6 mois, vaccination dans le mois précédent ou prévue pendant l'essai", "Médicament ou produit de santé pris dans les 7 demi-vies ou 14 jours avant la dose"],
+ "bras": [{"nom": "Groupes 1 à 5", "traitement": "Injection unique de SHR-7012 ou de placebo, cinq niveaux de dose croissants (doses non précisées)"}],
+ "duree": "Jusqu'à 141 jours",
+ "critere": "Incidence et gravité des événements indésirables, jusqu'au jour 141"
+}

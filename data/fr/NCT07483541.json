@@ -1,0 +1,14 @@
+{
+ "h": "d67b4d505920",
+ "date": "2026-11-14",
+ "titre": "Facteurs modifiables associés à la qualité du sommeil dans le lupus systémique",
+ "question": "Quels facteurs de mode de vie, de comportement et d'environnement sont associés à la qualité du sommeil chez les adultes atteints de lupus ?",
+ "contexte": "La qualité du sommeil influence la santé physique et mentale, la régulation immunitaire et la qualité de vie. Dans le lupus systémique, les troubles du sommeil sont très fréquents et associés à de moins bons résultats cliniques et psychosociaux, notamment la fatigue et la dépression.\n\nLa part respective des facteurs comportementaux et environnementaux potentiellement modifiables (activité physique, usage d'écrans, caféine, horaires, bruit, lumière, etc.) reste peu étudiée dans cette population, alors qu'elle pourrait guider des interventions simples, non médicamenteuses.\n\nCette étude observationnelle multicentrique, qui n'a pas encore débuté, inclut 250 adultes lupiques cliniquement stables depuis 3 mois. Elle analyse l'association entre ces facteurs modifiables et la qualité du sommeil mesurée lors d'une visite de dépistage.",
+ "interet": "Les résultats pourraient identifier des cibles de conseils d'hygiène de vie pour améliorer le sommeil des patients lupiques. Étude transversale : elle ne démontrera pas de lien de causalité.",
+ "profil": "Des adultes atteints de lupus systémique cliniquement stable.",
+ "inclusion": ["Âge ≥ 18 ans", "Diagnostic médical de lupus systémique selon les critères de classification actuels", "Femmes et hommes", "État clinique stable durant les 3 mois précédents", "Consentement écrit"],
+ "exclusion": ["Travail de nuit ou en horaires alternants", "Trouble primaire du sommeil traité spécifiquement (apnée sévère sous PPC, narcolepsie, etc.)", "Trouble psychiatrique ou cognitif empêchant de remplir correctement les questionnaires"],
+ "bras": [{"nom": "Groupe observationnel", "traitement": "Adultes atteints de lupus systémique, évalués lors d'une visite par questionnaires, sans intervention"}],
+ "duree": "Une visite d'évaluation (étude transversale)",
+ "critere": "Mesure de la qualité du sommeil lors de la visite de dépistage"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "7b3ce37f696a",
+ "date": "2026-11-14",
+ "titre": "AB-101 (cellules NK allogéniques) et anti-CD20 dans le lupus réfractaire et la néphropathie lupique",
+ "question": "L'AB-101, associé ou non à un anticorps anti-CD20, est-il sûr et actif dans la néphropathie lupique de classe III-IV ou le lupus réfractaire ?",
+ "contexte": "Les patients avec néphropathie lupique de classe III ou IV en rechute ou en échec, ou avec un lupus systémique réfractaire, n'ont que peu d'options après deux lignes de traitement. Les anticorps anti-CD20 (rituximab, obinutuzumab) déplètent les lymphocytes B, mais cette déplétion reste souvent incomplète dans les tissus.\n\nL'AB-101 (AlloNK) est un produit « prêt à l'emploi » de cellules NK allogéniques issues de sang de cordon. Les cellules NK renforcent l'effet des anticorps monoclonaux par cytotoxicité cellulaire dépendante des anticorps, ce qui pourrait améliorer la déplétion B. Cette étude de phase 1 d'Artiva Biotherapeutics, non randomisée, évalue l'AB-101 en monothérapie ou combiné au rituximab ou à l'obinutuzumab, après lymphodéplétion par cyclophosphamide et fludarabine. Un à deux cycles sont possibles, à 24 semaines d'intervalle. L'étude inclut 51 patients dans 9 centres (États-Unis).",
+ "interet": "Cette étude pourrait donner un signal de tolérance et d'activité d'une thérapie cellulaire allogénique d'emploi simple dans le lupus. Elle pourrait offrir une alternative aux CAR-T autologues.",
+ "profil": "Des adultes avec une néphropathie lupique de classe III ou IV, ou un lupus systémique réfractaire après au moins deux traitements.",
+ "inclusion": ["Lupus selon les critères EULAR/ACR 2019", "Réponse insuffisante à au moins 2 lignes de traitement standard", "Néphropathie lupique de classe III ou IV (± V) active à la biopsie, avec blocage du système rénine-angiotensine", "Ou lupus : SLEDAI-2K ≥ 8 (clinique ≥ 4) et BILAG A ≥ 1 organe ou B ≥ 2 organes"],
+ "exclusion": ["Cancer connu, passé ou actuel", "Maladie aiguë ou chronique instable ou non contrôlée non liée au lupus", "Infection virale active connue", "Lupus du système nerveux central sévère et actif"],
+ "bras": [{ "nom": "AB-101 en monothérapie", "traitement": "AB-101 après cyclophosphamide et fludarabine" }, { "nom": "AB-101 + obinutuzumab", "traitement": "AB-101 et obinutuzumab après cyclophosphamide et fludarabine" }, { "nom": "AB-101 + rituximab", "traitement": "AB-101 et rituximab après cyclophosphamide et fludarabine" }],
+ "duree": "104 semaines",
+ "critere": "Incidence des événements indésirables (dont graves) et activité clinique de l'AB-101, sur 104 semaines"
+}

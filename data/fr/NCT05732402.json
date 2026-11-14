@@ -1,0 +1,30 @@
+{
+ "h": "2a3d16a707a5",
+ "date": "2026-11-14",
+ "titre": "Povetacicept dans quatre glomérulopathies auto-immunes (IgA, membraneuse, lupus, ANCA)",
+ "question": "Le povetacicept, inhibiteur de BAFF et APRIL, est-il sûr et bénéfique dans la néphropathie à IgA, la néphropathie extra-membraneuse, la néphrite lupique et la vascularite à ANCA rénale ?",
+ "contexte": "La néphropathie à IgA, la néphropathie extra-membraneuse primitive, la néphrite lupique et la vascularite à ANCA sont des glomérulopathies médiées par des auto-anticorps ou des complexes immuns. Elles exposent à la protéinurie persistante et à l'insuffisance rénale malgré les traitements de soutien (IEC/ARA2) et les immunosuppresseurs, dont la toxicité reste importante.\n\nBAFF et APRIL sont des cytokines qui soutiennent la survie des lymphocytes B et des plasmocytes producteurs d'auto-anticorps. Le povetacicept est une protéine de fusion qui bloque BAFF et APRIL. Cette étude de phase 1/2 ouverte d'Alpine Immune Sciences inclut 72 adultes. La partie A comprend 24 semaines de traitement environ toutes les 4 semaines, avec des extensions possibles jusqu'à 104 semaines ; la partie B prolonge de 52 semaines le traitement des patients avec néphropathie à IgA ou membraneuse. Les critères d'inclusion varient : IgA avec UPCR ≥ 0,5 g/g sans immunosuppression, membraneuse anti-PLA2R ou anti-THSD7A avec UPCR ≥ 1 g/g, néphrite lupique de classe III/IV ± V avec UPCR ≥ 1 g/g, vascularite à ANCA rénale avec ANCA anti-MPO ou anti-PR3.",
+ "interet": "L'étude précisera la tolérance du povetacicept dans quatre maladies glomérulaires et recueillera des signaux d'efficacité à plusieurs doses. Sans comparateur, elle reste exploratoire.",
+ "profil": "Des adultes avec une glomérulopathie auto-immune prouvée : IgA, membraneuse primitive, néphrite lupique ou vascularite à ANCA rénale.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Glomérulopathie confirmée à la biopsie (IgA, membraneuse, néphrite lupique), ou vascularite à ANCA rénale avec ANCA anti-MPO ou anti-PR3",
+  "IEC/ARA2 à dose maximale tolérée depuis ≥ 12 semaines",
+  "IgA : biopsie < 10 ans, UPCR ≥ 0,5 g/g, sans immunosuppression",
+  "Membraneuse : anti-PLA2R1 ou anti-THSD7A, UPCR ≥ 1 g/g, réduction insuffisante malgré les soins de soutien",
+  "Néphrite lupique : classe III/IV ± V active < 6 mois, UPCR ≥ 1 g/g, immunosuppression stable depuis ≥ 8 semaines"
+ ],
+ "exclusion": [
+  "Autre maladie rénale",
+  "DFG < 30 mL/min/1,73 m²",
+  "Autres critères détaillés du protocole : non précisé dans l'extrait"
+ ],
+ "bras": [
+  {
+   "nom": "Povetacicept",
+   "traitement": "Environ toutes les 4 semaines pendant 24 semaines (partie A), extensions possibles ; 52 semaines supplémentaires en partie B pour IgA et membraneuse"
+  }
+ ],
+ "duree": "Jusqu'à 104 semaines selon les extensions",
+ "critere": "Nombre de participants avec événements indésirables et événements indésirables graves (partie A : jusqu'à 24 semaines après la dernière dose ; partie B : 12 semaines après)"
+}

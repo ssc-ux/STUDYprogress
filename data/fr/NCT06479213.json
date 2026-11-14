@@ -1,0 +1,14 @@
+{
+ "h": "f416a625f30d",
+ "date": "2026-11-14",
+ "titre": "REACH : coaching par les pairs pour la fatigue dans le lupus (étude pilote)",
+ "question": "Un programme de coaching par les pairs associé à une application mobile est-il faisable, acceptable et utile pour réduire la fatigue du lupus ?",
+ "contexte": "La fatigue est l'un des symptômes les plus fréquents et les plus invalidants du lupus systémique, souvent persistante malgré un contrôle de la maladie. L'activité physique régulière est recommandée et améliore la fatigue dans plusieurs maladies chroniques, mais les patients lupiques ont du mal à la mettre en place.\n\nLe programme REACH (Restore Energy, Activity Can Help) associe une application mobile de santé, qui permet de fixer des objectifs de mouvement hebdomadaires et d'enregistrer l'activité quotidienne, et un coaching hebdomadaire par un pair (une personne lupique formée).\n\nCette étude pilote randomisée de 36 participants (Tufts Medical Center) compare, pendant 12 semaines, l'application seule à l'application associée au coach pair. Les principaux objectifs sont la faisabilité, l'adhésion et l'acceptabilité, avec une évaluation exploratoire de l'effet sur la fatigue.",
+ "interet": "Étude pilote : elle préparera un essai plus large pour juger de l'efficacité d'une intervention non médicamenteuse sur la fatigue du lupus. Elle ne peut pas conclure sur l'efficacité.",
+ "profil": "Des adultes lupiques anglophones, équipés d'un smartphone et souffrant de fatigue.",
+ "inclusion": ["Lupus selon les critères ACR 2019", "Âge ≥ 18 ans", "Anglophone", "Possession d'un smartphone", "Autorisation du médecin pour pratiquer une activité physique", "Score de l'échelle de sévérité de la fatigue ≥ 4"],
+ "exclusion": ["Incapacité à consentir ou à suivre le protocole (adultes avec déficit cognitif)"],
+ "bras": [{"nom": "Programme REACH avec coach pair", "traitement": "Application mobile REACH et rencontre hebdomadaire avec un coach pair pendant 12 semaines"}, {"nom": "Application mobile REACH", "traitement": "Application mobile seule pendant 12 semaines (objectifs de mouvement, journal d'activité)"}],
+ "duree": "12 semaines de programme, suivi jusqu'à 12 mois",
+ "critere": "Faisabilité à 6 mois, adhésion à 12 mois, acceptabilité à 12-24 semaines"
+}

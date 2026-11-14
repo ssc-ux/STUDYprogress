@@ -1,0 +1,14 @@
+{
+ "h": "af471e2cdb3e",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19/BCMA dans le lupus systémique réfractaire",
+ "question": "Les CAR-T CD19/BCMA sont-elles sûres et efficaces chez des adultes avec un lupus systémique réfractaire, et à quelle dose ?",
+ "contexte": "Une proportion de patients atteints de lupus systémique reste en échec des immunosuppresseurs et des biothérapies actuels, avec un risque de poussées, de dommages d'organe et de décès. Les CAR-T anti-CD19 ont induit des rémissions prolongées sans traitement dans de petites séries de lupus réfractaire, en éliminant les lymphocytes B.\n\nLe ciblage associé de BCMA vise aussi les plasmocytes, source d'auto-anticorps de longue durée de vie et peu sensibles aux traitements anti-CD20. Cette étude de phase 1 chinoise, à bras unique, évalue un produit CD19/BCMA de la société Chengdu Ucello, dans un seul centre (hôpital général du commandement du théâtre Ouest). Elle inclut 24 patients, en escalade de dose, pour déterminer les toxicités limitantes, la dose biologique optimale et une efficacité préliminaire (rémission DORIS, SRI-4, LLDAS). L'hospitalisation est d'au moins 7 jours après perfusion.",
+ "interet": "Cette étude pourrait établir la tolérance et la dose d'un CAR-T double cible dans le lupus. Elle pourrait indiquer si le ciblage des plasmocytes apporte un bénéfice supplémentaire.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus systémique actif, en échec d'au moins deux traitements conventionnels.",
+ "inclusion": ["Âge de 18 à 65 ans", "Lupus systémique selon les critères EULAR/ACR 2019", "Échec d'au moins 2 traitements conventionnels pendant ≥ 3 mois", "SELENA-SLEDAI ≥ 6 avec BILAG A ou deux B, ou SELENA-SLEDAI ≥ 8", "Fonctions médullaire, hépatique, rénale (clairance ≥ 30 mL/min) et coagulation adéquates", "Contraception efficace"],
+ "exclusion": ["Infection non contrôlée (bactérienne, virale, fongique), hépatite B ou C active, VIH, syphilis", "Allergie sévère médicamenteuse ou terrain atopique", "Fonction cardiaque insuffisante", "Déficit immunitaire humoral congénital", "Cancer dans les 5 ans", "Insuffisance rénale terminale", "Maladie psychiatrique ou troubles cognitifs sévères", "Grossesse ou projet de grossesse"],
+ "bras": [{ "nom": "CAR-T CD19/BCMA", "traitement": "Perfusion unique de CAR-T CD19/BCMA à J0, escalade de dose (doses non précisées)" }],
+ "duree": "24 mois de visites (J14, J28, puis mois 3, 6, 9, 12, 18, 24)",
+ "critere": "Incidence des toxicités limitant la dose et des événements indésirables liés aux CAR-T, jusqu'à 28 jours après la perfusion"
+}

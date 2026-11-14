@@ -1,0 +1,29 @@
+{
+ "h": "8100d2bf9426",
+ "date": "2026-11-14",
+ "titre": "ACG102 par voie intraveineuse dans le lupus systémique actif réfractaire",
+ "question": "L'ACG102 est-il bien toléré à doses croissantes chez des patients atteints de lupus systémique actif réfractaire ?",
+ "contexte": "Une partie des patients lupiques reste en maladie active malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies disponibles. Ces formes réfractaires exposent aux poussées, à l'atteinte d'organe et aux effets cumulés des corticoïdes.\n\nL'ACG102 est une molécule en développement administrée par voie intraveineuse ; le registre n'en précise ni la nature ni la cible. Cette étude de phase 1, premier essai chez l'humain, est ouverte et monobras. Elle évalue des doses intraveineuses croissantes répétées à des jours prédéfinis, avec ajustement possible selon la tolérance et les données de pharmacocinétique et de pharmacodynamie.\n\nElle est menée à l'Union Hospital de Wuhan et prévoit 13 patients adultes, avec un suivi de 52 semaines. Elle évalue aussi l'immunogénicité et l'efficacité préliminaire.",
+ "interet": "L'étude fournira les premières données humaines de tolérance et de pharmacologie de l'ACG102 dans le lupus. Elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif réfractaire au traitement standard.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Maladie active réfractaire ou en rechute malgré le traitement standard",
+  "Traitement standard à dose stable depuis au moins 4 semaines",
+  "Fonction d'organe suffisante selon le protocole"
+ ],
+ "exclusion": [
+  "Infection sévère active, dont tuberculose",
+  "Hypogammaglobulinémie sévère ou déficit en IgA",
+  "Hépatite active ou antécédent d'atteinte hépatique sévère",
+  "Maladie cardiovasculaire sévère, cancer dans les 5 dernières années",
+  "Thérapie ciblant les lymphocytes B ou autre biothérapie dans le délai de sevrage défini",
+  "Antécédent de greffe d'organe ou de moelle, allergie au produit"
+ ],
+ "bras": [
+  { "nom": "ACG102", "traitement": "Doses intraveineuses croissantes répétées à des jours prédéfinis ; doses et rythme exacts non précisés" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Toxicités dose-limitantes dans les 21 jours après la première dose ; événements indésirables et anomalies biologiques jusqu'à la semaine 52"
+}

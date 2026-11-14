@@ -1,0 +1,27 @@
+{
+ "h": "b62d926ca355r",
+ "date": "2026-11-14",
+ "titre": "Deucravacitinib à long terme dans le lupus systémique (extension de la phase 2)",
+ "question": "Quelle est la tolérance à long terme du deucravacitinib chez les patients atteints de lupus systémique ayant terminé la phase 2 PAISLEY ?",
+ "contexte": "Le lupus érythémateux systémique (LES) nécessite souvent un traitement prolongé, et les options ciblées restent limitées. Les voies de l'interféron de type I et d'autres cytokines y jouent un rôle central.\n\nLe deucravacitinib (BMS-986165) est un inhibiteur sélectif oral de la tyrosine kinase 2 (TYK2), qui intervient dans la signalisation de l'interféron de type I, de l'IL-12 et de l'IL-23. Il est déjà utilisé dans le psoriasis. Dans la phase 2 du LES (NCT03252587), il a été comparé au placebo à trois doses.\n\nCette extension à long terme, promue par Bristol-Myers Squibb, inclut les patients ayant terminé la phase 2 sous traitement en aveugle. Son objectif principal est la tolérance, jusqu'à environ 42 mois. Les doses de l'étude initiale sont conservées, et les patients sous placebo passent au deucravacitinib.",
+ "interet": "L'étude apporte la tolérance à long terme du deucravacitinib dans le LES, informative pour les phases 3 en cours. Elle ne permet pas de comparaison au placebo.",
+ "profil": "Des adultes de 18 à 75 ans atteints de LES ayant terminé la phase 2 du deucravacitinib.",
+ "inclusion": [
+  "Fin de la période de traitement requise de l'étude de phase 2 dans le LES (NCT03252587)",
+  "Traitement en aveugle en cours à l'inclusion (exceptions possibles avec accord du promoteur)",
+  "Âge de 18 à 75 ans"
+ ],
+ "exclusion": [
+  "Affection jugée incompatible avec l'étude ou gênant l'interprétation de la tolérance",
+  "Tuberculose active",
+  "Autres critères définis par le protocole : non précisé"
+ ],
+ "bras": [
+  { "nom": "Deucravacitinib 12 mg une fois par jour", "traitement": "Patients venant du bras 12 mg ou du placebo" },
+  { "nom": "Deucravacitinib 6 mg deux fois par jour", "traitement": "Patients venant du bras 6 mg 2×/j ou du placebo" },
+  { "nom": "Deucravacitinib 3 mg deux fois par jour", "traitement": "Patients venant du bras 3 mg 2×/j ou du placebo" }
+ ],
+ "duree": "Jusqu'à environ 42 mois",
+ "critere": "Nombre de participants avec événements indésirables et événements indésirables graves apparus sous traitement, jusqu'à 30 jours après la dernière dose",
+ "resultats": "Le critère principal est la tolérance, sans comparaison à un placebo. Des événements indésirables sont survenus chez 51 des 58 patients sous 12 mg/j, 63 des 73 sous 6 mg 2×/j et 62 des 67 sous 3 mg 2×/j (patients continuant le même bras), et chez 21/21, 19/21 et 18/21 patients passés du placebo à ces trois doses. Des événements indésirables graves ont été rapportés chez 13 (12 mg), 9 (6 mg 2×/j) et 11 (3 mg 2×/j) patients dans les groupes continuant le même traitement, et chez 4, 0 et 3 patients dans les groupes passés du placebo. Un décès est survenu dans le groupe 3 mg 2×/j, aucun dans les autres groupes. Les résultats sur l'efficacité ne sont pas détaillés dans le registre."
+}

@@ -1,0 +1,33 @@
+{
+ "h": "98a5af85c5b8",
+ "date": "2026-11-14",
+ "titre": "KN5501 (CAR-NK anti-CD19) dans le lupus systémique réfractaire (CLEAR)",
+ "question": "Les cellules CAR-NK anti-CD19 KN5501 sont-elles sûres et réduisent-elles l'activité d'un lupus réfractaire ?",
+ "contexte": "Le lupus systémique actif et réfractaire reste une situation sans solution durable pour une partie des patients. Les CAR-T anti-CD19 ont produit des rémissions, mais exposent à des toxicités (syndrome de relargage cytokinique, neurotoxicité) et nécessitent une fabrication individuelle.\n\nLes cellules NK porteuses d'un CAR (CAR-NK) pourraient offrir une déplétion B avec moins de toxicités et sous forme de produit allogénique disponible. Le KN5501, de Ruitherapeutics, est une injection de cellules CAR-NK ciblant CD19. Cette étude de phase 1 multicentrique chinoise (6 centres, investigateur Mengtao Li à Pékin), ouverte, non randomisée, inclut 36 adultes. Après lymphodéplétion, les patients reçoivent une ou plusieurs perfusions (3 à 5), avec une escalade de dose pour déterminer la dose maximale tolérée. Les patients avec néphropathie sévère ou atteinte neurologique centrale sont exclus.",
+ "interet": "Cette étude pourrait établir la tolérance et la dose d'une thérapie CAR-NK dans le lupus. Elle indiquerait si cette approche pourrait remplacer les CAR-T avec un profil de sécurité plus favorable.",
+ "profil": "Des adultes de 18 à 70 ans avec un lupus systémique réfractaire, d'activité modérée à sévère.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, poids > 40 kg",
+  "Lupus réfractaire d'activité modérée à sévère",
+  "Neutrophiles ≥ 1,5 G/L, hémoglobine ≥ 80 g/L, plaquettes ≥ 50 G/L (sauf PTI liée au lupus)",
+  "Fonctions hépatique, rénale, pulmonaire et cardiaque adéquates",
+  "Lymphocytes B CD19+ > 5/µL",
+  "Contraception efficace jusqu'à 1 an après la dernière dose"
+ ],
+ "exclusion": [
+  "Allergie à un composant du KN5501 (dextran 40), à la fludarabine, au cyclophosphamide ou au tocilizumab",
+  "Néphropathie lupique sévère (protéinurie ≥ 3,5 g/24 h ou épuration extrarénale antérieure)",
+  "Atteinte du système nerveux central (encéphalopathie, convulsions, AVC, vascularite cérébrale)",
+  "Maladie pulmonaire sévère ou hypertension pulmonaire ≥ grade 3",
+  "Maladie cardiovasculaire instable (infarctus < 6 mois, angor instable, insuffisance cardiaque NYHA ≥ 3)",
+  "Cancer dans les 5 ans, infection grave nécessitant des antibiotiques IV dans les 14 jours"
+ ],
+ "bras": [
+  {
+   "nom": "KN5501",
+   "traitement": "Après lymphodéplétion, 1 ou 3 à 5 perfusions intraveineuses de cellules CAR-NK, escalade de dose"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Toxicités limitant la dose (2 semaines en dose unique, 4 semaines en doses répétées) et nombre de participants avec événements indésirables, jusqu'à 52 semaines"
+}

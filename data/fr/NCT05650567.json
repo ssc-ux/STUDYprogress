@@ -1,0 +1,26 @@
+{
+ "h": "6d43823829d6r",
+ "date": "2026-11-14",
+ "titre": "Enpatoran (M5049) versus placebo dans la dermatomyosite et la polymyosite",
+ "question": "L'enpatoran, inhibiteur oral de TLR7/8, améliore-t-il l'activité de la dermatomyosite et de la polymyosite à 24 semaines ?",
+ "contexte": "La dermatomyosite (DM) et la polymyosite (PM) sont des myopathies inflammatoires idiopathiques traitées par corticoïdes, immunosuppresseurs, immunoglobulines IV et rituximab. Les formes réfractaires et la toxicité cortisonique restent un problème.\n\nLes récepteurs Toll-like 7 et 8 reconnaissent l'ARN endogène et entretiennent l'activation immunitaire innée et la production d'interféron de type I, dont la signature est marquée dans les myosites, surtout dans la DM. L'enpatoran (M5049) est un inhibiteur oral de TLR7 et TLR8, développé par EMD Serono, étudié également dans le lupus (étude WILLOW).\n\nNEPTUNIA est une étude de phase 2 randomisée en double aveugle contre placebo, avec extension ouverte. L'enpatoran est administré à 100 mg deux fois par jour pendant 24 semaines. Elle a été arrêtée prématurément (20 patients).",
+ "interet": "L'étude apporte un premier signal sur l'inhibition orale de TLR7/8 dans les myosites. L'arrêt précoce et le petit effectif limitent la portée.",
+ "profil": "Des adultes de 18 à 75 ans atteints de dermatomyosite ou de polymyosite active malgré le traitement standard.",
+ "inclusion": [
+  "DM ou PM probable ou certaine (ACR/EULAR 2017) avec auto-anticorps positifs ; syndrome des anti-synthétases autorisé",
+  "Myosite active dans les 6 mois : biopsie, EMG, IRM, enzymes musculaires ≥ 4 × N, ou rash avec CDASI-A ≥ 7",
+  "Myopathie modérée à sévère : MMT-8 entre 80 et 142 et au moins 2 mesures de base anormales",
+  "Corticoïdes oraux stables et/ou au plus un immunosuppresseur non corticoïde",
+  "IMC ≤ 40 kg/m²"
+ ],
+ "exclusion": [
+  "Critères d'exclusion détaillés : non précisé dans les données retenues"
+ ],
+ "bras": [
+  { "nom": "Enpatoran", "traitement": "100 mg par voie orale deux fois par jour pendant 24 semaines, puis extension ouverte" },
+  { "nom": "Placebo", "traitement": "Placebo oral pendant 24 semaines" }
+ ],
+ "duree": "24 semaines en double aveugle, suivi de sécurité jusqu'à la semaine 26, puis extension ouverte",
+ "critere": "Score d'amélioration totale ACR/EULAR (TIS) à la semaine 24",
+ "resultats": "L'étude a été arrêtée prématurément. À la semaine 24, le TIS moyen était de 51,3 (écart type 26,96 ; n = 6) sous placebo contre 30,4 (20,76 ; n = 6) sous enpatoran 100 mg deux fois par jour, soit une amélioration moyenne numériquement plus faible dans le bras actif. Aucune analyse statistique n'est rapportée. Des événements indésirables sont survenus chez 7 patients sur 9 sous placebo et 7 sur 11 sous enpatoran, dont 2 événements graves sous enpatoran et aucun sous placebo. Aucun décès n'est rapporté. Les effectifs très faibles ne permettent pas de conclure."
+}

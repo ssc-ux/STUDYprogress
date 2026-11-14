@@ -1,0 +1,29 @@
+{
+ "h": "41568a8fbe3d",
+ "date": "2026-11-14",
+ "titre": "Sérum autologue avec ou sans insuline dans la sécheresse oculaire auto-immune",
+ "question": "L'ajout d'insuline au collyre de sérum autologue améliore-t-il les symptômes et les signes de la sécheresse oculaire auto-immune ?",
+ "contexte": "La sécheresse oculaire d'origine auto-immune, notamment au cours du syndrome de Sjögren, est souvent sévère et résistante aux traitements conventionnels (larmes artificielles, ciclosporine, anti-inflammatoires).\n\nLe collyre de sérum autologue a des propriétés biochimiques et biomécaniques proches de celles des larmes naturelles et est utilisé dans les formes modérées à sévères. L'insuline topique a des effets anti-inflammatoires et favorise la prolifération, la différenciation et la migration des cellules épithéliales, ce qui peut améliorer la stabilité de la surface oculaire.\n\nCette étude de phase 3 randomisée en simple aveugle, menée à l'Instituto de Oftalmología Conde de Valenciana (Mexique), compare le sérum autologue seul (groupe contrôle) au sérum autologue avec insuline à 1 UI/mL chez 25 patients atteints de syndrome de Sjögren.",
+ "interet": "L'étude peut documenter un traitement adjuvant simple et peu coûteux dans la sécheresse oculaire sévère du Sjögren. L'effectif est faible et le suivi court, ce qui limite la portée.",
+ "profil": "Des adultes atteints de syndrome de Sjögren avec sécheresse oculaire modérée à sévère.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Syndrome de Sjögren primaire ou secondaire (critères ACR-EULAR 2016) confirmé par un rhumatologue",
+  "Sécheresse oculaire modérée à sévère : OSDI ≥ 23, score de Van Bijsterveld ≥ 4",
+  "Temps de rupture du film lacrymal non invasif ≤ 7 s, hauteur du ménisque lacrymal ≤ 0,3 mm",
+  "Respect du protocole et du suivi"
+ ],
+ "exclusion": [
+  "Participation à un autre essai dans les 3 semaines",
+  "Aminosides topiques, lentilles thérapeutiques",
+  "Hypersensibilité à un composant du traitement",
+  "Infection oculaire active, chirurgie ou traumatisme oculaire dans les 3 mois, atteinte de l'intégrité cornéenne",
+  "Greffe de cornée, grossesse, allaitement ou grossesse planifiée"
+ ],
+ "bras": [
+  { "nom": "Sérum autologue + insuline", "traitement": "Sérum autologue additionné d'insuline humaine recombinante à 1 UI/mL" },
+  { "nom": "Sérum autologue seul", "traitement": "Sérum autologue sans insuline" }
+ ],
+ "duree": "30 jours (évaluations à l'inclusion, à 10 jours et à 30 jours)",
+ "critere": "Score OSDI à l'inclusion, à 10 jours et à 30 jours"
+}

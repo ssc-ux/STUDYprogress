@@ -1,0 +1,33 @@
+{
+ "h": "7cb6ae1c3d10",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 dans les maladies auto-immunes systémiques médiées par les lymphocytes B",
+ "question": "Un CAR-T anti-CD19 est-il sûr dans le lupus, la sclérodermie systémique et les myosites réfractaires ?",
+ "contexte": "Le lupus systémique, la sclérodermie systémique et les myopathies inflammatoires (dermatomyosite, polymyosite) peuvent rester actifs et sévères malgré les corticoïdes et les immunosuppresseurs. Les lymphocytes B et la production d'auto-anticorps jouent un rôle central dans ces maladies.\n\nLes CAR-T anti-CD19 induisent une déplétion B profonde, plus complète que celle du rituximab. Des séries de cas, surtout dans le lupus, ont montré des rémissions prolongées sans traitement de fond. Cette étude, promue par Miltenyi Biomedicine, teste un produit autologue transduit par vecteur lentiviral exprimant un CAR anti-CD19, enrichi en lymphocytes T CD4/CD8.\n\nIl s'agit d'un essai de phase 1/2 ouvert « basket » à un bras, d'environ 24 patients. Après leucaphérèse et lymphodéplétion, une perfusion unique est administrée. Le critère principal est la tolérance, avant l'évaluation de l'efficacité dans chaque maladie.",
+ "interet": "Elle pourrait fournir des données de sécurité et d'efficacité préliminaires d'un CAR-T anti-CD19 dans plusieurs maladies auto-immunes. Elle ne comporte pas de comparateur.",
+ "profil": "Des adultes atteints de lupus, sclérodermie systémique ou myosite, actifs et réfractaires.",
+ "inclusion": [
+  "Âge ≥ 18 ans, fonctions rénale, hépatique, cardiaque et pulmonaire acceptables",
+  "LES : critères ACR/EULAR 2019, auto-anticorps spécifiques positifs",
+  "LES actif : BILAG A dans ≥ 1 organe ou B dans ≥ 2 organes",
+  "Échec ou intolérance aux corticoïdes et à ≥ 2 traitements (HCQ, MMF, bélimumab, méthotrexate, rituximab, cyclophosphamide)",
+  "Contraception efficace pendant 12 mois",
+  "Vaccination anti-SARS-CoV-2 ou infection récente"
+ ],
+ "exclusion": [
+  "Possibilité d'une option moins lourde ou approuvée",
+  "Neutropénie, lymphopénie ou anémie sévère, CD3+ < 100/µl",
+  "Maladie sévère non contrôlée (cancer, diabète) ou fonction d'organe très altérée",
+  "Traitement antérieur anti-CD19, thérapie cellulaire ou génique",
+  "Antécédent de greffe de cellules souches ou d'organe",
+  "Infection active sévère (VIH, hépatites B/C, COVID-19, tuberculose)"
+ ],
+ "bras": [
+  {
+   "nom": "Dose active",
+   "traitement": "Perfusion unique de CAR-T anti-CD19 autologues après lymphodéplétion"
+  }
+ ],
+ "duree": "Suivi à long terme (durée par patient non précisée)",
+ "critere": "Tolérance du traitement jusqu'au jour 28"
+}

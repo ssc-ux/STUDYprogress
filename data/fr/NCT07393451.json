@@ -1,0 +1,33 @@
+{
+ "h": "228787ef9b6e",
+ "date": "2026-11-14",
+ "titre": "SIM0278 versus placebo dans la néphrite lupique active : phase 2a",
+ "question": "Le SIM0278, ajouté à l'induction standard, augmente-t-il la réponse rénale à 52 semaines dans la néphrite lupique active ?",
+ "contexte": "La néphrite lupique est l'atteinte d'organe la plus grave du lupus. L'induction standard associe des corticoïdes à forte dose et le mycophénolate, ou le cyclophosphamide. Les anticalcineurines, le bélimumab et l'obinutuzumab sont désormais utilisables en association. Pourtant la réponse rénale complète à 1 an reste atteinte par moins de la moitié des patients.\n\nLe registre n'indique pas la nature précise du SIM0278, développé par Simcere Pharmaceutical. L'essai de phase 2a est multicentrique, randomisé 1:1 en double aveugle contre placebo, chez environ 60 adultes de 18 à 75 ans avec néphrite lupique active éligible à un traitement systémique. Tous reçoivent l'induction standard par corticoïdes à forte dose et mycophénolate, débutée dans les 60 jours précédant l'inclusion. Le critère principal est la réponse rénale globale (complète + partielle) à la semaine 52.",
+ "interet": "Si le signal d'efficacité est positif, le SIM0278 pourrait s'ajouter aux options de traitement de la néphrite lupique. À ce stade, l'étude reste de petite taille.",
+ "profil": "Des adultes de 18 à 75 ans avec une néphrite lupique active, sous induction par corticoïdes et mycophénolate.",
+ "inclusion": [
+  "Poids ≥ 40 kg",
+  "Lupus selon les critères ACR/EULAR 2019",
+  "Induction de la néphrite lupique (corticoïdes à forte dose et mycophénolate) en cours ou à débuter, démarrée dans les 60 jours avant l'inclusion ou le jour même",
+  "Néphrite lupique active éligible à un traitement systémique"
+ ],
+ "exclusion": [
+  "Autre néphropathie (par exemple diabétique) gênant l'évaluation",
+  "Insuffisance rénale sévère : oligurie (< 400 mL/24 h) ou insuffisance rénale terminale nécessitant dialyse ou greffe",
+  "Échec d'une induction antérieure par mycophénolate/acide mycophénolique",
+  "Incapacité ou refus de consentir et de suivre le protocole"
+ ],
+ "bras": [
+  {
+   "nom": "SIM0278",
+   "traitement": "SIM0278 + induction standard (corticoïdes à forte dose, mycophénolate)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo + induction standard (corticoïdes à forte dose, mycophénolate)"
+  }
+ ],
+ "duree": "52 semaines, plus suivi de sécurité",
+ "critere": "Proportion de patients avec réponse rénale globale (complète + partielle) à la semaine 52"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "68d753702f5dr",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab versus placebo dans le lupus systémique actif chez des patients asiatiques",
+ "question": "L'anifrolumab IV améliore-t-il la réponse clinique à 52 semaines dans le LES actif chez des patients asiatiques ?",
+ "contexte": "Le lupus érythémateux systémique (LES) modéré à sévère reste actif chez de nombreux patients malgré les corticoïdes, les antipaludéens et les immunosuppresseurs. L'interféron de type I joue un rôle central dans sa physiopathologie, avec une signature interféron présente chez une majorité de patients.\n\nL'anifrolumab est un anticorps anti-récepteur de l'interféron de type I (IFNAR1), approuvé dans le LES modéré à sévère sous traitement standard, sur la base des essais TULIP-1 et TULIP-2. Ces essais incluaient peu de patients asiatiques, d'où la nécessité de confirmer l'efficacité et la tolérance dans cette population.\n\nCette étude de phase 3 d'AstraZeneca, multicentrique et multinationale, randomisée en double aveugle contre placebo, évalue l'anifrolumab 300 mg IV toutes les 4 semaines pendant 48 semaines chez des patients de 18 à 70 ans, auto-anticorps positifs, sous traitement standard.",
+ "interet": "L'étude confirme ou non l'efficacité de l'anifrolumab dans une population asiatique, ce qui complète les données d'enregistrement et éclaire l'hétérogénéité de réponse selon l'origine géographique.",
+ "profil": "Des adultes de 18 à 70 ans d'origine asiatique atteints de LES modéré à sévère, auto-anticorps positifs, sous traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, poids ≥ 40 kg",
+  "LES (critères ACR 1997 révisés) depuis ≥ 24 semaines",
+  "Traitement standard stable : prednisone 7,5-40 mg/j et/ou immunosuppresseur",
+  "ANA, anti-ADN natif ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 6, SLEDAI clinique ≥ 4, BILAG ≥ 1 A ou 2 B, PGA ≥ 1",
+  "Pas d'antécédent de tuberculose active"
+ ],
+ "exclusion": [
+  "Vascularite non lupique, lupus neuropsychiatrique sévère ou instable, néphropathie lupique sévère active",
+  "Syndrome des antiphospholipides catastrophique",
+  "Maladie articulaire ou cutanée inflammatoire autre que le LES",
+  "Antécédent ou notion d'idées suicidaires",
+  "Connectivite mixte ou syndrome de chevauchement (sauf exceptions)"
+ ],
+ "bras": [
+  { "nom": "Anifrolumab", "traitement": "300 mg IV toutes les 4 semaines, de S0 à S48" },
+  { "nom": "Placebo", "traitement": "Placebo IV toutes les 4 semaines, de S0 à S48" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Différence de proportion de répondeurs entre anifrolumab et placebo à la semaine 52",
+ "resultats": "À la semaine 52, 84 des 138 patients du groupe anifrolumab 300 mg étaient répondeurs, contre 46 des 138 patients du groupe placebo, soit une différence de 28,4 points. L'analyse est bayésienne et la valeur rapportée est > 0,999 (probabilité postérieure de supériorité) ; la définition exacte du répondeur n'est pas détaillée dans le registre. Des événements indésirables graves sont survenus chez 30 patients sous anifrolumab et 17 sous placebo. Aucun décès n'a été rapporté."
+}

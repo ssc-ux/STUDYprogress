@@ -1,0 +1,32 @@
+{
+ "h": "68d753702f5dr",
+ "date": "2026-11-14",
+ "titre": "Fipaxalparant (HZN-825) versus placebo dans la sclérodermie cutanée diffuse",
+ "question": "Le fipaxalparant, antagoniste du récepteur LPA1, ralentit-il le déclin de la capacité vitale forcée dans la sclérodermie cutanée diffuse ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse est une maladie fibrosante avec une atteinte cutanée évolutive et un risque de pneumopathie interstitielle diffuse, première cause de mortalité. Les options sont limitées : immunosuppresseurs (mycophénolate, cyclophosphamide), tocilizumab, nintédanib pour la PID, autogreffe dans les formes sévères.\n\nL'acide lysophosphatidique agit via son récepteur LPA1, qui contribue à la fibrose et à l'inflammation. Le fipaxalparant (HZN-825) est un antagoniste oral de LPA1, développé par Horizon puis Amgen, étudié dans la sclérodermie et la fibrose pulmonaire idiopathique.\n\nCette étude de phase 2 randomisée en double aveugle contre placebo comparait 300 mg une fois par jour, 300 mg deux fois par jour et placebo sur 52 semaines, avec une extension ouverte (NCT05626751). Elle a été arrêtée prématurément.",
+ "interet": "L'étude évaluait une approche anti-fibrosante ciblant la voie LPA1 dans la sclérodermie diffuse. Le critère d'efficacité principal n'a pas été atteint, ce qui oriente la suite du développement.",
+ "profil": "Des adultes de 18 à 75 ans atteints de sclérodermie cutanée diffuse évoluant depuis 6 ans au plus.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, critères ACR/EULAR 2013 de sclérodermie (score ≥ 9)",
+  "Forme cutanée diffuse (LeRoy et Medsger), évolution ≤ 72 mois depuis le premier symptôme non-Raynaud",
+  "mRSS ≥ 15 au dépistage",
+  "Peau de l'avant-bras permettant des biopsies répétées",
+  "CVF ≥ 45 % de la théorique"
+ ],
+ "exclusion": [
+  "Anticorps anti-centromères positifs (sauf double positivité avec anti-topoisomérase 1)",
+  "Sclérodermie sine ou cutanée limitée",
+  "Autre connectivite (sauf fibromyalgie, myopathie sclérodermique, Sjögren secondaire)",
+  "Crise rénale sclérodermique dans les 6 mois",
+  "HTA sévère non contrôlée ou hypotension persistante, infarctus ou angor instable dans les 6 mois",
+  "DLCO < 40 % de la théorique (corrigée pour l'hémoglobine)"
+ ],
+ "bras": [
+  { "nom": "Fipaxalparant 300 mg une fois par jour", "traitement": "2 comprimés de 150 mg le matin, placebo le soir" },
+  { "nom": "Fipaxalparant 300 mg deux fois par jour", "traitement": "2 comprimés de 150 mg matin et soir" },
+  { "nom": "Placebo", "traitement": "Comprimés placebo matin et soir" }
+ ],
+ "duree": "52 semaines, plus 4 semaines de suivi de tolérance",
+ "critere": "Variation de la CVF en pourcentage de la théorique entre l'inclusion et la semaine 52",
+ "resultats": "L'étude a été arrêtée prématurément. À la semaine 52, la variation moyenne ajustée de la CVF en % de la théorique était de -2,35 (erreur standard 0,94 ; n = 60) à 300 mg une fois par jour, de -3,22 (0,98 ; n = 55) à 300 mg deux fois par jour et de -2,35 (0,94 ; n = 57) sous placebo. La différence avec le placebo est de 0,00 (IC 95 % -2,61 à 2,62 ; p = 1,000) pour la dose quotidienne unique et de -0,87 (IC 95 % -3,55 à 1,82 ; p = 0,525) pour la dose biquotidienne. Aucun bénéfice sur la CVF n'est donc observé. Des événements indésirables graves ont été rapportés chez 9 patients sur 100 (1×/j), 8 sur 102 (2×/j) et 5 sur 99 (placebo). Un décès est survenu dans le groupe 2×/j et un dans le groupe placebo."
+}

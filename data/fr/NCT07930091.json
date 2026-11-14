@@ -1,0 +1,14 @@
+{
+ "h": "41379afef934",
+ "date": "2026-11-14",
+ "titre": "Panel de biomarqueurs moléculaires pour identifier la néphrite lupique chez les patients lupiques",
+ "question": "Un panel de huit biomarqueurs moléculaires distingue-t-il les patients lupiques avec néphrite de ceux sans atteinte rénale ?",
+ "contexte": "La néphrite lupique est une cause majeure de morbidité rénale dans le lupus érythémateux systémique (LES). Les paramètres cliniques, rénaux et sérologiques usuels ne séparent pas toujours bien les patients avec atteinte rénale de ceux sans, et la biopsie reste l'examen de référence.\n\nCette étude transversale observationnelle, promue par l'Egyptian Chinese University, évalue un panel de huit biomarqueurs : les ARN non codants MALAT1, GAS5, miR-155 et miR-223, les marqueurs inflammatoires IFN-β, lipocaline-2 et IL-23, et la métalloprotéinase MMP-9 liée au remodelage tissulaire. Quarante patients lupiques, avec ou sans néphrite, sont comparés. L'étude analysera aussi les liens avec l'activité, les dommages cumulés et les données histologiques disponibles. La performance discriminante de l'évaluation clinique, du panel et de leur combinaison sera comparée.",
+ "interet": "Des biomarqueurs non invasifs fiables pourraient aider à repérer plus tôt l'atteinte rénale ou à orienter l'indication de biopsie. Le faible effectif impose une validation externe avant toute application.",
+ "profil": "Des adultes atteints de LES, avec ou sans néphrite lupique.",
+ "inclusion": ["Âge ≥ 18 ans", "LES établi, documenté au dossier", "Appartenance à l'un des deux groupes : LES avec néphrite ou LES sans néphrite", "Données cliniques et biologiques suffisantes", "Échantillons sanguins adaptés aux dosages"],
+ "exclusion": ["Diagnostic de LES incertain ou non documenté", "Statut rénal ne permettant pas le classement", "Autre maladie auto-immune ou inflammatoire active interférant avec les biomarqueurs", "Infection active au prélèvement", "Cancer ou autre affection majeure modifiant les biomarqueurs", "Données ou échantillons insuffisants"],
+ "bras": [{"nom": "Groupe 1 : LES avec néphrite lupique", "traitement": "Dosage des biomarqueurs moléculaires sur un prélèvement sanguin"}, {"nom": "Groupe 2 : LES sans néphrite lupique", "traitement": "Mêmes dosages"}],
+ "duree": "Prélèvement unique (évaluation à l'inclusion)",
+ "critere": "Capacité du panel de biomarqueurs à distinguer les patients avec néphrite lupique de ceux sans, à l'inclusion"
+}

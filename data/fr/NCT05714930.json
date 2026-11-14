@@ -1,0 +1,28 @@
+{
+ "h": "46c20ad28604",
+ "date": "2026-11-14",
+ "titre": "LUPUS-BEST : stratégie treat-to-target dans le lupus systémique",
+ "question": "Une stratégie treat-to-target avec contrôle rapproché réduit-elle l'accumulation de dommages dans le lupus par rapport aux soins courants ?",
+ "contexte": "Le lupus systémique évolue par poussées et accumule des dommages d'organe, liés à la maladie et à la corticothérapie. Les recommandations de l'EULAR et d'un consensus international (Treat-to-Target) proposent la rémission, ou à défaut une faible activité, comme cible thérapeutique avec une dose de prednisone ≤ 5 mg/jour.\n\nLa démonstration que cette stratégie réduit les dommages et améliore la qualité de vie dans un essai randomisé fait défaut. Dans la polyarthrite, le T2T a prouvé son intérêt, mais le lupus, plus hétérogène, n'a pas été testé de la même façon.\n\nLUPUS-BEST est un essai allemand, randomisé en grappes, promu par l'université Heinrich-Heine de Düsseldorf. Quatorze centres sont randomisés 1:1 entre T2T et soins courants, avec 303 patients par bras. Dans les centres T2T, formés à la décision partagée, les patients hors cible ont des visites toutes les 6 semaines avec ajustement du traitement jusqu'à la rémission, définie par SLEDAI clinique = 0, prednisone ≤ 5 mg/jour et PGA < 0,5. Les soins courants comportent des contrôles tous les 3 à 6 mois. Le suivi est de 120 semaines.",
+ "interet": "L'étude pourrait établir si le treat-to-target améliore les résultats à long terme dans le lupus. Un résultat positif soutiendrait l'adoption de consultations rapprochées avec cible de rémission.",
+ "profil": "Des adultes atteints de lupus systémique non en rémission, suivis dans des centres allemands.",
+ "inclusion": [
+  "Lupus selon des critères de classification validés",
+  "Âge de 18 ans ou plus",
+  "Absence de rémission : SLEDAI clinique > 0 et/ou prednisone > 5 mg/jour et/ou PGA ≥ 0,5",
+  "Bonne maîtrise de l'allemand",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Participation à un autre essai interventionnel",
+  "Manifestation menaçant le pronostic vital nécessitant la réanimation",
+  "Autre maladie engageant le pronostic vital, cancer actif",
+  "Infection aiguë ou chronique empêchant l'intensification de l'immunosuppression"
+ ],
+ "bras": [
+  { "nom": "Treat-to-target", "traitement": "Décision partagée et contrôle rapproché (visites toutes les 6 semaines, au moins 4 visites) jusqu'à la rémission ; puis contrôle toutes les 12 semaines" },
+  { "nom": "Soins courants", "traitement": "Contrôles tous les 3 à 6 mois, traitement ajusté selon le médecin" }
+ ],
+ "duree": "120 semaines",
+ "critere": "Accumulation de dommages à la semaine 120"
+}

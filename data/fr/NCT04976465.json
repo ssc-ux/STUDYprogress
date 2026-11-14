@@ -1,0 +1,35 @@
+{
+ "h": "51b31e50859e",
+ "date": "2026-11-14",
+ "titre": "Traitements et issues de grossesse chez des patientes atteintes de lupus (étude en vie réelle, Chine)",
+ "question": "Quels facteurs de risque et quels traitements influencent l'issue de la grossesse chez les patientes lupiques ?",
+ "contexte": "Le lupus érythémateux systémique (LES) touche surtout des femmes en âge de procréer. Comparée à la population générale, la grossesse lupique expose à davantage de prématurité, de prééclampsie et de pertes fœtales. L'activité de la maladie peut aussi se majorer pendant la grossesse et le post-partum, d'où l'importance d'un suivi rapproché.\n\nLes recommandations actuelles préconisent le maintien de l'hydroxychloroquine, l'aspirine à faible dose pour prévenir la prééclampsie et, selon le profil, une anticoagulation en présence d'anticorps antiphospholipides. La place exacte de ces traitements selon le statut aPL reste discutée.\n\nCette étude du Qilu Hospital (université du Shandong) suit des patientes enceintes via une plateforme numérique de gestion de la maladie (SSDM) avec consultations en face à face toutes les 4 semaines, de la grossesse confirmée à l'accouchement. Deux groupes sont comparés selon la présence d'anticorps antiphospholipides, avec ou sans anticoagulation. L'étude est monocentrique, non randomisée, et son objectif est d'identifier les facteurs de risque d'une issue défavorable.",
+ "interet": "Elle pourrait préciser l'intérêt de l'anticoagulation selon le statut antiphospholipides chez les patientes lupiques enceintes. Les données restent issues d'un seul centre chinois, non randomisées.",
+ "profil": "Des femmes de 20 à 45 ans enceintes et atteintes de lupus systémique.",
+ "inclusion": [
+  "LES selon les critères ACR 1997",
+  "Femme enceinte de 20 à 45 ans",
+  "Acceptation du traitement et du suivi selon le protocole",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Cause connue de fausse couche antérieure (anomalie chromosomique, dysendocrinie, anomalie utérine)",
+  "Cardiopathie, atteinte hépatique, rénale, sanguine ou endocrinienne sévère",
+  "Infection active (hépatites B/C, VIH, syphilis, tuberculose, VZV)",
+  "Allergie à la prednisone, l'hydroxychloroquine, l'héparine de bas poids moléculaire ou l'aspirine",
+  "Antécédent d'ulcère gastroduodénal, de saignement digestif haut, de cancer, d'épilepsie ou de psychose",
+  "Refus ou impossibilité de suivi pendant et après la grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "LES avec anticorps antiphospholipides positifs",
+   "traitement": "Anticoagulation ou non selon la prise en charge"
+  },
+  {
+   "nom": "LES sans anticorps antiphospholipides",
+   "traitement": "Anticoagulation ou non selon la prise en charge"
+  }
+ ],
+ "duree": "De la grossesse confirmée à l'accouchement, avec suivi toutes les 4 semaines",
+ "critere": "Taux de naissances vivantes après 28 semaines de gestation"
+}

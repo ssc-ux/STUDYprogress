@@ -1,0 +1,27 @@
+{
+ "h": "f14b44112a9c",
+ "date": "2026-11-14",
+ "titre": "TEP au [18F]florbétaben pour le diagnostic de l'amylose cardiaque AL",
+ "question": "La TEP au florbétaben identifie-t-elle avec une sensibilité et une spécificité suffisantes l'amylose cardiaque AL chez des patients suspects ?",
+ "contexte": "L'amylose cardiaque est une cause d'insuffisance cardiaque à fraction d'éjection préservée. Le diagnostic distingue surtout l'amylose AL (chaînes légères), urgente à traiter par chimiothérapie, de l'amylose ATTR. La scintigraphie aux diphosphonates est très performante pour l'ATTR mais ne détecte pas bien l'amylose AL. Le diagnostic de l'AL repose donc sur la biopsie, l'IRM cardiaque, l'échographie et le dosage des chaînes légères, avec une incertitude diagnostique persistante dans certains cas.\n\nLe [18F]florbétaben est un traceur TEP de la substance amyloïde, déjà utilisé en imagerie cérébrale, qui se fixe aussi aux dépôts amyloïdes cardiaques. Cette étude pivot de phase 3 de Lantheus, ouverte et multicentrique, administre 300 MBq de florbétaben à 244 patients suspects d'amylose cardiaque, puis compare les images (lecture visuelle et quantitative) au diagnostic final obtenu par la pratique clinique standard, considéré comme référence.",
+ "interet": "Un résultat favorable ajouterait une imagerie non invasive pour confirmer ou écarter l'amylose cardiaque AL, notamment quand la biopsie est difficile.",
+ "profil": "Des adultes avec suspicion d'amylose cardiaque ou atteinte cardiaque incertaine d'une amylose connue.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "Amylose systémique sans atteinte cardiaque prouvée, dyscrasie plasmocytaire (MGUS, myélome), chaînes légères pathologiques ou insuffisance cardiaque à fraction d'éjection préservée",
+  "Épaisseur pariétale + septale moyenne > 12 mm sans autre cause d'hypertrophie, ou NT-proBNP > 335 ng/L",
+  "Procédure diagnostique prévue (biopsie endomyocardique ou extracardiaque avec IRM, échographie ou scintigraphie)",
+  "Contraception efficace chez les femmes en âge de procréer (1 semaine) et les hommes (90 jours)"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Patients suspects d'amylose cardiaque",
+   "traitement": "[18F]florbétaben 300 MBq en une injection, TEP, puis démarche diagnostique standard servant de référence"
+  }
+ ],
+ "duree": "Jusqu'à 12 semaines",
+ "critere": "Sensibilité et spécificité de la lecture visuelle des images TEP au florbétaben pour le diagnostic d'amylose cardiaque AL, jusqu'à 12 semaines"
+}

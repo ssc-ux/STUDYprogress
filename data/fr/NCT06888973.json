@@ -1,0 +1,30 @@
+{
+ "h": "c25aa322ed9c",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses contre placebo dans les maladies auto-immunes rhumatologiques",
+ "question": "Une perfusion de cellules souches mésenchymateuses améliore-t-elle les scores cliniques de maladies auto-immunes par rapport au sérum physiologique ?",
+ "contexte": "La polyarthrite rhumatoïde, le lupus, la sclérodermie, la spondylarthrite, l'arthrite juvénile idiopathique et les myosites sont des causes majeures d'incapacité. Dans les pays à ressources limitées, l'accès aux biothérapies reste restreint, d'où l'intérêt de stratégies alternatives.\n\nLes cellules souches mésenchymateuses ont des propriétés immunomodulatrices (inhibition des lymphocytes T et B, effet anti-inflammatoire) et ont été testées dans plusieurs maladies auto-immunes, avec des résultats hétérogènes et des études souvent de petite taille.\n\nCet essai de phase 1/2, mené par le National Institute of Blood and Marrow Transplant au Pakistan, est randomisé en double aveugle contre sérum physiologique à 0,9 %. Les patients reçoivent une séance unique de cellules souches mésenchymateuses ou le placebo. Environ 200 adultes de 18 à 50 ans sont prévus, avec des critères d'évaluation propres à chaque maladie, la normalisation des sous-populations lymphocytaires T et une baisse de plus de 50 % des titres d'auto-anticorps. Le suivi est de 3 et 6 mois, des évaluations étant prévues jusqu'à 48 semaines.",
+ "interet": "L'étude pourrait apporter des données contrôlées sur une thérapie cellulaire peu coûteuse dans plusieurs maladies rhumatologiques. Le regroupement de maladies hétérogènes et la qualité des critères rendent l'interprétation délicate.",
+ "profil": "Des adultes de 18 à 50 ans atteints de polyarthrite rhumatoïde, lupus, sclérodermie, spondylarthrite, arthrite juvénile ou myosite.",
+ "inclusion": [
+  "Âge de 18 ans ou plus (18 à 50 ans selon le registre)",
+  "Polyarthrite rhumatoïde selon ACR 2010, facteur rhumatoïde et/ou anti-CCP positifs",
+  "Polyarthrite évoluant depuis plus de 6 semaines et moins de 5 ans, DAS-VS > 3,1",
+  "Critères propres aux autres maladies : non détaillés ici",
+  "Contraception efficace, respect des exigences de l'étude"
+ ],
+ "exclusion": [
+  "Allergie au méthotrexate, exposition antérieure à un anti-CD20 ou autre anticorps monoclonal",
+  "Infection active ou chronique (VIH, VHB, VHC, tuberculose)",
+  "Pneumopathie interstitielle à la radiographie",
+  "Coronaropathie, arythmie ou insuffisance cardiaque sévère",
+  "Antécédent de cancer, grossesse ou allaitement",
+  "Vaccin vivant dans les 3 mois"
+ ],
+ "bras": [
+  { "nom": "Groupe traité", "traitement": "Cellules souches mésenchymateuses, une séance unique" },
+  { "nom": "Groupe placebo", "traitement": "Sérum physiologique à 0,9 %" }
+ ],
+ "duree": "3 à 6 mois de suivi (évaluations jusqu'à 48 semaines)",
+ "critere": "Scores cliniques spécifiques à chaque maladie (polyarthrite, lupus, sclérodermie, spondylarthrite, dermatomyosite) à J0 et aux semaines 12, 24 et 48 (semaine 16 pour la spondylarthrite)"
+}

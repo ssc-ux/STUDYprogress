@@ -1,0 +1,25 @@
+{
+ "h": "339d79c5454e",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19-BCMA dans la néphrite lupique, la sclérodermie et le Gougerot-Sjögren avec HTAP",
+ "question": "Les CAR-T CD19-BCMA sont-ils sûrs et actifs dans la néphrite lupique, la sclérodermie et le syndrome de Gougerot-Sjögren avec hypertension pulmonaire réfractaires ?",
+ "contexte": "La néphrite lupique, la sclérodermie systémique et le syndrome de Gougerot-Sjögren compliqué d'hypertension artérielle pulmonaire peuvent rester actifs malgré les corticoïdes et les immunosuppresseurs. L'atteinte d'organe y est difficile à stabiliser.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B mais épargnent les plasmocytes à longue durée de vie, producteurs d'auto-anticorps. L'association à une cible BCMA, exprimée par les plasmocytes, vise une déplétion plus complète de la lignée B.\n\nCette étude de phase 1/2 du Beijing GoBroad Hospital est monocentrique, ouverte et monobras. La phase 1 explore des doses croissantes ou décroissantes pour définir la dose biologique optimale et la dose recommandée de phase 2. La phase 2 évalue le taux de réponse globale à 90 et 180 jours. Environ 45 patients de 10 à 65 ans sont prévus, avec une néphrite lupique proliférative de classe III ou IV (± V) réfractaire à au moins un immunosuppresseur pendant 3 à 6 mois.",
+ "interet": "L'étude apportera la dose recommandée et les premiers signaux de tolérance et d'efficacité du CAR-T CD19-BCMA dans trois maladies de pronostic sévère. Elle reste exploratoire, sans comparateur.",
+ "profil": "Des enfants (dès 10 ans) et adultes atteints de néphrite lupique, sclérodermie systémique ou Gougerot-Sjögren avec HTAP réfractaires.",
+ "inclusion": [
+  "Néphrite lupique active proliférative de classe III/IV (± V) sur biopsie, réfractaire après 3 à 6 mois d'immunosuppresseur",
+  "Lupus selon ACR/EULAR 2019, ANA ≥ 1/80 et/ou anti-ADN natif positifs",
+  "Lymphocytes B CD19+, arrêt des immunosuppresseurs depuis plus d'une semaine",
+  "Lymphocytes > 0,5 G/L, ECOG 0 à 2, survie attendue ≥ 90 jours",
+  "Âge de 10 à 65 ans (18 à 65 ans pour la sclérodermie)",
+  "Sclérodermie selon ACR/EULAR ; autres critères de maladie : non détaillés ici"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "CAR-T CD19-BCMA", "traitement": "Cellules CAR-T CD19-BCMA ; phase 1 avec escalade ou désescalade de dose, phase 2 à la dose recommandée ; doses non précisées" }
+ ],
+ "duree": "Au moins 180 jours de suivi d'évaluation",
+ "critere": "Phase I : tolérance et dose optimale à 28-30 jours ; phase II : taux de réponse globale à 90 et 180 jours"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "42a83f5e6043",
+ "date": "2026-11-14",
+ "titre": "SG301 sous-cutané contre placebo dans le lupus systémique",
+ "question": "Le SG301 en injection sous-cutanée améliore-t-il la réponse SRI-4 à 25 semaines chez des patients avec un lupus actif ?",
+ "contexte": "Le lupus systémique actif reste insuffisamment contrôlé chez de nombreux patients malgré les traitements standard, et les corticoïdes entraînent des dommages cumulés. Les traitements ciblés disponibles (bélimumab, anifrolumab) ne conviennent pas à tous.\n\nLe SG301, développé par Hangzhou Sumgen Biotech, est administré par voie sous-cutanée. Le registre ne précise pas sa cible, mais l'exclusion des patients ayant reçu un anticorps anti-CD38 suggère qu'il en est un, ce qui viserait les plasmocytes sécréteurs d'auto-anticorps ; cela reste à confirmer. Cette étude de phase 2 randomisée en triple aveugle contre placebo, dans environ 40 centres en Chine, inclut 120 patients avec un lupus actif (SLEDAI-2K ≥ 8) et des auto-anticorps. Deux schémas de SG301 sont comparés au placebo, en plus du traitement standard stable.",
+ "interet": "Cette étude pourrait fournir un premier signal d'efficacité d'un nouveau traitement du lupus par voie sous-cutanée. Elle servirait à choisir la dose pour un essai de phase 3.",
+ "profil": "Des adultes de 18 à 70 ans avec un lupus systémique actif, séropositif, malgré un traitement standard.",
+ "inclusion": ["Âge de 18 à 70 ans, poids ≥ 35 kg", "Lupus selon les critères EULAR/ACR 2019, réponse insuffisante, intolérance au traitement standard ou rechute", "SLEDAI-2K ≥ 8 dont ≥ 4 points cliniques", "ANA et/ou anti-ADN natif positifs", "Traitement standard depuis ≥ 8 semaines, dose stable depuis ≥ 4 semaines", "Contraception efficace jusqu'à 6 mois après la dernière dose"],
+ "exclusion": ["Antécédent d'anticorps anti-CD38", "Atteinte du système nerveux central dans les 2 mois", "Connectivite mixte ou syndrome de chevauchement avec sclérodermie", "Anti-lymphocytaire T ou B (rituximab) dans les 3 mois, bélimumab ou télitacicept dans les 4 semaines, anti-JAK dans les 2 semaines", "Infection active, tuberculose, VIH, hépatite B active, hépatite C, syphilis", "Maladie cardiovasculaire ou cérébrovasculaire sévère", "Greffe d'organe, de cellules souches ou de moelle"],
+ "bras": [{ "nom": "SG301 schéma A", "traitement": "SG301 sous-cutané (dose non précisée)" }, { "nom": "SG301 schéma B", "traitement": "SG301 sous-cutané (dose non précisée)" }, { "nom": "Placebo", "traitement": "Placebo sous-cutané" }],
+ "duree": "Évaluation principale à 25 semaines (durée totale non précisée)",
+ "critere": "Proportion de patients en réponse SRI-4, entre l'inclusion et la semaine 25"
+}

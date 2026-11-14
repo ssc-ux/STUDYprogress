@@ -1,0 +1,14 @@
+{
+ "h": "dce84f371fbd",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA et anti-CD19 (ECAR01) dans les maladies auto-immunes réfractaires",
+ "question": "Des CAR-T ciblant à la fois BCMA et CD19 sont-ils sûrs et efficaces dans la polyarthrite, le lupus, le Sjögren et la sclérodermie réfractaires ?",
+ "contexte": "Les formes réfractaires de polyarthrite rhumatoïde, de lupus systémique, de syndrome de Sjögren et de sclérodermie systémique résistent souvent à plusieurs lignes de traitement, avec un risque d'atteinte d'organe. Les CAR-T anti-CD19 ont donné des rémissions dans des séries de lupus et de sclérodermie en éliminant les lymphocytes B.\n\nLes plasmocytes à longue durée de vie, producteurs d'auto-anticorps, n'expriment pas CD19 et échappent donc en partie à cette approche. Ils expriment BCMA. L'association d'un ciblage CD19 et BCMA vise à éliminer les lymphocytes B et les plasmocytes. Le produit testé ici est l'ECAR01, qui cible ces deux antigènes.\n\nCet essai monocentrique chinois (Anhui Provincial Hospital) est ouvert, à un bras, avec une escalade de dose de type 3+3 chez jusqu'à 18 patients. Après prélèvement sanguin et lymphodéplétion par cyclophosphamide et fludarabine, les patients reçoivent une perfusion unique de CAR-T à 1, 3 ou 6×10⁵ cellules/kg (marge de ± 20 %). Les maladies visées sont la polyarthrite rhumatoïde réfractaire à des csDMARD et bDMARD, le lupus actif (SLEDAI-2K ≥ 8), le syndrome de Sjögren avec thrombopénie sévère et ESSDAI ≥ 5, et la sclérodermie progressive à l'HRCT. Le critère principal est la tolérance.",
+ "interet": "L'étude teste un double ciblage lymphocyte B et plasmocyte dans plusieurs maladies auto-immunes. Elle apportera des données de tolérance préliminaires sur un petit effectif hétérogène.",
+ "profil": "Des adultes atteints de polyarthrite rhumatoïde, de lupus, de syndrome de Sjögren ou de sclérodermie systémique réfractaires.",
+ "inclusion": ["Âge ≥ 18 ans, fonctions médullaire, hépatique (ALAT, ASAT, bilirubine ≤ 3 N), rénale (clairance ≥ 30 mL/min) et de la coagulation adéquates", "Polyarthrite rhumatoïde (critères ACR/EULAR 2010) active malgré au moins un csDMARD et un bDMARD", "Lupus (critères EULAR/ACR 2019) actif : BILAG au moins 1 A ou 2 B, SLEDAI-2K ≥ 8, auto-anticorps positifs", "Syndrome de Sjögren avec thrombopénie < 30×10⁹/L et ESSDAI ≥ 5", "Sclérodermie systémique (critères ACR 2013) avec progression à l'HRCT", "Maladie présente depuis au moins 6 mois pour lupus, Sjögren et sclérodermie"],
+ "exclusion": ["Liste complète non reproduite dans le registre consulté : non précisé"],
+ "bras": [{"nom": "CAR-T anti-BCMA et CD19", "traitement": "Lymphodéplétion (cyclophosphamide, fludarabine) puis perfusion unique de 1, 3 ou 6×10⁵ CAR-T/kg"}],
+ "duree": "Jusqu'à 1 an",
+ "critere": "Événements indésirables, jusqu'à 1 an"
+}

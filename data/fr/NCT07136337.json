@@ -1,0 +1,30 @@
+{
+ "h": "92344f268f46",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs T-IgG et T-IgM dans le lupus",
+ "question": "Les auto-anticorps dirigés contre les lymphocytes T (T-IgG et T-IgM) sont-ils des biomarqueurs diagnostiques du lupus, associés à l'activité et aux dommages ?",
+ "contexte": "La physiopathologie du lupus fait intervenir les lymphocytes T auto-réactifs, qui activent les lymphocytes B, une dysfonction des lymphocytes T régulateurs et une production excessive de cytokines pro-inflammatoires. Des auto-anticorps dirigés contre le récepteur T/CD3 ont été décrits : ils réduisent la production d'IL-2, souvent basse dans le lupus, et influencent la signalisation, la migration et l'adhésion des lymphocytes T, ce qui pourrait contribuer à l'atteinte des organes.\n\nCette étude de l'université d'Assiut (Égypte) prévoit d'inclure 80 adultes lupiques selon les critères ACR/EULAR 2019 et des témoins sains. Un prélèvement de 4 mL de sang veineux est analysé pour doser les anticorps T-IgG et T-IgM. L'objectif est de comparer leur niveau entre patients et témoins, d'évaluer leur valeur diagnostique et de les associer à l'activité (SLEDAI) et aux dommages (SLICC). Il s'agit d'une étude diagnostique à petit effectif et monocentrique.",
+ "interet": "Si ces anticorps se révélaient utiles, ils pourraient compléter le panel biologique du lupus. Les résultats resteront à confirmer dans une cohorte plus large.",
+ "profil": "Des adultes lupiques (ACR/EULAR 2019) et des témoins sains.",
+ "inclusion": [
+  "Adultes de plus de 18 ans",
+  "Lupus répondant aux critères de classification ACR/EULAR 2019"
+ ],
+ "exclusion": [
+  "Patients lupiques de moins de 18 ans",
+  "Autre maladie auto-immune (sclérodermie, Sjögren, polyarthrite rhumatoïde, dermatomyosite, connectivite mixte)",
+  "Femmes enceintes ou allaitantes"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Prélèvement unique de 4 mL de sang veineux pour dosage des T-IgG et T-IgM"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Même prélèvement sanguin"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Niveau des biomarqueurs T-IgG et T-IgM et valeur diagnostique dans le lupus, à 2 ans"
+}

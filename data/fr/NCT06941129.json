@@ -1,0 +1,29 @@
+{
+ "h": "25a7044d95bc",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques universels CD19/BCMA dans les maladies auto-immunes réfractaires",
+ "question": "Des CAR-T allogéniques universels anti-CD19/BCMA sont-ils sûrs chez des adultes ayant un lupus, une sclérodermie, une myopathie, une vascularite à ANCA ou une cytopénie auto-immune réfractaires ?",
+ "contexte": "Dans les maladies auto-immunes systémiques réfractaires, les CAR-T autologues anti-CD19 ont induit des rémissions, mais leur fabrication individuelle est longue, coûteuse et parfois impossible chez des patients très immunodéprimés ou lymphopéniques. Les CAR-T allogéniques « universels », issus de donneurs sains et édités pour limiter le rejet et la maladie du greffon contre l'hôte, sont disponibles immédiatement.\n\nCet essai d'investigateur de phase 1, promu par l'Institute of Hematology & Blood Diseases Hospital (Tianjin), évalue ces CAR-T doubles CD19/BCMA chez 12 adultes ayant un lupus (avec ou sans néphrite), une sclérodermie systémique, une myopathie inflammatoire, une vascularite à ANCA, une thrombopénie associée aux connectivites ou une PTI lupique, en rechute ou réfractaires. Une perfusion unique est faite après lymphodéplétion par fludarabine et cyclophosphamide. Des analyses intermédiaires sont prévues à 12 et 24 semaines. Le critère principal est la sécurité.",
+ "interet": "L'étude évaluera la faisabilité de CAR-T allogéniques prêts à l'emploi, ce qui pourrait élargir l'accès à cette stratégie. Peu de patients, plusieurs maladies et pas de comparateur : les données resteront préliminaires.",
+ "profil": "Des adultes avec maladie auto-immune systémique réfractaire ou en rechute.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Expression de CD19 ou BCMA sur les lymphocytes B (cytométrie)",
+  "Fonctions médullaire, hépatique et rénale adéquates (clairance ≥ 30 mL/min)",
+  "ECOG 0 à 2",
+  "Contraception efficace jusqu'à 6 mois après le traitement",
+  "Lupus (ACR/EULAR 2019) avec SLEDAI-2K ≥ 8 ou atteinte d'organe majeure comme néphrite de classe III/IV",
+  "Échec ou rechute après plusieurs traitements standards"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T allogéniques universels CD19/BCMA",
+   "traitement": "Perfusion unique après lymphodéplétion par fludarabine et cyclophosphamide"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Toxicités limitant la dose (28 jours), événements indésirables (12 mois) et réponse clinique (24 mois)"
+}

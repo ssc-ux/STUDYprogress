@@ -1,0 +1,29 @@
+{
+ "h": "ed53eba130aa",
+ "date": "2026-11-14",
+ "titre": "Programme éducatif sur la COVID-19 pour les patients lupiques (Lupus Education Alliance Program)",
+ "question": "Une éducation sur la COVID-19 associée à un accompagnement personnalisé augmente-t-elle le dépistage et la vaccination chez les patients lupiques ?",
+ "contexte": "Les patients lupiques sont à risque accru de formes graves de COVID-19 en raison de la maladie et des immunosuppresseurs. Ce risque est plus marqué dans les populations défavorisées, plus touchées par le lupus. La vaccination et un dépistage rapide permettent un traitement précoce, mais l'accès à l'information et aux soins est inégal.\n\nCet essai randomisé de l'université Tulane teste une intervention comportementale et éducative adaptée au lupus. Les deux groupes reçoivent des informations sur la COVID-19, les recommandations des CDC sur le dépistage et ses modalités (pharmacies, cabinets, tests à domicile) et le traitement en cas d'infection.\n\nUn groupe reçoit en plus un accompagnement par un « navigateur » de santé. Environ 274 adultes anglophones atteints de lupus sont inclus. Les critères principaux sont le recours au dépistage et la vaccination à 3 mois.",
+ "interet": "Elle pourrait montrer si l'accompagnement individualisé améliore le recours au dépistage et à la vaccination dans le lupus. Son intérêt dépend du contexte du système de santé américain.",
+ "profil": "Des adultes anglophones atteints de lupus systémique.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Capacité à comprendre et parler anglais",
+  "Diagnostic de lupus systémique"
+ ],
+ "exclusion": [
+  "Non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Éducation + navigation",
+   "traitement": "Information sur la COVID-19, le dépistage et le traitement, avec accompagnement par un navigateur"
+  },
+  {
+   "nom": "Éducation seule",
+   "traitement": "Mêmes informations, sans accompagnement"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Taux de dépistage de la COVID-19 et de vaccination anti-COVID-19 à 3 mois"
+}

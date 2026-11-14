@@ -1,0 +1,42 @@
+{
+ "h": "ad4c8a2d0b93",
+ "date": "2026-11-14",
+ "titre": "Produit « 626 » sous-cutané versus placebo dans le lupus cutané (phase 2)",
+ "question": "Le produit 626 en injection sous-cutanée améliore-t-il l'atteinte cutanée du lupus cutané par rapport au placebo ?",
+ "contexte": "Le lupus cutané (LEC) peut survenir seul ou avec un lupus systémique. L'hydroxychloroquine et les antipaludiques sont le traitement de fond de référence, mais certains patients répondent mal ou les tolèrent mal. Les options suivantes (méthotrexate, thalidomide, immunosuppresseurs) reposent sur peu de preuves, et aucun traitement ciblé n'est approuvé spécifiquement pour le LEC.\n\nLe produit 626, développé par Sunshine Guojian, est administré par voie sous-cutanée. Le registre ne précise pas sa nature ni son mécanisme.\n\nCet essai de phase 2 multicentrique, randomisé en double aveugle contre placebo, inclut environ 140 adultes de 18 à 75 ans ayant un LEC confirmé cliniquement et histologiquement, un CLASI-A ≥ 8 et une réponse insuffisante ou une intolérance aux antipaludiques. Trois doses sont comparées au placebo, en ratio 1:1:1:1 avec stratification sur la sévérité (CLASI-A ≥ 10 ou < 10) et le sous-type (discoïde ou non). L'étude évalue aussi la pharmacocinétique, l'immunogénicité et la pharmacodynamie.",
+ "interet": "Elle aidera à choisir la dose d'une éventuelle phase 3 dans le lupus cutané résistant aux antipaludiques.",
+ "profil": "Des adultes de 18 à 75 ans ayant un lupus cutané actif malgré les antipaludiques.",
+ "inclusion": [
+  "LEC confirmé cliniquement et histologiquement, avec ou sans lupus systémique",
+  "CLASI-A ≥ 8 au dépistage et à la randomisation",
+  "Réponse insuffisante ou intolérance aux antipaludiques",
+  "Traitement actuel par au moins un traitement standard du LEC"
+ ],
+ "exclusion": [
+  "Autre dermatose active gênante (psoriasis, lupus cutané non spécifique, lupus induit)",
+  "Néphropathie lupique active ou maladie rénale modérée à sévère ou chronique",
+  "Affection médicale ou psychiatrique compromettant la participation, dont lupus neuropsychiatrique",
+  "Infections chroniques ou récidivantes (≥ 3 du même type en 12 mois)",
+  "Antécédent d'infection herpétique sévère"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A",
+   "traitement": "626 sous-cutané, dose A"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "626 sous-cutané, dose B"
+  },
+  {
+   "nom": "Groupe C",
+   "traitement": "626 sous-cutané, dose C"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Injection sous-cutanée de placebo"
+  }
+ ],
+ "duree": "Au moins 24 semaines",
+ "critere": "Variation en pourcentage du score CLASI-A entre l'inclusion et la semaine 24"
+}

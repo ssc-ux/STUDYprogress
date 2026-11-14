@@ -1,0 +1,31 @@
+{
+ "h": "f6f9888c7375",
+ "date": "2026-11-14",
+ "titre": "JY231 en perfusion dans le lupus systémique actif (étude exploratoire)",
+ "question": "JY231 est-il bien toléré et actif chez des patients ayant un lupus systémique actif malgré le traitement ?",
+ "contexte": "Une partie des patients lupiques reste active malgré l'association de corticoïdes, d'immunosuppresseurs et de biothérapies. Les approches cellulaires, notamment les CAR-T anti-CD19, ont montré des rémissions dans des séries de patients réfractaires, ce qui motive de nombreux essais précoces.\n\nLe registre ne précise pas la nature de JY231, administré en perfusion. Il décrit une étude exploratoire précoce de phase 1/2, monocentrique, à un bras et ouverte, menée à l'hôpital 920 de l'armée populaire de libération (Chine). Environ 10 à 20 patients ayant un lupus actif malgré au moins 2 mois de corticoïdes associés à des immunosuppresseurs ou biothérapies à dose stable sont attendus.\n\nL'objectif est d'évaluer la tolérance par les événements indésirables et d'estimer l'efficacité par le taux de réponse objective à 6 mois.",
+ "interet": "Elle donnera de premières données de tolérance et d'activité de JY231. En l'absence de comparateur, elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des patients de 14 à 75 ans atteints de lupus systémique actif malgré un traitement combiné.",
+ "inclusion": [
+  "Âge de 14 à 75 ans",
+  "LES selon les critères EULAR/ACR 2019 ou SLICC 2012",
+  "≥ 2 mois de corticoïdes avec immunosuppresseurs et/ou biothérapies à dose stable depuis > 2 semaines, maladie active",
+  "Prednisone ≥ 7,5 mg/j si corticoïdes seuls",
+  "ANA ou autres auto-anticorps positifs (détails non repris)"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune nécessitant un traitement systémique",
+  "Crise lupique non contrôlée dans les 8 semaines (néphrite, neurolupus, anémie hémolytique, etc.)",
+  "Atteinte du système nerveux central non lupique",
+  "Antécédent de greffe de moelle, de cellules souches ou d'organe, ou greffe prévue",
+  "Autres comorbidités cliniquement significatives"
+ ],
+ "bras": [
+  {
+   "nom": "JY231",
+   "traitement": "Perfusion de JY231 (dose non précisée)"
+  }
+ ],
+ "duree": "6 mois de traitement",
+ "critere": "Taux de réponse objective de l'inclusion à la fin du traitement, à 6 mois"
+}

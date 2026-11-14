@@ -1,0 +1,14 @@
+{
+ "h": "22df8959722c",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles anti-CD19/BCMA dans diverses maladies auto-immunes réfractaires (phase 1)",
+ "question": "Des CAR-T allogéniques anti-CD19/BCMA sont-elles sûres chez des patients ayant une maladie auto-immune récidivante ou réfractaire ?",
+ "contexte": "Lupus, anémie hémolytique auto-immune, myasthénie, sclérodermie, vascularites à ANCA, myopathies inflammatoires et maladie liée aux IgG4 peuvent résister aux traitements conventionnels. Les CAR-T anti-CD19 autologues ont obtenu des rémissions dans de petites séries, mais leur fabrication individualisée est longue et coûteuse.\n\nCette étude à initiative d'investigateur de l'hôpital Changzhou No.2 évalue une CAR-T universelle allogénique ciblant CD19 (lymphocytes B) et BCMA (plasmocytes). Le double ciblage vise aussi les plasmocytes producteurs d'auto-anticorps. Environ 18 adultes reçoivent une perfusion unique après lymphodéplétion par fludarabine et cyclophosphamide. L'étude est ouverte, à bras unique, de phase 1. Les patients doivent avoir un état général conservé (ECOG 0-1) et une expression de CD19 sur les lymphocytes B.",
+ "interet": "L'étude apportera des données de tolérance sur un produit cellulaire prêt à l'emploi dans plusieurs maladies auto-immunes. Elle n'est pas conçue pour comparer l'efficacité à un traitement existant.",
+ "profil": "Des adultes ayant une maladie auto-immune récidivante ou réfractaire (lupus, sclérodermie, vascularite à ANCA, myopathie, myasthénie, IgG4, anémie hémolytique auto-immune).",
+ "inclusion": ["Âge ≥ 18 ans", "Expression de CD19 sur les lymphocytes B circulants", "Neutrophiles ≥ 0,5 G/L, hémoglobine ≥ 60 g/L, plaquettes ≥ 30 G/L", "ALT/AST ≤ 3 N, clairance ≥ 30 mL/min (néphrite lupique exclue), ECOG 0-1", "Maladie auto-immune récidivante ou réfractaire", "Contraception efficace jusqu'à 6 mois après le traitement"],
+ "exclusion": ["Allergie médicamenteuse sévère ou terrain allergique", "Infection non contrôlée ou nécessitant un traitement", "Fonction cardiaque insuffisante", "Autres critères : non précisé dans l'extrait du registre"],
+ "bras": [{"nom": "CAR-T universelles", "traitement": "Perfusion unique de CAR-T allogéniques anti-CD19/BCMA après fludarabine et cyclophosphamide"}],
+ "duree": "90 jours pour les critères principaux",
+ "critere": "Nombre et gravité des toxicités limitantes de dose à 28 jours ; événements indésirables jusqu'à 90 jours"
+}

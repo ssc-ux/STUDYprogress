@@ -1,0 +1,14 @@
+{
+ "h": "757c249b696e",
+ "date": "2026-11-14",
+ "titre": "MK-1045 dans le lupus systémique et la polyarthrite rhumatoïde",
+ "question": "Le MK-1045 est-il sûr et bien toléré à différentes doses chez des patients avec lupus ou polyarthrite rhumatoïde ?",
+ "contexte": "Le lupus systémique et la polyarthrite rhumatoïde restent difficiles à contrôler chez une partie des patients, malgré les biothérapies et les traitements ciblés disponibles. Plusieurs approches récentes cherchent à déplêter ou réorienter les cellules immunitaires pathogènes de façon plus profonde.\n\nLe MK-1045 est un produit biologique expérimental de Merck Sharp & Dohme, dont le registre ne précise ni la cible ni le mécanisme. Le schéma de doses « prime, step-up et dose cible » en 3 semaines, utilisé dans les parties 2 et 3, est celui de molécules à activité immunitaire marquée, avec un risque de réactions de type relargage cytokinique. Cette étude de phase 1 internationale (11 pays, 21 centres) comporte trois parties : doses uniques croissantes par voie intraveineuse, doses croissantes avec montée progressive, puis expansion facultative. Elle porte sur 21 patients et évalue d'abord la tolérance, la pharmacocinétique et la pharmacodynamie.",
+ "interet": "Cette étude pourrait donner les premières données de tolérance chez l'homme d'une nouvelle molécule pour deux maladies auto-immunes. Elle définirait les doses d'éventuelles études d'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus systémique ou une polyarthrite rhumatoïde, sous traitement de fond.",
+ "inclusion": ["Âge de 18 à 75 ans, IMC de 18 à 32 kg/m²", "Lupus selon EULAR/ACR 2019, évoluant depuis ≥ 6 mois, avec au moins un traitement de fond", "Ou polyarthrite rhumatoïde (critères ACR-EULAR 2010) évoluant depuis ≥ 6 mois"],
+ "exclusion": ["Infection active ou épisode grave dans les 8 semaines, infections récurrentes ou chroniques", "Hépatite B, hépatite C, VIH, tuberculose active, latente ou mal traitée", "Maladie significative non contrôlée hors lupus ou polyarthrite", "Polyarthrite rhumatoïde débutée avant 17 ans, autre maladie inflammatoire confondante", "Cancer, hors formes traitées, ou maladie lymphoproliférative", "Chirurgie majeure récente, insuffisance cardiaque NYHA III-IV, infarctus ou angor instable dans les 6 mois, maladie pulmonaire chronique sous oxygène"],
+ "bras": [{ "nom": "Partie 1 : doses uniques croissantes", "traitement": "MK-1045 en dose unique intraveineuse, plusieurs niveaux de dose" }, { "nom": "Partie 2 : montée progressive de dose", "traitement": "Trois doses (prime, step-up, cible) sur 3 semaines" }, { "nom": "Partie 3 : expansion (facultative)", "traitement": "Même schéma en trois doses, à la dose retenue" }],
+ "duree": "Jusqu'à environ 52 semaines",
+ "critere": "Nombre de participants avec ≥ 1 événement indésirable ou arrêt pour événement indésirable (jusqu'à environ 12 semaines en partie 1, 52 semaines en parties 2 et 3)"
+}

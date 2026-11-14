@@ -1,0 +1,14 @@
+{
+ "h": "d8d3247dc39c",
+ "date": "2026-11-14",
+ "titre": "Thérapie CAR-T dans le lupus systémique actif (Wuhan)",
+ "question": "Une thérapie par CAR-T est-elle sûre et efficace chez des adultes atteints de lupus systémique actif malgré un traitement standard ?",
+ "contexte": "Une partie des patients atteints de lupus systémique garde une maladie active malgré un traitement standard bien conduit pendant plusieurs mois. Les lymphocytes B participent à la production d'auto-anticorps et à l'inflammation, et leur déplétion profonde par CAR-T a donné des rémissions dans des séries de patients réfractaires.\n\nCet essai de l'hôpital Union (Tongji Medical College, Huazhong University of Science and Technology, Chine) évalue un produit CAR-T dont le registre ne précise ni la cible ni le schéma. Il s'agit d'une étude ouverte à un seul bras, prévue pour 24 patients de 18 à 65 ans. Les patients doivent avoir un lupus actif (SLEDAI-2K ≥ 8, dont ≥ 6 points cliniques), des auto-anticorps positifs (ANA ≥ 1:80, anti-ADN natif ou anti-Sm) et rester actifs malgré un traitement standard stable pendant au moins 6 mois.\n\nSont exclus les patients avec cancer actif, ceux déjà traités par anti-CD19, CAR-T ou thérapie génique, ceux ayant une autre maladie auto-immune nécessitant un traitement et les femmes enceintes ou allaitantes. Les critères principaux sont la toxicité limitant la dose entre J0 et J28 et la fréquence des événements indésirables jusqu'à 24 mois.",
+ "interet": "L'étude ajoute des données de tolérance sur une thérapie CAR-T dans le lupus actif. Faute de précisions du registre sur le produit, la portée de ses résultats sera à apprécier à leur publication.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique actif malgré un traitement standard stable.",
+ "inclusion": ["Âge de 18 à 65 ans", "Lupus systémique (critères EULAR/ACR 2019)", "ANA ≥ 1:80 et/ou anti-ADN natif et/ou anti-Sm positifs", "SLEDAI-2K ≥ 8, dont au moins 6 points cliniques", "Traitement standard stable depuis au moins 6 mois, maladie active depuis au moins 2 mois", "Bonnes fonctions d'organes"],
+ "exclusion": ["Cancer actif ou antérieur", "Traitement ciblant CD19, CAR-T ou thérapie génique antérieurs", "Autre maladie auto-immune nécessitant un traitement", "Grossesse ou allaitement", "Toute autre situation jugée inappropriée par l'investigateur"],
+ "bras": [{"nom": "CAR-T", "traitement": "Cellules CAR-T ; cible, dose et schéma non précisés"}],
+ "duree": "24 mois",
+ "critere": "Toxicité limitant la dose de J0 à J28 ; fréquence des événements indésirables jusqu'à 24 mois"
+}

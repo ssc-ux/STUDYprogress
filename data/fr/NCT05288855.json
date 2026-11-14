@@ -1,0 +1,30 @@
+{
+ "h": "2d36c5267890",
+ "date": "2026-11-14",
+ "titre": "Voclosporine versus placebo dans la néphrite lupique de l'enfant et de l'adolescent",
+ "question": "La voclosporine, ajoutée au mycophénolate et aux corticoïdes, améliore-t-elle la réponse rénale à 24 semaines chez l'enfant et l'adolescent atteints de néphrite lupique ?",
+ "contexte": "La néphrite lupique pédiatrique est une forme souvent sévère de lupus, associée à un risque d'insuffisance rénale chronique. Le traitement repose sur les corticoïdes et le mycophénolate mofétil (MMF), avec peu de données spécifiques à l'enfant.\n\nLa voclosporine est un inhibiteur de la calcineurine de nouvelle génération. Chez l'adulte, elle améliore la réponse rénale lorsqu'elle est ajoutée au MMF et aux corticoïdes (essais AURORA).\n\nVOCAL est un essai de phase 3 de 24 semaines, promu par Aurinia, comportant trois périodes : période 1 en double aveugle contre placebo (15,8 mg deux fois par jour), période 2 en ouvert avec escalade (23,7 mg deux fois par jour), période 3 en ouvert (15,8 mg deux fois par jour). L'étude a été arrêtée prématurément, avec 9 participants.",
+ "interet": "L'étude vise à étendre l'indication de la voclosporine aux patients pédiatriques. L'arrêt prématuré et le petit effectif limitent les conclusions d'efficacité.",
+ "profil": "Des enfants et adolescents de 5 à 17 ans atteints de néphrite lupique active.",
+ "inclusion": [
+  "LES selon les critères EULAR/ACR 2019",
+  "Néphrite lupique active confirmée par biopsie rénale",
+  "Âge de 5 à 17 ans"
+ ],
+ "exclusion": [
+  "DFGe < 60 mL/min/1,73 m²",
+  "Déficit immunitaire congénital ou acquis, cancer, maladie lymphoproliférative, VIH, hépatite B ou C, tuberculose active ou ancienne non traitée",
+  "Infection virale sévère dans les 3 mois",
+  "Dialyse ou dialyse prévue",
+  "Biothérapie immunosuppressive dans les 12 semaines, cyclophosphamide, inhibiteurs de la calcineurine, vaccins vivants",
+  "Inhibiteurs ou inducteurs forts du CYP3A4/5"
+ ],
+ "bras": [
+  { "nom": "Voclosporine (période 1)", "traitement": "15,8 mg deux fois par jour (2 capsules) avec MMF et corticoïdes" },
+  { "nom": "Placebo (période 1)", "traitement": "2 capsules de placebo deux fois par jour avec MMF et corticoïdes" },
+  { "nom": "Voclosporine (période 2)", "traitement": "23,7 mg deux fois par jour (3 capsules), en ouvert" },
+  { "nom": "Voclosporine (période 3)", "traitement": "Dose maximale de 15,8 mg deux fois par jour, en ouvert" }
+ ],
+ "duree": "24 semaines",
+ "critere": "Proportion de patients en réponse rénale à la semaine 24"
+}

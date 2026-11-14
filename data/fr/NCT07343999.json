@@ -1,0 +1,40 @@
+{
+ "h": "93f962f5ab7a",
+ "date": "2026-11-14",
+ "titre": "Exercice à domicile et supplémentation en créatine et HMB dans l'amylose cardiaque à transthyrétine",
+ "question": "Un programme d'exercice à domicile associé à la créatine et au HMB améliore-t-il la capacité fonctionnelle de patients âgés atteints d'amylose cardiaque TTR ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CA) touche surtout les sujets de plus de 70 ans. Elle s'accompagne d'une diminution de la capacité physique, d'une faiblesse musculaire, d'une fragilité et d'une altération de la qualité de vie. Les traitements spécifiques (tafamidis, acoramidis, vutrisiran) ralentissent l'atteinte cardiaque, mais le déficit fonctionnel et nutritionnel reste un besoin non couvert.\n\nL'exercice physique supervisé est jugé faisable et prometteur chez ces patients. La créatine et le bêta-hydroxy-bêta-méthylbutyrate (HMB) sont des suppléments utilisés pour préserver la masse et la force musculaires chez le sujet âgé. L'essai EFICAC-TTR, mené par l'Universidad de Burgos, est multicentrique et randomisé. Il compare, chez 47 patients de 70 ans et plus, trois groupes pendant 12 semaines : soins usuels ; exercice multicomposant à domicile avec un placebo (cellulose microcristalline) ; même exercice avec créatine 3 g/j et HMB 3 g/j. La comparaison entre suppléments est en aveugle, celle avec les soins usuels est ouverte. Des prélèvements biologiques servent à des analyses mécanistiques exploratoires.",
+ "interet": "Il pourrait étayer des mesures non médicamenteuses simples pour préserver la force et l'autonomie des patients atteints d'ATTR-CA, en complément des traitements spécifiques.",
+ "profil": "Des adultes de 70 ans et plus ayant une amylose cardiaque à transthyrétine confirmée, cliniquement stables.",
+ "inclusion": [
+  "Âge ≥ 70 ans",
+  "ATTR-CA confirmée : scintigraphie aux diphosphonates positive (Perugini 2 ou 3) et absence de protéine monoclonale",
+  "Stabilité clinique dans les 4 semaines précédentes",
+  "Capacité à comprendre l'étude et consentement écrit"
+ ],
+ "exclusion": [
+  "Amylose AL ou autre amylose non TTR",
+  "Contre-indication médicale absolue à l'exercice d'intensité modérée",
+  "Comorbidité sévère avec espérance de vie < 6 mois",
+  "Déficit cognitif sévère (MMSE < 20)",
+  "Participation à une autre étude ou à un programme d'exercice structuré",
+  "Allergie ou intolérance à la créatine, au HMB ou à la cellulose microcristalline",
+  "Insuffisance rénale sévère nécessitant la dialyse"
+ ],
+ "bras": [
+  {
+   "nom": "Soins usuels",
+   "traitement": "Suivi cardiologique habituel et conseils généraux, sans exercice structuré ni supplément"
+  },
+  {
+   "nom": "Exercice + placebo",
+   "traitement": "Programme d'exercice multicomposant à domicile de 12 semaines, avec cellulose microcristalline quotidienne"
+  },
+  {
+   "nom": "Exercice + créatine et HMB",
+   "traitement": "Même programme d'exercice, avec créatine monohydrate 3 g/j et HMB 3 g/j"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Variation de la force de préhension et de la distance au test de marche de 6 minutes entre l'inclusion et 12 semaines"
+}

@@ -1,0 +1,45 @@
+{
+ "h": "aa4cffd1869a",
+ "date": "2026-11-14",
+ "titre": "GR1603 (anti-IFNAR1) dans le lupus actif : phase 1b/2",
+ "question": "Le GR1603, anticorps bloquant le récepteur de l'interféron de type I, est-il sûr et efficace dans le lupus modéré à sévère ?",
+ "contexte": "Une signature interféron de type I est présente chez une grande partie des patients lupiques et contribue à l'activation immunitaire. L'anifrolumab, anticorps anti-IFNAR1, a montré une efficacité sur l'activité globale et cutanée du lupus dans les essais TULIP, ce qui valide la cible.\n\nLe GR1603, développé par Genrix, est un anticorps monoclonal également dirigé contre IFNAR1, qui bloque la liaison des interférons de type I comme l'IFN-alpha. L'étude de phase 1b/2 est en double aveugle. La phase 1b, avec 16 patients, explore des doses croissantes (faible et forte) contre placebo pour la tolérance. La phase 2 randomise 120 patients avec lupus actif modéré à sévère malgré le traitement standard, entre GR1603 à faible dose, forte dose (mensuelles) et placebo, avec la réponse BICLA à 24 semaines comme critère. Les patients ont un lupus ACR 1997 depuis ≥ 24 semaines et au moins un auto-anticorps positif (ANA, anti-ADN ou anti-Sm).",
+ "interet": "L'étude précisera la dose et la tolérance du GR1603 et donnera une première estimation de l'efficacité contre placebo. Elle pourrait élargir l'offre d'anti-interférons dans le lupus.",
+ "profil": "Des adultes de 18 à 70 ans avec un lupus actif modéré à sévère malgré le traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Lupus selon les critères ACR 1997, depuis ≥ 24 semaines",
+  "Lupus actif modéré à sévère malgré le traitement standard",
+  "Au moins un auto-anticorps positif : ANA, anti-ADN natif ou anti-Sm"
+ ],
+ "exclusion": [
+  "Lupus neuropsychiatrique sévère actif ou instable",
+  "Anomalie biologique cliniquement significative",
+  "Infection active cliniquement significative",
+  "Autres critères : non précisé dans l'extrait"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 1b : dose faible",
+   "traitement": "GR1603 faible dose (6 patients) ou placebo (2)"
+  },
+  {
+   "nom": "Phase 1b : dose forte",
+   "traitement": "GR1603 forte dose (6 patients) ou placebo (2)"
+  },
+  {
+   "nom": "Phase 2 : dose faible",
+   "traitement": "GR1603 faible dose, mensuel, IV"
+  },
+  {
+   "nom": "Phase 2 : dose forte",
+   "traitement": "GR1603 forte dose, mensuel, IV"
+  },
+  {
+   "nom": "Phase 2 : placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "Au moins 24 semaines (critère principal de la phase 2)",
+ "critere": "Événements indésirables jusqu'à la semaine 16 (phase 1b) et réponse BICLA à la semaine 24 (phase 2)"
+}

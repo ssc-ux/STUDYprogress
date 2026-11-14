@@ -1,0 +1,30 @@
+{
+ "h": "d206d91b66a1",
+ "date": "2026-11-14",
+ "titre": "MTM-H-001 dans les maladies auto-immunes liées aux lymphocytes B",
+ "question": "Le MTM-H-001 est-il sûr, et quelle dose retenir, chez des adultes atteints de maladies auto-immunes à lymphocytes B ?",
+ "contexte": "Le lupus (avec ou sans néphrite), la sclérose en plaques et la myasthénie font intervenir les lymphocytes B dans leur physiopathologie, par la production d'auto-anticorps et l'activation des lymphocytes T. Les anticorps anti-CD20 offrent une déplétion partielle, et les CAR-T anti-CD19 ont obtenu de remarquables réponses dans des séries de patients réfractaires.\n\nLe MTM-H-001 est une injection dont la nature précise n'est pas détaillée dans le registre. L'étude est académique (hôpital GoBroad de Pékin), ouverte, à un seul bras, de type escalade puis expansion de dose, avec cinq groupes de dose prévus et une phase d'induction. Elle évalue la sécurité, la tolérance, la pharmacocinétique, la pharmacodynamie et l'efficacité préliminaire chez 75 adultes. Le critère principal est l'incidence des toxicités limitantes dans les 42 jours suivant la première dose. Il n'y a pas de comparateur.",
+ "interet": "C'est une étude de recherche de dose dont les résultats ne permettront pas de juger de l'efficacité. Elle précisera la tolérance de ce traitement dans plusieurs maladies B.",
+ "profil": "Des adultes de 18 à 75 ans ayant une maladie auto-immune liée aux lymphocytes B (lupus, néphrite lupique, sclérose en plaques, myasthénie).",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Consentement éclairé",
+  "Diagnostic confirmé de la maladie auto-immune cible selon les critères internationaux",
+  "Fonctions d'organes suffisantes pour tolérer le traitement",
+  "Femme en âge de procréer : test de grossesse négatif et contraception jusqu'à 6 mois après le dernier cycle"
+ ],
+ "exclusion": [
+  "Infection active, sévère et non contrôlée",
+  "Grossesse ou allaitement",
+  "Cancer dans le délai défini par le protocole (sauf cancers à faible risque traités)",
+  "Toute situation jugée par l'investigateur incompatible avec la sécurité ou l'interprétation des données"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe expérimental",
+   "traitement": "MTM-H-001 en injection, 5 groupes de dose, avec phase d'induction (partie A, escalade ; puis expansion)"
+  }
+ ],
+ "duree": "Non précisé (toxicités évaluées sur 42 jours après la première dose)",
+ "critere": "Incidence des toxicités limitantes dans les 42 jours suivant la première dose"
+}

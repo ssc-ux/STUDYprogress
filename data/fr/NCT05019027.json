@@ -1,0 +1,30 @@
+{
+ "h": "190695110d96",
+ "date": "2026-11-14",
+ "titre": "Arrêt des bêtabloquants dans l'amylose cardiaque : essais N-of-1 en alternance",
+ "question": "Les patients atteints d'amylose cardiaque à TTR se sentent-ils mieux et ont-ils une meilleure capacité à l'effort lorsque leur bêtabloquant est arrêté ?",
+ "contexte": "Dans l'amylose cardiaque à transthyrétine (ATTR-CA), le ventricule est rigide et le débit cardiaque dépend largement de la fréquence cardiaque. Les bêtabloquants, souvent prescrits pour une fibrillation atriale ou une hypertension, pourraient donc être mal tolérés : bradycardie, fatigue, intolérance à l'effort et hypotension. Les données publiées sont observationnelles et contradictoires, et il n'existe pas d'essai randomisé de déprescription.\n\nCette étude de phase 4 de Weill Cornell Medicine, de développement comportemental (stade I du NIH), teste des essais N-of-1, où chaque patient est son propre témoin. Chaque participant passe par une période sous bêtabloquant et une période hors bêtabloquant, de 6 semaines au plus chacune, avec une diminution de 50 % de la dose par semaine pour l'arrêt. Des entretiens recueillent ensuite l'acceptabilité et la faisabilité du dispositif. Elle porte sur 14 patients et est terminée.",
+ "interet": "Elle fournit des données préliminaires sur la déprescription des bêtabloquants dans l'ATTR-CA et sur la faisabilité d'essais individuels, avant un essai de plus grande taille.",
+ "profil": "Des adultes ambulatoires de 65 ans et plus atteints d'amylose cardiaque TTR et traités par bêtabloquant.",
+ "inclusion": [
+  "Âge ≥ 65 ans, ambulatoire",
+  "Amylose cardiaque TTR confirmée par scintigraphie PYP ou biopsie",
+  "Traitement en cours par bêtabloquant"
+ ],
+ "exclusion": [
+  "Autre indication formelle de bêtabloquant (angor, SCA, infarctus ou pontage dans les 3 ans, arythmie atriale hospitalisée ou rapide, fréquence > 100/min, PAS > 160 mmHg)",
+  "Instabilité clinique (insuffisance cardiaque décompensée, hospitalisation dans les 30 jours, changement de traitement récent ou prévu)",
+  "Espérance de vie < 6 mois",
+  "Démence ou trouble psychiatrique modéré à sévère empêchant le consentement",
+  "Barrière linguistique empêchant le consentement",
+  "Inobservance prévisible des procédures"
+ ],
+ "bras": [
+  {
+   "nom": "Séquence avec puis sans bêtabloquant",
+   "traitement": "Période 1 sous bêtabloquant à la dose habituelle, puis période 2 avec réduction de 50 % de la dose par semaine jusqu'à l'arrêt (ou dose minimale tolérée)"
+  }
+ ],
+ "duree": "Environ 12 semaines (2 périodes de 6 semaines au plus)",
+ "critere": "Différence de consommation maximale d'oxygène (VO2 pic) à l'épreuve d'effort cardiopulmonaire entre les périodes sous et hors bêtabloquant (fin de chaque période), avec KCCQ-12 et EQ-5D EVA comme autres critères principaux"
+}

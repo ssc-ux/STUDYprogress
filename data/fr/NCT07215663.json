@@ -1,0 +1,14 @@
+{
+ "h": "19c575be940b",
+ "date": "2026-11-14",
+ "titre": "Cizutamig dans le lupus érythémateux systémique (phase 1b)",
+ "question": "Cizutamig est-il bien toléré et montre-t-il une activité préliminaire chez des patients ayant un lupus systémique actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) reste actif chez de nombreux patients malgré les traitements disponibles. Les anticorps bispécifiques engageant les lymphocytes T (T-cell engagers) dirigés contre les cellules B sont étudiés comme alternative aux CAR-T, avec l'avantage d'être des produits prêts à l'emploi.\n\nLe registre ne précise pas la cible du cizutamig (Candid Therapeutics). L'étude de phase 1b, ouverte et multicentrique, évalue sa tolérance, sa pharmacocinétique, sa pharmacodynamie, son immunogénicité et son activité clinique préliminaire. Elle inclut environ 47 adultes de 18 à 75 ans avec un LES actif (SLEDAI-2K ≥ 6, dont ≥ 4 pour la part clinique) et une réponse insuffisante au traitement depuis au moins 3 mois, avec ou sans néphrite lupique de classe III/IV. Le suivi dure 12 mois.",
+ "interet": "L'étude apportera les premières données de tolérance du cizutamig dans le LES. Elle ne permettra pas de comparer à un traitement de référence.",
+ "profil": "Des adultes de 18 à 75 ans atteints de LES actif avec réponse insuffisante au traitement.",
+ "inclusion": ["Âge de 18 à 75 ans", "LES selon critères ACR/EULAR", "Anti-ADN natif ou anti-Sm positifs, plus un autre marqueur (ANA ≥ 1:80)", "SLEDAI-2K ≥ 6 dont score clinique ≥ 4", "Réponse insuffisante au traitement depuis ≥ 3 mois", "Traitements associés stables ; néphrite lupique de classe III ou IV si atteinte rénale"],
+ "exclusion": ["Infection active", "Vaccin vivant dans les 4 semaines", "Autre maladie auto-immune, syndrome des antiphospholipides catastrophique ou événement thrombotique non contrôlé", "Leucoencéphalopathie multifocale progressive, déficit immunitaire primitif ou déficit héréditaire en complément", "Atteinte du système nerveux central", "Cancer dans les 5 ans", "Allergie sévère aux anticorps monoclonaux", "Grossesse ou allaitement"],
+ "bras": [{"nom": "Cizutamig", "traitement": "Cizutamig, schéma posologique non précisé dans le registre"}],
+ "duree": "12 mois",
+ "critere": "Fréquence et gravité des événements indésirables, constantes vitales, ECG et biologie de sécurité, de l'inclusion au mois 12"
+}

@@ -1,0 +1,29 @@
+{
+ "h": "6f8eee7826ed",
+ "date": "2026-11-14",
+ "titre": "CAR-T BCMA-CD19 dans neuf maladies auto-immunes réfractaires",
+ "question": "Les CAR-T BCMA-CD19 permettent-ils d'obtenir une rémission chez des adultes ayant une maladie auto-immune systémique réfractaire (lupus, Sjögren, myopathie, sclérodermie, vascularite, Behçet, IgG4, SAPL, PTT acquis) ?",
+ "contexte": "Les maladies auto-immunes systémiques réfractaires aux corticoïdes à forte dose, aux immunosuppresseurs et aux biothérapies ont un pronostic sombre et peu d'options. Les CAR-T anti-CD19 ont montré dans le lupus, la sclérodermie et les myopathies inflammatoires des rémissions prolongées dans de petites séries, avec la possibilité de réinitialiser l'immunité B.\n\nLa double cible BCMA-CD19 vise à éliminer à la fois les lymphocytes B et les plasmablastes/plasmocytes à longue durée de vie, producteurs d'auto-anticorps, que l'anti-CD19 seul n'atteint pas. Cet essai de phase 2 monocentrique, ouvert et à bras unique, du Peking University People's Hospital, prévoit 50 adultes de 18 à 65 ans avec neuf maladies : lupus, Sjögren, myopathies inflammatoires, sclérodermie, Behçet, vascularites à ANCA, maladie à IgG4, syndrome des antiphospholipides et purpura thrombotique thrombocytopénique acquis. Les patients reçoivent une dose unique de 3×10⁶ cellules CAR+/kg, 1 à 2 jours après un conditionnement. Les critères principaux sont le taux de rémission complète et des paramètres biologiques, évalués à 24 ou 52 semaines selon la maladie.",
+ "interet": "L'étude permettra d'estimer le taux de rémission des CAR-T double cible dans un large éventail de maladies auto-immunes. L'absence de comparateur et le petit nombre de patients par maladie limitent la portée des conclusions.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'une maladie auto-immune systémique réfractaire à plusieurs traitements.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, poids ≥ 45 kg",
+  "Maladie répondant aux critères de classification de chaque affection (lupus, Sjögren, myopathies, sclérodermie, Behçet, vascularite à ANCA, IgG4, SAPL, PTT acquis)",
+  "Échec de plusieurs traitements (corticoïdes à forte dose, immunosuppresseurs, biothérapies)",
+  "Corticoïdes ≤ 1 mg/kg/j et traitements de fond stables depuis 4 semaines",
+  "Critères d'activité propres à chaque maladie",
+  "Contraception efficace (sans estrogènes oraux ni anneau vaginal)",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T BCMA-CD19",
+   "traitement": "Perfusion unique de 3×10⁶ cellules CAR+/kg, 1 à 2 jours après le conditionnement"
+  }
+ ],
+ "duree": "24 semaines (52 semaines pour vascularites à ANCA, SAPL et PTT)",
+ "critere": "Taux de rémission complète et paramètres biologiques propres à chaque maladie, à 24 ou 52 semaines"
+}

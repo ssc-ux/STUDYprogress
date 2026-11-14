@@ -1,0 +1,14 @@
+{
+ "h": "f9f2b632a1e3",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 dans le lupus érythémateux systémique actif (phase 1/2)",
+ "question": "Les CAR-T anti-CD19 sont-elles sûres et efficaces chez des adultes ayant un lupus systémique actif ?",
+ "contexte": "Le pronostic du lupus érythémateux systémique (LES) actif reste réservé : le contrôle de la maladie est difficile malgré corticoïdes, immunosuppresseurs et biothérapies, et certains patients ne peuvent pas sevrer les corticoïdes, avec leurs complications (diabète, ostéonécrose, hypertension, infections).\n\nLes CAR-T anti-CD19 détruisent les lymphocytes B, source des auto-anticorps. Des données précliniques et de petites séries cliniques suggèrent une efficacité dans le LES. Cette étude de phase 1/2, menée à l'hôpital Union de Wuhan (Tongji), est ouverte et à bras unique, avec 15 patients de 18 à 70 ans ayant un LES actif (SELENA-SLEDAI ≥ 6, PGA ≥ 1) malgré au moins 8 semaines de traitement standardisé. Elle évalue la tolérance, l'efficacité préliminaire, la pharmacocinétique et la pharmacodynamie. La perfusion est suivie sur 2 ans.",
+ "interet": "L'étude apportera des données de tolérance et d'efficacité préliminaire des CAR-T dans le LES. Son faible effectif et l'absence de comparateur appellent des essais plus larges.",
+ "profil": "Des adultes de 18 à 70 ans atteints de LES actif malgré un traitement standardisé.",
+ "inclusion": ["Âge de 18 à 70 ans, poids ≥ 40 kg", "LES selon critères ACR 1997 depuis ≥ 24 semaines", "SELENA-SLEDAI ≥ 6 et PGA ≥ 1 au dépistage", "Au moins 8 semaines de traitement standardisé du LES", "Test de grossesse négatif et contraception efficace"],
+ "exclusion": ["Néphrite lupique sévère active dans les 8 semaines (dialyse, prednisone ≥ 100 mg/j)", "Idées suicidaires dans les 6 mois ou comportement suicidaire dans les 12 mois", "Atteinte du système nerveux central dans les 8 semaines", "Greffe d'organe ou de cellules souches", "Hépatite B active ou hépatite C positive", "Autre maladie auto-immune nécessitant un traitement systémique"],
+ "bras": [{"nom": "Bras expérimental", "traitement": "Perfusion intraveineuse de CAR-T anti-CD19"}],
+ "duree": "2 ans après la perfusion",
+ "critere": "Sécurité et tolérance dans les 2 ans suivant la perfusion"
+}

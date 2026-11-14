@@ -1,0 +1,30 @@
+{
+ "h": "844eb6b6e44e",
+ "date": "2026-11-14",
+ "titre": "ACE1831, lymphocytes T γδ allogéniques, dans le lupus systémique en rechute ou réfractaire",
+ "question": "L'ACE1831 est-il bien toléré chez des patients atteints de lupus systémique en rechute ou réfractaire ?",
+ "contexte": "Une partie des patients lupiques reste en maladie active malgré les corticoïdes, les immunosuppresseurs et les biothérapies. Les CAR-T anti-CD19 autologues ont obtenu des rémissions dans des séries de lupus réfractaire, mais leur fabrication individualisée est longue et coûteuse.\n\nL'ACE1831 est une thérapie cellulaire allogénique « sur étagère » à base de lymphocytes T γδ de donneurs sains, de type CAR, développée par Acepodia. Les lymphocytes γδ ne sont pas restreints par le CMH, ce qui limite le risque de maladie du greffon contre l'hôte.\n\nCette étude de l'hôpital Tongji est ouverte et monobras, avec deux cohortes d'escalade de dose, une lymphodéplétion préalable selon l'attribution et environ 22 patients de 18 à 60 ans. Les patients doivent avoir un lupus actif (SLEDAI-2K ≥ 8, BILAG A ou deux B) et un échec des corticoïdes et d'au moins deux traitements. Le critère principal est la tolérance, 24 semaines après la dernière dose.",
+ "interet": "L'étude apportera les premières données de tolérance de ce produit dans le lupus. Elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus systémique actif, modéré à sévère, en rechute ou réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 60 ans",
+  "Lupus selon EULAR/ACR 2019, ACR 1997 ou SLICC 2012, anticorps antinucléaires, anti-ADN natif ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 8, au moins un BILAG A ou deux BILAG B",
+  "Réponse insuffisante aux corticoïdes et à au moins 2 traitements pendant 3 mois au moins",
+  "Contraception efficace jusqu'à 1 an après le traitement"
+ ],
+ "exclusion": [
+  "Néphrite lupique sévère, hémodialyse ou DFG < 50 mL/min/1,73 m²",
+  "Atteinte du système nerveux central, lupique ou non",
+  "Cancer dans les 5 dernières années",
+  "Infection active, chronique ou latente (VHB, VHC, VIH, tuberculose, syphilis)",
+  "Traitement antérieur déplétant les lymphocytes B",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Cohorte 1", "traitement": "ACE1831 à la dose 1, avec lymphodéplétion selon l'attribution" },
+  { "nom": "Cohorte 2", "traitement": "ACE1831 à la dose 2, avec lymphodéplétion selon l'attribution" }
+ ],
+ "duree": "24 semaines après la dernière dose",
+ "critere": "Tolérance de l'ACE1831 (événements indésirables), 24 semaines après la dernière dose"
+}

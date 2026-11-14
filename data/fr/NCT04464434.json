@@ -1,0 +1,30 @@
+{
+ "h": "bfeff727d92f",
+ "date": "2026-11-14",
+ "titre": "Autogreffe de cellules souches d'emblée versus immunosuppresseurs dans la sclérodermie diffuse précoce",
+ "question": "Faut-il proposer l'autogreffe de cellules souches hématopoïétiques d'emblée, ou après échec des immunosuppresseurs, dans la sclérodermie systémique cutanée diffuse précoce ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse (ScSd) évolutive est associée à une mortalité élevée, surtout par atteinte pulmonaire, cardiaque ou rénale. L'autogreffe de cellules souches hématopoïétiques (HSCT) a montré un bénéfice de survie par rapport au cyclophosphamide dans des essais antérieurs (ASTIS, SCOT). Elle figure dans les recommandations internationales, et elle est remboursée dans plusieurs pays européens.\n\nLa place optimale de la HSCT reste incertaine : traitement d'emblée, ou traitement de sauvetage chez les patients qui ne répondent pas aux immunosuppresseurs. La HSCT est lourde, coûteuse et expose à une toxicité, d'où l'intérêt d'attendre la réponse aux immunosuppresseurs. À l'inverse, l'attente peut laisser se développer des atteintes pulmonaires et cardiaques qui contre-indiqueraient ensuite la greffe.\n\nUPSIDE est un essai de phase 4 multicentrique, randomisé en ouvert, promu par l'UMC Utrecht. Il compare deux stratégies de soins courants chez des patients naïfs de chimiothérapie : HSCT d'emblée, ou cyclophosphamide IV puis mycophénolate, avec HSCT en sauvetage.",
+ "interet": "L'étude doit fournir les premières données comparatives sur le moment de la HSCT dans la sclérodermie diffuse précoce. Elle aidera à définir les stratégies dans les centres experts, en tenant compte de la toxicité et du coût.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sclérodermie systémique cutanée diffuse évoluant depuis 3 ans au plus.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, critères ACR-EULAR 2013 de sclérodermie systémique",
+  "Durée d'évolution ≤ 3 ans depuis le premier symptôme non-Raynaud",
+  "Forme diffuse avec mRSS ≥ 15 progressif, et/ou atteinte d'organe majeure",
+  "Atteinte pulmonaire : DLCO et/ou CVF ≤ 85 % avec PID au scanner, ou déclin récent",
+  "Atteinte rénale ou cardiaque cliniquement significative (critères détaillés au protocole)"
+ ],
+ "exclusion": [
+  "Grossesse ou absence de contraception adéquate",
+  "Maladie sévère associée : PAPm > 25 mmHg, DLCO < 40 %, clairance de la créatinine < 40 mL/min, FEVG < 45 %, insuffisance hépatique",
+  "Cancer ou myélodysplasie, insuffisance médullaire, VIH ou HTLV positifs, infection non contrôlée",
+  "Indice de performance OMS > 2",
+  "Immunosuppresseurs depuis plus de 12 mois",
+  "Traitement antérieur par irradiation lymphoïde ou corporelle totale, ou agents alkylants dont le cyclophosphamide"
+ ],
+ "bras": [
+  { "nom": "Autogreffe d'emblée", "traitement": "Autogreffe de cellules souches hématopoïétiques d'emblée" },
+  { "nom": "Immunosuppresseurs", "traitement": "12 pulses mensuels de cyclophosphamide IV 750 mg/m², puis au moins 12 mois de mycophénolate (jusqu'à 3 g/j) ou d'acide mycophénolique ; HSCT en sauvetage" }
+ ],
+ "duree": "24 mois",
+ "critere": "Score composite global par rangs (Global Rank Composite Score) à 24 mois"
+}

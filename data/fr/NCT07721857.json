@@ -1,0 +1,38 @@
+{
+ "h": "d0d2b8ad0c17",
+ "date": "2026-11-14",
+ "titre": "Pièges extracellulaires des neutrophiles (NET) dans la néphrite lupique",
+ "question": "Les taux circulants de NET changent-ils chez les patients avec néphrite lupique, et peuvent-ils servir de biomarqueur d'activité et de réponse au traitement ?",
+ "contexte": "La néphrite lupique reste l'une des atteintes d'organe les plus graves du lupus, avec un risque de maladie rénale chronique et de mortalité tardive. Malgré les progrès de l'immunosuppression, de nombreux patients n'obtiennent pas de rémission durable, d'où le besoin de biomarqueurs fiables.\n\nLes NET sont des réseaux de chromatine (ADN, histones, protéines granulaires) libérés par les neutrophiles activés (NETose). Leur formation excessive et leur dégradation altérée exposent des auto-antigènes nucléaires, amplifient la voie de l'interféron de type I, activent le complément et lèsent l'endothélium et les podocytes. Cette étude observationnelle de l'Université d'Assiut inclut 100 adultes de 18 à 60 ans, avec une néphrite lupique active nécessitant une biopsie et un traitement d'induction standard, et des témoins lupiques sans néphrite. Le niveau circulant de NET est mesuré et suivi pendant deux ans.",
+ "interet": "Un marqueur de NET pourrait compléter la protéinurie et la biopsie pour suivre la néphrite lupique et orienter le choix des traitements. Les résultats seront monocentriques et exploratoires.",
+ "profil": "Des adultes de 18 à 60 ans avec néphrite lupique active, comparés à des patients lupiques sans atteinte rénale.",
+ "inclusion": [
+  "Âge de 18 à 60 ans",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Néphrite lupique active justifiant une biopsie (protéinurie ≥ 0,5 g/24 h, sédiment actif, élévation de la créatinine)",
+  "Biopsie exploitable (classification ISN/RPS 2018)",
+  "Induction standard prévue (mycophénolate ou cyclophosphamide avec corticoïdes)",
+  "Témoins : lupus sans néphrite (sédiment normal, protéinurie < 0,3 g/24 h, créatinine normale)"
+ ],
+ "exclusion": [
+  "Autre néphropathie primitive ou secondaire sans lien avec le lupus (diabète, HTA, IgA, néphrotoxicité)",
+  "Hépatite B ou C active",
+  "Infection majeure active ou récente",
+  "Insuffisance rénale chronique stade 4-5 antérieure au lupus",
+  "Grossesse ou allaitement",
+  "Biothérapie récente (3 mois) ou médicament modifiant l'activité des neutrophiles",
+  "Antécédent de cancer"
+ ],
+ "bras": [
+  {
+   "nom": "Néphrite lupique",
+   "traitement": "Dosage des NET circulants, induction standard selon la pratique"
+  },
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Lupus sans néphrite, mêmes dosages"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Variation du taux circulant de NET chez les patients avec néphrite lupique, sur 2 ans"
+}

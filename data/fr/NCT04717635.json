@@ -1,0 +1,29 @@
+{
+ "h": "c200222c4f33r",
+ "date": "2026-11-14",
+ "titre": "Canakinumab dans la maladie de Still de l'adulte chez des patients japonais",
+ "question": "Le canakinumab sous-cutané est-il efficace et bien toléré chez les patients japonais atteints de maladie de Still de l'adulte ?",
+ "contexte": "La maladie de Still de l'adulte est une maladie auto-inflammatoire rare associant fièvre, éruption, arthrite et hyperferritinémie, avec un risque de syndrome d'activation macrophagique. Les corticoïdes sont le traitement initial, mais les rechutes et la corticodépendance sont fréquentes. Les anti-IL-1 (anakinra, canakinumab) et les anti-IL-6 sont utilisés en cas d'échec.\n\nLe canakinumab est un anticorps monoclonal anti-IL-1β. Cette étude de phase 3, promue par Novartis, est ouverte et à un seul bras. Elle a évalué le canakinumab 4 mg/kg (maximum 300 mg) par voie sous-cutanée toutes les 4 semaines, pendant au moins 48 semaines, chez 14 patients japonais. Les analyses intermédiaires aux semaines 28 et 48 ont soutenu la demande d'enregistrement dans cette indication au Japon.",
+ "interet": "L'étude a fourni les données d'efficacité et de tolérance nécessaires à l'enregistrement du canakinumab dans la maladie de Still de l'adulte au Japon. Les effectifs sont très faibles et il n'y a pas de comparateur.",
+ "profil": "Des adultes et adolescents japonais d'au moins 16 ans atteints de maladie de Still active.",
+ "inclusion": [
+  "Japonais d'au moins 16 ans, consentement écrit",
+  "Maladie de Still de l'adulte selon les critères de Yamaguchi, début à ≥ 16 ans",
+  "Fièvre > 38 °C liée à la maladie dans la semaine précédant l'inclusion",
+  "Au moins 2 articulations actives (douloureuses ou gonflées)",
+  "CRP ≥ 10 mg/L"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Hypersensibilité significative au médicament ou aux biothérapies",
+  "Syndrome d'activation macrophagique ou CIVD dans les 6 mois",
+  "Affection métabolique, rénale, hépatique, infectieuse ou digestive compromettant la sécurité d'une immunomodulation",
+  "Infection active ou récidivante, VIH ou hépatite"
+ ],
+ "bras": [
+  { "nom": "Canakinumab", "traitement": "4 mg/kg SC (maximum 300 mg) toutes les 4 semaines, en ouvert" }
+ ],
+ "duree": "Au moins 48 semaines",
+ "critere": "Pourcentage de patients en réponse ACR30 adaptée à la semaine 8",
+ "resultats": "À la semaine 8, 50,0 % des 14 patients (IC 95 % 20,2-79,8) étaient en réponse ACR30 adaptée. Des événements indésirables graves ont été rapportés chez 6 patients sur 14, sans décès. L'étude est ouverte, à un seul bras et d'effectif très faible : les résultats sont descriptifs et ne permettent pas de comparaison."
+}

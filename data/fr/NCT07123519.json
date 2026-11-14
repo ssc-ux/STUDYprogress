@@ -1,0 +1,24 @@
+{
+ "h": "ef63fb93aae7",
+ "date": "2026-11-14",
+ "titre": "Cellules YTS109 dans les maladies auto-immunes récidivantes ou réfractaires",
+ "question": "Les cellules YTS109 sont-elles bien tolérées et actives dans le lupus et d'autres maladies auto-immunes réfractaires ?",
+ "contexte": "Le lupus avec atteinte rénale ou thrombopénie auto-immune, le syndrome de Gougerot-Sjögren, les myopathies inflammatoires, les vascularites à ANCA et le syndrome des antiphospholipides peuvent rester réfractaires aux immunosuppresseurs et aux biothérapies (rituximab, bélimumab, télitacicept). Ces formes exposent à des séquelles d'organe.\n\nLes CAR-T anti-CD19 autologues ont induit des rémissions dans des cas de lupus réfractaire. Le YTS109 est un produit de thérapie cellulaire de China Immunotech (Beijing) désigné comme « STAR-T » dans le registre ; sa cible n'est pas précisée.\n\nCette étude de phase 1 est ouverte et monobras, menée à l'Institute of Hematology & Blood Diseases Hospital. Environ 18 patients de 18 à 65 ans reçoivent une perfusion unique, avec escalade « 3+3 » à partir de 3 × 10^6 cellules/kg. Le critère principal est la tolérance, l'efficacité étant évaluée aux semaines 2, 4, 8 et 12.",
+ "interet": "Les résultats préciseront la tolérance et la dose recommandée du produit avant d'éventuelles études d'efficacité. L'étude est exploratoire et sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus (avec néphrite ou thrombopénie), Gougerot-Sjögren, myopathie inflammatoire, vascularite à ANCA ou syndrome des antiphospholipides réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement signé",
+  "Fonctions d'organe : neutrophiles ≥ 1 G/L, hémoglobine ≥ 60 g/L, ALAT/ASAT ≤ 3 N, clairance ≥ 30 mL/min",
+  "Contraception pendant au moins 12 mois après le traitement",
+  "Lupus selon EULAR/ACR 2019, néphrite lupique proliférative classe III/IV (± V) réfractaire ou thrombopénie lupique",
+  "Néphrite : échec de corticoïdes et d'au moins deux immunosuppresseurs ou biothérapies, rapport protéinurie/créatininurie ≥ 1,0 g/g"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "YTS109", "traitement": "Perfusion unique de cellules YTS109, escalade « 3+3 » à partir de 3 × 10^6 cellules/kg" }
+ ],
+ "duree": "24 semaines de suivi des événements indésirables, prolongé à 52 semaines",
+ "critere": "Événements indésirables apparus sous traitement (nature, gravité, fréquence), suivis 24 semaines puis jusqu'à 52 semaines"
+}

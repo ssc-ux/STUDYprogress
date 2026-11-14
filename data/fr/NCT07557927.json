@@ -1,0 +1,40 @@
+{
+ "h": "ee833a40b86c",
+ "date": "2026-11-14",
+ "titre": "Dihydroartémisinine versus hydroxychloroquine dans le lupus érythémateux discoïde",
+ "question": "La dihydroartémisinine à deux doses est-elle aussi efficace que l'hydroxychloroquine sur l'activité cutanée du lupus discoïde à 24 semaines ?",
+ "contexte": "Le lupus discoïde est une forme chronique de lupus cutané, qui laisse des cicatrices atrophiques et dyschromiques. Le traitement repose sur la photoprotection, les dermocorticoïdes et les antipaludéens, hydroxychloroquine en premier lieu. Les échecs ou intolérances aux antipaludéens sont fréquents, et les alternatives (méthotrexate, mycophénolate, thalidomide) sont limitées.\n\nLa dihydroartémisinine, dérivé de l'artémisinine utilisé dans le paludisme, a des propriétés immunomodulatrices rapportées dans le lupus en Chine. Cet essai de phase 2 multicentrique, promu par Kunming Pharmaceuticals, est randomisé 2:2:1 en double aveugle et double placebo. Cent adultes de 18 à 65 ans avec un lupus discoïde prouvé histologiquement et un CLASI-A ≥ 4 reçoivent dihydroartémisinine 40 mg ou 60 mg deux fois par jour, ou hydroxychloroquine 200 mg une fois par jour, pendant 24 semaines. Les patients avec lupus systémique ou à haut risque de l'être, en résistance aux antipaludéens, sont exclus.",
+ "interet": "Si la dihydroartémisinine montre une efficacité proche de l'hydroxychloroquine, elle pourrait constituer une alternative orale dans le lupus discoïde. L'étude reste une phase 2 de recherche de dose.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus discoïde actif, sans lupus systémique.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, poids ≥ 45 kg",
+  "Lupus érythémateux discoïde diagnostiqué selon les recommandations 2021 (biopsie pour les nouveaux patients, ou < 5 ans)",
+  "CLASI-A ≥ 4 au dépistage",
+  "Compréhension de l'étude et consentement signé"
+ ],
+ "exclusion": [
+  "Lupus systémique ou risque élevé d'en développer",
+  "Lupus d'origine médicamenteuse",
+  "Antécédent de résistance aux antipaludéens",
+  "ASAT, ALAT ou GGT > 2 × LSN ; créatinine ou urée > 1,5 × LSN",
+  "Hémoglobine < 110 g/L ou anémie récente",
+  "Antipaludéen dans les 4 semaines, dermocorticoïdes ou tacrolimus topique dans les 2 semaines",
+  "Biothérapie (12 semaines), immunomodulateurs (4 semaines) ou vaccin vivant (4 semaines)"
+ ],
+ "bras": [
+  {
+   "nom": "Dihydroartémisinine 40 mg",
+   "traitement": "40 mg deux fois par jour, 24 semaines"
+  },
+  {
+   "nom": "Dihydroartémisinine 60 mg",
+   "traitement": "60 mg deux fois par jour, 24 semaines"
+  },
+  {
+   "nom": "Hydroxychloroquine (contrôle)",
+   "traitement": "200 mg une fois par jour, 24 semaines"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Variation en pourcentage du score CLASI-A par rapport à l'inclusion, à la semaine 24"
+}

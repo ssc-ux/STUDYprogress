@@ -1,0 +1,32 @@
+{
+ "h": "673539f14c4a",
+ "date": "2026-11-14",
+ "titre": "ADX-097 sous-cutané dans la néphropathie à IgA, la néphrite lupique et la C3G",
+ "question": "L'ADX-097 est-il bien toléré et actif dans trois glomérulopathies liées au complément (néphropathie à IgA, néphrite lupique de classe III/IV, glomérulopathie à C3) ?",
+ "contexte": "La néphropathie à IgA, la néphrite lupique et la glomérulopathie à C3 (C3G) partagent une activation du complément dans le glomérule, avec une protéinurie persistante et un risque d'insuffisance rénale terminale malgré les traitements de fond (IEC/ARA2, iSGLT2, immunosuppresseurs). Les inhibiteurs du complément systémiques existent mais leur place reste à préciser, et leur coût comme leur effet sur le risque infectieux sont des limites.\n\nL'ADX-097 est un inhibiteur de la voie alterne du complément conçu pour agir au niveau tissulaire, administré par voie sous-cutanée une fois par semaine. Cet essai de phase 2 ouvert, promu par Akebia Therapeutics, inclut 30 participants à partir de 16 ans avec un rapport protéinurie/créatininurie ≥ 0,5 g/g et un DFG ≥ 30 mL/min/1,73 m². Les patients avec néphrite lupique doivent avoir une néphrite proliférative active de classe III ou IV prouvée à la biopsie dans les 24 semaines. Le critère principal est la tolérance jusqu'à 30 semaines ; la pharmacodynamie, la pharmacocinétique et l'activité clinique sont évaluées en secondaire.",
+ "interet": "L'étude précisera la tolérance et l'activité préliminaire d'un inhibiteur du complément tissulaire dans trois maladies glomérulaires. Elle ne comporte pas de groupe contrôle.",
+ "profil": "Des personnes de 16 ans et plus avec néphropathie à IgA, néphrite lupique active ou C3G, avec protéinurie persistante.",
+ "inclusion": [
+  "Âge ≥ 16 ans",
+  "Protéinurie/créatininurie ≥ 0,5 g/g (moyenne de 3 urines du matin)",
+  "DFG ≥ 30 mL/min/1,73 m² (CKD-EPI)",
+  "Traitement néphroprotecteur (IEC/ARA2, iSGLT2, sparsentan, atrasentan) stable depuis ≥ 8 semaines",
+  "Néphropathie à IgA prouvée à la biopsie, ou néphrite lupique de classe III/IV active (biopsie < 24 semaines), ou C3G prouvée (biopsie < 52 semaines)",
+  "Mycophénolate ou prednisone ≥ 10 mg/j stables depuis ≥ 12 semaines si utilisés"
+ ],
+ "exclusion": [
+  "Glomérulonéphrite rapidement progressive (baisse du DFG de 50 % en 12 semaines)",
+  "Autre néphropathie significative associée",
+  "Anticorps anti-facteur H présents ou antérieurs",
+  "Hypertension non contrôlée (PAS ≥ 160 ou PAD ≥ 100 mmHg)",
+  "Autres critères : non précisé dans l'extrait"
+ ],
+ "bras": [
+  {
+   "nom": "ADX-097 en ouvert",
+   "traitement": "ADX-097 par voie sous-cutanée, une fois par semaine"
+  }
+ ],
+ "duree": "Jusqu'à 30 semaines",
+ "critere": "Nombre de participants avec des événements indésirables apparus sous traitement, jusqu'à 30 semaines"
+}

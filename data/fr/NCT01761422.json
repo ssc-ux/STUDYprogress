@@ -1,0 +1,31 @@
+{
+ "h": "e6e04b8c9151",
+ "date": "2026-11-14",
+ "titre": "Inflammation myocardique en IRM cardiaque lors des poussées de lupus",
+ "question": "L'IRM cardiaque met-elle en évidence un œdème myocardique pendant une poussée de lupus modérée à sévère ?",
+ "contexte": "Les patients lupiques ont un risque cardiovasculaire accru, qui n'est pas entièrement expliqué par les facteurs de risque classiques ni par l'athérosclérose. Une inflammation myocardique infraclinique pourrait constituer un mécanisme supplémentaire de lésion cardiaque.\n\nL'IRM cardiaque avec cartographie T2 permet de quantifier l'œdème myocardique de façon non invasive. Cette étude monocentrique de Cincinnati (Ardoin) mesure l'œdème myocardique chez 40 patients lupiques de 18 à 60 ans lors d'une poussée modérée à sévère (SLEDAI > 6 ou BILAG A/B), et compare les valeurs à celles de témoins sains historiques et aux valeurs après résolution de la poussée. Des analyses exploratoires cherchent des liens avec les marqueurs d'activité (VS, CRP ultrasensible, complément, auto-anticorps) et avec les facteurs de risque cardiovasculaire.",
+ "interet": "Si l'œdème myocardique est fréquent lors des poussées, il pourrait justifier une surveillance cardiaque ciblée et orienter les stratégies de prévention cardiovasculaire dans le lupus.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus, examinés lors d'une poussée active puis après sa résolution.",
+ "inclusion": [
+  "Lupus selon les critères ACR",
+  "Poussée active : SLEDAI > 6 ou BILAG A ou B",
+  "Âge de 18 à 60 ans"
+ ],
+ "exclusion": [
+  "Grossesse",
+  "Allergie au gadolinium",
+  "Claustrophobie sévère",
+  "Dialyse ou DFG < 30 mL/min",
+  "Instabilité clinique empêchant le transport (ventilation, FC > 120/min, PAM < 65 mmHg)",
+  "Poids > 500 livres",
+  "Dispositif implanté incompatible avec l'IRM (stimulateur, défibrillateur, métal intracrânien)"
+ ],
+ "bras": [
+  {
+   "nom": "Poussée active de lupus",
+   "traitement": "IRM cardiaque pendant la poussée puis après résolution"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Œdème myocardique T2 en IRM cardiaque, à 3 mois"
+}

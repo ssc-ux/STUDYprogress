@@ -1,0 +1,27 @@
+{
+ "h": "3e1ee48a17bdr",
+ "date": "2026-11-14",
+ "titre": "Daxdilimab versus placebo dans la dermatomyosite et la myosite des anti-synthétases",
+ "question": "Le daxdilimab, anti-ILT7, réduit-il l'activité de la maladie à 24 semaines dans la dermatomyosite ou la myosite des anti-synthétases ?",
+ "contexte": "La dermatomyosite (DM) et la myosite des anti-synthétases (ASIM) sont des myopathies inflammatoires idiopathiques avec atteinte musculaire, cutanée et pulmonaire. Le traitement repose sur les corticoïdes, les immunosuppresseurs, les immunoglobulines IV et le rituximab, avec des formes réfractaires et une toxicité cortisonique importante.\n\nLa signature interféron de type I est élevée dans la DM et dans l'ASIM. Les cellules dendritiques plasmacytoïdes, productrices d'interféron, expriment le récepteur ILT7. Le daxdilimab est un anticorps anti-ILT7 qui déplète ces cellules et réduit ainsi la production d'interféron.\n\nCette étude de phase 2 de preuve de concept, promue par Amgen, randomise les patients 1:1 par population (DM, ASIM) pour recevoir le daxdilimab ou un placebo en sous-cutané pendant 24 semaines. Les patients du bras placebo pouvaient passer en extension ouverte. L'étude a inclus 12 patients.",
+ "interet": "L'étude teste un nouveau mécanisme, la déplétion des cellules dendritiques plasmacytoïdes, dans les myosites. Son effectif très réduit ne permet qu'un signal exploratoire.",
+ "profil": "Des adultes de 18 à 75 ans atteints de dermatomyosite ou de myosite des anti-synthétases active.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Myosite certaine ou probable (ACR/EULAR 2017) : dermatomyosite avec rash, ou ASIM avec anticorps anti-synthétase (anti-Jo-1 ou autres)",
+  "Myosite active : MMT-8 < 142 et au moins 2 autres mesures de base anormales",
+  "Dommage musculaire global ≤ 5/10 (myositis damage index)",
+  "Traitement standard stable, ou sevrage pour les patients intolérants ou en échec",
+  "Accord pour diminuer les corticoïdes selon le protocole"
+ ],
+ "exclusion": [
+  "Critères d'exclusion détaillés : non précisé dans les données retenues"
+ ],
+ "bras": [
+  { "nom": "Daxdilimab", "traitement": "Daxdilimab 300 mg SC pendant 24 semaines, puis 8 semaines de suivi de tolérance" },
+  { "nom": "Placebo", "traitement": "Placebo SC pendant 24 semaines, puis daxdilimab en extension ouverte (avant l'amendement 2)" }
+ ],
+ "duree": "24 semaines de traitement, plus 8 semaines de suivi",
+ "critere": "Score moyen d'amélioration totale (Total Improvement Score, TIS) à la semaine 24",
+ "resultats": "L'étude n'a inclus que 12 patients. Le TIS moyen à la semaine 24 était de 28,75 (écart type 18,31 ; n = 4) dans le groupe dermatomyosite initialement sous placebo, de 20,00 (15,21 ; n = 3) dans le groupe dermatomyosite sous daxdilimab 300 mg et de 61,25 (12,37 ; n = 2) dans le groupe ASIM sous daxdilimab, selon les groupes du registre. Aucune comparaison statistique n'est rapportée. Des événements indésirables graves sont survenus chez 1 patient sur 4 (DM placebo), 1 sur 5 (DM daxdilimab) et 0 sur 3 (ASIM daxdilimab), sans décès. L'effectif très faible interdit toute conclusion."
+}

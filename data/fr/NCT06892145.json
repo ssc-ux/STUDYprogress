@@ -1,0 +1,30 @@
+{
+ "h": "b0d441ef43cb",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 à fabrication rapide (MC-1-50) dans le lupus systémique réfractaire (phase 1)",
+ "question": "Les CAR-T anti-CD19 MC-1-50, administrées à très faible dose, sont-elles sûres chez des adultes ayant un lupus systémique réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) réfractaire reste actif malgré hydroxychloroquine, corticoïdes, immunosuppresseurs et biothérapies. Les CAR-T anti-CD19 induisent des rémissions dans de petites séries, mais leur fabrication prend plusieurs semaines et coûte cher.\n\nMC-1-50, de Chongqing Precision Biotech, est une CAR-T anti-CD19 produite avec la plateforme PrimeCAR, dont la fabrication dure environ 3 jours. Le produit contient une proportion élevée de lymphocytes T naïfs, ce qui permettrait une activité à très faible dose et une meilleure sécurité. Cette étude de phase 1 ouverte, à bras unique, utilise trois niveaux de dose (0,3, 1 et 3 × 10^5 cellules CAR+/kg) en perfusion unique, avec escalade puis expansion, sur environ 12 patients. Elle doit aussi explorer le schéma applicable à une phase II.",
+ "interet": "L'étude évalue la faisabilité d'une fabrication plus rapide et moins coûteuse. Sans comparateur, elle ne permet pas de juger du bénéfice clinique.",
+ "profil": "Des adultes atteints de LES actif réfractaire malgré corticoïdes, immunosuppresseurs et au moins une biothérapie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LES selon critères EULAR/ACR 2019",
+  "Maladie active malgré hydroxychloroquine, corticoïdes ≥ 1 mg/kg/j, au moins 2 immunosuppresseurs et une biothérapie (≥ 3 mois), ou intolérance",
+  "SLEDAI-2K ≥ 7 ; ANA et/ou anti-ADN natif positifs",
+  "FEVG ≥ 50 %, créatininémie ≤ 2 N ou clairance ≥ 60 mL/min, ALT/AST ≤ 3 N, SpO2 ≥ 92 %",
+  "Contraception efficace pendant 1 an après la perfusion"
+ ],
+ "exclusion": [
+  "Trouble psychiatrique grave",
+  "Contre-indication à la collecte de cellules",
+  "Autres critères : non précisé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "MC-1-50",
+   "traitement": "Perfusion unique de CAR-T anti-CD19 à 0,3, 1 ou 3 × 10^5 cellules CAR+/kg"
+  }
+ ],
+ "duree": "Non précisé ; critère principal à 1 mois",
+ "critere": "Fréquence des événements indésirables apparus sous traitement à 1 mois"
+}

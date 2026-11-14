@@ -1,0 +1,14 @@
+{
+ "h": "6ebadd93d871",
+ "date": "2026-11-14",
+ "titre": "APG-2575 dans le lupus systémique léger à modéré",
+ "question": "L'APG-2575 est-il bien toléré et quelles sont ses propriétés pharmacologiques chez des femmes avec un lupus léger à modéré ?",
+ "contexte": "Le lupus systémique nécessite souvent un traitement au long cours par antipaludéens, immunosuppresseurs et corticoïdes, avec des effets indésirables cumulés. De nouvelles cibles sont recherchées, notamment pour agir sur les lymphocytes auto-réactifs.\n\nL'APG-2575 (lisaftoclax) est un inhibiteur oral de BCL-2, protéine qui favorise la survie cellulaire. Il est surtout développé en onco-hématologie (leucémie lymphoïde chronique) ; l'hypothèse ici, non détaillée dans le registre, est que l'inhibition de BCL-2 pourrait éliminer les lymphocytes pathogènes. Cette étude de phase 1/2 chinoise, randomisée en double aveugle contre placebo, est promue par Ascentage Pharma, avec l'hôpital Renji de Shanghai. Environ 40 patientes reçoivent des doses croissantes (200 à 800 mg) ou un placebo. Elle porte surtout sur la tolérance, la pharmacocinétique et la pharmacodynamie.",
+ "interet": "Cette étude pourrait donner les premières données de tolérance d'un inhibiteur de BCL-2 dans le lupus. Elle déterminerait si des essais d'efficacité sont justifiés.",
+ "profil": "Des femmes de 18 à 65 ans avec un lupus systémique léger à modéré, sous traitement stable.",
+ "inclusion": ["Femmes de 18 à 65 ans", "Lupus systémique depuis au moins 6 mois", "Traitement stable depuis au moins 28 jours", "SLEDAI-2K de 4 à 12", "Bon état de santé général hors lupus"],
+ "exclusion": ["Lupus sévère", "Autre maladie auto-immune significative", "Maladie d'organe significative, non contrôlée ou instable", "Autres critères non précisés"],
+ "bras": [{ "nom": "APG-2575", "traitement": "APG-2575 par voie orale, doses croissantes de 200 à 800 mg (rythme non précisé)" }, { "nom": "Placebo", "traitement": "Placebo" }],
+ "duree": "Jusqu'à 1 an",
+ "critere": "Nombre de participantes avec des événements indésirables liés au traitement (CTCAE v5.0), jusqu'à 1 an"
+}

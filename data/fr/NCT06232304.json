@@ -1,0 +1,14 @@
+{
+ "h": "efddadbd635a",
+ "date": "2026-11-14",
+ "titre": "Programme TEACH de thérapie cognitivo-comportementale dans le lupus de l'enfant et de l'adolescent",
+ "question": "Un programme de gestion cognitivo-comportementale de la fatigue, de la douleur et de la dépression améliore-t-il l'état des jeunes atteints de lupus pédiatrique ?",
+ "contexte": "Le lupus systémique à début pédiatrique est plus sévère que celui de l'adulte, touche surtout des filles issues de minorités et expose à un risque de mortalité environ 20 fois supérieur à celui de la population générale selon le promoteur. La dépression, l'anxiété, la fatigue et la douleur sont des plaintes fréquentes qui dégradent la qualité de vie et peuvent nuire à l'adhésion au traitement.\n\nCes symptômes sont potentiellement modifiables par des interventions comportementales. L'équipe a construit TEACH (Treatment and Education Approach for Childhood-onset Lupus), un programme bref de 6 séances de thérapie cognitivo-comportementale, délivrable en présentiel ou à distance, adapté à ces jeunes.\n\nCet essai randomisé, promu par la Michigan State University, évalue TEACH ajouté aux soins habituels contre les soins habituels seuls, chez 175 jeunes de 12 à 22 ans. Les symptômes dépressifs, la fatigue, la douleur, le stress, la cognition et la qualité de vie sont suivis pendant 56 semaines.",
+ "interet": "Si TEACH est efficace, il pourrait être intégré aux soins de routine du lupus pédiatrique pour traiter des symptômes souvent négligés. L'étude évalue aussi la faisabilité de son intégration aux consultations.",
+ "profil": "Des jeunes de 12 à 22 ans atteints de lupus à début pédiatrique, avec fatigue, symptômes dépressifs ou douleur.",
+ "inclusion": ["Lupus de début avant 18 ans, selon les critères ACR révisés", "Âge de 12 à 22 ans", "Fatigue (PROMIS T-score ≥ 60) ou symptômes dépressifs (PHQ-9 ≥ 5, BDI ≥ 60 en T-score ou CDI-2) ou douleur moyenne ≥ 3/10", "Maîtrise de l'anglais (aidant anglophone ou hispanophone)", "Aidant consentant si moins de 18 ans (US) ou 16 ans (Canada)"],
+ "exclusion": ["Autre maladie chronique (arthrite juvénile, etc.)", "Retard de développement documenté, déficit cognitif sévère ou trouble de la pensée", "Maladie psychiatrique majeure non traitée (bipolarité, psychose, dépression sévère avec PHQ-9 ≥ 21)", "Idées suicidaires actives"],
+ "bras": [{"nom": "TEACH", "traitement": "Programme de coping cognitivo-comportemental de 6 séances, en plus des soins habituels"}, {"nom": "Contrôle", "traitement": "Soins médicaux habituels seuls"}],
+ "duree": "56 semaines",
+ "critere": "Symptômes dépressifs (CDI-2 et BDI-II, PHQ-9) évalués à l'inclusion puis à 8, 20, 32, 44 et 56 semaines"
+}

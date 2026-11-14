@@ -1,0 +1,28 @@
+{
+ "h": "725a98dc9903r",
+ "date": "2026-11-14",
+ "titre": "CXCL9 comme biomarqueur de réponse à l'Acthar gel dans la sarcoïdose",
+ "question": "Le taux sanguin de CXCL9 diminue-t-il sous Acthar gel chez des patients sarcoïdosiques réfractaires, en parallèle d'une amélioration clinique ?",
+ "contexte": "La sarcoïdose pulmonaire est traitée par corticoïdes, puis par des immunosuppresseurs (méthotrexate, azathioprine) et des anti-TNF dans les formes réfractaires. Certains patients restent symptomatiques ou intolérants, et les marqueurs biologiques prédictifs de l'évolution sont peu validés.\n\nL'Acthar gel est une préparation d'ACTH utilisée en injection. Ses propriétés anti-inflammatoires pourraient moduler les cellules immunitaires. La chimiokine CXCL9, marqueur de l'activité Th1/interféron gamma, prédit l'évolution clinique de la sarcoïdose selon les travaux de l'équipe de l'UCSF.\n\nCette étude de phase 4, ouverte, évalue si l'Acthar gel fait baisser le CXCL9 sanguin et ses transcrits, et si cette baisse est corrélée à la fonction respiratoire et aux scores symptomatiques. Elle a été arrêtée prématurément avec 2 patients.",
+ "interet": "L'étude testait un biomarqueur de réponse à un traitement de recours. L'arrêt précoce ne permet pas de conclure.",
+ "profil": "Des adultes de 18 à 65 ans atteints de sarcoïdose pulmonaire réfractaire ou intolérante aux immunosuppresseurs.",
+ "inclusion": [
+  "Sarcoïdose prouvée par biopsie, avec atteinte pulmonaire documentée",
+  "Réfractaire ou intolérante aux immunosuppresseurs (prednisone, méthotrexate)",
+  "Âge de 18 à 65 ans"
+ ],
+ "exclusion": [
+  "Tabagisme",
+  "Cancer",
+  "Infection chronique (tuberculose, virale, fongique, bactérienne)",
+  "Maladie inflammatoire associée, pathologie pulmonaire coexistante",
+  "Insuffisance cardiaque, HTA non contrôlée, chirurgie récente",
+  "Ulcère gastroduodénal actif, ostéoporose"
+ ],
+ "bras": [
+  { "nom": "Acthar gel", "traitement": "4 semaines de suivi sans traitement, puis 40 U IM ou SC toutes les 72 heures (ou 2 fois par semaine) pendant 4 semaines, puis 80 U pendant 8 à 16 semaines" }
+ ],
+ "duree": "Environ 6 mois",
+ "critere": "Nombre de patients avec une baisse d'au moins 50 % du CXCL9 sanguin dans les 6 mois",
+ "resultats": "L'étude a été arrêtée prématurément et n'a analysé que 2 patients. Aucun des 2 patients n'a présenté de baisse du CXCL9 sanguin de 50 % ou plus. Aucun événement indésirable grave ni décès n'a été rapporté. Ces données ne permettent aucune conclusion."
+}

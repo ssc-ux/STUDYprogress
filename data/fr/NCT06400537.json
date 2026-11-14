@@ -1,0 +1,14 @@
+{
+ "h": "45748e62dcee",
+ "date": "2026-11-14",
+ "titre": "A-319, anticorps bispécifique CD19xCD3, dans le lupus actif ou réfractaire",
+ "question": "L'anticorps bispécifique A-319 est-il sûr et actif dans le lupus actif ou réfractaire ?",
+ "contexte": "Dans le lupus, les lymphocytes B pathogènes produisent des auto-anticorps qui forment des complexes immuns responsables de lésions tissulaires et d'une inflammation persistante. Les formes actives ou réfractaires malgré les traitements standards constituent un besoin non couvert.\n\nA-319 est un anticorps bispécifique recombinant CD19xCD3 : il recrute les lymphocytes T du patient pour détruire les lymphocytes B CD19+. Il est déjà testé dans des hémopathies malignes B, et des données précliniques en soutiennent l'intérêt dans le lupus. Cette approche vise une déplétion B profonde, comparable aux CAR-T, mais avec un produit disponible d'emblée, sans fabrication cellulaire.\n\nCette phase 1 de l'hôpital Union de Wuhan, non randomisée, évalue la tolérance, la pharmacocinétique, la pharmacodynamie, l'immunogénicité et l'efficacité préliminaire. Deux voies sont testées sur 4 semaines : perfusion intraveineuse (3 niveaux de dose, 9 à 18 patients) et injection sous-cutanée (5 niveaux de dose).",
+ "interet": "Si la tolérance est bonne, un bispécifique CD19xCD3 pourrait offrir une alternative aux CAR-T dans les lupus réfractaires. Étude de phase 1, sans conclusion d'efficacité attendue.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus systémique actif ou réfractaire.",
+ "inclusion": ["Âge de 18 à 60 ans", "Lupus selon les critères ACR 1997 depuis ≥ 24 semaines", "Maladie active ou réfractaire", "Au moins un auto-anticorps positif : ANA ≥ 1/80, anti-ADN natif ou anti-Sm", "Traitement standard stable depuis ≥ 30 jours avant la première administration", "Test de grossesse négatif et contraception efficace, consentement signé"],
+ "exclusion": ["Atteinte rénale sévère", "Maladie du système nerveux central (lupique ou non) dans les 8 semaines précédentes", "Anomalie de fonction d'organe majeure au dépistage", "Tuberculose active, hépatite B ou C active, VIH, syphilis (hors faux positifs du lupus)", "Infection chronique active ou infection aiguë nécessitant un traitement anti-infectieux dans les 2 semaines", "Antécédent jugé à risque par les investigateurs"],
+ "bras": [{"nom": "A-319 par voie intraveineuse", "traitement": "Trois niveaux de dose croissants, perfusion sur 4 semaines de traitement (9 à 18 patients)"}, {"nom": "A-319 par voie sous-cutanée", "traitement": "Cinq niveaux de dose croissants, injections sous-cutanées sur 4 semaines de traitement"}],
+ "duree": "Jusqu'à 1 an",
+ "critere": "Sécurité et tolérance dans l'année suivant la perfusion d'A-319"
+}

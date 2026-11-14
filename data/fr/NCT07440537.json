@@ -1,0 +1,43 @@
+{
+ "h": "e740eb7fcbab",
+ "date": "2026-11-14",
+ "titre": "ICP-488 versus placebo dans le lupus cutané discoïde ou subaigu",
+ "question": "L'ICP-488, administré à deux doses, réduit-il l'activité du lupus cutané (CLASI-A) à 16 semaines par rapport au placebo ?",
+ "contexte": "Le lupus cutané (discoïde, subaigu) est une atteinte invalidante, souvent cicatricielle, qui peut exister seule ou accompagner un lupus systémique. Les traitements reposent sur la photoprotection, les dermocorticoïdes, l'hydroxychloroquine, parfois le méthotrexate ou le mycophénolate, avec des réponses incomplètes et un arrêt du tabac nécessaire pour l'efficacité des antimalariques. Aucun traitement ciblé n'a l'AMM spécifique dans le lupus cutané isolé.\n\nL'ICP-488 est un inhibiteur oral de TYK2 développé par InnoCare : la voie TYK2 transmet les signaux de l'interféron de type I, de l'IL-12 et de l'IL-23, impliqués dans la physiopathologie du lupus cutané. Cet essai de phase 2 multicentrique, randomisé en double aveugle, inclut 105 adultes de 18 à 75 ans avec un lupus cutané discoïde ou subaigu prouvé histologiquement et un CLASI-A ≥ 8. Deux doses d'ICP-488 sont comparées à un placebo, avec un traitement de fond stable.",
+ "interet": "Si l'efficacité est confirmée, un traitement oral ciblé pourrait répondre à un besoin non couvert dans le lupus cutané. À ce stade, il s'agit d'une étude de recherche de dose et de signal d'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus cutané discoïde ou subaigu actif, avec ou sans lupus systémique.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Lupus cutané diagnostiqué depuis ≥ 3 mois",
+  "Biopsie compatible avec un lupus discoïde et/ou subaigu",
+  "CLASI-A ≥ 8 au dépistage et à J1",
+  "Lupus systémique associé possible",
+  "Traitement de fond stable jusqu'à la fin de l'étude",
+  "Contraception efficace jusqu'à 28 jours après la dernière dose"
+ ],
+ "exclusion": [
+  "Lupus cutané aigu, tumidus, panniculite lupique ou lupus engelure",
+  "Lupus cutané ou systémique d'origine médicamenteuse",
+  "Atteinte rénale active",
+  "Autre maladie articulaire ou cutanée inflammatoire, ou autre maladie auto-immune (sauf Sjögren secondaire)",
+  "Zona actif ou antécédent de zona ou d'herpès sévère",
+  "Hépatite B active ou tuberculose active, latente ou mal traitée",
+  "Autres immunomodulateurs ou immunosuppresseurs non autorisés"
+ ],
+ "bras": [
+  {
+   "nom": "ICP-488 dose A",
+   "traitement": "ICP-488 oral, dose A"
+  },
+  {
+   "nom": "ICP-488 dose B",
+   "traitement": "ICP-488 oral, dose B"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "16 semaines pour le critère principal",
+ "critere": "Variation en pourcentage du score CLASI-A par rapport à l'inclusion, à la semaine 16"
+}

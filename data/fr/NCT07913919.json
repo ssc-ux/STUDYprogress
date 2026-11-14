@@ -1,0 +1,33 @@
+{
+ "h": "fd0975f627b9",
+ "date": "2026-11-14",
+ "titre": "Effet de l'anifrolumab sur l'inflammation artérielle dans le lupus érythémateux systémique (AISLE)",
+ "question": "L'anifrolumab réduit-il l'inflammation artérielle coronaire mesurée en TEP/IRM chez des patients ayant un lupus actif ?",
+ "contexte": "Les patients atteints de lupus érythémateux systémique (LES) ont un risque accru d'athérosclérose prématurée, probablement lié à l'inflammation artérielle chronique. Les femmes lupiques de 35 à 44 ans ont un risque d'infarctus très supérieur à celui de leurs pairs, et le risque d'AVC, d'artériopathie et d'insuffisance cardiaque est aussi augmenté.\n\nL'anifrolumab, anti-récepteur de l'interféron de type I, est indiqué dans le LES actif. Son effet sur les vaisseaux est inconnu. L'étude AISLE, de l'université de Cambridge, utilise la TEP/IRM au 68Ga-DOTATATE, traceur des macrophages, pour mesurer l'inflammation artérielle avant et après 4 mois de traitement. Quinze patients avec un SLEDAI clinique ≥ 4 reçoivent l'anifrolumab en plus de leur traitement habituel. L'inflammation sera comparée à l'activité clinique, aux marqueurs sanguins, à la maladie coronaire en coroscanner et à l'atteinte myocardique en IRM.",
+ "interet": "L'étude pourrait montrer un effet vasculaire de l'anifrolumab, au-delà du contrôle de l'activité lupique. L'effectif réduit et l'absence de groupe contrôle limitent les conclusions.",
+ "profil": "Des adultes de 18 à 70 ans atteints de LES actif, traités par anifrolumab.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, capable de rester allongé pour l'imagerie",
+  "LES selon critères ACR/EULAR 2019, ANA positifs",
+  "SLEDAI-2K clinique ≥ 4",
+  "Traitement du LES stable depuis ≥ 4 semaines",
+  "Prednisolone ≤ 7,5 mg/j",
+  "Vaccinations à jour"
+ ],
+ "exclusion": [
+  "Femme en âge de procréer sans contraception adéquate, ou allaitante",
+  "Traitement antérieur par anifrolumab, allergie ou contre-indication",
+  "Infections récurrentes nécessitant une hospitalisation",
+  "Hépatite B ou C active",
+  "Zona sévère ou récurrent, infection à CMV ou EBV non résolue",
+  "Infection opportuniste ou chronique significative récente"
+ ],
+ "bras": [
+  {
+   "nom": "Anifrolumab",
+   "traitement": "Anifrolumab en plus du traitement habituel, TEP/IRM au 68Ga-DOTATATE avant et après traitement"
+  }
+ ],
+ "duree": "16 semaines de traitement",
+ "critere": "Variation du rapport tissu/sang maximal (TBRmax) du 68Ga-DOTATATE dans les coronaires entre l'inclusion et 16 semaines"
+}

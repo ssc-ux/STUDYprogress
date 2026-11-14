@@ -1,0 +1,31 @@
+{
+ "h": "20fab1e755cc",
+ "date": "2026-11-14",
+ "titre": "Mosunétuzumab dans le lupus érythémateux systémique avec ou sans néphrite lupique active (phase 2)",
+ "question": "Le mosunétuzumab sous-cutané permet-il d'obtenir une rémission à la semaine 76 chez des patients ayant un lupus avec ou sans néphrite active ?",
+ "contexte": "Le lupus érythémateux systémique (LES) et la néphrite lupique restent difficiles à mettre en rémission malgré les traitements disponibles. Les lymphocytes B sont au cœur de la maladie, et leur déplétion profonde est une voie explorée.\n\nLe mosunétuzumab est un anticorps bispécifique CD20xCD3, qui engage les lymphocytes T contre les lymphocytes B CD20+. Il est déjà utilisé dans le lymphome folliculaire en rechute. Cette étude de phase 2 de Roche, ouverte, à bras unique, inclut environ 30 adultes avec un LES (critères EULAR/ACR 2019) depuis ≥ 6 mois, avec ou sans néphrite lupique active. Le mosunétuzumab est administré par voie sous-cutanée. Le critère principal est la proportion de patients en rémission à la semaine 76. Les exclusions portent notamment sur les infections actives ou récurrentes, la tuberculose, la leucoencéphalopathie multifocale progressive et un cancer dans les 5 ans.",
+ "interet": "L'étude évaluera la rémission après un traitement bispécifique dans le LES, avec ou sans atteinte rénale. L'absence de comparateur limitera la portée des résultats.",
+ "profil": "Des adultes atteints de LES depuis au moins 6 mois, avec ou sans néphrite lupique active.",
+ "inclusion": [
+  "LES diagnostiqué depuis ≥ 6 mois selon les critères EULAR/ACR 2019",
+  "Âge ≥ 18 ans",
+  "Autres critères d'inclusion : non précisé dans l'extrait du registre"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Traitement expérimental dans les 30 jours ou 5 demi-vies",
+  "Chirurgie majeure récente ou prévue dans les 12 semaines",
+  "Infection active, infection majeure ou récurrente, tuberculose, leucoencéphalopathie multifocale progressive",
+  "Cancer dans les 5 ans précédents",
+  "Syndrome des antiphospholipides catastrophique ou sévère, atteinte neuropsychiatrique lupique active et sévère",
+  "Syndrome de chevauchement actif avec connectivite mixte ou sclérodermie"
+ ],
+ "bras": [
+  {
+   "nom": "Mosunétuzumab",
+   "traitement": "Mosunétuzumab en injection sous-cutanée, schéma non précisé"
+  }
+ ],
+ "duree": "76 semaines",
+ "critere": "Proportion de participants en rémission à la semaine 76"
+}

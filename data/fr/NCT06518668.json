@@ -1,0 +1,14 @@
+{
+ "h": "957f654771fd",
+ "date": "2026-11-14",
+ "titre": "NKX019, cellules NK CAR anti-CD19, dans le lupus érythémateux systémique (phase 1)",
+ "question": "Les cellules NK CAR anti-CD19 NKX019, après lymphodéplétion, sont-elles bien tolérées chez des patients lupiques avec ou sans néphrite ?",
+ "contexte": "Le lupus érythémateux systémique (LES) peut rester actif malgré les traitements standards, et la néphrite lupique active expose à une perte de fonction rénale. Les CAR-T anti-CD19 ont induit des rémissions dans de petites séries, mais elles s'accompagnent d'un risque de syndrome de relargage cytokinique et de toxicité neurologique.\n\nNKX019 est un produit allogénique de cellules NK dotées d'un récepteur chimérique anti-CD19, conçu pour détruire les lymphocytes B avec un profil de tolérance potentiellement plus favorable que les CAR-T. Cette étude de phase 1, ouverte et non randomisée, est menée au Hospital for Special Surgery de New York sur 6 patients. Après lymphodéplétion par cyclophosphamide, les patients reçoivent NKX019. Ils doivent avoir un LES actif (Hybrid-SLEDAI ≥ 8, au moins un BILAG A ou deux B), ou une néphrite de classe III/IV (± V) active avec UPCR ≥ 1,5 g/g. Le suivi comprend des évaluations tous les 90 jours pendant 2 ans.",
+ "interet": "Cette étude d'effectif très limité évalue surtout la faisabilité et la tolérance des cellules NK CAR dans le LES. Elle pourrait préparer des études plus larges.",
+ "profil": "Des adultes de 18 à 65 ans atteints de LES actif réfractaire, avec ou sans néphrite lupique de classe III/IV.",
+ "inclusion": ["Âge de 18 à 65 ans", "Hybrid-SLEDAI ≥ 8 dont ≥ 6 points cliniques, avec au moins un BILAG A ou deux BILAG B", "Néphrite lupique de classe III ou IV (± V) active sur biopsie (< 12 mois), activité NIH ≥ 2 et chronicité au plus modérée", "Protéinurie ≥ 1,5 g/j (UPCR ≥ 1,5 g/g) et ≤ 7 g/j", "Blocage du système rénine-angiotensine à dose maximale tolérée (néphrite)", "Contraception efficace jusqu'à 1 an après la dernière dose"],
+ "exclusion": ["Non précisé dans l'extrait du registre"],
+ "bras": [{"nom": "NKX019", "traitement": "Cyclophosphamide en lymphodéplétion, puis perfusion de cellules NK CAR anti-CD19 NKX019"}],
+ "duree": "2 ans, avec évaluations tous les 90 jours",
+ "critere": "Fréquence des événements indésirables sur 2 ans"
+}

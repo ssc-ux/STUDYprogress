@@ -1,0 +1,14 @@
+{
+ "h": "3b2ce6834f7e",
+ "date": "2026-11-14",
+ "titre": "Programme PRIM : grossesses exposées à l'anifrolumab",
+ "question": "Quels sont les issues de grossesse et le devenir des nourrissons après exposition à l'anifrolumab pendant la grossesse ?",
+ "contexte": "Le lupus touche surtout des femmes en âge de procréer, et les grossesses lupiques exposent à des risques maternels et fœtaux accrus. L'anifrolumab, anticorps anti-récepteur de l'interféron de type I approuvé dans le lupus systémique actif, dispose de très peu de données de sécurité pendant la grossesse, car les essais pivots en excluaient les femmes enceintes.\n\nLe programme PRIM d'AstraZeneca complète le système de pharmacovigilance : il collecte de façon renforcée des données secondaires à partir des déclarations de grossesses exposées reçues par le laboratoire. Les informations initiales proviennent du signalement par la patiente ou le soignant, puis l'issue est recueillie à proximité du terme, et un suivi supplémentaire est fait 12 mois après l'accouchement.\n\nLes cas déjà terminés au moment du signalement (rétrospectifs) sont aussi documentés. La cohorte principale est composée de grossesses prospectives exposées de 16 semaines avant la conception jusqu'à l'issue.",
+ "interet": "Ces données pourraient éclairer les médecins sur la sécurité de l'anifrolumab lors d'une grossesse. Le recueil, passif et sans comparateur, ne permet pas de conclure à l'absence de risque.",
+ "profil": "Des femmes enceintes ou récemment enceintes, exposées à l'anifrolumab.",
+ "inclusion": ["Grossesse en cours ou issue datant de moins d'un an", "Au moins une dose d'anifrolumab pendant la grossesse ou dans les 16 semaines précédant la conception"],
+ "exclusion": ["Grossesse déjà incluse dans le registre prospectif de grossesses (D3461R00051)", "Cas déclarés avant le début du programme PRIM", "Exposition à des tératogènes connus", "Exposition à des médicaments expérimentaux"],
+ "bras": [{"nom": "Grossesses exposées à l'anifrolumab", "traitement": "Cohorte observationnelle de grossesses exposées de 16 semaines avant la conception jusqu'à l'issue ; aucune intervention imposée"}],
+ "duree": "De la conception à l'issue de grossesse, puis 12 mois de vie de l'enfant",
+ "critere": "Malformations congénitales majeures, de la conception à l'issue de grossesse (ou jusqu'à 12 mois d'âge de l'enfant pour les naissances vivantes)"
+}

@@ -1,0 +1,37 @@
+{
+ "h": "c1bb173e1d93",
+ "date": "2026-11-14",
+ "titre": "SHR-2173 versus placebo dans le lupus systémique actif (phase 2)",
+ "question": "SHR-2173 améliore-t-il l'activité du lupus systémique par rapport au placebo en plus du traitement standard ?",
+ "contexte": "Le lupus systémique reste difficile à contrôler. Une proportion importante de patients reste en poussée malgré les corticoïdes, l'hydroxychloroquine et les immunosuppresseurs, et les biothérapies disponibles (bélimumab, anifrolumab) ne suffisent pas toujours.\n\nSHR-2173 est un produit expérimental développé par Hengrui. Le registre ne précise pas son mécanisme d'action. Les critères d'exclusion (anti-CD20, thérapies B ou plasmocytaires, CAR-T) suggèrent un traitement ciblant l'immunité B, ce qui reste à confirmer.\n\nCet essai de phase 2 randomisé, en double aveugle, contre placebo, multicentrique, inclut environ 245 adultes ayant un lupus actif sous traitement stable. Il comprend 4 semaines de sélection, 24 semaines de traitement principal, 24 semaines d'entretien et 12 semaines de suivi de tolérance. L'efficacité est jugée sur le taux de réponse SRI-4 à la semaine 24.",
+ "interet": "Elle déterminera si SHR-2173 mérite un développement de phase 3. Sans données publiées, l'intérêt clinique reste à établir.",
+ "profil": "Des adultes de 18 à 65 ans ayant un lupus systémique actif malgré un traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, IMC ≥ 18",
+  "LES diagnostiqué depuis ≥ 6 mois",
+  "ANA ≥ 1:80 ou anti-ADN natif et/ou anti-Sm positifs",
+  "Activité élevée au dépistage et à l'inclusion",
+  "Traitement stable par corticoïdes oraux, antimalariques ou immunosuppresseurs",
+  "Contraception efficace et consentement signé"
+ ],
+ "exclusion": [
+  "Atteinte rénale lupique sévère",
+  "Lupus neuropsychiatrique actif dans les 6 mois",
+  "Autre maladie auto-immune ou inflammatoire gênant l'évaluation",
+  "Syndrome des antiphospholipides catastrophique ou sévère dans les 12 mois",
+  "Antécédent de LEMP ou de greffe d'organe",
+  "CAR-T ou autre thérapie cellulaire, anti-CD20 dans les 6 mois, autres traitements B ou plasmocytaires dans les 6 à 12 mois"
+ ],
+ "bras": [
+  {
+   "nom": "SHR-2173",
+   "traitement": "Injection de SHR-2173 en plus du traitement standard (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en plus du traitement standard"
+  }
+ ],
+ "duree": "Environ 64 semaines (4 de sélection, 48 de traitement, 12 de suivi)",
+ "critere": "Proportion de patients répondeurs SRI-4 à la semaine 24"
+}

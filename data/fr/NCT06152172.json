@@ -1,0 +1,39 @@
+{
+ "h": "70ebb3144300",
+ "date": "2026-11-14",
+ "titre": "KYV-101 (CAR-T anti-CD19) dans les myopathies inflammatoires, la sclérodermie, le lupus et les vascularites",
+ "question": "Le KYV-101, un CAR-T anti-CD19 entièrement humain, est-il sûr chez des adultes ayant une myopathie inflammatoire, une sclérodermie diffuse, une néphrite lupique ou une vascularite à ANCA ?",
+ "contexte": "Les maladies auto-immunes systémiques réfractaires aux immunosuppresseurs et au rituximab ont un pronostic réservé et peu d'options thérapeutiques. Des CAR-T anti-CD19 ont induit des réponses profondes dans le lupus, la sclérodermie et les myopathies inflammatoires dans des séries restreintes, ce qui motive des essais prospectifs.\n\nLe KYV-101 est un CAR-T anti-CD19 « entièrement humain », dont le domaine de reconnaissance est humain plutôt que murin, ce qui pourrait diminuer l'immunogénicité. Cet essai de phase 1 de Kyverna, mené à Philadelphie (promoteur investigateur D. Porter), inclut 24 adultes répartis en quatre groupes de six : myopathies inflammatoires idiopathiques, sclérodermie cutanée diffuse, néphrite lupique et vascularite à ANCA. Tous reçoivent une lymphodéplétion (cyclophosphamide 300 mg/m² et fludarabine 30 mg/m² pendant 3 jours), puis une dose unique de 1,0×10⁸ cellules CAR+. Le suivi est de 2 ans. Les patients doivent être en maladie active malgré les traitements standards.",
+ "interet": "L'étude évaluera la tolérance du KYV-101 dans quatre maladies et recueillera des signaux d'activité. Avec six patients par maladie, elle reste exploratoire.",
+ "profil": "Des adultes avec myopathie inflammatoire, sclérodermie diffuse, néphrite lupique ou vascularite à ANCA, actives et réfractaires.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Myopathie inflammatoire probable ou certaine (ACR/EULAR 2017) avec MMT-8 < 136/150 et au moins deux autres mesures anormales",
+  "Maladie active : CK ≥ 4 × LSN, CDASI-A ≥ 6, ou signes d'IRM, d'EMG ou de biopsie récents",
+  "Auto-anticorps spécifiques de myosite (hors dermatomyosite)",
+  "Sclérodermie cutanée diffuse, néphrite lupique ou vascularite à ANCA actives selon critères spécifiques"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Myopathies inflammatoires",
+   "traitement": "Fludarabine/cyclophosphamide puis KYV-101, 1,0×10⁸ cellules CAR+"
+  },
+  {
+   "nom": "Sclérodermie cutanée diffuse",
+   "traitement": "Même schéma"
+  },
+  {
+   "nom": "Néphrite lupique",
+   "traitement": "Même schéma"
+  },
+  {
+   "nom": "Vascularite à ANCA",
+   "traitement": "Même schéma"
+  }
+ ],
+ "duree": "2 ans",
+ "critere": "Incidence et gravité des événements indésirables dans chaque maladie, à 3, 6, 12 et 24 mois"
+}

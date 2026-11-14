@@ -1,0 +1,14 @@
+{
+ "h": "d0455099021e",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab et marqueurs de risque vasculaire dans le lupus systémique",
+ "question": "Le blocage du récepteur de l'interféron de type I par l'anifrolumab améliore-t-il la fonction vasculaire et l'inflammation vasculaire dans le lupus ?",
+ "contexte": "Les patients atteints de lupus systémique ont un risque accru d'athérosclérose précoce, d'infarctus du myocarde et d'accident vasculaire cérébral, non expliqué par les facteurs de risque classiques. Aucun traitement n'a démontré qu'il réduisait ce risque cardiovasculaire dans le lupus.\n\nLes interférons de type I sont impliqués dans la dysfonction endothéliale, l'activation des neutrophiles et les anomalies lipidiques observées dans cette maladie. L'anifrolumab, qui bloque le récepteur de l'interféron de type I, a une AMM dans le lupus modéré à sévère, mais ses effets vasculaires sont inconnus. Cette étude de phase 2 du NIAMS (Mariana Kaplan), randomisée en double aveugle contre placebo, inclut 45 patients avec un lupus peu à modérément actif (SLEDAI-2K ≤ 6) et une anomalie vasculaire initiale. Elle mesure à 28 semaines l'indice cardio-cheville (CAVI), la vitesse de l'onde de pouls et l'inflammation aortique en TEP-TDM au FDG.",
+ "interet": "Cette étude pourrait montrer si un anti-interféron réduit les marqueurs de risque vasculaire du lupus. Elle pourrait justifier une évaluation du bénéfice cardiovasculaire dans un essai plus large.",
+ "profil": "Des adultes de 18 à 80 ans avec un lupus peu à modérément actif et des anomalies vasculaires mesurables.",
+ "inclusion": ["Âge de 18 à 80 ans, lupus (critères ACR 1997)", "Prednisone ≤ 10 mg/j et traitement du lupus stable depuis ≥ 4 semaines", "CAVI anormal et/ou vitesse de l'onde de pouls anormale et/ou ratio cible/fond aortique anormal en TEP-TDM", "Traitements du diabète, de l'hypertension et statines stables depuis 3 mois", "Contraception efficace si potentiel de procréation"],
+ "exclusion": ["Hépatite B ou hépatite C avec ARN détectable", "Infection herpétique sévère (herpès disséminé, encéphalite, zona récurrent ou ophtalmique)", "Zona, CMV ou EBV non résolus dans les 12 semaines", "Infection chronique significative ou infection récente nécessitant antibiotiques", "Antécédent de cancer, hors carcinome cutané ou cervical in situ traités", "Grossesse, allaitement ou projet de grossesse", "Allergie au produit ou anaphylaxie aux immunoglobulines, COVID-19 récent"],
+ "bras": [{ "nom": "Anifrolumab", "traitement": "Perfusions intraveineuses d'anifrolumab (dose et rythme non précisés)" }, { "nom": "Placebo", "traitement": "Perfusions intraveineuses de placebo" }],
+ "duree": "Environ 8 mois (9 visites)",
+ "critere": "Variation entre l'inclusion et la semaine 28 de l'indice CAVI, de la vitesse de l'onde de pouls et de l'inflammation vasculaire en TEP-TDM au FDG"
+}

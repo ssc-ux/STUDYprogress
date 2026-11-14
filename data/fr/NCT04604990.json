@@ -1,0 +1,25 @@
+{
+ "h": "4ecf091de954",
+ "date": "2026-11-14",
+ "titre": "Cohorte nationale prospective de lupus en Arabie saoudite",
+ "question": "Comment le lupus se présente-t-il et évolue-t-il en Arabie saoudite, notamment en termes de dommage d'organe cumulé ?",
+ "contexte": "Le lupus a des caractéristiques qui varient selon l'origine géographique et ethnique, avec des différences de sévérité, de fréquence des atteintes rénales et de réponse aux traitements. En Arabie saoudite, où la consanguinité est élevée, la maladie est mal définie : les données publiées reposent surtout sur des revues rétrospectives de dossiers, exposées à de nombreux biais.\n\nCe registre prospectif de King Saud University est une cohorte ouverte nationale, qui vise à inclure 1 000 adultes remplissant les critères ACR, SLICC ou ACR/EULAR, sans restriction sur la date du diagnostic. Elle doit documenter la présentation, l'évolution et les issues de la maladie, avec des données immunologiques, moléculaires, génétiques et du microbiome. Le suivi prévu est très long (jusqu'en 2050). Le critère principal est l'accumulation du dommage d'organe sur 10 ans.",
+ "interet": "Cette cohorte fournira des données prospectives sur une population peu représentée dans la littérature, utiles pour adapter le suivi et pour des études génétiques.",
+ "profil": "Des adultes saoudiens atteints de lupus systémique, quelle que soit l'ancienneté de la maladie.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "Lupus selon l'un des critères ACR, SLICC ou ACR/EULAR",
+  "Aucune restriction sur la date du diagnostic"
+ ],
+ "exclusion": [
+  "Patients ne remplissant pas les critères de classification"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte nationale de lupus",
+   "traitement": "Suivi prospectif sans intervention, avec recueil clinique et biologique"
+  }
+ ],
+ "duree": "Suivi à long terme (10 ans pour le critère principal)",
+ "critere": "Accumulation du dommage d'organe chez les patients lupiques saoudiens sur 10 ans"
+}

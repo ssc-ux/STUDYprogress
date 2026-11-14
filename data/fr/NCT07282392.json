@@ -1,0 +1,14 @@
+{
+ "h": "361dcc3ca1c9",
+ "date": "2026-11-14",
+ "titre": "Thérapie d'expression émotionnelle (EAET) contre la fibromyalgie associée au lupus",
+ "question": "Une psychothérapie d'expression émotionnelle en visioconférence est-elle faisable et soulage-t-elle la douleur diffuse chez des patients avec lupus et fibromyalgie ?",
+ "contexte": "Une proportion importante de patients lupiques présente une fibromyalgie ou des douleurs diffuses chroniques, qui altèrent la qualité de vie et brouillent l'évaluation de l'activité de la maladie. Ces douleurs ne répondent pas aux immunosuppresseurs et les options thérapeutiques sont limitées.\n\nLes événements de vie difficiles, traumatismes et adversité dans l'enfance sont plus fréquents chez les patients atteints de lupus et de fibromyalgie, et augmentent le risque d'anxiété, de dépression et de lupus. L'EAET (Emotional Awareness and Expression Therapy) aide à identifier et exprimer des émotions évitées liées à ces expériences, avec un bénéfice démontré sur la douleur chronique dans d'autres contextes. Cette étude pilote de l'université de l'Utah teste sa faisabilité et son efficacité dans le lupus. Elle compare huit séances collectives hebdomadaires de 2 heures en visioconférence à une liste d'attente, chez 30 patients.",
+ "interet": "Cette étude pourrait montrer si une approche psychothérapeutique à distance peut réduire la douleur chez les patients lupiques. Elle apporterait des données de faisabilité avant un essai plus large.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus et une fibromyalgie ou des douleurs diffuses chroniques.",
+ "inclusion": ["Âge de 18 à 65 ans", "Lupus et fibromyalgie ou douleur diffuse chronique diagnostiqués par un rhumatologue", "Traitement médicamenteux stable"],
+ "exclusion": ["Trouble psychiatrique grave non contrôlé (schizophrénie, bipolarité)", "Idées suicidaires actives", "Trouble d'usage d'alcool ou de substances non traité", "Déficit cognitif important", "Changement de traitement dans les 3 mois", "Autre étude thérapeutique en cours ou procédure médico-légale", "Accès limité à l'informatique ou à Internet, ou anglais non maîtrisé"],
+ "bras": [{ "nom": "EAET", "traitement": "8 séances collectives hebdomadaires de 2 heures en visioconférence, avec exercices à domicile d'environ 30 minutes par jour" }, { "nom": "Liste d'attente", "traitement": "Soins habituels pendant 8 semaines, puis thérapie proposée" }],
+ "duree": "Environ 9 semaines (8 semaines de traitement)",
+ "critere": "Indice de douleur diffuse (WPI) et score de sévérité des symptômes de fibromyalgie avant et 9 semaines après le début du traitement"
+}

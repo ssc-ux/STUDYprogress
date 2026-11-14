@@ -1,0 +1,32 @@
+{
+ "h": "99acdab5c6aa",
+ "date": "2026-11-14",
+ "titre": "VIS171 sous-cutané dans le lupus, la pelade et la hyalinose segmentaire et focale (phase 1)",
+ "question": "VIS171 ajouté au traitement habituel est-il bien toléré chez des patients ayant un lupus, une pelade ou une hyalinose segmentaire et focale ?",
+ "contexte": "Le lupus érythémateux systémique (LES), la pelade et la hyalinose segmentaire et focale (HSF) d'origine immune partagent un déséquilibre des lymphocytes T régulateurs. Les traitements actuels reposent surtout sur des immunosuppresseurs non ciblés.\n\nLe registre ne décrit pas le mécanisme de VIS171 (Otsuka). Les exclusions mentionnent toute exposition à des médicaments ciblant l'IL-2, son récepteur ou les lymphocytes T régulateurs, ce qui suggère une approche en lien avec cette voie. L'étude de phase 1, ouverte et à bras unique, inclut 30 patients. VIS171 est injecté par voie sous-cutanée de la semaine 1 à la semaine 21, en plus du traitement standard. La participation dure 9 à 12 mois. Les critères de sélection varient selon la maladie : LES depuis ≥ 24 semaines, pelade du cuir chevelu (SALT 25-95), HSF/lésions glomérulaires minimes avec antécédent de syndrome néphrotique corticosensible.",
+ "interet": "Il s'agit d'une étude de tolérance dans trois maladies. Elle permettra de choisir les indications et les doses des phases suivantes.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus, de pelade ou de HSF à médiation immune.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, DFGe > 30 mL/min/1,73 m²",
+  "LES selon critères EULAR/ACR depuis ≥ 24 semaines",
+  "Pelade : atteinte du cuir chevelu de 25 à 95 % (SALT), épisode actuel de > 24 semaines et ≤ 5 ans",
+  "HSF ou lésions glomérulaires minimes prouvées par biopsie",
+  "HSF : au moins un épisode de syndrome néphrotique (protéinurie > 3,5 g/j, albuminémie < 3,5 g/dL)",
+  "HSF : syndrome néphrotique corticosensible (rémission, dépendance ou rechutes)"
+ ],
+ "exclusion": [
+  "Corticoïdes à forte dose dans les 4 semaines (bolus IV, ou prednisone ≥ 1 mg/kg/j jusqu'à 40 mg/j)",
+  "Produits sanguins dans les 6 mois",
+  "Exposition préalable à VIS171 ou à un médicament ciblant l'IL-2, son récepteur ou les lymphocytes T régulateurs",
+  "Syndrome des antiphospholipides catastrophique ou sévère dans l'année",
+  "Autres critères : non précisé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "VIS171",
+   "traitement": "Injections sous-cutanées de la semaine 1 à la semaine 21, en plus du traitement standard"
+  }
+ ],
+ "duree": "9 à 12 mois environ",
+ "critere": "Nombre de patients avec des événements indésirables apparus sous traitement, selon la gravité, jusqu'à la semaine 45"
+}

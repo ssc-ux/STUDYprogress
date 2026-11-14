@@ -1,0 +1,50 @@
+{
+ "h": "68dd9d6c0d38",
+ "date": "2026-11-14",
+ "titre": "Maladie parodontale dans les maladies rénales rares, dont la néphropathie lupique (PERIO-RA-RE)",
+ "question": "La prévalence de la parodontite est-elle plus élevée dans les maladies rénales rares et le lupus rénal que dans l'insuffisance rénale chronique commune ?",
+ "contexte": "La parodontite est une maladie inflammatoire chronique associée à l'inflammation systémique, qui a été reliée à la sévérité et au pronostic de la maladie rénale chronique (MRC). Les données manquent dans les maladies rénales rares.\n\nLe syndrome d'Alport, la maladie de Fabry, la sclérose tubéreuse de Bourneville et le lupus avec atteinte rénale s'accompagnent de facteurs propres : immunosuppresseurs, corticoïdes, atteinte vasculaire ou gingivale. Ils pourraient modifier le risque parodontal.\n\nCette étude observationnelle transversale cas-témoins, menée à l'Institut clinique Fundeni (Bucarest), inclut environ 100 adultes ayant au moins 10 dents naturelles. Chaque participant a un examen parodontal complet, un questionnaire clinique et un recueil de données néphrologiques lors d'une visite unique. Six groupes sont comparés : Alport, Fabry, sclérose tubéreuse, lupus avec atteinte rénale, MRC d'étiologie non rare et témoins de la population générale.",
+ "interet": "Elle pourrait justifier un dépistage dentaire systématique dans ces maladies rénales rares. Les effectifs par groupe seront faibles.",
+ "profil": "Des adultes ayant une maladie rénale rare ou un lupus avec atteinte rénale, comparés à des patients avec MRC commune et à des témoins sains.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "Au moins 10 dents naturelles",
+  "Appartenance à un groupe : Alport, Fabry, sclérose tubéreuse, LES avec atteinte rénale (néphropathie prouvée, protéinurie > 0,5 g/j ou sédiment actif), MRC non rare (KDIGO), témoins",
+  "LES selon critères EULAR/ACR 2019 ou SLICC 2012"
+ ],
+ "exclusion": [
+  "Traitement parodontal dans les 6 mois",
+  "Antibiothérapie dans les 4 semaines",
+  "Grossesse",
+  "Condition empêchant l'examen parodontal",
+  "Incapacité à respecter les procédures"
+ ],
+ "bras": [
+  {
+   "nom": "Syndrome d'Alport",
+   "traitement": "Examen parodontal complet"
+  },
+  {
+   "nom": "Maladie de Fabry",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Sclérose tubéreuse de Bourneville",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "Lupus avec atteinte rénale",
+   "traitement": "Mêmes examens"
+  },
+  {
+   "nom": "MRC d'étiologie non rare",
+   "traitement": "Groupe de comparaison"
+  },
+  {
+   "nom": "Témoins de la population",
+   "traitement": "Sujets sans MRC connue"
+  }
+ ],
+ "duree": "Visite unique",
+ "critere": "Prévalence de la parodontite lors de la visite d'inclusion"
+}

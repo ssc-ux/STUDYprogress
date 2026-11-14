@@ -1,0 +1,29 @@
+{
+ "h": "937f23044687",
+ "date": "2026-11-14",
+ "titre": "Caractéristiques démographiques et cliniques des patients lupiques en Égypte",
+ "question": "Quelles sont les caractéristiques et la charge du lupus systémique en Égypte ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune d'étiologie complexe, associant des signes généraux (fièvre, amaigrissement) et des atteintes d'organes (poumons, cœur, reins, muscles, systèmes hématologique et nerveux central). Non contrôlée, l'inflammation conduit à des dommages d'organe permanents.\n\nLes données épidémiologiques sur le lupus au Moyen-Orient et en Afrique du Nord sont peu nombreuses, alors que l'expression de la maladie varie selon l'ascendance. Cette étude observationnelle rétrospective, promue par AstraZeneca, repose sur les dossiers médicaux de patients adultes suivis dans des centres égyptiens sélectionnés entre 2016 et 2023, avec au moins un an de suivi.\n\nElle décrit la population lupique et la charge de la maladie en Égypte sur 60 mois. Il n'y a pas d'intervention.",
+ "interet": "Elle documentera le profil clinique et la charge du lupus en Égypte, utile pour situer l'accès aux traitements. Elle n'a pas de conséquence directe sur la prise en charge.",
+ "profil": "Des adultes égyptiens atteints de lupus systémique, suivis entre 2016 et 2023.",
+ "inclusion": [
+  "Adultes ≥ 18 ans",
+  "Dossier médical dans les centres sélectionnés entre 2016 et 2023, avec ≥ 1 an de suivi",
+  "Traitement de routine dans les centres participants",
+  "Diagnostic de LES",
+  "Consentement ou dérogation du comité d'éthique (étude rétrospective)"
+ ],
+ "exclusion": [
+  "Lupus de diagnostic récent (données insuffisantes)",
+  "Dossiers avec données insuffisantes (perdus de vue)",
+  "Autres critères non précisés"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Cohorte rétrospective, revue de dossiers sans intervention"
+  }
+ ],
+ "duree": "Revue de dossiers sur 60 mois, sans visite spécifique",
+ "critere": "Description de la population lupique et de la charge du lupus en Égypte, sur 60 mois"
+}

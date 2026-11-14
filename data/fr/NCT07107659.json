@@ -1,0 +1,24 @@
+{
+ "h": "48f601cf38b1",
+ "date": "2026-11-14",
+ "titre": "ONT01 dans le lupus systémique et la néphrite lupique",
+ "question": "L'ONT01, associé aux traitements usuels, est-il bien toléré chez des patients lupiques actifs ?",
+ "contexte": "Le lupus systémique et la néphrite lupique restent difficiles à contrôler chez une partie des patients, malgré le mycophénolate, les corticoïdes et les biothérapies disponibles. Dans la néphrite lupique de classe III, IV ou V, l'absence de réponse rénale partielle après 3 à 6 mois d'induction expose à la progression vers l'insuffisance rénale.\n\nL'ONT01 est un médicament expérimental étudié dans la néphrite lupique et le lupus systémique ; le registre n'en précise ni la nature ni le mécanisme, et il n'est pas approuvé par la FDA. L'étude de phase 1 est promue par l'Hospital for Special Surgery de New York. Elle évalue la tolérance de l'ONT01 en association avec les traitements usuels, dont le mycophénolate, et regarde s'il améliore les symptômes.\n\nElle prévoit 61 adultes : lupus non rénal actif (SLEDAI ≥ 6) en échec d'au moins un traitement de fond hors hydroxychloroquine et corticoïdes, ou néphrite active (classe III, IV, V, protéinurie ≥ 1 g/g) sans réponse partielle après au moins 3 mois de mycophénolate. Le suivi principal est de 18 semaines.",
+ "interet": "L'étude apportera les premières données de tolérance de l'ONT01 dans le lupus, avec ou sans atteinte rénale. Elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes atteints de lupus systémique actif non rénal ou de néphrite lupique active, en échec des traitements de fond.",
+ "inclusion": [
+  "Âge de 18 ans ou plus, consentement possible",
+  "Lupus selon les critères de classification ACR",
+  "Lupus non rénal actif : SLEDAI ≥ 6 avec au moins une atteinte clinique non rénale, échec d'au moins un traitement de fond",
+  "Néphrite active : biopsie classe III, IV ou V récente, rapport protéinurie/créatininurie ≥ 1 g/g, sans réponse rénale partielle",
+  "Contraception hautement efficace jusqu'à 120 jours après la dernière exposition"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "ONT01", "traitement": "ONT01 associé au traitement standard (dont mycophénolate) ; dose et rythme non précisés" }
+ ],
+ "duree": "18 semaines",
+ "critere": "Événements indésirables et taux d'achèvement de l'étude versus retrait, de l'inclusion à 18 semaines"
+}

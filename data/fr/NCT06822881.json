@@ -1,0 +1,14 @@
+{
+ "h": "eb7e658e23d9",
+ "date": "2026-11-14",
+ "titre": "CAR-T CT1190B dans le lupus ou la sclérodermie systémique réfractaires",
+ "question": "Le CAR-T CT1190B est-il sûr et actif dans le lupus modéré à sévère réfractaire et dans la sclérodermie diffuse réfractaire ou progressive ?",
+ "contexte": "Le lupus réfractaire et la sclérodermie diffuse avec pneumopathie interstitielle progressive sont des maladies sévères, pour lesquelles les options (cyclophosphamide, mycophénolate, rituximab, tocilizumab, nintedanib) ne suffisent pas toujours. L'atteinte pulmonaire de la sclérodermie reste une cause majeure de mortalité.\n\nLes CAR-T ont montré des réponses prometteuses dans ces deux maladies, par déplétion des lymphocytes B auto-réactifs. CT1190B est un produit CAR-T étudié par le Beijing GoBroad Hospital ; le registre n'en précise pas la cible, et l'étude explore aussi le métabolisme cellulaire du produit.\n\nCette phase 1 de 27 patients de 18 à 60 ans évalue la tolérance (toxicité limitante, événements indésirables) et l'efficacité préliminaire. Elle comporte des critères d'éligibilité spécifiques à chaque maladie, comprenant pour le lupus un traitement antérieur par corticoïdes et immunosuppresseurs ou biothérapies d'au moins 3 mois.",
+ "interet": "Phase 1 explorant deux maladies à la fois : elle apportera des données de tolérance et des signaux d'efficacité préliminaires, sans conclusion de pratique.",
+ "profil": "Des adultes de 18 à 60 ans atteints d'un lupus modéré à sévère réfractaire ou d'une sclérodermie diffuse réfractaire ou progressive.",
+ "inclusion": ["Âge de 18 à 60 ans, consentement signé", "Pas d'infection systémique active dans les 2 semaines avant le dépistage", "Lupus : critères EULAR/ACR 2019, durée ≥ 6 mois, ≥ 3 mois de corticoïdes avec immunosuppresseurs et/ou biothérapies", "Sclérodermie : critères EULAR/ACR 2013, forme diffuse avec pneumopathie interstitielle", "Maladie réfractaire (> 6 mois de traitement conventionnel inefficace) ou en rechute après rémission", "ALAT/ASAT ≤ 2 × LSN, bilirubine ≤ 2 × LSN, INR/TCA ≤ 1,5 × LSN, SpO₂ ≥ 92 %, FEVG ≥ 40 %"],
+ "exclusion": ["Critères d'exclusion détaillés non disponibles dans le résumé du registre : non précisé", "Grossesse (test négatif requis pour les femmes en âge de procréer)"],
+ "bras": [{"nom": "CT1190B", "traitement": "Perfusion de cellules CAR-T CT1190B (dose non précisée)"}],
+ "duree": "12 mois de suivi après la perfusion",
+ "critere": "Toxicités limitantes (28 jours), événements indésirables et graves (180 jours), événements d'intérêt particulier (12 mois)"
+}

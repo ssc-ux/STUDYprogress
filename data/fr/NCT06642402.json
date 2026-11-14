@@ -1,0 +1,14 @@
+{
+ "h": "16dc79f1d767",
+ "date": "2026-11-14",
+ "titre": "Vésicules extracellulaires urinaires pour le suivi de la néphrite lupique",
+ "question": "Les vésicules extracellulaires urinaires reflètent-elles l'atteinte histologique et l'activation du complément dans la néphrite lupique ?",
+ "contexte": "La néphrite lupique est une complication sévère du lupus qui peut entraîner des lésions rénales irréversibles si elle n'est pas détectée et traitée à temps. Sa classification ISN/RPS (classes I à VI) repose sur la biopsie rénale, invasive, parfois difficile d'accès et qui n'examine qu'une petite partie du rein.\n\nLes vésicules extracellulaires urinaires (uEV) sont des particules libérées par les cellules rénales et urinaires, qui transportent protéines et acides nucléiques ; elles sont étudiées comme biomarqueurs non invasifs. Cette étude prospective danoise (Kolding Sygehus) inclut 40 participants répartis en quatre groupes : lupus avec néphrite adressé pour biopsie, lupus sans atteinte rénale, témoins sains et témoins biopsiés. Les uEV sont isolées dans les urines du jour de la biopsie, puis analysées à la fin du recrutement, avec une recherche d'activation du complément.",
+ "interet": "Si les uEV reflètent l'histologie, elles pourraient aider à suivre la néphrite lupique et à limiter les biopsies répétées. L'étude est de petite taille et exploratoire.",
+ "profil": "Des adultes atteints de lupus avec ou sans atteinte rénale, et des témoins.",
+ "inclusion": ["Âge > 18 ans", "LES selon critères EULAR/ACR 2019, avec auto-anticorps positifs", "Groupe néphrite : adressé pour biopsie rénale", "Groupe sans néphrite : créatinine normale, rapport albumine/créatinine urinaire < 100 mg/g", "Témoins sains : sans maladie rénale connue ; témoins biopsiés : auto-anticorps et immunoglobulines négatifs"],
+ "exclusion": ["Incapacité ou refus de consentir", "Comorbidité significative pouvant influencer le résultat", "Témoins sains : albuminurie/créatininurie > 100 mg/g ou protéinurie > 100 mg/j, auto-anticorps positifs"],
+ "bras": [{"nom": "LES avec néphrite lupique", "traitement": "Recueil urinaire le jour de la biopsie rénale, analyse des uEV"}, {"nom": "LES sans néphrite lupique", "traitement": "Recueil urinaire, analyse des uEV"}, {"nom": "Témoins sains", "traitement": "Recueil urinaire, analyse des uEV"}, {"nom": "Témoins biopsiés", "traitement": "Patients adressés pour biopsie sans activation du complément prévisible, recueil urinaire"}],
+ "duree": "Prélèvement le jour de la biopsie ; analyse à la fin du recrutement (environ 5 ans)",
+ "critere": "Corrélation entre la biopsie rénale et les uEV, et activation du complément dans les uEV, le jour de la biopsie (analyse prévue à 5 ans)"
+}

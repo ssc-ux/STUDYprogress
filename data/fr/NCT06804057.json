@@ -1,0 +1,27 @@
+{
+ "h": "e76c37838131",
+ "date": "2026-11-14",
+ "titre": "Registre CorEvitas du lupus érythémateux systémique : sécurité et efficacité des traitements",
+ "question": "Quelles sont la présentation, la prise en charge et l'évolution à long terme des patients lupiques traités en pratique réelle ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie chronique dont l'évolution est marquée par des poussées, une accumulation de dommages d'organes et des comorbidités (cardiovasculaires, infectieuses, rénales). Les essais cliniques sélectionnent des patients très particuliers et ne reflètent pas toujours la pratique, d'où l'intérêt de registres de pratique réelle.\n\nCorEvitas gère aux États-Unis des registres observationnels prospectifs, déjà bien établis en rhumatologie. Ce registre inclut 1 000 adultes lupiques suivis par un rhumatologue, qui présentent un diagnostic récent (≤ 12 mois), une initiation de biologique ou d'immunosuppresseur, ou une néphrite lupique de classe III-V diagnostiquée depuis moins de 2 ans. Les données sont recueillies tous les 6 mois pendant 10 ans, avec questionnaires patients, évaluation clinique, comorbidités et événements indésirables.",
+ "interet": "Il fournira des données de pratique réelle sur l'histoire naturelle, la tolérance et l'efficacité des traitements du lupus, utiles aux cliniciens et aux autorités.",
+ "profil": "Des adultes lupiques suivis en rhumatologie, avec diagnostic récent, nouveau traitement biologique ou immunosuppresseur, ou néphrite lupique récente.",
+ "inclusion": [
+  "Diagnostic de LES posé par un rhumatologue",
+  "Âge ≥ 18 ans",
+  "Consentement éclairé et, si requis, données d'identification",
+  "Au moins un des critères suivants : diagnostic de LES ≤ 12 mois, initiation d'un biologique ou immunosuppresseur, néphrite lupique de classe III-V depuis moins de 2 ans"
+ ],
+ "exclusion": [
+  "Participation à un essai en double aveugle pour un traitement du lupus",
+  "Participation à un essai en ouvert, sauf CAR-T ou autre thérapie cellulaire ou génique pour le lupus"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients lupiques",
+   "traitement": "Suivi observationnel en pratique courante, sans intervention imposée"
+  }
+ ],
+ "duree": "Suivi tous les 6 mois pendant 10 ans",
+ "critere": "Épidémiologie et présentation du lupus, prise en charge et évolution, recueillies tous les 6 mois pendant 10 ans"
+}

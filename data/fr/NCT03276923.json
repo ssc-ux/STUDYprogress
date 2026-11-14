@@ -1,0 +1,28 @@
+{
+ "h": "f3bdfe83113b",
+ "date": "2026-11-14",
+ "titre": "Registre MADRA : grossesse chez les femmes atteintes de maladies auto-immunes",
+ "question": "Quels facteurs sont associés aux issues défavorables de la grossesse chez les femmes ayant une maladie auto-immune systémique ?",
+ "contexte": "Les maladies auto-immunes systémiques (lupus, syndrome des antiphospholipides, polyarthrite rhumatoïde, sclérodermie, Sjögren, vascularites, myosites) touchent surtout des femmes en âge de procréer. Pendant la grossesse, l'activité de la maladie et certains traitements peuvent entraîner des complications maternelles et fœtales (prééclampsie, prématurité, perte fœtale, bloc auriculo-ventriculaire congénital en cas d'anticorps anti-SSA).\n\nLes données prospectives et standardisées restent limitées. Le registre MADRA (Maternal Autoimmune Disease Research Alliance), centré à Duke University et multisite, inclut des femmes ayant un désir de grossesse dans les 6 mois ou déjà enceintes. Il s'agit d'une étude d'histoire naturelle : aucun médicament ni examen en dehors du soin courant n'est imposé. Les données de chaque consultation pendant la grossesse et jusqu'à 12 mois après l'accouchement sont recueillies, ainsi que des échantillons pour des études ultérieures. L'objectif est d'identifier les facteurs de risque de mauvaise issue grâce à un questionnaire dédié (MADRA-DAP).",
+ "interet": "Le registre vise à mieux prédire et prévenir les complications de grossesse dans les maladies auto-immunes. Il pourra servir de base à des études ultérieures sur les traitements et les biomarqueurs.",
+ "profil": "Des femmes avec maladie auto-immune systémique, enceintes ou en projet de grossesse dans les 6 mois.",
+ "inclusion": [
+  "Grossesse en cours ou désir de grossesse dans les 6 mois",
+  "Maladie auto-immune systémique : lupus (systémique ou cutané), syndrome des antiphospholipides ou anticorps antiphospholipides, polyarthrite rhumatoïde, sclérodermie, Sjögren",
+  "Ou arthrite inflammatoire, connectivite indifférenciée, vascularite, myosite",
+  "Ou anticorps anti-SSA/Ro ou anti-SSB/La positifs"
+ ],
+ "exclusion": [
+  "Ne parle pas anglais",
+  "Incapacité à donner son consentement",
+  "Impossibilité de se rendre à Duke University pour le suivi"
+ ],
+ "bras": [
+  {
+   "nom": "Registre MADRA",
+   "traitement": "Suivi en soins courants pendant la grossesse et jusqu'à 12 mois après l'accouchement, sans traitement imposé"
+  }
+ ],
+ "duree": "Grossesse et jusqu'à 12 mois après l'accouchement",
+ "critere": "Facteurs de risque associés aux mauvaises issues de grossesse, mesurés par le questionnaire MADRA-DAP, sur jusqu'à 10 ans"
+}

@@ -1,0 +1,37 @@
+{
+ "h": "8c6d777f3fc2",
+ "date": "2026-11-14",
+ "titre": "D-2570 contre placebo dans le lupus actif",
+ "question": "Le D-2570 augmente-t-il le taux de réponse SRI-4 à la semaine 32 chez des adultes ayant un lupus actif ?",
+ "contexte": "Le lupus systémique actif demeure insuffisamment contrôlé chez une proportion importante de patients sous traitement standard. Les besoins portent sur des traitements oraux efficaces, mieux tolérés que les corticoïdes et les immunosuppresseurs classiques. Le critère SRI-4 est la référence historique des essais pivots du lupus, dont ceux du bélimumab et de l'anifrolumab.\n\nLe D-2570 est une molécule expérimentale développée par InventisBio (Chine). Le registre ne précise pas son mécanisme. Cette étude de phase 2 randomisée en double aveugle contre placebo inclut 120 patients répartis en trois groupes de dose et un groupe placebo. Le traitement est pris une fois par jour pendant 48 semaines, en plus du traitement de fond stable, et suivi d'une période de suivi de sécurité. Le critère principal est la proportion de patients atteignant un SRI-4 à la semaine 32.",
+ "interet": "L'étude fournira une première évaluation de l'efficacité et de la tolérance d'un nouvel agent oral dans le lupus actif, et orientera le choix des doses pour une phase 3.",
+ "profil": "Des adultes de 18 à 70 ans ayant un lupus systémique actif (SLEDAI-2K ≥ 8) sous traitement stable.",
+ "inclusion": [
+  "Consentement éclairé",
+  "Âge de 18 à 70 ans",
+  "LES diagnostiqué depuis au moins 24 semaines",
+  "SLEDAI-2K ≥ 8",
+  "Traitement du lupus stable depuis au moins 4 semaines avant randomisation, à maintenir pendant l'étude"
+ ],
+ "exclusion": [
+  "Antécédents d'infection tels que définis par le protocole",
+  "Certaines maladies ou affections listées dans le protocole (non détaillées)",
+  "Maladie d'organe significative, non contrôlée ou instable"
+ ],
+ "bras": [
+  {
+   "nom": "Groupes A et B",
+   "traitement": "D-2570 à deux doses différentes, une fois par jour, plus placebo (doses non précisées)"
+  },
+  {
+   "nom": "Groupe C",
+   "traitement": "D-2570 une fois par jour (dose non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo une fois par jour"
+  }
+ ],
+ "duree": "48 semaines de traitement, puis suivi de sécurité",
+ "critere": "Proportion de patients en réponse SRI-4 à la semaine 32"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "af43c73d1da4",
+ "date": "2026-11-14",
+ "titre": "CAR-γδ T universels anti-CD19 dans le lupus systémique actif sévère",
+ "question": "Des CAR-T anti-CD19 « universels » à lymphocytes T γδ sont-ils sûrs et efficaces chez des patients lupiques actifs sévères ?",
+ "contexte": "Le pronostic du lupus actif reste réservé pour deux raisons : les traitements actuels (corticoïdes, immunosuppresseurs, biothérapies) ne permettent pas toujours de contrôler la maladie, et certains patients restent dépendants des corticoïdes, avec des complications telles que diabète, ostéonécrose, hypertension, ulcères et infections.\n\nLes CAR-T anti-CD19 autologues ont donné des rémissions dans des séries de patients, mais leur fabrication personnalisée est longue et coûteuse. Les lymphocytes T γδ ont l'avantage de pouvoir être utilisés de façon allogénique, c'est-à-dire issus de donneurs, avec un moindre risque de réaction du greffon contre l'hôte. Les CAR-γδ T « universels » pourraient donc être disponibles d'emblée.\n\nCet essai de phase 1/2 de l'hôpital Union (Tongji Medical College, Wuhan) est ouvert, à un seul bras, avec 15 patients de 18 à 70 ans. Ils reçoivent une perfusion de CAR-γδ T anti-CD19, puis sont suivis jusqu'à 2 ans. Les patients ont un lupus actif (SELENA-SLEDAI ≥ 6, PGA ≥ 1) malgré au moins 8 semaines de traitement standard. Les néphrites sévères récentes, les atteintes du système nerveux central, les crises lupiques et les idées suicidaires récentes sont exclues. Le critère principal est la tolérance.",
+ "interet": "L'étude explore une approche allogénique « prête à l'emploi » des CAR-T. Elle fournira des données de tolérance préliminaires sur un petit nombre de patients.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif sévère malgré un traitement standard.",
+ "inclusion": ["Âge de 18 à 70 ans, poids ≥ 40 kg", "Lupus (critères ACR 1997) diagnostiqué depuis au moins 24 semaines", "SELENA-SLEDAI ≥ 6 et PGA ≥ 1 au dépistage", "Au moins 8 semaines de traitement standard", "Test de grossesse négatif et contraception efficace", "Consentement éclairé"],
+ "exclusion": ["Néphrite lupique sévère active dans les 8 semaines (dialyse, prednisone ≥ 100 mg/jour pendant ≥ 14 jours)", "Idées suicidaires dans les 6 mois ou comportement suicidaire dans les 12 mois", "Atteinte du système nerveux central, lupique ou non, dans les 8 semaines", "Autre crise lupique dans les 8 semaines", "Greffe d'organe ou de cellules souches", "Autre maladie auto-immune nécessitant un traitement systémique, tuberculose active ou latente non traitée"],
+ "bras": [{"nom": "CAR-γδ T anti-CD19 universels", "traitement": "Perfusion intraveineuse de CAR-γδ T anti-CD19 allogéniques ; dose non précisée"}],
+ "duree": "Jusqu'à 2 ans",
+ "critere": "Tolérance et sécurité, dans les 2 ans suivant la perfusion"
+}

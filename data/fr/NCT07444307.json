@@ -1,0 +1,31 @@
+{
+ "h": "83172aab07ae",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles bi-cibles (QT-019B) dans le lupus réfractaire",
+ "question": "Les CAR-T allogéniques bi-cibles QT-019B sont-elles sûres et quelle dose recommander dans le lupus réfractaire ?",
+ "contexte": "Les CAR-T anti-CD19 autologues ont produit des rémissions dans le lupus réfractaire, mais leur fabrication personnalisée limite l'accès. Les approches allogéniques « universelles », issues de donneurs sains, sont disponibles sans délai. L'ajout d'une seconde cible, tel que BCMA, vise à éliminer aussi les plasmocytes producteurs d'auto-anticorps.\n\nLe QT-019B, développé par Hangzhou Qihan Biotech, est une CAR-T universelle à double cible ; le registre ne détaille pas la seconde cible, mais le produit parent QT-019C cible CD19 et BCMA. Cette étude de phase 1 ouverte à un bras prévoit 18 à 24 patients de 18 à 65 ans avec lupus réfractaire, en deux temps : escalade de dose (la première dose est de 1 x 10^6 cellules/kg, avec 14 jours d'intervalle avant l'inclusion du patient suivant), puis expansion. Les critères principaux sont les toxicités limitantes et les événements indésirables dans les 28 jours.",
+ "interet": "Si la sécurité est satisfaisante, ce produit pourrait ouvrir la voie à des CAR-T disponibles d'emblée dans le lupus sévère.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "LES selon critères EULAR/ACR 2019",
+  "Lupus réfractaire : au moins deux immunosuppresseurs non cortisonés dont une biothérapie déplétant les B (bélimumab, rituximab), sauf contre-indication ou indisponibilité",
+  "Auto-anticorps positifs (ANA ≥ 1:80, anti-ADN natif ou anti-Sm)",
+  "Autres critères : se reporter au registre"
+ ],
+ "exclusion": [
+  "Maladie du système nerveux central ou antécédent notable (épilepsie, AVC, vascularite cérébrale, maladie mentale)",
+  "Hémodialyse ou corticothérapie à haute dose (≥ 1,5 mg/kg/j pendant ≥ 14 jours) dans les 2 mois",
+  "Épanchement séreux abondant compressif non contrôlé",
+  "Autre maladie auto-immune active dans les 2 ans (hors manifestations associées au lupus)",
+  "Autres critères d'exclusion : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "QT-019B",
+   "traitement": "Perfusion de CAR-T universelles QT-019B, dose de départ 1 x 10^6/kg, avec escalade puis expansion"
+  }
+ ],
+ "duree": "Suivi de sécurité de 28 jours (phase aiguë), puis suivi prolongé (durée non précisée)",
+ "critere": "Nombre de sujets avec toxicités limitantes dans les 28 jours et événements indésirables jusqu'au jour 28"
+}

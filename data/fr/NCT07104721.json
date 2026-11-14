@@ -1,0 +1,14 @@
+{
+ "h": "5b429cbfe780",
+ "date": "2026-11-14",
+ "titre": "Cellules YTS109 dans les maladies auto-immunes récidivantes ou réfractaires (phase 1)",
+ "question": "Les cellules YTS109 sont-elles sûres chez des adultes ayant un lupus ou une autre maladie auto-immune réfractaire ?",
+ "contexte": "Le lupus avec néphrite ou thrombopénie immune associée, la sclérodermie, les myopathies, les vascularites à ANCA et le syndrome des antiphospholipides peuvent résister à plusieurs lignes de traitement. Les thérapies cellulaires ciblant les lymphocytes B sont explorées pour obtenir des rémissions profondes.\n\nYTS109 est un produit cellulaire de type STAR-T développé par China Immunotech, dont le registre ne détaille pas la cible. L'étude de phase 1 est ouverte, à bras unique, avec environ 18 patients de 18 à 65 ans, à l'hôpital universitaire d'Anhui. Une perfusion unique est administrée selon un schéma 3+3, en débutant à 3 × 10^6 cellules STAR-T/kg. Pour le LES, les patients doivent avoir une néphrite lupique proliférative réfractaire (échec des corticoïdes et d'au moins deux immunosuppresseurs ou biothérapies, protéinurie ≥ 1 g/g) ou une thrombopénie immune du lupus.",
+ "interet": "Cette étude de phase précoce établira la tolérance d'YTS109 avant toute évaluation comparative. Elle ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans ayant un lupus (néphrite ou thrombopénie immune) ou une autre maladie auto-immune réfractaire.",
+ "inclusion": ["Âge de 18 à 65 ans", "Neutrophiles ≥ 1 G/L, hémoglobine ≥ 60 g/L, ALT/AST ≤ 3 N, clairance ≥ 30 mL/min, INR ≤ 1,5", "LES selon critères EULAR/ACR 2019", "Néphrite lupique réfractaire de classe III ou IV (± V) prouvée par biopsie, protéinurie ≥ 1 g/g, ou thrombopénie immune associée au LES", "Contraception efficace jusqu'à 12 mois après le traitement"],
+ "exclusion": ["Non précisé dans l'extrait détaillé du registre"],
+ "bras": [{"nom": "YTS109", "traitement": "Perfusion unique de cellules YTS109, escalade 3+3 à partir de 3 × 10^6 cellules STAR-T/kg"}],
+ "duree": "24 semaines de suivi des événements indésirables, prolongé à 52 semaines",
+ "critere": "Fréquence des événements indésirables apparus sous traitement, avec évaluation de l'efficacité à 2, 4, 8 et 12 semaines"
+}

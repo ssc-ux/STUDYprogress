@@ -1,0 +1,32 @@
+{
+ "h": "88ec06022030",
+ "date": "2026-11-14",
+ "titre": "SCTC21C dans le lupus systémique, phases 1b et 2",
+ "question": "Le SCTC21C est-il bien toléré et efficace dans le lupus systémique actif ?",
+ "contexte": "Le lupus systémique actif reste insuffisamment contrôlé chez une partie des patients malgré les corticoïdes, les antipaludéens et les immunosuppresseurs conventionnels. Les biothérapies approuvées (bélimumab, anifrolumab) ne suffisent pas à tous les patients, ce qui motive de nouvelles cibles.\n\nLe SCTC21C est un anticorps monoclonal de Sinocelltech ; le registre n'en précise pas la cible. L'étude associe une phase 1b et une phase 2. La phase 1b teste des doses croissantes pour déterminer la dose recommandée. La phase 2 randomise environ 120 participants 1:1:1 entre deux doses et un placebo, afin d'étudier la relation exposition-efficacité-toxicité.\n\nElle prévoit environ 159 adultes de 18 à 75 ans avec un lupus actif (SELENA-SLEDAI ≥ 8) sous traitement standard stable. L'administration dure environ 24 semaines ; la tolérance est suivie jusqu'à 48 semaines.",
+ "interet": "L'étude testera l'efficacité et la tolérance de deux doses du SCTC21C face au placebo, et servira à préparer un éventuel essai de phase 3.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif, sous traitement standard stable.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Lupus depuis au moins 12 semaines, selon ACR/EULAR 2019",
+  "SELENA-SLEDAI ≥ 8 au dépistage",
+  "Marqueurs immunologiques positifs dans les 12 mois précédant l'inclusion",
+  "Traitement standard stable (corticoïdes oraux, antipaludéens ou immunosuppresseurs)",
+  "Contraception fiable jusqu'à 5 mois après la dernière dose"
+ ],
+ "exclusion": [
+  "Atteinte neuropsychiatrique lupique sévère ou instable",
+  "Infection active, tumeur maligne ou autre maladie auto-immune",
+  "Syndrome des antiphospholipides catastrophique, néphrite lupique sévère",
+  "Vaccin vivant ou atténué dans les 28 jours",
+  "Évènement cardio- ou cérébrovasculaire dans les 24 semaines précédentes",
+  "Sérologies VIH, VHC, VHB ou syphilis positives, antécédent de tuberculose"
+ ],
+ "bras": [
+  { "nom": "SCTC21C (phase 1b)", "traitement": "Doses croissantes de SCTC21C pour déterminer la dose recommandée" },
+  { "nom": "SCTC21C dose 1 ou dose 2 (phase 2)", "traitement": "SCTC21C à l'une des deux doses, randomisation 1:1:1 avec le placebo ; doses non précisées" },
+  { "nom": "Placebo (phase 2)", "traitement": "Placebo" }
+ ],
+ "duree": "48 semaines",
+ "critere": "Phase 1 : tolérance et sécurité de la première dose à la semaine 48 ; phase 2 : efficacité jusqu'à la semaine 24"
+}

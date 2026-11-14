@@ -1,0 +1,38 @@
+{
+ "h": "5c2b5f66b611",
+ "date": "2026-11-14",
+ "titre": "IASO-782 contre placebo dans le lupus érythémateux systémique (phase 1a)",
+ "question": "IASO-782, à doses croissantes, est-il bien toléré chez des patients atteints de lupus systémique ?",
+ "contexte": "Le lupus érythémateux systémique (LES) reste mal contrôlé chez de nombreux patients malgré le traitement standard, ce qui motive le développement de nouvelles cibles. Le registre ne précise ni la nature ni la cible d'IASO-782, développé par Shanghai IASO Biotechnology.\n\nL'étude de phase Ia est randomisée, en quadruple aveugle et contrôlée par placebo, à doses répétées croissantes de 4, 6 et 10 mg/kg en perfusion intraveineuse aux jours 1, 8 et 15. Environ 20 patients de 18 à 75 ans, sous traitement standard, sont inclus. L'objectif est d'évaluer la sécurité, la tolérance et la fourchette de dose préliminaire. Les exclusions portent notamment sur les antécédents thrombotiques, l'allongement du QTc (> 450 ms), la néphrite lupique sévère récente et les infections nécessitant un traitement intraveineux.",
+ "interet": "Il s'agit d'une étude de tolérance initiale. Elle ne permet pas de conclure sur l'efficacité d'IASO-782 dans le LES.",
+ "profil": "Des adultes de 18 à 75 ans atteints de LES sous traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 75 ans",
+  "Diagnostic clinique de LES confirmé avant le dépistage",
+  "Traitement standard en cours, en monothérapie ou en association",
+  "Fonctions d'organes et biologie globalement normales",
+  "Contraception efficace jusqu'à 6 mois après la fin de l'étude",
+  "Consentement signé"
+ ],
+ "exclusion": [
+  "Cancer primitif dans les 5 ans",
+  "Cardiopathie récente (insuffisance cardiaque NYHA III/IV, arythmie traitée) ou hypertension mal contrôlée",
+  "Hypersensibilité à un composant du médicament",
+  "Infection active nécessitant un traitement intraveineux dans les 30 jours",
+  "Antécédent de thrombose artérielle ou veineuse, thrombophilie, fibrillation atriale ou QTc > 450 ms",
+  "Néphrite lupique sévère dans les 8 semaines (protéinurie > 6 g/24 h ou créatininémie > 2,5 mg/dL)",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "IASO-782",
+   "traitement": "Perfusion intraveineuse aux jours 1, 8 et 15, à 4, 6 ou 10 mg/kg"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusion intraveineuse de placebo aux jours 1, 8 et 15"
+  }
+ ],
+ "duree": "Jusqu'à 25 semaines",
+ "critere": "Nombre de participants avec des événements indésirables (CTCAE v6.0), jusqu'à 25 semaines"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "9f1e8eee5990",
+ "date": "2026-11-14",
+ "titre": "CAR-T autologues anti-CD19 dans le lupus réfractaire (Vietnam)",
+ "question": "Une perfusion unique de CAR-T anti-CD19 autologues est-elle sûre et faisable chez des adultes ayant un lupus réfractaire ?",
+ "contexte": "Le lupus systémique réfractaire aux corticoïdes, à l'hydroxychloroquine et à au moins deux immunosuppresseurs ou biothérapies reste difficile à contrôler. Les lymphocytes B, producteurs d'auto-anticorps, jouent un rôle central, et leur déplétion profonde par CAR-T anti-CD19 a obtenu des rémissions prolongées dans des séries allemandes et chinoises. Ces thérapies sont encore peu accessibles et coûteuses.\n\nCette étude de phase 1 monocentrique est conduite par le Vinmec Research Institute (Vietnam). Huit patients de 16 à 55 ans, avec un lupus réfractaire (score EULAR/ACR ≥ 10, SLEDAI-2K ≥ 8) ou une néphrite lupique réfractaire, subissent une leucaphérèse et reçoivent une lymphodéplétion, puis une perfusion unique d'environ 1,0 x 10^6 CAR-T anti-CD19 par kg. L'étude est à un seul bras, sans groupe comparateur. Le critère principal est la fréquence et la sévérité des événements indésirables jusqu'au jour 360.",
+ "interet": "Elle évaluera la faisabilité locale d'une production de CAR-T autologues et leur sécurité. Les données d'efficacité resteront exploratoires.",
+ "profil": "Des personnes de 16 à 55 ans atteintes de lupus systémique réfractaire ou de néphrite lupique réfractaire.",
+ "inclusion": [
+  "Âge de 16 à 55 ans",
+  "LES selon critères EULAR/ACR 2019, score total ≥ 10",
+  "SLEDAI-2K ≥ 8 (dont ≥ 4 points biologiques, hors points neurologiques)",
+  "ANA ≥ 1:80, anti-ADN natif ou anti-Sm positif",
+  "Échec d'au moins 6 mois de traitement standard (corticoïdes, hydroxychloroquine et ≥ 2 autres immunosuppresseurs ou biothérapies)",
+  "Néphrite lupique persistante après deux traitements d'induction (cyclophosphamide IV et mycophénolate ≥ 6 mois)"
+ ],
+ "exclusion": [
+  "Antécédent neurologique significatif (traumatisme crânien, épilepsie, hémorragie)",
+  "Maladie cardiovasculaire significative dans les 3 mois (HTA non contrôlée, insuffisance cardiaque NYHA III-IV, infarctus)",
+  "Greffe rénale antérieure",
+  "Asthme sévère ou insuffisance respiratoire",
+  "Infection virale active (hépatites B/C, VIH, tuberculose, CMV, EBV) ou bactérienne active",
+  "Anti-CD20, cyclophosphamide, vaccins vivants ou corticoïdes > 10 mg/j dans le délai défini avant la leucaphérèse"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-CD19",
+   "traitement": "Leucaphérèse, lymphodéplétion, puis perfusion unique d'environ 1,0 x 10^6 CAR-T anti-CD19 autologues/kg"
+  }
+ ],
+ "duree": "360 jours",
+ "critere": "Fréquence et sévérité des événements indésirables et événements graves, de la perfusion au jour 360"
+}

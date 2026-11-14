@@ -1,0 +1,27 @@
+{
+ "h": "6be93cc9ceb3",
+ "date": "2026-11-14",
+ "titre": "Voclosporine à long terme dans la néphrite lupique de l'enfant et de l'adolescent",
+ "question": "La voclosporine reste-t-elle bien tolérée pendant 12 mois supplémentaires chez les enfants et adolescents atteints de néphrite lupique ?",
+ "contexte": "La néphrite lupique de l'enfant et de l'adolescent est souvent plus sévère que chez l'adulte et expose à une insuffisance rénale chronique et à la toxicité des corticoïdes. Le traitement repose sur les corticoïdes et le mycophénolate mofétil (MMF), avec peu d'options validées en pédiatrie.\n\nLa voclosporine est un inhibiteur de la calcineurine de nouvelle génération, approuvé chez l'adulte atteint de néphrite lupique en association au MMF et aux corticoïdes. L'étude VOCAL (NCT05288855) l'évalue chez l'enfant et l'adolescent pendant 24 semaines.\n\nVOCAL-EXT est la prolongation ouverte de 12 mois, pour une durée totale de traitement de 18 mois depuis VOCAL. Les patients poursuivent le MMF et les corticoïdes oraux. Promue par Aurinia, l'étude a été arrêtée prématurément avec 4 participants.",
+ "interet": "L'étude apporte des données de tolérance à long terme de la voclosporine en pédiatrie, un domaine où les données sont rares. L'effectif très faible limite la portée des résultats.",
+ "profil": "Des enfants et adolescents de 5 à 17 ans atteints de néphrite lupique, ayant terminé VOCAL.",
+ "inclusion": [
+  "Consentement des parents ou tuteurs, assentiment ou consentement de l'enfant",
+  "24 semaines de traitement terminées dans VOCAL (interruption temporaire possible avec accord du moniteur médical)",
+  "Besoin de poursuivre le traitement immunosuppresseur selon l'investigateur",
+  "Acceptation de poursuivre le MMF oral pendant l'étude"
+ ],
+ "exclusion": [
+  "Inhibiteur de la calcineurine (ciclosporine, tacrolimus) ou besoin prévisible d'un tel traitement",
+  "Cholestyramine ou médicament interférant avec le cycle entérohépatique du MMF",
+  "Inhibiteurs ou inducteurs forts du CYP3A4/5",
+  "Dialyse ou dialyse prévue, greffe rénale programmée",
+  "Toute affection augmentant le risque selon l'investigateur"
+ ],
+ "bras": [
+  { "nom": "Voclosporine en ouvert", "traitement": "Voclosporine au même nombre de capsules qu'à la semaine 24 de VOCAL, adaptable selon l'investigateur, avec MMF et corticoïdes oraux" }
+ ],
+ "duree": "12 mois (18 mois de traitement au total depuis VOCAL)",
+ "critere": "Incidence des événements indésirables apparus sous traitement, jusqu'à la fin de l'étude plus 30 jours de suivi"
+}

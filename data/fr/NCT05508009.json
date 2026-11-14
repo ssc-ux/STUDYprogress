@@ -1,0 +1,36 @@
+{
+ "h": "831302320986",
+ "date": "2026-11-14",
+ "titre": "Greffe de cellules souches puis de rein du même donneur sans immunosuppresseur",
+ "question": "Une greffe de cellules souches hématopoïétiques suivie d'une greffe rénale du même donneur permet-elle d'arrêter l'immunosuppression après la greffe de rein ?",
+ "contexte": "Les receveurs de greffe rénale doivent prendre à vie des immunosuppresseurs, avec leurs complications (infections, cancers, toxicité rénale et métabolique) et un risque de rejet chronique conduisant à une nouvelle greffe. Chez des patients dont la maladie est d'origine génétique ou immunologique (syndrome de Schimke, cystinose, HSF, lupus, vascularite à ANCA, glomérulonéphrite membranoproliférative), la perte de greffon est aussi liée à la récidive ou au contexte immunitaire.\n\nL'induction d'une tolérance par chimérisme hématopoïétique est une piste ancienne. Cette étude de phase 1b/2a monocentrique, promue par Alice Bertaina (Stanford), associe une greffe allogénique de cellules souches appauvrie en lymphocytes T αβ, puis une greffe de rein du même donneur HLA-identique ou apparenté, sans immunosuppresseur après la greffe rénale. Deux régimes de conditionnement sont comparés de façon non randomisée. Douze patients de 1 à 30 ans sont prévus : 4 pour la sécurité, puis 8 de plus si la stratégie est sûre et non futile. Le critère principal est la proportion de patients ayant pu arrêter l'immunosuppression à J90.",
+ "interet": "Si l'approche est réalisable et sûre, elle pourrait éviter l'immunosuppression à vie chez des jeunes patients greffés. Il s'agit d'une stratégie expérimentale, à risque, réservée à des cas sélectionnés.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 1 à 30 ans devant recevoir une greffe de rein pour une maladie génétique ou immunologique, ou après rejet.",
+ "inclusion": [
+  "Greffe rénale prévue pour une maladie génétique ou immunologique (syndrome de Schimke, HSF, cystinose, lupus, GNMP, vascularite à ANCA) ou après rejet d'un précédent greffon",
+  "Maladie rénale chronique de stade ≥ 3",
+  "Corticoïdes < 0,5 mg/kg/j",
+  "Donneur et receveur HLA identiques sur au moins un allèle de HLA-A, B, Cw, DQB1, DRB1",
+  "Score de Lansky/Karnofsky > 50",
+  "Consentement (ou représentant légal) et contraception efficace"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "GVHD aiguë de grade > II ou GVHD chronique extensive sévère non contrôlée liée à une greffe antérieure",
+  "Atteinte hépatique (ASAT/ALAT > 10 x la normale ou bilirubine directe > 3 x)",
+  "Atteinte cardiovasculaire sévère (FEVG < 40 % ou dysfonction diastolique sévère)",
+  "Infection active (VIH, VHB, VHC contrôlés autorisés)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohortes 1b et 2a, conditionnement A",
+   "traitement": "Greffe de cellules souches appauvries en lymphocytes T αβ avec le régime A (composition non précisée), puis greffe de rein"
+  },
+  {
+   "nom": "Cohortes 1b et 2a, conditionnement B",
+   "traitement": "Même stratégie avec le régime B (composition non précisée)"
+  }
+ ],
+ "duree": "Non précisé (critère principal à J90 après la greffe de rein)",
+ "critere": "Nombre de patients ayant pu arrêter l'immunosuppression à J90 après la greffe rénale"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "7f7ea49bd326",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 dans les maladies auto-immunes systémiques réfractaires ou en rechute",
+ "question": "Les CAR-T anti-CD19 sont-ils sûrs et efficaces dans plusieurs maladies auto-immunes systémiques réfractaires ?",
+ "contexte": "Lupus, sclérodermie, syndrome de Sjögren, myopathies inflammatoires, vascularites à ANCA et syndrome des antiphospholipides peuvent résister aux immunosuppresseurs et aux biothérapies, avec des atteintes d'organes évolutives. La déplétion profonde des lymphocytes B par CAR-T anti-CD19 a produit des rémissions durables dans des séries de cas, surtout dans le lupus.\n\nLes données restent limitées dans les autres maladies, notamment le syndrome des antiphospholipides et le Sjögren. Cette étude de phase 1, à un seul bras, est menée par le First Affiliated Hospital of Wenzhou Medical University. Elle inclut 9 patients qui reçoivent une perfusion unique de CAR-T autologues anti-CD19 après lymphodéplétion par fludarabine et cyclophosphamide.\n\nUne analyse intermédiaire est prévue lorsque le dernier patient aura 12 semaines de recul. Les critères principaux portent sur la tolérance et la faisabilité de production du produit cellulaire.",
+ "interet": "Phase 1 de petite taille : elle documentera la tolérance et la faisabilité dans un éventail de maladies auto-immunes. Elle ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'une maladie auto-immune systémique réfractaire ou en rechute.",
+ "inclusion": ["Âge de 18 à 65 ans, consentement signé", "Maladie auto-immune (lupus, Sjögren, sclérodermie, myopathie inflammatoire, vascularite à ANCA, syndrome des antiphospholipides) réfractaire ou en rechute", "ECOG ≤ 2, survie attendue ≥ 12 semaines", "Neutrophiles ≥ 1,0 G/L, hémoglobine ≥ 60 g/L, plaquettes ≥ 50 G/L, lymphocytes ≥ 0,5 G/L", "Bilirubine ≤ 1,5 × LSN, ASAT/ALAT ≤ 2,5 × LSN, clairance de la créatinine ≥ 60 mL/min", "FEVG ≥ 45 %, SpO₂ > 92 % en air ambiant"],
+ "exclusion": ["Maladie active du système nerveux central (épilepsie, AVC, démence, atteinte auto-immune centrale)", "Infection non contrôlée ou nécessitant des antibiotiques intraveineux", "Hépatite B (ADN > 1000 copies/mL), hépatite C, syphilis ou VIH", "Traitement anti-CD19 antérieur", "Vaccin vivant dans les 4 semaines ; anticorps immunosuppresseurs (anti-CD20, anti-TNF, anti-IL-6) dans les 4 semaines", "Cytotoxiques dans les 2 semaines ; facteurs de croissance récents"],
+ "bras": [{"nom": "Groupe traité", "traitement": "CAR-T autologues anti-CD19, perfusion unique après lymphodéplétion par fludarabine et cyclophosphamide"}],
+ "duree": "1 an de suivi après la perfusion",
+ "critere": "Toxicité limitante dans les 28 jours, événements indésirables jusqu'à 1 an et proportion de patients pour lesquels un produit CAR-T a pu être fabriqué"
+}

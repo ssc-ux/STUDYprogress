@@ -1,0 +1,14 @@
+{
+ "h": "39e999d0dde4",
+ "date": "2026-11-14",
+ "titre": "SHR-2173 contre placebo dans la néphropathie lupique active",
+ "question": "Le SHR-2173 réduit-il la protéinurie à 24 semaines chez des patients avec une néphropathie lupique active ?",
+ "contexte": "La néphropathie lupique de classe III ou IV est l'atteinte rénale la plus grave du lupus. Les traitements d'induction actuels (corticoïdes, mycophénolate ou cyclophosphamide, bélimumab, voclosporine, anifrolumab selon les cas) n'obtiennent pas une réponse complète chez tous les patients, et une part évolue vers l'insuffisance rénale terminale.\n\nLe SHR-2173 est un médicament injectable en développement chez Hengrui. Le registre n'en précise ni la cible ni la dose. Cette étude de phase 2 randomisée en double aveugle (en quadruple insu) contre placebo, multicentrique en Chine, compare le SHR-2173 à un placebo chez 51 patients avec une néphropathie lupique active confirmée par biopsie (classes III ou IV, avec ou sans V). L'évaluation principale porte sur l'évolution de la protéinurie des 24 heures à 24 semaines.",
+ "interet": "Cette étude pourrait donner un premier signal d'efficacité d'un nouveau traitement de la néphropathie lupique. Elle servirait à décider d'un éventuel essai de phase 3.",
+ "profil": "Des adultes de 18 à 70 ans avec une néphropathie lupique active de classe III ou IV, confirmée par biopsie.",
+ "inclusion": ["Âge de 18 à 70 ans, poids ≥ 40 kg, IMC de 16 à 28 kg/m²", "Lupus selon les critères ACR 1997 ou EULAR/ACR 2019", "ANA ≥ 1/80 et/ou anti-ADN natif et/ou anti-Sm positifs", "Néphropathie lupique active de classe III ou IV ± V (ISN/RPS 2018) sur biopsie de moins de 1 an"],
+ "exclusion": ["Dialyse dans les 12 mois, ou dialyse/transplantation prévue dans les 6 mois", "Plus de 50 % de glomérules scléreux sur la biopsie", "Lupus neuropsychiatrique sévère ou instable", "Syndrome des antiphospholipides catastrophique ou thrombose liée, sauf forme légère stable", "Autre néphropathie confondante (par exemple diabétique)", "Autre maladie inflammatoire ou auto-immune pouvant gêner l'interprétation"],
+ "bras": [{ "nom": "SHR-2173", "traitement": "Injection de SHR-2173 (dose et rythme non précisés)" }, { "nom": "Placebo", "traitement": "Préparation injectable placebo" }],
+ "duree": "Non précisé (évaluation principale à 24 semaines)",
+ "critere": "Rapport du rapport protéinurie/créatininurie des 24 heures à la semaine 24 sur sa valeur initiale"
+}

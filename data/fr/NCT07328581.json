@@ -1,0 +1,14 @@
+{
+ "h": "191cdf8bd269",
+ "date": "2026-11-14",
+ "titre": "ICG318 (CAR-T CD19/BCMA) dans le lupus réfractaire, avec ou sans néphropathie",
+ "question": "Une perfusion unique de CAR-T ICG318 est-elle sûre et induit-elle une rémission DORIS dans le lupus réfractaire, avec ou sans néphropathie lupique ?",
+ "contexte": "Le lupus systémique est entretenu en grande partie par des auto-anticorps produits par les lymphocytes B CD19+ et par les plasmocytes BCMA+, y compris les plasmocytes à longue durée de vie. La néphropathie lupique en est la forme la plus fréquente et la plus sévère, avec des rechutes persistantes malgré les traitements actuels.\n\nLes CAR-T anti-CD19 ont induit des rémissions dans de petites séries de lupus réfractaire. L'ICG318, d'iCell Gene Therapeutics, est un CAR « composé » qui associe deux récepteurs fonctionnant indépendamment et ciblant CD19 et BCMA, et qui est armé d'IL-15 (IL-15/IL-15 sushi). L'IL-15 vise à améliorer la persistance cellulaire. Cette étude de phase 2a, ouverte, à bras unique, comporte une phase initiale de sécurité puis une expansion, chez 20 patients de 16 à 70 ans, dans 4 centres. Une perfusion unique est administrée après lymphodéplétion.",
+ "interet": "Cette étude pourrait indiquer si un CAR-T double cible armé d'IL-15 produit des rémissions dans le lupus réfractaire, y compris rénal. Elle documentera aussi la tolérance, notamment les infections et le syndrome de relargage cytokinique.",
+ "profil": "Des patients de 16 à 70 ans avec un lupus systémique réfractaire, avec ou sans néphropathie lupique.",
+ "inclusion": ["Âge de 16 à 70 ans, lupus selon EULAR/ACR 2019 depuis ≥ 6 mois", "ANA, anti-ADN natif ou anti-Sm positifs", "Réponse insuffisante à 2 traitements standard utilisés ≥ 3 mois", "SLEDAI-2K ≥ 7 au dépistage", "Cohorte néphropathie : biopsie de moins de 6 mois montrant une classe III ou IV (± V)"],
+ "exclusion": ["Poussée aiguë sévère nécessitant un traitement immédiat", "Syndrome des antiphospholipides avec thrombose dans les 12 mois", "Lupus induit par un médicament", "Traitement CAR-T antérieur, greffe de moelle, de cellules souches ou d'organe", "Infection récente grave ou active, vaccin vivant dans les 8 semaines", "Maladie du système nerveux central dans l'année, maladie cardiaque significative", "Insuffisance rénale terminale ou maladie hépatique sévère, grossesse ou allaitement"],
+ "bras": [{ "nom": "ICG318", "traitement": "Perfusion unique de CAR-T ICG318 à la dose recommandée de phase 2, après lymphodéplétion" }],
+ "duree": "1 an après la perfusion pour le critère principal",
+ "critere": "Nombre d'événements indésirables après la perfusion (jusqu'à 1 an) et taux de rémission DORIS à 6 mois et 1 an"
+}

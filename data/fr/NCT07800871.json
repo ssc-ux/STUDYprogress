@@ -1,0 +1,44 @@
+{
+ "h": "a767f015ba95",
+ "date": "2026-11-14",
+ "titre": "FT839 (cellules T allogéniques ciblant CD19 et CD38) dans les maladies auto-immunes systémiques",
+ "question": "FT839 est-il bien toléré et actif dans la vascularite à ANCA, les myosites, la polyarthrite, le lupus et la sclérodermie réfractaires ?",
+ "contexte": "Les maladies auto-immunes médiées par les lymphocytes B (vascularite à ANCA, myosites inflammatoires, polyarthrite rhumatoïde, lupus, sclérodermie systémique) restent difficiles à contrôler après échec de plusieurs traitements. Les CAR-T anti-CD19 autologues ont induit des rémissions dans des séries de patients, mais leur fabrication individuelle est complexe.\n\nFT839 est un produit cellulaire allogène « prêt à l'emploi » de Fate Therapeutics, composé de cellules T ciblant CD19 et CD38. Il vise les lymphocytes B et les plasmocytes.\n\nCet essai de phase 1/2 multicentrique, ouvert, inclut jusqu'à 446 adultes de 18 à 70 ans. Huit schémas (A à H) combinent FT839 seul ou avec rituximab, avec ou sans traitement de fond stable ou conditionnement préalable. La phase 1 (escalade puis expansion) détermine la dose maximale tolérée ou recommandée. La phase 2 évalue l'activité clinique, par maladie, avec le score approprié.",
+ "interet": "Elle pourrait fournir les premières données d'un produit cellulaire allogénique dans plusieurs maladies auto-immunes. Les schémas multiples compliquent la lecture avant les phases ultérieures.",
+ "profil": "Des adultes de 18 à 70 ans ayant une maladie auto-immune médiée par les lymphocytes B, modérée à sévère, après échec d'au moins deux traitements.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Vascularite à ANCA, myosite, polyarthrite rhumatoïde, lupus ou sclérodermie, active, confirmée par les critères habituels",
+  "Maladie modérée à sévère, au moins deux traitements antérieurs inefficaces",
+  "Fonction d'organe suffisante",
+  "Consentement et respect du protocole"
+ ],
+ "exclusion": [
+  "Plus d'une maladie de l'étude ou syndrome de chevauchement",
+  "Grossesse ou allaitement",
+  "Dysfonction sévère cardiaque, pulmonaire, hépatique ou rénale",
+  "Infection active ou chronique, cancer actif ou récent",
+  "CAR-T ou greffe antérieurs, poids < 45 kg",
+  "Anti-CD19 ou anti-CD20 dans les 6 mois, atteinte du SNC dans les 12 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Schémas A et B",
+   "traitement": "FT839 + rituximab, sans ou avec traitement de fond stable"
+  },
+  {
+   "nom": "Schémas C et D",
+   "traitement": "FT839 seul, sans ou avec traitement de fond stable"
+  },
+  {
+   "nom": "Schémas E et F",
+   "traitement": "Conditionnement + FT839 + rituximab, sans ou avec traitement de fond"
+  },
+  {
+   "nom": "Schémas G et H",
+   "traitement": "Conditionnement + FT839, sans ou avec traitement de fond"
+  }
+ ],
+ "duree": "2 ans de suivi après traitement",
+ "critere": "Phase 1 : toxicité limitante de dose et événements indésirables ; phase 2 : variation des scores d'activité spécifiques de chaque maladie, jusqu'à 2 ans"
+}

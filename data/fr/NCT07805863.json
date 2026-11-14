@@ -1,0 +1,14 @@
+{
+ "h": "73ac3a005dea",
+ "date": "2026-11-14",
+ "titre": "Complexes MPO-ADN sériques comme marqueur d'activité du lupus systémique",
+ "question": "Les complexes myélopéroxydase-ADN sériques, reflet des NET, sont-ils plus élevés dans le lupus actif et corrélés à son activité ?",
+ "contexte": "Le suivi de l'activité du lupus repose sur le SLEDAI-2K, le complément (C3, C4) et les anticorps anti-ADN natif, dont la sensibilité pour détecter une poussée est inconstante. Des marqueurs plus proches de la physiopathologie sont donc recherchés.\n\nUn mécanisme clé de la maladie est la formation excessive et l'élimination défaillante des pièges extracellulaires des neutrophiles (NET), qui libèrent dans la circulation des complexes myélopéroxydase-ADN (MPO-ADN). Cette étude observationnelle cas-témoins de l'université d'Assiut (Égypte) compare, chez 90 patients lupiques, 45 patients en maladie active et 45 patients appariés en rémission. Le dosage des complexes MPO-ADN est réalisé par ELISA, en plus des examens de routine. L'étude évalue la corrélation avec le SLEDAI-2K et la précision diagnostique comparée à la VS, la CRP, C3, C4 et les anti-ADN natif.",
+ "interet": "Cette étude pourrait valider un marqueur biologique complémentaire de l'activité du lupus. Un tel marqueur aiderait à détecter les poussées quand les tests habituels sont discordants.",
+ "profil": "Des adultes et adolescents de plus de 16 ans avec un lupus systémique, actif ou en rémission clinique.",
+ "inclusion": ["Lupus selon les critères EULAR/ACR 2019", "Âge > 16 ans", "Consentement éclairé écrit"],
+ "exclusion": ["Âge ≤ 16 ans", "Autre maladie auto-immune associée (polyarthrite rhumatoïde, sclérodermie, connectivite mixte)", "Infection sévère active", "Cancer", "Grossesse"],
+ "bras": [{ "nom": "Lupus actif (45 patients)", "traitement": "Prélèvement sanguin : dosage des complexes MPO-ADN et des marqueurs usuels" }, { "nom": "Lupus inactif, témoins appariés (45 patients)", "traitement": "Même prélèvement sanguin" }],
+ "duree": "Une seule évaluation par patient",
+ "critere": "Concentration sérique des complexes MPO-ADN à l'inclusion"
+}

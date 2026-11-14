@@ -1,0 +1,29 @@
+{
+ "h": "85bdf4480bbd",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs d'activité de la néphrite lupique (signatures interféron et plasmocytaire)",
+ "question": "Les signatures génétiques interféron et plasmocytaire sont-elles corrélées aux profils d'activation cellulaire, aux cytokines et à l'activité de la néphrite lupique ?",
+ "contexte": "Le lupus se caractérise par deux signatures transcriptomiques majeures : la signature interféron de type I, présente chez une majorité de patients, et la signature plasmocytaire, liée à la production d'auto-anticorps. Elles sont à l'origine d'ailleurs de traitements ciblés comme l'anifrolumab (récepteur de l'IFN de type I). Leur signification clinique précise, notamment dans la néphrite lupique, reste mal connue.\n\nCette étude de cohorte des Cliniques universitaires Saint-Luc (Louvain) étudie 250 adultes lupiques ayant une néphrite proliférative ou membraneuse prouvée par biopsie, incidente ou en poussée. Elle caractérise par cytométrie en flux les populations cellulaires du sang total, dose des cytokines dans le sang et les urines, et réalise des cultures de courte durée de cellules mononucléées. Des sujets contrôles atteints de rhumatismes non inflammatoires servent de comparateur. Les critères principaux sont des analyses de biomarqueurs à l'inclusion.",
+ "interet": "Ce travail pourrait identifier des biomarqueurs sanguins et urinaires de l'activité rénale du lupus, utiles pour le suivi et le choix thérapeutique. Il ne teste aucune intervention.",
+ "profil": "Des adultes lupiques de 18 à 70 ans ayant une néphrite lupique prouvée par biopsie, incidente ou en poussée.",
+ "inclusion": [
+  "Critères de classification EULAR/ACR du LES",
+  "Âge ≥ 18 ans",
+  "Néphrite lupique proliférative ou membraneuse, incidente ou en poussée, prouvée par biopsie"
+ ],
+ "exclusion": [
+  "Néphropathie du syndrome des antiphospholipides",
+  "Grossesse à l'inclusion (grossesse en cours de suivi non exclusive)",
+  "Non-observance anticipée du traitement",
+  "Affections interférant avec l'évaluation des critères",
+  "Impossibilité de lire ou signer le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte lupus-néphrite lupique",
+   "traitement": "Patients lupiques avec néphrite, avec prélèvements sanguins et urinaires ; sujets contrôles avec rhumatismes non inflammatoires"
+  }
+ ],
+ "duree": "Non précisé (analyses à l'inclusion, suivi prospectif)",
+ "critere": "Analyses de biomarqueurs de l'activité de la néphrite lupique à l'inclusion : populations cellulaires du sang total, cytokines sanguines et urinaires"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "25ee12a47da2",
+ "date": "2026-11-14",
+ "titre": "Registre en ligne du lupus de la Lupus Foundation of America (RAY)",
+ "question": "Comment les personnes atteintes de lupus vivent-elles la maladie : parcours diagnostique, traitements, fatigue, qualité de vie et productivité ?",
+ "contexte": "Le lupus regroupe plusieurs entités : lupus systémique, néphrite lupique, lupus cutané (y compris discoïde) et lupus induit par des médicaments. Le diagnostic est souvent retardé, les traitements varient beaucoup, et la fatigue et le retentissement professionnel pèsent fortement sur les patients mais sont peu mesurés dans les essais classiques.\n\nLe registre RAY (Research Accelerated by You) de la Lupus Foundation of America est entièrement à distance et décentralisé : consentement électronique, questionnaires à l'inclusion puis tous les 6 mois, via un portail sécurisé. Il s'adresse aux patients des États-Unis et du Canada, adultes ou enfants (le questionnaire est alors rempli par un parent ou un représentant). Les données sont déclaratives : données démographiques, parcours diagnostique, symptômes, traitements, qualité de vie, fatigue, productivité au travail et préférences concernant la recherche clinique.\n\nL'objectif est de mieux comprendre le diagnostic, la prise en charge et la qualité de vie. Les participants peuvent aussi être contactés pour des études ou des enquêtes complémentaires. L'effectif prévu est de 10 000 personnes, avec un suivi sur 10 ans.",
+ "interet": "Le registre apporte le point de vue des patients, utile à la conception d'essais et à l'évaluation de critères centrés sur le vécu. Les données sont auto-déclarées, sans confirmation médicale.",
+ "profil": "Des adultes et enfants atteints de lupus (systémique, néphrite, cutané, discoïde, induit), vivant aux États-Unis ou au Canada.",
+ "inclusion": ["Adulte ≥ 18 ans avec un diagnostic de lupus déclaré par un médecin", "Ou parent/représentant légal d'un enfant lupique (assentiment de l'enfant de 7 à 17 ans)", "Ou représentant légal d'un adulte lupique incapable de consentir", "Consentement éclairé", "Lecture de l'anglais et accès à un ordinateur connecté"],
+ "exclusion": ["Personne qui ne vit pas avec un lupus", "Autres critères : non précisé"],
+ "bras": [{"nom": "Patients lupiques", "traitement": "Questionnaires en ligne à l'inclusion puis tous les 6 mois ; aucune intervention"}],
+ "duree": "Jusqu'à 10 ans (questionnaires tous les 6 mois)",
+ "critere": "Fatigue (échelle FACIT-Fatigue) et altération de la productivité au travail et des activités (WPAI), sur 10 ans"
+}

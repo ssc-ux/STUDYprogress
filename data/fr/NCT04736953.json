@@ -1,0 +1,14 @@
+{
+ "h": "ad96119db5e6",
+ "date": "2026-11-14",
+ "titre": "Sirolimus contre placebo dans le lupus systémique actif",
+ "question": "Le sirolimus (inhibiteur de mTOR) apporte-t-il un bénéfice thérapeutique par rapport au placebo dans le lupus actif ?",
+ "contexte": "Le lupus systémique actif malgré les immunosuppresseurs et les antipaludéens reste un défi thérapeutique, avec une toxicité cumulée des corticoïdes. Dans le lupus, la voie mTOR est suractivée dans les lymphocytes T, ce qui contribue à leur dysfonctionnement et à la production d'auto-anticorps.\n\nLe sirolimus (rapamycine) inhibe mTOR. Une étude de phase 1/2 antérieure a montré une amélioration de l'activité du lupus chez des patients réfractaires. Cet essai de phase 2 de l'Université d'État de New York (Upstate) reprend cette hypothèse avec un plan de type « enrichissement avec retrait randomisé » (EERW).\n\nTous les patients reçoivent d'abord le sirolimus en ouvert pendant 3 mois (1 à 4 mg/j, titré selon la tolérance), puis seuls ceux qui le tolèrent sont randomisés, en double aveugle, entre sirolimus et placebo (92 par bras prévus), pendant 12 mois suivis d'un sevrage de 1 mois. Cette stratégie limite les sorties d'étude en phase randomisée.",
+ "interet": "Si le sirolimus montre un bénéfice, il offrirait une option orale à bas coût pour les lupus actifs. Le plan avec retrait randomisé mesure surtout le maintien de la réponse chez les patients tolérants.",
+ "profil": "Des adultes atteints de lupus actif, sous traitement de fond stable.",
+ "inclusion": ["Âge > 18 ans", "≥ 4 critères ACR de classification du lupus, ANA ≥ 1/80", "Traitement stable : MMF ≤ 3 g/j, azathioprine ≤ 100 mg/j, méthotrexate ≤ 15 mg/j, hydroxychloroquine ≤ 400 mg/j, prednisone ≤ 20 mg/j, bélimumab stable depuis 90 jours", "BILAG 2004 A dans ≥ 1 organe (hors rénal et neurologique) ou B dans ≥ 2 organes", "SLEDAI ≥ 6", "Inclusion approuvée par un comité d'adjudication"],
+ "exclusion": ["Poussée aiguë menaçant un organe vital", "Grossesse, allaitement ou projet de grossesse dans les 3 mois suivant la dernière dose", "Hémoglobine ≤ 8 g/dL, plaquettes ≤ 70 G/L, leucocytes ≤ 2 G/L, neutrophiles ≤ 1,5 G/L, protéinurie > 3 g/j", "DFG < 50 mL/min/1,73 m²", "Comorbidités sévères (diabète, insuffisance cardiaque, BPCO, insuffisance rénale chronique)", "Cyclophosphamide dans les 3 mois, infections chroniques actives (VIH, hépatite B)"],
+ "bras": [{"nom": "Sirolimus", "traitement": "1 à 2 mg deux fois par jour (1 à 4 mg/j au total), titré à la tolérance après 3 mois en ouvert"}, {"nom": "Placebo", "traitement": "Placebo, deux fois par jour, après la phase ouverte"}],
+ "duree": "3 mois en ouvert, 12 mois randomisés, 1 mois de sevrage",
+ "critere": "Bénéfice thérapeutique à 12 mois (définition précise non précisée)"
+}

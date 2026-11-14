@@ -1,0 +1,14 @@
+{
+ "h": "5efa0e21d2e5",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 LUCAR-G79D dans le lupus et les myopathies inflammatoires réfractaires",
+ "question": "Le CAR-T LUCAR-G79D est-il sûr et actif dans le lupus et les myopathies inflammatoires en rechute ou réfractaires ?",
+ "contexte": "Le lupus systémique et les myopathies inflammatoires idiopathiques (dermatomyosite, syndrome des antisynthétases, myopathies nécrosantes) peuvent résister aux corticoïdes, aux immunosuppresseurs et au rituximab. Les CAR-T anti-CD19 autologues ont induit des rémissions cliniques et sérologiques sans traitement de fond dans des séries de cas et de petites cohortes.\n\nCes données restent préliminaires, avec peu de produits comparés et un recul limité. LUCAR-G79D est un produit CAR-T développé par Legend Biotech (Nanjing). L'étude est une phase 1 d'escalade de dose, à bras unique et en ouvert, menée sur investigateur.\n\nAprès dépistage et lymphodéplétion, les patients reçoivent une perfusion de LUCAR-G79D. L'étude évalue la tolérance, la pharmacocinétique (expansion cellulaire) et l'efficacité préliminaire, avec détermination d'un schéma posologique recommandé.",
+ "interet": "Elle contribuera à définir la dose et le profil de sécurité d'un nouveau CAR-T dans deux maladies auto-immunes. Les résultats ne seront pas transposables à la pratique avant des études plus larges.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'un lupus ou d'une myopathie inflammatoire en rechute ou réfractaire.",
+ "inclusion": ["Âge de 18 à 70 ans, consentement écrit", "Fonctions d'organe adéquates", "Expression de CD19 positive", "Lupus diagnostiqué ≥ 6 mois, avec ANA, anti-ADN natif ou anti-Sm positifs, en rechute ou réfractaire", "Myopathie inflammatoire avec auto-anticorps spécifiques ou associés positifs, en rechute ou réfractaire"],
+ "exclusion": ["Infection active (hépatite, tuberculose)", "Autre maladie auto-immune", "Maladie sous-jacente grave (tumeur, diabète non contrôlé)", "Grossesse ou allaitement", "Antécédent de greffe d'organe majeur"],
+ "bras": [{"nom": "LUCAR-G79D", "traitement": "CAR-T autologue en perfusion unique après lymphodéplétion, à plusieurs niveaux de dose successifs"}],
+ "duree": "2 ans",
+ "critere": "Événements indésirables, toxicité limitante et paramètres pharmacocinétiques (Cmax, Tmax, ASC), jusqu'à 2 ans après la perfusion"
+}

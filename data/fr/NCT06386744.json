@@ -1,0 +1,28 @@
+{
+ "h": "6682adbb73d4r",
+ "date": "2026-11-14",
+ "titre": "Dusquetide (SGX945) dans les poussées d'aphtose de la maladie de Behçet",
+ "question": "Le dusquetide, régulateur de l'immunité innée, réduit-il le nombre d'ulcères buccaux et génitaux dans la maladie de Behçet ?",
+ "contexte": "La maladie de Behçet est une maladie auto-inflammatoire dont l'aphtose buccale et génitale récidivante est la manifestation la plus fréquente. Les traitements (colchicine, aprémilast, immunosuppresseurs, anti-TNF) sont parfois insuffisants ou mal tolérés, d'où un besoin d'options pour les poussées.\n\nLe dusquetide (SGX945) est un peptide de régulation de l'immunité innée, qui module la réponse inflammatoire en se liant à une protéine adaptatrice (p62) et sans immunosuppression marquée. Il est développé par Soligenix.\n\nCette étude de phase 2, ouverte et sans comparateur, administre le dusquetide en perfusion deux fois par semaine pendant 4 semaines (8 perfusions), avec 4 semaines de suivi. Elle a inclus 8 patients.",
+ "interet": "L'étude est exploratoire et sans groupe contrôle. Elle documente la tolérance et un signal d'efficacité préliminaire sur l'aphtose avant un éventuel essai contrôlé.",
+ "profil": "Des adultes atteints de maladie de Behçet avec ulcères buccaux ou génitaux actifs.",
+ "inclusion": [
+  "Maladie de Behçet selon les critères de l'International Study Group",
+  "Au moins 2 ulcères buccaux et/ou 1 ulcère génital le jour de l'inclusion",
+  "Consentement écrit, respect du protocole",
+  "Femmes non enceintes ni allaitantes, test de grossesse avant et à la fin du traitement"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement, contraception efficace refusée",
+  "Maladie rénale, hépatique, hématologique ou immunologique significative",
+  "Médicament expérimental dans les 4 semaines",
+  "Immunomodulateurs récents (sauf colchicine) : délais précisés pour azathioprine, ciclosporine, méthotrexate, thalidomide, dapsone et biothérapies",
+  "Corticoïdes oraux ou topiques non arrêtés 3 jours avant l'inclusion"
+ ],
+ "bras": [
+  { "nom": "Dusquetide (SGX945)", "traitement": "Perfusion deux fois par semaine pendant 4 semaines (8 perfusions), en ouvert" }
+ ],
+ "duree": "4 semaines de traitement, puis 4 semaines de suivi",
+ "critere": "Nombre d'ulcères buccaux et génitaux à 4 semaines",
+ "resultats": "Chez les 8 patients traités, le nombre moyen d'ulcères buccaux passe de 2,9 à l'inclusion (IC 95 % 2 à 5) à 1,6 en fin de traitement (IC 95 % -0,4 à 3,6). Aucun patient n'avait d'ulcère génital à l'inclusion ni en fin de traitement, ce critère n'est donc pas interprétable. Aucun événement indésirable grave ni décès n'a été rapporté. L'étude est ouverte, sans comparateur, avec un effectif très faible : aucune conclusion d'efficacité n'est possible."
+}

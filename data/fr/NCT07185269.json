@@ -1,0 +1,35 @@
+{
+ "h": "390394c0e3e6",
+ "date": "2026-11-14",
+ "titre": "Produit 626 versus placebo dans le lupus actif sous traitement standard : phase 1/2",
+ "question": "Le produit 626, ajouté au traitement standard, améliore-t-il le lupus actif par rapport au placebo ?",
+ "contexte": "Malgré les avancées thérapeutiques, de nombreux patients lupiques gardent une maladie active, des poussées, une intolérance aux traitements standards et des dommages d'organes. Les options validées restent limitées : hydroxychloroquine, immunosuppresseurs, bélimumab, anifrolumab, voclosporine dans la néphrite.\n\nLe registre n'indique pas la nature du produit « 626 », développé par Sunshine Guojian Pharmaceutical (Shanghai). L'essai de phase 1/2 est randomisé en double aveugle et vise à montrer l'efficacité et la tolérance du 626 ajouté au traitement standard par rapport au placebo avec traitement standard. Il inclut 198 adultes de 18 à 70 ans (40 à 90 kg) avec un lupus diagnostiqué depuis ≥ 6 mois, ANA ≥ 1:80 ou anti-ADN natif positif, SLEDAI-2K ≥ 6 avec score clinique ≥ 4, sous au moins un traitement standard (corticoïdes oraux, antipaludéen ou immunosuppresseur).",
+ "interet": "L'étude fournira un premier signal d'efficacité d'un nouveau traitement du lupus, avec un comparateur placebo. Le mécanisme n'étant pas précisé, son intérêt réel reste à établir.",
+ "profil": "Des adultes de 18 à 70 ans avec un lupus actif malgré le traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, poids de 40 à 90 kg",
+  "Lupus diagnostiqué depuis ≥ 6 mois, selon les critères EULAR/ACR 2019",
+  "ANA ≥ 1:80 ou anti-ADN natif positif",
+  "SLEDAI-2K ≥ 6 avec SLEDAI clinique ≥ 4 au dépistage et à l'inclusion",
+  "Au moins un traitement standard en cours : corticoïdes oraux, antipaludéen et/ou immunosuppresseur",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Connectivite mixte ou syndrome de chevauchement lupus-sclérodermie",
+  "Affection médicale ou psychiatrique (dont lupus neuropsychiatrique) compromettant la participation",
+  "Hépatite B, hépatite C ou VIH active",
+  "Antécédent de cancer"
+ ],
+ "bras": [
+  {
+   "nom": "Produit 626 + traitement standard",
+   "traitement": "Produit 626 en plus du traitement standard"
+  },
+  {
+   "nom": "Placebo + traitement standard",
+   "traitement": "Placebo en plus du traitement standard"
+  }
+ ],
+ "duree": "Non précisé",
+ "critere": "Non précisé dans l'extrait consulté du registre"
+}

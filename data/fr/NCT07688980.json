@@ -1,0 +1,14 @@
+{
+ "h": "28cb6cf84575",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab sous-cutané ou intraveineux dans le lupus : pharmacocinétique et tolérance",
+ "question": "L'anifrolumab sous-cutané (stylo auto-injecteur) atteint-il des concentrations sériques comparables à la voie intraveineuse, avec une tolérance acceptable ?",
+ "contexte": "L'anifrolumab est un anticorps dirigé contre le récepteur de l'interféron de type I, approuvé en perfusion intraveineuse mensuelle dans le lupus systémique actif de l'adulte sous traitement standard. Une forme sous-cutanée faciliterait l'administration en dehors de l'hôpital de jour.\n\nCet essai de phase 1 ouvert, randomisé et multicentrique d'AstraZeneca compare l'anifrolumab sous-cutané, administré par auto-injecteur (AI), à la perfusion intraveineuse pendant 5 semaines (partie A). Une partie B optionnelle de 47 semaines permet de poursuivre en sous-cutané avec une seringue préremplie à accessoires (aPFS). Le suivi de sécurité dure 12 semaines après la dernière dose.\n\nLes patients (18 à 70 ans) ont un lupus de l'adulte diagnostiqué depuis au moins 24 semaines, avec un SLEDAI-2K clinique ≥ 4, des ANA positifs et un traitement de fond stable. Les atteintes neuropsychiatriques ou rénales sévères actives sont exclues. Le critère principal est la concentration sérique d'anifrolumab jusqu'à la semaine 4, avec une analyse de la pharmacodynamie et de la tolérance.",
+ "interet": "L'étude vise à documenter l'exposition à l'anifrolumab par voie sous-cutanée, étape préalable à une éventuelle mise à disposition de cette voie d'administration. Elle ne compare pas l'efficacité clinique.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif sous traitement de fond stable.",
+ "inclusion": ["Lupus de l'adulte (critères EULAR/ACR 2019) depuis au moins 24 semaines", "SLEDAI-2K clinique ≥ 4 au dépistage", "ANA positifs au dépistage", "Traitement de fond stable : corticoïdes oraux, antipaludéens et/ou immunosuppresseurs", "Âge de 18 à 70 ans"],
+ "exclusion": ["Lupus neuropsychiatrique sévère actif ou instable", "Atteinte rénale lupique sévère active", "Déficit immunitaire primitif, splénectomie, VIH, hépatite B ou C", "Zona sévère ou infection opportuniste récente nécessitant une hospitalisation", "Antécédent de cancer (hors exceptions limitées)"],
+ "bras": [{"nom": "Partie A : sous-cutané", "traitement": "Anifrolumab sous-cutané par auto-injecteur ; dose non précisée"}, {"nom": "Partie A : intraveineux", "traitement": "Anifrolumab en perfusion intraveineuse"}, {"nom": "Partie B (optionnelle)", "traitement": "Anifrolumab sous-cutané par seringue préremplie, jusqu'à 47 semaines"}],
+ "duree": "Environ 5 semaines (partie A), jusqu'à 52 semaines avec la partie B, plus 12 semaines de suivi",
+ "critere": "Concentrations sériques d'anifrolumab jusqu'à la semaine 4"
+}

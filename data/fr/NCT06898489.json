@@ -1,0 +1,32 @@
+{
+ "h": "704b1d80b059",
+ "date": "2026-11-14",
+ "titre": "Musicothérapie Yu dans le lupus : cohorte prospective",
+ "question": "La musicothérapie traditionnelle chinoise (ton Yu) améliore-t-elle le bien-être psychique et la qualité de vie de patients lupiques sous traitement standard ?",
+ "contexte": "Le lupus systémique s'accompagne fréquemment d'anxiété, de dépression et d'altération de la qualité de vie, indépendamment de l'activité de la maladie. Les approches complémentaires, dont la musicothérapie, sont de plus en plus utilisées comme soins de support, mais les preuves restent limitées.\n\nLa thérapie des cinq tons de la médecine traditionnelle chinoise attribue à chaque ton musical un effet sur un système d'organes ; le ton Yu serait associé au rein. Cette étude observationnelle prospective, promue par Yijun Luo, suit 160 adultes lupiques selon qu'ils reçoivent ou non un programme structuré d'écoute de musique Yu en plus du traitement médicamenteux. Les patients remplissent chaque mois, pendant deux ans, des questionnaires en ligne sur la détresse psychologique, la qualité de vie et l'observance. Le critère principal enregistré est le score SLEDAI à 12 semaines. L'absence de randomisation expose aux biais de sélection, et les résultats devront être interprétés avec prudence.",
+ "interet": "Cette étude pourra documenter un éventuel bénéfice psychologique d'une intervention de soins de support. Elle ne peut pas en prouver la causalité.",
+ "profil": "Des adultes lupiques selon les critères ACR/EULAR 2019, avec ou sans musicothérapie Yu.",
+ "inclusion": [
+  "Critères de classification ACR/EULAR 2019 du LES",
+  "Âge ≥ 18 ans",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Atteinte d'organe sévère (insuffisance rénale ou cardiaque)",
+  "Trouble psychiatrique",
+  "Déficit auditif ou trouble de l'audition",
+  "Incapacité à comprendre ou remplir les questionnaires (troubles cognitifs, barrière de langue)"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe témoin",
+   "traitement": "Traitement médicamenteux conventionnel seul"
+  },
+  {
+   "nom": "Groupe musique Yu",
+   "traitement": "Traitement conventionnel plus programme structuré d'écoute de musique Yu"
+  }
+ ],
+ "duree": "2 ans de suivi (questionnaires mensuels)",
+ "critere": "Score SLEDAI entre l'inclusion et 12 semaines"
+}

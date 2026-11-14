@@ -1,0 +1,40 @@
+{
+ "h": "5172628d4f21",
+ "date": "2026-11-14",
+ "titre": "Quinacrine versus placebo dans le lupus cutané",
+ "question": "La quinacrine améliore-t-elle l'atteinte cutanée du lupus cutané actif malgré les traitements conventionnels ?",
+ "contexte": "Le lupus cutané (CLE), sous-aigu (SCLE) ou discoïde (DLE), peut exister seul ou accompagner un lupus systémique. L'hydroxychloroquine est le traitement de fond de référence, mais une partie des patients ne répond pas suffisamment, notamment les fumeurs, ou ne tolère pas le traitement. Les options ensuite incluent le méthotrexate, le thalidomide ou le bélimumab, avec des données limitées.\n\nLa quinacrine, antipaludique utilisé depuis les années 1930, est prescrite hors AMM, souvent en association à l'hydroxychloroquine, devant des observations de bénéfice cutané. Les données contrôlées restent rares. Cette étude de phase 2, randomisée contre placebo, est promue par le Dr Victoria Werth (Penn) et inclut environ 24 adultes ayant un CLE actif avec CLASI-A ≥ 8 malgré un essai suffisant de traitements conventionnels.\n\nLa quinacrine 100 mg/j est comparée au placebo pendant 12 semaines. Une extension ouverte de 12 semaines est prévue.",
+ "interet": "Elle pourrait établir un niveau de preuve contrôlé pour un traitement déjà utilisé hors AMM dans le lupus cutané résistant. Le petit effectif et la durée courte appellent une confirmation.",
+ "profil": "Des adultes ayant un lupus cutané subaigu ou discoïde actif malgré les traitements conventionnels.",
+ "inclusion": [
+  "Âge ≥ 18 ans, consentement écrit",
+  "LECS ou LED confirmé histologiquement, avec ou sans atteinte systémique",
+  "CLASI-A ≥ 8 au dépistage et à la randomisation",
+  "Maladie active malgré un essai suffisant de traitements conventionnels (dont corticoïdes topiques)",
+  "Capacité à recevoir le traitement à domicile"
+ ],
+ "exclusion": [
+  "Affection ou anomalie biologique cliniquement significative jugée gênante par l'investigateur",
+  "Saignée ≥ 500 ml dans les 30 jours, transfusion dans les 60 jours",
+  "Autre produit expérimental dans les 30 jours ou 5 demi-vies",
+  "Primaquine ou substrats du CYP2D6",
+  "Inhibiteurs modérés ou forts du CYP3A4/5",
+  "Anomalies biologiques (transaminases, etc.) au dépistage"
+ ],
+ "bras": [
+  {
+   "nom": "Quinacrine",
+   "traitement": "100 mg par jour pendant 12 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo quotidien pendant 12 semaines"
+  },
+  {
+   "nom": "Extension ouverte",
+   "traitement": "Quinacrine 100 mg par jour pendant 12 semaines"
+  }
+ ],
+ "duree": "12 semaines, puis extension ouverte de 12 semaines",
+ "critere": "Variation du score CLASI-A (activité) à 12 semaines"
+}

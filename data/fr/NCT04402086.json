@@ -1,0 +1,14 @@
+{
+ "h": "35f777ac2e9a",
+ "date": "2026-11-14",
+ "titre": "Registre et biobanque de patients rhumatologiques de Yale",
+ "question": "Quels biomarqueurs et déterminants des maladies rhumatologiques peut-on identifier grâce à une biobanque cliniquement caractérisée ?",
+ "contexte": "Les maladies rhumatologiques auto-immunes (polyarthrite rhumatoïde, lupus, spondyloarthrites, vascularites, sclérodermie, myosites, Sjögren, sarcoïdose) partagent des mécanismes mal compris et peuvent évoluer très différemment d'un patient à l'autre. Les comparaisons entre maladies sont limitées par le manque d'échantillons biologiques bien annotés.\n\nCe registre de Yale University recueille chez des patients suivis dans ses consultations de rhumatologie, et chez des volontaires sains, des échantillons de sang, salive, urine, selles et tissus, avec des biopsies cutanées pour certains. Les données cliniques sont associées aux échantillons. L'objectif est de permettre des analyses comparatives entre maladies et des projets de recherche cliniques, fondamentaux et translationnels. Il s'agit d'une ressource de recherche, sans intervention thérapeutique, avec un recrutement prévu de 5 000 participants jusqu'en 2030.",
+ "interet": "La biobanque alimentera des études sur la pathogenèse et les marqueurs de réponse dans de nombreuses maladies rhumatologiques. Elle n'a pas de conséquence directe sur la pratique clinique.",
+ "profil": "Des adultes suivis pour une maladie rhumatologique auto-immune à Yale, et des volontaires sains.",
+ "inclusion": ["Âge ≥ 18 ans avec maladie rhumatologique auto-immune (PR, LES, SpA, vascularites, sclérodermie, myosites, Sjögren, sarcoïdose, etc.)", "Suivi dans les consultations de rhumatologie de Yale", "Volontaires sains : ≥ 18 ans, sans maladie rhumatologique ni affection cutanée chronique, IMC normal"],
+ "exclusion": ["Incapacité à donner un consentement", "Allergie à la lidocaïne ou à l'épinéphrine, ou cicatrisation altérée (pour la biopsie cutanée)", "Grossesse en cours : biopsie cutanée après l'accouchement", "Volontaires sains : grossesse ou allaitement, sauf objectif d'étude spécifique"],
+ "bras": [{"nom": "Biobanque", "traitement": "Participants avec maladie rhumatologique ou volontaires sains donnant des échantillons (sang, salive, urine, selles, tissu)"}],
+ "duree": "Recueil jusqu'en 2030, critère évalué sur 10 ans",
+ "critere": "Corrélation des évolutions cliniques et des biomarqueurs des maladies rhumatologiques, sur 10 ans"
+}

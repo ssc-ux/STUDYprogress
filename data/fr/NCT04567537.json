@@ -1,0 +1,29 @@
+{
+ "h": "15941766eb25r",
+ "date": "2026-11-14",
+ "titre": "Traitement par laser des cicatrices hypertrophiques et de la sclérodermie cutanée",
+ "question": "Un traitement par laser améliore-t-il l'aspect clinique et la structure du collagène dans les cicatrices hypertrophiques et les lésions de sclérodermie ?",
+ "contexte": "Les cicatrices hypertrophiques et la sclérodermie cutanée sont deux troubles du métabolisme du collagène, avec un épaississement et une rétraction du derme. Dans la sclérodermie, les lésions cutanées sont souvent résistantes aux traitements systémiques et sont une source de gêne fonctionnelle et esthétique.\n\nLes lasers (notamment fractionnés) sont utilisés pour remodeler le collagène des cicatrices, mais leurs effets cliniques, microscopiques et moléculaires dans la sclérodermie sont peu documentés.\n\nCette étude prospective de cohorte, promue par le Massachusetts General Hospital, devait inclure 20 patients (10 avec cicatrice hypertrophique, 10 avec sclérodermie). La lésion entière est traitée par laser ; l'étude a été arrêtée prématurément avec 6 patients inclus.",
+ "interet": "L'étude est exploratoire, sur un très petit effectif. Elle peut orienter vers des travaux plus larges sur le remodelage du collagène par laser dans la sclérodermie.",
+ "profil": "Des adultes porteurs d'une cicatrice hypertrophique ou d'une lésion cutanée de sclérodermie extragénitale.",
+ "inclusion": [
+  "Consentement écrit et respect du protocole",
+  "Bon état général, âge ≥ 18 ans, tout phototype",
+  "Lecture et compréhension de l'anglais",
+  "Cicatrice hypertrophique extragénitale (≥ 4 cm ou deux cicatrices ≥ 4 cm²) ou lésion de sclérodermie extragénitale de taille comparable"
+ ],
+ "exclusion": [
+  "Participation à un autre essai de médicament ou de dispositif dans les 30 jours",
+  "Grossesse ou allaitement",
+  "Traitement de la lésion (corticoïdes intralésionnels, exérèse) dans les 3 mois",
+  "Allergie à l'anesthésie locale ou topique",
+  "Anti-inflammatoires à forte dose (aspirine > 81 mg/j, ibuprofène, corticoïdes) ou immunosuppresseurs réguliers"
+ ],
+ "bras": [
+  { "nom": "Cicatrices", "traitement": "Laser sur la totalité de la cicatrice hypertrophique" },
+  { "nom": "Sclérodermie", "traitement": "Laser sur la totalité de la lésion" }
+ ],
+ "duree": "4 mois pour le critère principal",
+ "critere": "Variation du score de la Vancouver Scar Scale après traitement, à 4 mois",
+ "resultats": "L'étude a été arrêtée prématurément ; les résultats portent sur 4 patients du groupe cicatrices hypertrophiques. La variation individuelle du score de Vancouver à 4 mois était de -2, -1, -1 et -3 points, soit une amélioration chez chaque patient. Aucun résultat n'est rapporté pour la sclérodermie. Aucun événement indésirable grave n'a été noté chez les 6 patients. L'effectif est trop faible pour conclure."
+}

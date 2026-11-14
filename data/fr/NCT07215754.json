@@ -1,0 +1,14 @@
+{
+ "h": "2c856f1b377f",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab dans le lupus systémique en vie réelle : étude italienne multicentrique",
+ "question": "Quelles sont l'efficacité et la tolérance à long terme de l'anifrolumab chez des patients italiens avec lupus systémique actif ?",
+ "contexte": "Les interférons de type I jouent un rôle central dans la physiopathologie du lupus systémique. L'anifrolumab, anticorps dirigé contre le récepteur de l'interféron de type I, a montré dans les essais de phase 2 et 3 une efficacité et une tolérance chez des patients avec lupus modéré à sévère, et dispose d'une AMM dans cette indication.\n\nLes essais ont toutefois exclu des profils fréquents en pratique, par exemple les atteintes rénales ou neuropsychiatriques sévères, et leur suivi reste limité. Cette étude observationnelle multicentrique, d'initiative d'investigateurs et promue par l'université de Pise, suit une cohorte de patients ayant débuté l'anifrolumab (y compris en usage compassionnel) pendant 60 mois. Elle évalue la rémission DORIS et la faible activité (LLDAS), les poussées, l'accumulation de dommages (SLICC/DI), l'épargne cortisonique, les scores rapportés par les patients, la rétention du traitement et la survenue d'infections (notamment zona), d'événements cardiovasculaires et de cancers. Une analyse intermédiaire est prévue après 50 patients à 24 semaines.",
+ "interet": "Cette étude pourrait documenter l'effet de l'anifrolumab en pratique réelle, y compris sur l'épargne cortisonique et les dommages d'organe. Elle pourrait aussi identifier des facteurs prédictifs de réponse.",
+ "profil": "Des adultes avec un lupus systémique actif, candidats ou ayant débuté l'anifrolumab.",
+ "inclusion": ["Lupus systémique selon les critères de classification (1997, 2012 ou 2019)", "Maladie active avec indication à l'anifrolumab, y compris usage compassionnel", "Traitement par anifrolumab débuté", "Consentement éclairé écrit"],
+ "exclusion": ["Âge < 18 ans", "Absence de consentement du patient"],
+ "bras": [{ "nom": "Cohorte traitée par anifrolumab", "traitement": "Anifrolumab selon la pratique clinique, suivi 60 mois" }],
+ "duree": "60 mois par patient",
+ "critere": "Pourcentage de patients en rémission (DORIS) et en faible activité (LLDAS) à 6, 12, 24, 36, 48 et 60 mois"
+}

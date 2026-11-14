@@ -1,0 +1,36 @@
+{
+ "h": "306f8d6964f4",
+ "date": "2026-11-14",
+ "titre": "BI 3000202 à différentes doses dans le lupus érythémateux systémique (phase 2)",
+ "question": "Quelle dose de BI 3000202 améliore le plus la réponse clinique SRI-4 à 32 semaines chez des adultes atteints de lupus, par rapport au placebo ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune hétérogène, touchant surtout les femmes jeunes, avec des atteintes cutanées, articulaires, rénales et hématologiques. Le traitement de fond associe l'hydroxychloroquine, les corticoïdes et des immunosuppresseurs, avec en seconde ligne le belimumab ou l'anifrolumab. Beaucoup de patients restent actifs ou dépendants des corticoïdes, ce qui justifie de nouvelles cibles thérapeutiques.\n\nBI 3000202 est un comprimé oral expérimental de Boehringer Ingelheim ; son mécanisme n'est pas précisé dans le registre. Cet essai de phase 2, randomisé en double aveugle, répartit 405 adultes en cinq groupes (quatre doses de BI 3000202 ou placebo) pendant un an, en plus du traitement habituel du lupus. Il vise à identifier la dose optimale. Le critère principal est la réponse SRI-4 à la semaine 32, un composite validé de l'activité du lupus.",
+ "interet": "Il établira la relation dose-réponse d'une molécule orale dans le lupus, étape nécessaire avant une phase 3.",
+ "profil": "Des adultes de 18 à 74 ans atteints de lupus systémique actif malgré un traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à < 75 ans",
+  "LES confirmé (critères EULAR/ACR) depuis au moins 24 semaines",
+  "AAN ≥ 1:80, anti-ADN natif ou anti-Sm positif",
+  "SLEDAI-2K ≥ 6 dont score clinique ≥ 4",
+  "Au moins un BILAG A ou un BILAG B",
+  "Traitement de fond stable : au plus 1 immunosuppresseur et/ou 1 antipaludéen, et/ou corticoïdes ≤ 30 mg/j de prednisone"
+ ],
+ "exclusion": [
+  "Lupus d'origine médicamenteuse",
+  "Sclérodermie ou autre connectivite gênant l'évaluation",
+  "Manifestations neuropsychiatriques actives ou instables (BILAG A)",
+  "Néphrite lupique pouvant nécessiter un changement de traitement, créatinine > 2 fois la normale ou rapport protéinurie/créatininurie > 3 mg/mg",
+  "Corticoïdes oraux > 30 mg/j de prednisone au dépistage"
+ ],
+ "bras": [
+  {
+   "nom": "BI 3000202, doses 1 à 4",
+   "traitement": "Quatre bras de doses croissantes de BI 3000202 par voie orale ; doses non précisées"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Comprimés identiques sans principe actif, en plus du traitement habituel"
+  }
+ ],
+ "duree": "Un peu plus d'un an (traitement de 1 an)",
+ "critere": "Obtention d'une réponse SRI-4 (Systemic Lupus Erythematosus Responder Index) à la semaine 32"
+}

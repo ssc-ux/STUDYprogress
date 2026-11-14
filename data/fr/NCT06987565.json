@@ -1,0 +1,37 @@
+{
+ "h": "d981a7d1bfa0",
+ "date": "2026-11-14",
+ "titre": "Stimulation transcutanée du nerf vague contre placebo (sham) pour la douleur et la fatigue du lupus",
+ "question": "La stimulation transcutanée du nerf vague soulage-t-elle la douleur musculosquelettique de patients lupiques ?",
+ "contexte": "Les douleurs articulaires et musculaires et la fatigue touchent jusqu'à 95 % des patients lupiques et dégradent la qualité de vie, souvent indépendamment de l'activité inflammatoire. Les traitements disponibles sont partiellement efficaces et exposent à des effets secondaires, ce qui laisse un besoin non couvert.\n\nLa stimulation du nerf vague exerce un effet de régulation du système immunitaire. Elle peut être réalisée sans chirurgie, par la peau du cou ou de l'oreille (stimulation transcutanée, tcVNS/taVNS). Les investigateurs de Northwell Health avaient mené un petit essai randomisé contre sham chez des patients lupiques, avec un bénéfice net rapporté sur la douleur et la fatigue. Ils proposent ici un essai de phase 2 randomisé en quadruple aveugle de 18 patients, comparant 28 jours de stimulation du nerf vague gauche (5 minutes par jour) à une stimulation factice. Le critère principal est la variation de la douleur musculosquelettique sur 28 jours.",
+ "interet": "Si l'effet se confirme, la stimulation du nerf vague serait un traitement non médicamenteux de la douleur et de la fatigue du lupus. L'effectif est faible.",
+ "profil": "Des adultes lupiques ayant une douleur musculosquelettique (EVA ≥ 4/10) et une atteinte musculosquelettique BILAG au moins C.",
+ "inclusion": [
+  "Lupus selon critères ACR ou SLICC",
+  "Douleur musculosquelettique ≥ 4 sur une EVA de 10 cm",
+  "BILAG-2004 musculosquelettique ≥ C",
+  "Corticoïdes ≤ 10 mg/j stables depuis ≥ 14 jours",
+  "Immunosuppresseurs stables depuis ≥ 28 jours, AINS stables depuis ≥ 7 jours",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Début récent d'un immunosuppresseur ou antipaludéen (3 mois), d'anifrolumab (3 mois) ou de bélimumab (6 mois), ou cyclophosphamide dans les 2 mois",
+  "Syndrome des antiphospholipides, fibromyalgie",
+  "Traitement anticholinergique",
+  "Dispositif électronique implanté (pacemaker, stimulateur, implant cochléaire)",
+  "Tabagisme ou consommation de nicotine actuel",
+  "Prothèse articulaire récente, infiltration intra-articulaire récente, autre maladie articulaire inflammatoire"
+ ],
+ "bras": [
+  {
+   "nom": "Stimulation du nerf vague",
+   "traitement": "Stimulation transcutanée du nerf vague gauche, 5 minutes par jour pendant 28 jours"
+  },
+  {
+   "nom": "Stimulation factice",
+   "traitement": "Stimulation sham du nerf vague gauche, 5 minutes par jour pendant 28 jours"
+  }
+ ],
+ "duree": "28 jours",
+ "critere": "Variation de la douleur musculosquelettique par rapport à l'inclusion à 28 jours"
+}

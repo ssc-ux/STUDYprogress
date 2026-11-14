@@ -1,0 +1,31 @@
+{
+ "h": "1d4f627eda00r",
+ "date": "2026-11-14",
+ "titre": "Enpatoran, inhibiteur oral de TLR7/8, dans le lupus systémique et cutané",
+ "question": "L'enpatoran améliore-t-il l'atteinte cutanée (cohorte A) et l'activité globale (cohorte B) du lupus, et quelle dose retenir ?",
+ "contexte": "Le lupus érythémateux systémique (LES) et le lupus cutané (LEC, subaigu ou discoïde) restent difficiles à traiter. Les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies ne contrôlent qu'une partie des patients, et les formes cutanées résistent souvent.\n\nLes récepteurs Toll-like 7 et 8 reconnaissent l'ARN endogène et entretiennent l'activation des cellules dendritiques plasmacytoïdes, la production d'interféron et d'auto-anticorps. L'enpatoran (M5049) est un inhibiteur oral de TLR7 et TLR8, développé par EMD Serono.\n\nL'étude WILLOW est un essai de phase 2 « panier » randomisé en double aveugle contre placebo, avec recherche de dose (25, 50 et 100 mg). La cohorte A inclut le lupus cutané ou le LES à prédominance cutanée ; la cohorte B inclut le LES actif. Le traitement dure 24 semaines.",
+ "interet": "Les résultats orientent le choix de la dose et la décision d'une phase 3. Ils situent l'inhibition orale de TLR7/8 parmi les stratégies du lupus, avec l'intérêt d'une voie orale.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus cutané ou de LES actif, sous traitement de fond stable.",
+ "inclusion": [
+  "Cohorte A : lupus cutané (subaigu ou discoïde) ou LES à prédominance cutanée avec CLASI-A ≥ 8",
+  "Cohorte B : LES actif défini par le BILAG-2004 et le SELENA-SLEDAI (≥ 6 au dépistage)",
+  "Traitement de fond stable : immunomodulateur ou immunosuppresseur, corticoïdes oraux ou topiques",
+  "Âge de 18 à 75 ans"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune ou rhumatismale que le LES ou le LEC",
+  "Autre maladie dermatologique",
+  "Maladie non contrôlée : événement cardiovasculaire significatif, néphrite lupique active, atteinte neurologique active",
+  "Infection active significative, VIH, hépatite B ou C",
+  "Antécédent de cancer ou de crises convulsives non contrôlées"
+ ],
+ "bras": [
+  { "nom": "Cohorte A : placebo", "traitement": "Placebo oral" },
+  { "nom": "Cohorte A : enpatoran", "traitement": "25, 50 ou 100 mg par voie orale" },
+  { "nom": "Cohorte B : placebo", "traitement": "Placebo oral" },
+  { "nom": "Cohorte B : enpatoran", "traitement": "25, 50 ou 100 mg par voie orale" }
+ ],
+ "duree": "24 semaines de traitement, 33 semaines au total",
+ "critere": "Cohorte A : variation du CLASI-A à la semaine 16 ; cohorte B : réponse BICLA à la semaine 24",
+ "resultats": "Cohorte A : la variation moyenne du CLASI-A à la semaine 16 était de -5,0 (écart type 3,94 ; n = 23) sous placebo, contre -9,0 (4,60 ; n = 22) à 25 mg, -10,2 (6,77 ; n = 24) à 50 mg et -9,7 (5,84 ; n = 25) à 100 mg. Cohorte B : le nombre de patients en réponse BICLA à la semaine 24 était de 37 sur 95 sous placebo, 41 sur 71 à 25 mg, 36 sur 74 à 50 mg et 56 sur 114 à 100 mg. Aucune analyse statistique comparative n'est rapportée dans le registre. Des événements indésirables graves ont été notés chez 1/26, 2/24, 0/26 et 1/26 patients (cohorte A : placebo, 25, 50 et 100 mg) et chez 3/95, 1/71, 3/74 et 5/114 patients (cohorte B : placebo, 25, 50 et 100 mg). Aucun décès n'a été rapporté."
+}

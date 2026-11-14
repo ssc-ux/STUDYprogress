@@ -1,0 +1,14 @@
+{
+ "h": "638bfef45e63",
+ "date": "2026-11-14",
+ "titre": "Dysfonction des glandes de Meibomius dans les rhumatismes inflammatoires",
+ "question": "Quelles sont la fréquence et la sévérité de la dysfonction des glandes de Meibomius et des atteintes de surface oculaire chez les patients avec une maladie rhumatismale auto-immune ?",
+ "contexte": "La sécheresse oculaire est fréquente dans les maladies auto-immunes, classiquement dans le syndrome de Sjögren, mais elle touche aussi la polyarthrite rhumatoïde, le lupus et les spondyloarthrites. Elle altère la qualité de vie et peut léser la cornée.\n\nLes glandes de Meibomius, situées dans les paupières, produisent la couche lipidique du film lacrymal qui limite l'évaporation. Une inflammation systémique pourrait les altérer et provoquer une sécheresse par hyperévaporation, mais cette atteinte est peu explorée en rhumatologie. Cette étude transversale de l'université d'Assiut (Égypte) examine une seule fois 120 patients (polyarthrite rhumatoïde, lupus, syndrome de Sjögren, spondylarthrite ankylosante, rhumatisme psoriasique) et 30 témoins sains. L'examen comprend le questionnaire OSDI, la méibographie infrarouge (Meiboscore), le temps de rupture lacrymal non invasif, la hauteur du ménisque lacrymal, la lampe à fente et la coloration à la fluorescéine. Les anomalies sont corrélées à l'activité de la maladie et aux marqueurs inflammatoires.",
+ "interet": "Cette étude pourrait justifier un dépistage de la dysfonction meibomienne chez les patients rhumatologiques. Elle pourrait aussi suggérer un lien avec l'activité de la maladie systémique.",
+ "profil": "Des adultes avec une polyarthrite rhumatoïde, un lupus, un syndrome de Sjögren, une spondylarthrite ankylosante ou un rhumatisme psoriasique, et des témoins sains.",
+ "inclusion": ["Âge ≥ 18 ans et consentement éclairé écrit", "Patients : diagnostic confirmé selon les critères de classification en vigueur de l'une des cinq maladies", "Témoins : appariés en âge et sexe, sans maladie auto-immune ni plainte oculaire"],
+ "exclusion": ["Collyres antiglaucomateux chroniques", "Chirurgie oculaire dans les 6 mois", "Infection oculaire active ou uvéite active", "Port de lentilles de contact non interrompu depuis 2 semaines", "Antécédent de brûlure chimique oculaire", "Grossesse ou allaitement, dossier rhumatologique ou biologique incomplet"],
+ "bras": [{ "nom": "Patients rhumatologiques (120)", "traitement": "Examen ophtalmologique standardisé unique" }, { "nom": "Témoins sains (30)", "traitement": "Même examen ophtalmologique standardisé" }],
+ "duree": "Une seule visite",
+ "critere": "Perte de glandes de Meibomius mesurée par le Meiboscore, à l'inclusion"
+}

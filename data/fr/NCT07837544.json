@@ -1,0 +1,14 @@
+{
+ "h": "611edd71ed30",
+ "date": "2026-11-14",
+ "titre": "Dysfonction diastolique et biomarqueurs inflammatoires dans la néphrite lupique en soins intensifs",
+ "question": "Les paramètres échographiques de dysfonction diastolique sont-ils corrélés aux biomarqueurs inflammatoires chez des patients lupiques en réanimation ?",
+ "contexte": "La néphrite lupique est une manifestation fréquente et sévère du lupus érythémateux systémique (LES), et reste une cause majeure d'insuffisance rénale chronique, terminale et de décès. Les patients lupiques ont un risque accru d'insuffisance cardiaque, davantage encore en cas de néphrite.\n\nL'inflammation systémique, la protéinurie, l'hypertension, la dyslipidémie, la dysfonction endothéliale et les dépôts de complexes immuns favorisent un remodelage myocardique et une insuffisance cardiaque à fonction systolique préservée. Cette étude transversale observationnelle de l'université d'Assiut (Égypte) inclut 90 participants : 30 témoins, 30 LES sans néphrite et 30 LES avec néphrite hospitalisés en soins intensifs. Une échocardiographie (E/A, e', E/e', volume atrial gauche indexé, FEVG) et des dosages inflammatoires (CRP, VS, rapport neutrophiles/lymphocytes, plaquettes/lymphocytes, indice d'inflammation immunitaire systémique) sont réalisés à l'admission.",
+ "interet": "L'étude pourrait montrer si des marqueurs inflammatoires simples aident à repérer précocement une atteinte cardiaque diastolique. Son design transversal ne permet pas d'établir de lien causal ni pronostique.",
+ "profil": "Des adultes lupiques avec ou sans néphrite hospitalisés en soins intensifs, et des témoins.",
+ "inclusion": ["Âge ≥ 18 ans", "LES selon critères EULAR/ACR 2019", "Néphrite lupique prouvée ou clinique, admise en soins intensifs, quelle que soit la cause", "Consentement à l'échocardiographie et aux prélèvements sanguins"],
+ "exclusion": ["Âge < 18 ans", "Cardiopathie primitive indépendante du LES (congénitale, valvulaire, ischémique, cardiomyopathie)", "Mauvaise fenêtre échographique", "Fibrillation atriale ou arythmie significative", "Insuffisance rénale terminale dialysée avant la maladie aiguë", "Cardiomyopathie septique ou choc septique actif"],
+ "bras": [{"nom": "Témoins", "traitement": "Sans LES ni néphrite lupique ; échocardiographie et bilan inflammatoire"}, {"nom": "LES sans néphrite lupique", "traitement": "Échocardiographie et bilan inflammatoire"}, {"nom": "LES avec néphrite lupique", "traitement": "Échocardiographie et bilan inflammatoire à l'admission en soins intensifs"}],
+ "duree": "Évaluation unique à l'admission",
+ "critere": "Corrélation entre paramètres échographiques diastoliques et biomarqueurs inflammatoires, à l'admission en soins intensifs"
+}

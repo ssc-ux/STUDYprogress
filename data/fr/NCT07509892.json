@@ -1,0 +1,35 @@
+{
+ "h": "cce73f2aa74f",
+ "date": "2026-11-14",
+ "titre": "TQH3906 oral à deux doses versus placebo dans le lupus actif : phase 2",
+ "question": "Le TQH3906 oral, à 16 mg ou 24 mg par jour, augmente-t-il la proportion de patients répondeurs SRI-4 à 32 semaines par rapport au placebo ?",
+ "contexte": "Le lupus à manifestations cutanées et articulaires actives reste souvent mal contrôlé par l'hydroxychloroquine, les immunosuppresseurs et les corticoïdes, qui exposent à une toxicité cumulée. Les biothérapies approuvées (bélimumab, anifrolumab) sont administrées par voie parentérale, d'où l'intérêt de traitements oraux ciblés.\n\nLe registre n'indique pas la cible du TQH3906, une capsule orale développée par Chia Tai Tianqing Pharmaceutical Group. Cet essai de phase 2 randomisé en quadruple aveugle inclut 198 adultes de 18 à 75 ans avec un lupus diagnostiqué depuis ≥ 24 semaines (critères EULAR/ACR 2019), ANA ≥ 1:80, anti-ADN natif ou anti-Sm positifs, SLEDAI-2K ≥ 8 avec un score clinique ≥ 4 et atteinte articulaire, cutanée ou vascularite. Les patients reçoivent 16 mg, 24 mg ou placebo une fois par jour pendant 48 semaines, sur fond de traitement stable (un seul immunosuppresseur, hydroxychloroquine ≤ 400 mg/j autorisée). Le critère principal est la réponse SRI-4 à 32 semaines.",
+ "interet": "L'étude précisera l'efficacité et la relation dose-réponse d'un nouveau traitement oral du lupus. Les résultats resteront de phase 2 et devront être confirmés.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus actif, séropositif, à manifestations articulaires ou cutanées, sous traitement de fond stable.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, consentement écrit",
+  "Lupus diagnostiqué depuis ≥ 24 semaines selon les critères EULAR/ACR 2019",
+  "ANA ≥ 1:80, anti-ADN natif positif ou anti-Sm positif",
+  "SLEDAI-2K ≥ 8 avec SLEDAI-2K clinique ≥ 4, avec atteinte articulaire, vascularite cutanée et/ou éruption",
+  "Traitement de fond stable (≥ 12 semaines dont ≥ 4 semaines à dose stable) : un seul immunosuppresseur, hydroxychloroquine ≤ 400 mg/j autorisée"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "TQH3906 16 mg",
+   "traitement": "16 mg par voie orale, une fois par jour, 48 semaines"
+  },
+  {
+   "nom": "TQH3906 24 mg",
+   "traitement": "24 mg par voie orale, une fois par jour, 48 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie orale, une fois par jour, 48 semaines"
+  }
+ ],
+ "duree": "48 semaines",
+ "critere": "Proportion de patients répondeurs SRI-4, de l'inclusion à la semaine 32"
+}

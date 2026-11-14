@@ -1,0 +1,24 @@
+{
+ "h": "200cc548baa6",
+ "date": "2026-11-14",
+ "titre": "Expression du TGF-β sur les biopsies rénales de néphrite lupique",
+ "question": "L'expression du TGF-β dans la biopsie rénale est-elle liée à la fibrose et aux indices d'activité et de chronicité de la néphrite lupique ?",
+ "contexte": "La néphrite lupique est une complication fréquente et sévère du lupus. La fibrose rénale en est la voie finale commune, après une agression immunitaire persistante, et conditionne le risque d'insuffisance rénale chronique.\n\nLe TGF-β est un acteur majeur de la fibrogenèse rénale, par l'activation des myofibroblastes et le dépôt de matrice extracellulaire. Son expression tissulaire pourrait refléter la fibrose et orienter le pronostic, mais les données dans la néphrite lupique restent limitées.\n\nCette étude observationnelle monocentrique de l'université Ain Shams (Égypte) prévoit environ 30 patients lupiques de 18 à 50 ans ayant une indication de biopsie rénale. L'expression du TGF-β est mesurée sur la biopsie et confrontée aux indices d'activité et de chronicité et à la fibrose. Il n'y a pas de comparateur.",
+ "interet": "L'étude pourrait renseigner la valeur du TGF-β tissulaire comme marqueur de fibrose dans la néphrite lupique. Son effectif limité en fait une étude exploratoire.",
+ "profil": "Des adultes de 18 à 50 ans atteints de lupus avec néphrite et indication de biopsie rénale.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR 2019 avec néphrite lupique",
+  "Âge de 18 à 50 ans"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatologique auto-immune ou vascularite",
+  "Grossesse",
+  "Chimiothérapie anticancéreuse en cours ou antérieure",
+  "Autre cause d'insuffisance rénale chronique ou aiguë"
+ ],
+ "bras": [
+  { "nom": "Patients atteints de néphrite lupique", "traitement": "Biopsie rénale lorsqu'elle est indiquée ; aucun traitement spécifique à l'étude" }
+ ],
+ "duree": "12 mois",
+ "critere": "Expression du TGF-β sur la biopsie rénale et lien avec la fibrose et les indices d'activité et de chronicité, sur 12 mois"
+}

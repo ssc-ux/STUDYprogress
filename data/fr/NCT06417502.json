@@ -1,0 +1,26 @@
+{
+ "h": "67cfa9bbdaae",
+ "date": "2026-11-14",
+ "titre": "Registre chinois des maladies rhumatologiques et immunologiques pédiatriques (CAPRID)",
+ "question": "Quelles sont les caractéristiques, les traitements et l'évolution des enfants chinois atteints de maladies rhumatologiques et immunologiques ?",
+ "contexte": "Les maladies rhumatologiques et immunologiques de l'enfant (connectivites, arthrites, vascularites, déficits immunitaires héréditaires, maladies auto-inflammatoires) sont rares, hétérogènes et souvent sévères. Les données de grande échelle sont rares, surtout en dehors des pays occidentaux, ce qui limite la connaissance de la présentation clinique, des complications et de l'évolution dans les populations asiatiques.\n\nL'Alliance chinoise des maladies rhumatologiques et immunologiques pédiatriques (CAPRID), fondée en 2022, a mis en place ce registre multicentrique longitudinal promu par le Peking Union Medical College Hospital. Il prévoit d'inclure jusqu'à 20 000 enfants de 18 ans ou moins, diagnostiqués et traités en Chine, pendant 10 ans. Il vise à décrire les phénotypes cliniques, les diagnostics, les complications, la tolérance des médicaments en vie réelle, l'efficacité thérapeutique, les formes critiques et le pronostic. Le critère enregistré est le nombre de patients inclus.",
+ "interet": "Ce registre fournira des données de vie réelle sur des maladies rares de l'enfant en Chine, utiles à la comparaison internationale. Il ne teste pas de traitement.",
+ "profil": "Des enfants et adolescents de 18 ans ou moins atteints de maladies rhumatologiques et immunologiques en Chine.",
+ "inclusion": [
+  "Âge ≤ 18 ans",
+  "Maladie rhumatologique ou immunologique (connectivites diffuses, arthrites, vascularites, déficits immunitaires héréditaires)",
+  "Diagnostic et traitement en Chine"
+ ],
+ "exclusion": [
+  "Refus de participation du patient ou de sa famille",
+  "Autres critères d'exclusion : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Registre CAPRID",
+   "traitement": "Cohorte observationnelle multicentrique, sans intervention imposée"
+  }
+ ],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Nombre de patients inclus, jusqu'à 10 ans"
+}

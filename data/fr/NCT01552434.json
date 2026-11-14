@@ -1,0 +1,34 @@
+{
+ "h": "a627ae80b83br",
+ "date": "2026-11-14",
+ "titre": "Bévacizumab et temsirolimus, avec cétuximab ou acide valproïque, dans les cancers avancés et maladies rares",
+ "question": "Quelles sont les doses maximales tolérables et la toxicité de l'association bévacizumab et temsirolimus, seule ou avec cétuximab ou acide valproïque ?",
+ "contexte": "Cette étude de phase 1 du MD Anderson Cancer Center s'adresse à des patients atteints de cancers avancés ou métastatiques en échec des traitements standards, et à des patients avec des maladies bénignes mais progressives et invalidantes : lymphangioléiomyomatose, neurofibromatose de type 2, maladie d'Erdheim-Chester et maladie de Castleman. Ces dernières intéressent la médecine interne.\n\nLe bévacizumab est un anticorps anti-VEGF. Le temsirolimus est un inhibiteur de mTOR, qui limite la voie PI3K/AKT/mTOR et l'augmentation de HIF-1α, mécanisme possible de résistance au bévacizumab. Le cétuximab est un anticorps anti-EGFR, et l'acide valproïque un inhibiteur d'histone désacétylases.\n\nL'étude est une escalade de dose non randomisée, avec trois groupes : bévacizumab, temsirolimus et cétuximab (groupe I) ; bévacizumab, temsirolimus et acide valproïque (groupe II) ; bévacizumab et temsirolimus (groupe III). L'objectif principal est la détermination des doses maximales tolérées (MTD) et des toxicités limitant la dose.",
+ "interet": "L'étude fournit des données de dose et de tolérance pour de futures phases 2. Pour la médecine interne, elle documente aussi l'activité potentielle dans des maladies rares comme Castleman ou Erdheim-Chester.",
+ "profil": "Des patients atteints de cancer avancé réfractaire ou de maladie bénigne progressive rare (LAM, neurofibromatose 2, Erdheim-Chester, Castleman).",
+ "inclusion": [
+  "Cancer avancé ou métastatique réfractaire, en rechute, ou sans traitement standard efficace",
+  "Ou maladie bénigne progressive (LAM, NF2, Erdheim-Chester, Castleman)",
+  "Au moins 4 semaines après radiothérapie, chimiothérapie ou anticorps ; 5 demi-vies après thérapie ciblée",
+  "ECOG ≤ 2, Karnofsky ≥ 60 %",
+  "Neutrophiles ≥ 1000/mL, plaquettes ≥ 50 000/mL, créatinine ≤ 3 N, bilirubine ≤ 3, ASAT/ALAT ≤ 5 N",
+  "Cholestérol à jeun ≤ 350 mg/dL, triglycérides ≤ 400 mg/dL"
+ ],
+ "exclusion": [
+  "Saignement significatif inexpliqué dans les 28 jours",
+  "HTA non contrôlée (> 140/90 mmHg sous traitement)",
+  "AVC, infarctus ou angor instable dans les 6 mois",
+  "Hypersensibilité au bévacizumab, au temsirolimus (ou sirolimus) ou au cétuximab",
+  "Inducteurs ou inhibiteurs du CYP3A4",
+  "Cancer colorectal avec mutation KRAS pour le bras avec cétuximab",
+  "Chirurgie majeure dans les 6 semaines, grossesse ou allaitement"
+ ],
+ "bras": [
+  { "nom": "Groupe I", "traitement": "Temsirolimus IV (J1, 8, 15, 22), bévacizumab IV (J1, 15) et cétuximab IV (J1, 8, 15, 22), cycles de 28 jours" },
+  { "nom": "Groupe II", "traitement": "Temsirolimus et bévacizumab comme le groupe I, plus acide valproïque oral (J1-7 et J15-21)" },
+  { "nom": "Groupe III", "traitement": "Temsirolimus et bévacizumab comme le groupe I" }
+ ],
+ "duree": "Cycles de 28 jours jusqu'à progression ou toxicité inacceptable",
+ "critere": "Nombre de patients avec toxicité limitant la dose (DLT) pendant le premier cycle de 28 jours",
+ "resultats": "L'étude, de phase 1, a été arrêtée et le registre détaille les DLT par niveau de dose, sans critère de comparaison. Un résumé publié sur le groupe bévacizumab, cétuximab et temsirolimus (21 patients, tumeurs solides avancées) rapporte une dose maximale tolérée de bévacizumab 10 mg/kg toutes les 2 semaines, temsirolimus 5 mg par semaine et cétuximab 100/75 mg/m² par semaine. Des toxicités de grade 3 ou 4 sont survenues chez 52 % des patients, surtout une hyperglycémie (14 %) et une hypophosphatémie (14 %). Chez 18 patients évaluables, on a observé 2 réponses partielles (11 %) et 4 stabilisations d'au moins 6 mois (22 %), soit 33 % de bénéfice. Chez 8 patients atteints de carcinome épidermoïde ORL, on notait 2 réponses partielles (25 %) et 1 stabilisation (13 %). Les auteurs concluent à une activité dans le carcinome ORL, avec des toxicités nombreuses nécessitant une surveillance attentive. Dans le registre, des événements graves et des décès sont rapportés dans plusieurs niveaux de dose ; ils ne sont pas résumés ici."
+}

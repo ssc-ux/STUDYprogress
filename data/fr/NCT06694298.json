@@ -1,0 +1,35 @@
+{
+ "h": "c0c572995c45",
+ "date": "2026-11-14",
+ "titre": "SYS6020 dans le lupus systémique actif réfractaire (phase 1)",
+ "question": "SYS6020 est-il bien toléré, à quelle dose, et induit-il une rémission chez des adultes atteints de lupus réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique réfractaire, qui persiste malgré une association de glucocorticoïdes, d'immunosuppresseurs et de biologiques, expose à une accumulation de dommages d'organes. Les thérapies cellulaires ciblant les lymphocytes B ont induit des rémissions prolongées dans des séries de cas, et sont en cours d'évaluation dans plusieurs essais.\n\nSYS6020, développé par CSPC ZhongQi, est un produit de thérapie cellulaire autologue (le protocole mentionne une aphérèse puis une perfusion) ; sa cible n'est pas détaillée dans le registre. Cet essai de phase 1 ouvert, à bras unique, prévoit 50 adultes de 18 à 70 ans. Il évalue la tolérance, détermine la dose recommandée, estime l'efficacité préliminaire (rémission DORIS) et explore la pharmacocinétique et l'immunogénicité. Le recrutement n'a pas encore débuté.",
+ "interet": "Il apportera les premières données de tolérance et de dose de ce produit dans le lupus réfractaire.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus actif malgré glucocorticoïdes et immunosuppresseurs ou biologiques.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "LES selon SLICC 2012 ou EULAR/ACR 2019",
+  "Glucocorticoïdes avec immunosuppresseurs et/ou biologiques depuis plus de 3 mois, dose stable depuis 2 semaines, maladie toujours active",
+  "AAN, anti-ADN natif et/ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 7",
+  "BILAG 2004 : au moins 1 système en A ou 2 systèmes en B",
+  "PGA > 1,0"
+ ],
+ "exclusion": [
+  "Néphrite lupique sévère dans les 8 semaines",
+  "Atteinte neurologique centrale (lupique ou non) dans les 8 semaines",
+  "Poussée lupique incontrôlée dans les 8 semaines",
+  "Vascularite, arthrite inflammatoire ou maladie cutanée autre que le lupus, autre maladie auto-immune associée",
+  "Traitement ciblant les lymphocytes B dans les 8 semaines",
+  "Suppléance rénale dans les 3 mois ou prévue",
+  "Infection bactérienne, fongique ou virale active dans les 2 semaines avant l'aphérèse"
+ ],
+ "bras": [
+  {
+   "nom": "SYS6020",
+   "traitement": "Perfusion unique de SYS6020 après aphérèse ; doses non précisées"
+  }
+ ],
+ "duree": "6 mois de suivi pour le critère principal",
+ "critere": "Toxicités limitant la dose et événements indésirables à 28 jours ; dose recommandée et proportion de patients en rémission DORIS à 6 mois"
+}

@@ -1,0 +1,34 @@
+{
+ "h": "455e30daac57",
+ "date": "2026-11-14",
+ "titre": "HB2198, anticorps bispécifique anti-CD19/CD20, dans le lupus systémique actif (phase 1)",
+ "question": "Quelle est la tolérance, la dose recommandée et l'activité préliminaire de HB2198 chez des adultes atteints de lupus actif ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune dans laquelle les lymphocytes B autoréactifs ont un rôle central. Le belimumab et l'anifrolumab sont disponibles, de même que l'obinutuzumab dans la néphrite lupique. Les formes sévères, notamment rénales, restent difficiles à contrôler et la déplétion B par le rituximab est souvent incomplète. Les CAR-T anti-CD19 ont montré des rémissions profondes mais restent lourdes.\n\nHB2198 (Hinge Bio) est un anticorps bispécifique tétravalent ciblant CD19 et CD20, avec une fonction effectrice Fc optimisée, conçu pour une déplétion B plus complète. Cette étude de phase 1 ouverte, avec escalade de dose en 3+3 modifié sur 8 niveaux (0,1 à 16 mg/kg), administre deux perfusions (jours 1 et 8) à environ 30 adultes avec lupus actif, dont néphrite lupique et lupus extra-rénal. Le suivi dure 12 mois, avec mesure de la déplétion B, de l'activité (SLEDAI-2K) et de la réponse rénale.",
+ "interet": "Elle donne les premières données humaines de tolérance d'un double ciblage CD19/CD20 dans le lupus et fixera la dose pour les phases suivantes.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique d'activité modérée à sévère, avec ou sans néphrite lupique.",
+ "inclusion": [
+  "Critères de classification ACR 2019 / EULAR 2023 du LES",
+  "Activité modérée à élevée (SLEDAI-2K ≥ 6, PGA ≥ 1)",
+  "Néphrite lupique : biopsie active de classe III/IV ± V ou V, protéinurie ≥ 0,8 g/g, DFGe ≥ 30 mL/min/1,73 m²",
+  "Lupus extra-rénal : réponse insuffisante ou intolérance à au moins un traitement standard",
+  "AAN ≥ 1:80 ou auto-anticorps associés au lupus",
+  "Valeurs biologiques minimales (lymphocytes ≥ 500/µL, lymphocytes B ≥ 25/µL, PNN ≥ 1 000/mm³, IgG ≥ 600 mg/dL)"
+ ],
+ "exclusion": [
+  "Anti-CD19 ou anti-CD20 dans les 6 mois",
+  "Lupus neuropsychiatrique actif",
+  "Maladie cardiovasculaire, pulmonaire, hépatique ou systémique non contrôlée",
+  "Infection active ou récente grave, VHB, VHC ou VIH",
+  "Chirurgie majeure dans les 4 semaines, greffe d'organe ou de cellules souches",
+  "Immunoglobulines IV ou plasmaphérèse dans les 3 mois, vaccin vivant dans les 30 jours",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "HB2198",
+   "traitement": "Perfusion IV aux jours 1 et 8, 8 niveaux de dose de 0,1 à 16 mg/kg"
+  }
+ ],
+ "duree": "Environ 13 mois (suivi de 12 mois)",
+ "critere": "Événements indésirables et graves, dose maximale tolérée, toxicités limitant la dose et dose recommandée pour la phase 2, évalués aux jours 1, 8, 14 et 29"
+}

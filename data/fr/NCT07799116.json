@@ -1,0 +1,33 @@
+{
+ "h": "09796a14aac9",
+ "date": "2026-11-14",
+ "titre": "TranspoCART19 (CAR-T anti-CD19 académique) dans la néphropathie lupique réfractaire",
+ "question": "Un CAR-T anti-CD19 produit par transposon Sleeping Beauty est-il sûr et induit-il une rémission dans la néphropathie lupique réfractaire ?",
+ "contexte": "La néphropathie lupique proliférative (classe III/IV) reste une cause majeure d'insuffisance rénale chronique chez les patients lupiques. Une partie des patients ne répond pas aux traitements actuels (mycophénolate, cyclophosphamide, inhibiteurs de la calcineurine, bélimumab, rituximab), et les définitions de réfractarité, comme celles du groupe espagnol GLOSEN, guident la sélection.\n\nLes CAR-T anti-CD19 provoquent une déplétion B profonde, avec des rémissions rapportées dans le lupus réfractaire. TranspoCART19 est un produit académique autologue fabriqué par technologie de transposon Sleeping Beauty, plutôt que par vecteur viral, avec un scFv FMC63, un domaine de costimulation 4-1BB et un interrupteur de sécurité hEGFRt.\n\nL'essai de phase I/IIa, promu par l'institut Fundación Jiménez Díaz (Madrid), est multicentrique, ouvert et à un bras. Il inclut environ 10 adultes de 18 à 65 ans. Après leucaphérèse et lymphodéplétion, les patients reçoivent une perfusion unique. L'objectif principal est la tolérance entre J0 et J28.",
+ "interet": "Elle pourrait offrir un CAR-T académique et potentiellement moins coûteux dans le lupus rénal réfractaire. L'effectif est très petit et sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans ayant une néphropathie lupique proliférative réfractaire.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement écrit",
+  "LES selon les critères EULAR/ACR 2019, avec ANA > 1:80, anti-ADN natif ou anti-Sm positif",
+  "Néphropathie lupique de classe III ou IV (± V) active sur biopsie (ISN/RPS 2018)",
+  "Néphropathie réfractaire selon les critères GLOSEN",
+  "DFG ≥ 30 ml/min/1,73 m²",
+  "Protéinurie documentée au dépistage"
+ ],
+ "exclusion": [
+  "DFG < 30 ou suppléance rénale prévue",
+  "Dysfonction d'organe sévère : FEVG < 40 %, cardiopathie sévère, atteinte hépatique, réserve hématopoïétique insuffisante, SpO2 < 92 %",
+  "Infection active nécessitant un traitement",
+  "VIH, hépatite B ou C, tuberculose active",
+  "Événement thromboembolique de grade ≥ 2 dans les 4 semaines",
+  "Antécédent de LEMP"
+ ],
+ "bras": [
+  {
+   "nom": "TranspoCART19",
+   "traitement": "Leucaphérèse, lymphodéplétion puis perfusion unique de CAR-T anti-CD19 autologues"
+  }
+ ],
+ "duree": "Suivi à long terme (durée par patient non précisée)",
+ "critere": "Événements indésirables et événements indésirables graves de J0 à J28 après perfusion (jusqu'à J42 en cas de cytopénie prolongée)"
+}

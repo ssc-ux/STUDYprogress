@@ -1,0 +1,39 @@
+{
+ "h": "f2099cc5287d",
+ "date": "2026-11-14",
+ "titre": "Évaluation rénale précoce par Doppler, IRM multiparamétrique et CD147 dans la sclérodermie et le lupus",
+ "question": "Le Doppler rénal, l'IRM multiparamétrique et le CD147 sérique détectent-ils précocement l'atteinte rénale dans la sclérodermie et le lupus ?",
+ "contexte": "L'atteinte rénale est fréquente et grave dans la sclérodermie systémique (SSc) et le lupus (LES). Dans la SSc, elle va d'anomalies urinaires et d'une baisse du DFG à la crise rénale sclérodermique. Une vasculopathie rénale infraclinique, avec rigidité intrarénale croissante et fibrose post-ischémique, peut précéder les signes biologiques.\n\nDans le lupus, les complexes immuns et les auto-anticorps lèsent l'endothélium et les glomérules. Les marqueurs usuels (créatinine, protéinurie) détectent l'atteinte tardivement, et la biopsie reste invasive.\n\nCette étude observationnelle d'Assiut (Égypte) compare patients SSc, patients LES et témoins sains. Elle mesure l'index de résistance rénal au Doppler, l'IRM rénale multiparamétrique et le taux sérique de CD147, protéine d'adhésion et de fibrose, puis étudie leurs corrélations avec les outils d'évaluation de l'activité.",
+ "interet": "Elle pourrait identifier des outils non invasifs de dépistage précoce de l'atteinte rénale. Elle est monocentrique, avec un effectif d'environ 95 sujets.",
+ "profil": "Des adultes de 18 à 70 ans atteints de sclérodermie systémique ou de lupus, et des témoins sains.",
+ "inclusion": [
+  "Adulte de plus de 18 ans",
+  "SSc selon les critères EULAR/ACR 2013 et ACR 1980",
+  "LES selon les critères EULAR/ACR 2019",
+  "Témoins : sujets apparemment sains"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune",
+  "Tabagisme",
+  "Infection (thoracique, hépatite B ou C, VIH)",
+  "Tumeur, par exemple carcinome hépatocellulaire",
+  "Hypertension, diabète, insuffisance cardiaque, hépatopathie, insuffisance rénale chronique, obstruction urinaire",
+  "Contre-indication à l'IRM (matériel métallique implanté)"
+ ],
+ "bras": [
+  {
+   "nom": "Sclérodermie systémique",
+   "traitement": "Évaluation rénale (Doppler, IRM, CD147)"
+  },
+  {
+   "nom": "Lupus systémique",
+   "traitement": "Mêmes examens, avec activité SLE-DAS"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Comparaison des mêmes marqueurs"
+  }
+ ],
+ "duree": "Un an",
+ "critere": "Taux sérique de CD147, index de résistance rénal et IRM multiparamétrique, à un an"
+}

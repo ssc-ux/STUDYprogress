@@ -1,0 +1,14 @@
+{
+ "h": "a1f237a4aff9",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles anti-CD19/BCMA dans le lupus et la sclérodermie réfractaires (Xuzhou)",
+ "question": "Des CAR-T allogéniques anti-CD19/BCMA sont-elles sûres et efficaces chez des patients ayant un lupus ou une sclérodermie récidivants ou réfractaires ?",
+ "contexte": "Le lupus systémique et la sclérodermie systémique peuvent résister aux immunosuppresseurs et biothérapies, avec un risque de lésions d'organe irréversibles. Les CAR-T anti-CD19 autologues ont induit des rémissions dans de petites séries, au prix d'une fabrication longue et coûteuse.\n\nCette étude à initiative d'investigateur de l'hôpital affilié de l'université médicale de Xuzhou évalue une CAR-T universelle allogénique ciblant CD19 (lymphocytes B) et BCMA (plasmocytes), disponible d'emblée. Les patients, au nombre de 18 environ, reçoivent fludarabine et cyclophosphamide puis une perfusion unique, avec escalade de dose selon le protocole. L'étude est ouverte et à bras unique. Elle évalue la tolérance et la réponse clinique ainsi que sa durée sur 2 ans. Le recrutement est terminé.",
+ "interet": "Elle apportera des données sur une thérapie cellulaire prête à l'emploi dans le lupus et la sclérodermie. L'absence de comparateur et le faible effectif limitent les conclusions.",
+ "profil": "Des adultes atteints de lupus ou de sclérodermie systémique récidivants ou réfractaires.",
+ "inclusion": ["Âge ≥ 18 ans", "Expression de CD19 sur les lymphocytes B circulants (cytométrie en flux)", "Fonctions hépatique, rénale et médullaire adéquates", "LES ou sclérodermie systémique récidivants ou réfractaires"],
+ "exclusion": ["Allergie médicamenteuse sévère ou terrain allergique", "Infection non contrôlée ou nécessitant un traitement", "Fonction cardiaque insuffisante", "Déficit immunitaire humoral congénital", "Cancer dans les 5 dernières années"],
+ "bras": [{"nom": "CAR-T universelles", "traitement": "Fludarabine et cyclophosphamide, puis CAR-T allogéniques anti-CD19/BCMA en perfusion, doses croissantes"}],
+ "duree": "2 ans",
+ "critere": "Sécurité et tolérance, réponse clinique et durée de la réponse, sur 2 ans"
+}

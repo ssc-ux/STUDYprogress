@@ -1,0 +1,25 @@
+{
+ "h": "e0120c808385",
+ "date": "2026-11-14",
+ "titre": "Budoprutug (anti-CD19) en perfusion unique dans le lupus systémique actif",
+ "question": "Le budoprutug est-il bien toléré à doses croissantes chez des patients lupiques en échec du traitement standard ?",
+ "contexte": "Une partie des patients lupiques reste en maladie active malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies. Les lymphocytes B, producteurs d'auto-anticorps, sont une cible thérapeutique majeure. Le bélimumab et l'anifrolumab ne suffisent pas à tous les patients, et la déplétion profonde des lymphocytes B par CAR-T ou anticorps engageurs de lymphocytes T a donné des rémissions dans de petites séries.\n\nLe budoprutug est un anticorps monoclonal IgG1 humanisé anti-CD19, développé par Climb Bio, qui déplète les cellules cibles par cytotoxicité cellulaire dépendante des anticorps. Il pourrait offrir une déplétion B profonde sans cellulothérapie.\n\nCette étude de phase 1b est ouverte et non randomisée. Elle évalue une perfusion intraveineuse unique, en quatre cohortes de doses croissantes, chez environ 30 adultes de 18 à 65 ans ayant un lupus séropositif actif (SLEDAI-2K ≥ 8) et un échec d'au moins deux traitements. La pharmacodynamie est mesurée par l'évolution des lymphocytes B et des immunoglobulines.",
+ "interet": "L'étude apportera les premières données de tolérance et de déplétion B du budoprutug dans le lupus. Elle est exploratoire et ne permet pas de conclure sur l'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique séropositif actif, en échec du traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Maladie active séropositive, SLEDAI-2K ≥ 8",
+  "Réponse insuffisante à au moins 2 traitements, dont un immunosuppresseur oral ou une biothérapie"
+ ],
+ "exclusion": [
+  "Lupus neuropsychiatrique actif",
+  "Autre maladie auto-immune ou inflammatoire nécessitant un immunosuppresseur (polyarthrite, sclérodermie, myosite, vascularite, MICI)",
+  "Infection systémique active ou antécédent d'infections graves, chroniques, récurrentes ou latentes"
+ ],
+ "bras": [
+  { "nom": "Cohortes 1 à 4", "traitement": "Budoprutug en perfusion intraveineuse unique, quatre niveaux de dose croissants (A à D) ; doses non précisées" }
+ ],
+ "duree": "24 semaines",
+ "critere": "Événements indésirables, anomalies biologiques, constantes vitales et paramètres ECG, jusqu'à la semaine 24"
+}

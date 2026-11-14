@@ -1,0 +1,32 @@
+{
+ "h": "361d8dd8208d",
+ "date": "2026-11-14",
+ "titre": "RJMty19 (cellules CD19-CAR-DNT allogéniques) dans le lupus systémique réfractaire",
+ "question": "Des cellules allogéniques CD19-CAR-DNT sont-elles sûres dans le lupus systémique réfractaire ?",
+ "contexte": "Les CAR-T autologues anti-CD19 induisent des rémissions dans le lupus réfractaire, mais leur fabrication individualisée est longue et coûteuse, et la lymphopénie des patients peut compliquer la production. Les produits allogéniques « prêts à l'emploi » pourraient lever cet obstacle.\n\nRJMty19 est composé de cellules T double négatives (DNT) allogéniques exprimant un récepteur chimérique anti-CD19. Les DNT sont des lymphocytes T CD4-/CD8- à faible risque de maladie du greffon contre l'hôte. Le produit est développé par Guangdong Ruishun Biotech.\n\nCette étude de phase 1 est ouverte, à un bras, avec escalade puis expansion de dose. La partie A inclut 9 à 18 patients répartis en trois doses (5 × 10^6, 1 × 10^7 et 2 × 10^7 cellules CAR+/kg). La partie B inclut 3 à 6 patients à la dose retenue. Un comité de sécurité évalue chaque palier. L'objectif est la tolérance, la dose maximale tolérée, la pharmacocinétique et l'efficacité préliminaire.",
+ "interet": "Elle pourrait fournir de premières données sur une approche cellulaire allogénique dans le lupus. Aucun comparateur n'est prévu et l'effectif est faible.",
+ "profil": "Des adultes de 18 à 65 ans ayant un lupus systémique réfractaire actif avec atteinte d'organe.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement écrit",
+  "LES selon les critères EULAR/ACR 2019",
+  "SLEDAI-2K ≥ 8, ANA ≥ 1:80 ou anti-ADN natif/anti-Sm positifs",
+  "Atteinte d'organe active",
+  "Fonctions d'organes et coagulation conformes aux seuils du protocole"
+ ],
+ "exclusion": [
+  "Autre cancer dans les 5 ans (sauf cancer cutané non mélanome ou carcinome in situ du col)",
+  "Chirurgie majeure dans les 4 semaines",
+  "Allergie médicamenteuse sévère",
+  "Néphropathie lupique sévère active, clairance de la créatinine < 60 ml/min",
+  "Maladie active du système nerveux central",
+  "Maladie cardiovasculaire sévère (angor instable, etc.)"
+ ],
+ "bras": [
+  {
+   "nom": "RJMty19",
+   "traitement": "Partie A : escalade à 5 × 10^6, 1 × 10^7 ou 2 × 10^7 cellules CAR+/kg à J0 ; partie B : expansion à la dose retenue"
+  }
+ ],
+ "duree": "Suivi à long terme (durée non précisée)",
+ "critere": "Toxicité limitante de dose, dose maximale tolérée et anomalies, jusqu'à 28 jours"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "28d3cb91d9c5r",
+ "date": "2026-11-14",
+ "titre": "Garadacimab au long cours en prophylaxie des crises d'angiœdème héréditaire",
+ "question": "Le garadacimab sous-cutané reste-t-il sûr et efficace sur plusieurs années chez les patients atteints d'angiœdème héréditaire ?",
+ "contexte": "L'angiœdème héréditaire par déficit en inhibiteur de C1 (AEH-C1INH) provoque des crises d'œdème récidivantes, parfois laryngées, qui nécessitent une prophylaxie de fond chez les patients les plus touchés. Les options actuelles (inhibiteur de C1, lanadelumab, berotralstat) imposent des injections fréquentes ou une prise quotidienne.\n\nLe garadacimab (CSL312) est un anticorps monoclonal IgG4 entièrement humain dirigé contre le facteur XIIa, qui bloque la cascade de contact en amont de la kallikréine et de la bradykinine. Son efficacité a été montrée dans une étude pivot de phase 3 chez l'adulte et l'adolescent. Cette étude de phase 3b de CSL Behring est une extension ouverte à un seul bras destinée à évaluer sa tolérance et son efficacité à long terme, chez des patients de 12 ans et plus. Elle a inclus 171 patients et suivi les participants jusqu'à environ 54 mois.",
+ "interet": "Elle fournit des données de tolérance sur plusieurs années pour un anticorps anti-FXIIa injecté une fois par mois, utiles pour positionner ce traitement dans la prophylaxie de fond.",
+ "profil": "Des patients de 12 ans et plus atteints d'angiœdème héréditaire par déficit en inhibiteur de C1, avec crises fréquentes.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "AEH-C1INH confirmé cliniquement",
+  "Au moins 3 crises dans les 3 mois avant le dépistage",
+  "Période d'observation d'au moins 1 mois (patients naïfs de garadacimab)",
+  "En moyenne au moins 1 crise par mois pendant l'observation"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème (idiopathique, acquis, associé à l'urticaire)",
+  "Prophylaxie par inhibiteur de C1, androgènes, antifibrinolytiques ou petites molécules dans les 2 semaines",
+  "Anticorps monoclonal (lanadelumab) dans les 3 mois avant l'observation",
+  "Œstroprogestatifs ou traitement hormonal substitutif dans les 4 semaines",
+  "Contraception inadaptée chez les personnes fertiles",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Garadacimab",
+   "traitement": "Garadacimab sous-cutané, anticorps monoclonal anti-FXIIa ; dose et rythme non précisés dans le registre"
+  }
+ ],
+ "duree": "Jusqu'à environ 54 mois",
+ "critere": "Nombre, pourcentage et taux (par injection et par patient-année) d'événements indésirables survenus sous traitement, jusqu'à environ 54 mois",
+ "resultats": "Parmi 159 participants analysés, 146 (91,8 %) ont présenté au moins un événement indésirable sous traitement, pour un total de 1 196 événements. Quatorze participants (sur 161 exposés) ont eu un événement indésirable grave. Aucun décès n'est rapporté. Le registre ne fournit pas de comparaison, l'étude étant à un seul bras, ni de résultat d'efficacité pour le critère principal."
+}

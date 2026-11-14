@@ -1,0 +1,37 @@
+{
+ "h": "827e2e32817a",
+ "date": "2026-11-14",
+ "titre": "Descartes-08 (CAR-T à ARNm) dans les maladies auto-immunes de l'enfant et du jeune adulte",
+ "question": "Descartes-08 est-il sûr et efficace chez des enfants, adolescents et jeunes adultes atteints de lupus, vascularite à ANCA, myasthénie ou dermatomyosite juvéniles ?",
+ "contexte": "Les lupus systémiques de début pédiatrique, les vascularites associées aux ANCA (AAV), les myasthénies et dermatomyosites juvéniles sont des maladies auto-immunes rares, souvent plus sévères quand elles débutent tôt. Elles nécessitent des traitements immunosuppresseurs prolongés, avec des toxicités cumulées et de la croissance et de la fertilité à préserver.\n\nDescartes-08 est une thérapie par lymphocytes T autologues exprimant un récepteur chimérique dirigé contre l'antigène de maturation des cellules B (BCMA), produit à partir d'ARN messager. Contrairement aux CAR-T classiques, l'expression du récepteur est transitoire, ce qui évite la chimiothérapie lymphodéplétive. Il est administré en perfusions hebdomadaires. Il a déjà été étudié dans la myasthénie de l'adulte. Cet essai de phase 1/2 de Cartesian Therapeutics, non randomisé, comporte une partie 1 d'escalade intra-patient de dose pour définir la dose maximale tolérée, puis une partie 2 à cette dose. Il inclut 50 patients à partir de 12 ans.",
+ "interet": "Il est le premier à évaluer cette approche cellulaire transitoire dans des maladies auto-immunes pédiatriques, avec l'ambition de remplacer une immunosuppression chronique.",
+ "profil": "Des patients de 12 ans et plus atteints de lupus systémique de début pédiatrique, de vascularite à ANCA, de myasthénie juvénile ou de dermatomyosite juvénile d'activité modérée.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "Diagnostic certain d'une des quatre maladies visées",
+  "Signes et symptômes d'une maladie d'activité modérée",
+  "Antécédent de traitement systémique",
+  "Consentement écrit du patient ou de son représentant"
+ ],
+ "exclusion": [
+  "Maladie chronique majeure mal contrôlée",
+  "Troubles de la coagulation (TP/INR ou TCA > 1,5 fois) ou anticoagulation (sauf exceptions)",
+  "Neutrophiles < 1 000/µL, hémoglobine < 8 g/dL ou plaquettes < 50 000/mm³",
+  "Transaminases avec GGT ≥ 3 fois la normale, clairance de la créatinine < 30 mL/min/1,73 m²",
+  "Déficit immunitaire primitif, greffe d'organe ou de moelle allogénique",
+  "Hépatite B ou C active, VIH, tuberculose active",
+  "Événement thromboembolique dans les 3 mois ou antécédent de cancer récent"
+ ],
+ "bras": [
+  {
+   "nom": "Partie 1",
+   "traitement": "Descartes-08 en escalade intra-patient (3 niveaux de dose) sur 6 perfusions, pour établir la dose maximale tolérée"
+  },
+  {
+   "nom": "Partie 2",
+   "traitement": "Descartes-08 une fois par semaine pendant 6 semaines à la dose maximale tolérée"
+  }
+ ],
+ "duree": "Jusqu'à 12 mois de suivi",
+ "critere": "Dose maximale tolérée (partie 1) et type et fréquence des événements indésirables graves liés au traitement (partie 2), aux jours 22 et 50 puis aux mois 3, 6, 9 et 12"
+}

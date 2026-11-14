@@ -1,0 +1,31 @@
+{
+ "h": "e0cdbd51bc28",
+ "date": "2026-11-14",
+ "titre": "Cénérimod 4 mg dans le lupus modéré à sévère chez des patients chinois",
+ "question": "Le cénérimod à 4 mg par jour est-il bien toléré et quelle est sa pharmacocinétique chez des adultes chinois atteints de lupus ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune pour laquelle les options ciblées restent limitées, notamment avec des atteintes cutanées et articulaires persistantes. Le cénérimod est un modulateur oral sélectif du récepteur S1P1 de la sphingosine-1-phosphate, qui retient les lymphocytes dans les organes lymphoïdes et réduit le nombre de lymphocytes circulants.\n\nIl a déjà été évalué dans le lupus à l'échelle mondiale. Cette étude de phase 2 de Viatris est ouverte, à bras unique, menée chez 15 adultes chinois de 18 à 75 ans atteints de LES modéré à sévère, déjà sous traitement de fond stable. Les participants prennent 4 mg par jour pendant 12 mois et sont suivis jusqu'à 6 mois après la dernière prise. Les objectifs sont la tolérance, la pharmacocinétique (Cmax, AUC, accumulation) et la pharmacodynamie, avec la diminution des lymphocytes sanguins.",
+ "interet": "Elle complète les données de tolérance et d'exposition du cénérimod dans la population chinoise, notamment en vue de son développement local.",
+ "profil": "Des adultes chinois de 18 à 75 ans atteints de lupus modéré à sévère sous traitement de fond stable.",
+ "inclusion": [
+  "Participants chinois de 18 à 75 ans, consentement signé",
+  "Diagnostic de LES depuis au moins 6 mois (critères EULAR/ACR 2019)",
+  "mSLEDAI-2K ≥ 6, dont score clinique ≥ 4 avec au moins 2 points musculo-squelettiques ou cutanéo-muqueux",
+  "PGA ≥ 1,0",
+  "Traitement de fond (antipaludéen, mycophénolate, azathioprine, méthotrexate, corticoïdes oraux, belimumab ou telitacicept) à dose stable",
+  "Test de grossesse négatif et contraception efficace chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Grossesse, projet de grossesse dans les 6 mois après la dernière dose ou allaitement",
+  "Atteinte rénale lupique sévère active, ou rapport protéinurie/créatininurie > 3 000 mg/g",
+  "Lupus du système nerveux central sévère ou neuropsychiatrique actif ou instable",
+  "Autres critères du protocole : non détaillés dans l'extrait"
+ ],
+ "bras": [
+  {
+   "nom": "Cénérimod",
+   "traitement": "4 mg par voie orale une fois par jour jusqu'à 12 mois, en plus du traitement de fond stable"
+  }
+ ],
+ "duree": "Jusqu'à 22 mois (12 mois de traitement et 6 mois de suivi de sécurité)",
+ "critere": "Événements indésirables survenus sous traitement, de la première dose jusqu'à 180 jours après la dernière dose, avec paramètres de tolérance et pharmacocinétiques"
+}

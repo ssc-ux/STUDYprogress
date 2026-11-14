@@ -1,0 +1,36 @@
+{
+ "h": "758021932d28",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses du cordon dans la néphrite lupique réfractaire",
+ "question": "Les cellules souches mésenchymateuses du cordon ombilical améliorent-elles la réponse rénale chez des patients atteints de néphrite lupique réfractaire ?",
+ "contexte": "La néphrite lupique (NL) est la complication la plus fréquente et la plus grave du lupus. Le traitement standard associe corticoïdes et immunosuppresseurs (mycophénolate, cyclophosphamide, inhibiteurs de calcineurine, belimumab), mais seuls 20 à 30 % des patients obtiennent une réponse complète à six mois. Les formes réfractaires n'ont pas de traitement consensuel.\n\nLes cellules souches mésenchymateuses (CSM) sécrètent de nombreuses cytokines à effet immunomodulateur, anti-inflammatoire et antifibrosant, et ont été explorées dans le lupus avec des résultats incohérents, sans confirmation histologique. Cet essai de phase 1 du Chinese PLA General Hospital, randomisé en simple aveugle, compare des CSM issues du cordon ombilical à du sérum physiologique chez 96 adultes de 18 à 65 ans en NL active de classe III, IV, III+V ou IV+V, sans réponse partielle ou complète après 6 à 12 mois de traitement standard. L'originalité est d'évaluer l'effet par biopsie rénale.",
+ "interet": "Il pourrait offrir une option pour les NL réfractaires, avec une évaluation histologique de la réponse.",
+ "profil": "Des adultes de 18 à 65 ans avec néphrite lupique active de classe III/IV réfractaire au traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, tout sexe",
+  "Lupus selon les critères ACR révisés",
+  "Néphrite lupique active de classe III, IV, III+V ou IV+V (ISN/RPS 2016)",
+  "Absence de réponse partielle ou complète 6 à 12 mois après le début du traitement standard"
+ ],
+ "exclusion": [
+  "Refus de consentement",
+  "Grossesse, allaitement ou refus de contraception pendant et 12 mois après l'étude",
+  "Néphrite chronique à la biopsie (sclérose glomérulaire, fibrose étendues)",
+  "Autre maladie auto-immune associée",
+  "Insuffisance hépatique sévère ou DFGe ≤ 45 mL/min/1,73 m²",
+  "Maladie cardiovasculaire, neurologique, pulmonaire, endocrinienne ou digestive grave et incontrôlée",
+  "Antécédent de cancer, de greffe ou d'infection grave active ou récurrente"
+ ],
+ "bras": [
+  {
+   "nom": "Traitement",
+   "traitement": "Cellules souches mésenchymateuses du cordon ombilical par voie intraveineuse, en plus du traitement standard ; dose non précisée"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Sérum physiologique (placebo), en plus du traitement standard"
+  }
+ ],
+ "duree": "6 à 12 mois pour la réponse rénale, voire plus de 12 mois",
+ "critere": "Taux de réponse rénale complète, partielle et absente, dans les 6 à 12 mois après le début du traitement"
+}

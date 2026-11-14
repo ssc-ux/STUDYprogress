@@ -1,0 +1,33 @@
+{
+ "h": "7aa0e15cb8d4",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab pendant la grossesse : issues maternelles et néonatales dans le lupus",
+ "question": "L'exposition à l'anifrolumab pendant la grossesse augmente-t-elle le risque de malformations congénitales ou de pertes fœtales par rapport aux autres traitements du lupus ?",
+ "contexte": "Le lupus touche surtout des femmes en âge de procréer, et la grossesse y expose à des complications (prééclampsie, fausse couche, prématurité, retard de croissance) surtout si la maladie est active. Il faut donc maintenir un traitement efficace pendant la grossesse, mais les données de sécurité des biothérapies récentes y sont très limitées.\n\nL'anifrolumab, anticorps anti-récepteur de l'interféron de type I, est approuvé dans le lupus modéré à sévère en association au traitement standard, mais les essais pivots excluaient les femmes enceintes. Cette étude non interventionnelle post-AMM d'AstraZeneca exploite plusieurs bases de données de santé pour comparer des grossesses de femmes avec lupus modéré à sévère exposées à l'anifrolumab (jusqu'à 16 semaines avant les dernières règles) à des grossesses non exposées sous autres traitements standard. Elle décrit les malformations congénitales majeures, les pertes fœtales et les issues néonatales, ainsi que la croissance du nourrisson jusqu'à un an. Sont exclues les femmes avec antécédent de malformation ou d'anomalie chromosomique et celles exposées à un tératogène avéré.",
+ "interet": "Les résultats apporteront des données de sécurité attendues pour conseiller les femmes lupiques en désir de grossesse sous anifrolumab. Les effectifs exposés resteront probablement limités et la comparaison observationnelle reste sujette aux biais de confusion.",
+ "profil": "Des femmes enceintes atteintes de lupus modéré à sévère, exposées ou non à l'anifrolumab.",
+ "inclusion": [
+  "Femmes avec lupus diagnostiqué avant la grossesse, modéré à sévère",
+  "Inscription continue dans la base de données ≥ 12 mois avant les dernières règles",
+  "Cohorte exposée : anifrolumab ajouté au traitement standard pendant la grossesse ou dans les 16 semaines avant",
+  "Cohorte non exposée : traitement standard du lupus sans anifrolumab"
+ ],
+ "exclusion": [
+  "Date de conception impossible à établir",
+  "Antécédent de malformation congénitale ou d'anomalie chromosomique",
+  "Médicament tératogène confirmé prescrit avant les dernières règles (5 demi-vies) ou pendant la grossesse",
+  "Cohorte non exposée : exposition à l'anifrolumab"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte exposée",
+   "traitement": "Grossesses avec lupus exposées à l'anifrolumab"
+  },
+  {
+   "nom": "Cohorte non exposée",
+   "traitement": "Grossesses avec lupus modéré à sévère sous autres traitements standard"
+  }
+ ],
+ "duree": "De la conception à 12 mois de vie du nourrisson (ou à l'issue de la grossesse en cas de perte fœtale)",
+ "critere": "Risque et risque relatif de malformations congénitales majeures et de pertes de grossesse sélectionnées"
+}

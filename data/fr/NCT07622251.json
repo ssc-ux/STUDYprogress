@@ -1,0 +1,14 @@
+{
+ "h": "365f171db16d",
+ "date": "2026-11-14",
+ "titre": "Effet de l'exercice aérobie sur les fonctions cognitives dans le lupus systémique",
+ "question": "Douze semaines d'exercice aérobie améliorent-elles les fonctions cognitives et l'activité de la maladie chez des patients lupiques ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune évoluant par poussées et rémissions, qui touche de nombreux organes (articulations, peau, reins, système nerveux, sang). Au-delà des manifestations classiques, un dysfonctionnement cognitif est fréquent à tous les âges, avec des troubles de l'attention, de la mémoire et des fonctions exécutives, qui retentissent sur la vie quotidienne.\n\nL'exercice aérobie est recommandé dans les maladies auto-immunes pour la fatigue, la condition physique et l'humeur, et pourrait aussi bénéficier à la cognition. Les données dans le lupus restent limitées.\n\nCet essai randomisé de l'Université Galata d'Istanbul inclut 38 patients de 25 à 65 ans, avec un score cognitif inférieur à 26 au Mini-Mental. Il compare 3 mois d'un programme d'exercice aérobie à un groupe contrôle, avec une évaluation de l'activité de la maladie et des fonctions cognitives avant et après 12 semaines.",
+ "interet": "Si l'exercice améliore la cognition, il pourrait être intégré aux conseils de prise en charge du lupus. L'effectif est faible et l'étude monocentrique.",
+ "profil": "Des adultes de 25 à 65 ans atteints de lupus stable, avec un léger déficit cognitif.",
+ "inclusion": ["Lupus diagnostiqué depuis ≥ 1 an selon les critères ACR", "Âge de 25 à 65 ans", "Aucun diagnostic neuropsychiatrique", "Traitement stable depuis 3 mois", "Pas de programme d'exercice régulier", "Score au Mini-Mental < 26"],
+ "exclusion": ["Maladie rhumatismale secondaire associée", "Infection active aiguë ou chronique", "IMC ≥ 30 kg/m²", "Insuffisance rénale aiguë", "Atteinte cardiaque ou pulmonaire", "Atteinte ostéo-articulaire empêchant le test d'effort, grossesse"],
+ "bras": [{"nom": "Groupe contrôle", "traitement": "Pas de programme d'exercice (détail non précisé)"}, {"nom": "Groupe exercice", "traitement": "Programme d'exercice aérobie pendant 3 mois (modalités non précisées)"}],
+ "duree": "12 semaines",
+ "critere": "Score au Mini-Mental, à l'inclusion et à 12 semaines"
+}

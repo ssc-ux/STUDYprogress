@@ -1,0 +1,27 @@
+{
+ "h": "f7b437d96acb",
+ "date": "2026-11-14",
+ "titre": "Indices hématologiques d'inflammation et activité du lupus juvénile",
+ "question": "Des indices hématologiques simples (SII, SIRI, AISI) reflètent-ils l'activité et les séquelles chroniques du lupus de l'enfant ?",
+ "contexte": "Le lupus systémique à début pédiatrique est souvent plus sévère que celui de l'adulte, avec davantage d'atteintes rénales et hématologiques. Le suivi de l'activité repose sur des scores cliniques (SLEDAI) et sur des marqueurs biologiques coûteux ou peu sensibles, comme le complément et les anti-ADN.\n\nLes indices d'inflammation dérivés de la numération formule sanguine, comme l'indice d'inflammation systémique immunitaire (SII), l'indice de réponse inflammatoire systémique (SIRI) et l'indice agrégé d'inflammation systémique (AISI), sont peu coûteux et ont été proposés comme marqueurs pronostiques dans plusieurs maladies inflammatoires. Cette étude observationnelle de l'Université de Sohag (Égypte) calcule ces indices chez 50 patients ayant un lupus de début avant 18 ans, et les corrèle à l'indice d'activité SLEDAI et à l'index de dommage chronique. Elle ne teste aucune intervention.",
+ "interet": "Un indice calculé gratuitement à partir de la NFS pourrait aider au suivi du lupus pédiatrique, notamment dans les contextes à ressources limitées. Les résultats seront corrélatifs et monocentriques.",
+ "profil": "Des enfants et adolescents atteints de lupus systémique de début pédiatrique.",
+ "inclusion": [
+  "Lupus selon les critères SLICC 2012 ou ACR/EULAR 2019",
+  "Début de la maladie avant 18 ans"
+ ],
+ "exclusion": [
+  "Début de la maladie après 18 ans",
+  "Autre maladie inflammatoire chronique",
+  "Autre maladie auto-immune associée",
+  "Autres critères : non précisé"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus juvénile (50)",
+   "traitement": "Calcul des indices hématologiques et corrélation avec l'activité et le dommage chronique"
+  }
+ ],
+ "duree": "3 à 6 mois",
+ "critere": "Calcul des indices hématologiques et corrélation avec l'activité de la maladie, à 3-6 mois"
+}

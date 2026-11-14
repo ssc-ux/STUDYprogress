@@ -1,0 +1,14 @@
+{
+ "h": "62aed2dec7b1",
+ "date": "2026-11-14",
+ "titre": "UB-VV410 dans le lupus systémique ou la néphrite lupique actifs et réfractaires",
+ "question": "UB-VV410 est-il sûr et quelle est sa dose recommandée dans le lupus et la néphrite lupique réfractaires ?",
+ "contexte": "Le lupus systémique et la néphrite lupique réfractaires aux traitements standards exposent à des atteintes d'organes irréversibles. Les thérapies cellulaires ciblant les lymphocytes B ont donné des rémissions prometteuses dans des petites séries, mais leur développement reste précoce.\n\nUB-VV410 est un produit expérimental de Nanjing IASO Biotechnology ; le registre n'en détaille pas la nature. L'étude est une phase 1 ouverte, menée sur initiative d'investigateur. Elle inclut deux cohortes : néphrite lupique active (inflammation sur la biopsie rénale) et lupus actif sans néphrite.\n\nLa recherche de dose utilise un schéma bayésien BOIN pour limiter l'exposition à des doses sous-thérapeutiques tout en maintenant la sécurité. Une phase d'expansion pourra ensuite caractériser séparément l'efficacité préliminaire dans chaque cohorte. Les toxicités limitantes sont évaluées sur 28 jours et l'activité de la maladie à 1, 2, 3, 6, 9, 12, 18 et 24 mois.",
+ "interet": "Étude de première administration chez l'humain ou de phase précoce : elle déterminera la dose recommandée et le profil de sécurité, sans valeur de preuve d'efficacité.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'un lupus systémique actif réfractaire, avec ou sans néphrite lupique.",
+ "inclusion": ["Âge de 18 à 65 ans, consentement écrit", "Lupus diagnostiqué ≥ 6 mois (critères EULAR/ACR 2019)", "Anti-ADN natif et/ou anti-Sm élevés, actuellement ou dans l'histoire", "ALAT/ASAT ≤ 2,5 × LSN, bilirubine < 1,5 × LSN", "Absence de coagulopathie nécessitant des facteurs de coagulation", "Maladie active réfractaire (néphrite lupique active ou lupus sans néphrite)"],
+ "exclusion": ["Grossesse ou allaitement", "BILAG A neuropsychiatrique, poussée aiguë sévère (péricardite aiguë, syndrome des antiphospholipides catastrophique, lupus neurologique aigu)", "Lupus d'origine médicamenteuse", "Hémodialyse ou dialyse péritonéale", "Antécédent de greffe de moelle, thérapie génique, transfert cellulaire ou CAR-T", "VIH, hépatite B ou C active", "Allergie aux traitements de gestion des toxicités des CAR-T (tocilizumab), maladie du système nerveux central en cours"],
+ "bras": [{"nom": "UB-VV410", "traitement": "Administration unique à J1 à l'un des niveaux de dose, attribué selon un schéma d'escalade BOIN"}],
+ "duree": "24 mois",
+ "critere": "Événements indésirables (CTCAE v5.0) et dose maximale tolérée ou administrée avec dose recommandée, jusqu'à 24 mois"
+}

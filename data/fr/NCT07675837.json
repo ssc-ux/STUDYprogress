@@ -1,0 +1,33 @@
+{
+ "h": "7187087017e1",
+ "date": "2026-11-14",
+ "titre": "Polymorphisme du gène ICOS et susceptibilité au lupus",
+ "question": "Un polymorphisme du gène ICOS est-il associé à la susceptibilité au lupus et à sa sévérité ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune multi-organes, cinq fois plus fréquente chez la femme, dont l'incidence mondiale est estimée à 5,1 pour 100 000 personnes-années. Sa physiopathologie associe immunité innée et adaptative, avec production d'auto-anticorps et de complexes immuns.\n\nLes signaux de costimulation entre ligands et récepteurs sont essentiels à l'initiation et à la régulation des réponses immunitaires. ICOS, exprimé par les lymphocytes T activés, favorise la différenciation des lymphocytes T folliculaires auxiliaires et la production d'anticorps. Des variants du gène ICOS pourraient donc modifier le risque de lupus ou sa sévérité. Cette étude observationnelle cas-témoins de l'Université de la Vallée du Sud (Égypte) génotype ICOS chez environ 20 patients lupiques et 10 témoins sains, et recherche un lien avec la sévérité de la maladie.",
+ "interet": "L'effectif très réduit rend l'étude exploratoire : elle ne permettra pas de conclure sur le risque génétique et n'a pas d'impact sur la pratique.",
+ "profil": "Des adultes atteints de lupus, comparés à des témoins sains.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Consentement écrit à la participation et au test génétique",
+  "Témoins : sans antécédent personnel ou familial de maladie auto-immune ou inflammatoire chronique",
+  "Âge de 18 à 65 ans"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune ou inflammatoire chronique",
+  "Cancer",
+  "Grossesse ou allaitement",
+  "Incapacité à consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe A : lupus (environ 20)",
+   "traitement": "Génotypage du polymorphisme ICOS"
+  },
+  {
+   "nom": "Groupe B : témoins sains (10)",
+   "traitement": "Génotypage du polymorphisme ICOS"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Association entre le polymorphisme du gène ICOS et le lupus, à 6 mois"
+}

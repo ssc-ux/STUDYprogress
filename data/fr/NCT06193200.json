@@ -1,0 +1,37 @@
+{
+ "h": "e90b16c642b4r",
+ "date": "2026-11-14",
+ "titre": "EryDex versus placebo sur les signes neurologiques de l'ataxie télangiectasie",
+ "question": "EryDex ralentit-il l'aggravation neurologique de l'ataxie télangiectasie par rapport au placebo ?",
+ "contexte": "L'ataxie télangiectasie (A-T) est une maladie neurodégénérative génétique rare, due à des mutations du gène ATM, qui débute dans la petite enfance. Elle associe ataxie cérébelleuse progressive, troubles oculomoteurs, déficit immunitaire et risque de cancers. Aucun traitement n'a démontré qu'il modifie l'évolution neurologique.\n\nEryDex est un système qui encapsule du phosphate sodique de dexaméthasone dans les érythrocytes autologues du patient, avant de les réinjecter par voie intraveineuse toutes les 28 jours. Il vise un effet anti-inflammatoire et neuroprotecteur avec moins d'effets systémiques d'une corticothérapie classique. Cet essai de phase 3 (NEAT) de Quince Therapeutics est randomisé 1:1, en double aveugle contre des érythrocytes chargés de placebo. Il visait environ 86 enfants de 6 à 9 ans, avec jusqu'à 20 patients plus âgés. L'essai est terminé et a inclus 105 participants.",
+ "interet": "Un résultat positif en ferait la première option médicamenteuse à effet neurologique démontré dans l'ataxie télangiectasie.",
+ "profil": "Des enfants et adultes de 6 ans et plus atteints d'ataxie télangiectasie confirmée génétiquement et marchant seuls ou avec aide ponctuelle.",
+ "inclusion": [
+  "Diagnostic clinique d'ataxie télangiectasie",
+  "Confirmation génétique",
+  "Marche autonome ou aide technique ponctuelle",
+  "Poids ≥ 15 kg"
+ ],
+ "exclusion": [
+  "Participation à une autre étude clinique",
+  "Déficit immunitaire, ou antécédent d'atteinte sévère du système immunitaire",
+  "Cancer en cours ou non en rémission depuis au moins 2 ans",
+  "Atteinte pulmonaire sévère ou instable, diabète non contrôlé",
+  "Insuffisance rénale ou hépatique significative",
+  "Corticothérapie orale ou parentérale dans les 6 semaines précédentes",
+  "Handicap empêchant de réaliser toutes les évaluations"
+ ],
+ "bras": [
+  {
+   "nom": "EryDex",
+   "traitement": "Perfusion IV toutes les 28 jours de dexaméthasone phosphate encapsulée dans des érythrocytes autologues"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusion IV toutes les 28 jours d'érythrocytes autologues chargés avec une solution placebo"
+  }
+ ],
+ "duree": "Environ 6 mois pour le critère principal (visite 9)",
+ "critere": "Variation du score RmICARS (échelle d'ataxie recotée, 0 à 29 points) entre l'inclusion et la visite 9, soit environ 6 mois",
+ "resultats": "Le critère principal est la variation du score RmICARS sur environ 6 mois. Les valeurs rapportées dans le registre sont de 0,94 point sous EryDex (40 patients analysés) et 2,24 points sous placebo (43 patients analysés). Le registre ne précise pas, dans les champs consultés, le test statistique, l'intervalle de confiance ni la valeur de p. Les événements indésirables graves ont concerné 2 patients sur 51 sous EryDex et 3 sur 54 sous placebo, sans décès."
+}

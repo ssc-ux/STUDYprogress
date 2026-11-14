@@ -1,0 +1,29 @@
+{
+ "h": "12e758094d3c",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 IC19 dans le lupus réfractaire",
+ "question": "Le CAR-T anti-CD19 IC19 est-il sûr chez des adultes ayant un lupus actif malgré un traitement complet, biothérapie comprise ?",
+ "contexte": "Une partie des patients lupiques reste active ou rechute malgré les corticoïdes, les immunosuppresseurs et au moins une biothérapie (rituximab, bélimumab...). Les CAR-T anti-CD19 ont induit des rémissions prolongées dans de petites séries de lupus réfractaire, en éliminant les lymphocytes B autoréactifs.\n\nL'IC19 est un CAR-T anti-CD19 développé par Beijing Immunochina. Cet essai exploratoire de phase 1, ouvert et à bras unique, utilise une escalade de dose 3+3 à deux niveaux (1×10⁸ puis 2×10⁸ cellules CAR-T, avec une tolérance de ± 30 %). Six patients de 18 à 70 ans sont prévus, avec une perfusion unique. Les patients doivent avoir un lupus selon les critères EULAR/ACR 2019, une activité SLEDAI-2K ≥ 8, des auto-anticorps positifs, avoir reçu corticoïdes, immunosuppresseurs et au moins une biothérapie pendant au moins 2 mois, avec prednisone ≥ 7,5 et ≤ 60 mg/j. L'intervalle entre les deux premiers patients d'un même niveau doit être ≥ 14 jours.",
+ "interet": "L'étude déterminera la tolérance de l'IC19 et la dose à retenir chez des patients en impasse thérapeutique. Elle ne pourra pas conclure sur l'efficacité avec 6 patients et sans comparateur.",
+ "profil": "Des adultes de 18 à 70 ans avec un lupus réfractaire, actif malgré corticoïdes, immunosuppresseurs et biothérapie.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR 2019",
+  "Corticoïdes, immunosuppresseurs et au moins une biothérapie ≥ 2 mois, doses stables > 2 semaines, avec maladie active ou rechute",
+  "Prednisone 7,5 à 60 mg/j (sans minimum si associée à un immunosuppresseur ou une biothérapie)",
+  "SLEDAI-2K ≥ 8",
+  "ANA, anti-ADN natif ou anti-Sm positifs",
+  "Âge de 18 à 70 ans",
+  "Survie attendue > 3 mois, fonctions médullaire, hépatique, rénale, cardiaque (FEVG ≥ 50 %) et SpO₂ ≥ 92 %"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "IC19 CAR-T",
+   "traitement": "Perfusion unique, 1×10⁸ puis 2×10⁸ cellules CAR-T (escalade 3+3)"
+  }
+ ],
+ "duree": "28 jours pour le critère principal",
+ "critere": "Sécurité du CAR-T IC19, 28 jours après la perfusion"
+}

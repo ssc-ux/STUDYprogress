@@ -1,0 +1,32 @@
+{
+ "h": "a6c9ceaa62c8",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles CD19/BCMA (RD06-05) dans les maladies auto-immunes réfractaires de l'enfant",
+ "question": "Les CAR-T allogéniques CD19/BCMA RD06-05 sont-elles sûres chez des enfants et adolescents ayant une maladie auto-immune réfractaire ?",
+ "contexte": "Chez l'enfant, le lupus, la sclérodermie, les myopathies inflammatoires, le syndrome néphrotique multirésistant et la néphropathie à IgA réfractaires exposent à des traitements immunosuppresseurs prolongés et à des séquelles de croissance et d'organe. Les CAR-T anti-CD19 ont obtenu des rémissions chez l'adulte et chez quelques adolescents, mais les données pédiatriques sont rares, et la fabrication autologue est difficile chez l'enfant malade.\n\nLe RD06-05 est une CAR-T universelle allogénique à double cible CD19/BCMA, destinée à atteindre à la fois les lymphocytes B et les plasmocytes. Cette étude de phase 1 ouverte à un bras, conduite à l'hôpital pour enfants de l'université du Zhejiang, prévoit environ 30 patients de 5 à 19 ans. Chacun reçoit une perfusion intraveineuse unique à 6 x 10^6 cellules CAR+/kg, avec une escalade possible à 10 x 10^6/kg après revue par un comité de sécurité. Le suivi dure jusqu'à 24 mois. Les critères secondaires portent sur la réponse propre à chaque maladie (LLDAS/DORIS, score de Rodnan, MMT-8, RPCU), la qualité de vie et l'expansion des cellules.",
+ "interet": "L'étude fournira les premières données de sécurité d'une CAR-T allogénique en rhumatologie et néphrologie pédiatriques. Les données d'efficacité resteront exploratoires.",
+ "profil": "Des enfants et adolescents de 5 à 19 ans ayant un lupus, une sclérodermie, une myopathie inflammatoire, un syndrome néphrotique multirésistant ou une néphropathie à IgA réfractaires.",
+ "inclusion": [
+  "Âge de 5 à moins de 20 ans, consentement du patient ou du représentant légal",
+  "Fonction médullaire (PNN ≥ 1 G/L, Hb ≥ 60 g/L, plaquettes ≥ 30 G/L), hépatique, rénale (DFGe ≥ 30) suffisante",
+  "FEVG ≥ 55 %, absence de maladie pulmonaire sévère (SpO2 ≥ 92 %)",
+  "Contraception efficace jusqu'à 12 mois après la perfusion, test de grossesse négatif",
+  "Maladie réfractaire avec critères spécifiques selon la pathologie (LES : critères EULAR/ACR 2019 ou SLICC 2012 ; autres : voir registre)"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune interférant avec l'évaluation ou la sécurité",
+  "Traitement récent déplétant les lymphocytes B ou plasmocytes (anti-CD20 dans les 3 mois, thérapie CD19 ou BCMA dans les 6 mois)",
+  "Glomérulonéphrite rapidement progressive (≥ 50 % de croissants, doublement de la créatinine)",
+  "Maladie cardiaque sévère dans les 12 mois, maladie sévère du système nerveux central",
+  "Cancer antérieur (sauf cancer cutané non mélanome ou carcinome in situ guéri, ou rémission ≥ 3 ans)",
+  "Déficit immunitaire primitif ; autres critères : voir registre"
+ ],
+ "bras": [
+  {
+   "nom": "RD06-05",
+   "traitement": "Une perfusion IV de CAR-T universelles CD19/BCMA à 6 x 10^6 cellules CAR+/kg, escalade possible à 10 x 10^6/kg"
+  }
+ ],
+ "duree": "Jusqu'à 24 mois après la perfusion",
+ "critere": "Incidence des événements indésirables apparus sous traitement, graves et d'intérêt particulier (SRC, ICANS, GVH, infections, cancers) jusqu'à 90 jours (24 mois pour les effets liés)"
+}

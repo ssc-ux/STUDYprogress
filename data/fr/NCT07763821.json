@@ -1,0 +1,14 @@
+{
+ "h": "fb8599bda8d3",
+ "date": "2026-11-14",
+ "titre": "Ribonucléase 1 sérique (RNASE1) comme biomarqueur de la néphrite lupique",
+ "question": "Le taux sérique de ribonucléase 1 distingue-t-il les patients lupiques avec néphrite de ceux sans néphrite ?",
+ "contexte": "La néphrite lupique reste l'une des atteintes les plus graves du lupus et une cause importante de morbidité et de mortalité malgré les progrès thérapeutiques. La biopsie rénale est la référence pour le diagnostic, la classification histologique et le pronostic, mais son caractère invasif limite les évaluations répétées.\n\nEn pratique, on s'appuie sur des marqueurs sérologiques (C3, C4, anticorps anti-ADN natif) et sur la protéinurie, dont la sensibilité et la spécificité pour détecter une atteinte rénale active sont limitées. Un biomarqueur sérique simple pourrait compléter ce suivi.\n\nLa ribonucléase 1 (RNASE1) est une enzyme qui dégrade l'ARN extracellulaire, impliquée dans la clairance des acides nucléiques et possiblement dans la physiopathologie du lupus. Cette étude observationnelle d'Assiut (Égypte) mesure le taux sérique de RNASE1 chez 128 adultes lupiques, avec ou sans néphrite, et compare les deux groupes.",
+ "interet": "Un marqueur sérique peu invasif de la néphrite lupique serait utile, mais cette étude monocentrique de petite taille ne pourra que suggérer un intérêt à confirmer.",
+ "profil": "Des adultes atteints de lupus, avec ou sans néphrite lupique.",
+ "inclusion": ["Adultes ≥ 18 ans avec lupus sans néphrite (critères EULAR/ACR 2019)", "Adultes ≥ 18 ans avec néphrite lupique classée selon ISN/RPS 2018"],
+ "exclusion": ["Âge < 18 ans", "Autre maladie auto-immune", "Infection active ou cancer", "Grossesse ou allaitement", "Incapacité à donner un consentement éclairé"],
+ "bras": [{"nom": "Néphrite lupique", "traitement": "Dosage de la ribonucléase 1 sérique chez les patients avec néphrite lupique"}, {"nom": "Lupus sans néphrite", "traitement": "Dosage de la ribonucléase 1 sérique chez les patients lupiques sans néphrite"}],
+ "duree": "1 an",
+ "critere": "Utilité clinique de la ribonucléase 1 sérique comme biomarqueur de néphrite lupique, à 1 an"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "0543bef24657",
+ "date": "2026-11-14",
+ "titre": "MTS109 (ARNm-LNP) dans les maladies auto-immunes réfractaires (première administration chez l'homme)",
+ "question": "MTS109, un produit à base d'ARNm en nanoparticules lipidiques, est-il bien toléré chez des patients ayant une maladie auto-immune réfractaire ?",
+ "contexte": "Lupus, myopathies inflammatoires, sclérodermie, vascularites à ANCA et syndrome de Sjögren modérés à sévères peuvent résister à plusieurs lignes d'immunosuppresseurs et de biothérapies. Les CAR-T apportent des rémissions mais nécessitent une chimiothérapie de lymphodéplétion et une fabrication cellulaire lourde.\n\nMTS109 est un produit à ARNm en nanoparticules lipidiques (mRNA-LNP) ; le registre ne précise pas son mécanisme. Il s'agit d'une première administration chez l'homme, ouverte, à bras unique et de type panier. Les patients reçoivent une titration progressive aux jours 1, 4 et 7, puis des doses d'entretien aux jours 14, 21 et 28. Le suivi dure jusqu'à 26 semaines. Le registre mentionne à la fois une injection intraveineuse (résumé) et sous-cutanée (description) ; la voie d'administration est donc à vérifier. L'étude est menée à l'hôpital Changzheng de Shanghai chez des patients de 18 à 65 ans, avec des critères d'activité propres à chaque maladie (SLEDAI-2K ≥ 6 et BILAG A ou 2 B pour le LES, MMT-8 et pneumopathie interstitielle pour les myosites).",
+ "interet": "Il s'agit d'une étude de tolérance de phase précoce. Elle explore une approche non cellulaire pour les maladies auto-immunes réfractaires.",
+ "profil": "Des adultes de 18 à 65 ans ayant un lupus, une myopathie, une sclérodermie, une vascularite à ANCA ou un Sjögren modérés à sévères et réfractaires.",
+ "inclusion": ["Âge de 18 à 65 ans", "Consentement écrit signé", "LES (critères 2019) : SLEDAI-2K ≥ 6 avec au moins un BILAG A ou deux B, réfractaire ou en rechute", "Myopathie inflammatoire (critères 2017) avec anticorps spécifiques et forme modérée à sévère", "Échec des corticoïdes plus au moins deux immunomodulateurs ou biothérapies pendant plus de 6 mois", "Critères propres aux autres maladies (sclérodermie, vascularite à ANCA, Sjögren) : non détaillés ici"],
+ "exclusion": ["Non précisé dans l'extrait du registre"],
+ "bras": [{"nom": "MTS109", "traitement": "Titration aux jours 1, 4 et 7 jusqu'à la dose cible, puis doses d'entretien aux jours 14, 21 et 28"}],
+ "duree": "Jusqu'à 26 semaines après la première dose",
+ "critere": "Fréquence des événements indésirables de grade ≥ 3 et de tous les événements indésirables apparus sous traitement, dans les 28 jours après la dernière dose"
+}

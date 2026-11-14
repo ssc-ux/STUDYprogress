@@ -1,0 +1,33 @@
+{
+ "h": "0d679c1f4b9f",
+ "date": "2026-11-14",
+ "titre": "Équécabtagène autoleucel (CAR-T anti-BCMA) dans le lupus systémique réfractaire",
+ "question": "Un CAR-T anti-BCMA (Eque-cel) est-il efficace et sûr dans le lupus systémique en rechute ou réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique multisystémique. Malgré les corticoïdes, l'hydroxychloroquine, les immunosuppresseurs et les biothérapies (bélimumab, anifrolumab), certains patients restent en poussée ou ne tolèrent pas ces traitements, notamment en cas de néphropathie lupique.\n\nL'équécabtagène autoleucel (Eque-cel) est un CAR-T autologue dirigé contre le BCMA, antigène exprimé par les lymphocytes B matures et les plasmocytes, déjà utilisé dans le myélome. Cibler les plasmocytes pourrait éliminer les cellules productrices d'auto-anticorps que le rituximab atteint peu.\n\nCette étude exploratoire monocentrique chinoise (Tongji Hospital, Wuhan), ouverte et à un seul bras, inclut environ 6 adultes. Après trois jours de lymphodéplétion, les patients reçoivent une perfusion de 1,0 × 10^6 cellules CAR-T/kg. Le suivi évalue la tolérance, l'efficacité et la pharmacocinétique pendant 2 à 3 ans. Elle complète les données surtout obtenues avec les CAR-T anti-CD19.",
+ "interet": "Elle explore une stratégie ciblant les plasmocytes dans les formes graves de LES, y compris néphropathie lupique. L'effectif très réduit et l'absence de comparateur limitent la portée à une preuve de concept.",
+ "profil": "Des adultes atteints de lupus systémique actif, en rechute ou réfractaire, avec ou sans néphropathie lupique.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LES (critères EULAR/ACR 2019 ou SLICC 2012) avec SLEDAI-2K ≥ 8 et BILAG A dans ≥ 1 organe ou B dans ≥ 2 organes",
+  "Si néphropathie lupique : classe III, IV, V ou III/IV + V sur biopsie, active",
+  "Réponse insuffisante ou intolérance à des corticoïdes et ≥ 2 autres traitements pendant ≥ 3 mois",
+  "Anticorps positifs (ANA, anti-ADN natif ou anti-Sm)",
+  "Contraception efficace pendant 1 an après la perfusion"
+ ],
+ "exclusion": [
+  "Atteinte neurologique avec BILAG A",
+  "Antécédent de greffe d'organe solide ou de cellules souches",
+  "Traitement antérieur par thérapie cellulaire ou cible BCMA",
+  "Déficit immunitaire primitif connu",
+  "Autre maladie auto-immune pouvant gêner l'évaluation",
+  "Corticoïdes > 20 mg/j d'équivalent prednisone dans la semaine précédente"
+ ],
+ "bras": [
+  {
+   "nom": "Eque-cel",
+   "traitement": "Lymphodéplétion pendant 3 jours puis perfusion unique de 1,0 × 10^6 cellules CAR-T/kg"
+  }
+ ],
+ "duree": "Environ 2 à 3 ans de suivi",
+ "critere": "Taux de réponse SRI-4 à 6 mois après la perfusion"
+}

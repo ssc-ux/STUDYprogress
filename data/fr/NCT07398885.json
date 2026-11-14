@@ -1,5 +1,5 @@
 {
- "h": "340f61d28c44r",
+ "h": "340f61d28c44",
  "date": "2026-11-14",
  "titre": "Complément à base de plantes (EVACUR) contre la fatigue du lupus",
  "question": "Un complément à base de plantes réduit-il la fatigue et l'activité du lupus systémique par rapport au placebo ?",
@@ -19,8 +19,14 @@
   "Allergie grave ou intolérance à EVACUR ou au placebo"
  ],
  "bras": [
-  { "nom": "EVACUR", "traitement": "Gélules d'un mélange de plantes (nigelle, échinacée, gingembre, ginseng rouge, etc.) et de micronutriments, posologie non précisée" },
-  { "nom": "Placebo", "traitement": "Gélules placebo de même aspect" }
+  {
+   "nom": "EVACUR",
+   "traitement": "Gélules d'un mélange de plantes (nigelle, échinacée, gingembre, ginseng rouge, etc.) et de micronutriments, posologie non précisée"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Gélules placebo de même aspect"
+  }
  ],
  "duree": "8 semaines",
  "critere": "Variation du score de fatigue FACIT-F à l'inclusion, à 1 et à 2 mois"

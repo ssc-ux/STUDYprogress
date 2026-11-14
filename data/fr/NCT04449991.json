@@ -1,0 +1,36 @@
+{
+ "h": "cab0d2fafe23",
+ "date": "2026-11-14",
+ "titre": "Biopsie rénale de contrôle à 12 mois dans la néphrite lupique récente",
+ "question": "Une seconde biopsie rénale systématique à 12 mois améliore-t-elle la réponse rénale complète à 24 mois chez des patients avec néphrite lupique récente ?",
+ "contexte": "La néphrite lupique touche 35 à 60 % des patients lupiques et 5 à 20 % évoluent vers l'insuffisance rénale terminale en dix ans. Les traitements d'induction n'obtiennent une rémission rénale complète que chez 20 à 30 % des patients à 6 mois, et 35 % des répondeurs rechutent.\n\nLes marqueurs cliniques et biologiques (protéinurie, créatinine, complément, anti-ADN) corrèlent mal avec l'histologie : des biopsies de contrôle montrent souvent une activité tissulaire persistante malgré une réponse clinique apparente. Le rôle de ces biopsies pour guider la durée du traitement d'entretien reste débattu et n'a pas été testé de façon randomisée.\n\nCette étude du Karolinska Institutet, dans le cadre du Lupus Nephritis Trials Network, randomise 206 adultes avec une néphrite lupique de classe III, IV ± V ou V récente et une protéinurie ≥ 1 g/g, traités selon un schéma standard (méthylprednisolone, prednisone, hydroxychloroquine, IEC/ARA2, mycophénolate ou cyclophosphamide Euro-Lupus). Un bras reçoit une biopsie de contrôle à 12 mois pour guider le traitement, l'autre n'en reçoit pas.",
+ "interet": "Si la biopsie systématique améliore la réponse rénale, elle pourrait modifier la stratégie de suivi et de durée de traitement dans la néphrite lupique. Dans le cas contraire, elle éviterait des gestes invasifs.",
+ "profil": "Des adultes avec une première poussée de néphrite lupique proliférative ou membraneuse, prouvée par biopsie.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR",
+  "Âge ≥ 18 ans",
+  "Néphrite lupique incidente prouvée à la biopsie : classe III, IV ± V ou V (ISN/RPS 2003), avec UPCR ≥ 1 g/g",
+  "Accord pour une éventuelle seconde biopsie à 12 mois",
+  "Traitement standard : méthylprednisolone IV, prednisone 0,3-0,5 mg/kg/j, hydroxychloroquine, IEC/ARA2, mycophénolate ou cyclophosphamide"
+ ],
+ "exclusion": [
+  "Néphropathie du syndrome des antiphospholipides",
+  "Grossesse à l'inclusion",
+  "Contre-indication à la biopsie (plaquettes < 50 000/µL, hypertension non contrôlée, insuffisance rénale terminale)",
+  "Non-observance anticipée",
+  "Pathologie gênant l'évaluation des critères",
+  "Incapacité à lire ou signer le consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Biopsie de contrôle à M12",
+   "traitement": "Seconde biopsie rénale 12 mois après l'inclusion, résultat utilisé pour la suite du traitement"
+  },
+  {
+   "nom": "Sans biopsie de contrôle",
+   "traitement": "Suivi et traitement selon la pratique, sans biopsie à M12"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Réponse rénale complète à 24 mois après l'inclusion"
+}

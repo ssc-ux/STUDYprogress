@@ -1,0 +1,33 @@
+{
+ "h": "1f95198e3030",
+ "date": "2026-11-14",
+ "titre": "CRC01 (CAR-T anti-CD19) dans la néphropathie lupique sévère réfractaire",
+ "question": "CRC01, un CAR-T anti-CD19 autologue, est-il sûr et induit-il une réponse rénale complète dans la néphropathie lupique réfractaire ?",
+ "contexte": "La néphropathie lupique de classe III ou IV est la principale cause de morbidité du lupus. Malgré le cyclophosphamide, le mycophénolate, le tacrolimus, le bélimumab ou le rituximab, une partie des patients n'obtient pas de réponse rénale complète et évolue vers l'insuffisance rénale.\n\nLes CAR-T anti-CD19 provoquent une déplétion B profonde et ont induit des rémissions dans des séries de lupus réfractaire. CRC01 est un produit autologue développé par Curocell (Corée du Sud). L'étude de phase 1/2, ouverte, à un bras et multicentrique, inclut environ 39 adultes ayant une néphropathie lupique de classe III/IV (± V) prouvée par biopsie, une protéinurie (UPCR > 1,5) et un échec d'au moins deux traitements standards.\n\nLes patients reçoivent une perfusion unique après chimiothérapie de lymphodéplétion. La phase 1 détermine la tolérance, la dose maximale tolérée et la dose recommandée. La phase 2 mesure la réponse rénale complète à 24 semaines, avec surveillance du syndrome de relargage cytokinique et de la neurotoxicité.",
+ "interet": "Elle pourrait fournir des données de sécurité et de réponse rénale d'un CAR-T anti-CD19 dans la néphropathie lupique réfractaire. L'absence de comparateur limite l'interprétation de l'efficacité.",
+ "profil": "Des adultes ayant une néphropathie lupique de classe III ou IV réfractaire aux traitements standards.",
+ "inclusion": [
+  "Âge ≥ 19 ans, consentement écrit",
+  "LES selon les critères EULAR/ACR 2019, ANA ≥ 1:80",
+  "Néphropathie lupique de classe III ou IV (± V) sur biopsie de moins d'un an",
+  "Réponse insuffisante ou intolérance à ≥ 2 traitements standards pendant ≥ 6 mois",
+  "Protéinurie : rapport protéine/créatinine urinaire > 1,5",
+  "Hémoglobine > 8 g/dl, PNN > 1000/µl, plaquettes ≥ 50 000/µl, DFG ≥ 30 ml/min/1,73 m²"
+ ],
+ "exclusion": [
+  "Dialyse actuelle ou prévue, greffe rénale",
+  "Lupus neurologique central sévère, actuel ou antérieur",
+  "CAR-T antérieur",
+  "Cancer, sauf exceptions guéries de longue date",
+  "Angor instable ou infarctus dans l'année, insuffisance cardiaque NYHA III-IV",
+  "Thromboembolie, AVC ou saignement notable dans les 6 mois, hépatites B/C actives"
+ ],
+ "bras": [
+  {
+   "nom": "CRC01",
+   "traitement": "Chimiothérapie de lymphodéplétion puis perfusion IV unique de CAR-T anti-CD19 autologues"
+  }
+ ],
+ "duree": "Suivi d'au moins 24 semaines après la perfusion",
+ "critere": "Phase 1 : tolérance à 28 jours, dose maximale tolérée et dose recommandée ; phase 2 : réponse rénale complète à 24 semaines"
+}

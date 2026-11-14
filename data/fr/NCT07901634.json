@@ -1,0 +1,27 @@
+{
+ "h": "b41c9b586e33",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs inflammatoires et ferritine selon la sévérité du lupus pédiatrique",
+ "question": "Les indices SII, NLR, PLR et la ferritine sont-ils associés à la sévérité du lupus de l'enfant ?",
+ "contexte": "Le lupus pédiatrique est une maladie auto-immune chronique, marquée par une activation immunitaire innée et adaptative, une production d'auto-anticorps et une inflammation systémique. Son activité fluctue, ce qui impose un suivi régulier pour adapter l'immunosuppression, limiter les dommages et éviter la toxicité des traitements.\n\nLe score SLEDAI-2K est la référence, mais il nécessite une évaluation clinique complète et des dosages spécialisés (anti-ADN natif, complément) pas toujours disponibles à chaque consultation. Les indices hématologiques simples, comme le rapport neutrophiles/lymphocytes (NLR), le rapport plaquettes/lymphocytes (PLR) et l'indice d'immuno-inflammation systémique (SII), se calculent à partir d'une numération. La ferritine est aussi proposée comme marqueur d'inflammation.\n\nCette étude observationnelle transversale indonésienne inclut environ 62 patients de 11 à 17 ans. Elle compare NLR, PLR, SII et ferritine aux catégories de sévérité (légère, modérée, sévère) du SLEDAI-2K.",
+ "interet": "Elle pourrait valider des marqueurs peu coûteux d'activité du lupus pédiatrique, notamment là où les dosages immunologiques sont limités. L'étude est transversale, monocentrique et ne tranche pas sur un lien causal.",
+ "profil": "Des enfants et adolescents de 11 à 17 ans atteints de lupus systémique.",
+ "inclusion": [
+  "Âge de 11 à 17 ans",
+  "LES selon les critères SLICC 2012 ou EULAR/ACR 2019"
+ ],
+ "exclusion": [
+  "Tumeur maligne",
+  "Malformation congénitale",
+  "Traumatisme grave ou chirurgie majeure dans les 4 semaines précédentes",
+  "Hépatopathie ou carence en fer"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de lupus pédiatrique",
+   "traitement": "Numération sanguine (NLR, PLR, SII), ferritine et score SLEDAI-2K"
+  }
+ ],
+ "duree": "Évaluation ponctuelle à l'inclusion",
+ "critere": "Catégorie de sévérité du lupus pédiatrique (SLEDAI-2K) à l'inclusion"
+}

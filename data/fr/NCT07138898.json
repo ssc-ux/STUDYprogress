@@ -1,0 +1,35 @@
+{
+ "h": "9282a47a2611",
+ "date": "2026-11-14",
+ "titre": "Durée d'arrêt des immunosuppresseurs avant arthroplastie d'épaule chez des patients rhumatologiques",
+ "question": "Raccourcir l'arrêt préopératoire des immunosuppresseurs avant une prothèse d'épaule limite-t-il les poussées sans majorer les complications ?",
+ "contexte": "Chez les patients atteints de maladie rhumatismale (polyarthrite rhumatoïde, lupus, spondyloarthrites, vascularites, myosites), la prise en charge péri-opératoire des immunosuppresseurs pose un dilemme. Les poursuivre augmente le risque d'infection du site opératoire et de retard de cicatrisation. Les arrêter expose à une poussée.\n\nLes durées d'arrêt recommandées reposent sur la chirurgie de hanche et de genou, et les données sur l'épaule sont rares. Les recommandations ACR/AAHKS 2022 suggèrent d'interrompre la plupart des traitements avant l'intervention, avec des durées fondées sur la demi-vie.\n\nCet essai de phase 2 randomisé de NYU Langone inclut environ 80 patients sous immunosuppresseurs depuis au moins 3 mois, programmés pour une arthroplastie totale d'épaule. Une durée d'arrêt standard est comparée à une durée plus courte adaptée à la pharmacocinétique de chaque médicament. Les patients ayant un lupus sévère et actif sont orientés vers un bras observationnel sous traitement.",
+ "interet": "Elle pourrait justifier des arrêts plus courts, donc moins de poussées, sans surcroît de complications. Les résultats concernent surtout la chirurgie de l'épaule.",
+ "profil": "Des adultes ayant une maladie rhumatismale sous immunosuppresseurs, programmés pour une arthroplastie totale d'épaule.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Maladie rhumatismale (PR, rhumatisme psoriasique, spondylarthrite, LES, AJI, PPR, ACG, vascularites, GPA, myosites, arthrite des MICI)",
+  "Immunosuppresseur actif depuis ≥ 3 mois avant la chirurgie",
+  "Arthroplastie totale d'épaule élective programmée",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Infection active ou tumeur maligne",
+  "Arthroplastie pour fracture ou tumeur",
+  "Grossesse ou allaitement",
+  "Lupus sévère très actif (à orienter vers le bras observationnel)",
+  "Incapacité à consentir"
+ ],
+ "bras": [
+  {
+   "nom": "Arrêt standard",
+   "traitement": "Arrêt préopératoire selon les durées des recommandations pour hanche et genou, selon la demi-vie du médicament"
+  },
+  {
+   "nom": "Arrêt court",
+   "traitement": "Arrêt abrégé, durées adaptées à la pharmacocinétique de chaque médicament"
+  }
+ ],
+ "duree": "90 jours après l'intervention",
+ "critere": "Incidence à 90 jours des complications de plaie, infections du site opératoire superficielles et profondes, reprises chirurgicales et poussées rhumatologiques"
+}

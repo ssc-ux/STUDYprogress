@@ -1,0 +1,40 @@
+{
+ "h": "7838ed6f8d09",
+ "date": "2026-11-14",
+ "titre": "Nicotinamide riboside versus placebo sur l'immunométabolisme et l'interféron de type I dans le lupus",
+ "question": "Une supplémentation en nicotinamide riboside, précurseur du NAD+, réduit-elle la signature interféron de type I chez des femmes lupiques ?",
+ "contexte": "Le lupus érythémateux systémique (LES) touche surtout les femmes. Il est sous-tendu par une dérégulation de la voie de l'interféron de type I et par une hyperréactivité des neutrophiles. L'interféron de type I favorise aussi la dysfonction endothéliale, liée à l'excès de risque cardiovasculaire des patientes.\n\nLes neutrophiles féminins ont une capacité bioénergétique mitochondriale réduite. Le nicotinamide riboside (NR) augmente le NAD+ cellulaire. Il atténue l'activation de l'interféron de type I dans les monocytes de volontaires sains in vivo et de patients lupiques ex vivo.\n\nCette étude de phase 1/2 du NHLBI (NIH), randomisée en double aveugle, compare le NR au placebo chez des femmes lupiques d'activité faible à modérée, avec un groupe de volontaires saines sans intervention pour comparer les profils immunométaboliques. L'étude explore aussi la fonction endothéliale. C'est un essai mécanistique, non conçu pour évaluer l'efficacité clinique.",
+ "interet": "Elle teste une piste métabolique complémentaire aux traitements actuels, sans conséquence immédiate sur la pratique. Les résultats resteront des données biologiques de preuve de concept.",
+ "profil": "Des femmes adultes atteintes de lupus systémique d'activité faible à modérée, et des témoins sains.",
+ "inclusion": [
+  "Femme ≥ 18 ans remplissant ≥ 3 des 11 critères ACR 1997 de LES",
+  "SLEDAI-2K entre 0 et 14",
+  "Corticoïdes ≤ 20 mg/j stables depuis ≥ 4 semaines",
+  "Antimalariques et immunosuppresseurs à dose stable depuis 12 semaines",
+  "Arrêt de vitamine B3 ou tryptophane ≥ 6 semaines avant l'inclusion",
+  "Contraception efficace si potentiel de procréation"
+ ],
+ "exclusion": [
+  "Atteinte rénale ou neurologique active, dysfonction rénale ou hépatique majeure",
+  "Rituximab, bélimumab ou autre biothérapie dans les 6 mois",
+  "Cyclophosphamide ou immunoglobulines IV dans les 6 mois, ou hausse des corticoïdes dans les 4 semaines",
+  "Grossesse ou allaitement",
+  "Autre produit expérimental dans les 6 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Témoins sains",
+   "traitement": "Aucune intervention"
+  },
+  {
+   "nom": "LES, nicotinamide riboside",
+   "traitement": "Capsules de nicotinamide riboside (dose non précisée)"
+  },
+  {
+   "nom": "LES, placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "Plusieurs visites de suivi (durée par patient non précisée)",
+ "critere": "Variation de la signature interféron de type I et de la sécrétion de cytokines des monocytes, entre l'inclusion et la visite 3"
+}

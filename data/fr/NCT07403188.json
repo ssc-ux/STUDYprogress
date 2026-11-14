@@ -1,0 +1,21 @@
+{
+ "h": "f5395667dbef",
+ "date": "2026-11-14",
+ "titre": "Suivi à long terme des patients traités par CAR-T KYV-101",
+ "question": "Quels événements indésirables tardifs et quelle persistance des cellules observe-t-on jusqu'à 15 ans après une perfusion de KYV-101 ?",
+ "contexte": "Le KYV-101 est un CAR-T autologue anti-CD19, de Kyverna Therapeutics, étudié dans des maladies auto-immunes réfractaires : néphrite lupique, myasthénie, syndrome de l'homme raide, polyarthrite rhumatoïde, sclérose en plaques, dermatomyosite et sclérodermie. Les cellules CAR-T sont obtenues par modification génétique par vecteur lentiviral.\n\nLes autorités de santé exigent un suivi prolongé, jusqu'à 15 ans, des patients recevant des produits issus de thérapie génique. Les risques à surveiller sont les événements indésirables tardifs, les cancers secondaires, les troubles neurologiques, les infections, les cytopénies et la survenue de lentivirus réplicatifs.\n\nCette étude n'administre aucun traitement. Elle est ouverte à tout participant ayant reçu au moins une perfusion de KYV-101 dans un essai du promoteur ou une étude à promotion académique. Environ 70 patients sont prévus. Les données serviront à documenter la sécurité à long terme et la persistance des cellules modifiées.",
+ "interet": "Cette étude documentera la sécurité à long terme des CAR-T anti-CD19 dans les maladies auto-immunes, où les patients sont plus jeunes et reçoivent moins de chimiothérapie qu'en oncologie. Elle servira à nourrir le rapport bénéfice-risque de cette approche.",
+ "profil": "Des adultes ayant reçu au moins une perfusion de KYV-101 pour une maladie auto-immune dans un essai antérieur.",
+ "inclusion": [
+  "Consentement éclairé signé pour l'étude de suivi",
+  "Au moins une perfusion de KYV-101 dans un protocole parent"
+ ],
+ "exclusion": [
+  "Sans objet"
+ ],
+ "bras": [
+  { "nom": "Cohorte 1", "traitement": "Suivi uniquement, sans intervention, des patients déjà traités par KYV-101" }
+ ],
+ "duree": "Jusqu'à 15 ans",
+ "critere": "Événements indésirables liés au traitement, cancers, troubles neurologiques, hématologiques, auto-immuns et infections nouveaux jusqu'à 15 ans ; lentivirus réplicatifs jusqu'à 5 ans"
+}

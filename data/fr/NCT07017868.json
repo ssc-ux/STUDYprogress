@@ -1,0 +1,14 @@
+{
+ "h": "60fb17eb4898",
+ "date": "2026-11-14",
+ "titre": "Acide urique, homocystéine et interleukine 17 dans la néphrite lupique",
+ "question": "Les taux d'acide urique, d'homocystéine et d'IL-17 sont-ils corrélés entre eux et à l'activité de la maladie chez les patients lupiques avec ou sans néphrite ?",
+ "contexte": "La néphrite lupique touche jusqu'à 60 % des patients lupiques et peut se compliquer d'insuffisance rénale aiguë ou terminale. Son diagnostic repose sur la protéinurie (> 0,5 g/jour), le sédiment urinaire actif ou une élévation inexpliquée de la créatininémie, et sur la biopsie rénale, invasive et parfois contre-indiquée. Des biomarqueurs non invasifs de sévérité et de pronostic sont donc recherchés.\n\nL'IL-17 est une cytokine pro-inflammatoire qui amplifie l'activation des lymphocytes T et stimule la production d'IL-1β, d'IL-6, de TNF-α et de chimiokines attirant les neutrophiles. Peu d'études l'ont étudiée dans la néphrite lupique. L'hyperuricémie est liée à l'atteinte rénale du lupus, et l'hyperhomocystéinémie serait plus fréquente chez les patients lupiques, en particulier avec néphrite.\n\nCette étude observationnelle de l'Université de Sohag (Égypte) compare trois groupes : lupus sans néphrite, lupus avec néphrite et témoins sains. Elle cherche la corrélation entre acide urique, homocystéine et IL-17, et le score d'activité SLEDAI. Les patients avec diabète, hypertension, insuffisance cardiaque, maladie hépatique, autre insuffisance rénale ou traitement hypo-uricémiant sont exclus.",
+ "interet": "Si ces marqueurs sont corrélés à l'activité, ils pourraient compléter le suivi de la néphrite lupique, mais l'étude ne permet pas d'établir un lien de causalité. Les résultats resteront exploratoires.",
+ "profil": "Des adultes lupiques avec ou sans néphrite, et des témoins sains.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus systémique (critères SLICC) et témoins appariés", "Patient coopérant, capable de répondre aux questions", "Consentement écrit"],
+ "exclusion": ["Autre maladie auto-immune", "Traitement d'une hyperuricémie", "Grossesse, cancer, diabète, hypertension, insuffisance cardiaque, maladie hépatique", "Insuffisance rénale chronique autre que lupique, sténose de l'artère rénale, thrombose de la veine rénale, néphropathie obstructive", "Patient non coopérant ou refus de consentir"],
+ "bras": [{"nom": "Lupus sans néphrite", "traitement": "Dosage d'IL-17, acide urique et homocystéine"}, {"nom": "Lupus avec néphrite", "traitement": "Dosage d'IL-17, acide urique et homocystéine"}, {"nom": "Témoins sains", "traitement": "Dosage d'IL-17, acide urique et homocystéine"}],
+ "duree": "Évaluation sur 1 an",
+ "critere": "Score d'activité SLEDAI, évalué sur 1 an"
+}

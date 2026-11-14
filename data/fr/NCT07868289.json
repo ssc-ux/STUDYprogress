@@ -1,0 +1,35 @@
+{
+ "h": "02605ffb21ae",
+ "date": "2026-11-14",
+ "titre": "Respiration à fréquence de résonance associée à l'exercice dans le lupus avec sensibilisation centrale",
+ "question": "Ajouter une respiration lente à 6 cycles par minute à un programme d'exercice réduit-il la sensibilisation centrale chez des patients lupiques ?",
+ "contexte": "Le lupus s'accompagne souvent de fatigue, de douleur chronique et de sensibilisation centrale. L'exercice physique est fortement recommandé pour améliorer la capacité fonctionnelle et la fatigue, mais l'hypersensibilité à la douleur limite l'adhésion et les gains cliniques.\n\nLa respiration à fréquence de résonance (respiration diaphragmatique à 6 cycles par minute, soit 0,1 Hz) stimule le baroréflexe et favorise la régulation autonome, ce qui pourrait atténuer le traitement central de la douleur. Cette approche a été étudiée dans d'autres douleurs chroniques.\n\nCet essai randomisé en simple aveugle, mené à l'université d'Istanbul-Cerrahpaşa, inclut environ 38 patients lupiques avec un score de sensibilisation centrale (CSI) ≥ 40. Les deux groupes suivent 8 semaines d'exercice standard (aérobie, renforcement, amplitudes, étirements). Le groupe intervention y ajoute la respiration guidée par l'application Prana Breath, avec un rapport inspiration/expiration de 4:6.",
+ "interet": "Elle pourrait valider une intervention peu coûteuse pour améliorer la douleur centrale et l'adhésion à l'exercice dans le lupus. L'effectif réduit et la durée de 8 semaines limitent la portée.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus avec sensibilisation centrale (CSI ≥ 40).",
+ "inclusion": [
+  "LES selon les critères ACR/EULAR 2019",
+  "Âge de 18 à 65 ans",
+  "Score CSI ≥ 40",
+  "Traitement stable depuis ≥ 3 mois",
+  "Consentement écrit et capacité à suivre le protocole"
+ ],
+ "exclusion": [
+  "Contre-indication cardiovasculaire ou pulmonaire à l'exercice ou à la respiration contrôlée",
+  "Chirurgie majeure dans les 6 mois",
+  "Grossesse",
+  "Poussée sévère active",
+  "Pratique régulière d'exercices respiratoires, de pranayama ou de yoga"
+ ],
+ "bras": [
+  {
+   "nom": "Exercice standard",
+   "traitement": "Programme de 8 semaines : aérobie, renforcement progressif, amplitudes articulaires, étirements"
+  },
+  {
+   "nom": "Exercice + respiration de résonance",
+   "traitement": "Même programme plus respiration diaphragmatique à 6 cycles/min (rapport 4:6) avec l'application Prana Breath"
+  }
+ ],
+ "duree": "8 semaines",
+ "critere": "Variation du score CSI entre l'inclusion et la semaine 8"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "6b30ba8b0b6d",
+ "date": "2026-11-14",
+ "titre": "Validation du faible niveau d'activité du lupus (LLDAS) dans la région Asie-Pacifique",
+ "question": "Atteindre le faible niveau d'activité du lupus (LLDAS) protège-t-il contre l'accumulation de dommages d'organe ?",
+ "contexte": "Le lupus érythémateux systémique (LES) touche surtout des femmes jeunes, avec une perte d'espérance de vie et une morbidité importante liées à l'inflammation multi-organes, aux dommages irréversibles (notamment rénaux et du système nerveux central) et à la toxicité des corticoïdes et immunosuppresseurs. Malgré les traitements combinés, la plupart des patients ont un contrôle insuffisant et accumulent des dommages.\n\nLe LLDAS est une cible thérapeutique définie par l'Asia Pacific Lupus Collaboration (Franklyn et al., Ann Rheum Dis 2016), qui associe un faible niveau d'activité et une dose limitée de corticoïdes et d'immunosuppresseurs. Cette cohorte prospective multicentrique internationale, promue par Monash University, suit jusqu'à 5 000 patients adultes, récents ou anciens, pendant environ 5 ans. Les données nécessaires au score LLDAS sont recueillies régulièrement, avec le SLICC/ACR Damage Index et le SF-36v2 chaque année. L'association entre l'atteinte, ou le maintien, du LLDAS et la protection contre les dommages sera analysée.",
+ "interet": "Les résultats valideront le LLDAS comme cible de traitement (treat-to-target) et comme critère d'essai dans le LES. Ils éclairent l'objectif thérapeutique à viser en consultation.",
+ "profil": "Des adultes atteints de LES, récent ou ancien, suivis dans la région Asie-Pacifique.",
+ "inclusion": ["Âge ≥ 18 ans, capable de consentir par écrit", "LES selon les critères ACR 1997 (≥ 4 critères sur 11)", "Ou critères SLICC 2012 (≥ 4 sur 17, dont un clinique et un immunologique, ou néphrite avec critère immunologique)", "Patients nouvellement diagnostiqués ou de longue date"],
+ "exclusion": ["Âge < 18 ans", "Patients incapables de consentir"],
+ "bras": [{"nom": "Cohorte LES", "traitement": "Suivi prospectif d'environ 5 ans, sans intervention, avec recueil régulier de l'activité, du traitement, des dommages et de la qualité de vie"}],
+ "duree": "Environ 5 ans de suivi par patient",
+ "critere": "Dommages d'organe mesurés par le SLICC/ACR Damage Index, à environ 5 à 10 ans"
+}

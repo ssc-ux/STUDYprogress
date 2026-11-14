@@ -1,0 +1,32 @@
+{
+ "h": "54faad6e4d9f",
+ "date": "2026-11-14",
+ "titre": "Pronostic des présentations typiques et atypiques du lupus systémique",
+ "question": "Les formes atypiques de lupus ont-elles une activité, un dommage d'organe et un pronostic différents de ceux des formes typiques ?",
+ "contexte": "Le lupus a des présentations inaugurales très variables. À côté des formes classiques (signes généraux, arthrite, atteinte cutanéo-muqueuse, ANA positifs, début entre 20 et 50 ans), de nombreuses formes sont atypiques : début neuropsychiatrique, cardio-pulmonaire, digestif ou hématologique sévère, lupus bulleux, panniculite, myosite, fièvre isolée, thrombose, atteinte d'organe dominante, début tardif ou ANA négatifs.\n\nCes formes entraînent souvent un retard diagnostique et peuvent avoir un pronostic moins bon, mais elles sont surtout décrites comme des manifestations rares isolées plutôt que comme une catégorie. Cette étude observationnelle de l'Université de Sohag (Égypte) compare 400 patients avec lupus (critères SLICC 2012) selon une présentation typique ou atypique, en termes d'activité (SLEDAI-2K) et d'accumulation de dommage (SDI) à 6 et 12 mois, de besoins thérapeutiques et d'atteintes ultérieures d'organes.",
+ "interet": "Mieux caractériser les formes atypiques peut aider à raccourcir le délai diagnostique et à adapter la surveillance. Les résultats seront monocentriques et dépendront de la définition retenue de l'atypie.",
+ "profil": "Des adultes atteints de lupus, avec une présentation typique ou atypique.",
+ "inclusion": [
+  "Lupus selon les critères SLICC 2012",
+  "Présentation typique : début à 20-50 ans, signes généraux, arthrite ou atteinte cutanéo-muqueuse, ANA positifs",
+  "Présentation atypique : début neuropsychiatrique, cardio-pulmonaire, digestif ou hématologique sévère, atteinte cutanée atypique, myosite, fièvre isolée, thrombose, adénopathies, atteinte d'organe dominante, début tardif ou ANA négatifs",
+  "Capacité à consentir"
+ ],
+ "exclusion": [
+  "Symptômes initiaux clairement attribuables à une infection ou à une autre maladie",
+  "Maladie chronique préexistante pouvant mimer ou masquer le début du lupus (épilepsie primitive, HTAP primitive, maladie hépatique ou digestive chronique)",
+  "Présentation mixte ou non classable"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus à présentation typique",
+   "traitement": "Suivi observationnel"
+  },
+  {
+   "nom": "Lupus à présentation atypique",
+   "traitement": "Suivi observationnel"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Activité de la maladie (SLEDAI-2K) à l'inclusion, 6 et 12 mois, et accumulation de dommage (SDI) à 6 et 12 mois"
+}

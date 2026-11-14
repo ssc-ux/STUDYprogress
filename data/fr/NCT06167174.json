@@ -1,0 +1,14 @@
+{
+ "h": "456d004a9c97",
+ "date": "2026-11-14",
+ "titre": "Biomarqueurs multi-omiques de la réponse thérapeutique dans la néphrite lupique",
+ "question": "Des biomarqueurs sanguins, urinaires et rénaux prédisent-ils la réponse au mycophénolate ou au cyclophosphamide dans la néphrite lupique ?",
+ "contexte": "La néphrite lupique proliférative est traitée par corticoïdes associés au mycophénolate mofétil (MMF) ou au cyclophosphamide, mais une part importante de patients n'obtient pas de réponse rénale complète. Aucun marqueur validé ne permet de prédire, avant traitement, qui répondra à quel immunosuppresseur.\n\nCette étude observationnelle du groupe chinois CSTAR inclut 100 patients de 16 à 60 ans avec une néphrite de classe III, IV, V+III ou V+IV active à la biopsie. Les patients reçoivent soit du MMF 2 g/j, soit du cyclophosphamide 0,5 g IV toutes les deux semaines, associés aux corticoïdes. Du sang, des urines et du tissu rénal sont collectés avant et après traitement. Des analyses multi-omiques (RNA-seq en cellule unique, ATAC-seq, CITE-seq) chercheront des signatures associées à la réponse et au pronostic. Le critère est la réponse à 24 semaines.",
+ "interet": "Si des marqueurs prédictifs sont identifiés, ils pourraient guider le choix entre MMF et cyclophosphamide. Il s'agit d'une étude exploratoire de faible effectif qui nécessitera une validation indépendante.",
+ "profil": "Des patients de 16 à 60 ans ayant une néphrite lupique proliférative active, traités par MMF ou cyclophosphamide.",
+ "inclusion": ["Âge de 16 à 60 ans", "LES selon critères SLICC 2012", "Biopsie rénale récente (6 mois) : classe III, IV, V+III ou V+IV, avec activité", "Protéinurie > 1 g/24 h sur deux mesures à moins de 2 semaines", "Jamais traité, ou traitement standard stable depuis > 1 mois (prednisone ≤ 20 mg/j, MMF ≤ 1 g/j, etc.)", "Consentement obtenu"],
+ "exclusion": ["Autre connectivite ou maladie auto-immune associée", "Lupus neuropsychiatrique, hémorragie alvéolaire, atteinte rétinienne, HTAP ou autre atteinte d'organe sévère", "Grossesse ou allaitement", "Infection nécessitant antibiotiques ou antiviraux", "Autre néphropathie", "Plaquettes < 50 G/L, ALT/AST > 1,5 N, bilirubine ou lipides > 2 N"],
+ "bras": [{"nom": "Groupe MMF", "traitement": "Mycophénolate mofétil 2 g/j avec corticoïdes"}, {"nom": "Groupe cyclophosphamide", "traitement": "Cyclophosphamide 0,5 g IV toutes les 2 semaines avec corticoïdes"}],
+ "duree": "24 semaines",
+ "critere": "Réponse au traitement à 24 semaines"
+}

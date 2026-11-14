@@ -1,0 +1,44 @@
+{
+ "h": "6bf89b09c84a",
+ "date": "2026-11-14",
+ "titre": "CNTY-101 (cellules NK CAR anti-CD19) dans les maladies auto-immunes B réfractaires",
+ "question": "Le CNTY-101 est-il sûr, et quel schéma recommander, chez des patients ayant un lupus, une myopathie inflammatoire ou une sclérodermie diffuse réfractaires ?",
+ "contexte": "Le lupus (avec ou sans néphrite), les myopathies inflammatoires et la sclérodermie cutanée diffuse peuvent rester actifs malgré les traitements immunosuppresseurs et biologiques. La déplétion profonde des lymphocytes B par CAR-T anti-CD19 a produit des rémissions dans de petites séries, mais la fabrication autologue est longue et coûteuse, et la toxicité (syndrome de relargage cytokinique, neurotoxicité) demande une surveillance étroite.\n\nLe CNTY-101, de Century Therapeutics, est un produit allogénique prêt à l'emploi de cellules NK dérivées de cellules souches pluripotentes induites, exprimant un récepteur chimérique anti-CD19. Cette étude de phase 1 (CALiPSO-1) comprend quatre bras selon la maladie (LES, néphrite lupique, myopathie inflammatoire, sclérodermie diffuse). Les patients reçoivent une chimiothérapie lymphodéplétive puis le CNTY-101, avec ou sans IL-2 et avec une lymphodéplétion éventuellement optimisée. Six participants sont prévus. Les critères principaux sont les événements indésirables, les toxicités limitantes et le schéma recommandé pour la phase 2.",
+ "interet": "L'étude évaluera la faisabilité d'une thérapie cellulaire allogénique sans délai de fabrication dans plusieurs maladies auto-immunes B. Il s'agit d'une phase 1 centrée sur la sécurité.",
+ "profil": "Des personnes de 17 ans ou plus ayant un lupus, une néphrite lupique, une myopathie inflammatoire ou une sclérodermie diffuse réfractaires.",
+ "inclusion": [
+  "Âge ≥ 17 ans, fonction d'organe adéquate",
+  "LES (critères EULAR/ACR 2019) depuis ≥ 6 mois avec anticorps anti-ADN, anti-Sm, anti-histone ou anti-nucléosome",
+  "LES : SLEDAI-2K ≥ 8 avec ≥ 2 BILAG B, ou au moins un BILAG A (cardiaque, respiratoire, vasculaire, rénal)",
+  "Néphrite lupique active prouvée par biopsie (détails dans le registre)",
+  "Myopathie inflammatoire ou sclérodermie diffuse réfractaires selon les critères du protocole"
+ ],
+ "exclusion": [
+  "Hémodialyse",
+  "Antécédent de greffe allogénique de moelle ou d'organe",
+  "Maladie du système nerveux central récente ou significative",
+  "Événement thromboembolique dans les 12 mois, insuffisance hépatique Child-Pugh C",
+  "LES : BILAG A neuropsychiatrique, poussée aiguë sévère nécessitant un traitement immédiat, lupus induit",
+  "Néphrite lupique de classe III, IV, V ou VI sur la biopsie la plus récente pour le bras LES (voir registre)"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A",
+   "traitement": "CNTY-101 chez des patients lupiques, après lymphodéplétion"
+  },
+  {
+   "nom": "Bras B",
+   "traitement": "CNTY-101 chez des patients avec néphrite lupique"
+  },
+  {
+   "nom": "Bras C",
+   "traitement": "CNTY-101 chez des patients avec myopathie inflammatoire"
+  },
+  {
+   "nom": "Bras D",
+   "traitement": "CNTY-101 chez des patients avec sclérodermie diffuse"
+  }
+ ],
+ "duree": "Toxicités évaluées jusqu'à 29 jours, schéma recommandé jusqu'à 3 mois",
+ "critere": "Événements indésirables (29 jours), toxicités limitantes (28 jours après la première perfusion) et schéma recommandé pour la phase 2 (jusqu'à 3 mois)"
+}

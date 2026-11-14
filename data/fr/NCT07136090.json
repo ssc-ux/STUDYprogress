@@ -1,0 +1,31 @@
+{
+ "h": "40fe5e933af8",
+ "date": "2026-11-14",
+ "titre": "Consensus Delphi OMERACT sur les domaines de résultats du lupus systémique",
+ "question": "Quels domaines de résultats sont les plus importants pour les patients et les autres acteurs dans le lupus ?",
+ "contexte": "Le lupus est une maladie multisystémique à poussées, qui touche surtout les femmes en âge de procréer et pèse sur la productivité, la vie sociale et la qualité de vie. La diversité de ses manifestations a conduit à l'utilisation de nombreux outils de mesure dans les essais et les cohortes, ce qui complique les comparaisons.\n\nLe groupe OMERACT a défini un ensemble minimal de domaines (core domain set) du lupus en 1998. L'objectif actuel est de le réviser pour y inclure l'expérience des patients. Un travail qualitatif et une revue de la littérature ont généré 25 domaines répartis dans plusieurs « aires » de base.\n\nCette étude du University Health Network (Toronto) est une enquête e-Delphi en 4 tours sur REDCap, auprès d'environ 400 participants : patients lupiques, cliniciens, chercheurs, payeurs, décideurs, industriels et régulateurs, dans 11 langues.",
+ "interet": "Elle produira un ensemble consensuel de domaines à mesurer dans les futurs essais sur le lupus. Elle n'a pas d'effet direct sur la pratique.",
+ "profil": "Des adultes atteints de lupus et d'autres acteurs (cliniciens, chercheurs, payeurs, régulateurs), pouvant lire l'une des 11 langues de l'enquête.",
+ "inclusion": [
+  "Hommes et femmes de 18 ans et plus",
+  "Lecture et compréhension d'une des langues de l'étude (anglais, espagnol, français, italien, portugais, japonais, arabe, coréen, hébreu, allemand, chinois)",
+  "Accès à une adresse e-mail et à Internet",
+  "Cohorte patients (vécu du lupus) ou autres acteurs"
+ ],
+ "exclusion": [
+  "Incapacité à lire et comprendre les langues de l'étude",
+  "Absence d'accès à l'e-mail ou à Internet"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte de patients",
+   "traitement": "Personnes ayant un lupus, enquête Delphi"
+  },
+  {
+   "nom": "Autres acteurs",
+   "traitement": "Cliniciens, chercheurs, payeurs, décideurs, industriels, régulateurs"
+  }
+ ],
+ "duree": "Enquête en 4 tours sur 6 mois",
+ "critere": "Ensemble minimal de domaines du lupus défini par enquête Delphi en 4 tours, sur 6 mois"
+}

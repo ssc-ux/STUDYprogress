@@ -1,0 +1,14 @@
+{
+ "h": "0da2b25e4ab6",
+ "date": "2026-11-14",
+ "titre": "CABA-201 (CAR-T anti-CD19 autologues) dans le lupus actif (RESET-SLE)",
+ "question": "Les CAR-T anti-CD19 CABA-201 sont-elles sûres et efficaces chez des patients avec lupus actif, avec ou sans néphropathie lupique ?",
+ "contexte": "Le lupus systémique est marqué par la production d'auto-anticorps et un dysfonctionnement des lymphocytes B. La néphropathie lupique en est une manifestation fréquente et sévère, source de morbidité et de mortalité. Les formes réfractaires aux traitements actuels n'ont pas d'option établie.\n\nLes CAR-T anti-CD19 autologues ont induit des rémissions sans traitement dans de petites séries de lupus réfractaire, en détruisant les lymphocytes B puis en les laissant se reconstituer sous une forme naïve (« reset » immunitaire). Le CABA-201 (resecabtagene autoleucel, « rese-cel », Cabaletta Bio) est un CAR-T autologue anti-CD19. RESET-SLE est une étude de phase 1/2 ouverte de 28 patients dans 23 centres (3 pays). Elle inclut deux cohortes parallèles (néphropathie lupique et lupus sans atteinte rénale), d'abord avec le conditionnement standard par fludarabine et cyclophosphamide, puis avec des doses croissantes sans conditionnement. Les adolescents de 12 ans et plus sont éligibles.",
+ "interet": "Cette étude pourrait établir la tolérance et l'efficacité d'un CAR-T anti-CD19 dans le lupus, y compris sans chimiothérapie de conditionnement. Une version sans conditionnement serait plus facile à utiliser.",
+ "profil": "Des adultes (18-65 ans) et adolescents (12-17 ans) avec un lupus actif, avec ou sans néphropathie lupique.",
+ "inclusion": ["Âge de 18 à 65 ans (adultes) ou de 12 à < 18 ans (adolescents)", "Lupus selon les critères EULAR/ACR 2019", "ANA ou anti-ADN natif positifs", "Néphropathie lupique : classe III ou IV (± V) active, biopsie selon ISN/RPS 2018", "Lupus non rénal : maladie active modérée à sévère"],
+ "exclusion": ["Contre-indication à la leucaphérèse", "Anaphylaxie à la fludarabine ou au cyclophosphamide", "Infection active nécessitant un traitement", "Maladie sévère, progressive ou non contrôlée (rénale, hépatique, hématologique, cardiaque, neurologique, etc.)", "Traitement CAR-T antérieur, greffe d'organe ou de cellules souches", "Autre néphropathie que la néphropathie lupique (cohorte rénale)"],
+ "bras": [{ "nom": "CABA-201 avec conditionnement fludarabine/cyclophosphamide", "traitement": "CABA-201 en dose unique après fludarabine et cyclophosphamide (cohortes néphropathie lupique, lupus non rénal et expansion)" }, { "nom": "CABA-201 sans conditionnement", "traitement": "CABA-201 à doses croissantes, sans lymphodéplétion" }],
+ "duree": "Critère principal à 28 jours (durée totale du suivi non précisée)",
+ "critere": "Incidence des événements indésirables jusqu'à 28 jours après la perfusion de CABA-201"
+}

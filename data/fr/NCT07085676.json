@@ -1,0 +1,14 @@
+{
+ "h": "2ee1d94c436d",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA (HBI0101) dans les maladies auto-immunes réfractaires à médiation B",
+ "question": "Les CAR-T anti-BCMA HBI0101 sont-ils sûrs, et quelle dose maximale tolérée retenir dans les maladies auto-immunes réfractaires ?",
+ "contexte": "Le lupus, la sclérodermie, les myopathies inflammatoires, la polyarthrite rhumatoïde, la sclérose en plaques progressive, la neuromyélite optique, la myasthénie et le syndrome des antiphospholipides peuvent rester actifs malgré plusieurs lignes de traitement. Les lymphocytes B et les plasmocytes producteurs d'auto-anticorps y jouent un rôle central.\n\nBCMA est un antigène des plasmocytes. Un CAR-T anti-BCMA vise à éliminer les plasmocytes pathogènes, qui échappent aux anti-CD20. HBI0101 est un CAR-T anti-BCMA autologue développé en Israël (promoteur : Polina Stepensky).\n\nCet essai de phase 1 monocentrique ouvert comporte deux parties : la partie A établit le profil de sécurité et la dose maximale tolérée, la partie B élargit à la dose retenue pour confirmer la sécurité. Jusqu'à 120 patients de 18 à 80 ans seront inclus. Après leucaphérèse et lymphodéplétion, chaque patient reçoit une dose unique de 450 ou 800 millions de cellules, puis est hospitalisé quelques jours et suivi jusqu'à 48 mois. Pour le lupus, les patients doivent avoir un SLEDAI-2K ≥ 8 et avoir échoué à un immunosuppresseur conventionnel, un inhibiteur de calcineurine et une biothérapie (bélimumab, rituximab, anifrolumab). Des critères spécifiques existent pour chaque maladie, par exemple la sclérodermie progressive.",
+ "interet": "L'étude teste la cible plasmocytaire sur un large éventail de maladies auto-immunes. Elle pourrait identifier celles où le signal est le plus fort pour des essais ultérieurs.",
+ "profil": "Des adultes de 18 à 80 ans atteints d'une maladie auto-immune à médiation B réfractaire (lupus, sclérodermie, myopathie, polyarthrite, SEP, NMOSD, myasthénie, SAPL).",
+ "inclusion": ["Âge de 18 à 80 ans (évaluation gériatrique si ≥ 75 ans)", "Lupus : SLEDAI-2K ≥ 8, échec d'un traitement conventionnel, d'un inhibiteur de calcineurine et d'une biothérapie (3 mois chacun), ou contre-indication", "Sclérodermie sévère ou rapidement progressive (Rodnan ≥ 15 ou progression, atteinte d'organe, pneumopathie progressive), après échec d'au moins 2 immunosuppresseurs", "Autres maladies : critères spécifiques non reproduits dans le registre consulté"],
+ "exclusion": ["Liste détaillée non reproduite dans le registre consulté : non précisé"],
+ "bras": [{"nom": "HBI0101 (CAR-T anti-BCMA)", "traitement": "Dose unique de 450 ou 800×10⁶ cellules après lymphodéplétion"}],
+ "duree": "Suivi jusqu'à 48 mois après la perfusion",
+ "critere": "Partie A : profil de tolérance initial, 21 jours après la perfusion ; partie B : confirmation de la tolérance à la dose retenue, sur 4 ans"
+}

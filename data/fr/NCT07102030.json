@@ -1,0 +1,30 @@
+{
+ "h": "7116ff769a61",
+ "date": "2026-11-14",
+ "titre": "Sous-groupes de lupus (auto-anticorps, génétique, biomarqueurs) et risque vasculaire (Karolinska)",
+ "question": "Des sous-groupes de lupus définis par les auto-anticorps ou la génétique expliquent-ils le risque vasculaire prématuré ?",
+ "contexte": "Les patients lupiques ont un risque élevé de maladie vasculaire prématurée, qui n'est pas totalement expliqué par les facteurs de risque classiques. Les anticorps antiphospholipides et la néphropathie lupique jouent un rôle, mais les mécanismes restent incomplets.\n\nCette étude suédoise du Karolinska s'appuie sur des études transversales réalisées tous les 10 ans (depuis 1995-99, puis 2004-14, et un troisième suivi depuis 2015 avec environ 400 patients déjà inclus). Les données incluent une caractérisation clinique détaillée, des questionnaires de mode de vie, l'échographie carotidienne, la densité osseuse, l'activité, l'atteinte rénale et les profils d'auto-anticorps. Des échantillons de plasma, sérum, ADN, urine et salive sont conservés.\n\nL'étude vise à définir des sous-groupes par auto-anticorps, génétique ou biomarqueurs, plutôt que par les entités diagnostiques actuelles, et à étudier les mécanismes des aPL et de la néphrite. Environ 900 participants sont attendus, comparés à des témoins de la population générale appariés.",
+ "interet": "Elle pourrait permettre de stratifier le risque vasculaire des patients lupiques pour une prise en charge plus ciblée. Elle n'évalue pas de traitement.",
+ "profil": "Des adultes lupiques suivis à Karolinska et des témoins de la population générale appariés.",
+ "inclusion": [
+  "LES selon critères ACR 1982 ou SLICC 2012",
+  "Consentement à participer",
+  "Témoins appariés (âge, sexe, région) issus des registres nationaux"
+ ],
+ "exclusion": [
+  "Impossibilité de comprendre l'information en raison de la langue ou d'un trouble psychique",
+  "Absence de consentement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Évaluation clinique, biologique et vasculaire, sans intervention"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Témoins de la population générale appariés"
+  }
+ ],
+ "duree": "Cohorte transversale répétée, 2024-2027",
+ "critere": "Sous-groupes définis par les auto-anticorps et événements cardiovasculaires, 2024-2027"
+}

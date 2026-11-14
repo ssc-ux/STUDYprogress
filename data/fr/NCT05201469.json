@@ -1,0 +1,35 @@
+{
+ "h": "c76dbd4c14d3",
+ "date": "2026-11-14",
+ "titre": "VIB4920 contre placebo dans la néphrite lupique active (VIBRANT)",
+ "question": "VIB4920 ajouté au mycophénolate et à la prednisone augmente-t-il la réponse rénale complète à 36 semaines dans la néphrite lupique active ?",
+ "contexte": "La néphrite lupique de classe III, IV ou V est l'atteinte grave la plus fréquente du lupus. Même avec les traitements actuels (mycophénolate, cyclophosphamide, bélimumab, voclosporine, obinutuzumab), la réponse rénale complète n'est obtenue que chez une minorité de patients, et la progression vers l'insuffisance rénale reste un risque.\n\nL'interaction CD40-CD40L est centrale dans la coopération entre lymphocytes T et B, la formation des centres germinatifs et la production d'auto-anticorps. Le VIB4920 est une protéine de fusion bloquant CD40L, qui n'a pas l'effet thrombotique observé avec les anticorps anti-CD40L de première génération. Cet essai de phase 2 du NIAID randomise 74 adultes ayant une néphrite lupique active prouvée par biopsie, avec RPCU ≥ 1,0, à recevoir VIB4920 1 500 mg IV ou placebo, aux semaines 0, 2, 4, 8, 12, 16, 20 et 24, en plus du mycophénolate et de la prednisone après 1 000 mg de méthylprednisolone. Le critère principal est la réponse rénale complète à la semaine 36.",
+ "interet": "Si le blocage de CD40L améliore la réponse rénale, il pourrait s'ajouter au traitement de fond de la néphrite lupique.",
+ "profil": "Des adultes ayant une néphrite lupique active de classe III, IV ou V + III/IV, prouvée par biopsie.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LES selon les critères ACR 1997, SLICC 2012 ou EULAR/ACR 2019",
+  "RPCU ≥ 1,0 sur 24 heures",
+  "Biopsie rénale dans les 24 semaines : classe III, IV ou V associée à III/IV, avec indice d'activité NIH modifié ≥ 1"
+ ],
+ "exclusion": [
+  "Contre-indication ou inadéquation du mycophénolate",
+  "Biothérapie (sauf bélimumab) ou produit expérimental dans les 90 jours ou 5 demi-vies",
+  "Rituximab ou autre déplétion B dans les 6 mois, traitement antérieur par VIB4920",
+  "Vaccin vivant atténué dans les 4 semaines",
+  "Comorbidités nécessitant des corticoïdes systémiques (≥ 3 cures en 12 mois)",
+  "Cancer actuel ou antérieur (sauf carcinomes cutanés ou du col traités > 12 mois), insuffisance rénale terminale"
+ ],
+ "bras": [
+  {
+   "nom": "VIB4920",
+   "traitement": "1 500 mg IV aux semaines 0, 2, 4, 8, 12, 16, 20 et 24, + mycophénolate + prednisone"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo IV aux mêmes temps, + mycophénolate + prednisone"
+  }
+ ],
+ "duree": "36 semaines",
+ "critere": "Proportion de patients ayant une réponse rénale complète à la semaine 36"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "bd9e643afd0dr",
+ "date": "2026-11-14",
+ "titre": "Extension ouverte de l'acoramidis dans la cardiomyopathie amyloïde à transthyrétine",
+ "question": "L'acoramidis, stabilisateur de la transthyrétine, reste-t-il bien toléré au long cours chez des patients ayant une cardiomyopathie amyloïde ATTR ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), héréditaire ou sauvage, est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée chez le sujet âgé. Le tafamidis a montré une réduction de la mortalité et des hospitalisations, mais le besoin de traitements plus efficaces persiste.\n\nL'acoramidis (AG10) est un stabilisateur du tétramère de transthyrétine qui limite sa dissociation en monomères amyloïdogènes. Il a ensuite été évalué dans l'essai de phase 3 ATTRibute-CM. Cette étude de phase 2 d'Eidos Therapeutics (BridgeBio) est une extension ouverte de l'étude AG10-201, qui administre 800 mg deux fois par jour, en plus d'un traitement stable de l'insuffisance cardiaque. Elle suit la tolérance, la pharmacocinétique et la pharmacodynamie sur le long terme. Elle a inclus 47 patients et a été arrêtée, avec une exposition maximale de 84 mois.",
+ "interet": "Elle apporte des données de tolérance à très long terme de l'acoramidis dans une population âgée et fragile.",
+ "profil": "Des adultes atteints de cardiomyopathie amyloïde ATTR symptomatique, ayant terminé l'étude de phase 2 AG10-201.",
+ "inclusion": [
+  "Étude AG10-201 terminée",
+  "Capacité à suivre le traitement et le protocole",
+  "Consentement éclairé",
+  "Contraception efficace chez les hommes et les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Instabilité hémodynamique à risque",
+  "Anomalies biologiques à risque",
+  "Affection ou anomalie biologique cliniquement significative pouvant nuire à la sécurité",
+  "Hypersensibilité à l'acoramidis",
+  "Transplantation cardiaque ou assistance mécanique probable dans l'année",
+  "Traitement récent par diflunisal, tafamidis, thé vert, doxycycline, TUDCA, patisiran, inotersen ou autre agent expérimental ATTR",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Ouvert",
+   "traitement": "Acoramidis 800 mg par voie orale, deux fois par jour"
+  }
+ ],
+ "duree": "Jusqu'à plus de 7 ans (exposition maximale 84,1 mois)",
+ "critere": "Synthèse des événements indésirables survenus sous traitement, de la première dose jusqu'à 30 jours après la dernière",
+ "resultats": "Les 47 participants ont présenté au moins un événement indésirable sous traitement. Quarante ont eu un événement grave et 17 sont décédés pendant l'étude. Ces chiffres s'inscrivent dans une population âgée atteinte d'une maladie cardiaque évoluée, avec une exposition allant jusqu'à 84,1 mois. L'étude étant ouverte et sans comparateur, le registre ne permet pas d'attribuer ces événements au traitement."
+}

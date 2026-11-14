@@ -1,0 +1,14 @@
+{
+ "h": "70c4eaeb479b",
+ "date": "2026-11-14",
+ "titre": "QLS2416 sous-cutané dans les maladies auto-immunes à médiation B (phase 1)",
+ "question": "QLS2416 est-il bien toléré, à doses croissantes, chez des patients ayant un lupus, une polyarthrite rhumatoïde, un syndrome de Sjögren ou une sclérodermie ?",
+ "contexte": "Plusieurs maladies auto-immunes systémiques reposent sur une activation des lymphocytes B, avec des patients en échec des immunosuppresseurs et biothérapies. De nouvelles stratégies de déplétion ou de modulation B sont développées pour ces situations.\n\nQLS2416 est un biomédicament injectable décrit comme nouveau agent pour les maladies à médiation B ; son mécanisme précis n'est pas détaillé dans le registre. Cette étude de phase 1 de Qilu Pharmaceutical (Shanghai) est ouverte et comporte deux parties. L'escalade de dose inclut jusqu'à 42 patients (LES, PR ou syndrome de Sjögren primaire) sur 7 niveaux de dose, de 0,025 à 6,0 mg en injection sous-cutanée unique. L'expansion inclut environ 24 patients lupiques et 10 patients atteints de sclérodermie diffuse, avec doses répétées. Un comité de sécurité revoit les données avant chaque escalade.",
+ "interet": "L'étude établira la tolérance, la pharmacocinétique et un premier signal d'efficacité selon la maladie. Elle ne permet pas de conclure sur le bénéfice clinique.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, polyarthrite rhumatoïde, syndrome de Sjögren primaire ou sclérodermie diffuse, en échec du traitement standard.",
+ "inclusion": ["Âge de 18 à 70 ans", "LES (critères 2019) avec SLEDAI-2K ≥ 4, en échec des corticoïdes et d'au moins un immunosuppresseur ou biologique", "PR (critères 2010) avec DAS28-CRP ≥ 3,2, en échec d'un csDMARD et d'un bDMARD/tsDMARD", "Sjögren primaire (critères 2016) avec clinESSDAI ≥ 5 et auto-anticorps ou FR positifs", "Sclérodermie diffuse (critères 2013) avec mRSS > 10, évoluant depuis ≤ 7 ans", "Contraception efficace jusqu'à 3 mois après la dernière dose"],
+ "exclusion": ["Syndrome des antiphospholipides catastrophique, embolie pulmonaire en selle ou événement thromboembolique récent, anticoagulation en cours", "Maladie cardiovasculaire ou cérébrovasculaire significative (insuffisance cardiaque NYHA III/IV, HTA sévère non contrôlée)", "Atteinte respiratoire sévère (HTAP sévère, CVF < 60 %, DLCO < 40 %)", "Cancer dans les 5 ans précédents", "Infection active ou chronique (VIH, VHB, VHC, tuberculose)", "Greffe de moelle, CAR-T, CAR-NK ou anticorps bispécifique engageant les T antérieurs"],
+ "bras": [{"nom": "QLS2416", "traitement": "Injection sous-cutanée : dose unique croissante (0,025 à 6,0 mg, 7 niveaux) puis doses répétées à 3 niveaux en expansion"}],
+ "duree": "Jusqu'à 24 semaines pour le critère principal",
+ "critere": "Sécurité et tolérance de QLS2416, jusqu'à 24 semaines"
+}

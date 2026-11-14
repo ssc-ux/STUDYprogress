@@ -1,0 +1,30 @@
+{
+ "h": "4fd43a1f3ad4",
+ "date": "2026-11-14",
+ "titre": "Tofacitinib versus méthotrexate sur l'épaississement cutané de la sclérodermie diffuse",
+ "question": "Le tofacitinib réduit-il davantage le score cutané de Rodnan que le méthotrexate dans la sclérodermie cutanée diffuse ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse est une maladie auto-immune chronique marquée par une fibrose de la peau et des organes internes. Malgré les traitements disponibles (méthotrexate, mycophénolate, cyclophosphamide), beaucoup de patients gardent une atteinte cutanée et articulaire évolutive.\n\nLe tofacitinib est un inhibiteur de JAK qui réduit l'inflammation et pourrait limiter la fibrose, suggérée par des données précliniques et de petites séries cliniques dans la sclérodermie.\n\nCette étude de phase 4 randomisée en ouvert, menée au Bangabandhu Sheikh Mujib Medical University (Dhaka, Bangladesh), compare le tofacitinib au méthotrexate chez 34 patients. Elle suit la variation du score de Rodnan modifié (mRSS), du CDAI et du SF-12, ainsi que la tolérance.",
+ "interet": "L'étude apporte un signal d'efficacité du tofacitinib sur la peau de patients sclérodermiques, face à un comparateur usuel. Son faible effectif et son caractère ouvert limitent la portée des résultats.",
+ "profil": "Des adultes atteints de sclérodermie systémique cutanée diffuse évoluant depuis 36 mois au plus.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013",
+  "Forme cutanée diffuse (LeRoy et Medsger)",
+  "Durée d'évolution ≤ 36 mois depuis le premier symptôme non-Raynaud",
+  "mRSS entre 10 et 45 au dépistage",
+  "Âge ≥ 18 ans ; inhibiteurs calciques et inhibiteurs de la PDE5 autorisés"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatismale que la sclérodermie (sauf fibromyalgie ou myopathie sclérodermique)",
+  "Infection active, dont tuberculose active ou latente, hépatite B ou C",
+  "Anomalies biologiques : hémoglobine < 9 g/dL, leucocytes < 3 G/L, neutrophiles < 1,2 G/L, plaquettes < 100 G/L, lymphocytes < 0,75 G/L, transaminases > 3 N, DFGe < 60 mL/min/1,73 m²",
+  "CVF ≤ 50 % ou DLCO ≤ 40 % de la théorique",
+  "Chirurgie majeure dans les 8 semaines, corticoïdes oraux",
+  "Grossesse, allaitement ou contraception non assurée"
+ ],
+ "bras": [
+  { "nom": "Tofacitinib", "traitement": "Tofacitinib oral (dose non précisée)" },
+  { "nom": "Méthotrexate", "traitement": "Méthotrexate (dose et voie non précisées)" }
+ ],
+ "duree": "24 semaines",
+ "critere": "Variation du score cutané de Rodnan modifié (mRSS, de 0 à 51) entre l'inclusion et la semaine 24"
+}

@@ -1,0 +1,25 @@
+{
+ "h": "58481b920791r",
+ "date": "2026-11-14",
+ "titre": "Surveillance post-commercialisation du bélimumab (Benlysta) dans le lupus au Japon",
+ "question": "Quelle est la tolérance et l'efficacité du bélimumab IV et SC en pratique courante chez les patients lupiques ?",
+ "contexte": "Le bélimumab est un anticorps anti-BLyS (BAFF) utilisé dans le lupus érythémateux systémique (LES) actif en association au traitement standard, et dans la néphrite lupique, par voie intraveineuse ou sous-cutanée. Les essais pivots portaient sur des populations sélectionnées, d'où l'intérêt des données de pratique réelle sur la tolérance à long terme.\n\nCette étude observationnelle de surveillance post-commercialisation (« drug use investigation »), promue par GlaxoSmithKline, inclut tous les patients traités par bélimumab après son lancement au Japon, sans critère d'exclusion. Les patients sont suivis 52 semaines à partir du début du traitement.\n\nLes critères principaux sont les effets indésirables (dont ceux d'intérêt prioritaire), et l'évolution du score d'activité SELENA-SLEDAI.",
+ "interet": "L'étude apporte des données de tolérance en vie réelle, en particulier selon la voie d'administration (IV, SC ou changement de voie), utiles pour l'information prescripteur.",
+ "profil": "Des patients lupiques traités par bélimumab IV ou SC en pratique courante.",
+ "inclusion": [
+  "Tous les patients à qui du bélimumab est administré",
+  "Inclusion des patients ayant débuté avant la signature du contrat ou lors d'un transfert hospitalier"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  { "nom": "Bélimumab IV", "traitement": "Voie intraveineuse pendant 52 semaines" },
+  { "nom": "Bélimumab SC", "traitement": "Voie sous-cutanée pendant 52 semaines" },
+  { "nom": "Changement de voie", "traitement": "Passage de l'IV à la SC ou de la SC à l'IV" },
+  { "nom": "Voie initiale inconnue", "traitement": "Bélimumab IV ou SC" }
+ ],
+ "duree": "52 semaines de suivi par patient (jusqu'à 3 ans pour les événements)",
+ "critere": "Nombre de patients avec effets indésirables du médicament, sur une période maximale de 3 ans",
+ "resultats": "Les résultats du registre portent sur 1514 patients. Des effets indésirables du médicament ont été rapportés chez 107 des 543 patients sous bélimumab IV, 110 des 661 sous SC, 47 des 308 ayant changé de voie, et 0 des 2 patients à voie initiale inconnue. Des événements indésirables graves ont été notés chez 101 patients (IV), 91 (SC) et 43 (changement de voie). Les décès ont été de 4 sous IV, 4 sous SC et 2 dans le groupe changement de voie ; il n'est pas précisé s'ils sont liés au traitement. Les résultats sur l'évolution du SELENA-SLEDAI ne sont pas détaillés ici. L'absence de groupe comparateur interdit tout lien causal."
+}

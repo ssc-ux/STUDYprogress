@@ -1,0 +1,40 @@
+{
+ "h": "2178099eb2dd",
+ "date": "2026-11-14",
+ "titre": "GSK4527363 chez des volontaires sains, des patients lupiques et des patients avec PID de connectivite (phase 1)",
+ "question": "Quelle est la tolérance de GSK4527363, et sa pharmacocinétique, chez des volontaires sains, des patients atteints de lupus et de pneumopathie interstitielle des connectivites ?",
+ "contexte": "Le lupus érythémateux systémique actif et les pneumopathies interstitielles diffuses associées aux connectivites (PID-CTD, par exemple dans la sclérodermie ou les myosites) sont des maladies auto-immunes où les options thérapeutiques ciblées sont limitées. Un meilleur contrôle de la réponse B, de la production d'autoanticorps et de l'inflammation reste un besoin non couvert.\n\nGSK4527363 est une molécule expérimentale de GlaxoSmithKline ; la nature précise de la cible n'est pas détaillée dans le registre. Cette étude de phase 1 comporte quatre parties : A (volontaires sains, avec comparaison à un placebo et au belimumab), B (lupus actif, comparé au belimumab), C (volontaires sains japonais et chinois, avec placebo) et D (patients avec PID-CTD). Elle évalue tolérance, pharmacocinétique, pharmacodynamie et immunogénicité chez 143 participants.",
+ "interet": "Étape initiale qui précise tolérance et dose pour le développement de GSK4527363 dans le lupus et les PID des connectivites.",
+ "profil": "Des adultes sains (parties A et C), atteints de lupus actif (partie B) ou de pneumopathie interstitielle associée à une connectivite (partie D).",
+ "inclusion": [
+  "Parties A et C : adultes sains de 18 à 55 ans, poids ≥ 45 kg, IMC de 18 à 32 kg/m², non susceptibles de procréer",
+  "Partie C : ascendance japonaise (C1) ou chinoise (C2) selon des critères de naissance et de filiation",
+  "Partie B : 18 à 65 ans avec lupus (critères EULAR/ACR)",
+  "Partie D : 18 à 65 ans avec connectivite et pneumopathie interstitielle documentée au scanner, sous traitement stable",
+  "Poids ≥ 45 kg et IMC de 18 à 32 kg/m² (toutes parties)"
+ ],
+ "exclusion": [
+  "Parties A et C : antécédent ou présence de maladie cardiovasculaire, respiratoire ou autre significative (détails non fournis dans l'extrait)",
+  "Critères d'exclusion des parties B et D : non détaillés dans l'extrait"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A, volontaires sains",
+   "traitement": "GSK4527363, placebo ou belimumab"
+  },
+  {
+   "nom": "Partie B, lupus",
+   "traitement": "GSK4527363 ou belimumab"
+  },
+  {
+   "nom": "Partie C, sains japonais et chinois",
+   "traitement": "GSK4527363 ou placebo"
+  },
+  {
+   "nom": "Partie D, PID-CTD",
+   "traitement": "GSK4527363"
+  }
+ ],
+ "duree": "Jusqu'à 52 semaines (parties A et C) et 68 semaines (parties B et D)",
+ "critere": "Événements indésirables et graves, modifications cliniquement significatives de l'examen, de la biologie, des constantes, de l'ECG et du C-SSRS, jusqu'à la semaine 52 ou 68"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "2843c01ae447",
+ "date": "2026-11-14",
+ "titre": "CAR-T universelles anti-CD19 (BRL-301) dans les maladies auto-immunes récidivantes ou réfractaires",
+ "question": "Les CAR-T allogéniques anti-CD19 BRL-301 sont-elles sûres et efficaces dans des maladies auto-immunes réfractaires en Chine ?",
+ "contexte": "Lupus, syndrome de Sjögren, sclérodermie, myopathies inflammatoires, vascularites à ANCA et syndrome des antiphospholipides peuvent rester actifs malgré corticoïdes, cyclophosphamide et immunosuppresseurs. Les CAR-T anti-CD19 autologues ont induit des rémissions prolongées dans des séries de patients, mais leur fabrication individualisée est longue et coûteuse.\n\nBRL-301 est une CAR-T allogénique, à partir de donneurs sains, dirigée contre CD19 et conçue pour être disponible d'emblée. Cette étude chinoise à initiative d'investigateur (Bioray Laboratories), ouverte, à bras unique, inclut environ 15 patients de 18 à 65 ans. Le parcours comprend le dépistage, la préparation (fabrication et lymphodéplétion), la perfusion, puis un suivi. Pour le LES, les patients doivent avoir une maladie modérée à sévère (SLEDAI-2000 > 6 et au moins un BILAG A ou deux BILAG B) malgré un traitement conventionnel.",
+ "interet": "Les résultats informeront sur la faisabilité d'une CAR-T universelle dans plusieurs maladies auto-immunes. L'effectif réduit et l'absence de comparateur limitent la portée des conclusions.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus, Sjögren, sclérodermie, myopathie, vascularite à ANCA ou syndrome des antiphospholipides réfractaires ou en rechute.",
+ "inclusion": ["Âge de 18 à 65 ans", "Expression de CD19 sur les lymphocytes B circulants", "Fonctions médullaire, hépatique (ALT/AST ≤ 3 N), rénale (clairance ≥ 60 mL/min) et de coagulation adéquates", "LES (critères 2019) modéré à sévère : SLEDAI-2000 > 6 et BILAG A ou 2 BILAG B", "Échec ou rechute après traitement conventionnel (corticoïdes, cyclophosphamide, autres immunosuppresseurs)", "Contraception efficace jusqu'à 6 mois après le traitement"],
+ "exclusion": ["Non précisé dans l'extrait détaillé du registre", "Grossesse ou allaitement (test sérique négatif exigé)", "Fonction d'organe en dessous des seuils d'inclusion"],
+ "bras": [{"nom": "BRL-301", "traitement": "CAR-T allogéniques anti-CD19 après chimiothérapie de lymphodéplétion"}],
+ "duree": "Suivi d'un an après le traitement, avec évaluations tous les 3 mois",
+ "critere": "Sécurité et efficacité : toxicités limitantes de dose à 30 jours, puis sécurité et efficacité à 3 mois"
+}

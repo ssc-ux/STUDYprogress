@@ -1,0 +1,14 @@
+{
+ "h": "bfcc67764857",
+ "date": "2026-11-14",
+ "titre": "IMVT-1402 dans le lupus érythémateux cutané subaigu ou chronique",
+ "question": "L'IMVT-1402, anticorps anti-FcRn, réduit-il l'activité du lupus cutané actif par rapport au placebo ?",
+ "contexte": "Le lupus cutané subaigu ou chronique (dont le discoïde) peut persister malgré les traitements conventionnels : photoprotection, dermocorticoïdes, hydroxychloroquine, méthotrexate, mycophénolate. Il laisse des cicatrices, une alopécie et altère la qualité de vie, avec peu d'options approuvées.\n\nL'IMVT-1402 est un anticorps anti-FcRn administré par voie sous-cutanée. En bloquant le récepteur FcRn, il accélère le catabolisme des IgG, y compris des IgG pathogènes, et réduit ainsi les auto-anticorps. Cette approche est déjà étudiée dans d'autres maladies à auto-anticorps IgG.\n\nCette phase 2 de 56 participants comporte trois périodes : 12 semaines randomisées (IMVT-1402 dose 1 ou placebo, une injection par semaine), puis 14 semaines d'IMVT-1402 pour tous, puis 26 semaines avec une nouvelle randomisation entre deux doses en aveugle. La durée totale par participant est d'environ 61 semaines.",
+ "interet": "Si l'étude est positive, elle fournirait un premier signal d'efficacité d'un blocage de FcRn dans le lupus cutané, une indication pour laquelle les options sont limitées.",
+ "profil": "Des adultes atteints de lupus cutané subaigu ou chronique actif, malgré les traitements conventionnels.",
+ "inclusion": ["Lupus cutané subaigu ou chronique confirmé par biopsie, avec ou sans manifestations systémiques", "CLASI-A ≥ 10 au dépistage et à J1 (≥ 8 et < 10 si pas d'alopécie ni de lésions muqueuses)", "Maladie active malgré un essai adéquat de traitements conventionnels", "Au moins un auto-anticorps positif au dépistage", "Âge ≥ 18 ans"],
+ "exclusion": ["Lupus cutané médicamenteux, syndrome des antiphospholipides ou lupus neuropsychiatrique, connus ou suspectés", "Néphrite à progression rapide", "Autre maladie inflammatoire cutanée susceptible de gêner l'évaluation", "Autres critères du protocole : non précisé"],
+ "bras": [{"nom": "Placebo (période 1)", "traitement": "Placebo en injection sous-cutanée hebdomadaire pendant 12 semaines"}, {"nom": "IMVT-1402", "traitement": "Dose 1 par voie sous-cutanée une fois par semaine pendant 12 semaines, puis 14 semaines, puis dose 1 ou dose 2 pendant 26 semaines"}],
+ "duree": "Environ 61 semaines",
+ "critere": "Variation en pourcentage du score CLASI-A entre l'inclusion et la semaine 12"
+}

@@ -1,0 +1,25 @@
+{
+ "h": "360e24a214c7",
+ "date": "2026-11-14",
+ "titre": "Cellules YTS109 dans les maladies auto-immunes récidivantes ou réfractaires",
+ "question": "Les cellules YTS109 sont-elles bien tolérées et actives dans plusieurs maladies auto-immunes réfractaires ?",
+ "contexte": "Le lupus, la sclérodermie, les myopathies inflammatoires, les vascularites à ANCA, le syndrome des antiphospholipides et le syndrome de Gougerot-Sjögren peuvent rester actifs malgré des traitements immunosuppresseurs lourds. Les formes réfractaires exposent à des séquelles d'organe.\n\nLes thérapies cellulaires ciblant CD19 ont induit des rémissions dans de petites séries de maladies auto-immunes. Le YTS109 est un produit de thérapie cellulaire de China Immunotech (Beijing), désigné « STAR-T » dans une étude voisine ; sa cible n'est pas précisée, mais les critères exigent l'expression de CD19 sur les lymphocytes B.\n\nCette étude exploratoire est ouverte et monobras. Elle inclut environ 6 patients de 18 à 65 ans. Elle évalue la tolérance, l'efficacité préliminaire et la pharmacocinétique/pharmacodynamie. Les critères de lupus exigent un SELENA-SLEDAI ≥ 6 avec BILAG A ou B, ou ≥ 8, après échec du traitement conventionnel pendant plus de 6 mois ou rechute après rémission. L'évaluation de la tolérance et de l'efficacité porte sur 3 mois.",
+ "interet": "L'étude apportera une première évaluation de la tolérance et de l'activité de ce produit dans six maladies auto-immunes. L'effectif très faible et l'absence de comparateur limitent l'interprétation.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus, sclérodermie, myopathie inflammatoire, vascularite à ANCA, syndrome des antiphospholipides ou Gougerot-Sjögren réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lymphocytes B exprimant CD19 en cytométrie en flux",
+  "Neutrophiles ≥ 1 G/L, hémoglobine ≥ 60 g/L, ALAT/ASAT ≤ 3 N, clairance ≥ 30 mL/min",
+  "Lupus selon EULAR/ACR 2019, SELENA-SLEDAI ≥ 6 avec BILAG A ou 2 B, ou ≥ 8",
+  "Maladie réfractaire (traitement inefficace > 6 mois) ou en rechute après rémission",
+  "Contraception pendant au moins 6 mois après le traitement"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "YTS109", "traitement": "Injection de cellules YTS109 ; dose non précisée" }
+ ],
+ "duree": "3 mois de suivi d'évaluation (suivi plus long non précisé)",
+ "critere": "Événements indésirables apparus sous traitement et critères d'efficacité propres à chaque maladie, à 3 mois"
+}

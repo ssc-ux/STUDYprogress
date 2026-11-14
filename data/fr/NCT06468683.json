@@ -1,0 +1,14 @@
+{
+ "h": "7aea6e0978eb",
+ "date": "2026-11-14",
+ "titre": "F01 dans le lupus érythémateux systémique modéré à sévère réfractaire (phase 1)",
+ "question": "F01, après chimiothérapie de lymphodéplétion, est-il sûr et actif chez des adultes atteints de lupus systémique réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) modéré à sévère peut rester actif malgré corticoïdes, antipaludéens, immunosuppresseurs et au moins une biothérapie. Ces formes réfractaires exposent aux dommages d'organe et à la toxicité cumulée des corticoïdes.\n\nF01 est un produit développé par Shanghai Simnova Biotechnology ; le registre ne précise pas sa nature, mais l'administration après chimiothérapie de lymphodéplétion évoque une thérapie cellulaire. L'étude de phase 1, ouverte et à bras unique, inclut jusqu'à 50 patients de 18 à 65 ans en deux étapes : escalade de dose, puis extension. Les patients doivent avoir un LES depuis ≥ 24 semaines (critères EULAR/ACR 2019), une activité persistante (SLEDAI-2000 ≥ 8) et avoir reçu un traitement standard complet dont au moins une biothérapie.",
+ "interet": "L'étude évalue la tolérance, la pharmacocinétique et l'efficacité préliminaire de F01. Elle ne permet pas de comparer à un traitement existant.",
+ "profil": "Des adultes de 18 à 65 ans atteints de LES modéré à sévère réfractaire à un traitement standard incluant une biothérapie.",
+ "inclusion": ["Âge de 18 à 65 ans", "LES depuis ≥ 24 semaines (critères EULAR/ACR 2019)", "ANA, anti-ADN natif ou anti-Sm positifs", "SLEDAI-2000 ≥ 8", "Traitement standard (corticoïdes, antipaludéens, immunosuppresseurs, au moins une biothérapie) depuis ≥ 2 mois, maladie restant active", "Fonctions hépatique, rénale (clairance ≥ 50 mL/min), pulmonaire et cardiaque (FEVG ≥ 50 %) adéquates"],
+ "exclusion": ["Non précisé dans l'extrait du registre"],
+ "bras": [{"nom": "F01", "traitement": "Chimiothérapie de lymphodéplétion préalable, puis F01 à doses croissantes puis dose d'extension"}],
+ "duree": "Environ 12 semaines pour le critère principal",
+ "critere": "Critères principaux de sécurité et de tolérance évalués à 4 et 12 semaines (non détaillés dans le registre)"
+}

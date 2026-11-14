@@ -1,0 +1,37 @@
+{
+ "h": "1e54e2a07c00",
+ "date": "2026-11-14",
+ "titre": "Réponse au vaccin Shingrix chez les patients lupiques de 50 ans et plus",
+ "question": "Les patients lupiques répondent-ils moins bien au vaccin recombinant adjuvé contre le zona que des témoins sans maladie auto-immune ?",
+ "contexte": "Le zona et ses complications (névralgies post-zostériennes) sont plus fréquents chez les patients lupiques, du fait de la maladie et des traitements immunosuppresseurs. Le vaccin sous-unitaire adjuvé contre le zona (HZ/su, Shingrix), en deux doses, est recommandé chez les patients immunodéprimés de 50 ans et plus, car il n'est pas vivant. Son efficacité dépend de l'immunité cellulaire, qui peut être altérée dans le lupus.\n\nCette étude observationnelle du Seoul National University Hospital compare la réponse à deux doses de HZ/su chez 80 participants de 50 ans et plus : des patients atteints de lupus cliniquement stable, sous traitement immunosuppresseur à dose stable, et des témoins appariés (âge, sexe, origine ethnique) sans maladie auto-immune. Le critère principal est l'immunité à médiation cellulaire entre la vaccination et un mois après la deuxième dose.",
+ "interet": "Elle pourrait guider la stratégie vaccinale antizostérienne (moment, nécessité d'adapter l'immunosuppression) chez les patients lupiques.",
+ "profil": "Des adultes de 50 ans et plus atteints de lupus stable, comparés à des témoins sans maladie auto-immune.",
+ "inclusion": [
+  "Âge ≥ 50 ans",
+  "Lupus selon ACR 1997 (≥ 4 critères) ou SLICC/ACR 2012",
+  "Lupus cliniquement stable",
+  "Traitement immunosuppresseur à dose stable ≥ 4 semaines (corticoïdes ≥ 5 mg/j, antipaludéens, azathioprine, mycophénolate, tacrolimus, méthotrexate ou cyclophosphamide, à doses limites définies)",
+  "Éligibilité à la vaccination par HZ/su",
+  "Consentement écrit"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Infection aiguë avec fièvre > 38 °C au moment de la vaccination",
+  "Réaction anaphylactique antérieure aux composants du vaccin ou à l'œuf",
+  "Antécédent de syndrome de Guillain-Barré ou de syndrome démyélinisant",
+  "Toute situation faisant courir un risque inacceptable",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques",
+   "traitement": "Deux doses du vaccin HZ/su (Shingrix)"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Sujets sans maladie auto-immune, appariés, recevant deux doses du vaccin HZ/su"
+  }
+ ],
+ "duree": "De la vaccination à un mois après la deuxième dose",
+ "critere": "Immunité à médiation cellulaire entre la vaccination et un mois après la deuxième dose"
+}

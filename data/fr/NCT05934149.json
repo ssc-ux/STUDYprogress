@@ -1,0 +1,28 @@
+{
+ "h": "f164f715fdd9",
+ "date": "2026-11-14",
+ "titre": "Lupus Landmark : registre et biobanque prospectifs de patients lupiques en Amérique du Nord",
+ "question": "Quels facteurs génétiques et cibles antigéniques expliquent l'hétérogénéité du lupus et la réponse aux traitements ?",
+ "contexte": "Le lupus systémique est une maladie très hétérogène dans sa présentation, son évolution et sa réponse aux traitements. Cette hétérogénéité, qui varie aussi selon l'origine ethnique et les déterminants sociaux, explique en partie l'échec de nombreux essais thérapeutiques et complique la recherche de biomarqueurs.\n\nLe Lupus Landmark Study, promu par la Lupus Research Alliance, est un registre prospectif multicentrique associé à une biobanque, aux États-Unis et au Canada. Il prévoit d'inclure plus de 3 500 patients lupiques sur cinq ans, répartis en quatre cohortes : lupus de survenue récente, néphrite lupique active récente, poussée extrarénale récente et cas prévalents.\n\nLes données comprennent les caractéristiques cliniques, les critères rapportés par les cliniciens et par les patients, les déterminants sociaux et les expositions environnementales. Des prélèvements de sang, d'urine, de salive, de selles et de tissus sont collectés, avec des analyses moléculaires. Le suivi s'étend jusqu'à 25 ans.",
+ "interet": "Cette ressource doit servir de base à de futures recherches sur les mécanismes du lupus et la prédiction de la réponse thérapeutique. Elle ne change pas la pratique à court terme.",
+ "profil": "Des adultes atteints de lupus systémique, dont néphrite lupique, inclus aux États-Unis et au Canada.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Lupus selon SLICC 2012, EULAR/ACR 2019 ou ACR 1997, ou lupus retenu par l'évaluation clinique",
+  "Capacité à comprendre l'étude et à signer le consentement",
+  "Appartenance à l'une des 4 cohortes (début récent, néphrite active, poussée extrarénale, cas prévalents)"
+ ],
+ "exclusion": [
+  "Impossibilité d'obtenir le consentement",
+  "Impossibilité de respecter les visites du protocole",
+  "Grossesse au moment de l'inclusion"
+ ],
+ "bras": [
+  { "nom": "Début récent", "traitement": "Patients avec un nouveau diagnostic de lupus, suivi observationnel" },
+  { "nom": "Néphrite lupique active", "traitement": "Patients avec un diagnostic récent de néphrite lupique" },
+  { "nom": "Poussée extrarénale", "traitement": "Patients ayant eu récemment une poussée" },
+  { "nom": "Cas prévalents", "traitement": "Patients lupiques ne relevant pas des autres cohortes" }
+ ],
+ "duree": "Jusqu'à 25 ans",
+ "critere": "Identification des déterminants génétiques et des cibles antigéniques, pour expliquer l'hétérogénéité du lupus et relier les biomarqueurs à la réponse thérapeutique, sur jusqu'à 25 ans"
+}

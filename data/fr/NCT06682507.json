@@ -1,0 +1,26 @@
+{
+ "h": "c699d254954e",
+ "date": "2026-11-14",
+ "titre": "Cohorte de Canton (HOPE) de néphrite lupique : survie rénale et survie des patients à long terme",
+ "question": "La survie rénale et la survie des patients atteints de néphrite lupique s'améliorent-elles à long terme en Chine ?",
+ "contexte": "La néphrite lupique (NL) est l'une des atteintes les plus graves du lupus et une cause importante de maladie rénale terminale et de décès. Les traitements d'induction à base de corticoïdes, mycophénolate ou cyclophosphamide, puis les nouvelles options (belimumab, inhibiteurs de calcineurine, obinutuzumab), ont amélioré le pronostic, mais les données de très long terme en population asiatique restent limitées.\n\nLa cohorte HOPE est menée à l'hôpital affilié de l'université Sun Yat-sen à Canton. Elle regroupe des patients avec une NL prouvée par biopsie, enrôlés rétrospectivement de 1996 à 2016 et prospectivement depuis 2017. L'effectif attendu est de 5 000 patients de 14 ans et plus. Le suivi décrit la survie rénale et la survie globale, et permet de comparer des périodes de traitement différentes.",
+ "interet": "Elle documentera sur plusieurs décennies l'évolution du pronostic rénal de la néphrite lupique et l'impact de l'évolution des traitements.",
+ "profil": "Des patients de 14 ans et plus avec néphrite lupique prouvée par biopsie dans un centre universitaire chinois.",
+ "inclusion": [
+  "Néphrite lupique prouvée par biopsie dans l'hôpital affilié de l'université Sun Yat-sen",
+  "Âge ≥ 14 ans"
+ ],
+ "exclusion": [
+  "Âge < 14 ans",
+  "Refus de consentement écrit",
+  "Autres critères d'exclusion : non précisés"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte HOPE",
+   "traitement": "Suivi observationnel de patients avec néphrite lupique, inclus rétrospectivement (1996-2016) puis prospectivement (depuis 2017)"
+  }
+ ],
+ "duree": "Suivi à long terme, jusqu'à 50 ans",
+ "critere": "Taux de patients atteignant la maladie rénale terminale, de l'inclusion jusqu'à la première survenue documentée, sur 50 ans au maximum"
+}

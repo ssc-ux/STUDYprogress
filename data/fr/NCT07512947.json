@@ -1,0 +1,38 @@
+{
+ "h": "d2371599cc66",
+ "date": "2026-11-14",
+ "titre": "YKST02 seul ou avec YK012 dans le lupus actif ou réfractaire : phase 1",
+ "question": "YKST02, seul ou associé à YK012, est-il sûr et actif chez des adultes ayant un lupus actif ou réfractaire ?",
+ "contexte": "Le lupus actif malgré les corticoïdes, les immunosuppresseurs et les biothérapies reste un besoin non couvert. Les stratégies de déplétion B et de cellules productrices d'auto-anticorps, notamment par CAR-T ou anticorps bispécifiques, ont donné des réponses profondes dans de petites séries.\n\nLe registre ne détaille pas la nature de YKST02 ni de YK012, administrés par perfusion IV. L'étude de phase 1 ouverte, monocentrique, de l'Union Hospital de Wuhan (Tongji), inclut 30 patients de 18 à 75 ans avec un lupus actif (SLEDAI-2K ≥ 6, auto-anticorps positifs) en échec ou intolérants aux traitements standards. Deux cohortes sont prévues : monothérapie par YKST02, et association YKST02 + YK012 avec phase d'escalade de dose puis d'expansion. Les paramètres de pharmacocinétique, de pharmacodynamie et d'immunogénicité (anticorps anti-médicament) sont évalués, avec un suivi d'environ 49 semaines.",
+ "interet": "Cette première étude chez l'humain précisera la tolérance et les doses à retenir de cette association. Elle ne pourra pas démontrer d'efficacité sans comparateur.",
+ "profil": "Des adultes de 18 à 75 ans avec un lupus actif ou réfractaire aux traitements standards.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR 2019, SLEDAI-2K ≥ 6",
+  "Réponse insuffisante, intolérance ou contre-indication au traitement standard",
+  "Au moins 12 semaines de traitement standard (corticoïdes et immunosuppresseur ou biothérapie)",
+  "Traitement de fond stable avant l'inclusion",
+  "Au moins un auto-anticorps positif (anti-ADN natif, ANA, anti-Sm)",
+  "Consentement éclairé écrit"
+ ],
+ "exclusion": [
+  "Hypersensibilité aux anticorps monoclonaux ou aux immunoglobulines",
+  "Traitement antérieur par déplétion B ou biothérapie ciblant les B dans la période de lavage",
+  "Immunoglobulines IV ou échanges plasmatiques récents",
+  "Vaccin vivant dans les 4 semaines",
+  "Autre maladie auto-immune active (sauf Sjögren secondaire)",
+  "Antécédent de greffe d'organe majeur ou de cancer dans les 5 ans",
+  "Infection active ou non contrôlée (tuberculose, hépatite B ou C, VIH)"
+ ],
+ "bras": [
+  {
+   "nom": "YKST02 en monothérapie",
+   "traitement": "YKST02 par perfusion IV, doses d'induction puis dose cible"
+  },
+  {
+   "nom": "YKST02 + YK012",
+   "traitement": "Association par perfusion IV, escalade de dose puis expansion"
+  }
+ ],
+ "duree": "Environ 49 semaines",
+ "critere": "Toxicités limitant la dose jusqu'au jour 35, et événements indésirables (graves ou non) jusqu'à la semaine 49"
+}

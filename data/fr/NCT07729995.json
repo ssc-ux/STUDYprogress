@@ -1,0 +1,38 @@
+{
+ "h": "581fd8cd82eb",
+ "date": "2026-11-14",
+ "titre": "CAR-T allogéniques anti-BAFF (LMY-922) dans les maladies auto-immunes réfractaires",
+ "question": "Les CAR-T allogéniques ciblant les récepteurs de BAFF (LMY-922) sont-elles sûres, et quelle dose recommander, dans les maladies auto-immunes réfractaires ?",
+ "contexte": "Les CAR-T anti-CD19 ont obtenu des rémissions dans le lupus, la sclérodermie et les myosites réfractaires, mais toutes les maladies ne répondent pas, et certaines rechutent. Les plasmocytes et certains lymphocytes B échappent à une cible CD19 seule. Les récepteurs de la famille BAFF (BR3, BCMA, TACI) sont exprimés sur un spectre plus large de cellules B pathogènes.\n\nLe LMY-922 est un produit allogénique, composé de lymphocytes T CD4 et CD8 de donneurs sains, modifiés par un système de transposon non viral pour exprimer le ligand BAFF comme récepteur chimérique. Cette étude de phase 1 de Luminary Therapeutics prévoit 94 patients (16 à 75 ans) atteints de polyarthrite rhumatoïde séropositive, de lupus, de dermatomyosite ou de sclérodermie, tous réfractaires. Trois parties se succèdent : escalade de dose standard (jusqu'à quatre niveaux), puis évaluation sans lymphodéplétion, puis administration fractionnée avec ou sans lymphodéplétion. Les critères principaux sont la sécurité et la dose recommandée pour la phase 2. L'étude ne démarre qu'en octobre 2026.",
+ "interet": "Une approche CAR-T prête à l'emploi sans lymphodéplétion, si elle est sûre, simplifierait nettement la prise en charge. L'étude est une première étape de sécurité.",
+ "profil": "Des patients de 16 à 75 ans atteints de PR, lupus, dermatomyosite ou sclérodermie réfractaires.",
+ "inclusion": [
+  "Âge de 16 à 75 ans",
+  "PR : séropositive (critères ACR/EULAR 2010), DAS28-VS > 3,2, au moins une articulation gonflée active à l'imagerie",
+  "PR : échec d'au moins un csDMARD et de deux biothérapies ou inhibiteurs de JAK de mécanismes différents",
+  "Lupus, dermatomyosite ou sclérodermie : critères de classification et activité selon le protocole (détails dans le registre)",
+  "Maladie réfractaire aux traitements antérieurs"
+ ],
+ "exclusion": [
+  "Lupus : atteinte neuropsychiatrique sévère active, SAM/lymphohistiocytose hémophagocytaire active, syndrome des antiphospholipides",
+  "Dermatomyosite : syndrome de chevauchement (sauf Sjögren), autres myopathies ou myosites",
+  "Sclérodermie : anticorps anticentromère, maladies mimant la sclérodermie",
+  "Autres critères d'exclusion : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "Partie A",
+   "traitement": "Escalade de dose standard du LMY-922 (jusqu'à 4 niveaux) avec lymphodéplétion"
+  },
+  {
+   "nom": "Partie B",
+   "traitement": "LMY-922 sans lymphodéplétion, après validation de la sécurité"
+  },
+  {
+   "nom": "Partie C",
+   "traitement": "LMY-922 en administration fractionnée, avec ou sans lymphodéplétion"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Incidence et sévérité des événements indésirables apparus sous traitement, et dose recommandée pour la phase 2 selon les toxicités limitantes, à 24 mois"
+}

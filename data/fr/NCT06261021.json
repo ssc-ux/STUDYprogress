@@ -1,0 +1,39 @@
+{
+ "h": "e3e01c4ee2bf",
+ "date": "2026-11-14",
+ "titre": "Crème de ruxolitinib à 1,5 % dans le lupus discoïde",
+ "question": "La crème de ruxolitinib à 1,5 %, avec ou sans occlusion nocturne, améliore-t-elle les lésions du lupus discoïde ?",
+ "contexte": "Le lupus discoïde (lupus érythémateux chronique cutané) provoque des plaques érythémateuses, squameuses et atrophiques, laissant des cicatrices définitives, des dépigmentations et des alopécies. Le traitement repose sur la photoprotection, les dermocorticoïdes, l'hydroxychloroquine et les immunosuppresseurs ; beaucoup de patients restent mal contrôlés, et aucun traitement n'a d'AMM spécifique.\n\nLe ruxolitinib est un inhibiteur de JAK1/JAK2. Les voies JAK-STAT, notamment l'interféron, jouent un rôle central dans la physiopathologie du lupus cutané. La crème à 1,5 % est approuvée dans le vitiligo et la dermatite atopique. Cet essai de phase 2 d'Innovaderm, randomisé en simple aveugle et intra-individuel, inclut environ 20 adultes. Chaque patient applique la crème deux fois par jour sur deux zones lésionnelles pendant 24 semaines : l'une sans occlusion, l'autre avec occlusion nocturne, selon la séquence randomisée.",
+ "interet": "Il testera un traitement topique ciblé et la place de l'occlusion, une option sans effet systémique majeur attendu.",
+ "profil": "Des adultes avec lupus discoïde modéré à sévère (CLA-IGA de 3 ou 4).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic confirmé de lupus discoïde",
+  "Forme modérée à sévère : CLA-IGA 3 ou 4 au dépistage et au jour 1",
+  "Test de grossesse urinaire négatif chez les femmes en âge de procréer",
+  "Aucun antécédent de tuberculose latente ou active",
+  "Consentement éclairé et disponibilité pour toute l'étude"
+ ],
+ "exclusion": [
+  "Grossesse, allaitement ou projet de grossesse",
+  "Autre maladie cutanée gênant l'évaluation",
+  "Consommation instable de nicotine dans les 4 semaines",
+  "Déficit immunitaire ou immunosuppression",
+  "Âge ≥ 50 ans avec infarctus, autre cardiopathie significative, AVC ou thrombose",
+  "Hépatite B ou C, VIH ou infection chronique connue",
+  "Traitement topique actif dans les 2 semaines ou biologique dans les 12 semaines",
+  "Allergie au ruxolitinib, usage antérieur de la crème Opzelura ou d'un inhibiteur de JAK"
+ ],
+ "bras": [
+  {
+   "nom": "Séquence 1",
+   "traitement": "Ruxolitinib crème 1,5 % 2 fois par jour : sans occlusion sur la zone 1, avec occlusion nocturne sur la zone 2"
+  },
+  {
+   "nom": "Séquence 2",
+   "traitement": "Ruxolitinib crème 1,5 % 2 fois par jour : avec occlusion nocturne sur la zone 1, sans occlusion sur la zone 2"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Variation du score CLASI-A de la lésion cible entre l'inclusion et la semaine 24"
+}

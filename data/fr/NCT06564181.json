@@ -1,0 +1,14 @@
+{
+ "h": "3b85c92d5f5e",
+ "date": "2026-11-14",
+ "titre": "Zinc sérique et néphrite lupique",
+ "question": "L'hypozincémie est-elle fréquente dans la néphrite lupique et associée à la fonction rénale ?",
+ "contexte": "La néphrite lupique touche 50 à 60 % des patients lupiques sur le plan clinique, et la plupart sur le plan histologique. Jusqu'à 20 % évoluent vers l'insuffisance rénale terminale. Ses manifestations vont de la protéinurie asymptomatique au syndrome néphrotique ou néphritique.\n\nLe zinc est un oligoélément cofacteur de plus de 300 enzymes, impliqué dans l'immunité, la défense antioxydante, la synthèse d'ADN et la réparation tissulaire. Un déficit peut altérer l'immunité, augmenter le stress oxydatif et gêner la réparation, ce qui est pertinent dans les maladies auto-immunes. Les mécanismes et l'intérêt d'une supplémentation dans la néphrite lupique restent mal connus.\n\nCette étude observationnelle de l'Université d'Assiout (Égypte) inclut 75 patients atteints de néphrite lupique. Elle estime la prévalence de l'hypozincémie et recherche une corrélation entre le zinc sérique et l'urée, la créatininémie, l'hémoglobine et le DFGe. Les patients avec une autre néphropathie, une autre maladie auto-immune, une dialyse, un diabète ou une maladie hépatique sont exclus.",
+ "interet": "Les résultats peuvent éclairer l'intérêt d'un dosage ou d'une supplémentation en zinc, sans la démontrer. Une corrélation ne prouve pas un lien de causalité.",
+ "profil": "Des adultes de 18 à 75 ans atteints de néphrite lupique.",
+ "inclusion": ["Néphrite lupique", "Âge de 18 à 75 ans"],
+ "exclusion": ["Autre néphropathie", "Autre maladie auto-immune", "Dialyse", "Diabète", "Maladie hépatique"],
+ "bras": [{"nom": "Patients avec néphrite lupique", "traitement": "Dosage du zinc sérique et bilan rénal, hématologique"}],
+ "duree": "Évaluation ponctuelle",
+ "critere": "Prévalence de l'hypozincémie dans la néphrite lupique et corrélation avec l'urée, la créatinine et le DFGe"
+}

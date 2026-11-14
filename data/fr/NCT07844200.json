@@ -1,0 +1,25 @@
+{
+ "h": "800fcb9e65df",
+ "date": "2026-11-14",
+ "titre": "Bélantamab mafodotine ajouté au traitement standard dans le lupus systémique",
+ "question": "L'ajout de bélantamab mafodotine au traitement standard diminue-t-il le titre d'anticorps anti-ADN natif à 24 semaines dans le lupus ?",
+ "contexte": "Dans le lupus systémique, l'activité des lymphocytes B et la production d'auto-anticorps sont centrales. Les traitements actuels ciblent surtout les lymphocytes B et laissent persister les plasmocytes à longue durée de vie, producteurs d'auto-anticorps, que ni le rituximab ni le bélimumab n'éliminent efficacement.\n\nLe bélantamab mafodotine est un conjugué anticorps-médicament anti-BCMA, utilisé dans le myélome multiple en rechute (2,5 mg/kg toutes les 3 semaines). Son activité déplétant les plasmocytes et son effet immunosuppresseur, observé sur la réponse vaccinale anti-SARS-CoV-2, motivent son essai dans le lupus réfractaire.\n\nCette étude de phase 2 est ouverte et monobras, à promotion académique. Elle inclut environ 12 adultes de 18 à 60 ans avec un lupus actif et anti-ADN natif positifs, ayant échoué à au moins un immunosuppresseur, avec ou sans néphrite lupique de classe III, IV ou V. Le médicament s'ajoute au traitement standard, pour une durée prévue pouvant atteindre 2 ans par patient. Le critère principal est la variation du titre d'anti-ADN natif à 24 semaines.",
+ "interet": "L'étude testera l'intérêt d'une déplétion plasmocytaire par anti-BCMA dans le lupus, avec un effectif très faible et sans comparateur. Elle apportera un signal sur la baisse des auto-anticorps et sur la tolérance, notamment oculaire.",
+ "profil": "Des adultes de 18 à 60 ans atteints de lupus systémique actif avec anti-ADN natif positifs, en échec d'au moins un immunosuppresseur.",
+ "inclusion": [
+  "Lupus selon EULAR/ACR 2019, âge de 18 à 60 ans",
+  "Anti-ADN natif positifs (ELISA)",
+  "SLEDAI-2K ≥ 6, avec score clinique ≥ 4",
+  "Échec ou intolérance d'au moins un immunosuppresseur (hors corticoïdes)",
+  "Atteinte extrarénale ou néphrite lupique de classe III, IV ou V",
+  "Fonctions d'organe adéquates : neutrophiles ≥ 1,5 G/L, hémoglobine ≥ 8 g/dL, DFG ≥ 30 mL/min/1,73 m²"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "Bélantamab mafodotine + traitement standard", "traitement": "Bélantamab mafodotine ajouté au traitement de fond, jusqu'à 2 ans par patient ; dose non précisée" }
+ ],
+ "duree": "Jusqu'à 2 ans par patient",
+ "critere": "Variation du titre d'anticorps anti-ADN natif à 24 semaines par rapport à l'inclusion"
+}

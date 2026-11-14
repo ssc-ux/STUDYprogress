@@ -1,0 +1,14 @@
+{
+ "h": "bb1bf821e8e7",
+ "date": "2026-11-14",
+ "titre": "Registre de prévalence et de sévérité du lupus érythémateux cutané",
+ "question": "Quelles sont la présentation clinique, l'évolution et la qualité de vie des patients atteints de lupus cutané, et quels facteurs influencent leur sévérité ?",
+ "contexte": "Le lupus érythémateux cutané (LEC) regroupe des formes aiguës, subaiguës et chroniques (dont le lupus discoïde), isolées ou associées à un lupus systémique. Ces lésions peuvent être défigurantes, laisser des cicatrices ou une alopécie définitive et altérer nettement la qualité de vie, notamment par la photosensibilité.\n\nLe traitement repose sur la photoprotection, les dermocorticoïdes, l'hydroxychloroquine et d'autres immunosuppresseurs, avec peu de données comparatives robustes. Le tabagisme et certains médicaments peuvent aggraver la maladie.\n\nCette base de données, créée en 2006, est multicentrique (Université de Pennsylvanie et UT Southwestern). Elle utilise le CLASI, indice validé d'activité et de sévérité cutanée, ainsi que des questionnaires de qualité de vie. Elle a déjà permis des publications sur la physiopathologie, le retentissement de la photosensibilité et l'effet des traitements de première ligne.",
+ "interet": "Ce registre sert de ressource pour décrire l'histoire naturelle du lupus cutané et générer des hypothèses sur ses facteurs de sévérité et de réponse au traitement. Il n'évalue pas d'intervention.",
+ "profil": "Des adultes atteints de lupus érythémateux cutané, avec ou sans lupus systémique.",
+ "inclusion": ["Lupus cutané selon la classification de Gilliam et/ou lupus systémique selon les critères ACR", "Âge ≥ 18 ans"],
+ "exclusion": ["Patients ne répondant pas aux critères de lupus cutané", "Patients de moins de 18 ans"],
+ "bras": [{"nom": "Cohorte de patients avec lupus cutané", "traitement": "Suivi observationnel avec évaluation par le CLASI et questionnaires de qualité de vie ; aucune intervention imposée"}],
+ "duree": "Non précisé",
+ "critere": "Non précisé : registre décrivant la prévalence et la sévérité clinique du lupus cutané"
+}

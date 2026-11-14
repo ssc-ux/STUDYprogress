@@ -1,0 +1,14 @@
+{
+ "h": "788084c9f3d7",
+ "date": "2026-11-14",
+ "titre": "Vunakizumab (anti-IL-17A) dans le lupus systémique léger à modéré",
+ "question": "Le vunakizumab, un anti-IL-17A, améliore-t-il l'activité d'un lupus systémique léger à modéré avec atteinte cutanée ou articulaire ?",
+ "contexte": "Le lupus systémique est une maladie hétérogène, des formes cutanées bénignes aux atteintes multi-organes. Les manifestations cutanéo-articulaires persistantes restent fréquentes malgré les antipaludéens, les immunosuppresseurs et les corticoïdes, dont on cherche à réduire l'usage.\n\nL'IL-17 est impliquée dans la physiopathologie : ses taux sériques sont plus élevés chez les patients que chez les témoins, et elle est exprimée dans les lésions rénales et cutanées. L'ustékinumab, anti-IL-12/23 agissant indirectement sur la voie IL-17, a montré dans un essai de lupus un bénéfice sur la réduction des corticoïdes. Aucun essai n'a évalué directement un anti-IL-17 dans le lupus, et seuls des cas rapportent un effet cutané du sécukinumab. Le vunakizumab est un anticorps humanisé anti-IL-17A, utilisé dans le psoriasis et les spondylarthropathies. Cette étude pilote chinoise de phase 1, à bras unique et ouverte, est promue par le Chinese SLE Treatment And Research Group et inclut 20 patients, en association avec le traitement de fond stable.",
+ "interet": "Cette étude pourrait fournir un premier signal d'efficacité de l'inhibition de l'IL-17A dans le lupus. Elle orienterait un éventuel essai randomisé, surtout pour les atteintes cutanées et articulaires.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus systémique léger à modéré, avec atteinte cutanéo-muqueuse ou articulaire nouvelle ou récidivante.",
+ "inclusion": ["Âge de 18 à 65 ans, critères EULAR/ACR 2019", "SLEDAI de 2 à 12 avec SLEDAI clinique non nul", "Atteinte cutanéo-muqueuse ou articulaire nouvelle ou récidivante", "Traitement stable : prednisone ≤ 20 mg/j, un seul immunosuppresseur à dose limitée, antipaludéens autorisés", "IMC de 18 à 35 kg/m²", "Consentement éclairé"],
+ "exclusion": ["Atteinte d'organe majeure ou active (néphrite avec protéinurie ≥ 1 g/24 h, neurolupus, atteinte cardiaque, hypertension pulmonaire, PTI, syndrome d'activation macrophagique)", "Autre maladie auto-immune pouvant gêner l'évaluation", "ALAT/ASAT > 1,5 N ou bilirubine > N", "Cancer actif ou antécédent de cancer", "Infection active (tuberculose, VHB, VHC, VIH, CMV)", "Biothérapie dans les 3 mois (anti-CD20, bélimumab, anti-TNF), cyclophosphamide, IgIV ou échanges plasmatiques", "Grossesse, allaitement ou projet de grossesse"],
+ "bras": [{ "nom": "Vunakizumab", "traitement": "Vunakizumab (anti-IL-17A), dose et rythme non précisés, associé au traitement de fond" }],
+ "duree": "24 semaines de traitement",
+ "critere": "Proportion de patients en réponse BICLA à la semaine 24"
+}

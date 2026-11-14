@@ -1,0 +1,28 @@
+{
+ "h": "70963b6c40bb",
+ "date": "2026-11-14",
+ "titre": "Dysfonction visuelle précoce chez les patients lupiques sans rétinopathie",
+ "question": "Les patients lupiques sans rétinopathie présentent-ils une atteinte rétinienne infraclinique liée à l'activité de la maladie ?",
+ "contexte": "L'atteinte oculaire est une manifestation reconnue du lupus : rétinopathie lupique, vascularite rétinienne, sécheresse oculaire, neuropathie optique. La rétinopathie lupique peut menacer la vision et signale souvent une maladie active, mais des altérations rétiniennes infracliniques peuvent exister avant l'atteinte visible au fond d'œil.\n\nL'imagerie rétinienne moderne (OCT, OCT-angiographie, photographie du fond d'œil, autofluorescence) et les tests psychophysiques (sensibilité au contraste pour différentes couleurs et fréquences spatiales) permettent de détecter ces anomalies précoces. Leur lien avec l'activité du lupus reste mal connu.\n\nCette étude observationnelle de l'hôpital universitaire d'Anhui compare environ 100 participants : des patients lupiques sans rétinopathie et des témoins sains, tous avec une acuité visuelle normale (≥ 1,0). Elle explore les marqueurs de l'atteinte rétinienne précoce et leur relation avec le degré d'activité du lupus.",
+ "interet": "L'étude pourrait identifier des marqueurs ophtalmologiques précoces utiles pour surveiller l'atteinte visuelle dans le lupus. Elle est transversale et ne guide pas directement la prise en charge.",
+ "profil": "Des adultes lupiques sans rétinopathie et des témoins sains, ayant une acuité visuelle normale.",
+ "inclusion": [
+  "Acuité visuelle corrigée ≥ 1,0",
+  "Pression intraoculaire normale (10 à 21 mmHg)",
+  "Champ visuel central et périphérique sans déficit",
+  "Absence de dégénérescence rétinienne"
+ ],
+ "exclusion": [
+  "Anomalie manifeste à l'IRM cérébrale",
+  "Antécédent de glaucome, cataracte, maladie vasculaire rétinienne, rétinite pigmentaire ou autre maladie oculaire",
+  "Chirurgie réfractive ou de la cataracte",
+  "Autre maladie ou atteinte systémique affectant l'œil",
+  "Maladie altérant les fonctions cognitives"
+ ],
+ "bras": [
+  { "nom": "Lupus", "traitement": "Patients lupiques sans rétinopathie, examens ophtalmologiques" },
+  { "nom": "Témoins", "traitement": "Sujets sains, mêmes examens" }
+ ],
+ "duree": "Examen unique (jour 1)",
+ "critere": "Sensibilité au contraste, au jour 1"
+}

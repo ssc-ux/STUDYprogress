@@ -1,0 +1,14 @@
+{
+ "h": "92ca7dcd5242",
+ "date": "2026-11-14",
+ "titre": "GNC-038, anticorps tétraspécifique, dans le lupus érythémateux systémique (phase 1)",
+ "question": "GNC-038 est-il sûr, et quelle dose permet une réponse SRI-4 chez des patients lupiques, par rapport au bélimumab ?",
+ "contexte": "Le lupus érythémateux systémique (LES) modéré à sévère reste difficile à contrôler malgré le traitement standard et les biothérapies disponibles comme le bélimumab. Les anticorps multispécifiques engageant les lymphocytes T contre les cellules B sont une approche explorée pour obtenir une déplétion B profonde, sans fabrication cellulaire individualisée.\n\nGNC-038 (Sichuan Baili) est un anticorps tétraspécifique ; le registre ne détaille pas ses cibles, mais l'étude exige la présence de lymphocytes B CD19+ circulants. La phase Ia est à bras unique et cherche la dose maximale tolérée. La phase Ib est randomisée, ouverte, et compare GNC-038 au bélimumab, avec détermination de la dose recommandée de phase II. Les patients ont un LES modéré à sévère (SLEDAI-2K > 7) sous traitement standard stable depuis au moins 30 jours. Environ 84 patients sont prévus.",
+ "interet": "L'étude établira la sécurité de GNC-038 et préparera la dose pour la phase II. La comparaison au bélimumab sera exploratoire à ce stade.",
+ "profil": "Des adultes de 18 à 75 ans atteints de LES modéré à sévère sous traitement standard stable.",
+ "inclusion": ["Âge de 18 à 75 ans, espérance de vie > 6 mois", "LES selon critères EULAR/ACR 2019, modéré à sévère (SLEDAI-2K > 7)", "Traitement standard stable depuis ≥ 30 jours", "ANA ≥ 1:80 ou anti-ADN natif au-dessus de la normale", "Lymphocytes B CD19+ circulants présents", "Contraception efficace jusqu'à 24 semaines après l'arrêt"],
+ "exclusion": ["Néphrite lupique sévère dans les 8 semaines précédentes", "Poussée lupique non contrôlée dans les 8 semaines", "Encéphalopathie ou psychose active dans les 6 mois", "Traitement déplétant B ou CAR-T dans les 6 mois", "Biothérapie ciblant une cytokine (12 semaines), anti-TNF (8 semaines) ou inhibiteur de JAK (2 semaines)", "Diagnostic principal d'une autre maladie auto-immune ou inflammatoire"],
+ "bras": [{"nom": "GNC-038", "traitement": "GNC-038 par cycles, répétés tant qu'un bénéfice clinique est observé"}, {"nom": "Bélimumab", "traitement": "Bélimumab (phase Ib seulement), comparateur actif"}],
+ "duree": "Jusqu'à environ 24 mois",
+ "critere": "Phase Ia : toxicités limitantes de dose, dose maximale tolérée, événements indésirables, pharmacocinétique. Phase Ib : dose recommandée de phase II et réponse SRI-4"
+}

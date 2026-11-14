@@ -1,0 +1,43 @@
+{
+ "h": "2b2a99c8466f",
+ "date": "2026-11-14",
+ "titre": "ESK-001 contre placebo dans le lupus actif (phase 2)",
+ "question": "Quelles doses d'ESK-001 augmentent la réponse BICLA à 48 semaines chez des adultes ayant un lupus actif ?",
+ "contexte": "Le lupus systémique actif reste insuffisamment contrôlé sous traitement standard pour une part notable des patients, avec une corticothérapie persistante et des poussées. L'interféron de type I est une cible validée par l'anifrolumab. TYK2 est une kinase de la famille JAK qui transmet les signaux de l'interféron de type I, de l'IL-12 et de l'IL-23.\n\nL'ESK-001 (envudeucitinib), d'Alumis, est un inhibiteur oral de TYK2. Cette étude de phase 2 randomisée en triple aveugle inclut 408 adultes ayant un lupus actif (SLEDAI-2K ≥ 6, ou ≥ 4 en cas d'atteinte articulaire) sous traitement de fond stable. Les patients reçoivent un comprimé à l'un de trois niveaux de dose ou un placebo pendant 48 semaines, suivis de 4 semaines de suivi. Une extension ouverte est prévue. Le critère principal est la proportion de patients en réponse BICLA à la semaine 48.",
+ "interet": "Un inhibiteur oral de TYK2 pourrait offrir une option par voie orale dans le lupus. La phase 2 définira les doses de la phase 3.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus actif depuis au moins 6 mois, sous traitement de fond stable.",
+ "inclusion": [
+  "LES depuis ≥ 6 mois (critères EULAR/ACR 2019)",
+  "Auto-anticorps positifs ou complément bas au dépistage",
+  "SLEDAI-2K ≥ 6 (ou ≥ 4 en cas d'atteinte articulaire)",
+  "Corticoïdes oraux ≤ 40 mg/j stables depuis ≥ 2 semaines et/ou antipaludéen",
+  "Au plus un DMARD conventionnel (azathioprine ≤ 200 mg/j, mycophénolate ≤ 2 g/j, méthotrexate ≤ 20 mg/sem)"
+ ],
+ "exclusion": [
+  "Lupus d'origine médicamenteuse ou autre maladie auto-immune pouvant fausser l'évaluation",
+  "Néphrite lupique proliférative active pouvant nécessiter un traitement interdit",
+  "Autre maladie interférant avec l'évaluation du lupus (fibromyalgie sévère, arthrose sévère, maladie cardiorespiratoire sévère)",
+  "Lupus neuropsychiatrique sévère ou instable",
+  "Autres critères d'exclusion : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "ESK-001 niveau de dose 1",
+   "traitement": "Comprimé oral d'ESK-001 (dose 1, non précisée)"
+  },
+  {
+   "nom": "ESK-001 niveau de dose 2",
+   "traitement": "Comprimé oral d'ESK-001 (dose 2, non précisée)"
+  },
+  {
+   "nom": "ESK-001 niveau de dose 3",
+   "traitement": "Comprimé oral d'ESK-001 (dose 3, non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Comprimé oral de placebo"
+  }
+ ],
+ "duree": "57 semaines (dépistage de 5 semaines, traitement de 48 semaines, suivi de 4 semaines)",
+ "critere": "Proportion de patients en réponse BICLA à la semaine 48"
+}

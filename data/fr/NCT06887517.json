@@ -1,0 +1,14 @@
+{
+ "h": "e33c43006022",
+ "date": "2026-11-14",
+ "titre": "Biobanque chinoise du rhumatisme : atteintes d'organes majeures dans le lupus récent",
+ "question": "Peut-on prédire précocement l'atteinte d'organe majeure dans le lupus récent grâce au suivi moléculaire longitudinal ?",
+ "contexte": "Le lupus est une maladie hétérogène, avec des atteintes d'organes qui apparaissent progressivement. La néphrite lupique et la thrombopénie touchent environ 30 à 40 % des patients, tandis que l'hypertension pulmonaire est rare mais redoutable, pouvant évoluer vers l'insuffisance cardiaque droite.\n\nPrédire précocement ces atteintes permettrait d'adapter le traitement avant les dommages irréversibles. Pour cela, il faut suivre dans le temps l'évolution moléculaire (biomarqueurs) en parallèle des modifications cliniques, avant et après la survenue de l'atteinte.\n\nCette biobanque promue par le groupe chinois CSTAR suit 300 patients atteints de lupus récent (≤ 2 ans), sans atteinte d'organe menaçante, pendant 60 mois. Elle recueille des échantillons biologiques en série pour identifier les signatures annonciatrices de néphrite, thrombopénie ou hypertension pulmonaire.",
+ "interet": "Les résultats pourraient fournir des marqueurs prédictifs d'atteinte d'organe majeure pour stratifier le risque dès le diagnostic. Cohorte observationnelle chinoise : validation externe nécessaire.",
+ "profil": "Des adultes atteints de lupus de moins de 2 ans, sans atteinte d'organe majeure au départ.",
+ "inclusion": ["Lupus selon critères SLICC 2012 ou ACR/EULAR 2019", "Durée de maladie ≤ 2 ans", "Pas d'atteinte menaçant un organe (rénale, neuropsychiatrique, cardiopulmonaire, vascularite, hématologique avec plaquettes < 100 G/L)", "Pas d'événement thromboembolique aigu dans les 3 mois", "Antécédents thérapeutiques : absence de corticothérapie systémique et autres conditions détaillées dans le registre"],
+ "exclusion": ["Autre maladie auto-immune ou auto-inflammatoire associée (polyarthrite, spondylarthrite, psoriasis, etc.)", "Affection nécessitant des corticoïdes (asthme, maladie de Crohn)", "Grossesse, projet de grossesse ou allaitement", "Dysfonction d'organe majeure initiale (troubles cognitifs, insuffisance rénale ou cardiaque NYHA 3-4, hypertension pulmonaire, pneumopathie interstitielle, infection non contrôlée)", "Suivi à long terme impossible", "Toute condition jugée gênante par l'investigateur"],
+ "bras": [{"nom": "Cohorte de lupus récent", "traitement": "Suivi observationnel avec prélèvements biologiques en série, sans intervention imposée"}],
+ "duree": "60 mois",
+ "critere": "Survenue d'une atteinte d'organe majeure du lupus entre l'inclusion et 60 mois"
+}

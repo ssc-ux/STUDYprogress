@@ -1,0 +1,14 @@
+{
+ "h": "f74f3b4b9324",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19/BCMA dans la néphrite lupique réfractaire ou en rechute",
+ "question": "Un CAR-T ciblant CD19 et BCMA est-il sûr et efficace dans la néphrite lupique réfractaire ou en rechute ?",
+ "contexte": "La néphrite lupique de classe III, IV ou V réfractaire ou en rechute malgré deux traitements immunosuppresseurs standards expose à l'insuffisance rénale chronique et à l'insuffisance rénale terminale. Les options récentes (belimumab, voclosporine, obinutuzumab) restent insuffisantes pour une partie des patients.\n\nLes CAR-T anti-CD19 ont induit des rémissions dans le lupus réfractaire, mais ne ciblent pas les plasmocytes. L'association CD19/BCMA vise à éliminer à la fois les lymphocytes B et les plasmocytes producteurs d'auto-anticorps.\n\nCette phase 1, à bras unique et ouverte, promue par He Huang (Chine), inclut 9 patients. Elle fait suite à des travaux préalables ayant établi la sécurité du produit : l'objectif est d'observer plus largement l'efficacité et d'accumuler des données de tolérance sur un échantillon élargi.",
+ "interet": "Elle apportera des données complémentaires sur la tolérance et l'efficacité préliminaire d'un CAR-T bi-cible dans la néphrite lupique, sans valeur de preuve en raison de la taille de l'échantillon.",
+ "profil": "Des adultes atteints de néphrite lupique de classe III, IV ou V réfractaire ou en rechute.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus selon critères ACR/EULAR 2019 avec néphrite de classe III, IV ou V prouvée par biopsie (ISN/RPS 2003)", "SLEDAI-2K ≥ 8 au dépistage", "Échec de ≥ 2 traitements immunosuppresseurs standards, ou rechute", "Survie attendue > 12 semaines", "Contraception efficace jusqu'à 6 mois après la perfusion, consentement signé"],
+ "exclusion": ["Antécédent de traumatisme crânien, trouble de conscience, épilepsie ou maladie cérébrovasculaire", "Allongement du QT ou cardiopathie sévère, arythmie grave", "Infection active non guérie, hépatite B ou C active, VIH", "Corticoïdes > 20 mg/j de prednisone dans la semaine avant le traitement", "Thérapie génique antérieure", "ALAT/ASAT > 3 × LSN ou bilirubine > 2 mg/dL"],
+ "bras": [{"nom": "Néphrite lupique", "traitement": "CAR-T autologues CD19/BCMA, perfusion unique"}],
+ "duree": "2 ans de suivi des événements indésirables",
+ "critere": "Toxicités limitantes (délai mentionné dans le registre : « 28 ans », vraisemblablement une erreur) et événements indésirables sous traitement jusqu'à 2 ans"
+}

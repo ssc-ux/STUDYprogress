@@ -1,0 +1,14 @@
+{
+ "h": "11e5373c4008",
+ "date": "2026-11-14",
+ "titre": "Cohorte européenne d'inclusion précoce dans le lupus systémique",
+ "question": "Quelle proportion de patients avec un lupus récent atteint la rémission ou une faible activité, et quels biomarqueurs prédisent la réponse au traitement ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune hétérogène, associée à une surmortalité, à des complications à long terme et à une altération de la qualité de vie. Les recommandations EULAR reposent sur une stratégie par paliers, mais seulement la moitié environ des patients atteint une faible activité de la maladie dans l'année. L'approche « treat-to-target » et de nouvelles thérapies (anifrolumab, bélimumab) modifient la prise en charge.\n\nLa seule cohorte internationale d'inclusion précoce existante est la cohorte SLICC, lancée en 1998 et close en 2011, donc antérieure aux évolutions récentes. ELUSIDATE est une cohorte européenne multinationale prospective, promue par l'université d'Aarhus, qui inclut les patients dès le diagnostic, idéalement avant tout traitement ou dommage, et les suit 5 ans. Elle associe données cliniques, questionnaires rapportés par les patients et biobanque (sang, urines) pour étudier biomarqueurs, génétique, comorbidités, douleur et fatigue. Des sous-protocoles optionnels peuvent être proposés par les centres.",
+ "interet": "Cette cohorte pourrait décrire l'évolution du lupus récent sous les stratégies actuelles. Elle pourrait fournir des biomarqueurs prédictifs de réponse ou de complications, utiles à une médecine plus personnalisée.",
+ "profil": "Des adultes avec un lupus systémique récemment diagnostiqué, inclus avant traitement ou dans les 6 mois suivant le diagnostic.",
+ "inclusion": ["Diagnostic de lupus systémique (ou forte suspicion) avant tout traitement", "Si traitement débuté : moins de 6 mois depuis le diagnostic et maladie active (SLEDAI > 6)", "Critères ACR/EULAR 2019 remplis", "Âge > 18 ans (lupus de l'adulte)", "Consentement éclairé"],
+ "exclusion": ["Autre maladie auto-immune systémique associée, hors syndrome de Sjögren secondaire ou syndrome des antiphospholipides", "Traitement actif d'un cancer à l'inclusion, hors cancer cutané non mélanocytaire ou carcinome in situ cutané"],
+ "bras": [{ "nom": "Cohorte lupus récent", "traitement": "Soins habituels ; visites à l'inclusion, 3 et 6 mois, puis annuelles jusqu'à 5 ans, avec biobanque" }],
+ "duree": "5 ans",
+ "critere": "Proportion de patients en rémission DORIS et en faible activité de la maladie (LLDAS) à 1 an"
+}

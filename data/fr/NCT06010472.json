@@ -1,0 +1,35 @@
+{
+ "h": "79b683e9a6fe",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-NK anti-CD19 (KN5501) dans le lupus réfractaire modéré à sévère",
+ "question": "Des cellules NK allogéniques porteuses d'un CAR anti-CD19 sont-elles sûres chez des adultes ayant un lupus actif réfractaire ?",
+ "contexte": "Les patients lupiques en échec de plusieurs immunosuppresseurs et biothérapies gardent une maladie active avec une corticodépendance et une toxicité cumulée. Les CAR-T anti-CD19 autologues ont induit des rémissions prolongées dans de petites séries, mais exposent à un syndrome de relargage cytokinique et à des neurotoxicités, et leur fabrication est longue.\n\nLes cellules NK à CAR (CAR-NK) sont une alternative allogénique « prête à l'emploi » : elles ne provoquent pas de maladie du greffon contre l'hôte et induisent en principe moins de toxicité cytokinique. KN5501 cible CD19 pour éliminer les lymphocytes B. Cet essai de phase 1 de l'hôpital Changhai (Shanghai), à bras unique avec escalade de dose, prévoit 36 patients de 18 à 65 ans ayant un lupus modéré à sévère (SLEDAI-2K ≥ 8, BILAG A ou 2 B) malgré au moins 6 mois de corticoïdes et d'immunosuppresseur. Tous reçoivent une lymphodéplétion par fludarabine et cyclophosphamide avant la perfusion. L'objectif principal est la sécurité ; l'efficacité est évaluée en secondaire par le BILAG, la réponse SRI-4, le LLDAS et la rémission DORIS.",
+ "interet": "L'étude indiquera si la voie CAR-NK allogénique est tolérable dans le lupus et donnera un premier signal d'efficacité. Sans comparateur, elle ne pourra pas établir la supériorité sur les CAR-T ou les traitements existants.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus actif, modéré à sévère, réfractaire aux traitements.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement signé",
+  "Lupus selon les critères ACR 1997",
+  "SLEDAI-2K ≥ 8 au dépistage",
+  "BILAG-2004 : au moins 1 organe A ou 2 organes B",
+  "ANA ≥ 1:80, ou anti-ADN natif ou anti-Sm élevés",
+  "Corticoïdes oraux associés à un immunosuppresseur ou biothérapie depuis ≥ 6 mois",
+  "PNN ≥ 1,0×10⁹/L, hémoglobine ≥ 60 g/L, FEVG ≥ 50 %"
+ ],
+ "exclusion": [
+  "Allergie sévère à cyclophosphamide, fludarabine ou obinutuzumab",
+  "Infection active sous antibiotiques IV, ou dans la semaine précédant la perfusion",
+  "Déficit immunitaire acquis ou congénital",
+  "Insuffisance cardiaque NYHA III ou IV",
+  "Antécédent d'épilepsie ou d'atteinte du système nerveux central",
+  "Infection herpétique sévère antérieure (encéphalite, oculaire, diffuse)",
+  "Autre cancer primitif (sauf exceptions)"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-NK anti-CD19 (KN5501)",
+   "traitement": "Fludarabine/cyclophosphamide puis perfusion de CAR-NK, escalade de dose"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Incidence des toxicités limitant la dose (4 semaines) et des événements indésirables apparus sous traitement (jusqu'à 52 semaines)"
+}

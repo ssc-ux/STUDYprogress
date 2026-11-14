@@ -1,0 +1,49 @@
+{
+ "h": "2371c982c69d",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses de cordon ombilical dans le lupus modéré à sévère",
+ "question": "Les cellules souches mésenchymateuses allogéniques de cordon (hUC-MSC) sont-elles sûres et efficaces en association au traitement standard du lupus ?",
+ "contexte": "Le traitement du lupus repose sur l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et les biothérapies (bélimumab, anifrolumab). Une partie des patients reste en activité ou ne peut pas diminuer les corticoïdes, avec des complications au long cours.\n\nLes cellules souches mésenchymateuses ont des propriétés immunomodulatrices (inhibition des lymphocytes T et B activés, induction de lymphocytes T régulateurs). De petites études chinoises ont rapporté une amélioration de l'activité du lupus après perfusion de MSC de cordon, y compris dans la néphrite lupique, avec une bonne tolérance. Les niveaux de preuve restent faibles.\n\nCet essai de phase 1/2, randomisé en quadruple aveugle contre placebo, promu par Shenzhen Beike Bio-Technology, inclut 58 adultes de 18 à 65 ans avec un lupus modéré à sévère (ANA, anti-ADN ou anti-Sm positifs). Quatre niveaux de dose de hUC-MSC sont comparés à un placebo, tous en plus du traitement conventionnel. Le critère principal est la tolérance à 28 jours.",
+ "interet": "L'étude fournira des données de tolérance et de relation dose-effet pour les MSC de cordon dans le lupus, avec un comparateur placebo. Elle ne tranchera pas l'efficacité clinique, qui demandera une phase 2/3 plus large.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus modéré à sévère, sous traitement conventionnel.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement signé",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "ANA ≥ 1:80, ou anti-ADN natif positif, ou anti-Sm positif",
+  "Absence de projet de conception pendant l'étude et ≥ 12 mois après",
+  "Contraception efficace",
+  "Autres critères d'activité : non précisé dans l'extrait"
+ ],
+ "exclusion": [
+  "Allergie probable au produit ou à ses composants",
+  "Maladie du système nerveux central dans les 8 semaines précédentes (épilepsie, AVC, encéphalite, vascularite du SNC...)",
+  "Greffe d'organe majeur ou de cellules souches hématopoïétiques",
+  "Maladie majeure ou instable, ou infection active augmentant le risque",
+  "Cancer connu ou suspecté",
+  "Hypertension artérielle pulmonaire sévère (> 70 mmHg)"
+ ],
+ "bras": [
+  {
+   "nom": "hUC-MSC dose faible",
+   "traitement": "Traitement conventionnel + cellules souches de cordon, dose faible"
+  },
+  {
+   "nom": "hUC-MSC dose moyenne",
+   "traitement": "Traitement conventionnel + cellules souches de cordon, dose moyenne"
+  },
+  {
+   "nom": "hUC-MSC dose élevée",
+   "traitement": "Traitement conventionnel + cellules souches de cordon, dose élevée"
+  },
+  {
+   "nom": "hUC-MSC double dose",
+   "traitement": "Traitement conventionnel + cellules souches de cordon, double dose"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Traitement conventionnel + placebo"
+  }
+ ],
+ "duree": "Non précisé (critère principal à 28 jours)",
+ "critere": "Incidence des événements indésirables apparus sous traitement du jour 1 au jour 28"
+}

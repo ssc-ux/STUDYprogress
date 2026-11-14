@@ -1,0 +1,14 @@
+{
+ "h": "9b07fd923dce",
+ "date": "2026-11-14",
+ "titre": "CRT-402, CAR-T anti-CD19 in vivo, dans les maladies auto-immunes réfractaires",
+ "question": "Le CRT-402, un CAR-T anti-CD19 généré in vivo, est-il sûr et actif dans le lupus, la sclérodermie et les myosites réfractaires ?",
+ "contexte": "Les patients avec un lupus systémique, une sclérodermie systémique ou une myopathie inflammatoire réfractaires gardent une maladie active malgré les traitements standard. Les CAR-T anti-CD19 produits ex vivo ont induit des rémissions prolongées dans de petites séries, mais leur fabrication individuelle, la lymphodéplétion préalable et l'accès limité à des centres spécialisés freinent leur diffusion.\n\nLe CRT-402 (Myeloid Therapeutics, CREATE Medicines) est présenté comme une thérapie CAR-T anti-CD19 in vivo : le produit est administré par perfusion intraveineuse pour que le récepteur chimérique soit exprimé directement chez le patient, afin d'éliminer les lymphocytes B CD19+ et de « réinitialiser » le système immunitaire. Cette étude de phase 1/2, première chez l'homme, ouverte et en escalade de dose puis en expansion, inclut 34 patients. Elle définit la tolérance, la dose recommandée de phase 2 et l'activité préliminaire.",
+ "interet": "Si elle est positive, cette approche pourrait rendre la déplétion B profonde accessible sans fabrication cellulaire individuelle. Les données de tolérance, notamment le syndrome de relargage cytokinique, seront déterminantes.",
+ "profil": "Des adultes avec un lupus, une sclérodermie systémique ou une myopathie inflammatoire active et réfractaire.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus, sclérodermie systémique ou myopathie inflammatoire active selon les critères de classification", "Réponse insuffisante ou intolérance au traitement standard", "Fonctions rénale, hépatique, cardiaque et pulmonaire adéquates", "Contraception efficace et test de grossesse négatif si potentiel de procréation"],
+ "exclusion": ["Possibilité d'un traitement approuvé ou moins lourd, selon l'investigateur", "Traitement antérieur ciblant CD19, thérapie cellulaire ou génique", "Greffe de moelle, de cellules souches ou d'organe solide", "Infection active ou mal traitée (VIH, hépatite B ou C, tuberculose)", "Grossesse ou allaitement", "Toute affection ou anomalie biologique à risque inacceptable selon l'investigateur"],
+ "bras": [{ "nom": "CRT-402", "traitement": "Perfusion intraveineuse de CRT-402, escalade de dose selon les critères de sécurité du protocole" }],
+ "duree": "Jusqu'à 52 semaines",
+ "critere": "Incidence et gravité des événements indésirables (dont toxicités limitantes), du syndrome de relargage cytokinique et de l'ICANS, jusqu'à 52 semaines"
+}

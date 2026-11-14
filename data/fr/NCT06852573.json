@@ -1,0 +1,32 @@
+{
+ "h": "518e51ad7a49",
+ "date": "2026-11-14",
+ "titre": "CAR-T ZM001 dans le lupus réfractaire",
+ "question": "Quelle est la sécurité de différentes doses de CAR-T ZM001 chez des adultes ayant un lupus réfractaire ?",
+ "contexte": "Le lupus réfractaire malgré les corticoïdes, un immunosuppresseur et au moins une biothérapie reste une situation sans solution standard. Les CAR-T ciblant les lymphocytes B ont induit des rémissions dans des séries, avec un profil de toxicité principalement lié au syndrome de relargage cytokinique et à la neurotoxicité.\n\nLe ZM001 est un produit CAR-T développé par Beijing Immunochina ; le registre ne précise pas sa cible. Cette étude de phase 1 ouverte, à un bras, de type escalade 3+3, prévoit 12 à 30 patients de 18 à 70 ans, dans quatre groupes de dose : 2,5 x 10^7, 5 x 10^7, 1 x 10^8 et 2 x 10^8 cellules CAR-T, après une chimiothérapie de conditionnement. Chaque groupe inclut 3 à 6 patients, et le palier supérieur n'est ouvert que si au plus 1 patient sur 6 présente une toxicité limitante dans les 28 jours. Une ou deux doses sont ensuite retenues pour l'extension. Le critère principal est l'incidence des événements indésirables liés au traitement dans les 28 jours.",
+ "interet": "L'étude précisera la dose et la sécurité du ZM001 avant des phases ultérieures dans le lupus.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus réfractaire, d'activité modérée à sévère malgré un traitement standard.",
+ "inclusion": [
+  "Lupus selon critères EULAR/ACR 2019",
+  "Échec d'une association standard (corticoïdes, immunosuppresseur et au moins une biothérapie) pendant au moins 2 mois, à dose stable",
+  "Immunosuppresseur parmi cyclophosphamide, mycophénolate, azathioprine, inhibiteurs de la calcineurine",
+  "Biothérapie parmi bélimumab, rituximab, etc.",
+  "Prednisone 7,5 à 60 mg/j (ou équivalent)",
+  "ANA positifs ou autres auto-anticorps au dépistage"
+ ],
+ "exclusion": [
+  "Atteinte du système nerveux central non lupique ou significative (épilepsie, AVC, démence, vascularite cérébrale, trouble psychiatrique)",
+  "Hémodialyse ou corticothérapie à haute dose (≥ 1,5 mg/kg/j pendant ≥ 14 jours) dans les 2 mois",
+  "Crise lupique non contrôlée dans les 2 mois",
+  "Épanchement séreux abondant compressif non contrôlé",
+  "Autres critères d'exclusion : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "ZM001",
+   "traitement": "Chimiothérapie de conditionnement puis ZM001 en 4 doses croissantes (2,5 x 10^7 à 2 x 10^8 cellules CAR-T)"
+  }
+ ],
+ "duree": "Évaluation de sécurité à 28 jours, suivi prolongé (durée non précisée)",
+ "critere": "Incidence des événements indésirables liés au traitement jusqu'à 28 jours après la perfusion"
+}

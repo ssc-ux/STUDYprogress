@@ -1,0 +1,34 @@
+{
+ "h": "13a7d14500c4",
+ "date": "2026-11-14",
+ "titre": "Régime guidé par la génétique (pauvre en gluten, HLA-DQ2/DQ8) dans le lupus systémique",
+ "question": "Un régime pauvre en gluten chez des patients lupiques porteurs de HLA-DQ2 ou DQ8 réduit-il l'activité de la maladie et améliore-t-il la qualité de vie ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune dont l'évolution dépend de facteurs génétiques et environnementaux. L'alimentation est un facteur modifiable, mais les recommandations nutritionnelles restent générales et reposent sur peu de preuves.\n\nLes allèles HLA-DQ2 et HLA-DQ8 sont associés à la maladie cœliaque et à une sensibilité au gluten, et pourraient influencer la réponse immunitaire intestinale chez certains patients lupiques. Cette étude de l'Universitas Indonesia teste l'hypothèse qu'un régime pauvre en gluten, ciblé sur les porteurs de ces allèles, bénéficie à la maladie.\n\nL'essai randomisé inclut environ 100 adultes lupiques suivis à l'hôpital RSCM (Jakarta) et porteurs de HLA-DQ2 ou DQ8. Un régime pauvre en gluten est comparé au régime habituel. L'activité de la maladie et la qualité de vie sont évaluées à l'inclusion, à 1 mois et à 3 mois.",
+ "interet": "Elle pourrait fonder une approche nutritionnelle personnalisée du lupus. Le suivi de 3 mois est court et l'essai est monocentrique.",
+ "profil": "Des adultes atteints de lupus systémique, porteurs de HLA-DQ2 ou DQ8.",
+ "inclusion": [
+  "LES selon les critères EULAR/ACR 2019, patient suivi au RSCM",
+  "Âge > 18 ans",
+  "Porteur de HLA-DQ2 ou HLA-DQ8 (d'après les bras de l'étude)"
+ ],
+ "exclusion": [
+  "Infection active",
+  "Grossesse ou allaitement",
+  "Régime spécifique lié à une maladie auto-immune déjà suivi",
+  "Maladie sévère : cancer actif, insuffisance rénale chronique stade V, insuffisance cardiaque aiguë",
+  "Corticoïdes à plus de 20 mg/j d'équivalent prednisone",
+  "Refus de participer"
+ ],
+ "bras": [
+  {
+   "nom": "Régime guidé par la génétique",
+   "traitement": "Régime pauvre en gluten"
+  },
+  {
+   "nom": "Groupe contrôle",
+   "traitement": "Régime habituel"
+  }
+ ],
+ "duree": "3 mois",
+ "critere": "Activité du lupus et qualité de vie spécifique du lupus, à l'inclusion, 1 mois et 3 mois"
+}

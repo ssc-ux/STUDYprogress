@@ -1,0 +1,33 @@
+{
+ "h": "4d757a7373b2",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19/BCMA dans le lupus réfractaire modéré à sévère",
+ "question": "Des CAR-T anti-CD19/BCMA sont-ils sûrs et préliminairement efficaces chez des adultes ayant un lupus réfractaire modéré à sévère ?",
+ "contexte": "Le lupus réfractaire garde une morbidité élevée : les corticoïdes, immunosuppresseurs et biothérapies ne permettent pas toujours le contrôle de la maladie, et la corticodépendance expose au diabète, à l'ostéonécrose, à l'hypertension et aux infections. Le besoin de traitements plus efficaces est donc important.\n\nPlusieurs études précliniques et cliniques ont montré l'efficacité des CAR-T dans le lupus. L'ajout de BCMA à CD19 vise à éliminer à la fois les lymphocytes B et les plasmablastes/plasmocytes, sources d'auto-anticorps. Cet essai de phase 1 du Union Hospital de Wuhan (Tongji) inclut 20 adultes de 18 à 70 ans avec un lupus actif (SELENA-SLEDAI > 6, BILAG A ou 2 B) malgré au moins 12 semaines de traitement standard. Les trois premiers participants reçoivent les CAR-T sans chimiothérapie de lymphodéplétion, puis la stratégie est ajustée selon la persistance des cellules. Les patients avec néphrite sévère active, atteinte neurologique ou antécédent récent de cancer sont exclus.",
+ "interet": "L'étude précisera la tolérance des CAR-T CD19/BCMA, y compris sans lymphodéplétion, ce qui pourrait en réduire la toxicité. Elle apportera des signaux préliminaires d'efficacité sans comparateur.",
+ "profil": "Des adultes de 18 à 70 ans avec un lupus actif réfractaire, modéré à sévère.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, consentement signé",
+  "Lupus selon les critères EULAR/ACR 2019, diagnostiqué depuis ≥ 24 semaines",
+  "SELENA-SLEDAI > 6, PGA ≥ 1, BILAG-2004 avec au moins 1 A ou 2 B",
+  "Au moins 12 semaines de traitement standard sans efficacité",
+  "Contraception efficace jusqu'à 3 mois après le dernier suivi"
+ ],
+ "exclusion": [
+  "Néphrite lupique sévère active dans les 8 semaines précédentes (traitements interdits, hémodialyse, prednisone ≥ 100 mg/j)",
+  "Tentative de suicide ou idées suicidaires dans l'année",
+  "Maladie du système nerveux central dans les 8 semaines",
+  "Greffe d'organe ou de cellules souches hématopoïétiques",
+  "Syndrome lymphoprolifératif ou cancer dans les 5 ans",
+  "Échange plasmatique, hémodialyse ou immunoglobulines IV dans les 14 jours",
+  "Infection virale B ou C active"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T CD19/BCMA",
+   "traitement": "Perfusion de CAR-T ; les 3 premiers patients sans chimiothérapie de lymphodéplétion, puis adaptation selon la persistance des cellules"
+  }
+ ],
+ "duree": "12 mois après la perfusion",
+ "critere": "Sécurité et tolérance dans l'année suivant la perfusion"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "b17ccbbed52f",
+ "date": "2026-11-14",
+ "titre": "Télitacicept à faible dose pour prévenir les poussées du lupus à faible activité",
+ "question": "Le télitacicept à faible dose réduit-il les poussées chez des patients lupiques à faible activité par rapport au placebo ?",
+ "contexte": "Dans le lupus systémique, les poussées et l'accumulation de dommages d'organes restent les deux problèmes majeurs, y compris chez les patients en faible activité sous traitement stable. Les inhibiteurs de BAFF comme le belimumab ont montré des effets modestes sur les poussées dans les essais pivots, et les données sur l'atacicept à 150 mg suggèrent un bénéfice dans les formes modérées à sévères.\n\nLe télitacicept est une protéine de fusion bloquant à la fois BAFF et APRIL. Son efficacité dans le lupus actif est établie en Chine, mais son rôle dans la prévention des poussées chez des patients stables n'a pas été étudié.\n\nCet essai monocentrique de l'hôpital Renji (Shanghai), randomisé en double aveugle contre placebo, inclut 176 patients. Ils reçoivent du télitacicept 160 mg sous-cutané une semaine sur deux (26 injections) ou un placebo, en plus du traitement de fond habituel. Le critère principal est la proportion de patients ayant une poussée à 52 semaines.",
+ "interet": "Si le résultat est positif, il pourrait soutenir l'usage d'un double blocage BAFF/APRIL en traitement d'entretien dans le lupus stable. L'essai est monocentrique et chinois, ce qui limite la généralisation.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique à faible activité sous traitement stable.",
+ "inclusion": ["Âge de 18 à 70 ans, consentement signé", "Lupus de faible activité : SELENA-SLEDAI < 8, durée > 3 mois", "Pas de BILAG A et au plus un BILAG B", "Traitement stable depuis ≥ 3 mois : prednisone ≤ 30 mg/j, antipaludéen ou immunosuppresseur (MMF, azathioprine, ciclosporine, tacrolimus, méthotrexate, léflunomide)"],
+ "exclusion": ["ASAT/ALAT > 2 × LSN ou DFG < 60 mL/min", "Cyclophosphamide dans les 6 mois", "Traitement ciblant les lymphocytes B (rituximab, belimumab, télitacicept) dans les 6 mois", "Grossesse ou allaitement", "Cancer dans les 5 ans (sauf cancer cutané traité ou carcinome in situ du col)", "Hépatite active, infection en cours (VIH, tuberculose, COVID-19), IgG < 5 g/L"],
+ "bras": [{"nom": "Télitacicept", "traitement": "160 mg par voie sous-cutanée une semaine sur deux, 26 injections, en plus du traitement standard"}, {"nom": "Placebo", "traitement": "Placebo sous-cutané une semaine sur deux, 26 injections, en plus du traitement standard"}],
+ "duree": "52 semaines",
+ "critere": "Pourcentage de patients ayant présenté une poussée de lupus à 52 semaines"
+}

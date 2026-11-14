@@ -1,0 +1,36 @@
+{
+ "h": "6d3141e1204e",
+ "date": "2026-11-14",
+ "titre": "Atteinte digestive infraclinique dans le lupus juvénile : calprotectine fécale et échographie intestinale",
+ "question": "La calprotectine fécale et l'échographie intestinale détectent-elles une atteinte digestive infraclinique chez les enfants atteints de lupus ?",
+ "contexte": "Le lupus érythémateux systémique juvénile (LESj) est une maladie auto-immune multisystémique, souvent plus sévère que celle de l'adulte. L'atteinte digestive (vascularite mésentérique, pancréatite, entéropathie) est parfois grave mais peut être sous-estimée, car les symptômes sont non spécifiques ou absents.\n\nLa calprotectine fécale est un marqueur non invasif d'inflammation intestinale, couramment utilisé dans les maladies inflammatoires chroniques de l'intestin. L'échographie intestinale permet de mesurer l'épaisseur de la paroi et sa vascularisation sans irradiation. Cette étude observationnelle transversale cas-témoin d'Assiut University (Égypte) compare 60 enfants de moins de 18 ans atteints de LESj, sans symptôme digestif, à des enfants sains appariés pour l'âge et le sexe. Elle mesure la calprotectine fécale moyenne et recherche des anomalies échographiques.",
+ "interet": "Elle pourrait justifier un dépistage digestif infraclinique chez l'enfant lupique, avec des examens simples et non invasifs.",
+ "profil": "Des enfants atteints de lupus juvénile depuis au moins 3 mois, sans symptôme digestif, comparés à des témoins sains.",
+ "inclusion": [
+  "Enfants de moins de 18 ans",
+  "Lupus juvénile selon les critères SLICC",
+  "Durée de la maladie d'au moins 3 mois",
+  "Témoins sains appariés pour l'âge et le sexe",
+  "Consentement écrit des parents ou tuteurs"
+ ],
+ "exclusion": [
+  "Maladie inflammatoire chronique de l'intestin ou autre maladie digestive primitive",
+  "Symptômes digestifs significatifs (douleur abdominale persistante, diarrhée, vomissements, hémorragie, perte de poids)",
+  "Infection digestive active dans les 4 semaines",
+  "Antibiotiques, probiotiques ou AINS dans les 2 semaines précédant le recueil de selles",
+  "Autre maladie auto-inflammatoire ou auto-immune associée",
+  "Maladie hépatique ou rénale chronique non liée au lupus"
+ ],
+ "bras": [
+  {
+   "nom": "Lupus juvénile",
+   "traitement": "Enfants avec LESj (critères SLICC), maladie évoluant depuis au moins 3 mois : calprotectine fécale et échographie intestinale"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Enfants sains appariés pour l'âge et le sexe : mêmes examens"
+  }
+ ],
+ "duree": "Une seule évaluation par participant",
+ "critere": "Taux moyen de calprotectine fécale à l'inclusion"
+}

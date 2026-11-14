@@ -1,0 +1,28 @@
+{
+ "h": "387a5a36b9e2",
+ "date": "2026-11-14",
+ "titre": "Passage au garadacimab depuis une autre prophylaxie de l'angiœdème héréditaire : étude de tolérance",
+ "question": "Le passage d'une prophylaxie par inhibiteur de kallikréine ou d'inhibiteur de C1 plasmatique au garadacimab est-il bien toléré ?",
+ "contexte": "Dans l'angiœdème héréditaire (AEH), les patients bénéficiant d'une prophylaxie de fond changent parfois de traitement pour améliorer le contrôle des crises, réduire la fréquence des injections ou pour des raisons de tolérance. Les données sur la transition entre classes thérapeutiques sont limitées.\n\nLe garadacimab est un anticorps monoclonal anti-facteur XIIa, administré en injection sous-cutanée mensuelle. Cette étude de phase 4 de CSL Behring, ouverte et à un seul bras, évalue la sécurité du passage au garadacimab chez des patients de 12 ans et plus déjà stabilisés depuis au moins 3 mois sous lanadelumab, berotralstat ou inhibiteur de C1 plasmatique. Elle inclut des patients avec AEH par déficit en inhibiteur de C1 (types 1 et 2) ou à inhibiteur de C1 normal avec mutation FXII ou plasminogène. Elle porte sur 18 participants pendant environ 3 mois.",
+ "interet": "Elle renseigne la tolérance d'un changement de prophylaxie sans période de sevrage, une situation fréquente en pratique.",
+ "profil": "Des patients de 12 ans et plus atteints d'AEH, stables sous lanadelumab, berotralstat ou inhibiteur de C1 plasmatique.",
+ "inclusion": [
+  "Âge ≥ 12 ans",
+  "Réponse documentée au traitement des crises",
+  "AEH de type 1 ou 2 documenté (C1-INH < 50 % ou C4 bas), ou AEH à C1-INH normal avec mutation FXII ou plasminogène",
+  "Prophylaxie par lanadelumab, berotralstat ou inhibiteur de C1 plasmatique à dose stable depuis au moins 3 mois"
+ ],
+ "exclusion": [
+  "Autre forme d'angiœdème (idiopathique, acquis, associé à l'urticaire)",
+  "Androgènes, antifibrinolytiques ou produits expérimentaux en prophylaxie",
+  "Hypersensibilité connue aux anticorps monoclonaux ou au garadacimab"
+ ],
+ "bras": [
+  {
+   "nom": "Garadacimab",
+   "traitement": "Garadacimab sous-cutané une fois par mois, pendant environ 3 mois"
+  }
+ ],
+ "duree": "Environ 3 mois (jusqu'au jour 95)",
+ "critere": "Nombre, pourcentage et taux (par injection et par patient-année) d'événements indésirables survenus sous traitement jusqu'au jour 95"
+}

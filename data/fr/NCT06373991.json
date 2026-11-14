@@ -1,0 +1,33 @@
+{
+ "h": "a0dc49756225",
+ "date": "2026-11-14",
+ "titre": "ATHENA CAR-T (EdiGene) dans le lupus systémique modéré à sévère",
+ "question": "ATHENA CAR-T est-il bien toléré chez des adultes ayant un lupus systémique modéré à sévère ?",
+ "contexte": "Le lupus systémique modéré à sévère peut rester actif malgré au moins 6 mois de traitement standard. Les CAR-T anti-CD19 ont obtenu des rémissions dans des séries de patients réfractaires, ce qui justifie plusieurs essais précoces. Le principal enjeu reste la tolérance : syndrome de relargage cytokinique, neurotoxicité, cytopénies et infections.\n\nATHENA CAR-T est un produit développé par EdiGene. Le registre ne détaille pas sa conception. Les critères d'exclusion mentionnent un traitement antérieur ciblant CD19, ce qui laisse penser à une cible CD19, sans confirmation.\n\nCette étude de phase I monocentrique, ouverte, à un bras, inclut environ 12 adultes de 18 à 56 ans (limite haute de 65 ans selon le registre) avec un SLEDAI-2K ≥ 8. Elle suit un schéma « 3+3 » à deux doses, après chimiothérapie de lymphodéplétion. La toxicité limitante est surveillée, avec un suivi de 24 mois pour la tolérance et l'efficacité (SLEDAI-2K, BILAG-2004, PGA).",
+ "interet": "Elle pourrait fournir des données de tolérance précoces d'un nouveau CAR-T dans le lupus. Les résultats d'efficacité resteront exploratoires.",
+ "profil": "Des adultes ayant un lupus systémique actif malgré au moins 6 mois de traitement standard.",
+ "inclusion": [
+  "Âge de 18 à 56 ans",
+  "LES selon les critères EULAR/ACR 2019",
+  "ANA ≥ 1:80 et/ou anti-ADN natif et/ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 8 (≥ 6 hors complément et anti-ADN)",
+  "≥ 6 mois de traitement standard, maladie active depuis ≥ 2 mois",
+  "Bonne fonction d'organe, contraception efficace jusqu'à 24 mois"
+ ],
+ "exclusion": [
+  "Cancer actif",
+  "Traitement antérieur anti-CD19, CAR-T ou thérapie génique",
+  "Atteinte du système nerveux central ou crise lupique dans les 8 semaines",
+  "Atteinte rénale grave, hémodialyse ou forte corticothérapie",
+  "Allergie sévère aux produits de lymphodéplétion",
+  "Infection non contrôlée, autre maladie auto-immune à traiter, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "ATHENA CAR-T",
+   "traitement": "Chimiothérapie de conditionnement puis perfusion d'ATHENA CAR-T, deux niveaux de dose, schéma 3+3"
+  }
+ ],
+ "duree": "24 mois de suivi",
+ "critere": "Toxicité limitante de dose (J0-J28) et fréquence des événements indésirables jusqu'à 24 mois"
+}

@@ -1,0 +1,37 @@
+{
+ "h": "3bb5c6190832",
+ "date": "2026-11-14",
+ "titre": "Frexalimab (anti-CD40L) versus placebo dans le lupus systémique actif (phase 2)",
+ "question": "Le frexalimab améliore-t-il l'activité du lupus systémique actif par rapport au placebo ?",
+ "contexte": "Le lupus systémique actif reste difficile à contrôler malgré les traitements disponibles. La voie de costimulation CD40-CD40L joue un rôle central dans l'activation des lymphocytes B et T et dans la production d'auto-anticorps. Les premiers anti-CD40L ont été arrêtés pour des événements thromboemboliques, d'où l'intérêt de molécules de nouvelle génération.\n\nLe frexalimab (SAR441344) est un anticorps monoclonal anti-CD40L de deuxième génération, avec un fragment Fc modifié pour limiter l'activation plaquettaire. Il est aussi développé dans la sclérose en plaques.\n\nCet essai de phase 2 de Sanofi est randomisé, en double aveugle, contre placebo, et inclut environ 109 adultes de 18 à 70 ans ayant un lupus actif sous traitement standard. Les patients reçoivent une dose de charge IV puis des injections sous-cutanées pendant 24 semaines, avec 36 semaines au total et des visites toutes les 2 semaines. Le critère principal est la réponse SRI-4 à la semaine 24.",
+ "interet": "Elle pourrait confirmer l'intérêt de l'inhibition de CD40L dans le lupus, avec une surveillance attentive de la tolérance, notamment thromboembolique et infectieuse. Elle dira si un développement de phase 3 est justifié.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus systémique actif sous traitement standard.",
+ "inclusion": [
+  "LES depuis ≥ 6 mois (critères ACR 1997), ANA ≥ 1:80",
+  "Au moins une sérologie positive",
+  "SLEDAI-SELENA hybride ≥ 6 au dépistage, dont ≥ 4 points cliniques à la randomisation",
+  "≥ 1 BILAG A ou 2 BILAG B",
+  "Traitement standard actuel du lupus",
+  "Poids de 45 à 120 kg"
+ ],
+ "exclusion": [
+  "Autre maladie rhumatismale ou cutanée gênant l'évaluation",
+  "Néphropathie lupique sévère active ou lupus neuropsychiatrique sévère ou instable",
+  "Lupus induit par un médicament",
+  "Antécédent ou risque thromboembolique, infarctus, AVC, SAPL, ou traitement antithrombotique",
+  "Hypogammaglobulinémie",
+  "Infection grave, infection opportuniste invasive, tuberculose active ou latente non traitée"
+ ],
+ "bras": [
+  {
+   "nom": "Frexalimab",
+   "traitement": "Dose de charge IV puis doses sous-cutanées pendant 24 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo IV puis sous-cutané pendant 24 semaines"
+  }
+ ],
+ "duree": "36 semaines, dont 24 de traitement",
+ "critere": "Pourcentage de répondeurs SRI-4 à la semaine 24"
+}

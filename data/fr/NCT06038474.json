@@ -1,0 +1,29 @@
+{
+ "h": "1afbaaa1961c",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA ARNm (Descartes-08) dans le lupus : phase 2 de sécurité",
+ "question": "Descartes-08, des CAR-T anti-BCMA autologues, est-il bien toléré et fabricable chez des patients ayant un lupus actif ?",
+ "contexte": "Les patients lupiques en échec de glucocorticoïdes et d'au moins deux immunosuppresseurs conservent une maladie active et des auto-anticorps persistants. Les CAR-T anti-CD19 ont induit des rémissions, mais nécessitent une lymphodéplétion intensive.\n\nDescartes-08 est un produit de lymphocytes T autologues exprimant un récepteur chimérique dirigé contre BCMA, cible des plasmablastes et plasmocytes producteurs d'auto-anticorps. Contrairement aux CAR-T classiques, le récepteur est exprimé de façon transitoire (ARNm), ce qui permet un traitement par perfusions répétées sans lymphodéplétion préalable et pourrait limiter les toxicités. Il a été étudié dans la myasthénie. Cet essai de phase 2 ouvert, à bras unique, de Cartesian Therapeutics, n'inclut que 6 adultes avec un lupus actif et au moins un auto-anticorps détectable (anti-ADN, anti-histone, anti-chromatine ou anti-Sm). Les patients avec néphrite sévère active ou lupus neurologique sont exclus.",
+ "interet": "L'étude évalue la faisabilité et la tolérance de cette approche CAR-T transitoire, plus simple à administrer. Avec 6 patients sans comparateur, elle ne permettra pas de conclure sur l'efficacité.",
+ "profil": "Des adultes avec un lupus actif en échec de plusieurs immunosuppresseurs.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus systémique au dépistage",
+  "Symptômes actifs malgré corticoïdes et au moins 2 autres immunosuppresseurs essayés ≥ 12 semaines dans les 24 derniers mois",
+  "Au moins un auto-anticorps détectable : anti-ADN natif, anti-histone, anti-chromatine ou anti-Sm"
+ ],
+ "exclusion": [
+  "Néphrite lupique sévère active",
+  "Lupus neurologique sévère actif ou symptômes neurologiques (céphalées, convulsions, psychose, syndrome cérébral organique)",
+  "Maladie chronique majeure mal contrôlée",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Descartes-08",
+   "traitement": "Lymphocytes T autologues exprimant un CAR anti-BCMA, perfusions"
+  }
+ ],
+ "duree": "Environ 110 jours (du jour -59 au jour 50)",
+ "critere": "Sécurité et tolérance de Descartes-08, du jour -59 au jour 50"
+}

@@ -1,0 +1,27 @@
+{
+ "h": "f2bbd3346410",
+ "date": "2026-11-14",
+ "titre": "HN2301 dans le lupus, la sclérodermie et la polyarthrite rhumatoïde réfractaires",
+ "question": "Le HN2301 est-il bien toléré et actif dans le lupus, la sclérodermie systémique et la polyarthrite rhumatoïde ?",
+ "contexte": "Les formes réfractaires de lupus, de sclérodermie systémique et de polyarthrite rhumatoïde persistent malgré les immunosuppresseurs et les biothérapies. Les thérapies cellulaires ciblant les lymphocytes B ont donné des rémissions dans de petites séries, ce qui motive le développement de nouveaux produits.\n\nLe HN2301 est une injection développée par Shenzhen MagicRNA Biotechnology ; le registre n'en précise pas la nature exacte. L'étude est de phase 1, exploratoire, ouverte et monobras. Les patients reçoivent le produit à une dose et des jours prédéfinis. Environ 30 adultes de 18 à 69 ans sont prévus.\n\nLes critères exigent une maladie active malgré un traitement standard : lupus sous prednisone 7,5 à 30 mg/jour avec au moins deux immunosuppresseurs, sclérodermie avec mRSS de 10 à 35, polyarthrite avec DAS28-VS > 3,2 et ACPA positifs. Le critère principal est la tolérance à 3 mois.",
+ "interet": "L'étude apportera les premières données de tolérance et d'efficacité préliminaire de ce produit dans trois maladies auto-immunes. Elle est exploratoire, sans comparateur.",
+ "profil": "Des adultes de 18 à 69 ans atteints de lupus, de sclérodermie systémique ou de polyarthrite rhumatoïde actifs malgré les traitements.",
+ "inclusion": [
+  "Âge de 18 à 69 ans",
+  "Fonctions médullaire, cardiaque (FEVG ≥ 40 %), pulmonaire, hépatique et rénale (clairance ≥ 50 mL/min) adéquates",
+  "Lupus EULAR/ACR 2019 évoluant depuis ≥ 6 mois, prednisone 7,5 à 30 mg/jour, au moins deux immunosuppresseurs",
+  "Sclérodermie selon ACR/EULAR avec score de Rodnan modifié de 10 à 35",
+  "Polyarthrite selon ACR/EULAR, DAS28-VS > 3,2, ACPA positifs",
+  "Contraception pendant 12 mois après la perfusion"
+ ],
+ "exclusion": [
+  "Hépatite B ou C, VIH, CMV ou syphilis actifs",
+  "Autre infection active non contrôlée",
+  "Autres critères : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "HN2301", "traitement": "Injection de HN2301 à la dose et aux jours prédéfinis ; posologie non précisée" }
+ ],
+ "duree": "Au moins 3 mois (contraception demandée pendant 12 mois)",
+ "critere": "Incidence des événements indésirables apparus sous traitement, jusqu'à 3 mois"
+}

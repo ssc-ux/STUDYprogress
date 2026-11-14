@@ -1,0 +1,14 @@
+{
+ "h": "15db53e65bf2",
+ "date": "2026-11-14",
+ "titre": "Mycophénolate ou cyclophosphamide : effet sur les sous-populations lymphocytaires dans la néphrite lupique proliférative",
+ "question": "Comment le mycophénolate mofétil et le cyclophosphamide modifient-ils les sous-populations lymphocytaires dans la néphrite lupique proliférative ?",
+ "contexte": "Les néphrites lupiques de classe III/IV (± V) sont traitées par une induction associant corticoïdes et mycophénolate mofétil (MMF) ou cyclophosphamide, puis un traitement d'entretien (MMF ou azathioprine). Les deux schémas ont une efficacité globalement comparable sur la réponse rénale, mais on connaît mal leurs effets respectifs sur le système immunitaire.\n\nLe lupus s'accompagne d'anomalies des lymphocytes T (Th1, Th2, Th17, Treg, CD8) et B (cellules naïves, mémoires, plasmocytes), ainsi que de cytokines sériques. Mieux comprendre comment chaque traitement les modifie pourrait aider à anticiper le risque de rechute et à personnaliser le choix thérapeutique.\n\nCette étude randomisée de l'Université de Hong Kong compare deux schémas : prednisolone plus cyclophosphamide pendant 6 mois puis azathioprine, ou prednisolone plus MMF puis MMF d'entretien. Les sous-populations lymphocytaires et les cytokines sont mesurées à 4, 12, 24, 36 et 48 semaines, puis corrélées au risque ultérieur de rechute.",
+ "interet": "Il s'agit d'une étude mécanistique : elle ne vise pas à comparer l'efficacité clinique, mais pourrait identifier des marqueurs immunologiques prédictifs de la rechute et orienter le choix entre MMF et cyclophosphamide.",
+ "profil": "Des adultes de 18 à 80 ans atteints d'une néphrite lupique proliférative active prouvée par biopsie.",
+ "inclusion": ["Néphrite lupique de classe III/IV ± V (ISN/RPS) prouvée par biopsie", "Néphrite active : protéinurie > 1 g/j et/ou hausse de la créatinine > 15 % par rapport à l'état de base", "Réactivation sérologique possible mais non obligatoire", "Âge de 18 à 80 ans", "Consentement éclairé"],
+ "exclusion": ["Inhibiteur de la calcineurine ou inhibiteur de signal de prolifération en entretien dans les 3 mois précédents", "Biothérapie (rituximab, abatacept) dans les 12 mois précédents", "Grossesse ou allaitement"],
+ "bras": [{"nom": "MMF-MMF", "traitement": "Prednisolone 0,8 mg/kg/j plus mycophénolate mofétil 1 g deux fois par jour, puis MMF d'entretien (dose adaptée à l'évolution)"}, {"nom": "CTX-AZA", "traitement": "Prednisolone 0,8 mg/kg/j plus cyclophosphamide 1,5 à 2 mg/kg/j pendant 6 mois, puis azathioprine 1 à 1,5 mg/kg/j"}],
+ "duree": "48 semaines",
+ "critere": "Profil des sous-populations lymphocytaires (CD8, Th1, Th2, Th17, Treg, lymphocytes B naïfs et mémoires, plasmocytes) à 48 semaines"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "30d9fa74710b",
+ "date": "2026-11-14",
+ "titre": "CAR-T universel CD19/BCMA dans le lupus systémique réfractaire ou en rechute",
+ "question": "Un CAR-T allogénique universel CD19/BCMA est-il sûr et efficace dans le lupus réfractaire ou en rechute ?",
+ "contexte": "Le lupus et la néphrite lupique réfractaires aux traitements conventionnels (corticoïdes, cyclophosphamide, mycophénolate, azathioprine, rituximab, belimumab, télitacicept) exposent à des dommages d'organes. Les CAR-T anti-CD19 autologues ont induit des rémissions, mais la fabrication individuelle est longue et peut être difficile chez des patients lymphopéniques.\n\nLes CAR-T universels, issus de donneurs sains, sont disponibles d'emblée. La double cible CD19/BCMA vise les lymphocytes B et les plasmocytes producteurs d'auto-anticorps. Cette étude de l'Université de Zhejiang est une phase 1 monocentrique, ouverte, d'escalade de dose, sur initiative d'investigateur, incluant jusqu'à 18 patients.\n\nUne perfusion unique est administrée après lymphodéplétion par fludarabine et cyclophosphamide. Une analyse intermédiaire est prévue lorsque les participants atteindront 90 jours après la perfusion.",
+ "interet": "Les données de tolérance et de réponse permettront d'apprécier la faisabilité d'un CAR-T allogénique « prêt à l'emploi » dans le lupus. Il s'agit d'une phase 1, sans comparateur.",
+ "profil": "Des adultes atteints de lupus réfractaire ou en rechute, avec néphrite lupique active de classe III ou IV.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus selon critères EULAR/ACR 2019", "Néphrite active de classe III ou IV (± V) sur biopsie des 6 derniers mois (ISN/RPS 2018)", "Maladie réfractaire (traitement conventionnel inefficace > 6 mois) ou en rechute après rémission", "Autres critères du protocole : non précisé"],
+ "exclusion": ["Allergie médicamenteuse sévère ou terrain allergique", "Infection non contrôlée ou nécessitant un traitement", "Maladie du système nerveux central (épilepsie, psychose, AVC, encéphalite, vascularite cérébrale)", "Insuffisance cardiaque, déficit immunitaire en immunoglobulines congénital", "Cancer dans les 5 ans, insuffisance rénale terminale", "Hépatite B ou C virémique, VIH, troubles psychiatriques ou cognitifs sévères, participation à un autre essai"],
+ "bras": [{"nom": "CAR-T universel", "traitement": "CAR-T allogéniques CD19/BCMA, perfusion unique après fludarabine et cyclophosphamide, avec escalade de dose"}],
+ "duree": "24 mois",
+ "critere": "Toxicités limitantes à 28 jours, événements indésirables jusqu'à 90 jours et réponse clinique jusqu'à 24 mois"
+}

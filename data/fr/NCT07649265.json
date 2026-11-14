@@ -1,0 +1,36 @@
+{
+ "h": "18557ad986e8",
+ "date": "2026-11-14",
+ "titre": "HBM7020 de première administration chez l'humain, sujets sains puis maladies auto-immunes B",
+ "question": "Le HBM7020 est-il bien toléré, et quelle est sa pharmacocinétique, chez des volontaires sains puis des patients ayant une maladie auto-immune à médiation B ?",
+ "contexte": "Les lymphocytes B et les plasmocytes jouent un rôle central dans le lupus, la sclérodermie, le syndrome de Sjögren et la polyarthrite rhumatoïde, par la production d'auto-anticorps et la présentation d'antigènes. Le rituximab, le bélimumab ou l'anifrolumab ne contrôlent qu'une partie des patients, et la déplétion B profonde obtenue par les CAR-T anti-CD19 a relancé l'intérêt pour des approches plus ciblées.\n\nLe HBM7020 est un agent expérimental promu par Otsuka ; le registre ne précise pas sa nature exacte. Il s'agit d'une étude de phase 1 de première administration chez l'humain, en deux parties. La partie 1 inclut des volontaires sains à faibles doses. La partie 2 inclut des patients ayant un LES, une sclérodermie, un Sjögren ou une PR séropositifs, actifs et modérément à sévèrement atteints, avec escalade de dose puis retraitement optionnel (partie 2b). Les critères principaux portent sur la sécurité, notamment le syndrome de relargage cytokinique, les réactions immunitaires et les toxicités limitantes de dose. Il n'y a pas de comparateur : l'étude ne mesurera pas l'efficacité.",
+ "interet": "C'est une étape précoce. Elle établira la tolérance, la dose et les effets pharmacodynamiques avant toute étude d'efficacité dans les maladies auto-immunes B.",
+ "profil": "Des volontaires sains, puis des adultes de 18 à 75 ans ayant un lupus, une sclérodermie, un Sjögren ou une PR actifs.",
+ "inclusion": [
+  "Partie 1 : volontaires sains en bonne santé générale, IMC dans la plage acceptable",
+  "Partie 1 : contraception acceptable ou absence de potentiel de procréation",
+  "Partie 2 : maladie auto-immune confirmée avec auto-anticorps (LES, ScS, PR ou Sjögren)",
+  "Partie 2 : maladie active modérée à sévère selon les critères du protocole",
+  "Partie 2 : traitement de fond stable avant l'administration",
+  "Partie 2 : paramètres hématologiques, rénaux, hépatiques et lymphocytaires adéquats"
+ ],
+ "exclusion": [
+  "Grossesse ou allaitement",
+  "Vaccination récente selon les délais du protocole",
+  "Antécédents ou examen cliniquement anormaux, anomalies cardiovasculaires ou ECG",
+  "Traitements ou affections pouvant gêner la sécurité de l'étude",
+  "Atteinte pulmonaire, rénale ou cardiaque sévère, hypertension pulmonaire significative"
+ ],
+ "bras": [
+  {
+   "nom": "Parties 1 et 2a (escalade de dose)",
+   "traitement": "HBM7020 à doses croissantes chez des volontaires sains puis des patients (voie d'administration non précisée)"
+  },
+  {
+   "nom": "Partie 2b",
+   "traitement": "Retraitement optionnel par HBM7020 chez les patients éligibles"
+  }
+ ],
+ "duree": "Jusqu'à 48 semaines",
+ "critere": "Nombre de participants avec événements indésirables, événements graves et arrêts pour effet indésirable jusqu'à la semaine 48 ; syndrome de relargage cytokinique jusqu'à la semaine 24"
+}

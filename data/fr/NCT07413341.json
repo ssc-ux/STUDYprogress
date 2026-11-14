@@ -1,0 +1,28 @@
+{
+ "h": "5e5f051bc189",
+ "date": "2026-11-14",
+ "titre": "TI-0032-III, ARN circulaire en nanoparticules pour CAR-T anti-CD19 in vivo, dans les maladies auto-immunes réfractaires",
+ "question": "Un CAR anti-CD19 produit in vivo par ARN circulaire en nanoparticules lipidiques est-il sûr chez des patients ayant une maladie auto-immune réfractaire ?",
+ "contexte": "Lupus, syndrome de Sjögren, sclérodermie, myopathies et vascularites à ANCA peuvent résister aux traitements conventionnels. Les CAR-T anti-CD19 induisent des rémissions, mais exigent une leucaphérèse, une fabrication ex vivo et une lymphodéplétion.\n\nTI-0032-III (Therorna) est composé de nanoparticules lipidiques ciblant les lymphocytes T, qui contiennent un ARN circulaire codant un CAR anti-CD19. Il permet de produire le CAR directement dans les lymphocytes T du patient, in vivo, sans fabrication cellulaire. L'étude de phase 1, ouverte, à doses croissantes, inclut environ 12 adultes de 18 à 65 ans. Les patients doivent avoir une expression de CD19 sur les lymphocytes B et une maladie réfractaire. Pour le LES, il faut un SLEDAI-2000 > 6 avec BILAG A ou 2 B malgré les traitements conventionnels. Le critère principal est la sécurité sur 12 mois.",
+ "interet": "Il s'agit d'une approche de thérapie CAR in vivo, qui éviterait la fabrication ex vivo. L'étude ne mesurera pas d'efficacité comparative.",
+ "profil": "Des adultes de 18 à 65 ans ayant un lupus, un Sjögren, une sclérodermie, une myopathie ou une vascularite à ANCA réfractaires ou en rechute.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Expression de CD19 sur les lymphocytes B circulants",
+  "Neutrophiles ≥ 1,5 G/L, hémoglobine ≥ 90 g/L, plaquettes ≥ 100 G/L",
+  "FEVG ≥ 50 %, SpO2 ≥ 92 %, ALT/AST ≤ 1,5 N, clairance ≥ 50 mL/min",
+  "LES : critères EULAR/ACR 2019, SLEDAI-2000 > 6, au moins un BILAG A ou deux B",
+  "LES : échec ou rechute après corticoïdes, cyclophosphamide et immunomodulateurs pendant > 6 mois"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait du registre"
+ ],
+ "bras": [
+  {
+   "nom": "TI-0032-III",
+   "traitement": "Injection de nanoparticules lipidiques contenant un ARN circulaire codant un CAR anti-CD19, à doses croissantes"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Critères de sécurité de la première dose jusqu'à 12 mois"
+}

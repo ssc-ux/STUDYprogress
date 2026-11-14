@@ -1,0 +1,28 @@
+{
+ "h": "0f0f6f76b1f7",
+ "date": "2026-11-14",
+ "titre": "Survie rénale à 2 et 5 ans dans la néphropathie lupique (Assiut)",
+ "question": "Quelle est la survie rénale à 2 et 5 ans des patients atteints de néphropathie lupique ?",
+ "contexte": "La néphropathie lupique est une glomérulonéphrite à complexes immuns, complication fréquente du lupus systémique. Ses présentations cliniques et histologiques sont hétérogènes. Malgré des traitements anti-inflammatoires et immunosuppresseurs puissants, une proportion importante de patients évolue vers la maladie rénale chronique ou l'insuffisance rénale terminale.\n\nLa survie rénale varie selon l'origine des populations, l'accès aux soins et les classes histologiques. Les données de la région sont limitées.\n\nCette étude observationnelle de l'université d'Assiut (Égypte) analyse les dossiers de patients adultes ayant un lupus selon les critères EULAR/ACR et une néphropathie classée ISN/RPS, avec au moins 2 ans et jusqu'à 5 ans de suivi disponibles. Environ 97 patients sont attendus.",
+ "interet": "Elle décrira le pronostic rénal local et ses déterminants. Elle est rétrospective, monocentrique et de petite taille.",
+ "profil": "Des adultes atteints de néphropathie lupique, suivis pendant 2 à 5 ans.",
+ "inclusion": [
+  "Âge > 18 ans",
+  "LES selon les critères EULAR/ACR et néphropathie lupique classée ISN/RPS",
+  "Dossiers médicaux disponibles à 2 et 5 ans après le diagnostic"
+ ],
+ "exclusion": [
+  "Patients transplantés",
+  "Femmes enceintes",
+  "Atteinte rénale combinée à une autre pathologie que la néphropathie lupique",
+  "Absence de données de base ou suivi < 24 mois"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec néphropathie lupique",
+   "traitement": "Cohorte observationnelle, suivi de la fonction rénale"
+  }
+ ],
+ "duree": "2 à 5 ans d'observation",
+ "critere": "Survie rénale à 2 et 5 ans"
+}

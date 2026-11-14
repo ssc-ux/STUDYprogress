@@ -1,0 +1,29 @@
+{
+ "h": "ce30c4998e4br",
+ "date": "2026-11-14",
+ "titre": "TAK-771 (immunoglobuline sous-cutanée avec hyaluronidase) au long cours chez des patients japonais atteints de DIP",
+ "question": "Un traitement de 3 ans par TAK-771 est-il bien toléré chez des patients japonais atteints de déficit immunitaire primitif ?",
+ "contexte": "Les déficits immunitaires primitifs (DIP) avec défaut d'anticorps nécessitent une substitution à vie en immunoglobulines G. La voie sous-cutanée facilitée par la hyaluronidase permet de perfuser de grands volumes à intervalle de 3 à 4 semaines, avec moins de sites de perfusion.\n\nTAK-771 associe une immunoglobuline à 10 % et la hyaluronidase humaine recombinante (rHuPH20, 80 U/g d'IgG), perfusée avant l'immunoglobuline. C'est l'équivalent de HyQvia. Cette étude de phase 3 de Takeda, ouverte et à un seul bras, prolonge l'étude TAK-771-3004 chez des participants japonais pendant 3 ans au total. Elle porte sur la tolérance à long terme et sur le risque d'anticorps dirigés contre la hyaluronidase, avec 15 participants.",
+ "interet": "Elle complète les données de tolérance de cette formulation dans une population japonaise, pour appuyer son usage au long cours.",
+ "profil": "Des enfants (≥ 2 ans) et adultes japonais atteints de déficit immunitaire primitif, ayant terminé l'étude TAK-771-3004.",
+ "inclusion": [
+  "Étude TAK-771-3004 terminée ou sur le point de l'être",
+  "Consentement écrit ou électronique du participant ou de son représentant légal (avec assentiment si < 18 ans)",
+  "Capacité à respecter le protocole"
+ ],
+ "exclusion": [
+  "Nouvelle affection grave survenue pendant l'étude 3004 affectant la sécurité du participant",
+  "Participation prévue à une autre étude clinique",
+  "Test de grossesse positif chez une femme en âge de procréer",
+  "Refus d'une contraception adaptée"
+ ],
+ "bras": [
+  {
+   "nom": "TAK-771",
+   "traitement": "Hyaluronidase humaine recombinante 80 U/g d'IgG par voie sous-cutanée, suivie d'immunoglobuline à 10 % dans les 10 minutes"
+  }
+ ],
+ "duree": "3 ans (jusqu'à 3,1 ans)",
+ "critere": "Pourcentage de participants avec événements indésirables sous traitement, et avec anticorps anti-rHuPH20 (titre ≥ 1:160) neutralisants, jusqu'à 3,1 ans",
+ "resultats": "Les 15 participants ont tous présenté au moins un événement indésirable sous traitement (100 %). Six participants ont eu un événement indésirable grave, sans décès. Aucun participant n'a développé d'anticorps anti-rHuPH20 de titre ≥ 1:160 ni d'anticorps neutralisants (0 %). Il n'y avait pas de groupe comparateur."
+}

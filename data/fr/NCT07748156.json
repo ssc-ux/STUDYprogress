@@ -1,0 +1,28 @@
+{
+ "h": "e7b6f0179887",
+ "date": "2026-11-14",
+ "titre": "SNC116 dans le lupus systémique réfractaire : phase 1",
+ "question": "Le SNC116 est-il sûr et bien toléré chez des adultes ayant un lupus réfractaire, avec ou sans néphrite lupique ?",
+ "contexte": "Une proportion de patients lupiques demeure en activité malgré au moins six mois de traitement conventionnel associant glucocorticoïdes, antipaludéens, immunosuppresseurs et biothérapies, y compris anti-CD20, bélimumab et inhibiteurs de JAK. La néphrite lupique réfractaire expose à la perte de fonction rénale.\n\nLe registre n'indique pas la nature précise du SNC116 ; il s'agit d'un produit administré par perfusion, évalué dans une étude de phase 1 de l'hôpital de Drum Tower de Nanjing. L'essai, ouvert et à bras unique, doit inclure 28 adultes de 18 à 65 ans avec un lupus actif (SLEDAI-2K ≥ 6 avec BILAG A ou 2 B, ou SLEDAI-2K ≥ 8), ou une néphrite lupique active de classe III, IV et/ou V (index d'activité ≥ 1, protéinurie ≥ 1 g/g). Le suivi principal de sécurité est de 3 mois après perfusion, avec une évaluation des toxicités limitant la dose à 28 jours.",
+ "interet": "L'étude précisera la tolérance du SNC116 chez des patients sans option évidente. Avec un seul bras et un effectif limité, aucune conclusion d'efficacité n'est attendue.",
+ "profil": "Des adultes de 18 à 65 ans avec un lupus actif réfractaire, avec ou sans néphrite lupique.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "SLEDAI-2K ≥ 6 avec au moins un BILAG A ou deux BILAG B, ou SLEDAI-2K ≥ 8",
+  "Maladie active après au moins 6 mois de traitement conventionnel (corticoïdes, antipaludéens, immunosuppresseurs, biothérapies)",
+  "Néphrite lupique réfractaire : classe III, IV ou V à la biopsie (< 1 an), index d'activité ≥ 1, protéinurie ≥ 1,0 g/g ou 1 g/24 h",
+  "PNN ≥ 1,5×10⁹/L, lymphocytes ≥ 0,5×10⁹/L, hémoglobine ≥ 80 g/L, plaquettes ≥ 50×10⁹/L"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "SNC116",
+   "traitement": "Perfusion de SNC116, lupus réfractaire"
+  }
+ ],
+ "duree": "3 mois pour le critère principal",
+ "critere": "Fréquence, nature et gravité des événements indésirables jusqu'à 3 mois, et toxicités limitant la dose à 28 jours"
+}

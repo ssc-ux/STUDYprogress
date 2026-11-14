@@ -1,0 +1,34 @@
+{
+ "h": "10c4b95b2e47",
+ "date": "2026-11-14",
+ "titre": "Télitacicept contre bélimumab dans le lupus : étude de cohorte multicentrique",
+ "question": "Quel est le meilleur taux de réponse SRI-4 entre le télitacicept et le bélimumab chez des patients lupiques déjà traités ?",
+ "contexte": "Le bélimumab, anticorps anti-BAFF, est le traitement biologique de référence du lupus systémique actif en association au traitement standard. Le télitacicept est une protéine de fusion TACI-Fc qui neutralise à la fois BAFF et APRIL ; il est développé en Chine, où il a été évalué dans le lupus dans des essais contre placebo, avec des résultats favorables sur le taux de réponse SRI-4.\n\nIl n'existe pas de comparaison directe entre ces deux molécules. Cette étude de cohorte, à promotion académique (Yipeng Liu), est décrite comme rétrospective : les participants ne reçoivent aucun traitement dans le cadre de l'étude et on compare les données de patients déjà traités depuis au moins 12 semaines par l'un ou l'autre médicament. 180 adultes de 18 à 65 ans sont prévus, avec une activité de lupus initiale d'au moins 8 points au SELENA-SLEDAI. Le critère principal est la proportion de patients en réponse SRI-4 après un an de traitement. En l'absence de randomisation, les différences observées peuvent refléter des biais de sélection, de confusion ou de prescription.",
+ "interet": "Les données observationnelles pourraient éclairer le choix entre deux anti-BAFF, sans remplacer un essai comparatif randomisé.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus actif, traités par télitacicept ou bélimumab.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Lupus selon les critères ACR 1997 ou EULAR/ACR 2019",
+  "SELENA-SLEDAI ≥ 8 (dont ≥ 6 points d'atteinte clinique)",
+  "Traitement par télitacicept ou bélimumab depuis au moins 12 semaines"
+ ],
+ "exclusion": [
+  "Atteinte active du système nerveux central",
+  "DFGe < 30 mL/min/1,73 m², hémodialyse ou transplantation rénale",
+  "Grossesse, projet de grossesse pendant le traitement ou allaitement",
+  "Participation simultanée à une autre étude",
+  "Traitement par télitacicept ou bélimumab depuis moins de 12 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe bélimumab",
+   "traitement": "Patients ayant déjà reçu du bélimumab (posologie non précisée)"
+  },
+  {
+   "nom": "Groupe télitacicept",
+   "traitement": "Patients ayant déjà reçu du télitacicept (posologie non précisée)"
+  }
+ ],
+ "duree": "1 an de traitement",
+ "critere": "Proportion de patients en réponse SRI-4 entre l'inclusion et la fin de la période de traitement d'un an"
+}

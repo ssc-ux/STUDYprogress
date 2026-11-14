@@ -1,0 +1,30 @@
+{
+ "h": "f8405fe18c32r",
+ "date": "2026-11-14",
+ "titre": "Zanubrutinib dans la maladie associée aux IgG4",
+ "question": "Le zanubrutinib, inhibiteur de BTK, réduit-il le volume des glandes sous-maxillaires et lacrymales dans la maladie associée aux IgG4 ?",
+ "contexte": "La maladie associée aux IgG4 est une maladie fibro-inflammatoire chronique touchant les glandes salivaires et lacrymales, le pancréas, les voies biliaires, le rétropéritoine et d'autres organes. Les corticoïdes sont le traitement initial, mais les rechutes à l'arrêt sont fréquentes. Les options d'épargne cortisonique sont limitées : immunosuppresseurs classiques, rituximab, et inébilizumab.\n\nLa maladie est liée à l'activation de lymphocytes B et de plasmocytes producteurs d'IgG4, avec un rôle des lymphocytes T CD4 cytotoxiques. La tyrosine kinase de Bruton (BTK) intervient dans la signalisation du récepteur B. Le zanubrutinib est un inhibiteur de BTK de seconde génération, utilisé dans les hémopathies B.\n\nCette phase 2 monocentrique, ouverte, à un seul bras, de l'équipe de Stanford (Matthew Baker), traite 10 patients symptomatiques avec atteinte des glandes sous-maxillaires et/ou lacrymales par zanubrutinib 80 mg deux fois par jour pendant 24 semaines. Le volume glandulaire est mesuré par TEP-IRM.",
+ "interet": "L'étude apporte un premier signal sur l'inhibition de BTK dans la maladie associée aux IgG4, comme alternative potentielle à la déplétion B. L'effectif et l'absence de comparateur restent limitants.",
+ "profil": "Des adultes de 18 à 85 ans atteints de maladie associée aux IgG4 avec atteinte des glandes sous-maxillaires et/ou lacrymales.",
+ "inclusion": [
+  "Âge de 18 à 85 ans",
+  "Maladie associée aux IgG4 confirmée histologiquement sur glande sous-maxillaire et/ou lacrymale (critères consensuels internationaux)",
+  "Infiltrat lymphoplasmocytaire avec ≥ 10 plasmocytes IgG4+ par champ et/ou rapport IgG4+/IgG+ ≥ 40 %",
+  "Test de grossesse négatif et contraception fiable",
+  "Aucun immunosuppresseur, hors prednisone ≤ 40 mg/j stable depuis 28 jours"
+ ],
+ "exclusion": [
+  "Dose de corticoïdes instable dans les 28 jours",
+  "DMARD de synthèse (hydroxychloroquine, méthotrexate, léflunomide, sulfasalazine) dans les 28 jours",
+  "Cytotoxique ou immunosuppresseur (cyclophosphamide, mycophénolate, azathioprine, ciclosporine, sirolimus, tacrolimus) dans les 28 jours",
+  "Inhibiteur de BTK dans les 6 mois, inhibiteur de JAK dans les 28 jours, biothérapie dans les 56 jours",
+  "Traitement déplétant les lymphocytes B (rituximab) dans les 12 mois",
+  "Autre maladie auto-immune, tuberculose active, VIH, hépatite B ou C, cancer"
+ ],
+ "bras": [
+  { "nom": "Zanubrutinib", "traitement": "80 mg par voie orale deux fois par jour pendant 24 semaines" }
+ ],
+ "duree": "24 semaines",
+ "critere": "Volume des glandes sous-maxillaires et lacrymales en TEP-IRM entre l'inclusion et la semaine 24",
+ "resultats": "Chez 8 patients analysés, le volume moyen des glandes sous-maxillaires est passé de 12,7 cm³ (écart type 5,78) à 9,34 cm³ (4,80) à la semaine 24, soit une variation de -3,37 cm³ (2,40 ; p < 0,001, test de Wilcoxon). Le volume moyen des glandes lacrymales est passé de 2,59 cm³ (2,18) à 1,17 cm³ (0,520), soit -1,42 cm³ (1,76 ; p < 0,001). Un événement indésirable grave a été rapporté chez 1 des 10 patients, sans décès. L'étude est ouverte, à un seul bras et d'effectif très faible."
+}

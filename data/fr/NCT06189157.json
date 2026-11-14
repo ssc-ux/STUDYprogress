@@ -1,0 +1,37 @@
+{
+ "h": "d549c1eb24e4",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 (MB-CART19.1) dans le lupus réfractaire",
+ "question": "Les CAR-T anti-CD19 MB-CART19.1 sont-elles sûres et efficaces chez des patients ayant un lupus systémique réfractaire ?",
+ "contexte": "Malgré l'hydroxychloroquine, le mycophénolate, le cyclophosphamide, le rituximab, le bélimumab et l'anifrolumab, une partie des patients lupiques reste en échec, notamment en cas de néphrite proliférative, d'atteinte cardiaque ou pulmonaire. Des séries publiées depuis 2021 de CAR-T anti-CD19 autologues ont rapporté des rémissions durables sans traitement après une déplétion B profonde, avec une réémergence de lymphocytes B naïfs.\n\nLe MB-CART19.1 est un produit autologue développé par Miltenyi Biomedicine. Cet essai de phase 1/2 ouvert à un bras inclut 29 patients au maximum. La phase 1 teste jusqu'à trois niveaux de dose (0,1 ; 0,5 et 1,0 x 10^6 cellules) par cohortes de 3 avec un comité de surveillance, pour déterminer la dose recommandée. La phase 2a évalue ensuite la rémission à 6 mois chez 17 patients. Le suivi dure 24 mois, avec étude de la persistance des CAR-T et de l'aplasie B. Il n'y a pas de comparateur.",
+ "interet": "L'étude précisera la dose, la sécurité et un premier taux de rémission des CAR-T dans le lupus réfractaire grave, au-delà des petites séries.",
+ "profil": "Des adultes ayant un lupus systémique réfractaire avec atteinte d'organe majeure (néphrite, cardiaque ou pulmonaire).",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "LES selon critères ACR/EULAR 2019",
+  "Un BILAG A ou deux BILAG B malgré au moins deux traitements parmi MMF, cyclophosphamide, rituximab, bélimumab, anifrolumab, méthotrexate, azathioprine",
+  "Atteinte d'organe majeure : néphrite classe III/IV avec RPCU > 1 et DFGe ≥ 30, ou atteinte cardiaque ou pulmonaire",
+  "Fonction pulmonaire conservée (CVF ou VEMS ≥ 60 %) en cas d'atteinte pulmonaire",
+  "Consentement éclairé"
+ ],
+ "exclusion": [
+  "Atteinte active du système nerveux central, BILAG A/B neuropsychiatrique",
+  "Diabète non contrôlé, tuberculose, pneumopathie médicamenteuse",
+  "CVF, VEMS, CPT ou DLCO < 60 %",
+  "Cancer datant de moins de 5 ans (hors cancers cutanés basocellulaires ou épidermoïdes)",
+  "Cardiopathie instable, FEVG < 50 %, DFGe < 30, insuffisance hépatique sévère (Child-Pugh C)",
+  "VIH, hépatite B active, hépatite C non traitée"
+ ],
+ "bras": [
+  {
+   "nom": "Niveaux de dose 0 à 2 (phase 1)",
+   "traitement": "MB-CART19.1 en perfusion unique : 0,1 ; 0,5 ou 1,0 x 10^6 cellules"
+  },
+  {
+   "nom": "Phase 2a",
+   "traitement": "MB-CART19.1 à la dose recommandée"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Phase 1 : dose recommandée jusqu'à J28 ; sécurité sur 24 mois ; phase 2a : proportion de patients en rémission à 6 mois"
+}

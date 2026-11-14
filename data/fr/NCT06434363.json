@@ -1,0 +1,39 @@
+{
+ "h": "edb83346f4a4",
+ "date": "2026-11-14",
+ "titre": "Cellules NK allogéniques AD-PluReceptor + tafasitamab dans la sclérodermie et le lupus",
+ "question": "La combinaison de cellules NK allogéniques (AD-PluReceptor), de tafasitamab et d'une chimiothérapie lymphodéplétive est-elle sûre dans la sclérodermie et le lupus ?",
+ "contexte": "La sclérodermie systémique diffuse avec atteinte pulmonaire interstitielle et le lupus avec néphrite restent associés à une morbi-mortalité importante malgré le mycophénolate, le rituximab, le tocilizumab, le nintédanib et les autogreffes de cellules souches. Les thérapies ciblant CD19 ont montré des rémissions sans traitement dans de petites séries, mais les CAR-T autologues sont longs et coûteux à produire.\n\nCette étude de phase 1/2, menée au MD Anderson Cancer Center, évalue une stratégie allogénique prête à l'emploi : des cellules NK de donneur (AD-PluReceptor) associées au tafasitamab, un anticorps anti-CD19, après une chimiothérapie lymphodéplétive. Elle comprend une phase de sécurité du tafasitamab seul, une escalade de dose des cellules NK, puis une expansion pour estimer l'efficacité. Les objectifs secondaires incluent la réponse globale, la persistance des cellules infusées, la reconstitution immunitaire et la proportion de patients sans immunosuppresseur à un an. L'étude inclut 47 patients ; le critère principal est la tolérance.",
+ "interet": "Elle pourrait fournir un traitement cellulaire allogénique, disponible sans délai de fabrication, pour des patients atteints de sclérodermie ou de lupus sévères.",
+ "profil": "Des adultes ayant une sclérodermie systémique active (cutanée diffuse ou avec pneumopathie interstitielle progressive) ou un lupus, avec ou sans néphrite.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Sclérodermie : critères ACR/EULAR 2013, ANA ≥ 1:80, durée ≤ 7 ans",
+  "Sclérodermie diffuse avec score de Rodnan modifié ≥ 15, ou pneumopathie interstitielle progressive sur TDM haute résolution",
+  "Lupus (dont néphrite lupique) : critères spécifiques dans le registre",
+  "Maladie active malgré les traitements antérieurs (détails dans le registre)"
+ ],
+ "exclusion": [
+  "Sclérodermie : HTAP sous traitement, atteinte digestive basse rapidement progressive, crise rénale sclérodermique antérieure",
+  "Atteinte pulmonaire sévère (DLCO ou CVF < 40 %, SpO2 < 92 % au repos)",
+  "Néphrite lupique : chronicité sévère à la biopsie (index NIH modifié ≥ 3 sur un item)",
+  "Néphropathie biopsique autre que la néphrite lupique active",
+  "Autres critères d'exclusion : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "Phase de sécurité",
+   "traitement": "Tafasitamab (anti-CD19) seul chez des patients atteints de sclérodermie, lupus et néphrite lupique"
+  },
+  {
+   "nom": "Escalade de dose",
+   "traitement": "AD-PluReceptor (cellules NK allogéniques) + tafasitamab + chimiothérapie lymphodéplétive"
+  },
+  {
+   "nom": "Expansion",
+   "traitement": "Même association à la dose retenue"
+  }
+ ],
+ "duree": "Environ 1 an (suivi à 1 an après perfusion)",
+ "critere": "Événements indésirables jusqu'à la fin de l'étude (environ 1 an)"
+}

@@ -1,0 +1,33 @@
+{
+ "h": "f7e8cbed96b7",
+ "date": "2026-11-14",
+ "titre": "Jeu vidéo pour la cognition dans le lupus",
+ "question": "Quatre semaines de jeu vidéo interactif améliorent-elles l'attention et la résolution de problèmes chez des patients lupiques ?",
+ "contexte": "Les troubles cognitifs touchent une proportion importante des patients atteints de lupus systémique, y compris en l'absence d'atteinte neuropsychiatrique majeure : ralentissement, troubles de l'attention, difficultés d'exécution. Ils pèsent sur la qualité de vie et l'activité professionnelle. Il n'existe pas de traitement spécifique, et la prise en charge repose sur le contrôle de la maladie, la prise en charge de la fatigue, de la dépression et du sommeil.\n\nLes jeux vidéo interactifs de type « entraînement cognitif » (Project EVO) ont montré chez d'autres populations une amélioration de l'attention et du contrôle cognitif. Cet essai randomisé en double aveugle (promoteur : National Jewish Health) compare 60 adultes lupiques jouant 30 minutes par jour, au moins cinq jours par semaine pendant quatre semaines, à un groupe témoin sans contact. Les critères portent sur le temps de réponse et sa variabilité mesurés par le moniteur EVO. L'étude ne recrute plus ; les résultats ne sont pas encore disponibles dans le registre.",
+ "interet": "Si l'effet se confirme, ce serait une intervention peu coûteuse et sans médicament pour les troubles cognitifs du lupus.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique, sans maladie neurologique ou psychiatrique majeure antérieure.",
+ "inclusion": [
+  "Diagnostic de lupus systémique",
+  "Âge de 18 à 65 ans",
+  "Autres critères d'inclusion : non précisé"
+ ],
+ "exclusion": [
+  "Maladie neurologique majeure antérieure au lupus (traumatisme crânien, maladie dégénérative, vasculaire ou métabolique, tumeur, toxique)",
+  "Trouble psychiatrique majeur antérieur au lupus",
+  "Abus majeur de substances",
+  "Grossesse",
+  "Handicap moteur majeur, activité lupique élevée, trouble des apprentissages"
+ ],
+ "bras": [
+  {
+   "nom": "Project EVO",
+   "traitement": "Jeu vidéo interactif 30 minutes par jour, au moins 5 jours par semaine, pendant 4 semaines"
+  },
+  {
+   "nom": "Témoin",
+   "traitement": "Pas de contact, pas d'intervention"
+  }
+ ],
+ "duree": "4 semaines d'intervention (évaluation à 30 jours)",
+ "critere": "Variation du temps de réponse moyen et de sa variabilité sur le moniteur EVO à 30 jours"
+}

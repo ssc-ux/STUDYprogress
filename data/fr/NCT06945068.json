@@ -1,0 +1,14 @@
+{
+ "h": "e4a8d1712165",
+ "date": "2026-11-14",
+ "titre": "GB261, anticorps bispécifique CD20xCD3, dans le lupus séropositif réfractaire (phase 1)",
+ "question": "GB261, engageur de lymphocytes T anti-CD20xCD3, est-il sûr et actif dans le lupus systémique réfractaire séropositif ?",
+ "contexte": "Les lymphocytes B jouent un rôle central dans le lupus érythémateux systémique (LES). Le rituximab, anti-CD20, a validé le principe de la déplétion B dans les maladies à médiation B, mais son effet est incomplet dans le LES.\n\nGB261 est un anticorps bispécifique CD20xCD3 conçu avec une faible affinité pour CD3 et une forte affinité pour CD20, afin de permettre une destruction efficace des cellules B par les lymphocytes T tout en limitant le risque de syndrome de relargage cytokinique. Il a montré une sécurité et une activité antitumorale dans une étude de phase 1/2 de lymphome non hodgkinien et de leucémie lymphoïde chronique en rechute. Cette étude de phase 1 de l'hôpital Union de Wuhan (Tongji) est ouverte. Elle inclut 9 à 18 patients en escalade (3 niveaux de dose), puis 10 en expansion. GB261 est administré par voie intraveineuse aux jours 1, 8 et 15. Les patients doivent avoir un LES actif séropositif, avec ou sans néphrite de classe III/IV.",
+ "interet": "L'étude évaluera la tolérance et l'activité préliminaire d'un engageur de lymphocytes T dans le LES. Elle ne permet pas de conclure sur un bénéfice clinique.",
+ "profil": "Des adultes de 18 à 75 ans ayant un LES actif séropositif réfractaire, avec ou sans néphrite lupique.",
+ "inclusion": ["Âge de 18 à 75 ans", "LES selon critères ACR/EULAR 2019", "Deux anticorps positifs sur trois : anti-ADN natif, anti-Sm, ANA ≥ 1:80", "Maladie active avec réponse insuffisante au traitement", "Traitements concomitants stables jusqu'au jour 1", "Néphrite lupique : classe III ou IV active prouvée par biopsie, IEC/ARA2 stables depuis ≥ 4 semaines"],
+ "exclusion": ["Infection active", "Vaccin vivant dans les 4 semaines précédentes", "Autre maladie auto-immune associée", "Syndrome des antiphospholipides catastrophique ou événement thrombotique non contrôlé", "Leucoencéphalopathie multifocale progressive, déficit immunitaire primitif ou du complément", "Atteinte du système nerveux central", "Cancer dans les 5 ans précédents"],
+ "bras": [{"nom": "GB261 intraveineux", "traitement": "Perfusion aux jours 1, 8 et 15, avec 3 niveaux de dose en escalade puis expansion"}],
+ "duree": "12 mois",
+ "critere": "Sécurité et tolérance, de l'inclusion au mois 12"
+}

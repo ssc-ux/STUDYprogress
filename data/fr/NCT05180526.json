@@ -1,0 +1,33 @@
+{
+ "h": "9decf56bff7f",
+ "date": "2026-11-14",
+ "titre": "Adalimumab biosimilaire (Glorio) dans les uvéites non infectieuses : étude post-commercialisation en Chine",
+ "question": "Un biosimilaire de l'adalimumab est-il sûr et efficace pour prévenir l'échec thérapeutique dans l'uvéite non infectieuse ?",
+ "contexte": "Les uvéites non infectieuses intermédiaires, postérieures ou totales sont des maladies inflammatoires de l'œil, parfois associées à une maladie systémique (spondyloarthrite, sarcoïdose, maladie de Behçet), qui peuvent entraîner une cécité. Le traitement initial est la corticothérapie, avec un recours aux immunosuppresseurs ou aux anti-TNF en cas de corticodépendance ou de rechute.\n\nL'adalimumab est le seul anti-TNF ayant l'AMM dans cette indication, sur la base des essais VISUAL I et II. Cette étude de phase 4 de Bio-Thera Solutions teste son biosimilaire (Glorio, QLETLI) chez 60 adultes de 18 à 70 ans, en un seul bras ouvert : 80 mg en sous-cutané à la semaine 1, puis 40 mg une semaine sur deux jusqu'à la semaine 22 (12 doses). Le suivi dure jusqu'à 32 semaines et des dosages plasmatiques sont réalisés.",
+ "interet": "Elle documente l'efficacité et la tolérance d'un biosimilaire de l'adalimumab dans l'uvéite, sans comparateur direct.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'uvéite non infectieuse intermédiaire, postérieure ou totale, active malgré une corticothérapie.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, consentement signé",
+  "Uvéite non infectieuse intermédiaire, postérieure ou totale d'au moins un œil",
+  "Corticothérapie orale d'entretien (prednisone 10 à 60 mg/j) sans changement de dose depuis ≥ 2 semaines",
+  "Uvéite active à l'inclusion (lésion choriorétinienne ou vascularite rétinienne, cellules en chambre antérieure ≥ 2+ ou trouble vitréen ≥ 2+)",
+  "Test de grossesse négatif chez les femmes en âge de procréer"
+ ],
+ "exclusion": [
+  "Uvéite antérieure isolée ou œdème maculaire seul",
+  "Uvéite infectieuse confirmée ou suspectée, ou syndrome de masquarade",
+  "Glaucome non contrôlé (pression intraoculaire > 25 mmHg)",
+  "Acuité visuelle corrigée < 20 lettres dans un œil",
+  "Autre pathologie du fond d'œil (rétinopathie diabétique, occlusion veineuse, DMLA, etc.)",
+  "Maladie démyélinisante ou antécédent évocateur",
+  "Opacité des milieux gênant l'évaluation"
+ ],
+ "bras": [
+  {
+   "nom": "Adalimumab biosimilaire (Glorio)",
+   "traitement": "80 mg SC à la semaine 1, puis 40 mg SC une semaine sur deux jusqu'à la semaine 22 (12 doses)"
+  }
+ ],
+ "duree": "32 semaines (22 semaines de traitement, suivi jusqu'à la semaine 32)",
+ "critere": "Délai jusqu'à l'échec thérapeutique, évalué aux semaines 6, 12 et 24"
+}

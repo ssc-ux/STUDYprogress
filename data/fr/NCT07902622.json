@@ -1,0 +1,14 @@
+{
+ "h": "adc9cbd0d2ab",
+ "date": "2026-11-14",
+ "titre": "Registre pakistanais du lupus systémique (réseau PACTD-SLE)",
+ "question": "Quelles sont les caractéristiques, les traitements et l'évolution du lupus systémique dans la population pakistanaise ?",
+ "contexte": "Le lupus systémique est une maladie auto-immune dont la présentation et la gravité varient selon l'origine géographique et ethnique. Les données sur la population d'Asie du Sud, notamment au Pakistan, restent rares, alors que les recommandations internationales s'appuient surtout sur des cohortes occidentales.\n\nCe registre de cohorte prospective longitudinale, porté par la Foundation University d'Islamabad, a pour but de caractériser le phénotype du lupus dans la population locale : manifestations cliniques, sévérité, atteintes d'organes. Il décrit aussi les modalités de traitement, leur efficacité, l'adhésion, la progression de la maladie et les critères rapportés par les patients. Il cherche enfin à identifier les facteurs qui influencent l'évolution et la réponse au traitement.\n\nLes inclusions démarrent à l'hôpital Fauji Foundation de Rawalpindi (au moins 150 à 200 patients la première année), avec une extension prévue à d'autres centres du pays. Tout adulte avec un lupus selon les critères SLICC 2012 ou EULAR/ACR 2019 peut participer. Aucune intervention n'est imposée, les décisions thérapeutiques relevant des médecins traitants. Les résultats seront partagés avec la communauté, notamment au niveau de l'APLAR.",
+ "interet": "Le registre documentera le lupus dans une population peu représentée dans la littérature et pourra servir à adapter localement les pratiques. Il s'agit d'une description, sans comparaison de traitements.",
+ "profil": "Des adultes pakistanais atteints de lupus systémique, nouvellement diagnostiqué ou ancien.",
+ "inclusion": ["Lupus systémique diagnostiqué par un médecin", "Critères SLICC 2012 ou EULAR/ACR 2019 remplis", "Adulte, quel que soit le sexe", "Consentement éclairé"],
+ "exclusion": ["Refus de consentir", "Diagnostic autre que le lupus systémique"],
+ "bras": [{"nom": "Patients lupiques", "traitement": "Suivi prospectif sans intervention imposée ; traitement laissé aux médecins"}],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Caractérisation du phénotype du lupus dans la population locale, sur 10 ans"
+}

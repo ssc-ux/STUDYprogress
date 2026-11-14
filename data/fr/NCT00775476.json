@@ -1,0 +1,35 @@
+{
+ "h": "06ba8e4b494f",
+ "date": "2026-11-14",
+ "titre": "N-acétylcystéine contre placebo dans le lupus actif",
+ "question": "La N-acétylcystéine (NAC), à 2,4 à 4,8 g/j, améliore-t-elle la réponse SRI à 12 mois chez des patients lupiques actifs ?",
+ "contexte": "Les traitements actuels du lupus sont peu spécifiques et exposent à des effets secondaires importants. Les investigateurs de l'université d'État de New York ont observé une déplétion en glutathion dans les lymphocytes de patients lupiques, associée à une élévation du potentiel transmembranaire mitochondrial, ce qui active la voie mTOR et la production d'espèces réactives. La NAC est un précurseur du glutathion, peu coûteux et déjà utilisé en pratique (intoxication au paracétamol, mucolytique).\n\nUn essai pilote randomisé de petite taille avait suggéré une réduction de l'activité du lupus avec la NAC. Cette étude de phase 2 randomisée en quadruple aveugle prévoit 290 patients. Tous reçoivent d'abord de la NAC en titration à la tolérance (2,4 à 4,8 g/j) pendant 3 mois en ouvert ; ils sont ensuite randomisés pour poursuivre la NAC ou passer au placebo (105 par groupe). Le traitement de fond reste stable. Le critère principal est la réponse SRI (baisse d'au moins 4 points du SELENA-SLEDAI sans aggravation) à 12 mois, avec des critères secondaires d'activité et de tolérance.",
+ "interet": "Si l'effet se confirme, la NAC serait un traitement adjuvant simple, bon marché et bien connu dans le lupus.",
+ "profil": "Des adultes lupiques actifs (BILAG A ou B, SLEDAI ≥ 6), sous traitement de fond stable.",
+ "inclusion": [
+  "Âge ≥ 18 ans, ≥ 4 critères ACR de LES, ANA ≥ 1/80",
+  "Traitement de fond stable (immunosuppresseurs, hydroxychloroquine ≤ 400 mg/j, prednisone ≤ 20 mg/j, bélimumab ou anifrolumab stables depuis 90 jours)",
+  "BILAG-2004 A dans ≥ 1 système (hors rein et SNC) ou B si pas de A, et SLEDAI ≥ 6",
+  "Inclusion validée par un comité d'adjudication sous 10 jours"
+ ],
+ "exclusion": [
+  "Poussée aiguë menaçant un organe vital",
+  "Grossesse ou allaitement",
+  "Comorbidités sévères (diabète, insuffisance cardiaque, BPCO, insuffisance rénale chronique)",
+  "Cyclophosphamide dans les 3 mois",
+  "Infection chronique active (VIH, VHB, VHC, mycobactéries) ou infection récente nécessitant des antibiotiques",
+  "NAC ou antioxydants dans le mois, paracétamol quotidien, inhibiteurs de mTOR"
+ ],
+ "bras": [
+  {
+   "nom": "NAC",
+   "traitement": "3 mois de titration en ouvert (2,4 à 4,8 g/j), puis poursuite de la dose tolérée pendant 9 mois"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Après les 3 mois en ouvert, nombre équivalent de capsules de placebo pendant 9 mois"
+  }
+ ],
+ "duree": "12 mois",
+ "critere": "Réponse SRI (oui/non) à 12 mois, avec évaluation de l'activité de la maladie et de la tolérance"
+}

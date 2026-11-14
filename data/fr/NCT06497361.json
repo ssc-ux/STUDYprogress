@@ -1,0 +1,14 @@
+{
+ "h": "8239da17dc92",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19/BCMA (PRG-2311) dans la néphropathie lupique et la maladie à IgG4 réfractaires",
+ "question": "Les CAR-T CD19/BCMA PRG-2311 sont-elles sûres et efficaces dans la néphropathie lupique et la maladie liée aux IgG4 réfractaires ?",
+ "contexte": "La néphropathie lupique réfractaire et la maladie liée aux IgG4 (MIgG4) en rechute ou résistante aux corticoïdes et au rituximab sont des situations sans traitement établi. Elles reposent sur des lymphocytes B et des plasmocytes producteurs d'auto-anticorps ou d'IgG4.\n\nLes CAR-T anti-CD19 ont induit des rémissions dans le lupus réfractaire. Le ciblage supplémentaire de BCMA, présent sur les plasmocytes, pourrait éliminer aussi ces cellules à longue durée de vie. Cette étude de phase 1 de l'hôpital Tongji (Wuhan), avec Pregene Biopharma, évalue le produit PRG-2311 après lymphodéplétion par fludarabine et cyclophosphamide. Elle comporte une phase d'exploration de dose (trois niveaux : 35, 100 et 300 millions de cellules CAR-T, avec 3 à 6 patients par palier) puis une phase d'expansion de 3 à 6 patients par indication.",
+ "interet": "Cette étude pourrait fournir les premières données de tolérance et de dose d'un CAR-T double cible dans ces deux maladies. Elle précise l'intérêt de cibler les plasmocytes en plus des lymphocytes B.",
+ "profil": "Des adultes avec une néphropathie lupique proliférative ou une maladie liée aux IgG4 active, en rechute ou réfractaire.",
+ "inclusion": ["Âge ≥ 18 ans, DFGe ≥ 15 mL/min/1,73 m² si atteinte rénale", "Néphropathie lupique active (classe III, IV, III/IV + V ou V) sur biopsie de moins de 6 mois, en échec ou rechute, SLEDAI-2K ≥ 8", "Ou maladie liée aux IgG4 (critères ACR/EULAR 2019) récidivante ou réfractaire, RI ≥ 2", "Paramètres hématologiques, hépatiques et de coagulation adéquats", "Contraception efficace jusqu'à 1 an après le traitement"],
+ "exclusion": ["Grossesse ou allaitement", "Cancer dans les 5 ans, hors situations curatives listées", "Biothérapie anti-B dans les 6 mois sans reconstitution des lymphocytes B", "Immunosuppresseur ou corticoïdes > 10 mg/j de prednisone avant la perfusion", "VIH, hépatite B active, hépatite C, syphilis, infection nécessitant antibiotiques IV", "Maladie cardiaque sévère (NT-proBNP > 8500 ng/L, insuffisance cardiaque NYHA IV, infarctus récent)", "Allergie à un composant du produit ou à la fludarabine/cyclophosphamide"],
+ "bras": [{ "nom": "CAR-T PRG-2311", "traitement": "Perfusion unique de CAR-T CD19/BCMA (35, 100 ou 300 millions de cellules) après lymphodéplétion" }],
+ "duree": "24 mois après la perfusion",
+ "critere": "Dose sûre de PRG-2311 et survenue d'événements indésirables, jusqu'à 24 mois après la perfusion"
+}

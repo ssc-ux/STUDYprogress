@@ -1,0 +1,24 @@
+{
+ "h": "591bc8fe5456",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab en vie réelle dans le lupus systémique en Pologne",
+ "question": "Quelle évolution de l'activité du lupus observe-t-on sous anifrolumab en pratique courante en Pologne ?",
+ "contexte": "L'anifrolumab est un anticorps anti-récepteur de l'interféron de type I, autorisé en complément du traitement standard dans le lupus systémique actif modéré à sévère. Les essais pivots (TULIP-1 et TULIP-2) ont montré un effet sur la réponse composite et la réduction des corticoïdes, mais les patients de la pratique courante sont souvent plus complexes que ceux des essais.\n\nEn Pologne, le médicament est accessible dans le cadre d'un programme national de traitement (NDP). Cette étude observationnelle multicentrique, promue par AstraZeneca, recueille des données longitudinales sur les caractéristiques des patients et l'évolution clinique sous anifrolumab en routine. Elle comporte environ 6 mois de période de référence puis environ 24 mois de suivi.\n\nElle inclut environ 105 adultes. Les patients ayant participé à un essai sur l'anifrolumab sont exclus. Il n'y a pas d'intervention imposée par le protocole.",
+ "interet": "L'étude documentera l'efficacité et l'usage réels de l'anifrolumab dans un programme national, notamment la baisse d'activité et le recours aux corticoïdes. Elle apportera des données de vie réelle sans groupe comparateur.",
+ "profil": "Des adultes atteints de lupus systémique traités par anifrolumab dans le programme national polonais.",
+ "inclusion": [
+  "Adulte de 18 ans ou plus atteint de lupus systémique",
+  "Traitement par anifrolumab dans le cadre du programme national polonais",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Participation antérieure à un essai clinique sur l'anifrolumab",
+  "Participation à un essai clinique prévue à partir de la première perfusion de anifrolumab du programme national",
+  "Incapacité cognitive, refus ou barrière linguistique empêchant la compréhension de l'étude"
+ ],
+ "bras": [
+  { "nom": "Patients lupiques sous anifrolumab", "traitement": "Anifrolumab prescrit en pratique courante dans le programme national polonais" }
+ ],
+ "duree": "Environ 30 mois (6 mois de référence, 24 mois de suivi)",
+ "critere": "Variation du score SLEDAI-2K entre la date index et le mois 12"
+}

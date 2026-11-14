@@ -1,0 +1,29 @@
+{
+ "h": "0e681d7f9f45",
+ "date": "2026-11-14",
+ "titre": "CAR-T CD19-BCMA de sang de cordon dans la néphrite lupique, la sclérodermie et le Sjögren avec HTAP",
+ "question": "Des CAR-T CD19-BCMA allogéniques de sang de cordon sont-ils sûrs dans la néphrite lupique réfractaire, la sclérodermie systémique et le Sjögren avec hypertension pulmonaire ?",
+ "contexte": "La néphrite lupique réfractaire, la sclérodermie systémique diffuse et l'HTAP du syndrome de Sjögren sont des maladies auto-immunes graves, avec peu d'options en cas d'échec des traitements standard. Les CAR-T anti-CD19 ont induit des rémissions dans le lupus, la sclérodermie et les myopathies inflammatoires dans de petites séries, ce qui ouvre la voie à leur évaluation dans d'autres connectivites.\n\nLe produit évalué ici est un CAR-T allogénique issu de sang de cordon, ciblant CD19 et BCMA, afin d'éliminer lymphocytes B et plasmocytes sans fabrication individuelle. L'essai de phase 1/2 monocentrique de Beijing GoBroad Hospital, ouvert, à bras unique, prévoit 45 à 54 participants à partir de 6 ans (jusqu'à 65 ans). Les participants ont une néphrite lupique de classe III/IV (± V) prouvée à la biopsie, une sclérodermie (ACR/EULAR 2013) ou un Sjögren primitif avec HTAP. Le critère principal est la toxicité limitant la dose à 28 jours.",
+ "interet": "L'étude teste une stratégie CAR-T allogénique dans plusieurs maladies à haut risque. Sans comparateur et avec peu de patients par maladie, elle donnera surtout des informations de sécurité.",
+ "profil": "Des patients de 6 à 65 ans avec une néphrite lupique réfractaire, une sclérodermie systémique ou un Sjögren avec HTAP.",
+ "inclusion": [
+  "Âge de 3 à 65 ans selon la maladie (6 à 65 ans pour la sclérodermie)",
+  "Néphrite lupique active de classe III/IV (± V), prouvée à la biopsie récente, lupus selon ACR/EULAR 2019",
+  "ANA ≥ 1:80 et/ou anti-ADN natif positif (néphrite lupique)",
+  "Sclérodermie systémique selon les critères ACR/EULAR 2013 (score ≥ 9)",
+  "Sjögren primitif avec hypertension pulmonaire",
+  "ECOG 0-2, survie attendue ≥ 90 jours",
+  "Consentement écrit du patient ou de son représentant"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T CD19-BCMA de sang de cordon",
+   "traitement": "Perfusion de CAR-T allogéniques CD19-BCMA"
+  }
+ ],
+ "duree": "Non précisé (toxicité à 28 jours, événements indésirables à 30 jours)",
+ "critere": "Toxicité limitant la dose à 28 jours et événements indésirables à 30 jours"
+}

@@ -1,0 +1,31 @@
+{
+ "h": "fb7bd186c63e",
+ "date": "2026-11-14",
+ "titre": "MSC303 (anticorps bispécifique anti-CD20/CD3) dans la néphrite lupique et les glomérulonéphrites à ANCA",
+ "question": "Le MSC303 est-il sûr, et diminue-t-il le rapport protéinurie/créatininurie à 12 semaines dans la néphrite lupique et la glomérulonéphrite à ANCA ?",
+ "contexte": "La néphrite lupique et la glomérulonéphrite associée aux ANCA sont deux glomérulopathies auto-immunes graves, avec un risque d'insuffisance rénale terminale et une toxicité cumulée des traitements (cyclophosphamide, corticoïdes). Le rituximab et l'obinutuzumab déplètent les lymphocytes B mais n'obtiennent pas toujours une déplétion tissulaire complète.\n\nLe MSC303 est un anticorps bispécifique trivalent asymétrique ciblant CD20 et CD3 (rapport 2:1) : il fait le lien entre lymphocytes B et lymphocytes T pour induire la lyse des cellules B. Administré en injection sous-cutanée, il est testé par l'hôpital Changzheng de Shanghai dans cette étude de phase 1/2 à un bras prévoyant 12 patients de 18 à 65 ans. La phase Ib évalue la sécurité ; la phase II évalue la variation du rapport protéinurie/créatininurie (RPCU) à 12 semaines par rapport à l'inclusion. Il n'y a pas de groupe comparateur.",
+ "interet": "Un anticorps bispécifique sous-cutané pourrait offrir une déplétion B plus profonde que les anti-CD20, avec un schéma plus simple. Les résultats d'une étude à 12 patients restent exploratoires.",
+ "profil": "Des adultes de 18 à 65 ans atteints de néphrite lupique ou de glomérulonéphrite associée aux ANCA.",
+ "inclusion": [
+  "Âge de 18 à 65 ans",
+  "Participation volontaire et bonne observance",
+  "Néphrite lupique ou glomérulonéphrite à ANCA diagnostiquée",
+  "Fonction d'organes suffisante"
+ ],
+ "exclusion": [
+  "Réaction allergique sévère à un anticorps monoclonal humanisé ou allergie à un composant du MSC303",
+  "Infection active nécessitant des antibiotiques",
+  "Autres maladies graves associées",
+  "Déficit immunitaire congénital en immunoglobulines",
+  "VIH, hépatite B ou C actives",
+  "Autres critères d'exclusion possibles : se reporter au registre"
+ ],
+ "bras": [
+  {
+   "nom": "MSC303",
+   "traitement": "Anticorps bispécifique CD20/CD3 en injection sous-cutanée (dose non précisée)"
+  }
+ ],
+ "duree": "12 semaines",
+ "critere": "Phase Ib : sécurité ; phase II : variation du rapport protéinurie/créatininurie à la semaine 12 par rapport à l'inclusion"
+}

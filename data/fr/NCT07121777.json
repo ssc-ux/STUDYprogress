@@ -1,0 +1,24 @@
+{
+ "h": "de4d3ea1249b",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19/BCMA dans les maladies auto-immunes réfractaires",
+ "question": "Un vecteur CAR anti-CD19/BCMA est-il sûr et efficace dans la polyarthrite rhumatoïde, le lupus et le syndrome de Gougerot-Sjögren réfractaires ?",
+ "contexte": "La polyarthrite rhumatoïde, le lupus et le syndrome de Gougerot-Sjögren peuvent rester actifs malgré les traitements de fond et les biothérapies. Dans le Gougerot-Sjögren, les formes avec thrombopénie sévère sont particulièrement difficiles à traiter.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B, mais les plasmocytes à longue durée de vie, producteurs d'auto-anticorps, n'expriment pas CD19. Cibler aussi BCMA, présent sur les plasmocytes, vise à agir sur ce réservoir. Des cas de CAR-T bispécifiques ou combinés ont été rapportés dans des maladies auto-immunes réfractaires.\n\nCette étude de l'hôpital provincial d'Anhui est monocentrique, ouverte, avec escalade de dose et jusqu'à 18 participants adultes. Les patients reçoivent une perfusion intraveineuse du vecteur CAR anti-CD19/BCMA. Les critères d'inclusion exigent des maladies actives après plusieurs lignes de traitement (par exemple DAS28 > 3,2 en polyarthrite, SLEDAI-2K ≥ 8 en lupus). Le suivi est d'un an.",
+ "interet": "L'étude apportera des données de tolérance sur une approche ciblant à la fois les lymphocytes B et les plasmocytes. Elle est exploratoire, sans comparateur.",
+ "profil": "Des adultes atteints de polyarthrite rhumatoïde, de lupus ou de syndrome de Gougerot-Sjögren réfractaires.",
+ "inclusion": [
+  "Âge de 18 ans ou plus",
+  "Fonctions médullaire, hépatique (ALAT, ASAT ≤ 3 N), rénale (clairance ≥ 30 mL/min) et coagulation correctes",
+  "Polyarthrite ACR/EULAR 2010 en échec d'au moins 1 csDMARD et 1 bDMARD, DAS28-VS > 3,2 ou CDAI > 10",
+  "Lupus EULAR/ACR 2019, SLEDAI-2K ≥ 8, BILAG A ou 2 B, auto-anticorps positifs",
+  "Gougerot-Sjögren avec thrombopénie < 30 G/L et ESSDAI ≥ 5"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "Vecteur CAR anti-CD19/BCMA", "traitement": "Perfusion intraveineuse du vecteur, escalade de dose ; doses non précisées" }
+ ],
+ "duree": "1 an",
+ "critere": "Événements indésirables, jusqu'à 1 an"
+}

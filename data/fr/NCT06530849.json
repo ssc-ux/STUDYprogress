@@ -1,0 +1,14 @@
+{
+ "h": "e4435946c9fe",
+ "date": "2026-11-14",
+ "titre": "CAR-T GC012F dans le lupus systémique réfractaire",
+ "question": "Le CAR-T GC012F est-il sûr et efficace dans le lupus systémique réfractaire ?",
+ "contexte": "Une partie des patients lupiques reste en activité malgré le traitement standard et au moins une biothérapie. Les CAR-T ont donné des rémissions profondes dans des séries de cas, surtout avec des produits anti-CD19. GC012F (aussi appelé AZD0120) est un CAR-T autologue dont la fabrication rapide (technologie FasTCAR) cible à la fois CD19 et BCMA, afin d'atteindre lymphocytes B et plasmocytes.\n\nCette étude de phase 1/2, multicentrique, à bras unique et ouverte, est promue par Gracell Biotechnologies (Shanghai). La phase 1 d'escalade de dose détermine la dose recommandée de phase 2 (RP2D) et la sécurité. La phase 2 évalue l'efficacité et la sécurité à cette dose, ainsi que la pharmacocinétique et la pharmacodynamie.\n\nLes patients doivent avoir un lupus actif malgré un traitement standard et au moins une biothérapie pendant plus de 6 mois, sans atteindre l'état de faible activité (LLDAS).",
+ "interet": "Elle contribuera à définir la dose et à estimer le taux de réponse SRI-4 d'un CAR-T dans le lupus réfractaire. Les effectifs sont réduits (20 patients) et sans comparateur.",
+ "profil": "Des adultes de 18 à 70 ans atteints d'un lupus systémique réfractaire malgré traitement standard et biothérapie.",
+ "inclusion": ["Âge de 18 à 70 ans, consentement signé", "Lymphocytes B CD19+ présents dans le sang", "Lupus selon les critères EULAR/ACR 2019", "Traitement standard et au moins une biothérapie depuis > 6 mois sans atteindre le LLDAS", "SLEDAI-2000 ≥ 8 au dépistage (score clinique ≥ 4 hors complément et anti-ADN)", "ANA, anti-ADN natif et/ou anti-Sm positifs"],
+ "exclusion": ["Traitement antérieur ciblant CD19 ou BCMA, ou CAR-T de toute cible", "Anti-CD20 dans les 6 mois avant le dépistage", "Immunosuppresseurs ou prednisone > 15 mg/j dans la semaine précédant la leucaphérèse", "Atteinte rénale grave (créatinine > 2,5 mg/dL) ou hémodialyse dans les 8 semaines", "Cardiopathie sévère (insuffisance cardiaque NYHA III/IV, infarctus ou pontage dans les 6 mois, QTc > 480 ms, cardiomyopathie sévère non ischémique)", "Autres critères du protocole : non précisé"],
+ "bras": [{"nom": "GC012F", "traitement": "Injection de CAR-T GC012F ; escalade de dose en phase 1, puis dose recommandée en phase 2 (dose non précisée)"}],
+ "duree": "Au moins 48 semaines",
+ "critere": "Taux de toxicités limitantes à 28 jours ; taux de réponse SRI-4 à 48 semaines"
+}

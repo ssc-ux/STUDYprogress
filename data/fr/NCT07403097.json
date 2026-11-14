@@ -1,0 +1,14 @@
+{
+ "h": "7a27a3cfa7a9",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 (PTOC1) dans le lupus érythémateux systémique réfractaire (phase 1)",
+ "question": "Les cellules CAR-T anti-CD19 PTOC1 sont-elles sûres et efficaces chez des patients ayant un lupus systémique réfractaire ?",
+ "contexte": "Le lupus érythémateux systémique (LES) peut léser de nombreux organes et conduire au handicap. Le traitement repose sur les corticoïdes et immunosuppresseurs, sans guérison, avec une prise au long cours. Les biothérapies comme le bélimumab et le rituximab n'éliminent pas totalement les lymphocytes B auto-immuns de la moelle, et l'arrêt expose aux rechutes.\n\nLes CAR-T reprogramment les lymphocytes T du patient pour détruire les cellules exprimant un antigène cible, ici CD19. Elles ont induit des rémissions dans de petites séries de LES. Cette étude à initiative d'investigateur de Chongqing Precision Biotech est ouverte, monocentrique, à bras unique, avec exploration de dose, et inclut 18 patients dès l'âge de 5 ans. Les patients doivent avoir un LES actif (SLEDAI-2K ≥ 8) malgré ≥ 3 mois de fortes doses de corticoïdes, hydroxychloroquine et au moins deux immunosuppresseurs ou biothérapies.",
+ "interet": "L'étude apportera des données de tolérance, avec des critères d'efficacité exploratoires (SRI-4, LLDAS, DORIS). Sans comparateur, elle ne permettra pas de conclure à un bénéfice par rapport au traitement habituel.",
+ "profil": "Des patients, adultes et enfants dès 5 ans, atteints de LES actif réfractaire aux traitements.",
+ "inclusion": ["Âge ≥ 5 ans", "LES (critères EULAR/ACR 2019) actif malgré ≥ 3 mois de corticoïdes à forte dose, hydroxychloroquine et ≥ 2 immunosuppresseurs ou biothérapies, ou intolérance", "SLEDAI-2K ≥ 8", "FEVG ≥ 50 %, DFGe ≥ 30, ASAT/ALAT ≤ 3 N, SpO2 ≥ 92 %", "Absence de contre-indication à la leucaphérèse", "Contraception efficace jusqu'à 1 an après la perfusion"],
+ "exclusion": ["Atteinte lupique du système nerveux central nécessitant un traitement dans les 60 jours", "Cardiopathie congénitale, arythmie sévère, épanchement péricardique modéré à important, myocardite sévère, instabilité nécessitant des vasopresseurs", "Infection active nécessitant un traitement systémique ou non contrôlée", "Autres critères : non précisé dans l'extrait du registre"],
+ "bras": [{"nom": "PTOC1", "traitement": "Perfusion de cellules CAR-T anti-CD19 PTOC1, dose explorée"}],
+ "duree": "6 mois pour les critères d'efficacité",
+ "critere": "Sécurité à 3 mois ; efficacité exploratoire : SLEDAI-2K, PGA, BILAG-2004 à 6 mois, réponse SRI-4 à 3 mois, LLDAS et DORIS à 6 mois"
+}

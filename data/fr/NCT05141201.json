@@ -1,0 +1,25 @@
+{
+ "h": "5c06f78288b9",
+ "date": "2026-11-14",
+ "titre": "Surveillance post-commercialisation de l'anifrolumab (Saphnelo) dans le lupus au Japon",
+ "question": "Quelle est la tolérance à long terme de l'anifrolumab en pratique réelle au Japon ?",
+ "contexte": "L'anifrolumab est un anticorps monoclonal dirigé contre le récepteur de l'interféron de type I (IFNAR1). Il est indiqué en complément du traitement standard dans le lupus systémique modéré à sévère. Les essais TULIP ont montré un bénéfice sur l'activité globale et la réduction des corticoïdes, avec un surcroît d'infections (zona, voies respiratoires).\n\nLes essais excluent des patients complexes, et le nombre de patients japonais exposés y était limité. La réglementation japonaise impose une surveillance post-commercialisation spécifique (étude de résultats d'usage) afin de documenter la sécurité et l'efficacité en pratique courante.\n\nCette étude observationnelle d'AstraZeneca inclut environ 1 620 patients lupiques insuffisamment contrôlés par les traitements disponibles. Elle recueille les effets indésirables sur 52 semaines. Elle sert au dossier de réexamen prévu par la loi pharmaceutique japonaise.",
+ "interet": "Elle apportera des données de tolérance en pratique réelle, notamment sur les infections. Elle n'a pas de bras comparateur.",
+ "profil": "Des patients japonais atteints de lupus systémique insuffisamment contrôlé, traités par anifrolumab en pratique courante.",
+ "inclusion": [
+  "Lupus systémique insuffisamment contrôlé par les traitements disponibles",
+  "Traitement par anifrolumab en pratique courante au Japon",
+  "Autres critères non précisés"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion"
+ ],
+ "bras": [
+  {
+   "nom": "Patients traités par anifrolumab",
+   "traitement": "Anifrolumab selon l'autorisation de mise sur le marché japonaise, en pratique courante"
+  }
+ ],
+ "duree": "52 semaines",
+ "critere": "Incidence des effets indésirables médicamenteux de l'inclusion à 52 semaines"
+}

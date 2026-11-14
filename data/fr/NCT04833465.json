@@ -1,0 +1,14 @@
+{
+ "h": "ce5c5ac8585a",
+ "date": "2026-11-14",
+ "titre": "Mesure objective de la douleur (pupillométrie) en rhumatologie pédiatrique",
+ "question": "Un indice physiologique de nociception peut-il caractériser la douleur et l'effet du traitement chez des enfants avec arthrite juvénile, lupus ou fibromyalgie ?",
+ "contexte": "La douleur est un symptôme central de l'arthrite juvénile idiopathique (AJI), du lupus systémique et de la fibromyalgie chez l'enfant et l'adolescent. Son évaluation repose sur des échelles subjectives, difficiles à interpréter chez les plus jeunes et sans lien direct avec l'activité inflammatoire. Le choix des traitements procède souvent par essais successifs.\n\nCette étude observationnelle monocentrique, promue par le Children's National Research Institute, vise à établir un critère physiologique objectif de douleur et d'effet thérapeutique, un « indice nociceptif » mesuré par pupillométrie. Trois groupes de patients de 5 à 21 ans (AJI, lupus, fibromyalgie) sont suivis un an, avec des mesures à l'inclusion puis à chaque consultation de routine. Aucune modification de traitement n'est liée à la recherche. L'objectif est de recueillir des données pilotes sur la caractérisation de cet indice, puis sur sa variation après les traitements habituels.",
+ "interet": "Cette étude pourrait ouvrir la voie à un critère objectif de la douleur en rhumatologie pédiatrique. Un tel critère serait utile pour évaluer l'effet des traitements et personnaliser leur choix.",
+ "profil": "Des enfants, adolescents et jeunes adultes de 5 à 21 ans avec une AJI, un lupus systémique ou une fibromyalgie.",
+ "inclusion": ["Âge ≥ 5 ans (jusqu'à 21 ans)", "Diagnostic documenté d'AJI, de lupus systémique ou de fibromyalgie"],
+ "exclusion": ["Antécédent documenté de maladie oculaire empêchant la pupillométrie"],
+ "bras": [{ "nom": "AJI", "traitement": "Soins habituels, pas d'intervention de l'étude" }, { "nom": "Lupus systémique", "traitement": "Soins habituels, pas d'intervention de l'étude" }, { "nom": "Fibromyalgie", "traitement": "Soins habituels, pas d'intervention de l'étude" }],
+ "duree": "1 an",
+ "critere": "Caractérisation de l'indice nociceptif dans les trois populations, sur 1 an"
+}

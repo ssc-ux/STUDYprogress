@@ -1,0 +1,31 @@
+{
+ "h": "13f07c5b81ba",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-BCMA/CD70 dans le lupus pédiatrique réfractaire",
+ "question": "Un CAR-T anti-BCMA/CD70 est-il sûr et efficace dans le lupus de l'enfant réfractaire ?",
+ "contexte": "Le lupus de l'enfant touche souvent les reins et suit une évolution plus sévère et prolongée que chez l'adulte. Le traitement repose sur les corticoïdes et les immunosuppresseurs, parfois associés au bélimumab ou au rituximab, mais il n'existe pas de traitement curatif.\n\nLes biothérapies actuelles n'éliminent pas complètement les lymphocytes B autoréactifs de la moelle ni les plasmocytes de longue durée de vie. Un CAR-T anti-BCMA cible les plasmocytes, et l'ajout d'un ciblage CD70 vise les lymphocytes activés.\n\nCette étude de phase 1 menée par l'hôpital pédiatrique de l'université de Zhejiang est ouverte, à un bras, multicentrique et en escalade de dose. Elle inclut environ 18 patients de 5 ans et plus, avec un SLEDAI-2K ≥ 8 malgré corticoïdes à forte dose, hydroxychloroquine et au moins deux autres traitements. La tolérance est évaluée à 3 mois et l'efficacité à 6 mois.",
+ "interet": "Elle pourrait fournir de premières données sur une approche CAR-T dirigée contre les plasmocytes chez l'enfant. L'effectif est faible, sans comparateur.",
+ "profil": "Des enfants et adultes de 5 ans et plus atteints de lupus systémique d'activité modérée à sévère malgré les traitements.",
+ "inclusion": [
+  "Âge ≥ 5 ans",
+  "LES selon les critères EULAR/ACR 2019, actif malgré ≥ 3 mois de corticoïdes forte dose, HCQ et ≥ 2 autres traitements, ou intolérance",
+  "SLEDAI-2K ≥ 8",
+  "FEVG ≥ 55 %, DFG ≥ 30 ml/min/1,73 m²",
+  "ASAT et ALAT ≤ 3 N, bilirubine ≤ 2 N"
+ ],
+ "exclusion": [
+  "Neurolupus nécessitant une intervention dans les 60 jours",
+  "Néphrite aiguë sévère, suppléance rénale dans les 3 mois",
+  "Cardiopathie congénitale, infarctus récent, arythmie sévère, péricardite ou myocardite significatives",
+  "Autre maladie nécessitant une corticothérapie ou un immunosuppresseur au long cours",
+  "Infection non contrôlée ou nécessitant un traitement systémique"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe CAR-T",
+   "traitement": "Perfusion de CAR-T anti-BCMA/CD70, escalade de dose, essai ouvert à un bras"
+  }
+ ],
+ "duree": "Suivi d'au moins 6 mois",
+ "critere": "Tolérance à 3 mois et efficacité à 6 mois"
+}

@@ -1,0 +1,24 @@
+{
+ "h": "87f61d4c78d8",
+ "date": "2026-11-14",
+ "titre": "Plateforme d'IA iLN pour l'enseignement de la néphrite lupique aux étudiants en médecine",
+ "question": "Une plateforme d'enseignement fondée sur un modèle de langage améliore-t-elle les résultats d'étudiants en médecine par rapport à un cours magistral classique ?",
+ "contexte": "La néphrite lupique, atteinte rénale la plus fréquente et la plus sévère du lupus, est un sujet d'enseignement complexe : son diagnostic et son traitement mobilisent l'immunologie, la néphrologie, l'anatomopathologie et la thérapeutique. Les cours magistraux classiques laissent peu de place à l'interaction.\n\nLes IA génératives (ChatGPT, DeepSeek) sont de plus en plus utilisées en éducation médicale pour créer des cas virtuels, simuler des situations cliniques et personnaliser l'apprentissage. Il n'existe pratiquement pas d'outil dédié à la néphrite lupique.\n\nL'équipe de l'université de Nanjing a développé « iLN », une plateforme fondée sur DeepSeek, intégrant manuels, recommandations, atlas anatomopathologiques et cas cliniques. Elle compte sept modules dont l'interaction avec des cas virtuels, l'enseignement des connaissances et des questions-réponses avec l'IA. L'essai randomisé inclut 50 étudiants de 4e année : l'enseignement avec iLN est comparé à un cours magistral PowerPoint. L'évaluation porte sur un test objectif et des questionnaires de satisfaction.",
+ "interet": "L'étude apportera un premier argument sur l'intérêt d'une IA générative dédiée à l'enseignement d'une pathologie spécialisée. Elle ne concerne pas des patients et son effectif est limité.",
+ "profil": "Des étudiants de 4e année de médecine de l'université de Nanjing.",
+ "inclusion": [
+  "Étudiant en médecine clinique",
+  "Participation volontaire"
+ ],
+ "exclusion": [
+  "Incapacité à comprendre, lire ou communiquer en chinois",
+  "Non-participation à l'une des étapes (cours ou post-test)",
+  "Demande de retrait de l'étude"
+ ],
+ "bras": [
+  { "nom": "Enseignement assisté par IA", "traitement": "Apprentissage autonome avec les modules iLN (cas virtuels, enseignement, questions-réponses IA) sous la supervision d'un enseignant" },
+  { "nom": "Enseignement traditionnel", "traitement": "Cours magistral PowerPoint sur le lupus et la néphrite lupique" }
+ ],
+ "duree": "Une séance d'enseignement ; test dans les 30 minutes suivantes",
+ "critere": "Note à un test objectif, le jour de la séance, dans les 30 minutes après l'enseignement"
+}

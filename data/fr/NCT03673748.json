@@ -1,0 +1,14 @@
+{
+ "h": "ac008ca3d4ff",
+ "date": "2026-11-14",
+ "titre": "Cellules souches mésenchymateuses allogéniques dans la néphropathie lupique",
+ "question": "Une perfusion unique de cellules souches mésenchymateuses allogéniques améliore-t-elle la réponse rénale dans la néphropathie lupique réfractaire ?",
+ "contexte": "La néphropathie lupique proliférative est une atteinte grave du lupus. Environ la moitié des patients n'obtient pas de réponse complète sous traitement d'induction (corticoïdes, mycophénolate, cyclophosphamide), et une part évolue vers l'insuffisance rénale terminale. Les formes sans réponse ou avec réponse partielle, et les rechutes modérées à sévères, constituent un besoin non couvert.\n\nLes cellules souches mésenchymateuses (CSM) de moelle osseuse ont des propriétés immunomodulatrices, notamment sur les lymphocytes T et B et sur la production de cytokines. Elles ont été explorées dans le lupus dans de petites études. Cette étude de phase 2 espagnole, randomisée en double aveugle contre placebo, est menée par le Réseau de thérapie cellulaire (Red de Terapia Cellular) avec l'hôpital Río Hortega de Valladolid. Les cellules, préparées selon les bonnes pratiques de fabrication, sont administrées en une seule perfusion intraveineuse (2 millions de cellules/kg) en plus du traitement standard. Les effectifs sont faibles (20 patients prévus).",
+ "interet": "Si elle est positive, cette étude pourrait fournir un signal en faveur d'une thérapie cellulaire dans la néphropathie lupique réfractaire. Ses résultats resteront à confirmer dans un essai plus large.",
+ "profil": "Des adultes avec une néphropathie lupique active biopsiée, sans réponse ou avec réponse partielle au traitement standard, ou en rechute.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus systémique (critères ACR et/ou SLICC)", "Néphropathie lupique sur biopsie récente (≤ 6 mois, ≤ 1 an si rechute)", "Absence de réponse ou réponse partielle, ou rechute modérée à sévère", "SLEDAI-2K ≥ 10", "Vaccination antipneumococcique et antigrippale"],
+ "exclusion": ["Rituximab, bélimumab ou autre anti-B, cyclophosphamide, anti-TNF ou immunoglobulines dans les 6 mois", "Événement cardiovasculaire dans les 6 mois, événement thromboembolique dans les 12 mois", "Lupus neurologique actif sévère, maladie démyélinisante", "Infection active ou récente grave, VIH, hépatites B ou C, tuberculose", "Cancer actif, antécédent ou projet de greffe d'organe", "Grossesse ou allaitement"],
+ "bras": [{ "nom": "Cellules souches mésenchymateuses", "traitement": "Une perfusion IV de 2 millions de cellules/kg à J0, en plus du traitement standard" }, { "nom": "Placebo", "traitement": "Perfusion de 100 mL de sérum physiologique, en plus du traitement standard" }],
+ "duree": "Évaluation principale à 24 semaines (durée totale du suivi non précisée)",
+ "critere": "Proportion de patients en réponse rénale complète et en réponse partielle, entre 0 et 24 semaines"
+}

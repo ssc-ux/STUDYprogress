@@ -1,0 +1,33 @@
+{
+ "h": "78614407cd7f",
+ "date": "2026-11-14",
+ "titre": "CAR-γδT allogéniques anti-CD19/BCMA dans les maladies auto-immunes réfractaires",
+ "question": "Les CAR-γδT allogéniques anti-CD19/BCMA sont-ils sûrs chez des patients ayant une maladie auto-immune réfractaire ou en rechute ?",
+ "contexte": "Les CAR-T anti-CD19 ont induit des rémissions dans des lupus, sclérodermies, myosites et vascularites à ANCA réfractaires, mais leur fabrication autologue est coûteuse et lente. Les lymphocytes T γδ, ne dépendant pas du CMH pour reconnaître leurs cibles, ont un moindre risque de réaction du greffon contre l'hôte, ce qui les rend candidats à des produits allogéniques prêts à l'emploi. La double cible CD19/BCMA vise les lymphocytes B et les plasmocytes.\n\nCette étude de phase 1 chinoise à bras unique, promue par l'Institute of Hematology & Blood Diseases Hospital (Tianjin), prévoit d'inclure 9 patients adultes avec lupus, sclérodermie, myopathie inflammatoire ou vascularite à ANCA réfractaires, en rechute ou progressifs. Après lymphodéplétion par fludarabine et cyclophosphamide, les patients reçoivent des CAR-γδT allogéniques en escalade de dose. Les critères principaux sont les événements indésirables à 6 mois et les toxicités limitantes dans les 28 jours.",
+ "interet": "C'est une étude de sécurité d'une plateforme cellulaire allogénique. Elle établira une première estimation de la tolérance et de la pharmacodynamie.",
+ "profil": "Des adultes ayant un lupus, une sclérodermie, une myopathie inflammatoire ou une vascularite à ANCA réfractaires ou en rechute.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Expression de CD19 ou de BCMA sur les lymphocytes B circulants (cytométrie en flux)",
+  "Fonctions médullaire (PNN ≥ 1 G/L, Hb ≥ 60 g/L), hépatique (ALAT/ASAT ≤ 3 N, bilirubine ≤ 2 N) et rénale (clairance ≥ 30 mL/min hors néphrite lupique) suffisantes",
+  "ECOG 0 à 2",
+  "Contraception chez les femmes en âge de procréer et les partenaires masculins",
+  "Maladie réfractaire, en rechute ou progressive (critères détaillés dans le registre)"
+ ],
+ "exclusion": [
+  "Allergie médicamenteuse sévère ou terrain allergique",
+  "Infection non contrôlée ou suspectée",
+  "Atteinte active sévère du système nerveux central",
+  "Insuffisance cardiaque, déficit immunitaire congénital en immunoglobulines",
+  "Cancer dans les 5 ans, insuffisance rénale terminale (hors néphrite lupique)",
+  "Hépatite B ou C active, VIH, syphilis, troubles psychiatriques ou cognitifs sévères"
+ ],
+ "bras": [
+  {
+   "nom": "Patients avec maladie auto-immune réfractaire",
+   "traitement": "Fludarabine + cyclophosphamide, puis CAR-γδT allogéniques anti-CD19/BCMA à doses croissantes"
+  }
+ ],
+ "duree": "6 mois de suivi",
+ "critere": "Événements indésirables à 6 mois et toxicités limitantes dans les 28 jours suivant la perfusion"
+}

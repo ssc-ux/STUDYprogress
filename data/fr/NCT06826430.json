@@ -1,0 +1,29 @@
+{
+ "h": "4a17257efab5",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 (inaticabtagene) dans la thrombopénie immune du lupus réfractaire",
+ "question": "L'inaticabtagene autoleucel (CAR-T anti-CD19) est-il sûr chez des adultes ayant une thrombopénie immune liée au lupus et réfractaire ?",
+ "contexte": "La thrombopénie immune est une manifestation hématologique fréquente du lupus. Elle répond le plus souvent aux corticoïdes, mais peut devenir réfractaire malgré les immunosuppresseurs, les agonistes du récepteur de la thrombopoïétine, le rituximab ou la splénectomie. Les patients restent alors exposés aux hémorragies et à la corticothérapie prolongée.\n\nLes CAR-T anti-CD19 éliminent les lymphocytes B autoréactifs et ont induit des rémissions dans le lupus et dans des cytopénies auto-immunes. L'inaticabtagene autoleucel, développé par Juventas Cell Therapy, est un CAR-T anti-CD19 déjà évalué en onco-hématologie. Cet essai de phase 1 ouvert, à bras unique avec escalade de dose, inclut 12 patients de 18 à 70 ans avec plaquettes < 50×10⁹/L à deux reprises, en échec d'au moins une cure de corticoïdes à forte dose et d'un immunosuppresseur depuis ≥ 3 mois. L'étude vise à déterminer la dose recommandée pour la phase 2.",
+ "interet": "L'étude éclairera la sécurité d'un CAR-T chez des patients lupiques à manifestation hématologique isolée. Les résultats seront préliminaires et sans comparateur.",
+ "profil": "Des adultes de 18 à 70 ans avec thrombopénie immune réfractaire liée à un lupus systémique.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Lupus (ACR 1997 ou EULAR/ACR 2019) avec thrombopénie immune réfractaire",
+  "Plaquettes < 50×10⁹/L sur au moins 2 numérations consécutives, frottis sans anomalie et moelle compatible avec un PTI",
+  "Échec d'au moins 1 cure de méthylprednisolone ou corticoïdes à forte dose plus un immunosuppresseur ≥ 3 mois",
+  "Corticoïdes ≤ 10 mg/j de prednisone et arrêt des immunosuppresseurs (hors hydroxychloroquine) pendant l'étude",
+  "Test de grossesse négatif et contraception efficace",
+  "Fonctions hépatique et rénale adéquates"
+ ],
+ "exclusion": [
+  "Non précisé dans l'extrait consulté du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Inaticabtagene autoleucel",
+   "traitement": "Perfusion unique de CAR-T anti-CD19 après lymphodéplétion, escalade de dose"
+  }
+ ],
+ "duree": "2 ans après la perfusion",
+ "critere": "Fréquence des événements indésirables liés au traitement et dose sûre pour une perfusion unique, jusqu'à 28 jours"
+}

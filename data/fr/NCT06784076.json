@@ -1,0 +1,31 @@
+{
+ "h": "4c3d6e1f38f4",
+ "date": "2026-11-14",
+ "titre": "Blocage de l'interféron de type 1 par anifrolumab et fatigue du lupus, en IRM 7 tesla",
+ "question": "Le blocage du récepteur de l'interféron de type 1 par l'anifrolumab modifie-t-il le glutamate des noyaux gris centraux, impliqué dans la fatigue du lupus ?",
+ "contexte": "La fatigue est le symptôme le plus invalidant du lupus : jusqu'à 90 % des patients en rapportent une fatigue significative, avec un retentissement sur la qualité de vie et l'activité professionnelle. Ses mécanismes restent mal connus et aucun traitement n'est validé.\n\nLes travaux de l'équipe de Glasgow ont impliqué le volume des noyaux gris centraux comme marqueur de fatigue. Chez des patients traités par interféron alpha pour une hépatite C, la spectroscopie IRM a montré une élévation du glutamate des noyaux gris centraux, corrélée à la fatigue. Le glutamate est le principal neurotransmetteur excitateur du cerveau. Comme le lupus est caractérisé par une activation de l'interféron de type 1, l'hypothèse est que le blocage de son récepteur par l'anifrolumab réduit le glutamate et la fatigue. Cette étude de mécanisme prévoit de recruter 25 patients lupiques en faible activité (LLDAS) mais très fatigués, pour obtenir 20 jeux de données complets, avec une IRM 7 tesla avant et après 5 mois d'anifrolumab.",
+ "interet": "L'étude, mécanistique et sans groupe contrôle, pourrait ouvrir la voie à un essai évaluant l'anifrolumab sur la fatigue du lupus. Elle ne démontrera pas à elle seule d'effet clinique.",
+ "profil": "Des adultes de 18 à 64 ans avec un lupus en faible activité et une fatigue persistante.",
+ "inclusion": [
+  "Âge de 18 à 64 ans",
+  "Lupus selon les critères ACR/EULAR 2019",
+  "Fatigue persistante (> 3 mois) et significative (≥ 6/10 sur l'échelle numérique des 7 derniers jours)",
+  "Lupus en faible niveau d'activité (LLDAS)"
+ ],
+ "exclusion": [
+  "Lupus actif modéré ou sévère",
+  "Lupus neurologique sévère actif ou néphrite lupique",
+  "Contre-indication ou hypersensibilité à l'anifrolumab, exposition antérieure",
+  "Biothérapie en cours, ou déplétion B dans les 52 semaines",
+  "Antécédent de cancer, infections récurrentes ou infection active",
+  "Contre-indication à l'IRM, grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Patients lupiques fatigués",
+   "traitement": "IRM 7T de base, 5 mois d'anifrolumab, IRM 7T de contrôle"
+  }
+ ],
+ "duree": "Environ 18 semaines",
+ "critere": "Variation du glutamate des noyaux gris centraux en spectroscopie IRM 7 tesla, de la semaine 0 à la semaine 18"
+}

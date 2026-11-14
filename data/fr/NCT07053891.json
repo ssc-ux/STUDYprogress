@@ -1,0 +1,14 @@
+{
+ "h": "76d944c3a5a9",
+ "date": "2026-11-14",
+ "titre": "Enquête de pharmacovigilance sur la voclosporine dans la néphropathie lupique (Japon)",
+ "question": "Quelle est la tolérance de la voclosporine (LUPKYNIS) en pratique réelle chez les patients avec néphropathie lupique ?",
+ "contexte": "La néphropathie lupique est une complication grave du lupus systémique. Le traitement d'induction repose sur les corticoïdes et le mycophénolate, parfois associés au cyclophosphamide ou au bélimumab. La voclosporine est un inhibiteur de la calcineurine de nouvelle génération, dont l'ajout au mycophénolate et aux corticoïdes a montré une meilleure réponse rénale dans les essais de phase 2 et 3 (AURORA, AURA-LV).\n\nLes inhibiteurs de la calcineurine exposent à des effets indésirables bien connus : baisse du débit de filtration glomérulaire, hypertension, hyperkaliémie, infections. Cette enquête observationnelle post-commercialisation, promue par Otsuka, suit des patients qui débutent la voclosporine pour une néphropathie lupique dans les conditions réelles d'utilisation. Elle documente les événements indésirables, les situations particulières et les usages hors AMM sur 3 ans, avec un recueil complémentaire sur l'efficacité. Elle est menée au Japon (un centre listé) et prévoit environ 400 patients.",
+ "interet": "Cette enquête pourrait préciser le profil de tolérance de la voclosporine hors essais, sur des patients moins sélectionnés. Elle complète les données des études pivots.",
+ "profil": "Des patients (dès 15 ans) qui débutent la voclosporine pour une néphropathie lupique.",
+ "inclusion": ["Début d'un traitement par LUPKYNIS pour une néphropathie lupique", "Âge ≥ 15 ans"],
+ "exclusion": ["Aucun critère d'exclusion précisé"],
+ "bras": [{ "nom": "Patients traités par voclosporine", "traitement": "Voclosporine (LUPKYNIS) selon la pratique clinique, suivi 3 ans" }],
+ "duree": "3 ans à partir du début de la voclosporine",
+ "critere": "Nombre et types d'événements indésirables (dont graves et non graves), de situations particulières et d'usages hors AMM, sur 3 ans"
+}

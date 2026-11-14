@@ -1,0 +1,14 @@
+{
+ "h": "145dce1f1e36",
+ "date": "2026-11-14",
+ "titre": "NLR et rapport CRP/albumine, prédicteurs de réanimation et de décès dans la néphrite lupique",
+ "question": "Le rapport neutrophiles/lymphocytes (NLR) et le rapport CRP/albumine (CAR) prédisent-ils l'admission en réanimation et la mortalité hospitalière des patients hospitalisés pour néphrite lupique ?",
+ "contexte": "La néphrite lupique touche 40 à 60 % des patients lupiques et reste une cause majeure d'insuffisance rénale terminale, de complications cardiovasculaires, d'hospitalisations répétées et de décès. À l'hôpital, les patients peuvent présenter une poussée sévère, une insuffisance rénale aiguë, un syndrome néphrotique, des infections, une hémorragie pulmonaire, une atteinte neuropsychiatrique ou une microangiopathie thrombotique, parfois nécessitant la réanimation.\n\nPlusieurs facteurs sont associés à un mauvais pronostic : âge élevé, activité de la maladie, infection, altération de la fonction rénale, thrombopénie, hypocomplémentémie, hypoalbuminémie. La plupart des études sont rétrospectives ou limitées à des populations sélectionnées. Le NLR et le CAR sont des indices peu coûteux obtenus à partir d'examens de routine, déjà associés au pronostic dans d'autres situations inflammatoires ou critiques.\n\nCette cohorte prospective observationnelle égyptienne inclut 55 adultes hospitalisés pour néphrite lupique active ou compliquée. Elle compare la performance du NLR et du CAR à celle de la CRP et de l'albumine seules par courbes ROC, détermine des seuils optimaux et cherche des prédicteurs indépendants par régression logistique multivariée.",
+ "interet": "Des indices simples, disponibles à l'admission, pourraient aider à repérer les patients à risque d'aggravation. L'effectif est faible, et les seuils proposés demanderont une validation externe.",
+ "profil": "Des adultes hospitalisés pour néphrite lupique active ou compliquée.",
+ "inclusion": ["Âge ≥ 18 ans", "Lupus systémique (critères EULAR/ACR 2019)", "Néphrite lupique prouvée par biopsie ou diagnostiquée cliniquement par le néphrologue", "Hospitalisation pour néphrite lupique active ou ses complications", "Consentement écrit"],
+ "exclusion": ["Âge < 18 ans", "Greffe rénale antérieure", "Dialyse chronique depuis plus de 3 mois avant l'admission", "Cancer actif", "Grossesse", "Refus de participer"],
+ "bras": [{"nom": "Cohorte de patients hospitalisés", "traitement": "Suivi prospectif ; mesure du NLR, du CAR, de la CRP et de l'albumine"}],
+ "duree": "8 semaines",
+ "critere": "Nombre de patients admis en réanimation ou décédés à l'hôpital, sur 8 semaines"
+}

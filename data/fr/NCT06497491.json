@@ -1,0 +1,30 @@
+{
+ "h": "7c6472fd57a3",
+ "date": "2026-11-14",
+ "titre": "Biosimilaire du canakinumab (GNR-086) versus Ilaris dans la maladie de Still de l'adulte",
+ "question": "Le biosimilaire GNR-086 du canakinumab est-il équivalent à Ilaris pour réduire l'activité de la maladie de Still de l'adulte ?",
+ "contexte": "La maladie de Still de l'adulte est une maladie auto-inflammatoire associant fièvre, éruption, arthrite et hyperferritinémie, avec un risque de syndrome d'activation macrophagique. Les anti-IL-1 (anakinra, canakinumab) et les anti-IL-6 sont des options en cas d'échec des corticoïdes et des immunosuppresseurs.\n\nLe canakinumab est un anticorps monoclonal humain anti-IL-1β qui neutralise cette cytokine pro-inflammatoire sans bloquer le récepteur de l'IL-1 ni l'IL-1Ra. Il est commercialisé sous le nom d'Ilaris (Novartis) pour la maladie de Still.\n\nGNR-086 est un biosimilaire proposé par la société russe Generium. Cette phase 3 randomisée en simple aveugle compare GNR-086 à Ilaris (4 mg/kg SC toutes les 4 semaines), avec une extension après 24 semaines. La démonstration vise l'équivalence d'efficacité, de tolérance et d'immunogénicité.",
+ "interet": "Les biosimilaires peuvent améliorer l'accès aux anti-IL-1 coûteux. L'étude vise à démontrer l'équivalence avec le produit de référence dans une maladie rare.",
+ "profil": "Des adultes de 18 à 75 ans atteints de maladie de Still active.",
+ "inclusion": [
+  "Âge de 18 à 75 ans, consentement écrit",
+  "Maladie de Still de l'adulte (critères de Yamaguchi) depuis au moins 2 mois",
+  "Activité DAS28-VS ≥ 2,6",
+  "Traitement stable : méthotrexate (≤ 20 mg/m²/sem) ou autre immunosuppresseur depuis 6 semaines, AINS depuis 14 jours, corticoïdes depuis 7 jours",
+  "Test tuberculinique ou IGRA négatif",
+  "Contraception pendant l'étude et 3 mois après"
+ ],
+ "exclusion": [
+  "Syndrome d'activation macrophagique dans les 3 mois",
+  "Hypersensibilité au canakinumab ou à un excipient",
+  "Infection aiguë dans les 14 jours",
+  "Vaccin vivant dans les 3 mois",
+  "Autres comorbidités jugées gênantes par l'investigateur : non précisé"
+ ],
+ "bras": [
+  { "nom": "GNR-086", "traitement": "Canakinumab biosimilaire, 4 mg/kg SC toutes les 4 semaines" },
+  { "nom": "Ilaris", "traitement": "Canakinumab, 4 mg/kg SC toutes les 4 semaines" }
+ ],
+ "duree": "24 semaines, puis extension",
+ "critere": "Proportion de patients avec une baisse cliniquement significative (> 1,2 point) du DAS28-VS à la semaine 12"
+}

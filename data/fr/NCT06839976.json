@@ -1,0 +1,25 @@
+{
+ "h": "f26e2c438a10",
+ "date": "2026-11-14",
+ "titre": "CAR-T anti-CD19 (CART19) dans le lupus réfractaire de l'enfant et du jeune adulte",
+ "question": "Les CAR-T anti-CD19 sont-ils sûrs et efficaces chez des enfants et jeunes adultes atteints de lupus systémique ou de néphrite lupique réfractaires ?",
+ "contexte": "Le lupus de l'enfant et du jeune adulte est souvent plus sévère que celui de l'adulte, avec une atteinte rénale fréquente. Les formes réfractaires malgré le mycophénolate ou le cyclophosphamide, les biothérapies B-ciblées et les inhibiteurs de calcineurine laissent peu d'options.\n\nL'activité du lupus est liée à l'expansion de lymphocytes B naïfs activés et de cellules sécrétrices d'anticorps. Les CAR-T anti-CD19 déplètent les lymphocytes B plus profondément que les anticorps anti-CD19 et pourraient induire une rémission sans immunosuppresseurs. Les séries publiées chez l'adulte sont favorables mais portent sur peu de patients.\n\nCette étude de phase 1/2 du Children's Hospital of Philadelphia est monocentrique, ouverte et monobras. Les cellules sont transduites par vecteur lentiviral pour exprimer un récepteur anti-CD19 avec domaine 4-1BB et TCRζ. La phase 1 inclut 6 à 12 patients, sans escalade mais avec une désescalade possible selon les toxicités dose-limitantes ; la phase 2 évalue l'efficacité. Environ 24 patients de 10 à 29 ans, avec ou sans néphrite lupique, sont prévus.",
+ "interet": "L'étude apportera des données pédiatriques et de jeunes adultes sur la tolérance et l'efficacité des CAR-T anti-CD19 dans le lupus, où l'enjeu d'une rémission sans immunosuppresseur est important sur la vie entière.",
+ "profil": "Des enfants et jeunes adultes de 10 à 29 ans atteints de lupus systémique réfractaire, avec ou sans néphrite lupique.",
+ "inclusion": [
+  "Âge de 10 à 29 ans, lupus selon les critères ACR/EULAR",
+  "Anticorps antinucléaires > 1/80 et/ou anti-ADN natif positifs",
+  "Néphrite : classe III/IV (± V) sur biopsie de moins de 12 mois, avec protéinurie persistante significative",
+  "Lupus extrarénal : SLEDAI-2K ≥ 8 avec score clinique ≥ 6, ou impossibilité de réduire la prednisone à 7,5 mg/jour",
+  "Au moins 3 mois de traitement conventionnel (mycophénolate ou cyclophosphamide, plus un second traitement)",
+  "Fonction d'organe adéquate (DFG ≥ 30, FEVG > 45 %, pas de dialyse)"
+ ],
+ "exclusion": [
+  "Critères d'exclusion : non précisés dans les données consultées"
+ ],
+ "bras": [
+  { "nom": "CART19", "traitement": "Cellules T autologues transduites avec un récepteur anti-CD19 (4-1BB, TCRζ), injection intraveineuse unique ; dose non précisée" }
+ ],
+ "duree": "24 mois après la perfusion",
+ "critere": "Fréquence des toxicités dose-limitantes du CART19, jusqu'à 24 mois après la perfusion"
+}

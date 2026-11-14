@@ -1,0 +1,34 @@
+{
+ "h": "1d70900b9ef1",
+ "date": "2026-11-14",
+ "titre": "Dapagliflozine dans la néphrite lupique avec insuffisance rénale chronique",
+ "question": "La dapagliflozine ralentit-elle la baisse du DFG chez des patients atteints de néphrite lupique quiescente avec maladie rénale chronique ?",
+ "contexte": "La néphrite lupique (NL) est une atteinte rénale fréquente du lupus et une cause majeure d'insuffisance rénale chronique (IRC) et de maladie rénale terminale. Les traitements d'attaque (corticoïdes avec mycophénolate ou cyclophosphamide) puis d'entretien contrôlent la maladie, mais beaucoup de patients évoluent vers l'IRC du fait de lésions cumulées. L'insuffisance rénale multiplie par 26 le risque de décès par rapport à la population générale.\n\nLe traitement néphroprotecteur de l'IRC repose sur le blocage du système rénine-angiotensine. Les inhibiteurs du SGLT2 ont démontré une réduction du déclin du DFG, de la maladie rénale terminale et de la mortalité cardiovasculaire dans le diabète et l'IRC (CREDENCE, DAPA-CKD), mais les patients lupiques étaient peu ou pas inclus. Cet essai de phase 2 de l'Université de Hong Kong, randomisé en double aveugle, compare 150 patients en traitement d'entretien à dapagliflozine 10 mg/j ou à un contrôle.",
+ "interet": "Il pourrait étendre l'indication néphroprotectrice des inhibiteurs du SGLT2 aux patients atteints de néphrite lupique et d'IRC.",
+ "profil": "Des adultes avec néphrite lupique de classe III, IV ou V quiescente et une IRC (DFGe 15-60 mL/min).",
+ "inclusion": [
+  "Néphrite lupique prouvée par biopsie, classe III, IV ou V (ISN/RPS 2003)",
+  "IRC avec DFGe de 15 à 60 mL/min",
+  "Maladie quiescente (SLEDAI < 4 sans point rénal)",
+  "Prednisolone stable 5-7,5 mg/j seule ou avec mycophénolate (≤ 1,5 g/j) ou azathioprine (≤ 150 mg/j) depuis 3 mois"
+ ],
+ "exclusion": [
+  "Glomérulonéphrite autre que la néphrite lupique, ou maladie rénale héréditaire",
+  "Diabète de type 1",
+  "IRC de stade 5 ou dialyse",
+  "Infections urinaires fréquentes",
+  "Antécédent d'acidocétose"
+ ],
+ "bras": [
+  {
+   "nom": "Dapagliflozine",
+   "traitement": "Traitement d'entretien habituel plus dapagliflozine 10 mg par jour"
+  },
+  {
+   "nom": "Contrôle",
+   "traitement": "Traitement d'entretien habituel seul"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Baisse du DFG estimé (eGFR) à 24 mois"
+}

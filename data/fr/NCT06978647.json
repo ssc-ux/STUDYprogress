@@ -1,0 +1,14 @@
+{
+ "h": "42a060d56fef",
+ "date": "2026-11-14",
+ "titre": "Cellules CAR-T YTS109 dans les maladies auto-immunes systémiques en rechute ou réfractaires",
+ "question": "Les cellules YTS109 sont-elles sûres et actives dans huit maladies auto-immunes systémiques réfractaires ?",
+ "contexte": "Les maladies auto-immunes systémiques (lupus, sclérodermie, myopathies inflammatoires, vascularites à ANCA, syndrome des antiphospholipides, polyarthrite rhumatoïde, maladie liée aux IgG4, syndrome de Sjögren) restent difficiles à contrôler lorsqu'elles résistent aux immunosuppresseurs et aux biothérapies. La déplétion des lymphocytes B par thérapie cellulaire CAR-T est une piste majeure, avec des rémissions rapportées dans le lupus et les myopathies.\n\nYTS109 est un produit cellulaire de China Immunotech (Beijing) utilisant des lymphocytes T de type « STAR » (1,5 × 10^6 cellules/kg), les patients devant exprimer CD19 sur leurs lymphocytes B. Le registre ne détaille pas davantage la construction du produit.\n\nCette étude exploratoire de phase 1, à bras unique et ouverte, est menée à l'hôpital général de l'Armée populaire de libération de Chine (PLA). Elle inclut 6 à 12 patients de 18 à 65 ans, avec une perfusion unique, et vise à explorer à la fois le produit et le schéma de lymphodéplétion.",
+ "interet": "Phase 1 exploratoire : elle apportera des données de tolérance et des signaux préliminaires d'efficacité sur un nouveau produit, sur un échantillon très réduit et hétérogène.",
+ "profil": "Des adultes de 18 à 65 ans atteints d'une maladie auto-immune systémique en rechute ou réfractaire, avec lymphocytes B CD19 positifs.",
+ "inclusion": ["Âge de 18 à 65 ans", "Expression de CD19 sur les lymphocytes B sanguins (cytométrie en flux)", "Neutrophiles ≥ 1 G/L, hémoglobine ≥ 60 g/L", "ALAT/ASAT ≤ 3 × LSN, bilirubine ≤ 1,5 × LSN, clairance de la créatinine ≥ 30 mL/min", "INR/TP ≤ 1,5 × LSN, stabilité hémodynamique", "Critères spécifiques à chaque maladie, contraception efficace"],
+ "exclusion": ["Allergie médicamenteuse sévère", "Infection non contrôlée, existante ou suspectée", "Maladie du système nerveux central (hors manifestations dues à la maladie auto-immune sous-jacente)", "Fonction cardiaque ne permettant pas le traitement", "Déficit immunitaire en immunoglobulines congénital", "Cancer dans les 5 ans, insuffisance rénale terminale", "Hépatite B ou C avec charge virale détectable"],
+ "bras": [{"nom": "YTS109", "traitement": "Perfusion unique de cellules YTS109, 1,5 × 10^6 cellules/kg, après lymphodéplétion"}],
+ "duree": "24 semaines de suivi des événements indésirables, prolongé jusqu'à 52 semaines",
+ "critere": "Incidence des événements indésirables survenant sous traitement ; efficacité évaluée à 2, 4, 8 et 12 semaines"
+}

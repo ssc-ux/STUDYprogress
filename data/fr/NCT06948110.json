@@ -1,0 +1,27 @@
+{
+ "h": "b5ceca44bcd4",
+ "date": "2026-11-14",
+ "titre": "Architecture génétique des maladies auto-immunes chez des patients autochtones du Pérou",
+ "question": "Quelles variations génétiques sous-tendent les maladies auto-immunes dans les populations autochtones du Pérou ?",
+ "contexte": "Les maladies auto-immunes, en particulier le lupus, débutent plus tôt et évoluent moins bien chez les personnes d'ascendance non européenne. Les études génétiques ont surtout porté sur des populations européennes et asiatiques, ce qui limite la compréhension des disparités de risque et de phénotype.\n\nCe projet du NHGRI (NIH), basé au Pérou, étudie des patients de 18 ans et plus atteints de lupus, syndrome de Sjögren, sclérodermie, polyarthrite rhumatoïde, spondyloarthropathies séronégatives ou vascularite systémique, ainsi que des témoins issus des familles et de la communauté. Environ 13 % des locus de risque du lupus, hors HLA, montrent des signes de sélection naturelle, ce qui motive l'étude de populations exposées à des pressions infectieuses différentes.\n\nLe séquençage du génome entier sera réalisé. L'étude est observationnelle et ne teste aucun traitement.",
+ "interet": "Elle pourrait identifier de nouveaux variants de risque et réduire le biais de représentation en génétique des maladies auto-immunes. Elle n'a pas de conséquence directe sur la pratique clinique.",
+ "profil": "Des adultes autochtones du Pérou atteints de maladie auto-immune, et des témoins apparentés ou de la même communauté.",
+ "inclusion": [
+  "Cas : lupus, Sjögren, sclérodermie, polyarthrite rhumatoïde, spondyloarthropathie séronégative ou vascularite selon les critères ACR",
+  "Âge > 18 ans",
+  "Témoins : apparentés ou individus non apparentés de la même communauté, du même âge et sexe, sans maladie auto-immune ou allergique",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Infection virale chronique : VIH, hépatite C ou HTLV-1",
+  "Autres critères d'exclusion non précisés"
+ ],
+ "bras": [
+  {
+   "nom": "Patients atteints de maladie auto-immune",
+   "traitement": "Séquençage du génome entier et recueil de phénotypes"
+  }
+ ],
+ "duree": "Recueil ponctuel, suivi non précisé",
+ "critere": "Séquençage du génome entier (critère en cours)"
+}

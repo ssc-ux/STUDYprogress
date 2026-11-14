@@ -1,0 +1,30 @@
+{
+ "h": "621bba2015c4",
+ "date": "2026-11-14",
+ "titre": "CM313 sous-cutané contre placebo dans le lupus systémique actif",
+ "question": "Le CM313 par voie sous-cutanée augmente-t-il la proportion de patients répondeurs SRI-4 à 24 semaines dans le lupus systémique ?",
+ "contexte": "Le lupus systémique reste difficile à contrôler : les corticoïdes, les antipaludéens et les immunosuppresseurs laissent persister une activité chez beaucoup de patients, et les biothérapies approuvées (bélimumab, anifrolumab) n'induisent pas de réponse chez tous. Le besoin porte sur des traitements plus efficaces et moins dépendants des corticoïdes.\n\nLe CM313 est une molécule de Keymed Biosciences ; le registre n'en précise pas la cible. Cette étude de phase 2 est randomisée, en triple aveugle, contre placebo, avec deux groupes de dose de CM313 sous-cutané. Environ 150 adultes de 18 à 65 ans en poussée active (SLEDAI-2K ≥ 6, atteinte clinique, BILAG A ou B), sous traitement standard stable, sont prévus.\n\nLe critère principal est la réponse SRI-4 à 24 semaines, critère composite validé dans les essais de lupus.",
+ "interet": "L'étude testera, par comparaison au placebo, l'efficacité et la tolérance de deux doses du CM313. Elle servira à choisir la dose d'un éventuel essai de phase 3.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique actif malgré un traitement standard stable.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement signé",
+  "Lupus selon les critères EULAR/ACR 2019",
+  "SLEDAI-2K ≥ 6 avec score clinique ≥ 4 au dépistage et à l'inclusion",
+  "Anticorps antinucléaires et/ou anti-ADN natif positifs",
+  "Au moins un système BILAG A ou deux BILAG B, PGA ≥ 1,0",
+  "Traitement standard stable depuis au moins 30 jours"
+ ],
+ "exclusion": [
+  "Néphrite lupique sévère dans les 8 semaines précédant la randomisation",
+  "Atteinte du système nerveux central, lupique ou non, dans les 8 semaines",
+  "Maladie cutanée ou articulaire inflammatoire non lupique pouvant gêner l'évaluation",
+  "Maladie cliniquement significative"
+ ],
+ "bras": [
+  { "nom": "Groupe A", "traitement": "CM313 sous-cutané, première dose ; posologie non précisée" },
+  { "nom": "Groupe B", "traitement": "CM313 sous-cutané, seconde dose ; posologie non précisée" },
+  { "nom": "Groupe C", "traitement": "Placebo sous-cutané" }
+ ],
+ "duree": "Non précisé (critère principal à 24 semaines)",
+ "critere": "Proportion de patients répondeurs SRI-4 à la semaine 24"
+}

@@ -1,0 +1,25 @@
+{
+ "h": "bf06c8fd676dr",
+ "date": "2026-11-14",
+ "titre": "Surveillance post-commercialisation de Vyndaqel (tafamidis) dans la cardiomyopathie amyloïde ATTR au Japon",
+ "question": "Quel est le profil de sécurité du tafamidis en pratique courante au Japon chez les patients atteints de cardiomyopathie amyloïde ATTR ?",
+ "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), de forme sauvage ou héréditaire, est une cause d'insuffisance cardiaque du sujet âgé. Le tafamidis, stabilisateur de la transthyrétine, a montré dans l'essai ATTR-ACT une baisse de la mortalité toutes causes et des hospitalisations cardiovasculaires. Il est commercialisé au Japon sous le nom de Vyndaqel, et sous forme de Vynmac (61 mg de tafamidis).\n\nCette étude de Pfizer est une surveillance particulière post-commercialisation, observationnelle, exigée par les autorités japonaises. Elle recueille de façon prospective, sur 1 214 patients, les effets indésirables du médicament et des informations d'efficacité en pratique réelle, y compris pour la nouvelle formulation Vynmac. Il n'y a pas de comparateur.",
+ "interet": "Elle documente la tolérance du tafamidis en situation réelle, dans une population plus large et moins sélectionnée que celle de l'essai pivot.",
+ "profil": "Des patients japonais adultes atteints de cardiomyopathie amyloïde ATTR traités par Vyndaqel ou Vynmac.",
+ "inclusion": [
+  "Patient recevant Vyndaqel pour une ATTR-CM",
+  "Âge ≥ 18 ans"
+ ],
+ "exclusion": [
+  "Aucun critère d'exclusion (N/A)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients traités",
+   "traitement": "Patients atteints d'ATTR-CM (forme sauvage ou variant) recevant Vyndaqel 20 mg (tafamidis méglumine) ou Vynmac 61 mg (tafamidis)"
+  }
+ ],
+ "duree": "30 mois, ou jusqu'à la première visite suivant l'arrêt du traitement",
+ "critere": "Nombre de patients avec effets indésirables d'origine médicamenteuse sur 30 mois",
+ "resultats": "Parmi 873 patients analysés pour la sécurité, 45 ont présenté un effet indésirable d'origine médicamenteuse. Au total, 202 patients ont eu un événement indésirable grave, toutes causes confondues, et 31 sont décédés, ce qui reflète l'âge et la gravité de la maladie sous-jacente. Il s'agit d'un recueil observationnel sans groupe comparateur, qui ne permet pas de conclure à une relation de causalité."
+}

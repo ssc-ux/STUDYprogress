@@ -1,0 +1,29 @@
+{
+ "h": "e2f5ad8b4910",
+ "date": "2026-11-14",
+ "titre": "CAR-T bispécifique CD20/BCMA (C-CAR168) dans des maladies auto-immunes réfractaires",
+ "question": "Le CAR-T autologue bispécifique C-CAR168 est-il sûr et quelle dose recommander dans des maladies auto-immunes réfractaires ?",
+ "contexte": "Le lupus, les myopathies nécrosantes à médiation immune, les neuromyélites optiques (NMOSD), la sclérose en plaques, la myasthénie et la sclérodermie peuvent rester actifs malgré plusieurs immunosuppresseurs et biothérapies. Ces formes réfractaires exposent à des séquelles durables.\n\nLes CAR-T anti-CD19 ont induit des rémissions dans des maladies auto-immunes, mais les plasmocytes à longue durée de vie, qui n'expriment pas CD19, persistent. Le C-CAR168 est un CAR-T autologue bispécifique ciblant CD20 et BCMA, destiné à éliminer à la fois les lymphocytes B et les plasmocytes.\n\nCette étude de phase 1 à promotion académique (hôpital RenJi, Shanghai) est multicentrique, ouverte et monobras. Environ 30 adultes de 18 à 70 ans, ayant une maladie active malgré au moins deux traitements, reçoivent le C-CAR168 par perfusion intraveineuse. Le suivi est de 24 mois avec observation des toxicités dose-limitantes pendant 28 jours.",
+ "interet": "L'étude apportera des données de tolérance et une dose recommandée pour un CAR-T ciblant à la fois les lymphocytes B et les plasmocytes dans six maladies auto-immunes. Elle est exploratoire et sans comparateur.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus, myopathie nécrosante, NMOSD, sclérose en plaques, myasthénie ou sclérodermie réfractaires.",
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "Maladie diagnostiquée depuis au moins 6 mois selon des critères reconnus",
+  "Maladie active ou en rechute après au moins 8 semaines de traitement standard à dose stable",
+  "Au moins deux immunosuppresseurs ou biothérapies reçus",
+  "Fonctions médullaire, hépatique, rénale, cardio-pulmonaire et coagulation adéquates"
+ ],
+ "exclusion": [
+  "VHB, VHC, VIH, syphilis, CMV ou EBV positifs",
+  "Infection active non contrôlée",
+  "Vaccin vivant dans les 4 semaines",
+  "Greffe d'organe ou de cellules souches, thérapie CAR-T antérieure",
+  "Maladie cardiovasculaire sévère récente, saignement de grade ≥ 2",
+  "Cancer dans les 5 ans, grossesse ou allaitement, atteinte sévère du système nerveux central"
+ ],
+ "bras": [
+  { "nom": "C-CAR168", "traitement": "CAR-T autologue anti-CD20/BCMA en perfusion intraveineuse ; dose non précisée" }
+ ],
+ "duree": "24 mois de suivi (3 ans au total)",
+ "critere": "Incidence des événements indésirables (toxicités dose-limitantes sur 28 jours) et dose recommandée, sur 24 mois"
+}

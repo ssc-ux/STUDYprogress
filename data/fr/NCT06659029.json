@@ -1,0 +1,32 @@
+{
+ "h": "e559b445f57e",
+ "date": "2026-11-14",
+ "titre": "Registre de grossesse PRIMULA : anifrolumab pendant la grossesse dans le lupus",
+ "question": "L'exposition à l'anifrolumab pendant la grossesse augmente-t-elle le risque de malformations congénitales majeures chez des femmes lupiques ?",
+ "contexte": "Le lupus érythémateux systémique touche surtout des femmes en âge de procréer. Les grossesses lupiques sont à risque de poussée, de prééclampsie, de prématurité et de perte fœtale, ce qui impose de choisir des traitements compatibles. L'anifrolumab, anticorps dirigé contre le récepteur de l'interféron de type I, est approuvé pour le lupus modéré à sévère, mais les données de sécurité pendant la grossesse sont très limitées.\n\nPRIMULA Preg est un registre de grossesse prospectif, observationnel, mené aux États-Unis par AstraZeneca, qui répond à une exigence post-AMM de la FDA. Il compare les issues maternelles, fœtales et infantiles de femmes enceintes lupiques exposées à l'anifrolumab (au moins une dose) à celles d'une cohorte interne de femmes lupiques non exposées, traitées par d'autres produits. Le registre prévoit 442 participantes, recrutées de façon prospective, avec les données des dossiers médicaux.",
+ "interet": "Il fournira des données de tolérance de l'anifrolumab pendant la grossesse, essentielles pour conseiller les patientes lupiques en désir de grossesse.",
+ "profil": "Des femmes enceintes (actuellement ou récemment) atteintes de lupus modéré à sévère, exposées ou non à l'anifrolumab.",
+ "inclusion": [
+  "Grossesse en cours ou récente (dans l'année avant l'issue de la grossesse)",
+  "Lupus modéré à sévère",
+  "Consentement et autorisation de transmission des données par les soignants",
+  "Cohorte exposée : au moins une dose d'anifrolumab pendant la grossesse",
+  "Cohorte non exposée : autres traitements du lupus modéré à sévère"
+ ],
+ "exclusion": [
+  "Issue de grossesse survenue avant le premier contact avec le centre de coordination (inclusion rétrospective)",
+  "Exposition à des tératogènes connus ou à des médicaments expérimentaux pendant la grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte exposée",
+   "traitement": "Femmes enceintes lupiques exposées à l'anifrolumab à tout moment de la grossesse"
+  },
+  {
+   "nom": "Cohorte non exposée",
+   "traitement": "Femmes enceintes lupiques recevant d'autres traitements du lupus, sans anifrolumab"
+  }
+ ],
+ "duree": "De la conception jusqu'à l'issue de la grossesse, puis 12 mois de suivi de l'enfant",
+ "critere": "Critère composite des malformations congénitales majeures, de la conception à l'issue de la grossesse ou à 12 mois d'âge pour les naissances vivantes"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "2de7b3907a4e",
+ "date": "2026-11-14",
+ "titre": "Supplémentation en oméga-3 chez des femmes lupiques en rémission (inflammation, stress oxydant, télomères)",
+ "question": "Douze semaines d'oméga-3 (EPA + DHA) modifient-elles l'inflammation, le stress oxydant et la longueur des télomères chez des femmes lupiques en rémission ?",
+ "contexte": "Le lupus systémique s'accompagne d'une inflammation chronique de bas grade et d'un déséquilibre oxydatif, qui contribuent à une dysfonction cellulaire et à un vieillissement immunitaire prématuré. Le raccourcissement des télomères en serait un marqueur. Même en rémission, ces anomalies persistent chez beaucoup de patientes.\n\nLes acides gras oméga-3 (EPA et DHA) ont des effets anti-inflammatoires : ils concurrencent l'acide arachidonique pour les voies COX et LOX, et activent GPR120, qui inhibe la cascade TAK1-NF-κB-JNK. Ils pourraient aussi diminuer le stress oxydant et soutenir la stabilité du génome. Les essais dans le lupus sont peu nombreux.\n\nCet essai randomisé en double aveugle contre placebo, mené par l'Université de São Paulo, inclut 80 femmes de 18 à 45 ans avec un lupus en rémission ou à faible activité (SLEDAI-2K ≤ 4). Elles reçoivent 5 400 mg/jour d'EPA + DHA ou un placebo pendant 12 semaines. Un groupe de témoins sains suit le même schéma. Les cytokines, les marqueurs du stress oxydant (TBARS, ORAC, T-AOC) et la longueur relative des télomères (rapport T/S) sont mesurés avant et après.",
+ "interet": "Il s'agit d'une approche nutritionnelle peu coûteuse, évaluée sur des marqueurs biologiques et non sur des critères cliniques. Elle ne permettra pas de conclure à un bénéfice clinique.",
+ "profil": "Des femmes de 18 à 45 ans atteintes de lupus en rémission ou à faible activité, et des témoins sains.",
+ "inclusion": ["Femme de 18 à 45 ans", "Lupus systémique (critères EULAR/ACR)", "SLEDAI-2K ≤ 4", "Hydroxychloroquine et/ou corticoïdes (≤ 10 mg/jour de prednisone) à dose stable depuis au moins 8 semaines", "Alimentation et activité physique habituelles maintenues", "Consentement écrit"],
+ "exclusion": ["Supplémentation en oméga-3 en cours ou dans les 3 mois", "Grossesse ou allaitement", "Infection sévère, cancer ou diabète", "Allergie ou intolérance à l'huile de poisson ou de soja", "Toute situation gênant la participation, selon l'investigateur"],
+ "bras": [{"nom": "Oméga-3", "traitement": "EPA + DHA, 5 400 mg/jour pendant 12 semaines"}, {"nom": "Placebo", "traitement": "Placebo pendant 12 semaines"}],
+ "duree": "12 semaines",
+ "critere": "Variation de la longueur des télomères entre l'inclusion et 12 semaines"
+}

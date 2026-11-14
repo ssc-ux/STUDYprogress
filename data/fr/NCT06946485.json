@@ -1,0 +1,29 @@
+{
+ "h": "bc9d6b1aa0bf",
+ "date": "2026-11-14",
+ "titre": "CAR-T universel anti-CD70 (CHT101) dans le lupus systémique réfractaire ou en rechute",
+ "question": "Le CAR-T universel anti-CD70 CHT101 est-il sûr et efficace dans le lupus systémique réfractaire ou en rechute ?",
+ "contexte": "Une partie des patients lupiques reste en échec malgré des doses élevées de corticoïdes, le cyclophosphamide, les immunosuppresseurs et les biothérapies (rituximab, bélimumab, télitacicept). Les CAR-T anti-CD19 autologues ont obtenu des rémissions dans des séries de lupus réfractaire.\n\nCD70 est exprimé sur des lymphocytes T et B activés, ce qui motive une approche ciblant les cellules immunitaires activées plutôt que l'ensemble des lymphocytes B. Le CHT101 est un CAR-T universel (allogénique) dirigé contre CD70.\n\nCette étude de phase 1 à promotion académique, ouverte et monobras, est menée à l'hôpital Drum Tower de Nanjing. Elle prévoit environ 15 patients de 18 à 65 ans, avec un lupus actif (SLEDAI-2K > 6, BILAG A ou deux B) en échec du traitement conventionnel ou en rechute. Les critères principaux sont la réponse SRI-4 au mois 3 et la tolérance à 12 mois.",
+ "interet": "L'étude apportera des premiers résultats de tolérance et d'efficacité d'un CAR-T allogénique ciblant une nouvelle protéine dans le lupus. Elle reste exploratoire, sans comparateur.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique actif, réfractaire ou en rechute.",
+ "inclusion": [
+  "Lupus selon les critères EULAR/ACR 2019",
+  "SLEDAI-2K > 6, au moins un BILAG A ou deux BILAG B",
+  "Échec du traitement conventionnel (corticoïdes ≥ 1 mg/kg/jour, cyclophosphamide, immunosuppresseurs ou biothérapie) ou rechute après rémission",
+  "Âge de 18 à 65 ans",
+  "Fonctions d'organe adéquates (clairance ≥ 60 mL/min, FEVG ≥ 55 %)",
+  "Contraception pendant 1 an après le traitement"
+ ],
+ "exclusion": [
+  "Lupus neuropsychiatrique",
+  "Antécédent de purpura thrombotique thrombocytopénique ou de microangiopathie thrombotique",
+  "Allergie médicamenteuse sévère",
+  "Infection active ou suspectée non contrôlée",
+  "Atteinte du système nerveux central d'origine auto-immune"
+ ],
+ "bras": [
+  { "nom": "CAR-T universel anti-CD70", "traitement": "Perfusion de CHT101 ; dose et schéma de lymphodéplétion non précisés" }
+ ],
+ "duree": "12 mois",
+ "critere": "Réponse SRI-4 au mois 3 après la perfusion et tolérance dans les 12 mois"
+}

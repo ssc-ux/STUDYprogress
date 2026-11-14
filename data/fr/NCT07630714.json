@@ -1,0 +1,35 @@
+{
+ "h": "5d26e4ec5321",
+ "date": "2026-11-14",
+ "titre": "Anifrolumab sous-cutané chez l'enfant atteint de lupus",
+ "question": "Quelles sont la pharmacocinétique, la pharmacodynamie et la tolérance de l'anifrolumab sous-cutané chez des enfants de 5 à moins de 18 ans ayant un lupus ?",
+ "contexte": "Le lupus systémique de l'enfant est plus sévère que celui de l'adulte, avec davantage d'atteintes rénales et neuropsychiatriques, et expose à une corticothérapie prolongée pendant la croissance. Peu de traitements ciblés disposent d'une autorisation en pédiatrie ; le bélimumab est l'une des rares biothérapies disponibles.\n\nL'anifrolumab est un anticorps dirigé contre le récepteur de l'interféron de type I. Il est autorisé chez l'adulte atteint de LES modéré à sévère en perfusion intraveineuse, et une forme sous-cutanée est développée. Cette étude de phase 2 ouverte d'AstraZeneca inclut 24 enfants et adolescents dans deux cohortes selon le poids (> 40 kg et 15 à 40 kg), en plus du traitement habituel. Elle comprend une période de traitement de 12 semaines, un ajustement possible de la posologie, une extension optionnelle et un suivi de sécurité. Les critères principaux sont pharmacocinétiques (Cmax, ASC, tmax) ; l'étude vise à documenter l'exposition pour extrapoler les doses pédiatriques, pas à prouver l'efficacité.",
+ "interet": "Ces données de dose pourraient soutenir une extension pédiatrique de l'anifrolumab et une administration plus simple par seringue pré-remplie.",
+ "profil": "Des enfants et adolescents de 5 à 17 ans pesant au moins 15 kg, atteints de lupus modéré à sévère.",
+ "inclusion": [
+  "Diagnostic de LES",
+  "Traitement de fond depuis au moins 4 semaines (corticoïdes, antipaludéen ou un immunosuppresseur à dose limitée)",
+  "SLEDAI-2K ≥ 6",
+  "Poids ≥ 15 kg",
+  "Contraception selon la réglementation locale"
+ ],
+ "exclusion": [
+  "Interféronopathie autoinflammatoire connue",
+  "Vascularite non liée au lupus cliniquement significative",
+  "Atteinte rénale lupique sévère active avec protéinurie importante",
+  "Lupus neuropsychiatrique sévère ou instable",
+  "Idées ou comportements suicidaires récents (≥ 11 ans, échelle C-SSRS)"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte 1 (> 40 kg)",
+   "traitement": "Anifrolumab sous-cutané par seringue pré-remplie (dose non précisée)"
+  },
+  {
+   "nom": "Cohorte 2 (15 à 40 kg)",
+   "traitement": "Anifrolumab sous-cutané par seringue pré-remplie (dose non précisée)"
+  }
+ ],
+ "duree": "Période de traitement de 12 semaines, extension optionnelle jusqu'à 40 semaines, suivi de 12 semaines",
+ "critere": "Concentration sérique maximale (Cmax), ASC et tmax de l'anifrolumab après la première dose (jours 1 à 8 ou 1 à 11)"
+}

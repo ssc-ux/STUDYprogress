@@ -1,0 +1,14 @@
+{
+ "h": "b2fbea2ddf17",
+ "date": "2026-11-14",
+ "titre": "Cohorte de suivi à long terme du lupus à l'hôpital universitaire du Peuple de Pékin",
+ "question": "Quelle proportion de patients lupiques atteint et maintient un état de faible activité (LLDAS) sur 5 à 10 ans, et quels sont leurs devenirs à long terme ?",
+ "contexte": "Le lupus systémique est une maladie chronique et hétérogène, responsable de dommages d'organes cumulatifs, d'une qualité de vie altérée et d'une mortalité prématurée. Les traitements immunosuppresseurs ont amélioré le contrôle de la maladie, mais prédire l'évolution à long terme reste difficile.\n\nLa cible thérapeutique actuelle est la rémission ou, à défaut, un état de faible activité (LLDAS, Lupus Low Disease Activity State), associé à moins de dommages et de poussées. Les données sur les populations chinoises sont encore limitées.\n\nCette cohorte prospective monocentrique de Pékin inclut 1000 adultes lupiques selon les critères ACR 1997, SLICC 2012 ou EULAR/ACR 2019. Ils sont suivis jusqu'à 10 ans avec recueil régulier des données cliniques, biologiques, thérapeutiques et rapportées par les patients, avec un focus sur les indices validés d'activité.",
+ "interet": "Les données aideront à individualiser la prise en charge et à mieux décrire l'évolution du lupus dans la population chinoise. Cohorte monocentrique, donc généralisation limitée.",
+ "profil": "Des adultes atteints de lupus systémique suivis dans un hôpital universitaire de Pékin.",
+ "inclusion": ["Lupus répondant à au moins un jeu de critères : ACR 1997, SLICC 2012 ou EULAR/ACR 2019", "Âge > 18 ans", "Capacité à donner un consentement écrit"],
+ "exclusion": ["Patients de moins de 18 ans", "Patients incapables de consentir"],
+ "bras": [{"nom": "Cohorte de lupus systémique", "traitement": "Suivi prospectif jusqu'à 10 ans (évaluations cliniques, biologiques, traitements, questionnaires) ; aucune intervention imposée"}],
+ "duree": "Jusqu'à 10 ans",
+ "critere": "Proportion de patients atteignant et maintenant un état de faible activité (LLDAS), sur environ 5 à 10 ans"
+}

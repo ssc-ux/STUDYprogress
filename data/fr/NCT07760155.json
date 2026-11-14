@@ -1,0 +1,14 @@
+{
+ "h": "874410b2cb5a",
+ "date": "2026-11-14",
+ "titre": "ESG206, anticorps anti-BAFF-R, contre placebo dans le lupus érythémateux systémique (phase 2)",
+ "question": "L'anticorps anti-BAFF-R ESG206 augmente-t-il la réponse SRI-4 à la semaine 25 par rapport au placebo chez des patients lupiques ?",
+ "contexte": "Le lupus érythémateux systémique (LES) reste mal contrôlé chez de nombreux patients malgré le traitement standard. Le bélimumab, anti-BAFF soluble, est la référence des inhibiteurs de la voie BAFF, mais la réponse est partielle et les besoins thérapeutiques persistent.\n\nESG206 est un anticorps monoclonal dirigé contre le récepteur de BAFF (BAFF-R), exprimé à la surface des lymphocytes B. Cibler le récepteur plutôt que le ligand vise une déplétion plus directe des cellules B. L'étude de phase 2 de Shanghai Escugen Biotechnology est multicentrique, randomisée, en quadruple aveugle et contrôlée par placebo, avec 40 patients répartis entre deux doses d'ESG206 et un placebo. Les critères d'inclusion détaillés ne sont pas précisés, mais les patients doivent avoir un LES actif confirmé. Le critère principal est la réponse SRI-4 à la semaine 25.",
+ "interet": "Les résultats indiqueront si l'inhibition de BAFF-R mérite un développement de phase 3. L'effectif réduit limitera la précision des estimations.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif.",
+ "inclusion": ["Âge ≥ 18 ans", "Diagnostic confirmé de LES", "Maladie active au dépistage", "Consentement écrit"],
+ "exclusion": ["Autre maladie auto-immune gênant l'évaluation du LES", "Traitement immunomodulateur interdit, antérieur ou récent", "Infection, cancer ou affection non contrôlée cliniquement significative", "Grossesse ou allaitement"],
+ "bras": [{"nom": "ESG206 forte dose", "traitement": "ESG206, dose élevée, schéma non précisé"}, {"nom": "ESG206 faible dose", "traitement": "ESG206, dose faible, schéma non précisé"}, {"nom": "Placebo", "traitement": "Placebo"}],
+ "duree": "Environ 25 semaines pour le critère principal",
+ "critere": "Taux de réponse SRI-4 à la semaine 25 par rapport au placebo"
+}

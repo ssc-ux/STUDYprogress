@@ -1,0 +1,28 @@
+{
+ "h": "8bad0b2385e3r",
+ "date": "2026-11-14",
+ "titre": "Extension ouverte du fipaxalparant (HZN-825) dans la sclérodermie cutanée diffuse",
+ "question": "Le fipaxalparant garde-t-il une efficacité et une tolérance acceptables pendant 52 semaines supplémentaires en ouvert dans la sclérodermie diffuse ?",
+ "contexte": "La sclérodermie systémique cutanée diffuse est une maladie fibrosante dont l'atteinte pulmonaire interstitielle est la première cause de mortalité. Les traitements disponibles sont limités.\n\nLe fipaxalparant (HZN-825) est un antagoniste oral du récepteur LPA1 de l'acide lysophosphatidique, médiateur impliqué dans la fibrose. Il a été évalué contre placebo dans l'essai de phase 2 HZNP-HZN-825-301 (NCT04781543).\n\nCette extension ouverte de 52 semaines, promue par Amgen (après acquisition d'Horizon), propose 300 mg deux fois par jour aux patients ayant terminé la période en aveugle. Les objectifs principaux sont l'évolution de la CVF et la tolérance. L'étude a été arrêtée prématurément.",
+ "interet": "L'extension apporte des données de tolérance à long terme et d'évolution de la CVF sous traitement ouvert. Sans comparateur et sur de petits effectifs, elle ne permet pas de conclure à l'efficacité.",
+ "profil": "Des adultes de 18 à 75 ans atteints de sclérodermie cutanée diffuse ayant terminé l'essai de phase 2 en aveugle.",
+ "inclusion": [
+  "Période en aveugle de 52 semaines terminée dans l'essai HZNP-HZN-825-301",
+  "Arrêt prématuré du traitement pour une raison autre que la tolérance : inclusion possible à la discrétion de l'investigateur",
+  "Âge de 18 à 75 ans"
+ ],
+ "exclusion": [
+  "Autre agent expérimental prévu pendant l'étude",
+  "Nouveau cancer depuis l'inclusion dans l'essai parent (sauf carcinome cutané ou col in situ traité)",
+  "Contraception efficace non acceptée",
+  "Nouvelle évolution de la maladie ou anomalie biologique faisant courir un risque inacceptable",
+  "Grossesse ou allaitement",
+  "Risque de non-observance ou maladie associée gênante, selon l'investigateur"
+ ],
+ "bras": [
+  { "nom": "Fipaxalparant en ouvert", "traitement": "300 mg par voie orale deux fois par jour pendant 52 semaines" }
+ ],
+ "duree": "52 semaines",
+ "critere": "Variation de la CVF en % de la théorique à la semaine 52 et tolérance (événements indésirables, dont ceux d'intérêt particulier)",
+ "resultats": "L'étude a été arrêtée prématurément (durée médiane sous traitement de 8,5 mois). Chez les patients analysés pour la CVF, la variation moyenne à la semaine 52 était de -1,36 points de % de la théorique (écart type 8,46 ; n = 14) pour les patients venus du bras 300 mg une fois par jour, de -7,95 (15,36 ; n = 15) pour ceux venus du bras 300 mg deux fois par jour et de -0,82 (4,09 ; n = 13) pour ceux venus du placebo. Des événements indésirables graves ont été rapportés chez 2 patients sur 62, 2 sur 53 et 5 sur 59 dans ces trois groupes, sans décès. Les effectifs réduits et l'absence de comparateur ne permettent pas de conclusion."
+}

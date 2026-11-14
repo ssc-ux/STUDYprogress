@@ -1,0 +1,28 @@
+{
+ "h": "9a781a654ba7",
+ "date": "2026-11-14",
+ "titre": "Dysfonction du plancher pelvien chez des femmes sclérodermiques avec atteinte pulmonaire",
+ "question": "Quelle est la fréquence de la dysfonction du plancher pelvien chez les femmes atteintes de sclérodermie avec atteinte pulmonaire, et quels liens avec la fonction respiratoire et la capacité à l'effort ?",
+ "contexte": "La sclérodermie systémique (ScS) associe atteinte vasculaire, anomalies immunitaires et fibrose cutanée et viscérale. L'atteinte pulmonaire, en particulier la pneumopathie interstitielle diffuse, est l'une des manifestations les plus fréquentes et graves, avec un retentissement sur la fonction respiratoire, la force des muscles respiratoires et la capacité d'exercice.\n\nLes troubles du plancher pelvien (incontinence urinaire ou fécale, prolapsus, douleurs pelviennes, dysfonction sexuelle) sont décrits dans la ScS. Le plancher pelvien fait partie du système musculaire du tronc et travaille avec le diaphragme et les abdominaux pour réguler la pression intra-abdominale. Une atteinte respiratoire pourrait donc retentir sur sa fonction.\n\nCette étude observationnelle de l'Université de Biruni (Turquie) évalue chez 37 femmes les liens entre dysfonction pelvienne, fonction respiratoire, endurance du tronc, composition corporelle, fonction sexuelle et capacité fonctionnelle.",
+ "interet": "L'étude explore une comorbidité peu recherchée. Elle peut encourager le dépistage systématique des troubles pelviens et orienter vers des prises en charge de kinésithérapie.",
+ "profil": "Des femmes de 18 à 70 ans atteintes de sclérodermie systémique avec atteinte pulmonaire.",
+ "inclusion": [
+  "Sclérodermie systémique selon les critères EULAR/ACR 2013",
+  "Atteinte pulmonaire",
+  "Femme âgée de 18 à 70 ans"
+ ],
+ "exclusion": [
+  "Comorbidité chronique sévère",
+  "Autre maladie rhumatologique",
+  "Déficience auditive ou visuelle",
+  "Trouble neurologique, cardiovasculaire ou orthopédique associé"
+ ],
+ "bras": [
+  {
+   "nom": "Femmes avec ScS et atteinte pulmonaire",
+   "traitement": "Évaluations sans traitement : plancher pelvien, fonction respiratoire, endurance du tronc, composition corporelle, fonction sexuelle, capacité fonctionnelle"
+  }
+ ],
+ "duree": "Évaluation unique à l'inclusion",
+ "critere": "Score total du Pelvic Floor Distress Inventory-20 à l'inclusion"
+}

@@ -1,0 +1,14 @@
+{
+ "h": "4a98aca897f2",
+ "date": "2026-11-14",
+ "titre": "Athérosclérose infraclinique dans le lupus de l'enfant (épaisseur intima-média carotidienne)",
+ "question": "L'épaisseur intima-média carotidienne est-elle augmentée chez les enfants lupiques, et par quels facteurs de risque est-elle associée ?",
+ "contexte": "Le lupus systémique de l'enfant et de l'adolescent représente 10 à 20 % des lupus et a souvent une évolution plus sévère que chez l'adulte. Les maladies cardiovasculaires sont devenues une cause majeure de morbidité et de mortalité dans le lupus, avec un risque multiplié par 2 à 10 par rapport à la population générale, et jusqu'à 50 chez la jeune femme.\n\nUne athérosclérose infraclinique serait présente chez jusqu'à 32 % des enfants lupiques. Elle résulte de facteurs classiques (dyslipidémie, hypertension, obésité) et de facteurs liés à la maladie : activité persistante, néphrite lupique, corticothérapie prolongée, dérégulation immunitaire.\n\nL'épaisseur intima-média carotidienne (EIMC), mesurée par échographie en mode B, est un marqueur de substitution validé, non invasif, utilisé notamment dans l'étude APPLE. Cette étude observationnelle de l'Université d'Assiout (Égypte) inclut 70 enfants et adolescents lupiques évoluant depuis au moins 6 mois. Elle compare leur EIMC à celle de témoins sains appariés sur l'âge et le sexe, et cherche des associations avec les facteurs de risque. Ces associations sont mal connues dans la région.",
+ "interet": "Les résultats pourraient justifier un dépistage échographique précoce et un contrôle plus strict des facteurs de risque chez l'enfant lupique. L'étude est transversale et de petite taille.",
+ "profil": "Des enfants et adolescents de moins de 18 ans atteints de lupus systémique évoluant depuis au moins 6 mois, et des témoins sains.",
+ "inclusion": ["Âge < 18 ans", "Lupus systémique juvénile (critères SLICC 2012)", "Durée d'évolution d'au moins 6 mois", "Suivi régulier dans le centre de l'étude"],
+ "exclusion": ["Autre maladie auto-immune ou syndrome de chevauchement (connectivite mixte, dermatomyosite juvénile)", "Cardiopathie congénitale ou anomalie cardiovasculaire structurelle connue", "Insuffisance rénale chronique de stade 4 ou 5", "Traitement hypolipémiant en cours"],
+ "bras": [{"nom": "Lupus juvénile", "traitement": "Échographie carotidienne (EIMC) et recueil des facteurs de risque"}, {"nom": "Témoins sains", "traitement": "Échographie carotidienne, appariés sur l'âge et le sexe"}],
+ "duree": "Évaluation à l'inclusion",
+ "critere": "Valeurs d'EIMC chez les enfants lupiques comparées à celles de témoins sains appariés, à l'inclusion"
+}

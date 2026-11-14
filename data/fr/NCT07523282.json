@@ -1,0 +1,14 @@
+{
+ "h": "f2cb6d7dd0b2",
+ "date": "2026-11-14",
+ "titre": "HN2302 dans le lupus systémique et la sclérodermie systémique",
+ "question": "Le HN2302 est-il sûr et montre-t-il une activité préliminaire chez des patients avec lupus ou sclérodermie systémique ?",
+ "contexte": "Le lupus systémique et la sclérodermie systémique sont des maladies auto-immunes graves, dont les formes réfractaires restent difficiles à traiter. Les thérapies cellulaires ciblant les lymphocytes B, comme les CAR-T anti-CD19, ont montré des rémissions prolongées dans de petites séries, mais leur fabrication ex vivo est lourde et coûteuse.\n\nLe HN2302, développé par la société chinoise Shenzhen MagicRNA, est administré par injection. Le registre ne détaille pas sa nature. L'exclusion des patients ayant reçu récemment un produit à base de nanoparticules lipidiques (ARNm-LNP) suggère toutefois une approche de type ARNm-LNP, par exemple pour produire des CAR-T in vivo ; ce point n'est pas confirmé par le registre. Il s'agit d'une étude de phase 1 ouverte, à bras unique, de 12 patients, dans un seul centre chinois (hôpital affilié à l'université des sciences et technologies de Chine). Elle évalue d'abord la tolérance, puis une efficacité préliminaire, avec un suivi d'un an.",
+ "interet": "Cette étude pourrait donner les premières données de tolérance d'un nouveau traitement dans deux maladies auto-immunes. Elle sert de preuve de concept avant d'éventuels essais plus larges.",
+ "profil": "Des adultes de 18 à 69 ans avec un lupus systémique ou une sclérodermie systémique active.",
+ "inclusion": ["Âge de 18 à 69 ans", "Lupus : critères EULAR/ACR 2019, évolution ≥ 6 mois, ANA et/ou anti-ADN natif positifs et/ou hypocomplémentémie", "Sclérodermie : critères ACR/EULAR 2013, forme cutanée limitée ou diffuse avec atteinte cutanée nouvelle ou progressive dans les 6 mois", "Fonctions médullaire, hépatique, rénale, cardiopulmonaire et coagulation adéquates", "Contraception efficace 12 mois après la perfusion"],
+ "exclusion": ["Hépatite B ou C active, VIH, CMV ou syphilis positifs", "Autre infection active non contrôlée", "Greffe d'organe ou de cellules souches", "Produit ARNm-LNP ou autre nanoparticule lipidique dans les 2 ans", "Maladie cardiovasculaire significative dans les 6 mois", "Vaccin vivant dans les 30 jours", "Asthme ou allergie sévère, grossesse ou allaitement"],
+ "bras": [{ "nom": "HN2302", "traitement": "Injection de HN2302 à la dose et aux jours prévus (dose non précisée)" }],
+ "duree": "Dépistage jusqu'à 4 semaines, puis suivi de 1 an",
+ "critere": "Incidence des événements indésirables survenus sous traitement, jusqu'à 3 mois"
+}

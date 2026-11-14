@@ -1,0 +1,31 @@
+{
+ "h": "f00523bd55c5",
+ "date": "2026-11-14",
+ "titre": "Transfert placentaire du dapirolizumab pégol chez des femmes enceintes atteintes de lupus actif",
+ "question": "Quelle quantité de dapirolizumab pégol passe de la mère au nourrisson à travers le placenta ?",
+ "contexte": "Le lupus touche surtout des femmes en âge de procréer, et la grossesse lupique est à risque de poussée, de prééclampsie, de prématurité et de pertes fœtales. L'arsenal compatible avec la grossesse est limité, ce qui laisse peu de choix aux patientes actives.\n\nLe dapirolizumab pégol (DZP) est un fragment Fab' pégylé anti-CD40L, évalué dans le lupus actif chez l'adulte. Les anticorps IgG complets traversent activement le placenta via le récepteur FcRn. Un fragment Fab' pégylé sans fragment Fc devrait passer très peu, mais cela doit être mesuré chez la femme enceinte.\n\nCette étude de phase 1 d'UCB inclut environ 25 femmes enceintes lupiques, traitées par DZP en IV pendant les 2e et 3e trimestres, puis jusqu'à un an après l'accouchement si elles n'allaitent pas. Les concentrations plasmatiques sont mesurées chez les mères à l'accouchement et chez les nouveau-nés à la naissance.",
+ "interet": "Elle pourrait renseigner sur l'exposition fœtale au DZP, une donnée nécessaire avant toute utilisation chez la femme enceinte. L'étude ne mesure pas l'efficacité.",
+ "profil": "Des femmes enceintes de 18 à 45 ans atteintes de lupus actif, et leurs nourrissons.",
+ "inclusion": [
+  "Âge de 18 à 45 ans",
+  "Grossesse entre 14 et 28 semaines de gestation à la première dose",
+  "Pas d'exposition antérieure au DZP",
+  "LES diagnostiqué par un médecin qualifié",
+  "Capacité à suivre le protocole et les visites"
+ ],
+ "exclusion": [
+  "Affection obstétricale non auto-immune à risque élevé de perte de grossesse",
+  "Pathologie fœtale ou maternelle compromettant la participation ou l'issue",
+  "Abus chronique d'alcool ou de drogue dans les 24 semaines",
+  "Hypersensibilité au DZP, au polyéthylène glycol ou aux produits comparateurs",
+  "Autres critères non précisés dans le résumé du registre"
+ ],
+ "bras": [
+  {
+   "nom": "Dapirolizumab pégol",
+   "traitement": "Perfusions IV au 2e et 3e trimestres, poursuite jusqu'à 1 an après l'accouchement si pas d'allaitement"
+  }
+ ],
+ "duree": "De la grossesse à l'accouchement, puis jusqu'à 1 an",
+ "critere": "Concentrations plasmatiques de DZP chez le nourrisson à la naissance et chez la mère à l'accouchement, et leur rapport"
+}

@@ -1,0 +1,38 @@
+{
+ "h": "d7fe80ed370a",
+ "date": "2026-11-14",
+ "titre": "Entraînement fractionné à haute intensité et renforcement musculaire dans le lupus",
+ "question": "Un entraînement fractionné à haute intensité associé au renforcement musculaire est-il sûr et améliore-t-il la capacité aérobie et physique des patients lupiques ?",
+ "contexte": "Les patients lupiques ont souvent une capacité physique réduite, de la fatigue et un risque cardiovasculaire accru. L'activité physique est recommandée, mais l'entraînement fractionné à haute intensité (HIIT) y a été peu évalué, notamment sur l'activité de la maladie et l'immunité.\n\nCette étude randomisée du Karolinska Institutet inclut 40 adultes avec lupus à activité faible ou modérée (SLEDAI-2K clinique ≤ 5) et peu ou pas de dommage d'organe (SLICC/ACR DI ≤ 3). Le programme associe des séances supervisées sur ergocycle en intervalles de 4×4 minutes à 85-90 % de la fréquence cardiaque maximale à des exercices de renforcement, pendant 3 mois, puis 3 mois supplémentaires d'entraînement autonome avec soutien par visioconférence ou téléphone. Le groupe témoin garde les soins habituels. L'étude compare la capacité aérobie et fonctionnelle, mais aussi l'activité de la maladie, la fatigue, la dépression, la qualité de vie, la fonction immunitaire et le vécu des patients.",
+ "interet": "L'étude fournira des données de sécurité et d'efficacité contrôlées sur le HIIT dans le lupus, utiles pour la prescription d'activité physique adaptée.",
+ "profil": "Des adultes atteints de lupus à faible ou modérée activité, avec peu de dommage d'organe.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Lupus selon les critères ACR 1982, SLICC 2012, EULAR/ACR, ou diagnostic clinique",
+  "Activité faible à modérée : SLEDAI-2K clinique ≤ 5",
+  "Dommage d'organe faible ou nul : SLICC/ACR DI ≤ 3",
+  "Traitement médicamenteux stable",
+  "Capable de réaliser un test d'effort maximal sur ergocycle",
+  "Lire et comprendre le suédois"
+ ],
+ "exclusion": [
+  "Maladie cérébrovasculaire, embolie pulmonaire, HTAP, fibrose pulmonaire, maladie cardiovasculaire, angor ou infarctus dans l'année",
+  "Hypertension ou diabète non contrôlés",
+  "Contre-indication absolue au test d'effort maximal (American Heart Association)",
+  "Incapacité à réaliser le test d'effort du fait de la maladie",
+  "Entraînement régulier d'endurance et de force > 1 fois/semaine",
+  "Grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "HIIT + renforcement",
+   "traitement": "Ergocycle 4×4 min à 85-90 % de la FC max, renforcement musculaire, supervisé 3 mois puis autonome 3 mois"
+  },
+  {
+   "nom": "Témoin",
+   "traitement": "Soins habituels, sans intervention"
+  }
+ ],
+ "duree": "6 mois",
+ "critere": "Capacité aérobie et capacité physique à l'inclusion, à 3 et 6 mois"
+}

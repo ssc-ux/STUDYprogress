@@ -1,0 +1,31 @@
+{
+ "h": "af5d751348a5r",
+ "date": "2026-11-14",
+ "titre": "PF-06823859 dans le lupus cutané ou le LES avec atteinte cutanée active",
+ "question": "PF-06823859, anticorps anti-interféron bêta, réduit-il la signature interféron et l'activité cutanée chez des patients atteints de lupus cutané ?",
+ "contexte": "Le lupus cutané (LEC : subaigu, discoïde) et le lupus systémique (LES) avec atteinte cutanée sont marqués par une signature interféron de type I élevée dans les lésions. Les traitements actuels (photoprotection, dermocorticoïdes, antipaludéens, immunosuppresseurs) sont souvent insuffisants, surtout dans les formes discoïdes et chroniques.\n\nPF-06823859 est un anticorps monoclonal dirigé contre l'interféron bêta, développé par Pfizer. Cibler spécifiquement cet interféron pourrait cibler la voie du lupus cutané sans bloquer toute la signalisation interféron de type I.\n\nCette étude de phase 2 randomisée en double aveugle contre placebo, par perfusions IV, prévoyait environ 48 patients (CLASI-A ≥ 8), avec passage des patients sous placebo vers le traitement actif à la semaine 16. Elle a été arrêtée prématurément, avec seulement 8 patients inclus.",
+ "interet": "Les données sont très limitées en raison de l'arrêt précoce. L'étude illustre l'intérêt d'un ciblage de l'interféron bêta dans le lupus cutané, qui reste à démontrer.",
+ "profil": "Des adultes de 18 à 75 ans atteints de lupus cutané actif ou de LES avec atteinte cutanée (CLASI-A ≥ 8).",
+ "inclusion": [
+  "LEC ou LES avec lupus cutané subaigu et/ou discoïde, confirmé histologiquement, depuis ≥ 3 mois",
+  "CLASI-A ≥ 8",
+  "Accès veineux adéquat pour les perfusions",
+  "Acceptation des biopsies cutanées",
+  "Poids de 40 à 130 kg"
+ ],
+ "exclusion": [
+  "Autre maladie cutanée que le LEC ou le LES",
+  "Néphrite lupique sévère nécessitant des cytotoxiques ou de fortes doses de corticoïdes",
+  "Lupus du système nerveux central sévère nécessitant un traitement dans les 60 jours",
+  "Cancer dans les 5 ans (sauf carcinome cutané ou in situ du col traité)",
+  "Événement cardio- ou cérébrovasculaire majeur dans les 24 mois, HTAP, embolie pulmonaire dans les 6 mois",
+  "Infection grave, zona disséminé ou récidivant, hépatite B ou C, VIH, tuberculose active ou latente"
+ ],
+ "bras": [
+  { "nom": "Groupe 1", "traitement": "PF-06823859 IV toutes les 4 semaines, puis toutes les 8 semaines" },
+  { "nom": "Groupe 2", "traitement": "Placebo IV toutes les 4 semaines, puis PF-06823859 toutes les 8 semaines" }
+ ],
+ "duree": "Non précisé ; critère principal à la semaine 12, bascule à la semaine 16",
+ "critere": "Variation de la signature interféron de type 1 dans la peau lésionnelle à la semaine 12",
+ "resultats": "L'étude a été arrêtée prématurément et n'a analysé que 7 patients pour le critère principal. La variation moyenne ajustée de la signature interféron de type 1 dans la peau lésionnelle à la semaine 12 était de -1,1 log2(CPM) (IC 90 % -3,0 à 0,8 ; n = 5) dans le groupe PF-06823859 et de -1,6 (IC 90 % -4,9 à 1,8 ; n = 2) dans le groupe placebo. La différence ajustée est de 0,5 (IC 90 % -3,7 à 4,6 ; p = 0,82). Aucun événement indésirable grave et aucun décès n'ont été rapportés dans aucun groupe. Les effectifs sont trop faibles pour toute conclusion d'efficacité."
+}

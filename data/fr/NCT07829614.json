@@ -1,0 +1,26 @@
+{
+ "h": "1aeb6cfa2c24",
+ "date": "2026-11-14",
+ "titre": "F182112, anticorps bispécifique anti-BCMA/CD3, dans le lupus systémique (phase 1b)",
+ "question": "Le F182112 est-il bien toléré chez des patients atteints de lupus systémique, et à quelle dose ?",
+ "contexte": "Le lupus érythémateux systémique est une maladie auto-immune où les lymphocytes B et les plasmocytes producteurs d'autoanticorps sont au cœur de la physiopathologie. Les traitements de déplétion B ciblant CD20 (rituximab) ou CD19 (CAR-T) épargnent les plasmocytes à longue durée de vie, qui n'expriment pas ces marqueurs, ce qui explique des réponses parfois incomplètes.\n\nLe F182112 est un anticorps bispécifique humanisé recombinant ciblant à la fois CD3 (lymphocytes T effecteurs) et BCMA (exprimé par les plasmocytes et certains lymphocytes B), qui redirige les lymphocytes T vers ces cellules. Les anticorps bispécifiques de ce type, développés dans le myélome, sont étudiés dans les maladies auto-immunes. Cette phase 1b de Shandong New Time Pharmaceutical, ouverte et à un seul bras, inclut 64 adultes de 18 à 65 ans atteints de lupus et évalue d'abord la tolérance.",
+ "interet": "Elle explore une déplétion plasmocytaire par engagement des lymphocytes T dans le lupus, avec de premières données de tolérance.",
+ "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique depuis au moins 12 semaines.",
+ "inclusion": [
+  "Âge de 18 à 65 ans, tout sexe",
+  "LES diagnostiqué depuis ≥ 12 semaines selon EULAR/ACR 2019",
+  "Capacité à comprendre l'étude et consentement signé"
+ ],
+ "exclusion": [
+  "Traitement antérieur ciblant BCMA",
+  "Traitement de déplétion B (anti-CD20, anti-CD19, etc.) ou anti-plasmocytaire dans les 6 mois ou 5 demi-vies"
+ ],
+ "bras": [
+  {
+   "nom": "F182112",
+   "traitement": "Anticorps bispécifique anti-BCMA/CD3 par voie injectable ; dose et rythme non précisés"
+  }
+ ],
+ "duree": "Non précisé (observation des toxicités sur 28 jours après la première administration pour le critère principal)",
+ "critere": "Incidence des événements indésirables et graves pendant la période d'observation des toxicités limitant la dose (28 jours après la première administration)"
+}
