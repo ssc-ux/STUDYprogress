@@ -14,15 +14,29 @@
  "exclusion": [
   "Autre forme d'angiœdème chronique : acquis, AOH à C1-INH normal (type 3), idiopathique, associé à l'urticaire",
   "Traitement de fond de l'AOH pendant l'étude, ou lors du délai de sevrage avant la pré-inclusion",
-  "Délais de sevrage : acide tranexamique et androgènes oraux 3 jours, C1-INH plasmatique 14 jours, bérotralstat 21 jours, lanadelumab 70 jours, garadacimab 90 jours",
-  "Autres critères d'exclusion : non précisés dans le résumé retenu"
+  "Délais de sevrage : acide tranexamique et androgènes oraux 3 jours, C1-INH plasmatique 14 jours, bérotralstat 21 jours, lanadelumab 70 jours, garadacimab 90 jours"
  ],
  "bras": [
-  {"nom": "Adultes : navenibart, schéma 1", "traitement": "600 mg tous les 3 mois"},
-  {"nom": "Adultes : navenibart, schéma 2", "traitement": "600 mg à J1, puis 300 mg tous les 3 mois à partir du mois 3"},
-  {"nom": "Adultes : navenibart, schéma 3", "traitement": "600 mg tous les 6 mois"},
-  {"nom": "Adultes : placebo", "traitement": "Placebo tous les 3 mois"},
-  {"nom": "Adolescents : navenibart", "traitement": "600 mg à J1, puis 300 mg tous les 3 mois à partir du mois 3"}
+  {
+   "nom": "Adultes : navenibart, schéma 1",
+   "traitement": "600 mg tous les 3 mois"
+  },
+  {
+   "nom": "Adultes : navenibart, schéma 2",
+   "traitement": "600 mg à J1, puis 300 mg tous les 3 mois à partir du mois 3"
+  },
+  {
+   "nom": "Adultes : navenibart, schéma 3",
+   "traitement": "600 mg tous les 6 mois"
+  },
+  {
+   "nom": "Adultes : placebo",
+   "traitement": "Placebo tous les 3 mois"
+  },
+  {
+   "nom": "Adolescents : navenibart",
+   "traitement": "600 mg à J1, puis 300 mg tous les 3 mois à partir du mois 3"
+  }
  ],
  "duree": "Période de traitement de 6 mois, précédée d'une période de pré-inclusion (durée non précisée)",
  "critere": "Nombre de crises d'angiœdème héréditaire confirmées par l'investigateur, normalisé par le temps, du jour 1 au jour 181."

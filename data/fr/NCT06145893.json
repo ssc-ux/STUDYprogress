@@ -16,7 +16,11 @@
  "exclusion": [
   "Atteinte active d'organe majeur nécessitant un immunosuppresseur (poumon, vaisseaux, tube digestif, système nerveux central)",
   "Cardiopathie significative ou anomalies ECG sur les 6 mois précédents",
-  "Autres critères d'exclusion non détaillés dans ce résumé (non précisé)"
+  "Immunomodulateurs ou biothérapies récents dans les délais du protocole (colchicine, azathioprine, ciclosporine, méthotrexate, JAK, anti-TNF, sécukinumab…)",
+  "Corticoïdes systémiques ou intra-articulaires récents",
+  "Hémoglobine ≤ 85 g/L, plaquettes < 100 G/L, créatinine > 1,5 mg/dL, ALAT et ASAT ≥ 1,5 × LSN",
+  "Infection active ou chronique (tuberculose, VHB, VHC, VIH, syphilis), greffe ou immunodéficience",
+  "Cancer dans les 5 ans, grossesse ou allaitement, apremilast antérieur"
  ],
  "bras": [
   {

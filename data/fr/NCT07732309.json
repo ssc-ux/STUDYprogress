@@ -11,17 +11,22 @@
   "Consentement éclairé signé",
   "Capacité à respecter le calendrier des visites",
   "Contraception efficace jusqu'à 48 semaines après la dernière dose",
-  "Critères propres à chaque maladie : non précisés dans les données consultées"
+  "Hommes : contraception barrière efficace jusqu'à 48 semaines après la dernière dose"
  ],
  "exclusion": [
   "Intolérance ou allergie au produit ou à un médicament concomitant (tocilizumab)",
   "Atteinte du système nerveux central, auto-immune ou non",
   "Syndrome des antiphospholipides catastrophique ou sévère dans les 12 mois",
   "Pneumopathie interstitielle sévère (oxygénodépendante) ou rapidement progressive",
-  "Maladie intercurrente non contrôlée, greffe d'organe ou de cellules souches"
+  "Maladie intercurrente non contrôlée, greffe d'organe ou de cellules souches",
+  "IgIV, plasmaphérèse, hémodialyse, cyclophosphamide IV ou prednisone > 60 mg/j dans les 2 mois précédents",
+  "Vaccin vivant dans les 28 jours ; risque suicidaire sérieux"
  ],
  "bras": [
-  { "nom": "ATG-201", "traitement": "Escalade de dose (partie I) puis expansion (partie II) ; doses et rythme non précisés" }
+  {
+   "nom": "ATG-201",
+   "traitement": "Escalade de dose (partie I) puis expansion (partie II) ; doses et rythme non précisés"
+  }
  ],
  "duree": "48 semaines",
  "critere": "Tolérance et sécurité (événements indésirables), sur 48 semaines"

@@ -15,10 +15,13 @@
   "Consentement éclairé des patients ou de leurs parents ou représentants légaux"
  ],
  "exclusion": [
-  "Non précisé"
+  "Aucun critère d'exclusion distinct n'est listé au registre (seuls les critères d'inclusion s'appliquent)"
  ],
  "bras": [
-  { "nom": "Patients avec LCH et leurs parents", "traitement": "Prélèvement de salive ou de muqueuse buccale pour analyse génétique germinale ; questionnaires" }
+  {
+   "nom": "Patients avec LCH et leurs parents",
+   "traitement": "Prélèvement de salive ou de muqueuse buccale pour analyse génétique germinale ; questionnaires"
+  }
  ],
  "duree": "Prélèvement et questionnaires uniques, analyses sur 4 ans",
  "critere": "Caractérisation des variants germinaux de SMAD6 et de leur association avec la LCH, fréquence des mutations de novo, différence des mutations somatiques selon l'ascendance génétique, sur 4 ans"

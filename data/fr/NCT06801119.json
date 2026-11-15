@@ -17,10 +17,17 @@
  "exclusion": [
   "Hépatite B ou C, VIH, CMV ou syphilis actifs",
   "Autre infection active non contrôlée",
-  "Autres critères : non précisés dans les données consultées"
+  "Antécédent de greffe d'organe ou de moelle/cellules souches",
+  "Grossesse ou allaitement",
+  "Produit à ARNm-LNP ou autre médicament en nanoparticules lipidiques dans les 2 ans",
+  "Maladie cardiovasculaire récente (insuffisance cardiaque NYHA III-IV, infarctus, angor instable, arythmie) dans les 6 mois",
+  "Vaccin vivant dans les 30 jours, asthme ou allergies sévères"
  ],
  "bras": [
-  { "nom": "HN2301", "traitement": "Injection de HN2301 à la dose et aux jours prédéfinis ; posologie non précisée" }
+  {
+   "nom": "HN2301",
+   "traitement": "Injection de HN2301 à la dose et aux jours prédéfinis ; posologie non précisée"
+  }
  ],
  "duree": "Au moins 3 mois (contraception demandée pendant 12 mois)",
  "critere": "Incidence des événements indésirables apparus sous traitement, jusqu'à 3 mois"

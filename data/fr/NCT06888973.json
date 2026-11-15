@@ -8,9 +8,9 @@
  "profil": "Des adultes de 18 à 50 ans atteints de polyarthrite rhumatoïde, lupus, sclérodermie, spondylarthrite, arthrite juvénile ou myosite.",
  "inclusion": [
   "Âge de 18 ans ou plus (18 à 50 ans selon le registre)",
-  "Polyarthrite rhumatoïde selon ACR 2010, facteur rhumatoïde et/ou anti-CCP positifs",
-  "Polyarthrite évoluant depuis plus de 6 semaines et moins de 5 ans, DAS-VS > 3,1",
-  "Critères propres aux autres maladies : non détaillés ici",
+  "Polyarthrite rhumatoïde selon ACR 2010, facteur rhumatoïde et/ou anti-CCP positifs, évoluant depuis plus de 6 semaines et moins de 5 ans, DAS-VS > 3,1",
+  "Lupus avec atteinte musculo-squelettique active (critères SLICC), réfractaire à l'hydroxychloroquine et à un DMARD",
+  "Sclérodermie (ACR 1980) évoluant depuis moins de 5 ans, mRSS de 15 à 40, maladie active",
   "Contraception efficace, respect des exigences de l'étude"
  ],
  "exclusion": [
@@ -19,11 +19,18 @@
   "Pneumopathie interstitielle à la radiographie",
   "Coronaropathie, arythmie ou insuffisance cardiaque sévère",
   "Antécédent de cancer, grossesse ou allaitement",
-  "Vaccin vivant dans les 3 mois"
+  "Vaccin vivant dans les 3 mois",
+  "Lupus : poussée sévère neurologique ou rénale (BILAG A), rituximab dans les 18 mois"
  ],
  "bras": [
-  { "nom": "Groupe traité", "traitement": "Cellules souches mésenchymateuses, une séance unique" },
-  { "nom": "Groupe placebo", "traitement": "Sérum physiologique à 0,9 %" }
+  {
+   "nom": "Groupe traité",
+   "traitement": "Cellules souches mésenchymateuses, une séance unique"
+  },
+  {
+   "nom": "Groupe placebo",
+   "traitement": "Sérum physiologique à 0,9 %"
+  }
  ],
  "duree": "3 à 6 mois de suivi (évaluations jusqu'à 48 semaines)",
  "critere": "Scores cliniques spécifiques à chaque maladie (polyarthrite, lupus, sclérodermie, spondylarthrite, dermatomyosite) à J0 et aux semaines 12, 24 et 48 (semaine 16 pour la spondylarthrite)"

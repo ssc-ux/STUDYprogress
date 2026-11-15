@@ -15,12 +15,17 @@
  ],
  "exclusion": [
   "Patients ne remplissant pas les critères d'inclusion",
-  "Témoins : antécédent de PTT",
-  "Autres critères d'exclusion : non précisé"
+  "Témoins : antécédent de PTT"
  ],
  "bras": [
-  { "nom": "Patients avec PTT immun", "traitement": "Prélèvement sanguin supplémentaire lors d'un prélèvement de routine, pour analyses expérimentales" },
-  { "nom": "Donneurs sains", "traitement": "Prélèvement sanguin supplémentaire lors d'un don de sang, pour analyses expérimentales" }
+  {
+   "nom": "Patients avec PTT immun",
+   "traitement": "Prélèvement sanguin supplémentaire lors d'un prélèvement de routine, pour analyses expérimentales"
+  },
+  {
+   "nom": "Donneurs sains",
+   "traitement": "Prélèvement sanguin supplémentaire lors d'un don de sang, pour analyses expérimentales"
+  }
  ],
  "duree": "Prélèvement unique à l'inclusion, avec suivi de cohorte pour les rechutes (durée non précisée)",
  "critere": "Fréquence allélique des variants de TNFAIP3 chez les patients comparés aux témoins, à l'inclusion."

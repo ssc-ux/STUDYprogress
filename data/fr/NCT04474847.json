@@ -15,9 +15,12 @@
  ],
  "exclusion": [
   "Infection aiguë récente (hospitalisation ou antibiotiques parentéraux dans les 60 jours, traitement oral dans les 30 jours)",
-  "Infections bactériennes chroniques ou récidivantes",
-  "Zona récidivant ou disséminé",
-  "Autres critères d'exclusion non détaillés dans ce résumé (non précisé)"
+  "Infections bactériennes chroniques ou récidivantes, mycose systémique, déficit immunitaire primitif",
+  "Zona récidivant ou disséminé, herpès disséminé",
+  "Tuberculose active, antécédent non traité ou tuberculose latente non traitée",
+  "Grossesse ou allaitement",
+  "Cytopénie (plaquettes < 80 000/mm³, leucocytes < 3 000/mm³, PNN < 1 500/mm³), clairance < 20 mL/min, ASAT/ALAT > 3 N",
+  "Cancer actuel ou dans les 5 ans (sauf exceptions)"
  ],
  "bras": [
   {

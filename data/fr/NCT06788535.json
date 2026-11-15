@@ -18,11 +18,17 @@
   "Diagnostic établi d'amylose cardiaque",
   "Amylose systémique avec atteinte d'organe connue (ex. rénale AL, neuropathie ATTR)",
   "Traitement approuvé de l'amylose (ex. tafamidis) ou participation à un essai thérapeutique de l'amylose",
-  "Autres critères non détaillés dans l'extrait du registre"
+  "Dialyse ou DFGe < 15 mL/min/1,73 m²",
+  "Infarctus du myocarde dans les 3 mois",
+  "Allergie à l'iodure de potassium, héparine ou analogues dans les 7 jours précédents, trouble thyroïdien non corrigé",
+  "Grossesse ou allaitement, claustrophobie sévère, incapacité à compléter l'étude"
  ],
  "bras": [
-  { "nom": "Dose unique, ouvert", "traitement": "I-124 évuzamitide en une injection, puis TEP/TDM environ 4 heures plus tard" }
+  {
+   "nom": "Dose unique, ouvert",
+   "traitement": "I-124 évuzamitide en une injection, puis TEP/TDM environ 4 heures plus tard"
+  }
  ],
- "duree": "Environ 60 jours au total : dépistage jusqu'à 45 jours, injection, suivi de sécurité jusqu'au jour 30",
+ "duree": "Jusqu'à environ 3,5 mois : dépistage jusqu'à 45 jours, injection, suivi de sécurité jusqu'au jour 30, évaluation diagnostique de référence jusqu'au jour 60",
  "critere": "Sensibilité et spécificité de la TEP/TDM à l'I-124 évuzamitide pour le diagnostic d'amylose cardiaque, jusqu'à 60 jours après l'injection"
 }

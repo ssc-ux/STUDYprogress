@@ -17,8 +17,12 @@
  ],
  "exclusion": [
   "Atteinte du système nerveux central par leucémie ou lymphome, ou cellules malignes dans le LCR",
-  "Myélofibrose, syndrome myélodysplasique, aplasie médullaire (liste complète non reprise ici)",
-  "Autres critères d'exclusion détaillés dans le registre"
+  "Myélofibrose, syndrome myélodysplasique, aplasie médullaire ou autre hémopathie maligne",
+  "Troubles de coagulation à haut risque hémorragique (CIVD, cirrhose décompensée, varices) ou hémorragie sévère dans les 4 semaines",
+  "AHAI secondaire (médicaments, infections) ou autre anémie hémolytique héréditaire ou acquise",
+  "Greffe de cellules souches à visée thérapeutique < 12 semaines, ou allogreffe ≤ 6 mois",
+  "Hépatite B ou C active ; maladie du système nerveux central ; cardiopathie, AVC ou embolie pulmonaire dans les 6 mois",
+  "Thérapie cellulaire génétiquement modifiée antérieure ; maladie auto-immune avec atteinte d'organe ou traitement systémique dans les 2 ans"
  ],
  "bras": [
   {
@@ -26,6 +30,6 @@
    "traitement": "Injection (perfusion) de CAR-T GT801 ; dose non précisée"
   }
  ],
- "duree": "Suivi de sécurité de 3 mois après la perfusion, plus suivi prolongé",
+ "duree": "Suivi de 3 mois après la perfusion pour le critère principal ; durée totale non précisée",
  "critere": "Proportion de patients avec toxicité limitant la dose (28 jours) ; incidence et gravité des événements indésirables à 3 mois."
 }

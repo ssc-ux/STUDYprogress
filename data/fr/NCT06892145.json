@@ -15,9 +15,13 @@
   "Contraception efficace pendant 1 an après la perfusion"
  ],
  "exclusion": [
-  "Trouble psychiatrique grave",
-  "Contre-indication à la collecte de cellules",
-  "Autres critères : non précisé dans l'extrait du registre"
+  "Lupus du système nerveux central sévère actif, néphrite aiguë sévère (épuration extrarénale dans les 3 mois) ou autre crise lupique non contrôlée",
+  "Traitement antérieur par CAR-T ou autre thérapie cellulaire génétiquement modifiée",
+  "Autre maladie auto-immune nécessitant un traitement systémique",
+  "Hépatite B ou C active, VIH ou syphilis positifs ; infection non contrôlée dans la semaine précédente",
+  "Cardiopathie sévère (NYHA III/IV, infarctus ou revascularisation < 6 mois, arythmie ventriculaire, cardiomyopathie non ischémique sévère)",
+  "Greffe d'organe ou de cellules souches ; cancer (hors cas traités depuis plus de 2 ans)",
+  "AVC ou crise convulsive, thrombose profonde < 6 mois ; vaccin vivant < 4 semaines ; grossesse ou allaitement"
  ],
  "bras": [
   {

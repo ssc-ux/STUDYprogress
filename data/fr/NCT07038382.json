@@ -16,8 +16,11 @@
  "exclusion": [
   "Grossesse, allaitement ou projet de grossesse",
   "Abus de drogue ou d'alcool dans l'année",
-  "Cancer ou risque accru de cancer",
-  "Autres critères : non précisé dans le résumé"
+  "Cancer ou risque accru de cancer (sauf cancers cutanés et du col in situ)",
+  "Greffe d'organe ou de moelle, déficit immunitaire primitif, diabète de type 1 ou 2",
+  "Insuffisance rénale terminale, oligurie, DFGe < 30 mL/min/1,73 m²",
+  "Infection aiguë, récurrente ou chronique (dont tuberculose), test IGRA positif",
+  "Anomalies biologiques (Hb < 90 g/L, plaquettes < 100 G/L, PNN < 1,5 G/L, transaminases ou bilirubine > 2 N) ou QTc allongé"
  ],
  "bras": [
   {

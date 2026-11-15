@@ -18,7 +18,8 @@
   "Impossibilité de prendre des médicaments par voie orale ou par sonde",
   "Espérance de vie inférieure à 2 semaines",
   "Maladie cardiovasculaire non contrôlée (angor instable, infarctus, AVC dans les 6 mois, insuffisance cardiaque NYHA III-IV, arythmie, hypertension non contrôlée)",
-  "Autres critères non précisés dans le résumé du registre"
+  "Clairance de la créatinine < 15 mL/min hors dialyse ; cirrhose avec MELD > 20 ou transaminases > 1000",
+  "Tuberculose ou hépatite B/C active nouvellement diagnostiquée, HLH liée aux CAR-T, traitement antérieur de la LHH (hors corticoïdes < 2 semaines et anakinra)"
  ],
  "bras": [
   {
@@ -26,6 +27,6 @@
    "traitement": "Ruxolitinib deux fois par jour avec HLH-94 allégé : dexaméthasone 4 semaines et étoposide deux fois par semaine pendant 2 semaines puis une fois par semaine pendant 2 semaines ; puis ruxolitinib en cycles de 28 jours jusqu'à 6 mois"
   }
  ],
- "duree": "Jusqu'à 6 mois de traitement",
+ "duree": "Traitement jusqu'à 6 mois, suivi jusqu'à 12 mois",
  "critere": "Taux de réponse globale à 4 semaines."
 }
