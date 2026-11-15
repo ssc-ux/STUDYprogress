@@ -15,10 +15,19 @@
   "Lymphocytes B CD19+ ≥ 25/µL, lymphocytes ≥ 0,5 G/L, neutrophiles ≥ 0,5 G/L, hémoglobine ≥ 80 g/L, plaquettes ≥ 75 G/L"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Lupus neuropsychiatrique actif ou instable dans les 60 jours",
+  "Néphrite aiguë sévère (épuration extrarénale, forte corticothérapie ou cyclophosphamide envisagés) ; SAPL sévère dans l'année",
+  "Cardiopathie congénitale, infarctus < 6 mois, arythmie sévère, épanchement péricardique important ou myocardite sévère",
+  "Infection active ou antécédent d'infections sévères récurrentes ; tuberculose ; hépatite B, VIH, hépatite C active, CMV ou EBV actif",
+  "Autre maladie nécessitant corticoïdes ou immunosuppresseurs au long cours ; greffe d'organe ou de cellules souches < 3 mois",
+  "IgG sous la limite inférieure, syndrome d'activation macrophagique dans le mois, anti-CD19 ou anti-CD20 dans les 3 mois, inhibiteurs de JAK/BTK/TYK2, biothérapie ou cyclophosphamide dans les 4 semaines",
+  "Hypersensibilité aux anticorps monoclonaux, cancer connu, dépression ou idées suicidaires, vaccin vivant < 4 semaines, grossesse"
  ],
  "bras": [
-  { "nom": "Blinatumomab", "traitement": "2 cycles de 5 jours, 5 µg/m²/jour (maximum 9 µg/jour) IV, second cycle au début de la 3e semaine" }
+  {
+   "nom": "Blinatumomab",
+   "traitement": "2 cycles de 5 jours, 5 µg/m²/jour (maximum 9 µg/jour) IV, second cycle au début de la 3e semaine"
+  }
  ],
  "duree": "52 semaines",
  "critere": "Tolérance du blinatumomab (événements indésirables) pendant les 12 semaines de traitement"

@@ -8,10 +8,11 @@
  "profil": "Des patients de 4 ans et plus atteints d'ataxie-télangiectasie confirmée génétiquement.",
  "inclusion": [
   "Consentement écrit du patient ou de son représentant",
-  "Âge ≥ 4 ans",
+  "Âge ≥ 4 ans, poids ≥ 15 kg",
   "Ataxie-télangiectasie confirmée génétiquement",
-  "Contraception hautement efficace ou stérilité/ménopause pour les femmes en âge de procréer",
-  "Autres critères détaillés au registre"
+  "Score SARA entre 7 et 34 (sur 40), avec sous-score de marche 2 à 7 ou test des 9 chevilles (main dominante) en 20 à 150 secondes",
+  "Traitements concomitants autorisés stables depuis au moins 42 jours et maintenus pendant l'étude",
+  "Contraception hautement efficace ou stérilité/ménopause pour les femmes en âge de procréer"
  ],
  "exclusion": [
   "Hypersensibilité à l'acétyl-leucine ou aux excipients (produit actif ou placebo)",
@@ -19,7 +20,8 @@
   "Affection physique ou psychiatrique pouvant exposer le patient à un risque ou gêner l'évaluation",
   "Usage ou dépendance connus à des médicaments, drogues ou alcool",
   "Grossesse ou allaitement",
-  "Déficit visuel ou auditif sévère non corrigé gênant les évaluations"
+  "Déficit visuel ou auditif sévère non corrigé, ou atteinte ostéo-articulaire gênant les évaluations",
+  "Impossibilité d'un sevrage de 42 jours des médicaments interdits (N-acétyl-DL-leucine, sulfasalazine, rosuvastatine)"
  ],
  "bras": [
   {

@@ -17,7 +17,11 @@
  "exclusion": [
   "Infection active, opportuniste, chronique ou récidivante cliniquement significative dans le mois avant le dépistage ou pendant celui-ci",
   "Infection sévère ayant nécessité une hospitalisation prolongée en réanimation dans les 5 ans",
-  "Autres critères d'exclusion non détaillés dans le registre"
+  "Antécédent de cancer (hors cancers cutanés basocellulaire ou épidermoïde localisés)",
+  "Traitement antérieur anti-CD19, par lymphocytes T adoptifs ou thérapie génique (dont CAR-T)",
+  "Antécédent de greffe de moelle/cellules souches ou d'organe solide",
+  "Grossesse ou allaitement ; contraception efficace requise pendant au moins 12 mois après la perfusion",
+  "Poussée lupique aiguë sévère au dépistage (lupus neuropsychiatrique aigu, SAPL catastrophique) ou atteinte d'organe irréversible (ex. insuffisance rénale terminale)"
  ],
  "bras": [
   {

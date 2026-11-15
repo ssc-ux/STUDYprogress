@@ -17,11 +17,12 @@
  ],
  "exclusion": [
   "Défaillance d'organe",
-  "Hémodialyse ou chirurgie majeure dans les 3 mois",
+  "Hémodialyse ou chirurgie majeure (grade III ou plus) dans les 3 mois",
   "Autre maladie auto-immune",
   "Atteinte d'organe sévère et progressive",
-  "Comorbidité nécessitant des glucocorticoïdes à dose modérée ou élevée",
-  "Autres critères non précisés dans ce résumé"
+  "Comorbidité nécessitant des glucocorticoïdes à dose modérée ou élevée (prednisone ≥ 10 mg/j)",
+  "Antécédent de cancer",
+  "Infection grave aiguë ou chronique, dont AgHBs positif ou tuberculose active"
  ],
  "bras": [
   {
@@ -30,9 +31,9 @@
   },
   {
    "nom": "Traitement conventionnel",
-   "traitement": "Schéma conventionnel prédéfini selon le phénotype (glucocorticoïdes avec immunosuppresseurs)"
+   "traitement": "Prednisone et méthotrexate selon un schéma conventionnel prédéfini"
   }
  ],
- "duree": "Non précisé (critère principal à 6 mois)",
+ "duree": "56 semaines (14 mois) : 6 mois d'induction puis 8 mois d'entretien",
  "critere": "Taux d'efficacité à 6 mois."
 }

@@ -10,8 +10,9 @@
   "Âge ≥ 17 ans, fonction d'organe adéquate",
   "LES (critères EULAR/ACR 2019) depuis ≥ 6 mois avec anticorps anti-ADN, anti-Sm, anti-histone ou anti-nucléosome",
   "LES : SLEDAI-2K ≥ 8 avec ≥ 2 BILAG B, ou au moins un BILAG A (cardiaque, respiratoire, vasculaire, rénal)",
-  "Néphrite lupique active prouvée par biopsie (détails dans le registre)",
-  "Myopathie inflammatoire ou sclérodermie diffuse réfractaires selon les critères du protocole"
+  "Néphrite lupique active de classe III ou IV (± V) prouvée par biopsie de moins de 12 mois",
+  "Myopathie inflammatoire : dermatomyosite, syndrome des antisynthétases ou polymyosite/myopathie nécrosante selon les critères ACR/EULAR 2017",
+  "Sclérodermie diffuse (ACR/EULAR 2013 ≥ 9), atteinte cutanée proximale, mRSS ≥ 15"
  ],
  "exclusion": [
   "Hémodialyse",
@@ -19,24 +20,24 @@
   "Maladie du système nerveux central récente ou significative",
   "Événement thromboembolique dans les 12 mois, insuffisance hépatique Child-Pugh C",
   "LES : BILAG A neuropsychiatrique, poussée aiguë sévère nécessitant un traitement immédiat, lupus induit",
-  "Néphrite lupique de classe III, IV, V ou VI sur la biopsie la plus récente pour le bras LES (voir registre)"
+  "LES : DFG < 45 mL/min/1,73 m² ou créatinine > 2,5 mg/dL (DFG < 30 pour la néphrite lupique)"
  ],
  "bras": [
   {
-   "nom": "Bras A",
-   "traitement": "CNTY-101 chez des patients lupiques, après lymphodéplétion"
+   "nom": "Bras A (lupus)",
+   "traitement": "Chimiothérapie lymphodéplétive puis CNTY-101 3 fois en 3 semaines (cycle 1, 28 jours), avec ou sans IL-2 ; cycle 2 sans lymphodéplétion"
   },
   {
-   "nom": "Bras B",
-   "traitement": "CNTY-101 chez des patients avec néphrite lupique"
+   "nom": "Bras B (néphrite lupique)",
+   "traitement": "Même schéma que le bras A"
   },
   {
-   "nom": "Bras C",
-   "traitement": "CNTY-101 chez des patients avec myopathie inflammatoire"
+   "nom": "Bras C (myopathie inflammatoire)",
+   "traitement": "Même schéma que le bras A"
   },
   {
-   "nom": "Bras D",
-   "traitement": "CNTY-101 chez des patients avec sclérodermie diffuse"
+   "nom": "Bras D (sclérodermie diffuse)",
+   "traitement": "Même schéma que le bras A ; en phase 2, le schéma recommandé confirmé en phase 1 est utilisé"
   }
  ],
  "duree": "Toxicités évaluées jusqu'à 29 jours, schéma recommandé jusqu'à 3 mois",

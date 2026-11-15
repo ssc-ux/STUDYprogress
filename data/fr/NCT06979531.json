@@ -12,19 +12,28 @@
   "Anticorps anti-SSA/Ro positifs",
   "Flux salivaire stimulé résiduel ≥ 0,01 mL/min",
   "Âge de 18 à 74 ans",
-  "Autres critères définis dans le protocole : non précisés"
+  "D'autres critères d'inclusion sont définis dans le protocole"
  ],
  "exclusion": [
   "Sjögren secondaire ou autre maladie auto-immune (PR, lupus, sclérodermie, dermatomyosite, polymyosite) pouvant gêner l'évaluation",
   "Fibromyalgie insuffisamment traitée",
   "Gammapathie monoclonale cliniquement significative (dont MGUS), antécédent de myélome ou de lymphome non hodgkinien",
   "Cancer actif ou dans les 5 ans",
-  "Autres critères définis dans le protocole : non précisés"
+  "D'autres critères d'exclusion sont définis dans le protocole"
  ],
  "bras": [
-  { "nom": "IMVT-1402 dose 1", "traitement": "IMVT-1402, première dose (valeur non précisée)" },
-  { "nom": "IMVT-1402 dose 2", "traitement": "IMVT-1402, deuxième dose (valeur non précisée)" },
-  { "nom": "Placebo", "traitement": "Placebo" }
+  {
+   "nom": "IMVT-1402 dose 1",
+   "traitement": "IMVT-1402, première dose (valeur non précisée)"
+  },
+  {
+   "nom": "IMVT-1402 dose 2",
+   "traitement": "IMVT-1402, deuxième dose (valeur non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
  ],
  "duree": "Jusqu'à 105 semaines",
  "critere": "Variation du score clinESSDAI entre l'inclusion et la semaine 24, IMVT-1402 dose 1 versus placebo."

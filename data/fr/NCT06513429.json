@@ -16,8 +16,13 @@
   "Consentement éclairé signé"
  ],
  "exclusion": [
-  "Affection jugée incompatible avec l'étude (syndrome des antiphospholipides catastrophique, insuffisance rénale aiguë sévère, atteinte neurologique centrale aiguë sévère)",
-  "Autres critères d'exclusion non détaillés dans le résumé du registre : non précisé"
+  "Maladie jugée incompatible avec l'étude (syndrome des antiphospholipides catastrophique, insuffisance rénale aiguë sévère, atteinte neurologique centrale aiguë sévère)",
+  "Abus d'alcool ou de drogues dans les 24 semaines ; cancer autre qu'un lymphome B",
+  "Chirurgie majeure dans les 24 semaines avant le dépistage ou prévue dans les 24 semaines suivantes",
+  "VIH, déficit en IgA, hépatite B ou C chronique, SARS-CoV-2, tuberculose active ou infection bactérienne",
+  "Infarctus, angor instable, arythmie active ou thrombose veineuse / embolie pulmonaire dans les 6 mois",
+  "ALAT, ASAT ou PAL ≥ 3 × LSN, bilirubine > 1,5 × LSN, DFGe < 30 mL/min/1,73 m² ou anomalies hématologiques sévères",
+  "Anti-CD20 dans les 6 mois"
  ],
  "bras": [
   {

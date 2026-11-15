@@ -1,7 +1,7 @@
 {
  "h": "2178099eb2dd",
  "date": "2026-11-14",
- "titre": "GSK4527363 chez des volontaires sains, des patients lupiques et des patients avec PID de connectivite (phase 1)",
+ "titre": "GSK4527363 chez des volontaires sains, des patients lupiques et des patients avec PID de connectivite",
  "question": "Quelle est la tolérance de GSK4527363, et sa pharmacocinétique, chez des volontaires sains, des patients atteints de lupus et de pneumopathie interstitielle des connectivites ?",
  "contexte": "Le lupus érythémateux systémique actif et les pneumopathies interstitielles diffuses associées aux connectivites (PID-CTD, par exemple dans la sclérodermie ou les myosites) sont des maladies auto-immunes où les options thérapeutiques ciblées sont limitées. Un meilleur contrôle de la réponse B, de la production d'autoanticorps et de l'inflammation reste un besoin non couvert.\n\nGSK4527363 est une molécule expérimentale de GlaxoSmithKline ; la nature précise de la cible n'est pas détaillée dans le registre. Cette étude de phase 1 comporte quatre parties : A (volontaires sains, avec comparaison à un placebo et au belimumab), B (lupus actif, comparé au belimumab), C (volontaires sains japonais et chinois, avec placebo) et D (patients avec PID-CTD). Elle évalue tolérance, pharmacocinétique, pharmacodynamie et immunogénicité chez 143 participants.",
  "interet": "Étape initiale qui précise tolérance et dose pour le développement de GSK4527363 dans le lupus et les PID des connectivites.",
@@ -14,25 +14,54 @@
   "Poids ≥ 45 kg et IMC de 18 à 32 kg/m² (toutes parties)"
  ],
  "exclusion": [
-  "Parties A et C : antécédent ou présence de maladie cardiovasculaire, respiratoire ou autre significative (détails non fournis dans l'extrait)",
-  "Critères d'exclusion des parties B et D : non détaillés dans l'extrait"
+  "Parties A et C : maladie cardiovasculaire, respiratoire, hépatique, rénale ou autre significative ; antécédent d'anaphylaxie, de cancer ou d'infections récurrentes ; zona symptomatique dans les 3 mois",
+  "Toutes parties : tuberculose active ou latente, hépatite B ou C, VIH",
+  "ALAT élevée (> 1,1 × LSN en A et C, > 2 × LSN en B et D), bilirubine élevée ; QTcF > 450 ms (parties A, B et C)",
+  "Partie B : poussée lupique aiguë sévère, infection grave dans les 60 jours, leucoencéphalopathie multifocale progressive ou signes neurologiques inexpliqués",
+  "Partie D : PID autre qu'une PID de connectivite, CVF ≤ 45 % de la théorique, hypertension artérielle pulmonaire, greffe d'organe",
+  "Parties B et D : cancer ou antécédent de cancer dans les 5 ans",
+  "Vaccin vivant dans les 30 jours avant le dosage ou le dépistage"
  ],
  "bras": [
   {
-   "nom": "Partie A, volontaires sains",
-   "traitement": "GSK4527363, placebo ou belimumab"
+   "nom": "Partie A, volontaires sains : GSK4527363",
+   "traitement": "GSK4527363 (dose et rythme non précisés)"
   },
   {
-   "nom": "Partie B, lupus",
-   "traitement": "GSK4527363 ou belimumab"
+   "nom": "Partie A, volontaires sains : placebo",
+   "traitement": "Placebo correspondant au GSK4527363"
   },
   {
-   "nom": "Partie C, sains japonais et chinois",
-   "traitement": "GSK4527363 ou placebo"
+   "nom": "Partie A, volontaires sains : bélimumab",
+   "traitement": "Bélimumab (dose non précisée)"
   },
   {
-   "nom": "Partie D, PID-CTD",
-   "traitement": "GSK4527363"
+   "nom": "Partie B, lupus actif : GSK4527363",
+   "traitement": "GSK4527363 (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Partie B, lupus actif : bélimumab",
+   "traitement": "Bélimumab (dose non précisée)"
+  },
+  {
+   "nom": "Partie C, volontaires sains japonais : GSK4527363",
+   "traitement": "GSK4527363 (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Partie C, volontaires sains japonais : placebo",
+   "traitement": "Placebo correspondant au GSK4527363"
+  },
+  {
+   "nom": "Partie C, volontaires sains chinois : GSK4527363",
+   "traitement": "GSK4527363 (dose et rythme non précisés)"
+  },
+  {
+   "nom": "Partie C, volontaires sains chinois : placebo",
+   "traitement": "Placebo correspondant au GSK4527363"
+  },
+  {
+   "nom": "Partie D, PID de connectivite : GSK4527363",
+   "traitement": "GSK4527363 (dose et rythme non précisés)"
   }
  ],
  "duree": "Jusqu'à 52 semaines (parties A et C) et 68 semaines (parties B et D)",

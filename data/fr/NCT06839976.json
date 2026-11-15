@@ -15,10 +15,19 @@
   "Fonction d'organe adéquate (DFG ≥ 30, FEVG > 45 %, pas de dialyse)"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Infection active non traitée, VIH, hépatite B ou C active",
+  "Lupus neuropsychiatrique ou manifestations neurologiques sévères (AVC, convulsions, psychose, syndromes démyélinisants) ; antécédent d'épilepsie ou traitement antiépileptique",
+  "Lupus monogénique connu",
+  "Greffe de cellules souches ou de rein antérieure",
+  "Médicament expérimental reçu dans les 5,5 demi-vies avant l'inclusion",
+  "Refus ou impossibilité d'arrêter les immunosuppresseurs au moment de la perfusion du CART19",
+  "Grossesse, allaitement poursuivi, refus du suivi à long terme ou comorbidité compromettant la tolérance du traitement"
  ],
  "bras": [
-  { "nom": "CART19", "traitement": "Cellules T autologues transduites avec un récepteur anti-CD19 (4-1BB, TCRζ), injection intraveineuse unique ; dose non précisée" }
+  {
+   "nom": "CART19",
+   "traitement": "Cellules T autologues transduites avec un récepteur anti-CD19 (4-1BB, TCRζ), injection intraveineuse unique ; dose non précisée"
+  }
  ],
  "duree": "24 mois après la perfusion",
  "critere": "Fréquence des toxicités dose-limitantes du CART19, jusqu'à 24 mois après la perfusion"

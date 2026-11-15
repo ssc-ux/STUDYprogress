@@ -6,9 +6,28 @@
  "contexte": "Lupus systémique, sclérodermie systémique, dermatomyosite/polymyosite et vascularites à ANCA partagent des voies d'activation des lymphocytes B. Malgré les progrès thérapeutiques, certains patients résistent aux traitements, avec un risque de défaillance d'organe et de décès.\n\nLes CAR-T anti-CD19 éliminent en profondeur les lymphocytes B et ont donné des rémissions prolongées dans les premières séries de maladies auto-immunes. L'essai CATARSIS, de la Fondation Policlinico Gemelli (Rome), est un essai panier de phase 1/2 ouvert, à dose unique, chez 8 adultes de 18 à 65 ans. Le produit (CD19-CAR_Lenti) est un produit autologue enrichi en lymphocytes T CD4/CD8, transduits par un vecteur lentiviral et fabriqué à l'hôpital pédiatrique Bambino Gesù. La dose est de 1 x 10^6 cellules/kg. Les critères d'éligibilité exigent une maladie active et un échec de plusieurs traitements, par exemple, dans la sclérodermie, une forme diffuse récente et rapidement évolutive.",
  "interet": "L'étude apporte des données de sécurité et de faisabilité d'un CAR-T académique italien dans plusieurs maladies. L'effectif de 8 patients et l'absence de comparateur interdisent toute conclusion d'efficacité.",
  "profil": "Des adultes de 18 à 65 ans atteints de lupus, sclérodermie diffuse, myosite ou vascularite à ANCA réfractaires.",
- "inclusion": ["Âge de 18 à 65 ans, consentement éclairé", "Lupus : critères ACR/EULAR 2019, auto-anticorps, activité BILAG A ou 2 B, échec des glucocorticoïdes et d'au moins 2 traitements", "Sclérodermie diffuse : durée ≤ 5 ans, mRSS 10-35, signes de progression rapide, échec d'au moins 2 traitements", "Vérification de la vaccination anti-SARS-CoV-2 (2 doses)", "Contraception efficace jusqu'à 12 mois après le traitement"],
- "exclusion": ["Non précisé dans l'extrait disponible du registre"],
- "bras": [{ "nom": "CAR-T anti-CD19", "traitement": "Perfusion intraveineuse unique de 1 x 10^6 cellules/kg de CD19-CAR_Lenti" }],
+ "inclusion": [
+  "Âge de 18 à 65 ans, consentement éclairé",
+  "Lupus : critères ACR/EULAR 2019, auto-anticorps, activité BILAG A ou 2 B, échec des glucocorticoïdes et d'au moins 2 traitements",
+  "Sclérodermie diffuse : durée ≤ 5 ans, mRSS 10-35, signes de progression rapide, échec d'au moins 2 traitements",
+  "Vérification de la vaccination anti-SARS-CoV-2 (2 doses)",
+  "Contraception efficace jusqu'à 12 mois après le traitement"
+ ],
+ "exclusion": [
+  "Éligibilité à un traitement moins lourd ou approuvé, selon l'investigateur",
+  "PNN < 1 000/mm³, lymphocytes < 500/mm³, hémoglobine < 8 g/dL, CD3+ ≤ 100/µL ; DFGe < 30 mL/min",
+  "Maladie cardiovasculaire (infarctus récent, angor instable, arythmie significative, insuffisance cardiaque, FEVG < 50 %)",
+  "PID fibrosante avancée avec CVF < 40 % ou DLCO < 30 % de la théorique",
+  "Infection sévère active, VIH, hépatite B ou C active, COVID-19, tuberculose active",
+  "Cancer dans les 5 ans, CAR-T antérieur, produit expérimental agissant sur les lymphocytes T ou B dans les 2 ans",
+  "Grossesse ou allaitement ; lupus avec atteinte sévère du système nerveux central ou chevauchement avec un Sjögren, une polyarthrite ou une connectivite mixte"
+ ],
+ "bras": [
+  {
+   "nom": "CAR-T anti-CD19",
+   "traitement": "Perfusion intraveineuse unique de 1 x 10^6 cellules/kg de CD19-CAR_Lenti"
+  }
+ ],
  "duree": "Suivi principal de 24 semaines",
  "critere": "Syndrome de relargage de cytokines ou ICANS à 4 semaines ; infections, leucopénie ou hypogammaglobulinémie et taux de réponse global à 24 semaines."
 }

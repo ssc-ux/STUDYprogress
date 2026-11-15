@@ -16,11 +16,20 @@
  "exclusion": [
   "Autre maladie auto-immune connue pouvant gêner l'évaluation de la MII ou exposer à un risque excessif",
   "Antécédent de cancer, sauf guérison avec absence de récidive ≥ 3 ans (hors cancers cutanés basocellulaire ou épidermoïde, carcinome in situ du col ou du sein, découverte fortuite de cancer prostatique)",
-  "Atteinte musculaire sévère (critère détaillé non précisé dans le résumé retenu)"
+  "Atteinte musculaire sévère",
+  "Myopathie cortico-induite cause principale de la faiblesse, ou faiblesse permanente d'origine non inflammatoire",
+  "Pneumopathie interstitielle non contrôlée ou autre manifestation non contrôlée de la MII nécessitant un traitement interdit",
+  "Grossesse, allaitement ou projet de grossesse"
  ],
  "bras": [
-  {"nom": "Efgartigimod PH20 SC", "traitement": "Efgartigimod PH20 par voie sous-cutanée en plus du traitement de fond ; dose et rythme non précisés"},
-  {"nom": "Placebo PH20 SC", "traitement": "Placebo par voie sous-cutanée en plus du traitement de fond"}
+  {
+   "nom": "Efgartigimod PH20 SC",
+   "traitement": "Efgartigimod PH20 par voie sous-cutanée en plus du traitement de fond ; dose et rythme non précisés"
+  },
+  {
+   "nom": "Placebo PH20 SC",
+   "traitement": "Placebo par voie sous-cutanée en plus du traitement de fond"
+  }
  ],
  "duree": "24 semaines pour la phase 2, 52 semaines pour la phase 3",
  "critere": "Score moyen d'amélioration global (TIS), évalué à 24 semaines (phase 2) et à 52 semaines (phase 3)."

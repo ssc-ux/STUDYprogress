@@ -15,8 +15,12 @@
  ],
  "exclusion": [
   "Lupus induit par un médicament",
-  "Autre maladie auto-immune (sclérose en plaques, psoriasis, maladie inflammatoire intestinale, etc.)",
-  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+  "Autre maladie auto-immune (sclérose en plaques, psoriasis, MICI, etc.) ou syndrome de chevauchement (polyarthrite, sclérodermie, connectivite mixte)",
+  "Atteinte neuropsychiatrique active ou instable (BILAG A)",
+  "Néphrite lupique active sévère de classe III ou IV nécessitant des cytotoxiques ou de fortes doses de corticoïdes",
+  "Déficit immunitaire congénital ou acquis",
+  "Infection active ou récente nécessitant un traitement anti-infectieux, ou traitement d'une infection chronique",
+  "Plus d'un immunosuppresseur à la sélection"
  ],
  "bras": [
   {

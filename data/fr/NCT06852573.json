@@ -7,19 +7,22 @@
  "interet": "L'étude précisera la dose et la sécurité du ZM001 avant des phases ultérieures dans le lupus.",
  "profil": "Des adultes de 18 à 70 ans atteints de lupus réfractaire, d'activité modérée à sévère malgré un traitement standard.",
  "inclusion": [
-  "Lupus selon critères EULAR/ACR 2019",
-  "Échec d'une association standard (corticoïdes, immunosuppresseur et au moins une biothérapie) pendant au moins 2 mois, à dose stable",
-  "Immunosuppresseur parmi cyclophosphamide, mycophénolate, azathioprine, inhibiteurs de la calcineurine",
-  "Biothérapie parmi bélimumab, rituximab, etc.",
-  "Prednisone 7,5 à 60 mg/j (ou équivalent)",
-  "ANA positifs ou autres auto-anticorps au dépistage"
+  "Lupus selon les critères EULAR/ACR 2019, âge de 18 à 70 ans",
+  "Lupus réfractaire : corticoïdes, au moins un immunosuppresseur (cyclophosphamide, mycophénolate, azathioprine, anticalcineurine) et au moins une biothérapie (bélimumab, rituximab, etc.) pendant ≥ 2 mois, à dose stable, maladie encore active",
+  "Prednisone ≤ 60 mg/j (≥ 7,5 mg/j si corticoïdes seuls)",
+  "ANA, anti-ADN natif ou anti-Sm positifs",
+  "SLEDAI-2K ≥ 7, ou atteinte d'organe majeure (par exemple PTI sévère)",
+  "Survie attendue > 3 mois, FEVG ≥ 50 %, SpO2 > 92 %",
+  "Contraception efficace et test de grossesse négatif"
  ],
  "exclusion": [
   "Atteinte du système nerveux central non lupique ou significative (épilepsie, AVC, démence, vascularite cérébrale, trouble psychiatrique)",
-  "Hémodialyse ou corticothérapie à haute dose (≥ 1,5 mg/kg/j pendant ≥ 14 jours) dans les 2 mois",
-  "Crise lupique non contrôlée dans les 2 mois",
+  "Hémodialyse ou corticothérapie à haute dose (≥ 1,5 mg/kg/j pendant ≥ 14 jours) dans les 2 mois ; crise lupique non contrôlée dans les 2 mois",
   "Épanchement séreux abondant compressif non contrôlé",
-  "Autres critères d'exclusion : se reporter au registre"
+  "Autre maladie auto-immune active sous immunosuppresseur dans les 2 ans ; greffe de cellules souches ou d'organe ; thérapie cellulaire génétiquement modifiée antérieure (CAR-T, TCR-T)",
+  "Hépatite B ou C active, VIH, syphilis, EBV ou CMV actifs, infection non contrôlée",
+  "BPCO, PID ou anomalies cliniquement significatives des EFR ; hypertension non contrôlée, QTc > 480 ms, bloc AV, insuffisance cardiaque NYHA ≥ 3, FEVG < 50 %",
+  "Cancer dans les 5 ans, thrombose veineuse profonde ou embolie pulmonaire dans les 6 mois, vaccin vivant < 6 semaines, anticoagulants au long cours"
  ],
  "bras": [
   {

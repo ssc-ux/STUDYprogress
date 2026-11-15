@@ -15,7 +15,13 @@
   "SLEDAI-2K ≥ 7 ou atteinte d'organe significative"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Néphrite lupique sévère avec hémodialyse dans les 2 mois, ou prednisone ≥ 100 mg/j pendant ≥ 14 jours",
+  "Échange plasmatique, hémodialyse ou crise lupique dans les 30 jours",
+  "Saignement de grade ≥ 2 dans les 30 jours ou anticoagulation au long cours",
+  "Cardiopathie significative récente (insuffisance cardiaque NYHA III-IV, infarctus, angor instable, arythmie)",
+  "Atteinte du système nerveux central lupique ou autre maladie neurologique centrale",
+  "Antécédent de CAR-T ou de greffe d'organe ou de cellules souches ; anti-CD20, bélimumab ou anti-JAK récents",
+  "Cancer dans les 2 ans ; VIH, syphilis, hépatite B ou C active ; grossesse ou allaitement"
  ],
  "bras": [
   {

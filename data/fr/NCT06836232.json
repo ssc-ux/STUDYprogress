@@ -22,15 +22,23 @@
  "bras": [
   {
    "nom": "Cohorte A (env. 10)",
-   "traitement": "VTX2735 dose A pendant 6 semaines, extension possible, puis dose B quotidienne"
+   "traitement": "VTX2735 dose A pendant 6 semaines, extension possible de 7 semaines (dose A), puis 11 semaines en prise quotidienne de dose B"
   },
   {
-   "nom": "Cohorte B (env. 20, groupes B1 et B2)",
-   "traitement": "VTX2735 dose B ou C pendant 6 semaines, extension possible de 18 semaines"
+   "nom": "Cohorte B, groupe B1",
+   "traitement": "VTX2735 dose B ou C pendant 6 semaines, extension possible de 18 semaines (doses non précisées)"
   },
   {
-   "nom": "Cohorte C (env. 20, groupes C1 et C2)",
-   "traitement": "VTX2735 dose D ou E, puis dose B ; extension possible de 18 semaines"
+   "nom": "Cohorte B, groupe B2",
+   "traitement": "VTX2735 dose B ou C pendant 6 semaines, extension possible de 18 semaines (doses non précisées)"
+  },
+  {
+   "nom": "Cohorte C, groupe C1",
+   "traitement": "VTX2735 dose D ou E, et dose B, pendant 6 semaines ; extension possible de 18 semaines en dose B"
+  },
+  {
+   "nom": "Cohorte C, groupe C2",
+   "traitement": "VTX2735 dose D ou E, et dose B, pendant 6 semaines ; extension possible de 18 semaines en dose B"
   }
  ],
  "duree": "Jusqu'à 26 semaines de traitement, plus 14 jours de suivi",

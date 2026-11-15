@@ -15,12 +15,27 @@
   "Contraception efficace chez les personnes en âge de procréer"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Échec antérieur au mycophénolate ou contre-indication au mycophénolate ou aux corticoïdes",
+  "Néphrite rapidement progressive, croissants > 50 % des glomérules, ou glomérulosclérose ou fibrose interstitielle > 60 %",
+  "Atteinte extra-rénale sévère du lupus (HTAP sévère, atteinte neurologique centrale active, insuffisance cardiaque NYHA IV…)",
+  "Infection récente (bactérie encapsulée < 1 an, tuberculose active ou latente à risque, infection traitée < 3 mois), VHB, VHC ou VIH",
+  "DFGe < 30 mL/min/1,73 m², hémodialyse, ou anomalies hématologiques ou hépatiques (ALAT/ASAT ≥ 3 × LSN)",
+  "Greffe d'organe ou de cellules souches, cancer dans les 5 ans, autre maladie auto-immune",
+  "Grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "HSK39297 200 mg", "traitement": "200 mg par voie orale une fois par jour pendant 52 semaines, en double aveugle" },
-  { "nom": "HSK39297 300 mg", "traitement": "300 mg par voie orale une fois par jour pendant 52 semaines, en double aveugle" },
-  { "nom": "Placebo", "traitement": "Placebo par voie orale une fois par jour pendant 52 semaines" }
+  {
+   "nom": "HSK39297 200 mg",
+   "traitement": "200 mg par voie orale une fois par jour pendant 52 semaines, en double aveugle"
+  },
+  {
+   "nom": "HSK39297 300 mg",
+   "traitement": "300 mg par voie orale une fois par jour pendant 52 semaines, en double aveugle"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie orale une fois par jour pendant 52 semaines"
+  }
  ],
  "duree": "52 semaines",
  "critere": "Rapport de la protéinurie des 24 h (UPCR) à sa valeur initiale, à 24 semaines"

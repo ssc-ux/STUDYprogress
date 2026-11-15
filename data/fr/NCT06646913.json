@@ -1,7 +1,7 @@
 {
  "h": "230447721cb2r",
  "date": "2026-11-14",
- "titre": "Acupuncture électrique transcutanée dans la gastroparésie de la sclérodermie",
+ "titre": "Électro-acustimulation transcutanée dans la gastroparésie de la sclérodermie",
  "question": "L'électro-acustimulation transcutanée est-elle acceptable chez des patients sclérodermiques ayant des ballonnements et une distension liés à la gastroparésie ?",
  "contexte": "L'atteinte digestive est très fréquente dans la sclérodermie systémique, avec une dysmotilité gastrique (gastroparésie) responsable de ballonnements, distension, nausées et dénutrition. Les prokinétiques ont une efficacité limitée et des effets indésirables, d'où un besoin de traitements non médicamenteux.\n\nLa stimulation électrique transcutanée au niveau de points d'acupuncture (TEA) est étudiée dans la gastroparésie d'autres origines, avec des effets rapportés sur la motilité gastrique et les symptômes.\n\nCette étude pilote de l'Université du Michigan évalue chez 11 patients l'acceptabilité d'un dispositif de TEA appliqué 45 minutes deux fois par jour après les repas, avec carnets quotidiens et questionnaires, suivi de 4 semaines de suivi après traitement.",
  "interet": "Il s'agit d'une étude de faisabilité. Elle prépare un essai contrôlé de la TEA, option non médicamenteuse, pour les symptômes digestifs hauts de la sclérodermie.",
@@ -20,9 +20,12 @@
   "Contre-indication à la TEA (pacemaker, épilepsie)"
  ],
  "bras": [
-  { "nom": "Patients sclérodermiques avec symptômes de gastroparésie", "traitement": "Dispositif de TEA, 45 minutes deux fois par jour après les repas" }
+  {
+   "nom": "Patients sclérodermiques avec symptômes de gastroparésie",
+   "traitement": "Dispositif de TEA, 45 minutes deux fois par jour après les repas"
+  }
  ],
- "duree": "4 semaines de traitement, puis 4 semaines de suivi",
+ "duree": "Durée du traitement non précisée (critère principal à 4 semaines), puis 4 semaines de suivi",
  "critere": "Acceptabilité du dispositif à 4 semaines (patients ayant terminé l'étude et utilisé le dispositif pour au moins 80 % des applications)",
  "resultats": "Sur 11 patients inclus, 9 ont terminé l'étude et 9 ont utilisé le dispositif pour au moins 80 % des applications prévues. Aucun événement indésirable grave ni décès n'a été rapporté. L'étude pilote n'a pas de groupe comparateur et les résultats cliniques ne sont pas détaillés dans le registre."
 }

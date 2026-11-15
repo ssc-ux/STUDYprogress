@@ -17,8 +17,20 @@
  ],
  "bras": [
   {
-   "nom": "MK-2225, panels A à D",
-   "traitement": "MK-2225 par voie sous-cutanée toutes les 2 semaines pendant 8 semaines, à des doses croissantes selon le panel"
+   "nom": "MK-2225 panel A",
+   "traitement": "MK-2225 dose 1 par voie sous-cutanée toutes les 2 semaines pendant 8 semaines"
+  },
+  {
+   "nom": "MK-2225 panel B",
+   "traitement": "MK-2225 dose 2 par voie sous-cutanée toutes les 2 semaines pendant 8 semaines, selon la tolérance du palier précédent"
+  },
+  {
+   "nom": "MK-2225 panel C",
+   "traitement": "MK-2225 dose 3 par voie sous-cutanée toutes les 2 semaines pendant 8 semaines, selon la tolérance du palier précédent"
+  },
+  {
+   "nom": "MK-2225 panel D",
+   "traitement": "MK-2225 dose 4 par voie sous-cutanée toutes les 2 semaines pendant 8 semaines, selon la tolérance du palier précédent"
   },
   {
    "nom": "Placebo",

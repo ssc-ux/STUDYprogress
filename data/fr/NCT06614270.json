@@ -14,7 +14,13 @@
   "Test de grossesse négatif et contraception efficace"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre"
+  "Autre connectivite associée ; atteinte d'organe majeure (cœur, DFGe < 15, foie, CVF < 50 % ou DLCO < 40 %, cytopénies)",
+  "Hépatite B ou C, VIH, tuberculose active ou latente, infection grave active",
+  "Déficit immunitaire primaire ou secondaire, déficit en IgA (< 10 mg/dL) ou en IgG (< 400 mg/dL)",
+  "Cancer dans les 5 ans, autre essai dans les 3 mois, vaccin vivant dans les 4 semaines",
+  "Grossesse ou allaitement ; allergie aux protéines humaines ou murines ou aux anticorps monoclonaux",
+  "Sclérodermie : forme localisée, évolution > 5 ans, crise rénale, HTAP de risque intermédiaire ou élevé",
+  "Critères propres : myosite médicamenteuse ou à inclusions ; vascularite : hémorragie alvéolaire ventilée, dialyse, greffe rénale ; SAPL obstétrical ou neurologique"
  ],
  "bras": [
   {

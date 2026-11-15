@@ -16,7 +16,13 @@
   "Consentement signé"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Rituximab ou autre anticorps monoclonal dans les 1,6 mois ; corticoïdes > 1 mg/kg/j dans le mois",
+  "Insuffisance cardiaque ≥ NYHA III, clairance de la créatinine ≤ 30 mL/min, ALAT/ASAT > 3 × LSN ou bilirubine > LSN",
+  "Autre maladie hématologique, digestive, endocrinienne, pulmonaire, cardiaque ou neurologique grave ou non contrôlée (dont démyélinisante)",
+  "Allergie ou intolérance connue à l'IL-2 ou à ses excipients",
+  "Infection grave, hospitalisation ou antibiotiques IV pour infection dans les 2 mois ; VIH ; hépatite C",
+  "Cancer dans les 5 ans (hors cancers cutanés non mélanocytaires et col utérin guéri) ; trouble psychiatrique non contrôlé ou abus de substances dans les 3 ans",
+  "Vaccin vivant dans les 3 mois ; grossesse ou allaitement ; vascularite : anticorps anti-MBG positifs ; myosite juvénile, à inclusions ou paranéoplasique"
  ],
  "bras": [
   {

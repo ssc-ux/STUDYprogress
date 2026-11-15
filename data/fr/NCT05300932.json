@@ -16,7 +16,11 @@
  "exclusion": [
   "Autre maladie rhumatismale (fibromyalgie et myopathie sclérodermique acceptées)",
   "Forme cutanée limitée ou sine scleroderma",
-  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+  "Chirurgie majeure dans les 8 semaines ; ulcère infecté",
+  "Traitement antérieur par agents déplétant les cellules (anti-CD19, anti-CD3…), anti-CD20 < 12 mois, IgIV < 12 semaines, chlorambucil, greffe de moelle",
+  "Immunosuppresseurs conventionnels (méthotrexate, mycophénolate, azathioprine…) dans les 4 semaines précédentes",
+  "CVF ≤ 50 % ou DLCO ≤ 40 % ; HTAP",
+  "Risque de tuberculose, hépatite B ou C positive, anomalies hématologiques ou hépatiques (Hb < 8, ALAT/ASAT > 2 × LSN)"
  ],
  "bras": [
   {

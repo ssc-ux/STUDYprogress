@@ -21,8 +21,52 @@
  ],
  "bras": [
   {
-   "nom": "Groupes de patients (ACG, PPR, vascularites à ANCA, IgG4, myopathies, PR, RPso, connectivites, sarcoïdose, PID, BPCO, asthme)",
-   "traitement": "Analyses SNP, séquençage ARNm, ELISA/Legendplex, cytométrie, bilan biologique ± atteinte pulmonaire ; suivi à 12 mois"
+   "nom": "Artérite à cellules géantes (ACG)",
+   "traitement": "Patients nouvellement diagnostiqués : SNP, séquençage ARNm 3', ELISA/Legendplex, cytométrie en flux, bilan biologique ; suivi à 12 mois"
+  },
+  {
+   "nom": "Pseudo-polyarthrite rhizomélique (PPR)",
+   "traitement": "Mêmes analyses (SNP, ARNm, ELISA/Legendplex, cytométrie, biologie) ; suivi à 12 mois"
+  },
+  {
+   "nom": "Vascularites à ANCA",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Maladie associée aux IgG4",
+   "traitement": "Mêmes analyses (SNP, ARNm, ELISA/Legendplex, cytométrie, biologie) ; suivi à 12 mois"
+  },
+  {
+   "nom": "Myopathies inflammatoires idiopathiques",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Polyarthrite rhumatoïde",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Rhumatisme psoriasique",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Connectivites",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Sarcoïdose",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Pneumopathies interstitielles diffuses",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "BPCO",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
+  },
+  {
+   "nom": "Asthme",
+   "traitement": "Mêmes analyses, plus évaluation de l'atteinte pulmonaire ; suivi à 12 mois"
   },
   {
    "nom": "Témoins sains",

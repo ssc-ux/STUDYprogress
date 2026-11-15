@@ -18,7 +18,10 @@
   "Traitement antérieur par ianalumab",
   "Corticoïdes à forte dose, inhibiteurs de la calcineurine, anti-JAK ou autres DMARD dans les 12 semaines précédentes",
   "Cyclophosphamide, immunoglobulines, plasmaphérèse, anti-récepteur de l'interféron, anti-CD40, CTLA4-Fc ou anti-BAFF dans les 24 semaines précédentes",
-  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+  "Infection active nécessitant un traitement IV/IM, hépatite B ou C chronique, tuberculose active, VIH ou immunodéficience",
+  "Plaquettes < 25 G/L, hémoglobine < 8 g/dL ou neutrophiles < 0,8 G/L",
+  "Néphropathie lupique sévère (protéinurie > 2 g/j ou créatinine > 2 mg/dL) ou traitement d'induction/entretien requis",
+  "Vaccin vivant récent, tumeur maligne (hors carcinome basocellulaire cutané localisé ou col in situ), grossesse ou allaitement"
  ],
  "bras": [
   {

@@ -14,13 +14,47 @@
   "Lupus cutané confirmé histologiquement et actif malgré les traitements conventionnels"
  ],
  "exclusion": [
-  "Partie A : maladie ou anomalie cliniquement significative",
-  "Antécédent de zona ou d'herpès simplex récurrent",
-  "Autres critères d'exclusion : non précisés dans les données consultées"
+  "Partie A : maladie cliniquement significative, antécédent de zona ou d'herpès simplex récurrent, infection dans les 30 jours",
+  "Partie A : hypersensibilité à un composant du DB-2304, chirurgie dans les 3 mois ou prévue",
+  "Partie B : néphrite lupique active ou maladie rénale chronique modérée à sévère",
+  "Partie B : lupus neuropsychiatrique actif dans les 8 semaines",
+  "Partie B : autre atteinte cutanée ou arthrite active gênant l'évaluation (psoriasis, polyarthrite rhumatoïde, lupus médicamenteux)",
+  "Partie B : cancer actuel ou ancien (hors carcinomes basocellulaire, épidermoïde ou du col in situ guéris depuis plus de 2 ans)",
+  "Partie B : déficit immunitaire primitif, splénectomie ou condition prédisposant aux infections"
  ],
  "bras": [
-  { "nom": "Partie A, volontaires sains", "traitement": "DB-2304 en dose unique croissante ou placebo" },
-  { "nom": "Partie B, lupus systémique ou cutané", "traitement": "DB-2304 à plusieurs niveaux de dose (8 niveaux au total dans l'étude), randomisé en double aveugle ; schéma exact non précisé" }
+  {
+   "nom": "Niveau de dose 1",
+   "traitement": "DB-2304 ou placebo, avec prednisone (dose non précisée)"
+  },
+  {
+   "nom": "Niveau de dose 2",
+   "traitement": "DB-2304 ou placebo, avec prednisone (dose non précisée)"
+  },
+  {
+   "nom": "Niveau de dose 3",
+   "traitement": "DB-2304 ou placebo, avec prednisone (dose non précisée)"
+  },
+  {
+   "nom": "Niveau de dose 4",
+   "traitement": "DB-2304 ou placebo, avec prednisone (dose non précisée)"
+  },
+  {
+   "nom": "Niveau de dose 5",
+   "traitement": "DB-2304 ou placebo, avec prednisone (dose non précisée)"
+  },
+  {
+   "nom": "Niveau de dose 6",
+   "traitement": "DB-2304 ou placebo (dose non précisée)"
+  },
+  {
+   "nom": "Niveau de dose 7",
+   "traitement": "DB-2304 ou placebo (dose non précisée)"
+  },
+  {
+   "nom": "Niveau de dose 8",
+   "traitement": "DB-2304 ou placebo (dose non précisée)"
+  }
  ],
  "duree": "112 jours (partie A) ou 280 jours (partie B)",
  "critere": "Événements indésirables (dont graves), ECG et constantes vitales, jusqu'à 112 jours (partie A) ou 280 jours (partie B)"
