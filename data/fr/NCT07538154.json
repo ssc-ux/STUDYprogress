@@ -23,10 +23,20 @@
   "Sérologies VIH, VHC, VHB ou syphilis positives, antécédent de tuberculose"
  ],
  "bras": [
-  { "nom": "SCTC21C (phase 1b)", "traitement": "Doses croissantes de SCTC21C pour déterminer la dose recommandée" },
-  { "nom": "SCTC21C dose 1 ou dose 2 (phase 2)", "traitement": "SCTC21C à l'une des deux doses, randomisation 1:1:1 avec le placebo ; doses non précisées" },
-  { "nom": "Placebo (phase 2)", "traitement": "Placebo" }
+  {
+   "nom": "SCTC21C (phase 1b)",
+   "traitement": "Doses croissantes de SCTC21C pour déterminer la dose recommandée"
+  },
+  {
+   "nom": "SCTC21C dose 1 ou dose 2 (phase 2)",
+   "traitement": "SCTC21C à l'une des deux doses, randomisation 1:1:1 avec le placebo ; doses non précisées"
+  },
+  {
+   "nom": "Placebo (phase 2)",
+   "traitement": "Placebo"
+  }
  ],
  "duree": "48 semaines",
- "critere": "Phase 1 : tolérance et sécurité de la première dose à la semaine 48 ; phase 2 : efficacité jusqu'à la semaine 24"
+ "critere": "Phase 1 : tolérance et sécurité de la première dose à la semaine 48 ; phase 2 : efficacité jusqu'à la semaine 24",
+ "relu": "2026-11-15"
 }

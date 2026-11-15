@@ -18,8 +18,12 @@
   "Poids inférieur à 3 kg chez le nourrisson (volume de prélèvement limite)"
  ],
  "bras": [
-  {"nom": "Patients adressés par un médecin", "traitement": "Patients (et apparentés) avec suspicion de déficit immunitaire héréditaire : revue des dossiers, prélèvements sanguins et tissulaires pour analyses génétiques"}
+  {
+   "nom": "Patients adressés par un médecin",
+   "traitement": "Patients (et apparentés) avec suspicion de déficit immunitaire héréditaire : revue des dossiers, prélèvements sanguins et tissulaires pour analyses génétiques"
+  }
  ],
  "duree": "Non précisé (prélèvements au moins une fois par an chez certains patients)",
- "critere": "Identification du ou des traits de susceptibilité sous-jacents et de leur mécanisme (échéance 2030)"
+ "critere": "Identification du ou des traits de susceptibilité sous-jacents et de leur mécanisme (échéance 2030)",
+ "relu": "2026-11-15"
 }

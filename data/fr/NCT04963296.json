@@ -21,10 +21,17 @@
   "Infection active ou épisode infectieux majeur récent"
  ],
  "bras": [
-  { "nom": "Obinutuzumab", "traitement": "1000 mg IV à J1, S2, S24 et S26, avec prémédication" },
-  { "nom": "Placebo", "traitement": "Placebo IV aux mêmes dates, avec prémédication" }
+  {
+   "nom": "Obinutuzumab",
+   "traitement": "1000 mg IV à J1, S2, S24 et S26, avec prémédication"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo IV aux mêmes dates, avec prémédication"
+  }
  ],
  "duree": "52 semaines pour le critère principal, puis suivi prolongé (fin d'étude prévue en 2028)",
  "critere": "Pourcentage de patients en réponse SRI-4 à la semaine 52",
- "resultats": "Les résultats sont disponibles dans le registre. À la semaine 52, la réponse SRI-4 était de 76,7 % (IC 95 % 69,8-83,5) dans le groupe obinutuzumab (n = 151) contre 53,5 % (45,3-61,6) dans le groupe placebo (n = 152). La différence ajustée est de 23,1 points (IC 95 % 12,5-33,6 ; p < 0,0001, test de Cochran-Mantel-Haenszel). Les critères secondaires ne sont pas détaillés ici. Sur le plan de la tolérance, des événements indésirables graves ont été rapportés chez 24 patients sous obinutuzumab et 18 sous placebo ; 1 décès a été noté dans le groupe obinutuzumab et 5 dans le groupe placebo. Ces données proviennent du registre et ne remplacent pas la publication complète."
+ "resultats": "Les résultats sont disponibles dans le registre. À la semaine 52, la réponse SRI-4 était de 76,7 % (IC 95 % 69,8-83,5) dans le groupe obinutuzumab (n = 151) contre 53,5 % (45,3-61,6) dans le groupe placebo (n = 152). La différence ajustée est de 23,1 points (IC 95 % 12,5-33,6 ; p < 0,0001, test de Cochran-Mantel-Haenszel). Les critères secondaires ne sont pas détaillés ici. Sur le plan de la tolérance, des événements indésirables graves ont été rapportés chez 24 patients sous obinutuzumab et 18 sous placebo ; 1 décès a été noté dans le groupe obinutuzumab et 5 dans le groupe placebo. Ces données proviennent du registre et ne remplacent pas la publication complète.",
+ "relu": "2026-11-15"
 }

@@ -55,4 +55,5 @@ Règles de rédaction (lecteurs : médecins français qui veulent s'informer en 
 - Critères : condensés depuis le registre, sans en ajouter. Information absente : « non précisé ».
 - Étude observationnelle : `bras` décrit les groupes ou cohortes suivis.
 - `resultats` : seulement les résultats de l'étude elle-même ; ignorer un résumé qui décrit un autre travail (bibliographie de fond).
+- `relu` (date) : fiche relue et corrigée face au registre ; une fiche refaite ou nouvelle n'a pas ce champ.
 - Toutes les études du site doivent avoir leur fiche en français ; une fiche est refaite quand des résultats paraissent (`h` finit alors par « r »).

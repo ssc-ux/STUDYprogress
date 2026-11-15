@@ -17,8 +17,12 @@
   "Impossibilité de remplir les questionnaires en ligne"
  ],
  "bras": [
-  { "nom": "Aidants de patients", "traitement": "Questionnaires en ligne remplis une seule fois par l'aidant" }
+  {
+   "nom": "Aidants de patients",
+   "traitement": "Questionnaires en ligne remplis une seule fois par l'aidant"
+  }
  ],
  "duree": "Un seul questionnaire en ligne (étude transversale)",
- "critere": "Besoins de soutien des aidants informels, évalués par questionnaires, sur 3 ans"
+ "critere": "Besoins de soutien des aidants informels, évalués par questionnaires, sur 3 ans",
+ "relu": "2026-11-15"
 }

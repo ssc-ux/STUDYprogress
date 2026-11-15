@@ -20,8 +20,12 @@
   "Refus de fournir du sang pour l'ADN"
  ],
  "bras": [
-  {"nom": "Patients avec vascularite", "traitement": "Recueil unique de données cliniques et prélèvement sanguin pour ADN, sans intervention thérapeutique"}
+  {
+   "nom": "Patients avec vascularite",
+   "traitement": "Recueil unique de données cliniques et prélèvement sanguin pour ADN, sans intervention thérapeutique"
+  }
  ],
  "duree": "Prélèvement unique",
- "critere": "Évaluation des données cliniques et des échantillons d'ADN associés, sur 1 an"
+ "critere": "Évaluation des données cliniques et des échantillons d'ADN associés, sur 1 an",
+ "relu": "2026-11-15"
 }

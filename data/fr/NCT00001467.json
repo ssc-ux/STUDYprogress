@@ -16,9 +16,16 @@
   "Critères d'exclusion non précisés"
  ],
  "bras": [
-  {"nom": "Cas index (proband)", "traitement": "Personne initialement malade, étudiée ou diagnostiquée : prélèvement sanguin (ou brossage buccal, biopsie cutanée) pour analyse génétique et immunologique"},
-  {"nom": "Apparentés biologiques", "traitement": "Membres de la famille du cas index : mêmes prélèvements à visée de comparaison"}
+  {
+   "nom": "Cas index (proband)",
+   "traitement": "Personne initialement malade, étudiée ou diagnostiquée : prélèvement sanguin (ou brossage buccal, biopsie cutanée) pour analyse génétique et immunologique"
+  },
+  {
+   "nom": "Apparentés biologiques",
+   "traitement": "Membres de la famille du cas index : mêmes prélèvements à visée de comparaison"
+  }
  ],
  "duree": "Un prélèvement, éventuellement répété",
- "critere": "Recherche de modificateurs du phénotype dans les maladies immunitaires à pénétrance et expressivité variables, et dépistage génétique des mutations connues ou suspectées de déficit immunitaire primitif"
+ "critere": "Recherche de modificateurs du phénotype dans les maladies immunitaires à pénétrance et expressivité variables, et dépistage génétique des mutations connues ou suspectées de déficit immunitaire primitif",
+ "relu": "2026-11-15"
 }

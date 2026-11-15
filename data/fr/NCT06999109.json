@@ -18,8 +18,12 @@
   "Détresse émotionnelle sévère : PHQ-9A ≥ 15, idées suicidaires, ou autre signe jugé par l'investigateur"
  ],
  "bras": [
-  { "nom": "Intervention TEAM-LEADS", "traitement": "Programme comportemental en ligne de réduction du stress et de promotion de la santé cardiovasculaire" }
+  {
+   "nom": "Intervention TEAM-LEADS",
+   "traitement": "Programme comportemental en ligne de réduction du stress et de promotion de la santé cardiovasculaire"
+  }
  ],
  "duree": "Évaluations à l'inclusion, après l'intervention et au suivi (critère principal à 84 jours)",
- "critere": "Variation du score T PROMIS pédiatrique d'expériences de stress psychologique (forme courte 8a) entre l'inclusion et le jour 84."
+ "critere": "Variation du score T PROMIS pédiatrique d'expériences de stress psychologique (forme courte 8a) entre l'inclusion et le jour 84.",
+ "relu": "2026-11-15"
 }

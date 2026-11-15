@@ -22,9 +22,16 @@
   "Grossesse, allaitement ou contraception non assurée"
  ],
  "bras": [
-  { "nom": "Tofacitinib", "traitement": "Tofacitinib oral (dose non précisée)" },
-  { "nom": "Méthotrexate", "traitement": "Méthotrexate (dose et voie non précisées)" }
+  {
+   "nom": "Tofacitinib",
+   "traitement": "Tofacitinib oral (dose non précisée)"
+  },
+  {
+   "nom": "Méthotrexate",
+   "traitement": "Méthotrexate (dose et voie non précisées)"
+  }
  ],
  "duree": "24 semaines",
- "critere": "Variation du score cutané de Rodnan modifié (mRSS, de 0 à 51) entre l'inclusion et la semaine 24"
+ "critere": "Variation du score cutané de Rodnan modifié (mRSS, de 0 à 51) entre l'inclusion et la semaine 24",
+ "relu": "2026-11-15"
 }

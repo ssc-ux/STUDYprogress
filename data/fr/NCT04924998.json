@@ -16,8 +16,12 @@
   "Incapacité ou refus de suivre les visites"
  ],
  "bras": [
-  { "nom": "Cardiomyopathie AL", "traitement": "Patients recevant le traitement habituel de la cardiomyopathie AL, suivis à long terme" }
+  {
+   "nom": "Cardiomyopathie AL",
+   "traitement": "Patients recevant le traitement habituel de la cardiomyopathie AL, suivis à long terme"
+  }
  ],
  "duree": "10 ans",
- "critere": "Critère principal non précisé dans le registre (« Primary Outcome »), suivi sur 10 ans"
+ "critere": "Critère principal non précisé dans le registre (« Primary Outcome »), suivi sur 10 ans",
+ "relu": "2026-11-15"
 }

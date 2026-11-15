@@ -16,8 +16,12 @@
   "Infection active bactérienne, virale, fongique ou mycobactérienne"
  ],
  "bras": [
-  { "nom": "Enfants atteints de LES", "traitement": "Suivi observationnel avec mesures échocardiographiques, sans intervention spécifique" }
+  {
+   "nom": "Enfants atteints de LES",
+   "traitement": "Suivi observationnel avec mesures échocardiographiques, sans intervention spécifique"
+  }
  ],
  "duree": "6 mois",
- "critere": "Mesures échocardiographiques (non détaillées dans le registre), évaluées sur 6 mois."
+ "critere": "Mesures échocardiographiques (non détaillées dans le registre), évaluées sur 6 mois.",
+ "relu": "2026-11-15"
 }

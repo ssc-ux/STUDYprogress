@@ -16,9 +16,16 @@
   "Demande de retrait de l'étude"
  ],
  "bras": [
-  { "nom": "Enseignement assisté par IA", "traitement": "Apprentissage autonome avec les modules iLN (cas virtuels, enseignement, questions-réponses IA) sous la supervision d'un enseignant" },
-  { "nom": "Enseignement traditionnel", "traitement": "Cours magistral PowerPoint sur le lupus et la néphrite lupique" }
+  {
+   "nom": "Enseignement assisté par IA",
+   "traitement": "Apprentissage autonome avec les modules iLN (cas virtuels, enseignement, questions-réponses IA) sous la supervision d'un enseignant"
+  },
+  {
+   "nom": "Enseignement traditionnel",
+   "traitement": "Cours magistral PowerPoint sur le lupus et la néphrite lupique"
+  }
  ],
  "duree": "Une séance d'enseignement ; test dans les 30 minutes suivantes",
- "critere": "Note à un test objectif, le jour de la séance, dans les 30 minutes après l'enseignement"
+ "critere": "Note à un test objectif, le jour de la séance, dans les 30 minutes après l'enseignement",
+ "relu": "2026-11-15"
 }

@@ -21,10 +21,20 @@
   "Non-résidence aux États-Unis ou au Canada à la date de référence"
  ],
  "bras": [
-  {"nom": "Anti-synthétases positif", "traitement": "Patients avec myosite et syndrome des anti-synthétases : questionnaires d'exposition, prélèvements sanguins et de poussière domestique"},
-  {"nom": "Anti-synthétases négatif", "traitement": "Patients avec myosite sans syndrome des anti-synthétases : mêmes évaluations"},
-  {"nom": "Témoins sains", "traitement": "Sujets sans maladie auto-immune, appariés : mêmes évaluations"}
+  {
+   "nom": "Anti-synthétases positif",
+   "traitement": "Patients avec myosite et syndrome des anti-synthétases : questionnaires d'exposition, prélèvements sanguins et de poussière domestique"
+  },
+  {
+   "nom": "Anti-synthétases négatif",
+   "traitement": "Patients avec myosite sans syndrome des anti-synthétases : mêmes évaluations"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Sujets sans maladie auto-immune, appariés : mêmes évaluations"
+  }
  ],
  "duree": "Évaluation à l'inclusion",
- "critere": "Comparaison, avant la maladie, des expositions environnementales non infectieuses entre patients récents avec anti-synthétases, témoins appariés et patients sans anti-synthétases, à l'inclusion"
+ "critere": "Comparaison, avant la maladie, des expositions environnementales non infectieuses entre patients récents avec anti-synthétases, témoins appariés et patients sans anti-synthétases, à l'inclusion",
+ "relu": "2026-11-15"
 }

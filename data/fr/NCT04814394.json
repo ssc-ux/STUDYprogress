@@ -18,8 +18,12 @@
   "Anémie hémolytique allo-immune (incompatibilité ABO, greffe)"
  ],
  "bras": [
-  { "nom": "Patients atteints d'AHAI", "traitement": "Dosage des lymphocytes Tfh et Tfr circulants avant puis après traitement" }
+  {
+   "nom": "Patients atteints d'AHAI",
+   "traitement": "Dosage des lymphocytes Tfh et Tfr circulants avant puis après traitement"
+  }
  ],
  "duree": "Non précisé",
- "critere": "Proportion de lymphocytes T folliculaires auxiliaires et régulateurs circulants au diagnostic et après traitement (évaluation initiale)"
+ "critere": "Proportion de lymphocytes T folliculaires auxiliaires et régulateurs circulants au diagnostic et après traitement (évaluation initiale)",
+ "relu": "2026-11-15"
 }

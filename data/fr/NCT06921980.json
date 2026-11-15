@@ -19,8 +19,12 @@
   "Autre raison jugée par l'investigateur rendant le patient inéligible"
  ],
  "bras": [
-  { "nom": "Cohorte AHAI sous thérapie cellulaire", "traitement": "Suivi de la fonction cérébrale et de l'état psychologique avant et pendant la thérapie cellulaire (J1, J4, J7, J10, J14, J21, J28)" }
+  {
+   "nom": "Cohorte AHAI sous thérapie cellulaire",
+   "traitement": "Suivi de la fonction cérébrale et de l'état psychologique avant et pendant la thérapie cellulaire (J1, J4, J7, J10, J14, J21, J28)"
+  }
  ],
  "duree": "28 jours après la thérapie cellulaire, avec évaluations avant le traitement et à J1, J4, J7, J10, J14, J21 et J28",
- "critere": "Variations de concentration de l'hémoglobine oxygénée et désoxygénée cérébrale, évolution psychologique, anxiété et dépression, évaluées avant puis jusqu'à J28 après la thérapie cellulaire."
+ "critere": "Variations de concentration de l'hémoglobine oxygénée et désoxygénée cérébrale, évolution psychologique, anxiété et dépression, évaluées avant puis jusqu'à J28 après la thérapie cellulaire.",
+ "relu": "2026-11-15"
 }

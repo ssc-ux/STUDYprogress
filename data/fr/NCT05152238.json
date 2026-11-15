@@ -16,8 +16,12 @@
   "Consentement impossible (patient incapable de comprendre la portée de la participation)"
  ],
  "bras": [
-  { "nom": "Patients atteints de PTI", "traitement": "Cohorte suivie en pratique courante, avec recueil de données et de biospécimens" }
+  {
+   "nom": "Patients atteints de PTI",
+   "traitement": "Cohorte suivie en pratique courante, avec recueil de données et de biospécimens"
+  }
  ],
  "duree": "5 ans",
- "critere": "Données épidémiologiques (incidence, âge, sexe, causes) à l'inclusion, traitements reçus et rémission sur 5 ans"
+ "critere": "Données épidémiologiques (incidence, âge, sexe, causes) à l'inclusion, traitements reçus et rémission sur 5 ans",
+ "relu": "2026-11-15"
 }

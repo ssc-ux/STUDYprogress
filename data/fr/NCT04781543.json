@@ -22,11 +22,21 @@
   "DLCO < 40 % de la théorique (corrigée pour l'hémoglobine)"
  ],
  "bras": [
-  { "nom": "Fipaxalparant 300 mg une fois par jour", "traitement": "2 comprimés de 150 mg le matin, placebo le soir" },
-  { "nom": "Fipaxalparant 300 mg deux fois par jour", "traitement": "2 comprimés de 150 mg matin et soir" },
-  { "nom": "Placebo", "traitement": "Comprimés placebo matin et soir" }
+  {
+   "nom": "Fipaxalparant 300 mg une fois par jour",
+   "traitement": "2 comprimés de 150 mg le matin, placebo le soir"
+  },
+  {
+   "nom": "Fipaxalparant 300 mg deux fois par jour",
+   "traitement": "2 comprimés de 150 mg matin et soir"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Comprimés placebo matin et soir"
+  }
  ],
  "duree": "52 semaines, plus 4 semaines de suivi de tolérance",
  "critere": "Variation de la CVF en pourcentage de la théorique entre l'inclusion et la semaine 52",
- "resultats": "L'étude a été arrêtée prématurément. À la semaine 52, la variation moyenne ajustée de la CVF en % de la théorique était de -2,35 (erreur standard 0,94 ; n = 60) à 300 mg une fois par jour, de -3,22 (0,98 ; n = 55) à 300 mg deux fois par jour et de -2,35 (0,94 ; n = 57) sous placebo. La différence avec le placebo est de 0,00 (IC 95 % -2,61 à 2,62 ; p = 1,000) pour la dose quotidienne unique et de -0,87 (IC 95 % -3,55 à 1,82 ; p = 0,525) pour la dose biquotidienne. Aucun bénéfice sur la CVF n'est donc observé. Des événements indésirables graves ont été rapportés chez 9 patients sur 100 (1×/j), 8 sur 102 (2×/j) et 5 sur 99 (placebo). Un décès est survenu dans le groupe 2×/j et un dans le groupe placebo."
+ "resultats": "L'étude a été arrêtée prématurément. À la semaine 52, la variation moyenne ajustée de la CVF en % de la théorique était de -2,35 (erreur standard 0,94 ; n = 60) à 300 mg une fois par jour, de -3,22 (0,98 ; n = 55) à 300 mg deux fois par jour et de -2,35 (0,94 ; n = 57) sous placebo. La différence avec le placebo est de 0,00 (IC 95 % -2,61 à 2,62 ; p = 1,000) pour la dose quotidienne unique et de -0,87 (IC 95 % -3,55 à 1,82 ; p = 0,525) pour la dose biquotidienne. Aucun bénéfice sur la CVF n'est donc observé. Des événements indésirables graves ont été rapportés chez 9 patients sur 100 (1×/j), 8 sur 102 (2×/j) et 5 sur 99 (placebo). Un décès est survenu dans le groupe 2×/j et un dans le groupe placebo.",
+ "relu": "2026-11-15"
 }

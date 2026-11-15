@@ -21,9 +21,16 @@
   "Greffe de cornée, grossesse, allaitement ou grossesse planifiée"
  ],
  "bras": [
-  { "nom": "Sérum autologue + insuline", "traitement": "Sérum autologue additionné d'insuline humaine recombinante à 1 UI/mL" },
-  { "nom": "Sérum autologue seul", "traitement": "Sérum autologue sans insuline" }
+  {
+   "nom": "Sérum autologue + insuline",
+   "traitement": "Sérum autologue additionné d'insuline humaine recombinante à 1 UI/mL"
+  },
+  {
+   "nom": "Sérum autologue seul",
+   "traitement": "Sérum autologue sans insuline"
+  }
  ],
  "duree": "30 jours (évaluations à l'inclusion, à 10 jours et à 30 jours)",
- "critere": "Score OSDI à l'inclusion, à 10 jours et à 30 jours"
+ "critere": "Score OSDI à l'inclusion, à 10 jours et à 30 jours",
+ "relu": "2026-11-15"
 }

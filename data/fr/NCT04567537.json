@@ -20,10 +20,17 @@
   "Anti-inflammatoires à forte dose (aspirine > 81 mg/j, ibuprofène, corticoïdes) ou immunosuppresseurs réguliers"
  ],
  "bras": [
-  { "nom": "Cicatrices", "traitement": "Laser sur la totalité de la cicatrice hypertrophique" },
-  { "nom": "Sclérodermie", "traitement": "Laser sur la totalité de la lésion" }
+  {
+   "nom": "Cicatrices",
+   "traitement": "Laser sur la totalité de la cicatrice hypertrophique"
+  },
+  {
+   "nom": "Sclérodermie",
+   "traitement": "Laser sur la totalité de la lésion"
+  }
  ],
  "duree": "4 mois pour le critère principal",
  "critere": "Variation du score de la Vancouver Scar Scale après traitement, à 4 mois",
- "resultats": "L'étude a été arrêtée prématurément ; les résultats portent sur 4 patients du groupe cicatrices hypertrophiques. La variation individuelle du score de Vancouver à 4 mois était de -2, -1, -1 et -3 points, soit une amélioration chez chaque patient. Aucun résultat n'est rapporté pour la sclérodermie. Aucun événement indésirable grave n'a été noté chez les 6 patients. L'effectif est trop faible pour conclure."
+ "resultats": "L'étude a été arrêtée prématurément ; les résultats portent sur 4 patients du groupe cicatrices hypertrophiques. La variation individuelle du score de Vancouver à 4 mois était de -2, -1, -1 et -3 points, soit une amélioration chez chaque patient. Aucun résultat n'est rapporté pour la sclérodermie. Aucun événement indésirable grave n'a été noté chez les 6 patients. L'effectif est trop faible pour conclure.",
+ "relu": "2026-11-15"
 }

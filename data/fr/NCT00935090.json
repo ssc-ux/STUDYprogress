@@ -17,8 +17,12 @@
   "Grossesse ou allaitement"
  ],
  "bras": [
-  {"nom": "FLT", "traitement": "Jusqu'à quatre TEP à la 3'-désoxy-3'-[18F]fluorothymidine, avec acquisition immédiate pendant 2 heures"}
+  {
+   "nom": "FLT",
+   "traitement": "Jusqu'à quatre TEP à la 3'-désoxy-3'-[18F]fluorothymidine, avec acquisition immédiate pendant 2 heures"
+  }
  ],
  "duree": "Non précisé (jusqu'à quatre examens TEP)",
- "critere": "Mesure de la fixation et de la rétention de la FLT dans les tumeurs et organes normaux lors de la TEP, et variations de la thymidine kinase, de la thymidylate synthase et du SUV avant et après traitement"
+ "critere": "Mesure de la fixation et de la rétention de la FLT dans les tumeurs et organes normaux lors de la TEP, et variations de la thymidine kinase, de la thymidylate synthase et du SUV avant et après traitement",
+ "relu": "2026-11-15"
 }
