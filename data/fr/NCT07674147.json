@@ -11,7 +11,7 @@
   "Fonction médullaire (PNN ≥ 1 G/L, Hb ≥ 60 g/L, plaquettes ≥ 30 G/L), hépatique, rénale (DFGe ≥ 30) suffisante",
   "FEVG ≥ 55 %, absence de maladie pulmonaire sévère (SpO2 ≥ 92 %)",
   "Contraception efficace jusqu'à 12 mois après la perfusion, test de grossesse négatif",
-  "Maladie réfractaire avec critères spécifiques selon la pathologie (LES : critères EULAR/ACR 2019 ou SLICC 2012 ; autres : voir registre)"
+  "Critères propres à chaque maladie : lupus (EULAR/ACR 2019 ou SLICC 2012, SLEDAI-2K ≥ 8, échec de corticoïdes à forte dose et d'au moins 2 immunosuppresseurs), sclérodermie diffuse (FVC ≥ 50 %, DLCO ≥ 45 %), myosite (critères 2017, auto-anticorps spécifique), néphropathie à IgA (biopsie, IECA/ARA2 ≥ 3 mois), syndrome néphrotique corticorésistant multirésistant (KDIGO 2025)"
  ],
  "exclusion": [
   "Autre maladie auto-immune interférant avec l'évaluation ou la sécurité",
@@ -19,7 +19,8 @@
   "Glomérulonéphrite rapidement progressive (≥ 50 % de croissants, doublement de la créatinine)",
   "Maladie cardiaque sévère dans les 12 mois, maladie sévère du système nerveux central",
   "Cancer antérieur (sauf cancer cutané non mélanome ou carcinome in situ guéri, ou rémission ≥ 3 ans)",
-  "Déficit immunitaire primitif ; autres critères : voir registre"
+  "Déficit immunitaire primitif, infection non contrôlée, VIH, hépatite C ou syphilis, hépatite B active ou latente, EBV ou CMV positifs",
+  "Antécédent de CAR-T ou autre thérapie cellulaire transgénique, allergie au produit ou au tacrolimus, grossesse ou allaitement ; critères d'exclusion supplémentaires propres à chaque maladie"
  ],
  "bras": [
   {
