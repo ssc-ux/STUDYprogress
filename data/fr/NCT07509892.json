@@ -14,7 +14,13 @@
   "Traitement de fond stable (≥ 12 semaines dont ≥ 4 semaines à dose stable) : un seul immunosuppresseur, hydroxychloroquine ≤ 400 mg/j autorisée"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Lupus d'origine médicamenteuse, autre maladie auto-immune ou syndrome de chevauchement (sclérodermie, connectivite mixte)",
+  "Encéphalopathie lupique, ou néphrite lupique active sévère nécessitant cyclophosphamide ou corticoïdes à forte dose",
+  "Plus d'un immunosuppresseur, exposition antérieure à un autre inhibiteur de TYK2 ou à un anti-interféron",
+  "Cancer ou hémopathie lymphoïde dans les 5 ans",
+  "Insuffisance cardiaque NYHA III-IV, syndrome coronarien ou AVC dans les 24 semaines",
+  "Tuberculose active, hépatite B ou C, VIH, déficit immunitaire, infections récurrentes, zona récurrent",
+  "Grossesse ou allaitement, greffe d'organe ou de moelle"
  ],
  "bras": [
   {

@@ -8,16 +8,26 @@
  "profil": "Des adultes de 18 à 65 ans atteints de néphropathie extramembraneuse, de néphropathie lupique ou de néphropathie à IgA, réfractaires ou en rechute.",
  "inclusion": [
   "Âge de 18 à 65 ans, consentement signé",
-  "Fonctions d'organe correctes : eGFR ≥ 30 mL/min/1,73 m², FEVG ≥ 55 %, SpO2 ≥ 92 %",
-  "Néphropathie extramembraneuse primitive sur biopsie, protéinurie ≥ 3,5 g/24 h après 6 mois de traitement ou en rechute",
-  "Néphropathie lupique de classe III/IV (± V) sur biopsie, avec SLEDAI-2K ≥ 6 et atteinte BILAG, ou SLEDAI-2K ≥ 8",
+  "Fonctions d'organe correctes : DFGe ≥ 30 mL/min/1,73 m², FEVG ≥ 55 %, SpO2 ≥ 92 %",
+  "Néphropathie extramembraneuse primitive sur biopsie, réfractaire après 6 mois d'immunosuppresseurs (protéinurie ≥ 3,5 g/24 h) ou en rechute",
+  "Néphropathie lupique de classe III/IV (± V) sur biopsie, SLEDAI-2K ≥ 6 avec BILAG A ou deux B (ou SLEDAI-2K ≥ 8), réfractaire",
+  "Néphropathie à IgA sur biopsie, réfractaire (protéinurie ≥ 0,5 g/24 h malgré 6 mois d'immunosuppresseurs) ou en rechute",
   "Contraception efficace jusqu'à 1 an après la perfusion"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Situation menaçant le pronostic vital (SAPL catastrophique, insuffisance rénale aiguë sévère)",
+  "Cancer dans les 5 ans (hors exceptions guéries), chirurgie majeure dans les 24 semaines",
+  "Connectivite mixte associée ou autre maladie gênant l'évaluation",
+  "Hépatite B ou C active, VIH, HTLV, syphilis, CMV, déficit en IgA sélectif",
+  "Infection active non contrôlée, zona ou varicelle dans les 12 semaines",
+  "Maladie cardiovasculaire majeure dans les 6 mois, thrombose veineuse symptomatique, atteinte neurologique centrale",
+  "Grossesse ou allaitement, hypersensibilité au produit, fludarabine, cyclophosphamide ou tocilizumab"
  ],
  "bras": [
-  { "nom": "CAR-γδ T anti-CD19", "traitement": "Lymphodéplétion puis perfusion intraveineuse unique, doses croissantes selon un schéma 3+3" }
+  {
+   "nom": "CAR-γδ T anti-CD19",
+   "traitement": "Lymphodéplétion puis perfusion intraveineuse unique, doses croissantes selon un schéma 3+3"
+  }
  ],
  "duree": "12 mois après la perfusion",
  "critere": "Incidence des toxicités dose-limitantes du jour 0 au jour 28, et des événements indésirables jusqu'au mois 12"

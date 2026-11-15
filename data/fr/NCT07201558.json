@@ -10,11 +10,19 @@
   "Âge de 18 à 65 ans",
   "PR : critères EULAR/ACR 2010, RF ou ACPA positifs, DAS28-CRP > 3,2 avec ≥ 4 articulations douloureuses et gonflées (≥ 6 aux États-Unis)",
   "PR : échec ou intolérance à au moins 2 b/tsDMARDs de mécanismes différents après échec d'un csDMARD",
-  "LES : critères EULAR/ACR 2019, auto-anticorps spécifiques (AAN ≥ 1:80, anti-ADN natif ou anti-Sm), activité modérée à sévère",
-  "Traitements de fond limités autorisés (prednisone ≤ 10 mg/j stable, antipaludéen, méthotrexate, sulfasalazine, léflunomide)"
+  "LES : critères EULAR/ACR 2019, auto-anticorps spécifiques (AAN ≥ 1:80, anti-ADN natif ou anti-Sm), SLEDAI-2K clinique > 4",
+  "LES : échec ou intolérance à au moins 3 traitements de référence (corticoïdes, antipaludéens, immunosuppresseurs, bélimumab, anifrolumab, anti-CD20…)",
+  "Lymphocytes B ≥ 50/µL et IgG ≥ 6 g/L au dépistage",
+  "Traitements de fond limités autorisés à dose stable (prednisone, antipaludéen, un immunosuppresseur conventionnel)"
  ],
  "exclusion": [
-  "Non détaillé dans l'extrait du registre"
+  "Atteinte menaçant le pronostic vital ou d'organe (néphropathie lupique sévère active, atteinte pulmonaire ou cardiaque sévère, SAPL catastrophique ou sévère, pneumopathie interstitielle sévère, syndrome de Felty)",
+  "Antécédent de SAM/lymphohistiocytose hémophagocytaire",
+  "PR : arthrite juvénile ou idiopathique avant 16 ans, spondylarthrite axiale ; LES : lupus neuropsychiatrique sévère ou instable",
+  "Autre maladie auto-immune ou inflammatoire sévère (exceptions listées), comorbidité neurologique centrale significative",
+  "Déficit immunitaire primitif, splénectomie, infection active ou récente, antécédent d'infections graves récurrentes",
+  "Tuberculose active ou latente, VIH, EBV ou CMV actif, hépatite B ou C, COVID-19 positif au dépistage",
+  "Antécédent de CAR-T, d'engageur de lymphocytes T (hors surovatamig), de greffe de moelle ou de cellules souches, d'irradiation lymphoïde totale ou d'alemtuzumab ; grossesse ou allaitement"
  ],
  "bras": [
   {

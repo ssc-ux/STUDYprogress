@@ -19,11 +19,19 @@
   "Syndrome des antiphospholipides catastrophique",
   "Maladie articulaire ou cutanée inflammatoire autre que le LES",
   "Antécédent ou notion d'idées suicidaires",
-  "Connectivite mixte ou syndrome de chevauchement (sauf exceptions)"
+  "Connectivite mixte ou syndrome de chevauchement (sauf exceptions)",
+  "Infections récidivantes ou opportunistes graves, VIH, hépatite B ou C, zona sévère, antécédent de cancer (hors carcinome cutané ou in situ du col guéris)",
+  "Anifrolumab antérieur, anti-JAK dans les 12 semaines, anti-BTK dans les 24 semaines, corticoïdes IM ou IV dans les 6 semaines, vaccin vivant dans les 8 semaines"
  ],
  "bras": [
-  { "nom": "Anifrolumab", "traitement": "300 mg IV toutes les 4 semaines, de S0 à S48" },
-  { "nom": "Placebo", "traitement": "Placebo IV toutes les 4 semaines, de S0 à S48" }
+  {
+   "nom": "Anifrolumab",
+   "traitement": "300 mg IV toutes les 4 semaines, de S0 à S48"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo IV toutes les 4 semaines, de S0 à S48"
+  }
  ],
  "duree": "52 semaines",
  "critere": "Différence de proportion de répondeurs entre anifrolumab et placebo à la semaine 52",

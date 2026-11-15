@@ -11,11 +11,17 @@
   "Lupus selon les critères EULAR/ACR 2019, diagnostiqué depuis au moins 12 semaines",
   "ANA ≥ 1:80, ou anti-ADN natif ou anti-Sm positifs",
   "Maladie active : SLEDAI-2K ≥ 8, ou ≥ 6 avec complément bas ou anti-ADN positifs",
-  "Traitement standard stable : corticoïdes ≤ 40 mg/j de prednisone, antipaludéen, ou un seul immunosuppresseur"
+  "Traitement standard stable : corticoïdes ≤ 40 mg/j de prednisone, antipaludéen, ou un seul immunosuppresseur",
+  "Consentement signé et respect des procédures"
  ],
  "exclusion": [
   "Intolérance ou allergie connue au produit étudié ou à des médicaments pouvant être utilisés (par ex. tocilizumab)",
-  "Autres critères d'exclusion détaillés dans le protocole, non repris dans le registre"
+  "Lupus neuropsychiatrique sévère actif ou instable, néphrite lupique sévère",
+  "Autre maladie auto-immune pouvant gêner l'évaluation",
+  "Hypertension ou diabète mal contrôlés",
+  "Cancer dans les 5 ans, antécédent de greffe d'organe vital",
+  "Infection opportuniste dans les 12 semaines, CAR-T, CAR-NK ou autre thérapie génique antérieure",
+  "Grossesse ou allaitement"
  ],
  "bras": [
   {

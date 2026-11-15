@@ -1,14 +1,16 @@
 {
  "h": "e0828c1fd805",
  "date": "2026-11-14",
- "titre": "VISION-GCA : inflammation vasculaire orbitaire en TEP/IRM dans les neuropathies optiques ischémiques et l'ACG",
+ "titre": "Inflammation vasculaire orbitaire en TEP/IRM dans les neuropathies optiques ischémiques et l'ACG",
  "question": "La TEP/IRM orbitaire et l'OCT permettent-elles de distinguer la neuropathie optique ischémique de l'ACG (NOIAA) de la NOIANA ?",
  "contexte": "La perte visuelle brutale par neuropathie optique ischémique antérieure artéritique (NOIAA) est une complication redoutée de l'ACG. Elle impose une corticothérapie forte dose immédiate. À l'inverse, la NOIA non artéritique (NOIANA), bien plus fréquente, ne bénéficie pas des corticoïdes, qui exposent à des effets indésirables. Les distinguer reste cliniquement très difficile.\n\nLa TEP au FDG montre une fixation des artères de moyen et gros calibre dans l'ACG, mais pas des petits vaisseaux orbitaires. L'IRM orbitaire en séquences black blood a montré un épaississement et un rehaussement des vaisseaux orbitaires dans l'ACG. Des petites études suggèrent aussi des modifications rétiniennes en OCT (dont PAMM, liquide intra et sous-rétinien) différentes selon NOIAA ou NOIANA.\n\nCette cohorte de Rigshospitalet (Copenhague) compare par TEP/IRM FDG black blood des patients avec neuropathie optique ischémique récente et des patients ACG sans atteinte visuelle, avec suivi de 2 ans pour le risque de perte visuelle ultérieure.",
  "interet": "L'étude pourrait fournir un critère d'imagerie pour distinguer NOIAA et NOIANA, afin de traiter rapidement les ACG et d'éviter des corticoïdes inutiles. Elle pourrait aussi identifier des patients ACG à risque de perte visuelle.",
  "profil": "Des adultes de 50 ans et plus avec une neuropathie optique ischémique antérieure récente, ou une ACG récente sans atteinte visuelle.",
  "inclusion": [
-  "Groupe NOIA : suspicion de NOIA récente (œdème papillaire, baisse d'acuité ou du champ visuel, déficit pupillaire afférent relatif) et âge ≥ 50 ans",
-  "Groupe ACG : ACG récente confirmée cliniquement et par échographie, sans trouble visuel lié à l'ACG, âge ≥ 50 ans"
+  "Groupe NOIA : suspicion de NOIA récente (œdème papillaire homolatéral, baisse d'acuité ou du champ visuel, déficit pupillaire afférent relatif)",
+  "Groupe ACG : ACG récente confirmée cliniquement et par échographie",
+  "Groupe ACG : absence de trouble visuel lié à l'ACG (perte de vision ou diplopie, transitoire ou permanente)",
+  "Âge ≥ 50 ans dans les deux groupes"
  ],
  "exclusion": [
   "Implants ferromagnétiques",

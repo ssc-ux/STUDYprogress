@@ -14,11 +14,22 @@
   "IMC ≤ 40 kg/m²"
  ],
  "exclusion": [
-  "Critères d'exclusion détaillés : non précisé dans les données retenues"
+  "Myosite à inclusions, myosite associée à un cancer (diagnostic dans les 3 ans suivant un cancer) ou myopathie nécrosante à médiation immune (anti-SRP ou anti-HMGCR)",
+  "DM juvénile, actuelle ou passée",
+  "Autre connectivite associée à la myopathie inflammatoire, selon l'investigateur",
+  "Pneumopathie interstitielle sévère (oxygène au repos ou CVF < 60 % de la théorique)",
+  "Anticorps anti-TIF1 gamma ou anti-MDA5 récent sans dépistage de cancer adéquat dans les 12 mois",
+  "Maladie non contrôlée autre que DM/PM (respiratoire, cardiovasculaire, digestive, rénale avec DFG < 40 mL/min/1,73 m², hépatique, etc.)"
  ],
  "bras": [
-  { "nom": "Enpatoran", "traitement": "100 mg par voie orale deux fois par jour pendant 24 semaines, puis extension ouverte" },
-  { "nom": "Placebo", "traitement": "Placebo oral pendant 24 semaines" }
+  {
+   "nom": "Enpatoran",
+   "traitement": "100 mg par voie orale deux fois par jour pendant 24 semaines, puis extension ouverte"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo oral pendant 24 semaines"
+  }
  ],
  "duree": "24 semaines en double aveugle, suivi de sécurité jusqu'à la semaine 26, puis extension ouverte",
  "critere": "Score d'amélioration totale ACR/EULAR (TIS) à la semaine 24",

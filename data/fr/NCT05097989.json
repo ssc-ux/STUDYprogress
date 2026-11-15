@@ -14,16 +14,38 @@
   "Si inhibiteur du SGLT2 : dose stable depuis ≥ 3 mois"
  ],
  "exclusion": [
-  "Critères d'exclusion détaillés : non précisé dans le résumé retenu"
+  "DFG ≤ 30 mL/min/1,73 m² au dépistage ; si DFG < 45, fibrose interstitielle/atrophie tubulaire, glomérulosclérose ou croissants ≥ 50 % sur la biopsie",
+  "Autre maladie rénale significative sur la biopsie récente",
+  "Antécédent de greffe d'organe ou de moelle, ou greffe prévue ; splénectomie ou asplénie fonctionnelle",
+  "Déficit en complément connu ou suspecté (hors maladie sous-jacente), insuffisance médullaire (neutrophiles < 1,3 G/L, plaquettes < 50 G/L)",
+  "Néphrite lupique : cyclophosphamide dans les 6 mois, inhibiteur de la calcineurine dans le mois, méthylprednisolone IV > 3 g cumulés, mycophénolate > 2 g/j ou prednisone ≥ 0,5 mg/kg/j pendant ≥ 8 semaines",
+  "Néphrite lupique : HTA non contrôlée (> 160/110 mmHg), atteinte neuropsychiatrique ou péricardite lupique active",
+  "Néphropathie à IgA : glomérulonéphrite rapidement progressive (perte de DFG ≥ 30 % en 3 mois), forme secondaire, corticoïdes > 20 mg/j > 14 jours ou autre immunosuppresseur dans les 6 mois, PA ≥ 140/90 mmHg"
  ],
  "bras": [
   {
-   "nom": "Cohorte néphrite lupique",
-   "traitement": "ALXN2050 180 mg, 120 mg ou placebo, en plus du traitement de fond"
+   "nom": "Néphrite lupique : ALXN2050 180 mg",
+   "traitement": "ALXN2050 180 mg en plus du traitement de fond ; rythme non précisé"
   },
   {
-   "nom": "Cohorte néphropathie à IgA",
-   "traitement": "ALXN2050 180 mg, 120 mg ou placebo, en plus du traitement de fond"
+   "nom": "Néphrite lupique : ALXN2050 120 mg",
+   "traitement": "ALXN2050 120 mg en plus du traitement de fond ; rythme non précisé"
+  },
+  {
+   "nom": "Néphrite lupique : placebo",
+   "traitement": "Placebo apparié en plus du traitement de fond"
+  },
+  {
+   "nom": "Néphropathie à IgA : ALXN2050 180 mg",
+   "traitement": "ALXN2050 180 mg en plus du traitement de fond ; rythme non précisé"
+  },
+  {
+   "nom": "Néphropathie à IgA : ALXN2050 120 mg",
+   "traitement": "ALXN2050 120 mg en plus du traitement de fond ; rythme non précisé"
+  },
+  {
+   "nom": "Néphropathie à IgA : placebo",
+   "traitement": "Placebo apparié en plus du traitement de fond"
   }
  ],
  "duree": "26 semaines de période initiale en aveugle, 24 semaines de traitement prolongé, puis extension ouverte jusqu'à 2 ans",

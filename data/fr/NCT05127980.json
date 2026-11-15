@@ -14,8 +14,9 @@
   "Âge ≥ 18 ans"
  ],
  "exclusion": [
-  "Groupe témoin : suspicion ou diagnostic de mononucléose infectieuse selon le clinicien",
-  "Autres critères d'exclusion : non précisé dans l'extrait consulté"
+  "Groupe témoin : suspicion ou diagnostic de mononucléose infectieuse selon le clinicien (inclusion possible plus tard si la primo-infection est confirmée)",
+  "Immunosuppression : déficit immunitaire primitif ou secondaire, ou traitement immunosuppresseur dont prednisone ≥ 10 mg/j",
+  "Antécédent de maladie auto-immune (lupus, vascularite, etc.)"
  ],
  "bras": [
   {

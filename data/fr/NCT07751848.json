@@ -15,7 +15,13 @@
   "Traitement standard en cours (corticoïdes, antipaludéens ou immunosuppresseurs, seuls ou associés)"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisé dans l'extrait disponible"
+  "Vascularite non liée au lupus",
+  "Maladie non lupique nécessitant des corticoïdes systémiques (asthme, BPCO)",
+  "Lupus neuropsychiatrique sévère actif ou atteinte rénale lupique sévère active nécessitant un traitement plus agressif",
+  "Syndrome de chevauchement (sclérodermie, connectivite mixte) ou autre maladie auto-immune (SEP, psoriasis, MICI)",
+  "Syndrome des antiphospholipides catastrophique, événement thrombotique grave ou perte fœtale inexpliquée récents",
+  "Déficit immunitaire, splénectomie, VIH, infection nécessitant une hospitalisation, zona sévère ou récidivant",
+  "Hépatite B (AgHBs, ou anti-HBc avec ADN VHB détectable) ou hépatite C active"
  ],
  "bras": [
   {

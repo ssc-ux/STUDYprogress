@@ -24,19 +24,27 @@
  "bras": [
   {
    "nom": "Partie 1a : escalade de dose, myélome",
-   "traitement": "SAR445514 sous-cutané, cycles de 4 semaines"
+   "traitement": "SAR445514 sous-cutané, cycles de 4 semaines, doses croissantes"
   },
   {
    "nom": "Partie 1b : escalade de dose, amylose AL",
-   "traitement": "SAR445514 sous-cutané, deux doses issues de la partie 1a"
+   "traitement": "SAR445514 sous-cutané, les deux doses retenues pour la partie 2, après la fin de la partie 1a"
   },
   {
-   "nom": "Partie 2 : optimisation, myélome",
-   "traitement": "SAR445514 à la dose A ou B, sous-cutané"
+   "nom": "Partie 2 : niveau de dose A, myélome",
+   "traitement": "SAR445514 sous-cutané au niveau de dose A"
   },
   {
-   "nom": "Partie 3 : expansion",
-   "traitement": "SAR445514 à la dose recommandée préliminaire, myélome (3a) et amylose AL (3b)"
+   "nom": "Partie 2 : niveau de dose B, myélome",
+   "traitement": "SAR445514 sous-cutané au niveau de dose B"
+  },
+  {
+   "nom": "Partie 3a : expansion, myélome",
+   "traitement": "SAR445514 sous-cutané à la dose recommandée préliminaire"
+  },
+  {
+   "nom": "Partie 3b : expansion, amylose AL",
+   "traitement": "SAR445514 sous-cutané à la dose recommandée préliminaire"
   }
  ],
  "duree": "Cycles de 4 semaines ; suivi jusqu'au décès ou à l'analyse finale de survie",

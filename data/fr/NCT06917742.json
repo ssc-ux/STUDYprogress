@@ -20,12 +20,20 @@
  ],
  "bras": [
   {
-   "nom": "Parties A et B",
-   "traitement": "Volontaires sains : CPTX2309 IV en dose unique puis en doses multiples croissantes"
+   "nom": "Partie A : doses uniques croissantes (volontaires sains)",
+   "traitement": "CPTX2309 IV, doses uniques croissantes"
   },
   {
-   "nom": "Parties C et D",
-   "traitement": "Patients PR ou LES : CPTX2309 IV en dose unique puis en doses multiples croissantes"
+   "nom": "Partie B : doses multiples croissantes (volontaires sains)",
+   "traitement": "CPTX2309 IV, doses multiples croissantes"
+  },
+  {
+   "nom": "Partie C : doses uniques croissantes (PR ou LES)",
+   "traitement": "CPTX2309 IV, doses uniques croissantes, patients avec PR ou LES modérés à sévères"
+  },
+  {
+   "nom": "Partie D : doses multiples croissantes (PR ou LES)",
+   "traitement": "CPTX2309 IV, doses multiples croissantes, patients avec PR ou LES modérés à sévères"
   }
  ],
  "duree": "Jusqu'à environ 1 an",

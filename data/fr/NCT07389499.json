@@ -14,7 +14,13 @@
   "Néphropathie extramembraneuse primitive biopsiée avec anticorps anti-PLA2R ou équivalent"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait du registre"
+  "Néphropathie à IgA, vascularite à ANCA, néphropathie extramembraneuse ou glomérulopathie secondaire (hépatite B/C, VIH, médicaments, FSGS secondaire ou héréditaire)",
+  "Hémorragie alvéolaire sous ventilation invasive, ou glomérulonéphrite rapidement progressive sans lien avec les maladies étudiées",
+  "Épuration extrarénale en cours ou prévue",
+  "Hypersensibilité sévère, ou contre-indication à la fludarabine ou au cyclophosphamide",
+  "Insuffisance cardiaque NYHA III-IV, infarctus récent, QTcF > 450 ms (H) ou > 470 ms (F), fibrose pulmonaire avancée",
+  "Cancer dans les 5 ans, greffe d'organe, CAR-T antérieur",
+  "VIH, hépatite B ou C active, syphilis, CMV ou EBV détectable, tuberculose active, infection non contrôlée"
  ],
  "bras": [
   {

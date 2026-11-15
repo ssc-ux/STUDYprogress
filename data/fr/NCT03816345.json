@@ -24,12 +24,51 @@
   "Critères propres aux cohortes MICI (ipilimumab antérieur, colectomie, cholangite sclérosante primitive pour la RCH) et SEP (contre-indication à l'IRM avec gadolinium)"
  ],
  "bras": [
-  { "nom": "Bras I", "traitement": "Nivolumab IV toutes les 4 semaines, jusqu'à 2 ans (métastatique), 1 an (adjuvant) ou 3 mois après chirurgie (néoadjuvant)" },
-  { "nom": "Bras II, IV, VI, VIII, IX", "traitement": "Nivolumab avec ipilimumab selon l'indication (mélanome, CBNPC PD-L1 positif, mésothéliome, cancer colorectal MSI-H, carcinome hépatocellulaire)" },
-  { "nom": "Bras III et V", "traitement": "Nivolumab avec doublet de platine, avec ou sans ipilimumab, dans le CBNPC" },
-  { "nom": "Bras VII", "traitement": "Nivolumab avec ipilimumab puis cabozantinib dans le carcinome rénal avancé" },
-  { "nom": "Bras X et XI", "traitement": "Nivolumab avec fluoropyrimidine et sel de platine (avec ou sans ipilimumab) dans les cancers œsophagien, jonctionnel et gastrique" }
+  {
+   "nom": "Bras I : nivolumab",
+   "traitement": "Nivolumab IV (30 min) toutes les 4 semaines, jusqu'à 2 ans (indication métastatique), 1 an (adjuvant) ou 3 mois après chirurgie (néoadjuvant)"
+  },
+  {
+   "nom": "Bras II : mélanome, nivolumab + ipilimumab",
+   "traitement": "Nivolumab IV toutes les 2 ou 4 semaines avec ipilimumab IV toutes les 3 semaines, 4 doses, puis nivolumab seul possible"
+  },
+  {
+   "nom": "Bras III : CBNPC résécable, nivolumab + doublet de platine",
+   "traitement": "Nivolumab IV avec doublet de platine toutes les 3 semaines, jusqu'à 3 cycles (néoadjuvant)"
+  },
+  {
+   "nom": "Bras IV : CBNPC PD-L1 positif, nivolumab + ipilimumab",
+   "traitement": "Nivolumab IV toutes les 3 semaines et ipilimumab IV toutes les 6 semaines, jusqu'à 2 ans"
+  },
+  {
+   "nom": "Bras V : CBNPC métastatique, nivolumab + ipilimumab + doublet de platine",
+   "traitement": "Nivolumab toutes les 3 semaines, ipilimumab toutes les 6 semaines et doublet de platine toutes les 3 semaines, 2 cycles, puis nivolumab + ipilimumab jusqu'à 2 ans"
+  },
+  {
+   "nom": "Bras VI : mésothéliome pleural, nivolumab + ipilimumab",
+   "traitement": "Nivolumab IV toutes les 3 semaines et ipilimumab IV toutes les 6 semaines, jusqu'à 2 ans"
+  },
+  {
+   "nom": "Bras VII : carcinome rénal avancé, nivolumab + ipilimumab + cabozantinib",
+   "traitement": "Nivolumab avec ipilimumab toutes les 3 semaines, 4 doses, puis nivolumab seul ; cabozantinib optionnel"
+  },
+  {
+   "nom": "Bras VIII : cancer colorectal MSI-H/dMMR, nivolumab + ipilimumab",
+   "traitement": "Nivolumab toutes les 2 ou 4 semaines avec ipilimumab toutes les 3 semaines, 4 doses, puis nivolumab seul possible"
+  },
+  {
+   "nom": "Bras IX : carcinome hépatocellulaire, nivolumab + ipilimumab",
+   "traitement": "Nivolumab avec ipilimumab toutes les 3 semaines, 4 doses, puis nivolumab seul toutes les 2 ou 4 semaines possible"
+  },
+  {
+   "nom": "Bras X : carcinome épidermoïde de l'œsophage",
+   "traitement": "Nivolumab avec fluoropyrimidine et sel de platine, ou nivolumab avec ipilimumab, jusqu'à 2 ans"
+  },
+  {
+   "nom": "Bras XI : cancer gastrique, jonction œso-gastrique, adénocarcinome œsophagien",
+   "traitement": "Nivolumab avec fluoropyrimidine et sel de platine toutes les 2 ou 3 semaines, jusqu'à 2 ans"
+  }
  ],
  "duree": "Jusqu'à 2 ans de traitement, suivi jusqu'à 5 ans",
- "critere": "Incidence des événements indésirables jusqu'à 100 jours après la fin du traitement"
+ "critere": "Incidence des événements indésirables (jusqu'à 100 jours après la fin du traitement) ; autres critères : évolution de l'activité de la maladie auto-immune, taux de réponse globale (jusqu'à 5 ans), marqueurs immunologiques."
 }

@@ -19,7 +19,8 @@
   "Traitement antérieur par inhibiteur de KIT ciblé (hors produits approuvés dans la mastocytose)",
   "Hémorragie cliniquement significative dans les 30 jours ou anticoagulation nécessaire",
   "Corticoïdes > 10 mg/j d'équivalent prednisone",
-  "Inhibiteurs ou inducteurs puissants du CYP3A4 dans les 14 jours"
+  "Inhibiteurs ou inducteurs puissants du CYP3A4 dans les 14 jours",
+  "Traitement cytoréducteur ou produit expérimental récent (14 jours ou 5 demi-vies ; 28 jours pour cladribine, interféron, anticorps), radiothérapie ou PUVA dans les 14 jours"
  ],
  "bras": [
   {
@@ -41,6 +42,10 @@
   {
    "nom": "Partie 3 : extension",
    "traitement": "Bézuclastinib en ouvert pour les patients issus des parties précédentes"
+  },
+  {
+   "nom": "Sous-étude après avapritinib : bézuclastinib",
+   "traitement": "Bézuclastinib en comprimés (formulation B) chez des patients insuffisamment contrôlés par l'avapritinib ; dose non précisée"
   }
  ],
  "duree": "Non précisé ; partie 3 jusqu'à 5 ans",

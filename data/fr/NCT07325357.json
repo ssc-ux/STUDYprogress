@@ -15,7 +15,13 @@
   "Doses stables de méthotrexate et biothérapie pendant 6 mois"
  ],
  "exclusion": [
-  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+  "Autre maladie auto-immune ou auto-inflammatoire (lupus, spondylarthrite, polyarthrite…)",
+  "Antifibrosant ou médicament à effet antifibrosant dans les 6 mois (acétylcystéine, nintédanib, pirfénidone), ou autre essai antifibrosant",
+  "ALAT/ASAT > 2 N, bilirubine > normale, DFGe < 15 mL/min/1,73 m² ou psychotropes",
+  "Affection grave, évolutive ou non contrôlée sans lien avec la maladie de Takayasu",
+  "Allergie à la pirfénidone ou échec antérieur d'un traitement de 3 mois",
+  "Inducteurs ou inhibiteurs du CYP1A2 (à arrêter et à éviter pendant l'étude)",
+  "Allergie aux produits de contraste d'ARM ; chirurgie vasculaire prévue dans les 6 mois"
  ],
  "bras": [
   {

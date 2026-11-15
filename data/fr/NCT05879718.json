@@ -22,10 +22,16 @@
   "Infection grave, zona disséminé ou récidivant, hépatite B ou C, VIH, tuberculose active ou latente"
  ],
  "bras": [
-  { "nom": "Groupe 1", "traitement": "PF-06823859 IV toutes les 4 semaines, puis toutes les 8 semaines" },
-  { "nom": "Groupe 2", "traitement": "Placebo IV toutes les 4 semaines, puis PF-06823859 toutes les 8 semaines" }
+  {
+   "nom": "Groupe 1",
+   "traitement": "PF-06823859 IV toutes les 4 semaines, puis toutes les 8 semaines"
+  },
+  {
+   "nom": "Groupe 2",
+   "traitement": "Placebo IV toutes les 4 semaines, puis PF-06823859 toutes les 8 semaines"
+  }
  ],
- "duree": "Non précisé ; critère principal à la semaine 12, bascule à la semaine 16",
+ "duree": "Environ 65 semaines (5 semaines de sélection, 12 semaines de traitement toutes les 4 semaines, 36 semaines toutes les 8 semaines, 12 semaines de suivi)",
  "critere": "Variation de la signature interféron de type 1 dans la peau lésionnelle à la semaine 12",
  "resultats": "L'étude a été arrêtée prématurément et n'a analysé que 7 patients pour le critère principal. La variation moyenne ajustée de la signature interféron de type 1 dans la peau lésionnelle à la semaine 12 était de -1,1 log2(CPM) (IC 90 % -3,0 à 0,8 ; n = 5) dans le groupe PF-06823859 et de -1,6 (IC 90 % -4,9 à 1,8 ; n = 2) dans le groupe placebo. La différence ajustée est de 0,5 (IC 90 % -3,7 à 4,6 ; p = 0,82). Aucun événement indésirable grave et aucun décès n'ont été rapportés dans aucun groupe. Les effectifs sont trop faibles pour toute conclusion d'efficacité."
 }

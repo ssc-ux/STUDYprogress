@@ -23,12 +23,20 @@
  ],
  "bras": [
   {
-   "nom": "Cohortes 1b et 2a, conditionnement A",
-   "traitement": "Greffe de cellules souches appauvries en lymphocytes T αβ avec le régime A (composition non précisée), puis greffe de rein"
+   "nom": "Cohorte 1b, conditionnement A",
+   "traitement": "4 patients (phase 1b de sécurité) : greffe de cellules souches appauvries en lymphocytes T αβ et B CD19+ après conditionnement A (cyclophosphamide, fludarabine, irradiation corporelle totale, ATG, rituximab), puis greffe de rein du même donneur après greffe de moelle (≥ 3 mois), immunosuppression arrêtée avant J+90"
   },
   {
-   "nom": "Cohortes 1b et 2a, conditionnement B",
-   "traitement": "Même stratégie avec le régime B (composition non précisée)"
+   "nom": "Cohorte 2a, conditionnement A",
+   "traitement": "8 patients supplémentaires (phase 2a) si la stratégie est sûre et non futile, même traitement que la cohorte 1b A"
+  },
+  {
+   "nom": "Cohorte 1b, conditionnement B",
+   "traitement": "4 patients (phase 1b de sécurité) : même stratégie après conditionnement B (fludarabine, cyclophosphamide, irradiation corporelle totale, ATG, rituximab, melphalan)"
+  },
+  {
+   "nom": "Cohorte 2a, conditionnement B",
+   "traitement": "8 patients supplémentaires (phase 2a) si la stratégie est sûre et non futile, même traitement que la cohorte 1b B"
   }
  ],
  "duree": "Non précisé (critère principal à J90 après la greffe de rein)",

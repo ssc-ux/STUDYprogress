@@ -15,7 +15,13 @@
   "Contraception efficace pendant et ≥ 12 mois après le traitement"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Allergie médicamenteuse sévère ou terrain allergique",
+  "Infection non contrôlée, existante ou suspectée",
+  "Maladie du système nerveux central non liée à la maladie de base ; trouble psychiatrique ou cognitif sévère",
+  "Cardiopathie ne permettant pas de tolérer le traitement ; insuffisance rénale terminale",
+  "Déficit immunitaire humoral congénital ; tumeur maligne dans les 5 ans ; thrombose veineuse profonde ou embolie pulmonaire symptomatique dans les 6 mois",
+  "Sérologies VHB (avec ADN détectable), VHC (ARN), VIH ou syphilis positives",
+  "Immunosuppresseur actif dans les 5 demi-vies ou biothérapie dans les 4 semaines ; autre essai dans les 3 mois ; grossesse"
  ],
  "bras": [
   {

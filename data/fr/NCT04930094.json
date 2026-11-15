@@ -14,13 +14,27 @@
   "Épisode traitable par une dose de prednisone conforme aux recommandations internationales"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans le résumé retenu du registre",
-  "Se référer au registre pour la liste complète"
+  "Exposition antérieure au sécukinumab ou à un autre anti-IL-17, ou traitement déplétant les cellules",
+  "Tocilizumab, autre anti-IL-6 ou inhibiteur de JAK récent (12 semaines), ou échec ou rechute sous un traitement antérieur de l'ACG (hors corticoïdes, méthotrexate, léflunomide, azathioprine)",
+  "Corticothérapie systémique chronique ou bolus pour une autre indication",
+  "Autre maladie inflammatoire (MICI active, uvéite) ou autre vascularite systémique",
+  "Infection active, tuberculose active ou VIH, hépatite B ou C non traitée",
+  "Cancer ou lymphoprolifération dans les 5 ans, accident ischémique majeur dans les 12 semaines",
+  "Anomalies biologiques : transaminases > 3 N, PAL ou bilirubine > 2 N, leucocytes < 3 000/µL, plaquettes < 100 000/µL, Hb < 8,3 g/dL"
  ],
  "bras": [
-  {"nom": "Sécukinumab 300 mg", "traitement": "300 mg SC à l'inclusion, aux semaines 1, 2 et 3, puis toutes les 4 semaines ; décroissance de prednisone sur 26 semaines"},
-  {"nom": "Sécukinumab 150 mg", "traitement": "150 mg SC à l'inclusion, aux semaines 1, 2 et 3, puis toutes les 4 semaines ; décroissance de prednisone sur 26 semaines"},
-  {"nom": "Placebo", "traitement": "Placebo SC selon le même rythme ; décroissance de prednisone sur 52 semaines"}
+  {
+   "nom": "Sécukinumab 300 mg",
+   "traitement": "300 mg SC à l'inclusion, aux semaines 1, 2 et 3, puis toutes les 4 semaines ; décroissance de prednisone sur 26 semaines"
+  },
+  {
+   "nom": "Sécukinumab 150 mg",
+   "traitement": "150 mg SC à l'inclusion, aux semaines 1, 2 et 3, puis toutes les 4 semaines ; décroissance de prednisone sur 26 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo SC selon le même rythme ; décroissance de prednisone sur 52 semaines"
+  }
  ],
  "duree": "52 semaines",
  "critere": "Proportion de participants en rémission soutenue à 52 semaines."

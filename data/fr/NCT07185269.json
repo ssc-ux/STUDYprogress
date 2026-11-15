@@ -1,10 +1,10 @@
 {
  "h": "390394c0e3e6",
  "date": "2026-11-14",
- "titre": "Produit 626 versus placebo dans le lupus actif sous traitement standard : phase 1/2",
- "question": "Le produit 626, ajouté au traitement standard, améliore-t-il le lupus actif par rapport au placebo ?",
- "contexte": "Malgré les avancées thérapeutiques, de nombreux patients lupiques gardent une maladie active, des poussées, une intolérance aux traitements standards et des dommages d'organes. Les options validées restent limitées : hydroxychloroquine, immunosuppresseurs, bélimumab, anifrolumab, voclosporine dans la néphrite.\n\nLe registre n'indique pas la nature du produit « 626 », développé par Sunshine Guojian Pharmaceutical (Shanghai). L'essai de phase 1/2 est randomisé en double aveugle et vise à montrer l'efficacité et la tolérance du 626 ajouté au traitement standard par rapport au placebo avec traitement standard. Il inclut 198 adultes de 18 à 70 ans (40 à 90 kg) avec un lupus diagnostiqué depuis ≥ 6 mois, ANA ≥ 1:80 ou anti-ADN natif positif, SLEDAI-2K ≥ 6 avec score clinique ≥ 4, sous au moins un traitement standard (corticoïdes oraux, antipaludéen ou immunosuppresseur).",
- "interet": "L'étude fournira un premier signal d'efficacité d'un nouveau traitement du lupus, avec un comparateur placebo. Le mécanisme n'étant pas précisé, son intérêt réel reste à établir.",
+ "titre": "SSGJ-626, anticorps anti-BDCA2, versus placebo dans le lupus systémique (phase 1b/2)",
+ "question": "Le SSGJ-626 (anti-BDCA2), ajouté au traitement standard, est-il bien toléré et efficace par rapport au placebo dans le lupus systémique ?",
+ "contexte": "Malgré les avancées thérapeutiques, de nombreux patients lupiques gardent une maladie active, des poussées, une intolérance aux traitements standards et des dommages d'organes. Les options validées restent limitées : hydroxychloroquine, immunosuppresseurs, bélimumab, anifrolumab, voclosporine dans la néphrite.\n\nLe SSGJ-626, développé par Sunshine Guojian Pharmaceutical (Shanghai), est un anticorps dirigé contre BDCA2, récepteur des cellules dendritiques plasmacytoïdes, productrices d'interféron de type I. L'essai de phase 1b/2 est randomisé en double aveugle et vise à montrer l'efficacité et la tolérance du 626 ajouté au traitement standard par rapport au placebo avec traitement standard. Il inclut 198 adultes de 18 à 70 ans (40 à 90 kg) avec un lupus diagnostiqué depuis ≥ 6 mois, ANA ≥ 1:80 ou anti-ADN natif positif, SLEDAI-2K ≥ 6 avec score clinique ≥ 4, sous au moins un traitement standard (corticoïdes oraux, antipaludéen ou immunosuppresseur).",
+ "interet": "L'étude fournira des données de tolérance et un premier signal d'efficacité d'un anticorps anti-BDCA2 (cible des cellules dendritiques plasmacytoïdes) dans le lupus, avec un comparateur placebo.",
  "profil": "Des adultes de 18 à 70 ans avec un lupus actif malgré le traitement standard.",
  "inclusion": [
   "Âge de 18 à 70 ans, poids de 40 à 90 kg",
@@ -18,18 +18,27 @@
   "Connectivite mixte ou syndrome de chevauchement lupus-sclérodermie",
   "Affection médicale ou psychiatrique (dont lupus neuropsychiatrique) compromettant la participation",
   "Hépatite B, hépatite C ou VIH active",
-  "Antécédent de cancer"
+  "Antécédent de cancer",
+  "Néphrite lupique sévère active dans les 2 mois, DFGe < 30 mL/min/1,73 m² ou rapport protéinurie/créatininurie > 2,0 g/g"
  ],
  "bras": [
   {
-   "nom": "Produit 626 + traitement standard",
-   "traitement": "Produit 626 en plus du traitement standard"
+   "nom": "Groupes M1 à M4 (phase 1b)",
+   "traitement": "SSGJ-626 à quatre niveaux de dose (doses non précisées) ou placebo, en plus du traitement standard"
   },
   {
-   "nom": "Placebo + traitement standard",
-   "traitement": "Placebo en plus du traitement standard"
+   "nom": "SSGJ-626 dose A (phase 2)",
+   "traitement": "SSGJ-626 par injection sous-cutanée, dose A (non précisée)"
+  },
+  {
+   "nom": "SSGJ-626 dose B (phase 2)",
+   "traitement": "SSGJ-626 par injection sous-cutanée, dose B (non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par injection sous-cutanée, en plus du traitement standard"
   }
  ],
- "duree": "Non précisé",
- "critere": "Non précisé dans l'extrait consulté du registre"
+ "duree": "32 ou 36 semaines",
+ "critere": "Nombre de participants avec des événements indésirables, pendant la période d'étude de 32 ou 36 semaines"
 }

@@ -24,12 +24,36 @@
  ],
  "bras": [
   {
-   "nom": "Dose unique (cohortes 1 à 4)",
-   "traitement": "2 g de crème SOF-SKN à 0,25 %, 0,5 %, 1 % ou 2 % sur un côté du dos, placebo de l'autre côté"
+   "nom": "Cohorte 1 : dose unique à 0,25 %",
+   "traitement": "2 g de crème SOF-SKN à 0,25 % en application unique sur un côté du dos ; 2 g de placebo de l'autre côté (témoin intra-individuel)"
   },
   {
-   "nom": "Doses répétées (cohortes 5 à 8)",
-   "traitement": "2 g de crème SOF-SKN à 0,25 %, 0,5 %, 1 % ou 2 % une fois par jour pendant 14 jours, placebo de l'autre côté"
+   "nom": "Cohorte 2 : dose unique à 0,5 %",
+   "traitement": "2 g de crème SOF-SKN à 0,5 % en application unique sur un côté du dos ; 2 g de placebo de l'autre côté (témoin intra-individuel)"
+  },
+  {
+   "nom": "Cohorte 3 : dose unique à 1 %",
+   "traitement": "2 g de crème SOF-SKN à 1 % en application unique sur un côté du dos ; 2 g de placebo de l'autre côté (témoin intra-individuel)"
+  },
+  {
+   "nom": "Cohorte 4 : dose unique à 2 %",
+   "traitement": "2 g de crème SOF-SKN à 2 % en application unique sur un côté du dos ; 2 g de placebo de l'autre côté (témoin intra-individuel)"
+  },
+  {
+   "nom": "Cohorte 5 : doses répétées à 0,25 %",
+   "traitement": "2 g de crème SOF-SKN à 0,25 % une fois par jour pendant 14 jours sur un côté du dos ; placebo de l'autre côté"
+  },
+  {
+   "nom": "Cohorte 6 : doses répétées à 0,5 %",
+   "traitement": "2 g de crème SOF-SKN à 0,5 % une fois par jour pendant 14 jours sur un côté du dos ; placebo de l'autre côté"
+  },
+  {
+   "nom": "Cohorte 7 : doses répétées à 1 %",
+   "traitement": "2 g de crème SOF-SKN à 1 % une fois par jour pendant 14 jours sur un côté du dos ; placebo de l'autre côté"
+  },
+  {
+   "nom": "Cohorte 8 : doses répétées à 2 %",
+   "traitement": "2 g de crème SOF-SKN à 2 % une fois par jour pendant 14 jours sur un côté du dos ; placebo de l'autre côté"
   }
  ],
  "duree": "Dépistage de 28 jours puis suivi de quelques jours à 17 jours selon la partie",

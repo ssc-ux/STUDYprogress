@@ -18,12 +18,35 @@
   "Autre syndrome myéloprolifératif",
   "Atteinte d'organe attribuable à la mastocytose",
   "Maladie cardiovasculaire non contrôlée cliniquement significative",
-  "QTcF allongé (seuil non détaillé ici)"
+  "QTcF > 470 ms (femmes) ou > 450 ms (hommes)",
+  "Tumeur maligne primitive diagnostiquée ou traitée dans les 3 ans (sauf cancers cutanés basocellulaires ou épidermoïdes réséqués, prostate localisé traité, carcinome in situ)",
+  "Traitement cytoréducteur récent (délai minimal de 14 à 28 jours selon la molécule), radiothérapie ou PUVA dans les 14 jours"
  ],
  "bras": [
-  {"nom": "Partie 1 : elenestinib (3 niveaux de dose) + traitement symptomatique", "traitement": "Elenestinib par voie orale, une fois par jour"},
-  {"nom": "Partie 1 : placebo + traitement symptomatique", "traitement": "Placebo oral + traitement symptomatique individualisé"},
-  {"nom": "Parties 2 et 3, K et S", "traitement": "Partie 2 : elenestinib ou placebo en double aveugle ; partie 3 : elenestinib en ouvert ; détails de doses non précisés"}
+  {
+   "nom": "Partie 1 : elenestinib (3 niveaux de dose) + traitement symptomatique",
+   "traitement": "Elenestinib par voie orale, une fois par jour, jusqu'à la fin de la partie 1 ; doses non précisées"
+  },
+  {
+   "nom": "Partie 1 : placebo + traitement symptomatique",
+   "traitement": "Placebo oral une fois par jour + traitement symptomatique individualisé"
+  },
+  {
+   "nom": "Partie 2 : elenestinib (dose 1) + traitement symptomatique",
+   "traitement": "Elenestinib par voie orale, une fois par jour, environ 48 semaines"
+  },
+  {
+   "nom": "Partie 2 : placebo + traitement symptomatique",
+   "traitement": "Placebo oral une fois par jour, environ 48 semaines"
+  },
+  {
+   "nom": "Partie 3 : extension ouverte",
+   "traitement": "Elenestinib + traitement symptomatique, une fois par jour, jusqu'à environ 5 ans"
+  },
+  {
+   "nom": "Parties S et K et groupes PK",
+   "traitement": "Elenestinib (dose 1) + traitement symptomatique, une fois par jour, jusqu'à environ 5 ans (S : mastocytose latente ; K : patients déjà traités par un inhibiteur de KIT sélectif)"
+  }
  ],
  "duree": "Partie 1 : 12 semaines ; partie 2 : 48 semaines ; partie 3 : jusqu'à 5 ans",
  "critere": "Critères multiples selon la partie : événements indésirables (partie 1), variation du score total de symptômes ISM-SAF à la semaine 13 (partie 1) et à la semaine 49 (partie 2), sécurité et score de symptômes jusqu'à 5 ans (partie 3)."

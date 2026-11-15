@@ -15,9 +15,12 @@
   "Néphrite lupique : classe III/IV ± V active < 6 mois, UPCR ≥ 1 g/g, immunosuppression stable depuis ≥ 8 semaines"
  ],
  "exclusion": [
-  "Autre maladie rénale",
-  "DFG < 30 mL/min/1,73 m²",
-  "Autres critères détaillés du protocole : non précisé dans l'extrait"
+  "Autre maladie rénale diagnostiquée ou répondant aux critères d'une autre maladie rénale",
+  "DFG < 30 mL/min/1,73 m² ou glomérulonéphrite rapidement progressive",
+  "Infection grave récente ou en cours, ou risque ou antécédent d'infection grave",
+  "Traitement récent par déplétion des lymphocytes B ou anti-BAFF/APRIL, dans les délais fixés par le protocole",
+  "Partie B : mauvaise observance en partie A",
+  "Partie B : événement indésirable ou affection de la partie A pouvant poser un problème de sécurité"
  ],
  "bras": [
   {

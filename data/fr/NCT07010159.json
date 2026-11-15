@@ -24,12 +24,28 @@
  ],
  "bras": [
   {
-   "nom": "Phase 2 : KPL-387 100 mg ou 300 mg",
-   "traitement": "KPL-387 sous-cutané toutes les 2 semaines ou toutes les 4 semaines (4 groupes), jusqu'à la semaine 22"
+   "nom": "Phase 2 : KPL-387 100 mg toutes les 2 semaines",
+   "traitement": "KPL-387 100 mg en sous-cutané toutes les 2 semaines jusqu'à la semaine 22"
   },
   {
-   "nom": "Phase 3 : KPL-387 puis retrait randomisé",
-   "traitement": "Période initiale de KPL-387 en simple aveugle, puis randomisation 1:1 vers KPL-387 ou placebo en double aveugle"
+   "nom": "Phase 2 : KPL-387 100 mg toutes les 4 semaines",
+   "traitement": "KPL-387 100 mg en sous-cutané toutes les 4 semaines (alternance KPL-387 et placebo toutes les 2 semaines pour l'insu) jusqu'à la semaine 22"
+  },
+  {
+   "nom": "Phase 2 : KPL-387 300 mg toutes les 2 semaines",
+   "traitement": "KPL-387 300 mg en sous-cutané toutes les 2 semaines jusqu'à la semaine 22"
+  },
+  {
+   "nom": "Phase 2 : KPL-387 300 mg toutes les 4 semaines",
+   "traitement": "KPL-387 300 mg en sous-cutané toutes les 4 semaines (alternance KPL-387 et placebo toutes les 2 semaines pour l'insu) jusqu'à la semaine 22"
+  },
+  {
+   "nom": "Phase 3 : KPL-387",
+   "traitement": "Période initiale de KPL-387 en simple aveugle, puis retrait randomisé 1:1 : poursuite du KPL-387 sous-cutané en double aveugle"
+  },
+  {
+   "nom": "Phase 3 : placebo",
+   "traitement": "Après la période initiale de KPL-387, retrait randomisé 1:1 vers le placebo sous-cutané en double aveugle"
   },
   {
    "nom": "Extension à long terme",

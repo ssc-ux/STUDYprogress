@@ -24,11 +24,20 @@
   "Chirurgie majeure dans les 6 semaines, grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Groupe I", "traitement": "Temsirolimus IV (J1, 8, 15, 22), bévacizumab IV (J1, 15) et cétuximab IV (J1, 8, 15, 22), cycles de 28 jours" },
-  { "nom": "Groupe II", "traitement": "Temsirolimus et bévacizumab comme le groupe I, plus acide valproïque oral (J1-7 et J15-21)" },
-  { "nom": "Groupe III", "traitement": "Temsirolimus et bévacizumab comme le groupe I" }
+  {
+   "nom": "Groupe I",
+   "traitement": "Temsirolimus IV (J1, 8, 15, 22), bévacizumab IV (J1, 15) et cétuximab IV (J1, 8, 15, 22), cycles de 28 jours"
+  },
+  {
+   "nom": "Groupe II",
+   "traitement": "Temsirolimus et bévacizumab comme le groupe I, plus acide valproïque oral (J1-7 et J15-21)"
+  },
+  {
+   "nom": "Groupe III",
+   "traitement": "Temsirolimus et bévacizumab comme le groupe I"
+  }
  ],
  "duree": "Cycles de 28 jours jusqu'à progression ou toxicité inacceptable",
  "critere": "Nombre de patients avec toxicité limitant la dose (DLT) pendant le premier cycle de 28 jours",
- "resultats": "L'étude, de phase 1, a été arrêtée et le registre détaille les DLT par niveau de dose, sans critère de comparaison. Un résumé publié sur le groupe bévacizumab, cétuximab et temsirolimus (21 patients, tumeurs solides avancées) rapporte une dose maximale tolérée de bévacizumab 10 mg/kg toutes les 2 semaines, temsirolimus 5 mg par semaine et cétuximab 100/75 mg/m² par semaine. Des toxicités de grade 3 ou 4 sont survenues chez 52 % des patients, surtout une hyperglycémie (14 %) et une hypophosphatémie (14 %). Chez 18 patients évaluables, on a observé 2 réponses partielles (11 %) et 4 stabilisations d'au moins 6 mois (22 %), soit 33 % de bénéfice. Chez 8 patients atteints de carcinome épidermoïde ORL, on notait 2 réponses partielles (25 %) et 1 stabilisation (13 %). Les auteurs concluent à une activité dans le carcinome ORL, avec des toxicités nombreuses nécessitant une surveillance attentive. Dans le registre, des événements graves et des décès sont rapportés dans plusieurs niveaux de dose ; ils ne sont pas résumés ici."
+ "resultats": "L'étude, de phase 1, a été arrêtée et le registre détaille les DLT par niveau de dose, sans critère de comparaison. Un résumé publié sur le groupe bévacizumab, cétuximab et temsirolimus (21 patients, tumeurs solides avancées) rapporte une dose maximale tolérée de bévacizumab 10 mg/kg toutes les 2 semaines, temsirolimus 5 mg par semaine et cétuximab 100/75 mg/m² par semaine. Des toxicités de grade 3 ou 4 sont survenues chez 52 % des patients, surtout une hyperglycémie (14 %) et une hypophosphatémie (14 %). Chez 18 patients évaluables, on a observé 2 réponses partielles (11 %) et 4 stabilisations d'au moins 6 mois (22 %), soit 33 % de bénéfice. Chez 8 patients atteints de carcinome épidermoïde ORL, on notait 2 réponses partielles (25 %) et 1 stabilisation (13 %). Les auteurs concluent à une activité dans le carcinome ORL, avec des toxicités nombreuses nécessitant une surveillance attentive. Un second résumé publié, sur l'association bévacizumab, temsirolimus et acide valproïque (47 patients, 10 niveaux de dose), rapporte 6 patients avec une toxicité limitant la dose et une dose maximale tolérée au niveau 9 (bévacizumab 5 mg/kg aux jours 1 et 15, temsirolimus 25 mg aux jours 1, 8, 15 et 22, acide valproïque 5 mg/kg aux jours 1-7 et 15-21). Des événements indésirables liés au traitement sont survenus chez 95,7 % des patients ; le taux de réponse objective est de 7,9 % (3 réponses partielles) et le bénéfice clinique de 21 %. Les auteurs jugent l'association faisable, mais avec de nombreuses toxicités. Dans le registre, des événements graves et des décès sont rapportés dans plusieurs niveaux de dose ; ils ne sont pas résumés ici."
 }

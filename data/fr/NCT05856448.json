@@ -14,7 +14,13 @@
   "Traitement de fond (au moins un médicament requis) stable depuis ≥ 12 semaines"
  ],
  "exclusion": [
-  "Non détaillé dans l'extrait du registre"
+  "Néphrite lupique active sévère (classe III ou IV) nécessitant des cytotoxiques ou de fortes doses de corticoïdes",
+  "Syndrome des antiphospholipides catastrophique, événement thrombotique grave ou perte de grossesse inexpliquée récents",
+  "Lupus neuropsychiatrique actif ou instable, ou lupus d'origine médicamenteuse",
+  "Hépatite B ou C chronique, VIH, antécédent d'infection opportuniste, tuberculose active ou test QuantiFERON positif",
+  "Infection par le SARS-CoV-2 au dépistage ou à l'inclusion",
+  "Maladie cardiaque, pulmonaire ou rénale chronique mal contrôlée, ou DFG < 30 mL/min/1,73 m²",
+  "Exposition antérieure à un inhibiteur de TYK2, grossesse ou allaitement"
  ],
  "bras": [
   {

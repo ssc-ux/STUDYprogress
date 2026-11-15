@@ -16,11 +16,22 @@
  ],
  "exclusion": [
   "Néphrite lupique active sous traitement d'induction, ou induction terminée depuis moins de 12 semaines",
-  "Autres critères d'exclusion non détaillés ici : non précisé"
+  "Lupus neuropsychiatrique actif",
+  "Autre maladie auto-immune ou rhumatismale principale, ou lupus d'origine médicamenteuse",
+  "Infection grave, chronique ou récurrente, infection herpétique sévère ou zona récents",
+  "VIH, hépatite B ou C active, tuberculose active ou latente non traitée",
+  "Cancer dans les 2 ans (hors carcinomes cutanés basocellulaires ou épidermoïdes, ou carcinome in situ du col réséqué)",
+  "Maladie rénale chronique avec protéinurie importante ou DFG < 30 mL/min, ou insuffisance cardiaque NYHA III-IV"
  ],
  "bras": [
-  { "nom": "DS-7011a", "traitement": "20 mg/kg IV toutes les 4 semaines" },
-  { "nom": "Placebo", "traitement": "Placebo IV toutes les 4 semaines" }
+  {
+   "nom": "DS-7011a",
+   "traitement": "20 mg/kg IV toutes les 4 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo IV toutes les 4 semaines"
+  }
  ],
  "duree": "Évaluation de la tolérance jusqu'à la semaine 24",
  "critere": "Nombre de participants avec des événements indésirables apparus sous traitement, jusqu'à la semaine 24",

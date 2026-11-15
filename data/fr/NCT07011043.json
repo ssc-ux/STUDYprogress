@@ -18,7 +18,22 @@
   "Infection systémique active ou antécédent d'infections graves, chroniques, récurrentes ou latentes"
  ],
  "bras": [
-  { "nom": "Cohortes 1 à 4", "traitement": "Budoprutug en perfusion intraveineuse unique, quatre niveaux de dose croissants (A à D) ; doses non précisées" }
+  {
+   "nom": "Cohorte 1 : dose A",
+   "traitement": "Budoprutug, perfusion intraveineuse unique, dose A (dose non précisée)"
+  },
+  {
+   "nom": "Cohorte 2 : dose B",
+   "traitement": "Budoprutug, perfusion intraveineuse unique, dose B"
+  },
+  {
+   "nom": "Cohorte 3 : dose C",
+   "traitement": "Budoprutug, perfusion intraveineuse unique, dose C"
+  },
+  {
+   "nom": "Cohorte 4 : dose D",
+   "traitement": "Budoprutug, perfusion intraveineuse unique, dose D"
+  }
  ],
  "duree": "24 semaines",
  "critere": "Événements indésirables, anomalies biologiques, constantes vitales et paramètres ECG, jusqu'à la semaine 24"

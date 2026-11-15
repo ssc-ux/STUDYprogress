@@ -14,7 +14,12 @@
   "Contraception efficace chez les femmes en âge de procréer (1 semaine) et les hommes (90 jours)"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait du registre"
+  "Allergie ou hypersensibilité connue à un composant du produit étudié",
+  "Insuffisance hépatique sévère (ASAT/ALAT > 5 N ou bilirubine > 3 N)",
+  "Impossibilité de rester allongé jusqu'à 60 minutes",
+  "Grossesse ou allaitement",
+  "Radiopharmaceutique administré dans les 10 demi-vies précédentes",
+  "Refus ou incapacité de coopérer aux procédures de l'étude"
  ],
  "bras": [
   {

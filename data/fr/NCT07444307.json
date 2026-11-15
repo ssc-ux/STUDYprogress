@@ -9,16 +9,19 @@
  "inclusion": [
   "Âge de 18 à 65 ans",
   "LES selon critères EULAR/ACR 2019",
-  "Lupus réfractaire : au moins deux immunosuppresseurs non cortisonés dont une biothérapie déplétant les B (bélimumab, rituximab), sauf contre-indication ou indisponibilité",
+  "Lupus réfractaire : au moins deux immunosuppresseurs non cortisoniques dont une biothérapie déplétant les B (bélimumab, rituximab), sauf contre-indication ou indisponibilité",
   "Auto-anticorps positifs (ANA ≥ 1:80, anti-ADN natif ou anti-Sm)",
-  "Autres critères : se reporter au registre"
+  "SLEDAI-2K ≥ 6 (ou PTI lupique sévère : plaquettes < 30 G/L, ou < 50 G/L avec saignement)",
+  "Neutrophiles ≥ 0,5 G/L, hémoglobine ≥ 60 g/L, ALT/AST/bilirubine ≤ 2 N, clairance ≥ 30 mL/min"
  ],
  "exclusion": [
   "Maladie du système nerveux central ou antécédent notable (épilepsie, AVC, vascularite cérébrale, maladie mentale)",
   "Hémodialyse ou corticothérapie à haute dose (≥ 1,5 mg/kg/j pendant ≥ 14 jours) dans les 2 mois",
   "Épanchement séreux abondant compressif non contrôlé",
   "Autre maladie auto-immune active dans les 2 ans (hors manifestations associées au lupus)",
-  "Autres critères d'exclusion : se reporter au registre"
+  "Thérapie cellulaire génétiquement modifiée antérieure (CAR-T, TCR-T, CAR-NK) ou greffe",
+  "Hépatite B ou C active, VIH, syphilis, infection active ou traitée dans les 30 jours",
+  "Cancer dans les 5 ans, maladie cardiovasculaire sévère récente (QTc > 480 ms, FEVG < 45 %, NYHA ≥ 3)"
  ],
  "bras": [
   {

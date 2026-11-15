@@ -15,8 +15,13 @@
   "DFG > 30 mL/min/1,73 m² (> 20 si biopsie récente et lésions réversibles)"
  ],
  "exclusion": [
-  "Fibrose interstitielle/atrophie tubulaire ou glomérulosclérose globale > 65 % sur la biopsie",
-  "Critères d'exclusion complémentaires du protocole : non précisés dans le résumé du registre"
+  "Épuration extrarénale (dialyse, greffe rénale) actuelle ou attendue dans les 6 mois",
+  "Cyclophosphamide dans les 12 semaines ; rituximab ou obinutuzumab dans les 24 semaines (sauf lymphocytes B > 10 %)",
+  "Autre anti-BAFF/APRIL, immunoglobulines à forte dose, abatacept, anti-TNF, anti-IL-1, anti-IL-6, ustékinumab ou anifrolumab dans les 12 semaines",
+  "Néphrite lupique de classe V pure ; fibrose interstitielle/atrophie tubulaire ou glomérulosclérose > 65 %",
+  "Hypersensibilité aux médicaments de l'étude ; pancréatite ou hémorragie digestive dans les 6 mois, ulcère évolutif",
+  "VIH, hépatite B ou C récente, tuberculose active ou antécédent non prophylaxé",
+  "Cancer dans les 5 ans (sauf cutané), syndrome lymphoprolifératif, maladie cardiovasculaire sévère, atteinte hépatique (ASAT, ALAT ou bilirubine > 2,5 N)"
  ],
  "bras": [
   {

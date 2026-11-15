@@ -14,10 +14,19 @@
   "Néphrite : échec de corticoïdes et d'au moins deux immunosuppresseurs ou biothérapies, rapport protéinurie/créatininurie ≥ 1,0 g/g"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Allergie médicamenteuse sévère ou terrain allergique",
+  "Infection non contrôlée, existante ou suspectée",
+  "Maladie du système nerveux central non liée à la maladie de base ; trouble psychiatrique ou cognitif sévère",
+  "Cardiopathie ne permettant pas de tolérer le traitement ; insuffisance rénale terminale",
+  "Déficit immunitaire humoral congénital ; tumeur maligne dans les 5 ans ; thrombose veineuse profonde ou embolie pulmonaire symptomatique dans les 6 mois",
+  "Sérologies VHB (avec ADN détectable), VHC (ARN), VIH ou syphilis positives",
+  "Immunosuppresseur actif dans les 5 demi-vies ou biothérapie dans les 4 semaines ; autre essai dans les 3 mois ; grossesse"
  ],
  "bras": [
-  { "nom": "YTS109", "traitement": "Perfusion unique de cellules YTS109, escalade « 3+3 » à partir de 3 × 10^6 cellules/kg" }
+  {
+   "nom": "YTS109",
+   "traitement": "Perfusion unique de cellules YTS109, escalade « 3+3 » à partir de 3 × 10^6 cellules/kg"
+  }
  ],
  "duree": "24 semaines de suivi des événements indésirables, prolongé à 52 semaines",
  "critere": "Événements indésirables apparus sous traitement (nature, gravité, fréquence), suivis 24 semaines puis jusqu'à 52 semaines"

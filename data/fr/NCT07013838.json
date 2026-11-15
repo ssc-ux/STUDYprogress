@@ -14,7 +14,13 @@
   "Test de grossesse négatif et contraception efficace pour les personnes en âge de procréer"
  ],
  "exclusion": [
-  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+  "Takayasu sévère nécessitant un geste interventionnel ou un pontage en urgence",
+  "Atteinte d'organe critique (myocarde, coronaires, ischémie cérébrale)",
+  "Hépatite B ou C active, tuberculose active",
+  "Cancer dans les 5 ans (hors cancer cutané non mélanome excisé ou carcinome in situ du col)",
+  "Transaminases > 3 fois la normale ou DFGe ≤ 30 mL/min",
+  "Grossesse",
+  "Anti-TNF (dont adalimumab) antérieur arrêté pour inefficacité ou intolérance"
  ],
  "bras": [
   {

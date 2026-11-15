@@ -17,8 +17,11 @@
  "exclusion": [
   "ASAT ou ALAT > 10 N, ou bilirubine totale > 5 N en cas d'activité hépatobiliaire",
   "Plaquettes < 75 G/L, PNN < 1,2 G/L, Ig totales < 600 mg/dL, CD4 < 300/µL, hémoglobine < 8 g/dL",
-  "Atteinte hépatique, rénale ou métabolique significative",
-  "Autres critères détaillés (non repris ici)"
+  "DFGe < 45 mL/min/1,73 m² ; lymphocytes B < la moitié de la limite inférieure de la normale",
+  "Infection grave active ou chronique dans les 2 mois ; déficit immunitaire congénital ou acquis",
+  "Hépatite B chronique (AgHBs positif, ou anti-HBc positif avec anti-HBs négatif)",
+  "Immunosuppresseurs récents (azathioprine, mycophénolate, ciclosporine, méthotrexate, cyclophosphamide, tocilizumab…) dans les 2 mois ; rituximab ou autre anti-CD20/bélimumab/abatacept dans les 6 mois",
+  "Vaccin vivant dans les 4 semaines, BCG dans l'année, ou transfusion dans les 4 semaines"
  ],
  "bras": [
   {

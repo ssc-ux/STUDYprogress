@@ -19,7 +19,10 @@
   "Grossesse en cours"
  ],
  "bras": [
-  { "nom": "Cohortes par maladie", "traitement": "Transplantation de microbiote fécal dans chaque maladie (Crohn, RCH, cœliaque, SII, dyspepsie, constipation, maladies métaboliques, infections multirésistantes, encéphalopathie hépatique, SEP, GVHD, PTI, atopie, etc.)" }
+  {
+   "nom": "25 cohortes par maladie, toutes traitées par TMF",
+   "traitement": "Transplantation de microbiote fécal dans chaque maladie (Crohn, RCH, cœliaque, SII, dyspepsie, constipation, maladies métaboliques, infections multirésistantes, encéphalopathie hépatique, SEP, GVHD, PTI, atopie, etc.)"
+  }
  ],
  "duree": "1 an",
  "critere": "Nombre de patients avec amélioration des symptômes cliniques (définie selon chaque maladie), à 1 an"

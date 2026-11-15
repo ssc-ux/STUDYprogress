@@ -23,20 +23,36 @@
  ],
  "bras": [
   {
-   "nom": "Schémas A et B",
-   "traitement": "FT839 + rituximab, sans ou avec traitement de fond stable"
+   "nom": "Schéma A",
+   "traitement": "FT839 + rituximab"
   },
   {
-   "nom": "Schémas C et D",
-   "traitement": "FT839 seul, sans ou avec traitement de fond stable"
+   "nom": "Schéma B",
+   "traitement": "FT839 + rituximab, avec traitement de fond stable"
   },
   {
-   "nom": "Schémas E et F",
-   "traitement": "Conditionnement + FT839 + rituximab, sans ou avec traitement de fond"
+   "nom": "Schéma C",
+   "traitement": "FT839 en monothérapie"
   },
   {
-   "nom": "Schémas G et H",
-   "traitement": "Conditionnement + FT839, sans ou avec traitement de fond"
+   "nom": "Schéma D",
+   "traitement": "FT839 avec traitement de fond stable"
+  },
+  {
+   "nom": "Schéma E",
+   "traitement": "Conditionnement + FT839 + rituximab"
+  },
+  {
+   "nom": "Schéma F",
+   "traitement": "Conditionnement + FT839 + rituximab, avec traitement de fond stable"
+  },
+  {
+   "nom": "Schéma G",
+   "traitement": "Conditionnement + FT839"
+  },
+  {
+   "nom": "Schéma H",
+   "traitement": "Conditionnement + FT839, avec traitement de fond stable"
   }
  ],
  "duree": "2 ans de suivi après traitement",

@@ -15,11 +15,23 @@
   "Traitement associé autorisé à dose stable : corticoïdes < 20 mg/j, danazol, azathioprine, ciclosporine ou mycophénolate"
  ],
  "exclusion": [
-  "Critères d'exclusion détaillés : non précisé dans les données retenues"
+  "Cause secondaire de thrombopénie immune",
+  "Hémorragie cliniquement grave ou digestive symptomatique dans les 6 mois, hémorragie intracrânienne dans les 6 mois",
+  "Greffe d'organe ou de cellules souches, splénectomie dans les 12 semaines, chirurgie majeure dans les 4 semaines",
+  "Antécédent de cancer (hors carcinome cutané basocellulaire ou col in situ guéris), d'événement thromboembolique important ou de maladie cardiovasculaire grave",
+  "Hypertension non contrôlée (≥ 140/90 mmHg), VIH, hépatite B ou C, cirrhose",
+  "Infection active non contrôlée ou grave dans les 6 semaines",
+  "Rituximab dans les 14 semaines, traitement visant à augmenter les plaquettes dans les 4 semaines, inhibiteur de SYK antérieur (fostamatinib), antiagrégants ou anticoagulants au long cours"
  ],
  "bras": [
-  { "nom": "Sovleplenib", "traitement": "300 mg par voie orale une fois par jour pendant 24 semaines ; phase ouverte de 76 semaines" },
-  { "nom": "Placebo", "traitement": "Placebo apparié une fois par jour pendant 24 semaines" }
+  {
+   "nom": "Sovleplenib",
+   "traitement": "300 mg par voie orale une fois par jour pendant 24 semaines ; phase ouverte de 76 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo apparié une fois par jour pendant 24 semaines"
+  }
  ],
  "duree": "24 semaines en double aveugle, puis phase ouverte",
  "critere": "Taux de réponse durable entre les semaines 14 et 24"

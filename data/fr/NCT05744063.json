@@ -15,10 +15,19 @@
   "Contraception hautement efficace jusqu'à 6 mois après la dernière dose"
  ],
  "exclusion": [
-  "Critères d'exclusion détaillés : non précisé dans les données retenues"
+  "LHH secondaire à une maladie rhumatismale, métabolique ou néoplasique avérée",
+  "Infection active à mycobactéries, Histoplasma capsulatum, Salmonella ou Leishmania, ou tuberculose latente",
+  "Présence d'un cancer",
+  "Hypersensibilité à un composant du traitement (par exemple polysorbate)",
+  "Vaccin BCG dans les 12 semaines ou vaccin vivant atténué dans les 4 semaines avant le dépistage",
+  "Grossesse ou allaitement",
+  "Participation à une autre étude interventionnelle ou prise d'un médicament expérimental dans les 3 mois"
  ],
  "bras": [
-  { "nom": "Émapalumab", "traitement": "Perfusions deux fois par semaine, dose initiale 1 mg/kg" }
+  {
+   "nom": "Émapalumab",
+   "traitement": "Perfusions deux fois par semaine, dose initiale 1 mg/kg"
+  }
  ],
  "duree": "Jusqu'au conditionnement pour la greffe, probablement dans les 6 mois après la première dose",
  "critere": "Arrêt définitif du traitement pour un événement indésirable lié à l'émapalumab, jusqu'au conditionnement de la greffe",

@@ -7,26 +7,53 @@
  "interet": "Il s'agit d'une première étude chez l'humain, qui renseignera sur la tolérance et la dose. Aucune conséquence clinique avant des phases ultérieures.",
  "profil": "Des volontaires sains de 18 à 45 ans (phase Ia) puis des adultes lupiques ou ayant un syndrome de Sjögren primitif (phase Ib).",
  "inclusion": [
-  "Âge de 18 à 45 ans (phase Ia), IMC de 19 à 26, poids ≥ 45 kg",
-  "Bonne santé jugée par l'investigateur (phase Ia)",
-  "Phase Ib : patients avec LES ou syndrome de Sjögren primitif, critères détaillés non repris ici",
+  "Phase Ia : volontaires sains de 18 à 45 ans, IMC de 19 à 26 kg/m², poids ≥ 45 kg, en bonne santé",
+  "Phase Ib : âge de 18 à 65 ans, IMC de 18 à 35 kg/m²",
+  "Phase Ib : lupus systémique (critères EULAR/ACR 2019) diagnostiqué depuis au moins 6 mois",
+  "Phase Ib : syndrome de Sjögren primitif (critères ACR/EULAR 2016)",
   "Consentement écrit et capacité à respecter le protocole"
  ],
  "exclusion": [
-  "QTcF ≥ 450 ms ou autre anomalie ECG significative (phase Ia)",
-  "Maladie chronique ou grave, systèmes divers (phase Ia)",
-  "Perte sanguine > 400 ml dans les 3 mois (phase Ia)",
-  "Phase Ib : toute condition gênant l'évaluation de la tolérance ou de l'efficacité",
-  "Participation antérieure à un essai de thérapie cellulaire ou génique (phase Ib)"
+  "Phase Ia : QTcF ≥ 450 ms ou autre anomalie ECG significative",
+  "Phase Ia : maladie chronique ou grave de l'un des grands systèmes",
+  "Phase Ia : perte sanguine > 400 mL dans les 3 mois",
+  "Phase Ib : toute affection gênant l'évaluation de la tolérance ou de l'efficacité",
+  "Phase Ib : essai de thérapie cellulaire, génique ou de dispositif dans les 3 mois",
+  "Phase Ib : vaccination BCG dans l'année, vaccin vivant atténué dans le mois",
+  "Phase Ib : allaitement ou test de grossesse positif"
  ],
  "bras": [
   {
-   "nom": "Phase Ia, 5 groupes",
-   "traitement": "QLS2404 sous-cutané en dose unique croissante ou placebo, chez des volontaires sains"
+   "nom": "Ia, groupe 1",
+   "traitement": "QLS2404 sous-cutané en dose unique, dose très faible, ou placebo (volontaires sains)"
   },
   {
-   "nom": "Phase Ib, 3 groupes",
-   "traitement": "QLS2404 sous-cutané en doses multiples croissantes, en ouvert, chez des patients LES ou Sjögren"
+   "nom": "Ia, groupe 2",
+   "traitement": "QLS2404 sous-cutané en dose unique, dose faible, ou placebo"
+  },
+  {
+   "nom": "Ia, groupe 3",
+   "traitement": "QLS2404 sous-cutané en dose unique, dose moyenne, ou placebo"
+  },
+  {
+   "nom": "Ia, groupe 4",
+   "traitement": "QLS2404 sous-cutané en dose unique, dose élevée, ou placebo"
+  },
+  {
+   "nom": "Ia, groupe 5",
+   "traitement": "QLS2404 sous-cutané en dose unique, dose maximale, ou placebo"
+  },
+  {
+   "nom": "Ib, groupe 1",
+   "traitement": "QLS2404 sous-cutané, dose faible, 3 injections à 4 semaines d'intervalle (patients LES ou Sjögren)"
+  },
+  {
+   "nom": "Ib, groupe 2",
+   "traitement": "QLS2404 sous-cutané, dose moyenne, 3 injections à 4 semaines d'intervalle"
+  },
+  {
+   "nom": "Ib, groupe 3",
+   "traitement": "QLS2404 sous-cutané, dose élevée, 3 injections à 4 semaines d'intervalle"
   }
  ],
  "duree": "Jusqu'à 85 jours (phase Ia) et 141 jours (phase Ib)",

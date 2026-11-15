@@ -14,7 +14,7 @@
   "Score ECOG de 0 à 2"
  ],
  "exclusion": [
-  "Mastocytose cutanée isolée, forme latente, avancée, avec néoplasie hématologique associée ou leucémie à mastocytes",
+  "Mastocytose cutanée isolée, forme smoldering, avancée, avec néoplasie hématologique associée ou leucémie à mastocytes",
   "Traitement antérieur par avapritinib",
   "Traitement cytoréducteur (dont masitinib, midostaurine) ou agent expérimental récent",
   "Radiothérapie ou PUVAthérapie dans les 14 jours",
@@ -23,8 +23,16 @@
  ],
  "bras": [
   {
-   "nom": "Partie 1 : avapritinib à trois doses + traitement symptomatique",
-   "traitement": "Avapritinib par voie orale, cycles continus de 28 jours"
+   "nom": "Partie 1 : avapritinib dose 1 + traitement symptomatique",
+   "traitement": "Avapritinib par voie orale, cycles continus de 28 jours (dose non précisée)"
+  },
+  {
+   "nom": "Partie 1 : avapritinib dose 2 + traitement symptomatique",
+   "traitement": "Avapritinib par voie orale, cycles continus de 28 jours (dose non précisée)"
+  },
+  {
+   "nom": "Partie 1 : avapritinib dose 3 + traitement symptomatique",
+   "traitement": "Avapritinib par voie orale, cycles continus de 28 jours (dose non précisée)"
   },
   {
    "nom": "Partie 1 : placebo + traitement symptomatique",

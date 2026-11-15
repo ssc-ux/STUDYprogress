@@ -7,22 +7,30 @@
  "interet": "Une forme sous-cutanée pédiatrique offrirait une alternative aux perfusions mensuelles et faciliterait l'administration à domicile. Les résultats pourraient soutenir une extension d'indication fondée sur l'extrapolation.",
  "profil": "Des enfants et adolescents de 5 à 17 ans atteints de lupus systémique actif sous traitement standard stable.",
  "inclusion": [
-  "Âge de 5 à 17 ans inclus",
+  "Âge de 5 à 17 ans inclus, poids ≥ 15 kg",
   "Lupus selon les critères ACR 1997 (au moins 4 critères sur 11)",
   "Lupus actif : SELENA-SLEDAI ≥ 6 au dépistage",
   "Auto-anticorps positifs : ANA ≥ 1:80 et/ou anti-ADN natif ≥ 30 UI/mL",
-  "Traitement stable depuis ≥ 30 jours (corticoïdes ≤ 0,5 mg/kg/j, immunosuppresseurs ou immunomodulateurs, antipaludéens)"
+  "Traitement stable depuis ≥ 30 jours (corticoïdes ≤ 0,5 mg/kg/j, immunosuppresseurs ou immunomodulateurs, antipaludéens, AINS)",
+  "Contraception hautement efficace chez les filles en âge de procréer",
+  "Consentement des parents et assentiment de l’enfant"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisé dans l'extrait disponible"
+  "DFGe < 30 mL/min (Schwartz) ou néphrite aiguë sévère nécessitant une induction dans les 12 premières semaines",
+  "Antécédent de greffe d’organe ou de cellules souches ; dialyse récente",
+  "Lupus neuropsychiatrique actif dans les 60 jours ; risque suicidaire",
+  "Déjà traité par bélimumab, ou thérapie anti-lymphocytes B, abatacept ou biothérapie expérimentale dans les 364 jours",
+  "Déficit immunitaire primitif ou déficit en IgA (< 10 mg/dL) ; VIH, hépatite B ou C",
+  "Infection chronique sous traitement suppressif ou antibiotiques parentéraux dans les 60 jours",
+  "Cancer dans les 5 dernières années ; anaphylaxie aux protéines humaines ou murines ou aux anticorps monoclonaux"
  ],
  "bras": [
   {
    "nom": "Bélimumab 200 mg/mL",
-   "traitement": "Bélimumab sous-cutané, fréquence d'administration adaptée au poids corporel, en plus du traitement standard"
+   "traitement": "Bélimumab sous-cutané, en plus du traitement standard : 1 injection par semaine si poids ≥ 50 kg, tous les 10 jours si 30 à < 50 kg, toutes les 2 semaines si < 30 kg"
   }
  ],
- "duree": "12 semaines (partie A), jusqu'à 68 semaines avec la partie B optionnelle",
+ "duree": "12 semaines (partie A), jusqu’à 52 semaines de traitement avec la partie B optionnelle de 40 semaines, plus 16 semaines de suivi (68 semaines au total)",
  "critere": "Concentrations de bélimumab à la semaine 12, et concentrations moyenne, maximale et minimale estimées à l'état d'équilibre (suivi jusqu'à la semaine 60).",
  "resultats": "Cette étude pédiatrique à un seul bras (belimumab SC 200 mg, 25 participants analysés) est publiée au registre avec des critères pharmacocinétiques. À la semaine 12, la concentration observée de bélimumab était de 106,42 µg/mL en moyenne géométrique (IC 95 % 87,80 à 128,99). À l'état d'équilibre, la concentration moyenne estimée (Cavg) était de 124 µg/mL (coefficient de variation géométrique 37,3 %) et la concentration maximale estimée (Cmax) de 131 µg/mL (34,9 %). Aucun critère d'efficacité n'est présenté dans ces résultats. Sur le plan de la tolérance, un participant sur 25 a présenté un événement indésirable grave et aucun décès n'a été rapporté."
 }

@@ -15,10 +15,13 @@
   "Consentement écrit"
  ],
  "exclusion": [
-  "Grossesse ou allaitement",
-  "Femme en âge de procréer sans contraception hautement efficace pendant l'étude et 28 jours après",
-  "Homme non vasectomisé dont la partenaire est en âge de procréer sans contraception efficace",
-  "Autres critères d'exclusion non détaillés ici : se reporter au registre"
+  "Grossesse ou allaitement ; contraception hautement efficace absente chez les femmes en âge de procréer",
+  "Lupus d'origine médicamenteuse, lupus neuropsychiatrique actif ou instable",
+  "Autre maladie auto-immune systémique pouvant gêner l'évaluation (sauf Sjögren ou SAPL secondaires au LES)",
+  "ALAT/ASAT > 3 N, neutrophiles < 1 000/µL, plaquettes < 50 000/µL, hémoglobine < 8 g/dL, protéinurie/créatininurie > 2 g/g, DFGe < 40 mL/min/1,73 m²",
+  "Allongement du QTcF (> 450 ms) ou facteurs de risque de torsades de pointes",
+  "Tuberculose active ou antécédent radiologique, test IGRA positif ou indéterminé, VIH, hépatite B ou C",
+  "Thérapie génique ou CAR-T pour le lupus, cancer ou hémopathie, infection récente nécessitant une hospitalisation"
  ],
  "bras": [
   {

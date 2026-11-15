@@ -15,7 +15,13 @@
   "Maladie réfractaire ou rechute malgré un traitement conventionnel"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre (critères détaillés à consulter sur ClinicalTrials.gov)"
+  "Allergie médicamenteuse sévère ou terrain allergique",
+  "Infection non contrôlée nécessitant une hospitalisation ou un traitement IV dans le mois précédent",
+  "Événement cardiovasculaire ou cérébrovasculaire dans les 6 mois (infarctus, angor instable, insuffisance cardiaque NYHA III-IV, AVC)",
+  "Déficit immunitaire congénital en immunoglobulines, insuffisance rénale terminale",
+  "Cancer dans les 5 ans (sauf exceptions guéries)",
+  "Tuberculose active, hépatite B ou C active, VIH, syphilis",
+  "Neutrophiles < 0,8 G/L, hémoglobine < 60 g/L, transaminases > 3 N, clairance < 30 mL/min, INR ou TP > 1,5 N"
  ],
  "bras": [
   {

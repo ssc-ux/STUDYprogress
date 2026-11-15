@@ -8,12 +8,20 @@
  "profil": "Des adultes de 18 à 65 ans ayant une maladie auto-immune systémique réfractaire.",
  "inclusion": [
   "Âge de 18 à 65 ans",
-  "Fonction hématologique, de coagulation, hépatique, rénale, cardiaque (FEVG ≥ 50 %) et pulmonaire suffisantes",
-  "Maladie auto-immune parmi : LES, myopathie, vascularite à ANCA, Sjögren, SAPL, PTI, sclérodermie",
-  "Critères spécifiques par maladie (non repris ici)"
+  "Fonctions hématologique (PNN ≥ 1 G/L, plaquettes ≥ 50 G/L sauf PTI, Hb ≥ 80 g/L), hépatique, rénale, cardiaque (NYHA I-II, FEVG ≥ 50 %) et pulmonaire (SpO2 ≥ 92 %) suffisantes",
+  "Lupus réfractaire (EULAR/ACR 2019, SLEDAI-2K ≥ 8) ou sclérodermie systémique récente en rechute ou réfractaire (≤ 7 ans)",
+  "Myopathie inflammatoire réfractaire (DM, myopathie nécrosante, syndrome des antisynthétases) ou vascularite à ANCA (GPA, PAM) en rechute ou réfractaire",
+  "Gougerot-Sjögren actif (ESSDAI ≥ 5), SAPL réfractaire ou PTI chronique/réfractaire",
+  "Échec ou intolérance aux corticoïdes et à au moins un immunosuppresseur ; contraception pendant 24 mois"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre"
+  "Cancer actif ou antécédent de cancer (exceptions listées)",
+  "Traitement antérieur anti-CD19, CAR-T ou autre thérapie génique",
+  "Traitement déplétant les lymphocytes B dans les 6 mois, IgIV, échanges plasmatiques, bolus de corticoïdes, télitacicept ou bélimumab récents",
+  "Atteinte neurologique centrale sévère dans les 6 mois, néphropathie sévère (protéinurie > 6 g/24 h, clairance < 40 mL/min), pneumopathie sévère",
+  "Événement cardiovasculaire dans les 6 mois, arythmie sévère, hypertension non contrôlée",
+  "Infection active ou chronique (VHB avec ADN, VHC avec ARN, VIH, syphilis, tuberculose active ou latente) ; greffe d'organe ou de cellules souches",
+  "Grossesse ou allaitement ; vaccin vivant dans les 6 semaines ; autre essai dans les 3 mois ; trouble psychiatrique"
  ],
  "bras": [
   {

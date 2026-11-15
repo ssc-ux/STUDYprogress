@@ -15,7 +15,13 @@
   "PNN ≥ 1,5×10⁹/L, lymphocytes ≥ 0,5×10⁹/L, hémoglobine ≥ 80 g/L, plaquettes ≥ 50×10⁹/L"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Allergie ou intolérance au SNC116 ou aux médicaments de l'étude (dont le tocilizumab)",
+  "Infection active non contrôlée nécessitant un traitement intraveineux, déficit immunitaire primitif",
+  "Tumeur maligne traitée ou en récidive dans les 2 ans, traitement antérieur par CAR-T anti-CD19 ou autre thérapie cellulaire T modifiée",
+  "Dysfonction d'organe (ALAT/ASAT > 2,5 N, bilirubine > 1,5 N, clairance < 30 mL/min, FEVG < 45 %)",
+  "Maladie cardiovasculaire significative (infarctus < 6 mois, arythmie, insuffisance cardiaque NYHA ≥ 3, TVP/EP < 6 mois)",
+  "VIH, hépatite B ou C active, syphilis active, CMV/EBV actifs, tuberculose active ou latente non traitée",
+  "Atteinte neurologique centrale sévère récente, lupus d'origine médicamenteuse, crise lupique ou lupus neuropsychiatrique sévère, grossesse ou allaitement"
  ],
  "bras": [
   {

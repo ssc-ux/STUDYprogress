@@ -7,16 +7,22 @@
  "interet": "L'étude teste une stratégie CAR-T allogénique dans plusieurs maladies à haut risque. Sans comparateur et avec peu de patients par maladie, elle donnera surtout des informations de sécurité.",
  "profil": "Des patients de 6 à 65 ans avec une néphrite lupique réfractaire, une sclérodermie systémique ou un Sjögren avec HTAP.",
  "inclusion": [
-  "Âge de 3 à 65 ans selon la maladie (6 à 65 ans pour la sclérodermie)",
-  "Néphrite lupique active de classe III/IV (± V), prouvée à la biopsie récente, lupus selon ACR/EULAR 2019",
-  "ANA ≥ 1:80 et/ou anti-ADN natif positif (néphrite lupique)",
+  "Néphrite lupique active de classe III/IV (± V) prouvée à la biopsie récente, lupus selon ACR/EULAR 2019",
+  "ANA ≥ 1:80 et/ou anti-ADN natif positif ; lymphocytes B CD19+",
   "Sclérodermie systémique selon les critères ACR/EULAR 2013 (score ≥ 9)",
-  "Sjögren primitif avec hypertension pulmonaire",
-  "ECOG 0-2, survie attendue ≥ 90 jours",
+  "Sjögren primitif avec HTAP confirmée au cathétérisme, hors groupe de bas risque, traitement stable",
+  "Âge : 3 à 65 ans (néphrite lupique), 6 à 65 ans (sclérodermie), 18 à 65 ans (Sjögren)",
+  "ECOG 0-2, survie attendue ≥ 90 jours (néphrite lupique)",
   "Consentement écrit du patient ou de son représentant"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Insuffisance cardiaque symptomatique, arythmie sévère, insuffisance respiratoire sévère",
+  "Infection non contrôlée, hépatite B ou C, VIH, syphilis positifs",
+  "Autre cancer, trouble psychiatrique sévère, atteinte intracrânienne à l'IRM",
+  "Greffe d'organe (hors moelle), grossesse ou allaitement",
+  "DFG < 30 mL/min/1,73 m² ou dialyse",
+  "Atteinte active du SNC ; chirurgie majeure dans les 4 semaines",
+  "CAR-T autre que CD19 antérieur"
  ],
  "bras": [
   {

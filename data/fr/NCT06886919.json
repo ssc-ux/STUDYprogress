@@ -16,7 +16,13 @@
   "Survie attendue > 3 mois, fonctions médullaire, hépatique, rénale, cardiaque (FEVG ≥ 50 %) et SpO₂ ≥ 92 %"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Maladie du système nerveux central cliniquement significative (épilepsie, AVC, encéphalite, vascularite du SNC, démence, trouble psychiatrique…)",
+  "Néphrite lupique sévère aiguë ou poussée lupique incontrôlée dans les 2 mois précédant le dépistage",
+  "Autre maladie auto-immune active nécessitant un traitement immunosuppresseur systémique dans les 2 ans",
+  "Antécédent de greffe de cellules souches hématopoïétiques ou d'organe, ou thérapie cellulaire génétiquement modifiée antérieure (CAR-T, TCR-T)",
+  "Saignement de grade ≥ 2 dans les 30 jours ou anticoagulation au long cours",
+  "Vaccin vivant ou atténué dans les 6 semaines",
+  "Hépatite B ou C active, VIH ou syphilis positifs, infection active à EBV ou CMV"
  ],
  "bras": [
   {

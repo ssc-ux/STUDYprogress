@@ -3,22 +3,31 @@
  "date": "2026-11-14",
  "titre": "CAR-T universels CD19/CD20 (CT1192) dans le lupus systémique réfractaire",
  "question": "Les CAR-T allogéniques anti-CD19/CD20 CT1192 sont-ils sûrs et actifs dans le lupus systémique réfractaire ?",
- "contexte": "Une partie des patients lupiques reste en échec malgré les corticoïdes, les immunosuppresseurs (mycophénolate, cyclophosphamide) et les biothérapies comme le bélimumab ou l'anifrolumab. Les formes réfractaires, notamment rénales et neurologiques, gardent un pronostic sévère.\n\nDes séries de patients traités par CAR-T anti-CD19 autologues ont rapporté des rémissions profondes, avec arrêt des immunosuppresseurs et disparition des auto-anticorps. Ces produits autologues sont toutefois longs et coûteux à fabriquer et imposent une leucaphérèse chez des patients malades.\n\nLe CT1192 est un CAR-T universel (allogénique, issu de donneurs), dirigé contre CD19 et CD20, qui doit permettre une disponibilité immédiate et limiter l'échappement antigénique. Cette étude de phase 1 monocentrique, menée à Wuhan, évalue en ouvert, sans comparateur, trois niveaux de dose (3,0, 4,5 et 6,0 × 10^8 cellules). Environ 12 patients sont prévus, avec une phase d'escalade puis d'expansion. Elle étudie aussi la cinétique métabolique cellulaire du produit.",
+ "contexte": "Une partie des patients lupiques reste en échec malgré les corticoïdes, les immunosuppresseurs (mycophénolate, cyclophosphamide) et les biothérapies comme le bélimumab ou l'anifrolumab. Les formes réfractaires, notamment rénales et neurologiques, gardent un pronostic sévère.\n\nDes séries de patients traités par CAR-T anti-CD19 autologues ont rapporté des rémissions profondes, avec arrêt des immunosuppresseurs et disparition des auto-anticorps. Ces produits autologues sont toutefois longs et coûteux à fabriquer et imposent une leucaphérèse chez des patients malades.\n\nLe CT1192 est un CAR-T universel (allogénique, issu de donneurs), dirigé contre CD19 et CD20, qui doit permettre une disponibilité immédiate et limiter l'échappement antigénique. Cette étude de phase 1 monocentrique, menée à l’hôpital Union de Wuhan (Tongji), évalue en ouvert, sans comparateur, trois niveaux de dose (3,0, 4,5 et 6,0 × 10^8 cellules). Environ 12 patients sont prévus, avec une phase d'escalade puis d'expansion. Elle étudie aussi la cinétique métabolique cellulaire du produit.",
  "interet": "Les résultats renseigneront la tolérance et la dose recommandée d'un CAR-T allogénique dans le lupus. Si l'efficacité se confirme, cette approche pourrait rendre la cellulothérapie accessible à plus de patients réfractaires.",
  "profil": "Des adultes de 18 à 60 ans atteints de lupus systémique actif, modéré à sévère et réfractaire aux traitements.",
  "inclusion": [
   "Lupus selon les critères EULAR/ACR 2019, évoluant depuis au moins 6 mois",
   "Âge de 18 à 60 ans, consentement signé",
   "Au moins 3 mois de corticoïdes avec immunosuppresseurs et/ou biothérapie, doses stables 2 semaines, maladie restant active",
-  "Prednisone ≥ 7,5 mg/jour si corticoïdes seuls",
-  "Absence d'infection systémique active dans les 2 semaines précédant le dépistage",
+  "Auto-anticorps positifs (ANA, anti-ADN natif ou anti-Sm) et SLEDAI-2K ≥ 7 ou atteinte d'organe majeure (PTI sévère, néphrite lupique de classe III/IV)",
+  "Atteinte d'organe active (hors atteinte cutanéo-muqueuse isolée) et fonctions rénale, médullaire, hépatique, cardiaque (FEVG ≥ 50 %) adéquates",
   "Contraception efficace pendant 1 an après la perfusion"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Néphrite lupique sévère récente (dialyse ou prednisone ≥ 100 mg/j pendant ≥ 14 jours) ou poussée lupique sévère dans les 30 jours",
+  "Atteinte du SNC (lupus neuropsychiatrique, AVC, épilepsie, encéphalite, vascularite du SNC, trouble psychiatrique)",
+  "Insuffisance cardiaque NYHA III-IV, infarctus ou arythmie récents ; saignement de grade ≥ 2 ou anticoagulation au long cours",
+  "Infection systémique active, VIH, syphilis, hépatite B ou C active",
+  "CAR-T ou autre thérapie cellulaire antérieure, greffe d'organe ou de cellules souches",
+  "Rituximab dans les 6 mois, belimumab ou autre biothérapie dans les 12 semaines, corticoïdes ≥ 10 mg/j, immunosuppresseurs ou anti-JAK dans les 2 semaines",
+  "Cancer dans les 2 ans, grossesse ou allaitement, allergie au tocilizumab ou au DMSO"
  ],
  "bras": [
-  { "nom": "CAR-T CT1192", "traitement": "Perfusion de cellules CAR-T CD19/CD20 allogéniques, 3 niveaux de dose (3,0, 4,5 ou 6,0 × 10^8 cellules)" }
+  {
+   "nom": "CAR-T CT1192",
+   "traitement": "Perfusion de cellules CAR-T CD19/CD20 allogéniques, 3 niveaux de dose (3,0, 4,5 ou 6,0 × 10^8 cellules)"
+  }
  ],
  "duree": "12 mois après la perfusion pour la tolérance",
  "critere": "Tolérance : toxicités dose-limitantes à 28 jours, événements indésirables à 180 jours, événements d'intérêt particulier à 12 mois ; dose maximale tolérée"

@@ -1,7 +1,7 @@
 {
  "h": "4c913a6d5c9a",
  "date": "2026-11-14",
- "titre": "Greffe à conditionnement réduit et cyclophosphamide post-greffe dans les déficits immunitaires et insuffisances médullaires héréditaires",
+ "titre": "Greffe à conditionnement réduit et cyclophosphamide post-greffe : déficits immunitaires et insuffisances médullaires",
  "question": "Un conditionnement réduit associé au cyclophosphamide post-greffe permet-il une prise de greffe durable chez des patients atteints de déficit immunitaire ou d'insuffisance médullaire héréditaire ?",
  "contexte": "L'allogreffe de moelle est le seul traitement curatif de nombreux déficits immunitaires primitifs (DIP), syndromes de dysrégulation immunitaire (HLH, IPEX, EBV chronique actif) et insuffisances médullaires héréditaires (anémie de Fanconi, syndromes des télomères courts, Diamond-Blackfan, Shwachman-Diamond). Les meilleurs résultats sont obtenus avec un donneur de fratrie HLA-identique, mais seulement 30 % des enfants en disposent.\n\nL'usage de donneurs alternatifs est limité par la mortalité liée à la greffe, le rejet, les infections et la GVHD. Les conditionnements à intensité réduite améliorent la survie, mais l'échec de greffe et la perte du chimérisme donneur restent des obstacles majeurs. Le cyclophosphamide post-greffe (PTCy) permet l'utilisation sûre de donneurs HLA-compatibles ou incompatibles, apparentés ou non, y compris haplo-identiques.\n\nCet essai de phase 2 du Sidney Kimmel Comprehensive Cancer Center de Johns Hopkins évalue un conditionnement réduit (alemtuzumab, fludarabine, melphalan ou irradiation corporelle totale à faible dose) suivi de PTCy, tacrolimus et mycophénolate, dans trois cohortes : DIP/dysrégulation immunitaire/insuffisance médullaire, syndromes des télomères courts, et anémie de Fanconi ou troubles de réparation de l'ADN. Le critère principal est la prise de greffe du donneur à 60 jours.",
  "interet": "L'étude pourrait valider une plateforme de conditionnement réduit permettant une greffe durable avec donneur apparenté ou non apparenté, y compris haplo-identique, dans des maladies rares où le conditionnement classique est trop toxique.",
@@ -24,10 +24,19 @@
   "Cancer actif ou à risque de rechute, cirrhose ou fibrose hépatique modérée à sévère (cohortes B et C)"
  ],
  "bras": [
-  { "nom": "DIP, dysrégulation immunitaire, insuffisances médullaires", "traitement": "Alemtuzumab, fludarabine, melphalan, irradiation corporelle totale à faible dose, greffe de moelle, puis cyclophosphamide post-greffe, tacrolimus et mycophénolate" },
-  { "nom": "Syndromes des télomères courts", "traitement": "Alemtuzumab, fludarabine, irradiation corporelle totale (200 cGy), greffe de moelle, puis cyclophosphamide post-greffe, tacrolimus et mycophénolate" },
-  { "nom": "Anémie de Fanconi ou troubles de réparation de l'ADN", "traitement": "Alemtuzumab, fludarabine, irradiation corporelle totale (200 cGy), greffe de moelle, puis cyclophosphamide post-greffe, tacrolimus et mycophénolate" }
+  {
+   "nom": "DIP, dysrégulation immunitaire, insuffisances médullaires",
+   "traitement": "Alemtuzumab, fludarabine, melphalan, irradiation corporelle totale à faible dose, greffe de moelle, puis cyclophosphamide post-greffe, tacrolimus et mycophénolate"
+  },
+  {
+   "nom": "Syndromes des télomères courts",
+   "traitement": "Alemtuzumab, fludarabine, irradiation corporelle totale (200 cGy), greffe de moelle, puis cyclophosphamide post-greffe, tacrolimus et mycophénolate"
+  },
+  {
+   "nom": "Anémie de Fanconi ou troubles de réparation de l'ADN",
+   "traitement": "Alemtuzumab, fludarabine, irradiation corporelle totale (200 cGy), greffe de moelle, puis cyclophosphamide post-greffe, tacrolimus et mycophénolate"
+  }
  ],
- "duree": "Suivi de greffe prolongé (critère principal à 60 jours)",
+ "duree": "Non précisé (critère principal à 60 jours)",
  "critere": "Prise de greffe du donneur à 60 jours"
 }

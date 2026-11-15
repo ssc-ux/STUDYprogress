@@ -20,12 +20,40 @@
  ],
  "bras": [
   {
-   "nom": "Cohortes à dose unique (D1 à D5, 6)",
-   "traitement": "ABC008 en dose unique croissante : 0,1, 0,5, 2,0 et 5,0 mg/kg, puis dose à définir ; cohorte 6 à 2,0 mg/kg"
+   "nom": "Cohorte D1 (dose unique)",
+   "traitement": "ABC008 0,1 mg/kg en dose unique"
   },
   {
-   "nom": "Cohortes à doses multiples (MAD 1 à 3)",
-   "traitement": "ABC008 toutes les 8 semaines : 0,1, 0,5 puis 2,0 mg/kg, avec extension jusqu'à environ 80 semaines"
+   "nom": "Cohorte D2 (dose unique)",
+   "traitement": "ABC008 0,5 mg/kg en dose unique"
+  },
+  {
+   "nom": "Cohorte D3 (dose unique)",
+   "traitement": "ABC008 2,0 mg/kg en dose unique"
+  },
+  {
+   "nom": "Cohorte D4 (dose unique)",
+   "traitement": "ABC008 5,0 mg/kg en dose unique"
+  },
+  {
+   "nom": "Cohorte D5 (dose unique)",
+   "traitement": "ABC008, dose non précisée dans le registre"
+  },
+  {
+   "nom": "Cohorte 6 (dose unique)",
+   "traitement": "ABC008 2,0 mg/kg en dose unique"
+  },
+  {
+   "nom": "MAD cohorte 1",
+   "traitement": "ABC008 0,1 mg/kg toutes les 8 semaines"
+  },
+  {
+   "nom": "MAD cohorte 2",
+   "traitement": "ABC008 0,5 mg/kg toutes les 8 semaines"
+  },
+  {
+   "nom": "MAD cohorte 3",
+   "traitement": "ABC008 2,0 mg/kg toutes les 8 semaines, avec extension possible jusqu'à environ 80 semaines"
   }
  ],
  "duree": "Environ 28 semaines (dose unique) ou 52 semaines (doses multiples), plus extension possible d'environ 80 semaines",

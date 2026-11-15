@@ -16,7 +16,13 @@
   "Échec ou rechute après plusieurs traitements standards"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Allergies médicamenteuses sévères ou terrain allergique",
+  "Infection non contrôlée ou nécessitant un traitement",
+  "Maladie du SNC (épilepsie, psychose, AVC, encéphalite, vascularite du SNC) ou trouble psychiatrique, troubles cognitifs sévères",
+  "Insuffisance cardiaque, insuffisance rénale terminale (néphrite lupique exceptée)",
+  "Déficit immunitaire congénital en immunoglobulines, cancer dans les 5 ans",
+  "Hépatite B ou C active, VIH ou syphilis positifs",
+  "Autre essai dans les 3 mois, immunosuppresseur ou biothérapie dans les 5 demi-vies, grossesse ou projet de grossesse"
  ],
  "bras": [
   {

@@ -20,12 +20,20 @@
  ],
  "bras": [
   {
-   "nom": "Cohortes 1 à 3 : paliers de dose A, B, C",
-   "traitement": "Budoprutug IV aux jours 1 et 15"
+   "nom": "Cohorte 1 : palier de dose A",
+   "traitement": "Budoprutug IV, deux perfusions à 14 jours d'intervalle (jours 1 et 15)"
+  },
+  {
+   "nom": "Cohorte 2 : palier de dose B",
+   "traitement": "Budoprutug IV, deux perfusions à 14 jours d'intervalle (jours 1 et 15)"
+  },
+  {
+   "nom": "Cohorte 3 : palier de dose C",
+   "traitement": "Budoprutug IV, deux perfusions à 14 jours d'intervalle (jours 1 et 15)"
   },
   {
    "nom": "Cohorte d'expansion",
-   "traitement": "Budoprutug IV aux jours 1 et 15, à la dose retenue"
+   "traitement": "Budoprutug IV, jours 1 et 15, à la dose retenue"
   }
  ],
  "duree": "28 semaines",

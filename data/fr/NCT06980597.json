@@ -10,16 +10,19 @@
   "Âge de 18 à 65 ans, ECOG 0 à 2, fonction d'organe adéquate",
   "Contraception très efficace jusqu'à 2 ans après la dose, test de grossesse négatif",
   "Lupus : critères 1997/SLICC 2012/EULAR-ACR 2019, ANA ≥ 1:80 ou anti-ADN/anti-Sm, SLEDAI-2K ≥ 8 avec BILAG A ou deux B, ou néphrite lupique de classe III/IV ± V prouvée par biopsie",
-  "Myopathie inflammatoire : critères ACR/EULAR 2017 et maladie active (détails dans le registre)",
+  "Myopathie inflammatoire : critères ACR/EULAR 2017, maladie active (enzymes musculaires, MMT < 142), auto-anticorps spécifique ou associé positif",
+  "Sclérodermie : critères ACR/EULAR 2013, maladie active, score de Rodnan modifié > 10",
+  "Vascularite à ANCA (PAM/GPA) : critères ACR/EULAR 2022, ANCA anti-PR3 ou anti-MPO positifs, BVAS actif",
   "Maladie en rechute ou réfractaire à au moins un immunosuppresseur ou une biothérapie"
  ],
  "exclusion": [
   "Infection active non contrôlée, hépatite B (charge virale détectable ou sans prophylaxie), hépatite C non guérie, VIH, syphilis",
-  "Tuberculose active ou latente non traitée",
-  "Infection grave dans les 3 mois (hospitalisation, antibiothérapie IV) ou antibiotique oral dans le mois",
-  "QT long congénital ou QTcF ≥ 480 ms",
-  "Hypertension non contrôlée, angor instable, insuffisance cardiaque",
-  "Autres critères d'exclusion : se reporter au registre"
+  "Tuberculose active ou latente non traitée ; infection grave dans les 3 mois",
+  "QT long congénital ou QTcF ≥ 480 ms ; hypertension non contrôlée, angor instable, insuffisance cardiaque > NYHA II, infarctus dans les 6 mois",
+  "Antécédent de greffe d'organe, grossesse ou allaitement",
+  "Autre produit expérimental dans les 4 semaines, biothérapie dans les 3 mois, greffe de cellules souches ou CAR-T dans les 6 mois, vaccin vivant dans les 4 semaines",
+  "Autre maladie auto-immune pouvant gêner l'évaluation (polyarthrite rhumatoïde, goutte, fibromyalgie active)",
+  "Critères spécifiques : lupus neuropsychiatrique actif, myosite à inclusions ou atteinte respiratoire sévère, risque de crise rénale sclérodermique, vascularite du SNC ou hémorragie alvéolaire ventilée"
  ],
  "bras": [
   {

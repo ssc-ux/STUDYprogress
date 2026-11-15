@@ -15,7 +15,13 @@
   "Contraception efficace pour les personnes en âge de procréer"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre (critères d'exclusion non détaillés ici)"
+  "Grossesse, allaitement ou contraception insuffisante",
+  "Atteinte pulmonaire sévère (CVF ≤ 40 %, DLCO < 30 %, oxygène ≥ 10 L/min au repos, inscription sur liste de greffe)",
+  "Myosite active modérée à sévère (CK > 2000 U/mL, éruption, arthrite ou faiblesse musculaire importantes)",
+  "Hypertension pulmonaire significative ou nécessitant un traitement spécifique",
+  "Risque hémorragique accru (anticoagulation à dose pleine, antiagrégants à forte dose, hémorragie récente) ou événement thrombotique dans les 12 mois",
+  "Maladie cardiovasculaire sévère récente, insuffisance hépatique chronique, anomalies biologiques (transaminases > 1,5 N, clairance < 30 mL/min)",
+  "Traitement par nintédanib ou pirfénidone, cyclophosphamide dans les 3 mois, ou anti-TNF, anakinra ou autre biologique récent"
  ],
  "bras": [
   {

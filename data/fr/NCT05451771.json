@@ -25,8 +25,20 @@
  ],
  "bras": [
   {
-   "nom": "Phase 1 : escalade de dose",
-   "traitement": "Vénétoclax 200 mg ou 400 mg par jour, seul ou avec dexaméthasone 10 ou 20 mg par semaine (4 cohortes, cycles de 28 jours, maximum 6)"
+   "nom": "Phase 1 : cohorte 1",
+   "traitement": "Vénétoclax 200 mg par jour (cycles de 28 jours, maximum 6)"
+  },
+  {
+   "nom": "Phase 1 : cohorte 2",
+   "traitement": "Vénétoclax 400 mg par jour (cycles de 28 jours, maximum 6)"
+  },
+  {
+   "nom": "Phase 1 : cohorte 3",
+   "traitement": "Vénétoclax 400 mg par jour et dexaméthasone 10 mg par semaine (cycles de 28 jours, maximum 6)"
+  },
+  {
+   "nom": "Phase 1 : cohorte 4",
+   "traitement": "Vénétoclax 400 mg par jour et dexaméthasone 20 mg par semaine (cycles de 28 jours, maximum 6)"
   },
   {
    "nom": "Phase 2 : vénétoclax-dexaméthasone",

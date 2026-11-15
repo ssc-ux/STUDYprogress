@@ -14,7 +14,13 @@
   "Test de grossesse négatif et contraception pour les femmes en âge de procréer, ou statut non fertile documenté"
  ],
  "exclusion": [
-  "Hypertension, diabète ou événement coronarien ou cérébrovasculaire non contrôlés ou récents (liste complète non précisée dans l'extrait disponible)"
+  "Hypertension ou diabète non contrôlés, événement coronarien ou cérébrovasculaire aigu dans les 3 mois, antécédent de sympathectomie",
+  "Tabagisme dans les 3 mois ou sevrage par produits nicotiniques",
+  "Abus d'alcool ou de substances dans l'année précédente",
+  "Diverticulose sigmoïdienne confirmée à l'endoscopie (au moins 3 diverticules)",
+  "Atteinte hépatique modérée à sévère (Child-Pugh B ou C)",
+  "Prise d'une autre prostacycline",
+  "Grossesse, allaitement ou projet de grossesse dans les 4 mois"
  ],
  "bras": [
   {

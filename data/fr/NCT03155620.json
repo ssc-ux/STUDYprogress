@@ -1,9 +1,9 @@
 {
  "h": "48fe8ea59b1fr",
  "date": "2026-11-13",
- "titre": "Pediatric MATCH : traitement ciblé guidé par le séquençage dans les tumeurs, lymphomes et histiocytoses pédiatriques en rechute",
+ "titre": "Pediatric MATCH : traitement ciblé guidé par la génétique dans les tumeurs pédiatriques en rechute",
  "question": "Quelle proportion d'enfants atteints de tumeurs avancées présente une altération génétique ciblable, et le traitement ciblé correspondant est-il efficace ?",
- "contexte": "Chez l'enfant, les tumeurs solides, lymphomes non hodgkiniens et histiocytoses en rechute ou réfractaires ont un pronostic souvent sombre, avec peu d'options validées. Le séquençage tumoral a montré que certaines altérations ciblables (fusions NTRK, mutations FGFR, ALK, etc.) y sont présentes, comme chez l'adulte, mais la fréquence de ces altérations est faible dans chaque tumeur pédiatrique.\n\nLe principe de Pediatric MATCH est d'attribuer un traitement ciblé selon l'altération génétique, quel que soit le type tumoral. Cet essai de dépistage de phase 2, non randomisé, est promu par le National Cancer Institute (NCI) avec le Children's Oncology Group. Il inclut environ 1 377 patients de 12 mois à 21 ans ayant eu au moins une ligne de traitement standard ou sans traitement standard validé.\n\nLes patients sont orientés vers un sous-protocole selon leur profil moléculaire : larotrectinib (fusions NTRK), erdafitinib (mutations FGFR), tazemetostat (EZH2, SMARCB1, SMARCA4), inhibiteur PI3K/mTOR LY3023414 (TSC1/2, PI3K/mTOR), sélumétinib (voie MAPK) et ensartinib (ALK, ROS1). Les patients reçoivent le traitement pendant 28 jours par cycle, jusqu'à 2 ans.",
+ "contexte": "Chez l'enfant, les tumeurs solides, lymphomes non hodgkiniens et histiocytoses en rechute ou réfractaires ont un pronostic souvent sombre, avec peu d'options validées. Le séquençage tumoral a montré que certaines altérations ciblables (fusions NTRK, mutations FGFR, ALK, etc.) y sont présentes, comme chez l'adulte, mais la fréquence de ces altérations est faible dans chaque tumeur pédiatrique.\n\nLe principe de Pediatric MATCH est d'attribuer un traitement ciblé selon l'altération génétique, quel que soit le type tumoral. Cet essai de dépistage de phase 2, non randomisé, est promu par le National Cancer Institute (NCI) avec le Children's Oncology Group. Il inclut environ 1 377 patients de 12 mois à 21 ans ayant eu au moins une ligne de traitement standard ou sans traitement standard validé.\n\nLes patients sont orientés vers l'un des 13 sous-protocoles selon leur profil moléculaire : larotrectinib (fusions NTRK), erdafitinib (mutations FGFR), tazemetostat (EZH2, SMARCB1, SMARCA4), LY3023414 (TSC1/2, PI3K/mTOR), sélumétinib et ulixertinib (voie MAPK), ensartinib (ALK, ROS1), vémurafenib (BRAF V600), olaparib (ATM, BRCA1/2, RAD51C/D), palbociclib (altérations du cycle cellulaire, Rb positif), ivosidenib (IDH1), tipifarnib (HRAS) et selpercatinib (RET). Le traitement est administré par cycles de 28 jours, pendant 2 ans au plus.",
  "interet": "L'essai établit la faisabilité du séquençage systématique et du traitement ciblé indépendamment du type de tumeur chez l'enfant. Il fournit des signaux d'efficacité par altération qui pourraient orienter les recommandations en oncologie pédiatrique.",
  "profil": "Des enfants et jeunes adultes de 12 mois à 21 ans atteints de tumeurs solides, de lymphomes non hodgkiniens ou d'histiocytoses en rechute ou réfractaires.",
  "inclusion": [
@@ -24,31 +24,59 @@
  ],
  "bras": [
   {
-   "nom": "Sous-protocole A (fusion NTRK)",
-   "traitement": "Larotrectinib, deux fois par jour, J1-J28, cycles de 28 jours"
+   "nom": "A (fusion NTRK1/2/3)",
+   "traitement": "Larotrectinib oral deux fois par jour, J1-J28, cycles de 28 jours"
   },
   {
-   "nom": "Sous-protocole B (mutation FGFR)",
-   "traitement": "Erdafitinib, une fois par jour, cycles de 28 jours"
+   "nom": "B (mutation FGFR1-4)",
+   "traitement": "Erdafitinib oral une fois par jour, J1-J28, cycles de 28 jours (jusqu'à 26 cycles)"
   },
   {
-   "nom": "Sous-protocole C (EZH2, SMARCB1, SMARCA4)",
-   "traitement": "Tazemetostat, deux fois par jour, cycles de 28 jours"
+   "nom": "C (EZH2, SMARCB1, SMARCA4)",
+   "traitement": "Tazemetostat oral deux fois par jour, J1-J28, cycles de 28 jours"
   },
   {
-   "nom": "Sous-protocole D (TSC1, TSC2, PI3K/mTOR)",
-   "traitement": "LY3023414, deux fois par jour, cycles de 28 jours"
+   "nom": "D (TSC1, TSC2, PI3K/mTOR)",
+   "traitement": "LY3023414 (inhibiteur PI3K/mTOR) oral deux fois par jour, J1-J28, cycles de 28 jours"
   },
   {
-   "nom": "Sous-protocole E (voie MAPK)",
-   "traitement": "Sélumétinib, deux fois par jour, cycles de 28 jours"
+   "nom": "E (mutation activatrice de la voie MAPK)",
+   "traitement": "Sélumétinib oral deux fois par jour, J1-J28, cycles de 28 jours"
   },
   {
-   "nom": "Sous-protocole F (ALK ou ROS1)",
-   "traitement": "Ensartinib, deux fois par jour, cycles de 28 jours"
+   "nom": "F (altération ALK ou ROS1)",
+   "traitement": "Ensartinib oral deux fois par jour, J1-J28, cycles de 28 jours (jusqu'à 26 cycles)"
+  },
+  {
+   "nom": "G (BRAF V600)",
+   "traitement": "Vémurafenib oral deux fois par jour, J1-J28, cycles de 28 jours"
+  },
+  {
+   "nom": "H (ATM, BRCA1, BRCA2, RAD51C, RAD51D)",
+   "traitement": "Olaparib oral deux fois par jour, J1-J28, cycles de 28 jours"
+  },
+  {
+   "nom": "I (Rb positif, altérations du cycle cellulaire)",
+   "traitement": "Palbociclib oral une fois par jour, J1-J21, cycles de 28 jours"
+  },
+  {
+   "nom": "J (mutations de la voie MAPK)",
+   "traitement": "Ulixertinib oral deux fois par jour, cycles de 28 jours"
+  },
+  {
+   "nom": "K (mutation IDH1)",
+   "traitement": "Ivosidenib oral une fois par jour, cycles de 28 jours"
+  },
+  {
+   "nom": "M (altération HRAS)",
+   "traitement": "Tipifarnib oral deux fois par jour, J1-J7 et J15-J21, cycles de 28 jours (jusqu'à 26 cycles)"
+  },
+  {
+   "nom": "N (altération RET activatrice)",
+   "traitement": "Selpercatinib oral deux fois par jour, J1-J28, cycles de 28 jours (jusqu'à 26 cycles)"
   }
  ],
  "duree": "Jusqu'à 2 ans de traitement (26 cycles)",
  "critere": "Proportion d'enfants dont la tumeur présente une altération ciblable par les médicaments sélectionnés, jusqu'à 2 ans après l'entrée dans l'étude",
- "resultats": "Cet essai de dépistage moléculaire pédiatrique a inclus 1 158 patients analysables pour le critère principal. Une altération de voie ciblable par l'un des médicaments de l'essai a été retrouvée dans 28 % des tumeurs (IC 95 % 25,5 à 30,6). Il s'agit d'un critère de faisabilité du dépistage et non d'un critère d'efficacité thérapeutique. Parmi les 1 343 patients évalués pour la tolérance, 2 événements indésirables graves et 906 décès ont été rapportés, ces décès relevant essentiellement de l'évolution de la maladie sous-jacente (rechute ou réfractaire)."
+ "resultats": "Cet essai de dépistage moléculaire pédiatrique a inclus 1 158 patients analysables pour le critère principal. Une altération de voie ciblable par l'un des médicaments de l'essai a été retrouvée dans 28 % des tumeurs (IC 95 % 25,5 à 30,6). Il s'agit d'un critère de faisabilité du dépistage et non d'un critère d'efficacité thérapeutique. Parmi les 1 343 patients évalués pour la tolérance, 2 événements indésirables graves et 906 décès ont été rapportés ; le registre n'en précise pas la cause."
 }

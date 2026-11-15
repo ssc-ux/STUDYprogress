@@ -24,10 +24,38 @@
   "Immunosuppression connue, Karnofsky ≤ 70"
  ],
  "bras": [
-  { "nom": "Partie A : escalade de dose", "traitement": "CID-103 IV en cohortes successives : 30/30 mg, 30/150 mg, 150/300 mg, 150/600 mg, 150/900 mg" },
-  { "nom": "Partie B : dose faible", "traitement": "CID-103 IV à dose faible, randomisation en ouvert" },
-  { "nom": "Partie B : dose intermédiaire", "traitement": "CID-103 IV à dose intermédiaire" },
-  { "nom": "Partie B : dose élevée", "traitement": "CID-103 IV à dose élevée" }
+  {
+   "nom": "Partie A : cohorte 1 (30 mg/30 mg)",
+   "traitement": "CID-103 IV, 30 mg puis 30 mg ; escalade accélérée, puis 3+3 si un événement de grade ≥ 2"
+  },
+  {
+   "nom": "Partie A : cohorte 2 (30 mg/150 mg)",
+   "traitement": "CID-103 IV, 30 mg puis 150 mg ; escalade accélérée, puis 3+3 si un événement de grade ≥ 2"
+  },
+  {
+   "nom": "Partie A : cohorte 3 (150 mg/300 mg)",
+   "traitement": "CID-103 IV, 150 mg puis 300 mg ; escalade accélérée, puis 3+3 si un événement de grade ≥ 2"
+  },
+  {
+   "nom": "Partie A : cohorte 4 (150 mg/600 mg)",
+   "traitement": "CID-103 IV, 150 mg puis 600 mg ; schéma 3+3 standard"
+  },
+  {
+   "nom": "Partie A : cohorte 5 (150 mg/900 mg)",
+   "traitement": "CID-103 IV, 150 mg puis 900 mg ; schéma 3+3 standard"
+  },
+  {
+   "nom": "Partie B : dose faible",
+   "traitement": "CID-103 IV à dose faible (randomisation, environ 8 patients évaluables par bras avant revue de sécurité)"
+  },
+  {
+   "nom": "Partie B : dose intermédiaire",
+   "traitement": "CID-103 IV à dose intermédiaire"
+  },
+  {
+   "nom": "Partie B : dose élevée",
+   "traitement": "CID-103 IV à dose élevée"
+  }
  ],
  "duree": "Jusqu'à 6 mois de traitement, avec suivi de sécurité (environ 10 mois)",
  "critere": "Sécurité et tolérance du CID-103 (10 mois) et réponse plaquettaire (12 semaines)."

@@ -15,10 +15,19 @@
   "Fonctions d'organe adéquates : neutrophiles ≥ 1,5 G/L, hémoglobine ≥ 8 g/dL, DFG ≥ 30 mL/min/1,73 m²"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisés dans les données consultées"
+  "Néphrite sévère ou lupus neuropsychiatrique sévère, hémorragie pulmonaire, myocardite nécessitant une escalade thérapeutique, dialyse",
+  "Infection active ou grave récente, tuberculose latente ou active, hépatite B ou C, VIH non contrôlé",
+  "Chirurgie majeure dans les 3 mois, maladie aiguë ou hospitalisation récente, vaccin vivant dans les 30 jours",
+  "Autre maladie inflammatoire pouvant fausser l'évaluation (PR, rhumatisme psoriasique)",
+  "Hépatopathie chronique instable ou cirrhose",
+  "Déplétion B (rituximab) dans les 12 mois, bélimumab dans les 2 mois, cyclophosphamide dans les 2 mois, anti-BCMA antérieur",
+  "Atteinte cornéenne épithéliale (hors kératopathie ponctuée légère), neuropathie de grade ≥ 2, hypersensibilité au produit"
  ],
  "bras": [
-  { "nom": "Bélantamab mafodotine + traitement standard", "traitement": "Bélantamab mafodotine ajouté au traitement de fond, jusqu'à 2 ans par patient ; dose non précisée" }
+  {
+   "nom": "Bélantamab mafodotine + traitement standard",
+   "traitement": "Bélantamab mafodotine ajouté au traitement de fond, jusqu'à 2 ans par patient ; dose non précisée"
+  }
  ],
  "duree": "Jusqu'à 2 ans par patient",
  "critere": "Variation du titre d'anticorps anti-ADN natif à 24 semaines par rapport à l'inclusion"

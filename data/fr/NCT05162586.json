@@ -20,10 +20,38 @@
   "Antécédent de cancer ou de crises convulsives non contrôlées"
  ],
  "bras": [
-  { "nom": "Cohorte A : placebo", "traitement": "Placebo oral" },
-  { "nom": "Cohorte A : enpatoran", "traitement": "25, 50 ou 100 mg par voie orale" },
-  { "nom": "Cohorte B : placebo", "traitement": "Placebo oral" },
-  { "nom": "Cohorte B : enpatoran", "traitement": "25, 50 ou 100 mg par voie orale" }
+  {
+   "nom": "Cohorte A : placebo",
+   "traitement": "Placebo oral apparié (lupus cutané ou LES à prédominance cutanée)"
+  },
+  {
+   "nom": "Cohorte A : enpatoran 25 mg",
+   "traitement": "Enpatoran 25 mg par voie orale (dose faible)"
+  },
+  {
+   "nom": "Cohorte A : enpatoran 50 mg",
+   "traitement": "Enpatoran 50 mg par voie orale (dose moyenne)"
+  },
+  {
+   "nom": "Cohorte A : enpatoran 100 mg",
+   "traitement": "Enpatoran 100 mg par voie orale (dose élevée)"
+  },
+  {
+   "nom": "Cohorte B : placebo",
+   "traitement": "Placebo oral apparié (LES actif, parties 1 et 2)"
+  },
+  {
+   "nom": "Cohorte B : enpatoran 25 mg",
+   "traitement": "Enpatoran 25 mg par voie orale (partie 2 uniquement)"
+  },
+  {
+   "nom": "Cohorte B : enpatoran 50 mg",
+   "traitement": "Enpatoran 50 mg par voie orale (partie 2 uniquement)"
+  },
+  {
+   "nom": "Cohorte B : enpatoran 100 mg",
+   "traitement": "Enpatoran 100 mg par voie orale (parties 1 et 2)"
+  }
  ],
  "duree": "24 semaines de traitement, 33 semaines au total",
  "critere": "Cohorte A : variation du CLASI-A à la semaine 16 ; cohorte B : réponse BICLA à la semaine 24",

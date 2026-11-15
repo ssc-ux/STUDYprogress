@@ -16,14 +16,23 @@
  "exclusion": [
   "Allergie connue au LY4298445 ou à ses composants",
   "Grossesse, test de grossesse positif ou allaitement",
-  "Néphrite lupique sévère (rapport protéinurie/créatininurie élevé, DFG < 40 mL/min/1,73 m²)",
-  "Hémodialyse récente",
-  "Autres critères : non précisés dans les données consultées"
+  "Néphrite lupique sévère (rapport protéinurie/créatininurie > 200 mg/mmol, DFGe < 40 mL/min/1,73 m², ou hémodialyse dans les 6 mois)",
+  "Lupus du système nerveux central actif dans les 2 mois (convulsions, psychose, trouble neurologique ou visuel, AVC)",
+  "Polyarthrite de classe fonctionnelle 4 (critères ACR révisés)"
  ],
  "bras": [
-  { "nom": "Partie A1, volontaires sains", "traitement": "LY4298445 en dose unique croissante, sous-cutanée ou intraveineuse, ou placebo" },
-  { "nom": "Parties A2 et B, lupus ou polyarthrite", "traitement": "LY4298445 sous-cutané en dose unique (A2) puis en doses répétées croissantes (B)" },
-  { "nom": "Partie C, volontaires japonais (et chinois)", "traitement": "LY4298445 sous-cutané en dose unique ou placebo" }
+  {
+   "nom": "Partie A1, volontaires sains",
+   "traitement": "LY4298445 en dose unique croissante, sous-cutanée ou intraveineuse, ou placebo"
+  },
+  {
+   "nom": "Parties A2 et B, lupus ou polyarthrite",
+   "traitement": "LY4298445 sous-cutané en dose unique (A2) puis en doses répétées croissantes (B)"
+  },
+  {
+   "nom": "Partie C, volontaires japonais (et chinois)",
+   "traitement": "LY4298445 sous-cutané en dose unique ou placebo"
+  }
  ],
  "duree": "Environ 52 semaines",
  "critere": "Nombre de participants avec un événement indésirable grave lié au médicament, de l'inclusion à la semaine 52"

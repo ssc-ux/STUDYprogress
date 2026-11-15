@@ -7,18 +7,31 @@
  "interet": "Pour une maladie sans traitement, l'étude explore un symptomatique oral simple. Le schéma avec sevrage permet d'estimer l'effet propre du traitement sur l'ataxie.",
  "profil": "Des patients de 6 ans et plus atteints d'ataxie-télangiectasie confirmée.",
  "inclusion": [
-  "Âge ≥ 6 ans",
-  "Diagnostic confirmé d'ataxie-télangiectasie",
+  "Âge ≥ 6 ans, diagnostic confirmé d’ataxie-télangiectasie",
   "Consentement écrit du patient ou de son représentant légal",
-  "Femmes en âge de procréer : abstinence ou contraception hautement efficace du 14e jour avant la première dose jusqu'à 28 jours après la dernière"
+  "Score SARA entre 5 et 33/40, avec sous-score de marche entre 2 et 7 ou test des 9 chevilles (main dominante) réalisable en 20 à 150 s",
+  "Poids ≥ 15 kg",
+  "Rééducation (orthophonie, kinésithérapie) autorisée si stable depuis au moins 6 semaines",
+  "Femmes en âge de procréer : abstinence ou contraception hautement efficace ; hommes : préservatif ou abstinence jusqu’à 90 jours après la dernière dose"
  ],
  "exclusion": [
-  "Médicaments interdits dans les 6 semaines précédant le dépistage (sevrage de 6 semaines requis)",
-  "Autres critères d'exclusion : non précisé dans les données retenues"
+  "Patient asymptomatique, ou test génétique d’ataxie-télangiectasie totalement négatif",
+  "Diarrhée chronique, perte visuelle inexpliquée, cancer, diabète insulinodépendant",
+  "Hypersensibilité connue à la N-acétyl-leucine ou aux excipients",
+  "Participation à un autre essai ou produit expérimental dans les 6 semaines",
+  "Médicaments interdits sans sevrage de 6 semaines (aminopyridines, riluzole, gabapentine, varénicline, N-acétyl-DL-leucine...)",
+  "ASAT/ALAT > 5 N ou bilirubine > 1,5 N ; grossesse ou allaitement",
+  "Déficience visuelle ou auditive sévère, ou atteinte ostéo-articulaire gênant les évaluations"
  ],
  "bras": [
-  { "nom": "Traitement par IB1001", "traitement": "6 semaines par voie orale : 4 g/j en 3 prises à partir de 13 ans ; 2 à 4 g/j selon le poids entre 6 et 12 ans" },
-  { "nom": "Sevrage post-traitement", "traitement": "Aucune intervention pendant 6 semaines" }
+  {
+   "nom": "Traitement par IB1001",
+   "traitement": "6 semaines par voie orale : 4 g/j en 3 prises à partir de 13 ans ; 2 à 4 g/j selon le poids entre 6 et 12 ans"
+  },
+  {
+   "nom": "Sevrage post-traitement",
+   "traitement": "Aucune intervention pendant 6 semaines"
+  }
  ],
  "duree": "6 semaines de traitement et 6 semaines de sevrage, puis phase d'extension",
  "critere": "Impression clinique de changement de sévérité (CI-CS) : variation sous traitement moins variation pendant le sevrage",

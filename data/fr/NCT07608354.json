@@ -16,7 +16,13 @@
   "Traitement standard de l'insuffisance cardiaque optimisé et stable depuis ≥ 4 semaines"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait du registre"
+  "Amylose AL, secondaire ou autre amylose systémique, ou amylose leptoméningée",
+  "Cardiomyopathie principalement due à une autre cause (hypertension, valvulopathie, cardiopathie ischémique)",
+  "Syndrome coronarien, AVC, revascularisation, chirurgie cardiaque ou majeure dans les 12 semaines",
+  "HTA non contrôlée (PAS > 160 ou PAD > 100 mmHg), PAS < 90 mmHg ou hypotension orthostatique symptomatique, arythmie ventriculaire non contrôlée, FEVG < 30 %",
+  "SpO2 < 92 % ou oxygénothérapie, dialyse, DFGe < 20 mL/min/1,73 m², ALAT > 2 N, bilirubine > 2,5 N",
+  "Greffe d'organe ou assistance ventriculaire, cancer ou hémopathie dans les 5 ans",
+  "Traitement antérieur par un déplétant d'amylose ou un silenceur du gène TTR"
  ],
  "bras": [
   {

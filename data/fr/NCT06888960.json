@@ -14,12 +14,18 @@
   "Traitement standard stable depuis au moins 12 semaines (dose stable ≥ 30 jours)"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisé dans l'extrait disponible"
+  "Néphrite lupique sévère (protéinurie > 6 g/24 h ou créatinine > 2,5 mg/dL) ou atteinte du SNC dans les 8 semaines",
+  "Autres myosites (myosite à inclusions, juvénile) ; HTAP, atteinte digestive basse rapidement progressive ou crise rénale sclérodermique",
+  "Greffe d'organe ou de cellules souches hématopoïétiques ; déficit en IgA (< 10 mg/dL)",
+  "CAR-T dans les 6 mois, ou anti-CD19/CD20/BAFF dans le mois précédant le dépistage",
+  "Infection active ; vaccin vivant atténué dans les 4 semaines",
+  "Insuffisance cardiaque NYHA III-IV, infarctus, angor instable ou arythmie dans les 6 mois",
+  "Allergie de grade 3-4 à un anticorps monoclonal ou aux excipients du CC312"
  ],
  "bras": [
   {
    "nom": "CC312",
-   "traitement": "CC312 par voie intraveineuse, dose d'amorçage puis dose thérapeutique, en escalade de dose (3 groupes de dose)"
+   "traitement": "CC312 par voie intraveineuse, dose d'amorçage puis dose thérapeutique, en escalade de dose 3+3 (3 groupes de dose, 3 à 6 patients chacun)"
   }
  ],
  "duree": "Jusqu'à 2 ans",

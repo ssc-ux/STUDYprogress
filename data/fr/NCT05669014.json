@@ -15,11 +15,23 @@
   "Accord pour diminuer les corticoïdes selon le protocole"
  ],
  "exclusion": [
-  "Critères d'exclusion détaillés : non précisé dans les données retenues"
+  "Poids > 160 kg",
+  "Grossesse, allaitement ou projet de grossesse jusqu'à 6 mois après la dernière dose",
+  "Maladie cardiaque significative dans les 6 mois (angor instable, infarctus, insuffisance cardiaque, arythmie traitée)",
+  "Cancer dans les 5 ans (hors carcinome cutané basocellulaire ou épidermoïde traité)",
+  "Déficit immunitaire, VIH, tuberculose active ou latente non traitée, infection herpétique sévère ou opportuniste récente",
+  "Myopathie nécrosante à médiation immune, myosite à inclusions ou myosite médicamenteuse",
+  "Pneumopathie interstitielle sévère, patient en fauteuil roulant, ou dommage musculaire global > 5/10"
  ],
  "bras": [
-  { "nom": "Daxdilimab", "traitement": "Daxdilimab 300 mg SC pendant 24 semaines, puis 8 semaines de suivi de tolérance" },
-  { "nom": "Placebo", "traitement": "Placebo SC pendant 24 semaines, puis daxdilimab en extension ouverte (avant l'amendement 2)" }
+  {
+   "nom": "Daxdilimab",
+   "traitement": "Daxdilimab 300 mg SC pendant 24 semaines, puis 8 semaines de suivi de tolérance"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo SC pendant 24 semaines, puis daxdilimab en extension ouverte (avant l'amendement 2)"
+  }
  ],
  "duree": "24 semaines de traitement, plus 8 semaines de suivi",
  "critere": "Score moyen d'amélioration totale (Total Improvement Score, TIS) à la semaine 24",

@@ -16,7 +16,13 @@
   "Critères spécifiques à chaque maladie (par ex. lupus : critères EULAR/ACR 2019, maladie active)"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre (critères détaillés dans le protocole)"
+  "Allergie médicamenteuse sévère ou terrain allergique connu",
+  "Infection non contrôlée (fongique, bactérienne, virale)",
+  "Atteinte du système nerveux central (hors manifestations dues à la maladie), insuffisance cardiaque ne permettant pas le traitement",
+  "Déficit immunitaire congénital en immunoglobulines, malformation congénitale sévère ou maladie métabolique héréditaire sévère",
+  "Cancer dans les 5 ans, insuffisance rénale terminale",
+  "Hépatite B ou C active, VIH, syphilis",
+  "Autre essai dans les 3 mois, immunosuppresseurs ou biothérapie récents, grossesse"
  ],
  "bras": [
   {
