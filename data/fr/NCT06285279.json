@@ -14,7 +14,13 @@
   "Néphropathie extra-membraneuse à anti-PLA2R ou maladie à IgG4 selon critères spécifiques"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Thérapie génique antérieure, vaccin vivant dans les 4 semaines, autre produit expérimental dans les 12 semaines",
+  "Cancer actif dans les 5 ans (hors cancers cutanés ou in situ guéris)",
+  "Hépatite B ou C active, VIH, CMV-ADN ou syphilis positifs ; infection active non contrôlée",
+  "Cardiopathie sévère (angor instable, infarctus < 6 mois, insuffisance cardiaque NYHA ≥ III, arythmie sévère)",
+  "Hypertension ou diabète non contrôlés ; greffe d'organe solide ; grossesse ou allaitement",
+  "Maladie du système nerveux central, trouble de la coagulation ou anticoagulation en cours",
+  "Biothérapie ciblant les lymphocytes B < 6 mois, méthylprednisolone cumulée > 1,5 g ou cyclophosphamide en bolus < 1 mois, prednisone > 5 mg/j"
  ],
  "bras": [
   {

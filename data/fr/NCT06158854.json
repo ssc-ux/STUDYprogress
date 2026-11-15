@@ -25,12 +25,20 @@
  ],
  "bras": [
   {
-   "nom": "Escalade de dose (bras 1 à 3)",
-   "traitement": "Étentamig (ABBV-383) en perfusion IV à l'une de trois doses (A, B ou C)"
+   "nom": "Escalade, dose A",
+   "traitement": "Étentamig (ABBV-383) en perfusion IV à la dose A pendant environ 2 ans"
   },
   {
-   "nom": "Expansion (bras 4)",
-   "traitement": "Étentamig (ABBV-383) en perfusion IV à la dose B, déterminée lors de l'escalade"
+   "nom": "Escalade, dose B",
+   "traitement": "Étentamig (ABBV-383) en perfusion IV à la dose B pendant environ 2 ans"
+  },
+  {
+   "nom": "Escalade, dose C",
+   "traitement": "Étentamig (ABBV-383) en perfusion IV à la dose C pendant environ 2 ans"
+  },
+  {
+   "nom": "Expansion",
+   "traitement": "Étentamig (ABBV-383) en perfusion IV à la dose B, retenue après l'escalade"
   }
  ],
  "duree": "Environ 2 ans de traitement ; suivi jusqu'à 4 ans",

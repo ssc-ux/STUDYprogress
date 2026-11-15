@@ -24,8 +24,16 @@
  ],
  "bras": [
   {
-   "nom": "Niveaux de dose 0 à 2 (phase 1)",
-   "traitement": "MB-CART19.1 en perfusion unique : 0,1 ; 0,5 ou 1,0 x 10^6 cellules"
+   "nom": "Niveau de dose 0 (dose de secours)",
+   "traitement": "MB-CART19.1 0,1 x 10^6 cellules ; l'escalade commence au niveau 1"
+  },
+  {
+   "nom": "Niveau de dose 1",
+   "traitement": "MB-CART19.1 0,5 x 10^6 cellules, par cohortes de 3 patients"
+  },
+  {
+   "nom": "Niveau de dose 2",
+   "traitement": "MB-CART19.1 1,0 x 10^6 cellules ; 3 patients supplémentaires au niveau le plus élevé"
   },
   {
    "nom": "Phase 2a",

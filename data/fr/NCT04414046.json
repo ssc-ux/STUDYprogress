@@ -1,7 +1,7 @@
 {
  "h": "7540dc8e9225",
  "date": "2026-11-14",
- "titre": "Greffe haplo-identique déplétée en TCR alpha-bêta chez l'enfant avec déficit immunitaire ou maladie métabolique",
+ "titre": "Greffe haplo-identique déplétée en TCR alpha-bêta : déficits immunitaires et maladies métaboliques",
  "question": "Une greffe haplo-identique avec déplétion des lymphocytes TCR alpha-bêta et CD19 permet-elle une prise de greffe réussie chez l'enfant atteint de déficit immunitaire primitif, d'histiocytose ou de maladie métabolique héréditaire ?",
  "contexte": "Les déficits immunitaires primitifs, les syndromes de dysrégulation immunitaire, certaines histiocytoses (lymphohistiocytose hémophagocytique familiale ou secondaire réfractaire, LCH multisystémique réfractaire) et des maladies métaboliques héréditaires (mucopolysaccharidoses, ostéopétrose, maladies neurodégénératives) peuvent être guéries ou stabilisées par greffe de cellules souches hématopoïétiques. Moins d'un tiers des patients ont un donneur de fratrie HLA-identique.\n\nLes donneurs haplo-identiques (parents ou apparentés demi-compatibles) sont disponibles pour presque tous les patients, mais la greffe expose à la GVHD et aux infections. Retirer des greffons les lymphocytes T TCR alpha-bêta, responsables de la GVHD, et les lymphocytes B CD19+, source de lymphoprolifération liée à l'EBV, tout en conservant les cellules NK et T gamma-delta, est une stratégie qui limite la GVHD sans immunosuppression post-greffe lourde.\n\nCet essai de phase 2 de Johns Hopkins All Children's Hospital évalue cette greffe haplo-identique avec déplétion TCR alpha-bêta et CD19, réalisée avec le dispositif CliniMACS (expérimental), chez des enfants et jeunes de 21 ans ou moins. Le critère principal est la prise de greffe réussie à J100. Les nourrissons atteints de DICS classique de moins de 2 ans sont exclus, car ils relèvent d'un autre protocole.",
  "interet": "L'étude pourrait valider la greffe haplo-identique déplétée en TCR alpha-bêta comme option pour les enfants sans donneur compatible, dans une large palette de maladies non malignes.",
@@ -21,7 +21,10 @@
   "GVHD aiguë supérieure au grade II ou GVHD chronique extensive d'une allogreffe précédente"
  ],
  "bras": [
-  { "nom": "Déplétion TCR alpha-bêta", "traitement": "Greffe haplo-identique de cellules souches périphériques ou médullaires avec sélection négative TCR alpha-bêta et CD19 (CliniMACS)" }
+  {
+   "nom": "Déplétion TCR alpha-bêta",
+   "traitement": "Greffe haplo-identique de cellules souches périphériques ou médullaires avec sélection négative TCR alpha-bêta et CD19 (CliniMACS)"
+  }
  ],
  "duree": "Non précisé (critère principal à J100)",
  "critere": "Incidence de la prise de greffe réussie du donneur à J100 après la greffe"

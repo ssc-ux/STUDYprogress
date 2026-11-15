@@ -16,8 +16,13 @@
   "Contraception efficace pour les patients en âge de procréer"
  ],
  "exclusion": [
-  "Incapacité de donner un consentement éclairé",
-  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+  "Incapacité de donner un consentement éclairé, grossesse ou allaitement",
+  "Autre maladie rhumatismale (lupus, polyarthrite rhumatoïde, connectivite mixte), hypertension pulmonaire significative ou obstruction bronchique (VEMS/CVF < 0,7)",
+  "Insuffisance cardiaque NYHA III/IV, AVC ou infarctus dans les 6 mois",
+  "ASAT/ALAT > 1,5 × LSN, bilirubine > 1,5 × LSN, clairance de la créatinine < 30 mL/min, hépatopathie chronique",
+  "Plus de 4 ulcères digitaux ou nécrose digitale sévère ; risque hémorragique ou événement thrombotique dans l'année",
+  "Traitement antérieur par tocilizumab, anti-B, anti-TNF, pirfénidone ou nintédanib récents ; corticoïdes > 10 mg/j, azathioprine, hydroxychloroquine ou cyclophosphamide récents",
+  "Infection active ou récente (tuberculose, VHB, VHC, zona, VIH), cancer actif ou antécédent, abus de drogue ou d'alcool"
  ],
  "bras": [
   {

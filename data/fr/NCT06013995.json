@@ -19,12 +19,28 @@
  ],
  "bras": [
   {
-   "nom": "Cohortes A, B, C1 : voie IV",
-   "traitement": "BMS-986326 IV à doses croissantes, ou placebo"
+   "nom": "Cohorte A",
+   "traitement": "BMS-986326 IV, dose 1, ou placebo"
   },
   {
-   "nom": "Cohortes C2, D2, E2 : voie SC",
-   "traitement": "BMS-986326 sous-cutané à doses croissantes, ou placebo"
+   "nom": "Cohorte B",
+   "traitement": "BMS-986326 IV, dose 2, ou placebo"
+  },
+  {
+   "nom": "Cohorte C1",
+   "traitement": "BMS-986326 IV, dose 3, ou placebo"
+  },
+  {
+   "nom": "Cohorte C2",
+   "traitement": "BMS-986326 sous-cutané, dose 3, ou placebo"
+  },
+  {
+   "nom": "Cohorte D2",
+   "traitement": "BMS-986326 sous-cutané, dose 4, ou placebo"
+  },
+  {
+   "nom": "Cohorte E2",
+   "traitement": "BMS-986326 sous-cutané, dose 3, ou placebo"
   }
  ],
  "duree": "Jusqu'à 228 jours",

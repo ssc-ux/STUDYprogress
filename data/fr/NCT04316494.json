@@ -15,7 +15,13 @@
   "Contraception efficace chez les femmes en âge de procréer, test de grossesse négatif"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre (critères d'exclusion non détaillés ici)"
+  "Hydroxychloroquine ou antipaludéen apparenté en cours",
+  "DFGe < 30 mL/min ou poids < 40 kg",
+  "Allergie aux 4-aminoquinoléines, déficit en G6PD, intolérance au lactose, psoriasis en plaques",
+  "Anti-TNF, cyclophosphamide, abatacept, alemtuzumab, immunoglobulines, échanges plasmatiques ou biothérapie expérimentale dans les 6 mois ; rituximab d’induction dans les 6 mois",
+  "Vascularite sévère ou rapidement progressive avec au moins un item majeur du BVAS",
+  "Cancer dans les 5 ans (hors exceptions) ; hépatite B ou C, VIH ; QTc > 470 ms (femme) ou > 450 ms (homme)",
+  "Anomalie biologique de grade ≥ 3, COVID-19 symptomatique, participation à un autre essai dans les 6 mois"
  ],
  "bras": [
   {
@@ -28,5 +34,5 @@
   }
  ],
  "duree": "52 semaines",
- "critere": "Proportion de patients avec une maladie non contrôlée, ou contrôlée mais avec prednisolone supérieure à 7,5 mg/j, évaluée par le BVAS pendant les 12 dernières semaines de traitement."
+ "critere": "Proportion de patients avec une maladie non contrôlée, ou contrôlée mais avec prednisolone supérieure à 7,5 mg/j (ou tout corticoïde > 7,5 mg/j), évaluée par le BVAS pendant les 12 dernières semaines de traitement."
 }

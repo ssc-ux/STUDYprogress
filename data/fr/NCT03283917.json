@@ -3,7 +3,7 @@
  "date": "2026-11-13",
  "titre": "Daratumumab, ixazomib et dexaméthasone dans l'amylose AL : étude de phase 1 de recherche de dose",
  "question": "L'association daratumumab, ixazomib et dexaméthasone est-elle sûre dans l'amylose AL, et quelle dose recommander pour la phase 2 ?",
- "contexte": "L'amylose AL est due à une prolifération plasmocytaire clonale qui produit des chaînes légères libres amyloïdogènes. Ces dépôts atteignent le cœur, les reins et d'autres organes. Le traitement vise à éradiquer le clone plasmocytaire, avec des schémas empruntés au myélome.\n\nLe daratumumab, anticorps anti-CD38, est devenu un pilier du traitement de première ligne, en association à la cyclophosphamide, au bortézomib et à la dexaméthasone. L'ixazomib est un inhibiteur du protéasome oral, qui a montré une activité dans l'amylose AL en rechute. L'association des deux, avec la dexaméthasone, n'a pas encore de dose établie dans cette maladie.\n\nCette étude de phase 1, monocentrique à bras unique, est menée au MD Anderson avec un soutien de Janssen et Takeda. Elle inclut des patients atteints d'amylose AL nouvellement diagnostiquée ou en rechute ou réfractaire, avec une maladie mesurable. Le daratumumab est administré par voie IV et l'ixazomib par voie orale, en cycles de 28 jours jusqu'à 12 cycles.",
+ "contexte": "L'amylose AL est due à une prolifération plasmocytaire clonale qui produit des chaînes légères libres amyloïdogènes. Ces dépôts atteignent le cœur, les reins et d'autres organes. Le traitement vise à éradiquer le clone plasmocytaire, avec des schémas empruntés au myélome.\n\nLe daratumumab, anticorps anti-CD38, est devenu un pilier du traitement de première ligne, en association à la cyclophosphamide, au bortézomib et à la dexaméthasone. L'ixazomib est un inhibiteur du protéasome oral, qui a montré une activité dans l'amylose AL en rechute. L'association des deux, avec la dexaméthasone, n'a pas encore de dose établie dans cette maladie.\n\nCette étude de phase 1, à bras unique et à dose de dexaméthasone croissante, est menée au MD Anderson avec un soutien de Janssen et Takeda. Elle inclut des patients atteints d'amylose AL nouvellement diagnostiquée ou en rechute ou réfractaire, avec une maladie mesurable. Le daratumumab est administré par voie IV et l'ixazomib par voie orale, en cycles de 28 jours jusqu'à 12 cycles.",
  "interet": "L'étude pourrait établir une dose recommandée pour une combinaison entièrement sans cyclophosphamide, avec un inhibiteur du protéasome oral. Cette option serait utile aux patients fragiles ou en rechute, et ouvrirait la voie à une phase 2.",
  "profil": "Des adultes atteints d'amylose AL systémique, nouvellement diagnostiquée ou en rechute ou réfractaire, avec une maladie mesurable.",
  "inclusion": [
@@ -11,12 +11,17 @@
   "Amylose AL nouvellement diagnostiquée sans traitement dirigé contre les plasmocytes, ou en rechute ou réfractaire",
   "Maladie mesurable : protéine monoclonale sérique ou urinaire, dFLC ≥ 50 mg/L",
   "Si autogreffe antérieure : au moins 3 mois écoulés",
-  "Âge ≥ 18 ans",
   "Consentement écrit",
-  "Mesures contraceptives pour les femmes en âge de procréer"
+  "Âge ≥ 18 ans, ECOG ≤ 2, polynucléaires ≥ 1000/mm³, plaquettes ≥ 75 000/mm³, bilirubine ≤ 1,5 N, ASAT/ALAT ≤ 3 N, clairance de la créatinine ≥ 10 mL/min"
  ],
  "exclusion": [
-  "Critères d'exclusion non détaillés dans l'extrait du registre : non précisé"
+  "Amylose non AL, ou myélome clinique (lésions lytiques, plasmocytome, hypercalcémie > 11 mg/dL)",
+  "Cardiopathie significative : insuffisance cardiaque NYHA IV, NT-proBNP > 8500 ng/L, hypotension orthostatique symptomatique, arythmie ou angor instable, infarctus de moins de 6 mois",
+  "Atteinte bronchique obstructive sévère (VEMS < 50 %)",
+  "Neuropathie périphérique de grade ≥ 3 (ou grade 2 avec douleur)",
+  "Infection active ou nécessitant des antibiotiques IV, hépatite B ou C active, VIH",
+  "Traitement antérieur par daratumumab ou ixazomib ; autre cancer dans les 2 ans (sauf exceptions)",
+  "Grossesse ou allaitement"
  ],
  "bras": [
   {

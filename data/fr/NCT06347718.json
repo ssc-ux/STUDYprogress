@@ -7,11 +7,12 @@
  "interet": "Elle pourrait fournir des données de sécurité et d'efficacité préliminaires d'un CAR-T anti-CD19 dans plusieurs maladies auto-immunes. Elle ne comporte pas de comparateur.",
  "profil": "Des adultes atteints de lupus, sclérodermie systémique ou myosite, actifs et réfractaires.",
  "inclusion": [
-  "Âge ≥ 18 ans, fonctions rénale, hépatique, cardiaque et pulmonaire acceptables",
-  "LES : critères ACR/EULAR 2019, auto-anticorps spécifiques positifs",
-  "LES actif : BILAG A dans ≥ 1 organe ou B dans ≥ 2 organes",
-  "Échec ou intolérance aux corticoïdes et à ≥ 2 traitements (HCQ, MMF, bélimumab, méthotrexate, rituximab, cyclophosphamide)",
-  "Contraception efficace pendant 12 mois",
+  "Âge ≥ 18 ans, fonctions rénale, hépatique, cardiaque et pulmonaire acceptables, contraception pendant 12 mois",
+  "LES : critères ACR/EULAR 2019, auto-anticorps spécifiques, BILAG A dans ≥ 1 organe ou B dans ≥ 2 organes",
+  "LES : échec ou intolérance aux corticoïdes et à ≥ 2 traitements (HCQ, MMF, bélimumab, méthotrexate, rituximab, cyclophosphamide)",
+  "ScS : critères ACR/EULAR 2013, auto-anticorps spécifiques, évolution rapide (durée ≤ 5 ans, mRSS 10-35), échec de ≥ 2 traitements",
+  "DM/PM : critères ACR/EULAR 2017, myosite active (biopsie, IRM ou atteinte pulmonaire), anticorps spécifiques, faiblesse (MMT-8 < 142)",
+  "DM/PM : échec ou intolérance aux corticoïdes et à ≥ 2 traitements (MMF, ciclosporine, tacrolimus, méthotrexate, rituximab, IgIV)",
   "Vaccination anti-SARS-CoV-2 ou infection récente"
  ],
  "exclusion": [

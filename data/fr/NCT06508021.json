@@ -15,7 +15,13 @@
   "Partie 1b : âge de 12 ans ou plus, poussées multiples dans les 6 mois"
  ],
  "exclusion": [
-  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+  "Poids < 10 kg, fracture non consolidée, chirurgie prévue ou récente",
+  "Insuffisance respiratoire sous oxygène",
+  "Autre maladie monogénique ou maladie osseuse ou minérale sans rapport avec la FOP",
+  "Cancer dans les 5 ans (hors cancers cutanés non mélanomes ou in situ), infection active",
+  "Hypo- ou hyperparathyroïdie non contrôlée, hyperthyroïdie non contrôlée",
+  "Corticoïdes systémiques > 10 mg/j, AINS au-delà des doses recommandées, tétracyclines, palovarotène < 1 mois (< 2 ans selon l'âge)",
+  "Hypersensibilité à l'andécaliximab, grossesse ou allaitement, autre produit expérimental"
  ],
  "bras": [
   {
@@ -28,7 +34,7 @@
   },
   {
    "nom": "Partie 2 : étude principale",
-   "traitement": "Andécaliximab, schéma détaillé non précisé dans ce résumé"
+   "traitement": "52 semaines en double aveugle : andécaliximab SC hebdomadaire à la dose A ou B (ou adaptée à l'âge) ou placebo, randomisation 1:1:1, environ 80 participants"
   }
  ],
  "duree": "Non précisé (critère principal évalué jusqu'à 53 semaines)",

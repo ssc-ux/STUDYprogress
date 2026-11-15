@@ -15,12 +15,18 @@
   "Éligibilité à la leucaphérèse"
  ],
  "exclusion": [
-  "Critères d'exclusion : non précisé dans l'extrait disponible"
+  "Traitement antérieur par CAR-T ou autre produit cellulaire génétiquement modifié",
+  "Lupus du système nerveux central actif (dans les 60 jours) ou lésion structurelle cérébrale significative à l'IRM",
+  "Dialyse dans les 3 mois ou atteinte rénale irréversible (index de chronicité > 6/12, fibrose étendue)",
+  "Cardiopathie congénitale grave, infarctus < 6 mois, arythmie sévère, myocardite sévère",
+  "Pneumopathie sévère (bronchectasies, emphysème, PID avancée) ou SpO2 < 92 %",
+  "Infection active ou non contrôlée, hépatite B/C active, VIH, syphilis ou CMV-ADN détectable",
+  "Greffe d'organe ou de cellules souches < 3 mois, SAM < 1 mois, grossesse, cancer ou autre maladie systémique sévère"
  ],
  "bras": [
   {
    "nom": "CAR-T anti-CD19",
-   "traitement": "Perfusion de lymphocytes CAR-T anti-CD19, dose cible 1×10^5 cellules CAR+/kg"
+   "traitement": "Perfusion de lymphocytes CAR-T anti-CD19, dose cible 1×10^5 cellules CAR+/kg ; deux niveaux exploratoires (0,3 et 3×10^5 cellules CAR+/kg) réservés aux ajustements selon la tolérance"
   }
  ],
  "duree": "3 mois pour le critère principal; durée totale du suivi non précisée",

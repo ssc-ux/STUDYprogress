@@ -8,16 +8,21 @@
  "profil": "Des patients de 16 à 75 ans atteints de PR, lupus, dermatomyosite ou sclérodermie réfractaires.",
  "inclusion": [
   "Âge de 16 à 75 ans",
-  "PR : séropositive (critères ACR/EULAR 2010), DAS28-VS > 3,2, au moins une articulation gonflée active à l'imagerie",
-  "PR : échec d'au moins un csDMARD et de deux biothérapies ou inhibiteurs de JAK de mécanismes différents",
-  "Lupus, dermatomyosite ou sclérodermie : critères de classification et activité selon le protocole (détails dans le registre)",
-  "Maladie réfractaire aux traitements antérieurs"
+  "PR séropositive (ACR/EULAR 2010), DAS28-VS > 3,2, synovite à l'écho-Doppler, échec d'au moins 1 csDMARD et 2 b/tsDMARD de mécanismes différents",
+  "Lupus (EULAR/ACR) avec auto-anticorps, échec d'au moins 2 immunomodulateurs et 1 biothérapie, et SLEDAI ≥ 6 ou néphrite lupique III/IV prouvée par biopsie avec RPCu ≥ 1",
+  "Dermatomyosite (EULAR/ACR 2017) avec anticorps spécifique, maladie active (cutanée ou musculaire) et échec d'au moins 2 traitements dont IgIV",
+  "Sclérodermie systémique diffuse (ACR/EULAR 2013) évoluant depuis 3 ans au plus, mRSS élevé, auto-anticorps spécifique, échec d'au moins 2 traitements",
+  "Corticoïdes stables depuis 4 semaines, autres immunosuppresseurs depuis 8 semaines",
+  "Fonction d'organe adéquate (DFG ≥ 45 mL/min, FEVG ≥ 45 %, SpO2 ≥ 92 %, bilan hépatique et NFS conformes)"
  ],
  "exclusion": [
-  "Lupus : atteinte neuropsychiatrique sévère active, SAM/lymphohistiocytose hémophagocytaire active, syndrome des antiphospholipides",
-  "Dermatomyosite : syndrome de chevauchement (sauf Sjögren), autres myopathies ou myosites",
-  "Sclérodermie : anticorps anticentromère, maladies mimant la sclérodermie",
-  "Autres critères d'exclusion : se reporter au registre"
+  "Lupus : atteinte neuropsychiatrique sévère, SAM/lymphohistiocytose hémophagocytaire active, syndrome des antiphospholipides",
+  "Dermatomyosite : syndrome de chevauchement (sauf Sjögren), autres myosites ou myopathies",
+  "Sclérodermie : anticorps anticentromère, maladies mimant la sclérodermie, hypertension artérielle pulmonaire",
+  "Cancer actuel ou antécédent de moins de 5 ans, VIH, hépatite B ou C active, infection en cours",
+  "Insuffisance cardiaque symptomatique, pathologie cardiovasculaire récente, dialyse, maladie pulmonaire non contrôlée",
+  "Grossesse ou allaitement, vaccin vivant dans les 2 semaines",
+  "Immunosuppresseurs ou corticoïdes à forte dose non sevrables, rituximab dans les 6 mois, IgG < 600 mg/dL"
  ],
  "bras": [
   {
