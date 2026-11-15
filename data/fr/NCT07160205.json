@@ -15,7 +15,13 @@
   "Anticorps associés aux myosites ou exclusion des diagnostics différentiels"
  ],
  "exclusion": [
-  "Critères d'exclusion non détaillés dans ce résumé du registre (non précisé)"
+  "Myosite à inclusions, myosite juvénile, myosite associée à une maladie auto-immune significative ou syndrome de chevauchement (sauf Sjögren)",
+  "Rituximab débuté dans les 12 semaines, autre biothérapie ou médicament expérimental dans les 6 demi-vies",
+  "Pneumopathie interstitielle ou atteinte cardiaque limitant la participation ; myopathie non immune, atrophie musculaire prédominante, myosite terminale",
+  "Cancer associé à la myosite, cancer actif ou datant de moins de 2 ans (hors cancers cutanés non mélaniques)",
+  "Hypersensibilité aux composants (dont DMSO), grossesse ou allaitement, greffe d'organe, vaccin vivant récent",
+  "Neutropénie, insuffisance rénale sévère (DFGe < 30), hépatite B (infection actuelle ou passée à risque de réactivation), VIH ou hépatite C active",
+  "Affection gênant l'évaluation de la force musculaire (ex. maladie de Parkinson, atteinte musculosquelettique sévère)"
  ],
  "bras": [
   {
@@ -27,6 +33,6 @@
    "traitement": "Placebo salin par voie IV au jour 0 et aux mois 3 et 6, puis ULSC aux mois 7, 10 et 13"
   }
  ],
- "duree": "Jusqu'à 12 mois après la dernière perfusion",
+ "duree": "25 mois au total (perfusions tous les 3 mois, suivi jusqu'à 12 mois après la dernière perfusion)",
  "critere": "Tolérance (événements indésirables et graves) et score d'amélioration total (TIS) ACR/EULAR 2016 entre l'inclusion et 7 mois."
 }

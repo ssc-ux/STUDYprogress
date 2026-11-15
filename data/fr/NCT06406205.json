@@ -18,9 +18,11 @@
  "exclusion": [
   "DFGe ≤ 45 mL/min/1,73 m² (CKD-EPI)",
   "Traitement interdit en cours ou lavage insuffisant",
-  "Dialyse en cours ou prévisible",
-  "Greffe rénale antérieure ou prévue",
-  "Autres critères d'exclusion : non précisé dans l'extrait disponible"
+  "Dialyse en cours ou prévisible, greffe rénale antérieure ou prévue",
+  "Hypersensibilité à un traitement prévu (mycophénolate, ciclosporine, voclosporine, corticoïdes)",
+  "Cancer dans les 5 ans, maladie lymphoproliférative, infection virale sévère, VIH ou tuberculose active",
+  "Cardiopathie sévère, HTA mal contrôlée, QTcF > 480 ms, ALAT/ASAT/bilirubine ≥ 2,5 × LSN ou cytopénie (GB < 2,5, plaquettes < 50 G/L)",
+  "Vaccin vivant < 4 semaines, grossesse ou allaitement, autre essai récent ou voclosporine antérieure"
  ],
  "bras": [
   {

@@ -12,10 +12,11 @@
   "Dermocorticoïdes de faible puissance ou tacrolimus topique éventuels, dose stable ≥ 4 semaines"
  ],
  "exclusion": [
+  "Myosite juvénile, patient devenu adulte (≥ 18 ans)",
+  "Myosite associée à un cancer (cancer dans les 3 ans suivant le diagnostic de myosite, hors carcinome in situ du col et cancers cutanés non mélaniques)",
   "Au moins 3 cures de corticoïdes oraux dans l'année précédente",
   "Déficit immunitaire primitif ou secondaire non lié au traitement de la MII",
-  "Infarctus du myocarde, cardiopathie ischémique instable ou AVC dans les 12 semaines",
-  "Autres critères d'exclusion non détaillés dans le registre"
+  "Infarctus du myocarde, cardiopathie ischémique instable ou AVC dans les 12 semaines"
  ],
  "bras": [
   {
@@ -27,6 +28,6 @@
    "traitement": "Placebo du nipocalimab à la semaine 0 puis toutes les 2 semaines jusqu'à la semaine 50, avec corticoïdes selon le cas"
   }
  ],
- "duree": "52 semaines",
+ "duree": "52 semaines en double aveugle, puis extension jusqu'à la semaine 98 et suivi jusqu'à la semaine 106",
  "critere": "Pourcentage de participants avec une amélioration minimale (≥ 20) du score IMACS TIS et ≤ 5 mg/j de prednisone orale de la semaine 44 à la semaine 52."
 }
