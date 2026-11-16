@@ -7,7 +7,7 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
   (nouvelles études françaises, phases 3-4 d'abord ; nouveautés du mois ; études ouvertes dans « ma ville » ; résultats de phase 3
   de moins de 6 mois), liste dense filtrable (filtres dans l'URL), page par maladie (essais classés par phase), fiche étude.
 - `scripts/conditions.mjs` : maladies suivies, catégories, détection des promoteurs français.
-- `scripts/update.mjs` : collecte → `data/studies.json` (index léger, avec villes françaises `v` et molécules `iv`), `data/s/<NCT>.json` (fiche complète, avec `results` : critères principaux et tolérance du registre, et `abstracts` : résumés PubMed),
+- `scripts/update.mjs` : collecte → `data/studies.json` (index léger, avec villes françaises `v` et molécules `iv`), `data/s/<NCT>.json` (fiche complète, avec `results` : critères principaux et tolérance du registre, et `abstracts` : résumés PubMed ; `pubs` : publications vérifiées sur PubMed, c.-à-d. citant le numéro NCT, `k` = « r » résultats, « p » protocole ; les références du registre seules sont souvent de la bibliographie de fond),
   `data/todo.json` (fiches en français à rédiger, par ordre de priorité).
 - `data/fr/<NCT>.json` : fiches en français (cache ; ne jamais les supprimer).
 
