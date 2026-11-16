@@ -1,6 +1,7 @@
 // Mise à jour hebdomadaire : collecte ClinicalTrials.gov → résumés en français (Claude) → data/.
 // Usage : node scripts/update.mjs            collecte + reconstruction
 //         OFFLINE=1 node scripts/update.mjs  reconstruction seule (après rédaction de fiches dans data/fr/)
+//         OFFLINE=1 PUBS=1 node scripts/update.mjs  reconstruction + nouvelle vérification des publications sur PubMed
 // Les fiches manquantes sont listées par priorité dans data/todo.json. Elles sont rédigées par la tâche
 // Claude hebdomadaire, ou par l'API si ANTHROPIC_API_KEY est défini (npm install requis).
 import { readFile, writeFile, readdir, unlink, mkdir } from "node:fs/promises";
@@ -70,7 +71,8 @@ function normalize(st) {
     interventions: (ai.interventions ?? []).map(i => ({ t: i.type, n: i.name })),
     primary: (ps.outcomesModule?.primaryOutcomes ?? []).map(o => ({ m: o.measure, tf: o.timeFrame ?? "" })),
     hasResults: !!st.hasResults,
-    pubs: (ps.referencesModule?.references ?? []).filter(r => r.type === "RESULT").map(r => ({ pmid: r.pmid ?? "", cit: r.citation }))
+    // Articles déclarés « résultats » au registre (PMID) : simples candidats, vérifiés sur PubMed par verifyPubs.
+    refs: (ps.referencesModule?.references ?? []).filter(r => r.type === "RESULT" && r.pmid).map(r => r.pmid), pubs: []
   };
 }
 
@@ -89,7 +91,7 @@ const drugs = s => [...new Map(s.interventions.filter(i => /DRUG|BIOLOGICAL|GENE
 // Ordre de priorité des fiches : nouvelles études françaises (page d'accueil), autres françaises, centres en France, puis le reste.
 const OPEN = /RECRUIT|ENROLLING/;
 // À classe égale : phase 3-4 ou résultats disponibles d'abord (ce qui change la pratique), ouvertes avant terminées.
-const key = s => /[34]/.test(s.phase) || s.hasResults || s.pubs.length ? 0 : 2;
+const key = s => /[34]/.test(s.phase) || s.hasResults ? 0 : 2;
 const prio = s => s.fr === "promo" && OPEN.test(s.status) && s.start >= SINCE.replace(/^\d{4}/, y => +y + 1) ? 0
   : (s.fr === "promo" ? 1 : s.fr ? 2 : 3) * 4 + key(s) + (OPEN.test(s.status) ? 0 : 1);
 // Résultats détaillés : critères principaux et tolérance déposés au registre, résumés PubMed des publications de résultats.
@@ -108,17 +110,72 @@ async function addResults(s) {
       ae: (r.adverseEventsModule?.eventGroups ?? []).map(g => ({ t: g.title, ser: g.seriousNumAffected, die: g.deathsNumAffected, n: g.seriousNumAtRisk }))
     };
   }
-  // Les références « RESULT » sont souvent de la bibliographie de fond : on ne garde que les articles d'une étude terminée,
-  // parus après son début.
-  let ids = /COMPLETED|TERMINATED/.test(s.status) ? s.pubs.map(p => p.pmid).filter(Boolean).slice(0, 5) : [];
-  if (ids.length) {
-    const j = await get(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=${ids.join(",")}`);
-    ids = ids.filter(id => (j.result?.[id]?.pubdate ?? "").slice(0, 4) >= (s.start || "0").slice(0, 4)).slice(0, 3);
+}
+
+// Publications : les références « RESULT » du registre sont souvent de la bibliographie de fond (autres études, revues).
+// On ne garde donc que les articles PubMed qui citent le numéro NCT de l'étude (trouvés par recherche PubMed ou parmi les
+// références du registre), plus les références du registre d'une étude terminée parues à partir de l'année de sa fin et sans autre numéro NCT.
+// Type k : « r » résultats (article paru après la fin du critère principal), « p » protocole, « » autre article de l'étude ;
+// ces deux derniers ne sont gardés que si PubMed rattache l'article à l'étude (numéro NCT indexé, pas seulement cité dans le résumé).
+// Revues, méta-analyses, commentaires et éditoriaux sont écartés.
+const EUT = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
+async function eut(path, params, tries = 4) {
+  for (let i = 0; ; i++) {
+    await new Promise(res => setTimeout(res, 400));
+    try {
+      const r = await fetch(`${EUT}/${path}`, { method: "POST", body: new URLSearchParams({ db: "pubmed", tool: "studyprogress", ...params }) });
+      if (r.ok) return r.text();
+      if (i >= tries) throw new Error(`${r.status} ${path}`);
+    } catch (e) { if (i >= tries) throw e; }
+    await new Promise(res => setTimeout(res, 2000 * 2 ** i));
   }
-  if (ids.length) {
-    const r = await fetch(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${ids.join(",")}&rettype=abstract&retmode=text`);
-    if (r.ok) s.abstracts = cut((await r.text()).trim(), 6000);
+}
+const MONTHS = { jan: "01", feb: "02", mar: "03", apr: "04", may: "05", jun: "06", jul: "07", aug: "08", sep: "09", oct: "10", nov: "11", dec: "12" };
+const xtxt = t => (t ?? "").replace(/<[^>]+>/g, "").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&apos;|&#39;/g, "'")
+  .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
+function parseArticle(x) {
+  x = x.replace(/<ReferenceList>[\s\S]*<\/ReferenceList>/, "");
+  const tag = (t, src = x) => xtxt(src.match(new RegExp(`<${t}[ >][\\s\\S]*?</${t}>`))?.[0]);
+  const date = b => { if (!b) return ""; const y = tag("Year", b) || tag("MedlineDate", b).slice(0, 4), m = tag("Month", b), d = tag("Day", b);
+    const mm = MONTHS[m.slice(0, 3).toLowerCase()] ?? (m && m.padStart(2, "0")); return y + (mm ? "-" + mm + (d ? "-" + d.padStart(2, "0") : "") : ""); };
+  const dates = [x.match(/<PubDate>[\s\S]*?<\/PubDate>/)?.[0], x.match(/<ArticleDate[\s\S]*?<\/ArticleDate>/)?.[0]].map(date).filter(Boolean).sort();
+  const authors = [...x.matchAll(/<Author[ >][\s\S]*?<\/Author>/g)].map(a => tag("CollectiveName", a[0]) || `${tag("LastName", a[0])} ${tag("Initials", a[0])}`.trim()).filter(Boolean);
+  const title = tag("ArticleTitle"), doi = x.match(/<ArticleId IdType="doi">([^<]+)</)?.[1] ?? "";
+  const abs = [...x.matchAll(/<AbstractText([^>]*)>([\s\S]*?)<\/AbstractText>/g)].map(m => { const l = m[1].match(/Label="([^"]+)"/)?.[1]; return (l ? l + ": " : "") + xtxt(m[2]); }).join("\n");
+  const types = [...x.matchAll(/<PublicationType[^>]*>([^<]+)</g)].map(m => m[1]);
+  return {
+    pmid: x.match(/<PMID[^>]*>(\d+)</)?.[1] ?? "", d: dates[0] ?? "", title, abs, types,
+    si: new Set([...x.matchAll(/<AccessionNumber>\s*(NCT\d{8})/gi)].map(m => m[1].toUpperCase())),
+    ncts: new Set((x.match(/NCT\d{8}/gi) ?? []).map(n => n.toUpperCase())),
+    cit: `${authors.slice(0, 6).join(", ")}${authors.length > 6 ? ", et al" : ""}. ${title} ${tag("ISOAbbreviation")}. ${(dates[0] ?? "").slice(0, 4)}.${doi ? ` doi: ${doi}` : ""}`
+  };
+}
+async function verifyPubs(studies) {
+  const found = new Set(studies.flatMap(s => s.refs ?? []));
+  for (let i = 0; i < studies.length; i += 50) {
+    const term = studies.slice(i, i + 50).map(s => `${s.id}[si] OR ${s.id}[tiab]`).join(" OR ");
+    for (const id of JSON.parse(await eut("esearch.fcgi", { term, retmode: "json", retmax: "5000" })).esearchresult?.idlist ?? []) found.add(id);
   }
+  const arts = new Map(), ids = [...found];
+  for (let i = 0; i < ids.length; i += 150)
+    for (const x of (await eut("efetch.fcgi", { id: ids.slice(i, i + 150).join(","), retmode: "xml" })).split(/(?=<PubmedArticle>)/).slice(1)) { const a = parseArticle(x); arts.set(a.pmid, a); }
+  const byNct = new Map();
+  for (const a of arts.values()) for (const n of a.ncts) byNct.set(n, [...(byNct.get(n) ?? []), a]);
+  let n = 0;
+  for (const s of studies) {
+    const end = (s.pcd || s.end || "9999").slice(0, 7), done = /COMPLETED|TERMINATED/.test(s.status);
+    const noise = a => a.ncts.size > 4 || a.types.some(t => /Erratum|Retract|Review|Meta-Analysis|Comment|Editorial/i.test(t));
+    const kind = a => /\bprotocol\b|rationale|study design|design of|design and/i.test(a.title) ? "p"
+      : a.d.slice(0, 7) >= end.slice(0, a.d.length) ? "r" : "";
+    const cited = (byNct.get(s.id) ?? []).filter(a => !noise(a) && (kind(a) === "r" || a.si.has(s.id)));
+    const declared = (s.refs ?? []).map(id => arts.get(id)).filter(a => a && done && !a.ncts.size && !noise(a) && a.d.slice(0, 4) >= end.slice(0, 4));
+    s.pubs = [...new Map([...cited.map(a => [a, kind(a)]), ...declared.map(a => [a, "r"])].map(([a, k]) => [a.pmid, { pmid: a.pmid, cit: a.cit, d: a.d, k }])).values()]
+      .sort((a, b) => (b.k === "r") - (a.k === "r") || b.d.localeCompare(a.d)).slice(0, 12);
+    const abs = s.pubs.filter(p => p.k === "r" && arts.get(p.pmid).abs).slice(0, 3).map(p => `${p.cit}\n${arts.get(p.pmid).abs}`).join("\n\n");
+    if (abs) s.abstracts = cut(abs, 6000); else delete s.abstracts;
+    n += s.pubs.length;
+  }
+  console.log(`Publications vérifiées sur PubMed : ${n} (sur ${ids.length} candidates)`);
 }
 const hashOf = s => createHash("sha1").update(JSON.stringify([s.title, s.summary, s.elig, s.arms, s.primary])).digest("hex").slice(0, 12);
 
@@ -142,13 +199,14 @@ async function main() {
   await mkdir("data/fr", { recursive: true });
   const studies = [...byId.values()];
   if (!process.env.OFFLINE) {
-    const withRes = studies.filter(s => s.hasResults || s.pubs.some(p => p.pmid));
+    const withRes = studies.filter(s => s.hasResults);
     let i = 0;
     await Promise.all(Array.from({ length: 2 }, async () => {
       while (i < withRes.length) { const s = withRes[i++]; try { await addResults(s); } catch (e) { console.warn(`Résultats ${s.id} : ${e.message}`); } }
     }));
     console.log(`Résultats détaillés : ${withRes.length} études`);
   }
+  if (!process.env.OFFLINE || process.env.PUBS) await verifyPubs(studies);
   const todo = [];
   for (const s of studies) {
     delete s.x;
@@ -189,8 +247,8 @@ async function main() {
   const light = studies.map(s => ({
     id: s.id, acr: s.acr, t: s.x?.titre || s.title, dis: s.dis, status: s.status, type: s.type, phase: s.phase,
     n: s.n, start: s.start, pcd: s.pcd, sponsor: s.sponsor, sClass: s.sClass, fr: s.fr, frN: s.frSites.length,
-    sites: s.sites, q: s.x?.question ?? "", p: s.x?.profil ?? "", seen: s.seen, chg: s.chg, res: s.hasResults || s.pubs.length > 0,
-    pub: s.pubs.length, rd: s.rdate || (s.pubs.length ? s.upd : ""), rnd: s.alloc === "RANDOMIZED" ? 1 : 0, iv: drugs(s), v: [...new Set(s.frSites.map(l => city(l.c)).filter(Boolean))].sort()
+    sites: s.sites, q: s.x?.question ?? "", p: s.x?.profil ?? "", seen: s.seen, chg: s.chg, res: s.hasResults || s.pubs.some(p => p.k === "r"),
+    pub: s.pubs.length, rd: s.rdate || (s.pubs.find(p => p.k === "r")?.d ?? ""), rnd: s.alloc === "RANDOMIZED" ? 1 : 0, iv: drugs(s), v: [...new Set(s.frSites.map(l => city(l.c)).filter(Boolean))].sort()
   }));
   await writeFile("data/todo.json", JSON.stringify(todo.map(s => ({ id: s.id, h: s.h, acr: s.acr, fr: s.fr })), null, 0).replace(/},/g, "},\n"));
   await writeFile("data/studies.json", JSON.stringify({ updated: process.env.OFFLINE && prev.updated || TODAY, diseases: DISEASES.map(({ q, ...d }) => d), studies: light }));
