@@ -130,6 +130,7 @@ async function eut(path, params, tries = 4) {
     await new Promise(res => setTimeout(res, 2000 * 2 ** i));
   }
 }
+const STOP = new Set("study trial patients with versus treatment efficacy safety evaluate evaluating phase randomized randomised controlled placebo double blind participants adults subjects clinical assess open label multicenter disease syndrome therapy effect effects compared using among from that this were have been after during their than between treated tolerability investigate".split(" "));
 const MONTHS = { jan: "01", feb: "02", mar: "03", apr: "04", may: "05", jun: "06", jul: "07", aug: "08", sep: "09", oct: "10", nov: "11", dec: "12" };
 const xtxt = t => (t ?? "").replace(/<[^>]+>/g, "").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&apos;|&#39;/g, "'")
   .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
@@ -150,8 +151,22 @@ function parseArticle(x) {
     cit: `${authors.slice(0, 6).join(", ")}${authors.length > 6 ? ", et al" : ""}. ${title} ${tag("ISOAbbreviation")}. ${(dates[0] ?? "").slice(0, 4)}.${doi ? ` doi: ${doi}` : ""}`
   };
 }
+// Hors ligne : applique les décisions de data/pubs.json aux candidats de data/cand.json (article validé → publication de résultats).
+async function applyDecisions(studies) {
+  const dec = await readJSON("data/pubs.json", {}), cand = await readJSON("data/cand.json", []), byId = new Map(studies.map(s => [s.id, s]));
+  for (const e of cand) {
+    const s = byId.get(e.id), d = dec[e.id] ?? {};
+    for (const a of e.c.filter(a => d.ok?.includes(a.pmid) && s && !s.pubs.some(p => p.pmid === a.pmid))) {
+      s.pubs.unshift({ pmid: a.pmid, cit: a.cit, d: a.d, k: "r", t: 1 });
+      s.abstracts = cut([`${a.cit}\n${a.abs}`, s.abstracts].filter(Boolean).join("\n\n"), 6000);
+    }
+    e.c = e.c.filter(a => !d.ok?.includes(a.pmid) && !d.no?.includes(a.pmid));
+  }
+  await writeFile("data/cand.json", JSON.stringify(cand.filter(e => e.c.length), null, 1) + "\n");
+}
 async function verifyPubs(studies) {
-  const found = new Set(studies.flatMap(s => s.refs ?? []));
+  const dec = await readJSON("data/pubs.json", {});
+  const found = new Set([...studies.flatMap(s => s.refs ?? []), ...Object.values(dec).flatMap(d => d.ok ?? [])]);
   for (let i = 0; i < studies.length; i += 50) {
     const term = studies.slice(i, i + 50).map(s => `${s.id}[si] OR ${s.id}[tiab]`).join(" OR ");
     for (const id of JSON.parse(await eut("esearch.fcgi", { term, retmode: "json", retmax: "5000" })).esearchresult?.idlist ?? []) found.add(id);
@@ -169,8 +184,43 @@ async function verifyPubs(studies) {
       : a.d.slice(0, 7) >= end.slice(0, a.d.length) ? "r" : "";
     const cited = (byNct.get(s.id) ?? []).filter(a => !noise(a) && (kind(a) === "r" || a.si.has(s.id)));
     const declared = (s.refs ?? []).map(id => arts.get(id)).filter(a => a && done && !a.ncts.size && !noise(a) && a.d.slice(0, 4) >= end.slice(0, 4));
-    s.pubs = [...new Map([...cited.map(a => [a, kind(a)]), ...declared.map(a => [a, "r"])].map(([a, k]) => [a.pmid, { pmid: a.pmid, cit: a.cit, d: a.d, k }])).values()]
+    s.pubs = [...new Map([...cited.map(a => [a, kind(a)]), ...declared.map(a => [a, "r"]), ...(dec[s.id]?.ok ?? []).map(id => [arts.get(id), "r", 1]).filter(e => e[0])]
+      .map(([a, k, t]) => [a.pmid, { pmid: a.pmid, cit: a.cit, d: a.d, k, ...(t && { t }) }])).values()]
       .sort((a, b) => (b.k === "r") - (a.k === "r") || b.d.localeCompare(a.d)).slice(0, 12);
+  }
+  // Veille par le titre : pour une étude dont le critère principal est échu et sans article de résultats, on cherche sur PubMed
+  // comme le ferait un lecteur (acronyme, sinon molécule dans le titre) un article paru depuis. Il n'est retenu que s'il reprend
+  // l'essentiel des mots du titre de l'étude, la même phase, et ne cite aucun numéro NCT (sinon il appartient à une autre étude).
+  // Ce rapprochement se trompe souvent : les articles sont seulement proposés dans data/cand.json. La tâche Claude hebdomadaire lit
+  // le résumé et tranche dans data/pubs.json ({ "<NCT>": { "ok": ["pmid"], "no": ["pmid"] } }) ; un article « ok » devient une
+  // publication de résultats (t: 1, « rapproché par le titre »), un article « no » n'est plus proposé.
+  const words = t => new Set((t ?? "").toLowerCase().normalize("NFD").replace(/[^a-z0-9 ]/g, " ").split(/\s+/).filter(w => w.length >= 4 && !STOP.has(w)));
+  const late = studies.filter(s => s.pcd && s.pcd <= TODAY && !/^(RECRUITING|NOT_YET)/.test(s.status) && !s.pubs.some(p => p.k === "r"));
+  const hits = new Map();
+  for (const s of late) {
+    const dp = ` AND ("${s.pcd.slice(0, 7).replace("-", "/")}"[dp] : "3000"[dp])`, drug = drugs(s)[0];
+    const qs = [/^[A-Za-z][\w-]{3,}$/.test(s.acr) && `"${s.acr}"[tiab]`, drug && `"${drug}"[ti]`].filter(Boolean);
+    const ids = new Set();
+    for (const q of qs) try { for (const id of JSON.parse(await eut("esearch.fcgi", { term: q + dp, retmode: "json", retmax: "15", sort: "relevance" })).esearchresult?.idlist ?? []) ids.add(id); } catch {}
+    hits.set(s.id, [...ids]);
+  }
+  const more = [...new Set([...hits.values()].flat())].filter(id => !arts.has(id));
+  for (let i = 0; i < more.length; i += 150)
+    for (const x of (await eut("efetch.fcgi", { id: more.slice(i, i + 150).join(","), retmode: "xml" })).split(/(?=<PubmedArticle>)/).slice(1)) { const a = parseArticle(x); arts.set(a.pmid, a); }
+  let nt = 0; const cand = [];
+  for (const s of late) {
+    const T = [...words(`${s.title} ${s.off ?? ""}`)], ph = (s.phase.match(/\d/g) ?? []);
+    const score = a => { const A = words(`${a.title} ${a.abs}`); return T.filter(w => A.has(w)).length / (T.length || 1); };
+    const ok = a => a && a.abs && !a.ncts.size && a.d.slice(0, 7) >= s.pcd.slice(0, a.d.length).slice(0, 7)
+      && !a.types.some(t => /Erratum|Retract|Review|Meta-Analysis|Comment|Editorial/i.test(t)) && !/\bprotocol\b|rationale|study design|design of|design and/i.test(a.title)
+      && (ph.length ? ph : ["1", "2", "3", "4"]).some(p => !/phase\s*(\d|i+v?\b)/i.test(a.title + a.abs) || new RegExp(`phase\\s*(${p}|${["", "i", "ii", "iii", "iv"][p]})\\b`, "i").test(a.title + a.abs))
+      && score(a) >= (s.acr && new RegExp(`\\b${s.acr}\\b`).test(a.title + " " + a.abs) ? 0.5 : 0.6);
+    const c = hits.get(s.id).filter(id => !dec[s.id]?.no?.includes(id)).map(id => arts.get(id)).filter(ok).sort((a, b) => score(b) - score(a)).slice(0, 2);
+    if (c.length) { nt += c.length; cand.push({ id: s.id, acr: s.acr, title: s.title, pcd: s.pcd, c: c.map(a => ({ pmid: a.pmid, cit: a.cit, d: a.d, abs: cut(a.abs, 2500) })) }); }
+  }
+  await writeFile("data/cand.json", JSON.stringify(cand, null, 1) + "\n");
+  console.log(`Veille par le titre : ${nt} articles à valider (data/cand.json) pour ${late.length} études échues sans publication`);
+  for (const s of studies) {
     const abs = s.pubs.filter(p => p.k === "r" && arts.get(p.pmid).abs).slice(0, 3).map(p => `${p.cit}\n${arts.get(p.pmid).abs}`).join("\n\n");
     if (abs) s.abstracts = cut(abs, 6000); else delete s.abstracts;
     n += s.pubs.length;
@@ -206,7 +256,7 @@ async function main() {
     }));
     console.log(`Résultats détaillés : ${withRes.length} études`);
   }
-  if (!process.env.OFFLINE || process.env.PUBS) await verifyPubs(studies);
+  if (!process.env.OFFLINE || process.env.PUBS) await verifyPubs(studies); else await applyDecisions(studies);
   const todo = [];
   for (const s of studies) {
     delete s.x;

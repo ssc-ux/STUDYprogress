@@ -8,22 +8,27 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
   de moins de 6 mois), liste dense filtrable (filtres dans l'URL), page par maladie (essais classés par phase), fiche étude.
 - `scripts/conditions.mjs` : maladies suivies, catégories, détection des promoteurs français.
 - `scripts/update.mjs` : collecte → `data/studies.json` (index léger, avec villes françaises `v` et molécules `iv`), `data/s/<NCT>.json` (fiche complète, avec `results` : critères principaux et tolérance du registre, et `abstracts` : résumés PubMed ; `pubs` : publications vérifiées sur PubMed, c.-à-d. citant le numéro NCT, `k` = « r » résultats, « p » protocole ; les références du registre seules sont souvent de la bibliographie de fond),
-  `data/todo.json` (fiches en français à rédiger, par ordre de priorité).
+  `data/todo.json` (fiches en français à rédiger, par ordre de priorité), `data/cand.json` (veille par le titre : articles PubMed sans numéro NCT
+  qui pourraient être la publication d'une étude échue, à valider), `data/pubs.json` (décisions : `{ "<NCT>": { "ok": ["pmid"], "no": ["pmid"] } }`).
 - `data/fr/<NCT>.json` : fiches en français (cache ; ne jamais les supprimer).
 
 ## Mise à jour hebdomadaire (tâche Claude du lundi)
 
 1. `node scripts/update.mjs` (aucune dépendance npm nécessaire). En cas d'échec réseau, réessayer ;
    si la collecte échoue encore, s'arrêter sans rien pousser.
-2. Lire `data/todo.json` et rédiger les **100 premières** fiches de la liste (elle est triée : nouvelles
+2. Veille des publications : lire `data/cand.json`. Pour chaque article proposé, comparer son résumé à `data/s/<id>.json`
+   (molécule, maladie, design, effectif, promoteur, pays) et ranger son PMID dans `data/pubs.json` : `ok` seulement si l'article rapporte
+   sans ambiguïté les résultats de cette étude, sinon `no` (autre essai, étude rétrospective, cas cliniques, préclinique). Puis
+   `OFFLINE=1 node scripts/update.mjs` : les articles validés deviennent des publications de résultats et leurs fiches passent dans `todo.json`.
+3. Lire `data/todo.json` et rédiger les **100 premières** fiches de la liste (elle est triée : nouvelles
    études françaises d'abord, puis phases 3-4 et études avec résultats). Pour chaque entrée, lire `data/s/<id>.json` et écrire `data/fr/<id>.json`
    au format ci-dessous, avec le champ `h` recopié tel quel depuis `todo.json`. Si la fiche existe déjà
    (refaite parce que des résultats sont parus), la garder et seulement ajouter `resultats` et mettre à jour `h`. Paralléliser avec des
    sous-agents (lots d'environ 10 fiches).
-3. `OFFLINE=1 node scripts/update.mjs` pour intégrer les fiches.
-4. Vérifier que `data/studies.json` se charge (`node -e 'require("./data/studies.json")'`), puis
+4. `OFFLINE=1 node scripts/update.mjs` pour intégrer les fiches.
+5. Vérifier que `data/studies.json` se charge (`node -e 'require("./data/studies.json")'`), puis
    `git add -A && git commit -m "Mise à jour hebdomadaire des études (AAAA-MM-JJ)" && git push origin main`.
-5. Résumer en quelques lignes : nombre d'études, nouvelles études françaises, changements de statut, fiches rédigées.
+6. Résumer en quelques lignes : nombre d'études, publications validées, nouvelles études françaises, changements de statut, fiches rédigées.
 
 ## Format d'une fiche `data/fr/<id>.json`
 
