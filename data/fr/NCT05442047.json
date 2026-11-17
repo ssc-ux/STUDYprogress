@@ -1,6 +1,6 @@
 {
- "h": "44e58d0e4c3a",
- "date": "2026-11-13",
+ "h": "44e58d0e4c3ar",
+ "date": "2026-11-17",
  "titre": "NNC6019-0001 versus placebo dans la cardiomyopathie amyloïde à transthyrétine",
  "question": "NNC6019-0001 améliore-t-il la capacité de marche et le NT-proBNP des patients atteints de cardiomyopathie amyloïde à TTR ?",
  "contexte": "La cardiomyopathie amyloïde à transthyrétine (ATTR-CM), sauvage ou héréditaire, est due au dépôt myocardique de fibrilles de TTR. Elle provoque une insuffisance cardiaque progressive avec dyspnée, œdèmes et mauvaise tolérance à l'effort.\n\nLes stabilisateurs de TTR (tafamidis, acoramidis) et les silenceurs (vutrisiran) ralentissent la maladie mais n'éliminent pas les dépôts déjà formés. Des traitements visant la clairance de l'amylose déposée sont donc étudiés.\n\nNNC6019-0001 est un médicament expérimental de Novo Nordisk, administré par perfusion IV toutes les 4 semaines (13 perfusions), non encore approuvé. Cette étude de phase 2 randomisée évalue deux doses contre placebo en plus du traitement standard (randomisation 2:1 en faveur du médicament), pendant environ 64 semaines. Les critères principaux sont la variation du test de marche de 6 minutes et du NT-proBNP à la semaine 52.",
@@ -26,19 +26,11 @@
   "Allergie au gadolinium ou aux produits de contraste"
  ],
  "bras": [
-  {
-   "nom": "NNC6019-0001, dose 1",
-   "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"
-  },
-  {
-   "nom": "NNC6019-0001, dose 2",
-   "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"
-  },
-  {
-   "nom": "Placebo",
-   "traitement": "Perfusion IV de placebo toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"
-  }
+  {"nom": "NNC6019-0001, dose 1", "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"},
+  {"nom": "NNC6019-0001, dose 2", "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"},
+  {"nom": "Placebo", "traitement": "Perfusion IV de placebo toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"}
  ],
  "duree": "Environ 64 semaines",
- "critere": "Variation du test de marche de 6 minutes et du NT-proBNP entre l'inclusion et la semaine 52."
+ "critere": "Variation du test de marche de 6 minutes et du NT-proBNP entre l'inclusion et la semaine 52.",
+ "resultats": "Dans l'essai de phase 2 publié (Circulation 2025), 104 participants (âge médian 77 ans, 93 % d'hommes, 13 % de forme héréditaire) ont reçu coramitug 10 mg/kg (n=34), 60 mg/kg (n=35) ou placebo (n=35) toutes les 4 semaines pendant 52 semaines. Le NT-proBNP médian initial était de 1985 pg/mL, et 90 % des patients recevaient déjà un traitement de fond (tafamidis 84 %). À la semaine 52, 60 mg/kg réduisait le NT-proBNP de 48 % vs placebo (IC 95 % -65 % à -22 % ; p=0,0017). La variation du test de marche de 6 minutes n'était pas différente du placebo, avec l'une ou l'autre dose. La dose de 60 mg/kg était associée à une amélioration de paramètres échocardiographiques fonctionnels et bien tolérée. Les auteurs concluent à une réduction significative du NT-proBNP sans effet significatif sur le test de marche en 52 semaines."
 }

@@ -1,6 +1,6 @@
 {
- "h": "eb1068f4a351",
- "date": "2026-11-13",
+ "h": "eb1068f4a351r",
+ "date": "2026-11-17",
  "titre": "Brepocitinib oral contre placebo dans la dermatomyosite de l'adulte",
  "question": "Le brepocitinib, inhibiteur de TYK2/JAK1, améliore-t-il l'activité de la dermatomyosite de l'adulte par rapport au placebo ?",
  "contexte": "La dermatomyosite est une myopathie inflammatoire idiopathique touchant les muscles et la peau, avec un retentissement fonctionnel important. Le traitement repose sur les corticoïdes, associés à des immunosuppresseurs (méthotrexate, azathioprine, mycophénolate) et aux immunoglobulines intraveineuses, seules ces dernières ayant une AMM dans cette indication aux États-Unis. Beaucoup de patients restent actifs malgré ces traitements et dépendants des corticoïdes.\n\nLe rationnel est que la voie des interférons de type I, dépendante de TYK2 et de JAK1, joue un rôle central dans la physiopathologie de la maladie. Le brepocitinib, inhibiteur oral de TYK2/JAK1, cible cette voie. Cet essai de phase 3 (VALOR), randomisé en double aveugle contre placebo, compare deux doses de brepocitinib chez 241 adultes, avec 52 semaines de traitement en aveugle puis une extension ouverte de 52 semaines. Le promoteur est Priovant Therapeutics. Le critère principal est le Total Improvement Score (TIS), score composite validé de réponse dans les myosites.",
@@ -37,5 +37,6 @@
   }
  ],
  "duree": "52 semaines en double aveugle, puis 52 semaines d'extension ouverte facultative",
- "critere": "Amélioration du Total Improvement Score (TIS) à la semaine 52."
+ "critere": "Amélioration du Total Improvement Score (TIS) à la semaine 52.",
+ "resultats": "L'essai VALOR a randomisé 241 adultes (brepocitinib 30 mg n = 81, 15 mg n = 81, placebo n = 79) pendant 52 semaines. À la semaine 52, le score d'amélioration totale (TIS, critère principal) moyen était de 46,5 avec 30 mg, 37,5 avec 15 mg et 31,2 avec le placebo. La différence versus placebo était de 15,3 (IC 95 % 6,7 à 24,0 ; p < 0,001) avec 30 mg et de 6,3 (IC 95 % -2,4 à 14,9) avec 15 mg. La dose de 30 mg était supérieure au placebo sur les neuf critères secondaires clés (activité cutanée, réduction des corticoïdes, handicap fonctionnel), dès la semaine 4. Sur le plan cutané, le CDASI-A variait de -6,4 contre -3,5 (différence -3,0 ; IC 95 % -4,6 à -1,4), et 38,3 % contre 19,0 % des patients avaient un prurit ≤ 1 (échelle PP-NRS). Les infections graves étaient plus fréquentes avec 30 mg qu'avec le placebo (10 % contre 1 %) ; aucun décès n'est survenu. Les auteurs concluent à un bénéfice significatif de la dose de 30 mg, mais pas de 15 mg."
 }

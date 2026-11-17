@@ -1,6 +1,6 @@
 {
- "h": "fa5c23e2465a",
- "date": "2026-11-14",
+ "h": "fa5c23e2465ar",
+ "date": "2026-11-17",
  "titre": "Rilzabrutinib dans l'anémie hémolytique auto-immune à anticorps chauds (LUMINA 2)",
  "question": "Le rilzabrutinib par voie orale permet-il d'obtenir et de maintenir une réponse en hémoglobine chez des adultes ayant une anémie hémolytique auto-immune (AHAI) à anticorps chauds ?",
  "contexte": "L'AHAI à anticorps chauds est la forme la plus fréquente d'anémie hémolytique auto-immune. Les auto-anticorps, surtout de type IgG, entraînent la destruction des globules rouges par les macrophages de la rate. Le traitement de première ligne repose sur les corticoïdes. Beaucoup de patients rechutent ou deviennent corticodépendants.\n\nEn deuxième ligne, le rituximab, les immunosuppresseurs ou la splénectomie sont utilisés, sans médicament spécifiquement approuvé dans de nombreux pays. Le rilzabrutinib est un inhibiteur de la tyrosine kinase de Bruton (BTK) réversible, qui bloque la signalisation des récepteurs Fc et du récepteur B, donc la phagocytose et la production d'auto-anticorps.\n\nCette phase 2b de Sanofi, multicentrique, ouverte et à bras unique, inclut 22 patients. Elle comporte une partie A de 24 semaines (rilzabrutinib 400 mg deux fois par jour), puis une partie B réservée aux répondeurs, avec une extension jusqu'à 253 semaines. Le critère principal est la proportion de patients avec réponse en hémoglobine.",
@@ -23,8 +23,12 @@
   "Allergie connue aux médicaments de l'étude"
  ],
  "bras": [
-  { "nom": "Rilzabrutinib", "traitement": "Rilzabrutinib 400 mg par voie orale, 2 fois par jour" }
+  {
+   "nom": "Rilzabrutinib",
+   "traitement": "Rilzabrutinib 400 mg par voie orale, 2 fois par jour"
+  }
  ],
  "duree": "24 semaines (partie A), puis partie B jusqu'à 253 semaines",
- "critere": "Partie A : proportion de patients avec réponse globale en hémoglobine à la semaine 24 ; partie B : proportion maintenant une réponse durable avec réponse en hémoglobine à la semaine 50"
+ "critere": "Partie A : proportion de patients avec réponse globale en hémoglobine à la semaine 24 ; partie B : proportion maintenant une réponse durable avec réponse en hémoglobine à la semaine 50",
+ "resultats": "Les résultats de la phase 2b LUMINA 2 sont publiés (22 patients inclus en partie A, 15 en partie B ; analyse à 50 semaines). En partie A, 14 patients sur 22 (64 % ; IC 95 % 41-83) avaient une réponse globale en hémoglobine à la semaine 24 : 13 (59 %) réponses et 3 (14 %) réponses complètes. En partie B, 12 patients sur 15 (80 %) avaient une réponse durable de l'hémoglobine. Des événements indésirables liés au traitement sont survenus chez 10 patients sur 22 (45 %) en partie A et 4 sur 15 (27 %) en partie B, surtout des nausées (14 %) et des diarrhées (9 %). Quatre patients sur 22 (18 %) ont eu un événement indésirable grave en partie A (grippe, pneumonie, anémie hémolytique, ténosynovite), tous non liés au traitement. Aucun décès ni arrêt de traitement pour événement indésirable n'a été rapporté. Les auteurs concluent à une réponse robuste et durable en hémoglobine avec une tolérance favorable."
 }

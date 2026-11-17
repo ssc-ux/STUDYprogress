@@ -1,0 +1,35 @@
+{
+ "h": "285ce26c11c4",
+ "date": "2026-11-17",
+ "titre": "IPG11406 oral versus placebo en association au traitement standard dans la néphrite lupique active",
+ "question": "L'IPG11406, à trois doses, ajouté au traitement standard, augmente-t-il la rémission rénale complète à 24 semaines dans la néphrite lupique active ?",
+ "contexte": "La néphrite lupique est l'une des complications les plus fréquentes et les plus graves du lupus érythémateux systémique. Elle résulte d'une auto-immunité anormale et du dépôt de complexes immuns dans le rein. Selon le registre, 40 à 60 % des patients lupiques en développent une dès le début de la maladie, et l'atteinte rénale cumulée peut atteindre 90 % au cours de l'évolution.\n\nLe traitement d'induction repose sur les glucocorticoïdes à forte dose associés au mycophénolate mofétil ou au cyclophosphamide, parfois complétés par le bélimumab, l'anifrolumab ou un inhibiteur de la calcineurine. Une part importante des patients n'obtient pas de rémission rénale complète, et la toxicité cumulée des corticoïdes reste un problème. Le besoin de traitements oraux supplémentaires, ciblés et bien tolérés demeure donc réel.\n\nLa cible précise de l'IPG11406 n'est pas indiquée dans le registre. Cet essai de phase IIb, randomisé en double aveugle contre placebo, compare trois doses (10, 20 et 40 mg deux fois par jour) à un placebo, toutes ajoutées au traitement standard par mycophénolate et corticoïdes. Environ 192 participants sont prévus, à raison de 48 par groupe. Il est promu par la société Nanjing Immunophage Biotech et n'est pas encore en recrutement.",
+ "interet": "L'étude doit établir si l'IPG11406 apporte un bénéfice rénal par rapport au traitement standard seul et quelle dose retenir. Son design à plusieurs doses permet de préparer une éventuelle phase 3. Son apport en pratique dépendra de l'efficacité sur la rémission rénale complète et de la tolérance, notamment infectieuse.",
+ "profil": "Des adultes de 18 à 70 ans atteints de lupus érythémateux systémique avec néphrite lupique active de classe III ou IV (avec ou sans V) prouvée par biopsie.",
+ "inclusion": [
+  "Âge de 18 à 70 ans, lupus systémique selon les critères SLICC",
+  "Protéinurie des 24 h >= 1 g ou rapport protéinurie/créatininurie >= 1 g/g",
+  "DFGe (CKD-EPI) > 45 mL/min/1,73 m2",
+  "Néphrite lupique active de classe III ou IV (± V) prouvée par biopsie (ISN/RPS 2018), biopsie datant de moins de 6 mois ou réalisée au dépistage",
+  "Traitement d'induction par corticoïdes à forte dose et mycophénolate mofétil jugé nécessaire par l'investigateur",
+  "Contraception efficace pendant l'étude et 6 mois après",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Traitement récent par bélimumab ou autre biothérapie ciblant les lymphocytes B (2 mois), anti-CD20 ou anti-CD19 (moins de 9 mois), CAR-T, inhibiteurs de JAK, BTK ou TYK2 (2 mois)",
+  "Cyclophosphamide d'induction dans le mois précédant le dépistage",
+  "Fibrose interstitielle/atrophie tubulaire ou glomérulosclérose > 50 % à la biopsie, ou glomérulonéphrite rapidement progressive",
+  "Lupus neuropsychiatrique sévère, syndrome des antiphospholipides actif ou anticoagulation curative",
+  "Dialyse, antécédent de greffe d'organe ou de moelle, cancer dans les 5 dernières années",
+  "Infection chronique ou récurrente, hépatite B ou C active, VIH ou syphilis active",
+  "Anomalies cardiaques (NYHA III-IV, QTcF allongé, FEVG < 50 %) ou biologiques marquées (transaminases > 2 N, hémoglobine < 90 g/L, plaquettes < 75 G/L, neutrophiles < 1,0 G/L)"
+ ],
+ "bras": [
+  { "nom": "IPG11406 10 mg", "traitement": "IPG11406 10 mg par voie orale, 2 fois par jour pendant 24 semaines, plus traitement standard" },
+  { "nom": "IPG11406 20 mg", "traitement": "IPG11406 20 mg par voie orale, 2 fois par jour pendant 24 semaines, plus traitement standard" },
+  { "nom": "IPG11406 40 mg", "traitement": "IPG11406 40 mg par voie orale, 2 fois par jour pendant 24 semaines, plus traitement standard" },
+  { "nom": "Placebo", "traitement": "Placebo par voie orale, 2 fois par jour pendant 24 semaines, plus traitement standard" }
+ ],
+ "duree": "24 semaines de traitement en double aveugle (fin d'étude prévue en novembre 2029)",
+ "critere": "Proportion de patients en rémission rénale complète à la semaine 24."
+}

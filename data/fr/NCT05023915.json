@@ -1,6 +1,6 @@
 {
- "h": "a6789b399472",
- "date": "2026-11-14",
+ "h": "a6789b399472r",
+ "date": "2026-11-17",
  "titre": "Glycyrrhizinate de diammonium et dexaméthasone forte dose dans le PTI de l'adulte non traité",
  "question": "L'ajout de glycyrrhizinate de diammonium en gélules à la dexaméthasone à forte dose améliore-t-il la réponse plaquettaire de PTI primaire nouvellement diagnostiqué ?",
  "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est une maladie auto-immune caractérisée par une thrombopénie isolée. Le traitement initial associe des corticoïdes, soit la prednisone, soit la dexaméthasone à forte dose (40 mg/j pendant 4 jours). La dexaméthasone donne une réponse initiale rapide, mais beaucoup de patients rechutent, et la réponse soutenue à 6 mois reste limitée.\n\nLe glycyrrhizinate de diammonium est un dérivé de la réglisse à propriétés anti-inflammatoires, hépatoprotectrices et immunomodulatrices, utilisé en Chine pour des hépatopathies. Il pourrait potentialiser les corticoïdes, avec un meilleur contrôle de la réponse immune.\n\nCet essai de phase 2 chinois, promu par l'Université du Shandong (hôpital Qilu), est randomisé et ouvert. Il compare chez 106 adultes la dexaméthasone seule à la dexaméthasone associée à des gélules gastro-résistantes de glycyrrhizinate de diammonium (150 mg trois fois par jour pendant 1 mois). Les patients avec hépatite virale ou bilan hépatique anormal sont stratifiés à part.",
@@ -23,9 +23,16 @@
   "Grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Glycyrrhizinate + dexaméthasone", "traitement": "Glycyrrhizinate de diammonium 150 mg 3 fois par jour pendant 1 mois, avec dexaméthasone 40 mg par jour pendant 4 jours (un 2e cycle possible après 10 jours)" },
-  { "nom": "Dexaméthasone forte dose", "traitement": "Dexaméthasone 40 mg par jour pendant 4 jours (un 2e cycle possible après 10 jours)" }
+  {
+   "nom": "Glycyrrhizinate + dexaméthasone",
+   "traitement": "Glycyrrhizinate de diammonium 150 mg 3 fois par jour pendant 1 mois, avec dexaméthasone 40 mg par jour pendant 4 jours (un 2e cycle possible après 10 jours)"
+  },
+  {
+   "nom": "Dexaméthasone forte dose",
+   "traitement": "Dexaméthasone 40 mg par jour pendant 4 jours (un 2e cycle possible après 10 jours)"
+  }
  ],
  "duree": "6 mois",
- "critere": "Réponse globale initiale à 14 jours et réponse globale soutenue à 6 mois sans autre traitement du PTI"
+ "critere": "Réponse globale initiale à 14 jours et réponse globale soutenue à 6 mois sans autre traitement du PTI",
+ "resultats": "Les résultats publiés de cet essai de phase 2 portent sur 111 patients randomisés (55 dexaméthasone + glycyrrhizinate, 56 dexaméthasone seule), dont 96 (48 par groupe) dans l'analyse en intention de traiter modifiée. À 6 mois, la réponse globale (plaquettes ≥ 30 G/L, au moins doublées par rapport à l'inclusion, sans saignement) était obtenue chez 56,25 % (27/48) des patients du groupe combiné contre 31,25 % (15/48) sous dexaméthasone seule (p = 0,0231). La durée de réponse était plus longue dans le groupe combiné, mais la différence n'était pas significative à 14 jours. Les événements indésirables les plus fréquents étaient digestifs et anxieux. Aucun événement de grade 3 à 5 ni aucun décès n'est survenu. Les auteurs concluent que l'association est un traitement initial optimisé du PTI."
 }

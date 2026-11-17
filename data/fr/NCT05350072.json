@@ -1,6 +1,6 @@
 {
- "h": "c78b53904803",
- "date": "2026-11-13",
+ "h": "c78b53904803r",
+ "date": "2026-11-17",
  "titre": "Ianalumab contre placebo dans le syndrome de Sjögren actif (NEPTUNUS-1)",
  "question": "L'ianalumab réduit-il l'activité systémique du syndrome de Sjögren, mesurée par l'ESSDAI, par rapport au placebo ?",
  "contexte": "Le syndrome de Sjögren est une maladie auto-immune qui associe sécheresse oculaire et buccale à des manifestations systémiques possibles : articulaires, cutanées, pulmonaires, rénales, neurologiques et lymphoprolifératives. Les patients ont souvent des anti-SSA/Ro et une hyperactivation des lymphocytes B. Aucun traitement de fond immunomodulateur n'a d'AMM dans cette maladie, et les traitements utilisés (hydroxychloroquine, corticoïdes, immunosuppresseurs) reposent sur de faibles niveaux de preuve.\n\nL'ianalumab (VAY736) est un anticorps monoclonal qui déplète les lymphocytes B et bloque le signal du récepteur de BAFF. Il est étudié dans plusieurs maladies auto-immunes. NEPTUNUS-1 est une étude de phase 3 randomisée, en double aveugle contre placebo. Elle inclut des patients dont la maladie est récente (≤ 7,5 ans), active (ESSDAI ≥ 5) et dont la fonction salivaire est conservée. Les traitements de fond stables par hydroxychloroquine, méthotrexate ou azathioprine sont autorisés. Le promoteur est Novartis.",
@@ -21,9 +21,16 @@
   "Déplétion B antérieure par un autre agent dans les 36 semaines"
  ],
  "bras": [
-  {"nom": "Ianalumab", "traitement": "Ianalumab (VAY736), dose et rythme non précisés"},
-  {"nom": "Placebo", "traitement": "Placebo"}
+  {
+   "nom": "Ianalumab",
+   "traitement": "Ianalumab (VAY736), dose et rythme non précisés"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
  ],
  "duree": "Non précisé (critère principal à 48 semaines)",
- "critere": "Variation du score ESSDAI à la semaine 48 par rapport à l'inclusion, comparée au placebo."
+ "critere": "Variation du score ESSDAI à la semaine 48 par rapport à l'inclusion, comparée au placebo.",
+ "resultats": "NEPTUNUS-1 a randomisé 275 patients : ianalumab 300 mg par mois (n=137) ou placebo (n=138). La variation de l'ESSDAI à la semaine 48 était significativement plus favorable sous ianalumab, avec une différence de -1,3 point par rapport au placebo (IC 95 % -2,6 à 0,0 ; p = 0,0496). Il n'y avait pas de différence significative pour la réponse ESSDAI (réduction ≥ 5 points ; premier critère secondaire hiérarchisé) ni pour la variation des scores SSSD ou ESSPRI à la semaine 48. L'incidence des événements indésirables graves était similaire sous ianalumab et sous placebo. Les réactions locales au point d'injection et les réactions systémiques liées à l'injection, non graves, étaient plus fréquentes sous ianalumab. Les auteurs concluent à une baisse plus marquée de l'activité de la maladie à 48 semaines, sans différence sur la réponse ESSDAI ni sur les symptômes rapportés (publication NEJM 2026 groupant NEPTUNUS-1 et -2)."
 }

@@ -1,6 +1,6 @@
 {
- "h": "1254245feb94",
- "date": "2026-11-14",
+ "h": "1254245feb94r",
+ "date": "2026-11-17",
  "titre": "Nouveaux outils d'imagerie dans l'amylose AL cardiaque nouvellement diagnostiquée",
  "question": "L'association de l'imagerie moléculaire (TEP), de l'IRM cardiaque et de l'échographie à des biomarqueurs cardiaques et clonaux permet-elle de prédire la survie et d'évaluer la réponse au traitement dans l'amylose AL cardiaque ?",
  "contexte": "L'amylose AL est due à des chaînes légères produites par un clone plasmocytaire, avec atteinte cardiaque dans la majorité des cas. Le pronostic dépend avant tout du stade cardiaque, évalué par NT-proBNP et troponine, et de la profondeur de la réponse hématologique au traitement anti-plasmocytaire (daratumumab, bortézomib, cyclophosphamide, dexaméthasone).\n\nL'évaluation de la réponse cardiaque repose sur le NT-proBNP, qui peut être faussé par la fonction rénale ou le traitement. Les techniques d'imagerie avancées (strain échographique, volume extracellulaire et réhaussement tardif en IRM, TEP aux traceurs de l'amyloïde comme le florbétaben) pourraient quantifier directement la charge amyloïde. Cette étude prospective de l'IRCCS San Matteo de Pavie inclut 30 patients nouvellement diagnostiqués, avec NT-proBNP > 650 ng/L et dFLC > 20 mg/L. Ils sont évalués avant traitement puis après 6 mois, avec TEP au [18F]florbétaben, IRM et échographie. Elle est terminée.",
@@ -29,5 +29,6 @@
   }
  ],
  "duree": "12 mois après le diagnostic",
- "critere": "Valeur pronostique des variables d'imagerie avancées à 12 mois après le diagnostic, et leur intérêt pour évaluer la réponse à 6 mois du traitement anti-plasmocytaire"
+ "critere": "Valeur pronostique des variables d'imagerie avancées à 12 mois après le diagnostic, et leur intérêt pour évaluer la réponse à 6 mois du traitement anti-plasmocytaire",
+ "resultats": "Dans l'étude prospective MoRBiDA, 28 patients ont été inclus, dont 25 avaient une atteinte cardiaque ; les 3 patients sans atteinte n'avaient pas de fixation myocardique. La fixation précoce et tardive de la TEP au [18F]florbétaben (15 à 50 minutes) était présente chez les 25 patients avec atteinte cardiaque. La fixation retardée à 110 minutes était absente chez 4 des 25 patients, soit une sensibilité de 84 % ; ces patients montraient une rétention jusqu'à 50 minutes et des signes typiques en IRM. Les paramètres de la TEP étaient modérément corrélés au NT-proBNP (rho = 0,40 à 0,54 ; p < 0,05) et au strain longitudinal global échographique (rétention myocardique, rho = 0,70 ; p < 0,001), mais pas au volume extracellulaire en IRM. Les auteurs concluent à une excellente sensibilité de la TEP précoce à tardive, la rétention retardée n'étant pas constante, ce qui limite sa valeur pour typer l'amylose."
 }

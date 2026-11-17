@@ -1,6 +1,6 @@
 {
- "h": "c909c483f6b0",
- "date": "2026-11-14",
+ "h": "c909c483f6b0r",
+ "date": "2026-11-17",
  "titre": "Mosunetuzumab sous-cutané dans le lupus érythémateux systémique",
  "question": "Le mosunetuzumab sous-cutané est-il bien toléré chez des patients atteints de lupus systémique actif ?",
  "contexte": "Le lupus érythémateux systémique (LES) reste mal contrôlé chez une part des patients malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies comme le bélimumab ou l'anifrolumab. Les lymphocytes B autoréactifs jouent un rôle central, ce qui motive les stratégies de déplétion B profonde.\n\nLe mosunetuzumab est un anticorps bispécifique CD20 x CD3, déjà utilisé dans les lymphomes folliculaires, qui engage les lymphocytes T pour détruire les lymphocytes B. Il pourrait induire une déplétion B plus profonde que les anti-CD20 classiques.\n\nCette étude de phase 1b, ouverte et à doses croissantes, promue par Roche, évalue la tolérance, la pharmacocinétique et la pharmacodynamie du mosunetuzumab sous-cutané chez 15 patients avec LES actif. Deux schémas sont comparés : dose unique, ou dose fractionnée aux jours 1 et 8, avec du tocilizumab associé pour limiter le syndrome de relargage de cytokines.",
@@ -34,5 +34,6 @@
   }
  ],
  "duree": "Au moins 12 mois après la dose de mosunetuzumab",
- "critere": "Pourcentage de participants avec des événements indésirables, sur au moins 12 mois après l'administration."
+ "critere": "Pourcentage de participants avec des événements indésirables, sur au moins 12 mois après l'administration.",
+ "resultats": "Cette étude de phase Ib en escalade de dose a inclus 15 patients lupiques actifs (SLEDAI-2K ≥ 4), répartis en cohortes à dose fixe (1,6 mg ou 5 mg) puis en escalade progressive (jour 8 : 15, 45 ou 60 mg). Deux patients ont arrêté le traitement pour événement indésirable. Aucun syndrome de neurotoxicité associé aux cellules effectrices immunitaires ni syndrome de relargage cytokinique de haut grade n'a été rapporté. La fréquence des événements indésirables de grade ≥ 3 était de 13,3 % et celle des événements graves de 6,7 %. Le mosunétuzumab déplétait les lymphocytes B périphériques sous la limite de quantification (0,441 cellule/µL) de façon dose-dépendante, avec activation des lymphocytes T CD4+ et CD8+ à toutes les doses. Les scores SLEDAI-2K s'amélioraient, surtout chez les patients à score initial élevé et aux doses les plus fortes. La pharmacocinétique était cohérente avec celle observée dans le lymphome folliculaire. Une étude de phase 2 dans le lupus sévère est en cours."
 }

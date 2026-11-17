@@ -1,6 +1,6 @@
 {
- "h": "79ee72fd29eb",
- "date": "2026-11-14",
+ "h": "79ee72fd29ebr",
+ "date": "2026-11-17",
  "titre": "Lymphocytes T allo-déplétés avec gène suicide caspase 9 inductible après greffe haplo-identique",
  "question": "Quelle dose maximale de lymphocytes T du donneur, allo-déplétés et porteurs d'un gène suicide iCasp9, peut-on administrer après une greffe de cellules souches haplo-identique en gardant un taux de GvHD de grade III/IV de 25 % ou moins ?",
  "contexte": "La greffe de cellules souches haplo-identique permet de greffer des patients sans donneur compatible, mais elle expose à un risque accru de maladie du greffon contre l'hôte (GvHD) et à une reconstitution immunitaire lente. La GvHD est une complication parfois fatale, due à la reconnaissance des tissus du receveur comme étrangers par les cellules du donneur.\n\nL'étude CASPALLO (phase 1, Baylor College of Medicine) teste des lymphocytes T du donneur dont les cellules alloréactives ont été éliminées en laboratoire, puis transduits par un gène suicide iCasp9. Ce gène permet de détruire les cellules en cas de GvHD, par un médicament expérimental, l'AP1903. L'espoir est de pouvoir administrer des doses plus élevées de lymphocytes pour accélérer la reconstitution immunitaire. Les cellules sont perfusées une fois, entre J30 et J90 après la greffe. Les patients sont suivis 15 ans en raison du transfert de gène. Le résultat de l'AP1903 sur la GvHD humaine n'était pas établi.",
@@ -22,8 +22,12 @@
   "Autre médicament expérimental dans les 30 jours précédents"
  ],
  "bras": [
-  {"nom": "Niveaux de dose 1 à 3", "traitement": "Perfusion unique de lymphocytes T du donneur allo-déplétés et modifiés par le gène suicide iCasp9, entre J30 et J90 après la greffe ; AP1903 en cas de GvHD"}
+  {
+   "nom": "Niveaux de dose 1 à 3",
+   "traitement": "Perfusion unique de lymphocytes T du donneur allo-déplétés et modifiés par le gène suicide iCasp9, entre J30 et J90 après la greffe ; AP1903 en cas de GvHD"
+  }
  ],
  "duree": "Suivi de 15 ans (transfert de gène)",
- "critere": "Nombre maximal de lymphocytes du donneur modifiés administrables avec un taux de GvHD de grade III/IV ≤ 25 %, à 45 jours"
+ "critere": "Nombre maximal de lymphocytes du donneur modifiés administrables avec un taux de GvHD de grade III/IV ≤ 25 %, à 45 jours",
+ "resultats": "Les résultats publiés portent sur le suivi à long terme de 10 patients ayant reçu des lymphocytes T donneurs modifiés par le gène de sécurité caspase 9 inductible après une greffe haplo-identique. Les cellules modifiées persistaient à long terme in vivo, sans émergence d'oligoclonalité. Les auteurs décrivent un bénéfice immunologique robuste, d'abord via les cellules perfusées, puis via une reconstitution accélérée de lymphocytes T naïfs endogènes. Les patients étaient protégés de façon immédiate et durable contre les principaux pathogènes (cytomégalovirus, adénovirus, virus BK, virus d'Epstein-Barr), en l'absence de GvHD aiguë ou chronique. Chez les patients ayant développé une GvHD, une dose unique du médicament inducteur (AP1903) la contrôlait. Le résumé publié ne donne pas de chiffres comparatifs, l'étude n'ayant pas de groupe contrôle."
 }

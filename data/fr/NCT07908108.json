@@ -1,14 +1,28 @@
 {
- "h": "a1ea95bb5846",
- "date": "2026-11-14",
+ "h": "a1ea95bb5846r",
+ "date": "2026-11-17",
  "titre": "Adaptation et validation d'un questionnaire de qualité de vie dans la sclérodermie localisée juvénile",
  "question": "Le questionnaire LoSQI, adapté culturellement, mesure-t-il de façon valide la qualité de vie des enfants atteints de sclérodermie localisée ?",
  "contexte": "La sclérodermie localisée juvénile (morphée) est une maladie rare de l'enfant, qui provoque un durcissement de la peau et des tissus sous-jacents. Elle peut laisser des séquelles esthétiques et fonctionnelles (rétractions, atteinte de la croissance d'un membre ou de la face), avec un retentissement psychologique et social important. Le suivi repose surtout sur des scores cliniques, qui ne reflètent pas le vécu du patient.\n\nLe Localised Scleroderma Quality of Life Instrument (LoSQI) est un questionnaire spécifique de la maladie, rempli par le patient. Il n'existe pas à ce jour de mesure rapportée par le patient (PRO) validée et utilisable dans plusieurs pays pour cette pathologie. Cette étude internationale, portée par l'institut Gaslini avec le groupe de travail sclérodermie de la PReS et le groupe CARRA, comporte deux volets : la traduction et l'adaptation culturelle du LoSQI avec des patients et leurs familles, puis sa validation dans une étude prospective d'au moins 100 patients. Elle doit permettre de regrouper des données internationales et d'intégrer la qualité de vie au suivi de routine.",
  "interet": "Disposer d'un outil validé dans plusieurs langues faciliterait les essais thérapeutiques internationaux dans une maladie rare. Il permettrait aussi d'intégrer la qualité de vie dans la consultation de routine.",
  "profil": "Des enfants et adolescents de 8 à 18 ans atteints de sclérodermie localisée juvénile.",
- "inclusion": ["Âge de 8 à 18 ans", "Sclérodermie localisée juvénile diagnostiquée par un rhumatologue pédiatre", "Compréhension de la langue écrite au niveau d'un enfant de 8 ans", "Consentement ou assentiment de l'enfant", "Consentement d'un parent si âge < 16 ans"],
- "exclusion": ["Comorbidité non liée à la maladie ou à ses complications, susceptible d'influencer les réponses au questionnaire"],
- "bras": [{ "nom": "Cohorte d'enfants avec sclérodermie localisée juvénile", "traitement": "Pas d'intervention : passation du questionnaire LoSQI (adaptation culturelle puis validation prospective)" }],
+ "inclusion": [
+  "Âge de 8 à 18 ans",
+  "Sclérodermie localisée juvénile diagnostiquée par un rhumatologue pédiatre",
+  "Compréhension de la langue écrite au niveau d'un enfant de 8 ans",
+  "Consentement ou assentiment de l'enfant",
+  "Consentement d'un parent si âge < 16 ans"
+ ],
+ "exclusion": [
+  "Comorbidité non liée à la maladie ou à ses complications, susceptible d'influencer les réponses au questionnaire"
+ ],
+ "bras": [
+  {
+   "nom": "Cohorte d'enfants avec sclérodermie localisée juvénile",
+   "traitement": "Pas d'intervention : passation du questionnaire LoSQI (adaptation culturelle puis validation prospective)"
+  }
+ ],
  "duree": "Environ 4 mois (évaluation initiale puis à 4 mois ± 2 mois)",
- "critere": "Qualité de l'adaptation du questionnaire LoSQI, évaluée à l'inclusion et à 4 mois (± 2 mois)."
+ "critere": "Qualité de l'adaptation du questionnaire LoSQI, évaluée à l'inclusion et à 4 mois (± 2 mois).",
+ "resultats": "Cette étude internationale a mené l'adaptation transculturelle puis la validation du LoSQI. L'adaptation a été achevée en 16 langues, dont six ont nécessité des modifications mineures après pré-test. Les participants rapportent 236 inclusions au total, dont 162 (20 centres) en phase d'adaptation et 213 (36 centres) en phase de validation. En phase de validation, 67 % étaient des filles ou femmes, l'âge médian au diagnostic était de 7,3 ans et la durée médiane de la maladie de 16,3 mois. Parmi les participants, 97 % jugeaient l'outil utile et 95 % facile à remplir. L'analyse factorielle confirmatoire a soutenu deux sous-échelles (douleur et fonction physique ; image corporelle et soutien social). Les deux sous-échelles étaient modérément à fortement corrélées au CDLQI, et faiblement ou non corrélées à l'activité de la maladie évaluée par le médecin."
 }

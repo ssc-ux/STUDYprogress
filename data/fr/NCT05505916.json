@@ -1,6 +1,6 @@
 {
- "h": "05236a0c34be",
- "date": "2026-11-13",
+ "h": "05236a0c34ber",
+ "date": "2026-11-17",
  "titre": "Sécurité à long terme du sébétralstat à la demande dans l'angiœdème héréditaire",
  "question": "Le sébétralstat oral pris à la demande lors des crises d'angiœdème héréditaire est-il sûr à long terme ?",
  "contexte": "L'angiœdème héréditaire (AOH) de type I ou II est dû à un déficit quantitatif ou fonctionnel en inhibiteur de la C1 estérase. Il provoque des crises d'œdème sous-cutané et muqueux imprévisibles, parfois laryngé, par excès de bradykinine. Les recommandations privilégient le traitement précoce de toute crise, avec l'icatibant ou l'inhibiteur de C1 par voie injectable, et l'envisagent en prophylaxie de longue durée selon la sévérité.\n\nLa voie injectable constitue un frein au traitement précoce. Le sébétralstat (KVD900) est un inhibiteur oral de la kallikréine plasmatique, enzyme qui produit la bradykinine, développé pour le traitement à la demande par voie orale.\n\nCet essai de phase 3, ouvert et à bras unique, promu par KalVista, est l'extension de l'étude KVD900-301 (145 patients inclus dans l'extension). Il évalue la sécurité à long terme, sur 2 ans au maximum, chez des patients à partir de 12 ans, avec des doses de 300 ou 600 mg. Des centres français participent à l'étude.",
@@ -24,16 +24,10 @@
   "Grossesse ou allaitement"
  ],
  "bras": [
-  {
-   "nom": "KVD900 600 mg",
-   "traitement": "Sébétralstat 600 mg par voie orale, à la demande lors des crises"
-  },
-  {
-   "nom": "KVD900 300 mg",
-   "traitement": "Sébétralstat 300 mg par voie orale, à la demande lors des crises"
-  }
+  {"nom": "KVD900 600 mg", "traitement": "Sébétralstat 600 mg par voie orale, à la demande lors des crises"},
+  {"nom": "KVD900 300 mg", "traitement": "Sébétralstat 300 mg par voie orale, à la demande lors des crises"}
  ],
  "duree": "2 ans au maximum par patient",
  "critere": "Fréquence des événements indésirables, dont graves et conduisant à l'arrêt, ainsi que des anomalies biologiques et des signes vitaux, jusqu'à la fin de l'étude (2 ans au maximum)",
- "relu": "2026-11-15"
+ "resultats": "Une analyse intermédiaire publiée (J Allergy Clin Immunol Glob 2026, données au 14 septembre 2024) porte sur les 35 participants de l'extension qui recevaient aussi un traitement de fond (lanadélumab, bérotralstat ou inhibiteur de C1). Ils ont eu en moyenne 1,7 ± 1,5 crise par mois et traité 382 crises par sébétralstat 600 mg (1,3 ± 1,1 crise traitée par mois). Le délai médian entre la reconnaissance de la crise et la prise était de 6 minutes (IQR 1-40). Le délai médian avant le début du soulagement était de 1,3 h (0,8-3,8), avant la réduction de sévérité de 4,2 h (1,3 à >12) et avant la résolution complète de 14,8 h (4,6 à >24). L'efficacité était similaire quel que soit le traitement de fond. Aucun événement indésirable grave ou sévère lié au traitement n'a été rapporté. Les auteurs concluent à une bonne tolérance et à un traitement précoce efficace des crises sous traitement de fond. Ces données ne concernent qu'un sous-groupe de l'étude ; les résultats de tolérance de l'ensemble de la cohorte ne figurent pas dans ce résumé."
 }

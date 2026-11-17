@@ -1,6 +1,6 @@
 {
- "h": "555dc38fc9d8",
- "date": "2026-11-13",
+ "h": "555dc38fc9d8r",
+ "date": "2026-11-17",
  "titre": "Ianalumab associé à l'eltrombopag dans le PTI en échec des corticoïdes",
  "question": "L'ajout de ianalumab à l'eltrombopag prolonge-t-il le délai jusqu'à l'échec du traitement chez des adultes atteints de PTI en échec d'une corticothérapie de première ligne ?",
  "contexte": "Le purpura thrombopénique immunologique (PTI) primaire est dû à une destruction auto-immune des plaquettes et à une production insuffisante. Après l'échec ou la rechute sous corticoïdes avec ou sans IgIV, les agonistes du récepteur de la thrombopoïétine (eltrombopag) sont une option fréquente. Leur effet disparaît le plus souvent à l'arrêt, ce qui impose un traitement prolongé.\n\nLe ianalumab est un anticorps anti-BAFF-R qui déplète les lymphocytes B et bloque la signalisation BAFF, ciblant ainsi la production d'auto-anticorps. VAYHIT2 est une étude de phase 3 randomisée en double aveugle, où deux doses de ianalumab ou un placebo sont ajoutés à l'eltrombopag chez des adultes dont les plaquettes sont < 30 G/L. Après le traitement randomisé, l'eltrombopag est diminué, puis les participants sont suivis. Le promoteur est Novartis ; 152 participants ont été inclus.",
@@ -36,5 +36,6 @@
   }
  ],
  "duree": "Jusqu'à la fin de l'étude (jusqu'à 39 mois après la randomisation du dernier patient)",
- "critere": "Délai entre la randomisation et l'échec du traitement"
+ "critere": "Délai entre la randomisation et l'échec du traitement",
+ "resultats": "Dans VAYHIT2, 152 patients ont été randomisés : ianalumab 9 mg/kg (n=50), 3 mg/kg (n=51) ou placebo (n=51), tous avec l'éltrombopag. La probabilité estimée d'être sans échec thérapeutique à 12 mois était de 54 % (IC 95 % 39-67) avec 9 mg/kg, 51 % (IC 95 % 36-64) avec 3 mg/kg et 30 % (IC 95 % 18-43) avec le placebo. Le délai avant échec était significativement plus long sous ianalumab : HR 0,55 (p = 0,04) pour 9 mg/kg et 0,58 (p = 0,045) pour 3 mg/kg. Une réponse stable à 6 mois était observée chez 62 % des patients sous 9 mg/kg contre 39 % sous placebo (p = 0,045). La fréquence globale des événements indésirables était globalement similaire entre les groupes. Les événements indésirables graves survenaient chez 16 % (9 mg/kg), 6 % (3 mg/kg) et 4 % (placebo) des patients. Les auteurs concluent que l'ianalumab associé à l'éltrombopag allonge le délai avant échec thérapeutique par rapport au placebo."
 }

@@ -1,6 +1,6 @@
 {
- "h": "3bcfd1699779",
- "date": "2026-11-14",
+ "h": "3bcfd1699779r",
+ "date": "2026-11-17",
  "titre": "Registre bernois des cardiomyopathies inflammatoires : IRM cardiaque et pronostic",
  "question": "Quels paramètres de l'IRM cardiaque prédisent les événements cardiaques majeurs dans la myocardite, la péricardite et la sarcoïdose cardiaque ?",
  "contexte": "Les cardiomyopathies inflammatoires regroupent la myocardite, la péricardite et la sarcoïdose cardiaque. Leur présentation va de l'atteinte asymptomatique à la mort subite ou à l'insuffisance cardiaque sévère, ce qui rend le diagnostic et le pronostic difficiles.\n\nL'IRM cardiaque (CMR) est l'examen de référence dans la myocardite aiguë : elle caractérise le tissu (œdème, hyperhémie, fibrose). Les critères de Lake Louise, révisés en 2018, reposent sur ces éléments. Plusieurs travaux ont montré la valeur pronostique de la CMR au-delà de la fraction d'éjection, mais sur de petites cohortes monocentriques.\n\nCe registre de l'hôpital universitaire de Berne inclut 1125 patients adultes adressés pour une CMR en raison d'une cardiomyopathie inflammatoire suspectée ou connue. Il étudie la déformation myocardique (feature tracking), les cartographies T1 et T2 et la fibrose ou cicatrice comme prédicteurs d'événements cardiaques majeurs (MACE), et cherche aussi des examens plus accessibles qui pourraient précéder la CMR.",
@@ -25,5 +25,6 @@
   }
  ],
  "duree": "Suivi de 5 ans",
- "critere": "Valeur prédictive pour les événements cardiaques majeurs (MACE) à 5 ans de la fonction VG/VD (feature tracking), des cartographies T1/T2 et de la fibrose ou cicatrice myocardique en CMR"
+ "critere": "Valeur prédictive pour les événements cardiaques majeurs (MACE) à 5 ans de la fonction VG/VD (feature tracking), des cartographies T1/T2 et de la fibrose ou cicatrice myocardique en CMR",
+ "resultats": "Une analyse publiée du registre de Berne (associé à la cohorte CMRMyo) a porté sur 787 patients avec « myocardite possible » selon les critères ESC 2025 (âge 48 ± 16 ans, 36 % de femmes). Après un suivi médian de 3,5 ans, 17,5 % ont présenté un événement cardiovasculaire majeur (hospitalisation pour insuffisance cardiaque, tachycardie ventriculaire soutenue, myocardite récurrente ou décès). Le raccourcissement de l'axe long de l'oreillette gauche était associé aux événements (HR 1,37 par baisse de 5 % ; IC 95 % 1,23-1,52 ; p < 0,001), de même que celui de l'oreillette droite (HR 1,27 ; IC 95 % 1,19-1,37). En analyse multivariée, une valeur sous la médiane était un prédicteur indépendant : HR 2,17 (IC 95 % 1,33-3,57 ; p = 0,002) pour l'oreillette gauche et 1,75 (IC 95 % 1,12-2,70 ; p = 0,012) pour la droite. Leur ajout au modèle de base (données cliniques, volume télédiastolique, FEVG, rehaussement tardif) améliorait la stratification du risque (indice C de 0,72 à 0,75 ; p < 0,001). Les auteurs concluent que la fonction atriale apporte une information pronostique au-delà des marqueurs IRM classiques."
 }

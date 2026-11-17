@@ -1,6 +1,6 @@
 {
- "h": "cb5d987889c6",
- "date": "2026-11-13",
+ "h": "cb5d987889c6r",
+ "date": "2026-11-17",
  "titre": "Ianalumab sous-cutané dans le syndrome de Sjögren actif",
  "question": "Le ianalumab, administré chaque mois ou tous les 3 mois, réduit-il l'activité systémique du syndrome de Sjögren (ESSDAI) à 48 semaines par rapport au placebo ?",
  "contexte": "Le syndrome de Sjögren est une maladie auto-immune systémique touchant les glandes exocrines, avec sécheresse, fatigue et douleurs, et parfois des atteintes articulaires, cutanées, hématologiques, rénales ou lymphomateuses. Aucun traitement de fond n'a prouvé son efficacité dans de grands essais, et la prise en charge reste surtout symptomatique ou fondée sur des immunosuppresseurs utilisés hors AMM.\n\nLe ianalumab (VAY736) est un anticorps monoclonal dirigé contre le récepteur de BAFF (BAFF-R), qui déplète les lymphocytes B et bloque la signalisation BAFF. Le rôle central des lymphocytes B dans le Sjögren justifie ce mécanisme. NEPTUNUS-2 est une étude de phase 3 randomisée en double aveugle à trois bras, comparant deux schémas sous-cutanés (mensuel ou tous les 3 mois) au placebo. Elle inclut des patients ayant une maladie évoluant depuis 7,5 ans au plus, anti-Ro/SSA positifs (sauf 10 % au maximum) et un ESSDAI ≥ 5. Le promoteur est Novartis ; 506 participants ont été inclus.",
@@ -38,5 +38,6 @@
   }
  ],
  "duree": "Non précisé (critère principal à 48 semaines)",
- "critere": "Variation de l'ESSDAI entre l'inclusion et la semaine 48"
+ "critere": "Variation de l'ESSDAI entre l'inclusion et la semaine 48",
+ "resultats": "NEPTUNUS-2 a randomisé 504 patients : ianalumab 300 mg par mois (n=168), ianalumab 300 mg tous les 3 mois (n=167) ou placebo (n=169). La variation de l'ESSDAI à la semaine 48 était significativement plus favorable sous ianalumab mensuel que sous placebo, avec une différence de -1,0 point (IC 95 % -2,0 à 0,0 ; p = 0,04). Il n'y avait pas de différence significative sur le score SSSD ou ESSPRI à la semaine 48 (premier critère secondaire hiérarchisé). Les événements indésirables graves étaient d'incidence similaire sous ianalumab et sous placebo. Les réactions locales au point d'injection et les réactions systémiques liées à l'injection, non graves, étaient plus fréquentes dans les groupes ianalumab. Les résultats publiés (NEJM 2026) regroupent NEPTUNUS-1 et -2 : les auteurs concluent à une diminution plus importante de l'activité de la maladie avec 300 mg par mois, sans bénéfice significatif sur les symptômes rapportés par les patients."
 }
