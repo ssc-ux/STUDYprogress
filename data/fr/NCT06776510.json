@@ -17,20 +17,20 @@
  "exclusion": [
   "Allergie au NAD+ ou échec antérieur d'un anti-CD38",
   "Thrombopénie secondaire (lupus, SAPL, hémopathie, médicaments, etc.) ou anémie hémolytique auto-immune",
-  "Thrombose dans les 12 mois ou saignement sévère",
-  "Anticoagulant ou antiagrégant dans les 2 semaines",
-  "Splénectomie < 6 mois, rituximab < 3 mois",
-  "Hépatite B ou C active, VIH, syphilis",
+  "Thrombose dans les 12 mois, saignement sévère, ou anticoagulant/antiagrégant dans les 2 semaines",
+  "Splénectomie < 6 mois, rituximab < 3 mois, autres immunosuppresseurs récents",
+  "Hépatite B ou C, VIH, syphilis",
   "Grossesse ou allaitement",
   "Cancer dans les 5 ans"
  ],
  "bras": [
   {
    "nom": "Bras unique",
-   "traitement": "Nicotinamide adénine dinucléotide (NAD+) / nicotinamide mononucléotide (NMN), dose et rythme non précisés"
+   "traitement": "NAD+ / nicotinamide mononucléotide (NMN) ; le registre ne précise pas la dose (450 mg 2 fois par jour pendant 2 semaines par voie orale dans la publication)"
   }
  ],
  "duree": "8 semaines",
  "critere": "Réponse globale des plaquettes à 2 semaines, et fréquence des événements indésirables liés au traitement à 8 semaines.",
- "resultats": "Vingt-cinq patients atteints de PTI cortico-résistant ou cortico-dépendant ont été inclus dans cet essai ouvert à un bras, traités par nicotinamide mononucléotide oral à faible dose (450 mg deux fois par jour pendant 2 semaines). Aucune toxicité limitante ni événement indésirable grave lié au traitement n'a été observé. Des événements indésirables mineurs liés au traitement sont survenus chez 12 % des patients et des infections de grade 1 chez 8 %, avec des taux d'immunoglobulines stables. Cinq patients (20,0 %) ont atteint le critère principal de réponse plaquettaire (>= 50 G/L en 2 semaines, confirmée, sans traitement de secours). En analyse exploratoire, 60 % des patients ont dépassé 1,5 fois leur numération initiale pendant le traitement et 52 % ont maintenu leur réponse à la semaine 8. Les auteurs y voient un argument pour explorer l'axe CD38-NAD+ comme stratégie métabolique non déplétante."
+ "resultats": "Vingt-cinq patients atteints de PTI cortico-résistant ou cortico-dépendant ont été inclus dans cet essai ouvert à un bras, traités par nicotinamide mononucléotide oral à faible dose (450 mg deux fois par jour pendant 2 semaines). Aucune toxicité limitante ni événement indésirable grave lié au traitement n'a été observé. Des événements indésirables mineurs liés au traitement sont survenus chez 12 % des patients et des infections de grade 1 chez 8 %, avec des taux d'immunoglobulines stables. Cinq patients (20,0 %) ont atteint le critère principal de réponse plaquettaire (>= 50 G/L en 2 semaines, confirmée, sans traitement de secours). En analyse exploratoire, 60 % des patients ont dépassé 1,5 fois leur numération initiale pendant le traitement et 52 % ont maintenu leur réponse à la semaine 8. Les auteurs y voient un argument pour explorer l'axe CD38-NAD+ comme stratégie métabolique non déplétante.",
+ "relu": "2026-11-23"
 }

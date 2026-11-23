@@ -22,9 +22,16 @@
   "Antécédent de réaction anaphylactique aux produits de contraste ou aux protéines ou anticorps monoclonaux"
  ],
  "bras": [
-  { "nom": "Bélimumab + rituximab", "traitement": "Bélimumab 200 mg SC par semaine pendant 2 ans ; rituximab 1000 mg IV aux semaines 4 et 6 ; traitement standard (méthylprednisolone IV, prednisolone, mycophénolate)" },
-  { "nom": "Traitement standard", "traitement": "Induction par méthylprednisolone, prednisolone et mycophénolate ; rituximab optionnel en cas de rechute ou de non-réponse" }
+  {
+   "nom": "Bélimumab + rituximab",
+   "traitement": "Bélimumab 200 mg SC par semaine pendant 2 ans ; rituximab 1000 mg IV aux semaines 4 et 6 ; traitement standard (méthylprednisolone IV, prednisolone, mycophénolate)"
+  },
+  {
+   "nom": "Traitement standard",
+   "traitement": "Induction par méthylprednisolone, prednisolone et mycophénolate ; rituximab optionnel en cas de rechute ou de non-réponse"
+  }
  ],
  "duree": "2 ans",
- "critere": "Taux d'échec thérapeutique à 2 ans"
+ "critere": "Taux d'échec thérapeutique à 2 ans",
+ "relu": "2026-11-23"
 }

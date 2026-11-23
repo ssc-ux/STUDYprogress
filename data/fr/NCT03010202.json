@@ -23,11 +23,24 @@
   "Événement cardiovasculaire majeur dans les 6 mois"
  ],
  "bras": [
-  { "nom": "Induction : rituximab + dexaméthasone", "traitement": "Rituximab 1000 mg IV à J1 et J15 ; dexaméthasone 20 mg/j oral 4 jours à J1 et J15" },
-  { "nom": "Induction : rituximab", "traitement": "Rituximab 1000 mg IV à J1 et J15" },
-  { "nom": "Entretien : rituximab", "traitement": "Rituximab 500 mg IV à la semaine 1 et à la semaine 24 de la seconde randomisation" },
-  { "nom": "Entretien : placebo", "traitement": "Sérum physiologique à 0,9 % aux mêmes dates" }
+  {
+   "nom": "Induction : rituximab + dexaméthasone",
+   "traitement": "Rituximab 1000 mg IV à J1 et J15 ; dexaméthasone 20 mg/j oral 4 jours à J1 et J15"
+  },
+  {
+   "nom": "Induction : rituximab",
+   "traitement": "Rituximab 1000 mg IV à J1 et J15"
+  },
+  {
+   "nom": "Entretien : rituximab",
+   "traitement": "Rituximab 500 mg IV à la semaine 1 et à la semaine 24 de la seconde randomisation"
+  },
+  {
+   "nom": "Entretien : placebo",
+   "traitement": "Sérum physiologique à 0,9 % aux mêmes dates"
+  }
  ],
  "duree": "52 semaines pour le critère principal",
- "critere": "Réponse globale soutenue à 52 semaines"
+ "critere": "Réponse globale soutenue à 52 semaines",
+ "relu": "2026-11-23"
 }
