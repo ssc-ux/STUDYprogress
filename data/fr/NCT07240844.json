@@ -18,8 +18,7 @@
   "Grossesse ou allaitement",
   "Infection active",
   "Événement cardiovasculaire majeur dans les 6 mois",
-  "Revascularisation, CRT-D, ablation de flutter ou de fibrillation atriale, ou chirurgie valvulaire programmée",
-  "Greffe cardiaque antérieure",
+  "Revascularisation, CRT-D, ablation de flutter ou de fibrillation atriale, ou chirurgie valvulaire programmée ; greffe cardiaque",
   "DFG estimé < 60 mL/min/1,73 m²",
   "Diabète de type 1 ou insulinodépendant, antécédent d'acidocétose, d'infections urinaires ou génitales compliquées, ou de lithiase rénale",
   "Pression artérielle systolique < 80 mmHg ou hypotension symptomatique"
@@ -35,5 +34,6 @@
   }
  ],
  "duree": "Environ 28 semaines (deux périodes de 12 semaines et un sevrage de 4 semaines)",
- "critere": "Variation du score clinique KCCQ-CSS entre l'inclusion et la semaine 12."
+ "critere": "Variation du score clinique KCCQ-CSS entre l'inclusion et la semaine 12.",
+ "relu": "2026-11-23"
 }
