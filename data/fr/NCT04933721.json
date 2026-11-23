@@ -19,8 +19,12 @@
   "Autre médicament expérimental à l'inclusion ou pendant l'étude"
  ],
  "bras": [
-  {"nom": "Bérotralstat", "traitement": "Bérotralstat (BCX7353) par voie orale, une fois par jour, en gélules ou en granulés"}
+  {
+   "nom": "Bérotralstat",
+   "traitement": "Bérotralstat (BCX7353) par voie orale, une fois par jour : 150 mg en gélules dès 12 ans, dose adaptée au poids (gélules ou granulés) chez l'enfant"
+  }
  ],
- "duree": "240 semaines",
- "critere": "Nombre et proportion de participants ayant un événement indésirable lié au traitement (liste complète de critères de sécurité, notamment événements graves et anomalies biologiques de grade 3 ou 4), sur 240 semaines."
+ "duree": "Jusqu'à 480 semaines (environ 10 ans) pour les patients issus des études 302 et 204 ; jusqu'à 16 ans ou 5 ans au maximum pour ceux de l'étude 304 (critères de sécurité évalués sur 240 semaines)",
+ "critere": "Nombre et proportion de participants ayant un événement indésirable lié au traitement (liste complète de critères de sécurité, notamment événements graves et anomalies biologiques de grade 3 ou 4), sur 240 semaines.",
+ "relu": "2026-11-23"
 }

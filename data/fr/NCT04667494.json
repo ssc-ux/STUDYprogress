@@ -13,18 +13,21 @@
   "Consentement éclairé"
  ],
  "exclusion": [
-  "Instabilité hémodynamique",
-  "Claustrophobie sévère malgré sédation",
-  "Insuffisance cardiaque décompensée (incapacité à rester allongé 1 heure)",
-  "Autre cardiopathie non amyloïde (valvulopathie, cardiomyopathie dilatée)",
-  "Valvulopathie sévère aortique, mitrale ou tricuspide"
+  "Instabilité hémodynamique, insuffisance cardiaque décompensée (incapacité à rester allongé 1 heure) ou claustrophobie sévère",
+  "Autre cardiopathie non amyloïde (valvulopathie, cardiomyopathie dilatée), valvulopathie sévère, chirurgie cardiaque antérieure",
+  "Hypertension pulmonaire ou maladie pulmonaire sévère",
+  "Coronaropathie obstructive (sténose > 50 %), anomalie de la cinétique segmentaire ou FEVG < 40 %",
+  "Grossesse, allergie à l'ammoniac N-13 ou au Definity, shunt droit-gauche",
+  "QTc allongé, IMC > 35, thrombus intracardiaque, FA sans anticoagulation, antécédent d'AVC",
+  "Troubles électrolytiques sévères ou autre raison jugée par l'investigateur"
  ],
  "bras": [
   {
-   "nom": "Sonothérapie",
-   "traitement": "Tous les participants reçoivent la sonothérapie (modalités non précisées)"
+   "nom": "Sonothérapie (3 groupes : AL, ATTR, témoins)",
+   "traitement": "30 patients AL, 30 ATTR et 10 témoins sans amylose : échocardiographie 2D et TEP de perfusion (ammoniac N-13 ou rubidium-82) au repos, puis perfusion de Definity avec imagerie à indice mécanique élevé (sonothérapie)"
   }
  ],
- "duree": "Non précisé (critères évalués à 1 jour)",
- "critere": "Flux sanguin myocardique et fonctions systolique et diastolique, mesurés avant et après la sonothérapie (à 1 jour)."
+ "duree": "Une seule séance (critères évalués à 1 jour)",
+ "critere": "Flux sanguin myocardique et fonctions systolique et diastolique, mesurés avant et après la sonothérapie (à 1 jour).",
+ "relu": "2026-11-23"
 }

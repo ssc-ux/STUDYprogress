@@ -20,11 +20,24 @@
   "Inhibiteurs ou inducteurs forts du CYP3A4/5"
  ],
  "bras": [
-  { "nom": "Voclosporine (période 1)", "traitement": "15,8 mg deux fois par jour (2 capsules) avec MMF et corticoïdes" },
-  { "nom": "Placebo (période 1)", "traitement": "2 capsules de placebo deux fois par jour avec MMF et corticoïdes" },
-  { "nom": "Voclosporine (période 2)", "traitement": "23,7 mg deux fois par jour (3 capsules), en ouvert" },
-  { "nom": "Voclosporine (période 3)", "traitement": "Dose maximale de 15,8 mg deux fois par jour, en ouvert" }
+  {
+   "nom": "Voclosporine (période 1)",
+   "traitement": "15,8 mg deux fois par jour (2 capsules) avec MMF et corticoïdes"
+  },
+  {
+   "nom": "Placebo (période 1)",
+   "traitement": "2 capsules de placebo deux fois par jour avec MMF et corticoïdes"
+  },
+  {
+   "nom": "Voclosporine (période 2)",
+   "traitement": "23,7 mg deux fois par jour (3 capsules), en ouvert"
+  },
+  {
+   "nom": "Voclosporine (période 3)",
+   "traitement": "Dose maximale de 15,8 mg deux fois par jour, en ouvert"
+  }
  ],
  "duree": "24 semaines",
- "critere": "Proportion de patients en réponse rénale à la semaine 24"
+ "critere": "Proportion de patients en réponse rénale à la semaine 24",
+ "relu": "2026-11-23"
 }

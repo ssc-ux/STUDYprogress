@@ -16,9 +16,8 @@
  "exclusion": [
   "Autre maladie éosinophilique, GPA ou PAM",
   "EGPA engageant le pronostic vital dans les 3 mois",
-  "Cancer dans les 5 ans, immunodéficience",
+  "Cancer dans les 5 ans, immunodéficience, infection parasitaire dans les 6 mois ou infection active récente",
   "Hypertension ou maladie cardio-vasculaire ou cérébrovasculaire non contrôlées",
-  "Infection parasitaire dans les 6 mois ou infection active récente",
   "Cyclophosphamide dans les 4 semaines, rituximab dans les 6 mois, biothérapie ou inhibiteur de cytokine TH2 dans les 12 semaines",
   "Antécédent d'hypersensibilité à un anti-IL-5 ou échec d'un traitement anti-IL-5",
   "Grossesse ou allaitement"
@@ -34,5 +33,6 @@
   }
  ],
  "duree": "Non précisé (critères principaux jusqu'à 48 semaines)",
- "critere": "Variation de la dose de corticoïdes oraux jusqu'à la semaine 12, et proportion de patients en rémission aux semaines 36 et 48."
+ "critere": "Variation de la dose de corticoïdes oraux jusqu'à la semaine 12, et proportion de patients en rémission aux semaines 36 et 48.",
+ "relu": "2026-11-23"
 }

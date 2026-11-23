@@ -5,9 +5,9 @@
  "question": "La correction d'une insuffisance en vitamine D améliore-t-elle la fonction pulmonaire des patients atteints de sarcoïdose, et quel est le lien entre statut vitaminique et sévérité ?",
  "contexte": "Dans la sarcoïdose, les macrophages des granulomes produisent de la 1,25-dihydroxyvitamine D en excès, ce qui expose à l'hypercalciurie et à l'hypercalcémie. Par prudence, la supplémentation en vitamine D y est souvent limitée ou évitée. Pourtant, l'insuffisance en vitamine D est fréquente chez ces patients, en particulier sous corticoïdes, avec un risque osseux et un possible impact sur l'immunité.\n\nLa relation entre le statut en vitamine D, la sévérité de la maladie et l'effet de sa correction est mal documentée. Des travaux suggèrent qu'une carence pourrait aggraver l'inflammation granulomateuse.\n\nCet essai de phase 4 randomisé de l'université du Texas Southwestern inclut environ 90 patients stables, avec calcémie ionisée normale. Les patients avec insuffisance en vitamine D reçoivent soit de l'ergocalciférol, soit un placebo, et ceux ayant un taux normal servent de témoins. Les groupes sont stratifiés selon l'usage de corticoïdes systémiques.",
  "interet": "Les résultats pourraient dire si la correction d'une carence en vitamine D est sûre et utile dans la sarcoïdose. Ils pourraient guider la pratique de supplémentation, aujourd'hui très prudente.",
- "profil": "Des adultes atteints de sarcoïdose stable, avec ou sans insuffisance en vitamine D, avec ou sans corticoïdes systémiques.",
+ "profil": "Des adultes de 21 ans ou plus atteints de sarcoïdose stable, avec ou sans insuffisance en vitamine D, avec ou sans corticoïdes systémiques.",
  "inclusion": [
-  "Sarcoïdose dans un état médical stable (aucune hospitalisation ni passage aux urgences dans les 3 mois)",
+  "Âge ≥ 21 ans, sarcoïdose dans un état médical stable (aucune hospitalisation ni passage aux urgences dans les 3 mois)",
   "Absence d'infection pulmonaire ou systémique active",
   "Absence d'autre maladie inflammatoire active",
   "Absence de cancer actif",
@@ -23,17 +23,18 @@
  "bras": [
   {
    "nom": "Vitamine D basse : ergocalciférol",
-   "traitement": "Ergocalciférol (vitamine D2) 50 000 UI par voie orale, rythme précisé au protocole, avec citrate de calcium et vitamine D2"
+   "traitement": "Ergocalciférol (vitamine D2) 50 000 UI par voie orale une fois par semaine pendant 12 semaines, puis une fois par mois pendant 12 semaines ; plus citrate de calcium + vitamine D2 (4 comprimés/j de 200 mg/250 UI) pendant 24 semaines"
   },
   {
    "nom": "Vitamine D basse : placebo",
-   "traitement": "Placebo de même aspect, avec citrate de calcium et vitamine D2"
+   "traitement": "Placebo de même aspect, une fois par semaine pendant 12 semaines puis une fois par mois pendant 12 semaines ; plus citrate de calcium + vitamine D2 (4 comprimés/j) pendant 24 semaines"
   },
   {
    "nom": "Vitamine D normale : témoins",
-   "traitement": "Citrate de calcium et vitamine D2 selon les besoins alimentaires quotidiens"
+   "traitement": "Citrate de calcium + vitamine D2 (4 comprimés/j de 200 mg/250 UI) pendant 24 semaines, sans autre traitement de l'étude"
   }
  ],
  "duree": "24 semaines",
- "critere": "Variation de la fonction pulmonaire entre l'inclusion et la semaine 24"
+ "critere": "Variation de la fonction pulmonaire entre l'inclusion et la semaine 24",
+ "relu": "2026-11-23"
 }

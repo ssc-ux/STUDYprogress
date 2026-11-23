@@ -20,18 +20,20 @@
   "Corticoïdes pour une maladie non lupique pendant plus de 2 semaines dans les 24 dernières semaines",
   "Infections récurrentes ayant nécessité une hospitalisation, déficit immunitaire, splénectomie ou VIH",
   "Hépatite B ou C",
-  "Zona sévère antérieur ou infection opportuniste récente"
+  "Zona sévère antérieur ou infection opportuniste dans les 3 ans",
+  "Cancer antérieur (hors carcinome cutané ou col in situ traités avec succès)"
  ],
  "bras": [
   {
    "nom": "Anifrolumab",
-   "traitement": "Anifrolumab en solution injectable sous-cutanée (seringue préremplie); schéma posologique non précisé"
+   "traitement": "Anifrolumab en dose fixe par voie sous-cutanée, une fois par semaine, par seringue préremplie (dose non précisée)"
   },
   {
    "nom": "Placebo",
-   "traitement": "Placebo en injection sous-cutanée (seringue préremplie)"
+   "traitement": "Placebo en injection sous-cutanée hebdomadaire (seringue préremplie)"
   }
  ],
- "duree": "52 semaines",
- "critere": "Proportion de patients avec une réponse BICLA (British Isles Lupus Assessment Group-based Composite Lupus Assessment) à la semaine 52."
+ "duree": "52 semaines, puis extension ouverte possible jusqu'à 52 semaines supplémentaires",
+ "critere": "Proportion de patients avec une réponse BICLA (British Isles Lupus Assessment Group-based Composite Lupus Assessment) à la semaine 52.",
+ "relu": "2026-11-23"
 }

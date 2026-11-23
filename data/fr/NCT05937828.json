@@ -7,13 +7,13 @@
  "interet": "Cette cohorte peut éclairer l'histoire naturelle des cytopénies auto-immunes pédiatriques, leur transition vers l'âge adulte et l'identification de causes génétiques. Elle fournira aussi des données de vie réelle sur les traitements, utiles pour les internistes qui reçoivent ces patients à l'âge adulte.",
  "profil": "Des enfants et adolescents (début avant 18 ans) atteints de PTI, d'AHAI ou de syndrome d'Evans, suivis dans les centres français.",
  "inclusion": [
-  "Diagnostic de PTI, d'AHAI ou de syndrome d'Evans",
-  "Début avant l'âge de 18 ans",
-  "Suivi dans un des centres français d'hématologie pédiatrique"
+  "Diagnostic de PTI (critères de l'International Working Group)",
+  "Ou AHAI : Hb < 110 g/L, test direct à l'antiglobuline positif et critère d'hémolyse",
+  "Ou syndrome d'Evans : au moins deux cytopénies auto-immunes simultanées ou séquentielles",
+  "Début de la maladie avant l'âge de 18 ans"
  ],
  "exclusion": [
-  "Opposition du représentant légal à la collecte des données",
-  "Opposition du patient à la collecte des données"
+  "Opposition du représentant légal ou du patient à la collecte des données"
  ],
  "bras": [
   {
@@ -30,5 +30,6 @@
   }
  ],
  "duree": "Suivi prolongé, jusqu'en 2029",
- "critere": "Contexte de la cytopénie auto-immune, évalué à l'inclusion"
+ "critere": "Contexte de la cytopénie auto-immune, évalué à l'inclusion",
+ "relu": "2026-11-23"
 }

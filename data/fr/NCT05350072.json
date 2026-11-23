@@ -16,21 +16,25 @@
  ],
  "exclusion": [
   "Autre maladie rhumatismale auto-immune active constituant la maladie principale",
-  "Autre médicament expérimental dans les 5 demi-vies ou 30 jours",
-  "Traitement antérieur par ianalumab",
-  "Déplétion B antérieure par un autre agent dans les 36 semaines"
+  "Autre médicament expérimental dans les 5 demi-vies ou 30 jours ; traitement antérieur par ianalumab",
+  "Déplétion B antérieure par un autre agent dans les 36 semaines",
+  "Bélimumab, abatacept, anti-TNF, immunoglobulines ou plasmaphérèse dans les 24 semaines ; immunosuppresseurs dans les 12 semaines",
+  "Corticoïdes > 10 mg/j",
+  "Anomalies hématologiques (Hb < 8 g/dL, leucocytes < 2 000/µL, plaquettes < 80 000/µL, PNN < 800/µL)",
+  "Infection active ou récurrente, hépatite B ou C chronique, tuberculose active, VIH ; cancer dans les 5 ans ; grossesse ou allaitement"
  ],
  "bras": [
   {
    "nom": "Ianalumab",
-   "traitement": "Ianalumab (VAY736), dose et rythme non précisés"
+   "traitement": "Ianalumab (VAY736) 300 mg par voie sous-cutanée, une fois par mois (dose d'après la publication)"
   },
   {
    "nom": "Placebo",
-   "traitement": "Placebo"
+   "traitement": "Placebo sous-cutané, une fois par mois"
   }
  ],
- "duree": "Non précisé (critère principal à 48 semaines)",
+ "duree": "52 semaines (critère principal à 48 semaines)",
  "critere": "Variation du score ESSDAI à la semaine 48 par rapport à l'inclusion, comparée au placebo.",
- "resultats": "NEPTUNUS-1 a randomisé 275 patients : ianalumab 300 mg par mois (n=137) ou placebo (n=138). La variation de l'ESSDAI à la semaine 48 était significativement plus favorable sous ianalumab, avec une différence de -1,3 point par rapport au placebo (IC 95 % -2,6 à 0,0 ; p = 0,0496). Il n'y avait pas de différence significative pour la réponse ESSDAI (réduction ≥ 5 points ; premier critère secondaire hiérarchisé) ni pour la variation des scores SSSD ou ESSPRI à la semaine 48. L'incidence des événements indésirables graves était similaire sous ianalumab et sous placebo. Les réactions locales au point d'injection et les réactions systémiques liées à l'injection, non graves, étaient plus fréquentes sous ianalumab. Les auteurs concluent à une baisse plus marquée de l'activité de la maladie à 48 semaines, sans différence sur la réponse ESSDAI ni sur les symptômes rapportés (publication NEJM 2026 groupant NEPTUNUS-1 et -2)."
+ "resultats": "NEPTUNUS-1 a randomisé 275 patients : ianalumab 300 mg par mois (n=137) ou placebo (n=138). La variation de l'ESSDAI à la semaine 48 était significativement plus favorable sous ianalumab, avec une différence de -1,3 point par rapport au placebo (IC 95 % -2,6 à 0,0 ; p = 0,0496). Il n'y avait pas de différence significative pour la réponse ESSDAI (réduction ≥ 5 points ; premier critère secondaire hiérarchisé) ni pour la variation des scores SSSD ou ESSPRI à la semaine 48. L'incidence des événements indésirables graves était similaire sous ianalumab et sous placebo. Les réactions locales au point d'injection et les réactions systémiques liées à l'injection, non graves, étaient plus fréquentes sous ianalumab. Les auteurs concluent à une baisse plus marquée de l'activité de la maladie à 48 semaines, sans différence sur la réponse ESSDAI ni sur les symptômes rapportés (publication NEJM 2026 groupant NEPTUNUS-1 et -2).",
+ "relu": "2026-11-23"
 }

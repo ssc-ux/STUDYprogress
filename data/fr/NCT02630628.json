@@ -24,14 +24,15 @@
  "bras": [
   {
    "nom": "Tacrolimus",
-   "traitement": "Tacrolimus oral avec corticoïdes, pendant 96 semaines (dose non précisée)"
+   "traitement": "Corticoïdes (méthylprednisolone IV 3 jours puis prednisolone orale) + tacrolimus oral, taux résiduel cible 6 à 8 ng/mL, pendant 96 semaines"
   },
   {
    "nom": "Mycophénolate mofétil",
-   "traitement": "MMF oral avec corticoïdes, pendant 96 semaines (dose non précisée)"
+   "traitement": "Mêmes corticoïdes + mycophénolate mofétil oral 1 g deux fois par jour, pendant 96 semaines"
   }
  ],
  "duree": "96 semaines",
- "critere": "Réponse rénale soutenue à 96 semaines",
- "resultats": "Cent trente patients ayant une néphrite lupique de classe III/IV (± V) prouvée par biopsie ont été randomisés (65 par groupe) entre tacrolimus et mycophénolate, tous deux avec corticoïdes, pendant 96 semaines. La réponse rénale soutenue à 96 semaines (critère principal) ne différait pas significativement : 58,5 % sous tacrolimus contre 69,2 % sous mycophénolate. La rémission rénale complète était de 55,4 % contre 63,1 %, et la réponse soutenue à 48 semaines de 63,1 % contre 66,2 %. Le taux global d'événements indésirables était identique (80,0 % dans chaque groupe). L'insuffisance rénale aiguë et les tremblements étaient plus fréquents sous tacrolimus, la leucopénie sous mycophénolate. Trois décès sont survenus, tous dans le groupe mycophénolate, où les événements indésirables graves liés au traitement et les infections graves étaient aussi plus fréquents. Les auteurs concluent à une efficacité similaire avec des profils de tolérance différents."
+ "critere": "Réponse rénale soutenue à 96 semaines (baisse de la protéinurie > 50 %, DFGe ≥ 60 mL/min/1,73 m², sans poussée ni traitement de secours)",
+ "resultats": "Cent trente patients ayant une néphrite lupique de classe III/IV (± V) prouvée par biopsie ont été randomisés (65 par groupe) entre tacrolimus et mycophénolate, tous deux avec corticoïdes, pendant 96 semaines. La réponse rénale soutenue à 96 semaines (critère principal) ne différait pas significativement : 58,5 % sous tacrolimus contre 69,2 % sous mycophénolate. La rémission rénale complète était de 55,4 % contre 63,1 %, et la réponse soutenue à 48 semaines de 63,1 % contre 66,2 %. Le taux global d'événements indésirables était identique (80,0 % dans chaque groupe). L'insuffisance rénale aiguë et les tremblements étaient plus fréquents sous tacrolimus, la leucopénie sous mycophénolate. Trois décès sont survenus, tous dans le groupe mycophénolate, où les événements indésirables graves liés au traitement et les infections graves étaient aussi plus fréquents. Les auteurs concluent à une efficacité similaire avec des profils de tolérance différents.",
+ "relu": "2026-11-23"
 }

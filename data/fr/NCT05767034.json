@@ -23,11 +23,21 @@
   "Tocilizumab ou autre anti-IL-6 dans les 12 semaines (ou 5 demi-vies) avant l'inclusion"
  ],
  "bras": [
-  {"nom": "Sécukinumab 300 mg", "traitement": "300 mg SC chaque semaine pendant 4 semaines puis toutes les 4 semaines, avec décroissance de prednisone sur 24 semaines"},
-  {"nom": "Sécukinumab 150 mg", "traitement": "150 mg SC chaque semaine pendant 4 semaines puis toutes les 4 semaines, avec décroissance de prednisone sur 24 semaines"},
-  {"nom": "Placebo", "traitement": "Placebo SC selon le même rythme, avec décroissance de prednisone sur 24 semaines"}
+  {
+   "nom": "Sécukinumab 300 mg",
+   "traitement": "300 mg SC chaque semaine pendant 4 semaines puis toutes les 4 semaines, avec décroissance de prednisone sur 24 semaines"
+  },
+  {
+   "nom": "Sécukinumab 150 mg",
+   "traitement": "150 mg SC chaque semaine pendant 4 semaines puis toutes les 4 semaines, avec décroissance de prednisone sur 24 semaines"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo SC selon le même rythme, avec décroissance de prednisone sur 24 semaines"
+  }
  ],
  "duree": "52 semaines de traitement, suivi sans traitement jusqu'à 24 semaines",
  "critere": "Proportion de participants en rémission soutenue à la semaine 52.",
- "resultats": "Dans l'essai de phase 3 REPLENISH (NEJM 2026), 381 patients atteints de PPR en rechute ont été randomisés (127 par groupe) pour recevoir sécukinumab 300 mg, sécukinumab 150 mg ou placebo pendant 52 semaines, avec une décroissance de la prednisone sur 24 semaines. La rémission soutenue à la semaine 52 (critère principal) était observée chez 41,2 % (IC 95 % 32,8-49,7) des patients du groupe 300 mg, 40,6 % (32,2-49,0) du groupe 150 mg et 20,4 % (13,6-27,2) du groupe placebo (p<0,001 pour chaque dose vs placebo). La dose cumulée annuelle ajustée de glucocorticoïdes était de 1603,7 mg (300 mg), 1683,2 mg (150 mg) et 2093,0 mg (placebo). Des événements indésirables graves sont survenus chez 13,5 %, 15,9 % et 14,2 % des patients respectivement. Rhinopharyngite, réactions d'hypersensibilité, infections urinaires, infections fongiques et lombalgies étaient plus fréquentes sous sécukinumab. Les auteurs concluent que le sécukinumab associé à une décroissance de 24 semaines augmente la rémission et réduit la dose cumulée de glucocorticoïdes par rapport à la décroissance seule."
+ "resultats": "Dans l'essai de phase 3 REPLENISH (NEJM 2026), 381 patients atteints de PPR en rechute ont été randomisés (127 par groupe) pour recevoir sécukinumab 300 mg, sécukinumab 150 mg ou placebo pendant 52 semaines, avec une décroissance de la prednisone sur 24 semaines. La rémission soutenue à la semaine 52 (critère principal) était observée chez 41,2 % (IC 95 % 32,8-49,7) des patients du groupe 300 mg, 40,6 % (32,2-49,0) du groupe 150 mg et 20,4 % (13,6-27,2) du groupe placebo (p<0,001 pour chaque dose vs placebo). La dose cumulée annuelle ajustée de glucocorticoïdes était de 1603,7 mg (300 mg), 1683,2 mg (150 mg) et 2093,0 mg (placebo). Des événements indésirables graves sont survenus chez 13,5 %, 15,9 % et 14,2 % des patients respectivement. Rhinopharyngite, réactions d'hypersensibilité, infections urinaires, infections fongiques et lombalgies étaient plus fréquentes sous sécukinumab. Les auteurs concluent que le sécukinumab associé à une décroissance de 24 semaines augmente la rémission et réduit la dose cumulée de glucocorticoïdes par rapport à la décroissance seule.",
+ "relu": "2026-11-23"
 }

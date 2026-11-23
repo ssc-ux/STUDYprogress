@@ -22,9 +22,16 @@
   "DFGe < 30 mL/min/1,73 m², maladie hépatique, pression artérielle non contrôlée"
  ],
  "bras": [
-  {"nom": "NTLA-2001", "traitement": "Une perfusion intraveineuse unique"},
-  {"nom": "Placebo", "traitement": "Une perfusion intraveineuse unique de sérum salé"}
+  {
+   "nom": "NTLA-2001",
+   "traitement": "Une perfusion intraveineuse unique"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Une perfusion intraveineuse unique de sérum salé"
+  }
  ],
  "duree": "Durée dépendante du nombre d'événements : au moins 18 mois, jusqu'à environ 5 ans",
- "critere": "Critère composite de la mortalité cardiovasculaire et des événements cardiovasculaires, avec un suivi maximal estimé de 18 mois à environ 5 ans selon le taux d'événements."
+ "critere": "Critère composite de la mortalité cardiovasculaire et des événements cardiovasculaires, avec un suivi maximal estimé de 18 mois à environ 5 ans selon le taux d'événements.",
+ "relu": "2026-11-23"
 }

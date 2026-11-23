@@ -17,8 +17,12 @@
   "Nécessité d'un médicament interdit dans l'étude pivot"
  ],
  "bras": [
-  {"nom": "Eplontersen", "traitement": "Eplontersen en injection sous-cutanée une fois par mois, jusqu'à 36 mois ou 6 mois après sa mise à disposition dans le pays"}
+  {
+   "nom": "Eplontersen",
+   "traitement": "Eplontersen en injection sous-cutanée une fois par mois, jusqu'à 36 mois ou 6 mois après sa mise à disposition dans le pays"
+  }
  ],
  "duree": "Jusqu'à 36 mois",
- "critere": "Nombre de participants ayant des événements indésirables et des événements indésirables graves, avec suivi des plaquettes, du DFGe et du rapport protéinurie/créatininurie, jusqu'à 36 mois."
+ "critere": "Nombre de participants ayant des événements indésirables et des événements indésirables graves, avec suivi des plaquettes, du DFGe et du rapport protéinurie/créatininurie, jusqu'à 36 mois.",
+ "relu": "2026-11-23"
 }

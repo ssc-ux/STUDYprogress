@@ -20,8 +20,7 @@
   "Insuffisance cardiaque de classe 3/4, ou de classe 2 récente ou FEVG < 40 %",
   "Transaminases > 2 fois la normale, hépatopathie chronique sévère, sérologie VIH ou VHB positive ou VHC actif",
   "Neutropénie < 1000/mm³ ou intolérance aux thiazolidinediones ou au rituximab",
-  "Acidocétose diabétique ou risque d'œdème maculaire",
-  "Grossesse ou allaitement"
+  "Acidocétose diabétique, risque d'œdème maculaire, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -34,5 +33,6 @@
   }
  ],
  "duree": "52 semaines de suivi, dont 26 semaines de traitement",
- "critere": "Succès à 26 semaines, défini par une variation de la créatininémie > 30 % entre J0 et S26 et un rapport protéinurie/créatininurie < 1 g/mmol"
+ "critere": "Succès à 26 semaines, défini par une variation de la créatininémie > 30 % entre J0 et S26 et un rapport protéinurie/créatininurie < 1 g/mmol",
+ "relu": "2026-11-23"
 }

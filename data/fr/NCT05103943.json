@@ -14,13 +14,13 @@
   "Intention de traiter par tafamidis"
  ],
  "exclusion": [
-  "Insuffisance cardiaque non liée à l'amylose TTR ou NYHA IV",
-  "Amylose AL",
+  "Insuffisance cardiaque non liée à l'amylose TTR, NYHA IV ou amylose AL",
   "Antécédent de greffe hépatique ou cardiaque",
   "DFG < 25 mL/min/1,73 m² ou transaminases > 2 fois la normale",
-  "Antécédent coronarien : infarctus, revascularisation, sténose épicardique sévère",
-  "Contre-indication au test de stress pharmacologique (hypotension sévère, BAV de 2e ou 3e degré, sténose carotidienne)",
-  "Traitement antérieur par tafamidis ou patisiran, ticagrélor, grossesse ou allaitement"
+  "Dénutrition sévère (indice de masse corporelle modifié < 600)",
+  "Traitement antérieur par tafamidis ou patisiran, ou traitement par ticagrélor",
+  "Antécédent coronarien : infarctus, pontage, revascularisation, sténose épicardique sévère",
+  "Contre-indication au test de stress pharmacologique, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -29,5 +29,6 @@
   }
  ],
  "duree": "24 mois",
- "critere": "Différence entre flux myocardique de stress et de repos, et rapport flux de stress/flux de repos, à 24 mois"
+ "critere": "Différence entre flux myocardique de stress et de repos, et rapport flux de stress/flux de repos, à 24 mois",
+ "relu": "2026-11-23"
 }

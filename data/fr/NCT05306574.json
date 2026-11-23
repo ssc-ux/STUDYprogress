@@ -17,13 +17,19 @@
  "exclusion": [
   "Néphrite lupique active en induction ou atteinte rénale instable dans les 12 semaines",
   "Lupus neuropsychiatrique actif ou instable",
-  "Autre maladie auto-immune ou rhumatismale que le LES",
-  "Autres critères : non précisé"
+  "Autre maladie auto-immune ou rhumatismale que le LES"
  ],
  "bras": [
-  { "nom": "Télitacicept", "traitement": "Télitacicept (dose non précisée) + traitement standard" },
-  { "nom": "Placebo", "traitement": "Placebo + traitement standard" }
+  {
+   "nom": "Télitacicept",
+   "traitement": "Télitacicept (dose non précisée) + traitement standard"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo + traitement standard"
+  }
  ],
  "duree": "52 semaines",
- "critere": "Réponse SRI-4 à la semaine 52"
+ "critere": "Réponse SRI-4 à la semaine 52",
+ "relu": "2026-11-23"
 }

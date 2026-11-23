@@ -3,7 +3,7 @@
  "date": "2026-11-17",
  "titre": "MIL62 contre placebo dans le lupus systémique",
  "question": "L'anticorps anti-CD20 MIL62 augmente-t-il la proportion de réponse SRI-4 à 12 semaines dans le lupus systémique ?",
- "contexte": "Le lupus systémique actif reste difficile à contrôler malgré l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et le bélimumab. La déplétion des lymphocytes B est une stratégie plausible, mais les essais du rituximab n'ont pas atteint leurs critères principaux.\n\nLe MIL62 est un anticorps anti-CD20 humanisé et glyco-modifié, conçu pour une cytotoxicité cellulaire plus forte que celle du rituximab. Cette étude de phase 2, randomisée en double aveugle contre placebo, a inclus 123 adultes de 18 à 80 ans, dans un centre chinois (promoteur : Mabworks). Elle comporte les parties A et B. Elle évalue aussi la pharmacocinétique, la pharmacodynamique et les anticorps anti-médicament.",
+ "contexte": "Le lupus systémique actif reste difficile à contrôler malgré l'hydroxychloroquine, les corticoïdes, les immunosuppresseurs et le bélimumab. La déplétion des lymphocytes B est une stratégie plausible, mais les essais du rituximab n'ont pas atteint leurs critères principaux.\n\nLe MIL62 est un anticorps anti-CD20 humanisé et glyco-modifié, conçu pour une cytotoxicité cellulaire plus forte que celle du rituximab. Cette étude de phase 2, randomisée en double aveugle contre placebo, a inclus 123 adultes de 18 à 80 ans, dans 30 centres hospitaliers chinois (promoteur : Mabworks). Elle comporte les parties A et B. Elle évalue aussi la pharmacocinétique, la pharmacodynamique et les anticorps anti-médicament.",
  "interet": "Elle permettra de savoir si cette déplétion B plus puissante apporte une réponse dans le lupus actif, avant un éventuel essai de phase 3.",
  "profil": "Des adultes de 18 à 80 ans atteints de lupus systémique actif sous traitement stable.",
  "inclusion": [
@@ -26,15 +26,16 @@
  ],
  "bras": [
   {
-   "nom": "MIL62",
-   "traitement": "MIL62 par voie injectable (parties A et B)"
+   "nom": "MIL62 (obinutuzumab β)",
+   "traitement": "MIL62 (obinutuzumab β) 1000 mg en perfusion IV aux jours 1, 15, 169, 183, 365 et 379 (dose d'après la publication), en plus du traitement de fond"
   },
   {
    "nom": "Placebo",
-   "traitement": "Placebo (parties A et B)"
+   "traitement": "Placebo en perfusion IV aux mêmes temps, en plus du traitement de fond"
   }
  ],
- "duree": "Non précisé",
+ "duree": "52 semaines (critère principal à 12 semaines)",
  "critere": "Proportion de patients atteignant une réponse SRI-4 à la semaine 12.",
- "resultats": "Cet essai de phase 2 randomisé en double aveugle a inclus 123 patients lupiques actifs dans 30 centres chinois (61 sous obinutuzumab β, 62 sous placebo), en plus du traitement de fond. À la semaine 12, une réponse SRI-4 était obtenue chez 32 patients (52 %) sous obinutuzumab β contre 21 (34 %) sous placebo, soit une différence ajustée de 19 points (IC 95 % 3-36 ; p = 0,022). Des événements indésirables graves sont survenus chez 12 patients (20 %) sous obinutuzumab β et 14 (23 %) sous placebo sur 52 semaines. Un décès par sepsis est survenu dans le groupe placebo. Les auteurs concluent que l'obinutuzumab β améliore la réponse SRI-4 à 12 semaines avec une tolérance globalement acceptable, et justifie des évaluations plus longues."
+ "resultats": "Cet essai de phase 2 (MIL62, publié sous le nom d'obinutuzumab β) randomisé en double aveugle a inclus 123 patients lupiques actifs dans 30 centres chinois (61 sous obinutuzumab β, 62 sous placebo), en plus du traitement de fond. À la semaine 12, une réponse SRI-4 était obtenue chez 32 patients (52 %) sous obinutuzumab β contre 21 (34 %) sous placebo, soit une différence ajustée de 19 points (IC 95 % 3-36 ; p = 0,022). Des événements indésirables graves sont survenus chez 12 patients (20 %) sous obinutuzumab β et 14 (23 %) sous placebo sur 52 semaines. Un décès par sepsis est survenu dans le groupe placebo. Les auteurs concluent que l'obinutuzumab β améliore la réponse SRI-4 à 12 semaines avec une tolérance globalement acceptable, et justifie des évaluations plus longues.",
+ "relu": "2026-11-23"
 }

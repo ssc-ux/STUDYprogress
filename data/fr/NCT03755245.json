@@ -1,28 +1,29 @@
 {
-  "h": "a39850237afar",
-  "date": "2026-11-17",
-  "titre": "Imagerie TEP de l'inflammation par [68Ga]Ga-DOTA-Siglec-9 (polyarthrite, vascularite, sarcoïdose)",
-  "question": "Le traceur TEP [68Ga]Ga-DOTA-Siglec-9, ligand de VAP-1, est-il sûr, bien distribué et capable de visualiser l'inflammation active chez des volontaires sains et des patients ?",
-  "contexte": "La protéine d'adhésion vasculaire 1 (VAP-1) est exprimée à la surface des cellules endothéliales lors de l'inflammation et participe à la migration des leucocytes vers les tissus atteints. Son expression reste élevée tant que l'inflammation persiste, ce qui en fait une cible d'imagerie moléculaire.\n\nLe peptide Siglec-9 (résidus 283-297) est un ligand de VAP-1. Marqué au gallium-68 et couplé au chélateur DOTA, il a permis de visualiser l'inflammation en TEP dans plusieurs modèles expérimentaux. L'imagerie actuelle de l'inflammation, notamment par TEP au FDG, manque de spécificité.\n\nCette étude de première administration chez l'homme, menée à Turku (Finlande), évalue une injection intraveineuse unique du traceur chez 6 volontaires sains (dosimétrie, pharmacocinétique, sécurité) et chez des patients atteints de polyarthrite rhumatoïde active (10), de vascularite (5) ou de sarcoïdose pulmonaire (5).",
-  "interet": "Un traceur spécifique de l'inflammation pourrait aider à localiser et à quantifier l'activité des maladies inflammatoires, par exemple la sarcoïdose ou les vascularites. À ce stade, l'étude est exploratoire et ne concerne qu'un petit effectif.",
-  "profil": "Des hommes sains de 18 à 70 ans et des adultes de 18 à 70 ans atteints de polyarthrite rhumatoïde, de vascularite ou de sarcoïdose pulmonaire actives.",
-  "inclusion": [
-    "Hommes sains de 18 à 70 ans",
-    "Ou patients de 18 à 70 ans avec polyarthrite rhumatoïde, vascularite ou sarcoïdose pulmonaire active"
-  ],
-  "exclusion": [
-    "Sujets sains : infection ou inflammation en cours",
-    "Polyarthrite : traitement de fond ou biothérapie en cours, corticoïdes dans les 2 semaines",
-    "Vascularite : immunosuppresseurs, glucocorticoïdes < 60 mg dans les 2 semaines ou AINS la veille",
-    "Sarcoïdose pulmonaire : corticoïdes dans la semaine ou AINS la veille"
-  ],
-  "bras": [
-    {
-      "nom": "[68Ga]Ga-DOTA-Siglec-9",
-      "traitement": "Injection intraveineuse en bolus de 140 MBq, puis TEP/CT (groupe unique : volontaires sains et patients)"
-    }
-  ],
-  "duree": "Une journée (injection unique et imagerie)",
-  "critere": "Distribution du traceur dans l'ensemble du corps, dans la journée de l'injection.",
-  "resultats": "Cette étude de preuve de concept publiée porte sur le sous-groupe sarcoïdose pulmonaire (traceur TEP [68Ga]Ga-DOTA-Siglec-9, cible VAP-1). Six patients atteints de sarcoïdose pulmonaire de stade 2 ont été comparés à six volontaires sains masculins et à une patiente avec cancer du poumon. La fixation pulmonaire était nettement plus élevée chez les patients (SUVmean 1,82 ± 0,52 contre 0,41 ± 0,08 ; p = 0,00006), de même que celle des ganglions médiastinaux (2,06 ± 0,46 contre 0,89 ± 0,26 ; p = 0,0003). Une fixation accrue était aussi observée dans le foie (1,18 ± 0,14 contre 0,80 ± 0,10), la rate (1,13 ± 0,09 contre 0,82 ± 0,06), la moelle osseuse (0,30 ± 0,12 contre 0,06 ± 0,05) et l'os (0,27 ± 0,11 contre 0,08 ± 0,04), ce qui évoque une inflammation systémique. Les auteurs concluent que la TEP/TDM ciblant VAP-1 est prometteuse pour imager la sarcoïdose pulmonaire, avec une validation à confirmer dans des cohortes plus larges."
+ "h": "a39850237afar",
+ "date": "2026-11-17",
+ "titre": "Imagerie TEP de l'inflammation par [68Ga]Ga-DOTA-Siglec-9 (polyarthrite, vascularite, sarcoïdose)",
+ "question": "Le traceur TEP [68Ga]Ga-DOTA-Siglec-9, ligand de VAP-1, est-il sûr, bien distribué et capable de visualiser l'inflammation active chez des volontaires sains et des patients ?",
+ "contexte": "La protéine d'adhésion vasculaire 1 (VAP-1) est exprimée à la surface des cellules endothéliales lors de l'inflammation et participe à la migration des leucocytes vers les tissus atteints. Son expression reste élevée tant que l'inflammation persiste, ce qui en fait une cible d'imagerie moléculaire.\n\nLe peptide Siglec-9 (résidus 283-297) est un ligand de VAP-1. Marqué au gallium-68 et couplé au chélateur DOTA, il a permis de visualiser l'inflammation en TEP dans plusieurs modèles expérimentaux. L'imagerie actuelle de l'inflammation, notamment par TEP au FDG, manque de spécificité.\n\nCette étude de première administration chez l'homme, menée à Turku (Finlande), évalue une injection intraveineuse unique du traceur chez 6 volontaires sains (dosimétrie, pharmacocinétique, sécurité) et chez des patients atteints de polyarthrite rhumatoïde active (10), de vascularite (5) ou de sarcoïdose pulmonaire (5).",
+ "interet": "Un traceur spécifique de l'inflammation pourrait aider à localiser et à quantifier l'activité des maladies inflammatoires, par exemple la sarcoïdose ou les vascularites. À ce stade, l'étude est exploratoire et ne concerne qu'un petit effectif.",
+ "profil": "Des hommes sains de 18 à 70 ans et des adultes de 18 à 70 ans atteints de polyarthrite rhumatoïde, de vascularite ou de sarcoïdose pulmonaire actives.",
+ "inclusion": [
+  "Hommes sains de 18 à 70 ans",
+  "Ou patients de 18 à 70 ans avec polyarthrite rhumatoïde, vascularite ou sarcoïdose pulmonaire active"
+ ],
+ "exclusion": [
+  "Sujets sains : infection ou inflammation en cours",
+  "Polyarthrite : traitement de fond ou biothérapie en cours, corticoïdes dans les 2 semaines",
+  "Vascularite : immunosuppresseurs, glucocorticoïdes < 60 mg dans les 2 semaines ou AINS la veille",
+  "Sarcoïdose pulmonaire : corticoïdes dans la semaine ou AINS la veille"
+ ],
+ "bras": [
+  {
+   "nom": "[68Ga]Ga-DOTA-Siglec-9",
+   "traitement": "Injection intraveineuse en bolus de 140 MBq, puis TEP/CT (groupe unique : volontaires sains et patients)"
+  }
+ ],
+ "duree": "Une journée (injection unique et imagerie)",
+ "critere": "Distribution du traceur dans l'ensemble du corps, dans la journée de l'injection.",
+ "resultats": "Cette étude de preuve de concept publiée porte sur le sous-groupe sarcoïdose pulmonaire (traceur TEP [68Ga]Ga-DOTA-Siglec-9, cible VAP-1). Six patients atteints de sarcoïdose pulmonaire de stade 2 ont été comparés à six volontaires sains masculins et à une patiente avec cancer du poumon. La fixation pulmonaire était nettement plus élevée chez les patients (SUVmean 1,82 ± 0,52 contre 0,41 ± 0,08 ; p = 0,00006), de même que celle des ganglions médiastinaux (2,06 ± 0,46 contre 0,89 ± 0,26 ; p = 0,0003). Une fixation accrue était aussi observée dans le foie (1,18 ± 0,14 contre 0,80 ± 0,10), la rate (1,13 ± 0,09 contre 0,82 ± 0,06), la moelle osseuse (0,30 ± 0,12 contre 0,06 ± 0,05) et l'os (0,27 ± 0,11 contre 0,08 ± 0,04), ce qui évoque une inflammation systémique. Les auteurs concluent que la TEP/TDM ciblant VAP-1 est prometteuse pour imager la sarcoïdose pulmonaire, avec une validation à confirmer dans des cohortes plus larges.",
+ "relu": "2026-11-23"
 }

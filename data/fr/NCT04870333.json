@@ -3,7 +3,7 @@
  "date": "2026-11-17",
  "titre": "Prophylaxie de la COVID-19 chez des patients immunodéprimés par maladie rénale ou auto-immune",
  "question": "Des traitements prophylactiques (niclosamide nasal, ciclésonide, sotrovimab) préviennent-ils la COVID-19 symptomatique chez des patients vulnérables ?",
- "contexte": "Les patients dialysés, transplantés rénaux ou traités par immunosuppresseurs pour une vascularite, un lupus ou une glomérulopathie répondent moins bien à la vaccination anti-SARS-CoV-2 et sont à haut risque de forme grave. Au démarrage de l'étude, aucun médicament n'avait démontré son efficacité en prophylaxie.\n\nPROTECT-V est un essai plateforme britannique, promu par Cambridge University Hospitals, qui teste plusieurs interventions contre placebo : niclosamide en spray nasal, ciclésonide nasal et inhalé (molécules repositionnées), puis l'anticorps monoclonal sotrovimab. Le design plateforme permet d'ajouter de nouveaux bras sans refaire un essai.\n\nL'étude combine une phase 2/3 randomisée en double aveugle avec une randomisation 1:1:1 entre niclosamide, ciclésonide et placebo une fois le second bras introduit.",
+ "contexte": "Les patients dialysés, transplantés rénaux ou traités par immunosuppresseurs pour une vascularite, un lupus ou une glomérulopathie répondent moins bien à la vaccination anti-SARS-CoV-2 et sont à haut risque de forme grave. Au démarrage de l'étude, aucun médicament n'avait démontré son efficacité en prophylaxie.\n\nPROTECT-V est un essai plateforme britannique, promu par Cambridge University Hospitals, qui teste plusieurs interventions contre placebo : niclosamide en spray nasal, ciclésonide nasal et inhalé (molécules repositionnées), puis l'anticorps monoclonal sotrovimab. Le design plateforme permet d'ajouter de nouveaux bras sans refaire un essai.\n\nL'étude a débuté en février 2021 avec le niclosamide nasal (environ 1 500 patients rénaux visés, étude parallèle en Inde). Le bras ciclésonide prévu n'a finalement pas pu être ouvert ; le sotrovimab, ajouté en août 2022, visait 800 à 1 000 patients immunodéprimés. Le bras niclosamide s'est terminé en juin 2023.",
  "interet": "L'étude pouvait identifier une prophylaxie utilisable chez les immunodéprimés peu répondeurs au vaccin. Les résultats sont à interpréter selon les variants circulants pendant l'inclusion.",
  "profil": "Des adultes vulnérables face à la COVID-19 : dialysés, transplantés rénaux ou atteints de vascularite, lupus ou glomérulopathie sous immunosuppresseurs, puis (bras sotrovimab) d'autres patients immunodéprimés.",
  "inclusion": [
@@ -19,7 +19,8 @@
   "COVID-19 au moment de l'inclusion (PCR positive ou symptômes évocateurs)",
   "Hépatopathie chronique ou ALAT/ASAT > 3 fois la normale",
   "Allergie aux produits étudiés ou à leurs excipients",
-  "Grossesse ou désir de grossesse"
+  "Grossesse ou désir de grossesse",
+  "Participation à un autre essai de prophylaxie ou de vaccin contre la COVID-19 ; bras sotrovimab : anticorps monoclonal anti-SARS-CoV-2 dans les 6 mois, hospitalisation en urgence récente"
  ],
  "bras": [
   {
@@ -32,11 +33,11 @@
   },
   {
    "nom": "Ciclésonide",
-   "traitement": "Ciclésonide nasal et inhalé ; dose de référence citée : 160 µg une fois par jour"
+   "traitement": "Ciclésonide nasal et inhalé ; dose de référence citée : 160 µg une fois par jour (bras prévu, non ouvert)"
   },
   {
    "nom": "Placebo ciclésonide",
-   "traitement": "Placebo apparié, même solvant et même gaz propulseur sans principe actif"
+   "traitement": "Placebo apparié, même solvant et même gaz propulseur sans principe actif (bras prévu, non ouvert)"
   },
   {
    "nom": "Sotrovimab",
@@ -49,5 +50,6 @@
  ],
  "duree": "6 à 9 mois",
  "critere": "COVID-19 symptomatique confirmée pendant le traitement (évaluée à 24 semaines pour niclosamide et ciclésonide, 12 semaines pour sotrovimab)",
- "resultats": "Les seuls résultats publiés pour ce numéro concernent une sous-analyse monocentrique de patients atteints de vascularite associée aux ANCA, incluant 32 patients (14 niclosamide intranasal, 18 placebo) ; l'étude principale de prophylaxie de la COVID-19 est une plateforme plus large. L'âge médian était de 69 ans et 59 % des patients avaient une maladie active dans l'année précédant le traitement. Pendant le traitement, des symptômes ORL étaient rapportés chez 1 patient sur 14 (7 %) sous niclosamide contre 7 sur 18 (39 %) sous placebo (p = 0,04). Aucune différence n'était observée dans les 9 mois avant ou après le traitement. Chez les patients PR3-ANCA positifs, 0 sur 10 sous niclosamide avait des symptômes ORL contre 5 sur 9 (56 %) sous placebo. Les données ont été recueillies rétrospectivement. Les auteurs y voient un signal d'effet sur les manifestations ORL, qui justifie une évaluation dédiée."
+ "resultats": "Les seuls résultats publiés pour ce numéro concernent une sous-analyse monocentrique de patients atteints de vascularite associée aux ANCA, incluant 32 patients (14 niclosamide intranasal, 18 placebo) ; l'étude principale de prophylaxie de la COVID-19 est une plateforme plus large. L'âge médian était de 69 ans et 59 % des patients avaient une maladie active dans l'année précédant le traitement. Pendant le traitement, des symptômes ORL étaient rapportés chez 1 patient sur 14 (7 %) sous niclosamide contre 7 sur 18 (39 %) sous placebo (p = 0,04). Aucune différence n'était observée dans les 9 mois avant ou après le traitement. Chez les patients PR3-ANCA positifs, 0 sur 10 sous niclosamide avait des symptômes ORL contre 5 sur 9 (56 %) sous placebo. Les données ont été recueillies rétrospectivement. Les auteurs y voient un signal d'effet sur les manifestations ORL, qui justifie une évaluation dédiée.",
+ "relu": "2026-11-23"
 }

@@ -26,11 +26,21 @@
   "Allergie au gadolinium ou aux produits de contraste"
  ],
  "bras": [
-  {"nom": "NNC6019-0001, dose 1", "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"},
-  {"nom": "NNC6019-0001, dose 2", "traitement": "Perfusion IV toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"},
-  {"nom": "Placebo", "traitement": "Perfusion IV de placebo toutes les 4 semaines, en plus du traitement standard, jusqu'à la semaine 52"}
+  {
+   "nom": "NNC6019-0001 (coramitug), dose 1",
+   "traitement": "Coramitug 10 mg/kg en perfusion IV toutes les 4 semaines jusqu'à la semaine 52, en plus du traitement standard (dose d'après la publication)"
+  },
+  {
+   "nom": "NNC6019-0001 (coramitug), dose 2",
+   "traitement": "Coramitug 60 mg/kg en perfusion IV toutes les 4 semaines jusqu'à la semaine 52, en plus du traitement standard (dose d'après la publication)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Perfusion IV de placebo toutes les 4 semaines jusqu'à la semaine 52, en plus du traitement standard"
+  }
  ],
  "duree": "Environ 64 semaines",
  "critere": "Variation du test de marche de 6 minutes et du NT-proBNP entre l'inclusion et la semaine 52.",
- "resultats": "Dans l'essai de phase 2 publié (Circulation 2025), 104 participants (âge médian 77 ans, 93 % d'hommes, 13 % de forme héréditaire) ont reçu coramitug 10 mg/kg (n=34), 60 mg/kg (n=35) ou placebo (n=35) toutes les 4 semaines pendant 52 semaines. Le NT-proBNP médian initial était de 1985 pg/mL, et 90 % des patients recevaient déjà un traitement de fond (tafamidis 84 %). À la semaine 52, 60 mg/kg réduisait le NT-proBNP de 48 % vs placebo (IC 95 % -65 % à -22 % ; p=0,0017). La variation du test de marche de 6 minutes n'était pas différente du placebo, avec l'une ou l'autre dose. La dose de 60 mg/kg était associée à une amélioration de paramètres échocardiographiques fonctionnels et bien tolérée. Les auteurs concluent à une réduction significative du NT-proBNP sans effet significatif sur le test de marche en 52 semaines."
+ "resultats": "Dans l'essai de phase 2 publié (Circulation 2025), 104 participants (âge médian 77 ans, 93 % d'hommes, 13 % de forme héréditaire) ont reçu coramitug 10 mg/kg (n=34), 60 mg/kg (n=35) ou placebo (n=35) toutes les 4 semaines pendant 52 semaines. Le NT-proBNP médian initial était de 1985 pg/mL, et 90 % des patients recevaient déjà un traitement de fond (tafamidis 84 %). À la semaine 52, 60 mg/kg réduisait le NT-proBNP de 48 % vs placebo (IC 95 % -65 % à -22 % ; p=0,0017). La variation du test de marche de 6 minutes n'était pas différente du placebo, avec l'une ou l'autre dose. La dose de 60 mg/kg était associée à une amélioration de paramètres échocardiographiques fonctionnels et bien tolérée. Les auteurs concluent à une réduction significative du NT-proBNP sans effet significatif sur le test de marche en 52 semaines.",
+ "relu": "2026-11-23"
 }

@@ -23,11 +23,24 @@
   "Dysfonction digestive non contrôlée pouvant gêner l'absorption, consommation d'alcool ou de drogues"
  ],
  "bras": [
-  {"nom": "Partie 1 : deucrictibant XR", "traitement": "Comprimé XR oral, dose et rythme non précisés"},
-  {"nom": "Partie 1 : placebo", "traitement": "Placebo"},
-  {"nom": "Partie 2 : deucrictibant soft capsule contre placebo", "traitement": "Capsule molle à la demande lors d'une crise, selon une séquence en double aveugle ; détails non précisés"},
-  {"nom": "Partie 3 : extension ouverte", "traitement": "Deucrictibant, dose non précisée"}
+  {
+   "nom": "Partie 1 : deucrictibant XR",
+   "traitement": "Deucrictibant XR 40 mg par voie orale (comprimé), pendant 12 semaines, randomisation 1:1 (environ 24 participants)"
+  },
+  {
+   "nom": "Partie 1 : placebo",
+   "traitement": "Placebo en comprimé, pendant 12 semaines"
+  },
+  {
+   "nom": "Partie 2 : capsule molle contre placebo",
+   "traitement": "Deucrictibant 20 mg en capsule molle ou placebo, en croisement (2 périodes), pour 2 crises éligibles"
+  },
+  {
+   "nom": "Partie 3 : extension ouverte",
+   "traitement": "Deucrictibant 20 mg en capsule molle pour toutes les crises, en ouvert"
+  }
  ],
  "duree": "Partie 1 : 12 semaines ; partie 3 : en moyenne environ 36 semaines",
- "critere": "Partie 1 : nombre de crises confirmées par l'investigateur, normalisé par le temps, sur 12 semaines. Partie 2 : délai de soulagement des symptômes (impression globale « mieux » au moins) dans les 12 heures. Partie 3 : événements indésirables."
+ "critere": "Partie 1 : nombre de crises confirmées par l'investigateur, normalisé par le temps, sur 12 semaines. Partie 2 : délai de soulagement des symptômes (impression globale « mieux » au moins) dans les 12 heures. Partie 3 : événements indésirables.",
+ "relu": "2026-11-23"
 }

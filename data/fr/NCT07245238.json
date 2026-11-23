@@ -18,11 +18,9 @@
   "Chevauchement avec une autre connectivite",
   "Grossesse ou allaitement",
   "Patient alité et dépendant",
-  "Cancer actif",
+  "Cancer actif ou infection active nécessitant des antibiotiques systémiques",
   "Maladie sévère ou non contrôlée (diabète, asthme, cardiopathie, thyroïdienne, hépatobiliaire dont cholestase, créatininémie > 1,4 mg/dL)",
-  "Infection active nécessitant des antibiotiques systémiques",
-  "Allergie à l'urée ou aux cannabinoïdes; usage de drogues illicites",
-  "Antécédent de schizophrénie, trouble de l'humeur ou anxieux actif",
+  "Allergie à l'urée ou aux cannabinoïdes ; usage de drogues illicites ; schizophrénie, trouble de l'humeur ou anxieux actif",
   "Autre dermatose ou maladie systémique responsable de prurit"
  ],
  "bras": [
@@ -36,5 +34,6 @@
   }
  ],
  "duree": "2 semaines par période de traitement (schéma croisé; durée totale non précisée)",
- "critere": "Variation de l'intensité du prurit sur échelle visuelle analogique (EVA) par rapport à l'inclusion, comparée entre les groupes, à 2 semaines."
+ "critere": "Variation de l'intensité du prurit sur échelle visuelle analogique (EVA) par rapport à l'inclusion, comparée entre les groupes, à 2 semaines.",
+ "relu": "2026-11-23"
 }

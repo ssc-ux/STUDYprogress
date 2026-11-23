@@ -19,8 +19,12 @@
   "Autre médicament expérimental ou autre essai en cours"
  ],
  "bras": [
-  {"nom": "Efgartigimod", "traitement": "Efgartigimod, dose et rythme non précisés, en ouvert"}
+  {
+   "nom": "Efgartigimod",
+   "traitement": "Efgartigimod, dose et rythme non précisés, en ouvert"
+  }
  ],
  "duree": "Jusqu'à 60 semaines",
- "critere": "Fréquence et sévérité des événements indésirables, des constantes vitales et des examens biologiques, jusqu'à 60 semaines."
+ "critere": "Fréquence et sévérité des événements indésirables, des constantes vitales et des examens biologiques, jusqu'à 60 semaines.",
+ "relu": "2026-11-23"
 }
