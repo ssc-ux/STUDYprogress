@@ -21,12 +21,25 @@
   "Refus de respecter les procédures de l'étude"
  ],
  "bras": [
-  {"nom": "Phase 1 : escalade de dose", "traitement": "NTLA-2002 en dose unique au jour 1, trois cohortes de dose"},
-  {"nom": "Phase 2 : NTLA-2002", "traitement": "NTLA-2002 en dose unique au jour 1, deux niveaux de dose"},
-  {"nom": "Phase 2 : placebo", "traitement": "Sérum physiologique IV au jour 1"},
-  {"nom": "Sous-étude de passage du placebo et de dosage de suivi", "traitement": "NTLA-2002 en dose unique pour les patients ayant reçu le placebo ou 25 mg"}
+  {
+   "nom": "Phase 1 : escalade de dose",
+   "traitement": "NTLA-2002 en dose unique au jour 1, trois cohortes de dose"
+  },
+  {
+   "nom": "Phase 2 : NTLA-2002",
+   "traitement": "NTLA-2002 en dose unique au jour 1, deux niveaux de dose"
+  },
+  {
+   "nom": "Phase 2 : placebo",
+   "traitement": "Sérum physiologique IV au jour 1"
+  },
+  {
+   "nom": "Sous-étude de passage du placebo et de dosage de suivi",
+   "traitement": "NTLA-2002 en dose unique pour les patients ayant reçu le placebo ou 25 mg"
+  }
  ],
  "duree": "104 semaines",
  "critere": "Tolérance (événements indésirables, toxicités dose-limitantes) jusqu'à la semaine 104, et nombre de crises d'AOH par mois entre les semaines 1 et 16.",
- "resultats": "Dans la partie de phase 2 (NEJM 2024), 27 adultes ont été randomisés 2:2:1 : NTLA-2002 25 mg (n=10), 50 mg (n=11) ou placebo (n=6), en dose unique. Du jour 1 à la semaine 16, le taux mensuel moyen estimé de crises était de 0,70 (IC 95 % 0,25-1,98) avec 25 mg, 0,65 (0,24-1,76) avec 50 mg et 2,82 (0,80-9,89) sous placebo, soit une baisse de 75 % et 77 % vs placebo. Sans traitement additionnel, 4 patients sur 10 (40 %) à 25 mg et 8 sur 11 (73 %) à 50 mg étaient sans crise sur cette période. Les effets indésirables les plus fréquents sous NTLA-2002 étaient céphalées, fatigue et rhinopharyngite. Le taux plasmatique de kallicréine totale baissait en moyenne de 55 % (25 mg) et 86 % (50 mg) à la semaine 16, sans changement sous placebo. Les auteurs concluent que NTLA-2002 réduit les crises et la kallicréine de façon durable, ce qui justifie un essai de phase 3."
+ "resultats": "Dans la partie de phase 2 (NEJM 2024), 27 adultes ont été randomisés 2:2:1 : NTLA-2002 25 mg (n=10), 50 mg (n=11) ou placebo (n=6), en dose unique. Du jour 1 à la semaine 16, le taux mensuel moyen estimé de crises était de 0,70 (IC 95 % 0,25-1,98) avec 25 mg, 0,65 (0,24-1,76) avec 50 mg et 2,82 (0,80-9,89) sous placebo, soit une baisse de 75 % et 77 % vs placebo. Sans traitement additionnel, 4 patients sur 10 (40 %) à 25 mg et 8 sur 11 (73 %) à 50 mg étaient sans crise sur cette période. Les effets indésirables les plus fréquents sous NTLA-2002 étaient céphalées, fatigue et rhinopharyngite. Le taux plasmatique de kallicréine totale baissait en moyenne de 55 % (25 mg) et 86 % (50 mg) à la semaine 16, sans changement sous placebo. Les auteurs concluent que NTLA-2002 réduit les crises et la kallicréine de façon durable, ce qui justifie un essai de phase 3.",
+ "relu": "2026-11-23"
 }

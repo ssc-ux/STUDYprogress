@@ -19,9 +19,13 @@
   "Patient non à jeun ou hyperglycémie (> 11,1 mmol/L) modifiant la biodistribution du FDG"
  ],
  "bras": [
-  {"nom": "Patients suspects d'ACG", "traitement": "Échographie des artères temporales et TEP/TDM numérique au FDG"}
+  {
+   "nom": "Patients suspects d'ACG",
+   "traitement": "Échographie des artères temporales et TEP/TDM numérique au FDG"
+  }
  ],
  "duree": "2 ans",
  "critere": "Performance diagnostique du TEP/TDM numérique au FDG, évaluée sur 2 ans.",
- "resultats": "Dans l'étude prospective publiée (Eur J Nucl Med Mol Imaging 2026), 84 des 92 sujets inclus ont été analysés (âge moyen 72 ans, CRP moyenne 70,7 mg/L, suivi moyen 27 mois). Une maladie de Horton a été diagnostiquée chez 44 patients sur 84, le diagnostic clinique à 6 mois servant de référence. La sensibilité du TEP/TDM passait de 50,0 % (IC 95 % 34,6-65,4) à 86,4 % (72,7-94,8) lorsque l'atteinte des artères crâniennes était prise en compte, pour une spécificité de 100 % (91,2-100). L'échographie Doppler avait une sensibilité de 68,2 % (52,4-81,4) et une spécificité de 92,5 % (79,6-98,4). Les auteurs concluent que le TEP/TDM numérique au FDG est très performant pour la forme crânienne et pourrait être utilisé en première intention."
+ "resultats": "Dans l'étude prospective publiée (Eur J Nucl Med Mol Imaging 2026), 84 des 92 sujets inclus ont été analysés (âge moyen 72 ans, CRP moyenne 70,7 mg/L, suivi moyen 27 mois). Une maladie de Horton a été diagnostiquée chez 44 patients sur 84, le diagnostic clinique à 6 mois servant de référence. La sensibilité du TEP/TDM passait de 50,0 % (IC 95 % 34,6-65,4) à 86,4 % (72,7-94,8) lorsque l'atteinte des artères crâniennes était prise en compte, pour une spécificité de 100 % (91,2-100). L'échographie Doppler avait une sensibilité de 68,2 % (52,4-81,4) et une spécificité de 92,5 % (79,6-98,4). Les auteurs concluent que le TEP/TDM numérique au FDG est très performant pour la forme crânienne et pourrait être utilisé en première intention.",
+ "relu": "2026-11-23"
 }
