@@ -24,8 +24,12 @@
   "Grossesse ou allaitement, anomalie hépatique, insuffisance rénale modérée ou sévère"
  ],
  "bras": [
-  {"nom": "Deucrictibant", "traitement": "Deucrictibant en comprimé à libération prolongée, une fois par jour par voie orale ; dose non précisée"}
+  {
+   "nom": "Deucrictibant",
+   "traitement": "Deucrictibant en comprimé à libération prolongée, une fois par jour par voie orale ; dose non précisée"
+  }
  ],
  "duree": "Jusqu'à 240 semaines",
- "critere": "Nombre de participants ayant des événements indésirables survenus sous traitement (dont graves, d'intérêt particulier ou conduisant à l'arrêt), avec suivi des constantes et de la biologie, jusqu'à la semaine 240."
+ "critere": "Nombre de participants ayant des événements indésirables survenus sous traitement (dont graves, d'intérêt particulier ou conduisant à l'arrêt), avec suivi des constantes et de la biologie, jusqu'à la semaine 240.",
+ "relu": "2026-11-23"
 }

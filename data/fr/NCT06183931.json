@@ -25,9 +25,16 @@
   "Polyneuropathie de stade PND IV"
  ],
  "bras": [
-  {"nom": "ALXN2220", "traitement": "ALXN2220 en perfusion IV toutes les 4 semaines, dose adaptée au poids, pendant 30 à 48 mois"},
-  {"nom": "Placebo", "traitement": "Placebo en perfusion IV toutes les 4 semaines, pendant 30 à 48 mois"}
+  {
+   "nom": "ALXN2220",
+   "traitement": "ALXN2220 en perfusion IV toutes les 4 semaines, dose adaptée au poids, pendant 30 à 48 mois"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo en perfusion IV toutes les 4 semaines, pendant 30 à 48 mois"
+  }
  ],
  "duree": "Au moins 30 mois, jusqu'à 48 mois maximum",
- "critere": "Nombre total d'événements, décès toutes causes et événements cliniques cardiovasculaires, pendant la période de traitement en aveugle, jusqu'à 48 mois."
+ "critere": "Nombre total d'événements, décès toutes causes et événements cliniques cardiovasculaires, pendant la période de traitement en aveugle, jusqu'à 48 mois.",
+ "relu": "2026-11-23"
 }

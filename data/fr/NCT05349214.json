@@ -26,18 +26,19 @@
  "bras": [
   {
    "nom": "Bras A : ianalumab, niveau d'exposition 1",
-   "traitement": "Ianalumab (VAY736) par voie sous-cutanée, rythme mensuel ou trimestriel selon le bras (dose non précisée)"
+   "traitement": "Ianalumab (VAY736) 300 mg par voie sous-cutanée, mensuel (d'après la publication)"
   },
   {
    "nom": "Bras B : ianalumab, niveau d'exposition 2",
-   "traitement": "Ianalumab (VAY736) par voie sous-cutanée, second schéma d'administration"
+   "traitement": "Ianalumab (VAY736) 300 mg par voie sous-cutanée, tous les 3 mois (d'après la publication)"
   },
   {
    "nom": "Bras C : placebo",
    "traitement": "Placebo sous-cutané"
   }
  ],
- "duree": "Non précisé (critère principal à 48 semaines)",
+ "duree": "52 semaines (critère principal à 48 semaines)",
  "critere": "Variation de l'ESSDAI entre l'inclusion et la semaine 48",
- "resultats": "NEPTUNUS-2 a randomisé 504 patients : ianalumab 300 mg par mois (n=168), ianalumab 300 mg tous les 3 mois (n=167) ou placebo (n=169). La variation de l'ESSDAI à la semaine 48 était significativement plus favorable sous ianalumab mensuel que sous placebo, avec une différence de -1,0 point (IC 95 % -2,0 à 0,0 ; p = 0,04). Il n'y avait pas de différence significative sur le score SSSD ou ESSPRI à la semaine 48 (premier critère secondaire hiérarchisé). Les événements indésirables graves étaient d'incidence similaire sous ianalumab et sous placebo. Les réactions locales au point d'injection et les réactions systémiques liées à l'injection, non graves, étaient plus fréquentes dans les groupes ianalumab. Les résultats publiés (NEJM 2026) regroupent NEPTUNUS-1 et -2 : les auteurs concluent à une diminution plus importante de l'activité de la maladie avec 300 mg par mois, sans bénéfice significatif sur les symptômes rapportés par les patients."
+ "resultats": "NEPTUNUS-2 a randomisé 504 patients : ianalumab 300 mg par mois (n=168), ianalumab 300 mg tous les 3 mois (n=167) ou placebo (n=169). La variation de l'ESSDAI à la semaine 48 était significativement plus favorable sous ianalumab mensuel que sous placebo, avec une différence de -1,0 point (IC 95 % -2,0 à 0,0 ; p = 0,04). Il n'y avait pas de différence significative sur le score SSSD ou ESSPRI à la semaine 48 (premier critère secondaire hiérarchisé). Les événements indésirables graves étaient d'incidence similaire sous ianalumab et sous placebo. Les réactions locales au point d'injection et les réactions systémiques liées à l'injection, non graves, étaient plus fréquentes dans les groupes ianalumab. Les résultats publiés (NEJM 2026) regroupent NEPTUNUS-1 et -2 : les auteurs concluent à une diminution plus importante de l'activité de la maladie avec 300 mg par mois, sans bénéfice significatif sur les symptômes rapportés par les patients.",
+ "relu": "2026-11-23"
 }
