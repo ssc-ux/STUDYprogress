@@ -1,0 +1,30 @@
+{
+ "h": "fab11f696f53",
+ "date": "2026-11-23",
+ "titre": "Anticorps anti-adalimumab chez l'enfant atteint d'arthrite juvénile ou d'uvéite chronique",
+ "question": "Quelle proportion d'enfants développe des anticorps anti-adalimumab, et à quel moment, après le début du traitement ?",
+ "contexte": "L'adalimumab, anti-TNF, est très utilisé dans l'arthrite juvénile idiopathique (AJI) et dans l'uvéite chronique non infectieuse de l'enfant, notamment en cas d'échec du méthotrexate. Une partie des enfants présente une réponse insuffisante, une perte de réponse secondaire ou des poussées sous traitement.\n\nLa formation d'anticorps anti-adalimumab peut abaisser les concentrations sériques du médicament et réduire son efficacité. Les données pédiatriques sur la fréquence, le délai d'apparition et la portée clinique de ces anticorps restent limitées et hétérogènes.\n\nLe méthotrexate associé pourrait réduire l'immunogénicité, comme chez l'adulte, mais cela est mal établi chez l'enfant. Le dosage des concentrations et des anticorps pourrait aider à repérer les patients à risque d'échec secondaire ou de rechute.\n\nCette cohorte observationnelle monocentrique de l'hôpital pédiatrique Meyer (Florence, Italie) suivra 60 enfants naïfs d'adalimumab pendant 24 mois. Des prélèvements sanguins supplémentaires de 5 mL sont réalisés à l'inclusion et à 3, 6, 12, 18 et 24 mois, lors des visites habituelles. Les anticorps et la concentration d'adalimumab sont mesurés par résonance plasmonique de surface, avec un seuil de positivité de 15 unités de réponse. Le traitement reste décidé selon la pratique courante.",
+ "interet": "Les résultats préciseront à quelle fréquence et à quel moment l'immunogénicité survient chez l'enfant, et le rôle du méthotrexate associé. Ils pourraient justifier un suivi pharmacologique systématique de l'adalimumab dans l'AJI et l'uvéite.",
+ "profil": "Des enfants de 2 à 17 ans atteints d'AJI et/ou d'uvéite chronique non infectieuse, qui débutent l'adalimumab.",
+ "inclusion": [
+  "Diagnostic d'AJI (critères ILAR) et/ou d'uvéite chronique non infectieuse (critères SUN) posé depuis le 1er janvier 2015",
+  "Âge au diagnostic entre 2 et 16 ans",
+  "Indication d'adalimumab posée par le médecin, sans exposition antérieure",
+  "Consentement écrit des parents ou tuteurs et assentiment des enfants de 7 ans et plus"
+ ],
+ "exclusion": [
+  "Âge ≥ 18 ans à l'inclusion ou < 24 mois",
+  "Autre diagnostic que l'AJI ou l'uvéite chronique non infectieuse",
+  "Contre-indication à l'adalimumab (tuberculose, maladie démyélinisante, antécédent de cancer)",
+  "Exposition antérieure à l'adalimumab",
+  "Poids < 12 kg"
+ ],
+ "bras": [
+  {
+   "nom": "Enfants traités par adalimumab",
+   "traitement": "Adalimumab débuté selon la pratique courante, avec prélèvements sanguins supplémentaires à l'inclusion puis à 3, 6, 12, 18 et 24 mois"
+  }
+ ],
+ "duree": "24 mois",
+ "critere": "Proportion d'enfants développant des anticorps anti-adalimumab et délai jusqu'à leur première détection, jusqu'à 24 mois"
+}

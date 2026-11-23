@@ -1,0 +1,31 @@
+{
+ "h": "85e3f6f2bb70",
+ "date": "2026-11-23",
+ "titre": "Marqueurs pronostiques de progression de l'amylose cardiaque à TTR sous tafamidis",
+ "question": "Les marqueurs mesurés à 12 mois sous tafamidis prédisent-ils la mortalité et les hospitalisations cardiovasculaires dans l'amylose cardiaque à transthyrétine ?",
+ "contexte": "L'amylose cardiaque à transthyrétine (ATTR-CM), sauvage ou héréditaire, est une cause sous-diagnostiquée d'insuffisance cardiaque à fraction d'éjection préservée. Le tafamidis, stabilisateur de la transthyrétine, a réduit la mortalité toutes causes et les hospitalisations cardiovasculaires dans l'essai ATTR-ACT.\n\nEn pratique, on ne sait pas bien comment juger la réponse au traitement chez un patient donné. Le DFG, le NT-proBNP, la classe NYHA et le score KCCQ évoluent au cours du suivi, mais leur valeur pronostique après 12 mois de traitement reste mal définie. La question est d'autant plus importante que d'autres stabilisateurs et traitements de silencing sont désormais disponibles et que le changement ou l'association de traitements se discute.\n\nCette étude de cohorte rétrospective, promue par Pfizer, utilise la base de données de santé américaine Truveta. Elle inclut des adultes avec un diagnostic d'ATTR-CM et au moins une délivrance de tafamidis, entre juillet 2019 et juin 2026. Les patients ayant une amylose AL, une neuropathie amyloïde, une greffe, un myélome ou un autre traitement spécifique antérieur sont exclus.\n\nElle évalue l'effet des marqueurs mesurés au mois 12 sur le délai de survenue du décès toutes causes, du décès cardiovasculaire et de la première hospitalisation. Il s'agit d'une analyse de données de soins courants, sans intervention.",
+ "interet": "L'étude pourrait aider à définir quels marqueurs suivre sous tafamidis pour repérer les patients dont la maladie progresse malgré le traitement. Elle pourrait ainsi orienter les décisions d'intensification ou de changement thérapeutique, avec les limites d'une analyse rétrospective de données de soins.",
+ "profil": "Des adultes américains atteints d'amylose cardiaque à transthyrétine et traités par tafamidis, identifiés dans une base de données de santé.",
+ "inclusion": [
+  "Au moins 1 diagnostic hospitalier ou 2 diagnostics ambulatoires (à 30 jours d'intervalle) d'ATTR-CM, ou d'amylose limitée à un organe",
+  "Au moins une délivrance de tafamidis",
+  "Âge ≥ 18 ans à la date index",
+  "Au moins 6 mois d'activité dans la base avant la date index"
+ ],
+ "exclusion": [
+  "Diagnostic d'amylose AL",
+  "Diagnostic d'amylose à TTR avec polyneuropathie ou traitement par patisiran ou eplontersen",
+  "Greffe hépatique ou cardiaque pendant la période de référence",
+  "Myélome multiple pendant la période de référence",
+  "Traitement de fond antérieur par tafamidis, acoramidis ou vutrisiran",
+  "Traitement évocateur d'amylose AL (melphalan, bortézomib, daratumumab, etc.)"
+ ],
+ "bras": [
+  {
+   "nom": "Patients ATTR-CM traités par tafamidis",
+   "traitement": "Tafamidis, selon la pratique courante (cohorte observationnelle)"
+  }
+ ],
+ "duree": "Suivi de 60 mois ou plus, à partir du mois 12 après le début du tafamidis (juillet 2019 à juin 2026)",
+ "critere": "Délai jusqu'au décès toutes causes, au décès cardiovasculaire et à la première hospitalisation, à partir du mois 12 sous tafamidis"
+}

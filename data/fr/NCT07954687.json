@@ -1,0 +1,36 @@
+{
+ "h": "293a1d2050ce",
+ "date": "2026-11-23",
+ "titre": "Budésonide gastro-résistant chez l'enfant atteint de néphropathie à IgA ou de néphrite du purpura rhumatoïde",
+ "question": "Le budésonide gastro-résistant réduit-il la protéinurie des enfants atteints de néphropathie à IgA ou de néphrite du purpura rhumatoïde, par rapport à un groupe historique traité par la prise en charge habituelle ?",
+ "contexte": "La néphropathie à IgA est la glomérulonéphrite primitive la plus fréquente au monde, en particulier en Asie de l'Est. Dans une série chinoise de 13 519 biopsies rénales, elle représentait 45 % des glomérulonéphrites primitives, et 20 à 40 % des patients évoluent vers l'insuffisance rénale terminale en 20 à 30 ans. Le purpura rhumatoïde (vascularite à IgA) est la vascularite des petits vaisseaux la plus fréquente chez l'enfant, et 20 à 54 % des enfants atteints développent une néphrite. Les deux maladies partagent des dépôts mésangiaux d'IgA et sont considérées comme deux expressions d'un même spectre.\n\nLe traitement standard associe le blocage du système rénine-angiotensine et une corticothérapie, parfois complétée par d'autres immunosuppresseurs. Chez l'enfant, la corticothérapie prolongée expose à un retard de croissance, une obésité, une hypertension, une intolérance au glucose, des troubles du comportement et une insuffisance surrénale. Le budésonide gastro-résistant libère le principe actif dans l'iléon distal, riche en plaques de Peyer, et environ 90 % de la dose absorbée subit un premier passage hépatique : l'effet immunomodulateur est surtout local, avec une exposition systémique limitée. Dans l'essai de phase 3 NefIgArd chez l'adulte, 9 mois de traitement ont réduit la protéinurie d'environ 50 % et ralenti le déclin du DFG ; les recommandations KDIGO 2025 le proposent en traitement de fond pour les patients à risque de progression. Chez l'enfant, les données se limitent à de petites séries rétrospectives sans comparateur.\n\nCette étude monocentrique ouverte comporte un groupe traité inclus de façon prospective (20 enfants, 36 semaines de traitement) et un groupe témoin historique de 20 enfants du même hôpital traités entre 2020 et 2026 sans budésonide, appariés 1:1 sur le sexe, l'âge, la sévérité (protéinurie, DFG) et le score MEST-C d'Oxford. Il n'y a pas de randomisation : les groupes diffèrent par la période, ce qui limite la comparabilité. L'étude est exploratoire, sans calcul de puissance. Le budésonide est utilisé hors AMM chez l'enfant, à une dose adaptée au poids (4 à 16 mg par jour).",
+ "interet": "L'étude pourrait fournir une première comparaison, même non randomisée, du budésonide gastro-résistant à la corticothérapie systémique chez l'enfant. Elle renseignera la faisabilité et la tolérance, notamment sur la croissance, avant un éventuel essai randomisé.",
+ "profil": "Des enfants de 7 à 18 ans atteints de néphropathie à IgA ou de néphrite du purpura rhumatoïde prouvée par biopsie.",
+ "inclusion": [
+  "Âge de 7 à 18 ans, capable d'avaler des gélules",
+  "Néphropathie à IgA ou néphrite du purpura rhumatoïde prouvée par biopsie",
+  "Indication de corticothérapie selon le score MEST-C et la protéinurie persistante sous blocage du système rénine-angiotensine",
+  "DFG estimé ≥ 30 mL/min/1,73 m² (formule de Schwartz)",
+  "Consentement signé (assentiment de l'enfant et accord des parents)"
+ ],
+ "exclusion": [
+  "Infection active nécessitant un traitement antiviral ou antibiotique",
+  "Hypertension sévère ou diabète non contrôlés",
+  "Autre maladie auto-immune, déficit immunitaire primitif ou cancer",
+  "Antécédent de transplantation d'organe",
+  "Infection chronique active (EBV, CMV, tuberculose) pouvant être aggravée par les corticoïdes",
+  "Insuffisance hépatique sévère, insuffisance cardiaque ou insuffisance rénale terminale"
+ ],
+ "bras": [
+  {
+   "nom": "Budésonide (prospectif)",
+   "traitement": "Budésonide gastro-résistant 4, 8, 12 ou 16 mg/j selon le poids, avant le petit-déjeuner, 36 semaines, avec traitement standard sans corticoïdes systémiques"
+  },
+  {
+   "nom": "Témoin historique (rétrospectif)",
+   "traitement": "Prise en charge habituelle, en général prednisone 1,5 à 2 mg/kg/j (max 60 mg/j) avec IEC ou ARA2, sans budésonide"
+  }
+ ],
+ "duree": "36 semaines (10 visites)",
+ "critere": "Variation de la protéinurie des 24 heures entre l'inclusion et la semaine 36"
+}

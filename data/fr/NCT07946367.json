@@ -1,0 +1,38 @@
+{
+ "h": "9f00d56a6741",
+ "date": "2026-11-23",
+ "titre": "DFI205, anticorps bispécifique anti-CD20/CD40, dans les maladies auto-immunes systémiques",
+ "question": "Le DFI205, qui cible à la fois les lymphocytes B et T, est-il sûr et actif chez des adultes atteints de maladie auto-immune systémique réfractaire ?",
+ "contexte": "La polyarthrite rhumatoïde, le lupus systémique, la sclérodermie systémique et les myopathies inflammatoires restent difficiles à contrôler chez une partie des patients, malgré plusieurs lignes de traitement immunosuppresseur ou biologique. Ces maladies partagent une dysrégulation des lymphocytes B (production d'auto-anticorps) et des lymphocytes T (aide aux lymphocytes B, inflammation tissulaire).\n\nLa déplétion en lymphocytes B par anti-CD20 est utilisée depuis longtemps, mais son efficacité est partielle et variable selon les maladies. Le blocage de la voie CD40/CD40L, qui contrôle l'interaction entre lymphocytes T et B, est une autre piste explorée dans le lupus et d'autres maladies auto-immunes.\n\nLe DFI205 est un anticorps bispécifique expérimental qui se lie à CD20 et à CD40, pour agir simultanément sur les deux versants de la réponse immune. Cette étude est un premier essai chez l'humain, de phase 1/2a, promu par la société Diabetes Free (investigateur principal : G. Schett, Erlangen).\n\nLa phase 1 testera des doses uniques croissantes pour établir la tolérance. La dose retenue sera ensuite administrée chaque mois en phase 2a. Les critères principaux portent sur la tolérance, la reconstitution immunitaire et l'immunogénicité du produit. Il s'agit d'un essai non randomisé, sans comparateur, qui ne permettra pas de conclure sur l'efficacité mais qui doit définir la dose et le profil de sécurité d'une approche encore jamais testée chez l'homme.",
+ "interet": "Si la tolérance est satisfaisante, cet anticorps pourrait ouvrir une option pour les patients réfractaires à plusieurs lignes de traitement dans plusieurs maladies auto-immunes. À ce stade, l'étude ne renseigne que sur la sécurité, la dose et les premiers signes d'activité.",
+ "profil": "Des adultes atteints de polyarthrite rhumatoïde, de lupus, de sclérodermie systémique ou de myopathie inflammatoire, actives malgré au moins deux lignes de traitement.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Polyarthrite rhumatoïde (ACPA et/ou FR positifs), lupus (auto-anticorps positifs), sclérodermie systémique ou myopathie inflammatoire (anticorps spécifiques positifs)",
+  "Maladie active malgré au moins 2 lignes de traitement standard",
+  "Durée de maladie ≥ 6 mois (≤ 5 ans pour la sclérodermie, non éligible ou refusant une autogreffe)",
+  "Traitement de fond stable depuis au moins 4 semaines",
+  "Capacité à consentir et à suivre le protocole"
+ ],
+ "exclusion": [
+  "Autre maladie auto-immune non rhumatologique nécessitant une immunothérapie",
+  "Hépatopathie, atteinte cardiaque sévère non résolue, DFG < 30 mL/min/1,73 m²",
+  "Infection active (hépatites B et C, VIH, HTLV, tuberculose) ou infection sévère récente",
+  "Cancer dans les 5 ans précédents (hors carcinome cutané réséqué)",
+  "Déficit immunitaire ou hypogammaglobulinémie",
+  "Traitement antérieur anti-CD19, anti-CD38, lymphocytes T adoptifs, thérapie génique ou greffe de cellules souches",
+  "Grossesse, allaitement ou absence de contraception efficace"
+ ],
+ "bras": [
+  {
+   "nom": "Phase 1, doses croissantes",
+   "traitement": "DFI205 en perfusion intraveineuse unique, à doses croissantes"
+  },
+  {
+   "nom": "Phase 2a, doses répétées",
+   "traitement": "DFI205 en perfusion intraveineuse mensuelle à la dose recommandée pour la phase 2"
+  }
+ ],
+ "duree": "Jusqu'à 1 an après l'administration",
+ "critere": "Tolérance du DFI205, reconstitution immunitaire et réponse immune contre le produit, jusqu'à 1 an après l'administration"
+}

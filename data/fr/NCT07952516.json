@@ -1,0 +1,37 @@
+{
+ "h": "17dc7a364f52",
+ "date": "2026-11-23",
+ "titre": "ESG206, anticorps anti-BAFF-R, contre placebo dans le purpura thrombopénique immunologique primaire",
+ "question": "L'ESG206, anticorps anti-BAFF-R, est-il efficace et sûr chez l'adulte atteint de PTI primaire par rapport au placebo ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune où des autoanticorps et des lymphocytes T cytotoxiques détruisent les plaquettes et en freinent la production. Les traitements de première ligne (corticoïdes, immunoglobulines IV) sont souvent suivis de rechutes, et de nombreux patients ont besoin d'un traitement d'entretien.\n\nLes options de seconde ligne comprennent les agonistes du récepteur de la thrombopoïétine, le rituximab, le fostamatinib ou la splénectomie. Chacune a ses limites : traitement continu, perte de réponse à l'arrêt, effets indésirables ou réponse insuffisante.\n\nLe récepteur BAFF-R est exprimé sur les lymphocytes B matures et leur survie en dépend. Le cibler pourrait réduire les cellules B productrices d'autoanticorps de façon plus sélective qu'un anti-CD20. L'ESG206 est un anticorps monoclonal anti-BAFF-R développé par Shanghai Escugen Biotechnology.\n\nCet essai de phase 2 randomisé, en double aveugle et contre placebo, prévoit d'inclure environ 75 adultes dans une trentaine de centres en Chine. Il compare deux doses d'ESG206 (faible et forte) à un placebo. Le critère principal est le taux de réponse plaquettaire soutenue au mois 6.",
+ "interet": "Il apportera les premières données de phase 2 sur le ciblage de BAFF-R dans le PTI et sur la relation dose-réponse. Il pourrait ouvrir une option de ciblage B sélectif.",
+ "profil": "Des adultes atteints de PTI primaire en phase active.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "Diagnostic confirmé de PTI",
+  "Maladie active au dépistage",
+  "Consentement écrit éclairé"
+ ],
+ "exclusion": [
+  "PTI secondaire ou causes secondaires documentées de thrombopénie non liée aux cellules B",
+  "Anomalie de la coagulation ou traitement antiplaquettaire ou anticoagulant",
+  "Infection cliniquement significative, cancer ou maladie non contrôlée",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "ESG206 dose faible",
+   "traitement": "ESG206, dose faible (schéma non précisé)"
+  },
+  {
+   "nom": "ESG206 dose forte",
+   "traitement": "ESG206, dose forte (schéma non précisé)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
+ ],
+ "duree": "Environ 25 semaines",
+ "critere": "Taux de réponse plaquettaire soutenue au mois 6 (environ 25 semaines)."
+}

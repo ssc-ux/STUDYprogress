@@ -1,0 +1,32 @@
+{
+ "h": "dc9a650749e0",
+ "date": "2026-11-23",
+ "titre": "Zanubrutinib dans l'anémie hémolytique auto-immune à auto-anticorps chauds en rechute ou réfractaire",
+ "question": "Le zanubrutinib est-il efficace chez les patients atteints d'anémie hémolytique auto-immune (AHAI) à auto-anticorps chauds en rechute ou réfractaire ?",
+ "contexte": "L'anémie hémolytique auto-immune à auto-anticorps chauds est une maladie rare et hétérogène où des auto-anticorps détruisent les globules rouges. Le traitement de première ligne repose sur les corticoïdes, souvent associés au rituximab, mais les rechutes sont fréquentes et certains patients ne répondent pas.\n\nEn seconde ligne, on utilise la ciclosporine, le cyclophosphamide, le rituximab, l'azathioprine ou la splénectomie, avec des résultats variables et une toxicité non négligeable. Il existe un besoin de traitements ciblés et mieux tolérés.\n\nLa tyrosine kinase de Bruton (BTK) intervient dans la signalisation du récepteur B et dans la production d'auto-anticorps. Les inhibiteurs de BTK, déjà utilisés dans les hémopathies B, ont contrôlé des AHAI secondaires à la leucémie lymphoïde chronique, et des essais de phase 2 de plusieurs inhibiteurs (ibrutinib, acalabrutinib, rilzabrutinib) sont en cours dans l'AHAI.\n\nLe zanubrutinib est un inhibiteur de BTK de seconde génération, plus sélectif que l'ibrutinib sur BTK, avec moins d'effets hors cible. Cet essai de phase 2 à un seul bras, mené dans un centre chinois (promoteur : Chen Miao), a inclus 21 adultes en rechute ou sans réponse aux corticoïdes. Ils reçoivent 160 mg deux fois par jour pendant au moins 3 mois, poursuivis jusqu'à 2 ans chez les répondeurs. Les critères principaux sont les taux de réponse globale et de réponse complète à 3 et 6 mois.",
+ "interet": "Les résultats pourraient dire si un inhibiteur de BTK de seconde génération est une option dans l'AHAI chaude réfractaire, mais l'effectif est petit et sans comparateur.",
+ "profil": "Des adultes atteints d'AHAI à auto-anticorps chauds ou de syndrome d'Evans, sans réponse ou en rechute après corticoïdes.",
+ "inclusion": [
+  "Âge ≥ 18 ans",
+  "AHAI chaude ou syndrome d'Evans, primaire ou secondaire à une connectivite",
+  "Pour les formes secondaires : pas d'autre indication de traitement systémique de la connectivite",
+  "Absence de réponse ou rechute après corticoïdes",
+  "ALT, AST et créatinine < 2 fois la normale",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Autre atteinte d'organe importante de la connectivite",
+  "Infection ou saignement non contrôlé malgré le traitement standard",
+  "Infection active par le VIH, le VHC ou le VHB non contrôlée",
+  "Cancer avancé ou lymphome non contrôlé associé",
+  "Traitements interdits ne respectant pas les conditions de stabilité de dose précisées au protocole"
+ ],
+ "bras": [
+  {
+   "nom": "Zanubrutinib",
+   "traitement": "Zanubrutinib 160 mg par voie orale deux fois par jour, au moins 3 mois, puis jusqu'à 2 ans chez les répondeurs"
+  }
+ ],
+ "duree": "Au moins 3 mois, jusqu'à 2 ans chez les répondeurs",
+ "critere": "Taux de réponse globale et taux de réponse complète à 3 et 6 mois."
+}

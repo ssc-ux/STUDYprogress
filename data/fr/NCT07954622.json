@@ -1,0 +1,37 @@
+{
+ "h": "70e9eb7fba6f",
+ "date": "2026-11-23",
+ "titre": "HS-10561, inhibiteur de BTK, à deux doses dans le PTI chronique de l'adulte",
+ "question": "Le HS-10561, inhibiteur oral de BTK, à 15 mg ou 30 mg par jour est-il efficace et sûr chez l'adulte atteint de PTI chronique ?",
+ "contexte": "Le purpura thrombopénique immunologique (PTI) est une maladie auto-immune acquise caractérisée par une thrombopénie et un syndrome hémorragique cutanéo-muqueux. Malgré plusieurs options thérapeutiques, la réponse est souvent insuffisante et beaucoup de patients nécessitent un traitement d'entretien prolongé.\n\nLa tyrosine kinase de Bruton (BTK) joue un rôle clé dans l'activation des lymphocytes B et la production d'autoanticorps, ainsi que dans la phagocytose des plaquettes opsonisées par les macrophages. Son inhibition cible donc deux mécanismes de la maladie. Le rilzabrutinib est un inhibiteur de BTK qui a déjà montré des résultats dans le PTI.\n\nLe HS-10561 est un inhibiteur de BTK oral développé par Jiangsu Hansoh Pharmaceutical. Les études précliniques et une étude de phase 1 en soutiennent le développement dans le PTI.\n\nCet essai de phase 2 multicentrique, randomisé et ouvert, prévoit d'inclure environ 60 adultes atteints de PTI chronique ayant déjà répondu à un traitement de première ligne sans maintenir la réponse. Ils reçoivent 15 mg ou 30 mg par jour pendant 24 semaines, avec une extension optionnelle jusqu'à 52 semaines. L'efficacité est suivie par la numération plaquettaire, le score hémorragique de l'OMS et le recours à un traitement de secours.",
+ "interet": "Il pourrait établir la dose et le signal d'efficacité du HS-10561 dans le PTI, et ajouter un inhibiteur de BTK oral à l'arsenal des traitements d'entretien.",
+ "profil": "Des adultes de 18 à 80 ans atteints de PTI primaire chronique, en rechute ou sans réponse maintenue après un traitement de première ligne.",
+ "inclusion": [
+  "Âge de 18 à 80 ans",
+  "PTI primaire selon l'IWG 2019, évoluant depuis plus de 12 mois",
+  "Au moins un traitement de première ligne (corticoïdes ou IgIV) sans réponse maintenue ou avec rechute",
+  "Réponse antérieure documentée (plaquettes ≥ 50×10⁹/L)",
+  "Consentement éclairé signé"
+ ],
+ "exclusion": [
+  "Thrombopénie secondaire ou anémie hémolytique auto-immune",
+  "Autre cancer ou trouble de la coagulation",
+  "Traitement antérieur par inhibiteur de BTK",
+  "Anticoagulant ou antiagrégant au long cours",
+  "QTcF > 470 ms ou insuffisance cardiaque NYHA III-IV",
+  "Hépatite B ou C active, VIH, CMV actif ou tuberculose active",
+  "Grossesse ou allaitement"
+ ],
+ "bras": [
+  {
+   "nom": "Bras A",
+   "traitement": "HS-10561 15 mg par jour par voie orale"
+  },
+  {
+   "nom": "Bras B",
+   "traitement": "HS-10561 30 mg par jour par voie orale"
+  }
+ ],
+ "duree": "24 semaines de traitement, extension optionnelle jusqu'à 52 semaines, puis 4 semaines de suivi",
+ "critere": "Proportion de participants ayant une réponse plaquettaire durable entre les semaines 13 et 24."
+}
