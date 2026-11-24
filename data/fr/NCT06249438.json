@@ -22,8 +22,12 @@
   "Cancer dans les 5 ans, grossesse ou allaitement, atteinte sévère du système nerveux central"
  ],
  "bras": [
-  { "nom": "C-CAR168", "traitement": "CAR-T autologue anti-CD20/BCMA en perfusion intraveineuse ; dose non précisée" }
+  {
+   "nom": "C-CAR168",
+   "traitement": "CAR-T autologue anti-CD20/BCMA en perfusion intraveineuse ; dose non précisée"
+  }
  ],
  "duree": "24 mois de suivi (3 ans au total)",
- "critere": "Incidence des événements indésirables (toxicités dose-limitantes sur 28 jours) et dose recommandée, sur 24 mois"
+ "critere": "Incidence des événements indésirables (toxicités dose-limitantes sur 28 jours) et dose recommandée, sur 24 mois",
+ "relu": "2026-11-24"
 }

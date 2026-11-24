@@ -9,8 +9,7 @@
  "inclusion": [
   "Diagnostic d'ACG (groupe ACG uniquement)",
   "Âge ≥ 18 ans",
-  "Témoins sans maladie rhumatologique",
-  "Autres critères : non précisé"
+  "Témoins : absence de maladie rhumatologique"
  ],
  "exclusion": [
   "Infection chronique (VIH, hépatites B/C, etc.) ou infection aiguë traitée par antibiotiques < 90 jours",
@@ -31,5 +30,6 @@
   }
  ],
  "duree": "6 mois",
- "critere": "Différences de composition du microbiome à l'inclusion et à 6 mois"
+ "critere": "Différences de composition du microbiome à l'inclusion et à 6 mois",
+ "relu": "2026-11-24"
 }

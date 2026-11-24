@@ -24,9 +24,10 @@
  "bras": [
   {
    "nom": "ATTRwt",
-   "traitement": "Perfusion de dobutamine à doses croissantes, avec cathétérisme cardiaque droit et échocardiographie"
+   "traitement": "Perfusion de dobutamine (Dobutrex) à doses croissantes toutes les 5 min (2, 3, 5, 10, 20 µg/kg/min ; jusqu'à 40 en cas de bêtabloquant, maximum 10 si DFG < 30), avec cathétérisme cardiaque droit et échocardiographie simultanés"
   }
  ],
  "duree": "1 jour",
- "critere": "Débit cardiaque à chaque palier de dobutamine et en fin de perfusion."
+ "critere": "Débit cardiaque à chaque palier de dobutamine et en fin de perfusion.",
+ "relu": "2026-11-24"
 }

@@ -23,9 +23,10 @@
  "bras": [
   {
    "nom": "CAR-T CD19/BCMA",
-   "traitement": "Fludarabine IV (J-4 à J-2) et cyclophosphamide IV (J-2), puis perfusion de CAR-T anti-BCMA et/ou anti-CD19 de façon séquentielle"
+   "traitement": "Fludarabine IV (J-4 à J-2) et cyclophosphamide IV (J-2), puis CAR-T anti-BCMA et/ou anti-CD19 en perfusion à J0 ; 2 ou 3 doses supplémentaires possibles chez les répondeurs"
   }
  ],
  "duree": "Non précisé (toxicité évaluée sur 28 jours)",
- "critere": "Incidence et sévérité des toxicités limitant la dose dans les 28 jours suivant la perfusion."
+ "critere": "Incidence et sévérité des toxicités limitant la dose dans les 28 jours suivant la perfusion.",
+ "relu": "2026-11-24"
 }
