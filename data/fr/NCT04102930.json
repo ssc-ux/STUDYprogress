@@ -16,9 +16,16 @@
   "Patient refusant ou incapable de donner un consentement éclairé"
  ],
  "bras": [
-  { "nom": "Cohorte rétrospective", "traitement": "Patients avec diagnostic établi d'ACG ou de PPR ; prélèvements génétiques et recueil de données" },
-  { "nom": "Cohorte prospective", "traitement": "Patients avec suspicion d'ACG ou de PPR ; prélèvements génétiques et recueil de données" }
+  {
+   "nom": "Cohorte rétrospective",
+   "traitement": "Patients avec diagnostic établi d'ACG ou de PPR ; prélèvements génétiques et recueil de données"
+  },
+  {
+   "nom": "Cohorte prospective",
+   "traitement": "Patients avec suspicion d'ACG ou de PPR ; prélèvements génétiques et recueil de données"
+  }
  ],
- "duree": "Évaluation à l'inclusion (prélèvement génétique) avec suivi variable selon la cohorte",
- "critere": "Déterminants génétiques de susceptibilité à l'ACG et à la PPR, évalués à l'inclusion"
+ "duree": "Évaluation à l'inclusion (durée de suivi non précisée)",
+ "critere": "Déterminants génétiques de susceptibilité à l'ACG et à la PPR, évalués à l'inclusion",
+ "relu": "2026-11-24"
 }

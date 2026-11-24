@@ -20,9 +20,16 @@
   "Infection aiguë ou chronique empêchant l'intensification de l'immunosuppression"
  ],
  "bras": [
-  { "nom": "Treat-to-target", "traitement": "Décision partagée et contrôle rapproché (visites toutes les 6 semaines, au moins 4 visites) jusqu'à la rémission ; puis contrôle toutes les 12 semaines" },
-  { "nom": "Soins courants", "traitement": "Contrôles tous les 3 à 6 mois, traitement ajusté selon le médecin" }
+  {
+   "nom": "Treat-to-target",
+   "traitement": "Décision partagée et contrôle rapproché (visites toutes les 6 semaines, au moins 4 visites) jusqu'à la rémission ; puis contrôle toutes les 12 semaines"
+  },
+  {
+   "nom": "Soins courants",
+   "traitement": "Contrôles tous les 3 à 6 mois, traitement ajusté selon le médecin"
+  }
  ],
  "duree": "120 semaines",
- "critere": "Accumulation de dommages à la semaine 120"
+ "critere": "Accumulation de dommages à la semaine 120",
+ "relu": "2026-11-24"
 }

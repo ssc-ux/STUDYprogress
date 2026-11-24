@@ -24,8 +24,12 @@
   "Grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Daratumumab, pomalidomide, dexaméthasone", "traitement": "Daratumumab sous-cutané, pomalidomide 4 mg par voie orale aux jours 1 à 21 de cycles de 28 jours, dexaméthasone IV et orale (20 à 40 mg selon les jours et les cycles)" }
+  {
+   "nom": "Daratumumab, pomalidomide, dexaméthasone",
+   "traitement": "Daratumumab 1 800 mg sous-cutané chaque semaine pendant 8 semaines, puis toutes les 2 semaines (cycles 3 à 6), puis toutes les 4 semaines (cycle 7 et suivants) ; pomalidomide 4 mg par voie orale aux jours 1 à 21 de cycles de 28 jours ; dexaméthasone IV et orale (20 à 40 mg selon les jours et les cycles, réduite de moitié après 70 ans)"
+  }
  ],
  "duree": "Suivi jusqu'à 1 an",
- "critere": "Pourcentage de participants en réponse hématologique complète, jusqu'à 1 an"
+ "critere": "Pourcentage de participants en réponse hématologique complète, jusqu'à 1 an",
+ "relu": "2026-11-24"
 }

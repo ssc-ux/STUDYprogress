@@ -23,9 +23,16 @@
   "Témoins : tabagisme actuel ou plus de 10 paquets-années, pacemaker ou implant métallique"
  ],
  "bras": [
-  { "nom": "Patients PID et témoins, exercice sous air ambiant", "traitement": "Exercice à charge constante en air ambiant (20,93 % d'oxygène) lors de la visite 3" },
-  { "nom": "Patients PID et témoins, exercice sous hyperoxie", "traitement": "Exercice à charge constante avec oxygène à 60 % lors de la visite 4" }
+  {
+   "nom": "Patients PID et témoins, exercice sous air ambiant",
+   "traitement": "Exercice à charge constante en air ambiant (20,93 % d'oxygène) lors de la visite 3"
+  },
+  {
+   "nom": "Patients PID et témoins, exercice sous hyperoxie",
+   "traitement": "Exercice à charge constante avec oxygène à 60 % lors de la visite 4"
+  }
  ],
  "duree": "Environ 8 semaines (4 visites)",
- "critere": "Variation du score de dyspnée pendant l'exercice à charge constante et variation de la force musculaire des jambes après l'exercice, en air ambiant (visite 3) et sous hyperoxie (visite 4)"
+ "critere": "Variation du score de dyspnée pendant l'exercice à charge constante et variation de la force musculaire des jambes après l'exercice, en air ambiant (visite 3) et sous hyperoxie (visite 4)",
+ "relu": "2026-11-24"
 }

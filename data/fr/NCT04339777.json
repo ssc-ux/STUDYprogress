@@ -23,9 +23,16 @@
   "Grossesse ou allaitement, maladie intercurrente non contrôlée"
  ],
  "bras": [
-  { "nom": "Bras A", "traitement": "Conditionnement d'intensité faible, intermédiaire ou élevée (busulfan, fludarabine), avec ou sans alemtuzumab, puis allogreffe, cyclophosphamide post-greffe, tacrolimus, mycophénolate" },
-  { "nom": "Bras B", "traitement": "Conditionnement d'intensité intermédiaire (busulfan, fludarabine, irradiation corporelle totale), avec ou sans alemtuzumab, puis allogreffe, cyclophosphamide post-greffe, tacrolimus, mycophénolate" }
+  {
+   "nom": "Bras A",
+   "traitement": "Conditionnement d'intensité faible, intermédiaire ou élevée (busulfan, fludarabine), avec ou sans alemtuzumab, puis allogreffe, cyclophosphamide post-greffe, tacrolimus, mycophénolate"
+  },
+  {
+   "nom": "Bras B",
+   "traitement": "Conditionnement d'intensité intermédiaire (busulfan, fludarabine, irradiation corporelle totale), avec ou sans alemtuzumab, puis allogreffe, cyclophosphamide post-greffe, tacrolimus, mycophénolate"
+  }
  ],
  "duree": "Visites aux jours 30, 60, 100, 180, 360 et 24 mois, puis annuelles environ 5 ans",
- "critere": "Prise de greffe durable du donneur (neutrophiles d'au moins 500/mm³ avec chimérisme donneur T et myéloïde supérieur au seuil défini) entre l'inclusion et J100"
+ "critere": "Prise de greffe durable du donneur (neutrophiles d'au moins 500/mm³ avec chimérisme donneur T et myéloïde supérieur au seuil défini) entre l'inclusion et J100",
+ "relu": "2026-11-24"
 }

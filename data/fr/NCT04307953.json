@@ -21,9 +21,16 @@
   "Autre étude interventionnelle, traitement susceptible d'interférer avec l'ossification dans les 90 jours, alcool supérieur à 14 unités par semaine, autre maladie osseuse métabolique active"
  ],
  "bras": [
-  { "nom": "AZD0530", "traitement": "Saracatinib (AZD0530) 100 mg par voie orale une fois par jour pendant 6 mois en double aveugle, puis 12 mois en ouvert" },
-  { "nom": "Placebo puis AZD0530", "traitement": "Placebo identique pendant 6 mois, puis saracatinib 100 mg par jour pendant 12 mois en ouvert" }
+  {
+   "nom": "AZD0530",
+   "traitement": "Saracatinib (AZD0530) 100 mg par voie orale une fois par jour pendant 6 mois en double aveugle, puis 12 mois en ouvert"
+  },
+  {
+   "nom": "Placebo puis AZD0530",
+   "traitement": "Placebo identique pendant 6 mois, puis saracatinib 100 mg par jour pendant 12 mois en ouvert"
+  }
  ],
  "duree": "18 mois (6 mois randomisés puis 12 mois d'extension en ouvert)",
- "critere": "Nombre de nouvelles lésions d'ossification hétérotopique actives en TEP/scanner au [18F]NaF, entre l'inclusion et le mois 6"
+ "critere": "Nombre de nouvelles lésions d'ossification hétérotopique actives en TEP/scanner au [18F]NaF, entre l'inclusion et le mois 6",
+ "relu": "2026-11-24"
 }

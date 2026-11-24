@@ -25,7 +25,7 @@
  "bras": [
   {
    "nom": "Anakinra",
-   "traitement": "Anakinra pendant 4 jours (80 patients)"
+   "traitement": "Anakinra IV, 200 mg 2 fois par jour pendant 4 jours (adultes et enfants > 50 kg ; 2 mg/kg 2 fois par jour si enfant de 12 à 16 ans < 50 kg), 80 patients"
   },
   {
    "nom": "Placebo",
@@ -33,5 +33,6 @@
   }
  ],
  "duree": "3 mois (visites vers J30 et à 3 mois)",
- "critere": "Variation du score mSOFA (score SOFA modifié pour la dengue et les ressources limitées) entre l'inclusion et le jour 4."
+ "critere": "Variation du score mSOFA (score SOFA modifié pour la dengue et les ressources limitées) entre l'inclusion et le jour 4.",
+ "relu": "2026-11-24"
 }

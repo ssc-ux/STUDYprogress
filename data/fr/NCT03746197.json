@@ -8,8 +8,7 @@
  "profil": "Des adultes de 18 à 65 ans atteints de lupus systémique, sans maladie neurologique ou psychiatrique majeure antérieure.",
  "inclusion": [
   "Diagnostic de lupus systémique",
-  "Âge de 18 à 65 ans",
-  "Autres critères d'inclusion : non précisé"
+  "Âge de 18 à 65 ans"
  ],
  "exclusion": [
   "Maladie neurologique majeure antérieure au lupus (traumatisme crânien, maladie dégénérative, vasculaire ou métabolique, tumeur, toxique)",
@@ -29,5 +28,6 @@
   }
  ],
  "duree": "4 semaines d'intervention (évaluation à 30 jours)",
- "critere": "Variation du temps de réponse moyen et de sa variabilité sur le moniteur EVO à 30 jours"
+ "critere": "Variation du temps de réponse moyen et de sa variabilité et du seuil de performance sur le moniteur EVO, et des scores aux tests d'attention et de fonctions exécutives (Digit Vigilance, Trail Making, Stroop, Digit Symbol Substitution), à 30 jours",
+ "relu": "2026-11-24"
 }

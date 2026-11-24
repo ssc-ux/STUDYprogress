@@ -21,8 +21,7 @@
   "Bilirubine > 1,5 x LSN ou transaminases > 3 x LSN (hors cause liée au lymphome ou aux antirétroviraux)",
   "PNN < 1000/mm³ ou plaquettes < 75 000/mm³ (hors cause liée à la maladie ou aux traitements antérieurs)",
   "Manifestations menaçantes de la KSHV-MCD pour la vie ou les organes",
-  "Cardiopathie significative (infarctus récent, insuffisance cardiaque NYHA III-IV, arythmie non contrôlée)",
-  "BPCO avec VEMS < 50 % ou asthme modéré à sévère ou non contrôlé",
+  "Cardiopathie significative (infarctus récent, insuffisance cardiaque NYHA III-IV, arythmie non contrôlée), BPCO avec VEMS < 50 % ou asthme non contrôlé",
   "Grossesse ou maladie intercurrente sévère non contrôlée"
  ],
  "bras": [
@@ -31,6 +30,7 @@
    "traitement": "Daratumumab sous-cutané, bras unique"
   }
  ],
- "duree": "Non précisé (traitement jusqu'à progression ou toxicité)",
- "critere": "Taux de réponse globale aux semaines 9 et 17, puis toutes les 12 semaines à partir de la semaine 25 jusqu'à la fin du traitement."
+ "duree": "Traitement jusqu'à 24 mois (hebdomadaire 8 semaines, puis toutes les 2 semaines 16 semaines, puis toutes les 4 semaines)",
+ "critere": "Taux de réponse globale aux semaines 9 et 17, puis toutes les 12 semaines à partir de la semaine 25 jusqu'à la fin du traitement.",
+ "relu": "2026-11-24"
 }

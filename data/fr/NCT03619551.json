@@ -19,9 +19,16 @@
   "Infection par le VIH ou HTLV I/II"
  ],
  "bras": [
-  { "nom": "Busulfan à faible dose", "traitement": "Conditionnement par busulfan avec exposition cible (AUC cumulée) de 25-35 mg*h/L, greffe déplétée en TCRαβ+/CD19+" },
-  { "nom": "Busulfan à dose moyenne", "traitement": "Conditionnement par busulfan avec exposition cible (AUC cumulée) de 55-65 mg*h/L, greffe déplétée en TCRαβ+/CD19+" }
+  {
+   "nom": "Busulfan à faible dose",
+   "traitement": "Conditionnement par busulfan avec exposition cible (AUC cumulée) de 25-35 mg*h/L, avec thymoglobuline (et fludarabine et thiotépa si RAG1/2), greffe déplétée en TCRαβ+/CD19+"
+  },
+  {
+   "nom": "Busulfan à dose moyenne",
+   "traitement": "Conditionnement par busulfan avec exposition cible (AUC cumulée) de 55-65 mg*h/L, avec thymoglobuline (et fludarabine et thiotépa si RAG1/2), greffe déplétée en TCRαβ+/CD19+"
+  }
  ],
  "duree": "3 ans de suivi après la greffe",
- "critere": "Réponse en anticorps spécifiques après vaccination, à 2 ans"
+ "critere": "Réponse en anticorps spécifiques après vaccination, à 2 ans",
+ "relu": "2026-11-24"
 }

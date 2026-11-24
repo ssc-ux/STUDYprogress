@@ -18,8 +18,12 @@
   "Suivi impossible"
  ],
  "bras": [
-  { "nom": "Cohorte BPA", "traitement": "Angioplastie pulmonaire par ballonnet en séances successives, avec suivi clinique et hémodynamique" }
+  {
+   "nom": "Cohorte BPA",
+   "traitement": "Angioplastie pulmonaire par ballonnet en séances successives, avec suivi clinique et hémodynamique"
+  }
  ],
  "duree": "De la première séance de BPA à 3 à 12 mois après la dernière séance",
- "critere": "Événements indésirables de la BPA et variations de la pression artérielle pulmonaire, des résistances vasculaires pulmonaires, de l'index cardiaque, de la classe fonctionnelle OMS, du test de marche de 6 minutes, du NT-proBNP, de la VO2 pic, de la DLCO et de l'expression du FAPI, entre le début de la BPA et 3 à 12 mois après la dernière séance"
+ "critere": "Événements indésirables de la BPA et variations de la pression artérielle pulmonaire, des résistances vasculaires pulmonaires, de l'index cardiaque, de la classe fonctionnelle OMS, du test de marche de 6 minutes, du NT-proBNP, de la VO2 pic, de la DLCO et de l'expression du FAPI, entre le début de la BPA et 3 à 12 mois après la dernière séance",
+ "relu": "2026-11-24"
 }

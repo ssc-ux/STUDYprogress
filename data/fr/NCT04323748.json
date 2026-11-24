@@ -22,8 +22,12 @@
   "Agoniste du récepteur de la thrombopoïétine (éltrombopag, romiplostim) : retrait du protocole"
  ],
  "bras": [
-  { "nom": "Rituximab", "traitement": "Rituximab 375 mg/m² en 5 doses aux jours 0, 2, 7, 14 et 21" }
+  {
+   "nom": "Rituximab",
+   "traitement": "Rituximab 375 mg/m² en 5 doses aux jours 0, 2, 7, 14 et 21"
+  }
  ],
  "duree": "1 an",
- "critere": "Sécurité (nombre de participants avec événement indésirable de grade 3 ou plus lié au traitement, CTCAE v5.0) et taux de réponse plaquettaire, à 1 an"
+ "critere": "Sécurité (nombre de participants avec événement indésirable de grade 3 ou plus lié au traitement, CTCAE v5.0) et taux de réponse, à 1 an",
+ "relu": "2026-11-24"
 }

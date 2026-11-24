@@ -22,8 +22,12 @@
   "Drépanocytose : greffe antérieure dans les 3 mois (intensité réduite) ou 6 mois (myéloablatif)"
  ],
  "bras": [
-  {"nom": "CliniMACS PLUS puis chimiothérapie", "traitement": "Conditionnement par busulfan (melphalan si dysfonction hépatique), fludarabine et alemtuzumab, puis cellules souches périphériques du donneur sélectionnées en CD34+ par CliniMACS PLUS"}
+  {
+   "nom": "CliniMACS PLUS puis chimiothérapie",
+   "traitement": "Conditionnement par busulfan (melphalan si dysfonction hépatique), fludarabine et alemtuzumab, puis cellules souches périphériques du donneur sélectionnées en CD34+ par CliniMACS PLUS"
+  }
  ],
  "duree": "Non précisé",
- "critere": "Incidence de la GvHD aiguë à 100 jours"
+ "critere": "Incidence de la GvHD aiguë à 100 jours",
+ "relu": "2026-11-24"
 }

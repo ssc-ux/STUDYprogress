@@ -23,8 +23,12 @@
   "Grossesse, allaitement ou refus de contraception"
  ],
  "bras": [
-  { "nom": "BK CTL", "traitement": "Jusqu'à 20 perfusions de lymphocytes T cytotoxiques spécifiques du BK issus d'un donneur apparenté" }
+  {
+   "nom": "BK CTL",
+   "traitement": "Jusqu'à 20 perfusions de lymphocytes T cytotoxiques spécifiques du BK issus d'un donneur apparenté"
+  }
  ],
  "duree": "12 semaines pour le critère principal",
- "critere": "Incidence des événements indésirables liés au traitement (sécurité et tolérance), à 12 semaines"
+ "critere": "Incidence des événements indésirables liés au traitement (sécurité et tolérance), à 12 semaines",
+ "relu": "2026-11-24"
 }

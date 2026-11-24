@@ -25,9 +25,16 @@
   "Hypersensibilité connue au tacrolimus, à la fludarabine ou au méthotrexate"
  ],
  "bras": [
-  { "nom": "Bras I : cellules souches périphériques déplétées en lymphocytes T naïfs", "traitement": "Conditionnement (3 schémas : irradiation corporelle totale avec thiotépa-fludarabine, ou fludarabine-cyclophosphamide, ou fludarabine-busulfan), greffon déplété à J0, tacrolimus et méthotrexate" },
-  { "nom": "Bras II : moelle osseuse non manipulée", "traitement": "Même conditionnement, moelle osseuse riche en lymphocytes T à J0, tacrolimus et méthotrexate" }
+  {
+   "nom": "Bras I : cellules souches périphériques déplétées en lymphocytes T naïfs",
+   "traitement": "Conditionnement (3 schémas : irradiation corporelle totale avec thiotépa-fludarabine, ou fludarabine-cyclophosphamide, ou fludarabine-busulfan), greffon déplété à J0, tacrolimus et méthotrexate"
+  },
+  {
+   "nom": "Bras II : moelle osseuse non manipulée",
+   "traitement": "Même conditionnement, moelle osseuse riche en lymphocytes T à J0, tacrolimus et méthotrexate"
+  }
  ],
  "duree": "Suivi d'environ 2 ans selon les critères principaux (1 an pour le critère randomisé)",
- "critere": "Faisabilité et prise de greffe des neutrophiles à J28 (phase de faisabilité) ; survie sans GVHD chronique active et sans rechute à 1 an (phase randomisée)"
+ "critere": "Faisabilité et prise de greffe des neutrophiles à J28 (phase de faisabilité) ; survie sans GVHD chronique active et sans rechute à 1 an (phase randomisée)",
+ "relu": "2026-11-24"
 }

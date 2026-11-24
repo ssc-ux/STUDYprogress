@@ -19,7 +19,9 @@
   "Infection ou saignement non contrôlé malgré le traitement standard",
   "Infection active par le VIH, le VHC ou le VHB non contrôlée",
   "Cancer avancé ou lymphome non contrôlé associé",
-  "Traitements interdits ne respectant pas les conditions de stabilité de dose précisées au protocole"
+  "Corticoïdes, fer, vitamine B12 ou folates non stables depuis au moins 4 semaines",
+  "Cirrhose ou hypertension portale",
+  "Grossesse ou allaitement, participation à un autre essai dans les 3 mois"
  ],
  "bras": [
   {
@@ -28,5 +30,6 @@
   }
  ],
  "duree": "Au moins 3 mois, jusqu'à 2 ans chez les répondeurs",
- "critere": "Taux de réponse globale et taux de réponse complète à 3 et 6 mois."
+ "critere": "Taux de réponse globale et taux de réponse complète à 3 et 6 mois.",
+ "relu": "2026-11-24"
 }

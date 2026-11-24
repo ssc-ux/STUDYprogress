@@ -16,8 +16,12 @@
   "Amylose à chaînes légères (AL)"
  ],
  "bras": [
-  { "nom": "Cohorte ATTR", "traitement": "Patients suivis en pratique courante, avec saisie des données dans un registre en ligne" }
+  {
+   "nom": "Cohorte ATTR",
+   "traitement": "Patients suivis en pratique courante, avec saisie des données dans un registre en ligne"
+  }
  ],
  "duree": "5 ans",
- "critere": "Mise en place d'un outil en ligne de partage de données pour les soignants (5 ans)"
+ "critere": "Mise en place d'un outil en ligne de partage de données pour les soignants (5 ans)",
+ "relu": "2026-11-24"
 }

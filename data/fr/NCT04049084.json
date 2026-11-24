@@ -15,8 +15,12 @@
   "Aucun critère d'exclusion"
  ],
  "bras": [
-  { "nom": "Patients traités par thérapie génique", "traitement": "Suivi observationnel annuel, sans traitement de l'étude" }
+  {
+   "nom": "Patients traités par thérapie génique",
+   "traitement": "Suivi observationnel annuel, sans traitement de l'étude"
+  }
  ],
  "duree": "Jusqu'à 15 ans après le traitement",
- "critere": "Survie globale, survie sans événement et incidence des événements indésirables, jusqu'à 15 ans après le traitement"
+ "critere": "Survie globale, survie sans événement et incidence des événements indésirables, jusqu'à 15 ans après le traitement",
+ "relu": "2026-11-24"
 }

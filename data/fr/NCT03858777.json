@@ -20,11 +20,24 @@
   "Instabilité hémodynamique (groupe STEMI)"
  ],
  "bras": [
-  { "nom": "Sarcoïdose sans myocardite active", "traitement": "Une prise de sang pour dosage du cfDNA" },
-  { "nom": "Sarcoïdose avec myocardite active", "traitement": "Deux prises de sang à 2 mois d'intervalle" },
-  { "nom": "Infarctus avec sus-décalage du ST", "traitement": "Trois prises de sang : initiale, à 6 heures et à 24 heures" },
-  { "nom": "Témoins sains", "traitement": "Une prise de sang" }
+  {
+   "nom": "Sarcoïdose sans myocardite active",
+   "traitement": "Une prise de sang pour dosage du cfDNA"
+  },
+  {
+   "nom": "Sarcoïdose avec myocardite active",
+   "traitement": "Deux prises de sang à 2 mois d'intervalle"
+  },
+  {
+   "nom": "Infarctus avec sus-décalage du ST",
+   "traitement": "Trois prises de sang : initiale, à 6 heures et à 24 heures"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Une prise de sang"
+  }
  ],
  "duree": "2 mois au maximum (groupe avec myocardite)",
- "critere": "Taux de cfDNA, à l'inclusion et à 2 mois dans la sarcoïdose avec atteinte cardiaque, comparé aux témoins et à la sarcoïdose sans atteinte cardiaque ; à l'inclusion, 6 et 24 heures dans le STEMI"
+ "critere": "Taux de cfDNA, à l'inclusion et à 2 mois dans la sarcoïdose avec atteinte cardiaque, comparé aux témoins et à la sarcoïdose sans atteinte cardiaque ; à l'inclusion, 6 et 24 heures dans le STEMI",
+ "relu": "2026-11-24"
 }

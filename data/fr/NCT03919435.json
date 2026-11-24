@@ -22,8 +22,12 @@
   "Cocaïne intranasale dans les 3 derniers mois, VIH ou déficit immunitaire primitif, grossesse ou projet de grossesse dans les 6 mois"
  ],
  "bras": [
-  { "nom": "Sous traitement", "traitement": "Cotrimoxazole (triméthoprime-sulfaméthoxazole) pendant 4 semaines, avec prélèvements nasaux avant, pendant et après" }
+  {
+   "nom": "Sous traitement",
+   "traitement": "Cotrimoxazole (triméthoprime-sulfaméthoxazole) pendant 4 semaines, avec prélèvements nasaux avant, pendant et après"
+  }
  ],
  "duree": "6 mois de suivi (24 semaines pour le critère principal)",
- "critere": "Composition du microbiome nasal en abondance relative et expression génique de l'hôte, à 24 semaines"
+ "critere": "Composition du microbiome nasal en abondance relative et expression génique de l'hôte, à 24 semaines",
+ "relu": "2026-11-24"
 }

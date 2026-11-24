@@ -15,9 +15,16 @@
   "Aucun critère d'exclusion"
  ],
  "bras": [
-  { "nom": "Cohorte 1", "traitement": "Femmes enceintes exposées à l'inotersen (Tegsedi) avant la conception ou pendant la grossesse ; suivi des issues de grossesse" },
-  { "nom": "Cohorte 2", "traitement": "Femmes enceintes avec hATTR-PN non exposées à Tegsedi ; suivi des issues de grossesse" }
+  {
+   "nom": "Cohorte 1",
+   "traitement": "Femmes enceintes exposées à l'inotersen (Tegsedi) avant la conception ou pendant la grossesse ; suivi des issues de grossesse"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "Femmes enceintes avec hATTR-PN non exposées à Tegsedi ; suivi des issues de grossesse"
+  }
  ],
  "duree": "Suivi de la grossesse et du nourrisson jusqu'à 1 an",
- "critere": "Fréquence de certaines issues de grossesse, fœtales et néonatales, et des complications de grossesse, sur 10 ans ou 12 mois après la dernière naissance vivante"
+ "critere": "Fréquence de certaines issues de grossesse, fœtales et néonatales, et des complications de grossesse, sur 10 ans ou 12 mois après la dernière naissance vivante",
+ "relu": "2026-11-24"
 }

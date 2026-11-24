@@ -18,8 +18,12 @@
   "Aucun examen d'imagerie ou biologique n'est requis pour l'éligibilité"
  ],
  "bras": [
-  { "nom": "Cohorte unique", "traitement": "Patients avec maladie plasmocytaire, évaluation multidimensionnelle à l'inclusion puis répétée, prise de sang optionnelle (p16INK4a)" }
+  {
+   "nom": "Cohorte unique",
+   "traitement": "Patients avec maladie plasmocytaire, évaluation multidimensionnelle à l'inclusion puis répétée, prise de sang optionnelle (p16INK4a)"
+  }
  ],
  "duree": "Suivi longitudinal jusqu'à 10 ans",
- "critere": "Création du registre et réalisation des évaluations initiale et de suivi, sur 10 ans"
+ "critere": "Création du registre et réalisation des évaluations initiale et de suivi, sur 10 ans",
+ "relu": "2026-11-24"
 }

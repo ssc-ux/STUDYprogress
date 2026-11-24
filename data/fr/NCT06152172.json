@@ -7,14 +7,21 @@
  "interet": "L'étude évaluera la tolérance du KYV-101 dans quatre maladies et recueillera des signaux d'activité. Avec six patients par maladie, elle reste exploratoire.",
  "profil": "Des adultes avec myopathie inflammatoire, sclérodermie diffuse, néphrite lupique ou vascularite à ANCA, actives et réfractaires.",
  "inclusion": [
-  "Âge ≥ 18 ans",
-  "Myopathie inflammatoire probable ou certaine (ACR/EULAR 2017) avec MMT-8 < 136/150 et au moins deux autres mesures anormales",
-  "Maladie active : CK ≥ 4 × LSN, CDASI-A ≥ 6, ou signes d'IRM, d'EMG ou de biopsie récents",
-  "Auto-anticorps spécifiques de myosite (hors dermatomyosite)",
-  "Sclérodermie cutanée diffuse, néphrite lupique ou vascularite à ANCA actives selon critères spécifiques"
+  "Âge ≥ 18 ans, ECOG ≤ 2, fonctions hépatique, rénale (DFGe ≥ 30), hématologique et FEVG ≥ 40 % adéquates",
+  "Myopathie inflammatoire probable ou certaine (ACR/EULAR 2017), réfractaire à ≥ 2 immunosuppresseurs, avec MMT-8 < 136/150 et maladie active (CK ≥ 4 N, CDASI ≥ 6, IRM, EMG ou biopsie)",
+  "Sclérodermie cutanée diffuse (ACR/EULAR 2013) évoluant depuis ≤ 6 ans, avec mRSS ≥ 16 en progression ou PID progressive",
+  "Néphrite lupique de classe III ou IV (± V) active prouvée par biopsie, réponse insuffisante à ≥ 2 traitements pendant 6 mois",
+  "Vascularite à ANCA (GPA ou PAM) avec ANCA positifs, active (BVAS/WG ≥ 3) malgré corticoïdes et cyclophosphamide ou rituximab, ou réfractaire",
+  "Consentement écrit signé"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Traitement antérieur par CAR-T, autre immunothérapie cellulaire ou thérapie génique",
+  "Hépatite B active (AgHBs+), hépatite C non guérie, VIH, immunodéficience primitive",
+  "Atteinte d'organe sévère de la maladie ciblée (PID sous oxygène ou CVF ≤ 45 %, HTAP, crise rénale sclérodermique, lupus du SNC, hémorragie alvéolaire, insuffisance respiratoire)",
+  "Cardiopathie significative : FEVG < 40 %, insuffisance cardiaque NYHA III-IV, infarctus ou angor instable dans les 6 mois",
+  "Cancer actuel ou antérieur (sauf exceptions traitées), antécédent neurologique majeur (AVC, épilepsie, démence)",
+  "Infection active non contrôlée, événement thromboembolique dans les 6 mois",
+  "Grossesse ou allaitement, allergie au KYV-101, au DMSO, à la fludarabine, au cyclophosphamide ou au tocilizumab"
  ],
  "bras": [
   {
@@ -35,5 +42,6 @@
   }
  ],
  "duree": "2 ans",
- "critere": "Incidence et gravité des événements indésirables dans chaque maladie, à 3, 6, 12 et 24 mois"
+ "critere": "Incidence et gravité des événements indésirables dans chaque maladie, à 3, 6, 12 et 24 mois",
+ "relu": "2026-11-24"
 }

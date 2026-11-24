@@ -3,7 +3,7 @@
  "date": "2026-11-14",
  "titre": "MT-2990 dans les vascularites associées aux ANCA, étude exploratoire",
  "question": "Le MT-2990 est-il efficace et sûr chez des patients avec une vascularite à ANCA active ou cortico-dépendante ?",
- "contexte": "Les vascularites associées aux ANCA (PAM, GPA, EGPA) sont traitées par corticoïdes associés au rituximab ou au cyclophosphamide, puis par un traitement d'entretien. Certains patients restent cortico-dépendants ou gardent une maladie active malgré l'azathioprine, l'avacopan ou le rituximab, avec une morbidité liée aux corticoïdes.\n\nLe MT-2990, de Tanabe Pharma, est un anticorps monoclonal en développement dans des maladies à composante fibro-inflammatoire. Son mécanisme exact n'est pas détaillé dans le registre ; l'étude explore aussi son mécanisme d'action.\n\nCette phase 1 exploratoire japonaise est menée chez 5 patients (5 à 10 prévus) avec une maladie active malgré le traitement ou cortico-dépendante. Le MT-2990 est administré par voie intraveineuse toutes les 4 semaines (6 doses). Les critères incluent le BVAS, le VDI, le TEP-FDG, le scanner, la spirométrie, l'audiométrie, l'évolution des corticoïdes et la qualité de vie.",
+ "contexte": "Les vascularites associées aux ANCA (PAM, GPA, EGPA) sont traitées par corticoïdes associés au rituximab ou au cyclophosphamide, puis par un traitement d'entretien. Certains patients restent cortico-dépendants ou gardent une maladie active malgré l'azathioprine, l'avacopan ou le rituximab, avec une morbidité liée aux corticoïdes.\n\nLe MT-2990, de Tanabe Pharma, est un anticorps monoclonal anti-IL-33 (les patients ayant déjà reçu un anticorps anti-IL-33 sont exclus). L'IL-33, alarmine épithéliale, active notamment les éosinophiles et les mastocytes ; l'étude explore aussi le mécanisme d'action.\n\nCette phase 1 exploratoire japonaise est menée chez 5 patients (5 à 10 prévus) avec une maladie active malgré le traitement ou cortico-dépendante. Le MT-2990 est administré par voie intraveineuse toutes les 4 semaines (6 doses). Les critères incluent le BVAS, le VDI, le TEP-FDG, le scanner, la spirométrie, l'audiométrie, l'évolution des corticoïdes et la qualité de vie.",
  "interet": "Elle explore un signal d'efficacité et de tolérance d'un nouveau mécanisme dans les vascularites à ANCA, mais l'effectif très faible limite les conclusions.",
  "profil": "Des adultes avec PAM, GPA ou EGPA, avec maladie active ou cortico-dépendante.",
  "inclusion": [
@@ -27,5 +27,6 @@
   }
  ],
  "duree": "24 semaines",
- "critere": "Critères multiples jusqu'à la semaine 24 : variation du BVAS, proportion de BVAS = 0, VDI, impressions globales du patient et du médecin, TEP-FDG, scanner, CVF, audiométrie, biomarqueurs, dose de corticoïdes, SF-36 et EQ-5D-5L."
+ "critere": "Critères multiples jusqu'à la semaine 24 : variation du BVAS, proportion de BVAS = 0, VDI, impressions globales du patient et du médecin, TEP-FDG, scanner, CVF, audiométrie, biomarqueurs, dose de corticoïdes, SF-36 et EQ-5D-5L.",
+ "relu": "2026-11-24"
 }

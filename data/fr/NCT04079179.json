@@ -23,11 +23,24 @@
   "VIH chronique, hémorragie du SNC, grossesse ou allaitement, enfant de moins de 20 kg (depuis février 2026)"
  ],
  "bras": [
-  { "nom": "Groupe 1", "traitement": "Cobimetinib oral, enfants et jeunes de moins de 21 ans avec LCH récidivante" },
-  { "nom": "Groupe 2", "traitement": "Cobimetinib oral, patients de tout âge avec LCH neurodégénérative progressive" },
-  { "nom": "Groupe 3", "traitement": "Cobimetinib oral, moins de 21 ans avec autre histiocytose (JXG, ECD, sarcome histiocytaire, RDD)" },
-  { "nom": "Groupe 4", "traitement": "Cobimetinib oral, adultes de 21 ans et plus avec LCH ou autre histiocytose" }
+  {
+   "nom": "Groupe 1",
+   "traitement": "Cobimetinib oral, enfants et jeunes de moins de 21 ans avec LCH récidivante"
+  },
+  {
+   "nom": "Groupe 2",
+   "traitement": "Cobimetinib oral, patients de tout âge avec LCH neurodégénérative progressive"
+  },
+  {
+   "nom": "Groupe 3",
+   "traitement": "Cobimetinib oral, moins de 21 ans avec autre histiocytose (JXG, ECD, sarcome histiocytaire, RDD)"
+  },
+  {
+   "nom": "Groupe 4",
+   "traitement": "Cobimetinib oral, adultes de 21 ans et plus avec LCH ou autre histiocytose"
+  }
  ],
  "duree": "Au moins 12 mois de traitement et d'évaluation",
- "critere": "Taux de réponse globale selon les critères RECIST modifiés, à 12 mois"
+ "critere": "Taux de réponse globale selon les critères RECIST modifiés, à 12 mois",
+ "relu": "2026-11-24"
 }

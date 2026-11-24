@@ -18,9 +18,16 @@
   "Quantité insuffisante de l'échantillon pour réaliser le dépistage"
  ],
  "bras": [
-  { "nom": "Nouveau-nés de Caroline du Nord", "traitement": "Dépistage élargi sur les taches de sang séchées ; test de confirmation gratuit si dépistage positif" },
-  { "nom": "Mères des nouveau-nés", "traitement": "Participation à l'étude ; test de portage pour les mères d'enfants avec syndrome de l'X fragile" }
+  {
+   "nom": "Nouveau-nés de Caroline du Nord",
+   "traitement": "Dépistage élargi sur les taches de sang séchées ; test de confirmation gratuit si dépistage positif"
+  },
+  {
+   "nom": "Mères des nouveau-nés",
+   "traitement": "Participation à l'étude ; test de portage pour les mères d'enfants avec syndrome de l'X fragile"
+  }
  ],
  "duree": "Dépistage unique sur échantillon existant ; suivi proposé aux familles dont l'enfant est dépisté positif",
- "critere": "Taux d'incidence : nombre de nouveau-nés dépistés positifs par rapport à l'échantillon total, évalué tous les 6 mois pendant environ 3 ans"
+ "critere": "Taux d'incidence : nombre de nouveau-nés dépistés positifs par rapport à l'échantillon total, évalué tous les 6 mois pendant environ 3 ans",
+ "relu": "2026-11-24"
 }
