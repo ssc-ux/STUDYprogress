@@ -14,12 +14,12 @@
   "Auto-anticorps spécifiques de la maladie selon l'indication"
  ],
  "exclusion": [
-  "Lupus induit par un médicament",
+  "Lupus induit par un médicament, syndromes de chevauchement du lupus (PR, sclérodermie, connectivite mixte)",
   "Autres maladies auto-immunes systémiques (sauf diabète de type 1, thyroïdite, maladie cœliaque, Sjögren secondaire)",
-  "Syndromes de chevauchement du lupus (PR, sclérodermie, connectivite mixte)",
-  "Atteinte récente du système nerveux central (< 12 mois)",
-  "Formes de myosite non éligibles : myosite à inclusions, dermatomyosite amyopathique, myosite juvénile, myosite médicamenteuse ou associée au VIH",
-  "Autres critères du protocole (non détaillés ici)"
+  "Atteinte du système nerveux central récente ou en cours (< 12 mois)",
+  "Myosite : autres formes (à inclusions, dermatomyosite amyopathique, juvénile, médicamenteuse, liée au VIH), lésions musculaires sévères ou atteinte cardiaque",
+  "Sclérodermie : HTAP nécessitant un traitement, atteinte digestive basse rapidement progressive, crise rénale sclérodermique antérieure, ectasies vasculaires antrales actives",
+  "PR : autre rhumatisme inflammatoire, lésions articulaires gênant l'évaluation de l'activité"
  ],
  "bras": [
   {
@@ -28,5 +28,6 @@
   }
  ],
  "duree": "Jusqu'à 2 ans après la perfusion",
- "critere": "Événements indésirables (dont graves, d'intérêt particulier et toxicités limitant la dose) et dose recommandée pour la phase 2, jusqu'à 2 ans"
+ "critere": "Événements indésirables (dont graves, d'intérêt particulier et toxicités limitant la dose) et dose recommandée pour la phase 2, jusqu'à 2 ans",
+ "relu": "2026-11-24"
 }

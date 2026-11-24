@@ -22,8 +22,12 @@
   "Grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Photophérèse extracorporelle", "traitement": "ECP avec Uvadex (méthoxsalène) sur 2 jours consécutifs toutes les 4 semaines pendant 48 semaines" }
+  {
+   "nom": "Photophérèse extracorporelle",
+   "traitement": "ECP avec Uvadex (méthoxsalène) sur 2 jours consécutifs toutes les 4 semaines pendant 48 semaines"
+  }
  ],
  "duree": "48 semaines",
- "critere": "Variation de l'épaississement cutané mesurée par le score de Rodnan modifié à 48 semaines"
+ "critere": "Variation de l'épaississement cutané mesurée par le score de Rodnan modifié à 48 semaines",
+ "relu": "2026-11-24"
 }

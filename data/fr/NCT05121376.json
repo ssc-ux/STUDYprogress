@@ -23,8 +23,12 @@
   "Risque thromboembolique ou microangiopathie thrombotique"
  ],
  "bras": [
-  { "nom": "BMN 331", "traitement": "Perfusion IV unique de thérapie génique AAV5-hSERPING1, 7 niveaux de dose testés" }
+  {
+   "nom": "BMN 331",
+   "traitement": "Perfusion IV unique de thérapie génique AAV5-hSERPING1, 7 niveaux de dose testés"
+  }
  ],
  "duree": "5 ans de suivi après la perfusion",
- "critere": "Nombre de participants avec événements indésirables apparus sous traitement après une administration IV unique de BMN 331, à 5 ans"
+ "critere": "Nombre de participants avec événements indésirables apparus sous traitement après une administration IV unique de BMN 331, à 5 ans",
+ "relu": "2026-11-24"
 }

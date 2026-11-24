@@ -18,10 +18,20 @@
   "Lupus : autre connectivite documentée"
  ],
  "bras": [
-  { "nom": "LES actif", "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique" },
-  { "nom": "Polyarthrite rhumatoïde et rhumatisme psoriasique", "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique" },
-  { "nom": "Témoins sains", "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique" }
+  {
+   "nom": "LES actif",
+   "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique"
+  },
+  {
+   "nom": "Polyarthrite rhumatoïde et rhumatisme psoriasique",
+   "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique"
+  },
+  {
+   "nom": "Témoins sains",
+   "traitement": "Prélèvement plasmatique ; pas d'intervention thérapeutique"
+  }
  ],
  "duree": "Prélèvements : non précisé ; période d'étude de 3 ans pour le critère principal",
- "critere": "Niveau de 27-hydroxylase dans des monocytes THP-1 incubés avec le plasma des différents groupes, sur 3 ans"
+ "critere": "Niveau de 27-hydroxylase dans des monocytes THP-1 incubés avec le plasma des différents groupes, sur 3 ans",
+ "relu": "2026-11-24"
 }

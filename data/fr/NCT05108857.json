@@ -19,8 +19,12 @@
   "Prostanoïdes, inhibiteurs de la PDE5 ou antagonistes de l'endothéline dans les 4 semaines"
  ],
  "bras": [
-  { "nom": "Patients sclérodermiques", "traitement": "TEP/TDM au 18F-FDG et au 68Ga-DOTA-Siglec-9, groupe unique" }
+  {
+   "nom": "Patients sclérodermiques",
+   "traitement": "TEP/TDM au 18F-FDG et au 68Ga-DOTA-Siglec-9, groupe unique"
+  }
  ],
  "duree": "Non précisé (examen au jour 1)",
- "critere": "Détection de l'inflammation sur les images TEP/TDM, au jour 1"
+ "critere": "Détection de l'inflammation sur les images TEP/TDM, au jour 1",
+ "relu": "2026-11-24"
 }

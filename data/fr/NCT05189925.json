@@ -23,10 +23,20 @@
   "Pneumopathie sévère oxygénodépendante, trouble de l'hémostase, abus d'alcool ou de drogues"
  ],
  "bras": [
-  { "nom": "Dose K", "traitement": "Perfusion unique de granulocytes gp91-Grans, 1 million de cellules/kg" },
-  { "nom": "Dose K+1", "traitement": "Perfusion unique de gp91-Grans, 10 millions de cellules/kg" },
-  { "nom": "Dose K+2", "traitement": "Perfusion unique de gp91-Grans, 100 à 500 millions de cellules/kg" }
+  {
+   "nom": "Dose K",
+   "traitement": "Perfusion unique de granulocytes gp91-Grans, 1 million de cellules/kg"
+  },
+  {
+   "nom": "Dose K+1",
+   "traitement": "Perfusion unique de gp91-Grans, 10 millions de cellules/kg"
+  },
+  {
+   "nom": "Dose K+2",
+   "traitement": "Perfusion unique de gp91-Grans, 100 à 500 millions de cellules/kg"
+  }
  ],
  "duree": "3 mois pour les critères principaux",
- "critere": "Faisabilité (recrutement, production), dose maximale tolérée et fréquence des événements indésirables de grade ≥ 3 liés au produit, à 3 mois"
+ "critere": "Faisabilité (recrutement, production), dose maximale tolérée et fréquence des événements indésirables de grade ≥ 3 liés au produit, à 3 mois",
+ "relu": "2026-11-24"
 }

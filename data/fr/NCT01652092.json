@@ -18,11 +18,24 @@
   "Hépatite aiguë ou fibrose portale modérée à sévère, ou cirrhose à la biopsie"
  ],
  "bras": [
-  {"nom": "Bras A : myéloablatif complet", "traitement": "Alemtuzumab 0,3 mg/kg (J-12 à J-10), cyclophosphamide 50 mg/kg + mesna (J-9 à J-6), busulfan IV (J-5 à J-2), greffe à J0 ; pour Wiskott-Aldrich, déficit en CMH II, SCID hypomorphe, etc."},
-  {"nom": "Bras B : ablatif à toxicité réduite", "traitement": "Alemtuzumab 0,3 mg/kg, busulfan IV (J-9 à J-6), fludarabine 40 mg/m² (J-5 à J-2), greffe à J0 ; pour SCID, granulomatose septique chronique, Chediak-Higashi, autres déficits combinés"},
-  {"nom": "Bras C : intensité réduite", "traitement": "Alemtuzumab 0,2 mg/kg (J-14 à J-10), fludarabine 30 mg/m² (J-8 à J-4), melphalan 140 mg/m² (J-3), greffe à J0 ; pour HLH"},
-  {"nom": "Bras D : sans conditionnement", "traitement": "Greffe seule, chez les patients avec SCID complet sans chimérisme maternel ni immunité résiduelle, avec donneur génotypiquement compatible"}
+  {
+   "nom": "Bras A : myéloablatif complet",
+   "traitement": "Alemtuzumab 0,3 mg/kg (J-12 à J-10), cyclophosphamide 50 mg/kg + mesna (J-9 à J-6), busulfan IV (J-5 à J-2), greffe à J0 ; pour Wiskott-Aldrich, déficit en CMH II, SCID hypomorphe, etc."
+  },
+  {
+   "nom": "Bras B : ablatif à toxicité réduite",
+   "traitement": "Alemtuzumab 0,3 mg/kg, busulfan IV (J-9 à J-6), fludarabine 40 mg/m² (J-5 à J-2), greffe à J0 ; pour SCID, granulomatose septique chronique, Chediak-Higashi, autres déficits combinés"
+  },
+  {
+   "nom": "Bras C : intensité réduite",
+   "traitement": "Alemtuzumab 0,2 mg/kg (J-14 à J-10), fludarabine 30 mg/m² (J-8 à J-4), melphalan 140 mg/m² (J-3), greffe à J0 ; pour HLH"
+  },
+  {
+   "nom": "Bras D : sans conditionnement",
+   "traitement": "Greffe seule, chez les patients avec SCID complet sans chimérisme maternel ni immunité résiduelle, avec donneur génotypiquement compatible"
+  }
  ],
  "duree": "Non précisé",
- "critere": "Prise de greffe des neutrophiles au jour 42"
+ "critere": "Prise de greffe des neutrophiles au jour 42",
+ "relu": "2026-11-24"
 }

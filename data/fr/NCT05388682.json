@@ -15,8 +15,12 @@
   "Sténose artérielle pulmonaire congénitale"
  ],
  "bras": [
-  { "nom": "Cohorte Takayasu", "traitement": "Patients traités par traitement médical et angioplastie pulmonaire percutanée, avec TEP au FAPI et au FDG à l'inclusion" }
+  {
+   "nom": "Cohorte Takayasu",
+   "traitement": "Patients traités par traitement médical et angioplastie pulmonaire percutanée, avec TEP au FAPI et au FDG à l'inclusion"
+  }
  ],
  "duree": "Suivi jusqu'en 2042 (de 2014 à 2042)",
- "critere": "Mortalité toutes causes, variations de la pression artérielle pulmonaire moyenne, des résistances vasculaires pulmonaires, du test de marche de 6 minutes, de la VO2 pic, du NT-proBNP, du rapport VD/VG et de l'index cardiaque"
+ "critere": "Mortalité toutes causes, variations de la pression artérielle pulmonaire moyenne, des résistances vasculaires pulmonaires, du test de marche de 6 minutes, de la VO2 pic, du NT-proBNP, du rapport VD/VG et de l'index cardiaque",
+ "relu": "2026-11-24"
 }

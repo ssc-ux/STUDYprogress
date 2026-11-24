@@ -24,9 +24,16 @@
   "Infection active non contrôlée, trouble psychiatrique actif compromettant l'observance"
  ],
  "bras": [
-  { "nom": "Bras A", "traitement": "Conditionnement d'intensité réduite fludarabine-busulfan, allogreffe, prophylaxie de la GVH (cyclophosphamide post-greffe, tacrolimus, mycophénolate)" },
-  { "nom": "Bras B", "traitement": "Conditionnement fludarabine, cyclophosphamide faible dose, irradiation corporelle totale 200 cGy et busulfan, allogreffe, même prophylaxie de la GVH" }
+  {
+   "nom": "Bras A",
+   "traitement": "Conditionnement d'intensité réduite fludarabine-busulfan, allogreffe, prophylaxie de la GVH (cyclophosphamide post-greffe, tacrolimus, mycophénolate)"
+  },
+  {
+   "nom": "Bras B",
+   "traitement": "Conditionnement fludarabine, cyclophosphamide faible dose, irradiation corporelle totale 200 cGy et busulfan, allogreffe, même prophylaxie de la GVH"
+  }
  ],
  "duree": "Suivi de 2 ans après la greffe pour le critère principal (+1 et +2 ans)",
- "critere": "Régression du phénotype clinique du VEXAS à 1 et 2 ans après la greffe, et chimérisme donneur durable à J100 et à 1 an"
+ "critere": "Régression du phénotype clinique du VEXAS à 1 et 2 ans après la greffe, et chimérisme donneur durable à J100 et à 1 an",
+ "relu": "2026-11-24"
 }

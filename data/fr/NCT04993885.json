@@ -21,12 +21,16 @@
   "Échec antérieur de l'avatrombopag, allergie à ce médicament",
   "Néphropathie ou atteinte neurologique lupique, cataracte",
   "Infection active, hépatite B ou C en réplication, VIH",
-  "Atteinte hépatique (ALAT/ASAT > 3 N), cardiaque, pulmonaire ou rénale sévère",
-  "Grossesse ou allaitement, antécédent psychiatrique, abus de substances"
+  "Atteinte hépatique (ALAT/ASAT > 3 N), cardiaque, pulmonaire ou rénale sévère, ou antécédent psychiatrique ou d'abus de substances",
+  "Grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Groupe traité", "traitement": "Avatrombopag à la dose indiquée, 52 patients" }
+  {
+   "nom": "Groupe traité",
+   "traitement": "Avatrombopag à la dose indiquée, 52 patients"
+  }
  ],
  "duree": "12 semaines pour le critère principal",
- "critere": "Réponse plaquettaire du jour 1 à la semaine 12"
+ "critere": "Réponse plaquettaire du jour 1 à la semaine 12",
+ "relu": "2026-11-24"
 }

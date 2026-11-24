@@ -24,12 +24,28 @@
   "Absence de donneur HLA compatible ou haplo-identique disponible"
  ],
  "bras": [
-  {"nom": "Groupe A", "traitement": "Greffe avec donneur 10/10 apparenté ou non : fludarabine 40 mg/m²/j et busulfan IV (J-6 à J-3), puis cyclophosphamide post-greffe, mycophénolate et tacrolimus"},
-  {"nom": "Groupe B", "traitement": "Greffe avec donneur 9/10 apparenté ou non, ou haplo-identique : cyclophosphamide, fludarabine, busulfan et irradiation corporelle totale 200 cGy, puis cyclophosphamide post-greffe, mycophénolate et tacrolimus"},
-  {"nom": "Groupe C (clos)", "traitement": "Donneurs de cellules souches"},
-  {"nom": "Groupe D (clos)", "traitement": "Entretiens avec les familles"},
-  {"nom": "Groupe E", "traitement": "Évaluations psychosociales et de qualité de vie des patients et aidants pendant la greffe"}
+  {
+   "nom": "Groupe A",
+   "traitement": "Greffe avec donneur 10/10 apparenté ou non : fludarabine 40 mg/m²/j et busulfan IV (J-6 à J-3), puis cyclophosphamide post-greffe, mycophénolate et tacrolimus"
+  },
+  {
+   "nom": "Groupe B",
+   "traitement": "Greffe avec donneur 9/10 apparenté ou non, ou haplo-identique : cyclophosphamide, fludarabine, busulfan et irradiation corporelle totale 200 cGy, puis cyclophosphamide post-greffe, mycophénolate et tacrolimus"
+  },
+  {
+   "nom": "Groupe C (clos)",
+   "traitement": "Donneurs de cellules souches"
+  },
+  {
+   "nom": "Groupe D (clos)",
+   "traitement": "Entretiens avec les familles"
+  },
+  {
+   "nom": "Groupe E",
+   "traitement": "Évaluations psychosociales et de qualité de vie des patients et aidants pendant la greffe"
+  }
  ],
  "duree": "Hospitalisation d'environ 1 mois, suivi jusqu'à 3 ans puis périodique",
- "critere": "Faisabilité de la greffe, un an après la greffe (reconstitution des lymphocytes T, B et myéloïdes du donneur et correction du phénotype d'infections sévères)"
+ "critere": "Faisabilité de la greffe, un an après la greffe (reconstitution des lymphocytes T, B et myéloïdes du donneur et correction du phénotype d'infections sévères)",
+ "relu": "2026-11-24"
 }

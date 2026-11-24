@@ -20,9 +20,16 @@
   "Plus de 2 diurétiques oraux (traitement diurétique oral maximal)"
  ],
  "bras": [
-  { "nom": "Télésurveillance", "traitement": "160 patients avec service de télésurveillance à domicile (balance connectée)" },
-  { "nom": "Soins habituels", "traitement": "160 patients, sans intervention" }
+  {
+   "nom": "Télésurveillance",
+   "traitement": "160 patients avec service de télésurveillance à domicile (balance connectée)"
+  },
+  {
+   "nom": "Soins habituels",
+   "traitement": "160 patients, sans intervention"
+  }
  ],
  "duree": "3 ans",
- "critere": "Hospitalisations pour insuffisance cardiaque et mortalité toutes causes, sur 3 ans"
+ "critere": "Hospitalisations pour insuffisance cardiaque et mortalité toutes causes, sur 3 ans",
+ "relu": "2026-11-24"
 }

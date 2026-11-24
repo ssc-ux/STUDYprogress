@@ -1,1 +1,36 @@
-{"h":"054d7badef3f","date":"2026-11-23","titre":"Anakinra ou corticoïdes dans la péricardite récidivante de l'enfant résistante à la colchicine","question":"L'anakinra contrôle-t-il plus rapidement et plus durablement la péricardite récidivante de l'enfant que la prednisone ?","contexte":"La péricardite récidivante est une complication de la péricardite aiguë, idiopathique ou survenant après un geste cardiaque invasif. Le traitement de première ligne associe AINS et colchicine. En cas de réponse insuffisante, les corticoïdes sont le traitement de deuxième ligne, mais leur usage est discuté : chez l'adulte, ils sont associés à un risque accru de récidive, et ce risque est plus élevé aux fortes doses.\n\nUn grand nombre de patients, adultes comme enfants, deviennent corticodépendants et présentent une poussée à la décroissance. Chez l'enfant, les effets indésirables d'une corticothérapie prolongée (déminéralisation osseuse, retard de croissance) rendent son usage au long cours peu souhaitable. Dans une étude rétrospective de 58 enfants traités par inhibiteur de l'IL-1, la corticodépendance était fréquente (45 des 48 patients traités), et l'absence de corticoïdes n'était pas associée à une probabilité plus élevée d'arrêter l'anakinra sans rechute.\n\nLe rationnel de l'étude repose sur l'effet de l'inhibition de l'IL-1, efficace dans la péricardite récidivante, considérée comme une maladie auto-inflammatoire. Par analogie avec l'arthrite juvénile idiopathique systémique, un blocage précoce des cytokines pourrait interrompre le processus pathogénique (« fenêtre d'opportunité »). CREATE est un essai de phase 3 randomisé, en ouvert, promu par l'Institut Gaslini (Italie), qui compare l'anakinra à la prednisone chez des enfants de 8 mois à 18 ans.","interet":"Si l'anakinra permet un contrôle plus rapide de la maladie et moins de récidives que la prednisone, il pourrait être proposé plus tôt en deuxième ligne, en épargnant les corticoïdes chez l'enfant.","profil":"Des enfants de 8 mois à 18 ans en rechute de péricardite, insuffisamment répondeurs ou intolérants aux AINS et à la colchicine.","inclusion":["Enfant de 8 mois à 18 ans, garçon ou fille","Consentement écrit des parents ou du représentant légal, assentiment de l'enfant si approprié","Rechute de péricardite après une péricardite aiguë antérieure (idiopathique ou post-geste cardiaque invasif)","Réponse insuffisante ou intolérance aux AINS ou à la colchicine"],"exclusion":["Péricardite d'origine infectieuse connue (virale, bactérienne, mycobactérienne)","Néoplasie antérieure sans guérison complète depuis au moins un an","Péricardite dans le cadre d'une maladie systémique auto-immune ou d'une maladie auto-inflammatoire génétiquement confirmée","Infection par le VIH, le VHB ou le VHC, ou tuberculose active ou latente","Corticothérapie à 1 mg/kg/j de prednisone ou plus pendant au moins 5 jours dans les 30 jours précédant la randomisation","Vaccin vivant dans le mois précédent ou pendant l'étude, grossesse"],"bras":[{"nom":"Bras 1 : corticoïdes","traitement":"Prednisone 1 mg/kg/j (maximum 50 mg/j) en deux prises pendant 14 jours, poursuivie jusqu'au jour 28 si la réponse est incomplète, puis décroissance progressive sur 10 semaines"},{"nom":"Bras 2 : anakinra","traitement":"Anakinra 2 mg/kg/j (maximum 100 mg/j) en une injection quotidienne jusqu'à la semaine 12, puis réduction progressive avec arrêt à la semaine 24 en l'absence de rechute"}],"duree":"24 semaines","critere":"Nombre de patients en réponse complète au jour 7, et nombre de patients avec une poussée à 3 mois"}
+{
+ "h": "054d7badef3f",
+ "date": "2026-11-23",
+ "titre": "Anakinra ou corticoïdes dans la péricardite récidivante de l'enfant résistante à la colchicine",
+ "question": "L'anakinra contrôle-t-il plus rapidement et plus durablement la péricardite récidivante de l'enfant que la prednisone ?",
+ "contexte": "La péricardite récidivante est une complication de la péricardite aiguë, idiopathique ou survenant après un geste cardiaque invasif. Le traitement de première ligne associe AINS et colchicine. En cas de réponse insuffisante, les corticoïdes sont le traitement de deuxième ligne, mais leur usage est discuté : chez l'adulte, ils sont associés à un risque accru de récidive, et ce risque est plus élevé aux fortes doses.\n\nUn grand nombre de patients, adultes comme enfants, deviennent corticodépendants et présentent une poussée à la décroissance. Chez l'enfant, les effets indésirables d'une corticothérapie prolongée (déminéralisation osseuse, retard de croissance) rendent son usage au long cours peu souhaitable. Dans une étude rétrospective de 58 enfants traités par inhibiteur de l'IL-1, la corticodépendance était fréquente (45 des 48 patients traités), et l'absence de corticoïdes n'était pas associée à une probabilité plus élevée d'arrêter l'anakinra sans rechute.\n\nLe rationnel de l'étude repose sur l'effet de l'inhibition de l'IL-1, efficace dans la péricardite récidivante, considérée comme une maladie auto-inflammatoire. Par analogie avec l'arthrite juvénile idiopathique systémique, un blocage précoce des cytokines pourrait interrompre le processus pathogénique (« fenêtre d'opportunité »). CREATE est un essai de phase 3 randomisé, en ouvert, promu par l'Institut Gaslini (Italie), qui compare l'anakinra à la prednisone chez des enfants de 8 mois à 18 ans.",
+ "interet": "Si l'anakinra permet un contrôle plus rapide de la maladie et moins de récidives que la prednisone, il pourrait être proposé plus tôt en deuxième ligne, en épargnant les corticoïdes chez l'enfant.",
+ "profil": "Des enfants de 8 mois à 18 ans en rechute de péricardite, insuffisamment répondeurs ou intolérants aux AINS et à la colchicine.",
+ "inclusion": [
+  "Enfant de 8 mois à 18 ans, garçon ou fille",
+  "Consentement écrit des parents ou du représentant légal, assentiment de l'enfant si approprié",
+  "Rechute de péricardite après une péricardite aiguë antérieure (idiopathique ou post-geste cardiaque invasif)",
+  "Réponse insuffisante ou intolérance aux AINS ou à la colchicine"
+ ],
+ "exclusion": [
+  "Péricardite d'origine infectieuse connue (virale, bactérienne, mycobactérienne)",
+  "Néoplasie antérieure sans guérison complète depuis au moins un an",
+  "Péricardite dans le cadre d'une maladie systémique auto-immune ou d'une maladie auto-inflammatoire génétiquement confirmée",
+  "Infection par le VIH, le VHB ou le VHC, ou tuberculose active ou latente",
+  "Corticothérapie à 1 mg/kg/j de prednisone ou plus pendant au moins 5 jours dans les 30 jours précédant la randomisation",
+  "Vaccin vivant dans le mois précédent ou pendant l'étude, grossesse"
+ ],
+ "bras": [
+  {
+   "nom": "Bras 1 : corticoïdes",
+   "traitement": "Prednisone 1 mg/kg/j (maximum 50 mg/j) en deux prises pendant 14 jours, poursuivie jusqu'au jour 28 si la réponse est incomplète, puis décroissance progressive sur 10 semaines"
+  },
+  {
+   "nom": "Bras 2 : anakinra",
+   "traitement": "Anakinra 2 mg/kg/j (maximum 100 mg/j) en une injection quotidienne jusqu'à la semaine 12, puis réduction progressive avec arrêt à la semaine 24 en l'absence de rechute"
+  }
+ ],
+ "duree": "24 semaines",
+ "critere": "Nombre de patients en réponse complète au jour 7, et nombre de patients avec une poussée à 3 mois",
+ "relu": "2026-11-24"
+}

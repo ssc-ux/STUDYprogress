@@ -18,11 +18,10 @@
   "Diabète",
   "Grossesse ou allaitement",
   "Perte de poids récente ou traitement amaigrissant dans les 90 jours",
-  "Troubles digestifs récents ou chroniques, gastroparésie",
-  "Sclérodermie",
-  "Antécédent personnel ou familial de cancer médullaire de la thyroïde ou de NEM2",
-  "Pancréatite aiguë ou chronique, maladie thyroïdienne non contrôlée",
-  "Antécédent de tentative de suicide ou idées suicidaires dans les 90 jours, pacemaker ou défibrillateur, hospitalisation en cours"
+  "Troubles digestifs récents ou chroniques, gastroparésie ou sclérodermie",
+  "Antécédent personnel ou familial de cancer médullaire de la thyroïde ou de NEM2, pancréatite aiguë ou chronique, maladie thyroïdienne non contrôlée",
+  "Tentative de suicide ou idées suicidaires dans les 90 jours",
+  "Pacemaker ou défibrillateur, hospitalisation en cours"
  ],
  "bras": [
   {
@@ -31,5 +30,6 @@
   }
  ],
  "duree": "12 semaines",
- "critere": "Tolérance du sémaglutide à 12 semaines"
+ "critere": "Tolérance du sémaglutide à 12 semaines",
+ "relu": "2026-11-24"
 }

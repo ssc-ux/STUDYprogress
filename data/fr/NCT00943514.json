@@ -20,8 +20,12 @@
   "Enfants de moins de 5 ans"
  ],
  "bras": [
-  {"nom": "Participants", "traitement": "Enfants dès 5 ans et adultes avec bronchectasies ou infections respiratoires chroniques ou récidivantes : bilan initial, suivi annuel et visites d'exacerbation optionnelles"}
+  {
+   "nom": "Participants",
+   "traitement": "Enfants dès 5 ans et adultes avec bronchectasies ou infections respiratoires chroniques ou récidivantes : bilan initial, suivi annuel et visites d'exacerbation optionnelles"
+  }
  ],
  "duree": "Bilan initial, puis suivi annuel tant que le patient accepte de revenir",
- "critere": "Identification des causes et maladies sous-jacentes associées aux bronchectasies, à l'inclusion, chaque année et lors des visites d'exacerbation"
+ "critere": "Identification des causes et maladies sous-jacentes associées aux bronchectasies, à l'inclusion, chaque année et lors des visites d'exacerbation",
+ "relu": "2026-11-24"
 }

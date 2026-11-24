@@ -16,8 +16,12 @@
   "Comorbidité significative pouvant engager le pronostic vital"
  ],
  "bras": [
-  { "nom": "Cohorte de proliférations plasmocytaires", "traitement": "Patients suivis avec recueil de données cliniques et d'échantillons, sans intervention imposée" }
+  {
+   "nom": "Cohorte de proliférations plasmocytaires",
+   "traitement": "Patients suivis avec recueil de données cliniques et d'échantillons, sans intervention imposée"
+  }
  ],
  "duree": "10 ans",
- "critere": "Constitution de la cohorte et analyse du lien entre statut MRD et pronostic, sur 10 ans"
+ "critere": "Constitution de la cohorte et analyse du lien entre statut MRD et pronostic, sur 10 ans",
+ "relu": "2026-11-24"
 }

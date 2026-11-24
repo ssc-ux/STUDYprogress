@@ -16,8 +16,12 @@
   "Critères d'exclusion non précisés"
  ],
  "bras": [
-  {"nom": "Patients avec hémopathie", "traitement": "Prélèvement de tissus, sang et liquides lors de gestes diagnostiques ou de routine, pour des études futures"}
+  {
+   "nom": "Patients avec hémopathie",
+   "traitement": "Prélèvement de tissus, sang et liquides lors de gestes diagnostiques ou de routine, pour des études futures"
+  }
  ],
  "duree": "Non précisé (étude de très longue durée, jusqu'en 2040)",
- "critere": "Collecte d'échantillons pour des études diagnostiques, pronostiques ou de suivi immunologique, et mise en place d'une plateforme centralisée de recueil et de stockage (30 ans)"
+ "critere": "Collecte d'échantillons pour des études diagnostiques, pronostiques ou de suivi immunologique, et mise en place d'une plateforme centralisée de recueil et de stockage (30 ans)",
+ "relu": "2026-11-24"
 }

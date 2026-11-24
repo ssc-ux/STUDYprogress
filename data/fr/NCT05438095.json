@@ -19,8 +19,12 @@
   "Incapacité à répondre à des questionnaires oraux"
  ],
  "bras": [
-  { "nom": "Cohorte sarcoïdose", "traitement": "Patients traités par médicaments oraux de la sarcoïdose, avec mesure de l'observance et suivi clinique, sans intervention" }
+  {
+   "nom": "Cohorte sarcoïdose",
+   "traitement": "Patients traités par médicaments oraux de la sarcoïdose, avec mesure de l'observance et suivi clinique, sans intervention"
+  }
  ],
  "duree": "12 mois",
- "critere": "Variation des scores KSQ et SGRQ et du VEMS, de la CVF et de la DLCO, à l'inclusion, 6 et 12 mois"
+ "critere": "Variation des scores KSQ et SGRQ, du VEMS, de la CVF, de la DLCO, de la distance au test de marche de 6 minutes et du score de dyspnée mMRC à l'inclusion, 6 et 12 mois ; recours aux soins (base CRISP) sur 24 mois",
+ "relu": "2026-11-24"
 }

@@ -16,9 +16,10 @@
   "Contre-indication ou inadéquation du mycophénolate",
   "Biothérapie (sauf bélimumab) ou produit expérimental dans les 90 jours ou 5 demi-vies",
   "Rituximab ou autre déplétion B dans les 6 mois, traitement antérieur par VIB4920",
-  "Vaccin vivant atténué dans les 4 semaines",
-  "Comorbidités nécessitant des corticoïdes systémiques (≥ 3 cures en 12 mois)",
-  "Cancer actuel ou antérieur (sauf carcinomes cutanés ou du col traités > 12 mois), insuffisance rénale terminale"
+  "Risque thromboembolique : thrombose récente ou récidivante, déficit en antithrombine III, protéine C ou S, syndrome des antiphospholipides",
+  "Cancer actuel ou antérieur (sauf carcinomes cutanés ou du col traités > 12 mois), greffe, insuffisance rénale terminale (DFGe < 20)",
+  "Infection active, tuberculose, VIH, hépatite B ou C (sauf C guérie)",
+  "Vaccin vivant atténué dans les 4 semaines ; corticoïdes systémiques pour une autre comorbidité (≥ 3 cures en 12 mois)"
  ],
  "bras": [
   {
@@ -31,5 +32,6 @@
   }
  ],
  "duree": "36 semaines",
- "critere": "Proportion de patients ayant une réponse rénale complète à la semaine 36"
+ "critere": "Proportion de patients ayant une réponse rénale complète à la semaine 36",
+ "relu": "2026-11-24"
 }

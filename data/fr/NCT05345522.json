@@ -3,7 +3,7 @@
  "date": "2026-11-14",
  "titre": "Anticorps anti-récepteur de l'IL-6 dans la maladie de Castleman multicentrique idiopathique",
  "question": "Un anticorps humanisé anti-récepteur de l'IL-6 est-il sûr et actif chez des adultes ayant une maladie de Castleman multicentrique idiopathique (iMCD) ?",
- "contexte": "La maladie de Castleman multicentrique idiopathique est un trouble lymphoprolifératif rare, avec adénopathies multiples, fièvre, cytopénies et atteintes d'organes. Elle est liée à une hypersécrétion de cytokines, en particulier d'IL-6, en l'absence d'infection par HHV-8 et de VIH.\n\nLe siltuximab, anticorps anti-IL-6, est le traitement de référence. L'accès aux anticorps anti-IL-6 ou anti-IL-6R reste variable selon les pays. Le tocilizumab est parfois utilisé hors AMM. La recherche d'alternatives locales est donc pertinente.\n\nCette phase 2a de Beijing VDJBio est multicentrique, ouverte et non randomisée. Elle teste un anticorps humanisé recombinant anti-IL-6R, en escalade de dose (4, 6 et 8 mg/kg toutes les 2 semaines, 3 patients par dose), puis en phase II, pour 25 patients au total. L'objectif principal est la tolérance et la dose recommandée pour la suite du développement.",
+ "contexte": "La maladie de Castleman multicentrique idiopathique est un trouble lymphoprolifératif rare, avec adénopathies multiples, fièvre, cytopénies et atteintes d'organes. Elle est liée à une hypersécrétion de cytokines, en particulier d'IL-6, en l'absence d'infection par HHV-8 et de VIH.\n\nLe siltuximab, anticorps anti-IL-6, est le traitement de référence. L'accès aux anticorps anti-IL-6 ou anti-IL-6R reste variable selon les pays. Le tocilizumab est parfois utilisé hors AMM. La recherche d'alternatives locales est donc pertinente.\n\nCette phase 2a de Beijing VDJBio est multicentrique, ouverte et non randomisée. Elle teste un anticorps humanisé recombinant anti-IL-6R, en escalade de dose (4, 6 et 8 mg/kg toutes les 2 semaines, 3 patients par dose), puis en phase II (4 ou 6 mg/kg toutes les 3 semaines, 8 patients par groupe), pour 25 patients au total. L'objectif principal est la tolérance et la dose recommandée pour la suite du développement.",
  "interet": "L'étude pourrait ajouter une option anti-IL-6R pour l'iMCD. Les premiers résultats sont attendus sur la sécurité et l'efficacité préliminaire, sans comparaison.",
  "profil": "Des adultes ayant une iMCD symptomatique et mesurable, sans anti-IL-6 antérieur.",
  "inclusion": [
@@ -24,11 +24,28 @@
   "Réaction sévère antérieure aux anticorps monoclonaux, grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "4 mg/kg toutes les 2 semaines", "traitement": "Anti-IL-6R humanisé recombinant, dose faible de la phase I" },
-  { "nom": "6 mg/kg toutes les 2 semaines", "traitement": "Même anticorps, dose intermédiaire de la phase I" },
-  { "nom": "8 mg/kg toutes les 2 semaines", "traitement": "Même anticorps, dose élevée de la phase I" },
-  { "nom": "Phase II", "traitement": "Dose recommandée issue de la phase I" }
+  {
+   "nom": "Phase I : 4 mg/kg toutes les 2 semaines",
+   "traitement": "Anti-IL-6R humanisé recombinant, dose faible (3 patients)"
+  },
+  {
+   "nom": "Phase I : 6 mg/kg toutes les 2 semaines",
+   "traitement": "Même anticorps, dose intermédiaire (3 patients)"
+  },
+  {
+   "nom": "Phase I : 8 mg/kg toutes les 2 semaines",
+   "traitement": "Même anticorps, dose élevée (3 patients)"
+  },
+  {
+   "nom": "Phase II : 4 mg/kg toutes les 3 semaines",
+   "traitement": "Même anticorps, ≥ 4 cycles (8 patients) ; passage possible à 6 mg/kg si l'efficacité est jugée insuffisante"
+  },
+  {
+   "nom": "Phase II : 6 mg/kg toutes les 3 semaines",
+   "traitement": "Même anticorps, ≥ 4 cycles (8 patients)"
+  }
  ],
  "duree": "En moyenne 3 ans en phase I et 1 an en phase II",
- "critere": "Nombre et grade des événements indésirables (CTCAE v5.0) jusqu'à la fin de l'étude"
+ "critere": "Nombre et grade des événements indésirables (CTCAE v5.0) jusqu'à la fin de l'étude",
+ "relu": "2026-11-24"
 }

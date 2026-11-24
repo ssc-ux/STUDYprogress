@@ -1,1 +1,41 @@
-{"h":"41132e5a6771","date":"2026-11-23","titre":"Protocole contenant de la cytarabine dans l'histiocytose à cellules de Langerhans de l'enfant","question":"Un protocole de chimiothérapie incluant la cytarabine, adapté au groupe de risque, est-il efficace chez les enfants atteints d'une histiocytose à cellules de Langerhans (HCL) nouvellement diagnostiquée ?","contexte":"L'histiocytose à cellules de Langerhans (HCL) est une maladie rare de l'enfant, caractérisée par l'infiltration de divers organes par des cellules CD1a+ et/ou langérine+. Son pronostic dépend de l'extension (atteinte mono- ou multisystémique) et de l'atteinte des organes à risque (système hématopoïétique, foie, rate). Les protocoles de référence LCH-II et LCH-III reposent sur l'association prednisone et vincristine, avec ou sans étoposide.\n\nCette étude monocentrique, menée à Shanghai, fait suite à une série historique de 150 enfants atteints de formes multisystémiques traités entre 2010 et 2014 selon un protocole dérivé de LCH-II (bras B). Dans cette série, la survie globale à 3 ans des enfants avec atteinte d'organe à risque était plus basse que dans les publications de référence, et aucun traitement de rattrapage efficace n'était disponible. La cytarabine est utilisée dans l'HCL mais n'avait jamais été évaluée de façon prospective dans cet hôpital. Les enfants sont répartis en quatre groupes selon l'extension de la maladie : le groupe 1 (multisystémique avec organe à risque) reçoit une induction de 6 semaines puis une consolidation et un entretien contenant de la cytarabine ; le groupe 2 (multisystémique sans organe à risque) reçoit une induction avec cytarabine puis 46 semaines de continuation sans cytarabine ; le groupe 3 (atteinte monosystémique multifocale ou de site spécial) reçoit prednisone et vincristine ; le groupe 4 (atteinte osseuse, cutanée ou ganglionnaire unifocale) bénéficie d'un traitement local puis d'une surveillance. Les résultats seront comparés aux séries historiques du centre. L'étude est non randomisée.","interet":"Si la cytarabine améliore la réponse initiale et réduit les réactivations, ce protocole pourrait offrir une option pour les formes multisystémiques, en particulier celles avec atteinte d'organe à risque. L'étude, non randomisée et monocentrique, apportera surtout des données prospectives comparées à une série historique.","profil":"Des enfants de moins de 18 ans atteints d'une histiocytose à cellules de Langerhans nouvellement diagnostiquée.","inclusion":["Âge inférieur à 18 ans","HCL nouvellement diagnostiquée, avec cellules caractéristiques et marquage CD1a et/ou langérine positif","Absence d'immunodéficience congénitale, d'infection par le VIH ou de greffe d'organe antérieure","Aucune chimiothérapie, thérapie ciblée ou radiothérapie antérieure","Corticothérapie antérieure éventuelle inférieure à 280 mg/m² d'équivalent prednisone"],"exclusion":["Infection grave non contrôlée","Espérance de vie inférieure à 2 semaines"],"bras":[{"nom":"Groupe 1","traitement":"Atteinte multisystémique avec organe à risque : induction de 6 semaines (prednisone, cytarabine, vincristine), consolidation (semaines 7-22) puis entretien (semaines 25-52) avec cytarabine, et mercaptopurine"},{"nom":"Groupe 2","traitement":"Atteinte multisystémique sans organe à risque : induction avec cytarabine, prednisone et vincristine (semaines 1-6), puis continuation prednisone, vincristine et mercaptopurine (semaines 7-52)"},{"nom":"Groupe 3","traitement":"Atteinte monosystémique multifocale ou de site spécial : prednisone et vincristine, induction puis continuation jusqu'à la semaine 52"},{"nom":"Groupe 4","traitement":"Atteinte monosystémique unifocale (os, peau, ganglion) : traitement local puis surveillance, chimiothérapie seulement en cas de réactivation"}],"duree":"Environ 52 semaines de traitement, suivi jusqu'à 5 ans","critere":"Taux de répondeurs après le traitement initial chez les patients avec atteinte d'organe à risque (semaine 6 ou 12), et taux de réactivation pour tous les patients (jusqu'à 5 ans)"}
+{
+ "h": "41132e5a6771",
+ "date": "2026-11-23",
+ "titre": "Protocole contenant de la cytarabine dans l'histiocytose à cellules de Langerhans de l'enfant",
+ "question": "Un protocole de chimiothérapie incluant la cytarabine, adapté au groupe de risque, est-il efficace chez les enfants atteints d'une histiocytose à cellules de Langerhans (HCL) nouvellement diagnostiquée ?",
+ "contexte": "L'histiocytose à cellules de Langerhans (HCL) est une maladie rare de l'enfant, caractérisée par l'infiltration de divers organes par des cellules CD1a+ et/ou langérine+. Son pronostic dépend de l'extension (atteinte mono- ou multisystémique) et de l'atteinte des organes à risque (système hématopoïétique, foie, rate). Les protocoles de référence LCH-II et LCH-III reposent sur l'association prednisone et vincristine, avec ou sans étoposide.\n\nCette étude monocentrique, menée à Shanghai, fait suite à une série historique de 150 enfants atteints de formes multisystémiques traités entre 2010 et 2014 selon un protocole dérivé de LCH-II (bras B). Dans cette série, la survie globale à 3 ans des enfants avec atteinte d'organe à risque était plus basse que dans les publications de référence, et aucun traitement de rattrapage efficace n'était disponible. La cytarabine est utilisée dans l'HCL mais n'avait jamais été évaluée de façon prospective dans cet hôpital. Les enfants sont répartis en quatre groupes selon l'extension de la maladie : le groupe 1 (multisystémique avec organe à risque) reçoit une induction de 6 semaines puis une consolidation et un entretien contenant de la cytarabine ; le groupe 2 (multisystémique sans organe à risque) reçoit une induction avec cytarabine puis 46 semaines de continuation sans cytarabine ; le groupe 3 (atteinte monosystémique multifocale ou de site spécial) reçoit prednisone et vincristine ; le groupe 4 (atteinte osseuse, cutanée ou ganglionnaire unifocale) bénéficie d'un traitement local puis d'une surveillance. Les résultats seront comparés aux séries historiques du centre. L'étude est non randomisée.",
+ "interet": "Si la cytarabine améliore la réponse initiale et réduit les réactivations, ce protocole pourrait offrir une option pour les formes multisystémiques, en particulier celles avec atteinte d'organe à risque. L'étude, non randomisée et monocentrique, apportera surtout des données prospectives comparées à une série historique.",
+ "profil": "Des enfants de moins de 18 ans atteints d'une histiocytose à cellules de Langerhans nouvellement diagnostiquée.",
+ "inclusion": [
+  "Âge inférieur à 18 ans",
+  "HCL nouvellement diagnostiquée, avec cellules caractéristiques et marquage CD1a et/ou langérine positif",
+  "Absence d'immunodéficience congénitale, d'infection par le VIH ou de greffe d'organe antérieure",
+  "Aucune chimiothérapie, thérapie ciblée ou radiothérapie antérieure",
+  "Corticothérapie antérieure éventuelle inférieure à 280 mg/m² d'équivalent prednisone"
+ ],
+ "exclusion": [
+  "Infection grave non contrôlée",
+  "Espérance de vie inférieure à 2 semaines"
+ ],
+ "bras": [
+  {
+   "nom": "Groupe 1",
+   "traitement": "Atteinte multisystémique avec organe à risque : induction de 6 semaines (prednisone, cytarabine, vincristine), consolidation (semaines 7-22) puis entretien (semaines 25-52) avec cytarabine, et mercaptopurine"
+  },
+  {
+   "nom": "Groupe 2",
+   "traitement": "Atteinte multisystémique sans organe à risque : induction avec cytarabine, prednisone et vincristine (semaines 1-6), puis continuation prednisone, vincristine et mercaptopurine (semaines 7-52)"
+  },
+  {
+   "nom": "Groupe 3",
+   "traitement": "Atteinte monosystémique multifocale ou de site spécial : prednisone et vincristine, induction puis continuation jusqu'à la semaine 52"
+  },
+  {
+   "nom": "Groupe 4",
+   "traitement": "Atteinte monosystémique unifocale (os, peau, ganglion) : traitement local puis surveillance, chimiothérapie seulement en cas de réactivation"
+  }
+ ],
+ "duree": "Environ 52 semaines de traitement, suivi jusqu'à 5 ans",
+ "critere": "Taux de répondeurs après le traitement initial chez les patients avec atteinte d'organe à risque (semaine 6 ou 12), et taux de réactivation pour tous les patients (jusqu'à 5 ans)",
+ "relu": "2026-11-24"
+}

@@ -19,8 +19,12 @@
   "PID d'une autre cause non auto-immune (professionnelle, toxique)"
  ],
  "bras": [
-  { "nom": "Groupe EPIMAR", "traitement": "Patients suivis avec une approche multidisciplinaire, sans intervention thérapeutique imposée" }
+  {
+   "nom": "Groupe EPIMAR",
+   "traitement": "Patients suivis avec une approche multidisciplinaire, sans intervention thérapeutique imposée"
+  }
  ],
  "duree": "5 ans",
- "critere": "Mortalité à 5 ans, épreuves fonctionnelles respiratoires et fibrose au scanner (inclusion et visites annuelles)"
+ "critere": "Mortalité à 5 ans, épreuves fonctionnelles respiratoires et fibrose au scanner (inclusion et visites annuelles)",
+ "relu": "2026-11-24"
 }

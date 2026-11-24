@@ -15,9 +15,16 @@
   "Aucun critère d'exclusion"
  ],
  "bras": [
-  {"nom": "Patients avec maladie neurodégénérative", "traitement": "Don de cellules somatiques (biopsie cutanée lors d'une chirurgie ou cheveux) pour dériver des cellules iPS"},
-  {"nom": "Donneurs sains", "traitement": "Don de cellules somatiques comme témoins"}
+  {
+   "nom": "Patients avec maladie neurodégénérative",
+   "traitement": "Don de cellules somatiques (biopsie cutanée lors d'une chirurgie ou cheveux) pour dériver des cellules iPS"
+  },
+  {
+   "nom": "Donneurs sains",
+   "traitement": "Don de cellules somatiques comme témoins"
+  }
  ],
  "duree": "Non précisé (don unique de cellules)",
- "critere": "Non précisé"
+ "critere": "Non précisé",
+ "relu": "2026-11-24"
 }

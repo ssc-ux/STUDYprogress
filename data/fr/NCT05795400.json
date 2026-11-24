@@ -21,7 +21,7 @@
  "bras": [
   {
    "nom": "Dapagliflozine",
-   "traitement": "Dapagliflozine 10 mg par jour, dès les 24 premières heures, avec diurétiques et antagoniste des minéralocorticoïdes"
+   "traitement": "Dapagliflozine 10 mg, dès les 24 premières heures, avec diurétiques et antagoniste des minéralocorticoïdes"
   },
   {
    "nom": "Contrôle",
@@ -29,5 +29,6 @@
   }
  ],
  "duree": "6 mois",
- "critere": "Score KCCQ-SC, distance au test de marche de 6 minutes et NT-proBNP à 6 mois."
+ "critere": "Score KCCQ-SC, distance au test de marche de 6 minutes et NT-proBNP à 6 mois.",
+ "relu": "2026-11-24"
 }

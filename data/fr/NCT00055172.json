@@ -19,10 +19,20 @@
   "Adulte actuellement incapable de consentir"
  ],
  "bras": [
-  {"nom": "Cas index", "traitement": "Patients de 6 mois et plus : prélèvement sanguin pour analyse génétique"},
-  {"nom": "Fratrie", "traitement": "Frères et sœurs de 6 mois et plus : prélèvement sanguin"},
-  {"nom": "Apparentés hors fratrie", "traitement": "Parents, oncles, tantes, grands-parents de 18 ans et plus : prélèvement sanguin"}
+  {
+   "nom": "Cas index",
+   "traitement": "Patients de 6 mois et plus : prélèvement sanguin pour analyse génétique"
+  },
+  {
+   "nom": "Fratrie",
+   "traitement": "Frères et sœurs de 6 mois et plus : prélèvement sanguin"
+  },
+  {
+   "nom": "Apparentés hors fratrie",
+   "traitement": "Parents, oncles, tantes, grands-parents de 18 ans et plus : prélèvement sanguin"
+  }
  ],
  "duree": "Non précisé",
- "critere": "Identification de formes de déficit immunitaire héréditaire dues à des mutations de cytokines dépendantes de γc, de leurs récepteurs ou de molécules de signalisation, en continu"
+ "critere": "Identification de formes de déficit immunitaire héréditaire dues à des mutations de cytokines dépendantes de γc, de leurs récepteurs ou de molécules de signalisation, en continu",
+ "relu": "2026-11-24"
 }

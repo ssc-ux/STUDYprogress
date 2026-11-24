@@ -15,15 +15,13 @@
   "Test SARS-CoV-2 négatif et consentement écrit"
  ],
  "exclusion": [
-  "Grossesse, allaitement ou projet de grossesse",
-  "Âge > 65 ans (Union européenne uniquement)",
-  "Atteinte seulement hilaire fibrosante ou inflammatoire au scanner haute résolution",
+  "Grossesse ou allaitement ; âge > 65 ans (Union européenne uniquement)",
   "Antécédent de traitement anti-TNF, rituximab ou ACTH dans les 12 mois",
-  "Sarcoïdose extrapulmonaire ou neurologique nécessitant un traitement systémique",
-  "CVF < 50 % de la valeur prédite, emphysème",
-  "Maladie hépatique ou rénale significative, hypertension non contrôlée, ECG anormal",
-  "Autre maladie auto-immune traitée ou autre corticothérapie systémique",
-  "Participation à un autre essai récent"
+  "Sarcoïdose extrapulmonaire ou neurologique nécessitant un traitement systémique, syndrome de Löfgren",
+  "CVF < 50 % de la valeur prédite, emphysème, atteinte hilaire isolée au scanner, hypertension pulmonaire traitée",
+  "Insuffisance cardiaque NYHA 3-4, ECG anormal, maladie hépatique ou rénale significative, hypertension non contrôlée",
+  "Tuberculose active ou latente, hépatite B ou C, VIH, cancer dans les 2 ans",
+  "Autre maladie auto-immune traitée, autre corticothérapie systémique, participation à un autre essai récent"
  ],
  "bras": [
   {
@@ -44,5 +42,6 @@
   }
  ],
  "duree": "20 semaines",
- "critere": "Fréquence des événements indésirables (dont graves, toxicités limitantes de dose et événements d'intérêt particulier), sur 20 semaines."
+ "critere": "Fréquence des événements indésirables (dont graves, toxicités limitantes de dose et événements d'intérêt particulier), sur 20 semaines.",
+ "relu": "2026-11-24"
 }

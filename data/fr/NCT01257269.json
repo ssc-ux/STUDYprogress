@@ -16,9 +16,16 @@
   "Critères d'exclusion non précisés"
  ],
  "bras": [
-  {"nom": "Patients avec PTT héréditaire", "traitement": "Observation : recueil de données cliniques, moléculaires et thérapeutiques, rétrospectives et prospectives"},
-  {"nom": "Apparentés", "traitement": "Observation de membres de la famille de patients avec PTT héréditaire confirmé"}
+  {
+   "nom": "Patients avec PTT héréditaire",
+   "traitement": "Observation : recueil de données cliniques, moléculaires et thérapeutiques, rétrospectives et prospectives"
+  },
+  {
+   "nom": "Apparentés",
+   "traitement": "Observation de membres de la famille de patients avec PTT héréditaire confirmé"
+  }
  ],
  "duree": "Suivi ouvert, jusqu'au décès ou au retrait du consentement",
- "critere": "Présentation clinique et évolution du PTT héréditaire, évaluées chaque année jusqu'au décès"
+ "critere": "Présentation clinique et évolution du PTT héréditaire, évaluées chaque année jusqu'au décès",
+ "relu": "2026-11-24"
 }

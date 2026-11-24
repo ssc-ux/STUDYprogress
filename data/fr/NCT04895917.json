@@ -21,8 +21,7 @@
   "Arythmies ventriculaires répétées, fibrillation atriale non contrôlée, PAS couchée < 100 mmHg",
   "BPCO ou asthme persistant connus",
   "Traitement antérieur par anti-CD38 ou pomalidomide",
-  "Autre cancer actif, VIH, hépatite B ou C active",
-  "Grossesse ou allaitement"
+  "Autre cancer actif, VIH, hépatite B ou C active, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -31,5 +30,6 @@
   }
  ],
  "duree": "Non précisé (critère évalué à 6 mois)",
- "critere": "Taux de réponse hématologique de bonne qualité (RC + VGPR) à 6 mois"
+ "critere": "Taux de réponse hématologique de bonne qualité (RC + VGPR) à 6 mois",
+ "relu": "2026-11-24"
 }

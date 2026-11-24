@@ -22,8 +22,12 @@
   "Absence d'allogreffe antérieure (autogreffe antérieure autorisée)"
  ],
  "bras": [
-  {"nom": "Bras I", "traitement": "Prise en charge antivirale standard par ganciclovir, valganciclovir ou foscarnet pendant 2 semaines ou jusqu'à négativation de la charge virale CMV, avec cures supplémentaires si nouvelle réactivation"}
+  {
+   "nom": "Bras I",
+   "traitement": "Prise en charge antivirale standard par ganciclovir, valganciclovir ou foscarnet pendant 2 semaines ou jusqu'à négativation de la charge virale CMV, avec cures supplémentaires si nouvelle réactivation"
+  }
  ],
  "duree": "Suivi jusqu'à 1 an",
- "critere": "Début d'un traitement anti-CMV au jour 80 après la greffe, et diagnostic de pneumopathie à CMV à 1 an"
+ "critere": "Début d'un traitement anti-CMV au jour 80 après la greffe, et diagnostic de pneumopathie à CMV à 1 an",
+ "relu": "2026-11-24"
 }

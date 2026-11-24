@@ -23,9 +23,16 @@
   "Autre cancer avant l'inclusion"
  ],
  "bras": [
-  { "nom": "R1", "traitement": "Vémurafénib poursuivi 6 mois après négativation de BRAF" },
-  { "nom": "R2", "traitement": "Vémurafénib poursuivi 12 mois après négativation de BRAF" }
+  {
+   "nom": "R1",
+   "traitement": "Vémurafénib poursuivi 6 mois après négativation de BRAF"
+  },
+  {
+   "nom": "R2",
+   "traitement": "Vémurafénib poursuivi 12 mois après négativation de BRAF"
+  }
  ],
  "duree": "Non précisé (critère évalué à 2 ans)",
- "critere": "Survie sans événement à 2 ans"
+ "critere": "Survie sans événement à 2 ans",
+ "relu": "2026-11-24"
 }

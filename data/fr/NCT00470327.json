@@ -14,8 +14,12 @@
   "Absence de pneumopathie interstitielle diffuse"
  ],
  "bras": [
-  {"nom": "Patients avec PID", "traitement": "Recueil de données cliniques et d'échantillons sanguins, avec un groupe témoin pour comparaison"}
+  {
+   "nom": "Patients avec PID",
+   "traitement": "Recueil de données cliniques et d'échantillons sanguins, avec un groupe témoin pour comparaison"
+  }
  ],
  "duree": "Non précisé (suivi annuel)",
- "critere": "Évolution naturelle de la maladie chez les patients atteints de PID, évaluée chaque année"
+ "critere": "Évolution naturelle de la maladie chez les patients atteints de PID, évaluée chaque année",
+ "relu": "2026-11-24"
 }

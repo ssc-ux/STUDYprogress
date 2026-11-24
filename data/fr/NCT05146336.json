@@ -16,8 +16,12 @@
   "Complication ou circonstance médicale survenant après le consentement et contre-indiquant ou rendant inapproprié le dispositif"
  ],
  "bras": [
-  { "nom": "Patients traités par CytoSorb", "traitement": "Cohorte de patients de réanimation, suivie sans intervention imposée par l'étude" }
+  {
+   "nom": "Patients traités par CytoSorb",
+   "traitement": "Cohorte de patients de réanimation, suivie sans intervention imposée par l'étude"
+  }
  ],
  "duree": "Jusqu'à la sortie de réanimation puis de l'hôpital (en moyenne 7 et 14 jours)",
- "critere": "Mortalité en réanimation (jusqu'à la sortie ou au décès) et mortalité hospitalière"
+ "critere": "Mortalité en réanimation (jusqu'à la sortie ou au décès) et mortalité hospitalière",
+ "relu": "2026-11-24"
 }

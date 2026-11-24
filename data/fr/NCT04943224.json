@@ -23,9 +23,16 @@
   "Autre cancer avant l'inclusion"
  ],
  "bras": [
-  { "nom": "R1", "traitement": "Tramétinib, avec ctDNA négatif ou DAS 0-1 sur 3 contrôles consécutifs à 3 mois d'intervalle" },
-  { "nom": "R2", "traitement": "Tramétinib, avec ctDNA négatif ou DAS 0-1 sur 5 contrôles consécutifs à 3 mois d'intervalle" }
+  {
+   "nom": "R1",
+   "traitement": "Tramétinib, avec ctDNA négatif ou DAS 0-1 sur 3 contrôles consécutifs à 3 mois d'intervalle"
+  },
+  {
+   "nom": "R2",
+   "traitement": "Tramétinib, avec ctDNA négatif ou DAS 0-1 sur 5 contrôles consécutifs à 3 mois d'intervalle"
+  }
  ],
  "duree": "Non précisé (critère évalué à 2 ans)",
- "critere": "Survie sans événement à 2 ans"
+ "critere": "Survie sans événement à 2 ans",
+ "relu": "2026-11-24"
 }

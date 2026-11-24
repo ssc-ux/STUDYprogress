@@ -23,9 +23,16 @@
   "Refus de l'auto-injection sous-cutanée à domicile"
  ],
  "bras": [
-  { "nom": "Abatacept", "traitement": "Abatacept sous-cutané hebdomadaire : 125 mg chez l'adulte, selon le poids chez l'enfant (50 mg, 87,5 mg ou 125 mg) ; enfants < 50 kg en bras unique ouvert" },
-  { "nom": "Placebo", "traitement": "Placebo hebdomadaire pendant 6 mois (patients ≥ 50 kg), puis abatacept" }
+  {
+   "nom": "Abatacept",
+   "traitement": "Abatacept sous-cutané hebdomadaire : 125 mg chez l'adulte, selon le poids chez l'enfant (50 mg, 87,5 mg ou 125 mg) ; enfants < 50 kg en bras unique ouvert ; randomisation 1:2 abatacept/placebo chez les patients ≥ 50 kg et adultes"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo hebdomadaire pendant 6 mois (patients ≥ 50 kg), puis abatacept"
+  }
  ],
  "duree": "12 mois de traitement, avec option de poursuite jusqu'à 3 ans",
- "critere": "Évolution de l'atteinte pulmonaire au scanner thoracique haute résolution à 6 mois"
+ "critere": "Évolution de l'atteinte pulmonaire au scanner thoracique haute résolution à 6 mois",
+ "relu": "2026-11-24"
 }

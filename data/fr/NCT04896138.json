@@ -12,8 +12,7 @@
   "Témoins : proches accompagnant les patients"
  ],
  "exclusion": [
-  "Témoins : absence de PID obligatoire",
-  "Autres critères d'exclusion : non précisé"
+  "Témoins : absence de PID obligatoire"
  ],
  "bras": [
   {
@@ -26,5 +25,6 @@
   }
  ],
  "duree": "Suivi annuel jusqu'à la perte de vue ou le décès, jusqu'à 144 mois",
- "critere": "Évolution clinique de la maladie et décès, évalués chaque année jusqu'à 144 mois"
+ "critere": "Évolution clinique de la maladie et décès, évalués chaque année jusqu'à 144 mois",
+ "relu": "2026-11-24"
 }

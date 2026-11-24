@@ -18,11 +18,24 @@
   "Grossesse au moment de l'inclusion"
  ],
  "bras": [
-  { "nom": "Début récent", "traitement": "Patients avec un nouveau diagnostic de lupus, suivi observationnel" },
-  { "nom": "Néphrite lupique active", "traitement": "Patients avec un diagnostic récent de néphrite lupique" },
-  { "nom": "Poussée extrarénale", "traitement": "Patients ayant eu récemment une poussée" },
-  { "nom": "Cas prévalents", "traitement": "Patients lupiques ne relevant pas des autres cohortes" }
+  {
+   "nom": "Début récent",
+   "traitement": "Patients avec un nouveau diagnostic de lupus, suivi observationnel"
+  },
+  {
+   "nom": "Néphrite lupique active",
+   "traitement": "Patients avec un diagnostic récent de néphrite lupique"
+  },
+  {
+   "nom": "Poussée extrarénale",
+   "traitement": "Patients ayant eu récemment une poussée"
+  },
+  {
+   "nom": "Cas prévalents",
+   "traitement": "Patients lupiques ne relevant pas des autres cohortes"
+  }
  ],
  "duree": "Jusqu'à 25 ans",
- "critere": "Identification des déterminants génétiques et des cibles antigéniques, pour expliquer l'hétérogénéité du lupus et relier les biomarqueurs à la réponse thérapeutique, sur jusqu'à 25 ans"
+ "critere": "Identification des déterminants génétiques et des cibles antigéniques, pour expliquer l'hétérogénéité du lupus et relier les biomarqueurs à la réponse thérapeutique, sur jusqu'à 25 ans",
+ "relu": "2026-11-24"
 }

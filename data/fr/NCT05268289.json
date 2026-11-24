@@ -18,7 +18,8 @@
   "Cyclophosphamide d'induction dans les 3 mois ou inhibiteur de la calcineurine dans les 3 mois avant la randomisation",
   "Glomérulonéphrite rapidement progressive (baisse du DFGe de 50 % en 3 mois)",
   "Fibrose interstitielle, atrophie tubulaire ou glomérulosclérose > 50 % à la biopsie rénale",
-  "Corticoïdes systémiques > 5 mg/j d'équivalent prednisone pour une autre indication que le LES ou la néphrite lupique"
+  "Corticoïdes systémiques > 5 mg/j d'équivalent prednisone pour une autre indication que le LES ou la néphrite lupique",
+  "Corticoïdes pour le LES > 15 mg/j en moyenne sur 4 semaines ou > 30 mg/j sur 1 semaine, ou bolus de méthylprednisolone > 1 000 mg cumulés dans les 2 semaines"
  ],
  "bras": [
   {
@@ -43,5 +44,6 @@
   }
  ],
  "duree": "Non précisé (critère principal à 24 semaines)",
- "critere": "Proportion de patients en réponse rénale complète à la semaine 24, en l'absence de poussée rénale."
+ "critere": "Proportion de patients en réponse rénale complète à la semaine 24, en l'absence de poussée rénale.",
+ "relu": "2026-11-24"
 }

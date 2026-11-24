@@ -20,8 +20,12 @@
   "Refus ou impossibilité de supporter l'examen (claustrophobie)"
  ],
  "bras": [
-  { "nom": "[68Ga]-pentixafor", "traitement": "Injection IV de 3 à 5 mCi de [68Ga]-pentixafor, suivie d'une TEP/TDM (certains patients ont 2 examens)" }
+  {
+   "nom": "[68Ga]-pentixafor",
+   "traitement": "Injection IV de 3 à 5 mCi de [68Ga]-pentixafor, suivie d'une TEP/TDM (certains patients ont 2 examens)"
+  }
  ],
  "duree": "1 an",
- "critere": "Valeur de captation standardisée (SUV) tumorale, à 1 an"
+ "critere": "Valeur de captation standardisée (SUV) tumorale, à 1 an",
+ "relu": "2026-11-24"
 }

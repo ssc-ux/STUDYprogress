@@ -22,8 +22,12 @@
   "Toute situation pouvant fausser les résultats ou gêner la participation"
  ],
  "bras": [
-  { "nom": "Escalade de dose", "traitement": "MGD024 en doses croissantes, selon la tolérance du niveau précédent" }
+  {
+   "nom": "Escalade de dose",
+   "traitement": "MGD024 seul, en doses croissantes selon la tolérance du niveau précédent, par cycles de 28 jours, jusqu'à 12 cycles"
+  }
  ],
  "duree": "Jusqu'à 12 mois de participation",
- "critere": "Nombre de toxicités sévères les 28 premiers jours, et nombre et type d'événements indésirables (dont graves ou ayant conduit à l'arrêt) pendant l'étude, jusqu'à 12 mois"
+ "critere": "Nombre de toxicités sévères les 28 premiers jours, et nombre et type d'événements indésirables (dont graves ou ayant conduit à l'arrêt) pendant l'étude, jusqu'à 12 mois",
+ "relu": "2026-11-24"
 }

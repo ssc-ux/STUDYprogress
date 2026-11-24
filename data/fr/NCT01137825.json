@@ -16,8 +16,12 @@
   "Critères d'exclusion non précisés (les patients sans cancer restent dans la base mais sans accès à leur dossier)"
  ],
  "bras": [
-  {"nom": "Patients âgés", "traitement": "Évaluation gériatrique multidimensionnelle (état fonctionnel, comorbidités, cognition, psychologie, soutien social, médicaments, nutrition), revue du dossier et état de santé à 1 an"}
+  {
+   "nom": "Patients âgés",
+   "traitement": "Évaluation gériatrique multidimensionnelle (état fonctionnel, comorbidités, cognition, psychologie, soutien social, médicaments, nutrition), revue du dossier et état de santé à 1 an"
+  }
  ],
  "duree": "Évaluation à la première consultation, état de santé à 1 an",
- "critere": "Création du registre de patients âgés du système de santé de l'UNC (4 ans) et réalisation de l'évaluation gériatrique lors de la première visite"
+ "critere": "Création du registre de patients âgés du système de santé de l'UNC (4 ans) et réalisation de l'évaluation gériatrique lors de la première visite",
+ "relu": "2026-11-24"
 }

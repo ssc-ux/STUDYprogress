@@ -22,10 +22,20 @@
   "Volontaires sains : VIH ou hépatite B/C"
  ],
  "bras": [
-  {"nom": "Patients", "traitement": "Patients avec déficit immunitaire et infections fongiques : examen, prélèvements sanguins et buccaux, tests génétiques, biopsies éventuelles, suivi tous les 6 mois"},
-  {"nom": "Apparentés", "traitement": "Membres de la famille : prélèvements pour étude clinique et génétique"},
-  {"nom": "Volontaires sains", "traitement": "Témoins fournissant des échantillons pour la recherche"}
+  {
+   "nom": "Patients",
+   "traitement": "Patients avec déficit immunitaire et infections fongiques : examen, prélèvements sanguins et buccaux, tests génétiques, biopsies éventuelles, suivi tous les 6 mois"
+  },
+  {
+   "nom": "Apparentés",
+   "traitement": "Membres de la famille : prélèvements pour étude clinique et génétique"
+  },
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Témoins fournissant des échantillons pour la recherche"
+  }
  ],
  "duree": "Suivi possible tous les 6 mois, sur 10 ans pour les critères principaux",
- "critere": "Caractérisation des maladies, prévalence des mutations, corrélation génotype-phénotype et comparaison de la fonction, sur 10 ans"
+ "critere": "Caractérisation des maladies, prévalence des mutations, corrélation génotype-phénotype et comparaison de la fonction, sur 10 ans",
+ "relu": "2026-11-24"
 }

@@ -19,11 +19,24 @@
   "Apparentés : toute affection contre-indiquant la participation"
  ],
  "bras": [
-  {"nom": "Adultes avec mastocytose", "traitement": "Adultes avec mastocytose documentée : examen, prises de sang, ponction-biopsie médullaire"},
-  {"nom": "Enfants avec mastocytose", "traitement": "Enfants avec mastocytose documentée : mêmes évaluations adaptées"},
-  {"nom": "Apparentés adultes", "traitement": "Adultes apparentés de patients, sans mastocytose"},
-  {"nom": "Apparentés enfants", "traitement": "Enfants apparentés de patients, sans mastocytose"}
+  {
+   "nom": "Adultes avec mastocytose",
+   "traitement": "Adultes avec mastocytose documentée : examen, prises de sang, ponction-biopsie médullaire"
+  },
+  {
+   "nom": "Enfants avec mastocytose",
+   "traitement": "Enfants avec mastocytose documentée : mêmes évaluations adaptées"
+  },
+  {
+   "nom": "Apparentés adultes",
+   "traitement": "Adultes apparentés de patients, sans mastocytose"
+  },
+  {
+   "nom": "Apparentés enfants",
+   "traitement": "Enfants apparentés de patients, sans mastocytose"
+  }
  ],
  "duree": "Une visite d'au plus 8 heures, avec nouvelle inclusion possible",
- "critere": "Obtention de mastocytes normaux et néoplasiques de la moelle et du sang pour étudier leur prolifération et leur survie, et classer l'extension de la maladie"
+ "critere": "Obtention de mastocytes normaux et néoplasiques de la moelle et du sang pour étudier leur prolifération et leur survie, et classer l'extension de la maladie",
+ "relu": "2026-11-24"
 }

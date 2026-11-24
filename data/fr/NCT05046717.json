@@ -14,11 +14,15 @@
   "Âge de 0 à 99 ans"
  ],
  "exclusion": [
-  "Non précisé"
+  "Aucun critère d'exclusion renseigné dans le registre"
  ],
  "bras": [
-  { "nom": "Cohorte de patients", "traitement": "Patients avec microangiopathie thrombotique, avec dosages comparés au diagnostic et au suivi, sans intervention thérapeutique imposée" }
+  {
+   "nom": "Cohorte de patients",
+   "traitement": "Patients avec microangiopathie thrombotique, avec dosages comparés au diagnostic et au suivi, sans intervention thérapeutique imposée"
+  }
  ],
- "duree": "60 jours de suivi",
- "critere": "Corrélation d'un nouveau test diagnostique avec le test standard, au diagnostic puis à 10, 30 et 60 jours"
+ "duree": "Jusqu'à 365 jours de suivi",
+ "critere": "Corrélation d'un nouveau test diagnostique avec le test standard, au diagnostic puis à 10, 30, 60, 90, 180 et 365 jours",
+ "relu": "2026-11-24"
 }

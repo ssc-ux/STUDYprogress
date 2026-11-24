@@ -19,8 +19,12 @@
   "Comorbidité sévère compromettant la tolérance du traitement"
  ],
  "bras": [
-  { "nom": "Autogreffe déplétée CD3/CD19", "traitement": "Immunosuppression à haute dose puis autogreffe de cellules souches CD3/CD19-déplétées ; schéma de conditionnement non précisé" }
+  {
+   "nom": "Autogreffe déplétée CD3/CD19",
+   "traitement": "Immunosuppression à haute dose puis autogreffe de cellules souches CD3/CD19-déplétées ; schéma de conditionnement non précisé"
+  }
  ],
  "duree": "2 ans",
- "critere": "Survie sans progression à 2 ans"
+ "critere": "Survie sans progression à 2 ans",
+ "relu": "2026-11-24"
 }

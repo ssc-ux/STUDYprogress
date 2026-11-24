@@ -14,8 +14,12 @@
   "Patient décédé"
  ],
  "bras": [
-  { "nom": "Dépistage par IA", "traitement": "L'algorithme EchoNet-LVH calcule une probabilité d'amylose cardiaque, qui déclenche une orientation en consultation spécialisée" }
+  {
+   "nom": "Dépistage par IA",
+   "traitement": "L'algorithme EchoNet-LVH calcule une probabilité d'amylose cardiaque, qui déclenche une orientation en consultation spécialisée"
+  }
  ],
  "duree": "6 mois",
- "critere": "Nombre de nouveaux diagnostics d'amylose cardiaque à 6 mois"
+ "critere": "Nombre de nouveaux diagnostics d'amylose cardiaque à 6 mois",
+ "relu": "2026-11-24"
 }

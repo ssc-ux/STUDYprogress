@@ -5,11 +5,10 @@
  "question": "La perfusion intraveineuse de cellules souches mésenchymateuses allogéniques de cordon ombilical est-elle sûre chez des patients atteints de sclérodermie systémique ?",
  "contexte": "La sclérodermie systémique associe vasculopathie, fibrose cutanée et viscérale et auto-immunité. Les formes diffuses ou avec atteinte d'organe (poumon, cœur, rein) gardent un pronostic réservé. Les traitements actuels reposent sur les immunosuppresseurs (mycophénolate, cyclophosphamide, méthotrexate), le tocilizumab et, dans les formes sévères, l'autogreffe de cellules souches hématopoïétiques, qui est lourde.\n\nLes cellules souches mésenchymateuses ont des effets immunomodulateurs et antifibrosants suggérés par des études précliniques et de petits essais. Ce protocole de phase 1, promu par la Foundation for Orthopaedics and Regenerative Medicine, utilise des cellules de cordon ombilical cultivées, produit nommé AlloRx, en une perfusion unique de 100 millions de cellules.\n\nLes patients sont suivis à 1, 6, 12, 24, 36 et 48 mois sur la sécurité et l'efficacité. Dans les formes plus sévères nécessitant du méthotrexate, un vaccin de lymphocytes T autologues est prévu. L'étude a été arrêtée avant son terme.",
  "interet": "L'étude fournit des données de sécurité préliminaires sur une thérapie cellulaire allogénique dans la sclérodermie. Elle ne permet pas de conclure à une efficacité.",
- "profil": "Des adultes atteints de sclérodermie systémique, sans infection ni cancer actifs.",
+ "profil": "Des patients atteints de sclérodermie systémique, sans infection ni cancer actifs.",
  "inclusion": [
   "Diagnostic de sclérodermie systémique",
-  "Compréhension et signature du consentement écrit",
-  "Autres critères d'inclusion : non précisés"
+  "Compréhension et signature du consentement écrit"
  ],
  "exclusion": [
   "Infection active ou cancer actif",
@@ -22,9 +21,10 @@
  "bras": [
   {
    "nom": "Groupe traité",
-   "traitement": "AlloRx, cellules mésenchymateuses allogéniques de cordon ombilical, perfusion IV unique de 100 millions de cellules"
+   "traitement": "AlloRx, cellules mésenchymateuses allogéniques de cordon ombilical, perfusion IV unique de 100 millions de cellules; vaccin autologue de lymphocytes T en plus chez les patients plus sévères nécessitant un traitement comme le méthotrexate"
   }
  ],
  "duree": "4 ans",
- "critere": "Sécurité (événements indésirables) pendant 4 ans de suivi"
+ "critere": "Sécurité (événements indésirables) pendant 4 ans de suivi",
+ "relu": "2026-11-24"
 }

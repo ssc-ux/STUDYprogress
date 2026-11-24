@@ -16,8 +16,7 @@
  "exclusion": [
   "QT allongé à l'ECG (supérieur à 440 ms chez l'homme, 450 ms chez la femme)",
   "Déficit auditif (effet indésirable possible de l'azithromycine)",
-  "Grossesse ou allaitement",
-  "Autres critères d'exclusion : non précisé"
+  "Grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -38,5 +37,6 @@
   }
  ],
  "duree": "3 mois de traitement",
- "critere": "Variation du SUVmax en TEP-FDG, à 2 semaines"
+ "critere": "Variation du SUVmax en TEP-FDG, à 2 semaines",
+ "relu": "2026-11-24"
 }
