@@ -17,8 +17,12 @@
   "Comorbidités sévères avec espérance de vie estimée < 1 an"
  ],
  "bras": [
-  { "nom": "Rétrécissement aortique avant remplacement valvulaire", "traitement": "Cohorte unique avec dépistage systématique de l'amylose ATTR, sans intervention évaluée" }
+  {
+   "nom": "Rétrécissement aortique avant remplacement valvulaire",
+   "traitement": "Cohorte unique avec dépistage systématique de l'amylose ATTR, sans intervention évaluée"
+  }
  ],
  "duree": "Non précisé (inclusion sur 18 mois)",
- "critere": "Nombre et proportion de cas d'ATTR identifiés par le dépistage systématique (période d'inclusion de 18 mois)"
+ "critere": "Nombre et proportion de cas d'ATTR identifiés par le dépistage systématique (période d'inclusion de 18 mois)",
+ "relu": "2026-11-24"
 }

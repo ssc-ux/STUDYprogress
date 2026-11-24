@@ -7,7 +7,7 @@
  "interet": "L'étude pourrait montrer si le NR corrige le métabolisme du NAD et s'il existe un signal clinique justifiant un essai contrôlé. Les effectifs sont très faibles.",
  "profil": "Des enfants ayant une ataxie-télangiectasie classique confirmée cliniquement et moléculairement.",
  "inclusion": [
-  "Ataxie-télangiectasie classique",
+  "Ataxie-télangiectasie classique, âge d'au moins 3 ans",
   "Diagnostic confirmé cliniquement et par analyse moléculaire"
  ],
  "exclusion": [
@@ -18,8 +18,12 @@
   "Autre maladie grave exposant à un risque"
  ],
  "bras": [
-  { "nom": "Traitement par NR", "traitement": "Nicotinamide riboside (Niagen), 300 mg par jour" }
+  {
+   "nom": "Traitement par NR",
+   "traitement": "Nicotinamide riboside (Niagen), 300 mg par jour"
+  }
  ],
  "duree": "2 ans",
- "critere": "Métabolome du NAD (2 ans)"
+ "critere": "Métabolome du NAD (2 ans)",
+ "relu": "2026-11-24"
 }

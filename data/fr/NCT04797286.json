@@ -23,9 +23,16 @@
   "Insuffisance rénale (créatinine supérieure à 2,0), hospitalisation ou maladie aiguë, nitrés, grossesse, autre essai"
  ],
  "bras": [
-  { "nom": "Sildénafil", "traitement": "Sildénafil 20 mg par voie orale trois fois par jour" },
-  { "nom": "Placebo", "traitement": "Placebo par voie orale trois fois par jour" }
+  {
+   "nom": "Sildénafil",
+   "traitement": "Sildénafil 20 mg par voie orale trois fois par jour"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo par voie orale trois fois par jour"
+  }
  ],
  "duree": "4 mois",
- "critere": "Différence de variation de la distance parcourue au test de marche de 6 minutes entre l'inclusion et 4 mois"
+ "critere": "Différence de variation de la distance parcourue au test de marche de 6 minutes entre l'inclusion et 4 mois",
+ "relu": "2026-11-24"
 }

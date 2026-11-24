@@ -17,8 +17,12 @@
   "Situation mettant en danger la sécurité du patient ou son observance, selon l'investigateur"
  ],
  "bras": [
-  { "nom": "Cohorte NICHE", "traitement": "Suivi observationnel de patients atteints de maladies hématologiques, sans intervention de l'étude" }
+  {
+   "nom": "Cohorte NICHE",
+   "traitement": "Suivi observationnel de patients atteints de maladies hématologiques, sans intervention de l'étude"
+  }
  ],
  "duree": "Suivi prospectif sur plusieurs années (critère principal à 5 ans)",
- "critere": "Incidence et distribution des maladies hématologiques, sur 5 ans"
+ "critere": "Incidence et distribution des maladies hématologiques, sur 5 ans",
+ "relu": "2026-11-24"
 }

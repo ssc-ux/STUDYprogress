@@ -22,11 +22,24 @@
   "Toute condition contre-indiquant la participation selon l'investigateur"
  ],
  "bras": [
-  { "nom": "Volontaires sains", "traitement": "Groupe contrôle, prélèvements sanguins et cutanés" },
-  { "nom": "Dermatite atopique", "traitement": "Patients avec dermatite atopique diagnostiquée, mêmes prélèvements" },
-  { "nom": "Déficit immunitaire primitif", "traitement": "Patients avec DIP confirmé ou suspecté, mêmes prélèvements" },
-  { "nom": "Psoriasis", "traitement": "Patients avec psoriasis diagnostiqué, mêmes prélèvements" }
+  {
+   "nom": "Volontaires sains",
+   "traitement": "Groupe contrôle, prélèvements sanguins et cutanés"
+  },
+  {
+   "nom": "Dermatite atopique",
+   "traitement": "Patients avec dermatite atopique diagnostiquée, mêmes prélèvements"
+  },
+  {
+   "nom": "Déficit immunitaire primitif",
+   "traitement": "Patients avec DIP confirmé ou suspecté, mêmes prélèvements"
+  },
+  {
+   "nom": "Psoriasis",
+   "traitement": "Patients avec psoriasis diagnostiqué, mêmes prélèvements"
+  }
  ],
- "duree": "Non précisé (visites avec biopsies à quelques jours d'intervalle)",
- "critere": "Variations du microbiote cutané et des métabolites liés à la cicatrisation ou aux maladies immunes, et différences de voies métaboliques liées à l'immunité (tout au long de l'étude)"
+ "duree": "Environ 4 jours de participation, 2 visites d'environ 1 heure",
+ "critere": "Variations du microbiote cutané et des métabolites liés à la cicatrisation ou aux maladies immunes, et différences de voies métaboliques liées à l'immunité (tout au long de l'étude)",
+ "relu": "2026-11-24"
 }

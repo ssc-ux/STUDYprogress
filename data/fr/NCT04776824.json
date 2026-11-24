@@ -15,8 +15,12 @@
   "Âge de moins de 18 ans"
  ],
  "bras": [
-  { "nom": "Patients avec amylose confirmée", "traitement": "Collecte de données rétrospectives et prospectives, IRM cardiaque avant puis jusqu'à 18 mois après le début du traitement, suivi clinique et biologique tous les 3 à 6 mois" }
+  {
+   "nom": "Patients avec amylose confirmée",
+   "traitement": "Collecte de données rétrospectives et prospectives, IRM cardiaque avant puis jusqu'à 18 mois après le début du traitement, suivi clinique et biologique tous les 3 à 6 mois"
+  }
  ],
  "duree": "Jusqu'à 5 ans",
- "critere": "Fonction du ventricule gauche et droit (feature tracking IRM), caractérisation tissulaire (cartographie T1 et T2), rehaussement tardif et volume extracellulaire, comme prédicteurs d'événements cardiaques majeurs (MACE), sur 5 ans"
+ "critere": "Fonction du ventricule gauche et droit (feature tracking IRM), caractérisation tissulaire (cartographie T1 et T2), rehaussement tardif et volume extracellulaire, comme prédicteurs d'événements cardiaques majeurs (MACE), sur 5 ans",
+ "relu": "2026-11-24"
 }

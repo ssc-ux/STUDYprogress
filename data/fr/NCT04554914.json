@@ -11,7 +11,7 @@
   "ECOG ≤ 3 si âge ≥ 16 ans ; Lansky ≥ 20 de 1 à 16 ans",
   "Fonction d'organes adéquate, sauf atteinte liée à la maladie",
   "PTLD du SNC : prouvée par biopsie ou cytologie du LCS positive avec EBV détecté",
-  "Maladie récidivante/réfractaire (au moins une ligne systémique antérieure) ou nouvelle sans traitement standard approprié"
+  "PTLD du SNC en rechute ou réfractaire : au moins une ligne systémique antérieure ; sinon nouvelle maladie sans traitement standard approprié"
  ],
  "exclusion": [
   "Lymphome de Burkitt, lymphome T ou NK/T, Hodgkin, plasmablastique ou transformé en cours",
@@ -23,25 +23,26 @@
  "bras": [
   {
    "nom": "EBV+ LPD avec déficit immunitaire primitif",
-   "traitement": "Tabélécleucel par voie IV"
+   "traitement": "Tabélécleucel 2 × 10^6 cellules/kg par voie IV une fois par semaine pendant 3 semaines, par cycle de 35 jours"
   },
   {
    "nom": "EBV+ LPD avec déficit immunitaire acquis",
-   "traitement": "Tabélécleucel par voie IV"
+   "traitement": "Tabélécleucel 2 × 10^6 cellules/kg par voie IV une fois par semaine pendant 3 semaines, par cycle de 35 jours"
   },
   {
    "nom": "EBV+ PTLD du SNC",
-   "traitement": "Tabélécleucel par voie IV"
+   "traitement": "Tabélécleucel 2 × 10^6 cellules/kg par voie IV une fois par semaine pendant 3 semaines, par cycle de 35 jours"
   },
   {
    "nom": "EBV+ PTLD en première ligne (traitement standard inadapté ou CD20-négatif)",
-   "traitement": "Tabélécleucel par voie IV"
+   "traitement": "Tabélécleucel 2 × 10^6 cellules/kg par voie IV une fois par semaine pendant 3 semaines, par cycle de 35 jours"
   },
   {
    "nom": "Sarcome EBV+ (dont léiomyosarcome) ou tumeur du muscle lisse",
-   "traitement": "Tabélécleucel par voie IV"
+   "traitement": "Tabélécleucel 2 × 10^6 cellules/kg par voie IV une fois par semaine pendant 3 semaines, par cycle de 35 jours"
   }
  ],
- "duree": "Jusqu'à 2 ans",
- "critere": "Taux de réponse objective jusqu'à 2 ans."
+ "duree": "Fin d'étude 12 mois après le cycle 1 chez l'adulte et 24 mois chez l'enfant",
+ "critere": "Taux de réponse objective jusqu'à 2 ans.",
+ "relu": "2026-11-24"
 }

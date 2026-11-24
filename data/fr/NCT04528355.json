@@ -16,8 +16,12 @@
   "Aucun critère d'exclusion"
  ],
  "bras": [
-  { "nom": "Patients greffés avec conditionnement réduit", "traitement": "Recueil observationnel des données de greffe avec conditionnement alemtuzumab, hydroxyurée, fludarabine, melphalan, thiotépa" }
+  {
+   "nom": "Patients greffés avec conditionnement réduit",
+   "traitement": "Recueil observationnel des données de greffe avec conditionnement alemtuzumab, hydroxyurée, fludarabine, melphalan, thiotépa"
+  }
  ],
  "duree": "Jusqu'à 5 ans après la greffe",
- "critere": "Incidence de la GVHD aiguë et survie globale après greffe, jusqu'à 5 ans"
+ "critere": "Incidence de la GVHD aiguë et survie globale après greffe, jusqu'à 5 ans",
+ "relu": "2026-11-24"
 }

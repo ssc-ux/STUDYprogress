@@ -21,7 +21,7 @@
   "Ciclosporine, tacrolimus ou azathioprine dans les 3 mois, cyclophosphamide dans les 6 mois",
   "Rituximab antérieur avec CD20 à zéro à l'inclusion",
   "Mycophénolate > 1 500 mg/j",
-  "Contraception inadaptée"
+  "Contraception inadaptée ou glaucome"
  ],
  "bras": [
   {
@@ -30,5 +30,6 @@
   }
  ],
  "duree": "24 mois (18 mois après la dernière injection)",
- "critere": "Rémission rénale complète ou partielle 12 mois après la première perfusion de daratumumab"
+ "critere": "Rémission rénale complète ou partielle 12 mois après la première perfusion de daratumumab",
+ "relu": "2026-11-24"
 }

@@ -15,8 +15,12 @@
   "Patients ayant refusé l'utilisation future de leurs données"
  ],
  "bras": [
-  { "nom": "Revue de dossiers", "traitement": "Analyse rétrospective de la DMO mesurée sur scanner chez des patients des protocoles NCI HAMB/CCR" }
+  {
+   "nom": "Revue de dossiers",
+   "traitement": "Analyse rétrospective de la DMO mesurée sur scanner chez des patients des protocoles NCI HAMB/CCR"
+  }
  ],
  "duree": "Étude sur dossiers, environ 2 ans pour l'analyse des données",
- "critere": "Perte de densité minérale osseuse (en cours)"
+ "critere": "Perte de densité minérale osseuse (en cours)",
+ "relu": "2026-11-24"
 }

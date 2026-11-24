@@ -19,10 +19,20 @@
   "Âge de moins de 18 ans"
  ],
  "bras": [
-  { "nom": "Sarcoïdose cardiaque prouvée (groupe 1)", "traitement": "Confirmation histologique myocardique ; bilan approfondi et suivi sous immunosuppression" },
-  { "nom": "Sarcoïdose cardiaque probable (groupe 2)", "traitement": "Signes cliniques et d'imagerie très évocateurs sans biopsie myocardique" },
-  { "nom": "Sarcoïdose cardiaque improbable (groupe 3)", "traitement": "Critères non remplis ou diagnostic alternatif plus probable" }
+  {
+   "nom": "Sarcoïdose cardiaque prouvée (groupe 1)",
+   "traitement": "Confirmation histologique myocardique ; bilan approfondi et suivi sous immunosuppression"
+  },
+  {
+   "nom": "Sarcoïdose cardiaque probable (groupe 2)",
+   "traitement": "Signes cliniques et d'imagerie très évocateurs sans biopsie myocardique"
+  },
+  {
+   "nom": "Sarcoïdose cardiaque improbable (groupe 3)",
+   "traitement": "Critères non remplis ou diagnostic alternatif plus probable"
+  }
  ],
  "duree": "1 an",
- "critere": "Récupération clinique et récupération en imagerie sous traitement immunosuppresseur, à 1 an"
+ "critere": "Récupération clinique et récupération en imagerie sous traitement immunosuppresseur, à 1 an",
+ "relu": "2026-11-24"
 }

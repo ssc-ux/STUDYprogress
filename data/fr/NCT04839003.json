@@ -18,8 +18,12 @@
   "Traitement antérieur de l'amylose AL"
  ],
  "bras": [
-  { "nom": "Cohorte ReAL", "traitement": "Recueil observationnel des données au diagnostic et pendant le suivi, sans traitement imposé" }
+  {
+   "nom": "Cohorte ReAL",
+   "traitement": "Recueil observationnel des données au diagnostic et pendant le suivi, sans traitement imposé"
+  }
  ],
  "duree": "Suivi sur plusieurs années (critère principal à 5 ans)",
- "critere": "Création d'un registre de patients atteints d'amylose AL, sur 5 ans"
+ "critere": "Création d'un registre de patients atteints d'amylose AL, sur 5 ans",
+ "relu": "2026-11-24"
 }

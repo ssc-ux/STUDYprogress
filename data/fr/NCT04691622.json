@@ -23,9 +23,16 @@
   "Immunoglobulines entérales, nitazoxanide ou autre traitement expérimental du norovirus dans les 28 jours"
  ],
  "bras": [
-  { "nom": "Bras A : NST dérivés du donneur", "traitement": "Lymphocytes T spécifiques du norovirus issus du donneur de greffe, après allogreffe" },
-  { "nom": "Bras B : NST partiellement HLA-compatibles", "traitement": "Lymphocytes T spécifiques du norovirus partiellement HLA-compatibles (déficit immunitaire non greffé, absence de NST du donneur, greffe d'organe)" }
+  {
+   "nom": "Bras A : NST dérivés du donneur",
+   "traitement": "Lymphocytes T spécifiques du norovirus issus du donneur de greffe, après allogreffe ; escalade de dose (1, 2 puis 4 × 10^7 cellules/m²)"
+  },
+  {
+   "nom": "Bras B : NST partiellement HLA-compatibles",
+   "traitement": "Lymphocytes T spécifiques du norovirus partiellement HLA-compatibles (déficit immunitaire non greffé, absence de NST du donneur, greffe d'organe) ; mêmes niveaux de dose (1, 2 puis 4 × 10^7 cellules/m²)"
+  }
  ],
  "duree": "1 an de surveillance après la première perfusion",
- "critere": "Incidence de la GVHD aiguë de grade III-IV, des événements indésirables liés à la perfusion et des événements indésirables non hématologiques, dans les 45 jours suivant la première perfusion"
+ "critere": "Incidence de la GVHD aiguë de grade III-IV, des événements indésirables liés à la perfusion et des événements indésirables non hématologiques, dans les 45 jours suivant la première perfusion",
+ "relu": "2026-11-24"
 }
