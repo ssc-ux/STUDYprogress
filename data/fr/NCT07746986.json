@@ -5,7 +5,7 @@
  "question": "Comment les cellules hématopoïétiques mutées UBA1 entretiennent-elles l'inflammation et la dominance clonale dans le VEXAS ?",
  "contexte": "Le syndrome VEXAS est une maladie auto-inflammatoire et hématologique acquise, touchant environ 1 homme sur 4 000 après 50 ans. Il est dû à une mutation somatique du gène UBA1 dans les cellules hématopoïétiques. Il associe une inflammation systémique réfractaire et des anomalies hématologiques, d'où un pronostic sombre. Les traitements actuels sont peu efficaces et lourds d'effets indésirables.\n\nLes mutations de VEXAS inactivent l'ubiquitination cytoplasmique dépendante d'UBA1. Cela altère l'élimination des protéines et déclenche des réponses de stress. Grâce à une technique d'édition de base, les investigateurs ont créé des modèles in vitro et in vivo. Ils suggèrent que l'hématopoïèse saine subit une intoxication inflammatoire progressive, alors que les cellules souches mutées résistent à l'inflammation.\n\nCette étude monocentrique de l'IRCCS San Raffaele (Milan) utilise des échantillons rétrospectifs de 2020 à 2026 : sang et moelle de patients VEXAS, comparés à des témoins sains appariés. Elle mesure la production de cytokines par les monocytes, le rôle de l'autophagie et de la réponse aux protéines mal repliées, et des profils multi-omiques.",
  "interet": "Elle pourrait faire émerger des marqueurs prédictifs et des cibles thérapeutiques, ou des repositionnements de médicaments, pour traiter le VEXAS à un stade précoce.",
- "profil": "Des adultes porteurs d'un VEXAS confirmé par une mutation de UBA1, comparés à des témoins sains appariés.",
+ "profil": "Des hommes adultes porteurs d'un VEXAS confirmé par une mutation de UBA1, comparés à des témoins sains appariés.",
  "inclusion": [
   "VEXAS : mutation pathogène de UBA1 dans les cellules hématopoïétiques du sang, avec maladie auto-inflammatoire systémique",
   "Âge > 18 ans",
@@ -27,5 +27,6 @@
   }
  ],
  "duree": "Analyse d'échantillons déjà collectés (moyenne de 1 an pour l'étude)",
- "critere": "Production de cytokines pro-inflammatoires par les monocytes des patients VEXAS comparés aux témoins sains, mesurée par dosage multiplex"
+ "critere": "Production de cytokines pro-inflammatoires par les monocytes des patients VEXAS comparés aux témoins sains, mesurée par dosage multiplex",
+ "relu": "2026-11-27"
 }

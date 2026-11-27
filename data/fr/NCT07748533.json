@@ -11,17 +11,15 @@
   "AHAI ou syndrome d'Evans en échec d'au moins 3 lignes, avec hémoglobine inférieure à 10 g/dL et symptômes d'anémie",
   "Forme chaude, mixte ou Evans : échec des corticoïdes, du rituximab et d'au moins un traitement de troisième ligne",
   "Forme à agglutinines froides : échec du rituximab, de rituximab avec bendamustine ou fludarabine et d'une troisième ligne",
-  "ALT et AST inférieures ou égales à 3 fois la normale, INR et TCA inférieurs ou égaux à 1,5 fois la normale, créatinine correcte, saturation supérieure à 91 %",
+  "ALT et AST ≤ 3 N, INR et TCA ≤ 1,5 N, créatinine ≤ 1,5 N ou clairance ≥ 60 mL/min, saturation > 91 %",
   "ECOG de 0 à 2",
   "Contraception efficace, test de grossesse négatif"
  ],
  "exclusion": [
   "Antécédent de syndrome lymphoprolifératif",
   "AHAI secondaire à un médicament ou une infection",
-  "Grossesse ou allaitement",
-  "Antécédent de greffe d'organe ou de cellules souches",
-  "Thrombose ou infarctus dans les 6 derniers mois",
-  "Maladie du tissu conjonctif en phase active",
+  "Grossesse ou allaitement, antécédent de greffe d'organe ou de cellules souches",
+  "Thrombose ou infarctus dans les 6 derniers mois, maladie du tissu conjonctif en phase active",
   "Infection active (sepsis, tuberculose), VHB, VHC, VIH, syphilis, EBV ou CMV détectables",
   "FEVG inférieure ou égale à 45 %, insuffisance cardiaque NYHA III-IV, QTc allongé",
   "Antécédent de CAR-T, d'épilepsie ou de maladie active du système nerveux central"
@@ -33,5 +31,6 @@
   }
  ],
  "duree": "Suivi de plusieurs mois ; critères principaux évalués 28 jours après la perfusion",
- "critere": "Incidence des événements indésirables liés au traitement et dose sûre d'une perfusion unique, jusqu'à 28 jours après la perfusion"
+ "critere": "Incidence des événements indésirables liés au traitement et dose sûre d'une perfusion unique, jusqu'à 28 jours après la perfusion",
+ "relu": "2026-11-27"
 }

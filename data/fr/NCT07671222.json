@@ -17,8 +17,7 @@
  "exclusion": [
   "Corticoïde ou immunomodulateur topique (ciclosporine, lifitegrast, tacrolimus, sérum autologue) dans les 30 jours",
   "Bouchons lacrymaux récents (< 3 mois)",
-  "Infection oculaire active ou kératite herpétique récente",
-  "Chirurgie oculaire ou palpébrale dans les 6 mois, port de lentilles",
+  "Infection oculaire active ou kératite herpétique récente ; chirurgie oculaire ou palpébrale dans les 6 mois ; port de lentilles",
   "Allergie à l'infliximab ou aux protéines murines",
   "Autre atteinte oculaire gênant l'évaluation, glaucome non contrôlé",
   "Contre-indication à l'infliximab (infection, tuberculose, maladie démyélinisante, insuffisance cardiaque NYHA III/IV, cancer dans les 5 ans)",
@@ -35,5 +34,6 @@
   }
  ],
  "duree": "6 semaines",
- "critere": "Variation du score OSDI (Ocular Surface Disease Index) à 6 semaines"
+ "critere": "Variation du score OSDI (Ocular Surface Disease Index) à 6 semaines",
+ "relu": "2026-11-27"
 }

@@ -12,8 +12,7 @@
   "Plaquettes < 30 G/L, ou entre 30 et 50 G/L avec saignement cliniquement significatif (score OMS ≥ 2)"
  ],
  "exclusion": [
-  "Grossesse, allaitement ou projet de grossesse",
-  "Cancer actif ou antécédent de cancer",
+  "Grossesse, allaitement ou projet de grossesse ; cancer actif ou antécédent de cancer",
   "Infection sévère dans les 4 semaines, zona symptomatique dans les 12 semaines",
   "Hépatite B ou C active ou chronique, VIH, tuberculose active ou non traitée",
   "Vaccin vivant dans les 12 semaines, baricitinib antérieur",
@@ -32,5 +31,6 @@
   }
  ],
  "duree": "14 jours de traitement, évaluation jusqu'à 28 jours",
- "critere": "Taux de réponse globale à 14 jours, sans saignement ni traitement de secours"
+ "critere": "Taux de réponse globale à 14 jours, sans saignement ni traitement de secours",
+ "relu": "2026-11-27"
 }
