@@ -12,8 +12,7 @@
  ],
  "exclusion": [
   "Âge < 14 ans",
-  "Refus de consentement écrit",
-  "Autres critères d'exclusion : non précisés"
+  "Refus de donner un consentement écrit"
  ],
  "bras": [
   {
@@ -22,5 +21,6 @@
   }
  ],
  "duree": "Suivi à long terme, jusqu'à 50 ans",
- "critere": "Taux de patients atteignant la maladie rénale terminale, de l'inclusion jusqu'à la première survenue documentée, sur 50 ans au maximum"
+ "critere": "Taux de patients atteignant la maladie rénale terminale, de l'inclusion jusqu'à la première survenue documentée, sur 50 ans au maximum",
+ "relu": "2026-11-27"
 }

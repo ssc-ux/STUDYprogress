@@ -17,10 +17,11 @@
  "exclusion": [
   "Traitement antérieur par CAR-T",
   "Lupus du système nerveux central nécessitant une intervention dans les 60 jours",
-  "Tuberculose active",
+  "Tuberculose active ; infection non contrôlée ou nécessitant un traitement systémique dans la semaine",
   "Cardiopathie congénitale, infarctus dans les 6 mois, arythmie sévère, épanchement péricardique important, myocardite grave ou instabilité hémodynamique",
   "Autre maladie nécessitant une corticothérapie au long cours ou de fortes doses d'immunosuppresseurs",
-  "Infection non contrôlée"
+  "Greffe d'organe ou de cellules souches, GVH ≥ grade 2 dans les 2 semaines",
+  "Hépatite B ou C active, VIH, syphilis, CMV positifs ; cancer antérieur ou en cours ; vaccin vivant < 4 semaines"
  ],
  "bras": [
   {
@@ -29,5 +30,6 @@
   }
  ],
  "duree": "Non précisé (critère principal à 3 mois)",
- "critere": "Événements indésirables liés aux CAR-T universels anti-CD19, sur 3 mois."
+ "critere": "Événements indésirables liés aux CAR-T universels anti-CD19, sur 3 mois.",
+ "relu": "2026-11-27"
 }

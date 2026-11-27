@@ -9,17 +9,19 @@
  "inclusion": [
   "Âge de 18 à 65 ans",
   "Lupus selon critères EULAR/ACR 2019, SLEDAI-2K ≥ 8",
-  "Néphrite lupique active de classe III ou IV (± V) prouvée par biopsie, avec RPCU ≥ 1,0 g/g ou protéinurie ≥ 1,0 g/j",
+  "Sous-groupe néphrite : classe III ou IV (± V) active prouvée par biopsie, RPCU ≥ 1,0 g/g ou protéinurie ≥ 1,0 g/j",
   "ANA, anti-ADN ou anti-Sm positifs",
-  "Corticoïdes + immunosuppresseurs ± biothérapies pendant ≥ 3 mois, doses stables > 2 semaines, maladie toujours active"
+  "Corticoïdes + immunosuppresseurs ± biothérapies pendant ≥ 3 mois, doses stables > 2 semaines, maladie toujours active",
+  "DFGe ≥ 30 ml/min/1,73 m², FEVG ≥ 45 %, bilans hématologique et hépatique conformes"
  ],
  "exclusion": [
   "Dialyse actuelle ou prévue",
   "Greffe d'organe ou de cellules souches, antérieure ou prévue",
   "Déficit immunitaire congénital ou acquis, ou substitution en immunoglobulines",
   "Connectivite mixte ou sclérodermie active, ou syndrome de chevauchement pouvant gêner l'évaluation",
-  "Traitement déplétant les lymphocytes B (anti-CD20, anti-CD19, bortézomib) dans les 6 mois",
-  "Biothérapie récente (bélimumab, anifrolumab…) selon le délai du protocole"
+  "Déplétion B (anti-CD20, anti-CD19) dans les 6 mois, ou biothérapie (bélimumab, anifrolumab) dans le mois",
+  "Thérapie cellulaire antérieure (CAR-T, CAR-NK)",
+  "Infection active, hépatite B (AgHBs +) ou C, VIH, tuberculose, cancer dans les 5 ans, grossesse"
  ],
  "bras": [
   {
@@ -28,5 +30,6 @@
   }
  ],
  "duree": "1 an",
- "critere": "Taux de réponse SRI-4, réponse rénale et LLDAS aux jours 14 et 28 puis aux mois 2, 3, 6, 9 et 12"
+ "critere": "Taux de réponse SRI-4, réponse rénale et LLDAS aux jours 14 et 28 puis aux mois 2, 3, 6, 9 et 12",
+ "relu": "2026-11-27"
 }

@@ -8,7 +8,7 @@
  "profil": "Des adultes de 18 à 75 ans atteints de maladie de Still active.",
  "inclusion": [
   "Âge de 18 à 75 ans, consentement écrit",
-  "MSA selon les critères de Yamaguchi (≥ 5 critères dont 2 majeurs), après exclusion des infections, cancers et autres maladies rhumatismales",
+  "Maladie de Still de l'adulte selon les critères de Yamaguchi (≥ 5 critères dont 2 majeurs), après exclusion des infections, cancers et autres maladies rhumatismales",
   "Maladie active : 2 critères de Yamaguchi avec fièvre ou CRP > 10 mg/L",
   "Corticoïdes à dose stable ≥ 1 semaine, ≤ 1 mg/kg/j",
   "Pas de projet de grossesse jusqu'à 28 jours après la dernière dose, contraception"
@@ -31,5 +31,6 @@
   }
  ],
  "duree": "24 semaines",
- "critere": "Proportion de patients en maladie inactive clinique à la semaine 24 (absence de symptômes de la maladie de Still avec VS ou CRP normales)."
+ "critere": "Proportion de patients en maladie inactive clinique à la semaine 24 (absence de symptômes de la maladie de Still avec VS ou CRP normales).",
+ "relu": "2026-11-27"
 }

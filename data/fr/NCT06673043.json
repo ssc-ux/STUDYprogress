@@ -17,8 +17,12 @@
   "Incapacité cognitive, refus ou barrière linguistique empêchant la compréhension de l'étude"
  ],
  "bras": [
-  { "nom": "Patients lupiques sous anifrolumab", "traitement": "Anifrolumab prescrit en pratique courante dans le programme national polonais" }
+  {
+   "nom": "Patients lupiques sous anifrolumab",
+   "traitement": "Anifrolumab prescrit en pratique courante dans le programme national polonais"
+  }
  ],
  "duree": "Environ 30 mois (6 mois de référence, 24 mois de suivi)",
- "critere": "Variation du score SLEDAI-2K entre la date index et le mois 12"
+ "critere": "Variation du score SLEDAI-2K entre la date index et le mois 12",
+ "relu": "2026-11-27"
 }

@@ -9,16 +9,19 @@
  "inclusion": [
   "Âge de 14 à 75 ans",
   "LES selon les critères EULAR/ACR 2019 ou SLICC 2012",
-  "≥ 2 mois de corticoïdes avec immunosuppresseurs et/ou biothérapies à dose stable depuis > 2 semaines, maladie active",
-  "Prednisone ≥ 7,5 mg/j si corticoïdes seuls",
-  "ANA ou autres auto-anticorps positifs (détails non repris)"
+  "≥ 2 mois de corticoïdes avec immunosuppresseurs et/ou biothérapies à dose stable depuis > 2 semaines, maladie restant active",
+  "SLEDAI-2K > 6 (dont composante clinique ≥ 4) et BILAG 2004 : ≥ 1 organe A ou ≥ 2 organes B",
+  "ANA, anti-ADN natif ou anti-Sm positifs au dépistage",
+  "Évaluation globale du médecin (PGA) ≥ 1,0 sur 3"
  ],
  "exclusion": [
   "Autre maladie auto-immune nécessitant un traitement systémique",
-  "Crise lupique non contrôlée dans les 8 semaines (néphrite, neurolupus, anémie hémolytique, etc.)",
+  "Poussée lupique grave non contrôlée dans les 8 semaines (néphrite aiguë, neurolupus, anémie hémolytique, etc.)",
   "Atteinte du système nerveux central non lupique",
   "Antécédent de greffe de moelle, de cellules souches ou d'organe, ou greffe prévue",
-  "Autres comorbidités cliniquement significatives"
+  "Insuffisance cardiaque NYHA III-IV, infarctus ou arythmie significative dans les 12 mois",
+  "Cancer dans les 5 ans, grossesse ou allaitement",
+  "Infection active ou récidivante grave, hépatite B ou C active, VIH ou syphilis"
  ],
  "bras": [
   {
@@ -27,5 +30,6 @@
   }
  ],
  "duree": "6 mois de traitement",
- "critere": "Taux de réponse objective de l'inclusion à la fin du traitement, à 6 mois"
+ "critere": "Taux de réponse objective de l'inclusion à la fin du traitement, à 6 mois",
+ "relu": "2026-11-27"
 }
