@@ -21,8 +21,7 @@
   "Anticoagulant ou antiagrégant dans les 3 semaines",
   "Splénectomie < 6 mois ; anti-CD20 ou anti-CD38 < 3 mois",
   "Infections récurrentes ou chroniques, immunosuppression, VIH, hépatite B ou C, syphilis",
-  "Cancer dans les 5 ans",
-  "Grossesse ou allaitement"
+  "Cancer dans les 5 ans, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -31,5 +30,6 @@
   }
  ],
  "duree": "52 semaines",
- "critere": "Efficacité à 12 semaines (réponse plaquettaire) et sécurité du CM336 sur 52 semaines."
+ "critere": "Efficacité à 12 semaines (réponse plaquettaire) et sécurité du CM336 sur 52 semaines.",
+ "relu": "2026-11-27"
 }

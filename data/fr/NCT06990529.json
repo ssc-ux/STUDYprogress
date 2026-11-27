@@ -21,8 +21,12 @@
   "Grossesse ou allaitement, vaccin vivant dans les 6 semaines précédentes"
  ],
  "bras": [
-  { "nom": "Léniolisib", "traitement": "Léniolisib en comprimés pelliculés (dose non précisée dans le registre)" }
+  {
+   "nom": "Léniolisib",
+   "traitement": "Léniolisib en comprimés pelliculés (dose non précisée dans le registre)"
+  }
  ],
  "duree": "Environ 3 ans de traitement",
- "critere": "Sécurité et tolérance à long terme du léniolisib, de l'inclusion à environ 3 ans de traitement."
+ "critere": "Sécurité et tolérance à long terme du léniolisib, de l'inclusion à environ 3 ans de traitement.",
+ "relu": "2026-11-27"
 }

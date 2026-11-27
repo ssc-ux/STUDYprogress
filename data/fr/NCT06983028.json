@@ -24,10 +24,20 @@
   "Critères propres à chaque cohorte"
  ],
  "bras": [
-  { "nom": "IgAN ou vascularite à IgA", "traitement": "Atacicept chez des adultes et enfants, dont les récidives après greffe" },
-  { "nom": "Néphropathie membraneuse primitive", "traitement": "Atacicept chez des adultes anti-PLA2R+ à faible risque de rémission spontanée, ou avec forme récidivante ou résistante" },
-  { "nom": "Syndrome néphrotique primitif (LGM/HSF)", "traitement": "Atacicept chez des adultes et des enfants avec anticorps anti-néphrine" }
+  {
+   "nom": "IgAN ou vascularite à IgA",
+   "traitement": "Atacicept chez des adultes et enfants, dont les récidives après greffe"
+  },
+  {
+   "nom": "Néphropathie membraneuse primitive",
+   "traitement": "Atacicept chez des adultes anti-PLA2R+ à faible risque de rémission spontanée, ou avec forme récidivante ou résistante"
+  },
+  {
+   "nom": "Syndrome néphrotique primitif (LGM/HSF)",
+   "traitement": "Atacicept chez des adultes et des enfants avec anticorps anti-néphrine"
+  }
  ],
  "duree": "52 semaines de traitement plus 26 semaines de suivi (78 semaines)",
- "critere": "Profil de tolérance (événements indésirables, examens de routine) jusqu'à la fin de l'étude, et réduction en pourcentage du rapport protéinurie/créatininurie à la semaine 36."
+ "critere": "Profil de tolérance (événements indésirables, examens de routine) jusqu'à la fin de l'étude, et réduction en pourcentage du rapport protéinurie/créatininurie à la semaine 36.",
+ "relu": "2026-11-27"
 }

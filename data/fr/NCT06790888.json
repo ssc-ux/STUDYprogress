@@ -22,8 +22,7 @@
   "Insuffisance cardiaque sévère ou autre atteinte cardiaque significative",
   "Autre trouble de la coagulation (CIVD, SHU, PTT)",
   "Hépatite B ou C active, VIH, déficit immunitaire, maladie auto-immune, greffe",
-  "Tuberculose active ou latente suspectée",
-  "Infection active, grossesse ou allaitement"
+  "Tuberculose active ou latente suspectée, infection active, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -36,5 +35,6 @@
   }
  ],
  "duree": "52 semaines",
- "critere": "Taux de réponse plaquettaire soutenue à 12 semaines."
+ "critere": "Taux de réponse plaquettaire soutenue à 12 semaines.",
+ "relu": "2026-11-27"
 }

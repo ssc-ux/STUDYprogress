@@ -10,8 +10,9 @@
   "Âge ≥ 5 ans",
   "LES selon les critères EULAR/ACR 2019, actif malgré ≥ 3 mois de corticoïdes forte dose, HCQ et ≥ 2 autres traitements, ou intolérance",
   "SLEDAI-2K ≥ 8",
-  "FEVG ≥ 55 %, DFG ≥ 30 ml/min/1,73 m²",
-  "ASAT et ALAT ≤ 3 N, bilirubine ≤ 2 N"
+  "FEVG ≥ 55 %, DFG ≥ 30 ml/min/1,73 m², ASAT et ALAT ≤ 3 N, bilirubine ≤ 2 N, SpO2 ≥ 92 %",
+  "Pas de CAR-T antérieur, ou rechute/réponse insuffisante après CAR-T anti-CD19",
+  "Test de grossesse négatif et contraception efficace pendant 1 an après la perfusion"
  ],
  "exclusion": [
   "Neurolupus nécessitant une intervention dans les 60 jours",
@@ -27,5 +28,6 @@
   }
  ],
  "duree": "Suivi d'au moins 6 mois",
- "critere": "Tolérance à 3 mois et efficacité à 6 mois"
+ "critere": "Tolérance à 3 mois et efficacité à 6 mois",
+ "relu": "2026-11-27"
 }

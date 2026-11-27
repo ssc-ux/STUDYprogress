@@ -18,8 +18,12 @@
   "Thrombopénie congénitale, PTI secondaire ou thrombopénie non immune"
  ],
  "bras": [
-  { "nom": "Immunoglobulines IV en mini-pool", "traitement": "Dose de charge de 1 g/kg sur 6 à 8 heures, puis jusqu'à 5 doses d'entretien de 0,5 g/kg toutes les 2 à 4 semaines, selon les plaquettes" }
+  {
+   "nom": "Immunoglobulines IV en mini-pool",
+   "traitement": "Dose de charge de 1 g/kg sur 6 à 8 heures, puis jusqu'à 5 doses d'entretien de 0,5 g/kg toutes les 2 à 4 semaines, selon les plaquettes"
+  }
  ],
  "duree": "Traitement jusqu'à 6 doses, puis suivi de 6 mois après le traitement",
- "critere": "Fréquence et gravité des saignements, réponse plaquettaire (mensuelle puis jusqu'à 6 mois après la dernière dose) et fréquence des hospitalisations pour saignement critique, de l'inclusion à 6 mois après le traitement."
+ "critere": "Fréquence et gravité des saignements, réponse plaquettaire (mensuelle puis jusqu'à 6 mois après la dernière dose) et fréquence des hospitalisations pour saignement critique, de l'inclusion à 6 mois après le traitement.",
+ "relu": "2026-11-27"
 }

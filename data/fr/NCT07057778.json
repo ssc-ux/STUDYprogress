@@ -22,9 +22,16 @@
   "Grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Iguratimod + rituximab à faible dose", "traitement": "Rituximab à faible dose associé à l'iguratimod (doses non précisées)" },
-  { "nom": "Rituximab à faible dose", "traitement": "Rituximab à faible dose seul" }
+  {
+   "nom": "Iguratimod + rituximab à faible dose",
+   "traitement": "Rituximab à faible dose associé à l'iguratimod (doses non précisées)"
+  },
+  {
+   "nom": "Rituximab à faible dose",
+   "traitement": "Rituximab à faible dose seul"
+  }
  ],
  "duree": "1 an",
- "critere": "Réponse globale, du jour 1 jusqu'à la fin de la première année."
+ "critere": "Réponse globale, du jour 1 jusqu'à la fin de la première année.",
+ "relu": "2026-11-27"
 }

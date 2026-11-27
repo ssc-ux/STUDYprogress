@@ -25,10 +25,20 @@
   "Autre maladie auto-immune, grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Cohorte 1, dose faible", "traitement": "STSA-1301 sous-cutané à dose faible ou placebo, doses répétées" },
-  { "nom": "Cohorte 2, dose moyenne", "traitement": "STSA-1301 sous-cutané à dose moyenne ou placebo, doses répétées" },
-  { "nom": "Cohorte 3, dose élevée", "traitement": "STSA-1301 sous-cutané à dose élevée ou placebo, doses répétées" }
+  {
+   "nom": "Cohorte 1, dose faible",
+   "traitement": "STSA-1301 sous-cutané à dose faible ou placebo, doses répétées"
+  },
+  {
+   "nom": "Cohorte 2, dose moyenne",
+   "traitement": "STSA-1301 sous-cutané à dose moyenne ou placebo, doses répétées"
+  },
+  {
+   "nom": "Cohorte 3, dose élevée",
+   "traitement": "STSA-1301 sous-cutané à dose élevée ou placebo, doses répétées"
+  }
  ],
  "duree": "78 jours",
- "critere": "Événements indésirables survenant après l'administration du médicament, sur 78 jours."
+ "critere": "Événements indésirables survenant après l'administration du médicament, sur 78 jours.",
+ "relu": "2026-11-27"
 }

@@ -13,12 +13,15 @@
   "Lupus selon les critères ACR 1997 ou EULAR 2019"
  ],
  "exclusion": [
-  "Lupus diagnostiqué avant toute conception",
-  "Autres critères d'exclusion : non précisés"
+  "Lupus diagnostiqué avant toute conception"
  ],
  "bras": [
-  { "nom": "Cohorte rétrospective", "traitement": "Aucune intervention ; femmes lupiques avec grossesse antérieure au diagnostic" }
+  {
+   "nom": "Cohorte rétrospective",
+   "traitement": "Aucune intervention ; femmes lupiques avec grossesse antérieure au diagnostic"
+  }
  ],
  "duree": "Du début de chaque grossesse jusqu'à 3 mois après l'accouchement (rétrospectif)",
- "critere": "Prévalence des événements obstétricaux avant le diagnostic de lupus, du début de chaque grossesse à 3 mois après l'accouchement"
+ "critere": "Prévalence des événements obstétricaux avant le diagnostic de lupus, du début de chaque grossesse à 3 mois après l'accouchement",
+ "relu": "2026-11-27"
 }

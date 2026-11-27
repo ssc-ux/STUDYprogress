@@ -21,8 +21,7 @@
   "Traitement de secours du PTI dans les 2 semaines ; rituximab < 6 mois ; splénectomie < 6 mois",
   "SMD, cancer dans les 5 ans, greffe",
   "Infections sévères ou récurrentes, immunosuppression, VIH, syphilis, hépatite B ou C active",
-  "IgG < 500 mg/dL, lymphocytes < 500/mm³, PNN < 1 500/mm³, Hb < 9 g/dL",
-  "Grossesse ou allaitement"
+  "IgG < 500 mg/dL, lymphocytes < 500/mm³, PNN < 1 500/mm³, Hb < 9 g/dL ; grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -31,5 +30,6 @@
   }
  ],
  "duree": "Au moins 8 semaines",
- "critere": "Efficacité (réponse plaquettaire) du daratumumab dans les 8 semaines."
+ "critere": "Efficacité (réponse plaquettaire) du daratumumab dans les 8 semaines.",
+ "relu": "2026-11-27"
 }

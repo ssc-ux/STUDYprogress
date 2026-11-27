@@ -14,13 +14,19 @@
   "Âge ≥ 18 ans"
  ],
  "exclusion": [
-  "Transplantation hépatique dans les 6 derniers mois",
-  "Autres critères d'exclusion : non précisés"
+  "Transplantation hépatique dans les 6 derniers mois"
  ],
  "bras": [
-  { "nom": "Exercice", "traitement": "Programme d'exercice supervisé de 12 semaines" },
-  { "nom": "Témoin", "traitement": "Pas d'inclusion dans le programme d'exercice" }
+  {
+   "nom": "Exercice",
+   "traitement": "Programme d'exercice supervisé de 12 semaines"
+  },
+  {
+   "nom": "Témoin",
+   "traitement": "Pas d'inclusion dans le programme d'exercice"
+  }
  ],
  "duree": "12 semaines",
- "critere": "Force des extenseurs du genou, force de préhension, capacité de marche et composition corporelle (IMC, poids, masse maigre, masse grasse, eau corporelle), évaluées avant et juste après les 12 semaines."
+ "critere": "Force des extenseurs du genou, force de préhension, capacité de marche et composition corporelle (IMC, poids, masse maigre, masse grasse, eau corporelle), évaluées avant et juste après les 12 semaines.",
+ "relu": "2026-11-27"
 }

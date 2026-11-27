@@ -25,8 +25,12 @@
   "Grossesse ou projet de grossesse"
  ],
  "bras": [
-  { "nom": "CAR-T allogéniques anti-CD19/BCMA", "traitement": "Une perfusion intraveineuse de CAR-T universelles après lymphodéplétion (fludarabine + cyclophosphamide), avec escalade de dose" }
+  {
+   "nom": "CAR-T allogéniques anti-CD19/BCMA",
+   "traitement": "Une perfusion intraveineuse de CAR-T universelles après lymphodéplétion (fludarabine + cyclophosphamide), avec escalade de dose"
+  }
  ],
  "duree": "Jusqu'à 24 mois de suivi",
- "critere": "Toxicités limitantes de dose (28 jours), nombre et gravité des événements indésirables (90 jours) et réponse clinique (jusqu'à 24 mois)."
+ "critere": "Toxicités limitantes de dose (28 jours), nombre et gravité des événements indésirables (90 jours) et réponse clinique (jusqu'à 24 mois).",
+ "relu": "2026-11-27"
 }

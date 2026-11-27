@@ -15,15 +15,13 @@
   "Consentement éclairé"
  ],
  "exclusion": [
-  "Allergie médicamenteuse sévère",
-  "Infection non contrôlée",
-  "Atteinte du système nerveux central (hors exceptions)",
-  "Insuffisance cardiaque, déficit immunitaire congénital",
-  "Cancer dans les 5 dernières années, insuffisance rénale terminale",
+  "Allergie médicamenteuse sévère, infection non contrôlée",
+  "Atteinte du système nerveux central (épilepsie, psychose, AVC, encéphalite, vascularite cérébrale)",
+  "Insuffisance cardiaque, déficit immunitaire congénital en immunoglobulines, insuffisance rénale terminale",
+  "Cancer dans les 5 dernières années",
   "Hépatite B ou C, VIH, syphilis",
   "Thrombose veineuse profonde ou embolie pulmonaire dans les 6 mois",
-  "Immunosuppresseur ou biothérapie récents, autre essai dans les 3 mois",
-  "Grossesse, allaitement ou projet de grossesse"
+  "Immunosuppresseur ou biothérapie récents, autre essai dans les 3 mois, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -32,5 +30,6 @@
   }
  ],
  "duree": "52 semaines après le traitement",
- "critere": "Fréquence et gravité des événements indésirables survenant sous traitement, dont les toxicités limitant la dose à 28 jours, et suivi jusqu'à 52 semaines."
+ "critere": "Fréquence et gravité des événements indésirables survenant sous traitement, dont les toxicités limitant la dose à 28 jours, et suivi jusqu'à 52 semaines.",
+ "relu": "2026-11-27"
 }

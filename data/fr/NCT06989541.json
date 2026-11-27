@@ -21,9 +21,16 @@
   "Allergie ou réaction sévère aux immunoglobulines"
  ],
  "bras": [
-  { "nom": "IgIV", "traitement": "Immunoglobulines intraveineuses humaines 10 % (substitution standard)" },
-  { "nom": "IgSC", "traitement": "Immunoglobulines sous-cutanées humaines 20 % (substitution standard)" }
+  {
+   "nom": "IgIV",
+   "traitement": "Immunoglobulines intraveineuses humaines 10 % (substitution standard)"
+  },
+  {
+   "nom": "IgSC",
+   "traitement": "Immunoglobulines sous-cutanées humaines 20 % (substitution standard)"
+  }
  ],
  "duree": "40 semaines",
- "critere": "Taux d'infections de grade 3 ou plus, normalisé sur le temps de suivi, à 40 semaines."
+ "critere": "Taux d'infections de grade 3 ou plus, normalisé sur le temps de suivi, à 40 semaines.",
+ "relu": "2026-11-27"
 }

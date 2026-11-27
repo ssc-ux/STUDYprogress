@@ -24,10 +24,20 @@
   "Traitement antérieur par némolizumab, hypersensibilité aux immunoglobulines, grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Némolizumab, dose 1", "traitement": "Némolizumab, première dose (valeur non précisée)" },
-  { "nom": "Némolizumab, dose 2", "traitement": "Némolizumab, deuxième dose (valeur non précisée)" },
-  { "nom": "Placebo", "traitement": "Placebo" }
+  {
+   "nom": "Némolizumab, dose 1",
+   "traitement": "Némolizumab, première dose (valeur non précisée)"
+  },
+  {
+   "nom": "Némolizumab, dose 2",
+   "traitement": "Némolizumab, deuxième dose (valeur non précisée)"
+  },
+  {
+   "nom": "Placebo",
+   "traitement": "Placebo"
+  }
  ],
  "duree": "52 semaines",
- "critere": "Variation du score de Rodnan modifié (mRSS) entre l'inclusion et la semaine 52."
+ "critere": "Variation du score de Rodnan modifié (mRSS) entre l'inclusion et la semaine 52.",
+ "relu": "2026-11-27"
 }

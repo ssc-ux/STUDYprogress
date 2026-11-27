@@ -25,8 +25,12 @@
   "Anticorps monoclonal dans les 30 jours, vaccin vivant dans les 30 jours, amylose symptomatique, syndrome POEMS ou leucémie à plasmocytes"
  ],
  "bras": [
-  { "nom": "Bras unique", "traitement": "Bélantamab mafodotine et dexaméthasone en cycles de 28 jours, jusqu'à 1 an ou jusqu'à l'échec, la toxicité ou le retrait" }
+  {
+   "nom": "Bras unique",
+   "traitement": "Bélantamab mafodotine et dexaméthasone en cycles de 28 jours, jusqu'à 1 an ou jusqu'à l'échec, la toxicité ou le retrait"
+  }
  ],
  "duree": "Jusqu'à 1 an de traitement, suivi jusqu'à 12 mois après le dernier patient inclus",
- "critere": "Taux de réponse complète ou partielle à 6 mois de traitement."
+ "critere": "Taux de réponse complète ou partielle à 6 mois de traitement.",
+ "relu": "2026-11-27"
 }

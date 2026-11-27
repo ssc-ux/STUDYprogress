@@ -23,8 +23,12 @@
   "Atteinte hépatique ou rénale sévère (ALAT/ASAT > 5 N, bilirubine > 2 N, DFG < 20 mL/min ou dialyse)"
  ],
  "bras": [
-  { "nom": "Teclistamab", "traitement": "Teclistamab par injection sous-cutanée (schéma posologique non précisé)" }
+  {
+   "nom": "Teclistamab",
+   "traitement": "Teclistamab par injection sous-cutanée (schéma posologique non précisé)"
+  }
  ],
  "duree": "Non précisé (critère principal évalué à 3 mois)",
- "critere": "Taux de réponse hématologique complète 3 mois après le début du traitement."
+ "critere": "Taux de réponse hématologique complète 3 mois après le début du traitement.",
+ "relu": "2026-11-27"
 }

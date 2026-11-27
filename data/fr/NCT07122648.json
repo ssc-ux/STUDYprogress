@@ -15,8 +15,7 @@
   "Kinésithérapie ou exercice maintenus à intensité constante"
  ],
  "exclusion": [
-  "Atteinte musculaire séquellaire (index MDI ≥ 5)",
-  "Chirurgie dans les 12 semaines, cancer dans les 5 ans",
+  "Atteinte musculaire séquellaire (index MDI ≥ 5), chirurgie dans les 12 semaines ou cancer dans les 5 ans",
   "Myosite juvénile (diagnostic avant 10 ans)",
   "Faiblesse respiratoire sévère ou pneumopathie interstitielle instable",
   "Infection sévère, hépatite B ou C active, VIH",
@@ -27,17 +26,18 @@
  "bras": [
   {
    "nom": "Placebo",
-   "traitement": "Placebo"
+   "traitement": "Placebo, perfusion intraveineuse unique"
   },
   {
    "nom": "PN-101 300 µg",
-   "traitement": "PN-101 à la dose de 300 µg"
+   "traitement": "PN-101 (mitochondries issues de cellules souches mésenchymateuses de cordon), 300 µg en perfusion intraveineuse unique"
   },
   {
    "nom": "PN-101 600 µg",
-   "traitement": "PN-101 à la dose de 600 µg"
+   "traitement": "PN-101, 600 µg en perfusion intraveineuse unique"
   }
  ],
  "duree": "12 semaines pour le critère principal (durée totale non précisée)",
- "critere": "Score d'amélioration total IMACS (IMACS-TIS) 12 semaines après l'administration."
+ "critere": "Score d'amélioration total IMACS (IMACS-TIS) 12 semaines après l'administration.",
+ "relu": "2026-11-27"
 }

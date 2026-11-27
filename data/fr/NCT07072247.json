@@ -5,9 +5,9 @@
  "question": "Le CAR-T allogénique RN1201 (CD19/BCMA) est-il sûr et faisable dans les maladies à anticorps réfractaires, PTI et réfractarité immune aux transfusions plaquettaires ?",
  "contexte": "Le PTI et l'état réfractaire immun aux transfusions plaquettaires sont des maladies médiées par des anticorps pathogènes. Une partie des patients ne répond ni aux corticoïdes, ni aux agonistes du récepteur de la thrombopoïétine, ni au rituximab, ni à la splénectomie, et reste exposée à un risque hémorragique important.\n\nLes lymphocytes B et les plasmocytes à longue durée de vie, producteurs d'auto-anticorps, expliquent en partie cette résistance. Les CAR-T dirigés contre CD19 et BCMA ont montré une capacité à déplétionner ces populations dans le lupus et d'autres maladies auto-immunes, avec des rémissions prolongées dans de petites séries.\n\nRN1201 est un CAR-T allogène (prêt à l'emploi) ciblant CD19 et BCMA, perfusé après lymphodéplétion (fludarabine, cyclophosphamide). Cet essai chinois de phase 1, monocentrique et non comparatif, évalue d'abord la tolérance, puis la réponse plaquettaire, la déplétion B et la reconstitution immune. Il porte sur 9 patients.",
  "interet": "Si la tolérance est acceptable, l'étude ouvrira la voie à une option cellulaire immédiatement disponible pour les PTI multi-résistants. Il s'agit d'une exploration très précoce, sans conséquence directe sur la pratique.",
- "profil": "Des patients de 16 à 65 ans atteints de PTI réfractaire ou récidivant, ou de réfractarité immune aux transfusions plaquettaires.",
+ "profil": "Des patients de 16 à 65 ans (réfractarité immune aux transfusions plaquettaires) ou de 18 ans et plus (PTI) atteints de PTI réfractaire ou récidivant, ou de réfractarité immune aux transfusions plaquettaires.",
  "inclusion": [
-  "Âge de 16 à 65 ans",
+  "Âge de 16 à 65 ans (réfractarité aux transfusions plaquettaires) ou ≥ 18 ans (PTI)",
   "PTI réfractaire (échec des traitements de première ligne, agonistes de la thrombopoïétine et rituximab, ou splénectomie inefficace) ou PTR immune résistante à au moins 3 traitements",
   "FEVG ≥ 50 % sans épanchement péricardique",
   "Espérance de vie supérieure à 3 mois, KPS ≥ 60 (PTR)",
@@ -30,5 +30,6 @@
   }
  ],
  "duree": "Non précisé (critère principal à 4 semaines après la perfusion)",
- "critere": "Fréquence et gravité des événements indésirables apparus sous traitement et des toxicités limitant la dose, dans les 4 semaines suivant la perfusion."
+ "critere": "Fréquence et gravité des événements indésirables apparus sous traitement et des toxicités limitant la dose, dans les 4 semaines suivant la perfusion.",
+ "relu": "2026-11-27"
 }

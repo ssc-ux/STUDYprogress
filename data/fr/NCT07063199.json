@@ -25,8 +25,12 @@
   "Infections sévères ou récurrentes, VIH, syphilis, hépatite B ou C active, IgG < 500 mg/dL, neutrophiles < 1,5 G/L, lymphocytes < 0,5 G/L, hémoglobine < 9 g/dL"
  ],
  "bras": [
-  { "nom": "Daratumumab", "traitement": "Daratumumab en injection, une fois par semaine pendant 4 semaines (4 doses)" }
+  {
+   "nom": "Daratumumab",
+   "traitement": "Daratumumab en injection, une fois par semaine pendant 4 semaines (4 doses)"
+  }
  ],
  "duree": "24 semaines",
- "critere": "Événements indésirables du traitement anti-CD38 (24 semaines) et efficacité du daratumumab dans les 8 semaines."
+ "critere": "Événements indésirables du traitement anti-CD38 (24 semaines) et efficacité du daratumumab dans les 8 semaines.",
+ "relu": "2026-11-27"
 }

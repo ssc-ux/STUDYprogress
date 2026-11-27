@@ -25,13 +25,14 @@
  "bras": [
   {
    "nom": "Stimulation du nerf vague",
-   "traitement": "Stimulation transcutanée du nerf vague gauche, 5 minutes par jour pendant 28 jours"
+   "traitement": "Stimulation transcutanée du nerf vague gauche, 5 minutes par jour pendant 28 jours (2 patients sur 3)"
   },
   {
    "nom": "Stimulation factice",
-   "traitement": "Stimulation sham du nerf vague gauche, 5 minutes par jour pendant 28 jours"
+   "traitement": "Stimulation sham du nerf vague gauche, 5 minutes par jour pendant 28 jours (1 patient sur 3)"
   }
  ],
- "duree": "28 jours",
- "critere": "Variation de la douleur musculosquelettique par rapport à l'inclusion à 28 jours"
+ "duree": "56 jours (28 jours de stimulation, puis 28 jours de suivi)",
+ "critere": "Variation de la douleur musculosquelettique par rapport à l'inclusion à 28 jours",
+ "relu": "2026-11-27"
 }

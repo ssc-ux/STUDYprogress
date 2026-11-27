@@ -18,8 +18,12 @@
   "Participation à une étude interventionnelle en cours, y compris avec le garadacimab"
  ],
  "bras": [
-  { "nom": "Cohorte garadacimab", "traitement": "Patients atteints d'AOH recevant le garadacimab en pratique courante (aucune intervention imposée par l'étude)" }
+  {
+   "nom": "Cohorte garadacimab",
+   "traitement": "Patients atteints d'AOH recevant le garadacimab en pratique courante (aucune intervention imposée par l'étude)"
+  }
  ],
  "duree": "48 mois après la première administration",
- "critere": "Rapport des taux d'incidence (IRR) des crises d'angiœdème avant et après introduction du garadacimab, sur 24 mois."
+ "critere": "Rapport des taux d'incidence (IRR) des crises d'angiœdème avant et après introduction du garadacimab, sur 24 mois.",
+ "relu": "2026-11-27"
 }

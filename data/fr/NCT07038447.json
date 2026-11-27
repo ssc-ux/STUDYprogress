@@ -15,7 +15,13 @@
   "Myopathie : IIM probable ou définie (EULAR/ACR 2017, hors myosite à inclusions), maladie active modérée à sévère"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre (critères détaillés dans le protocole)"
+  "Grossesse ou allaitement",
+  "Dialyse dans l'année ; cancer dans les 5 ans",
+  "Hypogammaglobulinémie nécessitant des immunoglobulines",
+  "Greffe de cellules souches ou d'organe ; thérapie cellulaire, génique ou engageur de lymphocytes T antérieurs",
+  "VIH, hépatite B ou C, tuberculose active ou latente non traitée, infection active ou non contrôlée",
+  "Maladie auto-immune de chevauchement ou mixte non classable dans les cohortes",
+  "Critères spécifiques : néphrite lupique évoluée ou glomérulonéphrite rapidement progressive ; lupus induit, SAPL catastrophique, PTT, atteinte neuropsychiatrique active ; sclérodermie avec ulcère digital infecté, HTP sévère ou crise rénale dans les 12 mois ; autre myopathie ou lésion musculaire irréversible"
  ],
  "bras": [
   {
@@ -28,5 +34,6 @@
   }
  ],
  "duree": "Jusqu'à 2 ans de suivi",
- "critere": "Phase 1a : toxicités limitant la dose ; phase 1b : événements indésirables et réponse à 6 mois selon la maladie (rémission DORIS/LLDAS, réponse rénale complète, rCRISS, TIS EULAR/ACR)."
+ "critere": "Phase 1a : toxicités limitant la dose ; phase 1b : événements indésirables et réponse à 6 mois selon la maladie (rémission DORIS/LLDAS, réponse rénale complète, rCRISS, TIS EULAR/ACR).",
+ "relu": "2026-11-27"
 }

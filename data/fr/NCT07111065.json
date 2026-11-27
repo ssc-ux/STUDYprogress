@@ -20,8 +20,7 @@
   "Fibrillation atriale ou autre trouble du rythme significatif",
   "Allergie au poisson, au maïs ou à la gélatine de porc, ou alpha-gal",
   "Prise d'oméga-3 ou de médicaments modifiant les lipoprotéines dans les semaines précédentes",
-  "Diabète non contrôlé (HbA1c > 8), insuffisance rénale (DFG < 50), hépatopathie significative",
-  "Traitement antiplaquettaire double ou anticoagulant, trouble de l'hémostase",
+  "Diabète non contrôlé (HbA1c > 8), insuffisance rénale (DFG < 50), hépatopathie significative, trouble de l'hémostase ou anticoagulation",
   "Grossesse ou projet de grossesse, participation à un autre essai"
  ],
  "bras": [
@@ -35,5 +34,6 @@
   }
  ],
  "duree": "24 semaines, plus 12 semaines optionnelles en ouvert",
- "critere": "Amélioration de l'activité de la maladie mesurée par le Total Improvement Score (TIS) ACR/EULAR 2016, de la semaine 0 à la semaine 24."
+ "critere": "Amélioration de l'activité de la maladie mesurée par le Total Improvement Score (TIS) ACR/EULAR 2016, de la semaine 0 à la semaine 24.",
+ "relu": "2026-11-27"
 }

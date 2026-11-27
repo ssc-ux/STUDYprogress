@@ -15,15 +15,21 @@
   "Contraception pendant 1 an après le traitement"
  ],
  "exclusion": [
-  "Lupus neuropsychiatrique",
+  "Lupus neuropsychiatrique ou atteinte du système nerveux central",
   "Antécédent de purpura thrombotique thrombocytopénique ou de microangiopathie thrombotique",
-  "Allergie médicamenteuse sévère",
-  "Infection active ou suspectée non contrôlée",
-  "Atteinte du système nerveux central d'origine auto-immune"
+  "Allergie médicamenteuse sévère, infection active ou suspectée non contrôlée",
+  "Cardiopathie sévère, insuffisance rénale terminale",
+  "Déficit congénital en immunoglobulines",
+  "Cancer antérieur (sauf exceptions avec survie sans maladie > 5 ans)",
+  "Hépatite B ou C active, VIH, syphilis, troubles psychiatriques, autre essai dans les 3 mois, grossesse"
  ],
  "bras": [
-  { "nom": "CAR-T universel anti-CD70", "traitement": "Perfusion de CHT101 ; dose et schéma de lymphodéplétion non précisés" }
+  {
+   "nom": "CAR-T universel anti-CD70",
+   "traitement": "Perfusion de CHT101 ; dose et schéma de lymphodéplétion non précisés"
+  }
  ],
  "duree": "12 mois",
- "critere": "Réponse SRI-4 au mois 3 après la perfusion et tolérance dans les 12 mois"
+ "critere": "Réponse SRI-4 au mois 3 après la perfusion et tolérance dans les 12 mois",
+ "relu": "2026-11-27"
 }

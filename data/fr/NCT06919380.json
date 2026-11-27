@@ -14,12 +14,11 @@
  "exclusion": [
   "Grossesse, allaitement ou projet de grossesse",
   "Allergie sévère ou allergie au principe actif",
-  "Infection pulmonaire sévère, pneumothorax ou épanchement pleural abondant",
-  "Embolie pulmonaire",
+  "Infection pulmonaire sévère, pneumothorax, épanchement pleural abondant ou embolie pulmonaire",
   "Ventilation invasive ou assistance extracorporelle (ECMO, plasmaphérèse, etc.)",
   "Insuffisance cardiaque, hépatique ou rénale sévère",
   "Transplantation pulmonaire prévue, cancer du poumon ou nodule suspect",
-  "Déficit immunitaire primitif, infection active (VIH, tuberculose)"
+  "Déficit immunitaire primitif ou infection active (VIH, tuberculose)"
  ],
  "bras": [
   {
@@ -28,5 +27,6 @@
   }
  ],
  "duree": "Suivi jusqu'à 12 mois",
- "critere": "Mortalité à 3 mois et tolérance du traitement (événements indésirables sous 30 jours)."
+ "critere": "Mortalité à 3 mois et tolérance du traitement (événements indésirables sous 30 jours).",
+ "relu": "2026-11-27"
 }

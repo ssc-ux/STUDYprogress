@@ -25,8 +25,12 @@
   "VHB, VHC, VIH ou syphilis positifs, vaccin vivant < 4 semaines"
  ],
  "bras": [
-  { "nom": "CAR-T anti-CD19/BCMA", "traitement": "Une perfusion intraveineuse unique du vecteur LCAR1901, avec escalade de dose" }
+  {
+   "nom": "CAR-T anti-CD19/BCMA",
+   "traitement": "Une perfusion intraveineuse unique du vecteur LCAR1901, avec escalade de dose"
+  }
  ],
  "duree": "Jusqu'à 1 an pour le critère principal",
- "critere": "Événements indésirables jusqu'à 1 an après la perfusion."
+ "critere": "Événements indésirables jusqu'à 1 an après la perfusion.",
+ "relu": "2026-11-27"
 }

@@ -17,8 +17,12 @@
   "Autre raison jugée par l'investigateur rendant le patient inéligible"
  ],
  "bras": [
-  { "nom": "Cohorte NICHE-AIHA", "traitement": "Suivi observationnel rétrospectif et prospectif des patients atteints d'AHAI, sans intervention imposée" }
+  {
+   "nom": "Cohorte NICHE-AIHA",
+   "traitement": "Suivi observationnel rétrospectif et prospectif des patients atteints d'AHAI, sans intervention imposée"
+  }
  ],
  "duree": "Suivi à long terme (fin prévue en 2070), évaluations à l'inclusion, 6, 12 et 24 mois après le traitement, puis environ annuelles",
- "critere": "Réponse hématologique, évaluée à l'inclusion, à 6, 12 et 24 mois après le traitement et à la fin de l'étude."
+ "critere": "Réponse hématologique, évaluée à l'inclusion, à 6, 12 et 24 mois après le traitement et à la fin de l'étude.",
+ "relu": "2026-11-27"
 }

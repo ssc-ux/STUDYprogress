@@ -18,8 +18,12 @@
   "Refus de participer"
  ],
  "bras": [
-  { "nom": "Patients avec PTI", "traitement": "Recherche de maladie thyroïdienne et bilan biologique, avec traitement habituel du PTI (corticoïdes, eltrombopag)" }
+  {
+   "nom": "Patients avec PTI",
+   "traitement": "Recherche de maladie thyroïdienne et bilan biologique, avec traitement habituel du PTI (corticoïdes, eltrombopag)"
+  }
  ],
  "duree": "Non précisé",
- "critere": "Fréquence des maladies thyroïdiennes chez les patients atteints de PTI, et effet de leur traitement sur la numération plaquettaire."
+ "critere": "Fréquence des maladies thyroïdiennes chez les patients atteints de PTI, et effet de leur traitement sur la numération plaquettaire.",
+ "relu": "2026-11-27"
 }

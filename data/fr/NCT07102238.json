@@ -18,9 +18,16 @@
   "Autres critères d'exclusion : non précisé"
  ],
  "bras": [
-  { "nom": "Lupus avec atteinte musculo-squelettique", "traitement": "Échographie articulaire, prélèvements sanguins et biopsie synoviale ; visites à l'inclusion, 3 et 6 mois, puis tous les 6 mois jusqu'à 18 mois" },
-  { "nom": "Autres connectivites avec atteinte musculo-squelettique", "traitement": "Échographie, biopsie synoviale et prélèvements à l'inclusion, traitement selon les recommandations et le rhumatologue" }
+  {
+   "nom": "Lupus avec atteinte musculo-squelettique",
+   "traitement": "Échographie articulaire, prélèvements sanguins et biopsie synoviale ; visites à l'inclusion, 3 et 6 mois, puis tous les 6 mois jusqu'à 18 mois"
+  },
+  {
+   "nom": "Autres connectivites avec atteinte musculo-squelettique",
+   "traitement": "Échographie, biopsie synoviale et prélèvements à l'inclusion, traitement selon les recommandations et le rhumatologue"
+  }
  ],
  "duree": "6 à 18 mois",
- "critere": "Prévalence de l'atteinte musculo-squelettique, définie par échographie standardisée, sur 18 mois."
+ "critere": "Prévalence de l'atteinte musculo-squelettique, définie par échographie standardisée, sur 18 mois.",
+ "relu": "2026-11-27"
 }

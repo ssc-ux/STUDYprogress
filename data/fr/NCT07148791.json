@@ -25,8 +25,12 @@
   "Grossesse ou projet de grossesse"
  ],
  "bras": [
-  {"nom": "CAR-T anti-BCMA-CD19", "traitement": "Leucaphérèse, lymphodéplétion (fludarabine 30 mg/m²/j + cyclophosphamide 250 mg/m²/j, J-5 à J-3), puis perfusion unique de CAR-T à 1, 2 ou 3 × 10^6 cellules CAR+/kg selon le palier de dose"}
+  {
+   "nom": "CAR-T anti-BCMA-CD19",
+   "traitement": "Leucaphérèse, lymphodéplétion (fludarabine 30 mg/m²/j + cyclophosphamide 250 mg/m²/j, J-5 à J-3), puis perfusion unique de CAR-T à 1, 2 ou 3 × 10^6 cellules CAR+/kg selon le palier de dose"
+  }
  ],
  "duree": "26 semaines de suivi intensif, suivi jusqu'à la semaine 52",
- "critere": "Sécurité (toxicités limitant la dose dans les 28 jours, événements indésirables liés aux CAR-T) jusqu'à la semaine 26, et variation du IgG4-RD Responder Index aux semaines 12 et 26"
+ "critere": "Sécurité (toxicités limitant la dose dans les 28 jours, événements indésirables liés aux CAR-T) jusqu'à la semaine 26, et variation du IgG4-RD Responder Index aux semaines 12 et 26",
+ "relu": "2026-11-27"
 }

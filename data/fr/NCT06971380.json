@@ -25,8 +25,12 @@
   "Second cancer traité dans les 2 ans, grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "CAR-T BCMA", "traitement": "Dose unique de 800 à 1200 (± 20 %) × 10^6 cellules HBI0101, après lymphodéplétion" }
+  {
+   "nom": "CAR-T BCMA",
+   "traitement": "Dose unique de 800 à 1200 (± 20 %) × 10^6 cellules HBI0101, après lymphodéplétion"
+  }
  ],
  "duree": "24 mois après la perfusion",
- "critere": "Réponse clinique au HBI0101 CAR-T, évaluée sur 24 mois."
+ "critere": "Réponse clinique au HBI0101 CAR-T, évaluée sur 24 mois.",
+ "relu": "2026-11-27"
 }

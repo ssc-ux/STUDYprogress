@@ -22,9 +22,16 @@
   "Grossesse, allaitement ou refus de contraception pendant au moins 18 mois après la dernière dose"
  ],
  "bras": [
-  { "nom": "MIL62 + traitement standard", "traitement": "MIL62 par perfusion, trois groupes de dose (partie A) puis dose recommandée (partie B) ; doses non précisées" },
-  { "nom": "Placebo + traitement standard", "traitement": "Placebo avec traitement standard (partie A, rapport 4:1)" }
+  {
+   "nom": "MIL62 + traitement standard",
+   "traitement": "MIL62 par perfusion, trois groupes de dose (partie A) puis dose recommandée (partie B) ; doses non précisées"
+  },
+  {
+   "nom": "Placebo + traitement standard",
+   "traitement": "Placebo avec traitement standard (partie A, rapport 4:1)"
+  }
  ],
  "duree": "76 semaines",
- "critere": "Proportion de patients en rémission rénale complète à la semaine 76"
+ "critere": "Proportion de patients en rémission rénale complète à la semaine 76",
+ "relu": "2026-11-27"
 }

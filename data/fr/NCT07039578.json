@@ -22,9 +22,16 @@
   "Toute autre condition jugée incompatible avec la participation par l'investigateur"
  ],
  "bras": [
-  { "nom": "CM336, dose faible", "traitement": "CM336 en injection, dose faible (valeur non précisée)" },
-  { "nom": "CM336, dose élevée", "traitement": "CM336 en injection, dose élevée (valeur non précisée)" }
+  {
+   "nom": "CM336, dose faible",
+   "traitement": "CM336 en injection, dose faible (valeur non précisée)"
+  },
+  {
+   "nom": "CM336, dose élevée",
+   "traitement": "CM336 en injection, dose élevée (valeur non précisée)"
+  }
  ],
  "duree": "Jusqu'à 3 ans",
- "critere": "Efficacité du traitement par CM336, évaluée jusqu'à 3 ans (mesure précise non détaillée dans le registre)."
+ "critere": "Efficacité du traitement par CM336, évaluée jusqu'à 3 ans (mesure précise non détaillée dans le registre).",
+ "relu": "2026-11-27"
 }

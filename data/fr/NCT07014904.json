@@ -18,8 +18,12 @@
   "Âge inférieur à 1 an ou supérieur à 18 ans"
  ],
  "bras": [
-  { "nom": "Enfants avec PTI primaire", "traitement": "Génotypage du polymorphisme CTLA-4 rs3087243 par PCR en temps réel" }
+  {
+   "nom": "Enfants avec PTI primaire",
+   "traitement": "Génotypage du polymorphisme CTLA-4 rs3087243 par PCR en temps réel"
+  }
  ],
  "duree": "Évaluation unique à l'inclusion",
- "critere": "Association du polymorphisme rs3087243 de CTLA-4 avec le PTI primaire de l'enfant, par PCR en temps réel, à l'inclusion."
+ "critere": "Association du polymorphisme rs3087243 de CTLA-4 avec le PTI primaire de l'enfant, par PCR en temps réel, à l'inclusion.",
+ "relu": "2026-11-27"
 }

@@ -25,11 +25,24 @@
   "Inhibiteurs ou inducteurs puissants du CYP3A4, grossesse ou allaitement, hypersensibilité au deucrictibant"
  ],
  "bras": [
-  { "nom": "Partie 1 : deucrictibant XR", "traitement": "Comprimé de deucrictibant à libération prolongée 40 mg, 1 fois par jour, 12 semaines" },
-  { "nom": "Partie 1 : placebo", "traitement": "Comprimé placebo, 1 fois par jour, 12 semaines (cross-over)" },
-  { "nom": "Partie 2 : deucrictibant à la demande", "traitement": "Une capsule molle de 20 mg par crise, pour 2 crises non laryngées, jusqu'à 16 semaines" },
-  { "nom": "Partie 2 : placebo à la demande", "traitement": "Capsule placebo par crise, pour 2 crises (cross-over)" }
+  {
+   "nom": "Partie 1 : deucrictibant XR",
+   "traitement": "Comprimé de deucrictibant à libération prolongée 40 mg, 1 fois par jour, 12 semaines"
+  },
+  {
+   "nom": "Partie 1 : placebo",
+   "traitement": "Comprimé placebo, 1 fois par jour, 12 semaines (cross-over)"
+  },
+  {
+   "nom": "Partie 2 : deucrictibant à la demande",
+   "traitement": "Une capsule molle de 20 mg par crise, pour 2 crises non laryngées, jusqu'à 16 semaines"
+  },
+  {
+   "nom": "Partie 2 : placebo à la demande",
+   "traitement": "Capsule placebo par crise, pour 2 crises (cross-over)"
+  }
  ],
  "duree": "Environ 24 semaines pour la partie 1, puis jusqu'à 16 semaines pour la partie 2",
- "critere": "Partie 1 : incidence et caractéristiques des crises, traitement actif versus placebo (24 semaines). Partie 2 : soulagement des symptômes lors des crises aiguës, traitement actif versus placebo (16 semaines)."
+ "critere": "Partie 1 : incidence et caractéristiques des crises, traitement actif versus placebo (24 semaines). Partie 2 : soulagement des symptômes lors des crises aiguës, traitement actif versus placebo (16 semaines).",
+ "relu": "2026-11-27"
 }

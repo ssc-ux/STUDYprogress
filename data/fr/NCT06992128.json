@@ -24,9 +24,16 @@
   "Allergie sévère aux corticoïdes ou au romiplostim"
  ],
  "bras": [
-  { "nom": "Romiplostim N01 + dexaméthasone", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (une cure, répétée au jour 10 si besoin) et romiplostim N01 sous-cutané hebdomadaire, 3 µg/kg initialement, ajusté jusqu'à 10 µg/kg, jusqu'à 6 mois" },
-  { "nom": "Dexaméthasone seule", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (une cure, répétée au jour 10 si besoin)" }
+  {
+   "nom": "Romiplostim N01 + dexaméthasone",
+   "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (une cure, répétée au jour 10 si besoin) et romiplostim N01 sous-cutané hebdomadaire, 3 µg/kg initialement, ajusté jusqu'à 10 µg/kg, jusqu'à 6 mois"
+  },
+  {
+   "nom": "Dexaméthasone seule",
+   "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (une cure, répétée au jour 10 si besoin)"
+  }
  ],
  "duree": "6 mois de traitement, puis suivi jusqu'à 24 semaines après la fin du traitement",
- "critere": "Proportion de patients en rémission continue à 6 mois."
+ "critere": "Proportion de patients en rémission continue à 6 mois.",
+ "relu": "2026-11-27"
 }

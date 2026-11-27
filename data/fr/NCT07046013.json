@@ -16,9 +16,16 @@
   "Cancer"
  ],
  "bras": [
-  { "nom": "Patients avec PTI", "traitement": "Dosage de la LDH sérique au diagnostic" },
-  { "nom": "Témoins", "traitement": "Dosage de la LDH sérique (composition du groupe témoin non précisée)" }
+  {
+   "nom": "Patients avec PTI",
+   "traitement": "Dosage de la LDH sérique au diagnostic"
+  },
+  {
+   "nom": "Témoins",
+   "traitement": "Dosage de la LDH sérique (composition du groupe témoin non précisée)"
+  }
  ],
  "duree": "Environ 2 ans",
- "critere": "Relation entre la LDH sérique et le PTI, sur environ 2 ans."
+ "critere": "Relation entre la LDH sérique et le PTI, sur environ 2 ans.",
+ "relu": "2026-11-27"
 }

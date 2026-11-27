@@ -25,8 +25,12 @@
   "Trouble de l'hémostase ou thrombose sévère, greffe d'organe solide, autre cancer dans les 5 ans, grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Eque-cel", "traitement": "Eque-cel en perfusion unique, 1,0 × 10^6 cellules CAR-T/kg, après lymphodéplétion" }
+  {
+   "nom": "Eque-cel",
+   "traitement": "Eque-cel en perfusion unique, 1,0 × 10^6 cellules CAR-T/kg, après lymphodéplétion"
+  }
  ],
  "duree": "24 semaines de suivi principal, puis jusqu'à 15 ans de surveillance",
- "critere": "Proportion de patients en très bonne réponse partielle hématologique ou mieux au jour 90 après la perfusion."
+ "critere": "Proportion de patients en très bonne réponse partielle hématologique ou mieux au jour 90 après la perfusion.",
+ "relu": "2026-11-27"
 }

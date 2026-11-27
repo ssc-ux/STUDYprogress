@@ -21,9 +21,16 @@
   "Grossesse ou allaitement, effets indésirables significatifs d'une corticothérapie antérieure"
  ],
  "bras": [
-  { "nom": "Upadacitinib + dexaméthasone à forte dose", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (cure répétée au jour 10 si absence de réponse) et upadacitinib 15 mg par jour par voie orale pendant 12 semaines" },
-  { "nom": "Dexaméthasone à forte dose", "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (cure répétée au jour 10 si absence de réponse)" }
+  {
+   "nom": "Upadacitinib + dexaméthasone à forte dose",
+   "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (cure répétée au jour 10 si absence de réponse) et upadacitinib 15 mg par jour par voie orale pendant 12 semaines"
+  },
+  {
+   "nom": "Dexaméthasone à forte dose",
+   "traitement": "Dexaméthasone 40 mg/j pendant 4 jours (cure répétée au jour 10 si absence de réponse)"
+  }
  ],
  "duree": "6 mois",
- "critere": "Réponse prolongée à 6 mois."
+ "critere": "Réponse prolongée à 6 mois.",
+ "relu": "2026-11-27"
 }

@@ -14,8 +14,7 @@
   "Besoin de soulagement symptomatique"
  ],
  "exclusion": [
-  "Femmes enceintes",
-  "Autres critères d'exclusion : non précisé"
+  "Femmes enceintes"
  ],
  "bras": [
   {
@@ -24,5 +23,6 @@
   }
  ],
  "duree": "12 semaines",
- "critere": "Variation de la taille de la lésion de calcinose entre l'inclusion et 12 semaines."
+ "critere": "Variation de la taille de la lésion de calcinose entre l'inclusion et 12 semaines.",
+ "relu": "2026-11-27"
 }

@@ -3,8 +3,8 @@
  "date": "2026-11-14",
  "titre": "YK012 dans le lupus systémique modéré à sévère, phases 1b et 2",
  "question": "Le YK012 est-il bien toléré et réduit-il l'activité du lupus systémique modéré à sévère ?",
- "contexte": "Le lupus systémique actif reste insuffisamment contrôlé chez une partie des patients malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies (bélimumab, anifrolumab). Les approches déplétant les lymphocytes B, comme les anti-CD19, sont en développement et ont donné des signaux encourageants.\n\nLe YK012 est un anticorps de Excyte Biopharma ; le registre n'en précise pas la cible, mais exclut les patients ayant reçu récemment des traitements anti-CD19/CD20 ou déplétant les lymphocytes B. L'étude associe une phase 1b et une phase 2, ouvertes. La phase 1b comporte une escalade de quatre doses puis une expansion à deux ou trois doses ; la phase 2 évalue l'efficacité.\n\nElle prévoit environ 189 adultes de 18 à 75 ans avec un lupus actif (SLEDAI-2K ≥ 7) séropositif sous traitement de fond stable. Le critère d'efficacité est le taux de réponse SRI-4, avec un suivi de 48 semaines.",
- "interet": "L'étude fournira des données de tolérance et un premier signal d'efficacité pour choisir la dose d'éventuels essais comparatifs. Le design sans placebo limite l'interprétation de l'efficacité.",
+ "contexte": "Le lupus systémique actif reste insuffisamment contrôlé chez une partie des patients malgré les antipaludéens, les corticoïdes, les immunosuppresseurs et les biothérapies (bélimumab, anifrolumab). Les approches déplétant les lymphocytes B, comme les anti-CD19, sont en développement et ont donné des signaux encourageants.\n\nLe YK012 est un anticorps de Excyte Biopharma ; le registre n'en précise pas la cible, mais exclut les patients ayant reçu récemment des traitements anti-CD19/CD20 ou déplétant les lymphocytes B. L'étude associe une phase 1b, ouverte, et une phase 2. La phase 1b comporte une escalade de quatre doses puis une expansion à deux ou trois doses ; la phase 2 évalue l'efficacité, avec un placebo ou une à deux doses de YK012.\n\nElle prévoit environ 189 adultes de 18 à 75 ans avec un lupus actif (SLEDAI-2K ≥ 7) séropositif sous traitement de fond stable. Le critère d'efficacité est le taux de réponse SRI-4, avec un suivi de 48 semaines.",
+ "interet": "L'étude fournira des données de tolérance et un premier signal d'efficacité pour choisir la dose d'éventuels essais comparatifs. Le groupe placebo n'existe qu'en phase 2 ; en phase 1b, l'absence de comparateur limite l'interprétation de l'efficacité.",
  "profil": "Des adultes de 18 à 75 ans atteints de lupus systémique actif, modéré à sévère, sous traitement de fond stable.",
  "inclusion": [
   "Âge de 18 à 75 ans",
@@ -22,8 +22,16 @@
   "Cancer dans les 5 ans, maladie cardiovasculaire ou cérébrovasculaire récente"
  ],
  "bras": [
-  { "nom": "YK012", "traitement": "Perfusions de YK012 : quatre doses en escalade (phase 1b), puis deux à trois doses en expansion et en phase 2 ; doses non précisées" }
+  {
+   "nom": "YK012 (phase 1b)",
+   "traitement": "Perfusions de YK012 : quatre doses en escalade, puis deux à trois doses en expansion ; doses non précisées"
+  },
+  {
+   "nom": "YK012 ou placebo (phase 2)",
+   "traitement": "Placebo ou une à deux doses de YK012, déterminées d'après les données antérieures ; doses non précisées"
+  }
  ],
  "duree": "48 semaines",
- "critere": "Toxicités dose-limitantes à 28 jours et événements indésirables (phase 1b) ; taux de réponse SRI-4 jusqu'à la semaine 48 (expansion et phase 2)"
+ "critere": "Toxicités dose-limitantes à 28 jours et événements indésirables (phase 1b) ; taux de réponse SRI-4 jusqu'à la semaine 48 (expansion et phase 2)",
+ "relu": "2026-11-27"
 }

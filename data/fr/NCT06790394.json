@@ -17,10 +17,8 @@
  "exclusion": [
   "Anticorps ciblant l'amyloïde reçu dans les 3 derniers mois ou en cours",
   "Allergie au traceur",
-  "Hémoglobine inférieure à 10 g/dL",
-  "Insuffisance hépatique sévère",
-  "Dialyse",
-  "Impossibilité de rester allongé 60 minutes",
+  "Hémoglobine < 10 g/dL, insuffisance hépatique sévère ou dialyse",
+  "Impossibilité de rester allongé 60 minutes ou de coopérer aux procédures",
   "Grossesse ou allaitement",
   "TEP dans la semaine précédente",
   "Contre-indication à la ponction artérielle si prélèvement artériel"
@@ -32,5 +30,6 @@
   }
  ],
  "duree": "Jusqu'à 73 jours",
- "critere": "Variabilité test-retest de la fixation cardiaque du florbétabén [18F] en TEP, sur une durée de participation allant jusqu'à 73 jours."
+ "critere": "Variabilité test-retest de la fixation cardiaque du florbétabén [18F] en TEP, sur une durée de participation allant jusqu'à 73 jours.",
+ "relu": "2026-11-27"
 }

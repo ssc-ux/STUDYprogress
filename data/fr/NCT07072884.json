@@ -27,9 +27,10 @@
  "bras": [
   {
    "nom": "GC012F",
-   "traitement": "CAR-T autologue anti-CD19/BCMA, 3,0×10^5 cellules/kg en perfusion unique après lymphodéplétion"
+   "traitement": "CAR-T autologue anti-CD19/BCMA, 3,0×10^5 cellules/kg en perfusion unique (dose alternative de 2,0 ou 1,0×10^5/kg selon la sécurité), après lymphodéplétion (fludarabine 30 mg/m² et cyclophosphamide 300 mg/m² par jour pendant 3 jours recommandés)"
   }
  ],
  "duree": "Jusqu'à 96 semaines après la perfusion",
- "critere": "Proportion de patients avec une toxicité limitant la dose dans les 28 jours suivant la perfusion ; événements indésirables jusqu'à 96 semaines."
+ "critere": "Proportion de patients avec une toxicité limitant la dose dans les 28 jours suivant la perfusion ; événements indésirables jusqu'à 96 semaines.",
+ "relu": "2026-11-27"
 }
