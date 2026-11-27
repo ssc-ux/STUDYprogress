@@ -12,10 +12,16 @@
   "ALAT et ASAT ≤ 3 N, bilirubine ≤ 1,5 N, INR ≤ 1,5 N",
   "FEVG ≥ 50 % et stabilité hémodynamique",
   "Contraception pendant et 6 mois après le traitement",
-  "Critères spécifiques à chaque maladie en rechute ou réfractaire (non repris ici)"
+  "Maladie en rechute ou réfractaire selon des critères propres à chaque pathologie (ex. lupus : mSLEDAI-2K ≥ 8 ; vascularite à ANCA : BVAS ≥ 15 et ANCA positifs)"
  ],
  "exclusion": [
-  "Non précisé dans le résumé du registre"
+  "Allergie sévère ou contre-indication aux médicaments de l'étude (cyclophosphamide, fludarabine, anticorps de type -zumab)",
+  "Infection non contrôlée, hépatite B ou C active, VIH ou syphilis positifs",
+  "Atteinte du système nerveux central, cardiopathie sévère (angor, infarctus, insuffisance cardiaque, arythmie)",
+  "Déficit immunitaire congénital en immunoglobulines, insuffisance rénale terminale",
+  "Tumeur maligne (sauf cancers cutanés non mélanomes ou in situ sans récidive depuis plus de 5 ans)",
+  "Autre essai clinique dans les 6 mois, HTA ou diabète non contrôlés",
+  "Grossesse ou projet de grossesse ; critères d'exclusion propres à chaque maladie"
  ],
  "bras": [
   {
@@ -24,5 +30,6 @@
   }
  ],
  "duree": "Suivi de 52 semaines après la perfusion",
- "critere": "Toxicité limitante de dose et événements indésirables liés au traitement, jusqu'à 52 semaines"
+ "critere": "Toxicité limitante de dose et événements indésirables liés au traitement, jusqu'à 52 semaines",
+ "relu": "2026-11-27"
 }

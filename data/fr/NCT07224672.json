@@ -17,8 +17,7 @@
  "exclusion": [
   "Syndrome POEMS ou myélome symptomatique",
   "Amylose AL liée à une IgM, ou amylose non AL (ATTR)",
-  "Insuffisance cardiaque NYHA IIIb-IV, arythmie ou QTcF > 450 ms, hypotension, HTA non contrôlée",
-  "Stade de Mayo 3B",
+  "Insuffisance cardiaque NYHA IIIb-IV, arythmie ou QTcF > 450 ms, hypotension, HTA non contrôlée, ou stade de Mayo 3B",
   "Maladie cornéenne épithéliale (hors kératopathie ponctuée légère)",
   "Traitement antérieur de l'amylose AL ou du myélome (hors dexaméthasone ≤ 160 mg)",
   "Infection active, hépatite B ou C non contrôlée, VIH non contrôlé",
@@ -39,5 +38,6 @@
   }
  ],
  "duree": "Jusqu'à environ 24 mois pour le critère principal, suivi plus long prévu",
- "critere": "Taux global de réponse hématologique complète, jusqu'à environ 24 mois"
+ "critere": "Taux global de réponse hématologique complète, jusqu'à environ 24 mois",
+ "relu": "2026-11-27"
 }

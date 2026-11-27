@@ -15,10 +15,13 @@
   "Test de grossesse négatif et contraception efficace chez les femmes en âge de procréer"
  ],
  "exclusion": [
-  "Grossesse, projet de grossesse dans les 6 mois après la dernière dose ou allaitement",
-  "Atteinte rénale lupique sévère active, ou rapport protéinurie/créatininurie > 3 000 mg/g",
-  "Lupus du système nerveux central sévère ou neuropsychiatrique actif ou instable",
-  "Autres critères du protocole : non détaillés dans l'extrait"
+  "Grossesse, projet de grossesse dans les 6 mois après la dernière dose, ou allaitement",
+  "Néphropathie lupique sévère active, ou rapport protéinurie/créatininurie > 3 000 mg/g",
+  "Lupus du système nerveux central sévère ou neuropsychiatrique actif ou instable ; vascularite sévère",
+  "Bloc auriculo-ventriculaire de haut degré, bradycardie (FC < 50/min), QTcF > 470 ms (femmes) ou > 450 ms (hommes), infarctus ou AVC récent",
+  "Tuberculose active ou latente non traitée, hépatite A, B, C ou E active, VIH, ou infection préoccupante",
+  "Cancer, greffe, œdème maculaire ou uvéite active, diabète mal contrôlé, hépatopathie chronique ou ASAT/ALAT > 3 N",
+  "Traitements récents interdits (bêtabloquants, anticalciques bradycardisants, rituximab dans les 12 mois, anifrolumab dans les 6 mois, cyclophosphamide, etc.)"
  ],
  "bras": [
   {
@@ -27,5 +30,6 @@
   }
  ],
  "duree": "Jusqu'à 22 mois (12 mois de traitement et 6 mois de suivi de sécurité)",
- "critere": "Événements indésirables survenus sous traitement, de la première dose jusqu'à 180 jours après la dernière dose, avec paramètres de tolérance et pharmacocinétiques"
+ "critere": "Événements indésirables survenus sous traitement, de la première dose jusqu'à 180 jours après la dernière dose, avec paramètres de tolérance et pharmacocinétiques",
+ "relu": "2026-11-27"
 }

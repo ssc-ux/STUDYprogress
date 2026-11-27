@@ -20,9 +20,8 @@
   "VIH positif, infection active (hépatite B ou C, CMV, EBV, syphilis)",
   "Saignement sévère étendu",
   "Maladie cardiaque ou arythmie nécessitant un traitement, ou HTA mal contrôlée",
-  "Maladie thrombotique (embolie pulmonaire, thrombose)",
+  "Maladie thrombotique (embolie pulmonaire, thrombose) ou antiagrégants plaquettaires en cours",
   "Greffe allogénique ou d'organe antérieure",
-  "Antiagrégants plaquettaires en cours",
   "Grossesse ou allaitement"
  ],
  "bras": [
@@ -36,5 +35,6 @@
   }
  ],
  "duree": "Au moins 12 semaines pour le critère principal",
- "critere": "Taux de réponse globale à 12 semaines"
+ "critere": "Taux de réponse globale à 12 semaines",
+ "relu": "2026-11-27"
 }
