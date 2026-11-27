@@ -23,11 +23,24 @@
   "Cancer dans les 5 ans, grossesse ou allaitement, allergie à la formule"
  ],
  "bras": [
-  { "nom": "Greffés rénaux + MYTP01", "traitement": "Traitement standard + MYTP01 par voie orale, 2 fois par jour pendant 8 semaines" },
-  { "nom": "Greffés rénaux + placebo", "traitement": "Traitement standard + placebo oral, 2 fois par jour pendant 8 semaines" },
-  { "nom": "Néphropathie à IgA + MYTP01", "traitement": "Traitement standard + MYTP01 par voie orale, 2 fois par jour pendant 8 semaines" },
-  { "nom": "Néphropathie à IgA + placebo", "traitement": "Traitement standard + placebo oral, 2 fois par jour pendant 8 semaines" }
+  {
+   "nom": "Greffés rénaux + MYTP01",
+   "traitement": "Traitement standard + MYTP01 par voie orale, 2 fois par jour pendant 8 semaines"
+  },
+  {
+   "nom": "Greffés rénaux + placebo",
+   "traitement": "Traitement standard + placebo oral, 2 fois par jour pendant 8 semaines"
+  },
+  {
+   "nom": "Néphropathie à IgA + MYTP01",
+   "traitement": "Traitement standard + MYTP01 par voie orale, 2 fois par jour pendant 8 semaines"
+  },
+  {
+   "nom": "Néphropathie à IgA + placebo",
+   "traitement": "Traitement standard + placebo oral, 2 fois par jour pendant 8 semaines"
+  }
  ],
  "duree": "12 semaines (8 semaines de traitement puis suivi)",
- "critere": "Variation du DFGe, de la protéinurie des 24 heures et du score de syndrome de médecine chinoise, mesurée à l'inclusion puis aux semaines 4, 8 et 12."
+ "critere": "Variation du DFGe, de la protéinurie des 24 heures et du score de syndrome de médecine chinoise, mesurée à l'inclusion puis aux semaines 4, 8 et 12.",
+ "relu": "2026-11-27"
 }

@@ -18,8 +18,12 @@
   "Refus d'un suivi longitudinal dans ce système de santé"
  ],
  "bras": [
-  { "nom": "Parcours de soins LN", "traitement": "Consultations fréquentes en télémédecine avec un pharmacien clinicien, soutien à l'observance, gestion des traitements et surveillance à distance" }
+  {
+   "nom": "Parcours de soins LN",
+   "traitement": "Consultations fréquentes en télémédecine avec un pharmacien clinicien, soutien à l'observance, gestion des traitements et surveillance à distance"
+  }
  ],
  "duree": "6 mois",
- "critere": "Proportion de patients éligibles qui acceptent de participer, proportion qui terminent le parcours de 6 mois et au moins 50 % des visites, faisabilité et acceptabilité mesurées par questionnaires, à 6 mois"
+ "critere": "Proportion de patients éligibles qui acceptent de participer, proportion qui terminent le parcours de 6 mois et au moins 50 % des visites, faisabilité et acceptabilité mesurées par questionnaires, à 6 mois",
+ "relu": "2026-11-27"
 }

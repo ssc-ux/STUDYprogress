@@ -12,20 +12,17 @@
   "Maladie mesurable : dFLC supérieure ou égale à 20 mg/L avec rapport des chaînes légères libres anormal",
   "ECOG 2 ou moins",
   "Neutrophiles supérieurs ou égaux à 1,0 G/L, hémoglobine supérieure ou égale à 75 g/L, plaquettes supérieures ou égales à 70 G/L",
-  "ALT et AST inférieures ou égales à 3 fois la normale, bilirubine inférieure ou égale à 2 fois la normale",
-  "DFG supérieur ou égal à 20 mL/min/1,73 m2",
+  "ALT et AST inférieures ou égales à 3 fois la normale, bilirubine inférieure ou égale à 2 fois la normale, DFG supérieur ou égal à 20 mL/min/1,73 m2",
   "Contraception efficace pendant et 3 mois après le traitement"
  ],
  "exclusion": [
-  "Amylose non AL (héréditaire ou autre)",
-  "Myélome multiple symptomatique",
+  "Amylose non AL (héréditaire ou autre) ou myélome multiple symptomatique",
   "Neuropathie périphérique de grade supérieur à 2 ou douloureuse de grade 2 ou plus",
   "Autre cancer dans les 5 ans",
   "Traitement antérieur anti-plasmocytaire (melphalan, cyclophosphamide, inhibiteur du protéasome, IMiD, anticorps, greffe, CAR-T)",
   "Maladie cardiovasculaire ou cérébrovasculaire instable (dans les 180 jours), insuffisance cardiaque NYHA IV, QTcF supérieur à 500 ms, PAS inférieure à 90 mmHg",
   "Pneumopathie interstitielle symptomatique ou besoin d'oxygène",
-  "Infection active : VHB, VHC, VIH, syphilis, tuberculose",
-  "Grossesse ou allaitement"
+  "Infection active (VHB, VHC, VIH, syphilis, tuberculose), grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -34,5 +31,6 @@
   }
  ],
  "duree": "6 à 8 cycles de 28 jours de traitement, suivi total non précisé",
- "critere": "Taux de réponse hématologique complète, évalué à la fin de chaque cycle de 28 jours jusqu'au cycle 8"
+ "critere": "Taux de réponse hématologique complète, évalué à la fin de chaque cycle de 28 jours jusqu'au cycle 8",
+ "relu": "2026-11-27"
 }

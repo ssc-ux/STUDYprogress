@@ -22,8 +22,7 @@
   "Anticoagulant ou antiagrégant dans les 3 semaines",
   "Traitement de secours du PTI dans les 2 semaines ; splénectomie dans les 6 mois",
   "Cancer dans les 5 ans",
-  "Maladie systémique instable (infection, coronaropathie, NYHA III-IV, HTA réfractaire)",
-  "Immunosuppression connue ou infections opportunistes ; ADN du VHB positif"
+  "Maladie systémique instable (infection non contrôlée, coronaropathie, NYHA III-IV, HTA réfractaire), immunosuppression connue ou infections opportunistes, ADN du VHB positif"
  ],
  "bras": [
   {
@@ -31,6 +30,7 @@
    "traitement": "Un jour sur deux pour 7 doses, 2 patients par niveau de dose"
   }
  ],
- "duree": "Environ 1 mois de traitement et de suivi de tolérance (fin d'étude prévue en 2027)",
- "critere": "Tolérance et sécurité du JCXH-213, avec observation des toxicités limitantes pendant les 14 jours suivant la première perfusion"
+ "duree": "Traitement un jour sur deux (7 doses) puis suivi de tolérance ; fin d'étude prévue fin 2026",
+ "critere": "Tolérance et sécurité du JCXH-213, avec observation des toxicités limitantes pendant les 14 jours suivant la première perfusion",
+ "relu": "2026-11-27"
 }

@@ -17,11 +17,9 @@
  ],
  "exclusion": [
   "Myosite terminale avec atteinte d'organes terminaux, atteinte musculaire irréversible ou atrophie sévère",
-  "Pneumopathie interstitielle ou autre manifestation non contrôlée",
-  "Autre myopathie inflammatoire ou non inflammatoire, autre maladie auto-immune interférant",
+  "Pneumopathie interstitielle ou autre manifestation non contrôlée ; autre myopathie ou maladie auto-immune interférant",
   "Greffe d'organe ou de cellules souches, traitement antérieur anti-BCMA",
-  "Déficit immunitaire connu, infection active non contrôlée",
-  "VHB actif, VHC, VIH, CMV ou syphilis positifs",
+  "Déficit immunitaire connu, infection active non contrôlée, VHB actif, VHC, VIH, CMV ou syphilis positifs",
   "Maladie cardiaque grave, asthme ou BPCO sévère, accident cérébrovasculaire dans les 6 mois",
   "Cancer dans les 5 ans",
   "Allergie au cyclophosphamide, à la fludarabine, au produit ou au tocilizumab, grossesse ou allaitement"
@@ -33,5 +31,6 @@
   }
  ],
  "duree": "Suivi principal de 2 ans, puis suivi à long terme jusqu'à 15 ans",
- "critere": "Phase 1 : événements indésirables (jusqu'à 2 ans) et toxicités limitant la dose (28 jours). Phase 2 : réponse selon le score TIS dans les 2 ans suivant la perfusion"
+ "critere": "Phase 1 : événements indésirables (jusqu'à 2 ans) et toxicités limitant la dose (28 jours). Phase 2 : réponse selon le score TIS dans les 2 ans suivant la perfusion",
+ "relu": "2026-11-27"
 }

@@ -7,19 +7,20 @@
  "interet": "Elle pourrait établir un niveau de preuve contrôlé pour un traitement déjà utilisé hors AMM dans le lupus cutané résistant. Le petit effectif et la durée courte appellent une confirmation.",
  "profil": "Des adultes ayant un lupus cutané subaigu ou discoïde actif malgré les traitements conventionnels.",
  "inclusion": [
-  "Âge ≥ 18 ans, consentement écrit",
-  "LECS ou LED confirmé histologiquement, avec ou sans atteinte systémique",
+  "Âge ≥ 18 ans, consentement écrit, capacité à s'auto-administrer le traitement à domicile",
+  "LECS ou LED confirmé histologiquement (biopsie au dépistage si besoin), avec ou sans atteinte systémique",
   "CLASI-A ≥ 8 au dépistage et à la randomisation",
-  "Maladie active malgré un essai suffisant de traitements conventionnels (dont corticoïdes topiques)",
-  "Capacité à recevoir le traitement à domicile"
+  "Maladie active malgré corticoïdes topiques et hydroxychloroquine ≥ 12 semaines, ou échec ou intolérance documentés",
+  "Hydroxychloroquine, si prise, à dose stable jusqu'à la fin de l'étude"
  ],
  "exclusion": [
   "Affection ou anomalie biologique cliniquement significative jugée gênante par l'investigateur",
-  "Saignée ≥ 500 ml dans les 30 jours, transfusion dans les 60 jours",
-  "Autre produit expérimental dans les 30 jours ou 5 demi-vies",
-  "Primaquine ou substrats du CYP2D6",
-  "Inhibiteurs modérés ou forts du CYP3A4/5",
-  "Anomalies biologiques (transaminases, etc.) au dépistage"
+  "Saignée ≥ 500 mL dans les 30 jours, transfusion dans les 60 jours, autre produit expérimental dans les 30 jours ou 5 demi-vies",
+  "Primaquine, substrats du CYP2D6 ou inhibiteurs modérés ou forts du CYP3A4/5",
+  "ASAT, ALAT ou bilirubine ≥ 1,5 N, DFGe < 45, déficit en G6PD (< 30 %)",
+  "Événement cardiovasculaire ou revascularisation dans les 6 mois, QTcF > 450 ms (H) ou > 470 ms (F)",
+  "Infection grave récente ou chirurgie non mineure dans les 4 semaines, néphrite active ou lupus neuropsychiatrique",
+  "Autre dermatose inflammatoire gênante, ou traitement topique puissant ou JAK/TYK2 ou anti-IFN récents"
  ],
  "bras": [
   {
@@ -36,5 +37,6 @@
   }
  ],
  "duree": "12 semaines, puis extension ouverte de 12 semaines",
- "critere": "Variation du score CLASI-A (activité) à 12 semaines"
+ "critere": "Variation du score CLASI-A (activité) à 12 semaines",
+ "relu": "2026-11-27"
 }

@@ -21,7 +21,8 @@
   "Anémie sévère (hémoglobine < 10 g/dL)",
   "Hypothyroïdie non contrôlée",
   "Lupus très actif (SLEDAI-2K > 8)",
-  "Insuffisance rénale terminale nécessitant une suppléance"
+  "Insuffisance rénale terminale ou DFG < 30 mL/min/1,73 m²",
+  "Contre-indication à l'IRM, insuffisance cardiaque décompensée, hypertension non contrôlée (> 160/100 mmHg), diabète non contrôlé"
  ],
  "bras": [
   {
@@ -30,5 +31,6 @@
   }
  ],
  "duree": "16 semaines",
- "critere": "Variation du temps de demi-récupération de la phosphocréatine musculaire et de la graisse intermusculaire de la cuisse, entre l'inclusion et la semaine 16"
+ "critere": "Variation du temps de demi-récupération de la phosphocréatine musculaire et de la graisse intermusculaire de la cuisse, entre l'inclusion et la semaine 16",
+ "relu": "2026-11-27"
 }

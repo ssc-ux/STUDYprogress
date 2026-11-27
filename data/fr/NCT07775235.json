@@ -11,8 +11,7 @@
   "Diagnostic de pneumopathie interstitielle rapidement progressive associée à une myosite"
  ],
  "exclusion": [
-  "Âge de moins de 21 ans",
-  "Autres critères d'exclusion non précisés"
+  "Âge de moins de 21 ans"
  ],
  "bras": [
   {
@@ -21,5 +20,6 @@
   }
  ],
  "duree": "6 mois pour le critère principal",
- "critere": "Mortalité toutes causes à 6 mois après le début du traitement"
+ "critere": "Mortalité toutes causes à 6 mois après le début du traitement",
+ "relu": "2026-11-27"
 }

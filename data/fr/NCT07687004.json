@@ -22,8 +22,8 @@
   "Autre cancer dans les 5 ans",
   "Allergie ou contre-indication au bispécifique BCMA/CD3 ou au sonrotoclax",
   "Maladie cardiovasculaire instable (infarctus ou angor récent, NT-proBNP > 8500 ng/L, QTcF > 500 ms, TA systolique < 90 mmHg...)",
-  "VIH, hépatite B ou C active",
-  "Grossesse ou allaitement, trouble digestif gênant l'absorption, chirurgie majeure dans les 2 semaines, vaccin vivant dans les 4 semaines"
+  "VIH ou hépatite B ou C active, grossesse ou allaitement",
+  "Trouble digestif gênant l'absorption, chirurgie majeure dans les 2 semaines, vaccin vivant dans les 4 semaines"
  ],
  "bras": [
   {
@@ -40,5 +40,6 @@
   }
  ],
  "duree": "Suivi de sécurité jusqu'à 30 jours après la dernière dose ; réponse évaluée à 6 mois",
- "critere": "Phase Ib : toxicités dose-limitantes (28 jours) ; phases Ib et II : événements indésirables ; phase II : taux de réponse hématologique très bonne réponse partielle ou mieux à 6 mois"
+ "critere": "Phase Ib : toxicités dose-limitantes (28 jours) ; phases Ib et II : événements indésirables ; phase II : taux de réponse hématologique très bonne réponse partielle ou mieux à 6 mois",
+ "relu": "2026-11-27"
 }

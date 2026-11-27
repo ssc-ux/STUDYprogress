@@ -22,9 +22,16 @@
   "Antécédent de thérapie par anticorps engageurs de lymphocytes T, CAR-T ou greffe de cellules souches"
  ],
  "bras": [
-  { "nom": "Cohortes à doses croissantes (partie 1)", "traitement": "PF-08154225 en dose unique puis en doses répétées, doses cibles croissantes" },
-  { "nom": "Partie 2, bras unique ouvert", "traitement": "PF-08154225 en administrations répétées à la dose retenue" }
+  {
+   "nom": "Cohortes à doses croissantes (partie 1)",
+   "traitement": "PF-08154225 en dose unique puis en doses répétées, doses cibles croissantes"
+  },
+  {
+   "nom": "Partie 2, bras unique ouvert",
+   "traitement": "PF-08154225 en administrations répétées à la dose retenue"
+  }
  ],
  "duree": "16 semaines (partie 1a), 24 semaines (partie 1b) ou 52 semaines (partie 2), ou plus",
- "critere": "Incidence et gravité des événements indésirables apparus sous traitement et des toxicités dose-limitantes, jusqu'à la fin du suivi (16, 24 ou 52 semaines selon la partie)"
+ "critere": "Incidence et gravité des événements indésirables apparus sous traitement et des toxicités dose-limitantes, jusqu'à la fin du suivi (16, 24 ou 52 semaines selon la partie)",
+ "relu": "2026-11-27"
 }

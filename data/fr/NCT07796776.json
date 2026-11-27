@@ -14,8 +14,7 @@
  ],
  "exclusion": [
   "Contre-indication à l'EMG à l'aiguille ou à la biopsie musculaire",
-  "Maladie psychiatrique gênant l'adhésion au suivi",
-  "Autres critères non précisés"
+  "Maladie psychiatrique gênant l'adhésion au suivi"
  ],
  "bras": [
   {
@@ -28,5 +27,6 @@
   }
  ],
  "duree": "24 mois",
- "critere": "Sensibilité diagnostique d'un modèle intégrant données cliniques, neurophysiologiques, métaboliques et histopathologiques pour distinguer IBM et maladie du motoneurone, à 24 mois"
+ "critere": "Sensibilité diagnostique d'un modèle intégrant données cliniques, neurophysiologiques, métaboliques et histopathologiques pour distinguer IBM et maladie du motoneurone, à 24 mois",
+ "relu": "2026-11-27"
 }

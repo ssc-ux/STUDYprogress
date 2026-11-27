@@ -22,8 +22,7 @@
   "Anticoagulants ou antiagrégants dans les 4 semaines",
   "Traitement d'urgence du PTI, rituximab (3 mois) ou splénectomie (6 mois) récents",
   "Syndrome myélodysplasique ou cancer dans les 5 dernières années",
-  "Infection active ou chronique grave, VIH, hépatite B ou C actives, tuberculose, syphilis",
-  "Maladie cardiovasculaire sévère, greffe d'organe ou de cellules souches"
+  "Infection active ou chronique grave, VIH, hépatite B ou C active, tuberculose, syphilis, maladie cardiovasculaire sévère ou greffe"
  ],
  "bras": [
   {
@@ -40,5 +39,6 @@
   }
  ],
  "duree": "Jusqu'à 24 semaines",
- "critere": "Incidence des événements indésirables apparus sous traitement (jusqu'à 24 semaines) et taux de réponse globale (ORR) à la semaine 8"
+ "critere": "Incidence des événements indésirables apparus sous traitement (jusqu'à 24 semaines) et taux de réponse globale (ORR) à la semaine 8",
+ "relu": "2026-11-27"
 }
