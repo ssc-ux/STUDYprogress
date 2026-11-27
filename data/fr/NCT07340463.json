@@ -23,10 +23,20 @@
   "Grossesse ou allaitement, cancer dans les 5 ans, allergie aux biothérapies"
  ],
  "bras": [
-  { "nom": "Groupe biothérapie", "traitement": "Corticoïdes (prednisone 0,5 mg/kg/j, max 40 mg, décroissance à ≤ 5 mg/j au mois 4) + bélimumab 10 mg/kg IV toutes les 2 semaines ou télitacicept 160 mg SC par semaine" },
-  { "nom": "Groupe standard", "traitement": "Mêmes corticoïdes + mycophénolate mofétil 1,5 à 2,0 g/j" },
-  { "nom": "Groupe trithérapie", "traitement": "Mêmes corticoïdes + MMF + bélimumab ou télitacicept ; reçoit aussi les non-répondeurs des deux autres groupes à 3 mois" }
+  {
+   "nom": "Groupe biothérapie",
+   "traitement": "Corticoïdes (prednisone 0,5 mg/kg/j, max 40 mg, décroissance à ≤ 5 mg/j au mois 4) + bélimumab 10 mg/kg IV toutes les 2 semaines ou télitacicept 160 mg SC par semaine"
+  },
+  {
+   "nom": "Groupe standard",
+   "traitement": "Mêmes corticoïdes + mycophénolate mofétil 1,5 à 2,0 g/j"
+  },
+  {
+   "nom": "Groupe trithérapie",
+   "traitement": "Mêmes corticoïdes + MMF + bélimumab ou télitacicept ; reçoit aussi les non-répondeurs des deux autres groupes à 3 mois"
+  }
  ],
  "duree": "6 mois de traitement d'induction",
- "critere": "Proportion de patients en réponse rénale complète à 6 mois (protéinurie < 0,5 g/j, DFGe ≥ 85 % de la valeur initiale, sans traitement de secours ni arrêt prématuré)."
+ "critere": "Proportion de patients en réponse rénale complète à 6 mois (protéinurie < 0,5 g/j, DFGe ≥ 85 % de la valeur initiale, sans traitement de secours ni arrêt prématuré).",
+ "relu": "2026-11-27"
 }

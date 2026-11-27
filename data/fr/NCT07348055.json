@@ -15,8 +15,7 @@
  "exclusion": [
   "Maladie aiguë ou chronique instable",
   "Infection active",
-  "Cancer dans les 5 ans",
-  "Autres critères d'exclusion : non précisé"
+  "Cancer dans les 5 ans"
  ],
  "bras": [
   {
@@ -37,5 +36,6 @@
   }
  ],
  "duree": "52 semaines",
- "critere": "Incidence des événements indésirables sur 52 semaines"
+ "critere": "Incidence des événements indésirables sur 52 semaines",
+ "relu": "2026-11-27"
 }

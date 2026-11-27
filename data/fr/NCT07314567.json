@@ -22,9 +22,16 @@
   "Grossesse ou allaitement"
  ],
  "bras": [
-  { "nom": "Cohorte 1", "traitement": "ACE1831 à la dose 1, avec lymphodéplétion selon l'attribution" },
-  { "nom": "Cohorte 2", "traitement": "ACE1831 à la dose 2, avec lymphodéplétion selon l'attribution" }
+  {
+   "nom": "Cohorte 1",
+   "traitement": "ACE1831 à la dose 1, avec lymphodéplétion selon l'attribution"
+  },
+  {
+   "nom": "Cohorte 2",
+   "traitement": "ACE1831 à la dose 2, avec lymphodéplétion selon l'attribution"
+  }
  ],
  "duree": "24 semaines après la dernière dose",
- "critere": "Tolérance de l'ACE1831 (événements indésirables), 24 semaines après la dernière dose"
+ "critere": "Tolérance de l'ACE1831 (événements indésirables), 24 semaines après la dernière dose",
+ "relu": "2026-11-27"
 }
