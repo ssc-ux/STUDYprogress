@@ -20,8 +20,7 @@
   "Infarctus, angor instable ou AVC récents",
   "Infection sévère récente, tuberculose active ou latente non traitée, hépatite B ou C active, VIH",
   "Cytopénies, hépatopathie sévère (ALAT/ASAT ≥ 3 N), clairance de la créatinine ≤ 45 mL/min",
-  "Rituximab dans les 6 mois, JAK inhibiteur dans les 2 semaines, autres biologiques",
-  "Traitement antérieur par anti-IL-6",
+  "Rituximab dans les 6 mois, JAK inhibiteur dans les 2 semaines, autres biologiques ; traitement antérieur par anti-IL-6",
   "Cancer dans les 5 dernières années, grossesse ou allaitement"
  ],
  "bras": [
@@ -35,5 +34,6 @@
   }
  ],
  "duree": "Environ 16 semaines (visites toutes les 2 semaines)",
- "critere": "Amélioration du Total Improvement Score (TIS) et de la PID à la semaine 16."
+ "critere": "Amélioration du Total Improvement Score (TIS) et de la PID à la semaine 16.",
+ "relu": "2026-11-27"
 }

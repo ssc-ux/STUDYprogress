@@ -22,8 +22,12 @@
   "Antécédent de greffe d'organe ou de moelle, allergie au produit"
  ],
  "bras": [
-  { "nom": "ACG102", "traitement": "Doses intraveineuses croissantes répétées à des jours prédéfinis ; doses et rythme exacts non précisés" }
+  {
+   "nom": "ACG102",
+   "traitement": "Doses intraveineuses croissantes répétées à des jours prédéfinis ; doses et rythme exacts non précisés"
+  }
  ],
  "duree": "52 semaines",
- "critere": "Toxicités dose-limitantes dans les 21 jours après la première dose ; événements indésirables et anomalies biologiques jusqu'à la semaine 52"
+ "critere": "Toxicités dose-limitantes dans les 21 jours après la première dose ; événements indésirables et anomalies biologiques jusqu'à la semaine 52",
+ "relu": "2026-11-27"
 }

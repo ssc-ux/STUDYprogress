@@ -14,9 +14,8 @@
   "Traitement d'induction standard requis"
  ],
  "exclusion": [
-  "Granulomatose éosinophilique avec polyangéite (EGPA)",
+  "EGPA ou maladie des anticorps anti-membrane basale glomérulaire",
   "Réaction allergique sévère à l'avacopan",
-  "Maladie des anticorps anti-membrane basale glomérulaire",
   "Avacopan dans les 5 jours précédents",
   "Inhibiteur puissant du CYP3A4 concomitant",
   "ASAT, ALAT, phosphatases alcalines ou bilirubine > 2,5 N (sauf si liés à la vascularite)",
@@ -30,5 +29,6 @@
   }
  ],
  "duree": "72 heures",
- "critere": "Évolution de la concentration sanguine d'avacopan sur 72 heures"
+ "critere": "Évolution de la concentration sanguine d'avacopan sur 72 heures",
+ "relu": "2026-11-27"
 }

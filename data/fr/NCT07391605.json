@@ -20,8 +20,7 @@
   "Pneumopathie interstitielle sous oxygène, CVF ≤ 45 %, DLCO ≤ 40 % ou hypertension pulmonaire",
   "Autres myopathies inflammatoires (polymyosite, IMNM, myosite à inclusions, myosite paranéoplasique ou médicamenteuse)",
   "Autre maladie auto-immune ou neuromusculaire sévère nécessitant une immunosuppression",
-  "Grossesse ou allaitement",
-  "Vaccin vivant dans les 4 semaines",
+  "Grossesse ou allaitement ; vaccin vivant dans les 4 semaines",
   "Infection active ou non contrôlée (VHB, VHC, VIH, tuberculose), greffe, déficit immunitaire primitif"
  ],
  "bras": [
@@ -35,5 +34,6 @@
   }
  ],
  "duree": "24 semaines pour le critère principal",
- "critere": "Amélioration majeure du score total d'amélioration ACR/EULAR 2016 à 24 semaines"
+ "critere": "Amélioration majeure du score total d'amélioration ACR/EULAR 2016 à 24 semaines",
+ "relu": "2026-11-27"
 }

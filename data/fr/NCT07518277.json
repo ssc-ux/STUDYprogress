@@ -1,7 +1,7 @@
 {
  "h": "84d7cd1cc1e2",
  "date": "2026-11-14",
- "titre": "Corticoïdes plus sirolimus ou corticoïdes seuls dans l'AHAI à anticorps chauds récente et modérée",
+ "titre": "Corticoïdes plus sirolimus ou corticoïdes seuls dans l'AHAI à anticorps chauds récente",
  "question": "Ajouter le sirolimus aux corticoïdes augmente-t-il la rémission soutenue sans corticoïdes à 12 mois dans l'anémie hémolytique auto-immune à anticorps chauds récente ?",
  "contexte": "L'anémie hémolytique auto-immune (AHAI) à anticorps chauds est traitée en première ligne par corticoïdes, avec une réponse initiale fréquente mais des rechutes en cas de décroissance, d'où une exposition prolongée aux corticoïdes. Le rituximab est de plus en plus utilisé en association précoce, mais n'est pas toujours possible ni souhaité.\n\nLe sirolimus, inhibiteur de mTOR, favorise les lymphocytes T régulateurs et a donné des résultats encourageants dans les cytopénies auto-immunes, notamment dans le syndrome lymphoprolifératif auto-immun et le syndrome d'Evans. Cet essai randomisé multicentrique ouvert, promu en Chine, compare corticoïdes seuls (prednisone 1-2 mg/kg/j puis décroissance) à corticoïdes plus sirolimus (1 mg/j, concentration résiduelle cible 4-12 ng/mL, pendant 6 mois) chez 216 adultes. Les patients sont suivis 24 mois, pour mesurer la rémission soutenue sans corticoïdes à 12 mois.",
  "interet": "Si le sirolimus réduit les rechutes et l'exposition aux corticoïdes, il pourrait devenir une option d'épargne cortisonique peu coûteuse, notamment hors accès au rituximab.",
@@ -17,11 +17,10 @@
  "exclusion": [
   "Grossesse ou allaitement",
   "Lupus ou autre connectivite avérée",
-  "AHAI secondaire (lymphoprolifération, hémopathie, tumeur solide, infection, médicament)",
-  "AHAI à agglutinines froides ou mixte",
+  "AHAI secondaire (lymphoprolifération, hémopathie, tumeur solide, infection, médicament), à agglutinines froides ou mixte",
   "Autre immunosuppresseur préalable ou corticoïdes > 2 semaines",
   "Insuffisance cardiaque sévère (NYHA III/IV ou FEVG < 40 %)",
-  "Cancer actif ou infection chronique active (tuberculose, hépatite B/C), VIH avec CD4 < 200/µL",
+  "Cancer actif, infection chronique active (tuberculose, hépatite B/C) ou VIH avec CD4 < 200/µL",
   "Allergie sévère au sirolimus ou aux corticoïdes"
  ],
  "bras": [
@@ -35,5 +34,6 @@
   }
  ],
  "duree": "24 mois de suivi",
- "critere": "Taux de rémission soutenue à 12 mois (sans corticoïdes)"
+ "critere": "Taux de rémission soutenue à 12 mois (sans corticoïdes)",
+ "relu": "2026-11-27"
 }

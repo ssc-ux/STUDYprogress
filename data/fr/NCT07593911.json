@@ -3,9 +3,9 @@
  "date": "2026-11-14",
  "titre": "MTM-H-001 dans les maladies auto-immunes liées aux lymphocytes B",
  "question": "Le MTM-H-001 est-il sûr, et quelle dose retenir, chez des adultes atteints de maladies auto-immunes à lymphocytes B ?",
- "contexte": "Le lupus (avec ou sans néphrite), la sclérose en plaques et la myasthénie font intervenir les lymphocytes B dans leur physiopathologie, par la production d'auto-anticorps et l'activation des lymphocytes T. Les anticorps anti-CD20 offrent une déplétion partielle, et les CAR-T anti-CD19 ont obtenu de remarquables réponses dans des séries de patients réfractaires.\n\nLe MTM-H-001 est une injection dont la nature précise n'est pas détaillée dans le registre. L'étude est académique (hôpital GoBroad de Pékin), ouverte, à un seul bras, de type escalade puis expansion de dose, avec cinq groupes de dose prévus et une phase d'induction. Elle évalue la sécurité, la tolérance, la pharmacocinétique, la pharmacodynamie et l'efficacité préliminaire chez 75 adultes. Le critère principal est l'incidence des toxicités limitantes dans les 42 jours suivant la première dose. Il n'y a pas de comparateur.",
+ "contexte": "Le lupus (avec ou sans néphrite), la sclérose en plaques, la myasthénie, la maladie à IgG4 et la polyarthrite rhumatoïde font intervenir les lymphocytes B dans leur physiopathologie, par la production d'auto-anticorps et l'activation des lymphocytes T. Les anticorps anti-CD20 offrent une déplétion partielle, et les CAR-T anti-CD19 ont obtenu de remarquables réponses dans des séries de patients réfractaires.\n\nLe MTM-H-001 est une injection dont la nature précise n'est pas détaillée dans le registre. L'étude est académique (hôpital GoBroad de Pékin), ouverte, à un seul bras, de type escalade puis expansion de dose, avec cinq groupes de dose prévus et une phase d'induction. Elle évalue la sécurité, la tolérance, la pharmacocinétique, la pharmacodynamie et l'efficacité préliminaire chez 75 adultes. Le critère principal est l'incidence des toxicités limitantes dans les 42 jours suivant la première dose. Il n'y a pas de comparateur.",
  "interet": "C'est une étude de recherche de dose dont les résultats ne permettront pas de juger de l'efficacité. Elle précisera la tolérance de ce traitement dans plusieurs maladies B.",
- "profil": "Des adultes de 18 à 75 ans ayant une maladie auto-immune liée aux lymphocytes B (lupus, néphrite lupique, sclérose en plaques, myasthénie).",
+ "profil": "Des adultes de 18 à 75 ans ayant une maladie auto-immune liée aux lymphocytes B (lupus, néphrite lupique, sclérose en plaques, myasthénie, maladie à IgG4, polyarthrite rhumatoïde).",
  "inclusion": [
   "Âge de 18 à 75 ans",
   "Consentement éclairé",
@@ -22,9 +22,10 @@
  "bras": [
   {
    "nom": "Groupe expérimental",
-   "traitement": "MTM-H-001 en injection, 5 groupes de dose, avec phase d'induction (partie A, escalade ; puis expansion)"
+   "traitement": "MTM-H-001 en injection ; partie A : escalade avec 5 groupes de dose, phase d'induction puis d'entretien ; partie B : expansion avec 6 cohortes, dose et rythme fixés d'après la partie A"
   }
  ],
  "duree": "Non précisé (toxicités évaluées sur 42 jours après la première dose)",
- "critere": "Incidence des toxicités limitantes dans les 42 jours suivant la première dose"
+ "critere": "Incidence des toxicités limitantes dans les 42 jours suivant la première dose",
+ "relu": "2026-11-27"
 }

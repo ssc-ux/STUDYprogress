@@ -6,9 +6,31 @@
  "contexte": "Les maladies auto-immunes systémiques (lupus, sclérodermie systémique, dermatomyosite, polyarthrite rhumatoïde) restent parfois réfractaires aux immunosuppresseurs et aux biothérapies conventionnels. Les lymphocytes B et les plasmocytes à longue durée de vie y entretiennent la production d'auto-anticorps.\n\nLes CAR-T anti-CD19 autologues ont induit des rémissions prolongées sans traitement dans des séries de lupus et d'autres maladies auto-immunes. Leur fabrication à partir des cellules du patient est toutefois longue et coûteuse, ce qui limite l'accès. Les CAR-T universelles, issues de donneurs sains et prêtes à l'emploi, cherchent à lever cet obstacle. Cibler à la fois CD19 (lymphocytes B) et BCMA (plasmocytes) vise une déplétion plus complète de la lignée B et plasmocytaire. Cette étude chinoise monocentrique, ouverte et à bras unique, explore la tolérance de ces cellules avec une escalade de dose. Elle inclut plusieurs maladies, ce qui permet d'évaluer un signal dans différentes indications.",
  "interet": "Si la tolérance et l'efficacité se confirment, les CAR-T universelles pourraient rendre la thérapie cellulaire accessible sans délai de fabrication. Il s'agit d'une étude exploratoire : elle ne permettra pas de conclure sur l'efficacité comparée aux traitements actuels.",
  "profil": "Des adultes de 18 à 70 ans atteints de polyarthrite rhumatoïde, dermatomyosite, lupus ou sclérodermie systémique réfractaires.",
- "inclusion": ["Âge de 18 à 70 ans", "Maladie auto-immune réfractaire (PR, dermatomyosite, LES, sclérodermie systémique, syndrome de Sjögren cité)", "Lymphocytes B CD19+ circulants > 5/µL au dépistage", "Retour des lymphocytes B à leur niveau habituel si traitement anti-B antérieur", "Fonctions hépatique, rénale, pulmonaire et cardiaque adéquates (FEVG ≥ 50 %, SpO2 ≥ 92 %)", "Contraception efficace pendant 1 an après le traitement"],
- "exclusion": ["Non précisé dans le détail du registre pour la liste complète", "Fonction d'organe insuffisante selon les seuils ci-dessus", "Grossesse (test sérique positif)", "Dépistage infectieux positif ou infection active (non détaillé)", "Autres critères à consulter dans le registre"],
- "bras": [{"nom": "KN3601", "traitement": "Cellules CAR-T universelles anti-CD19/BCMA, perfusion avec escalade de dose après lymphodéplétion"}],
+ "inclusion": [
+  "Âge de 18 à 70 ans",
+  "PR réfractaire : ≥ 2 b/tsDMARD en échec après csDMARD, ≥ 6 articulations gonflées et ≥ 6 douloureuses, CRP ≥ 10 mg/L ou VS ≥ 28 mm/h",
+  "Dermatomyosite (EULAR/ACR 2017, ≥ 24 semaines) réfractaire aux corticoïdes et à ≥ 2 immunosuppresseurs ; syndrome des antisynthétases ou myopathie nécrosante à anti-SRP/HMGCR admis",
+  "LES (EULAR/ACR 2019) modéré à sévère réfractaire : SLEDAI-2K ≥ 8, BILAG A ou 2 B, échec des corticoïdes, antipaludéens, immunosuppresseurs et ≥ 1 biothérapie",
+  "Sclérodermie systémique (ACR/EULAR 2013) évoluant depuis ≤ 60 mois, mRSS ≥ 15, anticorps positifs, réfractaire",
+  "Lymphocytes B CD19+ circulants > 5/µL, retour à la normale après un traitement anti-B antérieur",
+  "Fonctions d'organes adéquates (ALAT/ASAT ≤ 2,5 N, FEVG ≥ 50 %, SpO2 ≥ 92 %), contraception pendant 1 an après le traitement"
+ ],
+ "exclusion": [
+  "Cancer actuel ou antérieur (sauf carcinome cutané ou in situ guéri depuis ≥ 5 ans)",
+  "Infection active sévère ou non contrôlée ; hépatite B ou C active, VIH, syphilis, CMV positif ; tuberculose active ou antérieure",
+  "Insuffisance cardiaque NYHA III-IV, infarctus < 6 mois, arythmie sévère, péricardite ou myocardite sévère",
+  "Atteinte pulmonaire sévère (HTAP de classe ≥ III, oxygénothérapie ou ventilation)",
+  "Épilepsie ou autre atteinte active du système nerveux central ; déficit immunitaire",
+  "Greffe d'organe ou de cellules souches < 3 mois ; vaccin vivant < 4 semaines",
+  "Traitement anti-B < 26 semaines, bélimumab, abatacept, anti-TNF, immunoglobulines ou échanges plasmatiques < 24 semaines, anti-JAK < 12 semaines ; critères propres à chaque maladie (néphrite lupique de classe V pure, crise rénale sclérodermique < 2 ans, myosite paranéoplasique)"
+ ],
+ "bras": [
+  {
+   "nom": "KN3601",
+   "traitement": "Cellules CAR-T universelles anti-CD19/BCMA, perfusion avec escalade de dose après lymphodéplétion"
+  }
+ ],
  "duree": "Suivi de 48 semaines après la perfusion pour le critère principal",
- "critere": "Fréquence des toxicités limitantes de dose et des événements indésirables apparus sous traitement, jusqu'à 48 semaines après la perfusion"
+ "critere": "Fréquence des toxicités limitantes de dose et des événements indésirables apparus sous traitement, jusqu'à 48 semaines après la perfusion",
+ "relu": "2026-11-27"
 }

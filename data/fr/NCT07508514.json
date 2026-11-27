@@ -14,8 +14,7 @@
   "Accord pour le calendrier de suivi intensif"
  ],
  "exclusion": [
-  "Participation à un essai pharmaceutique interventionnel en aveugle",
-  "Autres critères d'exclusion : non précisé"
+  "Participation simultanée à un essai pharmaceutique interventionnel en aveugle"
  ],
  "bras": [
   {
@@ -24,5 +23,6 @@
   }
  ],
  "duree": "2 mois de suivi intensif par patient",
- "critere": "Variation du DGNO moyen (en mm) entre le jour 0 et le jour 28"
+ "critere": "Variation du DGNO moyen (en mm) entre le jour 0 et le jour 28",
+ "relu": "2026-11-27"
 }

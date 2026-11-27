@@ -16,12 +16,11 @@
  "exclusion": [
   "Déficit immunitaire, tuberculose, infection active (CMV, EBV, hépatites B ou C, VIH, mycose profonde)",
   "Neutropénie, anémie, thrombopénie ou anomalie hépatique significatives au diagnostic",
-  "Antécédent de tumeur ou de maladie systémique sévère",
-  "Autre maladie urinaire (néphropathie héréditaire)",
-  "Ostéoporose sévère nécessitant un traitement",
-  "Maladie mentale non contrôlée ou déficience intellectuelle",
-  "Traitement ciblant les lymphocytes B dans les 6 mois, greffe, vaccin vivant récent",
-  "Médecine traditionnelle chinoise néphrologique pendant le traitement"
+  "Antécédent de tumeur ou de maladie systémique sévère, autre maladie urinaire (néphropathie héréditaire)",
+  "Ostéoporose sévère nécessitant un traitement, maladie mentale non contrôlée ou déficience intellectuelle",
+  "Traitement ciblant les lymphocytes B dans les 6 mois, greffe de moelle, d'organe ou de cellules souches",
+  "Vaccin vivant récent, médecine traditionnelle chinoise néphrologique pendant le traitement",
+  "Données cliniques incomplètes"
  ],
  "bras": [
   {
@@ -38,5 +37,6 @@
   }
  ],
  "duree": "48 semaines",
- "critere": "Taux de rémission complète de la protéinurie et variation de la protéinurie, entre l'inclusion et la semaine 48."
+ "critere": "Taux de rémission complète de la protéinurie et variation de la protéinurie, entre l'inclusion et la semaine 48.",
+ "relu": "2026-11-27"
 }

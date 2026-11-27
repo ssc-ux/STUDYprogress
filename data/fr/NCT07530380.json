@@ -15,15 +15,13 @@
   "ECOG ≤ 2, contraception, consentement signé"
  ],
  "exclusion": [
-  "Allergie médicamenteuse sévère",
-  "Infection non contrôlée, infections récidivantes, ou antécédent récent de CMV, EBV ou infection fongique",
+  "Allergie médicamenteuse sévère, grossesse ou projet de grossesse",
+  "Infection non contrôlée ou récidivante, antécédent récent de CMV, EBV ou infection fongique",
+  "Hépatite B ou C active, VIH, syphilis",
   "Vaccination dans les 12 semaines précédentes",
   "Fonction cardiaque insuffisante ou insuffisance cardiaque NYHA III-IV",
-  "Déficit immunitaire humoral congénital",
-  "Cancer dans les 5 ans (hors exceptions)",
-  "Hépatite B ou C active, VIH, syphilis",
-  "Antécédent de greffe d'organe ou de cellules souches",
-  "Maladie sévère non contrôlée d'un autre organe, grossesse"
+  "Déficit immunitaire humoral congénital, cancer dans les 5 ans (hors exceptions) ou greffe d'organe ou de cellules souches",
+  "Maladie sévère non contrôlée d'un autre organe, trouble psychiatrique ou déficit cognitif sévère"
  ],
  "bras": [
   {
@@ -32,5 +30,6 @@
   }
  ],
  "duree": "Suivi de sécurité jusqu'à 12 mois, réponse évaluée jusqu'à la semaine 24",
- "critere": "Toxicités dose-limitantes du jour 0 au jour 28, événements indésirables jusqu'à 12 mois, et réponse clinique de l'AHAI jusqu'à 24 semaines"
+ "critere": "Toxicités dose-limitantes du jour 0 au jour 28, événements indésirables jusqu'à 12 mois, et réponse clinique de l'AHAI jusqu'à 24 semaines",
+ "relu": "2026-11-27"
 }

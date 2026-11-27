@@ -20,8 +20,7 @@
   "Cancer actif ou non résolu dans les 5 dernières années",
   "Hépatite B ou C active, VIH, syphilis",
   "Traitement antérieur par CAR-T",
-  "AVC dans les 6 mois, thrombose veineuse ou embolie pulmonaire dans les 6 mois",
-  "Participation à un autre essai dans les 3 mois"
+  "AVC, thrombose veineuse ou embolie pulmonaire dans les 6 mois ; participation à un autre essai dans les 3 mois"
  ],
  "bras": [
   {
@@ -30,5 +29,6 @@
   }
  ],
  "duree": "12 mois",
- "critere": "Incidence des toxicités limitant la dose dans les 28 jours suivant la première perfusion, et événements indésirables sur 12 mois."
+ "critere": "Incidence des toxicités limitant la dose dans les 28 jours suivant la première perfusion, et événements indésirables sur 12 mois.",
+ "relu": "2026-11-27"
 }

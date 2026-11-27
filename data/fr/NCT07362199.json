@@ -7,8 +7,7 @@
  "interet": "L'étude pourrait donner un signal d'efficacité dans les PTI multi-traités. Sans bras comparateur et avec 20 patients, elle ne permettra pas de conclure sur la supériorité.",
  "profil": "Des adultes avec un PTI primaire de plus de 3 mois, en échec des corticoïdes et de traitements de seconde ligne, avec moins de 30 G/L de plaquettes.",
  "inclusion": [
-  "Âge ≥ 18 ans",
-  "PTI primaire depuis au moins 3 mois",
+  "Âge ≥ 18 ans, PTI primaire diagnostiqué depuis au moins 3 mois",
   "Échec des corticoïdes",
   "Échec de la seconde ligne (agoniste du récepteur de la TPO, rituximab/anti-CD38) ou échec ou rechute après splénectomie",
   "Plaquettes < 30 G/L à deux mesures espacées d'au moins 1 semaine",
@@ -32,5 +31,6 @@
   }
  ],
  "duree": "12 semaines pour le critère principal",
- "critere": "Taux de réponse globale à la semaine 12"
+ "critere": "Taux de réponse globale à la semaine 12",
+ "relu": "2026-11-27"
 }
