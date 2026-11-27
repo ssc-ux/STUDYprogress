@@ -16,15 +16,13 @@
   "Contraception efficace pendant 1 an"
  ],
  "exclusion": [
-  "Thrombopénie d'une autre cause (SMD, aplasie, PTT)",
-  "Myélofibrose ≥ 2 ou autre cause médullaire de thrombopénie",
+  "Thrombopénie d'une autre cause (SMD, aplasie, PTT) ou myélofibrose ≥ 2",
   "Allergie aux composants du produit cellulaire",
   "Insuffisance cardiaque NYHA III-IV, infarctus ou stent < 6 mois, arythmie ventriculaire",
   "Cancer dans les 3 ans (hors exceptions)",
   "Thrombose veineuse symptomatique dans les 6 mois ou anticoagulation en cours",
   "AVC ou crise comitiale dans les 6 mois",
-  "Rituximab dans les 24 semaines, immunoglobulines dans les 4 semaines",
-  "Hépatite B, vaccin vivant récent"
+  "Rituximab dans les 24 semaines, immunoglobulines dans les 4 semaines, hépatite B, vaccin vivant récent"
  ],
  "bras": [
   {
@@ -33,5 +31,6 @@
   }
  ],
  "duree": "Non précisé (évaluation de la toxicité à 28 jours)",
- "critere": "Incidence des événements indésirables liés au traitement et dose sûre d'une perfusion unique, jusqu'à 28 jours après la perfusion."
+ "critere": "Incidence des événements indésirables liés au traitement et dose sûre d'une perfusion unique, jusqu'à 28 jours après la perfusion.",
+ "relu": "2026-11-27"
 }

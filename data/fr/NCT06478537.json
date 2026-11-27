@@ -13,14 +13,13 @@
   "Consentement éclairé signé"
  ],
  "exclusion": [
-  "Âge > 50 ans",
-  "Contre-indication à l'aspirine",
-  "Antécédent de thrombose artérielle ou veineuse, thrombophilie",
-  "Facteurs de risque cardiovasculaire (hypertension, diabète, dyslipidémie)",
+  "Âge > 50 ans ou contre-indication à l'aspirine",
+  "Antécédent de thrombose artérielle ou veineuse, thrombophilie, facteurs de risque cardiovasculaire (hypertension, diabète, dyslipidémie)",
   "Cardiopathie récente, fibrillation atriale, allongement du QTc",
   "Anticoagulant ou antiagrégant en cours, œstrogènes ou contraceptif oral",
   "Cancer passé ou actuel, thrombopénie secondaire, myélofibrose ≥ 2",
-  "Insuffisance hépatique ou rénale, cirrhose, infection non contrôlée, hépatite B active"
+  "Insuffisance hépatique ou rénale, cirrhose ou hypertension portale",
+  "Infection non contrôlée, hépatite B active, hépatite C, VIH, syphilis, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -29,5 +28,6 @@
   }
  ],
  "duree": "Environ 3 ans",
- "critere": "Réponse prolongée hors traitement (plaquettes ≥ 50 G/L sans autre traitement spécifique ni saignement), à 3 ans."
+ "critere": "Réponse prolongée hors traitement (plaquettes ≥ 50 G/L sans autre traitement spécifique ni saignement), à 3 ans.",
+ "relu": "2026-11-27"
 }

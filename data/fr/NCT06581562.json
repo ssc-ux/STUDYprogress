@@ -16,7 +16,13 @@
   "Critères spécifiques à chacune des quatre maladies"
  ],
  "exclusion": [
-  "Non précisé dans l'extrait consulté du registre"
+  "Cyclophosphamide dans les 3 mois, traitement anti-lymphocytes B dans les 3 mois, ou thérapie cellulaire modifiée (CAR) antérieure",
+  "Hypersensibilité à l'un des produits (cyclophosphamide, fludarabine, rituximab, AB-101) ou réaction anaphylactique antérieure aux protéines murines ou humaines, au DMSO",
+  "Immunoglobulines ou plasmaphérèse dans les 6 mois, greffe d'organe ou de moelle (passée ou prévue)",
+  "Cancer passé ou actuel (hors exceptions listées), antécédent de néoplasie B",
+  "Cardiopathie cliniquement significative (angor instable ou infarctus < 6 mois, NYHA III-IV, QTcF > 470 ms)",
+  "Maladie pulmonaire significative, maladie instable ou non contrôlée, signes d'infection ou vaccination dans les 6 semaines",
+  "VIH, grossesse ou allaitement, abus d'alcool ou de drogues"
  ],
  "bras": [
   {
@@ -37,5 +43,6 @@
   }
  ],
  "duree": "104 semaines",
- "critere": "Fréquence des événements indésirables et des événements indésirables graves, et hospitalisations, sur 104 semaines"
+ "critere": "Fréquence des événements indésirables et des événements indésirables graves, et hospitalisations, sur 104 semaines",
+ "relu": "2026-11-27"
 }

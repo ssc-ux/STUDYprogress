@@ -17,13 +17,11 @@
  "exclusion": [
   "Autre affection neurologique ou musculosquelettique limitant la marche",
   "Cancer actif connu",
-  "Traitement antérieur par un inhibiteur du complément",
-  "Antécédent d'infection à méningocoque",
-  "Absence de vaccination antiméningococcique et antipneumococcique récente (non prévue)",
+  "Traitement antérieur par un inhibiteur du complément ou antécédent d'infection à méningocoque",
+  "Absence de vaccination antiméningococcique et antipneumococcique datant de moins de 5 ans (sauf vaccination avant le traitement), contre-indication ou refus de ces vaccins",
   "ALAT > 3 × LSN ou bilirubine > 2 × LSN",
   "Infection active ou récente, hépatite B/C, VIH, tuberculose active ou latente",
-  "Autre myopathie, chevauchement ou autre maladie auto-immune ou auto-inflammatoire",
-  "Asplénie, grossesse ou allaitement"
+  "Autre myopathie, chevauchement ou autre maladie auto-immune ou auto-inflammatoire, asplénie, grossesse ou allaitement"
  ],
  "bras": [
   {
@@ -32,5 +30,6 @@
   }
  ],
  "duree": "104 semaines",
- "critere": "Variation, entre le dépistage et la semaine 104, de l'échelle fonctionnelle IBM-FRS et de l'évaluation fonctionnelle physique sIFA."
+ "critere": "Variation, entre le dépistage et la semaine 104, de l'échelle fonctionnelle IBM-FRS et de l'évaluation fonctionnelle physique sIFA.",
+ "relu": "2026-11-27"
 }

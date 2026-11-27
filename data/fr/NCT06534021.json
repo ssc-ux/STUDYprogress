@@ -17,14 +17,12 @@
  ],
  "exclusion": [
   "Autre cancer primitif dans les 5 ans",
-  "Destruction hématopoïétique secondaire à une autre maladie",
-  "Maladie cardiaque dans les 3 mois, hypertension non contrôlée",
+  "Thrombopénie ou anémie secondaire à une autre maladie hématopoïétique",
+  "Maladie cardiaque dans les 3 mois ou hypertension non contrôlée",
   "Allergie à un composant du médicament",
-  "Infection nécessitant un traitement IV dans les 30 jours",
-  "Grossesse ou allaitement",
-  "Autre médicament expérimental dans les 30 jours ou 5 demi-vies",
-  "PTI : antécédent de thrombose ou myélofibrose ≥ 2",
-  "VIH, VHB ou VHC non contrôlés ou déficit immunitaire"
+  "Infection nécessitant un traitement IV dans les 30 jours, VIH, VHB ou VHC non contrôlés, déficit immunitaire",
+  "Grossesse ou allaitement, autre médicament expérimental dans les 30 jours ou 5 demi-vies",
+  "PTI : antécédent de thrombose ou myélofibrose ≥ 2"
  ],
  "bras": [
   {
@@ -37,5 +35,6 @@
   }
  ],
  "duree": "12 semaines",
- "critere": "Nombre de participants avec événements indésirables (CTCAE v5.0), jusqu'à 12 semaines."
+ "critere": "Nombre de participants avec événements indésirables (CTCAE v5.0), jusqu'à 12 semaines.",
+ "relu": "2026-11-27"
 }
