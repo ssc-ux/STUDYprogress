@@ -25,10 +25,14 @@ Site statique (GitHub Pages, branche `main`) qui répertorie les études cliniqu
    au format ci-dessous, avec le champ `h` recopié tel quel depuis `todo.json`. Si la fiche existe déjà
    (refaite parce que des résultats sont parus), la garder et seulement ajouter `resultats` et mettre à jour `h`. Paralléliser avec des
    sous-agents (lots d'environ 10 fiches).
-4. `OFFLINE=1 node scripts/update.mjs` pour intégrer les fiches.
-5. Vérifier que `data/studies.json` se charge (`node -e 'require("./data/studies.json")'`), puis
+4. Relecture : toutes les fiches sans champ `relu` (nouvelles ou refaites), en sous-agents par lots d'environ 40. Chaque fiche est
+   comparée à `data/s/<id>.json` lu en entier : bonne étude, population, bras (molécules, doses, rythme, nombre), durée, critère principal
+   et délai, critères (4 à 7, jamais « voir le registre » ni « non précisé » quand le registre les donne), titre < 110 caractères, chiffres
+   de `resultats` présents dans `results`/`abstracts`. Corriger directement (sans toucher `h` ni `date`) et ajouter `"relu": "AAAA-MM-JJ"`.
+5. `OFFLINE=1 node scripts/update.mjs` pour intégrer les fiches.
+6. Vérifier que `data/studies.json` se charge (`node -e 'require("./data/studies.json")'`), puis
    `git add -A && git commit -m "Mise à jour hebdomadaire des études (AAAA-MM-JJ)" && git push origin main`.
-6. Résumer en quelques lignes : nombre d'études, publications validées, nouvelles études françaises, changements de statut, fiches rédigées.
+7. Résumer en quelques lignes : nombre d'études, publications validées, nouvelles études françaises, changements de statut, fiches rédigées, fiches relues et corrections notables.
 
 ## Format d'une fiche `data/fr/<id>.json`
 
